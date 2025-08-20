@@ -1,5 +1,6 @@
 baseURL = "/"
-languageCode = "hr"
+languageCode = "en"
+
 title = "News Brief"
 paginate = 10
 enableRobotsTXT = true
