@@ -7,3 +7,32 @@
   font-size: 0.95rem;
   border-radius: 6px;
 }
+
+/* =Base */
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  color: #111;
+  line-height: 1.6;
+  background: #fff;
+}
+
+/* =Layout */
+.wrap { max-width: 900px; margin: 0 auto; padding: 0 16px; }
+.site-header { border-bottom: 1px solid #eee; padding: 16px 0; }
+.site-footer { border-top: 1px solid #eee; padding: 24px 0; color: #666; font-size: 0.95rem; }
+
+/* =Header */
+.brand { font-weight: 700; font-size: 20px; text-decoration: none; margin-right: 16px; }
+.nav a { margin-left: 12px; text-decoration: none; color: #333; }
+.nav a:hover { text-decoration: underline; }
+
+/* =Typography */
+h1,h2,h3 { line-height: 1.25; margin: 0 0 8px; }
+.muted { color: #666; font-size: 0.95rem; }
+
+/* =Posts */
+.post-card { padding: 16px 0; border-bottom: 1px solid #f0f0f0; }
+.post-content { margin-top: 16px; }
+.ad { border: 1px dashed #ddd; padding: 12px; text-align: center; margin: 24px 0; color:#777; font-size: 0.95rem; }
