@@ -1,62 +1,40 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if .Title }}{{ .Title }} – {{ end }}News Brief</title>
-  
-  <meta name="description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}Automatizirani pregled vijesti.{{ end }}">
-  <meta name="robots" content="index,follow">
-  <link rel="canonical" href="{{ .Permalink }}">
-   <link rel="stylesheet" href="/css/style.css">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ if .IsHome }}MetaAdvisor — Automated insights{{ else }}{{ .Title }} — MetaAdvisor{{ end }}</title>
+  <meta name="description" content="{{ site.Params.tagline }}">
+  <link rel="stylesheet" href="/css/style.css">
+
   {{ partial "analytics.html" . }}
 
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<meta property="og:site_name" content="MetaAdvisor.eu">
-<meta property="og:title" content="{{ if .Title }}{{ .Title }} – {{ end }}MetaAdvisor.eu">
-<meta property="og:description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}{{ site.Params.tagline }}{{ end }}">
-<meta property="og:image" content="{{ "og-image.jpg" | relURL }}">
-<meta name="twitter:card" content="summary_large_image">
-
- 
-
-
-
-  <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; margin:0; color:#111; }
-    header { padding: 24px 16px; border-bottom:1px solid #eee; }
-    header .wrap, main .wrap, footer .wrap { max-width: 900px; margin: 0 auto; }
-    a { color: inherit; text-decoration: none; }
-    h1,h2,h3 { line-height: 1.25; }
-    .post-card { padding:16px 0; border-bottom:1px solid #f0f0f0; }
-    .muted { color:#666; font-size: 0.95rem; }
-    .ad { border:1px dashed #ddd; padding:12px; text-align:center; margin: 24px 0; font-size:0.95rem; color:#777; }
-    footer { padding: 24px 16px; border-top:1px solid #eee; color:#666; font-size: 0.95rem; }
-  </style>
+  {# stranice mogu upisati dodatne <meta> tagove ovdje #}
+  {{ block "extra_head" . }}{{ end }}
 </head>
 <body>
-  <header>
-    <div class="wrap">
-      <a href="{{ "/" | relURL }}"><h1 style="margin:0;">News Brief</h1></a>
-<div class="muted">{{ site.Params.tagline }}</div>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/">MetaAdvisor</a>
+    <nav class="nav">
+      <a href="/news/">News</a>
+      <a href="/about/">About</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+  </div>
+</header>
 
-    </div>
-  </header>
-  <main>
-    <div class="wrap">
-      {{ block "main" . }}{{ end }}
-    </div>
-  </main>
-  <footer>
-  <div class="wrap" style="text-align:center; font-size:0.9rem; color:#666; padding:24px 16px; border-top:1px solid #eee;">
-    <p>© {{ now.Format "2006" }} <strong>MetaAdvisor.eu</strong> – Automated summaries of news and insights from publicly available sources.</p>
-    <p>
-      <a href="/about" style="margin:0 8px; color:#666; text-decoration:none;">About</a> | 
-      <a href="/contact" style="margin:0 8px; color:#666; text-decoration:none;">Contact</a> | 
-      <a href="/privacy" style="margin:0 8px; color:#666; text-decoration:none;">Privacy</a>
-    </p>
+<main class="site-main">
+  <div class="wrap">
+    {{ block "main" . }}{{ end }}
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>© {{ now.Format "2006" }} <strong>MetaAdvisor.eu</strong> — Automated summaries of news and insights from publicly available sources.</p>
+    <p><a href="/about/">About</a> · <a href="/contact/">Contact</a> · <a href="/privacy/">Privacy</a></p>
   </div>
 </footer>
-
 </body>
 </html>
