@@ -1,10 +1,13 @@
 {{ define "main" }}
-  <article>
-    <h1>{{ .Title }}</h1>
-    <div class="muted">{{ .Date.Format "2006-01-02" }}</div>
-    {{ partial "ads/in-article.html" . }}
-    <div>
-      {{ .Content }}
-    </div>
-  </article>
+<article>
+  <h1>{{ .Title }}</h1>
+  <div class="muted">{{ .Date.Format "2006-01-02" }}</div>
+
+  <div>
+    {{ .Content }}
+  </div>
+
+  <!-- Ovdje dodaješ oglas -->
+  {{ partial "ads/in-article.html" . }}
+</article>
 {{ end }}
