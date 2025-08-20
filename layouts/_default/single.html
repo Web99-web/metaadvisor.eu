@@ -1,13 +1,25 @@
+{{ define "extra_head" }}
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+  <meta property="og:site_name" content="MetaAdvisor.eu">
+  <meta property="og:title" content="{{ if .Title }}{{ .Title }} – {{ end }}MetaAdvisor.eu">
+  <meta property="og:description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}{{ site.Params.tagline }}{{ end }}">
+  <meta property="og:image" content="{{ "og-image.jpg" | relURL }}">
+  <meta name="twitter:card" content="summary_large_image">
+{{ end }}
+
 {{ define "main" }}
-<article>
+<article class="post">
   <h1>{{ .Title }}</h1>
   <div class="muted">{{ .Date.Format "2006-01-02" }}</div>
 
-  <div>
+  <div class="post-content">
     {{ .Content }}
   </div>
 
-  <!-- Ovdje dodaješ oglas -->
   {{ partial "ads/in-article.html" . }}
 </article>
 {{ end }}
