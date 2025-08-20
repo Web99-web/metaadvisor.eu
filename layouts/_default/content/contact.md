@@ -6,4 +6,4 @@ date: 2025-08-20
 ## Contact
 
 For inquiries or suggestions, email:
-**zagrebrental2000@gmail.com**
+**webdesign.marketing99@gmail.com**
