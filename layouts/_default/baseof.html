@@ -8,6 +8,14 @@
   <meta name="robots" content="index,follow">
   <link rel="canonical" href="{{ .Permalink }}">
   {{ partial "analytics.html" . }}
+
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta property="og:site_name" content="MetaAdvisor.eu">
+<meta property="og:title" content="{{ if .Title }}{{ .Title }} – {{ end }}MetaAdvisor.eu">
+<meta property="og:description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}{{ site.Params.tagline }}{{ end }}">
+<meta property="og:image" content="{{ "og-image.jpg" | relURL }}">
+<meta name="twitter:card" content="summary_large_image">
+
   <style>
     body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; margin:0; color:#111; }
     header { padding: 24px 16px; border-bottom:1px solid #eee; }
@@ -24,7 +32,8 @@
   <header>
     <div class="wrap">
       <a href="{{ "/" | relURL }}"><h1 style="margin:0;">News Brief</h1></a>
-      <div class="muted">Automated summary of news from publicly available sources.</div>
+<div class="muted">{{ site.Params.tagline }}</div>
+
     </div>
   </header>
   <main>
