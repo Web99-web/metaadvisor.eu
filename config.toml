@@ -1,0 +1,9 @@
+baseURL = "/"
+languageCode = "hr"
+title = "News Brief"
+paginate = 10
+enableRobotsTXT = true
+disableKinds = ["taxonomy","taxonomyTerm","RSS"]
+
+[params]
+  showAds = true

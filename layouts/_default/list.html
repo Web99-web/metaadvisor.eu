@@ -1,0 +1,15 @@
+{{ define "main" }}
+  {{ $paginator := .Paginate (where .Pages "Type" "in" (slice "posts" "news")) }}
+  {{ range $paginator.Pages }}
+    <article class="post-card">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <div class="muted">{{ .Date.Format "2006-01-02" }}</div>
+      {{ with .Params.summary }}
+        <p>{{ . }}</p>
+      {{ else }}
+        {{ with .Summary }}<p>{{ . | plainify }}</p>{{ end }}
+      {{ end }}
+    </article>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

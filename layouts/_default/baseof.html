@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .Title }}{{ .Title }} – {{ end }}News Brief</title>
+  <meta name="description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}Automatizirani pregled vijesti.{{ end }}">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ partial "analytics.html" . }}
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; margin:0; color:#111; }
+    header { padding: 24px 16px; border-bottom:1px solid #eee; }
+    header .wrap, main .wrap, footer .wrap { max-width: 900px; margin: 0 auto; }
+    a { color: inherit; text-decoration: none; }
+    h1,h2,h3 { line-height: 1.25; }
+    .post-card { padding:16px 0; border-bottom:1px solid #f0f0f0; }
+    .muted { color:#666; font-size: 0.95rem; }
+    .ad { border:1px dashed #ddd; padding:12px; text-align:center; margin: 24px 0; font-size:0.95rem; color:#777; }
+    footer { padding: 24px 16px; border-top:1px solid #eee; color:#666; font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <a href="{{ "/" | relURL }}"><h1 style="margin:0;">News Brief</h1></a>
+      <div class="muted">Automatizirani pregled vijesti iz javno dostupnih izvora.</div>
+    </div>
+  </header>
+  <main>
+    <div class="wrap">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </main>
+  <footer>
+    <div class="wrap">
+      © {{ now.Format "2006" }} News Brief. Automatizirani pregled vijesti iz javno dostupnih izvora.
+    </div>
+  </footer>
+</body>
+</html>
