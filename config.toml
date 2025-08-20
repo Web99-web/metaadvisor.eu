@@ -1,10 +1,9 @@
 baseURL = "/"
 languageCode = "en"
-
-title = "News Brief"
+title = "MetaAdvisor.eu"
 paginate = 10
 enableRobotsTXT = true
-disableKinds = ["taxonomy","taxonomyTerm","RSS"]
 
 [params]
-  showAds = true
+tagline = "Automated summaries of news from publicly available sources."
+showAds = true
