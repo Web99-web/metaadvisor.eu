@@ -5,11 +5,13 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ if .IsHome }}MetaAdvisor — Automated insights{{ else }}{{ .Title }} — MetaAdvisor{{ end }}</title>
   <meta name="description" content="{{ site.Params.tagline }}">
+
+  <!-- VAŽNO: CSS -->
   <link rel="stylesheet" href="/css/style.css">
 
   {{ partial "analytics.html" . }}
 
-  {# stranice mogu upisati dodatne <meta> tagove ovdje #}
+  {{/* stranice mogu ubaciti dodatne <meta> tagove ovdje */}}
   {{ block "extra_head" . }}{{ end }}
 </head>
 <body>
