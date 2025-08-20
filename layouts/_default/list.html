@@ -1,33 +1,24 @@
 {{ define "main" }}
-<main>
   <h1>{{ if .Title }}{{ .Title }}{{ else }}News{{ end }}</h1>
 
-  {{ if .Paginator.Pages }}
-    <ul>
-      {{ range .Paginator.Pages }}
-        <li style="margin: 0 0 1.2rem 0;">
-          <a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a>
-          <div class="muted" style="font-size:.9rem;">
-            {{ .Date.Format "2006-01-02" }}
-          </div>
+  {{ $p := .Paginate (.Pages.ByDate.Reverse) }}
+  {{ range $p.Pages }}
+    <article class="post-card">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <div class="muted">{{ .Date.Format "2006-01-02" }}</div>
 
-          {{ with .Params.summary }}
-            <div style="margin-top:.4rem;">{{ . }}</div>
-          {{ end }}
-
-          {{ with .Params.source }}
-            <div style="margin-top:.3rem;font-size:.9rem;">
-              Source: {{ . }}
-              {{ with $.Params.link }} – <a href="{{ . }}" target="_blank" rel="noopener">original</a>{{ end }}
-            </div>
-          {{ end }}
-        </li>
+      {{ with .Params.summary }}
+        <p class="summary">{{ . }}</p>
       {{ end }}
-    </ul>
 
-    {{ template "_internal/pagination.html" . }}
-  {{ else }}
-    <p>No posts yet. Add files in <code>content/news/</code>.</p>
+      {{ with .Params.source }}
+        <p class="muted">
+          Source: {{ . }}
+          {{ with $.Params.link }} — <a href="{{ . }}" target="_blank" rel="noopener">original</a>{{ end }}
+        </p>
+      {{ end }}
+    </article>
   {{ end }}
-</main>
+
+  {{ template "_internal/pagination.html" . }}
 {{ end }}
