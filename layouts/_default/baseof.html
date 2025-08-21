@@ -4,19 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ if .IsHome }}MetaAdvisor — Automated insights{{ else }}{{ .Title }} — MetaAdvisor{{ end }}</title>
-  <meta name="description" content="{{ site.Params.tagline }}">
-
-  <!-- VAŽNO: CSS -->
+  <meta name="description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}Automated summaries of news and insights from publicly available sources.{{ end }}">
   <link rel="stylesheet" href="/css/style.css">
-
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   {{ partial "analytics.html" . }}
-
-  {{/* stranice mogu ubaciti dodatne <meta> tagove ovdje */}}
-  {{ block "extra_head" . }}{{ end }}
 </head>
 <body>
+
 <header class="site-header">
-  <div class="wrap">
+  <div class="wrap" style="display:flex;justify-content:space-between;align-items:center;">
     <a class="brand" href="/">MetaAdvisor</a>
     <nav class="nav">
       <a href="/news/">News</a>
@@ -33,10 +29,11 @@
 </main>
 
 <footer class="site-footer">
-  <div class="wrap">
+  <div class="wrap" style="text-align:center">
     <p>© {{ now.Format "2006" }} <strong>MetaAdvisor.eu</strong> — Automated summaries of news and insights from publicly available sources.</p>
     <p><a href="/about/">About</a> · <a href="/contact/">Contact</a> · <a href="/privacy/">Privacy</a></p>
   </div>
 </footer>
+
 </body>
 </html>
