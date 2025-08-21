@@ -1,24 +1,25 @@
 {{ define "main" }}
-  <h1>{{ if .Title }}{{ .Title }}{{ else }}News{{ end }}</h1>
+  <h1 style="margin:10px 0 14px;">{{ if .Title }}{{ .Title }}{{ else }}News{{ end }}</h1>
 
-  {{ $p := .Paginate (.Pages.ByDate.Reverse) }}
-  {{ range $p.Pages }}
-    <article class="post-card">
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      <div class="muted">{{ .Date.Format "2006-01-02" }}</div>
-
-      {{ with .Params.summary }}
-        <p class="summary">{{ . }}</p>
-      {{ end }}
-
-      {{ with .Params.source }}
-        <p class="muted">
-          Source: {{ . }}
-          {{ with $.Params.link }} — <a href="{{ . }}" target="_blank" rel="noopener">original</a>{{ end }}
-        </p>
-      {{ end }}
-    </article>
-  {{ end }}
+  <div class="grid">
+    {{ range .Pages.ByDate.Reverse }}
+      <a class="card" href="{{ .RelPermalink }}">
+        {{ with .Params.image }}
+          <img src="{{ . | relURL }}" alt="">
+        {{ end }}
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="muted">{{ .Date.Format "2006-01-02" }}</span>
+            {{ with .Params.category }}
+              <span class="badge {{ . | urlize }}">{{ . }}</span>
+            {{ end }}
+          </div>
+          <h2 class="card-title">{{ .Title }}</h2>
+          {{ with .Summary }}<p class="card-summary">{{ . | plainify }}</p>{{ end }}
+        </div>
+      </a>
+    {{ end }}
+  </div>
 
   {{ template "_internal/pagination.html" . }}
 {{ end }}
