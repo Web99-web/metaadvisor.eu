@@ -1,128 +1,125 @@
-#!/usr/bin/env python3
-import hashlib, json, re, time, os, pathlib, textwrap, datetime
-import feedparser, requests
+# scraper.py
+# Minimal scraper: uzme listu URL-ova, izvuče meta title/description/image
+# i generira Hugo .md postove u content/news/
+
 from bs4 import BeautifulSoup
+import requests, re, os, datetime, unicodedata
+from urllib.parse import urlparse
 
-# ======= KONFIG =======
-SOURCES = [
-  # dodaš/mičeš kako želiš – počnimo s par crypto/tech vijesti s dobrim RSS-om
-  {"name": "Reuters Crypto", "rss": "https://feeds.reuters.com/reuters/technologyNews"},
-  {"name": "CoinDesk",       "rss": "https://www.coindesk.com/arc/outboundfeeds/rss/"}
+# 1) URL-ovi za probu (zamijeni/održi listu kakvu želiš)
+URLS = [
+    # Primjeri (stavi stvarne linkove koje smiješ scrapati):
+    "https://www.reuters.com/markets/asia/bitcoin-surges-.../",     # zamijeni stvarnim
+    "https://www.coindesk.com/markets/2025/08/20/bitcoin-.../",    # zamijeni stvarnim
 ]
-OUT_DIR = "content/en/news"
-DB_FILE = ".scrape_seen.json"
-USER_AGENT = "MetaAdvisorBot/1.0 (+https://metaadvisor.eu)"
-MAX_ITEMS_PER_RUN = 8  # da ne zatrpamo
-TIMEZONE = "UTC"       # po želji promijeni
 
-# jednostavna kategorizacija po ključnim riječima
-def guess_category(title):
-    t = title.lower()
-    if any(k in t for k in ["bitcoin","btc","crypto","ethereum","eth","solana","token"]):
+# 2) Folder gdje pišemo .md fajlove
+OUT_DIR = "content/news"
+
+# 3) Pomoćne funkcije
+def slugify(value: str) -> str:
+    value = unicodedata.normalize('NFKD', value).encode('ascii', 'ignore').decode('ascii')
+    value = re.sub(r'[^a-zA-Z0-9\- ]+', '', value).strip().lower()
+    value = re.sub(r'\s+', '-', value)
+    return value or "post"
+
+def get_meta(soup, *names):
+    # traži og:*, twitter:*, name=description...
+    for name in names:
+        # property (og:title, og:description...)
+        tag = soup.find("meta", attrs={"property": name})
+        if tag and tag.get("content"):
+            return tag["content"].strip()
+        # name (description, twitter:title...)
+        tag = soup.find("meta", attrs={"name": name})
+        if tag and tag.get("content"):
+            return tag["content"].strip()
+    return None
+
+def pick_category(tags_lower):
+    # vrlo grubo: pogledaj riječi i predloži kategoriju
+    if any(t in tags_lower for t in ("bitcoin", "crypto", "blockchain", "eth", "btc")):
         return "crypto"
-    if any(k in t for k in ["ai","artificial intelligence","openai","model","gpt"]):
-        return "ai"
     return "news"
 
-def slugify(s):
-    s = re.sub(r"[^a-zA-Z0-9\- ]", "", s).strip().lower()
-    s = re.sub(r"\s+", "-", s)
-    return s[:80] or hashlib.md5(s.encode()).hexdigest()[:8]
-
-def load_db():
-    if os.path.exists(DB_FILE):
-        return json.load(open(DB_FILE, "r", encoding="utf-8"))
-    return {"seen": []}
-
-def save_db(db):
-    json.dump(db, open(DB_FILE, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-
-def fetch_meta(url):
-    try:
-        resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=12)
-        resp.raise_for_status()
-    except Exception:
-        return {}
-    soup = BeautifulSoup(resp.text, "html.parser")
-    def meta(property=None, name=None):
-        if property:
-            tag = soup.find("meta", attrs={"property": property})
-            if tag and tag.get("content"): return tag["content"].strip()
-        if name:
-            tag = soup.find("meta", attrs={"name": name})
-            if tag and tag.get("content"): return tag["content"].strip()
-        return None
-    og_title = meta(property="og:title") or meta(name="twitter:title")
-    og_desc  = meta(property="og:description") or meta(name="description") or ""
-    og_img   = meta(property="og:image") or meta(name="twitter:image")
-    return {"title": og_title, "description": og_desc, "image": og_img}
-
-def write_post(item, meta, source_name):
-    pathlib.Path(OUT_DIR).mkdir(parents=True, exist_ok=True)
-    title = meta.get("title") or item.get("title") or "Untitled"
-    summary = meta.get("description") or item.get("summary","")
-    image_url = meta.get("image") or ""
-    source_url = item.get("link")
-    date = item.get("published", "") or item.get("updated","")
-    if not date:
-        date = datetime.datetime.utcnow().isoformat() + "Z"
-    # ISO format normalizacija
-    try:
-        dt = datetime.datetime(*item.published_parsed[:6], tzinfo=datetime.timezone.utc)
-    except Exception:
-        dt = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
-    date_iso = dt.isoformat().replace("+00:00","Z")
-
-    category = guess_category(title)
+def guess_tags(text: str):
+    text = text.lower()
     tags = []
-    if category == "crypto":
-        if "bitcoin" in title.lower(): tags += ["bitcoin"]
-        tags += ["crypto"]
-    elif category == "ai":
-        tags += ["ai"]
+    for kw in ["bitcoin", "crypto", "ethereum", "price", "market", "blockchain", "ai", "technology"]:
+        if kw in text:
+            tags.append(kw)
+    # unikati + max 6
+    return sorted(list(set(tags)))[:6]
 
-    slug = f"{dt.date().isoformat()}-{slugify(title)}"
-    path = os.path.join(OUT_DIR, f"{slug}.md")
+def fetch(url: str):
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; MetaAdvisorBot/0.1)"}
+    r = requests.get(url, headers=headers, timeout=20)
+    r.raise_for_status()
+    return r.text
 
-    fm = f"""---
-title: "{title.replace('"','\\\"')}"
-date: {date_iso}
-summary: "{summary.replace('"','\\\"')[:240]}"
-category: "{category}"
-tags: {json.dumps(tags)}
-image_url: "{image_url or ''}"
-image_alt: "{title.replace('"','\\\"')}"
-source: "{source_name}"
-source_url: "{source_url}"
----
-"""
+def scrape_one(url: str):
+    try:
+        html = fetch(url)
+        soup = BeautifulSoup(html, "html.parser")
 
-    body = "Auto-generated summary based on publicly available sources."
-    open(path, "w", encoding="utf-8").write(fm + "\n" + body + "\n")
-    return path
+        # title
+        title = (get_meta(soup, "og:title", "twitter:title") 
+                 or (soup.title.string.strip() if soup.title else None)
+                 or "Untitled")
+        # description/summary
+        summary = get_meta(soup, "og:description", "description", "twitter:description") or ""
+        # image
+        image_url = get_meta(soup, "og:image", "twitter:image")
+
+        # source host (npr. reuters.com)
+        host = urlparse(url).netloc
+
+        # guess tags/category
+        joined_text = " ".join([title, summary, host])
+        tags = guess_tags(joined_text)
+        category = pick_category(" ".join(tags))
+
+        # datum danas (možeš promijeniti na datum iz članka ako ga izvučeš)
+        today = datetime.date.today().isoformat()
+        slug = slugify(title)
+        filename = f"{today}-{slug}.md"
+        out_path = os.path.join(OUT_DIR, filename)
+
+        if not os.path.isdir(OUT_DIR):
+            os.makedirs(OUT_DIR, exist_ok=True)
+
+        if os.path.exists(out_path):
+            print(f"[skip] Already exists: {out_path}")
+            return
+
+        front_matter = []
+        front_matter.append("---")
+        front_matter.append(f'title: "{title.replace(\'"\', "\'")}"')
+        front_matter.append(f"date: {today}")
+        if summary:
+            front_matter.append(f'summary: "{summary.replace(\'"\', "\'')}"')
+        front_matter.append(f'category: "{category}"')
+        if tags:
+            front_matter.append("tags: [" + ", ".join([f'"{t}"' for t in tags]) + "]")
+        if image_url:
+            front_matter.append(f'image_url: "{image_url}"')
+        front_matter.append(f'source: "{host}"')
+        front_matter.append(f'source_url: "{url}"')
+        front_matter.append("---\n")
+
+        body = "Auto-imported summary from source. Edit/expand content if needed.\n"
+
+        with open(out_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(front_matter))
+            f.write(body)
+
+        print(f"[ok] Wrote: {out_path}")
+    except Exception as e:
+        print(f"[err] {url} -> {e}")
 
 def main():
-    db = load_db()
-    new_count = 0
-
-    for src in SOURCES:
-        feed = feedparser.parse(src["rss"])
-        for entry in feed.entries[:12]:
-            link = entry.get("link")
-            if not link: continue
-            uid = hashlib.md5(link.encode()).hexdigest()
-            if uid in db["seen"]: continue
-            meta = fetch_meta(link)
-            path = write_post(entry, meta, src["name"])
-            db["seen"].append(uid)
-            new_count += 1
-            if new_count >= MAX_ITEMS_PER_RUN:
-                break
-        if new_count >= MAX_ITEMS_PER_RUN:
-            break
-
-    save_db(db)
-    print(f"Generated {new_count} posts.")
+    for u in URLS:
+        scrape_one(u)
 
 if __name__ == "__main__":
     main()
