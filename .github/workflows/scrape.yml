@@ -2,24 +2,27 @@ name: Run Scraper
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # svaki dan u 06:00 UTC
-  workflow_dispatch:       # ručno pokretanje iz GitHub Actions taba
+    - cron: "0 6 * * *"      # svaki dan u 06:00 UTC
+  workflow_dispatch:          # ručno pokretanje
+
+permissions:
+  contents: write             # da smije commit/push
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 feedparser
 
       - name: Run scraper
         run: |
@@ -29,6 +32,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add content/news || true
+          git add content || true
           git commit -m "Update scraped news" || echo "No changes"
           git push
