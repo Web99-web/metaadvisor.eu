@@ -5,6 +5,41 @@ import os, re, json, hashlib, datetime, pathlib
 import requests, feedparser
 from bs4 import BeautifulSoup
 
+
+def extract_article_text(html: str, min_len=400, max_len=1800) -> str:
+    soup = BeautifulSoup(html, "html.parser")
+
+    # 1) ako postoji <article>, uzmi njegove <p>
+    art = soup.find("article")
+    candidates = []
+    if art:
+        candidates.append(art)
+
+    # 2) fallback: div s izglednim klasama
+    if not candidates:
+        for sel in ["main", "[role=main]", ".article", ".post", ".content", ".article-content", ".StoryBodyCompanionColumn"]:
+            found = soup.select_one(sel)
+            if found:
+                candidates.append(found)
+                break
+
+    # 3) fallback: cijela stranica
+    if not candidates:
+        candidates.append(soup)
+
+    # Uzmi sve <p> iz prvog kandidata i spoji
+    paras = [p.get_text(" ", strip=True) for p in candidates[0].find_all("p")]
+    text = "\n\n".join([p for p in paras if len(p) > 40])
+
+    # ograniči duljinu (ne želimo beskonačne članke)
+    if len(text) < min_len:
+        # ako je premalo, probaj skupiti još s cijele stranice
+        more = [p.get_text(" ", strip=True) for p in soup.find_all("p")]
+        text = "\n\n".join([p for p in more if len(p) > 40])
+
+    text = text[:max_len].rsplit(" ", 1)[0]  # ne presijecaj riječ
+    return text or "Auto-imported summary based on publicly available sources."
+
 # ====== KONFIG ======
 OUT_DIR = os.path.join("content", "news")  # kod tebe je content/news
 DB_FILE = ".scrape_seen.json"              # zapisujemo što je već viđeno
