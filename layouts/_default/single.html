@@ -7,17 +7,10 @@
       {{ with .Params.category }} · <a href="/categories/{{ . | urlize }}/">{{ . }}</a>{{ end }}
     </div>
 
-    {{/* ---- HERO IMAGE (image or image_url) ---- */}}
-    {{ $src := "" }}
-    {{ with .Params.image }}        {{ $src = . }}{{ end }}
-    {{ if and (eq $src "") .Params.image_url }}{{ $src = .Params.image_url }}{{ end }}
-    {{ if ne $src "" }}
+    {{ $hero := or .Params.image_url .Params.image }}
+    {{ if $hero }}
       <figure class="hero">
-        {{ if hasPrefix $src "http" }}
-          <img src="{{ $src | safeURL }}" alt="{{ .Params.image_alt }}">
-        {{ else }}
-          <img src="{{ $src | relURL }}" alt="{{ .Params.image_alt }}">
-        {{ end }}
+        <img src="{{ $hero | relURL }}" alt="{{ .Params.image_alt }}">
       </figure>
     {{ end }}
   </header>
@@ -27,19 +20,16 @@
   </div>
 
   {{ with .Params.source }}
-    <p class="muted" style="margin-top:16px;">
-      Source: {{ . }}{{ with $.Params.source_url }} — <a href="{{ . }}" target="_blank" rel="noopener">original</a>{{ end }}
+    <p class="muted" style="margin-top:16px">
+      Source: {{ . }}
+      {{ with $.Params.source_url }} — <a href="{{ . }}" rel="noopener nofollow" target="_blank">original</a>{{ end }}
     </p>
   {{ end }}
 
   {{ with .Params.tags }}
     <ul class="tags">
-      {{ range . }}
-        <li><a href="/tags/{{ . | urlize }}/">#{{ . }}</a></li>
-      {{ end }}
+      {{ range . }}<li><a href="/tags/{{ . | urlize }}/">#{{ . }}</a></li>{{ end }}
     </ul>
   {{ end }}
-
-  {{ partial "ad.html" . }}
 </article>
 {{ end }}
