@@ -2,6 +2,9 @@
 # Minimal scraper: uzme listu URL-ova, izvuče meta title/description/image
 # i generira Hugo .md postove u content/news/
 
+OUT_DIR = os.path.join("content", "news")
+
+
 from bs4 import BeautifulSoup
 import requests, re, os, datetime, unicodedata
 from urllib.parse import urlparse
