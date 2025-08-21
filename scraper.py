@@ -145,6 +145,8 @@ def write_post(item: dict, meta: dict, source_name: str) -> str:
     front.append("---")
 
     body = "Auto-imported summary based on publicly available sources."
+    body_html = requests.get(source_url, headers={"User-Agent": USER_AGENT}, timeout=15).text
+    body = extract_article_text(body_html)
 
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(front) + "\n\n" + body + "\n")
