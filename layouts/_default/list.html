@@ -2,20 +2,15 @@
   <h1 style="margin:10px 0 14px;">{{ if .Title }}{{ .Title }}{{ else }}News{{ end }}</h1>
 
   <div class="grid">
-    {{ range .Pages.ByDate.Reverse }}
+    {{ $p := .Paginate (.Pages.ByDate.Reverse) }}
+    {{ range $p.Pages }}
       <a class="card" href="{{ .RelPermalink }}">
-        {{/* ---- IMAGE (prefers .Params.image, else .Params.image_url) ---- */}}
-        {{ $src := "" }}
-        {{ with .Params.image }}        {{ $src = . }}{{ end }}
-        {{ if and (eq $src "") .Params.image_url }}{{ $src = .Params.image_url }}{{ end }}
-        {{ if ne $src "" }}
-          {{ if hasPrefix $src "http" }}
-            <img src="{{ $src | safeURL }}" alt="{{ .Params.image_alt }}">
-          {{ else }}
-            <img src="{{ $src | relURL }}" alt="{{ .Params.image_alt }}">
-          {{ end }}
+        {{ $img := or .Params.image_url .Params.image }}
+        {{ if $img }}
+          <img src="{{ $img | relURL }}" alt="">
+        {{ else }}
+          <img src="/images/placeholder.jpg" alt="">
         {{ end }}
-
         <div class="card-body">
           <div class="card-meta">
             <span class="muted">{{ .Date.Format "2006-01-02" }}</span>
