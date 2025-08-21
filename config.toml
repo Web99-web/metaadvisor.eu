@@ -5,5 +5,9 @@ paginate = 10
 enableRobotsTXT = true
 
 [params]
-tagline = "Automated summaries of news from publicly available sources."
-showAds = true
+  tagline = "Automated summaries of news from publicly available sources."
+  showAds = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
