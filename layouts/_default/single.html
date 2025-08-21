@@ -1,22 +1,38 @@
 {{ define "main" }}
-  <article>
+<article class="post">
+  <header class="post-head">
     <h1>{{ .Title }}</h1>
 
-    <div class="article-meta">
-      {{ .Date.Format "2006-01-02" }}
-      {{ with .Params.category }} · <span class="badge {{ . | urlize }}">{{ . }}</span>{{ end }}
+    <div class="meta">
+      <span>{{ .Date.Format "2006-01-02" }}</span>
+      {{ with .Params.category }} · <a href="/categories/{{ . | urlize }}/">{{ . }}</a>{{ end }}
     </div>
 
     {{ with .Params.image }}
-      <div class="hero"><img src="{{ . | relURL }}" alt=""></div>
+      <figure class="hero">
+        <img src="{{ . | relURL }}" alt="{{ $.Params.image_alt }}">
+      </figure>
     {{ end }}
+  </header>
 
-    {{ partial "ad.html" . }}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
 
-    <div class="article-content">
-      {{ .Content }}
-    </div>
+  {{ with .Params.source }}
+    <p class="muted" style="margin-top:16px;">
+      Source: {{ . }}{{ with $.Params.source_url }} — <a href="{{ . }}" target="_blank" rel="noopener">original</a>{{ end }}
+    </p>
+  {{ end }}
 
-    {{ partial "ad.html" . }}
-  </article>
+  {{ with .Params.tags }}
+    <ul class="tags">
+      {{ range . }}
+        <li><a href="/tags/{{ . | urlize }}/">#{{ . }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ partial "ads/ad.html" . }}
+</article>
 {{ end }}
