@@ -2,15 +2,22 @@
 <article class="post">
   <header class="post-head">
     <h1>{{ .Title }}</h1>
-
     <div class="meta">
       <span>{{ .Date.Format "2006-01-02" }}</span>
       {{ with .Params.category }} · <a href="/categories/{{ . | urlize }}/">{{ . }}</a>{{ end }}
     </div>
 
-    {{ with .Params.image }}
+    {{/* ---- HERO IMAGE (image or image_url) ---- */}}
+    {{ $src := "" }}
+    {{ with .Params.image }}        {{ $src = . }}{{ end }}
+    {{ if and (eq $src "") .Params.image_url }}{{ $src = .Params.image_url }}{{ end }}
+    {{ if ne $src "" }}
       <figure class="hero">
-        <img src="{{ . | relURL }}" alt="{{ $.Params.image_alt }}">
+        {{ if hasPrefix $src "http" }}
+          <img src="{{ $src | safeURL }}" alt="{{ .Params.image_alt }}">
+        {{ else }}
+          <img src="{{ $src | relURL }}" alt="{{ .Params.image_alt }}">
+        {{ end }}
       </figure>
     {{ end }}
   </header>
@@ -33,6 +40,6 @@
     </ul>
   {{ end }}
 
-  {{ partial "ads/ad.html" . }}
+  {{ partial "ad.html" . }}
 </article>
 {{ end }}
