@@ -1,0 +1,19 @@
+{{ define "main" }}
+  {{ $news := .Site.GetPage "section" "news" }}
+  <h1>News</h1>
+  <div class="grid">
+    {{ range first 8 $news.Pages.ByDate.Reverse }}
+      <a class="card" href="{{ .RelPermalink }}">
+        {{ with .Params.image }}<img src="{{ . | relURL }}" alt="">{{ end }}
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="muted">{{ .Date.Format "2006-01-02" }}</span>
+            {{ with .Params.category }}<span class="badge {{ . | urlize }}">{{ . }}</span>{{ end }}
+          </div>
+          <h2 class="card-title">{{ .Title }}</h2>
+          {{ with .Summary }}<p class="card-summary">{{ . | plainify }}</p>{{ end }}
+        </div>
+      </a>
+    {{ end }}
+  </div>
+{{ end }}
