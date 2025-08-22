@@ -7,12 +7,17 @@
       {{ with .Params.category }} · <a href="/categories/{{ . | urlize }}/">{{ . }}</a>{{ end }}
     </div>
 
-    {{ $hero := or .Params.image_url .Params.image }}
-    {{ if $hero }}
-      <figure class="hero">
-        <img src="{{ $hero | relURL }}" alt="{{ .Params.image_alt }}">
-      </figure>
-    {{ end }}
+   {{ $hero := or .Params.image_url .Params.image }}
+{{ if $hero }}
+  {{ $src := $hero }}
+  {{ if not (hasPrefix $hero "http") }}
+    {{ $src = $hero | relURL }}
+  {{ end }}
+  <figure class="hero">
+    <img src="{{ $src }}" alt="{{ .Params.image_alt }}">
+  </figure>
+{{ end }}
+
   </header>
 
   <div class="post-content">
