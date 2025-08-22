@@ -21,7 +21,7 @@ Sobald die böswillige Übertragung durchgeführt wurde, begannen die Gelder ihr
 
 Der Hack ereignete sich genau ein Jahr nach dem Diebstahl von Genesis Creditor von 243 Millionen US -Dollar, einem wegweisenden Ereignis, bei dem Wellen in der Branche geschickt und im Mai zu 12 Personen in Kalifornien verhaftet wurden.
 
-Oliver Knight ist Co-Leiter von Coindesk Data Tokens und Data Team.Bevor er 2022 zu Coindesk kam, war Oliver drei Jahre als Chief Reporter bei Coin Rivet.Er begann 2013, in Bitcoin zu investieren und verbrachte einen Zeitraum seiner Karriere in einem Markt, das in Großbritannien hergestellt wurde.Er hat derzeit keine Krypto -Bestandteile.
+Oliver Knight ist Co-Leiter von Coindesk Data Tokens und Data Team. Bevor er 2022 zu Coindesk kam, war Oliver drei Jahre als Chief Reporter bei Coin Rivet. Er begann 2013, in Bitcoin zu investieren und verbrachte einen Zeitraum seiner Karriere in einem Markt, das in Großbritannien hergestellt wurde. Er hat derzeit keine Krypto -Bestandteile.
 
 Japans SBI Holdings schließt sich mit einem Joint Venture von Startale -Starts an.
 

@@ -18,12 +18,12 @@ Die Zulassung ist ein erheblicher Schritt in der EU -Strategie von Gemini, sodas
 
 Die in diesem Jahr in Kraft getretenen Europas Märkte in Krypto-Assets (MICA) ist das erste regionale Krypto-Regelbuch der EU, das zur Harmonisierung der Digital Asset-Überwachung in den Mitgliedstaaten und den in diesem Sektor tätigen Unternehmensklarheit konzipiert wurde.
 
-Gemini hat seine regulatorische Basis in der Region stetig aufgebaut.Im Mai sicherte sich das Unternehmen eine Märkte in der Richtlinie der Finanzinstrumente (MIFID II), die die Anbietung von Derivaten anbietet.Es folgten den Start von tokenisierten Aktien in Europa einen Monat später.
+Gemini hat seine regulatorische Basis in der Region stetig aufgebaut. Im Mai sicherte sich das Unternehmen eine Märkte in der Richtlinie der Finanzinstrumente (MIFID II), die die Anbietung von Derivaten anbietet. Es folgten den Start von tokenisierten Aktien in Europa einen Monat später.
 
 Die Crypto Exchange sagte, dass die MICA-Lizenz ihren langjährigen Fokus auf Compliance unterstreicht, da sie zusätzliche Angebote, einschließlich Derivate, sowohl für Einzelhandel als auch für institutionelle Kunden in Europa einführen will.
 
-Gemini gehört auch zu mehreren Krypto -Unternehmen, die an die Börse gehen möchten.Letzte Woche sagte das Unternehmen, dass es Goldman Sachs (GS), Citigroup (C), Morgan Stanley (MS) und Cantor als Hauptbuchrunner für den geplanten Börsengang eingestellt habe.
+Gemini gehört auch zu mehreren Krypto -Unternehmen, die an die Börse gehen möchten. Letzte Woche sagte das Unternehmen, dass es Goldman Sachs (GS), Citigroup (C), Morgan Stanley (MS) und Cantor als Hauptbuchrunner für den geplanten Börsengang eingestellt habe.
 
 Lesen Sie mehr: Gemini stellt Goldmans, Citi, Morgan Stanley und Cantor als Lead Bookrunners für seinen Börsengang an
 
-Will Canny ist ein erfahrener Marktreporter mit einer nachgewiesenen Geschichte der Arbeit in der Finanzdienstleistungsbranche.Er bedeckt jetzt den Crypto Beat als Finanzreporter bei Coindesk.Er besitzt mehr als 1.000 Dollar
+Will Canny ist ein erfahrener Marktreporter mit einer nachgewiesenen Geschichte der Arbeit in der Finanzdienstleistungsbranche. Er bedeckt jetzt den Crypto Beat als Finanzreporter bei Coindesk. Er besitzt mehr als 1.000 Dollar

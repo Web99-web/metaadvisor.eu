@@ -18,7 +18,7 @@ Der CEO von Anchorage Digital, Nathan McCauley, der sich als hochkarätiger Vert
 
 "Wir haben - und haben jetzt das Feedback von Aufsichtsbehörden gelöst, als wir den Standard für das Sorgerecht für digitale Vermögenswerte in der Bundeskartuelle festgelegt haben", sagte er in einem Donnerstagskapsel auf der Website des Unternehmens, auf der er Anchorage Digital "die am meisten regulierte digitale Vermögensbank der Welt" bezeichnete.
 
-Die OCC und andere US -amerikanische Bankaufsichtsbehörden haben seit Beginn der zweiten Verwaltung von Präsident Donald Trump versucht, Einschränkungen für Unternehmen der Kryptoindustrie zu entspannen.Der neue OCC -Chef Jonathan Gould, der im letzten Monat vereidigt wurde, war ein Veteran der Agentur, der auch als Chief Legal Officer für Bitfury im privaten Sektor gearbeitet hat.
+Die OCC und andere US -amerikanische Bankaufsichtsbehörden haben seit Beginn der zweiten Verwaltung von Präsident Donald Trump versucht, Einschränkungen für Unternehmen der Kryptoindustrie zu entspannen. Der neue OCC -Chef Jonathan Gould, der im letzten Monat vereidigt wurde, war ein Veteran der Agentur, der auch als Chief Legal Officer für Bitfury im privaten Sektor gearbeitet hat.
 
 Anchorage Digital war die erste Crypto Bank, die eine vollwertige Bankcharter der Agentur gewann, die die Nationalbanken reguliert, und nachdem dies geschafft hatte, hatte dieses Fenster eine Zeit lang als Aufsichtsbehörden während der Amtszeit von Präsident Joe Biden geschlossen, die die Branche mit mehr Verdacht betrachteten.
 
