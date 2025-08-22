@@ -29,8 +29,10 @@ jobs:
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
-        with:
+         with:
           commit_message: "Add DE/HR translations for existing news"
           file_pattern: |
             content/de/**
             content/hr/**
+            content/hr/news/**
+
