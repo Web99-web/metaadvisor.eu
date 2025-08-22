@@ -1,0 +1,41 @@
+{{ define "main" }}
+<article class="post container">
+  <header class="post-hero">
+    {{ if .Params.image_url }}
+      <img class="post-hero-img" src="{{ .Params.image_url }}" alt="{{ .Title }}" loading="lazy">
+    {{ else if .Params.image }}
+      <img class="post-hero-img" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
+    {{ end }}
+
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
+      {{ with .Params.category }}
+        · <a class="badge" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end }}
+      {{ with .Params.tags }}
+        · {{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="{{ "/tags/" | relLangURL }}{{ $t | urlize }}/">{{ $t }}</a>{{ end }}
+      {{ end }}
+    </div>
+  </header>
+
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+
+  {{ if or .Params.source .Params.source_url }}
+  <aside class="post-source">
+    <span class="label">{{ i18n "sourceLabel" | default "Source" }}:</span>
+    {{ if .Params.source_url }}
+      <a href="{{ .Params.source_url }}" rel="noopener nofollow ugc" target="_blank">
+        {{ .Params.source | default "Original" }}
+      </a>
+    {{ else }}
+      {{ .Params.source | default "Original" }}
+    {{ end }}
+  </aside>
+  {{ end }}
+
+  {{ partial "disclaimer.html" . }}
+</article>
+{{ end }}
