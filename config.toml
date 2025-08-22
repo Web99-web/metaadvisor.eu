@@ -11,7 +11,7 @@ defaultContentLanguageInSubdir = true
 [languages.en]
   languageName = "English"
   weight = 1
-  contentDir = "content/en"
+  contentDir = "content"        # ⬅️ čita postojeće /content/news/*
   languageCode = "en"
 
 [languages.de]
