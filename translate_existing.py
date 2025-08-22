@@ -1,11 +1,7 @@
-import os
 import frontmatter
 from pathlib import Path
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 
-translator = Translator()
-
-# 📂 Putanje
 SRC_DIR = Path("content/news")
 OUT_DE = Path("content/de/news")
 OUT_HR = Path("content/hr/news")
@@ -13,37 +9,42 @@ OUT_HR = Path("content/hr/news")
 OUT_DE.mkdir(parents=True, exist_ok=True)
 OUT_HR.mkdir(parents=True, exist_ok=True)
 
-def translate_text(text, dest):
-    try:
-        return translator.translate(text, dest=dest).text
-    except Exception as e:
-        print(f"❌ Translation error: {e}")
+def tr(text: str, dest: str) -> str:
+    if not text:
         return text
+    try:
+        return GoogleTranslator(source="en", target=dest).translate(text)
+    except Exception as e:
+        print(f"[warn] translate({dest}) failed: {e}")
+        return text  # fallback na EN
 
-for md_file in SRC_DIR.glob("*.md"):
-    post = frontmatter.load(md_file)
+made_de = made_hr = 0
 
+for md in sorted(SRC_DIR.glob("*.md")):
+    post = frontmatter.load(md)
     title_en = post.get("title", "")
     body_en = post.content
 
-    # ➡️ prijevod
-    title_de = translate_text(title_en, "de")
-    title_hr = translate_text(title_en, "hr")
-    body_de = translate_text(body_en, "de")
-    body_hr = translate_text(body_en, "hr")
+    # --- DE ---
+    post_de = frontmatter.Post(
+        tr(body_en, "de"),
+        **post.metadata
+    )
+    post_de["title"] = tr(title_en, "de")
+    out_de = OUT_DE / md.name
+    out_de.write_text(frontmatter.dumps(post_de), encoding="utf-8")
+    made_de += 1
 
-    # ➡️ zapis u DE
-    post_de = frontmatter.Post(body_de, **post.metadata)
-    post_de["title"] = title_de
-    out_file_de = OUT_DE / md_file.name
-    with open(out_file_de, "w", encoding="utf-8") as f:
-        f.write(frontmatter.dumps(post_de))
+    # --- HR ---
+    post_hr = frontmatter.Post(
+        tr(body_en, "hr"),
+        **post.metadata
+    )
+    post_hr["title"] = tr(title_en, "hr")
+    out_hr = OUT_HR / md.name
+    out_hr.write_text(frontmatter.dumps(post_hr), encoding="utf-8")
+    made_hr += 1
 
-    # ➡️ zapis u HR
-    post_hr = frontmatter.Post(body_hr, **post.metadata)
-    post_hr["title"] = title_hr
-    out_file_hr = OUT_HR / md_file.name
-    with open(out_file_hr, "w", encoding="utf-8") as f:
-        f.write(frontmatter.dumps(post_hr))
+    print(f"[ok] {md.name} → DE+HR")
 
-    print(f"✅ Translated {md_file.name}")
+print(f"[done] files: DE={made_de}, HR={made_hr}")
