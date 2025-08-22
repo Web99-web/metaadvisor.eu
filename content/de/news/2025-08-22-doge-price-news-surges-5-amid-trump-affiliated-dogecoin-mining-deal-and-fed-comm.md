@@ -7,13 +7,19 @@ source_url: https://www.coindesk.com/markets/2025/08/22/doge-surges-5-amid-trump
 summary: A $50 million Trump-linked acquisition of a DOGE mining firm, Wyoming’s launch
   of a state-backed stablecoin, and comments from Federal Reserve officials signaling
   a softer stance on digital assets all converged to trigger fresh institutiona
-title: 'DOGE PREIS NEWS: Überflut'
+title: 'DOGE Preis-News: Anstieg um 5 % im Zuge von Trump-verbundenem Dogecoin-Mining-Deal und Fed-Kommentaren'
 ---
 
-Dodelcoin versammelte sich am Dienstag, nachdem eine Reihe von Regulierungs- und Unternehmenskatalysatoren das Gefühl über den Krypto -Sektor verlagerte. Wyomings Start eines staatlich unterstützten Stablecoin-Starts von Wyoming, die von Trump mit Trump mit Trumpf verbunden sind, und Kommentare von Beamten der Federal Reserve, die eine weichere Haltung zu digitalen Vermögenswerten signalisieren, konvergierte, um frische institutionelle Ströme auszulösen.
+Dogecoin legte am Dienstag zu, nachdem eine Reihe regulatorischer und unternehmerischer Faktoren die Stimmung im Kryptosektor veränderten. Eine Trump-nahe Übernahme eines DOGE-Mining-Unternehmens im Wert von 50 Millionen US-Dollar, die Einführung eines staatlich gestützten Stablecoins in Wyoming und Kommentare von Fed-Beamten, die eine mildere Haltung gegenüber digitalen Vermögenswerten signalisieren, führten zusammen zu frischen institutionellen Zuflüssen.
 
-• Thumzup, ein von Trump verbundenes Unternehmen, erwarb DogeHash für 50 Millionen US-Dollar und schafft das, was Führungskräfte als größte Doge-Bergbauvorgang bezeichneten. Das Deal signalisiert tiefes Vertrauen in die Dogecoin-Infrastruktur. • Wyoming stellte das Grenze-Stall-Token vor, den ersten von der Regierung unterstützten Stablecoin, und verstärkte den US-amerikanischen regulatorischen Drehpunkt für digitale Vermögenswerte. • Der stellvertretende Vorsitzende Michelle Bowman warnte die Banken vor Wettbewerbsrisiken durch die Verzögerung der digitalen Vermögensabnahme und signalisierte eine kryptoakkommodative Haltung. • Sofi Technologies integrierte Bitcoin's Lightning Network und zielt auf den Markt für 740 Milliarden US -Dollar ab - ein weiteres Signal für traditionelle Finanzmittel, die tiefer in Krypto -Schienen eindringen.
+• Thumzup, ein mit Trump verbundenes Unternehmen, übernahm Dogehash für 50 Millionen US-Dollar und schuf damit laut Führungskräften die größte DOGE-Mining-Operation. Der Deal signalisiert großes Vertrauen in die Dogecoin-Infrastruktur.
 
-• DOGE handelte zwischen dem 20. August 15:00 und dem 21. August mit 0,21 USD und 0,22 USD. • Der Token versammelte sich während der Abendsitzung am 20. August um 5% von 0,21 USD auf 0,22 USD und legte 0,22 USD als kurzfristigen Widerstand ein. • In einem 60-minütigen Fenster mit einer späten Sitzung (21. August 13: 22–14: 21) stieg Dog 1% von 0,22 USD auf 0,22 USD mit Volumenspitzen über 61,8 Millionen, was die institutionelle Aktivität bestätigt. • Unterstützung in der Zone von 0,21 bis 0,22 US -Dollar mit Sprußen auf 320 bis 380 Mio. Volumen über wichtige Testpunkte hinweg.
+• Wyoming stellte den Frontier Stable Token vor, den ersten staatlich gestützten Stablecoin, was die regulatorische Wende der USA hin zu digitalen Vermögenswerten weiter untermauert.
 
-• Unterstützung: 0,21 bis 0,22 USD, die als zuverlässiger Boden mit wiederholten Hochvolumen-Wiederholungen eingerichtet wurden. • Widerstand: $ 0,22 Key Pivot gelöscht, Bullen müssen jedoch nach einer Bestätigung von 0,225 USD nachgedacht werden
+• Michelle Bowman, Vizepräsidentin der Fed, warnte Banken vor Wettbewerbsrisiken durch ein Zögern bei der Einführung digitaler Vermögenswerte und signalisierte damit eine freundlichere Haltung gegenüber Kryptowährungen.
+
+• SoFi Technologies integrierte das Bitcoin Lightning Network und zielte auf den Überweisungsmarkt von 740 Milliarden US-Dollar ab — ein weiteres Signal dafür, dass die traditionelle Finanzwelt tiefer in Krypto-Infrastrukturen eindringt.
+
+• DOGE handelte in einer Spanne von 0,21 bis 0,22 US-Dollar zwischen dem 20. August, 15:00 Uhr, und dem 21. August, 14:00 Uhr, und verzeichnete dabei eine Tagesvolatilität von etwa 4–5 %. Der Token stieg am Abend des 20. August um 5 % von 0,21 auf 0,22 US-Dollar, womit 0,22 US-Dollar als kurzfristiger Widerstand etabliert wurde. In einem späten 60-Minuten-Fenster (21. August, 13:22–14:21) stieg DOGE um 1 % von 0,22 auf 0,22 US-Dollar bei einem Volumen von über 61,8 Millionen — ein Hinweis auf institutionelle Aktivität. Die Unterstützung hielt sich konsequent im Bereich von 0,21–0,22 US-Dollar mit Rücksetzern bei 320–380 Millionen Volumen an Schlüsselpunkten.
+
+• Unterstützung: 0,21–0,22 USD als zuverlässiger Boden mit wiederholten Hochvolumentests bestätigt. Widerstand: 0,22 USD als entscheidender Drehpunkt, aber Bullen müssen den Durchbruch in Richtung 0,225 USD schaffen, um den Trend zu bestätigen.
