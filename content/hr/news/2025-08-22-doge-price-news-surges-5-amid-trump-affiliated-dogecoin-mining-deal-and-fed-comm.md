@@ -7,14 +7,19 @@ source_url: https://www.coindesk.com/markets/2025/08/22/doge-surges-5-amid-trump
 summary: A $50 million Trump-linked acquisition of a DOGE mining firm, Wyoming’s launch
   of a state-backed stablecoin, and comments from Federal Reserve officials signaling
   a softer stance on digital assets all converged to trigger fresh institutiona
-title: 'Vijesti o cijenama Doge-a: Naleti na 5% usred ugovora o rudarstvu Dogecoin-a
-  povezanih s Trumpom i nahranjenim komentarima'
+title: 'DOGE vijesti o cijeni: Skok od 5% usred Dogecoin rudarskog ugovora povezanog s Trumpom i komentara FED-a'
 ---
 
-Dogecoin se okupio u utorak nakon što je niz regulatornih i korporativnih katalizatora prebacio osjećaje u kripto sektor. Trumpova povezana s Trumpovom stjecanjem doge rudarske firme, Wyomingova pokretanja državnog stabilecoina i komentara službenika Federalnih rezervi koji signaliziraju mekši stav o digitalnoj imovini sve pretvorene u pokretanje svježih institucionalnih tokova.
+Dogecoin je u utorak porastao nakon niza regulatornih i korporativnih poticaja koji su promijenili raspoloženje u kripto sektoru. Akvizicija DOGE rudarske tvrtke u vrijednosti 50 milijuna dolara povezana s Trumpom, lansiranje stabilnog coina kojeg podržava država Wyoming te komentari dužnosnika Federalnih rezervi koji signaliziraju mekši stav prema digitalnoj imovini, zajedno su potaknuli nove institucionalne tokove kapitala.
 
-• Thumzup, entitet povezan s Trumpom, stekao je Dogehash za 50 milijuna dolara, stvarajući ono što su rukovoditelji opisali kao najveću operaciju rudarstva doge. Dogovor signalizira povjerenje dubokog džepa u infrastrukturu Dogecoin. • Wyoming je otkrio granični stabilni token, prvu državnu stabloinu potpomognutu vladom, pojačavajući američki regulatorni okret prema digitalnoj imovini. • Potpredsjednica Fed-a Michelle Bowman upozorila je Banke na konkurentne rizike od odgađanja usvajanja digitalne imovine, signalizirajući više kripto-akamomentativne držanje. • Sofi Technologies Integrirana mreža Bitcoin's Lightning, koja je ciljala tržište doznake u iznosu od 740 milijardi dolara - još jedan signal tradicionalnog financija koji se dublje urezuje u kripto šine.
+• Thumzup, entitet povezan s Trumpom, kupio je Dogehash za 50 milijuna dolara, stvarajući ono što rukovoditelji opisuju kao najveću DOGE rudarsku operaciju. Posao signalizira veliko povjerenje u Dogecoin infrastrukturu.
 
-• Doge je trgovao u pojasu od 0,01 USD od 0,21 do 0,22 USD između 20. kolovoza 15:00 i 21. kolovoza 14:00, što je označilo ~ 4–5% Intraporatnu volatilnost. • Token je okupljao 5% s 0,21 na 0,22 USD tijekom večernjeg zasjedanja 20. kolovoza, uspostavljajući 0,22 USD kao kratkoročni otpor. • 60-minutni prozor u kasnoj sjednici (21. kolovoza 13: 22–14: 21) vidio je Doge porast od 1% s 0,22 do 0,22 USD, a količine su iznad 61,8 milijuna, što potvrđuje institucionalnu aktivnost. • Podrška dosljedno održava u zoni od 0,21 do 0,22 USD s odskocima na 320–380 milijuna volumena na ključnim testiranjem.
+• Wyoming je predstavio Frontier Stable Token, prvi državni stabilni coin kojeg podržava vlada, čime je dodatno potvrđen američki regulatorni zaokret prema digitalnoj imovini.
 
-• Podrška: 0,21 do 0,22 USD utvrđeno je kao pouzdan pod s ponovljenim ponovnim igračima. • Otpor: 0,22 USD Očišćeno ključ, ali bikovi trebaju pratiti prema 0,225 USD za potvrdu
+• Michelle Bowman, zamjenica predsjednice FED-a, upozorila je banke na konkurentske rizike zbog odgađanja prihvaćanja digitalne imovine, što signalizira blaži stav prema kriptovalutama.
+
+• SoFi Technologies integrirao je Bitcoinovu Lightning mrežu, ciljajući tržište doznaka od 740 milijardi dolara — još jedan znak ulaska tradicionalnih financija u kripto infrastrukturu.
+
+• DOGE se trgovao u rasponu od 0,21 do 0,22 USD između 20. kolovoza u 15:00 i 21. kolovoza u 14:00, bilježeći dnevnu volatilnost od ~4–5%. Token je porastao 5% s 0,21 na 0,22 USD tijekom večernje sesije 20. kolovoza, čime je 0,22 USD postao kratkoročna razina otpora. U kasnoj sesiji, unutar 60 minuta (21. kolovoza 13:22–14:21), DOGE je skočio 1% s 0,22 na 0,22 USD uz volumen iznad 61,8 milijuna, potvrđujući institucionalnu aktivnost. Podrška se stalno držala u zoni od 0,21–0,22 USD uz odbijanja na volumenu od 320–380 milijuna na ključnim testnim točkama.
+
+• Podrška: 0,21–0,22 USD potvrđena kao pouzdano dno s višestrukim testovima na velikom volumenu. • Otpor: 0,22 USD ključna točka, ali bikovi trebaju probiti prema 0,225 USD kako bi potvrdili nastavak rasta.
