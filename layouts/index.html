@@ -98,44 +98,48 @@
 
   <!-- GRID (primjeri sa slikama — zamijeni linkove/tekste) -->
   <section class="grid-wrap" id="latest">
-    <div class="container">
-      <div class="section-head"><h2>Latest Highlights</h2></div>
+  <div class="container">
+    <div class="section-head"><h2>Latest Highlights</h2></div>
+
+    {{ $news := .Site.GetPage "section" "news" }}
+    {{ if $news }}
+      {{ $pages := $news.RegularPages.ByDate.Reverse }}
+      {{ $paginator := .Paginate $pages }}  <!-- koristi paginate iz configa -->
       <div class="grid">
-        <a class="card" href="#">
-          <img class="card-img" src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" alt="AI chips" />
-          <div class="card-body">
-            <div class="card-meta"><span>AI</span><span class="dot"></span><span>5 min</span></div>
-            <h3>How small models will reshape enterprise AI</h3>
-            <p>Latency down, privacy up — new trade-offs and use-cases.</p>
-          </div>
-        </a>
-        <a class="card" href="#">
-          <img class="card-img" src="https://images.unsplash.com/photo-1621416894569-0f39c2b2b8cf?q=80&w=1200&auto=format&fit=crop" alt="Crypto charts" />
-          <div class="card-body">
-            <div class="card-meta"><span>Crypto</span><span class="dot"></span><span>News</span></div>
-            <h3>Stablecoins & regulation: what changed this week</h3>
-            <p>Quick briefing on policy moves and market impact.</p>
-          </div>
-        </a>
-        <a class="card" href="#">
-          <img class="card-img" src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1200&auto=format&fit=crop" alt="Finance" />
-          <div class="card-body">
-            <div class="card-meta"><span>Finance</span><span class="dot"></span><span>Guide</span></div>
-            <h3>ETF inflows & rates: reading the macro signals</h3>
-            <p>What matters for the next quarter in plain English.</p>
-          </div>
-        </a>
-        <a class="card" href="#">
-          <img class="card-img" src="https://images.unsplash.com/photo-1472289065668-ce650ac443d2?q=80&w=1200&auto=format&fit=crop" alt="Security" />
-          <div class="card-body">
-            <div class="card-meta"><span>Security</span><span class="dot"></span><span>Top pick</span></div>
-            <h3>Your AI stack security checklist (quick scan)</h3>
-            <p>Simple controls that prevent costly mistakes.</p>
-          </div>
-        </a>
+        {{ range $paginator.Pages }}
+          <a class="card" href="{{ .RelPermalink }}">
+            {{ with .Params.image }}
+              <img class="card-img" src="{{ . | relURL }}" alt="">
+            {{ else }}
+              <img class="card-img" src="https://placehold.co/1200x750?text=MetaAdvisor" alt="">
+            {{ end }}
+            <div class="card-body">
+              <div class="card-meta">
+                <span class="muted">{{ .Date.Format "2006-01-02" }}</span>
+                {{ with .Params.category }}<span class="dot"></span><span>{{ . }}</span>{{ end }}
+              </div>
+              <h3>{{ .Title }}</h3>
+              {{ with .Summary }}<p>{{ . | plainify }}</p>{{ end }}
+            </div>
+          </a>
+        {{ end }}
       </div>
-    </div>
-  </section>
+
+      {{ if gt $paginator.TotalPages 1 }}
+        <div style="display:flex;gap:10px;justify-content:center;margin-top:22px">
+          {{ with $paginator.Prev }}<a class="btn" href="{{ .URL }}">← Newer</a>{{ end }}
+          <span style="padding:10px 14px;border:1px solid #e5e7eb;border-radius:999px;background:#fff">
+            Page {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}
+          </span>
+          {{ with $paginator.Next }}<a class="btn btn-primary" href="{{ .URL }}">Older →</a>{{ end }}
+        </div>
+      {{ end }}
+    {{ else }}
+      <p>No news yet.</p>
+    {{ end }}
+  </div>
+</section>
+
 
   <footer>
     <div class="container foot">
