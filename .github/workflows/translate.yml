@@ -1,0 +1,32 @@
+name: Translate Existing News
+
+on:
+  workflow_dispatch:   # pokrećeš ručno kad želiš
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install googletrans==4.0.0-rc1 python-frontmatter
+
+      - name: Run translation script
+        run: |
+          python translate_existing.py
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Add DE/HR translations for existing news"
+          file_pattern: |
+            content/de/**
+            content/hr/**
