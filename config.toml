@@ -1,8 +1,30 @@
-baseURL = "/"
-languageCode = "en"
+baseURL = "https://metaadvisor.eu/"
 title = "MetaAdvisor.eu"
-paginate = 10
+paginate = 24
+paginatePath = "page"
 enableRobotsTXT = true
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+
+[languages.en]
+  languageName = "English"
+  weight = 1
+  contentDir = "content/en"
+  languageCode = "en"
+
+[languages.de]
+  languageName = "Deutsch"
+  weight = 2
+  contentDir = "content/de"
+  languageCode = "de"
+
+[languages.hr]
+  languageName = "Hrvatski"
+  weight = 3
+  contentDir = "content/hr"
+  languageCode = "hr"
 
 [params]
   tagline = "Automated summaries of news from publicly available sources."
