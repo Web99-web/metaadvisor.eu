@@ -1,4 +1,6 @@
 name: Translate Existing News
+permissions:
+  contents: write
 
 on:
   workflow_dispatch:   # pokrećeš ručno kad želiš
