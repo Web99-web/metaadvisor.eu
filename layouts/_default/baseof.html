@@ -21,6 +21,18 @@
     </nav>
   </div>
 </header>
+  
+{{ if .IsHome }}
+<section class="home-hero" style="
+  padding: 52px 0;
+  background: url('/images/placeholder.jpg') center/cover no-repeat;
+  color:#fff;">
+  <div class="wrap">
+    <h1 style="margin:0 0 8px;">MetaAdvisor.eu</h1>
+    <p style="margin:0; opacity:.95;">Automated summaries of news and insights from publicly available sources.</p>
+  </div>
+</section>
+{{ end }}
 
 <main class="site-main">
   <div class="wrap">
