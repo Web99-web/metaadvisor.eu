@@ -4,7 +4,8 @@ paginate = 24
 paginatePath = "page"
 enableRobotsTXT = true
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
+
 
 [languages]
 
