@@ -5,12 +5,17 @@
     {{ $p := .Paginate (.Pages.ByDate.Reverse) }}
     {{ range $p.Pages }}
       <a class="card" href="{{ .RelPermalink }}">
-        {{ $img := or .Params.image_url .Params.image }}
-        {{ if $img }}
-          <img src="{{ $img | relURL }}" alt="">
-        {{ else }}
-          <img src="/images/placeholder.jpg" alt="">
-        {{ end }}
+     {{ $img := or .Params.image_url .Params.image }}
+{{ if $img }}
+  {{ $src := $img }}
+  {{ if not (hasPrefix $img "http") }}
+    {{ $src = $img | relURL }}
+  {{ end }}
+  <img src="{{ $src }}" alt="">
+{{ else }}
+  <img src="{{ "/images/placeholder.jpg" | relURL }}" alt="">
+{{ end }}
+
         <div class="card-body">
           <div class="card-meta">
             <span class="muted">{{ .Date.Format "2006-01-02" }}</span>
