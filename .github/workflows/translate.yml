@@ -3,28 +3,29 @@ permissions:
   contents: write
 
 on:
-  workflow_dispatch:   # pokrećeš ručno kad želiš
+  workflow_dispatch:
 
 jobs:
   translate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          
+
       - name: Install dependencies
         run: |
           pip install deep-translator python-frontmatter
 
-
       - name: Run translation script
         run: |
           python translate_existing.py
+
+      - name: Show translated folders (debug)
+        run: |
+          echo "--- content/de ---"; ls -R content/de || true
+          echo "--- content/hr ---"; ls -R content/hr || true
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
