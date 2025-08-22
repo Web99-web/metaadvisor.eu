@@ -3,7 +3,7 @@ title: "Kripto mjenjačnica Gemini dobila MiCA licencu na Malti, širi se u Euro
 date: 2025-08-21T17:32:58Z
 summary: "Odobrenje predstavlja važan korak u Gemini EU strategiji, omogućujući tvrtki da ponudi svoje proizvode i usluge klijentima diljem regije."
 category: "crypto"
-tags: ["crypto" "mica"]
+tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/0dfcc4d7c71fa2880b01af9aab8bf1de0ab3225e-3780x2124.jpg"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/08/21/crypto-exchange-gemini-secures-mica-license-in-malta-expands-european-footprint"
