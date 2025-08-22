@@ -5,7 +5,9 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ if .IsHome }}MetaAdvisor — Automated insights{{ else }}{{ .Title }} — MetaAdvisor{{ end }}</title>
   <meta name="description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}Automated summaries of news and insights from publicly available sources.{{ end }}">
-  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   {{ partial "analytics.html" . }}
 </head>
