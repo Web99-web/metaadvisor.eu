@@ -21,6 +21,6 @@ The hack occurred exactly one year after the $243 million Genesis creditor theft
 
 Oliver Knight is the co-leader of CoinDesk data tokens and data team. Before joining CoinDesk in 2022 Oliver spent three years as the chief reporter at Coin Rivet. He first started investing in bitcoin in 2013 and spent a period of his career working at a market making firm in the UK. He does not currently have any crypto holdings.
 
-State Street Expands Custody to Tokenized Debt on JPMorgan’s Blockchain Platform
+Japan's SBI Holdings Joins Tokenized Stock Push With Startale Joint Venture
 
-The inaugural transaction State Street anchored was a $100 million digital commercial paper issuance by
+The financial conglomerate is building a blockchain platform for tokenized assets with Startale, the blockchain development firm that build Soneium with
