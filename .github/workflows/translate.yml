@@ -16,10 +16,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
+          
       - name: Install dependencies
         run: |
-          pip install googletrans==4.0.0-rc1 python-frontmatter
+          pip install deep-translator python-frontmatter
+
 
       - name: Run translation script
         run: |
