@@ -1,0 +1,20 @@
+{{/* Ne prikazuj ako postoji samo jedan jezik */}}
+{{ if gt (len .Site.Languages) 1 }}
+  <div class="lang-switch">
+    {{ $page := . }}
+    {{ range .Site.Languages }}
+      {{ $isActive := eq $.Lang .Lang }}
+      {{/* ako postoji prijevod na toj stranici, linkaj na njega; inače idi na početnu tog jezika */}}
+      {{ $href := ("/" | relLangURL) | relURL }}
+      {{ with (index ($page.AllTranslations) .Lang) }}
+        {{ $href = .RelPermalink }}
+      {{ end }}
+      <a class="lang {{ if $isActive }}active{{ end }}" href="{{ $href }}">
+        <span class="flag">
+          {{- if eq .Lang "en" -}}🇬🇧{{- else if eq .Lang "de" -}}🇩🇪{{- else if eq .Lang "hr" -}}🇭🇷{{- end -}}
+        </span>
+        {{ upper .Lang }}
+      </a>
+    {{ end }}
+  </div>
+{{ end }}
