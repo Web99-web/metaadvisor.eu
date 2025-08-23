@@ -1,2 +1,10 @@
+- id: navLatest
+  translation: "Latest"
+- id: navAbout
+  translation: "About"
+- id: navContact
+  translation: "Contact"
+- id: sourceLabel
+  translation: "Source"
 - id: disclaimerText
   translation: "Disclaimer: The content on this site is for informational purposes only and does not constitute financial advice. Each user is responsible for their own investment decisions."
