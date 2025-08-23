@@ -1,38 +1,39 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ .Lang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ if .IsHome }}MetaAdvisor — Automated insights{{ else }}{{ .Title }} — MetaAdvisor{{ end }}</title>
   <meta name="description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}Automated summaries of news and insights from publicly available sources.{{ end }}">
-  
-  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 
+  <!-- ZADRŽAVAMO relURL da radi i u pod-stazama -->
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   {{ partial "analytics.html" . }}
 </head>
 <body>
 
 <header class="site-header">
-  <div class="wrap header-inner">
-    <a class="brand" href="/">
-      <span class="brand-dot"></span>
-      MetaAdvisor
-    </a>
+  <div class="container header-inner">
+    <a class="brand" href="{{ "/" | relLangURL }}">MetaAdvisor</a>
+
     <nav class="nav">
-      <a href="/news/">Latest</a>
-      <a href="/about/">About</a>
-      <a href="/contact/">Contact</a>
+      <a class="btn-link" href="{{ "/news/" | relLangURL }}">{{ i18n "navLatest" | default "Latest" }}</a>
+      <a class="btn-link" href="{{ "/about/" | relLangURL }}">{{ i18n "navAbout" | default "About" }}</a>
+      <a class="btn-link" href="{{ "/contact/" | relLangURL }}">{{ i18n "navContact" | default "Contact" }}</a>
     </nav>
+
+    {{ partial "langswitch.html" . }}
   </div>
 </header>
-  
+
+{{/* ZADRŽAVAMO TVOJU HERO SEKCIJU NA HOME-u */}}
 {{ if .IsHome }}
 <section class="home-hero" style="
   padding: 52px 0;
   background: url('/images/placeholder.jpg') center/cover no-repeat;
   color:#fff;">
-  <div class="wrap">
+  <div class="container">
     <h1 style="margin:0 0 8px;">MetaAdvisor.eu</h1>
     <p style="margin:0; opacity:.95;">Automated summaries of news and insights from publicly available sources.</p>
   </div>
@@ -40,14 +41,15 @@
 {{ end }}
 
 <main class="site-main">
-  <div class="wrap">
+  <div class="container">
     {{ block "main" . }}{{ end }}
   </div>
 </main>
 
 <footer class="site-footer">
-  <div class="wrap footer-inner">
+  <div class="container">
     <p>© {{ now.Format "2006" }} <strong>MetaAdvisor.eu</strong></p>
+    <p class="muted">{{ i18n "footerTagline" | default "Automated summaries of news from publicly available sources." }}</p>
   </div>
 </footer>
 
