@@ -1,29 +1,26 @@
 ---
-category: crypto
-date: 2025-08-21 18:39:56+00:00
-image_url: https://cdn.sanity.io/images/s3y3vcno/production/1c858c0bc20cb3b45571d51b93c2291f63a68d83-5184x2916.jpg
-source: CoinDesk
-source_url: https://www.coindesk.com/business/2025/08/21/state-street-expands-custody-to-tokenized-debt-on-jpmorgan-s-blockchain-platform
-summary: The inaugural transaction State Street anchored was a $100 million digital
-  commercial paper issued by OCBC.
-tags:
-- crypto
-title: 'RWA News: State Street, J. P. Morgan dovrši tokenizirani dug u iznosu od 100
-  milijuna dolara'
+title: "RWA vijesti: State Street i J.P. Morgan zaključili ugovor o tokeniziranom dugu od 100 milijuna USD"
+date: 2025-08-21T18:39:56Z
+summary: "Prva transakcija koju je predvodio State Street bila je izdavanje digitalnog komercijalnog zapisa od 100 milijuna USD od strane OCBC-a."
+category: "crypto"
+tags: ["crypto"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1c858c0bc20cb3b45571d51b93c2291f63a68d83-5184x2916.jpg"
+source: "CoinDesk"
+source_url: "https://www.coindesk.com/business/2025/08/21/state-street-expands-custody-to-tokenized-debt-on-jpmorgan-s-blockchain-platform"
 ---
 
-State Street, banka skrbništva sa sjedištem u Bostonu, sa 49 bilijuna dolara imovine pod svojim satom, gura dublje u digitalnu imovinu pridružujući se JPMorgan-ovoj blockchainovoj tokeniziranoj platformi za digitalnu imovinu za digitalnu dugu kao prvu skrbnicu treće strane.
+State Street, skrbnička banka iz Bostona s 49 bilijuna USD imovine pod upravljanjem, dodatno ulazi u područje digitalne imovine pridruživanjem JPMorganovoj blockchain platformi za tokeniziranu imovinu **Digital Debt Service** kao prvi vanjski skrbnik.
 
-Prva transakcija State Street usidrena bila je tokenizirana izdavanja komercijalnog papira u iznosu od 100 milijuna dolara od strane inozemne kineske bankarske korporacije (OCBC), bankarske grupe sa sjedištem u Singapuru, navodi se u priopćenju za javnost u četvrtak.
+Prema priopćenju za javnost od četvrtka, prva transakcija u kojoj je State Street sudjelovao bilo je izdavanje tokeniziranog komercijalnog zapisa vrijednog 100 milijuna USD od strane **Oversea-Chinese Banking Corporation (OCBC)**, bankarske grupe sa sjedištem u Singapuru.  
 
-State Street Investment Management, ARM Banka za upravljanje imovinom, kupila je dug. J. P. Morgan Securities djelovao je kao agent za smještaj.
+Dug je kupio odjel za upravljanje imovinom **State Street Investment Management**, dok je **J.P. Morgan Securities** djelovao kao agent za plasman.
 
-Taj potez dolazi jer se tradicionalne financije teških utega i globalnih banaka sve više uključuju u tokenizaciju financijskih instrumenata ili imovine u stvarnom svijetu (RWA), postavljajući obveznice, sredstva i kredit na blockchain tračnice. Proces obećava operativne koristi kao što su povećana učinkovitost, brži i nogovemjenski naseljavanja i niži administrativni troškovi.
+Ovaj potez dolazi u trenutku kada tradicionalne financijske institucije i globalne banke sve više ulaze u tokenizaciju financijskih instrumenata ili realne imovine (RWA), stavljajući obveznice, fondove i kredite na blockchain. Proces obećava operativne prednosti poput veće učinkovitosti, brže i neprekidne namire te niže administrativne troškove.
 
-Tokenizirano tržište imovine moglo bi rasti u sljedećih nekoliko godina, iako se projekcije razlikuju od McKinseyjevih 2 bilijuna dolara do 2030. do Ripplea i BCG -a do gotovo 19 bilijuna dolara do 2033. godine.
+Tržište tokenizirane imovine moglo bi značajno porasti u idućim godinama, iako se procjene razlikuju — od **McKinseyjeve** prognoze od 2 bilijuna USD do 2030. godine, do gotovo 19 bilijuna USD prema **Rippleu i BCG-u** do 2033. godine.
 
-Pridruživši se platformi JPMorgan -ove blockchain platforme, State Street sada može ponuditi klijentima skrbništvo nad tokeniziranim dužničkim vrijednosnim papirima bez promjene tradicionalnog modela servisiranja.
+Pridruživanjem JPMorganovoj blockchain platformi, State Street sada svojim klijentima može ponuditi skrbništvo nad tokeniziranim dužničkim vrijednosnicama bez promjene tradicionalnog modela usluga.  
 
-U ovom konkretnom slučaju, State Street upravlja udjelom klijenata u digitalnom novčaniku izravno povezanim sa JPMorgan -ovim sustavom, uklanjajući ručne korake u nagodbi i vođenju evidencije. Infrastruktura podržava nagodbu isporuke nasuprot plaćanju, s mogućnošću nagodbe istog dana (T+0) i automatizira korporativne radnje poput plaćanja kamata i otkupa putem pametnih ugovora.
+U ovom slučaju, State Street upravlja imovinom klijenata u digitalnom novčaniku izravno povezanom s JPMorganovim sustavom, čime se uklanjaju ručni koraci u namiri i vođenju evidencije. Infrastruktura podržava **delivery-versus-payment** namiru s opcijom namire isti dan (T+0) te automatizira korporativne akcije poput isplate kamata i otkupa putem pametnih ugovora.  
 
-"Ovo pokretanje odražava smisleni korak naprijed u našoj digitalnoj strategiji -
+„Ovo lansiranje predstavlja značajan korak naprijed u našoj digitalnoj strategiji...“
