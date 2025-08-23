@@ -6,17 +6,21 @@
     {{ range $p.Pages }}
       <a class="card" href="{{ .RelPermalink }}">
 
-        {{/* Slika: prvo image_url (apsolutni), pa image (relativni), pa placeholder */}}
-        {{ $img := or .Params.image_url .Params.image }}
-        {{ if $img }}
-          {{ $src := $img }}
-          {{ if not (hasPrefix $img "http") }}
-            {{ $src = ($img | relURL) }}
-          {{ end }}
-          <img src="{{ $src }}" alt="{{ .Title }}" loading="lazy">
-        {{ else }}
-          <img src="{{ "/images/placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
-        {{ end }}
+       {{/* Slika: prvo image_url (apsolutni), pa image (može biti relativan), pa placeholder */}}
+{{ $img := .Params.image_url | default .Params.image }}
+
+{{ if $img }}
+  {{/* Ako je http(s) ili već počinje sa /, koristi ga; inače ga pretvori u apsolutni (bez /de, /hr prefiksa) */}}
+  {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
+    <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy">
+  {{ else }}
+    <img src="{{ $img | absURL }}" alt="{{ .Title }}" loading="lazy">
+  {{ end }}
+{{ else }}
+  {{/* APSOLUTAN fallback da ne postane /de/images/... */}}
+  <img src="/images/placeholder-card.jpg" alt="{{ .Title }}" loading="lazy">
+{{ end }}
+
 
         <div class="card-body">
           <div class="card-meta">
