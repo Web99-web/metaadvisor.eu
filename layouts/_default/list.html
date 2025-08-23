@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-  <h1 style="margin:10px 0 14px;">{{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}</h1>
+  <h1 style="margin:10px 0 14px;">
+    {{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}
+  </h1>
 
   {{/* Ako je .Pages prazno (npr. HOME), uzmi sve regularne stranice */}}
   {{ $pages := .Pages }}
@@ -17,16 +19,15 @@
         {{ $img := .Params.image_url | default .Params.image }}
 
         {{ if $img }}
-          {{/* ako je http/https ili već počinje s /, uzmi ga direktno; inače ga pretvori u apsolutni URL */}}
           {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
-            <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy">
+            <img class="card-img" src="{{ $img }}" alt="{{ .Title }}" loading="lazy" decoding="async"
+                 onerror="this.onerror=null;this.src='/images/placeholder.jpg'">
           {{ else }}
-            <img src="{{ $img | absURL }}" alt="{{ .Title }}" loading="lazy">
+            <img class="card-img" src="{{ $img | absURL }}" alt="{{ .Title }}" loading="lazy" decoding="async"
+                 onerror="this.onerror=null;this.src='/images/placeholder.jpg'">
           {{ end }}
         {{ else }}
-          {{/* ABSOLUTNI fallback da ne postane /de/images/... ili /hr/images/... */}}
-          <img src="/images/placeholder.jpg" alt="{{ .Title }}" loading="lazy">
-          {{/* ako ti je placeholder drugačijeg imena, zamijeni ga gore */}}
+          <img class="card-img" src="/images/placeholder.jpg" alt="{{ .Title }}" loading="lazy" decoding="async">
         {{ end }}
 
         <div class="card-body">
@@ -39,7 +40,9 @@
             {{ end }}
           </div>
           <h2 class="card-title">{{ .Title }}</h2>
-          {{ with .Summary }}<p class="card-summary">{{ . | plainify }}</p>{{ end }}
+          {{ with .Summary }}
+            <p class="card-summary">{{ . | plainify }}</p>
+          {{ end }}
         </div>
       </a>
     {{ end }}
