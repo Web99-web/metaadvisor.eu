@@ -1,27 +1,25 @@
 ---
-title: "Ethereum (ETH) steigt auf einen neuen Allzeithoch inmitten der Wahrscheinlichkeit im September-Ratenkürzung"
+title: "Ethereum (ETH) erreicht neues Allzeithoch angesichts wahrscheinlicher Zinssenkung im September"
 date: 2025-08-22T21:16:21Z
 category: "crypto"
 translationKey: "edbf41d4a18733c9b7feafb4ab750e4e"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/22/ethereum-surges-to-new-all-time-high-amid-likely-september-rate-cut"
-summary: "Der Token stieg am Freitag zu einem neuen Rekord auf Coinbase."
-tags: ["crypto"]
+summary: "Der Token erreichte am Freitag auf Coinbase einen neuen Rekordwert."
+tags: ["crypto", "token", "finanz", "ethereum", "eth", "bitcoin", "btc", "lido", "ldo", "ethena", "ena"]
 image: "/news/2025-08-22-ethereum-eth-surges-to-new-all-time-high-amid-likely-september-rate-cut.jpg"
 ---
 
-Ethereum ETH $ 4.749.79 erreichte am Freitag einen Rekordpreis von 4.885 USD für Coinbase, nachdem eine Rede des Federal Reserve -Vorsitzenden Jerome Powell vorschlägt, dass Zinsenkürzungen die Händler in das Wochenende entlasteten.
+**Ethereum (ETH, 4.749,79 USD)** erreichte am Freitag auf Coinbase einen neuen Rekordpreis von **4.885 USD**, nachdem Fed-Chef **Jerome Powell** in seiner Rede Zinssenkungen andeutete und damit die Märkte vor dem Wochenende beruhigte.  
 
-Der Token stieg in den letzten 24 Stunden im Rahmen einer breiteren Rallye auf den Finanzmärkten um fast 15%.
+Der Token stieg in den letzten **24 Stunden um fast 15%** im Rahmen einer breiteren Rallye an den Finanzmärkten.  
 
-Trotzdem stach die Rallye von Ether unter anderen Token auf.Bitcoin war ebenfalls auf, aber nur um etwa 4%.Der Coindesk 20 -Index, der den breiteren Kryptomarkt verfolgt, stieg im gleichen Zeitraum um 9%.
+Obwohl auch andere Token zulegten, stach ETH besonders hervor. **Bitcoin** stieg nur um etwa 4%, während der **CoinDesk 20 Index**, der den breiteren Kryptomarkt abbildet, um 9% kletterte.  
 
-Powell gab am Freitag Hinweise darauf, dass die Fed tatsächlich im September die Zinssätze senken wird, wie es ursprünglich von Händlern erwartet wurde.Die Hoffnung hat in den letzten Tagen jedoch verblasst und hat während der Freitagshandelszeiten eine erhebliche Reaktion auf den globalen Märkten verursacht.
+Powell deutete am Freitag an, dass die Fed im September tatsächlich die Zinsen senken werde, wie es die Händler ursprünglich erwartet hatten. In den letzten Tagen war die Hoffnung jedoch geschwunden, was am Freitag zu einer deutlichen Marktreaktion führte.  
 
-Ether hat in diesem Jahr nicht nur von makroökonomischen Umständen profitiert, sondern auch mehr aus dem erneuten institutionellen Interesse an dem Netzwerk hinter dem Token.
+Ethereum profitierte in diesem Jahr nicht nur von den makroökonomischen Bedingungen, sondern noch stärker vom erneuten institutionellen Interesse am Netzwerk hinter dem Token.  
 
-Mehrere Unternehmen haben im Rahmen ihrer Treasury -Strategie einen Äther angesammelt, einschließlich Ethzilla, die vom Milliardärinvestor Peter Thiel unterstützt wird.Einige glauben, dass Ethereum irgendwann die beliebteste Blockchain von Wall Street sein wird, auf der sie aufbauen können, und die Nachfrage nach seinem Heimattransporter treibt.
+Mehrere Unternehmen haben begonnen, ETH als Teil ihrer **Treasury-Strategie** zu akkumulieren, darunter **ETHZilla**, das von Milliardär Peter Thiel unterstützt wird. Einige sind der Ansicht, dass Ethereum letztlich die bevorzugte Blockchain der Wall Street werden könnte, was die Nachfrage nach dem nativen Token zusätzlich ankurbelt.  
 
-Infolgedessen hat Ether Bitcoin in diesem Jahr übertrifft, was seit Beginn von 2025 um etwa 45% gestiegen ist, während die größte Kryptowährung um 25% gestiegen ist.Einige andere ätherbezogene Token wie Lido (LDO) und Ethena Ena $ 0,7572 profitierten ebenfalls von der Swift-Rallye der ETH.
-
-Helene ist ein in New York ansässiger Märkte-Reporter bei Coindesk, der die neuesten Nachrichten von der Wall Street, den Aufstieg des Spot Bitcoin Exchange-Fonds und Updates zu Kryptomärkten abdeckt.Sie ist Absolventin des Business and Economic Reporting Program der New York University und ist in CBS News, YahoofInance und Nasdaq TradeTalks aufgetreten.Sie hält BTC und
+Infolgedessen hat ETH Bitcoin in diesem Jahr übertroffen — ein Anstieg von rund **45% seit Jahresbeginn 2025**, während die größte Kryptowährung um 25% zulegte. Andere Ethereum-bezogene Token wie **Lido (LDO)** und **Ethena (ENA)** profitierten ebenfalls vom schnellen Anstieg des ETH.  
