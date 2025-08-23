@@ -14,10 +14,13 @@
 <body>
 
 <header class="site-header">
-  <div class="wrap" style="display:flex;justify-content:space-between;align-items:center;">
-    <a class="brand" href="/">MetaAdvisor</a>
+  <div class="wrap header-inner">
+    <a class="brand" href="/">
+      <span class="brand-dot"></span>
+      MetaAdvisor
+    </a>
     <nav class="nav">
-      <a href="/news/">News</a>
+      <a href="/news/">Latest</a>
       <a href="/about/">About</a>
       <a href="/contact/">Contact</a>
     </nav>
@@ -43,9 +46,8 @@
 </main>
 
 <footer class="site-footer">
-  <div class="wrap" style="text-align:center">
-    <p>© {{ now.Format "2006" }} <strong>MetaAdvisor.eu</strong> — Automated summaries of news and insights from publicly available sources.</p>
-    <p><a href="/about/">About</a> · <a href="/contact/">Contact</a> · <a href="/privacy/">Privacy</a></p>
+  <div class="wrap footer-inner">
+    <p>© {{ now.Format "2006" }} <strong>MetaAdvisor.eu</strong></p>
   </div>
 </footer>
 
