@@ -1,26 +1,33 @@
 {{ define "main" }}
-  <h1 style="margin:10px 0 14px;">{{ if .Title }}{{ .Title }}{{ else }}News{{ end }}</h1>
+
+  <h1 style="margin:10px 0 14px;">{{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}</h1>
+
+  {{/* Ako je .Pages prazno (npr. HOME), uzmi sve regularne stranice */}}
+  {{ $pages := .Pages }}
+  {{ if eq (len $pages) 0 }}
+    {{ $pages = .Site.RegularPages }}
+  {{ end }}
 
   <div class="grid">
-    {{ $p := .Paginate (.Pages.ByDate.Reverse) }}
+    {{ $p := .Paginate ($pages.ByDate.Reverse) }}
     {{ range $p.Pages }}
       <a class="card" href="{{ .RelPermalink }}">
 
-       {{/* Slika: prvo image_url (apsolutni), pa image (može biti relativan), pa placeholder */}}
-{{ $img := .Params.image_url | default .Params.image }}
+        {{/* Slika: prvo image_url (apsolutni), pa image (relativni ili apsolutni), pa placeholder */}}
+        {{ $img := .Params.image_url | default .Params.image }}
 
-{{ if $img }}
-  {{/* Ako je http(s) ili već počinje sa /, koristi ga; inače ga pretvori u apsolutni (bez /de, /hr prefiksa) */}}
-  {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
-    <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy">
-  {{ else }}
-    <img src="{{ $img | absURL }}" alt="{{ .Title }}" loading="lazy">
-  {{ end }}
-{{ else }}
-  {{/* APSOLUTAN fallback da ne postane /de/images/... */}}
-  <img src="/images/placeholder-card.jpg" alt="{{ .Title }}" loading="lazy">
-{{ end }}
-
+        {{ if $img }}
+          {{/* ako je http/https ili već počinje s /, uzmi ga direktno; inače ga pretvori u apsolutni URL */}}
+          {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
+            <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy">
+          {{ else }}
+            <img src="{{ $img | absURL }}" alt="{{ .Title }}" loading="lazy">
+          {{ end }}
+        {{ else }}
+          {{/* ABSOLUTNI fallback da ne postane /de/images/... ili /hr/images/... */}}
+          <img src="/images/placeholder.jpg" alt="{{ .Title }}" loading="lazy">
+          {{/* ako ti je placeholder drugačijeg imena, zamijeni ga gore */}}
+        {{ end }}
 
         <div class="card-body">
           <div class="card-meta">
@@ -39,4 +46,5 @@
   </div>
 
   {{ template "_internal/pagination.html" . }}
+
 {{ end }}
