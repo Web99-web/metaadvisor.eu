@@ -108,11 +108,17 @@
       <div class="grid">
         {{ range $paginator.Pages }}
           <a class="card" href="{{ .RelPermalink }}">
-            {{ with .Params.image }}
-              <img class="card-img" src="{{ . | relURL }}" alt="">
-            {{ else }}
-              <img class="card-img" src="https://placehold.co/1200x750?text=MetaAdvisor" alt="">
-            {{ end }}
+            {{ $img := .Params.image_url | default .Params.image }}
+{{ if $img }}
+  {{ $src := $img }}
+  {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
+    {{ $src = $src | absURL }}
+  {{ end }}
+  <img class="card-img" src="{{ $src }}" alt="{{ .Title }}" loading="lazy">
+{{ else }}
+  <img class="card-img" src="/images/placeholder.jpg" alt="{{ .Title }}" loading="lazy">
+{{ end }}
+
             <div class="card-body">
               <div class="card-meta">
                 <span class="muted">{{ .Date.Format "2006-01-02" }}</span>
