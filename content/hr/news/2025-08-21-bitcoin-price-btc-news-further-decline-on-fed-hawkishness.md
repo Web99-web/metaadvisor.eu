@@ -1,7 +1,7 @@
 ---
 title: "Cijena Bitcoina (BTC): Daljnji pad zbog oštrije retorike FED-a"
 date: 2025-08-21T15:57:34Z
-summary: "Podaci trenutno ne podržavaju smanjenje kamatnih stopa, izjavila je predsjednica Cleveland Fed-a Beth Hammack."
+summary: "Podaci trenutno ne podržavaju smanjenje kamatnih stopa, izjavila je predsjednica Cleveland FED-a Beth Hammack."
 category: "crypto"
 tags: ["bitcoin", "crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/364436aa571b541226677b550755663af0c6f8fd-480x296.webp"
@@ -10,16 +10,20 @@ source_url: "https://www.coindesk.com/markets/2025/08/21/fed-s-hammack-says-no-t
 ---
 
 **Važno za znati:**
-- Predsjednica Cleveland Fed-a Beth Hammack rekla je da podaci ne podržavaju smanjenje kamata.
-- Njezine izjave pokazuju da predsjednik Powell i dalje ima podršku za svoj „jastrebovski” stav.
-- Bitcoin je pao na dnevno najnižu razinu nakon njezinih komentara.
+- Predsjednica Cleveland FED-a Beth Hammack rekla je da podaci ne opravdavaju smanjenje kamatnih stopa.
+- Njezine izjave pokazuju da predsjednik Jerome Powell i dalje ima podršku unutar središnje banke za svoj „jastrebovski“ stav.
+- Bitcoin je nakon komentara pao na dnevno najnižu razinu.
 
-Tržišta brzo revidiraju očekivanja o skorom smanjenju kamata dok započinje godišnji simpozij u Jackson Holeu.
+Tržišta brzo revidiraju prethodno visoka očekivanja o skorom smanjenju kamatnih stopa dok započinje godišnji simpozij u Jackson Holeu u organizaciji Federalnih rezervi Kansas Cityja.
 
-„Imamo inflaciju koja je previsoka i raste već godinu dana. Ako bi se sastanak održao sutra, ne bih vidjela opravdanje za smanjenje stopa”, rekla je Hammack za Yahoo News. Dodala je da tek iduće godine očekuje puni učinak tarifa na inflaciju.
+„Trenutni podaci ne daju temelja za rujansko popuštanje“, rekla je Hammack za Yahoo News u Wyomingu. „Imamo inflaciju koja je previsoka i raste već godinu dana. Kad bi se sastanak održao sutra, ne bih vidjela razlog za snižavanje kamatnih stopa.“
 
-Njezine izjave pokazuju da predsjednik FED-a Jerome Powell i dalje ima značajnu podršku za svoj oštri stav, unatoč disonantnim glasovima unutar FOMC-a i Trumpovim zahtjevima za nižim kamatama.
+Dodala je i da podaci o inflaciji tek počinju odražavati učinak tarifa te da puni učinak neće biti vidljiv do iduće godine.
 
-Bitcoin je prošlog tjedna dosegao rekord od 124.000 USD kada je vladalo gotovo 100% uvjerenje da će FED sniziti kamate u rujnu. Samo tjedan dana kasnije, vjerojatnost je pala na 71%, a cijena Bitcoina pala je gotovo 10% na oko **112.800 USD** (na originalnoj stranici vrijednost se mijenja u realnom vremenu, npr. 116.895,38 USD).
+Hammackine izjave značajne su jer pokazuju da predsjednik FED-a Jerome Powell i dalje uživa veliku podršku u svom oštrom stavu, unatoč dvama disonantnim „golubovskim“ glasovima na posljednjem sastanku i Trumpovim stalnim pritiscima za nižim stopama.
 
-Očekuje se da će Powell u petak naglasiti kako inflacija i dalje ostaje previsoka i da nema mjesta popuštanju monetarne politike.
+Njezini komentari uslijedili su i nakon što su se posljednjih dana pojavili potencijalni Powellovi nasljednici s javnim zahtjevima za znatno nižim stopama. Posljednji je bio bivši čelnik St. Louis FED-a Jim Bullard, koji je zagovarao snižavanje kamatnih stopa za 100 baznih bodova.
+
+Prije samo tjedan dana bitcoin je dosegao rekordnu vrijednost iznad 124.000 USD, uz gotovo 100-postotno uvjerenje da će FED idućeg mjeseca sniziti stope. Sedam dana kasnije, ti su izgledi pali na 71% prema CME FedWatchu, a bitcoin (BTC) je pao gotovo 10% na sadašnjih **112.800 USD** (na originalnoj stranici vrijednost se mijenja uživo, npr. 116.895,38 USD).
+
+Tržišta će Powella čuti u petak na njegovom glavnom govoru i gotovo je sigurno da neće zauzeti „golubovski“ stav. Umjesto toga, vjerojatno će naglasiti da inflacija ostaje previsoka i da je potreban oprezan, „čekaj i vidi“ pristup.
