@@ -1,27 +1,23 @@
 ---
-category: news
-date: 2025-08-22 04:22:31+00:00
-image_url: https://cdn.sanity.io/images/s3y3vcno/production/a8185c29a55a7805ba8c40418021fd6352fe58b4-1920x1283.jpg
-source: CoinDesk
-source_url: https://www.coindesk.com/markets/2025/08/22/ripple-sbi-plan-rlusd-stablecoin-distribution-in-japan-by-2026
-summary: SBI VC Trade, a licensed Electronic Payment Instruments Exchange Service
-  Provider, said it expects RLUSD to go live in Japan during the first quarter of
-  2026.
-title: 'Ripple News: RLUSD Stablecoin koji će se distribuirati u Japanu do 2026. godine'
+title: "Ripple vijesti: RLUSD stablecoin bit će distribuiran u Japanu do 2026."
+date: 2025-08-22T04:22:31Z
+summary: "SBI VC Trade, licencirani pružatelj usluge razmjene elektroničkih platnih instrumenata, očekuje da će RLUSD biti lansiran u Japanu tijekom prvog tromjesečja 2026."
+category: "news"
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/a8185c29a55a7805ba8c40418021fd6352fe58b4-1920x1283.jpg"
+source: "CoinDesk"
+source_url: "https://www.coindesk.com/markets/2025/08/22/ripple-sbi-plan-rlusd-stablecoin-distribution-in-japan-by-2026"
 ---
 
-Ripple i SBI Holdings planiraju u Japanu razviti Ripple USD (RLUSD), s ciljem da se uključe u tržište Stablecoin u novom regulatornom okviru u zemlji.
+**Ripple** i **SBI Holdings** planiraju lansirati **Ripple USD (RLUSD)** u Japanu, ciljajući na rastuće tržište stablecoina pod novim regulatornim okvirom.  
 
-Dvije tvrtke najavile su u petak da su potpisale memorandum o razumijevanju, u kojem je uloga SBI VC Trade je ona distributera. SBI VC Trade, licencirani davatelj usluga elektroničkih instrumenata za razmjenu elektroničkih usluga, ima za cilj natjerati RLUSD da živi u Japanu tijekom prvog tromjesečja 2026. godine.
+Dvije kompanije objavile su u petak da su potpisale memorandum o razumijevanju, u kojem je **SBI VC Trade** imenovan distributerom. Kao licencirani pružatelj usluge razmjene elektroničkih platnih instrumenata, SBI VC Trade planira da RLUSD postane dostupan u Japanu tijekom prvog tromjesečja 2026. godine.  
 
-RLUSD je Rippleova prva Stablecoin inicijativa, pokrenuta u prosincu 2024. godine. Token je u potpunosti potpomognut depozitima američkih dolara, kratkoročnim riznicom i novčanim ekvivalentima, s mjesečnim potvrdama tvrtke treće strane.
+**RLUSD** je Rippleova prva stablecoin inicijativa, pokrenuta u prosincu 2024. Token je u potpunosti pokriven američkim dolarima na depozitima, kratkoročnim državnim obveznicama i ekvivalentima gotovine, uz mjesečne potvrde treće strane.  
 
-Ripple kaže da ova struktura nudi regulatornu jasnoću i usklađenost institucionalnog razreda-osobine za koje tvrdi da će razlikovati RLUSD od vršnjaka.
+Ripple tvrdi da ova struktura osigurava regulatornu jasnoću i usklađenost na institucionalnoj razini — značajke za koje vjeruje da će razlikovati RLUSD od konkurencije.  
 
-Rukovoditelji SBI -a uokvirili su partnerstvo kao korak u jačanju japanske infrastrukture za digitalnu financiju. "Uvođenje RLUSD -a neće samo proširiti mogućnost Stablecoina na japanskom tržištu, već je glavni korak naprijed u pouzdanosti i praktičnosti Stablecoina", rekao je izvršni direktor SBI VC Trgovine Tomohiko Kondo.
+Izvršni direktori SBI-ja predstavili su partnerstvo kao korak u jačanju japanske digitalne financijske infrastrukture. „Uvođenje RLUSD-a neće samo proširiti ponudu stablecoina na japanskom tržištu, već je i veliki iskorak u pouzdanosti i praktičnosti stablecoina“, rekao je izvršni direktor SBI VC Tradea **Tomohiko Kondo**.  
 
-Rukovoditelji Ripplea ponovili su fokus usklađenosti. "RLUSD je osmišljen kao pravi industrijski standard, pružajući pouzdan i učinkovit most između tradicionalnih i decentraliziranih financija", rekao je Jack McDonald, Rippleov viši potpredsjednik Stablecoinsa.
+Predstavnici Ripplea ponovili su fokus na usklađenost. „RLUSD je dizajniran da bude pravi industrijski standard, pružajući pouzdanu i učinkovitu poveznicu između tradicionalnih i decentraliziranih financija“, rekao je **Jack McDonald**, viši potpredsjednik Ripplea za stablecoine.  
 
-Uvođenje također ističe produbljivanje veza između Ripplea i SBI -a, dugogodišnjih partnera u Azijskom blockchain ekosustavu. Također dolazi nakon što je Japan odobrio prvu jen-denominiranu stabilu za izdavanje u zemlji početkom ovog tjedna.
-
-Shaurya je suigrač Coindesk tokena i podatkovnog tima u Aziji s naglaskom na kripto derivatima, DeFi, tržišnoj mikrostrukturi i protokolu
+Lansiranje također naglašava produbljivanje veza između Ripplea i SBI-ja, dugogodišnjih partnera u azijskom blockchain ekosustavu. Vijest dolazi neposredno nakon što je Japan odobrio prvi stablecoin denominiran u jenima za izdavanje u zemlji početkom tjedna.  
