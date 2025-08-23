@@ -1,26 +1,23 @@
 ---
-category: news
-date: 2025-08-21 16:32:43+00:00
-image_url: https://cdn.sanity.io/images/s3y3vcno/production/1fc62bc6f4d30b1c4cfef2e628ef8c7268c654b6-2543x1374.jpg
-source: CoinDesk
-source_url: https://www.coindesk.com/policy/2025/08/21/u-s-banking-regulator-occ-lifts-enforcement-order-from-anchorage-digital
-summary: The first U.S.-chartered crypto bank had been resolving the agency's requirements
-  to fix anti-money laundering controls since 2022.
-title: Američki bankarski regulator OCC podiže narudžbu za provedbu iz Anchorage Digital
+title: "Američki bankarski regulator OCC ukinuo nalog protiv Anchorage Digitala"
+date: 2025-08-21T16:32:43Z
+summary: "Prva kripto banka s američkom poveljom od 2022. je rješavala zahtjeve regulatora vezane uz kontrole protiv pranja novca."
+category: "news"
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1fc62bc6f4d30b1c4cfef2e628ef8c7268c654b6-2543x1374.jpg"
+source: "CoinDesk"
+source_url: "https://www.coindesk.com/policy/2025/08/21/u-s-banking-regulator-occ-lifts-enforcement-order-from-anchorage-digital"
 ---
 
-Anchorage Digital prešao je prema nalogu američkog bankarskog regulatora da IT institutira program usklađenosti radi zaštite od zlouporabe novca, pri čemu je ured nadzornika valute (OCC) najavio uklanjanje naloga za prekid i desistencije koji je prvotno objavljen 2022. godine.
+**Anchorage Digital** više nije pod nalogom američkog bankarskog regulatora da uvede program usklađenosti radi zaštite od zloupotreba pranja novca, nakon što je **Office of the Comptroller of the Currency (OCC)** objavio ukidanje naloga „cease-and-desist“ izdanog 2022. godine.  
 
-"OCC vjeruje da sigurnost i zdravost banke i njegovo usklađenost sa zakonima i propisima ne zahtijevaju kontinuirano postojanje naloga", navodi se u raskidu u četvrtak.
+„OCC smatra da sigurnost i stabilnost banke, kao i njezina usklađenost sa zakonima i propisima, više ne zahtijevaju postojanje ovog naloga“, navedeno je u priopćenju u četvrtak.  
 
-Digitalni izvršni direktor Anchorage Nathan McCauley, koji se pojavio kao visoki predstavnik kripto interesa u Washingtonu, uokvirio je akciju provedbe kao regulatorne "povratne informacije" u proslavi uklanjanja.
+Izvršni direktor Anchorage Digitala **Nathan McCauley**, koji je postao istaknuti predstavnik kripto interesa u Washingtonu, opisao je regulatorne mjere kao oblik povratne informacije te pozdravio njihovo ukidanje.  
 
-"Primili smo - i sada smo riješili - povratne informacije od regulatora dok smo postavili standard za saveznu skrbništvo nad digitalnom imovinom", rekao je u četvrtak misiva na web stranici tvrtke, u kojoj je Anchorage Digital nazvao "najreguliranijom svjetskom bankom digitalne imovine."
+„Primili smo — i sada riješili — povratne informacije regulatora dok postavljamo standard za federalno licencirano skrbništvo digitalne imovine“, napisao je u objavi na internetskoj stranici kompanije, nazvavši Anchorage Digital „najreguliranijom digitalnom bankom na svijetu“.  
 
-OCC i drugi američki bankarski regulatori od početka druge administracije predsjednika Donalda Trumpa nastojali su opustiti ograničenja na poslovima kripto industrije. Novi šef OCC -a Jonathan Gould, koji je položio zakletvu prošlog mjeseca, bio je veteran agencije koji je također radio u privatnom sektoru kao glavni pravni direktor za Bitfury.
+OCC i drugi američki bankarski regulatori od početka drugog mandata predsjednika **Donalda Trumpa** nastoje ublažiti ograničenja za poslovanje kripto industrije. Novi šef OCC-a **Jonathan Gould**, koji je preuzeo dužnost prošlog mjeseca, dugogodišnji je djelatnik agencije, ali je radio i u privatnom sektoru kao glavni pravni službenik Bitfuryja.  
 
-Anchorage Digital bila je prva kripto banka koja je osvojila punopravnu bankarsku povelju od agencije koja regulira nacionalne banke, a nakon toga, taj se prozor neko vrijeme zatvorio jer su regulatori tijekom mandata predsjednika Joea Bidena gledali industriju s više sumnje.
+Anchorage Digital bila je prva kripto banka koja je dobila punopravnu bankarsku povelju od agencije koja regulira nacionalne banke. Nakon toga regulator je privremeno zatvorio taj prozor tijekom mandata predsjednika **Joea Bidena**, kada je industrija gledana s većom sumnjom.  
 
-U novije vrijeme izdavači digitalne imovine, uključujući Circle, Ripple i Paxos, ponovno su se počeli prijavljivati ​​na OCC za pokretanje postupka bankarskog pucanja.
-
-Jesse Hamilton je zamjenik Coindeska
+U posljednje vrijeme, izdavatelji digitalne imovine poput **Circlea, Ripplea i Paxosa** ponovno su počeli podnositi zahtjeve OCC-u za započinjanje procesa dobivanja bankarske povelje.  
