@@ -1,25 +1,24 @@
 {{/* layouts/partials/langswitch.html */}}
-{{ if gt (len .Site.Languages) 1 }}
+{{- if gt (len .Site.Languages) 1 -}}
   <div class="lang-switch">
-    {{ $curr := . }}
-    {{ range .Site.Languages }}
-      {{ $isActive := eq .Lang $curr.Lang }}
+    {{- $curr := . -}}
+    {{- range .Site.Languages -}}
+      {{- $isActive := eq .Lang $curr.Lang -}}
 
-      {{/* 1) probaj naći prijevod ove stranice u jeziku iz petlje */}}
-      {{ $t := (where $curr.AllTranslations "Lang" .Lang) | first 1 }}
-      {{ $href := "" }}
-      {{ if $t }}
-        {{ $href = (index $t 0).RelPermalink }}
-      {{ else }}
-        {{/* 2) ako prijevod ne postoji, linkaj na početnu tog jezika */}}
-        {{ $home := (where site.Home.AllTranslations "Lang" .Lang) | first 1 }}
-        {{ if $home }}
-          {{ $href = (index $home 0).RelPermalink }}
-        {{ else }}
-          {{/* fallback — teoretski ne bi trebao trebati */}}
-          {{ $href = "/" }}
-        {{ end }}
-      {{ end }}
+      {{/* 1) Pokušaj naći prijevod OVE stranice u jeziku iz petlje */}}
+      {{- $trans := (where $curr.AllTranslations "Lang" .Lang) | first 1 -}}
+      {{- $href := "" -}}
+      {{- if $trans -}}
+        {{- $href = (index $trans 0).RelPermalink -}}
+      {{- else -}}
+        {{/* 2) Ako prijevod ne postoji, linkaj na početnu tog jezika */}}
+        {{- $homeTrans := (where site.Home.AllTranslations "Lang" .Lang) | first 1 -}}
+        {{- if $homeTrans -}}
+          {{- $href = (index $homeTrans 0).RelPermalink -}}
+        {{- else -}}
+          {{- $href = "/" -}} {{/* fallback, praktički se ne bi trebao dogoditi */}}
+        {{- end -}}
+      {{- end -}}
 
       <a class="lang {{ if $isActive }}active{{ end }}" href="{{ $href }}">
         <span class="flag">
@@ -27,6 +26,6 @@
         </span>
         {{ upper .Lang }}
       </a>
-    {{ end }}
+    {{- end -}}
   </div>
-{{ end }}
+{{- end -}}
