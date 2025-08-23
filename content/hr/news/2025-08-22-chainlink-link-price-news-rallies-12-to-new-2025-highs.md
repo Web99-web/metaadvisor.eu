@@ -6,7 +6,7 @@ translationKey: "2bfc12142ed34a38abad106e92840059"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/22/chainlink-s-link-rallies-12-to-new-2025-high-amid-token-buyback-broader-crypto-rally"
 summary: "Izvorni token oracle mreže probio je razine otpora, dosegnuvši najvišu cijenu od prosinca."
-tags: ["ai"]
+tags: ["ai", "link", "chainlink", "crypto"]
 image: "/news/2025-08-22-chainlink-link-price-news-rallies-12-to-new-2025-highs.png"
 ---
 
