@@ -1,29 +1,27 @@
 ---
-title: "Bitcoin (BTC) i Ether's (ETH) Nasilna cijena cijene potiče 375 milijuna dolara u Futures Likvidacije"
+title: "Bitcoin (BTC) i Ether (ETH) naglo skočili – 375 milijuna USD likvidacija futures ugovora"
 date: 2025-08-22T14:59:27Z
 category: "crypto"
 translationKey: "90052947058bd9e7fdbf0fac29f60a28"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/22/btc-rebounds-2-6-as-eth-notches-10-gain-to-prompt-usd320m-in-liquidations"
-summary: "Bitcoin je isključio ključnu potporu nakon što je Powell nagovijestio smanjenje stope, što je pokrenulo 375 milijuna dolara u likvidacijama dok je ETH LED dobivao 10%."
+summary: "Bitcoin je odskočio od ključne podrške nakon što je Powell nagovijestio snižavanje kamata, što je izazvalo 375 milijuna USD likvidacija dok je Ether predvodio s rastom od 10%."
 tags: ["bitcoin", "crypto"]
 image: "/news/2025-08-22-bitcoin-btc-and-ethers-eth-violent-price-spike-prompts-375m-in-futures-liquidati.png"
 ---
 
-Bitcoin BTC 115.766,97 USD odskočio je u petak na razini podrške od 111.800 USD, naglo je porastao za 2,6% na 114.800 USD nakon što je predsjednik Federalnih rezervi Jerome Powell nagovijestio potencijalno smanjenje stope tijekom govora u Jackson Holeu.
+Bitcoin (BTC) na vrijednosti od **115.766,97 USD** odskočio je s podrške na **111.800 USD** u petak, skočivši za 2,6% na 114.800 USD nakon što je predsjednik Federalnih rezervi Jerome Powell u govoru u Jackson Holeu nagovijestio moguće rezove kamatnih stopa.  
 
-Brzi potez, koji je prethodio rasprodaja koja je dovela do govora, rezultirala je likvidacijom više od 375 milijuna dolara kripto derivata, navodi Coinglass.Većina tih gubitaka pripisuje se trgovcima koji drže kratke pozicije.
+Naglo kretanje, koje je uslijedilo nakon rasprodaje uoči govora, dovelo je do likvidacije kripto derivata vrijednih više od **375 milijuna USD**, prema podacima CoinGlassa. Najveći dio gubitaka pogodio je trgovce na kratkim (short) pozicijama.  
 
-Pozicije etera (ETH) bile su najteže pogođene, s likvidiranjem od 150 milijuna dolara u posljednja četiri sata, jer je cijena porasla s 4.200 na 4.650 dolara, što je označilo 10% dobitak.
+Pozicije na **Etheru (ETH)** bile su najteže pogođene – likvidirano je oko 150 milijuna USD u protekla četiri sata dok je cijena porasla s 4.200 na 4.650 USD (+10%).  
 
-Bitcoin -ova razina podrške bila je presudna jer je u svibnju bio rekordan visok.Odskok ukazuje na preokret bika nakon jednotjednog pada sa 124.500 dolara.
+Razina podrške za Bitcoin bila je kritična jer se radilo o rekordu iz svibnja. Oporavak ukazuje na bikovski obrat nakon tjedan dana silaznog trenda s 124.500 USD.  
 
-Unatoč strahu da će Powell -ov govor imao sokolski ton, rekao je da se "nedostatak rizika od zaposlenja raste" i "ako se ti rizici ostvare, to mogu brzo učiniti u obliku oštro većih otpuštanja i rasta nezaposlenosti".
+Unatoč strahovima da će Powellov govor biti „jastrebovski“, on je izjavio: *„Rizici po zaposlenost rastu“* i *„Ako se ti rizici materijaliziraju, mogu se brzo pretvoriti u nagle otkaze i rast nezaposlenosti.“*  
 
-Komentari sugeriraju da bi smanjenja stope mogla biti na tablici sljedećeg mjeseca, što bi izravno koristilo imovinu rizika poput Bitcoina i Etera.
+Komentari sugeriraju da bi smanjenje kamata moglo biti na stolu već idućeg mjeseca, što bi izravno pogodovalo rizičnoj imovini poput Bitcoina i Ethera.  
 
-Tržište ostaje nestabilno nakon govora, a BTC se malo povukao sa 115.700 na 114.800 dolara.Dok su likvidacije preuzele derivate s tržišta, otvoreni interes porastao je na najvišoj točki u četiri dana, što sugerira da se odskakanje također podržava utjecajem, navodi Coinalyze.
+Tržište je ostalo nestabilno nakon govora, pri čemu se BTC povukao s 115.700 na 114.800 USD. Iako su likvidacije smanjile otvorene pozicije, **open interest** je porastao na najvišu razinu u četiri dana, što sugerira da oporavak prate i novi ulasci s polugom, prema Coinalyzeu.  
 
-Tržište Altcoina zaostaje za eterom, s izuzetkom Lido (LDO) i Ethena Ena 0,7572 USD, koji obojica nastavljaju svoj napredak nakon što se SEC pojasnila pravila oko stavljanja ranije ovog mjeseca.
-
-Oliver Knight je vođa Coindesk Data Tokens and Data tima.Prije pridruživanja
+Altcoini zaostaju za Etherom, izuzev **Lido (LDO)** i **Ethena (ENA, 0,7572 USD)**, koji nastavljaju rasti nakon što je SEC početkom mjeseca razjasnio pravila oko stakinga.  
