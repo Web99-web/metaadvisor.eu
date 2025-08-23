@@ -1,21 +1,25 @@
 ---
-title: "Šef IRS -a kripto rad izlazi kao američki porezne promjene tkalačkog stana za digitalnu imovinu"
+title: "Šefica IRS-ovog kripto odjela odlazi dok se spremaju porezne promjene za digitalnu imovinu u SAD-u"
 date: 2025-08-22T19:13:02Z
 category: "crypto"
 translationKey: "d9b33d450c88ab09e0b28c10eb40f641"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/08/22/head-of-irs-crypto-work-exits-as-u-s-digital-assets-tax-changes-loom"
-summary: "Trish Turner, američki veteran za interne prihode koji vodi napor digitalne imovine, najnoviji je visoki dužnosnik koji odlazi u privatni sektor."
-tags: ["crypto"]
+summary: "Trish Turner, dugogodišnja zaposlenica američkog Poreznog ureda (IRS) i voditeljica odjela za digitalnu imovinu, posljednja je u nizu visokih dužnosnika koji odlaze u privatni sektor."
+tags: ["crypto", "token", "financije", "irs", "porezi", "sad", "digital-assets"]
 image: "/news/2025-08-22-head-of-irs-crypto-work-exits-as-us-tax-changes-loom-for-digital-assets.jpg"
 ---
 
-Voditeljica američke jedinice za digitalnu imovinu Službe za unutarnje prihode, Trish Turner, napušta svoje mjesto za privatni sektor, baš kao što su nove porezne politike postavljene kako bi potencijalno unijele val kriptovaluta za agenciju.
+Voditeljica odjela američkog Poreznog ureda (IRS) za digitalnu imovinu, **Trish Turner**, napušta svoju poziciju i prelazi u privatni sektor baš u trenutku kada bi nove porezne politike mogle donijeti val kripto-poslova za agenciju.  
 
-Kako odlazi, nejasno je tko će voditi ured koji je vodio kripto rad porezne agencije jer je glavni pomak u američkoj digitalnoj imovini na horizontu.Turnerov izlaz dolazi nakon što je IRS postavio nekoliko novih pravila i obrasca za izradu zahtjeva za oporezivanjem pojedinih kripto ulagača i njihovih brokera.A odlazak dolazi nakon što su još dva vrhunska dužnosnika na kriptovalutama, Seth Wilks i Raj Mukherjee, već napustili kampanju Trumpove administracije proračunskog proračuna početkom ove godine.
+Nakon njezina odlaska, ostaje nejasno tko će voditi ured koji je do sada bio zadužen za poreznu regulaciju kripto-imovine, dok se na horizontu nazire velika promjena u američkom poreznom sustavu. Turner odlazi nakon što je IRS već uveo nekoliko novih pravila i obrazaca za usmjeravanje poreznih obveza kripto-ulagača i njihovih brokera.  
 
-Porezna ruku Ministarstva financija spremna je doživjeti ogroman priliv kripto-sektorskih prijava, dok je također vremenski proračun i smanjenje osoblja u većem od 20 000 zaposlenih.Osoblje IRS-a-dugo meta republikanskih zakonodavaca-doživjela je dugoročni pad s otprilike 113.000 prije tri desetljeća na oko 76.000 po nedavnom broju.
+Odlazak dolazi i nakon što su dvojica drugih visokih dužnosnika povezanih s kripto porezima, **Seth Wilks** i **Raj Mukherjee**, već ranije napustila IRS zbog rezanja proračuna pod administracijom predsjednika Trumpa.  
 
-Jedna od glavnih kripto promjena na IRS-u bio je novi obrazac 1099-DA koji će milijuni ulagača primiti od svojih kripto posrednika.Oko 3 milijuna poreznih obveznika ranije je otkrilo da imaju kripto transakcije - broj koji je u stvarnosti vjerojatno mnogo veći, postavljajući potencijalni skok novootkrivenih kripto poreznih obveznika dok se politike pojavljuju na mreži.IRS nije odgovorio na pitanja o Turnerovom odlasku i tko će preuzeti.
+Porezna uprava pri Ministarstvu financija suočava se s ogromnim priljevom prijava iz kripto sektora, dok se u isto vrijeme bori s rezovima proračuna i smanjenjem broja zaposlenih — više od **20.000 radnih mjesta**. Broj zaposlenih u IRS-u pao je s oko 113.000 prije tri desetljeća na samo 76.000 danas.  
 
-"Digitalna imovina prebacila se s nišnog problema u temeljni fokus za globalne regulatore, a ponosan sam što sam pomogao postaviti temelje za nadzor u ovom brzo promjenjivom prostoru", rekao je Turner u izjavi Coindesku."Sad sam uzbuđen
+Jedna od ključnih novosti za kripto u IRS-u bio je novi obrazac **1099-DA**, koji će milijuni ulagača ubuduće primati od svojih kripto brokera. Do sada je oko 3 milijuna poreznih obveznika prijavilo da su imali kripto transakcije, no stvarni broj je vjerojatno znatno veći — što znači da će se broj prijava naglo povećati s uvođenjem novih politika.  
+
+IRS nije odgovorio na pitanja o odlasku Turner i o tome tko će preuzeti njezinu ulogu.  
+
+> “Digitalna imovina se iz nišne teme pretvorila u glavni fokus globalnih regulatora, i ponosna sam što sam pomogla postaviti temelje nadzora u ovom brzo mijenjajućem sektoru,” izjavila je Turner za CoinDesk. “Sada sam uzbuđena što idem dalje u privatni sektor.”  
