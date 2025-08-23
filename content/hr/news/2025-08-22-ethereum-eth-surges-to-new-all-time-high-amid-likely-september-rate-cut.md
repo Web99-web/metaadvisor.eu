@@ -1,27 +1,25 @@
 ---
-title: "Ethereum (ETH) prelazi na novi maksimum svih vremena usred vjerojatnih rujna smanjenja"
+title: "Ethereum (ETH) doseže novi povijesni maksimum usred mogućeg rezanja kamata u rujnu"
 date: 2025-08-22T21:16:21Z
 category: "crypto"
 translationKey: "edbf41d4a18733c9b7feafb4ab750e4e"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/22/ethereum-surges-to-new-all-time-high-amid-likely-september-rate-cut"
-summary: "Token se u petak popeo na svježi rekord na Coinbaseu."
-tags: ["crypto"]
+summary: "Token je u petak na Coinbaseu dosegnuo novu rekordnu vrijednost."
+tags: ["crypto", "token", "financije", "ethereum", "eth", "bitcoin", "btc", "lido", "ldo", "ethena", "ena"]
 image: "/news/2025-08-22-ethereum-eth-surges-to-new-all-time-high-amid-likely-september-rate-cut.jpg"
 ---
 
-Ethereum ETH 4.749,79 dolara doseglo je rekordnu cijenu od 4.885 dolara na Coinbase u petak, nakon što je govor predsjednika Federalne rezerve Jerome Powell sugerirao smanjenje kamatnih stopa ostavio trgovce u raseljenju u vikend.
+**Ethereum (ETH, 4.749,79 USD)** dosegnuo je u petak rekordnu cijenu od **4.885 USD** na Coinbaseu nakon govora predsjednika Federalnih rezervi **Jeromea Powella**, koji je sugerirao smanjenje kamatnih stopa i ulagačima donio olakšanje pred vikend.  
 
-Token je porastao gotovo 15% u protekla 24 sata kao dio šireg skupa na financijskim tržištima.
+Token je porastao gotovo **15% u posljednja 24 sata** kao dio šireg uzleta na financijskim tržištima.  
 
-Ipak, Ether je miting istaknuo među ostalim tokenima.Bitcoin je također bio gore, ali samo za oko 4%.Indeks Coindesk 20, koji prati šire kripto tržište, porastao je za 9% u istom razdoblju.
+Unatoč rastu drugih tokena, ETH se posebno istaknuo. **Bitcoin** je također porastao, ali tek oko 4%. Indeks **CoinDesk 20**, koji prati šire kripto tržište, ojačao je 9% u istom razdoblju.  
 
-Powell je u petak dao nagovještaje da će Fed doista smanjiti kamatne stope u rujnu, kao što su u početku predviđali trgovci.Nada je, međutim, izblijedjela u posljednjih nekoliko dana, uzrokujući značajnu reakciju na globalnim tržištima tijekom sati trgovanja.
+Powell je u petak dao nagovještaje da će Fed uistinu sniziti kamatne stope u rujnu, kako su trgovci i očekivali. Nada je, međutim, oslabila posljednjih dana, što je izazvalo snažnu reakciju na globalnim tržištima tijekom petka.  
 
-Eter nije samo ove godine profitirao od makroekonomskih okolnosti, već još više od obnovljenog institucionalnog interesa za mrežu koja stoji iza tokena.
+Ethereum nije profitirao samo od makroekonomskih okolnosti ove godine, nego još više od obnovljenog institucionalnog interesa za mrežu iza tokena.  
 
-Nekoliko tvrtki počelo je akumulirati eter kao dio svoje strategije blagajne, uključujući Ethzillu koju je podržao investitor milijardera Peter Thiel.Neki vjeruju da će Ethereum na kraju biti najdraži blockchain na Wall Streetu na kojem će se graditi, što će potaknuti potražnju za svojim rodnim žetonom.
+Nekoliko je tvrtki počelo akumulirati ETH kao dio svoje **rizničke strategije**, uključujući **ETHZilla**, koju podupire milijarder Peter Thiel. Neki vjeruju da će Ethereum jednog dana postati omiljena blockchain platforma Wall Streeta, što dodatno potiče potražnju za njegovim izvornim tokenom.  
 
-Kao rezultat toga, Ether je ove godine nadmašio Bitcoin, što je više od 45% od početka 2025., dok je najveća kripto valuta porasla za 25%.Neki drugi tokeni povezani s eterom, poput Lido (LDO) i Ethena Ena 0,7572 USD, također su imali koristi od ETH-ovog Swift Rally-a.
-
-Helene je novinarka na tržištima u New Yorku u Coindesku, koja je pokrivala najnovije vijesti s Wall Streeta, uspon sredstava i ažuriranja na kripto tržištima.Diplomirala je na programu poslovnog i ekonomskog izvještavanja na Sveučilištu New York, a pojavila se na CBS News, Yahoofinance i NASDAQ Tradetalks.Ona drži btc i
+Kao rezultat toga, ETH je ove godine nadmašio Bitcoin — porastao je oko **45% od početka 2025.**, dok je najveća kriptovaluta ojačala 25%. Drugi tokeni povezani s Ethereumom, poput **Lido (LDO)** i **Ethena (ENA)**, također su imali koristi od brzog rasta ETH-a.  
