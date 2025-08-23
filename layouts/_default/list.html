@@ -5,22 +5,26 @@
     {{ $p := .Paginate (.Pages.ByDate.Reverse) }}
     {{ range $p.Pages }}
       <a class="card" href="{{ .RelPermalink }}">
-     {{ $img := or .Params.image_url .Params.image }}
-{{ if $img }}
-  {{ $src := $img }}
-  {{ if not (hasPrefix $img "http") }}
-    {{ $src = $img | relURL }}
-  {{ end }}
-  <img src="{{ $src }}" alt="">
-{{ else }}
-  <img src="{{ "/images/placeholder.jpg" | relURL }}" alt="">
-{{ end }}
+
+        {{/* Slika: prvo image_url (apsolutni), pa image (relativni), pa placeholder */}}
+        {{ $img := or .Params.image_url .Params.image }}
+        {{ if $img }}
+          {{ $src := $img }}
+          {{ if not (hasPrefix $img "http") }}
+            {{ $src = ($img | relURL) }}
+          {{ end }}
+          <img src="{{ $src }}" alt="{{ .Title }}" loading="lazy">
+        {{ else }}
+          <img src="{{ "/images/placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
+        {{ end }}
 
         <div class="card-body">
           <div class="card-meta">
             <span class="muted">{{ .Date.Format "2006-01-02" }}</span>
             {{ with .Params.category }}
-              <span class="badge"><a href="/categories/{{ . | urlize }}/">{{ . }}</a></span>
+              <span class="badge">
+                <a href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
+              </span>
             {{ end }}
           </div>
           <h2 class="card-title">{{ .Title }}</h2>
