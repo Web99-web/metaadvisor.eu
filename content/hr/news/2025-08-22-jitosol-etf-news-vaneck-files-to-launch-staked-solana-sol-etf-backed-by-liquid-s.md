@@ -1,29 +1,27 @@
 ---
-title: "Jitosol ETF News: Vaneck datoteke za lansiranje stavljenih solana (sol) ETF potkrijepljen tokenom tekućine Jitosol"
+title: "JitoSOL ETF vijesti: VanEck podnio zahtjev za pokretanje staked Solana (SOL) ETF-a podržanog tokenom likvidnog stakinga JitoSOL"
 date: 2025-08-22T18:17:56Z
 category: "crypto"
 translationKey: "51d64d113eab5d7d4b7dc28a234974f1"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/22/vaneck-aims-to-take-solana-s-liquid-staking-to-tradfi-investors-via-jitosol-etf"
-summary: "Fond bi ponudio izloženost Stane Solani putem Jitosola, prateći nagrade za stavljanje."
-tags: ["crypto"]
+summary: "Fond bi omogućio izloženost staked Solani putem JitoSOL-a, prateći nagrade od stakinga."
+tags: ["crypto", "token", "financije", "etf", "solana", "sol", "jitosol", "vaneck"]
 image: "/news/2025-08-22-jitosol-etf-news-vaneck-files-to-launch-staked-solana-sol-etf-backed-by-liquid-s.jpg"
 ---
 
-Voditelj imovine Vaneck podnio je za pokretanje Fonda za stajalište Solana Sol 205,76 USD (ETF), signalizirajući kontinuirani interes za donošenje imovine koja nosi prinose na prinosu na tradicionalne investicijske tračnice.
+Upravitelj imovinom **VanEck** podnio je zahtjev za pokretanje **ETF-a vezanog uz staked Solanu (SOL)**, što pokazuje nastavak interesa za uvođenje blockchain-native imovine koja donosi prinos na tradicionalna investicijska tržišta.  
 
-Prijava, podnesena u petak kao registracija S-1 s američkom Komisijom za vrijednosne papire (SEC), prva je od dva podneska potrebna za popis fonda.Ako bude odobren, ETF bi držao Jitosol, token tekućine za ulaganje u solanu blockchain.Jitosol odražava vlasništvo nad sol tokenima koji su stavljeni i također prikupljaju nagrade za ulaganje koje zarađuju ti tokeni.
+Zahtjev je u petak predan američkoj Komisiji za vrijednosne papire i burzu (**SEC**) kao registracija S-1, što je prvi od dva potrebna koraka za uvrštenje fonda. Ako bude odobren, ETF bi držao **JitoSOL**, token likvidnog stakinga na Solana blockchainu. **JitoSOL** odražava vlasništvo nad SOL tokenima koji su uloženi (staked) te uključuje nagrade ostvarene stakingom.  
 
-Za razliku od tradicionalnih ETF -ova, ovaj proizvod ne bi samo pratio cijenu SOL -a, već i prihod ostvaren unošenjem - učinkovito pečenjem Solanovog prinosa u javno trgovački proizvod.
+Za razliku od tradicionalnih ETF-ova, ovaj proizvod ne bi pratio samo cijenu SOL-a, već i prihod generiran stakingom — čime se Solanin prinos ugrađuje u javno trgovani proizvod.  
 
-SEC je u tijeku razgovore s pružateljima usluga ETF -a, uključujući Vaneck, o tome može li se komponente ulaganja integrirati u postojeće i predložene kripto investicijske fondove.
+SEC je u stalnim razgovorima s pružateljima ETF-ova, uključujući VanEck, o tome može li se staking komponenta integrirati u postojeće i predložene kripto fondove.  
 
-Govoreći na industrijskom panelu u Jackson Holeu ranije ovog tjedna, predsjedavajući SEC -a Paul Atkins rekao je da komisija želi očistiti regulatorne uske grleke koje usporavaju inovacije.
+Govoreći ranije ovog tjedna na panelu u Jackson Holeu, predsjednik SEC-a **Paul Atkins** rekao je da Komisija želi ukloniti regulatorne prepreke koje usporavaju inovacije.  
 
-"Puno je proljetnog čišćenja koje treba obaviti na SEC -u", rekao je."Ne možemo imati stvari tako nejasne da odvjetnici ne mogu dati mišljenja klijentima."
+> “SEC treba veliko proljetno čišćenje. Ne možemo imati stvari toliko komplicirane da odvjetnici ne mogu dati jasne savjete klijentima.”  
 
-Atkins je rekao da bi buduća pravila agencije trebala biti fleksibilna i osmišljena da se razvijaju.Dodao je da SEC želi nastaviti svoje nasljeđe prilagođavanja novim tehnologijama, nagovještavajući otvoreniji stav prema proizvodima Crypto Asset -a poput ETF -a za tekućinu.
+Atkins je naglasio da bi buduća pravila Komisije trebala biti fleksibilna i prilagođena razvoju tehnologije. Dodao je da SEC želi nastaviti tradiciju prilagodbe novim tehnologijama, nagovještavajući otvoreniji stav prema proizvodima poput ETF-ova temeljenih na likvidnom stakingu.  
 
-Vaneck se pridružuje brojnim upraviteljima imovine koji žele pokrenuti stavljeni solana fond, uključujući Fidelity, Greyscale i Franklin Templeton.
-
-Helene je novinarka na tržištima u New Yorku u Coindesku, koja pokriva najnovije vijesti s Wall Streeta, The Rise
+**VanEck** se tako pridružuje nizu upravitelja imovinom koji žele lansirati staked Solana fond, među kojima su **Fidelity, Grayscale i Franklin Templeton**.  
