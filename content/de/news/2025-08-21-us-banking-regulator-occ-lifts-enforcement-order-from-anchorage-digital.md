@@ -1,27 +1,23 @@
 ---
-category: news
-date: 2025-08-21 16:32:43+00:00
-image_url: https://cdn.sanity.io/images/s3y3vcno/production/1fc62bc6f4d30b1c4cfef2e628ef8c7268c654b6-2543x1374.jpg
-source: CoinDesk
-source_url: https://www.coindesk.com/policy/2025/08/21/u-s-banking-regulator-occ-lifts-enforcement-order-from-anchorage-digital
-summary: The first U.S.-chartered crypto bank had been resolving the agency's requirements
-  to fix anti-money laundering controls since 2022.
-title: Die US -Bankenregulierungsbehörde OCC hebt die Durchsetzungsverordnung von
-  Anchorage Digital auf
+title: "US-Bankenaufsicht OCC hebt Anordnung gegen Anchorage Digital auf"
+date: 2025-08-21T16:32:43Z
+summary: "Die erste US-lizenzierte Kryptobank erfüllte seit 2022 die Auflagen zur Verbesserung der Geldwäschekontrollen."
+category: "news"
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1fc62bc6f4d30b1c4cfef2e628ef8c7268c654b6-2543x1374.jpg"
+source: "CoinDesk"
+source_url: "https://www.coindesk.com/policy/2025/08/21/u-s-banking-regulator-occ-lifts-enforcement-order-from-anchorage-digital"
 ---
 
-Anchorage Digital hat unter der Bestellung seiner US-amerikanischen Bankenregulierungsbehörde ein Compliance-Programm zum Schutz vor Geldwäsche-Missbräuchen ausgeweitet. Das Amt des Comptroller of the Currency (OCC) kündigte die Entfernung der ursprünglich im Jahr 2022 erteilten Waffenstillstandsbeschluss an.
+**Anchorage Digital** steht nicht länger unter der Anordnung der US-Bankenaufsicht, ein umfassendes Compliance-Programm zur Verhinderung von Geldwäsche einzuführen. Das **Office of the Comptroller of the Currency (OCC)** gab am Donnerstag die Aufhebung der ursprünglich 2022 erlassenen „Cease-and-Desist“-Anordnung bekannt.  
 
-"Das OCC ist der Ansicht, dass die Sicherheit und die Solidität der Bank und ihre Einhaltung der Gesetze und Vorschriften nicht das Fortbestehen der Anordnung erfordert", heißt es in der am Donnerstag angekündigten Kündigung.
+„Das OCC ist der Ansicht, dass die Sicherheit und Solidität der Bank sowie ihre Einhaltung von Gesetzen und Vorschriften das Fortbestehen der Anordnung nicht mehr erfordern“, hieß es in der Mitteilung.  
 
-Der CEO von Anchorage Digital, Nathan McCauley, der sich als hochkarätiger Vertreter der Kryptointeressen in Washington entwickelt hat, rahmte die Durchsetzungsmaßnahme als regulatorisches "Feedback" bei der Feier der Entfernung ein.
+CEO **Nathan McCauley**, der sich als prominenter Vertreter der Krypto-Interessen in Washington etabliert hat, bezeichnete die Durchsetzungsmaßnahme als regulatorisches „Feedback“ und feierte deren Aufhebung.  
 
-"Wir haben - und haben jetzt das Feedback von Aufsichtsbehörden gelöst, als wir den Standard für das Sorgerecht für digitale Vermögenswerte in der Bundeskartuelle festgelegt haben", sagte er in einem Donnerstagskapsel auf der Website des Unternehmens, auf der er Anchorage Digital "die am meisten regulierte digitale Vermögensbank der Welt" bezeichnete.
+„Wir haben — und nun auch gelöst — Feedback von den Aufsichtsbehörden erhalten, während wir den Standard für bundesstaatlich lizenzierte Verwahrung digitaler Vermögenswerte setzen“, schrieb er am Donnerstag auf der Website des Unternehmens. Er bezeichnete Anchorage Digital als „die weltweit am stärksten regulierte Digital-Asset-Bank“.  
 
-Die OCC und andere US -amerikanische Bankaufsichtsbehörden haben seit Beginn der zweiten Verwaltung von Präsident Donald Trump versucht, Einschränkungen für Unternehmen der Kryptoindustrie zu entspannen. Der neue OCC -Chef Jonathan Gould, der im letzten Monat vereidigt wurde, war ein Veteran der Agentur, der auch als Chief Legal Officer für Bitfury im privaten Sektor gearbeitet hat.
+Das OCC und andere US-Bankenaufseher versuchen seit Beginn der zweiten Amtszeit von Präsident **Donald Trump**, die Beschränkungen für Krypto-Unternehmen zu lockern. Der neue OCC-Chef **Jonathan Gould**, der sein Amt letzten Monat antrat, ist ein erfahrener Mitarbeiter der Behörde, arbeitete jedoch auch im Privatsektor als Chief Legal Officer bei Bitfury.  
 
-Anchorage Digital war die erste Crypto Bank, die eine vollwertige Bankcharter der Agentur gewann, die die Nationalbanken reguliert, und nachdem dies geschafft hatte, hatte dieses Fenster eine Zeit lang als Aufsichtsbehörden während der Amtszeit von Präsident Joe Biden geschlossen, die die Branche mit mehr Verdacht betrachteten.
+Anchorage Digital war die erste Kryptobank, die eine vollwertige Banklizenz von der nationalen Bankenaufsichtsbehörde erhielt. Danach wurde dieses Zeitfenster unter Präsident **Joe Biden** wieder geschlossen, da die Branche mit größerem Misstrauen betrachtet wurde.  
 
-In jüngerer Zeit haben Digital Assets Emittenten wie Circle, Ripple und Paxos erneut begonnen, sich für das OCC zu bewerben, um den Bank-Charter-Prozess zu starten.
-
-Jesse Hamilton ist Coindesks Abgeordneter
+In jüngster Zeit haben Emittenten digitaler Vermögenswerte wie **Circle, Ripple und Paxos** erneut begonnen, beim OCC Anträge auf Einleitung des Lizenzierungsprozesses zu stellen.  
