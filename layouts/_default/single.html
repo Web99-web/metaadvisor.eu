@@ -1,20 +1,23 @@
 {{ define "main" }}
 <article class="post container">
   <header class="post-hero">
-    {{ if .Params.image_url }}
-      <img class="post-hero-img" src="{{ .Params.image_url }}" alt="{{ .Title }}" loading="lazy">
-    {{ else if .Params.image }}
-      <img class="post-hero-img" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
+    {{ $img := or .Params.image_url .Params.image }}
+    {{ if $img }}
+      {{ $src := $img }}
+      {{ if not (hasPrefix $img "http") }}{{ $src = ($img | relURL) }}{{ end }}
+      <img class="post-hero-img" src="{{ $src }}" alt="{{ .Title }}" loading="lazy">
+    {{ else }}
+      <img class="post-hero-img" src="{{ "/images/placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
     {{ end }}
 
     <h1 class="post-title">{{ .Title }}</h1>
     <div class="post-meta">
       <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
       {{ with .Params.category }}
-        · <a class="badge" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+        · <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
       {{ end }}
       {{ with .Params.tags }}
-        · {{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="{{ "/tags/" | relLangURL }}{{ $t | urlize }}/">{{ $t }}</a>{{ end }}
+        · {{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href='{{ "/tags/" | relLangURL }}{{ $t | urlize }}/'>{{ $t }}</a>{{ end }}
       {{ end }}
     </div>
   </header>
