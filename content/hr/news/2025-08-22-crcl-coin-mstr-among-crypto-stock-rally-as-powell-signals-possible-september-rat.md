@@ -1,27 +1,27 @@
 ---
-title: "CRCL, COIN, MSTR među kripto dionicama kao što Powell signalizira moguće rujna smanjenja stope"
+title: "CRCL, COIN, MSTR među kripto dionicama u rastu dok Powell signalizira moguće rezove kamata u rujnu"
 date: 2025-08-22T14:35:02Z
 category: "crypto"
 translationKey: "87b5080d27768f54196f10cc457e6f70"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/22/circle-coinbase-strategy-among-crypto-stock-rally-as-powell-signals-september-rate-cuts-may-be-on-the-table"
-summary: "Circle, Etoro i Marathon doveli su u petak oštri dobitak nakon što je predsjednik Federalnih rezervi Jerome Powell nagovijestio da bi promjena politike mogla doći sljedećeg mjeseca."
-tags: ["crypto"]
+summary: "Circle, eToro i Marathon predvodili su rast u petak nakon što je predsjednik Fed-a Jerome Powell nagovijestio da bi do promjene politike moglo doći već idući mjesec."
+tags: ["crypto", "token", "financije", "bitcoin", "btc", "ethereum", "eth", "circle", "crcl", "coinbase", "coin", "microstrategy", "mstr", "marathon", "mara", "etoro", "etor", "robinhood", "hood"]
 image: "/news/2025-08-22-crcl-coin-mstr-among-crypto-stock-rally-as-powell-signals-possible-september-rat.jpg"
 ---
 
-Kripto-povezane dionice i digitalna imovina porasle su u petak nakon što je predsjednik Federalnih rezervi Jerome Powell nagovijestio da bi središnja banka mogla početi smanjivati ​​kamatne stope već rujna.
+Kripto-dionice i digitalna imovina snažno su porasle u petak nakon što je predsjednik Federalnih rezervi **Jerome Powell** signalizirao da bi Fed mogao početi s rezanjem kamatnih stopa već u rujnu.  
 
-Ton je označio pomak nakon tjedana rastuće investitore sumnja da će Fed djelovati prije kraja godine.
+Ton predstavlja zaokret nakon tjedana rastuće sumnje ulagača da će Fed djelovati prije kraja godine.  
 
-Bitcoin BTC 115,766,97 USD i Eter (ETH) pomaknuli su se više nakon Powellovih primjedbi, kao i S&P 500 i NASDAQ.Dionice vezane izravno za kripto sektor objavile su neke od najoštrijih poteza dana.
+**Bitcoin (BTC, 115.766,97 USD)** i **ether (ETH)** također su porasli nakon Powellovih komentara, baš kao i **S&P 500** i **Nasdaq**. Dionice izravno vezane uz kripto sektor zabilježile su neke od najjačih dnevnih pomaka.  
 
-U vrijeme pisanja, Circle (CRCL) je vodio paket sa skokom od 7%.Etoro (ETOR) i Marathon Digital (MARA) popeli su se na 6%, dok je Coinbase (kovanik) porastao za 5%.MicroStrategy (MSTR), koji drži milijarde bitcoina, stekao je 4%, a Robinhood (Hood) napredovao 3%.
+U trenutku pisanja, **Circle (CRCL)** predvodio je rast sa skokom od 7%. **eToro (ETOR)** i **Marathon Digital (MARA)** porasli su po 6%, dok je **Coinbase (COIN)** ojačao 5%. **MicroStrategy (MSTR)**, koji drži milijarde u Bitcoinu, dobio je 4%, a **Robinhood (HOOD)** napredovao 3%.  
 
-Pokreti su naglasili kako čvrsto kripto imovina i dionice ostaju povezani s očekivanjima za američku monetarnu politiku.Niže kamatne stope obično olakšavaju financijske uvjete, potičući preuzimanje rizika i povećavajući privlačnost špekulativne imovine.
+Kretanja su naglasila koliko su kripto imovina i dionice i dalje čvrsto povezane s očekivanjima oko monetarne politike SAD-a. Niže kamatne stope obično olakšavaju financijske uvjete, potiču preuzimanje rizika i povećavaju privlačnost špekulativne imovine.  
 
-Američki predsjednik Donald Trump više je puta pozvao Fed da ublaži troškove zaduživanja.Powell je, međutim, naglasio da inflacijski rizici ostaju, a tržište rada i dalje pokazuje znakove naprezanja.
+Predsjednik SAD-a **Donald Trump** više je puta pozvao Fed da smanji troškove zaduživanja. Powell je, međutim, naglasio da rizici od inflacije i dalje postoje te da tržište rada pokazuje znakove slabosti.  
 
-Ipak, predložio je da se izračuna razvija."Čini se da se ravnoteža rizika mijenja", rekao je Powell, dodajući da, iako slika poslova izgleda stabilno na površini, "to je znatiželjna vrsta ravnoteže koja proizlazi iz izrazitog usporavanja i ponude i potražnje za radnicima."
+Ipak, Powell je sugerirao da se računica mijenja: *„Ravnoteža rizika očito se pomiče,“* rekao je, dodavši da iako tržište rada na površini izgleda stabilno, *„riječ je o neobičnoj ravnoteži koja proizlazi iz izraženog usporavanja i ponude i potražnje za radnicima.“*  
 
-To oprezno uokvirivanje pomoglo je uvjeravanju tržišta da se Fed potencijalno priprema za smanjenje stope, ali ne ubrzanje u odluku.Ulagači su postali manje samopouzdani u rujanskom smanjenju nakon niza čvršćeg ekonomskih čitanja.Komentari u petak vraćaju mogućnost
+Takav oprezan ton pomogao je uvjeriti tržišta da se Fed potencijalno priprema za rezanje stopa, ali bez naglog donošenja odluke. Investitori su prethodnih tjedana izgubili povjerenje u mogućnost rezova u rujnu zbog čvršćih ekonomskih pokazatelja. Powellovi komentari u petak ponovno su stavili tu mogućnost na stol.  
