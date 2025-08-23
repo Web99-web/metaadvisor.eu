@@ -1,27 +1,23 @@
 ---
-title: "Kettenlink (Link) Preisnachrichten: Kundgebungen 12% bis neu 2025 Hochs"
+title: "Chainlink (LINK) Kurs-News: 12% Anstieg auf neue Höchststände 2025"
 date: 2025-08-22T16:57:28Z
 category: "ai"
 translationKey: "2bfc12142ed34a38abad106e92840059"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/22/chainlink-s-link-rallies-12-to-new-2025-high-amid-token-buyback-broader-crypto-rally"
-summary: "Das native Token des Oracle Network hat das Widerstandsniveau durch den stärksten Preis seit Dezember durchgesetzt."
-tags: ["ai"]
+summary: "Der native Token des Oracle-Netzwerks durchbrach Widerstände und erreichte den höchsten Stand seit Dezember."
+tags: ["ai", "link", "chainlink", "crypto"]
 image: "/news/2025-08-22-chainlink-link-price-news-rallies-12-to-new-2025-highs.png"
 ---
 
-Der native Token von Oracle Network Chainlink (Link) erholte sich stark mit dem breiteren Kryptomarkt, nachdem der Vorsitzende der Federal Reserve, Jerome Powell, in Jackson Hole, Wyoming, in Jackson Hole.
+Der native Token des **Oracle-Netzwerks Chainlink (LINK)** erholte sich stark zusammen mit dem breiteren Kryptomarkt, nachdem Fed-Chef Jerome Powell in Jackson Hole, Wyoming, eine eher *dovish* Haltung signalisierte.  
 
-Link versammelte sich in den letzten 24 Stunden 12% und erreichte 27,8 USD, seinen stärksten Preis seit Dezember.Bitcoin BTC $ 115.757,65 schätzte im gleichen Zeitraum 3,5%, während der Breitmarket Coindesk 20 Index um 6,5% stieg.
+**LINK stieg in den letzten 24 Stunden um 12%** auf 27,8 USD – den höchsten Stand seit Dezember. Bitcoin (BTC, 115.757,65 USD) legte im gleichen Zeitraum um 3,5% zu, während der CoinDesk 20 Index um 6,5% kletterte.  
 
-In protokollspezifischen Nachrichten erhielt Chainlink diese Woche zwei Hauptsicherheitszertifizierungen: ISO 27001 und eine Bestätigung von SoC 2 Typ 1, die eine Premiere für eine Blockchain-Oracle-Plattform markiert.Die von Deloitte durchgeführten Audits, die Preisvorschriften von Chainlink, Proof-of-Reserve-Dienste und das Cross-Chain-Interoperabilitätsprotokoll (CCIP).
+In protokollspezifischen Nachrichten erhielt Chainlink diese Woche **zwei wichtige Sicherheitszertifizierungen: ISO 27001 und SOC 2 Typ 1** – ein Novum für eine Blockchain-Oracle-Plattform. Die von Deloitte durchgeführten Audits umfassten Chainlinks *Price Feeds*, *Proof-of-Reserve*-Dienste und das Cross-Chain Interoperability Protocol (CCIP).  
 
-Der Oracle -Anbieter sagt, dass der Umzug das Vertrauen in seine Datendienste stärkt und die Akzeptanz zwischen Banken, Emittenten und dezentralen Finanzprotokollen stärken kann.
+Laut Chainlink stärkt dieser Schritt das Vertrauen in seine Datendienste und könnte die Akzeptanz bei Banken, Emittenten von Vermögenswerten und DeFi-Protokollen fördern.  
 
-Die ChainLink Reserve, die regelmäßig mit den Link -Token auf dem offenen Markt mit Protokolleinnahmen kauft, kaufte die Rallye weiter, die am Donnerstag 41.000 Token kaufte, was zu diesem Zeitpunkt einen Wert von rund 1 Million US -Dollar hat.Dies brachte insgesamt 150.778 Token, rund 4,1 Millionen US -Dollar zu aktuellen Preisen.
+Zusätzlichen Rückenwind erhielt die Rallye durch die **Chainlink Reserve**, die regelmäßig LINK-Token am offenen Markt mit Protokolleinnahmen zurückkauft. Am Donnerstag wurden 41.000 Token im Wert von etwa 1 Mio. USD erworben, wodurch sich der Gesamtbestand auf 150.778 Token erhöhte (rund 4,1 Mio. USD zu aktuellen Kursen).  
 
-Haftungsausschluss: Teile dieses Artikels wurden mit Unterstützung von KI -Tools generiert und von unserem Redaktionsteam überprüft, um die Genauigkeit und Einhaltung unserer Standards zu gewährleisten.Weitere Informationen finden Sie in der vollständigen KI -Richtlinie von Coindesk.
-
-Krisztian Sandor ist ein US-amerikanischer Marktreporter, der sich auf Stablecoins, Tokenisierung und reale Vermögenswerte konzentriert.Er absolvierte das Geschäfts- und Wirtschaftsberichterstattungsprogramm der New York University, bevor er zu Coindesk kam.Er hält BTC, Sol und Eth.
-
-Coindesk Analytics ist Cointsks KI-betriebenes Tool, das mit Hilfe menschlicher Reporter Marktdatenanalyse und Preisbewegung generiert
+*Haftungsausschluss: Teile dieses Artikels wurden mit Unterstützung von KI-Tools erstellt und anschließend von der CoinDesk-Redaktion überprüft, um Genauigkeit und Einhaltung der Standards sicherzustellen. Weitere Informationen finden Sie in den CoinDesk AI-Richtlinien.*  
