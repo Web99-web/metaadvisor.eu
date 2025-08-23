@@ -1,14 +1,26 @@
-{{/* Ne prikazuj ako postoji samo jedan jezik */}}
+{{/* layouts/partials/langswitch.html */}}
 {{ if gt (len .Site.Languages) 1 }}
   <div class="lang-switch">
-    {{ $page := . }}
+    {{ $curr := . }}
     {{ range .Site.Languages }}
-      {{ $isActive := eq $.Lang .Lang }}
-      {{/* ako postoji prijevod na toj stranici, linkaj na njega; inače idi na početnu tog jezika */}}
-      {{ $href := ("/" | relLangURL) | relURL }}
-      {{ with (index ($page.AllTranslations) .Lang) }}
-        {{ $href = .RelPermalink }}
+      {{ $isActive := eq .Lang $curr.Lang }}
+
+      {{/* 1) probaj naći prijevod ove stranice u jeziku iz petlje */}}
+      {{ $t := (where $curr.AllTranslations "Lang" .Lang) | first 1 }}
+      {{ $href := "" }}
+      {{ if $t }}
+        {{ $href = (index $t 0).RelPermalink }}
+      {{ else }}
+        {{/* 2) ako prijevod ne postoji, linkaj na početnu tog jezika */}}
+        {{ $home := (where site.Home.AllTranslations "Lang" .Lang) | first 1 }}
+        {{ if $home }}
+          {{ $href = (index $home 0).RelPermalink }}
+        {{ else }}
+          {{/* fallback — teoretski ne bi trebao trebati */}}
+          {{ $href = "/" }}
+        {{ end }}
       {{ end }}
+
       <a class="lang {{ if $isActive }}active{{ end }}" href="{{ $href }}">
         <span class="flag">
           {{- if eq .Lang "en" -}}🇬🇧{{- else if eq .Lang "de" -}}🇩🇪{{- else if eq .Lang "hr" -}}🇭🇷{{- end -}}
