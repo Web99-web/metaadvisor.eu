@@ -1,27 +1,23 @@
 ---
-category: news
-date: 2025-08-22 04:22:31+00:00
-image_url: https://cdn.sanity.io/images/s3y3vcno/production/a8185c29a55a7805ba8c40418021fd6352fe58b4-1920x1283.jpg
-source: CoinDesk
-source_url: https://www.coindesk.com/markets/2025/08/22/ripple-sbi-plan-rlusd-stablecoin-distribution-in-japan-by-2026
-summary: SBI VC Trade, a licensed Electronic Payment Instruments Exchange Service
-  Provider, said it expects RLUSD to go live in Japan during the first quarter of
-  2026.
-title: 'Ripple News: RLUSD Stablecoin soll bis 2026 in Japan verteilt werden'
+title: "Ripple-News: RLUSD-Stablecoin soll bis 2026 in Japan vertrieben werden"
+date: 2025-08-22T04:22:31Z
+summary: "SBI VC Trade, ein lizenzierter Anbieter von Dienstleistungen für elektronische Zahlungsinstrumente, erwartet, dass RLUSD im ersten Quartal 2026 in Japan live geht."
+category: "news"
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/a8185c29a55a7805ba8c40418021fd6352fe58b4-1920x1283.jpg"
+source: "CoinDesk"
+source_url: "https://www.coindesk.com/markets/2025/08/22/ripple-sbi-plan-rlusd-stablecoin-distribution-in-japan-by-2026"
 ---
 
-Ripple und SBI Holdings planen, Ripple USD (RLUSD) in Japan zu veröffentlichen, um den aufstrebenden Stablecoin -Markt des Landes unter neuen regulatorischen Rahmenbedingungen zu nutzen.
+**Ripple** und **SBI Holdings** planen die Einführung des **Ripple USD (RLUSD)** in Japan, um vom wachsenden Stablecoin-Markt des Landes unter neuen regulatorischen Rahmenbedingungen zu profitieren.  
 
-Die beiden Unternehmen kündigten am Freitag an, dass sie ein Memorandum of Understanding unterzeichnet hatten, in dem die Rolle des SBI VC Trade die des Distributors ist. SBI VC Trade, ein lizenzierter Anbieter von Electronic Payment Instruments Exchange -Dienstleister, soll RLUSD im ersten Quartal 2026 in Japan leben.
+Die beiden Unternehmen gaben am Freitag bekannt, dass sie ein Memorandum of Understanding unterzeichnet haben, in dem **SBI VC Trade** als Distributor vorgesehen ist. Als lizenzierter Anbieter von Dienstleistungen für elektronische Zahlungsinstrumente plant SBI VC Trade, RLUSD im ersten Quartal 2026 in Japan auf den Markt zu bringen.  
 
-RLUSD ist die erste Stablecoin-Initiative von RIPPLE, die im Dezember 2024 eingeführt wurde. Das Token ist vollständig von US-Dollar-Einlagen, kurzfristigen Schatzhöfen und Bargeldäquivalenten mit monatlichen Bescheinigungen eines Drittunternehmens unterstützt.
+**RLUSD** ist Ripples erste Stablecoin-Initiative, die im Dezember 2024 gestartet wurde. Der Token ist vollständig durch US-Dollar-Einlagen, kurzfristige Staatsanleihen und gleichwertige Barmittel gedeckt, mit monatlichen Bestätigungen durch ein Drittunternehmen.  
 
-Laut Ripple bietet diese Struktur regulatorische Klarheit und Einhaltung von Institutionen-Eigenschaften, von denen sie argumentiert, dass sie RLUSD von Gleichaltrigen unterscheiden werden.
+Ripple betont, dass diese Struktur regulatorische Klarheit und Compliance auf institutionellem Niveau bietet — Eigenschaften, die RLUSD von Wettbewerbern unterscheiden sollen.  
 
-Die SBI -Führungskräfte rahmen die Partnerschaft als Schritt zur Stärkung der japanischen digitalen Finanzinfrastruktur ein. "Die Einführung von RLUSD wird nicht nur die Option von Stablecoins auf dem japanischen Markt erweitern, sondern ist auch ein wichtiger Schritt in der Zuverlässigkeit und Bequemlichkeit von Stablecoins", sagte Tomohiko Kondo, CEO von SBI VC.
+SBI-Führungskräfte bezeichneten die Partnerschaft als einen Schritt zur Stärkung der digitalen Finanzinfrastruktur Japans. „Die Einführung von RLUSD wird nicht nur die Auswahl an Stablecoins auf dem japanischen Markt erweitern, sondern ist auch ein großer Fortschritt in Bezug auf Zuverlässigkeit und Benutzerfreundlichkeit von Stablecoins“, sagte **Tomohiko Kondo**, CEO von SBI VC Trade.  
 
-Ripple -Führungskräfte wiederholten den Compliance -Fokus. "RLUSD ist ein echter Industriestandard und bietet eine zuverlässige und effiziente Brücke zwischen traditionellen und dezentralen Finanzen", sagte Jack McDonald, Senior Vice President von Stablecoins von Ripple.
+Auch Ripple-Manager betonten den Fokus auf Compliance. „RLUSD ist darauf ausgelegt, ein echter Industriestandard zu sein und eine zuverlässige und effiziente Brücke zwischen traditionellem und dezentralem Finanzwesen zu schaffen“, sagte **Jack McDonald**, Senior Vice President für Stablecoins bei Ripple.  
 
-Der Rollout unterstreicht auch die vertiefenden Beziehungen zwischen Ripple und SBI, den langjährigen Partnern im Blockchain -Ökosystem Asiens. Es kommt auch, als Japan Anfang dieser Woche den ersten von Yen-denominierten Stablecoin für die Ausgabe im Land genehmigte.
-
-Shaurya ist der Co-Leader der Coindesk-Token und des Data-Teams in Asien mit Schwerpunkt auf Kryptoderivaten, Defi, Marktmikrostruktur und Protokoll
+Die Einführung verdeutlicht auch die vertiefte Zusammenarbeit zwischen Ripple und SBI, die seit Langem Partner im asiatischen Blockchain-Ökosystem sind. Sie erfolgt zudem kurz nachdem Japan Anfang der Woche die Ausgabe des ersten in Yen denominierten Stablecoins im Land genehmigt hat.  
