@@ -1,25 +1,25 @@
 ---
-title: "Dionice Ethzilla (ETHZ) padaju gotovo 30% jer se razrjeđivanje strahuje zasjenjeno 349 milijuna eter (ETH) riznica"
+title: "ETHZilla (ETHZ) dionice padaju gotovo 30% zbog straha od razrjeđivanja, unatoč riznici s 349 milijuna USD u Ethereumu (ETH)"
 date: 2025-08-22T14:53:27Z
 category: "crypto"
 translationKey: "0c01cc453067c20be1c94ad947013348"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/22/ethzilla-shares-plunge-36-as-dilution-fears-overshadow-usd349m-ether-treasury"
-summary: "Rebranded Crypto Treasury tvrtka otkrila je ponudu udjela od 74,8 milijuna, što je izazvalo zabrinutost čak i jer u gotovini ima više od 82.000 ETH i 238 milijuna dolara."
-tags: ["crypto"]
+summary: "Rebrendirana kripto rizničarska tvrtka otkrila je ponudu od 74,8 milijuna dionica, izazvavši zabrinutost iako drži više od 82.000 ETH i 238 milijuna USD u gotovini."
+tags: ["crypto", "token", "financije", "ethereum", "eth", "ethzilla", "ethz"]
 image: "/news/2025-08-22-ethzilla-ethz-shares-plunge-nearly-30-as-dilution-fears-overshadow-349m-ether-et.jpg"
 ---
 
-Dionice Ethzilla (ETHZ), ranije poznate kao biotehnološka tvrtka 180 Life Science, pale su u petak gotovo 30% nakon što je tvrtka otkrila da su dioničari podnijeli ponudi do 74,8 milijuna konvertibilnih dionica.
+Dionice **ETHZilla (ETHZ)**, bivše biotehnološke tvrtke 180 Life Science, pale su u petak gotovo **30%** nakon što je tvrtka otkrila da su dioničari podnijeli zahtjev za ponudu do **74,8 milijuna konvertibilnih dionica**.  
 
-Ponuda je izazvala zabrinutost zbog razrjeđivanja, procesa u kojem postojeći udjeli dioničara gube vrijednost jer više dionica ulazi na tržište.Za investitore to znači da se njihova vlasnička kriška smanjuje, čak i ako se ukupna vrijednost tvrtke ne mijenja.
+Ponuda je izazvala zabrinutost zbog **razrjeđivanja**, procesa u kojem vrijednost udjela postojećih dioničara pada kako na tržište ulazi više dionica. Za ulagače to znači da se njihov udio smanjuje, čak i ako ukupna vrijednost tvrtke ostaje ista.  
 
-Nakon izdavanja novih dionica, preostale dionice tvrtke porast će za oko 46% na 239,3 milijuna sa 164,4 milijuna, navodi se u podnošenju prijave.Tvrtka neće dobiti prihod od dioničara koji prodaju svoje pretvorene dionice.
+Nakon izdavanja novih dionica, broj izdanih dionica porast će za oko **46%** — s 164,4 milijuna na 239,3 milijuna, prema podnesku. Tvrtka neće ostvariti prihod od prodaje dionica koje prodaju dioničari nakon konverzije.  
 
-Ethzilla je početkom ovog mjeseca prešla u tvrtku za kripto riznicu i otkrila da drži 82.186 etera, u vrijednosti od oko 349 milijuna dolara po sadašnjim cijenama, zajedno s 238 milijuna dolara novčanih ekvivalenta.Eter je stečen po prosječnoj cijeni od 3.806,71 USD po žetonu.Vijesti o okretanju i veličini udjela poslale su dionice koje su se povećale 11. kolovoza, podižući dionice 80% godine prije nego što je u petak oštar preokret.
+ETHZilla se ranije ovog mjeseca **rebrendirala u kripto rizničarsku tvrtku** i otkrila da drži **82.186 ETH**, vrijednih oko **349 milijuna USD** po trenutnim cijenama, uz **238 milijuna USD** u gotovini i ekvivalentima. Ether je kupljen po prosječnoj cijeni od **3.806,71 USD** po tokenu. Vijest o zaokretu i veličini riznice pogurnula je dionice 11. kolovoza, podigavši cijenu za 80% od početka godine — prije nego što je uslijedio oštar pad u petak.  
 
-Strateški pomak je također privukao teške potpore.
+Strategijski zaokret privukao je i poznate ulagače.  
 
-Peter Thiel, koji je javno podržao Ethereum, posjeduje 7,5% udjela u ETHZ -u kroz fond svojih osnivača.Fond također posjeduje 9,1% Bitmini Immersion Technologies, koje su nedavno prikupile 250 milijuna dolara za izgradnju vlastitih rezervata etera.Thielova uključenost naglašava širu okladu utjecajnih ulagača da bi Ethereum mogao usidriti sljedeću generaciju financijske infrastrukture.
+**Peter Thiel**, koji je javno podržao Ethereum, drži **7,5% udjela** u ETHZ putem svog Founders Funda. Fond također posjeduje **9,1% Bitmine Immersion Technologies**, tvrtke koja je nedavno prikupila **250 milijuna USD** za izgradnju vlastite ETH riznice. Thielovo sudjelovanje naglašava širu okladu utjecajnih investitora da bi Ethereum mogao biti temelj sljedeće generacije financijske infrastrukture.  
 
-Sam Ether povratio je zamah 2025. godine nakon što je prošle godine zaostajao za ostalim altcoinima.Token je porastao za 38%, nadmašivši Bitcoin-ov porast od 24%, a Coindesk 20 indeks od 17%.Za kontekst, Bitcoin se popeo na 121% u 2024. dok je eter dodao
+**Ether (ETH)** sam po sebi ponovno je stekao zamah 2025. nakon što je lani zaostajao za drugim altcoinima. Token je od početka godine porastao za **38%**, nadmašivši rast Bitcoina od 24% i rast CoinDesk 20 indeksa od 17%. Za usporedbu, Bitcoin je u 2024. porastao 121%, dok je Ether dodao znatno manje.  
