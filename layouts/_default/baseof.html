@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>{{ if .IsHome }}MetaAdvisor — Automated insights{{ else }}{{ .Title }} — MetaAdvisor{{ end }}</title>
-  <meta name="description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}Automated summaries of news and insights from publicly available sources.{{ end }}">
-  <!-- cache-bust da Netlify ne posluži staru CSS -->
+  <title>{{ if .IsHome }}MetaAdvisor{{ else }}{{ .Title }} — MetaAdvisor{{ end }}</title>
+  <meta name="description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}MetaAdvisor.{{ end }}">
+  <!-- cache-bust -->
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v={{ now.Unix }}">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   {{ partial "analytics.html" . }}
@@ -20,8 +20,8 @@
 
     <nav class="nav">
       <a class="btn-link" href="{{ "/news/" | relLangURL }}">{{ i18n "navLatest" | default "Latest" }}</a>
-      <a class="btn-link" href="{{ "/about/" | relLangURL }}">{{ i18n "navAbout" | default "About" }}</a>
-      <a class="btn-link" href="{{ "/contact/" | relLangURL }}">{{ i18n "navContact" | default "Contact" }}</a>
+      <a class="btn-link" href="{{ "/about/" | relLangURL }}">{{ i18n "navAbout"  | default "About"  }}</a>
+      <a class="btn-link" href="{{ "/contact/" | relLangURL }}">{{ i18n "navContact"| default "Contact"}}</a>
     </nav>
 
     {{ partial "langswitch.html" . }}
@@ -35,7 +35,7 @@
 </main>
 
 <footer class="site-footer">
-  <div class="container">
+  <div class="container footer-inner">
     <p>© {{ now.Format "2006" }} <strong>MetaAdvisor.eu</strong></p>
   </div>
 </footer>
