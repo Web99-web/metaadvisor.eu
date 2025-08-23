@@ -1,27 +1,25 @@
 ---
-category: news
-date: 2025-08-21 19:51:08+00:00
-image_url: https://cdn.sanity.io/images/s3y3vcno/production/564bac7203c6e38e89eb4093ecb221b0bbe4e205-3200x1800.jpg
-source: CoinDesk
-source_url: https://www.coindesk.com/policy/2025/08/21/u-s-justice-department-official-says-writing-code-without-bad-intent-not-a-crime
-summary: Despite this month's trial conviction of Tornado Cash developer Roman Storm,
-  the DOJ signaled to a crypto crowd in Wyoming that it's not chasing developers.
-title: Dužnosnik američkog Ministarstva pravosuđa kaže da je Kodeks pisanja bez loše
-  namjere "nije zločin"
+title: "Službenik američkog Ministarstva pravosuđa: Pisanje koda bez loše namjere 'nije zločin'"
+date: 2025-08-21T19:51:08Z
+summary: "Unatoč ovogodišnjoj presudi protiv Tornado Cash developera Romana Storma, DOJ je u Wyomingu poručio kripto zajednici da ne progoni same developere."
+category: "news"
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/564bac7203c6e38e89eb4093ecb221b0bbe4e205-3200x1800.jpg"
+source: "CoinDesk"
+source_url: "https://www.coindesk.com/policy/2025/08/21/u-s-justice-department-official-says-writing-code-without-bad-intent-not-a-crime"
 ---
 
-Visoki dužnosnik američkog Ministarstva pravosuđa znao je da je publika kriptovaluta u Wyomingu imala na umu svježe uvjerenja programera softvera kada im je u četvrtak rekao da njegov odjel ne želi ići nakon programera softvera za digitalnu imovinu koji nemaju namjere pranja novca.
+Visoki dužnosnik američkog Ministarstva pravosuđa rekao je u četvrtak pred kripto publikom u Wyomingu da odjel ne želi ići za softverskim developerima digitalne imovine ako nemaju namjeru za pranje novca.  
 
-Matthew Galeotti, vršiteljica dužnosti pomoćnika državnog odvjetnika u kaznenom odjelu DOJ -a, dao je ta uvjerenja na događaju koji je vodio novi američki inovacijski projekt Group Group, privlačeći snažan aplauz.
+**Matthew Galeotti**, vršitelj dužnosti pomoćnika glavnog državnog odvjetnika u kaznenom odjelu DOJ-a, dao je to jamstvo na događaju koji je organizirao novi kripto think tank **American Innovation Project**, što je izazvalo snažan pljesak publike.  
 
-"Odjel neće koristiti savezne kaznene statute za modu novi regulatorni režim u industriji digitalne imovine", rekao je. "Odjel neće koristiti optužnice kao alat za zakonodavstvo. Odjel ne bi trebao ostaviti inovatore nagađajući što bi moglo dovesti do kaznenog progona."
+„Odjel neće koristiti savezne kaznene statute kako bi oblikovao novi regulatorni režim nad industrijom digitalne imovine“, rekao je. „Odjel neće koristiti optužnice kao alat za donošenje zakona. Inovatori ne smiju nagađati što bi ih moglo dovesti do kaznenog progona.“  
 
-Dodao je da "samo pisanje koda bez loše namjere nije zločin."
+Dodao je da „samo pisanje koda bez zle namjere nije zločin“.  
 
-Ti osjećaji dolaze na pozadinu nekoliko nedavnih razvoja sudnice u kojima su američki tužitelji osvojili uvjerenja protiv programera kriptovaluta. Najistaknutije, programer tornado gotovine Roman Storm proglašen je krivim za vođenje nezakonitog posla koji je prenosio novac.
+Njegove izjave dolaze u kontekstu nedavnih sudskih postupaka u kojima su američki tužitelji dobili presude protiv kripto developera. Najpoznatije, developer Tornado Casha **Roman Storm** proglašen je krivim za vođenje nezakonitog poslovanja prijenosa novca.  
 
-To je pomno uslijedilo na petu od sporazuma o priznanju krivnje u kojem su sudjelovali programeri iza Samourai novčanika koji su priznali krivnju za zavjeru za upravljanje nelicenciranim novcem koji prenosi posao - što je znatno manje naplaćivao ono s čime su se izvorno suočili.
+Nedugo nakon toga, developeri **Samourai Walleta** priznali su krivnju za zavjeru s ciljem vođenja neregistriranog poslovanja prijenosa novca — što je bila blaža optužba od one s kojom su se prvotno suočili.  
 
-Galeotti se izravno bavio zabrinutošću zbog konkretnog kaznenog zakona koji su svi osuđeni. Kazao je da ga DOJ neće koristiti u kripto slučajevima, osim ako tužitelji nemaju "dokaze da je okrivljenik znao za konkretne zakonske zahtjeve i namjerno ga prekršio".
+Galeotti je izravno odgovorio na zabrinutost zbog tog specifičnog kaznenog zakona pod kojim su svi bili osuđeni. Rekao je da DOJ neće koristiti tu odredbu u kripto slučajevima osim ako tužitelji nemaju „dokaze da je optuženik znao za konkretne zakonske zahtjeve i namjerno ih prekršio“.  
 
-Rekao je da se nove troškove neće pritisnuti prema tom kodu u slučajevima u kojima je "softver uistinu decentraliziran i isključivo automatizira isključivo
+Dodao je da se nove optužnice neće podizati pod tim zakonom u slučajevima kada je „softver uistinu decentraliziran i služi isključivo za automatizaciju“.  
