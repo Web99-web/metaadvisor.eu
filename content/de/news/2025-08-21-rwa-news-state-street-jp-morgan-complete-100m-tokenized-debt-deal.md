@@ -1,29 +1,26 @@
 ---
-category: crypto
-date: 2025-08-21 18:39:56+00:00
-image_url: https://cdn.sanity.io/images/s3y3vcno/production/1c858c0bc20cb3b45571d51b93c2291f63a68d83-5184x2916.jpg
-source: CoinDesk
-source_url: https://www.coindesk.com/business/2025/08/21/state-street-expands-custody-to-tokenized-debt-on-jpmorgan-s-blockchain-platform
-summary: The inaugural transaction State Street anchored was a $100 million digital
-  commercial paper issued by OCBC.
-tags:
-- crypto
-title: 'RWA News: State Street, J.P. Morgan schließt einen tokenisierten Schuldenvertrag
-  in Höhe von 100 Millionen US -Dollar ab'
+title: "RWA-News: State Street und J.P. Morgan schließen 100-Millionen-USD-Deal mit tokenisierten Schuldtiteln ab"
+date: 2025-08-21T18:39:56Z
+summary: "Die erste Transaktion, die State Street begleitete, war ein digitaler Commercial Paper im Wert von 100 Millionen USD, ausgegeben von OCBC."
+category: "crypto"
+tags: ["crypto"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1c858c0bc20cb3b45571d51b93c2291f63a68d83-5184x2916.jpg"
+source: "CoinDesk"
+source_url: "https://www.coindesk.com/business/2025/08/21/state-street-expands-custody-to-tokenized-debt-on-jpmorgan-s-blockchain-platform"
 ---
 
-Die State Street, eine in Boston ansässige Sorgerechtsbank mit einem Vermögen von 49 Billionen US-Dollar, drückt sich tiefer in digitale Vermögenswerte ein, indem sie sich als erster Verwalter von Drittanbietern an die Blockchain-Blockchain-basierte tokenisierte Vermögensplattform für digitale Schuldteile anschließt.
+State Street, eine in Boston ansässige Depotbank mit 49 Billionen USD an verwahrten Vermögenswerten, dringt tiefer in den Bereich der digitalen Vermögenswerte vor, indem sie sich JPMorgans blockchainbasierter Plattform für tokenisierte Vermögenswerte **Digital Debt Service** als erster externer Verwahrer anschließt.
 
-Die erste Transaktion State Street veranker war eine 100-Millionen-Dollar-Commercial-Paper-Emission von der Oversesea-Chinese Banking Corporation (OCBC), einer in Singapur ansässigen Bankengruppe, laut einer Pressemitteilung am Donnerstag.
+Die erste Transaktion, die State Street begleitete, war die Emission eines tokenisierten Commercial Papers im Wert von 100 Millionen USD durch die **Oversea-Chinese Banking Corporation (OCBC)**, eine in Singapur ansässige Bankengruppe, wie aus einer Pressemitteilung vom Donnerstag hervorgeht.  
 
-State Street Investment Management, der Asset Management Arm der Bank, erwarb die Schulden. J.P. Morgan Securities fungierte als Placement Agent.
+Das Papier wurde von der Vermögensverwaltungssparte **State Street Investment Management** erworben, während **J.P. Morgan Securities** als Platzierungsagent fungierte.
 
-Der Umzug kommt, da traditionelle Finanzgewichte und globale Banken zunehmend an der Tokenisierung von Finanzinstrumenten oder in der realen Vermögenswerte (RWA) beteiligt sind und Anleihen, Mittel und Krediten auf Blockchain-Schienen platzieren. Der Prozess verspricht Betriebsvorteile wie erhöhte Effizienz, schnellere und rund um die Uhr Siedlungen und niedrigere Verwaltungskosten.
+Dieser Schritt erfolgt zu einem Zeitpunkt, an dem traditionelle Finanzriesen und globale Banken zunehmend in die Tokenisierung von Finanzinstrumenten oder Real-World Assets (RWA) einsteigen, indem sie Anleihen, Fonds und Kredite auf Blockchain-Basis abwickeln. Der Prozess verspricht betriebliche Vorteile wie höhere Effizienz, schnellere und durchgehende Abwicklungen sowie geringere Verwaltungskosten.
 
-Der tokenisierte Vermögensmarkt könnte in den nächsten Jahren aufsteigen, obwohl die Prognosen von McKinseys 2 Billionen US -Dollar bis 2030 bis 2030 bis 2033 variieren.
+Der Markt für tokenisierte Vermögenswerte könnte in den kommenden Jahren stark wachsen, wobei die Prognosen von **McKinseys** 2 Billionen USD bis 2030 bis hin zu fast 19 Billionen USD laut **Ripple** und **BCG** bis 2033 reichen.
 
-Durch die Blockchain -Plattform von JPMorgan kann State Street den Kunden das Sorgerecht für tokenisierte Schuldtitel anbieten, ohne ihr traditionelles Servicemodell zu ändern.
+Durch den Beitritt zur Blockchain-Plattform von JPMorgan kann State Street seinen Kunden nun die Verwahrung tokenisierter Schuldverschreibungen anbieten, ohne sein traditionelles Servicemodell zu ändern.  
 
-In diesem speziellen Fall verwaltet State Street die Kundenbestände in einer digitalen Brieftasche, die direkt mit dem JPMorgan -System verbunden ist, wodurch manuelle Schritte in der Siedlung und Aufzeichnungen beseitigt. Die Infrastruktur unterstützt die Abwicklung der Lieferung und der Bezahlung von Lieferungen mit der Option für die Abrechnung am selben Tag (T+0) und automatisiert Unternehmensaktionen wie Zinszahlungen und Rücknahmen durch intelligente Verträge.
+In diesem Fall verwaltet State Street die Kundenbestände in einer digitalen Wallet, die direkt mit dem JPMorgan-System verbunden ist, wodurch manuelle Schritte bei Abwicklung und Buchführung entfallen. Die Infrastruktur unterstützt **Delivery-versus-Payment**-Abwicklung mit der Option auf taggleiche (T+0) Abwicklung und automatisiert Unternehmensaktionen wie Zinszahlungen und Rückzahlungen über Smart Contracts.  
 
-"Dieser Start spiegelt einen sinnvollen Schritt nach vorne in unserer digitalen Strategie wider -
+„Dieses Launch stellt einen bedeutenden Schritt nach vorn in unserer Digitalstrategie dar...“
