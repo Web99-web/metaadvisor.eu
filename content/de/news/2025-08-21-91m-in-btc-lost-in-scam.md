@@ -15,9 +15,9 @@ Der Betrug ereignete sich am 19. August und beinhaltete einen Angreifer, der sic
 
 Der Angriff spiegelt eine Reihe von Social-Engineering-Angriffen im vergangenen Jahr wider und trägt zu einem ohnehin schon problematischen Jahr in Bezug auf Hacks und Betrug bei, in dem Krypto-Investoren in der ersten Hälfte des Jahres 2025 rund 3,1 Milliarden USD verloren haben.
 
-Nachdem die böswillige Überweisung durchgeführt wurde, begannen die Gelder ihre Reise durch einen typischen Geldwäscheprozess, mit mehreren Einzahlungen in die Wasabi-Wallet, ein Datenschutz-Tool, das häufig zur Verschleierung von Transaktionen verwendet wird.
+Nachdem die betrügerische Überweisung durchgeführt wurde, begannen die Gelder ihre Reise durch einen typischen Geldwäscheprozess, mit mehreren Einzahlungen in die Wasabi-Wallet, ein Datenschutz-Tool, das häufig zur Verschleierung von Transaktionen verwendet wird.
 
-Der Hack ereignete sich genau ein Jahr nach dem Diebstahl von 243 Millionen USD von Genesis-Gläubigern, einem wegweisenden Ereignis, das die Branche erschütterte und im Mai zur Verhaftung von 12 Personen in Kalifornien führte.
+Der Hack ereignete sich genau ein Jahr nach dem Diebstahl von 243 Millionen USD bei Genesis-Gläubigern, einem wegweisenden Ereignis, das die Branche erschütterte und im Mai zur Verhaftung von 12 Personen in Kalifornien führte.
 
 Oliver Knight ist Co-Leiter des CoinDesk Data- und Token-Teams. Bevor er 2022 zu CoinDesk kam, war Oliver drei Jahre lang Chefreporter bei Coin Rivet. Er begann 2013 mit Bitcoin-Investitionen und verbrachte einen Teil seiner Karriere in einem Market-Making-Unternehmen im Vereinigten Königreich. Derzeit besitzt er keine Krypto-Vermögenswerte.
 
