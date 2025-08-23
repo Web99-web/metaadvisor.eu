@@ -5,18 +5,16 @@
     {{- range .Site.Languages -}}
       {{- $isActive := eq .Lang $curr.Lang -}}
 
-      {{/* 1) Pokušaj naći prijevod OVE stranice u jeziku iz petlje */}}
       {{- $trans := (where $curr.AllTranslations "Lang" .Lang) | first 1 -}}
       {{- $href := "" -}}
       {{- if $trans -}}
         {{- $href = (index $trans 0).RelPermalink -}}
       {{- else -}}
-        {{/* 2) Ako prijevod ne postoji, linkaj na početnu tog jezika */}}
         {{- $homeTrans := (where site.Home.AllTranslations "Lang" .Lang) | first 1 -}}
         {{- if $homeTrans -}}
           {{- $href = (index $homeTrans 0).RelPermalink -}}
         {{- else -}}
-          {{- $href = "/" -}} {{/* fallback, praktički se ne bi trebao dogoditi */}}
+          {{- $href = "/" -}}
         {{- end -}}
       {{- end -}}
 
