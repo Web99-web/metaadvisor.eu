@@ -14,12 +14,16 @@ source_url: "https://www.coindesk.com/markets/2025/08/21/fed-s-hammack-says-no-t
 - Ihre Aussagen zeigen, dass Fed-Chef Jerome Powell weiterhin Unterstützung für seine „hawkische“ Haltung hat.
 - Bitcoin fiel nach den Kommentaren auf das Tagestief.
 
-Die Märkte passen ihre zuvor hohen Erwartungen einer baldigen Zinssenkung schnell an, während das jährliche Symposium in Jackson Hole beginnt.
+Die Märkte passen ihre zuvor hohen Erwartungen einer baldigen Zinssenkung schnell an, während das jährliche Symposium in Jackson Hole der Kansas City Fed beginnt.
 
-„Wir haben eine zu hohe Inflation, die seit einem Jahr steigt. Wenn das Treffen morgen wäre, sähe ich keinen Grund für eine Zinssenkung“, sagte Hammack gegenüber Yahoo News. Sie betonte, dass die vollen Auswirkungen der Zölle erst im nächsten Jahr sichtbar würden.
+„Die aktuellen Daten liefern keine Grundlage für eine Lockerung im September“, sagte Hammack gegenüber Yahoo News in Wyoming. „Wir haben eine zu hohe Inflation, die seit einem Jahr steigt. Wenn das Treffen morgen wäre, sähe ich keinen Grund für eine Zinssenkung.“
 
-Ihre Aussagen unterstreichen, dass Powell trotz zweier abweichender Stimmen im FOMC und Trumps Forderungen nach niedrigeren Zinsen weiterhin starken Rückhalt hat.
+Sie fügte hinzu, dass die Inflationsdaten erst beginnen, die Auswirkungen von Zöllen widerzuspiegeln, und dass der volle Effekt erst im nächsten Jahr sichtbar werde.
 
-Noch vor einer Woche erreichte Bitcoin ein Rekordhoch von 124.000 USD bei nahezu 100%iger Erwartung einer Zinssenkung im September. Sieben Tage später ist diese Wahrscheinlichkeit laut CME FedWatch auf 71% gesunken und der Bitcoin-Kurs ist fast 10% gefallen – aktuell rund **112.800 USD** (auf der Originalseite bewegt sich der Wert live, z. B. 116.895,38 USD).
+Hammacks Aussagen sind bemerkenswert, da sie zeigen, dass Fed-Vorsitzender Jerome Powell trotz zweier abweichender „dovisher“ Stimmen auf der letzten Sitzung und trotz des anhaltenden Drucks von Präsident Trump weiterhin breite Unterstützung für seine straffe Haltung genießt.
 
-Powell selbst wird am Freitag sprechen und es ist nahezu sicher, dass er nicht auf eine „dovish“ Linie einschwenkt. Stattdessen dürfte er betonen, dass die Inflation weiterhin zu hoch ist und eine abwartende Haltung erforderlich bleibt.
+Ihre Bemerkungen folgten auch auf eine Reihe potenzieller Powell-Nachfolger, die in den letzten Tagen öffentlich für deutlich niedrigere Zinsen plädierten. Zuletzt meldete sich am Morgen der ehemalige St.-Louis-Fed-Chef Jim Bullard zu Wort, der Zinssätze forderte, die 100 Basispunkte unter dem aktuellen Niveau liegen.
+
+Noch vor einer Woche erreichte Bitcoin ein Rekordhoch von über 124.000 USD bei nahezu 100-prozentiger Erwartung einer Zinssenkung im September. Sieben Tage später ist diese Wahrscheinlichkeit laut CME FedWatch auf 71% gesunken, und der Bitcoin-Kurs ist fast 10% gefallen – aktuell rund **112.800 USD** (auf der Originalseite bewegt sich der Wert live, z. B. 116.895,38 USD).
+
+Powell selbst wird am Freitag in seiner Grundsatzrede sprechen, und es gilt als nahezu sicher, dass er nicht auf eine „dovishe“ Linie einschwenken wird. Stattdessen dürfte er betonen, dass die Inflation weiterhin zu hoch ist und deshalb ein abwartender Ansatz erforderlich bleibt.
