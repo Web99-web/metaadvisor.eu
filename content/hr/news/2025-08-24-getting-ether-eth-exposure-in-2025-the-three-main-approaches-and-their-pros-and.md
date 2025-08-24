@@ -1,25 +1,32 @@
 ---
-title: "Dobivanje izloženosti eteru (ETH) 2025. godine: Tri glavna pristupa i njihovih prednosti i nedostataka"
+title: "Kako dobiti izloženost prema Etheru (ETH) u 2025.: tri glavna pristupa – prednosti i mane"
 date: 2025-08-24T01:34:43Z
 category: "crypto"
 translationKey: "680999c5d1b44358c9eab91c43d40d00"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/24/getting-eth-exposure-in-2025-ether-near-record-highs-tom-lee-can-see-usd15k-by-year-end"
-summary: "Ether se trguje u blizini rekordnih maksimuma, a Tom Lee predviđa da bi ETH mogao doseći 15K do godine.Evo tri načina za dobivanje izloženosti ETH -u 2025. godine i prednosti i nedostataka svakog."
-tags: ["crypto"]
-image: "/news/2025-08-24-getting-ether-eth-exposure-in-2025-the-three-main-approaches-and-their-pros-and.jpg"
+summary: "ETH trguje blizu rekordnih razina, a Tom Lee predviđa 15.000 $ do kraja godine. Donosimo tri načina za ETH izloženost u 2025. – s prednostima i manama."
+tags: ["ethereum","eth","exposure","staking","etf","sec","custody","defi","rwa","tokenization","fundstrat","tom-lee","bitmine","bmnr","treasury"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/2705207ecd0a8c9828b9cd6c5f5a0985a610992a-6048x4024.jpg?auto=format"
+image_alt: "Zlatni ether kovanice – simbol ulaganja u ETH"
 ---
 
-Eter (ETH) trguje u blizini rekordnih visokih i bikovskih prognoza poput cilja Tom Leeja u iznosu od 15.000 dolara, stavili su u središte pažnje na to kako ulagači mogu najbolje izložiti ETH.
+Ether (ETH) trguje blizu povijesnih vrhova, a bikovske prognoze – poput Leejeva cilja 15.000 $ do kraja 2025. – stavljaju fokus na to **kako** najpametnije ostvariti izloženost prema ETH.
 
-Prema Coindesk Data, Ether, druga najveća kripto valuta, trguje oko 4.783 dolara u vrijeme pisanja, blizu svojih najviših maksimuma, što odražava snažnu potražnju ulagača uslijed rastućeg institucionalnog usvajanja.
+Prema CoinDesk Data, ETH oko 4.783 $ odražava snažnu potražnju i institucionalno usvajanje. Tom Lee (Fundstrat; predsjednik BitMine Immersion Technologies – BMNR) nedavno je rekao da ETH do kraja 2025. može doseći 15.000 $, ističući ulogu stablecoina, DeFi-ja i tokenizacije stvarne imovine (RWA).
 
-Tom Lee, voditelj istraživanja u FondStratu, CIO iz FondStrat Capital-a i predsjednik Bitmine Umersion Technologies (BMNR), rekao je Coindesk prošlog mjeseca da bi ETH mogao dostići 15.000 dolara do kraja 2025. godine. Njegovi komentari ističu obnovljeni optimizam oko rastuće važnosti Ethereum-a (RIS-WORLLSOINS-a.
+### 1) Izravno držanje ETH-a
+**Prednosti:** puna kontrola nad imovinom; pristup DeFi/NFT/staking ekosustavima; 24/7 likvidnost.  
+**Mane:** skrbništvo i sigurnost (self-custody vs. skrbnici trećih strana); regulatorna neizvjesnost; naknade (mjenjačnice, gas).
 
-Posjedovanje ETH -a izravniji je način sudjelovanja.Nositelji dobivaju potpunu kontrolu nad imovinom i izravnim pristupom decentraliziranim financijama Ethereuma (DeFI), NFT -u i stanju ekosustava.ETH trguje 24/7 na globalnim tržištima, ali ulagači moraju upravljati skrbništvom i sigurnošću - bilo kroz novčanice samouprave ili skrbnika trećih strana - i suprotstaviti se evoluirajućim propisima.Troškovi su općenito ograničeni na razmjenu naknada i plina.
+### 2) Spot ETH ETF-ovi
+Omogućuju reguliranu izloženost putem brokerskog računa. Neki izdavatelji traže dopuštenje SEC-a za **staking** unutar fonda.  
+**Prednosti:** jednostavno, regulirano; potencijalni dodatni prinos (ako staking bude odobren).  
+**Mane:** naknade; bez pristupa on-chain funkcijama; regulatorni rizik (odobrenje za staking je neizvjesno).
 
-Spot Eter ETF -ovi omogućili su tradicionalnim ulagačima da dobiju reguliranu izloženost ETH -u putem brokerskih računa.Neki izdavatelji sada traže dozvolu američke Komisije za vrijednosne papire (SEC) da dodaju ulaganje svojim proizvodima.
+### 3) Dioničke izloženosti preko korporativnih trezora (ETH treasury)
+Ulaganje u dionice kompanija koje drže ETH (npr. BMNR).  
+**Prednosti:** potencijal spajanja rasta poslovanja i ETH-a (uklj. staking prihode).  
+**Mane:** **dvostruka volatilnost** (dionica + kripto); rizik dokapitalizacije/razrjeđenja; korporativno upravljanje.
 
-Ako se odobri, ulaganje bi omogućilo sredstvima da zarade dodatni prinos osiguravanjem Ethereumove mreže dokazanih uloga i prenose tog prihoda dioničarima.To bi predstavljalo prvo za američke kripto ETF -ove.
-
-Istaknuti analitičar ETF-a Nate Geraci rekao je 30. srpnja da će eter-etfs s omogućenom stankom vjerojatno biti "SEC-ov sljedeći popis hit" prije nego što se preuzme
+**Zaključak:** S ETH-om blizu rekordnih razina, pitanje je **koje vozilo** najbolje odgovara tvojoj toleranciji rizika – izravni tokeni, spot ETF-ovi ili dionička izloženost preko trezora.
