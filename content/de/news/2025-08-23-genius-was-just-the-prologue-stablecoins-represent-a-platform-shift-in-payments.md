@@ -1,22 +1,24 @@
 ---
-title: "Genie war nur der Prolog.Stablecoins stellen eine Plattformverschiebung der Zahlungen dar.Die Bühne ist eingestellt."
+title: "GENIUS war nur der Prolog. Stablecoins stehen für einen Plattformwechsel im Zahlungsverkehr. Die Bühne ist bereitet."
 date: 2025-08-23T11:38:30Z
 category: "news"
 translationKey: "16ed03472ae961b0b6c05cb9ce5cd0b1"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/opinion/2025/08/23/genius-was-just-the-prologue-stablecoins-represent-a-platform-shift-in-payments-the-stage-is-set"
-summary: "Shan Aggarwal sagt, dass die Kryptoindustrie immer noch unterstreicht, wie schnell und kraftvoll die Verschiebung auf den Stablecoin -Standard sein wird und wie schnell KI sie beschleunigen wird."
-image: "/news/2025-08-23-genius-was-just-the-prologue-stablecoins-represent-a-platform-shift-in-payments.jpg"
+summary: "Shan Aggarwal meint, dass die Krypto-Branche das Tempo und die Wucht des Umstiegs auf den Stablecoin-Standard unterschätzt – und wie stark KI ihn beschleunigen wird."
+tags: ["stablecoins","payments","genius-act","ai","infrastructure","fintech","circle","stripe","shopify","banks","card-networks","platform-shift","opinion"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/0a9b2f4c6a1e4b5cbd0b1a2a3f4e5d6c7b8a9f01-1280x720.jpg?auto=format"
+image_alt: "Stablecoins als neue Zahlungsschicht"
 ---
 
-Jede Ära der wirtschaftlichen Transformation hat auf die gleiche Weise begonnen: Mit der Infrastruktur, die Nische erscheint - bis dies nicht der Fall ist.
+Jede Ära wirtschaftlicher Transformation begann gleich: mit Infrastruktur, die zunächst als Nische erschien — bis sie es nicht mehr war.
 
-Frühe Bewässerungssysteme lösten die ersten Städte auf.Frühe Eisenbahnnetze verdrahteten ganze Volkswirtschaften.Die Kernprotokolle des Internets, TCP/IP, wurden langsame und simige Informationsnetzwerke zu einem einzigen globalen Kommunikationssystem.Und die Cloud verwandelte Leerlaufserver in die Grundlage der digitalen Wirtschaft.
+Frühe Bewässerungssysteme ermöglichten Städte, Eisenbahnen verdrahteten ganze Volkswirtschaften. Internet-Protokolle (TCP/IP) verbanden isolierte Netze zu einem globalen Kommunikationssystem. Die Cloud machte aus ungenutzten Servern das Fundament der digitalen Ökonomie.
 
-Wir erinnern uns nicht an sie, wie sie angefangen haben.Wir erinnern uns an sie dafür, wie sie skaliert wurden.Denn in der Tat wurde das, was einst wie Nischenexperimente aussahen, zum Rückgrat der globalen Märkte.
+Wir erinnern uns nicht daran, **wie** es begann, sondern **wie** es skaliert hat. Was wie Nischenexperimente aussah, wurde zum Rückgrat der Märkte.
 
-Stablecoins werden als nächstes.Willkommen im Zeitalter der Stablecoin -Schicht: eine offene, programmierbare Grundlage für die globale Geldbewegung.
+**Stablecoins sind als Nächstes dran.** Willkommen im Zeitalter der **Stablecoin-Schicht**: einer offenen, programmierbaren Basis für globalen Geldverkehr.
 
-Erst letztes Jahr fehlte Stablecoins eine klare Regulierung und wurde von einem Großteil der Finanzbetriebe entlassen.Schneller Vorlauf eine Frage von Monaten, und der US -Kongress hat das Geniusgesetz verabschiedet, wodurch der erste Bundesrahmen des Landes für Stablecoins geschaffen und sie ausdrücklich als Zahlungsinstrumente definiert werden.Große Banken und Kartennetzwerke haben diesen Raum eingegeben.Frühe Moder wie Circle haben ihr Debüt in der Wall Street gemacht.Und Fintech-Führungskräfte von Stripe to Shopify umfassen Stablecoins, um schneller, billigere und immer zugängliche Transaktionen zu betreiben.
+Noch im letzten Jahr fehlte stabile Regulierung; viele Finanzakteure winkten ab. Heute hat der US-Kongress den **GENIUS Act** verabschiedet, den ersten bundesweiten Rahmen, der Stablecoins ausdrücklich als **Zahlungsinstrumente** definiert. Großbanken und Kartennetze steigen ein. Vorreiter wie Circle debütieren an der Wall Street. Fintech-Größen von Stripe bis Shopify setzen Stablecoins für schnellere, günstigere, rund-um-die-Uhr-Transaktionen ein.
 
-Dies sind keine isolierten Meilensteine.Sie sind frühe Anzeichen dafür, dass Stablecoins auf dem richtigen Weg sind, um eine Kerninfrastruktur zu werden, genau wie AWS zum ruhigen Motor der Cloud -Wirtschaft wurde.Stablecoins stellen eine Plattformverschiebung der Zahlungen dar.Genau wie bei früheren Plattformverschiebungen-Mainframe-Computing zu einzelnen Computern, Desktop zu Mobilgeräten und lokaler Cloud-basierter Infrastruktur-werden Stablecoins eine Welle von Innovationen durch Modernisierung der Finanzinfrastruktur freischalten.Dies ist der Wendepunkt, aber es ist auch nur der
+Das sind keine isolierten Etappen, sondern frühe Signale, dass Stablecoins **Kerninfrastruktur** werden — so wie AWS zum leisen Motor der Cloud-Ökonomie wurde. Wie frühere Plattformwechsel (Mainframe → PC, Desktop → Mobile, On-Prem → Cloud) wird die Modernisierung der Finanzinfrastruktur eine Innovationswelle auslösen. Dies ist der Kipppunkt — und zugleich erst der Anfang.
