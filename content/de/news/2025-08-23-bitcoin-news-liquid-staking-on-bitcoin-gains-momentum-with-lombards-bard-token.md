@@ -1,27 +1,26 @@
 ---
-title: "Bitcoin News: Flüssiges Einlagen an Bitcoin gewinnt mit Lombards $ Bard -Token an Dynamik"
+title: "Bitcoin News: Liquid Staking auf Bitcoin gewinnt durch Lombards $BARD-Token an Dynamik"
 date: 2025-08-23T14:00:00Z
 category: "crypto"
 translationKey: "a4bd6b067102d742e498397fe8e18093"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/tech/2025/08/23/bitcoin-liquid-staking-gains-momentum-as-lombard-launches-bard-token-and-foundation"
-summary: "Lombard versucht, die ursprüngliche Kryptowährung der Welt zu einem produktiveren Kapital für Defi -Funktionen zu machen"
-tags: ["bitcoin", "crypto"]
-image: "/news/2025-08-23-bitcoin-news-liquid-staking-on-bitcoin-gains-momentum-with-lombards-bard-token.jpg"
+summary: "Lombard will Bitcoin in einen produktiveren Vermögenswert für DeFi-Funktionen verwandeln."
+tags: ["bitcoin","bard","staking","defi","lombard","lbtc","babylon","ethereum","base","bnb","morpho","pendle","etherfi"]
+image: "https://www.coindesk.com/resizer/v2/W3BARD-staking.jpg"
+image_alt: "Lombard Finance führt LBTC Liquid-Staking-Token für Bitcoin ein"
 ---
 
-Während des größten Teils seiner Geschichte wurde Bitcoin als digitales Gold geschätzt: ein Vorteil, der nicht zu verwenden ist, anstatt sie zu verwenden.Diese Passivität hat Billionen von Dollar von BTC im Leerlauf in Brieftaschen im Leerlauf gelassen, die von den Ertragsstrategien und der Komposition getrennt sind, die die dezentrale Finanzierung (DEFI) definieren.
+Die meiste Zeit seiner Geschichte wurde Bitcoin als digitales Gold geschätzt: ein Vermögenswert zum Halten und nicht zum Verwenden. Diese Passivität hat dazu geführt, dass Billionen von Dollar an BTC ungenutzt in Wallets liegen – getrennt von den Renditestrategien und der Komponierbarkeit, die DeFi definieren.
 
-Der Anstieg von flüssigen Einbindungs ​​-Token verspricht dies zu ändern und positioniert Bitcoin nicht nur als Wertspeicher, sondern als produktives Vermögenswert, das in Onchain Capital Markets integriert ist.
+Der Aufstieg von Liquid-Staking-Token verspricht, das zu ändern, und positioniert Bitcoin nicht nur als Wertspeicher, sondern auch als produktiven Vermögenswert, der in On-Chain-Kapitalmärkte integriert ist.
 
-Liquid Sepak bezieht sich auf den Verfahren, in dem sie ihre Krypto anbieten, um ein Netzwerk zu sichern und ein flüssiges, handelbares Token zu erhalten, das ihre festgelegten Vermögenswerte darstellt und über Defi hinweg verwendet werden kann, während die ursprünglichen Token weiterhin die Ablwards verdienen.
+Liquid Staking bezeichnet den Prozess, bei dem Nutzer ihre Kryptowährungen zur Absicherung eines Netzwerks bereitstellen und im Gegenzug einen liquiden, handelbaren Token erhalten, der ihre gestakten Vermögenswerte repräsentiert und im DeFi-Bereich genutzt werden kann, während die ursprünglichen Token weiterhin Staking-Belohnungen erzielen.
 
-Die Lombardfinanzierung hat sich zu einem der herausragenden Projekte bei der Bitcoin -Flüssigkeits -Sage entwickelt.Sein Flaggschiff-Produkt LBTC ist ein Ertrags-Token, das von 1: 1 von BTC unterstützt wird.
+Lombard Finance hat sich als eines der führenden Projekte im Bereich Bitcoin-Liquid-Staking etabliert. Ihr Hauptprodukt, LBTC, ist ein ertragsbringender Token, der im Verhältnis 1:1 durch BTC gedeckt ist.
 
-Wenn BTC in das Lombard-Protokoll abgelagert wird, werden die zugrunde liegenden Münzen hauptsächlich über Babylon eingestellt, ein Protokoll, das vertrauenslose, selbstgeschädigte Bitcoin-Said ermöglicht.Benutzer erhalten LBTC als Gegenleistung, die in Defi -Ökosystemen eingesetzt werden können, während der ursprüngliche Bitcoin Belohnungen erhalten.
+Wenn BTC in das Lombard-Protokoll eingezahlt wird, werden die zugrunde liegenden Coins gestakt, hauptsächlich über Babylon – ein Protokoll, das vertrauensloses und selbstverwahrtes Bitcoin-Staking ermöglicht. Nutzer erhalten im Gegenzug LBTC, das im DeFi-Ökosystem eingesetzt werden kann, während der ursprüngliche Bitcoin weiterhin Staking-Belohnungen erwirtschaftet.
 
-Diese doppelte Funktionalität ist der Schlüssel.Inhaber können Bitcoin weiterhin ausgesetzt sein, während sie LBTC für die Kredit-, Kredit- und Liquiditätsvorschriften über Protokolle wie Aave, Morpho, Pendle und Ether.fi verwenden.LBTC entwickelt für die Interoperabilität und bewegt sich über Ethereum, Basis, BNB-Kette und andere Netzwerke, die Liquiditätsfragmentierung verhindern und sicherstellen, dass Bitcoin an einer Multi-Chain-Defi-Umgebung teilnehmen kann.
+Diese doppelte Funktionalität ist entscheidend. Inhaber behalten ihre Bitcoin-Exponierung, während sie LBTC für Kreditvergabe, Kreditaufnahme und Liquiditätsbereitstellung in Protokollen wie Aave, Morpho, Pendle und Ether.fi einsetzen. LBTC ist für Interoperabilität ausgelegt und bewegt sich über Ethereum, Base, BNB Chain und andere Netzwerke hinweg. Damit wird eine Fragmentierung der Liquidität verhindert und Bitcoin kann in einer Multi-Chain-DeFi-Umgebung teilnehmen.
 
-Durch die Mobilisierung der ruhenden Liquidität von BTC zielen Lombard und andere liquide Einsätze an, die Infrastruktur für Bitcoin Defi bereitzustellen, wodurch die umfangreiche Marktkapitalisierung des Vermögenswerts in Onchain -Kapitalmärkte geleitet wird.
-
-Diese Bemühungen
+Durch die Mobilisierung der ungenutzten BTC-Liquidität wollen Lombard und andere Liquid-Staking-Projekte die Infrastruktur für Bitcoin-DeFi bereitstellen und die enorme Marktkapitalisierung des Vermögenswerts in On-Chain-Kapitalmärkte leiten.
