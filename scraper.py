@@ -188,8 +188,8 @@ def write_markdown(out_dir: Path, slug: str, data: dict) -> Path:
         fm.append(f'summary: "{esc(data["summary"])[:240]}"')
     if data.get("tags"):
         fm.append("tags: [" + ", ".join([f'"{esc(t)}"' for t in data["tags"]]) + "]")
-    if data.get("image"):
-        fm.append(f'image: "{data["image"]}"')
+    if data.get("image_url"):
+        fm.append(f'image_url: "{data["image_url"]}"')  # <-- promjena: zapisujemo image_url
     fm.append("---")
 
     body = data.get("body", "")
@@ -241,7 +241,7 @@ def process_entry(entry: dict, source_name: str, db: dict) -> bool:
         "date_iso": date_iso,
         "category": category,
         "tags": tags,
-        "image": image_final,
+        "image_url": image_final,          # <-- promjena: ključ sada image_url
         "source_name": source_name,
         "source_url": link,
         "translationKey": tkey,
