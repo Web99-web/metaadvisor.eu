@@ -1,20 +1,31 @@
 ---
-title: "Doge Price News: Zoomt 11%, da diese optimistische Struktur in Doonecoin bildet"
+title: "DOGE-Kurs: +11 %, während sich eine bullishe Struktur bei Dogecoin bildet"
 date: 2025-08-23T07:05:04Z
 category: "news"
 translationKey: "b7627d9ccc352241cb190b036a575ba7"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/23/dogecoin-bullish-structure-forms-after-high-volume-breakout-sees-11-doge-surge"
-summary: "Die Preisaktion von DOGE zeigt das Potenzial für weitere Gewinne mit Unterstützung von 0,21 USD und einem Widerstand von 0,24 USD."
-image: "/news/2025-08-23-doge-price-news-zooms-11-as-this-bullish-structure-forms-in-dogecoin.png"
+summary: "Die Preisaktion von DOGE deutet auf weitere Gewinne hin – Unterstützung bei 0,21 $ und Widerstand bei 0,24 $."
+tags: ["dogecoin","doge","price","bullish","breakout","whales","powell","fed","wyoming","stablecoin","thumzup","dogehash","sofi","lightning-network","mining","markets","crypto"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/4748d98709f7d9235d6de26ad84f0cd7bd6e070f-741x450.png?auto=format"
+image_alt: "DOGE steigt um 11 %; bullishe Struktur nach Ausbruch mit hohem Volumen"
 ---
 
-Der Meme -Token stieg auf einen Höhepunkt von 0,24 USD, wobei das Volumen die monatlichen Durchschnittswerte fast verdoppelte und die institutionelle Aktivität hinter der Rallye signalisierte.
+Der Memecoin erreichte ein Hoch von 0,24 $, wobei sich das Volumen im Vergleich zum Monatsdurchschnitt nahezu verdoppelte – ein Signal für institutionelle Aktivität hinter der Rally.
 
-• Die Federal Reserve signalisierte eine weichere Haltung zu den Krypto-Banking-Regeln, während Wyoming den ersten staatlich unterstützten Stablecoin startete.Beide Entwicklungen hob die Stimmung in Bezug auf digitale Vermögenswerte auf.• Trump-gebundenes Unternehmen Thumzup hat eine Übernahme von Dotecoin-Bergbauunternehmen DogeHash abgeschlossen und bildet, was Führungskräfte behaupten, der größte Doge-Bergbaubetrieb.• Sofi war das erste US -amerikanische Bankinstitut, das das Blitznetz von Bitcoin für Überweisungen integriert und die breitere institutionelle Einführung der Kryptoinfrastruktur verstärkte.• Walbrieftaschen haben bis August 680 Millionen DOGE-Token angesammelt und trotz des Einzelhandelsvolatilität steigende institutionelle Flüsse festgelegt.
+**Hintergrund**
+• Die US-Notenbank signalisierte eine weichere Haltung zu Kryptobankregeln, während Wyoming den ersten staatlich gestützten Stablecoin startete – beides stützte die Stimmung bei Digital-Assets.  
+• Das mit Trump verbundene Unternehmen Thumzup schloss die Übernahme des Dogecoin-Mining-Unternehmens Dogehash im Wert von 50 Mio. $ ab und bildet laut Management den größten DOGE-Mining-Betrieb.  
+• SoFi wurde das erste US-Bankeninstitut, das das Bitcoin-Lightning-Netzwerk für Überweisungen integrierte – ein weiterer Schritt in Richtung institutioneller Adoption.  
+• Wal-Wallets akkumulierten im August 680 Mio. DOGE und festigten steigende institutionelle Zuflüsse trotz retailgetriebener Volatilität.
 
-• DOGE versammelte sich in der Sitzung vom 22. bis 23. August 8% und stieg in einem Bereich von 0,02 USD von 0,22 USD auf 0,24 USD.• Der schärfste Schritt war am 22. August bei 14:00 GMT, als Doge auf 4,27 Mrd. Volumen von 0,21 USD auf 0,23 USD stieg, laut technischen Analysedaten von Coindesk Research fast den Stundendurchschnitt.• Die Unterstützung hält jetzt nach einem erfolgreichen Wiederholung bei 0,21 USD, während der Widerstand die Gewinne auf 0,24 USD psychologischer Ebene begrenzte.• Ein Anstieg der späten Sitzung erhöhte 1% von 0,23 USD auf 0,24 USD, wobei ein Volumen von 28,1 m bei 04:52 GMT die Akkumulation bestätigt.• Die Preisaktion zeigt aufeinanderfolgende höhere Tiefsts, was darauf hindeutet, dass der Kaufdruck und die potenzielle Trend fortgesetzt werden.
+**Preisaktions-Überblick**
+• DOGE stieg in der Sitzung vom 22.–23. Aug. um 8 % von 0,22 $ auf 0,24 $ bei einer Handelsspanne von 0,02 $.  
+• Der stärkste Move erfolgte am 22. Aug. um 14:00 GMT von 0,21 $ auf 0,23 $ bei 4,27 Mrd. Volumen – fast das Vierfache des stündlichen Durchschnitts (CoinDesk Research).  
+• Unterstützung nun bei 0,21 $ nach erfolgreichem Retest; Widerstand begrenzte Gewinne am psychologischen Level von 0,24 $.  
+• Ein später Schub addierte 1 % von 0,23 $ auf 0,24 $; ein Volumenspitzenwert von 28,1 Mio. um 04:52 GMT bestätigte Akkumulation.  
+• Aufeinanderfolgende höhere Tiefs deuten auf anhaltenden Kaufdruck und eine mögliche Trendfortsetzung hin.
 
-Der Breakout von DOGE richtet sich an einen breiteren Krypto -Rückprall, da sich der Risikoappetit über Aktien und digitale Vermögenswerte verbesserte.Die Kombination aus Fed-Politik-Neukalibrierung, Stablecoin-Adoption auf staatlicher Ebene und einer hochkarätigen Bergbauakquisition verstärkte die institutionelle Beteiligung an einem Token, das häufig als rein im Einzelhandel betrieben angesehen wird.
+Der Ausbruch von DOGE passt in die breitere Krypto-Erholung, da die Risikoneigung über Aktien und Digital-Assets zunahm. Die Kombination aus einer neu kalibrierten Fed-Politik, der Einführung eines staatlichen Stablecoins und einer prominenten Mining-Übernahme verstärkte die institutionelle Teilnahme an einem Token, der oft als rein retailgetrieben gilt.
 
-Das Level von 0,24 USD
+Die Marke von 0,24 $ bleibt ein kritischer Wendepunkt: Ein nachhaltiger Ausbruch könnte Momentum-Ziele in Richtung 0,26 $ eröffnen, während ein Scheitern erneute Tests der Unterstützung bei 0,21 $ riskiert.
