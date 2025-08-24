@@ -26,11 +26,22 @@ STATIC_NEWS    = Path("static/news")
 DB_FILE        = Path(".scrape_seen.json")
 MAX_ITEMS      = 12   # ukupno novih po jednoj vožnji (podebljaj po želji)
 
+
 SOURCES = [
-    {"name": "Reuters Tech", "rss": "https://feeds.reuters.com/reuters/technologyNews"},
-    {"name": "CoinDesk",     "rss": "https://www.coindesk.com/arc/outboundfeeds/rss/"},
-    # dodaj još izvora slobodno
+    # Tehnologija / opći tech
+    {"name": "Reuters Tech",      "rss": "https://feeds.reuters.com/reuters/technologyNews"},
+    {"name": "The Guardian Tech", "rss": "https://www.theguardian.com/uk/technology/rss"},
+    {"name": "TechCrunch",        "rss": "https://techcrunch.com/feed/"},
+
+    # Kripto i blockchain
+    {"name": "CoinDesk",          "rss": "https://www.coindesk.com/arc/outboundfeeds/rss/"},
+    {"name": "CoinTelegraph",     "rss": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt",           "rss": "https://decrypt.co/feed"},
+
+    # Financije / biznis (besplatni feedovi)
+    {"name": "Guardian Business", "rss": "https://www.theguardian.com/uk/business/rss"},
 ]
+
 # ============================================
 
 HEADERS = {"User-Agent": USER_AGENT}
