@@ -132,3 +132,37 @@ a:hover { text-decoration: underline; }
   color: inherit;
 }
 
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  margin: 28px 0;
+}
+
+.page-btn {
+  display: inline-block;
+  min-width: 34px;
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+  background: #fff;
+  color: #374151;
+  font-size: 14px;
+  transition: all 0.2s ease;
+}
+
+.page-btn:hover {
+  background: #2563eb;
+  color: #fff;
+  border-color: #2563eb;
+}
+
+.page-btn.active {
+  background: #2563eb;
+  color: #fff;
+  border-color: #2563eb;
+  font-weight: 600;
+}
+
