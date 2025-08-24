@@ -2,11 +2,12 @@
 <article class="post container">
   <header class="post-hero">
 
-    {{/* HERO slika: image_url > image (rel/abs) > veliki MetaAdvisor placeholder */}}
+    {{/* HERO slika: prvo image_url (remote/abs), zatim image (rel/abs), pa veliki placeholder */}}
     {{ $img := .Params.image_url | default .Params.image }}
     {{ if $img }}
       {{ $src := $img }}
       {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
+        {{/* ako je relativno (npr. news/xxx.jpg), pretvori u apsolutni URL prema sajtu */}}
         {{ $src = $src | absURL }}
       {{ end }}
       <img
