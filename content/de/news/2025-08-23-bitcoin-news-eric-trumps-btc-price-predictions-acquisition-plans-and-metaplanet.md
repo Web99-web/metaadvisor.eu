@@ -1,21 +1,21 @@
 ---
-title: "Bitcoin News: Eric Trumps BTC -Preisvorhersagen, Akquisitionspläne und Metaplanet -Besuch"
+title: "Bitcoin-News: Eric Trumps BTC-Prognosen, Übernahmepläne und Metaplanet-Besuch"
 date: 2025-08-23T17:34:11Z
 category: "crypto"
 translationKey: "8edc6166773bad68fee889df445d8900"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/08/23/eric-trump-makes-bitcoin-price-predictions-as-he-reportedly-gets-ready-to-visit-metaplanet"
-summary: "Eric Trump prognostiziert in diesem Jahr 175.000 US -Dollar und langfristig 1 Mio. USD, während FT und Bloomberg über seinen amerikanischen Bitcoin Asia Push und die geplante Metaplanet -Reise berichten."
-tags: ["bitcoin", "crypto"]
-image: "/news/2025-08-23-bitcoin-news-eric-trumps-btc-price-predictions-acquisition-plans-and-metaplanet.jpg"
+summary: "Eric Trump prognostiziert 175.000 $ für BTC in diesem Jahr und 1 Mio. $ langfristig; FT und Bloomberg berichten über American Bitcoins Expansionspläne in Asien und den geplanten Metaplanet-Besuch."
+tags: ["bitcoin", "krypto", "metaplanet", "eric-trump", "asien", "mining", "übernahmen"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/cad0242c0a608721f6973b6239cb0ee194c9d5d3-1024x683.jpg?auto=format"
 ---
 
-Eric Trump vertieft seine Rolle in digitalen Vermögenswerten mit den gemeldeten Plänen, an einem Aktionärssitzen in Tokio teilzunehmen, öffentliche Vorhersagen über den Preis von Bitcoin und neue Unternehmensunternehmen, die den Krypto der Trump -Familie in Asien erweitern.
+Eric Trump vertieft sein Engagement bei digitalen Vermögenswerten: Berichten zufolge nimmt er an einer Hauptversammlung in Tokio teil, gibt öffentliche Bitcoin-Preisprognosen ab und treibt neue Unternehmensinitiativen voran, mit denen die Krypto-Aktivitäten der Familie Trump nach Asien ausgeweitet werden.
 
-Bloomberg berichtete am Freitag, dass Trump am 1. September an einer Aktionärssitzung von Metaplanet teilnehmen wird, einem japanischen Unternehmen, das Michael Saylors Strategie (früher Microstategy) Playbook bezeichnet und Leute zitiert, die mit der Angelegenheit vertraut sind.Trump wurde im März zum strategischen Berater ernannt.Sein Tokio -Stopp wird angeblich einen Auftritt auf der Bitcoin Asia Conference in Hongkong am 28. bis 29. August verfolgen.
+Bloomberg meldete am Freitag, dass Trump am 1. September an der Hauptversammlung von Metaplanet teilnimmt, einem japanischen Unternehmen, das MicroStrategys Bitcoin-Akkumulationsstrategie folgt. Trump wurde im März zum strategischen Berater ernannt. Der Tokio-Stopp soll auf einen Auftritt bei der Konferenz Bitcoin Asia in Hongkong (28.–29. August) folgen.
 
-Einen Tag zuvor trat Trump auf dem Wyoming Blockchain -Symposium auf, wo er sich selbst als „Bitcoin Maxi“ beschrieb und sagte, er verbringe nun mehr als die Hälfte seiner Zeit für Kryptoprojekte.Er sagte voraus, Bitcoin würde bis Ende 2025 175.000 US -Dollar erreichen und schließlich über 1 Million US -Dollar hinweg klettern.Er argumentierte, dass Bitcoin und Blockchain Fehler in der traditionellen Finanzierung wie langsame Zahlungen und Abwicklungsprozesse ansprechen könnten.
+Einen Tag zuvor nannte er sich beim Wyoming Blockchain Symposium einen „Bitcoin-Maxi“ und sagte, er verbringe inzwischen mehr als die Hälfte seiner Zeit mit Krypto-Projekten. Er prognostizierte 175.000 $ für Bitcoin bis Ende 2025 und langfristig über 1 Mio. $. Bitcoin und Blockchain könnten Defizite des traditionellen Finanzsystems wie langsame Zahlungen und Abwicklungen beheben, so Trump.
 
-Die Financial Times berichtete am 15. August, dass American Bitcoin-ein von Eric Trump und seinem Bruder Donald Trump Jr. mitbegründetem Miner und Finanzministerium-Akquisitionen von börsennotierten Firmen in Japan und Hong Kong untersucht, um sie als Fahrzeuge für die Lagerung von Bitcoin zu verwenden, die von Michael Saylors Mikrostrategie pioniert wurden.Das Unternehmen bereitet sich darauf vor, in den USA durch einen umgekehrten Zusammenschluss mit dem Nasdaq-gelisteten Gryphon Digital Mining zu öffnen.Eric Trump ist Mitbegründer und Chief Strategy Officer.
+Laut Financial Times prüft American Bitcoin — ein von Eric Trump und Donald Trump Jr. mitgegründetes Mining- und Treasury-Unternehmen — Übernahmen börsennotierter Firmen in Japan und Hongkong, um diese als Vehikel zur Bitcoin-Akkumulation zu nutzen, analog zu MicroStrategy. Das Unternehmen bereitet einen Börsengang in den USA über eine Reverse-Fusion mit dem an der Nasdaq gelisteten Gryphon Digital Mining vor. Eric Trump ist Mitgründer und Chief Strategy Officer.
 
-American Bitcoin entstand im Mai aus einer Umstrukturierung amerikanischer Rechenzentren, einer von Trump verbundenen Einheit, die Rigs von der kanadischen Betreiberin Hut 8 absorbiert. Das Unternehmen soll die effizienteste Bitcoin-Akkumulationsplattform der Welt werden.
+American Bitcoin entstand im Mai durch die Reorganisation von American Data Centers, einem mit den Trumps verbundenen Unternehmen, das Anlagen des kanadischen Betreibers Hut 8 übernahm. Ziel ist es, „die weltweit effizienteste Plattform zur Bitcoin-Akkumulation“ zu werden.
