@@ -113,7 +113,7 @@ a:hover { text-decoration: underline; }
 .site-footer .container { text-align: center; padding: 32px 0; }
 .site-footer .muted { color:#6b7280; margin: 6px 0 0; font-size: .95rem; }
 
-/* Hugo _internal/pagination normalizacija */
+/* ===== PAGINATION ===== */
 .pagination, .pagination ul { 
   list-style: none; 
   padding: 0; 
@@ -121,6 +121,7 @@ a:hover { text-decoration: underline; }
   display: flex; 
   gap: 8px; 
   flex-wrap: wrap;
+  justify-content: center;
 }
 .pagination li { list-style: none; }
 .pagination a, .pagination .page-link, .pagination .active, .pagination span {
@@ -131,13 +132,7 @@ a:hover { text-decoration: underline; }
   text-decoration: none;
   color: inherit;
 }
-
-.pagination {
-  display: flex;
-  justify-content: center;
-  gap: 6px;
-  margin: 28px 0;
-}
+.pagination a:hover { text-decoration: none; }
 
 .page-btn {
   display: inline-block;
@@ -159,10 +154,10 @@ a:hover { text-decoration: underline; }
   border-color: #2563eb;
 }
 
+.page-btn.is-active,
 .page-btn.active {
   background: #2563eb;
   color: #fff;
   border-color: #2563eb;
   font-weight: 600;
 }
-
