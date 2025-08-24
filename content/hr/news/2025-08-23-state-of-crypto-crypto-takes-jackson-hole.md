@@ -1,31 +1,32 @@
 ---
-title: "Stanje kriptovaluta: Crypto uzima Jackson Hole"
+title: "Stanje kripta: Kripto preuzima Jackson Hole"
 date: 2025-08-23T14:00:00Z
 category: "crypto"
 translationKey: "958272cad74190bca7e517f45c3e1a92"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/08/21/state-of-crypto-crypto-takes-jackson-hole"
-summary: "Godišnja konferencija Salt Wyoming održala se ovog tjedna.Vladini dužnosnici rekli su da će se industrija svidjeti."
-tags: ["crypto"]
-image: "/news/2025-08-23-state-of-crypto-crypto-takes-jackson-hole.jpg"
+summary: "Ovog tjedna održana je godišnja konferencija SALT Wyoming. Dužnosnici su rekli mnogo toga što će se svidjeti industriji."
+tags: ["jackson-hole","salt-wyoming","policy","regulation","crypto","congress","lummis","tim-scott","jenny-johnson","michelle-bowman","chris-waller","newsletter"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/e44e1ff5a6dd83ecb6be1e381d086793cbbdccae-2890x2306.jpg?rect=0,0,2890,1626&w=1920&h=1080&auto=format"
+image_alt: "Guverner Feda Chris Waller na pozornici tijekom SALT Wyoming konferencije"
 ---
 
-Donositelji politika raznih pruga razgovarali su na konferenciji Salt Wyoming ovog tjedna u Jackson Holeu, Wyoming.
+Ovog su tjedna na konferenciji **SALT Wyoming** u Jackson Holeu govorili donosioci politika različitih profila.
 
-Čitate stanje Crypto -a, Coindesk biltena koji promatra sjecište kripto valute i vlade.Kliknite ovdje da biste se prijavili za buduća izdanja.
+Čitate **State of Crypto**, CoinDeskov newsletter o sjecištu kripta i regulatora. Kliknite ovdje za prijavu na buduća izdanja.
 
-Kongres je još uvijek na odmoru, ali kreatori politika krenuli su prema Jackson Holeu, Wyoming da razgovaraju s kripto industrijom - u velikoj mjeri ga hvale ili kažu kako očekuju da će zakonodavstvo krenuti naprijed.Evo nekoliko isječaka onoga što su rekli, ljubaznošću Coindeskove Helene Braun i drugih.
+Kongres je još na odmoru, ali su se zakonodavci uputili u Jackson Hole kako bi se obratili kripto industriji — uglavnom je hvaleći ili objašnjavajući kako očekuju da će se zakonodavstvo kretati naprijed. U nastavku su isječci izjava (zahvaljujući Helene Braun i drugima iz CoinDeska).
 
-Industrija je ove godine zabilježila veliki napredak na prioritetima kripto politike.Komentari zakonodavaca nagovještavaju kako bi izgledala posljednja četiri mjeseca 2025. i što možemo očekivati ​​od saveznih regulatora.
+Industrija je ove godine vidjela mnogo pomaka na prioritetima kripto politike. Komentari zakonodavaca nagovješćuju kako bi mogli izgledati posljednja četiri mjeseca 2025. i što očekivati od saveznih regulatora.
 
-"Vjerujem da ćemo imati između 12 i 18 demokrata barem otvorenih za glasovanje za tržišnu strukturu."- Predsjednik odbora za bankarstvo Senata Tim Scott
+> „Vjerujem da ćemo imati između 12 i 18 demokrata koji su barem otvoreni za glasanje o tržišnoj strukturi.“ — **Tim Scott**, predsjednik Odbora za bankarstvo Senata
 
-"Imat ćemo ga na predsjednikovom stolu prije Dana zahvalnosti."- Senatorica Cynthia Lummis o zakonodavstvu o tržišnoj strukturi
+> „Imat ćemo to na predsjedničkom stolu prije Dana zahvalnosti.“ — **Cynthia Lummis** o zakonu o tržišnoj strukturi
 
-"Zamislite samo da vidite na javnom kapitalu sve transakcije koje ulaze i izlaze iz te tvrtke i koliko vam podataka daje."- izvršna direktorica Franklin Templeton Jenny Johnson
+> „Samo zamislite da u javnim dionicama vidite sve transakcije koje ulaze i izlaze iz te tvrtke i koliko vam to informacija daje.“ — **Jenny Johnson**, CEO Franklin Templetona
 
-"Potreban nam je jasan, strateški regulatorni okvir koji će olakšati usvajanje nove tehnologije, prepoznajući da u nekim slučajevima može biti neprimjereno i neprimjereno primijeniti postojeće regulatorne smjernice za rješavanje tehnologije u nastajanju."- potpredsjednica Federalnih rezervi za nadzor Michelle Bowman
+> „Treba nam jasan, strateški regulatorni okvir koji će olakšati usvajanje nove tehnologije, uz spoznaju da postoje slučajevi kada je neadekvatno primjenjivati postojeće smjernice na novu tehnologiju.“ — **Michelle Bowman**, potpredsjednica Feda za nadzor
 
-"Nema se čega se bojati kada razmišljate o pametnim ugovorima, tokenizaciji ili distribuiranim knjigama."- Guverner odbora Federalnih rezervi Chris Waller
+> „Nema ničeg strašnog u pametnim ugovorima, tokenizaciji ili distribuiranim knjigama.“ — **Chris Waller**, guverner Odbora Federalnih rezervi
 
-"Nije tajna da moja strana prolaza radije ne bi vidjela nijednog sjedećeg predsjednika - neću je imenovati - sudjelovao na ovom tržištu dok je a
+> „Nije tajna da moja strana političkog spektra ne želi vidjeti bilo kojeg aktualnog predsjednika — neću imenovati kojeg — kako sudjeluje na ovom tržištu…“ — **Angie Craig**, rangirajuća članica Odbora za poljoprivredu Zastupničkog doma
