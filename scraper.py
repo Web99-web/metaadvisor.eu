@@ -24,24 +24,22 @@ OUT_HR         = Path("content/hr/news")
 STATIC_NEWS    = Path("static/news")
 
 DB_FILE        = Path(".scrape_seen.json")
-MAX_ITEMS      = 12   # ukupno novih po jednoj vožnji (podebljaj po želji)
-
+MAX_ITEMS      = 12   # ukupno novih po jednoj vožnji (globalni “hard cap”)
 
 SOURCES = [
     # Tehnologija / opći tech
-    {"name": "Reuters Tech",      "rss": "https://feeds.reuters.com/reuters/technologyNews"},
-    {"name": "The Guardian Tech", "rss": "https://www.theguardian.com/uk/technology/rss"},
-    {"name": "TechCrunch",        "rss": "https://techcrunch.com/feed/"},
+    {"name": "Reuters Tech",      "rss": "https://feeds.reuters.com/reuters/technologyNews", "limit": 2},
+    {"name": "The Guardian Tech", "rss": "https://www.theguardian.com/uk/technology/rss",    "limit": 2},
+    {"name": "TechCrunch",        "rss": "https://techcrunch.com/feed/",                     "limit": 2},
 
     # Kripto i blockchain
-    {"name": "CoinDesk",          "rss": "https://www.coindesk.com/arc/outboundfeeds/rss/"},
-    {"name": "CoinTelegraph",     "rss": "https://cointelegraph.com/rss"},
-    {"name": "Decrypt",           "rss": "https://decrypt.co/feed"},
+    {"name": "CoinDesk",          "rss": "https://www.coindesk.com/arc/outboundfeeds/rss/",  "limit": 5},
+    {"name": "CoinTelegraph",     "rss": "https://cointelegraph.com/rss",                    "limit": 2},
+    {"name": "Decrypt",           "rss": "https://decrypt.co/feed",                          "limit": 2},
 
     # Financije / biznis (besplatni feedovi)
-    {"name": "Guardian Business", "rss": "https://www.theguardian.com/uk/business/rss"},
+    {"name": "Guardian Business", "rss": "https://www.theguardian.com/uk/business/rss",      "limit": 1},
 ]
-
 # ============================================
 
 HEADERS = {"User-Agent": USER_AGENT}
@@ -200,7 +198,7 @@ def write_markdown(out_dir: Path, slug: str, data: dict) -> Path:
     if data.get("tags"):
         fm.append("tags: [" + ", ".join([f'"{esc(t)}"' for t in data["tags"]]) + "]")
     if data.get("image_url"):
-        fm.append(f'image_url: "{data["image_url"]}"')  # <-- promjena: zapisujemo image_url
+        fm.append(f'image_url: "{data["image_url"]}"')  # zapisujemo image_url (jedna istina)
     fm.append("---")
 
     body = data.get("body", "")
@@ -252,7 +250,7 @@ def process_entry(entry: dict, source_name: str, db: dict) -> bool:
         "date_iso": date_iso,
         "category": category,
         "tags": tags,
-        "image_url": image_final,          # <-- promjena: ključ sada image_url
+        "image_url": image_final,          # ključ standardiziran
         "source_name": source_name,
         "source_url": link,
         "translationKey": tkey,
@@ -296,6 +294,7 @@ def process_entry(entry: dict, source_name: str, db: dict) -> bool:
     return True
 
 def scrape_feed(feed_url: str, source_name: str, db: dict, remaining: int) -> int:
+    """remaining = per-source limit"""
     made = 0
     feed = feedparser.parse(feed_url)
     for entry in feed.entries:
@@ -315,8 +314,10 @@ def main():
     for src in SOURCES:
         if total_new >= MAX_ITEMS:
             break
-        print(f"[i]  {src['name']} ({src['rss']})")
-        total_new += scrape_feed(src["rss"], src["name"], db, MAX_ITEMS - total_new)
+        per_src_limit = src.get("limit", MAX_ITEMS - total_new)
+        per_src_limit = min(per_src_limit, MAX_ITEMS - total_new)  # ne probij globalni cap
+        print(f"[i]  {src['name']} ({src['rss']}) limit={per_src_limit}")
+        total_new += scrape_feed(src["rss"], src["name"], db, per_src_limit)
     save_db(db)
     print(f"[done] Generated {total_new} post(s) (x3 languages).")
 
