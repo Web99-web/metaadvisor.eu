@@ -4,18 +4,20 @@
     {{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}
   </h1>
 
-  {{/* Ako je .Pages prazno (npr. HOME), uzmi sve regularne stranice */}}
+  {{/* Ako je .Pages prazno (npr. /news/ sekcija vs. /), uzmi sve regularne stranice */}}
   {{ $pages := .Pages }}
   {{ if eq (len $pages) 0 }}
     {{ $pages = .Site.RegularPages }}
   {{ end }}
 
+  {{/* Paginator nad sortiranom listom */}}
+  {{ $p := .Paginate ($pages.ByDate.Reverse) }}
+
   <div class="grid">
-    {{ $p := .Paginate ($pages.ByDate.Reverse) }}
     {{ range $p.Pages }}
       <a class="card" href="{{ .RelPermalink }}">
 
-        {{/* Slika: prvo image_url (apsolutni), pa image (relativni ili apsolutni), pa placeholder */}}
+        {{/* Slika: prvo image_url (apsolutni), pa image (relativni/apsolutni), pa placeholder */}}
         {{ $img := .Params.image_url | default .Params.image }}
 
         {{ if $img }}
@@ -48,7 +50,27 @@
     {{ end }}
   </div>
 
-  {{ partial "pagination.html" . }}
+  {{/* --- Pagination (uniformno, centrirano) --- */}}
+  {{ if gt $p.TotalPages 1 }}
+  <nav class="pagination" role="navigation" aria-label="Pagination">
+    {{ if $p.HasPrev }}
+      <a class="page-btn" href="{{ $p.First.URL }}" aria-label="First page">««</a>
+      <a class="page-btn" href="{{ $p.Prev.URL }}" aria-label="Previous page">«</a>
+    {{ end }}
 
+    {{ range $pg := $p.Pagers }}
+      {{ if eq $pg $p }}
+        <span class="page-btn is-active" aria-current="page">{{ $pg.PageNumber }}</span>
+      {{ else }}
+        <a class="page-btn" href="{{ $pg.URL }}">{{ $pg.PageNumber }}</a>
+      {{ end }}
+    {{ end }}
+
+    {{ if $p.HasNext }}
+      <a class="page-btn" href="{{ $p.Next.URL }}" aria-label="Next page">»</a>
+      <a class="page-btn" href="{{ $p.Last.URL }}" aria-label="Last page">»»</a>
+    {{ end }}
+  </nav>
+  {{ end }}
 
 {{ end }}
