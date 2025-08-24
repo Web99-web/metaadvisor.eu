@@ -1,22 +1,24 @@
 ---
-title: "Genij je bio samo prolog.Stablecoins predstavljaju promjenu platforme u plaćanju.Pozornica je postavljena."
+title: "GENIUS je bio samo prolog. Stablecoini predstavljaju platformski zaokret u plaćanju. Pozornica je spremna."
 date: 2025-08-23T11:38:30Z
 category: "news"
 translationKey: "16ed03472ae961b0b6c05cb9ce5cd0b1"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/opinion/2025/08/23/genius-was-just-the-prologue-stablecoins-represent-a-platform-shift-in-payments-the-stage-is-set"
-summary: "Shan Aggarwal kaže da kripto industrija još uvijek podcjenjuje koliko će biti brzi i snažni prelazak na standard standard i koliko će brzo AI ubrzati."
-image: "/news/2025-08-23-genius-was-just-the-prologue-stablecoins-represent-a-platform-shift-in-payments.jpg"
+summary: "Shan Aggarwal tvrdi da kripto industrija i dalje podcjenjuje koliko brzo i snažno dolazi prelazak na standard stablecoina — i koliko će ga ubrzati AI."
+tags: ["stablecoins","payments","genius-act","ai","infrastructure","fintech","circle","stripe","shopify","banks","card-networks","platform-shift","opinion"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/0a9b2f4c6a1e4b5cbd0b1a2a3f4e5d6c7b8a9f01-1280x720.jpg?auto=format"
+image_alt: "Stablecoini kao nova platna infrastruktura"
 ---
 
-Svaka era ekonomske transformacije započela je na isti način: s infrastrukturom koja se čini nišom - sve dok nije.
+Svako doba ekonomske transformacije počinje isto: infrastrukturom koja u početku izgleda nišno — sve dok to ne prestane biti.
 
-Sustavi ranog navodnjavanja otključali su prve gradove.Rane željezničke mreže ponovno su obrušile čitave ekonomije.Osnovni protokoli Interneta, TCP/IP, pretvorili su se sporim i upletenim informacijskim mrežama u jedan, globalni sustav komunikacije.I oblak je u praznom hodu pretvorio u temelj digitalne ekonomije.
+Rana navodnjavanja otključala su prve gradove. Željeznice su premrežile ekonomije. Internetski protokoli (TCP/IP) spojili su izolirane mreže informacija u jedinstveni globalni sustav komunikacije. Cloud je pretvorio neiskorištene servere u temelje digitalne ekonomije.
 
-Ne sjećamo ih se kako su započeli.Sjećamo se po tome kako su se skalirali.Jer u stvari, ono što je nekada izgledalo kao eksperimenti niša postali su okosnica globalnih tržišta.
+Ne pamtimo ih po početku, već po **skaliranju**. Nekada „nišni“ eksperimenti postali su okosnica globalnih tržišta.
 
-Sljedeći su stabilnici.Dobrodošli u dob sloja Stablecoin: otvoreni, programibilni zaklada za globalni pokret novca.
+**Stablecoini su sljedeći.** Dobro došli u dob **stablecoin sloja**: otvorene, programabilne osnove za globalni prijenos novca.
 
-Samo prošle godine, Stablecoini su nedostajali jasna regulacija i odbacili su ih veći dio financijskog ustanove.Brzo naprijed nekoliko mjeseci, a američki Kongres donio je Zakon o genijaciji, stvarajući prvi savezni okvir zemlje za Stablecoins i izričito ih definirajući kao instrumente za plaćanje.Glavne banke i mreže kartica ušle su u ovaj prostor.Rani pokretači poput Circle debitirali su na Wall Streetu.A čelnici FinTech-a iz Stripea to Shopify prihvaćaju stabilne staze brže, jeftinije, uvijek na transakcijama.
+Još prošle godine stablecoini su imali nejasnu regulativu i bili odbačeni od dijela financijske industrije. Danas je američki Kongres usvojio **GENIUS Act**, prvi federalni okvir koji stablecoine definira kao **platne instrumente**. Velike banke i kartične mreže ulaze u prostor. Pioniri poput Circlea debiliraju na Wall Streetu. Fintech lideri — od Stripea do Shopifyja — prihvaćaju stablecoine za brža, jeftinija i „always-on“ plaćanja.
 
-To nisu izolirane prekretnice.Oni su rani znakovi da su stabicirani na putu da postanu osnovna infrastruktura, baš kao što je AWS postao miran motor oblačne ekonomije.Stablecoins predstavljaju promjenu platforme u plaćanju.Baš kao što su prethodne promjene platforme-Mainframe Computing na pojedinačna računala, radna površina na mobilna i lokalna na lokalnoj infrastrukturi utemeljenoj na oblaku-StableCoins će otključati val inovacija modernizacijom financijske infrastrukture.Ovo je prekretnica, ali to je i samo
+To nisu izolirane prekretnice, već rani signali da će stablecoini postati **temeljna infrastruktura**, kao što je AWS postao tihi motor cloud ekonomije. Poput prijašnjih platformskih zaokreta (mainframe → PC, desktop → mobile, on-prem → cloud), stablecoini otključavaju novi val inovacija modernizacijom financijske infrastrukture. Ovo je prekretnica — ali i tek početak.
