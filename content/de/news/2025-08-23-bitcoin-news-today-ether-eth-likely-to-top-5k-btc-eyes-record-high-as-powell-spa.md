@@ -1,15 +1,16 @@
 ---
-title: "Bitcoin News heute: Ether (ETH) wird voraussichtlich 5.000$ überschreiten, BTC peilt Rekordhoch an während Powell Rally auslöst; DAT-Deal-Risiken im Fokus der Asset Manager"
+title: "Bitcoin News heute: Ether (ETH) dürfte über 5.000$ steigen, BTC peilt Rekordhoch an, während Powell eine Rally auslöst; DAT-Deal-Risiken im Fokus"
 date: 2025-08-23T05:15:06Z
 category: "crypto"
 translationKey: "03dfa9c0117175b9f7d6f83086b66b9e"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/23/ether-likely-to-top-usd5k-btc-eyes-record-high-as-powell-sparks-rally-watch-for-dat-deal-risks-asset-managers"
-summary: "Powells Haltung unterstützt eine Krypto-Rally, jedoch bestehen Risiken durch die Einführung in Unternehmensschatzämtern und die Volatilität der Aktienmärkte."
-tags: ["bitcoin","ether","eth","powell","fed","dat","monarq","rally","crypto"]
-image: "/images/2025-08-23-bitcoin-news-today-ether-eth-likely-to-top-5k-btc-eyes-record-high-as-powell.jpg"
-image_alt: "Ether und Bitcoin steigen während Powell eine Rally auslöst"
+summary: "Powells gemäßigter Ton unterstützt die Krypto-Rally; Risiken bleiben bei der Einführung in Unternehmensschatzämtern und der Volatilität der Aktienmärkte."
+tags: ["bitcoin","ether","eth","powell","fed","jackson-hole","dat","monarq","rally","markets","crypto"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/7ee9072b189b6e8c3f86977e9ad5862d55dcf287-1280x854.jpg?auto=format"
+image_alt: "BTC und ETH steigen nach Powells dovisher Tonlage; Krypto-Markt zieht an"
 ---
+
 
 Kryptowährungen legten am späten Freitag stark zu, nachdem der Präsident der Federal Reserve, Jerome Powell, auf dem Wirtschaftssymposium in Jackson Hole einen gemäßigten Ton anschlug und damit die Markterwartungen an eine restriktivere Haltung übertraf. Das veranlasste Asset Manager dazu, neue Rekordhochs für Bitcoin (BTC $114.978,33), Ether (ETH) und ausgewählte Altcoins vorherzusagen.
 
