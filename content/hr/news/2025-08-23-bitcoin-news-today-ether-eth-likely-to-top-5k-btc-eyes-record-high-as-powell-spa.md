@@ -5,11 +5,12 @@ category: "crypto"
 translationKey: "03dfa9c0117175b9f7d6f83086b66b9e"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/23/ether-likely-to-top-usd5k-btc-eyes-record-high-as-powell-sparks-rally-watch-for-dat-deal-risks-asset-managers"
-summary: "Powellov stav podržava kripto-rally, ali potencijalni rizici uključuju izazove oko prihvaćanja u korporativnim riznicama i volatilnost tržišta dionica."
-tags: ["bitcoin","ether","eth","powell","fed","dat","monarq","rally","crypto"]
-image: "/images/2025-08-23-bitcoin-news-today-ether-eth-likely-to-top-5k-btc-eyes-record-high-as-powell.jpg"
-image_alt: "Ether i Bitcoin rastu dok Powell pokreće tržišni rally"
+summary: "Powellov blagi ton podržao je kripto-rally, no potencijalni rizici uključuju izazove prihvaćanja u korporativnim riznicama i volatilnost dioničkog tržišta."
+tags: ["bitcoin","ether","eth","powell","fed","jackson-hole","dat","monarq","rally","markets","crypto"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/7ee9072b189b6e8c3f86977e9ad5862d55dcf287-1280x854.jpg?auto=format"
+image_alt: "BTC i ETH rastu nakon Powellovih blago-tonskih poruka; kripto tržište jača"
 ---
+
 
 Kriptovalute su snažno porasle kasno u petak nakon što je predsjednik Federalnih rezervi Jerome Powell zauzeo blagi (dovish) ton na ekonomskom simpoziju u Jackson Holeu, prkoseći očekivanjima tržišta o strožem pristupu. To je potaknulo asset managere da predviđaju nove rekordne vrijednosti za bitcoin (BTC $114,978.33), ether (ETH) i odabrane altcoine.
 
