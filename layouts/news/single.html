@@ -2,26 +2,40 @@
 <article class="post container">
   <header class="post-hero">
 
-    {{/* HERO slika na singleu: image_url > image > (nema) */}}
-    {{ $hero := .Params.image_url | default .Params.image }}
-    {{ if $hero }}
-      {{ if or (hasPrefix $hero "http") (hasPrefix $hero "/") }}
-        <img class="post-hero-img" src="{{ $hero }}" alt="{{ .Title }}" loading="lazy">
-      {{ else }}
-        <img class="post-hero-img" src="{{ $hero | absURL }}" alt="{{ .Title }}" loading="lazy">
+    {{/* HERO slika: image_url > image (rel/abs) > veliki MetaAdvisor placeholder */}}
+    {{ $img := .Params.image_url | default .Params.image }}
+    {{ if $img }}
+      {{ $src := $img }}
+      {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
+        {{ $src = $src | absURL }}
       {{ end }}
+      <img
+        class="post-hero-img"
+        src="{{ $src }}"
+        alt="{{ .Title }}"
+        loading="lazy"
+        decoding="async"
+        onerror="this.onerror=null;this.src='/images/placeholder-metaadvisor-large.jpg'">
+    {{ else }}
+      <img
+        class="post-hero-img"
+        src="/images/placeholder-metaadvisor-large.jpg"
+        alt="MetaAdvisor"
+        loading="lazy"
+        decoding="async">
     {{ end }}
 
     <h1 class="post-title">{{ .Title }}</h1>
     <div class="post-meta">
       <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
       {{ with .Params.category }}
-        · <a class="badge" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+        · <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
       {{ end }}
       {{ with .Params.tags }}
-        · {{ range $i, $t := . }}{{ if $i }}, {{ end }}
-          <a href="{{ "/tags/" | relLangURL }}{{ $t | urlize }}/">{{ $t }}</a>
-        {{ end }}
+        · {{ range $i, $t := . }}
+            {{ if $i }}, {{ end }}
+            <a href='{{ "/tags/" | relLangURL }}{{ $t | urlize }}/'>{{ $t }}</a>
+          {{ end }}
       {{ end }}
     </div>
   </header>
@@ -31,16 +45,16 @@
   </div>
 
   {{ if or .Params.source .Params.source_url }}
-  <aside class="post-source">
-    <span class="label">{{ i18n "sourceLabel" | default "Source" }}:</span>
-    {{ if .Params.source_url }}
-      <a href="{{ .Params.source_url }}" rel="noopener nofollow ugc" target="_blank">
+    <aside class="post-source">
+      <span class="label">{{ i18n "sourceLabel" | default "Source" }}:</span>
+      {{ if .Params.source_url }}
+        <a href="{{ .Params.source_url }}" rel="noopener nofollow ugc" target="_blank">
+          {{ .Params.source | default "Original" }}
+        </a>
+      {{ else }}
         {{ .Params.source | default "Original" }}
-      </a>
-    {{ else }}
-      {{ .Params.source | default "Original" }}
-    {{ end }}
-  </aside>
+      {{ end }}
+    </aside>
   {{ end }}
 
   {{ partial "disclaimer.html" . }}
