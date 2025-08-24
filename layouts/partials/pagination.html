@@ -1,25 +1,21 @@
 {{ if gt .Paginator.TotalPages 1 }}
-<nav class="pagination">
-  {{ with .Paginator.First }}
-    <a class="page-btn" href="{{ .URL }}">««</a>
-  {{ end }}
-  {{ with .Paginator.Prev }}
-    <a class="page-btn" href="{{ .URL }}">«</a>
+<nav class="pagination" role="navigation">
+  {{ if .Paginator.HasPrev }}
+    <a class="page-btn" href="{{ .Paginator.First.URL }}" aria-label="First">««</a>
+    <a class="page-btn" href="{{ .Paginator.Prev.URL }}" aria-label="Previous">«</a>
   {{ end }}
 
   {{ range .Paginator.Pagers }}
-    {{ if eq .PageNumber $.Paginator.PageNumber }}
+    {{ if eq . .Paginator }}
       <span class="page-btn active">{{ .PageNumber }}</span>
     {{ else }}
       <a class="page-btn" href="{{ .URL }}">{{ .PageNumber }}</a>
     {{ end }}
   {{ end }}
 
-  {{ with .Paginator.Next }}
-    <a class="page-btn" href="{{ .URL }}">»</a>
-  {{ end }}
-  {{ with .Paginator.Last }}
-    <a class="page-btn" href="{{ .URL }}">»»</a>
+  {{ if .Paginator.HasNext }}
+    <a class="page-btn" href="{{ .Paginator.Next.URL }}" aria-label="Next">»</a>
+    <a class="page-btn" href="{{ .Paginator.Last.URL }}" aria-label="Last">»»</a>
   {{ end }}
 </nav>
 {{ end }}
