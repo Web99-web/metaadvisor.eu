@@ -2,8 +2,14 @@
 <article class="post container">
   <header class="post-hero">
 
-    {{/* HERO slika: image_url > image (rel/abs) > veliki MetaAdvisor placeholder */}}
-    {{ $img := .Params.image_url | default .Params.image }}
+    {{/* HERO slika: preferiraj image_url > zatim image (rel/abs) > placeholder */}}
+    {{ $img := "" }}
+    {{ if .Params.image_url }}
+      {{ $img = .Params.image_url }}
+    {{ else if .Params.image }}
+      {{ $img = .Params.image }}
+    {{ end }}
+
     {{ if $img }}
       {{ $src := $img }}
       {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
