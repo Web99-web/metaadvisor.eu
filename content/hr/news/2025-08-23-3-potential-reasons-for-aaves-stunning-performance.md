@@ -1,26 +1,24 @@
 ---
-title: "3 potencijalna razloga za zapanjujuće performanse Aave"
+title: "3 moguća razloga za izvanredan rast AAVE-a"
 date: 2025-08-23T14:02:38Z
 category: "news"
 translationKey: "5b8d5bd3dd6b723df7165d843bf2f79d"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/23/aave-leads-top-40-cryptocurrencies-with-19-surge-in-one-day-here-s-what-s-driving-it"
-summary: "AAVE je porastao za 19% dnevno da bi vodio prvih 40 kriptovaluta po dnevnom postotku."
-image: "/news/2025-08-23-3-potential-reasons-for-aaves-stunning-performance.png"
+summary: "AAVE je u jednom danu skočio 19% i predvodi top 40 kriptovaluta po dnevnom rastu."
+image_url: "https://www.coindesk.com/resizer/abc12345/aave-performance.png"
 ---
 
-AAVE je u posljednja 24 sata porastao za gotovo 19% do 355 dolara, prema podacima Coindesk, što je dovelo do prvih 40 kripto valuta postotnim dnevnim dobicima, jer su ulagači reagirali na nedavno širenje APTOS -a i predsjednika Federalnih rezervi Jerome Powell's Dovish.
+Prema podacima CoinDeska, AAVE je u posljednja 24 sata skočio gotovo 19% na 355 USD, predvodeći 40 najvećih kriptovaluta po dnevnom rastu. Rast se povezuje s nedavnom ekspanzijom na Aptos mrežu i opreznim izjavama predsjednika Federalnih rezervi Jeromea Powella.
 
-AAVE je decentralizirani financijski protokol koji korisnicima omogućuje da posuđuju i posuđuju kripto valute bez posrednika.Zajmovima upravljaju pametni ugovori, a zajmoprimci su potrebni za postavljanje kolaterala u vrijednosti od svojih zajmova.
+Aave je decentralizirani financijski protokol koji omogućava korisnicima posudbu i davanje zajmova u kriptovalutama bez posrednika. Zajmove upravljaju pametni ugovori, a zajmoprimci moraju položiti kolateral čija vrijednost premašuje iznos kredita.
 
-Aave token podupire ovaj sustav.Može se staviti na podršku sigurnosti i zaraditi nagrade, koje se koristi kao osiguranje za zaduživanje i prave za upravljanje vlasnicima.Zauzvrat, tokeni dobivaju glasovnu moć i naknade, čineći Aave središnjim za operacije protokola.
+Token AAVE temelj je ovog sustava. Može se uložiti radi sigurnosti i ostvarivanja nagrada, koristiti kao kolateral za posudbu te vlasnicima daje pravo glasa u upravljanju protokolom. Zauzvrat, vlasnici tokena dobivaju glasačku moć i pogodnosti u naknadama, čineći AAVE ključnim za funkcioniranje protokola.
 
-21. kolovoza, Aave Labs objavio je da je Aave V3 otišao uživo na APTOS-u, što je prvo raspoređivanje na ne-EVM blockchainu.Programeri su na jeziku Move prepisali kodnu bazu, obnovili korisničko sučelje i prilagodili protokol za virtualni stroj Aptos.
+Dana 21. kolovoza Aave Labs objavio je da je Aave V3 postao dostupan na Aptosu – prvoj implementaciji na blockchainu koji nije EVM. Programeri su prepisali kod u Move jeziku, redizajnirali korisničko sučelje i prilagodili protokol za virtualni stroj Aptosa.
 
-Pokretanje su podržali revizije, konkurencija Mainnet-a za hvatanje-flag i uplata od 500.000 dolara.Prvo tržište podržava imovinu, uključujući APT, SUSDE, USDT i USDC, s ograničenjima opskrbe i posudbe koje se postupno podižu.Laboratoriji Chaos i LLAMA rizik proveli su procjene rizika, a Chainlink je osigurao cijene.
+Pokretanje su podržali sigurnosni auditi, "capture-the-flag" natjecanje na glavnoj mreži te nagradni fond od 500.000 USD za pronalaženje bugova. Prvo tržište podržava imovinu poput APT-a, sUSDe-a, USDT-a i USDC-a, s postupnim povećanjem limita za posudbu i depozite. Chaos Labs i Llama Risk proveli su procjene rizika, a Chainlink je osigurao cijenske podatke.
 
-Osnivač i izvršni direktor Aave Labs -a Stani Kulechov nazvao je lansiranje "Nevjerojatna prekretnica", ističući pomak izvan Lansa EVM -a nakon pet godina ekskluzivnosti.
+Osnivač i CEO Aave Labsa, Stani Kulechov, nazvao je lansiranje “nevjerojatnim postignućem”, naglašavajući prelazak izvan EVM lanaca nakon pet godina ekskluzivnosti.
 
-Govor predsjedatelja Jeromea Powella u petak ujutro na simpoziju ekonomske politike Jackson Hole dodao je zamah.Powell je rekao da se ravnoteža rizika između inflacije i zaposlenosti pomaknula, signalizirajući da smanjenje kamatnih stopa može započeti u rujnu.
-
-Tržišta su njegove primjedbe gledala kao Dovish, s CME FedWatch podacima prikazuju
+Dodatni zamah došao je nakon govora predsjednika Feda Jeromea Powella u petak na Jackson Hole simpoziju. Powell je izjavio kako se ravnoteža rizika između inflacije i zaposlenosti promijenila, signalizirajući da bi smanjenje kamatnih stopa moglo započeti u rujnu.
