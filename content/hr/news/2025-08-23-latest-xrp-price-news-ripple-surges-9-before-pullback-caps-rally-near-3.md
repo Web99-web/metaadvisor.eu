@@ -1,22 +1,37 @@
 ---
-title: "Najnovije vijesti o cijeni XRP -a: Ripple se povećava za 9% prije nego što se povuci kapice u blizini 3 dolara"
+title: "Najnovije XRP vijesti: Ripple raste 9% prije povlačenja; rally zaustavljen blizu 3 $"
 date: 2025-08-23T15:41:43Z
 category: "news"
 translationKey: "71cfd84f3c0857858914b03787afd642"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/23/xrp-surges-9-before-pullback-caps-rally-near-usd3"
-summary: "Proboj iznad 3 USD pokreće petostruko šiljak volumena kao pomak politike Feda i institucionalne tokove na pokretanju aktivnosti."
-image: "/news/2025-08-23-latest-xrp-price-news-ripple-surges-9-before-pullback-caps-rally-near-3.png"
+summary: "Probijanje iznad 3 $ izazvalo je peterostruki skok volumena; promjena Fed politike i on-chain aktivnost potaknule su institucionalne tokove."
+tags: ["xrp","ripple","price","breakout","powell","fed","jackson-hole","onchain","xrp-ledger","volume","markets","crypto"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/092aae262c3e82083e87ab950178b71c032e309e-735x448.png?auto=format"
+image_alt: "XRP probija razinu od 3 $ uz snažan skok volumena"
 ---
 
-XRP je naglo napredovao tijekom sesije od 22. do 23. kolovoza, testirajući višemjesečni otpor blizu 3,10 dolara nakon tjedana trgovanja u bočnom stanju.
+XRP je snažno napredovao u sesiji 22.–23. kolovoza, testirajući višemjesečni otpor oko 3,10 $ nakon tjedana kretanja u rasponu.
 
-Taj se potez poklopio s Dovish komentarom predsjednika Federalnih rezervi Jerome Powell iz Jackson Holea, koji je pojačao očekivanja od rujna smanjenja stope i povećalo rizično raspoloženje preko digitalne imovine.
+Potez se poklopio s „dovish“ komentarima predsjednika Feda Jeromea Powella u Jackson Holeu, što je učvrstilo očekivanja o smanjenju stopa u rujnu i podiglo apetit za rizikom na tržištu digitalne imovine.
 
-Volumen naseljavanja na XRP knjizi porastao je 500% ranije ovog tjedna, dodajući optimizam oko institucionalnog usvajanja usprkos stalnoj distribuciji kitova.
+On-chain volumen poravnanja na XRP Ledgeru skočio je 500% ranije ovog tjedna, pojačavajući optimizam oko institucionalnog usvajanja unatoč kontinuiranoj distribuciji „whalea“.
 
-• XRP je stekao 8,56% tijekom 23-satnog zasjedanja od 22. kolovoza u 11:00 do 23. kolovoza u 10:00, popeo se sa 2,83 na 3,03 USD, prema podacima tehničke analize Coindesk Research.• Token se zamahnuo između 2,79 i 3,10 dolara, stvarajući 11% unutar dana.• Proboj se dogodio u 14:00 UTC 22. kolovoza, a XRP je porastao sa 2,84 na 3,03 dolara na 667,4 milijuna volumena - prosječne sesije pet puta.• Volatilnost u kasnoj sesiji ograničila je potez, a XRP se povukao 0,47% u posljednjem satu kako bi se naselio blizu 3,01 USD.• Podrška je konsolidirala oko 2,97 do 3,00 USD, dok otpor ostaje čvrst na 3,08 do 3,10 USD.
+**Sažetak kretanja cijene**
+- XRP je porastao 8,56% kroz 23-satnu sesiju (22. kolovoza 11:00 – 23. kolovoza 10:00), s 2,83 $ na 3,03 $.  
+- Raspon trgovanja iznosio je 2,79–3,10 $ (intraday 11%).  
+- Proboj se dogodio 22. kolovoza u 14:00 UTC (2,84 → 3,03 $) uz 667,4 mil. volumena — pet puta iznad prosjeka.  
+- U završnici je uslijedila korekcija od 0,47%, s konsolidacijom oko 3,01 $.  
+- Podrška se formira oko 2,97–3,00 $, dok otpor ostaje 3,08–3,10 $.
 
-• Razina probijanja: 2,84 do 2,97 dolara zona akumulacije pokrenula je naopako impuls na velikom volumenu.• Otpor: Snažan pritisak opskrbe pojavio se na 3,08 do 3,10 USD, odbacujući daljnji napredak.• Podrška: Novi kat koji se formira na 2,97 do 3,00 dolara psihološka razina, više puta brani Intraday.• Svezak: Slušalica je zabilježila 667,4 milijuna obrta, 72% iznad tjednog prosjeka.• Struktura: Uzorak nalikuje postavljanju nastavka ako se drži 3,00 USD, iako izblijedjeli volumen kasno u sesiji sugerira konsolidaciju prije sljedeće noge.
+**Tehnička slika**
+- **Zona akumulacije:** 2,84–2,97 $.  
+- **Otpor:** 3,08–3,10 $ (odbacivanje nastavka rasta).  
+- **Podrška:** psiholoških 2,97–3,00 $.  
+- **Volumen:** svijeća proboja 667,4 mil. (+72% iznad tjednog prosjeka).  
+- **Struktura:** moguća **kontinuacija** ako se 3,00 $ održi; slabljenje volumena sugerira kratku konsolidaciju.
 
-• Da li podrška od 3,00 USD drži se tijekom uzimanja profita ili je li dublji testovi za povlačenje 2,95 USD.• Potvrda prekida iznad zone od 3,08 do 3,10 USD, koja bi mogla otvoriti put prema 3,25 USD.• Nalazi politika Feda
+**Što pratiti**
+- Drži li se 3,00 $ tijekom realizacije profita ili slijedi dublji retest 2,95 $.  
+- Potvrda iznad 3,08–3,10 $ za cilj prema 3,25 $.  
+- Signali Fed politike uoči rujna te on-chain aktivnost i tokovi „whalea“.
