@@ -1,29 +1,28 @@
 ---
-title: "Predviđanje cijene ETH -a: Trgovci ciljaju 10K ETH usred 400 milijuna dolara u Ethereum likvidaciji"
+title: "ETH prognoza cijene: Trgovci ciljaju 10K$ ETH usred 400 milijuna $ likvidacija na Ethereumu"
 date: 2025-08-23T06:47:33Z
 category: "crypto"
 translationKey: "bc6f356776ead6ff1f18e220a3dbb306"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/23/ethereum-bets-see-unusually-high-usd400m-liquidations-as-some-now-target-usd10k-eth"
-summary: "Powell -ov ton Dovish -a poslao je Ether na svježe vrhunce, ali gotovo 400 milijuna dolara likvidacija pokazuje koliko su se trgovci krenuli u pokret."
-tags: ["crypto"]
-image: "/news/2025-08-23-eth-price-prediction-traders-target-10k-eth-amid-400m-in-ethereum-liquidations.jpg"
+summary: "Powellov blagi ton podigao je ether na nove vrhunce, ali gotovo 400 milijuna $ likvidacija pokazuje koliko su trgovci bili rastegnuti uoči poteza."
+tags: ["ethereum","eth","bitcoin","powell","fed","liquidations","crypto","treasury","hashdex","wall-street","stablecoins","smart-contracts","tokenization"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1d1424e45e19742407d0b0130a1db80b45a67c68-1280x853.jpg?auto=format"
+image_alt: "Ethereum cijena cilja 10.000 $ dok likvidacije dosežu 400 milijuna $"
 ---
 
-Ethereumov proboj prošlog 4.800 dolara pokrenuo je gotovo 388 milijuna dolara likvidacija vezanih za token u posljednja 24 sata, pokazuju podaci, označavajući najteži ispih u svim kripto imovinama.
+Ethereumov proboj iznad 4.800 $ pokrenuo je gotovo 388 milijuna $ likvidacija vezanih uz token u posljednja 24 sata – što je najteži val čišćenja među svim kripto-imovinama.
 
-Wipeout je bio dio likvidiranog tržišta u iznosu od 769 milijuna dolara, s preko 183 000 trgovaca prisiljenim s pozicija.Jedinstveni najveći hit bio je narudžba ETH-a u iznosu od 10 milijuna dolara na OKX-u, neobično visoka brojka za token, koja je često druga pozicija utemeljena na Bitcoin-u.
+Ukupno je likvidirano 769 milijuna $ na tržištu, pri čemu je više od 183.000 trgovaca izbačeno iz pozicija. Najveći pojedinačni gubitak bio je ETH swap nalog od 10 milijuna $ na OKX-u – neuobičajeno visoka brojka za ether, koji je često u sjeni bitcoin pozicija.
 
-Likvidacije služe kao sjajni podsjetnik na to kako krhko pozicioniranje može biti na kripto tržištu.Kad se trgovci gomilaju s utjecajem i tržište se kreće protiv njih, razmjenjuje ulazak i automatski zatvara te oklade.
+Likvidacije podsjećaju koliko je pozicioniranje na kripto tržištu krhko. Kada trgovci koriste preveliku polugu, a tržište se okrene protiv njih, burze automatski zatvaraju pozicije.
 
-Ispiranje dugih likvidacija može resetirati tržište za čistiji odskok, dok skup kratkih maramica može potaknuti sljedeću nogu višu.
+Flush long likvidacija može resetirati tržište za čišći odskok, dok klaster short likvidacija može potaknuti novi val rasta.
 
-Taj potez uslijedio je jer je eter porastao gotovo 15% na rekordnih 4.885 dolara nakon što je predsjednik Federalnih rezervi Jerome Powell predložio smanjenje stope u rujnu.Bitcoin je zaostajao s 4% dobitkom na 113 000 USD, dok se indeks Coindesk 20 popeo na 9%.
+Ether je porastao gotovo 15% na rekordnih 4.885 $ nakon što je predsjednik Feda Jerome Powell sugerirao da bi smanjenje stopa moglo doći već u rujnu. Bitcoin je zaostao s rastom od 4% na 113.000 $, dok je CoinDesk 20 indeks porastao 9%.
 
-Analitičari kažu da miting nije samo makro trgovina.Institucionalna kupovina i izdvajanja riznice dodali su repni vjetar, hranjenjem nagađanja da bi Ethereum mogao postati preferirani blockchain na Wall Streetu.
+Analitičari tvrde da rally nije samo makro priča. Institucionalna kupnja i alokacije trezora dali su dodatni zamah, hraneći spekulacije da bi Ethereum mogao postati preferirana blockchain platforma Wall Streeta.
 
-"Novi Ether-ov novi maksimum jasan je znak potražnje investitora izvan samo Bitcoina", rekao je Samir Kerbage, glavni direktor za ulaganje u Hashdexu, rekao je u e-poruci Coindesku."Očekivao bih da će ETH nadmašiti 10k dolara nakon što počnemo vidjeti Stablecoin rješenja koja se provode za plaćanje u SAD -u"
+„Novi rekord ethera jasan je znak potražnje investitora izvan bitcoina,“ rekao je Samir Kerbage, CIO Hashdexa, u emailu za CoinDesk. „Očekujem da će ETH nadmašiti 10.000 $ kada u SAD-u krenu stabilcoin rješenja za plaćanja.“
 
-Taj cilj od 10 000 dolara, nakon što se jednom smatra pretjerano optimističnim, sve se više izražava kao što Ethereum cementira kao okosnicu za stabilne podatke, tokenizaciju i pametne ugovore.Godišnja dobit za ETH sada iznosi 45%.
-
-Shaurya je suidejnik Coindesk
+Cilj od 10.000 $, nekoć smatran pretjerano optimističnim, sada se sve češće spominje dok Ethereum učvršćuje status okosnice za stablecoine, tokenizaciju i pametne ugovore. Dosadašnji rast ETH-a u 2025. iznosi 45%.
