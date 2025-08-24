@@ -1,29 +1,28 @@
 ---
-title: "ETH -Preisvorhersage: Händler zielen auf 10.000 USD ETH in Höhe von 400 Mio. USD in Ethereum -Liquidationen ab"
+title: "ETH Kursprognose: Händler zielen auf 10.000$ ETH während 400 Mio. $ Ethereum-Liquidationen"
 date: 2025-08-23T06:47:33Z
 category: "crypto"
 translationKey: "bc6f356776ead6ff1f18e220a3dbb306"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/23/ethereum-bets-see-unusually-high-usd400m-liquidations-as-some-now-target-usd10k-eth"
-summary: "Powells Schwanzton schickte Äther zu Fresh Highs, aber fast 400 Millionen US -Dollar in Liquidationen zeigen, wie gestreckte Händler in den Umzug fuhren."
-tags: ["crypto"]
-image: "/news/2025-08-23-eth-price-prediction-traders-target-10k-eth-amid-400m-in-ethereum-liquidations.jpg"
+summary: "Powells dovisher Ton trieb Ether auf neue Höchststände, aber fast 400 Mio. $ an Liquidationen zeigen, wie überdehnt Trader positioniert waren."
+tags: ["ethereum","eth","bitcoin","powell","fed","liquidations","crypto","treasury","hashdex","wall-street","stablecoins","smart-contracts","tokenization"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1d1424e45e19742407d0b0130a1db80b45a67c68-1280x853.jpg?auto=format"
+image_alt: "Ethereum-Preis zielt auf 10.000 $ während Liquidationen 400 Mio. $ erreichen"
 ---
 
-Ethereums Ausbruch über 4.800 US -Dollar löste in den letzten 24 Stunden Liquidationen in Höhe von fast 388 Millionen US -Dollar aus, die an das Token gebunden waren. Die Daten markieren das schwerste Flush über alle Krypto -Vermögenswerte.
+Der Ausbruch von Ethereum über 4.800 $ löste in den letzten 24 Stunden fast 388 Mio. $ an Liquidationen aus – das schwerste Flush unter allen Krypto-Assets.
 
-Der Wipeout war Teil von 769 Millionen US -Dollar liquidierter Markt, wobei über 183.000 Händler aus Positionen gezwungen wurden.Der größte Treffer der einzelnen Treffer von 10 Millionen US-Dollar für ETH-Swap-Auftrag auf OKX, eine ungewöhnlich hohe Zahl für das Token, die häufig an zweiter Stelle auf Bitcoin-basierten Positionen liegt.
+Insgesamt wurden 769 Mio. $ am Markt liquidiert, wobei über 183.000 Trader ihre Positionen verloren. Der größte einzelne Schlag war ein ETH-Swap-Order über 10 Mio. $ auf OKX – eine ungewöhnlich hohe Zahl für Ether, der oft im Schatten von Bitcoin-Positionen steht.
 
-Liquidationen dienen als starke Erinnerung daran, wie fragile Positionierung auf dem Kryptomarkt sein kann.Wenn sich Händler mit Hebel stapeln und sich der Markt gegen sie bewegt, treten die Börsen ein und schließen diese Wetten automatisch.
+Liquidationen erinnern daran, wie fragil Positionierungen am Kryptomarkt sein können. Wenn Trader mit Hebel handeln und der Markt sich gegen sie bewegt, schließen Börsen diese Wetten automatisch.
 
-Ein Spülung langer Liquidationen kann den Markt für einen saubereren Sprung zurücksetzen, während eine Gruppe kurzer Tücher das nächste Bein steigern kann.
+Eine Welle von Long-Liquidationen kann den Markt für einen saubereren Bounce zurücksetzen, während eine Cluster von Short-Liquidationen den nächsten Anstieg befeuern kann.
 
-Der Umzug kam, als der Äther um fast 15% auf einen Rekord von 4.885 US -Dollar stieg, nachdem der Vorsitzende der Federal Reserve, Jerome Powell, die Tarifkürzungen im September eintreffen könnte.Bitcoin blieb mit einem Gewinn von 4% auf 113.000 USD zurück, während der Coindesk 20 -Index um 9% stieg.
+Ether stieg fast 15 % auf ein Rekordhoch von 4.885 $, nachdem Fed-Chef Jerome Powell angedeutet hatte, dass Zinssenkungen bereits im September kommen könnten. Bitcoin hinkte mit einem Anstieg von 4 % auf 113.000 $ hinterher, während der CoinDesk 20 Index um 9 % zulegte.
 
-Analysten sagen, dass die Rallye nicht nur ein Makrohandel ist.Institutionelle Kauf- und Finanzierungszuordnungen haben einen Rückenwind hinzugefügt, in dem Spekulationen gefüttert werden, dass Ethereum die bevorzugte Blockchain der Wall Street werden könnte.
+Analysten sagen, die Rally sei nicht nur ein Makro-Trade. Institutionelle Käufe und Treasury-Allokationen gaben zusätzlichen Rückenwind und nährten Spekulationen, dass Ethereum zur bevorzugten Blockchain der Wall Street werden könnte.
 
-"Ethers neuer Allzeithoch ist ein klares Zeichen für die Nachfrage von Investoren über nur Bitcoin", sagte Samir Kerbage, Chief Investment Officer bei Hashdex, in einer E-Mail an Coindesk."Ich würde erwarten, dass die ETH 10.000 US -Dollar überschreitet, sobald wir anfangen, Stablecoin -Lösungen für Zahlungen in den USA umzusetzen."
+„Ethers neues Allzeithoch ist ein klares Zeichen für die Nachfrage von Investoren über Bitcoin hinaus“, sagte Samir Kerbage, CIO von Hashdex, in einer E-Mail an CoinDesk. „Ich erwarte, dass ETH 10.000 $ überschreiten wird, sobald Stablecoin-Lösungen für Zahlungen in den USA implementiert werden.“
 
-Dieses Ziel von 10.000 US -Dollar, einst als übermäßig optimistisch, wird zunehmend als Ethereum als Rückgrat für Stablecoins, Tokenisierung und intelligente Verträge geäußert.Der Jahr-auf-Jahresgewinn für die ETH liegt nun bei 45%.
-
-Shaurya ist der Co-Leader des Coindesk
+Das Ziel von 10.000 $, einst als übermäßig optimistisch angesehen, wird zunehmend genannt, da Ethereum seine Rolle als Rückgrat für Stablecoins, Tokenisierung und Smart Contracts festigt. Der bisherige Jahreszuwachs für ETH liegt bei 45 %.
