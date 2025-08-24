@@ -2,29 +2,20 @@
 <article class="post container">
   <header class="post-hero">
 
-    {{/* HERO slika: prvo image_url (remote/abs), zatim image (rel/abs), pa veliki placeholder */}}
-    {{ $img := .Params.image_url | default .Params.image }}
-    {{ if $img }}
-      {{ $src := $img }}
-      {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
-        {{/* ako je relativno (npr. news/xxx.jpg), pretvori u apsolutni URL prema sajtu */}}
-        {{ $src = $src | absURL }}
-      {{ end }}
-      <img
-        class="post-hero-img"
-        src="{{ $src }}"
-        alt="{{ .Title }}"
-        loading="lazy"
-        decoding="async"
-        onerror="this.onerror=null;this.src='/images/placeholder-metaadvisor-large.jpg'">
-    {{ else }}
-      <img
-        class="post-hero-img"
-        src="/images/placeholder-metaadvisor-large.jpg"
-        alt="MetaAdvisor"
-        loading="lazy"
-        decoding="async">
+    {{/* HERO slika: 1) image_url (remote) 2) image (/images/...) 3) fallback na statičku */}}
+    {{ $img := or .Params.image_url .Params.image "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg" }}
+    {{ $src := $img }}
+    {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
+      {{ $src = $src | absURL }}
     {{ end }}
+
+    <img
+      class="post-hero-img"
+      src="{{ $src }}"
+      alt="{{ .Params.image_alt | default .Title }}"
+      loading="lazy"
+      decoding="async"
+      onerror="this.onerror=null;this.src='/images/bitcoin-btc-ethereum-eth-solana-sol.jpg'">
 
     <h1 class="post-title">{{ .Title }}</h1>
     <div class="post-meta">
