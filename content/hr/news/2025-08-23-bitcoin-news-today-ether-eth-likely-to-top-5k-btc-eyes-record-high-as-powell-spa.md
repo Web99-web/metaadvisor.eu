@@ -1,27 +1,27 @@
 ---
-title: "Bitcoin vijesti danas: Ether (ETH) vjerojatno probija 5.000 USD, BTC cilja rekord dok Powell potiče rast; Upozorenja na rizike DAT poslova"
+title: "Bitcoin News Today: Ether (ETH) vjerojatno će zabilježiti 5 tisuća dolara, BTC Eyes Record visoko kao što je Powell Sparks Rally;Pazite na DAT RIZIKE: Upravitelji imovine"
 date: 2025-08-23T05:15:06Z
 category: "crypto"
 translationKey: "03dfa9c0117175b9f7d6f83086b66b9e"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/23/ether-likely-to-top-usd5k-btc-eyes-record-high-as-powell-sparks-rally-watch-for-dat-deal-risks-asset-managers"
-summary: "Dok Powellov stav podupire kripto-rally, potencijalni rizici uključuju izazove oko usvajanja u korporativnim trezorima i volatilnost tržišta dionica."
-tags: ["crypto", "token", "financije", "bitcoin", "btc", "ethereum", "eth", "altcoin", "fed", "powell"]
+summary: "Iako Powell -ov stav podržava kripto miting, potencijalni rizici uključuju izazove korporativne riznice i volatilnost tržišta kapitala."
+tags: ["bitcoin", "crypto"]
 image: "/news/2025-08-23-bitcoin-news-today-ether-eth-likely-to-top-5k-btc-eyes-record-high-as-powell-spa.jpg"
 ---
 
-Kriptovalute su snažno porasle u petak navečer nakon što je predsjednik Federalnih rezervi **Jerome Powell** na ekonomskom simpoziju u Jackson Holeu zauzeo pomirljiviji (dovish) ton, prkoseći očekivanjima tržišta o oštrijem pristupu. To je potaknulo upravitelje imovinom da prognoziraju nove povijesne maksimume za **bitcoin (BTC)**, **ether (ETH)** i odabrane altcoine.  
+Kripto valute su u petak porasle nakon što je predsjednik Federalnih rezervi Jerome Powell pogodio ton na ekonomskom simpoziju Jackson Hole, prkoseći tržišnim očekivanjima za još sokolski stav.To je potaknulo menadžere imovine da pozovu nove maksimume svih vremena za Bitcoin BTC 114.978,33 USD, eter (ETH) i odabere altcoins.
 
-U jednom od svojih najvažnijih govora, Powell je sugerirao da bi tržište rada moglo profitirati od nižih troškova zaduživanja, nakon što je referentna kamatna stopa ostala na **4,25% osam mjeseci zaredom**.  
+U jednom od njegovih najvažnijih govora, Powell je sugerirao da tržište rada može imati koristi od nižih troškova zaduživanja, nakon što je referentna kamatna stopa stabilna na 4,25% tijekom osam mjeseci.
 
-> “Rizici za zaposlenost rastu,” rekao je Powell u pripremljenim primjedbama, dodajući da je razumno očekivati da će carine predsjednika Donalda Trumpa imati samo kratkotrajan učinak na inflaciju.  
+"Nedostatak rizika za zapošljavanje raste", rekao je Powell u pripremljenim napomenama za svoj ključni govor na Simpoziju Jackson Hole, dodajući da je mogućnost tarifa predsjednika Donalda Trumpa samo kratkotrajno utjecaj na inflaciju "razumna."
 
-Powell je napomenuo da bi, s obzirom na restriktivnu monetarnu politiku, “promjenjiva ravnoteža rizika mogla opravdati prilagodbu naše politike.”  
+"S politikom na restriktivnom teritoriju, osnovni izgledi i promjenjiva ravnoteža rizika mogu zahtijevati prilagođavanje našeg stava politike", napomenuo je.
 
-Nakon govora kriptovalute i dionice snažno su porasle, a vjerojatnost smanjenja kamatnih stopa u rujnu skočila je na **90%**. Većina analitičara očekuje da će se zamah nastaviti i u idućim danima.  
+Kripto valute i zalihe su porasle, a vjerojatnost smanjenja stope Fed u rujnu skočila je na 90% nakon govora.Većina analitičara očekuje da će se zamah nastaviti u narednim danima.
 
-Analitičari iz **Monarq Asset Managementa** procjenjuju da će cijena ethera u narednim danima porasti iznad **5.000 USD**.  
+Analitičari u Monarq Asset Management predviđaju da će cijena Etera u narednim danima porasti iznad 5000 dolara.
 
-> “Održavamo našu optimističnu prognozu. Tržišni pokazatelji ostaju pozitivni, bez znakova pregrijavanja, uz jasan put prema novim povijesnim maksimumima BTC-a i ETH-a,” rekao je Sam Gaer, glavni investicijski direktor Directional Funda u Monarq Asset Managementu.  
+"Održavamo svoj cjelokupni stajalište. Unutarnje tržišta ostaje konstruktivno, s nekoliko znakova pregrijavanja i, kako istaknete, jasan put do novih vrhunskih vrhunaca i u BTC-u i ETH-u", rekao je za Coindesk Sam Gaer, glavni direktor za usmjeravanje investicije Monarq Asset Management.
 
-Gaer je dodao da Powellov pomirljivi zaokret otvara put za cijenu ETH-a iznad **5.000 USD u kratkom roku**, dok bi potražnja iz korporativnih trezora mogla porasti na jesen kako se zatvaraju ili de-SPAC-aju mnogi ugovori najavljeni tijekom ljeta.  
+"Naš je pogled na to da je Powell-ov Dovish Pivot u kratkom roku očistio put za 5000 dolara+ (također nije najteži poziv). Potražnja od rizničarskih vozila trebala bi se povećati u jesen, jer su mnogi ugovori najavljeni ovog ljeta u blizini ili DE-SPAC, osim što su u toku, osim toga

@@ -1,27 +1,27 @@
 ---
-title: "Bitcoin-News heute: Ether (ETH) dürfte 5.000 USD überschreiten, BTC peilt Rekordhoch an – Powell löst Rallye aus; Risiken bei DAT-Deals im Fokus"
+title: "Bitcoin News heute: Ether (ETH), die wahrscheinlich 5.000 US -Dollar, BTC Eye Record hoch als Powell Sparks Rallye;Achten Sie auf DAT -Deal -Risiken: Vermögensverwalter"
 date: 2025-08-23T05:15:06Z
 category: "crypto"
 translationKey: "03dfa9c0117175b9f7d6f83086b66b9e"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/23/ether-likely-to-top-usd5k-btc-eyes-record-high-as-powell-sparks-rally-watch-for-dat-deal-risks-asset-managers"
-summary: "Während Powells Haltung eine Krypto-Rallye unterstützt, sehen Vermögensverwalter Risiken in der Einführung durch Unternehmen und in der Volatilität der Aktienmärkte."
-tags: ["crypto", "token", "finanz", "bitcoin", "btc", "ethereum", "eth", "altcoin", "fed", "powell"]
+summary: "Während die Haltung von Powell eine Krypto -Rallye unterstützt, umfassen potenzielle Risiken die Adoptionsprobleme für Unternehmen und Volatilität des Aktienmarktes."
+tags: ["bitcoin", "crypto"]
 image: "/news/2025-08-23-bitcoin-news-today-ether-eth-likely-to-top-5k-btc-eyes-record-high-as-powell-spa.jpg"
 ---
 
-Die Kryptowährungen legten am Freitagabend kräftig zu, nachdem **Jerome Powell**, Präsident der US-Notenbank (Fed), auf dem Wirtschaftssymposium in Jackson Hole einen deutlich moderateren (dovish) Ton anschlug und damit die Markterwartungen einer strafferen Haltung widerlegte. Dies veranlasste Vermögensverwalter, neue Allzeithochs für **Bitcoin (BTC)**, **Ether (ETH)** und ausgewählte Altcoins vorherzusagen.  
+Die Kryptowährungen stiegen am späten Freitag, nachdem der Präsident der Federal Reserve, Jerome Powell, auf dem Economic Symposium von Jackson Hole einen Schwungston getroffen hatte und die Markterwartungen für eine hawkischere Haltung widersetzte.Dies hat Vermögensverwalter aufgefordert, neue Allzeithochs für Bitcoin BTC $ 114.978,33, Ether (ETH) und Select Altcoins zu fordern.
 
-In einer seiner wichtigsten Reden deutete Powell an, dass der Arbeitsmarkt von niedrigeren Kreditkosten profitieren könnte, nachdem der Leitzins acht Monate lang bei **4,25 %** verharrt war.  
+In einer seiner wichtigsten Reden schlug Powell vor, dass der Arbeitsmarkt von niedrigeren Kreditkosten profitieren könnte, nachdem der Benchmark -Zinssatz acht Monate lang bei 4,25% stabil gehalten wurde.
 
-> „Die Abwärtsrisiken für die Beschäftigung nehmen zu“, sagte Powell in seiner Rede und fügte hinzu, dass es „vernünftig“ sei anzunehmen, dass die Zölle von Präsident Donald Trump nur einen kurzfristigen Effekt auf die Inflation hätten.  
+"Die Abwärtsrisiken für die Beschäftigung steigen", sagte Powell in vorbereiteten Bemerkungen für seine Keynote-Rede auf dem Jackson Hole Symposium und fügte hinzu, dass die Möglichkeit der Tarife von Präsident Donald Trump nur eine kurzlebige Auswirkung auf die Inflation hat.
 
-Powell erklärte, dass sich angesichts der restriktiven Geldpolitik „die veränderte Risikolage möglicherweise eine Anpassung unserer Politik rechtfertigen könnte“.  
+"Mit der Politik im restriktiven Gebiet können die Basisaussichten und der Verlagerungsbetrag von Risiken die Anpassung unserer Politikposition rechtfertigen", stellte er fest.
 
-Nach der Rede stiegen Kryptowährungen und Aktien deutlich an, und die Wahrscheinlichkeit einer Zinssenkung im September sprang auf **90 %**. Die meisten Analysten erwarten, dass sich die Dynamik in den kommenden Tagen fortsetzt.  
+Kryptowährungen und Aktien stiegen und die Wahrscheinlichkeit, dass der Fed -Rate im September nach der Rede auf 90% gestiegen ist.Die meisten Analysten erwarten, dass der Dynamik in den kommenden Tagen fortgesetzt wird.
 
-Analysten von **Monarq Asset Management** gehen davon aus, dass der Ether-Preis in den nächsten Tagen die Marke von **5.000 USD** überschreiten wird.  
+Analysten des Monarq Asset Managements gehen davon aus, dass der Preis von Ether in den kommenden Tagen über 5.000 US -Dollar steigen wird.
 
-> „Wir halten an unserer insgesamt optimistischen Prognose fest. Die Marktdaten bleiben konstruktiv, ohne Anzeichen einer Überhitzung, und wie Sie sehen, gibt es einen klaren Weg zu neuen Allzeithochs bei BTC und ETH“, sagte Sam Gaer, Chief Investment Officer des Directional Funds bei Monarq Asset Management, gegenüber CoinDesk.  
+"Wir behalten unsere allgemeine optimistische Haltung bei. Die Marktinteralen bleiben konstruktiv, mit wenigen Anzeichen von Überhitzung und, wie Sie betont, einen klaren Weg zu neuen Allzeithochs in BTC und ETH", sagte Sam Gaer, Chief Investment Officer des Monarq Asset Management's Directional Fund, gegenüber Coindek.
 
-Gaer fügte hinzu, dass Powells dovisher Kurs den Weg für ETH-Preise über **5.000 USD kurzfristig** freigemacht habe. Zudem dürfte die Nachfrage von Unternehmensschatzämtern im Herbst steigen, wenn viele der im Sommer angekündigten Deals abgeschlossen oder de-SPACed werden.  
+"Unsere Hausansicht ist, dass Powell's Dovish Pivot kurzfristig den Weg für 5.000 US-Dollar (auch nicht der schwierigste Aufruf) geklärt hat. Die Nachfrage von Finanzfahrzeugen sollte in den Herbst zunehmen
