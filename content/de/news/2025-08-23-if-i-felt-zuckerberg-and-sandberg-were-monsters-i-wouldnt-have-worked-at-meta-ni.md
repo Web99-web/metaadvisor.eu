@@ -1,21 +1,28 @@
 ---
-title: "'Wenn ich das Gefühl habe, Zuckerberg und Sandberg waren Monster, hätte ich nicht bei Meta gearbeitet': Nick Clegg über Tech Bros, AI und Starrers halbe Maßnahmen"
+title: "‚Wenn ich Zuckerberg und Sandberg für Monster hielte, hätte ich nicht bei Meta gearbeitet‘: Nick Clegg über Tech-Bros, KI und Starmers halbe Schritte"
 date: 2025-08-23T05:00:53Z
 category: "ai"
 translationKey: "171117d2b9c89c5ed133d3c171d80c43"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/politics/2025/aug/23/facebook-nick-clegg-tech-bros-trump-leaving-silicon-valley"
-summary: "Als Großbritanniens ehemaliger stellvertretender Premierminister einen Job bei Meta annahm, hätte ihn nichts auf die „Cloying Conformity“ der Tech -Welt vorbereiten können.Warum glaubt er immer noch, dass Social Media eine Kraft zum Guten i"
-tags: ["ai"]
-image_url: "/news/2025-08-23-if-i-felt-zuckerberg-and-sandberg-were-monsters-i-wouldnt-have-worked-at-meta-ni.jpg"
+summary: "Der frühere britische Vizepremier und zuletzt Präsident für Globale Angelegenheiten bei Meta verteidigt seine Zeit im Konzern, diskutiert Moderation, Trump, Musk und die Risiken einer KI-Ökonomie, die in wenigen Händen konzentriert ist."
+tags: ["ai","meta","facebook","instagram","whatsapp","nick-clegg","mark-zuckerberg","sheryl-sandberg","elon-musk","donald-trump","jd-vance","keir-starmer","rachel-reeves","freie-meinung","silicon-valley","eu","brexit","politik","bücher"]
+image_url: "https://i.guim.co.uk/img/media/ce3501a60b73c977d07524064abbd3b835e96ed1/0_1117_5352_5334/master/5352.jpg?width=1200&dpr=1&s=none"
+image_alt: "Nick Clegg sitzend, Portrait – Foto: David Vintiner/The Guardian"
 ---
 
-Als Großbritanniens ehemaliger stellvertretender Premierminister einen Job bei Meta annahm, hätte ihn nichts auf die „Cloying Conformity“ der Tech -Welt vorbereiten können.Warum glaubt er immer noch, dass Social Media eine Kraft zum Guten ist?
+**Kernpunkte.** Nick Clegg schildert, warum er zu Meta ging und weshalb er trotz Kritik die Arbeit dort nicht bereut. Er warnt vor überdehnten Regeln gegen „online harms“, verteidigt die Trump-Sperre 2021 als notwendig, kritisiert jedoch den Präzedenzfall, und fordert von **Keir Starmer** und **Rachel Reeves** mehr Mut zu großen Würfen.
 
-Lesen Sie hier einen exklusiven Auszug aus Nick Cleggs neues Buch
+**Meta-Jahre.** Clegg verweist auf Reformen (unabhängiges **Oversight Board**, Experimente zur Wirksamkeit von Maßnahmen bei Wahlen 2020, **Elternkontrollen**). Schwerster Moment: **Trumps Suspendierung** nach dem Sturm auf das Kapitol – vertretbar, aber problematisch, wenn private Firmen den öffentlichen Raum prägen.
 
-Der Regen fängt gerade aus einem grauen Himmel in London, als Sir Nick Clegg ankommt, sich durch den Verkehr einliegt und etwas trägt, das wie seine Wäsche aussieht.Saubere Hemden für das Fotoshooting, sagt er, bevor er sich entschuldigt frage, ob er möglicherweise einen Kaffee bekommt.Innerhalb weniger Minuten hat er sich weiter entschuldigt, dass er den Lederclubstuhl tauschen wollte, der ihm für einen harten Plastik angeboten wird.Und dann entsetzt für jeden Eindruck versehentlich, da meine Fragen ihn zum Schlafen schicken könnten.
+**Meinungsfreiheit & Kinderschutz.** Während der Pandemie sei Moderation teils übergeschossen; doch vage, allumfassende Kategorien „schädlicher, aber legaler“ Inhalte ließen sich politisch missbrauchen. Hinweise auf pauschal schlechte **mentale Gesundheit** durch Social Media seien schwächer als oft behauptet; trotzdem plädiert er für **neue Altersgrenzen** (13–16) mit App-Store-Verifizierung.
 
-Tadellose englische Manieren sollten niemals mit Diffidens verwechselt werden-mit 58 bleibt Clegg die einzige britische politische Persönlichkeit, die überzeugend von den ebenso schicken, aber selbstverletzten Colin Firth gespielt werden kann, dessen altes Londoner Haus Clegg kürzlich gekauft hat-aber es gibt Backbench-Nobodies, die sich deutlicher als der ehemalige stellvertretende Prime-Premierminister haben, der Number-Two-Two-Two-Nr.Angesichts der Gerüchte, dass seine nächste unterstützende Rolle für seine Anwaltwiete Miriam González Durántez 'aufstrebende politische Karriere in Spanien sein könnte.Es stellte sich heraus, dass sie sich im Land des Milliardärs Tech Bro „nie wirklich niedergelassen“ hat, einer von vielen Gründen, warum das Paar fast drei Jahre lang in Palo Alto, Kalifornien, in London ausgetauscht wurde, bevor er Meta, das Facebook, Instagram und WhatsApp besitzt und betreibt."Sie ist jetzt in Spanien Aufstände", sagt Clegg über España Mejor, ihre gemeinnützige Organisation, die die Bürger in die Politikgestaltung bringen soll.
+**Silicon Valley-Kultur.** Konformismus statt Rebellion: gleiche Autos, gleiche Podcasts. Clegg sieht Tech dennoch als **Kraft zum Guten**, sofern **offene Netze** und Kapitalflüsse bleiben. Plattformen seien nicht mächtiger als Staaten, obgleich Firmen wie Meta Summen in **AI-Infrastruktur** stecken, die staatliche Budgets übersteigen.
 
-Es ist fast so, als hätten sich die ehelichen Tische gedreht."Ja, sie wäre viel besser
+**Musk, Vance, Geopolitik.** Spott über „maskuline Energie“ und Machismo; scharfe Kritik an **JD Vance** wegen Unterstützung der AfD. Großbritannien könne **nicht gleichzeitig** Trump-Amerika und EU bedienen. Die **Brexit-Kosten** müsse man klarer **Nigel Farage** anrechnen.
+
+**Starmer & „halbe Sachen“.** Starmer/Reeves seien anständig, aber zu vorsichtig: Politik biete oft nur **eine Chance**. Clegg bezeichnet die frühere Koalition mit Cameron trotz Fehlern als „mutig“.
+
+**KI-Aussichten.** In fünf Jahren rechnet er mit **agentischer KI** in Smartphones/Brillen, die Aufgaben autonom erledigt. Immer mehr Inhalte würden KI-generiert; die **Infrastruktur** läge bei wenigen Akteuren. Bei überzogener Machtkonzentration drohten **gesellschaftliche Gegenreaktionen** bis hin zur **Verstaatlichung**. Arbeitsplätze würden eher langsamer verschwinden, die Ungleichheit jedoch wachsen.
+
+**Zuckerberg/Sandberg.** Auf Vorwürfe aus einem Memoir einer Ex-Mitarbeiterin (toxische „tech bros“) reagiert Clegg zurückhaltend: Er habe derartige Vorfälle nicht erlebt. Über seine Ex-Chefs sagt er: **keine Monster** – sonst wäre er nicht dabeigewesen.
