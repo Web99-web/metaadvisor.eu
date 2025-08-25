@@ -1,27 +1,28 @@
 ---
-title: "Ethereum News: Wie ETH steigt, erklärt Analyst, warum der Versorgungsschock „unvermeidlich“ erscheint"
+title: "Ethereum-News: Während ETH steigt, erklärt ein Analyst, warum ein Angebots-Schock ‘unvermeidlich’ wirkt"
 date: 2025-08-24T19:36:58Z
 category: "crypto"
 translationKey: "35addbe2902ecc2061bad8eed1b159e3"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/24/as-eth-breaks-above-usd4-900-analyst-sums-up-crypto-market-btc-is-exhausted-eth-isn-t"
-summary: "Ether stieg über 4.900 US -Dollar auf neue Höhen mit den Charts, die bullische Dynamik zeigten.Analysten sprechen von Bitcoin-Ermüdung, Schrumpfen des Angebots und dem Risiko eines kurzfristigen Rückzugs."
-tags: ["crypto"]
-image_url: "/news/2025-08-24-ethereum-news-as-eth-soars-analyst-explains-why-supply-shock-seems-inevitable.jpg"
+summary: "Ether sprang über 4.900 $ auf neue Hochs; Charts zeigen bullischen Schwung. Analysten sprechen von Bitcoin-Müdigkeit, schrumpfendem Angebot und dem Risiko eines kurzen Rücksetzers."
+tags: ["crypto","ethereum","eth","price-discovery","tradingview","miles-deutsher","crypto-rover","supply","exchange-reserves"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/ab9ea8c9d8346f05438e6f0a8739ddc6e4639afa-1920x1242.jpg?auto=format"
+image_alt: "Ethereum-Logo (Zoltan Tasi/Unsplash)"
 ---
 
-Ether (ETH) drang am Sonntag in das Uncharted Territory und löste 4.900 US -Dollar für Coinbase um 17.40 Uhr.UTC und übertrifft den vorherigen Rekord von 4.867 USD am 8. November 2021.
+**Ether (ETH)** drang am Sonntag in **Neuland** vor, überschritt auf **Coinbase** um **17:40 UTC** die Marke von **4.900 $** und übertraf damit das frühere Rekordhoch von **4.867 $** vom **8. Nov. 2021**.
 
-Das Fünfjahres-ETH-USD-Preisdiagramm von TradingView zeigt einen sauberen, mehrjährigen Ausbruch: ETH hat nach einer langen Konsolidierung endlich das 2021-Hoch gewonnen, wodurch sich keine historischen Gemeinkosten gestützen können.
+Der **Fünfjahres-Chart** ETH-USD (TradingView) zeigt einen klaren, mehrjährigen Ausbruch: ETH hat das 2021-Hoch nach langer Konsolidierung endgültig überwunden – **ohne** historische Widerstände darüber, an denen sich der Markt orientieren könnte.
 
-Dies ist, was Händler als Preisentdeckung bezeichnen - der Markt druckt neue Höchststände mit nur Psychologie und Ordnung, um ihn zu leiten, anstatt zu einem früheren Diagrammwiderstand.
+Das nennen Trader **Price Discovery** — neue Hochs entstehen, gesteuert von **Psychologie** und **Orderflow** statt von früheren Chart-Barrieren.
 
-Die 5-tägige Ansicht füllt die Klebebandaktion aus.Nach einem schnellen Lauf von Mitte 4.700 $ erhielt die ETH 4.900 US-Dollar und erreichte ein Intraday-Hoch von rund 4.946,90 US-Dollar.Zum Zeitpunkt des Diagramms Snapshot - 18.48 UhrUTC - Der letzte Preis betrug ungefähr 4.941,57 USD.Diese Sequenz signalisiert, dass die Käufer die Versorgung in der Nähe der alten Decke absorbiert und dann ein frisches Hoch, ein klassisches Breakout -Muster erzwungen haben.
+Die **5-Tage-Ansicht** füllt das Band: Nach einem schnellen Lauf aus dem **mittleren 4.700-$-Bereich** stieg ETH über **4.900 $** und erreichte ein **Intraday-Hoch** um **4.946,90 $**. Zum Zeitpunkt des Screenshots — **18:48 UTC** — lag der letzte Kurs bei **4.941,57 $**. Dieses Muster deutet darauf hin, dass Käufer das **Angebot nahe der alten Decke absorbierten** und dann ein frisches Hoch erzwangen — ein **klassischer Ausbruch**.
 
-Der Analyst Miles Deuther hat die Führungsverschiebung als "BTC erschöpft, ETH nicht" zusammengefasst.Im klaren Englisch kennzeichnet er die relative Dynamik: Bitcoins Kundgebungen sind in der Nähe der letzten Höchststände stehen geblieben, während Äther nur in die Preisentdeckung eingebrochen ist.
+Analyst **Miles Deutsher** fasste den Führungswechsel so zusammen: **„BTC ist erschöpft, ETH nicht.“** Gemeint ist **relative Stärke**: Bitcoins Rallyes stocken an jüngsten Hochs, während Ether in die **Price-Discovery-Phase** vordringt.
 
-Wenn ein Markt sagt, dass ein Vermögenswert „erschöpft“ ist, bedeutet dies normalerweise, dass Aufwärtstrendversuche verblassen, Follow-Through ist schwach und die Verkäufer trifft weiterhin höher."Ist nicht" bedeutet das Gegenteil-stärkere Follow-through, frische Höhen und aktives Dip-Kauf.Händler drehen sich häufig in Richtung des Vermögenswerts, der eine höhere relative Stärke zeigt, wenn der andere Führer reizt.
+Wenn man sagt, ein Asset sei **„erschöpft“**, heißt das meist: **nachlassende Aufwärtsversuche**, schwacher **Follow-Through**, Verkäufer treffen jeden Schub; **„nicht“** bedeutet das Gegenteil — **stärkerer Follow-Through**, **neue Hochs**, **aktives Dip-Buying**. Trader rotieren häufig in das Asset mit der höheren relativen Stärke, wenn der bisherige Leader müde wird.
 
-Crypto Rover konzentrierte sich auf die Versorgung am Austausch."Exchange Reserven" bezieht sich auf Münzen, die in Brieftaschen gehalten werden, die von zentralisierten Handelsorten kontrolliert werden.
+**Crypto Rover** lenkte den Blick auf die **Börsenbestände**. „**Exchange Reserves**“ sind Coins in Wallets zentraler Handelsplätze.
 
-Wenn diese Ausgleichsablagerungen nach unten im Trend stehen, stehen sofort weniger Münzen zur Verfügung, um sie zu verkaufen.Wenn die Nachfrage als flüssiges Angebot steigt, kann der Preis beschleunigen, da die Käufer höher bieten müssen, um Münzen zu koaxieren
+Sinken diese **Bestände**, gibt es **weniger sofort verkaufbare Coins**. Steigt gleichzeitig die **Nachfrage**, während das **liquide Angebot** schrumpft, kann der Preis **beschleunigen**, weil Käufer **höhere Gebote** abgeben müssen, um Coins …
