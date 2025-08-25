@@ -184,3 +184,38 @@ a:hover { text-decoration: underline; }
   border-color: #2563eb;
   font-weight: 600;
 }
+/* --- MOBILE HEADER HOTFIX (force lang pills to new line & visible) --- */
+@media (max-width: 640px) {
+  /* Ne guraj meni udesno na mobu */
+  .nav { 
+    margin-left: 0;        /* was auto */
+    order: 3;              /* ide ispod jezika */
+  }
+
+  /* Jezični switcher zauzima cijelu širinu i prelazi u novi red */
+  .lang-switch {
+    order: 2;              /* ispod branda, iznad menija */
+    flex: 1 0 100%;        /* NOVO: svoj red (100% širine) */
+    width: 100%;
+    margin-left: 0;
+    justify-content: flex-start;
+    overflow-x: auto;      /* ako baš ne stane, skrol je moguć */
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: .25rem;
+    gap: 8px;
+  }
+  .lang-switch .lang {
+    white-space: nowrap;
+    padding: 5px 9px;      /* mrvu kompaktnije */
+    font-size: .95rem;
+  }
+
+  /* Meni tipke mrvu kompaktnije da ne pucaju u dva reda */
+  .btn-link { 
+    padding: 6px 9px; 
+    font-size: .95rem;
+  }
+
+  /* Po želji: sakrij About na mobu (ostavi liniju ispod/izbriši) */
+  /* .nav a[href*="about"] { display:none; } */
+}
