@@ -219,3 +219,48 @@ a:hover { text-decoration: underline; }
   /* Po želji: sakrij About na mobu (ostavi liniju ispod/izbriši) */
   /* .nav a[href*="about"] { display:none; } */
 }
+/* === MOBILE HEADER HOTFIX (force wrap + full-width language pills) === */
+@media (max-width: 680px) {
+  /* 1) Flex container u headeru MORA moći prelomiti red */
+  .site-header .container,
+  .site-header .header-inner {
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+    flex-wrap: wrap !important;
+  }
+
+  /* 2) Jezični switcher: uvijek u NOVOM REDU, 100% širina */
+  .site-header .lang-switch,
+  .site-header nav.lang-switch,
+  .site-header nav[aria-label*="Lang"],
+  .site-header .i18n-switch {
+    order: 2 !important;
+    flex: 1 0 100% !important;
+    width: 100% !important;
+    justify-content: flex-start !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    padding-bottom: .25rem !important;
+    gap: 8px !important;
+  }
+  .site-header .lang-switch .lang { 
+    white-space: nowrap !important; 
+    padding: 5px 9px !important; 
+    font-size: .95rem !important;
+  }
+
+  /* 3) Glavni meni: ne guraj desno, kompaktniji, ide ispod ili iznad po redu */
+  .site-header .nav {
+    margin-left: 0 !important;
+    gap: 8px !important;
+    flex-wrap: wrap !important;
+    order: 3 !important;   /* ako želiš da je meni ispod jezika */
+  }
+
+  /* 4) Brand neka ostane prvi */
+  .site-header .brand { order: 1 !important; }
+
+  /* 5) Meni tipke malo kompaktnije da ne pucaju */
+  .btn-link { padding: 6px 9px !important; font-size: .95rem !important; }
+}
