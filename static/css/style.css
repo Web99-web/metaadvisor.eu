@@ -23,6 +23,9 @@ a:hover { text-decoration: underline; }
 .header-inner {
   height: 64px;
   display: flex; align-items: center; gap: 12px;
+  flex-wrap: wrap; /* ↓ dopusti prelazak u drugi red */
+  padding-left: max(20px, env(safe-area-inset-left));
+  padding-right: max(20px, env(safe-area-inset-right));
 }
 .brand {
   display: inline-flex; align-items: center; gap: 10px;
@@ -53,10 +56,30 @@ a:hover { text-decoration: underline; }
 
 /* Mali ekrani */
 @media (max-width: 640px) {
-  .header-inner { height: 56px; }
-  .nav { gap: 8px; }
+  .header-inner { 
+    height: auto;         /* dopušta veći header kad se prelomi */
+    min-height: 56px;
+  }
+  .nav { 
+    gap: 8px; 
+    flex-wrap: wrap; 
+    order: 2;             /* iznad jezičnih pillova */
+  }
   .btn-link { padding: 7px 10px; }
-  .brand { font-size: 1rem; }
+  .brand { font-size: 1rem; order: 1; }
+
+  /* jezični switcher uvijek vidljiv – u novom redu, po potrebi skrol */
+  .lang-switch {
+    order: 3;
+    width: 100%;
+    margin-left: 0;
+    justify-content: flex-start;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: .25rem;
+    gap: 8px;
+  }
+  .lang-switch .lang { white-space: nowrap; }
 }
 
 /* ===== GRID LISTING (početna / list) ===== */
