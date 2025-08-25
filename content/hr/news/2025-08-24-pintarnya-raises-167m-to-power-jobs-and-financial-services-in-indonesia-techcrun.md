@@ -1,25 +1,26 @@
 ---
-title: "Smart prikuplja 16,7 milijuna dolara za poslove i financijske usluge u Indoneziji |TechCrunch"
+title: "Pintarnya prikupio 16,7 mil. $ za poslove i financijske usluge u Indoneziji | TechCrunch"
 date: 2025-08-24T22:00:00Z
 category: "ai"
 translationKey: "2b77193ee59228c4033e20234e588a01"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/"
-summary: "Indonezijski startup, koji je sada podržao 16,7 milijuna dolara u seriji A, pomaže radnicima da pronađu redovne i sporedne svirke, a istovremeno nude financijska rješenja"
-tags: ["ai"]
-image_url: "/news/2025-08-24-pintarnya-raises-167m-to-power-jobs-and-financial-services-in-indonesia-techcrun.jpg"
+summary: "Indonezijski startup, sada potpomognut rundom Serije A od 16,7 mil. $, pomaže radnicima pronaći stalne i honorarne poslove te nudi financijska rješenja."
+tags: ["ai","fintech","indonesia","pintarnya","series-a","square-peg","vertex-ventures","east-ventures","jobs","gig-economy","lending"]
+image_url: "https://techcrunch.com/wp-content/uploads/2025/08/Pintarnya-Founders-Press-Kit.png?w=1024"
+image_alt: "Osnivači Pintarnye"
 ---
 
-Pintarnya, indonezijska platforma za zapošljavanje koja nadilazi podudarnost za posao nudeći financijske usluge, zajedno s mogućnostima punog radnog vremena i sporednim igrama, rekla je da je prikupila krug u iznosu od 16,7 milijuna dolara.
+**Pintarnya**, indonezijska platforma za zapošljavanje koja uz uparivanje poslova nudi i financijske usluge te prilike za stalni i honorarni rad, objavila je da je prikupila **16,7 milijuna dolara** u rundi **Serije A**.
 
-Financiranje je vodio Square Peg s sudjelovanjem postojećih ulagača Vertex Venture Southeast Asia & India i East Ventures.
+Ulaganje je predvodio **Square Peg**, uz sudjelovanje postojećih investitora **Vertex Venture Southeast Asia & India** i **East Ventures**.
 
-Ghirish Pokardas, Nelly Nurmalasari i Henry Hendrawan osnovali su 2022. Pintarnyu kako bi se borili s dva najveća izazova koji se Indonezijci svakodnevno suočavaju: dovoljno zarade i odgovorno zadužujući.
+**Ghirish Pokardas**, **Nelly Nurmalasari** i **Henry Hendrawan** osnovali su Pintarnyu 2022. kako bi se uhvatili u koštac s dva najveća svakodnevna izazova Indonežana: **zaraditi dovoljno** i **zaduživati se odgovorno**.
 
-„Tradicionalno, masovni radnici u Indoneziji pronalaze poslove izvan mreže putem sajmova poslova ili usmene riječi, a poslodavci su zakopani u papirnatim prijavama i kandidatima rijetko čuju. Za posudbu su njihove mogućnosti često ograničene na obitelj/prijatelje ili grabežljive zajmodavce s oštrim praksama prikupljanja“, Henry Henddrawan, suosnivač Pintarnya."Digitaliziramo podudaranje posla s AI -om kako bismo brže zapošljavali i pružamo radnicima sigurnije, zdravije mogućnosti pozajmljivanja - dizajnirane oko onoga što mogu priuštiti, umjesto da ih guramo dublje u dug."
+„Tradicionalno, radnici u masovnim zanimanjima u Indoneziji poslove pronalaze **offline** – preko sajmova ili ‘od usta do usta’; poslodavci se guše u papirnatim prijavama, a kandidati rijetko dobiju povratnu informaciju. Za posuđivanje im često preostaju obitelj/prijatelji ili lihvarski zajmodavci s grubom naplatom“, rekao je za TechCrunch suosnivač **Henry Hendrawan**. „**Digitaliziramo** uparivanje poslova uz **AI** kako bismo ubrzali zapošljavanje i pružamo sigurnije, zdravije mogućnosti **kredita** – temeljene na onome što korisnici realno mogu podnijeti, umjesto da ih guramo dublje u dug.“
 
-U neformalnom sektoru zaposleno je oko 59% od 150 milijuna Indonezije, ističući poteškoće s kojim se radnici susreću u pristupu formalnim financijskim uslugama jer im nedostaje provjerljivi prihod i službena dokumentacija o zapošljavanju.
+Oko **59%** od **150 milijuna** radno sposobnih u Indoneziji radi u **neformalnom sektoru**, što naglašava poteškoće pri pristupu formalnim financijskim uslugama zbog **neprovjerljivih prihoda** i **izostanka službene dokumentacije**.
 
-Pintarnya se bavi ovim izazovom partnerstvom s zajmodavcima koji podržavaju imovinu kako bi ponudili osigurane zajmove, koristeći kolateral poput zlata, elektronike ili vozila, dodao je Henddrawan.
+Pintarnya taj izazov rješava **partnerstvima s zajmodavcima osiguranim imovinom** kako bi ponudila osigurane zajmove uz **kolateral** poput zlata, elektronike ili vozila, dodaje Hendrawan.
 
-Od svog sjemenskog financiranja 2022. godine, platforma trenutno opslužuje preko 10 milijuna korisnika tražitelja posla i 40.000 poslodavaca širom zemlje.Njegov prihod povećao se gotovo pet puta u odnosu na godinu i očekuje da će do kraja godine doći do prekida, napomenuo je Hendrawn.Pintarnija
+Od **seed** runde 2022., platforma trenutačno opslužuje **više od 10 milijuna tražitelja poslova** i **40.000 poslodavaca** diljem zemlje. Prihodi su joj **gotovo peterostruko** porasli na godišnjoj razini, a **do kraja godine** očekuje **pozitivno poslovanje**, navodi Hendrawan. Pintarnya
