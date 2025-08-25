@@ -1,26 +1,26 @@
 ---
-title: "Bluesky Blocks Usluga u Mississippiju zbog zakona o osiguranju dobi |TechCrunch"
+title: "Bluesky blokira uslugu u Mississippiju zbog zakona o provjeri dobi | TechCrunch"
 date: 2025-08-24T20:40:32Z
 category: "news"
 translationKey: "0eb6135f9ff59cdbaf126f3931fcdb05"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/24/bluesky-blocks-service-in-mississippi-over-age-assurance-law/"
-summary: "U postu na blogu objavljenom u petak, tvrtka objašnjava da, kao mali tim, nema resurse za postizanje značajnih tehničkih promjena koje bi ova vrsta zakona bila potrebna, a izazvala je zabrinutost zbog širokog opsega zakona i implikacija na "
-image_url: "/news/2025-08-24-bluesky-blocks-service-in-mississippi-over-age-assurance-law-techcrunch.jpg"
+summary: "U objavi na blogu tvrtka objašnjava da, kao mali tim, nema resurse za velike tehničke promjene koje bi ovakav zakon zahtijevao te upozorava na širok opseg i implikacije za privatnost."
+tags: ["news","bluesky","mississippi","hb1126","age-verification","privacy","free-speech","law","us","social-media"]
+image_url: "https://techcrunch.com/wp-content/uploads/2024/10/bluesky_media_kit_banner_4.jpg?w=1024"
+image_alt: "Bluesky logotip na zvjezdanoj pozadini"
 ---
 
-Startup na društvenim mrežama Bluesky je donio odluku da blokira pristup svojoj usluzi u državi Mississippi, umjesto da je u skladu s novim zakonom o osiguranju.
+Start-up društvene mreže **Bluesky** odlučio je blokirati pristup svojoj usluzi u saveznoj državi **Mississippi**, umjesto da se povinuje novom zakonu o provjeri dobi.
 
-U postu na blogu objavljenom u petak, tvrtka objašnjava da, kao mali tim, nema resurse za postizanje značajnih tehničkih promjena koje bi ova vrsta zakona bila potrebna, a ona je izazvala zabrinutost zbog širokog opsega zakona i implikacija na privatnost.
+U **objavi na blogu** u petak tvrtka pojašnjava da, kao mali tim, nema resurse za velike tehničke promjene koje bi ovakva vrsta zakona zahtijevala te iznosi zabrinutosti oko širokog opsega zakona i posljedica za privatnost.
 
-HB 1126 Mississippi zahtijeva platforme za uvođenje provjere dobi za sve korisnike prije nego što mogu pristupiti društvenim mrežama poput Blueskyja.U četvrtak su pravosude Vrhovnog suda SAD -a odlučili blokirati hitnu žalbu koja bi spriječila zakon da stupi na snagu jer su pravni izazovi s kojima se suočava odigrali na sudovima.
+Mississippijev **HB 1126** zahtijeva da platforme uvedu provjeru dobi za **sve korisnike** prije pristupa društvenim mrežama poput Blueskyja. U četvrtak su suci Vrhovnog suda SAD-a odbili hitnu žalbu koja bi zaustavila stupanje zakona na snagu dok traju sudski postupci. Kao posljedica, Bluesky je morao odlučiti kako će postupiti s usklađenošću.
 
-Kao rezultat toga, Bluesky je morao odlučiti što će učiniti u skladu s usklađenosti.
+Umjesto da traži provjeru dobi samo za sadržaj s dobnom oznakom, ovaj zakon traži provjeru dobi **svih** korisnika. To znači da bi Bluesky morao provjeriti dob svakog korisnika i dobiti **suglasnost roditelja** za maloljetnike. Tvrtka napominje da su potencijalne kazne za nepoštivanje znatne — do **10.000 $ po korisniku**.
 
-Umjesto da zahtijevaju dobnu provjeru prije nego što korisnici mogu pristupiti sadržaju s ograničenim dobima, ovaj zakon zahtijeva provjeru svih korisnika.To znači da bi Bluesky morao provjeriti dob svakog korisnika i dobiti roditeljski suglasnost za sve mlađe od 18 godina. Tvrtka napominje da su i potencijalne kazne za neusklađenost također ogromne - do 10 000 USD po korisniku.
+Bluesky također naglašava da zakon ide **izvan** zaštite djece, kako se navodi, te bi stvorio „značajne barijere koje ograničavaju slobodu govora i nesrazmjerno štete manjim platformama i novim tehnologijama“.
 
-Bluesky također naglašava da zakon nadilazi sigurnost djece, kako je namijenjeno, i stvorio bi "značajne prepreke koje ograničavaju slobodu govora i nesrazmjerno nanose štetu manjim platformama i tehnologijama u nastajanju."
+Kako bi se uskladio, Bluesky bi morao prikupljati i pohranjivati **osjetljive podatke** svih korisnika, uz detaljno praćenje maloljetnika. To se razlikuje od drugih režima provjere dobi, poput britanskog **Online Safety Acta (OSA)**, koji traži provjere samo za određeni sadržaj i značajke.
 
-Da bi se pridržavao, Bluesky bi morao prikupiti i pohraniti osjetljive podatke od svih svojih korisnika, osim detaljnog praćenja maloljetnika.To se razlikuje od načina na koji se očekuje da će se pridržavati drugih zakona o provjeri dobne dobi, poput američkog internetskog zakona o sigurnosti (OSA), koji zahtijeva samo provjere dobi samo za određeni sadržaj i značajke.
-
-Zakon Mississippija blokira bilo koga da koristi web mjesto, osim ako ne osigura
+Mississippijev zakon blokira korištenje stranice svakome tko ne dostavi … 
