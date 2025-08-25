@@ -1,29 +1,30 @@
 ---
-title: "Vijesti Bitcoin (BTC) Danas: Flash Crash briše Powell Spike kao opcije za dugotrajno tržište signala"
+title: "Bitcoin (BTC) vijesti danas: ‘Flash crash’ briše Powellov skok dok opcije signaliziraju trajnu nervozu na tržištu"
 date: 2025-08-25T04:50:53Z
 category: "crypto"
 translationKey: "2339685cf5b8bc0e10e8120807e84950"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/25/bitcoin-reverses-powell-spike-with-a-flash-crash-as-options-market-signals-jitters-ahead"
-summary: "Podaci o opcijama pokazuju dugotrajnu neizvjesnost usprkos Powell -ovom dovish okretu."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-08-25-bitcoin-btc-news-today-flash-crash-erases-the-powell-spike-as-options-signal-lin.jpg"
+summary: "Podaci tržišta opcija pokazuju da neizvjesnost traje unatoč Powellovu ‘dovish’ zaokretu."
+tags: ["bitcoin","btc","crypto","options","powell","jackson-hole","deribit","amberdata","flash-crash","whale","timechainindex"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/dbfb690c699ed79d604f30a911b4271fb9cd7583-1500x843.jpg?auto=format"
+image_alt: "Ilustracija prebacivanja u rikverc (CoinDesk Archives)"
 ---
 
-Bitcoin BTC 112.112,97 dolara pao je ispod 111.000 dolara tijekom trgovine preko noći, preokrenuvši u petak Spike uzrokovan Govorom Feda Powell -a, kao kita koji se prodaje u nelikvidnim tržišnim uvjetima.
+Bitcoin BTC $ 112,112.97 pao je ispod 111.000 $ tijekom noćnog trgovanja, čime je poništio skok od petka nakon ‘dovish’ govora predsjednika Feda Powella, dok je ‘kit’ prodavao u nelikvidnim uvjetima.
 
-Cijena kriptovalute pala je za preko 2% sa 114.666 na 112.546 dolara za manje od deset minuta do 07:40 UTC.Takozvani Flash Crash dogodio se kada je jedan kitov prodao 24.000 BTC-a, u vrijednosti od preko 300 milijuna dolara, prema tvrtki Blockchain Data Data Timechainindex.com.
+Cijena je pala više od 2% s 114.666 $ na 112.546 $ u manje od deset minuta do 07:40 UTC. Takav tzv. ‘flash crash’ dogodio se kada je jedan ‘kit’ prodao 24.000 BTC, vrijednih preko 300 milijuna dolara, prema podacima blockchain tvrtke Timechainindex.com.
 
-"Ovaj je entitet likvidio njihov cijeli 24.000 salda, šaljući sve to hiperuniteu. Prebacili su 12.000 tek danas i još uvijek aktivno prodaju, što je vjerojatno doprinijelo stalnom padu cijena", rekao je istraživač tvrtke Sani na X, dodajući da kita i dalje ima ukupno 152.874 BTC -a, uključujući 5,266 BTC.
+„Taj je entitet likvidirao cijeli saldo od 24.000 te sve poslao na Hyperunite. Danas je preneseno 12.000 i još uvijek aktivno prodaju, što vjerojatno pridonosi daljnjem padu cijene“, rekao je istraživač tvrtke Sani na X-u, dodajući da ‘kit’ i dalje drži ukupno 152.874 BTC na svim povezanim adresama, uključujući 5.266 BTC.
 
-"Sredstva su prvobitno stigla od HTX -a prije otprilike šest godina i ostala su neaktivna sve do nedavnih transakcija koje su uključivale jednu od njihovih adresa koje sadrže oko 24 000 BTC -a", primijetio je Sani.
+„Sredstva su izvorno došla s HTX-a prije oko šest godina i ostala su neaktivna sve do nedavnih transakcija koje uključuju jednu od njihovih adresa s približno 24.000 BTC“, napomenuo je Sani.
 
-Cijene su na kraju pogodile najniže ispod 111.000 USD prije nego što su se povukli za trgovinu blizu 112.800 dolara od pisanja, prema podacima Coindesk.
+Cijene su se naposljetku spustile ispod 111.000 $ prije nego što su se oporavile i trgovale oko 112.800 $ u trenutku pisanja, prema podacima CoinDeska.
 
-Pad cijena izbrisao je dobitke nakon petka, nakon što se pojavio da je predsjednik Feda Jerome Powell podržao ideju smanjenja stopa, istovremeno opadajući dugoročni inflatorni utjecaj tarifa predsjednika Trumpa tijekom svog godišnjeg govora u Jackson Holeu.
+Pad cijene izbrisao je dobitke od petka, nakon što je predsjednik Feda Jerome Powell sugerirao mogućnost snižavanja kamatnih stopa, umanjujući dugoročni inflacijski učinak carina predsjednika Trumpa tijekom svog godišnjeg govora u Jackson Holeu.
 
-Takozvani Govor Dovish-a zabilježio je da je BTC okupljao gotovo 4% sa 112.500 na 116.900 dolara, zajedno s rizičnim skupom u američkim dionicama i padom indeksa dolara.
+Taj tzv. ‘dovish’ govor potaknuo je BTC na gotovo 4% rasta s 112.500 $ na 116.900 $, uz ‘risk-on’ rast američkih dionica i pad dolar-indeksa.
 
-Tijekom vikenda, zajednica analitičara izrazila je uvjerenje da će se smanjiti stopa u rujnu, što bi moglo dovesti do novih vrhunaca u bitcoinu i eteru.
+Tijekom vikenda, analitička zajednica izrazila je uvjerenje da će do smanjenja stopa doći u rujnu, što bi potencijalno moglo dovesti do novih povijesnih vrhunaca za bitcoin i ether.
 
-Opcije Bitcoin na popisanom deribitu otkrivaju dugotrajnu averziju rizika, prema podacima
+Deribitove opcije na bitcoin pokazuju trajnu sklonost riziku (risk aversion), prema podacima…
