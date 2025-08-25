@@ -1,26 +1,26 @@
 ---
-title: "Bluesky Blocks Service in Mississippi über Alterssicherungsgesetz |Techcrunch"
+title: "Bluesky sperrt Dienst in Mississippi wegen Altersprüfungs-Gesetzes | TechCrunch"
 date: 2025-08-24T20:40:32Z
 category: "news"
 translationKey: "0eb6135f9ff59cdbaf126f3931fcdb05"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/24/bluesky-blocks-service-in-mississippi-over-age-assurance-law/"
-summary: "In einem am Freitag veröffentlichten Blog -Beitrag erklärt das Unternehmen, dass es als kleines Team nicht über die Ressourcen verfügt, um die wesentlichen technischen Veränderungen vorzunehmen, die diese Art von Recht erfordern würde, und "
-image_url: "/news/2025-08-24-bluesky-blocks-service-in-mississippi-over-age-assurance-law-techcrunch.jpg"
+summary: "In einem Blogpost erklärt das kleine Team, dass ihm die Ressourcen für die umfangreichen technischen Anpassungen fehlen; zudem kritisiert es den weiten Anwendungsbereich und Datenschutzfolgen."
+tags: ["news","bluesky","mississippi","hb1126","age-verification","datenschutz","freie-meinung","gesetz","usa","soziale-netzwerke"]
+image_url: "https://techcrunch.com/wp-content/uploads/2024/10/bluesky_media_kit_banner_4.jpg?w=1024"
+image_alt: "Bluesky-Logo vor Sternenhintergrund"
 ---
 
-Social Networking Startup Bluesky hat die Entscheidung getroffen, den Zugang zu seinem Dienst im Bundesstaat Mississippi zu blockieren, anstatt ein New Age Assurance Law einzuhalten.
+Das Social-Network-Startup **Bluesky** hat sich entschieden, seinen Dienst im Bundesstaat **Mississippi** zu sperren, statt einem neuen Gesetz zur **Altersprüfung** zu entsprechen.
 
-In einem am Freitag veröffentlichten Blog -Beitrag erklärt das Unternehmen, dass es als kleines Team nicht über die Ressourcen verfügt, um die wesentlichen technischen Veränderungen vorzunehmen, die diese Art von Recht erfordern würde, und es äußerte Bedenken hinsichtlich des breiten Umfangs und der Auswirkungen des Gesetzes des Gesetzes.
+In einem **Blogpost** vom Freitag heißt es, als kleines Team habe man nicht die Ressourcen für die umfangreichen technischen Änderungen, die ein solches Gesetz erfordere; außerdem gebe es Bedenken hinsichtlich des weiten Geltungsbereichs und der Auswirkungen auf den Datenschutz.
 
-HB 1126 von Mississippi verlangt Plattformen, um eine Altersüberprüfung für alle Benutzer einzuführen, bevor sie auf soziale Netzwerke wie Bluesky zugreifen können.Am Donnerstag beschlossen Justizes des US -Obersten Gerichtshofs, eine Notaufnahme zu blockieren, die das Gesetz daran gehindert hätte, in Kraft zu treten, als die rechtlichen Herausforderungen, denen es vor den Gerichten gespielt wurde.
+Mississippis **HB 1126** verlangt, dass Plattformen eine Altersprüfung für **alle Nutzer** einführen, bevor sie Zugang zu Netzwerken wie Bluesky erhalten. Am Donnerstag lehnten Richter des Obersten Gerichtshofs der USA einen Eilantrag ab, der das Inkrafttreten des Gesetzes vorläufig gestoppt hätte. Bluesky musste daher entscheiden, wie es mit der Compliance verfährt.
 
-Infolgedessen musste Bluesky entscheiden, was es gegen die Einhaltung der Einhaltung tun würde.
+Statt nur bei **altersbeschränkten Inhalten** zu prüfen, verlangt das Gesetz die **Altersverifikation aller**. Bluesky müsste also das Alter jedes Nutzers verifizieren und für **Unter-18-Jährige** die **elterliche Zustimmung** einholen. Zudem drohen hohe Strafen — bis zu **10.000 $ pro Nutzer**.
 
-Anstatt eine Altersüberprüfung zu verlangen, bevor Benutzer auf altersbeschränkte Inhalte zugreifen können, erfordert dieses Gesetz eine Altersüberprüfung aller Benutzer.Das heißt, Bluesky müsste das Alter jedes Benutzers überprüfen und die Zustimmung der Eltern für alle unter 18 Jahren einholen. Das Unternehmen stellt fest, dass die potenziellen Strafen für die Nichteinhaltung auch bis zu 10.000 US -Dollar pro Benutzer sind.
+Bluesky betont außerdem, das Gesetz gehe **über** Kinderschutz hinaus und schaffe „erhebliche Hürden, die die freie Meinungsäußerung einschränken und kleinere Plattformen sowie neue Technologien unverhältnismäßig benachteiligen“.
 
-Bluesky betont auch, dass das Gesetz wie beabsichtigt über die Sicherheit des Kindes hinausgeht, und würde „erhebliche Hindernisse schaffen, die die Redefreiheit einschränken und kleinere Plattformen und aufkommende Technologien überproportional schädigen“.
+Zur Einhaltung müsste Bluesky **sensible Daten** aller Nutzer erheben und speichern, zusätzlich zur detaillierten Protokollierung Minderjähriger. Das unterscheidet sich von anderen Gesetzen wie dem britischen **Online Safety Act (OSA)**, der Altersprüfungen nur für bestimmte Inhalte/Funktionen vorsieht.
 
-Um einzuhalten, müsste Bluesky neben der detaillierten Verfolgung von Minderjährigen sensible Informationen von allen Benutzern sammeln und speichern.Dies unterscheidet sich von der Erwartung, dass es anderen Gesetzen für Altersüberprüfung entspricht, wie das Online -Sicherheitsgesetz (OSA) des Vereinigten Königreichs, für das nur Altersprüfungen für bestimmte Inhalte und Funktionen erforderlich sind.
-
-Das Gesetz von Mississippi blockiert, dass jeder die Nutzung der Website benutzt, es sei denn
+Mississippis Gesetz verhindert die Nutzung der Seite, sofern Nutzer nicht … 
