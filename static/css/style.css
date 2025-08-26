@@ -308,3 +308,7 @@ a:hover { text-decoration: underline; }
 .site-header .nav{ display: none !important; }
 */
 
+/* (opcionalno) dodatno globalno podešavanje za related sekciju */
+.post-related .card-img { height: 150px; object-fit: cover; }
+.post-related .grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+
