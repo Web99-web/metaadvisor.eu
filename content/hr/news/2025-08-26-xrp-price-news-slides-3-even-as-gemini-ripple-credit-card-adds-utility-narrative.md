@@ -1,22 +1,22 @@
 ---
-title: "Vijesti o cijenama XRP-a: Slidovi 3% čak i jer kreditna kartica GEMINI-RIPPLE dodaje korisnu pripovijest"
+title: "XRP Price News: Slides 3% Even as Gemini-Ripple Credit Card Adds Utility Narrative"
 date: 2025-08-26T05:43:08Z
 category: "news"
 translationKey: "b3db6c54d56979a340aab355270dbd4f"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/26/xrp-slides-3-even-as-gemini-ripple-credit-card-adds-utility-narrative"
-summary: "Pokušaji oporavka kasno u sesiji vratili su token iznad 2,90 dolara, ali tržište ostaje podijeljeno na to može li se moment nadograditi."
-image_url: "/news/2025-08-26-xrp-price-news-slides-3-even-as-gemini-ripple-credit-card-adds-utility-narrative.png"
+summary: "Recovery attempts late in the session brought the token back above $2.90, but the market remains split on whether upside momentum can sustain."
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/e9d6f8574bd010e9c666dc0d0b97c3207ffb1d75-742x451.png?auto=format"
 ---
 
-XRP se suočio s strmim zamahom u trgovačkom prozoru od 25. do 26. kolovoza, klizajući se od 3,01 na 2,91 USD za 3,2% gubitka.Raspad institucionalne likvidacije tijekom 19: 00–20: 00 GMT sat potaknuo je najoštriji pad, a sveske su utrostručile dnevne prosjeke.Pokušaji oporavka kasno u sesiji vratili su token iznad 2,90 dolara, ali tržište ostaje podijeljeno na to može li se moment nadograditi.
+XRP faced steep swings in the August 25–26 trading window, sliding from $3.01 to $2.91 for a 3.2% loss. A burst of institutional liquidation during the 19:00–20:00 GMT hour drove the sharpest drop, with volumes tripling daily averages. Recovery attempts late in the session brought the token back above $2.90, but the market remains split on whether upside momentum can sustain.
 
-Shaurya je suigrač Coindesk tokena i tima podataka u Aziji s fokusom na kripto derivate, DeFi, tržišnu mikrostrukturu i analizu protokola.Shaurya drži više od 1.000 dolara u BTC, ETH, Sol, Avax, sushi, CRV, u blizini, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, KSM, COKA, AAVE, FOK, TRX, RUN,GHST, PERP, Btrfly, Ohm, Banana, Rim, Burger, Duh i Orka.On osigurava više od 1000 dolara likvidnoj bazeni na spoju, krivulji, sushiswap -u, palačinkama, burgerswap -u, orCA, Anyswap, Spiritswap, Rook Protocol, Bridnn Finance, Synthetix, Harvest, Redicted Cartel, Olympusdao, ROME, TRADER JOE i SUN.
+Shaurya is the Co-Leader of the CoinDesk tokens and data team in Asia with a focus on crypto derivatives, DeFi, market microstructure, and protocol analysis. Shaurya holds over $1,000 in BTC, ETH, SOL, AVAX, SUSHI, CRV, NEAR, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, ALGO, VET, CAKE, AAVE, COMP, ROOK, TRX, SNX, RUNE, FTM, ZIL, KSM, ENJ, CKB, JOE, GHST, PERP, BTRFLY, OHM, BANANA, ROME, BURGER, SPIRIT, and ORCA. He provides over $1,000 to liquidity pools on Compound, Curve, SushiSwap, PancakeSwap, BurgerSwap, Orca, AnySwap, SpiritSwap, Rook Protocol, Yearn Finance, Synthetix, Harvest, Redacted Cartel, OlympusDAO, Rome, Trader Joe, and SUN.
 
-Coindesk Analytics je Coindesk-ov alat koji se pokreće AI koji uz pomoć ljudskih novinara generira analizu podataka o tržištu, izvješća o kretanju cijena i financijski sadržaj usredotočen na tržišta kriptovaluta i blockchain.
+CoinDesk Analytics is CoinDesk's AI-powered tool that, with the help of human reporters, generates market data analysis, price movement reports, and financial content focused on cryptocurrency and blockchain markets.
 
-Sav sadržaj proizveden od strane Coindesk Analytics -a podvrgava se ljudskom uređivanju Coindesk -ovog uredničkog tima prije objave.Alat sintetizira tržišne podatke i informacije iz Coindesk podataka i drugih izvora kako bi stvorio pravovremena izvješća o tržištu, pri čemu su svi vanjski izvori jasno pripisani u svakom članku.
+All content produced by CoinDesk Analytics is undergoes human editing by CoinDesk's editorial team before publication. The tool synthesizes market data and information from CoinDesk Data and other sources to create timely market reports, with all external sources clearly attributed within each article.
 
-Coindesk Analytics djeluje u skladu s Coindesk -ovim smjernicama za sadržaj AI, koje prioritetno prioritet preciznosti, transparentnosti i uredničkog nadzora.Saznajte više o Coindeskovom pristupu Ai-generiranom sadržaju u našoj AI politici.
+CoinDesk Analytics operates under CoinDesk's AI content guidelines, which prioritize accuracy, transparency, and editorial oversight. Learn more about CoinDesk's approach to AI-generated content in our AI policy .
 
-Masivnih 14,6 milijardi dolara
+Massive $14.6B
