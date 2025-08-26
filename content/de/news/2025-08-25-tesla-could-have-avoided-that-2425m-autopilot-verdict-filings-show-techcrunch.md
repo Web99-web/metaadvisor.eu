@@ -1,24 +1,25 @@
 ---
-title: "Tesla hätte das AutoPilot -Urteil von 242,5 Mio. USD vermeiden können, wie die Einreichungen |Techcrunch"
+title: "Tesla hätte das 242,5-Mio.-$-Autopilot-Urteil vermeiden können, zeigen Unterlagen | TechCrunch"
 date: 2025-08-25T23:32:47Z
 category: "news"
 translationKey: "fbfa408fa3e5b41521eddd655852769a"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242-5m-autopilot-verdict-filings-show/"
-summary: "Stattdessen verlieh eine Jury den Klägern mit 242,5 Millionen US -Dollar Ausgleichs- und Strafschadenersatz."
-image_url: "/news/2025-08-25-tesla-could-have-avoided-that-2425m-autopilot-verdict-filings-show-techcrunch.png"
+summary: "Stattdessen sprach die Jury den Klägern 242,5 Mio. $ an Ausgleichs- und Strafschadensersatz zu."
+tags: ["tesla","autopilot","urteil","klage","miami","jury","vergleich","transportation"]
+image_url: "https://techcrunch.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-20-at-12.40.05-pm.png?w=1200"
 ---
 
-Monate bevor eine Jury ein Urteil von 242,5 Millionen US -Dollar gegen Tesla über ihre Schuld bei einem tödlichen Absturz von 2019 verlieh, hatte der Autohersteller die Chance, sich mit 60 Millionen US -Dollar zufrieden zu geben.Stattdessen lehnte Tesla dieses Angebot gemäß neuen Rechtsangaben ab, die zuerst von Reuters gemeldet wurden.
+Monate bevor eine Jury Tesla wegen seiner Mitschuld an einem tödlichen Unfall von 2019 zu **242,5 Mio. $** verurteilte, hatte der Autobauer die Chance, sich für **60 Mio. $** zu vergleichen — lehnte dies jedoch ab, wie neue, zuerst von Reuters gemeldete Gerichtsunterlagen zeigen.
 
-Der im Mai getroffene Vergleichsvorschlag wurde in einer Anmeldung bekannt gegeben, in der die Kläger in dem Fall die Rechtskosten für die Kläger beantragte.
+Der im Mai unterbreitete Vergleichsvorschlag wurde in einem Antrag offengelegt, in dem Tesla aufgefordert wird, die Anwaltskosten der Kläger zu übernehmen.
 
-Anfang dieses Monats fand eine Jury vor einem Bundesgericht in Miami teilweise für einen tödlichen Absturz von 2019 verantwortlich, bei dem das Autopilot -Fahrerhilfesystem des Unternehmens verwendet wurde.Eine Person wurde getötet, als ein Tesla -Modell mit Autopiloten durch eine Kreuzung gepflügt und einen Chevrolet Tahoe traf.Die Crash -Opfer, Neima Benavides Leon und ihr Freund Dillon Angulo, standen zu dieser Zeit außerhalb des Fahrzeugs auf der Schulter.Leon wurde getötet, während Angulo schwer verletzt wurde.
+Anfang dieses Monats befand eine Jury am Bundesgericht in Miami Tesla **teilweise verantwortlich** für den Unfall 2019, bei dem das Fahrerassistenzsystem **Autopilot** im Einsatz war. Ein Mensch starb, als ein Tesla Model S mit aktiviertem Autopilot eine Kreuzung durchfuhr und einen Chevrolet Tahoe rammte. Die Unfallopfer, **Neima Benavides Leon** und ihr Freund **Dillon Angulo**, standen zu diesem Zeitpunkt am Straßenrand; Leon kam ums Leben, Angulo wurde schwer verletzt.
 
-Der Fahrer, der in diesem Fall kein Angeklagter war, wurde wegen seiner Verantwortung getrennt verklagt.Die im Jahr 2021 eingereichte Klage gegen Tesla konzentrierte sich auf Autopilot, das verlobt war, aber nicht rechtzeitig bremste, um die Kreuzung zu vermeiden.Die Jury wandte dem Fahrer zwei Drittel der Schuld zu und führte Tesla ein Drittel zu.Im Rahmen des Urteils hat die Jury im Rahmen ihrer Entscheidung das Urteil von 242,5 Millionen US -Dollar gewährt.
+Der Fahrer, der in diesem Verfahren nicht Beklagter war, wurde separat verklagt. Die 2021 eingereichte Klage gegen Tesla drehte sich um den aktivierten Autopilot, der nicht rechtzeitig bremste, um das Durchfahren der Kreuzung zu verhindern. Die Jury gab dem Fahrer **zwei Drittel** der Schuld und **ein Drittel Tesla**. Im Urteil wurden **242,5 Mio. $** zugesprochen.
 
-Tesla sagte in einer Erklärung, die TechCrunch Anfang dieses Monats vorgelegt hat, und plane, gegen das Urteil einzulegen, "angesichts der erheblichen Rechtsfehler und Unregelmäßigkeiten beim Verfahren".
+Tesla erklärte gegenüber TechCrunch, man werde **Berufung** einlegen – wegen „erheblicher Rechtsfehler und Unregelmäßigkeiten im Verfahren“.
 
-TechCrunch hat die Anwälte der Kläger sowie Tesla gewandt.Eine externe PR -Firma, die zuvor Aussagen im Namen von Tesla abgelehnt hat, lehnte eine Stellungnahme ab und richtete TechCrunch an die Presseadresse des Unternehmens.Tesla hat sein Kommunikationsteam vor einigen Jahren aufgelöst.
+TechCrunch kontaktierte die Anwälte der Kläger sowie Tesla. Eine externe PR-Agentur, die zuvor für Tesla Stellungnahmen abgegeben hatte, lehnte eine Kommentierung ab und verwies auf die Presseadresse des Unternehmens. Tesla hat sein Kommunikationsteam bereits vor Jahren aufgelöst.
 
-Die Klage,
+Die Klage, Aktenzeichen **1:21-cv-21940-BB**, wurde 2021 am US-Bezirksgericht für den Southern District of Florida eingereicht.
