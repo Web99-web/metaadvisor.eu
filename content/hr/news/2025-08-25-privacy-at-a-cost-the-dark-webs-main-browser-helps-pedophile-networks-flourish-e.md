@@ -1,23 +1,23 @@
 ---
-title: "Privatnost po cijeni: Glavni preglednik Dark Web -a pomaže da pedofilske mreže procvjetaju, stručnjaci kažu"
+title: "Privatnost uz cijenu: glavni preglednik dark weba pomaže mrežama pedofila, kažu stručnjaci"
 date: 2025-08-25T15:07:50Z
 category: "ai"
 translationKey: "8918991f177b232a491690cc5d9f4045"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/aug/25/tor-network-child-sexual-abuse"
-summary: "Arhitektura privatnosti TOR mreže stvara sigurno utočište za grabežljivce za dijeljenje materijala za seksualno zlostavljanje djece"
-tags: ["ai"]
-image_url: "/news/2025-08-25-privacy-at-a-cost-the-dark-webs-main-browser-helps-pedophile-networks-flourish-e.jpg"
+summary: "Arhitektura privatnosti Tor mreže stvara sigurno utočište za razmjenu materijala seksualnog zlostavljanja djece."
+tags: ["privacy","tor","dark-web","csam","child-protection","policy","internet"]
+image_url: "https://i.guim.co.uk/img/media/571a97d55cd873eab688c3b964c7ecf05c19b6d3/0_0_4000_2670/master/4000.jpg?crop=none&dpr=1&s=none&width=1200"
 ---
 
-Arhitektura privatnosti TOR mreže stvara sigurno utočište za grabežljivce za dijeljenje materijala za seksualno zlostavljanje djece
+Arhitektura privatnosti Tor mreže stvara sigurno utočište za razmjenu materijala seksualnog zlostavljanja djece (CSAM).
 
-Milijuni dječjih grabežljivaca formiraju šireći internetske zajednice na tamnom webu koristeći mrežu Tor, gdje kriminalno ponašanje eskalira dijeljenjem materijala za seksualno zlostavljanje djece, strategije njegovanja i normalizaciju eksploatacije, kažu stručnjaci.Unatoč opetovanim upozorenjima da ga sve veći broj grabežljivaca iskorištavaju, Torovi programeri nisu poduzeli nikakve mjere kako bi suzbili širenje ovog sadržaja, kažu kritičari.
+Milijuni zlostavljača djece oblikuju goleme online zajednice na dark webu koristeći Tor, gdje se kriminalno ponašanje eskalira kroz razmjenu CSAM sadržaja, strategija vrbovanja i normalizaciju iskorištavanja, kažu stručnjaci. Unatoč ponovljenim upozorenjima o rastućem broju počinitelja koji to iskorištavaju, razvojni tim Tora, tvrde kritičari, nije poduzeo mjere za suzbijanje širenja tog sadržaja.
 
-Mreža TOR ("Rukov usmjerivač") je internetski sustav usmjeren na anonimnost koji usmjerava promet kroz globalnu mrežu poslužitelja volonterskih volontera kako bi se zatakle identiteti i lokacije korisnika.Šifrirajući podatke u više slojeva - poput onog luka - Tor otežava digitalnu aktivnost.
+Tor (“the onion router”) je sustav usmjeren na anonimnost koji promet preusmjerava kroz globalnu mrežu poslužitelja kojima upravljaju volonteri, kako bi se prikrili identiteti i lokacije korisnika. Višeslojnom enkripcijom – poput slojeva luka – Tor otežava praćenje digitalne aktivnosti.
 
-Ova arhitektura privatnosti, upozoravaju stručnjaci, stvorila je sigurno utočište za dječje grabežljivce.Dizajn platforme čini gotovo nemogućim ukloniti štetne postove ili ilegalni sadržaj, kažu, a organizacija koja stoji iza Tor odupirala se pritisku da implementira čak i osnovne zaštitne mjere.
+Ovakva arhitektura, upozoravaju stručnjaci, stvorila je sigurno utočište za počinitelje. Dizajn platforme čini gotovo nemogućim uklanjanje štetnih objava ili nezakonitog sadržaja, a organizacija koja stoji iza Tora, navode, odolijeva pritisku da uvede čak i osnovne zaštitne mjere.
 
-Kanadski centar za zaštitu djece (C3P) rekao je Guardianu da je podnio više od 19.000 obavijesti TOR projektu-američku neprofitnu organizaciju usmjerenu na privatnost koja razvija i održava mrežu-označava materijal za seksualno zlostavljanje djece (CSAM) otkrivenu na svom sustavu.Ipak, organizacija nije poduzela nikakve mjere, prema C3P.
+Kanadski centar za zaštitu djece (C3P) rekao je za Guardian da je Tor Projectu – američkoj neprofitnoj organizaciji koja razvija i održava mrežu – podnio više od 19.000 prijava označavajući CSAM na sustavu. Prema C3P-u, nikakva akcija nije poduzeta.
 
-"Tor je osmišljen na način da ne mogu ništa ukloniti i odbijaju ga promijeniti, jer je ideja bilo koje vrste cenzure tamo loša", rekao je Lloyd Richardson, direktor tehnologije C3P -a."Tor ima upravni odbor koji donosi odluke oko toga, i mislim da ih nikada nije zadržao
+“Tor je dizajniran tako da se ništa ne može ukloniti i odbijaju to promijeniti jer smatraju da je svaka cenzura loša,” rekao je Lloyd Richardson, tehnički direktor C3P-a. “O svemu odlučuje upravni odbor i nikad nisu pozvani na odgovornost. Oni su jedini koji mogu intervenirati – i odbijaju to učiniti.”
