@@ -1,22 +1,22 @@
 ---
-title: "XRP-Preisnachrichten: 3%, auch wenn die Kreditkarte für Gemini-Ripple die Nützlichkeitserzählung hinzufügt"
+title: "XRP-Preis-News: Rutscht um 3 %, obwohl die Gemini-Ripple-Kreditkarte das Utility-Narrativ stärkt"
 date: 2025-08-26T05:43:08Z
 category: "news"
 translationKey: "b3db6c54d56979a340aab355270dbd4f"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/26/xrp-slides-3-even-as-gemini-ripple-credit-card-adds-utility-narrative"
-summary: "Die Wiederherstellungsversuche spät in der Sitzung brachten das Token wieder über 2,90 US -Dollar, aber der Markt bleibt aufgeteilt, ob der Aufwärtspuktum aufrechterhalten kann."
-image_url: "/news/2025-08-26-xrp-price-news-slides-3-even-as-gemini-ripple-credit-card-adds-utility-narrative.png"
+summary: "Späte Erholungsversuche brachten den Token wieder über 2,90 $, doch der Markt bleibt gespalten, ob der Aufwärtsimpuls tragfähig ist."
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/e9d6f8574bd010e9c666dc0d0b97c3207ffb1d75-742x451.png?auto=format"
 ---
 
-XRP sah sich im Handelsfenster vom 25. bis 26. August steile Schwankungen gegenüber und gleitete von 3,01 USD auf 2,91 USD für einen Verlust von 3,2%.Ein breites Verschleppen der institutionellen Liquidation während der 19: 00–20: 00 GMT -Stunde führte zu dem schärfsten Abfall, wobei die Volumina die täglichen Durchschnittswerte verdreifachten.Die Wiederherstellungsversuche spät in der Sitzung brachten das Token wieder über 2,90 US -Dollar, aber der Markt bleibt aufgeteilt, ob der Aufwärtspuktum aufrechterhalten kann.
+XRP verzeichnete im Handelsfenster vom 25.–26. August heftige Schwankungen und fiel von 3,01 auf 2,91 $ (-3,2 %). Ein Schub institutioneller Liquidationen in der Stunde 19:00–20:00 Uhr GMT sorgte für den stärksten Rückgang; die Volumina verdreifachten die Tagesdurchschnitte. Späte Erholungsversuche hoben den Token wieder über 2,90 $, doch der Markt bleibt uneins, ob sich der Aufwärtsimpuls halten kann.
 
-Shaurya ist der Co-Leader der Coindesk-Token und des Data-Teams in Asien mit Schwerpunkt auf Kryptoderivaten, Defi, Marktmikrostruktur und Protokollanalyse.Shaurya holds over $1,000 in BTC, ETH, SOL, AVAX, SUSHI, CRV, NEAR, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, ALGO, VET, CAKE, AAVE, COMP, ROOK, TRX, SNX, RUNE, FTM, ZIL, KSM, ENJ, CKB, JOE,GHST, SONP, BTRFLY, OHM, Banane, Rom, Burger, Geist und Orca.Er liefert Liquiditätspools über Verbindung, Kurve, Sushiswap, Pancakeswap, Burgerswap, Orca, AnySwap, SpiritsWap, Rook Protocol, Swer Finance, Synthetix, Ernte, reduzierte Kartell, Olympusdao, Rome, Tradual Joe und Sun und Sun.
+Shaurya ist Co-Leiter des CoinDesk-Teams für Token und Daten in Asien mit Fokus auf Krypto-Derivate, DeFi, Markt-Mikrostruktur und Protokollanalyse. Er hält über 1.000 $ in BTC, ETH, SOL, AVAX, SUSHI, CRV, NEAR, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, ALGO, VET, CAKE, AAVE, COMP, ROOK, TRX, SNX, RUNE, FTM, ZIL, KSM, ENJ, CKB, JOE, GHST, PERP, BTRFLY, OHM, BANANA, ROME, BURGER, SPIRIT und ORCA. Er stellt über 1.000 $ Liquidität in Pools auf Compound, Curve, SushiSwap, PancakeSwap, BurgerSwap, Orca, AnySwap, SpiritSwap, Rook Protocol, Yearn Finance, Synthetix, Harvest, Redacted Cartel, OlympusDAO, Rome, Trader Joe und SUN bereit.
 
-Coindesk Analytics ist Cointsks KI-betriebenes Tool, das mit Hilfe menschlicher Reporter Marktdatenanalysen, Preisbewegungsberichte und finanzielle Inhalte erzeugt, die sich auf Kryptowährung und Blockchain-Märkte konzentrieren.
+CoinDesk Analytics ist CoinDesks KI-gestütztes Tool, das mit Hilfe menschlicher Reporter Marktanalysen, Kursbewegungs-Reports und Finanzinhalte für Krypto- und Blockchain-Märkte erstellt.
 
-Alle von Coindesk Analytics produzierten Inhalte werden vor der Veröffentlichung durch das Redaktionsteam von Coindesk durch menschliche Bearbeitung unterzogen.Das Tool synthetisiert Marktdaten und Informationen aus Coindesk -Daten und anderen Quellen, um zeitnahe Marktberichte zu erstellen, wobei alle externen Quellen in jedem Artikel klar zugeschrieben werden.
+Alle von CoinDesk Analytics erzeugten Inhalte werden vor der Veröffentlichung von der CoinDesk-Redaktion redigiert. Das Tool synthetisiert Marktdaten und Informationen aus CoinDesk Data und anderen Quellen, um zeitnahe Marktberichte zu erstellen; alle externen Quellen werden in jedem Artikel eindeutig ausgewiesen.
 
-Coindesk Analytics arbeitet unter den KI -Inhaltsrichtlinien von Coindesk, die die Genauigkeit, Transparenz und redaktionelle Aufsicht priorisieren.Erfahren Sie mehr über den Ansatz von Coindesk zu AI-generierten Inhalten in unserer KI-Richtlinie.
+CoinDesk Analytics arbeitet nach den KI-Inhaltsrichtlinien von CoinDesk, die Genauigkeit, Transparenz und redaktionelle Aufsicht priorisieren. Mehr über CoinDesks Ansatz in unserer AI-Policy.
 
-Massive $ 14,6b
+Massive 14,6 Mrd. $
