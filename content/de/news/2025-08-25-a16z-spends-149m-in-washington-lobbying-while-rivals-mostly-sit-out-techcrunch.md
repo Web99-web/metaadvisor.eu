@@ -1,22 +1,23 @@
 ---
-title: "A16Z gibt in Washington Lobbying 1,49 Millionen US -Dollar aus, während die Rivalen meistens aussetzen |Techcrunch"
+title: "a16z gibt 1,49 Mio. US-$ fürs Lobbying in Washington aus, während Rivalen größtenteils aussetzen | TechCrunch"
 date: 2025-08-25T23:17:27Z
 category: "news"
 translationKey: "d02028ff951b11e30173beb4d4241c63"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-lobbying-while-rivals-mostly-sit-out/"
-summary: "Der Venture -Riese Andreessen Horowitz verbrennt Bargeld, um die Politik auf dem Hügel zu formen."
-image_url: "/news/2025-08-25-a16z-spends-149m-in-washington-lobbying-while-rivals-mostly-sit-out-techcrunch.jpg"
+summary: "Wagniskapitalriese Andreessen Horowitz verbrennt Geld, um die Politik am Capitol Hill zu formen."
+tags: ["venture-capital","a16z","lobbying","washington","crypto","stablecoins","ai","defense"]
+image_url: "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?w=1200"
 ---
 
-Der Plan von Andreessen Horowitz, seine Agenda in Washington voranzutreiben, zeigt keine Anzeichen einer Verlangsamung, wobei das Unternehmen in diesem Jahr in diesem Jahr 1,49 Millionen US -Dollar an Bundeslobbyarbeit meldet.A16Z gibt sogar knapp eine eigene Branchenhandelsgruppe, die National Venture Capital Association, aus.
+Der Plan von Andreessen Horowitz, seine Agenda in Washington voranzutreiben, zeigt keine Anzeichen einer Verlangsamung: Laut beim Kongress eingereichten Unterlagen meldete die Firma bislang 1,49 Millionen US-Dollar an Bundes-Lobbying in diesem Jahr. a16z gibt damit sogar knapp mehr aus als der eigene Branchenverband, die National Venture Capital Association.
 
-Das Tempo der Lobbying scheint sich gegenüber dem letzten Jahr zu beschleunigen, so eine TechCrunch -Überprüfung der Lobby -Angaben.A16Z gab 1,8 Millionen US -Dollar für Lobbyarbeit in allen 2024 und 950.000 US -Dollar im Jahr 2023 aus.
+Das Lobbying-Tempo scheint sich gegenüber dem Vorjahr zu beschleunigen, wie eine TechCrunch-Auswertung der Offenlegungen zeigt. a16z gab 2024 insgesamt 1,8 Millionen US-Dollar für Lobbying aus und 2023 950.000 US-Dollar.
 
-Die Lobbying -Strategie von A16Z zeichnet sich bei großen VC -Unternehmen ab, von denen die meisten noch nur wenig bis gar keine Bundes -Lobbyarbeit melden.Sequoia Capital hat ein Jahr lang nur 120.000 US-Dollar gemeldet, während General Catalyst im gleichen Zeitraum bei 500.000 USD liegt.Zum Vergleich: Die Ausgaben von A16Z liegen kurz vor den 1,40 Millionen US -Dollar der NVCA.
+Die Lobbying-Strategie von a16z fällt unter den großen VC-Firmen auf, von denen die meisten weiterhin kaum oder gar kein Bundes-Lobbying melden. Sequoia Capital hat im laufenden Jahr lediglich 120.000 US-Dollar gemeldet, während General Catalyst im selben Zeitraum bei 500.000 US-Dollar liegt. Zum Vergleich: a16z liegt damit knapp vor den 1,40 Millionen US-Dollar der NVCA.
 
-Als Antwort auf Fragen verwies eine A16Z-Person TechCrunch auf Artikel, die von den Mitbegründern des Unternehmens über ihre Ansichten zur Richtlinie und auf die Agenda „Little Tech“ verfasst wurden.In einem Artikel im Dezember 2023 sagte der Mitbegründer Ben Horowitz, das Unternehmen sei überparteilich und ein-is-Wähler: „Wenn ein Kandidat eine optimistische technologisch-fähige Zukunft unterstützt, sind wir für sie. Wenn sie wichtige Technologien abwerfen wollen, sind wir gegen sie.“
+Auf Rückfragen verwies eine Person von a16z TechCrunch auf Artikel der Firmengründer zu ihren politischen Positionen und zur „Little Tech“-Agenda. In einem Artikel vom Dezember 2023 sagte Mitgründer Ben Horowitz, die Firma sei überparteilich und stimme nach dem Ein-Themen-Prinzip ab: „Wenn ein Kandidat eine optimistische, technologiegestützte Zukunft unterstützt, sind wir für ihn. Wenn er wichtige Technologien abwürgen will, sind wir gegen ihn.“
 
-Das interne Lobbyteam der Kanzlei ist beauftragt, die Gesetzgeber in einer Vielzahl von Themen zu beeinflussen, von der digitalen Regulierung, Stablecoins und KI.Während die Bewegungen von A16Z, Gesetze rund um Crypto zu gestalten, gut dokumentiert sind, zeigen die Lobby -Angaben, wie das Unternehmen noch ehrgeizigere Sehenswürdigkeiten bei der Gestaltung der Verteidigungsprioritäten des Landes gemacht hat.
+Das interne Lobbying-Team soll Gesetzgeber bei einer Vielzahl von Themen beeinflussen — von der Regulierung digitaler Vermögenswerte über Stablecoins bis hin zu KI. Während die Versuche von a16z, Kryptogesetze zu formen, gut dokumentiert sind, zeigen die Offenlegungen, dass die Firma noch ambitioniertere Ziele ins Visier nimmt: die Verteidigungsprioritäten des Landes mitzugestalten.
 
-Die Verteidigung tritt aus dem dritten Quartal von A16Z aus 2023 zum ersten Mal aus, in dem das Gesetz über die nationale Verteidigungsautorisierung als spezifische Lobby -Frage hinzugefügt wurde.Die Firma hat weiterhin auf der Lobby
+„Verteidigung“ taucht erstmals explizit im Bericht von a16z zum dritten Quartal 2023 auf, der den National Defense Authorization Act als spezifisches Lobbying-Thema hinzufügte. Das Unternehmen lobbyiert seither weiter für …
