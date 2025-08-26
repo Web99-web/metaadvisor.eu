@@ -1,25 +1,25 @@
 ---
-title: "Asia Crypto News: BTC -Fragilität und ETH -Rotationssignalmarktverstärkung für Konsolidierung ohne neue Liquidität"
+title: "Asien – Krypto-News: BTC-Fragilität und ETH-Rotation signalisieren Konsolidierung ohne neue Liquidität"
 date: 2025-08-26T01:13:34Z
 category: "crypto"
 translationKey: "4e15ed103d6b60950df91125f501e078"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/26/asia-morning-briefing-btc-fragility-and-eth-rotation-signal-market-bracing-for-consolidation-without-new-liquidity"
-summary: "Der Hebel für den Einzelhandel wird immer wieder gespült, während ETFS-Protokoll-Abflüsse milliarden Dollar abfließen, während Wale und souveräne Spieler in der Volatilität stillschweigend ETC und BTC sammeln."
-tags: ["crypto"]
-image_url: "/news/2025-08-26-asia-crypto-news-btc-fragility-and-eth-rotation-signal-market-bracing-for-consol.jpg"
+summary: "Retail-Leverage wird fortlaufend ausgelöscht, ETFs verbuchen Milliardenausflüsse, während Wale und staatliche Akteure leise ETH und BTC in die Volatilität hinein akkumulieren."
+tags: ["crypto","bitcoin","btc","ethereum","eth","etf","liquidität","whales","glassnode","qcp-capital","enflux","asien","konsolidierung","markt"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/7b5d2c4ad567c31163d072346895d1c9b12152c1-6016x3530.jpg?auto=format"
 ---
 
-Willkommen bei Asia Morning Briefing, eine tägliche Zusammenfassung der Top -Geschichten während der US -Stunden und einen Überblick über Marktbewegungen und Analysen.Eine detaillierte Übersicht über US -Märkte finden Sie in Coindesks Crypto Daybook Americas.
+Willkommen beim **Asia Morning Briefing** – der tägliche Überblick über die wichtigsten US-Stunden sowie Marktbewegungen und Analysen. Einen detaillierten Überblick über die US-Märkte bietet **Crypto Daybook Americas**.
 
-Bitcoin handelt nach Angaben von Coindesk -Marktdaten knapp unter 110.000 US -Dollar, nachdem ein weiterer fehlgeschlagener Absprung um etwa 7% gesunken ist.Ethereum, das vor einer starken Umkehrung kurz 4.900 US -Dollar berührte, hält über 4.300 US -Dollar, zeigt jedoch nach Wochen der Outperformance Anzeichen von Erschöpfung.
+**Bitcoin** handelt knapp unter **$110.000** nach einem weiteren gescheiterten Bounce und liegt rund **7%** unter dem Hoch über **$117.000** nach Powells „dovisher“ Jackson-Hole-Rede. **Ethereum** berührte kurz **$4.900** vor einer scharfen Umkehr, hält sich über **$4.300**, zeigt jedoch **Ermüdungserscheinungen**.
 
-Der Bullenlauf ist ausfransen.Doch unter der Oberfläche skalieren die souveränen und institutionellen Zuteilungen von Milliarden Dollar in der Volatilität stillschweigend und schaffen eine scharfe Abweichung zwischen schwacher kurzfristiger Überzeugung und programmatischen Langhorizontkauf.
+Der Bullenlauf franst aus: dünne **Liquidität**, **ETF-Abflüsse** und fragile **On-Chain-Aktivität** treffen auf eine **Rotation in ETH** und Liquidationen von Retail-Longs. Unter der Oberfläche skalieren **staatliche** und **institutionelle** Allokationen in Milliardenhöhe leise in die Volatilität – ein Auseinanderdriften zwischen schwachem kurzfristigen Conviction und programmatischem Langfristhandeln.
 
-Der neueste Marktpuls von Glassnode zeigt, dass der Zyklus von Euphorie in Fragilität gereift wird: Fundimpuls in Richtung überverkauftes Gebiet, ETF -Flüsse schwingen zu einem Abfluss von 1 Milliarde US -Dollar und realisierten Gewinne, die auf Breakeven zurückbrachen.
+Der **Glassnode Market Pulse** zeigt die Phase „Euphorie → Fragilität“: Spot-Momentum kippt in Richtung **Überverkauft**, ETF-Flüsse drehen zu **$1 Mrd** Netto-Abfluss, realisierte Gewinne fallen Richtung **Breakeven**.
 
-Diese Fragilität wurde von QCP Capital unterstrichen, das den Absturz dieses Wochenendes auf einen frühen Inhaber zurückführte, der 24.000 BTC in eine dünne Liquidität entlädt, die in Liquidationen in 500 Millionen US -Dollar kaskadiert wurde.QCP sagte, der Verkauf habe enthüllt, wie spröde der Markt mit ETFs geworden ist, die Abflüsse in Höhe von 1,2 Milliarden US -Dollar bluteten, selbst wenn sich Wale in ETH drehen und die ETH/BTC -Kreuzung durch 0,04 drücken.
+**QCP Capital** führt den Wochenend-Crash auf den Abverkauf von **24.000 BTC** bei dünner Liquidität zurück – mit rund **$500 Mio.** an Liquidationen. Parallel **$1,2 Mrd** ETF-Abflüsse, während Wale in **ETH** rotieren und **ETH/BTC** über **0,04** drückt.
 
-Der in Singapur ansässige Markthersteller Enflux nimmt diesen Thread auf und argumentiert, dass nicht alle Ströme gleich erzeugt werden.
+Der in Singapur ansässige Market Maker **Enflux** ergänzt: Nicht alle Flows sind gleich. Während Retail-Longs „ausgeblasen“ wurden, deuten ein **$2,55 Mrd** **ETH-Stake** über einen einzigen Vertrag und **$700 Mio BTC**-Exposure der **VAE** (via Citadel Mining) eher auf **staatliche/institutionelle Allokation** hin.
 
-Während der Einzelhandel ausgeblasen wurde, wurde eine ETH -Beteiligung von 2,55 Milliarden US -Dollar durch einen einzigen Vertrag und den königlichen VAE geleitet
+Fazit: Retail-Leverage wird weiter ausgespült, Langfrist-Akteure akkumulieren leise. Doch mit **Transaktionsgebühren** nahe **Dekaden-Tiefs** und geringer **Mem-Pool-Stauung** wirkt die **On-Chain-Liquidität** dünn – ein Problem für Miner nach dem Halving und ein Umfeld, das in den **September** (historisch schwächster Monat für BTC) in **Konsolidierung** oder tiefere Rücksetzer münden kann.
