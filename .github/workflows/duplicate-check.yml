@@ -1,0 +1,14 @@
+name: Duplicate check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  dedupe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run duplicate finder
+        run: |
+          python3 .github/scripts/find_dupes.py
