@@ -2,33 +2,22 @@
 <article class="post container">
   <header class="post-hero">
 
-    {{/* HERO slika: 1) image_url (remote) 2) image (/images/...) 3) fallback na statičku */}}
+    {{/* HERO slika: 1) image_url 2) image 3) fallback */}}
     {{ $img := or .Params.image_url .Params.image "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg" }}
     {{ $src := $img }}
-    {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
-      {{ $src = $src | absURL }}
-    {{ end }}
+    {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}{{ $src = $src | absURL }}{{ end }}
 
-    <img
-      class="post-hero-img"
-      src="{{ $src }}"
-      alt="{{ .Params.image_alt | default .Title }}"
-      loading="lazy"
-      decoding="async"
-      onerror="this.onerror=null;this.src='/images/bitcoin-btc-ethereum-eth-solana-sol.jpg'">
+    <img class="post-hero-img"
+         src="{{ $src }}"
+         alt="{{ .Params.image_alt | default .Title }}"
+         loading="lazy" decoding="async"
+         onerror="this.onerror=null;this.src='/images/bitcoin-btc-ethereum-eth-solana-sol.jpg'">
 
     <h1 class="post-title">{{ .Title }}</h1>
     <div class="post-meta">
       <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
-      {{ with .Params.category }}
-        · <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
-      {{ end }}
-      {{ with .Params.tags }}
-        · {{ range $i, $t := . }}
-            {{ if $i }}, {{ end }}
-            <a href='{{ "/tags/" | relLangURL }}{{ $t | urlize }}/'>{{ $t }}</a>
-          {{ end }}
-      {{ end }}
+      {{ with .Params.category }} · <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>{{ end }}
+      {{ with .Params.tags }} · {{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href='{{ "/tags/" | relLangURL }}{{ $t | urlize }}/'>{{ $t }}</a>{{ end }}{{ end }}
     </div>
   </header>
 
@@ -49,9 +38,10 @@
     </aside>
   {{ end }}
 
+  {{/* ⬇ PREV/NEXT i RELATED MORAJU BITI UNUTAR BLOKA */}}
+  {{ partial "post-nav.html" . }}
+  {{ partial "related.html" . }}
+
   {{ partial "disclaimer.html" . }}
 </article>
 {{ end }}
-
-{{ partial "post-nav.html" . }}
-{{ partial "related.html" . }}
