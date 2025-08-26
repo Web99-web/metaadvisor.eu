@@ -82,6 +82,40 @@
     .lang-switch .lang:hover{background:#f3f4f6}
     .lang-switch .lang.active{background:#111;color:#fff;border-color:#111}
     .lang-switch .flag{font-size:1rem;line-height:1}
+
+    /* Mobile header fix for home page (index.html only) */
+@media (max-width: 680px){
+  .nav{                       /* header bar */
+    flex-wrap: wrap;
+    height: auto;
+    gap: 8px;
+  }
+  .nav .brand{ order: 1; }    /* logo lijevo, prvi */
+
+  /* Jezične pilule: novi red, cijela širina, vodoravni skrol po potrebi */
+  .nav .lang-switch{
+    order: 2;
+    flex: 1 0 100%;
+    width: 100%;
+    justify-content: flex-start;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    gap: 8px;
+    padding-bottom: .25rem;
+  }
+  .nav .lang-switch .lang{
+    white-space: nowrap;
+    padding: 6px 10px;
+    font-size: .95rem;
+  }
+
+  /* Latest/About na mobitelu sakrivamo (tako si i tražila) */
+  .nav > nav{
+    order: 3;
+    display: none;
+  }
+}
+
   </style>
 </head>
 <body>
