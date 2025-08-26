@@ -1,0 +1,31 @@
+{{- $this := . -}}
+{{- $all := site.GetPage "section" "news" | default .Site -}}
+{{- $candidates := $all.RegularPages -}}
+{{- $tags := .Params.tags | default slice -}}
+
+{{- $rel := where $candidates "Permalink" "ne" .Permalink -}}
+{{- if gt (len $tags) 0 -}}
+  {{- $rel = where $rel "Params.tags" "intersect" $tags -}}
+{{- end -}}
+
+{{- $rel = first 6 (shuffle $rel) -}}
+{{- if gt (len $rel) 0 -}}
+  <h3 style="margin:28px 0 10px">You might also like</h3>
+  <div class="grid" style="grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px">
+    {{- range $rel -}}
+      <a class="card" href="{{ .RelPermalink }}">
+        {{ $img := .Params.image_url | default .Params.image }}
+        {{ if $img }}
+          {{ $src := $img }}{{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}{{ $src = $src | absURL }}{{ end }}
+          <img class="card-img" src="{{ $src }}" alt="{{ .Title }}" loading="lazy" onerror="this.onerror=null;this.src='/images/placeholder-metaadvisor-small.jpg'">
+        {{ else }}
+          <img class="card-img" src="/images/placeholder-metaadvisor-small.jpg" alt="{{ .Title }}" loading="lazy">
+        {{ end }}
+        <div class="card-body">
+          <div class="card-meta"><span class="muted">{{ .Date.Format "2006-01-02" }}</span></div>
+          <h3 style="font-size:16px">{{ .Title }}</h3>
+        </div>
+      </a>
+    {{- end -}}
+  </div>
+{{- end -}}
