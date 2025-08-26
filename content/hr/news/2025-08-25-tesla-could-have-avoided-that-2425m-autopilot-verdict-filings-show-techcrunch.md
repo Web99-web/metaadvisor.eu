@@ -1,24 +1,25 @@
 ---
-title: "Tesla je mogao izbjeći tu presudu autopilota od 242,5 milijuna dolara, show show |TechCrunch"
+title: "Tesla je mogla izbjeći presudu od 242,5 mil. $ za Autopilot, pokazuju spisi | TechCrunch"
 date: 2025-08-25T23:32:47Z
 category: "news"
 translationKey: "fbfa408fa3e5b41521eddd655852769a"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242-5m-autopilot-verdict-filings-show/"
-summary: "Umjesto toga, porota je tužitelju dodijelila 242,5 milijuna dolara kompenzacijske i kaznene štete."
-image_url: "/news/2025-08-25-tesla-could-have-avoided-that-2425m-autopilot-verdict-filings-show-techcrunch.png"
+summary: "Umjesto toga, porota je dodijelila 242,5 mil. $ odštete (kompenzacijske i kaznene)."
+tags: ["tesla","autopilot","verdict","lawsuit","miami","jury","settlement","transportation"]
+image_url: "https://techcrunch.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-20-at-12.40.05-pm.png?w=1200"
 ---
 
-Mjesecima prije nego što je porota dodijelila presudu od 242,5 milijuna dolara protiv Tesle zbog svoje krivnje u fatalnom sudaru 2019. godine, proizvođač automobila imao je priliku podmiriti 60 milijuna dolara.Umjesto toga, Tesla je odbacio tu ponudu, prema novim pravnim prijavama koje je prvi izvijestio Reuters.
+Mjesecima prije nego što je porota dosudila 242,5 milijuna dolara protiv Tesle zbog njezine odgovornosti u smrtonosnoj nesreći iz 2019., proizvođač je, prema novim sudskim podnescima (o kojima je prvi izvijestio Reuters), imao priliku nagoditi se za **60 milijuna dolara** — ali je ponudu odbio.
 
-Prijedlog nagodbe, koji je izvršen u svibnju, objavljen je u podnošenju prijave koja je zatražila Teslinu pokrivanje pravnih naknada za tužitelje u tom slučaju.
+Prijedlog nagodbe iz svibnja otkriven je u podnesku kojim se od Tesle traži da pokrije odvjetničke troškove tužitelja u predmetu.
 
-Ranije ovog mjeseca, porota na saveznom sudu u Miamiju utvrdila je da je Tesla dijelom kriv za kobni sudar za 2019. godinu koji je uključivao upotrebu kompanijskog sustava za pomoć vozaču autopilota.Jedna je osoba ubijena kada je Teslin Model S s autopilotom zaručen kroz raskrižje i udario u Chevrolet Tahoe.Žrtve sudara, Neima Benavides Leon i njezin dečko Dillon Angulo, u to su vrijeme stajali ispred vozila na ramenu.Leon je ubijen dok je Angulo teško ozlijeđen.
+Ranije ovog mjeseca, porota saveznog suda u Miamiju proglasila je Teslu **djelomično odgovornom** za smrtnu nesreću iz 2019. koja je uključivala korištenje sustava pomoći vozaču Autopilot. Jedna je osoba poginula kada je Tesla Model S s uključenim Autopilotom projurio kroz raskrižje i udario u Chevrolet Tahoe. Žrtve nesreće, **Neima Benavides Leon** i njezin dečko **Dillon Angulo**, stajali su tada pokraj vozila; Leon je poginula, a Angulo je teško ozlijeđen.
 
-Vozač, koji u ovom slučaju nije bio okrivljenik, tužio je odvojeno zbog njegove odgovornosti.Tužba je podnesena 2021. godine protiv Tesle usredotočena na autopilot, koji je bio angažiran, ali nije se kočio na vrijeme kako bi izbjegao proći kroz raskrižje.Porota je vozaču dodijelila dvije trećine krivice i pripisala jednu trećinu Tesli.Kao dio presude, porota je u sklopu svoje odluke dodijelila presudu od 242,5 milijuna dolara.
+Vozač, koji nije bio tuženik u ovom predmetu, zasebno je tužen za svoj dio odgovornosti. Tužba podnesena 2021. protiv Tesle fokusirala se na Autopilot koji je bio aktiviran, ali nije zakočio na vrijeme kako bi spriječio prolazak kroz raskrižje. Porota je **dvije trećine krivnje** pripisala vozaču, a **jednu trećinu Tesli**. U sklopu presude dosuđeno je **242,5 milijuna dolara**.
 
-Tesla je, u izjavi koju je TechCrunch pružila ranije ovog mjeseca, rekla da planira žaliti na presudu "s obzirom na značajne pogreške zakona i nepravilnosti na suđenju."
+Tesla je ranije izjavila za TechCrunch da planira **uložiti žalbu** zbog „značajnih pravnih pogrešaka i nepravilnosti na suđenju”.
 
-TechCrunch je kontaktirao odvjetnike tužitelja, kao i Tesla.Vanjska PR tvrtka koja je prethodno dala izjave u ime Tesle odbila je komentirati i usmjerila TechCrunch na adresu tvrtke za tisak.Tesla je prije nekoliko godina raspustio svoj komunikacijski tim.
+TechCrunch je kontaktirao odvjetnike tužitelja kao i Teslu. Vanjska PR agencija koja je ranije davala izjave u ime Tesle odbila je komentirati i uputila TechCrunch na službenu press-adresu kompanije. Tesla je svoj komunikacijski tim raspustila prije nekoliko godina.
 
-Tužba,
+Tužba, broj predmeta **1:21-cv-21940-BB**, podnesena je 2021. na Okružnom sudu SAD-a za Južni okrug Floride.
