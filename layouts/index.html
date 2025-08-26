@@ -126,7 +126,7 @@
               {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
                 {{ $src = $src | absURL }}
               {{ end }}
-              <img class="card-img" src="{{ $src }}" alt="{{ .Title }}" loading="lazy">
+              <img class="card-img" src="{{ $src }}" alt="{{ .Title }}" loading="lazy" onerror="this.onerror=null;this.src='/images/placeholder-metaadvisor-small.jpg'">
             {{ else }}
               <img class="card-img" src="/images/placeholder-metaadvisor-small.jpg" alt="{{ .Title }}" loading="lazy">
             {{ end }}
