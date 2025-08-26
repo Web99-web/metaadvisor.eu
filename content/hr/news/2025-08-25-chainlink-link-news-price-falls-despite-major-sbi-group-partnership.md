@@ -1,27 +1,27 @@
 ---
-title: "Chainlink (Link) Vijesti: Cijena pada unatoč velikom partnerstvu SBI Grupe"
+title: "Chainlink (LINK) — cijena pada unatoč velikom partnerstvu sa SBI Group"
 date: 2025-08-25T17:28:25Z
-category: "ai"
+category: "crypto"
 translationKey: "a54691a2c23ef814b6264765f4f5a3e2"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/25/chainlink-partners-with-sbi-group-advance-tokenized-assets-stablecoins-in-japan"
-summary: "Unatoč glavnom partnerstvu, Link se smanjio za 5% u protekla 24 sata, zajedno sa širom kripto slabošću."
-tags: ["ai"]
-image_url: "/news/2025-08-25-chainlink-link-news-price-falls-despite-major-sbi-group-partnership.png"
+summary: "Unatoč velikom partnerstvu, LINK je u zadnja 24 h pao 5% uz širu slabost kriptotržišta."
+tags: ["crypto","chainlink","link","sbi","japan","ccip","stablecoins","tokenization","rwa","project-guardian","mas","proof-of-reserve"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/d29061902f54783c5b2d589086db14112934e986-700x430.png?auto=format"
 ---
 
-Native token Oracle Network Chainlink Link 23,20 dolara odbijen je u tandemu sa širim tržištem kriptovaluta, unatoč svježem partnerstvu s japanskim financijskim gigantama SBI Group.
+Izvorni token oracle mreže Chainlink **LINK $ 23.20** pao je u skladu sa širim kriptotržištem unatoč svježem partnerstvu s japanskim financijskim gigantom **SBI Group**.
 
-Link se smanjio na 24,4 USD, što je pad više od 6% u posljednja 24 sata, pokazuju podaci Coindesk.To je oštar preokret od petka u godini do 27 dolara.
+**LINK** je pao na **$24,4**, više od **-6%** u zadnja 24 sata, pokazuju CoinDeskovi podaci — oštar zaokret u odnosu na **godišnji vrh iznad $27** u petak.
 
-Putanje prema dolje ubrzana je uzastopnim trgovačkim sesijama s trajnim nižim vrhovima, dok je zaključni sat pokazao stagnaciju s zanemarivim volumenom, sugerirajući potencijalnu konsolidaciju, prema modelu tehničke analize Coindesk Research.
+Silazna putanja ubrzala je kroz uzastopne trgovačke sesije s upornim nižim vrhovima, dok je završni sat pokazao stagnaciju uz zanemariv volumen, što sugerira moguću konsolidaciju, navodi tehnički model **CoinDesk Researcha**.
 
-Na strani vijesti, SBI Group, jedan od najvećih japanskih financijskih konglomerata, rekao je u ponedjeljak da se udružio s Chainlink-om za razvoj tokenizirane imovine i stabblecoin rješenja u Japanu, s budućim planovima za proširenje na druga azijsko-pacifička tržišta.
+S novinarske strane, **SBI Group**, jedan od najvećih japanskih financijskih konglomerata, u ponedjeljak je objavio partnerstvo s **Chainlinkom** na razvoju rješenja za **tokeniziranu imovinu** i **stablecoine** u Japanu, uz planove širenja u **APAC** regiju.
 
-SBI će upotrijebiti protokol unakrsne interoperabilnosti Chainlinka (CCIP) za podršku transakcija u različitim blockchainima uz održavanje usklađenosti.Tvrtke će također testirati tokenizirane fondove donošenjem podataka o neto vrijednosti imovine i istraživanjem nagodbe plaćanja nasuprot plaćanju za devizne i prekogranične transakcije.LanacLink -ov dokaz o rezervi koristit će se za provjeru rezervi StableCoin -a.
+**SBI** će koristiti **Chainlinkov Cross-Chain Interoperability Protocol (CCIP)** za podršku transakcijama između različitih lanaca uz očuvanje usklađenosti. Tvrtke će testirati **tokenizirane fondove** dovodeći **NAV** podatke on-chain te istražiti **payment-versus-payment (PvP)** poravnanje za **FX** i prekogranične transakcije. **Chainlinkov Proof of Reserve** koristit će se za provjeru rezervi stablecoina.
 
-SBI i Chainlink prethodno su surađivali u Singapurskom projektu Guardian, monetarnoj inicijativi za monetarnu upravu Singapura (MAS) koja istražuje uporabu blockchaina u financijama.
+**SBI** i **Chainlink** ranije su surađivali u sklopu **Project Guardian** iz Singapura, inicijative **MAS-a** koja istražuje primjenu blockchaina u financijama.
 
-Izjava o odricanju odgovornosti: Dijelovi ovog članka generirani su uz pomoć AI alata i pregledali su ga naš urednički tim kako bi se osigurala točnost i pridržavanje naših standarda.Za više informacija pogledajte Coindesk -ovu punu AI politiku.
+*Odricanje od odgovornosti:* dijelovi ovog članka izrađeni su uz pomoć AI alata i urednički pregledani radi točnosti i standarda. Više u **CoinDesk AI Policy**.
 
-Krisztian Sandor novinar je američkog tržišta koji se fokusira na stabiblekoine, tokenizaciju, stvarnu imovinu.Diplomirao je na Sveučilištu New York
+**Krisztian Sandor** je američki izvjestitelj koji pokriva stablecoine, tokenizaciju i RWA. Diplomirao je poslovno i ekonomsko izvještavanje na NYU prije nego što se pridružio CoinDesku. Posjeduje **BTC, SOL i ETH**.
