@@ -1,25 +1,24 @@
 name: Duplicate check
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
+  workflow_dispatch: {}           # ručno pokretanje iz Actions taba
+  schedule:
+    - cron: "15 05 * * *"        # 1× dnevno u 05:15 UTC (promijeni po želji)
 
 jobs:
   dedupe:
     runs-on: ubuntu-latest
+    concurrency:
+      group: duplicate-check
+      cancel-in-progress: true
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Run duplicate finder
         run: python3 .github/scripts/find_dupes.py
-
-
