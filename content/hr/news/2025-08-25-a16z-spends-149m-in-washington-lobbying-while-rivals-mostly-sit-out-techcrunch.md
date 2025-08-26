@@ -1,22 +1,23 @@
 ---
-title: "A16Z troši 1,49 milijuna dolara u lobiranju u Washingtonu, dok suparnici uglavnom sjede |TechCrunch"
+title: "a16z troši 1,49 mil. $ na lobiranje u Washingtonu, dok rivali uglavnom izostaju | TechCrunch"
 date: 2025-08-25T23:17:27Z
 category: "news"
 translationKey: "d02028ff951b11e30173beb4d4241c63"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-lobbying-while-rivals-mostly-sit-out/"
-summary: "Venture Giant Andreessen Horowitz gori novac kako bi oblikovao politiku na brdu."
-image_url: "/news/2025-08-25-a16z-spends-149m-in-washington-lobbying-while-rivals-mostly-sit-out-techcrunch.jpg"
+summary: "VC div Andreessen Horowitz troši novac kako bi oblikovao politiku na Capitol Hillu."
+tags: ["venture-capital","a16z","lobbying","washington","crypto","stablecoins","ai","defense"]
+image_url: "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?w=1200"
 ---
 
-Andreessen Horowitz plan da potakne svoj dnevni red u Washingtonu ne pokazuje znakove usporavanja, a tvrtka je ove godine prijavila 1,49 milijuna dolara u saveznom lobiranju, prema podacima o lobiranju podnesenih Kongresu.A16Z čak je usko nadmašio vlastitu industrijsku trgovinsku skupinu, Nacionalno udruženje rizičnog kapitala.
+Plan Andreessena Horowitza da gura svoju agendu u Washingtonu ne pokazuje znakove usporavanja; tvrtka je, prema registrima lobiranja podnesenima Kongresu, prijavila 1,49 milijuna dolara federalnog lobiranja dosad ove godine. a16z čak troši malo više od vlastite strukovne udruge, National Venture Capital Association.
 
-Čini se da tempo lobiranja ubrzava od prošle godine, navodi se u TechCrunch pregledu otkrivanja lobiranja.A16Z je potrošio 1,8 milijuna dolara na lobiranje u svih 2024. i 950.000 USD u 2023. godini.
+Tempo lobiranja čini se bržim nego prošle godine, prema TechCrunchovom pregledu objava o lobiranju. a16z je na lobiranje u cijeloj 2024. potrošio 1,8 milijuna dolara, a 2023. godine 950.000 dolara.
 
-A16Z -ova strategija lobiranja ističe se među glavnim VC firmi, od kojih većina još uvijek izvještava malo ili saveznog lobiranja.Sequoia Capital izvijestio je o samo 120.000 USD u do danas, dok je General Catalyst u istom razdoblju 500.000 USD.Za usporedbu, potrošnja A16Z -a samo je ispred 1,40 milijuna dolara NVCA -e.
+Strategija lobiranja a16z-a odskače među velikim VC fondovima, od kojih većina i dalje prijavljuje malo ili nimalo federalnog lobiranja. Sequoia Capital je dosad ove godine prijavila svega 120.000 dolara, dok je General Catalyst na 500.000 dolara za isto razdoblje. Za usporedbu, potrošnja a16z-a tek je nešto iznad 1,40 milijuna dolara NVCA-e.
 
-Kao odgovor na pitanja, osoba A16Z uputila je TechCrunch na članke koje su napisali suosnivači tvrtke o njegovim stavovima o politici i dnevnom redu "Little Tech".U jednom članku u prosincu 2023., suosnivač Ben Horowitz rekao je da tvrtka nije birači nestranaka i jednog izdanja: „Ako kandidat podržava budućnost optimistične tehnologije, mi smo za njih. Ako se žele ugušiti važne tehnologije, mi smo protiv njih.“
+Na upite, osoba iz a16z-a uputila je TechCrunch na članke koje su napisali suosnivači o stavovima tvrtke prema politici i agendi “Little Tech”. U jednom članku iz prosinca 2023. suosnivač Ben Horowitz rekao je da je tvrtka nestranačka i da glasuje po jednoj temi: “Ako kandidat podupire optimističnu, tehnologijom omogućenu budućnost, za njega smo. Ako želi ugušiti važne tehnologije, protiv njega smo.”
 
-Uobičajeni tim za lobiranje tvrtke ima zadatak utjecati na zakonodavce na širok raspon problema, od regulacije digitalne imovine, Stablecoina i AI.Dok su A16Z -ovi potezi oblikovanja zakona oko kriptovaluta dobro dokumentirani, otkrivanja lobiranja pokazuju kako je tvrtka postavila još ambicioznije znamenitosti u oblikovanju obrambenih prioriteta u zemlji.
+Interni tim za lobiranje zadužen je utjecati na zakonodavce o širokom spektru pitanja — od regulacije digitalne imovine, stablecoina i AI-ja. Dok su potezi a16z-a da oblikuje zakone oko kripta dobro dokumentirani, objave o lobiranju pokazuju kako je tvrtka postavila još ambicioznije ciljeve oko oblikovanja obrambenih prioriteta zemlje.
 
-Obrana se prvi izričito pojavljuje u izvješću A16Z -a iz trećeg tromjesečja iz 2023. godine, što je dodalo Zakon o autorizaciji Nacionalne obrane kao specifično pitanje lobiranja.Tvrtka je nastavila lobirati na
+Obrana se prvi put izričito pojavljuje u izvješću a16z-a za treći kvartal 2023., koje je kao posebno pitanje lobiranja dodalo Zakon o odobrenju nacionalne obrane (NDAA). Tvrtka je nastavila lobirati za…
