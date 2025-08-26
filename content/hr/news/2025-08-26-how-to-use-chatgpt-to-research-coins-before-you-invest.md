@@ -1,12 +1,46 @@
 ---
-title: "Kako koristiti chatgpt za istraživanje kovanica prije nego što uložite"
-date: 2025-08-26T06:27:54Z
-category: "ai"
-translationKey: "cbbfb018469b5182c7d613abeb9d83f1"
-source: "CoinTelegraph"
-source_url: "https://cointelegraph.com/news/how-to-use-chatgpt-to-research-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-summary: "<p style = 'Float: desno; margina: 0 0 10px 15px; širina: 240px;'> <img alt = 'kako koristiti chatgpt za istraživanje kovanica prije nego što uložite'src = 'https://images.cointelegraph.com/images/528_AHR0CHM6ly9ZMY5JB2LUDGVSZWDYXBOLmnvbs91"
-tags: ["ai"]
+title: "Kako koristiti ChatGPT za istraživanje coina prije ulaganja"
+date: 2025-08-26T06:00:00Z
+category: "crypto"
+translationKey: "6d9b3a7a0e0542f7b7f7a0d3b6b1c9a1"
+source: "MetaAdvisor"
+source_url: "https://metaadvisor.eu/hr/news/2025-08-26-kako-koristiti-chatgpt-za-istrazivanje-coina-prije-ulaganja"
+summary: "Brzi, strukturirani due diligence uz ChatGPT — od tokenomike i unlockova do sigurnosti, regulative, on-chain metrika i konkurencije."
+tags: ["crypto","chatgpt","due-diligence","research","tokenomics","vesting","unlock","risk","security","regulation","defi","dex","cex","prompt-engineering"]
+image_url: "/news/2025-08-26-how-to-use-chatgpt-to-research-coins-before-you-invest.jpg"
 ---
 
-Pročitajte cijeli članak: https://cointelegraph.com/news/how-to-use-chatgpt-toresearch-coins?utm_source=rsss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+> Nije financijski savjet. Brojke i tvrdnje uvijek provjeri u primarnim izvorima i analitičkim alatima.
+
+**1) Brzi pregled projekta (one-pager)**  
+_Prompt:_ “Sažmi **{COIN}** u 8 rečenica: problem, rješenje, status proizvoda, tim/investitori, ključni rizici, konkurencija i teza ulaganja. Dodaj službene linkove.”
+
+**2) Osnovni izvori**  
+Traži: službeni web, whitepaper/docs, GitHub, blog, X, Discord/Telegram — uz **točne URL-ove** i kratki opis.
+
+**3) Tokenomika (MC vs. FDV, emisija)**  
+_Prompt:_ “Izračunaj trenutačni **market cap** i **FDV** za {COIN}. Navedi cirkulirajuću/ukupnu zalihu, alokaciju (team/trezor/investitori), emisijski raspored i utility.”
+
+**4) Vesting & otključavanja**  
+_Prompt:_ “Izradi **kalendar unlockova** iz službenih izvora i procijeni mogući sell-pressure (otključani % / prosječni dnevni volumen).”
+
+**5) On-chain zdravlje i korištenje**  
+Checklista: **TVL, aktivni korisnici, volumen, naknade, prihodi protokola, koncentracija holdera, likvidnost poolova**. Gdje tražiti: **DefiLlama, Token Terminal, Etherscan/Arbiscan, DexScreener**.
+
+**6) Sigurnost i operativni rizik**  
+_Prompt:_ “Navedi audite (tvrtke, datumi, linkovi), bug-bounty, multisig pragove, poznate incidente i post-morteme.”
+
+**7) Pravna/regulatorna slika**  
+Sažmi rizike po jurisdikcijama, status stabilnih kovanica (ako postoji) i elemente koji mogu nalikovati vrijednosnom papiru. Sve **ručno** potvrdi.
+
+**8) Ekosustav i konkurencija**  
+_Prompt:_ “Složi **peer set** (5–8 konkurenata) i usporedi 10 metrika (MC, FDV, TVL, korisnici, prihodi, emisija, unlockovi, dev aktivnost…).”
+
+**9) Crvene zastavice**  
+Visok FDV/niski prihodi, centralizirana distribucija, agresivni unlockovi, nerealni APY-i, marketing bez proizvoda, anoniman/neprovjeren tim.
+
+**10) Završni investicijski memo**  
+_Prompt:_ “Izradi **jednolistni memo**: teza, ključne metrike, 3 bull & 3 bear faktora, katalizatori (mainnet, CEX listing, unlock), **matrica rizika (1–5)**.”
+
+**Bonus — testiraj vlastitu tezu**  
+Zatraži **steelman** kontra-argumente i “što bi me spriječilo da uložim”, plus plan praćenja (metrika + intervali).
