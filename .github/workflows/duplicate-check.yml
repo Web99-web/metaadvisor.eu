@@ -2,13 +2,24 @@ name: Duplicate check
 
 on:
   push:
+    branches: [ main ]
   pull_request:
 
 jobs:
   dedupe:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
       - name: Run duplicate finder
-        run: |
-          python3 .github/scripts/find_dupes.py
+        run: python3 .github/scripts/find_dupes.py
+
+
