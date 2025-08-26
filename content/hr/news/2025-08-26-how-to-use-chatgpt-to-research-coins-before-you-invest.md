@@ -7,7 +7,8 @@ source: "MetaAdvisor"
 source_url: "https://metaadvisor.eu/hr/news/2025-08-26-kako-koristiti-chatgpt-za-istrazivanje-coina-prije-ulaganja"
 summary: "Brzi, strukturirani due diligence uz ChatGPT — od tokenomike i unlockova do sigurnosti, regulative, on-chain metrika i konkurencije."
 tags: ["crypto","chatgpt","due-diligence","research","tokenomics","vesting","unlock","risk","security","regulation","defi","dex","cex","prompt-engineering"]
-image_url: "/news/2025-08-26-how-to-use-chatgpt-to-research-coins-before-you-invest.jpg"
+image_url: "/static/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+image_thumb: "/static/images/placeholder-metaadvisor-small.jpg"
 ---
 
 > Nije financijski savjet. Brojke i tvrdnje uvijek provjeri u primarnim izvorima i analitičkim alatima.
@@ -37,10 +38,4 @@ Sažmi rizike po jurisdikcijama, status stabilnih kovanica (ako postoji) i eleme
 _Prompt:_ “Složi **peer set** (5–8 konkurenata) i usporedi 10 metrika (MC, FDV, TVL, korisnici, prihodi, emisija, unlockovi, dev aktivnost…).”
 
 **9) Crvene zastavice**  
-Visok FDV/niski prihodi, centralizirana distribucija, agresivni unlockovi, nerealni APY-i, marketing bez proizvoda, anoniman/neprovjeren tim.
-
-**10) Završni investicijski memo**  
-_Prompt:_ “Izradi **jednolistni memo**: teza, ključne metrike, 3 bull & 3 bear faktora, katalizatori (mainnet, CEX listing, unlock), **matrica rizika (1–5)**.”
-
-**Bonus — testiraj vlastitu tezu**  
-Zatraži **steelman** kontra-argumente i “što bi me spriječilo da uložim”, plus plan praćenja (metrika + intervali).
+Visok FDV/nis
