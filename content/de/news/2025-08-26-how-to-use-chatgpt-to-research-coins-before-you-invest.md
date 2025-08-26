@@ -7,7 +7,8 @@ source: "MetaAdvisor"
 source_url: "https://metaadvisor.eu/de/news/2025-08-26-wie-man-chatgpt-nutzt-um-coins-vor-dem-investment-zu-recherchieren"
 summary: "Strukturierte Krypto-Due-Diligence mit ChatGPT — von Tokenomics und Unlocks bis Sicherheit, Regulierung, On-Chain-Metriken und Wettbewerb."
 tags: ["crypto","chatgpt","due-diligence","research","tokenomics","vesting","unlock","risk","security","regulation","defi","dex","cex","prompt-engineering"]
-image_url: "/news/2025-08-26-how-to-use-chatgpt-to-research-coins-before-you-invest.jpg"
+image_url: "/static/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+image_thumb: "/static/images/placeholder-metaadvisor-small.jpg"
 ---
 
 > Kein Finanzrat. Zahlen und Aussagen stets in Primärquellen/Tools gegenprüfen.
@@ -25,22 +26,4 @@ _Prompt:_ „Berechne **Market Cap** & **FDV** für {COIN}. Liste zirkulierendes
 _Prompt:_ „Erstelle einen **Unlock-Kalender** aus Primärquellen und quantifiziere potenziellen Verkaufsdruck (freigeschalteter % / Ø Tagesvolumen).“
 
 **5) On-Chain-Gesundheit & Nutzung**  
-Checkliste: **TVL, aktive Nutzer, Volumen, Fees, Protokollumsätze, Holder-Konzentration, Pool-Liquidität**. Quellen: **DefiLlama, Token Terminal, Etherscan/Arbiscan, DexScreener**.
-
-**6) Sicherheit & Betriebsrisiko**  
-_Prompt:_ „Audits (Firmen, Daten, Links), Bug-Bounty, Multisig-Thresholds, bekannte Incidents & Post-Mortems.“
-
-**7) Recht/Regulierung**  
-Jurisdiktions-Risiken, Stablecoin-Status (falls relevant), mögliche Wertpapier-Charakteristika. **Manuell** verifizieren.
-
-**8) Ökosystem & Konkurrenz**  
-_Prompt:_ „Baue ein **Peer-Set** (5–8 Projekte) und vergleiche 10 Metriken (MC, FDV, TVL, Nutzer, Umsatz, Emission, Unlocks, Dev-Aktivität …).“
-
-**9) Red Flags**  
-Hohes FDV/geringe Erlöse, starke Token-Zentralisierung, aggressive Unlocks, unrealistische APYs, nur Social-Hype, anonymes/unverifiziertes Team.
-
-**10) Abschluss-Investment-Memo**  
-_Prompt:_ „Erstelle ein **Ein-Seiten-Memo**: These, Kennzahlen, 3 Bull- & 3 Bear-Punkte, Katalysatoren (Mainnet, CEX-Listing, Unlock), **Risikomatrix (1–5)**.“
-
-**Bonus — These falsifizieren**  
-Bitte um **Steelman**-Gegenargumente und „Was würde mich vom Investment abhalten?“ plus Monitoring-Plan.
+Checkliste: **TVL, aktive Nutzer, Volumen, Fees, Protokollumsätze, Holder-Konzentration, Pool-Liquidität**. Quellen: **DefiLlama, Token Terminal, Ethersc**
