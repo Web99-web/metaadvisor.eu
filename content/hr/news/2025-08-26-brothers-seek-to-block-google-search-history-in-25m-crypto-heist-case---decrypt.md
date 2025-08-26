@@ -1,31 +1,27 @@
 ---
-title: "Braća nastoje blokirati povijest pretraživanja Google u slučaju kriptovaluta od 25 milijuna dolara - dešifrira"
+title: "Braća žele blokirati Google povijest pretraga u slučaju kripto pljačke od 25 mil. $ | Decrypt"
 date: 2025-08-26T05:45:47Z
 category: "crypto"
 translationKey: "ba178e63d62cebeecdd21e493bf0fbe5"
 source: "Decrypt"
 source_url: "https://decrypt.co/336836/brothers-seek-block-google-searches-25m-crypto-heist-case"
-summary: "Kažu da optuženi traže 'vrhunski kripto odvjetnici' i 'statut prijevara žice' zaštićeni su privilegijom odvjetnika-klijent."
-tags: ["crypto"]
-image_url: "/news/2025-08-26-brothers-seek-to-block-google-search-history-in-25m-crypto-heist-case---decrypt.png"
+summary: "Optuženi tvrde da su pretrage 'top crypto lawyers' i 'wire fraud statute' zaštićene odvjetničkom tajnom."
+tags: ["crypto","ethereum","eth","mev","google","search-history","attorney-client-privilege","wire-fraud","mit","manhattan","peraire-bueno"]
+image_url: "https://img.decrypt.co/insecure/rs%3Afit%3A3840%3A0%3A0%3A0/plain/https%3A//cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png%40webp"
 ---
 
-Braća nastoje blokirati povijest pretraživanja Googlea u slučaju kriptovaluta od 25 milijuna dolara
+Braća školovana na MIT-u, optužena da su navodno ukrala **25 milijuna dolara** u kriptu iskorištavanjem blockchaina, pokušavaju spriječiti da njihova **Google povijest pretraga** uđe u spis, tvrdeći da tužitelji žele nepravedno koristiti upite poput “**top crypto lawyers**” i “**wire fraud statute of limitations**” kako bi dokazali namjeru.
 
-Dvoje braće s obrazovanjem MIT-a optužena da su navodno ukrali 25 milijuna dolara kriptovaluta kroz eksploataciju blockchaina bore se kako bi svoju Googleovu povijest pretraživanja ostavila izvan suda, rekavši da savezni tužitelji žele nepravedno koristiti potrage za "vrhunskim kripto pravnicima" i "žičanim prevarama" kako bi se postavili kriminalistički intenzite.
+**Anton i James Peraire-Bueno** podnijeli su zahtjev saveznom sudu na Manhattanu u petak, navodeći da su pretrage “nepravedno predrasudne” i da su se dogodile tijekom **privilegirane komunikacije s odvjetnicima** nakon navodne pljačke u travnju 2023.
 
-Anton i James Peraire-Bueno podnijeli su u petak prijedlog na saveznom sudu na Manhattanu, tvrdeći da su pretrage "nepravedno štetne" i dogodile su se tijekom povlaštenih savjetovanja od odvjetnika nakon njihovog navodnog pljačke u travnju 2023. godine.
+Sutkinja **Jessica G.L. Clarke** mora odlučiti mogu li pretrage provedene nakon navodnog kaznenog djela pokazivati **svijest o krivnji** ili tek razborito traženje pravnog savjeta.
 
-Američka okružna sutkinja Jessica G. L. Clarke sada mora odlučiti mogu li potraga provedena nakon navodnog kriminala pokazati svijest o krivnji ili jednostavno odražavati oprezna pravna savjetovanja tijekom istrage.
+Braća su uhićena u svibnju 2024. zbog **urote, prijevare žicom i pranja novca**; tužitelji slučaj opisuju kao “**prvu takve vrste manipulaciju Ethereum blockchaina**”.
 
-Braća su uhićena u svibnju 2024. godine zbog zavjere, prijevara u žičama i optužbi za pranje novca, a tužitelji su je nazvali "manipuliranjem prvom od strane Ethereum blockchaina."
+Vlasti tvrde da su iskoristila svoje **specijalizirane vještine i obrazovanje** za eksploataciju **MEV-boost** sustava u travnju 2023., presrećući privatne transakcije i preusmjeravajući **25 mil. $** u samo **12 sekundi**.
 
-Vlasti navode da su koristili svoje "specijalizirane vještine i obrazovanje" za iskorištavanje Ethereuma-ovog sustava za jabuke u travnju 2023., lažno presrećući privatne transakcije i preusmjeravajući 25 milijuna dolara u samo 12 sekundi.
+Sudski spisi pokazuju da su odmah angažirali odvjetnike nakon što su ih “**anonymous sandwich attackers**” navodno **prijetnjama** tražili povrat sredstava.
 
-Sudski dokumenti otkrivaju da su zadržali savjetnike odmah nakon što su ih "prijetili anonimnim napadačima sendviča" koji su zahtijevali povratak navodno ukradenih sredstava.
+Obrana je dostavila **privilege logove** koji pokazuju da su Google pretrage točno koincidirale s komunikacijama s odvjetnicima. Pretraga “**top crypto lawyers**” dogodila se istog dana kad i “**komunikacije s potencijalnim odvjetnicima**” radi zastupanja, navodi se.
 
-Branitelji su pružili detaljne zapisnike o privilegiranju koji pokazuju Google pretraživanja, upravo su se podudarali s odvjetničkim komunikacijama.
-
-Potraga za "vrhunskim odvjetnicima kriptovaluta" dogodila se istog dana kao "komunikacija s potencijalnim odvjetnicima koji traže zakonsko zastupanje", prema sudskim podnescima.
-
-"Da bi vlada tvrdila njezin preferirani zaključak (tj. Svijest o krivnji
+“Kako bi vlada mogla zagovarati svoju preferiranu inferenciju (tj. svijest o krivnji …”
