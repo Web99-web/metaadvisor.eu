@@ -264,3 +264,47 @@ a:hover { text-decoration: underline; }
   /* 5) Meni tipke malo kompaktnije da ne pucaju */
   .btn-link { padding: 6px 9px !important; font-size: .95rem !important; }
 }
+
+/* === FINAL MOBILE HEADER FIX (append at end) ============================ */
+@media (max-width: 680px){
+  .site-header .header-inner{
+    flex-wrap: wrap !important;
+    height: auto !important;
+    min-height: 56px !important;
+  }
+
+  .site-header .brand{ order: 1 !important; }
+
+  /* Jezične pilule: uvijek novi red, cijela širina, po potrebi vodoravni skrol */
+  .site-header .lang-switch{
+    order: 2 !important;
+    flex: 1 0 100% !important;
+    width: 100% !important;
+    justify-content: flex-start !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    gap: 8px !important;
+    padding-bottom: .25rem !important;
+  }
+  .site-header .lang-switch .lang{
+    white-space: nowrap !important;
+    padding: 6px 10px !important;
+    font-size: .95rem !important;
+  }
+
+  /* Meni ide ispod jezika i ne gura ništa udesno… ali ga odmah i skrivamo */
+  .site-header .nav{
+    order: 3 !important;
+    margin-left: 0 !important;
+    gap: 8px !important;
+    flex-wrap: wrap !important;
+  }
+
+  /* → Ne trebaju nam “Latest / About” na vrhu na mobitelu */
+  .site-header .nav{ display: none !important; }
+}
+
+/* OPTIONAL (ako želiš sakriti Latest/About svugdje, ne samo na mobu):
+.site-header .nav{ display: none !important; }
+*/
+
