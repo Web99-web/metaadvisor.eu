@@ -1,27 +1,27 @@
 ---
-title: "Dogovor za dobivanje chatgpt Plus za cijeli Velika Britanija o kojoj je raspravljao otvoreni šef AI -ja i ministar"
+title: "Dogovor o ChatGPT Plusu za cijelo UK raspravljali šef OpenAI-ja i ministar"
 date: 2025-08-23T16:00:05Z
 category: "ai"
 translationKey: "e146e28e4eb53be53032b269ca4a8753"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/politics/2025/aug/23/uk-minister-peter-kyle-chatgpt-plus-openai-sam-altman"
-summary: "EKSKLUZIVNO: Dogovor koji bi mogao koštati 2 milijarde funti plutao je na sastanku između tehnološkog tajnika Petera Kylea i Sama Altmana"
-tags: ["ai"]
-image_url: "/news/2025-08-23-deal-to-get-chatgpt-plus-for-whole-of-uk-discussed-by-open-ai-boss-and-minister.jpg"
+summary: "Ekskluzivno: Dogovor koji bi mogao stajati 2 mlrd £ spomenut je na sastanku između ministra za tehnologiju Petera Kylea i Sama Altmana"
+tags: ["ai", "openai", "chatgpt", "uk", "public-services"]
+image_url: "https://i.guim.co.uk/img/media/55e045641d9df43e2f4c6ecfd36161da879a7b45/609_0_3502_2801/master/3502.jpg?crop=none&dpr=1&s=none&width=1200"
 ---
 
-EKSKLUZIVNO: Dogovor koji bi mogao koštati 2 milijarde funti plutao je na sastanku između tehnološkog tajnika Petera Kylea i Sama Altmana
+Ekskluzivno: Dogovor koji bi mogao stajati 2 mlrd £ spomenut je na sastanku između ministra za tehnologiju Petera Kylea i Sama Altmana
 
-Šef tvrtke koja stoji iza Chatgpt-a i britanskog sekretara tehnologije razgovarao je o višemilijunskom ugovoru kako bi čitavoj zemlji premium pristupio AI alatu, saznao je Guardian.
+Šef tvrtke iza ChatGPT-a i britanski ministar za tehnologiju razgovarali su o višemilijardskom dogovoru kojim bi cijela zemlja dobila premium pristup AI alatu, doznaje Guardian.
 
-Sam Altman, suosnivač OpenAi-a, razgovarao je s Peterom Kyleom o potencijalnom sporazumu kako bi stanovnici Velike Britanije omogućili pristup svom naprednom proizvodu.
+Sam Altman, suosnivač OpenAI-ja, razgovarao je s Peterom Kyleom o potencijalnom sporazumu kojim bi stanovnici Ujedinjenog Kraljevstva dobili pristup naprednom proizvodu.
 
-Prema dva izvora s izravnim znanjem o sastanku, ideja je plutala kao dio šire rasprave u San Franciscu o mogućnostima za suradnju između OpenAi -a i Velike Britanije.
+Prema dvama izvorima s izravnim uvidom u sastanak, ideja je spomenuta kao dio šire rasprave u San Franciscu o mogućnostima suradnje između OpenAI-ja i Ujedinjenog Kraljevstva.
 
-Oni koji su bliski raspravi kažu da je Kyle nikada nije shvaćao ideju ozbiljno, posebno zato što bi mogla koštati čak 2 milijarde funti.No, razgovori pokazuju entuzijazam s kojim je tajnik tehnologije prihvatio sektor umjetne inteligencije, unatoč zabrinutosti zbog točnosti nekih chatbot odgovora i implikacija na privatnost i autorska prava.
+Osobe bliske razgovorima kažu da Kyle ideju nije doista ozbiljno razmatrao, ponajprije zato što bi mogla koštati i do 2 mlrd £. No razgovori pokazuju s koliko je entuzijazma ministar prigrlio sektor umjetne inteligencije, unatoč zabrinutostima oko točnosti odgovora nekih chatbota te implikacija za privatnost i autorska prava.
 
-OpenAI nudi besplatne i pretplatničke verzije chatgpt.Plaćena verzija, chatgpt Plus, košta 20 dolara mjesečno i korisnicima pruža brže vrijeme odziva i prioritet pristup novim značajkama.
+OpenAI nudi besplatnu i pretplatničku verziju ChatGPT-a. Plaćena verzija, ChatGPT Plus, košta 20 USD mjesečno i daje korisnicima brže odgovore te prioritetni pristup novim značajkama.
 
-Kyle je večerao s Altmanom u ožujku i travnju, prema podacima o transparentnosti koje je objavila vlada Velike Britanije.U srpnju je Kyle potpisao sporazum s OpenAi -om za korištenje AI u britanskim javnim službama.Neoblisni ugovor mogao bi Openai omogućiti pristup vladinim podacima i dovesti do toga da se njegov softver koristi u obrazovanju, obrani, sigurnosti i pravosudnom sustavu.
+Kyle je u ožujku i travnju večerao s Altmanom, prema podacima o transparentnosti koje je objavila britanska vlada. U srpnju je Kyle potpisao sporazum s OpenAI-jem o korištenju AI-ja u javnim službama Ujedinjenog Kraljevstva. Neobvezujući sporazum mogao bi OpenAI-ju dati pristup vladinim podacima i dovesti do primjene njihova softvera u obrazovanju, obrani, sigurnosti i pravosuđu.
 
-Kyle je bio vokalni prvak AI unutar vlade i također je prihvatio svoju upotrebu u svojoj ulozi.U ožujku se pokazalo da je zatražio chatgpt za savjet o nizu pitanja vezanih uz posao, uključujući zašto britanska poduzeća ne usvajaju AI i što
+Kyle je u vladi glasni zagovornik AI-ja i primjenjuje ga i u vlastitom radu. U ožujku se doznalo da je savjet tražio od ChatGPT-a o nizu pitanja vezanih uz posao, uključujući zašto britanska poduzeća ne usvajaju AI i što…
