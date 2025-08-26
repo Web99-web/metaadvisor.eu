@@ -1,29 +1,27 @@
 ---
-title: "Trump Crypto News: Trgovci polimarketa sumnjaju da Trump može srušiti Powella ili kuhati ove godine"
+title: "Trump kripto vijesti: Polymarket trgovci sumnjaju da Trump može srušiti Powella ili Cook ove godine"
 date: 2025-08-26T05:00:58Z
 category: "crypto"
 translationKey: "ca7d495eaafd41f4a43570c08ca1f3a8"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/26/polymarket-bettors-doubt-trump-can-topple-jerome-powell-or-lisa-cook-this-year"
-summary: "PolyMarket vidi kako Powell završava 2025. godine netaknut, čak i dok Trumpova nastojanja da izbaci Lisa Cook testira Fedov pravni štit."
-tags: ["crypto"]
-image_url: "/news/2025-08-26-trump-crypto-news-polymarket-traders-doubt-trump-can-topple-powell-or-cook-this.png"
+summary: "Polymarket vidi Powella kako završava 2025. neokrznut, iako Trumpov pokušaj smjene Lise Cook testira pravni štit Feda."
+tags: ["crypto","bitcoin","btc","polymarket","federal-reserve","jerome-powell","lisa-cook","trump","prediction-markets"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/929953de00b8159334b5ec0383ac3b9730ea74c8-1536x998.png?auto=format"
 ---
 
-Tržišta predviđanja signaliziraju skepticizam da će Donald Trump moći prebaciti Federalne rezerve svojoj volji ove godine, čak i dok američki predsjednik kreće u otpuštanje guvernera Feda zbog onoga za što vjeruje da je upravo razlog.
+Tržišta predviđanja signaliziraju skepsu da će Donald Trump moći saviti **Federalne rezerve** prema svojoj volji ove godine — iako američki predsjednik pokušava smijeniti guvernericu Feda za, kako tvrdi, opravdan uzrok.
 
-Na PolyMarketu, kladionice su stavili priliku da Jerome Powell bude prisiljen kao predsjedavajući Feda 2025. godine sa samo 10%, sugerirajući da ulagači ne vjeruju da Trump može nadjačati neovisnost središnje banke prije nego što Powell -ov termin istekne u svibnju 2026. godine.
+Na **Polymarketu** kladitelji daju tek **10%** šanse da **Jerome Powell** bude prisiljen otići s mjesta predsjednika Feda u 2025., što sugerira da ulagači ne vjeruju kako Trump može nadjačati neovisnost središnje banke prije isteka Powellova mandata u **svibnju 2026.**
 
-Trumpov pritisak da puca guvernerka, Lisa Cook, pripovijeda drugačiju priču.Želi da je ukloni zbog navoda o prijevari hipoteke, po pismu objavljenom na istini Social, što ju je učinilo prvim sjedećim guvernerom koji je ikada bio na meti predsjedničkog otpuštanja.
+Trumpov pokušaj smjene guvernerice **Lise Cook** priča drukčiju priču. Želi je ukloniti zbog navodne **hipotekarne prijevare**, prema pismu objavljenom na **Truth Socialu**, čime bi postala prva aktualna guvernerica na meti predsjedničke smjene.
 
-Cook je, međutim, odbio odstupiti, tvrdeći da se "zbog uzroka" uklanjanja moraju prijaviti na nedolično ponašanje na vlasti, a ne privatnim financijskim poslovima koji su predviđali njezino imenovanje.
+Cook, međutim, odbija odstupiti, tvrdeći da se smjene “**iz opravdanog razloga**” moraju odnositi na **postupanje u dužnosti**, a ne na privatne financijske radnje koje prethode imenovanju.
 
-Tržišta cijene 27% šanse za Cookove istrošenosti do 31. prosinca, što ukazuje na rizik od pravnog ili političkog pada, ali još uvijek snažno očekivanje da preživljava izazov.
+Tržišta trenutno cijene **27%** vjerojatnosti da će Cook biti smijenjena do **31. prosinca**, što implicira određeni pravno-politički rizik, ali i dalje snažno očekivanje da će **preživjeti izazov**.
 
-Povijest pokazuje da su prethodni predsjednici također pritisnuli Fed, s tim da je Cato Institut u komadu iz listopada 2024. godine istaknuo da je češći nego što bi neki naveli da vjerujete.
+Povijest pokazuje da su i prijašnji predsjednici vršili pritisak na Fed: **Harry Truman** je 1951. gurnuo u stranu Thomasa McCapea, **Lyndon Johnson** je grdio Williama McChesneyja Martina zbog povećanja stopa tijekom Vijetnama, a **Richard Nixon** je snažno utjecao na Arthura Burnsa početkom 1970-ih — poteze koje su ekonomisti kasnije povezivali s **galopirajućom inflacijom**.
 
-Harry Truman je 1951. godine odgurnuo predsjedavajućeg Thomasa McCabea kako bi osigurao financiranje duga u ratnim vremenima, Lyndon Johnson je slavno prevladao Williama McChesneyja Martina na svom ranču u Teksasu za podizanje stope tijekom rata u Vijetnamu, a Richard Nixon se snažno naslonio na rani rani u kampanju.
+Studija **Cato instituta** iz 2013. (Thomas F. Cargill i Gerald P. O’Driscoll Jr.) tvrdi da je neovisnost Feda **više mit nego stvarnost**, napominjući da su obje stranke intervenirale kad im je politički odgovaralo.
 
-Kato studija iz 2013. godine Thomasa F. Cargilla i Geralda P. O'Driscoll Jr. tvrdi da je neovisnost Federalnih rezervi više mit nego stvarnost, napominjući da su se obje strane ometale kada su politički svrgnute.
-
-Ako bi Trump uklonio
+Ako bi Trump doista uklonio Powella, reakcija bi bila žestoka — ali bi tržišta to možda dočekala kao signal **lakše monetarne politike** (brža sniženja stopa, slabiji dolar), što bi moglo **poduprijeti rizičnu imovinu** i narativ u prilog **bitcoinu (BTC)**.
