@@ -1,29 +1,27 @@
 ---
-title: "Trump Crypto News: Polymarket -Händler bezweifeln, dass Trump Powell oder kochen kann"
+title: "Trump Krypto-News: Polymarket-Trader zweifeln, dass Trump Powell oder Cook dieses Jahr stürzen kann"
 date: 2025-08-26T05:00:58Z
 category: "crypto"
 translationKey: "ca7d495eaafd41f4a43570c08ca1f3a8"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/26/polymarket-bettors-doubt-trump-can-topple-jerome-powell-or-lisa-cook-this-year"
-summary: "Polymarket sieht Powell, der 2025 unversehrt beendet wurde, selbst als Trumps Angebot, Lisa Cook zu verdrängen, den Rechtsschild der Fed testet."
-tags: ["crypto"]
-image_url: "/news/2025-08-26-trump-crypto-news-polymarket-traders-doubt-trump-can-topple-powell-or-cook-this.png"
+summary: "Polymarket erwartet, dass Powell 2025 unbeschadet übersteht – selbst wenn Trumps Versuch, Lisa Cook zu entlassen, den Rechtsschutz der Fed testet."
+tags: ["crypto","bitcoin","btc","polymarket","federal-reserve","jerome-powell","lisa-cook","trump","prediction-markets"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/929953de00b8159334b5ec0383ac3b9730ea74c8-1536x998.png?auto=format"
 ---
 
-Die Vorhersagemärkte signalisieren Skepsis, dass Donald Trump in diesem Jahr die Federal Reserve nach seinem Testament biegen kann, selbst wenn der US -Präsident einen Fed -Gouverneur für das entlassen, was er für nur Ursache für Ursache für einen Grund entlassen.
+Prognosemärkte signalisieren Skepsis, dass **Donald Trump** die **US-Notenbank** in diesem Jahr nach seinem Willen formen kann — obwohl der Präsident versucht, eine Fed-Gouverneurin aus „wichtigem Grund“ zu entlassen.
 
-Auf Polymarket gab die Bettoren die Chance, dass Jerome Powell im Jahr 2025 als Fed -Stuhl im Jahr 2025 ausgesetzt wird, was darauf hindeutet, dass Anleger nicht glauben, dass Trump die Unabhängigkeit der Zentralbank außer Kraft setzen kann, bevor Powells Amtszeit im Mai 2026 abläuft.
+Auf **Polymarket** taxieren Wettende die Wahrscheinlichkeit, dass **Jerome Powell** 2025 als Fed-Chair abgelöst wird, auf nur **10%**. Das deutet darauf hin, dass Anleger nicht glauben, Trump könne die Unabhängigkeit der Zentralbank vor Powells Mandatsende im **Mai 2026** aushebeln.
 
-Trumps Drang, Fed Gouverneurin Lisa Cook zu entsetzt, erzählt eine andere Geschichte.Er möchte, dass sie wegen Vorwürfe wegen Hypothekenbetrugs abgelehnt wird, laut einem Brief über die Soziale Wahrheit, was sie zum ersten sitzenden Gouverneur macht, der jemals von einer Entlassung aus dem Präsidenten ins Visier genommen wurde.
+Trumps Vorstoß gegen **Lisa Cook** erzählt eine andere Geschichte: Er will sie wegen angeblichen **Hypothekenbetrugs** entlassen, wie aus einem auf **Truth Social** veröffentlichten Schreiben hervorgeht — ein beispielloser Schritt gegen eine amtierende Gouverneurin.
 
-Cook hat sich jedoch geweigert, zurückzutreten, und argumentiert, dass „Aussage“ -Erentumente für ein Amtsfehlverhalten und nicht für private finanzielle Geschäfte vor ihrer Ernennung gelten müssen.
+Cook weigert sich jedoch zurückzutreten und argumentiert, dass Entlassungen „**aus wichtigem Grund**“ sich auf **Amtsverfehlungen** beziehen müssen, nicht auf private Finanzangelegenheiten vor der Ernennung.
 
-Die Märkte preisen bis zum 31. Dezember eine Chance von 27% auf Cooks Sturz, was auf ein gewisses Risiko für rechtliche oder politische Auswirkungen hinweist, aber immer noch eine starke Erwartung, die sie die Herausforderung überlebt.
+Die Märkte preisen **27%** Chance ein, dass Cook bis **31. Dezember** abgesetzt wird — ein Hinweis auf gewisse rechtlich-politische Risiken, aber weiterhin klare Erwartung, dass sie **im Amt bleibt**.
 
-Die Geschichte zeigt, dass frühere Präsidenten auch die Fed unter Druck gesetzt haben, wobei das Cato -Institut in einem Stück Oktober 2024 darauf hinweist, dass es häufiger ist, als manche Sie glauben lassen würden.
+Historisch gab es wiederholt Druck aus dem Weißen Haus: **Harry Truman** drängte 1951 Thomas McCabe, **Lyndon Johnson** setzte William McChesney Martin wegen Zinserhöhungen unter Druck, und **Richard Nixon** beeinflusste **Arthur Burns** Anfang der 1970er — Maßnahmen, die später mit **hoher Inflation** in Verbindung gebracht wurden.
 
-Harry Truman schob 1951 den Vorsitzenden Thomas McCabe aus, um die Schuldenfinanzierung der Kriegszeit zu sichern.
+Eine **Cato-Studie** von 2013 (Thomas F. Cargill, Gerald P. O’Driscoll Jr.) argumentiert, die Fed-Unabhängigkeit sei **eher Mythos als Realität**; beide Parteien hätten bei Bedarf interveniert.
 
-Eine Cato -Studie von Thomas F. Cargill und Gerald P. O’Driscoll Jr. aus dem Jahr 2013 argumentiert, dass die Unabhängigkeit der Federal Reserve mehr Mythos als die Realität ist, und stellt fest, dass beide Parteien sich in politisch zweckmäßigerweise eingegriffen haben.
-
-Wenn Trump entfernen würde
+Sollte Trump Powell tatsächlich absetzen, wäre das hoch umstritten — die Märkte könnten es jedoch als Signal **lockererer Geldpolitik** werten (schnellere Zinssenkungen, schwächerer Dollar) und damit **Risikowerte** und den **Bitcoin-Narrativ (BTC)** stützen.
