@@ -1,23 +1,24 @@
 ---
-title: "CFTC: Kryptofirmen, die die USA verlassen haben"
+title: "CFTC: Kryptofirmen, die die USA verlassen haben, können als ausländische Handelsbörsen zurückkehren"
 date: 2025-08-28T18:46:18Z
 category: "crypto"
 translationKey: "4c6a428bcb424df1d1bf7c732e46f961"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/08/28/cftc-crypto-firms-that-left-u-s-can-open-doors-here-as-foreign-boards-of-trade"
-summary: "Die US -Derivatregulierungsbehörde gab eine 'Erinnerung' heraus, dass ausländische Kryptounternehmen bei der CFTC als FBOTs direkt über US -Kunden umgehen können."
-tags: ["crypto"]
-image_url: "/news/2025-08-28-cftc-crypto-firms-that-left-us-can-open-doors-here-as-foreign-boards-of-trade.jpg"
+summary: "Die US-Derivateaufsicht erinnerte daran, dass ausländische Kryptofirmen als FBOT registriert direkt US-Kunden bedienen dürfen."
+tags: ["crypto","CFTC","Regulierung","Trump","FBOT"]
+image_url: "https://www.coindesk.com/resizer/vzZY0N_LwE43P0a2eKZZB9O2T5g=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/cftc-fbot-2025.jpg"
 ---
 
-Die Commodity Futures Trading Commission - im Rahmen ihres laufenden "Crypto Sprint", um einen breiteren Weg für das US -Kryptogeschäft zu eröffnen - gab am Donnerstag einen Beratung heraus, dass Unternehmen, die außerhalb der USA wohnen, bereit sind, sich bei der Agentur als Auslandshandelsausschüsse zu registrieren, direkt mit US -Kunden umgehen können.
+Die **Commodity Futures Trading Commission (CFTC)** hat am Donnerstag im Rahmen ihres „Crypto Sprint“ eine Mitteilung veröffentlicht, wonach ausländische Kryptofirmen, die sich als **Foreign Boards of Trade (FBOTs)** registrieren lassen, US-Kunden direkt bedienen können.
 
-"Amerikanische Unternehmen, die gezwungen waren, ein Geschäft in ausländischen Gerichtsbarkeiten einzurichten, um den Handel mit dem Krypto -Asset -Handel zu erleichtern, haben jetzt einen Weg zurück in die US -Märkte", sagte Caroline Pham, amtierender Vorsitzender von CFTC, in einer Erklärung mit der Beratung, die keine Änderungen an der Agentur -Richtlinie vorgenommen hatte, sondern als "Erinnerung" an eine mögliche Annäherung für solche Unternehmen dienen sollte.
+„Amerikanische Unternehmen, die gezwungen waren, ihr Geschäft ins Ausland zu verlagern, um Kryptohandel anzubieten, haben nun einen Weg zurück in die US-Märkte,“ sagte **Caroline Pham**, amtierende Vorsitzende der CFTC. Die Bekanntmachung ändere keine Regeln, sondern solle nur an bestehende Möglichkeiten erinnern.
 
-"Seit den neunziger Jahren konnten die Amerikaner gegen Nicht-US-Austausch, die mit dem CFTC als FBOTS registriert sind. Beginnend. Ab jetzt begrüßt die CFTC die Amerikaner, die nach dem Rest der Welt effizient und sicher handeln wollen, und ersetzte den Rest der Welt.
+Pham erklärte:  
+> „Seit den 1990er-Jahren können Amerikaner auf ausländischen Börsen handeln, die bei der CFTC als FBOTs registriert sind. Ab sofort heißen wir Firmen willkommen, die unter CFTC-Regeln effizient und sicher handeln möchten, und öffnen US-Märkte für die Welt.“
 
-Sie nannte den Berater, der von der CFTC -Abteilung für Marktaufsicht ausgegeben wurde: "Ein weiteres Beispiel dafür, wie die CFTC im Rahmen unseres Krypto -Sprint weiterhin Siege für Präsident Trump erzielen wird."
+Die Mitteilung kam von der **Division of Market Oversight**. Pham bezeichnete sie als „weiteres Beispiel, wie die CFTC im Rahmen unseres Crypto Sprints Ergebnisse für Präsident Trump liefert.“
 
-Die Agentur hat ein höheres Interesse an solchen Registrierungen erhalten, heißt es in der Erklärung, und der CFTC möchte deutlich machen, dass Unternehmen, die für den FBOT -Status in Frage kommen, nicht als US -amerikanische Vertragsmärkte (DCMS) registrieren müssen, um US -amerikanische Kunden direkt auf ihre elektronischen Handelsdienste zugreifen zu können.Die Firmen müssen nach den CFTC -Vorschriften streng auf ihrem Heimatrasen reguliert werden.
+Die Behörde verzeichnet verstärktes Interesse an solchen Registrierungen. Firmen mit FBOT-Status müssen **nicht als DCM (Designated Contract Markets)** registriert sein, solange sie in ihrem Heimatland streng beaufsichtigt werden.
 
-Trump hatte Brian Quintz, einen ehemaligen CFTC -Kommissar, nominiert, um die zu übernehmen
+Trump hat den ehemaligen CFTC-Kommissar **Brian Quintenz** als dauerhaften Vorsitzenden nominiert; die Bestätigung durch den Senat steht jedoch noch aus.
