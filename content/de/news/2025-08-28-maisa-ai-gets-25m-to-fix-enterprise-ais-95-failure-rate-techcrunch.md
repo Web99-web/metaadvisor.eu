@@ -1,21 +1,24 @@
 ---
-title: "Maisa AI erhält 25 Millionen US -Dollar, um die 95% ige Ausfallrate von Enterprise AI zu beheben |Techcrunch"
+title: "Maisa AI erhält 25 Mio. USD zur Behebung der 95%igen Fehlerquote von Enterprise-AI | TechCrunch"
 date: 2025-08-28T05:00:00Z
 category: "ai"
 translationKey: "472ec3d124586c525bda52bb4914e1de"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/"
-summary: "Die Maisa AI basiert auf der Prämisse, dass die Unternehmensautomatisierung verantwortliche KI -Agenten und keine undurchsichtigen schwarzen Boxen erfordert."
-tags: ["ai"]
-image_url: "/news/2025-08-28-maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate-techcrunch.jpg"
+summary: "Maisa AI setzt auf verantwortliche KI-Agenten anstelle intransparenter Blackbox-Systeme, um Enterprise-Automatisierung erfolgreich zu machen."
+tags: ["ai","MaisaAI","Enterprise","Automation","Creandum"]
+image_url: "https://techcrunch.com/wp-content/uploads/2025/08/maisa-ai-funding.jpg"
 ---
 
-Laut einem kürzlich veröffentlichten Bericht von MIT NANDA Initiative scheitern erstaunliche 95% der generativen KI -Piloten in Unternehmen.Anstatt die Technologie insgesamt aufzugeben, experimentieren die fortschrittlichsten Organisationen mit Agenten -KI -Systemen, die lernen und überwacht werden können.
+Laut einem Bericht der MIT-Initiative NANDA **scheitern 95 % aller generativen KI-Pilotprojekte in Unternehmen**. Statt die Technologie aufzugeben, experimentieren führende Organisationen mit **agentenbasierten KI-Systemen**, die lernfähig und überwachbar sind.
 
-Hier kommt Maisa AI ins Spiel. Das einjährige Startup hat seinen gesamten Ansatz in Bezug auf die Prämisse aufgebaut, dass die Unternehmensautomatisierung verantwortliche KI-Agenten und keine undurchsichtigen schwarzen Boxen erfordert.Mit einer neuen Saatgut-Runde in Höhe von 25 Millionen US-Dollar, die vom europäischen VC-Unternehmen Creandum geleitet wird, hat es jetzt Maisa Studio eingeführt, eine Modell-Agnostic-Selbstbedienungsplattform, mit der Benutzer digitale Mitarbeiter einsetzen können, die mit natürlicher Sprache trainiert werden können.
+Genau hier setzt **Maisa AI** an. Das erst ein Jahr alte Startup baut sein gesamtes Konzept auf der Annahme auf, dass Unternehmensautomatisierung verantwortungsvolle KI-Agenten benötigt – keine intransparenten „Black Boxes“. Mit einer neuen Seed-Finanzierungsrunde von **25 Mio. USD**, angeführt vom europäischen VC Creandum, startet Maisa die Plattform **Maisa Studio**, die es ermöglicht, digitale Mitarbeiter in natürlicher Sprache zu trainieren.
 
-Während sich das bekannt anspricht-erinnert Maisa an sogenannte Vibe-Codierungsplattformen wie Cursor und den Creandum-Backed Lovable, dass sein Ansatz grundsätzlich unterschiedlich ist.„Anstatt KI zum Aufbau der Antworten zu verwenden, verwenden wir KI, um den Prozess zu erstellen, der ausgeführt werden muss, um die Antwort zu erreichen-was wir als„ Arbeitskette “bezeichnen, sagte David Villalón, CEO von Maisa, gegenüber TechCrunch.
+Im Gegensatz zu Tools wie Cursor oder Lovable argumentiert Maisa, dass sein Ansatz **Prozesse** konstruiert, nicht nur Antworten.  
+> „Statt KI zur Generierung der Antworten zu nutzen, setzen wir sie ein, um den Prozess aufzubauen, der zu den Antworten führt – was wir ‘Chain-of-Work’ nennen,“ erklärte CEO David Villalón gegenüber TechCrunch.
 
-Der Hauptarchitekt hinter diesem Prozess ist der Mitbegründer und Chief Scientific Officer von Maisa, Manuel Romero, der zuvor mit Villalón im spanischen KI-Startup Clibrain gearbeitet hatte.Im Jahr 2024 hat sich das Duo zusammengetan, um eine Lösung für Halluzinationen aufzubauen, nachdem er aus erster Hand gesehen hatte, dass „man sich nicht auf KI verlassen konnte“, sagte Villalón.
+Der technische Kopf dahinter ist Mitgründer und Chief Scientific Officer Manuel Romero, der zuvor mit Villalón beim spanischen KI-Startup Clibrain gearbeitet hat. 2024 beschlossen sie, eine Lösung gegen KI-Halluzinationen zu entwickeln.
 
-Das Paar ist nicht skeptisch gegenüber KI, aber sie glauben, dass es für Menschen nicht möglich ist, "drei Monate Arbeit in fünf Minuten" zu überprüfen.Um dies anzugehen, verwendet Maisa ein System namens Halp, das für die LLM-Verarbeitung von Menschen steht.Diese benutzerdefinierte Methode funktioniert wie Schüler an der Blackboard - sie fordert die Benutzer nach ihren Anforderungen auf, während die digitalen Arbeiter jeden Schritt umrunden
+Ihr System **HALP (Human-Augmented LLM Processing)** funktioniert wie ein Klassenzimmer: Digitale Mitarbeiter zeigen jeden Schritt auf, während Menschen Feedback geben und eingreifen können. Villalón sagte: „Menschen können keine drei Monate Arbeit in fünf Minuten prüfen – HALP macht es möglich, Aufgaben in überschaubare Schritte zu zerlegen.“
+
+Maisa ist überzeugt, dass dieser hybride Ansatz die hohe Misserfolgsquote senken und KI-Automatisierung im Unternehmensumfeld endlich praktikabel machen kann.
