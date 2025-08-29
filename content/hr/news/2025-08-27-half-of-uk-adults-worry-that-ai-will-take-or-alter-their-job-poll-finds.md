@@ -1,31 +1,23 @@
 ---
-title: "Polovina odraslih u Velikoj Britaniji brine se da će AI preuzeti ili izmijeniti svoj posao, ankete"
+title: "Polovica odraslih u Ujedinjenom Kraljevstvu brine da će im AI uzeti ili promijeniti posao, pokazuje anketa"
 date: 2025-08-27T05:00:27Z
 category: "ai"
 translationKey: "0cf955aedf8086f83959354390c4ed30"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/aug/27/half-of-uk-adults-worry-that-ai-will-take-or-alter-their-job-poll-finds"
-summary: "TUC zahtijeva novi pristup tehnologiji i veći unos radnika kako je raspoređen"
-tags: ["ai"]
-image_url: "/news/2025-08-27-half-of-uk-adults-worry-that-ai-will-take-or-alter-their-job-poll-finds.jpg"
+summary: "TUC poziva na novi pristup tehnologiji i veći utjecaj radnika na način na koji se ona primjenjuje."
+tags: ["ai","UK","tržište rada","anketa","TUC"]
+image_url: "https://i.guim.co.uk/img/media/69b8b0b0589e91606c30e37a91bcbda248c33f6b/0_0_5472_3648/master/5472.jpg?width=1200&quality=85&auto=format&fit=max&s=4b5fbd048"
 ---
 
-TUC zahtijeva novi pristup tehnologiji i veći unos radnika kako je raspoređen
+Prema istraživanju Sindikalne kongresne konfederacije (TUC), polovica odraslih u Ujedinjenom Kraljevstvu brine da će umjetna inteligencija (AI) ugroziti njihov posao – bilo potpunim gubitkom ili promjenom uvjeta rada. Čak 51% od 2.600 ispitanih izrazilo je zabrinutost zbog utjecaja AI tehnologija.
 
-Polovina odraslih u Velikoj Britaniji zabrinuta je zbog utjecaja umjetne inteligencije na njihov posao, navodi se u anketi, jer čelnici sindikata pozivaju na "promjenu koraka" u pristupu novim tehnologijama zemlje.
+Najviše zabrinutih je u dobnoj skupini od 25 do 34 godine, gdje 62% ispitanih strahuje od negativnih posljedica. Veliki poslodavci poput BT-a, Amazona i Microsofta već su javno upozorili da će tehnološki napredak vjerojatno dovesti do smanjenja broja radnih mjesta.
 
-Gubici radnih mjesta ili promjene u odredbama i odredbama bile su najveće brige za 51% od 2.600 odraslih osoba koje su anketirane za Kongres Unije za trgovanje koji su rekli da su zabrinuti zbog tehnologije.
+Ujedinjeno Kraljevstvo trenutno prolazi kroz usporavanje tržišta rada, a stopa nezaposlenosti od 4,7% najveća je u posljednje četiri godine. Ipak, ekonomisti ne smatraju da je to izravno povezano s ubrzanim ulaganjem u AI.
 
-AI je posebna briga za radnike u dobi između 25 i 34 godine, s gotovo dvije trećine (62%) onih anketiranih koji su prijavili takve brige.
+TUC naglašava da umjetna inteligencija može biti korisna za radnike i javne službe, ali poziva vladu da uključi sindikate i zaposlenike u proces uvođenja AI-ja na radna mjesta. Cilj je zaštititi radna mjesta i osigurati prekvalifikaciju onima čije uloge AI zamijeni.
 
-Anketa TUC -a objavljena je kao niz velikih poslodavaca - uključujući BT, Amazon i Microsoft - posljednjih mjeseci rekli su da bi ih napredak u AI mogao dovesti do smanjenja radnih mjesta.
+Polovica ispitanih (50%) izjavila je da žele imati pravo glasa u odlučivanju o tome kako se AI koristi u gospodarstvu, dok je samo 17% bilo protiv. Kao dio svog plana za AI, TUC traži da se uz milijarde funti javnog novca za istraživanje i razvoj uvedu uvjeti koji će zaštititi zaposlenike.
 
-Britansko tržište rada usporava se usred hlađenja, s službenom stopom nezaposlenosti u Velikoj Britaniji, na četverogodišnjoj maksimumu od 4,7%, iako većina ekonomista ne vjeruje da je to povezano s ubrzanjem ulaganja u AI.
-
-TUC vjeruje da AI tehnologije mogu koristiti radnicima i pomoći u poboljšanju javnih usluga, ali poziva vladu da uključi radnike i sindikate u AI, jer se ona razvija na radna mjesta kako bi zaštitila radna mjesta i pružila obuku ljudima čije su uloge zamijenjene AI.
-
-Polovina anketiranih (50%) rekla je da žele reći kako se AI koristi na radnim mjestima i širom šire ekonomije, umjesto da ga prepuštaju tvrtkama, dok se samo 17% ispitanika suprotstavilo tome.
-
-Kao dio svog plana za AI, TUC traži da se uvjeti pričvršćuju na milijarde funti javnog novca koji se troše na istraživanje i razvoj AI kako bi se osiguralo da radnici ne budu zamijenjeni novim tehnologijama.
-
-Pored toga, želi uvjeravanja da će radnici dobiti
+Ključno pitanje koje proizlazi iz ankete nije samo strah od gubitka posla, već i povjerenje – radnici žele znati da tehnološke promjene neće biti provedene bez njihovog sudjelovanja i zaštite njihovih interesa.
