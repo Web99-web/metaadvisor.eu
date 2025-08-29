@@ -1,23 +1,23 @@
 ---
-title: "Američki CFTC, vrhunski kripto čuvar, uskoro će smanjiti proviziju na samo jednog člana"
+title: "Američka CFTC, glavni kripto regulator, uskoro će imati samo jednog povjerenika"
 date: 2025-08-26T20:09:17Z
 category: "crypto"
 translationKey: "3d151dc528cd3b3bb3dd783651c00082"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/08/26/u-s-cftc-democrat-johnson-to-exit-next-week-leaving-shorthanded-commission"
-summary: "Izlaz demokrata Kristin Johnson znači da će kripto regulator pasti na jednog povjerenika, vršiteljicu dužnosti predsjedavajuće Caroline Pham, dok Trumpov izbor čeka Senat."
-tags: ["crypto"]
-image_url: "/news/2025-08-26-us-cftc-a-top-crypto-watchdog-is-about-to-shrink-commission-to-only-one-member.png"
+summary: "Odlazak demokratske povjerenice Kristin Johnson znači da će regulator kripta pasti na samo jednog člana, vršiteljicu dužnosti Caroline Pham, dok Trumpov kandidat čeka potvrdu u Senatu."
+tags: ["crypto","CFTC","BTC","Gemini","Trump"]
+image_url: "https://www.coindesk.com/resizer/eUBnYcftcCrypto.png"
 ---
 
-Američka komisija za trgovanje robnim robama sprema se pasti na samog povjerenika kada demokrat Kristin Johnson napusti agenciju sljedeći tjedan, a jedina druga osoba koja čeka u krilima da se pridruži regulatoru je predsjednik predsjednika Donalda Trumpa, Brian Quintenz.
+Američka Komisija za trgovinu robnim fjučersima (CFTC) uskoro će pasti na samo jednog povjerenika kada sljedeći tjedan agenciju napusti demokratska povjerenica Kristin Johnson, a jedina osoba koja čeka potvrdu za pridruživanje regulatoru je Trumpov kandidat za predsjedavajućeg, Brian Quintenz.
 
-Od 3. rujna, petočlana komisija će pasti na jedan, jer će tada Johnson izaći, rekla je u najavi u utorak.
+Od 3. rujna, petočlana komisija past će na samo jednog člana, jer tada Johnson odlazi, rekla je u priopćenju u utorak.
 
-"U napredovanju dnevnog reda u nazivu rasta, ključno je ne demontirati temeljnu otpornost koja podržava financijsku stabilnost i štiti širu ekonomiju", rekla je ona u oproštajnom izjavi ohrabrujući agenciju da se drže osnova jer nove tehnologije dolaze na brod.
+"U provođenju agende u ime rasta, ključno je ne razgraditi temeljnu otpornost koja podupire financijsku stabilnost i štiti širu ekonomiju", navela je u oproštajnoj izjavi, potaknuvši agenciju da ostane pri osnovama dok se uvode nove tehnologije.
 
-Sama na razini povjerenika bit će vršiteljica dužnosti predsjedateljice Caroline Pham, zagovornica kriptovaluta koju je Trump imenovao za vođenje agencije dok je tražio stalnu predsjedatelja.Trumpov izbor na kraju je bivši povjerenik Brian Quintenz, koji je radio kao šef politike na A16Z i za tvrtku za tržište predviđanja Kalshi.No, Bijela kuća odgodila je postupak potvrde Quintenza, ostavljajući ga u nekoj neizvjesnosti dok se Senat sljedeći tjedan vraća iz svog ljetnog odmora.
+Na mjestu jedine povjerenice ostat će vršiteljica dužnosti predsjednice Caroline Pham, zagovornica kripta koju je Trump imenovao da vodi agenciju dok traži stalnog predsjednika. Trumpov odabir bio je bivši povjerenik Brian Quintenz, koji je radio kao šef politike u a16z i za firmu Kalshi. No, Bijela kuća odgodila je proces potvrde Quintenza, ostavljajući sve u neizvjesnosti dok se Senat vraća s ljetne stanke sljedeći tjedan.
 
-Kandidatu se otvoreno protivio Tyler Winklevoss, izvršni direktor Crypto Exchange Blizanca i jedan od Trumpovih favoriziranih kripto insajdera, ali velik dio industrije nedavno je molio Trumpa da ubrza Quintenz prema potvrdi.
+Kandidata je otvoreno kritizirao Tyler Winklevoss, izvršni direktor kripto burze Gemini i jedan od Trumpovih omiljenih kripto saveznika, ali je velik dio industrije nedavno tražio od Trumpa da ubrza proces potvrde Quintenza.
 
-CFTC je američki regulator tržišta derivata, iako čeka kongresnu akciju kako bi joj policiji pružio moć policije na mjestu kripto roba, poput Bitcoin BTC 111.308,61 USD.Agencija je već bila glavni igrač u američkom kripto nadzoru, nakon što je potaknula brojne glavne izvršne radnje i vodila rasprave o tome kako uključiti inovacije kripto sektora u
+CFTC je američki regulator tržišta derivata, iako još uvijek čeka akciju Kongresa kako bi dobio ovlasti nadzora i nad spot tržištem kripto roba, poput bitcoina BTC $111,308.61. Agencija je već bila značajan igrač u nadzoru kripto sektora u SAD-u, provodeći brojne velike regulatorne akcije i predvodeći rasprave o tome kako uključiti inovacije kripto sektora u širi financijski sustav.
