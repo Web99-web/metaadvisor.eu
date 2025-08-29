@@ -1,34 +1,31 @@
 ---
-title: "21Shares traži pokretanje SEI ETF -a s potencijalnim prinosom za američke investitore - Dešipt"
+title: "21Shares traži lansiranje SEI ETF-a s potencijalnim staking prinosom za američke ulagače - Decrypt"
 date: 2025-08-29T05:34:25Z
 category: "news"
 translationKey: "83f8040dfee9b63f1189681d2887f82a"
 source: "Decrypt"
 source_url: "https://decrypt.co/337305/21shares-seeks-launch-of-sei-etf-with-potential-staking-yield-for-us-investors"
-summary: "Prijava slijedi podnesak May Capital Capital -a za SEI jer upravitelji fondova slijede ETF -ove izvan Bitcoina, Ethereum."
-image_url: "/news/2025-08-29-21shares-seeks-launch-of-sei-etf-with-potential-staking-yield-for-us-investors.jpg"
+summary: "Prijava slijedi nakon Canary Capitalove iz svibnja, dok menadžeri fondova ciljaju ETF-ove izvan Bitcoina i Ethereuma."
+tags: ["crypto","ETF","SEI","21Shares","staking"]
+image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/08/sei-etf-21shares.jpg"
 ---
 
-21Shares traži pokretanje SEI ETF -a s potencijalnim prinosom za američke investitore
+**21Shares**, vodeća tvrtka za upravljanje imovinom, podnijela je zahtjev **američkoj Komisiji za vrijednosne papire (SEC)** kako bi lansirala **ETF koji prati SEI**, izvorni token Sei blockchaina.
 
-Tvrtka za upravljanje imovinom 21Shares podnijela je Povjerenstvo za vrijednosne papire kako bi pokrenula fond koji je trenirao na burzi praćenja rodnog tokena SEI Blockchaina.
+Predloženi **21Shares SEI ETF** dao bi ulagačima izloženost SEI tokenu, uz potencijalne dodatne prinose kroz **staking nagrade**, navodi se u registracijskoj dokumentaciji.
 
-Predloženi 21Shares SEI ETF ponudio bi ulagačima izloženost SEI -u, pružajući potencijal za dodatni prinos putem unosa nagrada, navodi se u izvještaju o registraciji podnesenom u četvrtak.
+Na X-u je 21Shares napisao:  
+> "Uzbuđeni smo što smo podnijeli prijavu za SEI ETF u SAD-u – ključni korak u našoj viziji širenja pristupa ETF-ovima povezanima s @Seinetwork."
 
-Uzbuđeni smo što možemo objaviti da smo podnijeli SEC za SEI ETF u SAD -u - što je ključna prekretnica u našoj viziji za proširenje pristupa trgovini @Seinetwork.pic.twitter.com/ntuclajxyy
+Nakon što su spot **Bitcoin i Ethereum ETF-ovi** uspješno lansirani 2024., menadžeri sada ciljaju i manje kripto imovine, uključujući **Solanu, Dogecoin, XRP i druge altcoine**, osobito u povoljnoj regulativnoj klimi pod Trumpovom administracijom.
 
-- 21Shares nas (@21shares_us) 28. kolovoza 2025
+Glavni cilj Trusta je **„praćenje performansi SEI-a“**, a sekundarni **„ostvarivanje nagrada stakingom dijela SEI tokena“**.  
 
-Nakon uspješnih pokretanja Spot Bitcoin-a i Ethereum ETF-a 2024. godine, upravitelji fondova ciljaju manje digitalne imovine, uključujući Solanu, Dogecoin, XRP i druge altcoins pod kripto-prilagođenom Trumpovom administracijom.
+Prema **Krishnendu Chatterjeeju**, CEO-u **A2ZCryptoInvestmenta**, vrlo je vjerojatno da će **SEI ETF biti prihvaćen**:  
+> „Ovo je korak prema širem prihvaćanju reguliranih alt investicija, uključujući staking benefite.“
 
-Primarni cilj povjerenja je "nastojati pratiti performanse SEI", s sekundarnim fokusom na stvaranju "nagrada od stavljanja dijela SEI Trust -a", piše u prijavi.
+Ipak, 21Shares napominje da **još nije odlučeno može li se staking nuditi unutar javnog trusta**, stoji u prospektu.
 
-"Velika je vjerojatnost da će se 21SHARES SEI ETF prihvatiti i biti dostupan zajedno s Bitcoin i Ethereum ETFS", rekao je Krishnendu Chatterjee, izvršni direktor i suosnivač A2ZCryptoinvestment-a, rekao je Decrypt.
+Za čuvanje SEI tokena bit će zadužen **Coinbase Custody Trust Company**, dok će **Coinbase Inc.** djelovati kao glavni broker za trgovinske aktivnosti.
 
-"21SHARES SEI ETF korak je prema širem primjeni prema reguliranim ulaganjima ALT -a (uključujući i pogodnosti za ulaganje)", dodao je.
-
-Ipak, 21Shares je potvrdio da još nije zaključio da se ulaganje može ponuditi u okviru strukture javnog povjerenja, prema prospektu.
-
-Povjerenje će koristiti Trust Company Coinbase za povjerenje kao svog primarnog skrbnika za SEI Holdings, dok će Coinbase Inc. služiti kao glavni posrednik za trgovačke aktivnosti, navodi se u podnošenju prijave.
-
-Potez se dodaje Kanaricu
+Ovaj potez dolazi nakon slične prijave **Canary Capitala u svibnju**, dodatno potvrđujući trend širenja ETF-ova izvan glavnih kriptovaluta.
