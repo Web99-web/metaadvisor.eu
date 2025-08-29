@@ -1,24 +1,23 @@
 ---
-title: "Exklusiv: Assort Health nabs 50 Mio. USD, um Patientenanrufe zu automatisieren, heißt es in Quellen"
+title: "Exklusiv: Assort Health sichert sich 50 Mio. $, um Patientenanrufe zu automatisieren"
 date: 2025-08-27T01:08:13Z
 category: "news"
 translationKey: "e240bdefa917d89d853b4c68d931f61f"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/26/assort-health-nabs-50m-to-automate-patient-phone-calls-sources-say/"
-summary: "Das Startup im Wert von 750 Millionen US -Dollar ist eines von drei, die kürzlich Mittel für die Verwendung von AI -Agenten für die Unterstützung der Gesundheitsversorgung bei der Beantwortung von Patientenanrufen erhöht haben."
-image_url: "/news/2025-08-27-exclusive-assort-health-nabs-50m-to-automate-patient-phone-calls-sources-say.jpg"
+summary: "Das Startup, jetzt mit 750 Mio. $ bewertet, ist eines von dreien, die kürzlich Kapital aufgenommen haben, um KI-Agenten zur Unterstützung von Patientenanrufen einzusetzen."
+tags: ["AI","health","healthcare","startup","AssortHealth","EliseAI","HelloPatient","AmbienceHealthcare","Abridge"]
+image_url: "https://techcrunch.com/wp-content/uploads/2025/08/assort-health.jpg"
 ---
 
-Assort Health, ein Startup, das mit KI zur Automatisierung der Patientenkommunikation für Spezialversorgungsverfahren verwendet wird, hat in einer Serie B -Runde von 750 Millionen US -Dollar in einer Serie -B -Runde etwa 50 Millionen US -Dollar gesammelt. Dies geht aus drei mit dem Deal vertrauten Quellen aus.Die jüngste Runde, die nur vier Monate nach dem Einbringen des Unternehmens 22 Millionen US -Dollar Serie A kommt, wurde von Lightspeed Venture Partners angeführt, sagten diese Leute.
+Assort Health, ein Startup, das KI einsetzt, um die Patientenkommunikation in spezialisierten Gesundheits­praxen zu automatisieren, hat rund 50 Mio. $ in einer Series-B-Runde bei einer Bewertung von 750 Mio. $ eingesammelt, so drei mit der Transaktion vertraute Personen. Die neueste Runde, nur vier Monate nach einer Series A von 22 Mio. $, wurde von Lightspeed Venture Partners angeführt, sagten diese Personen.
 
-Die KI-Sprachagenten des Unternehmens sind so konzipiert, dass sie hochvolumige, sich wiederholende Aufgaben wie Planung, Stornierungen und häufig gestellte Fragen übernehmen, die normalerweise von Mitarbeitern an der Rezeption verwaltet werden, um sich auf komplexere oder sensiblere Patienteninteraktionen zu konzentrieren.
+Die KI-Sprachagenten des Unternehmens sollen hochvolumige, sich wiederholende Aufgaben wie Terminvereinbarungen, Stornierungen und häufig gestellte Fragen übernehmen, die normalerweise vom Empfangspersonal erledigt werden, sodass menschliche Mitarbeiter sich auf komplexere oder sensiblere Patienteninteraktionen konzentrieren können.
 
-Assort Health ist eines von mehreren Startups, die kürzlich neue Finanzmittel für die Linderung des Telefonanrufvolumens für medizinische Büros mit KI erhoben haben.
+Assort Health ist eines von mehreren Startups, die kürzlich neue Mittel aufgenommen haben, um KI einzusetzen und das Anrufaufkommen in Arztpraxen zu verringern.
 
-Erst letzte Woche kündigte Eliseai, die den Kundendienst für Immobilien- und Gesundheitsbüro -Front -Schreibtische automatisiert, an, dass es eine von Andreessen Horowitz geleitete Serie E in Höhe von 250 Millionen US -Dollar erhalten hat und das Unternehmen mit 2,2 Milliarden US -Dollar bewertete.Hallo Patient, ein weiterer Assistent der KI-betriebenen Assistenten für medizinische Büros, sammelte Anfang dieses Monats eine Serie A in Höhe von 20 Millionen US-Dollar bei einer von Skala Venture Partners geführten Bewertung von 100 Millionen US-Dollar, so eine Person, die mit dem Deal vertraut ist.
+Erst letzte Woche gab EliseAI, das Kundendienste für Immobilien und Empfangsbereiche im Gesundheitswesen automatisiert, bekannt, dass es sich 250 Mio. $ in einer Series-E-Runde unter der Leitung von Andreessen Horowitz gesichert hat und nun mit 2,2 Mrd. $ bewertet wird. Hello Patient, ein weiterer KI-gestützter Assistent für Arztpraxen, nahm Anfang dieses Monats 20 Mio. $ in einer Series-A-Runde bei einer Bewertung von 100 Mio. $ auf, angeführt von Scale Venture Partners, so eine mit der Transaktion vertraute Person.
 
-Die Gesundheitsbranche nimmt zunehmend KI -Lösungen an, wie es bei der wachsenden Einführung medizinischer Schriftgelehrte von Unternehmen wie Abrücken und Ambiente Healthcare zu sehen ist.Investoren wetten nun darauf, dass die Patientenkommunikation der nächste große Bereich für die KI -Implementierung sein wird.
+Die Gesundheitsbranche setzt zunehmend auf KI-Lösungen, wie die wachsende Verbreitung von medizinischen Schreibern von Unternehmen wie Abridge und Ambience Healthcare zeigt. Investoren wetten nun darauf, dass die Patientenkommunikation der nächste große Bereich für KI-Anwendungen sein wird.
 
-Da Assort Health kleine und mittlere Spezialversorgungsbüros dient, die oft lange Wartezeiten haben, können schnelle Antworten eines KI -Agenten diesen Büros helfen, weniger Patienten gegen konkurrierende Praktiken zu verlieren.
-
-Während der jährliche wiederkehrende Einnahmen (ARR) von Assort Health nur ein wenig beträgt
+Da Assort Health kleine und mittlere Facharztpraxen mit oft langen Wartezeiten bedient, können schnelle Antworten von KI-Agenten dazu beitragen, dass diese Praxen weniger Patienten an konkurrierende Einrichtungen verlieren.
