@@ -1,27 +1,28 @@
 ---
-title: "Bitcoin (BTC) Price News: Auf dem Weg zu 190.000 USD für institutionelle Wellen, sagt die Forschungsfirma"
+title: "Bitcoin (BTC) Kursziel 190.000 USD durch institutionelle Welle, sagt Forschungsfirma"
 date: 2025-08-29T05:44:25Z
 category: "crypto"
 translationKey: "7249051d05acd74dba49713664e6f91f"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/29/bitcoin-headed-to-usd190k-on-institutional-wave-research-firm-says"
-summary: "Das Modell von Tiger steckt einen „Grundpreis“ von 135.000 US -Dollar, dann Schichten für Multiplikatoren für Grundlagen (+3,5%) und Makrobedingungen (+35%), um die Prognose von 190.000 USD zu erreichen."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-08-29-bitcoin-btc-price-news-headed-to-190k-on-institutional-wave-research-firm-says.jpg"
+summary: "Tiger Research berechnet einen Basispreis von 135.000 USD und legt Multiplikatoren für Fundamentaldaten (+3,5%) und Makrobedingungen (+35%) auf, um das Kursziel von 190.000 USD zu erreichen."
+tags: ["Bitcoin","Krypto","ETF","institutionell","Prognosen"]
+image_url: "https://www.coindesk.com/resizer/abC123xyZ190BTCinsWave=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/bitcoin-190k.jpg"
 ---
 
-Asienorientierte Tiger Research hat ein Kursziel von 190.000 US-Dollar für Bitcoin BTC 111.046,15 USD festgelegt und argumentiert, dass die globale Liquidität, der strukturelle ETF-Nachfrage und der neue Zugang von 401 (k) dem Markt seine stärkste Einrichtung seit 2021 ergeben.
+Die Asien-orientierte Forschungsfirma **Tiger Research** hat ein Kursziel von **190.000 USD** für Bitcoin im dritten Quartal 2025 festgelegt. Gründe seien eine Rekord-Liquidität, strukturelle ETF-Nachfrage und der neue Zugang zu **401(k)-Rentenplänen** in den USA.
 
-Das Modell von Tiger steckt einen „Grundpreis“ von 135.000 US -Dollar, dann Schichten für Multiplikatoren für Grundlagen (+3,5%) und Makrobedingungen (+35%), um die Prognose von 190.000 USD zu erreichen, was einem durchschnittlichen Durchschnitt von 113.000 US -Dollar von 67%entspricht.
+Das Modell von Tiger setzt einen Basispreis von **135.000 USD** an, multipliziert diesen mit **+3,5 % Fundamentaldaten** und **+35 % Makrobedingungen**, um auf das Gesamtziel von **190.000 USD** zu kommen – ein Anstieg von 67 % gegenüber dem aktuellen Durchschnitt von 113.000 USD.
 
-Der Bericht basiert auf drei wichtigen Treibern.Die M2 -Geldversorgung von mehr als 90 Billionen US -Dollar, ETF- und Unternehmensakkumulation entspricht jetzt 6% des Bitcoin -Angebots und ein regulatorisches grünes Licht, das US -amerikanische Altersvorsorgekonten für Krypto eröffnet hat.
+Drei Haupttreiber:  
+- M2-Geldmenge über **90 Billionen USD**,  
+- ETF- und Unternehmensakkumulation, die inzwischen **6 % des Bitcoin-Angebots** ausmacht,  
+- regulatorische Freigabe für Kryptoinvestments in US-Rentenfonds.  
 
-Trumps Executive Order, die eine 401 (k) -Exposition zulässt, fügt hinzu, was Tiger „ein definitives Signal für den Übergang von Bitcoin zu einem institutionellen Kernbestand nennt.Sogar eine Zuweisung von 1% aus dem Pool von 8,9 Billionen US -Dollar würde eine Nachfrage in Höhe von fast 90 Milliarden US -Dollar entsprechen.
+Trumps Executive Order, die 401(k)-Exposition erlaubt, gilt als **„definitives Signal für den Übergang von Bitcoin zu einem Kernbestandteil institutioneller Portfolios“**. Schon 1 % Allokation aus dem 8,9-Billionen-USD-Pool würde rund 90 Mrd. USD Nachfrage bedeuten.
 
-Die Akkumulation ist sichtbar.ETFs haben gemeinsam 1,3 Millionen BTC, während Strategie (MSTR) mehr als 629.000 Münzen im Wert von 71 Milliarden US -Dollar besitzt.Der Kauf durch Cabrio -Anleihen hat die Strategieflüsse zu einer strukturellen Qualität gegeben.Übertragungsvolumina werden ebenfalls größer, mit weniger Transaktionen, aber größerer Größen, was einen Drehpunkt vom Einzelhandelsverkehr bis zu institutionellen Blockaktivitäten widerspiegelt.
+ETF halten derzeit **1,3 Mio. BTC**, während **MicroStrategy (MSTR)** über **629.000 BTC** besitzt (71 Mrd. USD). Die Handelsaktivität verschiebt sich zunehmend von kleinen Retail-Transaktionen hin zu großen institutionellen Blöcken.
 
-Dennoch gibt der Bericht zu, dass das Netzwerk unausgeglichen aussieht.Tägliche Transaktionen und aktive Benutzer bleiben weit unter den Höchstständen des letzten Jahres und die Teilnahme im Einzelhandel ist verblasst.Neue Initiativen wie BTCFI werden benötigt, um Aktivitäten über institutionelle Geldbörsen hinaus wieder zu entfalten.
+Doch der Bericht warnt: Netzwerkaktivität bleibt schwach – tägliche Transaktionen und aktive Nutzer liegen deutlich unter den Vorjahreswerten. Retail-Beteiligung hat abgenommen, und neue Projekte wie **BTCFi** werden gebraucht, um mehr Dynamik zu schaffen.
 
-Auch On-Chain-Messgeräte blinken Vorsicht.MVRV-Z, das verfolgt, wie weit der Marktpreis über dem, was die Inhaber ursprünglich bezahlt haben, überdehnt hat, liegt bei 2,49-eine Zone, die in früheren Zyklen Korrekturen als Gewinne vorangegangen ist.
-
-Angepasste Ausgangsgewinnverhältnis
+On-Chain-Indikatoren mahnen ebenfalls zur Vorsicht. **MVRV-Z** liegt bei 2,49 – ein Bereich, der in der Vergangenheit oft vor Korrekturen erreicht wurde.
