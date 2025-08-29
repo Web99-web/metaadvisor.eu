@@ -1,27 +1,28 @@
 ---
-title: "Bitcoin (BTC) Vijesti o cijenama: Krenuo na 190 tisuća dolara na institucionalni val, kaže istraživačka tvrtka"
+title: "Bitcoin (BTC) cijena cilja 190.000 USD zahvaljujući institucionalnom valu, tvrdi istraživačka kuća"
 date: 2025-08-29T05:44:25Z
 category: "crypto"
 translationKey: "7249051d05acd74dba49713664e6f91f"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/29/bitcoin-headed-to-usd190k-on-institutional-wave-research-firm-says"
-summary: "Tiger -ov model prikupi 'osnovnu cijenu' od 135 000 USD, a zatim slojevi na multiplikatorima za osnove (+3,5%) i makronaredbe (+35%) kako bi dostigli prognozu od 190 000 USD."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-08-29-bitcoin-btc-price-news-headed-to-190k-on-institutional-wave-research-firm-says.jpg"
+summary: "Tiger Research procjenjuje baznu cijenu od 135.000 USD, uz multiplikatore temeljenih faktora (+3,5%) i makro uvjeta (+35%), što daje prognozu od 190.000 USD."
+tags: ["bitcoin","crypto","ETF","institucionalni","prognoze"]
+image_url: "https://www.coindesk.com/resizer/abC123xyZ190BTCinsWave=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/bitcoin-190k.jpg"
 ---
 
-Tiger Research fokusiran na Aziju postavio je ciljanu cijenu Q3 u iznosu od 190 000 USD za Bitcoin BTC 111.046,15 USD, tvrdeći da zabilježeno globalnu likvidnost, strukturni potražnja ETF-a i novi pristup 401 (k) daju tržištu najjaču postavu od 2021.
+Azijsko orijentirana istraživačka kuća **Tiger Research** postavila je cilj od **190.000 USD** za bitcoin u trećem kvartalu 2025., navodeći rekordnu globalnu likvidnost, strukturnu ETF potražnju i otvaranje pristupa kriptu kroz **401(k) mirovinske planove**.
 
-Tiger -ov model prikupi "osnovnu cijenu" od 135 000 USD, a zatim slojevi na multiplikatorima za osnove (+3,5%) i makronaredbe (+35%) kako bi dostigao prognozu od 190 000 USD - dajući 67%u odnosu na prosječno 113.000 USD.
+Model Tiger Researcha računa baznu cijenu od **135.000 USD**, na koju se dodaju multiplikatori: **+3,5% za fundamente** i **+35% za makro uvjete**, što daje ukupnu projekciju od **190.000 USD** – rast od 67% u odnosu na prosjek od 113.000 USD ovog tjedna.
 
-Izvještaj se oslanja na tri ključna vozača.M2 novčana ponuda veća od 90 trilijuna dolara, ETF i korporativna akumulacija sada čini 6% Bitcoinove opskrbe i regulatorno zeleno svjetlo koje je za kriptovalute otvorilo američke mirovinske račune.
+Izvješće se oslanja na tri ključna pokretača:  
+- M2 novčana masa iznad **90 trilijuna USD**,  
+- ETF-ovi i korporativna akumulacija koja sada čini **6% bitcoin ponude**,  
+- regulatorno odobrenje koje je otvorilo američke mirovinske račune za kripto ulaganja.  
 
-Trumpova izvršna naredba koja dopušta izloženost 401 (k) dodaje ono što Tiger naziva "konačnim signalom Bitcoinovog prijelaza u temeljno institucionalno udjel."Čak bi i 1% izdvajanja iz bazena od 8,9 bilijuna dolara iznosila gotovo 90 milijardi dolara potražnje.
+Trumpova izvršna uredba kojom se omogućava izloženost 401(k) planova, prema Tigeru, označava **"definitivan signal prijelaza bitcoina u osnovnu institucionalnu imovinu"**. Čak i 1% alokacije iz fonda od 8,9 trilijuna USD značilo bi dodatnih 90 milijardi USD potražnje.
 
-Akumulacija je vidljiva.ETF -ovi kolektivno drže 1,3 milijuna BTC -a, dok strategija (MSTR) posjeduje više od 629.000 kovanica, u vrijednosti od 71 milijardu dolara.Kupnja konvertibilnih obveznica dala je protoku strategije strukturne kvalitete.Količine prijenosa također su se povećavale, s manje transakcija, ali većih veličina, što odražava okret od maloprodajnog prometa do aktivnosti institucionalnog bloka.
+ETF-ovi trenutno drže **1,3 milijuna BTC**, dok **MicroStrategy (MSTR)** posjeduje više od **629.000 BTC**, vrijednih 71 milijardu USD. Aktivnost na lancu sve se više prebacuje s manjih retail transakcija na veće institucionalne blokove.
 
-Ipak, izvješće priznaje da mreža izgleda neuravnoteženo.Dnevne transakcije i aktivni korisnici ostaju znatno ispod prošlogodišnjih maksimuma, a sudjelovanje u maloprodaji je izblijedjelo.Nove inicijative poput BTCFI potrebne su kako bi se ponovno nagnite aktivnost izvan institucionalnih novčanika.
+No, izvješće upozorava da mreža ostaje neuravnotežena: broj dnevnih transakcija i aktivnih korisnika i dalje je znatno ispod prošlogodišnjih razina. Retail interes je oslabio, a potrebne su nove inicijative poput **BTCFi** da se ponovno potakne šira aktivnost.
 
-Mjerači na lancu također bljesne oprez.MVRV-Z, koji prati koliko se tržišna cijena protezala iznad onoga što su vlasnici prvobitno platili, sjedi na 2,49-zona koja je u prošlim ciklusima prethodila ispravkama kako se profit povećava.
-
-Prilagođeni omjer potrošenog izlaznog profita
+On-chain pokazatelji također signaliziraju oprez. **MVRV-Z** stoji na 2,49 – zoni koja je u prošlim ciklusima prethodila korekcijama kada su profiti previše narasli.
