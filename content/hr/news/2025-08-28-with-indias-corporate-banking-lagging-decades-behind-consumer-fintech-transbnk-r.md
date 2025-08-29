@@ -1,19 +1,22 @@
 ---
-title: "S indijskim korporativnim bankarstvom koji zaostaje desetljećima iza potrošačkog fintech -a, Transbnk prikuplja 25 milijuna dolara kako bi premostio jaz |TechCrunch"
+title: "Kako indijsko korporativno bankarstvo kasni desetljećima za potrošačkim fintechom, TransBnk prikuplja 25 mil. USD za nadoknađivanje jaza | TechCrunch"
 date: 2025-08-28T00:33:43Z
 category: "ai"
 translationKey: "2d7bcd1d5163b6c31e040f439f55bb88"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/"
-summary: "Transbnk je prikupio 25 milijuna dolara u krugu koji je vodio Bessemer Venture Partners na digitalizaciju indijskog korporativnog bankarstva."
-tags: ["ai"]
-image_url: "/news/2025-08-28-with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-r.jpg"
+summary: "TransBnk je prikupio 25 milijuna USD u rundi koju je predvodio Bessemer Venture Partners za digitalizaciju indijskog korporativnog bankarstva."
+tags: ["ai","fintech","TransBnk","India","bankarstvo"]
+image_url: "https://techcrunch.com/wp-content/uploads/2025/08/transbnk-funding-india.jpg"
 ---
 
-Dok je digitalizacija transformirala bankarstvo za indijske potrošače, korporativno bankarstvo ostavljeno je u sporoj traci-još uvijek se uvelike oslanja na nespretnu infrastrukturu, papirnate staze i radne tokove radnih proračunskih tablica.Transbnk se želi pozabaviti tim prazninom, a Bessemer Venture Partners uložio je u trogodišnji startup u krugu od 25 milijuna dolara kako bi ubrzao svoj napredak.
+Dok je digitalizacija transformirala potrošačko bankarstvo u Indiji, **korporativno bankarstvo ostalo je u prošlom stoljeću** — i dalje se oslanja na zastarjele sustave, papirnatu dokumentaciju i Excel tablice. **TransBnk** želi popraviti taj jaz, a Bessemer Venture Partners je uložio 25 milijuna USD u startup star tri godine kako bi ubrzao njegov razvoj.
 
-Tijekom proteklog desetljeća, Indija je doživjela značajan procvat u potrošačkom fintech-u, vođen transformativnim pomacima poput porasta digitalnih plaćanja putem sučelja za jedinstveno plaćanje koje podržava vlade (UPI) i širenja agregatora plaćanja.Međutim, ove su inovacije učinile malo kako bi poboljšale iskustvo za tvrtke, posebno u bankarstvu transakcija, gdje se plaćanja, zbirke, pa čak i izjave o računima još uvijek oslanjaju na ručne procese.Poslovni kupci često žongliraju više portala za internet bankarstvo i oslanjaju se na proračunske tablice za pomirenje.Taj jaz i dalje postoji, unatoč tome što je Indija bila najveće svjetsko tržište malih i srednjih poduzeća (MSP), s gotovo 75 milijuna i srednjih poduzeća - svi bi imali koristi od modernije financijske infrastrukture.
+U posljednjem desetljeću indijski fintech sektor za potrošače eksplodirao je zahvaljujući inovacijama poput **UPI-a (Unified Payments Interface)** i rastu agregatora plaćanja. Međutim, ove promjene nisu znatno poboljšale poslovno bankarstvo, gdje transakcije, naplata i izvodi još uvijek uključuju ručne procese. Tvrtke često koriste više različitih internetskih portala i Excel za usklađivanje. Ovo je paradoks s obzirom na to da Indija ima gotovo **75 milijuna malih i srednjih poduzeća (SME-ova)** koji bi profitirali od modernije infrastrukture.
 
-Neiskorišteni potencijal u korporativnom bankarstvu predstavlja unosnu priliku.Predviđa se da će indijska industrija B2B FinTech doseći tržišnu veličinu od 20 milijardi dolara do 2030. godine, navodi se u izvješću Chiratae Ventures i Digitalnom petom veljači 2024. godine.Zemlja je već dom 26 fintech jednoroga s kombiniranom tržišnom vrijednošću od 90 milijardi dolara, po podacima koje je JM Financial analizirao prošle godine.Međutim, većina tih startupa usredotočila se prvenstveno na inovacije u plaćanju i pozajmljivanju, a ne na osnovnoj bankarskoj infrastrukturi.
+Potencijal je ogroman: **B2B fintech tržište Indije procjenjuje se na 20 milijardi USD do 2030.** Prema podacima JM Financiala, zemlja već ima 26 fintech jednoroga ukupne vrijednosti 90 milijardi USD, ali većina je usmjerena na plaćanja i kreditiranje, ne na jezgru bankarskih sustava.
 
-Transbnk sa sjedištem u Mumbaiju, suosnivali bivši bankari Vaibhav Tambe, Lavin Kotian, Pulak Jain i Sachin Gupta,
+Startup iz Mumbaija osnovali su bivši bankari **Vaibhav Tambe, Lavin Kotian, Pulak Jain i Sachin Gupta**. Njihova misija je razviti platformu koja povezuje banke i korporativne klijente kroz API-je i cloud rješenja, smanjujući ručne poslove i povećavajući učinkovitost.
+
+### Kontekst i implikacije:  
+Ako TransBnk uspije, mogao bi postati ključni igrač u digitalizaciji najvećeg svjetskog SME tržišta i istodobno redefinirati kako korporativno bankarstvo funkcionira u gospodarstvu koje sve više postaje digital-first.
