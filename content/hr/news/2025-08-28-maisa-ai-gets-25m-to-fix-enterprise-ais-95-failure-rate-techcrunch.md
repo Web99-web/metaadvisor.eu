@@ -1,21 +1,24 @@
 ---
-title: "MAISA AI dobiva 25 milijuna dolara za popravljanje stope neuspjeha Enterprise AI 95% |TechCrunch"
+title: "Maisa AI dobiva 25 milijuna USD za rješavanje 95% stope neuspjeha enterprise AI-a | TechCrunch"
 date: 2025-08-28T05:00:00Z
 category: "ai"
 translationKey: "472ec3d124586c525bda52bb4914e1de"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/"
-summary: "Maisa AI izgrađena je na pretpostavci da Enterprise Automation zahtijeva odgovorne AI agente, a ne neprozirne crne kutije."
-tags: ["ai"]
-image_url: "/news/2025-08-28-maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate-techcrunch.jpg"
+summary: "Maisa AI temelji se na ideji da poslovna automatizacija zahtijeva odgovorne AI agente, a ne netransparentne 'black box' sustave."
+tags: ["ai","MaisaAI","automation","enterprise","Creandum"]
+image_url: "https://techcrunch.com/wp-content/uploads/2025/08/maisa-ai-funding.jpg"
 ---
 
-Zapanjujućih 95% generativnih pilota AI u tvrtkama ne uspijeva, navodi se u nedavnom izvješću koje je objavila MIT -ova Nanda Inicijativa.No, umjesto da se u potpunosti odustane od tehnologije, najnaprednije organizacije eksperimentiraju s Agentic AI sustavima koji mogu učiti i biti nadzirani.
+Prema izvještaju MIT-ovog NANDA instituta, **95% generativnih AI pilot-projekata u tvrtkama propada**. Umjesto da se organizacije povuku, one najnaprednije počinju eksperimentirati s **agentnim AI sustavima** koji mogu učiti i biti nadzirani.
 
-Tu dolazi Maisa AI. Godišnji startup izgradio je cijeli svoj pristup oko pretpostavke da Enterprise Automation zahtijeva odgovorne AI agente, a ne neprozirne crne kutije.S novim, sjemenom od 25 milijuna dolara koju je vodio europska VC tvrtka Creandum, sada je lansirala Maisa Studio, platformu za samo-posluživanje u modelu koja pomaže korisnicima da implementiraju digitalne radnike koji se mogu obučiti prirodnim jezikom.
+Tu se uključuje **Maisa AI**. Ovaj startup star samo godinu dana temelji svoj pristup na ideji da poslovna automatizacija zahtijeva odgovorne AI agente, a ne netransparentne “black box” sustave. Uz novo seed financiranje od **25 milijuna USD**, koje je vodio europski VC Creandum, lansirali su **Maisa Studio** – platformu koja omogućuje korisnicima da kreiraju digitalne radnike koje se može trenirati prirodnim jezikom.
 
-Iako bi to moglo zvučati poznato-podsjeća na takozvane platforme za kodiranje vibracije poput Cursora i Creandum-a koji je podržan Loveble-Maisa tvrdi da je njegov pristup u osnovi drugačiji."Umjesto da koristimo AI za izgradnju odgovora, koristimo AI za izgradnju procesa koji treba izvršiti kako bi se postigao odgovor-ono što nazivamo" lančanim radom ", rekao je izvršni direktor Maisa David Villalón za TechCrunch.
+Za razliku od drugih “vibe coding” alata poput Cursora ili Creandum-ovog Lovablea, Maisa tvrdi da njihov pristup gradi procese, a ne samo odgovore.  
+> „Umjesto da koristimo AI za izgradnju odgovora, koristimo ga za izgradnju procesa koji dovodi do odgovora — što zovemo ‘chain-of-work’,” rekao je CEO David Villalón za TechCrunch.
 
-Glavni arhitekt koji stoji iza ovog procesa je suosnivač Maisa i glavni znanstveni službenik Manuel Romero, koji je prethodno radio s Villalónom u španjolskom AI Startup Clibrainu.2024. godine dvojac se udružio kako bi izgradio rješenje za halucinacije nakon što je iz prve ruke vidio da se "ne možete osloniti na AI", rekao je Villalón.
+Glavni arhitekt sustava je suosnivač i Chief Scientific Officer Manuel Romero, koji je s Villalónom ranije radio u španjolskom Clibrainu. Godine 2024. udružili su se kako bi riješili problem AI halucinacija, nakon što su zaključili da se na AI modele ne može u potpunosti osloniti.
 
-Par nije skeptičan prema AI -u, ali misle da neće biti izvedivo da ljudi pregledaju "tri mjeseca posla obavljenog u pet minuta."Da bi se riješio, Maisa zapošljava sustav zvan HALP, koji stoji za ljudsku obradu LLM-a.Ova prilagođena metoda djeluje poput učenika na ploči - traži korisnike o njihovim potrebama, dok digitalni radnici iznose svaki korak koji će
+Njihov sustav **HALP (Human-Augmented LLM Processing)** radi tako da ljudima omogućuje pregled i nadzor rada AI agenata. „Ljudi ne mogu pregledati tri mjeseca posla odrađenog u pet minuta. HALP razbija zadatke u pregledne korake, gdje korisnici imaju uvid i mogu intervenirati,“ dodao je Villalón.
+
+Maisa vjeruje da ovakav hibridni model može sniziti stopu neuspjeha i dovesti AI automatizaciju do stvarne primjene u velikim poduzećima.
