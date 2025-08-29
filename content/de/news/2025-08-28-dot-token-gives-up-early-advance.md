@@ -1,29 +1,25 @@
 ---
-title: "Dot -Token gibt einen frühen Fortschritt auf"
+title: "DOT-Token gibt frühen Anstieg wieder ab"
 date: 2025-08-28T19:49:24Z
 category: "crypto"
 translationKey: "a56d135ae67fe35852fe8ff6a9648b7e"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/28/polkadot-s-dot-returns-to-usd3-90-support-after-earlier-gain"
-summary: "Die Unterstützung hat sich in der Zone von 3,90 bis 3,91 US-Dollar mit einem Widerstand von 4,02 USD entwickelt."
-tags: ["crypto"]
-image_url: "/news/2025-08-28-dot-token-gives-up-early-advance.png"
+summary: "Unterstützung hat sich in der Zone von 3,90–3,91 USD gebildet, Widerstand liegt bei 4,02 USD."
+tags: ["crypto","DOT","Polkadot","Paraguay","Tokenisierung"]
+image_url: "https://www.coindesk.com/resizer/RlJgqQ3nMX02fH_o7DbQ19_cX_g=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/polkadot-dot-aug28.jpg"
 ---
 
-Polkadots Punkt früherer Thurwday stieg laut dem technischen Analysemodell von Coindesk Research um mehr als 2%, wobei institutionelle Volumenmuster professionelle Beteiligung deutlich haben.
+Der **DOT-Token von Polkadot** stieg am Donnerstag zunächst um mehr als 2 %, wobei die Volumenmuster laut dem **CoinDesk Research Technical Analysis Model** auf institutionelle Beteiligung hindeuteten.
 
-Das Modell zeigte, dass das digitale Asset das Institutionalbuch des Lehrbuchs demonstrierte, das die Unterstützung zunächst auf 3,81 USD getestet hat, bevor ein gemessener Fortschritt auf 4,02 USD begleitet wurde, begleitet von einem erheblichen Volumen von 4,6 Millionen Einheiten.
+Das Modell zeigte ein klassisches Muster institutioneller Akkumulation: zunächst ein Test der Unterstützung bei 3,81 USD, gefolgt von einem Anstieg auf **4,02 USD** bei einem Handelsvolumen von 4,6 Millionen Einheiten.
 
-Handelsvolumina von mehr als 320.000 Einheiten während der anfänglichen Rückgangsphase weisen darauf hin, dass die institutionelle Neupositionierung anstelle von Panik im Einzelhandel, wobei nachfolgend ein eindeutiges Unterstützungsniveau von 3,90 bis 3,91 USD festgelegt ist, laut dem Modell ein klares Unterstützungsniveau.
+Handelsvolumina von über 320.000 Einheiten während der anfänglichen Abwärtsphase deuteten eher auf **institutionelle Neupositionierung** als auf Panikverkäufe von Kleinanlegern hin. Anschließend etablierte sich Kaufinteresse im Bereich von **3,90–3,91 USD**.
 
-Der Umzug in Polkadot kehrte jedoch um, wobei der Preis auf diesen Unterstützung von 3,90 US -Dollar zurückgekehrt war.
+Der Anstieg drehte sich jedoch um, und der Kurs fiel zurück auf die Unterstützung bei 3,90 USD.
 
-Laut einem Posten auf X hat die Republik Paraguay 6 Millionen US-Dollar für eine in Polkadot ansässige Tokenization Initiative in Höhe von 6 Millionen US-Dollar verpflichtet, einer wegweisenden Regierung der Regierung für die Blockchain-Technologie für die Entwicklung der Souveränendinfrastruktur.Technische Analyse:
+In den Nachrichten wurde bekannt, dass **Paraguay** 6 Mio. USD in eine **Polkadot-basierte Tokenisierungsinitiative** investiert – eine bemerkenswerte staatliche Unterstützung für Blockchain-Technologie zur Entwicklung nationaler Infrastruktur.
 
-Haftungsausschluss: Teile dieses Artikels wurden mit Unterstützung von KI -Tools generiert und von unserem Redaktionsteam überprüft, um die Genauigkeit und Einhaltung unserer Standards zu gewährleisten.Weitere Informationen finden Sie in der vollständigen KI -Richtlinie von Coindesk.
+---
 
-Coindesk Analytics ist Cointsks KI-betriebenes Tool, das mit Hilfe menschlicher Reporter Marktdatenanalysen, Preisbewegungsberichte und finanzielle Inhalte erzeugt, die sich auf Kryptowährung und Blockchain-Märkte konzentrieren.
-
-Alle von Coindesk Analytics produzierten Inhalte werden vor der Veröffentlichung durch das Redaktionsteam von Coindesk durch menschliche Bearbeitung unterzogen.Das Tool synthetisiert Marktdaten und Informationen aus Coindesk -Daten und anderen Quellen, um zeitnahe Marktberichte zu erstellen, wobei alle externen Quellen in jedem Artikel klar zugeschrieben werden.
-
-Coindesk Analytics
+*Teile dieses Artikels wurden mithilfe von KI-Tools generiert und vom CoinDesk-Redaktionsteam überprüft.*
