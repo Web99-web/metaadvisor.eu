@@ -1,31 +1,31 @@
 ---
-title: "NVIDIA (NVDA) Zarada: BTC, ETH, XRP malo promijenjena"
+title: "Nvidia (NVDA) rezultati: BTC, ETH, XRP gotovo nepromijenjeni"
 date: 2025-08-27T20:36:04Z
 category: "crypto"
 translationKey: "c54d563dffe15c63f9192234dbda05db"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/27/nvidia-shares-edge-lower-after-earnings-beat-cryptocurrencies-little-changed"
-summary: "Bitcoin i ostale kriptovalute pokazali su neku volatilnost, ali uglavnom su bili ravni u zapisnicima nakon izvještaja."
-tags: ["crypto"]
-image_url: "/news/2025-08-27-nvidia-nvda-earnings-btc-eth-xrp-little-changed.jpg"
+summary: "Bitcoin i druge kriptovalute pokazale su volatilnost, ali su ostale gotovo nepromijenjene nakon objave izvještaja."
+tags: ["crypto","BTC","ETH","XRP","Nvidia","rezultati"]
+image_url: "https://www.coindesk.com/resizer/b3x6c4XzDvsXyP0Lx5tN0c9C94k=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3XH75JZ3ZZGDRB2WZFHJZQ4JTI.jpg"
 ---
 
-Nvidia (NVDA) izvijestila je o jačim zaradama od očekivanog u srijedu u srijedu, što je objavilo prihod od 46,7 milijardi dolara, što je 56% povećanje u odnosu na godinu ranije.
+Nvidia (NVDA) objavila je u srijedu rezultate iznad očekivanja za drugo tromjesečje, s prihodom od 46,7 milijardi USD, što je rast od 56% u odnosu na prošlu godinu.
 
-Rezultati naglašavaju ulogu proizvođača čipova u središtu AI bum-a, jer je potražnja za njegovim snažnim procesorima pokazala malo znaka usporavanja.
+Rezultati potvrđuju središnju ulogu proizvođača čipova u AI boomu, budući da potražnja za njihovim procesorima visokih performansi i dalje ne pokazuje znakove usporavanja.
 
-Dionice tvrtke pale su za 1,7 % u trgovanju nakon radnog vremena, s nekim prihodima podatkovnog centra kao malo mekanog na 41,1 milijardu dolara u odnosu na procjene od 41,29 milijardi dolara.
+Dionice kompanije pale su 1,7% u trgovanju nakon zatvaranja burze, a neki analitičari primijetili su da su prihodi podatkovnih centara pomalo slabi — 41,1 milijarda USD u usporedbi s procijenjenih 41,29 milijardi USD.
 
-Tokeni vezani uz AI, poput Internet računala ICP 5,0451, u blizini protokola i Bittensor Tao 334,45 USD pokazali su malu reakciju na vijesti, trgujući otprilike ravnim od prije rezultata.
+Tokeni povezani s umjetnom inteligencijom poput Internet Computer (ICP 5,0451 USD), NEAR Protocol i Bittensor (TAO 334,45 USD) nisu pokazali značajnu reakciju na vijesti, trgujući otprilike ravno u odnosu na razinu prije objave.
 
-Bitcoin BTC $ 113.025,87, eter (ETH) i XRP XRP $ 2,9967 Donked knee-a niže na vijestima, ali brzo je povukao te gubitke, pokazujući otprilike neto kretanje od prije zarade.
+Bitcoin (BTC 113.025,87 USD), ether (ETH) i XRP (2,9967 USD) nakratko su pali nakon objave rezultata, ali su se brzo oporavili, pokazavši gotovo nikakav neto pomak u odnosu na prethodne razine.
 
-Wall Street pomno će raščlaniti Nvidijine komentare, posebno za znakove da hiperscaleri poput Microsofta, Meta i Amazona još uvijek povećavaju naloge čipova.Analitičari također traže ažuriranja o radu tvrtke na razvoju naprednijih čipova za Kinu, tržištu na kojem američka ograničenja izvoza kompliciraju prodaju.
+Wall Street će pažljivo analizirati komentare Nvidije, posebno tražeći znakove da li veliki kupci poput Microsofta, Mete i Amazona i dalje povećavaju narudžbe čipova. Analitičari također traže ažuriranja o radu tvrtke na razvoju naprednijih čipova za Kinu, tržište na kojem američka izvozna ograničenja kompliciraju prodaju.
 
-Nvidia je trebala ugostiti svoj poziv za zaradu u 17:00.E.T., gdje će rukovoditelji postavljati pitanja analitičara.
+Nvidia će održati svoj poziv s analitičarima u 17 sati po istočnom vremenu, gdje će rukovoditelji odgovarati na pitanja analitičara.
 
-Helene je novinarka na tržištima u New Yorku u Coindesku, koja je pokrivala najnovije vijesti s Wall Streeta, uspon sredstava i ažuriranja na kripto tržištima.Diplomirala je na programu poslovnog i ekonomskog izvještavanja na Sveučilištu New York, a pojavila se na CBS News, Yahoofinance i NASDAQ Tradetalks.Ona drži BTC i ETH.
+---
 
-XRP se suočava s 3,04 USD otpora kao što je RSI neutralan, MACD okreće
+**XRP suočen s otporom na 3,04 USD dok je RSI neutralan, MACD se okreće**
 
-Token konsolidira iznad 2,98 dolara podrške nakon 273 milijuna američkih količina u utorak
+Token se konsolidira iznad podrške na 2,98 USD nakon skoka volumena od 273 milijuna USD tijekom utorka.
