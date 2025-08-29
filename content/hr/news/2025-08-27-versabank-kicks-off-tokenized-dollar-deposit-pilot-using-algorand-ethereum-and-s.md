@@ -1,25 +1,25 @@
 ---
-title: "Versabank započinje tokenizirani pilot depozita u dolaru pomoću algoranda, Ethereuma i zvjezdanih"
+title: "VersaBank pokreće pilot tokeniziranih dolarskih depozita na Algorandu, Ethereumu i Stellaru"
 date: 2025-08-27T20:26:55Z
 category: "crypto"
 translationKey: "efb395ce30d97550de8c27f793692b67"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/08/27/versabank-tests-tokenized-deposits-on-algorand-ethereum-and-stellar-in-u-s-pilot"
-summary: "Digitalna banka Versabank otkrila je planove za proširenje svojih primitaka za digitalne depozite u SAD-u s regulatornim nadzorom u fokusu."
-tags: ["crypto"]
-image_url: "/news/2025-08-27-versabank-kicks-off-tokenized-dollar-deposit-pilot-using-algorand-ethereum-and-s.jpg"
+summary: "Kanadska digitalna banka VersaBank pokrenula je testiranje blockchain-temeljenih tokeniziranih depozita u SAD-u, s naglaskom na regulatorni nadzor."
+tags: ["crypto","VersaBank","Algorand","Ethereum","Stellar","tokenized deposits"]
+image_url: "https://www.coindesk.com/resizer/XKwdVQFZsdDe7q3H2FZC88Gxwqg=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WXYZ12345.jpg"
 ---
 
-Versabank, kanadska digitalna banka s fokusom na poslovne klijente, započela je s testiranjem tokeniziranog depozita za koje banka kaže da pruža sigurniju i usklađeniju alternativu Stablecoinima.
+VersaBank, kanadska digitalna banka fokusirana na poslovne klijente, započela je testiranje tokeniziranog depozita za koji tvrdi da nudi sigurniju i regulatorno usklađeniju alternativu stablecoinima.
 
-Pilot, koji je prolazio kroz američku podružnicu Banke Verbabank USA, pokupit će američku verziju Banke Bank-ove tehnologije digitalnih depozita sa sjedištem u blockchainu (DDRS).Svaki token, brendiran USDVB, predstavlja jedan američki dolar koji se nalazi na depozitu u Versabank USA.
+Pilot se provodi putem američke podružnice VersaBank USA i uključuje testiranje američke verzije blockchain-temeljenih Digital Deposit Receipts (DDR). Svaki token, nazvan USDVB, predstavlja jedan američki dolar deponiran u VersaBank USA.
 
-Program će simulirati tisuće transakcija male vrijednosti, najprije interno, a zatim s odabranim vanjskim partnerima.Tokeni će se upravljati putem platformi za digitalni trezor i platforme e-zida i izdaju se na Ethereum ETH 4.571,78 USD, Algorand Algo 0,2518 USD i zvjezdanim blockchainima XLM 0,3828 USD.
+Program će simulirati tisuće transakcija male vrijednosti, prvo interno, a zatim s odabranim vanjskim partnerima. Tokeni će se upravljati putem bankinog digitalnog trezora i e-wallet platformi te izdavati na Ethereum (ETH 4.571,78 USD), Algorand (ALGO 0,2518 USD) i Stellar (XLM 0,3828 USD) blockchainima.
 
-Dok su stabilnici, kripto tokeni s cijenama vezanim za fiat valute poput američkog dolara privukli su većinu pažnje, banke također istražuju tokenizirane depozite kako bi transferi novca učinile učinkovitijim pomoću blockchain šina.Stabblecoin, poput USDC-a Circle ili Tether-a, obično izdaje privatna tvrtka i podržava vrijednost tokena s rezervama koje se održavaju u skrbniku treće strane.U međuvremenu, tokenizirani depozit je obveza regulirane banke i podložna je bankarskim pravilima.
+Dok stablecoini — kripto tokeni vezani uz fiat valute poput američkog dolara — privlače većinu pažnje, banke istražuju tokenizirane depozite kako bi prijenose novca učinile učinkovitijima korištenjem blockchain mreža. Stablecoine, poput Circle USDC ili Tether USDT, obično izdaju privatne tvrtke i podržavaju rezervama kod trećih skrbnika. Suprotno tome, tokenizirani depozit je obveza regulirane banke i podliježe bankarskim pravilima.
 
-Početkom ove godine, Custodia i Vantage Bank tokenizirali su depozite potražnje za američkim dolarima na Ethereumu, dok je JPMorgan testirao svoj token depozita na mrežnoj bazi sloja-2 CoinBase.
+Ranije ove godine, Custodia i Vantage Bank tokenizirali su američke depozite na Ethereumu, dok je JPMorgan testirao svoj depozitni token na Coinbase layer-2 mreži Base.
 
-Za razliku od većine Stablecoina, Versabank je rekao da su njezini tokeni savezno osigurani i mogu zaraditi kamate, što ih čini funkcionalno sličnim tradicionalnim depozitima, ali s dodatnom učinkovitošću nagodbe temeljenog na blockchainu.
+Za razliku od većine stablecoina, VersaBank tvrdi da su njezini tokeni federalno osigurani i mogu donositi kamatu, čineći ih funkcionalno sličnima tradicionalnim depozitima, ali s dodatnom učinkovitošću blockchain namire.
 
-Banka je priopćila kako očekuje da će pilot završiti do kraja 2025. godine i da će tražiti odobrenje od ureda nadzornika valute (OCC) prije
+Banka očekuje da će pilot završiti do kraja 2025. godine i planira tražiti odobrenje američkog Ureda kontrolora valute (OCC) prije šire implementacije.
