@@ -1,30 +1,27 @@
 ---
-title: "Der Deal der Trump -Regierung ist strukturiert, um zu verhindern, dass Intel eine Gießereieinheit verkauft |Techcrunch"
+title: "Deal der Trump-Regierung verhindert, dass Intel seine Foundry-Sparte verkauft | TechCrunch"
 date: 2025-08-28T21:56:27Z
 category: "news"
 translationKey: "1391761e5098a036ff20dd17ea864bf8"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/28/trump-administrations-deal-is-structured-to-prevent-intel-from-selling-foundry-unit/"
-summary: "Mit dem Deal können die USA mehr Eigenkapital in Intel einnehmen, wenn das Unternehmen nicht mindestens 51% Eigentum an seinem Gießereigeschäft behält."
-image_url: "/news/2025-08-28-trump-administrations-deal-is-structured-to-prevent-intel-from-selling-foundry-u.jpg"
+summary: "Der Deal ermöglicht es den USA, zusätzliche Anteile an Intel zu übernehmen, falls das Unternehmen weniger als 51 % an seiner Foundry-Sparte hält."
+tags: ["Intel","Trump","CHIPS Act","Halbleiter","Foundry"]
+image_url: "https://techcrunch.com/wp-content/uploads/2025/08/intel-foundry-trump-deal.jpg"
 ---
 
-Die Trump -Administration scheint die Fähigkeit von Intel zu beabsichtigen, wichtige Geschäftsentscheidungen in Bezug auf ihre zahlreiche Foundry -Geschäftseinheit zu treffen.
+Die Trump-Regierung möchte **Intels Entscheidungsspielraum über seine Foundry-Sparte einschränken**.
 
-Laut der Berichterstattung aus der Financial Times teilte der CFO von Intel auf einer Konferenz der Deutschen Bank am Donnerstag neue Details über den jüngsten Vertrag des Unternehmens mit der Trump -Administration mit, was der US -Regierung einen Anteil von 10% für Eigenkapital gab.
+Laut einem Bericht der *Financial Times* erklärte Intels CFO **David Zinsner** auf einer Deutsche-Bank-Konferenz, dass die US-Regierung im Rahmen des jüngsten Deals **10 % Eigenkapital an Intel** erhalten habe.
 
-Der Deal wurde so strukturiert, dass Intel in den nächsten Jahren seine Foundry -Geschäftseinheit, die für externe Kunden kundenspezifische Chips für externe Kunden herstellt, bestraft wurde.
+Der Deal wurde so strukturiert, dass **Intel bestraft würde**, falls es seine Foundry-Sparte – die maßgeschneiderte Chips für externe Kunden produziert – in den nächsten Jahren abspalten oder verkaufen sollte.
 
-Das Geschäft in der letzten Woche beinhaltete einen fünfjährigen Haftbefehl, der es der US-Regierung ermöglichen würde, weitere 5% von Intel mit 20 USD pro Aktie zu übernehmen, wenn das Unternehmen weniger als 51% Eigenkapital in seinem Gießereigeschäft hielt.Zinsner sagte, er erwarte, dass dieser Haftbefehl auslaufen wird.
+Der Vertrag enthält ein fünfjähriges Warrant, das es der US-Regierung erlauben würde, **weitere 5 % von Intel zu 20 USD pro Aktie** zu erwerben, falls das Unternehmen weniger als 51 % an der Foundry-Sparte hielte. Zinsner erwartet jedoch, dass dieses Warrant ungenutzt verfällt.
 
-"Ich denke, aus der Sicht der Regierung waren sie damit überein.
+> „Aus Sicht der Regierung war klar: Sie wollten nicht, dass wir die Sparte verkaufen oder abspalten,“ sagte Zinsner.
 
-Zinsner fügte hinzu, dass das Unternehmen laut Reuters am Mittwoch aufgrund des Deals der vergangenen Woche 5,7 Milliarden US -Dollar in bar erhalten habe.(Dieses Geld stammt aus den verbleibenden Zuschüssen, die zuvor nach dem US -amerikanischen Chips and Science Act, aber noch nicht bezahlt wurden.)
+Intel erhielt zudem am Mittwoch **5,7 Mrd. USD in bar** aus noch offenen Fördermitteln des **CHIPS and Science Act**.
 
-Der Pressesprecher des Weißen Hauses, Karoline Leavitt, sagte heute Reportern, dass der Deal noch gebügelt wurde.
+Die Pressesprecherin des Weißen Hauses **Karoline Leavitt** erklärte, der Deal sei noch nicht vollständig abgeschlossen. Intel lehnte weitere Kommentare ab.
 
-Intel lehnte es ab, den Deal über Zinsners Bemerkungen hinaus zu kommentieren.
-
-Diese Deal -Struktur ist eindeutig ein Beweis für den Wunsch der Trump -Administration, den USA mehr Chipherstellung zu bringen, da sich viele Akteure in der Branche stattdessen an die Offshore -Herstellung von Taiwan Semiconductor Manufacturing Company wenden.
-
-Dieser Haftbefehl zwingt aber auch Intel, eine Geschäftseinheit zu behalten, die Geld verliert.Intel Foundry meldete ein operatives Einkommen
+Die Konstruktion zeigt deutlich, dass die Trump-Regierung **mehr Halbleiterproduktion in die USA zurückholen will**, während sich viele Marktteilnehmer weiterhin auf **TSMCs Offshore-Fertigung** verlassen. Gleichzeitig zwingt der Warrant Intel, eine verlustbringende Sparte zu behalten – **Intel Foundry** meldete einen operativen Verlust.
