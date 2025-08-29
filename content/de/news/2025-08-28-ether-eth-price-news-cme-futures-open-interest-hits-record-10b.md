@@ -1,25 +1,25 @@
 ---
-title: "Ether (ETH) Preisnachrichten: CME Futures Open Zinsen trifft Rekord $ 10b"
+title: "Ether (ETH) Kurs-News: CME Futures Open Interest erreicht Rekord von 10 Mrd. USD"
 date: 2025-08-28T05:10:04Z
 category: "crypto"
 translationKey: "ddad0941e41b567921b6ca3b34ea10b8"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/28/ether-futures-open-interest-on-cme-hits-record-usd10b-hinting-at-institutional-resurgence"
-summary: "Das institutionelle Interesse an Äther wächst, wobei große Inhaber von offenem Interesse Anfang dieses Monats einen Rekord von 101 erreichen."
-tags: ["crypto"]
-image_url: "/news/2025-08-28-ether-eth-price-news-cme-futures-open-interest-hits-record-10b.jpg"
+summary: "Das institutionelle Interesse an Ether wächst – die Zahl der Großhalter offener Positionen erreichte Anfang des Monats 101."
+tags: ["crypto","Ethereum","ETH","Futures","CME","Institutionen"]
+image_url: "https://www.coindesk.com/resizer/vqUArE8U3d2b8uTGb_iuSK4mAB8=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ETHFuturesCME.jpg"
 ---
 
-Der CME -Markt für regulierte Ether (ETH) Futures erhitzt sich, wenn sich die laufende Rotation von Bitcoin BTC $ 113.025,87 beschleunigt.
+Der regulierte Ether (ETH) Futures-Markt der CME heizt sich auf, während die Rotation aus Bitcoin (BTC 113.025,87 USD) zunimmt.
 
-Das Total Niktional Open Interest (OI) an ETH -Futures hat kürzlich erstmals 10 Milliarden US -Dollar überschritten, wie der von der Börse mit Coindek geteilte Daten hervorgeht.Anfang dieses Monats traf die Zahl der großen Inhaber von offenen Zinsen einen Rekord 101.
+Das gesamte offene Nominalinteresse (OI) in ETH-Futures überstieg erstmals **10 Milliarden USD**, so Daten der Börse an CoinDesk. Anfang des Monats erreichte die Zahl der großen OI-Haltern einen Rekordwert von 101.
 
-Die fiktive OI repräsentiert den Dollarwert der Anzahl der aktiven oder offenen Verträge zu einem bestimmten Zeitpunkt.Das CME bietet Standardverträge mit einer Größe von 50. und Micro -Verträgen mit einer ETH.Die großen Inhaber sind diejenigen, die zu einem bestimmten Zeitpunkt mindestens 25 Ätherverträge geöffnet haben.
+Das nominale OI repräsentiert den Dollarwert der aktuell offenen Verträge. Die CME bietet Standardkontrakte zu 50 ETH und Micro-Kontrakte zu 0,1 ETH an. Als große Halter gelten Marktteilnehmer, die mindestens 25 Futures gleichzeitig offen halten.
 
-Der neue hohe offene Interesse begleitet andere rekordverdächtige Metriken, einschließlich der Anzahl der offenen Micro-Ether-Verträge, die 500.000 überschritten haben, und ätherische Optionen für offene Zinsen über 1 Milliarde US-Dollar.Etheroptionen OI in Vertragsbedingungen erreichten ein Jahr lang ein Hoch von über 4.800 Verträgen.
+Dieser neue Rekord fällt mit weiteren Bestmarken zusammen: die Zahl der offenen Micro-ETH-Kontrakte überstieg 500.000, während das Open Interest bei Ether-Optionen die Marke von 1 Milliarde USD überschritt. In Kontraktzahlen gemessen erreichten Ether-Optionen ein Jahreshoch von über 4.800 Kontrakten.
 
-"We're certainly seeing a resurgence and renewed enthusiasm in Ether futures -- especially as it relates to institutional participation. Our Ether futures Large Open Interest Holders (LOIH) hit a record of 101 during the week of August 5. This is a critical indicator for market participants as it signals a strengthening of the institutional and professional ecosystem around ether," Giovanni Vicioso, global head of cryptocurrency products at CME Group, toldCoindesk in einer E -Mail.
+> „Wir sehen eindeutig ein Wiederaufleben und neue Begeisterung für Ether-Futures – insbesondere im institutionellen Bereich. Unsere ‘Large Open Interest Holders’ (LOIH) erreichten in der Woche des 5. August mit 101 einen Rekordwert. Dies ist ein entscheidender Indikator für Marktteilnehmer, da er auf die Stärkung des institutionellen und professionellen Ökosystems um Ether hinweist,“ erklärte Giovanni Vicioso, Global Head of Cryptocurrency Products bei CME Group.
 
-"In Bezug auf die breiteren Trends im Umgang mit dem Anstieg haben erhöhte Netzwerkaktivitäten, die Akkumulation von Ätherern und positiven regulatorischen Entwicklungen eine breit angelegte Rallye um Äther- und ätherbasierte Derivate weiter beigetragen", fügte Vicioso hinzu.
+> „Breitere Trends wie gestiegene Netzwerkaktivität, Ether-Akkumulation in Unternehmenskassen und positive regulatorische Entwicklungen haben zusätzlich zu einer breiten Rally bei Ether und Ether-Derivaten beigetragen,“ fügte Vicioso hinzu.
 
-Während der Äthermarkt boomt, offenes Interesse an Bitcoin BTC $ 113.025,87 Futures,
+Während der Ether-Markt boomt, bleibt das Open Interest bei Standard-Bitcoin-Futures zurück, was eine Verschiebung des institutionellen Fokus zugunsten von Ethereum verdeutlicht.
