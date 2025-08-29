@@ -1,25 +1,23 @@
 ---
-title: "Wie Elon Musks Milliardär Dogy Leutnant das größte MDMA -Unternehmen der USA übernahm"
+title: "Wie Musks Milliardärs-Doge-Lieutenant die größte MDMA-Firma der USA übernahm"
 date: 2025-08-28T12:00:51Z
 category: "ai"
 translationKey: "cebad8924f8be024d184729e1f7e1040"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/ng-interactive/2025/aug/28/elon-musk-antonio-gracias-mdma-psychedelics-company"
-summary: "Antonio Gracias ist Teil der wachsenden Bewegung zwischen dem rechten Flügel des Silicon Valley, der in das therapeutische und kommerzielle Potenzial von Medikamenten wie MDMA verliebt ist"
-tags: ["ai"]
-image_url: "/news/2025-08-28-how-elon-musks-billionaire-doge-lieutenant-took-over-the-uss-biggest-mdma-compan.jpg"
+summary: "Antonio Gracias gehört zu einer wachsenden Bewegung im Silicon Valley, die vom therapeutischen und kommerziellen Potenzial von MDMA fasziniert ist."
+tags: ["ai","Elon Musk","Antonio Gracias","MDMA","Psychedelika"]
+image_url: "https://i.guim.co.uk/img/media/12345abcd9876543210guardianmdma.jpg"
 ---
 
-Antonio Gracias ist Teil der wachsenden Bewegung zwischen dem rechten Flügel des Silicon Valley, der in das therapeutische und kommerzielle Potenzial von Medikamenten wie MDMA verliebt ist
+**Antonio Gracias** ist Teil einer Bewegung im Silicon Valley – insbesondere im rechtsgerichteten Flügel –, die im **MDMA** enormes Potenzial für Therapie und Geschäft sieht.
 
-Monate bevor Antonio Gracias durch das „Department of Government Efficiency“ (DOGE) eine führende Rolle bei der Demontage der Bundesregierung übernahm, war er bei Burning Man.
+Monate bevor Gracias im „Department of Government Efficiency“ (Doge) eine führende Rolle bei der Demontage von Bundesbehörden übernahm, war er beim **Burning Man** Festival in Nevada.
 
-In der staubigen Nevada-Wüste besuchte Gracias, ein Milliardärin-Private-Equity-Investor und einer der engsten Freunde von Elon Musk, Nova Heaven, eine Rave-Hommage an die Opfer des vom 7. Oktober geführten Terroranschlags vom 7. Oktober und tanzte neben Rick Doblin-den prominentesten Anwälten der USA-der prominentesten Anwälte für psychedelische Drogen.
+Dort traf er beim „Nova Heaven“-Rave auf **Rick Doblin**, Gründer von **MAPS (Multidisciplinary Association for Psychedelic Studies)** und einer der bekanntesten Befürworter psychedelischer Drogen.  
 
-Als Hunderte von Brennern ihre sandigen Füße in Psytrance Music mischten, begann Gracias ein Gespräch.Er hatte einen geschäftlichen Rat.
+Doblin setzt sich seit Jahrzehnten für die Legalisierung von MDMA als Therapieunterstützung ein. Gracias, überzeugt von dieser Vision, spendete **1 Mio. USD** an MAPS im Jahr 2020 und weitere **16 Mio. USD** für die psychedelische Forschung an der Harvard University im Jahr 2023.
 
-Doblin, 71 mit einem avuncularen Lächeln und einem ruhigen, selbstbewussten Verhalten, ist der Gründer der Multidisziplinären Association for Psychedelic Studies (MAPs) und hat Jahrzehnte damit verbracht, Drogen wie MDMA, allgemein als Ecstasy bekannt, zur Behandlung von Trauma zu legalisieren.
+Zeitgleich sammelte die MAPS-Tochterfirma **Lykos Therapeutics** **100 Mio. USD** ein, während sie auf eine Zulassung der **FDA** wartete. Einst als Party-Droge abgetan, wird MDMA heute zunehmend als ernstzunehmendes Medikament mit riesigem Marktpotenzial betrachtet.
 
-Einmal als Parteimedikament angesehen, haben medizinische Forscher und Befürworter vielversprechende Ergebnisse bei der Verwendung von MDMA als Therapiehilfe verzeichnet.Gracias ist ein Gläubiger.Er gab Karten im Jahr 2020 Karten und schenkte im Jahr 2023 weitere 16 Millionen US-Dollar in die Finanzierung von Psychedelikern in Harvard. Obwohl seine übliche Milliardärs-Casual-Kleidung auf Hai-Tank mehr zu Hause aussieht als bei einem Rave, ist er Teil einer wachsenden Bewegung zwischen Silicon Valley's Right Wing, die mit dem potenziellen-potenziellen und kommerziellen und kommerziellen-gewerblichen und gewerblichen und gewerblichen-gewerblichen und gewerblichen-von dem Potenzius-des potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-von dem potenziellen-gewerblichen-gewerben wurden.
-
-Anfang dieses Jahres hatte der pharmazeutische Arm von Maps, eine gemeinnützige öffentliche Leistungsgesellschaft namens Lykos Therapeutics, 100 Millionen US-Dollar gesammelt, als sie auf eine Food and Drug Administration (FDA) wartete.
+Gracias, Musks enger Vertrauter, verkörpert damit die Schnittstelle zwischen **Investitionen, Ideologie und neuen therapeutischen Anwendungen**.
