@@ -1,22 +1,23 @@
 ---
-title: "Azijski jutarnji brifing: Stablecoini nude Peking što E-CNY ne može u prekograničnoj upotrebi, kaže ekonomist"
+title: "Asia Morning Briefing: Stablecoini Pekingu nude ono što e-CNY ne može u prekograničnoj upotrebi, tvrdi ekonomist"
 date: 2025-08-27T23:34:47Z
 category: "news"
 translationKey: "1401f944478e4cadfbc79f0694cac95a"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/28/asia-morning-briefing-stablecoins-offer-beijing-what-e-cny-can-t-in-cross-border-use-economist-says"
-summary: "Dominacija Dollar zahvaljujući Stablecoins potiče Kinu da istražuje Stablecoins, ali kontrola kapitala ograničava projekt na tržište Hong Konga na offshore Renminbi, gdje je likvidnost tanka."
-image_url: "/news/2025-08-27-asia-morning-briefing-stablecoins-offer-beijing-what-e-cny-cant-in-cross-border.jpg"
+summary: "Dominacija dolara zahvaljujući stablecoinima potiče Kinu da istraži vlastite stablecoine, ali stroge kontrole kapitala ograničavaju projekt na hongkonško offshore RMB tržište, gdje je likvidnost slaba."
+tags: ["crypto","stablecoin","China","e-CNY","CBDC","HongKong","Beijing"]
+image_url: "https://www.coindesk.com/resizer/stablecoins-vs-ecny.jpg"
 ---
 
-Dobrodošli u Asia Morning Briefing, dnevni sažetak najboljih priča tijekom američkih sati i pregled tržišnih poteza i analize.Za detaljan pregled američkih tržišta, pogledajte Coindesk -ov kripto dan knjiženja Americas.Rastući fokus Kine na Stablecoins manje je u prihvaćanju kriptovaluta, a više o obrani svoje valute od američke dominacije u dolarima, kaže dr. Vera Yuen sa poslovne škole sveučilišta u Hong Kongu, koja tvrdi da smjena ističe mogućnosti offshore -a, ali i duboke domaće granice.
+Dobrodošli u Asia Morning Briefing, dnevni pregled najvažnijih događaja tijekom američkih sati i analizu tržišta. Fokus današnjeg izdanja je Kina: zašto Peking sve ozbiljnije razmatra stablecoine, i što to znači za globalnu monetarnu ravnotežu.
 
-Pekingov pomak dolazi nakon što je Washington prvi put krenuo kako bi stvorio regulatorni okvir za industriju Stablecoin u američkom Reutersu nedavno je izvijestio da kinesko državno vijeće pregledava mapu puta za Stablecoins podržane Yuan-om kasnije ovog mjeseca, a Hong Kong i Šangaj očekivali su da će brzo usvajati.
+Prema dr. Veri Yuen s Poslovne škole Sveučilišta u Hong Kongu, naglasak nije na prihvaćanju kriptovaluta, već na obrani juana od dominacije američkog dolara. Stabilnost dolara putem stablecoina potaknula je Kinu da ubrza vlastite planove, no stroge kontrole kapitala ograničavaju inicijativu uglavnom na offshore RMB tržište u Hong Kongu, gdje je likvidnost tanka.
 
-U ranijem intervjuu, predsjednik Animoca grupe Evan Auyang rekao je Coindesk da je okidač bio američki genijalni zakon, koji je tokene s dolarima u kao dio globalne financije.
+Pomak dolazi nakon što je Washington prvi izgradio regulatorni okvir za stablecoine. Reuters je nedavno izvijestio da Državno vijeće Kine ovog mjeseca razmatra plan za stablecoin vezan uz juan, a Hong Kong i Šangaj očekuje se da će ubrzati usvajanje.
 
-Kazao je da zakon "vrši pritisak na Kinu da djeluje mnogo brže", gurajući Peking da smatra stabilekoine ne kao špekulativne instrumente, kako je jednom opisala Narodna banka Kine, već kao potrebna infrastruktura kako bi održala korak u globalnoj trgovini i nagodbi.
+Predsjednik Animoca Grupe Evan Auyang rekao je za CoinDesk da je katalizator bio američki GENIUS Act, koji je učvrstio ulogu stablecoina vezanih za dolar u globalnim financijama. „Zakon vrši pritisak na Kinu da djeluje puno brže,“ rekao je Auyang, dodajući da Peking stablecoine sada gleda ne kao spekulativne instrumente, već kao ključnu infrastrukturu za trgovinu i namiru.
 
-Yuen je rekao da je vlada prvo prioritetno prioritet E-CNY-u, njegovoj digitalnoj valuti središnje banke, jer je ponudila kontrolu, sljedivost i profit seigniorage-značajke koje regulatori cijene nad onima privatno izdanih žetona.Ali napomenula je da Stablecoini imaju jasnu prednost u međunarodnoj upotrebi.
+Yuen je objasnila da je vlada u početku prioritet dala e-CNY-u, svom digitalnom juanu, zbog kontrole, praćenja transakcija i seigniorage prihoda. Međutim, stablecoini imaju očitu prednost u međunarodnoj upotrebi. „Mnogi CBDC-ovi razvijeni su za domaću uporabu, dok stablecoini od početka ciljaju na globalnu interoperabilnost,“ naglasila je.
 
-"Mnogi CBDC razvijeni su za domaću upotrebu, tako da je za međunarodnu upotrebu CBDC-a veliki problem interoperabilnosti različitih sustava. Stablecoini su dizajnirani za upotrebu u međunarodnoj razini, tako da to može biti bolja opcija za prekogranične transakcije", rekla je za rekla
+Zaključak je jasan: e-CNY ostaje alat unutarnje monetarne politike, dok stablecoini mogu ponuditi Pekingu ono što mu najviše nedostaje — konkurentnost u međunarodnim prekograničnim plaćanjima.
