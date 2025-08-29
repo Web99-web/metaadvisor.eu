@@ -1,22 +1,23 @@
 ---
-title: "Asia Morning Briefing: Stablecoins bietet Peking, was E-CNY im grenzüberschreitenden Gebrauch nicht kann, sagt Economist"
+title: "Asia Morning Briefing: Stablecoins bieten Peking, was e-CNY im grenzüberschreitenden Einsatz nicht kann, sagt Ökonomin"
 date: 2025-08-27T23:34:47Z
 category: "news"
 translationKey: "1401f944478e4cadfbc79f0694cac95a"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/28/asia-morning-briefing-stablecoins-offer-beijing-what-e-cny-can-t-in-cross-border-use-economist-says"
-summary: "Die Dominanz von Dollar dank Stablecoins drängt China, Stablecoins zu erkunden, aber die Kapitalkontrollen beschränken das Projekt auf den Offshore -Renminbi -Markt in Hongkong, auf dem die Liquidität dünn ist."
-image_url: "/news/2025-08-27-asia-morning-briefing-stablecoins-offer-beijing-what-e-cny-cant-in-cross-border.jpg"
+summary: "Die Dollar-Dominanz durch Stablecoins zwingt China, eigene Stablecoin-Pläne zu prüfen – Kapitalverkehrskontrollen beschränken dies jedoch auf Hongkongs Offshore-RMB-Markt mit geringer Liquidität."
+tags: ["crypto","stablecoin","China","e-CNY","CBDC","HongKong","Beijing"]
+image_url: "https://www.coindesk.com/resizer/stablecoins-vs-ecny.jpg"
 ---
 
-Willkommen bei Asia Morning Briefing, eine tägliche Zusammenfassung der Top -Geschichten während der US -Stunden und einen Überblick über Marktbewegungen und Analysen.Eine detaillierte Übersicht über US -Märkte finden Sie in Coindesks Crypto Daybook Americas.Chineas wachsende Fokus auf Stablecoins geht es weniger darum, Krypto zu umarmen, und mehr darum, seine Währung durch Dominanz der US -Dollar zu verteidigen, sagt Dr. Vera Yuen von der Business School der Universität der Universität Hongkong, der argumentiert, dass die Schicht die Offshore -Möglichkeiten, aber auch tiefe Inlandsgrenzen hervorhebt.
+Willkommen zum Asia Morning Briefing, einer täglichen Übersicht der wichtigsten Nachrichten während der US-Handelszeiten und Marktanalysen. Heute im Fokus: China und sein wachsendes Interesse an Stablecoins.
 
-Die Schicht von Peking erfolgt, als Washington zuerst einen regulatorischen Rahmen für die Stablecoin-Industrie in den US-amerikanischen Reuters erstellte, berichtete kürzlich, dass der chinesische Staatsrat eine Roadmap für die von Yuan unterstützte Stablecoins im Laufe dieses Monats überprüft. Hongkong und Shanghai werden voraussichtlich eine schnelle Adoption über die Fast-Track-Adoption erwartet.
+Laut Dr. Vera Yuen von der Hong Kong University Business School geht es Peking weniger um die Annahme von Krypto, sondern um die Verteidigung des Renminbi gegen die Dominanz des US-Dollars. Da Dollar-Stablecoins im internationalen Handel immer wichtiger werden, prüft China eigene Yuan-gebundene Stablecoins. Strenge Kapitalverkehrskontrollen beschränken dies allerdings auf Hongkongs Offshore-Markt, wo die Liquidität schwach ist.
 
-In einem früheren Interview sagte der Präsident der Animoca-Gruppe, Evan Auyang, Coindesk, der Auslöser sei das US-Geniusgesetz, das als Teil der globalen Finanzen Dollar gepackte Token zementiert.
+Der Schritt folgt, nachdem die USA als erste ein umfassendes regulatorisches Framework für Stablecoins geschaffen haben. Laut Reuters prüft der Staatsrat Chinas noch in diesem Monat eine Roadmap für einen Yuan-Stablecoin, mit Hongkong und Shanghai als erste Pilotstandorte.
 
-Er sagte, dass das Gesetz „China unter Druck setze, viel schneller zu handeln“ und Peking darauf zu drängen, Stablecoins nicht als spekulative Instrumente zu berücksichtigen, wie einst von der Volksbank von China beschrieben, sondern als notwendige Infrastruktur, um den Schritt in der globalen Handel und in der globalen Siedlung zu halten.
+Evan Auyang, Präsident der Animoca Group, erklärte gegenüber CoinDesk, dass der GENIUS Act der USA der Auslöser sei, da er Dollar-Stablecoins als festen Bestandteil des globalen Finanzsystems etabliere. „Dieses Gesetz setzt China massiv unter Druck,“ so Auyang, „sodass Peking Stablecoins nun als Infrastruktur und nicht länger als reine Spekulation betrachtet.“
 
-Yuen sagte, die Regierung habe die E-CNY, ihre digitale Währung der Zentralbank, erstmals priorisiert, da sie Kontrolle, Rückverfolgbarkeit und Gewinne der Signiorage anbot-Merkmale, die die Aufsichtsbehörden über die von privat ausgestellten Token schätzten.Sie bemerkte jedoch, dass Stablecoins einen klaren Vorteil im internationalen Gebrauch haben.
+Yuen betonte, dass die Regierung den e-CNY ursprünglich bevorzugte, weil er Kontrolle, Nachverfolgbarkeit und Seigniorage-Einnahmen bietet. Stablecoins hingegen hätten einen klaren Vorteil bei internationaler Nutzung. „CBDCs sind meist für den Binnenmarkt ausgelegt, während Stablecoins von Beginn an auf grenzüberschreitende Transaktionen zugeschnitten sind,“ sagte sie.
 
-"Viele CBDCs werden für den häuslichen Gebrauch entwickelt. Für die internationale Verwendung von CBDCs besteht ein großes Problem der Interoperabilität verschiedener Systeme.
+Das Fazit: e-CNY bleibt innenpolitisches Instrument, doch Stablecoins könnten Peking das dringend benötigte Werkzeug geben, um im globalen Zahlungsverkehr wettbewerbsfähig zu bleiben.
