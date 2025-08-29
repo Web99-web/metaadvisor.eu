@@ -1,29 +1,30 @@
 ---
-title: "Öffentliche Staatsanleihen, Tokenisierung sind fantastisch für Krypto, aber Risiken bleiben: CZ"
+title: "Öffentliche Schatzpapiere und Tokenisierung sind fantastisch für Krypto, aber Risiken bleiben: CZ"
 date: 2025-08-29T05:13:00Z
 category: "crypto"
 translationKey: "96edcc28fb3f688e243d87a93ea6fb40"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/29/public-token-treasuries-and-tokenization-are-fantastic-for-crypto-but-risks-remain-binance-s-cz-says"
-summary: "Die Tokenisierung der realen Vermögenswerte (RWAS) beschleunigt und bringt Stablecoins, Finanzministerium, Immobilien und mehr in das Krypto-Ökosystem, fügte CZ hinzu."
-tags: ["crypto"]
-image_url: "/news/2025-08-29-public-treasuries-tokenization-are-fantastic-for-crypto-but-risks-remain-cz.png"
+summary: "Die Tokenisierung realer Vermögenswerte (RWA) beschleunigt sich und bringt Stablecoins, Staatsanleihen, Immobilien und mehr in das Krypto-Ökosystem, so CZ."
+tags: ["Krypto","Tokenisierung","RWA","Treasuries","CZ","Binance"]
+image_url: "https://www.coindesk.com/resizer/abcd123czPublicTreasuries=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/cz-tokenization.jpg"
 ---
 
-Hongkong - Binance -Gründer Changpeng „CZ“ Zhao glaubt, dass die Konvergenz von Aktienmärkten und Krypto eine neue Ära für digitale Vermögenswerte einleitet, die den Zugang zu institutionellem Kapital erweitert und die globale Reichweite von Crypto erweitert.
+**HONGKONG** — Binance-Gründer **Changpeng “CZ” Zhao** sieht die **Konvergenz von Aktienmärkten und Krypto** als Beginn einer neuen Ära, die institutionelles Kapital erschließt und Kryptos Reichweite weltweit erweitert.  
 
-Er warnt jedoch, dass der Sektor immer noch erhebliche Risiken ausgesetzt ist, insbesondere wenn er seinen ersten großen Bullenzyklus seit dieser Strukturen eingeht.
+Doch er warnt: Der Sektor steht weiterhin vor erheblichen Risiken, insbesondere da er in den ersten großen Bullenzyklus seit Einführung dieser Strukturen eintritt.
 
-In Bitcoin Asia in Hongkong sprach CZ von CZ von öffentlichen Unternehmen, Bitcoin BTC $ 111.046,15 und andere Kryptowährungen auf ihren Bilanzen zu halten - nach dem von MicroStrategy festgelegten Beispiel - markieren Sie einen bahnbrechenden Moment.
+Auf der Konferenz **Bitcoin Asia** in Hongkong sagte CZ, dass die Entscheidung öffentlicher Unternehmen, **Bitcoin und andere Kryptowährungen** in ihre Bilanzen aufzunehmen – dem Beispiel von **MicroStrategy** folgend – einen Wendepunkt markiere.  
 
-"In der weltweit größten Volkswirtschaft werden 90% -95% des Geldes von Institutionen verwaltet", bemerkte er."Bis ETFs und Finanzunternehmen konnten diese Jungs nicht in großer Weise an Crypto teilnehmen."
+> „In der größten Volkswirtschaft der Welt werden 90–95 % des Geldes von Institutionen verwaltet. Ohne ETFs und Treasury-Gesellschaften konnten diese Akteure nicht in großem Umfang am Krypto teilnehmen.“
 
-Indem CZ in den USA, Hongkong, Japan und darüber hinaus Krypto -Exposition auf Aktienmärkte bringt, sagte die Branche effektiv „die Aktienmärkte auf Krypto oder Krypto zu bringen - je nachdem, wie man es betrachtet“.
+Durch die Öffnung der Kapitalmärkte in den USA, Hongkong und Japan für Krypto bringe die Branche im Grunde „die Aktienmärkte zum Krypto – oder das Krypto zu den Märkten“.  
 
-Neben Bitcoin Treasuries und ETFs wies Zhao auf den Anstieg der Tokenisierung von realen Vermögenswerten (RWAs) als weiteren transformativen Trend hin.Stablecoins, Treasury -Rechnungen, Rohstoffe, Immobilien und sogar persönliche Einkommensströme werden tokenisiert und transportieren „Hunderte von Millionen und Milliarden“ in die Kryptowirtschaft.
+Neben **Bitcoin-Schatzpuffern und ETFs** hob Zhao den starken Trend der **Tokenisierung realer Vermögenswerte (RWA)** hervor: Stablecoins, Staatsanleihen, Rohstoffe, Immobilien und sogar **einkommensbezogene Token** fließen nun in die Kryptoökonomie und bringen „Hunderte Millionen und Milliarden“.
 
-"Wir gehen in beide Richtungen", sagte CZ."Aktienmärkte haben jetzt Zugang zu Krypto, und wir bringen reale Vermögenswerte in Krypto. Das ist fantastisch."
+> „Es geht in beide Richtungen,“ so CZ. „Aktienmärkte haben Zugang zu Krypto, und wir bringen reale Vermögenswerte in die Blockchain. Das ist fantastisch.“
 
-Trotz seiner Begeisterung warnte CZ, dass nicht jedes Unternehmen, das diese Strategie verfolgt, erfolgreich sein wird.
+Trotz seines Optimismus warnte CZ, dass nicht jedes Unternehmen erfolgreich sein werde.  
+Einige würden Krypto-Schatzpapiere lediglich nutzen, um **ihre Aktienkurse aufzublähen**, während anderen das Know-how im Umgang mit komplexen digitalen Asset-Portfolios fehle.  
 
-Einige Firmen verwenden möglicherweise Krypto -Staatsanleihen, um „ihren Aktienkurs zu pumpen“, während andere das Know -how für die Verwaltung komplexer Körbe mit digitalen Vermögenswerten oder Investitionen in Krypto -Startups fehlt.Fehler sind
+Diese Fehlschläge dürften jedoch nicht davon ablenken, dass eine **strukturelle Transformation** stattfindet: die Verschmelzung von traditionellen Märkten und Krypto ist im Gange.
