@@ -1,29 +1,21 @@
 ---
-title: "Bitte MDs $ 5 Mrd. Bitcoin -Spiel kommt, da DATS Ängste vor einer breiteren Altcoin -Liquidität erhöhen - Entschlüsselung"
+title: "Kindly MD setzt auf 5 Mrd. $ Bitcoin-Investment – Sorgen um Altcoin-Liquidität nehmen zu"
 date: 2025-08-27T04:12:43Z
 category: "crypto"
 translationKey: "f2de1cde59e5340f0ea6d3c8c58743f9"
 source: "Decrypt"
 source_url: "https://decrypt.co/336975/kindly-mds-5-billion-bitcoin-bet-expense-wider-altcoin-market"
-summary: "Bitte hat MD nach einem Bitcoin -Kauf von 679 Mio. USD ein Schelf -Angebot von 5 Mrd. USD eingereicht, da Risiken und Debatten über die Staatsanleihen von Digital Asset wachsen."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-08-27-kindly-mds-5b-bitcoin-play-comes-as-dats-raise-fears-for-wider-altcoin-liquidity.png"
+summary: "Kindly MD meldet ein 5-Mrd.-$ Shelf Offering nach einem Bitcoin-Kauf von 679 Mio. $, während Diskussionen über Risiken von Digital Asset Treasuries intensiver werden."
+tags: ["crypto","bitcoin","BTC","altcoin","DATs","KindlyMD"]
+image_url: "https://decrypt.co/wp-content/uploads/2025/08/kindly-md-bitcoin.jpg"
 ---
 
-Freundliches MDs $ 5 Mrd. Bitcoin -Spiel kommt, da DATS Ängste für eine breitere Altcoin -Liquidität hervorruft
+Das an der Nasdaq notierte Gesundheitsunternehmen Kindly MD hat bei der SEC eine automatische Shelf-Registrierung eingereicht, um bis zu 5 Mrd. $ an Aktien auszugeben. Der Schritt folgt unmittelbar auf einen Bitcoin-Kauf im Wert von 679 Mio. $ durch die Tochtergesellschaft Nakamoto Holdings.
 
-Das NASDAQ-listige Gesundheitsunternehmen hat am Dienstag bei der SEC freundlicherweise eine automatische Registrierungserklärung für das Regal eingereicht, in dem er sich entschieden hat, bis zu 5 Milliarden US-Dollar auf Lager zu verteilen, da es seine Kapitalreichweite nach einem Bitcoin-Kauf in Höhe von 679 Millionen US-Dollar in der vergangenen Woche erweitert.
+Das Unternehmen erklärte, dass Bitcoin künftig als wichtigste Reserveposition in der Bilanz dienen soll. Der WKSI-Status verschafft zwar mehr Flexibilität bei der Kapitalaufnahme, erhöht aber gleichzeitig den Druck angesichts hoher Volatilität und großer Emissionsvolumina.
 
-"Bitcoin wird als unser primäres Vermögen der Finanzgebietsreserve dienen, und wir konzentrieren uns darauf, eine langfristige Bitcoin-Position zu sammeln", erklärte MD in der Einreichung freundlicherweise.
+Zu den Underwritern gehören Cantor Fitzgerald, TD Securities und B. Riley Securities in den USA sowie Canaccord Genuity in Kanada.
 
-Die Einreichung ermittelt freundlicherweise als bekannter erfahrener Emittent, eine Bezeichnung, die es dem Unternehmen ermöglicht, die Kapitalmärkte mit mehr Flexibilität zu erschließen.
+Mit diesem Schritt will Kindly MD seine Überzeugung bekräftigen, dass Bitcoin „die ultimative Reserve-Asset-Klasse“ für Unternehmen ist. Analysten weisen jedoch darauf hin, dass die wachsenden Digital Asset Treasuries (DATs) die Liquidität im Altcoin-Sektor gefährden könnten, da Kapital zunehmend in Bitcoin gebunden wird.
 
-Es genehmigt auch eine Mischung aus Instrumenten, die über die Stammaktien hinausgehen, wobei die Vertrieb unter anderem von Underwritern wie Cantor Fitzgerald, TD Securities und B. Riley Securities sowie in Kanadas Canaccord Genuity behandelt wird.
-
-Letzte Woche hat MD.
-
-Während der WKSI -Status "einem Unternehmen eindeutig einen Vorteil in der Kapitalbeschaffung verschafft," erhöht er auch Druck ", sagte Jay Jo, Senior Analyst bei Tiger Research, Decrypt.
-
-"Die institutionelle Krypto-Exposition hat sich ohne Angst in Unternehmensbilanzen und Treasury-Strategien ausgeweitet", sagte Kelvin Koh, Mitbegründer und CIO bei der in Asien ansässigen Venture-Capital-Firma Spartan Group, Decrypt.
-
-Dies war seit "die Zustimmung der US-Bitcoin-ETFs Anfang 2024 der Fall"
+„Die institutionelle Krypto-Exposition ist inzwischen fest in Unternehmensbilanzen integriert,“ sagte Kelvin Koh von der Spartan Group und erinnerte daran, dass diese Entwicklung nach der Zulassung von Bitcoin-ETFs in den USA und den pro-krypto Politiken der Regierung Fahrt aufnahm.
