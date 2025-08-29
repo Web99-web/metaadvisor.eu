@@ -1,29 +1,30 @@
 ---
-title: "Javne riznice, tokenizacija su fantastična za kriptovalute, ali rizici ostaju: CZ"
+title: "Javni trezori i tokenizacija fantastični su za kripto, ali rizici ostaju: CZ"
 date: 2025-08-29T05:13:00Z
 category: "crypto"
 translationKey: "96edcc28fb3f688e243d87a93ea6fb40"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/29/public-token-treasuries-and-tokenization-are-fantastic-for-crypto-but-risks-remain-binance-s-cz-says"
-summary: "Tokenizacija stvarne imovine (RWAS) ubrzava, donoseći stabilne kosti, račune za riznicu, nekretnine i još mnogo toga u kripto ekosustav, dodao je CZ."
-tags: ["crypto"]
-image_url: "/news/2025-08-29-public-treasuries-tokenization-are-fantastic-for-crypto-but-risks-remain-cz.png"
+summary: "Tokenizacija stvarnih imovina (RWA) ubrzava, donoseći stablecoine, trezorske zapise, nekretnine i više u kripto ekosustav, rekao je CZ."
+tags: ["crypto","tokenizacija","RWA","treasuries","CZ","Binance"]
+image_url: "https://www.coindesk.com/resizer/abcd123czPublicTreasuries=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/cz-tokenization.jpg"
 ---
 
-HONG KONG - Osnivač Binancea Changpeng "CZ" Zhao vjeruje da konvergencija tržišta kapitala, a kriptovaluta vodi u novu eru za digitalnu imovinu, onu koja proširuje pristup institucionalnom kapitalu i proširuje globalni domet Crypto -a.
+**HONG KONG** — Osnivač Binancea, **Changpeng “CZ” Zhao**, smatra da spajanje tržišta kapitala i kripta označava novu eru digitalne imovine, koja širi pristup institucionalnom kapitalu i globalni doseg kripta.  
 
-Ali upozorava da se sektor i dalje suočava s značajnim rizicima, pogotovo jer ulazi u svoj prvi veliki ciklus bikova jer su te strukture dobile privlačnost.
+No, upozorava da sektor i dalje nosi značajne rizike, osobito jer ulazi u prvi veliki bull ciklus otkad su ovi modeli dobili zamah.
 
-Govoreći u Bitcoin Asia u Hong Kongu, CZ je rekao da se potezi javnih poduzeća da drže Bitcoin BTC 111.046,15 USD i druge kripto valute na svojim bilancama - slijedeći primjer koji je MicroStrategy postavio - označite proboj u trenutku.
+Govoreći na **Bitcoin Asia** konferenciji u Hong Kongu, CZ je istaknuo da potezi javnih kompanija koje dodaju **bitcoin i druge kriptovalute** u svoje bilance — slijedeći primjer **MicroStrategyja** — predstavljaju prekretnicu.  
 
-"U najvećem svjetskom gospodarstvu, 90% -95% novca upravljaju institucijama", napomenuo je."Sve dok ETF -ovi i tvrtkama za riznicu, ti momci nisu mogli sudjelovati u kriptovalutama na veliki način."
+> „U najvećem svjetskom gospodarstvu, 90–95% novca upravljaju institucije. Dok nisu postojali ETF-ovi i trezorske kompanije, ti igrači nisu mogli ozbiljno sudjelovati u kriptu,“ rekao je.
 
-Iznošenjem kripto izloženosti tržištima dionica u Sjedinjenim Državama, Hong Kongu, Japanu i šire, CZ je rekao da je industrija učinkovito "dovođenje tržišta kapitala u kriptovalutu ili dovođenje kriptovaluta na njih - ovisno o tome kako to gledate."
+Dovođenjem kripta na tržišta kapitala u SAD-u, Hong Kongu i Japanu, industrija u biti „spaja equity tržišta i kripto – ili obratno, ovisno o perspektivi“.  
 
-Osim Bitcoin blagajnih i ETF-a, Zhao je ukazao na porast tokenizacije imovine u stvarnom svijetu (RWAS) kao još jedan transformativni trend.Stablecoins, računi za riznicu, roba, nekretnine, pa čak i tokovi dohotka, tokeniziraju se, usmjeravajući "stotine milijuna i milijardi" u kripto gospodarstvo.
+Osim **bitcoin trezora i ETF-ova**, CZ je ukazao na nagli rast **tokenizacije stvarne imovine (RWA)**: stablecoini, trezorski zapisi, roba, nekretnine pa čak i **tokene vezane uz osobne prihode**, koji u kripto ekonomiju upumpavaju „stotine milijuna i milijarde“.  
 
-"Idemo u oba smjera", rekao je CZ."Tržišta u kapitalu sada imaju pristup kriptovalutama, a mi donosimo imovinu u stvarnom svijetu u kriptovalutu. Ovo je fantastično."
+> „Idemo u oba smjera,“ rekao je CZ. „Equity tržišta sada imaju pristup kriptu, a mi stvarnu imovinu dovodimo u kripto. To je fantastično.“
 
-Unatoč svom entuzijazmu, CZ je upozorio da neće svaka tvrtka koja provodi ovu strategiju uspjeti.
+Unatoč optimizmu, CZ je upozorio da neće sve kompanije uspjeti.  
+Neke će koristiti kripto trezore kao način za **pumpanje cijene dionica**, dok će druge zakazati zbog manjka stručnosti u upravljanju složenim portfeljima digitalne imovine.  
 
-Neke tvrtke mogu koristiti kripto blagajne kao način da "napumpaju cijenu dionica", dok drugima nedostaje stručnost za upravljanje složenim košarama digitalne imovine ili ulaganja u kripto startapove.Neuspjesi su
+Takvi neuspjesi, rekao je, ne smiju zasjeniti činjenicu da se događa **strukturna transformacija**: integracija tradicionalnih tržišta i kripta postaje neizbježna.
