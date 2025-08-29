@@ -1,34 +1,31 @@
 ---
-title: "21shares sucht den Start von SEI ETF mit potenzieller Stakelrendite für US -Investoren - Entschlüsselung"
+title: "21Shares beantragt SEI-ETF mit potenzieller Staking-Rendite für US-Anleger - Decrypt"
 date: 2025-08-29T05:34:25Z
 category: "news"
 translationKey: "83f8040dfee9b63f1189681d2887f82a"
 source: "Decrypt"
 source_url: "https://decrypt.co/337305/21shares-seeks-launch-of-sei-etf-with-potential-staking-yield-for-us-investors"
-summary: "Der Antrag folgt von Canary Capital von May, die SEI als Fondsmanager beantragen, ETFs über Bitcoin, Ethereum, überbieten."
-image_url: "/news/2025-08-29-21shares-seeks-launch-of-sei-etf-with-potential-staking-yield-for-us-investors.jpg"
+summary: "Der Antrag folgt auf Canary Capitals Eingabe im Mai, während Fondsmanager über Bitcoin und Ethereum hinaus auf ETFs setzen."
+tags: ["Krypto","ETF","SEI","21Shares","Staking"]
+image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/08/sei-etf-21shares.jpg"
 ---
 
-21shares sucht den Start von SEI ETF mit potenzieller Stakelrendite für US -Investoren
+Der Vermögensverwalter **21Shares** hat bei der **US-Börsenaufsicht SEC** einen Antrag eingereicht, um einen **ETF für den nativen Token SEI** der Sei-Blockchain aufzulegen.
 
-Das Vermögensverwaltungsunternehmen 21Shares hat bei der Securities and Exchange Commission eingereicht, um einen Börsenfonds zu starten, der das native Token der SEI-Blockchain verfolgt.
+Der geplante **21Shares SEI ETF** soll Anlegern Zugang zu SEI bieten und zusätzlich **Staking-Erträge** generieren, wie es in der Registrierung heißt.
 
-Die vorgeschlagenen 21 -Shares -SEI -ETF würden den Anlegern dem SEI Engagement anbieten und gleichzeitig das Potenzial für zusätzliche Ertrag durch Absetzen von Belohnungen bieten, so eine am Donnerstag eingereichte Registrierungserklärung.
+Auf X schrieb 21Shares:  
+> „Wir freuen uns, den Antrag für einen SEI ETF in den USA eingereicht zu haben – ein wichtiger Meilenstein für unseren Plan, den Zugang zu @Seinetwork über ETFs zu erweitern.“
 
-Wir freuen uns, Ihnen mitteilen zu können, dass wir bei der SEC für einen SEI -ETF in den USA eingereicht haben - ein wichtiger Meilenstein in unserer Vision, um den Zugriff auf @Seinetwork zu erweitern.pic.twitter.com/ntuclajxyy
+Nach den erfolgreichen **Bitcoin- und Ethereum-Spot-ETFs** im Jahr 2024 richten Fondsmanager den Blick nun auf kleinere digitale Assets wie **Solana, Dogecoin, XRP** und andere Altcoins – begünstigt durch die krypto-freundliche Politik der Trump-Regierung.
 
-â € € € € € € us us (@21shares_us) 28. August 2025
+Das Hauptziel des Trusts ist es, **„die Performance von SEI abzubilden“**, während ein Nebenziel darin besteht, **„Erträge aus dem Staking eines Teils des SEI“** zu erwirtschaften.  
 
-Nach erfolgreichen Einführung von Spot Bitcoin und Ethereum ETFs im Jahr 2024 richten sich Fondsmanager auf kleinere digitale Assets, darunter Solana, Dogecoin, XRP und andere Altcoins unter einer kryptofreundlichen Trump-Verwaltung.
+Laut **Krishnendu Chatterjee**, CEO und Mitgründer von **A2ZCryptoInvestment**, sei es „sehr wahrscheinlich, dass der SEI ETF genehmigt wird“:  
+> „Dies ist ein Schritt hin zu breiteren regulierten Alt-Investments, einschließlich Staking-Vorteilen.“
 
-Das Hauptziel des Trusts ist es, "die Leistung von SEI zu verfolgen" mit einem sekundären Fokus auf die Erzeugung von Belohnungen durch das Absetzen eines Teils des SEI des Trusts ", heißt es in der Anmeldung.
+Allerdings stellte 21Shares klar, dass **noch nicht entschieden sei**, ob Staking innerhalb eines öffentlichen Trusts zulässig sei.
 
-Es "ist sehr wahrscheinlich, dass 21Shares-Sei-ETFs akzeptiert werden und zusammen mit Bitcoin und Ethereum ETFs erhältlich sein würden", sagte Krishnendu Chatterjee, CEO und Mitbegründer von A2zcryptoinvestment, sagte Decrypt.
+Die Verwahrung der SEI-Token übernimmt die **Coinbase Custody Trust Company**, während **Coinbase Inc.** als Prime Broker für Handelsaktivitäten fungiert.
 
-"21Shares SEI ETF ist ein Schritt in Richtung einer breiteren Anwendung auf regulierte ALT -Investitionen (einschließlich Leistungen zum Stakeln)", fügte er hinzu.
-
-Dennoch bestätigten 21shares, dass es laut Prospekt noch nicht zu dem Schluss gekommen ist, dass das Einstellen im Rahmen einer öffentlichen Vertrauensstruktur angeboten werden kann.
-
-Der Trust wird Coinbase Custody Trust Company als Hauptverwalterin für SEI Holdings verwenden, während Coinbase Inc. laut der Einreichung als Hauptvermittler für Handelsaktivitäten fungieren wird.
-
-Der Umzug trägt zu Kanarienmann bei
+Dieser Schritt folgt auf eine ähnliche Eingabe von **Canary Capital im Mai** und verdeutlicht den Trend, dass ETFs zunehmend über Bitcoin und Ethereum hinausgehen.
