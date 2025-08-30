@@ -1,25 +1,22 @@
 ---
-title: "XLM nimmt 8% ab, wenn sich institutionelle Anleger inmitten der Marktunsicherheit zurückziehen"
+title: "XLM fällt um 8 %, während institutionelle Anleger sich angesichts der Marktunsicherheit zurückziehen"
 date: 2025-08-29T16:40:01Z
-category: "ai"
+category: "crypto"
 translationKey: "efddf0b22c630baa4c1fc94c26691a15"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/29/xlm-declines-8-as-institutional-investors-retreat-amid-market-uncertainty"
-summary: "XLM setzte sich in einer volatilen 24-Stunden-Sitzung von 0,39 USD auf 0,36 US-Dollar, obwohl institutionelle Käufer dem Token bei den Intraday-Tiefs halfen."
-tags: ["ai"]
-image_url: "/news/2025-08-29-xlm-declines-8-as-institutional-investors-retreat-amid-market-uncertainty.png"
+summary: "XLM fiel von 0,39 USD auf 0,36 USD in einer volatilen 24-Stunden-Session, obwohl institutionelle Käufer halfen, sich von den Tagestiefs zu erholen."
+tags: ["crypto"]
+image_url: "https://www.coindesk.com/resizer/v2/5XYLJ7ON5NC5NGJHJ6OM7IMZ44.jpg?auto=format&width=1920"
+image: "https://www.coindesk.com/resizer/v2/5XYLJ7ON5NC5NGJHJ6OM7IMZ44.jpg?auto=format&width=1920"
 ---
 
-Stellars natives Token -XLM wurde in der letzten Handelssitzung zwischen dem 28. August um 15:00 Uhr von 0,39 USD auf 0,36 USD unter starkem institutionellem Verkaufsdruck geriet.und 29. August um 14.00 UhrET.Die Marktdaten zeigen, dass mehr als 41,89 Millionen XLM die Besitzer gewechselt sind, wobei die Volumina zunehmen, da große Inhaber die Exposition reduzierten.
+Der native Stellar-Token XLM stand in der letzten Handelssitzung unter starkem institutionellen Verkaufsdruck und fiel zwischen dem 28. August, 15:00 Uhr, und dem 29. August, 14:00 Uhr ET von 0,39 auf 0,36 USD. Marktdaten zeigen, dass mehr als 41,89 Millionen XLM den Besitzer wechselten, wobei die Volumina anstiegen, als große Anleger ihre Positionen reduzierten.
 
-Trotz des Drucks bleibt Stellars Enterprise Push intakt.Die Stellar Development Foundation berichtete, dass das Netzwerk 10 Millionen registrierte Konten nähert, die durch das tägliche Wachstum von 5.000 bis 6.000 neuen Unternehmensbrieftaschen gesteigert werden.Strategische Partnerschaften mit Moneygram International und Circle Internet Financial führen weiterhin die Einführung von Stellar-Zahlungsschienen in grenzüberschreitenden Finanzmitteln vor.
+Trotz des Drucks bleibt die Unternehmensstrategie von Stellar intakt. Die Stellar Development Foundation berichtete, dass sich das Netzwerk der Marke von 10 Millionen registrierten Konten nähert, angetrieben durch ein tägliches Wachstum von 5.000–6.000 neuen Unternehmenskonten. Strategische Partnerschaften mit MoneyGram International und Circle Internet Financial fördern weiterhin die Nutzung der Stellar-Zahlungsinfrastruktur im grenzüberschreitenden Finanzwesen.
 
-Analysten hob am 29. August scharfe Intraday -Schwankungen hervor, als XLM zwischen 13:26 Uhr um 1,38% fiel.und 14.06 Uhr, bevor institutionelle Käufer wieder in den Markt eingingen.Das Token hat während des folgenden 15-minütigen Fensters 1,27% zurückgefordert und die Sitzung mit 0,361 USD geschlossen, nachdem er kurz 0,357 USD berührt hatte.
+Analysten hoben starke Intraday-Schwankungen am 29. August hervor, als XLM zwischen 13:26 und 14:06 ET um 1,38 % fiel, bevor institutionelle Käufer wieder auf den Markt zurückkehrten. Der Token erholte sich in den folgenden 15 Minuten um 1,27 % und schloss die Sitzung bei 0,361 USD, nachdem er kurzzeitig 0,357 USD erreicht hatte.
 
-Ein Sprecher der Unternehmensstrategie von Stellar betonte, dass die Marktturbulenz eher gefühlsgetrieben als ein Spiegelbild der geschäftlichen Grundlagen sei.Der Absprung in der späten Sitzung schlug vor, dass einige große Käufer den Rückgang als Kaufmöglichkeit betrachteten und das Vertrauen in die langfristige Rolle von Stellar in der blockchainbasierten Finanzinfrastruktur unterstreichen.
+Ein Sprecher aus dem Umfeld der Unternehmensstrategie von Stellar betonte, dass die Marktturbulenzen eher stimmungsgetrieben seien als ein Spiegel der Fundamentaldaten. Die späte Erholung deutete darauf hin, dass einige Großanleger den Rückgang als Kaufgelegenheit betrachteten — ein Beleg für das Vertrauen in Stellars langfristige Rolle in der blockchainbasierten Finanzinfrastruktur.
 
-Haftungsausschluss: Teile dieses Artikels wurden mit Unterstützung von KI -Tools generiert und von unserem Redaktionsteam überprüft, um die Genauigkeit und Einhaltung unserer Standards zu gewährleisten.Weitere Informationen finden Sie in der vollständigen KI -Richtlinie von Coindesk.
-
-Flare landet die zweite Aktiengesellschaft für seinen XRP Defi -Rahmen
-
-In Kombination mit Firelight, Flare's Restaking -Schicht kann das Setup den Unternehmen mit dem XRP in FXRP umwandeln und sie über dezentrale Kredite, Steckdosen und Verleihung zuordnen und zuordnen.
+*Disclaimer: Teile dieses Artikels wurden mit Unterstützung von KI-Tools erstellt und von unserem Redaktionsteam zur Sicherstellung der Genauigkeit überprüft.*
