@@ -1,28 +1,30 @@
 ---
-title: "XRP Treasury News: Flare landet die zweite Aktiengesellschaft für den XRP Defi -Rahmen"
+title: "XRP Treasury News: Flare gewinnt zweites börsennotiertes Unternehmen für sein XRP DeFi-Framework"
 date: 2025-08-29T17:09:21Z
 category: "news"
 translationKey: "8b896fb8c53865ad253bad3ea98025f3"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/29/flare-lands-second-public-company-for-its-xrp-defi-framework"
-summary: "In Kombination mit Firelight, Flare's Restaking -Schicht, ermöglicht das Setup den Unternehmen, XRP in FXRP umzuwandeln und sie über dezentrale Kredite-, Einlagen- und Liquiditätsprotokolle zuzuordnen."
-image_url: "/news/2025-08-29-xrp-treasury-news-flare-lands-second-public-company-for-its-xrp-defi-framework.jpg"
+summary: "In Kombination mit Firelight, der Restaking-Schicht von Flare, können Unternehmen XRP in FXRP umwandeln und über dezentrale Kredit-, Staking- und Liquiditätsprotokolle einsetzen."
+tags: ["xrp", "crypto"]
+image_url: "https://www.coindesk.com/resizer/v2/D2C7Z4L7D5GHPKZ46JKJYZM4HI.jpg?auto=format&width=1920"
+image: "https://www.coindesk.com/resizer/v2/D2C7Z4L7D5GHPKZ46JKJYZM4HI.jpg?auto=format&width=1920"
 ---
 
-Der langsame Vorstoß von XRP in die institutionelle Finanzierung hat gerade einen weiteren Unterstützer aufgenommen.
+Der langsame Vorstoß von XRP in die institutionellen Finanzen hat einen weiteren Unterstützer gewonnen.
 
-Das datenorientierte Blockchain-Unternehmen Flare gab am Freitag bekannt, dass alles Blockchain Inc. (OTC: EBZT), ein US-amerikanisches Unternehmen, ein Memorandum of Understanding unterzeichnet hat, um seinen Rahmen für die Unternehmensrendite von XRP Finance (XRPFI) für die Unternehmensrendite zu übernehmen.
+Das Blockchain-Unternehmen **Flare** gab am Freitag bekannt, dass **Everything Blockchain Inc. (OTC: EBZT)**, ein in den USA börsennotiertes Unternehmen, ein Memorandum of Understanding unterzeichnet hat, um sein XRPFi-Framework für Treasury-Erträge zu übernehmen.
 
-Der Umzug erfolgt Monate, nachdem die NASDAQ Vivopower International PLC (NASDAQ: VVPR) für das Ökosystem von Flare in Höhe von 100 Millionen US-Dollar in Höhe von 100 Millionen US-Dollar begangen hat, wodurch EBZT nur das zweite öffentliche Unternehmen dazu veranlasst wurde.
+Der Schritt folgt Monate nach dem Engagement von **VivoPower International PLC (NASDAQ: VVPR)**, das 100 Millionen USD in XRP in das Flare-Ökosystem eingebracht hat. Damit ist EBZT erst das zweite börsennotierte Unternehmen, das diesen Weg einschlägt.
 
-Die Vereinbarungen markieren frühe Schritte in Flares Bemühungen, XRP-historisch gesehen ein nicht-weichhaltiger Vermögenswert-in ein produktives Instrument für Institutionen zu verwandeln.
+Diese Vereinbarungen markieren frühe Schritte in Flares Bemühungen, XRP — historisch ein nicht ertragsbringender Vermögenswert — in ein produktives Instrument für Institutionen zu verwandeln.
 
-Im Zentrum des Frameworks steht das „Fassets“ -System von Flare, eine vertrauenslose Brücke, die Token wie XRP und Bitcoin intelligente Vertragsfunktionen verleiht.In Kombination mit Firelight, Flare's Restaking -Schicht, ermöglicht das Setup den Unternehmen, XRP in FXRP umzuwandeln und sie über dezentrale Kredite-, Einlagen- und Liquiditätsprotokolle zuzuordnen.
+Im Zentrum des Frameworks steht Flares **FAssets**-System, eine vertrauenslose Brücke, die Token wie XRP und Bitcoin Smart-Contract-Funktionalität verleiht. In Kombination mit **Firelight**, der Restaking-Schicht von Flare, können Unternehmen XRP in FXRP umwandeln und in dezentrale Kredit-, Staking- und Liquiditätsprotokolle investieren.
 
-"XRP, jetzt ein Vermögenswert von rund 150 Milliarden US-Dollar, ist seit mehr als einem Jahrzehnt ein Eckpfeiler digitaler Finanzen, aber Institutionen hatten nur wenige Möglichkeiten, es produktiv zu machen", sagte Hugo Philion, Mitbegründer und CEO von Flare.
+„XRP, mittlerweile ein Vermögenswert von rund 150 Milliarden USD, war über ein Jahrzehnt ein Eckpfeiler der digitalen Finanzen, doch Institutionen hatten nur wenige Möglichkeiten, ihn produktiv einzusetzen“, sagte Hugo Philion, Mitbegründer und CEO von Flare.
 
-"Flare ändert sich, dass durch das Ermöglichen eines konformen, ketten- und nicht-kundenspezifischen Rendite-Frameworks für Unternehmensbeschreibungen. Mit Vivopower und jetzt alles Blockchain bestätigen, bestätigen öffentliche Unternehmen, dass XRPFI nicht nur ein Konzept ist, sondern ein aufstrebender institutioneller Standard", fügte er hinzu.
+„Flare ändert das, indem es ein konformes, On-Chain, nicht verwahrtes Rendite-Framework für Treasury-Abteilungen bereitstellt. Mit VivoPower und nun Everything Blockchain bestätigen börsennotierte Unternehmen, dass XRPFi nicht nur ein Konzept, sondern ein entstehender institutioneller Standard ist,“ fügte er hinzu.
 
-EBZT hat seine Entscheidung im Rahmen einer umfassenderen Veränderung der Behandlung von Blockchain -Vermögenswerten umsetzt.
+EBZT stellte seine Entscheidung als Teil einer breiteren Veränderung dar, wie börsennotierte Unternehmen Blockchain-Assets behandeln.
 
-"Hier geht es darum, den tatsächlichen finanziellen Nutzen digitaler Vermögenswerte wie XRP und nicht nur als spekulative Bestände, sondern auch als Ertragsinstrumente, die sich im Laufe der Zeit zu verschieben können, freizuschalten", sagte Arthur Rozenberg, CEO des Unternehmens.
+„Es geht darum, den wahren finanziellen Nutzen digitaler Vermögenswerte wie XRP freizuschalten — nicht nur als spekulative Anlagen, sondern als ertragsbringende Instrumente, die sich im Laufe der Zeit vermehren können,“ sagte Arthur Rozenberg, CEO des Unternehmens.
