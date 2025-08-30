@@ -1,25 +1,24 @@
 ---
-title: "'Red rujan' dolazi - evo što možete očekivati ​​od tržišta Bitcoin - dešifrira"
+title: "'Red September' stiže — što očekivati na bitcoin tržištu (Decrypt)"
 date: 2025-08-29T22:24:46Z
 category: "crypto"
 translationKey: "1c3ebb32dc5e67100acd331e54661264"
 source: "Decrypt"
 source_url: "https://decrypt.co/337411/red-september-coming-what-expect-from-bitcoin-market"
-summary: "Bitcoin je svaki rujan od 2013. smanjio prosječno 3,77% cijene. Trebaju li trgovci očekivati ​​još jedan sezonski rasprodaja?"
+summary: "Bitcoin je od 2013. u rujnu u prosjeku padao 3,77%. Trebaju li se trgovci pripremiti za još jedan sezonski ‘selloff’?"
 tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-08-29-red-september-is-comingheres-what-to-expect-from-the-bitcoin-market---decrypt.png"
+image_url: "https://img.decrypt.co/insecure/rs%3Afit%3A3840%3A0%3A0%3A0/plain/https%3A//cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png%40webp"
+image: "https://img.decrypt.co/insecure/rs%3Afit%3A3840%3A0%3A0%3A0/plain/https%3A//cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png%40webp"
 ---
 
-'Red rujan' dolazi - evo što možete očekivati ​​od tržišta bitcoina
+'Red September' stiže — što očekivati na bitcoin tržištu
 
-Bitcoin trguje u stranu dok August probija, a kripto trgovci rade ono što rade svake godine u ovo vrijeme: pripremajući se za bol.
+Bitcoin se kreće bočno dok se kolovoz bliži kraju, a kripto trgovci rade ono što svake godine rade u ovo vrijeme: pripremaju se za bol.
 
-Fenomen poznat kao "Crveni rujan" ili "rujan efekt", proganjao je tržišta gotovo stoljeće.S&P 500 prosječno je negativne prinose u rujnu od 1928. godine, što ga čini indeksom samo dosljedno negativan mjesec.Bitcoin -ova evidencija je lošija - kripto valuta je u prosjeku pala 3,77% svakog rujna od 2013. godine, srušivši se osam puta prema podacima iz Coinglass -a.
+Fenomen poznat kao „Red September“, odnosno „September Effect“, proganja tržišta gotovo stoljeće. S&P 500 bilježi prosječno negativne povrate u rujnu od 1928., čineći ga jedinim dosljedno negativnim mjesecom. Bitcoinov učinak je gori — kriptovaluta je u prosjeku pala 3,77% svakog rujna od 2013., s osam padova prema podacima Coinglassa.
 
-"Uzorak je predvidljiv: negativni brbljanje društvenih medija šilja oko 25. kolovoza, nakon čega slijede povećana ležišta bitcoina na razmjenu u roku od 48-72 sata", rekao je Jurij Berg, savjetnik u švicarskom kripto davatelja likvidnosti Finchtrade.
+„Obrazac je predvidljiv: negativni ‘chatter’ na društvenim mrežama raste oko 25. kolovoza, a u roku 48–72 sata raste i broj BTC depozita na burze“, rekao je za Decrypt Yuri Berg iz švicarske tvrtke FinchTrade.
 
-"Crveni rujan prešao je od tržišne anomalije u mjesečni psihološki eksperiment. Gledamo kako čitav tržište govori u prodaju na temelju povijesti, a ne na trenutne osnove."
+„Red September od tržišne anomalije prerasta u mjesečni psihološki eksperiment. Gledamo kako si cijelo tržište autosugestijom priziva rasprodaju, više temeljem povijesti nego aktualnih fundamentalnih pokazatelja.“
 
-Mehanika koja stoji iza crvenog rujna prati se do ponašanja strukturnog tržišta koja se konvergiraju svake jeseni.Uzajamni fondovi zatvaraju svoje fiskalne godine u rujnu, što je pokrenulo žetvu poreza na gubitak i rebalansiranje portfelja koji preplavljuju tržišta narudžbama prodaje.Ljetna sezona odmora završava, vraćajući trgovce na stolove na kojima preispituju položaje nakon višemjesečne tanke likvidnosti.Izdanja obveznica povećava se nakon dana, povlačeći kapital iz dionica i rizične imovine dok se institucije okreću u fiksni dohodak.
-
-Federalni odbor za otvoreno tržište održava svoj rujan sastanak, stvarajući neizvjesnost koja zamrzava kupnju dok se usmjeravanje politike ne pojasni.U Crypto -u, ovi pritisci složeni: Bitcoin's 24/7 trgovanje ne znači da nema prekidača kada
+Mehanika iza Red Septembra proizlazi iz sezonskih obrazaca: završetci fiskalnih godina i ‘tax-loss harvesting’, povratak s godišnjih odmora i rebalansi portfelja, navala izdanja obveznica nakon Labor Daya, te sastanak FOMC-a — sve to pojačava oprez. U kriptu se ti pritisci zbrajaju jer tržište radi 24/7, bez „circuit breakera“.
