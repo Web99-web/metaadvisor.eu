@@ -1,23 +1,23 @@
 ---
-title: "Die Ethereum Foundation zielt auf die Interoperabilität als oberste UX -Priorität ab"
+title: "Ethereum Foundation setzt Interoperabilität als oberste UX-Priorität"
 date: 2025-08-29T14:33:09Z
 category: "crypto"
 translationKey: "107a3e820f417e2034da3cd98c63e137"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/tech/2025/08/29/ethereum-foundation-targets-interoperability-as-top-ux-priority"
-summary: "Die Initiative markiert einen strategischen Drehpunkt: Nach Jahren haben das Protokollteam die Interoperabilität als Schlüssel zur Benutzererfahrung aufgenommen."
+summary: "Die Initiative markiert eine strategische Wende: Nach Jahren der Skalierung von Durchsatz und der Senkung der Kosten rückt nun die Interoperabilität in den Mittelpunkt des Benutzererlebnisses."
 tags: ["crypto"]
-image_url: "/news/2025-08-29-ethereum-foundation-targets-interoperability-as-top-ux-priority.jpg"
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/ab9ea8c9d8346f05438e6f0a8739ddc6e4639afa-1920x1242.jpg?auto=format"
 ---
 
-Die Ethereum Foundation teilte am Freitag einen neuen Blog-Beitrag mit einer wichtigen Initiative, die darauf abzielt, die Hindernisse zwischen Ethereums wachsender Konstellation von Layer-2-Netzwerken abzubauen.
+Die Ethereum Foundation veröffentlichte am Freitag einen neuen Blogpost, in dem sie eine große Initiative vorstellt, die darauf abzielt, die Barrieren zwischen den wachsenden Layer-2-Netzwerken von Ethereum abzubauen. Die Initiative markiert eine strategische Wende: Nach Jahren, in denen es um die Skalierung von Durchsatz und die Senkung der Kosten ging, rückt das Protokollteam nun die Interoperabilität in den Mittelpunkt des Benutzererlebnisses.
 
-Die Initiative markiert einen strategischen Drehpunkt: Nach Jahren haben das Protokollteam die Interoperabilität als Schlüssel zur Benutzererfahrung aufgenommen.
+„Wir sehen Interoperabilität und die in dieser Mitteilung vorgestellten Projekte als die größte Chance im UX-Bereich in den nächsten 6–12 Monaten, in unserer Rolle als öffentliches, zentrales Ethereum-F&E-Team“, schrieb das Team.
 
-"Wir sehen die Interoperabilität und verwandte Projekte, die in diesem Hinweis vorgestellt wurden, als die höchste Hebelmöglichkeit innerhalb der breiteren UX-Domain in den nächsten 6 bis 12 Monaten in unserer Position als öffentlicher Kern-Ethereum-F & E-Gruppe", schrieb das Team im Blog-Beitrag.
+Im Kern konzentriert sich das Update auf drei Ziele: Interoperabilität, Geschwindigkeit und Finalität. Der jüngste Vorstoß stammt aus der Improve-UX-Roadmap, die auf früheren Arbeiten zur Skalierung der Ethereum-Basisschicht und der Datenverfügbarkeit aufbaut.
 
-In seinem Kern werden die Aktualisierung von drei Zielen aufgenommen: Interoperabilität, Geschwindigkeit und Endgültigkeit.Der unmittelbarste Druck stammt aus der Verbesserung der UX -Roadmap, die auf früheren Arbeiten aufbaut, um die Basisschicht von Ethereum und seine Datenverfügbarkeitslösungen zu skalieren.Jetzt lenken Entwickler ihre Aufmerksamkeit darauf, dass sich das Netzwerk schneller, einfacher und einheitlicher anfühlt-insbesondere in der weitläufigen Landschaft von Layer-2-Rollups.
+Nun richtet sich die Aufmerksamkeit der Entwickler darauf, das Netzwerk schneller, einfacher und einheitlicher wirken zu lassen — insbesondere über die weit verzweigte Landschaft der Layer-2-Rollups.
 
-Das Herzstück der Anstrengung liegt in der geplanten Interoperabilitätsschicht (EIL), einem vertrauenslosen zensisfestlichen Messaging-System (EIL), das laut der Stiftung interaktionen von der Stiftung miteinander von Ketten zugeschnitten ist.Ein öffentliches Entwurfsdokument ist im Oktober zur Veröffentlichung vorgesehen, wodurch die Voraussetzungen für einen Standardansatz zur Überbrückung von Vermögenswerten und Daten über Rollups hinweg bereitgestellt werden.
+Das Herzstück der Bemühungen ist der geplante Ethereum Interoperability Layer (EIL), ein vertrauensloses, zensurresistentes Nachrichtensystem, das Cross-Chain-Interaktionen so gestalten soll, dass sie sich wie „Single-Chain-Ausführungen“ anfühlen. Ein öffentliches Design-Dokument soll im Oktober veröffentlicht werden und den Weg für einen Standardansatz zum Überbrücken von Assets und Daten über Rollups hinweg ebnen.
 
-Das Ergänzung von EIL ist das Framework der offenen Absichten, eine gemeinsame Infrastruktur für „Absichten“, eine Funktion, in der ein Benutzer Ziele wie das Umziehen von Fonds oder Handelsvermögen die fragmentierten Werkzeuge abstrahieren können, die Entwickler dazu zwingt, benutzerdefinierte Brücken und Relayers zusammenzuhängen.Der Rahmen wurde erstmals von Ökosystementwicklern im Februar 2025 eingeführt und gewonnen
+Ergänzt wird EIL durch das Open Intents Framework — eine gemeinsame Infrastruktur für „Intents“ (benutzerdefinierte Ziele wie das Bewegen von Geldern oder den Handel mit Assets) — die die fragmentierten Tools abstrahiert, die Entwickler derzeit zwingen, eigene Brücken und Relayer zusammenzustellen. Das Framework wurde erstmals im Februar 2025 vorgestellt und hat seitdem an Bedeutung gewonnen.
