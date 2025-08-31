@@ -1,35 +1,22 @@
 ---
-title: "Taco Bell hat die zweite Gedanken darüber, sich auf KI beim Durchlauf zu verlassenTechcrunch"
+title: "Taco Bell überdenkt den Einsatz von AI am Drive-through | TechCrunch"
 date: 2025-08-30T16:50:00Z
 category: "ai"
 translationKey: "f7687f5627f294a99d1d8496056b312b"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/30/taco-bell-is-having-second-thoughts-about-relying-on-ai-at-the-drive-through/"
-summary: "Taco Bell hat anscheinend mit mehr als 500 Durchfahrten die Voice-KI-Anbieter-Bestellung eingeführt, was zu wenig schmeichelhaften viralen Momenten führte, wie jemand, der 18.000 Wasserbecher bestellt, um die KI zu „umgehen“ und mit einem m"
-tags: ["ai"]
-image_url: "/news/2025-08-30-taco-bell-is-having-second-thoughts-about-relying-on-ai-at-the-drive-through-tec.jpg"
+summary: "Mehr als 500 Taco-Bell-Filialen nutzen inzwischen Sprach-AI zum Bestellen. Doch Pannen wie eine virale „18.000 Wasser“-Bestellung werfen Fragen über den breiten Einsatz auf."
+tags: ["ai", "tacobell", "fastfood"]
+image_url: "https://techcrunch.com/wp-content/uploads/2025/08/taco-bell-ai-drive-thru.jpg?w=1200"
+image: "https://techcrunch.com/wp-content/uploads/2025/08/taco-bell-ai-drive-thru.jpg?w=1200"
 ---
 
-Der Chief Digital Officer von Taco Bell sagt, das Unternehmen habe ein „aktives Gespräch“ darüber, wann sie KI verwenden und nicht.
+Taco Bells Chief Digital Officer erklärte, dass das Unternehmen eine “aktive Diskussion” darüber führt, wann der Einsatz von Künstlicher Intelligenz sinnvoll ist – und wann nicht.  
 
-Das Unternehmen hat anscheinend mit mehr als 500 Durchfahrtsanlagen die Voice-KI-angetriebene Bestellung eingeführt, was zu schmeichelhaften viralen Momenten führte, wie jemand, der 18.000 Wasserbecher bestellt, um die KI zu „umgehen“ und mit einem menschlichen Server verbunden zu werden.
+Der Fast-Food-Konzern hat inzwischen **Sprach-AI für Bestellungen** an mehr als 500 Drive-through-Standorten eingeführt. Gleichzeitig sorgte das System für Spott im Netz, etwa als ein Kunde **18.000 Becher Wasser** bestellte, nur um von einem Menschen bedient zu werden.  
 
-Dane, Chief Digital und Technology Officer Dane Matthews, sagte dem Wall Street Journal, dass selbst er gemischte Erfahrungen mit der Technologie habe: „Manchmal lässt es mich im Stich, aber manchmal überrascht es mich wirklich.“
+Dane Matthews, Chief Digital and Technology Officer, sagte dem Wall Street Journal: “Manchmal enttäuscht mich die Technologie, aber manchmal überrascht sie mich wirklich.”  
 
-Insgesamt klingt es so, als ob Taco Bell immer noch entscheidet, wie breit es sich weitgehend entscheidet, KI auf dem Laufenden zu entfernen, mit Spielraum für verschiedene Franchisenehmer, um die Dinge auf ihre eigene Art zu tun.Anstatt sich beispielsweise ausschließlich auf KI zu verlassen, sagte Matthews, es könnte sinnvoll sein, in geschäftigen Restaurants mit langen Linien einen durchlaufenden Durchgangsbestellungen zu haben.
+Es sieht so aus, als ob Taco Bell noch prüft, wie breit AI ausgerollt werden soll, wobei den Franchise-Nehmern Spielraum bleibt. Matthews deutete an, dass es Sinn machen könnte, bei stark frequentierten Restaurants weiterhin auf menschliche Bedienung zu setzen.  
 
-"Für unsere Teams helfen wir ihnen zu coachen: In Ihrem Restaurant empfehlen wir, dass Sie zu diesen Zeiten Voice AI verwenden oder empfehlen, dass Sie die Voice -KI tatsächlich wirklich überwachen und bei Bedarf einspringen", sagte er.
-
-Setzen Sie Ihre Marke vor 10.000 Tech- und VC -Führungskräften in allen drei Tagen der Störung 2025. Verstärken Sie Ihre Reichweite, entfachen echten Verbindungen und führen Sie die Innovationsgebühr an.Sichern Sie Ihren Ausstellungsraum, bevor Ihr Konkurrent dies tut.Der letzte Tag zu buchen ist der 5. September
-
-Abonnieren Sie die größten technischen Nachrichten der Branche
-
-Jeden Wochentag und Sonntag erhalten Sie die Beste aus TechCrunch.
-
-TechCrunch Mobility ist Ihr Ziel für Transportnachrichten und Einblicke.
-
-Startups sind der Kern von TechCrunch. Erhalten Sie also die beste Berichterstattung wöchentlich.
-
-Bietet Macher und Schüttler die Informationen, die sie benötigen, um ihren Tag zu beginnen.
-
-Durch die Einreichung Ihrer E -Mail stimmen Sie unseren Bedingungen und Datenschutzbekanntmachungen zu
+“Wir werden unsere Teams coachen: In eurem Restaurant, zu diesen Zeiten, empfehlen wir Voice AI – oder wir empfehlen, Voice AI eng zu überwachen und bei Bedarf einzugreifen”, erklärte Matthews.  
