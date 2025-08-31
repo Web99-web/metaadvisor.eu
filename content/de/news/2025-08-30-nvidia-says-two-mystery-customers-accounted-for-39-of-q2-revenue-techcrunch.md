@@ -1,26 +1,20 @@
 ---
-title: "Laut Nvidia machten zwei Mystery -Kunden 39% des Umsatzes im zweiten Quartal aus |Techcrunch"
+title: "Nvidia: Zwei geheimnisvolle Kunden machten 39 % des Q2-Umsatzes aus | TechCrunch"
 date: 2025-08-30T21:40:49Z
 category: "news"
 translationKey: "b1cd40663ba0500027aef3631225a5a5"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/30/nvidia-says-two-mystery-customers-accounted-for-39-of-q2-revenue/"
-summary: "Fast 40% des Umsatzes im zweiten Quartal von NVIDIA stammten von nur zwei Unternehmen, die in einer Anmeldung als 'Kunde A' und 'Kunde B.' identifiziert wurden."
-image_url: "/news/2025-08-30-nvidia-says-two-mystery-customers-accounted-for-39-of-q2-revenue-techcrunch.jpg"
+summary: "Fast 40 % des Nvidia-Umsatzes im zweiten Quartal stammten von nur zwei Kunden, die als 'Customer A' und 'Customer B' bezeichnet wurden."
+tags: ["nvidia", "ai", "business"]
+image_url: "https://techcrunch.com/wp-content/uploads/2025/08/nvidia-chip-data-center.jpg?w=1200"
+image: "https://techcrunch.com/wp-content/uploads/2025/08/nvidia-chip-data-center.jpg?w=1200"
 ---
 
-Laut einer Einreichung bei der Securities and Exchange Commission stammten fast 40% des Umsatzes im zweiten Quartal von NVIDIA von nur zwei Kunden.
+Fast 40 % des Nvidia-Umsatzes im zweiten Quartal stammten von nur zwei Kunden, wie aus einer SEC-Meldung hervorgeht.  
 
-Am Mittwoch erzielte der Chipmaker im Quartal einen Rekordumsatz von 46,7 Milliarden US-Dollar, der am 27. Juli endete-ein Anstieg von 56% gegenüber dem Vorjahr, das weitgehend vom AI-Rechenzentrumboom zurückzuführen ist.Nachfolgend berichtete die nachfolgende Berichterstattung, wie viel von diesem Wachstum nur von einer Handvoll Kunden zu stammen scheint.
+Der Chiphersteller meldete am Mittwoch einen Rekordumsatz von **46,7 Milliarden USD** für das am 27. Juli beendete Quartal — ein Plus von 56 % gegenüber dem Vorjahr, angetrieben durch das Boomgeschäft mit AI-Rechenzentren.  
 
-Insbesondere sagte Nvidia, dass ein einzelner Kunde 23% des Gesamtumsatzes im zweiten Quartal ausmachte, während der Umsatz an einen anderen Kunden 16% des Umsatzes im zweiten Quartal ausmachte.Die Einreichung identifiziert keinen dieser Kunden und bezieht sich nur als „Kunde A“ und „Kunde B.“
+Ein Kunde machte 23 % des Umsatzes aus, ein weiterer 16 %. Nvidia nannte sie lediglich “Customer A” und “Customer B”.  
 
-In der ersten Hälfte des Geschäftsjahres hat NVIDIA laut NVIDIA 20% bzw. 15% des Gesamtumsatzes ausmachen.Vier weitere Kunden machten 14%, 11%, weitere 11%und 10%des Umsatzes im zweiten Quartal aus, so das Unternehmen.
-
-Laut dem Unternehmen sind dies alles „direkte“ Kunden - wie Originalausrüstungshersteller (OEMs), Systemintegratoren oder Händler, die ihre Chips direkt bei NVIDIA kaufen.Indirekte Kunden wie Cloud -Service -Anbieter und Internetunternehmen für Verbraucher kaufen NVIDIA -Chips von diesen direkten Kunden.
-
-Mit anderen Worten, es hört sich unwahrscheinlich an, dass ein großer Cloud -Anbieter wie Microsoft, Oracle, Amazon oder Google heimlich Kunde A oder Kunde B ist - obwohl diese Unternehmen indirekt für diese massiven Ausgaben verantwortlich sind.
-
-Tatsächlich sagte Nicole Kress, Chief Financial Officer von NVIDIA, dass „große Cloud -Dienstleister“ 50% des NVIDIA -Umsatzes für Rechenzentrumseinnahmen ausmachen, was laut CNBC wiederum 88% des Gesamtumsatzes des Unternehmens ausmachte.
-
-Was bedeutet das für die Zukunftsaussichten von Nvidia?
+CFO Nicole Kress erklärte, dass **große Cloud-Anbieter** inzwischen 50 % der Rechenzentrumsumsätze generieren, die 88 % des Gesamtumsatzes von Nvidia ausmachen.  
