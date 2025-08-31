@@ -1,33 +1,29 @@
 ---
-title: "Wer hat Bitcoin im Jahr 2025?Crypto -Firma Maps Global BTC -Eigentümerverteilung"
+title: "Wer besitzt Bitcoin im Jahr 2025? Krypto-Firma kartiert die globale BTC-Verteilung"
 date: 2025-08-30T17:04:00Z
 category: "crypto"
 translationKey: "69b2b007e82e05a1fe284b4be843139a"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/30/most-bitcoin-still-belongs-to-individuals-but-institutions-are-catching-up-research"
-summary: "Einzelpersonen besitzen immer noch die meisten Bitcoins, die bisher abgebaut wurden.Die Forschung von River zeigt, wie viele verschiedene Kohorten jetzt kontrollieren."
+summary: "Ein neuer Bericht von River zeigt: Privatpersonen halten weiterhin die Mehrheit der Bitcoins, während Institutionen durch ETFs und Unternehmen aufholen."
 tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-08-30-who-holds-bitcoin-in-2025-crypto-firm-maps-global-btc-ownership-distribution.jpg"
+image_url: "https://www.coindesk.com/resizer/v2/bitcoin-holders-2025.jpg?auto=format&width=1200"
+image: "https://www.coindesk.com/resizer/v2/bitcoin-holders-2025.jpg?auto=format&width=1200"
 ---
 
-River sagt, dass Einzelpersonen immer noch die Mehrheit von Bitcoin besitzen.
+Das US-Bitcoin-Finanzunternehmen **River** veröffentlichte am 25. August eine Analyse zur Verteilung der Bitcoin-Bestände. Die Studie unterteilt das Angebot in mehrere Kategorien und zeigt den Marktanteil jeder Gruppe, basierend auf öffentlichen Einreichungen, Adress-Tags von Verwahrstellen und früheren Blockchain-Analysen.  
 
-Das in den USA ansässige Bitcoin Financial Services-Unternehmen gab in einem kürzlich auf X kürzlich veröffentlichten Beitrag zur Besitzverteilung des Vertriebs bekannt.Die Studiengruppe gruppiert Bitcoin in wenigen Kategorien und zeigt den Marktanteil von jedem, wobei öffentliche Einreichungen, Sorgerichtsadnassungen und frühere Blockchain -Forschung verwendet werden.
+River schätzt, dass **Einzelpersonen rund 65,9 % des zirkulierenden BTC** (13,83 Millionen Coins) kontrollieren. Dazu zählen selbstverwahrte Wallets und Börsenkonten, die River als privat einstuft.  
 
-Der Flussschätze Personen kontrollieren Personen rund 65,9% der zirkulierenden BTC oder 13,83 Millionen Münzen.Dieser Eimer enthält selbstverbindliche Brieftaschen und Austauschkonten, die Fluss als Individuum klassifiziert.
+Auf institutioneller Seite teilt River die Bestände in **Unternehmen, ETFs und Fonds** auf.  
 
-Auf der institutionellen Seite unterteilt Fluss die Bestände in Unternehmen, ETFs und Fonds.
+Regierungen halten laut Studie etwa **1,5 % (306.000 BTC)**, basierend auf öffentlich bekannten Adressen.  
 
-Die Regierungen werden bei etwa 1,5%oder 306.000 BTC angezeigt, basierend auf souveränen Adressen, die aus öffentlichen Quellen verfolgt wurden.
+Zwei Sonderkategorien runden die Analyse ab:  
 
-Zwei besondere Kategorien runden die Verteilung ab:
+- **Verlorene oder inaktive Coins** (Wallets, die vermutlich dauerhaft unzugänglich sind).  
+- Rund **5,2 % des Angebots (1,09 Millionen BTC)** müssen noch geschürft werden, bevor das Hard Cap von 21 Millionen erreicht ist.  
 
-Schließlich müssen etwa 5,2% des Angebots oder 1,09 Millionen BTC noch abgebaut werden, bevor die Hardkappe von 21 Millionen erreicht ist.
+Ziel der Analyse ist es, die aktuelle Besitzstruktur von Bitcoin zu kartieren, nicht Preisprognosen abzugeben. River betont, dass die Schätzungen unsicher sind, da Verwahrer viele Kunden bündeln, Wallets falsch eingestuft sein können und Besitzverhältnisse intransparent bleiben.  
 
-In Bezug auf die Forschung von River ist ein Versuch, heute Bitcoin zu kartieren, nicht um zukünftige Preise zu prognostizieren.Die Schätzungen sind nicht endgültig, da die Verwalter viele Kunden zusammenfassen, einige Brieftaschen falsch klassifiziert werden und das Eigentum undurchsichtig sein kann.
-
-Die Schlussfolgerung von River ist, dass Einzelpersonen immer noch die Bestände dominieren, aber der institutionelle Anteil wächst, unterstützt durch das Wachstum von ETFs und Unternehmen, die Bitcoin jetzt als Vermögenswert ausbalancieren.
-
-DOGE Rebounds von 0,21 USD Floor, Cup-and-Handle-Muster zielt auf 0,30 USD ab
-
-Das Meme-Token veröffentlicht am 30. bis 31. August eine Rallye der späten Sitzung, wobei Wal- und Austauschflüsse trotz Makro die fortlaufende institutionelle Beteiligung hervorheben
+Das Fazit: **Privatanleger dominieren weiterhin den Bitcoin-Besitz**, aber der institutionelle Anteil wächst – unterstützt durch ETFs und Unternehmen, die Bitcoin zunehmend als Bilanz-Asset führen.
