@@ -1,33 +1,29 @@
 ---
-title: "Tko drži Bitcoin 2025. godine?Kripto tvrtka mapira globalnu distribuciju vlasništva BTC"
+title: "Tko posjeduje Bitcoin 2025.? Kripto tvrtka mapira globalnu distribuciju BTC-a"
 date: 2025-08-30T17:04:00Z
 category: "crypto"
 translationKey: "69b2b007e82e05a1fe284b4be843139a"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/30/most-bitcoin-still-belongs-to-individuals-but-institutions-are-catching-up-research"
-summary: "Pojedinci i dalje posjeduju većinu dosadašnjih mine.River -ovo istraživanje otkriva koliko različitih kohorti sada kontroliraju."
+summary: "Pojedinci i dalje posjeduju većinu bitcoina, pokazuje istraživanje River-a — no udio institucija raste zahvaljujući ETF-ovima i korporacijama."
 tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-08-30-who-holds-bitcoin-in-2025-crypto-firm-maps-global-btc-ownership-distribution.jpg"
+image_url: "https://www.coindesk.com/resizer/v2/bitcoin-holders-2025.jpg?auto=format&width=1200"
+image: "https://www.coindesk.com/resizer/v2/bitcoin-holders-2025.jpg?auto=format&width=1200"
 ---
 
-River kaže da pojedinci i dalje posjeduju većinu bitcoina.
+Tvrtka za financijske usluge vezane uz bitcoin **River** objavila je 25. kolovoza istraživanje o distribuciji vlasništva nad bitcoinom. Studija grupira opskrbu bitcoina u nekoliko kategorija i prikazuje tržišni udio svake, koristeći se javnim podacima, oznakama skrbničkih adresa i ranijim blockchain istraživanjima.  
 
-Američka tvrtka sa sjedištem u Bitcoin Financial Services otkrila je istraživanje o distribuciji vlasništva od 25. kolovoza u nedavnom postu na X.Studija grupira Bitcoin opskrbu u nekoliko kategorija i pokazuje tržišni udio svakog, koristeći javne prijave, označavanje adrese skrbništva i ranije blockchain istraživanje.
+Procjenjuje se da pojedinci kontroliraju oko **65,9% cirkulirajućeg BTC-a**, odnosno 13,83 milijuna kovanica. Ova kategorija uključuje samostalno pohranjene novčanike i račune na burzama koje River klasificira kao individualne.  
 
-Rijeka procjenjuje da pojedinci kontroliraju oko 65,9% kružnih BTC -a, ili 13,83 milijuna kovanica.Ova kanta uključuje samouvjerene novčanike i razmjene računa koje rijeka klasificira kao pojedinačno.
+Na institucionalnoj strani, River dijeli vlasništvo na **poslovne subjekte, ETF-ove i fondove**.  
 
-Na institucionalnoj strani, River dijeli vlasnike na tvrtke, ETF -ove i fondove.
+Vlade se prikazuju s oko **1,5% (306.000 BTC)**, temeljem praćenih suverenih adresa iz javnih izvora.  
 
-Vlade su prikazane na oko 1,5%, ili 306.000 BTC -a, na temelju suverenih adresa praćenih iz javnih izvora.
+Dvije posebne kategorije zaokružuju distribuciju:  
 
-Dvije posebne kategorije zaokružuju distribuciju:
+- **Izgubljeni ili neaktivni BTC** (novčanici za koje se vjeruje da su trajno nedostupni).  
+- Oko **5,2% opskrbe (1,09 milijuna BTC)** tek treba biti izrudareno prije hard capa od 21 milijun.  
 
-Konačno, oko 5,2% opskrbe, ili 1,09 milijuna BTC -a, tek treba biti minirano prije nego što je postignut tvrda ograničenja od 21 milijuna.
+Drugim riječima, Riverovo istraživanje pokušava mapirati tko danas posjeduje bitcoin, a ne prognozirati cijene. Procjene nisu konačne, jer skrbnici agregiraju više klijenata, neki su novčanici pogrešno klasificirani, a vlasništvo može biti netransparentno.  
 
-Obično, River -ovo istraživanje je pokušaj preslikavanja koji danas drži Bitcoin, a ne prognoziranje budućih cijena.Procjene nisu konačne, budući da skrbnici objedinjuju mnoge klijente, neki novčanici su pogrešno klasificirani, a vlasništvo može biti neprozirno.
-
-Zaključak River-a je da pojedinci i dalje dominiraju u posjenima, ali institucionalni udio se širi, pomažu rastu ETF-a i tvrtki koje sada tretiraju Bitcoin kao imovinu ravnoteže.
-
-Doge oporavlja od 0,21 $ kat, uzorak uzorka za čašicu i ručak 0,30 USD
-
-Meme token objavljuje miting u kasnoj sjednici 30. do 31. kolovoza, a tokovi kitova i razmjene isticali su kontinuirano institucionalno sudjelovanje unatoč makronaredbi
+Zaključak River-a je da pojedinci i dalje dominiraju vlasništvom, ali udio institucija raste, potaknut rastom ETF-ova i kompanija koje sada tretiraju bitcoin kao imovinu na bilanci.
