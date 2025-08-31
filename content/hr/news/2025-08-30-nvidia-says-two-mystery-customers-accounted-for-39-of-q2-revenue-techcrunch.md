@@ -1,26 +1,20 @@
 ---
-title: "Nvidia kaže da su dva kupca misterija činila 39% prihoda od Q2 |TechCrunch"
+title: "Nvidia kaže da su dva tajanstvena klijenta činila 39% prihoda u Q2 | TechCrunch"
 date: 2025-08-30T21:40:49Z
 category: "news"
 translationKey: "b1cd40663ba0500027aef3631225a5a5"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/30/nvidia-says-two-mystery-customers-accounted-for-39-of-q2-revenue/"
-summary: "Gotovo 40% prihoda u drugom tromjesečju NVIDIA -e došlo je od samo dvije tvrtke, koje su u podnesku identificirale kao 'Kupac A' i 'Kupac B.'"
-image_url: "/news/2025-08-30-nvidia-says-two-mystery-customers-accounted-for-39-of-q2-revenue-techcrunch.jpg"
+summary: "Gotovo 40% Nvidijinog prihoda u drugom kvartalu dolazilo je od samo dva klijenta, navedena u dokumentaciji kao 'Customer A' i 'Customer B'."
+tags: ["nvidia", "ai", "business"]
+image_url: "https://techcrunch.com/wp-content/uploads/2025/08/nvidia-chip-data-center.jpg?w=1200"
+image: "https://techcrunch.com/wp-content/uploads/2025/08/nvidia-chip-data-center.jpg?w=1200"
 ---
 
-Gotovo 40% prihoda u drugom tromjesečju NVIDIA -e došlo je od samo dva kupca, navodi se u podnesku s Komisijom za vrijednosne papire.
+Prema prijavi američkoj Komisiji za vrijednosne papire (SEC), gotovo 40% Nvidijinog prihoda u drugom kvartalu potječe od samo dva klijenta.  
 
-U srijedu je čipsač izvijestio o rekordnom prihodu od 46,7 milijardi dolara tijekom tromjesečja koji je završio 27. srpnja-što je 56% u odnosu na godinu dana, u velikoj mjeri vođeno procvatom podatkovnog centra AI.Međutim, naknadno izvještavanje istaknulo je koliko tog rasta dolazi od samo nekolicine kupaca.
+U izvješću objavljenom u srijedu, proizvođač čipova prijavio je rekordni prihod od **46,7 milijardi USD** u tromjesečju koje je završilo 27. srpnja — porast od 56% u odnosu na godinu ranije, potaknut AI podatkovnim centrima.  
 
-Konkretno, Nvidia je rekla da je jedan kupac predstavljao 23% ukupnog prihoda od Q2, dok je prodaja drugom kupcu predstavljala 16% prihoda od Q2.Podnošenje prijave ne identificira nijednog od ovih kupaca, samo ih naziva "kupcu A" i "Kupac B."
+Jedan je kupac predstavljao 23% ukupnog prihoda, a drugi 16%, ali kompanija nije otkrila njihov identitet. U dokumentaciji su označeni samo kao “Customer A” i “Customer B”.  
 
-Tijekom prve polovice fiskalne godine, Nvidia kaže da su kupac A i kupac B činili 20%, odnosno 15% ukupnog prihoda.Četiri druga kupca činila su 14%, 11%, još 11%i 10%prihoda od Q2, kažu tvrtka.
-
-U svom podnošenju, tvrtka kaže da su svi to „izravni“ kupci - poput originalnih proizvođača opreme (OEMS), integratora sustava ili distributera - koji svoje čipove kupuju izravno od NVIDIA.Neizravni kupci, kao što su pružatelji usluga u oblaku i internetske tvrtke, kupuju NVIDIA čipove od tih izravnih kupaca.
-
-Drugim riječima, zvuči malo vjerovatno da bi veliki davatelj oblaka poput Microsofta, Oraclea, Amazona ili Googlea potajno mogao biti kupac A ili kupac B - iako su te tvrtke možda neizravno odgovorne za tu ogromnu potrošnju.
-
-U stvari, glavna financijska direktorica NVIDIA -e Nicole Kress rekla je da su "veliki pružatelji usluga u oblaku" činili 50% prihoda od podatkovnog centra NVIDIA -e, što je zauzvrat predstavljalo 88% ukupnog prihoda tvrtke, prema CNBC -u.
-
-Što to znači za buduće izglede NVIDIA -e?
+Financijska direktorica Nicole Kress naglasila je da su **veliki pružatelji cloud usluga** činili 50% prihoda podatkovnih centara, koji sada čine čak 88% ukupnih prihoda Nvidije.  
