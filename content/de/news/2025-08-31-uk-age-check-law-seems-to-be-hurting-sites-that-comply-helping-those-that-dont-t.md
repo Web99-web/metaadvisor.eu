@@ -1,32 +1,24 @@
 ---
-title: "Das Gesetz über das Alter des UK -Alters scheint die Websites zu verletzen, die sich entsprechen und denjenigen helfen, die nicht |Techcrunch"
+title: "Britisches Alterskontrollgesetz schadet konformen Seiten und begünstigt diejenigen, die es ignorieren"
 date: 2025-08-31T20:05:15Z
 category: "news"
 translationKey: "78b939e46a5c798bd7ae500f7f67e7f7"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/08/31/uk-age-check-law-seems-to-be-hurting-sites-that-comply-helping-those-that-dont/"
-summary: "Das britische Großbritannien begann kürzlich mit der Durchsetzung der Regeln für die New Age-Check, und die Washington Post berichtet, dass es sich bereits erheblich auf den Verkehr auf Pornoseiten auswirkt."
-image_url: "/news/2025-08-31-uk-age-check-law-seems-to-be-hurting-sites-that-comply-helping-those-that-dont-t.jpg"
+summary: "Das Vereinigte Königreich setzt seit Kurzem neue Alterskontrollregeln durch – und laut Washington Post wirkt sich das bereits erheblich auf den Traffic von Pornoseiten aus."
+tags: ["UK","Gesetz","Alterskontrolle","Compliance","Pornografie","Traffic","Regulierung","Online-Safety-Act","Internet","Datenschutz"]
+image_url: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-1180208300.jpg?w=1390&crop=1"
+image_url_small: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-1180208300.jpg?w=600&crop=1"
 ---
 
-Das Vereinigte Königreich hat kürzlich begonnen, die Age-Check-Regeln des Online-Sicherheitsgesetzes durchzusetzen, und die Washington Post berichtet, dass es sich bereits erheblich auf den Webverkehr auswirkt.
+Das Vereinigte Königreich setzt seit Kurzem die Alterskontrollregeln des Online Safety Act durch, und laut Washington Post hat dies bereits erhebliche Auswirkungen auf den Web-Traffic.  
 
-Das britische Gesetz verpflichtet nun Pornografie -Websites, um das Alter ihrer Benutzer über Mittel wie Gesichtscans und Führerscheine zu überprüfen.Außerdem müssen Online -Plattformen verhindern, dass Kinder erwachsenen Inhalten ausgesetzt werden (weshalb Websites wie Bluesky und Reddit begonnen haben, einige Benutzer des Benutzers zu überprüfen).
+Das Gesetz verpflichtet Pornoseiten, das Alter ihrer Nutzer mithilfe von Methoden wie Gesichtsscans oder Führerscheinen zu überprüfen; Plattformen müssen zudem verhindern, dass Kinder Zugang zu Inhalten für Erwachsene haben (weshalb z. B. Bluesky und Reddit Altersprüfungen eingeführt haben).  
 
-Um die Auswirkung des Gesetzes zu untersuchen, wurde in der Post die Top 90 Pornoseiten auf der Grundlage von Besucherdaten in Großbritannien von ähnlichenWeb untersucht und 14 Websites gefunden, die immer noch keine Altersüberprüfung durchführen.Alle 14 von ihnen scheinen eine dramatische Steigerung des Verkehrs zu verzeichnen zu haben, wobei einer von ihnen den Verkehr im Laufe des Jahres doppelt zu verzeichnen war.
+Die Post analysierte die 90 größten Pornoseiten nach UK-Besucherdaten von Similarweb und fand 14, die noch keine Alterskontrolle durchführen. Alle diese Seiten verzeichneten einen deutlichen Anstieg des Traffics — bei einer Seite verdoppelte sich der Traffic im Jahresvergleich.  
 
-In der Zwischenzeit gingen viele Websites angeblich dem Gesetz ein, während sie es kritisierten, sich auf eine Petition verlinken, die die Aufhebung aufforderte, oder gaben sogar Anweisungen, um sie zu umgehen.
+Viele Seiten, die sich dem Gesetz formell fügten, kritisierten es gleichzeitig, verlinkten auf Petitionen zur Aufhebung oder gaben sogar Anleitungen, wie man es umgehen kann.  
 
-John Scott-Railton, ein Forscher an der Bürgerlabor der Universität von Toronto, sagte gegenüber der Post, dass dies "ein Lehrbuch-Illustration des Gesetzes der unbeabsichtigten Konsequenzen" sei, und fügte hinzu, dass das Gesetz „den Verkehr auf konforme Plattformen unterdrückt, während sie Benutzer auf Websites ohne Altersüberprüfung führen“.
+John Scott-Railton, Forscher am Citizen Lab der Universität Toronto, sagte, dies sei „ein Paradebeispiel für das Gesetz der unbeabsichtigten Folgen“, da das Gesetz den Traffic von konformen Plattformen unterdrücke und Nutzer zu nicht konformen Seiten lenke.  
 
-Setzen Sie Ihre Marke vor 10.000 Tech- und VC -Führungskräften in allen drei Tagen der Störung 2025. Verstärken Sie Ihre Reichweite, entfachen echten Verbindungen und führen Sie die Innovationsgebühr an.Sichern Sie Ihren Ausstellungsraum, bevor Ihr Konkurrent dies tut.Der letzte Tag zu buchen ist der 5. September
-
-Abonnieren Sie die größten technischen Nachrichten der Branche
-
-Jeden Wochentag und Sonntag erhalten Sie die Beste aus TechCrunch.
-
-TechCrunch Mobility ist Ihr Ziel für Transportnachrichten und Einblicke.
-
-Startups sind der Kern von TechCrunch. Erhalten Sie also die beste Berichterstattung wöchentlich.
-
-Bietet
+**Unser Kommentar:** Regulierung ohne technische Wirksamkeit kann die gegenteilige Wirkung haben — und Nutzer eher zu unsicheren Plattformen treiben.
