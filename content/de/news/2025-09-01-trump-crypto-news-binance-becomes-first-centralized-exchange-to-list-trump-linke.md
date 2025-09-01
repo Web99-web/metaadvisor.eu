@@ -1,31 +1,24 @@
 ---
-title: "Trump Crypto News: Binance wird zum ersten zentralisierten Austausch, um mit Trump-verknüpftem WLFI-Token aufzulisten"
+title: "Trump-Krypto-News: Binance wird erste zentrale Börse, die den Trump-gebundenen WLFI-Token listet"
 date: 2025-09-01T04:20:50Z
 category: "crypto"
 translationKey: "8ac2a6f1d1d71515b8b8589722e9c1a5"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/01/binance-becomes-first-exchange-to-list-trump-linked-wlfi-token"
-summary: "Der Austausch wird WLFI-Spotpaare gegen USDT und USDC eröffnen und die Verschiebung des Token von einem nicht übertragbaren Vorverkauf zu vollständiger Handelsfähigkeit markieren."
-tags: ["crypto"]
-image_url: "/news/2025-09-01-trump-crypto-news-binance-becomes-first-centralized-exchange-to-list-trump-linke.png"
+summary: "Binance öffnet WLFI-Spot-Paare gegen USDT und USDC und beendet die Phase nicht übertragbarer Presale-Token."
+tags: ["Trump","WLFI","Binance","Krypto","Börse","Listing","DeFi","Ethereum","BSC","Solana"]
+image_url: "https://www.coindesk.com/resizer/v2/WT4J2CG7DZEHXP54VIFC5X4QHE.jpg?auth=6c30f1c850d232b1b80d4ed8b5a9f99e58d683e1c6f7f27d0f13b77a1f33262b&width=1200"
+image_url_small: "https://www.coindesk.com/resizer/v2/WT4J2CG7DZEHXP54VIFC5X4QHE.jpg?auth=6c30f1c850d232b1b80d4ed8b5a9f99e58d683e1c6f7f27d0f13b77a1f33262b&width=600"
 ---
 
-Binance ist der erste Krypto-Austausch, der World Liberty Financial (WLFI), das Trump-familienverbindliche Dezentralfinanzierungsprojekt (DEFI), aufgelistet hat, wobei der Handel laut einer kürzlichen Ankündigung die UTC-Zeit am Montagnachmittag beginnt.
+Binance hat als erste zentrale Kryptobörse den **World Liberty Financial (WLFI)**-Token gelistet – ein DeFi-Projekt mit Trump-Verbindungen. Der Handel startete am Montagmittag UTC, Einzahlungen sind bereits möglich, Auszahlungen ab Dienstag.  
 
-Einlagen sind bereits live, während die Abhebungen am Dienstag beginnen sollen.Binance wird seine Bezeichnung „Seed Tag“ anwenden, ein Etikett, das für innovative, aber risikoreiche Token reserviert ist.
+WLFI-Token waren bisher aufgrund Compliance-Regeln nicht übertragbar. Mit der Binance-Notierung wird erstmals der freie Handel auf einer zentralisierten Plattform möglich. Binance vergab zudem das “Seed Tag”-Label, das innovativen, aber riskanten Tokens vorbehalten ist.  
 
-Bisher waren WLFI-Token mit Design nicht übertragbar, eine Compliance-gesteuerte Beschränkung, die die Vorverkaufs-Token davon abhalten sollte, frei gehandelt zu werden, und die Auflistung von Binance markiert zum ersten Mal die Verschiebung, Überweisungen und Eröffnungsmärkte auf einem zentralen Austausch zu ermöglichen.
+Auch die südkoreanische Börse **Upbit** kündigte an, WLFI zu listen. Geplant ist die Unterstützung auf drei Blockchains: Ethereum, Binance Smart Chain und Solana.  
 
-Nach der Binance -Ankündigung gab der südkoreanische Austausch -UPbit auch bekannt, dass er WLFI auflisten werde.
+Letzte Woche starteten WLFI-Futures auf Hyperliquid DEX. Händler setzten massiv auf Short, wodurch die Bewertung von 44 Mrd. USD auf 24 Mrd. USD in wenigen Stunden fiel.  
 
-Um auf Binance zuzugreifen, müssen Benutzer, um auf den WLFI -Handel zuzugreifen, Quiz, die erhöhte Volatilität und Risikoangaben anerkannt werden.Das Token wird gleichzeitig auf drei Blockchains starten: Ethereum, Binance Smart Chain und Solana.
+Um WLFI auf Binance handeln zu können, müssen Nutzer zunächst Quizfragen zur Volatilität und zu den Risiken beantworten.  
 
-Die WLFI -Futures wurde letzte Woche mit der Hyperliquid Decentralized Exchange gestartet, in der Händler den Token abkürzten und seine implizite Bewertung innerhalb von 44 Milliarden US -Dollar auf 24 Milliarden US -Dollar gesenkt haben.
-
-Das Debüt in Binance bietet den ersten Spotmarkt für WLFI selbst und markiert einen Wendepunkt von seiner nicht übertragbaren Token-Phase bis zur vollen Handelsfähigkeit.
-
-Der Gründer von Eric Trump und Binance, Changpeng 'CZ' Zhao, sprach kürzlich bei BTC Asia in Hongkong.
-
-Rot September?Bitcoin riskiert nach einem monatlichen Rückgang von 6% auf 100.000 US -Dollar
-
-Technische Indikatoren bestätigen eine bärische Verschiebung, die durch Verstoß gegen den Schlüsselpreisunterstützung vorgeschlagen wird
+**Unser Kommentar:** WLFI vereint Politik und Krypto – eine Mischung, die sowohl Chancen als auch extreme Risiken birgt.
