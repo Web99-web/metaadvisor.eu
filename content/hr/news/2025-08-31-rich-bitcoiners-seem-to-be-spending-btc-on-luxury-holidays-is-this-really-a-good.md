@@ -1,31 +1,34 @@
 ---
-title: "Čini se da bogati bitcoinersi troše BTC na luksuzne praznike.Je li to zaista dobra ideja?"
+title: "Bogati bitcoineri troše BTC na luksuzne odmore. Je li to zaista dobra ideja?"
 date: 2025-08-31T19:53:44Z
 category: "crypto"
 translationKey: "978ad1c5410630357671588e17e8b5e8"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/31/rich-bitcoiners-are-reportedly-spending-btc-on-luxury-holidays-does-this-really-make-sense"
-summary: "Od mlaza do jahta, bogatstva se ne boje potrošiti svoj BTC.No, je li pametna-ili sljedeća pogreška pizze u milijardu dolara u nastajanju?"
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-08-31-rich-bitcoiners-seem-to-be-spending-btc-on-luxury-holidays-is-this-really-a-good.jpg"
+summary: "Od privatnih aviona do jahti – bogati bitcoineri sve više koriste BTC za luksuzna putovanja. No, je li to pametno ili nova verzija 'pizza greške' vrijedne milijarde?"
+tags: ["bitcoin","crypto","luxury","holidays","jets","yachts","travel","payments"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/739d9b7bb173fe3e06e24cf3b0f5827d21b82032-2880x1620.jpg"
+image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/739d9b7bb173fe3e06e24cf3b0f5827d21b82032-2880x1620.jpg?auto=format&fit=max&w=1200"
 ---
 
-Posljednji skup Bitcoina prolive se na tržište luksuznih praznika.
+Najnoviji rast bitcoina prelijeva se i na tržište luksuznih odmora.  
 
-Financial Times (FT) izvijestio je ranije danas da privatne mlazne tvrtke, krstarenje i butični hoteli sve više prihvaćaju kripto plaćanja.
+Prema pisanju Financial Timesa (FT), sve je više privatnih aviokompanija, kruzera i luksuznih hotela koji prihvaćaju kripto uplate.  
 
-Na primjer, Fxet u vlasništvu Flexjeta, sada uzima tokene za transatlantske putovanja koji koštaju oko 80.000 dolara, dok operator Cruise Virgin Voyages prodaje godišnje propusnice u vrijednosti od 120 000 dolara.
+Primjerice, Flexjetov FXAIR sada prima tokene za transatlantske letove vrijedne oko 80.000 USD, dok Virgin Voyages prodaje godišnje krstarenje za 120.000 USD.  
 
-SEADREAM YACHT CLUB I BOUTIQUE HOTEL GRUPE, uključujući kolekciju Kessler, također su dodali opcije kriptovaluta, navodi se u F t.
+SeaDream Yacht Club i hotelske grupacije poput The Kessler Collection također su uveli kripto checkout opcije.  
 
-Putovanje vrhunskog razreda prirodna je niša za kripto potrošnju.Na šestoznamenkastim fakturama, naknadama i volatilnosti manji, a trgovci mogu odmah pretvoriti plaćanja u fiat.
+Luksuzna putovanja prirodna su niša za kripto trošenje – na računima od šest znamenki volatilnost i naknade manje su bitne, a trgovci plaćanja mogu odmah konvertirati u fiat.  
 
-Za kupce, plaćanje Bitcoin-a nosi statusnu vrijednost, odjekujući ranije splereke na tržištu bikova na Lamborghinisu i satovima.Ovoga puta, popustljivost je privatni mlaznjaci i jedinstvena krstarenja.
+Za klijente, plaćanje bitcoinom donosi status, slično kao i prethodni val luksuzne potrošnje na Lamborghinije i satove. Ovaj put luksuz su privatni avioni i jedinstvena krstarenja.  
 
-Ipak, ima li to financijski smisao, druga je stvar.Najpoznatija priča o oprezu Bitcoina dolazi iz 2010. godine, kada je programer Floride Laszlo Hanyecz potrošio 10.000 BTC -a na dvije pizze, kupnja sada vrijedi više od milijardu dolara u unazad.Današnje jet rezervacije mogle bi pozvati isto žaljenje ako se Bitcoin nastavi penjati.
+No, je li to financijski pametno, drugo je pitanje. Najpoznatiji primjer je “bitcoin pizza” iz 2010., kad je 10.000 BTC potrošeno na dvije pizze — što bi danas vrijedilo više od milijardu USD. Današnja rezervacija aviona mogla bi izazvati istu žal ako BTC nastavi rasti.  
 
-Budući da je Bitcoin nedavno dosegao rekordnih 124.128 dolara 14. kolovoza, neki bogati vlasnici mogu vidjeti sadašnji skup kao prozor za zaključavanje dobitaka prije nego što makro udarci pošalju cijene niže.
+S obzirom na to da je bitcoin 14. kolovoza dosegnuo rekordnih 124.128 USD, neki bogati ulagači možda ovo vide kao priliku da unovče dio dobiti prije mogućeg pada zbog makro pritisaka.  
 
-Inflatorni pritisci vezani za nove američke uvozne tarife, zajedno sa većom ekonomskom nesigurnošću, lako bi mogli srušiti BTC ispod 100 000 USD, pretvarajući današnje praznične splereke u racionalnu živicu.
+Inflacija povezana s novim američkim carinama te globalna ekonomska neizvjesnost mogli bi srušiti BTC ispod 100.000 USD, što bi današnje luksuzne odmore učinilo racionalnom zaštitom.  
 
-Američka služba za unutarnje prihode (IRS), na primjer, kriptovaluta tretira kao imovinu, što znači da se potrošnja BTC računa kao oporeziva odlaganja i može pokrenuti obveze kapitalne dobivene dobivenosti.Ujedinjeno Kraljevstvo
+No, postoji i porezni problem: američki IRS tretira kripto kao imovinu, što znači da plaćanje u BTC-u predstavlja oporezivu prodaju i može generirati obvezu kapitalne dobiti.  
+
+**Naš komentar:** Plaćanje luksuza u BTC-u daje prestiž, ali dugoročno riskira ponavljanje “pizza greške” — osobito ako BTC probije nove rekorde.
