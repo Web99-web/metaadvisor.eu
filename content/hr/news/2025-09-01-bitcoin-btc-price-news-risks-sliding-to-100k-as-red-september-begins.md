@@ -1,29 +1,30 @@
 ---
-title: "Bitcoin (BTC) Vijesti o cijenama: riskira klizanje na 100 tisuća dolara dok 'crveni rujan' počinje"
+title: "Bitcoin (BTC) vijesti o cijeni: Rizik pada na 100.000 USD dok počinje 'Crveni rujan'"
 date: 2025-09-01T03:24:45Z
 category: "crypto"
 translationKey: "c2ebbe6c780ae88a75fa41f9434fbce4"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/01/red-september-bitcoin-risks-sliding-to-usd100k-after-8-monthly-drop"
-summary: "Tehnički pokazatelji potvrđuju medvjedi pomak koji je predložen kršenjem ključnih razina potpore cijena."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-09-01-bitcoin-btc-price-news-risks-sliding-to-100k-as-red-september-begins.jpg"
+summary: "Tehnički indikatori potvrđuju medvjeđi zaokret nakon probijanja ključnih razina podrške."
+tags: ["bitcoin","crypto","BTC","price-analysis","trading","technical-analysis","Ichimoku","SMA","MACD","GMMA"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/404f1c4206325dfb85bb5fa2dc07f0e6a7f3c00f-2880x1620.jpg"
+image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/404f1c4206325dfb85bb5fa2dc07f0e6a7f3c00f-2880x1620.jpg?auto=format&fit=max&w=1200"
 ---
 
-Ovo je dnevna analiza Coindesk analitičara i ovlaštenog tržišnog tehničara Omkara Godbolea.
+Ovo je dnevna analiza CoinDesk analitičara i ovlaštenog tehničara tržišta (CMT) Omkara Godbolea.  
 
-Bitcoin BTC $ 108,005,51 prekršio je ključne razine podrške u znaku povećanja medvjeđeg zamaha koji sugerira rizik od slajda na 100 000 USD.
+Bitcoin (BTC) na 108.005 USD probio je ključne razine podrške, signalizirajući rastući medvjeđi zamah i rizik pada prema 100.000 USD.  
 
-Vodeća kripto valuta po tržišnoj vrijednosti pala je u kolovozu 6,5%, okončavši četveromjesečni pobjednički niz, jer su sredstva koja su na popisu SPOT-a (ETFS) popisana na Spot-u (ETFS) provalila 751 milijuna dolara, prema izvoru podataka SoSovalue.
+Vodeća kriptovaluta pala je 6,5% u kolovozu, prekidajući četveromjesečni uzlazni niz dok su američki spot ETF-ovi zabilježili odljev od 751 milijun USD (SoSoValue).  
 
-Nedavni pad cijena bitcoin je provalio ispod nekoliko ključnih razina podrške, uključujući Ichimoku Cloud, te 50-dnevni i 100-dnevni jednostavni pokretni prosjeci (SMAS).Također je probio ključne horizontalne zone potpore formiranim maksimalno od 111.965 dolara, a maksimum u prosincu od 109.364 dolara, prema dnevnom grafikonu dobivenom iz TradingView -a.
+Pad je gurnuo BTC ispod nekoliko tehnički važnih razina: Ichimoku oblaka, 50-dnevnog i 100-dnevnog SMA-a te horizontalnih podrški kod 111.965 USD (svibanjski vrh) i 109.364 USD (prosinački vrh).  
 
-Ovi kvari naglašavaju sve veću tržišnu slabost, potvrđujući medvjeđi pomak u pokazateljima ključnih zamaha kao što su Guppy višestruki pokretni prosjek (GMMA) i MACD histogram.
+Ti proboji naglašavaju slabost tržišta i potvrđuju medvjeđi zaokret u indikatorima poput GMMA (Guppy Multiple Moving Average) i MACD histograma.  
 
-Kratkoročni eksponencijalni pokretni prosjek (EMA) pojasa GMMA (zeleno) prešao je ispod dugoročnog pojasa (crvena), signalizirajući jasan pomak zamaha.U međuvremenu, tjedni MACD histogram pao je ispod nule, što ukazuje na prijelaz s bikovog u medvjeđi trend.
+Kratkoročni GMMA EMA pojasevi (zeleni) pali su ispod dugoročnih (crveni), dok je MACD histogram pao ispod nule — oba signala prelaska u medvjeđi trend.  
 
-Zajedno, ovi signali ukazuju na vjerojatnost da će trajnu rasprodaju, potencijalno smanjiti cijenu na 200-dnevni jednostavni pokretni prosjek (SMA) na 101.366 dolara, a možda i na marku od 100 000 USD.
+Kombinirano, tehnički signali ukazuju na moguć nastavak rasprodaje s potencijalnim padom prema 200-dnevnom SMA-u (101.366 USD) pa čak i psihološkoj razini od 100.000 USD.  
 
-Negativni tehnički izgledi usklađuju se s sezonskim trendovima, koji se rujan povijesno pokazuju kao medvjeđi mjesec za Bitcoin.Od 2013., BTC je donio prosječni povrat od -3,49%, zatvarajući niže u osam od posljednjih 12. rujna mjeseci, pokazuju podaci iz Coinglass -a.
+Sezonski obrasci potvrđuju rizik: rujan je povijesno slab mjesec za BTC, s prosječnim povratom -3,49% od 2013. i padom u 8 od zadnjih 12 rujana (Coinglass).  
 
-Što se tiče bikova, prevladavanje nižeg maksimuma od 113.510 dolara postavljenog 28. kolovoza je
+**Naš komentar:** "Crveni rujan" mogao bi potvrditi reputaciju najopasnijeg mjeseca za bitcoin ako bikovi ne probiju 113.510 USD.
