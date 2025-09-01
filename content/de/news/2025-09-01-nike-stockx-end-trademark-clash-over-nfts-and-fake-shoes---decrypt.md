@@ -1,26 +1,22 @@
 ---
-title: "Nike, Stockx End -Markenzeichen gegen NFTs und falsche Schuhe - entschlüsseln"
+title: "Nike und StockX beenden Markenzeichenstreit über NFTs und gefälschte Sneaker"
 date: 2025-09-01T06:18:35Z
 category: "news"
 translationKey: "4ff89f09910b732bb86446153a04cbf6"
 source: "Decrypt"
 source_url: "https://decrypt.co/337472/nike-stockx-end-trademark-clash-nfts-fake-shoes"
-summary: "Die Siedlung beendet einen dreijährigen Rechtsstreit um Sneaker NFTs, um die Besitzer und gefälschte Ansprüche zu verfolgen."
-image_url: "/news/2025-09-01-nike-stockx-end-trademark-clash-over-nfts-and-fake-shoes---decrypt.png"
+summary: "Der Vergleich beendet einen dreijährigen Rechtsstreit über Sneaker-NFTs und Vorwürfe gefälschter Schuhe."
+tags: ["Nike","StockX","NFT","Sneaker","Markenrecht","Fake-Schuhe","Gericht","Brands"]
+image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/09/nike-stockx-lawsuit-gID_7.jpg"
+image_url_small: "https://cdn.decrypt.co/wp-content/uploads/2025/09/nike-stockx-lawsuit-gID_7.jpg?auto=format&fit=max&w=1200"
 ---
 
-Nike Inc. und Stockx, ein in Detroit ansässiger Online-Marktplatz, haben am vergangenen Freitag einen dreijährigen Fall vor dem Bundesgericht von Sneaker über ein halbes Jahr, nachdem ein Richter über die Wiederverkaufsplattform entschieden hatte, gefälschte Sneaker verkauft zu haben.
+Nike und StockX, ein in Detroit ansässiger Online-Marktplatz, haben ihren dreijährigen Rechtsstreit vor einem Bundesgericht in New York beigelegt. Der Streit betraf sneakergebundene NFTs und Markenrechtsverletzungen. Mit der Einigung entfällt das für Oktober geplante Geschworenenverfahren.  
 
-Die Einigung erfolgt sofort für einen für Oktober vor dem Kalender geplanten Gerichtsverfahren und lehnte alle Ansprüche mit Vorurteilen ab.Das Risiko eines schädlichen Urteils stellt das Risiko ein und ermöglicht es Nike, die Unsicherheit zu vermeiden, seine Markenschutzstrategie vor eine Jury zu stellen.
+Die Auseinandersetzung begann im Februar 2022, als Nike StockX beschuldigte, seine „Vault“-NFTs nutzten Nike-Bilder ohne Erlaubnis, um Token mit physischen Schuhen zu verkaufen. StockX entgegnete, die NFTs dienten der Nachverfolgung von Eigentum, nicht der Irreführung.  
 
-Der Fall begann im südlichen Distrikt von New York im Februar 2022, als Nike Stockx gegen Markenverletzungen und -verdünnungen beschuldigte und behauptete, die Nike -Sneaker -Bilder verwendeten Nike -Sneaker -Bilder ohne Genehmigung, um an physischen Schuhen gebundene zu verkaufen.
+Im Mai desselben Jahres erweiterte Nike die Klage und warf StockX den Verkauf gefälschter Sneaker vor. Richterin Valerie Caproni entschied später teilweise zugunsten von Nike, nachdem festgestellt wurde, dass StockX gefälschte Waren verkauft hatte.  
 
-Zu dieser Zeit argumentierte Nike, dass die NFTs „Verbraucher verwirren, eine falsche Verbindung zwischen diesen Produkten herstellen werden“ und seine Marken zu verwässern.
+Der Vergleich beendet alle weiteren Ansprüche und erspart beiden Parteien den Reputations- und Prozessrisiken.  
 
-Einen Monat später konterte Stockx darin, dass seine Tresor -NFTs "Eigentum an häufig gehandelten physischen Produkten verfolgen", um die Verbraucher nicht irrezuführen, und argumentierte, dass Nikes Klage den Klagen von "ein grundlegendes Missverständnis der verschiedenen Funktionen, die NFTs dienen können" dienen können.
-
-Bis Mai desselben Jahres hatte Nike seine Beschwerde an behauptet, dass Stockx auch gefälschte Turnschuhe verkaufte, und sagte, Paare, die sie von der Plattform gekauft habe, fehlgeschlagene Authentifizierung und unterstützte seine Markenansprüche weiter.
-
-Diese Vorwürfe wurden später im März dieses Jahres angesprochen, wobei Richter Valerie Caproni ein teilweise Zusammenfassungsurteil der Nike gewährt hatte, nachdem Stockx festgestellt hatte, dass er für die Verteilung gefälschter Waren, die an vier Paar Schuhe gebunden waren, die an Nikes Ermittler und 33 Paare verkauft wurden, und 33 Paaren, die an einen Kunden namens Roy Kim verkauft wurden.
-
-Das Urteil ließ andere Behauptungen ungelöst und setzte den Fall fest
+**Unser Kommentar:** Der Fall zeigt die Spannungen zwischen etablierten Marken und neuen Technologien wie NFTs – an der Schnittstelle von Innovation und Markenrecht.
