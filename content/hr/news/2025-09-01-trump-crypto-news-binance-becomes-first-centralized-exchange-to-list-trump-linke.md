@@ -1,31 +1,24 @@
 ---
-title: "Trump Crypto News: Binance postaje prva centralizirana razmjena kako bi nabrajala Trumpovu WLFI token"
+title: "Trump kripto vijesti: Binance prva centralizirana burza koja listira WLFI token povezan s Trumpom"
 date: 2025-09-01T04:20:50Z
 category: "crypto"
 translationKey: "8ac2a6f1d1d71515b8b8589722e9c1a5"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/01/binance-becomes-first-exchange-to-list-trump-linked-wlfi-token"
-summary: "Razmjena će otvoriti parove WLFI spota protiv USDT-a i USDC-a, što će označiti pomak tokena s neprenosive pretprodaje u potpunu trgovinu."
-tags: ["crypto"]
-image_url: "/news/2025-09-01-trump-crypto-news-binance-becomes-first-centralized-exchange-to-list-trump-linke.png"
+summary: "Binance otvara spot parove WLFI/USDT i WLFI/USDC, označavajući prijelaz tokena iz presale faze bez prijenosa u punu trgovinu."
+tags: ["Trump","WLFI","Binance","crypto","exchange","listing","DeFi","Ethereum","BSC","Solana"]
+image_url: "https://www.coindesk.com/resizer/v2/WT4J2CG7DZEHXP54VIFC5X4QHE.jpg?auth=6c30f1c850d232b1b80d4ed8b5a9f99e58d683e1c6f7f27d0f13b77a1f33262b&width=1200"
+image_url_small: "https://www.coindesk.com/resizer/v2/WT4J2CG7DZEHXP54VIFC5X4QHE.jpg?auth=6c30f1c850d232b1b80d4ed8b5a9f99e58d683e1c6f7f27d0f13b77a1f33262b&width=600"
 ---
 
-Binance je prva kripto razmjena koja je nabrojala World Liberty Financial (WLFI), projekt Trumpovo-obiteljskog decentraliziranog financije (DeFI), s tim da će trgovanje započeti u ponedjeljak popodne, navodi se u nedavnoj najavi.
+Binance je prva kripto burza koja je listala **World Liberty Financial (WLFI)**, DeFi projekt povezan s obitelji Trump. Trgovanje je počelo u ponedjeljak poslijepodne po UTC vremenu, dok su depoziti već aktivni, a povlačenja zakazana za utorak.  
 
-Depoziti su već uživo, dok bi povlačenja trebala započeti u utorak.Binance će primijeniti svoju oznaku "Seed Tag", oznaku rezerviranu za inovativne, ali visokorizične tokene.
+WLFI tokeni do sada su bili neprenosivi zbog regulatornih razloga, no Binanceovo listanje označava njihov prijelaz u punu trgovinu na centraliziranoj burzi. Burza im je dodijelila oznaku “seed tag”, koja označava inovativne ali visokorizične tokene.  
 
-Do sada, WLFI tokeni nisu bili preobraženi dizajnom, ograničenje usmjereno na usklađenost namijenjeno sprečavanju da se tokeni za predprodaju slobodno trguju, a Binanceov popis označava pomak na omogućavanje transfera i otvaranja tržišta na centraliziranoj razmjeni prvi put.
+Uz Binance, južnokorejska burza **Upbit** također je objavila da će listati WLFI. Token će se moći trgovati na tri blockchaina: Ethereum, BSC i Solana.  
 
-Nakon najave Binancea, Južnokorejska razmjena Upbit također je rekla da će navesti WLFI.
+Prošli tjedan WLFI futures lansirani su na Hyperliquid DEX-u, gdje su šorteri brzo srušili procijenjenu valuaciju s 44 na 24 milijarde USD u nekoliko sati.  
 
-Na Binanceu, kako bi pristupili WLFI trgovanju, korisnici moraju dovršiti kvizove koji potvrđuju pojačanu volatilnost i otkrivanje rizika.Token će se istovremeno lansirati na tri blockchains: Ethereum, Binance Smart Chain i Solana.
+Na Binanceu će korisnici prije pristupa morati proći kviz o rizicima, potvrđujući svjesnost o volatilnosti.  
 
-WLFI Futures pokrenut je prošlog tjedna na Hyperliquid decentraliziranoj razmjeni, gdje su trgovci požurili na kratak token, potaknuvši svoju podrazumijevanu procjenu na 24 milijarde dolara s 44 milijarde dolara u roku od nekoliko sati.
-
-Debitaj na Binanceu pruža prvo mjesto na licu mjesta za samo WLFI, označavajući prekretnicu od svoje faze koja se nije preobražavala do pune trgovanja.
-
-Eric Trump i osnivač Binancea Changpeng 'CZ' Zhao nedavno su razgovarali u BTC Asia u Hong Kongu.
-
-Crveni rujan?Bitcoin riskira klizanje do 100 000 USD nakon 6% mjesečnog pada
-
-Tehnički pokazatelji potvrđuju medvjedi pomak koji je predložen kršenjem ključne cijene
+**Naš komentar:** WLFI je politički nabijen token čiji uspjeh može ovisiti jednako o tržištu kao i o Trumpovom imidžu – što ga čini još nestabilnijim.
