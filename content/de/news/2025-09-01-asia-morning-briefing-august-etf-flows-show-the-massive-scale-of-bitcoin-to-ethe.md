@@ -1,4 +1,3 @@
-
 ---
 title: "Asien Morning Briefing: ETF-Flüsse im August zeigen massive Rotation von Bitcoin zu Ethereum"
 date: 2025-09-01T01:00:59Z
