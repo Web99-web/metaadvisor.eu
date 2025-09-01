@@ -1,26 +1,22 @@
 ---
-title: "Nike, Stockx End zaštitni znak sukobljava se nad NFTS -om i lažnim cipelama - Dešifript"
+title: "Nike i StockX okončali spor oko žigova, NFT-ova i krivotvorenih tenisica"
 date: 2025-09-01T06:18:35Z
 category: "news"
 translationKey: "4ff89f09910b732bb86446153a04cbf6"
 source: "Decrypt"
 source_url: "https://decrypt.co/337472/nike-stockx-end-trademark-clash-nfts-fake-shoes"
-summary: "Nagodba završava trogodišnju pravnu bitku oko Sneaker NFTS-a dizajnirane za praćenje vlasništva i krivotvorenih zahtjeva."
-image_url: "/news/2025-09-01-nike-stockx-end-trademark-clash-over-nfts-and-fake-shoes---decrypt.png"
+summary: "Nagodba završava trogodišnju pravnu bitku oko sneaker NFT-ova i tvrdnji o krivotvorenim tenisicama."
+tags: ["Nike","StockX","NFT","sneakers","trademark","fake-shoes","court","brands"]
+image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/09/nike-stockx-lawsuit-gID_7.jpg"
+image_url_small: "https://cdn.decrypt.co/wp-content/uploads/2025/09/nike-stockx-lawsuit-gID_7.jpg?auto=format&fit=max&w=1200"
 ---
 
-Nike Inc. i Stockx, internetsko tržište sa sjedištem u Detroitu, riješili su trogodišnji slučaj na saveznom sudu u New Yorku prošlog petka zbog NFTS-a i zlouporabe zaštitnih znakova, više od pola godine nakon što je sudac presudio platformu za preprodaju prodanih krivotvorenih tenisica.
+Nike i StockX, online marketplace sa sjedištem u Detroitu, zaključili su trogodišnji sudski postupak pred saveznim sudom u New Yorku oko NFT-ova povezanih s tenisicama i navodnog kršenja žiga. Nagodba je postignuta krajem prošlog tjedna, čime je otkazan porotnički proces zakazan za listopad.  
 
-Nagodba odmah vodi suđenje porote zakazanim za listopad izvan kalendara, odbacivši sve zahtjeve predrasudama.To štedi zalihama rizika od štetne presude, dok je Nikeu omogućio da izbjegne neizvjesnost stavljanja strategije zaštite branda pred porote.
+Slučaj je započeo u veljači 2022., kada je Nike optužio StockX za zloupotrebu žiga tvrdeći da su njihovi “Vault” NFT-ovi koristili slike Nike tenisica bez dopuštenja. StockX je odgovorio da su NFT-ovi bili zamišljeni kao način praćenja vlasništva nad fizičkim proizvodima, a ne kao obmanjujući alat.  
 
-Slučaj je započeo u južnom okrugu New Yorka u veljači 2022. godine, kada je Nike optužio Stockx za kršenje i razrjeđivanje zaštitnog znaka, navodeći da su njegovi "vault" nfts koristili slike nike tenisica bez odobrenja za prodaju žetona vezanih za fizičke cipele.
+Do svibnja iste godine, Nike je proširio tužbu tvrdeći da StockX prodaje i krivotvorene tenisice. Sudac Valerie Caproni ove je godine presudio da je StockX odgovoran za distribuciju krivotvorene robe povezane s nekoliko parova kupljenih od strane Nikeovih istražitelja i kupaca.  
 
-U to je vrijeme Nike tvrdio da će NFTS "vjerojatno zbuniti potrošače, stvoriti lažnu povezanost između tih proizvoda" i razrijediti svoje zaštitne znakove.
+Nagodba je prekinula sve daljnje tvrdnje i osigurala da obje strane izbjegnu reputacijske i financijske rizike.  
 
-Mjesec dana kasnije, Stockx se suprotstavio u tome što su njegovi trezori bili osmišljeni "da prate vlasništvo nad često trgovanim fizičkim proizvodima", a ne da bi se zabludio potrošači, tvrdeći da Nikeovo odijelo odražava "temeljna nerazumijevanje raznih funkcija može služiti.
-
-Do svibnja iste godine, Nike je izmijenio svoju žalbu kako bi tvrdio da je Stockx također prodavao krivotvorene tenisice, rekavši da parovi koje je kupio na platformi nije uspio provjeriti autentifikaciju i dodatno podržao svoje potraživanja od zaštitnih znakova.
-
-Te su optužbe kasnije upućene ranije u ožujku ove godine, pri čemu je sutkinja Valerie Caproni donijela Nike djelomičnu sažetu presudu nakon što je pronašao Stockx odgovoran za distribuciju krivotvorene robe vezane za četiri para cipela prodanih istraživačima Nike -a i 33 para prodana kupcu po imenu Roy Kim.
-
-Odluka je ostavila druge tvrdnje neriješene i postavila slučaj
+**Naš komentar:** Ovaj slučaj naglašava rastuću napetost između tradicionalnih brendova i novih tehnologija poput NFT-ova – gdje inovacija često nailazi na granice prava intelektualnog vlasništva.
