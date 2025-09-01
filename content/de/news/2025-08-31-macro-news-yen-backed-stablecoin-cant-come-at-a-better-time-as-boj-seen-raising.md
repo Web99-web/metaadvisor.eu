@@ -1,25 +1,28 @@
 ---
-title: "MACRO NEWS: Yen-unterstütztes Stablecoin kann nicht zu einem besseren Zeitpunkt kommen, da die BOJ-Erhöhung der Preise gesehen hat"
+title: "Makro-News: Yen-gebundener Stablecoin kommt genau zur richtigen Zeit, da eine Zinserhöhung der BOJ erwartet wird"
 date: 2025-08-31T18:00:44Z
-category: "ai"
+category: "macro"
 translationKey: "d5dff8a2e65e7cb22607af2224715040"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/31/yen-backed-stablecoin-can-t-come-at-a-better-time-as-boj-seen-raising-rates"
-summary: "Top Banker und Ökonomen erwarten, dass der BOJ im vierten Quartal die Zinsen erhöht und die Anziehungskraft von Yen und Yen-unterstütztem Vermögen erhöht."
-tags: ["ai"]
-image_url: "/news/2025-08-31-macro-news-yen-backed-stablecoin-cant-come-at-a-better-time-as-boj-seen-raising.jpg"
+summary: "Führende Banker und Ökonomen erwarten im vierten Quartal eine Zinserhöhung in Japan, was die Attraktivität von Yen und Yen-gebundenen Assets steigern dürfte."
+tags: ["Makro","Japan","Stablecoin","JPY","Yen","BOJ","Zinsen","Krypto","Finanzen","Märkte","Zahlungen","Remittances","DeFi"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/923a04872447b38957f0d56822956490d23cedc7-3997x2248.jpg"
+image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/923a04872447b38957f0d56822956490d23cedc7-3997x2248.jpg?auto=format&fit=max&w=1200"
 ---
 
-Eine der größten Geschichten aus dem Fernen Osten in diesem Monat ist die unmittelbar bevorstehende Einführung einer Blockchain-basierten Version des japanischen Yen, einer der weltweit großen Fiat-Währungen.
+Eine der größten Nachrichten aus Fernost in diesem Monat ist die bevorstehende Einführung einer blockchainbasierten Version des japanischen Yen — einer der weltweit wichtigsten Fiat-Währungen.
 
-Der Zeitpunkt für diese Entwicklung könnte nicht besser sein, da die Bank of Japan (BOJ) voraussichtlich bald die Zinssätze erhöhen wird, was wahrscheinlich die Anziehungskraft sowohl des Yen- als auch der Yen-unterstützten Vermögenswerte erhöht.
+Das Timing könnte kaum besser sein, denn die Bank of Japan (BOJ) dürfte die Zinsen bald anheben, was die Attraktivität des Yen und Yen-gebundener Vermögenswerte erhöhen dürfte.
 
-Anfang dieses Monats berichtete Coindesk, dass die Japans Financial Services Agency (FSA) voraussichtlich bereits im Herbst den ersten von Yen-abnehmenden Stablecoin des Landes genehmigen wird.Laut dem Bericht plant das in Tokio ansässige Fintech-Unternehmen JPYC, sich innerhalb eines Monats als Geldtransfergeschäft zu registrieren und die Einführung eines Stablecoin von JPY-Peggled zu leiten, das mit dem japanischen Yen mit einem Verhältnis von 1: 1 handeln wird.
+Anfang des Monats berichtete CoinDesk, dass die japanische Finanzaufsicht (FSA) möglicherweise bereits im Herbst den ersten Yen-denominierten Stablecoin genehmigt. Demnach plant das Tokioter Fintech JPYC die Registrierung als Geldtransferdienst und die Einführung eines JPY-Stablecoins im 1:1-Verhältnis zum Yen.
 
-Stablecoins sind Kryptowährungen, die an eine externe Referenz wie den US -Dollar, Euro oder Yen eingestuft sind.Diese Token spielen eine entscheidende Rolle, indem sie Kapitalübertragungen für den Handel, Investieren, Überweisungen oder internationale Zahlungen ermöglichen und gleichzeitig die Volatilität umgehen, die typischerweise mit anderen Kryptowährungen verbunden ist.
+Stablecoins sind Kryptowährungen, die an externe Referenzwerte wie den US-Dollar, Euro oder Yen gebunden sind. Sie erleichtern Kapitaltransfers für Handel, Investitionen, Überweisungen oder internationale Zahlungen — bei geringerer Volatilität als klassische Krypto-Assets.
 
-JPYC ist nicht allein, wenn er einen Yen-geschwenkten Stablecoin verfolgt.Letzte Woche gab die in Tokio ansässige Finanzdienstleistungsgesellschaft Monex Group bekannt, dass es erwägt, eine eigene JPY Stablecoin zu starten, die auf internationale Überweisungen und Unternehmenssiedlungen abzielt.Oki Matsumoto, Vorsitzender der Monex Group, sagte gegenüber den lokalen Medien: "Die Ausstellung von Stablecoins erfordert eine erhebliche Infrastruktur und Kapital, aber wenn wir nicht damit umgehen, werden wir zurückgelassen."
+JPYC ist nicht allein: Letzte Woche kündigte die Tokioter Monex Group an, ebenfalls einen JPY-Stablecoin für internationale Überweisungen und Unternehmensabwicklungen zu prüfen. Oki Matsumoto, Chairman der Monex Group: „Die Emission von Stablecoins erfordert erhebliche Infrastruktur und Kapital, aber wenn wir uns nicht darum kümmern, werden wir abgehängt.“
 
-Sowohl führende Banker als auch Händler erwarten, dass der BOJ in den kommenden Monaten die Zinsen erhöht, während die US -Federal Reserve das Gegenteil erlebt.
+Sowohl führende Banker als auch Händler erwarten in den kommenden Monaten Zinserhöhungen durch die BOJ, während die US-Fed voraussichtlich den gegenteiligen Kurs einschlägt.
 
-Hiroshi Nakazawa, Leiter der Hokuhoku Financial Group, einer der größten regionalen Banken Japans von
+Hiroshi Nakazawa, Chef der Hokuhoku Financial Group, sagte am Wochenende, die BOJ könnte die Zinsen im Oktober oder Dezember anheben, sofern „alles reibungslos läuft“.
+
+**Unser Kommentar:** Ein regulierter Yen-Stablecoin könnte die Rolle des JPY in globalen Finanz- und Kryptoflüssen stärken.
