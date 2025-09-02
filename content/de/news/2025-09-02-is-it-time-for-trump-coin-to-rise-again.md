@@ -10,6 +10,8 @@ image_url: "https://cryptologos.cc/logos/donald-trump-coin.png"
 image_url_small: "https://cryptologos.cc/logos/donald-trump-coin.png"
 ---
 
+![Trump Coin Illustration](https://cryptologos.cc/logos/donald-trump-coin.png)
+
 ### Trump Coin nach der Korrektur
 
 Trump Coin ($TRUMP) hat seit dem Start extreme Volatilität erlebt – erst massive Anstiege durch Hype, dann scharfe Rückgänge. Doch Memecoins leben vom Narrativ, und die Marke Trump bleibt eine der stärksten in der globalen Politik.
