@@ -1,23 +1,25 @@
 ---
-title: "Indian Grocery Startup CityMall sammelt 47 Millionen US-Dollar, um ultra-schnelle Lieferriesen in Frage zu stellen |Techcrunch"
+title: "Indisches Startup Citymall sammelt 47 Millionen Dollar ein, um Ultra-Schnellliefer-Giganten herauszufordern | TechCrunch"
 date: 2025-09-02T04:30:00Z
 category: "ai"
 translationKey: "58dbe9241b69390c005fc23a5d5d0e8f"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/"
-summary: "Indisches E-Commerce-Startup CityMall, das sich auf budgetorientierte Lebensmittellieferungen für Städte Tier 2 und Tier 3 konzentriert, sagte heute, dass es 47 US-Dollar gesammelt hat"
-tags: ["ai"]
-image_url: "/news/2025-09-02-indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-gian.jpg"
+summary: "Citymall, ein E-Commerce-Startup für Lebensmittel in Indiens kleineren Städten, hat in einer Series-D-Finanzierung 47 Millionen Dollar eingesammelt."
+tags: ["ai","commerce","india","funding","groceries"]
+image_url: "https://techcrunch.com/wp-content/uploads/2025/09/Founders-L-to-R-Angad-Kikla-Rahul-Gill-Naisheel-Verdhan.jpg?w=1200"
+image_url_small: "https://techcrunch.com/wp-content/uploads/2025/09/Founders-L-to-R-Angad-Kikla-Rahul-Gill-Naisheel-Verdhan.jpg?w=600"
 ---
 
-Das indische E-Commerce-Startup CityMall, das sich auf budgetorientierte Lebensmittelversorgung für Städte Tier 2 und Tier 3 konzentriert, sagte heute, dass die von Accel geleitete Finanzierung von 47 Millionen US-Dollar mit Teilnahme von vorhandenen Anlagen von Waterbridge, Citius, General Catalysth, Elevation Capital, Norwest Venture Partners sowie Jungle Ventures Ventures Ventures Ventures und Jungle Ventures Ventures, gesammelt hat.
+Das indische E-Commerce-Startup Citymall, das sich auf günstige Lebensmittellieferungen in kleineren Städten (Tier 2 und 3) spezialisiert, hat bekannt gegeben, dass es 47 Millionen Dollar in einer Series-D-Runde eingesammelt hat. Die Runde wurde von Accel angeführt, mit Beteiligung bestehender Investoren wie Waterbridge Ventures, Citius, General Catalyst, Elevation Capital, Norwest Venture Partners und Jungle Ventures.
 
-Die Runde der Serie D kommt drei Jahre nach der 75 -Millionen -Dollar -Serie -C -Runde des Unternehmens von Norwest Venture Partners.Die Bewertung des Unternehmens für 320 Millionen US -Dollar ist in diesem Zeitraum flach geblieben.Laut Quellen, die mit dem Deal vertraut sind, der mit TechCrunch gesprochen hat, verwendeten die Anleger fast ein 4 -faches Vielfaches des vergangenen Umsatzjahres von CityMall als Benchmark.Das Unternehmen hat bisher 165 Millionen US -Dollar gesammelt.
+Die Finanzierung erfolgt drei Jahre nach einer Series-C-Runde über 75 Millionen Dollar unter der Leitung von Norwest Venture Partners. Die Bewertung des Unternehmens blieb bei 320 Millionen Dollar, obwohl der Umsatz gestiegen ist. Laut Quellen nutzten die Investoren einen fast 4-fachen Umsatzmultiplikator als Benchmark. Insgesamt hat Citymall bisher 165 Millionen Dollar eingesammelt.
 
-Die Investoren in CityMall teilten TechCrunch mit, dass die vorherige Bewertung ein bullisches Marktumfeld zu dieser Zeit widerspiegelte, was erklärt, warum die Bewertung trotz des Wachstums des Unternehmens unverändert geblieben ist.Sie bleiben jedoch optimistisch über die Flugbahn des Unternehmens.
+Investoren erklärten gegenüber TechCrunch, dass die stagnierende Bewertung die veränderte Marktlage widerspiegle, sie aber langfristig optimistisch seien. „Wir investieren seit der Series A in Citymall und wollten unser Engagement verdoppeln, weil wir glauben, dass Online-Lebensmittelhandel – insbesondere das Value-Segment – der größte Verbrauchermarkt in Indien ist“, sagte Pratik Agarwal von Accel.
 
-"Wir sind seit der Serie A ein Investor in CityMall und wollten mit dieser Investition verdoppeln, weil wir glauben, dass Online -Lebensmitteleinkäufe und das Wertsegment darin der größte Verbrauchermarkt in Indien ist", sagte Pratik Agarwal von Accel gegenüber TechCrunch über einen Anruf.
+Das Funding kommt zu einer Zeit, in der Quick-Commerce in Indien boomt. Unternehmen wie BlinkIt, Zepto, Swiggy Instamart und Tata BigBasket wetteifern darum, Bestellungen in nur 10 Minuten zu liefern. Citymall verfolgt hingegen eine andere Strategie: Es richtet sich an preisbewusste Kunden, die ihre Einkäufe planen, statt ad hoc zu bestellen.
 
-Die Finanzierung von CityMall erfolgt in einer Zeit eines schnellen Wahnsinns auf dem indischen Markt.Unternehmen wie Blinkit, Zepto, Swiggy Instamart und Tata-Besitz von BigBasket beeilen sich innerhalb von 10 Minuten, um Kunden zu bedienen.CityMall möchte einen anderen Ansatz verfolgen, indem sie auf ein anderes Kundensegment abzielt.
+---
 
-Das Start-up zielt auf wertbewusste Kunden ab, die geplante Einkäufe von Lebensmitteln tätigen, anstatt für ihre sofortigen Bedürfnisse durch Schnellverkäufe-Apps zu bestellen.CityMall -CEO Angad Kikla
+**Unser Kommentar:**  
+Citymall setzt auf Nachhaltigkeit statt Geschwindigkeit. Während andere Anbieter um Minuten kämpfen, konzentriert sich das Startup auf das riesige Marktpotenzial von Indiens kleineren Städten und geplanten Einkäufen.
