@@ -1,31 +1,24 @@
 ---
-title: "Bitcoin (BTC) Preisnachrichten: Langzeitinhaber geben 97.000 BTC im größten eintägigen Umzug von 2025 aus"
+title: "Bitcoin (BTC) News: Langfristige Holder verkaufen 97.000 BTC – größter Tagesverkauf 2025"
 date: 2025-09-02T05:23:52Z
 category: "crypto"
 translationKey: "132c8b164b4d21b8629e95752838f911"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/02/bitcoin-long-term-holders-spend-97k-btc-in-largest-one-day-move-of-2025"
-summary: "Langzeitbitcoin (BTC)-Inhaber haben in den letzten Wochen ihre Liquidationen in die Höhe gesteigert, was zu dem bärischen Druck auf dem Markt erhöht wurde."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-09-02-bitcoin-btc-price-news-long-term-holders-spend-97k-btc-in-largest-one-day-move-o.jpg"
+summary: "Langfristige Bitcoin-Holder haben ihre Verkäufe verstärkt und üben damit zusätzlichen Druck auf den Markt aus."
+tags: ["Bitcoin","Krypto","Holder","Glassnode","Bärisch","Markt"]
+image_url: "https://www.coindesk.com/resizer/v2/BQ65Y55T4JEXLBGNRHFDS7U7N4.jpg?auth=567b39703f2ad0c0e2b171e6cb30ef6f52fca1ecde17e6e7282d8edb39a22320&width=1200"
+image_url_small: "https://www.coindesk.com/resizer/v2/BQ65Y55T4JEXLBGNRHFDS7U7N4.jpg?auth=567b39703f2ad0c0e2b171e6cb30ef6f52fca1ecde17e6e7282d8edb39a22320&width=600"
 ---
 
-Langfristige Bitcoin-BTC-Inhaber von 110.487,38 USD haben ihre Liquidationen in den letzten Wochen in die Höhe getrieben, was zu dem bärischen Druck auf dem Markt erhöht wurde.
+Langfristige Bitcoin-Inhaber haben in den letzten Wochen ihre Verkäufe deutlich verstärkt und so den **bärischen Druck** auf den Markt erhöht.  
 
-Am Freitag lud diese sogenannten Patienteninhaber 97.000 BTC (fast 3 Milliarden US-Dollar) ab und markierten den größten eintägigen langfristigen Ausverkauf des Jahres, der laut Blockchain Analytics Firma Glassnode den größten Teil der jüngsten Erhöhung der Ausgabenaktivität ausmacht.
+Am Freitag wurden ganze **97.000 BTC** (rund 3 Mrd. USD) verkauft – der größte Tagesverkauf langfristiger Holder in diesem Jahr, laut **Glassnode**.  
 
-Der 14-tägige gleitende Durchschnitt der Münzen, die von Langzeitinhabern ausgegeben wurden, ist auf fast 25.000 BTC gestiegen, die höchste seit Januar.
+Der 14-Tage-Durchschnitt der von Langzeithaltern ausgegebenen Coins stieg auf fast **25.000 BTC**, den höchsten Wert seit Januar. Als Langzeithalter gelten Wallets, die Coins länger als 155 Tage halten.  
 
-GlassNode definiert Langzeitinhaber als diejenigen, die seit über 155 Tagen Münzen besitzen.
+Der Bitcoin-Preis fiel am Freitag um mehr als 3,7 % auf 108.000 USD und setzte seinen Rückgang am Montag auf 107.400 USD fort. Zum Zeitpunkt der Veröffentlichung lag der Kurs bei 103.330 USD – noch 16 % unter dem Allzeithoch von 124.429 USD.  
 
-Der Preis von Bitcoin sank am Freitag um über 3,7% auf 108.000 USD und ging am frühen Montag auf 107.400 USD zurück.Zum Zeitpunkt des Schreibens wurde die Kryptowährung auf 103.330 USD gehandelt, was nach Angaben von Coindesk immer noch 16% gegenüber ihrem Rekordhoch von 124.429 USD zurückging.
+Analysten gehen davon aus, dass der Markt Zeit braucht, um sich an 100.000 USD als neue Norm zu gewöhnen, was zu einer längeren Seitwärtsbewegung führen könnte.  
 
-Beachten Sie, dass der Gewinnbetrieb immer noch besonders langsamer ist als die Ende 2024 beobachteten Spikes.
-
-Langzeitinhaber, einschließlich Brieftaschen, die seit Jahren ruhend sind, sind seit Jahren konsequent verkauft, seit Bitcoin Anfang dieses Jahres über 100.000 US-Dollar gebrochen ist.Eine Erklärung für diesen Gewinn kann in der Investor-Psychologie verwurzelt werden.
-
-Stellen Sie sich das so vor: Wie viele Vermögenswerte im Welthandel für 100.000 US -Dollar pro Stück?Vielleicht nur sehr wenige, die Sie schnell auf Ihre Finger zählen können.Daher ist es für Anleger logisch, dass 100.000 US -Dollar pro BTC zu teuer sind und sie dazu veranlassen, Gewinne zu erzielen.
-
-Dies bedeutet auch, dass der Markt wahrscheinlich Zeit in Anspruch nehmen wird, um sich auf 100.000 US -Dollar als neue Normalität für BTC anzupassen.Wir konnten weiterhin ein breites Gebiet für einige Zeit um die sechsstellige Preismarke handeln, sodass die Anleger diese erhöhte Bewertung akklimatisieren können.
-
-Lesen Sie mehr: "OP_CAT ist nicht meine Erfindung.Es ist Satoshis "
+**Unser Kommentar:** Solche Verkäufe sind kurzfristig belastend, zeigen aber auch Marktmechanismen. Schließlich gibt es weltweit nur wenige Assets, die über 100.000 USD pro Stück gehandelt werden.
