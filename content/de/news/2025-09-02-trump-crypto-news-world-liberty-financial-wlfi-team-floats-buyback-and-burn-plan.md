@@ -1,29 +1,29 @@
 ---
-title: "Trump Crypto News: World Liberty Financial (WLFI) -Team Floht Buyback-and-Burn-Plan als Token Sinks"
+title: "Trump Crypto News: World Liberty Financial (WLFI) Team schlägt Buyback-und-Burn-Plan vor"
 date: 2025-09-02T04:24:24Z
 category: "crypto"
 translationKey: "e6f2e2d67f47c87ba19cbd695e958a97"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/02/trump-linked-world-liberty-team-floats-buyback-and-burn-plan-as-wlfi-sinks"
-summary: "Ein von Trump verknüpfter Defi-Projekt schlägt vor, alle Liquiditätsgebühren zu verwenden, um das Angebot dauerhaft zu verringern, da starke Verluste die Skepsis der Anleger hervorheben."
-tags: ["crypto"]
-image_url: "/news/2025-09-02-trump-crypto-news-world-liberty-financial-wlfi-team-floats-buyback-and-burn-plan.jpg"
+summary: "Ein mit Trump verbundenes DeFi-Projekt schlägt vor, alle Liquiditätsgebühren zur dauerhaften Angebotsreduzierung zu verwenden."
+tags: ["crypto","WLFI","Trump","DeFi","tokenomics"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/b2c7d33ec21ab2d7e423b91f9e7cfef8773f2d8e-2000x1125.jpg"
+image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/b2c7d33ec21ab2d7e423b91f9e7cfef8773f2d8e-2000x1125.jpg?auto=format&fit=max&w=1200"
 ---
 
-World Liberty Financial (WLFI), das von Trump-Familie verbundene Defi-Projekt, setzt ein neues Tokenomics-Manöver auf, um das Vertrauen nach seinem Rocky Trading-Debüt zu stützen: Ein von Protokollbesitzgebühren finanzierter Kauf- und Verbrennungsprogramm.
+World Liberty Financial (WLFI), ein DeFi-Projekt mit Verbindung zur Trump-Familie, schlägt ein neues Tokenomics-Modell vor, um nach einem schwachen Handelsstart Vertrauen zurückzugewinnen: ein Buyback-und-Burn-Programm, das durch Protokollgebühren aus eigenen Liquiditätspositionen finanziert wird.
 
-Der Vorschlag kommt, als WLFI nach dem hoch bekanntesten Handelsdebüt in den wichtigsten Börsen, einschließlich Binance, OKX, UPbase, Coinbase, Bithumb und anderen, einem scharfen Markt gegen den Markt ausgesetzt ist.
+Der Vorschlag kommt zu einem Zeitpunkt, an dem WLFI nach dem Launch auf Börsen wie Binance, OKX, Upbit, Coinbase und Bithumb stark unter Druck steht. Laut CoinGecko liegt der Kurs bei rund 0,23 USD – ein Tagesverlust von 24 % – mit einer Marktkapitalisierung von etwa 6,39 Milliarden USD. Zum Start erreichte der Token kurzzeitig Bewertungen von über 40 Milliarden USD auf den Futures-Märkten.
 
-Laut Coingecko handelt WLFI mit einer Marktkapitalisierung von rund 23 Cent, um 24% mit einer Marktkapitalisierung von rund 6,39 Milliarden US-Dollar.Zum Start befahl das Token kurz Bewertungen in Höhe von über 40 Milliarden US -Dollar für die Futures -Märkte, bevor die Verkäufer den Preis gesenkt haben.
+Laut Governance-Vorschlag sollen Gebühren aus WLFI-Liquidität auf Ethereum, Binance Smart Chain und Solana verwendet werden, um WLFI am Markt zurückzukaufen und an eine Burn-Adresse zu senden. Dadurch würden die Token dauerhaft aus dem Umlauf genommen.
 
-Laut einem am Dienstag veröffentlichten Governance -Vorschlag wurden Gebühren der Liquiditätspositionen von WLFI zu Ethereum, Binance Smart Chain und Solana verwendet, um WLFI auf dem freien Markt zu kaufen und an eine Verbrennungsadresse zu senden.Dieser Mechanismus würde Token dauerhaft aus dem Zirkulation entfernen und die Versorgung im Laufe der Zeit verringern.
+„Dieses Programm entfernt Token von Teilnehmern, die nicht an das langfristige Wachstum von WLFI glauben“, schrieb das Team und argumentierte, dass der Mechanismus langfristige Investoren mit dem Protokollwachstum ausrichtet.
 
-"Dieses Programm beseitigt Token aus dem Zirkulation von den Teilnehmern, die sich nicht für das langfristige Wachstum von WLFI verpflichtet haben", schrieb das Team und argumentiert, dass das Design langfristige Inhaber der Wachstumstrajektorie des Protokolls übereinstimmt.
+Die Maßnahme betrifft nur WLFI-eigene Liquidität. Dritte oder Community-LP-Anbieter sind nicht betroffen. Alternativen – etwa eine Teilung zwischen Treasury und Burns – wurden verworfen zugunsten einer 100%-Allokation in Burns.
 
-Die Maßnahme gilt nur für Gebühren, die durch die eigene Liquidität von WLFI erzeugt werden.Anbieter von Liquiditätsanbietern von Drittanbietern wären nicht betroffen.
+Für die Befürworter soll der Burn-Vorschlag den Fokus von Überangebot auf künstliche Knappheit verschieben. Mehr Handelsvolumen bedeutet mehr Gebühren – und damit mehr WLFI, die vernichtet werden.
 
-Alternativen, wie z. B. Aufteilungsgebühren zwischen Finanzministerium und Verbrennungen, wurden berücksichtigt, aber abgelehnt, um die Auswirkungen durch 100% ige Zuweisung an Verbrennungen zu maximieren.
+---
 
-Für die Unterstützer von WLFI zielt der Burn -Vorschlag darauf ab, die Erzählung von einem Überangebot auf einen der konstruierten Knappheit zu verlagern.Mehr Handelsaktivitäten würden mehr Gebühren bedeuten, was wiederum dazu führen würde, dass mehr WLFI aus dem Zirkulation entfernt werden.
-
-Gleichzeitig ist ein weiterer Governance -Vorschlag
+**Unser Kommentar:**  
+Das Konzept klingt nach bekannten DeFi-Mechanismen. Ob es aber reicht, um die Marktstimmung zu drehen, bleibt offen – WLFI steht sinnbildlich für die Risiken von Hype-getriebenen Tokens.
