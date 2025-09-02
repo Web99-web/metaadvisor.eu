@@ -6,11 +6,11 @@ translationKey: "trump-coin-rise-again-en"
 source: "MetaAdvisor Research"
 summary: "After sharp corrections, speculators are asking whether Trump Coin ($TRUMP) is gearing up for another wave of growth."
 tags: ["crypto","Trump","memecoin","growth"]
-image_url: "https://cryptologos.cc/logos/donald-trump-coin.png"
-image_url_small: "https://cryptologos.cc/logos/donald-trump-coin.png"
+image_url: "https://tse2.mm.bing.net/th/id/OIP.d2IzgNO-q7rhz90ndlVa_QHaE1?pid=Api"
+image_url_small: "https://tse2.mm.bing.net/th/id/OIP.d2IzgNO-q7rhz90ndlVa_QHaE1?pid=Api"
 ---
 
-![Trump Coin illustration](https://cryptologos.cc/logos/donald-trump-coin.png)
+![Trump Coin illustration](https://tse2.mm.bing.net/th/id/OIP.d2IzgNO-q7rhz90ndlVa_QHaE1?pid=Api)
 
 ### Trump Coin after the correction
 
