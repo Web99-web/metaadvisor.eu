@@ -10,6 +10,8 @@ image_url: "https://cryptologos.cc/logos/donald-trump-coin.png"
 image_url_small: "https://cryptologos.cc/logos/donald-trump-coin.png"
 ---
 
+![Trump Coin illustration](https://cryptologos.cc/logos/donald-trump-coin.png)
+
 ### Trump Coin after the correction
 
 Trump Coin ($TRUMP) has seen massive volatility since its launch – soaring on hype and then correcting sharply. But memecoins live and die by narrative, and the Trump brand remains one of the strongest in global politics.
@@ -28,4 +30,4 @@ Short-term traders looking for volatility may find opportunities here, though su
 ---
 
 **Our comment:**  
-Trump Coin reflects pure meme energy – risky, volatile, but potentially explosive whenever attention returns.
+Trump Coin illustrates pure meme energy – risky, volatile, but potentially explosive whenever attention returns.
