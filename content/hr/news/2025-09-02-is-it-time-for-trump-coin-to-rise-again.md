@@ -10,6 +10,8 @@ image_url: "https://cryptologos.cc/logos/donald-trump-coin.png"
 image_url_small: "https://cryptologos.cc/logos/donald-trump-coin.png"
 ---
 
+![Trump Coin ilustracija](https://cryptologos.cc/logos/donald-trump-coin.png)
+
 ### Trump Coin nakon korekcije
 
 Trump Coin ($TRUMP) doživio je veliku volatilnost od lansiranja – prvo snažan rast na valu hypea, a zatim oštru korekciju. No memecoini žive od narativa, a Trumpovo ime i dalje je jedan od najjačih brendova u svjetskoj politici.
