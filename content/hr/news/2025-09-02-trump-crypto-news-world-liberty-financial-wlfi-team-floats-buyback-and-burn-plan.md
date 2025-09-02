@@ -1,29 +1,29 @@
 ---
-title: "Trump Crypto News: Tim World Liberty Financial (WLFI) pluta plan otkupa i spaljivanja kao token token"
+title: "Trump Crypto Vijesti: World Liberty Financial (WLFI) tim predlaže plan otkupa i spaljivanja tokena"
 date: 2025-09-02T04:24:24Z
 category: "crypto"
 translationKey: "e6f2e2d67f47c87ba19cbd695e958a97"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/02/trump-linked-world-liberty-team-floats-buyback-and-burn-plan-as-wlfi-sinks"
-summary: "Projekt definiranog Trumpom predlaže korištenje svih naknada za likvidnost za trajno smanjenje opskrbe, jer strmi rani gubici ističu skepticizam ulagača."
-tags: ["crypto"]
-image_url: "/news/2025-09-02-trump-crypto-news-world-liberty-financial-wlfi-team-floats-buyback-and-burn-plan.jpg"
+summary: "Trumpov DeFi projekt predlaže korištenje naknada iz likvidnosti za trajno smanjenje ponude, nakon što je token WLFI zabilježio oštar pad."
+tags: ["crypto","WLFI","Trump","DeFi","tokenomics"]
+image_url: "https://cdn.sanity.io/images/s3y3vcno/production/b2c7d33ec21ab2d7e423b91f9e7cfef8773f2d8e-2000x1125.jpg"
+image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/b2c7d33ec21ab2d7e423b91f9e7cfef8773f2d8e-2000x1125.jpg?auto=format&fit=max&w=1200"
 ---
 
-World Liberty Financial (WLFI), Projekt DeFi-a koji je povezan s Trumpom, postavlja novi manevar tokenomike kako bi se povećao povjerenje nakon svog debija Rocky Trading: Program otkupa i sagorijevanja koji financira naknade za likvidnost u vlasništvu protokola.
+World Liberty Financial (WLFI), DeFi projekt povezan s obitelji Trump, predlaže novi tokenomski potez kako bi povratio povjerenje nakon teškog tržišnog debija: program otkupa i spaljivanja tokena financiran naknadama iz vlastitih likvidnosnih pozicija.
 
-Prijedlog dolazi dok se WLFI suočava s oštrim tržišnim vjetrovima nakon svog visoko objavljenog trgovinskog debija kroz glavne burze, uključujući Binance, OKX, UPBIT, Coinbase, Bithumb i druge.
+Prijedlog dolazi dok WLFI trpi snažan pritisak nakon lansiranja na burzama poput Binancea, OKX-a, Upbita, Coinbasea i Bithumba. Prema CoinGecku, WLFI se trguje po 0,23 USD, što je 24% pad u jednom danu, s tržišnom kapitalizacijom od oko 6,39 milijardi USD. Na početku je token nakratko dostigao vrijednost preko 40 milijardi USD na futures tržištima.
 
-WLFI trguje na oko 23 centa, što je 24% dnevno, s tržišnom ograničenjem od oko 6,39 milijardi dolara, navodi Coingecko.Pri pokretanju, token je nakratko naredio procjenu više od 40 milijardi dolara na Futures Markets prije nego što su prodavači smanjili cijenu.
+Prema prijedlogu upravljanja objavljenom u utorak, naknade prikupljene iz WLFI likvidnosti na Ethereumu, Binance Smart Chainu i Solani koristile bi se za otkup WLFI-ja na otvorenom tržištu i njihovo slanje na burn adresu. Time bi se tokeni trajno uklonili iz opticaja, postupno smanjujući ponudu.
 
-Prema prijedlogu upravljanja objavljenim u utorak, naknade prikupljene s pozicija likvidnosti WLFI -ja na Ethereumu, Binance Smart Chain i Solana koristit će se za kupnju WLFI na otvorenom tržištu i poslati ga na adresu izgaranja.Taj bi mehanizam trajno uklonio tokene iz cirkulacije, smanjujući opskrbu tijekom vremena.
+“Ovaj program uklanja tokene iz cirkulacije koji pripadaju sudionicima koji nisu posvećeni dugoročnom rastu WLFI-ja,” napisao je tim, tvrdeći da dizajn usklađuje dugoročne vlasnike s razvojem protokola.
 
-"Ovaj program uklanja tokene iz cirkulacije koje imaju sudionici koji nisu posvećeni dugoročnom rastu WLFI-ja", napisala je tim, tvrdeći da dizajn usklađuje dugoročne vlasnike s putanja rasta protokola.
+Mjera se odnosi samo na naknade iz WLFI-jevih vlastitih pozicija, dok treće strane i community LP-ovi nisu obuhvaćeni. Alternative, poput dijeljenja naknada između trezora i spaljivanja, odbačene su u korist maksimalnog učinka – 100% ide u burn.
 
-Mjera se odnosi samo na naknade koju generiraju WLFI -ova likvidnost.Davatelji likvidnosti treće strane ili zajednice ne bi utjecali.
+Za podupiratelje WLFI-ja, ovaj potez ima za cilj promijeniti narativ s prevelike ponude na osmišljenu oskudicu. Više trgovanja znači više naknada, a time i više tokena uklonjenih iz cirkulacije.
 
-Alternative, poput podjele naknada između riznice i opeklina, razmatrane su, ali odbačene u korist maksimiziranja utjecaja kroz 100% raspodjelu na opekline.
+---
 
-Za pomoćnike WLFI -a, prijedlog za opekline ima za cilj prebaciti narativ s jedne od prekomjerne opskrbe na jednu od oskudišta.Više trgovačkih aktivnosti značilo bi više naknada, što bi zauzvrat rezultiralo uklanjanjem više WLFI iz cirkulacije.
-
-Istovremeno, još jedan prijedlog upravljanja je
+**Naš komentar:**  
+Buyback & burn strategija podsjeća na modele drugih DeFi projekata. Pitanje je hoće li to biti dovoljno da promijeni percepciju tržišta – ili će WLFI ostati simbol prevelikih očekivanja i političkog marketinga.
