@@ -1,27 +1,26 @@
 ---
-title: "Coventry Council zur Nutzung der Palantir KI in Sozialarbeit, Send und Kinderdiensten"
+title: "Coventry-Rat setzt Palantir-AI in Sozialarbeit, SEND- und Kinderdiensten ein"
 date: 2025-08-30T11:00:04Z
 category: "ai"
 translationKey: "39e078da028decdbf07737ef7f455560"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/uk-news/2025/aug/30/coventry-city-council-signs-ai-deal-contract-palantir-technologies"
-summary: "Exklusiv: Arbeitnehmer sagen, dass 500.000 Pfund mit dem US -amerikanischen Technologieunternehmen, das israelische Streitkräfte liefert, „ernsthafte ethische Fragen“ aufwirft"
-tags: ["ai"]
-image_url: "/news/2025-08-30-coventry-council-to-use-palantir-ai-in-social-work-send-and-childrens-services.jpg"
+summary: "Mitarbeiter warnen, dass der £500.000-Vertrag mit einem US-Unternehmen, das israelische Streitkräfte beliefert, ernste ethische Fragen aufwirft."
+tags: ["AI","Palantir","Coventry","Öffentlicher-Sektor","Kinder","SEND","UK"]
+image_url: "https://i.guim.co.uk/img/media/50f98827c7c3950c2cdd6676efec5fef9d92e776/0_0_3500_2100/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=8f1f5dc5d96d9135a2b9f7ac62b43a14"
+image_url_small: "https://i.guim.co.uk/img/media/50f98827c7c3950c2cdd6676efec5fef9d92e776/0_0_3500_2100/master/3500.jpg?width=600&quality=85&auto=format&fit=max&s=8f1f5dc5d96d9135a2b9f7ac62b43a14"
 ---
 
-Exklusiv: Arbeitnehmer sagen, dass 500.000 Pfund mit dem US -amerikanischen Technologieunternehmen, das israelische Streitkräfte liefert, „ernsthafte ethische Fragen“ aufwirft
+Öffentliche Mitarbeiter haben „tiefe Besorgnis“ geäußert, nachdem der Stadtrat von Coventry einen Jahresvertrag über 500.000 Pfund mit dem US-Datenunternehmen **Palantir** abgeschlossen hat.  
 
-Arbeiter des öffentlichen Sektors haben „tiefe Besorgnis“ geäußert, nachdem der Stadtrat von Coventry einen Vertrag über künstliche Intelligenz von 500.000 Pfund pro Jahr mit dem US-amerikanischen Data Technology Company Palantir unterzeichnet hatte.
+Es handelt sich um den ersten Vertrag dieser Art zwischen einer britischen Kommune und Palantir, das Technologie für die israelischen Streitkräfte und frühere Trump-Politiken bereitstellt.  
 
-Der Deal ist der erste seiner Art zwischen einer britischen lokalen Behörde und dem in Denver ansässigen Unternehmen, das den Israel Defence Forces (IDF) Technologie liefert und Donald Trumps Massenverschiebungsbemühungen bei der Bemühungen hilft.
+Ein Pilotprojekt im Bereich Kinderdienste nutzte Palantir bereits für die Transkription und Zusammenfassung von Sozialarbeiterakten. Nun soll das System auch auf Unterstützungsprozesse für Kinder mit sonderpädagogischem Förderbedarf (SEND) ausgeweitet werden.  
 
-Der Vertrag folgt einem Pilotprogramm in der Abteilung für Kinderdienstleistungen des Rates, einschließlich der Verwendung von KI für die Fallnote-Transkription und zur Zusammenfassung der Aufzeichnungen der Sozialarbeiter.Der Rat plant, das Palantir -System auf Prozesse auszudehnen, um Kindern den besonderen Bildungsbedarf zu unterstützen.
+Ratschefin Julie Nugent erklärte, man wolle „interne Datenintegration und Servicebereitstellung verbessern“ und „die transformativen Möglichkeiten von KI erforschen“.  
 
-Der Geschäftsführer des Rates, Julie Nugent, sagte, sie ziele darauf ab, „die interne Datenintegration und die Bereitstellung von Dienstleistungen zu verbessern“ und „die transformativen Möglichkeiten der künstlichen Intelligenz zu untersuchen“.
+Palantir hält bereits mehrere Verträge im britischen öffentlichen Sektor, etwa mit Leicestershire (Bekämpfung von organisierter Kriminalität) und beim neuen **NHS federated data platform**. Auch Labour-Chef Keir Starmer besuchte im Februar das Washingtoner Büro von CEO Alex Karp.  
 
-Palantir hat bereits eine Reihe von Verträgen des öffentlichen Sektors in Großbritannien, darunter die Bereitstellung von KI, um die organisierte Kriminalität in Leicestershire zu bekämpfen und die neue Datenplattform der NHS Federated zu bauen.Keir Starrer tourte im Februar mit seinem Geschäftsführer und Mitbegründer Alex Karp durch das Büro des Unternehmens in Washington.Palantir wurde auch von Peter Thiel, dem Paypal-Milliardär, der dazu beigetragen hat, Trumps Wahl Camapign 2016 zu finanzieren, mitbegründet.
+Gewerkschaften und eine unabhängige Ratsfrau fordern nun die sofortige Kündigung des Vertrags und die Verwendung der Mittel in der lokalen Gemeinschaft.  
 
-Gewerkschaften, die Lehrer und andere Ratsmitarbeiter vertreten, haben gesagt, dass der Deal „ernsthafte ethische Fragen“ aufwirft, und der unabhängige Ratsmitglied Grace Lewis forderte den Rat auf, den Vertrag sofort zu kündigen und sicherzustellen, dass die 500.000 Pfund hier in unserer Gemeinde ausgegeben werden.
-
-„Es ist nicht vertretbar, dass der Rat einen Vertrag mit Palantir abgeschlossen hat.
+**Unser Kommentar:** KI kann öffentliche Dienstleistungen effizienter machen – doch Partnerschaften mit umstrittenen Firmen wie Palantir werfen Fragen zu Ethik und demokratischer Kontrolle auf.
