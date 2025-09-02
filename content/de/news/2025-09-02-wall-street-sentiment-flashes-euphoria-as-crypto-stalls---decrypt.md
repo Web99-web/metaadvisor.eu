@@ -1,35 +1,33 @@
 ---
-title: "Wall Street Sentiment blinkt Euphorie als Krypto -Stände - entschlüsseln"
+title: "Wall Street Sentiment zeigt Euphorie, während Krypto stagniert - Decrypt"
 date: 2025-09-02T04:54:57Z
 category: "crypto"
 translationKey: "7a49756995b29797d0ad1e6bfd40eba8"
 source: "Decrypt"
 source_url: "https://decrypt.co/337633/wall-street-sentiment-flashes-euphoria-crypto-stalls"
-summary: "US -Aktien blinken Anzeichen einer Anleger -Euphorie, auch wenn die Kryptomärkte unterhalten werden, was das Risiko einer Spillover -Korrektur erhöht."
-tags: ["crypto"]
-image_url: "/news/2025-09-02-wall-street-sentiment-flashes-euphoria-as-crypto-stalls---decrypt.png"
+summary: "US-Aktienmärkte signalisieren Euphorie, während Krypto zurückbleibt – das Risiko einer Korrektur steigt."
+tags: ["crypto","stocks","sentiment","wall-street","euphoria"]
+image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/09/wall-street-nyse-bull-market-gID_7.jpg?fit=1200%2C675"
+image_url_small: "https://cdn.decrypt.co/wp-content/uploads/2025/09/wall-street-nyse-bull-market-gID_7.jpg?fit=600%2C338"
 ---
 
-Wall Street Sentiment blinkt Euphorie als Krypto -Stände
+Die US-Aktienmärkte senden Euphorie-Signale, während der Kryptomarkt gedämpft bleibt, da Investoren nach Hinweisen auf den nächsten Schritt suchen.
 
-Die US -Aktien blinken Anzeichen von Euphorie, im Gegensatz zu einem gedämpften Krypto -Markt, da Händler auf göttliche Hinweise auf das nächste suchen.
+Der Global Equity Risk-Love-Indikator der Bank of America, ein Maß für die Anlegerstimmung, deutet darauf hin, dass Positionierung, Volatilität und technische Faktoren am Aktienmarkt gefährlich bullisch werden.
 
-Der globale Aktien-Risiko-Love-Indikator der Bank of America, der eine Messung der Anlegerstimmung anbietet, schlägt vor, dass die Positionierung, Volatilität und technische Daten in der Anleger am Aktienmarkt gefährlich bullisch werden.
+„Der BofA-Indikator sprang auf 1,4, den höchsten Stand seit 13 Monaten,“ schrieb The Kobeissi Letter am Montag. „Dieser Wert ist seit April von Panik auf Euphorie gestiegen – so hoch war die Stimmung seit 1987 nur in 7 % der Zeit.“
 
-â € žBofa's Global Equity Risk-Love-Indikator stieg auf 1,4, das höchste seit 13 Monaten “, schrieb der Kobeissi-Brief am Montag in einem Tweet.Â »Diese Metrik ist in nur 4 Monaten von Panik zu Euphorie gestiegen.Seit 1987 war das Gefühl nur 7% der Zeit höher.
+Seit April haben sowohl die US-Aktienmärkte als auch Krypto stark zugelegt, unterstützt durch günstige Wirtschaftsdaten und ETF-Zuflüsse.
 
-Seit April haben sowohl der US -Aktienmarkt als auch der Krypto ein schnelles Wachstum verzeichnet, das von den Wirtschaftsdaten und ETF -Strömen von Gefällern getragen wurde.
+Die beiden größten Kryptowährungen nach Marktkapitalisierung blieben in den letzten sieben Tagen weitgehend unverändert – Bitcoin mit weniger als 1 % Zuwachs und Ethereum mit -0,4 %, so CoinGecko.
 
-Zwei der größten Münzen von Crypto nach Marktkapitalisierung sind in den letzten sieben Tagen flach geblieben und stießen für Bitcoin in weniger als einem Prozent und eine negative Rendite von 0,4% für Ethereum, wie Coingecko -Daten zeigen.
+Wenn sich die Euphorie in Übertreibung verwandelt, könnte eine Korrektur bei Aktien einsetzen, die sich wahrscheinlich auch auf digitale Vermögenswerte auswirkt und den jüngsten Rückgang von Bitcoin vertieft.
 
-Wenn die Anlegerstimmung überschüssig ist, könnte eine Risikowendung einen Rückzug an Aktien auslösen, der wahrscheinlich in digitale Vermögenswerte einfließen würde, was die jüngste Folie von Bitcoin vertieft.
+In ihrem August-Bericht räumte die Bank ein, dass der jüngste Anstieg des S&P 500 und der Meme-Aktien „ausreichend ist, um einige Bedenken hervorzurufen“. Dennoch betonte sie, dass trotz dieser „Diskrepanz zwischen Anlegerenthusiasmus und Fundamentaldaten“ derzeit kein übermäßiges Risiko bestehe.
 
-Die Frage ist, ob der Optimismus diesen Punkt wirklich erreicht hat.
+Laut einer Umfrage der American Association of Individual Investors bleiben Kleinanleger vorsichtig: Nur 15,5 % der Befragten gaben an, weiterhin bullisch zu sein.
 
-Die Bank bestätigte in ihrem Bericht im August, dass der jüngste Anstieg des S & P 500 -Index und der Meme -Aktien "ausreicht, um einige Augenbrauen zu ziehen."
+---
 
-Trotzdem stellte es klar, dass es trotz dieser "Trennung zwischen Investorenbegeisterung und Grundlagen kein Risiko ist, über das wir vorerst übermäßig besorgt sind."
-
-Laut einer kürzlich von der American Association of Individual Investoren kürzlich vorgesehenen Investoren nehmen einzelne Investoren eine vorsichtige Haltung ein.
-
-Die Umfrage ergab, dass nur 15,5% der Befragten bullisch blieben.
+**Unser Kommentar:**  
+Euphorie in den Aktienmärkten war oft Vorläufer einer Korrektur. Sollte Wall Street schwächeln, dürfte auch der Kryptomarkt einen Dämpfer erhalten – Vorsicht ist geboten.
