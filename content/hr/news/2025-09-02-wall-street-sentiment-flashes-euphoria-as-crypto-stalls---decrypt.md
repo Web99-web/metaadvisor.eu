@@ -1,35 +1,33 @@
 ---
-title: "Sentiment na Wall Streetu treperi Euphoria kao kriptovalute - dešifrira"
+title: "Raspoloženje na Wall Streetu pokazuje euforiju dok kripto stagnira - Decrypt"
 date: 2025-09-02T04:54:57Z
 category: "crypto"
 translationKey: "7a49756995b29797d0ad1e6bfd40eba8"
 source: "Decrypt"
 source_url: "https://decrypt.co/337633/wall-street-sentiment-flashes-euphoria-crypto-stalls"
-summary: "Američke dionice trepere znakove euforije ulagača, čak i jer kripto tržišta ostaju prigušena, povećavajući rizik od korekcije prelaska."
-tags: ["crypto"]
-image_url: "/news/2025-09-02-wall-street-sentiment-flashes-euphoria-as-crypto-stalls---decrypt.png"
+summary: "Američke dionice pokazuju znakove investicijske euforije, dok kripto tržište ostaje prigušeno – što povećava rizik od korekcije."
+tags: ["crypto","stocks","sentiment","wall-street","euphoria"]
+image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/09/wall-street-nyse-bull-market-gID_7.jpg?fit=1200%2C675"
+image_url_small: "https://cdn.decrypt.co/wp-content/uploads/2025/09/wall-street-nyse-bull-market-gID_7.jpg?fit=600%2C338"
 ---
 
-Wall Street sentiment bljesne euforiju kao kriptovalute
+Američke dionice šalju signale euforije, u kontrastu s prigušenim kripto tržištem, dok ulagači pokušavaju pronaći naznake smjera.
 
-Američke dionice trepere znakove euforije, u suprotnosti s prigušenim kripto tržištem, jer trgovci izgledaju božanski tragovi o tome što slijede.
+Global Equity Risk-Love indikator Bank of America, koji mjeri sentiment ulagača, sugerira da pozicioniranje, volatilnost i tehnički pokazatelji na tržištu dionica postaju opasno bikovski.
 
-Indikator globalnog kapitala Bank of America, koji pruža mjerenje osjećaja ulagača, sugerira da pozicioniranje, volatilnost i tehničke tehnologije u investitoru postaju opasno bikovični.
+„BofA-ov Global Equity Risk-Love indikator skočio je na 1,4, najvišu razinu u 13 mjeseci,“ objavio je The Kobeissi Letter u ponedjeljak. „Od travnja, ovaj je pokazatelj prešao iz panike u euforiju u samo četiri mjeseca. Od 1987. godine, sentiment je bio viši samo 7% vremena.“
 
-â € œBofa, indikator globalnog kapitala-love-love skočio je na 1,4, što je najviši u 13 mjeseci ", napisalo je Kobeissi pismo u tvitu u ponedjeljak.â € œVa je metrika porasla od razine panike u euforiju u samo 4 mjeseca.Od 1987. godine raspoloženje je samo 7% vremena.
+Od travnja, i američko dioničko tržište i kripto doživjeli su snažan rast, potaknut popustljivim ekonomskim podacima i priljevima u ETF-ove.
 
-Od travnja, i američko tržište dionica i kriptovaluta doživjeli su brz rast, pričvršćeni gospodarskim podacima i protocima ETF -a.
+Dvije najveće kriptovalute po tržišnoj kapitalizaciji ostale su ravne tijekom posljednjih sedam dana – Bitcoin s manje od 1% rasta i Ethereum s padom od 0,4%, pokazuju podaci CoinGecka.
 
-Dva od najvećih kovanica kriptovaluta po tržišnoj kapitalizaciji ostala su ravna u posljednjih sedam dana, zakucavajući manje od posto za Bitcoin i negativni povrat od 0,4% za Ethereum, pokazuju podaci Coingecko.
+Ako se investicijski sentiment prelije u pretjeranost, moguća je korekcija na dionicama koja bi se vrlo vjerojatno prelila i na digitalnu imovinu, produbljujući nedavni pad Bitcoina.
 
-Ako se osjećaji ulagača uvrsti u višak, isključenje rizika moglo bi izazvati povlačenje u kapitalima koji bi se vjerojatno prelijevali u digitalnu imovinu, produbljivanjem Bitcoin-ovog nedavnog slajda.
+Banka je u svom kolovoškom izvještaju priznala da je nedavni rast S&P 500 indeksa i meme dionica „dovoljan da izazove zabrinutost“. Ipak, naglasila je da unatoč „raskoraku između entuzijazma ulagača i fundamenta, to trenutno nije rizik koji nas previše zabrinjava.“
 
-Pitanje je je li optimizam uistinu dostigao tu točku.
+Prema istraživanju Američke udruge individualnih investitora, mali ulagači zauzimaju oprezan stav: samo 15,5% ispitanika ostaje optimistično.
 
-Banka je u svom izvješću o kolovozu priznala da je nedavni porast zaliha S&P 500 indeksa i memea "bio dovoljan da podigne obrve."
+---
 
-Ipak, pojasnilo je da, unatoč ovom "prekidu veze između entuzijazma i osnova investitora, nije rizik da smo za sada pretjerano zabrinuti."
-
-Pojedini ulagači zauzimaju oprezan stav, prema nedavnom istraživanju osjećaja Američkog udruženja pojedinih ulagača.
-
-Istraživanje je pokazalo da je samo 15,5% ispitanika ostalo bikovski,
+**Naš komentar:**  
+Dionice i kripto često dijele isti tok kapitala. Ako euforija na Wall Streetu doživi korekciju, kripto će gotovo sigurno osjetiti posljedice. Ulagači bi trebali paziti da se ne zanesu previše pozitivnim signalima.
