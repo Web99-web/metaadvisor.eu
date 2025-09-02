@@ -1,27 +1,26 @@
 ---
-title: "Coventry Council da koristi Palantir AI u socijalnom radu, slanju i dječjim uslugama"
+title: "Vijeće Coventryja koristi Palantir AI u socijalnom radu, SEND-u i dječjim službama"
 date: 2025-08-30T11:00:04Z
 category: "ai"
 translationKey: "39e078da028decdbf07737ef7f455560"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/uk-news/2025/aug/30/coventry-city-council-signs-ai-deal-contract-palantir-technologies"
-summary: "EKSKLUZIVNO: Radnici kažu da je ugovor od 500 tisuća funti s američkom tehnološkom tvrtkom koja opskrbljuje izraelske snage postavlja „ozbiljna etička pitanja“"
-tags: ["ai"]
-image_url: "/news/2025-08-30-coventry-council-to-use-palantir-ai-in-social-work-send-and-childrens-services.jpg"
+summary: "Radnici upozoravaju da ugovor vrijedan £500.000 s američkom tvrtkom koja opskrbljuje izraelske snage otvara ozbiljna etička pitanja."
+tags: ["AI","Palantir","Coventry","javna-uprava","djeca","SEND","UK"]
+image_url: "https://i.guim.co.uk/img/media/50f98827c7c3950c2cdd6676efec5fef9d92e776/0_0_3500_2100/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=8f1f5dc5d96d9135a2b9f7ac62b43a14"
+image_url_small: "https://i.guim.co.uk/img/media/50f98827c7c3950c2cdd6676efec5fef9d92e776/0_0_3500_2100/master/3500.jpg?width=600&quality=85&auto=format&fit=max&s=8f1f5dc5d96d9135a2b9f7ac62b43a14"
 ---
 
-EKSKLUZIVNO: Radnici kažu da je ugovor od 500 tisuća funti s američkom tehnološkom tvrtkom koja opskrbljuje izraelske snage postavlja „ozbiljna etička pitanja“
+Radnici u javnom sektoru izrazili su “duboku zabrinutost” nakon što je gradsko vijeće Coventryja potpisalo godišnji ugovor vrijedan 500.000 funti s američkom tvrtkom za podatkovne tehnologije **Palantir**.  
 
-Radnici u javnom sektoru izrazili su "duboku zabrinutost" nakon što je gradsko vijeće Coventryja potpisalo ugovor o umjetnoj inteligenciji od 500 000 funti godišnje s američkom tvrtkom za tehnologiju podataka Palantir.
+To je prvi ugovor takve vrste između britanske lokalne vlasti i Palantira, tvrtke koja opskrbljuje izraelske oružane snage i bila je povezana s politikama deportacije Donalda Trumpa.  
 
-Dogovor je prvi takve vrste između lokalne vlasti u Velikoj Britaniji i tvrtke sa sjedištem u Denveru, koja tehnologiju isporučuje izraelskim obrambenim snagama (IDF) i kako bi pomogla u masovnoj deportaciji Donalda Trumpa.
+Pilot-projekt već je korišten u odjelu za dječje službe – uključujući transkripciju bilješki i rezimiranje dokumenata socijalnih radnika – a sada se planira proširiti i na podršku djeci s posebnim obrazovnim potrebama (SEND).  
 
-Ugovor slijedi pilot shemu u Odjelu za djecu Vijeća, uključujući korištenje AI za transkripciju slučaja i sažetak evidencije socijalnih radnika.Vijeće planira proširiti sustav Palantir na procese za pružanje podrške djeci s posebnim obrazovnim potrebama.
+Direktorica vijeća Julie Nugent izjavila je da žele “poboljšati internu integraciju podataka i isporuku usluga” te “istražiti transformativne mogućnosti umjetne inteligencije”.  
 
-Izvršna direktorica vijeća, Julie Nugent, rekla je da je imao za cilj "poboljšati integraciju internih podataka i pružanje usluga" i "istražiti transformativne mogućnosti umjetne inteligencije".
+Palantir već ima ugovore s britanskim javnim sektorom, uključujući Leicestershire (borba protiv organiziranog kriminala) i novi **NHS federated data platform**. Suosnivač Alex Karp primio je u veljači i Keira Starmera, dok je suosnivač Peter Thiel poznat kao rani podupiratelj Trumpove kampanje.  
 
-Palantir već ima niz ugovora o javnom sektoru u Velikoj Britaniji, uključujući pružanje AI -ja za pomoć u borbi protiv organiziranog kriminala u Leicestershireu i izgradnju nove NHS platforme podataka.Keir Starmer obišao je ured Washingtona u veljači sa svojim izvršnim direktorom i suosnivačem Alexom Karpom.Palantir je suosnivao i Peter Thiel, milijarder PayPal koji je pomogao u financiranju Trumpovih izbora za 2016. godinu.
+Sindikati učitelja i drugih radnika izjavili su da ugovor otvara “ozbiljna etička pitanja”, a neovisna vijećnica Grace Lewis pozvala je da se ugovor odmah otkaže i sredstva ulože u zajednicu.  
 
-Sindikati koji predstavljaju učitelje i druge radnike vijeća rekli su da ugovor postavlja "ozbiljna etička pitanja", a neovisni vijećnik Grace Lewis pozvao je Vijeće da odmah otkaže ugovor "i osigura da se 500.000 funti troši upravo ovdje u našoj zajednici".
-
-"Neophodno je da je vijeće sklopilo ugovor s Palantirom,
+**Naš komentar:** AI u javnim službama može ubrzati procese, ali povezanost s tvrtkama koje izazivaju etičke kontroverze postavlja pitanje transparentnosti i povjerenja građana.
