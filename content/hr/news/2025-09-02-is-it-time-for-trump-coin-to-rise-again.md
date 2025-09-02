@@ -6,11 +6,11 @@ translationKey: "trump-coin-rise-again-hr"
 source: "MetaAdvisor Research"
 summary: "Nakon snažne korekcije, špekulanti se pitaju je li Trump Coin ($TRUMP) spreman za novi val rasta."
 tags: ["crypto","Trump","memecoin","rast"]
-image_url: "https://cryptologos.cc/logos/donald-trump-coin.png"
-image_url_small: "https://cryptologos.cc/logos/donald-trump-coin.png"
+image_url: "https://tse2.mm.bing.net/th/id/OIP.d2IzgNO-q7rhz90ndlVa_QHaE1?pid=Api"
+image_url_small: "https://tse2.mm.bing.net/th/id/OIP.d2IzgNO-q7rhz90ndlVa_QHaE1?pid=Api"
 ---
 
-![Trump Coin ilustracija](https://cryptologos.cc/logos/donald-trump-coin.png)
+![Trump Coin ilustracija](https://tse2.mm.bing.net/th/id/OIP.d2IzgNO-q7rhz90ndlVa_QHaE1?pid=Api)
 
 ### Trump Coin nakon korekcije
 
