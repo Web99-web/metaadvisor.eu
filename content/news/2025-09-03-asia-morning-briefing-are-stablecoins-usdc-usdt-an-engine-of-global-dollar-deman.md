@@ -26,9 +26,9 @@ The debate continued in a recent episode of Goldman Sachs' Exchanges podcast, wh
 
 “When a dollar money market share fell to 97 cents in 2008, chaos broke out, contagion fears spread, and the government stepped in to guarantee funds,” he said.
 
-Former U.S. Comptroller of the Currency Brian Brooks countered on the podcast that the new GENIUS Act...
+Former U.S. Comptroller of the Currency Brian Brooks countered on the podcast that the new GENIUS Act provides a framework for stablecoin oversight, reducing systemic risks and avoiding a repeat of 2008.  
 
 ---
 
 **Our take:**  
-Stablecoins are no longer just plumbing for crypto — they are becoming a pillar of global finance. The key question is whether they provide resilience to markets or risk setting off the next systemic shock.
+Stablecoins are no longer just plumbing for crypto — they’re a lever in global finance. With proper regulation, they could provide resilience, but without it, redemption shocks might trigger the next liquidity crisis.
