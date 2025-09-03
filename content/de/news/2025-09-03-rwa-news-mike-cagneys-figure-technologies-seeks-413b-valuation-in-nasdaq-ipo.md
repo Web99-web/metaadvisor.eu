@@ -1,24 +1,26 @@
 ---
-title: "RWA News: Mike Cagneys Figurentechnologien sucht 4,13 Mrd. USD Bewertung beim Nasdaq -Börsengang"
+title: "RWA News: Figure Technologies strebt Nasdaq-IPO mit 4,13 Mrd. USD Bewertung an"
 date: 2025-09-03T04:07:46Z
 category: "news"
 translationKey: "5180e40e12d7acaa2f5985d4c851a6cd"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/03/mike-cagney-s-figure-technologies-seeks-over-usd4b-valuation-in-nasdaq-ipo"
-summary: "Figure Technologies versucht, durch den Aktienverkauf bis zu 526 Millionen US -Dollar bei einer Bewertung von über 4 Milliarden US -Dollar zu sammeln."
-image_url: "/news/2025-09-03-rwa-news-mike-cagneys-figure-technologies-seeks-413b-valuation-in-nasdaq-ipo.png"
+summary: "Figure Technologies plant, bis zu 526 Mio. USD über den Börsengang einzunehmen, bei einer Bewertung von mehr als 4 Mrd. USD."
+tags: ["RWA", "FIGR", "IPO", "Nasdaq", "blockchain", "stablecoin", "crypto"]
+image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
 ---
 
-Figure Technologies, der Blockchain-Kreditgeber, der von Mike Cagney, Mitbegründer von Sofi, gegründet wurde, strebt laut neuen Einreichungen bei der US-amerikanischen Securities and Exchange Commission eine Bewertung von bis zu 4,13 Milliarden US-Dollar an, die in seinem bevorstehenden anfänglichen öffentlichen Angebot anfänglich sind.
+**Figure Technologies**, ein Blockchain-Kreditgeber, der von Mike Cagney (Mitgründer von SoFi) gegründet wurde, strebt bei seinem kommenden **Börsengang (IPO)** eine Bewertung von bis zu **4,13 Mrd. USD** an, wie aus neuen SEC-Unterlagen hervorgeht.
 
-Das Unternehmen und seine Unterstützer versuchen, im Laufe des Aktienverkaufs bis zu 526 Millionen US-Dollar zu sammeln, wodurch die jüngste kryptogebundene Firma zum Testen von Eigenkapitalmärkten als Anleger-Appetit auf neue Listingsrenditen getestet wird.
+Das Unternehmen und seine Investoren wollen durch den Aktienverkauf bis zu **526 Mio. USD** einnehmen und reiht sich damit in die wachsende Liste von krypto-nahen Firmen ein, die die Kapitalmärkte testen, während die Anlegernachfrage nach neuen Listings zurückkehrt.
 
-Die Aktien werden unter dem Ticker -Figr mit Goldman Sachs, Jefferies und Bofa Securities, die das Underwriting -Syndikat leiten, gegen NASDAQ eingetauscht.
+Die Aktien sollen an der **Nasdaq** unter dem Ticker **FIGR** gehandelt werden. Führende Banken wie Goldman Sachs, Jefferies und BofA Securities übernehmen das Underwriting.
 
-Die Zahl war ein herausragender Spieler im Sektor der realen Asset (RWA), der mehr als 16 Milliarden US-Dollar an Eigenkapitallinien mit seinen Provenance Blockchain Rails entspricht.
+Figure ist ein prominenter Akteur im Bereich der **Real-World Assets (RWA)** und hat bereits mehr als **16 Mrd. USD** an Eigenheimkrediten über seine eigene **Provenance-Blockchain** abgewickelt.
 
-Anfang dieses Jahres hat es sich mit den Figurenmärkten zusammengetan, einem weiteren Cagney-Unternehmen, das einen Blockchain-Marktplatz betreibt und YDLS ausgibt, eine als tokenisierte Geldmarktfonds strukturierte Stablecoin-Stabelcoin.
+Anfang dieses Jahres fusionierte das Unternehmen mit **Figure Markets**, einem weiteren Cagney-Projekt, das einen Blockchain-Marktplatz betreibt und **YDLS** herausgibt – einen renditebasierten Stablecoin, der als tokenisierter Geldmarktfonds strukturiert ist.
 
-Bitcoin -Händler warnen vor 12% monatlichen Rückgang, als Solana Majors -Gewinne führt
+---
 
-Händler sagen
+**Unser Kommentar:**  
+Der geplante IPO von Figure Technologies zeigt, dass RWA-Unternehmen zunehmend in den Fokus traditioneller Finanzmärkte rücken. Eine erfolgreiche Bewertung könnte den Weg für weitere Blockchain-Listings ebnen.
