@@ -1,37 +1,42 @@
 ---
-title: "Clanker!Ova grickalica protiv robota je na cijelom Internetu - ali je li uvredljiva?"
+title: "Clanker! Uvreda na račun robota svuda na internetu – ali je li uvredljivo?"
 date: 2025-09-01T16:23:02Z
 category: "ai"
 translationKey: "646bc6014f08aba6a44b9732ea936bc4"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/01/clanker-slur-against-robots-all-over-internet-is-it-offensive"
-summary: "Izraz se koristi za uvredu AI chatbota i platforme poput chatgpta za izradu informacija i generiranje 'Slop'.Neki vjeruju da bismo ga trebali prestati koristiti, pronto"
-tags: ["ai"]
-image_url: "/news/2025-09-01-clanker-this-slur-against-robots-is-all-over-the-internet-but-is-it-offensive.jpg"
+summary: "Pojam se koristi za vrijeđanje AI chatbotova i platformi poput ChatGPT-a zbog izmišljanja informacija i generiranja ‘smeća’. Neki vjeruju da bismo ga trebali prestati koristiti."
+tags: ["ai", "chatgpt", "robots", "language", "culture"]
+image_url: "https://i.guim.co.uk/img/media/caf22e9dbf9d73b94a8f9d61b4d671b17dbe26e4/0_0_5472_3648/master/5472.jpg?width=1200&quality=85&auto=format&fit=max&s=5bb09b1c03049c989feaadbcb1d4a9ce"
 ---
 
-Izraz se koristi za uvredu AI chatbota i platforme poput chatgpta za izradu informacija i generiranje "Slop".Neki vjeruju da bismo ga trebali prestati koristiti, pronto
+Pojam se koristi za vrijeđanje AI chatbotova i platformi poput ChatGPT-a zbog izmišljanja informacija i generiranja ‘smeća’. Neki vjeruju da bismo ga trebali prestati koristiti.
 
-Izgled: Svugdje, ali uglavnom na društvenim medijima.
+Pojava: Svugdje, ali ponajviše na društvenim mrežama.
 
-Zvuči pomalo uvredljivo.To je, u stvari, grickalica.
+Zvuči pomalo uvredljivo. Zapravo, to i jest uvreda.
 
-Kakva gnoj?Gnoj protiv robota.
+Kakva uvreda? Uvreda protiv robota.
 
-Jer su metal?Iako se ponekad koristi za omalovažavanje stvarnih robota-uključujući robote za dostavu i samovoze-sve se više koristi za uvredu AI chatbota i platforme poput chatgpt.
+Zato što su metalni? Iako se ponekad koristi za omalovažavanje stvarnih robota – uključujući dostavne robote i samovozeće aute – sve se češće koristi za vrijeđanje AI chatbotova i platformi poput ChatGPT-a.
 
-Novi sam u ovome - zašto bih želio vrijeđati AI?Za izradu informacija, prodiranje izravnih neistina, generiranje "slapova" (hromo ili očito lažni sadržaj) ili jednostavno nije dovoljno ljudski.
+Zašto bih uopće vrijeđao AI? Zbog izmišljanja informacija, širenja očitih neistina, generiranja “smeća” (dosadnog ili očito lažnog sadržaja) ili jednostavno zato što nisu dovoljno ljudski.
 
-Da li AI brine da ga vrijeđate?To je složeno i vruće raspravljano filozofsko pitanje, na što je odgovor "ne".
+Brine li AI što ga vrijeđate? To je složeno i žestoko raspravljano filozofsko pitanje, a odgovor je “ne”.
 
-Zašto se onda gnjaviti?Ljudi se frustriraju na tehnologiji koja postaje prožimajuća, nametljiva i može ugroziti njihovo buduće zaposlenje.
+Zašto onda uopće smetati? Ljudi iskaljuju frustracije na tehnologiji koja postaje sveprisutna, nametljiva i potencijalno ugrožava njihova buduća radna mjesta.
 
-Clankeri, dolaze ovamo, uzimaju naše poslove!To je ideja.
+Clankeri nam dolaze i uzimaju poslove! Upravo tako.
 
-Odakle je nastala ova grickalica?Prvo se koristio za pejorativno na borbu protiv Androida u igri Star Wars 2005. godine, Clanker je kasnije populariziran u TV seriji Clone Wars.Odatle je napredovao do Reddita, Memesa i Tiktoka.
+Odakle potječe ova uvreda? Prvi put se pogrdno koristila za borbene androide u Star Wars igri 2005., a kasnije ju je popularizirala TV serija Clone Wars. Od tamo se proširila na Reddit, memove i TikTok.
 
-I je li to zaista najbolje što možemo, uvreda?Popularna kultura pokrenula je ostale anti-robotske klice-tu je "toster" iz Battlestar Galactice i "Skin-Job" od Blade Runnera-ali čini se da je "Clanker" za sada pobijedio.
+I je li to stvarno najbolje što možemo smisliti kao uvredu? Popularna kultura rodila je i druge anti-robotske izraze – primjerice “toaster” iz Battlestar Galactice i “skin-job” iz Blade Runnera – ali čini se da je “clanker” za sada pobijedio.
 
-Čini se kao glupo gubljenje vremena, ali pretpostavljam da je dovoljno bezopasno.Kažete to, ali mnogi sugeriraju da bi korištenje "Clanker" moglo pomoći u normalizaciji stvarne bahatosti.
+Čini se kao glupo gubljenje vremena, ali pretpostavljam da je dovoljno bezopasno. Kažete to, ali mnogi sugeriraju da korištenje izraza “clanker” može pomoći normaliziranju stvarne mržnje.
 
-Oh, hajde sada.Popularni memovi i spoof videozapisi obično tretiraju "clanker" kao izravno analogne rasnom gripu -
+Ma dajte. Popularni memovi i parodije često tretiraju “clanker” kao direktnu analogiju rasnoj uvredi –
+
+---
+
+**Osvrt:**  
+Članak pokazuje kako i riječi koje na prvi pogled djeluju bezopasno mogu oblikovati stavove društva. “Clanker” možda zvuči smiješno, ali otvara pitanje – hoće li svakodnevno omalovažavanje tehnologije koju sami koristimo utjecati na način na koji živimo i radimo u budućnosti?
