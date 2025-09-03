@@ -1,37 +1,42 @@
 ---
-title: "Klanker!Dieser Slur gegen Roboter ist überall im Internet - aber ist es beleidigend?"
+title: "Clanker! Diese Beleidigung gegen Roboter ist überall im Internet – aber ist sie beleidigend?"
 date: 2025-09-01T16:23:02Z
 category: "ai"
 translationKey: "646bc6014f08aba6a44b9732ea936bc4"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/01/clanker-slur-against-robots-all-over-internet-is-it-offensive"
-summary: "Der Begriff wird verwendet, um AI -Chatbots und Plattformen wie ChatGPT zum Erstellen von Informationen und zum Generieren von „Slop“ zu beleidigen.Einige glauben, wir sollten aufhören, es zu verwenden, Pronto"
-tags: ["ai"]
-image_url: "/news/2025-09-01-clanker-this-slur-against-robots-is-all-over-the-internet-but-is-it-offensive.jpg"
+summary: "Der Begriff wird verwendet, um AI-Chatbots und Plattformen wie ChatGPT zu beleidigen, weil sie Informationen erfinden und ‚Müll‘ erzeugen. Einige glauben, wir sollten ihn sofort nicht mehr verwenden."
+tags: ["ai", "chatgpt", "roboter", "kultur", "sprache"]
+image_url: "https://i.guim.co.uk/img/media/caf22e9dbf9d73b94a8f9d61b4d671b17dbe26e4/0_0_5472_3648/master/5472.jpg?width=1200&quality=85&auto=format&fit=max&s=5bb09b1c03049c989feaadbcb1d4a9ce"
 ---
 
-Der Begriff wird verwendet, um AI -Chatbots und Plattformen wie ChatGPT zum Erstellen von Informationen und zum Generieren von „Slop“ zu beleidigen.Einige glauben, wir sollten aufhören, es zu verwenden, Pronto
+Der Begriff wird verwendet, um AI-Chatbots und Plattformen wie ChatGPT zu beleidigen, weil sie Informationen erfinden und „Müll“ produzieren. Einige glauben, dass wir aufhören sollten, ihn zu benutzen.
 
-Aussehen: Überall, aber hauptsächlich in sozialen Medien.
+Auftreten: Überall, aber vor allem in sozialen Medien.
 
-Es klingt ein bisschen beleidigend.Es ist in der Tat ein Slur.
+Es klingt etwas beleidigend. Tatsächlich ist es eine Beleidigung.
 
-Was für ein Slur?Ein Tafel gegen Roboter.
+Welche Art von Beleidigung? Eine Beleidigung gegen Roboter.
 
-Weil sie Metall sind?Es wird zwar manchmal verwendet, um tatsächliche Roboter-einschließlich Lieferbots und selbstfahrende Autos-zu verunglimpfen, es wird zunehmend daran gewöhnt, AI-Chatbots und Plattformen wie Chatgpt zu beleidigen.
+Weil sie aus Metall sind? Während er manchmal verwendet wird, um echte Roboter – einschließlich Lieferbots und selbstfahrende Autos – herabzuwürdigen, wird er zunehmend verwendet, um AI-Chatbots und Plattformen wie ChatGPT zu beleidigen.
 
-Ich bin neu dabei - warum sollte ich KI beleidigen wollen?Um Informationen zu erstellen, die Unwahrheiten auszuräumen, „Slop“ (lahm oder offensichtlich gefälschte Inhalte) zu generieren oder einfach nicht menschlich genug zu sein.
+Warum sollte ich überhaupt AI beleidigen? Wegen der Erfindung von Informationen, der Verbreitung offensichtlicher Unwahrheiten, der Erzeugung von „Müll“ (langweilige oder offensichtlich falsche Inhalte) oder einfach, weil sie nicht menschlich genug sind.
 
-Ist es der KI darum, dass Sie sie beleidigen?Das ist eine komplexe und heiß diskutierte philosophische Frage, auf die die Antwort "Nein" lautet.
+Kümmert es die AI, dass man sie beleidigt? Das ist eine komplexe und heftig diskutierte philosophische Frage, auf die die Antwort „nein“ lautet.
 
-Warum dann sich die Mühe machen?Die Menschen nehmen ihre Frustrationen über eine Technologie heraus, die immer wieder aufdringlich und aufdringlich wird und ihre zukünftige Beschäftigung durchaus gefährdet.
+Warum dann die Mühe? Die Menschen lassen ihre Frustrationen an einer Technologie aus, die allgegenwärtig, aufdringlich ist und möglicherweise ihre zukünftige Beschäftigung bedroht.
 
-Klanker kommen hierher und nehmen unsere Arbeit an!Das ist die Idee.
+Clanker kommen hierher und nehmen uns die Jobs weg! Genau das ist die Idee.
 
-Woher stammt dieser Unbewohner?Clanker wurde 2005 erstmals in einem Star Wars -Spiel in einem Star Wars -Spiel preiswichtiger gegen Androids bezogen. Später wurde er in der Clone Wars -TV -Serie populär gemacht.Von dort ging es zu Reddit, Memes und Tiktok.
+Woher stammt diese Beleidigung? Zuerst wurde sie 2005 in einem Star-Wars-Spiel abwertend für Kampfandroiden verwendet, später wurde sie durch die TV-Serie Clone Wars populär. Von dort aus verbreitete sie sich auf Reddit, Memes und TikTok.
 
-Und ist es wirklich das Beste, was wir tun können, was Beleidigung betrifft?Die Populärkultur hat andere Anti-Roboter-Schrägungen hervorgebracht-es gibt "Toaster" von Battlestar Galactica und "Skin-Job" von Blade Runner-aber "Clanker" scheint vorerst gewonnen zu haben.
+Und ist das wirklich das Beste, was wir als Beleidigung haben? Die Popkultur hat auch andere anti-robotische Schimpfwörter hervorgebracht – zum Beispiel „Toaster“ aus Battlestar Galactica und „Skin-Job“ aus Blade Runner – aber „Clanker“ scheint sich bisher durchgesetzt zu haben.
 
-Es scheint eine dumme Zeitverschwendung zu sein, aber ich denke, es ist harmlos genug.Sie sagen das, aber viele schlagen vor, dass die Verwendung von „Clanker“ dazu beitragen könnte, die tatsächliche Bigotterie zu normalisieren.
+Es wirkt wie eine dumme Zeitverschwendung, aber ich nehme an, es ist harmlos genug. Das sagen Sie, aber viele schlagen vor, dass die Verwendung von „Clanker“ dazu beitragen könnte, tatsächliche Vorurteile zu normalisieren.
 
-Oh, komm schon.Beliebte Meme und Parodienvideos neigen dazu, „Clanker“ als direkt analog zu einem rassistischen Slur zu behandeln -
+Ach komm schon. Beliebte Memes und Parodievideos behandeln „Clanker“ oft so, als wäre es direkt analog zu einer rassistischen Beleidigung –
+
+---
+
+**Unser Kommentar:**  
+Der Artikel verdeutlicht, wie Sprache unterschätzt wird. Auch wenn „Clanker“ harmlos klingt, kann es langfristig beeinflussen, wie Menschen über Technologie und ihre Rolle im Alltag denken.
