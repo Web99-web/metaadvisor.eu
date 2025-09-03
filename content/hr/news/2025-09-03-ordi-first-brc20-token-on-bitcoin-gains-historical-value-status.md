@@ -7,7 +7,8 @@ source: "MetaAdvisor Research"
 source_url: "https://metaadvisor.eu/"
 summary: "ORDI, the first BRC-20 token created on Bitcoin, is increasingly viewed as a historical crypto artifact with symbolic importance."
 tags: ["ORDI", "BRC-20", "Bitcoin", "token", "crypto", "historical value"]
-image_url: "https://cryptologos.cc/logos/ordi-ordi-logo.png"
+image_url: "/images/ordi.png"
+
 ---
 
 **ORDI** is the very first **BRC-20 token** ever created on the **Bitcoin blockchain**. Initially launched as a mere experiment, it has grown into a symbol of historical value within the crypto ecosystem.  
