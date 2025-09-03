@@ -1,21 +1,26 @@
 ---
-title: "Doge, BTC CIJENE VIJESTI: Triangle Breaking Flags Potencijal Rally ako se 0,22 USD Otpor očisti"
+title: "DOGE, BTC vijesti o cijeni: trokutasti izlaz signalizira potencijalni rast ako se probije otpor od 0,22 USD | CoinDesk"
 date: 2025-09-03T03:18:31Z
 category: "crypto"
 translationKey: "471c734859393c9e51696f92402acc89"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/03/doge-btc-triangle-breakout-flags-potential-rally-if-usd0-22-resistance-clears"
-summary: "Dogecoin odbija iz podneva, a nakupljanje kitova i ETF špekulacije pokreću teške trgovačke aktivnosti."
-tags: ["crypto"]
-image_url: "/news/2025-09-03-doge-btc-price-news-triangle-breakout-flags-potential-rally-if-022-resistance-cl.png"
+summary: "Dogecoin se oporavio od dnevne rasprodaje, dok nakupljanje od strane whales i špekulacije o ETF-u potiču snažnu trgovinsku aktivnost."
+tags: ["dogecoin", "DOGE", "bitcoin", "BTC", "crypto", "ETF", "breakout", "trading"]
+image_url: "https://upload.wikimedia.org/wikipedia/en/d/d0/Dogecoin_Logo.png"
 ---
 
-Doge je doživio 4% intraday zamah, zatvarajući 1% na 0,213 USD unatoč oštrim fluktuacijama.
+**Dogecoin (DOGE)** je doživio dnevnu volatilnost od 4%, ali je dan završio u plusu od 1% na **0,213 USD**, unatoč snažnim oscilacijama.
 
-Opseg trgovanja porastao je 21% iznad tjednih prosjeka, što ukazuje na snažno sudjelovanje na tržištu.
+Trgovinski volumen skočio je 21% iznad tjednog prosjeka, što ukazuje na pojačano sudjelovanje tržišta. Ključni faktori rasta uključuju **špekulacije o odobrenju ETF-a** te očekivane poteze američkog Fed-a oko smanjenja kamatnih stopa.
 
-Špekulacije o odobrenju ETF -a i predviđenim smanjenjem stopa Feda ključni su čimbenici koji utječu na Doge -ove kretanja cijena.
+Analitičari ističu da je DOGE trenutno unutar **trokutastog obrasca** i da bi proboj iznad razine od **0,22 USD** mogao otvoriti prostor za daljnji rast.
 
-Bitcoin trgovci upozoravaju na 12% mjesečno pad kako Solana vodi mažoretkinje
+Na širem tržištu, trgovci upozoravaju na mogućnost **mjesečnog pada Bitcoina od 12%**, dok je **Solana (SOL)** predvodila među većim kriptovalutama s najjačim dobicima u posljednjim danima.
 
-Trgovci kažu da kombinacija makro nesigurnosti, krhkih osjećaja i količina prorjeđivanja ostavlja malo prostora za pogreške u ono što je povijesno bio najteži mjesec na
+Iako rujan povijesno nosi slabiju izvedbu za kripto tržište, pojačano zanimanje institucionalnih investitora i ETF glasine mogli bi preokrenuti sentiment.
+
+---
+
+**Osvrt:**  
+DOGE još jednom pokazuje koliko snažno zajednica i špekulacije mogu pogurati cijenu. Proboj iznad 0,22 USD bio bi psihološki važan signal – ali volatilnost Bitcoina i sezonalnost rujna i dalje nose rizik.
