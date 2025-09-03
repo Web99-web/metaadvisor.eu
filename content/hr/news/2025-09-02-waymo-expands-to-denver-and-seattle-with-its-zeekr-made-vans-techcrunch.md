@@ -1,20 +1,24 @@
 ---
-title: "Waymo se proširuje na Denver i Seattle sa svojim kombijima iz Zeekr-a |TechCrunch"
+title: "Waymo se širi na Denver i Seattle sa Zeekr vozilima | TechCrunch"
 date: 2025-09-02T20:48:09Z
 category: "news"
 translationKey: "8d07356892b572ea2a7b0fd31af575dc"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/02/waymo-expands-to-denver-and-seattle-with-its-zeekr-made-vans/"
-summary: "Dodajte još dva grada na rastući popis gdje Waymo želi implementirati svoju robotaksu.Tvrtka će započeti s ručnim testiranjem, ali promatra komercijalno lansiranje u oba grada."
-image_url: "/news/2025-09-02-waymo-expands-to-denver-and-seattle-with-its-zeekr-made-vans-techcrunch.jpeg"
+summary: "Waymo dodaje još dva grada na svoju listu – Denver i Seattle – gdje planira testirati i kasnije komercijalno pokrenuti robotaxi uslugu."
+tags: ["waymo", "google", "autonomna-vozila", "robotaxi", "EV", "zeekr", "denver", "seattle"]
+image_url: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Waymo_Chrysler_Pacifica_in_Los_Altos.jpg"
 ---
 
-Waymo je u utorak najavio da će oba svoja vozila-Jaguar I-Pace Van i Seattle od ovog tjedna donijeti oba svoja vozila-najnoviji potez u daljnjem širenju u Sjedinjenim Državama-Denver i Seattle.
+Waymo je u utorak objavio da će dovesti oba svoja vozila — Jaguar I-Pace SUV i Zeekr kombi — u Denver i Seattle već ovaj tjedan, što je najnoviji korak u širenju diljem Sjedinjenih Država.
 
-Vozila će se ručno pokrenuti, prije nego što tvrtka počne testirati svoju autonomnu tehnologiju u oba grada.Waymo je rekao TechCrunchu da se nada da će sljedeće godine početi nuditi robotaxi izlete u Denver i područje Metropolitanskog područja u Seattlu "čim nam je dopušteno da to učinimo."Denver i Seattle bit će dva najekstremnijeg vremena koji se osjećaju kako se Waymo osjeća, dajući mu priliku da testira svoju tehnologiju u snijegu, vjetru i kiši koju je teže doći na mjestima poput Phoenixa.
+Vozila će se u početku voziti ručno, prije nego što tvrtka započne testiranje svoje autonomne tehnologije u oba grada. Waymo je rekao za TechCrunch da se nada kako će u Denveru početi nuditi robotaxi vožnje već sljedeće godine, a u području Seattlea “čim dobijemo dozvolu”. Denver i Seattle bit će među gradovima s najekstremnijim vremenskim uvjetima u kojima Waymo testira — snijeg, vjetar i kiša koje se teže nalaze u Phoenixu.
 
-Novi se gradovi pridružuju sve većem popisu mjesta na kojima Waymo djeluje u SAD -u samo prošlog tjedna, tvrtka je objavila da ima više od 2.000 robotaksa u svojoj komercijalnoj floti u cijeloj zemlji, sa 800 u području zaljeva San Francisco, 500 u Los Angelesu, 400 u Phoenixu, 100 u Austinu i „desecima“ u Atlanta.Waymo je također najavio planove za pokretanje komercijalnih robotaksijskih usluga u Dallasu, Miamiju i Washingtonu, D.C., sljedeće godine, a nedavno je dobio dozvolu za početak testiranja u New Yorku.
+Novi gradovi pridružuju se rastućem popisu lokacija u SAD-u gdje Waymo već djeluje. Prošlog tjedna tvrtka je objavila da njezin komercijalni vozni park broji više od 2.000 robotaxija u zemlji: 800 u području San Francisca, 500 u Los Angelesu, 400 u Phoenixu, 100 u Austinu i “deseci” u Atlanti. Waymo je također najavio planove za pokretanje komercijalnih robotaxi usluga u Dallasu, Miamiju i Washingtonu D.C. sljedeće godine, a nedavno je dobio dozvolu za testiranje u New Yorku.
 
-To ne spominje ostale gradove u kojima je Waymo umočio nožne prste.Dovela je vozila na "cestovne putovanja" u mjesta poput Philadelphije i planira isto učiniti u Las Vegasu, San Diegu, Houstonu, Orlandu i San Antoniju.
+Osim toga, Waymo je svoje vozilo odveo i na “road trip” u gradove poput Philadelphije, a planira isto učiniti u Las Vegasu, San Diegu, Houstonu, Orlandu i San Antoniju.
 
-Sean O'Kane je novinar koji je proveo desetljeće pokrivajući brzo razvijanje poslovanja i tehnologije prometne industrije, uključujući Tesla i mnoge startupe koji jure Elona Muska.Nedavno je bio novinar u Bloomberg Newsu gdje je pomogao razbiti priče o nekim od najozloglašenijih EV Spac flops -a.Ranije je radio na rubu,
+---
+
+**Osvrt:**  
+Waymo se sve agresivnije širi i cilja na gradove s izazovnijim vremenskim uvjetima. To je ključan test za autonomnu tehnologiju – ako uspije u Denveru i Seattleu, kompanija će dokazati spremnost za stvarno masovno korištenje robotaxija.
