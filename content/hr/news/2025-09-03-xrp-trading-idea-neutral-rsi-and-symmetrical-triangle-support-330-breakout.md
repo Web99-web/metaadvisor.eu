@@ -1,20 +1,24 @@
 ---
-title: "Ideja za trgovanje XRP -om: Neutralni RSI i simetrični trokut podrška 3,30 USD"
+title: "XRP trgovačka ideja: Neutralni RSI i simetrični trokut podržavaju proboj na 3,30 USD | CoinDesk"
 date: 2025-09-03T03:04:59Z
 category: "news"
 translationKey: "bb345b851e1b1ed02bef3430de758b50"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/03/xrp-trading-idea-neutral-rsi-and-symmetrical-triangle-support-usd3-30-breakout"
-summary: "Kitovi apsorbiraju prodajni pritisak blizu 2,76 USD, dok institucionalni tokovi podižu XRP prema pojasu otpora od 2,86 dolara."
-image_url: "/news/2025-09-03-xrp-trading-idea-neutral-rsi-and-symmetrical-triangle-support-330-breakout.png"
+summary: "Whale nakupljanje ublažava prodajni pritisak oko 2,76 USD, dok institucionalni priljevi guraju XRP prema zoni otpora od 2,86 USD."
+tags: ["xrp", "XRP", "crypto", "trgovanje", "RSI", "breakout", "analiza"]
+image_url: "https://upload.wikimedia.org/wikipedia/commons/0/0c/XRP_Logo.svg"
 ---
 
-XRP je doživio nestabilnu sesiju trgovanja, fluktuirajući između 2,76 i 2,86 dolara, a nesigurnosti geopolitičke i monetarne politike utječu na kripto tržišta.
+**XRP** je imao volatilnu trgovačku sesiju, krećući se između **2,76 i 2,86 USD**, dok su geopolitičke i monetarne neizvjesnosti utjecale na šire kripto tržište.  
 
-Akumulacija kitova od 340 milijuna XRP sugerira institucionalni interes unatoč široj prodaji na tržištu, a analitičari podijeljeni na potencijalnim kretanjima cijena.
+Podaci pokazuju da je akumulirano više od **340 milijuna XRP-a** od strane whales, što sugerira institucionalni interes unatoč pritiscima prodaje.  
 
-Razine ključne otpornosti identificirane su u iznosu od 2,86 i 3,30 USD, a trgovci gledaju na trajnu blizu ovih točaka kako bi signalizirali nastavak zamaha.
+Analitičari se razilaze oko mogućeg kretanja cijene, ali ključne razine otpora su identificirane na **2,86 USD** i **3,30 USD**. Trgovci prate hoće li doći do održivog zatvaranja iznad tih razina, što bi signaliziralo nastavak uzlaznog momentuma.  
 
-Bitcoin trgovci upozoravaju na 12% mjesečno pad kako Solana vodi mažoretkinje
+U međuvremenu, na širem tržištu trgovci upozoravaju na moguć **mjesečni pad Bitcoina od 12%**, dok **Solana (SOL)** predvodi među većim kriptovalutama s najjačim dobicima.  
 
-Trgovci kažu da kombinacija makro nesigurnosti, krhkih osjećaja i količina prorjeđivanja ostavlja malo prostora za pogreške u ono što je povijesno bio najteži mjesec na
+---
+
+**Osvrt:**  
+XRP pokazuje snagu zahvaljujući institucionalnoj podršci, ali ključ ostaje u probijanju otpora na 3,30 USD. Bez jasnog proboja, sentiment može brzo oslabiti, posebno uz rizični rujan za kripto tržišta.
