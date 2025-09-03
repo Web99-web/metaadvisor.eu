@@ -1,35 +1,32 @@
 ---
-title: "Bitcoin Derivate Händler setzen trotz September -Risiken auf weitere Aufwärtstrend - entschlüsseln"
+title: "Bitcoin-Derivate: Händler wetten auf weiteren Anstieg trotz September-Risiken | Decrypt"
 date: 2025-09-03T04:47:13Z
 category: "crypto"
 translationKey: "46c5331a72e390b92ababa7a0cbfd999"
 source: "Decrypt"
 source_url: "https://decrypt.co/337835/bitcoin-derivatives-traders-further-upside-despite-september-risks"
-summary: "Bitcoin -Händler bleiben hoffnungsvoll, versichern jedoch ihre Nachteile, wobei einige deutliche Kürzungen im September die bärische Saisonalität dämpfen könnten."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-09-03-bitcoin-derivatives-traders-are-betting-on-further-upside-despite-september-risk.jpg"
+summary: "Bitcoin-Derivatehändler bleiben optimistisch, auch wenn makroökonomische Unsicherheit und die saisonal schwache September-Phase Vorsicht erfordern."
+tags: ["bitcoin", "BTC", "crypto", "derivate", "optionen", "futures"]
+image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
 ---
 
-Bitcoin Derivatehändler setzen trotz September -Risiken auf weitere Aufwärtstrend
+Händler von Bitcoin-Derivaten erwarten im September eine eher optimistische Stimmung trotz makroökonomischer Unsicherheit und saisonaler Risiken, wobei die Abwärtsvolatilität gedämpft bleibt.
 
-Derivate Händler erwarten im September einen etwas optimistischeren Ausblick für Bitcoin trotz makroökonomischer Unsicherheit und Saisonalitätswahrscheinlichkeiten, wobei Experten gedämpfte Downside -Volatilität anzeigen.
+Bitcoin ist in den letzten zwei Tagen um 3% gestiegen, zeigt einen leichten bullischen Ton und wird laut CoinGecko derzeit bei rund 110.000 US-Dollar gehandelt.
 
-Als Reaktion darauf hat Bitcoin in den letzten zwei Tagen 3% gekommen, wodurch ein leichtes Bullish -Versatz gezeigt wird und derzeit rund 110.000 US -Dollar gehandelt hat, wie Coingecko -Daten zeigen.
+Dieser Anstieg erfolgt trotz flacher kumulativer Volumendeltas, mit einem bemerkenswerten Anstieg passiver Gebote bei einer Orderbuch-Tiefe von 10%, so Daten von CoinGlass. Mit anderen Worten: Der Preisanstieg wird nicht von aggressivem Kauf getrieben, sondern fällt mit mehr passiven Orders zusammen.
 
-Der Anstieg tritt jedoch inmitten von flachen kumulativen Volumendeltas auf, wobei die passiven Gebote nach Coinglass -Daten auf 10% ige Bestellbuchtiefe merklich gestiegen sind.
+Gleichzeitig ist das offene Interesse an Perpetuals in den letzten zwei Tagen um 2,35% auf 30 Milliarden US-Dollar gestiegen, da sich Händler vor den anstehenden US-Arbeitsmarktdaten positionieren.
 
-Mit anderen Worten, die leichte Preisanstrengung wird nicht vom aggressiven Kauf getrieben.Stattdessen fällt der Schritt mit passiver Kauf zusammen.
+Die historische Baisse-Saisonalität im September zwingt US-Investoren dazu, ihre Positionen zu überdenken, da das Finanzjahr am 30. September endet.
 
-Es kommt, dass offene Zinsen für Perpetuals in den letzten zwei Tagen 2,35% auf 30 Milliarden US -Dollar zugewandt haben, da die Händler vor den Beschäftigungszahlen dieser Woche zu positionieren beginnen.
+Der Bitcoin-Optionsmarkt erzählt jedoch eine andere Geschichte. Sean Dawson, Forschungsleiter der On-Chain-Optionsplattform Dervie, sagte gegenüber Decrypt, dass Optionshändler bullische Wetten auf den 26. September setzen, was durch den Aufbau offener Interessen bei 120.000, 130.000 und 140.000 US-Dollar belegt wird.
 
-Der historische Zug der bärischen Saisonalität des Septembers zwingt die US -Investoren, ihre Positionen voranzukommen, wenn sie am Ende des Geschäftsjahres am 30. September zu sehen sind.
+„Da Market Maker netto Long Gamma sind,“ wird ein Anstieg des Bitcoin-Preises wahrscheinlich durch Hedge-Verkäufe gedämpft. Ebenso werden Preisrückgänge minimiert, da Händler gezwungen wären, zu kaufen, um ihre Positionen abzusichern, fügte Dawson hinzu.
 
-Der Bitcoin -Optionsmarkt erzählt unterdessen eine andere Geschichte.
+Die implizite Volatilität für die nächsten 30 Tage liegt bei rund 30% und unterstreicht die jüngste Phase gedämpfter Preisbewegungen.
 
-Sean Dawson, Leiter der Forschung auf der On-Chain-Optionsplattform Dervie, erklärte entschlüsselt, dass Optionshändler optimistische Wetten für die Ablauf am 26. September machen, was sich durch einen Aufbau von offenen Zinsen bei 120.000 USD, 130.000 USD und 140.000 US-Dollar belegt.
+---
 
-"Da Markthersteller ein Netto -Long -Gamma sind", wird ein Anstieg des Bitcoin -Preises höchstwahrscheinlich durch den Verkauf von Hecke gedämpft, sagte Dawson.In ähnlicher Weise werden die Preisabfälle ebenfalls minimiert, da die Händler gezwungen wären, ihre Position abzusichern.
-
-Die implizite Volatilität von Bitcoin in den nächsten 30 Tagen liegt bei fast 30%und unterstrich die jüngsten Abschnitte der gedämpften Preisbewegungen.
-
-Trotzdem Händler
+**Unser Kommentar:**  
+Trotz der bekannten September-Schwäche bleibt die Stimmung am Derivatemarkt bullish. Die Optionsdaten deuten darauf hin, dass das Vertrauen in Bitcoin stark bleibt, auch wenn Absicherungsstrategien kurzfristige Schwankungen abfedern könnten.
