@@ -1,35 +1,32 @@
 ---
-title: "Trgovci derivata Bitcoin -a klade se na daljnju naopako unatoč rujnu - dešifrira"
+title: "Bitcoin derivati: trgovci se klade na daljnji rast unatoč rizicima rujna | Decrypt"
 date: 2025-09-03T04:47:13Z
 category: "crypto"
 translationKey: "46c5331a72e390b92ababa7a0cbfd999"
 source: "Decrypt"
 source_url: "https://decrypt.co/337835/bitcoin-derivatives-traders-further-upside-despite-september-risks"
-summary: "Trgovci Bitcoin -om ostaju nadaju, ali štite svoje nedostatke, s nekim nagovještavanjem smanjenja stope moglo bi umanjiti rujansku sezonsku sezonu."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-09-03-bitcoin-derivatives-traders-are-betting-on-further-upside-despite-september-risk.jpg"
+summary: "Trgovci derivatima na Bitcoin ostaju optimistični, iako povijesna sezonalnost rujna i makro rizici donose oprez."
+tags: ["bitcoin", "BTC", "crypto", "derivati", "options", "futures"]
+image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
 ---
 
-Trgovci derivata Bitcoin -a klade se na daljnje naopako unatoč rujna rizika
+Trgovci derivatima na Bitcoin očekuju umjereno optimističan rujan unatoč makroekonomskoj nesigurnosti i sezonskim pritiscima, uz smanjenu volatilnost na silaznoj strani.
 
-Trgovci derivata očekuju nešto optimističnije izglede za Bitcoin u rujnu, unatoč makroekonomskoj nesigurnosti i izgledima sezonalnosti, a stručnjaci su ukazali na prigušenu nestabilnost.
+Bitcoin je u posljednja dva dana porastao za 3%, pokazujući blagi bikovski ton i trenutno se trguje oko 110.000 dolara, prema podacima CoinGecka.
 
-Kao odgovor, Bitcoin je odskočio 3% u posljednja dva dana, pokazujući laganu bikovsku košulju i trenutno trguje oko 110.000 dolara, pokazuju podaci Coingecko.
+Međutim, ovaj rast dolazi usprkos ravnim kumulativnim volumenima, uz primjetan porast pasivnih naloga na 10% dubine knjige, pokazuju podaci CoinGlassa. Drugim riječima, rast cijene ne dolazi od agresivne kupnje, već od pasivnih naloga.
 
-Međutim, pojava se pojavljuje usred ravnih kumulativnih volumena delta, s primjetnim porastom pasivnih ponuda na dubini knjige od 10%, prema podacima Coinglass -a.
+Istodobno, otvoreni interes na perpetualsima skočio je 2,35% na 30 milijardi dolara u posljednja dva dana, dok se trgovci pozicioniraju uoči ovog tjedna ključnih podataka o zapošljavanju.
 
-Drugim riječima, lagana kvrga cijena ne pokreće agresivna kupovina.Umjesto toga, potez se podudara s pasivnijom kupnjom.
+Povijesna sezonalnost rujna, koja je često medvjeđa za Bitcoin, tjera američke investitore da preispitaju svoje pozicije kako se približava kraj fiskalne godine 30. rujna.
 
-Dolazi kao otvorena kamata na Perpetuals, u posljednja dva dana povećala je 2,35% na 30 milijardi dolara, jer trgovci počinju pozicionirati uoči podataka o zapošljavanju ovog tjedna.
+Tržište opcija na Bitcoin, međutim, priča drugu priču. Sean Dawson, voditelj istraživanja na on-chain opcijskoj platformi Dervie, rekao je za Decrypt da opcijski trgovci zauzimaju bikovske pozicije za isteke 26. rujna, što potvrđuje rast otvorenog interesa na strikeovima od 120.000, 130.000 i 140.000 dolara.
 
-U međuvremenu, povijesno povlačenje rujne sezone sezone prisiljava američke investitore da preispitaju svoje stavove unaprijed, jer gledaju pred kraj financijske godine 30. rujna.
+„Budući da su market makeri neto long gamma,“ porast cijene Bitcoina vjerojatno će biti prigušen hedge prodajom. Slično, pad cijene također će biti ublažen jer bi trgovci morali kupovati radi zaštite svojih pozicija, dodao je Dawson.
 
-U međuvremenu, tržište opcija Bitcoin pripovijeda drugačiju priču.
+Implicirana volatilnost za idućih 30 dana ostaje oko 30%, što potvrđuje razdoblje smirenih kretanja cijene.
 
-Sean Dawson, šef istraživanja na platformi za opcije na lancu Dervie, rekao je Decrypt da trgovci opcija prave Bullish oklade za istek isteka 26. rujna, svjedočivši nakupljanjem otvorenih kamata na 120.000, 130.000 USD i 140.000 dolara.
+---
 
-"Budući da su proizvođači tržišta neto dugačka gama", povećanje cijene Bitcoina najvjerojatnije će biti prigušeno prodajom zaštite, rekao je Dawson.Slično tome, pad cijena također će biti minimiziran jer bi trgovci bili prisiljeni kupiti kako bi zaštitili svoje položaje.â
-
-Bitcoin je podrazumijevao volatilnost u narednih 30 dana u blizini 30%, podvlačeći nedavni potezi prigušenih cijena.
-
-Ipak, trgovci
+**Osvrt:**  
+Unatoč sezonskim rizicima rujna, derivatna tržišta pokazuju optimizam. Snažna podrška na opcijama sugerira da bi Bitcoin mogao probiti nove razine, iako hedge dinamika može prigušiti nagle pomake.
