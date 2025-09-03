@@ -1,24 +1,26 @@
 ---
-title: "Vijesti RWA: Tehnologije Mikea Cagneyja traži 4,13B procjene dolara u NASDAQ IPO"
+title: "RWA vijesti: Figure Technologies cilja IPO vrijednost od 4,13 mlrd. USD na Nasdaqu"
 date: 2025-09-03T04:07:46Z
 category: "news"
 translationKey: "5180e40e12d7acaa2f5985d4c851a6cd"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/03/mike-cagney-s-figure-technologies-seeks-over-usd4b-valuation-in-nasdaq-ipo"
-summary: "Slika Technologies nastoji prikupiti čak 526 milijuna dolara pri vrijednosti preko 4 milijarde dolara prodajom dionica."
-image_url: "/news/2025-09-03-rwa-news-mike-cagneys-figure-technologies-seeks-413b-valuation-in-nasdaq-ipo.png"
+summary: "Figure Technologies planira prikupiti do 526 milijuna USD kroz IPO, uz procijenjenu valuaciju veću od 4 mlrd. USD."
+tags: ["RWA", "FIGR", "IPO", "Nasdaq", "blockchain", "stablecoin", "crypto"]
+image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
 ---
 
-Slika Technologies, Blockchain zajmodavac koji je osnovao suosnivač SOFI-ja Mike Cagney, cilja na procjenu do 4,13 milijardi USD u svojoj nadolazećoj početnoj javnoj ponudi, prema novim podnescima s američkom Komisijom za vrijednosne papire.
+**Figure Technologies**, blockchain zajmodavac kojeg je osnovao Mike Cagney (suosnivač SoFi-ja), cilja valuaciju do **4,13 milijardi USD** u svom nadolazećem **inicijalnom javnom ponudom (IPO)**, prema novim prijavama američkoj Komisiji za vrijednosne papire (SEC).
 
-Tvrtka i njezini podupirači žele prikupiti čak 526 milijuna dolara prodajom dionica, čineći figuru najnoviju kripto povezanu tvrtku za testiranje tržišta dionica kao apetit za investitore za nove popise.
+Tvrtka i njezini ulagači žele prikupiti do **526 milijuna USD** prodajom dionica, čime Figure postaje najnovija kripto-povezana firma koja testira tržište kapitala u trenutku povratka apetita ulagača za novim listanjima.
 
-Dionice su postavljene na trgovinu na NASDAQ -u pod oznakom Fikr, a Goldman Sachs, Jefferies i BofA Securities vodeći u sindikatu osiguranja.
+Dionice će se trgovati na **Nasdaqu** pod tickerom **FIGR**, a glavnu ulogu u plasmanu imaju Goldman Sachs, Jefferies i BofA Securities.
 
-Slika je ugledni igrač u stvarnom sektoru imovine (RWA), podrijetlom više od 16 milijardi dolara u kapitalu kućnih kapitalnih linija koristeći svoje provenične staze.
+Figure je značajan igrač u sektoru **real-world assets (RWA)**, s više od **16 milijardi USD** odobrenih kredita na temelju kućnog kapitala, koristeći vlastiti **Provenance blockchain**.
 
-Početkom ove godine spojio se s tržištima figura, još jednim Cagneyjevim pothvatom koji upravlja blockchain tržištem i izdaje YDLS, stabilni stabilni prinos strukturiran kao tokenizirani fond za tržište novca.
+Ranije ove godine spojila se s **Figure Markets**, još jednim Cagneyjevim projektom koji vodi blockchain tržište i izdaje **YDLS**, stablecoin s prinosom strukturiran kao tokenizirani fond tržišta novca.
 
-Bitcoin trgovci upozoravaju na 12% mjesečno pad kako Solana vodi mažoretkinje
+---
 
-Trgovci kažu da kombinacija makro nesigurnosti, krhkih osjećaja i količina prorjeđivanja ostavlja malo prostora za pogreške u ono što je povijesno bio najteži mjesec na
+**Osvrt:**  
+IPO Figure Technologies dodatno potvrđuje rast interesa za RWA sektor. Ako tržište prihvati valuaciju od 4 mlrd. USD, to bi moglo otvoriti vrata i drugim blockchain tvrtkama da potraže kapital kroz tradicionalne burze.
