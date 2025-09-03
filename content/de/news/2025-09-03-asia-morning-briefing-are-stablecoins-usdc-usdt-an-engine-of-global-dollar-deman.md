@@ -26,9 +26,9 @@ Die Debatte setzte sich in einer jüngsten Folge des Goldman Sachs-Podcasts Exch
 
 „Als ein Dollar-Geldmarktfonds 2008 auf 97 Cent fiel, brach Panik aus, Ansteckungsängste verbreiteten sich, und die Regierung griff ein, um die Fonds zu garantieren“, sagte er.
 
-Der ehemalige US-Währungskontrolleur Brian Brooks entgegnete im Podcast, dass der neue GENIUS Act...
+Der ehemalige US-Währungskontrolleur Brian Brooks entgegnete im Podcast, dass der neue GENIUS Act stabile Rahmenbedingungen schaffen könnte, um Risiken einzudämmen und die Wiederholung einer Krise zu verhindern.  
 
 ---
 
 **Unser Kommentar:**  
-Stablecoins haben sich vom Nischenprodukt zu einem zentralen Akteur im Finanzsystem entwickelt. Sie könnten Märkte stabilisieren – oder im Ernstfall eine neue Finanzkrise lostreten.
+Stablecoins haben sich vom Nischenprodukt zu einem zentralen Akteur im Finanzsystem entwickelt. Mit klaren Regeln könnten sie Stabilität schaffen – ohne Regulierung jedoch droht die Gefahr, im Ernstfall eine neue Finanzkrise auszulösen.
