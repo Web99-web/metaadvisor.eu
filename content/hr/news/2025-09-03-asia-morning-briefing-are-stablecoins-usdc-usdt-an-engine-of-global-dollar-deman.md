@@ -20,15 +20,15 @@ Sektor se gotovo udvostručio u godinu dana na 280 milijardi dolara, pri čemu v
 
 „Sljedeći korak je unifikacija – stablecoini su izgradili infrastrukturu, sada trebaju ujedinjeno tržište koje donosi likvidnost, učinkovitost i pravu korisnost za investitore,“ dodala je.
 
-Analitičari Coinbasea predviđaju da bi tržište moglo narasti na 1,2 bilijuna dolara do 2028., što bi prisililo na otkup trezorskih zapisa u vrijednosti od 5,3 milijarde dolara tjedno. Priljevi bi mogli neznatno smanjiti prinose, ali rizik je obrnut: masovni otkupi mogli bi izazvati prisilne prodaje obveznica i iscrpljivanje likvidnosti.
+Analitičari Coinbasea predviđaju da bi tržište moglo narasti na 1,2 bilijuna dolara do 2028., što bi zahtijevalo kupnju trezorskih zapisa u vrijednosti od 5,3 milijarde dolara tjedno. Priljevi bi mogli neznatno smanjiti prinose, ali rizik je obrnut: masovni otkupi mogli bi izazvati prisilne prodaje obveznica i iscrpljivanje likvidnosti.
 
 Rasprava se nastavila u nedavnoj epizodi Goldman Sachs podcasta Exchanges, gdje je Barry Eichengreen s UC Berkeleyja upozorio da bi stablecoini mogli replicirati paniku fondova tržišta novca iz 2008.
 
 „Kad je udio dolara u fondu 2008. pao na 97 centi, izbila je panika, proširio se strah od zaraze i vlada je morala intervenirati kako bi jamčila fondove,“ rekao je.
 
-Bivši američki kontrolor valute Brian Brooks u podcastu je pak istaknuo da novi GENIUS Act, koji...
+Bivši američki kontrolor valute Brian Brooks u podcastu je pak istaknuo da novi GENIUS Act pruža okvir za regulaciju stablecoina, čime se rizici mogu ublažiti i izbjeći scenarij poput 2008.  
 
 ---
 
 **Osvrt:**  
-Stablecoini su od „dosadnog“ instrumenta postali poluga globalnih financija. Pitanje je hoće li donijeti stabilnost tržištima ili ćemo u krizi likvidnosti ponovno gledati scenarij sličan 2008.
+Stablecoini su od „dosadnog“ instrumenta postali poluga globalnih financija. Ako regulacija poput GENIUS Acta zaživi, mogli bi ojačati stabilnost sustava – no u suprotnom, nagli odljevi mogli bi postati okidač nove krize likvidnosti.
