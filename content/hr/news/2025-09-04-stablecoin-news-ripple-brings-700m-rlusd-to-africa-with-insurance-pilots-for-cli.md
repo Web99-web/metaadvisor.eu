@@ -1,24 +1,26 @@
 ---
-title: "STABECOIN VIJESTI: Ripple donosi RLUSD od 700 milijuna dolara u Afriku s pilotima osiguranja za klimatsko olakšanje"
+title: "Stablecoin vijesti: Ripple donosi 700 mil. USD RLUSD u Afriku s osiguranjem za klimatske rizike"
 date: 2025-09-04T05:00:00Z
-category: "news"
+category: "crypto"
 translationKey: "7a027aa3128246a815d919a13fdd64ba"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/04/ripple-brings-usd700m-rlusd-stablecoin-to-africa-trials-extreme-weather-insurances"
-summary: "Stablecoini dobivaju privlačnost u prekograničnim plaćanjima, posebno na tržištima u nastajanju gdje je pristup pouzdanim valutama i bankama ograničen."
-image_url: "/news/2025-09-04-stablecoin-news-ripple-brings-700m-rlusd-to-africa-with-insurance-pilots-for-cli.jpg"
+summary: "Stablecoini sve više dobivaju na važnosti u prekograničnim plaćanjima, osobito na tržištima u razvoju gdje je pristup pouzdanim valutama i bankama ograničen."
+tags: ["Ripple", "Stablecoin", "RLUSD", "Afrika", "klima", "kripto"]
+image_url: "https://images.pexels.com/photos/4386373/pexels-photo-4386373.jpeg"
 ---
 
-Ripple, tvrtka za digitalnu imovinu usmjerenu na plaćanje, proširuje svoj američki dolarski stabblecoin ripple USD (RLUSD) na institucije u Africi kroz nova partnerstva s distributorima Chipper Cash, Valr i Yellow Card.
+Ripple, tvrtka usmjerena na digitalna plaćanja, širi svoj stablecoin vezan uz američki dolar Ripple USD (RLUSD) na afričke institucije kroz nova partnerstva s Chipper Cashom, VALR-om i Yellow Cardom.  
 
-Nastojanje je pružiti tvrtkama na cijelom kontinentu pristup stabilnom, digitalnom dolaru dizajniranom za prekogranična plaćanja, likvidnosti i nagodbe na lancu, navodi tvrtka u priopćenju za javnost u srijedu.
+Cilj je omogućiti tvrtkama na kontinentu pristup stabilnom digitalnom dolaru namijenjenom prekograničnim plaćanjima, likvidnosti i on-chain namirama.  
 
-RLUSD, pokrenut krajem 2024. godine, a izdao njujorška tvrtka za povjerenje koje je reguliralo Državno Ministarstvo za financijske usluge, narasla je na više od 700 milijuna dolara opskrbe Ethereum ETH 4.363,45 USD i XRP Ledger (XRP), pokazuju podaci RWA.Xyz.Token bi se mogao koristiti za trezorske operacije, doznake i kao kolateral za trgovinsku tokeniziranu imovinu poput robe ili vrijednosnih papira, rekao je Ripple.
+RLUSD, pokrenut krajem 2024. i izdan od strane njujorškog trusta pod regulacijom lokalnog DFS-a, narastao je na više od 700 milijuna USD u opticaju na Ethereum mreži (ETH) i XRP Ledgeru (XRP), pokazuju podaci RWA.xyz. Token se može koristiti za trezorske operacije, doznake i kao kolateral za trgovanje tokeniziranom imovinom poput roba ili vrijednosnica.  
 
-Proširenje Ripplea dolazi jer se Stablecoins pojavljuje kao jeftinija i brža alternativa tradicionalnim kanalima plaćanja, posebno na tržištima u nastajanju, gdje je pristup pouzdanim valutama i bankarstvu često ograničen.U dijelovima Afrike, stanovnici već koriste digitalne dolare poput USDT-a za štednju ili prekogranične transfere, rekli su izvještaj Castle Islanda i Brevan Howard.RLUSD -ov unos uvodi reguliranu alternativu usmjerenu na institucionalne korisnike, segment koji se suočava s izazovima pristupa stabilnoj likvidnosti u lokalnim valutama.
+Širenje RLUSD-a dolazi u trenutku kada stablecoini postaju jeftinija i brža alternativa tradicionalnim kanalima plaćanja, posebice na tržištima gdje je pristup valutama i bankama ograničen. U nekim dijelovima Afrike stanovnici već koriste digitalne dolare poput USDT-a za štednju ili prekogranične transfere. RLUSD uvodi reguliranu alternativu usmjerenu na institucionalne korisnike, koji se suočavaju s izazovima u pristupu stabilnoj likvidnosti u lokalnim valutama.  
 
-Paralelno, Mercy Corps Ventures testira RLUSD u inicijativama osiguranja klimatskih rizika u Keniji.U jednom suđenju, sredstva Stablecoin se automatski oslobađaju kada satelitski podaci signalizira uvjeti suše.Drugi pilot podupire osiguranje oborina, s isplatama koje su pokrenule ekstremne vremenske događaje.
+Istodobno, Mercy Corps Ventures testira RLUSD u inicijativama osiguranja od klimatskih rizika u Keniji. U jednom pilotu, sredstva u stablecoinu automatski se isplaćuju kada satelitski podaci signaliziraju sušu. Drugi projekt pokriva osiguranje od obilnih kiša, s isplatama koje se pokreću kod ekstremnih vremenskih uvjeta.  
 
-Pročitajte više: Ripple da biste kupili Stablecoin plaćanje tvrtke Rail za 200 milijuna dolara kako bi se pojačalo RLUSD
+---
 
-'NFTS se pokazao kao hir ", kaže Kevin
+**Osvrt:**  
+Ripple RLUSD želi postaviti kao više od običnog stablecoina – kao alat za *stvarni društveni učinak*. Ako pilot-projekti uspiju, to bi mogao biti primjer kako kripto pomaže rješavati globalne izazove.
