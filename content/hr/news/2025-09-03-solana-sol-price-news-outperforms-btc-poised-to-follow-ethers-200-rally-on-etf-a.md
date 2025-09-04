@@ -23,4 +23,4 @@ Prvi američki Solana ETF pokrenut je u srpnju (futures-based), dok spot proizvo
 ---
 
 **Osvrt:**  
-Solana potvrđ
+Solana potvrđuje status ozbiljnog altcoina. Ako ETF-ovi i trezorski fondovi zaista upumpaju milijarde, SOL bi mogao pratiti ili čak nadmašiti ETH-ovu dinamiku.
