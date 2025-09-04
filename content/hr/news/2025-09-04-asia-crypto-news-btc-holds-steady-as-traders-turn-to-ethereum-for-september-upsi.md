@@ -1,25 +1,30 @@
 ---
-title: "Asia Crypto News: BTC se stalno drži jer se trgovci okreću Ethereumu za rujan naopako"
+title: "Asia Crypto vijesti: BTC miruje dok se trgovci okreću ETH-u za rast u rujnu"
 date: 2025-09-04T00:58:08Z
 category: "crypto"
 translationKey: "f507cb5e32a668527d07751bf8f7e996"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/04/asia-morning-briefing-bitcoin-holds-steady-as-traders-turn-to-ethereum-for-september-upside"
-summary: "QCP zastavi rizik upravljanja i mekši dolar kao repni vjetrovi za živce poput BTC -a i Gold -a, ali Flowdesk -ov Desk i trgovci PolyMarket -a upućuju na ETH -a jer je platna igra na tržištu u rujnu."
-tags: ["crypto"]
-image_url: "/news/2025-09-04-asia-crypto-news-btc-holds-steady-as-traders-turn-to-ethereum-for-september-upsi.jpg"
+summary: "QCP ističe rizik u upravljanju i slabiji dolar kao potporu za BTC i zlato, dok opcijske kuće i prediction marketi vide ETH kao glavni rastući adut u rujnu."
+tags: ["crypto", "BTC", "ETH", "Azija", "tržišta", "opcije", "SOL"]
+image_url: "/images/fallback-finance.jpg"
 ---
 
-Dobrodošli u Asia Morning Briefing, dnevni sažetak najboljih priča tijekom američkih sati i pregled tržišnih poteza i analize.Za detaljan pregled američkih tržišta, pogledajte Coindesk -ov kripto dan knjiženja Americas.
+Dobrodošli u Asia Morning Briefing – dnevni pregled ključnih vijesti tijekom američkih sati i analiza kretanja tržišta.  
 
-Bitcoin je zaglavljen u obrascu držanja blizu 112.000 dolara, prema podacima Coindesk Market -a, ali veća je priča onchain mogla biti podjela između načina na koji ulagači tretiraju BTC i ETH koji kreću u rujan.BTC djeluje više kao makro zaštita, dok je ETH postavljen kao pravo vozilo za naopako.
+Bitcoin (BTC) ostaje u zastoju blizu 112.000 USD, no veća priča je sve jasnija razlika u tretmanu BTC-a i ETH-a pred rujan. BTC se sve više ponaša kao makro zaštita, dok se ETH pozicionira kao glavni instrument za rast.  
 
-Taj razdvajanje odražava mješavinu nesigurnosti politike i prebacivanja tokova trgovaca.U nedavnoj napomeni, QCP Capital je napisao da sumnje u neovisnost Feda drže povišene terminske premije, postavljanje koje slabi dolar i podržava živice poput BTC -a i zlata.
+QCP Capital je u bilješci naveo kako sumnje u neovisnost FED-a drže premije na višim razinama, što slabi dolar i podupire zaštitna ulaganja poput BTC-a i zlata.  
 
-No, stolovi za opcije i tržišta predviđanja pokazuju prikupljanje zamaha u ETH -u, gdje trgovci vide najviše potencijala za proboj.
+Opcijski deskovi i prediction marketi ipak ukazuju da se glavni momentum gradi oko ETH-a, gdje trgovci vide najveći potencijal za probijanje na više razine.  
 
-Flowdesk je izvijestio o prigušenoj impliciranoj volatilnosti u BTC -u unatoč povlačenju, što sugerira pozicioniranje, a ne špekulativne oklade.Skid ostaje negativan, što znači da su stavljanja skupa, ali to stvara relativnu vrijednost u strukturama poziva.U međuvremenu, ETH Risk Reversals se oporavio od svog nedavnog rasprodaje, što ukazuje na obnovljenu potražnju za izloženošću naopako.
+Flowdesk je izvijestio da BTC pokazuje nisku impliciranu volatilnost unatoč korekcijama, što sugerira pozicioniranje umjesto špekulativnih oklada. ETH opcije, pak, bilježe obnovljenu potražnju za “upside” pozicijama.  
 
-Opcije SOL također su primijetile povećane aktivnosti, s protokom iskrivljenim do napretka zbog rastućih osjećaja oko svojih ekosustava i inicijativa za riznicu za digitalnu imovinu korporacije.Spot aktivnost rotirala se u ET -beta imena poput Aave i Aero, kao i sol beta poput Raya i Drift, pokazujući širinu koja se širi izvan majora.
+SOL opcije također su imale pojačanu aktivnost, a spot trgovanje prelijeva se u projekte povezane s ETH-om i SOL-om poput AAVE, AERO, RAY i DRIFT.  
 
-Tržišta predviđanja natrag ovu temu rotacije.Polymarket sentiment pojačava rotaciju.Trgovci očekuju da će BTC ostati ograničen blizu 120 tisuća dolara, dok ETH ima velike šanse da razbije 5000 dolara - pogled u skladu s njegovih 20%
+Na prediction tržištima očekivanja ostaju slična – BTC će ostati ograničen na 120k USD, dok ETH ima veliku šansu probiti 5.000 USD.  
+
+---
+
+**Osvrt:**  
+Azijski investitori sve više gledaju ETH kao glavni motor rasta. Ako se probije granica od 5.000 USD, moglo bi povući cijelo tržište altcoina.
