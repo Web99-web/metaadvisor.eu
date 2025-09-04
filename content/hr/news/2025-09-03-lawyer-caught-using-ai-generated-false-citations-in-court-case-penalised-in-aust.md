@@ -1,31 +1,24 @@
 ---
-title: "Odvjetnik uhvaćen pomoću lažnih citata koji su generirani u sudu u sudu, kažnjeni na australijskom prvom mjestu"
+title: "Odvjetnik kažnjen zbog korištenja AI-generiranih lažnih presedana u sudskom slučaju – australski presedan"
 date: 2025-09-03T03:44:44Z
 category: "ai"
 translationKey: "7be1ccb933ee11a2ad637193463093ac"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-generated-false-citations-in-court-case-penalised-in-australian-first"
-summary: "Viktorijanski odvjetnik je lišio svoje sposobnosti da vježba kao glavni odvjetnik nakon što je priznao da nije potvrdio popis slučajeva"
-tags: ["ai"]
-image_url: "/news/2025-09-03-lawyer-caught-using-ai-generated-false-citations-in-court-case-penalised-in-aust.jpg"
+summary: "Australski odvjetnik ostao bez ovlasti glavnog odvjetnika nakon što je priznao da nije provjerio popis slučajeva koje mu je generirala umjetna inteligencija."
+tags: ["AI", "pravo", "etika", "Australija", "sud", "profesionalna-odgovornost"]
+image_url: "https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg"
 ---
 
-Viktorijanski odvjetnik je lišio svoje sposobnosti da vježba kao glavni odvjetnik nakon što je priznao da nije potvrdio popis slučajeva
+Australski odvjetnik postao je prvi u zemlji koji se suočio s profesionalnim sankcijama zbog korištenja umjetne inteligencije u sudskom slučaju. Oduzeta mu je mogućnost rada kao glavni odvjetnik nakon što je AI generirao lažne pravne presedane koje nije provjerio.  
 
-Pratite naš blog Australia News Live za najnovija ažuriranja
+Prema pisanju Guardian Australia, u srpnju 2024. odvjetnik je sudu dostavio popis prethodnih slučajeva na zahtjev sutkinje Amande Humphreys u vezi s jednim bračnim sporom. No, pokazalo se da navedeni predmeti ne postoje. Odvjetnik je priznao da je popis generiran putem softvera temeljenog na umjetnoj inteligenciji te da nije provjerio njegovu točnost.  
 
-Nabavite našu e -poštu, besplatnu aplikaciju ili dnevne vijesti podcast
+Ponudio je “bezuvjetnu ispriku” sudu i naglasio da će “naučene lekcije zadržati u srcu”, no unatoč tome, sutkinja Humphreys naglasila je važnost upućivanja slučaja na istragu jer je riječ o javnom interesu.  
 
-Viktorijanski odvjetnik postao je prvi u Australiji koji se suočio s profesionalnim sankcijama za korištenje umjetne inteligencije u sudskom slučaju, oduzeta njegova sposobnost da vježba kao glavni odvjetnik nakon što je AI stvorio lažne citate koje nije uspio provjeriti.
+Odvjetnik je također pristao pokriti troškove druge strane za bespotrebno izgubljeno ročište.  
 
-Guardian Australia izvijestio je u listopadu prošle godine da je na saslušanju 19. srpnja 2024. anonimni odvjetnik koji je zastupao muža u sporu između bračnog para pružio sudu popis prethodnih slučajeva koje je zatražila pravda Amanda Humphreys u vezi s prijavom provedbe u tom slučaju.
+---
 
-Kad se Humphreys vratio u svoje komore, rekla je u presudi da ni sama ni njezini suradnici nisu uspjeli identificirati slučajeve na popisu.Kad se stvar vratila na sud, odvjetnik je potvrdio da je popis pripremljen pomoću pravnog softvera koji je koristio AI.
-
-Priznao je da nije potvrdio točnost podataka prije nego što ih je podnio sudu.
-
-Odvjetnik je sudu ponudio "bezuvjetnu ispriku" i rekao da će "uzeti naučene lekcije" i zatražio je da ga ne upućuju na istragu.
-
-Rekao je da u potpunosti ne razumije kako je softver funkcionirao i priznao je potrebu za provjerom istraživanja koje je podržalo AI radi točnosti.Uplatio je odvjetnicima za drugu stranku za troškove bačenog saslušanja.
-
-Humphreys je rekla da je prihvatila ispriku i priznala stres koji je uzrokovao značilo da se malo vjerojatno ponovi, ali važna je preporuka za istragu s obzirom na to da je u javnom interesu
+**Osvrt:**  
+Ovaj slučaj pokazuje da se AI alati ne mogu koristiti bez provjere. Odgovornost za informacije uvijek ostaje na odvjetniku, a ne na tehnologiji. “Vjeruj, ali provjeri” postaje ključno pravilo u eri umjetne inteligencije.
