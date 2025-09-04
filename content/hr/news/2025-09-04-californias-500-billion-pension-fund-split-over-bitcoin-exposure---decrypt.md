@@ -7,7 +7,8 @@ source: "Decrypt"
 source_url: "https://decrypt.co/338039/californias-500-billion-pension-fund-split-over-bitcoin-exposure"
 summary: "Kandidati su podijeljeni oko kripta, iako fond već posjeduje 410.596 dionica Strategyja (bivši MicroStrategy), vrijednih 166 mil. USD, što daje značajnu izloženost Bitcoinu."
 tags: ["bitcoin", "BTC", "crypto", "mirovinski fond", "CalPERS"]
-image_url: "https://images.pexels.com/photos/6770732/pexels-photo-6770732.jpeg"
+image_url: "/images/finance1.jpg"
+
 ---
 
 Kalifornijski mirovinski sustav CalPERS vrijedan 506 mlrd. USD podijelio je kandidate za upravni odbor oko pitanja ulaganja u Bitcoin.  
