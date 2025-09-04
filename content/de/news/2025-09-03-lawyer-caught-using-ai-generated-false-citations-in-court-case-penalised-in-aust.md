@@ -1,31 +1,24 @@
 ---
-title: "Der Anwalt, der in Australier zuerst mit Ai-generierten falschen Zitaten in Gerichtsverfahren bestraft wurde"
+title: "Anwalt bestraft, weil er KI-generierte falsche Zitate im Gerichtsverfahren verwendete – ein australisches Novum"
 date: 2025-09-03T03:44:44Z
 category: "ai"
 translationKey: "7be1ccb933ee11a2ad637193463093ac"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-generated-false-citations-in-court-case-penalised-in-australian-first"
-summary: "Der viktorianische Anwalt hat seine Fähigkeit, als Hauptanwalt zu praktizieren"
-tags: ["ai"]
-image_url: "/news/2025-09-03-lawyer-caught-using-ai-generated-false-citations-in-court-case-penalised-in-aust.jpg"
+summary: "Australischer Anwalt verliert seine Zulassung als Hauptanwalt, nachdem er zugab, eine von KI erstellte Fallliste nicht überprüft zu haben."
+tags: ["KI", "Recht", "Ethik", "Australien", "Gericht", "Berufsverantwortung"]
+image_url: "https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg"
 ---
 
-Der viktorianische Anwalt hat seine Fähigkeit, als Hauptanwalt zu praktizieren
+Ein Anwalt im Bundesstaat Victoria ist der erste in Australien, der berufliche Sanktionen wegen der Nutzung von Künstlicher Intelligenz in einem Gerichtsverfahren erhielt. Ihm wurde die Zulassung als Hauptanwalt entzogen, nachdem KI falsche Zitate generierte, die er nicht überprüft hatte.  
 
-Folgen Sie unserem Australia News Live -Blog für die neuesten Updates
+Im Juli 2024 legte der Anwalt im Auftrag eines Mandanten dem Gericht eine Liste angeblicher Fälle vor, die von Richterin Amanda Humphreys angefordert worden war. Später stellte sich heraus, dass die Fälle nicht existierten. Der Anwalt bestätigte, dass die Liste von einer KI-gestützten Software erstellt wurde, und räumte ein, die Angaben nicht verifiziert zu haben.  
 
-Holen Sie sich unsere E -Mail-, kostenlosen App- oder Daily News -Podcast
+Er entschuldigte sich „vorbehaltlos“ beim Gericht und erklärte, er habe die Lektion gelernt. Trotzdem betonte Richterin Humphreys, dass eine Untersuchung im öffentlichen Interesse notwendig sei.  
 
-Ein viktorianischer Anwalt ist der erste in Australien, der sich mit beruflichen Sanktionen ausgesetzt hat, weil er in einem Gerichtsfall künstliche Intelligenz eingesetzt hat, und seine Fähigkeit zur Praxis als Hauptanwalt befreit wurde, nachdem AI falsche Zitate erzeugt hatte, die er nicht überprüft hatte.
+Darüber hinaus zahlte der Anwalt die Kosten der Gegenseite für das unnötige Verfahren.  
 
-Guardian Australia berichtete im Oktober letzten Jahres, dass in einer Anhörung am 19. Juli 2024 der anonyme Anwalt, der einen Ehemann in einem Streit zwischen einem verheirateten Paar vertrat, dem Gericht eine Liste früherer Fälle zur Verfügung stellte, die von Justiz Amanda Humphreys in Bezug auf einen Durchsetzungsantrag in dem Fall angefordert worden waren.
+---
 
-Als Humphreys in ihre Kammern zurückkehrte, sagte sie in einer Entscheidung, dass sich weder sich selbst noch ihre Mitarbeiter die Fälle in der Liste identifizieren konnten.Als die Angelegenheit vor Gericht zurückkehrte, bestätigte der Anwalt, dass die Liste mit legaler Software erstellt worden war, die KI verwendete.
-
-Er räumte ein, dass er die Richtigkeit der Informationen nicht überprüft habe, bevor er sie dem Gericht vorlegte.
-
-Der Anwalt bot dem Gericht eine „bedingungslose Entschuldigung“ an und sagte, er würde "die Erkenntnisse zu Herzen nehmen" und bat darum, nicht zur Untersuchung verwiesen zu werden.
-
-Er sagte, er habe nicht vollständig verstanden, wie die Software funktioniert hat, und erkannte die Notwendigkeit an, die AI-unterstützte Forschung nach Genauigkeit zu überprüfen.Er zahlte die Anwälte für die andere Partei für die Kosten der weggeworfenen Anhörung.
-
-Humphreys sagte, sie akzeptierte die Entschuldigung und erkannte den Stress an, den er verursachte
+**Unser Kommentar:**  
+Der Fall macht deutlich, dass KI-Werkzeuge niemals blind vertraut werden dürfen. Die Verantwortung für juristische Argumente bleibt immer beim Anwalt – KI ist nur ein Hilfsmittel.
