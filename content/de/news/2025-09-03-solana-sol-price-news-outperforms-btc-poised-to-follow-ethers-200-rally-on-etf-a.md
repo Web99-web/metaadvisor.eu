@@ -1,29 +1,26 @@
 ---
-title: "Solana (SOL) Price News: Outperform btc, die der 200% igen Rallye von ETF und Treasury -Nachfrage folgt"
+title: "Solana (SOL) übertrifft BTC und könnte ETHs 200%-Rallye auf ETF- und Treasury-Nachfrage folgen"
 date: 2025-09-03T19:04:16Z
 category: "crypto"
 translationKey: "f0530570f6b59492246164cc8b4c918e"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/03/solana-outperforms-bitcoin-possibly-poised-to-follow-ether-s-recent-200-rally-says-analyst"
-summary: "Sol ist derzeit der 'offensichtlichste', sagte Arca Cio Jeff Dorman in einem neuen Bericht."
-tags: ["crypto"]
-image_url: "/news/2025-09-03-solana-sol-price-news-outperforms-btc-poised-to-follow-ethers-200-rally-on-etf-a.png"
+summary: "Arca CIO Jeff Dorman: 'SOL ist derzeit der offensichtlichste Long-Trade.'"
+tags: ["Krypto", "Solana", "SOL", "BTC", "ETH", "ETF", "Markt"]
+image_url: "https://images.pexels.com/photos/6770772/pexels-photo-6770772.jpeg"
 ---
 
-Mit Bitcoin BTC $ 110.445,82, die sich nach dem Auftreten von neuen Rekorde über 110.000 USD und Ether (ETH) konsolidieren, hat sich Solana Sol $ 206,80 in letzter Zeit als herausragende Darsteller auf dem Krypto -Markt herausgestellt.
+Während Bitcoin (BTC) knapp über 110.000 USD stagniert und Ether (ETH) nach neuen Rekorden konsolidiert, hat sich **Solana (SOL)** als einer der stärksten Performer am Kryptomarkt herausgestellt.  
 
-Der Token handelte am Montag um 211 US -Dollar, was einem Anstieg von 33% gegenüber dem Anfang August zu einem der besten Performer im Coindesk 20 -Index im vergangenen Monat war.Gegen Bitcoin hat Sol im vergangenen Monat 34% zugenommen und seit Mitte August 14% gegenüber der ETH gestärkt.
+Am Montag lag SOL bei rund 211 USD – ein Plus von 33 % seit den August-Tiefs. Gegenüber BTC gewann SOL 34 % und gegenüber ETH 14 % seit Mitte August.  
 
-Die Rallye spiegelt eine breitere Rotation in Altcoins wider, so Analysten.
+Analysten sehen darin eine breitere Umschichtung in Altcoins. Sergei Gorev von YouHodler erklärte, dass Kapital aus BTC in Projekte wie SOL fließe.  
 
-"Die Saison der Gewinnumverteilung unter Inhabern von Kryptowährungen wird fortgesetzt", sagte Sergei Gorev, Leiter des Risikos bei YouHodler, in einem mit Coindesk geteilten Marktnotiz.Er sagte, die Liquidität habe BTC in zweitklassige Token ausgewandt, wobei "die positive Dynamik der Kapitalströme nach Sol spürbar zunimmt".
+Jeff Dorman, CIO von Arca, sieht Parallelen zu ETHs Rallye Anfang des Jahres: Stablecoin-Adoption, ETF-Zuflüsse und Nachfrage durch Digital Asset Treasuries (DATs) halfen ETH um fast 200 % seit April zu steigen.  
 
-Solche Flüsse könnten langfristig sein, wenn Unternehmensinvestoren nach großen, liquiden Projekten suchen, fügte Gorev hinzu und benannte Sol neben XRP XRP 2,8220 USD als "nächste interessante Marktideen".
+Im Juli startete der erste US-Solana-ETF (Futures-basiert). Spot-Produkte von VanEck und Fidelity warten noch auf Genehmigung. Gleichzeitig sammeln drei Solana-Treasuries bis zu 2,65 Mrd. USD ein.  
 
-Jeff Dorman, Chief Investment Officer bei Arca, tippte SOL, um die Turnaround von Ethether Anfang dieses Jahres zu replizieren.Er wies nach der Einführung von Stablecoin, starken ETF -Zuflüssen und dem unerbittlichen Angebot von Digital Asset Treasuries oder Dats auf die Wiederaufnahme von Stablecoin oder die ETF -Rallye seit April bei der Einführung von Stablecoin und dem unerbittlichen Angebot.
+---
 
-"Sol scheint das genaue Spielbuch zu wiederholen, das ETH in den kommenden Monaten gerade ausgeführt hat", schrieb Dorman in einem neuen Bericht.
-
-Der erste in den USA gelistete Solana ETF wurde im Juli gestartet, aber es basiert auf Futures.Mehrere Vermögensverwalter, darunter Vaneck und Fidelity, haben Spot -Produkte mit Entscheidungen eingereicht, die später in diesem Jahr fällig sind, sagte Dorman.
-
-In der Zwischenzeit sammeln mindestens drei von Solana ausgerichtete Daten Mittel, die bis zu 2,65 Milliarden US
+**Unser Kommentar:**  
+Solana zeigt erneut, dass sie weit mehr als ein Hype-Token ist. Sollte die Kapitalzufuhr via ETF und Treasuries Realität werden, könnte SOL ETHs Entwicklung spiegeln – oder sogar übertreffen.
