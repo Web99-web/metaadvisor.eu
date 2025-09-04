@@ -7,7 +7,7 @@ source: "Decrypt"
 source_url: "https://decrypt.co/338039/californias-500-billion-pension-fund-split-over-bitcoin-exposure"
 summary: "Candidates were divided on crypto, despite the fund's 410,596 shares in Strategy, valued at $166M, providing substantial Bitcoin exposure."
 tags: ["bitcoin", "BTC", "crypto", "pension fund", "CalPERS"]
-image_url: "https://images.pexels.com/photos/6770732/pexels-photo-6770732.jpeg"
+image_url: "/images/finance1.jpg"
 ---
 
 California’s $506 billion public pension system CalPERS revealed a sharp split among board candidates over Bitcoin exposure.  
