@@ -1,30 +1,31 @@
 ---
-title: "Cathie Woods Ark Invest Buy -Figma -Aktien inmitten von 20% nach dem Gewinn - Entschlüsseln"
+title: "Cathie Woods Ark Invest kauft Figma-Aktien nach 20% Kursrückgang nach Gewinnbericht"
 date: 2025-09-05T05:25:42Z
 category: "news"
 translationKey: "ed8d838468aa783928fb9f9269bfae04"
 source: "Decrypt"
 source_url: "https://decrypt.co/338197/cathie-woods-ark-invest-buys-figma-stock-amid-20-post-earnings-drop"
-summary: "Ark Invest gab eine Beteiligung an Figma bekannt, nachdem die ersten Einnahmen die Aktien stürzten, da das Unternehmen betonte, dass es sich auf Design und nicht auf Bitcoin konzentriert."
-image_url: "/news/2025-09-05-cathie-woods-ark-invest-buys-figma-stock-amid-20-post-earnings-drop---decrypt.jpg"
+summary: "Ark Invest meldete eine Beteiligung an Figma, nachdem der erste Quartalsbericht nach dem Börsengang die Aktien einbrechen ließ. Fokus bleibt auf Design, nicht auf Bitcoin."
+tags: ["news", "stocks", "figma", "ark-invest", "cathie-wood", "tesla", "coinbase", "roku", "investing", "etf"]
+image_url: "/images/stock-market-dionice1.jpg"
 ---
 
-Cathie Wood's Ark Invest Buy-Figma-Aktien inmitten von 20% nach dem Erhalt sinken
+**Ark Invest**, das von **Cathie Wood** geleitete Investmentunternehmen mit Sitz in New York, hat über 100.000 Aktien von **Figma** in seinen **ARKW ETF** aufgenommen, nachdem die Aktie nach dem ersten Gewinnbericht seit dem Börsengang fast 20 % gefallen war.
 
-Ark Invest, das in New York ansässige Investmentfirma von Cathie Wood, hat mehr als 100.000 Aktien von Figma zu seinem Arkw-ETF hinzugefügt, nachdem der erste Gewinnbericht des Unternehmens seit der Öffentlichkeit um fast 20% der Aktien zurückgegangen war.
+Die Information wurde über den populären Ark Invest Tracker X-Account veröffentlicht, ist aber noch nicht durch die offiziellen ARK-Unterlagen bestätigt. Decrypt wandte sich an Ark Invest für einen Kommentar, erhielt jedoch keine sofortige Antwort.
 
-Die Offenlegung erfolgte über das beliebte Ark Invest Tracker X -Konto, wurde jedoch noch nicht unabhängig von den öffentlichen Einreichungen von Ark bestätigt.Decrypt wandte sich an Ark Invest um einen Kommentar, erhielt jedoch nicht sofort eine Antwort.
+Der Aktienkauf steht im Einklang mit der bisherigen Strategie von Ark, wachstumsstarke Titel in Phasen der Schwäche zu akkumulieren.  
+„Das ist ein klassischer Cathie-Wood-Move: in Volatilität investieren und Unternehmen unterstützen, die sie als langfristige Disruptoren sieht“, sagte Dan Dadybayo von Unstoppable Wallet.
 
-Laut Dan Dadybayo, Forschungs- und Strategie-Vorsprung bei unaufhaltsamem Brieftasche, einer nicht-kundenspezifischen Open-Source-Krypto-Brieftasche, steht der Kauf von Aktien in Einklang mit Arks Vergangenheit der Vergangenheit, zu hohen Namen und Strategie-Leitungen zu erweitern.
+Im Juli 2025 kaufte Ark etwa 143.000 Aktien von **Tesla**, während gleichzeitig Positionen in **Coinbase** (−34.000 Aktien) und **Roku** (−68.000 Aktien) reduziert wurden, so ein Bericht von Barchart.
 
-Der Kauf beträgt "ein Lehrbuch Cathie Wood Move: Lehnte sich in Volatilität und Backfirmen als langfristige Disruptoren", sagte Dadybayo zu Decrypt.
+Trotz des Kursrückgangs signalisiert Ark Überzeugung, dass Figmas kollaborativer Designvorsprung, Produktdynamik und hohe Margen die kurzfristigen Risiken überwiegen.
 
-Im Juli 2025 kaufte das Unternehmen nach einem Gewinnverkauf etwa 143.000 Tesla -Aktien, während rund 34.000 Coinbase und 68.000 Roku -Aktien als Stimmung verschoben wurden, wie aus einem Bericht des Finanzanalyseunternehmens Barchart hervorgeht.
+**Figma**, die im Juli an die Börse ging, meldete für das Quartal einen Umsatz von **249,6 Mio. USD**, ein Anstieg von 41 % im Jahresvergleich. Steigende Kosten und geringere Margen schürten Zweifel an der Nachhaltigkeit des Wachstums und ließen die Aktien um fast 20 % auf **54,56 USD** fallen.
 
-Trotz der Rutsche in Aktien und dem Ausverkauf scheint Ark "signale Überzeugung" zu sein, dass Figmas kollaboratives Design-Wassergraben, Produktdynamik und hohe Ränder kurzfristige Ausführungsrisiken aufweist ", fügte er hinzu.
+---
 
-Eine solche Haltung könnte "den Abzug als Überreaktionsreaktion" und "Angesichts anderer wachstumsorientierter Investoren, die einen langfristigen Horizont teilen", umrahmen ", sagte Dadybayo.
+## Unser Fazit
 
-Figma, das im Juli an die Börse ging, meldete einen Umsatz von 249,6 Mio. USD für das Quartal, was einem Vorjahresjahr um 41% gestiegen ist.Steigende Kosten und dünnere Margen haben Zweifel an der Fähigkeit zur Erhaltung der frühen Dynamik angeheizt und die Aktien fast 20% auf 54,56 USD gesendet.
-
-Die Firma
+Dies ist ein typischer **Ark Invest** Schachzug – kaufen, wenn andere verkaufen. Cathie Wood setzt seit Jahren auf „disruptive Innovationen“, und Figma passt perfekt in dieses Muster.  
+Allerdings zeigt der 20%-Rückgang, dass der Markt noch nicht von einer schnellen Profitabilität überzeugt ist. Langfristig könnte Figma bei anhaltendem Wachstum von über 40 % jedoch ein weiterer **Tesla-ähnlicher** Erfolg im Ark-Portfolio werden.
