@@ -1,27 +1,32 @@
 ---
-title: "Crypto Treasury News: Mega Matrix (MPU) Akten $ 2b Regal zur Finanzierung von Ethena (ENA) Wette"
+title: "Krypto Treasury News: Mega Matrix (MPU) beantragt 2 Mrd. USD zur Finanzierung der Ethena (ENA) Wette"
 date: 2025-09-04T18:54:50Z
 category: "crypto"
 translationKey: "2af14baf4edc5c1a4a1bee8d5e3d81db"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/04/mega-matrix-files-usd2b-shelf-to-fund-crypto-treasury-bet-on-ethena"
-summary: "Die festen Augen profitieren von dem raschen Wachstum des digitalen Dollars von Ethena, der sich in einen breiteren Trend der börsennotierten Unternehmen entspricht, die Kryptowährungen sammeln."
-tags: ["crypto"]
-image_url: "/news/2025-09-04-crypto-treasury-news-mega-matrix-mpu-files-2b-shelf-to-fund-ethena-ena-bet.jpg"
+summary: "Das Unternehmen möchte vom schnellen Wachstum des Ethena-Dollars USDe profitieren und folgt damit dem Trend börsennotierter Firmen, Kryptowährungen zu akkumulieren."
+tags: ["crypto", "mega matrix", "mpu", "ethena", "ena", "usde", "bitcoin", "btc", "ethereum", "eth", "defi", "schatzkammer"]
+image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
 ---
 
-Die in der NYSE gelistete Firma Mega Matrix (MPU) reichte am Donnerstag eine Regalregistrierung von 2 Milliarden US-Dollar ein, um ein digitales Vermögensschein auf ENA (ENA), das Governance-Token von Stablecoin Protocol Ethena, einzurichten.
+Das an der NYSE notierte Unternehmen Mega Matrix (MPU) hat am Donnerstag eine Registrierung über 2 Milliarden USD eingereicht, um eine digitale Schatzkammer mit Fokus auf ENA, den Governance-Token des Stablecoin-Protokolls Ethena, aufzubauen.  
 
-Laut der Einreichung bei der Securities and Exchange Commission (SEC) könnte das Unternehmen bis zu 2 Milliarden US -Dollar an Wertpapieren verkaufen, wobei Pläne für die Nutzung von Erlös aus zukünftigen Angeboten zur Anhäufung von Krypto -Vermögenswerten sind.
+Laut der Einreichung bei der US-Börsenaufsicht SEC könnte das Unternehmen bis zu 2 Milliarden USD an Wertpapieren verkaufen, um mit den Erlösen künftig Krypto-Assets zu akkumulieren.  
 
-Die Aktie des Unternehmens ging bis zu 6% zurück, bevor sie sich nach den Nachrichten erholte.Es ist immer noch um fast 30% gesunken, seit das Unternehmen am 25. August seinen Krypto -Pivot offenbarte.
+Die Aktien des Unternehmens fielen zunächst um 6 %, erholten sich jedoch nach der Nachricht. Seit der Ankündigung des Krypto-Pivots am 25. August liegen sie dennoch fast 30 % im Minus.  
 
-Mit dem Umzug sagte Mega Matrix, das erste öffentlich gehandelte Unternehmen zu sein, der sein digitales Vermögensgeld in Stablecoin Governance verankert, indem er den Ena -Token von Ethena versteckte.
+Mega Matrix erklärte, dass sie das erste börsennotierte Unternehmen sein wollen, das seine digitale Schatzkammer durch Stablecoin-Governance aufbaut – mit der Einlagerung von Ethenas ENA-Token.  
 
-Ethena ist das dezentrale Finanzprotokoll (Decralized Finance), das hinter dem 12 -Milliarden -Dollar -USD "Digital Dollar", einem Token, der einen stetigen Preis von 1 USD beibehält und Renditen erzielt und Spot -Kryptowährungen wie Bitcoin BTC BTC $ 11.602.18, Ether (Eth) verkauft (Eth) verkauft hat (Verknüpfung).Das Governance Token ENA des Protokolls könnte von Protokolleinnahmen profitieren, sobald der Mechanismus aktiviert ist.
+Ethena ist das DeFi-Protokoll hinter dem „digitalen Dollar“ USDe im Wert von 12 Mrd. USD, ein Token, der den Kurs bei 1 USD stabil halten und Renditen erwirtschaften soll, indem er Spot-Kryptowährungen wie Bitcoin (BTC) und Ether (ETH) hält, während gleichzeitig Derivate leerverkauft werden. Der Governance-Token ENA könnte profitieren, sobald der Mechanismus aktiviert ist.  
 
-Im Juli kündigte ein neu geformtes Unternehmen namens Stablecoinx ähnliche Pläne an, durch eine SPAC-Fusion an die Börse zu gehen und ein ENA-Schatzmeister zu gründen, was darauf abzielt, den Deal bis Ende des Jahres abzuschließen.
+Im Juli kündigte ein neu gegründetes Unternehmen namens StablecoinX ähnliche Pläne an, durch eine SPAC-Fusion an die Börse zu gehen und eine ENA-Schatzkammer einzurichten, mit dem Ziel, den Deal bis Jahresende abzuschließen.  
 
-Digital Asset Treasury Firmen oder Dats übernahmen Wall Street im Sturm, wobei die börsennotierten Unternehmen Kryptowährungen sammelten, indem sie Spenden auf traditionellen Kapitalmärkten einbrachten.Strategy (MSTR) war dieses Spielbuch als größter Firmeninhaber von Bitcoin, während die jüngsten Teilnehmer zunehmend auf kleinere Token konzentrierten.
+Digitale Schatzkammer-Firmen (DATs) haben die Wall Street im Sturm erobert, da börsennotierte Unternehmen begannen, Kryptowährungen über traditionelle Kapitalmärkte zu akkumulieren. MicroStrategy (MSTR) war der Pionier dieser Strategie und ist heute der größte Unternehmenshalter von Bitcoin, während neue Player zunehmend kleinere Tokens ins Visier nehmen.  
 
-Der Trend hat jedoch möglicherweise bereits mit mehreren Namen geplant, die in den letzten Monaten 70% -80% und einige bereits tauchen
+Allerdings scheint der Trend bereits zu platzen, da mehrere Namen in den letzten Monaten 70–80 % verloren haben und einige den Markt bereits verlassen haben.  
+
+---
+
+### MetaAdvisor-Kommentar:
+Mega Matrixs 2-Mrd.-USD-Wette auf Ethena zeigt, wie sich das Konzept der Krypto-Schatzkammern entwickelt. Während MicroStrategy Bitcoin zum Standard gemacht hat, experimentieren neue Unternehmen mit Stablecoin-Governance-Tokens wie ENA. Die Strategie ist riskanter, positioniert die Firmen jedoch an der Spitze der DeFi-Adoption.
