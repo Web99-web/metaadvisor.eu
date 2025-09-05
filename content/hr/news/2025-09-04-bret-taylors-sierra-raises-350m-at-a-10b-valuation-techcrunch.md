@@ -6,8 +6,8 @@ translationKey: "60ecbe57e2785631b57d0e395adbaeef"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/"
 summary: "Startup Sierra za AI agente u korisničkoj službi tvrdi da ima stotine klijenata, uključujući SoFi, Ramp i Brex."
-tags: ["ai"]
-image_url: "https://techcrunch.com/wp-content/uploads/2025/09/sierra-ai-bret-taylor.jpg"
+tags: ["ai", "bret taylor", "sierra", "salesforce", "google", "facebook", "elon musk", "customer service", "apx program"]
+image_url: "https://images.pexels.com/photos/11813168/pexels-photo-11813168.jpeg"
 ---
 
 Investitori su očito optimistični u vezi s AI startupom Sierra, koji je osnovao bivši suosnivač i suizvršni direktor Salesforcea, Bret Taylor.  
@@ -25,3 +25,8 @@ Kao što je TechCrunch ranije izvijestio, Taylor i Bavor imaju dugu povijest u t
 Taylor je upoznao Bavora dok je radio u Googleu, prije nego što je nekoliko godina služio kao CTO Facebooka. U Googleu se Tayloru pripisuje lansiranje Google Mapsa. Godinama kasnije predsjedao je odborom Twittera tijekom preuzimanja od strane Elona Muska.  
 
 Ranije ovog tjedna Taylor je najavio pokretanje druge godine APX programa, rotacijskog programa za nove tehničke diplomante, koji izravno oponaša Googleov program u kojem su i Taylor i Bavor započeli karijeru prije dva desetljeća.  
+
+---
+
+### Osvrt MetaAdvisora:
+Sierra pokazuje kako reputacija osnivača može ubrzati put do statusa “jednoroga”. Bret Taylor i Clay Bavor u manje od dvije godine podigli su startup vrijedan 10 milijardi dolara. Ovaj primjer otkriva da AI agenti za korisničku podršku postaju novo strateško područje u kojem se spajaju tehnologija, kapital i mreža kontakata.
