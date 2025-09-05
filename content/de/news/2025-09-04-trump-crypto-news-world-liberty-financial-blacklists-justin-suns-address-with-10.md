@@ -1,29 +1,35 @@
 ---
-title: "Trump Crypto News: World Liberty Financial Blacklists Justin Suns Adresse mit 107 Mio. USD WLFI"
+title: "Trump Krypto-News: World Liberty Financial blockiert Justin Suns Adresse mit 107 Mio. $ WLFI"
 date: 2025-09-04T19:02:28Z
 category: "crypto"
 translationKey: "beeafe171de1e419784b9fd23741ead0"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/tech/2025/09/04/world-liberty-financial-blacklists-justin-sun-s-address-with-usd107m-wlfi"
-summary: "Sun ist ein wichtiger Investor in das Projekt und verfügt über WLFI -Token im Wert von rund 700 Millionen US -Dollar."
-tags: ["crypto"]
-image_url: "/news/2025-09-04-trump-crypto-news-world-liberty-financial-blacklists-justin-suns-address-with-10.jpg"
+summary: "Sun ist ein wichtiger Investor im Projekt und hält WLFI-Token im Wert von rund 700 Millionen USD, größtenteils gesperrt."
+tags: ["crypto", "trump", "wlfi", "justin-sun", "tron", "trx", "ethereum", "eth", "blockchain", "tokens"]
+image_url: "/images/wlfi.png"
 ---
 
-World Liberty Financial (WLFI), das mit Donald Trump und seiner Familie verbundene Krypto -Protokoll am Donnerstag auf die schwarze Liste der Tron -Gründerin und Schlüsselinvestorin Justin Suns Blockchain -Adresse, die ihn daran hinderte, WLFI -Token zu übertragen.
+**World Liberty Financial (WLFI)**, das Krypto-Protokoll, das mit **Donald Trump** und seiner Familie verbunden ist, hat am Donnerstag die Blockchain-Adresse von **Justin Sun**, dem Gründer von **Tron (TRX)** und einem wichtigen Investor, blockiert und ihn daran gehindert, WLFI-Token zu übertragen.
 
-Der Umzug betrifft 595 Millionen freigeschaltete WLFI -Token, die laut Arkham -Daten an der Adresse im Wert von rund 107 Millionen US -Dollar zu aktuellen Preisen gehalten werden.
+Der Schritt betrifft **595 Millionen freigeschaltete WLFI-Token** im Wert von rund **107 Millionen USD** zu aktuellen Preisen, wie Daten von Arkham zeigen.
 
-Die Aktion folgte der sonnengebundenen Adresse, die mehrere ausgehende Transaktionen von WLFI-Token auf der Ethereum-Blockchain-einschließlich eines für die Token im Wert von 9 Millionen US-Dollar-und Blockchain-Daten ausführten.
+Die Maßnahme folgte, nachdem die mit Sun verknüpfte Adresse mehrere ausgehende Transaktionen von WLFI-Token auf der **Ethereum (ETH)**-Blockchain durchgeführt hatte – darunter eine über **9 Millionen USD**, wie Blockchain-Daten zeigen.
 
-Sun sagte in einem übersetzten Beitrag auf X, dass die "Adresse nur einige generische Exchange -Einzahlungstests mit sehr niedrigen Beträgen durchgeführt und dann eine Adressverteilung erstellt hat, ohne dass ein Kauf oder Verkauf einbezogen wird, was möglicherweise keinen Einfluss auf den Markt hat".
+Sun erklärte in einem übersetzten Beitrag auf X, dass die „Adresse nur einige generische Einzahlungs-Tests an einer Börse mit sehr geringen Beträgen durchgeführt und anschließend Adressstreuung erzeugt habe, ohne Kauf oder Verkauf, was unmöglich Auswirkungen auf den Markt haben konnte.“
 
-In einer späteren Erklärung forderte Sun das WLFI -Team auf, seine Token zu entsperren.
+In einer späteren Erklärung forderte Sun das WLFI-Team auf, seine Token zu entsperren.  
+„Ich fordere das Team auf, diese Prinzipien zu respektieren, meine Token zu entsperren und gemeinsam auf den Erfolg von World Liberty Financial hinzuarbeiten. Ich glaube, dass eine wirklich große Finanzmarke auf Fairness, Transparenz und Vertrauen aufgebaut sein muss – nicht auf einseitigen Maßnahmen, die Anlegervermögen einfrieren. Solche Maßnahmen verletzen nicht nur die legitimen Rechte der Anleger, sondern riskieren auch, das Vertrauen in World Liberty Financial insgesamt zu beschädigen“, sagte er.
 
-"Ich fordere das Team auf, diese Prinzipien zu respektieren, meine Token aufzusperren und uns zusammen zu dem Erfolg von World Liberty Financials zu bewegen. Ich glaube, dass eine wirklich große Finanzmarke auf Fairness, Transparenz und Vertrauen aufgebaut werden muss - nicht nur auf einseitigen Maßnahmen, die Investor -Investoren einfrieren, verstoßen nicht nur die legitimen Rechte der Investoren, sondern riskieren und riskieren und riskieren und riskieren und riskieren und riskieren und riskieren und riskieren und riskieren auch, dass die Weltschadensbeschäftigung die legitimen Rechte der Welt schaden."
+Vertreter von Sun und World Liberty Financial reagierten nicht sofort auf Anfragen von CoinDesk.
 
-Vertreter von Sun and World Liberty Financial haben die Anfragen von Coindesk nach Kommentaren nicht sofort zurückgegeben.
+**WLFI** fiel in den letzten 24 Stunden um **20 %**. Seit dem Handelsstart am 1. September ist der Token insgesamt um **42 %** gefallen.
 
-WLFI fiel in den letzten 24 Stunden um 20%.Es ist um 42% gesunken, seit es am 1. September mit dem Handel mit dem Börsen begann.
+**Justin Sun** trat als zentraler Unterstützer von World Liberty Financial auf, investierte zunächst **30 Millionen USD** in Token und übernahm Ende 2024 eine beratende Rolle. Seitdem hat WLFI zunehmend engere Verbindungen zum **Tron (TRX)**-Ökosystem aufgebaut.
 
-Justin Sun trat ein zentraler Unterstützer von World Liberty Financial auf und betrat zunächst einen Kauf von 30 Millionen US -Dollar und eine beratende Rolle Ende 2024. Seitdem hat WLFI eine zunehmende Verbindungen zum Tron -Ökosystem hatte und Tron's hinzugefügt
+---
+
+## Unser Fazit
+
+Dieser Vorfall wirft eine zentrale Frage auf: Wie **dezentralisiert** ist ein Projekt, wenn es einseitig die **Gelder von Investoren einfrieren** kann?  
+Obwohl WLFI versucht, sich als globaler Finanzbrand mit dem Namen **Trump** zu etablieren, könnte die Blockierung von **Justin Sun**, einem der größten Investoren, das Vertrauen in den Markt massiv beschädigen. Besonders beunruhigend ist, dass **WLFI innerhalb von nur drei Tagen über 40 % verloren hat**, was zeigt, wie fragil die Anlegerwahrnehmung ist, wenn zentrale Kontrolle sichtbar wird.
