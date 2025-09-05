@@ -1,27 +1,27 @@
 ---
-title: "Bret Taylor's Sierra prikuplja 350 milijuna dolara uz procjenu od 10 milijardi dolara |TechCrunch"
+title: "Bret Taylorova Sierra prikupila 350 milijuna dolara uz procjenu od 10 milijardi | TechCrunch"
 date: 2025-09-04T23:33:40Z
 category: "ai"
 translationKey: "60ecbe57e2785631b57d0e395adbaeef"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/"
-summary: "Služba za korisnike AI Agent Startup Sierra tvrdi da ima stotine kupaca, uključujući Sofi, Ramp i Brex, između ostalih."
+summary: "Startup Sierra za AI agente u korisničkoj službi tvrdi da ima stotine klijenata, uključujući SoFi, Ramp i Brex."
 tags: ["ai"]
-image_url: "/news/2025-09-04-bret-taylors-sierra-raises-350m-at-a-10b-valuation-techcrunch.jpg"
+image_url: "https://techcrunch.com/wp-content/uploads/2025/09/sierra-ai-bret-taylor.jpg"
 ---
 
-Ulagači su očito bujni zbog bivšeg suosnivača bivšeg startupa AI agenta Breta Taylora Sierra.
+Investitori su očito optimistični u vezi s AI startupom Sierra, koji je osnovao bivši suosnivač i suizvršni direktor Salesforcea, Bret Taylor.  
 
-Sierra, koja pomaže poduzećima da izgrade agente za korisnike AI, najavila je da je u četvrtak prikupio krug financiranja od 350 milijuna dolara.Okrug, predvođen ranijem investitorom Greenoaks Capital -a, cijeni pokretač od 10 milijardi dolara, navodi se u postu na blogu tvrtke koji je u srijedu potvrdio ranije izvješće Axiosa.
+Sierra, koja pomaže velikim kompanijama u izgradnji AI agenata za korisničku podršku, objavila je u četvrtak da je prikupila 350 milijuna dolara u novom krugu financiranja. Krug, koji je predvodio raniji investitor Greenoaks Capital, procijenio je startup na 10 milijardi dolara, prema objavi na blogu tvrtke, potvrđujući izvješće Axios-a od srijede.  
 
-Sierra su osnovali početkom 2024. godine Taylor i dugogodišnji Google Alum Clay Bavor.Tvrtka tvrdi da je u 18 mjeseci rada sletila stotine kupaca, uključujući Sofi, Ramp i Brex, između ostalih.
+Sierra je osnovana početkom 2024. godine od strane Taylora i dugogodišnjeg Googleovog stručnjaka Claya Bavora. Tvrtka tvrdi da je u svojih 18 mjeseci poslovanja već stekla stotine klijenata, uključujući SoFi, Ramp i Brex.  
 
-Sierra je sada prikupio ukupno 635 milijuna dolara, uključujući 110 milijuna dolara koji su zatvoreni u veljači prošle godine na čelu s Sequoia i Benchmark, te krug od 175 milijuna dolara koji je zatvoren u listopadu prošle godine vodio Greenoaks.
+Do sada je Sierra ukupno prikupila 635 milijuna dolara, uključujući 110 milijuna u veljači prošle godine (predvodili Sequoia i Benchmark) te 175 milijuna u listopadu (predvodio Greenoaks).  
 
-Ostali od njegovih ulagača uključuju ICONIQ i Thrive Capital.
+Među ostalim investitorima nalaze se ICONIQ i Thrive Capital.  
 
-Kao što je TechCrunch ranije izvijestio, Taylor i Bavor imaju dugu povijest u tehnologiji korisničkih usluga.Taylor je proveo gotovo desetljeće u Salesforceu, a prije godina osnovao je Quip, koji je Salesforce kupio za 750 milijuna dolara u ljeto 2016. godine. Bavor je upravljao Gmailom i Google Driveom na Googleu, između ostalih proizvoda koji su okrenuti potrošačima.
+Kao što je TechCrunch ranije izvijestio, Taylor i Bavor imaju dugu povijest u tehnologijama za korisničku podršku. Taylor je gotovo desetljeće proveo u Salesforceu, a ranije je osnovao Quip, koji je Salesforce kupio za 750 milijuna dolara 2016. godine. Bavor je u Googleu vodio Gmail i Google Drive, među ostalim proizvodima.  
 
-Taylor je upoznao Bavova dok je bio u Googleu, gdje je radio prije nego što je nekoliko godina služio kao Facebook CTO.Na Googleu je Taylor široko zaslužan za pomoć u pokretanju Google Maps -a.Godinama kasnije, nadgledao bi Twitter odbor tijekom preuzimanja Elona Muska na web mjestu društvenih medija.
+Taylor je upoznao Bavora dok je radio u Googleu, prije nego što je nekoliko godina služio kao CTO Facebooka. U Googleu se Tayloru pripisuje lansiranje Google Mapsa. Godinama kasnije predsjedao je odborom Twittera tijekom preuzimanja od strane Elona Muska.  
 
-Ranije ovog tjedna, u stvari, Taylor je objavio da Sierra lansira svoju drugu godinu svog takozvanog APX programa, rotacijske prilika za nedavne tehničke maturante koji izravno zrcali Google program koji je dva desetljeća pokrenuo i Taylorovu i suosnivača Clay Bavova karijere
+Ranije ovog tjedna Taylor je najavio pokretanje druge godine APX programa, rotacijskog programa za nove tehničke diplomante, koji izravno oponaša Googleov program u kojem su i Taylor i Bavor započeli karijeru prije dva desetljeća.  
