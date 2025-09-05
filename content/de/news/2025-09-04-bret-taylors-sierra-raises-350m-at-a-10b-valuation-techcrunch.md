@@ -7,7 +7,7 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/"
 summary: "Das KI-Startup Sierra für Kundenservice-Agenten behauptet, Hunderte von Kunden zu haben, darunter SoFi, Ramp und Brex."
 tags: ["ai", "bret taylor", "sierra", "salesforce", "google", "facebook", "elon musk", "kundenservice", "apx programm"]
-image_url: "https://images.pexels.com/photos/11813168/pexels-photo-11813168.jpeg"
+image_url: "/images/money.jpg"
 ---
 
 Investoren zeigen sich eindeutig optimistisch gegenüber Bret Taylors KI-Startup Sierra.  
