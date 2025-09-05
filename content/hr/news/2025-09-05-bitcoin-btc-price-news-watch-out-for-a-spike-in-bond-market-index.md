@@ -1,23 +1,30 @@
 ---
-title: "Bitcoin (BTC) Vijesti o cijenama: Pazite na skok indeksa tržišta obveznica"
+title: "Bitcoin (BTC) Vijesti o cijeni: Pazite na skok indeksa obvezničkog tržišta"
 date: 2025-09-05T06:03:24Z
 category: "crypto"
 translationKey: "854ac8b3823d70ab668077746e422dc6"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/05/bitcoin-bulls-should-keep-an-eye-out-for-spike-in-key-bond-market-index"
-summary: "Indeks poteza, pokazatelj volatilnosti tržišta obveznica, porastao je, signalizirajući pooštravanje likvidnosti."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-09-05-bitcoin-btc-price-news-watch-out-for-a-spike-in-bond-market-index.jpg"
+summary: "MOVE indeks, pokazatelj volatilnosti obvezničkog tržišta, naglo je skočio, signalizirajući moguće stezanje likvidnosti."
+tags: ["crypto", "bitcoin", "btc", "etf", "move-index", "bonds", "macro", "donald-trump", "tariffs"]
+image_url: "/images/bitcoin-btc1.jpg"
 ---
 
-Bitcoin BTC $ 111.602,18 Bull Run već je zastao s tekućom prodajom dugoročnih novčanika i usporavanjem priljeva ETF-a.Da stvar bude još gora, čini se da se još jedna manje poznata, ali značajna tržišna varijabla okreće protiv BTC-ovih bikova, signalizirajući nove izazove na horizontu.
+**Bitcoin (BTC)** rast bikova već je zastao zbog kontinuirane prodaje iz novčanika dugoročnih vlasnika i usporavanja priljeva u **ETF-ove**. Situaciju dodatno pogoršava još jedna, manje poznata, ali značajna tržišna varijabla koja se okreće protiv bitcoin bikova i signalizira nove izazove na horizontu.
 
-Ta tržišna varijabla je indeks poteza, koji je stvorio Harley Bassman, bivši direktor Merrill Lynch.Indeks izračunava podrazumijevanu volatilnost koristeći ponderirani prosjek opcijskih cijena na jednomjesečnim opcijama riznice u više dospijeća (2, 5, 10 i 30 godina).Ova metoda bilježi kolektivna očekivanja sudionika na tržištu o budućim kretanjem kamatnih stopa.
+Ta tržišna varijabla je **MOVE indeks**, kojeg je kreirao Harley Bassman, bivši izvršni direktor u Merrill Lynch-u. Indeks izračunava impliciranu volatilnost koristeći ponderirani prosjek opcijskih cijena na jednogodišnje opcije na američke državne obveznice (2, 5, 10 i 30 godina). Ova metoda hvata kolektivna očekivanja tržišnih sudionika o budućim kretanjima kamatnih stopa.
 
-Indeks poteza porastao je sa 77 na 89 u tri dana, što je obilježilo najoštriji porast od početka travnja, kada su tarife predsjednika Donalda Trumpa uzdrmale globalna tržišta, uključujući Bitcoin, koja je pala na 75.000 dolara.
+**MOVE indeks** skočio je s 77 na 89 u samo tri dana, što je najoštriji rast od početka travnja, kada su carine predsjednika **Donalda Trumpa** potresle globalna tržišta, uključujući i bitcoin, koji je tada pao na **75.000 USD**.
 
-Što je još važnije, pokazatelji zamaha poput MACD -a signaliziraju jasan bikov pomak, što sugerira da je indeks spreman za kontinuirani dobitak.To zahtijeva oprez od strane Bitcoin Bullsa, jer se poznato da su čarolije veće očekivane volatilnosti tržišta obveznica, kako je zarobljen indeksom poteza, izaziva poticaj likvidnosti širom svijeta.
+Još važnije, indikatori momentuma poput **MACD-a** signaliziraju jasan bikovski pomak, sugerirajući da je indeks spreman za nastavak rasta. To znači da bi bitcoin bikovi trebali biti oprezni jer razdoblja povećane volatilnosti obvezničkog tržišta, kakva bilježi MOVE indeks, često uzrokuju **stezanje globalne likvidnosti**.
 
-Napomene u američkoj riznici široko se smatraju visokokvalitetnom likvidnom imovinom i tvore kamen temeljac globalnog kolateralnog bazena, pomažući u smanjenju kreditnog rizika za zajmodavce i olakšavanju nesmetanog protoka sredstava na financijskim tržištima.
+Američke državne obveznice smatraju se visokokvalitetnom likvidnom imovinom i čine kamen temeljac globalnog kolateralnog sustava, pomažući u smanjenju kreditnog rizika i omogućujući nesmetan protok kapitala na financijskim tržištima.
 
-Stoga, pojačana volatilnost u bilješkama riznice ima tendenciju da poremeti likvidnost, povećava troškove zaduživanja i stvara efekte valonja na kreditnim tržištima i širi financijski sustav.U takvim situacijama, zajmodavci zahtijevaju veće premije rizika, a sudionici na tržištu povlače se iz rizične imovine, u konačnici usporavajući protok sredstava i dodavanje stresa
+Povećana volatilnost na tržištu obveznica, međutim, narušava likvidnost, povećava troškove zaduživanja i stvara efekt valova u kreditnim i širim financijskim sustavima. U takvim situacijama vjerovnici zahtijevaju veće premije rizika, a sudionici tržišta povlače se iz rizičnijih imovina, što usporava protok kapitala i stvara dodatni pritisak.
+
+---
+
+## Naš osvrt
+
+**Bitcoin (BTC)** trenutno je pod pritiskom makroekonomskih faktora, a rast **MOVE indeksa** jasno pokazuje da globalna likvidnost može brzo presušiti. Povijesno gledano, svaki put kad obvezničko tržište postane nestabilno, kripto tržišta osjećaju posljedice.  
+Za investitore ovo znači: kratkoročno volatilnost, dugoročno – još jedan test otpornosti **Bitcoina** kao globalnog sredstva očuvanja vrijednosti.
