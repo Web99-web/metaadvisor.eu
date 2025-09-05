@@ -7,7 +7,7 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/"
 summary: "Startup Sierra za AI agente u korisničkoj službi tvrdi da ima stotine klijenata, uključujući SoFi, Ramp i Brex."
 tags: ["ai", "bret taylor", "sierra", "salesforce", "google", "facebook", "elon musk", "customer service", "apx program"]
-image_url: "https://images.pexels.com/photos/11813168/pexels-photo-11813168.jpeg"
+image_url: "/images/money.jpg"
 ---
 
 Investitori su očito optimistični u vezi s AI startupom Sierra, koji je osnovao bivši suosnivač i suizvršni direktor Salesforcea, Bret Taylor.  
