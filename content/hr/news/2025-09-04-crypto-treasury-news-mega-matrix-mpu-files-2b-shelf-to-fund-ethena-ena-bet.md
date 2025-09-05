@@ -1,27 +1,32 @@
 ---
-title: "Crypto Treasury News: Mega Matrix (MPU) datoteke 2B Polica za financiranje Ethena (ENA) oklada"
+title: "Kripto trezorska vijest: Mega Matrix (MPU) prijavljuje 2 mlrd. USD za ulaganje u Ethena (ENA)"
 date: 2025-09-04T18:54:50Z
 category: "crypto"
 translationKey: "2af14baf4edc5c1a4a1bee8d5e3d81db"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/04/mega-matrix-files-usd2b-shelf-to-fund-crypto-treasury-bet-on-ethena"
-summary: "Čvrste oči koje bi imale koristi od brzog rasta američkog digitalnog dolara, uklapajući se u širi trend kompanija koje se nakupljaju na popisu."
-tags: ["crypto"]
-image_url: "/news/2025-09-04-crypto-treasury-news-mega-matrix-mpu-files-2b-shelf-to-fund-ethena-ena-bet.jpg"
+summary: "Tvrtka želi profitirati od brzog rasta Ethenina digitalnog dolara USDe, uklapajući se u širi trend listanih kompanija koje akumuliraju kriptovalute."
+tags: ["crypto", "mega matrix", "mpu", "ethena", "ena", "usde", "bitcoin", "btc", "ethereum", "eth", "defi", "trezor"]
+image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
 ---
 
-Tvrtka Mega Matrix (MPU) u NYSE-u podnijela je u četvrtak registraciju polica od dvije milijarde dolara za uspostavljanje riznice za digitalnu imovinu usredotočenu na ENA (ENA), token upravljanja Stablecoin Protocol Ethena.
+Tvrtka Mega Matrix (MPU), listana na NYSE-u, prijavila je u četvrtak izdavanje vrijednosnih papira u iznosu od 2 milijarde dolara kako bi osnovala digitalni trezor imovine fokusiran na ENA, upravljački token protokola stabilnog coina Ethena.  
 
-Prema prijavi s Komisijom za vrijednosne papire (SEC), tvrtka bi mogla prodati do dvije milijarde dolara vrijednosnih papira, s planovima za korištenje prihoda od budućih ponuda za akumulaciju kripto imovine.
+Prema prijavi Komisiji za vrijednosne papire (SEC), tvrtka može prodati do 2 milijarde dolara vrijednosnih papira, a prihod od budućih ponuda planira koristiti za akumulaciju kripto imovine.  
 
-Dionice tvrtke smanjile su se čak 6% prije nego što se oporavio nakon vijesti.Još uvijek je pad gotovo 30% otkako je tvrtka 25. kolovoza otkrila svoj kriptovaluta.
+Dionice tvrtke pale su čak 6% prije nego što su se oporavile nakon vijesti. Ipak, još su gotovo 30% niže od 25. kolovoza, kada je firma objavila svoj zaokret prema kriptu.  
 
-Mega Matrix je s tim potezom rekao da želi biti prva tvrtka koja se javno trguje koja je učvrstila svoju riznicu digitalne imovine u upravljanju Stablecoinom spremajući Ena -token Ena.
+Mega Matrix navodi da želi biti prva javno listana kompanija koja će svoj digitalni trezor temeljiti na upravljanju stablecoinom kroz akumulaciju Etheninog ENA tokena.  
 
-Ethena je protokol decentraliziranih financija (DeFI) iza američkog "digitalnog dolara" od 12 milijardi USD ", tokena namijenjena zadržavanju stalne cijene od 1 USD i ostvarivanjem prinosa držanjem kripto valuta poput Bitcoin BTC 111.602,18 USD, ETHER (ETH), prodaje (skraćene), jednaki iznos derivata.Token protokola Ena mogao bi imati koristi od prihoda od protokola nakon što se aktivira mehanizam.
+Ethena je DeFi protokol iza „digitalnog dolara“ USDe vrijednog 12 milijardi dolara, tokena dizajniranog da zadrži vrijednost od 1 USD i generira prinos držeći kriptovalute poput bitcoina (BTC) i ethera (ETH), dok istovremeno shorta jednak iznos derivata. Upravljački token ENA mogao bi profitirati od prihoda protokola kada mehanizam bude aktiviran.  
 
-U srpnju, novoosnovana tvrtka pod nazivom Stablecoinx najavila je slične planove za javnost putem SPAC spajanja i uspostavljanje ENA riznice, ciljajući da zaključi sporazum do kraja godine.
+U srpnju je novonastala tvrtka StablecoinX najavila slične planove da izađe na burzu kroz SPAC spajanje i uspostavi ENA trezor, s ciljem dovršetka posla do kraja godine.  
 
-Tvrtke za riznicu za digitalnu imovinu ili DATS preuzele su Wall Streetu olujom, a tvrtke koje su navedene na popisu su se okrenule da prikupe kripto valute prikupljanjem sredstava na tradicionalnim tržištima kapitala.Strategija (MSTR) pokrenula je ovu knjigu kako bi na kraju postala najveći korporativni vlasnik Bitcoina, dok su nedavni sudionici sve više usmjerili svoj fokus na manje tokene.
+Tvrtke koje upravljaju digitalnim trezorima (DATs) brzo su osvojile Wall Street, jer su listane firme počele akumulirati kriptovalute prikupljanjem kapitala na tradicionalnim tržištima. MicroStrategy (MSTR) pionir je ovog modela i danas je najveći korporativni vlasnik bitcoina, dok noviji ulagači sve više ciljaju manje tokene.  
 
-Međutim, trend je možda već pukao s nekoliko imena koji su u posljednjih mjeseci potukli 70% -80%, a neka su već već
+Međutim, čini se da je trend već počeo pucati, jer su neke kompanije u posljednjim mjesecima pale 70–80%, a neke su već izašle iz tržišta.  
+
+---
+
+### Osvrt MetaAdvisora:
+Mega Matrix s ulogom od 2 milijarde dolara u Ethenu pokazuje kako se kripto trezori razvijaju. Dok je MicroStrategy učvrstio bitcoin kao standard, nove kompanije eksperimentiraju s tokenima upravljanja stablecoinima poput ENA. Strategija nosi veći rizik, ali i pozicionira firme na čelo DeFi usvajanja.
