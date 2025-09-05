@@ -1,33 +1,34 @@
 ---
-title: "'Kaufen Sie einfach einen Bitcoin ETF': BTC Treasury Model Throughs Through Reality Check"
+title: "‘Just Buy a Bitcoin ETF’: BTC Treasury Model Faces Reality Check"
 date: 2025-09-05T00:23:10Z
 category: "crypto"
 translationKey: "93c6e7e0fa04ffa3fbbfc0528e292b01"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/05/asia-morning-briefing-outperform-or-die-btc-treasury-firms-versus-etfs"
-summary: "Crypto Money Manager warnten, dass die meisten Bitcoin-Staatsanleihen ohne eine Milliarden-Dollar-Bilanz oder einen klaren Rahmen für Risiken Schwierigkeiten haben, sich abzuheben."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-09-05-just-buy-a-bitcoin-etf-btc-treasury-model-faces-reality-check.png"
+summary: "Krypto-Vermögensverwalter warnen: Ohne eine Milliarde USD Kapital oder klaren Risiko-Rahmen werden die meisten Bitcoin-Treasuries scheitern."
+tags: ["crypto", "bitcoin", "btc", "etf", "treasury", "microstrategy", "ethereum", "eth"]
+image_url: "/images/coin-btc1.jpg"
 ---
 
-Willkommen bei Asia Morning Briefing, eine tägliche Zusammenfassung der Top -Geschichten während der US -Stunden und einen Überblick über Marktbewegungen und Analysen.Eine detaillierte Übersicht über US -Märkte finden Sie in Coindesks Crypto Daybook Americas.
+Unternehmen mit **Bitcoin (BTC)** in ihrer Treasury stehen vor einer harten Realität: Können sie die BTC-Performance übertreffen, oder sollten Investoren einfach einen **Bitcoin ETF** kaufen?  
 
-Bitcoin Treasury Companies stehen vor einem einfachen, aber brutalen Test: Können sie BTC selbst übertreffen oder sollten die Anleger sie überspringen und das Vermögen direkt kaufen?
+Auf der **BTC Asia Konferenz in Hongkong** erklärte Matt Cole, CEO von **Strive Asset Management**:  
+„Wenn ihr das nicht schafft, gibt es keinen Grund für diese Strategien – kauft einfach einen Bitcoin ETF.“  
 
-"Wenn Sie das nicht tun, gibt es keinen Grund, die Strategien durchzuführen. Kaufen Sie einfach einen Bitcoin -ETF", sagte Matt Cole, CEO von Strive Asset Management, während eines Gremiums bei BTC Asia in Hongkong.
+Cole ist bekannt dafür, BTC auf Unternehmensbilanzen zu befürworten – ganz nach dem Vorbild von **MicroStrategy** und Michael Saylor.  
 
-Cole ist vielleicht am besten dafür bekannt, ein überzeugter Verfechter des Gamestop GME $ 0,001152 zu sein, das BTC in seine Bilanz stellt.
+### Zentrale Herausforderungen
+- **Skalierung**: Mindestens **1 Mrd. USD** Kapital, um günstige Finanzierung, IPOs und größere Teams zu ermöglichen.  
+- **Finanzierung**: Umstellung von Wandelanleihen auf **Perpetual Preferred Equity** für stabileren Leverage.  
+- **Asset-Wahl**: Laut Cole sind **Ethereum (ETH)** und andere Token ungeeignet, da sie sich wie Aktien mit veränderlicher Geldpolitik verhalten.  
 
-Auf der Bühne beschrieb Cole das Playbook als Suche nach Alpha und fand Wege, BTC zu übertreffen, ohne einfach auf Bitcoin-spezifisches Risiko zu häufen.Cole erklärte, dass dies auf die Finanzierung zurückzuführen ist, wo er auf eine Verschiebung von Cabrios zu ewigen bevorzugten Eigenkapital hinwies, um die Hebelwirkung zu sperren.
+Nur Bitcoin mit seinem **fixen Angebot** und Widerstand gegen Fiat-Inflation könne laut Cole langfristig eine gehebelt Treasury-Strategie tragen.  
 
-Er fügte hinzu, dass der schwierigste Meilenstein skaliert ist: Das Erreichen von 1 Milliarde US -Dollar in Kapital, der Punkt, an dem die Finanzierung billig genug wird, um Börsengänge und größere Teams zu unterstützen.
+### Markt-Kontext
+Der **BTC-Treasury-Ansatz** wurde durch MicroStrategy populär, aber kleinere Firmen haben weder das Kapital noch die Reputation, um attraktive Finanzierungen zu bekommen. Gleichzeitig bieten **ETFs** einen einfacheren und günstigeren Zugang zu Bitcoin, ohne das operative Risiko.  
 
-"Das Schwierigste für Bitcoin Treasury Companies ist, dass Michael Saylor von MicroStrategy Microstrategy zitierte.
+---
 
-Diese Skala, betonte Cole, arbeitet nur mit Bitcoin.Ethereum und andere Token, sagte er, verhalten sich zu sehr wie Aktien mit sich verändernden Geldpolitik.
-
-"Ethereum sorgt für ein schreckliches Gut für eine Finanzkompanie", sagte Cole."Bitcoin steigt ständig gegen Fiat -Währungen, weil sie entlarvt werden."
-
-Seiner Ansicht nach macht es BTCs festes Angebot zum einzigen Kapital, das eine Hebelstrategie für die Treasury -Strategie im Laufe der Zeit unterstützen kann.
-
-Andrew Webley von der intelligenten Web Company, einem öffentlich gelisteten britischen Webdesigner mit BTC auf der
+## Unser Fazit
+Für die meisten Firmen ist das **Bitcoin-Treasury-Modell** kein nachhaltiger Weg, sondern eher Marketing. **Bitcoin-ETFs** setzen sich als Standard durch, da sie unkomplizierte BTC-Exposition ermöglichen.  
+Langfristig könnte das Modell wiederbelebt werden – wenn mehr große Unternehmen MicroStrategy folgen. Bis dahin bleibt es ein Spiel für **Milliarden-Schwergewichte**.
