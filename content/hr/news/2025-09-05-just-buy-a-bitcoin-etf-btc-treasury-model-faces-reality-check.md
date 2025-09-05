@@ -1,33 +1,34 @@
 ---
-title: "'Samo kupite bitcoin ETF': BTC trezorski model suočava se s provjerom stvarnosti"
+title: "‘Just Buy a Bitcoin ETF’: BTC Treasury Model Faces Reality Check"
 date: 2025-09-05T00:23:10Z
 category: "crypto"
 translationKey: "93c6e7e0fa04ffa3fbbfc0528e292b01"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/05/asia-morning-briefing-outperform-or-die-btc-treasury-firms-versus-etfs"
-summary: "Crypto Money menadžeri upozorili su da će se bez bilance stanja milijardu dolara ili jasnog okvira za rizik, većina blagajnih bitcoina boriti da se istakne."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-09-05-just-buy-a-bitcoin-etf-btc-treasury-model-faces-reality-check.png"
+summary: "Upravljatelji kripto imovinom upozoravaju: bez milijarde dolara kapitala ili jasnog rizik-okvira, većina Bitcoin riznica neće uspjeti."
+tags: ["crypto", "bitcoin", "btc", "etf", "treasury", "microstrategy", "ethereum", "eth"]
+image_url: "/images/coin-btc1.jpg"
 ---
 
-Dobrodošli u Asia Morning Briefing, dnevni sažetak najboljih priča tijekom američkih sati i pregled tržišnih poteza i analize.Za detaljan pregled američkih tržišta, pogledajte Coindesk -ov kripto dan knjiženja Americas.
+Tvrtke koje drže **Bitcoin (BTC)** u riznici suočavaju se s jednostavnim, ali brutalnim pitanjem: mogu li nadmašiti samu cijenu BTC-a ili bi investitori trebali jednostavno kupiti **Bitcoin ETF**?  
 
-Tvrtke za blagajne Bitcoin suočene su s jednostavnim, ali brutalnim testom: mogu li nadmašiti sam BTC ili bi ih ulagači trebali preskočiti i kupiti imovinu izravno?
+Na konferenciji **BTC Asia u Hong Kongu**, Matt Cole, izvršni direktor **Strive Asset Managementa**, izjavio je:  
+„Ako ne radite to, nema smisla – jednostavno kupite Bitcoin ETF.“  
 
-"Ako to ne radite, nema razloga da napravite strategije, samo kupite Bitcoin ETF", rekao je Matt Cole, izvršni direktor tvrtke Strive Asset Management, tijekom panela u BTC Asia u Hong Kongu.
+Cole je poznat po zagovaranju stavljanja BTC-a na bilancu kompanija, slično kao što je to napravio **MicroStrategy** pod vodstvom Michaela Saylora.  
 
-Cole je možda najpoznatiji po tome što je stalni zagovornik GameStop GME -a 0,001152 USD stavljajući BTC na svoju bilancu.
+### Ključni izazovi
+- **Skaliranje**: Dosegnuti kapital od najmanje **1 milijarde USD** kako bi se osigurali jeftiniji izvori financiranja, IPO-i i veći timovi.  
+- **Financiranje**: Prelazak s konvertibilnih obveznica na **perpetual preferred equity** kao stabilniji oblik poluge.  
+- **Izbor imovine**: Cole smatra da **Ethereum (ETH)** i drugi tokeni imaju monetarne politike slične dionicama, pa nisu prikladni za riznice.  
 
-Na pozornici je Cole opisao knjižicu kao potragu za alfa, pronalazeći načine kako nadmašiti BTC bez da se jednostavno gomila rizik specifičnog za bitcoin.Cole je objasnio da se to svodi na financiranje, gdje je ukazao na prelazak s kabrioleta u vječni preferirani kapital kao način zaključavanja utjecaja.
+Prema njemu, samo Bitcoin, sa svojom **fiksnom ponudom** i otpornošću na inflaciju fiat valuta, može dugoročno podržati strategiju leveridžiranih riznica.  
 
-Dodao je da je najteža prekretnica razmjera: dosezanje milijarde dolara kapitala, točka u kojoj financiranje postaje dovoljno jeftino da podrži IPO -ove i veće timove.
+### Kontekst na tržištu
+Model **BTC riznica** doživio je hype zahvaljujući MicroStrategyju, no mnoge manje kompanije nemaju ni kapital ni reputaciju da bi privukle povoljne uvjete financiranja. U međuvremenu, **ETF-ovi** nude jednostavniji i jeftiniji način izloženosti Bitcoinu za investitore, bez dodatnog poslovnog rizika.  
 
-"Najteže je učiniti za tvrtke Bitcoin Treasury Company je dobiti milijardu dolara", rekao je, citirajući Michael Saylor MicroStrategy.
+---
 
-Ta skala, naglasio je Cole, radi samo s Bitcoinom.Ethereum i drugi tokeni, rekao je, djeluju previše poput dionica s promjenom monetarnih politika.
-
-"Ethereum stvara užasnu imovinu za riznicu", rekao je Cole."Bitcoin neprestano ide prema valutama u odnosu na Fiat jer se debaju."
-
-Prema njegovom mišljenju, BTC -ova fiksna opskrba čini jedinom imovinom koja je sposobna podržati strategiju trezorskih trezora namijenjenu složenom s vremenom.
-
-Andrew Webley iz pametnije web tvrtke, javno nabrojana britanska web dizajner s BTC -om na
+## Naš osvrt
+Ova rasprava pokazuje realnost: za male i srednje firme, „Bitcoin riznica“ je često više marketinški trik nego održiva strategija. **ETF-ovi** preuzimaju primat jer omogućuju jednostavnu izloženost BTC-u.  
+Međutim, u dugom roku, ako još nekoliko velikih kompanija krene putem **MicroStrategyja**, treasury model bi mogao dobiti novi život – ali za sada je to igra rezervirana samo za **velike igrače s milijardama u kapitalu**.
