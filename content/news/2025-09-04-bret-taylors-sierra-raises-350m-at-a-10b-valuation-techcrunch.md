@@ -7,7 +7,7 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/"
 summary: "Customer service AI agent startup Sierra claims to have hundreds of customers, including SoFi, Ramp, and Brex, among others."
 tags: ["ai", "bret taylor", "sierra", "salesforce", "google", "facebook", "elon musk", "customer service", "apx program"]
-image_url: "https://images.pexels.com/photos/11813168/pexels-photo-11813168.jpeg"
+image_url: "/images/money.jpg"
 ---
 
 Investors are clearly bullish about former Salesforce co-CEO Bret Taylor’s AI agent startup Sierra.  
