@@ -1,25 +1,26 @@
 ---
-title: "OpenAi reorganizira istraživački tim koji stoji iza Chatgptove osobnosti |TechCrunch"
+title: "OpenAI reorganizira istraživački tim koji stoji iza osobnosti ChatGPT-a"
 date: 2025-09-05T23:19:12Z
 category: "ai"
 translationKey: "9c6d8a75e6ee307af2d9f4f4f2ddbae9"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/"
-summary: "OpenAi miješa tim koji oblikuje ponašanje svojih AI modela, a njegov vođa prelazi na drugi projekt unutar tvrtke."
-tags: ["ai"]
-image_url: "/news/2025-09-05-openai-reorganizes-research-team-behind-chatgpts-personality-techcrunch.jpg"
+summary: "OpenAI preoblikuje svoj Model Behavior tim, a voditeljica pokreće novi istraživački projekt unutar kompanije."
+tags: ["ai", "openai", "chatgpt", "research", "personality"]
+image_url: "/images/ai1manja.jpg"
 ---
 
-OpenAi reorganizira svoj tim ponašanja modela, malu, ali utjecajnu skupinu istraživača koji oblikuju način na koji AI modeli tvrtke komuniciraju s ljudima, saznao je TechCrunch.
+**OpenAI** reorganizira svoj **Model Behavior tim**, mali ali utjecajan istraživački odjel koji oblikuje način na koji se AI modeli kompanije ponašaju u interakciji s ljudima, doznaje TechCrunch.  
 
-U kolovoznom dopisu osoblja TechCrunch-a, glavni istraživački direktor OpenAI-a Mark Chen rekao je da će se tim za ponašanje modela-koji se sastoji od otprilike 14 istraživača-pridružit će se timu za obuku Post-a, većoj istraživačkoj grupi odgovornoj za poboljšanje AI modela tvrtke nakon njihovog početnog pred-treninga.
+U internom dopisu iz kolovoza, glavni istraživač **Mark Chen** najavio je da će se tim od 14 istraživača pridružiti većoj grupi **Post Training**, koja je zadužena za poboljšavanje modela nakon inicijalnog treniranja. Tim će sada izvještavati Maxa Schwarzera, voditelja Post Training odjela.  
 
-Kao dio promjena, tim za ponašanje modela sada će prijaviti OpenAi -jevu glavnu vodnju za obuku Maxa Schwarzera.Glasnogovornik Openai -a potvrdio je ove promjene TechCrunch -a.
+Osnivačica i dosadašnja voditeljica tima, **Joanne Jang**, prelazi na novi projekt u sklopu tvrtke. U razgovoru za TechCrunch, otkrila je da pokreće novi istraživački tim **OAI Labs**, fokusiran na „stvaranje i prototipiranje novih sučelja za suradnju ljudi i AI-a“.  
 
-Vođa osnivača tima za ponašanje modela, Joanne Jang, također kreće u pokretanje novog projekta u tvrtki.U intervjuu za TechCrunch, Jang kaže da je izgradila novi istraživački tim pod nazivom OAI Labs, koji će biti odgovoran za "okupljanje i prototipiranje novih sučelja za način na koji ljudi surađuju s AI."
+Model Behavior tim imao je ključnu ulogu u oblikovanju „osobnosti“ ChatGPT-a, smanjenju fenomena **podilaženja korisnicima** (sycophancy), radu na političkoj neutralnosti odgovora te definiranju stava OpenAI-a o pitanjima poput svijesti AI-ja.  
 
-Tim za ponašanje modela postao je jedna od ključnih istraživačkih skupina OpenAi -a, odgovorna za oblikovanje ličnosti AI modela tvrtke i za smanjenje sikofance - što se događa kada se AI modeli jednostavno slažu i pojačavaju uvjerenja korisnika, čak i nezdrave, a ne nudeći uravnotežene odgovore.
+Chen je naglasio kako je sada pravo vrijeme da se ovaj rad integrira bliže razvoju osnovnih modela, čime kompanija pokazuje da se „osobnost“ umjetne inteligencije smatra kritičnim faktorom budućeg razvoja.  
 
-U zapisniku za osoblje, Chen je rekao da je sada vrijeme da se posao OpenAijevog tima za ponašanje modela približi razvoju temeljnog modela.Radeći to, tvrtka signalizira da se "osobitost" svog AI -a sada smatra kritičnim čimbenikom u načinu na koji se tehnologija razvija.
+---
 
-Posljednjih mjeseci OpenAi se suočio s povećanim nadzorom nad ponašanjem svog AI
+## Naš osvrt
+Ova reorganizacija pokazuje koliko je **osobnost AI sustava** postala strateški važna. OpenAI jasno signalizira da način na koji AI komunicira s korisnicima nije sporedna značajka, već ključni dio proizvoda. Novi tim OAI Labs mogao bi dodatno proširiti istraživanja u smjeru interakcije i suradnje, što bi moglo odrediti kako će ljudi koristiti AI u svakodnevnom životu.
