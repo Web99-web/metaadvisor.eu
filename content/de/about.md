@@ -15,7 +15,7 @@ Viele Menschen finden Krypto und moderne Finanzthemen kompliziert. Wir erklären
 
 So arbeiten wir  
 - Internationale Nachrichten + **eigener Kurz-Kommentar** („was zählt & warum“).  
-- Drei Sprachen: **Englisch, Deutsch, Kroatisch**.  
+- Drei Sprachen: **Deutsch, Englisch, Kroatisch**.  
 - Kompaktes Format: Fakten zuerst, Details darunter.
 
 Was dich erwartet  
