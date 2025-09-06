@@ -1,24 +1,26 @@
 ---
-title: "MSTR News: Strategija zaliha pada dok Robinhood ga prebija na S&P 500 Uključivanje"
+title: "MSTR vijesti: Dionica Strategy pada dok Robinhood ulazi u S&P 500"
 date: 2025-09-05T21:52:12Z
 category: "news"
 translationKey: "b6993bbeeb0298f2684553462bc97c16"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/05/michael-saylor-s-strategy-snubbed-by-s-and-p-500-amid-robinhood-s-surprise-inclusion"
-summary: "Robinhood je neočekivano dodan u S&P 500, povećavajući svoje zalihe za 7% nakon što se tržište zatvorilo."
-image_url: "/news/2025-09-05-mstr-news-strategy-stock-falls-as-robinhood-beats-it-to-sp-500-inclusion.jpg"
+summary: "Robinhood je neočekivano dodan u S&P 500, podižući cijenu dionice za 7% nakon zatvaranja tržišta."
+tags: ["crypto", "mstr", "michael saylor", "bitcoin", "sp500", "robinhood", "stocks"]
+image_url: "/images/grafikon-manji2.jpg"
 ---
 
-Strategija Michaela Saylora (MSTR) propustila je da je u petak dodana u indeks S&P 500, unatoč nadi da će se uključiti nakon što je tvrtka objavila jednu od najjačih četvrtina u svojoj povijesti i ispunila sve kriterije za pridruživanje indeksu.
+**Strategy (MSTR)** Michaela Saylora u petak nije dodan u indeks **S&P 500**, unatoč snažnim očekivanjima nakon što je kompanija ostvarila jedan od najboljih kvartala u povijesti i zadovoljila sve kriterije za uključivanje.  
 
-Dionice najvećeg korporativnog Bitcoin BTC -a od 110.726,08 dolara smanjile su se gotovo 3% nakon tržišnih sati, brišući sve dobitke u petak.Uključivanje bi bila značajna prekretnica za tvrtku i za industriju jer bi tvrtka izložila milijune prosječnih ulagača i menadžera portfelja, što bi moglo djelovati kao bikovski katalizator.
+Dionica najvećeg korporativnog vlasnika **bitcoina (BTC 110.726,08 USD)** pala je gotovo 3% nakon radnog vremena, brišući sve dobitke ostvarene ranije tijekom dana. Uvrštenje u S&P 500 smatralo se važnim iskorakom koji bi otvorio vrata milijunima malih ulagača i institucionalnih menadžera portfelja, a istovremeno djelovalo kao snažan signal povjerenja za širu industriju.  
 
-U iznenađujućem potezu u petak, digitalna trgovačka platforma Robinhood (Hood), s rastućim kripto ambicijama, bila je uključena u indeks S&P 500, povećavajući zalihe 7% više nakon zatvaranja tržišta.Promjene će stupiti na snagu 22. rujna.
+Umjesto toga, u neočekivanom preokretu, **Robinhood (HOOD)** je dodan u prestižni indeks, što je izazvalo rast dionice od 7% nakon zatvaranja tržišta. Ova odluka stupit će na snagu 22. rujna.  
 
-Prije petka, samo dvije kripto-povezane zalihe bile su dio indeksa: Crypto Exchange Coinbase (Coin) i Block Jack Dorsey (XYZ).Robinhood će se sada dodati na ovaj željeni popis.
+Do sada su samo dvije kripto-povezane dionice bile uključene u S&P 500: **Coinbase (COIN)** i **Block** u vlasništvu Jacka Dorseya. Robinhood se sada pridružuje toj eliti, potvrđujući vlastite kripto ambicije i rastući utjecaj na financijska tržišta.  
 
-Pročitajte više: Strategija se kvalificira za S&P 500, odluka o uključivanju mogla bi doći u petak
+---
 
-Sol Strategies osvaja Nasdaq popis, dionice za trgovinu pod "STKE"
+## Naš osvrt
+Robinhoodov ulazak u S&P 500 potvrđuje da tržišta prepoznaju njegovu sve veću važnost u kombinaciji tradicionalnog trgovanja i kriptovaluta. Za **MSTR** i Michaela Saylora ovo je propuštena prilika – unatoč rekordnim rezultatima i statusu najvećeg korporativnog vlasnika bitcoina, tvrtka ostaje izvan najvažnijeg američkog burzovnog indeksa.  
 
-Tvrtka za digitalnu imovinu s digitalnom imovinom koja je popisana u Torontu usmjerena je na blockchain Solana i nastavit će tamo trgovati pod HODL-om
+To pokazuje da **tržišni moment i percepcija investitora** igraju jednako veliku ulogu kao i financijski pokazatelji. Robinhood je dobio priznanje zbog svoje šire baze korisnika i potencijala rasta, dok MSTR i dalje ostaje snažno vezan uz volatilnost cijene bitcoina.  
