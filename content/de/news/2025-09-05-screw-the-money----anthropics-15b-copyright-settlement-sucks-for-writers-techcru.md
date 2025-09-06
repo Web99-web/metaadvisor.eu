@@ -7,7 +7,7 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/"
 summary: "Autoren profitieren nicht wirklich von diesem Vergleich — es ist nur ein teurer Klaps auf die Finger für Anthropic, weil es Bücher illegal heruntergeladen hat, anstatt sie zu kaufen."
 tags: ["ai", "anthropic", "copyright", "writers", "claude", "settlement"]
-image_url: "/images/typewriter.jpg"
+image_url: "https://images.pexels.com/photos/1995842/pexels-photo-1995842.jpeg"
 ---
 
 Rund **eine halbe Million Autoren** haben Anspruch auf mindestens 3.000 USD, dank eines historischen Vergleichs in Höhe von **1,5 Milliarden USD** in einer Sammelklage gegen **Anthropic**.  
