@@ -4,33 +4,29 @@ paginate = 24
 paginatePath = "page"
 enableRobotsTXT = true
 
-# Glavni jezik = EN na rootu
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
-# Permalinks: bez obzira gdje su fajlovi (2025/09/...),
-# URL će uvijek biti /news/:filename/
 [permalinks]
   news = "/news/:filename/"
 
 [languages]
-
   [languages.en]
     languageName = "English"
     weight = 1
-    contentDir = "content/news"
+    contentDir = "content"
     languageCode = "en"
 
   [languages.de]
     languageName = "Deutsch"
     weight = 2
-    contentDir = "content/de/news"
+    contentDir = "content/de"
     languageCode = "de"
 
   [languages.hr]
     languageName = "Hrvatski"
     weight = 3
-    contentDir = "content/hr/news"
+    contentDir = "content/hr"
     languageCode = "hr"
 
 [params]
@@ -41,6 +37,5 @@ defaultContentLanguageInSubdir = false
   tag = "tags"
   category = "categories"
 
-# (za search i RSS)
 [outputs]
   home = ["HTML", "RSS", "JSON"]
