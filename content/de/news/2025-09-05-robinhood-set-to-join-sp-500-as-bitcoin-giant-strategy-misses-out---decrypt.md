@@ -1,29 +1,24 @@
 ---
-title: "Robinhood wird sich S & P 500 anschließen"
+title: "Robinhood tritt dem S&P 500 bei, während Bitcoin-Riese Strategy außen vor bleibt"
 date: 2025-09-05T21:28:55Z
 category: "crypto"
 translationKey: "342288429fa21fed505031c0326157fb"
 source: "Decrypt"
 source_url: "https://decrypt.co/338344/robinhood-set-to-join-sp-500-as-bitcoin-giant-strategy-misses-out"
-summary: "Die Robinhood-Aktien stiegen nach dem Handel mit dem Handel mit S & P 500 um 7%, nachdem der kryptoorientierte Fintech dem Index hinzugefügt wurde."
-tags: ["bitcoin", "crypto"]
-image_url: "/news/2025-09-05-robinhood-set-to-join-sp-500-as-bitcoin-giant-strategy-misses-out---decrypt.png"
+summary: "Die Robinhood-Aktien stiegen um 7 %, nachdem das krypto-orientierte Fintech in den S&P 500 aufgenommen wurde."
+tags: ["bitcoin", "crypto", "robinhood", "mstr", "stocks", "sp500"]
+image_url: "/images/robinhood-sp500.jpg"
 ---
 
-Robinhood wird sich S & P 500 anschließen
+Die Aktien von **Robinhood (HOOD)** stiegen im nachbörslichen Handel um 7 %, nachdem bekannt wurde, dass das stark krypto-orientierte Fintech in den **S&P 500** aufgenommen wird.  
 
-Die Aktien von Robinhood stiegen nach dem Handel mit dem Handel mit dem Handel mit dem Einzelhandel, der sich stark auf digitale Vermögenswerte konzentriert, dem S & P 500 hinzugefügt.
+Der Kurs sprang von etwas über 101 USD auf über 108 USD, während die Aktie seit Jahresbeginn bereits mehr als 150 % zugelegt hat. Laut einer Mitteilung von **S&P Dow Jones Indices** wird Robinhood am 22. September in den Index aufgenommen, zusammen mit dem Unternehmen **AppLovin**.  
 
-Robinhood (Hood) stieg laut Yahoo Finance nach dem Abschluss am Freitag über 101 US -Dollar pro Aktie über 101 US -Dollar.Der Aktienkurs des Unternehmens ist um mehr als 150% von Jahr zu Jahr gestiegen.
+Nicht aufgenommen wurde jedoch **Strategy** (ehemals MicroStrategy), mit einer Marktkapitalisierung von 95 Mrd. USD und Bitcoin-Beständen im Wert von mehr als 70 Mrd. USD. Die Aktie von Strategy fiel im nachbörslichen Handel um fast 3 %.  
 
-Laut einer Pressemitteilung von S & P Dow Jones Indices wird Hood am 22. September am 22. September beitreten.Das Werbe -Technologieunternehmen Applovin wurde ebenfalls vom Index hinzugefügt.S & P Dow Jones umgestaltet den Index am ersten Freitag des letzten Monats des dritten Quartals, der im September endet.
+Die Entscheidung des S&P unterstreicht die zunehmende Bedeutung digital-asset-orientierter Unternehmen, die in den letzten Monaten von einem günstigeren politischen und regulatorischen Umfeld profitiert haben. In diesem Zusammenhang wächst das institutionelle Interesse an Kryptowährungen, was die Kurse von **Bitcoin, Ethereum** und anderen führenden Token sowie die Zuflüsse in Krypto-ETFs stark ansteigen ließ.  
 
-Der S & P 500 wird jedoch keine Strategie der Bitcoin Treasury Firma enthalten und einige Beobachter enttäuschen.Die 95 -Milliarden -Dollar -Marktkapitalisierung der Strategie war groß genug, um die S & P -Schwelle für die Aufnahme zu erreichen.S & P-listige Unternehmen müssen in den USA ansässig sein und Marktwerte von mehr als 20 Milliarden US-Dollar haben.
+---
 
-Die Aktien der Tysons Corner, in Virginia ansässige Strategie, ehemals Microstrategy, gingen im Handel mit dem Handel nach dem Markt um fast 3% zurück.Strategie hält Bitcoin im Wert von mehr als 70 Milliarden US -Dollar und hat Pionier der Digital Assets Treasury -Strategie, die seitdem zahlreiche andere Unternehmen verabschiedet haben, Pionierarbeit geleistet.
-
-Die S & P-Entscheidung unterstreicht die wachsende Macht der digitalen Vermögenswerte, die vom freundlicheren politischen und regulatorischen Umfeld der letzten Monate profitiert haben.In dieser Veränderung ist das Interesse des institutionellen Anlegers an Kryptowährungen gestiegen und hat große Preisgewinne zwischen Bitcoin, Ethereum und anderen führenden Vermögenswerten und massiven Zuflüssen in kryptobasierte Börsenfonds angestiegen.
-
-Cryptocurrency Exchange Coinbase begann am 19. Mai mit dem Handel mit dem S & P -Index.
-
-In seinem zweiten Quartal verzeichnete Robinhood eine stärker als erwartete Leistung, die übertrieben ist
+## Unser Fazit
+Die Aufnahme von Robinhood in den S&P 500 zeigt, dass sich das Unternehmen von einer simplen Trading-App zu einem bedeutenden Player im Fintech- und Kryptobereich entwickelt hat. Für Strategy bedeutet das Ausbleiben trotz starker Ergebnisse und enormer Bitcoin-Bestände, dass der Markt weiterhin vorsichtig gegenüber Firmen ist, die fast ausschließlich von der Volatilität eines einzigen Vermögenswerts abhängen. Die Botschaft ist klar: **Diversifizierung und nachhaltiges Wachstum** wiegen schwerer als reine Krypto-Exponierung.
