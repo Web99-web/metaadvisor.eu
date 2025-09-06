@@ -6,7 +6,7 @@ translationKey: "our-article-litecoin-influencer-hairstyle"
 source: "Crypto Insight (analysis)"
 summary: "Rasprava između Litecoina i influencera krenula je od cijene, a završila šalama o frizuri – što je pokazalo da projekt i dalje izaziva snažne reakcije."
 tags: ["crypto", "litecoin", "ltc", "influencer", "markets", "social media", "analysis"]
-image_url: "/images/litecoin-ltc.png"
+image_url: "https://images.pexels.com/photos/4422102/pexels-photo-4422102.jpeg"
 ---
 
 **Službeni račun Litecoina (LTC)** na društvenim mrežama ušao je u neočekivanu raspravu s poznatim **influencerom**. Sve je započelo kritikama o kretanju cijene Litecoina, a završilo prepucavanjem o – **frizuri**.  
