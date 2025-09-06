@@ -6,7 +6,7 @@ translationKey: "our-article-litecoin-influencer-hairstyle"
 source: "Crypto Insight (analysis)"
 summary: "A spat between Litecoin and an influencer started over price and ended with hairstyle jokes – proving that the project still draws attention and relevance."
 tags: ["crypto", "litecoin", "ltc", "influencer", "markets", "social media", "analysis"]
-image_url: "/images/litecoin-ltc.png"
+image_url: "https://images.pexels.com/photos/4422102/pexels-photo-4422102.jpeg"
 ---
 
 The **official Litecoin (LTC) account** found itself in a heated spat with a well-known **influencer** on social media. What began as criticism of Litecoin’s price performance soon shifted to jabs about – **hairstyles**.  
