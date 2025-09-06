@@ -11,7 +11,7 @@ menu:
 **MetaAdvisor** je neovisni projekt posvećen **tehnologiji, umjetnoj inteligenciji i kriptu**.
 
 Zašto smo krenuli  
-Većini ljudi kripto i moderna financija zvuče komplicirano. Naša misija je objasniti ih **jednostavno i jasno** – bez žargona, uz kratke sažetke i korisne linkove.
+Većini ljudi kripto i moderne financije zvuče komplicirano. Naša misija je objasniti ih **jednostavno i jasno** – bez kompliciranja, uz kratke sažetke i korisne linkove.
 
 Kako pišemo  
 - Svjetske vijesti + **naš kratki komentar** („što je bitno i zašto“).  
