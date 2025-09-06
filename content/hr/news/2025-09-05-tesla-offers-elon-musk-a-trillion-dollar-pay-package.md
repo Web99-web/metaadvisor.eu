@@ -1,28 +1,30 @@
 ---
-title: "Tesla nudi Elon Musk paket za plaćanje bilijuna dolara"
+title: "Tesla nudi Elonu Musku paket plaće vrijedan bilijun dolara"
 date: 2025-09-05T14:15:22Z
 category: "news"
 translationKey: "6fa0b02be0e014fa5bd316ea57662e6b"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/05/tesla-elon-musk-trillion-dollar-pay-package"
-summary: "Izvršni direktor morat će povećati vrijednost svoje kompanije za električni automobil s nešto više od 1tn na 8,5 $ tijekom 10 godina."
-image_url: "/news/2025-09-05-tesla-offers-elon-musk-a-trillion-dollar-pay-package.jpg"
+summary: "CEO mora povećati vrijednost Tesle s nešto više od 1 bilijun USD na 8,5 bilijuna USD u roku od 10 godina."
+tags: ["tesla", "elon musk", "stocks", "EV", "trillionaire"]
+image_url: "https://www.pexels.com/photo/person-sitting-inside-car-2526127/"
 ---
 
-Izvršni direktor morat će povećati vrijednost svoje tvrtke za električni automobil s nešto više od 1tn na 8,5 $ tijekom 10 godina
+**Elon Musk** mogao bi postati prvi svjetski **bilijunaš** ako ispuni ciljeve postavljene od strane Tesle u okviru povijesnog paketa nagrađivanja.  
 
-Elon Musk mogao bi postati prvi trilijur na svijetu ako pogodi ciljeve koje je Tesla postavio, u okviru sheme koju je otkrila kompanija za električni automobil koju vodi i u kojoj je najveći dioničar.
+Tesla je u svom najnovijem izvješću za dioničare predstavio uvjete tog plana, s uvodom: *„Da, dobro ste pročitali.“*  
 
-Tesla je iznio uvjete poticajnog paketa, bez presedana u korporacijskoj povijesti, u odjeljku svog najnovijeg ažuriranja na burzi koji je započeo: "Da, to ste ispravno pročitali."
+Prema planu, Musk mora povećati tržišnu vrijednost Tesle s nešto više od **1 bilijun USD** danas na **8,5 bilijuna USD** u razdoblju od 10 godina.  
 
-Musk, rekla je tvrtka, morat će povećati vrijednost Tesle s nešto više od 1tn od sada na 8,5 $ tijekom 10 godina.
+Ako uspije ostvariti taj rast, dobit će nove dionice koje bi njegov udio povećale s gotovo 16% na više od 25%, čime bi nadmašio bogatstvo od **2 bilijuna USD**.  
 
-Ako predsjeda rastom na toj skali, 54-godišnjak će dobiti nove dionice koje bi potaknule njegov udio u kompaniji s gotovo 16% do više od 25%, povećavajući bogatstvo najbogatijeg čovjeka na svijetu na više od 2 do 2 sata.
+Trenutačno se Muskovo neto bogatstvo procjenjuje na oko **430,9 mlrd. USD**, dok je **Larry Ellison** na drugom mjestu s 272,3 mlrd. USD.  
 
-Procjene trenutne neto vrijednosti Muska razlikuju se, ali živa rangiranje najbogatijih ljudi na svijetu na planeti, koju je sastavio Forbes, procjenjuje bogatstvo tajkuna rođenog u Južnoj Africi na 430,9 milijardi dolara.Na drugom mjestu, s 272,3 milijarde dolara, je suosnivač investitora i Oracle Larry Ellison.
+Ovaj plan objavljen je u dokumentu SEC-u te dolazi u razdoblju kada neki analitičari tvrde da njegove političke izjave mogu kočiti Teslin rast. Europom je prodaja pala 40%, što se dijelom pripisuje njegovim javnim stavovima i kratkotrajnoj političkoj suradnji.  
 
-Plan poticaja, otkriven u prijavi američkoj komisiji za vrijednosne papire u petak, dolazi u vrijeme kada su neki promatrači ispitivali mogu li Musk -ovi izmučeni politički stavovi Tesla zadržati.
+Istovremeno, Musk dijeli pažnju između Tesle i drugih svojih projekata poput **SpaceX**, **Neuralink**, **xAI** i **The Boring Company**, uz intenzivnu aktivnost na platformi **X** (ranije Twitter).  
 
-Europska prodaja automobila pala je za 40% početkom ove godine, što je dramatično pad koji su neki analitičari pripisali Muskovoj glasnoj podršci krajnje desne političke stranke i njegovom intenzivnom, ali kratkotrajnom savezu s Donaldom Trumpom.
+---
 
-Musk je također podijelio svoje dužnosti između Tesle i upravljanja drugim pothvatima, poput SpaceX -a, NeuraLink -a, XAI -ja i dosadnog CO -a, povrh vremena kada provodi objavljivanje na platformi društvenih medija X, ranije poznat kao Twitter, koju je kupio za za to
+## Naš osvrt
+Teslina strategija jasno pokazuje da se oslanjaju na Muskovo ime kao neslužbeni brend. Međutim, postizanje tržišne vrijednosti od 8,5 bilijuna USD nadilazi trenutna očekivanja – to je viša vrijednost od kombinirane tržišne kapitalizacije Applea, Microsofta i Googlea. Ovaj potez otvara pitanje dugoročne održivosti: hoće li Muskovo liderstvo biti motor rasta ili rizik u usputnim turbulencijama?
