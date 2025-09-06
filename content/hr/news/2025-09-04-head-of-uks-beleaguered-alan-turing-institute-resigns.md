@@ -1,32 +1,26 @@
 ---
-title: "Ravnateljica britanskog Alan Turing instituta podnijela ostavku"
+title: "Šef britanskog opuštenog instituta Alan Turing podnio ostavku"
 date: 2025-09-04T16:10:45Z
 category: "news"
 translationKey: "5aaee5fbf4daf825046425dc3e754f8f"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/04/head-of-alan-turing-institute-jean-innes-resigns"
-summary: "Jean Innes kaže da je vrijeme za ‘novo poglavlje’ u AI institutu, nakon pobune zaposlenika i poziva vlade na promjene."
-tags: ["alan turing institute", "jean innes", "peter kyle", "ai", "umjetna inteligencija", "uk"]
-image_url: "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
+summary: "Jean Innes kaže da je vrijeme za „novo poglavlje“ u AI istraživačkom tijelu, nakon što se pobuni osoblje i vlade pozivaju na promjene"
+image_url: "/news/2025-09-04-head-of-uks-beleaguered-alan-turing-institute-resigns.jpg"
 ---
 
-Jean Innes kaže da je vrijeme za “novo poglavlje” u AI institutu, nakon pobune zaposlenika i poziva vlade na promjene.  
+Jean Innes kaže da je vrijeme za „novo poglavlje“ u AI istraživačkom tijelu, nakon što se pobuni osoblje i vlade pozivaju na promjene
 
-Glavna izvršna direktorica vodećeg britanskog instituta za umjetnu inteligenciju povlači se s funkcije nakon pobune zaposlenika i zahtjeva vlade za strateškim preokretom.  
+Izvršni direktor vodećeg britanskog instituta za umjetnu inteligenciju odstupi nakon što se pobuna osoblja i vlada poziva na strateški remont.
 
-Jean Innes vodi Alan Turing Institute od 2023., no njezina pozicija bila je pod pritiskom zbog nezadovoljstva unutar organizacije i zahtjeva glavnog financijera – britanske vlade – za promjenom smjera.  
+Jean Innes vodio je Institut Alana Turing od 2023. godine, ali njezin je položaj bio pod pritiskom usred širokog nezadovoljstva unutar organizacije i zahtjeva od najvećeg sredstva, vlade Velike Britanije, za promjenu smjera.
 
-Institut je objavio da je potraga za njezinom zamjenom već u tijeku. Innes je prije imenovanja imala visoke funkcije u državnoj službi i tehnološkoj industriji.  
+Ati je rekla da je potraga već bila u tijeku za zamjenu za Innesa, koji je prije svog imenovanja držao više uloga u državnoj službi i tehnološkoj industriji.
 
-Vladini izvori ukazuju na pismo ministra za tehnologiju Petera Kylea upućeno predsjedniku instituta u srpnju, u kojem se tražila strateška promjena i naglasila potreba za novim vodstvom.  
+Vladini izvori ukazali su na pismo koje je u srpnju poslao tajnik tehnologije, Peter Kyle, na ATI -jevu stolicu koja je zahtijevala stratešku promjenu i ukazala na potrebu za novim vodstvom.
 
-U pismu je Kyle naveo da bi se institut trebao usmjeriti na obranu i nacionalnu sigurnost te je pozvao na “pažljivo razmatranje” sastava izvršnog tima za takav zaokret.  
+U pismu je Kyle rekao da bi institut trebao prebaciti svoj fokus na obranu i nacionalnu sigurnost i pozvao je "pažljivo razmatranje" na uspostavljanju odgovarajućeg izvršnog tima za takav potez.
 
-Innes je u četvrtak izjavila: “Velika mi je čast bila voditi nacionalni institut za podatkovne znanosti i umjetnu inteligenciju u Ujedinjenom Kraljevstvu, provodeći novu strategiju i nadgledajući značajnu organizacijsku transformaciju. Kako se taj rad zaključuje, a za institut počinje novo poglavlje, sada je pravo vrijeme za novo vodstvo.”  
+Innes je u četvrtak rekao: "Bila je velika čast voditi UK Nacionalni institut za znanost o podacima i umjetnu inteligenciju, provodeći novu strategiju i nadgledajući značajnu organizacijsku transformaciju. S tim radom zaključujući se i novo poglavlje koje započinje za Institut, sada je pravo vrijeme za novo vodstvo i uzbuđen sam zbog toga što će postići."
 
-Jedan izvor blizak internim raspravama rekao je da odlazak Innes pokazuje kako je Kyleovo pismo shvaćeno ozbiljno, ali da će promjene biti potrebne i na razini odbora ako institut želi u potpunosti preusmjeriti fokus na obranu i sigurnost.  
-
----
-
-### Osvrt MetaAdvisora:
-Ostavka u Alan Turing institutu pokazuje koliko snažno politika može utjecati na znanstvene i istraživačke organizacije. Fokus na obranu i sigurnost mogao bi promijeniti identitet instituta, dok se ujedno otvara pitanje ravnoteže između otvorene znanosti i državnih interesa.
+Jedan izvor upoznat s unutarnjom raspravom na ATI -u rekao je da je Innesov odlazak ukazao da je Kyleovo pismo shvaćeno ozbiljno.Međutim, izvor je dodao da će biti potrebne i promjene na razini odbora ako se ATI u potpunosti usredotoči na obranu i nacionalnu sigurnost.Odgovorno pismo Kyleu s ATI stolice, Doug Gurr, bivši izvršni direktor Amazona, rekao je da će to

@@ -1,32 +1,26 @@
 ---
-title: "Direktorin des britischen Alan Turing Institute tritt zurück"
+title: "Leiter des britischen belagerten Alan Turing Institute treten zurück"
 date: 2025-09-04T16:10:45Z
 category: "news"
 translationKey: "5aaee5fbf4daf825046425dc3e754f8f"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/04/head-of-alan-turing-institute-jean-innes-resigns"
-summary: "Jean Innes sagt, es sei Zeit für ein 'neues Kapitel' im KI-Institut, nach Mitarbeiterprotesten und Forderungen der Regierung nach Veränderungen."
-tags: ["alan turing institute", "jean innes", "peter kyle", "ki", "künstliche intelligenz", "uk"]
-image_url: "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
+summary: "Jean Innes sagt, es sei Zeit für ein „neues Kapitel“ bei AI Research Body, nachdem der Mitarbeiter der Mitarbeiter und die Regierung Veränderungen fordern"
+image_url: "/news/2025-09-04-head-of-uks-beleaguered-alan-turing-institute-resigns.jpg"
 ---
 
-Jean Innes sagt, es sei Zeit für ein „neues Kapitel“ im KI-Institut, nach einem Mitarbeiteraufstand und Forderungen der Regierung nach Veränderungen.  
+Jean Innes sagt, es sei Zeit für ein „neues Kapitel“ bei AI Research Body, nachdem der Mitarbeiter der Mitarbeiter und die Regierung Veränderungen fordern
 
-Die Geschäftsführerin des führenden britischen Instituts für Künstliche Intelligenz tritt zurück, nachdem es zu Protesten der Belegschaft und Forderungen der Regierung nach einer strategischen Neuausrichtung gekommen war.  
+Der Geschäftsführer des führenden Instituts für künstliche Intelligenz in Großbritannien tritt zurück, nachdem ein Stabsaufstand und die Regierung eine strategische Überarbeitung fordern.
 
-Jean Innes leitete das Alan Turing Institute seit 2023, doch ihre Position geriet unter Druck aufgrund weitverbreiteter Unzufriedenheit innerhalb der Organisation und der Forderung ihres größten Geldgebers – der britischen Regierung – nach einer Kursänderung.  
+Jean Innes leitet das Alan Turing Institute seit 2023, aber ihre Position wurde unter Druck geraten, da sie in der Organisation weit verbreitet ist, und der Forderung ihres größten Geldes, der britischen Regierung, um eine Richtungsänderung.
 
-Das Institut teilte mit, dass die Suche nach einem Nachfolger bereits im Gange sei. Innes hatte vor ihrer Ernennung leitende Positionen im Staatsdienst und in der Technologiebranche inne.  
+ATI sagte, die Suche sei bereits nach einem Ersatz für Innes im Gange, der vor ihrer Ernennung leitende Rollen in der öffentlichen Dienst- und Technologiebranche innehatte.
 
-Regierungsquellen verwiesen auf ein Schreiben des Technologie-Ministers Peter Kyle an den Vorsitzenden des Instituts im Juli, in dem eine strategische Neuausrichtung gefordert und die Notwendigkeit neuer Führung betont wurde.  
+Die staatlichen Quellen wiesen auf einen Brief des Technologiesekretärs Peter Kyle an den ATI -Vorsitzenden im Juli, der strategische Veränderungen forderte, und zeigten einen Bedarf an neuer Führung.
 
-In dem Schreiben erklärte Kyle, das Institut solle sich auf Verteidigung und nationale Sicherheit konzentrieren und eine „sorgfältige Überprüfung“ des Führungsteams sei notwendig.  
+In dem Brief sagte Kyle, das Institut sollte seinen Fokus auf die Verteidigung und die nationale Sicherheit wechseln und forderte die „sorgfältige Überlegung“, ein angemessenes Führungsteam für einen solchen Schritt vorhanden zu haben.
 
-Innes erklärte am Donnerstag: „Es war mir eine große Ehre, das nationale Institut für Datenwissenschaft und Künstliche Intelligenz im Vereinigten Königreich zu leiten, eine neue Strategie umzusetzen und einen bedeutenden organisatorischen Wandel zu begleiten. Da diese Arbeit nun abgeschlossen ist und ein neues Kapitel für das Institut beginnt, ist jetzt die richtige Zeit für eine neue Führung.“  
+Innes sagte am Donnerstag: „Es war eine große Ehre, das britische Nationale Institut für Datenwissenschaft und künstliche Intelligenz zu leiten, eine neue Strategie umzusetzen und eine bedeutende organisatorische Transformation zu überwachen. Mit dieser Arbeit und einem neuen Kapitel, das für das Institut beginnt, ist jetzt der richtige Zeitpunkt für neue Führung und ich bin begeistert von dem, was es erreicht.“
 
-Eine Quelle, die mit den internen Debatten vertraut ist, sagte, dass der Rücktritt von Innes zeige, dass Kyles Schreiben ernst genommen wurde. Allerdings seien auch Veränderungen auf Vorstandsebene erforderlich, wenn das Institut sich voll auf Verteidigung und Sicherheit konzentrieren solle.  
-
----
-
-### MetaAdvisor-Kommentar:
-Der Rücktritt am Alan Turing Institute zeigt, wie stark politische Vorgaben wissenschaftliche Institutionen beeinflussen können. Der neue Fokus auf Verteidigung und Sicherheit könnte die Ausrichtung des Instituts grundlegend verändern und wirft Fragen nach der Balance zwischen offener Forschung und staatlichen Interessen auf.
+Eine Quelle, die mit der internen Debatte bei ATI vertraut war, sagte, Innes 'Abreise zeigte, dass Kyles Brief ernst genommen worden sei.Die Quelle fügte jedoch hinzu, dass auch Änderungen auf Vorstandsebene erforderlich wären, wenn sich ATI vollständig auf die Verteidigung und die nationale Sicherheit konzentrieren würde.Der Antwortbrief an Kyle vom ATI -Vorsitzenden, Doug Gurr, einem ehemaligen Amazon -Manager, sagte, dies würde dies tun
