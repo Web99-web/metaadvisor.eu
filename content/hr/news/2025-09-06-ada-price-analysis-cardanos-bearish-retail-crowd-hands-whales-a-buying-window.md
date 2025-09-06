@@ -1,27 +1,28 @@
 ---
-title: "Analiza cijena ADA: Cardano's Bearish Maloprodajna gužva predaje kitove za kupnju prozora"
+title: "Analiza cijene ADA: Medvjeđi maloprodajni ulagači daju kitovima priliku za kupnju"
 date: 2025-09-06T03:30:00Z
-category: "ai"
+category: "crypto"
 translationKey: "c2a981d58c71d497b0227d5a49e91930"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/06/cardano-s-bearish-retail-crowd-hands-whales-a-buying-window"
-summary: "Ud osjećaja podudarao se s 5% odskokom, što sugerira da su trgovci koji su prodani u frustraciju možda pomogli u označavanju lokalnog dna."
-tags: ["ai"]
-image_url: "/news/2025-09-06-ada-price-analysis-cardanos-bearish-retail-crowd-hands-whales-a-buying-window.jpg"
+summary: "Pad sentimenta poklopio se s oporavkom od 5%, što sugerira da su trgovci koji su prodavali iz frustracije možda označili lokalno dno."
+tags: ["crypto", "cardano", "ada", "whales", "trading", "sentiment"]
+image_url: "/images/cardano-ada-logo.png"
 ---
 
-Cardano -ova maloprodajna baza okrenula je medvjeđe nakon tjedana povučenih uvjetima, postavljajući uvjete u kojima bi kitovi mogli ući.
+**Maloprodajna baza Cardana (ADA)** prešla je u pesimizam nakon tjedana pada cijene, stvarajući uvjete u kojima bi **kitovi** mogli iskoristiti situaciju za akumulaciju.  
 
-Podaci iz Santimenta pokazuju da je ADA-ov omjer komentara s bikovima i normenom na 1,5: 1 ovaj tjedan-najniži u pet mjeseci.Ud osjećaja podudarao se s 5% odskokom, što sugerira da su trgovci koji su prodani u frustraciju možda pomogli u označavanju lokalnog dna.
+Podaci iz **Santimenta** pokazuju da je omjer optimističnih i pesimističnih komentara pao na **1,5:1**, što je najniža razina u posljednjih pet mjeseci. Taj pad sentimenta poklopio se s oporavkom cijene od 5%, što sugerira da su trgovci koji su prodavali iz frustracije možda označili lokalno dno.  
 
-Povijesno gledano, skupovi ADA obično su započeli kada je raspoloženje maloprodaje najslabiji.Santiment je sredinom kolovoza označio sličnu postavku, kada je omjer 2: 1 poravnao s porastom.Suprotno tome, euforični šiljci - poput omjera 12,8: 1 ranije ovog ljeta - prethodili su oštrim povlačenjima.
+Povijesno gledano, rast ADA-e često počinje kada je maloprodajni sentiment najslabiji. Santiment je istaknuo sličnu situaciju sredinom kolovoza, kada je omjer od **2:1** bio u skladu s rastom cijene. Suprotno tome, euforični skokovi — poput omjera **12,8:1** ranije ovog ljeta — prethodili su naglim korekcijama.  
 
-Ekstremno osjećaje su važne jer su kripto tržišta neobično osjetljiva na maloprodajnu psihologiju.Kad optimizam dosegne vrhunac, mnoštvo se često kupuje u vrhovima.Kad se pesimizam postavi, veći igrači koriste pritisak prodaje kako bi se akumulirali.Taj je obrazac ove godine bio vidljiv u više imovine, uključujući Bitcoin i XRP.
+Ekstremi u sentimentu važni su jer su kripto tržišta neobično osjetljiva na psihologiju malih ulagača. Kada optimizam dosegne vrhunac, masa često kupuje na samom vrhu. Kada prevlada pesimizam, veći igrači koriste pritisak prodaje za akumulaciju. Ovaj obrazac vidljiv je i kod drugih imovina ove godine, uključujući **bitcoin i XRP**.  
 
-Za Cardano, smjena sugerira da kitovi mogu koristiti trenutnu slabost za izgradnju položaja, posebno ako se maloprodaja nastavlja kapitulirati.
+Za **Cardano**, ova promjena sugerira da bi kitovi mogli koristiti sadašnju slabost za izgradnju pozicija, pogotovo ako maloprodajni ulagači nastave kapitulirati.  
 
-Razlika u gužvi nasuprot cijenama ostaje jedan od pouzdanijih kratkoročnih trgovačkih signala kriptovaluta.Za sada su nestrpljivi trgovci ADA-e možda samo predali dugoročne investitore.
+Divergencija između ponašanja mase i cijene ostaje jedan od pouzdanijih kratkoročnih signala u kriptu. Trenutno se čini da su nestrpljivi trgovci s ADA-om upravo predali dugoročnim investitorima **njihovu ulaznu točku**.  
 
-Eterski entuzijazam se hladi dok ETF-ovi probacuju 505 milijuna dolara u 4-dnevnom toboganu
+---
 
-Spot Bitcoin ETF -ovi zabilježili su 284 milijuna dolara priljeva u istom razdoblju, signalizirajući oštar divergenciju u investitora
+## Naš osvrt
+Ovaj slučaj još jednom potvrđuje dinamiku kripto tržišta: **maloprodajni ulagači često reagiraju emocionalno**, dok institucionalni i veliki igrači koriste te trenutke za akumulaciju. Cardano, iako se ponekad kritizira zbog sporog razvoja, ostaje među vodećim blockchain projektima. Za dugoročne ulagače, ovakve faze pesimizma mogu značiti upravo priliku koja definira buduće dobitke.
