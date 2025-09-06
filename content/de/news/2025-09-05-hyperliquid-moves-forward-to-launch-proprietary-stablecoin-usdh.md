@@ -1,28 +1,30 @@
 ---
-title: "Hyperliquid bewegt sich voran, um proprietäre Stablecoin USDH zu starten"
+title: "Hyperliquid startet mit eigenem Stablecoin USDH"
 date: 2025-09-05T20:08:15Z
 category: "news"
 translationKey: "8415778740ffb7737a89abda3184ad31"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/tech/2025/09/05/hyperliquid-moves-forward-to-launch-proprietary-stablecoin"
-summary: "Ein proprietäres Stablecoin könnte die Abhängigkeit von Hyperliquid von USDC verringern und möglicherweise einen Teil der Einnahmen aus Reservevermögen erfassen."
-image_url: "/news/2025-09-05-hyperliquid-moves-forward-to-launch-proprietary-stablecoin-usdh.jpg"
+summary: "Ein eigener Stablecoin könnte Hyperliquids Abhängigkeit von USDC verringern und Einnahmen aus Reservevermögen ermöglichen."
+tags: ["crypto", "stablecoin", "usdh", "usdc", "tether", "defi", "exchange", "hyperliquid"]
+image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
 ---
 
-Laut einer Ankündigung der Hyperliquid Foundation auf dem Discord -Server der Plattform bereiten Decentralized Exchange Hyperliquid (HYPE) eine eigene Ankündigung der Hyperliquid -Stiftung vor.
+Die dezentrale Börse **Hyperliquid (HYPE)** bereitet die Einführung eines eigenen, an den US-Dollar gebundenen Stablecoins vor, so eine Ankündigung der Hyperliquid Foundation am Freitag im Discord-Kanal der Plattform.  
 
-Das Protokoll hat den Ticker USDH reserviert, den Validatoren bald für einen On-Chain-Governance-Prozess stimmen werden, wie die Ankündigung lautete.Teams, die an der Bereitstellung von USDH interessiert sind, können Vorschläge einreichen, und die Gewinnergruppe wird vom Validator Quorum ausgewählt, fügte die Post hinzu.
+Das Protokoll hat das Tickersymbol **USDH** reserviert, über das die Validatoren bald im Rahmen eines On-Chain-Governance-Prozesses abstimmen werden. Teams, die USDH implementieren möchten, können Vorschläge einreichen; die siegreiche Gruppe wird durch ein Validator-Quorum bestimmt.  
 
-"Der USDH-Ticker ist gut geeignet für eine hyperliquidische, hyperliquid-ausgerichtete und konforme USD Stablecoin", hieß es.
+> „Das Ticker USDH eignet sich perfekt für einen Hyperliquid-orientierten und regelkonformen USD-Stablecoin,“ heißt es in der Mitteilung.  
 
-Stablecoins sind eine entscheidende Infrastruktur von Kryptomärkten und dienen als Liquiditäts- und Handelspaare, um die meisten Geschäfte zu begleichen.Es handelt sich um eine 270 -Milliarden -Dollar -Vermögensklasse, die derzeit von Tether's USDT und Circle's USDC dominiert wird.Da die Regulierung wie den Genius Act in den USA vorgenommen wurde, schaffen die Akteure der Branche jedoch zunehmend ihr eigenes Token für ihre Ökosysteme.Die beliebte Crypto Wallet Metamask startet mit dem Infrastrukturanbieter M0 ein Stablecoin, während die Zahlungsfirma Stripe ein eigenes internes Stablecoin mit Bridge erstellte.
+Stablecoins sind ein zentrales Element der Krypto-Infrastruktur, da sie Liquidität bereitstellen und als Handelspaare für die meisten Transaktionen dienen. Es handelt sich um eine **270 Mrd. USD** große Anlageklasse, die derzeit von **Tether (USDT)** und **Circle (USDC)** dominiert wird.  
 
-Die Handelsaktivität von Hyperliquid legt nahe, dass es sofortige Nachfrage geben könnte.Die Börse hat im vergangenen Monat 398 Milliarden US -Dollar für das Handelsvolumen von Perpetual Derivaten und 20 Milliarden US -Dollar an Spot -Trades abgeschlossen, wie Defillama -Daten zeigen.Der USDC (USDC) von Circle dominiert derzeit die Liquidität und macht 95% des Stablecoin -Angebots von 5,6 Milliarden US -Dollar im Netzwerk aus.
+Immer mehr Unternehmen entwickeln eigene Token: **MetaMask** bringt einen Stablecoin mit dem Infrastruktur-Anbieter M0 heraus, während **Stripe** seinen internen Stablecoin Bridge eingeführt hat.  
 
-Durch die Einführung eines eigenen Stablecoin könnte Hyperliquid theoretisch die Abhängigkeit vom Kreis verringern und gleichzeitig Einnahmen aus Vermögenswerten erfassen, die das Token unterstützen.
+Nach Angaben von **DefiLlama** wickelte Hyperliquid im letzten Monat **398 Mrd. USD** an Perpetual-Derivaten und **20 Mrd. USD** im Spot-Handel ab. Derzeit macht USDC **95%** des **5,6 Mrd. USD** Stablecoin-Angebots im Netzwerk aus.  
 
-Lesen Sie mehr: Hyperliquids Hype -Token: Warum Arthur Hayes glaubt
+Mit einem eigenen Stablecoin könnte Hyperliquid die Abhängigkeit von Circle verringern und gleichzeitig Einnahmen aus den Vermögenswerten erzielen, die den Token absichern.  
 
-Das KI-Codierungs-Tool von Coinbase ist anfällig für "Copypasta" -Er Exploit
+---
 
-Die Technik
+## Unser Fazit
+Der Schritt von Hyperliquid passt in den wachsenden Trend, dass führende Krypto-Projekte eigene Stablecoins entwickeln, um mehr Kontrolle über Liquidität und Einnahmen zu gewinnen. Sollte USDH erfolgreich eingeführt werden, könnte er die Dominanz von USDC im Netzwerk verringern und den Wettbewerb auf dem Stablecoin-Markt beleben.
