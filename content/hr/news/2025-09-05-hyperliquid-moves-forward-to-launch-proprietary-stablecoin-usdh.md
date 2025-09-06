@@ -1,28 +1,30 @@
 ---
-title: "HyperLiquid se kreće naprijed za pokretanje vlasničkog Stablecoina USDH"
+title: "Hyperliquid kreće s lansiranjem vlastitog stablecoina USDH"
 date: 2025-09-05T20:08:15Z
 category: "news"
 translationKey: "8415778740ffb7737a89abda3184ad31"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/tech/2025/09/05/hyperliquid-moves-forward-to-launch-proprietary-stablecoin"
-summary: "Vlasnički Stablecoin mogao bi smanjiti ovisnost Hyperliquida o USDC -u i potencijalno uhvatiti dio prihoda od pričuvne imovine."
-image_url: "/news/2025-09-05-hyperliquid-moves-forward-to-launch-proprietary-stablecoin-usdh.jpg"
+summary: "Vlastiti stablecoin mogao bi smanjiti ovisnost Hyperliquida o USDC-u i omogućiti prihod od rezervne imovine."
+tags: ["crypto", "stablecoin", "usdh", "usdc", "tether", "defi", "exchange", "hyperliquid"]
+image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
 ---
 
-Decentralizirana Exchange HyperLiquid (HYPE) priprema se za pokretanje vlastitog američkog dolara Stablecoin, navodi se u najavi petka iz Fondacije HyperLiquid na poslužitelju Discord platforme.
+Decentralizirana burza **Hyperliquid (HYPE)** priprema lansiranje vlastitog stablecoina vezanog uz američki dolar, prema objavi Hyperliquid Foundationa u petak na Discord kanalu platforme.  
 
-Protokol je rezervirao TICKERS USDH, koji će Validatori uskoro glasati za izdvajanje postupka upravljanja u lancu, najava je najava.Timovi zainteresirani za raspoređivanje USDH mogu podnijeti prijedloge, a pobjedničku skupinu odabrat će Validator Quorum, dodao je post.
+Protokol je rezervirao ticker **USDH**, o kojem će validatori uskoro glasati putem on-chain procesa upravljanja. Timovi zainteresirani za implementaciju USDH-a mogu predati prijedloge, a pobjednički tim bit će izabran većinom validatora.  
 
-"USDH oznaka je prikladna za hiperlikid-prvu, hiperlikidu usklađenu i usklađenu američku stabloinu", navedeno je.
+> „Ticker USDH dobro odgovara za stablecoin koji je prvenstveno usklađen s Hyperliquidom i regulatornim okvirima,“ navodi se u objavi.  
 
-Stablecoini su ključni dio infrastrukture kripto tržišta, koji služe kao parovi likvidnosti i trgovanja kako bi se riješili većina obrta.Riječ je o razredu imovine od 270 milijardi dolara, u kojem trenutno dominiraju Tether's USDT i Circle -ov USDC.Međutim, s uspostavljanjem regulacije, poput Genius Act u Sjedinjenim Državama, igrači u industriji sve više stvaraju vlastiti token za svoje ekosustave.Popularni Crypto Wallet Metamask lansira stabblecoin s davateljem infrastrukture M0, dok je tvrtka za plaćanje Stripe stvorila vlastiti interni Stablecoin s mostom.
+Stablecoini su ključna infrastruktura kripto tržišta jer osiguravaju likvidnost i služe kao trgovački parovi za većinu transakcija. Radi se o klasi imovine vrijednoj **270 milijardi USD**, kojom trenutno dominiraju **Tether (USDT)** i **Circle (USDC)**.  
 
-Trgovačka aktivnost HyperLiquida sugerira da bi mogla biti trenutna potražnja.Razmjena je obrađivala 398 milijardi dolara u trajnim derivatima i 20 milijardi USD u spot trgovinama prošlog mjeseca, pokazuju podaci DeFillama.Circle's USDC (USDC) trenutno dominira likvidnošću, čineći 95% od 5,6 milijardi dolara stabibeloin opskrbe na mreži.
+Sve više tvrtki uvodi vlastite tokene: **MetaMask** pokreće stablecoin s pružateljem infrastrukture M0, dok je **Stripe** izgradio vlastiti stablecoin Bridge.  
 
-Uvođenjem vlastitog stabibela, Hyperliquid bi, u teoriji, mogao smanjiti ovisnost o krugu, istovremeno prikupljajući prihod od imovine koja podržava token.
+Prema podacima **DefiLlama**, Hyperliquid je prošlog mjeseca obradio **398 mlrd. USD** prometa u perpetual derivatima i **20 mlrd. USD** u spot trgovanju. USDC trenutno čini **95%** od ukupno **5,6 mlrd. USD** stablecoin ponude na mreži.  
 
-Pročitajte više: HyperLiquidov hype token: Zašto Arthur Hayes misli da ima 126x Potencijal naopako
+Uvođenjem vlastitog stablecoina, Hyperliquid bi mogao smanjiti ovisnost o Circleu i istodobno ostvarivati prihod od imovine koja podupire token.  
 
-Coinbaseov alat za kodiranje AI pronađen ranjiv na 'copypasta' eksploat
+---
 
-Tehnika
+## Naš osvrt
+Hyperliquidov potez uklapa se u širi trend u kojem vodeći kripto projekti razvijaju vlastite stablecoine kako bi osigurali veću kontrolu nad likvidnošću i prihodima. Ako USDH zaživi, mogao bi smanjiti dominaciju USDC-a na mreži i otvoriti prostor za veću konkurenciju na stablecoin tržištu.
