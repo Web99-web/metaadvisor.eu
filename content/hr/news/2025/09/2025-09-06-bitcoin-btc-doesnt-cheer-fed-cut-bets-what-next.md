@@ -7,7 +7,7 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/06/bitcoin-doesn-t-cheer-fed-cut-bets-what-next"
 summary: "Američki izvještaj o zapošljavanju pokazao je samo 22.000 novih radnih mjesta u kolovozu, znatno ispod očekivanja, čime je povećana vjerojatnost smanjenja kamatnih stopa Fed-a."
 tags: ["bitcoin", "btc", "crypto", "fed", "monetarna politika", "tržište rada", "usa"]
-image_url: "/static/images/coin btc1.jpg"
+image_url: "/images/coin btc1.jpg"
 ---
 
 Loše vijesti u posljednja 24 sata ostale su loše vijesti. Slab američki izvještaj o zapošljavanju u petak pojačao je očekivanja o većem smanjenju Fed-ovih kamatnih stopa, ali bitcoin (BTC) na cijeni od 110.617,69 USD nije reagirao pozitivno.
