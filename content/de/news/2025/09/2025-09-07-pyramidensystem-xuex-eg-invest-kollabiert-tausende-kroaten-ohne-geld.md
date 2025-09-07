@@ -7,8 +7,9 @@ source: "24sata + Index.hr + Jutarnji + tportal"
 source_url: "https://www.24sata.hr/news/tisuce-hrvata-ostale-bez-novca-urusila-se-piramidalna-shema-1073006"
 summary: "Die Plattform XUEX/EG Invest ist über Nacht zusammengebrochen; laut Medienberichten verloren tausende Anleger ihre Einlagen – klassisches Ponzi/„Pig-Butchering“."
 tags: ["news", "scam", "ponzi", "pig-butchering", "xuex", "eg-invest", "revolut", "telegram", "croatia", "security", "betrug"]
-image_url: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Police_Line_Do_Not_Cross_%28cropped%29.jpg"
-image_source: "Foto: Tony Webster / CC BY 2.0 via Wikimedia Commons"
+image_url: "https://images.pexels.com/photos/5900131/pexels-photo-5900131.jpeg"
+image_source: "Pexels – Kaboompics.com (https://www.pexels.com/photo/woman-and-receipts-on-desk-5900131/)"
+image_alt: "Woman reviewing receipts on a desk"
 ---
 
 Die Plattform **XUEX** (unter **EG Investment Group** firmierend) ist am Freitagabend kollabiert. In Anzeigen und Telegram-Gruppen wurden „stabile Renditen“ und eine **Verdopplung der Einlage** versprochen; Nutzer mussten täglich „Signale“ in der App bestätigen. Auszahlungen waren erst nach **52 Tagen** möglich — ein typisches Muster von **Ponzi-** bzw. **„Pig-Butchering“**-Betrug. :contentReference[oaicite:5]{index=5}
