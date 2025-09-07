@@ -17,4 +17,5 @@ Santiment bilježi da su trgovci „manje zainteresirani za nepoznate altcoine�
 Šira slika i dalje je rotacija prema kvaliteti: likvidniji, institucionalno praćeni coinovi zadržavaju primat, dok **rizičniji mikrokapovi** gube na zamahu sve dok se risk-on ne vrati snažnije.
 
 **Naš osvrt:**  
-Ovakve rotacije su **zdrave** u ciklusima — najprije se konsolidira na „blue-chip“ kriptu (BTC/ETH), a zatim se apetit širi. Za čitatelje to znači: pratiti **tokove i likvidnost**, a ne nasumično „loviti“ altcoine s tankim knjigama naloga.
+“Fear” režimi su često **kontrarian** signali. Sjetimo se prije par mjeseci rasprava tipa “je li ETH gotov?” — pa je zatim uslijedio snažan uzlet. Kratkoročni ETF-odljevi i slabiji apetit prema mikro-capovima ne ruše srednjoročnu tezu. Pratimo **tokove i likvidnost** (ETF/cex on-ramp), **derivate** (funding/basis), te **on-chain aktivnost** (L2 transakcije, stakiranje, gas) — kad se ta tri sloja poravnaju, “Fear” se često pokaže kao **prilika**, a ne signal kapitulacije.
+
