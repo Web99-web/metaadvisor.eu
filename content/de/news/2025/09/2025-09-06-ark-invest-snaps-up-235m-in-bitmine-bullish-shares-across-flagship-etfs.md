@@ -7,7 +7,7 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/06/ark-invest-snaps-up-usd23-5m-in-bitmine-and-bullish-shares-across-flagship-etfs"
 summary: "Die Käufe, die in Handelsmeldungen veröffentlicht wurden, umfassen 387.000 Aktien von BitMine und 144.000 Aktien von Bullish, wobei der ARK Innovation ETF (ARKK) den größten Anteil ausmachte."
 tags: ["ark", "arkinvest", "etf", "bitmine", "bullish", "crypto", "ethereum", "eth", "aktien", "investitionen"]
-image_url: "/static/images/Cathie_Wood_ARK_Invest_Photo.jpg"
+image_url: "/images/Cathie_Wood_ARK_Invest_Photo.jpg"
 image_attribution: "Foto: Cathie Wood, Autorin Caroline Wood, CC BY-SA 4.0"
 ---
 
