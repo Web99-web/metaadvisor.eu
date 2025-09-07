@@ -7,7 +7,7 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/06/bitcoin-doesn-t-cheer-fed-cut-bets-what-next"
 summary: "The U.S. jobs report revealed only 22,000 job additions in August, far below expectations, increasing the likelihood of a Fed rate cut."
 tags: ["bitcoin", "btc", "crypto", "fed", "monetary policy", "labor market", "usa"]
-image_url: "/static/images/coin btc1.jpg"
+image_url: "/images/coin btc1.jpg"
 ---
 
 Bad news has just been bad news over the past 24 hours. Friday’s weak U.S. jobs report bolstered bets on deeper Fed cuts, but Bitcoin (BTC) at $110,617.69 hasn’t responded positively.
