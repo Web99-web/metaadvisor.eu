@@ -7,8 +7,9 @@ source: "24sata + Index.hr + Jutarnji + tportal"
 source_url: "https://www.24sata.hr/news/tisuce-hrvata-ostale-bez-novca-urusila-se-piramidalna-shema-1073006"
 summary: "Platforma XUEX/EG Invest preko noći je kolabirala; prema medijskim navodima, tisuće građana izgubile su uloge u klasičnoj Ponzijevoj/‘pig-butchering’ shemi."
 tags: ["news", "scam", "ponzi", "pig-butchering", "xuex", "eg-invest", "revolut", "telegram", "croatia", "hrvatska", "security", "fraud"]
-image_url: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Police_Line_Do_Not_Cross_%28cropped%29.jpg"
-image_source: "Photo: Tony Webster / CC BY 2.0 via Wikimedia Commons"
+image_url: "https://images.pexels.com/photos/5900131/pexels-photo-5900131.jpeg"
+image_source: "Pexels – Kaboompics.com (https://www.pexels.com/photo/woman-and-receipts-on-desk-5900131/)"
+image_alt: "Woman reviewing receipts on a desk"
 ---
 
 Platforma **XUEX** (navodno u sklopu **EG Investment Group**) urušila se u petak navečer, ostavljajući tisuće ulagača bez pristupa uplaćenim sredstvima, izvijestili su domaći mediji. U oglasima i Telegram grupama obećavani su „stabilni prinosi” i udvostručenje uloga, a korisnici su morali potvrđivati dnevne „signale” u aplikaciji. Isplate su, prema pravilima, bile moguće tek nakon **52 dana**, što je održavalo iluziju stabilnosti — tipičan obrazac **Ponzijevih** i **“pig-butchering”** (sha zhu pan) prevara. :contentReference[oaicite:0]{index=0}
