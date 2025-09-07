@@ -2,14 +2,18 @@
 # -*- coding: utf-8 -*-
 import re, os, json, datetime, time, hashlib
 from pathlib import Path
-from urllib.parse import urlparse
 import requests
 import frontmatter
 from googletrans import Translator
 
+# ============ OPCIJE ============
+ADD_ALIASES_FROM_INBOX     = False  # preusmjeri /news/2025-09-07-naslov/ → /news/cisti-slug/
+DELETE_INBOX_AFTER_PUBLISH = False  # obriši inbox .md nakon uspješne objave
+PUBLISH_LIMIT              = 5      # koliko inbox fajlova objaviti po runu
+# ================================
+
 # ============ KONFIG ============
 INBOX  = Path("content/_inbox")  # EN draftovi iz scrape_inbox.py
-
 USER_AGENT = "MetaAdvisorBot/2.0 (+https://metaadvisor.eu)"
 TIMEOUT    = 15
 HEADERS    = {"User-Agent": USER_AGENT}
@@ -118,41 +122,37 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     body_en  = clean_body(post.content)
     image_url= post.get("image_url","")
 
+    # pripremi alias sa starog “datumskog” segmenta — samo ako je uključeno
+    old_segment = inbox_file.stem if ADD_ALIASES_FROM_INBOX else None
+
     # preuzmi og:image kao hero.jpg (Hugo će iz toga raditi thumb/WebP)
     hero = dl(image_url)
 
     # EN (default, bez /en/ u URL-u)
+    en_aliases = [f"/news/{old_segment}/"] if old_segment else None
     write_bundle("en", dt, title_en, body_en or f"Read the full article: {src_url}",
-                 tkey, src, src_url, tags, aliases=None, hero_bytes=hero)
+                 tkey, src, src_url, tags, aliases=en_aliases, hero_bytes=hero)
 
     # HR
     if also_hr:
         title_hr = auto_translate(title_en, "hr")
         body_hr  = auto_translate(body_en or f"Read the full article: {src_url}", "hr")
-        write_bundle("hr", dt, title_hr, body_hr, tkey, src, src_url, tags, hero_bytes=hero)
+        hr_aliases = [f"/hr/news/{old_segment}/"] if old_segment else None
+        write_bundle("hr", dt, title_hr, body_hr, tkey, src, src_url, tags,
+                     aliases=hr_aliases, hero_bytes=hero)
 
     # DE
     if also_de:
         title_de = auto_translate(title_en, "de")
         body_de  = auto_translate(body_en or f"Read the full article: {src_url}", "de")
-        write_bundle("de", dt, title_de, body_de, tkey, src, src_url, tags, hero_bytes=hero)
+        de_aliases = [f"/de/news/{old_segment}/"] if old_segment else None
+        write_bundle("de", dt, title_de, body_de, tkey, src, src_url, tags,
+                     aliases=de_aliases, hero_bytes=hero)
 
     print(f"[publish] {inbox_file.name} → bundles OK")
 
-    # Po želji: nakon objave očisti inbox (spriječi dupli publish)
-    # inbox_file.unlink()
-
-def pick_inbox_files(limit=5):
-    files = sorted(INBOX.rglob("*.md"))
-    return files[:limit]
-
-def main():
-    files = pick_inbox_files()
-    if not files:
-        print("[i] Nema ničega u inboxu.")
-        return
-    for f in files:
-        publish_one(f, also_hr=True, also_de=True)
-
-if __name__ == "__main__":
-    main()
+    if DELETE_INBOX_AFTER_PUBLISH:
+        try:
+            inbox_file.unlink()
+            print(f"[cleanup] Removed {inbox_file}")
+        except Exception as e:
