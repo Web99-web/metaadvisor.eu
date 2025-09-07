@@ -1,9 +1,8 @@
 name: Scrape & Commit (daily 06:00 UTC, EN→DE/HR via Google Translate)
 
 on:
-  schedule:
-    - cron: "0 6 * * *"     # jednom dnevno u 06:00 UTC
-  workflow_dispatch:         # ručno pokretanje iz Actions taba
+  workflow_dispatch: {}      # ručno pokretanje SAMO; nema više crona
+
 
 permissions:
   contents: write
