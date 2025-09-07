@@ -1,0 +1,37 @@
+name: Publish from Inbox (manual)
+
+on:
+  workflow_dispatch: {}   # pokrećeš ručno u Actions tabu
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 python-frontmatter feedparser Pillow googletrans==4.0.0-rc1
+
+      - name: Publish selected from inbox
+        run: python publish_from_inbox.py
+
+      - name: Commit published bundles
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: publish from inbox → EN/HR/DE bundles"
+          file_pattern: |
+            content/en/news/**
+            content/hr/news/**
+            content/de/news/**
