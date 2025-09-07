@@ -7,7 +7,7 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/06/bitcoin-and-stablecoins-dominate-as-india-u-s-top-2025-crypto-adoption-index"
 summary: "USDT and USDC continue to lead global flows, but EURC and PYUSD are rising fast as institutional rails expand."
 tags: ["crypto", "bitcoin", "btc", "usdt", "usdc", "eurc", "pyusd", "stablecoins", "chainalysis", "etf"]
-image_url: "/static/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
 ---
 
 India and the United States top the world in cryptocurrency adoption this year, according to Chainalysis’ 2025 Geography of Cryptocurrency Report, underscoring how both grassroots and institutional forces are shaping the market’s trajectory.
