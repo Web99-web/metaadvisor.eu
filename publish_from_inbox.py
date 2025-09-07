@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import re, os, json, datetime, time
+import re, os, json, datetime, time, hashlib
 from pathlib import Path
 from urllib.parse import urlparse
 import requests
@@ -8,38 +8,44 @@ import frontmatter
 from googletrans import Translator
 
 # ============ KONFIG ============
-OUT_EN = Path("content/en/news")
-OUT_DE = Path("content/de/news")
-OUT_HR = Path("content/hr/news")
-INBOX  = Path("content/_inbox")
+INBOX  = Path("content/_inbox")  # EN draftovi iz scrape_inbox.py
 
 USER_AGENT = "MetaAdvisorBot/2.0 (+https://metaadvisor.eu)"
 TIMEOUT    = 15
 HEADERS    = {"User-Agent": USER_AGENT}
 # =================================
 
-TRANSLIT = {"ä":"ae","ö":"oe","ü":"ue","ß":"ss","č":"c","ć":"c","š":"s","ž":"z","đ":"dj",
-            "Ä":"ae","Ö":"oe","Ü":"ue","Č":"c","Ć":"c","Š":"s","Ž":"z","Đ":"dj"}
+TRANSLIT = {
+    # German
+    "ä":"ae","ö":"oe","ü":"ue","ß":"ss",
+    # Croatian
+    "č":"c","ć":"c","š":"s","ž":"z","đ":"dj",
+    "Ä":"ae","Ö":"oe","Ü":"ue","Č":"c","Ć":"c","Š":"s","Ž":"z","Đ":"dj"
+}
 
 translator = Translator()
 
 def translit(s: str) -> str:
     return "".join(TRANSLIT.get(ch, ch) for ch in s)
 
-def slugify_local(title: str) -> str:
+def url_slug(title: str) -> str:
+    """Lokalizirani slug bez datuma (za čisti URL)."""
     s = translit(title).lower()
-    s = re.sub(r"[^a-z0-9\- _]", "", s).strip().replace(" ", "-")
+    s = re.sub(r"[^a-z0-9\\- _]", "", s).strip().replace(" ", "-")
     s = re.sub(r"-{2,}", "-", s)
     return s[:120].strip("-")
 
-def dated_slug(dt: datetime.datetime, title: str) -> str:
-    return f"{dt.strftime('%Y-%m-%d')}-{slugify_local(title)}"
-
 def bundle_dir(lang: str, dt: datetime.datetime, slug: str) -> Path:
-    return Path("content")/lang/"news"/f"{dt:%Y}"/f"{dt:%m}"/slug
+    """
+    EN je default → content/news/YYYY/MM/DD/<slug>/index.md
+    Ostali jezici → content/<lang>/news/YYYY/MM/DD/<slug>/index.md
+    """
+    base = Path("content") if lang == "en" else Path("content")/lang
+    return base/"news"/f"{dt:%Y}"/f"{dt:%m}"/f"{dt:%d}"/slug
 
 def clean_body(md: str) -> str:
     if not md: return ""
+    # ukloni artefakte tipa :contentReference[...] {index=...}
     md = re.sub(r":contentReference\[[^\]]*\]\{index=\d+\}", "", md)
     return md
 
@@ -54,28 +60,41 @@ def dl(url: str) -> bytes | None:
 
 def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
                  tkey: str, src: str, src_url: str, tags, aliases=None, hero_bytes=None):
-    slug = dated_slug(dt, title)
-    d = bundle_dir(lang, dt, slug)
+    """
+    Kreira page bundle s lokaliziranim slugom (bez datuma u URL-u).
+    Rješava koliziju dodavanjem kratkog hash sufiksa.
+    """
+    slug_clean = url_slug(title)
+    d = bundle_dir(lang, dt, slug_clean)
+
+    # kolizija: isti slug isti dan → dodaj kratki hash sufiks
+    if d.exists():
+        short = hashlib.md5(f"{title}{dt}".encode()).hexdigest()[:6]
+        slug_clean = f"{slug_clean}-{short}"
+        d = bundle_dir(lang, dt, slug_clean)
+
     d.mkdir(parents=True, exist_ok=True)
+
     if hero_bytes:
         (d/"hero.jpg").write_bytes(hero_bytes)
 
     fm = [
         "---",
         f'title: "{title}"',
+        f'slug: "{slug_clean}"',  # ključno: čisti URL bez datuma
         f"date: {dt.strftime('%Y-%m-%dT%H:%M:%SZ')}",
         'category: "news"',
         f'translationKey: "{tkey}"',
         f'source: "{src}"',
         f'source_url: "{src_url}"',
-        "tags: [" + ", ".join([f'"{t}"' for t in (tags or [])]) + "]",
+        "tags: [" + ", ".join([f'\"{t}\"' for t in (tags or [])]) + "]",
     ]
     if aliases:
         fm.append("aliases:")
         fm += [f'  - "{a}"' for a in aliases]
     fm.append("---")
 
-    (d/"index.md").write_text("\n".join(fm) + "\n\n" + body + "\n", encoding="utf-8")
+    (d/"index.md").write_text("\n".join(fm) + "\n\n" + (body or "") + "\n", encoding="utf-8")
     return d
 
 def auto_translate(text: str, lang: str) -> str:
@@ -99,11 +118,12 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     body_en  = clean_body(post.content)
     image_url= post.get("image_url","")
 
-    hero = dl(image_url)  # hero.jpg (thumb će Hugo raditi iz hero-a)
+    # preuzmi og:image kao hero.jpg (Hugo će iz toga raditi thumb/WebP)
+    hero = dl(image_url)
 
-    # EN
-    dir_en = write_bundle("en", dt, title_en, body_en or f"Read the full article: {src_url}",
-                          tkey, src, src_url, tags, aliases=None, hero_bytes=hero)
+    # EN (default, bez /en/ u URL-u)
+    write_bundle("en", dt, title_en, body_en or f"Read the full article: {src_url}",
+                 tkey, src, src_url, tags, aliases=None, hero_bytes=hero)
 
     # HR
     if also_hr:
@@ -118,7 +138,8 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
         write_bundle("de", dt, title_de, body_de, tkey, src, src_url, tags, hero_bytes=hero)
 
     print(f"[publish] {inbox_file.name} → bundles OK")
-    # po želji: nakon objave, premjesti ili izbriši inbox fajl:
+
+    # Po želji: nakon objave očisti inbox (spriječi dupli publish)
     # inbox_file.unlink()
 
 def pick_inbox_files(limit=5):
