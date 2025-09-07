@@ -12,16 +12,16 @@ image_source: "Pexels – Kaboompics.com (https://www.pexels.com/photo/woman-and
 image_alt: "Woman reviewing receipts on a desk"
 ---
 
-Die Plattform **XUEX** (unter **EG Investment Group** firmierend) ist am Freitagabend kollabiert. In Anzeigen und Telegram-Gruppen wurden „stabile Renditen“ und eine **Verdopplung der Einlage** versprochen; Nutzer mussten täglich „Signale“ in der App bestätigen. Auszahlungen waren erst nach **52 Tagen** möglich — ein typisches Muster von **Ponzi-** bzw. **„Pig-Butchering“**-Betrug. :contentReference[oaicite:5]{index=5}
+Die Plattform **XUEX** (unter **EG Investment Group** firmierend) ist am Freitagabend kollabiert. In Anzeigen und Telegram-Gruppen wurden „stabile Renditen“ und eine **Verdopplung der Einlage** versprochen; Nutzer mussten täglich „Signale“ in der App bestätigen. Auszahlungen waren erst nach **52 Tagen** möglich — ein typisches Muster von **Ponzi-** bzw. **„Pig-Butchering“**-Betrug.
 
-Der Mathematiker **Toni Milun** und Prof. **Miljenko Švarcmajer** warnten öffentlich vor der Masche. Nach dem Kollaps hieß es in der Gruppe vom Admin „Professor“ (als **Leo Smith** bezeichnet), eine „Finanzinspektion“ verhindere Auszahlungen für **10 Monate**; gleichzeitig wurde ein „neues Projekt“ angepriesen — ein bekanntes **Double-Dip**-Manöver. :contentReference[oaicite:6]{index=6}
+Der Mathematiker **Toni Milun** und Prof. **Miljenko Švarcmajer** warnten öffentlich vor der Masche. Nach dem Kollaps hieß es in der Gruppe vom Admin „Professor“ (als **Leo Smith** bezeichnet), eine „Finanzinspektion“ verhindere Auszahlungen für **10 Monate**; gleichzeitig wurde ein „neues Projekt“ angepriesen — ein bekanntes **Double-Dip**-Manöver.
 
-Ähnliche **sha zhu pan**-Betrügereien rekrutieren weltweit Opfer via Social Media/Messenger und nutzen falsche „Investment-Apps“. :contentReference[oaicite:7]{index=7}
+Ähnliche **sha zhu pan**-Betrügereien rekrutieren weltweit Opfer via Social Media/Messenger und nutzen falsche „Investment-Apps“.
 
 ### Was Betroffene tun sollten
 - Weitere Überweisungen stoppen und den Fall bei der **Polizei/MUP** melden; Chats/Belege sichern.  
-- Bei Zahlungen über **Revolut/Bank**, die Transaktionen melden und Rückbuchung/APP-Fraud-Prozesse starten. :contentReference[oaicite:8]{index=8}
-- Keine **„Recovery“-Dienstleister** bezahlen, die Rettung gegen Gebühr versprechen. :contentReference[oaicite:9]{index=9}
+- Bei Zahlungen über **Revolut/Bank**, die Transaktionen melden und Rückbuchung/APP-Fraud-Prozesse starten.  
+- Keine **„Recovery“-Dienstleister** bezahlen, die Rettung gegen Gebühr versprechen.
 
 **Unser Fazit:**  
 Auszahlungsverzögerungen plus ständige Rekrutierung kaschieren Ponzi-Muster nur kurz. Genauso wichtig: **Sie brauchen keinen Mittelsmann**. Krypto kann man **selbst** kaufen und halten — ohne „Manager“ und ohne „Signale“.
