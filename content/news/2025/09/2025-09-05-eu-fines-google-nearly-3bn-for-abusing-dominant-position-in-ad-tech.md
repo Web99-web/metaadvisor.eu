@@ -6,7 +6,7 @@ translationKey: "0b0d36adcb5c8f28f94df256792a039a"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/05/google-fined-european-union"
 summary: "Regulators ordered the tech giant to end ‘self-preferencing practices’ in advertising services but declined to force sale"
-image_url: "/news/2025-09-05-eu-fines-google-nearly-3bn-for-abusing-dominant-position-in-ad-tech.jpg"
+image_url: "/static/images/Google.png"
 tags: ["eu", "google", "technology", "adtech", "antitrust", "competition", "fines"]
 ---
 
