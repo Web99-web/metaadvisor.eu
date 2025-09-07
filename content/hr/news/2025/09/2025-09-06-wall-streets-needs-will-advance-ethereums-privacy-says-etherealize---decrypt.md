@@ -26,7 +26,8 @@ Uz kazneni progon američkih vlasti protiv developera usluga za miješanje coina
 
 „Kako budemo nadograđivali ova tržišta, institucije će zahtijevati privatnost i pomaknut ćemo iglu prema **praktičnoj, primijenjenoj i usklađenoj** privatnosti“, kaže on.
 
-ZK dokaz je kriptografska metoda kojom se može dokazati da nešto znate, a da pritom…
+ZK dokaz (Zero-Knowledge proof) je kriptografska metoda kojom se može dokazati da je neka tvrdnja istinita **bez otkrivanja ikakvih dodatnih informacija**. U praksi: možeš dokazati da imaš dovoljno sredstava za transakciju bez otkrivanja salda, ili da si prošao KYC bez otkrivanja osobnih podataka. Najčešće varijante su **zk-SNARK** i **zk-STARK**, a ključna svojstva: potpunost, čvrstoća i nulto znanje.
+
   
 **Naš osvrt:**  
 Institucije guraju **privatnost kao funkcionalni standard**, ali traže i **uskladivost (KYC/AML, audit trail)**. Najvjerojatniji kompromis su **ZK-rješenja s odabranim otkrivanjem (selective disclosure)**: privatno prema javnosti, čitljivo prema ovlaštenim revizorima. Ako se taj model etablira za vrijednosne papire i trezorske tokove, **isti mehanizmi** mogli bi se preliti i na potrošačke slučajeve (DeFi i plaćanja) — uz bolje UX-e za privatnost.
