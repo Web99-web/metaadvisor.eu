@@ -12,18 +12,17 @@ image_source: "Pexels – Kaboompics.com (https://www.pexels.com/photo/woman-and
 image_alt: "Woman reviewing receipts on a desk"
 ---
 
-The **XUEX** platform (linked to **EG Investment Group**) collapsed on Friday night, leaving thousands of users without access to their funds, according to Croatian media. Ads and Telegram groups promised “stable returns” and a **doubling of deposits**, with users confirming two daily “signals” in the app. Payouts were only possible after **52 days**, sustaining the illusion of profits — a hallmark of **Ponzi** and **“pig-butchering”** schemes. :contentReference[oaicite:10]{index=10}
+The **XUEX** platform (linked to **EG Investment Group**) collapsed on Friday night, leaving thousands of users without access to their funds, according to Croatian media. Ads and Telegram groups promised “stable returns” and a **doubling of deposits**, with users confirming two daily “signals” in the app. Payouts were only possible after **52 days**, sustaining the illusion of profits — a hallmark of **Ponzi** and **“pig-butchering”** schemes.
 
-Economist **Toni Milun** and professor **Miljenko Švarcmajer** had publicly warned about the scam. After the collapse, a group admin nicknamed “Professor” (referred to as **Leo Smith**) told members a “financial inspection” would block withdrawals for **10 months**, while pitching a **new project** — a textbook attempt to extract more from victims. :contentReference[oaicite:11]{index=11}
+Economist **Toni Milun** and professor **Miljenko Švarcmajer** had publicly warned about the scam. After the collapse, a group admin nicknamed “Professor” (referred to as **Leo Smith**) told members a “financial inspection” would block withdrawals for **10 months**, while pitching a **new project** — a textbook attempt to extract more from victims.
 
-Similar **sha zhu pan** operations recruit victims via social media and messaging apps and route them to fake investment platforms. :contentReference[oaicite:12]{index=12}
+Similar **sha zhu pan** operations recruit victims via social media and messaging apps and route them to fake investment platforms.
 
 ### What victims can do (quickly)
 - Stop further transfers and **file a police report**; keep all chats and payment records.  
-- If payments were made via **Revolut/bank**, report the transactions and initiate chargeback/APP-fraud procedures. :contentReference[oaicite:13]{index=13}
-- Avoid paying “**recovery**” services that promise to get the money back for a fee. :contentReference[oaicite:14]{index=14}
+- If payments were made via **Revolut/bank**, report the transactions and initiate chargeback/APP-fraud procedures.  
+- Avoid paying “**recovery**” services that promise to get the money back for a fee.
 
-  
 **Our view:**  
 Payout delays plus constant recruitment only hide a Ponzi for a while. Equally important: **you don’t need a middleman**. You can buy and hold crypto **yourself** — no “managers,” no “signals.”
 
