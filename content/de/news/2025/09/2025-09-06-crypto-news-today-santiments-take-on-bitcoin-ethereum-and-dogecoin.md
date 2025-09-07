@@ -7,7 +7,7 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/06/santiment-highlights-five-of-this-week-s-top-trending-coins-btc-eth-doge-usdt-egld"
 summary: "Santiment berichtete, dass Bitcoin, Ethereum, Dogecoin, Tether und MultiversX diese Woche die meistdiskutierten Assets waren – angetrieben durch unterschiedliche Marktnarrative."
 tags: ["crypto", "bitcoin", "btc", "ethereum", "eth", "dogecoin", "doge", "tether", "usdt", "multiversx", "egld", "santiment"]
-image_url: "/static/images/dogecoin-doge.png"
+image_url: "/images/dogecoin-doge.png"
 ---
 
 Die Krypto-Analyseplattform Santiment meldete am Freitag, dass mehrere bekannte Assets diese Woche die meiste Aufmerksamkeit in Online-Diskussionen erhielten – angeführt von BTC, ETH, DOGE, USDT und EGLD.
