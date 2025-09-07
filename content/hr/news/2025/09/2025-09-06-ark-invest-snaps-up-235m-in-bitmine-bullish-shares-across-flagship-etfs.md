@@ -7,7 +7,7 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/06/ark-invest-snaps-up-usd23-5m-in-bitmine-and-bullish-shares-across-flagship-etfs"
 summary: "Kupnja, objavljena u trgovačkim izvještajima, uključuje 387.000 dionica BitMinea i 144.000 dionica Bullisha, pri čemu ARK Innovation ETF (ARKK) prednjači."
 tags: ["ark", "arkinvest", "etf", "bitmine", "bullish", "crypto", "ethereum", "eth", "dionice", "investicije"]
-image_url: "/static/images/Cathie_Wood_ARK_Invest_Photo.jpg"
+image_url: "/images/Cathie_Wood_ARK_Invest_Photo.jpg"
 image_attribution: "Foto: Cathie Wood, autor Caroline Wood, CC BY-SA 4.0"
 ---
 
