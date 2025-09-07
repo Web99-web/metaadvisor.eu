@@ -8,7 +8,8 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [permalinks]
-  news = "/news/:filename/"
+  news = "/news/:slug/"
+  
 
 [languages]
   [languages.en]
