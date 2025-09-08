@@ -1,70 +1,65 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import re, os, json, datetime, time, hashlib
+import re, os, datetime, time, hashlib
 from pathlib import Path
+from urllib.parse import urlparse
+
 import requests
 import frontmatter
 from googletrans import Translator
-import yaml, hashlib
-from urllib.parse import urlparse
+import yaml
 
-# ——— Image policy (sigurno po autorskim pravima) ———
-USE_OG_IMAGE = False  # False = ne skidaj tuđe og:image; koristi našu biblioteku
+# ============== Image policy (sigurnije autorsko pravo) ==============
+# True = preuzimamo og:image SAMO s domena u OG_WHITELIST
+# False = ne skidamo tuđe og:image; koristimo biblioteku slika u static/images
+USE_OG_IMAGE = False
 OG_WHITELIST = {
     "unsplash.com", "images.unsplash.com",
     "pexels.com", "pixabay.com",
     "upload.wikimedia.org", "commons.wikimedia.org",
 }
+# =====================================================================
 
-# ============ OPCIJE ============
-ADD_ALIASES_FROM_INBOX     = False  # preusmjeri /news/2025-09-07-naslov/ → /news/cisti-slug/
-DELETE_INBOX_AFTER_PUBLISH = False  # obriši inbox .md nakon uspješne objave
+# =================== OPCIJE ===================
+ADD_ALIASES_FROM_INBOX     = False  # npr. /news/2025-09-07-stari-slug/ → /news/novi-slug/
+DELETE_INBOX_AFTER_PUBLISH = False  # obriši .md iz inboxa nakon objave
 PUBLISH_LIMIT              = 5      # koliko inbox fajlova objaviti po runu
-# ================================
+# ==============================================
 
-# ============ KONFIG ============
-INBOX  = Path("content/_inbox")  # EN draftovi iz scrape_inbox.py
+# =================== KONFIG ===================
+INBOX     = Path("content/_inbox")
 USER_AGENT = "MetaAdvisorBot/2.0 (+https://metaadvisor.eu)"
 TIMEOUT    = 15
 HEADERS    = {"User-Agent": USER_AGENT}
-# =================================
+LIB_DIR    = Path("static/images")            # tvoja biblioteka slika
+IMAGE_MAP_YAML = Path("data/image_map.yaml")  # mapiranje ključnih riječi → slike
+# ==============================================
 
 TRANSLIT = {
-    # German
     "ä":"ae","ö":"oe","ü":"ue","ß":"ss",
-    # Croatian
     "č":"c","ć":"c","š":"s","ž":"z","đ":"dj",
     "Ä":"ae","Ö":"oe","Ü":"ue","Č":"c","Ć":"c","Š":"s","Ž":"z","Đ":"dj"
 }
-
 translator = Translator()
 
+# ---------- util ----------
 def translit(s: str) -> str:
     return "".join(TRANSLIT.get(ch, ch) for ch in s)
 
 def url_slug(title: str) -> str:
-    """Lokalizirani slug bez datuma (za čisti URL)."""
     s = translit(title).lower()
-    # makni sve osim slova, brojeva, razmaka i crtice
     s = re.sub(r"[^a-z0-9 _-]", "", s)
-    # razmake u crtice
     s = re.sub(r"\s+", "-", s)
-    # svedi višestruke crtice na jednu i poreži rubne
     s = re.sub(r"-{2,}", "-", s).strip("-")
     return s[:120]
 
 def bundle_dir(lang: str, dt: datetime.datetime, slug: str) -> Path:
-    """
-    EN je default → content/news/YYYY/MM/DD/<slug>/index.md
-    Ostali jezici → content/<lang>/news/YYYY/MM/DD/<slug>/index.md
-    """
     base = Path("content") if lang == "en" else Path("content")/lang
     return base/"news"/f"{dt:%Y}"/f"{dt:%m}"/f"{dt:%d}"/slug
 
 def clean_body(md: str) -> str:
     if not md: return ""
-    md = re.sub(r":contentReference\[[^\]]*\]\{index=\d+\}", "", md)
-    return md
+    return re.sub(r":contentReference\[[^\]]*\]\{index=\d+\}", "", md)
 
 def dl(url: str) -> bytes | None:
     if not url: return None
@@ -75,52 +70,32 @@ def dl(url: str) -> bytes | None:
     except Exception:
         return None
 
-def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
-                 tkey: str, src: str, src_url: str, tags, aliases=None, hero_bytes=None):
-    slug_clean = url_slug(title)
-    d = bundle_dir(lang, dt, slug_clean)
+def _host(url: str) -> str:
+    try:
+        return urlparse(url).netloc.lower()
+    except Exception:
+        return ""
 
-    if d.exists():
-        short = hashlib.md5(f"{title}{dt}".encode()).hexdigest()[:6]
-        slug_clean = f"{slug_clean}-{short}"
-        d = bundle_dir(lang, dt, slug_clean)
+def og_allowed(url: str) -> bool:
+    h = _host(url)
+    return any(h.endswith(d) for d in OG_WHITELIST)
 
-    d.mkdir(parents=True, exist_ok=True)
+def our_take_block(lang: str, title: str) -> str:
+    hdr = {"en": "## Our take", "hr": "## Naš osvrt", "de": "## Unser Fazit"}[lang]
+    txt = {
+        "en": ("This is an automated summary compiled from public sources. "
+               "We highlight key facts, but nuance can be lost. Treat this as a quick brief — "
+               "not investment or legal advice."),
+        "hr": ("Ovo je automatizirani sažetak iz javno dostupnih izvora. "
+               "Ističemo bitne činjenice, ali nijanse se mogu izgubiti. "
+               "Shvatite ovo kao brzi pregled — ne kao investicijski ili pravni savjet."),
+        "de": ("Dies ist eine automatisierte Zusammenfassung aus öffentlichen Quellen. "
+               "Wir heben zentrale Fakten hervor, jedoch können Nuancen verloren gehen. "
+               "Dies ist ein schneller Überblick — keine Anlage- oder Rechtsberatung."),
+    }[lang]
+    return f"\n\n{hdr}\n\n{txt}\n"
 
-    if hero_bytes:
-        (d/"hero.jpg").write_bytes(hero_bytes)
-
-    fm = [
-        "---",
-        f'title: "{title}"',
-        f'slug: "{slug_clean}"',
-        f"date: {dt.strftime('%Y-%m-%dT%H:%M:%SZ')}",
-        'category: "news"',
-        f'translationKey: "{tkey}"',
-        f'source: "{src}"',
-        f'source_url: "{src_url}"',
-        "tags: [" + ", ".join([f'\"{t}\"' for t in (tags or [])]) + "]",
-    ]
-    if aliases:
-        fm.append("aliases:")
-        fm += [f'  - "{a}"' for a in aliases]
-    fm.append("---")
-
-    (d/"index.md").write_text("\n".join(fm) + "\n\n" + (body or "") + "\n", encoding="utf-8")
-    return d
-
-def auto_translate(text: str, lang: str) -> str:
-    if not text: return text
-    for _ in range(2):
-        try:
-            return translator.translate(text, dest=lang).text.strip()
-        except Exception:
-            time.sleep(0.8)
-    return text
-
-LIB_DIR = Path("static/images")
-IMAGE_MAP_YAML = Path("data/image_map.yaml")
-
+# ---------- image map ----------
 def load_image_map():
     try:
         with IMAGE_MAP_YAML.open("r", encoding="utf-8") as f:
@@ -167,20 +142,71 @@ def pick_library_image(tags, title, body, seed: str) -> bytes | None:
     return f.read_bytes() if f.exists() else None
 
 def get_hero_bytes(image_url, tags, title, body, seed: str) -> bytes | None:
-    b = dl(image_url) if image_url else None
-    if b:
-        return b
+    if USE_OG_IMAGE and image_url and og_allowed(image_url):
+        b = dl(image_url)
+        if b:
+            return b
     return pick_library_image(tags, title, body, seed)
 
+# ---------- zapis ----------
+def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
+                 tkey: str, src: str, src_url: str, tags, category: str,
+                 aliases=None, hero_bytes=None):
+    slug_clean = url_slug(title)
+    d = bundle_dir(lang, dt, slug_clean)
+
+    if d.exists():
+        short = hashlib.md5(f"{title}{dt}".encode()).hexdigest()[:6]
+        slug_clean = f"{slug_clean}-{short}"
+        d = bundle_dir(lang, dt, slug_clean)
+
+    d.mkdir(parents=True, exist_ok=True)
+    if hero_bytes:
+        (d/"hero.jpg").write_bytes(hero_bytes)
+
+    tag_list = [str(t) for t in (tags or [])]
+
+    fm = [
+        "---",
+        f'title: "{title}"',
+        f'slug: "{slug_clean}"',
+        f"date: {dt.strftime('%Y-%m-%dT%H:%M:%SZ')}",
+        f'category: "{category or "news"}"',
+        f'translationKey: "{tkey}"',
+        f'source: "{src}"',
+        f'source_url: "{src_url}"',
+        "tags: [" + ", ".join([f'\"{t}\"' for t in tag_list]) + "]",
+    ]
+    if aliases:
+        fm.append("aliases:")
+        fm += [f'  - "{a}"' for a in aliases]
+    fm.append("---")
+
+    (d/"index.md").write_text("\n".join(fm) + "\n\n" + (body or "") + "\n", encoding="utf-8")
+    return d
+
+# ---------- prijevod ----------
+def auto_translate(text: str, lang: str) -> str:
+    if not text: return text
+    for _ in range(2):
+        try:
+            return translator.translate(text, dest=lang).text.strip()
+        except Exception:
+            time.sleep(0.8)
+    return text
+
+# ---------- glavna obrada ----------
 def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     post = frontmatter.load(inbox_file)
-    title_en = post.get("title","Untitled")
-    src      = post.get("source","")
-    src_url  = post.get("source_url","")
-    tkey     = post.get("translationKey","")
-    tags     = post.get("tags",[])
 
-    # --- FIX za datum ---
+    title_en = post.get("title", "Untitled")
+    src      = post.get("source", "")
+    src_url  = post.get("source_url", "")
+    tkey     = post.get("translationKey", "")
+    category = post.get("category", "news")
+    tags     = list(post.get("tags", []) or [])
+    image_url= post.get("image_url", "")
+
     date_val = post.get("date")
     if isinstance(date_val, str):
         try:
@@ -191,30 +217,32 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
         dt = date_val if date_val.tzinfo else date_val.replace(tzinfo=datetime.timezone.utc)
     else:
         dt = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
-    # -------------------
 
-    body_en  = clean_body(post.content)
-    image_url= post.get("image_url","")
+    body_en_src = clean_body(post.content) or f"Read the full article: {src_url}"
 
     old_segment = inbox_file.stem if ADD_ALIASES_FROM_INBOX else None
-    hero = get_hero_bytes(image_url, tags, title_en, body_en, seed=tkey or title_en)
+    hero = get_hero_bytes(image_url, tags, title_en, body_en_src, seed=tkey or title_en)
 
+    # EN
     en_aliases = [f"/news/{old_segment}/"] if old_segment else None
-    write_bundle("en", dt, title_en, body_en or f"Read the full article: {src_url}",
-                 tkey, src, src_url, tags, aliases=en_aliases, hero_bytes=hero)
+    body_en = body_en_src + our_take_block("en", title_en)
+    write_bundle("en", dt, title_en, body_en, tkey, src, src_url, tags, category,
+                 aliases=en_aliases, hero_bytes=hero)
 
+    # HR
     if also_hr:
         title_hr = auto_translate(title_en, "hr")
-        body_hr  = auto_translate(body_en or f"Read the full article: {src_url}", "hr")
+        body_hr  = auto_translate(body_en_src, "hr") + our_take_block("hr", title_hr)
         hr_aliases = [f"/hr/news/{old_segment}/"] if old_segment else None
-        write_bundle("hr", dt, title_hr, body_hr, tkey, src, src_url, tags,
+        write_bundle("hr", dt, title_hr, body_hr, tkey, src, src_url, tags, category,
                      aliases=hr_aliases, hero_bytes=hero)
 
+    # DE
     if also_de:
         title_de = auto_translate(title_en, "de")
-        body_de  = auto_translate(body_en or f"Read the full article: {src_url}", "de")
+        body_de  = auto_translate(body_en_src, "de") + our_take_block("de", title_de)
         de_aliases = [f"/de/news/{old_segment}/"] if old_segment else None
-        write_bundle("de", dt, title_de, body_de, tkey, src, src_url, tags,
+        write_bundle("de", dt, title_de, body_de, tkey, src, src_url, tags, category,
                      aliases=de_aliases, hero_bytes=hero)
 
     print(f"[publish] {inbox_file.name} → bundles OK")
