@@ -21,41 +21,42 @@
 
   <div class="grid">
     {{ range $p.Pages }}
-      {{ $ph := "/images/placeholder.jpg" | relURL }}
-      {{ $hero := .Resources.GetMatch "hero*" }}
+  {{/* SKIP: bilo što što izgleda kao “inbox-drafts-*” */}}
+  {{ $isDraftCard := or (in (lower $p.Title) "inbox (drafts)")
+                        (hasPrefix $p.Slug "inbox-drafts")
+                        (in $p.File.Path "inbox-drafts-") }}
+  {{ if $isDraftCard }}{{ continue }}{{ end }}
 
-      <a class="card" href="{{ .RelPermalink }}">
-        {{/* 4) Slika: hero → params (image_url/image) → placeholder */}}
-        {{ if $hero }}
-          <img class="card-img" src="{{ $hero.RelPermalink }}" alt="{{ .Title }}">
-        {{ else }}
-          {{ $img := .Params.image_url | default .Params.image }}
-          {{ if $img }}
-            {{ $src := $img }}
-            {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
-              {{ $src = $src | absURL }}
-            {{ end }}
-            <img class="card-img"
-                 src="{{ $src }}"
-                 alt="{{ .Title }}"
-                 loading="lazy" decoding="async"
-                 onerror="this.onerror=null;this.src='{{ $ph }}'">
-          {{ else }}
-            <img class="card-img" src="{{ $ph }}" alt="{{ .Title }}" loading="lazy" decoding="async">
-          {{ end }}
+  {{ $ph := "/images/placeholder.jpg" | relURL }}
+  {{ $hero := $p.Resources.GetMatch "hero*" }}
+  <a class="card" href="{{ $p.RelPermalink }}">
+    {{ if $hero }}
+      <img class="card-img" src="{{ $hero.RelPermalink }}" alt="{{ $p.Title }}">
+    {{ else }}
+      {{ $img := $p.Params.image_url | default $p.Params.image }}
+      {{ if $img }}
+        {{ $src := $img }}
+        {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
+          {{ $src = $src | absURL }}
         {{ end }}
-
-        <div class="card-body">
-          <div class="card-meta">
-            <span class="badge">{{ with .Params.category }}{{ . }}{{ else }}news{{ end }}</span>
-            <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
-          </div>
-          <h3 class="card-title">{{ .Title }}</h3>
-          <p class="card-summary">{{ .Summary | plainify | truncate 160 }}</p>
-        </div>
-      </a>
+        <img class="card-img" src="{{ $src }}" alt="{{ $p.Title }}"
+             loading="lazy" decoding="async"
+             onerror="this.onerror=null;this.src='{{ $ph }}'">
+      {{ else }}
+        <img class="card-img" src="{{ $ph }}" alt="{{ $p.Title }}" loading="lazy" decoding="async">
+      {{ end }}
     {{ end }}
-  </div>
+
+    <div class="card-body">
+      <div class="card-meta">
+        <span class="badge">{{ with $p.Params.category }}{{ . }}{{ else }}news{{ end }}</span>
+        <time datetime="{{ $p.Date }}">{{ $p.Date.Format "2006-01-02" }}</time>
+      </div>
+      <h3 class="card-title">{{ $p.Title }}</h3>
+      <p class="card-summary">{{ $p.Summary | plainify | truncate 160 }}</p>
+    </div>
+  </a>
+{{ end }}
 
   {{/* 5) Pagination */}}
   {{ if gt $p.TotalPages 1 }}
