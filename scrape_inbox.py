@@ -14,7 +14,7 @@ OUT_INBOX   = Path("content/_inbox")
 DB_FILE     = Path(".scrape_seen.json")
 
 # Minimalni “editorial” filter (možeš proširiti)
-MAX_ITEMS      = 10  # dnevni cap
+MAX_ITEMS      = 1  # dnevni cap
 ALLOW_SOURCES  = {"TechCrunch","The Guardian Tech","Reuters Tech","CoinDesk","Decrypt"}
 BLOCK_TOPICS   = {"dogecoin","xrp","meme coin","shiba inu"}
 REQUIRE_ANY    = {"bitcoin","ethereum","ai","web3","crypto"}
