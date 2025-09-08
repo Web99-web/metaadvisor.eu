@@ -1,7 +1,7 @@
 name: Publish from Inbox (manual)
 
 on:
-  workflow_dispatch: {}   # pokrećeš ručno u Actions tabu
+  workflow_dispatch: {}   # ručno pokretanje iz Actions taba
 
 permissions:
   contents: write
@@ -20,11 +20,9 @@ jobs:
         with:
           python-version: "3.11"
 
-     
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4 python-frontmatter feedparser Pillow googletrans==4.0.0-rc1 pyyaml
-
 
       - name: Publish selected from inbox
         run: python publish_from_inbox.py
@@ -34,6 +32,6 @@ jobs:
         with:
           commit_message: "chore: publish from inbox → EN/HR/DE bundles"
           file_pattern: |
-            content/en/news/**
+            content/news/**
             content/hr/news/**
             content/de/news/**
