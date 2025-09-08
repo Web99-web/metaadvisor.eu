@@ -1,40 +1,78 @@
-{{/* layouts/partials/related.html  — FIX: scoped styling, kontrolirana visina slika */}}
+{{/* layouts/partials/related.html — merged: tag relevance + hero priority + shared card UI */}}
 {{- $all := site.GetPage "section" "news" -}}
+{{- if not $all }}{{- return -}}{{- end -}}
+
+{{- $current := . -}}
 {{- $tags := .Params.tags | default slice -}}
-{{- $rel := where ($all.RegularPages) "Permalink" "ne" .Permalink -}}
+
+{{/* Kreni od svih news osim trenutne i bez Inbox (drafts) */}}
+{{- $rel := where $all.RegularPages "Permalink" "ne" $current.Permalink -}}
+{{- $rel = where $rel "Title" "ne" "Inbox (drafts)" -}}
+
+{{/* Ako ima tagova, traži presjek; inače padni na najnovije */}}
 {{- if gt (len $tags) 0 -}}
-  {{- $rel = where $rel "Params.tags" "intersect" $tags -}}
+  {{- $byTags := where $rel "Params.tags" "intersect" $tags -}}
+  {{- if gt (len $byTags) 0 -}}
+    {{- $rel = $byTags -}}
+  {{- else -}}
+    {{- $rel = $rel.ByDate.Reverse -}}
+  {{- end -}}
+{{- else -}}
+  {{- $rel = $rel.ByDate.Reverse -}}
 {{- end -}}
-{{- if lt (len $rel) 1 -}}
-  {{- $rel = ($all.RegularPages.ByDate.Reverse) -}}
-{{- end -}}
+
 {{- $rel = first 6 $rel -}}
 
-{{ if gt (len $rel) 0 }}
+{{- if gt (len $rel) 0 -}}
 <section class="post-related" style="margin-top:28px">
   <h3 style="margin:0 0 12px">You might also like</h3>
 
-  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px">
-    {{ range $rel }}
-      <a href="{{ .RelPermalink }}"
-         style="display:block;border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;background:#fff;text-decoration:none;color:inherit">
-        {{ $img := .Params.image_url | default .Params.image }}
-        {{ if $img }}
-          {{ $src := $img }}{{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}{{ $src = $src | absURL }}{{ end }}
-          <img src="{{ $src }}" alt="{{ .Title }}" loading="lazy"
-               style="display:block;width:100%;height:150px;object-fit:cover"
-               onerror="this.onerror=null;this.src='/images/placeholder-metaadvisor-small.jpg'">
-        {{ else }}
-          <img src="/images/placeholder-metaadvisor-small.jpg" alt="{{ .Title }}" loading="lazy"
-               style="display:block;width:100%;height:150px;object-fit:cover">
-        {{ end }}
+  <div class="grid">
+    {{- range $p := $rel -}}
+      {{/* Slika: 1) hero.* iz bundlea 2) params.image_url/image 3) placeholder */}}
+      {{- $hero := $p.Resources.GetMatch "hero*" -}}
+      {{- $ph := "/images/placeholder-metaadvisor-small.jpg" -}}
 
-        <div style="padding:10px 12px">
-          <div style="font-size:12px;color:#64748b">{{ .Date.Format "2006-01-02" }}</div>
-          <div style="margin-top:4px;font-weight:600;line-height:1.35">{{ .Title }}</div>
+      {{- $src := "" -}}
+      {{- if $hero -}}
+        {{- $src = $hero.RelPermalink -}}
+      {{- else -}}
+        {{- $img := or $p.Params.image_url $p.Params.image -}}
+        {{- if $img -}}
+          {{- if or (hasPrefix $img "http") (hasPrefix $img "/") -}}
+            {{- $src = $img -}}
+          {{- else -}}
+            {{- $src = (absURL $img) -}}
+          {{- end -}}
+        {{- else -}}
+          {{- $src = $ph -}}
+        {{- end -}}
+      {{- end -}}
+
+      <a class="card" href="{{ $p.RelPermalink }}">
+        <img class="card-img"
+             src="{{ $src }}"
+             alt="{{ $p.Title }}"
+             loading="lazy"
+             decoding="async"
+             onerror="this.onerror=null;this.src='{{ $ph }}'">
+
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="muted">{{ $p.Date.Format "2006-01-02" }}</span>
+            {{ with $p.Params.category }}
+              <span class="badge">
+                <a href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
+              </span>
+            {{ end }}
+          </div>
+          <h3 class="card-title">{{ $p.Title }}</h3>
+          {{ with $p.Summary }}
+            <p class="card-summary">{{ . | plainify | truncate 140 }}</p>
+          {{ end }}
         </div>
       </a>
-    {{ end }}
+    {{- end -}}
   </div>
 </section>
-{{ end }}
+{{- end -}}
