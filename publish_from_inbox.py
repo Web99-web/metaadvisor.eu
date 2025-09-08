@@ -220,4 +220,22 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
         try:
             inbox_file.unlink()
             print(f"[cleanup] Removed {inbox_file}")
+       
         except Exception as e:
+            print(f"[warn] Could not remove {inbox_file}: {e}")
+
+def pick_inbox_files(limit=PUBLISH_LIMIT):
+    files = sorted(INBOX.rglob("*.md"))
+    return files[:limit]
+
+def main():
+    files = pick_inbox_files()
+    if not files:
+        print("[i] Nema ničega u inboxu.")
+        return
+    for f in files:
+        publish_one(f, also_hr=True, also_de=True)
+
+if __name__ == "__main__":
+    main()
+
