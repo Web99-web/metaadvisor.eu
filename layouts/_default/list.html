@@ -1,84 +1,82 @@
 {{ define "main" }}
+<div class="container">
 
+  {{/* Naslov (po želji ga makni) */}}
   <h1 style="margin:10px 0 14px;">
     {{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}
   </h1>
 
-  {{/* Ako je .Pages prazno (npr. /news/ sekcija vs. /), uzmi sve regularne stranice */}}
+  {{/* 1) Kreni od stranica konteksta; na home uzmi sve regularne */}}
   {{ $pages := .Pages }}
-  {{ if eq (len $pages) 0 }}
+  {{ if or .IsHome (eq (len $pages) 0) }}
     {{ $pages = .Site.RegularPages }}
   {{ end }}
 
-  {{/* Paginator nad sortiranom listom */}}
+  {{/* 2) Samo news + izbaci Inbox (drafts) */}}
+  {{ $pages = where $pages "Type" "news" }}
+  {{ $pages = where $pages "Title" "ne" "Inbox (drafts)" }}
+
+  {{/* 3) Sort + paginate */}}
   {{ $p := .Paginate ($pages.ByDate.Reverse) }}
 
   <div class="grid">
     {{ range $p.Pages }}
-      <a class="card" href="{{ .RelPermalink }}">
+      {{ $ph := "/images/placeholder.jpg" | relURL }}
+      {{ $hero := .Resources.GetMatch "hero*" }}
 
-        {{/* Slika: image_url (remote/abs) > image (rel/abs) > mali placeholder */}}
-        {{ $img := .Params.image_url | default .Params.image }}
-        {{ if $img }}
-          {{ $src := $img }}
-          {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
-            {{ $src = $src | absURL }}
-          {{ end }}
-          <img
-            class="card-img"
-            src="{{ $src }}"
-            alt="{{ .Title }}"
-            loading="lazy"
-            decoding="async"
-            onerror="this.onerror=null;this.src='/images/placeholder-metaadvisor-small.jpg'">
+      <a class="card" href="{{ .RelPermalink }}">
+        {{/* 4) Slika: hero → params (image_url/image) → placeholder */}}
+        {{ if $hero }}
+          <img class="card-img" src="{{ $hero.RelPermalink }}" alt="{{ .Title }}">
         {{ else }}
-          <img
-            class="card-img"
-            src="/images/placeholder-metaadvisor-small.jpg"
-            alt="MetaAdvisor"
-            loading="lazy"
-            decoding="async">
+          {{ $img := .Params.image_url | default .Params.image }}
+          {{ if $img }}
+            {{ $src := $img }}
+            {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
+              {{ $src = $src | absURL }}
+            {{ end }}
+            <img class="card-img"
+                 src="{{ $src }}"
+                 alt="{{ .Title }}"
+                 loading="lazy" decoding="async"
+                 onerror="this.onerror=null;this.src='{{ $ph }}'">
+          {{ else }}
+            <img class="card-img" src="{{ $ph }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+          {{ end }}
         {{ end }}
 
         <div class="card-body">
           <div class="card-meta">
-            <span class="muted">{{ .Date.Format "2006-01-02" }}</span>
-            {{ with .Params.category }}
-              <span class="badge">
-                <a href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
-              </span>
-            {{ end }}
+            <span class="badge">{{ with .Params.category }}{{ . }}{{ else }}news{{ end }}</span>
+            <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
           </div>
-          <h2 class="card-title">{{ .Title }}</h2>
-          {{ with .Summary }}
-            <p class="card-summary">{{ . | plainify }}</p>
-          {{ end }}
+          <h3 class="card-title">{{ .Title }}</h3>
+          <p class="card-summary">{{ .Summary | plainify | truncate 160 }}</p>
         </div>
       </a>
     {{ end }}
   </div>
 
-  {{/* --- Pagination (uniformno, centrirano) --- */}}
+  {{/* 5) Pagination */}}
   {{ if gt $p.TotalPages 1 }}
-  <nav class="pagination" role="navigation" aria-label="Pagination">
-    {{ if $p.HasPrev }}
-      <a class="page-btn" href="{{ $p.First.URL }}" aria-label="First page">««</a>
-      <a class="page-btn" href="{{ $p.Prev.URL }}" aria-label="Previous page">«</a>
-    {{ end }}
-
-    {{ range $pg := $p.Pagers }}
-      {{ if eq $pg $p }}
-        <span class="page-btn is-active" aria-current="page">{{ $pg.PageNumber }}</span>
-      {{ else }}
-        <a class="page-btn" href="{{ $pg.URL }}">{{ $pg.PageNumber }}</a>
+    <nav class="pagination" role="navigation" aria-label="Pagination">
+      {{ if $p.HasPrev }}
+        <a class="page-btn" href="{{ $p.First.URL }}" aria-label="First page">««</a>
+        <a class="page-btn" href="{{ $p.Prev.URL }}" aria-label="Previous page">«</a>
       {{ end }}
-    {{ end }}
-
-    {{ if $p.HasNext }}
-      <a class="page-btn" href="{{ $p.Next.URL }}" aria-label="Next page">»</a>
-      <a class="page-btn" href="{{ $p.Last.URL }}" aria-label="Last page">»»</a>
-    {{ end }}
-  </nav>
+      {{ range $pg := $p.Pagers }}
+        {{ if eq $pg $p }}
+          <span class="page-btn is-active" aria-current="page">{{ $pg.PageNumber }}</span>
+        {{ else }}
+          <a class="page-btn" href="{{ $pg.URL }}">{{ $pg.PageNumber }}</a>
+        {{ end }}
+      {{ end }}
+      {{ if $p.HasNext }}
+        <a class="page-btn" href="{{ $p.Next.URL }}" aria-label="Next page">»</a>
+        <a class="page-btn" href="{{ $p.Last.URL }}" aria-label="Last page">»»</a>
+      {{ end }}
+    </nav>
   {{ end }}
 
+</div>
 {{ end }}
