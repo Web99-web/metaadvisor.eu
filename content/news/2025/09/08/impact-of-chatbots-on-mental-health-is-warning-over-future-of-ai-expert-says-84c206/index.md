@@ -2,7 +2,7 @@
 title: "Impact of chatbots on mental health is warning over future of AI, expert says"
 slug: "impact-of-chatbots-on-mental-health-is-warning-over-future-of-ai-expert-says-84c206"
 date: 2025-09-08T05:00:42Z
-category: "ai"
+category: "news"
 translationKey: "48894b4e69ca4bc8204495730d2d08aa"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/08/chatbots-mental-health-warning-super-intelligent-ai-nate-soares"
@@ -25,7 +25,7 @@ Soares, a former Google and Microsoft engineer who is now president of the US-ba
 
 In one scenario portrayed in Soares and Yudkowsky’s book, which will be published this month, an AI
 
-## Our take
-
-This is an automated summary compiled from public sources. We highlight key facts, but nuance can be lost. Treat this as a quick brief — not investment or legal advice.
+---
+### Our take
+This topic is evolving. We'll keep an eye on evidence and real-world impact.
 
