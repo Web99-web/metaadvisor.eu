@@ -1,21 +1,37 @@
 {{ define "main" }}
 <article class="post container">
   <header class="post-hero">
+    {{/* HERO prioritet: 1) hero.* (bundle) → 2) params.image_url / image → 3) placeholder */}}
+    {{ $ph := "/images/placeholder.jpg" | relURL }}
+    {{ $hero := .Resources.GetMatch "hero*" }}
 
-    {{/* HERO slika: image_url > image > default static */}}
-    {{ $img := or .Params.image_url .Params.image "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg" }}
-    {{ $src := $img }}
-    {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
-      {{ $src = $src | absURL }}
+    {{ if $hero }}
+      <img
+        class="post-hero-img"
+        src="{{ $hero.RelPermalink }}"
+        alt="{{ .Params.image_alt | default .Title }}"
+        loading="lazy" decoding="async">
+    {{ else }}
+      {{ $img := or .Params.image_url .Params.image }}
+      {{ if $img }}
+        {{ $src := $img }}
+        {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
+          {{ $src = $src | absURL }}
+        {{ end }}
+        <img
+          class="post-hero-img"
+          src="{{ $src }}"
+          alt="{{ .Params.image_alt | default .Title }}"
+          loading="lazy" decoding="async"
+          onerror="this.onerror=null;this.src='{{ $ph }}'">
+      {{ else }}
+        <img
+          class="post-hero-img"
+          src="{{ $ph }}"
+          alt="{{ .Params.image_alt | default .Title }}"
+          loading="lazy" decoding="async">
+      {{ end }}
     {{ end }}
-
-    <img
-      class="post-hero-img"
-      src="{{ $src }}"
-      alt="{{ .Params.image_alt | default .Title }}"
-      loading="lazy"
-      decoding="async"
-      onerror="this.onerror=null;this.src='/images/bitcoin-btc-ethereum-eth-solana-sol.jpg'">
 
     <h1 class="post-title">{{ .Title }}</h1>
     <div class="post-meta">
@@ -49,9 +65,8 @@
     </aside>
   {{ end }}
 
-    {{ partial "post-nav.html" . }}
+  {{ partial "post-nav.html" . }}
   {{ partial "related.html" . }}
-
   {{ partial "disclaimer.html" . }}
 </article>
 {{ end }}
