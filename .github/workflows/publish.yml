@@ -20,9 +20,11 @@ jobs:
         with:
           python-version: "3.11"
 
+     
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 python-frontmatter feedparser Pillow googletrans==4.0.0-rc1
+          pip install requests beautifulsoup4 python-frontmatter feedparser Pillow googletrans==4.0.0-rc1 pyyaml
+
 
       - name: Publish selected from inbox
         run: python publish_from_inbox.py
