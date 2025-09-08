@@ -28,8 +28,15 @@
   <h3 style="margin:0 0 12px">You might also like</h3>
 
   <div class="grid">
-    {{- range $p := $rel -}}
-      {{/* Slika: 1) hero.* iz bundlea 2) params.image_url/image 3) placeholder */}}
+    {{ range $p := $rel }}
+  {{/* SKIP: inbox draft kartice */}}
+  {{ $isDraftCard := or (in (lower $p.Title) "inbox (drafts)")
+                        (hasPrefix $p.Slug "inbox-drafts")
+                        (in $p.File.Path "inbox-drafts-") }}
+  {{ if $isDraftCard }}{{ continue }}{{ end }}
+
+  {{/* Slika: 1) hero.* ... */}}
+
       {{- $hero := $p.Resources.GetMatch "hero*" -}}
       {{- $ph := "/images/placeholder-metaadvisor-small.jpg" -}}
 
