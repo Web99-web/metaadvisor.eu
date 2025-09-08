@@ -110,6 +110,71 @@ def auto_translate(text: str, lang: str) -> str:
             time.sleep(0.8)
     return text
 
+import yaml, hashlib
+
+LIB_DIR = Path("static/images")          # tvoje slike su ovdje
+IMAGE_MAP_YAML = Path("data/image_map.yaml")
+
+def load_image_map():
+    try:
+        with IMAGE_MAP_YAML.open("r", encoding="utf-8") as f:
+            data = yaml.safe_load(f) or {}
+            # normaliziraj vrijednosti u liste
+            mapping = data.get("mapping") or {}
+            for k, v in list(mapping.items()):
+                if isinstance(v, str):
+                    mapping[k] = [v]
+            data["mapping"] = mapping
+            if "default" not in data:
+                data["default"] = "placeholder.jpg"
+            return data
+    except Exception:
+        return {"mapping": {}, "default": "placeholder.jpg"}
+
+def _det_pick(files: list[str], seed: str) -> str:
+    """Deterministički odabir iz liste na temelju seed-a (npr. translationKey ili title)."""
+    if not files:
+        return ""
+    h = hashlib.md5(seed.encode("utf-8")).hexdigest()
+    idx = int(h, 16) % len(files)
+    return files[idx]
+
+def pick_library_image(tags, title, body, seed: str) -> bytes | None:
+    """
+    Vrati bytes najprikladnije slike iz static/images/ prema data/image_map.yaml.
+    Ako više kandidata, bira deterministički (_det_pick) da se ne ponavlja uvijek ista.
+    """
+    conf = load_image_map()
+    mapping: dict = conf.get("mapping") or {}
+    default_name: str = conf.get("default") or "placeholder.jpg"
+
+    # kandidati riječi: tagovi (bitnije) → naslov → tijelo
+    keys = []
+    for t in (tags or []):
+        keys.append(str(t).lower())
+    keys += re.findall(r"[a-z0-9\-]+", (title or "").lower())
+    if body:
+        keys += re.findall(r"[a-z0-9\-]+", body.lower())
+
+    for k in keys:
+        if k in mapping:
+            candidates = mapping[k]  # lista
+            chosen = _det_pick(candidates, seed)
+            f = LIB_DIR / chosen
+            if f.exists():
+                return f.read_bytes()
+
+    # fallback
+    f = LIB_DIR / default_name
+    return f.read_bytes() if f.exists() else None
+
+def get_hero_bytes(image_url, tags, title, body, seed: str) -> bytes | None:
+    """1) og:image; 2) naša biblioteka s rotacijom po seed-u."""
+    b = dl(image_url) if image_url else None
+    if b:
+        return b
+    return pick_library_image(tags, title, body, seed)
+
 def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     post = frontmatter.load(inbox_file)
     title_en = post.get("title","Untitled")
@@ -126,7 +191,7 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     old_segment = inbox_file.stem if ADD_ALIASES_FROM_INBOX else None
 
     # preuzmi og:image kao hero.jpg (Hugo će iz toga raditi thumb/WebP)
-    hero = dl(image_url)
+    hero = get_hero_bytes(image_url, tags, title_en, body_en, seed=tkey or title_en)
 
     # EN (default, bez /en/ u URL-u)
     en_aliases = [f"/news/{old_segment}/"] if old_segment else None
