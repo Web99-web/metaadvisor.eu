@@ -6,6 +6,7 @@ category: "news"
 translationKey: "48894b4e69ca4bc8204495730d2d08aa"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/08/chatbots-mental-health-warning-super-intelligent-ai-nate-soares"
+image: "hero.jpg"
 tags: ["ai"]
 ---
 
@@ -24,8 +25,3 @@ Soares, a former Google and Microsoft engineer who is now president of the US-ba
 “The issue here is that AI companies try to make their AIs drive towards helpfulness and not causing harm,” said Soares. “They actually get AIs that are driven towards some stranger thing. And that should be seen as a warning about future super-intelligences that will do things nobody asked for and nobody meant.”
 
 In one scenario portrayed in Soares and Yudkowsky’s book, which will be published this month, an AI
-
----
-### Our take
-This topic is evolving. We'll keep an eye on evidence and real-world impact.
-
