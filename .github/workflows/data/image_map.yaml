@@ -16,6 +16,7 @@ mapping:
   xrp:      [xrp.png]
   dogecoin: [dogecoin-doge.png]
   "shiba inu": [shiba-inu.png]
+  bonk: [bonk.jpg]
   bnb: [bnb.png]
   uniswap: [uniswap-uni.png]
   celestia: [celestia-tia.png]
@@ -27,13 +28,13 @@ mapping:
   ordinals: [ordi.png]
   aave: [aave.png]
   injective: [injective-inj.png]
-
+  wifi: [wifi.png]
+  
   # --- AI / TECH ---
   ai: [ai.jpg, ai1.jpg, ai-manja.jpg]
   "artificial intelligence": [ai.jpg, ai1.jpg]
   mobile: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg]
-  wifi: [wifi.png]
   google: [Google.png]
   meta: [MetaAdvisor.png]
 
@@ -44,7 +45,6 @@ mapping:
   chart: [financial-chart.jpg, grafikon.jpg]
   finance: [finance.jpg, finance1.jpg, fallback-finance.jpg]
   economy: [grafikon.jpg, grafikon1.jpg, grafikon-vec2.jpg]
-  bank: [bank.jpg]
   money: [money.jpg]
   gold: [gold.jpg, gold1.jpg]
   "wall street": [wall-street-manja.jpg]
