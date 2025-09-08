@@ -5,6 +5,7 @@ from pathlib import Path
 import requests
 import frontmatter
 from googletrans import Translator
+import yaml, hashlib
 
 # ============ OPCIJE ============
 ADD_ALIASES_FROM_INBOX     = False  # preusmjeri /news/2025-09-07-naslov/ → /news/cisti-slug/
@@ -49,7 +50,6 @@ def bundle_dir(lang: str, dt: datetime.datetime, slug: str) -> Path:
 
 def clean_body(md: str) -> str:
     if not md: return ""
-    # ukloni artefakte tipa :contentReference[...] {index=...}
     md = re.sub(r":contentReference\[[^\]]*\]\{index=\d+\}", "", md)
     return md
 
@@ -64,14 +64,9 @@ def dl(url: str) -> bytes | None:
 
 def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
                  tkey: str, src: str, src_url: str, tags, aliases=None, hero_bytes=None):
-    """
-    Kreira page bundle s lokaliziranim slugom (bez datuma u URL-u).
-    Rješava koliziju dodavanjem kratkog hash sufiksa.
-    """
     slug_clean = url_slug(title)
     d = bundle_dir(lang, dt, slug_clean)
 
-    # kolizija: isti slug isti dan → dodaj kratki hash sufiks
     if d.exists():
         short = hashlib.md5(f"{title}{dt}".encode()).hexdigest()[:6]
         slug_clean = f"{slug_clean}-{short}"
@@ -85,7 +80,7 @@ def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
     fm = [
         "---",
         f'title: "{title}"',
-        f'slug: "{slug_clean}"',  # ključno: čisti URL bez datuma
+        f'slug: "{slug_clean}"',
         f"date: {dt.strftime('%Y-%m-%dT%H:%M:%SZ')}",
         'category: "news"',
         f'translationKey: "{tkey}"',
@@ -110,16 +105,13 @@ def auto_translate(text: str, lang: str) -> str:
             time.sleep(0.8)
     return text
 
-import yaml, hashlib
-
-LIB_DIR = Path("static/images")          # tvoje slike su ovdje
+LIB_DIR = Path("static/images")
 IMAGE_MAP_YAML = Path("data/image_map.yaml")
 
 def load_image_map():
     try:
         with IMAGE_MAP_YAML.open("r", encoding="utf-8") as f:
             data = yaml.safe_load(f) or {}
-            # normaliziraj vrijednosti u liste
             mapping = data.get("mapping") or {}
             for k, v in list(mapping.items()):
                 if isinstance(v, str):
@@ -132,7 +124,6 @@ def load_image_map():
         return {"mapping": {}, "default": "placeholder.jpg"}
 
 def _det_pick(files: list[str], seed: str) -> str:
-    """Deterministički odabir iz liste na temelju seed-a (npr. translationKey ili title)."""
     if not files:
         return ""
     h = hashlib.md5(seed.encode("utf-8")).hexdigest()
@@ -140,15 +131,10 @@ def _det_pick(files: list[str], seed: str) -> str:
     return files[idx]
 
 def pick_library_image(tags, title, body, seed: str) -> bytes | None:
-    """
-    Vrati bytes najprikladnije slike iz static/images/ prema data/image_map.yaml.
-    Ako više kandidata, bira deterministički (_det_pick) da se ne ponavlja uvijek ista.
-    """
     conf = load_image_map()
     mapping: dict = conf.get("mapping") or {}
     default_name: str = conf.get("default") or "placeholder.jpg"
 
-    # kandidati riječi: tagovi (bitnije) → naslov → tijelo
     keys = []
     for t in (tags or []):
         keys.append(str(t).lower())
@@ -158,18 +144,16 @@ def pick_library_image(tags, title, body, seed: str) -> bytes | None:
 
     for k in keys:
         if k in mapping:
-            candidates = mapping[k]  # lista
+            candidates = mapping[k]
             chosen = _det_pick(candidates, seed)
             f = LIB_DIR / chosen
             if f.exists():
                 return f.read_bytes()
 
-    # fallback
     f = LIB_DIR / default_name
     return f.read_bytes() if f.exists() else None
 
 def get_hero_bytes(image_url, tags, title, body, seed: str) -> bytes | None:
-    """1) og:image; 2) naša biblioteka s rotacijom po seed-u."""
     b = dl(image_url) if image_url else None
     if b:
         return b
@@ -182,23 +166,30 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     src_url  = post.get("source_url","")
     tkey     = post.get("translationKey","")
     tags     = post.get("tags",[])
-    date_iso = post.get("date")
-    dt       = datetime.datetime.fromisoformat(date_iso.replace("Z","+00:00"))
+
+    # --- FIX za datum ---
+    date_val = post.get("date")
+    if isinstance(date_val, str):
+        try:
+            dt = datetime.datetime.fromisoformat(date_val.replace("Z", "+00:00"))
+        except Exception:
+            dt = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+    elif isinstance(date_val, datetime.datetime):
+        dt = date_val if date_val.tzinfo else date_val.replace(tzinfo=datetime.timezone.utc)
+    else:
+        dt = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+    # -------------------
+
     body_en  = clean_body(post.content)
     image_url= post.get("image_url","")
 
-    # pripremi alias sa starog “datumskog” segmenta — samo ako je uključeno
     old_segment = inbox_file.stem if ADD_ALIASES_FROM_INBOX else None
-
-    # preuzmi og:image kao hero.jpg (Hugo će iz toga raditi thumb/WebP)
     hero = get_hero_bytes(image_url, tags, title_en, body_en, seed=tkey or title_en)
 
-    # EN (default, bez /en/ u URL-u)
     en_aliases = [f"/news/{old_segment}/"] if old_segment else None
     write_bundle("en", dt, title_en, body_en or f"Read the full article: {src_url}",
                  tkey, src, src_url, tags, aliases=en_aliases, hero_bytes=hero)
 
-    # HR
     if also_hr:
         title_hr = auto_translate(title_en, "hr")
         body_hr  = auto_translate(body_en or f"Read the full article: {src_url}", "hr")
@@ -206,7 +197,6 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
         write_bundle("hr", dt, title_hr, body_hr, tkey, src, src_url, tags,
                      aliases=hr_aliases, hero_bytes=hero)
 
-    # DE
     if also_de:
         title_de = auto_translate(title_en, "de")
         body_de  = auto_translate(body_en or f"Read the full article: {src_url}", "de")
@@ -220,7 +210,6 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
         try:
             inbox_file.unlink()
             print(f"[cleanup] Removed {inbox_file}")
-       
         except Exception as e:
             print(f"[warn] Could not remove {inbox_file}: {e}")
 
@@ -238,4 +227,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
