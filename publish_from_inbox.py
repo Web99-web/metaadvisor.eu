@@ -36,9 +36,13 @@ def translit(s: str) -> str:
 def url_slug(title: str) -> str:
     """Lokalizirani slug bez datuma (za čisti URL)."""
     s = translit(title).lower()
-    s = re.sub(r"[^a-z0-9\\- _]", "", s).strip().replace(" ", "-")
-    s = re.sub(r"-{2,}", "-", s)
-    return s[:120].strip("-")
+    # makni sve osim slova, brojeva, razmaka i crtice
+    s = re.sub(r"[^a-z0-9 _-]", "", s)
+    # razmake u crtice
+    s = re.sub(r"\s+", "-", s)
+    # svedi višestruke crtice na jednu i poreži rubne
+    s = re.sub(r"-{2,}", "-", s).strip("-")
+    return s[:120]
 
 def bundle_dir(lang: str, dt: datetime.datetime, slug: str) -> Path:
     """
