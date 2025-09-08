@@ -6,6 +6,15 @@ import requests
 import frontmatter
 from googletrans import Translator
 import yaml, hashlib
+from urllib.parse import urlparse
+
+# ——— Image policy (sigurno po autorskim pravima) ———
+USE_OG_IMAGE = False  # False = ne skidaj tuđe og:image; koristi našu biblioteku
+OG_WHITELIST = {
+    "unsplash.com", "images.unsplash.com",
+    "pexels.com", "pixabay.com",
+    "upload.wikimedia.org", "commons.wikimedia.org",
+}
 
 # ============ OPCIJE ============
 ADD_ALIASES_FROM_INBOX     = False  # preusmjeri /news/2025-09-07-naslov/ → /news/cisti-slug/
