@@ -29,18 +29,17 @@
 
   <div class="grid">
     {{ range $p := $rel }}
-  {{/* SKIP: inbox draft kartice */}}
-  {{ $isDraftCard := or (in (lower $p.Title) "inbox (drafts)")
-                        (hasPrefix $p.Slug "inbox-drafts")
-                        (in $p.File.Path "inbox-drafts-") }}
-  {{ if $isDraftCard }}{{ continue }}{{ end }}
+      {{/* SKIP: inbox draft kartice */}}
+      {{ $isDraftCard := or (in (lower $p.Title) "inbox (drafts)")
+                            (hasPrefix $p.Slug "inbox-drafts")
+                            (in $p.File.Path "inbox-drafts-") }}
+      {{ if $isDraftCard }}{{ continue }}{{ end }}
 
-  {{/* Slika: 1) hero.* ... */}}
-
-      {{- $hero := $p.Resources.GetMatch "hero*" -}}
+      {{/* Slika: hero (bundle) > image_url / image (bundle-resolved ili abs) > placeholder */}}
       {{- $ph := "/images/placeholder-metaadvisor-small.jpg" -}}
-
+      {{- $hero := $p.Resources.GetMatch "hero*" -}}
       {{- $src := "" -}}
+
       {{- if $hero -}}
         {{- $src = $hero.RelPermalink -}}
       {{- else -}}
@@ -49,7 +48,12 @@
           {{- if or (hasPrefix $img "http") (hasPrefix $img "/") -}}
             {{- $src = $img -}}
           {{- else -}}
-            {{- $src = (absURL $img) -}}
+            {{- $res := $p.Resources.GetMatch $img -}}
+            {{- if $res -}}
+              {{- $src = $res.RelPermalink -}}
+            {{- else -}}
+              {{- $src = $ph -}}
+            {{- end -}}
           {{- end -}}
         {{- else -}}
           {{- $src = $ph -}}
