@@ -13,6 +13,90 @@ OG_WHITELIST = {
     "unsplash.com","images.unsplash.com","pexels.com","pixabay.com",
     "upload.wikimedia.org","commons.wikimedia.org"
 }
+# ---------- AUTO TAGS (iz naslova/teksta) ----------
+TAG_KEYWORDS = {
+    # AI
+    "ai": ["ai", "artificial-intelligence"],
+    "artificial intelligence": ["ai", "artificial-intelligence"],
+    "ai safety": ["safety", "ai-safety"],
+    "safety": ["safety", "ai-safety"],
+
+    # Crypto općenito
+    "crypto": ["crypto", "cryptocurrency"],
+    "cryptocurrency": ["crypto", "cryptocurrency"],
+
+    # Bitcoin / Ethereum i sl.
+    "bitcoin": ["bitcoin", "btc"],
+    "btc": ["bitcoin", "btc"],
+    "ethereum": ["ethereum", "eth"],
+    "eth": ["ethereum", "eth"],
+    "solana": ["solana", "sol"],
+    "sol": ["solana", "sol"],
+    "xrp": ["xrp", "ripple"],
+    "ripple": ["xrp", "ripple"],
+    "cardano": ["cardano", "ada"],
+    "ada": ["cardano", "ada"],
+    "binance": ["binance", "bnb"],
+    "bnb": ["binance", "bnb"],
+    "monero": ["monero", "xmr"],
+    "xmr": ["monero", "xmr"],
+
+    # Tech brendovi / teme
+    "apple": ["apple", "iphone"],
+    "iphone": ["apple", "iphone"],
+    "google": ["google"],
+    "openai": ["openai", "ai"],
+    "microsoft": ["microsoft", "ai"],
+    "meta": ["meta"], "facebook": ["meta"],
+
+    # Finance / stocks
+    "finance": ["finance"],
+    "stocks": ["stocks", "equities"],
+    "equities": ["stocks", "equities"],
+    "nasdaq": ["stocks"],
+
+    # Druge opće teme
+    "privacy": ["privacy", "security"],
+    "security": ["security"],
+    "mental health": ["mental-health"],
+    "suicide": ["mental-health"],
+}
+
+_WORDS_RE = re.compile(r"[a-z0-9\-]+", re.I)
+
+def _dedup(seq):
+    seen = set()
+    out = []
+    for x in seq:
+        xl = str(x).strip()
+        if not xl: 
+            continue
+        key = xl.lower()
+        if key not in seen:
+            seen.add(key)
+            out.append(xl)
+    return out
+
+def extract_tags_from_text(title: str, body: str, seed_tags=None, limit: int = 12):
+    """
+    Vrati objedinjene tagove: postojeće (seed_tags) + oni iz teksta/naslova.
+    """
+    seed_tags = seed_tags or []
+    text = " ".join(_WORDS_RE.findall(f"{title or ''} {body or ''}".lower()))
+
+    found = []
+    for key, out_tags in TAG_KEYWORDS.items():
+        # tražimo 'riječne' podudarnosti (radi i za fraze s razmakom ili crticom)
+        patt = rf"(?<!\w){re.escape(key)}(?!\w)"
+        if re.search(patt, text):
+            if isinstance(out_tags, list):
+                found.extend(out_tags)
+            else:
+                found.append(out_tags)
+
+    # objedini postojeće + pronađene, deduplikacija i limit
+    all_tags = _dedup(list(seed_tags) + found)
+    return all_tags[:limit]
 
 # ---------- OPCIJE ----------
 ADD_ALIASES_FROM_INBOX     = False
