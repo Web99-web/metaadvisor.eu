@@ -6,15 +6,13 @@ translationKey: "48894b4e69ca4bc8204495730d2d08aa"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/08/chatbots-mental-health-warning-super-intelligent-ai-nate-soares"
 image_url: "https://i.guim.co.uk/img/media/fb69a07a6723b0d8f4affb4810b4c58a687ffe4e/2101_622_5965_4772/master/5965.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1adf70708a16864913ff60fcdbbc5c09"
-tags: ["ai"]
+tags: ["ai", "mental-health", "safety"]  # jedan "tags" niz, dodaj što želiš
 _build:
   publishResources: false
   render: never
   list: never
 our_take: >
   Naš kratki MetaAdvisor komentar (EN).
-tags: ["crypto"]   # ako želiš, dodaj još tagova
-source: "CoinDesk" # ovime dižeš prioritet u objavi
 ---
 
 Nate Soares says case of US teenager Adam Raine highlights danger of unintended consequences in super-intelligent AI
