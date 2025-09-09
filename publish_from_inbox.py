@@ -11,8 +11,11 @@ from urllib.parse import urlparse
 USE_OG_IMAGE = False
 OG_WHITELIST = {
     "unsplash.com","images.unsplash.com","pexels.com","pixabay.com",
-    "upload.wikimedia.org","commons.wikimedia.org"
+    "upload.wikimedia.org","commons.wikimedia.org",
+    # ↓ dodano radi Guardiana (ako želiš dopustiti njihove OG slike)
+    "i.guim.co.uk","theguardian.com","www.theguardian.com"
 }
+
 # ---------- AUTO TAGS (iz naslova/teksta) ----------
 TAG_KEYWORDS = {
     # AI
@@ -61,40 +64,27 @@ TAG_KEYWORDS = {
     "mental health": ["mental-health"],
     "suicide": ["mental-health"],
 }
-
 _WORDS_RE = re.compile(r"[a-z0-9\-]+", re.I)
 
 def _dedup(seq):
-    seen = set()
-    out = []
+    seen = set(); out = []
     for x in seq:
         xl = str(x).strip()
-        if not xl: 
-            continue
+        if not xl: continue
         key = xl.lower()
         if key not in seen:
-            seen.add(key)
-            out.append(xl)
+            seen.add(key); out.append(xl)
     return out
 
 def extract_tags_from_text(title: str, body: str, seed_tags=None, limit: int = 12):
-    """
-    Vrati objedinjene tagove: postojeće (seed_tags) + oni iz teksta/naslova.
-    """
+    """Vrati objedinjene tagove: postojeće (seed_tags) + oni iz teksta/naslova."""
     seed_tags = seed_tags or []
     text = " ".join(_WORDS_RE.findall(f"{title or ''} {body or ''}".lower()))
-
     found = []
     for key, out_tags in TAG_KEYWORDS.items():
-        # tražimo 'riječne' podudarnosti (radi i za fraze s razmakom ili crticom)
         patt = rf"(?<!\w){re.escape(key)}(?!\w)"
         if re.search(patt, text):
-            if isinstance(out_tags, list):
-                found.extend(out_tags)
-            else:
-                found.append(out_tags)
-
-    # objedini postojeće + pronađene, deduplikacija i limit
+            found.extend(out_tags if isinstance(out_tags, list) else [out_tags])
     all_tags = _dedup(list(seed_tags) + found)
     return all_tags[:limit]
 
@@ -169,7 +159,6 @@ def load_image_map():
         with IMAGE_MAP_YAML.open("r", encoding="utf-8") as f:
             data = yaml.safe_load(f) or {}
             mapping = data.get("mapping") or {}
-            # normaliziraj vrijednosti u liste
             for k, v in list(mapping.items()):
                 if isinstance(v, str):
                     mapping[k] = [v]
@@ -193,8 +182,7 @@ def pick_library_image(tags, title, body, seed: str):
 
     keys = [str(t).lower() for t in (tags or [])]
     keys += re.findall(r"[a-z0-9\-]+", (title or "").lower())
-    if body:
-        keys += re.findall(r"[a-z0-9\-]+", body.lower())
+    if body: keys += re.findall(r"[a-z0-9\-]+", body.lower())
 
     for k in keys:
         if k in mapping:
@@ -242,17 +230,12 @@ def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
         fm.append("aliases:")
         fm += [f'  - "{a}"' for a in aliases]
     if our_take:
-        # multiline YAML
         fm.append("our_take: |")
         for line in (our_take or "").splitlines():
             fm.append(f"  {line}")
-
     fm.append("---")
 
-    (d/"index.md").write_text(
-        "\n".join(fm) + "\n\n" + (body or "") + "\n",
-        encoding="utf-8"
-    )
+    (d/"index.md").write_text("\n".join(fm) + "\n\n" + (body or "") + "\n", encoding="utf-8")
     return d
 
 def auto_translate(text: str, lang: str) -> str:
@@ -297,6 +280,9 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
 
     body_en   = clean_body(post.content)
     image_url = post.get("image_url","")
+
+    # 🔴 BITNO: AUTO-TAGOVI (dodaj što fali, bez duplikata)
+    tags = extract_tags_from_text(title_en, body_en, seed_tags=tags)
 
     # Slika (hero)
     hero = get_hero_bytes(image_url, tags, title_en, body_en, seed=tkey or title_en)
@@ -364,11 +350,7 @@ def pick_inbox_files(limit=PUBLISH_LIMIT):
                 except Exception:
                     dt = None
             ts = dt.timestamp() if isinstance(dt, datetime.datetime) else 0
-            scored.append((
-                -source_priority(src),   # 1) viši prioritet → manja (negativna) vrijednost
-                -ts,                     # 2) noviji datum prvo
-                p
-            ))
+            scored.append((-source_priority(src), -ts, p))
         except Exception:
             scored.append((0, 0, p))
     scored.sort()
