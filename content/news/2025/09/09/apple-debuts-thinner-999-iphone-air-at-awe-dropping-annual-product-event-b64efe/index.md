@@ -7,7 +7,8 @@ translationKey: "a555319b1113e2e1f6d3ebfccf6103a5"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/09/apple-iphone-17"
 priority: 20
-image: "hero.jpg"
+image_url: "https://source.unsplash.com/YLNMXzXk8zs/1200x630"
+image_alt: "Black iPhone 7 with white and black dice"
 tags: ["ai", "apple", "iphone"]
 our_take: |
   Our view: Company also augments AirPods earbuds with live translation and reveals upgrades to Apple Watch Apple debuted its latest iPhone on Tuesday, trumpeting the smartphone’s slimmest design yet. Bigger picture: data/licensing, model quality, and policy risk drive outcomes. We like real distribution and defensible data moats.
