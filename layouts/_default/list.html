@@ -25,27 +25,31 @@
       {{ $isDraftCard := or (in (lower $pg.Title) "inbox (drafts)")
                             (hasPrefix $pg.Slug "inbox-drafts")
                             (in $pg.File.Path "inbox-drafts-") }}
-      {{ if $isDraftCard }}{{ else }}
+      {{ if not $isDraftCard }}
 
-        
+        {{/* Fallback slika */}}
         {{ $ph := "/images/placeholder-metaadvisor-small.jpg" }}
         {{ $hero := $pg.Resources.GetMatch "hero*" }}
 
         <a class="card" href="{{ $pg.RelPermalink }}">
 
-          {{/* 4) Slika: hero (iz bundlea) > params.image_url > params.image > placeholder */}}
+          {{/* 4) Slika: hero (bundle) > image_url / image (bundle ili abs) > placeholder */}}
           {{ if $hero }}
             <img class="card-img" src="{{ $hero.RelPermalink }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async">
           {{ else }}
             {{ $img := $pg.Params.image_url | default $pg.Params.image }}
             {{ if $img }}
-              {{ $src := $img }}
-              {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
-                {{ $src = $src | absURL }}
+              {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
+                <img class="card-img" src="{{ $img }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async"
+                     onerror="this.onerror=null;this.src='{{ $ph }}'">
+              {{ else }}
+                {{ $res := $pg.Resources.GetMatch $img }}
+                {{ if $res }}
+                  <img class="card-img" src="{{ $res.RelPermalink }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async">
+                {{ else }}
+                  <img class="card-img" src="{{ $ph }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async">
+                {{ end }}
               {{ end }}
-              <img class="card-img" src="{{ $src }}" alt="{{ $pg.Title }}"
-                   loading="lazy" decoding="async"
-                   onerror="this.onerror=null;this.src='{{ $ph }}'">
             {{ else }}
               <img class="card-img" src="{{ $ph }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async">
             {{ end }}
@@ -72,61 +76,60 @@
   </div>
 
   {{/* === SMART PAGINATION (First/Prev, window, Next/Last) === */}}
-{{ $p := $pager }}
-{{ if gt $p.TotalPages 1 }}
-  {{ $s := newScratch }}
-  {{ $s.Set "start" (sub $p.PageNumber 2) }}
-  {{ if lt ($s.Get "start") 1 }}{{ $s.Set "start" 1 }}{{ end }}
-  {{ $s.Set "end" (add $p.PageNumber 2) }}
-  {{ if gt ($s.Get "end") $p.TotalPages }}{{ $s.Set "end" $p.TotalPages }}{{ end }}
+  {{ $p := $pager }}
+  {{ if gt $p.TotalPages 1 }}
+    {{ $s := newScratch }}
+    {{ $s.Set "start" (sub $p.PageNumber 2) }}
+    {{ if lt ($s.Get "start") 1 }}{{ $s.Set "start" 1 }}{{ end }}
+    {{ $s.Set "end" (add $p.PageNumber 2) }}
+    {{ if gt ($s.Get "end") $p.TotalPages }}{{ $s.Set "end" $p.TotalPages }}{{ end }}
 
-  <nav class="pagination" role="navigation" aria-label="Pagination">
+    <nav class="pagination" role="navigation" aria-label="Pagination">
 
-    {{/* First + Prev */}}
-    {{ if $p.HasPrev }}
-      <a class="page-btn" href="{{ $p.First.URL }}" aria-label="First page">««</a>
-      <a class="page-btn" href="{{ $p.Prev.URL }}" aria-label="Previous page">«</a>
-    {{ else }}
-      <span class="page-btn is-disabled">««</span>
-      <span class="page-btn is-disabled">«</span>
-    {{ end }}
-
-    {{/* Leading '1' + ellipsis */}}
-    {{ if gt ($s.Get "start") 1 }}
-      {{ $first := index $p.Pagers 0 }}
-      <a class="page-btn" href="{{ $first.URL }}">1</a>
-      {{ if gt ($s.Get "start") 2 }}<span class="page-ellipsis">…</span>{{ end }}
-    {{ end }}
-
-    {{/* Window around current page */}}
-    {{ range $i := seq ($s.Get "start") ($s.Get "end") }}
-      {{ $pg := index $p.Pagers (sub $i 1) }}
-      {{ if eq $i $p.PageNumber }}
-        <span class="page-btn is-active" aria-current="page">{{ $i }}</span>
+      {{/* First + Prev */}}
+      {{ if $p.HasPrev }}
+        <a class="page-btn" href="{{ $p.First.URL }}" aria-label="First page">««</a>
+        <a class="page-btn" href="{{ $p.Prev.URL }}" aria-label="Previous page">«</a>
       {{ else }}
-        <a class="page-btn" href="{{ $pg.URL }}">{{ $i }}</a>
+        <span class="page-btn is-disabled">««</span>
+        <span class="page-btn is-disabled">«</span>
       {{ end }}
-    {{ end }}
 
-    {{/* Trailing ellipsis + last */}}
-    {{ if lt ($s.Get "end") $p.TotalPages }}
-      {{ if lt ($s.Get "end") (sub $p.TotalPages 1) }}<span class="page-ellipsis">…</span>{{ end }}
-      {{ $last := index $p.Pagers (sub $p.TotalPages 1) }}
-      <a class="page-btn" href="{{ $last.URL }}">{{ $p.TotalPages }}</a>
-    {{ end }}
+      {{/* Leading '1' + ellipsis */}}
+      {{ if gt ($s.Get "start") 1 }}
+        {{ $first := index $p.Pagers 0 }}
+        <a class="page-btn" href="{{ $first.URL }}">1</a>
+        {{ if gt ($s.Get "start") 2 }}<span class="page-ellipsis">…</span>{{ end }}
+      {{ end }}
 
-    {{/* Next + Last */}}
-    {{ if $p.HasNext }}
-      <a class="page-btn" href="{{ $p.Next.URL }}" aria-label="Next page">»</a>
-      <a class="page-btn" href="{{ $p.Last.URL }}" aria-label="Last page">»»</a>
-    {{ else }}
-      <span class="page-btn is-disabled">»</span>
-      <span class="page-btn is-disabled">»»</span>
-    {{ end }}
+      {{/* Window around current page */}}
+      {{ range $i := seq ($s.Get "start") ($s.Get "end") }}
+        {{ $pg := index $p.Pagers (sub $i 1) }}
+        {{ if eq $i $p.PageNumber }}
+          <span class="page-btn is-active" aria-current="page">{{ $i }}</span>
+        {{ else }}
+          <a class="page-btn" href="{{ $pg.URL }}">{{ $i }}</a>
+        {{ end }}
+      {{ end }}
 
-  </nav>
-{{ end }}
+      {{/* Trailing ellipsis + last */}}
+      {{ if lt ($s.Get "end") $p.TotalPages }}
+        {{ if lt ($s.Get "end") (sub $p.TotalPages 1) }}<span class="page-ellipsis">…</span>{{ end }}
+        {{ $last := index $p.Pagers (sub $p.TotalPages 1) }}
+        <a class="page-btn" href="{{ $last.URL }}">{{ $p.TotalPages }}</a>
+      {{ end }}
 
+      {{/* Next + Last */}}
+      {{ if $p.HasNext }}
+        <a class="page-btn" href="{{ $p.Next.URL }}" aria-label="Next page">»</a>
+        <a class="page-btn" href="{{ $p.Last.URL }}" aria-label="Last page">»»</a>
+      {{ else }}
+        <span class="page-btn is-disabled">»</span>
+        <span class="page-btn is-disabled">»»</span>
+      {{ end }}
+
+    </nav>
+  {{ end }}
 
 </div>
 {{ end }}
