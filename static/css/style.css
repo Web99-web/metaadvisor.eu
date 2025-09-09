@@ -364,4 +364,13 @@ a:hover { text-decoration: underline; }
   padding: 0 6px;
   color: #6b7280;
 }
+.page-btn.is-disabled {
+  opacity: .45;
+  pointer-events: none;
+}
+.page-ellipsis {
+  display: inline-block;
+  padding: 0 6px;
+  color: #6b7280;
+}
 
