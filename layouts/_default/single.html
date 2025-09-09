@@ -80,15 +80,17 @@
   </header>
 
   <div class="post-body">
-    {{ $p.Content }}
-  </div>
+  {{ $p.Content }}
 
-  {{/* Our take (ako postoji u front-matteru) */}}
+  {{/* Our take unutar teksta, s naslovom i većim fontom */}}
   {{ with $p.Params.our_take }}
-    <aside class="disclaimer-article">
-      <strong>Our take:</strong> {{ . | markdownify }}
-    </aside>
+    <section class="our-take">
+      <h3>{{ i18n "ourTake" | default "Our take" }}</h3>
+      <div class="our-take-body">{{ . | markdownify }}</div>
+    </section>
   {{ end }}
+</div>
+
 
   {{ if or $p.Params.source $p.Params.source_url }}
     <aside class="post-source">
