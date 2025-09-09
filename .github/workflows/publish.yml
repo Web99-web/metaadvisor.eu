@@ -22,10 +22,18 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 python-frontmatter feedparser Pillow googletrans==4.0.0-rc1 pyyaml
+          python -m pip install -U pip
+          pip install requests beautifulsoup4 python-frontmatter feedparser Pillow pyyaml googletrans==4.0.0-rc1
 
       - name: Publish selected from inbox
-        run: python publish_from_inbox.py
+        run: |
+          python publish_from_inbox.py
+
+      - name: Show generated bundles (debug)
+        run: |
+          echo "=== EN ==="; ls -R content/news || true
+          echo "=== HR ==="; ls -R content/hr/news || true
+          echo "=== DE ==="; ls -R content/de/news || true
 
       - name: Commit published bundles
         uses: stefanzweifel/git-auto-commit-action@v5
