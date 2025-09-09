@@ -5,8 +5,69 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ if .IsHome }}MetaAdvisor{{ else }}{{ .Title }} — MetaAdvisor{{ end }}</title>
   <meta name="description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}MetaAdvisor.{{ end }}">
+
   <!-- cache-bust -->
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v={{ now.Unix }}">
+
+  <!-- === CARDS HOTFIX (image on top, text below) — loads last, overrides everything === -->
+  <style id="cards-hotfix">
+    /* Grid layout (safety) */
+    .grid, .post-related .grid{
+      display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px;
+    }
+
+    /* Uvijek vertikalne kartice */
+    .grid .card, a.card, .card{
+      display:flex !important;
+      flex-direction:column !important;
+    }
+
+    /* Slika uvijek gore, puna širina, fiksna visina */
+    .grid .card > img,
+    a.card > img,
+    .card > img,
+    .card .card-img{
+      width:100% !important;
+      height:160px !important;      /* po želji 140–180 */
+      object-fit:cover !important;
+      display:block !important;
+      float:none !important;
+      margin:0 !important;
+    }
+
+    /* Tekstualni dio ispod slike */
+    .card .card-body{
+      display:flex !important;
+      flex-direction:column !important;
+      gap:8px !important;
+      min-height:0 !important;
+    }
+
+    /* Reži na isti broj redaka */
+    .card-title{
+      font-weight:700; line-height:1.25;
+      display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical;
+      overflow:hidden;
+    }
+    .card-summary{
+      color:#475569;
+      display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical;
+      overflow:hidden; min-height:3.6em;
+    }
+
+    /* Firefox fallback */
+    @supports not (-webkit-line-clamp:1){
+      .card-title{ line-height:1.25; max-height:2.5em; overflow:hidden; display:block; }
+      .card-summary{ line-height:1.45; max-height:4.35em; overflow:hidden; display:block; }
+    }
+
+    /* Malo niže slike na mobitelu */
+    @media (max-width:640px){
+      .card .card-img, .card > img{ height:140px !important; }
+    }
+  </style>
+  <!-- === /CARDS HOTFIX === -->
+
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
