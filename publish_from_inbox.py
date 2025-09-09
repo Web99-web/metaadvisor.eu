@@ -199,13 +199,25 @@ def pick_inbox_files(limit=PUBLISH_LIMIT):
     files = [p for p in sorted(INBOX.rglob("*.md")) if not p.name.startswith("_")]
     return files[:limit]
 
-def main():
-    files = pick_inbox_files()
+def main(limit=PUBLISH_LIMIT, also_hr=True, also_de=True):
+    files = pick_inbox_files(limit=limit)
     if not files:
         print("[i] Nema ničega u inboxu.")
         return
     for f in files:
-        publish_one(f, also_hr=True, also_de=True)
+        publish_one(f, also_hr=also_hr, also_de=also_de)
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--limit", type=int, default=PUBLISH_LIMIT)
+    parser.add_argument("--no-hr", dest="no_hr", action="store_true")
+    parser.add_argument("--no-de", dest="no_de", action="store_true")
+    args = parser.parse_args()
+
+    main(
+        limit=args.limit,
+        also_hr=not args.no_hr,
+        also_de=not args.no_de,
+    )
+
