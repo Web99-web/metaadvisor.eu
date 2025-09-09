@@ -1,0 +1,147 @@
+{{ define "main" }}
+<div class="container">
+
+  <h1 style="margin:10px 0 14px;">
+    {{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}
+  </h1>
+
+  {{/* HOME: uzmi sve regularne pa filtriraj samo news */}}
+  {{ $pages := .Site.RegularPages }}
+  {{ $pages = where $pages "Type" "news" }}
+
+  {{/* Paginacija po datumu (novije prvo) */}}
+  {{ $pager := .Paginate ($pages.ByDate.Reverse) }}
+
+  <div class="grid">
+    {{ range $pg := $pager.Pages }}
+
+      {{/* preskoči inbox draftove */}}
+      {{ $isDraftCard := or (in (lower $pg.Title) "inbox (drafts)")
+                            (hasPrefix $pg.Slug "inbox-drafts")
+                            (in $pg.File.Path "inbox-drafts-") }}
+      {{ if not $isDraftCard }}
+
+        {{/* ---- HERO PICKER -------------------------------------------- */}}
+        {{ $ph  := "/images/placeholder-metaadvisor-small.jpg" }}
+        {{ $src := "" }}
+
+        {{ with $pg.Resources.GetMatch "hero*" }}
+          {{ $src = .RelPermalink }}
+        {{ else }}
+          {{ $img := $pg.Params.image_url | default $pg.Params.image }}
+          {{ if $img }}
+            {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
+              {{ $src = $img }}
+            {{ else }}
+              {{ with $pg.Resources.GetMatch $img }}
+                {{ $src = .RelPermalink }}
+              {{ else }}
+                {{ $src = printf "/images/%s" $img }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+
+          {{ if not $src }}
+            {{ $t := lower $pg.Title }}
+            {{ $tags := $pg.Params.tags | default (slice) }}
+            {{ $tagsLower := apply $tags "lower" "." }}
+
+            {{ if or (in $t "apple") (in $t "iphone") (in $tagsLower "apple") (in $tagsLower "iphone") }}
+              {{ $src = "/images/mobile-phone.jpg" }}
+            {{ end }}
+            {{ if and (not $src) (or (in $t "google") (in $tagsLower "google")) }}
+              {{ $src = "/images/Google.png" }}
+            {{ end }}
+            {{ if and (not $src) (or (in $t "bitcoin") (in $t "btc") (in $tagsLower "bitcoin") (in $tagsLower "btc")) }}
+              {{ $src = "/images/bitcoin-btc.jpg" }}
+            {{ end }}
+            {{ if and (not $src) (or (in $t "ethereum") (in $t "eth") (in $tagsLower "ethereum") (in $tagsLower "eth")) }}
+              {{ $src = "/images/eth-ethereum.jpg" }}
+            {{ end }}
+            {{ if and (not $src) (or (in $t " ai") (in $t "artificial intelligence") (in $tagsLower "ai")) }}
+              {{ $src = "/images/ai.jpg" }}
+            {{ end }}
+
+            {{ if not $src }}{{ $src = $ph }}{{ end }}
+          {{ end }}
+        {{ end }}
+        {{/* ---- /HERO PICKER ------------------------------------------- */}}
+
+        <a class="card" href="{{ $pg.RelPermalink }}">
+          <img class="card-img"
+               src="{{ $src }}?v={{ $pg.Lastmod.Unix }}"
+               alt="{{ $pg.Title }}"
+               loading="lazy" decoding="async"
+               onerror="this.onerror=null;this.src='{{ $ph }}'">
+
+          <div class="card-body">
+            <div class="card-meta">
+              {{ with $pg.Params.category }}
+                <span class="badge">
+                  <a href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
+                </span>
+              {{ else }}
+                <span class="badge">news</span>
+              {{ end }}
+              <time datetime="{{ $pg.Date }}">{{ $pg.Date.Format "2006-01-02" }}</time>
+            </div>
+            <h3 class="card-title">{{ $pg.Title }}</h3>
+            {{ with $pg.Summary }}<p class="card-summary">{{ . | plainify | truncate 160 }}</p>{{ end }}
+          </div>
+        </a>
+
+      {{ end }}
+    {{ end }}
+  </div>
+
+  {{/* === SMART PAGINATION === */}}
+  {{ $p := $pager }}
+  {{ if gt $p.TotalPages 1 }}
+    {{ $s := newScratch }}
+    {{ $s.Set "start" (sub $p.PageNumber 2) }}
+    {{ if lt ($s.Get "start") 1 }}{{ $s.Set "start" 1 }}{{ end }}
+    {{ $s.Set "end" (add $p.PageNumber 2) }}
+    {{ if gt ($s.Get "end") $p.TotalPages }}{{ $s.Set "end" $p.TotalPages }}{{ end }}
+
+    <nav class="pagination" role="navigation" aria-label="Pagination">
+      {{ if $p.HasPrev }}
+        <a class="page-btn" href="{{ $p.First.URL }}" aria-label="First page">««</a>
+        <a class="page-btn" href="{{ $p.Prev.URL }}" aria-label="Previous page">«</a>
+      {{ else }}
+        <span class="page-btn is-disabled">««</span>
+        <span class="page-btn is-disabled">«</span>
+      {{ end }}
+
+      {{ if gt ($s.Get "start") 1 }}
+        {{ $first := index $p.Pagers 0 }}
+        <a class="page-btn" href="{{ $first.URL }}">1</a>
+        {{ if gt ($s.Get "start") 2 }}<span class="page-ellipsis">…</span>{{ end }}
+      {{ end }}
+
+      {{ range $i := seq ($s.Get "start") ($s.Get "end") }}
+        {{ $pg2 := index $p.Pagers (sub $i 1) }}
+        {{ if eq $i $p.PageNumber }}
+          <span class="page-btn is-active" aria-current="page">{{ $i }}</span>
+        {{ else }}
+          <a class="page-btn" href="{{ $pg2.URL }}">{{ $i }}</a>
+        {{ end }}
+      {{ end }}
+
+      {{ if lt ($s.Get "end") $p.TotalPages }}
+        {{ if lt ($s.Get "end") (sub $p.TotalPages 1) }}<span class="page-ellipsis">…</span>{{ end }}
+        {{ $last := index $p.Pagers (sub $p.TotalPages 1) }}
+        <a class="page-btn" href="{{ $last.URL }}">{{ $p.TotalPages }}</a>
+      {{ end }}
+
+      {{ if $p.HasNext }}
+        <a class="page-btn" href="{{ $p.Next.URL }}" aria-label="Next page">»</a>
+        <a class="page-btn" href="{{ $p.Last.URL }}" aria-label="Last page">»»</a>
+      {{ else }}
+        <span class="page-btn is-disabled">»</span>
+        <span class="page-btn is-disabled">»»</span>
+      {{ end }}
+    </nav>
+  {{ end }}
+
+</div>
+{{ end }}
