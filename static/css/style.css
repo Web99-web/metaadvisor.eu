@@ -170,251 +170,111 @@ a:hover { text-decoration: underline; }
   font-size: 14px;
   transition: all 0.2s ease;
 }
+.page-btn:hover { background: #2563eb; color: #fff; border-color: #2563eb; }
+.page-btn.is-active, .page-btn.active { background:#2563eb; color:#fff; border-color:#2563eb; font-weight:600; }
+.page-btn.is-disabled { opacity:.45; pointer-events:none; }
+.page-ellipsis { display:inline-block; padding:0 6px; color:#6b7280; }
 
-.page-btn:hover {
-  background: #2563eb;
-  color: #fff;
-  border-color: #2563eb;
-}
-
-.page-btn.is-active,
-.page-btn.active {
-  background: #2563eb;
-  color: #fff;
-  border-color: #2563eb;
-  font-weight: 600;
-}
 /* --- MOBILE HEADER HOTFIX (force lang pills to new line & visible) --- */
 @media (max-width: 640px) {
-  /* Ne guraj meni udesno na mobu */
-  .nav { 
-    margin-left: 0;        /* was auto */
-    order: 3;              /* ide ispod jezika */
-  }
-
-  /* Jezični switcher zauzima cijelu širinu i prelazi u novi red */
+  .nav { margin-left: 0; order: 3; }
   .lang-switch {
-    order: 2;              /* ispod branda, iznad menija */
-    flex: 1 0 100%;        /* NOVO: svoj red (100% širine) */
-    width: 100%;
-    margin-left: 0;
-    justify-content: flex-start;
-    overflow-x: auto;      /* ako baš ne stane, skrol je moguć */
-    -webkit-overflow-scrolling: touch;
-    padding-bottom: .25rem;
-    gap: 8px;
+    order: 2; flex: 1 0 100%; width: 100%;
+    margin-left: 0; justify-content: flex-start;
+    overflow-x: auto; -webkit-overflow-scrolling: touch;
+    padding-bottom: .25rem; gap: 8px;
   }
-  .lang-switch .lang {
-    white-space: nowrap;
-    padding: 5px 9px;      /* mrvu kompaktnije */
-    font-size: .95rem;
-  }
-
-  /* Meni tipke mrvu kompaktnije da ne pucaju u dva reda */
-  .btn-link { 
-    padding: 6px 9px; 
-    font-size: .95rem;
-  }
-
-  /* Po želji: sakrij About na mobu (ostavi liniju ispod/izbriši) */
-  /* .nav a[href*="about"] { display:none; } */
+  .lang-switch .lang { white-space: nowrap; padding: 5px 9px; font-size: .95rem; }
+  .btn-link { padding: 6px 9px; font-size: .95rem; }
 }
+
 /* === MOBILE HEADER HOTFIX (force wrap + full-width language pills) === */
 @media (max-width: 680px) {
-  /* 1) Flex container u headeru MORA moći prelomiti red */
-  .site-header .container,
-  .site-header .header-inner {
-    display: flex !important;
-    align-items: center !important;
-    gap: 8px !important;
-    flex-wrap: wrap !important;
+  .site-header .container, .site-header .header-inner {
+    display: flex !important; align-items: center !important;
+    gap: 8px !important; flex-wrap: wrap !important;
   }
-
-  /* 2) Jezični switcher: uvijek u NOVOM REDU, 100% širina */
-  .site-header .lang-switch,
-  .site-header nav.lang-switch,
-  .site-header nav[aria-label*="Lang"],
-  .site-header .i18n-switch {
-    order: 2 !important;
-    flex: 1 0 100% !important;
-    width: 100% !important;
-    justify-content: flex-start !important;
-    overflow-x: auto !important;
-    -webkit-overflow-scrolling: touch !important;
-    padding-bottom: .25rem !important;
-    gap: 8px !important;
+  .site-header .lang-switch, .site-header nav.lang-switch,
+  .site-header nav[aria-label*="Lang"], .site-header .i18n-switch {
+    order: 2 !important; flex: 1 0 100% !important; width: 100% !important;
+    justify-content: flex-start !important; overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important; padding-bottom: .25rem !important; gap: 8px !important;
   }
-  .site-header .lang-switch .lang { 
-    white-space: nowrap !important; 
-    padding: 5px 9px !important; 
-    font-size: .95rem !important;
-  }
-
-  /* 3) Glavni meni: ne guraj desno, kompaktniji, ide ispod ili iznad po redu */
-  .site-header .nav {
-    margin-left: 0 !important;
-    gap: 8px !important;
-    flex-wrap: wrap !important;
-    order: 3 !important;   /* ako želiš da je meni ispod jezika */
-  }
-
-  /* 4) Brand neka ostane prvi */
+  .site-header .lang-switch .lang { white-space: nowrap !important; padding: 5px 9px !important; font-size: .95rem !important; }
+  .site-header .nav { margin-left: 0 !important; gap: 8px !important; flex-wrap: wrap !important; order: 3 !important; }
   .site-header .brand { order: 1 !important; }
-
-  /* 5) Meni tipke malo kompaktnije da ne pucaju */
   .btn-link { padding: 6px 9px !important; font-size: .95rem !important; }
 }
 
 /* === FINAL MOBILE HEADER FIX (append at end) ============================ */
 @media (max-width: 680px){
-  .site-header .header-inner{
-    flex-wrap: wrap !important;
-    height: auto !important;
-    min-height: 56px !important;
-  }
-
+  .site-header .header-inner{ flex-wrap: wrap !important; height: auto !important; min-height: 56px !important; }
   .site-header .brand{ order: 1 !important; }
-
-  /* Jezične pilule: uvijek novi red, cijela širina, po potrebi vodoravni skrol */
   .site-header .lang-switch{
-    order: 2 !important;
-    flex: 1 0 100% !important;
-    width: 100% !important;
-    justify-content: flex-start !important;
-    overflow-x: auto !important;
-    -webkit-overflow-scrolling: touch !important;
-    gap: 8px !important;
-    padding-bottom: .25rem !important;
+    order: 2 !important; flex: 1 0 100% !important; width: 100% !important;
+    justify-content: flex-start !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;
+    gap: 8px !important; padding-bottom: .25rem !important;
   }
-  .site-header .lang-switch .lang{
-    white-space: nowrap !important;
-    padding: 6px 10px !important;
-    font-size: .95rem !important;
-  }
-
-  /* Meni ide ispod jezika i ne gura ništa udesno… ali ga odmah i skrivamo */
-  .site-header .nav{
-    order: 3 !important;
-    margin-left: 0 !important;
-    gap: 8px !important;
-    flex-wrap: wrap !important;
-  }
-
-  /* → Ne trebaju nam “Latest / About” na vrhu na mobitelu */
-  .site-header .nav{ display: none !important; }
+  .site-header .lang-switch .lang{ white-space: nowrap !important; padding: 6px 10px !important; font-size: .95rem !important; }
+  .site-header .nav{ order: 3 !important; margin-left: 0 !important; gap: 8px !important; flex-wrap: wrap !important; }
+  .site-header .nav{ display: none !important; } /* sakrij Latest/About na mobu */
 }
 
-/* OPTIONAL (ako želiš sakriti Latest/About svugdje, ne samo na mobu):
+/* OPTIONAL: sakriti Latest/About svugdje
 .site-header .nav{ display: none !important; }
 */
 
-/* (opcionalno) dodatno globalno podešavanje za related sekciju */
-.post-related .card-img { height: 150px; object-fit: cover; }
+/* (opcionalno) related sekcija */
+.post-related .card-img { height: 150px !important; object-fit: cover; }
 .post-related .grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
 
-/* === GRID CARD NORMALIZE (safe overrides at end) ===================== */
-.card {
-  display: flex;              /* umjesto block */
-  flex-direction: column;
+/* === GRID CARD NORMALIZE (siguran baseline) ======================== */
+.card { display: flex; flex-direction: column; }
+.card-img { width: 100%; height: 160px; object-fit: cover; display: block; }
+.card-body { display: flex; flex-direction: column; gap: 8px; min-height: 150px; }
+.card-title {
+  font-weight: 700; line-height: 1.25;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.card-summary {
+  color: #475569; display: -webkit-box;
+  -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; min-height: 3.6em;
 }
 
+/* Responsive: na mobu još niža slika */
+@media (max-width: 640px) {
+  .card-img { height: 140px; }
+}
+
+/* === SHORT CARD LOOK (force) ======================================= */
+.card { display: flex !important; flex-direction: column !important; }
 .card-img {
   width: 100%;
-  height: 180px;              /* fiksna visina slike → ujednačen vrh */
+  height: 160px !important;         /* kratka slika */
   object-fit: cover;
   display: block;
 }
-
 .card-body {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  min-height: 180px;          /* stabilna tekstualna zona */
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 8px !important;
+  min-height: 150px !important;     /* kraća tekstualna zona */
+}
+.card-title{
+  font-weight:700; line-height:1.25;
+  display:-webkit-box !important; -webkit-line-clamp:2 !important; -webkit-box-orient:vertical !important;
+  overflow:hidden !important;
+}
+.card-summary{
+  color:#475569;
+  display:-webkit-box !important; -webkit-line-clamp:3 !important; -webkit-box-orient:vertical !important;
+  overflow:hidden !important; min-height:3.6em !important;
+}
+@media (max-width: 640px){
+  .card-img{ height:140px !important; }
+  .card-body{ min-height:130px !important; }
 }
 
-/* reži preduge naslove/sažetke na isti broj redaka */
-.card-title {
-  font-weight: 700;
-  line-height: 1.25;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;      /* 2 reda naslova */
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-.card-summary {
-  color: #475569;             /* malo tamniji gray */
-  display: -webkit-box;
-  -webkit-line-clamp: 4;      /* 3–4 reda sažetka */
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  min-height: 4.8em;          /* Firefox stabilnost */
-}
-
-/* Responsive: na mobu malo manja slika */
-@media (max-width: 640px) {
-  .card-img { height: 160px; }
-}
-.page-btn.is-disabled {
-  opacity: .45;
-  pointer-events: none;
-}
-.page-ellipsis {
-  display: inline-block;
-  padding: 0 6px;
-  color: #6b7280;
-}
-.page-btn.is-disabled {
-  opacity: .45;
-  pointer-events: none;
-}
-.page-ellipsis {
-  display: inline-block;
-  padding: 0 6px;
-  color: #6b7280;
-}
-/* === SHORT CARD LOOK (uniform, low height) ========================= */
-.card { display: flex; flex-direction: column; }
-
-/* slika niska, kao prije */
-.card-img { 
-  width: 100%;
-  height: 160px !important;   /* kraće od 180px */
-  object-fit: cover;
-  display: block;
-}
-
-/* tekstualna zona isto kraća */
-.card-body {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  min-height: 150px;          /* spusti s 180 → 150 */
-}
-
-/* reži tekst da ne raste kartica */
-.card-title {
-  font-weight: 700;
-  line-height: 1.25;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-.card-summary {
-  color: #475569;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;      /* 3 reda (kraće) */
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  min-height: 3.6em;          /* stabilno i u Firefoxu */
-}
-
-/* na mobu još malo niže, po želji */
-@media (max-width: 640px) {
-  .card-img { height: 140px !important; }
-  .card-body { min-height: 130px; }
-}
 /* === FIREFOX FALLBACK for line-clamp ================================ */
 @supports not (-webkit-line-clamp: 1) {
   .card-title {
@@ -430,4 +290,3 @@ a:hover { text-decoration: underline; }
     display: block;
   }
 }
-
