@@ -355,4 +355,13 @@ a:hover { text-decoration: underline; }
 @media (max-width: 640px) {
   .card-img { height: 160px; }
 }
+.page-btn.is-disabled {
+  opacity: .45;
+  pointer-events: none;
+}
+.page-ellipsis {
+  display: inline-block;
+  padding: 0 6px;
+  color: #6b7280;
+}
 
