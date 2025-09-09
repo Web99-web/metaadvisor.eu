@@ -8,8 +8,8 @@
   <!-- cache-bust -->
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v={{ now.Unix }}">
   <link rel="icon" href="/favicon.ico" sizes="any">
-<link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
   {{ partial "analytics.html" . }}
 </head>
@@ -32,9 +32,7 @@
 </header>
 
 <main class="site-main">
-  <div class="container">
-    {{ block "main" . }}{{ end }}
-  </div>
+  {{ block "main" . }}{{ end }}
 </main>
 
 <footer class="site-footer">
@@ -49,7 +47,6 @@
     </p>
   </div>
 </footer>
-
 
 </body>
 </html>
