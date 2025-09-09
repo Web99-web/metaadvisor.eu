@@ -6,8 +6,9 @@ category: "news"
 translationKey: "a555319b1113e2e1f6d3ebfccf6103a5"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/09/apple-iphone-17"
+priority: 20
 image: "hero.jpg"
-tags: []
+tags: ["apple", "iphone", "google"]
 ---
 
 Company also updates AirPods earbuds with live translation and reveals Apple Watch Series 11
