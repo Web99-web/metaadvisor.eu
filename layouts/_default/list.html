@@ -1,120 +1,63 @@
 {{ define "main" }}
 <div class="container">
 
-  {{/* Naslov (po želji ga makni) */}}
   <h1 style="margin:10px 0 14px;">
     {{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}
   </h1>
 
-  {{/* 1) Kreni od stranica konteksta; na home uzmi sve regularne */}}
   {{ $pages := .Pages }}
-  {{ if or .IsHome (eq (len $pages) 0) }}
-    {{ $pages = .Site.RegularPages }}
-  {{ end }}
-
-  {{/* 2) Samo news */}}
+  {{ if or .IsHome (eq (len $pages) 0) }}{{ $pages = .Site.RegularPages }}{{ end }}
   {{ $pages = where $pages "Type" "news" }}
-
-  {{/* 3) Sort + paginate */}}
   {{ $pager := .Paginate ($pages.ByDate.Reverse) }}
 
   <div class="grid">
     {{ range $pg := $pager.Pages }}
-
-      {{/* SKIP: bilo što što izgleda kao “Inbox (drafts)” / “inbox-drafts-*” */}}
-      {{ $isDraftCard := or (in (lower $pg.Title) "inbox (drafts)")
-                            (hasPrefix $pg.Slug "inbox-drafts")
-                            (in $pg.File.Path "inbox-drafts-") }}
+      {{ $isDraftCard := or (in (lower $pg.Title) "inbox (drafts)") (hasPrefix $pg.Slug "inbox-drafts") (in $pg.File.Path "inbox-drafts-") }}
       {{ if not $isDraftCard }}
 
-        {{/* Fallback slika + heuristika po tagovima iz /static/images */}}
+        {{/* --- PLACEHOLDER --- */}}
         {{ $ph := "/images/placeholder-metaadvisor-small.jpg" }}
-        {{ $hero := $pg.Resources.GetMatch "hero*" }}
 
-        {{/* TAG → IMAGE MAP (dodaj / mijenjaj po potrebi) */}}
+        {{/* --- HERO: uzmi prvi resurs koji matchea hero* --- */}}
+        {{ $hero := "" }}
+        {{ $heros := $pg.Resources.Match "hero*" }}
+        {{ if gt (len $heros) 0 }}
+          {{ $hero = (index $heros 0).RelPermalink }}
+        {{ end }}
+
+        {{/* --- TAG → IMAGE MAP (static/images) --- */}}
         {{ $tagMap := dict
-          "ai"        "/images/ai.jpg"
-          "artificial-intelligence" "/images/ai.jpg"
-
-          "crypto"    "/images/fallback-crypto.jpg"
-
-          "bitcoin"   "/images/bitcoin-btc.jpg"
-          "btc"       "/images/bitcoin-btc.jpg"
-
-          "ethereum"  "/images/eth.jpg"
-          "eth"       "/images/eth.jpg"
-          "ethereum-classic" "/images/etc-btc.jpg"
-          "etc"       "/images/etc-btc.jpg"
-
-          "litecoin"  "/images/litecoin-ltc.png"
-          "ltc"       "/images/litecoin-ltc.png"
-
-          "ripple"    "/images/xrp.png"
-          "xrp"       "/images/xrp.png"
-
-          "cardano"   "/images/cardano-ada-logo.png"
-          "ada"       "/images/cardano-ada-logo.png"
-
-          "solana"    "/images/solana.jpg"
-          "sol"       "/images/solana.jpg"
-
-          "binance"   "/images/bnb.png"
-          "bnb"       "/images/bnb.png"
-
-          "polkadot"  "/images/polkadot-dot.png"
-          "dot"       "/images/polkadot-dot.png"
-
-          "chainlink" "/images/chainlink-link.png"
-          "link"      "/images/chainlink-link.png"
-
-          "monero"    "/images/monero-xmr.png"
-          "xmr"       "/images/monero-xmr.png"
-
-          "arbitrum"  "/images/arbitrum-arb.png"
-          "arb"       "/images/arbitrum-arb.png"
-
-          "uniswap"   "/images/uniswap-uni.png"
-          "uni"       "/images/uniswap-uni.png"
-
-          "injective" "/images/injective-inj.png"
-          "inj"       "/images/injective-inj.png"
-
-          "kaspa"     "/images/kaspa-kas.png"
-          "kas"       "/images/kaspa-kas.png"
-
-          "tether"    "/images/tether-usdt.png"
-          "usdt"      "/images/tether-usdt.png"
-
-          "aave"      "/images/aave.png"
-          "cosmos"    "/images/cosmos-atom.png"
-          "atom"      "/images/cosmos-atom.png"
-          "dogecoin"  "/images/dogecoin-doge.png"
-          "doge"      "/images/dogecoin-doge.png"
-          "sei"       "/images/sei.png"
-          "sui"       "/images/sui.png"
-          "ordi"      "/images/ordi.png"
-          "ordinals"  "/images/ordi.png"
-          "avalanche" "/images/avalanche-avax.png"
-          "avax"      "/images/avalanche-avax.png"
-          "bittensor" "/images/bittensor-tao.png"
-          "tao"       "/images/bittensor-tao.png"
-
-          /* generičke teme */
-          "finance"   "/images/finance.jpg"
-          "stocks"    "/images/stock-market-dionice.jpg"
-          "stock"     "/images/stock-market-dionice.jpg"
-          "equities"  "/images/stock-market-dionice.jpg"
-          "dionice"   "/images/stock-market-dionice.jpg"
-          "security"  "/images/fallback-security.jpg"
-          "privacy"   "/images/fallback-security.jpg"
-          "gold"      "/images/gold.jpg"
-          "google"    "/images/Google.png"
-          "visa"      "/images/visa.jpg"
-          "phone"     "/images/mobile-phone.jpg"
-          "mobile"    "/images/mobile-phone.jpg"
+          "ai" "/images/ai.jpg" "artificial-intelligence" "/images/ai.jpg"
+          "crypto" "/images/fallback-crypto.jpg"
+          "bitcoin" "/images/bitcoin-btc.jpg" "btc" "/images/bitcoin-btc.jpg"
+          "ethereum" "/images/eth.jpg" "eth" "/images/eth.jpg"
+          "ethereum-classic" "/images/etc-btc.jpg" "etc" "/images/etc-btc.jpg"
+          "litecoin" "/images/litecoin-ltc.png" "ltc" "/images/litecoin-ltc.png"
+          "ripple" "/images/xrp.png" "xrp" "/images/xrp.png"
+          "cardano" "/images/cardano-ada-logo.png" "ada" "/images/cardano-ada-logo.png"
+          "solana" "/images/solana.jpg" "sol" "/images/solana.jpg"
+          "binance" "/images/bnb.png" "bnb" "/images/bnb.png"
+          "polkadot" "/images/polkadot-dot.png" "dot" "/images/polkadot-dot.png"
+          "chainlink" "/images/chainlink-link.png" "link" "/images/chainlink-link.png"
+          "monero" "/images/monero-xmr.png" "xmr" "/images/monero-xmr.png"
+          "arbitrum" "/images/arbitrum-arb.png" "arb" "/images/arbitrum-arb.png"
+          "uniswap" "/images/uniswap-uni.png" "uni" "/images/uniswap-uni.png"
+          "injective" "/images/injective-inj.png" "inj" "/images/injective-inj.png"
+          "kaspa" "/images/kaspa-kas.png" "kas" "/images/kaspa-kas.png"
+          "tether" "/images/tether-usdt.png" "usdt" "/images/tether-usdt.png"
+          "aave" "/images/aave.png" "cosmos" "/images/cosmos-atom.png" "atom" "/images/cosmos-atom.png"
+          "dogecoin" "/images/dogecoin-doge.png" "doge" "/images/dogecoin-doge.png"
+          "sei" "/images/sei.png" "sui" "/images/sui.png" "ordi" "/images/ordi.png" "ordinals" "/images/ordi.png"
+          "avalanche" "/images/avalanche-avax.png" "avax" "/images/avalanche-avax.png"
+          "bittensor" "/images/bittensor-tao.png" "tao" "/images/bittensor-tao.png"
+          "finance" "/images/finance.jpg"
+          "stocks" "/images/stock-market-dionice.jpg" "stock" "/images/stock-market-dionice.jpg" "equities" "/images/stock-market-dionice.jpg" "dionice" "/images/stock-market-dionice.jpg"
+          "security" "/images/fallback-security.jpg" "privacy" "/images/fallback-security.jpg"
+          "gold" "/images/gold.jpg" "google" "/images/Google.png" "visa" "/images/visa.jpg"
+          "phone" "/images/mobile-phone.jpg" "mobile" "/images/mobile-phone.jpg"
         }}
 
-        {{/* pokušaj naći sliku po tagu/kategoriji */}}
+        {{/* pokušaj mapirati tag/kategoriju na sliku */}}
         {{ $tagImg := "" }}
         {{ with $pg.Params.tags }}
           {{ range . }}
@@ -127,33 +70,35 @@
           {{ with index $tagMap $cat }}{{ $tagImg = . }}{{ end }}
         {{ end }}
 
-        <a class="card" href="{{ $pg.RelPermalink }}">
-
-          {{/* 4) Slika: hero (bundle) > image_url / image (bundle ili abs) > tag fallback > placeholder */}}
-          {{ if $hero }}
-            <img class="card-img" src="{{ $hero.RelPermalink }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async">
+        {{/* --- image_url / image iz front mattera --- */}}
+        {{ $imgParam := $pg.Params.image_url | default $pg.Params.image }}
+        {{ $imgFinal := "" }}
+        {{ if $hero }}
+          {{ $imgFinal = $hero }}
+        {{ else if $imgParam }}
+          {{ if or (hasPrefix $imgParam "http") (hasPrefix $imgParam "/") }}
+            {{ $imgFinal = $imgParam }}
           {{ else }}
-            {{ $img := $pg.Params.image_url | default $pg.Params.image }}
-            {{ if $img }}
-              {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
-                <img class="card-img" src="{{ $img }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async"
-                     onerror="this.onerror=null;this.src='{{ if $tagImg }}{{ $tagImg }}{{ else }}{{ $ph }}{{ end }}'">
-              {{ else }}
-                {{ $res := $pg.Resources.GetMatch $img }}
-                {{ if $res }}
-                  <img class="card-img" src="{{ $res.RelPermalink }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async">
-                {{ else if $tagImg }}
-                  <img class="card-img" src="{{ $tagImg }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async">
-                {{ else }}
-                  <img class="card-img" src="{{ $ph }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async">
-                {{ end }}
-              {{ end }}
+            {{ $res := $pg.Resources.GetMatch $imgParam }}
+            {{ if $res }}
+              {{ $imgFinal = $res.RelPermalink }}
             {{ else if $tagImg }}
-              <img class="card-img" src="{{ $tagImg }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async">
+              {{ $imgFinal = $tagImg }}
             {{ else }}
-              <img class="card-img" src="{{ $ph }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async">
+              {{ $imgFinal = $ph }}
             {{ end }}
           {{ end }}
+        {{ else if $tagImg }}
+          {{ $imgFinal = $tagImg }}
+        {{ else }}
+          {{ $imgFinal = $ph }}
+        {{ end }}
+
+        <!-- debug: slug="{{ $pg.Slug }}" hero="{{ cond (ne $hero "") "yes" "no" }}" imgParam="{{ $imgParam }}" tagImg="{{ $tagImg }}" final="{{ $imgFinal }}" -->
+
+        <a class="card" href="{{ $pg.RelPermalink }}">
+          <img class="card-img" src="{{ $imgFinal }}" alt="{{ $pg.Title }}" loading="lazy" decoding="async"
+               onerror="this.onerror=null;this.src='{{ if $tagImg }}{{ $tagImg }}{{ else }}{{ $ph }}{{ end }}'">
 
           <div class="card-body">
             <div class="card-meta">
@@ -185,8 +130,6 @@
     {{ if gt ($s.Get "end") $p.TotalPages }}{{ $s.Set "end" $p.TotalPages }}{{ end }}
 
     <nav class="pagination" role="navigation" aria-label="Pagination">
-
-      {{/* First + Prev */}}
       {{ if $p.HasPrev }}
         <a class="page-btn" href="{{ $p.First.URL }}" aria-label="First page">««</a>
         <a class="page-btn" href="{{ $p.Prev.URL }}" aria-label="Previous page">«</a>
@@ -195,14 +138,12 @@
         <span class="page-btn is-disabled">«</span>
       {{ end }}
 
-      {{/* Leading '1' + ellipsis */}}
       {{ if gt ($s.Get "start") 1 }}
         {{ $first := index $p.Pagers 0 }}
         <a class="page-btn" href="{{ $first.URL }}">1</a>
         {{ if gt ($s.Get "start") 2 }}<span class="page-ellipsis">…</span>{{ end }}
       {{ end }}
 
-      {{/* Window around current page */}}
       {{ range $i := seq ($s.Get "start") ($s.Get "end") }}
         {{ $pg := index $p.Pagers (sub $i 1) }}
         {{ if eq $i $p.PageNumber }}
@@ -212,14 +153,12 @@
         {{ end }}
       {{ end }}
 
-      {{/* Trailing ellipsis + last */}}
       {{ if lt ($s.Get "end") $p.TotalPages }}
         {{ if lt ($s.Get "end") (sub $p.TotalPages 1) }}<span class="page-ellipsis">…</span>{{ end }}
         {{ $last := index $p.Pagers (sub $p.TotalPages 1) }}
         <a class="page-btn" href="{{ $last.URL }}">{{ $p.TotalPages }}</a>
       {{ end }}
 
-      {{/* Next + Last */}}
       {{ if $p.HasNext }}
         <a class="page-btn" href="{{ $p.Next.URL }}" aria-label="Next page">»</a>
         <a class="page-btn" href="{{ $p.Last.URL }}" aria-label="Last page">»»</a>
@@ -227,9 +166,7 @@
         <span class="page-btn is-disabled">»</span>
         <span class="page-btn is-disabled">»»</span>
       {{ end }}
-
     </nav>
   {{ end }}
-
 </div>
 {{ end }}
