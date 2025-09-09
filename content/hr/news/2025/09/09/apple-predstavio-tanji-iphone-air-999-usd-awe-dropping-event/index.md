@@ -7,7 +7,8 @@ translationKey: "a555319b1113e2e1f6d3ebfccf6103a5"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/09/apple-iphone-17"
 priority: 20
-image: "hero.jpg"
+image_url: "https://source.unsplash.com/YLNMXzXk8zs/1200x630"
+image_alt: "Black iPhone 7 with white and black dice"
 tags: ["ai", "apple", "iphone"]
 our_take: |
   Naš osvrt: Tvrtka je nadogradila AirPods slušalice uvođenjem prijevoda uživo i najavila novosti za Apple Watch. U utorak je predstavljen najtanji iPhone dosad. Šira slika: ishode određuju podaci/licenciranje, kvaliteta modela i regulatorni rizik. Sviđa nam se stvarna distribucija i obrambeni “data moats”.
