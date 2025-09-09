@@ -3,13 +3,13 @@ title = "MetaAdvisor.eu"
 paginate = 24
 paginatePath = "page"
 enableRobotsTXT = true
+ignoreFiles = ["^content/_inbox/"]  # (1) ne renderiraj _inbox
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [permalinks]
   news = "/news/:slug/"
-  
 
 [languages]
   [languages.en]
@@ -39,4 +39,5 @@ defaultContentLanguageInSubdir = false
   category = "categories"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home    = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]     # (2) omogući RSS na /news/ itd.
