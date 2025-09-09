@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="post container">
 
-  {{/* radi sigurnog scopa sačuvaj page u $p */}}
+  {{/* siguran scope */}}
   {{ $p := . }}
 
   <header class="post-hero">
@@ -14,7 +14,7 @@
       {{ $src = .RelPermalink }}
     {{ end }}
 
-    {{/* 2) image_url / image iz front-mattera (abs, /, ili relativno u bundleu) */}}
+    {{/* 2) image_url / image (abs ili / ili relativno u bundleu) */}}
     {{ if not $src }}
       {{ $img := or $p.Params.image_url $p.Params.image }}
       {{ if $img }}
@@ -24,7 +24,7 @@
           {{ with $p.Resources.GetMatch $img }}
             {{ $src = .RelPermalink }}
           {{ else }}
-            {{/* ako je samo ime datoteke (npr. "bitcoin-btc.jpg") pokušaj iz /images */}}
+            {{/* ako je samo ime (npr. "bitcoin-btc.jpg") probaj iz /images */}}
             {{ $src = printf "/images/%s" $img }}
           {{ end }}
         {{ end }}
@@ -83,7 +83,7 @@
     {{ $p.Content }}
   </div>
 
-  {{/* naš kratki osvrt ako postoji u front-matteru: our_take: "…" */}}
+  {{/* Our take (ako postoji u front-matteru) */}}
   {{ with $p.Params.our_take }}
     <aside class="disclaimer-article">
       <strong>Our take:</strong> {{ . | markdownify }}
