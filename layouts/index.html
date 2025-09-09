@@ -10,7 +10,16 @@
   {{ $pages = where $pages "Type" "news" }}
 
   {{/* Paginacija po datumu (novije prvo) */}}
-  {{ $pager := .Paginate ($pages.ByDate.Reverse) }}
+  {{/* Skupi news stranice i posloži: Params.priority desc pa Date desc */}}
+  {{ $pages := .Pages }}
+  {{ if or .IsHome (eq (len $pages) 0) }}{{ $pages = .Site.RegularPages }}{{ end }}
+  {{ $pages = where $pages "Type" "news" }}
+
+  {{/* presloži: prvo po prioritetu iz front-mattera, onda po datumu */}}
+  {{ $pages = sort $pages "Params.priority" "desc" "Date" "desc" }}
+
+  {{ $pager := .Paginate $pages }}
+
 
   <div class="grid">
     {{ range $pg := $pager.Pages }}
