@@ -12,7 +12,7 @@ USE_OG_IMAGE = False
 OG_WHITELIST = {
     "unsplash.com","images.unsplash.com","pexels.com","pixabay.com",
     "upload.wikimedia.org","commons.wikimedia.org",
-    # ↓ dodano radi Guardiana (ako želiš dopustiti njihove OG slike)
+    # ↓ dopustimo Guardian OG slike (po potrebi)
     "i.guim.co.uk","theguardian.com","www.theguardian.com"
 }
 
@@ -87,6 +87,39 @@ def extract_tags_from_text(title: str, body: str, seed_tags=None, limit: int = 1
             found.extend(out_tags if isinstance(out_tags, list) else [out_tags])
     all_tags = _dedup(list(seed_tags) + found)
     return all_tags[:limit]
+
+# ---------- AUTO "OUR TAKE" ----------
+AUTO_TAKE = True  # nema u inboxu? generiraj automatski
+
+def _first_sentence(text: str, max_len: int = 220) -> str:
+    if not text:
+        return ""
+    s = re.split(r"(?<=[\.\!\?])\s+", text.strip(), maxsplit=1)[0]
+    s = re.sub(r"\s+", " ", s).strip()
+    return (s[:max_len] + "…") if len(s) > max_len else s
+
+def generate_our_take(title: str, body: str, tags) -> str:
+    """Kratki heuristički komentar bez vanjskog AI-a."""
+    t = set([str(x).lower() for x in (tags or [])])
+    gist = _first_sentence(body) or _first_sentence(title) or title
+
+    # tematski preseti
+    if {"bitcoin","btc","ethereum","eth","solana","sol","crypto"} & t:
+        return ("Our view: " + gist +
+                " Key things to watch: liquidity, macro (rates/USD) and regulation. "
+                "Stay selective; add only in high-conviction names.")
+    if {"ai","artificial-intelligence","ai-safety"} & t:
+        return ("Our view: " + gist +
+                " Bigger picture: data/licensing, model quality, and policy risk drive outcomes. "
+                "We like real distribution and defensible data moats.")
+    if {"stocks","equities","finance","nasdaq"} & t:
+        return ("Our view: " + gist +
+                " Near-term setup hinges on earnings revisions and rates; "
+                "prefer cash-generative leaders over story stocks.")
+
+    # fallback
+    return ("Our view: " + gist +
+            " Upside depends on execution and user adoption; key risk is regulation and headline volatility.")
 
 # ---------- OPCIJE ----------
 ADD_ALIASES_FROM_INBOX     = False
@@ -223,7 +256,7 @@ def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
         f'source: "{src}"',
         f'source_url: "{src_url}"',
         f"priority: {int(priority)}",           # ← za Hugo sortiranje
-        'image: "hero.jpg"',                    # pomaže list kartici; 404 će pasti na fallback u layoutu
+        'image: "hero.jpg"',                    # pomaže list kartici
         "tags: [" + ", ".join([f'\"{t}\"' for t in (tags or [])]) + "]",
     ]
     if aliases:
@@ -237,6 +270,8 @@ def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
 
     (d/"index.md").write_text("\n".join(fm) + "\n\n" + (body or "") + "\n", encoding="utf-8")
     return d
+
+translator = Translator()
 
 def auto_translate(text: str, lang: str) -> str:
     if not text: return text
@@ -263,8 +298,8 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     src       = post.get("source","")
     src_url   = post.get("source_url","")
     tkey      = post.get("translationKey","")
-    tags      = post.get("tags",[])
-    our_take  = post.get("our_take", None)  # ← ako postoji u inboxu, prenesi
+    tags_seed = post.get("tags",[])
+    our_take  = post.get("our_take", None)  # ako postoji u inboxu, prenesi
 
     # Datum
     date_val = post.get("date")
@@ -281,8 +316,12 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     body_en   = clean_body(post.content)
     image_url = post.get("image_url","")
 
-    # 🔴 BITNO: AUTO-TAGOVI (dodaj što fali, bez duplikata)
-    tags = extract_tags_from_text(title_en, body_en, seed_tags=tags)
+    # Auto-tagovi: postojeći + iz teksta
+    tags = extract_tags_from_text(title_en, body_en, seed_tags=tags_seed)
+
+    # Auto Our take ako ga nema u inboxu
+    if not our_take and AUTO_TAKE:
+        our_take = generate_our_take(title_en, body_en, tags)
 
     # Slika (hero)
     hero = get_hero_bytes(image_url, tags, title_en, body_en, seed=tkey or title_en)
