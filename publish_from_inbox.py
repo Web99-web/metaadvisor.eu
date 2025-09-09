@@ -7,9 +7,12 @@ from googletrans import Translator
 from urllib.parse import urlparse
 
 # ---------- IMAGE POLICY ----------
+# Ako je False, OG (remote) slike će se ignorirati osim s whiteliste.
 USE_OG_IMAGE = False
-OG_WHITELIST = {"unsplash.com","images.unsplash.com","pexels.com","pixabay.com",
-                "upload.wikimedia.org","commons.wikimedia.org"}
+OG_WHITELIST = {
+    "unsplash.com","images.unsplash.com","pexels.com","pixabay.com",
+    "upload.wikimedia.org","commons.wikimedia.org"
+}
 
 # ---------- OPCIJE ----------
 ADD_ALIASES_FROM_INBOX     = False
@@ -21,6 +24,18 @@ INBOX   = Path("content/_inbox")
 USER_AGENT = "MetaAdvisorBot/2.0 (+https://metaadvisor.eu)"
 TIMEOUT    = 15
 HEADERS    = {"User-Agent": USER_AGENT}
+
+# Prioritet izvora (veći broj = veći prioritet)
+SOURCE_RANK = {
+    "CoinDesk": 100,
+    "Cointelegraph": 95,
+    "Bloomberg": 90,
+    "Reuters": 85,
+    "The Guardian Tech": 20,
+}
+def source_priority(src: str) -> int:
+    if not src: return 0
+    return SOURCE_RANK.get(src.strip(), 0)
 
 TRANSLIT = {
     "ä":"ae","ö":"oe","ü":"ue","ß":"ss",
@@ -48,9 +63,11 @@ def bundle_dir(lang: str, dt: datetime.datetime, slug: str) -> Path:
 
 def clean_body(md: str) -> str:
     if not md: return ""
+    # makni Hugove contentReference artefakte
     return re.sub(r":contentReference\[[^\]]*\]\{index=\d+\}", "", md)
 
-def dl(url: str) -> bytes | None:
+def dl(url: str):
+    """Pokušaj skinuti udaljenu sliku (samo ako je dopuštena)."""
     if not url: return None
     try:
         host = urlparse(url).netloc
@@ -63,42 +80,55 @@ def dl(url: str) -> bytes | None:
         return None
 
 def load_image_map():
+    """Učitaj data/image_map.yaml (mapping: ključ -> [datoteke], default: ime)."""
     try:
         with IMAGE_MAP_YAML.open("r", encoding="utf-8") as f:
             data = yaml.safe_load(f) or {}
             mapping = data.get("mapping") or {}
-            for k,v in list(mapping.items()):
-                if isinstance(v,str): mapping[k]=[v]
+            # normaliziraj vrijednosti u liste
+            for k, v in list(mapping.items()):
+                if isinstance(v, str):
+                    mapping[k] = [v]
             data["mapping"] = mapping
-            data.setdefault("default","placeholder.jpg")
+            data.setdefault("default", "placeholder.jpg")
             return data
     except Exception:
         return {"mapping": {}, "default": "placeholder.jpg"}
 
 def _det_pick(files: list[str], seed: str) -> str:
+    """Deterministički izbor iz liste (po seed-u)."""
     if not files: return ""
     h = hashlib.md5((seed or "").encode("utf-8")).hexdigest()
     return files[int(h,16) % len(files)]
 
-def pick_library_image(tags, title, body, seed: str) -> bytes | None:
+def pick_library_image(tags, title, body, seed: str):
+    """Pokušaj odabrati sliku iz static/images prema data/image_map.yaml."""
     conf = load_image_map()
     mapping: dict = conf.get("mapping", {})
     default_name: str = conf.get("default", "placeholder.jpg")
+
     keys = [str(t).lower() for t in (tags or [])]
     keys += re.findall(r"[a-z0-9\-]+", (title or "").lower())
-    if body: keys += re.findall(r"[a-z0-9\-]+", body.lower())
+    if body:
+        keys += re.findall(r"[a-z0-9\-]+", body.lower())
+
     for k in keys:
         if k in mapping:
             f = LIB_DIR / _det_pick(mapping[k], seed or title or "")
-            if f.exists(): return f.read_bytes()
+            if f.exists():
+                return f.read_bytes()
+
     f = LIB_DIR / default_name
     return f.read_bytes() if f.exists() else None
 
-def get_hero_bytes(image_url, tags, title, body, seed: str) -> bytes | None:
+def get_hero_bytes(image_url, tags, title, body, seed: str):
+    """Slika prioritet: 1) OG/remote (ako dopušten) → 2) biblioteka /static/images → 3) None."""
     return dl(image_url) or pick_library_image(tags, title, body, seed)
 
 def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
-                 tkey: str, src: str, src_url: str, tags, aliases=None, hero_bytes=None):
+                 tkey: str, src: str, src_url: str, tags, aliases=None,
+                 hero_bytes=None, our_take=None, priority: int = 0):
+    """Napiši sadržaj u content/<lang>/news/.../slug/index.md + hero.jpg."""
     slug_clean = url_slug(title)
     d = bundle_dir(lang, dt, slug_clean)
     if d.exists():
@@ -106,8 +136,11 @@ def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
         slug_clean = f"{slug_clean}-{short}"
         d = bundle_dir(lang, dt, slug_clean)
     d.mkdir(parents=True, exist_ok=True)
-    if hero_bytes: (d/"hero.jpg").write_bytes(hero_bytes)
 
+    if hero_bytes:
+        (d/"hero.jpg").write_bytes(hero_bytes)
+
+    # Front matter
     fm = [
         "---",
         f'title: "{title}"',
@@ -117,14 +150,25 @@ def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
         f'translationKey: "{tkey}"',
         f'source: "{src}"',
         f'source_url: "{src_url}"',
-        'image: "hero.jpg"',                         # ← pomaže list kartici
+        f"priority: {int(priority)}",           # ← za Hugo sortiranje
+        'image: "hero.jpg"',                    # pomaže list kartici; 404 će pasti na fallback u layoutu
         "tags: [" + ", ".join([f'\"{t}\"' for t in (tags or [])]) + "]",
     ]
     if aliases:
         fm.append("aliases:")
         fm += [f'  - "{a}"' for a in aliases]
+    if our_take:
+        # multiline YAML
+        fm.append("our_take: |")
+        for line in (our_take or "").splitlines():
+            fm.append(f"  {line}")
+
     fm.append("---")
-    (d/"index.md").write_text("\n".join(fm)+"\n\n"+(body or "")+"\n", encoding="utf-8")
+
+    (d/"index.md").write_text(
+        "\n".join(fm) + "\n\n" + (body or "") + "\n",
+        encoding="utf-8"
+    )
     return d
 
 def auto_translate(text: str, lang: str) -> str:
@@ -137,58 +181,84 @@ def auto_translate(text: str, lang: str) -> str:
     return text
 
 def publish_one(inbox_file: Path, also_hr=True, also_de=True):
-    # SKIP: _index.md i sve što počinje sa "_"
-    if inbox_file.name.startswith("_"): 
+    # SKIP: _index.md i sve što počinje s "_"
+    if inbox_file.name.startswith("_"):
         print(f"[skip] {inbox_file}")
         return
 
     post = frontmatter.load(inbox_file)
+
     title_en = post.get("title","Untitled")
     if title_en.strip().lower().startswith("inbox (drafts)"):
         print(f"[skip] drafts page: {inbox_file}")
         return
 
-    src      = post.get("source","")
-    src_url  = post.get("source_url","")
-    tkey     = post.get("translationKey","")
-    tags     = post.get("tags",[])
+    src       = post.get("source","")
+    src_url   = post.get("source_url","")
+    tkey      = post.get("translationKey","")
+    tags      = post.get("tags",[])
+    our_take  = post.get("our_take", None)  # ← ako postoji u inboxu, prenesi
 
+    # Datum
     date_val = post.get("date")
     if isinstance(date_val, str):
-        try: dt = datetime.datetime.fromisoformat(date_val.replace("Z","+00:00"))
-        except Exception: dt = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+        try:
+            dt = datetime.datetime.fromisoformat(date_val.replace("Z","+00:00"))
+        except Exception:
+            dt = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
     elif isinstance(date_val, datetime.datetime):
         dt = date_val if date_val.tzinfo else date_val.replace(tzinfo=datetime.timezone.utc)
     else:
         dt = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
 
-    body_en  = clean_body(post.content)
-    image_url= post.get("image_url","")
+    body_en   = clean_body(post.content)
+    image_url = post.get("image_url","")
 
-    old_segment = inbox_file.stem if ADD_ALIASES_FROM_INBOX else None
+    # Slika (hero)
     hero = get_hero_bytes(image_url, tags, title_en, body_en, seed=tkey or title_en)
 
+    # Prioritet izvora
+    prio = source_priority(src)
+
+    # Aliases (ako želiš stari segment)
+    old_segment = inbox_file.stem if ADD_ALIASES_FROM_INBOX else None
     en_aliases = [f"/news/{old_segment}/"] if old_segment else None
-    write_bundle("en", dt, title_en, body_en or f"Read the full article: {src_url}",
-                 tkey, src, src_url, tags, aliases=en_aliases, hero_bytes=hero)
 
+    # EN
+    write_bundle(
+        "en", dt, title_en, body_en or f"Read the full article: {src_url}",
+        tkey, src, src_url, tags, aliases=en_aliases,
+        hero_bytes=hero, our_take=our_take, priority=prio
+    )
+
+    # HR
     if also_hr:
-        write_bundle("hr", dt,
-                     auto_translate(title_en,"hr"),
-                     auto_translate(body_en or f"Read the full article: {src_url}", "hr"),
-                     tkey, src, src_url, tags,
-                     aliases=[f"/hr/news/{old_segment}/"] if old_segment else None,
-                     hero_bytes=hero)
+        write_bundle(
+            "hr", dt,
+            auto_translate(title_en,"hr"),
+            auto_translate(body_en or f"Read the full article: {src_url}", "hr"),
+            tkey, src, src_url, tags,
+            aliases=[f"/hr/news/{old_segment}/"] if old_segment else None,
+            hero_bytes=hero,
+            our_take=auto_translate(our_take,"hr") if our_take else None,
+            priority=prio
+        )
 
+    # DE
     if also_de:
-        write_bundle("de", dt,
-                     auto_translate(title_en,"de"),
-                     auto_translate(body_en or f"Read the full article: {src_url}", "de"),
-                     tkey, src, src_url, tags,
-                     aliases=[f"/de/news/{old_segment}/"] if old_segment else None,
-                     hero_bytes=hero)
+        write_bundle(
+            "de", dt,
+            auto_translate(title_en,"de"),
+            auto_translate(body_en or f"Read the full article: {src_url}", "de"),
+            tkey, src, src_url, tags,
+            aliases=[f"/de/news/{old_segment}/"] if old_segment else None,
+            hero_bytes=hero,
+            our_take=auto_translate(our_take,"de") if our_take else None,
+            priority=prio
+        )
 
     print(f"[publish] {inbox_file.name} → EN/HR/DE OK")
+
     if DELETE_INBOX_AFTER_PUBLISH:
         try:
             inbox_file.unlink()
@@ -196,8 +266,29 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
             print(f"[warn] Could not remove {inbox_file}: {e}")
 
 def pick_inbox_files(limit=PUBLISH_LIMIT):
-    files = [p for p in sorted(INBOX.rglob("*.md")) if not p.name.startswith("_")]
-    return files[:limit]
+    """Odaberi koje .md objaviti: prioritet izvora pa po datumu (oba desc)."""
+    all_files = [p for p in INBOX.rglob("*.md") if not p.name.startswith("_")]
+    scored = []
+    for p in all_files:
+        try:
+            fm = frontmatter.load(p)
+            src = fm.get("source","")
+            dt  = fm.get("date")
+            if isinstance(dt, str):
+                try:
+                    dt = datetime.datetime.fromisoformat(dt.replace("Z","+00:00"))
+                except Exception:
+                    dt = None
+            ts = dt.timestamp() if isinstance(dt, datetime.datetime) else 0
+            scored.append((
+                -source_priority(src),   # 1) viši prioritet → manja (negativna) vrijednost
+                -ts,                     # 2) noviji datum prvo
+                p
+            ))
+        except Exception:
+            scored.append((0, 0, p))
+    scored.sort()
+    return [t[2] for t in scored][:limit]
 
 def main(limit=PUBLISH_LIMIT, also_hr=True, also_de=True):
     files = pick_inbox_files(limit=limit)
@@ -220,4 +311,3 @@ if __name__ == "__main__":
         also_hr=not args.no_hr,
         also_de=not args.no_de,
     )
-
