@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="post container">
   <header class="post-hero">
-    {{/* HERO prioritet: 1) hero.* (bundle) → 2) params.image_url / image → 3) placeholder */}}
+    {{/* HERO prioritet: 1) hero.* (bundle) → 2) params.image_url / image (abs) → 3) params.image_url / image (rel iz bundlea) → 4) placeholder */}}
     {{ $ph := "/images/placeholder.jpg" | relURL }}
     {{ $hero := .Resources.GetMatch "hero*" }}
 
@@ -14,16 +14,31 @@
     {{ else }}
       {{ $img := or .Params.image_url .Params.image }}
       {{ if $img }}
-        {{ $src := $img }}
-        {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
-          {{ $src = $src | absURL }}
+        {{/* Ako je apsolutni URL ili počinje sa / → koristi direktno */}}
+        {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
+          <img
+            class="post-hero-img"
+            src="{{ $img }}"
+            alt="{{ .Params.image_alt | default .Title }}"
+            loading="lazy" decoding="async"
+            onerror="this.onerror=null;this.src='{{ $ph }}'">
+        {{ else }}
+          {{/* Inače je relativno ime (npr. "hero.jpg") → probaj ga naći u bundleu */}}
+          {{ $res := .Resources.GetMatch $img }}
+          {{ if $res }}
+            <img
+              class="post-hero-img"
+              src="{{ $res.RelPermalink }}"
+              alt="{{ .Params.image_alt | default .Title }}"
+              loading="lazy" decoding="async">
+          {{ else }}
+            <img
+              class="post-hero-img"
+              src="{{ $ph }}"
+              alt="{{ .Params.image_alt | default .Title }}"
+              loading="lazy" decoding="async">
+          {{ end }}
         {{ end }}
-        <img
-          class="post-hero-img"
-          src="{{ $src }}"
-          alt="{{ .Params.image_alt | default .Title }}"
-          loading="lazy" decoding="async"
-          onerror="this.onerror=null;this.src='{{ $ph }}'">
       {{ else }}
         <img
           class="post-hero-img"
@@ -51,6 +66,13 @@
   <div class="post-body">
     {{ .Content }}
   </div>
+
+  {{/* (Opcionalno) naš kratki osvrt ako je zadan u front matteru */}}
+  {{ with .Params.our_take }}
+    <aside class="disclaimer-article">
+      <strong>Our take:</strong> {{ . | markdownify }}
+    </aside>
+  {{ end }}
 
   {{ if or .Params.source .Params.source_url }}
     <aside class="post-source">
