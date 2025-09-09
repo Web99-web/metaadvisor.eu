@@ -10,8 +10,9 @@
   {{ if or .IsHome (eq (len $pages) 0) }}{{ $pages = .Site.RegularPages }}{{ end }}
   {{ $pages = where $pages "Type" "news" }}
 
-  {{/* Paginacija */}}
-  {{ $pager := .Paginate ($pages.ByDate.Reverse) }}
+  {{/* Sortiraj po prioritetu (desc) pa po datumu (desc), pa tek onda paginiraj */}}
+  {{ $sorted := sort $pages "Params.priority" "desc" "Date" "desc" }}
+  {{ $pager := .Paginate $sorted }}
 
   <div class="grid">
     {{ range $pg := $pager.Pages }}
@@ -79,8 +80,10 @@
         {{ $tagImg := "" }}
         {{ with $pg.Params.tags }}
           {{ range . }}
-            {{ $k := lower . }}
-            {{ with index $tagMap $k }}{{ $tagImg = . }}{{ end }}
+            {{- if not $tagImg -}}
+              {{ $k := lower . }}
+              {{ with index $tagMap $k }}{{ $tagImg = . }}{{ end }}
+            {{- end -}}
           {{ end }}
         {{ end }}
         {{ if and (not $tagImg) (isset $pg.Params "category") }}
