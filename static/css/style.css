@@ -312,3 +312,47 @@ a:hover { text-decoration: underline; }
 .post-related .card-img { height: 150px; object-fit: cover; }
 .post-related .grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
 
+/* === GRID CARD NORMALIZE (safe overrides at end) ===================== */
+.card {
+  display: flex;              /* umjesto block */
+  flex-direction: column;
+}
+
+.card-img {
+  width: 100%;
+  height: 180px;              /* fiksna visina slike → ujednačen vrh */
+  object-fit: cover;
+  display: block;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 180px;          /* stabilna tekstualna zona */
+}
+
+/* reži preduge naslove/sažetke na isti broj redaka */
+.card-title {
+  font-weight: 700;
+  line-height: 1.25;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;      /* 2 reda naslova */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-summary {
+  color: #475569;             /* malo tamniji gray */
+  display: -webkit-box;
+  -webkit-line-clamp: 4;      /* 3–4 reda sažetka */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 4.8em;          /* Firefox stabilnost */
+}
+
+/* Responsive: na mobu malo manja slika */
+@media (max-width: 640px) {
+  .card-img { height: 160px; }
+}
+
