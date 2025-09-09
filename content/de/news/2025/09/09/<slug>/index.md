@@ -7,7 +7,8 @@ translationKey: "a555319b1113e2e1f6d3ebfccf6103a5"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/09/apple-iphone-17"
 priority: 20
-image: "hero.jpg"
+image_url: "https://source.unsplash.com/YLNMXzXk8zs/1200x630"
+image_alt: "Black iPhone 7 with white and black dice"
 tags: ["ai", "apple", "iphone"]
 our_take: |
   Unser Fazit: Apple erweitert die AirPods um Live-Übersetzung und kündigt Updates für die Apple Watch an. Am Dienstag wurde das bislang dünnste iPhone vorgestellt. Größeres Bild: Ergebnisse werden von Daten/Lizenzen, Modellqualität und Regulierung bestimmt. Wir mögen echte Distribution und verteidigbare Datengräben.
