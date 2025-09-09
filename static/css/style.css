@@ -1,21 +1,27 @@
-/* ===== BASE / TYPO ===== */
+/* =========================
+   BASE / TYPOGRAPHY
+========================= */
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; }
 body {
   font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
-  font-size: 18px;               /* povećano sa 17 → 18 */
+  font-size: 18px;
   line-height: 1.7;
   color: #111;
   background: #fff;
 }
-img { max-width: 100%; height: auto; }
+img { max-width: 100%; height: auto; display: block; }
 a { color: #1f6feb; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-/* ===== CONTAINER ===== */
+/* =========================
+   CONTAINER
+========================= */
 .container, .wrap { max-width: 1100px; margin: 0 auto; padding: 0 20px; }
 
-/* ===== HEADER ===== */
+/* =========================
+   HEADER
+========================= */
 .site-header {
   position: sticky; top: 0; z-index: 40;
   background: #fff; border-bottom: 1px solid #eee;
@@ -23,7 +29,7 @@ a:hover { text-decoration: underline; }
 .header-inner {
   height: 64px;
   display: flex; align-items: center; gap: 12px;
-  flex-wrap: wrap; /* ↓ dopusti prelazak u drugi red */
+  flex-wrap: wrap;
   padding-left: max(20px, env(safe-area-inset-left));
   padding-right: max(20px, env(safe-area-inset-right));
 }
@@ -42,327 +48,170 @@ a:hover { text-decoration: underline; }
 }
 .btn-link:hover { background: #eef2ff; text-decoration: none; }
 
-/* ===== LANGUAGE PILLS ===== */
+/* =========================
+   LANGUAGE PILLS
+========================= */
 .lang-switch { display: flex; gap: 8px; }
-.lang-switch .lang {
+.lang-switch .lang{
   display: inline-flex; align-items: center; gap: 6px;
-  padding: 6px 10px;
-  border: 1px solid #e5e7eb; border-radius: 999px;
+  padding: 6px 10px; border: 1px solid #e5e7eb; border-radius: 999px;
   background: #f8fafc; color: #111; text-decoration: none; font-weight: 600;
 }
-.lang-switch .lang:hover { background:#f3f4f6; text-decoration:none; }
-.lang-switch .lang.active { background: #111; color: #fff; border-color: #111; }
-.lang-switch .flag { font-size: 1rem; line-height: 1; margin-right: 4px; }
+.lang-switch .lang:hover{ background:#f3f4f6; text-decoration:none; }
+.lang-switch .lang.active{ background:#111; color:#fff; border-color:#111; }
+.lang-switch .flag{ font-size: 1rem; line-height: 1; margin-right: 4px; }
 
-/* Mali ekrani */
-@media (max-width: 640px) {
-  .header-inner { 
-    height: auto;         /* dopušta veći header kad se prelomi */
-    min-height: 56px;
+/* --- Mobile header layout --- */
+@media (max-width: 640px){
+  .header-inner{ height:auto; min-height:56px; }
+  .nav{ gap:8px; flex-wrap:wrap; order:2; margin-left:0; }
+  .btn-link{ padding:7px 10px; }
+  .brand{ font-size:1rem; order:1; }
+  .lang-switch{
+    order:3; width:100%; margin-left:0;
+    justify-content:flex-start; overflow-x:auto; -webkit-overflow-scrolling:touch;
+    padding-bottom:.25rem; gap:8px;
   }
-  .nav { 
-    gap: 8px; 
-    flex-wrap: wrap; 
-    order: 2;             /* iznad jezičnih pillova */
-  }
-  .btn-link { padding: 7px 10px; }
-  .brand { font-size: 1rem; order: 1; }
-
-  /* jezični switcher uvijek vidljiv – u novom redu, po potrebi skrol */
-  .lang-switch {
-    order: 3;
-    width: 100%;
-    margin-left: 0;
-    justify-content: flex-start;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    padding-bottom: .25rem;
-    gap: 8px;
-  }
-  .lang-switch .lang { white-space: nowrap; }
+  .lang-switch .lang{ white-space:nowrap; }
 }
 
-/* ===== GRID LISTING (početna / list) ===== */
-.grid {
+/* =========================
+   GRID (lists & home)
+========================= */
+.grid{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 20px;
 }
-.card {
-  display: block;
+
+/* =========================
+   CARD (base styles)
+========================= */
+.card{
   border: 1px solid #eee;
   border-radius: 10px;
   overflow: hidden;
-  text-decoration: none;
-  color: inherit;
   background: #fff;
+  color: inherit;
+  text-decoration: none;
   transition: transform .15s ease, box-shadow .15s ease;
 }
-.card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,.06); }
-.card img { width: 100%; height: 160px; object-fit: cover; display: block; }
-.card-body { padding: 12px 14px; }
-.card-meta { display:flex; gap:8px; align-items:center; margin-bottom:6px; }
-.badge { display:inline-block; padding:2px 8px; border-radius:999px; background:#f1f3f5; color:#444; font-size:.82rem; }
-.card-title { margin: 0 0 6px; font-size: 1.1rem; line-height: 1.3; }
-.card-summary { margin: 0; color:#555; font-size:.95rem; }
+.card:hover{ transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,.06); }
 
-/* ===== SINGLE ARTICLE ===== */
-.post { margin: 28px auto 56px; font-size: 1.1rem; line-height: 1.78; } /* ~19–20px feeling */
-.post-hero-img { width: 100%; height: auto; border-radius: 12px; margin: 6px 0 18px; display: block; }
-.post-title { font-size: 2.25rem; line-height: 1.2; margin: 12px 0 8px; }
-.post-meta { color: #6b7280; font-size: 0.95rem; margin-bottom: 18px; }
+.card-body{ padding: 12px 14px; }
+.card-meta{ display:flex; gap:8px; align-items:center; margin-bottom:6px; }
+.badge{ display:inline-block; padding:2px 8px; border-radius:999px; background:#f1f3f5; color:#444; font-size:.82rem; }
+.card-title{ margin:0 0 6px; font-size:1.1rem; line-height:1.3; }
+.card-summary{ margin:0; color:#555; font-size:.95rem; }
 
-.post-body p { margin: 0 0 1.05em; }
-.post-body ul, .post-body ol { margin: 0.8em 0 1.2em 1.2em; }
-.post-body h2 { font-size: 1.6rem; margin: 1.4em 0 0.6em; }
-.post-body h3 { font-size: 1.3rem; margin: 1.2em 0 0.5em; }
+/* =========================
+   SINGLE ARTICLE
+========================= */
+.post{ margin: 28px auto 56px; font-size: 1.1rem; line-height: 1.78; }
+.post-hero-img{ width:100%; height:auto; border-radius:12px; margin:6px 0 18px; }
+.post-title{ font-size:2.25rem; line-height:1.2; margin:12px 0 8px; }
+.post-meta{ color:#6b7280; font-size:.95rem; margin-bottom:18px; }
+.post-body p{ margin:0 0 1.05em; }
+.post-body ul, .post-body ol{ margin: .8em 0 1.2em 1.2em; }
+.post-body h2{ font-size:1.6rem; margin: 1.4em 0 .6em; }
+.post-body h3{ font-size:1.3rem; margin: 1.2em 0 .5em; }
 
-.post-source { margin-top: 20px; color: #374151; font-size: 0.95rem; padding-top: 14px; border-top: 1px solid #e5e7eb; }
-.post-source .label { color: #6b7280; margin-right: 6px; }
-.post-source a { text-decoration: underline; }
-@media (min-width: 980px) { .post-source { text-align: right; } }
+.post-source{ margin-top:20px; color:#374151; font-size:.95rem; padding-top:14px; border-top:1px solid #e5e7eb; }
+.post-source .label{ color:#6b7280; margin-right:6px; }
+.post-source a{ text-decoration: underline; }
+@media (min-width:980px){ .post-source{ text-align:right; } }
 
-.disclaimer-article {
-  margin-top: 28px;
-  padding: 12px 14px;
-  background: #f9fafb;
-  border-left: 3px solid #d1d5db;
-  color: #4b5563;
-  font-size: 0.92rem;
+.disclaimer-article{
+  margin-top:28px; padding:12px 14px;
+  background:#f9fafb; border-left:3px solid #d1d5db;
+  color:#4b5563; font-size:.92rem;
 }
 
-/* ===== FOOTER ===== */
-.site-footer { border-top: 1px solid #eee; margin-top: 48px; }
-.site-footer .container { text-align: center; padding: 32px 0; }
-.site-footer .muted { color:#6b7280; margin: 6px 0 0; font-size: .95rem; }
+/* =========================
+   FOOTER
+========================= */
+.site-footer{ border-top: 1px solid #eee; margin-top: 48px; }
+.site-footer .container{ text-align:center; padding:32px 0; }
+.site-footer .muted{ color:#6b7280; margin:6px 0 0; font-size:.95rem; }
 
-/* ===== PAGINATION ===== */
-.pagination, .pagination ul { 
-  list-style: none; 
-  padding: 0; 
-  margin: 24px 0; 
-  display: flex; 
-  gap: 8px; 
-  flex-wrap: wrap;
-  justify-content: center;
+/* =========================
+   PAGINATION
+========================= */
+.pagination, .pagination ul{
+  list-style:none; padding:0; margin:24px 0;
+  display:flex; gap:8px; flex-wrap:wrap; justify-content:center;
 }
-.pagination li { list-style: none; }
-.pagination a, .pagination .page-link, .pagination .active, .pagination span {
-  padding: 10px 14px;
-  border: 1px solid #e5e7eb;
-  border-radius: 999px;
-  background: #fff;
-  text-decoration: none;
-  color: inherit;
+.pagination li{ list-style:none; }
+.pagination a, .pagination .page-link, .pagination .active, .pagination span{
+  padding:10px 14px; border:1px solid #e5e7eb; border-radius:999px; background:#fff; text-decoration:none; color:inherit;
 }
-.pagination a:hover { text-decoration: none; }
+.pagination a:hover{ text-decoration:none; }
 
-.page-btn {
-  display: inline-block;
-  min-width: 34px;
-  height: 34px;
-  line-height: 34px;
-  text-align: center;
-  border-radius: 8px;
-  border: 1px solid #e5e7eb;
-  background: #fff;
-  color: #374151;
-  font-size: 14px;
-  transition: all 0.2s ease;
+.page-btn{
+  display:inline-block; min-width:34px; height:34px; line-height:34px; text-align:center;
+  border-radius:8px; border:1px solid #e5e7eb; background:#fff; color:#374151; font-size:14px; transition:all .2s ease;
 }
-.page-btn:hover { background: #2563eb; color: #fff; border-color: #2563eb; }
-.page-btn.is-active, .page-btn.active { background:#2563eb; color:#fff; border-color:#2563eb; font-weight:600; }
-.page-btn.is-disabled { opacity:.45; pointer-events:none; }
-.page-ellipsis { display:inline-block; padding:0 6px; color:#6b7280; }
+.page-btn:hover{ background:#2563eb; color:#fff; border-color:#2563eb; }
+.page-btn.is-active, .page-btn.active{ background:#2563eb; color:#fff; border-color:#2563eb; font-weight:600; }
+.page-btn.is-disabled{ opacity:.45; pointer-events:none; }
+.page-ellipsis{ display:inline-block; padding:0 6px; color:#6b7280; }
 
-/* --- MOBILE HEADER HOTFIX (force lang pills to new line & visible) --- */
-@media (max-width: 640px) {
-  .nav { margin-left: 0; order: 3; }
-  .lang-switch {
-    order: 2; flex: 1 0 100%; width: 100%;
-    margin-left: 0; justify-content: flex-start;
-    overflow-x: auto; -webkit-overflow-scrolling: touch;
-    padding-bottom: .25rem; gap: 8px;
-  }
-  .lang-switch .lang { white-space: nowrap; padding: 5px 9px; font-size: .95rem; }
-  .btn-link { padding: 6px 9px; font-size: .95rem; }
-}
+/* =========================
+   RELATED section tweaks
+========================= */
+.post-related .card-img{ height:150px; object-fit:cover; }
+.post-related .grid{ grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
 
-/* === MOBILE HEADER HOTFIX (force wrap + full-width language pills) === */
-@media (max-width: 680px) {
-  .site-header .container, .site-header .header-inner {
-    display: flex !important; align-items: center !important;
-    gap: 8px !important; flex-wrap: wrap !important;
-  }
-  .site-header .lang-switch, .site-header nav.lang-switch,
-  .site-header nav[aria-label*="Lang"], .site-header .i18n-switch {
-    order: 2 !important; flex: 1 0 100% !important; width: 100% !important;
-    justify-content: flex-start !important; overflow-x: auto !important;
-    -webkit-overflow-scrolling: touch !important; padding-bottom: .25rem !important; gap: 8px !important;
-  }
-  .site-header .lang-switch .lang { white-space: nowrap !important; padding: 5px 9px !important; font-size: .95rem !important; }
-  .site-header .nav { margin-left: 0 !important; gap: 8px !important; flex-wrap: wrap !important; order: 3 !important; }
-  .site-header .brand { order: 1 !important; }
-  .btn-link { padding: 6px 9px !important; font-size: .95rem !important; }
-}
-
-/* === FINAL MOBILE HEADER FIX (append at end) ============================ */
-@media (max-width: 680px){
-  .site-header .header-inner{ flex-wrap: wrap !important; height: auto !important; min-height: 56px !important; }
-  .site-header .brand{ order: 1 !important; }
-  .site-header .lang-switch{
-    order: 2 !important; flex: 1 0 100% !important; width: 100% !important;
-    justify-content: flex-start !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;
-    gap: 8px !important; padding-bottom: .25rem !important;
-  }
-  .site-header .lang-switch .lang{ white-space: nowrap !important; padding: 6px 10px !important; font-size: .95rem !important; }
-  .site-header .nav{ order: 3 !important; margin-left: 0 !important; gap: 8px !important; flex-wrap: wrap !important; }
-  .site-header .nav{ display: none !important; } /* sakrij Latest/About na mobu */
-}
-
-/* OPTIONAL: sakriti Latest/About svugdje
-.site-header .nav{ display: none !important; }
-*/
-
-/* (opcionalno) related sekcija */
-.post-related .card-img { height: 150px !important; object-fit: cover; }
-.post-related .grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
-
-/* === GRID CARD NORMALIZE (siguran baseline) ======================== */
-.card { display: flex; flex-direction: column; }
-.card-img { width: 100%; height: 160px; object-fit: cover; display: block; }
-.card-body { display: flex; flex-direction: column; gap: 8px; min-height: 150px; }
-.card-title {
-  font-weight: 700; line-height: 1.25;
-  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
-}
-.card-summary {
-  color: #475569; display: -webkit-box;
-  -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; min-height: 3.6em;
-}
-
-/* Responsive: na mobu još niža slika */
-@media (max-width: 640px) {
-  .card-img { height: 140px; }
-}
-
-/* === SHORT CARD LOOK (force) ======================================= */
-.card { display: flex !important; flex-direction: column !important; }
-.card-img {
-  width: 100%;
-  height: 160px !important;         /* kratka slika */
-  object-fit: cover;
-  display: block;
-}
-.card-body {
-  display: flex !important;
-  flex-direction: column !important;
-  gap: 8px !important;
-  min-height: 150px !important;     /* kraća tekstualna zona */
-}
-.card-title{
-  font-weight:700; line-height:1.25;
-  display:-webkit-box !important; -webkit-line-clamp:2 !important; -webkit-box-orient:vertical !important;
-  overflow:hidden !important;
-}
-.card-summary{
-  color:#475569;
-  display:-webkit-box !important; -webkit-line-clamp:3 !important; -webkit-box-orient:vertical !important;
-  overflow:hidden !important; min-height:3.6em !important;
-}
-@media (max-width: 640px){
-  .card-img{ height:140px !important; }
-  .card-body{ min-height:130px !important; }
-}
-
-/* === FIREFOX FALLBACK for line-clamp ================================ */
-@supports not (-webkit-line-clamp: 1) {
-  .card-title {
-    line-height: 1.25;
-    max-height: calc(1.25em * 2); /* 2 reda */
-    overflow: hidden;
-    display: block;
-  }
-  .card-summary {
-    line-height: 1.45;
-    max-height: calc(1.45em * 3); /* 3 reda */
-    overflow: hidden;
-    display: block;
-  }
-}
-/* === FORCE VERTICAL CARDS (global hotfix) ============================== */
-.grid > a.card,
-.grid .card {
+/* ===================================================================
+   CANONICAL CARD SYSTEM — image on top, text below (global override)
+   (Ovaj blok je namjerno zadnji da pregazi sve starije varijante)
+=================================================================== */
+.grid .card,
+.card{
   display: flex !important;
   flex-direction: column !important;
 }
 
 /* slika uvijek gore, puna širina, fiksna visina */
-.grid .card > img.card-img,
-.grid a.card > img,
-.card .card-img {
+.card > img,
+img.card-img{
   width: 100% !important;
-  height: 160px !important;
+  height: 160px !important;          /* po želji 140–180 */
   object-fit: cover !important;
   display: block !important;
-  float: none !important;        /* poništi stare varijante s floatom */
+  float: none !important;
   margin: 0 !important;
 }
 
 /* tijelo kartice ispod slike */
-.grid .card .card-body,
-.card .card-body {
+.card .card-body{
   display: flex !important;
   flex-direction: column !important;
   gap: 8px !important;
   min-height: 150px;
 }
 
-/* reži predulge naslove i sažetke na fiksan broj redaka */
-.card-title {
-  font-weight: 700;
-  line-height: 1.25;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-.card-summary {
-  color: #475569;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  min-height: 3.6em;
-}
-
-/* responsive: na mobu još niža slika */
-@media (max-width: 640px) {
-  .grid .card > img.card-img,
-  .grid a.card > img,
-  .card .card-img {
-    height: 140px !important;
-  }
-}
-/* ==== CARD STACK FIX (force image on top, text below) ==== */
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
-
-.card{ display:flex !important; flex-direction:column !important; }
-.card-img{ width:100%; height:160px !important; object-fit:cover; display:block; }
-.card-body{ display:flex; flex-direction:column; gap:8px; min-height:150px; }
-
-.card-title{
+/* reži na isti broj redaka */
+.card .card-title{
   font-weight:700; line-height:1.25;
+  margin:0 0 6px;
   display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
 }
-.card-summary{
-  color:#475569;
+.card .card-summary{
+  color:#475569; font-size:.95rem;
   display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden;
   min-height:3.6em;
 }
 
-@media (max-width:640px){
-  .card-img{ height:140px !important; }
-  .card-body{ min-height:130px; }
+/* Firefox fallback za line-clamp */
+@supports not (-webkit-line-clamp: 1){
+  .card .card-title{ line-height:1.25; max-height:calc(1.25em * 2); overflow:hidden; display:block; }
+  .card .card-summary{ line-height:1.45; max-height:calc(1.45em * 3); overflow:hidden; display:block; }
+}
+
+/* mobitel: niža slika */
+@media (max-width: 640px){
+  .card > img,
+  img.card-img{ height:140px !important; }
+  .card .card-body{ min-height:130px; }
 }
