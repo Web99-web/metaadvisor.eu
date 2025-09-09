@@ -11,6 +11,10 @@ _build:
   publishResources: false
   render: never
   list: never
+our_take: >
+  Naš kratki MetaAdvisor komentar (EN).
+tags: ["crypto"]   # ako želiš, dodaj još tagova
+source: "CoinDesk" # ovime dižeš prioritet u objavi
 ---
 
 Nate Soares says case of US teenager Adam Raine highlights danger of unintended consequences in super-intelligent AI
