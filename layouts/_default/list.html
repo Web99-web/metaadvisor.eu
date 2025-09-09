@@ -27,7 +27,8 @@
                             (in $pg.File.Path "inbox-drafts-") }}
       {{ if $isDraftCard }}{{ else }}
 
-        {{ $ph := "/images/placeholder-metaadvisor-small.jpg" | relURL }}
+        
+        {{ $ph := "/images/placeholder-metaadvisor-small.jpg" }}
         {{ $hero := $pg.Resources.GetMatch "hero*" }}
 
         <a class="card" href="{{ $pg.RelPermalink }}">
