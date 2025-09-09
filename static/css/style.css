@@ -415,4 +415,19 @@ a:hover { text-decoration: underline; }
   .card-img { height: 140px !important; }
   .card-body { min-height: 130px; }
 }
+/* === FIREFOX FALLBACK for line-clamp ================================ */
+@supports not (-webkit-line-clamp: 1) {
+  .card-title {
+    line-height: 1.25;
+    max-height: calc(1.25em * 2); /* 2 reda */
+    overflow: hidden;
+    display: block;
+  }
+  .card-summary {
+    line-height: 1.45;
+    max-height: calc(1.45em * 3); /* 3 reda */
+    overflow: hidden;
+    display: block;
+  }
+}
 
