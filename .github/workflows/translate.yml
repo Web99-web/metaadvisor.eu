@@ -17,7 +17,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install deep-translator python-frontmatter
+          python -m pip install -U pip
+          pip install python-frontmatter googletrans==4.0.0-rc1
 
       - name: Run translation script
         run: |
