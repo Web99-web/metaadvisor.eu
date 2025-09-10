@@ -28,13 +28,14 @@
         {{/* ---- 1) HERO iz bundlea -------------------------------------- */}}
         {{ with $pg.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
 
-        {{/* ---- 2) image_url / image (abs, /, ili bundle/rel) ------------ */}}
+        {{/* ---- 2) image_url / image (samo lokalno! / ili bundle/rel) ---- */}}
         {{ if not $src }}
           {{ $img := $pg.Params.image_url | default $pg.Params.image }}
           {{ if $img }}
-            {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
+            {{/* Ako je apsolutni http/https → IGNORE na listingu */}}
+            {{ if hasPrefix $img "/" }}
               {{ $src = $img }}
-            {{ else }}
+            {{ else if not (hasPrefix $img "http") }}
               {{ with $pg.Resources.GetMatch $img }}
                 {{ $src = .RelPermalink }}
               {{ else }}
@@ -118,14 +119,16 @@
 
         {{ if not $src }}{{ $src = $ph }}{{ end }}
 
-        <a class="card" href="{{ $pg.RelPermalink }}">
+        <a class="card" href="{{ $pg.RelPermalink }}"
+           style="display:flex;flex-direction:column;align-items:stretch">
           <img class="card-img"
+               style="width:100%;height:160px;object-fit:cover;display:block;float:none;margin:0"
                src="{{ $src }}?v={{ $pg.Lastmod.Unix }}"
                alt="{{ $pg.Title }}"
                loading="lazy" decoding="async"
                onerror="this.onerror=null;this.src='{{ cond (ne $tagImg "") $tagImg $ph }}'">
 
-          <div class="card-body">
+          <div class="card-body" style="display:flex;flex-direction:column;gap:8px;min-height:0">
             <div class="card-meta">
               {{ with $pg.Params.category }}
                 <span class="badge">
