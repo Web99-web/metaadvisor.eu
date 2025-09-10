@@ -233,3 +233,59 @@ img.card-img{
   line-height: 1.75;
   color: #111;
 }
+/* === NUCLEAR CARD FIX — image on top, text below (wins everything) === */
+.grid a.card, a.card, .card{
+  display:flex !important;
+  flex-direction:column !important;
+  /* u slučaju da je netko ranije od kartice napravio grid/row */
+  grid-template-columns:unset !important;
+  grid-auto-flow:unset !important;
+  float:none !important;
+  clear:both !important;
+}
+
+.grid a.card > img,
+.card > img,
+.card .card-img,
+img.card-img{
+  width:100% !important;
+  height:160px !important;   /* po želji 140–180 */
+  object-fit:cover !important;
+  display:block !important;
+  float:none !important;
+  margin:0 !important;
+}
+
+.card .card-body{
+  display:flex !important;
+  flex-direction:column !important;
+  gap:8px !important;
+  min-height:0 !important;
+}
+
+.card::after{ content:""; display:block; clear:both; }
+
+/* naslov + sažetak — uredno rezanje */
+.card-title{
+  font-weight:700; line-height:1.25;
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical;
+  overflow:hidden;
+}
+.card-summary{
+  color:#475569;
+  display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical;
+  overflow:hidden;
+  min-height:3.6em;
+}
+@supports not (-webkit-line-clamp:1){
+  .card-title{ line-height:1.25; max-height:2.5em; overflow:hidden; display:block; }
+  .card-summary{ line-height:1.45; max-height:4.35em; overflow:hidden; display:block; }
+}
+
+/* mobitel malo niža slika */
+@media (max-width:640px){
+  .grid a.card > img,
+  .card > img,
+  .card .card-img,
+  img.card-img{ height:140px !important; }
+}
