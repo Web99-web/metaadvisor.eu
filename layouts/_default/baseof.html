@@ -9,53 +9,51 @@
   <!-- cache-bust -->
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v={{ now.Unix }}">
 
-  <!-- CARDS FORCE STACK: slika gore, tekst dolje – grid koji pregazi sve -->
-  <style id="cards-force-stack">
-    /* Grid layout na listinzima (home/news) */
+  <!-- CARDS COLUMN LOCK — slika gore, tekst dolje (jednostavno i robusno) -->
+  <style id="cards-column-lock">
+    /* Grid samo za izlist (home/news) */
     .site-main .grid{
       display:grid !important;
       grid-template-columns:repeat(auto-fill,minmax(280px,1fr)) !important;
       gap:20px !important;
     }
 
-    /* Svaka kartica = 2 reda (img, body) – ukida float/flex hackove */
+    /* Kartica = fleks stupac, bez floatova */
     .site-main .grid a.card,
     .site-main .grid .card{
-      display:grid !important;
-      grid-template-rows:auto 1fr !important;
-      grid-template-columns:1fr !important;
-      align-items:start !important;
+      display:flex !important;
+      flex-direction:column !important;
+      align-items:stretch !important;
       float:none !important;
       clear:both !important;
     }
 
-    /* Slika – red 1, full width, bez float-a */
+    /* Slika puna širina, fiksna visina; nikakav float */
     .site-main .grid a.card > img,
     .site-main .grid .card > img,
     .site-main .grid img.card-img{
-      grid-row:1; grid-column:1;
       width:100% !important;
-      height:160px !important;      /* po želji 140–180 */
+      height:160px !important;        /* po želji 140–180 */
       object-fit:cover !important;
       display:block !important;
-      margin:0 !important;
       float:none !important;
+      margin:0 !important;
     }
 
-    /* Tekst – red 2 */
+    /* Tijelo kartice ispod slike */
     .site-main .grid .card-body{
-      grid-row:2; grid-column:1;
-      display:block !important;     /* resetiraj eventualni flex iz starog CSS-a */
+      display:flex !important;
+      flex-direction:column !important;
+      gap:8px !important;
+      min-height:0 !important;
     }
 
-    /* Na mobitelu niža slika */
+    /* Mobitel: niža slika */
     @media (max-width:640px){
-      .site-main .grid a.card > img,
-      .site-main .grid .card > img,
       .site-main .grid img.card-img{ height:140px !important; }
     }
   </style>
-  <!-- /CARDS FORCE STACK -->
+  <!-- /CARDS COLUMN LOCK -->
 
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
