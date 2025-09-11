@@ -125,32 +125,37 @@
 
         {{ if not $src }}{{ $src = $ph }}{{ end }}
 
-      <a class="card" href="{{ $pg.RelPermalink }}"
-   style="display:flex!important;flex-direction:column!important;align-items:stretch!important;float:none!important;clear:both!important">
+   <div class="card"
+     style="display:flex!important;flex-direction:column!important;align-items:stretch!important;float:none!important;clear:both!important">
 
-  <img class="card-img"
-       style="width:100%!important;height:160px!important;object-fit:cover!important;display:block!important;float:none!important;margin:0!important"
-       src="{{ $src }}?v={{ $pg.Lastmod.Unix }}"
-       alt="{{ $pg.Title }}"
-       loading="lazy" decoding="async"
-       onerror="this.onerror=null;this.src='{{ cond (ne $tagImg "") $tagImg $ph }}'">
+  <a href="{{ $pg.RelPermalink }}">
+    <img class="card-img"
+         style="width:100%!important;height:160px!important;object-fit:cover!important;display:block!important;float:none!important;margin:0!important"
+         src="{{ $src }}?v={{ $pg.Lastmod.Unix }}"
+         alt="{{ $pg.Title }}"
+         loading="lazy" decoding="async"
+         onerror="this.onerror=null;this.src='{{ cond (ne $tagImg "") $tagImg $ph }}'">
+  </a>
 
   <div class="card-body"
        style="display:flex!important;flex-direction:column!important;gap:8px!important;min-height:0!important">
     <div class="card-meta">
       {{ with $pg.Params.category }}
-        <span class="badge">
-          <a href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
-        </span>
+        <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
       {{ else }}
         <span class="badge">news</span>
       {{ end }}
       <time datetime="{{ $pg.Date }}">{{ $pg.Date.Format "2006-01-02" }}</time>
     </div>
-    <h3 class="card-title">{{ $pg.Title }}</h3>
+
+    <h3 class="card-title">
+      <a href="{{ $pg.RelPermalink }}">{{ $pg.Title }}</a>
+    </h3>
+
     {{ with $pg.Summary }}<p class="card-summary">{{ . | plainify | truncate 160 }}</p>{{ end }}
   </div>
-</a>
+</div>
+
 
       {{ end }}
     {{ end }}
