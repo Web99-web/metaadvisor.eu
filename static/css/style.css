@@ -315,3 +315,47 @@ img.card-img{
 }
 /* safety: nikad float u gridu */
 .grid a img{ float:none !important; }
+
+/* ===== FINAL CARD LAYOUT LOCK — image on top, text below (ALL listings) ===== */
+.site-main .grid > a.card,
+.site-main .grid > .card{
+  display:flex !important;
+  flex-direction:column !important;
+  align-items:stretch !important;
+  float:none !important;
+  clear:both !important;
+}
+
+.site-main .grid > a.card > img,
+.site-main .grid > .card > img,
+.site-main .grid img.card-img{
+  width:100% !important;
+  height:160px !important;        /* po želji 140–180 */
+  object-fit:cover !important;
+  display:block !important;
+  float:none !important;
+  margin:0 !important;
+}
+
+.site-main .grid .card-body{
+  display:flex !important;
+  flex-direction:column !important;
+  gap:8px !important;
+  min-height:0 !important;
+}
+
+/* Reži naslove/sažetke jednako, čisto radi ujednačenosti */
+.site-main .grid .card-title{
+  font-weight:700; line-height:1.25;
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical;
+  overflow:hidden; margin:0 0 6px;
+}
+.site-main .grid .card-summary{
+  color:#475569;
+  display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical;
+  overflow:hidden; min-height:3.6em; margin:0;
+}
+@supports not (-webkit-line-clamp:1){
+  .site-main .grid .card-title{ line-height:1.25; max-height:2.5em; overflow:hidden; display:block; }
+  .site-main .grid .card-summary{ line-height:1.45; max-height:4.35em; overflow:hidden; display:block; }
+}
