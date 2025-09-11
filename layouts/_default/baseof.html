@@ -1,0 +1,40 @@
+<style id="cards-one-lock">
+  /* Kartica je uvijek stupac (bilo anchor ili div) */
+  a.card, .card{
+    display:flex !important;
+    flex-direction:column !important;
+    align-items:stretch !important;
+    float:none !important;
+    clear:both !important;
+  }
+
+  /* Ukloni SVE floatove iznutra (ako je nešto ostalo iz starog CSS-a) */
+  a.card *, .card *{ float:none !important; }
+
+  /* Slika: 100% širina, fiksna visina, bez margina */
+  a.card > img,
+  .card > img,
+  .card .card-img,
+  img.card-img{
+    width:100% !important;
+    height:160px !important;   /* po potrebi 140–180 */
+    object-fit:cover !important;
+    display:block !important;
+    margin:0 !important;
+  }
+
+  /* Tekst dio ispod slike */
+  .card .card-body{
+    display:flex !important;
+    flex-direction:column !important;
+    gap:8px !important;
+    min-height:0 !important;
+  }
+
+  /* Osiguraj grid za listinge */
+  .grid{
+    display:grid !important;
+    grid-template-columns:repeat(auto-fill,minmax(280px,1fr)) !important;
+    gap:20px !important;
+  }
+</style>
