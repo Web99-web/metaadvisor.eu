@@ -9,6 +9,32 @@
   <!-- cache-bust -->
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v={{ now.Unix }}">
 
+  <style id="hero-css">
+  :root{
+    --brand:#2563eb; --ink:#0f172a; --muted:#6b7280;
+    --bg:#f8fafc; --card:#fff; --radius:14px; --shadow:0 6px 24px rgba(2,8,23,.08);
+    --maxw:1180px;
+  }
+  .container{max-width:var(--maxw);margin:0 auto;padding:0 20px}
+  /* HERO */
+  .hero{
+    position:relative;
+    color:#fff;
+    background:#0b1220 url('/images/metaadvisor-ai-crypto-technology.jpg') center/cover no-repeat;
+  }
+  .hero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.55),rgba(0,0,0,.35))}
+  .hero-inner{position:relative;z-index:1;padding:90px 0 78px}
+  .hero h1{margin:0 0 12px;font-size:clamp(32px,4.5vw,56px);line-height:1.08;letter-spacing:-.4px}
+  .hero .lead{max-width:760px;font-size:clamp(16px,2.2vw,20px);opacity:.95;margin:0}
+  .cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:16px}
+  .btn{padding:10px 14px;border-radius:999px;border:1px solid #e5e7eb;background:#fff;text-decoration:none}
+  .btn-primary{background:var(--brand);color:#fff;border:none}
+  .btn-ghost{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.25);color:#fff}
+  @media (max-width:680px){
+    .hero-inner{padding:72px 0 64px}
+  }
+</style>
+
 <!-- === CARDS LOCKDOWN — slika gore, tekst dolje (globalno za listinge) === -->
 <style id="cards-lockdown">
   /* Grid samo u main sadržaju i related blokovima */
