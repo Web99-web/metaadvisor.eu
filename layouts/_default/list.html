@@ -154,6 +154,9 @@
 
     {{ with $pg.Summary }}<p class="card-summary">{{ . | plainify | truncate 160 }}</p>{{ end }}
   </div>
+
+  <!-- 🔸 DODANO: cijela kartica klik -->
+  <a class="stretched-link" href="{{ $pg.RelPermalink }}" aria-label="{{ $pg.Title }}"></a>
 </div>
 
 
