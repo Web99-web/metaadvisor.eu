@@ -5,21 +5,12 @@
     {{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}
   </h1>
 
-  {{/* HOME: uzmi sve regularne pa filtriraj samo news */}}
-  {{ $pages := .Site.RegularPages }}
-  {{ $pages = where $pages "Type" "news" }}
-
-  {{/* Paginacija po datumu (novije prvo) */}}
-  {{/* Skupi news stranice i posloži: Params.priority desc pa Date desc */}}
+  {{/* Skupi sve "news" (home i sekcije), sort: priority desc, date desc */}}
   {{ $pages := .Pages }}
   {{ if or .IsHome (eq (len $pages) 0) }}{{ $pages = .Site.RegularPages }}{{ end }}
   {{ $pages = where $pages "Type" "news" }}
-
-  {{/* presloži: prvo po prioritetu iz front-mattera, onda po datumu */}}
   {{ $pages = sort $pages "Params.priority" "desc" "Date" "desc" }}
-
   {{ $pager := .Paginate $pages }}
-
 
   <div class="grid">
     {{ range $pg := $pager.Pages }}
@@ -30,60 +21,107 @@
                             (in $pg.File.Path "inbox-drafts-") }}
       {{ if not $isDraftCard }}
 
-        {{/* ---- HERO PICKER -------------------------------------------- */}}
+        {{/* ---- PLACEHOLDERS & VARS ------------------------------------ */}}
         {{ $ph  := "/images/placeholder-metaadvisor-small.jpg" }}
         {{ $src := "" }}
 
-        {{ with $pg.Resources.GetMatch "hero*" }}
-          {{ $src = .RelPermalink }}
-        {{ else }}
+        {{/* 1) hero iz bundlea */}}
+        {{ with $pg.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
+
+        {{/* 2) image_url / image — samo lokalno (/, relativno); http/https ignoriramo */}}
+        {{ if not $src }}
           {{ $img := $pg.Params.image_url | default $pg.Params.image }}
           {{ if $img }}
-            {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
+            {{ if hasPrefix $img "/" }}
               {{ $src = $img }}
-            {{ else }}
-              {{ with $pg.Resources.GetMatch $img }}
-                {{ $src = .RelPermalink }}
-              {{ else }}
-                {{ $src = printf "/images/%s" $img }}
-              {{ end }}
+            {{ else if not (hasPrefix $img "http") }}
+              {{ with $pg.Resources.GetMatch $img }}{{ $src = .RelPermalink }}{{ else }}{{ $src = printf "/images/%s" $img }}{{ end }}
             {{ end }}
-          {{ end }}
-
-          {{ if not $src }}
-            {{ $t := lower $pg.Title }}
-            {{ $tags := $pg.Params.tags | default (slice) }}
-            {{ $tagsLower := apply $tags "lower" "." }}
-
-            {{ if or (in $t "apple") (in $t "iphone") (in $tagsLower "apple") (in $tagsLower "iphone") }}
-              {{ $src = "/images/mobile-phone.jpg" }}
-            {{ end }}
-            {{ if and (not $src) (or (in $t "google") (in $tagsLower "google")) }}
-              {{ $src = "/images/Google.png" }}
-            {{ end }}
-            {{ if and (not $src) (or (in $t "bitcoin") (in $t "btc") (in $tagsLower "bitcoin") (in $tagsLower "btc")) }}
-              {{ $src = "/images/bitcoin-btc.jpg" }}
-            {{ end }}
-            {{ if and (not $src) (or (in $t "ethereum") (in $t "eth") (in $tagsLower "ethereum") (in $tagsLower "eth")) }}
-              {{ $src = "/images/eth-ethereum.jpg" }}
-            {{ end }}
-            {{ if and (not $src) (or (in $t " ai") (in $t "artificial intelligence") (in $tagsLower "ai")) }}
-              {{ $src = "/images/ai.jpg" }}
-            {{ end }}
-
-            {{ if not $src }}{{ $src = $ph }}{{ end }}
           {{ end }}
         {{ end }}
-        {{/* ---- /HERO PICKER ------------------------------------------- */}}
 
-        <a class="card" href="{{ $pg.RelPermalink }}">
+        {{/* 3) TAG → IMAGE MAP (isti kao u list.html) ------------------- */}}
+        {{ $tagMap := dict
+          "ai" "/images/ai.jpg" "artificial-intelligence" "/images/ai.jpg"
+          "crypto" "/images/fallback-crypto.jpg"
+          "bitcoin" "/images/bitcoin-btc.jpg" "btc" "/images/bitcoin-btc.jpg"
+          "ethereum" "/images/eth.jpg" "eth" "/images/eth.jpg"
+          "ethereum-classic" "/images/etc-btc.jpg" "etc" "/images/etc-btc.jpg"
+          "litecoin" "/images/litecoin-ltc.png" "ltc" "/images/litecoin-ltc.png"
+          "ripple" "/images/xrp.png" "xrp" "/images/xrp.png"
+          "cardano" "/images/cardano-ada-logo.png" "ada" "/images/cardano-ada-logo.png"
+          "solana" "/images/solana.jpg" "sol" "/images/solana.jpg"
+          "binance" "/images/bnb.png" "bnb" "/images/bnb.png"
+          "polkadot" "/images/polkadot-dot.png" "dot" "/images/polkadot-dot.png"
+          "chainlink" "/images/chainlink-link.png" "link" "/images/chainlink-link.png"
+          "monero" "/images/monero-xmr.png" "xmr" "/images/monero-xmr.png"
+          "arbitrum" "/images/arbitrum-arb.png" "arb" "/images/arbitrum-arb.png"
+          "uniswap" "/images/uniswap-uni.png" "uni" "/images/uniswap-uni.png"
+          "injective" "/images/injective-inj.png" "inj" "/images/injective-inj.png"
+          "kaspa" "/images/kaspa-kas.png" "kas" "/images/kaspa-kas.png"
+          "tether" "/images/tether-usdt.png" "usdt" "/images/tether-usdt.png"
+          "aave" "/images/aave.png" "cosmos" "/images/cosmos-atom.png" "atom" "/images/cosmos-atom.png"
+          "dogecoin" "/images/dogecoin-doge.png" "doge" "/images/dogecoin-doge.png"
+          "sei" "/images/sei.png" "sui" "/images/sui.png" "ordi" "/images/ordi.png" "ordinals" "/images/ordi.png"
+          "avalanche" "/images/avalanche-avax.png" "avax" "/images/avalanche-avax.png"
+          "bittensor" "/images/bittensor-tao.png" "tao" "/images/bittensor-tao.png"
+          "finance" "/images/finance.jpg"
+          "stocks" "/images/stock-market-dionice.jpg" "stock" "/images/stock-market-dionice.jpg" "equities" "/images/stock-market-dionice.jpg" "dionice" "/images/stock-market-dionice.jpg"
+          "security" "/images/fallback-security.jpg" "privacy" "/images/fallback-security.jpg"
+          "gold" "/images/gold.jpg" "google" "/images/Google.png" "visa" "/images/visa.jpg"
+          "phone" "/images/mobile-phone.jpg" "mobile" "/images/mobile-phone.jpg"
+        }}
+
+        {{ $tagImg := "" }}
+        {{ with $pg.Params.tags }}
+          {{ range . }}
+            {{- if not $tagImg -}}
+              {{ $k := lower . }}
+              {{ with index $tagMap $k }}{{ $tagImg = . }}{{ end }}
+            {{- end -}}
+          {{ end }}
+        {{ end }}
+        {{ if and (not $tagImg) (isset $pg.Params "category") }}
+          {{ $cat := lower $pg.Params.category }}
+          {{ with index $tagMap $cat }}{{ $tagImg = . }}{{ end }}
+        {{ end }}
+        {{ if and (not $src) $tagImg }}{{ $src = $tagImg }}{{ end }}
+
+        {{/* 4) Heuristika po naslovu/tagovima --------------------------- */}}
+        {{ if not $src }}
+          {{ $t := lower $pg.Title }}
+          {{ $tags := $pg.Params.tags | default (slice) }}
+          {{ $tagsLower := apply $tags "lower" "." }}
+
+          {{ if or (in $t "apple") (in $t "iphone") (in $tagsLower "apple") (in $tagsLower "iphone") }}
+            {{ $src = "/images/mobile-phone.jpg" }}
+          {{ end }}
+          {{ if and (not $src) (or (in $t "google") (in $tagsLower "google")) }}
+            {{ $src = "/images/Google.png" }}
+          {{ end }}
+          {{ if and (not $src) (or (in $t "bitcoin") (in $t "btc") (in $tagsLower "bitcoin") (in $tagsLower "btc")) }}
+            {{ $src = "/images/bitcoin-btc.jpg" }}
+          {{ end }}
+          {{ if and (not $src) (or (in $t "ethereum") (in $t "eth") (in $tagsLower "ethereum") (in $tagsLower "eth")) }}
+            {{ $src = "/images/eth-ethereum.jpg" }}
+          {{ end }}
+          {{ if and (not $src) (or (in $t " ai") (in $t "artificial intelligence") (in $tagsLower "ai")) }}
+            {{ $src = "/images/ai.jpg" }}
+          {{ end }}
+        {{ end }}
+
+        {{ if not $src }}{{ $src = $ph }}{{ end }}
+
+        <a class="card" href="{{ $pg.RelPermalink }}"
+           style="display:flex;flex-direction:column;align-items:stretch">
           <img class="card-img"
+               style="width:100%;height:160px;object-fit:cover;display:block;float:none;margin:0"
                src="{{ $src }}?v={{ $pg.Lastmod.Unix }}"
                alt="{{ $pg.Title }}"
                loading="lazy" decoding="async"
-               onerror="this.onerror=null;this.src='{{ $ph }}'">
+               onerror="this.onerror=null;this.src='{{ cond (ne $tagImg "") $tagImg $ph }}'">
 
-          <div class="card-body">
+          <div class="card-body" style="display:flex;flex-direction:column;gap:8px;min-height:0">
             <div class="card-meta">
               {{ with $pg.Params.category }}
                 <span class="badge">
