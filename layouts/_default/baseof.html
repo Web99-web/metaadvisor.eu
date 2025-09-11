@@ -88,6 +88,21 @@
     }
     </style>
 
+<style id="card-stretch">
+  /* cijela kartica klik */
+  .card{ position: relative; }
+  .card .stretched-link{
+    position: absolute; inset: 0; z-index: 1;
+    /* nevidljivo, ali pristupačno */
+    color: transparent; background: transparent;
+    text-indent: -9999px; overflow: hidden;
+  }
+  /* Unutarnji mali linkovi ostaju iznad overlay-a */
+  .card .card-meta a,
+  .card .badge a{
+    position: relative; z-index: 2;
+  }
+</style>
 
   <!-- ==================================================================== -->
 
