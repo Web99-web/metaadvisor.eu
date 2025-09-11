@@ -9,84 +9,75 @@
   <!-- cache-bust -->
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v={{ now.Unix }}">
 
+  <!-- === HERO (global) =================================================== -->
   <style id="hero-css">
-  :root{
-    --brand:#2563eb; --ink:#0f172a; --muted:#6b7280;
-    --bg:#f8fafc; --card:#fff; --radius:14px; --shadow:0 6px 24px rgba(2,8,23,.08);
-    --maxw:1180px;
-  }
-  .container{max-width:var(--maxw);margin:0 auto;padding:0 20px}
-  /* HERO */
-  .hero{
-    position:relative;
-    color:#fff;
-    background:#0b1220 url('/images/metaadvisor-ai-crypto-technology.jpg') center/cover no-repeat;
-  }
-  .hero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.55),rgba(0,0,0,.35))}
-  .hero-inner{position:relative;z-index:1;padding:90px 0 78px}
-  .hero h1{margin:0 0 12px;font-size:clamp(32px,4.5vw,56px);line-height:1.08;letter-spacing:-.4px}
-  .hero .lead{max-width:760px;font-size:clamp(16px,2.2vw,20px);opacity:.95;margin:0}
-  .cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:16px}
-  .btn{padding:10px 14px;border-radius:999px;border:1px solid #e5e7eb;background:#fff;text-decoration:none}
-  .btn-primary{background:var(--brand);color:#fff;border:none}
-  .btn-ghost{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.25);color:#fff}
-  @media (max-width:680px){
-    .hero-inner{padding:72px 0 64px}
-  }
-</style>
+    :root{
+      --brand:#2563eb; --ink:#0f172a; --muted:#6b7280;
+      --bg:#f8fafc; --card:#fff; --radius:14px; --shadow:0 6px 24px rgba(2,8,23,.08);
+      --maxw:1180px;
+    }
+    .container{max-width:var(--maxw);margin:0 auto;padding:0 20px}
+    .hero{
+      position:relative;
+      color:#fff;
+      background:#0b1220 url('{{ "/images/metaadvisor-ai-crypto-technology.jpg" | relURL }}')
+                 center/cover no-repeat !important;
+      background-position:50% 28% !important; /* malo gore (desktop) */
+    }
+    .hero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.55),rgba(0,0,0,.35))}
+    .hero-inner{position:relative;z-index:1;padding:90px 0 78px}
+    .hero h1{margin:0 0 12px;font-size:clamp(32px,4.5vw,56px);line-height:1.08;letter-spacing:-.4px}
+    .hero .lead{max-width:760px;font-size:clamp(16px,2.2vw,20px);opacity:.95;margin:0}
+    .cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:16px}
+    .btn{padding:10px 14px;border-radius:999px;border:1px solid #e5e7eb;background:#fff;text-decoration:none}
+    .btn-primary{background:var(--brand);color:#fff;border:none}
+    .btn-ghost{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.25);color:#fff}
+    @media (max-width:680px){
+      .hero-inner{padding:72px 0 64px}
+      .hero{ background-position:50% 20% !important; } /* još gore na mobitelu */
+    }
+  </style>
+  <!-- ==================================================================== -->
 
-<!-- === CARDS LOCKDOWN — slika gore, tekst dolje (globalno za listinge) === -->
-<style id="cards-lockdown">
-  /* Grid samo u main sadržaju i related blokovima */
-  .site-main .grid,
-  .post-related .grid{
-    display:grid !important;
-    grid-template-columns:repeat(auto-fill,minmax(280px,1fr)) !important;
-    gap:20px !important;
-  }
-
-  /* Kartica je uvijek STUPAC (anchor ili div) */
-  .site-main .grid a.card,
-  .site-main .grid .card{
-    display:flex !important;
-    flex-direction:column !important;
-    align-items:stretch !important;
-    float:none !important;
-    clear:both !important;
-  }
-  /* ukloni sve floatove iznutra, ako neki stari CSS pokušava */
-  .site-main .grid a.card *, .site-main .grid .card *{ float:none !important; }
-
-  /* Slika: 100% širina, fiksna visina */
-  .site-main .grid a.card > img,
-  .site-main .grid .card > img,
-  .site-main .grid img.card-img{
-    width:100% !important;
-    height:160px !important;
-    object-fit:cover !important;
-    display:block !important;
-    margin:0 !important;
-  }
-
-  /* Tekstualni dio */
-  .site-main .grid .card-body{
-    display:flex !important;
-    flex-direction:column !important;
-    gap:8px !important;
-    min-height:0 !important;
-  }
-
-  /* Mobile: niža slika */
-  @media (max-width:640px){
+  <!-- === CARDS LOCKDOWN — slika gore, tekst dolje (listinzi) ============= -->
+  <style id="cards-lockdown">
+    .site-main .grid,
+    .post-related .grid{
+      display:grid !important;
+      grid-template-columns:repeat(auto-fill,minmax(280px,1fr)) !important;
+      gap:20px !important;
+    }
+    .site-main .grid a.card,
+    .site-main .grid .card{
+      display:flex !important;
+      flex-direction:column !important;
+      align-items:stretch !important;
+      float:none !important;
+      clear:both !important;
+    }
+    .site-main .grid a.card *, .site-main .grid .card *{ float:none !important; }
     .site-main .grid a.card > img,
     .site-main .grid .card > img,
-    .site-main .grid img.card-img{ height:140px !important; }
-  }
-</style>
-
-<!-- === /CARDS LOCKDOWN === -->
-
- 
+    .site-main .grid img.card-img{
+      width:100% !important;
+      height:160px !important;
+      object-fit:cover !important;
+      display:block !important;
+      margin:0 !important;
+    }
+    .site-main .grid .card-body{
+      display:flex !important;
+      flex-direction:column !important;
+      gap:8px !important;
+      min-height:0 !important;
+    }
+    @media (max-width:640px){
+      .site-main .grid a.card > img,
+      .site-main .grid .card > img,
+      .site-main .grid img.card-img{ height:140px !important; }
+    }
+  </style>
+  <!-- ==================================================================== -->
 
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -112,12 +103,10 @@
   </div>
 </header>
 
-  
 <main class="site-main">
   {{ partial "hero.html" . }}
   {{ block "main" . }}{{ end }}
 </main>
-
 
 <footer class="site-footer">
   <div class="container footer-inner" style="text-align:center;padding:32px 0;border-top:1px solid #eef2f7">
