@@ -7,8 +7,8 @@
       {{ i18n "heroLead" | default "MetaAdvisor explores meta-knowledge topics: AI, crypto and finance — clear summaries, useful links and concise insights." }}
     </p>
     <div class="cta">
-      <!-- vodi na početnu u AKTIVNOM jeziku + #latest -->
-      <a class="btn btn-primary" href='{{ "/" | relLangURL }}#latest'>
+      <!-- vodi na /news/#latest u AKTIVNOM jeziku -->
+      <a class="btn btn-primary" href='{{ "/news/#latest" | relLangURL }}'>
         {{ i18n "ctaReadLatest" | default "Read the latest" }}
       </a>
       <a class="btn btn-ghost" href='{{ "/subscribe/" | relLangURL }}'>
