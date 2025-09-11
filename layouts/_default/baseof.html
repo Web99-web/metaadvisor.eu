@@ -9,51 +9,53 @@
   <!-- cache-bust -->
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v={{ now.Unix }}">
 
-  <!-- CARDS COLUMN LOCK — slika gore, tekst dolje (jednostavno i robusno) -->
-  <style id="cards-column-lock">
-    /* Grid samo za izlist (home/news) */
-    .site-main .grid{
-      display:grid !important;
-      grid-template-columns:repeat(auto-fill,minmax(280px,1fr)) !important;
-      gap:20px !important;
-    }
-
-    /* Kartica = fleks stupac, bez floatova */
-    .site-main .grid a.card,
-    .site-main .grid .card{
+  <!-- === CARDS ABSOLUTE LOCK — slika gore, tekst dolje, svugdje === -->
+  <style id="cards-absolute-lock">
+    /* Kartica = fleks stupac, globalno (a.card i .card) */
+    a.card, .card{
       display:flex !important;
       flex-direction:column !important;
       align-items:stretch !important;
       float:none !important;
       clear:both !important;
     }
+    /* Ukloni sve floatove iznutra (ako su ostali iz starog CSS-a) */
+    a.card *, .card *{ float:none !important; }
 
-    /* Slika puna širina, fiksna visina; nikakav float */
-    .site-main .grid a.card > img,
-    .site-main .grid .card > img,
-    .site-main .grid img.card-img{
+    /* Slika: 100% širina, fiksna visina; bez margina/floata */
+    a.card > img,
+    .card > img,
+    .card .card-img,
+    img.card-img{
       width:100% !important;
-      height:160px !important;        /* po želji 140–180 */
+      height:160px !important;         /* po želji 140–180 */
       object-fit:cover !important;
       display:block !important;
-      float:none !important;
       margin:0 !important;
+      float:none !important;
     }
 
     /* Tijelo kartice ispod slike */
-    .site-main .grid .card-body{
+    .card .card-body{
       display:flex !important;
       flex-direction:column !important;
       gap:8px !important;
       min-height:0 !important;
     }
 
+    /* Grid za listinge (home/news) ako je potreban */
+    .grid{
+      display:grid !important;
+      grid-template-columns:repeat(auto-fill, minmax(280px,1fr)) !important;
+      gap:20px !important;
+    }
+
     /* Mobitel: niža slika */
     @media (max-width:640px){
-      .site-main .grid img.card-img{ height:140px !important; }
+      .card .card-img, .card > img, img.card-img{ height:140px !important; }
     }
   </style>
-  <!-- /CARDS COLUMN LOCK -->
+  <!-- === /CARDS ABSOLUTE LOCK === -->
 
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
