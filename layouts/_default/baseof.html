@@ -9,53 +9,36 @@
   <!-- cache-bust -->
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v={{ now.Unix }}">
 
-  <!-- === CARDS ABSOLUTE LOCK — slika gore, tekst dolje, svugdje === -->
-  <style id="cards-absolute-lock">
-    /* Kartica = fleks stupac, globalno (a.card i .card) */
-    a.card, .card{
-      display:flex !important;
-      flex-direction:column !important;
-      align-items:stretch !important;
-      float:none !important;
-      clear:both !important;
-    }
-    /* Ukloni sve floatove iznutra (ako su ostali iz starog CSS-a) */
-    a.card *, .card *{ float:none !important; }
+<!-- === CARDS LOCKDOWN — image on top, text below, everywhere === -->
+<style id="cards-lockdown">
+  /* grid samo u sadržaju */
+  .site-main .grid{display:grid!important;grid-template-columns:repeat(auto-fill,minmax(280px,1fr))!important;gap:20px!important}
 
-    /* Slika: 100% širina, fiksna visina; bez margina/floata */
-    a.card > img,
-    .card > img,
-    .card .card-img,
-    img.card-img{
-      width:100% !important;
-      height:160px !important;         /* po želji 140–180 */
-      object-fit:cover !important;
-      display:block !important;
-      margin:0 !important;
-      float:none !important;
-    }
+  /* kartica je uvijek stupac (anchor ili div) */
+  .site-main .grid a.card,
+  .site-main .grid .card{display:flex!important;flex-direction:column!important;align-items:stretch!important}
 
-    /* Tijelo kartice ispod slike */
-    .card .card-body{
-      display:flex !important;
-      flex-direction:column !important;
-      gap:8px !important;
-      min-height:0 !important;
-    }
+  /* nema floatova nigdje u kartici */
+  .site-main .grid a.card *,
+  .site-main .grid .card *{float:none!important}
 
-    /* Grid za listinge (home/news) ako je potreban */
-    .grid{
-      display:grid !important;
-      grid-template-columns:repeat(auto-fill, minmax(280px,1fr)) !important;
-      gap:20px !important;
-    }
+  /* slika puna širina, fiksna visina */
+  .site-main .grid a.card>img,
+  .site-main .grid .card>img,
+  .site-main .grid img.card-img{width:100%!important;height:160px!important;object-fit:cover!important;display:block!important;margin:0!important}
 
-    /* Mobitel: niža slika */
-    @media (max-width:640px){
-      .card .card-img, .card > img, img.card-img{ height:140px !important; }
-    }
-  </style>
-  <!-- === /CARDS ABSOLUTE LOCK === -->
+  /* tekst dio ispod slike */
+  .site-main .grid .card-body{display:flex!important;flex-direction:column!important;gap:8px!important;min-height:0!important}
+
+  @media (max-width:640px){
+    .site-main .grid a.card>img,
+    .site-main .grid .card>img,
+    .site-main .grid img.card-img{height:140px!important}
+  }
+</style>
+<!-- === /CARDS LOCKDOWN === -->
+
+ 
 
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
