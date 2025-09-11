@@ -9,7 +9,7 @@
   <!-- cache-bust -->
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v={{ now.Unix }}">
 
-  <!-- === CARDS HOTFIX (image on top, text below) — scoped to <main>, overrides old floats === -->
+  <!-- === CARDS HOTFIX (image on top, text below) — scoped to <main> === -->
   <style id="cards-hotfix">
     /* Grid layout samo u sadržaju stranice */
     .site-main .grid,
@@ -67,12 +67,46 @@
       .site-main .grid .card-summary{ line-height:1.45; max-height:4.35em; overflow:hidden; display:block; }
     }
 
-    /* Malo niže slike na mobitelu */
+    /* Mobitel: niža slika */
     @media (max-width:640px){
       .site-main .grid img.card-img{ height:140px !important; }
     }
   </style>
   <!-- === /CARDS HOTFIX === -->
+
+  <!-- === CARDS FINAL LOCK — pregazi baš sve stare floate/rule-ove === -->
+  <style id="cards-final-lock">
+    .site-main .grid a.card.card,
+    .site-main .grid .card.card,
+    .site-main .grid > * > a.card.card,
+    .site-main .grid > * > .card.card{
+      display:flex !important;
+      flex-direction:column !important;
+      align-items:stretch !important;
+      float:none !important;
+      clear:both !important;
+    }
+    .site-main .grid .card.card *,
+    .site-main .grid > * > .card.card *{
+      float:none !important;
+    }
+    .site-main .grid a.card.card > img,
+    .site-main .grid .card.card > img,
+    .site-main .grid img.card-img{
+      width:100% !important;
+      height:160px !important;
+      object-fit:cover !important;
+      display:block !important;
+      margin:0 !important;
+    }
+    .site-main .grid .card.card .card-body{
+      display:flex !important;
+      flex-direction:column !important;
+      gap:8px !important;
+      min-height:0 !important;
+    }
+  </style>
+  <!-- === /CARDS FINAL LOCK === -->
 
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
