@@ -124,7 +124,7 @@ def generate_our_take(title: str, body: str, tags) -> str:
 # ---------- OPCIJE ----------
 ADD_ALIASES_FROM_INBOX     = False
 DELETE_INBOX_AFTER_PUBLISH = False
-PUBLISH_LIMIT              = 5
+PUBLISH_LIMIT              = 10
 
 # ---------- KONFIG ----------
 INBOX   = Path("content/_inbox")
