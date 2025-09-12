@@ -166,9 +166,14 @@ def url_slug(title: str) -> str:
     s = re.sub(r"-{2,}", "-", s).strip("-")
     return (s[:120] or "post")
 
-def bundle_dir(lang: str, dt: datetime.datetime, slug: str) -> Path:
+
+def out_path_single(lang: str, dt: datetime.datetime, slug: str) -> Path:
+    """content/[lang/]news/YYYY/MM/DD/slug.md"""
     base = Path("content") if lang == "en" else Path("content")/lang
-    return base/"news"/f"{dt:%Y}"/f"{dt:%m}"/f"{dt:%d}"/slug
+    post_dir = base/"news"/f"{dt:%Y}"/f"{dt:%m}"/f"{dt:%d}"
+    post_dir.mkdir(parents=True, exist_ok=True)
+    return post_dir/f"{slug}.md"
+
 
 def clean_body(md: str) -> str:
     if not md: return ""
