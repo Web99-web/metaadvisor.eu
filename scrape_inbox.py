@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import os, re, json, time, hashlib, datetime
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse  # noqa: F401
 import requests, feedparser
 from bs4 import BeautifulSoup
 import  argparse
