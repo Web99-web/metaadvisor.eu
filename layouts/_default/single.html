@@ -1,0 +1,113 @@
+{{ define "main" }}
+<article class="post container">
+
+  {{/* siguran scope */}}
+  {{ $p := . }}
+
+  <header class="post-hero">
+    {{/* HERO prioritet: bundle hero → image_url/image → /images/<ime> → heuristika → placeholder */}}
+    {{ $ph := "/images/placeholder.jpg" }}
+    {{ $src := "" }}
+
+    {{/* 1) hero iz bundlea */}}
+    {{ with $p.Resources.GetMatch "hero*" }}
+      {{ $src = .RelPermalink }}
+    {{ end }}
+
+    {{/* 2) image_url / image (abs ili / ili relativno u bundleu) */}}
+    {{ if not $src }}
+      {{ $img := or $p.Params.image_url $p.Params.image }}
+      {{ if $img }}
+        {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
+          {{ $src = $img }}
+        {{ else }}
+          {{ with $p.Resources.GetMatch $img }}
+            {{ $src = .RelPermalink }}
+          {{ else }}
+            {{/* ako je samo ime (npr. "bitcoin-btc.jpg") probaj iz /images */}}
+            {{ $src = printf "/images/%s" $img }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{/* 3) Heuristika po naslovu/tagovima → slike iz static/images */}}
+    {{ if not $src }}
+      {{ $t := lower $p.Title }}
+      {{ $tags := $p.Params.tags | default (slice) }}
+      {{ $tagsLower := apply $tags "lower" "." }}
+
+      {{ if or (in $t "apple") (in $t "iphone") (in $tagsLower "apple") (in $tagsLower "iphone") }}
+        {{ $src = "/images/mobile-phone.jpg" }}
+      {{ end }}
+      {{ if and (not $src) (or (in $t "google") (in $tagsLower "google")) }}
+        {{ $src = "/images/Google.png" }}
+      {{ end }}
+      {{ if and (not $src) (or (in $t "bitcoin") (in $t "btc") (in $tagsLower "bitcoin") (in $tagsLower "btc")) }}
+        {{ $src = "/images/bitcoin-btc.jpg" }}
+      {{ end }}
+      {{ if and (not $src) (or (in $t "ethereum") (in $t "eth") (in $tagsLower "ethereum") (in $tagsLower "eth")) }}
+        {{ $src = "/images/eth-ethereum.jpg" }}
+      {{ end }}
+      {{ if and (not $src) (or (in $t " ai") (in $t "artificial intelligence") (in $tagsLower "ai")) }}
+        {{ $src = "/images/ai.jpg" }}
+      {{ end }}
+    {{ end }}
+
+    {{/* 4) final fallback */}}
+    {{ if not $src }}{{ $src = $ph }}{{ end }}
+
+    <img
+      class="post-hero-img"
+      src="{{ $src }}?v={{ $p.Lastmod.Unix }}"
+      alt="{{ $p.Params.image_alt | default $p.Title }}"
+      loading="lazy" decoding="async"
+      onerror="this.onerror=null;this.src='{{ $ph }}'">
+
+    <h1 class="post-title">{{ $p.Title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ $p.Date }}">{{ $p.Date.Format "2006-01-02" }}</time>
+      {{ with $p.Params.category }}
+        · <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
+      {{ end }}
+      {{ with $p.Params.tags }}
+        · {{ range $i, $t := . }}
+            {{ if $i }}, {{ end }}
+            <a href='{{ "/tags/" | relLangURL }}{{ $t | urlize }}/'>{{ $t }}</a>
+          {{ end }}
+      {{ end }}
+    </div>
+  </header>
+
+  <div class="post-body">
+  {{ $p.Content }}
+
+  {{/* Our take unutar teksta, s naslovom i većim fontom */}}
+  {{ with $p.Params.our_take }}
+    <section class="our-take">
+      <h3>{{ i18n "ourTake" | default "Our take" }}</h3>
+      <div class="our-take-body">{{ . | markdownify }}</div>
+    </section>
+  {{ end }}
+</div>
+
+
+  {{ if or $p.Params.source $p.Params.source_url }}
+    <aside class="post-source">
+      <span class="label">{{ i18n "sourceLabel" | default "Source" }}:</span>
+      {{ if $p.Params.source_url }}
+        <a href="{{ $p.Params.source_url }}" rel="noopener nofollow ugc" target="_blank">
+          {{ $p.Params.source | default "Original" }}
+        </a>
+      {{ else }}
+        {{ $p.Params.source | default "Original" }}
+      {{ end }}
+    </aside>
+  {{ end }}
+
+  {{ partial "post-nav.html" $p }}
+  {{ partial "related.html" $p }}
+  {{ partial "disclaimer.html" $p }}
+
+</article>
+{{ end }}
