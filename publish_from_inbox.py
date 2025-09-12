@@ -9,11 +9,13 @@ from urllib.parse import urlparse
 # ---------- IMAGE POLICY ----------
 # Ako je False, OG (remote) slike će se ignorirati osim s whiteliste.
 USE_OG_IMAGE = False
+
 OG_WHITELIST = {
     "unsplash.com","images.unsplash.com","pexels.com","pixabay.com",
     "upload.wikimedia.org","commons.wikimedia.org",
-    # ↓ dopustimo Guardian OG slike (po potrebi)
-    "i.guim.co.uk","theguardian.com","www.theguardian.com"
+    # primjer ako želiš dopustiti ove:
+    # "decrypt.co","cdn.decrypt.co",
+    # "images.arcpublishing.com","coindesk.com",
 }
 
 # ---------- AUTO TAGS (iz naslova/teksta) ----------
