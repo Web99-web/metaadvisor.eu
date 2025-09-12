@@ -237,22 +237,18 @@ def get_hero_bytes(image_url, tags, title, body, seed: str):
     """Slika prioritet: 1) OG/remote (ako dopušten) → 2) biblioteka /static/images → 3) None."""
     return dl(image_url) or pick_library_image(tags, title, body, seed)
 
-def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
+
+def write_single(lang: str, dt: datetime.datetime, title: str, body: str,
                  tkey: str, src: str, src_url: str, tags, aliases=None,
-                 hero_bytes=None, our_take=None, priority: int = 0):
-    """Napiši sadržaj u content/<lang>/news/.../slug/index.md + hero.jpg."""
+                 our_take=None, priority: int = 0, image_url: str = ""):
+    """Piši SINGLE file: content/[lang/]news/YYYY/MM/DD/slug.md (bez bundlea/slika)."""
     slug_clean = url_slug(title)
-    d = bundle_dir(lang, dt, slug_clean)
-    if d.exists():
+    out_path = out_path_single(lang, dt, slug_clean)
+    if out_path.exists():
         short = hashlib.md5(f"{title}{dt}".encode()).hexdigest()[:6]
         slug_clean = f"{slug_clean}-{short}"
-        d = bundle_dir(lang, dt, slug_clean)
-    d.mkdir(parents=True, exist_ok=True)
+        out_path = out_path_single(lang, dt, slug_clean)
 
-    if hero_bytes:
-        (d/"hero.jpg").write_bytes(hero_bytes)
-
-    # Front matter
     fm = [
         "---",
         f'title: "{title}"',
@@ -262,8 +258,8 @@ def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
         f'translationKey: "{tkey}"',
         f'source: "{src}"',
         f'source_url: "{src_url}"',
-        f"priority: {int(priority)}",           # ← za Hugo sortiranje
-        'image: "hero.jpg"',                    # pomaže list kartici
+        f"priority: {int(priority)}",
+        f'image_url: "{image_url or "/images/placeholder.jpg"}"',
         "tags: [" + ", ".join([f'\"{t}\"' for t in (tags or [])]) + "]",
     ]
     if aliases:
@@ -275,9 +271,8 @@ def write_bundle(lang: str, dt: datetime.datetime, title: str, body: str,
             fm.append(f"  {line}")
     fm.append("---")
 
-    (d/"index.md").write_text("\n".join(fm) + "\n\n" + (body or "") + "\n", encoding="utf-8")
-    return d
-
+    out_path.write_text("\n".join(fm) + "\n\n" + (body or "") + "\n", encoding="utf-8")
+    return out_path
 translator = Translator()
 
 def auto_translate(text: str, lang: str) -> str:
@@ -330,8 +325,9 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     if not our_take and AUTO_TAKE:
         our_take = generate_our_take(title_en, body_en, tags)
 
-    # Slika (hero)
-    hero = get_hero_bytes(image_url, tags, title_en, body_en, seed=tkey or title_en)
+
+    # Slika: koristimo image_url iz inboxa ili placeholder (bez lokalnog spremanja)
+    image_url_final = image_url or "/images/placeholder.jpg"
 
     # Prioritet izvora
     prio = source_priority(src)
@@ -341,36 +337,36 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     en_aliases = [f"/news/{old_segment}/"] if old_segment else None
 
     # EN
-    write_bundle(
+    write_single(
         "en", dt, title_en, body_en or f"Read the full article: {src_url}",
         tkey, src, src_url, tags, aliases=en_aliases,
-        hero_bytes=hero, our_take=our_take, priority=prio
+        our_take=our_take, priority=prio, image_url=image_url_finalo
     )
 
     # HR
     if also_hr:
-        write_bundle(
+        write_single(
             "hr", dt,
             auto_translate(title_en,"hr"),
             auto_translate(body_en or f"Read the full article: {src_url}", "hr"),
             tkey, src, src_url, tags,
             aliases=[f"/hr/news/{old_segment}/"] if old_segment else None,
-            hero_bytes=hero,
             our_take=auto_translate(our_take,"hr") if our_take else None,
-            priority=prio
+            priority=prio,
+            image_url=image_url_final
         )
 
     # DE
     if also_de:
-        write_bundle(
+        write_single(
             "de", dt,
             auto_translate(title_en,"de"),
             auto_translate(body_en or f"Read the full article: {src_url}", "de"),
             tkey, src, src_url, tags,
             aliases=[f"/de/news/{old_segment}/"] if old_segment else None,
-            hero_bytes=hero,
             our_take=auto_translate(our_take,"de") if our_take else None,
-            priority=prio
+            priority=prio,
+            image_url=image_url_final
         )
 
     print(f"[publish] {inbox_file.name} → EN/HR/DE OK")
