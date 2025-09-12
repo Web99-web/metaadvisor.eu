@@ -1,0 +1,79 @@
+{{/* layouts/partials/related.html — tag-relevance + hero priority + card UI bez ugniježđenih <a> */}}
+{{- $all := site.GetPage "section" "news" -}}
+{{- if not $all }}{{- return -}}{{- end -}}
+
+{{- $current := . -}}
+{{- $tags := .Params.tags | default slice -}}
+
+{{- $rel := where $all.RegularPages "Permalink" "ne" $current.Permalink -}}
+{{- $rel = where $rel "Title" "ne" "Inbox (drafts)" -}}
+
+{{- if gt (len $tags) 0 -}}
+  {{- $byTags := where $rel "Params.tags" "intersect" $tags -}}
+  {{- if gt (len $byTags) 0 -}}
+    {{- $rel = $byTags -}}
+  {{- else -}}
+    {{- $rel = $rel.ByDate.Reverse -}}
+  {{- end -}}
+{{- else -}}
+  {{- $rel = $rel.ByDate.Reverse -}}
+{{- end -}}
+
+{{- $rel = first 6 $rel -}}
+
+{{- if gt (len $rel) 0 -}}
+<section class="post-related" style="margin-top:28px">
+  <h3 style="margin:0 0 12px">{{ i18n "youMightAlsoLike" | default "You might also like" }}</h3>
+
+  <div class="grid">
+    {{ range $p := $rel }}
+      {{/* SKIP: inbox draft kartice */}}
+      {{ $isDraftCard := or (in (lower $p.Title) "inbox (drafts)")
+                            (hasPrefix $p.Slug "inbox-drafts")
+                            (in $p.File.Path "inbox-drafts-") }}
+      {{ if $isDraftCard }}{{ continue }}{{ end }}
+
+      {{/* Slika: hero (bundle) > image_url / image (bundle/abs) > placeholder */}}
+      {{- $ph := "/images/placeholder-metaadvisor-small.jpg" -}}
+      {{- $src := "" -}}
+      {{ with $p.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
+      {{ if not $src }}
+        {{ $img := or $p.Params.image_url $p.Params.image }}
+        {{ if $img }}
+          {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
+            {{ $src = $img }}
+          {{ else }}
+            {{ with $p.Resources.GetMatch $img }}{{ $src = .RelPermalink }}{{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ if not $src }}{{ $src = $ph }}{{ end }}
+
+      <div class="card" style="position:relative;display:flex!important;flex-direction:column!important;align-items:stretch!important;float:none!important;clear:both!important;">
+        <a href="{{ $p.RelPermalink }}">
+          <img class="card-img"
+               src="{{ $src }}?v={{ $p.Lastmod.Unix }}"
+               alt="{{ $p.Title }}"
+               loading="lazy" decoding="async"
+               style="width:100%!important;height:160px!important;object-fit:cover!important;display:block!important;margin:0!important">
+        </a>
+
+        <div class="card-body" style="display:flex!important;flex-direction:column!important;gap:8px!important;min-height:0!important">
+          <div class="card-meta">
+            <span class="muted">{{ $p.Date.Format "2006-01-02" }}</span>
+            {{ with $p.Params.category }}
+              <span class="badge"><a href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a></span>
+            {{ end }}
+          </div>
+
+          <h3 class="card-title"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
+          {{ with $p.Summary }}<p class="card-summary">{{ . | plainify | truncate 140 }}</p>{{ end }}
+        </div>
+
+        <!-- cijela kartica klik (bez ugniježđivanja linkova) -->
+        <a class="stretched-link" href="{{ $p.RelPermalink }}" aria-label="{{ $p.Title }}" style="position:absolute;inset:0;z-index:1;"></a>
+      </div>
+    {{- end -}}
+  </div>
+</section>
+{{- end -}}
