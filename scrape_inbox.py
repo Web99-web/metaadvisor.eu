@@ -5,6 +5,10 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse
 import requests, feedparser
 from bs4 import BeautifulSoup
+import os, argparse
+
+SCRAPE_LIMIT = int(os.getenv("SCRAPE_LIMIT", "10"))
+
 
 # ============ KONFIG ============
 BASE_URL    = "https://metaadvisor.eu"
@@ -14,17 +18,17 @@ OUT_INBOX   = Path("content/_inbox")
 DB_FILE     = Path(".scrape_seen.json")
 
 # Minimalni “editorial” filter (možeš proširiti)
-MAX_ITEMS      = 1  # dnevni cap
+
 ALLOW_SOURCES  = {"TechCrunch","The Guardian Tech","Reuters Tech","CoinDesk","Decrypt"}
 BLOCK_TOPICS   = {"dogecoin","xrp","meme coin","shiba inu"}
 REQUIRE_ANY    = {"bitcoin","ethereum","ai","web3","crypto"}
 
 SOURCES = [
-    {"name": "Reuters Tech",      "rss": "https://feeds.reuters.com/reuters/technologyNews", "limit": 2},
-    {"name": "The Guardian Tech", "rss": "https://www.theguardian.com/uk/technology/rss",    "limit": 2},
+    {"name": "Reuters Tech",      "rss": "https://feeds.reuters.com/reuters/technologyNews", "limit": 1},
+    {"name": "The Guardian Tech", "rss": "https://www.theguardian.com/uk/technology/rss",    "limit": 1},
     {"name": "TechCrunch",        "rss": "https://techcrunch.com/feed/",                     "limit": 2},
     {"name": "CoinDesk",          "rss": "https://www.coindesk.com/arc/outboundfeeds/rss/",  "limit": 3},
-    {"name": "Decrypt",           "rss": "https://decrypt.co/feed",                          "limit": 1},
+    {"name": "Decrypt",           "rss": "https://decrypt.co/feed",                          "limit": 3},
 ]
 # =================================
 
@@ -90,8 +94,11 @@ def guess_category(title):
     if any(k in t for k in ["ai","artificial intelligence","openai","gpt","model"]):      return "ai"
     return "news"
 
+
 def inbox_path(dt, slug):
-    return OUT_INBOX / f"{dt:%Y}" / f"{dt:%m}" / f"{dt:%Y-%m-%d}-{slug}.md"
+    # content/_inbox/YYYY/MM/DD/slug.md
+    return OUT_INBOX / f"{dt:%Y}" / f"{dt:%m}" / f"{dt:%d}" / f"{slug}.md"
+
 
 def write_inbox(dt, payload):
     p = inbox_path(dt, payload["slug"])
@@ -179,15 +186,26 @@ def scrape_feed(feed_url, source_name, db, limit):
             time.sleep(0.5)
     return made
 
-def main():
+
+def main(limit=SCRAPE_LIMIT):
     db = load_db()
     total = 0
     for src in SOURCES:
-        if total >= MAX_ITEMS: break
-        left = min(src.get("limit", MAX_ITEMS-total), MAX_ITEMS-total)
+        if total >= limit:
+            break
+        # koliko još možemo uzeti iz ovog izvora, ali ne preko ukupnog limita
+        left = min(src.get("limit", limit - total), max(0, limit - total))
+        if left <= 0:
+            break
         total += scrape_feed(src["rss"], src["name"], db, left)
     save_db(db)
     print(f"[done] Inboxed {total} item(s).")
 
+
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--limit", type=int, default=SCRAPE_LIMIT)
+    args = parser.parse_args()
+    # argument ima prednost nad env varom
+    main(limit=args.limit)
+
