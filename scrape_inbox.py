@@ -88,6 +88,75 @@ def extract_body(html, min_len=400, max_len=1800):
     text = text[:max_len].rsplit(" ", 1)[0]
     return text or ""
 
+def extract_body_image(html: str, base_url: str) -> str:
+    """Vrati prvu razumnu sliku iz tijela članka (preferira veću iz srcset)."""
+    if not html:
+        return ""
+    soup = BeautifulSoup(html, "html.parser")
+    article = (
+        soup.find("article")
+        or soup.select_one("main, [role=main], .article, .content, .article-content")
+        or soup
+    )
+
+    for img in article.find_all("img"):
+        src = img.get("src") or img.get("data-src") or img.get("data-original")
+        if not src and img.get("srcset"):
+            try:
+                parts = [p.strip() for p in img["srcset"].split(",") if p.strip()]
+                if parts:
+                    src = parts[-1].split()[0]  # zadnja je obično najveća
+            except Exception:
+                pass
+        if not src or src.startswith("data:"):
+            continue
+
+        w = img.get("width")
+        try:
+            if w and int(str(w).strip()) < 200:
+                continue
+        except Exception:
+            pass
+
+        return urljoin(base_url, src)
+
+    return ""
+    
+def extract_body_image(html: str, base_url: str) -> str:
+    """Vrati prvu razumnu sliku iz tijela članka (preferira veću iz srcset)."""
+    if not html:
+        return ""
+    soup = BeautifulSoup(html, "html.parser")
+    article = (
+        soup.find("article")
+        or soup.select_one("main, [role=main], .article, .content, .article-content")
+        or soup
+    )
+
+    for img in article.find_all("img"):
+        src = img.get("src") or img.get("data-src") or img.get("data-original")
+        if not src and img.get("srcset"):
+            try:
+                parts = [p.strip() for p in img["srcset"].split(",") if p.strip()]
+                if parts:
+                    src = parts[-1].split()[0]  # zadnja je obično najveća
+            except Exception:
+                pass
+        if not src or src.startswith("data:"):
+            continue
+
+        w = img.get("width")
+        try:
+            if w and int(str(w).strip()) < 200:
+                continue
+        except Exception:
+            pass
+
+        return urljoin(base_url, src)
+
+    return ""
+
+
 def guess_category(title):
     t = (title or "").lower()
     if any(k in t for k in ["bitcoin","btc","crypto","ethereum","eth","solana","token"]): return "crypto"
