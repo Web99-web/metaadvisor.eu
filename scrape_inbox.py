@@ -5,7 +5,7 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse
 import requests, feedparser
 from bs4 import BeautifulSoup
-import os, argparse
+import  argparse
 
 SCRAPE_LIMIT = int(os.getenv("SCRAPE_LIMIT", "10"))
 
@@ -212,6 +212,9 @@ def process_entry(entry, source_name, db):
     title = meta.get("title") or entry.get("title") or "Untitled"
     desc  = meta.get("description") or entry.get("summary", "")
     if not passes_filters(title, desc): return False
+    img_inline  = extract_body_image(meta.get("html"), link)
+    image_final = img_inline or meta.get("image") or ""
+
 
     try:
         dt = datetime.datetime(*entry.published_parsed[:6], tzinfo=datetime.timezone.utc)
@@ -236,7 +239,7 @@ def process_entry(entry, source_name, db):
         "tkey": uid,
         "source_name": source_name,
         "source_url": link,
-        "image_url": meta.get("image") or "",
+        "image_url": image_final,
         "tags": tags,
         "body": body,
     }
