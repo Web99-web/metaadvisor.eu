@@ -130,8 +130,16 @@
   </div>
 </header>
 
+
+
 <main class="site-main">
-  {{ partial "hero.html" . }}
+  {{/* Show the green site hero ONLY on: home, section listings, and these single pages */}}
+  {{- $pageName := .File.BaseFileName | default "" -}}
+  {{- $showHero := or .IsHome (eq .Kind "section") (in (slice "about" "contact" "privacy" "subscribe") $pageName) -}}
+  {{- if $showHero -}}
+    {{ partial "hero.html" . }}
+  {{- end -}}
+
   {{ block "main" . }}{{ end }}
 </main>
 
