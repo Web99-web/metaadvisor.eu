@@ -232,6 +232,38 @@ def load_image_map():
         return {"mapping": {}, "default": "finance.jpg"}  # ili "stock-market-dionice.jpg"
 
     
+def choose_image_path(tags, title, body, seed: str = "") -> str:
+    """
+    Vrati putanju /images/<datoteka> na temelju data/image_map.yaml.
+    Ako mapping ništa ne nađe, probaj s par heuristika (BTC/ETH/SOL/iPhone),
+    a na kraju vrati default iz YAML-a (npr. finance.jpg).
+    """
+    conf = load_image_map()
+    mapping: dict = conf.get("mapping", {}) or {}
+    default_name: str = conf.get("default", "finance.jpg")
+
+    keys = [str(t).lower() for t in (tags or [])]
+    keys += re.findall(r"[a-z0-9\-]+", (title or "").lower())
+    if body:
+        keys += re.findall(r"[a-z0-9\-]+", body.lower())
+
+    # prvo probaj YAML mapping (deterministički izbor)
+    for k in keys:
+        files = mapping.get(k)
+        if files:
+            h = hashlib.md5((seed or title or k).encode("utf-8")).hexdigest()
+            pick = files[int(h, 16) % len(files)]
+            return f"/images/{pick}"
+
+    # heuristika
+    t = (title or "").lower()
+    if ("bitcoin" in t) or ("btc" in t):   return "/images/bitcoin-btc.jpg"
+    if ("ethereum" in t) or ("eth" in t):  return "/images/eth.jpg"
+    if ("solana" in t) or ("sol" in t):    return "/images/solana.jpg"
+    if ("iphone" in t) or ("apple" in t) or ("smartphone" in t):
+        return "/images/mobile-phone.jpg"
+
+    return f"/images/{default_name}"
 
 
 def _det_pick(files: list[str], seed: str) -> str:
@@ -244,7 +276,7 @@ def pick_library_image(tags, title, body, seed: str):
     """Pokušaj odabrati sliku iz static/images prema data/image_map.yaml."""
     conf = load_image_map()
     mapping: dict = conf.get("mapping", {})
-    default_name: str = conf.get("default", "placeholder.jpg")
+    default_name: str = conf.get("default", "finance.jpg")
 
     keys = [str(t).lower() for t in (tags or [])]
     keys += re.findall(r"[a-z0-9\-]+", (title or "").lower())
@@ -285,7 +317,7 @@ def write_single(lang: str, dt: datetime.datetime, title: str, body: str,
         f'source: "{src}"',
         f'source_url: "{src_url}"',
         f"priority: {int(priority)}",
-        f'image_url: "{image_url or "/images/placeholder.jpg"}"',
+        f'image_url: "{image_url or "/images/finance.jpg"}"',
         "tags: [" + ", ".join([f'\"{t}\"' for t in (tags or [])]) + "]",
     ]
     if aliases:
@@ -352,8 +384,10 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
         our_take = generate_our_take(title_en, body_en, tags)
 
 
-    # Slika: koristimo image_url iz inboxa ili placeholder (bez lokalnog spremanja)
-    image_url_final = image_url or "/images/placeholder.jpg"
+    # Ako image_url nije zadana u inboxu, izvuci najbolju /images/... iz mape/heuristike
+    seed_id = tkey or url_slug(title_en)
+    image_url_final = image_url or choose_image_path(tags, title_en, body_en, seed=seed_id)
+
 
     # Prioritet izvora
     prio = source_priority(src)
