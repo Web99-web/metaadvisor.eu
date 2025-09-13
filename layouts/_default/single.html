@@ -14,9 +14,16 @@
       {{/* 1) hero iz bundlea */}}
       {{ with $p.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
 
-      {{/* 2) image_url / image (abs ili / ili relativno u bundleu) */}}
+      {{/* 2) image_url / image (abs ili / ili relativno u bundleu) + IGNORE placeholder */}}
       {{ if not $src }}
         {{ $img := or $p.Params.image_url $p.Params.image }}
+        {{ if $img }}
+          {{/* ⬇️ NOVO: ignoriraj sve što miriše na 'placeholder' */}}
+          {{ $imgLower := lower (printf "%v" $img) }}
+          {{ if or (in $imgLower "placeholder") (in $imgLower "placeholder-metaadvisor") }}
+            {{ $img = "" }}
+          {{ end }}
+        {{ end }}
         {{ if $img }}
           {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
             {{ $src = $img }}
