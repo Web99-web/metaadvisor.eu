@@ -1,7 +1,8 @@
 {{- $pg := . -}}
 
 {{/* --- PLACEHOLDERS & VARS ------------------------------------------ */}}
-{{- $ph := "/images/placeholder-metaadvisor-small.jpg" -}}
+
+{{- $ph := site.Params.placeholder_image | default "/images/placeholder-metaadvisor-small.jpg" -}}
 {{- $src := "" -}}
 
 {{/* 1) hero iz bundlea */}}
