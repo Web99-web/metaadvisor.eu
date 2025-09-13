@@ -130,52 +130,41 @@
     </div>
   </header>
 
-  <!-- HERO -->
-  <section class="hero">
-    <div class="container hero-inner">
-      <h1>Technology, AI, Crypto & Finance — explained clearly.</h1>
-      <p class="lead">MetaAdvisor explores meta-knowledge topics: AI, crypto and finance — clear summaries, useful links and concise insights.</p>
-      <div class="cta">
-        <a class="btn btn-primary" href="#latest">Read the latest</a>
-        <a class="btn btn-ghost" href="/subscribe/">Subscribe</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- GRID -->
-  <section class="grid-wrap" id="latest">
-  <div class="container">
-    <div class="section-head"><h2>Latest Highlights</h2></div>
-
-   {{ $news := .Site.GetPage "section" "news" }}
-  {{ if $news }}
+{{ $news := .Site.GetPage "section" "news" }}
+{{ if $news }}
   {{/* zadnje vijesti gore, a priority samo unutar istog datuma */}}
   {{ $sorted := sort $news.RegularPages "Date" "desc" ".Params.priority" "desc" }}
   {{ $paginator := .Paginate $sorted }}
+
+  {{- $ph := site.Params.placeholder_image | default "/images/placeholder-metaadvisor-small.jpg" -}}
+
   <div class="grid">
     {{ range $paginator.Pages }}
-          <a class="card" href="{{ .RelPermalink }}">
-            {{ $img := .Params.image_url | default .Params.image }}
-            {{ if $img }}
-              {{ $src := $img }}
-              {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
-                {{ $src = $src | absURL }}
-              {{ end }}
-              <img class="card-img" src="{{ $src }}" alt="{{ .Title }}" loading="lazy" onerror="this.onerror=null;this.src='/images/placeholder-metaadvisor-small.jpg'">
-            {{ else }}
-              <img class="card-img" src="/images/placeholder-metaadvisor-small.jpg" alt="{{ .Title }}" loading="lazy">
-            {{ end }}
-            <div class="card-body">
-              <div class="card-meta">
-                <span class="muted">{{ .Date.Format "2006-01-02" }}</span>
-                {{ with .Params.category }}<span class="dot"></span><span>{{ . }}</span>{{ end }}
-              </div>
-              <h3>{{ .Title }}</h3>
-              {{ with .Summary }}<p>{{ . | plainify }}</p>{{ end }}
-            </div>
-          </a>
+      <a class="card" href="{{ .RelPermalink }}">
+        {{ $img := .Params.image_url | default .Params.image }}
+        {{ if $img }}
+          {{ $src := $img }}
+          {{ if not (or (hasPrefix $src "http") (hasPrefix $src "/")) }}
+            {{ $src = $src | absURL }}
+          {{ end }}
+          <img class="card-img" src="{{ $src }}" alt="{{ .Title }}" loading="lazy"
+               onerror="this.onerror=null;this.src='{{ $ph }}'">
+        {{ else }}
+          <img class="card-img" src="{{ $ph }}" alt="{{ .Title }}" loading="lazy">
         {{ end }}
-      </div>
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="muted">{{ .Date.Format "2006-01-02" }}</span>
+            {{ with .Params.category }}<span class="dot"></span><span>{{ . }}</span>{{ end }}
+          </div>
+          <h3>{{ .Title }}</h3>
+          {{ with .Summary }}<p>{{ . | plainify }}</p>{{ end }}
+        </div>
+      </a>
+    {{ end }}
+  </div>
+{{ end }}
+
 
       {{ if gt $paginator.TotalPages 1 }}
         <div style="display:flex;gap:10px;justify-content:center;margin-top:22px">
