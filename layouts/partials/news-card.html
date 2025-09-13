@@ -1,22 +1,26 @@
 {{- $pg := . -}}
 
 {{/* --- PLACEHOLDERS & VARS ------------------------------------------ */}}
-
 {{- $ph := site.Params.placeholder_image | default "/images/placeholder-metaadvisor-small.jpg" -}}
 {{- $src := "" -}}
 
-{{/* 1) hero iz bundlea */}}
+{{/* 1) hero iz bundlea (ako postoji lokalni hero) */}}
 {{ with $pg.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
 
-{{/* 2) image_url / image — SAMO lokalno; TRIM + ignoriraj http/https i // */}}
+{{/* 2) image_url / image — SAMO lokalno; ignoriraj placeholder vrijednosti */}}
 {{ if not $src }}
   {{- $img := "" -}}
   {{ with $pg.Params.image_url | default $pg.Params.image }}{{ $img = . | trim }}{{ end }}
-  {{ if $img }}
+  {{- $isPlaceholder := and $img (in (lower $img) "placeholder") -}}
+  {{ if and $img (not $isPlaceholder) }}
     {{ if hasPrefix $img "/" }}
       {{ $src = $img }}
     {{ else if and (not (hasPrefix $img "http")) (not (hasPrefix $img "//")) }}
-      {{ with $pg.Resources.GetMatch $img }}{{ $src = .RelPermalink }}{{ else }}{{ $src = printf "/images/%s" $img }}{{ end }}
+      {{ with $pg.Resources.GetMatch $img }}
+        {{ $src = .RelPermalink }}
+      {{ else }}
+        {{ $src = printf "/images/%s" $img }}
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
@@ -68,7 +72,7 @@
 {{ end }}
 {{ if and (not $src) $tagImg }}{{ $src = $tagImg }}{{ end }}
 
-{{/* 4) Heuristika po naslovu/tagovima -------------------------------- */}}
+{{/* 4) Heuristika po naslovu/tagovima (dodatni fallback) -------------- */}}
 {{ if not $src }}
   {{ $t := lower $pg.Title }}
   {{ $tags := $pg.Params.tags | default (slice) }}
