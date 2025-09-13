@@ -136,15 +136,24 @@ HEADERS    = {"User-Agent": USER_AGENT}
 
 # Prioritet izvora (veći broj = veći prioritet)
 SOURCE_RANK = {
-    "CoinDesk": 100,
+    "MetaAdvisor": 100,   # naši članci = top
+    "CoinDesk": 97,
+    "Decrypt": 97,
     "Cointelegraph": 95,
     "Bloomberg": 90,
     "Reuters": 85,
     "The Guardian Tech": 20,
 }
 def source_priority(src: str) -> int:
-    if not src: return 0
-    return SOURCE_RANK.get(src.strip(), 0)
+    """Vrati prioritet prema izvoru (case-insensitive)."""
+    if not src:
+        return 0
+    key = str(src).strip().lower()
+    for k, v in SOURCE_RANK.items():
+        if k.lower() == key:
+            return v
+    return 0
+
 
 TRANSLIT = {
     "ä":"ae","ö":"oe","ü":"ue","ß":"ss",
@@ -331,6 +340,13 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
 
     # Prioritet izvora
     prio = source_priority(src)
+    # Prioritet: inbox override > izvor
+    prio = source_priority(src)
+    try:
+        prio = int(post.get("priority", prio))
+    except Exception:
+        pass
+
 
     # Aliases (ako želiš stari segment)
     old_segment = inbox_file.stem if ADD_ALIASES_FROM_INBOX else None
