@@ -147,12 +147,13 @@
   <div class="container">
     <div class="section-head"><h2>Latest Highlights</h2></div>
 
-    {{ $news := .Site.GetPage "section" "news" }}
-    {{ if $news }}
-      {{ $pages := $news.RegularPages.ByDate.Reverse }}
-      {{ $paginator := .Paginate $pages }}
-      <div class="grid">
-        {{ range $paginator.Pages }}
+   {{ $news := .Site.GetPage "section" "news" }}
+{{ if $news }}
+  {{/* zadnje vijesti gore, a priority samo unutar istog datuma */}}
+  {{ $sorted := sort $news.RegularPages "Date" "desc" ".Params.priority" "desc" }}
+  {{ $paginator := .Paginate $sorted }}
+  <div class="grid">
+    {{ range $paginator.Pages }}
           <a class="card" href="{{ .RelPermalink }}">
             {{ $img := .Params.image_url | default .Params.image }}
             {{ if $img }}
