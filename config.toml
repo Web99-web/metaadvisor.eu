@@ -33,6 +33,9 @@ defaultContentLanguageInSubdir = false
 [params]
   tagline = "Automated summaries of news from publicly available sources."
   showAds = true
+  
+[params]
+placeholder_image = "/images/placeholder-metaadvisor-small.jpg"
 
 [taxonomies]
   tag = "tags"
