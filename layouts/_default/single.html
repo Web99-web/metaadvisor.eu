@@ -6,7 +6,7 @@
 
   <header class="post-hero">
     {{/* HERO prioritet: bundle hero → image_url/image → /images/<ime> → heuristika → placeholder */}}
-    {{ $ph := "/images/placeholder.jpg" }}
+    {{- $ph := site.Params.placeholder_image | default "/images/placeholder-metaadvisor-small.jpg" -}}
     {{ $src := "" }}
 
     {{/* 1) hero iz bundlea */}}
