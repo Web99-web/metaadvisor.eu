@@ -65,7 +65,18 @@ TAG_KEYWORDS = {
     "security": ["security"],
     "mental health": ["mental-health"],
     "suicide": ["mental-health"],
-}
+
+
+    TAG_KEYWORDS.update({
+    "iphone":     ["apple", "iphone", "smartphones"],
+    "iphones":    ["apple", "iphone", "smartphones"],
+    "apple":      ["mobile", "smartphones", "mobile", "apple"],
+    "smartphone": ["smartphones", "mobile", "apple"],
+    "smartphones":["smartphones", "mobile"],
+    "phone":      ["smartphones", "mobile"],
+    "phones":     ["smartphones", "mobile"],
+})
+
 _WORDS_RE = re.compile(r"[a-z0-9\-]+", re.I)
 
 def _dedup(seq):
@@ -212,10 +223,15 @@ def load_image_map():
                 if isinstance(v, str):
                     mapping[k] = [v]
             data["mapping"] = mapping
-            data.setdefault("default", "placeholder.jpg")
+            # ❗ default više nije placeholder – stavi nešto neutralno i lijepo
+            data.setdefault("default", "finance.jpg")  # ili "stock-market-dionice.jpg"
             return data
     except Exception:
-        return {"mapping": {}, "default": "placeholder.jpg"}
+        # ❗ i u fallbacku koristi isti default, ne placeholder
+        return {"mapping": {}, "default": "finance.jpg"}  # ili "stock-market-dionice.jpg"
+
+    
+
 
 def _det_pick(files: list[str], seed: str) -> str:
     """Deterministički izbor iz liste (po seed-u)."""
