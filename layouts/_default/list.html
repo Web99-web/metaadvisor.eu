@@ -11,14 +11,15 @@
     {{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}
   </h1>
 
-  {{/* Skupi sve "news" stranice (na home iz cijelog sajta) */}}
-  {{ $pages := .Pages }}
-  {{ if or .IsHome (eq (len $pages) 0) }}{{ $pages = .Site.RegularPages }}{{ end }}
-  {{ $pages = where $pages "Type" "news" }}
+{{/* Skupi stranice i pripremi pager */}}
+{{ $pages := .Pages }}
+{{ if or .IsHome (eq (len $pages) 0) }}{{ $pages = .Site.RegularPages }}{{ end }}
+{{ $pages = where $pages "Type" "news" }}
 
-  {{/* Sortiraj po prioritetu (desc) pa po datumu (desc), pa tek onda paginiraj */}}
-  {{ $sorted := sort $pages "Params.priority" "desc" "Date" "desc" }}
-  {{ $pager := .Paginate $sorted }}
+{{/* Najnovije prvo; priority samo razbija poredak unutar istog datuma */}}
+{{ $sorted := sort $pages ".Date" "desc" ".Params.priority" "desc" }}
+{{ $pager := .Paginate $sorted }}
+
 
   <div class="grid">
     {{ range $pg := $pager.Pages }}
