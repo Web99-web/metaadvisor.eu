@@ -50,5 +50,14 @@ mapping:
   "wall street": [wall-street-manja.jpg]
   visa: [visa.jpg]
 
+  # --- Apple / iPhone / Phones ---
+  iphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  iphones: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  apple: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg]
+  smartphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  smartphones: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  phone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  phones: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+
   # — PLACEHOLDER —
   placeholder: [placeholder.jpg, placeholder-metaadvisor-small.jpg, placeholder-metaadvisor-large.jpg]
