@@ -65,16 +65,17 @@ TAG_KEYWORDS = {
     "security": ["security"],
     "mental health": ["mental-health"],
     "suicide": ["mental-health"],
+}
 
-
-    TAG_KEYWORDS.update({
-    "iphone":     ["apple", "iphone", "smartphones"],
-    "iphones":    ["apple", "iphone", "smartphones"],
-    "apple":      ["mobile", "smartphones", "mobile", "apple"],
-    "smartphone": ["smartphones", "mobile", "apple"],
-    "smartphones":["smartphones", "mobile"],
-    "phone":      ["smartphones", "mobile"],
-    "phones":     ["smartphones", "mobile"],
+# ➜ dodatni sinonimi za telefone (OVO JE IZVAN dict-a)
+TAG_KEYWORDS.update({
+    "iphone":      ["apple", "iphone", "smartphones"],
+    "iphones":     ["apple", "iphone", "smartphones"],
+    "apple":       ["mobile", "smartphones", "apple"],
+    "smartphone":  ["smartphones", "mobile", "apple"],
+    "smartphones": ["smartphones", "mobile"],
+    "phone":       ["smartphones", "mobile"],
+    "phones":      ["smartphones", "mobile"],
 })
 
 _WORDS_RE = re.compile(r"[a-z0-9\-]+", re.I)
