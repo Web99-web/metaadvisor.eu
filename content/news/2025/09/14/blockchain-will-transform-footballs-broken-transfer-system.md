@@ -6,7 +6,7 @@ category: "ai"
 translationKey: "ebf7e3b5dcddab79f115605968f32d71"
 source: "Cointelegraph (op-ed)"
 source_url: "https://cointelegraph.com/news/blockchain-football-transfer-system"
-image_url: "https://unsplash.com/photos/birds-eye-view-photography-of-green-soccer-field-with-lights-K5ChxJaheKI"
+image_url: "/images/football.jpg"
 image_alt: "Floodlit football pitch viewed from above"
 tags: ["ai","blockchain","football","transfers","stablecoin","ffp"]
 summary: "Faster settlement, lower costs and more transparency: blockchain rails could streamline transfers, aid smaller clubs and simplify financial fair play oversight."
