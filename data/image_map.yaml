@@ -97,3 +97,8 @@ mapping:
 
   # --- Asia / HongKong / city ---
   asia:        [asia-briefing.jpg]
+
+  # --- Security/ spy / haker ---
+  security:    [fallback-security.jpg, fallback-security2.jpg]
+  haker:       [fallback-security.jpg, fallback-security2.jpg]
+  spy:         [fallback-security.jpg, fallback-security2.jpg]
