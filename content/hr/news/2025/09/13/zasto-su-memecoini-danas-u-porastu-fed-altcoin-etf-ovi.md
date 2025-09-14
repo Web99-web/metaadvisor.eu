@@ -8,7 +8,7 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/13/memecoins-rally-as-traders-bet-on-fed-rate-cut-and-u-s-altcoin-etfs"
 image_url: "/images/shiba-inu-coin2.jpg"
 image_alt: "Kretanje kripto tržišta — grafikon"
-tags: ["memecoins", "FED", "ETF", "altseason", "trzista"]
+tags: ["memecoins","fed","etf","altseason","trzista","shib","bone","doge","trump","shibarium"]
 summary: "Memecoini rastu jer tržište očekuje smanjenje kamatnih stopa FED-a (više sklonosti riziku) i moguće odobrenje altcoin ETF-ova."
 ---
 
