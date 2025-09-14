@@ -7,19 +7,19 @@ translationKey: "8408c43b90c8455bb445428e028dc0bc"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/capital-group-grows-bitcoin-bet-to-6b"
 image_url: "/images/btc-coini.jpg"
-image_alt: "Bitcoin coins symbolizing institutional allocations"
+image_alt: "Bitcoin coins symbolizing rising institutional allocations"
 tags: ["crypto","bitcoin","treasuries","institutions"]
-summary: "Capital Group has scaled an initial ~$1B position in ‘Bitcoin treasury’ stocks to >$6B, led by stakes in Strategy (formerly MicroStrategy) and Metaplanet."
+summary: "Capital Group has scaled an initial ~$1B position in ‘Bitcoin treasury’ equities to >$6B, led by stakes in Strategy (formerly MicroStrategy) and Metaplanet."
 ---
 
 **What’s new**  
-**Capital Group** has grown an early **~$1B** bet on **Bitcoin-treasury equities** into **over $6B** of exposure. The bulk sits in **Strategy** (formerly MicroStrategy) alongside **Metaplanet**, built up over the last four years as these stocks rallied. :contentReference[oaicite:6]{index=6}
+**Capital Group** has grown its early **~$1B** exposure to **Bitcoin-treasury equities** into **over $6B**. The bulk sits in a sizable stake in **Strategy** (formerly MicroStrategy) and holdings in **Metaplanet**, accumulated over recent years as these stocks rallied.
 
 **Who’s driving it**  
-Veteran PM **Mark Casey** frames Bitcoin as a **commodity**, applying that lens to companies that hold BTC on balance sheet. Independent coverage already noted the Strategy stake **exceeding $6B** on its own. :contentReference[oaicite:7]{index=7}
+Veteran PM **Mark Casey** frames bitcoin as a **commodity**, applying that lens to companies that **hold BTC on balance sheet**, which function as an indirect way to gain bitcoin exposure.
 
 **Why it matters**  
-Institutional demand via **corporate BTC treasuries** is rising — but it comes with **concentration risk**. Note **S&P Dow Jones Indices** recently **declined** to add the company “formerly MicroStrategy” to the S&P 500, reflecting index committees’ hesitation toward BTC-proxy businesses. :contentReference[oaicite:8]{index=8}
+Institutional demand via **corporate BTC treasuries** is a maturing theme, but it introduces **concentration risk** in single names. Index committees also tend to be cautious toward firms that act as **BTC proxies**, which can affect inclusion in major benchmarks.
 
 ## Our take
-A **maturation signal** — long-horizon capital is embracing BTC via treasury equities. Still, outcomes hinge on **BTC price** and **policy tone**; there’s also **single-name risk** (Strategy). A balanced approach blends spot/ETF exposure with a measured slice of treasury equities, while tracking **FOMC**, **ETF flows**, and index-committee stances.
+It’s a **maturation signal** for the asset class, yet outcomes hinge on **BTC price**, **policy tone**, and thoughtful **risk management**. A balanced stance mixes **spot/ETF** exposure with a **measured slice** of treasury equities, while tracking **FOMC**, **ETF flows**, and **index-committee** decisions.
