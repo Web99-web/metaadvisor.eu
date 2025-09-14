@@ -50,14 +50,34 @@ mapping:
   "wall street": [wall-street-manja.jpg]
   visa: [visa.jpg]
 
+  # --- phones / mobilephones / mobiles / Android ---
+  smartphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  smartphones: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  
   # --- Apple / iPhone / Phones ---
   iphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   iphones: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   apple: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg]
-  smartphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
-  smartphones: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   phone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   phones: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
 
   # — PLACEHOLDER —
   placeholder: [placeholder.jpg, placeholder-metaadvisor-small.jpg, placeholder-metaadvisor-large.jpg]
+
+  # --- L2 / Layer-2 / Rollups ---  (NOVO)
+  l2:           [eth.jpg, eth1.jpg, eth-small.jpg, eth-up.jpg, eth-down.jpg]
+  layer2:       [eth.jpg, eth1.jpg, eth-small.jpg, eth-up.jpg, eth-down.jpg]
+  rollup:       [eth.jpg, eth1.jpg, eth-small.jpg]
+  rollups:      [eth.jpg, eth1.jpg, eth-small.jpg]
+  ethereum l2:  [eth.jpg, eth1.jpg, eth-small.jpg]
+  ethereum-l2:  [eth.jpg, eth1.jpg, eth-small.jpg]
+
+  # --- Apple / iPhone / Phones ---  (PROŠIRENO, sve lowercase)
+  iphone:       [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, iphone5.jpg, iphone6.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  iphones:      [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, iphone5.jpg, iphone6.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  apple:        [iphone.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg]
+  smartphone:   [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  smartphones:  [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, iphone5.jpg, iphone6.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  phone:        [iphone.jpg, iphone2.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  phones:       [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, iphone5.jpg, iphone6.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+
