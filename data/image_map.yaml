@@ -1,7 +1,7 @@
 mapping:
   # --- BTC ---
   bitcoin: [btc.jpg, btc1.jpg, "coin btc.jpg", btc.png]
-  btc:     [btc.jpg, btc1.jpg, btc.png]
+  btc:     [btc.jpg, btc1.jpg, btc.png, btc-coin.jpg, bitcon-down.jpg]
 
   # --- ETH ---
   ethereum: [eth.jpg, eth1.jpg, eth-small.jpg, eth-up.jpg, eth-down.jpg, eth.png]
