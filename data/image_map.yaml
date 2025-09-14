@@ -81,3 +81,13 @@ mapping:
   phone:        [iphone.jpg, iphone2.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   phones:       [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, iphone5.jpg, iphone6.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
 
+    # --- MEMECOINS (lokalne nove slike) ---
+  bone:         [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu.png, bone.png, shiba-inu-coin2.jpg]
+  trump:        [trump-coin.jpg, trump-coin1.jpg]
+  maga:         [trump-coin.jpg, trump-coin1.jpg]
+  djt:          [trump-coin.jpg, trump-coin1.jpg]
+
+  shib:         [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg, shiba-inu.png]
+  shiba:        [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg, shiba-inu.png]
+  "shiba inu":  [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg, shiba-inu.png]
+  shibarium:    [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg]
