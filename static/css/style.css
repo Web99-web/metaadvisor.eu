@@ -359,3 +359,46 @@ img.card-img{
   .site-main .grid .card-title{ line-height:1.25; max-height:2.5em; overflow:hidden; display:block; }
   .site-main .grid .card-summary{ line-height:1.45; max-height:4.35em; overflow:hidden; display:block; }
 }
+/* === LISTING SIZE OVERRIDE (20% viša slika, +10% tekst) ============ */
+:root{
+  --card-img-h: 192px;          /* desktop (bilo 160) */
+  --card-img-h-mobile: 168px;   /* mobile (bilo 140) */
+  --card-summary-minh: 4em;     /* bilo 3.6em ≈ +10% */
+  --card-summary-maxh: 4.8em;   /* fallback za FF: bilo 4.35em */
+}
+
+/* slika na karticama */
+.site-main .grid img.card-img,
+.site-main .grid > .card > img,
+.grid .card > img,
+.card > img,
+.card .card-img,
+img.card-img{
+  height: var(--card-img-h) !important;
+}
+
+@media (max-width: 640px){
+  .site-main .grid img.card-img,
+  .site-main .grid > .card > img,
+  .grid .card > img,
+  .card > img,
+  .card .card-img,
+  img.card-img{
+    height: var(--card-img-h-mobile) !important;
+  }
+}
+
+/* 10% više mjesta za sažetak (i dalje 3 retka) */
+.site-main .grid .card-summary,
+.card .card-summary,
+.postcard-summary{
+  min-height: var(--card-summary-minh) !important;
+}
+
+@supports not (-webkit-line-clamp: 1){
+  .site-main .grid .card-summary,
+  .card .card-summary,
+  .postcard-summary{
+    max-height: var(--card-summary-maxh) !important;
+  }
+}
