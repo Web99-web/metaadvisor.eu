@@ -6,8 +6,8 @@ category: "ai"
 translationKey: "ebf7e3b5dcddab79f115605968f32d71"
 source: "Cointelegraph (Kommentar)"
 source_url: "https://cointelegraph.com/news/blockchain-football-transfer-system"
-image_url: "https://unsplash.com/photos/birds-eye-view-photography-of-green-soccer-field-with-lights-K5ChxJaheKI"
-image_alt: "Fußballfeld bei Nacht aus der Vogelperspektive"
+image_url: "/images/football.jpg"
+image_alt: "Floodlit football pitch viewed from above"
 tags: ["ai","blockchain","football","transfers","stablecoin","ffp"]
 summary: "Schnellere Settlement-Zeiten, geringere Kosten und mehr Transparenz: Blockchain kann Transfers beschleunigen, kleineren Clubs helfen und FFP-Kontrollen vereinfachen."
 ---
