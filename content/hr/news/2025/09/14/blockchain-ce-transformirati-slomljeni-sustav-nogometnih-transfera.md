@@ -6,8 +6,8 @@ category: "ai"
 translationKey: "ebf7e3b5dcddab79f115605968f32d71"
 source: "Cointelegraph (op-ed)"
 source_url: "https://cointelegraph.com/news/blockchain-football-transfer-system"
-image_url: "https://unsplash.com/photos/birds-eye-view-photography-of-green-soccer-field-with-lights-K5ChxJaheKI"
-image_alt: "Nogometni teren pod reflektorima iz zraka"
+image_url: "/images/football.jpg"
+image_alt: "Floodlit football pitch viewed from above"
 tags: ["ai","blockchain","football","transfers","stablecoin","ffp"]
 summary: "Brža namira, niži troškovi i veća transparentnost: blockchain bi mogao pojednostaviti transfere, pomoći manjim klubovima i olakšati kontrolu financial fair playa."
 ---
