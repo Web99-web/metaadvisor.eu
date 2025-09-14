@@ -91,3 +91,6 @@ mapping:
   shiba:        [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg, shiba-inu.png]
   "shiba inu":  [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg, shiba-inu.png]
   shibarium:    [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg]
+
+  # --- Tesla / Elon / Musk ---
+  tesla:        [tesla.jpg]
