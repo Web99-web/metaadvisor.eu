@@ -13,13 +13,13 @@ summary: "Capital Group je od ~1 mlrd $ izloženosti u ‘Bitcoin trezorskim’ 
 ---
 
 **Što se dogodilo**  
-**Capital Group**, jedan od najpoznatijih svjetskih upravitelja fondova, pretvorila je **oko 1 mlrd $** početne oklade na tzv. **Bitcoin trezorske dionice** u **više od 6 mlrd $** izloženosti. Najveći dio dolazi iz značajnog udjela u **Strategy** (bivši MicroStrategy) te udjela u **Metaplanetu**; izloženost je gradila zadnje četiri godine kako su se te dionice snažno uzdizale. :contentReference[oaicite:0]{index=0}
+**Capital Group**, jedan od najpoznatijih svjetskih upravitelja fondova, od početne izloženosti od oko **1 mlrd $** u tzv. **Bitcoin trezorske dionice** narasla je na **više od 6 mlrd $**. Najveći dio dolazi iz značajnog udjela u **Strategy** (bivši MicroStrategy) te udjela u **Metaplanetu**, akumuliranih tijekom posljednjih nekoliko godina kako su te dionice snažno rasle.
 
 **Tko stoji iza poteza**  
-Potez predvodi dugogodišnji portfelj-menadžer **Mark Casey**, koji Bitcoin promatra kao **komoditet** (slično zlatu/nafti) i kroz tu leću vrednuje kompanije koje ga drže u bilanci. Neovisni izvori već su bilježili da je udio u Strategyju sam po sebi **prešao 6 mlrd $** vrijednosti. :contentReference[oaicite:1]{index=1}
+Potez predvodi dugogodišnji portfelj-menadžer **Mark Casey**, koji Bitcoin promatra kroz leću **komoditeta** i analogije sa zlatom/naftom. Na toj logici gradi se teza za ulaganje u kompanije koje **drže BTC na bilanci** i time postaju posredna izloženost Bitcoinu.
 
 **Zašto je bitno**  
-Val institucionalne potražnje širi se preko **„Bitcoin trezora“** (javne tvrtke koje akumuliraju BTC na bilanci), ali nosi i **rizike koncentracije** — primjer je nedavna odluka **S&P Dow Jones Indices** da **ne uključi** tvrtku „formerly MicroStrategy“ u S&P 500, što pokazuje zadršku indeksa prema firmama koje funkcioniraju kao proxy za BTC. :contentReference[oaicite:2]{index=2}
+Institucionalna potražnja širi se i preko **„Bitcoin trezora“** (javne tvrtke s BTC-om u bilanci), ali takva strategija nosi **rizik koncentracije** i ovisnosti o jednome imenu (Strategy). Uz to, **indeksni odbori** često su oprezni prema tvrtkama koje funkcioniraju kao **proxy za BTC**, što može utjecati na ulazak/izlazak iz velikih indeksa.
 
 ## Naš osvrt
-Ovo je **signal zrelosti**: ulagači s dugim horizontom ulaze preko dionica koje gomilaju BTC. No, **uspjeh ovisi o cijeni Bitcoina** i regulatornom tonu; rizik je i **ovisnost o jednoj dionici** (Strategy). Za balans: kombinirati direktnu BTC izloženost (ETF/spot) i ograničen udio „trezorskih“ dionica, pratiti **FOMC**, tokove u **ETF-ove** i stav indeksa prema ovakvim kompanijama.
+Ovo je **signal zrelosti**: dugoročni kapital prihvaća BTC i kroz **trezorske dionice**. Ipak, ključni su **cijena Bitcoina**, **regulatorni ton** i **upravljanje rizikom koncentracije**. Razuman pristup je **miješati** izravnu izloženost (spot/ETF) s **ograničenim udjelom** takvih dionica te pratiti **FOMC**, priljeve u **ETF-ove** i stavove **indeksnih odbora**.
