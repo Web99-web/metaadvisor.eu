@@ -1,11 +1,11 @@
 mapping:
   # --- BTC ---
-  bitcoin: [btc.jpg, btc1.jpg, "coin btc.jpg", btc.png, btc-eth1.jpg]
-  btc:     [btc.jpg, btc1.jpg, btc.png, btc-coini.jpg, bitcon-down.jpg, btc-bitcoin-gold.jpg, btc-eth1.jpg]
+  bitcoin: [btc.jpg, btc1.jpg, "coin btc.jpg", btc.png, btc-eth1.jpg, etc-btc-manja.jpg]
+  btc:     [btc.jpg, btc1.jpg, btc.png, btc-coini.jpg, bitcon-down.jpg, btc-bitcoin-gold.jpg, btc-eth1.jpg, etc-btc-manja.jpg]
 
   # --- ETH ---
-  ethereum: [eth.jpg, eth1.jpg, eth-small.jpg, eth-up.jpg, eth-down.jpg, eth.png, btc-eth1.jpg]
-  eth:      [eth.jpg, eth1.jpg, eth-small.jpg, btc-eth1.jpg]
+  ethereum: [eth.jpg, eth1.jpg, eth-small.jpg, eth-up.jpg, eth-down.jpg, eth.png, btc-eth1.jpg, etc-btc-manja.jpg]
+  eth:      [eth.jpg, eth1.jpg, eth-small.jpg, btc-eth1.jpg, etc-btc-manja.jpg]
 
   # --- SOL/ DOT / LINK / itd. (primjeri) ---
   solana:   [solana.jpg, solana1.jpg, solana-sol.png]
