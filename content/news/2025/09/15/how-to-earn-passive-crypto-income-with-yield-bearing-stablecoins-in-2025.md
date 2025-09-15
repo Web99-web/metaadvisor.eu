@@ -6,7 +6,7 @@ category: "crypto"
 translationKey: "d09686a41b45d220c3f6822d040a6245"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-to-earn-passive-crypto-income-with-yield-bearing-stablecoins-in-2025"
-image_url: ""
+image_url: "/images/btc1 (2).jpg"
 image_alt: "Stablecoins and passive income"
 tags: ["stablecoin","passive-income","defi","tax","regulation"]
 summary: "Yield-bearing stablecoins can deliver on-chain income in 2025, but they come with regulatory, tax and operational risks — from T-bill wrappers and DeFi savings tokens to synthetic dollar models."
