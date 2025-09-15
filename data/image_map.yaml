@@ -76,9 +76,9 @@ mapping:
   iphone:       [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, iphone5.jpg, iphone6.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   iphones:      [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, iphone5.jpg, iphone6.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   apple:        [iphone.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg]
-  smartphone:   [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  smartphone:   [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-neutral.jpg, mobile-phone-man.jpg, mobile-phone-ruke.jpg, mobile-phone-down.jpg, mobile-phone-crni.jpg]
   smartphones:  [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, iphone5.jpg, iphone6.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
-  phone:        [iphone.jpg, iphone2.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  phone:        [iphone.jpg, iphone2.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-neutral.jpg, mobile-phone-man.jpg, mobile-phone-ruke.jpg, mobile-phone-down.jpg, mobile-phone-crni.jpg]
   phones:       [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, iphone5.jpg, iphone6.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
 
     # --- MEMECOINS (lokalne nove slike) ---
