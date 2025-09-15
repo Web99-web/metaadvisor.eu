@@ -1,35 +1,41 @@
 ---
-title: "Britanske kripto udruge kritiziraju Bank of England zbog limitiranja stablecoina"
-slug: "britanske-kripto-udruge-kritiziraju-boe-za-limitiranje-stablecoina"
+title: "Britanske kripto udruge kritiziraju Bank of England (BOE) zbog limitiranja stablecoina"
+slug: "britanske-kripto-udruge-kritiziraju-bank-of-england-BOE-za-limitiranje-stablecoina"
 date: 2025-09-15T06:27:49Z
 category: "crypto"
 translationKey: "de4017bd114aa0ad450ca3bfb0d00416"
-source: "CoinDesk (poziv na FT izvještaj)"
+source: "Financial Times (via CoinDesk)"
 source_url: "https://www.coindesk.com/policy/2025/09/15/bank-of-england-s-proposed-stablecoin-ownership-limits-are-unworkable-says-crypto-group"
 image_url: "/images/btc-eth1.jpg"
-image_alt: "Bitcoin i Ether — ilustracija za stabilne kriptovalute"
+image_alt: "Bitcoin i Ether — ilustracija u kontekstu stablecoina"
 tags: ["crypto","policy","stablecoin","uk"]
-summary: "BoE razmatra plafone posjedovanja za ‘sistemske’ stablecoine — £10k–£20k po osobi i ~£10m za tvrtke. Industrija upozorava da je model neprovediv i stroži od SAD-a/EU-a."
+summary: "BOE razmatra plafone posjedovanja ‘sistemskih’ stablecoina: £10–20k po osobi i oko £10m za tvrtke. Industrija (Coinbase, UKCBC, The Payments Association) kritizira plan kao neprovediv i stroži od pristupa SAD-a/EU-a."
 ---
 
-**Što se predlaže**  
-Prema FT-u, **Bank of England (BoE)** razmatra **ograničenja posjedovanja** za „sistemske” stablecoine: **£10.000–£20.000 po osobi** te oko **£10 milijuna** za tvrtke. Argument BoE-a: spriječiti odljeve depozita iz banaka i čuvati financijsku stabilnost.
+**Što je objavljeno**  
+Prema **Financial Timesu**, **Bank of England (BOE)** razmatra **ograničenja posjedovanja** za „sistemske” stablecoine: **£10–20 tisuća po osobi** te oko **£10 milijuna** za poslovne subjekte. Cilj je ograničiti **odljeve bankovnih depozita** i očuvati **financijsku stabilnost**; BOE mjeri opisuje kao potencijalno **tranzicijske**.
 
-**Zašto se industrija buni**  
-Udruge i kompanije iz sektora plaćanja i kripta tvrde da su **kvantitativni plafoni neprovedivi** i **protu-inovacijski** te da **SAD/EU** trenutačno **ne uvode per-user/per-firm limite**, nego se fokusiraju na **licenciranje izdavatelja, rezerve i otkupe**.
+**Tko što kaže (imenom i prezimenom)**  
+- **Sasha Mills** (BOE, izvršna direktorica za FMI) kaže da bi limiti **ublažili rizike** naglih povlačenja depozita i **skaliranja** novih sistemskih platnih sustava.  
+- **Tom Duff Gordon** (**Coinbase**, VP međunarodne politike): plafoni su „**loši za štediše, loši za City i loši za funtu**”; tvrdi da **niti jedna velika jurisdikcija** nema takve kvantitativne limite.  
+- **Simon Jennings** (**UK Cryptoasset Business Council**) upozorava da je **provedba gotovo nemoguća** bez **digitalnog identiteta**.  
+- **Riccardo Tordera-Ricchi** (**The Payments Association**): limiti **„nemaju smisla”** jer **nema plafona** za **gotovinu** ni **bankovne račune**.
+
+**Usporedba okvira**  
+**SAD (GENIUS Act)** i **EU (MiCA)** fokusiraju se na **licenciranje izdavatelja, rezerve, otkupe i nadzor** — **bez** per-user/per-firm **količinskih limita**.
 
 ## Naš osvrt
-Ovo je, bez uljepšavanja, **šokantan prijedlog**. Limit od **£10–20 tisuća** po osobi je de facto **„džeparac”** za velik broj građana s boljim primanjima — i potpuno je **neprimjeren za poslovne potrebe** (plaće, dobavljači, trezorsko upravljanje). Nekoliko problema iskače odmah:
+Ovo je, bez uvijanja, **šokantan prijedlog**. Limit od **£10–20 tisuća** po osobi za mnoge je **„džeparac”**, a **£10 milijuna** je **nedostatno** za normalan **B2B cash-management** (plaće, dobavljači, trezor). Ključni problemi:
 
-- **Nedostatak tehnološke neutralnosti:** Zašto bi „digitalna gotovina” imala **strože plafone** od **gotovine** ili **bankovnih depozita**? To je **regulatorni outlier** koji šalje poruku nesigurnosti tržištu.
-- **Provedivost i zaobilaženje:** Bez **digitalnog identiteta** i unificiranih registara teško je spriječiti **rascjepkavanje** imovine preko više novčanika/izdavatelja. Praksa će otići **offshore**, a UK će izgubiti nadzor — suprotno cilju stabilnosti.
-- **Paradoks stabilnosti:** Statični plafoni usred tržišnog stresa mogu **zaključati isplate** baš kad su najpotrebnije, gurajući korisnike u **riskantnije kanale** i **povećavajući** sistemski rizik.
-- **Konkurentnost UK-a:** Britanija koja je nekoć bila **predvodnik globalnih financija** ne bi smjela građane i biznise svoditi na **„pocket money”**. Time se inovacija i kapital sele u jurisdikcije koje nude **jasna pravila bez količinskih limita**.
+- **Tehnološka neutralnost (pada na testu):** Zašto bi „digitalna gotovina” imala **strože plafone** od **gotovine** ili **depozita**? Takav asimetričan tretman čini UK **regulatornim outlierom** i šalje poruku nesigurnosti.  
+- **Provedivost & zaobilaženje:** Bez **digitalnog ID-a** i centralnih registara, korisnici mogu **rascjepkati** imovinu preko više novčanika/izdavatelja. Aktivnost odlazi **offshore**, a nadzor je **slabiji** — kontra cilju stabilnosti.  
+- **Paradoks stabilnosti:** Tvrdi plafoni u stresu mogu **zadržati sredstva** baš kad trebaju cirkulirati, gurajući korisnike u **riskantnije kanale** i **povećavajući** sistemski rizik.  
+- **Konkurentnost UK-a:** Financijski centar s globalnim ambicijama ne bi smio građane i biznise **svoditi na „pocket money”**. Kapital i talent vrlo lako **sele** u jurisdikcije s **jasnim pravilima bez količinskih ograničenja**.
 
-**Konstruktivni put naprijed (bez „džeparca”)**  
-- **Rizikom vođeni okvir**: stroge **rezerve, likvidnost i otkupi** na razini izdavatelja; **stres-testovi** i **real-time nadzor** tokova, umjesto plafona po korisniku.  
-- **Privremene mjere samo uz „sunset clause”**: ako tranzicijski limiti baš moraju postojati, neka budu **kratki, jasni i vremenski ograničeni** (npr. 6–12 mj.) uz transparentne kriterije ukidanja.  
-- **Izuzeci za realni sektor**: **carve-out** za **plaćanja plaća, dobavljača i trezorske potrebe** reguliranih poduzeća i institucija plaćanja.  
-- **Jednaka pravila za jednake rizike**: isti tretman **e-novca/stablecoina** i tradicionalnih bezgotovinskih sredstava kada su **rizici objektivno usporedivi**.
+**Konstruktivan put (bez “džeparac” plafona):**  
+- **Rizikom vođen okvir za izdavatelje:** čvrste **rezerve, likvidnost, otkupi**, **stres-testovi** i **near-real-time nadzor** — umjesto user-capova.  
+- **Prijelazne mjere samo uz „sunset clause”:** ako baš moraju postojati, neka budu **kratke (6–12 mj.)**, **mjerljive** i **automatski ukinute** kad se ispune kriteriji.  
+- **Izuzeci za realni sektor:** **carve-out** za **plaće, dobavljače i trezor** u reguliranim poduzećima/PSP-ovima.  
+- **„Isti rizik, ista pravila”:** **e-novac/stablecoini** i tradicionalna bezgotovinska sredstva trebaju **isto** postupanje kad su **rizici usporedivi**.
 
-Poanta: Ako je cilj **stabilnost**, **povjerenje** i **privlačenje investicija**, BoE bi trebao **utvrditi čvrsta pravila za izdavatelje i infrastrukturu**, a ne limitirati građane i tvrtke na iznose koji u praksi liče na **ograničenje slobode raspolaganja vlastitim novcem**.
+Ako su cilj **stabilnost, povjerenje i konkurentnost**, BOE bi trebao **tvrdo regulirati izdavatelje i infrastrukturu**, a ne **vezati ruke korisnicima i tvrtkama** količinskim limitima.
