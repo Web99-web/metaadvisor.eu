@@ -6,7 +6,7 @@ category: "crypto"
 translationKey: "d09686a41b45d220c3f6822d040a6245"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-to-earn-passive-crypto-income-with-yield-bearing-stablecoins-in-2025"
-image_url: ""
+image_url: "/images/btc1 (2).jpg"
 image_alt: "Stablecoins und passives Einkommen"
 tags: ["stablecoin","passives-einkommen","defi","steuern","regulierung"]
 summary: "Verzinsliche Stablecoins bieten 2025 on-chain Erträge, bringen aber auch regulatorische, steuerliche und operative Risiken mit sich – von T-Bills/ Geldmarktfonds über DeFi-Wrapper bis hin zu synthetischen Dollar-Modellen."
