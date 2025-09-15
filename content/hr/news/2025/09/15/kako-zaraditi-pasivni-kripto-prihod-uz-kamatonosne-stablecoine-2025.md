@@ -6,7 +6,7 @@ category: "crypto"
 translationKey: "d09686a41b45d220c3f6822d040a6245"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-to-earn-passive-crypto-income-with-yield-bearing-stablecoins-in-2025"
-image_url: ""
+image_url: "/images/btc1 (2).jpg"
 image_alt: "Stablecoini i pasivan prihod"
 tags: ["stablecoin","pasivan-prihod","defi","porezi","regulativa"]
 summary: "Kamatonosni stablecoini u 2025. nude pasivan prihod na lancu, ali uz jasne regulatorne, porezne i operativne rizike: od modela prinosa (riznica/DeFi/sintetika) do ograničenja pristupa u SAD-u i EU."
