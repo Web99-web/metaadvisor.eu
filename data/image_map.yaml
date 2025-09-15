@@ -44,7 +44,7 @@ mapping:
   market: [stock-market-dionice.jpg, grafikon.jpg]
   chart: [financial-chart.jpg, grafikon.jpg]
   finance: [finance.jpg, finance1.jpg, fallback-finance.jpg]
-  economy: [grafikon.jpg, grafikon1.jpg, grafikon-vec2.jpg]
+  economy: [grafikon.jpg, grafikon1.jpg, grafikon-vec2.jpg, grafikon-manji2.jpg]
   money: [money.jpg]
   gold: [gold.jpg, gold1.jpg]
   "wall street": [wall-street-manja.jpg]
