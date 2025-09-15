@@ -29,6 +29,9 @@ mapping:
   aave: [aave.png]
   injective: [injective-inj.png]
   wifi: [wifi.png]
+  rune: [thorchain-rune-logo.png]
+  thor: [thorchain-rune-logo.png]
+  thorchain: [thorchain-rune-logo.png]
   
   # --- AI / TECH ---
   ai: [ai.jpg, ai1.jpg, ai-manja.jpg]
