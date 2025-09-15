@@ -32,4 +32,23 @@ Back then almost nobody kept **books**. Today, proving basis from 2010, moves be
 ---
 
 ## Mini what-if (everyone’s favorite — handle with care)
-Say you somehow bought **$1** at **$0.05/BTC** in August 2010 ⇒ **20 BTC**. At **~$115k/BTC** that’s
+Say you somehow bought **$1** at **$0.05/BTC** in August 2010 ⇒ **20 BTC**. At **~$115k/BTC** that’s **~$2.3M gross**. Now subtract: **fees/spreads**, **exchange risk**, **taxes**, and the high probability you **sold much earlier**. Mathematically possible — **statistically & humanly**: rare.
+
+---
+
+## What this story is actually good for
+It’s a reminder of three uncomfortable truths:
+
+- **Infrastructure & custody matter most** — tiny technicalities can vaporize returns.  
+- **Behavior beats spreadsheets** — your **nervous system** is the main risk.  
+- **Wealth isn’t a formula** but a chain of choices about **security, patience and discipline**.
+
+## Our take
+You don’t need a **time machine**. Ditch “if only I’d bought in 2010” and build a **plan for today**:
+1) **Protect keys** (hardware wallet, seed backup, recovery test).  
+2) Remove **single points of failure** (don’t park everything on one exchange; use self-custody where it makes sense).  
+3) **Pre-commit behavior** (DCA, position caps, pre-set take-profit/no-panic-sell rules).  
+4) **Expect volatility** (70–90% drawdowns are historically normal; your strategy should assume them).  
+5) **Paperwork before profit** (tax, basis, proof of ownership — squared away before it’s big).
+
+Bottom line: the legend is pretty; real millions come from **discipline and custody**, not from a perfectly timed $1.
