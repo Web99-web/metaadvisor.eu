@@ -32,7 +32,9 @@ Startup ističe da je gradio **dobavljački lanac i infrastrukturu** za brzo lan
 ---
 
 **Naš osvrt (Metaadvisor):**
-- “AI-first” ima smisla samo uz **konkretne on-device funkcije** (kontekstualni asistent, transkripcija uživo, privatni sažeci, multimodalno pretraživanje) i **jasne metrike** (brzina, privatnost, ušteda baterije).  
-- Ulaganje **Qualcomm Venturesa** sugerira dublju integraciju s **NPU/AI akceleratorima**; to može biti stvarna diferencijacija naspram velikih brendova.  
-- **Supply-chain spremnost** koju ističu smanjuje rizik “papirnatih lansiranja”, ali pritisak na **marže** ostaje visok u mid-premium segmentu.  
-- **Community round** je dobar za angažman fanova, no traži **transparentan roadmap** i jasne isporuke da očekivanja ne nadmaše realnost.
+- **Snažan signal povjerenja:** runda koju vodi Tiger Global, uz sudjelovanje Qualcomm Venturesa i renomiranih fondova, potvrđuje kvalitetu tima i strateški smjer.
+- **AI-first + dizajn = diferencijacija:** Nothing već ima prepoznatljiv dizajn; uz on-device AI funkcije mogu ponuditi najprivlačnije Android iskustvo u svom rangu.
+- **Izvedbena spremnost:** >1 mlrd. $ kumulativne prodaje i izgrađen globalni supply chain daju realnu podlogu za brzo lansiranje i skaliranje.
+- **Snaga zajednice:** najavljeni community round gradi bazu ambasadora brenda i pojačava organski doseg bez velikih marketinških troškova.
+- **Ako isporuče cijenu i podršku softvera (ažuriranja, sigurnost),** Nothing može dodatno ubrzati rast i zauzeti čvrst položaj u mid-premium segmentu.
+
