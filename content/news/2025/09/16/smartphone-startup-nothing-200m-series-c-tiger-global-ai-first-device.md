@@ -29,10 +29,10 @@ Nothing adds that it has built the **supply chain and infrastructure** to launch
 
 ---
 
-**Our take (Metaadvisor):**
-- **Strong vote of confidence:** a Tiger-Global-led round with Qualcomm Ventures and top funds validates the team and strategy.
-- **AI-first + design = differentiation:** Nothing’s signature design, paired with true on-device AI, can deliver the most compelling Android experience in its tier.
-- **Execution readiness:** $1B+ cumulative sales and a built-out global supply chain support fast launches and scalable growth.
-- **Community flywheel:** the upcoming community round deepens advocacy and boosts organic reach with lean marketing spend.
-- **With competitive pricing and long-term software support,** Nothing is well-positioned to accelerate growth and secure share in the mid-premium segment.
+**Unser Kommentar (Metaadvisor):**
+- **Starkes Vertrauenssignal:** Eine von Tiger Global geführte Runde – mit Qualcomm Ventures und Top-Fonds – unterstreicht Teamqualität und Strategie.
+- **AI-first + Design = Differenzierung:** Nothings ikonische Designs, kombiniert mit On-Device-AI, können das attraktivste Android-Erlebnis seiner Klasse liefern.
+- **Umsetzungskraft:** >1 Mrd. $ kumulierter Umsatz und eine aufgebaute globale Lieferkette sprechen für schnelle Launches und skalierbares Wachstum.
+- **Community-Hebel:** Die geplante Community-Runde stärkt Markenbotschafter und erhöht organische Reichweite bei schlanken Marketingkosten.
+- **Mit wettbewerbsfähigem Preis und langfristiger Update-Politik** hat Nothing gute Chancen, den Mid-Premium-Bereich weiter zu erobern.
 
