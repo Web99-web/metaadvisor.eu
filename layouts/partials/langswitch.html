@@ -1,0 +1,36 @@
+{{/* layouts/partials/langswitch.html */}}
+{{- if gt (len $.Site.Languages) 1 -}}
+  {{- $curr := . -}}
+
+  {{- /* lang -> url za istu priču (uklj. current) */ -}}
+  {{- $links := dict -}}
+  {{- range $curr.AllTranslations }}
+    {{- $links = merge $links (dict .Lang .RelPermalink) -}}
+  {{- end -}}
+  {{- $links = merge $links (dict $curr.Lang $curr.RelPermalink) -}}
+
+  {{- /* lang -> home url (fallback) */ -}}
+  {{- $homes := dict -}}
+  {{- range $.Sites }}
+    {{- $homes = merge $homes (dict .Language.Lang .Home.RelPermalink) -}}
+  {{- end -}}
+
+  <div class="lang-switch"
+       style="position:sticky;top:0;z-index:1000;
+              background:rgba(255,255,255,.88);
+              -webkit-backdrop-filter:saturate(140%) blur(8px);
+              backdrop-filter:saturate(140%) blur(8px);
+              border-bottom:1px solid rgba(0,0,0,.06);
+              padding:8px 12px;">
+    {{- range $.Sites }}
+      {{- $lang := .Language.Lang -}}
+      {{- $href := (index $links $lang) | default (index $homes $lang) -}}
+      <a class="lang {{ if eq $lang $curr.Lang }}active{{ end }}" href="{{ $href }}">
+        <span class="flag">
+          {{- if eq $lang "en" -}}🇬🇧{{- else if eq $lang "de" -}}🇩🇪{{- else if eq $lang "hr" -}}🇭🇷{{- end -}}
+        </span>
+        {{ upper $lang }}
+      </a>
+    {{- end -}}
+  </div>
+{{- end -}}
