@@ -9,6 +9,7 @@ source_url: "https://cointelegraph.com/news/undp-open-goverment-blockchain-acade
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
 image_url: "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg"
+featured_image: "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg"
 image_alt: "Flags of UN member states at the United Nations Office in Geneva"
 image_credit: "Pexels"
 tags: ["crypto","blockchain","UN","UNDP","education","public-sector","regulation","policy","regtech","web3","AML/CFT","analysis","translation"]
