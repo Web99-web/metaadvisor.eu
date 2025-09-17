@@ -1,7 +1,7 @@
 ---
 title: "Metaplanet širi BTC strategiju: američki i japanski ogranak te domena Bitcoin.jp"
 slug: "metaplanet-siri-btc-strategiju-us-japan-bitcoin-jp"
-date: 2025-09-17T10:45:00Z
+date: 2025-09-17T12:59:59Z
 category: "crypto"
 translationKey: "metaplanet-btc-strategy-2025-09-17"
 source: "Metaadvisor analysis"
@@ -15,6 +15,10 @@ image_alt: "Bitcoin (BTC) — strategija Metaplaneta"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitcoin","metaplanet","treasury","btc-income","miami","japan","bitcoin.jp","media","events","metaadvisor"]
 summary: "Japanski Metaplanet otvara dva nova ogranka — u Miamiju i Tokiju — i preuzima domenu Bitcoin.jp. Ideja: odvojiti ‘BTC trezor’ od prihoda temeljenih na bitcoinu te istodobno graditi domaći medijski i događajni ekosustav."
+# Pin & ordering helpers
+pinned: true
+weight: -1000
+importance: 100
 ---
 
 Metaplanet, japanska kompanija koja je posljednjih godinu dana svoje poslovanje okrenula prema **bitcoin trezoru**, napravila je tri poteza u istom danu: otvorila je **Metaplanet Income Corp. u Miamiju** (fokus na **prihod od bitcoina** i izvedenice), pokrenula **Bitcoin Japan Inc.** u Tokiju (fokus na **medije i događaje**) te kupila domenu **Bitcoin.jp** kao nacionalni “landing” za svoj sadržaj i zajednicu.
