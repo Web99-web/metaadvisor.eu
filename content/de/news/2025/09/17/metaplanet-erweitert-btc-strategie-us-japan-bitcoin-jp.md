@@ -1,7 +1,7 @@
 ---
 title: "Metaplanet erweitert seine BTC-Strategie: US- und Japan-Tochter sowie die Domain Bitcoin.jp"
 slug: "metaplanet-erweitert-btc-strategie-us-japan-bitcoin-jp"
-date: 2025-09-17T10:45:00Z
+date: 2025-09-17T12:59:59Z
 category: "crypto"
 translationKey: "metaplanet-btc-strategy-2025-09-17"
 source: "Metaadvisor analysis"
@@ -15,6 +15,9 @@ image_alt: "Bitcoin (BTC) — Metaplanet-Strategie"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["crypto","bitcoin","metaplanet","treasury","btc-income","miami","japan","bitcoin.jp","media","events","metaadvisor"]
 summary: "Metaplanet gründet eine Income-Tochter in Miami, baut in Tokio ‘Bitcoin Japan Inc.’ für Medien & Events auf und übernimmt die Domain Bitcoin.jp. Ziel: Treasury und BTC-Einnahmen trennen und gleichzeitig das heimische Ökosystem ausbauen."
+pinned: true
+weight: -1000
+importance: 100
 ---
 
 Der japanische Bitcoin-Treasury-Akteur **Metaplanet** hat an einem Tag drei Moves gesetzt: **Metaplanet Income Corp.** in **Miami** (Fokus **BTC-Einnahmen** und Derivate), **Bitcoin Japan Inc.** in **Tokio** (Fokus **Medien & Events**) und die Übernahme der Domain **Bitcoin.jp** als nationales Sprungbrett für Inhalte und Community.
