@@ -1,9 +1,9 @@
-name: Build & Deploy (Hugo → Netlify)
+name: Build & Deploy (Hugo → Netlify, CLI)
 
 on:
   push:
-    branches: [ main ]        # automatski na svaki push u main
-  workflow_dispatch: {}       # i ručno pokretanje
+    branches: [ main ]          # auto deploy na svaki push u main
+  workflow_dispatch: {}         # i ručno pokretanje
 
 permissions:
   contents: read
@@ -29,12 +29,17 @@ jobs:
       - name: Build site
         run: hugo --minify
 
-
-      - name: Deploy to Netlify (no Netlify build minutes)
-        uses: netlify/actions/cli@v4
+      # Netlify CLI preko npm – stabilno, bez ovisnosti o action tagu
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          args: deploy --dir=public --prod --message "GitHub Actions ${{ github.sha }}"
+          node-version: '20'
+
+      - name: Install Netlify CLI
+        run: npm i -g netlify-cli
+
+      - name: Deploy to Netlify (prod)
+        run: netlify deploy --dir=public --prod --message "GitHub Actions $GITHUB_SHA"
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID:    ${{ secrets.NETLIFY_SITE_ID }}
-
