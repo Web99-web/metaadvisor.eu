@@ -1,29 +1,19 @@
-name: Build & Deploy (Hugo → GitHub Pages)
+name: Build & Deploy (Hugo → Netlify)
 
 on:
-  workflow_dispatch: {}            # ručno pokretanje
   push:
-    branches: [ main ]             # automatski na push u main (ako želiš)
-    paths:
-      - 'content/**'
-      - 'layouts/**'
-      - 'static/**'
-      - 'assets/**'
-      - 'data/**'
-      - 'config/**'
-      - 'config.*'
+    branches: [ main ]        # automatski na svaki push u main
+  workflow_dispatch: {}       # i ručno pokretanje
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: 'pages'
+  group: "deploy"
   cancel-in-progress: true
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -31,8 +21,7 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+      - uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.128.0'
           extended: true
@@ -40,18 +29,10 @@ jobs:
       - name: Build site
         run: hugo --minify
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy to Netlify (no Netlify build minutes)
+        uses: netlify/actions/cli@v2
         with:
-          path: ./public
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          args: deploy --dir=public --prod --message "GitHub Actions ${{ github.sha }}"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID:    ${{ secrets.NETLIFY_SITE_ID }}
