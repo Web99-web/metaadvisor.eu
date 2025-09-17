@@ -29,10 +29,12 @@ jobs:
       - name: Build site
         run: hugo --minify
 
+
       - name: Deploy to Netlify (no Netlify build minutes)
-        uses: netlify/actions/cli@v2
+        uses: netlify/actions/cli@v4
         with:
           args: deploy --dir=public --prod --message "GitHub Actions ${{ github.sha }}"
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID:    ${{ secrets.NETLIFY_SITE_ID }}
+
