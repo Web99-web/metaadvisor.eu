@@ -105,6 +105,7 @@ mapping:
   security:    [fallback-security.jpg, fallback-security2.jpg]
   haker:       [fallback-security.jpg, fallback-security2.jpg]
   spy:         [fallback-security.jpg, fallback-security2.jpg]
+  robot:       [robot.jpg]
 
   # --- Razno / svijet / all ---
   football:    [football.jpg]
