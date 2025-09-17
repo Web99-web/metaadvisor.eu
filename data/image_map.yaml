@@ -35,12 +35,13 @@ mapping:
   thorchain: [thorchain-rune-logo.png]
   
   # --- AI / TECH ---
-  ai: [ai.jpg, ai1.jpg, ai-manja.jpg]
+  ai: [ai.jpg, ai1.jpg, ai-manja.jpg, ai2.jpg]
   "artificial intelligence": [ai.jpg, ai1.jpg]
   mobile: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg]
   google: [Google.png]
   meta: [MetaAdvisor.png]
+  chatgpt: [chatgpt.jpg, chatgpt1.jpg]
 
   # --- FINANCIJE / TRŽIŠTA / GOSPODARSTVO ---
   stock: [stock-market-dionice.jpg, stock-market-dionice1.jpg, financial-chart.jpg, grafikon.jpg, btc-finance.jpg]
