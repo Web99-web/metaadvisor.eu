@@ -25,4 +25,31 @@ Zašto su rezali? Rekli su da se **tržište rada hladi** (manje novih poslova, 
 ### Zašto su cijene prvo pale pa se vratile
 Kad je odluka objavljena, **algoritmi i trejderi** su se zaletjeli: sekundu gore, pa **nagli pad**, pa **povratak**. To je normalno kad tržište pokušava **pročitati ton**: je li ovo početak niza rezova, ili samo **oprezan potez**?
 
-- **Dionice:** završile su **mješovito** (
+- **Dionice:** završile su **mješovito** (dio indeksa blago dolje, dio gore).  
+- **Obveznice (prinosi)** i **dolar:** napravili su **“krug”** – prvo slabiji, pa opet jači.  
+- **Bitcoin i kripto:** klasični **“pop-and-drop”** – kratko gore, pa dolje, pa **smirivanje** iznad **$116k**.
+
+U prijevodu: tržište je čulo “**režemo**”, ali i “**polako i pažljivo**”. Nema slavlja, nema panike.
+
+### Što je Powell rekao na presici — jednostavno objašnjeno
+Novinari su pitali isto što i svi mi:
+
+- **Zašto ne 0,50%?** Jer **nema potrebe juriti**. Kaže, **veliki rezovi** su za situacije kad je **nešto hitno pošlo po zlu**.  
+- **Je li ovo početak dužeg rezanja?** **Možda.** Ovisit će o **novim brojkama** (inflacija, poslovi). Nema kalendara, ide se **“sastanak po sastanak”**.  
+- **Što s inflacijom?** I dalje je tu, ali **veći strah** im je da se **poslovi previše ohlade**. Zato **mali, oprezni rez**.  
+- **Je li netko tražio veći rez?** Da, **jedan** član je htio **0,50%**, ostali su bili za **0,25%**.
+
+Zamislite **termostat** u stanu: Fed ga sada **pomiče po jedan klik**, gleda kako soba reagira, pa tek onda sljedeći klik. Nema “na +5 odjednom”.
+
+### Što gledati dalje (i zašto to utječe na kripto)
+Ako **dolar oslabi** i **kamatni prinosi** polako klize dolje, **rizična imovina** (dionice, kripto) obično **lakše raste**. Ali da to potraje, trebat ćemo vidjeti **mekše podatke** (manje inflacije, bez sloma na tržištu rada). Dok to ne dobijemo crno na bijelo, trzaji su normalni.
+
+Za **Bitcoin** je ključna priča **likvidnost** (ima li “svježeg novca” koji kupuje spot, ne samo derivate) i **smjer dolara**. Ako dolar opet naglo **ojača**, kripto obično **zakoči**. Ako dolar **ostane slabiji**, **pomaže**.
+
+---
+
+### Naš osvrt (Metaadvisor) — bez žargona
+Ovo nije “računalno resetiranje” gospodarstva, nego **fino podešavanje**. Fed je rekao: **nećemo gušiti ekonomiju**, ali **nećemo ni slaviti prebrzo**. Zato je tržište plesalo lijevo-desno i tek se onda **smirilo**.
+
+Što to znači za vas?  
+Držite stvari **jednostavno**. Ako ulažete dugoročno, **ne trčite za svakom svijećom**. Ima smisla imati **temelj** (npr. dio BTC-a koji **ne dirate**) i **manji, likvidan dio** za reakcije kad stignu **stvarni podaci** (inflacija, poslovi). Trenutno smo u **“post-rez” fazi**, ali priču će i dalje pisati **brojke**, ne naslovi.
