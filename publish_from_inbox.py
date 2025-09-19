@@ -298,8 +298,8 @@ def get_hero_bytes(image_url, tags, title, body, seed: str):
 
 def write_single(lang: str, dt: datetime.datetime, title: str, body: str,
                  tkey: str, src: str, src_url: str, tags, aliases=None,
-                 our_take=None, priority: int = 0, image_url: str = ""):
-    """Piši SINGLE file: content/[lang/]news/YYYY/MM/DD/slug.md (bez bundlea/slika)."""
+                 our_take=None, priority: int = 0, image_url: str = "",
+                 publish_date_iso: str | None = None):  # NOVO
     slug_clean = url_slug(title)
     out_path = out_path_single(lang, dt, slug_clean)
     if out_path.exists():
@@ -312,6 +312,11 @@ def write_single(lang: str, dt: datetime.datetime, title: str, body: str,
         f'title: "{title}"',
         f'slug: "{slug_clean}"',
         f"date: {dt.strftime('%Y-%m-%dT%H:%M:%SZ')}",
+    ]
+    if publish_date_iso:
+        fm.append(f"publishDate: {publish_date_iso}")
+
+    fm += [
         'category: "news"',
         f'translationKey: "{tkey}"',
         f'source: "{src}"',
@@ -331,6 +336,7 @@ def write_single(lang: str, dt: datetime.datetime, title: str, body: str,
 
     out_path.write_text("\n".join(fm) + "\n\n" + (body or "") + "\n", encoding="utf-8")
     return out_path
+
 translator = Translator()
 
 def auto_translate(text: str, lang: str) -> str:
@@ -373,6 +379,20 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     else:
         dt = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
 
+    # Publish date — ako nije zadan u inboxu, objavi odmah (sada/UTC)
+    pub_val = post.get("publishDate")
+    if isinstance(pub_val, str):
+        try:
+            pub_dt = datetime.datetime.fromisoformat(pub_val.replace("Z","+00:00"))
+        except Exception:
+            pub_dt = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+    elif isinstance(pub_val, datetime.datetime):
+        pub_dt = pub_val if pub_val.tzinfo else pub_val.replace(tzinfo=datetime.timezone.utc)
+    else:
+        pub_dt = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+    pub_iso = pub_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
+
+    
     body_en   = clean_body(post.content)
     image_url = post.get("image_url","")
 
