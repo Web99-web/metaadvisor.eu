@@ -26,8 +26,10 @@ jobs:
           hugo-version: '0.128.0'
           extended: true
 
+
       - name: Build site
-        run: hugo --minify
+        run: hugo --gc --minify --buildFuture
+
 
       # Netlify CLI preko npm – stabilno, bez ovisnosti o action tagu
       - name: Setup Node.js
