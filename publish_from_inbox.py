@@ -427,7 +427,8 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     write_single(
         "en", dt, title_en, body_en or f"Read the full article: {src_url}",
         tkey, src, src_url, tags, aliases=en_aliases,
-        our_take=our_take, priority=prio, image_url=image_url_final
+        our_take=our_take, priority=prio, image_url=image_url_final,
+        publish_date_iso=pub_iso
     )
 
     # HR
@@ -440,7 +441,8 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
             aliases=[f"/hr/news/{old_segment}/"] if old_segment else None,
             our_take=auto_translate(our_take,"hr") if our_take else None,
             priority=prio,
-            image_url=image_url_final
+            image_url=image_url_final,
+            publish_date_iso=pub_iso
         )
 
     # DE
@@ -454,6 +456,7 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
             our_take=auto_translate(our_take,"de") if our_take else None,
             priority=prio,
             image_url=image_url_final
+            publish_date_iso=pub_iso
         )
 
     print(f"[publish] {inbox_file.name} → EN/HR/DE OK")
