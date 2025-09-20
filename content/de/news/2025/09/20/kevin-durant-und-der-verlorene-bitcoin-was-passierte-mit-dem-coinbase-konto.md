@@ -1,4 +1,3 @@
-
 ---
 title: "Kevin Durant und der ‘verlorene’ Bitcoin: Was passierte mit dem Coinbase-Konto?"
 slug: "kevin-durant-und-der-verlorene-bitcoin-was-passierte-mit-dem-coinbase-konto"
