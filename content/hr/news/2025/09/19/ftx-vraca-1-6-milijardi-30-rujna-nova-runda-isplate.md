@@ -34,7 +34,6 @@ Isplate kreću za kreditore koji su završili verifikaciju na FTX **claims** por
 ### Širi kontekst
 Rujanska distribucija nadovezuje se na ranije runde kojima je vraćeno **više od 6 mlrd $**. Postupak restrukturiranja ide za ciljem maksimiziranja povrata korisnicima jedne od najistaknutijih kripto-burzi čiji je kolaps **u studenom 2022.** produbio medvjeđe tržište. Osnivač **Sam Bankman-Fried** služi **25 godina** zatvora nakon osude za prevaru i zavjeru.
 
-> Napomena: Dio teksta o “Ethereum Fusaka upgradeu” iz izvornika očito pripada drugoj vijesti, pa je ovdje izostavljen radi točnosti i jasnoće.
 
 ---
 
