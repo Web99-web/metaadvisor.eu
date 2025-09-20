@@ -32,16 +32,20 @@ jobs:
 
 
       # Netlify CLI preko npm – stabilno, bez ovisnosti o action tagu
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
       - name: Install Netlify CLI
-        run: npm i -g netlify-cli
+        run: npm i -g netlify-cli # (po želji pinaj: npm i -g netlify-cli@17.36.2)
 
       - name: Deploy to Netlify (prod)
-        run: netlify deploy --dir=public --prod --message "GitHub Actions $GITHUB_SHA"
+        working-directory: public
+        run: netlify deploy --dir=. --prod --message "GitHub Actions $GITHUB_SHA"
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID:    ${{ secrets.NETLIFY_SITE_ID }}
+
+
