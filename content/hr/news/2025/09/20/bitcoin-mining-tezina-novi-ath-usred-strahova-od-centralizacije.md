@@ -5,9 +5,8 @@ date: 2025-09-20T17:06:42Z
 category: "crypto"
 translationKey: "6bcf01c4fb602183783162b0414b72e3"
 source: "Cointelegraph"
-source_url: "https://cointelegraph.com/news/bitcoin-mining-difficulty-all-time-high-centralization-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-author: "Cointelegraph"
-analysis_by: "Metaadvisor.eu"
+source_url: ""
+author: "Metaadvisor.eu"
 image_url: "/images/bitcoin-mining-simple.png"
 featured_image: "/images/bitcoin-mining-simple.png"
 image: "/images/bitcoin-mining-simple.png"
@@ -15,31 +14,30 @@ thumbnail: "/images/bitcoin-mining-simple.png"
 image_alt: "Simbolična ilustracija rudarenja Bitcoina"
 image_credit: "MetaAdvisor (simbolična grafika)"
 tags: ["crypto", "bitcoin", "mining", "difficulty", "hashrate", "pools", "centralizacija", "energetika"]
-summary: "Bitcoinova ‘težina’ rudarenja dosegla je novi povijesni maksimum (~142,3 T), dok hashrate prelazi 1 ZH/s. Rekordna računalna snaga otvara pitanje koncentracije ‘poolova’ i održivosti manjih rudara."
+summary: "Bitcoinova ‘težina’ rudarenja dosegnula je novi povijesni maksimum, uz rekordni hashrate. Rekordi pojačavaju sigurnost mreže, ali otvaraju pitanja o koncentraciji ‘poolova’ i održivosti malih rudara."
 ---
 
 *Slika je simbolična.*
 
-**Ukratko:** Bitcoinova **težina rudarenja** zabilježila je novi **ATH oko 142,3 T** nakon uzastopnih rekorda u kolovozu i rujnu, potaknuta priljevom nove računalne snage. Istodobno se **hashrate** kreće oko **1,1 ZH/s** (zettahasha u sekundi), što implicira najjaču sigurnosnu bazu u povijesti mreže. :contentReference[oaicite:0]{index=0}
+**Ukratko:** Težina rudarenja Bitcoina zabilježila je novi povijesni maksimum, dok mrežni hashrate ostaje u rekordnim zonama. To potvrđuje snagu sigurnosne ekonomije Bitcoina, ali istodobno pojačava natjecanje među rudarima i vraća u fokus rizik centralizacije.
 
-### Kako ‘težina’ funkcionira — i zašto skače
-Težina se automatski **re-kalibrira svaka 2.016 blokova** (≈14 dana) tako da se prosječno vrijeme bloka vrati prema **10 minuta**. Ako blokovi dolaze **prebrzo** (više hash-snage), protokol **podiže težinu**; obratno je kada hash-snage nestane. Današnji skok rezultat je masivnog **uvođenja novih ASIC-ova** i širenja industrijskih farmi. :contentReference[oaicite:1]{index=1}
+### Kako funkcionira prilagodba težine
+Svakih približno 14 dana (2.016 blokova) protokol automatski prilagođava težinu kako bi prosječno vrijeme bloka ostalo oko 10 minuta. Kada hash-snage ima više, blokovi dolaze brže pa težina raste; u suprotnom pada. Današnji rekordi uglavnom su posljedica uvođenja učinkovitijih ASIC uređaja i širenja industrijskih kapaciteta.
 
-### Brojke dana (slika stanja)
-- **Težina (ATH):** ~**142,3 T**; iduća prilagodba (procjena) cilja daljnje povećanje iznad **160 T** ako se trend nastavi. :contentReference[oaicite:2]{index=2}  
-- **Hashrate:** ~**1,1 ZH/s** na mrežnoj razini (tekući prosjek). :contentReference[oaicite:3]{index=3}
+### Trenutna slika
+- **Težina:** novo povijesno visoko, s izglednom daljnjom prilagodbom naviše ako se trend nastavi.  
+- **Hashrate:** na povijesno povišenim razinama, što povećava trošak mogućeg napada na mrežu.
 
-### Centralizacija: gdje su rizici
-**Rudarski ‘poolovi’** agregiraju individualne hashere kako bi **izgladili isplate**. No visoki **CAPEX/OPEX** (struja, hlađenje, operativa) guraju industriju prema **ekonomiji razmjera**, što podiže **koncentraciju**: vodeći ‘poolovi’ — **Foundry USA** i **AntPool**, uz **F2Pool/ViaBTC** — često drže **~60%+** ukupnih blokova (ovisno o 24h/7d prozoru). Povremeno kombinirani udio Foundry + AntPool **prilazi ili prelazi 50%**, što redovito pokreće rasprave o **decentralizaciji i upravljanju rizikom**. :contentReference[oaicite:4]{index=4}
+### Centralizacija: gdje nastaje pritisak
+Rudarski ‘poolovi’ pomažu u stabilizaciji isplata, ali agregiraju i pregovaračku moć. Visoki troškovi struje, hlađenja i operativa guraju industriju prema ekonomiji razmjera, pa nekoliko najvećih ‘poolova’ često drži većinski udio u novoisrudarenim blokovima. To otvara pitanja o otpornosti na koordinirane kvarove i o poticajima za manja, geografski disperzirana žarišta hash-snage.
 
-### Što to znači za rudare
-- **Marža pod pritiskom:** veća težina dijeli nagradu na više hash-snage → **pad hashpricea** (prihoda po hashu) ako cijena BTC-a i naknade ne porastu.  
-- **Tko preživljava:** operateri s **jeftinom/viškovnom energijom** (hidro, plinski „flare“, poticajni ugovori; npr. Teksas s **ERCOT** programima) te naprednim **upravljanjem opterećenjem**.  
-- **Tehnički odgovor:** modernizacija flotâ (efikasniji ASIC-i), **ugovori za energiju**, sudjelovanje u **response** programima mreže i **premještanje** prema povoljnijim lokacijama.
+### Posljedice za rudare
+- **Stisnute marže:** viša težina razrjeđuje prihode po hashu; bez rasta cijene BTC-a i naknada, hashprice pada.  
+- **Tko opstaje:** operateri s jeftinom ili upravljivom energijom (hidro, plinski „flare“, demand-response), modernim i učinkovitim ASIC flotama te ugovorima koji smanjuju volatilnost troškova.
 
-### Što to znači za mrežu
-Viši hashrate i težina znače **jači sigurnosni zid** — napad na mrežu postaje skuplji. Istodobno, **percepcija koncentracije** traži stalni nadzor: transparentni ‘pool’ modeli, **geografska i energetska diversifikacija** te **otvorena infrastruktura** smanjuju sistemski rizik.
+### Posljedice za mrežu
+Rastuća težina i hashrate povećavaju sigurnost, ali ekosustav mora paziti na raznolikost: otvorenije modele ‘poolova’, transparentne politike, geografsku i energetsku disperziju, te praćenje udjela najvećih aktera kao ranog indikatora rizika.
 
 ---
 
-**Naš osvrt (Metaadvisor):** Rekordna težina je dobar signal za **sigurnost**, ali zahtijeva zrelu industrijsku politiku kako decentralizacija ne bi postala kolateralna žrtva. Pratimo **udjele top ‘poolova’**, trend **hashpricea** i **trošak energije** kao glavne rane indikatore — a ne samo cijenu BTC-a.
+**Naš osvrt (Metaadvisor):** Rekordna težina je pozitivna za sigurnost, ali održiva decentralizacija traži industrijsku disciplinu i raznolikost izvora energije. Pratimo udjele najvećih ‘poolova’, trend hashpricea i trošak energije — to su rani signali rizika koje tržište često zanemari.
