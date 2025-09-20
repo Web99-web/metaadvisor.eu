@@ -33,6 +33,7 @@ mapping:
   rune: [thorchain-rune-logo.png]
   thor: [thorchain-rune-logo.png]
   thorchain: [thorchain-rune-logo.png]
+  myx: [myx-token.svg, myx-token-512.png]
   
   # --- AI / TECH ---
   ai: [ai.jpg, ai1.jpg, ai-manja.jpg, ai2.jpg]
