@@ -21,8 +21,8 @@ U.S. customer claims will receive 40% in the latest round, bringing their total 
 
 The September distribution follows earlier rounds that has returned over $6 billions to creditors, part of a process aimed at recovering assets to users of the once-prominent crypto exchange, which collapsed in November 2022 pushing the crypto industry into a deep bear market. Sam Bankman-Fried, the founder and CEO of the exchange, is currently serving a 25-year sentence after he was convicted of seven counts of fraud and conspiracy.
 
-Ethereum Developers Set Fusaka Upgrade for December, Ahead of  Blob Capacity Boosts
+Kevin Durant Recovers Bitcoin Bought at $650, Now Up Over 17,700%, After Nearly a Decade
 
-The rollout continues Ethereum’s scaling drive, following March’s Dencun blobs debut and May’s Pectra upgrade.
+The episode comes amid growing frustration among Coinbase users, many of whom alleged they’ve faced similar issues retrieving account access.
 
-Disclosure & Polices : CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies .
+Disclosure & Polices : CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a
