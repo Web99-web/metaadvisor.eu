@@ -44,6 +44,7 @@ mapping:
   google: [Google.png]
   meta: [MetaAdvisor.png]
   chatgpt: [chatgpt.jpg, chatgpt1.jpg]
+  web3: [web3-logo.png]
 
   # --- FINANCIJE / TRŽIŠTA / GOSPODARSTVO ---
   stock: [stock-market-dionice.jpg, stock-market-dionice1.jpg, financial-chart.jpg, grafikon.jpg, btc-finance.jpg]
