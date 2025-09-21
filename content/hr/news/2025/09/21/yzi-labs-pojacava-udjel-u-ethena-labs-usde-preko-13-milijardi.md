@@ -32,6 +32,12 @@ USDe nastoji održati stabilnost oko 1 $ tako da kombinira:
 
 Taj **delta-neutralni** okvir smanjuje neto tržišni rizik, a **prinos** dolazi ponajprije iz **funding** dinamike i tržišne mikrostrukture. Važno: model nosi **rizike** (funding, likvidnost, volatilnost, baza-rizik, operativni i kontra-strana rizici), pa su **upravljanje kolateralom** i **provedbeni detalji** presudni.
 
+### Što znači „peg“
+U svijetu stablecoina, **peg** znači **vezivanje vrijednosti tokena za određenu valutu** — najčešće za američki dolar (1 token ≈ 1 USD).  
+- Kod **fiat-backed** stablecoina (USDC, USDT) peg se održava zalihama dolara u banci.  
+- Kod **synthetic/algo** modela (kao USDe) peg se pokušava očuvati kroz **hedge mehanizme i tržišne pozicije**.  
+Ako peg pukne (npr. cijena USDe padne na 0,8 $), gubi se povjerenje i kapital bježi. Zato je peg **sidro stabilnosti** svakog stablecoina.
+
 ### Zašto je ovaj potez značajan
 - **Signal povjerenja**: Produbljivanje pozicije od strane privatne investicijske kuće osnivača Binancea sugerira **vjeru u održivost** Ethena modela.  
 - **Institucionalni most**: Projekti poput **Convergea** mogu približiti on-chain financije **standardima trad-fi** (poznati procesi namire, KYC/AML).  
