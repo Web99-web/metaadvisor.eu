@@ -100,6 +100,7 @@ mapping:
   "shiba inu":  [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg, shiba-inu.png]
   shibarium:    [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg]
   pepe:         [pepe-the-frog.jpg]
+  andy eth:     [andy_eth_cover.png]
 
   # --- Tesla / Elon / Musk ---
   tesla:        [tesla.jpg]
