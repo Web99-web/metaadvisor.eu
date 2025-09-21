@@ -15,7 +15,7 @@ tags: ["BNB", "Binance", "BNB-Chain", "opBNB", "BEP-95", "Auto-Burn", "deflacija
 summary: "BNB je preko vikenda tiho odskočio oko 10% i nadmašio šire tržište — dok mnogi tokeni bilježe pad. Donosimo razloge rasta i scenarije što dalje."
 ---
 
-**Kontekst (u 60 sekundi):**  
+**Ukratko:**  
 Dok su mnogi tokeni klizili ili mirovali, **BNB** je vikendom **porastao oko 10%**. Iza poteza stoji kombinacija **strukturnih** (deflacijska tokenomika, on-chain korištenje) i **mehaničkih** faktora (vikend-likvidnost, derivati). *Slika je simbolična.*
 
 ## Zašto BNB ide gore
