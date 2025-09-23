@@ -77,7 +77,7 @@ Metodologije se razlikuju, ali zaključak je sličan: mreže koje **pojednostave
 9. **Polygon (L2/L1 ekosustav)** — interoperabilnost i enterprise partnerstva; tranzicija prema 2.0 arhitekturi.
 10. **Arbitrum One (L2, Ethereum)** — niske naknade, jak DeFi (npr. perps), Stylus nadogradnja za dev-ove.
 
-> **Zašto pri dnu?** Lista je “mamac”, ali kontekst iznad daje smisao brojkama i pomaže čitatelju shvatiti *što* zapravo mjerimo i *zašto* je to važno.
+
 
 ---
 
