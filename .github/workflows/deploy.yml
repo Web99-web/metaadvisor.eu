@@ -1,0 +1,55 @@
+name: Build & Deploy (Hugo → Netlify, CLI)
+
+on:
+  push:
+    branches: [ main ]          # auto deploy na svaki push u main
+  workflow_dispatch: {}         # i ručno pokretanje
+
+permissions:
+  contents: read
+
+concurrency:
+  group: "deploy"
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.128.0'
+          extended: true
+
+
+      - name: Build site
+        run: hugo --gc --minify --buildFuture
+
+
+      # Netlify CLI preko npm – stabilno, bez ovisnosti o action tagu
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Netlify CLI (pinned)
+        run: npm i -g netlify-cli@17.34.0
+
+      - name: Disable Netlify auto-bootstrap
+        run: echo "NETLIFY_CLI_DISABLE_AUTO_INSTALL=1" >> $GITHUB_ENV
+
+      - name: Deploy to Netlify (prod)
+        working-directory: public
+        run: netlify deploy --dir=. --prod --message "GitHub Actions $GITHUB_SHA"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID:    ${{ secrets.NETLIFY_SITE_ID }}
+
+
+
