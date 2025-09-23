@@ -24,47 +24,68 @@ tags:
   - payments
   - l2
   - solana
-  - near
-  - bnb-chain
   - base
-  - tron
-  - bitcoin
-  - aptos
+  - bnb-chain
   - ethereum
-  - polygon
   - arbitrum
-summary: "Top 10 lista prikazuje mreže s najbržim rastom aktivnih on-chain korisnika u 2025. Najviše napreduju brze i jeftine mreže te L2 rješenja, uz snažan poticaj plaćanja, mini-aplikacija i DeFi/NFT ekosustava."
+  - optimism
+  - polygon
+  - ton
+  - sui
+  - aptos
+summary: "Lista najbrže rastućih mreža po aktivnim on-chain korisnicima pokazuje da pobjeđuju one koje nude jeftine i brze transakcije, lak onboarding i stvarne use-caseove (plaćanja, igre, mini-aplikacije). U nastavku je kontekst — a Top-10 popis je pri dnu."
 ---
 
-**Kratko:** Iako “market cap” i dalje dominira naslovima, praktična **on-chain upotreba** (aktivni novčanici, transakcije, zadržavanje) sve je bolji barometar rasta. U nastavku je **Top 10** najbrže rastućih blockchaina po **aktivnim korisnicima** (MAU), prema izvornoj analizi Cointelegrapha.
+**Kratko:** Pregled najbrže rastućih blockchaina po **aktivnim korisnicima** (on-chain) daje realniju sliku usvajanja od samog market capa. Mreže koje korisnicima omogućuju **brze, jeftine i jednostavne** radnje — rastu brže. To posebno vrijedi za L2 rješenja i L1-ove s visokim throughputom, gdje su mikro-transakcije (igre, plaćanja, mini-aplikacije) svakodnevica.
 
-### Top 10 najbrže rastućih (MAU, izvor: Cointelegraph)
-1. **Solana (L1)** — ~**57M MAU**; rast pogone DeFi, NFT i HFT/memecoin aktivnost; stabilnost podiže *Firedancer*.
-2. **Near Protocol (L1)** — ~**51.2M MAU**; fokus na UX, niske naknade i AI-native integracije.
-3. **BNB Chain (L1)** — ~**46.4M MAU**; EVM kompatibilnost, kraći blok-time (0,75 s), široka korisnička baza.
-4. **Base (L2, Ethereum)** — ~**21.5M MAU**; ultra-niske naknade (~$0.01) + distribucija kroz Coinbase ekosustav.
-5. **TRON (L1)** — ~**14.4M MAU**; jeftini stablecoin transferi, visok throughput, integracije.
-6. **Bitcoin (L1)** — ~**10.8M MAU**; ETF priljevi i “store-of-value” narativ; snažna mrežna sigurnost.
-7. **Aptos (L1)** — ~**10M MAU**; Move jezik, brzi finalitet; širenje DeFi-a i partnerstva (npr. USDT).
-8. **Ethereum (L1)** — ~**9.6M MAU**; Pectra upgrade (UX), staking i ETF-ovi; i dalje najširi dev ekosustav.
-9. **Polygon (L2/L1 ekosustav)** — ~**7.2M MAU**; interoperabilnost (Heimdall v2), enterprise partnerstva.
-10. **Arbitrum One (L2, Ethereum)** — ~**4M MAU**; niže naknade, DeFi (GMX), integracije (npr. Robinhood), Stylus nadogradnja.
+### Što znači “aktivni korisnik” u on-chain kontekstu
+Analitičke kuće tipično promatraju:
+- **DAU/MAU** trend i **zadržavanje** kohorti (novi vs. povratni),
+- **broj i tip transakcija** (transferi, DEX, NFT mint, plaćanja),
+- **prosječni trošak i vrijeme potvrde** (što je trenje manje, to je rast veći),
+- **cross-app aktivnost** (koliko različitih dApp-ova korisnik koristi).
 
-> **Kako čitati listu:** MAU je dobar “termometar” usvajanja, ali nužno je gledati i zadržavanje, omjer DAU:tx, udio botova i post-incentive aktivnost.
+Metodologije se razlikuju, ali zaključak je sličan: mreže koje **pojednostave onboarding** (socijalni login, MPC/AA walleti), snize **troškove** (L2, rollupovi, jeftini L1-ovi) i ponude **konkretan razlog** korištenja — sustavno pobjeđuju.
 
-### Zašto baš ove mreže rastu
-- **Niske naknade + brzina** omogućuju mikro-transakcije (igre, socijalne mini-aplikacije, plaćanja).
-- **Distribucijski kanali** (CEX/on-ramp, super-aplikacije) dramatično skraćuju onboarding.
-- **DeFi + stablecoini** stvaraju ponovljenu potražnju za transakcijama.
-- **Developer UX** (SDK-ovi, indexeri, jeftini RPC, AA/MPC walleti) privlači app-ove → korisnike.
+### Zašto baš ove mreže rastu (uzorci koje stalno viđamo)
+- **L2 i jeftini slojevi**: rollupovi i propusne mreže omogućuju frekventne, male transakcije bez “gas boli”.
+- **Plaćanja i stablecoini**: tamo gdje teče stvarni novac (P2P, remittance, trgovci) rastu i dnevno aktivni novčanici.
+- **Mini-aplikacije i socijalna distribucija**: integracije u postojeće platforme (super-aplikacije, mini-walleti) dovode mase korisnika.
+- **Igre i on-chain asseti**: F2P i NFT ekonomije generiraju mnogo malih transakcija — idealno za mreže s niskim naknadama.
+- **Poticaji (airdropovi)**: kratkoročno “napumpaju” metrike; dugoročno ostaju mreže koje nude vrijednost i bez poticaja.
+- **Eko-sustav alata**: dobri SDK-ovi, indexeri, RPC-evi i data lakeovi ubrzavaju razvoj app-ova → app-ovi privlače korisnike.
+
+### Kako čitati ljestvice (da ne pogriješite)
+1. **Zadržavanje prije svega**: rast novih adresa je dobrodošao, ali vrijednost je u povratnim korisnicima.
+2. **Filtrirajte farme**: odnos **DAU : broj transakcija** i “post-airdrop” aktivnost otkrivaju koliko je buke u podacima.
+3. **Trošak + UX**: niske naknade i onboarding bez seed fraze presudni su za mainstream.
+4. **Gledajte “što se radi na mreži”**: plaćanja, igre, DEX, mini-aplikacije — svaka vertikala ima svoje metrike zdravlja.
+
+---
+
+### Top 10 najbrže rastućih blockchaina po aktivnim korisnicima
+*(prema izvornom pregledu; redoslijed i brojevi mogu se mijenjati kako se metrike ažuriraju)*
+
+1. **Solana (L1)** — rast pogone DeFi, NFT i “high-frequency”/memecoin aktivnosti; stabilnost diže *Firedancer*.
+2. **Near Protocol (L1)** — UX-pristup, niske naknade i AI-native integracije; dobar organski priljev korisnika.
+3. **BNB Chain (L1)** — masovna baza, EVM kompatibilnost, brzi blokovi; snažan CEX on-ramp.
+4. **Base (L2, Ethereum)** — ultra-nizak gas + distribucija kroz Coinbase; brzi skok MAU-a.
+5. **TRON (L1)** — stablecoin transferi i visok throughput; transakcije konstantne i jeftine.
+6. **Bitcoin (L1)** — ETF narativ + sigurnost mreže; rast on-chain slučajeva uporabe i ekosustava L2/ordinals.
+7. **Aptos (L1)** — Move jezik, brzi finalitet; širi se DeFi i partnerstva (npr. stablecoini).
+8. **Ethereum (L1)** — i dalje najširi dev ekosustav; korisnički sloj često seli na L2 zbog troška.
+9. **Polygon (L2/L1 ekosustav)** — interoperabilnost i enterprise partnerstva; tranzicija prema 2.0 arhitekturi.
+10. **Arbitrum One (L2, Ethereum)** — niske naknade, jak DeFi (npr. perps), Stylus nadogradnja za dev-ove.
+
+> **Zašto pri dnu?** Lista je “mamac”, ali kontekst iznad daje smisao brojkama i pomaže čitatelju shvatiti *što* zapravo mjerimo i *zašto* je to važno.
 
 ---
 
 ## Naš osvrt (Metaadvisor)
-- **Rang je polazište, ne cilj:** Long-run vrijednost dolazi iz *zadržavanja* i svakodnevnih upotreba (plaćanja, igre), ne iz jednokratnih incentiva.
-- **L2 moment traje:** Base/Arbitrum pokazuju koliko distribucija + niski troškovi znače za MAU.
-- **Solana efekt:** HFT/memecoin promet je “top of funnel”; ključ je preliti taj momentum u plaćanja i app-ove s trajnijom vrijednošću.
-- **Stabilan “core”:** Ethereum i dalje drži dev-ekosustav, ali korisnički sloj bježi na jeftinije slojeve.
-- **Što pratiti dalje:** kohortno zadržavanje poslije airdropova, udio stablecoin volumena, rast mini-aplikacija i embedded walleta.
+- **Rang ≠ kvaliteta**: bez zadržavanja i svakodnevnih use-caseova lista je samo fotografija trenutka.
+- **UX pobjeđuje**: embedded/AA walleti, socijalni login i jeftin gas su sada “must-have”.
+- **L2 moment je stvaran**: Base/Arbitrum pokazuju snagu distribucije plus niskih troškova.
+- **Solana efekt**: memecoin/HFT promet je dobar “top of funnel”; trajna vrijednost dolazi iz plaćanja i app-ova koje ljudi stvarno koriste.
+- **Što pratimo sljedeće**: kohortno zadržavanje nakon poticaja, rast volumena u stablecoin plaćanjima i eksploziju mini-aplikacija s embedded walletima.
 
 *Slika je simbolična.*
