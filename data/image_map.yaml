@@ -35,6 +35,7 @@ mapping:
   thor: [thorchain-rune-logo.png]
   thorchain: [thorchain-rune-logo.png]
   myx: [myx-token.svg, myx-token-512.png]
+  hype: [hype-hyperliquid.png]
   
   # --- AI / TECH ---
   ai: [ai.jpg, ai1.jpg, ai-manja.jpg, ai2.jpg]
