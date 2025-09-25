@@ -52,7 +52,7 @@ summary: "OpenAI uvodi ChatGPT Pulse — personalizirane jutarnje briefove koji 
 ---
 
 ## Naš osvrt (Metaadvisor)
-- **Vrijednost u kuriranju, ne u količini:** 5–10 točnih, prioritetnih stavki je korisnije od desetina kartica.  
+- **Vrijednost u kuriranju, ne u količini:** “kuriranje” znači **odabrati i organizirati najbitnije informacije**, dati im **kontekst i smisao**, umjesto zatrpati korisnika gomilom vijesti.  
 - **Rizik personalizacije:** potrebni su **jasni opt-in** i kontrola izvora da bi se izbjegli **“filter mjehurići”**.  
 - **Go-to-market realnost:** **kapaciteti (compute)** i **latencija** odlučit će tempo širenja; Pro-first je razumljiv kompromis.  
 - **Šira implikacija:** ako Pulse pokaže **visoku retenciju**, otvara vrata **asistentima koji rade stalno** (planiranje, research, podsjetnici).
