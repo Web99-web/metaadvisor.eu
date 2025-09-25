@@ -38,6 +38,7 @@ mapping:
   myx: [myx-token.svg, myx-token-512.png]
   hype: [hype-hyperliquid.png]
   dollar: [net-dollar-simple.png]
+  spxa: [spxa-tokenized-sp500-textonly.png]
   
   # --- AI / TECH ---
   ai: [ai.jpg, ai1.jpg, ai-manja.jpg, ai2.jpg]
