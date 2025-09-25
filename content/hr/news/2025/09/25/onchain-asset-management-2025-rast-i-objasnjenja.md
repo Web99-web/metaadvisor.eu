@@ -32,45 +32,30 @@ tags:
 summary: "AUM u onchain asset managementu skočio je 118% na 35 mlrd $ u 2025., kaže Keyrock. Objašnjavamo jednostavnim jezikom: što je to, tko su ‘whaleovi’, što su yield vaultovi i zašto tri protokola (Morpho, Pendle, Maple) drže trećinu tržišta."
 ---
 
-**Kratko:** Prema izvještaju **Keyrocka**, **onchain asset management** (upravljanje imovinom na blockchainu) **eksplodirao je 2025.** — **AUM** (ukupna imovina pod upravljanjem) porastao je **118%** na **35 mlrd $**. Ako se tempo nastavi, do **2026.** bi mogao dosegnuti **64–85 mlrd $**.
+**Prema izvješću kripto trading firme Keyrock, onchain asset management ima „breakout“ godinu.**  
+- **Imovina pod upravljanjem (AUM)** porasla je **118% u 2025.** na oko **35 mlrd $**.  
+- **Prognoza za 2026.**: bazni scenarij **64 mlrd $**, uz **85 mlrd $** ako se nastavi ovogodišnji zamah.
 
-### Najjednostavnije moguće: što ovdje zovemo “asset” i “onchain”?
-- **Asset = imovina** (npr. stablecoini u dolarima, kripto, pa čak i tokenizirane obveznice/fondovi).  
-- **Onchain = na blockchainu** — umjesto klasičnog fonda ili banke, koristi se **pametni ugovor** (softver) koji javno i automatizirano upravlja tvojim ulogom.
+**Diskrecijske strategije** su se istaknule s rastom od **~738% YTD**, dok je **koncentracija** jasna: **Morpho, Pendle i Maple** drže **~31% industrijskog AUM-a**, što istodobno naglašava **liderstvo u skali** i **rizik koncentracije**.  
+**Yield vaultovi** ostaju glavni ulaz za alokatore s oko **18 mlrd $ depozita**.
 
-**AUM (imovina pod upravljanjem)** = zbroj svih sredstava koja su ljudi uložili u takve onchain strategije.  
-*(Ne, ne pričamo o stanu 😉 — osim ako jednog dana i stan postane token.)*
+**Struktura ulagatelja:** po broju dominiraju **manji novčanici**, ali **„veći“ računi** (tzv. whales/dolphins) daju **70%–99% kapitala** kroz strategije.  
+**Performanse:** neto prinosi su **konkurentni TradFi-u**, ali **ne uniformno viši**. **Automatizirani yield vaultovi** prema izvješću nadmašuju TradFi ekvivalente za **~186 bps nakon naknada**, dok **strukturirani proizvodi** i **onchain kredit** blago zaostaju kad se uračunaju troškovi.  
+**Širenje poslovanja:** **Keyrock** je ušao u asset & wealth management akvizicijom **Turing Capitala** (luksemburški registrirani upravitelj).
 
-### Tko su “whaleovi” i “delfini”?
-To su **nadimci po veličini računa**:  
-- **Whale (kit)** = vrlo velik ulagač,  
-- **Dolphin (delfin)** = srednje velik,  
-- **Mali novčanici** = mali ulagači.  
-Iako malih ima puno, **većina novca** obično dolazi od **većih**.
+---
 
-### Što su “automatizirani yield vaultovi” (kasice za prinos)?
-To su **automatizirane kasice** (pametni ugovori) gdje uložiš npr. **USDC** i softver ga raspoređuje u **provjerene izvore prinosa** (posudba uz kolateral itd.).  
-- Cilj: **pristojan prinos** bez da ti stalno klikćeš.  
-- Sve je **transparentno** (onchain), **ali nije bez rizika** (greške u kodu, tržišni stres, likvidnost).
-
-### A tko su Morpho, Pendle i Maple — i zašto su bitni?
-To su **tri velika protokola** koja zajedno drže oko **31% tržišta** (zato su važni):  
-- **Morpho** — platforma za **posudbu/pozajmljivanje** koja optimizira kamate i rizik.  
-- **Pendle** — omogućuje **trgovanje kamatom odvojeno od glavnice** (kao kupon/obveznica, ali onchain).  
-- **Maple** — **onchain kreditiranje** tvrtkama/market makerima (podsjeća na fondove privatnog duga).
-
-### Gdje je rast najveći?
-**Diskrecijske strategije** (ljudski menadžer vodi, ali onchain izvodi) porasle su **~738% YTD** — kombinacija **ljudske procjene** i **onchain transparentnosti** očito privlači kapital.  
-**Yield vaultovi** su i dalje **glavni ulaz** za većinu (oko **18 mlrd $ depozita**).
-
-### Performanse (u jednoj rečenici)
-Neto prinosi su **konkurentni TradFi-u**, ali **ne uvijek viši**. Vaultovi su u prosjeku **~186 bps** iznad TradFi ekvivalenata nakon naknada; strukturirani proizvodi i onchain kredit malo zaostaju kad se uračunaju troškovi.
+### Pojmovi ukratko (jednostavno)
+- **Onchain asset management:** upravljanje novcem putem **pametnih ugovora** na blockchainu (transparetno, automatizirano).  
+- **AUM:** zbroj novca uloženog u te onchain „fondove/strategije“.  
+- **Yield vault:** **automatizirana „kasica“** koja raspoređuje uloge u izvore prinosa (npr. posudba uz kolateral).  
+- **Morpho / Pendle / Maple:** veći **onchain protokoli** za posudbu (Morpho), **upravljanje/prijenos kamate** (Pendle) i **kreditiranje tvrtki** (Maple).
 
 ---
 
 ## Naš osvrt (Metaadvisor)
-- **Jasne uloge:** vaultovi za “parkirati i zaboraviti”, diskrecija za “vjerujem timu”, Pendle za kamatni rizik, Morpho/Maple za posudbu/kredit (napredniji profil).  
-- **Rizici (plain):** **kod**, **mostovi**, **likvidnost**, **protu-strana**, **regulatorika**. Nema bankarskih garancija.  
-- **Što pratiti:** koncentraciju (top 3 = 31%), AUM i volumene, **tracking** prinosa vs. rizici, transparentnost i revizije koda.
+- **Kud ide novac:** jasno prema **diskreciji** (ljudski menadžment + onchain egzekucija) i **vaultovima** (niski napor).  
+- **Rizici:** kod/mostovi, likvidnost, protu-strana, regulatorika; koncentracija top-3 zahtijeva praćenje.  
+- **Što pratiti dalje:** AUM/volumen, udio top-3, tracking prinosa vs. rizik, audite koda i transparentnost.
 
 *Slika je simbolična.*
