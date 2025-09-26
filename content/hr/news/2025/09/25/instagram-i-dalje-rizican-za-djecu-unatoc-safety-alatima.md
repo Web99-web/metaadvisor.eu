@@ -26,7 +26,7 @@ summary: "Meta je uvela nove safety alate, no prema izvješću zviždača Arturo
 
 Prema istraživanju koje je vodio **Arturo Béjar**, bivši inženjer Mete i zviždač koji je svjedočio pred američkim Kongresom, **Instagram i dalje predstavlja ozbiljan rizik za djecu i tinejdžere** unatoč uvođenju novih alata za zaštitu.
 
-- **64% novih safety alata** pokazalo se **neuči(nkovitima)** ili neodržavanim.  
+- **64% novih safety alata** pokazalo se **(ne)učinkovitima** ili neodržavanim.  
 - Meta je 2024. uvela **teen account** sustav kao odgovor na pritiske regulatora, ali analize pokazuju da su alati često “neučinkoviti, tiho promijenjeni ili uklonjeni”.  
 - Béjar navodi da to stvara **lažan osjećaj sigurnosti**, dok djeca i dalje mogu biti izložena štetnom sadržaju, neprikladnim kontaktima i dizajnu koji potiče rizično ponašanje.
 
