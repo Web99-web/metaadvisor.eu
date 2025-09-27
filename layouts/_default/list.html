@@ -35,189 +35,187 @@
 
 
 
-<!-- TWO-COLUMN LAYOUT: main + sidebar -->
-<div class="news-layout">
-  <div class="news-main">
+<!-- THREE-COLUMN LAYOUT: left sidebar + main + right sidebar -->
+<div class="news-wrap">
+  <div class="news-layout">
 
-    <div class="grid">
-      {{ $i := 0 }}
-      {{ range $pg := $pager.Pages }}
+    <!-- LEFT SIDEBAR -->
+    <aside class="news-side left">
+      <div>
+        {{ partial "ads/slot.html" (dict "size" "300x250") }}
+        {{ partial "ads/slot.html" (dict "size" "300x250") }}
+      </div>
+    </aside>
 
+    <!-- MAIN -->
+    <div class="news-main">
+      <div class="grid">
+        {{ $i := 0 }}
+        {{ range $pg := $pager.Pages }}
 
-      {{/* Preskoči inbox-drafts */}}
-      {{ $isDraftCard := or (in (lower $pg.Title) "inbox (drafts)") (hasPrefix $pg.Slug "inbox-drafts") (in $pg.File.Path "inbox-drafts-") }}
-      {{ if not $isDraftCard }}
+          {{/* Preskoči inbox-drafts */}}
+          {{ $isDraftCard := or (in (lower $pg.Title) "inbox (drafts)") (hasPrefix $pg.Slug "inbox-drafts") (in $pg.File.Path "inbox-drafts-") }}
+          {{ if not $isDraftCard }}
 
-        {{/* ---- PLACEHOLDERS & VARS -------------------------------------- */}}
-        {{ $ph  := "/images/placeholder-metaadvisor-small.jpg" }}
-        {{ $src := "" }}
+            {{/* ---- PLACEHOLDERS & VARS -------------------------------------- */}}
+            {{ $ph  := "/images/placeholder-metaadvisor-small.jpg" }}
+            {{ $src := "" }}
 
-        {{/* ---- 1) HERO iz bundlea -------------------------------------- */}}
-        {{ with $pg.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
+            {{/* ---- 1) HERO iz bundlea -------------------------------------- */}}
+            {{ with $pg.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
 
-        {{/* ---- 2) image_url / image (samo lokalno! / ili bundle/rel) ---- */}}
-        {{ if not $src }}
-          {{ $img := $pg.Params.image_url | default $pg.Params.image }}
-          {{ if $img }}
-            {{/* Ako je apsolutni http/https → IGNORE na listingu */}}
-            {{ if hasPrefix $img "/" }}
-              {{ $src = $img }}
-            {{ else if not (hasPrefix $img "http") }}
-              {{ with $pg.Resources.GetMatch $img }}
-                {{ $src = .RelPermalink }}
-              {{ else }}
-                {{/* ako je ime tipa "bitcoin-btc.jpg" → probaj iz /images */}}
-                {{ $src = printf "/images/%s" $img }}
+            {{/* ---- 2) image_url / image (samo lokalno! / ili bundle/rel) ---- */}}
+            {{ if not $src }}
+              {{ $img := $pg.Params.image_url | default $pg.Params.image }}
+              {{ if $img }}
+                {{ if hasPrefix $img "/" }}
+                  {{ $src = $img }}
+                {{ else if not (hasPrefix $img "http") }}
+                  {{ with $pg.Resources.GetMatch $img }}
+                    {{ $src = .RelPermalink }}
+                  {{ else }}
+                    {{ $src = printf "/images/%s" $img }}
+                  {{ end }}
+                {{ end }}
               {{ end }}
             {{ end }}
+
+            {{/* ---- 3) TAG → IMAGE MAP (iz starog koda; NIŠTA IZBAČENO) ------ */}}
+            {{ $tagMap := dict
+              "ai" "/images/ai.jpg" "artificial-intelligence" "/images/ai.jpg"
+              "crypto" "/images/fallback-crypto.jpg"
+              "bitcoin" "/images/bitcoin-btc.jpg" "btc" "/images/bitcoin-btc.jpg"
+              "ethereum" "/images/eth.jpg" "eth" "/images/eth.jpg"
+              "ethereum-classic" "/images/etc-btc.jpg" "etc" "/images/etc-btc.jpg"
+              "litecoin" "/images/litecoin-ltc.png" "ltc" "/images/litecoin-ltc.png"
+              "ripple" "/images/xrp.png" "xrp" "/images/xrp.png"
+              "cardano" "/images/cardano-ada-logo.png" "ada" "/images/cardano-ada-logo.png"
+              "solana" "/images/solana.jpg" "sol" "/images/solana.jpg"
+              "binance" "/images/bnb.png" "bnb" "/images/bnb.png"
+              "polkadot" "/images/polkadot-dot.png" "dot" "/images/polkadot-dot.png"
+              "chainlink" "/images/chainlink-link.png" "link" "/images/chainlink-link.png"
+              "monero" "/images/monero-xmr.png" "xmr" "/images/monero-xmr.png"
+              "arbitrum" "/images/arbitrum-arb.png" "arb" "/images/arbitrum-arb.png"
+              "uniswap" "/images/uniswap-uni.png" "uni" "/images/uniswap-uni.png"
+              "injective" "/images/injective-inj.png" "inj" "/images/injective-inj.png"
+              "kaspa" "/images/kaspa-kas.png" "kas" "/images/kaspa-kas.png"
+              "tether" "/images/tether-usdt.png" "usdt" "/images/tether-usdt.png"
+              "aave" "/images/aave.png" "cosmos" "/images/cosmos-atom.png" "atom" "/images/cosmos-atom.png"
+              "dogecoin" "/images/dogecoin-doge.png" "doge" "/images/dogecoin-doge.png"
+              "sei" "/images/sei.png" "sui" "/images/sui.png" "ordi" "/images/ordi.png" "ordinals" "/images/ordi.png"
+              "avalanche" "/images/avalanche-avax.png" "avax" "/images/avalanche-avax.png"
+              "bittensor" "/images/bittensor-tao.png" "tao" "/images/bittensor-tao.png"
+              "finance" "/images/finance.jpg"
+              "stocks" "/images/stock-market-dionice.jpg" "stock" "/images/stock-market-dionice.jpg" "equities" "/images/stock-market-dionice.jpg" "dionice" "/images/stock-market-dionice.jpg"
+              "security" "/images/fallback-security.jpg" "privacy" "/images/fallback-security.jpg"
+              "gold" "/images/gold.jpg" "google" "/images/Google.png" "visa" "/images/visa.jpg"
+              "phone" "/images/mobile-phone.jpg" "mobile" "/images/mobile-phone.jpg"
+            }}
+
+            {{ $tagImg := "" }}
+            {{ with $pg.Params.tags }}
+              {{ range . }}
+                {{- if not $tagImg -}}
+                  {{ $k := lower . }}
+                  {{ with index $tagMap $k }}{{ $tagImg = . }}{{ end }}
+                {{- end -}}
+              {{ end }}
+            {{ end }}
+            {{ if and (not $tagImg) (isset $pg.Params "category") }}
+              {{ $cat := lower $pg.Params.category }}
+              {{ with index $tagMap $cat }}{{ $tagImg = . }}{{ end }}
+            {{ end }}
+
+            {{ if and (not $src) $tagImg }}{{ $src = $tagImg }}{{ end }}
+
+            {{ if not $src }}{{ $src = $ph }}{{ end }}
+
+            <div class="card" style="display:flex;flex-direction:column;align-items:stretch;">
+              <a href="{{ $pg.RelPermalink }}">
+                <img class="card-img"
+                     style="width:100%;height:365px;object-fit:cover;display:block;margin:0"
+                     src="{{ $src }}?v={{ $pg.Lastmod.Unix }}"
+                     alt="{{ $pg.Title }}"
+                     loading="lazy" decoding="async"
+                     onerror="this.onerror=null;this.src='{{ cond (ne $tagImg "") $tagImg $ph }}'">
+              </a>
+
+              <div class="card-body" style="display:flex;flex-direction:column;gap:8px;min-height:0">
+                <div class="card-meta">
+                  {{ with $pg.Params.category }}
+                    <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
+                  {{ else }}
+                    <span class="badge">news</span>
+                  {{ end }}
+                  <time datetime="{{ $pg.Date }}">{{ $pg.Date.Format "2006-01-02" }}</time>
+                </div>
+
+                <h3 class="card-title">
+                  <a href="{{ $pg.RelPermalink }}">{{ $pg.Title }}</a>
+                </h3>
+
+                {{ with $pg.Summary }}<p class="card-summary">{{ . | plainify | truncate 160 }}</p>{{ end }}
+              </div>
+
+              <a class="stretched-link" href="{{ $pg.RelPermalink }}" aria-label="{{ $pg.Title }}"></a>
+            </div>
+
+            {{/* oglas nakon svake 6. kartice */}}
+            {{ $i = add $i 1 }}
+            {{ if and (gt $i 0) (eq (mod $i 6) 0) }}
+              <div style="grid-column: 1 / -1; margin: 8px 0;">
+                {{ partial "ads/slot.html" (dict "size" "728x90") }}
+              </div>
+            {{ end }}
+
           {{ end }}
         {{ end }}
+      </div> <!-- /grid -->
+    </div> <!-- /news-main -->
 
-        {{/* ---- 3) TAG → IMAGE MAP (iz starog koda; NIŠTA IZBAČENO) ------ */}}
-        {{ $tagMap := dict
-          "ai" "/images/ai.jpg" "artificial-intelligence" "/images/ai.jpg"
-          "crypto" "/images/fallback-crypto.jpg"
-          "bitcoin" "/images/bitcoin-btc.jpg" "btc" "/images/bitcoin-btc.jpg"
-          "ethereum" "/images/eth.jpg" "eth" "/images/eth.jpg"
-          "ethereum-classic" "/images/etc-btc.jpg" "etc" "/images/etc-btc.jpg"
-          "litecoin" "/images/litecoin-ltc.png" "ltc" "/images/litecoin-ltc.png"
-          "ripple" "/images/xrp.png" "xrp" "/images/xrp.png"
-          "cardano" "/images/cardano-ada-logo.png" "ada" "/images/cardano-ada-logo.png"
-          "solana" "/images/solana.jpg" "sol" "/images/solana.jpg"
-          "binance" "/images/bnb.png" "bnb" "/images/bnb.png"
-          "polkadot" "/images/polkadot-dot.png" "dot" "/images/polkadot-dot.png"
-          "chainlink" "/images/chainlink-link.png" "link" "/images/chainlink-link.png"
-          "monero" "/images/monero-xmr.png" "xmr" "/images/monero-xmr.png"
-          "arbitrum" "/images/arbitrum-arb.png" "arb" "/images/arbitrum-arb.png"
-          "uniswap" "/images/uniswap-uni.png" "uni" "/images/uniswap-uni.png"
-          "injective" "/images/injective-inj.png" "inj" "/images/injective-inj.png"
-          "kaspa" "/images/kaspa-kas.png" "kas" "/images/kaspa-kas.png"
-          "tether" "/images/tether-usdt.png" "usdt" "/images/tether-usdt.png"
-          "aave" "/images/aave.png" "cosmos" "/images/cosmos-atom.png" "atom" "/images/cosmos-atom.png"
-          "dogecoin" "/images/dogecoin-doge.png" "doge" "/images/dogecoin-doge.png"
-          "sei" "/images/sei.png" "sui" "/images/sui.png" "ordi" "/images/ordi.png" "ordinals" "/images/ordi.png"
-          "avalanche" "/images/avalanche-avax.png" "avax" "/images/avalanche-avax.png"
-          "bittensor" "/images/bittensor-tao.png" "tao" "/images/bittensor-tao.png"
-          "finance" "/images/finance.jpg"
-          "stocks" "/images/stock-market-dionice.jpg" "stock" "/images/stock-market-dionice.jpg" "equities" "/images/stock-market-dionice.jpg" "dionice" "/images/stock-market-dionice.jpg"
-          "security" "/images/fallback-security.jpg" "privacy" "/images/fallback-security.jpg"
-          "gold" "/images/gold.jpg" "google" "/images/Google.png" "visa" "/images/visa.jpg"
-          "phone" "/images/mobile-phone.jpg" "mobile" "/images/mobile-phone.jpg"
-        }}
+    <!-- RIGHT SIDEBAR -->
+    <aside class="news-side right">
+      <div>
+        {{ partial "ads/slot.html" (dict "size" "300x250") }}
+        {{ partial "ads/slot.html" (dict "size" "300x250") }}
+      </div>
+    </aside>
 
-        {{ $tagImg := "" }}
-        {{ with $pg.Params.tags }}
-          {{ range . }}
-            {{- if not $tagImg -}}
-              {{ $k := lower . }}
-              {{ with index $tagMap $k }}{{ $tagImg = . }}{{ end }}
-            {{- end -}}
-          {{ end }}
-        {{ end }}
-        {{ if and (not $tagImg) (isset $pg.Params "category") }}
-          {{ $cat := lower $pg.Params.category }}
-          {{ with index $tagMap $cat }}{{ $tagImg = . }}{{ end }}
-        {{ end }}
-
-        {{ if and (not $src) $tagImg }}{{ $src = $tagImg }}{{ end }}
-
-        {{/* ---- 4) Heuristika po naslovu/tagovima ------------------------- */}}
-        {{ if not $src }}
-          {{ $t := lower $pg.Title }}
-          {{ $tags := $pg.Params.tags | default (slice) }}
-          {{ $tagsLower := apply $tags "lower" "." }}
-
-          {{ if or (in $t "apple") (in $t "iphone") (in $tagsLower "apple") (in $tagsLower "iphone") }}
-            {{ $src = "/images/mobile-phone.jpg" }}
-          {{ end }}
-          {{ if and (not $src) (or (in $t "google") (in $tagsLower "google")) }}
-            {{ $src = "/images/Google.png" }}
-          {{ end }}
-          {{ if and (not $src) (or (in $t "bitcoin") (in $t "btc") (in $tagsLower "bitcoin") (in $tagsLower "btc")) }}
-            {{ $src = "/images/bitcoin-btc.jpg" }}
-          {{ end }}
-          {{ if and (not $src) (or (in $t "ethereum") (in $t "eth") (in $tagsLower "ethereum") (in $tagsLower "eth")) }}
-            {{ $src = "/images/eth-ethereum.jpg" }}
-          {{ end }}
-          {{ if and (not $src) (or (in $t " ai") (in $t "artificial intelligence") (in $tagsLower "ai")) }}
-            {{ $src = "/images/ai.jpg" }}
-          {{ end }}
-        {{ end }}
-
-        {{ if not $src }}{{ $src = $ph }}{{ end }}
-
-   <div class="card"
-     style="display:flex!important;flex-direction:column!important;align-items:stretch!important;float:none!important;clear:both!important">
-
-  <a href="{{ $pg.RelPermalink }}">
-    <img class="card-img"
-         style="width:100%!important;height:365px!important;object-fit:cover!important;display:block!important;float:none!important;margin:0!important"
-         src="{{ $src }}?v={{ $pg.Lastmod.Unix }}"
-         alt="{{ $pg.Title }}"
-         loading="lazy" decoding="async"
-         onerror="this.onerror=null;this.src='{{ cond (ne $tagImg "") $tagImg $ph }}'">
-  </a>
-
-  <div class="card-body"
-       style="display:flex!important;flex-direction:column!important;gap:8px!important;min-height:0!important">
-    <div class="card-meta">
-      {{ with $pg.Params.category }}
-        <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
-      {{ else }}
-        <span class="badge">news</span>
-      {{ end }}
-      <time datetime="{{ $pg.Date }}">{{ $pg.Date.Format "2006-01-02" }}</time>
-    </div>
-
-    <h3 class="card-title">
-      <a href="{{ $pg.RelPermalink }}">{{ $pg.Title }}</a>
-    </h3>
-
-    {{ with $pg.Summary }}<p class="card-summary">{{ . | plainify | truncate 160 }}</p>{{ end }}
-  </div>
-
-  <!-- 🔸 DODANO: cijela kartica klik -->
-  <a class="stretched-link" href="{{ $pg.RelPermalink }}" aria-label="{{ $pg.Title }}"></a>
-</div>
-              {{/* brojač i oglas nakon svake 6. kartice */}}
-        {{ $i = add $i 1 }}
-        {{ if and (gt $i 0) (eq (mod $i 6) 0) }}
-          <div style="grid-column: 1 / -1; margin: 8px 0;">
-            {{ partial "ads/slot.html" (dict "size" "728x90") }}
-          </div>
-        {{ end }}
-
-
-      {{ end }}
-    {{ end }}
-  </div> <!-- /grid -->
-</div> <!-- /news-main -->
-
-<aside class="news-side">
-  <div style="position:sticky;top:16px;display:flex;flex-direction:column;gap:16px;">
-    {{ partial "ads/slot.html" (dict "size" "300x250") }}
-    {{ partial "ads/slot.html" (dict "size" "300x250") }} <!-- drugi slot (opcionalno) -->
-  </div>
-</aside>
-</div> <!-- /news-layout -->
+  </div> <!-- /news-layout -->
+</div> <!-- /news-wrap -->
 
 <style>
-  /* GRID u glavnom stupcu: 1 → 2 → 3 kolone */
-  .news-main .grid{ display:grid; grid-template-columns: 1fr; gap:24px; }
-  @media (min-width: 640px){  .news-main .grid{ grid-template-columns: repeat(2,1fr); } }
-  @media (min-width: 1100px){ .news-main .grid{ grid-template-columns: repeat(3,1fr); } }
+  /* ŠIRI WRAP za tri stupca + dva sidebara */
+  .news-wrap{ max-width:1440px; margin:0 auto; padding:0 16px; }
 
-  /* Raspored: main + sidebar */
-  .news-layout{ display:grid; grid-template-columns: 1fr; gap:24px; }
-  @media (min-width: 1100px){
-    .news-layout{ grid-template-columns: minmax(0,1fr) 320px; } /* glavni stupac + sidebar 320px */
-    .news-side{ min-width:300px; display:block; }
-    .news-side > div{ position:sticky; top:16px; }
+  /* Glavni grid kartica — koliko stane, do 3+ */
+  .news-main .grid{
+    display:grid;
+    gap:24px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   }
 
-  /* Na mobu/tabletu sakrij sidebar */
-  @media (max-width: 1099px){
-    .news-side{ display:none; }
+  /* Osnovni raspored: samo main (mobitel/tablet) */
+  .news-layout{
+    display:grid;
+    grid-template-columns: 1fr;
+    gap:24px;
+    align-items:start;
+  }
+  .news-side{ display:none; }
+
+  /* Širi tablet / uski desktop: samo desni sidebar */
+  @media (min-width: 1100px) and (max-width: 1399px){
+    .news-layout{ grid-template-columns: minmax(0,1fr) 320px; }
+    .news-side.right{ display:block; }
+    .news-side.right > div{ position:sticky; top:16px; display:flex; flex-direction:column; gap:16px; }
+  }
+
+  /* Velik desktop: lijevi + main + desni */
+  @media (min-width: 1400px){
+    .news-layout{ grid-template-columns: 320px minmax(0,1fr) 320px; }
+    .news-side{ display:block; }
+    .news-side > div{ position:sticky; top:16px; display:flex; flex-direction:column; gap:16px; }
   }
 </style>
 
