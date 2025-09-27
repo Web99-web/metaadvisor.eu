@@ -202,16 +202,25 @@
 </div> <!-- /news-layout -->
 
 <style>
-  /* Desktop: 3:1 raspored + sticky sidebar */
-  @media (min-width: 1024px){
-    .news-layout{ display:grid; grid-template-columns: 3fr 1fr; gap:24px; align-items:start; }
-    .news-side{ min-width:260px; }
+  /* GRID u glavnom stupcu: 1 → 2 → 3 kolone */
+  .news-main .grid{ display:grid; grid-template-columns: 1fr; gap:24px; }
+  @media (min-width: 640px){  .news-main .grid{ grid-template-columns: repeat(2,1fr); } }
+  @media (min-width: 1100px){ .news-main .grid{ grid-template-columns: repeat(3,1fr); } }
+
+  /* Raspored: main + sidebar */
+  .news-layout{ display:grid; grid-template-columns: 1fr; gap:24px; }
+  @media (min-width: 1100px){
+    .news-layout{ grid-template-columns: minmax(0,1fr) 320px; } /* glavni stupac + sidebar 320px */
+    .news-side{ min-width:300px; display:block; }
+    .news-side > div{ position:sticky; top:16px; }
   }
-  /* Mobile/tablet: sakrij sidebar (ostaju top + in-grid oglasi) */
-  @media (max-width: 1023px){
+
+  /* Na mobu/tabletu sakrij sidebar */
+  @media (max-width: 1099px){
     .news-side{ display:none; }
   }
 </style>
+
 
 {{/* === SMART PAGINATION (First/Prev, window, Next/Last) === */}}
 {{ $p := $pager }}
