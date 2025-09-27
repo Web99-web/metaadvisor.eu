@@ -28,8 +28,11 @@
 {{ $pager := .Paginate $sorted }}
 
 
+
   <div class="grid">
+    {{ $i := 0 }}
     {{ range $pg := $pager.Pages }}
+ 
 
       {{/* Preskoči inbox-drafts */}}
       {{ $isDraftCard := or (in (lower $pg.Title) "inbox (drafts)") (hasPrefix $pg.Slug "inbox-drafts") (in $pg.File.Path "inbox-drafts-") }}
