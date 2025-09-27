@@ -1,0 +1,16 @@
+{{- $lang := site.Language.Lang -}}
+{{- $pages := where site.RegularPages "Type" "news" -}}
+{{- $pages = where $pages ".Lang" $lang -}}
+[
+{{- $first := true -}}
+{{- range $pages -}}
+  {{- if not $first }},{{ end -}}{{- $first = false -}}
+  {
+    "title": {{ .Title | jsonify }},
+    "url": {{ .RelPermalink | jsonify }},
+    "date": {{ .Date.Format "2006-01-02" | jsonify }},
+    "summary": {{ .Summary | plainify | jsonify }},
+    "tags": {{ .Params.tags | default (slice) | jsonify }}
+  }
+{{- end -}}
+]
