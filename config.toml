@@ -39,6 +39,7 @@ placeholder_image = "/images/finance.jpg"
   provider = "a-ads"        # "a-ads" | "house"
   client   = "2411598"      # tvoj A-ADS Ad Unit ID
   slot     = ""             # ne koristi se za A-ADS
+  size     = "Adaptive"     # bolje za ispod hero, radi i na mobitelu i na desktopu
 
 [taxonomies]
   tag = "tags"
