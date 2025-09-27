@@ -169,6 +169,13 @@
   <!-- 🔸 DODANO: cijela kartica klik -->
   <a class="stretched-link" href="{{ $pg.RelPermalink }}" aria-label="{{ $pg.Title }}"></a>
 </div>
+              {{/* brojač i oglas nakon svake 6. kartice */}}
+        {{ $i = add $i 1 }}
+        {{ if and (gt $i 0) (eq (mod $i 6) 0) }}
+          <div style="grid-column: 1 / -1; margin: 8px 0;">
+            {{ partial "ads/slot.html" (dict "size" "728x90") }}
+          </div>
+        {{ end }}
 
 
       {{ end }}
