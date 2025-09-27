@@ -1,0 +1,63 @@
+<div id="onsite-search" style="max-width:880px;margin:12px auto 4px;padding:0 16px;">
+  <form id="onsite-search-form" style="display:flex;gap:10px;align-items:center;">
+    <input id="q" type="search" placeholder="Pretraga po naslovu/sažetku…" aria-label="Pretraga"
+           style="flex:1;padding:10px 14px;border:1px solid #cfd6e4;border-radius:10px;font-size:16px;">
+    <button type="submit"
+            style="padding:10px 14px;border:1px solid #cfd6e4;border-radius:10px;cursor:pointer;font-size:16px;">
+      Search
+    </button>
+  </form>
+  <div id="search-results" style="margin-top:10px;"></div>
+</div>
+
+<script>
+(function(){
+  var form = document.getElementById('onsite-search-form');
+  var input = document.getElementById('q');
+  var box = document.getElementById('search-results');
+  var DATA = null;
+
+  function render(items){
+    if(!items || !items.length){
+      box.innerHTML = '<div style="opacity:.7;padding:6px 2px;">No results.</div>';
+      return;
+    }
+    var html = items.map(function(it){
+      var t = it.title || '';
+      var d = it.date ? ' — <span style="opacity:.7">'+it.date+'</span>' : '';
+      var s = it.summary ? '<div style="opacity:.85;margin-top:2px;">'+it.summary+'</div>' : '';
+      return '<div style="padding:10px 0;border-bottom:1px solid #e6e8ee;">'
+           +   '<a href="'+it.url+'" target="_blank" rel="noopener">'+t+'</a>'+d
+           +   s
+           + '</div>';
+    }).join('');
+    box.innerHTML = html;
+  }
+
+  function search(q){
+    if(!DATA){ return; }
+    q = (q||'').toLowerCase().trim();
+    if(!q){ box.innerHTML=''; return; }
+    var words = q.split(/\s+/);
+    var res = DATA.filter(function(it){
+      var hay = (it.title+' '+(it.summary||'')+' '+(it.tags||[]).join(' ')).toLowerCase();
+      return words.every(function(w){ return hay.indexOf(w) >= 0; });
+    }).slice(0,50); // do 50 rezultata
+    render(res);
+  }
+
+  // učitaj index.json jednom
+  fetch('/index.json', {credentials:'omit'})
+    .then(function(r){ return r.json(); })
+    .then(function(j){ DATA = j; })
+    .catch(function(){ box.innerHTML = '<div style="color:#b42318">Greška pri učitavanju indeksa.</div>'; });
+
+  form.addEventListener('submit', function(e){
+    e.preventDefault();
+    search(input.value);
+  });
+
+  // “live” pretraga dok tipka
+  input.addEventListener('input', function(){ search(input.value); });
+})();
+</script>
