@@ -35,6 +35,10 @@ tagline           = "Automated summaries of news from publicly available sources
 showAds           = true
 placeholder_image = "/images/finance.jpg"
 
+  [params.ads]
+  provider = "a-ads"        # "a-ads" | "house"
+  client   = "2411598"      # tvoj A-ADS Ad Unit ID
+  slot     = ""             # ne koristi se za A-ADS
 
 [taxonomies]
   tag = "tags"
