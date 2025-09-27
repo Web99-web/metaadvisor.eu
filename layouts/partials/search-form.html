@@ -5,14 +5,16 @@
 {{- end -}}
 
 <form id="site-search" action="https://duckduckgo.com/" method="GET" target="_blank"
-      style="display:flex;gap:8px;align-items:center;">
+      style="display:flex;gap:10px;align-items:center;max-width:640px;">
+  <input type="hidden" name="sites" value="metaadvisor.eu">
   <input type="search" name="q" placeholder="{{ $ph }}" aria-label="{{ $ph }}"
-         style="padding:6px 10px;border:1px solid #ccc;border-radius:8px;min-width:220px;">
+         style="flex:1;padding:10px 14px;border:1px solid #cfd6e4;border-radius:10px;font-size:16px;">
   <button type="submit"
-          style="padding:6px 12px;border:1px solid #ccc;border-radius:8px;cursor:pointer;">
+          style="padding:10px 14px;border:1px solid #cfd6e4;border-radius:10px;cursor:pointer;font-size:16px;">
     Search
   </button>
 </form>
+
 
 <script>
   // Prefix "site:metaadvisor.eu " na upit prije slanja
