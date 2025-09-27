@@ -2,29 +2,52 @@
 {{- $p := site.Params.ads -}}
 {{- if and $p (or (not site.Params.showAds) (ne site.Params.showAds false)) -}}
   {{- $provider := default "house" $p.provider -}}
-  {{- $size := default "728x90" $p.size -}}
+
+  {{/* Lokalni override ima prednost → .size → config → default */}}
+  {{- $size := .size | default $p.size | default "728x90" -}}
+
+  {{/* CSS klasa po veličini, npr. ad--300x250 */}}
+  {{- $sizeClass := printf "ad--%s" $size -}}
 
   {{- if eq $provider "a-ads" -}}
-    <div class="adbox">
+    <div class="adbox {{ $sizeClass }}">
       <div class="adbox-head">Sponsored</div>
       <div class="adbox-body">
         <iframe
           data-aa="{{ $p.client }}"
           src="https://ad.a-ads.com/{{ $p.client }}?size={{ $size }}"
-          style="width:100%; min-height:90px; border:0; padding:0; overflow:hidden; background:transparent;"
+          style="border:0; padding:0; overflow:hidden; background:transparent;"
           scrolling="no" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </div>
+
     <style>
-      .adbox{border:1px solid #e6e8ee;border-radius:10px;background:#fff;
-             padding:8px 10px;margin:16px 0;box-shadow:0 2px 8px rgba(0,0,0,.04)}
-      .adbox-head{font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;
-                  color:#667085;margin-bottom:6px}
-      .adbox-body{display:block;max-width:740px;margin:0 auto} /* suzi banner da ne “pliva” */
-      @media (max-width: 640px){ .adbox-body{max-width:100%} }
+      .adbox{
+        border:1px solid #e6e8ee;border-radius:10px;background:#fff;
+        padding:8px 10px;margin:16px 0;box-shadow:0 2px 8px rgba(0,0,0,.04)
+      }
+      .adbox-head{
+        font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;
+        color:#667085;margin-bottom:6px
+      }
+      .adbox-body{display:flex;justify-content:center;align-items:center}
+      .adbox iframe{display:block}
+
+      /* Standardne veličine (možeš dodati još po potrebi) */
+      .ad--728x90  iframe{width:728px;height:90px}
+      .ad--468x60  iframe{width:468px;height:60px}
+      .ad--320x50  iframe{width:320px;height:50px}
+      .ad--300x250 iframe{width:300px;height:250px}
+      .ad--336x280 iframe{width:336px;height:280px}
+      .ad--160x600 iframe{width:160px;height:600px}
+      .ad--120x600 iframe{width:120px;height:600px}
+
+      /* “Adaptive” – bez fiksnih dimenzija, samo centriraj */
+      .ad--Adaptive .adbox-body{justify-content:center}
     </style>
 
   {{- else -}}
+    <!-- HOUSE AD (fallback) -->
     <a class="house-ad" href="/sponzoriraj-nas/" rel="sponsored noopener noreferrer" target="_blank">
       <div class="house-ad-card">
         <div class="house-ad-kicker">Sponzorirani prostor</div>
