@@ -35,10 +35,14 @@
 
 
 
-  <div class="grid">
-    {{ $i := 0 }}
-    {{ range $pg := $pager.Pages }}
- 
+<!-- TWO-COLUMN LAYOUT: main + sidebar -->
+<div class="news-layout" style="display:grid;grid-template-columns:1fr;gap:24px;">
+  <div class="news-main">
+
+    <div class="grid">
+      {{ $i := 0 }}
+      {{ range $pg := $pager.Pages }}
+
 
       {{/* Preskoči inbox-drafts */}}
       {{ $isDraftCard := or (in (lower $pg.Title) "inbox (drafts)") (hasPrefix $pg.Slug "inbox-drafts") (in $pg.File.Path "inbox-drafts-") }}
@@ -186,9 +190,19 @@
 
       {{ end }}
     {{ end }}
+  </div> <!-- /grid -->
+</div> <!-- /news-main -->
+
+<aside class="news-side">
+  <div style="position:sticky;top:16px;display:flex;flex-direction:column;gap:16px;">
+    {{ partial "ads/slot.html" (dict "size" "300x250") }}
+    {{ partial "ads/slot.html" (dict "size" "300x250") }} <!-- drugi slot (opcionalno) -->
   </div>
+</aside>
+</div> <!-- /news-layout -->
 
   {{/* === SMART PAGINATION (First/Prev, window, Next/Last) === */}}
+
   {{ $p := $pager }}
   {{ if gt $p.TotalPages 1 }}
     {{ $s := newScratch }}
