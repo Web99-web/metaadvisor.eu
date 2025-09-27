@@ -1,0 +1,41 @@
+{{- $p := site.Params.ads -}}
+{{- if and $p (or (not site.Params.showAds) (ne site.Params.showAds false)) -}}
+  {{- $provider := default "house" $p.provider -}}
+  {{- $size := default "728x90" $p.size -}} {{/* opcionalno: "Adaptive" ili npr. "300x250" */}}
+
+  {{- if eq $provider "a-ads" -}}
+    <!-- A-ADS (Anonymous Ads) -->
+    <div class="adwrap">
+      <iframe
+        data-aa="{{ $p.client }}"
+        src="https://ad.a-ads.com/{{ $p.client }}?size={{ $size }}"
+        style="width:100%; min-height:100px; border:0; padding:0; overflow:hidden; background:transparent;"
+        scrolling="no"
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <style>
+      .adwrap { margin: 12px 0; }
+      @media (max-width: 640px){
+        .adwrap iframe { min-height: 90px; }
+      }
+    </style>
+
+  {{- else -}}
+    <!-- HOUSE AD (fallback) -->
+    <a class="house-ad" href="/sponzoriraj-nas/" rel="sponsored noopener noreferrer" target="_blank">
+      <div class="house-ad-card">
+        <div class="house-ad-kicker">Sponzorirani prostor</div>
+        <div class="house-ad-title">Podrži MetaAdvisor — pomažeš pokriti trošak alata</div>
+        <div class="house-ad-cta">➡️ Stripe / BuyMeACoffee</div>
+      </div>
+    </a>
+    <style>
+      .house-ad-card{border:1px dashed #7a7a7a;padding:14px;border-radius:12px;margin:12px 0;background:#0f1320;color:#e8ecf6}
+      .house-ad-kicker{font-size:.85rem;opacity:.8;margin-bottom:6px}
+      .house-ad-title{font-weight:700;margin-bottom:8px}
+      .house-ad-cta{font-weight:600;opacity:.9}
+      .house-ad{display:block;text-decoration:none}
+    </style>
+  {{- end -}}
+{{- end -}}
