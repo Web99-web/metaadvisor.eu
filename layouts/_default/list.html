@@ -1,0 +1,241 @@
+{{ define "main" }}
+<div class="container" id="latest">
+
+  {{ if not hugo.IsProduction }}
+  <!-- Debug traka -->
+  <div style="position:sticky;top:0;z-index:99999;background:#ff0;padding:6px 10px;border:2px solid #000;">
+    LIST TEMPLATE ACTIVE (list.html)
+  </div>
+{{ end }}
+
+
+  <h1 style="margin:10px 0 14px;">
+    {{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}
+  </h1>
+
+  <!-- AD: top banner ispod naslova -->
+  <div style="max-width:1100px;margin:0 auto;padding:0 16px;">
+    {{ partial "ads/slot.html" (dict "size" "Adaptive") }}
+
+    <!-- SEARCH: jednostavni DuckDuckGo site search -->
+    <div style="margin-top:12px;">
+      {{ partial "search-ui.html" . }}
+    </div>
+  </div>
+
+
+{{/* Skupi stranice i pripremi pager */}}
+{{ $pages := .Pages }}
+{{ if or .IsHome (eq (len $pages) 0) }}{{ $pages = .Site.RegularPages }}{{ end }}
+{{ $pages = where $pages "Type" "news" }}
+
+{{/* Najnovije prvo; priority samo razbija poredak unutar istog datuma */}}
+{{ $sorted := sort $pages ".Date" "desc" ".Params.priority" "desc" }}
+{{ $pager := .Paginate $sorted }}
+
+
+
+  <div class="grid">
+    {{ $i := 0 }}
+    {{ range $pg := $pager.Pages }}
+ 
+
+      {{/* Preskoči inbox-drafts */}}
+      {{ $isDraftCard := or (in (lower $pg.Title) "inbox (drafts)") (hasPrefix $pg.Slug "inbox-drafts") (in $pg.File.Path "inbox-drafts-") }}
+      {{ if not $isDraftCard }}
+
+        {{/* ---- PLACEHOLDERS & VARS -------------------------------------- */}}
+        {{ $ph  := "/images/placeholder-metaadvisor-small.jpg" }}
+        {{ $src := "" }}
+
+        {{/* ---- 1) HERO iz bundlea -------------------------------------- */}}
+        {{ with $pg.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
+
+        {{/* ---- 2) image_url / image (samo lokalno! / ili bundle/rel) ---- */}}
+        {{ if not $src }}
+          {{ $img := $pg.Params.image_url | default $pg.Params.image }}
+          {{ if $img }}
+            {{/* Ako je apsolutni http/https → IGNORE na listingu */}}
+            {{ if hasPrefix $img "/" }}
+              {{ $src = $img }}
+            {{ else if not (hasPrefix $img "http") }}
+              {{ with $pg.Resources.GetMatch $img }}
+                {{ $src = .RelPermalink }}
+              {{ else }}
+                {{/* ako je ime tipa "bitcoin-btc.jpg" → probaj iz /images */}}
+                {{ $src = printf "/images/%s" $img }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        {{/* ---- 3) TAG → IMAGE MAP (iz starog koda; NIŠTA IZBAČENO) ------ */}}
+        {{ $tagMap := dict
+          "ai" "/images/ai.jpg" "artificial-intelligence" "/images/ai.jpg"
+          "crypto" "/images/fallback-crypto.jpg"
+          "bitcoin" "/images/bitcoin-btc.jpg" "btc" "/images/bitcoin-btc.jpg"
+          "ethereum" "/images/eth.jpg" "eth" "/images/eth.jpg"
+          "ethereum-classic" "/images/etc-btc.jpg" "etc" "/images/etc-btc.jpg"
+          "litecoin" "/images/litecoin-ltc.png" "ltc" "/images/litecoin-ltc.png"
+          "ripple" "/images/xrp.png" "xrp" "/images/xrp.png"
+          "cardano" "/images/cardano-ada-logo.png" "ada" "/images/cardano-ada-logo.png"
+          "solana" "/images/solana.jpg" "sol" "/images/solana.jpg"
+          "binance" "/images/bnb.png" "bnb" "/images/bnb.png"
+          "polkadot" "/images/polkadot-dot.png" "dot" "/images/polkadot-dot.png"
+          "chainlink" "/images/chainlink-link.png" "link" "/images/chainlink-link.png"
+          "monero" "/images/monero-xmr.png" "xmr" "/images/monero-xmr.png"
+          "arbitrum" "/images/arbitrum-arb.png" "arb" "/images/arbitrum-arb.png"
+          "uniswap" "/images/uniswap-uni.png" "uni" "/images/uniswap-uni.png"
+          "injective" "/images/injective-inj.png" "inj" "/images/injective-inj.png"
+          "kaspa" "/images/kaspa-kas.png" "kas" "/images/kaspa-kas.png"
+          "tether" "/images/tether-usdt.png" "usdt" "/images/tether-usdt.png"
+          "aave" "/images/aave.png" "cosmos" "/images/cosmos-atom.png" "atom" "/images/cosmos-atom.png"
+          "dogecoin" "/images/dogecoin-doge.png" "doge" "/images/dogecoin-doge.png"
+          "sei" "/images/sei.png" "sui" "/images/sui.png" "ordi" "/images/ordi.png" "ordinals" "/images/ordi.png"
+          "avalanche" "/images/avalanche-avax.png" "avax" "/images/avalanche-avax.png"
+          "bittensor" "/images/bittensor-tao.png" "tao" "/images/bittensor-tao.png"
+          "finance" "/images/finance.jpg"
+          "stocks" "/images/stock-market-dionice.jpg" "stock" "/images/stock-market-dionice.jpg" "equities" "/images/stock-market-dionice.jpg" "dionice" "/images/stock-market-dionice.jpg"
+          "security" "/images/fallback-security.jpg" "privacy" "/images/fallback-security.jpg"
+          "gold" "/images/gold.jpg" "google" "/images/Google.png" "visa" "/images/visa.jpg"
+          "phone" "/images/mobile-phone.jpg" "mobile" "/images/mobile-phone.jpg"
+        }}
+
+        {{ $tagImg := "" }}
+        {{ with $pg.Params.tags }}
+          {{ range . }}
+            {{- if not $tagImg -}}
+              {{ $k := lower . }}
+              {{ with index $tagMap $k }}{{ $tagImg = . }}{{ end }}
+            {{- end -}}
+          {{ end }}
+        {{ end }}
+        {{ if and (not $tagImg) (isset $pg.Params "category") }}
+          {{ $cat := lower $pg.Params.category }}
+          {{ with index $tagMap $cat }}{{ $tagImg = . }}{{ end }}
+        {{ end }}
+
+        {{ if and (not $src) $tagImg }}{{ $src = $tagImg }}{{ end }}
+
+        {{/* ---- 4) Heuristika po naslovu/tagovima ------------------------- */}}
+        {{ if not $src }}
+          {{ $t := lower $pg.Title }}
+          {{ $tags := $pg.Params.tags | default (slice) }}
+          {{ $tagsLower := apply $tags "lower" "." }}
+
+          {{ if or (in $t "apple") (in $t "iphone") (in $tagsLower "apple") (in $tagsLower "iphone") }}
+            {{ $src = "/images/mobile-phone.jpg" }}
+          {{ end }}
+          {{ if and (not $src) (or (in $t "google") (in $tagsLower "google")) }}
+            {{ $src = "/images/Google.png" }}
+          {{ end }}
+          {{ if and (not $src) (or (in $t "bitcoin") (in $t "btc") (in $tagsLower "bitcoin") (in $tagsLower "btc")) }}
+            {{ $src = "/images/bitcoin-btc.jpg" }}
+          {{ end }}
+          {{ if and (not $src) (or (in $t "ethereum") (in $t "eth") (in $tagsLower "ethereum") (in $tagsLower "eth")) }}
+            {{ $src = "/images/eth-ethereum.jpg" }}
+          {{ end }}
+          {{ if and (not $src) (or (in $t " ai") (in $t "artificial intelligence") (in $tagsLower "ai")) }}
+            {{ $src = "/images/ai.jpg" }}
+          {{ end }}
+        {{ end }}
+
+        {{ if not $src }}{{ $src = $ph }}{{ end }}
+
+   <div class="card"
+     style="display:flex!important;flex-direction:column!important;align-items:stretch!important;float:none!important;clear:both!important">
+
+  <a href="{{ $pg.RelPermalink }}">
+    <img class="card-img"
+         style="width:100%!important;height:365px!important;object-fit:cover!important;display:block!important;float:none!important;margin:0!important"
+         src="{{ $src }}?v={{ $pg.Lastmod.Unix }}"
+         alt="{{ $pg.Title }}"
+         loading="lazy" decoding="async"
+         onerror="this.onerror=null;this.src='{{ cond (ne $tagImg "") $tagImg $ph }}'">
+  </a>
+
+  <div class="card-body"
+       style="display:flex!important;flex-direction:column!important;gap:8px!important;min-height:0!important">
+    <div class="card-meta">
+      {{ with $pg.Params.category }}
+        <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>
+      {{ else }}
+        <span class="badge">news</span>
+      {{ end }}
+      <time datetime="{{ $pg.Date }}">{{ $pg.Date.Format "2006-01-02" }}</time>
+    </div>
+
+    <h3 class="card-title">
+      <a href="{{ $pg.RelPermalink }}">{{ $pg.Title }}</a>
+    </h3>
+
+    {{ with $pg.Summary }}<p class="card-summary">{{ . | plainify | truncate 160 }}</p>{{ end }}
+  </div>
+
+  <!-- 🔸 DODANO: cijela kartica klik -->
+  <a class="stretched-link" href="{{ $pg.RelPermalink }}" aria-label="{{ $pg.Title }}"></a>
+</div>
+              {{/* brojač i oglas nakon svake 6. kartice */}}
+        {{ $i = add $i 1 }}
+        {{ if and (gt $i 0) (eq (mod $i 6) 0) }}
+          <div style="grid-column: 1 / -1; margin: 8px 0;">
+            {{ partial "ads/slot.html" (dict "size" "728x90") }}
+          </div>
+        {{ end }}
+
+
+      {{ end }}
+    {{ end }}
+  </div>
+
+  {{/* === SMART PAGINATION (First/Prev, window, Next/Last) === */}}
+  {{ $p := $pager }}
+  {{ if gt $p.TotalPages 1 }}
+    {{ $s := newScratch }}
+    {{ $s.Set "start" (sub $p.PageNumber 2) }}
+    {{ if lt ($s.Get "start") 1 }}{{ $s.Set "start" 1 }}{{ end }}
+    {{ $s.Set "end" (add $p.PageNumber 2) }}
+    {{ if gt ($s.Get "end") $p.TotalPages }}{{ $s.Set "end" $p.TotalPages }}{{ end }}
+
+    <nav class="pagination" role="navigation" aria-label="Pagination">
+      {{ if $p.HasPrev }}
+        <a class="page-btn" href="{{ $p.First.URL }}" aria-label="First page">««</a>
+        <a class="page-btn" href="{{ $p.Prev.URL }}" aria-label="Previous page">«</a>
+      {{ else }}
+        <span class="page-btn is-disabled">««</span>
+        <span class="page-btn is-disabled">«</span>
+      {{ end }}
+
+      {{ if gt ($s.Get "start") 1 }}
+        {{ $first := index $p.Pagers 0 }}
+        <a class="page-btn" href="{{ $first.URL }}">1</a>
+        {{ if gt ($s.Get "start") 2 }}<span class="page-ellipsis">…</span>{{ end }}
+      {{ end }}
+
+      {{ range $i := seq ($s.Get "start") ($s.Get "end") }}
+        {{ $pg2 := index $p.Pagers (sub $i 1) }}
+        {{ if eq $i $p.PageNumber }}
+          <span class="page-btn is-active" aria-current="page">{{ $i }}</span>
+        {{ else }}
+          <a class="page-btn" href="{{ $pg2.URL }}">{{ $i }}</a>
+        {{ end }}
+      {{ end }}
+
+      {{ if lt ($s.Get "end") $p.TotalPages }}
+        {{ if lt ($s.Get "end") (sub $p.TotalPages 1) }}<span class="page-ellipsis">…</span>{{ end }}
+        {{ $last := index $p.Pagers (sub $p.TotalPages 1) }}
+        <a class="page-btn" href="{{ $last.URL }}">{{ $p.TotalPages }}</a>
+      {{ end }}
+
+      {{ if $p.HasNext }}
+        <a class="page-btn" href="{{ $p.Next.URL }}" aria-label="Next page">»</a>
+        <a class="page-btn" href="{{ $p.Last.URL }}" aria-label="Last page">»»</a>
+      {{ else }}
+        <span class="page-btn is-disabled">»</span>
+        <span class="page-btn is-disabled">»»</span>
+      {{ end }}
+    </nav>
+  {{ end }}
+
+</div>
+{{ end }}
