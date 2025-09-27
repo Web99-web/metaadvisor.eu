@@ -201,9 +201,22 @@
 </aside>
 </div> <!-- /news-layout -->
 
-  {{/* === SMART PAGINATION (First/Prev, window, Next/Last) === */}}
+<style>
+  /* Desktop: 3:1 raspored + sticky sidebar */
+  @media (min-width: 1024px){
+    .news-layout{ display:grid; grid-template-columns: 3fr 1fr; gap:24px; align-items:start; }
+    .news-side{ min-width:260px; }
+  }
+  /* Mobile/tablet: sakrij sidebar (ostaju top + in-grid oglasi) */
+  @media (max-width: 1023px){
+    .news-side{ display:none; }
+  }
+</style>
 
-  {{ $p := $pager }}
+{{/* === SMART PAGINATION (First/Prev, window, Next/Last) === */}}
+{{ $p := $pager }}
+...
+
   {{ if gt $p.TotalPages 1 }}
     {{ $s := newScratch }}
     {{ $s.Set "start" (sub $p.PageNumber 2) }}
