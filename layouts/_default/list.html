@@ -39,11 +39,11 @@
 <div class="news-wrap">
   <div class="news-layout">
 
-    <!-- LEFT SIDEBAR -->
+      <!-- LEFT SIDEBAR -->
     <aside class="news-side left">
       <div>
-        {{ partial "ads/slot.html" (dict "size" "100x450") }}
-        {{ partial "ads/slot.html" (dict "size" "100x450") }}
+        {{ partial "ads/slot.html" (dict "size" "160x600") }}
+        {{ partial "ads/slot.html" (dict "size" "160x600") }}
       </div>
     </aside>
 
@@ -173,51 +173,19 @@
       </div> <!-- /grid -->
     </div> <!-- /news-main -->
 
+
     <!-- RIGHT SIDEBAR -->
-    <aside class="news-side right">
-      <div>
-        {{ partial "ads/slot.html" (dict "size" "300x250") }}
-        {{ partial "ads/slot.html" (dict "size" "300x250") }}
-      </div>
-    </aside>
+  <aside class="news-side right">
+    <div>
+      {{ partial "ads/slot.html" (dict "size" "160x600") }}
+      {{ partial "ads/slot.html" (dict "size" "160x600") }}
+    </div>
+  </aside>
 
   </div> <!-- /news-layout -->
 </div> <!-- /news-wrap -->
 
-<style>
-  /* ŠIRI WRAP za tri stupca + dva sidebara */
-  .news-wrap{ max-width:1440px; margin:0 auto; padding:0 16px; }
 
-  /* Glavni grid kartica — koliko stane, do 3+ */
-  .news-main .grid{
-    display:grid;
-    gap:24px;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  }
-
-  /* Osnovni raspored: samo main (mobitel/tablet) */
-  .news-layout{
-    display:grid;
-    grid-template-columns: 1fr;
-    gap:24px;
-    align-items:start;
-  }
-  .news-side{ display:none; }
-
-  /* Širi tablet / uski desktop: samo desni sidebar */
-  @media (min-width: 1100px) and (max-width: 1399px){
-    .news-layout{ grid-template-columns: minmax(0,1fr) 320px; }
-    .news-side.right{ display:block; }
-    .news-side.right > div{ position:sticky; top:16px; display:flex; flex-direction:column; gap:16px; }
-  }
-
-  /* Velik desktop: lijevi + main + desni */
-  @media (min-width: 1400px){
-    .news-layout{ grid-template-columns: 320px minmax(0,1fr) 320px; }
-    .news-side{ display:block; }
-    .news-side > div{ position:sticky; top:16px; display:flex; flex-direction:column; gap:16px; }
-  }
-</style>
 
 <style>
   /* ✅ proširi #latest samo na ovoj stranici (ne dira druge) */
