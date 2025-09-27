@@ -1,34 +1,30 @@
-{{/* Ads partial – A-ADS + house fallback, s “Sponsored” okvirom i podrškom za size */}}
+{{/* Ads partial – A-ADS + house fallback, light okvir, podrška za size */}}
 {{- $p := site.Params.ads -}}
 {{- if and $p (or (not site.Params.showAds) (ne site.Params.showAds false)) -}}
   {{- $provider := default "house" $p.provider -}}
-  {{- $size := default "728x90" $p.size -}}  {{/* "Adaptive", "728x90", "300x250", ... */}}
+  {{- $size := default "728x90" $p.size -}}
 
   {{- if eq $provider "a-ads" -}}
-    <!-- A-ADS (Anonymous Ads) -->
     <div class="adbox">
       <div class="adbox-head">Sponsored</div>
       <div class="adbox-body">
         <iframe
           data-aa="{{ $p.client }}"
           src="https://ad.a-ads.com/{{ $p.client }}?size={{ $size }}"
-          style="width:100%; min-height:100px; border:0; padding:0; overflow:hidden; background:transparent;"
-          scrolling="no"
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"></iframe>
+          style="width:100%; min-height:90px; border:0; padding:0; overflow:hidden; background:transparent;"
+          scrolling="no" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </div>
     <style>
-      .adbox{border:1px solid #e4e7ec;border-radius:12px;background:#0f1320;
-             padding:8px 10px;margin:16px 0}
-      .adbox-head{font-size:.78rem;letter-spacing:.04em;text-transform:uppercase;
-                  opacity:.7;margin-bottom:6px;color:#e8ecf6}
-      .adbox-body{display:block}
-      @media (max-width:640px){ .adbox iframe{ min-height:90px } }
+      .adbox{border:1px solid #e6e8ee;border-radius:10px;background:#fff;
+             padding:8px 10px;margin:16px 0;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+      .adbox-head{font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;
+                  color:#667085;margin-bottom:6px}
+      .adbox-body{display:block;max-width:740px;margin:0 auto} /* suzi banner da ne “pliva” */
+      @media (max-width: 640px){ .adbox-body{max-width:100%} }
     </style>
 
   {{- else -}}
-    <!-- HOUSE AD (fallback) -->
     <a class="house-ad" href="/sponzoriraj-nas/" rel="sponsored noopener noreferrer" target="_blank">
       <div class="house-ad-card">
         <div class="house-ad-kicker">Sponzorirani prostor</div>
@@ -37,7 +33,7 @@
       </div>
     </a>
     <style>
-      .house-ad-card{border:1px dashed #7a7a7a;padding:14px;border-radius:12px;margin:16px 0;background:#0f1320;color:#e8ecf6}
+      .house-ad-card{border:1px dashed #d0d5dd;padding:14px;border-radius:10px;margin:16px 0;background:#fff;color:#111}
       .house-ad-kicker{font-size:.85rem;opacity:.8;margin-bottom:6px}
       .house-ad-title{font-weight:700;margin-bottom:8px}
       .house-ad-cta{font-weight:600;opacity:.9}
