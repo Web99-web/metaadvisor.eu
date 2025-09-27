@@ -1,0 +1,30 @@
+{{/* Simple site search via DuckDuckGo (opens in new tab) */}}
+{{- $ph := "Search…" -}}
+{{- if eq site.Language.Lang "hr" -}}{{ $ph = "Pretraga…" -}}
+{{- else if eq site.Language.Lang "de" -}}{{ $ph = "Suche…" -}}
+{{- end -}}
+
+<form id="site-search" action="https://duckduckgo.com/" method="GET" target="_blank"
+      style="display:flex;gap:8px;align-items:center;">
+  <input type="search" name="q" placeholder="{{ $ph }}" aria-label="{{ $ph }}"
+         style="padding:6px 10px;border:1px solid #ccc;border-radius:8px;min-width:220px;">
+  <button type="submit"
+          style="padding:6px 12px;border:1px solid #ccc;border-radius:8px;cursor:pointer;">
+    Search
+  </button>
+</form>
+
+<script>
+  // Prefix "site:metaadvisor.eu " na upit prije slanja
+  (function(){
+    var f = document.getElementById('site-search');
+    if(!f) return;
+    f.addEventListener('submit', function(e){
+      var q = f.querySelector('input[name="q"]');
+      var prefix = "site:metaadvisor.eu ";
+      if (q && q.value && q.value.indexOf(prefix) !== 0) {
+        q.value = prefix + q.value;
+      }
+    });
+  })();
+</script>
