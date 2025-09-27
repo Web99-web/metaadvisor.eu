@@ -13,10 +13,16 @@
     {{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}
   </h1>
 
-    <!-- AD: top banner ispod naslova -->
+  <!-- AD: top banner ispod naslova -->
   <div style="max-width:1100px;margin:0 auto;padding:0 16px;">
     {{ partial "ads/slot.html" (dict "size" "Adaptive") }}
+
+    <!-- SEARCH: jednostavni DuckDuckGo site search -->
+    <div style="margin-top:12px;">
+      {{ partial "search-form.html" . }}
+    </div>
   </div>
+
 
 {{/* Skupi stranice i pripremi pager */}}
 {{ $pages := .Pages }}
