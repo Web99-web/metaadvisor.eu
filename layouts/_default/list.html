@@ -227,6 +227,16 @@
   @media (min-width: 1700px){ .news-main .card-img{ height: 460px; } }
 
 
+  /* === FORCE visinu slika u GLAVNOM LISTU === */
+.news-main .card-img{
+  height: 560px !important;      /* podigni koliko želiš: 520/560/600 */
+  object-fit: cover !important;
+  width: 100%;
+  display: block;
+}
+@media (max-width: 1399px){ .news-main .card-img{ height: 440px !important; } }
+@media (max-width: 1099px){ .news-main .card-img{ height: 300px !important; } }
+@media (max-width: 640px){  .news-main .card-img{ height: 240px !important; } }
 
   
 </style>
