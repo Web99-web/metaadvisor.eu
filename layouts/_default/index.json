@@ -3,14 +3,39 @@
 {{- $pages = where $pages ".Lang" $lang -}}
 [
 {{- $first := true -}}
-{{- range $pages -}}
+{{- range $pg := $pages -}}
   {{- if not $first }},{{ end -}}{{- $first = false -}}
+  {{- $ph := "/images/placeholder-metaadvisor-small.jpg" -}}
+  {{- $src := "" -}}
+
+  {{/* 1) hero* iz bundlea */}}
+  {{ with $pg.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
+
+  {{/* 2) .Params.image_url ili .Params.image (samo lokalni put) */}}
+  {{ if not $src }}
+    {{ $img := $pg.Params.image_url | default $pg.Params.image }}
+    {{ if $img }}
+      {{ if hasPrefix $img "/" }}
+        {{ $src = $img }}
+      {{ else if not (hasPrefix $img "http") }}
+        {{ with $pg.Resources.GetMatch $img }}
+          {{ $src = .RelPermalink }}
+        {{ else }}
+          {{ $src = printf "/images/%s" $img }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if not $src }}{{ $src = $ph }}{{ end }}
+
   {
-    "title": {{ .Title | jsonify }},
-    "url": {{ .RelPermalink | jsonify }},
-    "date": {{ .Date.Format "2006-01-02" | jsonify }},
-    "summary": {{ .Summary | plainify | jsonify }},
-    "tags": {{ .Params.tags | default (slice) | jsonify }}
+    "title": {{ $pg.Title | jsonify }},
+    "url": {{ $pg.RelPermalink | jsonify }},
+    "date": {{ $pg.Date.Format "2006-01-02" | jsonify }},
+    "summary": {{ $pg.Summary | plainify | jsonify }},
+    "image": {{ $src | jsonify }},
+    "tags": {{ $pg.Params.tags | default (slice) | jsonify }}
   }
 {{- end -}}
 ]
