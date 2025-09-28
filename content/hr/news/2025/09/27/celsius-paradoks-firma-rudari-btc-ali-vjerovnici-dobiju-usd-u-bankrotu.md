@@ -68,4 +68,60 @@ Stečajna pravila su **fiat-prvo**: sve tražbine se prevode u **USD** na *petit
 
 3) **Konverzija pri isplati (valovi kroz 2024.)**  
    Taj **USD iznos** se na vaš **stvarni datum isporuke** pretvara u BTC/ETH po **tadašnjoj cijeni**.  
-   ➝ Ako je BTC dotad **porastao**, dobit
+   ➝ Ako je BTC dotad **porastao**, dobit ćete **manje BTC-a**; ako je **pao**, dobili biste **više BTC-a**. USD vrijednost cilja ~70% claima.
+
+> Ovo **nije shortanje**, nego **način obračuna**. Coinovi su **kanal isporuke** USD iznosa iz plana — zato “70%” nije bilo “70% BTC-a”.
+
+---
+
+## Simbolični primjer (1 BTC) — *petition* fiksan, isplata u valovima
+Brojevi su **simbolični** (za mehaniku); *petition date* je **fiksan: 2022-07-13**.
+
+- **Polazno (2022-07-13):**  
+  1.000000 BTC × **$19,393/BTC** ≈ **$19,393** (*USD claim*)
+
+- **Plan (recovery 70%):**  
+  **$13,575.10 (USD)**  
+  **BTC ekvivalent “tada” (2022-07-13):** $13,575.10 ÷ $19,393 ≈ **0.7000 BTC**
+
+- **Isplata (jedan od valova u 2024., npr. BTC ≈ $62,000):**  
+  **isporučeni BTC:** $13,575.10 ÷ $62,000 ≈ **0.2190 BTC**
+
+### Koliki je “gubitak” u BTC-u po ovom primjeru?
+- Intuitivno očekivanje (70% coin): **0.7000 BTC**  
+- Stvarno (USD-prvo logika): **0.2190 BTC**  
+- **Razlika:** **0.4810 BTC**  
+- **Efektivni BTC-postotak prema 1 BTC polazno:** **21.9%** (umjesto 70%)
+
+---
+
+## Zašto su neki primili ranije, a neki kasnije
+- **Coinbase on-boarding**: mnogi su čekali tjednima/mjesecima (KYC/AML, jurisdikcije, compliance flagovi).  
+- **Operativni valovi**: distribucije su išle **u valovima** – različiti korisnici, različiti datumi.  
+- **Više tranši**: pojedinci su primali **odvojeno** (BTC/ETH zasebno ili korektivne transakcije).
+
+Zato se u javnim pričama vide različiti datumi — **datum distribucije = vaš konkretan dan isporuke**, ne isti za sve.
+
+---
+
+## Pojmovnik
+- **Petition date** – 13.07.2022., dan kada se sve tražbine prevode u USD.  
+- **Allowed Claim** – priznata USD vrijednost tražbine.  
+- **Recovery %** – postotak koji se isplaćuje (npr. 70%).  
+- **Convenience Class** – brzi USD-obračun, bez dionica/IRR.  
+- **Ionic Digital** – entitet koji je preuzeo rudarsku imovinu nakon restrukturacije.
+
+---
+
+## Naš osvrt (Metaadvisor)
+- **Sistemski problem**: pravila su fiat-prvo, iako je imovina bila **coin-prvo**.  
+- **Mali vjerovnici** su najteže pogođeni: izgubili su **coin-upside** i **equity exposure** (Ionic/IRR).  
+- **Operativna realnost**: različiti datumi isplate i Coinbase on-boarding dodatno su povećali **nepravedan dojam**.  
+- **Što dalje?** Ako industrija želi fer tretman coin-štediša, treba **obračun u naturi (coin-first)** ili barem **hibrid** koji štiti količinu coina; bez toga, svaki budući bankrot centralizirane platforme bit će isti fiat déjà-vu.  
+
+**Dodatni osvrt (naglašeno):**
+- Celsius je **učvrstio jaz** između kripto i fiat logike: ljudi su ulagali u BTC, ali su tretirani kao **USD kreditori**.  
+- **Mali vjerovnici su najviše nastradali**: odrekli su se dionica i dobili tek **petinu coina** koje su očekivali.  
+- **Paradoks je bolan**: tvrtka koja je **rudila BTC** isplatila je štediše prema **USD formuli**, a ne u coinima.  
+- **Dok se zakoni ne promijene**, centralizirani stečajevi će uvijek značiti **fiat obračun** — bez obzira na to što firma realno drži ili proizvodi.  
+- **Pouka:** *“Not your keys, not your coins”* nije samo fraza, nego **stvarni životni scenarij u stečajevima**.
