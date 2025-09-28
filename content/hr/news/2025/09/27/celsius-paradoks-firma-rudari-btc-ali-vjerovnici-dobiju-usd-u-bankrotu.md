@@ -134,6 +134,6 @@ Zato se u javnim pričama vide različiti datumi — **datum distribucije = vaš
 **Dodatni osvrt (naglašeno):**
 - Celsius je **učvrstio jaz** između kripto i fiat logike: ljudi su ulagali u BTC, ali su tretirani kao **USD kreditori**.  
 - **Mali vjerovnici su najviše nastradali**: odrekli su se dionica i dobili tek **petinu coina** koje su očekivali.  
-- **Paradoks je bolan**: tvrtka koja je **rudila BTC** isplatila je štediše prema **USD formuli**, a ne u coinima.  
+- **Paradoks je bolan**: tvrtka koja je **rudarila BTC** isplatila je štediše prema **USD formuli**, a ne u coinima.  
 - **Dok se zakoni ne promijene**, centralizirani stečajevi će uvijek značiti **fiat obračun** — bez obzira na to što firma realno drži ili proizvodi.  
 - **Pouka:** *“Not your keys, not your coins”* nije samo fraza, nego **stvarni životni scenarij u stečajevima**.
