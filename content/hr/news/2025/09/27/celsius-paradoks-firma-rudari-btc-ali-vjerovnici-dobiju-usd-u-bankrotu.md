@@ -93,6 +93,17 @@ Brojevi su **simbolični** (za mehaniku); *petition date* je **fiksan: 2022-07-1
 - **Razlika:** **0.4810 BTC**  
 - **Efektivni BTC-postotak prema 1 BTC polazno:** **21.9%** (umjesto 70%)
 
+## Efekt vremena: rani vs. kasni val (dodatno zakidanje)
+Isti USD-iznos iz plana nije isti iznos BTC/ETH ukoliko osobe ponovo žele kupiti BTC/ETH na  **dan isplate**.
+
+**Usporedba (1 BTC polazno; USD claim = $19,393; recovery 70% = $13,575.10):**
+- **Rani val (npr. BTC = $45,000):** $13,575.10 ÷ $45,000 = **0.3017 BTC**
+- **Kasni val (npr. BTC = $62,000):** $13,575.10 ÷ $62,000 = **0.2190 BTC**
+
+**Razlika zbog vremena:** 0.3017 − 0.2190 = **0.0827 BTC** manje za kasnije isplaćene (≈ **−27%** vs. rani val, gledano po količini BTC-a).
+
+> Zaključak: tko je bio **prvi isplaćen**, mogao je dobiti **više BTC-a** za isti USD iznos i/ili taj BTC odmah zadržati/kupovati po nižoj cijeni. **Kasnije isplate** (uz višu cijenu BTC-a) znače **manje coina** i dodatno “zakidanje” u coin-terminima.
+
 ---
 
 ## Zašto su neki primili ranije, a neki kasnije
@@ -116,7 +127,8 @@ Zato se u javnim pričama vide različiti datumi — **datum distribucije = vaš
 ## Naš osvrt (Metaadvisor)
 - **Sistemski problem**: pravila su fiat-prvo, iako je imovina bila **coin-prvo**.  
 - **Mali vjerovnici** su najteže pogođeni: izgubili su **coin-upside** i **equity exposure** (Ionic/IRR).  
-- **Operativna realnost**: različiti datumi isplate i Coinbase on-boarding dodatno su povećali **nepravedan dojam**.  
+- **Operativna realnost**: različiti datumi isplate i Coinbase on-boarding dodatno su povećali **nepravedan dojam**.
+- - **Vremenska nepravda:** valovi isplata stvorili su dodatni **time-risk** — kasniji valovi (uz višu cijenu BTC/ETH) dobivaju **manje coina** za isti USD iznos, dok su rani valovi mogli **kupovati/čuvati** po nižoj cijeni.
 - **Što dalje?** Ako industrija želi fer tretman coin-štediša, treba **obračun u naturi (coin-first)** ili barem **hibrid** koji štiti količinu coina; bez toga, svaki budući bankrot centralizirane platforme bit će isti fiat déjà-vu.  
 
 **Dodatni osvrt (naglašeno):**
