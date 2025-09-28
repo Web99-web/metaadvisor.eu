@@ -210,7 +210,7 @@
 
   /* ✅ veliki desktop: lijevi + main + desni sidebar, 3 kolone u sredini */
   @media (min-width: 1400px){
-    .news-layout{ grid-template-columns: 200px minmax(0,1fr) 200px; }
+    .news-layout{ grid-template-columns: 160px minmax(0,1fr) 160px; }
     .news-side{ display:block; }
     .news-side > div{ position:sticky; top:16px; display:flex; flex-direction:column; gap:16px; }
     .news-main .grid{ display:grid; gap:24px; grid-template-columns: repeat(3, 1fr); }
@@ -229,7 +229,7 @@
 
   /* === FORCE visinu slika u GLAVNOM LISTU === */
 .news-main .card-img{
-  height: 560px !important;      /* podigni koliko želiš: 520/560/600 */
+  height: 600px !important;      /* podigni koliko želiš: 520/560/600 */
   object-fit: cover !important;
   width: 100%;
   display: block;
