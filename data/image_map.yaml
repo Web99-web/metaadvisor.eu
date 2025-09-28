@@ -37,10 +37,10 @@ mapping:
   thorchain: [thorchain-rune-logo.png]
   myx: [myx-token.svg, myx-token-512.png]
   hype: [hype-hyperliquid.png]
-  Aster: [Aster long.png]
+  Aster: [Aster-long.png]
   dollar: [net-dollar-simple.png]
   spxa: [spxa-tokenized-sp500-textonly.png]
-  Aster long.png
+  
   
   # --- AI / TECH ---
   ai: [ai.jpg, ai1.jpg, ai-manja.jpg, ai2.jpg]
