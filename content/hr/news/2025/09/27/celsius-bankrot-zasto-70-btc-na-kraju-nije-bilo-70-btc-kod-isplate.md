@@ -1,4 +1,3 @@
-
 ---
 title: "Celsius bankrot i zašto 70% BTC na kraju nije bilo 70% BTC kod isplate"
 slug: "celsius-bankrot-zasto-70-btc-na-kraju-nije-bilo-70-btc-kod-isplate"
