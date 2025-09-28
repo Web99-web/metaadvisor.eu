@@ -39,7 +39,7 @@ summary: "Celsius je 12.06.2022. zamrznuo isplate i 13.07.2022. podnio Chapter 1
 
 ## Uvod: kada “štednja u BTC-u” postane fiat iluzija
 Celsius je trebao biti platforma za štednju u kriptu. Ljudi su **namjerno držali BTC/ETH**, očekujući da će, ako dođe do najgoreg, dobiti **proporcionalne coine natrag**. Umjesto toga, u bankrotu se sve pretvorilo u **USD matematiku** na fiksni datum (*petition date*).  
-Zajednica je mjesecima pogađala: je li “70%” **coin** ili **USD**? Tek kad su krenule obavijesti o distribucijama, postalo je jasno: **70%** se odnosi na **USD vrijednost iz 2022.**, a coinovi se **naknadno** računaju po cijenama **na dan isporuke**.
+Zajednica je mjesecima pogađala: je li “70%” **coin** ili **USD**? Tek kad su krenule obavijesti o distribucijama, postalo je jasno: **70%** se odnosi na preračunatu vrijednos BTC/ETH **USD vrijednost iz 2022.**, a ono što su ljudi očekivali da će BTC/ETH biti obračunati po cijenama **na dan isporuke**.
 
 ---
 
