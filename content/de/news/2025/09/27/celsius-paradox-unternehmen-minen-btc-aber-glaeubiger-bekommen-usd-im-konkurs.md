@@ -93,4 +93,24 @@ Der gleiche USD-Betrag aus dem Plan entspricht **nicht** der gleichen Menge BTC/
 ---
 
 ## Glossar
-- **Petition Date** – 13.07.2022; Stichtag für USD-
+- **Petition Date** – 13.07.2022; Stichtag für USD-Bewertung.  
+- **Allowed Claim** – anerkannte USD-Forderung.  
+- **Recovery %** – auszuzahlender Prozentsatz (z. B. 70%).  
+- **Convenience Class** – schnelle USD-Abrechnung, keine Aktien/IRR.  
+- **Ionic Digital** – übernahm Mining-Assets nach der Restrukturierung.
+
+---
+
+## Unser Fazit (Metaadvisor)
+- **Systemproblem**: **fiat-first** trotz **coin-first**-Vermögen.  
+- **Kleinere Gläubiger** litten am meisten: **Coin-Upside** und **Equity-Exposure** (Ionic/IRR) weg.  
+- **Operative Realität**: unterschiedliche Auszahlungsdaten + Coinbase-Onboarding verstärkten das **Unfairness-Gefühl**.  
+- **Zeitliche Unfairness:** Wellenzahlungen erzeugten zusätzlichen **Time-Risk** — spätere Batches (bei höherem BTC/ETH-Preis) erhalten **weniger Coins** für denselben USD-Betrag, während frühe Batches **günstiger kaufen/halten** konnten.  
+- **Wohin?** Für fairen Coin-Schutz braucht es **Abrechnung in natura (coin-first)** oder einen Hybrid; ohne das bleibt jeder zentrale Krypto-Konkurs ein **Fiat-Déjà-vu**.
+
+**Zusätzliche Kernpunkte:**
+- Celsius **zementierte die Kluft** zwischen Krypto- und Fiat-Logik: Menschen sparten in BTC, wurden aber als **USD-Gläubiger** behandelt.  
+- **Kleine Gläubiger litten am stärksten**: gaben Aktien ab und erhielten nur **rund ein Fünftel** der erwarteten Coins.  
+- **Schmerzlicher Paradox**: ein **BTC-minendes** Unternehmen zahlte nach **USD-Formel**, nicht in Coins.  
+- **Bis Gesetze sich ändern**, bleiben zentrale Insolvenzen **fiat-abgerechnet** – egal, was das Unternehmen tatsächlich hält oder produziert.  
+- **Lehre:** *„Not your keys, not your coins“* ist keine Floskel, sondern **Realität in Insolvenzen**.
