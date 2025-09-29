@@ -65,7 +65,8 @@ mapping:
   "wall street": [wall-street-manja.jpg]
   visa: [visa.jpg]
   blockchain: [blockchain.png, blockchain-optimized.png]
-
+  stocks-vs-blockchain: [stocks-vs-blockchain.png, stocks-vs-blockchain-disappear.png, dionice-vs-blockchain.jpg]
+  
   # --- phones / mobilephones / mobiles / Android ---
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-down.jpg, mobile-phone-man.jpg, mobile-phone-neutral.jpg, mobile-phone-ruke.jpg]
   smartphones: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-down.jpg, mobile-phone-man.jpg, mobile-phone-neutral.jpg, mobile-phone-ruke.jpg]
