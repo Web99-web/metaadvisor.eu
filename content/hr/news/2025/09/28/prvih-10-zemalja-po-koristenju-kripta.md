@@ -7,12 +7,14 @@ translationKey: "b5b0e9726b0f9ee9f74ee68f56cf915e"
 author: "Metaadvisor.eu"
 source: "ApeX Protocol composite index; Metaadvisor analiza"
 source_url: ""
-image_url: "/images/top-10-crypto-countries.png"
-featured_image: "/images/top-10-crypto-countries.png"
-image: "/images/top-10-crypto-countries.png"
-thumbnail: "/images/top-10-crypto-countries.png"
-image_alt: "Top 10 zemalja po korištenju kripta (ApeX indeks)"
+
+image_url: "/images/top-10-crypto-countries-fixed.png"
+featured_image: "/images/top-10-crypto-countries-fixed.png"
+image: "/images/top-10-crypto-countries-fixed.png"
+thumbnail: "/images/top-10-crypto-countries-fixed.png"
+image_alt: "Top 10 countries by crypto usage (ApeX Index 2025)"
 image_credit: "Metaadvisor.eu"
+
 tags:
   - crypto
   - adoption
