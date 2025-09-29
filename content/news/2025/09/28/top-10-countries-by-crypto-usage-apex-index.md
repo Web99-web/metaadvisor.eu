@@ -9,11 +9,11 @@ author: "Metaadvisor.eu"
 source: "ApeX Protocol composite index; Metaadvisor analysis"
 source_url: ""
 
-image_url: "/images/top-10-crypto-countries.png"
-featured_image: "/images/top-10-crypto-countries.png"
-image: "/images/top-10-crypto-countries.png"
-thumbnail: "/images/top-10-crypto-countries.png"
-image_alt: "Top 10 countries by crypto usage (ApeX Index)"
+image_url: "/images/top-10-crypto-countries-fixed.png"
+featured_image: "/images/top-10-crypto-countries-fixed.png"
+image: "/images/top-10-crypto-countries-fixed.png"
+thumbnail: "/images/top-10-crypto-countries-fixed.png"
+image_alt: "Top 10 countries by crypto usage (ApeX Index 2025)"
 image_credit: "Metaadvisor.eu"
 
 tags:
