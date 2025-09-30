@@ -67,7 +67,9 @@ mapping:
   blockchain: [blockchain.png, blockchain-optimized.png]
   stocks-vs-blockchain: [stocks-vs-blockchain.png, stocks-vs-blockchain-disappear.png, dionice-vs-blockchain.jpg]
   Bloomberg: [Bloomberg-terminal.png]
+  BlackRock: [Blackrock-kupio-hr.png, Blackrock-66m-en.png]
   SEC: [SEC-ETFs.png]
+  
   
   # --- phones / mobilephones / mobiles / Android ---
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-down.jpg, mobile-phone-man.jpg, mobile-phone-neutral.jpg, mobile-phone-ruke.jpg]
