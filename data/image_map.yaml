@@ -70,6 +70,8 @@ mapping:
   BlackRock: [Blackrock-kupio-hr.png, Blackrock-66m-en.png]
   SEC: [SEC-ETFs.png]
   Paid: [Paid.png]
+  ETF: [ETF-October.png]
+  
   
   # --- phones / mobilephones / mobiles / Android ---
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-down.jpg, mobile-phone-man.jpg, mobile-phone-neutral.jpg, mobile-phone-ruke.jpg]
