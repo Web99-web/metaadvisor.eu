@@ -27,4 +27,15 @@ summary: "Bitcoin je ponovno probio $118 tisuća na otvaranju četvrtog kvartala
 
 ### Na što obratiti pozornost
 - **Razine:** sljedeće zone interesa spominju se oko **$122K–$138K** (potvrda zamaha).  
-- **F**
+- **Funding/basis:** pregrijani uvjeti mogu signalizirati kratkoročne povratke.  
+- **Struktura OI-ja:** koncentracija jedne strane (previše longova) povećava rizik likvidacija.  
+- **Ponašanje LTH-a:** akumulacija dugoročnih hodlera stvara podlogu za održivije kretanje.
+
+> *Slika je simbolična.*
+
+---
+
+### Naš osvrt (Metaadvisor)
+- **Sezonalnost pomaže, ali nije garancija:** pratiti **DXY**, prinose i guidance CB-ova.  
+- **Derivati diktiraju tempo:** breakouti ubrzavaju preko **leverage** kanala; držati **risk-limit**.  
+- **Taktika:** postupno skalirati pozicije; promatrati **likvidnost** i reakcije na spomenute razine.
