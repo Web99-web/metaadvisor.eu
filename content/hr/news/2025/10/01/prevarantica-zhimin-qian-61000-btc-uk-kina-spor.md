@@ -4,52 +4,50 @@ slug: "prevarantica-zhimin-qian-61000-btc-uk-kina-spor"
 date: 2025-10-01T20:10:00Z
 category: "crypto"
 translationKey: "c3a0b9f2e0c84c79ad7f0f2a61000btc"
-source: "Financial Times; Reuters; The Guardian; Metropolitan Police; Sky News"
+source: "Sažetak medijskih izvještaja i sudskih postupaka u UK"
 source_url: ""
 author: "Metaadvisor.eu"
 image_url: "/images/btc-61000-dispute.png"
 featured_image: "/images/btc-61000-dispute.png"
 image: "/images/btc-61000-dispute.png"
 thumbnail: "/images/btc-61000-dispute.png"
-image_alt: "61,000 BTC – spor UK vs. Kina"
+image_alt: "61,000 BTC – spor oko skrbništva kovanica između UK i Kine"
 image_credit: "Dizajn: Metaadvisor.eu (simbolična slika)"
-tags: ["bitcoin","BTC","kriminal","pranje-novca","UK","Kina","Zhimin Qian","Yadi Zhang","Jian Wen","Seng Hok Ling","zapljena","restitucija","ekstradicija","sud","61k BTC"]
-summary: "Kineska državljanka Zhimin Qian (Yadi Zhang) priznala je krivnju za pranje kripto-imovine povezane s masovnom prijevarom u Kini. U središtu slučaja nalazi se 61.000 BTC zaplijenjenih u Londonu – Kina traži povrat novca žrtvama, dok UK pokreće postupke da kovanice zadrži."
+tags: ["bitcoin","BTC","kriminal","pranje-novca","UK","Kina","Zhimin Qian","Yadi Zhang","Jian Wen","zaplijenjena-imovina","restitucija","konfiskacija","ekstradicija","61k BTC"]
+summary: "Kineska državljanka Zhimin Qian (Yadi Zhang) priznala je pranje kripto-imovine povezane s masovnom prijevarom u Kini. U središtu slučaja je 61.000 BTC zaplijenjenih u Londonu — Kina traži povrat žrtvama, a UK vodi postupak konfiskacije."
 ---
 
-## Tko je ona i što je napravila?
+## Tko je ona i kako je prevarila ljude
 
-**Zhimin Qian**, poznata i kao **Yadi Zhang**, vodila je **masovnu investicijsku prijevaru** u Kini u razdoblju **2014.–2017.** Prema britanskim medijima i sudskim zapisima, shema je zahvatila **~128.000 ulagača**, uz **nerealna obećanja prinosa i do 300%**, a prikupljena sredstva premještena su u **Bitcoin**. Nakon toga Qian je **pobjegla iz Kine u UK** koristeći **lažni identitet**, gdje je nastavila pokušaje prikrivanja porijekla novca. :contentReference[oaicite:0]{index=0}
+**Zhimin Qian**, poznata i kao **Yadi Zhang**, organizirala je **masovnu investicijsku prijevaru** u Kini (2014.–2017.). Tisuće malih ulagača uvučeno je obećanjima “sigurnih” visokih prinosa. Prikupljena sredstva su, preko posrednika i slojeva računa, **pretvarana u Bitcoin** te premještana izvan domašaja kineskih vlasti.  
 
-U **pretresu 2018.** u luksuznoj kući u **Hampsteadu (London)** policija je zaplijenila uređaje s pristupom **61.000 BTC** – jednom od najvećih kripto-zapljena u povijesti. Vrijednost je u međuvremenu narasla na **>£5 mlrd.** (≈ $6.7 mlrd.). :contentReference[oaicite:1]{index=1}
+Početkom 2017. Qian **bježi u Ujedinjeno Kraljevstvo** koristeći **lažni identitet** i luksuzni stil života (skupi najmovI, pokušaji kupnje nekretnina). U **pretresu 2018.** londonska Metropolitan Police zapljenjuje uređaje i ključeve s pristupom **otprilike 61.000 BTC** — jedna od najvećih kripto-zapljena ikad u UK. Vrijednost se od tada mjerila u **više milijardi funti**.
 
-Metropolitan Police potvrđuje da je riječ o **najvećoj pojedinačnoj kripto-zapljeni** u UK, proizišloj iz višegodišnje istrage ekonomskog kriminaliteta. :contentReference[oaicite:2]{index=2}
+U rujnu 2025. Qian je na sudu u **Southwarku** **priznala krivnju** za posjedovanje i transfer imovine stečene kaznenim djelom (bitcoin). Kazna i konačna odluka o imovini slijede kroz odvojene konfiskacijske postupke.
 
-U rujnu **2025.** Qian je na **Southwark Crown Court** **priznala krivnju** po točkama **posjedovanja** i **transfera** imovine stečene kriminalom (bitcoin). **Kazna slijedi.** :contentReference[oaicite:3]{index=3}
+## Mreža pomagača i povezani procesi
 
-## Mreža pomagača i ranije presude
+- **Jian Wen**, Qianina londonska suradnica, **osuđena je 2024.** zbog pranja dijela sredstava; izrečena je i **konfiskacija** značajne imovine.  
+- **Seng Hok Ling**, bliski suradnik, **priznao je krivnju** u zasebnoj liniji slučaja.  
+- Istraga je otkrila pokušaje **konverzije BTC-a u nekretnine i luksuznu robu**, preko brojnih pravnih lica i posrednika.
 
-Uz Qian, **Jian Wen** – njezina londonska posrednica – **osuđena je 2024.** na **6 godina i 8 mjeseci** zatvora za pranje dijela sredstava, uz **konfiskaciju ~£3 mil.** Dodatno, **Seng Hok Ling**, Qianin bliski suradnik, **priznao je krivnju** u odvojenom postupku 2025. :contentReference[oaicite:4]{index=4}
+## Zašto je 61.000 BTC predmet spora UK–Kina
 
-## Zašto je 61.000 BTC sada predmet spora?
+Nakon priznanja, fokus prelazi na **tko ima pravo na kovanice**:
 
-Slučaj je prerastao u **pravni i diplomatski čvor**:  
-- **Kina** traži da se imovina **vrati žrtvama** u punom iznosu (prema **trenutačnoj vrijednosti** BTC-a).  
-- **UK** kroz konfiskacijske postupke razmatra **zadržavanje** kovanica kao **“proceeds of crime”** u britanskoj nadležnosti. :contentReference[oaicite:5]{index=5}
+- **Kina** traži da se sredstva **vrate žrtvama** (restitucija), pozivajući se na mjesto počinjenja i broj pogođenih građana.  
+- **UK** vodi **konfiskacijske postupke** jer je imovina **otkrivena i zaplijenjena** na njegovu teritoriju — po britanskom pravu to su **“proceeds of crime”** nad kojima britanski sudovi imaju nadležnost.  
+- U igri su i **međunarodna pravna pomoć**, civilne tužbe žrtava, potencijalni **sporazumi o podjeli** ili **upravljanje skrbništvom** do okončanja parnica.
 
-Prema izvještajima, **ključna ročišta** oko konfiskacije i potencijalne **restitucije** mogu se protegnuti **do 2026./2027.**, a **ekstradicija u Kinu** je **malo vjerojatna** (nema ugovora o izručenju). :contentReference[oaicite:6]{index=6}
-
-> *Napomena:* Ako sud u UK odluči o **konfiskaciji**, sredstva se formalno vode kao **zločinačka dobit** u britanskom sustavu; paralelno, žrtve mogu pokretati **civilne zahtjeve** ili međunarodnu pravnu pomoć za **restituciju**. Ishod će ovisiti o presudama i dogovoru pravosudnih tijela.
-
----
+U praksi se očekuje **dugotrajan sudski proces** (višegodišnji), a svaka odluka mora uskladiti kazneno pravo UK-a, zaštitu žrtava i međunarodnu suradnju.
 
 ## Tijek događaja (sažetak)
 
-- **2014.–2017. (Kina):** Qian vodi investicijsku prijevaru (128k žrtava), sredstva pretvara u BTC. :contentReference[oaicite:7]{index=7}  
-- **2017.:** bijeg u **UK** pod lažnim identitetom. :contentReference[oaicite:8]{index=8}  
-- **2018.:** pretres u **Hampsteadu**; zapljena uređaja s pristupom **61k BTC**. :contentReference[oaicite:9]{index=9}  
-- **2024.:** Qian locirana u **Yorku**; britanske vlasti proširuju slučaj; Wen ranije osuđena i izrečena konfiskacija **£3m**. :contentReference[oaicite:10]{index=10}  
-- **Rujan 2025.:** Qian **priznaje krivnju**; spor UK–Kina oko kovanica ulazi u fazu konfiskacije/restitucije. :contentReference[oaicite:11]{index=11}
+- **2014.–2017. (Kina):** regrutiranje ulagača, preusmjeravanje sredstava u BTC.  
+- **2017.:** bijeg u UK; život pod lažnim identitetom.  
+- **2018.:** zapljena uređaja i pristupa **61k BTC** u Londonu.  
+- **2024.:** presuda suradnici (Jian Wen) i konfiskacije prateće imovine.  
+- **2025.:** **priznanje krivnje** Zhimin Qian; pokretanje/eskalacija postupaka oko **61k BTC**.
 
 > *Slika je simbolična.*
 
@@ -57,8 +55,8 @@ Prema izvještajima, **ključna ročišta** oko konfiskacije i potencijalne **re
 
 ### Naš osvrt (Metaadvisor)
 
-- **Presedan za kripto-zapljene:** slučaj testira kako države tretiraju **mega-zapljene** kad su **žrtve izvan jurisdikcije**. Ako UK zadrži većinu iznosa, to bi mogao biti **presedan** i za druge istrage. :contentReference[oaicite:12]{index=12}  
-- **Povrat žrtvama po “market value” ili “cost basis”?** Pravno otvoreno pitanje: vraća li se vrijednost **po današnjoj cijeni** ili po **vrijednosti u trenutku kaznenog djela**. Ishod može utjecati na **buduće kripto-procese**.  
-- **Tržišni učinak:** 61k BTC je **strukturno velik** — svako **kreiranje/likvidacija** pozicije imat će **tržišne implikacije**; realno, vjerojatno je **postupno** raspolaganje (ili **custody** bez promptne prodaje).  
-- **Signal investitorima:** slučaj pokazuje da se **anonimnost** i **granice** teško nose s forenzičkom analizom blockchaina + međunarodnom suradnjom.
-
+- **Presedan za kripto-zapljene:** Ovaj slučaj testira kako nacionalni sudovi rješavaju **mega-imovinu** kad su žrtve **izvan jurisdikcije**. Ishod (konfiskacija vs. restitucija) može postati **model** za buduće zapljene.  
+- **“Market value” ili “cost basis”?** Otvoreno je hoće li se žrtvama (ako dobiju prioritet) vraćati vrijednost **po današnjoj cijeni BTC-a** ili **po vrijednosti u vrijeme kaznenog djela**. Razlika je golema i stvara **pravni presedan**.  
+- **Tržišni rizik:** 61k BTC je **materijalna veličina**; svaka nagla monetizacija bila bi tržišno osjetljiva, stoga je realno očekivati **postupno raspolaganje** ili dugotrajno **skrbništvo bez prodaje**.  
+- **Ekstradicija UK ↔ Kina (pitanje čitatelja):** **UK i Kina nemaju bilateralni ugovor o izručenju.** To **otežava** formalno izručenje iz UK-a u Kinu — **ali** isto tako **ne jamči** “utočište” Britancima koji pobjegnu u Kinu. U praksi se slučajevi rješavaju **ad-hoc**: kroz **međunarodnu pravnu pomoć**, **Interpol obavijesti**, **deportacije** zbog imigracijskih povreda ili **domaće procesuiranje** ako postoje preduvjeti. Ukratko: **izručenje nije automatsko ni u jednom smjeru**, a ishod ovisi o **politici i konkretnim dokazima**.  
+- **Poruka industriji:** Blockchain forenzika + međunarodna suradnja **smanjuju prostor** za bijeg kapitala; “anonimnost” bez operativne discipline **ne traje**.
