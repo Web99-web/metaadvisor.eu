@@ -4,6 +4,7 @@ mapping:
   btc:     [btc.jpg, btc1.jpg, btc3.jpg, btc.png, coin btc.jpg, btc-coini.jpg, bitcon-down.jpg, btc-bitcoin-gold.jpg, btc-eth1.jpg, etc-btc-manja.jpg, btc-finance.jpg, btc_down.png, btc-crypto.jpg, btc-future.jpg, btc-millionaire.jpg, btc-news.jpg, btc-future1.jpg, btc-green.jpg, crypto-future.jpg, ask me about btc bitcoin.jpg, bitcoin-mining-simple.png]
   btc-razno:  [btc-who-controles.png, bitcoin-118k.png]
   btc-priče:  [btc-61000-dispute.png]
+  
   # --- ETH ---
   ethereum: [eth.jpg, eth1.jpg, eth-small.jpg, eth-up.jpg, eth-down.jpg, eth.png, btc-eth1.jpg, etc-btc-manja.jpg, crypto-future.jpg, eth-ethereum-manja.jpg, eth2.jpg, eth3.jpg. eth4.jpg, eth5.jpg, eth6.jpg, eth7.jpg, eth8.jpg, eth9.jpg, eth10.jpg]
   eth:      [eth.jpg, eth1.jpg, eth-small.jpg, btc-eth1.jpg, etc-btc-manja.jpg, crypto-future.jpg, eth-ethereum-manja.jpg, eth2.jpg, eth3.jpg, eth4.jpg, eth5.jpg, eth6.jpg, eth7.jpg, eth8.jpg, eth9.jpg, eth10.jpg]
@@ -86,6 +87,8 @@ mapping:
   apple: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg]
   phone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   phones: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  apple razno: [Apple-IOS-18.6.png]
+  
 
   # — PLACEHOLDER —
   placeholder: [placeholder.jpg, placeholder-metaadvisor-small.jpg, placeholder-metaadvisor-large.jpg]
