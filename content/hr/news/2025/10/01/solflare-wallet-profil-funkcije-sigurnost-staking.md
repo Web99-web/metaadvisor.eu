@@ -17,46 +17,46 @@ tags: ["Solflare","Solana","wallet","self-custody","staking","Ledger","Keystone"
 summary: "Solflare je jedan od zrelijih self-custody walleta za Solanu: radi kao web/extension/mobilna aplikacija, podržava Ledger i Keystone, nativni i ‘liquid’ staking, te duboke DeFi/NFT integracije. Izdvajamo ključne prednosti, rizike i kome se isplati prijeći."
 ---
 
-**TL;DR:** **Solflare** je **non-custodial** novčanik fokusiran isključivo na **Solanu (SOL, SPL tokeni, NFT-ovi)**, dostupan kao **mobilna aplikacija** i **browser ekstenzija**. Ističe se **sigurnosnim modelom** (nativna podrška za **Ledger** i **Keystone**), vrlo dobrim **staking** iskustvom i **dApp/NFT** integracijama. :contentReference[oaicite:0]{index=0}
+**TL;DR:** **Solflare** je **non-custodial** novčanik fokusiran isključivo na **Solanu (SOL, SPL tokeni, NFT-ovi)**, dostupan kao **mobilna aplikacija** i **browser ekstenzija**. Ističe se **sigurnosnim modelom** (nativna podrška za **Ledger** i **Keystone**), vrlo dobrim **staking** iskustvom i **dApp/NFT** integracijama.
 
 ### Tko stoji iza Solflarea i zašto je relevantan
-- Hrvatski .debug je u lipnju donio “behind-the-scenes” intervju/tekst s **inženjerskim vodstvom Solflarea** (Nikola Kolevski), o gradnji walleta za milijune korisnika i produkcijskim izazovima. Fokus: **self-custody**, UX i skaliranje. :contentReference[oaicite:1]{index=1}  
-- Solflare je među **prvim** Solana walletima (start kao web, potom mobitel/ekstenzija), danas s punim spektrom funkcija i snažnom prisutnošću u Solana zajednici. :contentReference[oaicite:2]{index=2}
+- Hrvatski .debug donosi “behind-the-scenes” pogled s inženjerskim vodstvom Solflarea (skaliranje za milijune korisnika, UX odluke, produkcijski izazovi). Fokus: **self-custody**, UX i skaliranje.
+- Solflare je među **prvim** Solana walletima (start kao web, potom mobitel/ekstenzija), danas s punim spektrom funkcija i snažnom prisutnošću u Solana zajednici.
 
 ### Ključne funkcije (što dobivate)
-- **Jedan ekosustav, sve na jednom mjestu:** SOL i SPL tokeni, **swap**, **portfolio**, **NFT galerija**, **dApp** konekcije (DeFi, gaming). :contentReference[oaicite:3]{index=3}  
-- **Staking (native & liquid):** u par koraka delegirate SOL i **birate validatora** (prikaz performansi/APY, preporuke). Dostupan i “instant unstake”/liquid opcije kroz integracije. :contentReference[oaicite:4]{index=4}  
-- **Hardverski novčanici:** **Ledger** (desktop/mobitel) i **Keystone** (QR, **air-gapped** potpisivanje) — rješenje protiv “blind signinga”. :contentReference[oaicite:5]{index=5}  
-- **Višeslojna sigurnost u praksi:** izolirano potpisivanje + pregled transakcija na uređaju, edukativni vodiči (Crypto-101) i jasni UX za rizične radnje. :contentReference[oaicite:6]{index=6}
+- **Jedan ekosustav, sve na jednom mjestu:** SOL i SPL tokeni, **swap**, **portfolio**, **NFT galerija**, **dApp** konekcije (DeFi, gaming).
+- **Staking (native & liquid):** u par koraka delegirate SOL i **birate validatora** (prikaz performansi/APY, preporuke). Dostupan i “instant unstake”/liquid kroz integracije.
+- **Hardverski novčanici:** **Ledger** (desktop/mobitel) i **Keystone** (QR, **air-gapped** potpisivanje) — smanjuje rizik “blind signinga”.
+- **Višeslojna sigurnost u praksi:** izolirano potpisivanje + pregled transakcija na uređaju, edukativni vodiči i jasan UX za rizične radnje.
 
 ### Solflare vs. Phantom (ukratko)
-- **Solflare**: dublje DeFi integracije “unutar” appa, nativna podrška za **Keystone** (air-gapped).  
-- **Phantom**: čišći multi-chain fokus i veliki “network effect”.  
-Oba podržavaju **Ledger**; izbor ovisi o tome trebate li **naprednije DeFi** alate na Solani ili širi multi-chain doseg. :contentReference[oaicite:7]{index=7}
+- **Solflare:** dublje DeFi integracije unutar appa, nativna podrška za **Keystone** (air-gapped).
+- **Phantom:** čišći multi-chain fokus i veliki network effect.  
+Oba podržavaju **Ledger**; izbor ovisi trebate li **naprednije DeFi** alate na Solani ili širi multi-chain doseg.
 
 ### Staking — kako točno radi u Solflaru
-1) Uđete u “**Staking**”, 2) odaberete iznos, 3) **odaberete validatora** (performanse, naknade, decentralizacija), 4) potpišete transakciju. Nagrade se akumuliraju, a **odabir validatora** bitno utječe na stabilnost/APY. :contentReference[oaicite:8]{index=8}  
-Ako ste **hardverski korisnik**, potpis ide preko Ledgera/Keystonea — ključevi ne napuštaju uređaj. :contentReference[oaicite:9]{index=9}
+1) Uđete u **Staking**, 2) odaberete iznos, 3) **odaberete validatora** (performanse, naknade, decentralizacija), 4) potpišete transakciju.  
+Nagrade se akumuliraju, a **odabir validatora** bitno utječe na stabilnost/APY. Ako ste **hardverski korisnik**, potpis ide preko Ledgera/Keystonea — ključevi ne napuštaju uređaj.
 
 ### Brojke i tvrdnje
-- U Chrome Web Store opisu se navodi **“4M+ aktivnih korisnika” i “$15B+” pod upravljanjem** — **marketinška tvrdnja** izdavača ekstenzije; tretirajte kao **self-reported** indikativan podatak. :contentReference[oaicite:10]{index=10}
+- U store opisima spominju se brojke tipa **“4M+ korisnika”** i **“$15B+ AUM”** — tretirati kao **self-reported** marketinške tvrdnje (indikativno, ne auditirano).
 
 ### Tko je “idealni” korisnik Solflarea
-- **DeFi/NFT power-user** na Solani koji želi **hardversku sigurnost** i **detaljan** staking UX.  
+- **DeFi/NFT power-user** na Solani koji želi **hardversku sigurnost** i **detaljan staking UX**.  
 - **Validator-svjestan staker** (želi birati validatora i pratiti performanse).  
-- **Institucionalni/treasury** case (npr. integracije s trezor rješenjima) — postoje primjeri prihvaćanja Solflarea u korporativnim treasury okolinama. :contentReference[oaicite:11]{index=11}
+- **Institucionalni/treasury** slučajevi (trezor rješenja, procedura potpisivanja).
 
 ### Rizici i trade-offovi
-- **Self-custody** znači da su **seed phrase / privatni ključevi** vaša odgovornost. Gubitak = gubitak sredstava. (Preporuka: **hardverski wallet** + offline backup.) :contentReference[oaicite:12]{index=12}  
-- **Ovisnost o Solani:** ako tražite multi-chain “hub”, Phantom/Backpack i slični možda će biti pogodniji. :contentReference[oaicite:13]{index=13}  
-- **Kompatibilnost/bugovi** ponekad ovise o browseru/ekstenziji ili hardveru (kao i kod drugih walleta); workaround obično postoji (mobilna aplikacija, drugi preglednik). :contentReference[oaicite:14]{index=14}
+- **Self-custody** znači da su **seed phrase/privatni ključevi** vaša odgovornost. Gubitak = gubitak sredstava. (Preporuka: **hardverski wallet** + offline backup.)  
+- **Ovisnost o Solani:** ako tražite multi-chain “hub”, Phantom/Backpack i slični možda su pogodniji.  
+- **Kompatibilnost/bugovi:** mogu ovisiti o pregledniku/OS-u/hardveru; najčešći workaroundi su mobilna aplikacija ili drugi preglednik.
 
 > *Slika je simbolična.*
 
 ---
 
 ### Naš osvrt (Metaadvisor)
-- **Snaga Solflarea** je kombinacija **self-custody sigurnosti** (Ledger/Keystone) i **specijalizacije za Solanu** (staking + NFT/DeFi).  
-- **Ako ste “samo” investitor** koji povremeno trejda i drži SOL, Solflare je **stabilan izbor**; ako ste **DeFi heavy-user**, dodatne integracije čine ga **još smislenijim**.  
-- **Praktičan savjet:** uvijek **birajte validatora** (ne samo default), razmislite o **Keystone** air-gapped potpisivanju i redovito provjeravajte **permissions** u dApp-ovima.  
-- **Što pratiti dalje:** roadmap oko **multisig/trezor** opcija, UX finese za **liquid staking**, te službene metrike (ne samo marketinške).
+- **Snaga Solflarea** je spoj **self-custody sigurnosti** (Ledger/Keystone) i **specijalizacije za Solanu** (staking + NFT/DeFi).  
+- **Ako ste “samo” investitor** koji povremeno trguje i drži SOL, Solflare je **stabilan izbor**; **DeFi heavy-useri** dodatno profitiraju od in-app integracija.  
+- **Praktično:** uvijek **birajte validatora** (ne default), razmislite o **Keystone** air-gapped potpisivanju i redovito provjeravajte **dApp permissions**.  
+- **Što pratiti dalje:** **multisig/trezor** roadmap, UX za **liquid staking** i transparentnije službene metrike (izvan marketinga).
