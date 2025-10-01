@@ -4,37 +4,27 @@ slug: "bitcoin-ponovno-iznad-118k-uptober-sezonalnost-institucionalni-flow"
 date: 2025-10-01T18:00:00Z
 category: "crypto"
 translationKey: "a3b5f2f8b7c34f38b0f2e11ad118k001"
-source: "Yahoo Finance; Cointelegraph; Barron's; MarketWatch; CME Group"
-source_url: "https://finance.yahoo.com/news/bitcoin-climbs-above-118000-as-investors-pin-hopes-on-uptober-bounce-165819285.html"
+source: "Market recap"
+source_url: ""
 author: "Metaadvisor.eu"
 image_url: "/images/bitcoin-118k.png"
 featured_image: "/images/bitcoin-118k.png"
 image: "/images/bitcoin-118k.png"
 thumbnail: "/images/bitcoin-118k.png"
-image_alt: "Cinematični vizual Bitcoina s natpisom $118K"
-image_credit: "Dizajn: Metaadvisor.eu (slika je simbolična)"
-tags: ["bitcoin","BTC","markets","price","Uptober","seasonality","open-interest","CME","derivatives","funding-rates","institutions","macro"]
-summary: "Bitcoin je probio $118 tisuća dok ulazimo u ‘Uptober’. Povijesno je Q4 najjače razdoblje, a podaci o derivatima i institucionalnim tokovima sugeriraju veći apetit za rizikom."
+image_alt: "Bitcoin headline $118K — simbolična ilustracija"
+image_credit: "Vizual: Metaadvisor.eu (simbolična slika)"
+tags: ["bitcoin","BTC","tržišta","cijena","Uptober","sezonalnost","open-interest","derivati","CME","institucije","funding","volatilnost"]
+summary: "Bitcoin je ponovno probio $118 tisuća na otvaranju četvrtog kvartala. Trgovci ističu sezonski ‘Uptober’ efekt, pojačan interes na derivatima i stabilne tokove s reguliranih venuea."
 ---
 
-**Kratko:** **Bitcoin (BTC)** je **probio $118K**, uz pojačan optimizam oko sezonski snažnog **četvrtog kvartala (‘Uptober’)** i rasta aktivnosti na derivatima. :contentReference[oaicite:0]{index=0}
+**Kratko:** **BTC** je uhvatio **$118K** tijekom sesije, uz širi **risk-on** ton na početku Q4. Ulogu imaju sezonalnost (“**Uptober**”), uzlazni **open interest** na derivatima i kontinuirano **institucionalno** sudjelovanje kroz regulirane proizvode.
 
-### Što se danas dogodilo
-- **Cijena iznad $118K** u popodnevnom trgovanju; tržište pripisuje dio zamaha početku **Q4** i makro neizvjesnostima u SAD-u. :contentReference[oaicite:1]{index=1}  
-- **Sezonalnost:** Q4 je **povijesno najjači** za Bitcoin; analize navode visoke prosječne Q4 prinose i česta pozitivna listopadska zatvaranja. :contentReference[oaicite:2]{index=2}  
-- **Derivati & institucije:** **CME** je objavio da je ukupni **notional open interest** kripto futuresa **nadmašio $30 mlrd.**, pri čemu su **SOL/XRP** futuri pokazali ubrzano usvajanje — signal širokoga institucionalnog interesa za kripto derivate. :contentReference[oaicite:3]{index=3}
+### Što gura cijenu
+- **Sezonalnost/Q4:** Povijesno često pozitivan kraj godine potiče očekivanja nastavka trenda.  
+- **Derivati:** Veći **OI** i veći obujmi na perps/futures tržištima pojačavaju moment kada se probiju ključne razine.  
+- **Institucionalni okvir:** Regulatorno prihvatljiv pristup (npr. burzovni derivati) širi bazu sudionika.  
+- **Makro:** Sentiment o kamatama i likvidnosti ostaje ključan za apetit prema rizičnoj imovini.
 
-### Signali koje analitičari prate
-- **Razine rizika naprijed:** tehnički pregledi spominju **$122K–$138K** kao iduće zone otpora. :contentReference[oaicite:4]{index=4}  
-- **Ponašanje dugoročnih holdera:** akumulirano je ~**298k BTC** kod LTH adresa, što je povijesno konstruktivan okvir za novi impuls ako sentiment ostane pozitivan. :contentReference[oaicite:5]{index=5}
-
-> *Slika je simbolična.*
-
----
-
-### Naš osvrt (Metaadvisor)
-
-- **Sezonalni vjetar u leđa:** ‘Uptober’ + statistički snažan **Q4** pojačavaju “risk-on” narativ, ali to **nije garancija** — pratimo **DXY**, prinose i Fed/ECB guidance. :contentReference[oaicite:6]{index=6}  
-- **Derivati diktiraju tempo:** Rekordni/visoki **OI** na reguliranim burzama (CME) potvrđuje **institucionalni apetit**; prekoračenja ključnih razina često ubrzavaju kretanje kroz **leverage**. :contentReference[oaicite:7]{index=7}  
-- **Taktički plan:** Gledati **funding/basis** i strukturu OI-a; graditi pozicije **postupno** uz jasne **risk-limite**.  
-- **Šira slika:** Ako makro-likvidnost ostane potpora, **$122K–$138K** su realne točke provjere zamaha; iznad toga slijede **nove ATH narative**. :contentReference[oaicite:8]{index=8}
+### Na što obratiti pozornost
+- **Razine:** sljedeće zone interesa spominju se oko **$122K–$138K** (potvrda zamaha).  
+- **F**
