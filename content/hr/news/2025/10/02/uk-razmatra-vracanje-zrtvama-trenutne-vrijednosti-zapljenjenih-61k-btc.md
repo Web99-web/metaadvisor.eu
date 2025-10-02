@@ -46,6 +46,12 @@ Regulatorni i pravni okvir upućuje na pravila **Proceeds of Crime** (POCA) i me
 
 > **Napomena:** *Slika je simbolična.*
 
+### Paralela s Celsiusom: koji datum vrijedi?
+Slučaj **Celsius** u stečaju pokazao je koliko je **datum vrednovanja** presudan: sud je vrijednost kripto imovine korisnika vezao uz **dan podnošenja zahtjeva (petition date)** i obračun u **USD**, pa su korisnici na isplatama dobili **manje kovanica** nego što bi dobili da se koristila kasnija, viša tržišna cijena. 
+U UK slučaju sa **61.000 BTC**, izbor između **trenutačne vrijednosti** ili **„snapshot” vrijednosti (npr. na dan zapljene)** nosi istu napetost: 
+- **Trenutačna vrijednost** maksimizira restituciju žrtvama, ali prebacuje **volatilnost** na državu.  
+- **Snapshot/fiat šteta** je pravno jednostavnija, ali žrtve gube **aprecijaciju** koja se dogodila dok je imovina bila pod državnim nadzorom.
+
 ---
 
 ### Naš osvrt (Metaadvisor)
@@ -54,3 +60,5 @@ Regulatorni i pravni okvir upućuje na pravila **Proceeds of Crime** (POCA) i me
 - **Presedani i implikacije:** odluka UK-a utjecat će na prakse u drugim jurisdikcijama.  
 - **Vjerojatan ishod:** očekujemo **datumski snapshot** (npr. vrijednost na dan zapljene) uz limitirani tretman aprecijacije i jasno definiran **metod obračuna** za buduće slučajeve.  
 - **Što pratiti:** konačnu metodologiju valorizacije, plan **likvidacije/čuvanja BTC-a** i moguće **pravne prigovore** oštećenika.
+- - **Lekcija Celsiusa**: definirati **jasan „snapshot” datum** i metod (USD vs. kovanice) *prije* likvidacije – inače slijede dugi sporovi i reputacijska šteta.
+
