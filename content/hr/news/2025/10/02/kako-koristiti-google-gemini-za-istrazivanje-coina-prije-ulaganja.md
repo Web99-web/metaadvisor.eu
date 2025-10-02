@@ -129,5 +129,5 @@ summary: "Praktični workflow kako koristiti Google Gemini za brzu, a temeljitu 
 
 ---
 
-### Disclaimer (obavezno)
+### Disclaimer 
 Ovaj sadržaj služi isključivo u **informativne i obrazovne svrhe** i **ne predstavlja investicijski savjet** niti ponudu za kupnju/prodaju financijskih instrumenata ili kriptoimovine. Trgovanje kriptoimovinom nosi **visok rizik gubitka**. Prije odluke, provedite **vlastito istraživanje (DYOR)** i, po potrebi, konzultirajte **neovisnog stručnjaka**.
