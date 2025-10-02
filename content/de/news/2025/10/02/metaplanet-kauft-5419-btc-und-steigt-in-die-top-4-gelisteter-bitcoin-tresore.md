@@ -45,4 +45,6 @@ summary: "Metaplanet meldet den Kauf von 5.419 BTC (≈ 632,5 Mio. USD) und zäh
 
 ### Unser Kommentar (Metaadvisor)
 
-- **Corporate FOMO** nimmt zu: serielle Käufe und DCA auf hohen Niveaus deuten
+- **Corporate FOMO** nimmt zu: serielle Käufe und DCA auf hohen Niveaus deuten auf **langfristige Kursziele** hin.  
+- **Risiken & Due Diligence:** Bedingungen der Finanzierung, **Zinssätze**, **Sicherheiten** und **Audit-Transparenz** genau beobachten.  
+- **Kennzahlen im Blick:** Netto-BTC-Zufluss ins Treasury, durchschnittlicher Einstandspreis, Verhältnis **Marktwert/Buchwert** des BTC-Bestands und Einfluss auf den **Aktienkurs**.
