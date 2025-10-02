@@ -52,6 +52,7 @@ mapping:
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg]
   google: [Google.png]
   meta: [MetaAdvisor.png]
+  OpenAi: [openai.png]
   chatgpt: [chatgpt.jpg, chatgpt1.jpg]
   web3: [web3-logo.png]
   Nvidia: [Nvidia-4.5-trillion.png]
