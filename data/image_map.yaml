@@ -126,6 +126,7 @@ mapping:
 
   # --- Tesla / Elon / Musk ---
   tesla:        [tesla.jpg]
+  X-twitter:    [X-twitter.png]
 
   # --- Asia / HongKong / city ---
   asia:        [asia-briefing.jpg, crypto-future.jpg, ask me about btc bitcoin.jpg]
