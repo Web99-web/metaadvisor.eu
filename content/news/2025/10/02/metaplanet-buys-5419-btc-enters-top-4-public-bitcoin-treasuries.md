@@ -1,7 +1,7 @@
 ---
 title: "Japan’s Metaplanet buys 5,419 BTC — enters top 4 public bitcoin treasuries"
 slug: "metaplanet-buys-5419-btc-enters-top-4-public-bitcoin-treasuries"
-date: 2025-09-22T12:00:00Z
+date: 2025-10-02T12:00:00Z
 category: "crypto"
 translationKey: "metaplanet-sept-2025-btc-purchase-top4"
 source: "Bitcoin Magazine / official statements"
