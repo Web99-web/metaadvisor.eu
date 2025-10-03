@@ -1,10 +1,31 @@
 <!-- === Crypto Ticker with Affiliate Links === -->
-<div id="ma-ticker"
-     style="position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#0f1115;color:#fff;font:14px/1.4 system-ui,Segoe UI,Roboto,Arial;padding:6px 0;white-space:nowrap;overflow:hidden;border-top:1px solid #222;">
-  <div id="ma-ticker-track" style="display:inline-block;will-change:transform;"></div>
+<style>
+  :root{ --ticker-h: 52px; } /* povisi ako želiš veći */
+  #ma-ticker{
+    position: fixed;
+    inset: auto 0 0 0;              /* bottom:0; left:0; right:0 */
+    width: 100vw;                   /* prisili punu širinu prozora */
+    max-width: 100%;
+    z-index: 2147483647;            /* iznad svega (cookie bar, sl.) */
+    background: #0f1115;
+    color: #fff;
+    border-top: 1px solid #222;
+    padding: 10px 0;                /* veći vertikalni padding */
+    font: 15px/1.4 system-ui,Segoe UI,Roboto,Arial;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateZ(0);       /* izbjegne “rezanje” na nekim browserima */
+  }
+  #ma-ticker *{ box-sizing: border-box; }
+  #ma-ticker-track{ display:inline-block; will-change: transform; }
+</style>
+
+<div id="ma-ticker">
+  <div id="ma-ticker-track"></div>
 </div>
 
 <script>
+/* === CONFIG (linkove drži kako jesu) === */
 const items = [
   { id: "bitcoin",  label: "BTC", href: "https://accounts.binance.com/en/register?ref=YOUR_BINANCE_CODE" },
   { id: "ethereum", label: "ETH", href: "https://www.bybit.com/invite?ref=YOUR_BYBIT_CODE" },
@@ -16,11 +37,13 @@ const items = [
 const vs = "usd", refreshMs = 60000, pxPerSec = 40;
 
 const track = document.getElementById("ma-ticker-track");
+const ticker = document.getElementById("ma-ticker");
+
 function renderRow(prices) {
   track.innerHTML = "";
   const row = document.createElement("div");
   row.style.display = "inline-flex";
-  row.style.gap = "18px";
+  row.style.gap = "20px";
   row.style.padding = "0 16px";
   items.forEach(({id,label,href}) => {
     const price = prices?.[id]?.[vs] ?? null;
@@ -35,7 +58,9 @@ function renderRow(prices) {
   track.appendChild(row.cloneNode(true));
   track.appendChild(row);
   startMarquee();
+  adjustBodyPadding();
 }
+
 let animId;
 function startMarquee() {
   cancelAnimationFrame(animId);
@@ -49,6 +74,7 @@ function startMarquee() {
   };
   animId = requestAnimationFrame(step);
 }
+
 async function fetchPrices() {
   try {
     const ids = items.map(i => i.id).join(",");
@@ -59,11 +85,13 @@ async function fetchPrices() {
     renderRow(data);
   } catch (e) { renderRow(null); console.warn(e); }
 }
-fetchPrices(); setInterval(fetchPrices, refreshMs);
-(function addBottomPadding(){
-  const h = 40;
+function adjustBodyPadding(){
+  const h = ticker.offsetHeight || parseInt(getComputedStyle(document.documentElement).getPropertyValue('--ticker-h')) || 52;
   document.documentElement.style.scrollPaddingBottom = h + "px";
   document.body.style.paddingBottom = h + "px";
-})();
+}
+fetchPrices();
+setInterval(fetchPrices, refreshMs);
+addEventListener("resize", adjustBodyPadding);
 </script>
 <!-- === /Crypto Ticker === -->
