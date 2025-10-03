@@ -1,20 +1,20 @@
 <!-- === Crypto Ticker with Affiliate Links === -->
 <style>
-  :root{ --ticker-h: 52px; } /* povisi ako želiš veći */
+  :root{ --ticker-h: 56px; }
   #ma-ticker{
     position: fixed;
-    inset: auto 0 0 0;              /* bottom:0; left:0; right:0 */
-    width: 100vw;                   /* prisili punu širinu prozora */
+    inset: auto 0 0 0;   /* bottom:0; left:0; right:0 */
+    width: 100vw; 
     max-width: 100%;
-    z-index: 2147483647;            /* iznad svega (cookie bar, sl.) */
+    z-index: 2147483647;
     background: #0f1115;
     color: #fff;
     border-top: 1px solid #222;
-    padding: 10px 0;                /* veći vertikalni padding */
-    font: 15px/1.4 system-ui,Segoe UI,Roboto,Arial;
+    padding: 12px 0;
+    font: 16px/1.4 system-ui,Segoe UI,Roboto,Arial;
     white-space: nowrap;
     overflow: hidden;
-    transform: translateZ(0);       /* izbjegne “rezanje” na nekim browserima */
+    transform: translateZ(0);
   }
   #ma-ticker *{ box-sizing: border-box; }
   #ma-ticker-track{ display:inline-block; will-change: transform; }
@@ -25,15 +25,78 @@
 </div>
 
 <script>
-/* === CONFIG (linkove drži kako jesu) === */
+/* === REF LINKOVI === */
+const MEXC  = "https://www.mexc.com/invite/register?inviteCode=1dVNP&source=invite&utm_source=usershare&utm_medium=usershare&utm_biz=affiliate&utm_campaign=invite";
+const THOR  = "https://app.thorwallet.org/referrals?code=877805";
+const BITGET= "https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter";
+const BYBIT = "https://www.bybit.com/en/invite/?ref=WPRPKQ9";
+const BLOFIN= "https://blofin.com/register?referral_code=95SDq1";
+const KUCOIN= "https://www.kucoin.com/ucenter/signup?lang=en_US&rcode=QBSTQETT&utm_source=rf";
+
+/* === COINI + REFERRALI === */
 const items = [
-  { id: "bitcoin",  label: "BTC", href: "https://accounts.binance.com/en/register?ref=YOUR_BINANCE_CODE" },
-  { id: "ethereum", label: "ETH", href: "https://www.bybit.com/invite?ref=YOUR_BYBIT_CODE" },
-  { id: "solana",   label: "SOL", href: "https://partner.bitget.com/bg/YOUR_BITGET_CODE" },
-  { id: "ripple",   label: "XRP", href: "https://www.okx.com/join/YOUR_OKX_CODE" },
-  { id: "cardano",  label: "ADA", href: "https://www.mexc.com/invite/detail?inviteCode=YOUR_MEXC_CODE" },
-  { id: "toncoin",  label: "TON", href: "https://www.kucoin.com/r/af/YOUR_KUCOIN_CODE" }
+  // BYBIT
+  { id:"bitcoin",              label:"BTC",  href:BYBIT },
+  { id:"ethereum",             label:"ETH",  href:BYBIT },
+  { id:"worldcoin",            label:"WLD",  href:BYBIT },
+
+  // BITGET
+  { id:"solana",               label:"SOL",  href:BITGET },
+  { id:"chainlink",            label:"LINK", href:BITGET },
+  { id:"celestia",             label:"TIA",  href:BITGET },
+  { id:"jito-governance-token",label:"JTO",  href:BITGET },
+  { id:"bitget-token",         label:"BGB",  href:BITGET },
+
+  // MEXC
+  { id:"binancecoin",          label:"BNB",  href:MEXC },
+  { id:"ripple",               label:"XRP",  href:MEXC },
+  { id:"cardano",              label:"ADA",  href:MEXC },
+  { id:"toncoin",              label:"TON",  href:MEXC },
+  { id:"dogecoin",             label:"DOGE", href:MEXC },
+  { id:"tron",                 label:"TRX",  href:MEXC },
+  { id:"litecoin",             label:"LTC",  href:MEXC },
+  { id:"bitcoin-cash",         label:"BCH",  href:MEXC },
+  { id:"polkadot",             label:"DOT",  href:MEXC },
+  { id:"matic-network",        label:"MATIC",href:MEXC },
+  { id:"avalanche-2",          label:"AVAX", href:MEXC },
+  { id:"internet-computer",    label:"ICP",  href:MEXC },
+  { id:"cosmos",               label:"ATOM", href:MEXC },
+  { id:"aptos",                label:"APT",  href:MEXC },
+  { id:"arbitrum",             label:"ARB",  href:MEXC },
+  { id:"sui",                  label:"SUI",  href:MEXC },
+  { id:"near",                 label:"NEAR", href:MEXC },
+  { id:"cronos",               label:"CRO",  href:MEXC },
+  { id:"ethena",               label:"ENA",  href:MEXC },
+  { id:"sei-network",          label:"SEI",  href:MEXC },
+  { id:"aave",                 label:"AAVE", href:MEXC },
+  { id:"zcash",                label:"ZEC",  href:MEXC },
+
+  // THORWallet
+  { id:"thorchain",            label:"RUNE", href:THOR },
+
+  // BLOFIN
+  { id:"uniswap",              label:"UNI",  href:BLOFIN },
+  { id:"optimism",             label:"OP",   href:BLOFIN },
+  { id:"arweave",              label:"AR",   href:BLOFIN },
+
+  // KuCoin
+  { id:"kucoin-shares",        label:"KCS",  href:KUCOIN },
+  { id:"hedera-hashgraph",     label:"HBAR", href:KUCOIN },
+  { id:"fantom",               label:"FTM",  href:KUCOIN },
+  { id:"starknet",             label:"STRK", href:KUCOIN },
+
+  // Meme/AI niche
+  { id:"pepe",                 label:"PEPE", href:MEXC },
+  { id:"bittensor",            label:"TAO",  href:MEXC },
+  { id:"ai-one-ai",            label:"AI",   href:MEXC },
+  { id:"hyperliquid",          label:"HYPE", href:MEXC },
+  { id:"maga",                 label:"TRUMP",href:MEXC },
+
+  // CTA bez cijene
+  { id:null,                   label:"ASTER",href:MEXC },
+  { id:null,                   label:"PENGU",href:MEXC }
 ];
+
 const vs = "usd", refreshMs = 60000, pxPerSec = 40;
 
 const track = document.getElementById("ma-ticker-track");
@@ -46,17 +109,21 @@ function renderRow(prices) {
   row.style.gap = "20px";
   row.style.padding = "0 16px";
   items.forEach(({id,label,href}) => {
-    const price = prices?.[id]?.[vs] ?? null;
+    const price = id && prices?.[id]?.[vs] != null ? "$"+prices[id][vs].toLocaleString() : "—";
     const el = document.createElement("a");
     el.href = href; el.target = "_blank";
     el.rel = "nofollow sponsored noopener";
-    el.style.cssText = "text-decoration:none;color:#fff;opacity:.95;display:inline-flex;gap:8px;align-items:center";
-    el.innerHTML = `<span style="font-weight:700">${label}</span>
-                    <span style="opacity:.85">${price ? "$"+price.toLocaleString() : "—"}</span>`;
+    el.style.cssText = "text-decoration:none;color:#fff;opacity:.95;display:inline-flex;gap:8px;align-items:center;font-weight:600";
+    el.innerHTML = id 
+      ? `<span>${label}</span><span style="opacity:.85;font-weight:500">${price}</span>`
+      : `<span>${label}</span>`;
     row.appendChild(el);
   });
+  // dupliciraj red da pokrije širinu
   track.appendChild(row.cloneNode(true));
   track.appendChild(row);
+  const target = window.innerWidth * 3;
+  while (track.scrollWidth < target) track.appendChild(row.cloneNode(true));
   startMarquee();
   adjustBodyPadding();
 }
@@ -77,7 +144,7 @@ function startMarquee() {
 
 async function fetchPrices() {
   try {
-    const ids = items.map(i => i.id).join(",");
+    const ids = items.filter(i=>i.id).map(i => i.id).join(",");
     const url = `https://api.coingecko.com/api/v3/simple/price?ids=${ids}&vs_currencies=${vs}`;
     const res = await fetch(url, { cache: "no-store" });
     if (!res.ok) throw new Error("Price fetch failed");
@@ -86,7 +153,7 @@ async function fetchPrices() {
   } catch (e) { renderRow(null); console.warn(e); }
 }
 function adjustBodyPadding(){
-  const h = ticker.offsetHeight || parseInt(getComputedStyle(document.documentElement).getPropertyValue('--ticker-h')) || 52;
+  const h = ticker.offsetHeight || 56;
   document.documentElement.style.scrollPaddingBottom = h + "px";
   document.body.style.paddingBottom = h + "px";
 }
