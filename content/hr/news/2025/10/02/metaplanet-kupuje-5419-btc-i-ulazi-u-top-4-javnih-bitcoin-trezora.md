@@ -1,7 +1,7 @@
 ---
 title: "Japanski Metaplanet kupuje 5.419 BTC — postaje među 4 najveća javna bitcoin trezora"
 slug: "metaplanet-kupuje-5419-btc-i-ulazi-u-top-4-javnih-bitcoin-trezora"
-date: 2025-09-22T12:00:00Z
+date: 2025-10-02T12:00:00Z
 category: "crypto"
 translationKey: "metaplanet-sept-2025-btc-purchase-top4"
 source: "Bitcoin Magazine / službene objave"
