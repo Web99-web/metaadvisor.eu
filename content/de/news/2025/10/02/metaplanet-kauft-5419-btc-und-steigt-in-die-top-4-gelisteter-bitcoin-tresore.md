@@ -1,7 +1,7 @@
 ---
 title: "Japans Metaplanet kauft 5.419 BTC — steigt in die Top 4 gelisteter Bitcoin-Tresore auf"
 slug: "metaplanet-kauft-5419-btc-und-steigt-in-die-top-4-gelisteter-bitcoin-tresore"
-date: 2025-09-22T12:00:00Z
+date: 2025-10-02T12:00:00Z
 category: "crypto"
 translationKey: "metaplanet-sept-2025-btc-purchase-top4"
 source: "Bitcoin Magazine / offizielle Mitteilungen"
