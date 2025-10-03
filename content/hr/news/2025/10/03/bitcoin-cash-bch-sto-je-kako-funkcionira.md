@@ -34,6 +34,7 @@ summary: "Bitcoin Cash (BCH) je fork Bitcoina iz 2017. s većim blokovima i foku
 - **Naknade i brzina:** BCH cilja **jeftine, brze on-chain** uplate (p2p trgovina, mikroplaćanja).  
 - **Sigurnosni model:** oba su **Proof-of-Work**; hashrate, ekosustav i prihvaćenost su ipak znatno veći kod BTC-a.  
 - **Ekonomika i brand:** BCH ima **manji mrežni učinak** i nižu likvidnost od BTC-a, ali ostaje popularan u use-caseovima gdje je važna **nula/niska naknada**.
+- Zajednica BCH-a ga promovira kao “digitalni novac za svakodnevna plaćanja”, dok se Bitcoin češće gleda kao “digitalno zlato” i “store of value”.
 
 ### Gdje se koristi
 - **Maloprodajna plaćanja** (web i fizičke blagajne koje podržavaju BCH).  
