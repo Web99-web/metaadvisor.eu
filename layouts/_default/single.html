@@ -89,13 +89,30 @@
       {{ else }}
         {{ $p.Params.source | default "Original" }}
       {{ end }}
-    </aside>
-  {{ end }}
+</aside>
+{{ end }}
 
+{{/* ⬇️ OGLAS – odmah ispod Izvora */}}
+{{ if $isNews }}
+<div class="adwrap-single-bottom">
+  <div class="ad-desktop">
+    {{ partial "ads/slot.html" (dict "size" "728x90") }}
+  </div>
+  <div class="ad-mobile">
+    {{ partial "ads/slot.html" (dict "size" "320x50") }}
+  </div>
+</div>
+<style>
+  .adwrap-single-bottom{margin:18px 0}
+  @media (max-width: 767px){ .ad-desktop{display:none} }
+  @media (min-width: 768px){ .ad-mobile{display:none} }
+</style>
+{{ end }}
 
-  {{ if $isNews }}{{ partial "post-nav.html" $p }}{{ end }}
-  {{ if $isNews }}{{ partial "related.html" $p }}{{ end }}
-  {{ partial "disclaimer.html" $p }}
+{{ if $isNews }}{{ partial "post-nav.html" $p }}{{ end }}
+{{ if $isNews }}{{ partial "related.html" $p }}{{ end }}
+{{ partial "disclaimer.html" $p }}
+
 
 </article>
 {{ end }}
