@@ -136,7 +136,10 @@ mapping:
 
   # --- Tesla / Elon / Musk ---
   tesla:        [tesla.jpg]
-  X-twitter:    [X-twitter.png]
+  X-twitter:    [X-twitter.png] 
+
+  # --- Trump / Donald/ Barron ---
+  trump family:        [trump-family-500m-crypto.png]
 
   # --- Asia / HongKong / city ---
   asia:        [asia-briefing.jpg, crypto-future.jpg, ask me about btc bitcoin.jpg]
