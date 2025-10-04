@@ -53,5 +53,4 @@ Sve skupa sažeto, minimalno potvrđeno je ono što stoji u službenoj objavi �
 ### Naš osvrt (Metaadvisor):
 - **“~500M USD”** (Reuters) je **vjerodostojna procjena priljeva** obitelji iz WLFI ekosustava, ali **nije** dokaz osobne **neto dobiti**.  
 - **Službeni minimum** koji je stvarno “sjeo” (2024.) iznosi **57,35M USD** — to je **jedini broj iz primarnog dokumenta**.  
-- **Barron ~80M**: logičn
-::contentReference[oaicite:0]{index=0}
+- **Barron ~80M**: procjena
