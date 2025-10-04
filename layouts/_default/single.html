@@ -1,0 +1,101 @@
+{{ define "main" }}
+<article class="post container">
+
+  {{/* siguran scope */}}
+  {{ $p := . }}
+  {{ $isNews := or (eq $p.Type "news") (eq $p.Section "news") }}
+
+  <header class="post-hero">
+    {{ if $isNews }}
+      {{/* HERO/cover slika SAMO za news (isti pristup kao na karticama) */}}
+      {{ $ph := "/images/finance.jpg" }}
+      {{ $src := "" }}
+
+      {{/* 1) hero iz bundlea */}}
+      {{ with $p.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
+
+      {{/* 2) image_url / image (abs ili / ili relativno u bundleu) + IGNORE placeholder */}}
+      {{ if not $src }}
+        {{ $img := or $p.Params.image_url $p.Params.image }}
+        {{ if $img }}
+          {{/* ⬇️ NOVO: ignoriraj sve što miriše na 'placeholder' */}}
+          {{ $imgLower := lower (printf "%v" $img) }}
+          {{ if or (in $imgLower "placeholder") (in $imgLower "placeholder-metaadvisor") }}
+            {{ $img = "" }}
+          {{ end }}
+        {{ end }}
+        {{ if $img }}
+          {{ if or (hasPrefix $img "http") (hasPrefix $img "/") }}
+            {{ $src = $img }}
+          {{ else }}
+            {{ with $p.Resources.GetMatch $img }}{{ $src = .RelPermalink }}{{ else }}{{ $src = printf "/images/%s" $img }}{{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{/* 3) Heuristika po naslovu/tagovima → slike iz static/images */}}
+      {{ if not $src }}
+        {{ $t := lower $p.Title }}
+        {{ $tags := $p.Params.tags | default (slice) }}
+        {{ $tagsLower := apply $tags "lower" "." }}
+
+        {{ if or (in $t "apple") (in $t "iphone") (in $tagsLower "apple") (in $tagsLower "iphone") }}{{ $src = "/images/mobile-phone.jpg" }}{{ end }}
+        {{ if and (not $src) (or (in $t "google") (in $tagsLower "google")) }}{{ $src = "/images/Google.png" }}{{ end }}
+        {{ if and (not $src) (or (in $t "bitcoin") (in $t "btc") (in $tagsLower "bitcoin") (in $tagsLower "btc")) }}{{ $src = "/images/bitcoin-btc.jpg" }}{{ end }}
+        {{ if and (not $src) (or (in $t "ethereum") (in $t "eth") (in $tagsLower "ethereum") (in $tagsLower "eth")) }}{{ $src = "/images/eth-ethereum.jpg" }}{{ end }}
+        {{ if and (not $src) (or (in $t " ai") (in $t "artificial intelligence") (in $tagsLower "ai")) }}{{ $src = "/images/ai.jpg" }}{{ end }}
+      {{ end }}
+
+      {{ if not $src }}{{ $src = $ph }}{{ end }}
+
+      <img
+        class="post-hero-img"
+        src="{{ $src }}?v={{ $p.Lastmod.Unix }}"
+        alt="{{ $p.Params.image_alt | default $p.Title }}"
+        loading="lazy" decoding="async"
+        onerror="this.onerror=null;this.src='{{ $ph }}'">
+    {{ end }}
+
+    <h1 class="post-title">{{ $p.Title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ $p.Date }}">{{ $p.Date.Format "2006-01-02" }}</time>
+      {{ if $isNews }}
+        {{ with $p.Params.category }} · <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>{{ end }}
+        {{ with $p.Params.tags }} · {{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href='{{ "/tags/" | relLangURL }}{{ $t | urlize }}/'>{{ $t }}</a>{{ end }}{{ end }}
+      {{ end }}
+    </div>
+  </header>
+
+  <div class="post-body">
+    {{ $p.Content }}
+
+    {{ if and $isNews $p.Params.our_take }}
+      <section class="our-take">
+        <h3>{{ i18n "ourTake" | default "Our take" }}</h3>
+        <div class="our-take-body">{{ $p.Params.our_take | markdownify }}</div>
+      </section>
+    {{ end }}
+  </div>
+
+  {{ if and $isNews (or $p.Params.source $p.Params.source_url) }}
+    {{/* Link samo ako je IZRIČITO dopušten po članku i postoji URL */}}
+    {{ $allowLink := and (eq $p.Params.source_link true) $p.Params.source_url }}
+    <aside class="post-source">
+      <span class="label">{{ i18n "sourceLabel" | default "Izvor" }}:</span>
+      {{ if $allowLink }}
+        <a href="{{ $p.Params.source_url }}" rel="nofollow noopener" target="_blank">
+          {{ $p.Params.source | default "Original" }}
+        </a>
+      {{ else }}
+        {{ $p.Params.source | default "Original" }}
+      {{ end }}
+    </aside>
+  {{ end }}
+
+
+  {{ if $isNews }}{{ partial "post-nav.html" $p }}{{ end }}
+  {{ if $isNews }}{{ partial "related.html" $p }}{{ end }}
+  {{ partial "disclaimer.html" $p }}
+
+</article>
+{{ end }}
