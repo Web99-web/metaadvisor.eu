@@ -46,5 +46,5 @@ Stellar je blockchain mreža pokrenuta 2014. s ciljem **jeftinih i brzih prekogr
 - **Integracija u Bitcoin.com Wallet** daje XLM-u jaču vidljivost i potencijal za masovniju upotrebu.  
 - **Sezonalnost** može pomoći cijeni, ali ključni faktor ostaje **likvidnost i usvajanje u plaćanjima**.  
 
-### Disclaimer (obavezno)
+### Disclaimer 
 Ovaj sadržaj služi isključivo u **informativne i obrazovne svrhe** i ne predstavlja investicijski savjet. Trgovanje kriptoimovinom nosi visok rizik. Provedite **vlastito istraživanje (DYOR)** prije donošenja financijskih odluka.
