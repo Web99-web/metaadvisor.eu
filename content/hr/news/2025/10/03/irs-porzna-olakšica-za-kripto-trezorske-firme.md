@@ -29,27 +29,36 @@ tags:
   - računovodstvo
   - regulacija
   - SAD
-summary: "Privremene smjernice IRS-a oslobađaju najveće američke C-korporacije poreza na nerealizirane dobitke iz kripto imovine. To donosi olakšanje tvrtkama poput MicroStrategy i MARA koje drže velike bitcoin rezerve."
+summary: "Privremene smjernice IRS-a rasterećuju najveće C-korporacije od CAMT oporezivanja nerealiziranih dobitaka na kripto imovini. Iako selektivne, mjere smanjuju rizik prisilnih likvidacija kod firmi s velikim bitcoin rezervama."
 ---
 
-Američka porezna uprava (IRS) objavila je **privremene smjernice** koje ublažavaju primjenu **Corporate Alternative Minimum Tax (CAMT)** na **nerealizirane dobitke** kod **najvećih C-korporacija**. U praksi to znači da tvrtke s prihodom većim od **1 mlrd USD** više **neće plaćati minimalni porez** na papirnate (nerealizirane) dobitke na određenu imovinu, uključujući **Bitcoin** i druge kriptovalute.
+Američka porezna uprava (IRS) objavila je **privremene smjernice** koje ublažavaju primjenu **Corporate Alternative Minimum Tax (CAMT)** na **nerealizirane dobitke** kod **najvećih C-korporacija**. U praksi to znači: ako je tvrtka iznad praga „velikog obveznika” (C-corp, prihod > **1 mlrd USD** prema knjigovodstvenom „book income”), **nema obvezu plaćanja minimalnog poreza** na **papirnate** dobitke na određenu imovinu — uključujući **kripto**.
 
-Ova odluka posebno pomaže tvrtkama poput **MicroStrategy (MSTR)** i **Marathon Digital Holdings (MARA)**, koje drže goleme količine bitcoina kao dio svojih trezorskih strategija. Do sada je CAMT prijetio time da će tvrtke morati likvidirati dio imovine kako bi platile porez na dobit koja zapravo nije bila realizirana. S novim smjernicama taj rizik je značajno smanjen.
+Za kripto-intenzivne bilance ovo je ključno. **Bitcoin je visoko volatilna imovina**; u jednoj godini može snažno porasti, stvarajući velike „papirnate” dobitke, a već u idućem kvartalu ti dobici mogu nestati. Ako bi se takvi nerealizirani dobici oporezivali kroz CAMT, tvrtke bi morale **likvidirati imovinu** samo da podmire porez — čak i kada **nisu unovčile** dobit. Nove smjernice taj rizik **značajno smanjuju**.
 
-Stručnjaci ističu da će korist imati ponajprije **Digital Asset Treasury (DAT) kompanije**, ali i druge velike korporacije koje drže kripto na bilanci. Međutim, mala i srednja poduzeća i dalje ostaju izvan ovog režima i morat će plaćati porez na uobičajen način.
+**Tko profitira?**  
+- **MicroStrategy (MSTR)** i **Marathon Digital Holdings (MARA)** su najistaknutiji **crypto treasury** igrači: na bilanci drže velike količine bitcoina kao dio alokacije kapitala. Ova pravila im omogućuju **stabilnije upravljanje trezorom** (likvidnost ostaje u imovini umjesto da odlazi na porez).  
+- **DAT (Digital Asset Treasury) poduzeća** i druge velike korporacije s kriptom u bilanci dobivaju **predvidljiviji porezni tretman** i **manje distorzivnih prodaja** na kraju razdoblja.
 
-**Šira slika**  
-- CAMT je porezni okvir uveden kako bi se osiguralo da najveće kompanije u SAD-u plaćaju barem minimalan porez na dobit.  
-- Kod volatilne imovine poput kripta, CAMT je predstavljao ozbiljan problem jer je tvrtke prisiljavao na prodaje u krivom trenutku.  
-- IRS sada priznaje posebnosti kripto imovine, iako samo u ograničenom opsegu i za najveće obveznike.
+**Što smjernice (još) ne rješavaju?**  
+- **Selektivnost**: mjerama su obuhvaćeni ponajprije **najveći obveznici**; **MSP sektor** i rani kripto startupi izvan praga ostaju u standardnom režimu.  
+- **Privremenost i opseg**: riječ je o **interim guidance** — očekuju se dodatna pojašnjenja, definicije opsega i eventualna **trajna pravila**.  
+- **Računovodstvo ≠ porezi**: i uz FASB **fair-value** za kripto (kroz P&L), **porezni učinak** se sada ublažava, ali **asimetrija** između financijskog izvještavanja i poreza i dalje traži koordinaciju CFO-a.
+
+**Implikacije za tržište**  
+- **Manje „prisilne prodaje”** pri zatvaranju kvartala/godine smanjuje pritisak na likvidnost i može **smanjiti volatilnost** uzrokovanu fiskalnim obvezama velikih treasury igrača.  
+- **Signal regulatora**: iako usko ciljano, ovo je **pozitivan signal** da institucije u SAD-u prepoznaju posebnosti kripto imovine.  
+- **Investicijske politike**: veće korporacije mogle bi **lakše formalizirati kripto politike trezora** (rasponi alokacije, hedging, rebalans) bez CAMT-a na nerealizirane dobitke.
 
 > **Napomena o slici:** Slika je simbolična.
 
 ---
 
 ### Naš osvrt (Metaadvisor):
-- ✅ **Pozitivan signal**: SAD sve više prilagođava porezni okvir kriptu.  
-- ⚖️ **Selektivna mjera**: koristi najvećima (MSTR, MARA), dok manji subjekti ostaju bez olakšica.  
-- 📈 **Likvidnost spašena**: manje prisilnih prodaja kripta zbog poreza na papirnate dobitke.  
-- 🧾 **Računovodstvo ≠ porezi**: nesklad i dalje postoji, ali je smanjen.  
-- 🌍 **Globalni utjecaj**: druge zemlje mogle bi pratiti američki primjer i prilagoditi vlastite porezne propise.
+- ✅ Pozitivan signal: SAD sve više prilagođava porezni okvir kriptu.
+
+- ⚠️ **Raste nejednakost**: Selektivna olakšica cementira prednost najvećih; manji teže konkuriraju bez istog poreznog tretmana.
+- 🧱 **Barijera ulaska/rasta**: Startupima i MSP-ovima teže je izgraditi kripto trezor ako moraju računati s porezom na papirnate dobitke.
+- ✅ **Likvidnost i stabilnost za velike**: MSTR/MARA i slični dobivaju realnu zaštitu od “prisilnih prodaja”.
+- 🧾 **Accounting vs. porezi**: Nesklad je manji za velike, ali i dalje postoji; za male ostaje gotovo netaknut.
+- 🌍 Globalni utjecaj: druge zemlje mogle bi pratiti američki primjer i prilagoditi vlastite porezne propise.
