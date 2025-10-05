@@ -46,7 +46,8 @@ mapping:
   Aster: [Aster-long.png]
   dollar: [net-dollar-simple.png]
   USDT USDC: [Tether-Circle.png]
-  spxa: [spxa-tokenized-sp500-textonly.png]
+  spxa: [spxa-tokenized-sp500-textonly.png] 
+  SKY ex MKR: [sky-exMKR.png]
   
   
   # --- AI / TECH ---
