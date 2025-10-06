@@ -131,7 +131,7 @@ mapping:
   shiba:        [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg, shiba-inu.png]
   "shiba inu":  [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg, shiba-inu.png]
   shibarium:    [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu-coin2.jpg]
-  pepe:         [pepe-the-frog.jpg]
+  pepe:         [pepe.png, pepe-the-frog.jpg]
   andy eth:     [andy_eth_cover.png]
   baby shark:   [baby-shark.png]
 
