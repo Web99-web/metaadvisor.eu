@@ -153,11 +153,8 @@ mapping:
 
   # --- Razno / svijet / all ---
   football:    [football.jpg]
-  michael saylor:    [Michael_Saylor.jpg]
-  jerome powell:    [Jerome_H._Powell,_Federal_Reserve_Chair.jpg]
   UN      :    [un.jpg]
   FED     :    [FED-Federal_Reserve_Board_Building.jpg]
-  razni likovi:    [Robert_Kiyosaki_by_Gage_Skidmore_2.jpg]
   FTX     :    [ftx-2025-09-30-repayment-1-6b.png]
   ETF     :    [crypto-etf-floodgates.png]
   coinbase:    [coinbase-logo.png]
@@ -186,9 +183,12 @@ mapping:
   Ohio:    [Ohio.png]
   Alloyx ryt:    [alloyx-ryt-fb.png]
   NFT:      [NFT-vaga.png]
-  
-  
-  
+
+  # --- Osobe / svijet / all ---
+  Kevin Durant Coinbase:      [Kevin-Durant-coinbase.png]
+  michael saylor:    [Michael_Saylor.jpg]
+  jerome powell:    [Jerome_H._Powell,_Federal_Reserve_Chair.jpg]
+  razni likovi:    [Robert_Kiyosaki_by_Gage_Skidmore_2.jpg]
  
 
   
