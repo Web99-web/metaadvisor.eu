@@ -1,6 +1,6 @@
 ---
-title: "PEPE outperforms the memecoin market: whales are buying as futures interest surges"
-slug: "pepe-outperforms-memecoin-market-whales-are-buying-futures-interest-surges"
+title: "PEPE übertrifft den Memecoin-Markt: Wale kaufen, Futures-Interesse zieht an"
+slug: "pepe-uebertrifft-memecoin-markt-wale-kaufen-futures-steigen"
 date: 2025-10-06T15:54:38Z
 category: "news"
 translationKey: "a686136b883e24a2d72d7af243e76157"
@@ -12,30 +12,30 @@ image_url: "/images/pepe.png"
 featured_image: "/images/pepe.png"
 image: "/images/pepe.png"
 thumbnail: "/images/pepe.png"
-image_alt: "PEPE memecoin — market momentum"
-image_credit: "Metaadvisor.eu — symbolic illustration"
-tags: ["crypto", "memecoins", "PEPE", "whales", "derivatives", "open-interest", "accumulation", "liquidity"]
-summary: "PEPE is up ~2.5% and beating the memecoin index. The top 100 addresses increased holdings by 4.28% over 30 days, while futures open interest pushes toward ~$645M."
+image_alt: "PEPE Memecoin – Marktmomentum"
+image_credit: "Metaadvisor.eu — symbolische Illustration"
+tags: ["crypto", "Memecoins", "PEPE", "Wale", "Derivate", "Open-Interest", "Akkumulation", "Liquidität"]
+summary: "PEPE legt ~2,5 % zu und schlägt den Memecoin-Index. Die 100 größten Adressen haben ihre Bestände in 30 Tagen um 4,28 % erhöht, während Futures-Open-Interest Richtung 645 Mio. $ steigt."
 ---
 
-**PEPE is stealing the spotlight again.** Prices are up, but the headline isn’t the percent move — it’s **who’s buying**.
+**PEPE ist wieder Gesprächsstoff.** Während viele Memecoins seitwärts laufen, springt PEPE nach vorn — doch die eigentliche Story ist, **wer** kauft.
 
-### Whales are loading up
-Over the past **30 days**, the **top 100 PEPE addresses** have **increased holdings by 4.28%**. That’s deliberate **accumulation**, not a quick flip:  
-- positions built **patiently**,  
-- circulating supply **soaked up**,  
-- a clear message to the market: **“we’re in this for longer.”**
+### Wale füllen die Taschen
+In den letzten **30 Tagen** haben die **100 größten PEPE-Adressen** ihre Bestände um **4,28 %** aufgestockt. Das ist kein Zufallskauf, sondern **geplante Akkumulation**:  
+- Positionen werden **beharrlich** ausgebaut,  
+- Liquidität wird **aufgesaugt**,  
+- und dem Markt wird signalisiert: **„Wir bleiben länger drin.“**
 
-### Fewer coins on exchanges
-In the same window, exchange balances of PEPE **fell ~2.15%**. Tokens moving to **self-custody** typically signal a **bullish stance** — less immediate supply waiting to be sold.
+### Börsenbestände sinken
+Zeitgleich sind die PEPE-Bestände auf Börsen um **~2,15 %** geschrumpft. Coins wandern in **Self-Custody** — ein klassischer **Bull-Indikator**, weil das kurzfristige Verkaufsangebot sinkt.
 
-### Derivatives add thrust
-**Futures open interest** is climbing toward **~$645M**. More OI means more **leverage and liquidity**, priming the tape for sharp follow-through when buyers press momentum.
+### Derivate zünden den Turbo
+Das **Futures-Open-Interest** nähert sich **~645 Mio. $**. Mehr OI bedeutet mehr **Hebel und Handelsvolumen** — das ist Treibstoff für impulsive Bewegungen, wenn neue Käuferwellen aufschlagen.
 
 ---
 
-### Our take (Metaadvisor)
-- **Big money is net-buying.** While whales keep adding, the path of least resistance is **higher**.  
-- **Supply is getting tighter.** Outflows from exchanges support price discovery — dips get bought faster.  
-- **Derivatives amplify moves.** Elevated OI can cut both ways, so risk controls matter.  
-- **Narrative over noise.** In memecoins, **flow** beats micro-levels on the chart every time.
+### Unser Fazit (Metaadvisor)
+- **Die Großen kaufen.** Solange Wale netto akkumulieren, bleibt der Pfad des geringsten Widerstands **nach oben**.  
+- **Angebot verknappt sich.** Abflüsse von Börsen stützen die Preisbildung — jeder Dip wird schneller aufgenommen.  
+- **Derivate bringen Tempo.** Höheres OI verstärkt Moves; Risikomanagement bleibt Pflicht.  
+- **Narrativ > Lärm.** Bei Memecoins zählt der **Flow** mehr als das Rauschen intraday-Charts.
