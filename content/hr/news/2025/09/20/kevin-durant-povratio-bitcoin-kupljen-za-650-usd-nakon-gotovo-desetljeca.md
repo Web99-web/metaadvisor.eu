@@ -1,6 +1,6 @@
 ---
-title: "Kevin Durant und der „verlorene“ Bitcoin: Was geschah wirklich mit dem Coinbase-Konto?"
-slug: "kevin-durant-und-der-verlorene-bitcoin-was-geschah-wirklich-mit-dem-coinbase-konto"
+title: "Kevin Durant i ‘izgubljeni’ Bitcoin: Što se zapravo dogodilo s Coinbase računom?"
+slug: "kevin-durant-i-izgubljeni-bitcoin-sto-se-zapravo-dogodilo-s-coinbase-racunom"
 date: 2025-09-20T14:46:46Z
 category: "crypto"
 translationKey: "50d5a9faa01010d0e0db504adbd413e0"
@@ -12,43 +12,43 @@ image_url: "/images/Kevin-Durant-coinbase.png"
 featured_image: "/images/Kevin-Durant-coinbase.png"
 image: "/images/Kevin-Durant-coinbase.png"
 thumbnail: "/images/Kevin-Durant-coinbase.png"
-image_alt: "Kevin Durant — Wiederherstellung des Coinbase-Bitcoin-Kontos"
-image_credit: "Metaadvisor.eu — symbolische Darstellung"
-tags: ["crypto", "bitcoin", "Kevin Durant", "Coinbase", "Kontowiederherstellung", "2FA", "Sicherheit", "Onboarding"]
-summary: "Nach fast einem Jahrzehnt ohne Zugriff erhielt Kevin Durant sein Coinbase-Konto zurück. Wir zeigen die Timeline, wahrscheinliche Ursachen und wie Recovery bei Börsen tatsächlich funktioniert."
+image_alt: "Kevin Durant — povrat pristupa Coinbase Bitcoin računu"
+image_credit: "Metaadvisor.eu — simbolična ilustracija"
+tags: ["crypto", "bitcoin", "Kevin Durant", "Coinbase", "oporavak računa", "2FA", "sigurnost", "onboarding"]
+summary: "Nakon gotovo desetljeća zaključanog pristupa, Kevin Durant vratio je kontrolu nad svojim Coinbase računom. Donosimo vremensku crtu, vjerojatne uzroke i kako oporavak stvarno funkcionira kod mjenjačnica."
 ---
 
-*Bild ist symbolisch.*
+*Slika je simbolična.*
 
-## Was wirklich passiert ist — Timeline
-- **2016:** Nach einem Dinner bei **Ben Horowitz (a16z)** kaufen Durant und **Rich Kleiman** erstmals BTC (geschätzter Einstieg ~**650 $/BTC**).  
-- **2016–2025:** **Kein Zugang** zum Coinbase-Konto/Wallet (**Userfehler**); kein Verkauf, weil **kein Login**.  
-- **Sept. 2025:** In **CNBC Game Plan** schildert Kleiman die Odyssee; kurz darauf postet **Brian Armstrong** (Coinbase-CEO) auf X: “**Fixed. Account recovery complete.**”  
-- **Jetzt:** Zugriff wiederhergestellt; **Positionsgröße unbekannt**.
+## Što se zapravo dogodilo — vremenska crta
+- **2016.:** Nakon večere kod **Bena Horowitza (a16z)**, Durant i **Rich Kleiman** prvi put kupuju BTC (procijenjeni ulaz ~**650 $/BTC**).  
+- **2016.–2025.:** **Bez pristupa** Coinbase računu/novčaniku (**korisnička pogreška**); nema prodaje jer **nema logina**.  
+- **Rujan 2025.:** U emisiji **CNBC Game Plan** Kleiman opisuje višegodišnji problem; ubrzo potom **Brian Armstrong** (Coinbase CEO) na X-u objavljuje: “**Riješeno. Oporavak računa dovršen.**”  
+- **Sada:** Pristup je vraćen; **veličina pozicije nije otkrivena**.
 
-## Warum kann Recovery Jahre dauern?
-Selbst bei **custodial** Konten (ohne Seed-Phrase) blockieren oft:
-- **Passwort vergessen + 2FA-Gerät verloren/gewechselt** (keine Backup-Codes).  
-- **Veraltete E-Mail** (Reset unmöglich).  
-- **Fehlgeschlagene ID-Verifizierung** (abweichende Daten, abgelaufene Dokumente).  
-- **Security-Sperren** nach vielen Fehlversuchen oder Geräte/IP-Wechseln.  
+## Zašto oporavak može potrajati godinama?
+Čak i uz **skrbnički (custodial)** račun (bez seed fraze), tipične blokade su:
+- **Izgubljena lozinka + promijenjen/izgubljen 2FA uređaj** (nema backup kodova).  
+- **Neaktivan e-mail** (reset nemoguć).  
+- **Neuspješna ID verifikacija** (neusklađeni podaci, istekli dokumenti).  
+- **Sigurnosna zaključavanja** nakon ponovljenih pokušaja ili promjena IP/uređaja.  
 
-Standardschritte: **Passwort-Reset**, **2FA-Recovery**, **Re-KYC**; Börsen verhängen meist **24–48h Cooldowns** nach Credential-Änderungen. Gehen **E-Mail und 2FA** verloren, wird es **manuell** — und kann dauern.
+Standardni koraci su **reset lozinke**, **oporavak 2FA** i **ponovna KYC verifikacija**; razmjene često uvode **24–48 h “cooldown”** nakon promjene vjerodajnica. Ako ste izgubili **i e-mail i 2FA**, slučaj ide u **ručni postupak** — i može se odužiti.
 
-## VIP-Behandlung?
-Da die Lösung **nach medialer Aufmerksamkeit** kam, wurde **Priorisierung** vermutet. Coinbase nannte keine Details; klar ist nur: Fall **gelöst** — vor dem Hintergrund genereller User-Kritik an **Zugangs-/Support-zeiten**.
+## Je li bilo VIP tretmana?
+Budući da je rješenje stiglo **nakon medijske pažnje**, dio publike zaključio je da je riječ o **prioritetnoj obradi**. Coinbase nije iznio detalje postupka; jasno je tek da je slučaj **riješen**, usred šireg nezadovoljstva korisnika oko **pristupa/podrške**.
 
-## Wie viel Geld ist das?
-Bei BTC um **116.000 $** und Einstieg 2016 um **650 $** ergibt sich **>17.700 %** “on paper”. **Positionsgröße** ist unbekannt, daher bleibt alles **spekulativ**.
+## Koliko je to novca?
+Uz BTC oko **116.000 $** i procijenjeni ulaz iz 2016. oko **650 $**, povrat je **>17.700%** “na papiru”. No **veličina uloženog** nije poznata, pa svi izračuni ostaju **špekulativni**.
 
-## Praktische Checkliste
-1. **Password-Manager** + **2FA-Backup-Codes** (ggf. **Passkeys**).  
-2. **E-Mail/Telefon** aktuell halten; **jährlich Reset testen**.  
-3. **KYC-Unterlagen**: gültig, lesbar, **datenidentisch**.  
-4. Bei größeren Beträgen: **mehrere 2FA-Methoden** + **Trusted Device**; **Cooldown** nach Resets einplanen.  
-5. Bei Self-Custody: **Seed/SSS/Social Recovery** und klares Speicher-/Estate-Konzept.
+## Praktična kontrolna lista za korisnike
+1. **Password manager** + **backup 2FA kodovi** (razmotriti i **passkeys**).  
+2. Održavajte **e-mail/telefon** aktualnima; **testirajte reset jednom godišnje**.  
+3. **KYC dokumenti**: važeći, čitki i **točno** poklapaju se s podacima na računu.  
+4. Za veće iznose: **više 2FA metoda** + **pouzdani uređaj**; očekujte **cooldown** nakon resetiranja.  
+5. Kod self-custody: **seed/SSS/social recovery** i jasan plan pohrane/nasljeđivanja.
 
 ---
 
-### Unser Fazit (Metaadvisor)
-Zugangs-Hygiene ist so wichtig wie Custody-Sicherheit. Verlorenes Passwort, 2FA und alte E-Mail können **legitime Gelder einfrieren**; die Wiederherstellung hängt dann von **Geduld**, sauberer Identität — und manchmal von **öffentlicher Sichtbarkeit** ab.
+### Naš osvrt (Metaadvisor)
+Higijena pristupa važna je koliko i sigurnost skrbništva. Izgubljena lozinka, 2FA i stari e-mail mogu **efektivno zamrznuti** legitimna sredstva; oporavak tada ovisi o **strpljenju**, dobrim dokazima identiteta — i ponekad o **javnoj vidljivosti** slučaja.
