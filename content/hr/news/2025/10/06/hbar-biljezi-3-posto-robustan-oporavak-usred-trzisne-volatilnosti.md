@@ -14,39 +14,29 @@ image: "/images/HBAR.png"
 thumbnail: "/images/HBAR.png"
 image_alt: "HBAR — ilustracija tokena Hedera mreže"
 image_credit: "Metaadvisor.eu — simbolična slika"
-tags: ["crypto", "HBAR", "Hedera", "hashgraph", "staking", "naknade", "institucionalni-partneri", "governing-council", "volatilnost", "likvidnost", "alternativna-imovina"]
-summary: "HBAR se u 24 sata oporavio oko 3%, uz skok volumena i stabilizaciju iznad 0,23 $. Donosimo kratki pregled kretanja — i objašnjenje što je zapravo HBAR i čemu služi."
+tags: ["crypto", "HBAR", "Hedera", "hashgraph", "staking", "naknade", "governing-council", "enterprise-adoption", "energetska-ucinkovitost", "visoka-brzina", "volatilnost", "likvidnost", "alternative-assets"]
+summary: "HBAR je u 24 sata porastao oko 3% i zadržao se iznad 0,23 $. Donosimo kratki pregled kretanja te objašnjavamo što je HBAR i zašto je Hedera zanimljiva enterprise svijetu."
 ---
 
 *Slika je simbolična.*
 
-**HBAR** je tijekom proteklog dana pokazao vidljiv **bikovski zamah**, podigavši se s **0,22 $** na **0,23 $** (5.–6. listopada), uz **intraday volatilnost ~5,47%**.
-
-Token se **odbio oko 0,21 $** i ispisao **više vrhove iznad 0,23 $**, potaknut pojačanom kupnjom koja je tijekom vršnih sati **pogurala volumen**. U 24-satnom prozoru HBAR je porastao **oko 3%**, produljujući dobitke dok je **napeta makro slika** poticala potražnju za **alternativnom imovinom**.
-
-Dodatni uzlazni zamah zabilježen je u **završnom satu** trgovanja (još **+0,46%** do **0,23 $**), unatoč pritisku na dioničkim tržištima.
+**HBAR** je tijekom proteklog dana pokazao vidljiv **bikovski zamah**, s **0,22 $** na **0,23 $** (5.–6. listopada), uz **intraday volatilnost ~5,47%**. Nakon odbijanja blizu **0,21 $**, cijena je ispisala **više vrhove iznad 0,23 $** uz pojačane vršne volumene. Ukupno, HBAR je **~3%** u plusu dok napet makro okida potražnju za **alternativnom imovinom**.
 
 ---
 
 ## Što je HBAR? (kratko objašnjenje)
-**HBAR** je **izvorni token mreže Hedera Hashgraph** — distribuirane mreže koja umjesto klasičnog blockchaina koristi **hashgraph (DAG)** konsenzusni mehanizam.
+**HBAR** je **izvorni token mreže Hedera Hashgraph** — distribuiranog sustava koji, umjesto klasičnog blockchaina, koristi **hashgraph (DAG) konsenzus**.
 
-- **Namjene tokena:**  
-  - plaćanje **naknada** za transakcije i pametne ugovore,  
-  - **staking / osiguranje mreže** i nagrade čvorovima,  
-  - “gorivo” za **dAppove**, **NFT-ove** i **DeFi** na Hedera ekosustavu.
+- **Fokus Hedera mreže:** **visoka brzina**, **niske naknade** *(tipično < **0,01 $** po transakciji)*, **energetska učinkovitost** i **enterprise adoption**.  
+- **Vijeće upravljanja (Governing Council):** članovi su velika imena poput **Googlea, IBM-a, Boeinga, Deutsche Telekoma, LG-a, Ubisofta** i drugih — sudjeluju u **upravljanju mrežom**.  
+- **Namjene HBAR-a:** plaćanje **naknada**, **staking/osiguravanje mreže** (nagrade čvorovima) te “gorivo” za **dAppove, NFT-ove i DeFi** unutar Hedera ekosustava.
 
-- **Zašto je Hedera posebna:**  
-  - **brzina i niske naknade** (tipično < $0,01 po transakciji),  
-  - **energetska učinkovitost**,  
-  - **Governing Council** s velikim korporacijama (npr. tehnološki i telekom divovi) koji sudjeluju u upravljanju mrežom.
-
-- **Use-case naglasci:** **enterprise integracije**, tokenizacija imovine, mikroplaćanja i identitet.
+👉 **Ukratko:** **HBAR** je **“benzin” Hedera mreže** i **alat za osiguravanje sustava**.
 
 ---
 
 ### Naš osvrt (Metaadvisor)
-- **Volumen potvrđuje oporavak:** serija **viših vrhova** + volumen iznad prosjeka sugerira da nije riječ samo o “dead cat” skoku.  
-- **Narativ alternativne imovine:** u napetom makro okruženju tokeni s **realnim partnerstvima** (Hedera) dobivaju na interesu.  
-- **Što pratiti dalje:** održanje **iznad 0,23 $** uz solidan volumen; **funding/OI** na derivatima i tokove **s/na burze**.  
-- **Rizici:** brzo hlađenje makro napetosti ili pad mrežnih aktivnosti može **splasnuti momentum** — upravljanje veličinom pozicije ostaje ključno.
+- **Volumen potvrđuje oporavak:** serija **viših vrhova** + iznadprosječan promet.  
+- **Enterprise kut** Hedera-e (council + niske naknade) čini HBAR zanimljivim u fazama **risk-off** rotacija.  
+- **Što pratiti:** održanje **>0,23 $** uz zdrav volumen; **funding/OI** i **tokove na/sa burzi**.  
+- **Rizici:** popuštanje makro napetosti ili pad on-chain aktivnosti može ohladiti momentum — veličina pozicije i risk management ostaju ključni.
