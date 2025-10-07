@@ -46,7 +46,6 @@ Memecoini su **krajnje volatilni**: cijena se može spustiti jednako brzo kako j
 
 ---
 
-{{< rawhtml >}}
 <p style="text-align:center; margin:20px 0;">
   <a href="/go/mexc" target="_blank" rel="nofollow sponsored"
      style="background:#1e40af; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; display:inline-block;">
@@ -59,9 +58,11 @@ Možete ostvariti dobitak, ali i izgubiti cjelokupan ulog.
 Ovaj sadržaj služi samo u informativne svrhe i ne predstavlja financijski savjet. 
 Poveznice mogu voditi na vanjske partnere.
 </blockquote>
-{{< /rawhtml >}}
 
 ---
+
+**Naš osvrt (Metaadvisor):**
+
 
 **Naš osvrt (Metaadvisor):**
 - **Hype vs. vrijednost:** $4 je primjer kako jedan post može stvoriti milijune — bez čvrste ekonomije iza projekta.  
