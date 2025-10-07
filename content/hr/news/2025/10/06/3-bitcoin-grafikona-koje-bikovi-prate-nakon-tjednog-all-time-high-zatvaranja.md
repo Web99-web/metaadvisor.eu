@@ -8,42 +8,46 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/3-bitcoin-charts-bulls-are-watching-after-btc-s-weekly-all-time-high-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/bitcoin-charts.png"
-featured_image: "/images/bitcoin-charts.png"
-image: "/images/bitcoin-charts.png"
-thumbnail: "/images/bitcoin-charts.png"
-image_alt: "Bitcoin — simboličan prikaz grafikona"
-image_credit: "Metaadvisor.eu — simbolična ilustracija"
-tags: ["crypto", "bitcoin", "BTC", "grafikon", "tehnicka-analiza", "bullish", "ATH", "trziste", "trgovanje", "institucije"]
-summary: "Bitcoin je zatvorio tjedan na all-time high razini, a bikovi prate tri ključna grafikona za nastavak trenda."
+image_url: "/images/btc1.jpg"
+featured_image: "/images/btc1.jpg"
+image: "/images/btc1.jpg"
+thumbnail: "/images/btc1.jpg"
+image_alt: "Bitcoin — naslovna vizualizacija (simbolično)"
+image_credit: "Metaadvisor.eu — simbolična slika"
+tags: ["crypto", "bitcoin", "BTC", "grafovi", "tehnička-analiza", "bullish", "ATH", "200WMA", "realized-price", "weekly-close", "likvidnost", "ETF"]
+summary: "Bitcoin je tjedan zatvorio na ATH razini. Pratimo 3 grafa: 200WMA (~$53k), realized price (~$54k) i tjedni close (~$124.7k), koji zajedno sugeriraju rani bull nastavak."
 ---
 
 *Slika je simbolična.*
 
-Bitcoin je prošli tjedan zatvorio na **novom all-time highu (ATH)**, što je dodatno potaknulo bikovski sentiment na tržištu. Traderi i analitičari sada prate **tri ključna grafikona** kako bi procijenili ima li prostor za nastavak rasta.
+Bitcoin je tjedan zaključio na **novom ATH-u** (tjedno zatvaranje oko **$124.7k**, spot do **$126k**), a bikovi posebno prate **tri grafa** koji pomažu procijeniti održivost trenda.
 
-### 1. 200-tjedni pomični prosjek (200WMA)
-Tradicionalno snažna **podrška u dugoročnim ciklusima**. Trenutno je 200WMA probio iznad 53.000 $, što sugerira nastavak dugoročnog uzlaznog trenda.
+## 1) 200-tjedni pomični prosjek (200WMA)
+Dugoročni orijentir koji se **gotovo uvijek penje** i trenutno leži oko **$53k** — daleko ispod spota. To implicira da je višegodišnji trend **netaknut** i daje “temelj” ispod cijene.  
+![BTC Spot vs 200WMA — ilustrativni graf](/images/btc-spot-vs-200wma.png)
+*Napomena: ilustrativni prikaz (nije live feed).*
 
-### 2. Realizirana cijena
-Prosječna cijena po kojoj su svi BTC zadnji put promijenili vlasnika na lancu.  
-Nedavno je probila 54.000 $, iznad 200WMA — povijesno bikovski signal, jer u bull fazama realizirana cijena ostaje iznad dugoročnog prosjeka.
+## 2) Realizirana cijena (Realized price)
+On-chain prosječna cijena po kojoj su kovanice zadnji put promijenile vlasnika. Trenutno je oko **$54k** i **iznad 200WMA**, što je u prethodnim ciklusima bio **rani bull signal**.  
+![Realized Price vs 200WMA — ilustrativni graf](/images/btc-realized-vs-200wma.png)
+*Napomena: ilustrativni prikaz (nije live feed).*
 
-### 3. Ukupan volumen trgovanja
-Rujan je donio **rekordni mjesečni volumen** od gotovo 9,72 bilijuna USD (spot + derivati).  
-Veliki volumen uz rast cijene pokazuje **institucionalni interes i likvidnost** potrebnu za nastavak trenda.
+## 3) Tjedni close na ATH-u
+Novo **tjedno ATH zatvaranje** potvrđuje **price discovery** i snagu trenda, pogotovo uz visoke volumene i ETF priljeve.  
+![BTC Weekly Close (ATH) — ilustrativni graf](/images/btc-weekly-close.png)
+*Napomena: ilustrativni prikaz (nije live feed).*
 
 ---
 
-## Zašto ovo prati cijelo tržište
-- **Povijesni uzorci:** u prethodnim ciklusima (2017., 2021.) isti odnosi 200WMA i realizirane cijene signalizirali su srednje-dugačke bull faze.  
-- **Institucionalni tokovi:** ETF-ovi, treasuries i korporativne kupnje dodali su milijarde na tržište.  
-- **Volumen kao gorivo:** bez likvidnosti nema održivog rasta; ovaj put je tu i derivativna poluga.
+## Zašto su ova tri grafa važna
+- **Povijesni uzorak:** tijekom bull faza **realized price** ostaje **iznad 200WMA**, a probijanje i zadržavanje to često prate **više cijene**.  
+- **Likvidnost i tokovi:** rekordni volumeni (spot + derivati) i ETF net priljevi osiguravaju **“gorivo”** za nastavak trenda.  
+- **Risk management:** i u bullu dolazi do **shakeout** korekcija; pratiti funding/OI i dominaciju BTC-a.
 
 ---
 
 ### Naš osvrt (Metaadvisor)
-- **Bikovski setup** je jasan, ali **tempo uspona** ovisit će o ETF tokovima i makro uvjetima.  
-- **Razlika prema 2021.:** tada je retail dominirao, sada su **institucije ključne**.  
-- **Što pratiti dalje:** funding na derivatima, open interest i kretanje BTC dominacije.  
-- **Zaključak:** dok su grafikoni bullish, treba paziti na pregrijavanje tržišta i moguće “shakeout” korekcije.
+- **Setup** ostaje **bullish**, ali **tempo** ovisi o daljnjim ETF tokovima i makro uvjetima.  
+- Razlika u odnosu na 2021.: veći udio **institucionalne potražnje** i dublja likvidnost.  
+- **Što pratiti dalje:** smjer **SOL/ETH/BTC** rotacija, **funding** i **OI**, te održanje iznad ključnih dnevnih/weekly razina.
+
