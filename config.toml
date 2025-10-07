@@ -48,3 +48,9 @@ placeholder_image = "/images/finance.jpg"
 [outputs]
   home    = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]     # (2) omogući RSS na /news/ itd.
+
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
