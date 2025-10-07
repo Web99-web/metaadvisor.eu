@@ -1,0 +1,23 @@
+{{ $href  := .Get "href"  | default "/go/mexc" }}
+{{ $label := .Get "label" | default "👉 Trade on MEXC" }}
+{{ $bg    := .Get "bg"    | default "#1e40af" }}
+{{ $color := .Get "color" | default "white" }}
+{{ $showDisclaimer := .Get "disclaimer" | default "true" }}
+
+{{ $lang := .Page.Lang | default .Site.Language.Lang }}
+{{ $disc := dict
+  "hr" "⚠️ Upozorenje: Trgovanje kriptovalutama nosi visok tržišni rizik. Možete ostvariti dobitak, ali i izgubiti cjelokupan ulog. Ovaj sadržaj je informativan i ne predstavlja financijski savjet. Poveznice mogu voditi na vanjske partnere."
+  "de" "⚠️ Hinweis: Der Handel mit Kryptowährungen ist mit hohem Marktrisiko verbunden. Gewinne sind möglich, ebenso ein Totalverlust. Dieser Inhalt dient nur zu Informationszwecken und stellt keine Finanzberatung dar. Links können zu externen Partnern führen."
+  "en" "⚠️ Notice: Trading cryptocurrencies involves high market risk. You may gain or lose your entire investment. This content is for informational purposes only and does not constitute financial advice. Links may lead to external partners."
+}}
+
+<p style="text-align:center; margin:20px 0;">
+  <a href="{{ $href }}" target="_blank" rel="nofollow sponsored"
+     style="background:{{ $bg }}; color:{{ $color }}; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; display:inline-block;">
+     {{ $label }}
+  </a>
+</p>
+
+{{ if eq $showDisclaimer "true" }}
+<blockquote>{{ index $disc $lang }}</blockquote>
+{{ end }}
