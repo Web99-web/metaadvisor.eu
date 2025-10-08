@@ -38,17 +38,19 @@
    - sub    : podnaslov (manjim slovima)
    - img    : (opcionalno) URL slike 970×250; ako je postavljen, koristit će se slika
 */
-const AFF_PARTNERS = [
-  { name: "MEXC",     url: "https://www.mexc.com/invite/register?inviteCode=1dVNP&source=invite&utm_source=usershare&utm_medium=usershare&utm_biz=affiliate&utm_campaign=invite", cta:"Trade on MEXC",  sub:"Low fees • Wide Alt coverage", img:"" },
-  { name: "Bitget",   url: "https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter", cta:"Join Bitget", sub:"Copy trading • SOL ecosystem", img:"" },
-  { name: "Bybit",    url: "https://www.bybit.com/en/invite/?ref=WPRPKQ9", cta:"Start on Bybit", sub:"Pro features • Deep liquidity", img:"" },
-  { name: "BloFin",   url: "https://blofin.com/register?referral_code=95SDq1", cta:"Try BloFin", sub:"Earn & trade • DeFi focus", img:"" },
-  { name: "KuCoin",   url: "https://www.kucoin.com/ucenter/signup?lang=en_US&rcode=QBSTQETT&utm_source=rf", cta:"Sign up KuCoin", sub:"KCS perks • Fast listings", img:"" },
+
+
+  const AFF_PARTNERS = [
+  { name: "MEXC",   url: "https://www.mexc.com/invite/register?inviteCode=1dVNP&source=invite&utm_source=usershare&utm_medium=usershare&utm_biz=affiliate&utm_campaign=invite", cta:"Trade on MEXC",  sub:"Low fees • Wide Alt coverage", img:"" },
+  { name: "Bitget", url: "https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter", cta:"Join Bitget", sub:"Copy trading • SOL ecosystem", img:"" },
+  { name: "Bybit",  url: "https://www.bybit.com/en/invite/?ref=WPRPKQ9", cta:"Start on Bybit", sub:"Pro features • Deep liquidity", img:"" },
+  { name: "BloFin", url: "https://blofin.com/register?referral_code=95SDq1", cta:"Try BloFin", sub:"Earn & trade • DeFi focus", img:"" },
+  { name: "KuCoin", url: "https://www.kucoin.com/ucenter/signup?lang=en_US&rcode=QBSTQETT&utm_source=rf", cta:"Sign up KuCoin", sub:"KCS perks • Fast listings", img:"" },
   { name: "THORWallet (RUNE)", url: "https://app.thorwallet.org/referrals?code=877805", cta:"Get THORWallet", sub:"THORChain native access", img:"" },
-  { name: "ABCD Stable", url: "https://www.abcdstable.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter", cta:"Earn with ABCD", sub:"Yield on stable assets", img:"" }
+  { name: "ABCD Stable", url: "https://www.abcdstable.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter", cta:"Earn with ABCD", sub:"Yield on stable assets", img:"" },  //  ⟵ OVAJ ZAREZ
+  { name: "Coinbase", url: "https://www.coinbase.com/join/4RZP8J6?origin=advanced", cta:"Start on Coinbase", sub:"Beginner-friendly • Regulated", img:"" }
 ];
-  { name: "Coinbase", url: "https://www.coinbase.com/join/4RZP8J6?origin=advanced",
-  cta: "Start on Coinbase", sub: "Beginner-friendly • Regulated", img: "" },
+
 
 
 /* 2) ROTACIJA: “po posjeti” – svaki put kad korisnik otvori stranicu,
