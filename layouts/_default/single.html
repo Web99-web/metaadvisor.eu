@@ -109,6 +109,10 @@
 </style>
 {{ end }}
 
+  {{ if $isNews }}
+  {{ partial "ads/aff-rotator.html" $p }}
+{{ end }}
+
 {{ if $isNews }}{{ partial "post-nav.html" $p }}{{ end }}
 {{ if $isNews }}{{ partial "related.html" $p }}{{ end }}
 {{ partial "disclaimer.html" $p }}
