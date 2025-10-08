@@ -1,0 +1,2 @@
+<p>{{ .Text | safeHTML }}</p>
+{{ if eq .Ordinal 3 }}{{ partial "ads/aff-rotator.html" .Page }}{{ end }}
