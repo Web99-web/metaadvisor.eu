@@ -188,6 +188,12 @@
     {{ end }}
   </div>
 
+    <!-- Affiliate rotator (list) ispod zadnjeg A-ADS bannera -->
+  <div style="max-width:1100px;margin:12px auto;">
+    {{ partial "ads/aff-rotator-list.html" . }}
+  </div>
+
+  
   {{/* === SMART PAGINATION (First/Prev, window, Next/Last) === */}}
   {{ $p := $pager }}
   {{ if gt $p.TotalPages 1 }}
