@@ -1,0 +1,33 @@
+{{- $s := .Site.Params.social -}}
+<div class="socials">
+  {{ with $s.x }}
+    <a href="{{ . }}" target="_blank" rel="me noopener nofollow" aria-label="X (Twitter)">
+      <!-- X icon -->
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true">
+        <path d="M18.244 2H21l-6.5 7.43L22 22h-6.9l-5.4-7.3L3.9 22H2l6.9-7.89L2 2h6.9l5.08 6.87L18.244 2Z"/>
+      </svg>
+    </a>
+  {{ end }}
+  {{ with $s.instagram }}
+    <a href="{{ . }}" target="_blank" rel="me noopener nofollow" aria-label="Instagram">
+      <!-- IG icon -->
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true">
+        <path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5Zm0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7Zm5 3.5A5.5 5.5 0 1 1 6.5 13 5.5 5.5 0 0 1 12 7.5Zm0 2A3.5 3.5 0 1 0 15.5 13 3.5 3.5 0 0 0 12 9.5Zm5.75-3.25a1.25 1.25 0 1 1-1.25 1.25 1.25 1.25 0 0 1 1.25-1.25Z"/>
+      </svg>
+    </a>
+  {{ end }}
+  {{ with $s.facebook }}
+    <a href="{{ . }}" target="_blank" rel="me noopener nofollow" aria-label="Facebook">
+      <!-- FB icon -->
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true">
+        <path d="M13 22v-8h3l.5-4H13V8a1.5 1.5 0 0 1 1.7-1.5H17V3.2A26 26 0 0 0 14.6 3C11.9 3 10 4.7 10 7.7V10H7v4h3v8h3Z"/>
+      </svg>
+    </a>
+  {{ end }}
+</div>
+<style>
+.socials{display:flex;gap:10px;align-items:center}
+.socials a{display:inline-flex;width:34px;height:34px;border:1px solid #e5e7eb;border-radius:999px;
+  align-items:center;justify-content:center;color:#0f172a;background:#fff}
+.socials a:hover{background:#0f172a;color:#fff}
+</style>
