@@ -1,0 +1,79 @@
+<!-- Affiliate Rotator (list pages) + occasional "Advertise with us" -->
+<div class="aff-wrap" style="margin:22px 0;">
+  <div style="font:600 12px/1 system-ui,Segoe UI,Roboto,Arial;color:#94a3b8;letter-spacing:.06em;margin:0 6px 8px;">
+    SPONSORED
+  </div>
+
+  <a id="aff-list-link" href="#" target="_blank" rel="nofollow sponsored noopener"
+     style="display:block;text-decoration:none;">
+    <div id="aff-list-banner"
+         style="width:100%;min-height:96px;border-radius:14px;border:1px solid #e5e7eb;
+                background:linear-gradient(135deg,#0ea5e9,#2563eb);color:#fff;
+                box-shadow:0 8px 24px rgba(2,8,23,.12);display:flex;align-items:center;
+                justify-content:space-between;gap:16px;padding:18px 22px">
+      <div style="display:flex;flex-direction:column;gap:6px">
+        <span id="aff-list-title" style="font-weight:800;font-size:18px;letter-spacing:.2px">Loading…</span>
+        <span id="aff-list-sub"   style="opacity:.95">Exclusive offer</span>
+      </div>
+      <span id="aff-list-cta"
+            style="font-weight:800;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.25);
+                   padding:10px 14px;border-radius:999px">Start now →</span>
+    </div>
+  </a>
+</div>
+
+<script>
+/* PARTNERI (isti kao u aff-rotatoru) */
+const PARTNERS = [
+  { name:"MEXC",   url:"https://www.mexc.com/invite/register?inviteCode=1dVNP&source=invite&utm_source=usershare&utm_medium=usershare&utm_biz=affiliate&utm_campaign=invite", cta:"Trade on MEXC",  sub:"Low fees • Wide Alt coverage" },
+  { name:"Bitget", url:"https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter", cta:"Join Bitget", sub:"Copy trading • SOL ecosystem" },
+  { name:"Bybit",  url:"https://www.bybit.com/en/invite/?ref=WPRPKQ9", cta:"Start on Bybit", sub:"Pro features • Deep liquidity" },
+  { name:"BloFin", url:"https://blofin.com/register?referral_code=95SDq1", cta:"Try BloFin",  sub:"Earn & trade • DeFi focus" },
+  { name:"KuCoin", url:"https://www.kucoin.com/ucenter/signup?lang=en_US&rcode=QBSTQETT&utm_source=rf", cta:"Sign up KuCoin", sub:"KCS perks • Fast listings" },
+  { name:"THORWallet (RUNE)", url:"https://app.thorwallet.org/referrals?code=877805", cta:"Get THORWallet", sub:"THORChain native access" },
+  { name:"ABCD Stable", url:"https://www.abcdstable.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter", cta:"Earn with ABCD", sub:"Yield on stable assets" },
+  { name:"Coinbase", url:"https://www.coinbase.com/join/4RZP8J6?origin=advanced", cta:"Start on Coinbase", sub:"Beginner-friendly • Regulated" }
+];
+
+/* HOUSE: Advertise with us (interni link) */
+const HOUSE = { name:"Advertise with us", url:"/advertise/", cta:"Book a spot", sub:"Reach Crypto • AI • Tech audience", _house:true };
+
+/* Pravilo prikaza:
+   - svaki 4. posjet list stranici → HOUSE
+   - u ostalim posjetima rotiramo partnere kružno po posjeti */
+(function(){
+  const kVisit = "ma_list_visit";
+  let n = parseInt(localStorage.getItem(kVisit)||"0",10);
+  localStorage.setItem(kVisit, (n+1).toString());
+
+  let pick;
+  if ((n+1) % 4 === 0) {  // svaki četvrti put
+    pick = HOUSE;
+  } else {
+    const idx = n % PARTNERS.length;
+    pick = PARTNERS[idx];
+  }
+
+  // dodaj UTM (ako nije house)
+  let url = pick.url;
+  try{
+    const u = new URL(url, location.origin);
+    if (!pick._house) {
+      if(!u.searchParams.get("utm_source")) u.searchParams.set("utm_source","metaadvisor");
+      u.searchParams.set("utm_medium","rotator-list");
+      u.searchParams.set("utm_campaign",(pick.name||"aff").toLowerCase());
+    }
+    url = u.toString();
+  }catch(e){}
+
+  const link=document.getElementById("aff-list-link");
+  const title=document.getElementById("aff-list-title");
+  const sub=document.getElementById("aff-list-sub");
+  const cta=document.getElementById("aff-list-cta");
+
+  link.href=url;
+  title.textContent=pick.name;
+  sub.textContent=pick.sub||"";
+  cta.textContent=pick.cta||"Learn more →";
+})();
+</script>
