@@ -1,0 +1,23 @@
+{{- $u := .Permalink -}}
+{{- $t := .Title | urlquery -}}
+
+<div class="share">
+  <span style="color:#64748b;font-weight:600;margin-right:6px">Share:</span>
+  <a class="btn" aria-label="Share on X"
+     href="https://twitter.com/intent/tweet?url={{ $u }}&text={{ $t }}"
+     target="_blank" rel="noopener nofollow">
+    X
+  </a>
+  <a class="btn" aria-label="Share on Facebook"
+     href="https://www.facebook.com/sharer/sharer.php?u={{ $u }}"
+     target="_blank" rel="noopener nofollow">
+    FB
+  </a>
+</div>
+<style>
+.share{display:flex;align-items:center;gap:8px;margin:14px 0}
+.share .btn{display:inline-flex;align-items:center;justify-content:center;height:34px;
+  padding:0 10px;border:1px solid #e5e7eb;border-radius:999px;background:#fff;color:#0f172a;
+  text-decoration:none;font-weight:700}
+.share .btn:hover{background:#0f172a;color:#fff}
+</style>
