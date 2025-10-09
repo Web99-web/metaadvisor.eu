@@ -148,18 +148,21 @@
   {{ block "main" . }}{{ end }}
 </main>
 
-<footer class="site-footer">
+
+  <footer class="site-footer">
   <div class="container footer-inner" style="text-align:center;padding:32px 0;border-top:1px solid #eef2f7">
     <p style="margin:0 0 6px; color:#64748b;">
       © {{ now.Format "2006" }} <strong>MetaAdvisor.eu</strong>
     </p>
     <p style="margin:0; color:#64748b;">
-      <a href="{{ "/about/"   | relLangURL }}" style="text-decoration:underline;text-underline-offset:2px">About</a> ·
-      <a href="{{ "/contact/" | relLangURL }}" style="text-decoration:underline;text-underline-offset:2px">Contact</a> ·
-      <a href="{{ "/privacy/" | relLangURL }}" style="text-decoration:underline;text-underline-offset:2px">Privacy</a>
+      <a href="{{ "/about/"     | relLangURL }}" style="text-decoration:underline;text-underline-offset:2px">About</a> ·
+      <a href="{{ "/contact/"   | relLangURL }}" style="text-decoration:underline;text-underline-offset:2px">Contact</a> ·
+      <a href="{{ "/advertise/" | relLangURL }}" style="text-decoration:underline;text-underline-offset:2px">Advertise</a> ·
+      <a href="{{ "/privacy/"   | relLangURL }}" style="text-decoration:underline;text-underline-offset:2px">Privacy</a>
     </p>
   </div>
 </footer>
+
 
   {{ partial "ticker.html" . }}
 
