@@ -43,9 +43,10 @@ placeholder_image = "/images/finance.jpg"
 
  # ⬇️ DODAJ OVO (možeš ostaviti prazno za one koje nemaš)
   [params.social]
+  instagram = "https://www.instagram.com/metaadvisor.eu/"
+  facebook  = "https://www.facebook.com/profile.php?id=61580191122240"
   x         = "https://x.com/k_entuzijasti"
-  instagram = ""
-  facebook  = ""
+
 
 [taxonomies]
   tag = "tags"
