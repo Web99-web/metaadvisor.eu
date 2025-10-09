@@ -41,6 +41,12 @@ placeholder_image = "/images/finance.jpg"
   slot     = ""             # ne koristi se za A-ADS
   size     = "Adaptive"     # bolje za ispod hero, radi i na mobitelu i na desktopu
 
+ # ⬇️ DODAJ OVO (možeš ostaviti prazno za one koje nemaš)
+  [params.social]
+  x         = "https://x.com/k_entuzijasti"
+  instagram = ""
+  facebook  = ""
+
 [taxonomies]
   tag = "tags"
   category = "categories"
