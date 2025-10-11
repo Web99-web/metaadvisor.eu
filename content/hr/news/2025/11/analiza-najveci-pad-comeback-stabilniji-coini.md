@@ -17,18 +17,23 @@ tags: ["crypto","markets","flash-crash","volatilnost","likvidacije","ADL","order
 summary: "U 10 minuta tržište je srušilo i vratilo desetke parova. Donosimo pregled: tko je najviše pao, tko je najjače odskočio i tko je bio relativno stabilniji — na temelju MEXC podataka (high/low/last)."
 ---
 
-> **Napomena o burzama:** brojke su iz *MEXC* screenshotova (24h High/Low/Last). Neki **Bybit** traderi prijavili su još dublje wickove. Razlike po burzi su normalne u kaskadama likvidacija — različita dubina knjige naloga, feedovi i pravila **ADL**.
+## Što se dogodilo (kratko)
+U **deset minuta** tržište je doživjelo **rekordan ‘flash crash’** i brzi povrat: visoka poluga, plitke knjige naloga i lančane likvidacije “izvukle” su cijene duboko ispod fer-raspona, a zatim je uslijedio mehanički bounce. Mnogi iskusni traderi ostali su zatečeni brzinom i dubinom wickova, osobito na altovima.
+
+> **Napomena o burzama:** Za ovu analizu koristimo **MEXC** brojke (24h High/Low/Last) iz priloženih screenshotova. Neki **Bybit** traderi javljali su još ekstremnije wickove — takve razlike po burzi su u kaskadama likvidacija očekivane (drugačija dubina order-booka, feedovi i **ADL** pravila).
+
+---
 
 ## Sažetak
 - **Wick-altovi** (npr. **TIA, SUI, ENA, AVAX, INJ, JTO, WLD, DOGE, PEPE, PUMP, TAO, CRO, ATOM**) bilježe padove **-65% do -85%** i potom **comeback** od **+120% do +380%** s low-a.
-- **Blue-chips** (**BTC, ETH, SOL, ADA, BNB, XRP**) imaju snažne, ali urednije pokrete — pad od **-17% do -67%**, comeback **+10% do +142%**.
-- **Relativno stabilniji/pozitivniji**: **ZEC, HYPE, ASTER** – u kaosu su se držali bolje (ili dan završili zelenije).
+- **Blue-chips** (**BTC, ETH, SOL, ADA, BNB, XRP**) imali su snažne, ali **urednije** pokrete.
+- **Relativno stabilniji/pozitivniji** izdvojeni: **ZEC, HYPE, ASTER**.
 
 ---
 
 ## Tablica — pad, comeback i trenutni zaostatak
 > **Pad** = (Low/High − 1), **Comeback** = (Last/Low − 1), **Gap vs High** = (Last/High − 1).  
-> Postoci su približni, izračunati iz 24h High/Low/Last na MEXC-u (tvoji screenshoti).
+> Postoci su približni, izračunati iz 24h High/Low/Last na MEXC-u.
 
 | Coin | High | Low | Last | Pad | Comeback | Još ispod High-a |
 |---|---:|---:|---:|---:|---:|---:|
@@ -61,61 +66,60 @@ summary: "U 10 minuta tržište je srušilo i vratilo desetke parova. Donosimo p
 
 ## Grupirani pregled (s komentarima)
 
-### A) **Najveći pad + najveći comeback (wick-altovi)**
-**TIA, SUI, ENA, AVAX, INJ, JTO, WLD, DOGE, PEPE, PUMP, TAO, CRO, ATOM**  
+### A) Najveći pad + najveći comeback (wick-altovi)
+**TIA, SUI, ENA, AVAX, INJ, JTO, WLD, DOGE, PEPE, PUMP, TAO, CRO, ATOM**
+
 **Zašto ovako divlje?**  
-- plitke knjige naloga + visoka poluga → **likvidacijske kaskade**  
-- kratkotrajni “liquidity vacuum” i **ADL** guraju cijene daleko ispod fer-raspona  
-- potom **mehanički bounce** dok se knjige pune svježim nalogama  
+Plitka likvidnost i visoka poluga generiraju **kaskade likvidacija**, nakon kojih slijedi **mehanički odskok**. Prvi skok često je **short-cover bounce**, a ne nužno održivi trend.
 
-**Što izdvajamo:**  
-- **SUI/TIA**: pad preko **-83%/-84%**, potom **+378%/+331%** comeback s low-a.  
+- **SUI/TIA**: pad preko **-83%/-84%**, bounce **+378%/+331%**.  
 - **AVAX/INJ/JTO/WLD**: pad **-76% do -80%**, bounce **+226% do +269%**.  
-- **PEPE**: ispravljeno na **24h High 0.00000938** → pad **-70%**, comeback **+104%**, još **-39%** ispod high-a.  
-- **ATOM**: **-65%** pad (4.187 → 1.466), **+121%** comeback (Last 3.245), **-22.5%** ispod high-a.  
-- **DOGE/PUMP/TAO/CRO**: snažni wickovi i povrati, ali i dalje značajan **gap** prema high-u.
+- **PEPE**: pad **~-70%**, bounce **~+105%**, i dalje **~-39%** ispod high-a.  
+- **ATOM**: pad **-65%**, bounce **+121%**, **-22.5%** ispod high-a.  
+- **DOGE/PUMP/TAO/CRO**: snažni wickovi i povrati, ali još dvoznamenkasti **gap** prema high-u.
 
-### B) **Blue-chips (veća kapitalizacija, uredniji pokreti)**
+### B) Blue-chips (veća kapitalizacija, uredniji pokreti)
 **BTC, ETH, SOL, ADA, BNB, XRP**  
-- **BTC**: raspon ~**-17%** do low-a; povrat ~**+10%** – i dalje **-8.8%** ispod H.  
-- **ETH**: pad **-22%**, povrat **+12%**.  
+Dublje knjige naloga amortiziraju ekstremne wickove, ali **ne eliminiraju** rizik kaskada.  
+- **BTC**: pad **-17%**, bounce **+10%**, **-8.8%** ispod high-a.  
+- **ETH**: pad **-22%**, bounce **+12%**.  
 - **SOL**: pad **-36.5%**, bounce **+29%**.  
-- **ADA/XRP** su ekstremniji unutar skupine (ADA -66.6%, XRP -58.2%).  
-- **BNB**: uredniji profil (pad **-32.6%**, bounce **+32.4%**).
+- **ADA/XRP**: unutar grupe ipak ekstremniji profili.
 
-### C) **Exchange tokeni i mid-caps**
-**MX, BGB**  
-- osjetan pad u trenutku kaskade, **brz oporavak** kad se spreadovi normaliziraju; manji ekstrem nego wick-altovi.
+### C) Exchange tokeni i mid-caps
+**MX, BGB** — osjetan pad u trenutku kaskade, **brz oporavak** kad se spreadovi normaliziraju; manji ekstrem od wick-altova.
 
-### D) **Relativno stabilniji / pozitivniji outlieri**
-**ZEC, HYPE, ASTER**  
-- **ZEC** se izdvojio: i s padom **-48.8%** završava dan **relativno snažno** (Last 258.3; -10.7% od High-a).  
-- **HYPE/ASTER**: duboki wickovi, ali **uredniji dnevni profil** u odnosu na ekstremne altove.
+### D) Relativno stabilniji / pozitivniji outlieri
+**ZEC, HYPE, ASTER** — zadržali su **uredniji dnevni profil** i manji gap prema high-u u odnosu na većinu altova.
 
 ---
 
 ## Što je “snap” uzrokovalo?
-- **Prekomjerna poluga** na perpsima + tanki knjige u kasnim satima.  
-- **Lančane likvidacije** (longova) i **ADL** koji je uzeo profitabilne shortove kako bi pokrio protustrane.  
-- **Razlike po burzama**: feedovi, likvidnost, interni risk-engine → različiti wickovi.
+- **Prekomjerna poluga** na perpsima u trenutku niže likvidnosti.  
+- **Lančane likvidacije** (longova) + **ADL** koji je zatvarao i profitabilne shortove radi uravnoteženja sustava.  
+- **Razlike po burzama** (order-book, feedovi, risk-engine) → različiti wickovi.
 
 ---
 
 ## Operativne implikacije za tradere
-- **Ne loviti wick bez plana:** “prvi skok” često je **short-cover bounce**, ne nužno promjena trenda.  
-- **Smanjiti polugu** u noćnim satima / tankim sesijama; **hedging** umjesto punog rizika.  
-- **Širi, inteligentniji stopovi** (uz praćenje perps funding-a i open interesta).  
-- **Provjera ADL rizika** na paru i burzi (rang, oznake upozorenja).
+- Ne loviti wick bez plana; **prvi skok ≠ trend**.  
+- **Smanjiti polugu** u tankim sesijama; razmotriti **hedging**.  
+- Postaviti **šire, promišljene stopove**; pratiti **funding i OI**.  
+- Provjeriti **ADL rizik** na konkretnom paru/burzi.
 
 ---
 
 ## Naš osvrt (Metaadvisor)
-- **Likvidacija ≠ tržišna istina**: cijena u vakumu je artefakt mehanike, ne obavezno fair-value.  
-- **Wick-altovi** nude **najveći potencijalni R**, ali i **najviši rizik** – nisu za svakoga.  
-- **Blue-chips** ostaju “sidro”, no ni oni nisu imuni kad se risk-engine “uključi”.  
-- **Razlike po burzama** su realne; izvještavanje treba **navoditi izvor** (kao ovdje: MEXC).  
-- **Upravljanje rizikom** je jedini “edge” koji preživljava svaki ciklus.
+- **Likvidacije nisu “istina tržišta”**; to je mehanika, ne cjenovna spoznaja.  
+- **Wick-altovi** nude najveći potencijal, ali i **najviši rizik**.  
+- **Blue-chips** su sidro, no i dalje ranjivi u kaskadama.  
+- **Izvor podataka uvijek navodimo** (ovdje: MEXC); razlike po burzama su realnost.
 
 ---
 
-**CTA:** Trade on MEXC
+<p style="text-align:center; margin:24px 0;">
+  <a href="/go/mexc" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:white; padding:12px 24px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Trguj na MEXC
+  </a>
+</p>
