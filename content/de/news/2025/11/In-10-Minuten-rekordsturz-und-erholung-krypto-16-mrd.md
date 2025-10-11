@@ -24,7 +24,7 @@ summary: "Binnen ~10 Minuten kam es zu einem brutalen Flash Crash mit sofortigem
 ## Warum ist das wichtig?
 Das Ereignis zeigt die Anfälligkeit des Ökosystems für **konzentrierte Hebelung**, **dünne Liquidität** und **automatisierte Risk-Engines** (Liquidationen, **ADL**). Selbst vielverfolgte Profis lagen daneben – was die Frage verstärkt, ob **Whales** und/oder **Börsenmechaniken** solche Moves auslösen können, wenn **Orderbücher “aufgehen”**.
 
-## Was ist passiert (die „Substanz“)
+## Was ist passiert 
 - **Liquidations-Kaskade von Longs:** Durchbrochene Supports lösten Kettenreaktionen aus; Stopps & Margin-Trigger lagen dicht beieinander.  
 - **ADL & Risk-Engines:** Auto-Deleveraging/Auto-Reduce schlossen teils auch profitable Positionen, wenn die Börsen-Risiko-Delta zu groß wurde.  
 - **Orderbuch-Elastizität:** Späte Stunde + Rally-Müdigkeit → dünne Bücher; Marktverkäufe drückten Preise stufenweise nach unten.  
