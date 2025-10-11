@@ -24,7 +24,7 @@ summary: "Roughly $16B was liquidated in a ~10-minute flash crash + bounce, leav
 ## Why it matters
 The move exposes how sensitive the market is to **concentrated leverage**, **thin liquidity**, and **automated risk engines** (liquidations, **ADL/auto-deleveraging**). Even widely-followed pros failed to navigate it — reinforcing the question of whether **whales** and/or **exchange mechanisms** can catalyze such moves when **order books “open up.”**
 
-## What actually happened (the meat)
+## What actually happened 
 - **Liquidation cascade of longs:** Rapid support breaks triggered chained forced sells. With stops/margin triggers clustered, each leg down dragged more leverage over the cliff.  
 - **ADL & risk engines:** Perp venues fired auto-deleveraging/auto-reduce, forcibly closing even profitable positions once venue-level risk delta spiked.  
 - **Order-book elasticity:** Late hours + post-rally fatigue meant shallow books; market-sell waves punched through multiple levels, printing long wicks.  
