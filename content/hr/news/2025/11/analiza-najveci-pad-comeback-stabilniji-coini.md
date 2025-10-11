@@ -13,14 +13,14 @@ image: "/images/coins-biggest-drop-and-comeback.png"
 thumbnail: "/images/coins-biggest-drop-and-comeback.png"
 image_alt: "Coins with biggest drop and comeback"
 image_credit: "Metaadvisor.eu (simbolična ilustracija)"
-tags: ["crypto","markets","flash-crash","volatilnost","likvidacije","ADL","order-book","MEXC","Bybit","btc","eth","sol","ada","xrp","bnb","doge","tia","sui","ena","avax","jto","wld","inj","pepe","pump","tao","cro","mx","bgb","zec","hype","aster","risk-management","upravljenje-rizikom"]
+tags: ["crypto","markets","flash-crash","volatilnost","likvidacije","ADL","order-book","MEXC","Bybit","btc","eth","sol","ada","xrp","bnb","doge","tia","sui","ena","avax","jto","wld","inj","pepe","pump","tao","cro","mx","bgb","zec","hype","aster","atom","risk-management","upravljenje-rizikom"]
 summary: "U 10 minuta tržište je srušilo i vratilo desetke parova. Donosimo pregled: tko je najviše pao, tko je najjače odskočio i tko je bio relativno stabilniji — na temelju MEXC podataka (high/low/last)."
 ---
 
 > **Napomena o burzama:** brojke su iz *MEXC* screenshotova (24h High/Low/Last). Neki **Bybit** traderi prijavili su još dublje wickove. Razlike po burzi su normalne u kaskadama likvidacija — različita dubina knjige naloga, feedovi i pravila **ADL**.
 
 ## Sažetak
-- **Wick-altovi** (npr. **TIA, SUI, ENA, AVAX, INJ, JTO, WLD, DOGE, PEPE, PUMP, TAO, CRO**) bilježe padove **-65% do -85%** i potom **comeback** od **+120% do +380%** s low-a.
+- **Wick-altovi** (npr. **TIA, SUI, ENA, AVAX, INJ, JTO, WLD, DOGE, PEPE, PUMP, TAO, CRO, ATOM**) bilježe padove **-65% do -85%** i potom **comeback** od **+120% do +380%** s low-a.
 - **Blue-chips** (**BTC, ETH, SOL, ADA, BNB, XRP**) imaju snažne, ali urednije pokrete — pad od **-17% do -67%**, comeback **+10% do +142%**.
 - **Relativno stabilniji/pozitivniji**: **ZEC, HYPE, ASTER** – u kaosu su se držali bolje (ili dan završili zelenije).
 
@@ -53,6 +53,7 @@ summary: "U 10 minuta tržište je srušilo i vratilo desetke parova. Donosimo p
 | **PUMP** | 0.005547 | 0.001493 | 0.004235 | **-73.1%** | **+183.7%** | -23.7% |
 | **TAO** | 397.4 | 134.7 | 324.1 | **-66.1%** | **+140.6%** | -18.4% |
 | **CRO** | 0.19377 | 0.0675 | 0.15841 | **-65.2%** | **+134.7%** | -18.2% |
+| **ATOM** | 4.187 | 1.466 | 3.245 | **-65.0%** | **+121.3%** | -22.5% |
 | **MX** | 2.6623 | 2.198 | 2.4948 | **-17.4%** | **+13.5%** | -6.3% |
 | **BGB** | 5.6677 | 4.3300 | 4.9650 | **-23.6%** | **+14.7%** | -12.4% |
 
@@ -61,34 +62,35 @@ summary: "U 10 minuta tržište je srušilo i vratilo desetke parova. Donosimo p
 ## Grupirani pregled (s komentarima)
 
 ### A) **Najveći pad + najveći comeback (wick-altovi)**
-**TIA, SUI, ENA, AVAX, INJ, JTO, WLD, DOGE, PEPE, PUMP, TAO, CRO**  
+**TIA, SUI, ENA, AVAX, INJ, JTO, WLD, DOGE, PEPE, PUMP, TAO, CRO, ATOM**  
 **Zašto ovako divlje?**  
 - plitke knjige naloga + visoka poluga → **likvidacijske kaskade**  
 - kratkotrajni “liquidity vacuum” i **ADL** guraju cijene daleko ispod fer-raspona  
 - potom **mehanički bounce** dok se knjige pune svježim nalogama  
+
 **Što izdvajamo:**  
 - **SUI/TIA**: pad preko **-83%/-84%**, potom **+378%/+331%** comeback s low-a.  
 - **AVAX/INJ/JTO/WLD**: pad **-76% do -80%**, bounce **+226% do +269%**.  
-- **DOGE/PEPE/PUMP**: meme/proto-meme parovi sa **+100% do +184%** bouncom (učinak volumena i retaila).  
-- **TAO**: dubok wick do **134.7**, povrat na **324.1** (+141%).  
-- **CRO**: iz “zaborava” na **0.0675**, pa natrag **+135%**.
+- **PEPE**: ispravljeno na **24h High 0.00000938** → pad **-70%**, comeback **+104%**, još **-39%** ispod high-a.  
+- **ATOM**: **-65%** pad (4.187 → 1.466), **+121%** comeback (Last 3.245), **-22.5%** ispod high-a.  
+- **DOGE/PUMP/TAO/CRO**: snažni wickovi i povrati, ali i dalje značajan **gap** prema high-u.
 
 ### B) **Blue-chips (veća kapitalizacija, uredniji pokreti)**
 **BTC, ETH, SOL, ADA, BNB, XRP**  
 - **BTC**: raspon ~**-17%** do low-a; povrat ~**+10%** – i dalje **-8.8%** ispod H.  
-- **ETH**: pad **-22%**, povrat **+12%**;  
-- **SOL**: pad **-36.5%**, bounce **+29%**;  
-- **ADA/XRP** su ekstremniji unutar skupine (ADA -66.6%, XRP -58.2%) → podsjetnik da “blue-chip” nije isto što i “nisko rizično”.  
-- **BNB**: uredan profil (pad **-32.6%**, bounce **+32.4%**).
+- **ETH**: pad **-22%**, povrat **+12%**.  
+- **SOL**: pad **-36.5%**, bounce **+29%**.  
+- **ADA/XRP** su ekstremniji unutar skupine (ADA -66.6%, XRP -58.2%).  
+- **BNB**: uredniji profil (pad **-32.6%**, bounce **+32.4%**).
 
 ### C) **Exchange tokeni i mid-caps**
 **MX, BGB**  
-- osjetni pad u trenutku kaskade, **brz oporavak** kad se spreadovi normaliziraju; manji ekstrem nego wick-altovi.
+- osjetan pad u trenutku kaskade, **brz oporavak** kad se spreadovi normaliziraju; manji ekstrem nego wick-altovi.
 
 ### D) **Relativno stabilniji / pozitivniji outlieri**
 **ZEC, HYPE, ASTER**  
 - **ZEC** se izdvojio: i s padom **-48.8%** završava dan **relativno snažno** (Last 258.3; -10.7% od High-a).  
-- **HYPE/ASTER**: iako s dubokim wickovima, dnevni profil na kraju **uredniji** od većine altova.
+- **HYPE/ASTER**: duboki wickovi, ali **uredniji dnevni profil** u odnosu na ekstremne altove.
 
 ---
 
