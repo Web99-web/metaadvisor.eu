@@ -8,9 +8,9 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/10/10/bitcoin-og-raises-bearish-btc-bet-worth-over-usd400m"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/whale-transaction-3600BTC-short.jpg"
-featured_image: "/images/whale-transaction-3600BTC-short.jpg"
-thumbnail: "/images/whale-transaction-3600BTC-short.jpg"
+featured_image: "/images/whale-transationc3600BTCshort.jpg"
+image_url: "/images/whale-transationc3600BTCshort.jpg"
+thumbnail: "/images/whale-transationc3600BTCshort.jpg"
 image_alt: "Massive short position on Bitcoin via Hyperliquid"
 image_credit: "Metaadvisor.eu (illustrative)"
 tags: ["bitcoin","btc","hyperliquid","derivatives","perps","short","whale","on-chain","funding","liquidation","market-structure","volatility","risk","addresses","order-book","open-interest"]
@@ -26,30 +26,19 @@ This entity had previously:
 
 Strikingly, when this short was placed, **funding rates were positive**, showing an overall bullish market bias.
 
----
-
 ## Timing or pure luck?
-Possible explanations:
 1. **Contrarian strategy**: Overleveraged longs + positive funding → short was rational.  
 2. **Event-driven positioning**: Anticipation of macro/crypto catalysts.  
 3. **Informational edge**: Better data pipelines, OTC flows, hidden order-book signals.  
 4. **Coincidence**: In fat-tail events, good timing can look prophetic.  
 
----
-
 ## Spike in new addresses before the drop
-Reports mentioned a **surge in new addresses** shortly before the crash.  
-This may indicate fragmented positions, bots, market maker accounts, or CEX → DEX flows.  
-On its own, it is **not proof of insider activity**.
-
----
+Reports mentioned a **surge in new addresses** shortly before the crash. This can reflect fragmented positions, bots/market-maker accounts, or CEX→DEX flows. On its own, it’s **not proof of insider activity**.
 
 ## Metaadvisor view
-- Such a large short **against positive funding** looks more like strategy than luck.  
+- A large short **against positive funding** looks more like strategy than luck.  
 - **Insider knowledge?** No direct evidence. More likely: **data advantage + execution edge**.  
 - Spot sells + perp short = **tactical rotation**, not necessarily a long-term bearish stance.  
-
----
 
 <p style="text-align:center; margin:20px 0;">
   <a href="/go/mexc" target="_blank" rel="nofollow sponsored"
