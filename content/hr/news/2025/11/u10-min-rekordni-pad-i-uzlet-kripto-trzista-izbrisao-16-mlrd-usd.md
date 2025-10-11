@@ -24,7 +24,7 @@ summary: "U ~10 minuta tržište je odradilo brutalni flash crash + bounce, uz �
 ## Zašto je to važno?
 Ovaj događaj otkriva koliko je ekosustav osjetljiv na **koncentriranu polugu**, **tanku likvidnost** i **automatizirane risk-engineove** (likvidacije, **ADL/auto-deleveraging**). Čak ni iskusni traderi koje tržište prati nisu ga uspjeli ishodati — što dodatno pojačava pitanje može li skupina **whaleova** i/ili **burzovni mehanizmi** katalizirati ovakav pokret kad se **order bookovi “otvore”**.
 
-## Što se zapravo dogodilo (sa “mesom”)
+## Što se zapravo dogodilo 
 - **Kaskada likvidacija longova:** Serija hitrih probijanja supporta aktivirala je lančane prisilne prodaje. Kako su stopovi i margin-trigeri “sjedili” na sličnim razinama, svaki sljedeći dump povlačio je više poluge niz padinu.
 - **ADL i risk engineovi:** Na perpsima su se palili auto-deleveraging i auto-reduce algoritmi, prisilno zatvarajući i profitabilne pozicije kad bi burzina ukupna delta rizika postala previsoka.
 - **Elastičnost order-booka:** U kasnom terminu i uz post-rally umor, knjige naloga bile su plitke; “market sell” talasi rušili su cijenu preko više razina odjednom, stvarajući wickove.
