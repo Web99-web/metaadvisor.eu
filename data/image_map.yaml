@@ -6,10 +6,10 @@ mapping:
   btc-priče:  [btc-61000-dispute.png] 
   bitcoin cash:  [Bitcoin-cash-BCH.png]
 
-  BTC rudari Cleanspark: [cleanspark-629-btc.png]
+  BTC rudari Cleanspark: [cleanspark-629-btc.png, The-Big-short-10.10.2025.png]
 
   BTC grafikoni: [btc-realized-vs-200wma.png, btc-weekly-close.png, btc-spot-vs-200wma.png]
-  BTC 2007-2008-2009: [BITCOIN-BTC-2007-2008-2009.jpg]
+  BTC 2007-2008-2009: [BITCOIN-BTC-2007-2008-2009.jpg, bitcoin-BTC-2007-2009.png]
   
   # --- ETH ---
   ethereum: [eth.jpg, eth1.jpg, eth-small.jpg, eth-up.jpg, eth-down.jpg, eth.png, btc-eth1.jpg, etc-btc-manja.jpg, crypto-future.jpg, eth-ethereum-manja.jpg, eth2.jpg, eth3.jpg. eth4.jpg, eth5.jpg, eth6.jpg, eth7.jpg, eth8.jpg, eth9.jpg, eth10.jpg]
@@ -215,6 +215,6 @@ mapping:
   # --- Rast / Pad / Nagli skokovi tržišta ---
   record plunge:    [record-plunge-surge-16busd.png]
   Coins with biggest drop and comeback:    [coins-biggest-drop-and-comeback.png]
-  big short: [whale-transationc3600BTCshort.jpg, Fear-greed-11-10-2025.png]
+  big short: [whale-transationc3600BTCshort.jpg, Fear-greed-11-10-2025.png, The-Big-short-10.10.2025.png]
   whale: [whale.png]
   
