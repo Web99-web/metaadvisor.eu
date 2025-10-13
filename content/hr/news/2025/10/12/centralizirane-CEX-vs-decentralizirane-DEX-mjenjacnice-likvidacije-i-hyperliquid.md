@@ -61,7 +61,7 @@ Zbog ovakve **potpune transparentnosti**, Hyperliquid je postao sinonim za *“g
 ---
 
 ## Što pokazuju (i ne pokazuju) slike i on-chain trag
-U zadnjim satima krize pojavile su se grafike s naslovima tipa **“INSIDER WHO MADE $160M SHORTING BTC & ETH DURING THE CRASH JUST SENT 100 BTC TO KRAKEN — WHAT DOES HE KNOW?”**. Evo kako to uklopiti u sliku CEX vs DEX:
+U danima i satima nakon sloma svi analiziraju i gledaju koji su bili pomaci. Koji su bili kitovi koliko su zaradili. Što sada rade. Jedan trader je primjetio da je netko tko je zaradio $160M shortanjem BTC & ETH tijekom najvećeg pada, sada poslao 100 BTC na Kraken. Evo kako to uklopiti u sliku CEX vs DEX:
 
 - **Što se vidi (DEX/on-chain):**  
   On-chain alati i DEX-ovi (npr. Hyperliquid) omogućuju da **vidiš wallet razinu** — *tko* je otvorio/zatvorio poziciju, **kada**, **kolika** je bila veličina, pa i **transfer 100 BTC na Kraken**. Takvi transferi su **javna činjenica** na blockchainu i zato se o njima može pisati.  
