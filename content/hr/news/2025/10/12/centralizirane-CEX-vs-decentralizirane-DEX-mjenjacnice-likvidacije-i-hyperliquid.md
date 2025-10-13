@@ -13,7 +13,7 @@ image: "/images/cex-vs-dex.png"
 thumbnail: "/images/cex-vs-dex.png"
 image_alt: "CEX vs DEX mjenjačnice"
 image_credit: "Slika je simbolična."
-tags: ["CEX", "DEX", "mjenjačnice", "likvidacije", "Hyperliquid", "transparentnost", "kripto", "perps", "whales"]
+tags: ["CEX", "DEX", "mjenjačnice", "likvidacije", "Hyperliquid", "transparentnost", "kripto", "perps", "whales", "KYC", "self-custody"]
 summary: "Centralizirane mjenjačnice dominiraju volumenom, ali skrivaju detalje likvidacija. Decentralizirane nude potpunu on-chain transparentnost, zbog čega je Hyperliquid pod povećalom nakon nedavnih masovnih likvidacija."
 ---
 
@@ -50,6 +50,13 @@ Ali prednost je ogromna: **vidi se sve**. Ako whale izgubi 400 milijuna USD, svi
 
 ---
 
+## Identitet, račun i kontrola sredstava (CEX vs DEX)
+- **CEX = “račun na svoje ime”.** Otvaraš račun s **KYC-om** (osobna/putovnica, selfie, dokaz adrese), prolaziš **AML/CTF** provjere, često vrijedi **geofencing** (IP/regija), imaš **limite povlačenja**, a sredstva su u **skrbništvu burze**. Ako izgubiš pristup, postoji **account recovery**, ali burza može **zamrznuti** račun i objavljuje samo **agregirane** podatke o pozicijama/likvidacijama.  
+- **DEX = “tvoj wallet, tvoja pravila”.** **Nema centralnog računa ni obveznog KYC-a** na protokolu: spajaš se **walletom** (MetaMask, Ledger…), sredstva su **u tvom skrbništvu** (privatna fraza = kontrola sredstava), a svaka radnja je **on-chain** i javno provjerljiva (pseudonimno: adresa ≠ ime). **Nema reset lozinke** — izgubiš seed, izgubiš sredstva. Frontend ili fiat on-ramp **može** tražiti KYC, ali **protokol** radi bez tvoje putovnice.  
+**Sažetak:** **CEX = identitet i udobnost uz tuđe skrbništvo; DEX = pseudonimnost i potpuna kontrola uz veću osobnu odgovornost.**
+
+---
+
 ## Zašto Hyperliquid?
 **Hyperliquid** je decentralizirana burza za perpetual futures (perps) i trenutno je u fokusu jer:  
 - 🔍 Prikazuje **svaku poziciju, short i long, s detaljima walleta**.  
@@ -60,12 +67,12 @@ Zbog ovakve **potpune transparentnosti**, Hyperliquid je postao sinonim za *“g
 
 ---
 
-## Što pokazuju (i ne pokazuju) slike i on-chain trag
-U danima i satima nakon sloma svi analiziraju i gledaju koji su bili pomaci. Koji su bili kitovi koliko su zaradili. Što sada rade. Jedan trader je primjetio da je netko tko je zaradio $160M shortanjem BTC & ETH tijekom najvećeg pada, sada poslao 100 BTC na Kraken. Evo kako to uklopiti u sliku CEX vs DEX:
+## Što pokazuju (i ne pokazuju) grafike i on-chain trag
+U **danima i satima nakon sloma** svi analiziraju pomake: **koji su kitovi**, **koliko su zaradili** i **što sada rade**. Jedan trader je primijetio da je netko tko je **zaradio ~$160M shortanjem BTC & ETH** tijekom najvećeg pada, **poslao 100 BTC na Kraken**. Evo kako to uklopiti u sliku CEX vs DEX:
 
 - **Što se vidi (DEX/on-chain):**  
   On-chain alati i DEX-ovi (npr. Hyperliquid) omogućuju da **vidiš wallet razinu** — *tko* je otvorio/zatvorio poziciju, **kada**, **kolika** je bila veličina, pa i **transfer 100 BTC na Kraken**. Takvi transferi su **javna činjenica** na blockchainu i zato se o njima može pisati.  
-  → Naš raniji osvrt: **OG whale – 3600 BTC short na Hyperliquidu** (poveznica: https://metaadvisor.eu/news/og-whale-3600btc-short-hyperliquid/).
+  → Naš raniji osvrt: **OG whale — 3600 BTC short na Hyperliquidu** (poveznica: https://metaadvisor.eu/news/og-whale-3600btc-short-hyperliquid/).
 
 - **Što se ne vidi (CEX/off-chain):**  
   Ako isti akter pređe na **CEX** i otvara/zatvara perps pozicije **unutar centraliziranog order booka**, javnost dobiva tek **agregirane brojke** (neto likvidacije, funding, open interest). **Pojedinačni PnL, točna cijena egzekucije, queue/latency i “zašto je tipka stala” — ostaju iza zavjese.**
