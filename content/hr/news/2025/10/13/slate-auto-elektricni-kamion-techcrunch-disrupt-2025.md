@@ -1,5 +1,5 @@
 ---
-title: "Slate Auto predstavio električni kamion na TechCrunch Disrupt 2025"
+title: "Slate Auto će predstaviti električni kamion na TechCrunch Disrupt 2025"
 slug: "slate-auto-elektricni-kamion-techcrunch-disrupt-2025"
 date: 2025-10-13T15:00:00Z
 category: "news"
@@ -15,27 +15,26 @@ thumbnail: "/images/slate-truck.png"
 image_alt: "Slate Auto električni kamion"
 image_credit: "Slika je simbolična."
 tags: ["EV", "električni kamion", "Slate Auto", "TechCrunch Disrupt 2025", "mobilnost", "startupi", "proizvodnja", "supply chain", "Christine Barman", "Chrysler", "autonomna vožnja", "ADAS"]
-summary: "Na TechCrunch Disruptu 2025, CEO Slate Auta Christine Barman uživo je predstavila novi električni kamion te govorila o izazovima hardverskih inovacija, lanaca opskrbe i skaliranja proizvodnje."
+summary: "Na TechCrunch Disruptu 2025 (27.–29. listopada) CEO Slate Auta Christine Barman planira uživo predstaviti novi električni kamion i govoriti o izazovima hardverskih inovacija i skaliranja proizvodnje."
 ---
 
-Na glavnoj pozornici **TechCrunch Disrupta 2025** (27.–29. listopada) u San Franciscu, izvršna direktorica **Slate Auta Christine (Chris) Barman** otkrila je javnosti potpuno novi **električni kamion**. Riječ je o prvom javnom prikazu jednog od najiščekivanijih novih EV-a godine.
+Na glavnoj pozornici **TechCrunch Disrupta 2025** u San Franciscu, koji se održava **27.–29. listopada**, izvršna direktorica **Slate Auta, Christine (Chris) Barman**, **planira** javno otkriti potpuno novi **električni kamion** — prije nego što ga itko vidi na cesti.
 
-### Premijera uživo
-Kamion je predstavljen uživo na pozornici, a događaj je pratilo više od **10.000 osnivača, investitora i tehnoloških stručnjaka**. Barman je publici ponudila uvid u to kako Slate planira **preoblikovati komercijalno EV tržište**, od **dizajna i proizvodnje** do strategija skaliranja u industriji poznatoj po visokoj kapitalnoj zahtjevnosti.
+### Premijera uživo (najava)
+Događaj će uključivati **otkrivanje EV-a uživo** te razgovor u kojem će Barman dati **insajderski uvid** u to kako Slate namjerava **preoblikovati komercijalno EV tržište**, od **dizajna i proizvodnje** do strategija **skaliranja** u kapitalno zahtjevnoj automobilskoj industriji.
 
-### Fokus na inovacije i izazove
-Barman je govorila o stvarnim izazovima **hardverskih inovacija**, složenosti **globalnih lanaca opskrbe** i balansiranju između **startup brzine** i potreba **industrijske proizvodnje**. Uz to, istaknula je kako je cilj Slate Auta stvarati **pristupačna, personalizirana i pouzdana vozila**.
+### Što očekivati
+Najavljen je **nefiltriran razgovor** o realnostima **hardverskih inovacija**, složenosti **globalnih lanaca opskrbe** i **startup-skale** proizvodnje, uz **live** reveal jednog od najzvučnijih EV-ova godine.
 
-### Iskustvo i pozadina CEO-a
-Christine Barman donosi bogato iskustvo: preko **20 godina u Chrysleru**, gdje je vodila razvoj u području **autonomne vožnje, električnih sustava i ADAS tehnologija**, zatim kao **CTO Eaton Corporationa** te globalna VP u **HCL Technologies**. Danas vodi Slate s misijom da električni kamioni postanu standard na tržištu, dok istovremeno aktivno mentorira **mlade žene inženjerke**.
+### O CEO-u
+**Christine (Chris) Barman** vodi misiju Slate Auta da stvara vozila koja su **pristupačna, personalizirana i voljena od korisnika**. Prije Slatea bila je **globalna potpredsjednica** u **HCL Technologies** (transport rješenja) te **CTO** industrijskog sektora u **Eaton Corporationu**. U **Chrysleru** je provela **20+ godina** u vodstvu kroz **inženjering, sustave i razvoj proizvoda**, radeći na **autonomnoj vožnji, električnim sustavima i ADAS-u**. Diplomirana je **mehanička inženjerka (Purdue)** i **MBA (Univ. of Michigan)** te mentorira **mlade žene inženjerke**.
 
 ---
 
 ### Naš osvrt (Metaadvisor)
-- **Hardver nije hype:** Naglašavanje stvarnih problema opskrbnih lanaca i industrijskog skaliranja razlikuje ovaj pitch od klasičnih “EV snova”.  
-- **Komercijalni fokus = stabilniji rast:** Ako ciljaju flote i komercijalne korisnike, uspjeh će se mjeriti kroz **TCO (total cost of ownership)** i pouzdanost.  
-- **Jaki kredibilitet CEO-a:** Barman donosi iskustvo iz velikih korporacija — plus mentorsku misiju, što može pomoći u privlačenju kapitala i talenata.  
-- **Važno za pratiti:** specifikacije dosega i nosivosti, cijena u odnosu na konkurente te spremnost za serijsku proizvodnju.  
-- **Širi kontekst:** Ovako izgrađeni EV startupi mogu postati primjer i za europsko tržište, gdje se sve više traže **održiva i modularna rješenja**.
+- **Hardver bez uljepšavanja:** Ako panel zadrži fokus na opskrbnim lancima i SOP-u, to je korisno i za regionalne OEM/ Tier-1 dobavljače.  
+- **Komercijalne flote kao core publika:** Uspjeh će visjeti o **TCO-u, pouzdanosti i servisnoj mreži**.  
+- **Kredibilitet vodstva:** Barmanov pedigree pomaže u privlačenju kapitala i talenata.  
+- **Što provjeriti nakon premijere:** stvarne **specifikacije dosega/payload-a**, cijena vs. konkurencija, plan proizvodnje i homologacije.  
 
 > Napomena: Slika je simbolična.
