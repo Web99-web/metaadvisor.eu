@@ -1,7 +1,7 @@
 ---
 title: "Centralizirane (CEX) vs. decentralizirane (DEX) mjenjačnice: likvidacije i zašto svi gledaju u Hyperliquid"
 slug: "centralizirane-cex-vs-decentralizirane-dex-mjenjacnice-likvidacije-i-hyperliquid"
-date: 2025-10-12T12:00:00Z
+date: 2025-10-13T12:00:00Z
 category: "crypto"
 translationKey: "f837cbfa-b3f7-4497-9cb7-c87abef87220"
 source: "Metaadvisor.eu"
