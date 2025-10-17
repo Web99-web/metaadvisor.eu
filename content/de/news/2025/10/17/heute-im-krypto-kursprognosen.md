@@ -16,6 +16,8 @@ tags: ["krypto","crypto","bitcoin","btc","ethereum","eth","bnb","xrp","sol","dog
 summary: "Täglicher Überblick über Schlüsselzonen und technische Signale der wichtigsten Coins (17.10.). Fokus auf Bitcoin und seinen Einfluss auf Altcoins."
 ---
 
+{{< cta href="/go/mexc" text="👉 Traden auf MEXC" >}}
+
 ## Bitcoin (BTC)
 Breiter Range; die Zone **$107k–$100k** bleibt entscheidend. Ein Rutsch **unter $100k** könnte die Abwärtsdynamik beschleunigen, ein schneller Rücklauf über gleitende Durchschnitte würde Erholung signalisieren.
 
@@ -35,4 +37,15 @@ Bewegt sich im Abwärtskanal. Technischer Bounce möglich; für einen echten Tre
 Scheiterte über **$0,21**; Fokus auf **$0,18**. Unterhalb davon nimmt Verkaufsdruck zu.
 
 ## Cardano (ADA)
-Bruch von **$0,61** bestätigt Verkäuferdruck. Rücklauf über $0,61 neutral
+Bruch von **$0,61** bestätigt Verkäuferdruck. Rücklauf über $0,61** neutralisiert kurzfristig.
+
+## HYPE
+Hohe Volatilität; auf Reaktionen an MA-Zonen und Volumen achten, bevor Breakout gehandelt wird.
+
+## Chainlink (LINK)
+Oszilliert um die Durchschnitte. Rücklauf darüber = Test höherer Zonen; Verlust = Risiko tieferer Ziele.
+
+## Stellar (XLM)
+Folgt dem Altcoin-Sentiment. Über den MAs = Konsolidierung; darunter = weitere Schwäche.
+
+> *Haftungsausschluss:* Dieser Inhalt dient ausschließlich zu Informations- und Bildungszwecken und stellt keine Finanz- oder Anlageberatung dar. Der Handel mit Krypto-Assets ist mit hohem Risiko verbunden. Führe stets eigene Recherchen (DYOR) durch. Einige Links können Partner-/Sponsoring-Links sein.
