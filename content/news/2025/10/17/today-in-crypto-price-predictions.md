@@ -55,3 +55,5 @@ Tracks broader alt sentiment. Holding above key MAs implies consolidation; below
 - Elevated volatility demands disciplined **risk management**.
 
 {{< cta href="/go/mexc" text="👉 Trade on MEXC" >}}
+
+Disclaimer: This content is for informational and educational purposes only and does not constitute financial or investment advice. Trading crypto assets involves high risk. Always do your own research (DYOR) and assess your risk tolerance. Some links may be affiliate/sponsored.
