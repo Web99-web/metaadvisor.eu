@@ -16,6 +16,8 @@ tags: ["crypto","kripto","bitcoin","btc","ethereum","eth","bnb","xrp","sol","dog
 summary: "Pregled ključnih razina i tehničkih signala za vodeće kriptovalute na današnji dan (17.10.). Fokus je na bitcoinu i njegovom utjecaju na altcoine."
 ---
 
+{{< cta href="/go/mexc" text="👉 Trguj na MEXC" >}}
+
 ## Bitcoin (BTC)
 Bitcoin se kreće u širokom rasponu, a zona između **$107k i $100k** ostaje ključna. Gubitak psihološke granice od **$100k** otvorio bi prostor za daljnji pad, dok bi povratak iznad pomičnih prosjeka označio mogućnost oporavka.
 
@@ -46,12 +48,4 @@ LINK oscilira oko svojih prosjeka. Povratak iznad kratkoročnih MA mogao bi pota
 ## Stellar (XLM)
 XLM prati opći sentiment altcoina. Držanje iznad glavnih prosjeka znači konsolidaciju, dok proboj ispod upućuje na daljnje spuštanje.
 
----
-
-## Naš osvrt (Metaadvisor)
-- **BTC** ostaje glavni vodič; zona **$100k–$107k** odlučuje ton tržišta.  
-- **Altcoini** prate BTC i pokazuju iste obrasce slabosti, posebno **BNB i DOGE**.  
-- **Strategija**: oprez s ulazima dokle god cijene ne vrate ključne razine iznad prosjeka.  
-- Tržište je u fazi povećane volatilnosti i zahtijeva strogi **risk management**.
-
-{{< cta href="/go/mexc" text="👉 Trguj na MEXC" >}}
+> *Odricanje od odgovornosti:* Ovaj sadržaj služi isključivo u informativne i edukativne svrhe i nije financijski niti investicijski savjet. Trgovanje kriptoimovinom nosi visok rizik. Uvijek napravi vlastito istraživanje (DYOR) i donosi odluke u skladu sa svojom tolerancijom na rizik. Neki linkovi mogu biti partnerski/sponzorirani.
