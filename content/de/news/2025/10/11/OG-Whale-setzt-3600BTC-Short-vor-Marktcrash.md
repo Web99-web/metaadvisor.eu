@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin-Whale (‘OG’) eröffnete 3.600 BTC Short (~400 Mio. USD) kurz vor dem Marktcrash"
 slug: "og-whale-3600btc-short-hyperliquid"
-date: 2025-11-10T06:28:26Z
+date: 2025-10-11T06:28:26Z
 category: "crypto"
 translationKey: "33f130122e62116f568bff3fe377a10f"
 source: "CoinDesk"
