@@ -171,7 +171,7 @@ mapping:
 
   # --- Security / spy / haker ---
   security:    [fallback-security.jpg, fallback-security2.jpg]
-  haker:       [fallback-security.jpg, fallback-security2.jpg]
+  haker:       [fallback-security.jpg, fallback-security2.jpg, EtherHiding-WP-hacker.png]
   spy:         [fallback-security.jpg, fallback-security2.jpg]
   robot:       [robot.jpg]
 
