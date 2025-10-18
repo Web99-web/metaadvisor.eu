@@ -1,6 +1,6 @@
 ---
-title: "ETH vijesti — Huobi osnivač pokreće 1 mlrd. USD Ether trezorski fond"
-slug: "eth-vijesti-huobi-osnivac-pokrece-1-mlrd-usd-ether-trezorski-fond"
+title: "ETH vijesti — osnivač Huobija pokreće 1 mlrd USD trezor za Ether"
+slug: "eth-vijesti-osnivac-huobija-pokrece-1-mlrd-usd-trezor-za-ether"
 date: 2025-10-17T16:35:25Z
 category: "crypto"
 translationKey: "9d7b4b1646be615ae1a527cd7d1ae5f0"
@@ -12,53 +12,50 @@ image_url: "/images/eth5.jpg"
 featured_image: "/images/eth5.jpg"
 image: "/images/eth5.jpg"
 thumbnail: "/images/eth5.jpg"
-image_alt: "Ether (ETH) trezor — simbolična ilustracija institucionalnog fonda"
+image_alt: "Ether (ETH) i motiv trezora — ilustracija institucionalne kupnje"
 image_credit: "Slika je simbolična."
-tags: ["crypto","kripto","ethereum","eth","ether","huobi","li-lin","avenir-capital","fenbushi","hashkey","meitu","trust","trezor","institutional","hong-kong","nasdaq","etf","asiamarkets","onchain","treasury"]
-summary: "Li Lin (Huobi/Avenir) okuplja vodeće azijske ulagače u 1 mlrd. USD Ether trust — vozilo za akumulaciju i dugoročno držanje ETH-a, uz razmatranje strukture preko Nasdaq-listane tvrtke."
+tags: ["crypto","kripto","ethereum","eth","ether","huobi","li-lin","avenir-capital","fenbushi","hashkey","meitu","trust","trezor","institutional","hong-kong","nasdaq","etf","azija","onchain","treasury","staking"]
+summary: "Li Lin (Huobi / Avenir Capital) okuplja vodeće azijske investitore u trezor za Ether od 1 mlrd USD. Cilj je sustavno akumulirati i dugoročno držati ETH uz potencijalno strukturiranje preko Nasdaq-listane kompanije."
 ---
 
 {{< cta href="/go/mexc" text="👉 Trguj ETH-om na MEXC" >}}
 
-## Što je najavljeno — i zašto je važno
-Azijska kripto scena gura **institucionalizaciju ETH-a** na novu razinu: **Li Lin**, osnivač Huobija i predsjednik **Avenir Capitala**, koordinira osnivanje **Ether trezorskog fonda od 1 mlrd. USD**. Uz njega su **Shen Bo (Fenbushi Capital)**, **Xiao Feng (HashKey Group)** i **Cai Wensheng (Meitu)** — imena koja su rano gradila ekosustav Ethereuma u Aziji.
+## Što je najavljeno — ukratko
+Osnivač Huobija **Li Lin** i njegov **Avenir Capital** vode inicijativu za osnivanje **trezora (trusta) od 1 mlrd USD** koji će **kupovati i dugoročno držati Ether (ETH)**. Uz Lina sudjeluju i veterani azijskog kripto tržišta: **Shen Bo (Fenbushi Capital)**, **Xiao Feng (HashKey Group)** i **Cai Wensheng (Meitu)**. Razmatra se i **preuzimanje Nasdaq-listane tvrtke** kako bi se struktura prilagodila tržištu kapitala.
 
-Cilj nije “trgovanje po trendu”, nego **metodično gomilanje i držanje ETH-a** kroz **trust**: pravno i računovodstveno vozilo koje je prihvatljivo **institucijama, trezorima i HNWI klijentima**. U opticaju je i **kupnja Nasdaq-listane kompanije** radi optimalne strukture i pristupa kapitalnim tržištima.
+## Zašto to ima težinu
+- **Kapital je već rezerviran:** prema navodima, oko **1 mlrd USD** obveza je osigurano (dio dolazi iz Avenir Capitala te regionalnih institucija poput HongShana).  
+- **Jasan mandat:** cilj nije dnevno trgovanje nego **postupna akumulacija ETH-a** i **upravljanje rizikom** (tempo kupnje, likvidnost, eventualni hedge).  
+- **Institucionalni signal:** nakon uspjeha BTC ETF-ova, **Ether ulazi u trezorske strategije** — ne samo kao “gorivo” mreže, nego kao **imovina koju drže fondovi i korporativne blagajne**.
 
-## Mehanika „Ether trezora“
-- **Mandat**: akumulirati ETH i upravljati rizikom (tempo kupnje, hedge, likvidnost).  
-- **Prednost pred ETF-om**: veća fleksibilnost u kapitalnim akcijama (npr. konvertibilni dug, buyback vlastitih udjela, privatne alokacije).  
-- **Narativ**: ETH prelazi iz uloge „goriva za mrežu“ u **strategijsku imovinu trezora** (collateral, staking yield, exposure na on-chain ekonomiju).
+## Što trezor može, a ETF ne mora
+- **Fleksibilnije financiranje:** mogućnost izdavanja **konvertibilnog duga**, privatnih alokacija ili otkupa udjela.  
+- **Taktičko upravljanje ciklusima:** pristup tržištima kapitala može **povećavati ETH po udjelu** kroz pametno tempiranje priljeva i kupnji.  
+- **Operativna upotreba ETH-a:** uz konzervativne okvire, dio imovine može biti uključen u **staking** ili repo-like aranžmane radi **dodatnog prinosa** (ovisno o pravilima i riziku).
 
-## Tko stoji iza milijarde
-- **Avenir Capital (Li Lin)** — ~200 mil. USD početne obveze.  
-- **Regionalne institucije (npr. HongShan)** — ~500 mil. USD.  
-- Ostalo: commitments vodećih rani(h) ETH ulagača i industrijskih aktera.
+## Šira slika: gdje je danas “institucionalni ETH”
+- Sve je više **javnih kompanija** i **trezora** s mjerljivim zalihama ETH-a.  
+- **Azija**, a posebno **Hong Kong**, želi biti **most** između tradicionalnog kapitala i on-chain imovine.  
+- Ako ovaj trezor krene kako je planirano, mogao bi potaknuti **novi val sličnih vozila** i u drugim regijama.
 
-> **Signal tržištu:** rastući broj „ETH treasury“ subjekata sugerira pomak od kratkoročnog špekuliranja prema **dugoročnim, portfeljno vođenim strategijama**.
+## Što to može značiti za tržište
+- **Dublja potražnja:** trezori postaju **stabilni kupci** — manje “zubatog” ponašanja nego kad dominira retail.  
+- **Epizodna volatilnost:** ako veliki trezori moraju **rebalansirati** ili **oslobađati likvidnost**, pomaci na cijeni mogu biti nagli.  
+- **Narativ:** sve više ulagača gleda na ETH kao **stratešku zalihu** za dugi rok, a ne samo kao ulaznicu u DeFi/DApp-ove.
 
-## Kontekst: gdje je danas „institucionalni ETH“
-- **Javne kompanije** već drže **značajne količine ETH-a**; treasury modeli s ETH-om (uz BTC) više nisu iznimka.  
-- **ETF-ovi na BTC** dokazali su apetit institucija; tržište sada gleda **sljedeći korak s ETH-om** (razni oblici vozila, trustovi, fondovi).  
-- **Hong Kong** i šira regija pozicioniraju se kao **most** između tradicionalnog kapitala i on-chain imovine.
-
-## Što ovo znači za tržište
-- **Likvidnost & dubina**: trustovi postaju **stabilni kupci**; smanjuje se „whipsaw“ ponašanje retaila.  
-- **Volatilnost u epizodama**: koncentracija većih količina u vozilima može pojačati poteze tijekom stresnih događaja (prisilne prodaje, rebalansi).  
-- **Multiplikator učinka**: pristup tržištima kapitala omogućuje **pametnije financiranje** (convertibles, premije/diskonti), što može **povećavati ETH po udjelu** tijekom ciklusa.
-
-## Pojmovnik (brzo pojašnjenje)
-- **Trust/trezor** — pravna struktura za držanje imovine u korist ulagača.  
-- **Institutional flow** — tokovi kapitala iz fondova, banaka, osiguranja, mirovinskih i korporativnih trezora.  
-- **HNWI** — *High Net Worth Individuals*, klijenti s visokom neto imovinom.  
-- **Convertibles** — konvertibilni dug koji se pod uvjetima može zamijeniti u udjele/dionice.
+## Pojmovnik (kratko i jasno)
+- **Trezor / trust:** pravna struktura za držanje imovine u korist ulagača.  
+- **ETF (Exchange-Traded Fund):** burzovno trgovani fond; rigidniji okvir od trezora, ali s visokom likvidnošću na burzi.  
+- **AUM (Assets Under Management):** imovina pod upravljanjem.  
+- **HNWI:** *High Net Worth Individuals* — klijenti s visokom neto imovinom.  
+- **Konvertibilni dug:** obveznica koja se može zamijeniti u udjele/dionice pod određenim uvjetima.
 
 ---
 
-## Naš osvrt (Metaadvisor)
-- **Plus**: Kredibilna imena + 1 mlrd. USD commitments = **teški kapital** koji validira ETH kao trezorsku imovinu.  
-- **Struktura**: Ako se potvrdi Nasdaq opcija, trust dobiva **veći domet i niži trošak kapitala**.  
-- **Rizik**: Koncentracija i model financiranja mogu pojačati **„beta“** ETH-a u šokovima.  
-- **Bottom line**: Još jedan korak prema **ETH-u kao institucijskoj klasi imovine**, ne samo „gorivu“ za dApp-ove.
+### Naš osvrt (Metaadvisor)
+- **Plus:** jaka imena + rezerviran kapital = **ozbiljan institucionalni signal** za ETH.  
+- **Struktura:** Nasdaq “omot” mogao bi **spustiti trošak kapitala** i otvoriti **širi bazen ulagača**.  
+- **Rizik:** ako **veliki trezori** moraju brzo mijenjati pozicije, to može **pojačati kratkoročne udare** na cijenu.  
+- **Donja crta:** još jedan korak prema **ETH-u kao punokrvnoj institucionalnoj imovini**.
 
-> *Odricanje od odgovornosti:* Ovaj sadržaj služi isključivo u informativne i edukativne svrhe i ne predstavlja financijski savjet. Ulaganje u kriptoimovinu nosi visok rizik. Uvijek napravite vlastito istraživanje (DYOR) i postupajte odgovorno.
+> *Odricanje od odgovornosti:* Ovaj sadržaj je informativan i edukativan te **nije** investicijski savjet. Ulaganje u kriptoimovinu nosi visok rizik. Uvijek napravite vlastito istraživanje (DYOR) i postupajte odgovorno.
