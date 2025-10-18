@@ -27,6 +27,13 @@ summary: "Babylon behauptet, nativen BTC als DeFi-Sicherheit nutzbar zu machen �
 - **BTC (nativ):** echter Bitcoin auf **Bitcoin L1**.  
 - **wBTC (“wrapped BTC”):** ein Token **auf einer anderen Chain** (z. B. Ethereum), der BTC **repräsentiert**. Dafür hält ein **Verwahrer** deinen echten BTC und gibt dir wBTC aus.
 
+<p style="text-align:center; margin:20px 0;">
+  <a href="/go/mexc" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; display:inline-block;">
+     👉 BTC auf MEXC traden
+  </a>
+</p>
+
 ### Was sind Verwahrer (custodians)?
 **Verwahrer** sind **Mittler** (Firma/Konsortium/Protokoll), die **dein BTC halten** und dir dafür **Ersatz-Tokens** auf einer anderen Chain ausstellen (z. B. wBTC).  
 Vorteil: BTC-Liquidität außerhalb von Bitcoin.  
@@ -57,9 +64,4 @@ Statt BTC in wBTC zu wandeln, soll:
 - **Der Teufel steckt im Detail.** Ein Sicherheitsfehler oder schlechtes UX — und Nutzer bleiben bei wBTC.  
 - **Zahlen zählen.** Entscheidend sind Integrationen und die Menge gesperrten BTC über die Zeit.
 
-<p style="text-align:center; margin:20px 0;">
-  <a href="/go/mexc" target="_blank" rel="nofollow sponsored"
-     style="background:#1e40af; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; display:inline-block;">
-     👉 BTC auf MEXC traden
-  </a>
-</p>
+
