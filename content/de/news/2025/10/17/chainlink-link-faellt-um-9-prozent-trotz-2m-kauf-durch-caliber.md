@@ -1,4 +1,3 @@
-
 ---
 title: "Chainlink (LINK) fällt um 9 % trotz zusätzlichem $2M-Kauf durch Caliber"
 slug: "chainlink-link-faellt-um-9-prozent-trotz-2m-kauf-durch-caliber"
