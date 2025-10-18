@@ -34,12 +34,12 @@ Osnivač Huobija **Li Lin** i njegov **Avenir Capital** vode inicijativu za osni
 - **Operativna upotreba ETH-a:** uz konzervativne okvire, dio imovine može biti uključen u **staking** ili repo-like aranžmane radi **dodatnog prinosa** (ovisno o pravilima i riziku).
 
 ## Šira slika: gdje je danas “institucionalni ETH”
-- Sve je više **javnih kompanija** i **trezora** s mjerljivim zalihama ETH-a.  
+- Sve je više **javnih kompanija** i **trezora/fondova** s mjerljivim zalihama ETH-a.  
 - **Azija**, a posebno **Hong Kong**, želi biti **most** između tradicionalnog kapitala i on-chain imovine.  
-- Ako ovaj trezor krene kako je planirano, mogao bi potaknuti **novi val sličnih vozila** i u drugim regijama.
+- Ako ovaj trezor krene kako je planirano, mogao bi potaknuti **novi val sličnih trezora i fondova** i u drugim regijama.
 
 ## Što to može značiti za tržište
-- **Dublja potražnja:** trezori postaju **stabilni kupci** — manje “zubatog” ponašanja nego kad dominira retail.  
+- **Dublja potražnja:** trezori i fondovi postaju **stabilni kupci** — manje “zubatog” ponašanja nego kad dominira retail.  
 - **Epizodna volatilnost:** ako veliki trezori moraju **rebalansirati** ili **oslobađati likvidnost**, pomaci na cijeni mogu biti nagli.  
 - **Narativ:** sve više ulagača gleda na ETH kao **stratešku zalihu** za dugi rok, a ne samo kao ulaznicu u DeFi/DApp-ove.
 
