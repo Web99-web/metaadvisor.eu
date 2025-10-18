@@ -20,4 +20,22 @@ summary: "LINK fiel am Freitag um rund 9 %. Gleichzeitig meldete Caliber einen w
 
 **Kurzüberblick.** LINK rutschte um etwa **9 %** in den Bereich von **$16–17**. Der Rückgang fiel in eine breitere Krypto-Abgabe. Trotz der Schwäche meldete **Caliber** einen zusätzlichen **$2M**-Zukauf, und die **Chainlink Reserve** erhöhte ihre Bestände. Auf der Produktseite startete Chainlink **Data Streams auf MegaETH** mit Fokus auf sehr geringe Latenz für Echtzeit-DeFi.
 
-### Was heute
+### Was heute passierte
+- **Preis:** deutlicher Tagesrutsch (~9 %) mit kurzem Bounce zum Schluss, der das Bild nicht drehte.
+- **Käufer im Dip:** **Caliber** legte **$2M** nach; auch die **Chainlink Reserve** kaufte zu, liegt mit ihrem Durchschnitt weiterhin über Spot.
+- **Produktupdate:** **Data Streams** laufen jetzt auf **MegaETH**, einer Kette für **Sub-Sekunden-Latenz** — nützlich für Perps, Stablecoins und andere schnelle DeFi-Apps.
+
+<p style="text-align:center; margin:20px 0;">
+  <a href="/go/mexc" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; display:inline-block;">
+     👉 LINK auf MEXC traden
+  </a>
+</p>
+
+---
+
+## Unser Kommentar (Metaadvisor)
+- **Nervöser Markt.** Selbst wenn große Adressen kaufen, kann der Preis kurzfristig weiter nachgeben, wenn Panik dominiert.
+- **Stetige Käufer helfen — ohne Wunderwirkung.** Caliber und die Reserve federn Dips ab, aber die Stimmung dreht sich nicht über Nacht.
+- **Tech mit Verzögerungseffekt.** Data Streams sind ein Plus für schnelle DeFi-Use-Cases; der Preiseffekt kommt oft später.
+- **Darauf achten:** Takt weiterer Käufe (Caliber, Reserve), echte Integrationen der Data Streams, Signale für ruhigere Liquidität.
