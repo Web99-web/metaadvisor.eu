@@ -32,6 +32,13 @@ summary: "Projekt Babylon tvrdi da je pronašao način kako koristiti nativni BT
 - Prednost: dobiješ BTC-likvidnost na drugim lancima.  
 - Rizik: moraš **vjerovati** skrbniku (operativni rizik, hakiranje, loše upravljanje, zamrzavanje imovine, KYC/gašenje računa).
 
+<p style="text-align:center; margin:20px 0;">
+  <a href="/go/mexc" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600; display:inline-block;">
+     👉 Trguj BTC na MEXC
+  </a>
+</p>
+
 ### Što Babylon tvrdi da mijenja?
 Umjesto da BTC pretvaraš u wBTC preko skrbnika, Babylon cilja model u kojem:  
 1) **BTC ostaje zaključan na Bitcoin mreži (L1)** pod tvojom (ili protokolnom) kontrolom.  
