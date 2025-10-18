@@ -1,6 +1,6 @@
 ---
 title: "Wi-Fi vas može ‘vidjeti’: istraživanja otkrivaju koliko daleko ide ova tehnologija"
-slug: "wi-fi-vas-moze-vidjeti"
+slug: "wi-fi-vas-moze-vidjeti-80211bf-standard"
 date: 2025-10-18T09:00:00Z
 category: "tech"
 translationKey: "4e3c7f91a5d041cdbbe6dfbd6d910f20"
