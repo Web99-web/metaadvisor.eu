@@ -11,4 +11,4 @@ date: 2025-01-01
 MetaAdvisor.eu berichtet über **Krypto, AI und FinTech**.  
 Bei Interesse an einer zukünftigen Zusammenarbeit (gesponserte Inhalte, Banner, Partnerschaften) freuen wir uns über Ihre Nachricht.
 
-**Kontakt:** ads@metaadvisor.eu
+**Kontakt:** metaadvisoreu@gmail.com
