@@ -15,4 +15,4 @@ Premium placements with high viewability and transparent stats.
 - Sticky mobile 320×50 (1×/day cap)  
 - Sponsored post / newsletter on request
 
-**Contact:** ads@metaadvisor.eu
+**Contact:** metaadvisoreu@gmail.com
