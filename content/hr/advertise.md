@@ -11,4 +11,4 @@ date: 2025-01-01
 MetaAdvisor.eu prati teme **kripta, AI i fintech**.  
 Ako ste zainteresirani za potencijalnu suradnju u budućnosti (sponzorirani sadržaj, banneri, partnerstva), javite nam se.
 
-**Kontakt:** ads@metaadvisor.eu
+**Kontakt:** metaadvisoreu@gmail.com
