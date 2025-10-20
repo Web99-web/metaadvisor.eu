@@ -20,7 +20,7 @@ mapping:
   Vitalik:  [Vitalik_Buterin.jpg]
   
   # --- SOL/ DOT / LINK / itd. (primjeri) ---
-  solana:   [solana.jpg, solana1.jpg, solana-sol.png]
+  solana:   [solana.jpg, solana1.jpg, solana-sol.png, percolator.png]
   polkadot: [polkadot-dot.png]
   chainlink: [chainlink-link.png]
   litecoin: [litecoin-ltc.png]
