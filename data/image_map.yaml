@@ -34,7 +34,7 @@ mapping:
   uniswap: [uniswap-uni.png]
   celestia: [celestia-tia.png]
   arbitrum: [arbitrum-arb.png]
-  avalanche: [avalanche-avax.png]
+  avalanche: [avalanche-avax.png, avax-treasury.png]
   kaspa: [kaspa-kas.png]
   sui: [sui.png]
   sei: [sei.png]
