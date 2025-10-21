@@ -31,7 +31,7 @@ summary: "Avalanche Foundation pokreće model ‘javnih riznica’ AVAX-a: dva s
 - **Izvor tokena:** dio bi se kupovao **na tržištu**, dio **direktno** od Foundationa uz **diskont** (uobičajeno za ovakve aranžmane).  
 - **Vrijeme:** cilj je **Q1 2026.** za dovršetak transakcija/uvođenja na burzu, uz standardna odobrenja.
 
-> **Terminologija:** *Treasury / riznica / trezor* = **institucionalne rezerve** imovine. **Nije** “investicijsko vozilo” u govoru. SPAC = *Special Purpose Acquisition Company*, prazna “mjenica” za spajanja i brži izlazak na burzu.
+
 
 ### Tko je oko projekta
 - **Investicijski akteri:** spominju se **Hivemind Capital** i savjetnička uloga **Anthonyja Scaramuccija** kod jedne transakcije; na drugoj se navodi **Dragonfly** kao sponzor SPAC-a.  
@@ -51,7 +51,7 @@ summary: "Avalanche Foundation pokreće model ‘javnih riznica’ AVAX-a: dva s
 ---
 
 ## Naš osvrt (Metaadvisor)
-- **Signal, ne garancija.** Ako oba voz… *pardon*, **riznična** projekta zatvore ciljani kapital, AVAX bi dobio **trajnog institucionalnog kupca** i **jasniji equity-most** prema tradicionalnim ulagačima.  
+- **Signal, ne garancija.** Ako oba **riznična** projekta zatvore ciljani kapital, AVAX bi dobio **trajnog institucionalnog kupca** i **jasniji equity-most** prema tradicionalnim ulagačima.  
 - **Ključ je izvedba:** plan je uvjerljiv na papiru; presudni će biti **uvjeti otkupa**, **politika riznice** (deponiranje, kreditni rizik, DeFi ekspozicija) i **razina ESG/regulatorne usklađenosti**.  
 - **Što pratiti dalje:** prospekti s točnim metrikama (**NAV, naknade, politika diskonta**), kalendar SPAC-a, te **realni tempo kupnje AVAX-a** nakon listanja.
 
