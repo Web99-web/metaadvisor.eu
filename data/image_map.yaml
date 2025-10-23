@@ -81,7 +81,7 @@ mapping:
   Sora: [ai-deepfake.png]
   wifi: [wi-fi-can-see-you.png, wi-fi-vas-moze-vidjeti.png]
   WP: [Wordpress.png, tumblr.png]
-  Crypto security: [Crypto-security.png]
+  Crypto security: [Crypto-security.png, Crypto-alert.png]
 
   # --- FINANCIJE / TRŽIŠTA / GOSPODARSTVO ---
   stock: [stock-market-dionice.jpg, stock-market-dionice1.jpg, financial-chart.jpg, grafikon.jpg, btc-finance.jpg]
