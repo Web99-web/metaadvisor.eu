@@ -14,8 +14,8 @@ image: "/images/crypto-security.png"
 thumbnail: "/images/crypto-security.png"
 image_alt: "Crypto Security — simbolična ilustracija"
 image_credit: "Slika je simbolična."
-tags: ["crypto","sigurnost","security","bitcoin","btc","eth","wallet","phishing","malware","deepfake","web3"]
-summary: "Kripto je prerastao u bilijun-dolarski ekosustav: napadi su u 2025. porasli 40%, a industrija mora podići sigurnost bez odricanja od temeljnih vrijednosti."
+tags: ["crypto","kripto","sigurnost","security","bitcoin","btc","ethereum","eth","wallet","novčanik","seed","phishing","malware","qr","deepfake","mfa","fido2","mpc","kyc","aml","rugpull","social-engineering","self-custody","custodial","exchange","hardware-wallet","2fa","allowlist","whitelist"]
+summary: "Kripto je prerastao u bilijun-dolarski ekosustav. Napadi su 2025. porasli ~40%, a industrija mora podići sigurnost: od boljeg UX-a i ugrađenih zaštita do realnih prijetnji poput phishinga, socijalnog inženjeringa i fizičke prisile."
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">
@@ -25,31 +25,77 @@ summary: "Kripto je prerastao u bilijun-dolarski ekosustav: napadi su u 2025. po
   </a>
 </p>
 
-### Obećanje i problem: “budi sam svoj bankar”
-Jedna od temeljnih ideja Bitcoina bila je sloboda – **bez posrednika između tebe i tvojih sredstava**. No ta filozofija često podrazumijeva da su **sigurnosni problemi isključivo briga korisnika**. To je možda prolazilo dok je kripto bio eksperiment. Danas, kad govorimo o **bilijun-dolarskom ekosustavu i milijunima korisnika**, taj pristup više ne funkcionira.
+### Obećanje vs. realnost: “budi sam svoj bankar”
 
-### Kompleksnost ekosustava i novi rizici
-Kripto je odavno više od BTC-a: **mjenjačnice, aplikacije, protokoli, stablecoini i token standardi** tvore međusobno povezanu mrežu. Rizici su sve složeniji:
-- **Phishing** i **lažni QR kodovi**
-- **Malware**, keyloggeri i krađa seed fraza
-- **Društveni inženjering** i **fizička prisila**
+Originalna kripto-filozofija — **bez posrednika** — donosi slobodu, ali i **skrivenu pretpostavku**: da su svi sigurnosni problemi **samo na tebi**. To je bilo izvedivo kad je kripto bio eksperiment. Danas, uz **milijune korisnika** i **bilijun-dolarski obujam**, takav model **ne skala**. Ako kripto želi **mainstream**, sigurnost mora biti **ugrađena**, ne samo prepuštena korisniku.
 
-Prema podacima industrije, **phishing napadi su u 2025. porasli ~40%**, uz gubitke korisnika od **~410 mil. USD**. Uz to, **AI deepfake** prijevare (glas/video) dodatno otežavaju provjeru autentičnosti.
+### Ekosustav je narastao — i vektori napada s njim
 
-### Sigurnost ne može biti samo “tvoja stvar”
-**Self-custody** ostaje važna, ali projekti/produkti moraju **preuzeti veći dio sigurnosnog tereta**:
-- ugraditi **sigurnosne slojeve** u aplikacije i protokole,
-- dizajnirati **UX** koji smanjuje ljudsku pogrešku,
-- pronaći **balans** između zaštite i temeljnih vrijednosti (anonimnost/pseudonimnost).
+Kripto danas znači **mjenjačnice, protokole, dAppove, stablecoine, custody rješenja** i desetke **token standarda** koji međusobno komuniciraju. Rizici su postali složeniji, a ulozi viši:
 
-### Pouka iz povijesti interneta
-Tri desetljeća osobnog računalstva pokazuju da cyber higijena **nije savršena**. Edukacije pomažu (npr. **Cybersecurity Awareness Month**), ali napadači evoluiraju **brže od obrane**. Ako želi postati mainstream, kripto mora iz mantri “svatko sam” preći u **model sustavne zaštite**.
+- **Phishing 2.0**: lažne domene, **bogus QR** kodovi, “support” prevaranti, “airdrop” mamci.  
+- **Malware**: keyloggeri, clipboard hijack (zamjena adrese prilikom copy/paste), infostealeri.  
+- **Socijalni inženjering**: “urgentni pozivi”, deepfake **glas/video** menadžera ili “prijatelja” koji traži slanje kripta.  
+- **Fizička prisila**: prisilno otključavanje mobitela, “$5 wrench” scenariji.  
+- **On-chain rizici**: rug-pullovi, odobrenja (approvals) bez limita, maliciozni pametni ugovori.  
+
+Prema industrijskim agregatorima, **phishing napadi su u 2025. porasli ~40%**, a procijenjeni gubici dosežu **~410 mil. USD** samo u ranoj godini. Uz **AI deepfake** alate, napadači se **brže prilagođavaju** nego što obrana stiže odgovoriti.
+
+### Što industrija treba promijeniti (bez žrtvovanja temeljnih vrijednosti)
+
+**1) Security-by-Design u aplikacijama i protokolima**  
+- **Transakcijske simulacije** (prije potpisa): jasni prikazi što se točno odobrava (approve/spend limit), tko su primatelji i potencijalni rizici.  
+- **Ograničenja odobrenja**: defaultno **limitirani** allowance umjesto “neograničeno zauvijek”.  
+- **Automatski “revoke” podsjetnici** za stara odobrenja.
+
+**2) UX koji smanjuje ljudsku pogrešku**  
+- **Jasna upozorenja** (phishing, nove domene, sumnjivi ugovori).  
+- **“Two-man rule”** za veće iznose: potreban je **drugi potpis** ili vremenska odgoda.  
+- **Pametne liste sigurnih kontakata (allowlist)** i **time-lock** za povlačenja izvan liste.
+
+**3) Jača autentikacija i zaštita ključeva**  
+- **MFA/FIDO2 (security ključ)** umjesto SMS-a.  
+- **MPC novčanici** (multi-party computation) i **social recovery** koji ne kompromitiraju privatnost.  
+- **Hardware novčanici** s “dugim pritiskom” i jasnim UI-jem poruke koju korisnik potpisuje.
+
+**4) Custody standardi i “sigurni defaulti” na mjenjačnicama**  
+- **Segregacija sredstava**, hladna pohrana za većinu rezerve, **politike povlačenja** s odgodom i više-potpisom.  
+- **Dnevni limiti** po korisniku, **geografski i uređajni fingerprinting**, detekcija anomalija (behavioral risk).  
+- **Incident-response** timovi s jasnim **playbookom** i javnim izvještavanjem.
+
+**5) Privatnost vs. zaštita: pronaći balans**  
+- Ne “klin” u **over-KYC** koji guši korisnike; umjesto toga **granularna dopuštenja** i **lokalna obrada** gdje je moguće.  
+- **Anonimnost/pseudonimnost** ostaju vrijednosti — ali uz **permission-based** pristup (što AI vidi, kada i zašto).
+
+### Što korisnici mogu učiniti već danas (brzi checklist)
+
+- **Ne dijeli seed/privatne ključeve. Nikad.**  
+- **FIDO2 sigurnosni ključ** + isključi **SMS 2FA**.  
+- **Hardware novčanik** za veće iznose; **odvojeni “spending” wallet** za dAppove.  
+- **Provjeri approvals** i povremeno **revoke** stara odobrenja.  
+- **Allowlist + time-lock** za isplate s mjenjačnice.  
+- **Ne skeniraj QR** kodove “s ulice” / nepoznatih izvora; ručno provjeri URL.  
+- Ako te netko žuri ili prijeti — to je **crvena zastava**. Zaustavi i provjeri s trećom osobom.
+
+### Pojmovnik (kratice i pojmovi)
+
+- **AI** (*Artificial Intelligence*) = **umjetna inteligencija**.  
+- **MFA/2FA** = višefaktorska/autentikacija u dva koraka.  
+- **FIDO2** = standard za **fizičke sigurnosne ključeve** (npr. YubiKey).  
+- **MPC wallet** = novčanik gdje ključ nije na jednom mjestu; više strana zajednički potpisuje.  
+- **Allowlist (whitelist)** = lista odobrenih adresa/primatelja.  
+- **Rug-pull** = izlazna prijevara projekta/ugovora.  
+- **Self-custody** = samostalna pohrana ključeva (ne kod mjenjačnice).  
+- **Custodial** = skrbništvo treće strane (mjenjačnica, skrbnik).
+
+---
 
 ### Naš osvrt (Metaadvisor)
-- 🔐 **Sigurnost kao default**: ne prebacivati sve na korisnika.
-- 🧩 **Security-by-design** u protokolima i sučeljima.
-- 🎭 **Deepfake & soc-eng** pokazuju kako se realni svijet prelijeva u Web3.
-- ⚖️ Ključ je **balans**: zaštititi korisnike bez odricanja od decentralizacije.
-- 🚀 Podizanje standarda otvara put ka **mainstream povjerenju**.
 
-> Disclaimer: Tekst je informativne prirode i ne predstavlja financijski savjet.
+- 🔐 **Sigurnost mora postati default**: korisniku ostaviti kontrolu, ali preuzeti **dizajnerski** dio tereta (simulacije, limiti, revoke podsjetnici).  
+- 🧠 **AI može pomoći** (detekcija phishinga/deepfakea), ali uz **lokalnu obradu** i jasna dopuštenja — inače riskiramo “nadzorni UX”.  
+- ⚖️ **Balans je ključ**: zaštititi korisnike bez urušavanja privatnosti i otvorenosti Web3.  
+- 🧱 Projekti koji uvedu **security-by-design** dobit će **povjerenje mainstreama** i prednost kod regulacije.  
+- 🧭 2025. je godina u kojoj sigurnost prelazi iz **savjeta** u **arhitekturu proizvoda**.
+
+> Disclaimer: Ovaj tekst je informativne prirode i ne predstavlja investicijski savjet.
