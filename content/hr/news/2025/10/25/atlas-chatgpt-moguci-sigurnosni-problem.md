@@ -13,7 +13,7 @@ image: "/images/Crypto-security.png"
 thumbnail: "/images/Crypto-security.png"
 image_alt: "AI preglednik Atlas — sigurnosni rizici"
 image_credit: "Slika je simbolična."
-tags: ["Atlas", "ChatGPT", "AI preglednik", "sigurnost", "sigurnosni propust", "prompt injection", "clipboard", "browser", "agent mode"]
+tags: ["Atlas", "ChatGPT", "AI preglednik", "sigurnost", "sigurnosni problem", "sigurnosni propust", "prompt injection", "clipboard", "browser", "agent mode", "fburl"]
 summary: "Atlas je novi AI preglednik temeljen na ChatGPT-u. Donosi agentni način rada, ali otvara i mogući sigurnosni problem. Donosimo pregled rizika i kako se zaštititi."
 ---
 
@@ -21,9 +21,12 @@ summary: "Atlas je novi AI preglednik temeljen na ChatGPT-u. Donosi agentni nač
 
 Atlas je novi AI-preglednik temeljen na ChatGPT-u: čita stranice, sažima sadržaj i u “agent mode” načinu može autonomno dovršavati zadatke. Ta moć dolazi s mogućim **sigurnosnim problemom**: napadač može pokušati utjecati na ponašanje agenta kroz sadržaj stranice ili manipulirati onim što korisnik kopira/lijepi.
 
-<div class="trade-btn">
-<a href="https://partner.mexc.com/metaadvisor" target="_blank">🚀 Trade crypto sigurno na MEXC</a>
-</div>
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="/go/mexc" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     🚀 Trade crypto sigurno na MEXC
+  </a>
+</p>
 
 ## Gdje su rizici
 
