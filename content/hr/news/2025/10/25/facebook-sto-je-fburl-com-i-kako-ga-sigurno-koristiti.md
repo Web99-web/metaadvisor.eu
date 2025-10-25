@@ -25,6 +25,8 @@ Fburl.com je domena koju koristi Facebook za skraćivanje i preusmjeravanje URL-
 <a href="https://partner.mexc.com/metaadvisor" target="_blank">🚀 Trade Crypto sigurno na MEXC</a>
 </div>
 
+
+
 **Je li fburl.com siguran?**
 
 ✅ Ako dolazi izravno iz Facebooka (npr. u obavijesti, e-mailu ili Messengeru), riječ je o legitimnom linku.  
