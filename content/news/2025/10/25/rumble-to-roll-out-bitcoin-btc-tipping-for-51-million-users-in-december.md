@@ -1,6 +1,6 @@
 ---
-title: "Rumble to roll out Bitcoin tipping for 51 million users in December"
-slug: "rumble-to-roll-out-bitcoin-btc-tipping-for-51-million-users-in-december"
+title: "Rumble uvodi Bitcoin napojnice! Rumble vs. YouTube: hoće li BTC pogurati platformu globalno?"
+slug: "rumble-vs-youtube-bitcoin-btc-napojnice-51-milijun-korisnika-prosinac"
 date: 2025-10-25T15:06:15Z
 category: "crypto"
 translationKey: "df039fbdae5d5f095ced36001ec29a46"
