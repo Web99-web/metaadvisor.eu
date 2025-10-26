@@ -1,6 +1,6 @@
 ---
-title: "Rumble uvodi Bitcoin napojnice za 51 milijun korisnika u prosincu"
-slug: "rumble-uvodi-bitcoin-btc-napojnice-za-51-milijun-korisnika-prosinac-tether"
+title: "Rumble uvodi Bitcoin napojnice! Rumble vs. YouTube: hoće li BTC pogurati platformu globalno?"
+slug: "rumble-vs-youtube-bitcoin-btc-napojnice-51-milijun-korisnika-prosinac"
 date: 2025-10-25T15:06:15Z
 category: "crypto"
 translationKey: "df039fbdae5d5f095ced36001ec29a46"
