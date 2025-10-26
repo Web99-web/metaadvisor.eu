@@ -1,6 +1,6 @@
 ---
-title: "Rumble rollt Bitcoin-Trinkgelder für 51 Millionen Nutzer im Dezember aus"
-slug: "rumble-rollt-bitcoin-btc-trinkgelder-fuer-51-millionen-nutzer-im-dezember-aus"
+title: "Rumble führt Bitcoin-Trinkgelder ein! Rumble vs. YouTube: Wird BTC die Plattform global pushen?"
+slug: "rumble-vs-youtube-bitcoin-btc-trinkgelder-51-millionen-nutzer-dezember"
 date: 2025-10-25T15:06:15Z
 category: "crypto"
 translationKey: "df039fbdae5d5f095ced36001ec29a46"
