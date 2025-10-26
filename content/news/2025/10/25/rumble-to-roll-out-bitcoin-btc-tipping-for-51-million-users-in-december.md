@@ -1,6 +1,6 @@
 ---
-title: "Rumble uvodi Bitcoin napojnice! Rumble vs. YouTube: hoće li BTC pogurati platformu globalno?"
-slug: "rumble-vs-youtube-bitcoin-btc-napojnice-51-milijun-korisnika-prosinac"
+title: "Rumble introduces Bitcoin tipping! Rumble vs. YouTube: will BTC tipping push Rumble global?"
+slug: "rumble-vs-youtube-bitcoin-btc-tipping-51-million-users-december"
 date: 2025-10-25T15:06:15Z
 category: "crypto"
 translationKey: "df039fbdae5d5f095ced36001ec29a46"
