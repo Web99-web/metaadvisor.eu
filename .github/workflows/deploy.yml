@@ -1,0 +1,45 @@
+name: Build & Deploy (Hugo → Netlify, CLI)
+
+on:
+  workflow_dispatch: {}   # samo ručno pokretanje (nema auto na push)
+
+permissions:
+  contents: read
+
+concurrency:
+  group: "deploy"
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.128.0'
+          extended: true
+
+      - name: Build site
+        run: hugo --gc --minify --buildFuture
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Netlify CLI (pinned)
+        run: npm i -g netlify-cli@17.34.0
+
+      - name: Disable Netlify auto-bootstrap
+        run: echo "NETLIFY_CLI_DISABLE_AUTO_INSTALL=1" >> $GITHUB_ENV
+
+      - name: Deploy to Netlify (prod)
+        working-directory: public
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID:    ${{ secrets.NETLIFY_SITE_ID }}
+        run: netlify deploy --dir=. --prod --message "Manual GHA deploy $GITHUB_SHA"
