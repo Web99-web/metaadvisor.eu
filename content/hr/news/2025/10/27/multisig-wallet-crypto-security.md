@@ -1,6 +1,6 @@
 ---
 title: "Što je multisig wallet i zašto je važan?"
-slug: "multisig-wallet-crypto-security"
+slug: "sto-je-multisig-wallet-novcanik-sigurnost"
 date: 2025-10-27T10:30:00Z
 category: "crypto"
 translationKey: "d4b5a5f9c25c4e62b1e23d0f8b8e9911"
