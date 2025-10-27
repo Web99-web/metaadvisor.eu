@@ -23,7 +23,7 @@ summary: "Multisig wallet je kripto-novčanik kojemu je za svaku transakciju pot
   </a>
 </p>
 
-### 1. Što je multisig wallet?
+### 1. Što je multisig wallet? (novčanik)
 
 Multisig (multi-signature) wallet je vrsta kripto-novčanika kod koje je za svaku transakciju potrebno **više od jednog ključa**.  
 Primjer: u postavci *2-od-3* postoje tri privatna ključa, ali su potrebna najmanje dva da bi transakcija bila valjana.  
