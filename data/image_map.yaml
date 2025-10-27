@@ -189,6 +189,7 @@ mapping:
   haker:       [fallback-security.jpg, fallback-security2.jpg, EtherHiding-WP-hacker.png]
   spy:         [fallback-security.jpg, fallback-security2.jpg]
   robot:       [robot.jpg]
+  Multisig wallet:       [multisig-wallet-crypto-security.png]
 
   # --- Razno / svijet / all ---
   football:    [football.jpg]
