@@ -73,5 +73,10 @@ According to Reuters, the Trump family booked around **$800 million** in **H1 20
 ---
 
 ### Our take (Metaadvisor)
-- Distinguish **official** from **fan** projects: verify **attribution**, custody setups, and **money flows**.  
-- Brand power works in Web3, but durable value comes from
+- Distinguish **official** vs **fan** projects: verify **attribution**, custody setups, and **money flows**.  
+- Brand power works in Web3, but durable value comes from **transparent structures, quality IP, and real utility**.  
+- **Memecoins** are closer to **art/culture** than to utility tokens: community and symbolism can drive outsized valuations even without practical functionality.
+
+---
+
+*Disclaimer: This article is for informational purposes only and does not constitute investment or legal advice. It is based on publicly available investigative reporting and may be subject to further verification.*
