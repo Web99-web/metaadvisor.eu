@@ -75,7 +75,7 @@ Prema Reutersu, Trumpova obitelj je u **H1 2025.** ostvarila **~$800 milijuna** 
 ### Naš osvrt (Metaadvisor)
 - Razlikovati **službene** i **fan** projekte: tražiti **atribuciju**, provjeriti **custody** i **tokove novca**.  
 - Brend u Web3 radi, ali dugoročne vrijednosti dolaze od **transparentnosti, kvalitetnog IP-a i stvarne utilitarnosti**.  
-- Za čitatelje: memecoini su **visokorizični**; ne kupovati isključivo zbog imena ili politike.
+- Memecoini su više poput umjetnosti: vrijednost dolazi iz zajednice i simbolike, a ponekad upravo takvi projekti probiju i dosegnu ogromne valuacije, unatoč tome što nemaju praktičnu funkcionalnost.
 
 ---
 
