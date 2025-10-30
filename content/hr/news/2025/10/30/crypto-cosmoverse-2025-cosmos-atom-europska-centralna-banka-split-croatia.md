@@ -57,7 +57,8 @@ Drugim riječima: institucije žele **biti ispred promjena**, a ne kasniti.
 - **Sam Hart (Interchain Foundation)** — strategija i razvoj open-sourcea.  
 - **Jose Maria Macedo (Delphi Labs)** — DeFi/VC scena.  
 - Predstavnici **Circlea (USDC)**, **dYdX** i drugih globalnih projekata.  
-- **Jürgen Schaaf (ECB)** — savjetnik za digitalni euro i tržišnu infrastrukturu.  
+- **Jürgen Schaaf (ECB)** — savjetnik u području **Market Infrastructure & Payments**; sudjeluje u oblikovanju politike **digitalnog eura**.  
+- **Linardo Martincević (HNB)** — savjetnik u Uredu guvernera; član **Eurosystem High-Level Task Force on CBDC** (inicijativa digitalnog eura).  
 - **Dragan Primorac** — **bivši kandidat za predsjednika RH**, ističe **snažan interes za kripto i blockchain** te poveznice između tehnologije, znanosti i javnih politika.
 
 *(Napomena: program je višednevan, s više trackova i desecima govornika; ovo je sažetak najistaknutijih.)*
