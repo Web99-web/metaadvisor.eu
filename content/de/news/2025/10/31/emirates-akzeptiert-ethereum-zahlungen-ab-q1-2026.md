@@ -44,4 +44,18 @@ Ethereum gehört zu den am weitesten verbreiteten Blockchains für **Zahlungen u
 **Vorteile für Emirates:** Ansprache techaffiner Zielgruppen, potenziell geringere Abwicklungskosten in Einzelfällen, First-Mover-Effekt in der Luftfahrt.  
 **Herausforderungen:** Volatilität von **ETH**, steuerliche und bilanzielle Vorgaben je Markt, technische Integration mit bestehenden Buchungssystemen. Daher ist der Start auf **Q1 2026** terminiert — mit Zeit für Tests, Compliance und Security.
 
-### Der größere Kontext: K
+### Der größere Kontext: Krypto im Travel-Sektor
+Die Reisebranche testet Krypto-Zahlungen seit Längerem (Unterkünfte, Flüge, Zusatzleistungen). Wesentliche Treiber sind globale Nachfrage, effizientere Cross-Border-Payments und Marken-Differenzierung. Die größten Sprünge gelingen, wenn **große Marken** etablierte PSPs mit Krypto-Support einbinden — wie hier.
+
+> Symbolbild.
+
+---
+
+### Unser Kommentar (Metaadvisor):
+- **Positiv:** Ein globaler Brand zeigt: Krypto ist **auch eine Zahlungsmethode**, nicht nur ein Investment.  
+- **Neutral:** Der Zeithorizont **Q1 2026** lässt Raum für Tests und Regulierung — bedeutet aber, dass man nicht „ab heute“ mit Krypto zahlen kann.  
+- **Risiken:** Volatilität von **ETH** und unterschiedliche länderspezifische Regeln erfordern klare Prozesse für Abrechnung, Refunds und Rechnungsstellung.  
+- **Für Nutzer:innen:** Wer bereits **ETH** hält, erhält einen praktischen Use Case im Reisealltag.  
+- **Für die Branche:** Wir erwarten zusätzliche **Pilotprojekte** auch bei anderen Airlines in kryptooffenen Märkten.
+
+_Disclaimer: Keine Finanzberatung. Krypto-Assets sind volatil und mit hohen Risiken verbunden._
