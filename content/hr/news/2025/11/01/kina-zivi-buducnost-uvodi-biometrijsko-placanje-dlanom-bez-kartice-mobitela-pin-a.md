@@ -1,3 +1,4 @@
+---
 title: "Kina živi budućnost: uvodi biometrijsko plaćanje dlanom — bez kartice, mobitela i PIN-a"
 slug: "kina-zivi-buducnost-uvodi-biometrijsko-placanje-dlanom-bez-kartice-mobitela-pin-a"
 date: 2025-11-01T12:00:00Z
@@ -53,7 +54,7 @@ Kina praktički preskače “kartično doba” i prelazi na **plaćanje tijelom 
 Proizvođači tvrde da je **sigurniji od otiska prsta i prepoznavanja lica**:
 
 | Biometrija | Može se ukrasti / kopirati? | Vidljivo izvana? |
-|------------|----------------------------|------------------|
+|------------|-----------------------------|------------------|
 | Otisak prsta | ✅ Da, ostavlja trag | ✅ Vidljivo |
 | Lice (Face ID) | ✅ Može se snimiti | ✅ Vidljivo |
 | Venski uzorak dlana | ❌ Ne vidi se golim okom | ❌ Skriveno pod kožom |
