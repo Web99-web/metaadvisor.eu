@@ -33,7 +33,7 @@ Kombinacija povišenog **open interesta (OI)**, **funding** oscilacija i sve ve�
 |---|---|---|
 | **Open Interest (OI)** | Broj otvorenih futures/opcijskih ugovora | Visok OI = više goriva za prisilna zatvaranja (likvidacije) u oba smjera |
 | **Funding rate** | Cijena “najma” poluge na perpetualima | Ekstremi sugeriraju pretrpanu stranu; često dolazi do kontra-poteza |
-| **Likvidacije** | Prisilna zatvaranja leveridžiranih pozicija | Ubrzavaju kretanje; mogu “očistiti” tržište prije nastavka trenda |
+| **Likvidacije** | Automatske likvidacije pozicija s polugom | Ubrzavaju kretanje; mogu “očistiti” tržište prije nastavka trenda |
 | **IV (implied vol)** | Očekivana volatilnost u opcijama | Rast IV-a = skuplje opcije, sklonost naglim “svijećama” |
 | **Max Pain (opcije)** | Teorijska razina najvećeg gubitka opcija | Cijena gravitira zoni gdje najviše opcija gubi vrijednost, osobito blizu isteka |
 
