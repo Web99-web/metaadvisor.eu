@@ -39,11 +39,13 @@ Osim nekoliko testnih transakcija, **nijedan “Satoshi blok” nije se pomaknuo
 
 ### Teorije i mogući identiteti
 Tijekom godina pojavilo se više teorija i “kandidata”:
-- **Hal Finney** — rani developer, prvi primatelj BTC-a; preminuo 2014.  
-- **Nick Szabo** — autor koncepta “bit gold”; jezične sličnosti u tekstovima.  
-- **Adam Back** — kriptograf i CEO Blockstreama; spominjan u mailovima iz 2008.  
-- **Wei Dai** — autor ranijeg koncepta “b-money” koji Satoshi citira.  
-- **Craig Wright** — samoproglašeni “Satoshi”; kripto zajednica ga smatra neuvjerljivim.
+- **Hal Finney** — rani developer, prvi primatelj BTC-a; preminuo 2014.  - negira
+- **Nick Szabo** — autor koncepta “bit gold”; jezične sličnosti u tekstovima.  - negira
+- **Adam Back** — kriptograf i CEO Blockstreama; spominjan u mailovima iz 2008, citiran u whitepaperu.  - negira
+- **Wei Dai** — autor ranijeg koncepta “b-money” koji Satoshi citira.
+- **Dorian Nakamoto** — medijska zabuna, živi u istom gradu kao Hal Finney, nema veze s Bitcoinom
+- **Craig Wright** — samoproglašeni “Satoshi”; kripto zajednica ga smatra neuvjerljivim
+- **CIA / NSA teorija** - “projekt digitalne kontrole” - nema dokaza.
 
 Nijedna teorija nije potvrđena.  
 **Privatni ključevi “Satoshi adresa”** ostaju jedini mogući dokaz identiteta — i dok se ti ključevi ne aktiviraju, sve ostaje nagađanje.
