@@ -23,7 +23,14 @@ Iako se danas milijuni ljudi bave Bitcoinom, **nitko ne zna tko je Satoshi Nakam
 
 Je li riječ o osobi? Timu? Instituciji? Ili kolektivnom pseudonimu?  
 Odgovor na to pitanje i dalje je jedan od najvećih misterija digitalnog doba.
-
+---
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="/go/mexc" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Trguj BTC-om na MEXC
+  </a>
+</p>
+---
 ### Što znamo sigurno
 - **Satoshi** je 31. listopada 2008. objavio *Bitcoin: A Peer-to-Peer Electronic Cash System* — tzv. *whitepaper*, dokument koji opisuje kako funkcionira decentralizirana mreža plaćanja bez posrednika.  
 - U siječnju 2009. pokrenuo je **prvi blok (Genesis Block)** i obavio prve transakcije — uključujući 10 BTC koje je poslao Hal Finneyju.  
