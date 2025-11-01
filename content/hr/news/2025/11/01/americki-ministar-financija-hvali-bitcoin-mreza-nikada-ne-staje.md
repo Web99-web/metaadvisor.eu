@@ -20,7 +20,8 @@ summary: "Američki ministar financija Scott Bessent javno je pohvalio Bitcoin p
 Scott Bessent, američki ministar financija, obilježio je 17. godišnjicu Bitcoin whitepapera porukom na X-u u kojoj hvali **otpornost Bitcoin mreže**, naglašavajući da se “Bitcoin nikad ne gasi” – za razliku od državnih sustava.
 
 > “17 years after the white paper, the Bitcoin network is still operational and more resilient than ever. Bitcoin never shuts down.  
-> @SenateDems could learn something from that.”
+> @SenateDems could learn something from that.” - “17 godina nakon objave whitepapera, Bitcoin mreža i dalje radi — i otpornija je nego ikad. Bitcoin se nikada ne gasi.
+@SenateDems bi iz toga mogli nešto naučiti.”
 
 Objava je istovremeno bila **politička poruka, kripto signal i provokacija** prema njegovim protivnicima u Senatu.
 
@@ -51,7 +52,7 @@ Objava je istovremeno bila **politička poruka, kripto signal i provokacija** pr
 > A sada isto radite dolaru.”
 
 **Luke Dashjr (Bitcoin Core developer)**: “Bitcoin je slabiji nego ikad.”  
-**Eric Wall (analitičar, sarkastično)**: “Bitcoin je umro nakon v30 updatea.”
+**Eric Wall (analitičar, sarkastično)**: “Bitcoin je umro nakon v30 updatea.” Iako se čini kao ozbiljna izjava, Eric Wall bio je sarkastičan — komentirao je dugogodišnji narativ “Bitcoin je mrtav”, koji se ponavlja nakon svakog većeg updatea ili pada.
 
 ---
 
