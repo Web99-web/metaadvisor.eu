@@ -13,11 +13,18 @@ image: "/images/Grokipedia.png"
 thumbnail: "/images/Grokipedia.png"
 image_alt: "Grokipedia – Muskov AI projekt enciklopedije"
 image_credit: "Metaadvisor.eu — slika je simbolična."
-tags: ["ai","grok","grokipedia","elon musk","enciklopedija","wikimedia","točnost","dezinformacije","fact-checking","bias"]
+tags: ["ai","grok","grokipedia","elon musk","enciklopedija","wikimedia","točnost","dezinformacije","fact-checking","bias","workslop"]
 summary: "Grokipedia, AI-pokrenuta enciklopedija Elona Muska, startala je burno: akademici prijavljuju netočnosti, plagiranje i ideološke biasove — a korisnici se pitaju može li AI doista biti 'istina, cijela istina i ništa osim istine'."
 ---
 
 **Od objavljivanja netočnosti do guranja krajnje-desnih narativa — rani dojmovi o Grokipediji nisu blistavi.** Više akademika prijavilo je da su njihove biografije na novoj AI-enciklopediji prepune pogrešaka i izmišljotina, dok su korisnici uočili kako stranice često **preuzimaju velike dijelove Wikipedije** koju Grokipedia navodno želi nadmašiti.
+
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="/go/mexc" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Trguj BTC-om na MEXC
+  </a>
+</p>
 
 Primjer je britanski povjesničar **Sir Richard Evans**, koji je na vlastitom unosu pronašao niz “činjenica” koje jednostavno — **nisu istinite**. Takvi slučajevi narušavaju Muskovu ambicioznu tvrdnju da Grokipedia teži biti kompendijem “**istine, samo istine i ničega osim istine**”, zasnovanim na njegovom AI modelu **Grok**.
 
@@ -41,9 +48,9 @@ Za razliku od tradicionalnih enciklopedija s **uredničkim procesom, recenzijom 
 
 ## “Workslop”: kada AI proizvodi pseudo-rad
 
-Ovo stanje dobro opisujemo pojmom **workslop** — *AI generirani pseudo-rad* koji izgleda kao sadržaj, ali **ne donosi stvarnu vrijednost** (točnost, uvid, novu informaciju).  
-Ako želiš naučiti **kako prepoznati i zaustaviti workslop**, pogledaj naš vodič:  
-**[Workslop: kako otkriti i zaustaviti AI-generirani pseudo-rad](/news/workslop-how-to-spot-and-stop-ai-generated-pseudo-work/)**
+Ovo stanje dobro opisujemo pojmom **workslop** — *AI-generirani pseudo-rad* koji izgleda kao sadržaj, ali **ne donosi stvarnu vrijednost** (točnost, uvid, novu informaciju).  
+Ako želiš naučiti **kako prepoznati i zaustaviti workslop**, pogledaj naš vodič (HR verzija):  
+**[Workslop: kako prepoznati i zaustaviti AI-proizveden pseudorad](/hr/news/workslop-kako-prepoznati-i-zaustaviti-ai-proizveden-pseudorad/)**
 
 Ukratko:  
 - traži **jasne izvore i reference**;  
