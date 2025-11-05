@@ -66,3 +66,9 @@ U međuvremenu, Match razvija i druge AI alate unutar svog portfelja aplikacija,
 - Važno je propitivati: koliko bi aplikacije za spojeve smjele znati o nama — i gdje povući crtu?
 
 ---
+
+> **Disclaimer:**  
+> Sadržaj na Metaadvisor.eu služi isključivo u informativne i edukativne svrhe.  
+> Objave ne predstavljaju investicijski savjet, niti preporuku za kupnju ili prodaju bilo kojeg digitalnog sredstva.  
+> Iako nastojimo objavljivati točne i ažurirane informacije, ne preuzimamo odgovornost za eventualne pogreške, propuste ili financijske odluke donesene na temelju objavljenog sadržaja.  
+> Uvijek provjerite informacije iz više izvora prije donošenja odluka.
