@@ -1,6 +1,6 @@
 ---
 title: "Tinder koristi umjetnu inteligenciju kako bi upoznao korisnike — i zavirio u njihove privatne fotografije"
-slug: "tinder-ai-fotografije-galerija-privatnost"
+slug: "tinder-ai-Chemistry-fotografije-galerija-privatnost"
 date: 2025-11-05T18:22:17Z
 category: "ai"
 translationKey: "bebee28a72a90f8b0e794232f4e5d83c"
