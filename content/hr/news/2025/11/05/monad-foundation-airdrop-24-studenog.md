@@ -22,7 +22,7 @@ summary: "Monad Foundation službeno je potvrdila da će se airdrop njihovog MON
 
 Ova objava označava početak priprema za distribuciju MON tokena ranim i aktivnim sudionicima ekosustava, neposredno prije lansiranja **glavne mreže (mainnet)**.
 
-👉 Više o samom projektu, njegovoj tehnologiji i planovima pročitaj u našoj evergreen analizi:  
+👉 Više o samom projektu, njegovoj tehnologiji i budućnosti pročitaj u našoj evergreen analizi:  
 [**Monad — brzi Layer 1 blockchain s AI pristupom i EVM kompatibilnošću**](https://metaadvisor.eu/hr/news/monad-layer1-ai-blockchain/)
 
 ---
