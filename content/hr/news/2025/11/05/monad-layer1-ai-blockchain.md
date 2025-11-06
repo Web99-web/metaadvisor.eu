@@ -1,7 +1,7 @@
 ---
 title: "Monad — brzi Layer 1 blockchain s AI pristupom i EVM kompatibilnošću"
 slug: "monad-layer1-ai-blockchain"
-date: 2025-11-06T18:45:00Z
+date: 2025-11-05T18:45:00Z
 category: "ai"
 translationKey: "1cf8daaa39e44e9b8d71b8f991b2f431"
 source: "Metaadvisor Research"
