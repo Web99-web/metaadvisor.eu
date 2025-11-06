@@ -108,9 +108,9 @@ That’s why Metaadvisor **does not recommend fully automated trading**, but enc
 
 ### 🔗 Related reading
 
-- [**How to turn ChatGPT into your personal crypto trading assistant**](https://metaadvisor.eu/news/chatgpt-kripto-trading-asistent/)  
-- [**How to use ChatGPT to find hidden gems in the crypto market**](https://metaadvisor.eu/news/kako-koristiti-chatgpt-za-pronalazak-skrivenih-dragulja-na-kripto-trzistu/)  
-- [**Workslop: How to identify and stop AI-generated pseudowork**](https://metaadvisor.eu/news/workslop-kako-prepoznati-i-zaustaviti-ai-proizveden-pseudorad/)
+- [**How to turn ChatGPT into your personal crypto trading assistant**](https://metaadvisor.eu/news/chatgpt-crypto-trading-assistant/)  
+- [**How to use ChatGPT to find hidden gems in the crypto market**](https://metaadvisor.eu/news/how-to-use-chatgpt-to-find-hidden-gems-in-the-crypto-market/)  
+- [**Workslop: How to spot and stop AI-generated pseudo-work**](https://metaadvisor.eu/news/workslop-how-to-spot-and-stop-ai-generated-pseudo-work/)
 
 ---
 
