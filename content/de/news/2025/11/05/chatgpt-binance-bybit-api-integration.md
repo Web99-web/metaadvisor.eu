@@ -108,9 +108,9 @@ Metaadvisor **empfiehlt kein vollautomatisches Trading**, sondern nur **analytis
 
 ### 🔗 Weiterführende Artikel
 
-- [**Wie man ChatGPT in einen persönlichen Krypto-Trading-Assistenten verwandelt**](https://metaadvisor.eu/de/news/chatgpt-kripto-trading-asistent/)  
-- [**Wie man ChatGPT nutzt, um „verborgene Juwelen“ im Kryptomarkt zu finden**](https://metaadvisor.eu/de/news/kako-koristiti-chatgpt-za-pronalazak-skrivenih-dragulja-na-kripto-trzistu/)  
-- [**Workslop: Wie man KI-erzeugte Pseudoarbeit erkennt und stoppt**](https://metaadvisor.eu/de/news/workslop-kako-prepoznati-i-zaustaviti-ai-proizveden-pseudorad/)
+- [**Wie man ChatGPT in einen persönlichen Krypto-Trading-Assistenten verwandelt**](https://metaadvisor.eu/de/news/chatgpt-krypto-trading-assistent/)  
+- [**Wie man ChatGPT nutzt, um „Hidden Gems“ am Kryptomarkt zu finden**](https://metaadvisor.eu/de/news/wie-man-chatgpt-nutzt-um-hidden-gems-am-kryptomarkt-zu-finden/)  
+- [**Workslop: So erkennen und stoppen Sie AI-erzeugten Schein-Output**](https://metaadvisor.eu/de/news/workslop-so-erkennen-und-stoppen-sie-ai-erzeugten-schein-output/)
 
 ---
 
