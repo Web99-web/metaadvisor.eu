@@ -34,6 +34,7 @@ Evo nekoliko glavnih načina korištenja:
 1. 🧠 **Analiza tržišta** — ChatGPT može pregledavati vijesti, pratiti trendove i objašnjavati tehničke indikatore poput RSI, MACD i EMA.  
 2. 💬 **Izrada trading planova** — generiranje personaliziranih strategija (npr. “swing trading” ili “scalping”) uz preporuke za postavljanje stop-loss i take-profit razina.  
 3. ⚙️ **Integracija s API-jem** — napredni korisnici mogu spojiti ChatGPT na burze poput Binancea ili Bybita (preko API ključeva) kako bi dobili **automatizirane signale ili simulirano trgovanje.**  
+👉 Detaljan vodič: [**Kako spojiti ChatGPT s Binanceom ili Bybitom pomoću API ključeva**](https://metaadvisor.eu/hr/news/chatgpt-binance-bybit-api-integracija/)
 4. 📊 **Evaluacija rizika i portfelja** — ChatGPT može procijeniti omjere rizika, volatilnost i diverzifikaciju portfelja prema korisnikovim ciljevima.  
 5. 🔍 **Prepoznavanje sentimenta** — pomoću analize vijesti i društvenih mreža, model može prepoznati kako tržište reagira na određene događaje.
 
