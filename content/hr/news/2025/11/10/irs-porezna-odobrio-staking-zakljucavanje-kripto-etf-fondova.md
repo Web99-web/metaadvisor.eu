@@ -51,10 +51,10 @@ Analitičari procjenjuju da bi do kraja 2025. više od 15% ukupnog staked ETH-a 
 
 ### Naš osvrt (Metaadvisor):
 
-- IRS je napravio **povijesni iskorak** — sada i veliki fondovi mogu sudjelovati u stakingu.  
-- Ovo bi moglo **učiniti Ethereum jednim od najatraktivnijih institucionalnih proizvoda**.  
-- Uvođenjem „sigurnosnog okvira“, SAD šalje poruku da želi **ostati vodeća zemlja u reguliranom kripto tržištu**.  
-- Ipak, povećana institucionalna prisutnost znači da **decentralizacija sve više prelazi u porezno nadziranu zonu**.
+- IRS je napravio **povijesni iskorak** — sada i veliki fondovi mogu sudjelovati u stakingu (ulaganje i zaključavanje kriptovaluta radi ostvarivanja nagrada).  
+- Ova odluka mogla bi **učiniti mreže temeljene na Proof-of-Stake mehanizmu — poput Ethereuma, Solane i Cardana — najatraktivnijim institucionalnim proizvodima** u nadolazećem razdoblju.  
+- Uvođenjem „sigurnosnog okvira“, SAD šalje jasnu poruku da želi **zadržati globalno vodstvo u reguliranom kripto tržištu**.  
+- Ipak, povećana institucionalna prisutnost znači da **decentralizacija više nije samo tehnološki koncept, već i područje pod nadzorom poreznih i regulatornih tijela**.
 
 ---
 
