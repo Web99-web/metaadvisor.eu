@@ -53,11 +53,13 @@ Za korisnike bi to, s druge strane, značilo više sigurnosti, ali i manje razno
 
 ### Coinbase, Binance i Kraken pod pritiskom
 
-Velike kripto burze — posebno **Coinbase**, **Binance** i **Kraken** — već su upozorile da bi prebrzo nametanje novih pravila moglo “ugušiti inovacije” i potaknuti dio tržišta da se preseli izvan SAD-a.  
-Za razliku od njih, **CME Group** i **LedgerX** pozdravljaju inicijativu, jer su već dio strogo reguliranog sustava i vide priliku za širenje na novo tržište.
+Velike kripto burze — **Coinbase, Binance i Kraken** — našle su se u središtu regulatorne prekretnice.  
+CFTC želi dio spot trgovanja prebaciti pod svoj izravni nadzor, čime bi ovi globalni akteri morali uskladiti poslovanje s novim, strožim pravilima.  
+
+**Hoće li se Coinbase, Binance i Kraken odmah prilagoditi novom okviru, ili će pokušati tražiti odgodu i alternativna rješenja — pitanje je koje će odrediti ton odnosa između američke administracije i najvećih svjetskih kripto platformi.**
 
 U pozadini se, dakle, vodi **regulatorna borba** između “starih financija” (Wall Streeta) i “novog kripta” (digitalnih mjenjačnica).  
-Dok CFTC želi pokazati da može djelovati brzo i odlučno, Coinbase i Binance lobiraju u Kongresu kako bi spriječili “federalizaciju” tržišta bez novog zakona.
+Dok CFTC želi pokazati da može djelovati brzo i odlučno, burze traže jasan zakonodavni okvir koji bi dugoročno definirao granice nadzora.
 
 ---
 
