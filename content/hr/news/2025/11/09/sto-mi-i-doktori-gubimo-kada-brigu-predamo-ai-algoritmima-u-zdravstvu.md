@@ -8,32 +8,36 @@ source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/us-news/ng-interactive/2025/nov/09/healthcare-artificial-intelligence-ai"
 author: "Eric Reinhart | The Guardian Tech"
 analysis_by: "Metaadvisor.eu"
-image_url: "https://i.guim.co.uk/img/media/bfaf7c65089d4d7f288da5aa8b25d6c054946adf/0_0_775_772/master/775.jpg?width=445&dpr=1&s=none&crop=none"
-featured_image: "https://i.guim.co.uk/img/media/bfaf7c65089d4d7f288da5aa8b25d6c054946adf/0_0_775_772/master/775.jpg?width=445&dpr=1&s=none&crop=none"
-image: "https://i.guim.co.uk/img/media/bfaf7c65089d4d7f288da5aa8b25d6c054946adf/0_0_775_772/master/775.jpg?width=445&dpr=1&s=none&crop=none"
-thumbnail: "https://i.guim.co.uk/img/media/bfaf7c65089d4d7f288da5aa8b25d6c054946adf/0_0_775_772/master/775.jpg?width=445&dpr=1&s=none&crop=none"
-image_alt: "AI u američkom zdravstvu mijenja način komunikacije liječnika i pacijenata"
-image_credit: "The Guardian Tech"
+image_url: "/images/doktor-ai-hr.png"
+featured_image: "/images/doktor-ai-hr.png"
+image: "/images/doktor-ai-hr.png"
+thumbnail: "/images/doktor-ai-hr.png"
+image_alt: "Liječnik promatra zaslon s prikazom umjetne inteligencije"
+image_credit: "Metaadvisor.eu"
 tags: ["ai", "healthcare", "algorithms", "medicine", "technology", "ethics", "zdravstvo"]
 summary: "AI sve češće preuzima ulogu liječničkog pisara, ali što gubimo kad empatiju, ton glasa i pažnju prepustimo algoritmima?"
 ---
 
-<div class="cta">
-  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank">
-  💰 Unlock a welcome gift worth up to 6200 USDT on Bitget
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     💰 Unlock a welcome gift worth up to 6200 USDT on Bitget
   </a>
-  <p>Join Bitget today and start trading with up to 80% APR in your first 3 days.</p>
-</div>
+</p>
 
-The Guardian je objavio tekst Erica Reinharta o američkom zdravstvu i njegovom iskustvu s pacijenticom tijekom pregleda koji je vodio uz pomoć umjetne inteligencije.  
+Eric Reinhart, liječnik i antropolog koji proučava kulturu medicine, bio je u pratnji svoje sedamdesetogodišnje prijateljice Pamele tijekom njezina liječničkog pregleda u jednoj američkoj klinici.  
+Ta klinika koristi **AI asistenta** – sustav umjetne inteligencije koji automatski zapisuje, sažima i analizira razgovor između pacijenta i liječnika.
 
-Prema njegovom opisu, računalo je počelo transkripciju dok je Pamela još govorila, preuzimajući tijek razgovora. Reinhart, koji ju je pratio na pregled, opisuje kako je liječnik kliknuo mišem i blok teksta počeo se pojavljivati na ekranu računala. Klinika je koristila “AI pisara” — sustav umjetne inteligencije koji u stvarnom vremenu transkribira i sažima razgovor između pacijenta i liječnika. Uz to, označava ključne riječi, predlaže moguće dijagnoze i dodaje kodove za naplatu.  
+Način na koji taj AI sustav radi ostavio je snažan dojam na Reinharta.  
+Kompjuter je započeo svoj AI rad dok je Pamela još govorila, preuzimajući tijek razgovora.  
+Dok je opisivala svoje zdravstvene tegobe, liječnik je kliknuo mišem i blok teksta počeo se pojavljivati na ekranu. Sustav je u stvarnom vremenu transkribirao njihove riječi, izdvajao ključne pojmove, predlagao dijagnoze i dodavao kodove za naplatu.
 
 Liječnik je, očito zadovoljan što je računalo “uhvatilo” dovoljan opis Pamelinih tegoba, okrenuo se od njih i počeo pregledavati tekst na ekranu dok je pacijentica nastavila govoriti.  
 
-Reinhart je, kao liječnik i antropolog zainteresiran za kulturu medicine, zamolio uvid u bilješku koju je izradio AI. Sažetak je bio iznenađujuće tečan i točan, ali nije uhvatio drhtaj u Pamelinu glasu kad je spomenula stepenice, ni bljesak straha dok je priznala da ih sada izbjegava — ni tihu poveznicu s traumatičnim sjećanjem na smrt vlastite majke, koju liječnik nikada nije ni otkrio.  
+Reinhart je nakon pregleda, kao liječnik i promatrač, zamolio uvid u bilješku koju je AI generirao.  
+Sažetak je bio iznenađujuće tečan i točan, ali nije uhvatio drhtaj u Pamelinu glasu kad je spomenula stepenice, ni bljesak straha dok je priznala da ih sada izbjegava — ni tihu poveznicu s traumatičnim sjećanjem na smrt vlastite majke, koju liječnik nikada nije ni otkrio.  
 
-Takvi prizori postaju sve češći. Liječnici su generacijama odupirali uvođenju novih tehnologija koje su prijetile promijeniti odnos između njih i pacijenata — no sada se predaja pred algoritmima događa brže nego ikada.  
+Takvi prizori postaju sve češći. Liječnici su generacijama odupirali uvođenju tehnologija koje su prijetile promijeniti odnos između njih i pacijenata — no sada se predaja pred algoritmima događa brže nego ikada.  
 
 ---
 
@@ -63,4 +67,5 @@ Na kraju, dok liječnik dobije “gotov” tekst na pladnju, postoji mogućnost 
 ---
 
 **Disclaimer:**  
-Ovaj članak sadrži izvorne informacije iz medija *The Guardian Tech* te dodatnu analizu i komentar portala **Metaadvisor.eu**. Objavljeno isključivo u edukativne i informativne svrhe; ne predstavlja financijski, medicinski ili profesionalni savjet.
+Ovaj članak sadrži izvorne informacije iz medija *The Guardian Tech* te dodatnu analizu i komentar portala **Metaadvisor.eu**.  
+Objavljeno isključivo u edukativne i informativne svrhe; ne predstavlja financijski, medicinski ili profesionalni savjet.
