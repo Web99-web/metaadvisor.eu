@@ -1,6 +1,6 @@
 ---
-title: "Što gubimo kada brigu prepustimo algoritmima | Eric Reinhart"
-slug: "sto-gubimo-kad-brigu-predamo-algoritmima"
+title: "Što mi i doktori gubimo kada brigu predamo AI algoritmima u zdravstvu"
+slug: "sto-mi-i-doktori-gubimo-kada-brigu-predamo-ai-algoritmima-u-zdravstvu"
 date: 2025-11-09T14:00:34Z
 category: "news"
 translationKey: "3c2b31f412ad3e93c814c4bb9e10bc0b"
@@ -14,8 +14,8 @@ image: "https://i.guim.co.uk/img/media/bfaf7c65089d4d7f288da5aa8b25d6c054946adf/
 thumbnail: "https://i.guim.co.uk/img/media/bfaf7c65089d4d7f288da5aa8b25d6c054946adf/0_0_775_772/master/775.jpg?width=445&dpr=1&s=none&crop=none"
 image_alt: "AI u američkom zdravstvu mijenja način komunikacije liječnika i pacijenata"
 image_credit: "The Guardian Tech"
-tags: ["ai", "healthcare", "algorithms", "society", "medicine", "technology", "ethics"]
-summary: "Rastuće povjerenje u umjetnu inteligenciju u američkom zdravstvu mijenja način kako liječnici komuniciraju s pacijentima – i što gubimo kad empatiju prepustimo strojevima."
+tags: ["ai", "healthcare", "algorithms", "medicine", "technology", "ethics", "zdravstvo"]
+summary: "AI sve češće preuzima ulogu liječničkog pisara, ali što gubimo kad empatiju, ton glasa i pažnju prepustimo algoritmima?"
 ---
 
 <div class="cta">
@@ -25,13 +25,13 @@ summary: "Rastuće povjerenje u umjetnu inteligenciju u američkom zdravstvu mij
   <p>Join Bitget today and start trading with up to 80% APR in your first 3 days.</p>
 </div>
 
-Opasna vjera u umjetnu inteligenciju širi se američkim zdravstvom – s posljedicama koje pogađaju samu osnovu društva.  
+The Guardian je objavio tekst Erica Reinharta o američkom zdravstvu i njegovom iskustvu s pacijenticom tijekom pregleda koji je vodio uz pomoć umjetne inteligencije.  
 
-Računalo je prekinulo dok je Pamela još govorila. Pratio sam ju – moju dragu prijateljicu – na nedavni liječnički pregled. U sedamdesetima je, živi sama, bori se s kroničnim zdravstvenim tegobama i u posljednje vrijeme ostaje bez daha penjući se uz stepenice do svog stana. U ordinaciji je govorila polako i nesigurno, kao što ljudi često čine kad pokušavaju strancima opisati svoje tijelo i brige. Na pola njezina opisa kako se osjeća, liječnik je kliknuo mišem i blok teksta počeo se pojavljivati na ekranu računala.  
+Prema njegovom opisu, računalo je prekinulo dok je Pamela još govorila. Reinhart, koji ju je pratio na pregled, opisuje kako je liječnik kliknuo mišem i blok teksta počeo se pojavljivati na ekranu računala. Klinika je koristila “AI pisara” — sustav umjetne inteligencije koji u stvarnom vremenu transkribira i sažima razgovor između pacijenta i liječnika. Uz to, označava ključne riječi, predlaže moguće dijagnoze i dodaje kodove za naplatu.  
 
-Klinika je uvela “AI pisara” — sustav umjetne inteligencije koji u stvarnom vremenu transkribira i sažima razgovor između pacijenta i liječnika. Uz to, označava ključne riječi, predlaže moguće dijagnoze i dodaje kodove za naplatu. Liječnik je, očito zadovoljan što je računalo “uhvatilo” dovoljan opis Pamelinih tegoba, okrenuo se od nas i počeo pregledavati tekst na ekranu dok je Pamela nastavila govoriti.  
+Liječnik je, očito zadovoljan što je računalo “uhvatilo” dovoljan opis Pamelinih tegoba, okrenuo se od njih i počeo pregledavati tekst na ekranu dok je pacijentica nastavila govoriti.  
 
-Kad je pregled završio, kao liječnik i antropolog zainteresiran za kulturu medicine, pitao sam mogu li baciti pogled na bilješku koju je izradio AI. Sažetak je bio iznenađujuće tečan i točan. Ali nije uhvatio drhtaj u Pamelinu glasu kad je spomenula stepenice, ni bljesak straha dok je priznala da ih sada izbjegava — ni tihu poveznicu s traumatičnim sjećanjem na smrt vlastite majke, koju liječnik nikada nije ni otkrio.  
+Reinhart je, kao liječnik i antropolog zainteresiran za kulturu medicine, zamolio uvid u bilješku koju je izradio AI. Sažetak je bio iznenađujuće tečan i točan, ali nije uhvatio drhtaj u Pamelinu glasu kad je spomenula stepenice, ni bljesak straha dok je priznala da ih sada izbjegava — ni tihu poveznicu s traumatičnim sjećanjem na smrt vlastite majke, koju liječnik nikada nije ni otkrio.  
 
 Takvi prizori postaju sve češći. Liječnici su generacijama odupirali uvođenju novih tehnologija koje su prijetile promijeniti odnos između njih i pacijenata — no sada se predaja pred algoritmima događa brže nego ikada.  
 
@@ -45,10 +45,10 @@ Ali ako sve to prepusti stroju koji sažima razgovor u “uredan” tekst, posto
 
 Možda će AI pomoći ubrzati proces, ali pitanje ostaje — koliko pritom gubimo u razumijevanju čovjeka?  
 
-Jer doktori obično pitaju — pa zapišu, zatim opet pitaju — pa zapišu, kroz nekoliko pitanja i odgovora tijekom cijelog razgovora.  
-A ovdje, koliko sam razumjela, AI tek na kraju **sažima cijeli razgovor u jedan tekst**.  
-To može značiti da se neki mali, ali važan dio — možda spomenut na početku — izgubi u procesu.  
-I tako, dok liječnik na kraju dobije “gotov” tekst na pladnju, možda ni ne primijeti da je AI slučajno izostavio rečenicu koja je pacijentu značila sve.  
+Liječnici obično postavljaju pitanje, zapišu odgovor, zatim pitaju novo i tako stvaraju prirodan dijalog tijekom cijelog razgovora.  
+Koliko smo razumjeli iz teksta, u ovom slučaju AI tek na kraju **sažima cijeli razgovor u jedan tekst**.  
+Takav pristup može dovesti do toga da se neki mali, ali važan detalj — možda spomenut na početku — izgubi u procesu.  
+Na kraju, dok liječnik dobije “gotov” tekst na pladnju, postoji mogućnost da ni ne primijeti da je AI slučajno izostavio rečenicu koja pacijentu znači sve.  
 
 ---
 
