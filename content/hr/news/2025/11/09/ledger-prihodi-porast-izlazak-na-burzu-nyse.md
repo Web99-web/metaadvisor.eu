@@ -1,5 +1,5 @@
 ---
-title: "Ledger planira izlazak na njujoršku burzu dok prihodi dosežu stotine milijuna amid porast hakiranja"
+title: "Ledger planira izlazak na njujoršku burzu dok prihodi dosežu stotine milijuna usred porasta hakiranja"
 slug: "ledger-prihodi-porast-izlazak-na-burzu-nyse"
 date: 2025-11-10T09:30:00Z
 category: "news"
