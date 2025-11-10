@@ -57,12 +57,12 @@ Dok mali ulagači kupuju Bitcoin izravno na burzama i čekaju potvrdu transakcij
 Na Wall Streetu Bitcoin se često kupuje i prodaje **bez da ijedna transakcija dotakne blockchain**.
 
 Kad, primjerice, **BlackRock** ili **Fidelity** dobiju nove uplate u svoje ETF fondove, njihov skrbnički partner — često **Coinbase Custody** — **ne mora odmah fizički kupiti Bitcoin**.  
-Umjesto toga, on **zabilježi obvezu**: “dugujemo 10 BTC po cijeni od 103.000 USD.”  
-Stvarna kupnja može uslijediti nekoliko sati ili čak dan kasnije, kad tržište padne na 101.000 USD.  
-Razlika od 2.000 USD po Bitcoinu tada postaje čista dobit.
+Umjesto toga, bilježi se obveza o količini i cijeni.  
+Stvarna kupnja može uslijediti unutar jednog ili dva dana, ovisno o tržišnim uvjetima i procesu poravnanja.  
+Takvo *off-chain* knjiženje omogućuje veću fleksibilnost u tajmingu transakcija i smanjuje troškove, ali ne znači nužno špekulaciju na razlici cijene.  
+ETF-ovi i njihovi skrbnici podliježu strogim pravilima nadzora i ne smiju aktivno trgovati imovinom fonda radi profita.
 
-To je tzv. **off-chain knjiženje** — trgovanje koje se vodi unutar sustava, ali bez stvarnog blockchain zapisa u trenutku kupnje.  
-Zahvaljujući pravilima T+1 ili T+2 namire (poravnanje u roku 1–2 dana), institucije imaju dovoljno vremena da se prilagode tržištu i “uhvate” bolju cijenu prije nego što izvrše stvarnu on-chain transakciju.
+Zahvaljujući pravilima T+1 ili T+2 namire (poravnanje u roku 1–2 dana), institucije mogu obaviti potrebne prijenose i osigurati točno poravnanje bez izravne ovisnosti o brzini blockchaina.  
 
 Za razliku od malih investitora koji žive u 24/7 kripto svijetu, **ETF tržište radi po starom ritmu — samo radnim danom, u uredovno vrijeme burze**.  
 Ako Bitcoin padne ili skoči vikendom, cijena ETF-a će to odraziti tek u ponedjeljak.  
@@ -92,8 +92,8 @@ Ironično, isti sustav koji je Bitcoin trebao nadmašiti sada ga koristi kao nov
 ### Naš osvrt (Metaadvisor):
 
 - Wall Street prihvaća **kriptovalute kao financijski instrument**, ali ne i blockchain kao tehničku infrastrukturu.  
-- “Papirni Bitcoin” omogućuje im zaradu na razlici cijene bez blockchain rizika.  
-- Dok mali ulagači plaćaju gas i čekaju blokove, institucije zarađuju na vremenskom kašnjenju.  
+- “Papirni Bitcoin” omogućuje im veću fleksibilnost u poravnanju i niže operativne troškove.  
+- Dok mali ulagači plaćaju gas i čekaju blokove, institucije posluju unutar reguliranog sustava s vlastitim ritmom.  
 - Paradoks: sustav koji je Bitcoin trebao promijeniti, sada ga potpuno prilagođava sebi.  
 
 ---
