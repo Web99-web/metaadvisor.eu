@@ -27,7 +27,7 @@ summary: "AI sve češće preuzima ulogu liječničkog pisara, ali što gubimo k
 
 The Guardian je objavio tekst Erica Reinharta o američkom zdravstvu i njegovom iskustvu s pacijenticom tijekom pregleda koji je vodio uz pomoć umjetne inteligencije.  
 
-Prema njegovom opisu, računalo je prekinulo dok je Pamela još govorila. Reinhart, koji ju je pratio na pregled, opisuje kako je liječnik kliknuo mišem i blok teksta počeo se pojavljivati na ekranu računala. Klinika je koristila “AI pisara” — sustav umjetne inteligencije koji u stvarnom vremenu transkribira i sažima razgovor između pacijenta i liječnika. Uz to, označava ključne riječi, predlaže moguće dijagnoze i dodaje kodove za naplatu.  
+Prema njegovom opisu, računalo je počelo transkripciju dok je Pamela još govorila, preuzimajući tijek razgovora. Reinhart, koji ju je pratio na pregled, opisuje kako je liječnik kliknuo mišem i blok teksta počeo se pojavljivati na ekranu računala. Klinika je koristila “AI pisara” — sustav umjetne inteligencije koji u stvarnom vremenu transkribira i sažima razgovor između pacijenta i liječnika. Uz to, označava ključne riječi, predlaže moguće dijagnoze i dodaje kodove za naplatu.  
 
 Liječnik je, očito zadovoljan što je računalo “uhvatilo” dovoljan opis Pamelinih tegoba, okrenuo se od njih i počeo pregledavati tekst na ekranu dok je pacijentica nastavila govoriti.  
 
@@ -59,3 +59,8 @@ Na kraju, dok liječnik dobije “gotov” tekst na pladnju, postoji mogućnost 
 - Liječnik mora ostati kontrolor, a ne promatrač tehnologije.  
 - Sustavi koji sažimaju razgovore riskiraju gubitak važnih nijansi.  
 - Umjetna inteligencija ne može zamijeniti čovjeka koji doista sluša.  
+
+---
+
+**Disclaimer:**  
+Ovaj članak sadrži izvorne informacije iz medija *The Guardian Tech* te dodatnu analizu i komentar portala **Metaadvisor.eu**. Objavljeno isključivo u edukativne i informativne svrhe; ne predstavlja financijski, medicinski ili profesionalni savjet.
