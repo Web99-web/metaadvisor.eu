@@ -1,7 +1,7 @@
 ---
 title: "SoftBank izlazi iz Nvidije — AI tržište u šoku i traži novi smjer"
 slug: "softbank-izlazi-iz-nvidije-ai-trziste-u-soku"
-date: 2025-11-10T19:52:31Z
+date: 2025-11-11T19:52:31Z
 category: "ai"
 translationKey: "0937acf1a92cdaed66e17d2f8b4bfd82"
 source: "TechCrunch"
