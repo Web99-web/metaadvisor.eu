@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin whale otvara long od 195,7 milijuna USD na Ethereum — signal za novi val tržišta?"
+title: "Bitcoin kit otvara long od 195,7 milijuna USD na Ethereum — signal za novi val tržišta?"
 slug: "bitcoin-whale-kit-long-1957-eth"
 date: 2025-11-11T15:41:00Z
 category: "crypto"
@@ -52,7 +52,8 @@ Ovakav potez velikog ulagača može biti **signal promjene sentimenta** — pose
 
 ### 🔗 Šira slika: institucionalni kapital i konsolidacija
 
-U isto vrijeme dok **SoftBank** izlazi iz Nvidije i preusmjerava kapital u umjetnu inteligenciju, a kompanije poput **Bitdeer** spajaju rudarenje Bitcoina s AI obradom podataka,  
+U isto vrijeme dok [**SoftBank**](https://metaadvisor.eu/hr/news/softbank-izlazi-iz-nvidije-ai-trziste-u-soku/) izlazi iz Nvidije i preusmjerava kapital u umjetnu inteligenciju,  
+a kompanije poput [**Bitdeer**](https://metaadvisor.eu/hr/news/bitdeer-rudarenje-bitcoina-ai/) spajaju rudarenje Bitcoina s AI obradom podataka,  
 ulaganja se pregrupiraju prema novim modelima — gdje se granice između **AI infrastrukture i blockchaina** sve više brišu.
 
 Kripto tržište time postaje **testni poligon za kapitalne tokove** koji bi mogli oblikovati novu fazu digitalne ekonomije.
