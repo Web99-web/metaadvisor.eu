@@ -1,7 +1,7 @@
 ---
 title: "SoftBank exits Nvidia — AI market shocked and searching for new direction"
 slug: "softbank-exits-nvidia-ai-market-shocked"
-date: 2025-11-10T19:52:31Z
+date: 2025-11-11T19:52:31Z
 category: "ai"
 translationKey: "0937acf1a92cdaed66e17d2f8b4bfd82"
 source: "TechCrunch"
