@@ -1,6 +1,6 @@
 ---
 title: "SoftBank izlazi iz Nvidije — AI tržište u šoku i traži novi smjer"
-slug: "softbank-out-of-nvidia-ai-trziste-u-soku"
+slug: "softbank-izlazi-iz-nvidije-ai-trziste-u-soku"
 date: 2025-11-10T19:52:31Z
 category: "ai"
 translationKey: "0937acf1a92cdaed66e17d2f8b4bfd82"
@@ -12,55 +12,75 @@ image: "/images/Softbank-out-of-Nvidia.png"
 thumbnail: "/images/Softbank-out-of-Nvidia.png"
 image_alt: "SoftBank out of Nvidia"
 image_credit: "MetaAdvisor.eu"
-tags: ["ai", "nvidia", "softbank", "masayoshi son", "tržište", "investicije"]
-summary: "SoftBank prodaje svoj udio u Nvidiji vrijedan 5,8 milijardi USD kako bi se potpuno okrenuo umjetnoj inteligenciji. Tržište reagira padom, a analitičari raspravljaju je li ovo znak nove redistribucije kapitala između AI i kripto sektora."
+tags: ["ai", "nvidia", "softbank", "masayoshi son", "investicije", "tržište", "mali ulagači"]
+summary: "SoftBank prodaje svoj udio u Nvidiji vrijedan 5,8 milijardi USD i preusmjerava kapital u umjetnu inteligenciju. Tržište reagira šokom, ali analitičari smatraju da je to prilika za male ulagače i signal nove redistribucije kapitala između hardvera i AI servisa."
 ---
 
 💥 **Masayoshi Son ponovno iznenađuje tržište.**  
 Osnivač SoftBanka odlučio je **prodati cijeli svoj udio u Nvidiji vrijedan 5,8 milijardi USD**, najavljujući da će kapital preusmjeriti u — *umjetnu inteligenciju*. Ova odluka potresla je tržište, jer se radi o kompaniji koja je bila sinonim za uspjeh AI sektora i eksplozivan rast vrijednosti čipova.
 
 Nvidijine dionice pale su 3,5% nakon objave, a tržište je reagiralo povećanom volatilnošću.  
-Investitori se pitaju — ako SoftBank izlazi iz Nvidije, što to znači za cijeli AI sektor?
+Investitori se pitaju — **ako SoftBank izlazi iz Nvidije, što to znači za cijeli AI sektor?**
 
 ---
 
 ### 📉 Povijest ekstremnih poteza
 
 Masayoshi Son nije poznat po oprezu.  
-Njegova karijera obilježena je golemim rizicima — od najvećeg osobnog gubitka u povijesti tijekom dot-com krize (više od 70 milijardi USD) do legendarnog ulaganja od 20 milijuna USD u **Alibabu**, koje je kasnije naraslo na vrijednost veću od **150 milijardi USD**.
+Njegova karijera obilježena je golemim rizicima — od **najvećeg osobnog gubitka u povijesti** tijekom dot-com krize (više od 70 milijardi USD) do legendarnog ulaganja od 20 milijuna USD u **Alibabu**, koje je kasnije naraslo na vrijednost veću od **150 milijardi USD**.
 
 Son danas ima 68 godina, ali i dalje igra na sve ili ništa.  
-Nakon uspjeha SoftBank Vision Funda, u koji su milijarde uložili i fondovi iz Saudijske Arabije, sada se vraća korijenima — **AI-u i automatizaciji** — smatrajući da je upravo to “nova revolucija interneta”.
+Nakon uspjeha SoftBank Vision Funda, u koji su milijarde uložili i fondovi iz Saudijske Arabije, sada se vraća korijenima — **AI-u i automatizaciji**, smatrajući da je upravo to “nova revolucija interneta”.
 
 ---
 
-### 🧠 SoftBank “all in” na AI
+### 💻 Nvidia — srce svake AI revolucije
 
-Prema pisanju *TechCruncha*, Son planira novi ciklus ulaganja kroz fondove fokusirane na **generativnu umjetnu inteligenciju**, **AI čipove** i **automatizirane platforme** koje spajaju podatke, robotiku i decentralizirano računalstvo.
+Bez Nvidijinih čipova današnji AI jednostavno ne bi postojao.  
+GPU procesori (poput modela H100, A100 i B100) pokreću ChatGPT, Midjourney, Claude, Gemini i gotovo sve druge velike AI modele. Oni su *mozgovi* koji obrađuju bilijune izračuna u sekundi.
 
-Odluka o prodaji Nvidijina udjela ne znači nužno gubitak vjere u tvrtku — nego možda pokazuje da SoftBank traži **sljedeću točku eksponencijalnog rasta**, izvan dionica koje su već dosegnule vrhunac.
+Zbog toga je odluka o prodaji udjela u Nvidiji mnoge zbunila — ali Son se, zapravo, **ne povlači iz umjetne inteligencije**, već traži sljedeći val rasta:  
+> „Ne želim više biti dioničar proizvođača čipova, već investitor u kompanije koje koriste te čipove“, navodno je izjavio Son prema izvorima bliskim SoftBanku.
 
 ---
 
-### 🌐 Reakcija tržišta i veza s kripto sektorom
+### 📊 Prilika za male ulagače
 
-Pad Nvidije nije prošao nezapaženo ni u kripto svijetu.  
-Kako su AI i blockchain sve češće isprepleteni, institucionalni investitori polako preusmjeravaju kapital iz pregrijanog AI sektora prema tržištu digitalne imovine, koje trenutno prolazi kroz **fazu konsolidacije**.
+Iako je Nvidijina dionica nakratko pala 3,5%, mnogi analitičari ističu da to **može biti prilika za male investitore** koji žele ući po nižoj cijeni.  
+AI sektor i dalje ima iznimno jak fundament, a Nvidia ostaje dominantni dobavljač hardvera bez kojeg se ne može izgraditi nijedan veliki model.
 
-Istovremeno, **tvrtke poput Bitdeera** (koje rudare Bitcoin i ulaze u AI oblak) pokazuju kako se **granica između kripta i umjetne inteligencije briše**.  
-Kapital se ne gubi — on se samo premješta u nova područja s većim potencijalom povrata.
+> “Veliki fondovi često izlaze kada tržište doseže lokalni vrhunac, ali time stvaraju prostor za nove ulaske,” objašnjava MetaAdvisor.  
+> “Mali ulagači sada imaju priliku sudjelovati u drugom valu rasta — uz razumniji ulaz.”
+
+---
+
+### 🧠 SoftBank ide “all-in” na AI
+
+Son planira novi ciklus ulaganja kroz fondove fokusirane na **generativni AI, AI čipove nove generacije, podatkovne centre i decentralizirano računalstvo**.  
+Odluka o prodaji Nvidije dio je šire strategije prelaska kapitala s hardvera prema **AI servisima, podatkovnim platformama i automatizaciji**.
+
+---
+
+### 🌐 AI i kripto — sve tješnje povezani
+
+Pad Nvidijinih dionica poklopio se s korekcijom na kripto tržištu, ali i s jačanjem suradnje između AI i blockchain sektora.  
+Tvrtke poput [**Bitdeer**](https://metaadvisor.eu/hr/news/bitdeer-rudarenje-bitcoina-ai/) već kombiniraju **rudarenje Bitcoina i AI cloud**, dok drugi projekti istražuju kako iskoristiti decentraliziranu računalnu snagu za treniranje modela.
+
+To pokazuje da se dvije industrije počinju preklapati — a kapital se **ne gubi**, već **prelazi u novi oblik**.
 
 ---
 
 ### 💬 Naš osvrt (MetaAdvisor)
 
-Ova odluka Masayoshija Sona nije samo financijski potez — to je signal.  
-Ako jedan od najpoznatijih tehnoloških vizionara izlazi iz Nvidije i “ide sve na AI”, to bi moglo označiti početak **nove redistribucije kapitala** između klasičnih dionica i alternativnih digitalnih tržišta.
+Prodaja udjela u Nvidiji nije znak slabosti, već promjena fokusa.  
+SoftBank traži sljedeći korak u AI revoluciji — onaj iznad čipova, u području **pametnih podataka i samoučećih sustava**.  
+Za male ulagače ovo bi mogao biti signal da razmisle o dugoročnim ulaganjima u tehnološke dionice i startupe povezane s umjetnom inteligencijom.
 
-Institucionalni ulagači možda shvaćaju da AI više nije priča o čipovima, već o **podatcima, infrastrukturi i decentraliziranoj inteligenciji** — područjima gdje se AI i blockchain već prirodno spajaju.
+Ovo nije kraj Nvidijine priče — već **početak novog ciklusa**, gdje će se AI, blockchain i računalna infrastruktura početi spajati u zajednički ekosustav.
 
 ---
 
 ### ⚠️ Disclaimer
 
-Ovaj članak služi isključivo u informativne svrhe i ne predstavlja investicijski savjet. Tržišta dionica i kriptovaluta izrazito su volatilna, a svaka odluka o ulaganju mora se temeljiti na osobnom istraživanju i razumijevanju rizika.
+Ovaj članak služi isključivo u informativne svrhe i ne predstavlja investicijski savjet.  
+Tržišta dionica i kriptovaluta izrazito su volatilna, a svaka odluka o ulaganju mora se temeljiti na osobnom istraživanju i razumijevanju rizika.
