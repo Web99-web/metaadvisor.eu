@@ -23,6 +23,13 @@ Nvidijine dionice pale su 3,5% nakon objave, a tržište je reagiralo povećanom
 Investitori se pitaju — **ako SoftBank izlazi iz Nvidije, što to znači za cijeli AI sektor?**
 
 ---
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     💰 Unlock a welcome gift worth up to 6200 USDT on Bitget
+  </a>
+</p>
+---
 
 ### 📉 Povijest ekstremnih poteza
 
