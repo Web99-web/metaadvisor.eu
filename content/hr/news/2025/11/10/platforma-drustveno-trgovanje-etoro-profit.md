@@ -1,7 +1,7 @@
 ---
 title: "Platforma za društveno trgovanje i investiranje eToro raste uz AI — 48% veći profit i plan otkupa dionica od 150 milijuna USD"
 slug: "platforma-drustveno-trgovanje-etoro-profit"
-date: 2025-11-11T09:00:00Z
+date: 2025-11-10T09:00:00Z
 category: "business"
 translationKey: "etoro-growth-ai-buyback-2025"
 source: "Cointelegraph"
