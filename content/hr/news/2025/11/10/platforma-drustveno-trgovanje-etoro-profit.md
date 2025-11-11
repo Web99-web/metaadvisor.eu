@@ -24,16 +24,24 @@ U trećem kvartalu 2025. **imovina klijenata dosegnula je 20,8 milijardi USD**, 
 Dodatno, **broj kripto trgovanja porastao je 84%** u odnosu na prošlu godinu, a prosječni iznos po trgovini narastao je 52%, na 320 USD.  
 Kompanija planira u idućim kvartalima lansirati **novi kripto novčanik**, koji će korisnicima omogućiti pristup tržištima tokenizacije, predikcijskim tržištima i DeFi uslugama.
 
-{{< trade-button partner="bitget" text="Trade smarter with Bitget" >}}
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     💰 Unlock a welcome gift worth up to 6200 USDT on Bitget
+  </a>
+</p>
 
-eToro je poznat po konceptu **“društvenog trgovanja”** — modelu u kojem korisnici mogu **kopirati strategije uspješnih investitora**. Na taj način, početnici imaju priliku pratiti profesionalne trejdere, dok iskusni korisnici ostvaruju dodatne prihode ako ih drugi prate.  
+eToro je poznat po konceptu **“društvenog trgovanja”** — modelu u kojem korisnici mogu **kopirati strategije uspješnih investitora**.  
+Na taj način, početnici imaju priliku učiti iz stvarnih tržišnih poteza, dok iskusni investitori ostvaruju dodatne prihode ako ih drugi prate.  
 Ovaj pristup spojio je investiciju i društvenu mrežu, čime je eToro postao **jedan od najprepoznatljivijih fintech brendova** u svijetu.
 
 Tvrtka je dodatno ojačala svoj tehnološki segment predstavljanjem **AI analitičkog asistenta “Tori”**, koji koristi umjetnu inteligenciju za personalizirane investicijske preporuke, analizu tržišta i automatsko praćenje portfelja.
 
-> “Fokusirani smo na inovacije i proizvode koji donose stvarnu vrijednost našim korisnicima,” izjavio je suosnivač i CEO **Yoni Assia**. “AI nam omogućuje da bolje razumijemo tržište i pomognemo investitorima donositi pametnije odluke.”
+> “Fokusirani smo na inovacije i proizvode koji donose stvarnu vrijednost našim korisnicima,” izjavio je suosnivač i CEO **Yoni Assia**.  
+> “AI nam omogućuje da bolje razumijemo tržište i pomognemo investitorima donositi pametnije odluke.”
 
-U listopadu su korisnici eTora izvršili **5 milijuna kripto transakcija**, što predstavlja rast od 84% u odnosu na isti period prošle godine. Prosječna ulaganja i broj aktivnih korisnika također su značajno porasli, što potvrđuje **trend povratka povjerenja u tržište** nakon nestabilnog prvog polugodišta.
+U listopadu su korisnici eTora izvršili **5 milijuna kripto transakcija**, što predstavlja rast od 84% u odnosu na isti period prošle godine.  
+Prosječna ulaganja i broj aktivnih korisnika također su značajno porasli, što potvrđuje **trend povratka povjerenja u tržište** nakon nestabilnog prvog polugodišta.
 
 eToro danas djeluje u više od **100 zemalja**, ima milijune korisnika i stalno širi ponudu na području **AI, tokeniziranih financijskih instrumenata** i **kopiranja portfelja** vodećih ulagača.
 
