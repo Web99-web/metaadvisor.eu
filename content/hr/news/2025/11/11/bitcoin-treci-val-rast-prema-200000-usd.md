@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin ponovno u zoni između 102 i 103 tisuće USD — analitičari predviđaju ‘Treći val’ rast prema 200.000 USD"
+title: "Bitcoin prema 200.000 USD — nova ‘Treća faza' rasta"
 slug: "bitcoin-treci-val-rast-prema-200000-usd"
 date: 2025-11-12T09:15:00Z
 category: "crypto"
@@ -20,7 +20,12 @@ summary: "Bitcoin se konsolidira između 102 i 103 tisuće USD dok analitičari 
 Cijena Bitcoina (BTC) ponovno se kreće u uskom rasponu između **102.000 i 103.000 USD**, nakon što je u ponedjeljak nakratko dosegnula 107.000 USD.  
 Prema podacima s burzi, najveća svjetska kriptovaluta pala je oko **2,5% u protekla 24 sata**, brišući dobitke potaknute [Trumpovim planom o “tarifnoj dividendi”](https://metaadvisor.eu/hr/news/trump-dividenda-2000-dolara-utjecaj-na-kripto/) i optimizmom oko završetka američke blokade državnog proračuna.
 
-<a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1" target="_blank" rel="noopener noreferrer"><img src="/images/trade-bitget-btn.png" alt="Trade on Bitget" width="220"/></a>
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block; font-size:15px;">
+     💰 Unlock a welcome gift worth up to 6200 USDT on Bitget
+  </a>
+</p>
 
 Ethereum (ETH) je pao 2,3% ispod 3.500 USD, dok su veći altcoini poput **Solane (SOL)**, **XRP-a** i **SUI tokena** zabilježili padove od 4–5%.  
 Pad se prelijeva i na **kripto-dionice**, osobito među bitcoin rudarskim tvrtkama koje su do sada profitirale od AI-booma.  
@@ -32,7 +37,7 @@ Nakon nekoliko mjeseci uzleta, investitori očito ulaze u fazu **profit-takinga*
 
 ---
 
-### 🧭 Analitičari predviđaju “Wave III” — rast do 200.000 USD?
+### 🧭 Analitičari predviđaju “Wave III” — rast do 200.000 USD
 
 Unatoč korekciji, dugoročna struktura Bitcoina ostaje bikovska (bullish).  
 Analitičar **Gert Van Lagen** tvrdi da se završava korektivna faza “Wave II” i da je pred nama **treći impulsni val**, tzv. *Wave III ekspanzija*, koji bi — ako se ponovi obrazac iz 2019. i 2023. — mogao pogurati cijenu Bitcoina prema **200.000 ili čak 240.000 USD**.
@@ -48,18 +53,15 @@ Makroekonomski analitičari ističu da bi opći oporavak američkog gospodarstva
 
 Prema podacima objavljenim na X profilu **Crypto Rover**, isti kripto “whale” koji je ranije shortao Bitcoin prije Trumpove najave o tarifnim dividendama, sada je otvorio **ogromnu long poziciju od 195,7 milijuna USD na Ethereumu (ETH)**.  
 Ovaj potez mnogi analitičari vide kao signal mogućeg obrata trenda i početka nove faze institucionalne akumulacije.  
-➡️ Detaljnije o tome u našoj ranijoj priči: [Bitcoin whale otvara long od 195,7 milijuna USD](https://metaadvisor.eu/hr/news/bitcoin-whale-kit-long-1957-eth/)
-
-U trenutku kada retail investitori panično prodaju, “pametni novac” često ulazi u long pozicije — što dodatno učvršćuje tezu o pripremi tržišta za sljedeći rast.
+➡️ Detaljnije: [Bitcoin whale otvara long od 195,7 milijuna USD](https://metaadvisor.eu/hr/news/bitcoin-whale-kit-long-1957-eth/)
 
 ---
 
 ### 🧩 Konsolidacija i institucionalno preslagivanje
 
 Tržišna slika sve više podsjeća na **kontroliranu konsolidaciju**: slabiji igrači izlaze, dok veliki **ETF-ovi i institucionalni fondovi** učvršćuju svoje pozicije.  
-Rastući obujam institucionalnih ulaganja kroz **Bitcoin ETF-ove** (BlackRock, Fidelity, VanEck) čini tržište otpornijim na nagle padove, jer takvi fondovi ne reagiraju impulzivno, već strateški koriste padove za akumulaciju.
-
-Osim toga, regulatori sve češće odobravaju nove proizvode i modele, poput nedavne odluke [IRS-a o poreznom tretmanu stakinga i zaključavanja ETF fondova](https://metaadvisor.eu/hr/news/irs-porezna-odobrio-staking-zakljucavanje-kripto-etf-fondova/), što signalizira daljnju institucionalizaciju tržišta.
+Rastući obujam institucionalnih ulaganja kroz **Bitcoin ETF-ove** (BlackRock, Fidelity, VanEck) čini tržište otpornijim na nagle padove, jer takvi fondovi ne reagiraju impulzivno, već strateški koriste padove za akumulaciju.  
+Nedavna odluka [IRS-a o poreznom tretmanu stakinga i zaključavanja ETF fondova](https://metaadvisor.eu/hr/news/irs-porezna-odobrio-staking-zakljucavanje-kripto-etf-fondova/) dodatno učvršćuje institucionalni okvir.
 
 Zbog toga sve više analitičara smatra da su razine između **100 i 103 tisuće USD nova zona podrške** — a da bi upravo iz te zone mogao započeti **novi val rasta prema 200.000 USD i više**.
 
@@ -73,7 +75,6 @@ Ako “Wave III” zaista započne u nadolazećim tjednima, to bi mogao biti po�
 
 ---
 
-### ⚠️ Disclaimer
-
-Ovaj članak ima isključivo informativnu svrhu i ne predstavlja financijski ili investicijski savjet.  
-Tržišta kriptovaluta izrazito su volatilna, a svaka odluka o ulaganju treba biti temeljena na vlastitom istraživanju i procjeni rizika.
+<p style="font-size:13px; color:#666; line-height:1.5; margin-top:25px;">
+⚠️ Ovaj članak ima isključivo informativnu svrhu i ne predstavlja financijski ili investicijski savjet. Tržišta kriptovaluta izrazito su volatilna, a svaka odluka o ulaganju treba biti temeljena na vlastitom istraživanju i procjeni rizika.
+</p>
