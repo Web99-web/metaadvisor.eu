@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin prema 200.000 USD — nova ‘Treća faza' rasta"
 slug: "bitcoin-treci-val-rast-prema-200000-usd"
-date: 2025-11-12T09:15:00Z
+date: 2025-11-11T09:15:00Z
 category: "crypto"
 translationKey: "bitcoin_wave3_2025_11"
 source: "CoinDesk, Cointelegraph, MetaAdvisor.eu"
