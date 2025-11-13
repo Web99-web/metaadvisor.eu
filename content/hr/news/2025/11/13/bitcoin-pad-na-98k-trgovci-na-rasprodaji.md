@@ -15,7 +15,13 @@ image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "crypto", "market", "btc", "analiza", "likvidacije"]
 summary: "Bitcoin pada ispod 100.000 USD nakon vala likvidacija vrijednog 1,3 milijarde USD. Trgovci se pitaju — je li ovo kraj bull runa ili tek prilika stoljeća za kupovinu na rasprodaji?"
 ---
-
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     💰 Unlock a welcome gift worth up to 6200 USDT on Bitget
+  </a>
+</p>
+---
 💥 **Bitcoin se ponovno našao pod pritiskom prodaje.**  
 Cijena je pala ispod **98.000 USD**, što označava najnižu razinu u posljednjih nekoliko tjedana i treći ozbiljniji pad u samo nekoliko mjeseci.
 
