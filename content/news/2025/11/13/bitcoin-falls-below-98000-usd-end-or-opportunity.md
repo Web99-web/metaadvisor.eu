@@ -45,7 +45,7 @@ On the flip side, if Bitcoin decisively breaks below 98K, analysts see **$92,000
 ### 🚀 “Wave 3” scenario still alive
 
 Despite the short-term weakness, some analysts still believe in a **third growth wave** that could drive Bitcoin toward **$200,000**.  
-Learn more here 👉 [**Bitcoin on $200K: Wave 3 Growth Phase**](https://metaadvisor.eu/de/news/bitcoin-auf-200000-usd-wave3-wachstumsphase/)
+Learn more here 👉 [**Bitcoin on $200K: Wave 3 Growth Phase**](https://metaadvisor.eu/news/bitcoin-toward-200000-usd-wave3-growth-phase/)
 
 ---
 
