@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin se ruši u 'ekstremni strah' — ali negativni skew pokazuje da možda gledamo ranu fazu dna"
+title: "Bitcoin se ruši u 'ekstremni strah' — ali negativni skew tržišni signali pokazuju približavanje zoni mogućeg dna"
 slug: "bitcoin-ekstremni-strah-negativni-skew-analiza"
 date: 2025-11-15T18:32:00Z
 category: "crypto"
