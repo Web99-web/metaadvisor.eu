@@ -1,6 +1,6 @@
 ---
 title: "Ako kvantno računalstvo probije granice — što se događa sa Satoshijevim Bitcoinom?"
-slug: "kvantno-racunalstvo-satoshi-bitcoin-sigurnost"
+slug: "kvantno-racunalo-satoshi-bitcoin-sigurnost"
 date: 2025-11-15T14:00:00Z
 category: "crypto"
 translationKey: "08c55d2d1de6b1a2fd44fafbd730ed66"
