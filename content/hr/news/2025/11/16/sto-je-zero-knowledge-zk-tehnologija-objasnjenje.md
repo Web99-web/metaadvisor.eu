@@ -1,210 +1,141 @@
 ---
-title: "Što je Zero-Knowledge (ZK) tehnologija — i zašto će biti najveći kripto trend do 2030.?"
-slug: "sto-je-zero-knowledge-zk-tehnologija-objasnjenje"
-date: 2025-11-16T20:15:00Z
+title: "Što je Zero-Knowledge (ZK) tehnologija — i zašto će postati najveći kripto trend do 2030.?"
+slug: "zero-knowledge-zk-tehnologija-objasnjenje-kriptovalute"
+date: 2025-11-16T21:20:00Z
 category: "crypto"
-translationKey: "zk-tech-overview-001"
+translationKey: "zk-article-v2-metaadvisor"
 source: "MetaAdvisor.eu"
-source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Zero-knowledge-ZK.png"
-featured_image: "/images/Zero-knowledge-ZK.png"
-image: "/images/Zero-knowledge-ZK.png"
-thumbnail: "/images/Zero-knowledge-ZK.png"
-image_alt: "Zero-knowledge ZK technology explained"
+image_url: "/images/Zero-knowladgeZK.png"
+featured_image: "/images/Zero-knowladgeZK.png"
+image: "/images/Zero-knowladgeZK.png"
+thumbnail: "/images/Zero-knowladgeZK.png"
+image_alt: "Zero-knowledge ZK tehnologija objašnjena jednostavno"
 image_credit: "MetaAdvisor.eu"
-tags: ["zk", "zero-knowledge", "crypto", "privatnost", "blockchain", "ethereum", "scaling", "identity", "ai", "zkrollups", "zkproofs", "security", "mastercard"]
-summary: "Zero-knowledge (ZK) tehnologija postaje najvažniji trend u kriptu i digitalnoj sigurnosti — jer omogućuje dokazivanje istine bez otkrivanja podataka."
+tags: ["zk", "zero knowledge", "privatnost", "kriptovalute", "eth", "ethereum", "ai", "mastercard", "identitet", "blockchain", "security", "privacy"]
+summary: "Zero-knowledge (ZK) omogućuje dokazivanje istine bez otkrivanja podataka. Evo kako radi, zašto je ogroman trend i tko ga već koristi."
 ---
 
-<div class="cta">
-  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank">
-  💰 Unlock a welcome gift worth up to 6200 USDT on Bitget
+Zero-knowledge tehnologija (ZK) sve se brže pretvara u jedan od glavnih tehnoloških trendova modernog interneta. Analitičari sve češće procjenjuju da će ZK u periodu 2025.–2030. imati jednak ili veći utjecaj nego DeFi i AI — jer rješava najveći problem današnjeg digitalnog svijeta: gubitak privatnosti i kontrolu nad osobnim podacima.
+
+Danas je blockchain transparentan do krajnosti. Svaka transakcija, iznos, adresa i interakcija vidljivi su svima. Praktično sve što napravimo na lancu postaje dio javnog arhiva koji se nikad ne briše. Za neke je to revolucija, ali za većinu korisnika upravo to predstavlja problem. ZK unosi ravnotežu: omogućuje da se provjeri istina — bez otkrivanja samih podataka.
+
+---
+
+## **Kako objasniti ZK na način da svatko razumije? Priča o sefu.**
+
+Zamisli da stojiš ispred sefa s PIN kodom. Želiš dokazati prijatelju da PIN znaš, ali ne želiš otkriti broj. Jednostavno upišeš PIN — sef se otvori — i to je sve.
+
+Prijatelj vidi rezultat.  
+Sef je otvoren.  
+Dakle, PIN znaš.  
+
+Ali on nikada ne sazna koji.
+
+To je srž ZK tehnologije:  
+**dokazuješ istinu bez otkrivanja tajne.**
+
+Na blockchainu to znači ovo:  
+mreža zna da je transakcija valjana, da imaš dovoljno sredstava i da nisi ništa krivotvorio — ali ne zna iznos, adresu, podatke ili identitet sudionika. Rezultat je provjeren, ali privatnost ostaje netaknuta.
+
+---
+
+## **Kako ZK primjenjuje stvarne podatke — ali ne otkriva ništa?**
+
+ZK se ne temelji na nagađanju.  
+Podaci su stvarni, potpisani od autoriteta, ali skriveni.
+
+Primjerice:
+
+– možeš dokazati da si **18+**, bez pokazivanja osobne  
+– možeš dokazati da tvoj wallet ima **više od određenog iznosa**, bez otkrivanja bilance  
+– možeš dokazati poreznu urednost, bez slanja poreznog rješenja  
+– možeš dokazati pravo pristupa, bez lozinki
+
+ZK ne pokazuje podatke, već samo **matematički dokaz da je izjava istinita**.
+
+---
+
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     💰 Trguj BTC-om na Bitgetu — osvoji do 6200 USDT bonusa
   </a>
-  <p>Join Bitget today and start trading with up to 80% APR in your first 3 days.</p>
-</div>
-
-Zero-knowledge (ZK) tehnologija polako postaje najvažniji razvojni smjer u svijetu kripta.  
-Sve više analitičara tvrdi da će **ZK biti sljedeći “DeFi / AI hype cycle”**, jer rješava najveće probleme blockchaina — privatnost, skaliranje, sigurnost, regulaciju i digitalni identitet.
-
-U ovom članku jednostavno objašnjavamo što je ZK, kako funkcionira i zašto će imati ogroman utjecaj na kripto, AI i globalne financijske sustave.
-
----
-
-# 🔍 Što je Zero-Knowledge (ZK)?
-
-Najjednostavnije:
-
-> **Zero-knowledge omogućuje da dokažeš da je neka tvrdnja istinita — bez otkrivanja podataka koji potvrđuju tu tvrdnju.**
-
-To je kao sef s PIN-om:
-
-- otvoriš sef  
-- prijatelj vidi da se otvorio  
-- ali **ne vidi PIN**
-
-On zna da govoriš istinu — ali ne zna tajnu.
-
-Baš to radi ZK na blockchainu.
-
----
-
-# 🔐 Kako ZK radi na blockchainu?
-
-ZK omogućuje da mreža matematički potvrdi da je transakcija valjana:
-
-✔ imaš dovoljno sredstava  
-✔ transakcija nije dvostruka  
-✔ pravila protokola su poštovana  
-
-…ali bez otkrivanja:
-
-❌ tvoje adrese  
-❌ druge adrese  
-❌ iznosa  
-❌ povijesti transakcija  
-
-Mreža vidi “sef se otvorio” — ali ne vidi PIN.
-
-To je razlog zašto ZK mijenja sve.
-
----
-
-# 🧠 Kako ZK dokazuje stvari bez otkrivanja podataka?
-
-Vrlo jednostavno:
-
-➡️ ZK *ne otkriva podatke*  
-➡️ ZK samo dokazuje da *potpisani podaci zadovoljavaju uvjet*
-
-Primjeri koji imaju smisla:
-
-### ✔ Dokaz da imaš više od 3.000 USDT  
-bez prikazivanja stanja walleta.
-
-### ✔ Dokaz da si stariji od 18  
-bez prikazivanja imena, dokumenta ni datuma rođenja.
-
-### ✔ Dokaz da imaš pravo pristupa  
-bez otkrivanja lozinki ili identiteta.
-
-Sve ostaje skriveno — vidi se samo *je li izjava istinita*.
-
----
-
-# 🧩 Dvije glavne vrste ZK tehnologije
-
-### **1) ZK-SNARK**
-- vrlo brzi  
-- kompaktni  
-- koriste ih većina današnjih projekata  
-
-### **2) ZK-STARK**
-- sigurniji  
-- otporniji na manipulaciju  
-- ne zahtijevaju “trusted setup”
-
-Obje varijante rade isti posao — dokazuju istinu bez otkrivanja podataka.
-
----
-
-# 🚀 Gdje se koristi ZK danas?
-
-## **1) Ethereum Layer-2 skaliranje**
-- zkSync  
-- StarkNet  
-- Polygon zkEVM  
-
-ZK omogućuje brže i jeftinije transakcije bez žrtvovanja sigurnosti.
-
----
-
-## **2) Privatni kripto transferi**
-- Nocturne  
-- Railgun  
-- Renegade  
-- Aztec  
-
-Transakcije postaju privatne — ali i dalje potpuno valjane i sigurne.
-
----
-
-## **3) Digitalni identitet (ZK-ID)**
-
-Primjeri:
-
-✔ dokaz da si stanovnik EU  
-✔ dokaz da si platio porez  
-✔ dokaz da ispunjavaš uvjet (dob, prihod, status)
-
-Sve to — bez izlaganja osobnih podataka.
-
----
-
-## **4) AI + privatnost**
-
-ZK omogućuje da:
-
-➡️ AI obrađuje podatke  
-➡️ daje rezultat  
-➡️ ali nikada ne vidi tvoje podatke
-
-Ogroman trend koji tek počinje.
-
----
-
-## **5) Tradicionalne financije: Mastercard**
-
-Jedan od najjačih dokaza ozbiljnosti ZK tehnologije:
-
-👉 **Mastercard već koristi Zero-Knowledge dokaze**  
-za provjeru transakcijskih limita, autorizaciju i sigurnosne provjere.
-
-Bez prikazivanja osjetljivih informacija.
-
-Ako institucija regulirana na razini SWIFT-a koristi ZK —  
-jasno je da ZK *nije alat kriminala*, nego budući standard globalne sigurnosti.
-
----
-
-# 🛡️ Zašto je ZK važan za obične ljude?
-
-✔ štiti privatnost korisnika  
-✔ zaustavlja korporativno praćenje  
-✔ štiti investitore od praćenja walleta  
-✔ omogućuje privatne DeFi strategije  
-✔ štiti novinare, aktiviste i građane  
-✔ vraća privatnost digitalnim plaćanjima  
-
-ZK je ono što bi internet trebao biti — siguran i privatan.
-
----
-
-# 🔮 Budućnost ZK tehnologije
-
-Do 2030. gotovo svi blockchaini usvajat će ZK:
-
-- Ethereum prelazi na ZK-rollup arhitekturu  
-- DeFi će koristiti ZK za zaštitu strategija  
-- AI će se povezivati sa ZK za privatne modele  
-- ZK-ID bit će temelj digitalne identifikacije  
-
-Zato sve više analitičara kaže:
-
-> **ZK tehnologija bit će najveći kripto trend u sljedećem ciklusu.**
-
----
-
-# 📝 Naš osvrt (MetaAdvisor)
-
-- ZK je tehnologija koja donosi privatnost bez žrtvovanja sigurnosti  
-- Mastercard je dokaz da ZK prihvaća i tradicionalni financijski sektor  
-- ZK će postati ključan za AI, identitet i reguliranu infrastrukturu  
-- Kripto industrija tek ulazi u ZK eru — ovo je početak velikog trenda  
-
----
-
-<p style="font-size:13px; color:#777; margin-top:25px;">
-Ovaj članak služi isključivo u informativne svrhe i ne predstavlja investicijski savjet.
-Tržišta kriptovaluta izrazito su volatilna i svaki ulagač mora sam procijeniti rizik.
 </p>
+
+---
+
+## **Mastercard koristi ZK — i to mijenja percepciju**
+
+Kada prosječan korisnik čuje “ZK privatnost”, često pomisli na kriminalce, mixere ili pokušaje skrivanja tragova. Ali tada se pojavi informacija koja mijenja sve: **Mastercard**, jedna od najvećih financijskih institucija na svijetu, već koristi zero-knowledge tehnologiju.
+
+Mastercard koristi ZK u pozadini svojih sustava kako bi provjerio transakcijske limite i sigurnosne parametre — bez otkrivanja privatnih podataka korisnika.  
+Ako Mastercard koristi ZK, onda je jasno:  
+**ovo nije tehnologija skrivanja, već tehnologija zaštite.**
+
+Zato regulatori ZK ne mogu jednostavno “zabraniti”.  
+Brendovi koje koristimo svakog dana već je koriste.
+
+---
+
+## **Tko sve već koristi ZK tehnologiju — i zašto?**
+
+### **Ethereum ekosustav**  
+Layer-2 mreže poput zkSynca, StarkNeta i Polygon zkEVM-a koriste ZK kako bi Ethereum postao brži, jeftiniji i skalabilniji, bez žrtvovanja sigurnosti. Zahvaljujući ZK-rollupovima, goleme količine transakcija mogu se provjeriti u jednoj, komprimiranoj matematičkoj tvrdnji.
+
+### **Privatni DeFi i transakcije**  
+Projekti poput Railguna, Azteca, Nocturnea i Renegadea omogućuju privatne transakcije koje ostaju valjane, ali ne otkrivaju sudionike ni iznose.  
+To omogućuje, primjerice, trgovanje bez izlaganja strategija ili zaštitu portfelja od botova i MEV napada.
+
+### **Digitalni identitet (ZK-ID)**  
+Države, banke i Web3 platforme testiraju ZK digitalne iskaznice — identiteti koji ne otkrivaju osobne podatke.  
+Možeš dokazati:
+
+– da si stanovnik EU  
+– da si stariji od 18  
+– da imaš pravo pristupa nekom servisu  
+
+…bez slanja dokumenata ikome.
+
+### **AI + privatnost podataka**  
+Najveći problem s AI-om danas je privatnost.  
+ZK omogućuje da AI model analizira medicinski karton — bez da ga ikada vidi.
+
+To je ogroman korak naprijed za medicinu, financije, osiguranje i sve industrije koje koriste osjetljive podatke.
+
+### **Korporativni i poslovni modeli**  
+ZK omogućuje tvrtkama da dokazuju regulatornu usklađenost bez dijeljenja svoje interna dokumentacije.  
+Auditi, izvještaji, financije — sve se može dokazati bez izlaganja poslovnih tajni.
+
+---
+
+## **Zašto će ZK biti sljedeći mega-trend?**
+
+ZK rješava sve ključne probleme blockchaina u jednom potezu:
+
+– privatnost korisnika  
+– skalabilnost mreža  
+– regulatornu usklađenost  
+– sigurnost identiteta  
+– zaštitu poslovnih podataka  
+– interoperabilnost među lancima  
+
+Zato mnogi analitičari već tvrde da će ZK biti **sljedeći veliki val** koji će obilježiti kripto razdoblje 2025.–2030.
+
+U svijetu u kojem vlade grade digitalne nadzorne sustave, korporacije prate svaki klik, a AI modeli neprestano gutaju privatne informacije — ZK je jedina tehnologija koja spaja privatnost, sigurnost i transparentnost u isto vrijeme.
+
+---
+
+## **Naš osvrt (MetaAdvisor)**
+
+Zero-knowledge tehnologija više nije samo kripto-buzzword.  
+Ona postaje temelj nove generacije internetske sigurnosti.  
+Njezina primjena proširila se daleko izvan blockchaina — u AI, financije, identitet i korporativnu sigurnost.  
+Smatramo da će ZK postati jedan od ključnih tehnoloških standarda sljedećeg desetljeća, kao SSL u ranim danima interneta.  
+Upravo zato vjerujemo da će ZK biti jedna od glavnih sila sljedećeg bull runa.
+
+---
+
+### Disclaimer
+Ovaj članak služi isključivo u informativne svrhe i ne predstavlja investicijski savjet. Tržišta kriptovaluta izrazito su volatilna i odluke o ulaganju moraju se temeljiti na osobnom istraživanju i razumijevanju rizika.
+
