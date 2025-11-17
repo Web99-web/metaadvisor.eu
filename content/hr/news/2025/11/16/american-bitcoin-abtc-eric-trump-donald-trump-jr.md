@@ -14,7 +14,7 @@ thumbnail: "/images/American-bitcoin1.png"
 image_alt: "American Bitcoin"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "american bitcoin", "trump", "eric trump", "donald trump jr", "crypto stocks", "abtc", "scaramucci", "ton", "solana", "btc", "eth", "kripto", "crypto mining", "nasdaq", "usa crypto", "politics", "web3"]
-summary: "American Bitcoin (ABTC) postala je najkontroverznija kripto-dionica u SAD-u, zahvaljujući povezanosti s Trumpovom obitelji, Scaramuccijevim investicijama i novom političko-tehnološkom narativu koji želi pozicionirati SAD kao globalnog Bitcoin lidera."
+summary: "American Bitcoin (ABTC) postala je najkontroverznija kripto-dionica u SAD-u, zahvaljujući povezanosti s Trumpovom obitelji, Scaramuccijevim investicijama i novom političko-tehnološkom narativu."
 ---
 
 <div class="cta">
@@ -24,124 +24,112 @@ summary: "American Bitcoin (ABTC) postala je najkontroverznija kripto-dionica u 
   <p>Join Bitget today and start trading with up to 80% APR in your first 3 days.</p>
 </div>
 
-**American Bitcoin Corp (ABTC)** posljednjih je tjedana jedna je od najpraćenijih dionica u kripto sektoru — ne zbog tehnologije, nego zbog politike.  
-Kompanija je **povezana sa sinovima Donalda Trumpa — Ericom Trumpom i Donaldom Trumpom Jr.**, što je izazvalo ogroman interes institucionalnih ulagača, medija i kripto zajednice.
-
-Otkako se saznalo tko stoji iza projekta, ABTC je postao simbol nove „američke Bitcoin strategije“ koja kombinira politički utjecaj, rudarenje i narativ nacionalne tehnološke dominacije.
+**American Bitcoin Corp (ABTC)** posljednjih je tjedana jedna od najpraćenijih dionica u kripto sektoru — i to zbog politike koliko i zbog tehnologije.  
+Projekt je **povezan sa sinovima Donalda Trumpa — Ericom Trumpom i Donaldom Trumpom Jr.** što ga odmah svrstava među najkontroverznije dionice godine.  
+S obzirom na to da se dionica može kupiti i putem platformi kao što je **eToro**, o kojoj smo pisali u našem detaljnom vodiču o društvenom trgovanju, interes investitora dodatno raste.
 
 ---
 
 ## 🇺🇸 Što je zapravo American Bitcoin (ABTC)?
 
-American Bitcoin Corp je kompanija za rudarenje Bitcoina koja je na burzu ušla putem **reverse mergera**, bržeg alternativnog modela za javno listanje tvrtki.
+American Bitcoin Corp je kompanija za rudarenje Bitcoina koja je na burzu ušla putem **reverse mergera**, strategije koja tech i crypto firmama omogućuje brže listanje bez klasičnog IPO procesa.
 
-Za razliku od klasičnih rudara, ABTC se brendira kao:
+Za razliku od drugih rudara, ABTC gradi identitet kao:
 
 - „američki Bitcoin za američku ekonomiju“  
-- „strateška nacionalna infrastruktura”  
-- „domaća proizvodnja Bitcoina koja ostaje u SAD-u”
+- „strateški nacionalni resurs“  
+- „domaća proizvodnja Bitcoina“
 
-Ovakav narativ sve više dobiva na snazi među dijelom političkog spektra koji želi pozicionirati Bitcoin kao geopolitički resurs.
+Ovaj narativ sve više dobiva na snazi u političkim krugovima koji žele integrirati energetiku, tehnologiju i Bitcoin u širi geopolitički kontekst.
 
 ---
 
 ## 👔 Trumpovi sinovi i politička težina projekta
 
-U projekt su uključeni **Eric Trump** i **Donald Trump Jr.**, što mu daje veliku političku vidljivost i stratešku poruku:  
-SAD želi preuzeti vodeću globalnu ulogu u rudarenju Bitcoina.
+Sudjelovanje **Erica Trumpa** i **Donalda Trumpa Jr.** daje projektu posebnu političku vidljivost.  
+Ovo je prvi veliki Bitcoin rudarski projekt čija je jezgra direktno povezana s američkim političkim vrhom.
 
-Politička uključenost čini ABTC iznimno zanimljivim investitorima koji prate spajanje:
-
-- regulacije  
-- politike  
-- energetike  
-- i kripto industrije
-
-Ovo je prvi veliki rudarski projekt povezan s osobama iz samog vrha američke politike.
+Za investitore to znači i priliku i rizik jer politička scena može snažno utjecati na kretanje cijene.
 
 ---
 
-## 💼 Scaramucci: bivši dužnosnik Trumpove administracije i investitor u TON
+## 💼 Scaramucci: bivši dužnosnik Trumpove administracije i poveznica s TON ekosustavom
 
-Još jedan zanimljiv sloj priče dolazi od **Anthonyja Scaramuccija**, osnivača SkyBridge Capitala, koji je 2017. bio **direktor komunikacija Bijele kuće u Trumpovoj administraciji**.
+Dodatnu zanimljivost donosi **Anthony Scaramucci**, bivši direktor komunikacija u Bijeloj kući za vrijeme Trumpove administracije.
 
-Scaramucci je dugo aktivan u Web3 prostoru i povezan je s ranim ulagačkim strukturama vezanim uz **TON ekosustav**.
+Scaramucci je također povezan s ranim investicijama u **TON ekosustav**, što smo detaljno obradili u našem članku o biomedicini, Web3-u i TON blockchainu:
 
-To ABTC-u daje dodatnu dimenziju: politički utjecaj + Web3 iskustvo + financijska moć.
+👉 *Poveznica: “Biomedicina, blockchain i Web3 – kako se financira razvoj”*  
+*(interni MetaAdvisor članak na: /hr/news/biomedicina-blockchain-crypto-financiranje-razvoj/)*
+
+Njegov Web3 background dodatno povećava važnost projekta.
 
 ---
 
 ## 💰 Scaramucci obitelj ulaže preko 100 milijuna USD
 
-Najveću pozornost izazvala je informacija da je **Solari Capital**, fond kojim upravlja **AJ Scaramucci**, uložio **više od 100 milijuna USD** u American Bitcoin.
+Najveći šok došao je otkrivanjem da je **Solari Capital**, fond koji vodi AJ Scaramucci, uložio **više od 100 milijuna USD** u American Bitcoin.
 
-Sudjelovali su i drugi poznati ulagači:
+Uz njih su sudjelovali i:
 
 - Tony Robbins  
 - Charles Hoskinson (Cardano)  
 - Grant Cardone  
 - Peter Diamandis  
-- Anthony Scaramucci (manjim iznosom)
+- Anthony Scaramucci (s manjim iznosom)
 
-Ovo je jedna od najneobičnijih i najraznolikijih investicijskih grupa u kripto industriji 2025.
+Ovo je jedna od najneobičnijih kombinacija ulagača u 2025.
 
 ---
 
 ## 📈 Gdje možeš kupiti ABTC?
 
-Važno: **ABTC je dionica na NASDAQ-u. Nije token.**
+Važno: **ABTC je dionica – nije kriptovaluta.**
 
-Ticker: **ABTC**
-
-Može se kupiti preko:
+Ticker: **ABTC**  
+Kotira na **NASDAQ-u**, a kupiti ju možeš preko:
 
 - Trading212  
 - XTB  
-- eToro *(opisali smo ga u članku o društvenom trgovanju)*  
+- eToro *(uz referencu na naš vodič)*  
 - Interactive Brokers  
 - Revolut (ovisno o dostupnosti)
-
-Kupnja je identična kao za Tesla, Amazon ili Nvidia dionice.
 
 ---
 
 ## ⚡ Kretanje cijene i volatilnost
 
-American Bitcoin je izrazito volatilna dionica.  
-Cijena snažno reagira na:
+Cijena dionice snažno reagira na:
 
-- kretanje cijene Bitcoina  
-- političke vijesti iz SAD-a  
-- izjave Trumpove obitelji  
-- komentare Scaramuccija  
-- institucionalne tokove  
-- medijsku pažnju
+- kretanje Bitcoina  
+- političke izjave  
+- komentare Trumpove obitelji  
+- medijsku pozornost  
+- institucionalne tokove
 
-Ovo je tip dionice koja u jednom danu može napraviti +25% ili −20%.
+ABTC je izrazito volatilna dionica, što je čini atraktivnom, ali i rizičnom.
 
 ---
 
 ## ⚠️ Rizici ulaganja
 
-- nova i neprovjerena kompanija  
+- mlada kompanija  
 - ekstremna ovisnost o cijeni Bitcoina  
-- visoki politički rizik  
-- rani investitori drže velike pakete  
-- još nema dokazanu dugoročnu profitabilnost  
-
-ABTC je čisto **high-volatility play** — za investitore koji razumiju rizik.
+- politički rizik  
+- veliki paketi u rukama ranih ulagača  
+- nepoznata dugoročna profitabilnost  
 
 ---
 
 ## 🧠 Naš osvrt (Metaadvisor):
 
-- ABTC je najjači „narativni rudar“ u SAD-u.  
-- Politički faktor može biti ogroman plus — ali i golemi minus.  
-- Scaramuccijev ulazak od 100M+ USD daje dodatnu težinu projektu.  
-- Ovakve dionice mogu biti eksplozivne, ali vrlo opasne za neiskusne ulagače.  
-- Ovo je projekt koji će 2025./2026. vjerojatno biti u centru medijske pažnje.
+- ABTC je snažan političko-narrativni projekt.  
+- Scaramuccijeve veze s TON-om i Trumpom daju posebnu dimenziju.  
+- Ovo je jedna od najvolatilnijih dionica 2025.  
+- Može eksplodirati — ali i potonuti.  
+- Investitori moraju biti svjesni političkog rizika.
 
 ---
 
-### Disclaimer  
-Ovaj članak služi isključivo u informativne svrhe i ne predstavlja investicijski savjet. Kripto i kripto-povezane dionice izrazito su volatilne i rizične.
+### <p style="font-size:13px; color:#999; font-family:Georgia,serif;">Disclaimer  
+Ovaj članak služi isključivo u informativne svrhe i ne predstavlja investicijski savjet. Kripto i kripto-povezane dionice izrazito su volatilne i rizične.</p>
