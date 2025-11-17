@@ -12,10 +12,10 @@ image_url: "/images/Upbit-Dunamu-300.png"
 featured_image: "/images/Upbit-Dunamu-300.png"
 image: "/images/Upbit-Dunamu-300.png"
 thumbnail: "/images/Upbit-Dunamu-300.png"
-image_alt: "Upbit i Dunamu ostvaruju 300% rasta dobiti"
+image_alt: "Upbit i Dunamu ostvaruju rast dobiti od 300% u Q3"
 image_credit: "Metaadvisor.eu"
-tags: ["korea", "upbit", "dunamu", "profit", "crypto", "bitcoin", "exchange", "market", "asia", "regulation"]
-summary: "Najveća korejska kripto burza Upbit i njen operator Dunamu prijavili su rast dobiti od preko 300% u Q3. Što je potaknulo ovakav skok i kakve su posljedice za globalno tržište?"
+tags: ["korea", "upbit", "dunamu", "profit", "crypto", "bitcoin", "exchange", "asia", "market", "regulation"]
+summary: "Upbitov operator Dunamu prijavio je rast dobiti od preko 300% u Q3. Što stoji iza snažnog skoka i kako utječe na šire kripto tržište?"
 
 ---
 
@@ -26,57 +26,60 @@ summary: "Najveća korejska kripto burza Upbit i njen operator Dunamu prijavili 
   </a>
 </p>
 
-Najveća korejska kripto burza Upbit i njezin operator Dunamu objavili su iznimno snažne financijske rezultate za treći kvartal 2025., uključujući više od 300% rasta neto dobiti u odnosu na isto razdoblje prethodne godine. Ovaj eksplozivan skok naglašava povratak likvidnosti, rast interesa investitora i jačanje azijskog tržišta koje ponovno preuzima globalni utjecaj.
+Najveća korejska kripto burza **Upbit** i njezin operator **Dunamu** prijavili su snažan rast profitabilnosti u trećem kvartalu 2025., uključujući više od **300% godišnjeg rasta neto dobiti**. Ovo je jedan od najznačajnijih kvartalnih skokova u azijskom kripto sektoru ove godine.
 
-Dunamu je u Q3 ostvario 239 milijardi wona (oko 165 milijuna USD) neto dobiti, prema podacima lokalnog medija Chosun Biz, temeljenim na regulatornim prijavama korejskoj Financijskoj nadzornoj službi. Ovo predstavlja rast od više od 300% na godišnjoj razini i čak 145% na kvartalnoj.
+Prema podacima koje prenosi Chosun Biz, Dunamu je u Q3 ostvario **239 milijardi wona** neto dobiti (oko **165 milijuna USD**). Godinu ranije, u istom razdoblju, iznos je bio približno 40 milijuna USD.
 
-Prihodi su porasli na 266 milijuna USD (+35% QoQ), dok je operativna dobit skočila na 162 milijuna USD (+54% QoQ). Sve ključne metrike pokazuju snažan povratak aktivnosti na korejskom tržištu kriptovaluta.
+Uz to, konsolidirani prihodi porasli su na **266 milijuna USD**, što je oko 35% više nego u prethodnom kvartalu, dok je operativna dobit skočila na **162 milijuna USD** (rast od 54% QoQ). Sve ključne stavke — prihodi, operativna dobit i neto rezultat — pokazale su snažno poboljšanje.
 
-## 🇰🇷 Zašto je korejsko tržište toliko važno?
+## 🇰🇷 Zašto su Upbit i Dunamu toliko važni?
 
-Koreja je jedna od najaktivnijih kripto nacija:
+Upbit je dominantna burza u Južnoj Koreji, s udjelom većim od **80%** lokalnog tržišta. U zemlji s jednim od najaktivnijih kripto korisničkih baza na svijetu, kretanja na Upbitu često imaju širi utjecaj na likvidnost i raspoloženje investitora u cijeloj Aziji.
 
-- Upbit drži više od 80% lokalnog tržišta  
-- korejski retail ulagači poznati su po agresivnim altcoin rotacijama  
-- volatilnost na Upbitu često utječe na globalno tržište  
-- Koreja je povijesno najveći volumen za XRP, SAND, SOL, TON i mnoge druge tokene
+Korejski investitori poznati su po:
 
-Kad se Koreja “probudi”, cijelo tržište osjeti posljedice.
+- visokoj aktivnosti na altcoinima  
+- brzim rotacijama portfelja  
+- snažnom utjecaju na volumene za tokene poput XRP-a, SOL-a, SAND-a, TON-a i drugih  
 
-## 📈 Što je potaknulo rast Dunamua?
+Zbog toga se rezultati Dunamua smatraju relevantnima i izvan domaćeg tržišta.
 
-### 1) Povratak volumena  
-Nakon volatilnosti 2024., azijsko tržište snažno se oporavilo.
+## 📈 Što je potaknulo ovako snažan skok?
 
-### 2) Novi zakoni u SAD-u  
-Američki zakonodavni paket — Genius Act, Clarity Act i Anti-CBDC Bill — vraća institucionalno povjerenje.
+Prema podacima iz regulatornih prijava i medijskih izvješća:
 
-### 3) Rast globalnog optimizma  
-Poboljšana likvidnost, rast cijena Bitcoina i širenje regulacija potaknuli su institucionalne i retail ulagače na jače trgovanje.
+### • Povećana investitorska aktivnost  
+Tržište se stabiliziralo tijekom 2025., što je vraćalo povjerenje retail i institucionalnih investitora.
 
-## 🌏 Nisu samo oni rasli
+### • Pozitivan učinak američke regulative  
+Dunamu ističe da je nova regulacija u SAD-u, uključujući **Genius Act**, **Clarity Act** i **Anti-CBDC Bill**, doprinijela smanjenju nesigurnosti na globalnom tržištu.
 
-I druge velike kripto kompanije imale su snažne rezultate:
+### • Rast aktivnosti na globalnim tržištima  
+Snažniji interes institucija i veće sudjelovanje u trgovini digitalnom imovinom doveli su do viših prihoda za burze i operatere.
 
-- TeraWulf (SAD), bitcoin miner, udvostručio je prihode  
-- BitFuFu (Singapur), vodeći cloud-mining servis, objavio je snažan rast prihoda  
+## 🌍 Širi trend: i druge kripto kompanije rastu
 
-Sve ukazuje na novi val rasta u industriji.
+Prema dostupnim podacima, nekoliko velikih tvrtki u industriji također je prijavilo rast prihoda:
+
+- **TeraWulf** — američki bitcoin-miner, udvostručio prihode  
+- **BitFuFu** — singapurski cloud-mining servis, zabilježio snažan rast operativnih rezultata  
+
+Ovo upućuje na opći oporavak profitabilnosti u industriji digitalne imovine.
 
 ## 🧠 Objašnjenje pojmova
 
-**YoY** — usporedba istog razdoblja godinu ranije.  
+**YoY (Year-over-Year)** — usporedba rezultata s istim razdobljem prethodne godine.  
 **Q3** — treći kvartal (srpanj–rujan).  
-**Konsolidirani prihodi** — ukupni prihodi svih podružnica i povezanih tvrtki.
+**Konsolidirani prihod** — ukupni prihod svih povezanih tvrtki pod jednim operatorom.
 
 ## 📝 Naš osvrt (Metaadvisor):
 
-- Dunamu je potvrdio dominaciju Upbita u Aziji  
-- korejski volumen ponovno pokreće altcoin cikluse  
-- institucionalci se očito vraćaju na tržište  
-- Q3 podaci upućuju na jaču drugu polovicu 2025.  
-- ovo je važan indikator ranog bull-run signala
+- Dunamu potvrđuje status jedne od najprofitabilnijih azijskih kripto kompanija  
+- rast prihoda burzi može signalizirati jače tržišno kretanje u nadolazećem periodu  
+- Koreja ponovno igra važnu ulogu u altcoin volatilnosti  
+- institucionalni ulagači postupno se vraćaju  
+- Q3 rezultati jačaju tezu o snažnijem ulasku u bull fazu krajem 2025.
 
 <p style="font-size:12px; opacity:0.7; font-style:italic; margin-top:20px;">
-Ovaj članak služi isključivo u informativne svrhe i ne predstavlja investicijski savjet. Tržišta kriptovaluta izrazito su volatilna i svaka odluka o ulaganju mora se temeljiti na osobnom istraživanju.
+Ovaj tekst služi isključivo u informativne svrhe i ne predstavlja investicijski savjet. Tržišta kriptovaluta izrazito su volatilna i svaka odluka o ulaganju mora se temeljiti na osobnom istraživanju.
 </p>
