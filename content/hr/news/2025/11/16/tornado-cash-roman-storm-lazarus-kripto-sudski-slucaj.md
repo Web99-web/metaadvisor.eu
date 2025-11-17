@@ -94,5 +94,5 @@ Kombinacija faktora — kontrola nad UI-jem, učestale izmjene, zloupotreba od s
 - Slučaj postavlja pitanje tko zapravo snosi odgovornost za alat koji mogu koristiti i privatni korisnici i kriminalne organizacije.
 
 <div style="font-size:13px; color:#777; font-family:Georgia, serif; margin-top:25px;">
-Ovaj artikel služi isključivo u informativne svrhe i ne predstavlja investicijski savjet. Tržišta kriptovaluta izrazito su volatilna i svaka odluka o ulaganju mora se temeljiti na osobnom istraživanju i razumijevanju rizika.
+Ovaj članak služi isključivo u informativne svrhe i ne predstavlja investicijski savjet. Tržišta kriptovaluta izrazito su volatilna i svaka odluka o ulaganju mora se temeljiti na osobnom istraživanju i razumijevanju rizika.
 </div>
