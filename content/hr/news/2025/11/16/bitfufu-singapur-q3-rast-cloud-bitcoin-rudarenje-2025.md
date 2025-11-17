@@ -1,7 +1,7 @@
 ---
 title: "Singapurski BitFuFu udvostručio prihode u Q3 — cloud Bitcoin rudarenje u snažnom uzletu"
 slug: "bitfufu-singapur-q3-rast-cloud-bitcoin-rudarenje-2025"
-date: 2025-11-17T10:00:00Z
+date: 2025-11-16T10:00:00Z
 category: "news"
 translationKey: "bitfufu-q3-growth-2025-metaadvisor"
 source: "Cointelegraph"
