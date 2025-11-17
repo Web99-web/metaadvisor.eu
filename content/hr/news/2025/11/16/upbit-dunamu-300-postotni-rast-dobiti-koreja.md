@@ -1,3 +1,4 @@
+---
 title: "Korejski Upbit i Dunamu prijavljuju rast dobiti od 300% — što stoji iza eksplozije profita?"
 slug: "upbit-dunamu-300-postotni-rast-dobiti-koreja"
 date: 2025-11-16T10:06:33Z
