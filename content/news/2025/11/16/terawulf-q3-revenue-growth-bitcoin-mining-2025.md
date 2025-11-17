@@ -1,7 +1,7 @@
 ---
 title: "TeraWulf doubles Q3 revenue — US Bitcoin miners show strong comeback"
 slug: "terawulf-q3-revenue-growth-bitcoin-mining-2025"
-date: 2025-11-17T09:00:00Z
+date: 2025-11-16T09:00:00Z
 category: "news"
 translationKey: "terawulf-q3-growth-2025-metaadvisor"
 source: "Cointelegraph"
