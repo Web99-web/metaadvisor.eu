@@ -1,7 +1,7 @@
 ---
 title: "TeraWulf udvostručio prihode u Q3 — američki Bitcoin rudari ponovno u velikom uzletu"
 slug: "terawulf-q3-rast-prihoda-bitcoin-rudarenje-2025"
-date: 2025-11-17T09:00:00Z
+date: 2025-11-16T09:00:00Z
 category: "news"
 translationKey: "terawulf-q3-growth-2025-metaadvisor"
 source: "Cointelegraph"
