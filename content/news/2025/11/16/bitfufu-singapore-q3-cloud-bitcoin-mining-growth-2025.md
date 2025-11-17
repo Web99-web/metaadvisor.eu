@@ -1,7 +1,7 @@
 ---
 title: "Singapore’s BitFuFu doubles Q3 revenue — cloud Bitcoin mining accelerates globally"
 slug: "bitfufu-singapore-q3-cloud-bitcoin-mining-growth-2025"
-date: 2025-11-17T10:00:00Z
+date: 2025-11-16T10:00:00Z
 category: "news"
 translationKey: "bitfufu-q3-growth-2025-metaadvisor"
 source: "Cointelegraph"
