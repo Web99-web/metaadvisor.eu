@@ -20,7 +20,7 @@ summary: "American Bitcoin (ABTC) ist zur umstrittensten Krypto-Aktie der USA ge
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
      style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
-     💰 Trguj BTC-om na Bitgetu — osvoji do 6200 USDT bonusa
+     💰 Handle BTC auf Bitget — erhalte bis zu 6200 USDT Bonus
   </a>
 </p>
 
