@@ -1,5 +1,5 @@
 ---
-title: "Tornado Cash: ključni dokazi protiv Romana Storma i zašto ovaj slučaj mijenja budućnost kripto privatnosti"
+title: "Tornado Cash: Roman Storm, Lazarus i najkontroverzniji kripto sudski slučaj desetljeća"
 slug: "tornado-cash-roman-storm-sad-dokazi-decentralizacija-zk"
 date: 2025-11-16T19:00:00Z
 category: "news"
