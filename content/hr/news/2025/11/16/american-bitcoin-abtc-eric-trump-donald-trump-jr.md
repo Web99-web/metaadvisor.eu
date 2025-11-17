@@ -17,12 +17,13 @@ tags: ["bitcoin","american bitcoin","trump","eric trump","donald trump jr","cryp
 summary: "American Bitcoin (ABTC) postala je najkontroverznija kripto-dionica u SAD-u, zahvaljujući povezanosti s Trumpovom obitelji, Scaramuccijevim investicijama i novom političko-tehnološkom narativu."
 ---
 
-<div class="cta">
-  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank">
-  💰 Unlock a welcome gift worth up to 6200 USDT on Bitget
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     💰 Trguj BTC-om na Bitgetu — osvoji do 6200 USDT bonusa
   </a>
-  <p>Join Bitget today and start trading with up to 80% APR in your first 3 days.</p>
-</div>
+</p>
+
 
 **American Bitcoin Corp (ABTC)** posljednjih je tjedana jedna je od najpraćenijih dionica u kripto sektoru — i to zbog politike koliko i zbog tehnologije.  
 Projekt je **povezan sa sinovima Donalda Trumpa — Ericom Trumpom i Donaldom Trumpom Jr.**, što ga odmah svrstava među najkontroverznije dionice godine.  
