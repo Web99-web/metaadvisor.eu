@@ -1,0 +1,54 @@
+# ============================================================
+# Manual deploy for MetaAdvisor.eu (GitHub Pages)
+# Brzo objavljivanje HR / DE / EN verzija kada god želiš.
+# Svaki deploy traje 1–2 minute i ne troši Netlify minute.
+# ============================================================
+
+name: Deploy (manual → GitHub Pages)
+
+on:
+  workflow_dispatch: {}        # pokrećeš ručno iz Actions taba
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 1        # samo zadnji commit, brži checkout
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.128.0'
+          extended: true
+
+      - name: Build site
+        run: hugo --gc --minify --buildFuture
+
+      - name: Upload build artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
