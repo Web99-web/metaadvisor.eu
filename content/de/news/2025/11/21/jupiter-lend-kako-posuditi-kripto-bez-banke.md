@@ -29,11 +29,11 @@ summary: "Jupiter Lend omogućuje brzu, decentraliziranu posudbu i kolateral na 
 
 Mnogi i dalje misle da se novac može posuditi samo preko banke, uz dugu papirologiju, provjere prihoda i uvjete koji se mijenjaju. U kripto svijetu postoji potpuno drugačiji model: posudba uz kolateral *direktno na blockchainu*, bez banaka, čekanja ili posrednika. Na Solani to omogućuje **Jupiter Lend**, dio Jupiter ekosustava koji većina korisnika poznaje samo kao popularni DEX, iako unutar sučelja postoji i moćan modul za posudbu.
 
-## Kako pristupiti Jupiter Lendu
+## Kako Jupiter Lend funkcionira
 
-Najvažnije pravilo jest da Jupiter postoji samo na jednoj adresi: **jup.ag**. Tu adresu uvijek treba ručno upisati. Linkovi iz DM poruka, reklama, pop-up prozora ili sumnjivih web članaka mogu voditi na phishing kopije. Sve varijacije poput *jup.ag.com*, *jup-ag.com*, *jupiterlend.io* i slični klonovi — nisu Jupiter.
+Nakon spajanja walleta, klikom na *Lend* otvara se modul s dvije osnovne funkcije: **Supply** i **Borrow**. Ako odaberete Supply, polažete svoj token i imate pravo na određenu kamatu. Ako odaberete Borrow, posuđujete drugu imovinu koristeći vlastite tokene kao kolateral.
 
-Nakon ručnog otvaranja adrese jup.ag, spaja se Solana wallet (Phantom, Solflare, Backpack, Glow, OKX Wallet i dr.). Jupiter od korisnika traži samo standardni *Sign* — nikada seed frazu ili private key. Ako bilo koja stranica to traži: zatvorite odmah.
+Kolateral može biti SOL, wBTC, wETH, USDT, USDC, JitoSOL, bSOL i drugi najlikvidniji tokeni u Solana ekosustavu. Nakon što odaberete imovinu koju želite koristiti kao kolateral, sustav odmah prikazuje koliko možete posuditi, kamatnu stopu i trenutni “health factor”, koji označava koliko je vaša pozicija stabilna i koliko ste udaljeni od mogućnosti likvidacije.
 
 ## Kako Jupiter Lend funkcionira
 
