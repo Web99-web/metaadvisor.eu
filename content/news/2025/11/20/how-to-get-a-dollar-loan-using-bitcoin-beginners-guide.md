@@ -119,19 +119,22 @@ DeFi offers high flexibility but carries the highest liquidation risk.
 
 Without these conditions, the likelihood of losing the BTC collateral becomes much higher.
 ---
-## Alternativa: BOB – nova generacija Bitcoin kolaterala
+## Alternative: BOB – the new generation of Bitcoin collateral
 
-Osim klasičnih kredita uz BTC, pojavljuju se i napredni modeli poput [**BOB protokola**](https://metaadvisor.eu/hr/news/bob-bitcoin-trezor-posudba-stablecoina/), koji omogućuje mintanje stabilne valute uz Bitcoin trezor (vault), bez prodaje BTC-a.
+Beyond classic BTC-backed loans, new models such as the [**BOB protocol**](https://metaadvisor.eu/news/bob-bitcoin-vault-stablecoin-lending/) are emerging. BOB enables the minting of a Bitcoin-backed stablecoin from a BTC vault — all without selling your Bitcoin.
 
-BOB pokazuje da Bitcoin kolateral više nije ograničen samo na centralizirane servise (Ledn, Bitget Loans, Unchained Capital), već se širi na potpuno novu kategoriju:
+BOB shows that Bitcoin collateral is no longer limited to centralized lenders (Ledn, Bitget Loans, Unchained Capital), but is expanding into a new category:
 
-- BTC trezori (vaults)  
-- BTC-backed stablecoini  
-- decentralizirana posudba  
-- mintanje stablecoina koristeći BTC kao temelj
+- BTC vaults  
+- Bitcoin-backed stablecoins  
+- decentralized borrowing  
+- stablecoin minting using BTC as base collateral  
 
-Ovaj pristup otvara vrata novoj BTC ekonomiji gdje vaš Bitcoin radi — umjesto da samo stoji u walletu.
-Ta priča je obrađena u našem članku https://metaadvisor.eu/hr/news/bob-bitcoin-trezor-posudba-stablecoina/
+This opens the door to a new BTC-powered economy, where Bitcoin can work as productive collateral instead of remaining idle in a wallet.
+
+We covered this story in detail in our article:  
+👉 https://metaadvisor.eu/news/bob-bitcoin-vault-stablecoin-lending/
+
 ---
 
 ## ### Our take (MetaAdvisor)
