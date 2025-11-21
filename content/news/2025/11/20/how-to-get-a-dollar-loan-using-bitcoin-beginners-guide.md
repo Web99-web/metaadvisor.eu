@@ -118,7 +118,20 @@ DeFi offers high flexibility but carries the highest liquidation risk.
 - when you understand volatility and risk  
 
 Without these conditions, the likelihood of losing the BTC collateral becomes much higher.
+---
+## Alternativa: BOB – nova generacija Bitcoin kolaterala
 
+Osim klasičnih kredita uz BTC, pojavljuju se i napredni modeli poput [**BOB protokola**](https://metaadvisor.eu/hr/news/bob-bitcoin-trezor-posudba-stablecoina/), koji omogućuje mintanje stabilne valute uz Bitcoin trezor (vault), bez prodaje BTC-a.
+
+BOB pokazuje da Bitcoin kolateral više nije ograničen samo na centralizirane servise (Ledn, Bitget Loans, Unchained Capital), već se širi na potpuno novu kategoriju:
+
+- BTC trezori (vaults)  
+- BTC-backed stablecoini  
+- decentralizirana posudba  
+- mintanje stablecoina koristeći BTC kao temelj
+
+Ovaj pristup otvara vrata novoj BTC ekonomiji gdje vaš Bitcoin radi — umjesto da samo stoji u walletu.
+Ta priča je obrađena u našem članku https://metaadvisor.eu/hr/news/bob-bitcoin-trezor-posudba-stablecoina/
 ---
 
 ## ### Our take (MetaAdvisor)
