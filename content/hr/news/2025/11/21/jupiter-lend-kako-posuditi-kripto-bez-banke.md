@@ -13,8 +13,8 @@ image: "/images/Jupiter-jup.ag.png"
 thumbnail: "/images/Jupiter-jup.ag.png"
 image_alt: "Jupiter Lend — vodič za početnike"
 image_credit: "Metaadvisor.eu"
-tags: ["jupiter", "solana", "lend", "defi", "lending", "borrow", "credit", "cash", "security"]
-summary: "Jupiter Lend postaje jedan od najjednostavnijih načina za posudbu i zaradu na Solani. Objašnjavamo kako funkcionira i na što paziti."
+tags: ["jupiter", "kredit", "novac", "solana", "lend", "defi", "lending", "borrow", "credit", "cash", "security"]
+summary: "Jupiter Lend omogućuje brzu, decentraliziranu posudbu i kolateral na Solani. Objašnjavamo kako radi i na što paziti."
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">
@@ -25,96 +25,38 @@ summary: "Jupiter Lend postaje jedan od najjednostavnijih načina za posudbu i z
   </a>
 </p>
 
-## U doba kripta postoji način posudbe koji mnogi ni ne znaju
+## Uvod
 
-Većina ljudi još uvijek misli da se novac može posuditi samo preko banke.  
-Ali u kriptu — posebno na Solani — postoji potpuno novi model: posudba uz kolateral *direktno na blockchainu*, bez banke, bez papirologije i bez čekanja.
+Mnogi još uvijek misle da se novac može posuditi samo preko banke – uz papirologiju, čekanje i provjere prihoda. No u kripto svijetu postoji potpuno drugačiji model: posudba uz kolateral *direktno na blockchainu*, bez posrednika i bez čekanja. Na Solani to omogućuje **Jupiter Lend**, dio Jupiter ekosustava koji većini korisnika služi kao DEX, iako malo tko zna da se u gornjem izborniku nalazi i opcija *Lend*.
 
-U središtu tog modela nalazi se **Jupiter Lend**, dio šireg Jupiter ekosustava.
+## Kako pristupiti Jupiter Lendu
 
-Mnogi znaju Jupiter kao glavni DEX, ali malo tko zna da u istom izborniku postoji i opcija **Lend**, koja otvara vrata “supply & borrow” sustavu kakav banke jednostavno nemaju.
+Najvažnije pravilo je da Jupiter postoji isključivo na jednoj adresi: **jup.ag**. Tu adresu uvijek treba ručno upisati u preglednik. Nikad ne otvarajte linkove poslani u porukama ili kopirani negdje online. Postoje phishing kopije poput *jup.ag.com*, *jup-ag.com*, *jupiterlend.io* i drugih varijacija – sve su to prevare. Ako nije *točno* jup.ag, to nije Jupiter.
 
----
+Kada se stranica ručno otvori, potrebno je spojiti svoj Solana wallet (Phantom, Solflare, Backpack, Glow, OKX Wallet i dr.). Spoj je standardan: samo potpisujete običan *Sign* zahtjev. **Jupiter vas nikada neće tražiti seed frazu, private key ili “ponovno spajanje uz frazu”.** Ako to vidite, odmah zatvorite stranicu – radi se o pokušaju krađe.
 
-## Kako Jupiter Lend funkcionira u praksi (bez liste, bez kompliciranja)
+## Kako Jupiter Lend funkcionira
 
-Sve počinje na *službenoj stranici* Jupiter protokola:
+Nakon spajanja walleta, klikom na *Lend* otvara se modul s dvije osnovne funkcije: **Supply** i **Borrow**. Ako odaberete Supply, polažete svoj token i imate pravo na određenu kamatu. Ako odaberete Borrow, posuđujete drugu imovinu koristeći vlastite tokene kao kolateral.
 
-➡ **jup.ag – obavezno ručno upisati u browser. Nikad ne klikati linkove.**
+Kolateral može biti SOL, wBTC, wETH, USDT, USDC, JitoSOL, bSOL i drugi najlikvidniji tokeni u Solana ekosustavu. Nakon što odaberete imovinu koju želite koristiti kao kolateral, sustav odmah prikazuje koliko možete posuditi, kamatnu stopu i trenutni “health factor”, koji označava koliko je vaša pozicija stabilna i koliko ste udaljeni od mogućnosti likvidacije.
 
-Zašto?  
-Zato što postoje phishing kopije poput *jupiterlend.io* koje izgledaju identično, ali kradu sredstva.  
-Ako adresa nije *točno* **jup.ag**, onda to **nije Jupiter**.
+## Upravljanje posudbom
 
-Kada ručno uđeš na jup.ag, spojiš svoj Solana wallet (Phantom, Solflare, Backpack, Glow, OKX).  
-Nakon toga u gornjem izborniku odabereš *Lend* — i sve funkcionira kao moderna bankarska aplikacija.
+Sve promjene vide se u realnom vremenu. Ako tržište naglo pada i health factor se pogoršava, pozicija se može stabilizirati dodavanjem kolaterala ili vraćanjem dijela posudbe. Ako tržište raste, rizik likvidacije automatski se smanjuje. Sve se obavlja u nekoliko sekundi, jer Solana potvrđuje transakcije izuzetno brzo.
 
----
-
-### Supply i Borrow
-
-U samo dva klika možeš:
-
-- položiti imovinu i zarađivati (Supply)  
-- posuditi uz kolateral (Borrow)
-
-Kolateral može biti **SOL, wBTC, wETH, USDT, USDC, JitoSOL, bSOL** i drugi najlikvidniji tokeni u Solana ekosustavu.
-
-Nakon što odabereš token, odmah vidiš:
-
-- koliko možeš posuditi  
-- kolika je kamatna stopa  
-- kakav je tvoj trenutni “health factor”
-
-Sve radi u realnom vremenu, potpuno transparentno.
-
----
-
-## Što kada tržište pada ili raste?
-
-Ako tržište naglo padne, health factor se smanjuje.  
-Možeš:
-
-- doplatiti kolateral  
-- ili vratiti dio posudbe
-
-Ako tržište raste, pozicija postaje sigurnija.
-
----
-
-## Zašto ljudi to koriste?
-
-Najčešći razlog je jednostavan:
-
-**dobiti gotovinu bez prodaje kripta i bez poreznog događaja.**
-
-To je brže, jeftinije i fleksibilnije od banke.
-
----
+Mnogi korisnici biraju ovaj model jer omogućuje pristup gotovini bez prodaje postojećih kriptovaluta, što često znači i izbjegavanje poreznog događaja. Riječ je o fleksibilnom, bržem rješenju od klasičnog bankarskog kredita, pogotovo za manje posudbe.
 
 ## Naš osvrt (Metaadvisor.eu)
 
-- Jupiter Lend je najjednostavniji i najpristupačniji ulaz u DeFi posudbe.  
-- Korisničko sučelje je toliko jednostavno da ne treba tehničko znanje.  
-- Sigurnost je ključ: **nikad ne otvarati linkove — jup.ag uvijek ručno upisati.**  
-- Solana ekosustav eksplodira, a Jupiter postaje njegovo financijsko središte.
+Jupiter Lend je danas jedan od najjednostavnijih i najpristupačnijih načina za decentraliziranu posudbu. Sučelje je razumljivo i početnicima, ali sigurnost ostaje najvažniji element. Korisnik mora ručno upisati jup.ag i provjeriti adresu iz dva neovisna izvora prije spajanja walleta. Solana ekosustav snažno raste, a Jupiter se pozicionira kao jedno od njegovih financijskih središta.
 
----
+## Sigurnosna napomena
 
-### ⚠️ Sigurnosna napomena
-
-U kriptu se *najviše gubi klikom na krivi link*.  
-Uvijek:
-
-- ručno upiši “jup.ag” u adresnu traku  
-- provjeri adresu iz dva izvora  
-- izbjegavaj sve što sliči, ali nije identično (npr. jup-ag.com, jupiterlend.io)
-
-Sigurnost je prvi korak u DeFi-u.
-
----
+Najviše sredstava u kriptu gubi se klikom na krive linkove. Nikada ne otvarajte linkove prema “Jupiteru” koji dolaze iz DM poruka, reklama, pop-up prozora ili prividno sličnih domena. Pravilan pristup je uvijek isti: ručno upisati **jup.ag**, provjeriti adresu i nikad ne dijeliti seed frazu. Jupiter će tražiti samo digitalni potpis (*Sign*), nikad privatne podatke.
 
 <span style="font-size:0.9em; color:#777;">
-Ovaj članak služi isključivo u informativne svrhe i ne predstavlja financijski ni investicijski savjet.  
-Korisnici sami snose odgovornost za sve odluke i interakcije s DeFi protokolima.
+Ovaj članak služi isključivo u informativne svrhe i ne predstavlja financijski savjet.  
+DeFi protokoli nose rizike, uključujući mogućnost djelomičnog ili potpunog gubitka sredstava.
 </span>
+
