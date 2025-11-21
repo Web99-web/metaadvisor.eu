@@ -13,7 +13,7 @@ image: "/images/Jupiter-jup.ag.png"
 thumbnail: "/images/Jupiter-jup.ag.png"
 image_alt: "Jupiter Lend — vodič za početnike"
 image_credit: "Metaadvisor.eu"
-tags: ["jupiter", "solana", "lend", "defi", "lending", "borrow", "credit", "cash", "security", "solana-ecosystem", "yield"]
+tags: ["financije", "financiranje", "jupiter", "solana", "posudba", "kredit", "kriptokredit", "defi", "kolateral", "sigurnost", "kamata", "likvidacija", "yield", "gotovina", "vodič", "solana-ekosustav", "kripto-posudbe", "decentralizirane-posudbe"]
 summary: "Jupiter Lend omogućuje brzu, decentraliziranu posudbu i kolateral na Solani. Objašnjavamo kako radi i kako ostati siguran."
 ---
 
