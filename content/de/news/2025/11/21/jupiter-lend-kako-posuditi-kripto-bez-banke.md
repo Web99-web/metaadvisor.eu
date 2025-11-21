@@ -29,15 +29,17 @@ summary: "Jupiter Lend omogućuje brzu, decentraliziranu posudbu i kolateral na 
 
 Mnogi i dalje misle da se novac može posuditi samo preko banke, uz dugu papirologiju, provjere prihoda i uvjete koji se mijenjaju. U kripto svijetu postoji potpuno drugačiji model: posudba uz kolateral *direktno na blockchainu*, bez banaka, čekanja ili posrednika. Na Solani to omogućuje **Jupiter Lend**, dio Jupiter ekosustava koji većina korisnika poznaje samo kao popularni DEX, iako unutar sučelja postoji i moćan modul za posudbu.
 
+## Kako pristupiti Jupiter Lendu
+
+Najvažnije pravilo je da Jupiter postoji isključivo na jednoj adresi: **jup.ag**. Tu adresu uvijek treba ručno upisati u preglednik. Nikad ne otvarajte linkove poslani u porukama ili kopirani negdje online. Postoje phishing kopije poput *jup.ag.com*, *jup-ag.com*, *jupiterlend.io* i drugih varijacija – sve su to prevare. Ako nije *točno* jup.ag, to nije Jupiter.
+
+Kada se stranica ručno otvori, potrebno je spojiti svoj Solana wallet (Phantom, Solflare, Backpack, Glow, OKX Wallet i dr.). Spoj je standardan: samo potpisujete običan *Sign* zahtjev. **Jupiter vas nikada neće tražiti seed frazu, private key ili “ponovno spajanje uz frazu”.** Ako to vidite, odmah zatvorite stranicu – radi se o pokušaju krađe.
+
 ## Kako Jupiter Lend funkcionira
 
 Nakon spajanja walleta, klikom na *Lend* otvara se modul s dvije osnovne funkcije: **Supply** i **Borrow**. Ako odaberete Supply, polažete svoj token i imate pravo na određenu kamatu. Ako odaberete Borrow, posuđujete drugu imovinu koristeći vlastite tokene kao kolateral.
 
 Kolateral može biti SOL, wBTC, wETH, USDT, USDC, JitoSOL, bSOL i drugi najlikvidniji tokeni u Solana ekosustavu. Nakon što odaberete imovinu koju želite koristiti kao kolateral, sustav odmah prikazuje koliko možete posuditi, kamatnu stopu i trenutni “health factor”, koji označava koliko je vaša pozicija stabilna i koliko ste udaljeni od mogućnosti likvidacije.
-
-## Kako Jupiter Lend funkcionira
-
-Klikom na *Lend* otvara se modul s dvije osnovne funkcije: **Supply** (ulaganje tokena uz kamatu) i **Borrow** (posudba uz vlastite tokene kao kolateral). Kolateral može biti SOL, wBTC, wETH, USDT, USDC, JitoSOL, bSOL i drugi likvidni tokeni Solana ekosustava. Nakon odabira tokena prikazuje se maksimalna posudba, kamatna stopa i health factor — prikaz sigurnosti pozicije u realnom vremenu.
 
 ## Upravljanje posudbom
 
