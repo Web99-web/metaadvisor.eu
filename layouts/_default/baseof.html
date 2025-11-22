@@ -5,6 +5,17 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ if .IsHome }}MetaAdvisor{{ else }}{{ .Title }} — MetaAdvisor{{ end }}</title>
   <meta name="description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}MetaAdvisor.{{ end }}">
+  {{ partial "opengraph.html" . }}
+
+<!-- Language / SEO metadata -->
+<link rel="alternate" hreflang="en" href="https://metaadvisor.eu/" />
+<link rel="alternate" hreflang="de" href="https://metaadvisor.eu/de/" />
+<link rel="alternate" hreflang="hr" href="https://metaadvisor.eu/hr/" />
+<link rel="alternate" hreflang="x-default" href="https://metaadvisor.eu/" />
+
+<meta name="keywords"
+      content="MetaAdvisor, tech, tehnologija, ai, artificial intelligence, umjetna inteligencija, crypto, kripto, bitcoin, btc, ethereum, eth, solana, sol, finance, financije, credit, markets, blockchain, altcoins, tržište, ekonomija, tokeni, stablecoins, defi, web3">
+
 
     <!-- Coinzilla Domain Verification -->
   <meta name="coinzilla" content="c4f1292c6baab66ad2f81c6ec2140050" />
