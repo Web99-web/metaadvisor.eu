@@ -1,3 +1,4 @@
+---
 title: "Google, OpenAI oder Perplexity? — Warum der neue Comet-Browser die KI-Suche verändert"
 slug: "google-openai-oder-perplexity-comet-browser-ai-erklaert"
 date: 2025-11-22T09:00:00Z
