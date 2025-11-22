@@ -1,13 +1,16 @@
-<!-- Open Graph -->
+{{ $img := "" }}
+{{ if .Params.image_url }}{{ $img = .Params.image_url }}
+{{ else if .Params.featured_image }}{{ $img = .Params.featured_image }}
+{{ else if .Params.image }}{{ $img = .Params.image }}
+{{ else if .Params.thumbnail }}{{ $img = .Params.thumbnail }}
+{{ end }}
+
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ .Summary }}">
 <meta property="og:url" content="{{ .Permalink }}">
-
-{{ with .Params.image_url }}
-<meta property="og:image" content="{{ . }}">
-<meta name="twitter:image" content="{{ . }}">
+{{ if $img }}
+<meta property="og:image" content="{{ $img }}">
+<meta name="twitter:image" content="{{ $img }}">
 {{ end }}
-
-<!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
