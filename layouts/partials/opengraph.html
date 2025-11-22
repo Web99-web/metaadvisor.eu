@@ -1,0 +1,13 @@
+<!-- Open Graph -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ .Summary }}">
+<meta property="og:url" content="{{ .Permalink }}">
+
+{{ with .Params.image_url }}
+<meta property="og:image" content="{{ . }}">
+<meta name="twitter:image" content="{{ . }}">
+{{ end }}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
