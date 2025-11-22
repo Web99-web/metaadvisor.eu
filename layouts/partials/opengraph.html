@@ -1,16 +1,49 @@
-{{ $img := "" }}
-{{ if .Params.image_url }}{{ $img = .Params.image_url }}
-{{ else if .Params.featured_image }}{{ $img = .Params.featured_image }}
-{{ else if .Params.image }}{{ $img = .Params.image }}
-{{ else if .Params.thumbnail }}{{ $img = .Params.thumbnail }}
+{{/* ---------------------------------------------------------
+     OpenGraph + Twitter Cards
+     Radi za SVE: HR, DE, EN / news / pages / homepage
+   --------------------------------------------------------- */}}
+
+{{ $title := cond .IsHome "MetaAdvisor – Tech, AI, Crypto & Finance News" .Title }}
+{{ $desc  := "" }}
+{{ if .Summary }}
+  {{ $desc = .Summary | plainify | truncate 160 }}
+{{ else }}
+  {{ $desc = "MetaAdvisor – Tech, AI, crypto and finance — clear summaries, practical insights and curated updates." }}
 {{ end }}
 
-<meta property="og:type" content="article">
-<meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ .Summary }}">
-<meta property="og:url" content="{{ .Permalink }}">
-{{ if $img }}
-<meta property="og:image" content="{{ $img }}">
-<meta name="twitter:image" content="{{ $img }}">
+{{/* --- Fallback sistem za sliku --- */}}
+{{ $img := "" }}
+
+{{ if .Params.image_url }}
+  {{ $img = .Params.image_url }}
+{{ else if .Params.featured_image }}
+  {{ $img = .Params.featured_image }}
+{{ else if .Params.image }}
+  {{ $img = .Params.image }}
+{{ else if .Params.thumbnail }}
+  {{ $img = .Params.thumbnail }}
 {{ end }}
+
+{{/* Ako slika nije navedena → uzmi default */}}
+{{ if not $img }}
+  {{ $img = "/images/metaadvisor-ai-crypto-technology.jpg" }}
+{{ end }}
+
+{{/* Apsolutni URL (WhatsApp zahtijeva full URL) */}}
+{{ $abs := (urls.AbsURL $img) }}
+
+<!-- Open Graph -->
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:site_name" content="MetaAdvisor.eu">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ $abs }}">
+<meta property="og:image:secure_url" content="{{ $abs }}">
+<meta property="og:image:type" content="image/jpeg">
+
+<!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $abs }}">
