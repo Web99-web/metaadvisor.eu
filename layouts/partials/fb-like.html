@@ -1,56 +1,60 @@
-<div style="margin: 28px 0 18px 0; text-align: center;">
+<div style="margin: 32px 0 22px 0; text-align: center;">
 
-  <p style="font-size: 17px; font-weight: 600; margin-bottom: 12px;">
-    If you found this article useful, press FOLLOW 👍
+  <p style="font-size: 17px; font-weight: 600; margin-bottom: 14px;">
+    If you found this article useful, press LIKE 👍
   </p>
 
-  <a id="meta-follow-btn"
+  <a id="meta-like-btn"
      href="https://www.facebook.com/metaadvisor.eu/"
      target="_blank"
      rel="noopener nofollow"
      style="
        background-color:#1877F2;
        color:#fff;
-       padding:12px 28px;
-       font-size:16px;
+       padding:14px 32px;
+       font-size:17px;
        font-weight:600;
        border-radius:8px;
        text-decoration:none;
        display:inline-block;
-       box-shadow:0 0 0 0 rgba(24,119,242,0.6);
-       transition:box-shadow 0.3s ease;
+       box-shadow:0 0 0 0 rgba(24,119,242,0.8);
      ">
-    👍 Follow MetaAdvisor
+    👍 Like MetaAdvisor
   </a>
 
 </div>
 
 <style>
-  /* Pulsiranje (subtilno i profesionalno) */
-  #meta-follow-btn {
-    animation: pulseMetaBtn 2.2s infinite;
+  /* JASNO, VIDILJIVO, ali i dalje elegante pulsiranje */
+  #meta-like-btn {
+    animation: pulseMeta 1.9s infinite;
   }
 
-  @keyframes pulseMetaBtn {
-    0%   { box-shadow:0 0 0 0 rgba(24,119,242,0.6); }
-    70%  { box-shadow:0 0 12px 8px rgba(24,119,242,0); }
+  @keyframes pulseMeta {
+    0%   { box-shadow:0 0 0 0 rgba(24,119,242,0.8); }
+    50%  { box-shadow:0 0 18px 10px rgba(24,119,242,0); }
     100% { box-shadow:0 0 0 0 rgba(24,119,242,0); }
+  }
+
+  #meta-like-btn:hover {
+    background-color:#0f5dd8;
   }
 </style>
 
 <script>
-  // Klik statistika (lagana, lokalna)
   document.addEventListener("DOMContentLoaded", function() {
-    const btn = document.getElementById("meta-follow-btn");
-    if(btn){
-      btn.addEventListener("click", function(){
-        // Pohrani broj klikova u localStorage (vidljivo samo tebi)
-        const k = localStorage.getItem("meta_follow_clicks") || 0;
-        localStorage.setItem("meta_follow_clicks", Number(k) + 1);
+    const b = document.getElementById("meta-like-btn");
+    if(!b) return;
 
-        // Event u konzoli (možeš pratiti preko DevTools)
-        console.log("Follow button clicked:", Number(k)+1);
-      });
-    }
+    b.addEventListener("click", function() {
+
+      // 1) Lokalni brojač (za tvoj pregled)
+      const k = localStorage.getItem("meta_like_clicks") || 0;
+      localStorage.setItem("meta_like_clicks", Number(k)+1);
+
+      // 2) Šaljemo Cloudflare event
+      fetch("/__meta_like_event__", { method: "POST" })
+        .catch(() => {});
+    });
   });
 </script>
