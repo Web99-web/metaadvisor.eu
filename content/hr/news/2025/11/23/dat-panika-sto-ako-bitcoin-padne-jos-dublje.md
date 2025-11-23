@@ -5,7 +5,7 @@ date: 2025-11-22T09:00:00Z
 category: "crypto"
 translationKey: "dat_panic_btc_metaadvisor_2211"
 source: "MetaAdvisor – analitički sadržaj"
-source_url: ""
+source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
 image_url: "/images/DATdown.png"
