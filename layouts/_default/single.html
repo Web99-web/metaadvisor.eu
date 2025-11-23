@@ -77,6 +77,8 @@
     {{ end }}
   </div>
 
+  {{ partial "fb-like.html" $p }}
+
   {{ if and $isNews (or $p.Params.source $p.Params.source_url) }}
     {{/* Link samo ako je IZRIČITO dopušten po članku i postoji URL */}}
     {{ $allowLink := and (eq $p.Params.source_link true) $p.Params.source_url }}
