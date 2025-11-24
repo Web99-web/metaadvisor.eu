@@ -23,6 +23,7 @@ tags: [
 summary: "Sve je više analitičara koji tvrde da pad Bitcoina 10.10 nije bio ‘prirodan’, već neprijateljsko preuzimanje tržišta od strane velikih banaka i institucija."
 ---
 
+
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" 
      target="_blank" rel="nofollow sponsored"
