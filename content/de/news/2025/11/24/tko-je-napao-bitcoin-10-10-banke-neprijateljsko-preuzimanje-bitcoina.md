@@ -39,7 +39,7 @@ Sve češće se spominje mogućnost koordinirane akcije velikih institucija — 
 
 👉 razbiti MicroStrategy (MSTR)  
 👉 protresti tržište  
-👉 i kupiti Bitcoin jeftinije.
+👉 i kupiti Bitcoin jeftinije. 
 
 Ono što je počelo kao “priča s Twittera”, sada komentiraju ozbiljni ljudi iz industrije:  
 **Ran Neuner, Simon Dixon i Arthur Hayes** — i svi guraju u istom smjeru:
