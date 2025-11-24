@@ -1,11 +1,11 @@
 ---
-title: "Je li ‘Big Short’ 10.10 bio neprijateljsko preuzimanje banaka i institucija koje žele preuzeti Bitcoin?"
+title: "Je li 'Big Short' 10.10 bio neprijateljsko preuzimanje banaka i institucija koje žele preuzeti Bitcoin?"
 slug: "tko-je-napao-bitcoin-10-10-banke-neprijateljsko-preuzimanje-bitcoina"
 date: 2025-11-24T12:00:00Z
 category: "crypto"
-translationKey: "btc_attack_banks_1010_20251124"
+translationKey: "attack_1010_btc_banks_20251124"
 source: "MetaAdvisor – analiza + izjave s društvenih mreža (Ran, Hayes, Dixon)"
-source_url: ""
+source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
 image_url: "/images/BTC-10.10-who-attacked.png"
@@ -17,7 +17,7 @@ image_credit: "MetaAdvisor.eu"
 tags: [
   "bitcoin", "btc", "napad", "big short", "banke", "wall street", "institucije",
   "neprijateljsko preuzimanje", "microstrategy", "mstr", "michael saylor", "saylor",
-  "krediti", "volatilnost", "market manipulacija", "jp morgan", "goldman sachs",
+  "krediti", "volatilnost", "market manipulacija", "jpmorgan", "goldman sachs",
   "tradfi", "arthur hayes", "ran neuner", "simon dixon", "kripto tržište", "eth"
 ]
 summary: "Sve je više analitičara koji tvrde da pad Bitcoina 10.10 nije bio ‘prirodan’, već neprijateljsko preuzimanje tržišta od strane velikih banaka i institucija."
