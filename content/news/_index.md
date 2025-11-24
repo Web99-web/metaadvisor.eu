@@ -1,0 +1,7 @@
+---
+title: "News"
+_build:
+  render: always
+  list: always
+  publishResources: true
+---
