@@ -1,3 +1,4 @@
+---
 title: "Može li halving još upravljati Bitcoinom — ili su institucionalni kapital i makro trendovi preuzeli igru?"
 slug: "halving-bitcoin-institucije-makro-trendovi"
 date: 2025-11-23T04:58:34Z
