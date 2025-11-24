@@ -67,6 +67,8 @@ mapping:
   TeraWulf:  [TeraWulf-up.png]
   BitFuFu:  [BitFuFu-up.png]
   Tornado Cash:  [Tornado-Cash.png]
+  Zcash:  [Zcash.png, Zcash1.png]
+  
   
   # --- AI / TECH ---
   ai: [ai.jpg, ai1.jpg, ai-manja.jpg, ai2.jpg, AI-KI-UI.png]
