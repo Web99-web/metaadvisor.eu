@@ -1,17 +1,17 @@
 ---
 title: "Teksas kupio 5 milijuna dolara u Bitcoin ETF-u: početak državnih kripto-rezervi?"
 slug: "teksas-kupio-5-milijuna-bitcoin-etf-kripto-rezerve"
-date: 2025-11-26T21:05:59Z
+date: 2025-11-26T09:00:00Z
 category: "crypto"
 translationKey: "texas_btc_reserves_20251125"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/11/25/texas-buys-usd5m-in-btc-etf-as-states-edge-toward-first-government-crypto-reserves"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Texas-5m-btc.jpg"
-featured_image: "/images/Texas-5m-btc.jpg"
-image: "/images/Texas-5m-btc.jpg"
-thumbnail: "/images/Texas-5m-btc.jpg"
+image_url: "/images/Texas-5m-btc.png"
+featured_image: "/images/Texas-5m-btc.png"
+image: "/images/Texas-5m-btc.png"
+thumbnail: "/images/Texas-5m-btc.png"
 image_alt: "Teksas kupio 5M u Bitcoin ETF-u"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["teksas", "bitcoin", "btc", "kripto", "kriptovalute", "etf", "btc etf", "državne rezerve", "financije", "ulaganje", "ekonomija", "blockchain", "crypto", "kriptotržište"]
@@ -40,13 +40,4 @@ Političari u Teksasu tvrde da je ovo "korak prema budućnosti" i početak stvar
 
 ### Naš osvrt (Metaadvisor):
 - Kupnja Texasa legitimizira Bitcoin kao dio institucionalnih rezervi u SAD-u.  
-- Razlika između 5 i 10 milijuna USD sugerira da država planira postupno povećanje izloženosti.  
-- Ovakvi potezi mogu potaknuti natjecanje među državama poput Wyominga ili Floride.  
-- ETF je jednostavan ulaz, ali ključno je pitanje: hoće li Texas dugoročno držati pravi BTC?  
-- Ovo je važan signal za ulagače — institucionalna potražnja ne dolazi samo s Wall Streeta nego i iz državnih struktura.
-
----
-
-<p style="font-size:13px; color:#777; margin-top:25px;">
-Ovaj tekst nije financijski savjet. Informacije služe samo u edukativne svrhe.
-</p>
+- Razlika između 5 i 10 mili
