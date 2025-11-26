@@ -3,7 +3,7 @@ title: "Cardano Midnight: Može li novi ADA sidechain postati najveća kripto pr
 slug: "cardano-midnight-ada-sidechain-privatnost-2025"
 date: 2025-11-26T09:00:00Z
 category: "crypto"
-translationKey: "cardano_midnight_20251126"
+translationKey: "midnight_cardano_ada_20251126"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
