@@ -54,8 +54,10 @@ In other words: LedgerX was the one part of the FTX empire that worked exactly a
 ### A reminder of the FTX collapse
 Robinhood’s entry into the derivatives and prediction market business cannot be separated from the context of 2022.
 
-**We discussed this in detail in our article on the FTX bankruptcy.**  
-(*Internal link, no URL displayed*)
+<p><a href="/news/who-remembers-ftx-collapse-crypto-lessons/" style="text-decoration:none; font-weight:600;">
+We covered this in detail in our article on the FTX bankruptcy.
+</a></p>
+
 
 The contrast is crucial:  
 FTX attempted to dominate the same sectors through aggressive expansion but collapsed due to mismanagement, commingled customer funds and a lack of regulatory protection.
