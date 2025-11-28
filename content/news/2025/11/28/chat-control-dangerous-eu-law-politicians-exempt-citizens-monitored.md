@@ -3,7 +3,7 @@ title: "Chat Control: The Most Dangerous Law in EU History — Politicians Exemp
 slug: "chat-control-dangerous-eu-law-politicians-exempt-citizens-monitored"
 date: 2025-11-28T21:00:00Z
 category: "news"
-translationKey: "chatcontrol_eu_masssurveillance_en_28112025"
+translationKey: "cobalt_sigma_4729"
 source: "MetaAdvisor – analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
