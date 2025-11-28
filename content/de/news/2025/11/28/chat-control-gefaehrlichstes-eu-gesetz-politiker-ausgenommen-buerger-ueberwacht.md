@@ -3,7 +3,7 @@ title: "Chat Control: Das gefährlichste Gesetz in der Geschichte der EU — Pol
 slug: "chat-control-gefaehrlichstes-eu-gesetz-politiker-ausgenommen-buerger-ueberwacht"
 date: 2025-11-28T21:00:00Z
 category: "news"
-translationKey: "cobalt_sigma_4729"
+translationKey: "a1e9c8f2d3b447dbb90e92f11e87c6c4"
 source: "MetaAdvisor – Analyse"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
