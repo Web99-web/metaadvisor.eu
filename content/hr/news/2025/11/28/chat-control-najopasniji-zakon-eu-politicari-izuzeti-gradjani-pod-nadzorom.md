@@ -3,7 +3,7 @@ title: "Chat Control: Najopasniji zakon u povijesti EU — političari izuzeti, 
 slug: "chat-control-najopasniji-zakon-eu-politicari-izuzeti-gradjani-pod-nadzorom"
 date: 2025-11-28T21:00:00Z
 category: "news"
-translationKey: "privacy_crisis_europe_28112025"
+translationKey: "cobalt_sigma_4729"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
