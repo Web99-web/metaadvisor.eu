@@ -294,4 +294,8 @@ mapping:
 
   # --- Green energy / Cars Trucks / other ---
   Slate truck: [Slate-truck.png]
+
+  # --- Hakers/ Skimms / maleware ---
+  SOL-maleware: [sol-skimmed-copilot.png]
+  
   
