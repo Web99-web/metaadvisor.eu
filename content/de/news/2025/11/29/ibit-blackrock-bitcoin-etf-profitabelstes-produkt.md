@@ -1,7 +1,7 @@
 ---
 title: "IBIT: Warum BlackRocks Bitcoin-ETF zum profitabelsten Produkt der Firmengeschichte wurde"
 slug: "ibit-blackrock-bitcoin-etf-profitabelstes-produkt"
-date: 2025-11-30T20:00:00Z
+date: 2025-11-29T20:00:00Z
 category: "crypto"
 translationKey: "ibit_blackrock_etf_20251130"
 source: "MetaAdvisor – Analyse"
