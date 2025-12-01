@@ -71,15 +71,28 @@ Drugim riječima — **Cyber Monday popust po izboru**.
 
 ## 🛒 Ako se gleda dugoročno, što danas ima smisla?
 
-### ✓ Bitcoin i Ethereum  
-Glavne stabilne opcije s najmanjim rizikom.
+✓ Bitcoin i Ethereum
 
-### ✓ ETF-ovi (IBIT, FBTC…)  
-Za one koji preferiraju tradicionalne investicijske instrumente.
+Najstabilnije opcije, s najmanjim rizikom i najviše institucionalne podrške — pogotovo nakon ulaska velikih ETF fondova.
 
-### ✓ Altovi koji su najviše pali  
-Veći potencijal rasta, ali i veći rizik.
+✓ ETF-ovi (IBIT, FBTC i drugi)
 
+Za one koji vole tradicionalne instrumente, bez tehničkih komplikacija walleta i burzi.
+Institucije kupuju preko ETF-ova — a institucije rijetko kupuju bez razloga.
+
+✓ Altovi koji su najviše pali
+
+Ovdje postoji najveći potencijal rasta (ali i rizik).
+U današnjem padu posebno se izdvajaju:
+
+Solana (SOL) — često najvolatilnija među velikima; kada pada, pada brzo, ali kada se oporavlja, zna eksplodirati.
+
+XRP — jedan od najstabilnijih altova u bear fazama; padovi su prilika za one koji vjeruju u nastavak pravnih pobjeda i širenje XRP-sustava.
+
+Zcash (ZEC) — privacy segment je potisnut, ali ZEC povremeno ima snažne “privacy narrative” pumps, pogotovo kad regulacija postane tema.
+
+Ovakvi altovi su tipični kandidati za “Cyber Monday ulaz”:
+malo veći rizik, ali i znatno veći mogući upside ako stigne market recovery.
 ---
 
 ## ⚠️ Nije poanta pogoditi savršeni trenutak  
