@@ -13,7 +13,7 @@ image: "/images/2022-2025-crypto-chart.png"
 thumbnail: "/images/2022-2025-crypto-chart.png"
 image_alt: "Symbolic Bitcoin chart 2022 vs 2025"
 image_credit: "MetaAdvisor AI-generated"
-tags: ["2022", "2025", "bitcoin","crypto","market","analysis","ftx","strategy","microstrategy"]
+tags: ["bitcoin","btc","crypto","crypto-market","analysis","bear-market","bull-market","2022","2025","correlation","volatility","ftx","strategy","microstrategy","etf","blackrock","fidelity","institutional-investors","regulation","macro","sentiment","price-drop","market-cycle","comparison"]
 summary: "Bitcoin is repeating some 2022 patterns — but today’s market has completely different safety mechanisms. Strategy is not FTX, and 2025 will not end in an implosion."
 ---
 
