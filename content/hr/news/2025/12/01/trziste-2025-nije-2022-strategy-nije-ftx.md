@@ -13,7 +13,7 @@ image: "/images/2022-2025-crypto-chart.png"
 thumbnail: "/images/2022-2025-crypto-chart.png"
 image_alt: "Symbolic Bitcoin chart 2022 vs 2025"
 image_credit: "MetaAdvisor AI-generated"
-tags: ["2022", "2025", "bitcoin","crypto","market","bear","analysis","ftx","strategy","microstrategy"]
+tags: ["bitcoin","btc","kripto","crypto","tržište","analiza","bear-market","bull-market","2022","2025","korelacija","volatilnost","ftx","strategy","microstrategy","etf","blackrock","fidelity","institucionalni-kapital","regulacija","makro","sentiment","panika","pad-cijene","tržišni-ciklus","usporedba"]
 summary: "Bitcoin ponavlja obrasce iz 2022., ali tržište danas ima potpuno drugačije zaštitne mehanizme. Strategy nije FTX — i 2025. neće završiti implozijom."
 ---
 
