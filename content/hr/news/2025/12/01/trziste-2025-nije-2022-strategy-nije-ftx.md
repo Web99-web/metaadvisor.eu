@@ -142,7 +142,8 @@ Ako se zadrži makro-sentiment i ETF dinamika, povijest pokazuje:
 - tržište danas ima “sigurnosnu mrežu” koja nije postojala 2022.
 
 **Strategy može kratkoročno spustiti cijenu.  
-FTX je rušio temelje sustava.**
+FTX je rušio temelje sustava — njegova implozija bila je najveći institucionalni potres u povijesti kripta, jer je riječ o burzi koja je skrivala financijske rupe, miješala sredstva klijenata i stvarala lažni kolateral, što je dovelo do lančane likvidacije cijele industrije. Upravo smo taj povijesni kolaps detaljno analizirali ovdje: [Tko se sjeća FTX bankrota? – Najveće lekcije iz kripto kraha](https://metaadvisor.eu/hr/news/tko-se-sjeca-ftx-bankrota-kripto-krah-lessons/).
+**
 
 To su dva potpuno različita svijeta.
 
