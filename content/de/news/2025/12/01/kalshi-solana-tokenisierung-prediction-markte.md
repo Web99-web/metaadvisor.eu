@@ -1,4 +1,3 @@
-content/de/news/2025/12/01/kalshi-solana-tokenisierung-prediction-markte.md
 ---
 title: "Kalshi wechselt zu Solana: Tokenisierung politischer und makroökonomischer Ereignis-Kontrakte verändert den Markt"
 slug: "kalshi-solana-tokenisierung-prediction-markte"
