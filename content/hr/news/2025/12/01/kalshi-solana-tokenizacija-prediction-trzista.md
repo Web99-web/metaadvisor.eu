@@ -1,4 +1,3 @@
-content/hr/news/2025/12/01/kalshi-tokenizacija-solana-prediction-trzista.md
 ---
 title: "Kalshi prelazi na Solanu: Tokenizacija političkih i makro ugovora mijenja budućnost prediction tržišta"
 slug: "kalshi-solana-tokenizacija-prediction-trzista"
