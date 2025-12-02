@@ -1,4 +1,3 @@
-content/de/news/2025/12/01/bitcoin-fall-84000-japan-anleihemarkt-analyse.md
 ---
 title: "Bitcoin fällt auf 84.000 USD: Ist der japanische Anleihemarkt schuld – oder steckt mehr dahinter?"
 slug: "bitcoin-fall-84000-japan-anleihemarkt-analyse"
@@ -9,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-drop-to-dollar84k-not-due-to-japan-bond-market-crash"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/BTC-down.png"
+featured_image: "/images/BTC-down.png"
+image: "/images/BTC-down.png"
+thumbnail: "/images/BTC-down.png"
 image_alt: "Bitcoin Preissturz Illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags:
