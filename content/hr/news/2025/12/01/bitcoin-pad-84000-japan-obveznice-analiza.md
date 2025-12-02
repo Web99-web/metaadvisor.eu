@@ -1,4 +1,3 @@
-content/hr/news/2025/12/01/bitcoin-pad-84000-japan-obligacije-analiza.md
 ---
 title: "Bitcoin pao na 84.000 USD: Je li japansko tržište obveznica krivac ili je posrijedi nešto veće?"
 slug: "bitcoin-pad-84000-japan-obveznice-analiza"
