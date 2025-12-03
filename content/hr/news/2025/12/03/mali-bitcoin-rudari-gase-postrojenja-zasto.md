@@ -1,7 +1,7 @@
 ---
 title: "Mali Bitcoin rudari gase postrojenja – zašto?"
 slug: "mali-bitcoin-rudari-gase-postrojenja-zasto"
-date: 2025-12-03T20:00:00Z
+date: 2025-12-03T12:00:00Z
 category: "crypto"
 translationKey: "miners_shutdown_20251203"
 source: "MetaAdvisor – analiza + Cointelegraph podaci"
