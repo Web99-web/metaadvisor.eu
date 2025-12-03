@@ -83,18 +83,18 @@ Velike kompanije ponekad svjesno rudare s minimalnom dobiti ili čak s gubitkom 
 
 # Kako se u sve uklapa American Bitcoin (ABTC)?
 
-(*Poveznica skrivena u tekstu: [pročitaj naš detaljni izvještaj o American Bitcoinu](https://metaadvisor.eu/hr/news/american-bitcoin-abtc-eric-trump-donald-trump-jr/)*)
+Jedan od najzanimljivijih primjera 2025. je raketni uspon kompanije  
+**[American Bitcoin (ABTC)](https://metaadvisor.eu/hr/news/american-bitcoin-abtc-eric-trump-donald-trump-jr/)**.
 
-Jedan od najzanimljivijih primjera 2025. je raketni uspon kompanije **American Bitcoin (ABTC)**.  
 Tvrtka je u fokusu javnosti jer su s njom povezani **Eric Trump i Donald Trump Jr.**, a model poslovanja savršeno prikazuje zašto veliki rudari dominiraju.
 
 ABTC koristi sve prednosti velikih sustava:
-- pristup najjeftinijoj energiji u SAD-u (posebno u Teksasu i Wyomingu),  
-- snažnu političku podršku,  
-- agresivnu kupovinu ASIC opreme od manjih konkurenata,  
+- pristup najjeftinijoj energiji u SAD-u (posebno u Teksasu i Wyomingu),
+- snažnu političku podršku,
+- agresivnu kupovinu ASIC opreme od manjih konkurenata,
 - veliku infrastrukturu i pristup kapitalu.
 
-Njihov cilj je izgraditi **najveću “američku” rudarsku mrežu** dok SAD sve više gradi pro-Bitcoin regulatorni okvir.  
+Njihov cilj je izgraditi **najveću “američku” rudarsku mrežu**, dok SAD sve više gradi pro-Bitcoin regulatorni okvir.  
 ABTC ne igra na 2025. — nego na 2030.
 
 ---
