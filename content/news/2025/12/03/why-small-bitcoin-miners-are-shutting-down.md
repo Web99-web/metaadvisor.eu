@@ -89,19 +89,21 @@ Small miners can’t absorb prolonged negative margins.
 
 ---
 
-# Where American Bitcoin (ABTC) fits into the picture
+# How Does American Bitcoin (ABTC) Fit Into All This?
 
-(*Hidden link: [read our full report on American Bitcoin](https://metaadvisor.eu/hr/news/american-bitcoin-abtc-eric-trump-donald-trump-jr/)*)
+One of the most interesting developments of 2025 is the rapid rise of  
+**[American Bitcoin (ABTC)](https://metaadvisor.eu/news/american-bitcoin-abtc-eric-trump-donald-trump-jr/)**.
 
-One of the most notable examples in 2025 is the rapid rise of **American Bitcoin (ABTC)**, gaining attention due to connections with **Eric Trump and Donald Trump Jr.**
+The company is in the public spotlight because it is associated with **Eric Trump and Donald Trump Jr.**, and its business model perfectly illustrates why large miners dominate the industry.
 
-ABTC benefits from:
-- ultra-low power costs in Texas and Wyoming,  
-- strong political tailwinds,  
-- aggressive acquisition of ASIC hardware from distressed miners,  
-- large-scale infrastructure and capital access.  
+ABTC benefits from all the advantages of large-scale systems:
+- access to the cheapest energy in the U.S. (especially in Texas and Wyoming),
+- strong political backing,
+- aggressive acquisition of ASIC equipment from smaller competitors,
+- extensive infrastructure and access to capital.
 
-Its long-term goal is to build a **nationwide U.S. mining network** — playing for 2030, not 2025.
+Its goal is to build the **largest “American” mining network**, as the U.S. increasingly develops a pro-Bitcoin regulatory framework.  
+ABTC isn’t playing for 2025 — it’s playing for 2030.
 
 ---
 
