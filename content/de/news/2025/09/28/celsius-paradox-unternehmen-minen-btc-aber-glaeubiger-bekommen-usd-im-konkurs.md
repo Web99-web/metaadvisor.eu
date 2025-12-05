@@ -5,11 +5,10 @@ date: 2025-09-28T15:50:00Z
 category: "crypto"
 translationKey: "celsius-usd-vs-btc"
 author: "Metaadvisor.eu"
-
-image_url: "/images/celsius.png"
-featured_image: "/images/celsius.png"
-image: "/images/celsius.png"
-thumbnail: "/images/celsius.png"
+image_url: "/images/Celsius.png"
+featured_image: "/images/Celsius.png"
+image: "/images/Celsius.png"
+thumbnail: "/images/Celsius.png"
 image_alt: "Celsius Bankruptcy (symbolisch)"
 image_credit: "Metaadvisor.eu"
 
