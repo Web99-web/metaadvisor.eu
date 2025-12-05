@@ -135,14 +135,19 @@ EMIs can:
 
 On centralized exchanges:
 
-- the exchange holds the private keys  
-- the exchange controls access  
-- withdrawals can be paused  
-- in bankruptcy, users are creditors  
+- the exchange holds the **private keys**  
+- the exchange controls **access**  
+- withdrawals can be **paused or frozen**  
+- in bankruptcy, users are treated as **creditors**, not owners  
 
 > **Crypto on an exchange is not your crypto.**
 
-Examples: FTX, Celsius, Mt. Gox.
+Examples:  
+FTX,  
+[Celsius](https://metaadvisor.eu/news/celsius-paradox-company-mines-btc-but-creditors-get-usd-in-bankruptcy/),  
+Mt. Gox.
+
+
 
 ---
 
