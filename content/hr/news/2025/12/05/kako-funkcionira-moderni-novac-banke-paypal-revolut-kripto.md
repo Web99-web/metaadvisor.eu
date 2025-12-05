@@ -133,16 +133,20 @@ Kod PayPala **ne postoji osiguranje depozita** kao u bankama.
 
 # 🏛️ 5) Kripto burze (CEX) — korisnik nije vlasnik sredstava
 
-Na CEX burzama:
+Na kripto burzama (CEX):
 
-- burza kontrolira privatne ključeve  
-- burza odlučuje o isplatama  
-- burza može zamrznuti sredstva  
-- u slučaju bankrota — korisnik je vjerovnik  
+- burza kontrolira **privatne ključeve**
+- burza odlučuje o **isplatama**
+- burza može **zamrznuti sredstva**
+- u slučaju **bankrota**, korisnik postaje **vjerovnik**, a ne vlasnik imovine
 
-> **Kripto na burzi nije kripto koji stvarno posjedujete.**
+**Kripto na burzi nije kripto koji stvarno posjedujete.**
 
-Primjeri: FTX, Celsius, Mt. Gox.
+Primjeri:  
+FTX,  
+[Celsius](https://metaadvisor.eu/hr/news/celsius-paradoks-firma-rudari-btc-ali-vjerovnici-dobiju-usd-u-bankrotu/),  
+Mt. Gox.
+
 
 ---
 
