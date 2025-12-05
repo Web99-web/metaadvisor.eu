@@ -34,11 +34,12 @@ summary: "Solmate in Abu Dhabi plans to acquire RockawayX from the Czech Republi
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">
-  <a href="/go/mexc" target="_blank" rel="nofollow sponsored"
-     style="background:#11e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
-     👉 Trade BTC on MEXC — bonuses up to 6200 USDT
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Claim your Bitget bonus up to 6200 USDT — register now
   </a>
 </p>
+
 
 # Solmate to Acquire RockawayX: Abu Dhabi + Prague Form a New Solana Infrastructure Giant
 
