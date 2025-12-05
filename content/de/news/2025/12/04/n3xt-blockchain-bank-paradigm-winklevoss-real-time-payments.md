@@ -1,7 +1,7 @@
 ---
 title: "N3XT: Die neue Blockchain-Bank aus den USA – unterstützt von Paradigm und den Winklevoss-Zwillingen"
 slug: "n3xt-blockchain-bank-paradigm-winklevoss-real-time-payments"
-date: 2025-12-04T12:00:00Z
+date: 2025-12-05T12:00:00Z
 category: "ai"
 translationKey: "n3xt_blockchain_bank_20251204"
 source: "CoinDesk"
