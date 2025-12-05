@@ -131,16 +131,20 @@ EMIs können:
 
 # 🏛️ 5) Krypto-Börsen (CEX) — kein echtes Eigentum
 
-Auf CEX-Börsen:
+Auf zentralisierten Krypto-Börsen (CEX):
 
-- die Börse besitzt die privaten Schlüssel  
-- die Börse kontrolliert die Auszahlungen  
-- die Börse kann Konten sperren  
-- im Insolvenzfall sind Nutzer Gläubiger  
+- die Börse besitzt die **privaten Schlüssel**  
+- die Börse kontrolliert die **Auszahlungen**  
+- die Börse kann **Konten einfrieren**  
+- im Insolvenzfall sind Nutzer **Gläubiger**, nicht Eigentümer  
 
-> **Krypto auf der Börse ist nicht Ihr Krypto.**
+**Krypto auf der Börse ist nicht Ihr Krypto.**
 
-Beispiele: FTX, Celsius, Mt. Gox.
+Beispiele:  
+FTX,  
+[Celsius](https://metaadvisor.eu/de/news/celsius-paradox-unternehmen-minen-btc-aber-glaeubiger-bekommen-usd-im-konkurs/),  
+Mt. Gox.
+
 
 ---
 
