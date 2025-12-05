@@ -1,7 +1,7 @@
 ---
 title: "N3XT: Nova blockchain banka iz SAD-a koju podržavaju Paradigm i Winklevoss — može li promijeniti globalna plaćanja?"
 slug: "n3xt-blockchain-banka-paradigm-winklevoss-real-time-placanja"
-date: 2025-12-04T12:00:00Z
+date: 2025-12-05T12:00:00Z
 category: "ai"
 translationKey: "n3xt_blockchain_banka_20251204"
 source: "CoinDesk"
