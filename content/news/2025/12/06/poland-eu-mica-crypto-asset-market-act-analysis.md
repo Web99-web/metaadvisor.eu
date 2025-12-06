@@ -35,8 +35,13 @@ This means:
 And yet, across Europe, **99% of citizens have no idea what MiCA is**, and even within the crypto industry, only 60–90% understand how deep its impact truly is.
 
 For a full explanation, read our complete MiCA guide:  
-👉 **MiCA: Does the new EU crypto regulation protect consumers, banks — or expand state control over crypto?**  
-https://metaadvisor.eu/news/what-is-mica-eu-crypto-regulation/
+👉 <h3 style="margin-top:18px;">
+  👉 <a href="https://metaadvisor.eu/news/what-is-mica-eu-crypto-regulation/"
+        style="font-weight:700; text-decoration:none; color:#1e40af;">
+        MiCA: Does the new EU crypto regulation protect consumers, banks — or expand state control over crypto?
+  </a>
+</h3>
+
 
 ---
 
@@ -130,7 +135,13 @@ Across the EU:
 ⛔ Even crypto users often don’t understand its consequences.
 
 Read the full explanation here:  
-👉 https://metaadvisor.eu/news/what-is-mica-eu-crypto-regulation/
+👉 <h3 style="margin-top:18px;">
+  👉 <a href="https://metaadvisor.eu/news/what-is-mica-eu-crypto-regulation/"
+        style="font-weight:700; text-decoration:none; color:#1e40af;">
+        MiCA: Does the new EU crypto regulation protect consumers, banks — or expand state control over crypto?
+  </a>
+</h3>
+
 
 ---
 
