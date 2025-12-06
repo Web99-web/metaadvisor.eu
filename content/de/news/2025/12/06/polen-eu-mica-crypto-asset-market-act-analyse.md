@@ -37,8 +37,12 @@ Das Ergebnis ist historisch:
 Gleichzeitig kennen **99 % der EU-Bürger MiCA überhaupt nicht**, und selbst in der Kryptoszene wissen viele nicht, was diese Regulierung wirklich bedeutet.
 
 Darum empfehlen wir Hintergrundwissen hier:  
-👉 **MiCA: Schützt die neue EU-Krypto-Regulierung Verbraucher, Banken oder dient sie der vollständigen Kontrolle über Krypto?**  
-https://metaadvisor.eu/de/news/was-ist-mica-eu-krypto-regulierung/
+👉 <h3 style="margin-top:18px;">
+  👉 <a href="https://metaadvisor.eu/de/news/was-ist-mica-eu-krypto-regulierung/"
+        style="font-weight:700; text-decoration:none; color:#1e40af;">
+        MiCA: Schützt die neue EU-Krypto-Regulierung Verbraucher, Banken oder dient sie der vollständigen Kontrolle über Krypto?
+  </a>
+</h3>
 
 ---
 
@@ -127,7 +131,13 @@ MiCA ist:
 ⛔ **Viele Krypto-Nutzer verstehen die Folgen nicht.**
 
 Hier gibt es den vollständigen Überblick:  
-👉 https://metaadvisor.eu/de/news/was-ist-mica-eu-krypto-regulierung/
+👉 <h3 style="margin-top:18px;">
+  👉 <a href="https://metaadvisor.eu/de/news/was-ist-mica-eu-krypto-regulierung/"
+        style="font-weight:700; text-decoration:none; color:#1e40af;">
+        MiCA: Schützt die neue EU-Krypto-Regulierung Verbraucher, Banken oder dient sie der vollständigen Kontrolle über Krypto?
+  </a>
+</h3>
+
 
 ---
 
