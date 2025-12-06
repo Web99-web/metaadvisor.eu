@@ -102,7 +102,7 @@ Kolaps je bio toliko velik da su ga američki tužitelji kasnije nazvali:
 Kolaps Terra-Lune pokrenuo je lančanu reakciju:
 
 - implozija Three Arrows Capital  
-- problemi s <a href="https://metaadvisor.eu/hr/news/celsius-paradoks-firma-rudari-btc-ali-vjerovnici-dobiju-usd-u-bankrotu/" target="_blank" rel="nofollow">Celsiusom</a>  
+- problemi i kasniji kolaps  <a href="https://metaadvisor.eu/hr/news/celsius-paradoks-firma-rudari-btc-ali-vjerovnici-dobiju-usd-u-bankrotu/" target="_blank" rel="nofollow">Celsiusom</a>  
 - kasniji kolaps <a href="https://metaadvisor.eu/hr/news/tko-se-sjeca-ftx-bankrota-kripto-krah-lessons/" target="_blank" rel="nofollow">FTX-a</a>  
 - stroža regulacija stablecoina  
 - globalna istraživanja i uhićenja Do Kwona
