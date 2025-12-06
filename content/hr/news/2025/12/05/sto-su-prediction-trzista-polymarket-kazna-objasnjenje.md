@@ -24,9 +24,13 @@ summary: "Prediction tržišta postaju novi financijski fenomen. Objašnjavamo k
      👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
   </a>
 </p>
+---
+🔵 Zašto prediction tržišta NISU kockanje?
 
+Prediction tržišta nisu kockanje jer imaju binarne, mjerljive i ekonomski relevantne ishode — a njihova cijena predstavlja procijenjenu vjerojatnost događaja, ne koeficijent klađenja.
 # Polymarket i prediction tržišta: što su, kako rade, zašto nisu kockanje — i zašto je platforma bila kažnjena
 
+---
 Prediction tržišta eksplodiraju u popularnosti.  
 Ljudi na njima trguju ne dionicama, ne kriptom — nego **vjerojatnostima stvarnih događaja**:
 
