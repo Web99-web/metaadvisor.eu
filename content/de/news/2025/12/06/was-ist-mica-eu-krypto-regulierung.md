@@ -1,6 +1,6 @@
 ---
 title: "MiCA: Schützt die neue EU-Krypto-Regulierung Verbraucher, Banken oder dient sie der vollständigen Kontrolle über Krypto?"
-slug: "mica-eu-krypto-regulierung-analyse"
+slug: "was-ist-mica-eu-krypto-regulierung"
 date: 2025-12-06T12:00:00Z
 category: "crypto"
 translationKey: "mica_eu_crypto_regulacija_06122025"
