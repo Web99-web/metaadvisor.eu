@@ -123,6 +123,16 @@ Upravo zato, iako se Do Kwon možda nadao brzom tranzitu prema UAE, Crna Gora se
 
 ---
 
+### 🌕 A najapsurdniji dio: kako je mislio da će proći?
+
+Cijela situacija dobiva dodatnu dozu ironije kad se prisjetimo da je Do Kwon putovao s putovnicama zemalja čijim državljanima ni fizički ni kulturološki ne nalikuje. Teško je povjerovati da je mislio kako će proći kao Kostarikanac ili Srbin, pogotovo u regiji gdje se odmah primijeti kada netko ne govori nijedan lokalni jezik.
+
+Uz to, pokušati proći nezapaženo kroz zračnu luku u Crnoj Gori – zemlji poznatoj po strogoj provjeri dokumenata i dugoj tradiciji policijskog nadzora još iz doba bivše Jugoslavije – bilo je unaprijed osuđeno na neuspjeh. U takvom sustavu, gdje se pogrešan pečat ili nijansa holograma odmah primijeti, pokušavati putovati s lažnom putovnicom izgleda kao potez osobe koja nikada nije čula za balkansku birokraciju.
+
+Drugim riječima, dok je zamišljao da će se ukrcati na let prema Dubaiju i nestati, realnost je bila neumoljiva: izgled, dokumenti i lokacija bili su savršena kombinacija da ga policija zaustavi u roku od nekoliko minuta.
+
+---
+
 ## 🌕 Zašto je Terra-Luna važna i danas?
 
 Za nove kripto investitore, Terra-Luna je **najbolji primjer kako inovacija može nositi ogroman rizik**.
