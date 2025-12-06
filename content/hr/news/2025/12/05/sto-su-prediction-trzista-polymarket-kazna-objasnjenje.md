@@ -230,12 +230,123 @@ Jer ljudi stavljaju **svoj novac**, ne svoje mišljenje.
 
 ---
 
+## 🔵 Polymarket vs. Kalshi — dvije potpuno različite filozofije prediction tržišta
+
+Iako se oba bave “event ugovorima”, Polymarket i Kalshi su zapravo potpuno različiti svjetovi.
+
+### 🟣 1. Regulatorni status
+
+**Kalshi (SAD)**  
+✔ potpuno reguliran od CFTC-a  
+✔ njegove ugovore američka vlada klasificira kao *commodity futures*  
+✔ smije ponuditi samo ono što regulator odobri  
+✔ stroga pravila, strogi nadzor, sve transparentno  
+
+**Polymarket (globalno)**  
+✔ nereguliran u SAD-u (zato je bio kažnjen 1.4M USD 2022.)  
+✔ djeluje izvan američkog regulatornog okvira  
+✔ fleksibilniji, brži, inovativniji  
+✔ može ponuditi tržišta koja Kalshi *nikada ne bi smio*
+
+---
+
+### 🟣 2. Tko smije koristiti platformu?
+
+**Kalshi**  
+- koriste samo *Amerikanci*  
+- potrebna verifikacija identiteta (SSN)  
+- potpuno zatvoreno tržište za ostatak svijeta  
+
+**Polymarket**  
+- koristi *cijeli svijet* osim Amerikanaca  
+- kripto-native  
+- bez SSN-a  
+- naglasak na decentraliziranu infrastrukturu
+
+---
+
+### 🟣 3. Koji tipovi tržišta postoje?
+
+**Kalshi** (strogo regulirano)  
+Može ponuditi samo ono što ima ekonomsku i političku vrijednost, npr.:
+
+- inflacija  
+- kamatne stope  
+- ekonomski pokazatelji  
+- izbori  
+- vremenski uvjeti (za agrikulturu)  
+- makroekonomija  
+
+Sve mora imati **javno mjerljiv ishod** i **ekonomski razlog**.
+
+**Polymarket** (fleksibilno Web3 tržište)  
+Može ponuditi i ozbiljna i “light” tržišta, npr.:
+
+- izbori  
+- BTC cijena  
+- geopolitički događaji  
+- pop kultura  
+- sportski rezultati  
+- društveni trendovi  
+
+Polymarket je “internet tržište vjerojatnosti”, dok je Kalshi “Wall Street tržište vjerojatnosti”.
+
+---
+
+### 🟣 4. Likvidnost: tko je osigurava?
+
+**Kalshi**  
+- ima vlastiti *Kalshi Trading* interni desk  
+- imaju institucionalne market-makere (npr. Susquehanna)  
+- likvidnost je dublja i profesionalnija  
+- spread je vrlo nizak
+
+**Polymarket**  
+- ranije imao interni desk (problematično, ali legalno)  
+- sada traži *externi market-maker tim* (sportski bettor-i, HFT tradere…)  
+- likvidnost ovisi o zajednici i kripto kapitalu
+
+---
+
+### 🟣 5. Zašto je Polymarket kažnjen, a Kalshi nije?
+
+**Polymarket kazna 1.4M USD** bilo je zato što:
+
+- nije bio registriran u SAD-u  
+- nudio je američkim korisnicima “binarne opcije” bez licence  
+- dio tržišta nije bio u skladu s CFTC pravilima  
+
+**Kalshi** se ne može kazniti jer:
+
+- ima licencu  
+- svaki ugovor mora dobiti regulatorno odobrenje  
+- radi kao futures tržište, ne kao kripto protokol  
+
+Jednostavno:
+
+👉 Kalshi igra po pravilima Washingtona.  
+👉 Polymarket igra po pravilima interneta.
+
+---
+
+### 🟣 6. Zašto oba sustava mogu postojati — i to je dobro?
+
+- Kalshi je *institucionalni model*: stabilan, reguliran, profesionalan.  
+- Polymarket je *Web3 model*: otvoren, brz, inovativan.
+
+Jedan ne može zamijeniti drugi — oni imaju potpuno različite ciljne skupine.
+
+---
+
+### 🟦 Ako želiš razumjeti Kalshi još dublje, pročitaj ovu analizu:
+
 <h3 style="margin-top:18px;">
   👉 <a href="https://metaadvisor.eu/hr/news/kalshi-solana-tokenizacija-prediction-trzista/"
         style="font-weight:700; text-decoration:none; color:#1e40af;">
         Kalshi prelazi na Solanu: Tokenizacija političkih i makro ugovora mijenja budućnost prediction tržišta
   </a>
 </h3>
+
 
 ---
 
