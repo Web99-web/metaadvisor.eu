@@ -1,6 +1,6 @@
 ---
 title: "MiCA: Štiti li nova EU kripto regulativa potrošače, banke ili omogućuje veću kontrolu nad kriptom?"
-slug: "mica-eu-crypto-regulation-analiza"
+slug: "sto-je-mica-eu-kripto-regulativa"
 date: 2025-12-06T12:00:00Z
 category: "crypto"
 translationKey: "mica_eu_crypto_regulacija_06122025"
