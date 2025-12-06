@@ -128,7 +128,12 @@ a 60–90% kripto korisnika **ne zna što MiCA zapravo radi**.
 Da bi se razumjelo zašto je Poljska rekla NE — potrebno je razumjeti i MiCA-u.
 
 👉 Pročitaj naš detaljan vodič:  
-**[MiCA: Štiti li nova EU kripto regulativa potrošače, banke ili omogućuje veću kontrolu nad kriptom?](https://metaadvisor.eu/hr/news/sto-je-mica-eu-kripto-regulativa/)**
+<h3 style="margin-top:18px;">
+  👉 <a href="https://metaadvisor.eu/hr/news/sto-je-mica-eu-kripto-regulativa/" 
+        style="font-weight:700; text-decoration:none; color:#1e40af;">
+        MiCA: štiti li nova EU kripto regulativa potrošače, banke ili omogućuje veću kontrolu nad kriptom?
+  </a>
+</h3>
 
 ---
 
