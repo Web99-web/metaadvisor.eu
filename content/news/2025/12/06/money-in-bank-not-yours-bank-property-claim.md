@@ -211,7 +211,7 @@ An American in 2025 still:
 
 The Celsius paradox: the company mined BTC, yet creditors in bankruptcy received USD accounting.  
 Source:  
-https://metaadvisor.eu/hr/news/celsius-paradoks-firma-rudari-btc-ali-vjerovnici-dobiju-usd-u-bankrotu/
+https://metaadvisor.eu/news/celsius-paradox-company-mines-btc-but-creditors-get-usd-in-bankruptcy/
 
 People who held digital assets on the blockchain…  
 received a physical letter in their mailbox.  
@@ -294,8 +294,8 @@ And because:
 ---
 
 ## 🧩 BONUS: related article  
-👉 https://metaadvisor.eu/hr/news/kako-funkcionira-moderni-novac-banke-paypal-revolut-kripto/
-
+👉 
+https://metaadvisor.eu/news/how-modern-money-works-banks-paypal-revolut-crypto/
 ---
 
 ## 🟦 Our commentary (MetaAdvisor)
