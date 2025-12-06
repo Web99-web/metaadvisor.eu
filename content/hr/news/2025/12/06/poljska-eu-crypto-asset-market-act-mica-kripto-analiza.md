@@ -33,8 +33,10 @@ Ovo je veliki presedan: riječ je o **prvoj državi EU koja je aktivno blokirala
 I dok EU predstavlja MiCA-u kao “zaštitu korisnika”, većina građana **nema pojma što MiCA zapravo jest**. Iskreno, ni većina kripto korisnika ne zna detalje – procjene su da **60–90% ljudi u kriptu ne razumije** puni opseg regulacije.
 
 Zbog toga smo pripremili detaljni vodič:  
-👉 **MiCA: štiti li nova EU kripto regulativa potrošače, banke ili omogućuje veću kontrolu nad kriptom?**  
-*(klikni na naziv članka za potpuni pregled)*
+
+👉 <a href="https://metaadvisor.eu/hr/news/sto-je-mica-eu-kripto-regulativa/" target="_blank" rel="nofollow">
+MiCA: štiti li nova EU kripto regulativa potrošače, banke ili omogućuje veću kontrolu nad kriptom?
+</a>
 
 ---
 
