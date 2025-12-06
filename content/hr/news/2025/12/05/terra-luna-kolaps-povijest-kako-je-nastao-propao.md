@@ -110,7 +110,17 @@ Kolaps Terra-Lune pokrenuo je lančanu reakciju:
 Do Kwon je uhićen 2023. u Crnoj Gori zbog lažnih dokumenata, a SAD i Južna Koreja tražili su njegovu izručenje. U 2025. tužitelji traže **12 godina zatvora**.
 
 ---
+## 🌕 Uhićenje Do Kwona: zašto je baš Crna Gora bila kraj bijega?
 
+Nakon globalnog kolapsa Terra-Lune 2022., Do Kwon je mjesecima bio u bijegu, putujući kroz Europu i Aziju uz korištenje lažnih putovnica. Bijeg je završio 23. ožujka 2023. kada je uhićen na aerodromu u Podgorici, dok je pokušavao letjeti za Dubai s krivotvorenim dokumentima – uključujući lažnu kostarikansku i srpsku putovnicu.
+
+Crnogorska policija ga je uhitila trenutačno, a sud ga je osudio na četiri mjeseca zatvora zbog korištenja falsificiranih dokumenata. Njegovo uhićenje pokrenulo je međunarodnu utrku između SAD-a i Južne Koreje, koje su obje službeno zatražile njegovo izručenje zbog milijardske prijevare i manipulacije tržištem.
+
+Zanimljivo, malo tko razumije zašto je Crna Gora bila “nemoguće loše” mjesto za skrivanje. Dok su neki veliki europski gradovi relativno porozni, prostor bivše Jugoslavije desetljećima je bio poznat po izrazito snažnim državnim strukturama, policijskom nadzoru i navikama temeljite kontrole dokumenata. Ta kultura nadzora, razvijena još u vrijeme socijalističke Jugoslavije, i danas se vidi u vrlo strogom postupanju prema lažnim papirima i međunarodnim potragama.
+
+Upravo zato, iako se Do Kwon možda nadao brzom tranzitu prema UAE, Crna Gora se pokazala kao jedna od najgorih mogućih destinacija za bilo kakav pokušaj prikrivanja identiteta – policija je reagirala brzo, koordinirano i bez ikakvog prostora za manevriranje.
+
+---
 ## 🌕 Zašto je Terra-Luna važna i danas?
 
 Za nove kripto investitore, Terra-Luna je **najbolji primjer kako inovacija može nositi ogroman rizik**.
