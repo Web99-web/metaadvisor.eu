@@ -175,7 +175,7 @@ Polymarket je nakon toga potpuno redizajnirao platformu i povukao tržišta za a
 
 Nakon kazne:
 
-✔ ne dopušta Amerima pristup nereguliranim tržištima  
+✔ ne dopušta Amerikancima pristup nereguliranim tržištima  
 ✔ koristi pravne strukture izvan SAD-a  
 ✔ ne koristi interni desk za agresivne intervencije  
 ✔ sada traži vanjske market-makere (sportske bettere, high-frequency tradere itd.)
