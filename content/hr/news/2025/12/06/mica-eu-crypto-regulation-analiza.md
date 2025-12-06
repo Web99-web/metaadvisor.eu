@@ -98,7 +98,7 @@ Stvaranjem regulatornog okvira koji:
 
 Banke i velike burze (Coinbase, Kraken, Bitstamp...) to sve imaju.
 
-Ali startup koji radi iz garsonijere u Splitu – nema.
+Ali startup koji radi iz garsonijere  – nema.
 
 **MiCA čisti tržište od malih i ostavlja prostor samo velikima.**
 
@@ -150,7 +150,7 @@ Europa postaje teška za inovaciju.
 Najbolji projekti u povijesti blockchaina nastali su u limbu:
 
 - Bitcoin – bez kompanije, bez zakona  
-- Ethereum – nastao pre-regulacije  
+- Ethereum – nastao prije regulacije  
 - Uniswap – open-source projekt bez firme  
 - Aave – nastao kao eksperiment  
 - MakerDAO – decentraliziran, bez licenciranog entiteta  
@@ -217,7 +217,7 @@ MiCA je loša za:
 I čini ga kompatibilnim sa starim financijskim sustavom.
 
 To je dobro za stabilnost.  
-Loše za revoluciju.
+Loše za inovacije i revolucijska saznanja koja dolaze iz kaosa.
 
 ---
 
