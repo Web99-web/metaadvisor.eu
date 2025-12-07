@@ -60,7 +60,8 @@ Specijalizirani laboratorij koji može spašavati i fizički oštećene hardvers
 ### 3) KeychainX  
 Poznati po radu na Electrum wallet.dat datotekama i složenim slučajevima starijih walleta.
 
-Njihove usluge se naplaćuju samo ako uspiju — i to **15% do 30% vrijednosti spašenog iznosa**. Da, to je puno, ali u okolnostima gdje se često radi o 1 BTC, 10 BTC ili cijeloj ušteđevini, korisnici pristaju na to.
+Navodno, njihove se usluge naplaćuju samo ako je oporavak uspješan, iako u nekim tehnički zahtjevnijim slučajevima može postojati i određeni fiksni trošak unaprijed — sve ovisi o složenosti, potrebnom vremenu i vrsti oštećenja. Budući da se nerijetko radi o značajnim iznosima, korisnici pristaju na takve modele naplate.
+
 
 ## Tko vam ne može pomoći — i zašto?
 
