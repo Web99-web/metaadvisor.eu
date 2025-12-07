@@ -46,8 +46,6 @@ Danas se više ne pita „je li Bitcoin ovdje da ostane“, nego *tko će ga usp
 
 Slika koja sve ilustrira jasnije nego riječi:
 
-📸 **btc-in-2015-at-390usd.png**
-
 **Prije 10 godina:** 390 USD  
 **Danas:** ~90.000 USD
 
