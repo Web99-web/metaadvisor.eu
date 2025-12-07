@@ -63,7 +63,7 @@ Poznati po radu na Electrum wallet.dat datotekama i složenim slučajevima stari
 Navodno, njihove se usluge naplaćuju samo ako je oporavak uspješan, iako u nekim tehnički zahtjevnijim slučajevima može postojati i određeni fiksni trošak unaprijed — sve ovisi o složenosti, potrebnom vremenu i vrsti oštećenja. Budući da se nerijetko radi o značajnim iznosima, korisnici pristaju na takve modele naplate.
 
 
-## Tko vam ne može pomoći — i zašto?
+## Tko vam NE može pomoći — i zašto?
 
 - IT servisi  
 - Telegram / Discord “stručnjaci”  
