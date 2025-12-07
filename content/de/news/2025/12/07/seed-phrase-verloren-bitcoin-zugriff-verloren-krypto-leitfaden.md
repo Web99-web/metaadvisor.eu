@@ -58,9 +58,10 @@ Der bekannteste Experte für teilweise Seed-Phrasen und brute-force Rekonstrukti
 Ein spezialisiertes Labor für physisch beschädigte Hardware-Wallets.
 
 ### 3) KeychainX  
-International bekannt für die Arbeit mit Electrum wallet.dat Dateien.
+Bekannt für die Arbeit mit Electrum wallet.dat Dateien und komplexen Fällen älterer Wallets.
 
-Diese Teams verlangen nur im Erfolgsfall eine Gebühr – in der Regel **15 % bis 30 % des wiederhergestellten Betrags**. Das klingt hoch, ist aber üblich, wenn es um die Rettung von 1 BTC, 10 BTC oder mehr geht.
+Angeblich werden ihre Dienste meist nur im Erfolgsfall berechnet, wobei bei besonders technischen oder zeitintensiven Fällen auch ein fester Kostenanteil im Voraus anfallen kann. Die genaue Struktur hängt vom Einzelfall ab – insbesondere von der Komplexität, dem Zeitaufwand und der Art des Wallet-Problems. Da es häufig um beträchtliche Beträge geht, akzeptieren viele Nutzer solche Modelle.
+
 
 ## Wer kann NICHT helfen – und warum?
 
