@@ -60,10 +60,10 @@ A lab focused on recovering data from physically damaged hardware wallets.
 ### 3) KeychainX  
 Known for work on Electrum wallet.dat recovery and complex legacy cases.
 
-Their services are **expensive** and typically charged only upon success.  
-Fees vary depending on complexity, risk and amount recovered.
+Reportedly, their services are generally charged only if the recovery is successful, although in more complex or time-intensive cases a partial upfront fee may also apply. The exact fee structure varies from case to case and depends on factors such as technical difficulty, time required and the specific characteristics of the wallet involved.
 
-## Who cannot help — and why?
+
+## Who CANNOT help — and why?
 
 - IT shops  
 - Telegram/Discord “experts”  
