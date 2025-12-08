@@ -45,17 +45,28 @@ Njihova svrha bila je:
 - fizička reprezentacija digitalnog novca  
 - kolekcionarski predmet  
 
-Kovanice su izdavane u apoenima od 1 BTC do 1.000 BTC. Samo **šest komada** imalo je najveći iznos — 1.000 BTC — i dvije takve kovanice aktivirale su se sada.
+Kovanice su izdavane u apoenima od 1 BTC do 1.000 BTC.  
+Samo **šest komada** imalo je najveći iznos — 1.000 BTC — i dvije takve kovanice aktivirale su se sada.
 
-Projekt je ugašen 2013. nakon što je FinCEN optužio Caldwella za „emitiranje digitalnog novca bez licence“. Casascius je preko noći postao povijest.
+Projekt je ugašen 2013. nakon što je FinCEN optužio Caldwella za „emitiranje digitalnog novca bez licence“.  
+Casascius je preko noći postao povijest.
+
+## 🧩 **Što zapravo znači “Casascius”?**
+
+<div style="background:#f4f4f4; padding:18px 20px; border-radius:10px; border-left:4px solid #1e40af; margin:20px 0;">
+<strong>“Casascius” ne znači ništa — riječ ne postoji ni u engleskom ni u latinskom jeziku.</strong><br><br>
+Naziv je izmislio Mike Caldwell, tvorac fizičkih Bitcoin kovanica (2011.–2013.), a ujedno je to bilo i njegovo korisničko ime na Bitcointalk forumu.<br><br>
+Caldwell je rekao da ime nema skriveno značenje — odabrao ga je jer zvuči tehnološki, monetarno i dovoljno unikatno da bude brand.<br><br>
+Danas “Casascius” znači samo jedno: <strong>fizičke Bitcoin kovanice s ugrađenim privatnim ključem, kultni artefakt rane Bitcoin ere.</strong>
+</div>
 
 ## Zašto je netko pomaknuo 2.000 BTC baš sada?
 
 ### 1. Fizičko propadanje kovanica  
-Hologram s vremenom degradira. Ako se ošteti papir s ključem, BTC je izgubljen zauvijek.
+Hologram i papir s ključem mogu degradirati. Ako se to dogodi — BTC je izgubljen zauvijek.
 
 ### 2. Tehnološka zastarjelost  
-Stare ključne strukture teže se čitaju u modernim walletima.  
+Stari formati ključeva teže se učitavaju u modernim walletima.  
 Ove godine vlasnik jednog 100 BTC Casascius bara javno je priznao da je jedva uspio importirati ključ.
 
 ### 3. Nasljedstvo ili podjela imovine  
