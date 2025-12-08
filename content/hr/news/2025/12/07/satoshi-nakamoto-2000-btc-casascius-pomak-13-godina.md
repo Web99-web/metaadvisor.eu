@@ -1,7 +1,7 @@
 ---
 title: "Je li to Satoshi Nakamoto? Nakon 13 godina pomaknuto 2.000 BTC iz legendarnog Casascius trezora"
 slug: "satoshi-nakamoto-2000-btc-casascius-pomak-13-godina"
-date: 2025-12-07T12:00:00
+date: 2025-12-08T06:00:00
 category: "crypto"
 translationKey: "casascius_2000btc_1312_satoshi_question_hr001"
 source: "MetaAdvisor — analiza"
