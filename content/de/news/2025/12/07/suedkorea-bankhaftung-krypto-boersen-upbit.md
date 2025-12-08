@@ -27,10 +27,10 @@ summary: "Nach dem Upbit-Hack plant Südkorea ein Gesetz, das Krypto-Börsen wie
 
 Südkorea bereitet das strengste Regulierungspaket für die Kryptoindustrie vor: Börsen sollen künftig **wie Banken** für Nutzerschäden haften — selbst dann, wenn sie kein Verschulden trifft.  
 Der Schritt folgt dem schweren Sicherheitsvorfall bei **Upbit**, bei dem Millionenbeträge entwendet wurden:  
-👉 https://metaadvisor.eu/hr/news/upbit-hakiran-36-milijuna-sol-juzna-koreja-uvodi-stroze-kripto-mjere/
+👉 https://metaadvisor.eu/de/news/upbit-gehackt-36-millionen-sol-suedkorea-verschaerft-krypto-regeln/
 
 ## „Haftung ohne Verschulden“ – ein neues Modell für Krypto
-Die Finanzaufsicht FSC prüft Gesetzesänderungen, die Krypto-Börsen verpflichten würden, Nutzerverluste bei Hacks, technischen Ausfällen oder Systemstörungen zu erstatten — unabhängig davon, ob die Börse direkt verantwortlich ist.
+Die Finanzaufsicht FSC prüft Gesetzesänderungen, die Krypto-Börsen verpflichten würden, Nutzerverluste bei Hacks, technischen Ausfällen oder Systemstörungen zu erstatten — **unabhängig davon, ob die Börse direkt verantwortlich ist**.
 
 Dieses Haftungsmodell gilt bisher nur für:
 - Banken  
@@ -40,10 +40,10 @@ Mit der neuen Regelung würden Krypto-Börsen erstmals auf dasselbe Niveau wie t
 
 ## Hintergrund: Der Upbit-Hack
 Am 27. November wurden bei **Upbit** über **104 Milliarden KRW** (ca. 30 Mio. USD) in Solana-basierten Token innerhalb weniger Minuten abgezogen.  
-Details zum Vorfall:  
-👉 https://metaadvisor.eu/hr/news/upbit-hakiran-36-milijuna-sol-juzna-koreja-uvodi-stroze-kripto-mjere/
+Alle Details:  
+👉 https://metaadvisor.eu/de/news/upbit-gehackt-36-millionen-sol-suedkorea-verschaerft-krypto-regeln/
 
-Diese Attacke hat die Diskussion über unzureichende Sicherheitsstandards erneut entfacht.
+Der Vorfall hat erneut die Diskussion über unzureichende Sicherheitsmaßnahmen entfacht.
 
 ## 20 größere Systemausfälle seit 2023
 Daten der FSS zeigen:
@@ -52,7 +52,7 @@ Daten der FSS zeigen:
 - mehr als **900** betroffene Nutzer  
 - Schäden von über **5 Milliarden KRW**  
 
-Upbit verzeichnet allein **sechs** dieser Ausfälle — mit über 600 betroffenen Kunden.
+Upbit verzeichnet allein **sechs** dieser Ausfälle, mit über 600 betroffenen Kunden.
 
 ## Was bringt das neue Gesetz?
 Geplant sind:
@@ -68,8 +68,8 @@ Das Ziel: Krypto-Börsen sollen die gleiche Verantwortung wie Banken tragen.
 ## Unser Fazit (MetaAdvisor)
 - Südkorea setzt einen der härtesten regulatorischen Schritte in der globalen Kryptoindustrie.  
 - Börsen müssen erheblich mehr in Sicherheit investieren oder hohe Strafen riskieren.  
-- Das Vertrauen der Nutzer nach dem Upbit-Hack soll durch starke Regulierung zurückgewonnen werden.  
-- Andere asiatische Länder könnten diesem Modell folgen, sobald die Regelung in Kraft tritt.
+- Das Vertrauen der Nutzer nach dem Upbit-Hack soll durch starke Regulierung wiederhergestellt werden.  
+- Weitere asiatische Märkte könnten ähnliche Modelle übernehmen, falls sich dieses System bewährt.
 
 <p style="font-size:0.85rem; color:#777; margin-top:25px;">
 Dieser Artikel ist eine informative Analyse und stellt keine Finanzberatung dar. Kryptowährungen sind hochriskante Vermögenswerte, und jede Investitionsentscheidung sollte individuell getroffen werden.
