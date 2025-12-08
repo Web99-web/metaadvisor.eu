@@ -3,7 +3,7 @@ title: "Bitcoin und die Tulpenmanie: Warum der Vergleich nach 17 Jahren keinen S
 slug: "bitcoin-tulpenmanie-vergleich-17-jahre-unterschied"
 date: 2025-12-07T12:00:00
 category: "crypto"
-translationKey: "btc_tulip_strength_07122025_hr"
+translationKey: "btc_tulip_strength_07122025"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-buries-the-tulip-myth-after-17-years-of-proven-resilience-balchunas"
 author: "Cointelegraph — Übersetzung und Analyse MetaAdvisor.eu"
