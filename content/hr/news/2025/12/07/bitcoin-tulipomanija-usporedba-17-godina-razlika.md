@@ -3,7 +3,7 @@ title: "Bitcoin i tulipomanija: Zašto usporedba više nema smisla nakon 17 godi
 slug: "bitcoin-tulipomanija-usporedba-17-godina-razlika"
 date: 2025-12-07T12:00:00
 category: "crypto"
-translationKey: "btc_tulip_strength_07122025_hr"
+translationKey: "btc_tulip_strength_07122025"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-buries-the-tulip-myth-after-17-years-of-proven-resilience-balchunas"
 author: "Cointelegraph — prijevod i analiza MetaAdvisor.eu"
