@@ -73,11 +73,11 @@ Indijski kripto ekosustav podijeljen je na **CEX** (centralizirane burze) i **DE
 - ogroman rast među mladima  
 - lak za korištenje, mobilno orijentiran
 
-### **WazirX**
+### WazirX
 - nekad najveća indijska burza  
 - reputacija drastično pala nakon velikog hakiranja 2024.  
-- detaljna afera i sudska presuda ovdje:  
-  👉 https://metaadvisor.eu/hr/news/indija-madras-high-court-kripto-imovina-wazirx-xrp/
+- detaljna afera i sudska presuda opisana je **u ovom članku o WazirX-u i odluci Madras High Courta**(https://metaadvisor.eu/hr/news/indija-madras-high-court-kripto-imovina-wazirx-xrp/)
+
 
 ## **Globalne mjenjačnice**
 
