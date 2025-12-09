@@ -264,8 +264,8 @@ mapping:
   Fnality:    [fnality-136m.png]
   Stuttgart:    [boerse-stuttgart-digital.png]
   Spain:    [spain flag.jpg]
-  India:    [india-money.jpg, flipkart-india.png]
-  Japan:    [japan.png] 
+  India:    [india-money.jpg, flipkart-india.png, India-118,6-crypto-users.png]
+  Japan:    [japan.png, Bank-of-Japan.png] 
   El Salvador:    [ElSalvador-schoolBTC.png, El-Salvador-skolaBTC.png]
   chair:    [chair.png]
   Pulse ChatGPT:    [chatgpt-pulse.png]
@@ -292,7 +292,7 @@ mapping:
   Nevada:      [Nevada-AI-goldrush.png]
   Poland:      [Poland-crypto-MICA.png, Poland-crypto.png]
   Korea:     [South-Korea-new-crypto-rules.png]
-  Japan:   [Bank-of-Japan.png]
+  
 
   # --- Osobe / svijet / all ---
   Kevin Durant Coinbase:      [Kevin-Durant-coinbase.png]
