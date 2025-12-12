@@ -1,5 +1,5 @@
 ---
-title: "Netflix and Warner Bros: Secret meeting with Donald Trump reveals the biggest acquisition battle in streaming history"
+title: "Netflix and Warner Bros: Private meeting with Donald Trump reveals the biggest acquisition battle in streaming history"
 slug: "netflix-warner-bros-trump-meeting-acquisition"
 date: 2025-12-10T09:00:00
 category: "tech"
@@ -14,7 +14,7 @@ thumbnail: "/images/Netflix-Warner-Bros.png"
 image_alt: "Netflix and Warner Bros — acquisition dynamics and regulatory pressure"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["netflix","warner-bros","trump","acquisition","streaming","hollywood","paramount","regulation","market","analysis"]
-summary: "A secret meeting between Netflix co-CEO Ted Sarandos and Donald Trump about a potential Warner Bros acquisition exposes a tectonic shift — a battle for global streaming dominance and a historic restructuring of Hollywood."
+summary: "A private meeting between Netflix co-CEO Ted Sarandos and Donald Trump about a potential Warner Bros acquisition exposes a tectonic shift — a battle for global streaming dominance and a historic restructuring of Hollywood."
 ---
 
 <div class="cta">
@@ -24,10 +24,10 @@ summary: "A secret meeting between Netflix co-CEO Ted Sarandos and Donald Trump 
   <p>Start trading with high liquidity and advanced tools.</p>
 </div>
 
-# Netflix and Warner Bros: Secret meeting with Donald Trump reveals the biggest acquisition battle in streaming history
+# Netflix and Warner Bros: Private meeting with Donald Trump reveals the biggest acquisition battle in streaming history
 
 New reports from Bloomberg and The Hollywood Reporter have uncovered something that seemed almost unimaginable just months ago:  
-**A confidential meeting between Netflix co-CEO Ted Sarandos and Donald Trump to discuss a potential acquisition of Warner Bros.**
+**A private meeting between Netflix co-CEO Ted Sarandos and Donald Trump to discuss a potential acquisition of Warner Bros.**
 
 This development could redefine the entire entertainment landscape.
 
