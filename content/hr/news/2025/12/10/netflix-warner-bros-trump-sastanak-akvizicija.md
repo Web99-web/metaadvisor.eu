@@ -1,5 +1,5 @@
 ---
-title: "Netflix i Warner Bros.: Tajni sastanak s Donaldom Trumpom otkriva novu borbu za dominaciju streaming tržišta"
+title: "Netflix i Warner Bros.: Privatni sastanak s Donaldom Trumpom otkriva novu borbu za dominaciju streaming tržišta"
 slug: "netflix-warner-bros-trump-sastanak-akvizicija"
 date: 2025-12-10T09:00:00
 category: "tech"
@@ -14,20 +14,20 @@ thumbnail: "/images/Netflix-Warner-Bros.png"
 image_alt: "Netflix i Warner Bros — akvizicija i geopolitički pritisak"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["netflix","warner-bros","trump","akvizicije","streaming","tehnologija","hollywood","paramount","regulativa","trziste","analiza"]
-summary: "Netflixov tajni razgovor s Donaldom Trumpom o potencijalnoj akviziciji Warner Brosa otkriva duboku tektoniku — borbu za kontrolu nad globalnim streaming tržištem i povijesno restrukturiranje Hollywooda."
+summary: "Privatni Netflixov sastanak s Donaldom Trumpom o potencijalnoj akviziciji Warner Brosa otkriva duboku tektoniku — borbu za kontrolu nad globalnim streaming tržištem i povijesno restrukturiranje Hollywooda."
 ---
 
 <div class="cta">
-  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Fevents&source=events&utmSource=PremierInviter" target="_blank">
   💰 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
   </a>
   <p>Započni trgovati uz visoku likvidnost i napredne alate.</p>
 </div>
 
-# Netflix i Warner Bros.: Tajni sastanak s Donaldom Trumpom otkriva najveću borbu u povijesti streaminga
+# Netflix i Warner Bros.: Privatni sastanak s Donaldom Trumpom otkriva najveću borbu u povijesti streaminga
 
 Najnovija izvješća Bloomberga i The Hollywood Reportera otkrivaju nešto što je do jučer zvučalo gotovo nevjerojatno:  
-**Netflixov suizvršni direktor Ted Sarandos tajno se sastao s Donaldom Trumpom kako bi raspravio moguću akviziciju Warner Brosa.**
+**Netflixov suizvršni direktor Ted Sarandos privatno se sastao s Donaldom Trumpom kako bi raspravio moguću akviziciju Warner Brosa.**
 
 Ovo je susret koji može preoblikovati cijeli Hollywood.
 
@@ -55,7 +55,7 @@ Warner Bros je posljednjih godina iscrpljen:
 
 - gubitkom prihoda u streaming ratu,  
 - skupim restrukturiranjem HBO Max → Max,  
-- padom vrijednosti franšiza,  
+- padom vrijednosti frančiza,  
 - dugom većim od 40 milijardi USD.  
 
 CEO David Zaslav nije želio prodavati kompaniju, no situacija ga prisiljava razmotriti opcije.
