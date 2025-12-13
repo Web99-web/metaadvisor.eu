@@ -14,7 +14,7 @@ thumbnail: "/images/Pi-network.png"
 image_alt: "Pi Network – kriptovaluta koja već šest godina raste bez otvorenog tržišta"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["pi-network","kriptovalute","blockchain","rudarenje","mobilna-aplikacija","kripto-zajednica","likvidnost","trziste","analiza"]
-summary: "Pi Network je kripto-projekt koji već šest godina okuplja milijune korisnika bez otvorenog tržišta i jasne tržišne cijene, što ga čini jedinstvenim, ali i kontroverznim fenomenom."
+summary: "Pi Network je kripto-projekt koji već šest godina okuplja milijune korisnika bez otvorenog tržišta i jasne tržišne cijene, što ga čini jedinstvenim, ali i vrlo rizičnim fenomenom."
 ---
 
 # Pi Network već 6 godina raste bez tržišta
@@ -27,71 +27,73 @@ summary: "Pi Network je kripto-projekt koji već šest godina okuplja milijune k
   </a>
 </p>
 
-Pi Network je jedan od najneobičnijih projekata u povijesti kriptovaluta. Riječ je o sustavu koji već šest godina kontinuirano raste, okuplja milijune korisnika diljem svijeta, a pritom nikada nije imao otvoreno, slobodno tržište na kojem bi se njegova valuta mogla normalno kupovati i prodavati.
+Pi Network je jedan od najneobičnijih projekata u povijesti kriptovaluta. Već šest godina kontinuirano raste i okuplja milijune korisnika diljem svijeta, a pritom nikada nije imao otvoreno, slobodno tržište na kojem bi se njegova valuta mogla normalno kupovati i prodavati. Upravo ta kombinacija masovne popularnosti i potpune nelikvidnosti čini Pi Network jedinstvenim — ali i duboko kontroverznim.
 
 ---
 
 ## Kako je nastao Pi Network
 
-Pi Network je pokrenut 2019. godine u Sjedinjenim Američkim Državama, a iza projekta stoji tim povezan sa Sveučilištem Stanford. Glavna imena projekta su **Nicolas Kokkalis**, doktor računalnih znanosti s fokusom na distribuirane sustave, i **Chengdiao Fan**, doktorica društvenih znanosti koja se bavila proučavanjem ponašanja korisnika u digitalnim mrežama.
+Pi Network je pokrenut 2019. godine u Sjedinjenim Američkim Državama. Iza projekta stoji tim povezan sa Sveučilištem Stanford, a najpoznatija imena su Nicolas Kokkalis, doktor računalnih znanosti s fokusom na distribuirane sustave, i Chengdiao Fan, doktorica društvenih znanosti koja se bavila ponašanjem korisnika u digitalnim mrežama.
 
-Od samog početka ideja Pi Networka bila je približiti kriptovalute široj populaciji, bez potrebe za skupim hardverom ili tehničkim znanjem.
+Osnovna ideja bila je približiti kriptovalute “običnim ljudima”, bez potrebe za skupim hardverom, tehničkim znanjem ili financijskim ulaganjem.
 
 ---
 
 ## Kako funkcionira “rudarenje” Pi-ja
 
-Za razliku od Bitcoina i drugih ranih kripto-projekata, Pi je predstavljen kao valuta koju je moguće “rudariti” putem mobilne aplikacije, jednostavnim dnevnim klikom. Taj pristup uklonio je gotovo sve ulazne barijere i omogućio masovno širenje projekta.
+Za razliku od Bitcoina, Pi se ne rudari klasičnim računalnim procesima. Korisnici jednom dnevno otvaraju aplikaciju i potvrđuju svoju aktivnost, čime sudjeluju u distribuciji tokena.
 
-Važno je naglasiti da ovo nije rudarenje u klasičnom smislu, već **distribucija tokena** unutar zatvorenog sustava.
+Važno je naglasiti da se ovdje ne radi o pravom rudarenju, već o **internoj raspodjeli tokena unutar zatvorenog sustava**, bez tržišnog mehanizma koji bi određivao cijenu.
 
 ---
 
-## Gdje je Pi Network danas najpopularniji
+## Gdje je Pi Network najpopularniji
 
-Pi Network je osobito popularan u:
+Pi Network je posebno raširen u:
 - jugoistočnoj Aziji  
 - Africi  
 - Latinskoj Americi  
 - istočnoj Europi i na Balkanu  
 
-U tim regijama Pi se često doživljava kao besplatna prilika koja ne zahtijeva ulaganje novca, već samo vrijeme i strpljenje.
+U tim regijama Pi se često doživljava kao besplatna prilika — nešto što ne zahtijeva ulaganje novca, već samo vrijeme i strpljenje.
 
 ---
 
 ## Zašto je Pi popularan iako se ne može prodati
 
-Na prvi pogled to djeluje nelogično, no razlozi su prvenstveno psihološki.
+Popularnost Pi Networka proizlazi iz nekoliko psiholoških i društvenih čimbenika:
+- korisnici nemaju osjećaj financijskog rizika jer Pi nisu kupili
+- postoji snažna nada u budući listing na burzama
+- velika zajednica stvara dojam legitimnosti i sigurnosti
 
-### Psihologija besplatnog
-Budući da korisnici Pi nisu kupili, već su ga “zaradili”, ne osjećaju izravan financijski rizik.
-
-### Nada u budući listing
-Velik dio zajednice vjeruje da će Pi jednog dana biti listan na velikim burzama i tada ostvariti vrijednost.
-
-### Snaga zajednice
-Ogroman broj korisnika stvara osjećaj legitimnosti, iako sam broj korisnika ne jamči tržišnu vrijednost.
+Međutim, broj korisnika sam po sebi ne znači i stvarnu tržišnu vrijednost.
 
 ---
 
-## Kako ljudi pokušavaju prodati Pi i gdje nastaju problemi
+## Kako ljudi pokušavaju prodati Pi
 
-U praksi, dio korisnika pokušava prodati Pi putem privatnih P2P dogovora, najčešće preko društvenih mreža i aplikacija za poruke.
+U praksi, dio korisnika pokušava prodati Pi putem privatnih P2P dogovora, najčešće preko društvenih mreža i aplikacija za poruke. Takve transakcije odvijaju se izravno između dvije osobe, bez ikakvog službenog posrednika.
 
-### Zašto je to rizično
-- nema escrow sustava  
-- nema zaštite kupca ni prodavatelja  
-- prijevare su česte  
+### Što znači da “nema escrow sustava”
 
-Postoje i web-stranice koje prikazuju “PI cijenu”, no u većini slučajeva riječ je o IOU tokenima koji nemaju veze s pravim Pi Network tokenom.
+**Escrow sustav** je mehanizam zaštite u kojem neutralna treća strana (npr. burza ili pametni ugovor) privremeno drži novac ili kriptovalutu dok obje strane ne ispune dogovor.
+
+Kod normalnog kripto-trgovanja:
+- kupac prvo uplati novac u escrow
+- prodavatelj pošalje kriptovalutu
+- escrow automatski izvrši razmjenu kada su uvjeti ispunjeni
+
+Kod Pi Networka **takav sustav ne postoji**. To znači da jedna strana uvijek mora prva poslati — ili Pi ili novac. Ako druga strana nestane ili prevari, **nema povrata, nema zaštite i nema žalbe**.
+
+Zbog toga su prijevare kod pokušaja prodaje Pi-ja česte.
 
 ---
 
 ## Što bi se dogodilo da Pi izađe na tržište
 
-Ako bi Pi Network bio uvršten na burze, vrlo je vjerojatno da bi došlo do velikog sell-offa. Milijuni korisnika koji su godinama skupljali Pi bez troška pokušali bi prodati čim dobiju priliku, što bi stvorilo ogroman pritisak na cijenu.
+Ako bi Pi Network bio uvršten na burze, vrlo je vjerojatno da bi došlo do masovnog sell-offa. Milijuni korisnika koji su Pi skupljali bez troška pokušali bi prodati čim dobiju priliku, što bi stvorilo snažan pritisak na cijenu.
 
-Pad cijene sam po sebi ne bi morao značiti kraj projekta, ali bi jasno pokazao postoji li stvarna potražnja izvan same zajednice.
+Takav pad cijene ne bi nužno značio kraj projekta, ali bi jasno pokazao postoji li stvarna potražnja izvan same zajednice.
 
 ---
 
@@ -99,7 +101,7 @@ Pad cijene sam po sebi ne bi morao značiti kraj projekta, ali bi jasno pokazao 
 
 Tehnički gledano, Pi Network i dalje može biti listan na burzama, a osnivači su živi i aktivni. No što dulje projekt ostaje bez otvorenog tržišta, to su očekivanja veća, a razočaranje potencijalno dublje.
 
-Bez stvarne upotrebe i stvarnih kupaca, broj korisnika sam po sebi ne može jamčiti dugoročnu vrijednost.
+Bez stvarne upotrebe i stvarnih kupaca, masovnost sama po sebi ne jamči dugoročnu vrijednost.
 
 ---
 
@@ -114,8 +116,8 @@ Dok se ne pojavi stvarno, otvoreno tržište, sva vrijednost Pi-ja ostaje teorij
 ### Naš osvrt (MetaAdvisor)
 - Pi Network ima impresivnu bazu korisnika, ali bez tržišta.
 - Popularnost se temelji na očekivanjima, ne na likvidnosti.
-- Svaki daljnji odmak od tržišta povećava rizik razočaranja zajednice.
-- Bez stvarne upotrebe, masovnost sama po sebi ne znači vrijednost.
+- Nedostatak escrow sustava čini svaku prodaju iznimno rizičnom.
+- Bez stvarne upotrebe, masovnost ne znači i vrijednost.
 
 <p style="font-size:12px; color:#777; margin-top:28px;">
 Odricanje od odgovornosti: Ovaj članak služi isključivo u informativne svrhe i ne predstavlja financijski ili investicijski savjet. Kriptovalute nose visok rizik i mogu rezultirati potpunim gubitkom vrijednosti.
