@@ -1,7 +1,7 @@
 ---
 title: "Preferira li LinkedIn algoritam muške profile?"
 slug: "preferira-li-linkedin-algoritam-muske-profile"
-date: 2025-12-12T19:00:00
+date: 2025-12-13T19:00:00
 category: "news"
 translationKey: "linkedin_algorithm_gender_bias_12122025"
 source: "TechCrunch"
