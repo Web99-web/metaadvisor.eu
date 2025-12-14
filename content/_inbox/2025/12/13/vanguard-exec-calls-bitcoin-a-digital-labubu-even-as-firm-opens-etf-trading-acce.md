@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Vanguard’s global head of quantitative equity, John Ameriks, said bitcoin BTC $ 90,229.55 still resembles a speculative collectible more than an asset meant to build long-term wealth, comparing it to a “digital Labubu,” the plush toy that has become a popular collectible.
+Vanguard’s global head of quantitative equity, John Ameriks, said bitcoin BTC $ 90,171.37 still resembles a speculative collectible more than an asset meant to build long-term wealth, comparing it to a “digital Labubu,” the plush toy that has become a popular collectible.
 
 Ameriks’ words came during Bloomberg’s ETFs in Depth conference in New York on Thursday, where he said bitcoin lacks the income, compounding, and cash-flow traits Vanguard seeks when it evaluates long-term investments.
 

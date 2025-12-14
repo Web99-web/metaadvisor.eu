@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 90,229.55 has so far bounced above $90,000, 15% higher from its Nov. 21 low of around $80,000, with price finding confluence support across three important cost basis metrics: the 2024 yearly volume weighted cost basis, the True Market Mean, and the average U.S. spot exchange-traded fund (ETF) cost basis.
+Bitcoin BTC $ 89,443.71 has so far bounced above $90,000, 15% higher from its Nov. 21 low of around $80,000, with price finding confluence support across three important cost basis metrics: the 2024 yearly volume weighted cost basis, the True Market Mean, and the average U.S. spot exchange-traded fund (ETF) cost basis.
 
 These metrics help to identify where investors are most likely to defend positions during drawdowns. The area of support proved vital, as it aligned closely with the average acquisition prices of multiple investor cohorts.
 
