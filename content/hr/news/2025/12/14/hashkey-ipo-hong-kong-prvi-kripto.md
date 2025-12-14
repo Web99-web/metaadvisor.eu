@@ -18,13 +18,7 @@ tags: ["hashkey","ipo","hong kong","kriptovalute","burza","regulacija","defi","w
 summary: "HashKey planira postati prvi potpuno kripto-native IPO u Hong Kongu, testirajući može li strogo regulirani kripto model osvojiti povjerenje javnih tržišta."
 ---
 
-<div style="text-align:center; margin:22px 0;">
-  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1"
-     target="_blank" rel="nofollow sponsored"
-     style="background:#16a34a; color:#ffffff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
-     👉 Trguj kriptovalutama na reguliranoj burzi
-  </a>
-</div>
+<p style="text-align:center; margin:18px 0 8px 0;"> <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored" style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;"> 👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje </a> </p>
 
 ---
 
