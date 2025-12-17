@@ -27,6 +27,7 @@ summary: "Food blogeri bilježe pad prihoda jer Google AI generira izmiješane, 
   </a>
 </p>
 ---
+
 # Google AI stvara kaos među food blogerima — recepti se iskrivljuju, a prihodi padaju
 
 Googleov AI Mode zadnjih je mjeseci preplavio internet čudnim i iskrivljenim receptima — kombinacijama više različitih autora koje AI sastavlja u jedan, često potpuno neupotrebljiv recept.  
