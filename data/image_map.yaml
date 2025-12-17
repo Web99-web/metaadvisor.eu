@@ -89,7 +89,7 @@ mapping:
   
   mobile: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg]
-  google: [Google.png]
+  google: [Google.png, Google-al-cook-mess.png]
   meta FB: [MetaAdvisor.png, Meta-llama.png, facebook-ai-photos.png]
   Facebook: [Facebook1.png]
   OpenAi: [openai.png, Atlas.png]
