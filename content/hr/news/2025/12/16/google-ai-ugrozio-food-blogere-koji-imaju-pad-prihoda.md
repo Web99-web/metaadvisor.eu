@@ -13,10 +13,20 @@ image: "/images/Google-al-cook-mess.png"
 thumbnail: "/images/Google-al-cook-mess.png"
 image_alt: "Google AI cooking chaos illustration"
 image_credit: "MetaAdvisor AI-generated"
-tags: ["google", "ai", "food-blog", "recipes", "copyright", "ads", "seo", "content-creators"]
+tags: [
+  "google", "ai", "umjetna-inteligencija", "recepti", "food-blogeri",
+  "autorska-prava", "pad-prihoda", "seo", "kreativna-ekonomija",
+  "digitalni-mediji", "online-oglašavanje", "generativni-ai"
+]
 summary: "Food blogeri bilježe pad prihoda jer Google AI generira izmiješane, često pogrešne recepte, a korisnici sve češće dobivaju AI sažetke umjesto originalnih sadržaja."
 ---
-
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
+  </a>
+</p>
+---
 # Google AI stvara kaos među food blogerima — recepti se iskrivljuju, a prihodi padaju
 
 Googleov AI Mode zadnjih je mjeseci preplavio internet čudnim i iskrivljenim receptima — kombinacijama više različitih autora koje AI sastavlja u jedan, često potpuno neupotrebljiv recept.  
