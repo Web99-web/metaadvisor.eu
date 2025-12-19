@@ -3,7 +3,7 @@ title: "Što ako kvantna računala razbiju Bitcoin? Aptos uvodi tehnologiju koja
 slug: "aptos-post-kvantna-sigurnost-kvantna-racunala-bitcoin-opasnost"
 date: 2025-12-18T12:00:00
 category: "crypto"
-translationKey: "aptos_post_quantum_hr_16122025"
+translationKey: "aptos_post_quantum_16122025"
 source: "MetaAdvisor analiza — na temelju izvještaja Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
