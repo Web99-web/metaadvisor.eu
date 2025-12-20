@@ -3,7 +3,7 @@ title: "What if quantum computers break Bitcoin? Aptos introduces technology des
 slug: "aptos-post-quantum-security-bitcoin-risk"
 date: 2025-12-18T12:00:00
 category: "crypto"
-translationKey: "aptos_post_quantum_16122025"
+translationKey: "aptos_post_quantum_bitcoin_risk_18122025"
 source: "MetaAdvisor analysis — based on Cointelegraph reporting"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
