@@ -3,7 +3,7 @@ title: "Was, wenn Quantencomputer Bitcoin knacken? Aptos führt Technologie ein,
 slug: "aptos-post-quanten-sicherheit-bitcoin-gefahr"
 date: 2025-12-18T12:00:00
 category: "crypto"
-translationKey: "aptos_post_quantum_16122025"
+translationKey: "aptos_post_quantum_bitcoin_risk_18122025"
 source: "MetaAdvisor Analyse — basierend auf Berichten von Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
