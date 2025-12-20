@@ -1,6 +1,6 @@
 ---
 title: "Federal Reserve otvara vrata kriptu — ali samo na pola"
-slug: "federal-reserve-kripto-payment-accounts"
+slug: "fed-otvara-vrata-kriptu"
 date: 2025-12-19T12:00:00+01:00
 category: "crypto"
 translationKey: "fed_crypto_payment_accounts"
