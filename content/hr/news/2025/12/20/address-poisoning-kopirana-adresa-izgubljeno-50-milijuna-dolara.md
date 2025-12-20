@@ -77,8 +77,7 @@ Nakon što je napadač primio gotovo **50 milijuna USDT-a**, sredstva su vrlo br
 
 Ovim postupkom izvor sredstava je učinkovito zamagljen, a mogućnost praćenja i povrata svedena na minimum. Iako Tornado Cash više ne funkcionira kao klasičan projekt s javnim sučeljem, njegovi **pametni ugovori i dalje postoje na blockchainu** i mogu se izravno pozivati — što kriminalci i dalje koriste.
 
-### Tornado Cash: Roman Storm, Lazarus i najkontroverzniji kripto sudski slučaj desetljeća
-*(interni link u plavom naslovu u produkciji)*
+### [Tornado Cash: Roman Storm, Lazarus i najkontroverzniji kripto sudski slučaj desetljeća](https://metaadvisor.eu/hr/news/tornado-cash-roman-storm-lazarus-kripto-sudski-slucaj/)
 
 ## Zašto je ova prevara posebno značajna
 
