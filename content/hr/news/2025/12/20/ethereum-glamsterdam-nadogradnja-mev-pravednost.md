@@ -46,9 +46,7 @@ Ime Glamsterdam spaja dvije paralelne promjene:
 
 No iza simpatičnog imena krije se ozbiljna strukturna promjena.
 
-## 🔵 Fusaka nadogradnja: temelj za Glamsterdam  
-*(interni link u produkciji)*  
-[Što je donijela Ethereum Fusaka nadogradnja i zašto je bila važna](https://metaadvisor.eu/hr/news/ethereum-fusaka-nadogradnja-skaliranje-2025/)
+## 🔵 [Fusaka nadogradnja: temelj za Glamsterdam](https://metaadvisor.eu/hr/news/ethereum-fusaka-nadogradnja-skaliranje-2025/)
 
 Fusaka je smanjila troškove za nodeove i poboljšala operativnu učinkovitost mreže. Glamsterdam ide korak dalje — **ne optimizira samo performanse, već i fer ponašanje sudionika mreže**.
 
@@ -63,9 +61,7 @@ Danas u Ethereum mreži često isti akteri:
 
 To otvara prostor za MEV.
 
-## 🔵 Što je MEV i zašto je problem za Ethereum  
-*(interni link u produkciji)*  
-[Što je MEV i kako funkcionira u DeFi-ju](https://metaadvisor.eu/hr/news/sto-je-mev-trgovanje-defi/)
+## 🔵 [Što je MEV i zašto je problem za Ethereum](https://metaadvisor.eu/hr/news/sto-je-mev-trgovanje-defi/)
 
 ## Kako ePBS mijenja pravila igre
 
