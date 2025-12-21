@@ -24,6 +24,8 @@ mapping:
   ethena:   [ethena-usde-14b.png, ethena-logo.png]
   Vitalik:  [Vitalik_Buterin.jpg]
   ETH Fusaka:   [eth-fusaka.png]
+  ETH Glamsetrdam:   [ETH-Glamsterdam-MEV.png]
+  
   
   # --- SOL/ DOT / LINK / itd. (primjeri) ---
   solana:   [solana.jpg, solana1.jpg, solana-sol.png, percolator.png]
