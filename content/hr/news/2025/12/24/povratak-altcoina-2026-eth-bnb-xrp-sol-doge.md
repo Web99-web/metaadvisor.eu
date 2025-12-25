@@ -28,6 +28,19 @@ tags:
 summary: "Nakon godina dominacije Bitcoina, 2026. bi mogla donijeti selektivan povratak altcoina. Analiziramo zašto bi ETH, BNB, XRP, SOL i DOGE ponovno mogli doći u fokus — i zašto ovaj ciklus neće nalikovati prijašnjima."
 ---
 
+<div class="cta" style="text-align:center; margin:24px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
+     target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#ffffff; padding:14px 26px; border-radius:10px;
+            text-decoration:none; font-weight:700; display:inline-block;">
+    💰 Ostvari Bitget bonus do 6.200 USDT — započni trgovanje
+  </a>
+  <p style="font-size:0.85em; color:#666; margin-top:6px;">
+    Registriraj se i započni trgovanje kriptovalutama na globalnoj burzi.
+  </p>
+</div>
+---
+
 ## Povratak altcoina u 2026.? Zašto bi ETH, BNB, XRP, SOL i DOGE mogli ponovno doći u fokus
 
 Nakon dvije godine u kojima je **Bitcoin gotovo potpuno dominirao kripto-tržištem**, sve se češće postavlja pitanje: dolazi li 2026. godina u kojoj će se kapital postupno početi prelijevati u altcoine?
