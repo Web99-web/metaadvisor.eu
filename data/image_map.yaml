@@ -341,7 +341,8 @@ mapping:
   # --- Green energy / Cars Trucks / other ---
   Slate truck: [Slate-truck.png]
   UK-driving tests: [UK-bot-driving-tests.png]
-  
+  robotaxi: [robotaxi.png]
+
 
   # --- Hakers/ Skimms / maleware ---
   SOL-maleware: [sol-skimmed-copilot.png]
