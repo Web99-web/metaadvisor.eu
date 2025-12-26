@@ -20,6 +20,11 @@ tags:
   - global-economy
 ---
 
+# IMF and El Salvador: Bitcoin Remains Part of the Strategy as Tensions Ease
+
+The International Monetary Fund (IMF) has softened its stance toward El Salvador, while praising the country’s **stronger-than-expected economic growth**. The IMF now projects **real GDP growth of around 4% in 2025**, marking a notable shift from its previously critical tone regarding El Salvador’s Bitcoin policy.
+
+---
 <p style="text-align:center; margin:18px 0 12px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
      target="_blank" rel="nofollow sponsored"
@@ -28,9 +33,7 @@ tags:
   </a>
 </p>
 
-# IMF and El Salvador: Bitcoin Remains Part of the Strategy as Tensions Ease
-
-The International Monetary Fund (IMF) has softened its stance toward El Salvador, while praising the country’s **stronger-than-expected economic growth**. The IMF now projects **real GDP growth of around 4% in 2025**, marking a notable shift from its previously critical tone regarding El Salvador’s Bitcoin policy.
+---
 
 ## Bitcoin no longer the main point of conflict
 
