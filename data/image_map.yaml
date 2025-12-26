@@ -47,7 +47,7 @@ mapping:
   sui: [sui.png]
   sei: [sei.png]
   ordinals: [ordi.png]
-  aave: [aave.png]
+  aave: [aave.png, AAVE-credits1.png, AAVE-credits.png]
   injective: [injective-inj.png]
   wifi: [wifi.png]
   rune: [thorchain-rune-logo.png]
