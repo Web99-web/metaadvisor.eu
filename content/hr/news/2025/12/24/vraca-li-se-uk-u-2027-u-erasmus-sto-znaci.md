@@ -23,6 +23,7 @@ tags:
 # UK i Erasmus: zašto se spominje 2027.
 
 Posljednjih mjeseci sve se češće pojavljuju tvrdnje da se **Ujedinjeno Kraljevstvo vraća u Erasmus+ program 2027. godine**. Ta godina se pojavljuje u medijima, analizama i političkim izjavama — ali važno je razumjeti **što ona zapravo predstavlja, a što ne**.
+
 ---
 
 <div class="cta" style="text-align:center; margin:24px 0;">
