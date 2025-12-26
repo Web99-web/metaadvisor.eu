@@ -28,15 +28,15 @@ summary: "Waymovi robotaksiji zapeli su tijekom nestanka struje u San Franciscu,
 
 # Robotaksiji stali bez struje: što se dogodilo u San Franciscu i što to znači za autonomnu vožnju
 
-Tijekom velikog **nestanka struje u San Franciscu**, Waymovi robotaksiji privukli su pozornost javnosti nakon što su brojna autonomna vozila **zastala na raskrižjima s ugašenim semaforima**, stvarajući prometne zastoje i kaos u pojedinim dijelovima grada.
+Tijekom velikog **nestanka struje u San Franciscu**, Waymovi robotaksiji privukli su pozornost javnosti nakon što su brojna autonomna vozila zastala na raskrižjima s ugašenim semaforima, stvarajući prometne zastoje i kaos u pojedinim dijelovima grada.
 
 ## Zašto su se robotaksiji zaustavili?
 
-Waymo je objasnio da njihovi sustavi autonomne vožnje **ugašene semafore tretiraju kao četverosmjerna stajanja**, isto kao i ljudski vozači. U teoriji, takvo ponašanje trebalo bi omogućiti normalno odvijanje prometa čak i tijekom blackouta.
+Waymo je objasnio da njihovi sustavi autonomne vožnje ugašene semafore tretiraju kao **četverosmjerna stajanja**, isto kao i ljudski vozači. U teoriji, takvo ponašanje trebalo bi omogućiti normalno odvijanje prometa čak i tijekom blackouta.
 
-### Problem s „prevelikim oprezom“
+### Problem s prevelikim oprezom
 
-U praksi se pokazalo da je sustav bio **previše konzervativan**. Velik broj robotaksija istovremeno je zatražio dodatnu potvrdu od Waymovog tima za nadzor flote kako bi potvrdio da je njihova procjena situacije ispravna. Zbog razmjera nestanka struje, došlo je do naglog porasta tih zahtjeva, što je dovelo do zastoja i blokiranih raskrižja.
+U praksi se pokazalo da je sustav bio **previše konzervativan**. Velik broj robotaksija istovremeno je zatražio dodatnu potvrdu od Waymovog tima za nadzor flote kako bi potvrdio ispravnost procjene situacije. Zbog razmjera nestanka struje, došlo je do naglog porasta tih zahtjeva, što je rezultiralo zastojima i blokiranim raskrižjima.
 
 ## Kako Waymo planira riješiti problem?
 
@@ -44,17 +44,17 @@ Waymo je priznao da je ovaj mehanizam provjera dizajniran „iz obilja opreza“
 
 ### Softverska nadogradnja kao rješenje
 
-Tvrtka je najavila **softversku nadogradnju** koja će autonomnim vozilima dati dodatni kontekst o regionalnim nestancima struje. Cilj je omogućiti sustavu da u izvanrednim situacijama **donosi odlučnije odluke bez potrebe za ljudskom intervencijom**, uz zadržavanje visokih sigurnosnih standarda.
+Tvrtka je najavila **softversku nadogradnju** koja će autonomnim vozilima dati dodatni kontekst o regionalnim nestancima struje. Cilj je omogućiti sustavu da u izvanrednim situacijama donosi **odlučnije odluke bez potrebe za ljudskom intervencijom**, uz zadržavanje visokih sigurnosnih standarda.
 
 ## Koliko su robotaksiji zapravo zakazali?
 
-Iako su videozapisi zastoja postali viralni, Waymo ističe da su njihova vozila tog dana **uspješno prošla kroz više od 7.000 raskrižja s ugašenim semaforima**. No upravo su rijetki, ali vidljivi kvarovi pokazali koliko su rubni scenariji i dalje veliki izazov za autonomnu vožnju.
+Iako su videozapisi zastoja postali viralni, Waymo ističe da su njihova vozila tog dana **uspješno prošla kroz više od 7.000 raskrižja s ugašenim semaforima**. No upravo su rijetki, ali vidljivi problemi pokazali koliko su rubni scenariji i dalje velik izazov za autonomnu vožnju.
 
 ## Kako bi se drugi robotaksi sustavi snašli?
 
-Incident otvara šire pitanje o spremnosti autonomnih vozila u kriznim situacijama. U Europi se autonomna mobilnost često razvija uz jači naglasak na **integraciju s infrastrukturom i centralizirani nadzor**.
+Incident u San Franciscu prirodno otvara pitanje kako bi se u sličnim situacijama snašli **europski projekti autonomne vožnje**. U Europi se o robotaksijima i autonomnim vozilima često govori u kontekstu proizvođača poput Rimca, ali i drugih europskih tehnoloških i automobilskih inicijativa koje razvijaju sustave autonomne mobilnosti.
 
-Primjerice, tehnološka rješenja povezana s **:contentReference[oaicite:0]{index=0}** i sličnim europskim projektima često kombiniraju autonomiju s naprednim sustavima daljinskog nadzora, upravo kako bi se izbjegli ovakvi zastoji u izvanrednim okolnostima.
+No ključno pitanje zasad ostaje otvoreno: **jesu li ta vozila uopće već operativna na javnim cestama** i kako bi reagirala u izvanrednim okolnostima poput masovnog nestanka struje ili kvara gradske infrastrukture? Za razliku od Wayma, čiji robotaksiji svakodnevno voze u stvarnom prometu, većina europskih projekata još je u fazi testiranja, pilot-programa ili ograničenih demonstracija, zbog čega njihova otpornost u kriznim situacijama zasad ostaje — **neprovjerena**.
 
 ## Lekcija za cijelu industriju
 
