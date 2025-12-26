@@ -24,6 +24,14 @@ tags:
   - kripto-kultura
 ---
 
+# Bitcoin postaje glazba: brazilski orkestar pretvara cijenu BTC-a u zvuk
+
+Može li se volatilnost Bitcoina čuti?  
+U Brazilu — odgovor je **da**.
+
+Jedinstveni kulturni projekt pretvara **kretanje cijene Bitcoina u glazbu koju izvodi živi orkestar**, spajajući financijska tržišta, matematiku, umjetnost i tehnologiju u jednom nastupu.
+
+---
 <p style="text-align:center; margin:18px 0 12px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
      target="_blank" rel="nofollow sponsored"
@@ -32,12 +40,7 @@ tags:
   </a>
 </p>
 
-# Bitcoin postaje glazba: brazilski orkestar pretvara cijenu BTC-a u zvuk
-
-Može li se volatilnost Bitcoina čuti?  
-U Brazilu — odgovor je **da**.
-
-Jedinstveni kulturni projekt pretvara **kretanje cijene Bitcoina u glazbu koju izvodi živi orkestar**, spajajući financijska tržišta, matematiku, umjetnost i tehnologiju u jednom nastupu.
+---
 
 ## Kako Bitcoin postaje glazba
 
