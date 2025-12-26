@@ -37,16 +37,30 @@ Važno je odmah razjasniti jednu stvar: **Aave nije banka i nije mjenjačnica**.
 
 Posudba se odvija preko Aave web aplikacije, uz korištenje vlastitog kripto-novčanika.
 
-Proces izgleda ovako:
+## Kako to izgleda u praksi (jednostavno)
 
-- korisnik ima kripto-novčanik (npr. MetaMask)
-- poveže novčanik s Aave platformom
-- položi kriptoimovinu kao zalog (ETH, wBTC, stETH i sl.)
-- na temelju tog zaloga posuđuje drugi token, najčešće stablecoine poput USDC-a ili DAI-ja
+- Korisnik ima kripto-novčanik (npr. MetaMask)  
+- U pregledniku otvori **app.aave.com**  
+- Klikne **“Connect wallet”**  
+- Odabere svoj novčanik (MetaMask, WalletConnect, itd.)  
 
-Nema registracije, nema e-maila i nema provjere identiteta. Sve se odvija izravno iz novčanika korisnika.
+Nakon povezivanja može:
+- položiti kripto kao zalog  
+- posuditi stablecoine ili druge tokene  
+- pratiti kamate i rizik likvidacije  
 
-Ako vrijednost zaloga padne ispod sigurnosne granice, sustav automatski aktivira likvidaciju kako bi zaštitio posuđeni novac. Upravo zato Aave funkcionira bez ljudi i bez ručne kontrole.
+Sve se događa **direktno iz novčanika**, bez registracije i bez korisničkog računa.
+
+Ako vrijednost zaloga padne ispod sigurnosne granice, sustav automatski aktivira likvidaciju kako bi zaštitio posuđeni novac. Upravo zato Aave funkcionira **bez ljudi i bez ručne kontrole**.
+
+## Važno upozorenje
+
+- Aave **nema klasičan login**  
+- Nema e-maila, lozinke ni korisničkog računa  
+- Ako neka stranica traži registraciju → **to nije Aave**  
+
+Uvijek provjeriti da piše **app.aave.com** — phishing stranice su česte.
+
 
 ## Kako Aave zarađuje
 
