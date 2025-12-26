@@ -38,6 +38,7 @@ A clear example comes from **Brett Harrison**, former president of FTX US. His n
   </a>
 </div>
 ---
+
 ### A shift toward professional market participants
 
 Unlike the previous market cycle, which was dominated by retail speculation and high-risk products, the current wave of investment is focused on **institutions, funds and professional traders**. Key priorities include:
