@@ -20,6 +20,12 @@ tags:
   - eu-programme
 ---
 
+
+# Kehrt das Vereinigte Königreich 2027 zu Erasmus zurück?
+
+In den vergangenen Monaten taucht immer häufiger die Behauptung auf, das **Vereinigte Königreich werde 2027 wieder am Erasmus+-Programm teilnehmen**. Diese Jahreszahl erscheint in Medienberichten, politischen Statements und Analysen – doch entscheidend ist zu verstehen, **was sie tatsächlich bedeutet und was nicht**.
+
+---
 <div class="cta" style="text-align:center; margin:24px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
      target="_blank" rel="nofollow sponsored"
@@ -32,9 +38,7 @@ tags:
   </p>
 </div>
 
-# Kehrt das Vereinigte Königreich 2027 zu Erasmus zurück?
-
-In den vergangenen Monaten taucht immer häufiger die Behauptung auf, das **Vereinigte Königreich werde 2027 wieder am Erasmus+-Programm teilnehmen**. Diese Jahreszahl erscheint in Medienberichten, politischen Statements und Analysen – doch entscheidend ist zu verstehen, **was sie tatsächlich bedeutet und was nicht**.
+---
 
 ## Kurz gesagt: 2027 ist ein Rahmen, keine Entscheidung
 
