@@ -343,6 +343,7 @@ mapping:
   UK-driving tests: [UK-bot-driving-tests.png]
   robotaxi: [robotaxi.png]
   dron: [dron.png]
+  wind turbine: [Wind-turbine.png, Wind-turbine-offshore.png]
 
   # --- Hakers/ Skimms / maleware ---
   SOL-maleware: [sol-skimmed-copilot.png]
