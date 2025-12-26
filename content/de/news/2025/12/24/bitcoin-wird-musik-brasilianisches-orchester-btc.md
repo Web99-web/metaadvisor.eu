@@ -24,6 +24,14 @@ tags:
   - btc-spielt
 ---
 
+# Bitcoin wird Musik: Brasilianisches Orchester verwandelt den BTC-Preis in Klang
+
+Kann man die Volatilität von Bitcoin hören?  
+In Brasilien lautet die Antwort: **ja**.
+
+Ein außergewöhnliches Kulturprojekt verwandelt **Bitcoin-Preisdaten in Live-Musik**, gespielt von einem Orchester. Dabei verschmelzen Finanzmärkte, Mathematik, Kunst und Technologie zu einem einzigartigen Erlebnis.
+
+---
 <p style="text-align:center; margin:18px 0 12px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
      target="_blank" rel="nofollow sponsored"
@@ -32,13 +40,7 @@ tags:
   </a>
 </p>
 
-# Bitcoin wird Musik: Brasilianisches Orchester verwandelt den BTC-Preis in Klang
-
-Kann man die Volatilität von Bitcoin hören?  
-In Brasilien lautet die Antwort: **ja**.
-
-Ein außergewöhnliches Kulturprojekt verwandelt **Bitcoin-Preisdaten in Live-Musik**, gespielt von einem Orchester. Dabei verschmelzen Finanzmärkte, Mathematik, Kunst und Technologie zu einem einzigartigen Erlebnis.
-
+---
 ## Wie Bitcoin zu Musik wird
 
 Ein Algorithmus verfolgt **den Bitcoin-Preis in Echtzeit** sowie ausgewählte Marktdaten. Diese Informationen werden unmittelbar in musikalische Parameter übersetzt, darunter:
