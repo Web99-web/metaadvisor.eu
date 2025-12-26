@@ -20,6 +20,11 @@ tags:
   - eu-programi
 ---
 
+# UK i Erasmus: zašto se spominje 2027.
+
+Posljednjih mjeseci sve se češće pojavljuju tvrdnje da se **Ujedinjeno Kraljevstvo vraća u Erasmus+ program 2027. godine**. Ta godina se pojavljuje u medijima, analizama i političkim izjavama — ali važno je razumjeti **što ona zapravo predstavlja, a što ne**.
+---
+
 <div class="cta" style="text-align:center; margin:24px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
      target="_blank" rel="nofollow sponsored"
@@ -31,10 +36,7 @@ tags:
     Registriraj se i započni trgovanje kriptovalutama na globalnoj burzi.
   </p>
 </div>
-
-# UK i Erasmus: zašto se spominje 2027.
-
-Posljednjih mjeseci sve se češće pojavljuju tvrdnje da se **Ujedinjeno Kraljevstvo vraća u Erasmus+ program 2027. godine**. Ta godina se pojavljuje u medijima, analizama i političkim izjavama — ali važno je razumjeti **što ona zapravo predstavlja, a što ne**.
+---
 
 ## Kratki odgovor: 2027. je okvir, ne odluka
 
