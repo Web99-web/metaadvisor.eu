@@ -80,6 +80,12 @@ ADGM nudi:
 
 Zbog toga sve više kripto-tvrtki seli operacije upravo tamo.
 
+
+### Prije 2025
+
+Prije 2025. regulatorna jasnoća u kriptu postojala je uglavnom u manjim ili specijaliziranim jurisdikcijama, poput Švicarske, Estonije ili Malte. Međutim, ta pravila nisu imala globalni doseg niti su bila dovoljno velika da privuku masovni institucionalni kapital. Ono što 2025. čini drugačijom jest ulazak velikih ekonomija s jasnim, sveobuhvatnim pravilima.
+
+
 ## Zašto je regulatorna jasnoća važna
 
 Regulacija sama po sebi nije neprijatelj kripta. Naprotiv — bez jasnih pravila:
