@@ -22,6 +22,11 @@ tags:
   
 ---
 
+# MMF i El Salvador: Bitcoin ostaje u igri dok se napetosti smiruju
+
+Međunarodni monetarni fond (MMF) ublažio je ton prema El Salvadoru i njegovoj Bitcoin strategiji, istodobno pohvalivši **jači gospodarski rast zemlje**, koji bi u 2025. godini mogao dosegnuti oko **4% BDP-a**. Riječ je o vidljivom zaokretu u odnosu na ranije oštre kritike koje su pratile odluku El Salvadora da Bitcoin uvede kao zakonsko sredstvo plaćanja.
+
+---
 <p style="text-align:center; margin:18px 0 12px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
      target="_blank" rel="nofollow sponsored"
@@ -30,9 +35,7 @@ tags:
   </a>
 </p>
 
-# MMF i El Salvador: Bitcoin ostaje u igri dok se napetosti smiruju
-
-Međunarodni monetarni fond (MMF) ublažio je ton prema El Salvadoru i njegovoj Bitcoin strategiji, istodobno pohvalivši **jači gospodarski rast zemlje**, koji bi u 2025. godini mogao dosegnuti oko **4% BDP-a**. Riječ je o vidljivom zaokretu u odnosu na ranije oštre kritike koje su pratile odluku El Salvadora da Bitcoin uvede kao zakonsko sredstvo plaćanja.
+---
 
 ## Bitcoin više nije glavna točka sukoba
 
