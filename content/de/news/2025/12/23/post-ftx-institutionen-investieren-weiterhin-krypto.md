@@ -27,6 +27,7 @@ tags:
 Trotz des spektakulären Zusammenbruchs der Kryptobörse FTX Ende 2022 und des massiven Vertrauensverlusts im Markt ist institutionelles Kapital keineswegs verschwunden. Im Gegenteil: Professionelle Investoren investieren weiterhin gezielt in regulierte und institutionell ausgerichtete Krypto-Infrastruktur.
 
 Ein aktuelles Beispiel ist **Brett Harrison**, ehemaliger Präsident von FTX US. Sein neues Unternehmen **Architect Financial Technologies** hat **35 Millionen US-Dollar** eingesammelt, um eine institutionelle Handelsplattform für Derivate aufzubauen. Zu den Investoren zählen unter anderem Galaxy, VanEck, ARK Invest und MIAX — ein klares Signal, dass großes Kapital dem Kryptosektor weiterhin Potenzial zuschreibt.
+
 ---
 <div class="cta" style="text-align:center; margin:20px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
