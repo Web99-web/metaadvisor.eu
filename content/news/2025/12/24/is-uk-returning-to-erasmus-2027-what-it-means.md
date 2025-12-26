@@ -20,6 +20,11 @@ tags:
   - eu-programmes
 ---
 
+# Is the United Kingdom returning to Erasmus in 2027?
+
+In recent months, claims that the **United Kingdom will rejoin the Erasmus+ programme in 2027** have increasingly appeared in media reports and political commentary. While the year 2027 is frequently mentioned, it is crucial to understand **what that date actually represents — and what it does not**.
+
+---
 <div class="cta" style="text-align:center; margin:24px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
      target="_blank" rel="nofollow sponsored"
@@ -32,9 +37,7 @@ tags:
   </p>
 </div>
 
-# Is the United Kingdom returning to Erasmus in 2027?
-
-In recent months, claims that the **United Kingdom will rejoin the Erasmus+ programme in 2027** have increasingly appeared in media reports and political commentary. While the year 2027 is frequently mentioned, it is crucial to understand **what that date actually represents — and what it does not**.
+---
 
 ## The short answer: 2027 is a framework, not a decision
 
