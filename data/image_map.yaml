@@ -346,6 +346,9 @@ mapping:
   dron: [dron.png]
   wind turbine: [Wind-turbine.png, Wind-turbine-offshore.png]
 
+  # --- Data centers / data / other ---
+  data centers: [WhiteFiber-WYFI.png]
+  
   # --- Hakers/ Skimms / maleware ---
   SOL-maleware: [sol-skimmed-copilot.png]
   50 mil lost: [Lost-50-mil-usd.png]
