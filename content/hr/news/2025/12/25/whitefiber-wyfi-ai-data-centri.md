@@ -26,6 +26,7 @@ summary: "WhiteFiber (WYFI) je mlada američka tvrtka fokusirana na AI data cent
   </a>
 </p>
 ---
+
 # WhiteFiber (WYFI): nova AI infrastrukturalna priča s Wall Streeta
 
 WhiteFiber (WYFI) je relativno nova američka tvrtka koja se pozicionira u samom središtu **AI revolucije**, ali ne kroz softver ili aplikacije — već kroz ono bez čega umjetna inteligencija ne može funkcionirati: **data centre, energiju i fizičku infrastrukturu**.
