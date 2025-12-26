@@ -21,6 +21,11 @@ tags:
   - globale-oekonomie
 ---
 
+# IWF und El Salvador: Bitcoin bleibt Teil der Strategie, während sich die Spannungen entspannen
+
+Der Internationale Währungsfonds (IWF) hat seinen Ton gegenüber El Salvador deutlich gemildert und zugleich das **stärker als erwartete Wirtschaftswachstum** des Landes hervorgehoben. Für 2025 rechnet der Fonds mit einem **realen BIP-Wachstum von rund 4 %**, was einen spürbaren Kurswechsel gegenüber früheren, deutlich kritischeren Stellungnahmen zur Bitcoin-Politik des Landes darstellt.
+
+---
 <p style="text-align:center; margin:18px 0 12px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
      target="_blank" rel="nofollow sponsored"
@@ -29,9 +34,7 @@ tags:
   </a>
 </p>
 
-# IWF und El Salvador: Bitcoin bleibt Teil der Strategie, während sich die Spannungen entspannen
-
-Der Internationale Währungsfonds (IWF) hat seinen Ton gegenüber El Salvador deutlich gemildert und zugleich das **stärker als erwartete Wirtschaftswachstum** des Landes hervorgehoben. Für 2025 rechnet der Fonds mit einem **realen BIP-Wachstum von rund 4 %**, was einen spürbaren Kurswechsel gegenüber früheren, deutlich kritischeren Stellungnahmen zur Bitcoin-Politik des Landes darstellt.
+---
 
 ## Bitcoin nicht mehr der zentrale Konfliktpunkt
 
