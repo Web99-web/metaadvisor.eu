@@ -48,6 +48,10 @@ Dadurch wurden kompromittiert:
 
 In der Folge konnten Angreifer Kryptowährungen transferieren, ohne dass eine zusätzliche Bestätigung der Nutzer erforderlich war.
 
+## Wer hat den Angriff zuerst entdeckt?
+
+Der Angriff wurde zuerst vom bekannten On-Chain-Ermittler **ZachXBT** entdeckt, der am 25. Dezember die Krypto-Community auf verdächtige Mittelabflüsse im Zusammenhang mit der Trust-Wallet-Chrome-Erweiterung aufmerksam machte. Seine Warnung führte zu einer schnellen Reaktion der Community und zur Bestätigung des Vorfalls durch Trust Wallet selbst.
+
 ## Wer war betroffen – und wer nicht?
 
 Wichtig für die Einordnung:
