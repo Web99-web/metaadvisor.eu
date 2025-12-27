@@ -3,7 +3,7 @@ title: "Polymarket and Prediction Markets: What They Are, How They Work, Why The
 slug: "what-are-prediction-markets-polymarket-fine-explained"
 date: 2025-12-06T20:00:00Z
 category: "crypto"
-translationKey: "polymarket_prediction_markets_fine_06122025_en"
+translationKey: "polymarket_prediction_markets_fine"
 source: "MetaAdvisor – analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
