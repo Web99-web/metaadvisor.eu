@@ -8,8 +8,12 @@ menu:
     weight: 30
 ---
 
-We’re still setting up our social media and direct contact channels.  
+You can reach MetaAdvisor through our official channels:
 
-📩 For now, the best way to reach us is by subscribing to our [newsletter](/subscribe/) — we’ll share updates there first.  
+- 🐦 X (Twitter): @MetaadvisorEU
+- 📸 Instagram: metaadvisor.eu
+- 📘 Facebook: https://www.facebook.com/metaadvisor.eu/
+- 🌐 Website: https://metaadvisor.eu
 
-More contact options (email, socials) are coming soon.
+We monitor messages on our official social profiles and do our best to respond.
+
