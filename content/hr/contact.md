@@ -8,8 +8,11 @@ menu:
     weight: 30
 ---
 
-Još postavljamo naše komunikacijske i društvene kanale.  
+Možeš nas kontaktirati putem naših službenih kanala:
 
-📩 Za sada nas najbolje možete pratiti tako da se prijavite na naš [newsletter](/hr/subscribe/). Tamo ćemo prvi dijeliti važne novosti.  
+- 🐦 X (Twitter): @MetaadvisorEU
+- 📸 Instagram: metaadvisor.eu
+- 📘 Facebook: https://www.facebook.com/metaadvisor.eu/
+- 🌐 Web: https://metaadvisor.eu
 
-Dodatne opcije (email, društvene mreže) uskoro dolaze.
+Poruke na našim službenim profilima redovito pratimo i nastojimo odgovoriti u razumnom roku.
