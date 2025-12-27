@@ -8,8 +8,12 @@ menu:
     weight: 30
 ---
 
-Wir richten derzeit noch unsere Social-Media- und Kontaktkanäle ein.  
+Du kannst MetaAdvisor über unsere offiziellen Kanäle kontaktieren:
 
-📩 Der beste Weg, um mit uns in Verbindung zu bleiben, ist derzeit das Abonnieren unseres [Newsletters](/de/subscribe/). Dort teilen wir die wichtigsten Updates zuerst.  
+- 🐦 X (Twitter): @MetaadvisorEU
+- 📸 Instagram: metaadvisor.eu
+- 📘 Facebook: https://www.facebook.com/metaadvisor.eu/
+- 🌐 Website: https://metaadvisor.eu
 
-Weitere Kontaktmöglichkeiten (E-Mail, Socials) folgen bald.
+Wir verfolgen Nachrichten auf unseren offiziellen Profilen regelmäßig und bemühen uns, zeitnah zu antworten.
+
