@@ -45,9 +45,11 @@ Our providers may operate globally. Where applicable, transfers are protected by
 ## Your rights
 You can request access, correction, deletion, restriction or objection under GDPR, and you can withdraw consent at any time (for consent-based processing).
 
+## Advertising (future)
+We may display advertising provided by Google AdSense. Google may use cookies or similar technologies to show ads based on general location or context, in accordance with its own privacy policies. We do not receive personally identifiable information from advertisers.
+
 ## Contact
-For privacy requests, please use the **Contact** page: [/contact/](/contact/).  
-(We will add a dedicated email address soon.)
+For privacy-related requests, please contact us via the Contact page.
 
 ## Changes to this policy
 We may update this policy to reflect new features or legal requirements. Significant changes will be noted on this page.
