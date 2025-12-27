@@ -11,42 +11,46 @@ menu:
 _Zadnje ažuriranje: 06.09.2025._
 
 ## Tko smo
-MetaAdvisor je informativna stranica o tehnologiji, AI-u i kriptu.
+MetaAdvisor je informativna web-stranica posvećena tehnologiji, umjetnoj inteligenciji i kriptu.
 
-## Koje podatke (ne) prikupljamo
-- Ne tražimo izradu korisničkih računa i ne pratimo vaše ponašanje između različitih web-lokacija.
-- Ako nam se javite ili se pretplatite na newsletter (kada bude dostupan), obrađujemo podatke koje nam date (npr. e-mail) samo kako bismo odgovorili ili poslali newsletter.
+## Koje podatke prikupljamo
+- Ne tražimo izradu korisničkih računa i ne pratimo ponašanje pojedinačnih korisnika između različitih web-lokacija.
+- Ako nam se obratite ili se pretplatite na newsletter (kada bude dostupan), obrađujemo podatke koje nam sami dostavite (npr. e-mail adresu) isključivo radi odgovora ili slanja newslettera.
 
 ## Kolačići i lokalna pohrana
-- Stranica koristi samo nužne kolačiće koje zahtijeva hosting/CDN (radi brže i sigurne isporuke stranica).
-- Izbjegavamo tracking piksele trećih strana. Ako ih ikad uvedemo, ovu ćemo stranicu ažurirati.
+- Stranica koristi samo nužne kolačiće potrebne za rad hostinga/CDN-a (npr. sigurnu i brzu isporuku sadržaja).
+- Izbjegavamo korištenje alata za praćenje trećih strana. Ako ih u budućnosti uvedemo, ova će stranica biti ažurirana.
 
 ## Analitika
-- Koristimo agregirane, privatnosti-prijateljske statistike (npr. putem CDN/hostinga) za razumijevanje performansi. Te statistike **ne** stvaraju individualni profil.
+- Koristimo agregirane i privatnosti-prijateljske statistike (npr. putem CDN-a ili hostinga) kako bismo razumjeli osnovne performanse stranice (preglede, promet, državu). Te statistike ne omogućuju izradu individualnog profila korisnika.
 
-## Newsletter (ubuduće)
-- Ako uvedemo newsletter, e-mail adrese čuvat će se kod našeg pružatelja usluge (npr. MailerLite). Odjava je moguća u svakom mailu.
+## Newsletter (u budućnosti)
+- Ako uvedemo newsletter, e-mail adrese bit će pohranjene kod pružatelja usluge za slanje e-pošte (npr. MailerLite).
+- Odjava s newslettera bit će moguća u svakom poslanom e-mailu.
 
 ## Pravne osnove (GDPR)
-- **Legitimni interes** za sigurnost i osnovne metrike posjećenosti.  
-- **Privola** za opcionalne značajke (npr. newsletter) gdje je potrebna.
+Podatke obrađujemo na temelju:
+- **legitimnog interesa** (sigurnost stranice i osnovno mjerenje performansi),
+- **privole** za opcionalne značajke (npr. newsletter), kada je to primjenjivo.
 
-## Rokovi čuvanja
-- Kontakt/newsletter podaci: do odjave ili brisanja.  
-- Zapisi poslužitelja/CDN-a: kratko, radi sigurnosti i otklanjanja grešaka.
+## Rokovi čuvanja podataka
+- Podaci iz kontakta ili newslettera: čuvaju se do odjave ili brisanja liste.
+- Zapisi poslužitelja/CDN-a: čuvaju se kratko vrijeme radi sigurnosti i tehničke dijagnostike.
 
 ## Dijeljenje podataka
-Ne prodajemo osobne podatke. Davatelji usluga (hosting/CDN, e-mail) podatke obrađuju isključivo radi pružanja usluge i temeljem ugovora o obradi podataka.
+Ne prodajemo osobne podatke. Pružatelji usluga (hosting/CDN, e-mail servis) mogu obrađivati podatke isključivo radi pružanja svojih usluga i temeljem ugovora o obradi podataka.
 
 ## Međunarodni prijenosi
-Naši dobavljači mogu djelovati globalno. Prijenosi su zaštićeni standardnim ugovornim klauzulama ili jednakovrijednim mjerama.
+Naši pružatelji usluga mogu poslovati globalno. Kada je primjenjivo, prijenosi podataka zaštićeni su standardnim ugovornim klauzulama ili jednakovrijednim zaštitnim mjerama.
 
 ## Vaša prava
-Imate pravo na pristup, ispravak, brisanje, ograničenje obrade, prigovor te povlačenje privole u svakom trenutku.
+Imate pravo zatražiti pristup, ispravak, brisanje, ograničenje obrade ili prigovor, kao i povući danu privolu u bilo kojem trenutku.
+
+## Oglašavanje (u budućnosti)
+Na stranici se mogu prikazivati oglasi putem Google AdSensea. Google može koristiti kolačiće ili slične tehnologije za prikaz oglasa na temelju opće lokacije ili konteksta, u skladu sa svojim pravilima privatnosti. MetaAdvisor ne prima osobne identifikacijske podatke od oglašivača.
 
 ## Kontakt
-Za zahtjeve vezane uz privatnost koristite stranicu **Kontakt**: [/hr/contact/](/hr/contact/).  
-(Uskoro ćemo dodati i posebnu e-mail adresu.)
+Za zahtjeve vezane uz privatnost, obratite nam se putem stranice Kontakt.
 
 ## Promjene ovih pravila
-Ovu ćemo stranicu ažurirati kad uvedemo nove funkcije ili to zatraže propisi; bitne promjene jasno ćemo označiti.
+Ova pravila možemo povremeno ažurirati kako bismo odrazili nove funkcionalnosti ili zakonske obveze. Značajne promjene bit će jasno naznačene na ovoj stranici.
