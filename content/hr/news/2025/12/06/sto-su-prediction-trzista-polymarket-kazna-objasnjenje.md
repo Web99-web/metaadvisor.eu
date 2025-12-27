@@ -3,7 +3,7 @@ title: "Polymarket i prediction tržišta: što su, kako rade, zašto nisu kocka
 slug: "sto-su-prediction-trzista-polymarket-kazna-objasnjenje"
 date: 2025-12-06T20:00:00Z
 category: "crypto"
-translationKey: "polymarket_prediction_trzista_kazna_06122025"
+translationKey: "polymarket_prediction_markets_fine"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
