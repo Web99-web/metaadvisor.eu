@@ -48,6 +48,10 @@ To je omogućilo krađu:
 
 U praksi to znači da su sredstva mogla biti prebačena bez dodatne potvrde korisnika.
 
+## Tko je prvi otkrio napad?
+
+Napad je prvi uočio poznati on-chain istraživač **ZachXBT**, koji je 25. prosinca upozorio kripto zajednicu na sumnjive odljeve sredstava povezane s Trust Wallet Chrome ekstenzijom. Njegovo upozorenje potaknulo je brzu reakciju zajednice i potvrdu incidenta od strane samog Trust Walleta.
+
 ## Tko je bio pogođen, a tko nije?
 
 Važno je naglasiti da:
