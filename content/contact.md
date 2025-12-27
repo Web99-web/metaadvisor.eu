@@ -7,13 +7,29 @@ menu:
     name: "Contact"
     weight: 30
 ---
+<p>You can reach MetaAdvisor through our official channels:</p>
 
-You can reach MetaAdvisor through our official channels:
+<ul>
+  <li>🐦 X (Twitter): 
+    <a href="https://x.com/MetaadvisorEU" target="_blank" rel="noopener noreferrer">
+      @MetaadvisorEU
+    </a>
+  </li>
+  <li>📸 Instagram: 
+    <a href="https://www.instagram.com/metaadvisor.eu/" target="_blank" rel="noopener noreferrer">
+      metaadvisor.eu
+    </a>
+  </li>
+  <li>📘 Facebook: 
+    <a href="https://www.facebook.com/metaadvisor.eu/" target="_blank" rel="noopener noreferrer">
+      facebook.com/metaadvisor.eu
+    </a>
+  </li>
+  <li>🌐 Website: 
+    <a href="https://metaadvisor.eu" target="_blank" rel="noopener noreferrer">
+      metaadvisor.eu
+    </a>
+  </li>
+</ul>
 
-- 🐦 X (Twitter): @MetaadvisorEU
-- 📸 Instagram: metaadvisor.eu
-- 📘 Facebook: https://www.facebook.com/metaadvisor.eu/
-- 🌐 Website: https://metaadvisor.eu
-
-We monitor messages on our official social profiles and do our best to respond.
-
+<p>We monitor messages on our official social profiles and do our best to respond.</p>
