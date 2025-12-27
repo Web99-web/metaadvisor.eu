@@ -3,7 +3,7 @@ title: "Polymarket erklärt: Wie Prediction-Märkte funktionieren, warum sie kei
 slug: "polymarket-prediction-markte-erklaert-strafe"
 date: 2025-12-06T20:00:00Z
 category: "crypto"
-translationKey: "polymarket_prediction_trzista_kazna_06122025"
+translationKey: "polymarket_prediction_markets_fine"
 source: "MetaAdvisor – Analyse"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
