@@ -15,7 +15,7 @@ _build:
 
 In what's become all too familiar action at the start of the U.S. trading day, the crypto sector quickly more than gave up even the tiniest hint of an overnight rally.
 
-Nudging above $89,000 at one point as the U.S. slept on Friday, bitcoin BTC $ 87,470.23 quickly tumbled back below $87,000 as American stocks opened for trade following the Christmas holiday.
+Nudging above $89,000 at one point as the U.S. slept on Friday, bitcoin BTC $ 87,489.73 quickly tumbled back below $87,000 as American stocks opened for trade following the Christmas holiday.
 
 Again all too familiar for crypto bulls, the poor price action occurred as metals continued to soar, with gold, silver, copper and platinum all posting new record highs on Friday.
 
@@ -25,7 +25,7 @@ Palladium and platinum led the metals surge, both up more than 10%, while silver
 
 The Nasdaq, S&P 500, and DJIA were all trading nearly flat in morning action.
 
-Bitcoin was lower by 1.6% over the past 24 hours; ether ETH $ 2,926.56 was down similarly. DOGE $ 0.1222 was off more than 4% and XRP $ 1.8525 sank 3%, leading losses for the rest of the sector.
+Bitcoin was lower by 1.6% over the past 24 hours; ether ETH $ 2,920.66 was down similarly. DOGE $ 0.1227 was off more than 4% and XRP $ 1.8459 sank 3%, leading losses for the rest of the sector.
 
 Crypto stocks were also in the red, with Coinbase (COIN), named one of the three most promising fintech ideas in 2026 by Clear Street's Owen Lau, outperforming with just a 2% decline. Gemini (GEMI) was down 6%, Bullish (BLSH) off 3.8% and Galaxy Digital (GLXY) lower by 3.5%.
 
