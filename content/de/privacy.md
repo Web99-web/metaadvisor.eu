@@ -9,44 +9,47 @@ menu:
 ---
 
 _Letzte Aktualisierung: 06.09.2025_
-
 ## Wer wir sind
-MetaAdvisor ist eine Informationsseite zu Technologie, KI und Krypto.
+MetaAdvisor ist eine informationsorientierte Website zu Technologie, künstlicher Intelligenz und Krypto.
 
-## Welche Daten wir (nicht) erheben
-- Es gibt kein Benutzerkonto; wir verfolgen kein individuelles Verhalten über Websites hinweg.
-- Wenn Sie uns kontaktieren oder einen Newsletter abonnieren (sofern verfügbar), verarbeiten wir die von Ihnen angegebenen Daten (z. B. E-Mail-Adresse) ausschließlich zur Beantwortung bzw. zum Versand des Newsletters.
+## Welche Daten wir erheben
+- Wir verlangen keine Erstellung von Benutzerkonten und verfolgen kein individuelles Verhalten über verschiedene Websites hinweg.
+- Wenn Sie uns kontaktieren oder sich für einen Newsletter anmelden (sofern verfügbar), verarbeiten wir die von Ihnen bereitgestellten Daten (z. B. E-Mail-Adresse) ausschließlich zur Beantwortung Ihrer Anfrage oder zum Versand des Newsletters.
 
-## Cookies & Local Storage
-- Die Website verwendet nur unbedingt erforderliche Cookies des Hostings/CDN (z. B. für sichere und schnelle Auslieferung).
-- Wir vermeiden Third-Party-Tracking-Pixel. Falls wir später welche einführen, aktualisieren wir diese Seite.
+## Cookies und lokale Speicherung
+- Die Website verwendet ausschließlich notwendige Cookies, die für den Betrieb des Hostings/CDN erforderlich sind (z. B. zur sicheren und schnellen Auslieferung von Inhalten).
+- Wir vermeiden den Einsatz von Tracking-Technologien Dritter. Sollten wir solche künftig einsetzen, werden wir diese Seite entsprechend aktualisieren.
 
-## Analytics
-- Wir nutzen datenschutzfreundliche, aggregierte Nutzungsstatistiken (z. B. über CDN/Hosting), um die Performance zu verstehen. Diese erstellen **kein** individuelles Profil.
+## Analytik
+- Wir nutzen aggregierte, datenschutzfreundliche Analysen (z. B. über CDN/Hosting), um grundlegende Leistungskennzahlen der Website zu verstehen (Seitenaufrufe, Traffic, Länder). Diese Analysen erlauben keine Erstellung individueller Nutzerprofile.
 
 ## Newsletter (zukünftig)
-- Bei einem Newsletter werden E-Mail-Adressen bei unserem E-Mail-Dienstleister (z. B. MailerLite) gespeichert. Eine Abmeldung ist jederzeit über den Link in jeder E-Mail möglich.
+- Sofern wir einen Newsletter anbieten, werden E-Mail-Adressen bei unserem E-Mail-Dienstleister (z. B. MailerLite) gespeichert.
+- Eine Abmeldung ist jederzeit über den Abmeldelink in jeder E-Mail möglich.
 
 ## Rechtsgrundlagen (DSGVO)
-- **Berechtigtes Interesse** für Sicherheit der Seite und Basis-Statistiken.  
-- **Einwilligung** für optionale Funktionen (z. B. Newsletter), wo erforderlich.
+Die Verarbeitung erfolgt auf Grundlage von:
+- **berechtigtem Interesse** (Sicherheit der Website und grundlegende Leistungsmessung),
+- **Einwilligung** für optionale Funktionen (z. B. Newsletter), sofern erforderlich.
 
 ## Speicherdauer
-- Kontakt-/Newsletter-Daten: bis zur Abmeldung oder Löschung.  
-- Server/CDN-Logs: kurzzeitig für Sicherheit und Fehlersuche.
+- Kontakt- bzw. Newsletter-Daten: bis zur Abmeldung oder Löschung der Liste.
+- Server-/CDN-Logs: kurze Aufbewahrungsdauer zu Sicherheits- und Fehlerbehebungszwecken.
 
-## Weitergabe
-Wir verkaufen keine personenbezogenen Daten. Dienstleister (Hosting/CDN, E-Mail-Anbieter) verarbeiten Daten nur zur Leistungserbringung und auf Grundlage eines Auftragsverarbeitungsvertrags.
+## Weitergabe von Daten
+Wir verkaufen keine personenbezogenen Daten. Dienstleister (Hosting/CDN, E-Mail-Service) können Daten ausschließlich zur Erbringung ihrer Leistungen und auf Grundlage eines Auftragsverarbeitungsvertrags verarbeiten.
 
 ## Internationale Übermittlungen
-Unsere Dienstleister können global tätig sein. Übermittlungen erfolgen ggf. auf Basis von Standardvertragsklauseln oder gleichwertigen Garantien.
+Unsere Dienstleister können weltweit tätig sein. Soweit erforderlich, sind Übermittlungen durch Standardvertragsklauseln oder gleichwertige Schutzmaßnahmen abgesichert.
 
 ## Ihre Rechte
-Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch sowie Widerruf der Einwilligung nach DSGVO.
+Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch sowie auf Widerruf einer erteilten Einwilligung jederzeit.
+
+## Werbung (zukünftig)
+Auf der Website können Anzeigen über Google AdSense eingeblendet werden. Google kann Cookies oder ähnliche Technologien verwenden, um Anzeigen auf Basis des allgemeinen Standorts oder des Kontexts anzuzeigen, gemäß den eigenen Datenschutzbestimmungen. MetaAdvisor erhält keine personenbezogenen Identifikationsdaten von Werbetreibenden.
 
 ## Kontakt
-Für Datenschutz-Anfragen verwenden Sie bitte die **Kontakt**-Seite: [/de/contact/](/de/contact/).  
-(Eine dedizierte E-Mail-Adresse fügen wir in Kürze hinzu.)
+Für datenschutzbezogene Anfragen kontaktieren Sie uns bitte über die Kontaktseite.
 
-## Änderungen
-Bei neuen Funktionen oder rechtlichen Anforderungen aktualisieren wir diese Erklärung; wesentliche Änderungen werden hier kenntlich gemacht.
+## Änderungen dieser Datenschutzerklärung
+Wir können diese Datenschutzerklärung gelegentlich aktualisieren, um neue Funktionen oder rechtliche Anforderungen abzubilden. Wesentliche Änderungen werden auf dieser Seite deutlich kenntlich gemacht.
