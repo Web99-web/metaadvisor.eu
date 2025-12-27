@@ -48,6 +48,10 @@ This allowed attackers to obtain:
 
 As a result, funds could be drained without any additional confirmation from users.
 
+## Who first discovered the attack?
+
+The attack was first identified by well-known on-chain investigator **ZachXBT**, who alerted the crypto community on December 25 to suspicious fund outflows linked to the Trust Wallet Chrome extension. His warning triggered a rapid community response and was later confirmed by Trust Wallet.
+
 ## Who Was Affected — and Who Was Not?
 
 It is important to clarify:
