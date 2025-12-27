@@ -8,12 +8,29 @@ menu:
     weight: 30
 ---
 
-Du kannst MetaAdvisor über unsere offiziellen Kanäle kontaktieren:
+<p>Kontaktieren Sie uns über unsere offiziellen Kanäle:</p>
 
-- 🐦 X (Twitter): @MetaadvisorEU
-- 📸 Instagram: metaadvisor.eu
-- 📘 Facebook: https://www.facebook.com/metaadvisor.eu/
-- 🌐 Website: https://metaadvisor.eu
+<ul>
+  <li>🐦 X (Twitter):
+    <a href="https://x.com/MetaadvisorEU" target="_blank" rel="noopener noreferrer">
+      @MetaadvisorEU
+    </a>
+  </li>
+  <li>📸 Instagram:
+    <a href="https://www.instagram.com/metaadvisor.eu/" target="_blank" rel="noopener noreferrer">
+      metaadvisor.eu
+    </a>
+  </li>
+  <li>📘 Facebook:
+    <a href="https://www.facebook.com/metaadvisor.eu/" target="_blank" rel="noopener noreferrer">
+      facebook.com/metaadvisor.eu
+    </a>
+  </li>
+  <li>🌐 Website:
+    <a href="https://metaadvisor.eu" target="_blank" rel="noopener noreferrer">
+      metaadvisor.eu
+    </a>
+  </li>
+</ul>
 
-Wir verfolgen Nachrichten auf unseren offiziellen Profilen regelmäßig und bemühen uns, zeitnah zu antworten.
-
+<p>Wir verfolgen Nachrichten auf unseren offiziellen Profilen regelmäßig und bemühen uns, zeitnah zu antworten.</p>
