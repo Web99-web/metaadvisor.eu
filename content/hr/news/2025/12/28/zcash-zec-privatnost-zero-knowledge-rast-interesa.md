@@ -1,7 +1,7 @@
 ---
 title: "Zcash (ZEC) ponovno u fokusu: zašto raste interes za privatne kriptovalute"
 slug: "zcash-zec-privatnost-zero-knowledge-rast-interesa"
-date: 2025-12-27T12:00:00
+date: 2025-12-28T12:00:00
 category: "crypto"
 translationKey: "zcash_privacy_zk_focus_27122025"
 source: "MetaAdvisor analiza"
