@@ -135,7 +135,8 @@ mapping:
   Aptos crypthography: [Aptos-cryptography.png]
   Tokenized world: [Tokenized-world.png]
   Palantir: [palantir-it.png]
-
+  dron: [dron.png]
+  
   # --- FINANCIJE / TRŽIŠTA / GOSPODARSTVO ---
   stock: [stock-market-dionice.jpg, stock-market-dionice1.jpg, financial-chart.jpg, grafikon.jpg, btc-finance.jpg]
   stocks: [stock-market-dionice.jpg, stock-market-dionice1.jpg]
@@ -349,8 +350,10 @@ mapping:
   Slate truck: [Slate-truck.png]
   UK-driving tests: [UK-bot-driving-tests.png]
   robotaxi: [robotaxi.png]
-  dron: [dron.png]
   wind turbine: [Wind-turbine.png, Wind-turbine-offshore.png]
+  Naware steam: [Naware-steam-destorys-weeds.png]
+  
+
 
   # --- Data centers / data / other ---
   data centers: [WhiteFiber-WYFI.png]
