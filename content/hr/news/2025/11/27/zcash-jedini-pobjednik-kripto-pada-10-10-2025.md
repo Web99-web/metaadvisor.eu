@@ -63,11 +63,11 @@ ZEC postaje prirodan hedge protiv nadzora.
 ### 2️⃣ Zero-knowledge tehnologije ponovno ulaze u fokus
 
 Zcash je jedan od najstarijih i najnaprednijih ZK projekata.  
-Koristi **zk-SNARKs**, omogućuje privatne transakcije i ima čistu, provjerljivu kriptografiju.
+Koristi **zk-SNARKs**, omogućuje privatne transakcije i ima čistu, kriptografski provjerljivu arhitekturu.
 
-O ZK tehnologijama detaljno smo pisali u našem članku:  
-**“Zero-knowledge ZK tehnologija objašnjena”**  
-(link je integriran u tekst)
+## 🔵 <a href="https://metaadvisor.eu/hr/news/zero-knowledge-zk-tehnologija-objasnjenje-kriptovalute/" style="color:#1e40af; text-decoration:none; font-weight:700;">
+Što je Zero-Knowledge (ZK) tehnologija — i zašto će postati najveći kripto trend do 2030.?
+</a>
 
 ---
 
