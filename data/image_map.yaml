@@ -204,6 +204,8 @@ mapping:
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-down.jpg, mobile-phone-man.jpg, mobile-phone-neutral.jpg, mobile-phone-ruke.jpg]
   smartphones: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-down.jpg, mobile-phone-man.jpg, mobile-phone-neutral.jpg, mobile-phone-ruke.jpg]
   Solana seeker: [Solana-seeker-phone-free-apps.png, Solana-seeker-phone-free-apps1.png]
+  Apps for phone: [Apps-block-internet.png]
+  
   
   # --- Apple / iPhone / Phones ---
   iphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
