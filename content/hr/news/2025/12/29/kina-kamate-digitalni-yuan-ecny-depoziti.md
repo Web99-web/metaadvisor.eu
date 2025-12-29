@@ -24,6 +24,15 @@ tags:
 summary: "Kineska središnja banka od 2026. dopušta isplatu kamata na digitalni yuan. Time e-CNY prestaje biti samo digitalna gotovina i ulazi u zonu digitalnih depozita, što predstavlja velik zaokret u globalnoj monetarnoj politici."
 ---
 
+<p style="text-align:center; margin:18px 0 14px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
+     target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Ostvari Bitget bonus do 6.200 USDT — registriraj se ovdje
+  </a>
+</p>
+
+
 # Kina uvodi kamate na digitalni yuan
 
 Kina od 1. siječnja 2026. uvodi jednu od najvećih promjena u povijesti digitalnih valuta središnjih banaka. Digitalni yuan (e-CNY) više neće biti samo digitalna verzija gotovine — banke će smjeti isplaćivati kamate na stanje u e-CNY novčanicima.
@@ -50,13 +59,6 @@ Iako e-CNY nije kriptovaluta, njegov razvoj ima neizravan utjecaj na cijeli sekt
 
 Paradoksalno, jačanje državnih digitalnih valuta često povećava interes za decentralizirane alternative poput Bitcoina.
 
-<p style="text-align:center; margin:18px 0 14px 0;">
-  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
-     target="_blank" rel="nofollow sponsored"
-     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
-     👉 Ostvari Bitget bonus do 6.200 USDT — registriraj se ovdje
-  </a>
-</p>
 
 ## Šira slika: digitalni novac kao budući standard
 
