@@ -172,6 +172,7 @@ mapping:
   banks: [banks-vs-paypal-revolut-crypto.png, n3xt.png, Money-in-bank-is-not-yours.png]
   Cftc: [cftc-spot-crypto.png]
   France banke: [France-BPCE-bank-crypto.png, France-BPCE-bank-crypto1.png]
+  China bank: [China-Peoples-bank-yuan.png]
   banks: [banks-testing-stablecoins-xlm.png]
   Barclays: [Barclays-down-2026.png]
   
@@ -201,6 +202,7 @@ mapping:
   top 2026 fintech picks: [top-2026-fintech-picks.png]
   Bitmine: [Bitmine.png, Bitmine-eth.png]
   Prediction markets: [prediction-markets.png]
+  
 
   # --- phones / mobilephones / mobiles / Android ---
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-down.jpg, mobile-phone-man.jpg, mobile-phone-neutral.jpg, mobile-phone-ruke.jpg]
