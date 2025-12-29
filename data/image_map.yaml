@@ -29,11 +29,11 @@ mapping:
   
   # --- SOL/ DOT / LINK / itd. (primjeri) ---
   solana:   [solana.jpg, solana1.jpg, solana-sol.png, percolator.png]
-  polkadot: [polkadot-dot.png]
+  polkadot: [polkadot-dot.png, DOT-ADA.png]
   chainlink: [chainlink-link.png]
   litecoin: [litecoin-ltc.png]
   monero:   [monero-xmr.png, monero-privacy.png]
-  xrp:      [xrp.png] 
+  xrp:      [xrp.png, XRP-ADA.png] 
   xlm stellar: [xlm.png]
   dogecoin: [dogecoin-doge.png]
   "shiba inu": [shiba-inu.png]
@@ -76,6 +76,7 @@ mapping:
   Zcash:  [Zcash.png, Zcash1.png, Zcash-winner-of-10.10-crash.png, Zcash-zec.png]
   Luna: [Terra-luna1.png]
   DOT ADA: [DOT-ADA.png]
+  XRP ADA: [XRP-ADA.png]
 
   # --- PROJEKTI ILI KUPNJE OD SOL/ DOT / LINK / itd. (primjeri) ---
   USDT gold: [Tether-USDT-gold.png]
