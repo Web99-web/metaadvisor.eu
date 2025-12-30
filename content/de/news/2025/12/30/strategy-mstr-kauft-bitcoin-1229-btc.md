@@ -3,7 +3,7 @@ title: "Strategy (MSTR) kauft weitere 1.229 Bitcoin und baut seine BTC-Reserve w
 slug: "strategy-mstr-kauft-bitcoin-1229-btc"
 date: 2025-12-30T12:00:00
 category: "crypto"
-translationKey: "ISTI_TRANSLATION_KEY_KAO_HR"
+translationKey: "mstr_bitcoin_purchase_1229_btc_30122025"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million"
 author: "Metaadvisor.eu"
