@@ -53,6 +53,27 @@ Odabir nije slučajan. Svaki od ovih projekata predstavlja zaseban tehnološki i
 
 Zajedno čine presjek ključnih smjerova u kojima se kripto industrija razvija izvan Bitcoina.
 
+## Zašto baš ovih šest tokena?
+
+Odabir tokena u Bitwise ETF strategiji nije slučajan. Svaki od njih predstavlja poseban tehnološki, tržišni i narativni stup kripto industrije.
+
+### AAVE (AAVE)  
+Aave je jedan od najstarijih i najstabilnijih DeFi protokola, specijaliziran za decentralizirano posuđivanje i kreditiranje bez posrednika. Njegova dugogodišnja prisutnost, visoka likvidnost i stvarna upotreba čine ga privlačnim institucijama koje žele izloženost decentraliziranim financijama, ali kroz projekte s dokazanim rezultatima. Aave se sve češće promatra kao temeljni sloj budućeg decentraliziranog financijskog sustava.
+
+### Uniswap (UNI)  
+Uniswap je sinonim za decentralizirane burze i jedan od ključnih stupova DeFi ekosustava. Kao protokol koji omogućuje trgovanje tokenima bez centralne kontrole, Uniswap predstavlja decentraliziranu alternativu klasičnim burzama. U kontekstu Bitwise ETF-a, UNI simbolizira institucionalni ulazak u on-chain tržište likvidnosti i trgovanja, bez oslanjanja na centralizirane infrastrukture.
+
+### Zcash (ZEC)  
+Zcash je jedan od rijetkih kripto projekata koji je od samog početka fokusiran na privatnost, koristeći zero-knowledge kriptografiju za zaštitu korisničkih podataka. U vremenu pojačanog nadzora, regulacije i digitalnog praćenja, Zcash se sve više promatra kao dugoročna oklada na privatnost. Uvrštavanje ZEC-a u Bitwise ETF strategiju sugerira da institucije ponovno ozbiljno razmatraju privacy tokene kao legitimni dio portfelja.
+
+### Bittensor (TAO)  
+Bittensor spaja dvije dominantne tehnološke teme današnjice: blockchain i umjetnu inteligenciju. Cilj projekta je decentralizirati razvoj i monetizaciju AI modela, omogućujući da se vrijednost stvara i dijeli izvan zatvorenih korporativnih sustava. TAO u ovom kontekstu nije samo kripto imovina, već izravna oklada na decentraliziranu budućnost umjetne inteligencije.
+
+### Sui (SUI)  
+Sui predstavlja novu generaciju layer-1 blockchaina, dizajniranih za visoku propusnost, niske latencije i skalabilnost. Fokusiran je na performanse i korisničko iskustvo, što ga čini pogodnim za aplikacije koje zahtijevaju brzinu i pouzdanost. Uvrštavanje SUI-ja pokazuje da Bitwise cilja i infrastrukturu koja bi mogla nositi sljedeći val masovnih blockchain aplikacija.
+
+### Near (NEAR)  
+Near Protocol se pozicionira kao developer-friendly blockchain, s naglaskom na jednostavnost izgradnje aplikacija i skalabilnost. Njegova vizija masovnog usvajanja, a ne isključivo kripto-nativnih korisnika, čini ga zanimljivim kompromisom između zrelosti i potencijala rasta. Za institucije, NEAR predstavlja projekt s jasnim smjerom i dugoročnom strategijom.
 ## Što znači Bitwise “strategy ETF”?
 
 Za razliku od klasičnih spot ETF-ova, Bitwiseovi proizvodi nisu zamišljeni kao pasivno praćenje cijene. Riječ je o **strategy ETF strukturi**, u kojoj fond:
