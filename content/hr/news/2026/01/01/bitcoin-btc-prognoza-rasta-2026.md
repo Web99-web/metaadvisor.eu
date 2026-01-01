@@ -23,7 +23,7 @@ tags:
   - macro
   - liquidity
   - institutions
-summary: "Analitičari su podijeljeni oko kretanja Bitcoina u 2026. Dok jedni upozoravaju na kratkoročnu slabost, drugi očekuju snažan rast već u prvom kvartalu. Obje prognoze mogu biti dio istog tržišnog ciklusa."
+summary: "Bitcoin u 2026. ulazi između dva snažno suprotstavljena narativa: dio analitičara upozorava na mogući pad prema 60.000 USD, dok drugi očekuju snažan rast i potencijalni novi povijesni maksimum već u prvom kvartalu godine."
 ---
 <p style="text-align:center; margin:18px 0 10px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
@@ -35,41 +35,47 @@ summary: "Analitičari su podijeljeni oko kretanja Bitcoina u 2026. Dok jedni up
 
 # Koja je prognoza rasta Bitcoina za 2026. godinu?
 
-Ulazak Bitcoina u 2026. godinu obilježen je neuobičajeno podijeljenim očekivanjima. Dok dio tržišnih analitičara upozorava da bi se cijena mogla još neko vrijeme zadržati pod pritiskom, drugi istovremeno tvrde da se već sada stvaraju preduvjeti za snažan rast, pa čak i novi povijesni maksimum.
+Bitcoin ulazi u 2026. godinu rastrgan između dva potpuno suprotna narativa. S jedne strane, dio analitičara upozorava da bi tržišna slabost mogla potrajati još mjesecima, pa čak i gurnuti cijenu Bitcoina prema razini od oko **60.000 američkih dolara**. S druge strane, jednako glasni su i oni koji tvrde da se upravo sada stvara podloga za **novi snažan rast** i potencijalni **povijesni maksimum već u prvim mjesecima 2026.**
 
-Ove procjene ne isključuju jedna drugu. Naprotiv, govore o različitim fazama istog tržišnog procesa.
+Na prvi pogled, ove prognoze djeluju kontradiktorno. No u stvarnosti, obje mogu biti točne — samo u **različitim vremenskim horizontima**.
 
-## Kratkoročna slabost ne znači kraj ciklusa
+## Zašto dio analitičara vidi pad Bitcoina prema 60.000 USD
 
-Nakon snažnog rasta u prethodnim godinama i velikih očekivanja tijekom 2025., Bitcoin je ušao u fazu hlađenja. Takve faze nisu neuobičajene i često se manifestiraju kroz dugotrajno bočno kretanje, povremene padove i smanjeni interes šire javnosti.
+Nakon snažnog rasta i euforije početkom 2025., Bitcoin je u drugom dijelu godine ušao u fazu iscrpljenosti. Očekivanja o cijenama od **180.000 do čak 250.000 dolara** nisu se ostvarila, a tržište je postupno prešlo u korektivni režim. Likvidnost se smanjila, interes za rizik oslabio, a kratkoročni trgovci počeli su zatvarati pozicije.
 
-Neki analitičari smatraju da bi tržište moglo dodatno testirati strpljenje ulagača prije nego se formira čvršća podloga za rast. U tom kontekstu spominju se i niže cjenovne razine, no takvi scenariji ne znače gubitak dugoročnog povjerenja u Bitcoin.
+Prema nekim ranim ulagačima u Bitcoin, ovaj proces još nije završen. Procjene govore da bi se tržišni minimum mogao formirati tek u **četvrtom kvartalu 2026.**, s cijenom koja se privremeno spušta prema **60.000 USD**. Takav scenarij ne bi bio iznimka u povijesti Bitcoina — dapače, višemjesečne korekcije nakon snažnih ciklusa događale su se već više puta.
 
-## Zašto dio tržišta očekuje rast već u prvom kvartalu
+Dodatni rizik dolazi iz makroekonomskog okruženja. Iako se očekuje postupno popuštanje monetarne politike, politička neizvjesnost i regulatorni rizici, osobito u Sjedinjenim Američkim Državama, mogu privremeno zakočiti povratak snažnog optimizma na kripto tržište.
 
-Istodobno, ispod površine cijene odvijaju se strukturne promjene. Tijekom 2025. Bitcoin je postao znatno dostupniji institucionalnim ulagačima kroz financijske proizvode, infrastrukturu za skrbništvo i regulirane kanale izloženosti.
+## Ali istovremeno — zašto mnogi očekuju novi rast već u Q1 (prvi kvartal 2026)
 
-Analitičari koji očekuju rast već u prvom kvartalu 2026. ističu poboljšanu likvidnost, moguće smanjenje kamatnih stopa i promjene u globalnim financijskim tokovima. U tom scenariju Bitcoin bi mogao reagirati slično kao i druge imovine koje su ranije profitirale od blaže monetarne politike.
+Dok cijena stagnira ili pada, ispod površine događa se nešto znatno važnije. Infrastruktura oko Bitcoina nikada nije bila razvijenija. Tijekom 2025. Bitcoin je postao **lakši za držanje, posuđivanje i ostvarivanje prinosa**, a 2026. bi mogla biti godina u kojoj postaje **lakši za stvarno korištenje**.
 
-## Kako obje prognoze mogu biti točne
+Bitcoin neobanke, fintech rješenja, integracije sa stablecoinima i poboljšani payment sustavi sve više približavaju BTC ulozi stvarnog sredstva razmjene, a ne samo špekulativne imovine. Upravo to mnogi analitičari vide kao ključni preduvjet za sljedeći veliki rast.
 
-Bitcoin se povijesno kreće u ciklusima. Razdoblja slabosti često služe kao faza konsolidacije, tijekom koje se tržište čisti od pretjerane poluge i kratkoročnih špekulacija. Tek nakon toga dolazi do održivijeg rasta.
+Uz to, nekoliko važnih pokazatelja sugerira da bi se **četverogodišnji Bitcoin ciklus mogao mijenjati**. Ako se globalna likvidnost poveća, a kamatne stope krenu prema dolje, Bitcoin bi mogao “uhvatiti korak” s imovinama poput zlata i dionica, koje su već ranije reagirale na takva očekivanja.
 
-Zbog toga kratkoročna neizvjesnost i dugoročni optimizam ne stoje u suprotnosti. Oni su dio istog obrasca koji se na tržištu kriptovaluta ponavlja već više od desetljeća.
+Neki analitičari idu i korak dalje, tvrdeći da bi Bitcoin mogao dosegnuti **novi all-time high već u prvom kvartalu 2026.** Najoptimističnije procjene govore o cijenama iznad **140.000 do 145.000 USD**, dok ekstremno bullish scenariji spominju i znatno više razine kasnije u ciklusu.
 
-## Što to znači za ulagače u 2026.
+## Kako pomiriti pad na 60.000 USD i rast prema novim vrhovima
 
-Za prosječnog ulagača, 2026. vjerojatno neće biti godina jasnih i jednostavnih signala. Umjesto toga, mogla bi se pokazati kao prijelazno razdoblje u kojem se testiraju granice strpljenja, ali se istovremeno grade temelji za sljedeći tržišni pomak.
+Ključ je u vremenu. Kratkoročno, Bitcoin može ostati pod pritiskom, s mogućim dodatnim padovima ili dugotrajnim bočnim kretanjem. Takva faza često izgleda dosadno i obeshrabrujuće, ali upravo tada se tržište čisti od pretjerane poluge i slabih ruku.
 
-Upravo u takvim fazama razlika između kratkoročnog straha i dugoročne strategije postaje najvidljivija.
+Dugoročno, isti taj period može stvoriti temelje za snažniji i zdraviji rast. Ako se makroekonomski uvjeti poboljšaju i ako se Bitcoinova korisnost nastavi širiti, padovi bi se mogli pokazati kao **prilika**, a ne kao signal kraja ciklusa.
+
+## Što ovo znači za ulagače?
+
+Bitcoin u ovom trenutku nije jednostavna priča “gore ili dolje”. On je istovremeno u fazi **korekcije i transformacije**. Oni koji gledaju samo kratkoročne grafove vide slabost. Oni koji gledaju širu sliku vide infrastrukturu koja se priprema za sljedeći val.
+
+Upravo zato 2026. ne mora biti godina jedne jasne prognoze, već godina u kojoj će se tržište lomiti između straha i nove nade — prije nego što konačno odabere smjer.
 
 ## Naš osvrt (MetaAdvisor)
 
-- Prognoze se razlikuju jer gledaju različite vremenske horizonte  
-- Kratkoročna slabost ne isključuje rast već u 2026.  
-- Infrastruktura i institucionalni interes jači su nego ranije  
-- Tržišni ciklusi Bitcoina i dalje igraju ključnu ulogu  
-- 2026. može biti godina pripreme za sljedeći veliki val  
+- Suprotne prognoze odražavaju različite vremenske horizonte  
+- Pad prema 60.000 USD i rast prema 140.000 USD nisu međusobno isključivi  
+- Q1 2026. mnogi vide kao moguću točku preokreta  
+- Infrastruktura Bitcoina jača i izvan same cijene  
+- 2026. bi mogla biti godina prijelaza, a ne konačnog odgovora  
 
 <p style="font-size:0.8em; color:#6b7280; margin-top:26px;">
 <strong>Odricanje od odgovornosti:</strong> Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja investicijski savjet. Trgovanje kriptovalutama nosi visok rizik. Prije donošenja financijskih odluka provedite vlastito istraživanje.
