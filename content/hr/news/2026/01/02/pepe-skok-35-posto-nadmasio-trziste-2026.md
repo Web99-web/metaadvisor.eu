@@ -1,6 +1,6 @@
 ---
-title: "PEPE raste brže od tržišta dok se kripto početkom 2026. ponovno budi"
-slug: "pepe-raste-brze-od-trzista-pocetak-2026"
+title: "PEPE skočio oko 35% u tjedan dana i nadmašio tržište ostalih coina na početku 2026"
+slug: "pepe-skok-35-posto-nadmasio-trziste-2026"
 date: 2026-01-02T06:00:00
 category: "crypto"
 translationKey: "pepe_growth_market_jan2026"
@@ -40,6 +40,8 @@ summary: "Dok se kripto tržište početkom 2026. polako oporavlja, PEPE biljež
 Početak 2026. donio je prve znakove buđenja kripto tržišta nakon razdoblja stagnacije i pojačanog opreza. Iako se većina velikih tokena kretala umjereno, bez naglih pomaka, PEPE je u kratkom vremenu zabilježio znatno snažniji rast, izdvojivši se kao jedan od najaktivnijih tokena u tom razdoblju.
 
 U zadnjih tjedan dana, dok su Bitcoin, Solana i XRP rasli jednoznamenkastim postocima, PEPE je ostvario rast od oko 35 posto. Takav omjer jasno pokazuje da se kapital u ranim fazama tržišnog oporavka često usmjerava prema tokenima koji imaju izraženiju volatilnost i veću osjetljivost na promjenu tržišnog raspoloženja.
+
+U prosjeku se tjedni rast kretao oko 35 posto, dok su na pojedinim mjenjačnicama i u određenim vremenskim presjecima zabilježeni i pomaci bliži 45 posto, što dodatno potvrđuje koliko je kretanje PEPE-a bilo izraženije od šireg tržišta.
 
 ## Zašto PEPE često reagira snažnije
 
