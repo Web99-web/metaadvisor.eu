@@ -1,6 +1,6 @@
 ---
-title: "Trump Media kündigt Token-Distribution für Aktionäre an: Politik, Blockchain und eine neue Marktphase"
-slug: "trump-media-token-distribution-aktionaere-blockchain"
+title: "Trump Media (DJT) und Crypto.com (CRO) planen Token-Distribution für Aktionäre"
+slug: "trump-media-djt-crypto-com-cro-token-distribution"
 date: 2026-01-02T06:00:00
 category: "crypto"
 translationKey: "trump_media_token_distribution_20260102"
