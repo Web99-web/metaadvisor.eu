@@ -1,6 +1,6 @@
 ---
-title: "Trump Media Plans Token Distribution for Shareholders: Politics, Blockchain and a New Market Experiment"
-slug: "trump-media-token-distribution-shareholders-blockchain"
+title: "Trump Media (DJT) and Crypto.com (CRO) Plan Token Distribution for Shareholders"
+slug: "trump-media-djt-crypto-com-cro-token-distribution"
 date: 2026-01-02T06:00:00
 category: "crypto"
 translationKey: "trump_media_token_distribution_20260102"
