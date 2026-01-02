@@ -1,6 +1,6 @@
 ---
-title: "Trump Media najavljuje distribuciju tokena dioničarima: politika, blockchain i nova faza tržišta"
-slug: "trump-media-distribucija-tokena-dionicarima-blockchain"
+title: "Trump Media (DJT) i Crypto.com (CRO) planiraju distribuciju tokena dioničarima"
+slug: "trump-media-djt-crypto-com-cro-distribucija-tokena"
 date: 2026-01-02T06:00:00
 category: "crypto"
 translationKey: "trump_media_token_distribution_20260102"
