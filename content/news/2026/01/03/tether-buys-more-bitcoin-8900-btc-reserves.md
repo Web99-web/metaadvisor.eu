@@ -1,6 +1,6 @@
 ---
-title: "Tether Buys More Bitcoin: Nearly 9,000 BTC Added to Reserves for About $780 Million"
-slug: "tether-buys-more-bitcoin-9000-btc-reserves"
+title: "Tether Buys More Bitcoin: Nearly 8,900 BTC Added to Reserves for About $780 Million"
+slug: "tether-buys-more-bitcoin-8900-btc-reserves"
 date: 2026-01-03T20:00:00+01:00
 category: "crypto"
 translationKey: "b6c70a0d4c08c002983b67a29f9d4e16"
