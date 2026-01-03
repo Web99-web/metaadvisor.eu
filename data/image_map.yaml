@@ -41,7 +41,7 @@ mapping:
   bnb: [bnb.png]
   uniswap: [uniswap-uni.png]
   celestia TIA: [celestia-tia.png]
-  bittensor TAO: [TAO-Grayscale.png]
+  bittensor TAO: [TAO-Grayscale.png, TAO-bittensor.png]
   arbitrum: [arbitrum-arb.png]
   avalanche: [avalanche-avax.png, avax-treasury.png]
   kaspa: [kaspa-kas.png]
