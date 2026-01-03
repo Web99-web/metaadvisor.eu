@@ -1,6 +1,6 @@
 ---
-title: "Tether kauft erneut Bitcoin: Rund 9.000 BTC für etwa 780 Millionen US-Dollar den Reserven hinzugefügt"
-slug: "tether-kauft-erneut-bitcoin-9000-btc-reserven"
+title: "Tether kauft erneut Bitcoin: Rund 8.900 BTC für etwa 780 Millionen US-Dollar den Reserven hinzugefügt"
+slug: "tether-kauft-erneut-bitcoin-8900-btc-reserven"
 date: 2026-01-03T20:00:00+01:00
 category: "crypto"
 translationKey: "b6c70a0d4c08c002983b67a29f9d4e16"
