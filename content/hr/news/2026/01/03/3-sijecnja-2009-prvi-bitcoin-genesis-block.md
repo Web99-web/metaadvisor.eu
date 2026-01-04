@@ -1,7 +1,7 @@
 ---
 title: "3. siječnja 2009.: iskopan je prvi Bitcoin i započela je nova era novca"
 slug: "3-sijecnja-2009-prvi-bitcoin-genesis-block"
-date: 2026-01-04T00:20:00+01:00
+date: 2026-01-03T00:20:00+01:00
 category: "crypto"
 translationKey: "bitcoin_genesis_block_2009"
 source: "MetaAdvisor analiza"
