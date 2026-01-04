@@ -96,7 +96,7 @@ U trenutku kada je Bitcoin pokrenut, regulativa za kriptovalute nije postojala. 
 
 ## Od eksperimenta do globalne imovine
 
-Od skromnih početaka do danas, Bitcoin je prošao put koji se rijetko viđa u financijskoj povijesti. Tijekom 2024. i 2025. godine cijena Bitcoina dosezala je razine od **126.000 američkih dolara**, trenutna je oko 90.000 a u tržišnim raspravama spominjale su se i projekcije od **180.000 dolara po BTC-u**.
+Od skromnih početaka do danas, Bitcoin je prošao put koji se rijetko viđa u financijskoj povijesti od početnik **1 BTC vrijedio oko 0,00076 američkih dolara**... Tijekom 2024. i 2025. godine cijena Bitcoina dosezala je razine od **126.000 američkih dolara**, trenutna je oko 90.000 a u tržišnim raspravama spominjale su se i projekcije od **180.000 dolara po BTC-u**.
 
 Sve to u razdoblju od **15 do 16 godina** od trenutka kada je prvi blok iskopan.
 
