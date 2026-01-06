@@ -1,7 +1,7 @@
 ---
 title: "Bitfarms verlässt Lateinamerika: Ausstieg aus Paraguay und strategischer Schwenk zur KI-Infrastruktur"
 slug: "bitfarms-verlaesst-lateinamerika-paraguay-ki-infrastruktur"
-date: 2026-01-07T06:00:00+01:00
+date: 2026-01-06T06:00:00+01:00
 category: "news"
 translationKey: "1b22cbbc45d310cb4fc20f21b34cdb6e"
 source: "Cointelegraph"
