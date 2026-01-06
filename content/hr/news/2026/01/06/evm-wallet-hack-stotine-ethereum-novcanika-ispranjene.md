@@ -23,11 +23,11 @@ tags:
   - crypto
 ---
 
-<p style="text-align:center; margin:18px 0 14px 0;">
+<p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
      target="_blank" rel="nofollow sponsored"
      style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
-     👉 Trguj kriptovalutama sigurno — registriraj se ovdje
+     👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
   </a>
 </p>
 
