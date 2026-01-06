@@ -23,11 +23,11 @@ tags:
   - crypto
 ---
 
-<p style="text-align:center; margin:18px 0 14px 0;">
+<p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"
      target="_blank" rel="nofollow sponsored"
      style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
-     👉 Trade crypto — register here
+     👉 Unlock a Bitget bonus of up to 6,200 USDT — register here
   </a>
 </p>
 
