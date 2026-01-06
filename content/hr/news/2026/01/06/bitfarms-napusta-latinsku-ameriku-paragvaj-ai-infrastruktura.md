@@ -1,7 +1,7 @@
 ---
 title: "Bitfarms napušta Latinsku Ameriku: izlazak iz Paragvaja i zaokret prema AI infrastrukturi"
 slug: "bitfarms-napusta-latinsku-ameriku-paragvaj-ai-infrastruktura"
-date: 2026-01-07T06:00:00+01:00
+date: 2026-01-06T06:00:00+01:00
 category: "news"
 translationKey: "1b22cbbc45d310cb4fc20f21b34cdb6e"
 source: "Cointelegraph"
