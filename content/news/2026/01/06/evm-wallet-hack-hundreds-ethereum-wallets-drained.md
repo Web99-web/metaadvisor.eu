@@ -43,9 +43,10 @@ On-chain analysts report that wallets across multiple EVM-compatible networks we
 
 The most likely causes include phishing emails impersonating legitimate wallet communications and previously granted smart contract approvals that were never revoked. In many cases, attackers did not need fresh user interaction — an old signature or permission was enough to access funds.
 
-## 🔵 <a href="https://metaadvisor.eu/hr/news/trust-wallet-hakiran-bozic-25122025/" style="color:#1e40af; text-decoration:none; font-weight:700;">
-Connection to the Trust Wallet incident
+## 🔵 <a href="https://metaadvisor.eu/de/news/2025/12/26/trust-wallet-ge-hackt-weihnachten-25122025/" style="color:#1e40af; text-decoration:none; font-weight:700;">
+Connection to the Trust Wallet hack incident
 </a>
+
 
 Security researchers believe this attack may be linked to the Trust Wallet breach over Christmas, during which thousands of wallets were compromised and roughly $7 million was stolen. While no definitive technical link has been confirmed, similarities in timing and attack patterns raise serious concerns.
 
