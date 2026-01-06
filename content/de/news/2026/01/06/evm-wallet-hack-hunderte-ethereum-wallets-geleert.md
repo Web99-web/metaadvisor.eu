@@ -42,9 +42,10 @@ Laut On-Chain-Analysten betraf der Angriff mehrere EVM-kompatible Netzwerke, was
 
 In vielen Fällen reichte eine alte Signatur oder Genehmigung aus, um Angreifern Zugriff auf die Mittel zu ermöglichen — ohne weitere Nutzerinteraktion.
 
-## 🔵 <a href="https://metaadvisor.eu/hr/news/trust-wallet-hakiran-bozic-25122025/" style="color:#1e40af; text-decoration:none; font-weight:700;">
-Bezug zum Trust-Wallet-Vorfall
+## 🔵 <a href="https://metaadvisor.eu/de/news/trust-wallet-ge-hackt-weihnachten-25122025/" style="color:#1e40af; text-decoration:none; font-weight:700;">
+Zusammenhang mit dem Trust-Wallet-Hack
 </a>
+
 
 Sicherheitsforscher halten es für möglich, dass dieser Angriff mit dem Vorfall rund um Trust Wallet an Weihnachten in Verbindung steht, bei dem Tausende Wallets kompromittiert und rund 7 Millionen US-Dollar gestohlen wurden. Eine technische Bestätigung steht noch aus, doch ähnliche Angriffsmuster und der zeitliche Zusammenhang sorgen für zusätzliche Besorgnis.
 
