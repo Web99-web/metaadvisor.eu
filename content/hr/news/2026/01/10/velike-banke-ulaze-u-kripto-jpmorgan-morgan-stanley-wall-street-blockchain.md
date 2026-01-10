@@ -47,11 +47,16 @@ Velike banke s Wall Streeta godinama su javno izražavale skepsu prema kriptoval
 
 Danas najveće financijske institucije više ne raspravljaju o tome **treba li** ući u kripto — već **kako, gdje i pod kojim uvjetima** ga integrirati u postojeći financijski sustav.
 
+
 ## JPMorgan i tokenizirani dolar
 
-Najdalje je otišao **JPMorgan**, koji aktivno razvija vlastiti **tokenizirani dolar – JPM Coin**. Ovaj digitalni oblik bankarskog depozita koristi se za poravnanje transakcija između institucija i povezuje se s novom blockchain infrastrukturom poput **Canton Networka**.
+Najdalje je otišao **JPMorgan**, koji aktivno razvija vlastiti **tokenizirani dolar – JPM Coin**. Ovaj digitalni oblik bankarskog depozita koristi se za poravnanje transakcija između institucija i povezuje se s novom blockchain infrastrukturom poput **Canton Networka**.  Više o toj strategiji detaljno smo obradili u našoj priči  
+<a href="https://metaadvisor.eu/hr/news/jp-morgan-jpm-coin-multichain-likvidnost/" style="color:#1e40af; text-decoration:none; font-weight:700;">
+JP Morgan širi JPM Coin na više blockchain mreža kako bi povećao institucionalnu likvidnost
+</a>, gdje se vidi kako banka koristi blockchain tehnologiju za brže poravnanje transakcija i veću fleksibilnost unutar institucionalnog financijskog sustava.
 
-Za razliku od javnih blockchaina, ovdje se radi o zatvorenim, regulatorno usklađenim sustavima namijenjenima profesionalnim financijskim institucijama.
+Za razliku od javnih blockchaina, ovdje se radi o zatvorenim, regulatorno usklađenim mrežama namijenjenima profesionalnim sudionicima tržišta, s naglaskom na sigurnost, interoperabilnost i kontrolu rizika.
+
 
 ## Morgan Stanley otvara vrata kripto ETF-ovima
 
