@@ -44,6 +44,16 @@ U posljednjim danima Velika Britanija sve otvorenije govori o mogućnosti **prav
 
 Reakcija dolazi iz samog vrha britanske vlasti. Iz Downing Streeta poručeno je kako ograničavanje pristupa Groku samo na **pretplatnike** ne rješava problem, već ga pretvara u **premium verziju potencijalno nezakonite aktivnosti**.
 
+<p>
+Ovo nije prvi put da se pitanje Groka i golih AI slika otvara u britanskom kontekstu. 
+Detaljnije o početnim reakcijama vlasti, pravnim rizicima i odgovornosti platforme X pisali smo već u našoj ranijoj analizi 
+<a href="https://metaadvisor.eu/hr/news/ai-grok-x-uk-duznici-pravni-rizici-umjetne-inteligencije/" style="color:#1e40af; text-decoration:none; font-weight:700;">
+AI, Grok i X: Velika Britanija reagira na stvaranje golih AI slika bez pristanka
+</a>, 
+koja daje širi kontekst aktualnih prijetnji sankcijama i mogućih daljnjih regulatornih poteza.
+</p>
+
+
 ## Koje zakone Velika Britanija može koristiti protiv Groka?
 
 Suprotno dojmu da se radi o „pravnoj sivoj zoni“, britanski pravni okvir već sada sadrži **više alata** koji se mogu primijeniti na ovakve slučajeve.
