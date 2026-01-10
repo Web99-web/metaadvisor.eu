@@ -1,5 +1,5 @@
 ---
-title: "BNY Mellon i tokenizirani depoziti: zašto najveća skrbnička banka na svijetu ulazi u blockchain"
+title: "BNY Bank of New York Mellon i tokenizirani depoziti: zašto najveća skrbnička banka na svijetu ulazi u blockchain"
 slug: "bny-mellon-tokenizirani-depoziti-blockchain"
 date: 2026-01-10T06:00:00
 category: "crypto"
