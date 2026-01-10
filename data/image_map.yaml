@@ -163,6 +163,7 @@ mapping:
   money: [money.jpg]
   gold: [gold.jpg, gold1.jpg]
   "wall street": [wall-street-manja.jpg, wall-street-vs-crypto.png, Wall-street-on-chain.png]
+  Nasdaq: [Nasdaq-CME-crypto-index.png]
   visa: [visa.jpg]
   blockchain: [blockchain.png, blockchain-optimized.png]
   stocks-vs-blockchain: [stocks-vs-blockchain.png, stocks-vs-blockchain-disappear.png, dionice-vs-blockchain.jpg, stocks-shares-on-blockchain.png]
