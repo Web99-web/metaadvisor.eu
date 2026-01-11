@@ -70,10 +70,10 @@ In DeFi-Systemen müssen Nutzer ihr Geld nicht mehr auf Bankkonten halten, um Zi
 Wenn jemand Kryptowährungen über einen Smart Contract an andere Nutzer verleiht, ist keine Bank mehr notwendig – keine Einlage, kein Kreditausschuss, keine Marge zwischen Spar- und Kreditzins.
 
 Dieses Modell funktioniert bereits heute in der Praxis, wie wir in mehreren Artikeln erläutert haben, unter anderem im Leitfaden  
-**🔵 <a href="https://metaadvisor.eu/hr/news/jupiter-lend-kako-posuditi-kripto-bez-banke/" style="color:#1e40af; text-decoration:none; font-weight:700;">
-Jupiter Lend: Wie man Krypto ohne Bank leiht – Ein Leitfaden für Einsteiger
+**🔵 <a href="https://metaadvisor.eu/de/news/jupiter-lend-krypto-kredite-ohne-banken/" style="color:#1e40af; text-decoration:none; font-weight:700;">
+Jupiter Lend: Krypto-Kredite ohne Banken – einfacher Einsteigerleitfaden
 </a>**,  
-der zeigt, wie Einzelpersonen Liquidität erhalten können, indem sie ihre digitale Vermögenswerte nutzen – ganz ohne Kontakt zum Bankensystem. Genau solche Mechanismen machen DeFi zu einer realen Bedrohung für traditionelle Banken: nicht weil sie unsicher wären, sondern weil sie **das tun, worauf Banken jahrzehntelang ein Monopol hatten**.
+der erklärt, wie Einzelpersonen Liquidität erhalten können, indem sie ihre digitalen Vermögenswerte nutzen – ganz ohne Kontakt zum Bankensystem. Genau solche Mechanismen machen DeFi zu einer realen Herausforderung für traditionelle Banken: nicht weil sie unsicher wären, sondern weil sie **das tun, worauf Banken jahrzehntelang ein Monopol hatten**.
 
 Statt sich an dieses neue Modell anzupassen, verfolgt ein Teil des Finanzsektors eine Kontrollstrategie: Wenn DeFi nicht gestoppt werden kann, soll es **in ein bestehendes System gezwängt werden, das seine disruptive Kraft neutralisiert** – durch Regulierung, Lizenzen und Anforderungen, die dezentralen Protokollen naturgemäß schwerfallen.
 
