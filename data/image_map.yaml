@@ -32,7 +32,7 @@ mapping:
   polkadot: [polkadot-dot.png, DOT-ADA.png]
   chainlink: [chainlink-link.png]
   litecoin: [litecoin-ltc.png]
-  monero:   [monero-xmr.png, monero-privacy.png]
+  monero XMR:   [monero-xmr.png, monero-privacy.png, Monero-XMR-up.png, Monero-XMR-up1.png]
   xrp:      [xrp.png, XRP-ADA.png] 
   xlm stellar: [xlm.png]
   dogecoin: [dogecoin-doge.png]
