@@ -1,34 +1,23 @@
 {{ if not .Site.IsServer }}
 
-<!-- Google Consent Mode – default (EU-safe) -->
+<!-- Google Analytics GA4 (TEMP ENABLE – verification phase) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KL111KNH35"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
 
-  gtag('consent', 'default', {
-    'ad_storage': 'denied',
-    'analytics_storage': 'denied',
-    'ad_user_data': 'denied',
-    'ad_personalization': 'denied'
-  });
-</script>
-
-<!-- Google Analytics GA4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KL111KNH35"></script>
-<script>
   gtag('js', new Date());
+
+  // TEMPORARY: allow analytics immediately
+  gtag('consent', 'default', {
+    analytics_storage: 'granted'
+  });
+
   gtag('config', 'G-KL111KNH35');
 </script>
 
 <!-- Cloudflare Web Analytics -->
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js"
-  data-cf-beacon='{"token": "PRAVI_CF_TOKEN"}'></script>
-<!-- /Cloudflare -->
+  data-cf-beacon='{"token": "PRAVI_CLOUDFLARE_TOKEN"}'></script>
 
 {{ end }}
-
-
-
-
-
-
