@@ -286,7 +286,7 @@ mapping:
 
   # --- Tesla / Elon / Musk ---
   tesla:        [tesla.jpg]
-  X-twitter:    [X-twitter.png] 
+  X-twitter:    [X-twitter.png, X-ignoring-bots.png] 
 
   # --- Trump / Donald/ Barron ---
   trump family:        [trump-family-500m-crypto.png]
