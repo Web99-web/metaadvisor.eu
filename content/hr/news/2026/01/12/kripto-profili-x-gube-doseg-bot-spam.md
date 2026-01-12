@@ -61,7 +61,7 @@ Međutim, ovaj argument ne objašnjava situacije u kojima su pogođeni profili s
 
 U praksi se pokazuje da je dovoljno koristiti određene ključne riječi kako bi se račun našao pod pojačanim algoritamskim nadzorom. Kripto teme trenutačno su među najopterećenijima bot spamom, pa algoritam djeluje preventivno i neselektivno.
 
-To znači da čak i rijetke, informativne objave mogu završiti s minimalnim dosegom, bez obzira na kvalitetu ili namjeru autora. Upravo zato mnogi ozbiljni projekti, uključujući i MetaAdvisor, bilježe ograničenja vidljivosti iako ne krše pravila platforme.
+To znači da čak i rijetke, informativne objave mogu završiti s minimalnim dosegom, bez obzira na kvalitetu ili namjeru autora. Posljedice takvog pristupa vidljive su i kod niza legitimnih kripto profila koji posluju u skladu s pravilima platforme.
 
 ## Naš osvrt (MetaAdvisor)
 
