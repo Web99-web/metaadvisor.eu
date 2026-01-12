@@ -1,19 +1,14 @@
 {{ if not .Site.IsServer }}
 
-<!-- Google Analytics GA4 (TEMP ENABLE – verification phase) -->
+<!-- Google Analytics GA4 (EU cookieless analytics) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KL111KNH35"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-
   gtag('js', new Date());
-
-  // TEMPORARY: allow analytics immediately
-  gtag('consent', 'default', {
-    analytics_storage: 'granted'
+  gtag('config', 'G-KL111KNH35', {
+    anonymize_ip: true
   });
-
-  gtag('config', 'G-KL111KNH35');
 </script>
 
 <!-- Cloudflare Web Analytics -->
