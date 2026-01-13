@@ -1,0 +1,82 @@
+<div id="ma-consent" style="
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 56px; /* visina tickera */
+  background: #0f172a;
+  color: #fff;
+  padding: 16px;
+  z-index: 2147483648;
+  display: none;
+  font-size: 14px;
+  box-sizing: border-box;
+">
+  <div style="
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  ">
+    <span>
+      MetaAdvisor uses analytics cookies to measure readership.
+    </span>
+
+    <div style="display:flex; gap:10px">
+      <button id="ma-accept" style="
+        background:#2563eb;
+        color:#fff;
+        border:0;
+        padding:8px 14px;
+        border-radius:6px;
+        cursor:pointer;
+      ">
+        Accept
+      </button>
+
+      <button id="ma-decline" style="
+        background:#334155;
+        color:#fff;
+        border:0;
+        padding:8px 14px;
+        border-radius:6px;
+        cursor:pointer;
+      ">
+        Decline
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  // Ako je već odlučeno → ne prikazuj
+  if (localStorage.getItem('ma_consent')) return;
+
+  const banner = document.getElementById('ma-consent');
+  banner.style.display = 'block';
+
+  document.getElementById('ma-accept').onclick = function () {
+    localStorage.setItem('ma_consent', 'granted');
+
+    // GDPR default je denied, ovdje dajemo privolu
+    gtag('consent', 'update', {
+      analytics_storage: 'granted'
+    });
+
+    // Pokreni GA tek nakon privole
+    gtag('config', 'G-KL111KNH35', {
+      page_path: window.location.pathname
+    });
+
+    banner.remove();
+  };
+
+  document.getElementById('ma-decline').onclick = function () {
+    localStorage.setItem('ma_consent', 'denied');
+    banner.remove();
+  };
+})();
+</script>
