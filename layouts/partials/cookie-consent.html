@@ -46,9 +46,17 @@
 
   document.getElementById('ma-accept').onclick = function () {
     localStorage.setItem('ma_consent', 'granted');
+
+    // 1️⃣ Update consent
     gtag('consent', 'update', {
       analytics_storage: 'granted'
     });
+
+    // 2️⃣ 🔥 OVO JE KLJUČNO — pokreće GA
+    gtag('config', 'G-KL111KNH35', {
+      page_path: window.location.pathname
+    });
+
     banner.remove();
   };
 
@@ -58,3 +66,4 @@
   };
 })();
 </script>
+
