@@ -61,14 +61,16 @@
   document.getElementById('ma-accept').onclick = function () {
     localStorage.setItem('ma_consent', 'granted');
 
-    // GDPR default je denied, ovdje dajemo privolu
+    // 1️⃣ OTVORI ANALYTICS (privola)
     gtag('consent', 'update', {
       analytics_storage: 'granted'
     });
 
-    // Pokreni GA tek nakon privole
-    gtag('config', 'G-KL111KNH35', {
-      page_path: window.location.pathname
+    // 2️⃣ POŠALJI PRVI PAGEVIEW (RUČNO)
+    gtag('event', 'page_view', {
+      page_path: window.location.pathname,
+      page_location: window.location.href,
+      page_title: document.title
     });
 
     banner.remove();
