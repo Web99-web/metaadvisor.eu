@@ -1,3 +1,5 @@
+BILO JE PRIJE /LAYOUTS/PARTIALS/ANALITICS.HTML
+
 {{ if not .Site.IsServer }}
 
 <!-- Google Analytics GA4 (EU cookieless analytics) -->
