@@ -4,6 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ if .IsHome }}MetaAdvisor{{ else }}{{ .Title }} — MetaAdvisor{{ end }}</title>
+
+    <!-- FAVICON -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png">
+  <link rel="apple-touch-icon" href="/favicon.png">
+
   <meta name="description" content="{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}MetaAdvisor.{{ end }}">
   {{ partial "opengraph.html" . }}
 
