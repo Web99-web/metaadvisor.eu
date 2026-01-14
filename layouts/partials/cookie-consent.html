@@ -52,7 +52,6 @@
 
 <script>
 (function () {
-  // Ako je već odlučeno → ne prikazuj
   if (localStorage.getItem('ma_consent')) return;
 
   const banner = document.getElementById('ma-consent');
@@ -61,17 +60,20 @@
   document.getElementById('ma-accept').onclick = function () {
     localStorage.setItem('ma_consent', 'granted');
 
-    // 1️⃣ OTVORI ANALYTICS (privola)
-    gtag('consent', 'update', {
-      analytics_storage: 'granted'
-    });
+    // 🔒 SIGURNOSNA PROVJERA
+    if (typeof gtag === 'function') {
+      gtag('consent', 'update', {
+        analytics_storage: 'granted'
+      });
 
-    // 2️⃣ POŠALJI PRVI PAGEVIEW (RUČNO)
-    gtag('event', 'page_view', {
-      page_path: window.location.pathname,
-      page_location: window.location.href,
-      page_title: document.title
-    });
+      gtag('event', 'page_view', {
+        page_path: window.location.pathname,
+        page_location: window.location.href,
+        page_title: document.title
+      });
+    } else {
+      console.warn('gtag not ready yet');
+    }
 
     banner.remove();
   };
