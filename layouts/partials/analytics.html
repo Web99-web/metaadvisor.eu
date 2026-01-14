@@ -6,22 +6,31 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
 
-  // 1️⃣ DEFAULT CONSENT — SVE BLOKIRANO
+  // Default: blokirano dok nema privole
   gtag('consent', 'default', {
     analytics_storage: 'denied'
   });
 
-  // 2️⃣ INIT
+  // Init
   gtag('js', new Date());
 
-  // 3️⃣ CONFIG — BEZ AUTOMATSKOG PAGEVIEWA
+  // Config bez auto page_viewa
   gtag('config', 'G-KL111KNH35', {
     anonymize_ip: true,
     send_page_view: false
   });
+
+  // ✅ AKO JE VEĆ ACCEPTANO → POŠALJI PAGEVIEW
+  if (localStorage.getItem('ma_consent') === 'granted') {
+    gtag('event', 'page_view', {
+      page_path: window.location.pathname,
+      page_location: window.location.href,
+      page_title: document.title
+    });
+  }
 </script>
 
-<!-- Cloudflare Web Analytics (ostaje) -->
+<!-- Cloudflare Web Analytics -->
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js"
   data-cf-beacon='{"token": "PRAVI_CLOUDFLARE_TOKEN"}'></script>
 
