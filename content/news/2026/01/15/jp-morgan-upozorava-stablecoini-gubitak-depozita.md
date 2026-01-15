@@ -1,8 +1,8 @@
 ---
 title: "JP Morgan upozorava na stablecoine — banke strahuju od gubitka depozita"
-slug: "jp-morgan-upozorava-stablecoini-gubitak-depozita"
+slug: "jp-morgan-upozorava-stablecoine-gubitak-depozita"
 date: 2026-01-15T10:00:00
-category: "news"
+category: "crypto"
 translationKey: "jp_morgan_stablecoin_parallel_banking_2026"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2026/01/13/stablecoin-yield-debate-looks-like-parallel-banking-system-jpmorgan-cfo-says"
@@ -13,18 +13,18 @@ image: "/images/JP-Morgan-warns-over-stablecoins.png"
 thumbnail: "/images/JP-Morgan-warns-over-stablecoins.png"
 image_alt: "JP Morgan upozorava na stablecoin prinose i paralelni bankarski sustav"
 image_credit: "MetaAdvisor / simbolična ilustracija"
+summary: "JP Morgan upozorava da prinosi na stablecoine nalikuju paralelnom bankarskom sustavu, dok banke strahuju od gubitka depozita i kontrole nad tokovima kapitala."
 tags:
   - jp morgan
   - stablecoin
   - stablecoini
   - banke
-  - bankarski sustav
   - kripto
   - crypto
   - regulacija
   - financije
-summary: "JP Morgan upozorava da isplata prinosa na stablecoine nalikuje paralelnom bankarskom sustavu bez zaštitnih mehanizama, dok se istovremeno vodi borba oko kontrole kapitala i depozita."
 ---
+
 
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
