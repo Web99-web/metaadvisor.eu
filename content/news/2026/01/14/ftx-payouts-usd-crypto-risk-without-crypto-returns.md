@@ -56,20 +56,17 @@ The outcome of these disputes could set important precedents for how future cryp
 
 ## FTX is not an isolated case
 
-For broader context, it is worth revisiting the earlier analysis  
-<a href="https://metaadvisor.eu/news/who-remembers-ftx-collapse-crypto-lessons/" style="color:inherit; text-decoration:none;">
-on who still remembers the FTX collapse and the key lessons it left behind for the crypto industry
-</a>.  
-That piece explains how structural weaknesses, poor governance, and regulatory blind spots made one of the largest failures in crypto history possible.
+For broader context, it is worth revisiting the earlier analysis of how 
+<a href="https://metaadvisor.eu/news/who-remembers-ftx-collapse-crypto-lessons/" style="color:#1e40af; font-weight:600; text-decoration:none;">
+FTX became the largest collapse in crypto history and the lessons it left behind for the industry
+</a>, a piece that explains in detail how structural weaknesses, poor governance and regulatory blind spots made such a failure possible.
 
 ## The Celsius parallel cannot be ignored
 
-A strikingly similar pattern emerged in the Celsius case.  
-In the analysis  
-<a href="https://metaadvisor.eu/news/celsius-paradox-company-mines-btc-but-creditors-get-usd-in-bankruptcy/" style="color:inherit; text-decoration:none;">
-“Celsius paradox: company mines BTC, but creditors get USD accounting in bankruptcy”
-</a>  
-it becomes clear how what was marketed as “crypto savings” was ultimately reduced to fiat math based on a fixed snapshot date — even while the company continued crypto-related operations during bankruptcy.
+A strikingly similar pattern emerged in the Celsius case, where the analysis of the 
+<a href="https://metaadvisor.eu/news/celsius-paradox-company-mines-btc-but-creditors-get-usd-in-bankruptcy/" style="color:#1e40af; font-weight:600; text-decoration:none;">
+paradox in which a company continues mining Bitcoin while creditors are paid out in USD
+</a> clearly shows how what was marketed as “crypto savings” is rapidly reduced to fiat accounting based on a fixed snapshot date.
 
 FTX now confirms that this is not an anomaly, but a systemic rule.
 
