@@ -97,7 +97,7 @@ mapping:
   ai agent: [ai-agenti-stablecoini.png, robot.png]
   ai opasnosti i lazi: [AI-Tik-tok-Anitiimigrant.png, Gold-mine-fake.png, AI-risks.png]
   ai law: [AI-law-Harvey.png]
-  
+  KAITO: [Kaito-InfoFi-banned-from-X.png]
   
   mobile: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg]
@@ -153,7 +153,7 @@ mapping:
   Family organizer calendar: [Family-organizer-Skylight2.png]
   OZLO sleep ai: [OZLO-sleep-ai.png]
   ElevenLabs voice ai: [ElevenLabs-voice-AI.png]
-
+  InfoFi: [Kaito-InfoFi-banned-from-X.png]
   
   # --- FINANCIJE / TRŽIŠTA / GOSPODARSTVO ---
   stock: [stock-market-dionice.jpg, stock-market-dionice1.jpg, financial-chart.jpg, grafikon.jpg, btc-finance.jpg]
