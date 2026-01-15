@@ -1,5 +1,5 @@
 ---
-title: "Novi gradonačelnik New Yorka odbija kripto — ali memecoin prethodnika ostaje upozorenje"
+title: "NYC Token: novi gradonačelnik New Yorka se distancira od memecoina prethodnika"
 slug: "new-york-gradonacelnik-odbijanje-nyc-token-memecoin"
 date: 2026-01-15T11:00:00
 category: "crypto"
@@ -13,7 +13,7 @@ image: "/images/NYC-token.png"
 thumbnail: "/images/NYC-token.png"
 image_alt: "Novi gradonačelnik New Yorka distancira se od NYC Token memecoina"
 image_credit: "MetaAdvisor / simbolična ilustracija"
-summary: "Novi gradonačelnik New Yorka jasno se distancirao od kripta i odbio memecoin svog prethodnika, no slučaj NYC Tokena otvara širu raspravu o političarima, memecoinima i riziku za građane."
+summary: "Novi gradonačelnik New Yorka se distancirao od kripta i odbio memecoin svog prethodnika, no slučaj NYC Tokena otvara širu raspravu o političarima, memecoinima i riziku za građane."
 tags:
   - new york
   - nyc
