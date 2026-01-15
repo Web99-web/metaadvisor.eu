@@ -1,30 +1,21 @@
 {{ if not .Site.IsServer }}
 
-<!-- Google Analytics GA4 -->
+<!-- Google Analytics GA4 – LOAD ONLY (no init, no page_view) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KL111KNH35"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
 
-  // Default: blokirano dok nema privole
+  // Default: analytics blocked until consent
   gtag('consent', 'default', {
     analytics_storage: 'denied'
   });
-
-  // Init
-  gtag('js', new Date());
-
-  // Config bez auto page_viewa
-  gtag('config', 'G-KL111KNH35', {
-    anonymize_ip: true,
-    send_page_view: false
-  });
-
- 
 </script>
 
 <!-- Cloudflare Web Analytics -->
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js"
-  data-cf-beacon='{"token": "PRAVI_CLOUDFLARE_TOKEN"}'></script>
+<script defer
+  src="https://static.cloudflareinsights.com/beacon.min.js"
+  data-cf-beacon='{"token":"PRAVI_CLOUDFLARE_TOKEN"}'>
+</script>
 
 {{ end }}
