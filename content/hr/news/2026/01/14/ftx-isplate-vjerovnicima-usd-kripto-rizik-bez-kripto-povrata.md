@@ -53,27 +53,26 @@ To znači da sav kasniji rast kripto tržišta ne pripada vjerovnicima. Kripto r
 
 Paralelno s isplatama, Genesis Digital Assets pokušava sudskim putem odbaciti tužbu vrijednu oko milijardu američkih dolara, vezanu uz tzv. *clawback* zahtjeve – povrat sredstava koja su prenesena neposredno prije kolapsa FTX-a. Takvi zahtjevi uobičajeni su u stečajevima, ali u ovom slučaju dodatno razotkrivaju koliko je FTX-ov pad isprepleo burze, rudarske kompanije i institucionalne partnere.
 
-<h2>FTX nije izoliran slučaj</h2>
+## FTX nije izoliran slučaj
 
-<p>
-Za širi kontekst vrijedi se prisjetiti ranije analize o tome kako je FTX postao najveći krah u kripto povijesti i koje je lekcije ostavio industriji.
-<a href="https://metaadvisor.eu/hr/news/tko-se-sjeca-ftx-bankrota-kripto-krah-lessons/" style="text-decoration:none; color:inherit;">
+Za širi kontekst vrijedi se prisjetiti ranije analize  
+<a href="https://metaadvisor.eu/hr/news/tko-se-sjeca-ftx-bankrota-kripto-krah-lessons/"
+   style="color:#1e40af; text-decoration:underline;">
+o tome kako je FTX postao najveći krah u kripto povijesti i koje je lekcije ostavio industriji
+</a>.  
 Ta priča detaljno objašnjava kako su strukturne slabosti, netransparentno upravljanje i regulatorne rupe omogućile da se takav kolaps uopće dogodi.
-</a>
-</p>
 
-<h2>Celsius paralela koju je nemoguće ignorirati</h2>
+## Celsius paralela koju je nemoguće ignorirati
 
-<p>
-Sličan obrazac već je viđen kod Celsiusa.
-<a href="https://metaadvisor.eu/hr/news/celsius-paradoks-firma-rudari-btc-ali-vjerovnici-dobiju-usd-u-bankrotu/" style="text-decoration:none; color:inherit;">
-U analizi o paradoksu u kojem firma nastavlja rudariti Bitcoin, dok se vjerovnici isplaćuju u USD, pokazano je kako se “štednja u kriptu” u bankrotu vrlo brzo pretvara u fiat matematiku na fiksni datum.
-</a>
-</p>
+Sličan obrazac već je viđen kod Celsiusa.  
+U tekstu  
+<a href="https://metaadvisor.eu/hr/news/celsius-paradoks-firma-rudari-btc-ali-vjerovnici-dobiju-usd-u-bankrotu/"
+   style="color:#1e40af; text-decoration:underline;">
+o paradoksu u kojem firma nastavlja rudariti Bitcoin, dok se vjerovnici isplaćuju u USD
+</a>  
+pokazano je kako se “štednja u kriptu” u bankrotu vrlo brzo pretvara u fiat matematiku na fiksni datum.
 
-<p>
 FTX danas potvrđuje da to nije iznimka, nego pravilo.
-</p>
 
 ## Naš osvrt (MetaAdvisor):
 
