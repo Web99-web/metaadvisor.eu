@@ -2,7 +2,7 @@
   position: fixed;
   left: 0;
   right: 0;
-  bottom: 56px; /* visina tickera */
+  bottom: 56px;
   background: #0f172a;
   color: #fff;
   padding: 16px;
@@ -52,31 +52,20 @@
 
 <script>
 (function () {
-  if (localStorage.getItem('ma_consent')) return;
-
+  const consent = localStorage.getItem('ma_consent');
   const banner = document.getElementById('ma-consent');
-  banner.style.display = 'block';
+
+  if (!consent) {
+    banner.style.display = 'block';
+  }
+
+  if (consent === 'granted') {
+    startGA();
+  }
 
   document.getElementById('ma-accept').onclick = function () {
     localStorage.setItem('ma_consent', 'granted');
-
-    if (typeof gtag === 'function') {
-
-      // 1️⃣ Update consent
-      gtag('consent', 'update', {
-        analytics_storage: 'granted'
-      });
-
-      // 2️⃣ START GA SESSION + PAGE VIEW (JEDINO ISPRAVNO)
-      gtag('config', 'G-KL111KNH35', {
-        anonymize_ip: true,
-        send_page_view: true
-      });
-
-    } else {
-      console.warn('gtag not ready yet');
-    }
-
+    startGA();
     banner.remove();
   };
 
@@ -84,5 +73,21 @@
     localStorage.setItem('ma_consent', 'denied');
     banner.remove();
   };
+
+  function startGA() {
+    if (typeof gtag !== 'function') return;
+
+    // Allow analytics
+    gtag('consent', 'update', {
+      analytics_storage: 'granted'
+    });
+
+    // Start GA session + send page_view
+    gtag('js', new Date());
+    gtag('config', 'G-KL111KNH35', {
+      anonymize_ip: true,
+      send_page_view: true
+    });
+  }
 })();
 </script>
