@@ -56,7 +56,8 @@ Parallel zu den Auszahlungen versucht Genesis Digital Assets, eine Klage in Höh
 ## FTX ist kein Einzelfall
 
 Für einen breiteren Kontext lohnt sich ein Blick auf die frühere Analyse  
-<a href="https://metaadvisor.eu/de/news/wer-erinnert-sich-an-ftx-kollaps-krypto-lehren/" style="color:inherit; text-decoration:none;">
+<a href="https://metaadvisor.eu/de/news/wer-erinnert-sich-an-ftx-kollaps-krypto-lehren/"
+   style="color:#1e40af; text-decoration:underline;">
 „Wer erinnert sich an den FTX-Kollaps? Der größte Zusammenbruch in der Krypto-Geschichte und die wichtigsten Lehren“
 </a>,  
 in der detailliert erklärt wird, wie strukturelle Schwächen, mangelnde Transparenz und regulatorische Grauzonen diesen historischen Kollaps ermöglicht haben.
@@ -65,7 +66,8 @@ in der detailliert erklärt wird, wie strukturelle Schwächen, mangelnde Transpa
 
 Ein nahezu identisches Muster zeigte sich bereits bei Celsius.  
 In der Analyse  
-<a href="https://metaadvisor.eu/de/news/celsius-paradox-unternehmen-minen-btc-aber-glaeubiger-bekommen-usd-im-konkurs/" style="color:inherit; text-decoration:none;">
+<a href="https://metaadvisor.eu/de/news/celsius-paradox-unternehmen-minen-btc-aber-glaeubiger-bekommen-usd-im-konkurs/"
+   style="color:#1e40af; text-decoration:underline;">
 „Celsius-Paradox: Unternehmen minen BTC, aber Gläubiger bekommen im Konkurs eine USD-Abrechnung“
 </a>  
 wird beschrieben, wie die vermeintliche „Krypto-Ersparnis“ im Insolvenzfall abrupt zu einer Fiat-Rechnung auf Basis eines Stichtags wurde – trotz fortgesetzter Krypto-Aktivitäten des Unternehmens.
