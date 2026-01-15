@@ -53,27 +53,32 @@ To znači da sav kasniji rast kripto tržišta ne pripada vjerovnicima. Kripto r
 
 Paralelno s isplatama, Genesis Digital Assets pokušava sudskim putem odbaciti tužbu vrijednu oko milijardu američkih dolara, vezanu uz tzv. *clawback* zahtjeve – povrat sredstava koja su prenesena neposredno prije kolapsa FTX-a. Takvi zahtjevi uobičajeni su u stečajevima, ali u ovom slučaju dodatno razotkrivaju koliko je FTX-ov pad isprepleo burze, rudarske kompanije i institucionalne partnere.
 
-Ishod tih sporova mogao bi imati dugoročne posljedice za buduće kripto bankrote, osobito kada je riječ o odgovornosti i tretmanu korisničke imovine.
-
 ## FTX nije izoliran slučaj
 
-Za one koji žele širi kontekst, vrijedi se prisjetiti ranije analize o tome kako je FTX postao **najveći krah u kripto povijesti** i koje je lekcije ostavio industriji. Ta priča detaljno objašnjava kako su strukturalne slabosti, netransparentno upravljanje i regulatorne rupe omogućile da se takav kolaps uopće dogodi.
+Za širi kontekst vrijedi se prisjetiti ranije analize  
+<a href="https://metaadvisor.eu/hr/news/tko-se-sjeca-ftx-bankrota-kripto-krah-lessons/" style="color:inherit; text-decoration:none;">
+o tome kako je FTX postao najveći krah u kripto povijesti i koje je lekcije ostavio industriji
+</a>.  
+Ta priča detaljno objašnjava kako su strukturalne slabosti, netransparentno upravljanje i regulatorne rupe omogućile da se takav kolaps uopće dogodi.
 
-Još je važnija paralela s Celsiusom. I tamo su korisnici godinama “štedjeli u Bitcoinu i Etheru”, vjerujući da će u najgorem scenariju dobiti natrag barem proporcionalne količine coina. Umjesto toga, bankrot je sve pretvorio u USD matematiku na fiksni datum iz 2022. godine, unatoč činjenici da je tvrtka tijekom stečaja nastavila rudariti Bitcoin. Taj **Celsius paradoks** danas se gotovo preslikava na FTX.
+## Celsius paralela koju je nemoguće ignorirati
 
-## Sustavno pitanje koje tek dolazi na red
+Sličan obrazac već je viđen kod Celsiusa.  
+U tekstu  
+<a href="https://metaadvisor.eu/hr/news/celsius-paradoks-firma-rudari-btc-ali-vjerovnici-dobiju-usd-u-bankrotu/" style="color:inherit; text-decoration:none;">
+o paradoksu u kojem firma nastavlja rudariti Bitcoin, dok se vjerovnici isplaćuju u USD
+</a>  
+pokazano je kako se “štednja u kriptu” u bankrotu vrlo brzo pretvara u fiat matematiku na fiksni datum.
 
-FTX tako postaje simbol šireg problema: kripto se u poslovanju i marketingu tretira kao temeljna imovina, ali u bankrotu se svodi na fiat brojku. Ako netko svjesno ulaže u kripto, prihvaća njegovu volatilnost i dugoročni rizik, zašto mu se u najgorem scenariju oduzima upravo ono zbog čega je ušao u kripto?
-
-Odgovor na to pitanje vjerojatno će morati dati budući regulatorni okvir. Do tada, FTX ostaje snažan podsjetnik da “štednja u kriptu” pravno još uvijek vrlo lako postaje – fiat iluzija.
+FTX danas potvrđuje da to nije iznimka, nego pravilo.
 
 ## Naš osvrt (MetaAdvisor):
 
-- FTX potvrđuje da je USD obračun standardni model u kripto bankrotima.
-- Rizik kripta snose korisnici, ali se budući rast briše u stečaju.
-- Paralele s Celsiusom pokazuju da se ne radi o iznimci, nego o obrascu.
-- Clawback sporovi mogli bi postaviti presedane za buduće slučajeve.
-- Bez jasnih pravila, povjerenje u “kripto štednju” ostaje ozbiljno narušeno.
+- FTX potvrđuje da je USD obračun standardni model u kripto bankrotima  
+- Rizik kripta snose korisnici, ali se budući rast briše u stečaju  
+- Paralele s Celsiusom pokazuju da se ne radi o izoliranom slučaju  
+- Clawback sporovi mogli bi postaviti presedane za buduće bankrote  
+- Bez jasnih pravila, povjerenje u “kripto štednju” ostaje ozbiljno narušeno  
 
 <p style="font-size:0.8em; color:#777; margin-top:18px;">
 Odricanje od odgovornosti: Ovaj članak ima isključivo informativnu svrhu i ne predstavlja financijski ili investicijski savjet. Ulaganje u kriptovalute nosi visok rizik, a odluke donosite na vlastitu odgovornost.
