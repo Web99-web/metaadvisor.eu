@@ -65,11 +65,14 @@ Genius Trading je prije javnog lansiranja već obradio više od 160 milijuna dol
 
 ## Kako se dolazi do Genius Tradinga
 
-Za razliku od klasičnih burzi, Genius Trading nije aplikacija za „brzi retail trading“. Pristup platformi odvija se putem njihove web aplikacije, uz povezivanje vlastitog walleta. Korisnik ne polaže sredstva na platformu, već **Genius služi kao kontrolni centar za izvršenje naloga**.
+Za razliku od klasičnih burzi, Genius Trading nije aplikacija za „brzi retail trading“. Pristup platformi odvija se putem njihove web aplikacije, uz povezivanje vlastitog walleta. Korisnik ne polaže sredstva na platformu, već **Genius služi kao kontrolni centar za izvršenje naloga**. Genius Trading ne funkcionira kao klasična centralizirana burza s korisničkim računima i depozitima. **Pristup platformi odvija se putem web sučelja, pri čemu se korisnik povezuje izravno preko vlastitog kripto walleta**, poput MetaMaska ili drugih kompatibilnih wallet rješenja, ovisno o blockchain mreži na kojoj se odvija trgovanje.
 
-Podržani su spot poslovi, perpetual futures i copy trading, a fokus je očito na iskusnijim trgovcima i fondovima koji upravljaju većim pozicijama i trebaju preciznu kontrolu ulaza i izlaza iz tržišta.
+Podržani su spot poslovi, perpetual futures i copy trading, a fokus je očito na iskusnijim trgovcima i fondovima koji upravljaju većim pozicijama i trebaju preciznu kontrolu ulaza i izlaza iz tržišta. **Platforma ne preuzima skrbništvo nad sredstvima korisnika.** Imovina u svakom trenutku ostaje pod potpunom kontrolom vlasnika walleta, dok Genius Trading djeluje kao **izvršni i agregacijski sloj** koji omogućuje slanje naloga, routing likvidnosti i izvršenje trgovanja preko više blockchain mreža i decentraliziranih protokola.
 
 U tom smislu, Genius Trading se može površno usporediti s rješenjima poput Hyperliquida, ali samo u kontekstu napredne egzekucije – dok je struktura i filozofija proizvoda bitno drugačija.
+
+Takav **wallet-based, non-custodial pristup** jasno razlikuje Genius Trading od centraliziranih burzi, ali ga istovremeno odvaja i od klasičnih DEX-ova. **Korisnik ostaje potpuno onchain**, ali dobiva profesionalni alat za egzekuciju trgovanja, upravljanje nalozima i optimizaciju izvršenja na više tržišta.
+
 
 ## Šira slika: kamo ide kripto trading
 
