@@ -195,8 +195,8 @@ mapping:
   Barclays: [Barclays-down-2026.png]
   Korea bank: [Korea-stablecoins.png]
   BNY Bank of New York Mellon: [BNY-Bank-of-New-York-Mellon.png]
-  JP Morgan: [JP-Morgan-warns-over-stablecoins.png]
-  
+  JP Morgan: [JP-Morgan-crypto.png, JP-Morgen-JPM.png, JP-Morgan-warns-over-stablecoins.png]
+  Investment bank: [Investment-Bank-China-Renaissance-BNB.png]
   
   Meanwhile: [Meanwhile-BTC.png] 
   Market daily: [market-crypto-daily.png]
@@ -205,20 +205,17 @@ mapping:
   Square BTC: [square-btc-main-street.png, square-bitcoin-square-1080.jpg]
   CEX vs DEX: [cex-vs-dex.png]
   Defi: [defi.png, DeFi-vs-crypto-regulations.png]
-  Investment bank: [Investment-Bank-China-Renaissance-BNB.png]
+  
   Solmate: [Solmate-Infrastructure-SLMT.png, Solmate-RockawayX.png]
   How to trade: [how-to-trade.png, how-to-trade1.png]
   BOB vault: [bob-bitcoin-vault-stablecoin.png]
   Paying: [Paying-with-palm.png]
   dToro: [etoro.png]
   Korea Upbit: [Upbit-Dunamu-300.png, Upbit-haked-36m-sol-Lazars.png]
-  Jupiter credit: [Jupiter-jup.ag.png, Jupiter-jup.ag1.png]
-  Coinbase Chainlink: [Coinbase-Chainlink-Solana-bridge.png]
-  Binance: [Binance-3-adgm-licenses.png]
-  Hyperliquid: [Hyperliquid.png, Hyperliquid-XRP-FXRP.png]
+  
+  
   HashKey: [HashKey-IPO-Hong-Kong.png]
   Fidelity: [Fidelity.png]
-  JP Morgan: [JP-Morgan-crypto.png, JP-Morgen-JPM.png]
   tokenized treasury: [tokenized-us-treasurys.png]
   US banks on ETH: [US-banks-on-eth-blockchains.png]
   top 2026 fintech picks: [top-2026-fintech-picks.png]
@@ -227,7 +224,7 @@ mapping:
   Bitwise: [Bitwise-etf-strategy.png, Bitwise-7crypto-etf-sweden.png]
   Prediction markets: [prediction-markets.png]
   Salaries: [Salaries-crypto.png]
-
+  Franklin Templeton: [Franklin-Templeton.png]
 
   # --- mjenjacnice / kripto-burza / banke / fintech firme ---
   Korbit - Korea: [Korbit-Mirae-Asset.png]
@@ -235,6 +232,11 @@ mapping:
   Strategy MSTR: [MSTR-strategy-Bitcoin.png]
   Lighter LIT: [LIT-Ligther-airdrop.png]
   Coinbase: [Coinbase-Base-Zora.png]
+  Coinbase Chainlink: [Coinbase-Chainlink-Solana-bridge.png]
+  Binance: [Binance-3-adgm-licenses.png]
+  Jupiter credit: [Jupiter-jup.ag.png, Jupiter-jup.ag1.png]
+  Hyperliquid: [Hyperliquid.png, Hyperliquid-XRP-FXRP.png]
+
   
   # --- phones / mobilephones / mobiles / Android ---
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-down.jpg, mobile-phone-man.jpg, mobile-phone-neutral.jpg, mobile-phone-ruke.jpg]
