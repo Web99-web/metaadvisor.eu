@@ -1,9 +1,9 @@
 ---
-title: "Godišnjica Wikipedije: kako nam pomaže u svakodnevnom životu i zašto moramo biti oprezni"
-slug: "godisnjica-wikipedije-pomoc-znanje-oprez"
+title: "Godišnjica Wikipedije: kako nam pomaže u životu – i zašto manipulacija sadržajem može biti opasna"
+slug: "godisnjica-wikipedije-znanje-pomoc-manipulacija"
 date: 2026-01-17T11:30:00
 category: "news"
-translationKey: "wikipedia_anniversary_knowledge_trust_2026"
+translationKey: "wikipedia_anniversary_manipulation_trust_2026"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
@@ -18,11 +18,11 @@ tags:
   - znanje
   - informacije
   - povijest
-  - mediji
   - politika
+  - mediji
+  - manipulacija
   - internet
-  - edukacija
-summary: "Wikipedija je promijenila način na koji učimo i tražimo informacije, ali njezina otvorenost nosi i rizike – osobito kada je riječ o političkim i povijesnim temama."
+summary: "Wikipedia nam svakodnevno pomaže u učenju i informiranju, ali nedavni slučajevi upozoravaju koliko pokušaji manipulacije sadržajem mogu biti opasni, posebno kod političkih i povijesnih tema."
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">
@@ -36,56 +36,68 @@ Slika je simbolična.
   </a>
 </p>
 
-# Godišnjica Wikipedije: neprocjenjiv alat znanja
+# Godišnjica Wikipedije: neprocjenjiv alat znanja, ali ne i nepogrešiv
 
-Sredinom siječnja obilježava se godišnjica **Wikipedije**, jednog od najvažnijih digitalnih projekata modernog doba. Teško je danas zamisliti školovanje, posao ili svakodnevno informiranje bez nje. Bilo da tražimo objašnjenje pojmova, povijesni kontekst, biografije javnih osoba ili osnovne znanstvene činjenice, Wikipedia je često prva stanica.
+Nekidan je obilježena godišnjica Wikipedije, projekta bez kojeg je danas gotovo nemoguće zamisliti internet, obrazovanje i svakodnevno informiranje. Wikipedia je postala prva stanica za milijune ljudi kada traže objašnjenje pojmova, povijesni kontekst, biografije javnih osoba ili osnovne informacije o aktualnim događajima.
 
-Njezina vrijednost leži u jednostavnosti i dostupnosti: znanje je besplatno, brzo dostupno i globalno. Upravo je to Wikipediju pretvorilo u **temeljni sloj internetskog znanja**.
+Upravo zbog te dostupnosti Wikipedia ima golem utjecaj na način na koji ljudi razumiju svijet.
 
-## Kako je Wikipedia promijenila način učenja
+## Kako nam Wikipedia pomaže u svakodnevnom životu
 
-Prije Wikipedije, znanje je bilo vezano uz tiskane enciklopedije, akademske institucije i spore procese objave. Wikipedia je to promijenila u potpunosti. Omogućila je:
-- brzo ažuriranje informacija  
-- sudjelovanje velikog broja ljudi  
-- pokrivanje tema koje klasične enciklopedije nikada nisu stizale obraditi  
+Wikipedia je promijenila odnos prema znanju. Prije nje, informacije su bile raspršene po knjigama, enciklopedijama i akademskim bazama. Danas su dostupne u nekoliko sekundi.
 
-Za mnoge je postala početna točka za daljnje istraživanje, a ne konačan odgovor. Upravo u toj ulozi – kao **ulaz u temu** – ona ima najveću vrijednost.
+Njezine glavne prednosti su:
+- brz pristup informacijama  
+- besplatno korištenje  
+- stalno ažuriranje sadržaja  
+- širok raspon tema – od znanosti do politike  
 
-## Otvorenost kao snaga, ali i slabost
+Za mnoge korisnike Wikipedia nije konačan izvor, već **polazna točka** za daljnje učenje. I upravo tu leži njezina snaga.
 
-Wikipedia je izgrađena na ideji otvorenog uređivanja. Svaka izmjena ostaje zabilježena, a zajednica nadzire sadržaj. No ta otvorenost nosi i rizike. Sadržaj nije statičan, već se stalno mijenja, često kroz rasprave, uređivačke ratove i borbu oko formulacija.
+## Otvorenost koja je donijela i probleme
 
-Posebno su osjetljive:
-- političke teme  
-- povijesni događaji  
-- ideologije i sukobi  
-- biografije moćnih pojedinaca i država  
+Wikipedia je nastala kao odgovor na spor i zatvoren model klasičnih enciklopedija. Njezin prethodnik, Nupedia, oslanjao se isključivo na stručnjake i recenzije, što je dovelo do minimalnog broja objavljenih članaka. Wikipedia je odabrala suprotan put: otvoreno uređivanje.
 
-U takvim slučajevima nijansa u tonu, redoslijedu informacija ili izboru izvora može značajno utjecati na percepciju čitatelja.
+No otvorenost znači i ranjivost.
 
-## Kada informacije postanu sredstvo utjecaja
+Kod tema poput politike, povijesti, ratova ili ideologija, sadržaj Wikipedije često postaje **bojno polje interpretacija**. Ne radi se uvijek o otvorenim lažima, nego o nijansama: što se ističe, a što se prešućuje.
 
-Nedavne istrage pokazale su da pojedine PR agencije pokušavaju **utjecati na sadržaj Wikipedije** kako bi poboljšale sliku svojih klijenata. Takva praksa, poznata kao “wikilaundering”, ne temelji se nužno na izravnim lažima, već na suptilnim izmjenama: ublažavanju kritika, prebacivanju spornih činjenica u pozadinu ili promjeni konteksta.
+## Slučaj Portland Communications: pokušaji “uljepšavanja” stvarnosti
 
-To ne znači da je Wikipedia nepouzdana, ali pokazuje koliko je važno razumjeti da se iza “neutralnog” teksta često vodi **borba interpretacija**.
+Upravo zbog toga je zabrinjavajuća nedavna priča o britanskoj PR agenciji **Portland Communications**, koju je **Bureau of Investigative Journalism** povezao s praksom poznatom kao *wikilaundering*.
 
-## Zašto je kritičko čitanje važno
+Prema toj istrazi, Portland Communications je navodno koristio vanjske suradnike i posrednike kako bi **naručivao povoljne izmjene Wikipedia članaka** vezanih uz određene klijente. Te izmjene nisu bile otvorene laži, već su se odnosile na:
+- ublažavanje kritičkih dijelova  
+- guranje negativnih informacija u pozadinu  
+- promjene tona i konteksta  
 
-Wikipedia je iznimno moćan alat, ali nije zamjena za razmišljanje. Posebno kod političkih i povijesnih tema, korisnici bi trebali:
-- provjeriti izvore navedene na dnu članka  
-- usporediti informacije s drugim izvorima  
-- biti svjesni da se članci mogu mijenjati  
+Posebno su spominjani članci povezani s državom Katar uoči Svjetskog prvenstva 2022.
 
-Otvorenost znanja je prednost, ali samo ako je prati **kritičko čitanje**.
+Važno je naglasiti da ne postoje dokazi da je osnivač agencije osobno naredio izmjene, ali sam slučaj pokazuje koliko je Wikipedia privlačna meta za reputacijski inženjering.
+
+## Zašto je to opasno – posebno kod politike i povijesti
+
+Wikipedia se često doživljava kao neutralna i objektivna. No ona je zapravo zbir izvora i interpretacija. Ako se manipulira izborom izvora ili kontekstom, moguće je dugoročno mijenjati percepciju stvarnosti.
+
+Kod političkih i povijesnih tema to može imati ozbiljne posljedice. Povijest nije samo niz činjenica, nego i način na koji ih tumačimo. Ako se taj proces prepusti interesnim skupinama, granica između informacije i propagande postaje tanka.
+
+## Kako koristiti Wikipediju odgovorno
+
+Wikipedia ostaje iznimno vrijedan alat, ali zahtijeva kritički pristup:
+- provjeru izvora  
+- usporedbu s drugim medijima  
+- oprez kod osjetljivih tema  
+
+Otvorenost znanja je prednost samo ako je prati svijest o njegovim ograničenjima.
 
 ## Naš osvrt (MetaAdvisor)
 
-- Wikipedia je jedan od najvećih projekata digitalnog znanja u povijesti  
-- Otvorenost joj daje snagu, ali i stvara prostor za zloupotrebe  
-- Poseban oprez potreban je kod političkih i povijesnih tema  
+- Wikipedia je temelj modernog digitalnog znanja  
+- Njezina snaga je dostupnost, ali i ranjivost  
+- Pokušaji manipulacije nisu teorija zavjere, već dokumentirana praksa  
+- Političke i povijesne teme zahtijevaju poseban oprez  
 - Kritičko čitanje važnije je nego ikad  
-- Znanje je dostupno svima, ali odgovornost ostaje na čitatelju  
 
 <p style="font-size:0.85em; color:#777; margin-top:24px;">
-<strong>Odricanje od odgovornosti:</strong> Ovaj članak služi isključivo u informativne i edukativne svrhe. Ne predstavlja savjet, službeni stav niti jamstvo potpune točnosti navedenih informacija. Čitatelji se potiču da informacije dodatno provjere iz više neovisnih izvora.
+<strong>Odricanje od odgovornosti:</strong> Ovaj članak služi isključivo u informativne i edukativne svrhe. Ne predstavlja savjet niti jamstvo potpune točnosti. Čitatelji se potiču da informacije provjere iz više neovisnih izvora.
 </p>
