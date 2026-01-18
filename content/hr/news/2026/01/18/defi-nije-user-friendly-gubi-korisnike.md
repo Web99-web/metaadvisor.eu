@@ -63,7 +63,11 @@ Zbog toga korisnici često imaju osjećaj da im “nešto nedostaje”, iako ima
 To nije problem edukacije korisnika.  
 To je **UX propust**.
 
-Upravo zato smo detaljno obradili tu temu u posebnom članku *“Čuli ste za gas fee u kriptu, a ne znate što to znači? I zašto vam to nitko ne objasni”*, jer bez razumijevanja tog mehanizma DeFi ostaje zatvoren krug za većinu ljudi.
+Upravo zato smo detaljno obradili tu temu u posebnom članku <a href="https://metaadvisor.eu/hr/news/sto-je-gas-fee-u-kriptu-i-zasto-nitko-ne-objasni/" 
+   style="color:#2563eb; font-weight:700; text-decoration:none;" 
+   target="_blank"> Čuli ste za gas fee u kriptu, a ne znate što to znači? I zašto vam to nitko ne objasni
+</a>, jer bez razumijevanja tog mehanizma DeFi ostaje zatvoren krug za većinu ljudi.
+
 
 ## Interoperabilnost koja zbunjuje umjesto da pomaže
 
