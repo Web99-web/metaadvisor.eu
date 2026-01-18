@@ -67,10 +67,11 @@ Zaustavljanje velikih projekata u završnim fazama izgradnje moglo bi dugoročno
 
 ## Naš osvrt (MetaAdvisor):
 
-- Ova presuda pokazuje da se **“nacionalna sigurnost” sve češće koristi kao politički argument**, a ne isključivo kao tehnički problem.  
-- Sudovi su poslali jasnu poruku da energetska tranzicija mora imati **pravnu i regulatornu stabilnost**.  
-- Offshore vjetar ostaje strateški važan, bez obzira na političke cikluse.  
-- Odluka jača povjerenje investitora u obnovljive projekte u SAD-u.  
+- Energetska tranzicija i sigurnost opskrbe električnom energijom postaju **ključni stupovi budućeg gospodarskog razvoja**.  
+- Dugoročni projekti poput offshore vjetroelektrana zahtijevaju **stabilan regulatorni okvir**, neovisno o političkim ciklusima.  
+- Sudske odluke u ovom slučaju naglašavaju važnost **balansa između sigurnosnih pitanja i tehnološkog napretka**.  
+- Obnovljivi izvori energije ostaju jedan od temeljnih pokretača modernizacije elektroenergetske mreže i otpornosti sustava.
+
 
 <p style="font-size:0.8em; color:#888; margin-top:24px;">
 <strong>Odricanje od odgovornosti:</strong> Ovaj članak služi isključivo u informativne svrhe i ne predstavlja investicijski, pravni ili financijski savjet. Autor ne preuzima odgovornost za odluke donesene na temelju ovog sadržaja.
