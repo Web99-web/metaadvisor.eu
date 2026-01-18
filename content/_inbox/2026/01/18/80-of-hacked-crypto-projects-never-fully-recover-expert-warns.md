@@ -19,7 +19,7 @@ Nearly four out of five crypto projects that suffer a major hack never fully reg
 
 Amador told Cointelegraph that most protocols enter a state of paralysis the moment an exploit is discovered. “Most protocols are fundamentally unaware of the extent to which they are exposed to hacks, and are not operationally prepared for a major security incident,” he said.
 
-According to Amador, the first hours after a breach are often the most damaging. Without a predefined incident plan, teams hesitate, debate next steps and underestimate how deep the compromise may go. “Decision-making slows as teams scramble to understand what happened, leading to improvization and delayed action,” he said, adding that this is frequently when additional losses occur.
+According to Amador, the first hours after a breach are often the most damaging. Without a predefined incident plan, teams hesitate, debate next steps and underestimate how deep the compromise may go. “Decision-making slows as teams scramble to understand what happened, leading to improvisation and delayed action,” he said, adding that this is frequently when additional losses occur.
 
 Projects often avoid pausing smart contracts out of fear of reputational damage, while communication with users breaks down entirely.  Amador warned that silence tends to amplify panic rather than contain it.
 
