@@ -1,4 +1,3 @@
-
 ---
 title: "Najbolje objašnjenje Bitcoina ikad: zašto Bitcoin nije tvrtka, nije proizvod i nema direktora"
 slug: "najbolje-objasnjenje-bitcoina-protokol-kao-internet"
