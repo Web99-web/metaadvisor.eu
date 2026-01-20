@@ -18,7 +18,7 @@ summary: "Javna svađa između Elona Muska i izvršnog direktora Ryanaira Michae
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">
-Slika je simbolična.
+Slika je simbolična. Karikatura temeljena na javno izrečenim stavovima. MetaAdvisor ne zauzima nijednu stranu.
 </p>
 
 <p style="text-align:center; margin:18px 0 12px 0;">
