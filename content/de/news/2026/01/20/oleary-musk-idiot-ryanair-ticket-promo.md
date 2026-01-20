@@ -18,7 +18,7 @@ summary: "Der öffentliche Streit zwischen Elon Musk und Ryanair-CEO Michael O�
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">
-Bild ist symbolisch.
+Bild ist symbolisch. Karikatur basierend auf öffentlich geäußerten Aussagen. MetaAdvisor bezieht keine Stellung.
 </p>
 
 <p style="text-align:center; margin:18px 0 12px 0;">
