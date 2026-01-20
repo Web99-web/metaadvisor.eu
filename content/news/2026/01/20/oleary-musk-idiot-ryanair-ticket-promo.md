@@ -18,7 +18,7 @@ summary: "A public spat between Elon Musk and Ryanair CEO Michael O’Leary took
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">
-Illustration based on publicly stated positions. MetaAdvisor does not take sides.
+Image is symbolic. Caricature based on publicly expressed statements. MetaAdvisor does not endorse any position.
 </p>
 
 <p style="text-align:center; margin:18px 0 12px 0;">
