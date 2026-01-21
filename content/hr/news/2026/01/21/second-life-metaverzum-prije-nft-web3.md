@@ -50,9 +50,9 @@ Ključna razlika u odnosu na današnje metaverse projekte bila je u tome što je
 
 ## Virtualni milijunaši i rani digitalni poduzetnici
 
-Najpoznatiji primjer tog razdoblja bila je Ailin Graef, poznata pod avatar-imenom Anshe Chung, koja je 2006. godine postala prva javno poznata “virtualna milijunašica”. Njezina imovina bila je procijenjena na više od milijun dolara i temeljila se na virtualnom zemljištu, izgrađenim objektima i prihodima od najma.
+Najpoznatiji primjer tog razdoblja bila je Ailin Graef, poznata pod avatar-imenom **Anshe Chung**, koja je 2006. godine postala prva javno poznata “virtualna milijunašica”. **Njezina imovina bila je procijenjena na više od milijun dolara** i temeljila se na virtualnom zemljištu, izgrađenim objektima i prihodima od najma.
 
-Važno je naglasiti da se radilo o kombinaciji stvarno unovčenog novca i procjene vrijednosti digitalne imovine u trenutku tržišnog vrhunca. Second Life nije bio igra u kojoj su svi zarađivali — ali je omogućio stvarni digitalni poduzetnički model onima koji su razumjeli sustav.
+Važno je naglasiti da se radilo o kombinaciji **stvarno unovčenog novca i procjene vrijednosti digitalne imovine** u trenutku tržišnog vrhunca. Second Life nije bio igra u kojoj su svi zarađivali — ali je omogućio stvarni digitalni poduzetnički model onima koji su razumjeli sustav.
 
 ## Kada su velike korporacije ušle u virtualni svijet
 
