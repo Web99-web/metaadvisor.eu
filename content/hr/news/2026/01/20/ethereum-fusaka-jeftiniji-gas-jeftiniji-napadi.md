@@ -43,7 +43,15 @@ U blockchain sustavima, gdje je svaka akcija prije imala realan financijski tro�
 
 Jedna od najraširenijih metoda nakon Fusake je tzv. **address poisoning napad**. Prevaranti šalju minimalne iznose tokena s adresa koje vizualno nalikuju legitimnim adresama korisnika. Cilj nije izravna krađa, već stvaranje konfuzije.
 
-Kada korisnik kasnije kopira adresu iz povijesti transakcija, može nesvjesno odabrati **lažnu adresu** i poslati znatno veći iznos sredstava izravno napadaču. Napad se ne oslanja na ranjivost pametnih ugovora, već na navike i brzinu kojom ljudi upravljaju walletima.
+Kada korisnik kasnije kopira adresu iz povijesti transakcija, može nesvjesno odabrati **lažnu adresu** i poslati znatno veći iznos sredstava izravno napadaču. Napad se pritom ne oslanja na ranjivosti pametnih ugovora, već na navike, brzinu i rutinu kojom ljudi svakodnevno upravljaju svojim walletima. Upravo takav scenarij doveo je do jedne od najvećih pojedinačnih kripto pogrešaka u 2025. godini.
+
+<p style="margin:14px 0 22px 0;">
+  <a href="https://metaadvisor.eu/hr/news/address-poisoning-kopirana-adresa-izgubljeno-50-milijuna-dolara/"
+     style="color:#1e40af; font-weight:700; text-decoration:none;">
+    Kopirao je adresu — i izgubio 50 milijuna dolara: najveća kripto greška godine
+  </a>
+</p>
+
 
 ## Lažna slika rasta mreže
 
