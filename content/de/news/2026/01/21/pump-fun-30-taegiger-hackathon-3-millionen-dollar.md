@@ -1,5 +1,5 @@
 ---
-title: "Pump.fun startet 30-tägigen Hackathon im Wert von 3 Millionen Dollar: vom Memecoin-Hype zu ernsthaften Projekten"
+title: "Pump.fun startet 30-tägigen Pump Fund Hackathon im Wert von 3 Millionen Dollar: vom Memecoin-Hype zu ernsthaften Projekten"
 slug: "pump-fun-30-taegiger-hackathon-3-millionen-dollar"
 date: 2026-01-21T12:30:00
 category: "crypto"
