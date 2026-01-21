@@ -1,5 +1,5 @@
 ---
-title: "Pump.fun launches a $3 million 30-day hackathon, signaling a shift beyond memecoins"
+title: "Pump.fun launches a Pump Fund $3 million 30-day hackathon, signaling a shift beyond memecoins"
 slug: "pump-fun-30-day-hackathon-3-million-dollars"
 date: 2026-01-21T12:30:00
 category: "crypto"
