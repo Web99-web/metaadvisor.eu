@@ -14,7 +14,7 @@ thumbnail: "/images/hacker.png"
 image_alt: "Ilustracija kibernetičkog napada i pranja kripto sredstava"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 summary: "Blockchain sigurnosna tvrtka CertiK identificirala je najmanje 63 milijuna USD koji su prošli kroz Tornado Cash nakon velikog kripto-haka vrijednog 282 milijuna USD. Analiza pokazuje klasični obrazac pranja sredstava kroz cross-chain prijenose, fragmentaciju i mixere."
-tags: ["crypto", "kripto", "certik", "hak", "phishing", "tornado cash", "sigurnost", "pranje sredstava"]
+tags: ["crypto", "kripto", "certik", "hak", "phishing", "tornado cash", "sigurnost", "krađa", "potpisivanje poruka" "pranje sredstava"]
 ---
 
 *Slika je simbolična.*
