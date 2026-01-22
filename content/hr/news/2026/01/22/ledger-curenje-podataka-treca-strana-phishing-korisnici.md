@@ -37,7 +37,7 @@ Odgovor je bio jasan, ali ne i umirujući: **Ledger walleti, njihova infrastrukt
 
 ## Što se zapravo dogodilo?
 
-Incident je povezan s vanjskim e-commerce partnerom koji sudjeluje u obradi narudžbi, plaćanja i isporuke fizičkih Ledger uređaja. U takvim modelima prodaje proizvođač često koristi tzv. *merchant of record* sustav — posrednika koji formalno vodi transakciju i obrađuje podatke potrebne za isporuku.
+Incident je povezan s vanjskim e-commerce partnerom **Global-e**, međunarodnim pružateljem usluga koji za brojne brendove djeluje kao tzv. *merchant of record* i sudjeluje u obradi plaćanja, poreza i isporuke fizičkih proizvoda. Upravo kroz taj dio lanca došlo je do neovlaštenog pristupa podacima o kupnji, dok Ledgerova infrastruktura i wallet sustavi nisu bili kompromitirani.
 
 U ovom slučaju, neovlašteni pristup sustavu treće strane doveo je do curenja dijela **podataka o kupnji**, uključujući informacije koje same po sebi ne omogućuju krađu kripta, ali su iznimno vrijedne za socijalni inženjering.
 
