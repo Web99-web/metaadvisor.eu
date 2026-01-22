@@ -317,7 +317,7 @@ mapping:
 
   # --- Security / spy / haker ---
   security:    [fallback-security.jpg, fallback-security2.jpg]
-  haker:       [fallback-security.jpg, fallback-security2.jpg, EtherHiding-WP-hacker.png]
+  haker:       [fallback-security.jpg, fallback-security2.jpg, EtherHiding-WP-hacker.png, hacker2.png, hacker.png]
   spy:         [fallback-security.jpg, fallback-security2.jpg]
   robot:       [robot.jpg]
   Multisig wallet:       [multisig-wallet-crypto-security.png]
