@@ -11,16 +11,16 @@ image_url: "/images/IPO-100milijardi-dolara.png"
 featured_image: "/images/IPO-100milijardi-dolara.png"
 image: "/images/IPO-100milijardi-dolara.png"
 thumbnail: "/images/IPO-100milijardi-dolara.png"
-image_alt: "Tehnološke kompanije i AI sektor pred povijesnim IPO-ima vrijednim više od 100 milijardi dolara"
+image_alt: "AI i tehnološke kompanije pred povijesnim IPO-ima s valuacijama iznad 100 milijardi dolara"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
-summary: "Godina 2026. mogla bi obilježiti novu eru tehnoloških IPO-a, s AI i tech kompanijama koje ciljaju valuacije veće od 100 milijardi dolara i testiraju granice tržišnog optimizma."
+summary: "Godina 2026. mogla bi postati prekretnica za tržišta kapitala, jer više AI i tehnoloških kompanija razmatra IPO-e s valuacijama većim od 100 milijardi dolara."
 tags: ["ipo", "ai", "umjetna inteligencija", "tehnološke kompanije", "burza", "dionice", "tržišta kapitala", "100 milijardi dolara", "openai", "anthropic", "spacex", "stripe", "nasdaq", "nyse", "tech ipo"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
      style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
-     👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
+     👉 Ostvari Bitget bonus do 6.200 USDT — registriraj se ovdje
   </a>
 </p>
 
@@ -28,41 +28,47 @@ tags: ["ipo", "ai", "umjetna inteligencija", "tehnološke kompanije", "burza", "
 
 # 100+ milijardi dolara: AI i tech kompanije spremaju povijesne IPO-e 2026.
 
-Godina 2026. mogla bi označiti povijesni trenutak za globalna financijska tržišta. Nakon desetljeća u kojem su “unicorni” — startupi vrijedni više od milijardu dolara — bili simbol tehnološkog uspjeha, tržište se sada priprema za sljedeću razinu: tzv. *hektokorne*, kompanije s potencijalnim valuacijama većim od 100 milijardi dolara.
+Godina 2026. mogla bi ući u povijest kao jedan od najvažnijih trenutaka za globalna tržišta kapitala. Nakon razdoblja u kojem su “unicorni” — startupi vrijedni više od milijardu dolara — simbolizirali tehnološki uspjeh, tržište se sada priprema za novu fazu: kompanije koje već u privatnoj fazi ciljaju valuacije veće od 100 milijardi dolara.
 
-U središtu tog trenda nalaze se umjetna inteligencija i ključna digitalna infrastruktura, sektori koji su u posljednjih nekoliko godina privukli goleme količine kapitala, ali i podigli pitanja o održivosti takvog rasta.
+U fokusu su umjetna inteligencija, svemirska tehnologija i digitalna financijska infrastruktura — sektori koji su privukli goleme investicije, ali i otvorili raspravu o održivosti takvih valuacija.
 
-## Od unicorna do hektokorna
+## Konkretni IPO kandidati s valuacijama iznad 100 milijardi dolara
 
-Pojam “hektokorn” sve se češće koristi za opis tehnoloških kompanija koje su već u privatnoj fazi dosegnule razine koje su nekad bile rezervirane isključivo za najveće javno izlistane korporacije. Za razliku od klasičnih IPO-a iz prethodnih ciklusa, potencijalni izlazak ovih kompanija na burzu mogao bi odmah startati s valuacijama koje premašuju 100 milijardi dolara.
+Među kompanijama koje se najčešće spominju kao potencijalni IPO kandidati za 2026. nalaze se **OpenAI**, **Anthropic**, **SpaceX** i **Stripe**. Riječ je o tzv. *hektokornima* — privatnim tvrtkama čije se valuacije procjenjuju na više od 100 milijardi dolara.
 
-Takav scenarij predstavlja veliki test za tržišta kapitala: mogu li investitori dugoročno opravdati cijene koje se temelje više na očekivanjima budućeg rasta nego na trenutačnoj profitabilnosti?
+**OpenAI** je postao sinonim za aktualni AI boom. Nakon globalnog uspjeha generativnih AI modela, tvrtka se pozicionirala kao ključni stup AI ekosustava, uz snažnu podršku strateških investitora i partnera.
 
-## AI kao glavni pokretač valuacija
+**Anthropic** se profilirao kao jedan od najvažnijih konkurenata u razvoju naprednih AI sustava, s posebnim naglaskom na sigurnost, kontrolu i regulatornu usklađenost — teme koje postaju sve važnije institucionalnim ulagačima.
 
-Umjetna inteligencija postala je središnji narativ tehnološkog rasta. Kompanije koje razvijaju napredne AI modele, platforme i infrastrukturu privukle su investicije kakve dosad nisu viđene u tako kratkom vremenskom razdoblju. Njihov potencijal da promijene načine rada, proizvodnje i odlučivanja koristi se kao glavni argument za visoke valuacije.
+**SpaceX**, privatna svemirska kompanija, dominira tržištem komercijalnih lansiranja i satelitske infrastrukture. Eventualni izlazak na burzu imao bi snažan utjecaj ne samo na tehnološki sektor, već i na industriju obrane, telekomunikacija i državnih ugovora.
 
-Međutim, dio analitičara upozorava da se tržište ponovno nalazi u fazi snažnog optimizma, gdje se granica između stvarne inovacije i tržišne euforije sve više zamagljuje.
+**Stripe** se već godinama spominje kao jedan od najočekivanijih fintech IPO-a. Kao ključna infrastruktura globalnog e-commercea i digitalnih plaćanja, Stripe ima izravan utjecaj na način funkcioniranja internetske ekonomije.
 
-## IPO-i u nestabilnom geopolitičkom okruženju
+## Umjetna inteligencija kao glavni motor valuacija
 
-Potencijalni val IPO-a dolazi u trenutku pojačanih geopolitičkih napetosti, trgovinskih sporova i regulatorne neizvjesnosti. Prošle godine pojedini planirani izlasci na burzu već su bili odgođeni zbog političkih blokada i institucionalnih zastoja.
+Zajednička točka ovih kompanija jest snažna izloženost umjetnoj inteligenciji i skalabilnoj digitalnoj infrastrukturi. Investitori sve češće gledaju na AI kao dugoročni pokretač produktivnosti i gospodarskog rasta, čime opravdavaju visoke valuacije još prije izlaska na burzu.
 
-Ipak, unatoč tim rizicima, financijska tržišta su potaknuta snažnim rastom AI sektora dosegnula gotovo rekordne razine. Investitori zasad pokazuju spremnost ignorirati kratkoročne rizike u korist dugoročnih tehnoloških obećanja.
+Ipak, dio analitičara upozorava da se očekivanja tržišta ubrzano udaljavaju od stvarnih financijskih rezultata, što podsjeća na ranije tehnološke cikluse.
 
-## Hoće li 2026. potvrditi ili razbiti AI euforiju?
+## IPO-i u uvjetima geopolitičke i regulatorne neizvjesnosti
 
-Ako se najavljeni IPO-i zaista ostvare, 2026. bi mogla postati prekretnica koja će pokazati je li aktualni AI boom održiv ili se radi o još jednom ciklusu prenapuhanih očekivanja. Uspjeh ili neuspjeh ovih izdanja imat će dalekosežne posljedice ne samo za tehnološki sektor, nego i za percepciju rizika na globalnim tržištima kapitala.
+Potencijalni val IPO-a dolazi u trenutku pojačanih geopolitičkih napetosti, trgovinskih sporova i regulatornog pritiska na velike tehnološke kompanije. U prethodnim godinama više planiranih izlazaka na burzu bilo je odgođeno zbog političkih blokada i institucionalnih zastoja.
+
+Unatoč tome, tržišta ostaju relativno otporna. Tehnološke dionice, potaknute AI narativom, i dalje se kreću blizu povijesnih maksimuma, dok investitori zasad prihvaćaju povećani rizik.
+
+## Hoće li 2026. potvrditi ili razotkriti AI euforiju?
+
+Ako **OpenAI**, **Anthropic**, **SpaceX** ili **Stripe** doista krenu prema burzi, 2026. bi mogla postati godina u kojoj će se odlučiti je li AI boom održiva transformacija gospodarstva ili još jedan ciklus prenapuhanih očekivanja.
 
 ---
 
 ## Naš osvrt (MetaAdvisor):
 
-- Val IPO-a s valuacijama iznad 100 mlrd. USD predstavlja najveći test tržišnog optimizma od dot-com ere.  
-- Umjetna inteligencija je realan tehnološki pomak, ali tržišne cijene sve češće reflektiraju očekivanja, a ne rezultate.  
-- Uspješni IPO-i mogli bi dodatno učvrstiti AI kao temelj budućeg rasta gospodarstva.  
-- Neuspjeh ili snažna korekcija brzo bi promijenili narativ i vratili fokus na profitabilnost.  
+- IPO-i s valuacijama iznad 100 mlrd. USD predstavljaju najveći tržišni stres-test od dot-com ere.  
+- **OpenAI**, **Anthropic**, **SpaceX** i **Stripe** simboliziraju vrhunac aktualnog AI i tech ciklusa.  
+- Dugoročni uspjeh ovisit će o pretvaranju rasta i hypea u stvarnu profitabilnost.  
+- Ozbiljna korekcija brzo bi vratila fokus s vizija na temeljne financijske pokazatelje.  
 
 <p style="font-size:0.85em; color:#777; margin-top:24px;">
-Odricanje od odgovornosti: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski, investicijski niti pravni savjet.
+Odricanje od odgovornosti: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski ili investicijski savjet.
 </p>
