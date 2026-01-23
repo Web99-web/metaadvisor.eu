@@ -37,6 +37,8 @@ Airdrop kampanja temelji se na **aktivnostima korisnika unutar ThorWallet ekosus
 
 Unutar same aplikacije postoji i **leaderboard**, koji prikazuje adrese korisnika i njihove procijenjene nagrade, što dodatno potvrđuje da se radi o kontinuiranom programu, a ne jednokratnoj distribuciji.
 
+Prema informacijama prikazanim u aplikaciji, nagrade iz Airdrop One programa raspodjeljuju se među 300 najbolje rangiranih korisnika na leaderboardu, pri čemu se rangiranje temelji na razini aktivnosti unutar ThorWallet ekosustava.
+
 ## Tko može sudjelovati
 
 Sudjelovanje u kampanji nije ograničeno samo na postojeće korisnike. Prema dostupnim informacijama:
