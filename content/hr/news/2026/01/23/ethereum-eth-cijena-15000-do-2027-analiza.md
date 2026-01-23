@@ -1,7 +1,7 @@
 ---
 title: "Ethereum bi do 2027. mogao dosegnuti 15.000 dolara: zašto analitičari vide dugoročni potencijal"
 slug: "ethereum-eth-cijena-15000-do-2027-analiza"
-date: 2026-01-16T12:00:00
+date: 2026-01-23T12:00:00
 category: "crypto"
 translationKey: "ethereum_price_15000_20270116"
 source: "CoinDesk / tržišne analize"
