@@ -45,7 +45,7 @@ Sudjelovanje u kampanji nije ograničeno samo na postojeće korisnike. Prema dos
 - korisnik mora biti registriran i prihvatiti **Terms & Conditions**
 - nagrade se prikupljaju kroz normalno korištenje aplikacije  
 
-Važno je naglasiti da **nema obveze kupnje**, niti se u dokumentaciji navodi minimalni iznos transakcija za sudjelovanje.
+Iako ne postoji javno objavljen minimalni iznos, leaderboard i struktura nagrada upućuju na to da se pri bodovanju uzima u obzir razina aktivnosti korisnika.
 
 ## Do kada traje kampanja
 
