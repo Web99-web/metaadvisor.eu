@@ -1,6 +1,10 @@
 // MetaAdvisor – manual GA4 page tracking
 (function () {
+
+  window.maTrackingLoaded = true;
+
   if (typeof gtag !== 'function') return;
+
 
   function sendPageView() {
     gtag('event', 'page_view', {
