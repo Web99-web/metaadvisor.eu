@@ -62,12 +62,25 @@ ThorWallet ovu kampanju pozicionira kao dugoročnu aktivnost, a ne marketinški 
 Za korisnike koji ionako planiraju koristiti wallet ili DeFi usluge u nadolazećim mjesecima, ovo može biti dodatni bonus — ali ne i jamstvo bilo kakve zarade.
 
 ## Podrška našem radu (neobavezno)
+<p style="margin-top:20px;">
+Ako vam se sviđa naš dosadašnji rad na MetaAdvisor.eu i želite ga podržati, možete se 
+<strong>neobavezno registrirati</strong> putem našeg referral linka za ThorWallet.
+</p>
 
-Ako vam se sviđa naš dosadašnji rad na MetaAdvisor.eu i želite ga podržati, možete se **neobavezno** registrirati putem našeg referal linka za ThorWallet:
+<p style="text-align:center; margin:18px 0;">
+  <a href="https://referral.thorwallet.org/oYHz/nys7vi8c?deep_link_value=referral&deep_link_sub1=TEO89"
+     target="_blank" rel="nofollow sponsored"
+     style="background:#2563eb; color:#ffffff; padding:12px 22px; border-radius:10px;
+            text-decoration:none; font-weight:600; display:inline-block;">
+     👉 Registracija putem ThorWallet referala
+  </a>
+</p>
 
-👉 https://referral.thorwallet.org/oYHz/nys7vi8c?deep_link_value=referral&deep_link_sub1=TEO89
+<p style="font-size:0.85em; color:#666;">
+Korištenjem referala <strong>ne plaćate ništa više</strong>, a time izravno podržavate naš
+neovisni rad i daljnje analize.
+</p>
 
-Korištenjem referala **ne plaćate ništa više**, a time izravno podržavate naš neovisni rad i daljnje analize.
 
 <p style="font-size:0.85em; color:#777; margin-top:18px;">
 <strong>Odricanje od odgovornosti:</strong> Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski ili investicijski savjet. Sudjelovanje u kripto kampanjama nosi rizik, a korisnici odluke donose na vlastitu odgovornost.
