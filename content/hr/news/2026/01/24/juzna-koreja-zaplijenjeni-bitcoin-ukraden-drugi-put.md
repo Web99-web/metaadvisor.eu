@@ -44,8 +44,8 @@ Slučaj iz Južne Koreje dodatno naglašava koliko je **upravljanje zaplijenjeno
 Iako se radi o tehnološkoj imovini, uzrok problema često nije tehnologija sama po sebi, već **ljudski faktor i proceduralni propusti**.
 
 ## Naš osvrt (MetaAdvisor):
-- **Ovaj slučaj pokazuje da kriptografska sigurnost ne znači ništa bez operativne sigurnosti.**  
-- **Ironija je očita: imovina zaplijenjena kriminalcima ponovno je ukradena dok je bila pod službenim nadzorom.**  
+- Ovaj slučaj pokazuje da kriptografska sigurnost ne znači ništa bez operativne sigurnosti.  
+- Ironija je očita: imovina zaplijenjena kriminalcima ponovno je ukradena dok je bila pod službenim nadzorom. 
 - **Phishing ostaje jedna od najvećih prijetnji — čak i za institucije.**  
 - **Transparentnost reakcije južnokorejskih vlasti zaslužuje priznanje, jer je incident objavljen javno i odmah je pokrenuta istraga — pristup koji mnoge države u sličnim situacijama ne bi odabrale.**
 
