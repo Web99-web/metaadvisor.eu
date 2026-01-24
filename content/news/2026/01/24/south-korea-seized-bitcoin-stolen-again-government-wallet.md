@@ -31,6 +31,13 @@ South Korean authorities have launched an investigation after **a significant am
 
 The Bitcoin had been secured by law enforcement as part of an earlier investigation and stored as seized evidence. During an internal review, officials discovered that the funds were no longer held at the designated address, prompting an immediate inquiry. While full technical details have not yet been disclosed, investigators believe **human error**, likely linked to phishing, enabled unauthorized access.
 
+## 🔎 Different figures reported
+
+According to **CoinDesk**, which cited official information available at the time of publication, approximately **48.5 Bitcoin (BTC)** disappeared from a government-controlled wallet. Based on market prices at the time, the value of the missing funds was estimated at around **$4.3 million**, depending on Bitcoin’s price at the moment of assessment.
+
+At the same time, **some South Korean local media outlets** have reported that the actual amount could be significantly higher. According to these reports, the figure may reach **around 70 billion South Korean won**, equivalent to approximately **$47–48 million** in Bitcoin. These numbers have **not yet been officially confirmed**, as prosecutors have declined to release final figures while the investigation remains ongoing.
+
+
 ## Phishing, Not a Sophisticated Hack
 
 Unlike attacks attributed to highly organized hacking groups, available information suggests this incident involved a **classic phishing scenario**. Such attacks target people rather than systems, using deceptive messages or fake interfaces to extract credentials or private keys.
