@@ -1,7 +1,7 @@
 ---
 title: "Američka banka Capital One za 5,15 milijardi dolara kupuje Brex i ulazi u kripto-plaćanja"
 slug: "americka-banka-capital-one-kupuje-brex-kripto-placanja"
-date: 2026-01-24T04:12:35Z
+date: 2026-01-24T12:30:00
 category: "news"
 translationKey: "b136992019a6592c5581525c6e3f6dc2"
 source: "Cointelegraph"
