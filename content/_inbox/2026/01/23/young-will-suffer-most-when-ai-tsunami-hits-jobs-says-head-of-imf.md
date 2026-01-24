@@ -5,7 +5,7 @@ category: "ai"
 translationKey: "155bdfe493b557019575c4a6f6c6ec63"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos"
-image_url: "https://i.guim.co.uk/img/media/922dd571d33fd13e48035dfd7b8045f9b8660dec/67_0_5227_4181/master/5227.jpg?width=465&dpr=1&s=none&crop=none"
+image_url: "https://i.guim.co.uk/img/media/f58804b1cea63ffe33064d3843ef59953f94f456/716_303_4196_3357/master/4196.jpg?width=465&dpr=1&s=none&crop=none"
 tags: ["ai"]
 _build:
   publishResources: false
