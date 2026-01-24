@@ -1,16 +1,5 @@
 {{ if not .Site.IsServer }}
 
-<!-- Google Analytics GA4 – LOAD ONLY (no init, no page_view) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KL111KNH3S"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-
-  // Default: analytics blocked until consent
-  gtag('consent', 'default', {
-    analytics_storage: 'denied'
-  });
-</script>
 
 <!-- Cloudflare Web Analytics -->
 <script defer
