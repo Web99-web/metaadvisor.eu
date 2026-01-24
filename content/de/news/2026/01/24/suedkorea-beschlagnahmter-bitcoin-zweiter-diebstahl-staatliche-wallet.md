@@ -31,6 +31,13 @@ Die südkoreanischen Behörden haben eine Untersuchung eingeleitet, nachdem **ei
 
 Der betroffene Bitcoin war zuvor von Strafverfolgungsbehörden sichergestellt und als Beweismittel aufbewahrt worden. Bei einer internen Überprüfung wurde festgestellt, dass sich die Coins nicht mehr auf der offiziellen Adresse befanden, woraufhin umgehend Ermittlungen aufgenommen wurden. Technische Details wurden bislang nicht vollständig offengelegt, doch es wird vermutet, dass **menschliches Versagen** – etwa das Hereinfallen auf eine Phishing-Nachricht – den Zugriff ermöglicht hat.
 
+## 🔎 Unterschiedliche Angaben in den Berichten
+
+Laut **CoinDesk**, der sich auf zum Zeitpunkt der Veröffentlichung verfügbare offizielle Informationen stützt, verschwanden aus einer staatlich kontrollierten Wallet rund **48,5 Bitcoin (BTC)**. Der Marktwert dieses Betrags lag zu diesem Zeitpunkt — abhängig vom jeweiligen Bitcoin-Preis — bei etwa **4,3 Millionen US-Dollar**.
+
+Gleichzeitig berichten **einige südkoreanische lokale Medien**, dass der tatsächliche Betrag deutlich höher liegen könnte. Ihren Angaben zufolge handelt es sich um rund **70 Milliarden südkoreanische Won**, was etwa **47–48 Millionen US-Dollar** in Bitcoin entspricht. Diese Zahlen wurden bislang **nicht offiziell bestätigt**, da die Staatsanwaltschaft aufgrund der laufenden Ermittlungen keine endgültigen Beträge veröffentlicht hat.
+
+
 ## Phishing statt hochkomplexem Hack
 
 Anders als bei Angriffen durch hochorganisierte Hackergruppen deuten die verfügbaren Informationen auf einen **klassischen Phishing-Vorfall** hin. Solche Angriffe zielen weniger auf technische Schwachstellen als auf Menschen ab – durch gefälschte Websites oder Nachrichten, um Zugangsdaten oder private Schlüssel zu erlangen.
