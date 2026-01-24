@@ -1,10 +1,9 @@
-// MetaAdvisor – manual GA4 page tracking
+// MetaAdvisor – manual GA4 page tracking (geo-safe)
 (function () {
 
   window.maTrackingLoaded = true;
 
   if (typeof gtag !== 'function') return;
-
 
   function sendPageView() {
     gtag('event', 'page_view', {
@@ -14,9 +13,31 @@
     });
   }
 
-  // initial
-  sendPageView();
+  // --- DELAYED initial page_view (CRITICAL FOR GEO) ---
+  let initialSent = false;
 
+  function sendInitialPageView() {
+    if (initialSent) return;
+    initialSent = true;
+    sendPageView();
+  }
+
+  // wait for page to be visible + small delay
+  function geoSafeInit() {
+    if (document.visibilityState === 'visible') {
+      setTimeout(sendInitialPageView, 1200);
+    } else {
+      document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'visible') {
+          setTimeout(sendInitialPageView, 1200);
+        }
+      }, { once: true });
+    }
+  }
+
+  geoSafeInit();
+
+  // --- SPA navigation tracking ---
   let lastPath = location.pathname;
 
   const observer = new MutationObserver(() => {
@@ -31,7 +52,7 @@
     subtree: true
   });
 
-    // --- simple scroll tracking (once per page) ---
+  // --- simple scroll tracking (once per page) ---
   let scrollSent = false;
 
   window.addEventListener('scroll', () => {
@@ -40,7 +61,7 @@
     const scrolled =
       (window.scrollY + window.innerHeight) / document.documentElement.scrollHeight;
 
-    if (scrolled > 0.5) { // 50% scroll
+    if (scrolled > 0.5) {
       scrollSent = true;
 
       gtag('event', 'scroll_50', {
