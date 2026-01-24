@@ -31,6 +31,13 @@ Južnokorejske vlasti pokrenule su istragu nakon što je **značajna količina B
 
 Bitcoin je bio zaplijenjen u ranijem kaznenom predmetu i čuvan kao dokaz. Tijekom interne provjere utvrđeno je da sredstva više nisu na adresi pod kontrolom države, nakon čega je odmah pokrenuta službena istraga. Iako vlasti zasad ne iznose precizne tehničke detalje, sumnja se da je kompromitacija nastala **ljudskom pogreškom**, odnosno nasjedanjem na phishing sadržaj koji je omogućio neovlašteni pristup novčaniku.
 
+## 🔎 Različiti iznosi u izvještajima
+
+Prema **CoinDesku**, koji se poziva na službene informacije dostupne u trenutku objave, iz državnog novčanika nestalo je oko **48,5 Bitcoina (BTC)**, čija se tržišna vrijednost u tom razdoblju kretala oko **4,3 milijuna američkih dolara**, ovisno o cijeni Bitcoina u trenutku procjene.
+
+Istodobno, **neki južnokorejski lokalni mediji** navode da bi stvarni iznos mogao biti znatno veći — prema tim izvještajima riječ je o **otprilike 70 milijardi južnokorejskih wona**, odnosno **oko 47–48 milijuna američkih dolara** u Bitcoinu. Te brojke zasad **nisu službeno potvrđene**, a tužiteljstvo nije objavilo konačne podatke, navodeći da je istraga još u tijeku.
+
+
 ## Phishing umjesto sofisticiranog napada
 
 Za razliku od scenarija koji uključuju napredne hakerske skupine ili tehnički složene napade, dostupne informacije sugeriraju da se radilo o **klasičnom phishingu**. Takvi napadi ciljaju ljude, a ne sustave — lažnim stranicama ili porukama pokušavaju izvući pristupne podatke ili privatne ključeve.
