@@ -1,17 +1,17 @@
 ---
 title: "Je li 'Big Short' 10.10 bio neprijateljsko preuzimanje banaka i institucija koje žele preuzeti Bitcoin?"
 slug: "tko-je-napao-bitcoin-10-10-banke-neprijateljsko-preuzimanje-bitcoina"
-date: 2025-11-24T12:00:00Z
+date: 2025-11-25T12:00:00Z
 category: "crypto"
 translationKey: "attack_1010_btc_banks_20251124"
 source: "MetaAdvisor – analiza + izjave s društvenih mreža (Ran, Hayes, Dixon)"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/BTC-10.10-who-attacked.png"
-featured_image: "/images/BTC-10.10-who-attacked.png"
-image: "/images/BTC-10.10-who-attacked.png"
-thumbnail: "/images/BTC-10.10-who-attacked.png"
+image_url: "/images/BTC-10.10-banks-attack.png"
+featured_image: "/images/BTC-10.10-banks-attack.png"
+image: "/images/BTC-10.10-banks-attack.png"
+thumbnail: "/images/BTC-10.10-banks-attack.png"
 image_alt: "Tko je napao Bitcoin 10.10 — ilustracija"
 image_credit: "MetaAdvisor.eu"
 tags: [
