@@ -1,7 +1,7 @@
 ---
 title: "US-Kryptobörse Coinbase ermöglicht Kredite bis zu 1 Million USD mit gestaktem Ethereum – ohne ETH zu verkaufen"
 slug: "coinbase-kredit-staking-ethereum-ohne-verkauf"
-date: 2026-01-24T12:30:00
+date: 2026-01-25T06:30:00
 category: "crypto"
 translationKey: "coinbase_staked_eth_loans_20260124"
 source: "CoinDesk"
