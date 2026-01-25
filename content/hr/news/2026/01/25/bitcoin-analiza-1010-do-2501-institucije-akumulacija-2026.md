@@ -95,13 +95,16 @@ Ovo nije samo tržišni trend — ovo je **promjena vlasničke strukture Bitcoin
 
 ## 🔥 4. 10.10 nije zaboravljen: sve više analitičara smatra da je bio uvod u preuzimanje
 
-Na dan pada, poznati analitičari — **Ran Neuner, Simon Dixon i Arthur Hayes** — rekli su jasno:
+U analizi objavljenoj prije dva mjeseca — 
+**<a href="https://metaadvisor.eu/hr/news/tko-je-napao-bitcoin-10-10-banke-neprijateljsko-preuzimanje-bitcoina/" style="text-decoration:none; color:inherit;">Je li 'Big Short' 10.10 bio neprijateljsko preuzimanje banaka i institucija koje žele preuzeti Bitcoin?</a>** —  
+poznati analitičari **Ran Neuner, Simon Dixon i Arthur Hayes** iznijeli su jasna upozorenja:
 
 - **“Pad nije bio slučajan.”**  
 - **“MSTR je postao sistemski rizik.”**  
 - **“Kad se sustav osjeti ugroženim — uzvraća udar.”**
 
-S današnjeg pogleda, njihove riječi zvuče još uvjerljivije.
+S današnjeg vremenskog odmaka njihove izjave zvuče još uvjerljivije.
+
 
 Bitcoin je nakon 10.10. ušao u fazu koju možemo nazvati:
 
