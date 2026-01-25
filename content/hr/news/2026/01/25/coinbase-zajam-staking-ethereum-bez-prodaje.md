@@ -1,7 +1,7 @@
 ---
 title: "Američki Coinbase omogućuje zajmove do 1 milijun USD uz stakirani Ethereum — bez prodaje ETH-a"
 slug: "coinbase-zajam-staking-ethereum-bez-prodaje"
-date: 2026-01-24T12:30:00
+date: 2026-01-25T06:30:00
 category: "crypto"
 translationKey: "coinbase_staked_eth_loans_20260124"
 source: "CoinDesk"
