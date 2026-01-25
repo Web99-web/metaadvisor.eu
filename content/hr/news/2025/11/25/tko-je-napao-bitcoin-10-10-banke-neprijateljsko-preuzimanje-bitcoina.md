@@ -81,7 +81,7 @@ Prema Neuneru, opcije su bile jasne:
 
 ---
 
-## 🔥 4. Arthur Hayes: “When the system feels threatened, it attacks.”
+## 🔥 4. Arthur Hayes: "Kad se sustav osjeti ugroženim, on uzvraća udar."
 
 Hayes je bio najdirektniji. Prema njemu, 10.10 je izgledao kao:
 
