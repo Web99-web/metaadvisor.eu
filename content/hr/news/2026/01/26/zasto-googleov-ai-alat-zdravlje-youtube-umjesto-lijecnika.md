@@ -14,7 +14,7 @@ thumbnail: "/images/Google-AI-overviews.png"
 image_alt: "Ilustracija Google pretraživanja i informacija koje generira umjetna inteligencija"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Novo istraživanje pokazuje da Googleovi AI Overviews kod zdravstvenih upita češće citiraju YouTube nego medicinske institucije. Stručnjaci upozoravaju da takva praksa može stvoriti lažan osjećaj sigurnosti i povećati rizik od širenja netočnih zdravstvenih informacija."
-tags: ["google", "ai", "umjetna inteligencija", "zdravlje", "youtube", "pretraživanje", "ai overviews", "medicinske informacije", "tehnologija", "digitalno zdravlje"]
+tags: ["google", "ai", "umjetna inteligencija", "zdravlje", "youtube", "pretraživanje", "njemacka", "ai overviews", "medicinske informacije", "tehnologija", "digitalno zdravlje"]
 ---
 
 <p style="font-size:0.85em; color:#666;">
