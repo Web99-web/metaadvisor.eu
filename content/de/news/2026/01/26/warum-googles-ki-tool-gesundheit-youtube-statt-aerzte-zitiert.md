@@ -14,7 +14,7 @@ thumbnail: "/images/Google-AI-overviews.png"
 image_alt: "Illustration der Google-Suche mit KI-generierten Informationen"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Eine neue Studie zeigt, dass Googles KI-Tool bei Gesundheitsfragen häufiger YouTube als medizinische Institutionen zitiert. Experten warnen, dass dies ein falsches Sicherheitsgefühl erzeugen und die Verbreitung unzuverlässiger Gesundheitsinformationen fördern kann."
-tags: ["google", "ki", "künstliche intelligenz", "gesundheit", "youtube", "suche", "ki-tools", "medizinische informationen", "technologie", "digital health"]
+tags: ["google", "ki", "künstliche intelligenz", "gesundheit", "youtube", "suche", "deutchland", "ki-tools", "medizinische informationen", "technologie", "digital health"]
 ---
 
 <p style="font-size:0.85em; color:#666;">
