@@ -14,7 +14,7 @@ thumbnail: "/images/Google-AI-overviews.png"
 image_alt: "Illustration of Google search results with AI-generated information"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "A new study shows that Google’s AI tool cites YouTube more often than medical institutions when answering health-related queries. Experts warn this may create a false sense of authority and increase the risk of health misinformation."
-tags: ["google", "ai", "artificial intelligence", "health", "youtube", "search", "ai tools", "medical information", "technology", "digital health"]
+tags: ["google", "ai", "artificial intelligence", "germany", "health", "youtube", "search", "ai tools", "medical information", "technology", "digital health"]
 ---
 
 <p style="font-size:0.85em; color:#666;">
