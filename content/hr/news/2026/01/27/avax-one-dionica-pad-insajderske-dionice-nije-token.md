@@ -15,6 +15,7 @@ image_alt: "Pad dionice AVAX One – simbolična ilustracija tržišnog pada"
 image_credit: "MetaAdvisor / ilustracija"
 tags: ["avax", "avax one", "dionice", "kripto", "insajderi", "razrjeđenje", "sec", "burza", "investitori", "volatilnost"]
 summary: "Dionica AVAX Onea pala je više od 30% nakon registracije insajderskih dionica za moguću prodaju. Pad nema veze s AVAX tokenom, već s tržišnim strahom od razrjeđenja i gubitka povjerenja."
+---
 
 <p style="font-size:0.85em; color:#777;">
 Slika je simbolična.
