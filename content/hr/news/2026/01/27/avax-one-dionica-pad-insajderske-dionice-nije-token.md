@@ -1,3 +1,4 @@
+---
 title: "Zašto je dionica AVAX Onea pala više od 30% — i zašto to nema veze s AVAX tokenom"
 slug: "avax-one-dionica-pad-insajderske-dionice-nije-token"
 date: 2026-01-27T12:30:00
