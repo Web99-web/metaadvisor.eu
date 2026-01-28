@@ -50,6 +50,12 @@ Slika je simbolična.
 
 # Bitcoin u zoni odluke: 24–72 sata koja mogu promijeniti tržište
 
+**Bitcoin (BTC) se nalazi u jednoj od onih faza koje su naizgled dosadne, ali povijesno često presudne.** Cijena se danima kreće gotovo **horizontalno**, bez jasnog proboja prema gore ili dolje, dok tržište ulazi u kritični vremenski okvir od 24 do 72 sata u kojem se obično donosi odluka o sljedećem većem smjeru.
+
+Ovakva bočna kretanja (tzv. sideways) često se pojavljuju neposredno prije snažnih pomaka – bilo prema gore, bilo prema dolje – jer u njima dolazi do ravnoteže između kupaca i prodavača. Upravo ta ravnoteža rijetko traje dugo.
+
+Trenutno se BTC nalazi oko 89.000 USD, uz smanjeni volumen i vidljivu neodlučnost tržišta. Drugim riječima: Bitcoin stoji, ali pritisak raste.
+
 BTC. ETH. SOL. ADA. XRP. LINK.  
 Velika imena kripto tržišta trenutačno se kreću gotovo sinkronizirano — lijevo, desno, bez jasnog smjera. Upravo zato ovo razdoblje zaslužuje pažnju.
 
