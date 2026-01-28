@@ -1,5 +1,3 @@
-content/de/news/2026-01-28-goldpreis-5300-rekord.md
-
 ---
 title: "Gold durchbricht 5.300 USD: historischer Rekord und ein klares Misstrauenssignal"
 slug: "goldpreis-5300-historischer-rekord"
