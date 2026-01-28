@@ -1,5 +1,3 @@
-content/en/news/2026-01-28-gold-price-5300-record.md
-
 ---
 title: "Gold Breaks $5,300: A Historic Record and a Clear Signal of Systemic Distrust"
 slug: "gold-price-5300-historic-record"
