@@ -65,11 +65,12 @@ Posebno je znakovito da se ovaj sporazum događa u trenutku pojačanih geopoliti
 
 ## Naš osvrt (MetaAdvisor):
 
-- Ovo je jedan od najvažnijih trgovinskih dogovora posljednjih godina  
-- Ukidanje carina koje su dosezale 110% ima stvaran, mjerljiv učinak na cijene i konkurentnost  
-- Sporazum pokazuje da globalna trgovina ne mora biti taoc političkih prijetnji  
-- Dugoročno bi mogao poslužiti kao model za druge velike bilateralne dogovore  
-- Tržišta često reagiraju glasno na prijetnje, ali prave promjene događaju se tiho
+- Ovo je jedan od **najvažnijih trgovinskih dogovora posljednjih godina**, s dugoročnim utjecajem na globalnu trgovinu  
+- Ukidanje carina koje su dosezale i do 110% ima **izravan i mjerljiv učinak** na cijene, konkurentnost i tržišni pristup  
+- Iako je dogovor bio snažno medijski popraćen, **njegov stvarni ekonomski značaj lako se izgubi u političkom narativu**  
+- Sporazum pokazuje da, unatoč rastućem protekcionizmu, **modeli suradnje i liberalizacije i dalje imaju težinu**  
+- Dugoročno bi mogao postati **referentna točka za buduće velike bilateralne trgovinske sporazume**
+
 
 <p style="font-size:0.85em; color:#666;">
 Odricanje od odgovornosti: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski, investicijski ili trgovinski savjet.
