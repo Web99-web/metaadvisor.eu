@@ -13,7 +13,7 @@ image: "/images/EU-India-tariffs.png"
 thumbnail: "/images/EU-India-tariffs.png"
 image_alt: "Flags of the European Union and India – historic trade agreement"
 image_credit: "MetaAdvisor.eu"
-tags: ["eu-india", "trade-agreement", "tariff-reduction", "global-trade", "automotive-industry", "german-automakers", "french-industry", "ursula-von-der-leyen", "berlin", "stuttgart", "wolfsburg", "paris", "protectionism"]
+tags: ["eu-india", "eu", "india", "trade-agreement", "tariff-reduction", "global-trade", "automotive-industry", "german-automakers", "french-industry", "ursula-von-der-leyen", "berlin", "stuttgart", "wolfsburg", "paris", "protectionism"]
 summary: "The European Union and India have reached a historic trade agreement eliminating or sharply reducing tariffs that had reached up to 110%, after nearly two decades of negotiations."
 ---
 
