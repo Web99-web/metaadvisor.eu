@@ -1,5 +1,3 @@
-content/hr/news/2026-01-28-cijena-zlata-5300-rekord.md
-
 ---
 title: "Zlato probilo 5.300 USD: povijesni rekord i signal dubokog nepovjerenja u sustav"
 slug: "cijena-zlata-5300-povijesni-rekord"
