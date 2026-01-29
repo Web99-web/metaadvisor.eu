@@ -1,7 +1,7 @@
 ---
 title: "HYPE iskače iz mase: zašto Hyperliquid bilježi snažan rast dok tržište stoji"
 slug: "hype-hyperliquid-snazni-rast-trziste-stoji"
-date: 2026-01-28T23:30:00
+date: 2026-01-29T06:30:00
 category: "crypto"
 translationKey: "hype_hyperliquid_rast_20260128"
 source: "MetaAdvisor analiza / tržišni pregled"
