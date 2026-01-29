@@ -64,7 +64,7 @@
     if (scrolled > 0.5) {
       scrollSent = true;
 
-      gtag('event', 'scroll_50', {
+      gtag('event', 'scroll_10', {
         event_category: 'engagement',
         event_label: location.pathname
       });
