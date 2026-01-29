@@ -61,10 +61,10 @@
     const scrolled =
       (window.scrollY + window.innerHeight) / document.documentElement.scrollHeight;
 
-    if (scrolled > 0.5) {
+    if (scrolled > 0.05) {
       scrollSent = true;
 
-      gtag('event', 'scroll_10', {
+      gtag('event', 'scroll_05', {
         event_category: 'engagement',
         event_label: location.pathname
       });
