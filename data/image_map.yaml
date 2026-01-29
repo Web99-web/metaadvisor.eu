@@ -31,7 +31,7 @@ mapping:
   
   
   # --- SOL/ DOT / LINK / itd. (primjeri) ---
-  gold: [gold.png]
+  gold: [gold.png, gold-down.png]
   solana:   [solana.jpg, solana1.jpg, solana-sol.png, percolator.png]
   polkadot: [polkadot-dot.png, DOT-ADA.png]
   chainlink: [chainlink-link.png]
