@@ -1,6 +1,6 @@
 ---
-title: "HYPE iskače iz mase: zašto Hyperliquid bilježi snažan rast dok tržište stoji"
-slug: "hype-hyperliquid-snazni-rast-trziste-stoji"
+title: "HYPE eksplodira +30% u 24 sata: zašto je Hyperliquid probudio tržište"
+slug: "hype-eksplodira-30-posto-24-sata-hyperliquid"
 date: 2026-01-29T06:30:00
 category: "crypto"
 translationKey: "hype_hyperliquid_rast_20260128"
