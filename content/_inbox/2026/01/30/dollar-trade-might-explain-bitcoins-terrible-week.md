@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin’s BTC $ 82,746.90 sell-off late this week might have had little to do with crypto-specific factors and instead everything to do with the U.S. dollar.
+Bitcoin’s BTC $ 84,051.66 sell-off late this week might have had little to do with crypto-specific factors and instead everything to do with the U.S. dollar.
 
 After what’s now becoming a customary weekend decline in crypto prices, bitcoin was actually on the rise through the week, in part as the decline in the U.S. dollar accelerated.
 
