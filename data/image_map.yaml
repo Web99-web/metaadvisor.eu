@@ -258,6 +258,9 @@ mapping:
   Crypto cards: [crypto-cards.png, crypto-cards1.png]
   Ledger: [Ledger.png]
   Robinhood: [Robinhood.png]
+  OKX: [okx-card-eu.png]
+  
+
   
   # --- phones / mobilephones / mobiles / Android ---
   smartphone: [mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-down.jpg, mobile-phone-man.jpg, mobile-phone-neutral.jpg, mobile-phone-ruke.jpg]
