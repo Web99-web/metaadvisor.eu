@@ -46,7 +46,9 @@ Riječ je o još jednom primjeru kako se umjetna inteligencija sve snažnije pom
 
 ## Što je AlphaGenome i kako radi?
 
-Ljudski genom sastoji se od oko **3 milijarde parova baza** (A, T, C i G). Samo oko **2% DNK izravno kodira proteine**, dok ostatak ima regulatornu ulogu — odlučuje *kada*, *gdje* i *koliko* se neki gen aktivira.
+Znanstvenici već dugo znaju da se većina nasljednih bolesti — od srčanih i autoimunih poremećaja do mentalnih bolesti i mnogih vrsta raka — ne može objasniti samo mutacijama u protein-kodirajućim genima. 
+
+Ljudski genom sastoji se od oko **3 milijarde parova baza** (A, T, C i G). Samo oko **2% DNK izravno kodira proteine**. Preostalih 98% DNA dugo je smatrano “tamnom materijom biologije”: ne proizvodi proteine, ali sadrži ključne upute koje reguliraju aktivnost gena.
 
 Upravo je taj „tihi“ dio genoma godinama predstavljao najveći izazov za znanost.
 
