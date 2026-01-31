@@ -80,7 +80,7 @@ U takvom okruženju, **smjer tržišta postaje sekundaran** — i long i short p
 ## Naš osvrt (Metaadvisor):
 
 - Optužbe protiv Binancea zasad nemaju javno potvrđene regulatorne temelje.
-- CZ-ova izjava je defenzivna, ali konzistentna s mehanikom tržišta derivata.
+- CZ-ova izjava je očekivana u kontekstu optužbi te je u skladu s poznatom mehanikom tržišta kripto derivata.
 - Likvidacije su posljedica strukture tržišta, a ne nužno svjesne manipulacije.
 - Veliki igrači uvijek postaju meta u kriznim trenucima, bez obzira na stvarni uzrok.
 - Događaj od 10.10. još jednom potvrđuje koliko je leverage opasan u uvjetima stresa.
