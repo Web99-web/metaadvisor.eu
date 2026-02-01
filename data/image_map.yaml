@@ -453,8 +453,9 @@ mapping:
 
 
   # --- Gold / Silver / other ---
-  silver: [silver.png]
-
+  gold: [gold.png, gold-down.png, gold-silver.png]
+  silver: [silver.png, gold-silver.png]
+  
   # --- Forum / Fair / other ---
   Money Fair Berlin: [world-money-fair-berlin-2026.png]
   
