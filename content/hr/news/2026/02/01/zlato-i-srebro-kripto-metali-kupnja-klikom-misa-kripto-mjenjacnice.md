@@ -40,7 +40,12 @@ Slika je simbolična.
 
 # Kripto metali: zlato i srebro više nisu spora tržišta — 24/7 trgovanje donosi snažne pomake cijene u oba smjera
 
-Zlato i srebro desetljećima su se smatrali sporim, stabilnim i “dosadnim” tržištima. Kupnja je bila komplicirana, prodaja još teža, a cijene su se kretale postupno. Takva dinamika stvarala je osjećaj sigurnosti, ali i ograničavala sudjelovanje na vrlo uzak krug ljudi.
+<p style="font-size:1.05em; font-weight:600;">
+O ovoj promjeni se gotovo ne govori — iako upravo ona objašnjava zašto se zlato i srebro danas ponašaju potpuno drugačije nego prije, s naglim skokovima i još bržim padovima.
+</p>
+
+Zlato i srebro desetljećima su se smatrali sporim, stabilnim i “dosadnim” tržištima. Kupnja je bila komplicirana, prodaja još teža, a cijene su se kretale sporo i predvidivo.
+ Takva dinamika stvarala je osjećaj sigurnosti, ali i ograničavala sudjelovanje na vrlo uzak krug ljudi.
 
 Ta era je završila.
 
@@ -121,7 +126,8 @@ To je cijena masovne dostupnosti i stalnog trgovanja.
 - Masovno sudjelovanje dramatično mijenja dinamiku cijena  
 - Zlato i srebro danas reagiraju brže nego ikad prije  
 - Rast može biti snažan, ali padovi dolaze još brže  
-- Razumijevanje strukture tržišta postaje važnije od samog “sigurnog” imena imovine  
+- **Ova strukturna promjena tržišta zasad je slabo obrađena, iako objašnjava velik dio današnje volatilnosti zlata i srebra**
+
 
 <p style="font-size:0.8em; color:#666;">
 Odricanje od odgovornosti: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski ili investicijski savjet. Tržišta kriptovaluta i tokenizirane imovine podložna su visokoj volatilnosti.
