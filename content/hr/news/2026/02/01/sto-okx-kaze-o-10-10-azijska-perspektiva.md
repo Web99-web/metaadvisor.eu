@@ -43,6 +43,16 @@ U posljednjih nekoliko dana kripto burza **OKX** pojavljuje se u više neovisnih
 
 Ovaj diskretni povratak u fokus otvara pitanje: **koliki je stvarni utjecaj OKX-a na globalno kripto tržište?**
 
+## OKX i pad tržišta 10.10.: što kaže Star Xu
+
+Osnivač i izvršni direktor kripto burze **OKX, Star Xu**, javno je komentirao tržišni slom od **10. listopada (10.10.)**, ističući da se nije radilo o slučajnom padu niti o jedinstvenom šoku, već o **strukturnom problemu tržišta**, posebno u segmentu derivata.
+
+Prema Xuu, ključni uzrok bila je **nekontrolirana upotreba poluge (leverage)** i složenih strategija koje su mnogi sudionici koristili bez potpunog razumijevanja rizika. Posebno je upozorio na tzv. **leverage loopove**, gdje se tokeni koji nose prinos koriste kao kolateral za dodatno zaduživanje, čime se umjetno povećava izloženost tržištu.
+
+Xu je naglasio da je tijekom 10.10. došlo do **lančane reakcije likvidacija**, jer su mali pomaci cijene u uvjetima visoke poluge brzo prerasli u masovna zatvaranja pozicija. U takvom okruženju, pad cijene nije bio uzrokovan jednim događajem, već **akumuliranim rizikom koji se dugo gradio u sustavu**.
+
+Prema njegovim riječima, taj dan je jasno pokazao kako tržište funkcionira kada se **rizik pogrešno percipira kao stabilnost**, a kratkoročni prinosi zamijene osnovna pravila upravljanja rizikom.
+
 ## Gdje je OKX zapravo jaka?
 
 OKX je burza s izrazito snažnom bazom korisnika u:
