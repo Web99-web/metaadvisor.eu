@@ -1,6 +1,6 @@
 ---
-title: "Zedcex i Zedxion pod sankcijama: SAD prvi put cilja cijele kripto burze"
-slug: "zedcex-zedxion-sankcije-sad-prvi-put-kripto-burze"
+title: "Zedcex i Zedxion, kripto burze registrirane u UK-u, pod sankcijama SAD-a"
+slug: "zedcex-zedxion-uk-kripto-burze-americke-sankcije"
 date: 2026-02-01T06:30:00
 category: "crypto"
 translationKey: "zedcex-zedxion-us-sanctions-exchanges-2026"
