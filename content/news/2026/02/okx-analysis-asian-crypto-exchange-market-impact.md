@@ -43,6 +43,16 @@ Over the past few days, the crypto exchange **OKX** has appeared in multiple ind
 
 This quiet return to attention raises an important question: **how significant is OKX’s real influence on the global crypto market?**
 
+## OKX and the October 10 market crash: Star Xu’s view
+
+**Star Xu**, founder and CEO of crypto exchange **OKX**, publicly addressed the **October 10 (10.10.) market crash**, stating that it was neither accidental nor the result of a single shock, but rather a structural issue within the market, particularly in derivatives trading.
+
+According to Xu, the primary cause was the **excessive use of leverage** combined with complex trading strategies that many participants did not fully understand. He specifically warned about **leverage loops**, where yield-bearing tokens are used as collateral to borrow more assets, artificially increasing market exposure.
+
+Xu explained that on October 10, the market experienced a **cascade of liquidations**, as even small price movements under high leverage triggered widespread forced position closures. The resulting price drop was therefore not driven by one event, but by **accumulated risk that had been building over time**.
+
+In his view, the day clearly illustrated what happens when **risk is mistaken for stability**, and short-term yield replaces fundamental risk management principles.
+
 ## Where is OKX strongest?
 
 OKX has a particularly strong user base in:
