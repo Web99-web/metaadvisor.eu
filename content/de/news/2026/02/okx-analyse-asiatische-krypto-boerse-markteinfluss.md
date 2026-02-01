@@ -43,6 +43,16 @@ In den letzten Tagen taucht die Kryptobörse **OKX** in mehreren unabhängigen M
 
 Diese diskrete Rückkehr in den Fokus wirft eine zentrale Frage auf: **Wie groß ist der tatsächliche Einfluss von OKX auf den globalen Kryptomarkt?**
 
+## OKX und der Markteinbruch vom 10.10.: Was Star Xu sagt
+
+Der Gründer und CEO der Kryptobörse **OKX, Star Xu**, äußerte sich öffentlich zum Marktcrash vom **10. Oktober (10.10.)** und betonte, dass es sich weder um einen Zufall noch um einen einmaligen Schock handelte, sondern um ein **strukturelles Marktproblem**, insbesondere im Derivatehandel.
+
+Laut Xu war die Hauptursache der **exzessive Einsatz von Hebelwirkung (Leverage)** sowie komplexe Handelsstrukturen, die von vielen Marktteilnehmern genutzt wurden, ohne die damit verbundenen Risiken vollständig zu verstehen. Besonders kritisch seien sogenannte **Leverage-Loops**, bei denen renditetragende Token als Sicherheit für weitere Kredite genutzt werden, wodurch sich das Marktrisiko künstlich erhöht.
+
+Xu erklärte, dass es am 10.10. zu einer **Kettenreaktion von Liquidationen** kam, da selbst geringe Kursbewegungen unter hoher Hebelwirkung zu massenhaften Positionsschließungen führten. Der Preisverfall sei daher nicht durch ein einzelnes Ereignis ausgelöst worden, sondern durch **lange angesammelte Risiken im System**.
+
+Seiner Einschätzung nach zeigte dieser Tag deutlich, was passiert, wenn **Risiken als Stabilität missverstanden werden** und kurzfristige Erträge grundlegende Prinzipien des Risikomanagements verdrängen.
+
 ## Wo ist OKX besonders stark?
 
 OKX verfügt über eine sehr starke Nutzerbasis in:
