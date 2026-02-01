@@ -3,27 +3,27 @@ title: "Može li Meta čitati šifrirane WhatsApp poruke? Američke vlasti istra
 slug: "meta-whatsapp-sifriranje-istraga-moze-li-citati-poruke"
 date: 2026-02-01T06:30:00
 category: "ai"
-translationKey: "meta-whatsapp-encryption-investigation-2026"
+translationKey: "0db43dd4ffe2e1ad1f05d6e2ab9ac697"
 source: "The Guardian"
 source_url: "https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages"
 author: "The Guardian"
-analysis_by: "Metaadvisor.eu"
-image_url: "/images/private-messages1.png"
-featured_image: "/images/private-messages1.png"
-image: "/images/private-messages1.png"
-thumbnail: "/images/private-messages1.png"
-image_alt: "Meta i WhatsApp u kontekstu istrage o enkripciji privatnih poruka"
+analysis_by: "MetaAdvisor.eu"
+image_url: "/images/private-messages.png"
+featured_image: "/images/private-messages.png"
+image: "/images/private-messages.png"
+thumbnail: "/images/private-messages.png"
+image_alt: "Privatne poruke i pitanje sigurnosti end-to-end enkripcije"
 image_credit: "MetaAdvisor.eu"
 tags:
   - whatsapp
   - meta
-  - enkripcija
   - privatnost
+  - enkripcija
+  - sigurnost
+  - pegasus
+  - nsa
   - nadzor
-  - kiberneticka-sigurnost
-  - ai
-  - regulacija
-summary: "Američke vlasti istražuju tvrdnje iz tužbe prema kojima Meta može pristupiti šifriranim WhatsApp porukama. Meta optužbe naziva apsurdnima, no slučaj otvara ozbiljna pitanja o privatnosti i povjerenju u digitalnu komunikaciju."
+summary: "Američke vlasti istražuju ozbiljne tvrdnje da Meta može pristupiti navodno šifriranim WhatsApp porukama, nakon tužbe temeljene na iskazima zviždača iz više zemalja."
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">
@@ -37,85 +37,49 @@ summary: "Američke vlasti istražuju tvrdnje iz tužbe prema kojima Meta može 
 Slika je simbolična.
 </p>
 
-# Može li Meta čitati šifrirane WhatsApp poruke?
+# Američke vlasti istražuju tvrdnje da Meta može čitati šifrirane WhatsApp poruke
 
-Američke vlasti navodno istražuju ozbiljne tvrdnje prema kojima **Meta može pristupiti privatnim, end-to-end šifriranim WhatsApp porukama**, unatoč dugogodišnjim javnim tvrdnjama da to tehnički nije moguće.
+Američke vlasti navodno istražuju tvrdnje da **Meta može pristupiti WhatsApp porukama koje se službeno smatraju end-to-end šifriranima**, prema tužbi podnesenoj prošlog tjedna.
 
-Riječ je o optužbama iz **tužbe podnesene prošlog tjedna**, koje Meta snažno odbacuje, nazivajući ih “kategorički lažnima i apsurdnima”.
+Tužba tvrdi da Meta „može pristupiti gotovo svim privatnim komunikacijama WhatsApp korisnika“, pozivajući se na iskaze **zviždača iz Australije, Brazila, Indije, Meksika i Južne Afrike**.
 
-Ipak, sam **ulazak američkih regulatora u priču** dovoljan je da se ponovno otvori ključno pitanje digitalnog doba:  
-👉 *koliko su naše poruke zaista privatne?*
+## Uloga zviždača i pravni kontekst
 
-## Što se točno tvrdi?
+Tužbu je podnijela odvjetnička kuća **Quinn Emanuel Urquhart & Sullivan**, koja navodi da su im informacije dostavili „hrabri zviždači“ iz više država. Prema navodima, Meta navodno ima tehničke mehanizme koji omogućuju pristup komunikaciji unatoč end-to-end enkripciji.
 
-Prema navodima iz tužbe, Meta navodno može pristupiti “gotovo svim” WhatsApp komunikacijama, unatoč službenom end-to-end šifriranju.
+Meta je optužbe **kategorički odbacila**, nazvavši ih „apsurdnima i netočnima“.
 
-Tvrdnje se temelje na informacijama koje su navodno dostavili **anonimni zviždači iz više zemalja**, uključujući:
-- Australiju  
-- Brazil  
-- Indiju  
-- Meksiko  
-- Južnu Afriku  
+## Veza s NSO Groupom i Pegasus spywarejem
 
-Tužbu je podnijela pravna tvrtka **Quinn Emanuel Urquhart & Sullivan**, koja tvrdi da raspolaže tehničkim dokazima o mogućem zaobilaženju enkripcije.
+Meta tvrdi da je tužba dio šire strategije obrane izraelske tvrtke **NSO Group**, poznate po razvoju špijunskog softvera **Pegasus**, koji je korišten za nadzor novinara, aktivista i političara.
 
-## Metina obrana: “Ovo je besmislica”
+WhatsApp je ranije dobio sudski spor protiv NSO Groupa, u kojem je američki sud naložio isplatu **167 milijuna dolara odštete** zbog nezakonitog nadzora više od 1.400 korisnika.
 
-Meta je optužbe **oštro odbacila**, tvrdeći da:
-- WhatsApp koristi **standardnu end-to-end enkripciju**
-- ni Meta ni WhatsApp **nemaju pristup sadržaju poruka**
-- tužba ima **političku i stratešku pozadinu**
+Zanimljivo je da ista odvjetnička kuća, Quinn Emanuel, **istodobno zastupa NSO Group u žalbenom postupku**, što je Meta navela kao potencijalni sukob interesa.
 
-Prema Meti, cijeli slučaj povezan je s pokušajem diskreditacije WhatsAppa u korist **NSO Groupa**, izraelske tvrtke poznate po spyware alatu **Pegasus**.
+## Što Meta službeno tvrdi?
 
-WhatsApp je nedavno **dobio sudski spor protiv NSO-a**, u kojem je američki sud presudio da je Pegasus korišten za ilegalni nadzor novinara, aktivista i političara.
+Meta inzistira da:
+- WhatsApp poruke ostaju end-to-end šifrirane
+- kompanija nema rutinski pristup sadržaju poruka
+- optužbe služe stvaranju pravnog i medijskog pritiska
 
-## Zašto je ovaj slučaj posebno osjetljiv?
+Ipak, sama činjenica da se provodi **službena istraga** daje težinu navodima.
 
-Problem nije samo u Meti — nego u **presedanu**.
+## Zašto je ovo važno?
 
-Ako bi se dokazalo da:
-- velika platforma može tehnički zaobići enkripciju,
-- ili da postoje “skriveni” pristupi kroz infrastrukturu,
+Ako bi se tvrdnje potvrdile, to bi:
+- ozbiljno narušilo povjerenje u privatnu komunikaciju
+- imalo posljedice za zakonodavstvo o privatnosti
+- otvorilo pitanje zlouporabe AI alata i metapodataka
 
-to bi značilo da **nijedna mainstream aplikacija za poruke nije u potpunosti pouzdana**, bez obzira na marketing i tehničke tvrdnje.
+## Naš osvrt (MetaAdvisor)
 
-U tom slučaju, enkripcija bi postala:
-- političko pitanje
-- regulatorno pitanje
-- pitanje nacionalne sigurnosti
-
-## Što zapravo znači “end-to-end” enkripcija?
-
-U teoriji:
-- poruku mogu pročitati samo pošiljatelj i primatelj
-- čak ni server koji prenosi poruku ne vidi sadržaj
-
-U praksi, rizici ne dolaze samo iz samog šifriranja, već iz:
-- backup sustava
-- integracija s drugim servisima
-- metapodataka
-- AI alata za analizu ponašanja
-
-Drugim riječima: **poruka može biti šifrirana, ali sustav oko nje možda nije.**
-
-## Šira slika: povjerenje u digitalne platforme
-
-Ovaj slučaj dolazi u trenutku kada:
-- raste regulatorni pritisak na Big Tech
-- umjetna inteligencija analizira sve više komunikacijskih obrazaca
-- privatnost postaje geopolitičko pitanje
-
-Čak i ako se optužbe pokažu netočnima, sama činjenica da se **o njima ozbiljno raspravlja** pokazuje koliko je povjerenje u digitalne platforme narušeno.
-
-## Naš osvrt (Metaadvisor):
-
-- Ovo nije priča o jednoj aplikaciji, nego o povjerenju u digitalni svijet.
-- End-to-end enkripcija nije čarobni štit ako infrastruktura nije transparentna.
-- Regulatori sve češće ulaze u tehničke detalje koje su prije ignorirali.
-- Korisnici će morati postati svjesniji kako i gdje komuniciraju.
-- Privatnost više nije samo tehničko pitanje, nego političko i ekonomsko.
+- Ovo je **jedan od najosjetljivijih tehnološko-pravnih slučajeva posljednjih godina**
+- Ne radi se o dokazanoj zlouporabi, već o **istrazi s ozbiljnim navodima**
+- End-to-end enkripcija ostaje standard, ali povjerenje je poljuljano
+- Ishod može imati globalne regulatorne posljedice
 
 <p style="font-size:0.8em; color:#666;">
-Odricanje od odgovornosti: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja tehnički, pravni ili investicijski savjet. Informacije se temelje na javno dostupnim izvorima u trenutku objave.
+Odricanje od odgovornosti: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja pravni, financijski ili investicijski savjet. Informacije se temelje na javno dostupnim izvorima u trenutku objave.
 </p>
