@@ -65,6 +65,17 @@ Za usporedbu, Ethereum je u istom razdoblju radio na:
 
 Unatoč tome, Solana je po pitanju *trenutne aktivnosti korisnika* preuzela vodstvo.
 
+### Kako zapravo stoje naknade: Solana vs. Ethereum
+
+Iako smo nedavno pisali da su **naknade na Ethereumu nakon nadogradnje Fusaka pale na svega nekoliko centi**, važno je naglasiti jednu ključnu razliku.
+
+Kod Ethereuma, niske naknade danas se u praksi ostvaruju **uglavnom putem Layer 2 mreža** poput Basea, Arbitruma ili Optimisma. Glavni Ethereum sloj (L1) i dalje može postati skuplji u trenucima pojačane aktivnosti.
+
+Solana, s druge strane, ostvaruje **vrlo niske naknade izravno na svojoj osnovnoj mreži (L1)**, gdje tipična transakcija često košta **manje od jednog centa**, bez potrebe za dodatnim slojevima.
+
+Upravo ta jednostavnost — jedan sloj, niske naknade i velika propusnost — čini Solanu posebno privlačnom za brze, masovne i eksperimentalne projekte.
+
+
 ## Memecoini, špekulacija i rizik
 
 Važno je naglasiti da velik dio rasta dolazi iz **špekulativnog segmenta tržišta**. Memecoini, iako popularni, nose povećan rizik:
