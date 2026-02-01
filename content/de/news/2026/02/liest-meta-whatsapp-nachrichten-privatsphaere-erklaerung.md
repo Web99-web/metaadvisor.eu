@@ -73,11 +73,10 @@ Gleichzeitig verleiht die Tatsache, dass eine **offizielle Untersuchung läuft**
 
 ## Unser Kommentar (Metaadvisor):
 
-- Der Fall zeigt, wie sensibel das Thema Verschlüsselung geworden ist, insbesondere im Zusammenspiel mit KI.
-- Whistleblower-Aussagen aus mehreren Ländern erhöhen den internationalen Druck.
-- Die Verbindung zur NSO Group und Pegasus ist zentral für das Verständnis der Vorwürfe.
-- Die Rolle derselben Anwaltskanzlei auf beiden Seiten wirft berechtigte Fragen auf.
-- Bis zum Abschluss der Untersuchung bleibt die zentrale Frage offen.
+- Dies ist einer der sensibelsten technologisch-rechtlichen Fälle der letzten Jahre
+- Es handelt sich nicht um einen nachgewiesenen Missbrauch, sondern um eine Untersuchung mit ernsthaften Vorwürfen
+- Ende-zu-Ende-Verschlüsselung bleibt der Standard, doch das Vertrauen ist erschüttert
+- Der Ausgang könnte globale regulatorische Konsequenzen haben
 
 <p style="font-size:0.8em; color:#666;">
 Haftungsausschluss: Dieser Inhalt dient ausschließlich Informationszwecken und stellt keine rechtliche, technische oder sicherheitsbezogene Beratung dar.
