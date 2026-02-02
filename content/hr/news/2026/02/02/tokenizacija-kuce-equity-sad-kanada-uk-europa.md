@@ -55,11 +55,17 @@ Primjer:
 - Vlasnički kapital (equity) iznosi 120.000 €
 
 U zemljama poput **SAD-a, Kanade, Ujedinjenog Kraljevstva i Australije**, taj equity nije pasivna brojka na papiru. Vlasnici nekretnina mogu:
-- uzeti **home equity loan**
-- otvoriti **home equity line of credit (HELOC)**
+- **home equity loan** → **kredit osiguran vlasničkim kapitalom nekretnine**  
+  *(jednokratni kredit koji se dobije na temelju dijela već otplaćene vrijednosti kuće)*
+
+- **home equity line of credit (HELOC)** → **kreditna linija osigurana vlasničkim kapitalom nekretnine**  
+  *(fleksibilna kreditna linija iz koje se novac povlači po potrebi, slično dopuštenom minusu)*
+  
 - refinancirati postojeći kredit
 - koristiti equity kao kolateral za druge financijske potrebe
 
+> *U anglosaksonskim zemljama vlasnici nekretnina mogu uzeti kredit osiguran vlasničkim kapitalom nekretnine (home equity loan) ili otvoriti kreditnu liniju osiguranu tim kapitalom (HELOC), što u većem dijelu Europe nije uobičajena praksa.*
+> 
 Tokenizacija u ovom kontekstu znači da se to pravo na vrijednost:
 - digitalno evidentira
 - dijeli u tokene
