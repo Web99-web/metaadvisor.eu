@@ -33,7 +33,9 @@ Slika je simbolična.
 
 Dok **bitcoin** i dionice kompanije **Strategy (MSTR)** prolaze kroz jedno od najtežih razdoblja u posljednjih godinu dana, na financijskom tržištu događa se paralelna, manje vidljiva priča — **određeni ETF-ovi ostvaruju rekordne dobitke upravo zahvaljujući tom padu**.
 
-Riječ je o tzv. *short* i *leveraged* fondovima, instrumentima koji su dizajnirani tako da profitiraju kada cijena osnovne imovine pada. U ovom slučaju, fokus tržišta je na dionicama Strategyja, najveće javno izlistane kompanije s bitcoin rezervama.
+Riječ je o tzv. *short* i *leveraged* fondovima, instrumentima koji su dizajnirani tako da profitiraju kada cijena osnovne imovine pada. U ovom slučaju, fokus tržišta je na dionicama Strategyja, najveće javno izlistane kompanije s bitcoin rezervama. 
+
+Riječ je o tržišnim sudionicima koji su se poslovno pozicionirali na pad cijena — strategija koja u aktualnim uvjetima donosi dobit, ali u suprotnom smjeru može jednako brzo rezultirati gubicima.
 
 ## Kako funkcionira “2x short” ETF
 
