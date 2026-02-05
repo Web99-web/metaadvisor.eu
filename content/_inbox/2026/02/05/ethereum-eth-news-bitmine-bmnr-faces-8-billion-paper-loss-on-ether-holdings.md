@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-BitMine Immersion Technologies (BMNR), the world's largest Ethereum-focused treasury company is now sitting on nearly $8 billion in paper losses after ether ETH $ 1,923.14 fell below $2,000 on Thursday.
+BitMine Immersion Technologies (BMNR), the world's largest Ethereum-focused treasury company is now sitting on nearly $8 billion in paper losses after ether ETH $ 1,928.03 fell below $2,000 on Thursday.
 
 The firm, helmed by well-followed Wall Street bull Thomas Lee, accumulated 4.29 million ETH at an estimated cost of $16.4 billion, according to data from DropStab. That stash is now worth just $8.4 billion at current prices.
 

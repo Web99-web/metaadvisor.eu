@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 65,216.47 tumbled below $66,000 during early afternoon U.S. hours as this week's crypto selloff accelerated into a bloodbath on Thursday.
+Bitcoin BTC $ 65,162.50 tumbled below $66,000 during early afternoon U.S. hours as this week's crypto selloff accelerated into a bloodbath on Thursday.
 
 The largest cryptocurrency fell more than 10% over the past 24 hours to a session low of $65,156, according to CoinDesk data , the weakest level since October 2024 and below the 2021 peak.
 
