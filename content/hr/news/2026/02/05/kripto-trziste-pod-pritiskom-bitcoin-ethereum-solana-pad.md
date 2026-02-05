@@ -32,6 +32,18 @@ Kripto tržište u četvrtak nastavlja pad započet ranije tijekom tjedna, a ras
 
 Sličan obrazac vidljiv je i kod glavnih altcoina. **Solana (SOL)** se vratila prema **80 USD**, nakon intradnevnog minimuma od **77,6 USD**, dok se **Ethereum (ETH)** oporavio na oko **1.884 USD**, nakon pada na **1.823 USD**. Ovakvi pokreti upućuju na to da tržište još uvijek traži ravnotežu nakon nedavne korekcije.
 
+## Pad je zahvatio i Crypto metals — iznimka je HYPE
+
+Pad tržišta nije bio ograničen samo na klasične kriptovalute. **Crypto metals**, poput **zlata (gold)** i **srebra (silver)**, također su bili pod snažnim pritiskom. **Zlato je palo s razina oko 4.885 USD na približno 4.735 USD**, što predstavlja **pad veći od 150 USD**, dok je **srebro palo s oko 77 USD na razinu blizu 71 USD**.
+
+Takvo kretanje pokazuje da se **prodajni pritisak proširio na cijelo tržište**, uključujući i instrumente koji se često doživljavaju kao sigurnije utočište u razdobljima nestabilnosti.
+
+### HYPE kao rijetka iznimka usred rasprodaje
+
+U tom kontekstu, **HYPE token predstavlja rijetku iznimku**. Umjesto značajnog pada, **cijena se kratkotrajno spustila prema 31 USD**, da bi se potom **vratila oko 33 USD**, razine oko koje se **kreće već danima**. Za razliku od **Bitcoina, Ethereuma, Solane i većine Crypto metals tržišta**, HYPE zasad **ne pokazuje znakove panične rasprodaje**.
+
+Ova **divergencija** sugerira da trenutačni pad **nije jednostavan “risk-off” bijeg iz svega**, već da tržište **selektivno reagira**, ovisno o **likvidnosti, narativu i strukturi pojedinih instrumenata**.
+
 ## Zašto tržište i dalje izgleda krhko
 
 Iako kratkoročni skokovi mogu djelovati ohrabrujuće, dio analitičara upozorava da se ne radi o jasnom preokretu trenda. Padovi ispod prethodnih lokalnih razina podrške sugeriraju da je tržište i dalje osjetljivo na makroekonomske vijesti, regulatorne signale i promjene u likvidnosti.
