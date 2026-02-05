@@ -28,7 +28,7 @@ summary: "Bitcoin se oporavio do 63.000 USD nakon pada ispod 62.300, dok su Ethe
 
 ## Kratki oporavak nakon oštrog pada
 
-Kripto tržište u četvrtak pokazuje znakove kratkoročnog oporavka, ali raspoloženje investitora ostaje izrazito oprezno. **Bitcoin (BTC)** se trenutačno kreće oko **63.000 USD**, nakon što je tijekom dana dotaknuo razinu od **62.235 USD**. Iako je riječ o relativno brzom povratku iznad ključne psihološke granice, volatilnost ostaje visoka.
+Kripto tržište u četvrtak nastavlja pad započet ranije tijekom tjedna, a raspoloženje investitora ostaje izrazito oprezno. **Bitcoin (BTC)** se trenutačno kreće oko **63.000 USD**, nakon što je tijekom dana dotaknuo razinu od **62.235 USD**. Iako je riječ o relativno brzom povratku iznad ključne psihološke granice, volatilnost ostaje visoka.
 
 Sličan obrazac vidljiv je i kod glavnih altcoina. **Solana (SOL)** se vratila prema **80 USD**, nakon intradnevnog minimuma od **77,6 USD**, dok se **Ethereum (ETH)** oporavio na oko **1.884 USD**, nakon pada na **1.823 USD**. Ovakvi pokreti upućuju na to da tržište još uvijek traži ravnotežu nakon nedavne korekcije.
 
