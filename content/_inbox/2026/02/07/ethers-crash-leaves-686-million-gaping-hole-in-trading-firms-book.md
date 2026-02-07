@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-An ether ETH $ 2,006.34 bull was caught leaning hard into the upside this week as the cryptocurrency tanked, turning the whale bet into a multi-million dollar horror story.
+An ether ETH $ 2,039.58 bull was caught leaning hard into the upside this week as the cryptocurrency tanked, turning the whale bet into a multi-million dollar horror story.
 
 That bull is Trend Research, a trading firm headed by Liquid Capital founder Jack Yi.  The firm spent recent months building a bullish (long) bet worth $2 billion on ether by borrowing stablecoins from DeFi giant Aave, which were reportedly collateralized by ether.
 
@@ -25,7 +25,7 @@ The team was convinced of ether's long-term potential and expected a quick rebou
 
 But that never materialized – ether kept sliding, endangering their "looped ether" long position. As prices fell, the stablecoin collateral backing the leveraged bet shrank, while the fixed debt loomed large in classic leveraged fashion.
 
-The final blow came this month as ether started falling rapidly with bitcoin BTC $ 67,949.42 and on Feb. 4 prices tanked to $1,750, the weakest level since April 2025. Trend Research responded by liquidating over 300,000 ether , according to data source Bubble Maps.
+The final blow came this month as ether started falling rapidly with bitcoin BTC $ 68,933.90 and on Feb. 4 prices tanked to $1,750, the weakest level since April 2025. Trend Research responded by liquidating over 300,000 ether , according to data source Bubble Maps.
 
 "Trend Research started sending large amounts of ETH to Binance to repay debt on AAVE In total, this cluster moved 332k ETH worth $700M to Binance over 5 days," Bubble Maps said on X. The firm now holds just 1.463 ETH.
 

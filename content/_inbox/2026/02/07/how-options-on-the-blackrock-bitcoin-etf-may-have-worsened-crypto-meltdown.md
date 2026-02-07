@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-BlackRock's spot bitcoin BTC $ 67,949.42 exchange-traded fund has been a massive hit since launch, pulling in billions from investors seeking exposure to the cryptocurrency without the hassle of crypto wallets or exchanges. Traders and analysts religiously track inflows into the fund to gauge how institutions are positioning in the market.
+BlackRock's spot bitcoin BTC $ 68,933.90 exchange-traded fund has been a massive hit since launch, pulling in billions from investors seeking exposure to the cryptocurrency without the hassle of crypto wallets or exchanges. Traders and analysts religiously track inflows into the fund to gauge how institutions are positioning in the market.
 
 Now they might have to do the same with options tied to the ETF, as activity exploded during Thursday's crash. According to one observer, the record activity stemmed from a hedge fund blowup, while others disagreed, citing routine market chaos as a catalyst.
 
