@@ -1,9 +1,9 @@
 ---
-title: "New York propituje ekspanziju data centara: zašto AI infrastruktura postaje političko pitanje"
+title: "New York propituje ekspanziju data centara: infrastruktura budućnosti ili koncentracija moći u rukama nekolicine?"
 slug: "new-york-propitkuje-data-centre-ai-infrastruktura-2026"
 date: 2026-02-08T14:00:00
 category: "news"
-translationKey: "new-york-data-centers-ai-moratorium-2026-02-08"
+translationKey: "new-york-data-centers-ai-power-concentration-2026-02-08"
 source: "TechCrunch / Wired / MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
@@ -11,10 +11,10 @@ image_url: "/images/data-center-P-u.jpg"
 featured_image: "/images/data-center-P-u.jpg"
 image: "/images/data-center-P-u.jpg"
 thumbnail: "/images/data-center-P-u.jpg"
-image_alt: "Ilustracija velikog podatkovnog centra i energetske infrastrukture"
+image_alt: "Veliki AI podatkovni centar i energetska infrastruktura"
 image_credit: "Free stock image (Pexels/Unsplash) — simbolična ilustracija"
-tags: ["data centri", "ai infrastruktura", "new york", "energetska mreza", "elektricna energija", "regulacija", "cloud", "umjetna inteligencija", "okolis"]
-summary: "Zastupnici savezne države New York predlažu višegodišnji moratorij na nove data centre, otvarajući širu raspravu o energetskim troškovima, utjecaju AI infrastrukture na zajednice i dugoročnoj održivosti digitalne ekonomije."
+tags: ["ai", "data centri", "new york", "umjetna inteligencija", "energetska infrastruktura", "regulacija", "radna mjesta", "koncentracija moci", "cloud"]
+summary: "New York razmatra moratorij na nove data centre, otvarajući pitanje koje nadilazi energiju i okoliš: postaje li umjetna inteligencija infrastruktura u vlasništvu nekolicine, dok većina društva gubi svoje mjesto u ekonomiji rada?"
 ---
 
 <p style="font-size:0.9em; color:#777; margin-top:4px;">
@@ -29,72 +29,94 @@ Slika je simbolična.
   </a>
 </p>
 
-# New York propituje rast data centara
+# New York propituje ekspanziju data centara: infrastruktura budućnosti ili koncentracija moći u rukama nekolicine?
 
-Savezna država New York postala je najnovije američko političko bojište u raspravi o ubrzanoj izgradnji podatkovnih centara, posebice onih povezanih s razvojem umjetne inteligencije (AI), cloud infrastrukture i obrade velikih količina podataka. Prijedlog zakona koji su uveli državni zastupnici predviđa **moratorij od najmanje tri godine** na izdavanje novih dozvola za gradnju i rad data centara.
+Savezna država New York postala je jedno od prvih velikih političkih bojišta u raspravi o **eksplozivnom rastu AI data centara**. Prijedlog zakona kojim bi se uveo **trogodišnji moratorij** na izdavanje novih dozvola za gradnju i rad podatkovnih centara pokazuje da umjetna inteligencija više nije samo tehnološko pitanje — već **društveno, ekonomsko i političko**.
 
-Iako zakon još nije usvojen, sama činjenica da je došao u zakonodavnu proceduru pokazuje da se infrastruktura koja je do jučer bila “nevidljiva” sada našla u središtu javne i političke rasprave.
+Iako zakon još nije usvojen, sama činjenica da se o njemu ozbiljno raspravlja signalizira promjenu paradigme: **digitalna infrastruktura prestaje biti nevidljiva**.
 
-## Zašto su data centri odjednom problem?
+## Zašto su AI data centri odjednom pod povećalom?
 
-Data centri su fizička okosnica digitalne ekonomije. Bez njih nema:
-- cloud servisa,
-- AI modela,
-- streaming platformi,
-- financijskih sustava,
-- niti moderne komunikacije.
+AI data centri nisu obični serveri. Oni su:
+- **energetski ekstremno zahtjevni**
+- kapitalno intenzivni
+- koncentrirani u rukama **nekolicine globalnih korporacija**
 
-Međutim, s eksplozijom AI tehnologija, potražnja za računalnom snagom i električnom energijom naglo je porasla. Moderni AI data centri troše **ogromne količine struje**, često usporedive s manjim gradovima.
+Razvoj umjetne inteligencije zahtijeva **stalnu dostupnost računalne snage**, masivnu potrošnju električne energije i kompleksne sustave hlađenja. U pojedinim slučajevima, **jedan AI data centar troši struju poput manjeg grada**.
 
-U New Yorku su se pojavile tri ključne zabrinutosti:
-1. **Rast cijena električne energije** za kućanstva i male poduzetnike  
-2. **Opterećenje lokalne energetske mreže**, koja nije dizajnirana za ovakav skok potrošnje  
-3. **Utjecaj na okoliš**, uključujući potrošnju vode za hlađenje i emisije CO₂  
+U New Yorku su zakonodavci identificirali tri ključna problema:
+- **rast cijena električne energije** za građane i mala poduzeća  
+- **opterećenje postojeće energetske mreže**, koja nije projektirana za ovakav skok potrošnje  
+- **utjecaj na okoliš**, uključujući potrošnju vode i emisije  
 
-## Neobičan politički konsenzus
+No ispod tehničkih argumenata krije se dublje pitanje.
 
-Zanimljivo je da kritike data centara dolaze s **oba kraja političkog spektra**.  
-Dok progresivne skupine upozoravaju na okolišne posljedice i klimatske ciljeve, konzervativni političari ističu rast troškova energije i negativan utjecaj na lokalne zajednice.
+## AI infrastruktura i koncentracija moći
 
-Više od **230 ekoloških organizacija** potpisalo je otvoreno pismo kojim traže nacionalni moratorij na izgradnju novih data centara dok se ne uvedu jasna pravila i standardi.
+Za razliku od ranijih tehnoloških revolucija, AI ne zahtijeva masovno zapošljavanje. Naprotiv, **AI smanjuje potrebu za ljudskim radom**, osobito u uredskim, administrativnim i kognitivnim zanimanjima.
 
-New York nije usamljen slučaj — slične inicijative već su se pojavile u saveznim državama poput Georgije, Vermonta, Virginije, Marylanda i Oklahome.
+To otvara neugodno pitanje:  
+**ako nekolicina bogatih aktera gradi i kontrolira AI infrastrukturu, gdje su ljudi u toj ekonomiji?**
 
-## AI infrastruktura kao novo “teško” industrijsko pitanje
+Kapital se:
+- koncentrira u data centrima
+- akumulira kroz vlasništvo nad infrastrukturom
+- multiplicira bez proporcionalnog rasta zaposlenosti
 
-Ono što je posebno važno u ovom slučaju jest činjenica da se AI infrastruktura više ne promatra kao apstraktni “digitalni oblak”, već kao **teška industrija** s vrlo stvarnim fizičkim posljedicama.
+Drugim riječima, **produktivnost raste, ali potreba za radnom snagom pada**.
 
-Baš kao što su nekada:
-- čeličane,
-- rafinerije,
-- elektrane  
+## Povijesni zaokret: prvi put tehnologija jede srednju klasu
 
-bile predmet regulacije zbog utjecaja na okoliš i zajednice, danas se ista pitanja postavljaju za:
-- hyperscale data centre,
-- AI training farme,
-- cloud infrastrukturu.
+Industrijske revolucije prošlosti primarno su pogađale fizički rad. Današnja AI revolucija prvi put **direktno ugrožava bijele ovratnike**:
+- administraciju
+- financije
+- marketing
+- pravo (junior razine)
+- programiranje
+- novinarstvo
+- HR i analitiku
 
-Drugim riječima, **digitalna ekonomija je prestala biti “lagana”**.
+Istovremeno, plavi ovratnici — zanati, servis, održavanje, njega — zasad ostaju otporniji jer je **automatizacija fizičkog svijeta skuplja i sporija**.
 
-## Što bi moratorij značio u praksi?
+To znači da AI ne samo da mijenja tehnologiju, nego **preoblikuje društvenu strukturu rada**.
 
-Ako bi prijedlog bio usvojen, New York bi privremeno:
-- zaustavio nove projekte data centara,
-- dao vrijeme za izradu strožih energetskih i okolišnih pravila,
-- pokušao uskladiti tehnološki rast s infrastrukturnim kapacitetima.
+## Zašto države sada reagiraju
 
-To ne znači kraj AI razvoja, ali bi moglo značiti **sporiji, skuplji i selektivniji rast**, barem u pojedinim regijama.
+New York nije izoliran slučaj. Slične inicijative pojavljuju se u:
+- Georgiji
+- Vermontu
+- Virginiji
+- Marylandu
+- Oklahomi
+
+Više od **230 ekoloških i društvenih organizacija** zatražilo je nacionalni moratorij na nove data centre dok se ne definiraju jasna pravila.
+
+Države shvaćaju da:
+- **AI infrastruktura = politička moć**
+- **energetska ovisnost = društveni rizik**
+- **koncentracija tehnologije = koncentracija bogatstva**
+
+U tom kontekstu, regulacija više nije anti-tehnološka, nego **obrambena**.
+
+## Usporavanje kao politički alat
+
+Moratorij ne znači zabranu AI-ja. On znači:
+- kupovanje vremena
+- redefiniranje pravila
+- pokušaj usklađivanja tehnologije s društvom
+
+Drugim riječima, **pokušaj da se spriječi scenarij u kojem mali broj vlasnika infrastrukture kontrolira ekonomiju, dok većina ljudi ostaje bez stabilne uloge u sustavu rada**.
 
 ---
 
 ## Naš osvrt (MetaAdvisor):
 
-- Data centri postaju kritična infrastruktura, usporediva s energetikom i prometom.  
-- AI boom više nije samo tehnološko, već i političko i društveno pitanje.  
-- Očekujemo da će slične rasprave uskoro zahvatiti i Europu.  
-- Regulacija infrastrukture mogla bi dugoročno favorizirati velike igrače s kapitalom.  
-- Digitalna ekonomija ulazi u fazu “odrastanja”, gdje brzina više nije jedini kriterij.
+- **AI više nije samo softver, već teška infrastruktura.**  
+- **Koncentracija data centara znači koncentraciju ekonomske moći.**  
+- **Rast produktivnosti ne jamči rast zaposlenosti.**  
+- **Države kasne, ali počinju shvaćati razmjere promjene.**  
+- **Pitanje nije hoće li AI promijeniti rad, nego tko će imati mjesto u toj promjeni.**
 
 <p style="font-size:0.85em; color:#888; margin-top:24px;">
-<strong>Odricanje od odgovornosti:</strong> Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski, investicijski ili pravni savjet. Tržišta, tehnologije i regulative podložni su promjenama.
+<strong>Odricanje od odgovornosti:</strong> Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski, investicijski ili pravni savjet. Tehnološki razvoj, regulativa i tržišni uvjeti podložni su promjenama.
 </p>
