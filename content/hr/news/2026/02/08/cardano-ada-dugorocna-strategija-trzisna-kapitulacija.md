@@ -44,6 +44,16 @@ U praksi to znači:
 - manju izloženost regulatornim šokovima  
 - fokus na održivost, a ne brzinu  
 
+## Osnivač Cardana pod pritiskom tržišta, ali bez prodaje
+
+Dodatnu pozornost na Cardano privukla je i javna izjava osnivača projekta, **Charlesa Hoskinsona**, koji je tijekom aktualnog tržišnog sloma otkrio da se suočava s više od **3 milijarde američkih dolara nerealiziranih gubitaka**. Unatoč tome, Hoskinson je jasno poručio da **ne planira prodavati** niti napustiti projekt.
+
+U obraćanju javnosti naglasio je kako želi razbiti percepciju da su osnivači blockchain projekata izolirani od gubitaka koji pogađaju male investitore. Prema njegovim riječima, osobno je pretrpio veći financijski udar od većine sudionika tržišta, ali kratkoročna cijena nikada nije bila primarni motiv iza Cardana.
+
+Hoskinson je pad tržišta opisao kao dio dugoročnog ciklusa, a ne kao znak kraja projekta. Fokus, tvrdi, ostaje na izgradnji stabilne infrastrukture i dugoročne vrijednosti ekosustava, čak i u razdobljima kada tržišni sentiment ide protiv projekta.
+
+Takav stav dodatno učvršćuje Cardanovu poziciju kao projekta koji se ne vodi kratkoročnim tržišnim pritiscima, već strategijom koja pretpostavlja višegodišnje cikluse rasta i korekcija.
+
 ## Volatilnost ADA-e nije iznimka, već pravilo tržišta
 
 Aktualni pad ADA-e ne razlikuje se bitno od prethodnih ciklusa. Cardano je već prolazio kroz višegodišnje faze stagnacije i dubokih korekcija, često dok je tržište favoriziralo druge projekte.
