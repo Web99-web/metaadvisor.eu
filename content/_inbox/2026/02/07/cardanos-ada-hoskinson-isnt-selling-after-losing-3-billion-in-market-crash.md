@@ -13,9 +13,9 @@ _build:
   list: never
 ---
 
-ADA $ 0.2742 founder Charles Hoskinson said he is sitting on more than $3 billion in unrealized losses during the current crypto market downturn, offering a rare look at his personal exposure during a period of sharp declines.
+ADA $ 0.2747 founder Charles Hoskinson said he is sitting on more than $3 billion in unrealized losses during the current crypto market downturn, offering a rare look at his personal exposure during a period of sharp declines.
 
-Speaking from Tokyo in a live broadcast , Hoskinson addressed a market rattled by forced liquidations and falling prices in an inspirational message. Bitcoin BTC $ 69.231,70 dropped to around $60,000 during the week, losing about 16% of its value, while the broader CoinDesk 20 (CD20) index fell 17%. ADA $ 0.2742 dropped by 15.6% in the week.
+Speaking from Tokyo in a live broadcast , Hoskinson addressed a market rattled by forced liquidations and falling prices in an inspirational message. Bitcoin BTC $ 71,318.99 dropped to around $60,000 during the week, losing about 16% of its value, while the broader CoinDesk 20 (CD20) index fell 17%. ADA $ 0.2747 dropped by 15.6% in the week.
 
 Hoskinson said he shared the figure to counter claims that crypto founders are insulated from losses that affect retail investors. He told viewers that his financial position has taken a larger hit than most people following the market.
 
