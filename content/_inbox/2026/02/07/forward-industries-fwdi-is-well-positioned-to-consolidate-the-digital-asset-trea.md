@@ -21,6 +21,6 @@ Nasdaq-listed Forward Industries (FWDI) is uniquely positioned to consolidate th
 
 Digital asset treasury companies, firms whose balance sheets are heavily weighted toward cryptocurrencies, have come under growing pressure amid the recent market downturn. Falling crypto prices have squeezed asset values and pushed leverage higher, forcing some companies to sell portions of their crypto holdings to service debt and shore up liquidity, raising questions about the model's sustainability in prolonged bear markets.
 
-Forward Industries is no exception. With about 7 million solana SOL $ 88.49 tokens acquired at an average price of $232, the company stack is worth about $600 million at SOL's current level just above $85. That represents a paper loss of roughly $1 billion. FWDI's stock has slumped from a high near $40 at last year's peak of the digital asset treasury company frenzy to the current price just above $5.
+Forward Industries is no exception. With about 7 million solana SOL $ 86.64 tokens acquired at an average price of $232, the company stack is worth about $600 million at SOL's current level just above $85. That represents a paper loss of roughly $1 billion. FWDI's stock has slumped from a high near $40 at last year's peak of the digital asset treasury company frenzy to the current price just above $5.
 
 Forward Industries' center of gravity shifted sharply in 2025, when it raised roughly $1.65 billion in
