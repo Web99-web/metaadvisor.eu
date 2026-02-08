@@ -438,7 +438,7 @@ mapping:
 
 
   # --- Data centers / data / other ---
-  data centers: [WhiteFiber-WYFI.png]
+  data centers: [data-center-P-u.jpg, WhiteFiber-WYFI.png]
   
   # --- Hakers/ Skimms / maleware ---
   SOL-maleware: [sol-skimmed-copilot.png]
