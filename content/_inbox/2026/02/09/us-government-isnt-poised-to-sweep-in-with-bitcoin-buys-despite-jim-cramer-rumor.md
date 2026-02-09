@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-President Donald Trump's U.S. bitcoin BTC $ 70,715.04 reserve doesn't exist yet, and there is no mechanism in the federal government for the wholesale purchase of crypto.
+President Donald Trump's U.S. bitcoin BTC $ 70,755.77 reserve doesn't exist yet, and there is no mechanism in the federal government for the wholesale purchase of crypto.
 
 Keep that in mind when considering this weekend's speculation about the price point that would cause the White House to push a buy button, thanks in large part to CNBC speculator Jim Cramer. There is no such button.
 

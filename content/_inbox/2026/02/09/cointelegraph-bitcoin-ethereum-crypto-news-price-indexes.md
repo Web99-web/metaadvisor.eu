@@ -1,11 +1,11 @@
 ---
 title: "Cointelegraph: Bitcoin, Ethereum, Crypto News & Price Indexes"
-date: 2026-02-09T14:41:08Z
+date: 2026-02-09T19:25:23Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "c294a63740346fa3006ea61bcd904d1a"
 source: "Cointelegraph"
-source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://zoa.cointelegraph.com/pixel?postId=110589&regionId=1"
+source_url: "https://cointelegraph.com/news/jump-trading-kalshi-polymarket-prediction-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+image_url: "https://zoa.cointelegraph.com/pixel?postId=247081&regionId=1"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false
@@ -13,22 +13,18 @@ _build:
   list: never
 ---
 
-Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.
+Wall Street–style liquidity is reportedly moving into prediction markets, signaling a shift toward deeper markets, higher volumes and greater institutional participation.
 
-Today in crypto, Crypto exchange-traded product (ETP) outflows slowed to $187 million last week after an extended run of losses. Coinbase ran a lo-fi ad at the Super Bowl, looking to go viral with the help of the Backstreet Boys, and Cathie Woodâ€™s ARK Invest sold $22 million worth of Coinbase shares across three exchange-traded funds (ETFs).
+Jump Trading, a Chicago-based quantitative trading company, is reportedly set to acquire minority stakes in prediction market platforms Polymarket and Kalshi, underscoring growing institutional interest in the rapidly expanding sector.
 
-Crypto investment products logged a third straight week of outflows , though the pace of selling eased markedly as digital asset prices steadied after a sharp downturn.
+The equity stakes would be obtained in exchange for providing trading liquidity on both platforms, Bloomberg reported Monday, citing people familiar with the discussions.
 
-Crypto ETPs recorded $187 million in outflows during the week, a sharp drop from the $3.43 billion seen over the previous two weeks , CoinShares reported on Monday.
+While the report did not disclose specific ownership percentages, Bloomberg said Jump’s stake in Polymarket would scale based on the liquidity the company ultimately provides.
 
-The slowdown came as Bitcoin ( BTC ) fell to its lowest level since November 2024, with the price touching $60,000 on Coinbase last Thursday.
+Founded more than two decades ago, Jump Trading has long been a major player in proprietary financial trading and has expanded aggressively into digital assets . It has been active as both a market maker and venture investor in crypto, backing blockchain infrastructure projects and exchanges through its affiliated investment arms.
 
-â€œWhile flows typically move in line with crypto prices, changes in the pace of outflows have historically been more informative, often signaling inflection points in investor sentiment,â€� said James Butterfill, CoinSharesâ€™ head of research.
+Polymarket and Kalshi are the two largest prediction market platforms, each commanding multibillion-dollar valuations following recent funding rounds.
 
-Bitcoin investment products were the only ETP group to suffer significant losses last week, with outflows totaling $264.4 million.
+As previously reported by Cointelegraph , Polymarket raised $2 billion from NYSE parent Intercontinental Exchange, valuing the company at $9 billion. In early December, Kalshi secured $1 billion in funding at an $11 billion valuation.
 
-XRP ( XRP ) funds led inflows, attracting $63 million, while other altcoin ETPs, such as those tracking Ether ( ETH ) and Solana ( SOL ), posted modest gains of $5.3 million and $8.2 million, respectively.
-
-Spot Bitcoin exchange-traded funds (ETFs) accounted for a large portion of Bitcoin ETP outflows last week, amounting to $318 million, according to SoSoValue data.
-
-Crypto exchange Coinbase has returned to the Super
+While both platforms allow users to trade on the outcomes of real-world events, they operate under different models. Polymarket is a decentralized platform built on the Polygon blockchain that enables onchain settlement of prediction contracts, whereas Kalshi operates as a centralized, federally regulated exchange in

@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Morgan Stanley initiated coverage of three publicly traded bitcoin BTC $ 70,715.04 mining companies on Monday, backing two names tied to data center leasing while taking a more cautious stance on a miner focused on bitcoin exposure.
+Morgan Stanley initiated coverage of three publicly traded bitcoin BTC $ 70,755.77 mining companies on Monday, backing two names tied to data center leasing while taking a more cautious stance on a miner focused on bitcoin exposure.
 
 Analyst Stephen Byrd and his team started coverage of Cipher Mining (CIFR) and TeraWulf (WULF) with Overweight ratings and set price targets of $38 and $37, respectively. Shares of CIFR are higher by 12.4% Monday to $16.51, while WULF is ahead 12.8% to $16.12.
 
