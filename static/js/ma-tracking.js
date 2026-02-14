@@ -135,4 +135,13 @@ function copyArticleLink(url) {
     trackCopy();
   }
 }
+document.addEventListener("DOMContentLoaded", function () {
+  const copyBtn = document.getElementById("copyBtn");
+  if (!copyBtn) return;
+
+  copyBtn.addEventListener("click", function (e) {
+    e.preventDefault();
+    copyArticleLink(window.location.href);
+  });
+});
 
