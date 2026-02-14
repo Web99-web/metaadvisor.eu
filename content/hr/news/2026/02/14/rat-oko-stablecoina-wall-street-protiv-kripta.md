@@ -1,5 +1,5 @@
 ---
-title: "Rat oko stablecoina: Wall Street protiv kripto industrije — tko kontrolira prinos?"
+title: "Prvi službeni sukob oko stablecoina: Wall Street protiv kripta — tko kontrolira prinos?"
 slug: "rat-oko-stablecoina-wall-street-protiv-kripta"
 date: 2026-02-14T06:30:00Z
 category: "crypto"
@@ -11,10 +11,10 @@ image_url: "/images/Banks-want-control-crypto.png"
 featured_image: "/images/Banks-want-control-crypto.png"
 image: "/images/Banks-want-control-crypto.png"
 thumbnail: "/images/Banks-want-control-crypto.png"
-image_alt: "Sukob banaka i kripto industrije oko stablecoina"
+image_alt: "Službeni sukob banaka i kripto industrije oko stablecoina"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
-tags: ["stablecoin", "kripto", "crypto", "regulacija", "wall street", "banke", "yield", "kamate", "digital dollar", "us zakon", "genius act", "blockchain"]
-summary: "Američke banke i kripto industrija sukobljavaju se oko pitanja smiju li stablecoini nuditi prinose korisnicima, dok Senat raspravlja o novom zakonu o tržišnoj strukturi kripta."
+tags: ["stablecoin", "kripto", "crypto", "regulacija", "wall street", "banke", "yield", "kamate", "digitalni dolar", "us zakon", "genius act", "blockchain", "depoziti"]
+summary: "Po prvi put službeno je dokumentiran sukob između Wall Streeta i kripto industrije oko stablecoin prinosa, dok američki Senat raspravlja o ključnom zakonu za digitalnu imovinu."
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">
@@ -24,60 +24,73 @@ summary: "Američke banke i kripto industrija sukobljavaju se oko pitanja smiju 
   </a>
 </p>
 
-# Rat oko stablecoina: Wall Street protiv kripto industrije — tko kontrolira prinos?
+# Prvi službeni sukob oko stablecoina: Wall Street protiv kripta — tko kontrolira prinos?
 
 <small>Slika je simbolična.</small>
 
-Rasprava o regulaciji stablecoina u Sjedinjenim Državama pretvorila se u otvoreni sukob između tradicionalnog bankarskog sektora i kripto industrije. U središtu prijepora nalazi se jedno ključno pitanje: smiju li stablecoini nuditi prinos ili nagrade korisnicima?
+Po prvi put je **formalno i pisanim putem zabilježen otvoreni sukob** između tradicionalnog bankarskog sektora i kripto industrije oko pitanja stablecoina. Dokumenti obje strane sada jasno definiraju njihove stavove, čime rasprava prelazi iz neformalnih pregovora u **službeni regulatorni obračun**.
 
-Dok američki Senat razmatra zakon o tržišnoj strukturi kripta, Wall Street banke pokušavaju osigurati zabranu bilo kakvog oblika “yielda” na stablecoine, tvrdeći da bi takav model mogao potkopati temeljnu funkciju bankarskih depozita.
+U središtu sukoba nalazi se jedno ključno pitanje: **smiju li stablecoini nuditi prinos (yield) ili nagrade korisnicima?**
 
-## Banke: Stablecoin prinos ugrožava sustav depozita
+## Banke: “Bez prinosa — bez destabilizacije depozita”
 
-Predstavnici velikih financijskih institucija iznijeli su stav da stablecoini koji nude prinos nalikuju štednim računima, ali bez iste regulatorne strukture i zaštite. Prema njihovom tumačenju, dopuštanje kamate ili nagrada na stablecoine moglo bi potaknuti odljev kapitala iz tradicionalnih banaka.
+Wall Street banke dostavile su dokument pod nazivom **“Yield and Interest Prohibition Principles”**, u kojem traže zabranu bilo kakvog oblika kamate ili nagrada na stablecoine.
 
-Bankarski sektor u dokumentu pod nazivom “Yield and Interest Prohibition Principles” jasno ističe da stablecoini ne bi smjeli nuditi kamatu ni nagrade koje bi oponašale klasične depozitne proizvode.
+Njihov argument je jasan:  
+**Stablecoin koji isplaćuje prinos postaje konkurencija štednim računima.**
 
-Drugim riječima — banke žele zadržati monopol nad modelom “kamate na novac”.
+Prema njihovom tumačenju, dopuštanje kamate ili nagrada moglo bi potaknuti značajan odljev kapitala iz tradicionalnog bankarskog sustava, čime bi se oslabila depozitna baza — temelj poslovnog modela banaka.
 
-## Kripto industrija: Potreban je kompromis
+Drugim riječima, banke žele osigurati da **stablecoini ne smiju funkcionirati kao digitalni štedni računi**.
 
-S druge strane, Digital Chamber — jedna od vodećih kripto lobističkih organizacija u Washingtonu — predstavila je vlastite principe, kojima brani mogućnost određenih oblika nagrađivanja korisnika.
+## Kripto industrija: “Potrebna je funkcionalna fleksibilnost”
 
-Prema njihovom prijedlogu, nagrade ne bi smjele funkcionirati kao klasična kamata na pasivno držanje sredstava, ali bi određeni oblici poticaja trebali ostati dopušteni.
+Kao odgovor, Digital Chamber — jedna od najutjecajnijih kripto organizacija u Washingtonu — objavila je vlastite principe, čime je sukob dobio i službeni institucionalni oblik.
 
-Digital Chamber također prihvaća ideju dvogodišnje studije o utjecaju stablecoina na bankarske depozite, ali uz uvjet da takva studija ne rezultira automatskim regulatornim ograničenjima.
+Njihov stav nije potpuno suprotan, ali je znatno fleksibilniji.  
+Kripto sektor je spreman odustati od modela koji izgleda kao klasična kamata na pasivno držanje stablecoina, ali inzistira da **određeni oblici nagrada i poticaja moraju ostati dopušteni**.
 
-Ovo pokazuje da kripto sektor pokušava pronaći srednji put — bez potpunog povlačenja.
+To može uključivati:
 
-## GENIUS Act i šira politička pozadina
+- nagrade povezane s korištenjem protokola,
+- distribuciju prihoda iz infrastrukture,
+- poticaje unutar DeFi ekosustava.
 
-Stablecoini su već bili predmet zakonodavne inicijative poznate kao GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins). Taj zakon trebao je stvoriti okvir za izdavanje i nadzor stablecoina u SAD-u.
+Digital Chamber je također prihvatio ideju dvogodišnje studije o utjecaju stablecoina na bankarske depozite — ali uz ključni uvjet:  
+**studija ne smije automatski rezultirati regulatornim zabranama.**
 
-Međutim, aktualne izmjene i rasprave pokazuju da je politički konsenzus daleko od postignutog. Stablecoini su postali više od tehničkog pitanja — oni su sada dio šire borbe za kontrolu nad digitalnim dolarom.
+## GENIUS Act i politička borba za digitalni dolar
 
-## Zašto je ovo ključno?
+Rasprava se odvija u kontekstu zakona poznatog kao **GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins)**, koji bi trebao definirati pravila za izdavanje i nadzor stablecoina u SAD-u.
 
-Stablecoini predstavljaju jednu od najbrže rastućih kategorija unutar kripto tržišta. Oni služe kao most između tradicionalnih financija i blockchain sustava, omogućujući:
+Ono što je nekad bilo tehničko pitanje financijske inovacije sada je postalo **politička borba za kontrolu nad digitalnim dolarom**.
 
-- brza poravnanja,
-- međunarodne transfere bez bankarskih posrednika,
-- integraciju u DeFi protokole.
+Stablecoini su danas ključni infrastrukturni element kripto tržišta. Oni omogućuju:
 
-Ako se zabrani model nagrađivanja, stablecoini bi mogli postati manje konkurentni u odnosu na tradicionalne financijske proizvode.
+- brze globalne transfere,
+- poravnanja bez bankarskih posrednika,
+- integraciju u decentralizirane financije (DeFi – Decentralized Finance),
+- tokenizaciju realne imovine.
 
-S druge strane, banke tvrde da bi prevelika fleksibilnost mogla destabilizirati postojeći monetarni sustav.
+Zabrana prinosa mogla bi značajno promijeniti dinamiku tržišta.
 
-Riječ je, zapravo, o borbi za kontrolu nad budućom infrastrukturom digitalnog novca.
+## Zašto je ovaj trenutak povijesno važan?
+
+Ovo je **prvi put da je sukob između bankarskog i kripto sektora formalno dokumentiran kroz suprotstavljene principe**. Do sada su pregovori bili politički i zakulisni; sada su stavovi javno zapisani.
+
+To znači da regulacija stablecoina ulazi u novu fazu — fazu u kojoj će kompromis ili izostanak kompromisa imati dugoročne posljedice na cijelu digitalnu financijsku infrastrukturu.
+
+Riječ je o borbi za definiciju:  
+Je li stablecoin samo digitalni token vezan uz dolar — ili je potencijalna zamjena za bankarski depozit?
 
 ---
 
 ## Naš osvrt (Metaadvisor):
 
-- 🏦 Banke pokušavaju zaštititi depozitni model kao ključni izvor prihoda.
-- ⚖️ Stablecoini su postali političko pitanje, a ne samo tehnološko.
-- 🔄 Kompromis je moguć, ali obje strane brane temeljne interese.
-- 🚀 Ishod ove rasprave mogao bi definirati budućnost digitalnog dolara.
+- 🏦 **Banke brane svoj temeljni izvor prihoda — depozite.**
+- 📜 Ovo je prvi službeni, dokumentirani regulatorni sukob.
+- ⚖️ Kompromis je moguć, ali temeljni interesi su suprotstavljeni.
+- 🚀 Ishod će definirati budućnost stablecoina i digitalnog dolara.
 
 ---
 
