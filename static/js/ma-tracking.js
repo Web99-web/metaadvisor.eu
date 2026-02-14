@@ -25,11 +25,11 @@
   // wait for page to be visible + small delay
   function geoSafeInit() {
     if (document.visibilityState === 'visible') {
-      setTimeout(sendInitialPageView, 1200);
+      setTimeout(sendInitialPageView, 120);
     } else {
       document.addEventListener('visibilitychange', () => {
         if (document.visibilityState === 'visible') {
-          setTimeout(sendInitialPageView, 1200);
+          setTimeout(sendInitialPageView, 120);
         }
       }, { once: true });
     }
