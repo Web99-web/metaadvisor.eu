@@ -81,4 +81,40 @@ function showCopyNotice() {
     notice.style.opacity = "0";
   }, 1500);
 }
+function copyArticleLink(url) {
+
+  function trackCopy() {
+    if (typeof gtag === "function") {
+      gtag('event', 'share_copy', {
+        event_category: 'engagement',
+        event_label: url
+      });
+    }
+  }
+
+  if (navigator.clipboard && window.isSecureContext) {
+    navigator.clipboard.writeText(url).then(() => {
+      showCopyNotice();
+      trackCopy();
+    }).catch(() => {
+      fallbackCopy(url);
+    });
+  } else {
+    fallbackCopy(url);
+  }
+
+  function fallbackCopy(text) {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.style.position = "fixed";
+    textarea.style.left = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    document.execCommand("copy");
+    document.body.removeChild(textarea);
+
+    showCopyNotice();
+    trackCopy();
+  }
+}
 
