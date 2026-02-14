@@ -402,3 +402,55 @@ img.card-img{
     max-height: var(--card-summary-maxh) !important;
   }
 }
+
+/* =========================
+   SHARE BOX (article)
+========================= */
+.share-box {
+  margin: 45px 0 30px;
+  padding-top: 25px;
+  border-top: 1px solid #e6e6e6;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  position: relative;
+}
+
+.share-label {
+  font-weight: 600;
+  font-size: 14px;
+  margin-right: 10px;
+  color: #111;
+}
+
+.share-btn {
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: #fff;
+  transition: all 0.25s ease;
+}
+
+.share-btn.x { background: #000; }
+.share-btn.fb { background: #1877f2; }
+.share-btn.li { background: #0a66c2; }
+.share-btn.copy { background: #444; }
+
+.share-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+  opacity: 0.9;
+}
+
+.copy-notice {
+  position: absolute;
+  right: 0;
+  font-size: 13px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  color: #28a745;
+}
