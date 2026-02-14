@@ -52,24 +52,42 @@
     subtree: true
   });
 
-  // --- simple scroll tracking (once per page) ---
-  let scrollSent = false;
+  // --- scroll tracking (05 / 50 / 90) ---
+let scroll05 = false;
+let scroll50 = false;
+let scroll90 = false;
 
-  window.addEventListener('scroll', () => {
-    if (scrollSent) return;
+window.addEventListener('scroll', () => {
 
-    const scrolled =
-      (window.scrollY + window.innerHeight) / document.documentElement.scrollHeight;
+  const scrolled =
+    (window.scrollY + window.innerHeight) / document.documentElement.scrollHeight;
 
-    if (scrolled > 0.05) {
-      scrollSent = true;
+  if (!scroll05 && scrolled > 0.05) {
+    scroll05 = true;
+    gtag('event', 'scroll_05', {
+      event_category: 'engagement',
+      event_label: location.pathname
+    });
+  }
 
-      gtag('event', 'scroll_05', {
-        event_category: 'engagement',
-        event_label: location.pathname
-      });
-    }
-  }, { passive: true });
+  if (!scroll50 && scrolled > 0.5) {
+    scroll50 = true;
+    gtag('event', 'scroll_50', {
+      event_category: 'engagement',
+      event_label: location.pathname
+    });
+  }
+
+  if (!scroll90 && scrolled > 0.9) {
+    scroll90 = true;
+    gtag('event', 'scroll_90', {
+      event_category: 'engagement',
+      event_label: location.pathname
+    });
+  }
+
+}, { passive: true });
+
 
 })();
 
