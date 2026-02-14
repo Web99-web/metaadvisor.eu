@@ -72,3 +72,13 @@
   }, { passive: true });
 
 })();
+
+function showCopyNotice() {
+  const notice = document.getElementById("copyNotice");
+  if (!notice) return;
+  notice.style.opacity = "1";
+  setTimeout(() => {
+    notice.style.opacity = "0";
+  }, 1500);
+}
+
