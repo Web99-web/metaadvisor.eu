@@ -447,10 +447,16 @@ img.card-img{
 }
 
 .copy-notice {
-  position: absolute;
-  right: 0;
-  font-size: 13px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background: #111;
+  color: #fff;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-size: 14px;
   opacity: 0;
   transition: opacity 0.3s ease;
-  color: #28a745;
+  z-index: 9999;
 }
+
