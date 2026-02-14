@@ -69,6 +69,25 @@
   <div class="post-body">
     {{ $p.Content }}
 
+    {{ if $isNews }}
+<div class="share-box">
+  <strong>Share this article:</strong>
+
+  <a href="https://twitter.com/intent/tweet?url={{ $p.Permalink | urlquery }}&text={{ $p.Title | urlquery }}"
+     target="_blank" rel="noopener">X</a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ $p.Permalink | urlquery }}"
+     target="_blank" rel="noopener">Facebook</a>
+
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ $p.Permalink | urlquery }}"
+     target="_blank" rel="noopener">LinkedIn</a>
+
+  <a href="#" onclick="navigator.clipboard.writeText('{{ $p.Permalink }}'); alert('Link copied!'); return false;">
+     Copy Link
+  </a>
+</div>
+{{ end }}
+
     {{ if and $isNews $p.Params.our_take }}
       <section class="our-take">
         <h3>{{ i18n "ourTake" | default "Our take" }}</h3>
