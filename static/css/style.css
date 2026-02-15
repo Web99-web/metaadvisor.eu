@@ -448,15 +448,16 @@ img.card-img{
 
 .copy-notice {
   position: fixed;
-  bottom: 30px;
-  right: 30px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   background: #111;
   color: #fff;
-  padding: 8px 14px;
-  border-radius: 6px;
-  font-size: 14px;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 15px;
   opacity: 0;
   transition: opacity 0.3s ease;
-  z-index: 9999;
+  z-index: 99999;
 }
 
