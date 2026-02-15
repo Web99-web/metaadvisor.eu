@@ -30,7 +30,7 @@ Slika je simbolična.
 
 # BTC, ETH i XRP pod povećalom: pokušaj proboja, ali bez potvrde trenda
 
-Kripto tržište 15. veljače pokazalo je koliko je trenutna faza osjetljiva i nestabilna. Ethereum (ETH) je u jednom trenutku probio razinu od 2.100 američkih dolara, da bi se tijekom dana ponovno spustio ispod psihološke granice od 2.000 USD. Bitcoin (BTC) je oscilirao oko 68.000 USD, dok je XRP pokazao relativnu snagu u odnosu na vodeće kriptovalute.
+Kripto tržište 15. veljače pokazalo je koliko je trenutna faza osjetljiva i nestabilna. Ethereum (ETH) je u jednom trenutku probio razinu od 2.100 američkih dolara, da bi se tijekom dana ponovno spustio ispod psihološke granice od 2.000 USD. Bitcoin je testirao područje blizu 70.000 USD, no bez zadržavanja iznad te razine, nakon čega se povukao prema zoni oko 68.000 USD, dok je XRP pokazao relativnu snagu u odnosu na vodeće kriptovalute.
 
 Na prvi pogled riječ je o “još jednom volatilnom danu”. No ispod površine krije se kompleksnija priča o likvidnosti, sentimentu, rotaciji kapitala i strukturalnim promjenama u tržišnoj dinamici.
 
