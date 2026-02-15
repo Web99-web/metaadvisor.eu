@@ -158,7 +158,8 @@ Koliko ljudi danas proda “svojih 10%” jer žele sigurnost?
 
 Koliko ljudi nikad ne sazna što je moglo biti?
 
-Ronald Wayne nije bio budala.
+Ronald Wayne nije donio ludu odluku.
+Donio je odgovornu odluku — za čovjeka u njegovoj situaciji, čovjeka koji je imao što izgubiti.
 
 Bio je oprezan.
 
