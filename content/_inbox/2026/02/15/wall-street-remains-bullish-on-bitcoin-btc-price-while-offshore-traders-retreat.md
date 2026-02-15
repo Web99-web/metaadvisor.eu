@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-A divergence in global bitcoin BTC $ 69,333.71 market sentiment is widening as U.S. institutional investors hold steady while offshore traders retreat from their positions.
+A divergence in global bitcoin BTC $ 70,413.42 market sentiment is widening as U.S. institutional investors hold steady while offshore traders retreat from their positions.
 
 The gap is clearest in futures markets. CME, the go-to platform for hedge funds and institutional desks in the U.S., shows traders are still paying a premium to stay long on bitcoin, according to NYDIG’s head of research, Greg Cipolaro.
 
@@ -27,6 +27,6 @@ For one, bitcoin’s performance has closely tracked that of publicly traded qua
 
 Instead, they dropped together, pointing to a broader decline in appetite for long-term, future-driven assets. On top of that, search data on Google Trends shows interest for “quantum computing bitcoin” rises when the price of BTC rises.
 
-Bitcoin claws back to $70,000 on cooling inflation after $8.7 billion wipeout
+BlackRock's digital assets head: Leverage-driven volatility threatens bitcoin’s narrative
 
-Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market
+Rampant speculation on crypto derivatives platforms is fueling volatility and risking bitcoin’s image as a stable hedge, says BlackRock’s digital assets
