@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-A divergence in global bitcoin BTC $ 70,324.20 market sentiment is widening as U.S. institutional investors hold steady while offshore traders retreat from their positions.
+A divergence in global bitcoin BTC $ 69,333.71 market sentiment is widening as U.S. institutional investors hold steady while offshore traders retreat from their positions.
 
 The gap is clearest in futures markets. CME, the go-to platform for hedge funds and institutional desks in the U.S., shows traders are still paying a premium to stay long on bitcoin, according to NYDIG’s head of research, Greg Cipolaro.
 
