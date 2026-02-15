@@ -463,4 +463,46 @@ img.card-img{
   box-shadow: 0 10px 30px rgba(0,0,0,0.3);  /* ⬅ OVDJE */
 }
 
+/* =========================
+   FOOTER SOCIAL (Follow buttons)
+========================= */
+.footer-social {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.follow-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.footer-social-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.social-btn {
+  display: inline-block;
+  padding: 10px 22px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 0;
+  color: #fff;
+  transition: all 0.2s ease;
+}
+
+.social-btn:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
+/* Platform colors */
+.social-btn.x { background: #000; }
+.social-btn.fb { background: #1877f2; }
+.social-btn.ig { background: #e1306c; }
+.social-btn.tt { background: #000; }
 
