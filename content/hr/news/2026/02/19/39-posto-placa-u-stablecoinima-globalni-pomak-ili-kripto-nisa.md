@@ -1,7 +1,7 @@
 ---
 title: "Čak 39% ispitanika prima dio plaće u stablecoinima – globalni pomak ili statistika iz uskog kripto kruga?"
 slug: "39-posto-placa-u-stablecoinima-globalni-pomak-ili-kripto-nisa"
-date: 3036-02-19T12:00:00Z
+date: 2026-02-19T12:00:00Z
 category: "crypto"
 translationKey: "stablecoin-salaries-global-trend-20260218"
 source: "BNVK survey"
