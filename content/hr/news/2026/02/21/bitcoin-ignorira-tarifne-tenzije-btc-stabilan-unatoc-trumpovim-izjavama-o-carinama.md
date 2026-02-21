@@ -40,18 +40,19 @@ Važno je naglasiti da su prethodne Trumpove izjave o carinama u više navrata i
 
 Međutim, aktualne vijesti nisu proizvele sličan intenzitet reakcije, što upućuje na bržu apsorpciju makro šokova i zreliji odgovor tržišta.
 
-## Je li Bitcoin sazrio?
+## Je li Bitcoin postao otporniji – ili samo selektivno reagira?
 
-U razdoblju od 2020. do 2022. godine Bitcoin je bio snažno povezan s tehnološkim dionicama i reagirao je na odluke američke središnje banke (FED – Federal Reserve, američka centralna banka). Tada se BTC često smatrao “high-risk” imovinom, podložnom istim pritiscima kao i Nasdaq indeks.
+Bitcoin i dalje reagira na makro vijesti, uključujući izjave o carinama, kamatnim stopama i geopolitičkim tenzijama. U posljednjih nekoliko mjeseci tržište je pokazalo da i dalje može snažno oscilirati čim se pojavi politički naslov.
 
-Danas je situacija drukčija.
+No učestale promjene tona i ponavljane najave bez neposredne implementacije dovele su do svojevrsne „headline fatigue” reakcije – investitori sve češće čekaju konkretne poteze, umjesto da reagiraju na svaku izjavu.
 
-- Postoje spot ETF-ovi na Bitcoin  
-- Institucionalni investitori imaju dugoročne pozicije  
-- Likvidnost je stabilnija  
-- Tržište je regulativno jasnije nego prije nekoliko godina  
+Međutim, razlika je u brzini reakcije. Dok su ranije političke izjave znale pokrenuti višednevne trendove, sada se sve češće radi o kratkotrajnim pomacima koje tržište relativno brzo apsorbira.
 
-Metaadvisor primjećuje da su reakcije na makro vijesti sada kraće i manje dramatične, iako volatilnost i dalje ostaje sastavni dio kripto tržišta.
+To ne znači da je BTC „imun”. To znači da je tržište likvidnije, algoritamski brže i institucionalno strukturiranije nego prije nekoliko godina.
+
+Spot ETF-ovi, veća prisutnost fondova i aktivno upravljanje rizikom mijenjaju dinamiku. Bitcoin više nije isključivo retail-driven tržište, ali i dalje ostaje volatilna imovina.
+
+Metaadvisor stoga ne govori o sazrijevanju u smislu stabilnosti, već o promjeni načina na koji tržište procesuira makro šokove.
 
 ## Digitalno zlato ili rizična imovina?
 
