@@ -28,9 +28,9 @@ summary: "USDT is seeing its largest monthly supply decline since the 2022 FTX c
 
 # USDT Records Biggest Monthly Decline Since the FTX Collapse
 
-The stablecoin USDT, issued by Tether, is experiencing its largest monthly supply decline since the dramatic collapse of FTX in late 2022. While USDT continues to maintain its 1:1 peg to the US dollar, the total number of tokens in circulation is shrinking — and that inevitably raises questions about confidence, liquidity and broader market conditions.
+The stablecoin USDT, issued by Tether, has seen its circulating supply decline by approximately $1.5 billion so far in February, following a $1.2 billion decrease in January. According to Artemis Analytics data reported by Bloomberg, this puts USDT on track for its largest monthly supply contraction in three years — since the weeks following the collapse of cryptocurrency exchange FTX in November 2022.
 
-For readers of Metaadvisor.eu, it is important to clarify that this is not a traditional “price crash.” Instead, it refers to a reduction in market capitalization — meaning fewer tokens are currently in circulation.
+While USDT continues to maintain its 1:1 peg to the US dollar, the total number of tokens in circulation is shrinking — raising questions about liquidity dynamics and broader market positioning.
 
 ## What Does a Decline in USDT Supply Actually Mean?
 
@@ -49,11 +49,9 @@ As Metaadvisor often highlights, stablecoin flows are one of the clearest indica
 
 ## The FTX Parallel
 
-When FTX collapsed in November 2022, the crypto market experienced a severe trust shock. Investors withdrew funds from exchanges and stablecoins at record speed.
+After FTX collapsed in November 2022, USDT’s circulating supply fell by roughly $2 billion in December of that year. That contraction was driven by a sharp loss of confidence and widespread capital withdrawals following the failure of FTX and its numerous affiliated entities.
 
-Back then, USDT supply contraction reflected systemic fear. Today, the context is different. There are no visible signs of a major exchange failure or cascading insolvencies.
-
-Still, the fact that this is the biggest monthly decline since that period makes it a development worth watching closely — especially for the Metaadvisor audience tracking structural market shifts.
+Today’s environment appears fundamentally different. There are no visible signs of a systemic exchange collapse or cascading insolvencies. However, the fact that the current decline is the largest since that period gives it structural relevance — particularly for long-term liquidity analysis within the crypto market.
 
 ## Liquidity Is the Market’s Lifeblood
 
