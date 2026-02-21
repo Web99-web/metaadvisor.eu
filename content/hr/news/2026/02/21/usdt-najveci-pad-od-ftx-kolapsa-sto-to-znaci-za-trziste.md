@@ -28,9 +28,9 @@ summary: "USDT bilježi najveći mjesečni pad ponude od kolapsa FTX-a 2022. god
 
 # USDT bilježi najveći mjesečni pad od FTX kolapsa
 
-Stablecoin USDT, koji izdaje tvrtka Tether, suočava se s najvećim mjesečnim padom ukupne ponude još od dramatičnog kolapsa burze FTX krajem 2022. godine. Iako USDT i dalje održava svoju vezu 1:1 s američkim dolarom, broj tokena u opticaju se smanjuje, a to uvijek izaziva pitanja o povjerenju, likvidnosti i stanju tržišta.
+Stablecoin USDT, koji izdaje tvrtka Tether, bilježi pad ponude od oko 1,5 milijardi dolara u veljači, nakon što je u siječnju zabilježen dodatni pad od približno 1,2 milijarde dolara. Prema podacima Artemis Analytics, riječ je o potencijalno najvećem mjesečnom smanjenju ponude u posljednje tri godine – još od razdoblja nakon kolapsa burze FTX u studenom 2022. godine.
 
-Za čitatelje Metaadvisora važno je naglasiti da se ovdje ne radi o “padu cijene” u klasičnom smislu, već o smanjenju tržišne kapitalizacije – odnosno ukupnog broja izdanih tokena.
+Iako USDT i dalje održava vezu 1:1 s američkim dolarom, broj tokena u opticaju se smanjuje, a to uvijek otvara pitanja o povjerenju, likvidnosti i širem stanju tržišta.
 
 ## Što zapravo znači pad USDT ponude?
 
@@ -49,11 +49,9 @@ Pad ponude USDT-a stoga nije automatski znak panike, ali je snažan signal o pro
 
 ## Paralela s FTX kolapsom
 
-Kada je FTX – jedna od najvećih svjetskih kripto burzi – bankrotirala u studenom 2022., tržište je doživjelo šok bez presedana. Povjerenje je nestalo gotovo preko noći, a investitori su masovno povlačili sredstva iz burzi i stablecoina.
+Nakon kolapsa burze FTX u studenom 2022., USDT je u prosincu iste godine zabilježio smanjenje ponude od oko 2 milijarde dolara. Taj pad bio je rezultat naglog gubitka povjerenja i masovnog povlačenja kapitala iz kripto ekosustava.
 
-Tada je smanjenje USDT ponude bilo dio šireg vala nepovjerenja. Danas je situacija bitno drugačija. Nema naznaka sistemskog kolapsa velike burze, niti lančanog bankrota.
-
-Ipak, činjenica da je ovo najveći mjesečni pad od tog razdoblja ne može se ignorirati.
+Današnja situacija je bitno drukčija. Nema sistemskog bankrota velike burze niti lančanog efekta panike. Međutim, činjenica da je trenutačni pad najveći od tog razdoblja daje mu dodatnu težinu i zahtijeva pažljivo promatranje.
 
 ## Likvidnost kao krvotok tržišta
 
