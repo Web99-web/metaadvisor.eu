@@ -28,9 +28,9 @@ summary: "USDT verzeichnet den größten monatlichen Angebotsrückgang seit dem 
 
 # USDT verzeichnet größten monatlichen Rückgang seit dem FTX-Kollaps
 
-Der Stablecoin USDT, ausgegeben von Tether, erlebt den größten monatlichen Rückgang seines Gesamtangebots seit dem dramatischen Zusammenbruch der Börse FTX Ende 2022. Obwohl USDT weiterhin seine 1:1-Bindung an den US-Dollar hält, sinkt die Anzahl der im Umlauf befindlichen Token – und das wirft Fragen zu Vertrauen, Liquidität und Marktstimmung auf.
+Der Stablecoin USDT, ausgegeben von Tether, verzeichnet im Februar einen Angebotsrückgang von rund 1,5 Milliarden US-Dollar, nachdem bereits im Januar ein Minus von etwa 1,2 Milliarden US-Dollar registriert wurde. Laut Daten von Artemis Analytics, über die Bloomberg berichtete, steuert USDT damit auf den größten monatlichen Rückgang seit drei Jahren zu – seit den Wochen nach dem Zusammenbruch der Kryptobörse FTX im November 2022.
 
-Für die Leser von Metaadvisor ist wichtig zu betonen, dass es sich nicht um einen „Preisverfall“ im klassischen Sinne handelt, sondern um einen Rückgang der Marktkapitalisierung – also der Gesamtzahl ausgegebener Token.
+Obwohl USDT weiterhin seine 1:1-Bindung an den US-Dollar hält, sinkt die Anzahl der im Umlauf befindlichen Token – und das wirft Fragen zu Vertrauen, Liquidität und Marktstimmung auf.
 
 ## Was bedeutet ein Rückgang des USDT-Angebots?
 
@@ -49,11 +49,9 @@ Ein Rückgang des USDT-Angebots ist also kein automatisches Paniksignal, aber ei
 
 ## Parallelen zum FTX-Kollaps
 
-Als FTX im November 2022 Insolvenz anmeldete, erlebte der Kryptomarkt einen beispiellosen Schock. Das Vertrauen verschwand fast über Nacht, und Investoren zogen massenhaft Gelder von Börsen und aus Stablecoins ab.
+Nach dem Kollaps von FTX im November 2022 sank das USDT-Angebot im Dezember desselben Jahres um rund 2 Milliarden US-Dollar. Damals war der Rückgang Teil einer breiten Vertrauenskrise, die durch den Zusammenbruch von FTX und seinen zahlreichen Tochtergesellschaften ausgelöst wurde.
 
-Damals war der Rückgang des USDT-Angebots Teil einer umfassenden Vertrauenskrise. Heute ist die Situation deutlich anders. Es gibt keine Hinweise auf einen systemischen Zusammenbruch einer großen Börse oder eine Kettenreaktion von Insolvenzen.
-
-Dennoch ist die Tatsache, dass dies der größte monatliche Rückgang seit jener Zeit ist, bemerkenswert.
+Die heutige Situation ist jedoch grundlegend anders. Es gibt keine Hinweise auf einen systemischen Börsenkollaps oder eine Kettenreaktion von Insolvenzen. Dennoch ist die Tatsache, dass der aktuelle Rückgang der größte seit jener Phase ist, von erheblicher Bedeutung.
 
 ## Liquidität als Lebensader des Marktes
 
