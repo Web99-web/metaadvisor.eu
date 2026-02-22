@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Google searches in the U.S. for "bitcoin zero" surged to a record 100 on the company's relative interest scale in February, coinciding with bitcoin's BTC $ 68,252.25 slide toward $60,000 after a 50%-plus drawdown from its October all-time high.
+Google searches in the U.S. for "bitcoin zero" surged to a record 100 on the company's relative interest scale in February, coinciding with bitcoin's BTC $ 67,996.25 slide toward $60,000 after a 50%-plus drawdown from its October all-time high.
 
 The spike could be read as a signal of widespread capitulation and, potentially, a contrarian buy signal. Similar peaks in 2021 and 2022 occurred near local lows in the bitcoin price.
 
