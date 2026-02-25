@@ -94,3 +94,7 @@ Stripeov fokus na stablecoine ilustrira širu transformaciju kripto sektora. Umj
 Ako stablecoini nastave rasti kroz B2B primjenu i integraciju u mainstream platne mreže, mogli bismo svjedočiti fazi u kojoj blockchain postaje nevidljivi dio svakodnevne financijske infrastrukture.
 
 A to bi mogla biti dugoročno važnija promjena od bilo kojeg kratkoročnog rasta cijene.
+
+<p style="font-size:0.85em; color:#6b7280; margin-top:28px; font-style:italic;">
+Disclaimer: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja pravni, investicijski niti sigurnosni savjet.
+</p>
