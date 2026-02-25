@@ -1,5 +1,5 @@
 ---
-title: "EVM wallet hack: stotine Ethereum novčanika ispražnjene u tihom napadu"
+title: "EVM wallet hack: stotine Ethereum novčanika ispražnjene u tihom napadu, prema ZachXBT"
 slug: "evm-wallet-hack-stotine-ethereum-novcanika-ispranjene"
 date: 2026-01-06T06:00:00+01:00
 category: "crypto"
@@ -19,6 +19,7 @@ tags:
   - evm
   - wallet
   - hack
+  - ZachXBT
   - cybersecurity
   - crypto
 ---
@@ -33,15 +34,15 @@ tags:
 
 ## Što se dogodilo?
 
-Početkom siječnja 2026. zabilježen je široko rasprostranjen, ali relativno tih napad na Ethereum Virtual Machine (EVM) kompatibilne wallet novčanike. Napadač je ciljao velik broj adresa i iz svake povlačio manje iznose, najčešće ispod 2.000 USD, što je omogućilo da napad dulje ostane ispod radara.
+Početkom siječnja 2026. on-chain istraživač **ZachXBT** prvi je upozorio na neuobičajen, ali široko rasprostranjen napad usmjeren na Ethereum Virtual Machine (EVM) kompatibilne wallet novčanike. Prema njegovim nalazima, napadač je ciljao velik broj adresa i iz svake povlačio manje iznose, najčešće ispod 2.000 USD, čime je napad dulje ostao ispod radara.
 
-Iako su pojedinačni gubici ograničeni, ukupni broj pogođenih korisnika mjeri se u stotinama, što jasno ukazuje na automatizirani i koordinirani napad.
+Umjesto jednog velikog upada, riječ je o modelu “raspršenog pražnjenja” sredstava. Iako su pojedinačni gubici bili ograničeni, broj pogođenih korisnika mjerio se u stotinama, što jasno upućuje na automatizirani i koordinirani napad.
 
 ## Kako je napad izveden?
 
-Prema on-chain istraživačima, napad je zahvatio više EVM-kompatibilnih mreža, što upućuje na zajednički vektor napada, a ne na problem jednog blockchaina. Kao najvjerojatniji uzrok navode se phishing poruke koje su se predstavljale kao legitimne wallet obavijesti, kao i ranije odobrene dozvole pametnih ugovora koje korisnici nisu opozvali.
+Prema analizi koju su podijelili ZachXBT i drugi on-chain istraživači, napad je zahvatio više EVM-kompatibilnih mreža, što sugerira zajednički vektor napada, a ne ranjivost specifičnu za jedan blockchain.
 
-U praksi je često dovoljan samo jedan stari potpis ili odobrenje da napadač dobije pristup sredstvima bez dodatne interakcije korisnika.
+Kao najvjerojatniji uzrok navode se phishing poruke koje su se predstavljale kao legitimne wallet obavijesti te ranije odobrene dozvole pametnih ugovora koje korisnici nisu opozvali. U mnogim slučajevima nije bila potrebna nova interakcija korisnika — dovoljan je bio stari potpis ili aktivna dozvola kako bi napadač pristupio sredstvima.
 
 ## 🔵 <a href="https://metaadvisor.eu/hr/news/trust-wallet-hakiran-bozic-25122025/" style="color:#1e40af; text-decoration:none; font-weight:700;">
 Poveznica s Trust Wallet incidentom
