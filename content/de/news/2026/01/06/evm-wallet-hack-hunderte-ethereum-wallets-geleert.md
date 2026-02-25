@@ -1,5 +1,5 @@
 ---
-title: "EVM-Wallet-Hack: Hunderte Ethereum-Wallets in stillem Angriff geleert"
+title: "EVM-Wallet-Hack: Hunderte Ethereum-Wallets in stillem Angriff geleert – laut ZachXBT"
 slug: "evm-wallet-hack-hunderte-ethereum-wallets-geleert"
 date: 2026-01-06T06:00:00+01:00
 category: "crypto"
@@ -19,6 +19,7 @@ tags:
   - evm
   - wallet
   - hack
+  - ZachXBT
   - cybersicherheit
   - crypto
 ---
@@ -30,17 +31,18 @@ tags:
      👉 Bitget-Bonus von bis zu 6.200 USDT sichern — hier registrieren
   </a>
 </p>
+
 ## Was ist passiert?
 
-Anfang Januar 2026 wurde ein ungewöhnlicher, aber weit verbreiteter Angriff auf **Ethereum-Virtual-Machine-(EVM)-kompatible Wallets** festgestellt. Anstatt einzelner großer Diebstähle entnahm der Angreifer vielen Wallets kleine Beträge, meist unter 2.000 US-Dollar. Dadurch blieb der Angriff längere Zeit unauffällig.
+Anfang Januar 2026 machte der On-Chain-Ermittler **ZachXBT** erstmals auf einen ungewöhnlichen, aber weit verbreiteten Angriff auf **Ethereum-Virtual-Machine-(EVM)-kompatible Wallets** aufmerksam. Statt einzelner großer Diebstähle entnahm der Angreifer zahlreichen Wallets kleine Beträge, meist unter 2.000 US-Dollar, wodurch der Vorfall länger unbemerkt blieb.
 
-Auch wenn die Verluste pro Nutzer begrenzt waren, wurden insgesamt Hunderte Wallets betroffen — ein klares Zeichen für einen automatisierten und koordinierten Angriff.
+Obwohl die Verluste pro Nutzer begrenzt waren, waren insgesamt Hunderte Wallets betroffen — ein deutliches Zeichen für einen automatisierten und koordinierten Angriff.
 
 ## Wie wurde der Angriff durchgeführt?
 
-Laut On-Chain-Analysten betraf der Angriff mehrere EVM-kompatible Netzwerke, was auf einen gemeinsamen Angriffsvektor hindeutet. Als wahrscheinliche Ursachen gelten Phishing-Nachrichten, die als legitime Wallet-Benachrichtigungen getarnt waren, sowie zuvor erteilte Smart-Contract-Freigaben, die von Nutzern nicht widerrufen wurden.
+Nach Analysen von ZachXBT und weiteren On-Chain-Experten betraf der Angriff mehrere EVM-kompatible Netzwerke, was auf einen gemeinsamen Angriffsvektor und nicht auf eine einzelne Blockchain-Schwachstelle hindeutet.
 
-In vielen Fällen reichte eine alte Signatur oder Genehmigung aus, um Angreifern Zugriff auf die Mittel zu ermöglichen — ohne weitere Nutzerinteraktion.
+Als wahrscheinliche Ursachen gelten Phishing-Nachrichten, die als legitime Wallet-Benachrichtigungen getarnt waren, sowie zuvor erteilte Smart-Contract-Freigaben, die von Nutzern nicht widerrufen wurden. In vielen Fällen reichte eine alte Signatur oder Genehmigung aus, um Angreifern Zugriff auf die Mittel zu ermöglichen — ohne weitere Nutzerinteraktion.
 
 ## 🔵 <a href="https://metaadvisor.eu/de/news/trust-wallet-ge-hackt-weihnachten-25122025/" style="color:#1e40af; text-decoration:none; font-weight:700;">
 Zusammenhang mit dem Trust-Wallet-Hack
