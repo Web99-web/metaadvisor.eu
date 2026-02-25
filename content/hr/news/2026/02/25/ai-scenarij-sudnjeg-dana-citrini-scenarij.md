@@ -4,8 +4,8 @@ slug: "ai-scenarij-sudnjeg-dana-citrini-scenarij"
 date: 2026-02-25T16:30:00Z
 category: "ai"
 translationKey: "ai-doomsday-feedback-loop-2026"
-source: "Market analysis"
-source_url: ""
+source: "The Guardian Tech; Citrini Research (Substack)"
+source_url: "https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets"
 author: "Metaadvisor.eu"
 image_url: "/images/AI-doomsday-loop.png"
 featured_image: "/images/AI-doomsday-loop.png"
@@ -13,8 +13,8 @@ image: "/images/AI-doomsday-loop.png"
 thumbnail: "/images/AI-doomsday-loop.png"
 image_alt: "AI feedback loop scenarij i ekonomski utjecaj umjetne inteligencije"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
-tags: ["AI", "umjetna inteligencija", "Citrini Research", "AI ekonomija", "automatizacija", "nezaposlenost", "tržišna volatilnost", "makroekonomija", "AI agenti", "regulacija AI"]
-summary: "Analitička kuća Citrini Research objavila je spekulativni AI scenarij sudnjeg dana‘feedback loop’ scenarij koji opisuje potencijalnu ekonomsku spiralu bez kočnice. Iako je riječ o hipotetskom modelu, reakcija tržišta pokazuje koliko su investitori i radnici osjetljivi na pitanje budućnosti zaposlenja u eri umjetne inteligencije."
+tags: ["AI", "umjetna inteligencija", "Citrini Research", "AI ekonomija", "automatizacija", "nezaposlenost", "tržišna volatilnost", "makroekonomija", "AI agenti", "Wall Street", "Uber", "Mastercard", "American Express", "DoorDash", "regulacija AI"]
+summary: "Citrini Research na Substacku objavio je spekulativni AI scenarij sudnjeg dana u kojem autonomni agenti pokreću ekonomsku spiralu bez kočnice. Guardian Tech piše da je izvještaj uzdrmao tržišta i srušio dionice pojedinih velikih kompanija."
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">
@@ -26,58 +26,62 @@ summary: "Analitička kuća Citrini Research objavila je spekulativni AI scenari
 
 <small>Slika je simbolična.</small>
 
-# AI ‘feedback loop’ bez kočnice? Scenarij Citrini Researcha uzdrmao tržišta
+# AI scenarij sudnjeg dana: Je li ‘feedback loop’ bez kočnice realna prijetnja?
 
-Objava analitičke kuće Citrini Research na platformi Substack izazvala je val zabrinutosti među investitorima i ponovno otvorila pitanje: može li umjetna inteligencija pokrenuti ekonomsku spiralu bez kočnice?
+Objava analitičke kuće Citrini Research na Substacku pod naslovom “The 2028 Global Intelligence Crisis” izazvala je snažnu reakciju na američkim tržištima. Iako su autori jasno naglasili da je riječ o “scenariju, a ne predviđanju”, opis budućnosti u kojoj autonomni AI agenti destabiliziraju gospodarstvo bio je dovoljno snažan da potakne pad dionica i novu rundu nervoze na Wall Streetu.
 
-Riječ je o scenariju – ne prognozi – u kojem se opisuje niz događaja koji bi, u teoriji, mogli dovesti do ozbiljnog poremećaja američkog gospodarstva do 2028. godine. U središtu priče nalaze se autonomni AI agenti koji masovno preuzimaju kognitivne poslove, smanjuju potrebu za zaposlenicima i pokreću lančanu reakciju smanjenja potrošnje, pada prihoda i dodatnih otkaza.
+Guardian Tech piše da su investitori reagirali osjetljivo, a pojedine kompanije koje su izrijekom spomenute u apokaliptičnom modelu – uključujući Uber, Mastercard, American Express i DoorDash – zabilježile su pad vrijednosti između četiri i šest posto. Širi indeks S&P 500 također je oslabio, dok je softverski sektor dotaknuo najniže razine u posljednjim mjesecima.
 
-Cijela situacija pomalo podsjeća na poznatu radijsku dramu “Rat svjetova” iz 1938. godine, kada su slušatelji povjerovali da Marsovci zaista napadaju Zemlju. Razlika je, međutim, u tome što je današnji strah ukorijenjen u stvarnoj tehnološkoj transformaciji i realnoj zabrinutosti za radna mjesta.
+## Kako izgleda scenarij sudnjeg dana
 
-## Kako izgleda “feedback loop” bez kočnice
+U središtu modela koji opisuje Citrini Research nalazi se ideja “feedback loopa bez kočnice”. Prema tom scenariju, autonomni AI agenti postupno preuzimaju veliki dio bijelo-okovnog rada – od softverskog razvoja do financijske analitike i administracije.
 
-Prema opisanom scenariju, AI agenti postupno preuzimaju zadatke u softverskim kompanijama, financijskim institucijama i administraciji. Kako kompanije smanjuju troškove rada, dio zaposlenika ostaje bez prihoda. Posljedično pada potrošnja, a smanjenje potrošnje dodatno pritišće prihode poduzeća.
+Kako kompanije smanjuju troškove rada, raste nezaposlenost. Pad prihoda kućanstava vodi smanjenju potrošnje, a smanjena potrošnja dodatno pritišće prihode poduzeća. Sljedeći korak su novi rezovi i otkazi. Spirala se ubrzava.
 
-U takvom modelu nastaje povratna petlja: manje prihoda vodi novim rezovima, novi rezovi smanjuju potražnju, a smanjena potražnja dodatno destabilizira tržište rada.
+Scenarij ide korak dalje i predviđa nezaposlenost iznad 10%, slabljenje privatnog kreditnog tržišta i pritisak na hipotekarni sektor. U takvom modelu čak i kompanije koje danas djeluju stabilno postaju osjetljive na lančanu reakciju smanjenja potražnje.
 
-Iako je riječ o hipotetskoj konstrukciji, tržišta su reagirala osjetljivo. Dionice pojedinih tehnoloških i potrošačkih kompanija zabilježile su pad, a rasprava o utjecaju AI-ja na zaposlenost ponovno je izbila u prvi plan.
+Iako je riječ o hipotetskoj konstrukciji, ton teksta i preciznost narativa ostavljaju snažan dojam. Upravo ta kombinacija detalja i dramatične projekcije izazvala je jezu među investitorima.
 
-## Strah od automatizacije nije nov
+## Zašto su spomenute baš te kompanije
 
-Povijest pokazuje da tehnološke revolucije gotovo uvijek izazivaju slične strahove. Industrijska revolucija, pojava računala i internet transformacija pratili su scenariji masovne nezaposlenosti i ekonomskog sloma.
+U scenariju su navedene konkretne kompanije, osobito one čiji poslovni modeli ovise o digitalnoj infrastrukturi, potrošnji i financijskim transakcijama. Uber i DoorDash povezani su s potrošačkom potražnjom, dok Mastercard i American Express predstavljaju okosnicu platnog sustava.
 
-U praksi su se dogodile duboke promjene, ali ne i potpuni kolaps. Neki poslovi su nestali, ali su se pojavili novi sektori, nova zanimanja i novi modeli poslovanja.
+Ako bi se potrošnja naglo smanjila, njihov bi poslovni volumen automatski oslabio. Upravo ta logika – domino efekt kroz različite sektore – čini model zastrašujućim.
 
-Umjetna inteligencija jest specifična jer automatizira ne samo fizičke nego i kognitivne zadatke. Ipak, njezina implementacija ovisi o regulatornom okviru, tržišnoj prilagodbi i tempu usvajanja.
+Tržišta ne reagiraju samo na brojke, nego i na narativ. A narativ o umjetnoj inteligenciji koja ubrzano mijenja strukturu tržišta rada već je dovoljno snažan da izazove osjetljivost investitora.
 
-## Realna zabrinutost radnika
+## Realni strahovi u pozadini
 
-Za razliku od fiktivne panike iz prošlog stoljeća, današnji strah ima racionalnu osnovu. Administrativni poslovi, osnovno programiranje, korisnička podrška i analitičke funkcije već su pod pritiskom automatizacije.
+Za razliku od pukog senzacionalizma, zabrinutost oko AI-ja ima realnu osnovu. Automatizacija već zahvaća administrativne poslove, osnovno programiranje, korisničku podršku i dio financijskih analiza.
 
-Zabrinutost za radna mjesta nije iracionalna. Mnogi radnici s pravom se pitaju hoće li njihova znanja i vještine ostati relevantne u sljedećih pet do deset godina.
+Radnici se s pravom pitaju hoće li njihova znanja ostati relevantna. Kompanije istovremeno traže načine za povećanje produktivnosti i smanjenje troškova. Ta napetost između učinkovitosti i zaposlenosti nalazi se u središtu rasprave.
 
-No ekonomija je sustav s ugrađenim mehanizmima prilagodbe. Centralne banke, vlade i regulatorna tijela ne djeluju pasivno. Monetarna politika, fiskalne intervencije i programi prekvalifikacije predstavljaju svojevrsne “kočnice” u sustavu.
+No važno je naglasiti da scenarij pretpostavlja izostanak regulatornih i monetarnih intervencija. U stvarnosti, središnje banke i vlade imaju alate za stabilizaciju gospodarstva, od fiskalnih poticaja do programa prekvalifikacije.
 
-## Transformacija, a ne kolaps
+## Transformacija umjesto kolapsa?
 
-Vjerojatniji scenarij od potpunog sloma jest razdoblje intenzivne tranzicije. Kompanije će optimizirati procese, smanjivati troškove i uvoditi AI rješenja, ali istodobno će se pojavljivati nove potrebe – od upravljanja AI sustavima do etičkog nadzora i regulatorne usklađenosti.
+Povijest tehnoloških revolucija pokazuje da dramatične promjene rijetko vode potpunom ekonomskom slomu. Industrijska revolucija, pojava interneta i digitalizacija također su izazivale strahove od masovne nezaposlenosti.
 
-Produktivnost može rasti, a povećana učinkovitost dugoročno jača konkurentnost gospodarstva. Povijesni obrasci sugeriraju da tehnologija češće restrukturira nego uništava ekonomski sustav.
+Dio poslova je nestao, ali su nastali novi sektori i nova zanimanja. Produktivnost je rasla, a gospodarstva su se prilagođavala.
+
+Umjetna inteligencija zasigurno ubrzava promjene, ali njezina implementacija odvija se unutar regulatornog i političkog okvira. To znači da “feedback loop bez kočnice” u praksi ipak ima određene kočnice.
 
 ## Zaključak
 
-Scenarij koji je objavila Citrini Research snažan je podsjetnik na osjetljivost tržišta na AI narative. Iako opisuje potencijalnu spiralu bez kočnice, riječ je o modelu koji pretpostavlja izostanak regulatornih i tržišnih intervencija.
+Scenarij koji je objavila Citrini Research snažan je misaoni eksperiment koji testira granice naše percepcije o budućnosti rada i kapitala. Reakcija tržišta pokazuje koliko su investitori osjetljivi na AI narative, osobito kada su u njih uključene konkretne, prepoznatljive kompanije.
 
-Realnost je složenija. Umjetna inteligencija mijenja strukturu tržišta rada, ali ne djeluje izvan ekonomskog i političkog konteksta. Strah je razumljiv, ali nije isto što i neizbježnost.
+Je li riječ o realnoj prijetnji ili upozorenju koje potiče raspravu? Odgovor vjerojatno leži negdje između.
+
+Umjetna inteligencija mijenja ekonomiju, ali ne djeluje izvan njezinih institucija i mehanizama. Strah je razumljiv. No razumijevanje konteksta jednako je važno kao i dramatičan naslov.
 
 ---
 
 ## Naš osvrt (Metaadvisor):
 
-- Scenarij Citrini Researcha pokazuje koliko su tržišta osjetljiva na AI narative.  
-- Strah od automatizacije ima racionalnu osnovu, posebno u administrativnim i IT sektorima.  
-- Povijest tehnoloških revolucija sugerira restrukturiranje, a ne kolaps.  
-- Regulacija i monetarna politika predstavljaju ključne stabilizacijske mehanizme.  
+- Scenarij Citrini Researcha snažan je narativ koji je pokazao koliko su tržišta osjetljiva na AI teme.  
+- Spominjanje konkretnih kompanija pojačalo je tržišnu reakciju.  
+- Strah od automatizacije ima racionalnu osnovu, ali ne znači nužno kolaps.  
+- Regulacija i monetarna politika predstavljaju važne stabilizacijske mehanizme.  
 - Ključno pitanje nije hoće li AI promijeniti ekonomiju, nego koliko brzo i pod kojim pravilima.
 
 ---
