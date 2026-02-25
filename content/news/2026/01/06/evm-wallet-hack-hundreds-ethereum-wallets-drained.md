@@ -1,5 +1,5 @@
 ---
-title: "EVM Wallet Hack: Hundreds of Ethereum Virtual Machine Wallets Drained in Silent Attack"
+title: "EVM Wallet Hack: Hundreds of Ethereum Virtual Machine Wallets Drained in Silent Attack reported ZachXBT"
 slug: "evm-wallet-hack-hundreds-ethereum-wallets-drained"
 date: 2026-01-06T06:00:00+01:00
 category: "crypto"
@@ -18,6 +18,7 @@ tags:
   - ethereum
   - evm
   - wallet
+  - ZachXBT
   - hack
   - cybersecurity
   - crypto
@@ -33,15 +34,15 @@ tags:
 
 ## What happened?
 
-In early January 2026, blockchain investigators detected an unusual but widespread attack targeting **Ethereum Virtual Machine (EVM)–compatible wallets**. Instead of large, obvious thefts, the attacker siphoned small amounts — typically under $2,000 — from hundreds of wallets, allowing the activity to remain under the radar for longer.
+n early January 2026, on-chain investigator **ZachXBT** first flagged an unusual but widespread attack targeting Ethereum Virtual Machine (EVM)–compatible wallets. According to his findings, the attacker siphoned small amounts — typically under $2,000 — from hundreds of wallets across multiple networks.
 
-While individual losses were limited, the scale of the incident points to a highly automated and coordinated operation.
+Rather than executing a single large-scale exploit, the activity appeared designed to stay below detection thresholds by spreading losses across many victims. While individual losses were limited, the scale of the incident pointed to a highly automated and coordinated operation.
 
 ## How did the attack work?
 
-On-chain analysts report that wallets across multiple EVM-compatible networks were affected, suggesting a shared attack vector rather than a chain-specific exploit.
+Based on on-chain analysis shared by ZachXBT and other blockchain researchers, wallets across several EVM-compatible networks were affected, suggesting a common attack vector rather than a vulnerability isolated to one specific chain.
 
-The most likely causes include phishing emails impersonating legitimate wallet communications and previously granted smart contract approvals that were never revoked. In many cases, attackers did not need fresh user interaction — an old signature or permission was enough to access funds.
+The most likely causes included phishing emails disguised as legitimate wallet communications and previously granted smart contract approvals that had not been revoked. In many cases, attackers did not require new user interaction — an old signature or lingering permission was enough to enable fund access.
 
 ## 🔵 <a href="https://metaadvisor.eu/de/news/2025/12/26/trust-wallet-ge-hackt-weihnachten-25122025/" style="color:#1e40af; text-decoration:none; font-weight:700;">
 Connection to the Trust Wallet hack incident
