@@ -23,7 +23,7 @@ Such transactions have become increasingly common among private companies using 
 
 Beyond retention and to help staff cover tax bills triggered when RSUs vest, they relieve pressure on management to pursue an IPO before the company is ready.
 
-Save up to $680 on your pass before February 27. Meet investors. Discover your next portfolio company. Hear from 250+ tech leaders , dive into 200+ sessions , and explore 300+ startups building what’s next. Don’t miss these one-time savings.
+Last Hours: Save up to $680 on your pass before 11:59 p.m. tonight. Meet investors. Discover your next portfolio company. Hear from 250+ tech leaders , dive into 200+ sessions , and explore 300+ startups building what’s next. Don’t miss these one-time savings.
 
 Subscribe for the industry’s biggest tech news
 
@@ -31,4 +31,4 @@ Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
 
 TechCrunch Mobility is your destination for transportation news and insight.
 
-Startups are the core of TechCrunch, so get our best coverage delivered
+Startups are the core of TechCrunch, so get our best coverage
