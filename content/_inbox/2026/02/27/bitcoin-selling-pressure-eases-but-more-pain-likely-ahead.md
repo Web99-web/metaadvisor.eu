@@ -13,11 +13,11 @@ _build:
   list: never
 ---
 
-Bitcoin has been given some reprieve to trade sideways for a few weeks, but it won't likely emerge from the woods until the fourth quarter, says crypto analyst Willy Woo.
+Bitcoin has been given some reprieve to trade sideways for a few weeks, but it likely won’t fully recover until the fourth quarter, says analyst Willy Woo.
 
 Bitcoin investors could finally be taking a break from selling, relieving some downward pressure on Bitcoin — though months of consolidation will likely lie ahead, says analyst Willy Woo.
 
-“This bearish sell-down by investors seems to have exhausted,” said Woo on X on Friday. This gives the price “a reprieve to consolidate sideways for maybe a month,” or even a rebound to the mid $70,000 level, “which would likely be rejected,” he said.
+“This bearish sell-down by investors seems to have exhausted,” said Woo on X on Friday. This gives the price “a reprieve to consolidate sideways for maybe a month,” or even a rebound to the mid-$70,000 level, “which would likely be rejected,” he said.
 
 Bitcoin ( BTC ) prices have been range-bound between $60,000 and $70,000 for the past three weeks, and fell below $67,000 briefly in late trading on Thursday.
 
@@ -27,7 +27,7 @@ In the meantime, the broader market is “heavily bearish” with both spot and 
 
 Things could get much worse if global macroeconomic conditions deteriorate, said the analyst.
 
-Bitcoin has only ever existed in a “secular global macro bull market” from 2009 to 2026, he said, cautioning that if “global macro breaks down,” then $30,000 is the fallback level of support, $16,000 is the final line to maintain a long-term bull trend.
+Bitcoin has only ever existed in a “secular global macro bull market” from 2009 to 2026, he said, cautioning that if “global macro breaks down,” then $30,000 is the fallback level of support and $16,000 would be the final level needed to maintain a long-term bull trend.
 
 Related: Analysts reject Jane Street ‘10 a.m. dump’ claims, say Bitcoin isn’t easily manipulated
 

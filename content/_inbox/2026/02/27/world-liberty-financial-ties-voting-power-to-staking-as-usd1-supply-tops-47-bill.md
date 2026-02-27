@@ -25,6 +25,6 @@ Stakers would earn an estimated 2% annual reward in WLFI, funded by the projectâ
 
 A date for voting has not yet been determined.
 
-Bitcoin slides Friday as risk-off mood persists, but majors hold weekly gains
+Bitcoin ETF holders and treasury firms stack protection against price crash below $60,000, Deribit says
 
-Analysts say the latest drop appears to be a leverage flush and positioning cleanup rather than a structural trend
+Market participants with long-term vision are buying downside
