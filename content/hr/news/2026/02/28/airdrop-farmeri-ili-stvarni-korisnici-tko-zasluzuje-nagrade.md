@@ -1,20 +1,21 @@
 ---
-title: "Airdrop farmeri ili stvarni korisnici? Tko doista zaslužuje kripto nagrade"
-slug: "airdrop-farmeri-ili-stvarni-korisnici-tko-zasluzuje-nagrade"
-date: 2026-02-28T06:30:00Z
-category: "crypto"
-translationKey: "a1c94f7e8d2b4f4bb2e9d3c6f7a88211"
+title: "AI program spriječio kritičnu ranjivost na XRP Ledgeru prije moguće katastrofe"
+slug: "ai-program-sprijecio-kriticnu-ranjivost-na-xrp-ledgeru"
+date: 2026-02-28T10:30:00Z
+category: "ai"
+translationKey: "8039b7fb4727c7fa6b526c4a36f62bf8"
 author: "Metaadvisor.eu"
-source: "Metaadvisor.eu analiza"
-source_url: "https://metaadvisor.eu/"
-image_url: "/images/Airdrop-farmers.png"
-featured_image: "/images/Airdrop-farmers.png"
-image: "/images/Airdrop-farmers.png"
-thumbnail: "/images/Airdrop-farmers.png"
-image_alt: "Debata o airdrop farmerima i stvarnim korisnicima u kripto svijetu"
+source: "Cointelegraph i Metaadvisor.eu analiza"
+source_url: ""
+image_url: "/images/AI-program-prevented-xrp-ledger-mistake.png"
+featured_image: "/images/AI-program-prevented-xrp-ledger-mistake.png"
+image: "/images/AI-program-prevented-xrp-ledger-mistake.png"
+thumbnail: "/images/AI-program-prevented-xrp-ledger-mistake.png"
+image_alt: "AI sigurnosni sustav štiti XRP Ledger od potencijalnog napada"
 image_credit: "MetaAdvisor ilustracija (simbolična)"
-tags: ["crypto", "kripto", "airdrop", "airdrop farmeri", "web3", "defi", "tokeni", "blockchain", "wallet", "decentralizacija", "tokenomika"]
-summary: "Rasprava o tome trebaju li airdrop nagrade ići stvarnim korisnicima ili takozvanim farmerima ponovno je otvorila pitanje pravednosti, tokenomike i dugoročne održivosti Web3 projekata."
+tags: ["ai", "umjetna inteligencija", "xrp", "xrpl", "blockchain", "sigurnost", "kiberneticka sigurnost", "kriptovalute", "tokeni"]
+summary: "Autonomni AI sigurnosni alat otkrio je kritičnu logičku ranjivost u fazi glasanja amandmana na XRP Ledgeru, spriječivši potencijalni napad koji je mogao ugroziti milijarde dolara vrijednosti."
+---
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">
