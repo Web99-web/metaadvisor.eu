@@ -81,15 +81,17 @@ Digital identity can represent professional capital, emotional value, and social
 
 When that identity is erased, the network of relationships is erased as well.
 
-## The Emptiness Felt by Those Who Remain
+## The Emptiness — and the Fear — Felt by Those Who Remain
 
-Social platforms underestimate the feelings of those who stay behind. Within communities, people write that they feel as if a friend has disappeared. They do not know what happened. They cannot send a message. They cannot check if the person is okay. They cannot reach them.
+Social platforms consistently underestimate the feelings of those who remain after a long-term member is erased. Within communities, people write that it feels as if a friend has disappeared. They do not know what happened. They cannot send a message. They cannot check whether the person is safe. They cannot reach them. The silence is not procedural — it is personal. This is not just a “profile disappearance.” It is emptiness.
 
-This is not just a “profile disappearance.” It is emptiness.
+Digital communities are not an illusion. People connect through ideas, humor, shared values, and interests — sometimes for years. They build routines around each other’s presence. When someone vanishes without a word, the community experiences it as an abrupt rupture of relationships. The emotional impact of deleting a long-term active member does not affect just one person; it reverberates through an entire active community, a digital “family,” a group that suddenly feels destabilized.
 
-Digital communities are not an illusion. People connect through ideas, humor, shared values, and interests. Sometimes for years. When someone vanishes without a word, the community experiences it as an abrupt rupture of relationships.
+But alongside grief, another emotion quietly spreads: fear. Members begin asking themselves what exactly triggered the algorithm. Was it a word? A link? A political opinion? A sarcastic remark? If someone who wrote thousands of acceptable posts can suddenly be erased, then what is truly safe? What am I allowed to say now? Can a link I share lead to suspension? Can irony be misread? Can context disappear inside code?
 
-The emotional impact of deleting a long-term active member does not affect just one person — it affects an entire active community, a digital “family,” a group.
+This uncertainty changes behavior. People begin to calculate every sentence. They soften their opinions. They avoid controversial topics. They hesitate before posting. Some stop speaking altogether. The digital public square, once a place of open participation, slowly transforms into a space shaped by caution.
+
+When participation itself begins to feel risky, self-censorship becomes a survival instinct. And that quiet, spreading fear may be one of the most profound and least discussed consequences of opaque algorithmic moderation.
 
 ## The Silent Are Not at Risk. The Active Are.
 
