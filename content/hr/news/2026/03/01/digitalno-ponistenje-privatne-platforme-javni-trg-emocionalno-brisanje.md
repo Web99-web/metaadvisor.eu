@@ -77,15 +77,18 @@ Digitalni identitet može biti profesionalni kapital, emocionalna vrijednost i d
 
 Kada se taj identitet izbriše, briše se i mreža odnosa.
 
-## Praznina koju osjećaju oni koji ostaju
+## Praznina — i strah — onih koji ostaju
 
-Društvene mreže podcjenjuju osjećaje onih koji ostaju. U raspravama unutar zajednica ljudi pišu kako se osjećaju kao da im je nestao prijatelj. Ne znaju što se dogodilo. Ne mogu poslati poruku. Ne mogu provjeriti je li osoba dobro. Ne mogu je kontaktirati.
+Društvene platforme sustavno podcjenjuju osjećaje onih koji ostaju nakon što se izbriše dugogodišnji član zajednice. U raspravama unutar zajednica ljudi pišu kako se osjećaju kao da im je nestao prijatelj. Ne znaju što se dogodilo. Ne mogu poslati poruku. Ne mogu provjeriti je li osoba dobro. Ne mogu je kontaktirati. Ta tišina nije proceduralna — ona je osobna.
+To nije samo „nestanak profila“. To je praznina.
 
-To nije samo “nestanak profila”. To je praznina.
+Digitalne zajednice nisu iluzija. Ljudi se povezuju kroz ideje, humor, zajedničke vrijednosti i interese — ponekad godinama. Razvijaju rutine oko međusobne prisutnosti. Kada netko nestane bez riječi, zajednica to doživljava kao nagli prekid odnosa. Emocionalni učinak brisanja dugogodišnjeg aktivnog člana ne pogađa samo jednu osobu; on odjekuje kroz cijelu aktivnu zajednicu, digitalnu „obitelj“, grupu koja se odjednom osjeća destabilizirano.
 
-Digitalne zajednice nisu iluzija. Ljudi se povezuju preko ideja, humora, zajedničkih stavova i interesa. Ponekad i godinama. Kada netko nestane bez riječi, zajednica doživljava to kao nagli prekid odnosa.
+No uz tugu, tiho se širi i druga emocija: strah. Članovi se počinju pitati što je točno okinulo algoritam. Je li to bila neka riječ? Link? Političko mišljenje? Sarkastična opaska? Ako netko tko je napisao tisuće prihvaćenih objava može odjednom biti izbrisan, što je onda uopće sigurno? Što sada smijem pisati? Može li link koji podijelim dovesti do suspenzije? Može li ironija biti pogrešno protumačena? Može li kontekst nestati unutar koda?
 
-Emocionalni udarac brisanja dugogodišnjeg aktivnog člana ne pogađa samo jednu osobu, pogađa cijelu aktivnu zajednicu ili digitalnu 'obitelj' ili grupu.
+Ta neizvjesnost mijenja ponašanje. Ljudi počinju kalkulirati svaku rečenicu. Ublažavaju svoja mišljenja. Izbjegavaju osjetljive teme. Oklijevaju prije objave. Neki potpuno prestanu govoriti. Digitalni javni trg, nekoć prostor otvorenog sudjelovanja, polako se pretvara u prostor kojim upravlja oprez.
+
+Kada samo sudjelovanje počne djelovati rizično, samocenzura postaje instinkt preživljavanja. A taj tihi, šireći strah mogao bi biti jedna od najdubljih i najmanje raspravljenih posljedica netransparentne algoritamske moderacije.
 
 ## Tihi nisu u riziku. Aktivni jesu.
 
