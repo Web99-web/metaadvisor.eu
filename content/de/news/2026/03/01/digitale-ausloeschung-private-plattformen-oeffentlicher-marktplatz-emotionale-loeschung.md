@@ -81,15 +81,17 @@ Digitale Identität kann berufliches Kapital, emotionaler Wert und gesellschaftl
 
 Wenn diese Identität gelöscht wird, wird auch das Beziehungsnetz gelöscht.
 
-## Die Leere, die diejenigen spüren, die bleiben
+## Die Leere — und die Angst — derjenigen, die bleiben
 
-Soziale Netzwerke unterschätzen die Gefühle derjenigen, die zurückbleiben. In Diskussionen innerhalb von Gemeinschaften schreiben Menschen, sie hätten das Gefühl, ein Freund sei verschwunden. Sie wissen nicht, was passiert ist. Sie können keine Nachricht senden. Sie können nicht prüfen, ob es der Person gut geht. Sie können sie nicht kontaktieren.
+Soziale Plattformen unterschätzen systematisch die Gefühle derjenigen, die zurückbleiben, nachdem ein langjähriges Mitglied gelöscht wurde. Innerhalb von Gemeinschaften schreiben Menschen, dass es sich anfühlt, als wäre ein Freund verschwunden. Sie wissen nicht, was passiert ist. Sie können keine Nachricht senden. Sie können nicht überprüfen, ob es der Person gut geht. Sie können sie nicht erreichen. Das Schweigen ist nicht nur prozedural — es ist persönlich.
 
-Das ist nicht nur ein „Profilverschwinden“. Das ist Leere.
+Das ist nicht nur ein „Profilverschwinden“. Es ist Leere. Digitale Gemeinschaften sind keine Illusion. Menschen verbinden sich über Ideen, Humor, gemeinsame Werte und Interessen — manchmal über Jahre hinweg. Sie entwickeln Routinen rund um die Präsenz der anderen. Wenn jemand wortlos verschwindet, erlebt die Gemeinschaft dies als abrupten Beziehungsabbruch. Die emotionale Wirkung der Löschung eines langjährigen aktiven Mitglieds betrifft nicht nur eine einzelne Person; sie hallt durch eine gesamte aktive Gemeinschaft, eine digitale „Familie“, eine Gruppe, die sich plötzlich destabilisiert fühlt.
 
-Digitale Gemeinschaften sind keine Illusion. Menschen verbinden sich über Ideen, Humor, gemeinsame Werte und Interessen. Manchmal über Jahre hinweg. Wenn jemand wortlos verschwindet, erlebt die Gemeinschaft das als abrupten Beziehungsabbruch.
+Doch neben der Trauer breitet sich leise eine weitere Emotion aus: Angst. Mitglieder beginnen sich zu fragen, was genau den Algorithmus ausgelöst hat. War es ein Wort? Ein Link? Eine politische Meinung? Eine sarkastische Bemerkung? Wenn jemand, der tausende akzeptierte Beiträge geschrieben hat, plötzlich gelöscht werden kann, was ist dann überhaupt noch sicher? Was darf ich jetzt noch schreiben? Kann ein geteilter Link zu einer Sperrung führen? Kann Ironie missverstanden werden? Kann Kontext im Code verschwinden?
 
-Der emotionale Schlag durch die Löschung eines langjährigen aktiven Mitglieds trifft nicht nur eine Person, sondern eine ganze aktive Gemeinschaft oder digitale „Familie“ oder Gruppe.
+Diese Unsicherheit verändert das Verhalten. Menschen beginnen, jeden Satz zu kalkulieren. Sie schwächen ihre Meinungen ab. Sie meiden sensible Themen. Sie zögern vor dem Posten. Manche hören ganz auf zu sprechen. Der digitale öffentliche Raum, einst ein Ort offener Beteiligung, verwandelt sich langsam in einen Raum, der von Vorsicht geprägt ist.
+
+Wenn Beteiligung selbst riskant erscheint, wird Selbstzensur zum Überlebensinstinkt. Und diese stille, sich ausbreitende Angst könnte eine der tiefgreifendsten und am wenigsten diskutierten Folgen intransparenter algorithmischer Moderation sein..
 
 ## Die Stillen sind nicht gefährdet. Die Aktiven schon.
 
