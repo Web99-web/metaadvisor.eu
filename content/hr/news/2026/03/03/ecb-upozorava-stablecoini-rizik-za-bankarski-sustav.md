@@ -1,5 +1,5 @@
 ---
-title: "ECB upozorava: Stablecoini postaju rizik za bankarske depozite i kreditiranje"
+title: "Europska središnja banka ECB upozorava: Stablecoini postaju rizik za bankarske depozite i kreditiranje"
 slug: "ecb-upozorava-stablecoini-rizik-za-bankarski-sustav"
 date: 2026-03-03T16:30:00Z
 category: "crypto"
