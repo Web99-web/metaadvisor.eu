@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "d4ac4655a30a39fcd5292d1809c14be6"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2026/03/04/crypto-election-pac-fairshake-marks-first-wins-in-2026-u-s-congressional-primaries"
-image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F9dd779f3445b9eb4c507ad52e48cbc9b9d5e2d43-5706x3943.jpg%3Frect%3D0%2C0%2C5706%2C3210%26w%3D1920%26h%3D1080%26auto%3Dformat&w=3840&q=75"
+image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F194b8a7c9962f520afbddc88a4317753900b11c5-1920x1080.jpg%3Fw%3D1920%26h%3D1080%26auto%3Dformat&w=3840&q=75"
 tags: ["crypto"]
 _build:
   publishResources: false

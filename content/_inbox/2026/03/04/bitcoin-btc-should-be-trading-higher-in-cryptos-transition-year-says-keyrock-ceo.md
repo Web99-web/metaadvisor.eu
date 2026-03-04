@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 71,150.61 should be trading higher than it is today.
+Bitcoin BTC $ 73,535.60 should be trading higher than it is today.
 
 That’s the view of Kevin de Patoul, CEO and co-founder of crypto investment firm Keyrock, who argues that the market is misreading both macro conditions and structural progress in digital assets.
 
