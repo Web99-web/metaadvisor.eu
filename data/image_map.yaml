@@ -314,6 +314,8 @@ mapping:
   smartphones:  [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, iphone5.jpg, iphone6.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
   phone:        [iphone.jpg, iphone2.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg, mobile-phone-neutral.jpg, mobile-phone-man.jpg, mobile-phone-ruke.jpg, mobile-phone-down.jpg, mobile-phone-crni.jpg]
   phones:       [iphone.jpg, iphone2.jpg, iphone3.jpg, iphone4.jpg, iphone5.jpg, iphone6.jpg, mobile-phone.jpg, mobile-phone1.jpg, mobile-phone2.jpg, mobile-phone4.jpg]
+  Macbook:      [Macbook-Pro-price.png]
+  
 
     # --- MEMECOINS (lokalne nove slike) ---
   bone:         [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu.png, bone.png, shiba-inu-coin2.jpg]
