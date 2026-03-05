@@ -1,11 +1,11 @@
 ---
-title: "Cardano ulazi u maloprodaju: ADA plaćanja sada moguća u 137 Spar trgovina u Švicarskoj"
-slug: "cardano-placanje-spar-svicarska"
+title: "Cardano ADA plaćanja ulaze u Spar: 137 trgovina u Švicarskoj testira kripto na blagajni"
+slug: "cardano-ada-placanje-spar-svicarska"
 date: 2026-03-05T16:30:00Z
 category: "crypto"
 translationKey: "c47f3165acc7c447a39058ff4b762818"
-author: "Cointelegraph"
-source: "Cointelegraph i Metaadvisor.eu analiza"
+author: "Metaadvisor.eu"
+source: "Cointelegraph, Cardano Foundation, DFX.swiss i Metaadvisor.eu analiza"
 source_url: ""
 image_url: "/images/Cardano-ADA-Spar.png"
 featured_image: "/images/Cardano-ADA-Spar.png"
@@ -13,8 +13,8 @@ image: "/images/Cardano-ADA-Spar.png"
 thumbnail: "/images/Cardano-ADA-Spar.png"
 image_alt: "Cardano ADA plaćanje Spar Švicarska"
 image_credit: "Metaadvisor.eu"
-tags: ["cardano","ada","kripto plaćanje","spar","švicarska","blockchain","crypto retail","cardano foundation","digitalna imovina","kripto trgovine"]
-summary: "Cardano ADA token sada se može koristiti za plaćanje u 137 Spar supermarketa u Švicarskoj, što predstavlja jedan od najvećih testova stvarne primjene kriptovaluta u maloprodaji u Europi."
+tags: ["cardano","ada","kripto plaćanje","spar","švicarska","blockchain","crypto retail","cardano foundation","dfx swiss","digitalna imovina"]
+summary: "Cardano ADA token sada se može koristiti za plaćanje u 137 Spar supermarketa u Švicarskoj. Projekt predstavlja jedan od najvećih testova kripto plaćanja u maloprodaji u Europi i pokazuje kako blockchain postupno ulazi u svakodnevnu ekonomiju."
 ---
 
 *Slika je simbolična.*
@@ -26,63 +26,75 @@ style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; te
 </a>
 </p>
 
-# Cardano ulazi u maloprodaju: ADA plaćanja sada moguća u 137 Spar trgovina u Švicarskoj
+# Cardano ADA plaćanja ulaze u Spar: 137 trgovina u Švicarskoj testira kripto na blagajni
 
-Kriptovalute već godinama pokušavaju prijeći iz sfere ulaganja i spekulacija u stvarni svijet svakodnevnih transakcija. Najnoviji primjer tog procesa dolazi iz Švicarske, gdje korisnici Cardano (ADA) tokena sada mogu plaćati namirnice u čak 137 Spar supermarketa diljem zemlje. Riječ je o jednom od najvećih maloprodajnih testova blockchain plaćanja u Europi, koji bi mogao pokazati koliko su digitalne valute spremne za širu upotrebu u svakodnevnoj kupnji.
+Kriptovalute se već godinama pokušavaju probiti iz sfere investicija i spekulativnog trgovanja u svakodnevni život. Jedan od najnovijih i najzanimljivijih primjera tog procesa dolazi iz Švicarske, gdje je maloprodajni lanac Spar omogućio kupcima da plaćaju namirnice koristeći Cardano (ADA) kriptovalutu u čak 137 supermarketa diljem zemlje.
 
-Integracija je omogućena putem sustava **Open Crypto Pay**, koji je razvila švicarska fintech tvrtka DFX.swiss u suradnji s Cardano Foundation. Sustav omogućuje obradu transakcija u stvarnom vremenu i izravno povezivanje s korisničkim ADA novčanicima. Kupci tako mogu platiti robu kriptovalutom bez potrebe za konverzijom sredstava putem centraliziranih burzi ili dodatnih posrednika.
+Projekt predstavlja jedan od najvećih realnih testova kripto plaćanja u maloprodaji u Europi. Iako su kriptovalute već dugo prisutne u online trgovini i financijskim uslugama, njihova upotreba na fizičkim blagajnama u supermarketima još uvijek je relativno rijetka.
 
-## Plaćanje kriptovalutom na blagajni
+Integracija je omogućena zahvaljujući sustavu **Open Crypto Pay**, koji je razvila švicarska fintech tvrtka DFX.swiss u suradnji s Cardano Foundation. Sustav omogućuje obradu transakcija u realnom vremenu i povezivanje korisničkih ADA novčanika izravno s prodajnim mjestima.
 
-Sam proces plaćanja osmišljen je tako da bude što jednostavniji za korisnike. Kupac na blagajni skenira QR kod pomoću svog kripto novčanika, a transakcija se zatim potvrđuje na blockchain mreži. Sustav Open Crypto Pay automatski obrađuje plaćanje i omogućuje trgovcu primanje sredstava bez kompliciranih dodatnih koraka.
+## Kako zapravo funkcionira plaćanje ADA kriptovalutom
 
-Ovakav model plaćanja ima nekoliko važnih prednosti. Prije svega, uklanja potrebu za centraliziranim financijskim posrednicima, što može smanjiti troškove i ubrzati proces obrade transakcija. Prema procjenama koje su objavili partneri projekta, troškovi za trgovce mogu biti i **do dvije trećine niži u usporedbi s tradicionalnim kartičnim plaćanjima**.
+Iako na prvi pogled može izgledati kao da Spar izravno prima kriptovalutu, u praksi sustav funkcionira nešto drugačije. Kada kupac želi platiti ADA tokenima, na blagajni skenira QR kod pomoću svog kripto novčanika. Transakcija se zatim obrađuje putem Open Crypto Pay infrastrukture.
 
-Za velike maloprodajne lance koji svakodnevno obrađuju tisuće transakcija, razlika u troškovima može biti značajna. Upravo zato sve više trgovaca počinje istraživati alternativne modele digitalnog plaćanja, uključujući blockchain tehnologiju.
+Ključni element ovog sustava je trenutna konverzija. Kriptovaluta koju kupac šalje automatski se pretvara u švicarske franke (CHF), tako da trgovac zapravo prima fiat valutu. Na taj način Spar izbjegava volatilnost kripto tržišta i rizik promjene cijene digitalne imovine.
 
-## Spar testira kripto plaćanja već nekoliko godina
+Za trgovce je to važno jer omogućuje prihvaćanje kriptovaluta bez potrebe za upravljanjem kripto portfeljem. Sustav je u tom smislu sličan modernim digitalnim plaćanjima poput Apple Paya ili kartičnih sustava, gdje se tehnologija nalazi u pozadini, a proces za korisnika ostaje jednostavan.
 
-Ovo nije prvi put da Spar eksperimentira s kriptovalutama u Švicarskoj. Još u kolovozu 2025. godine kompanija je pokrenula pilot projekt koji je omogućio plaćanja kriptovalutama i stablecoinima u oko 100 trgovina. U tom projektu korišteni su sustavi **Binance Pay** i **DFX.swiss**, a plan je bio postupno proširiti projekt na veći broj prodajnih mjesta.
+Prema informacijama partnera uključenih u projekt, korištenje Open Crypto Pay sustava može trgovcima smanjiti troškove transakcija za čak dvije trećine u odnosu na tradicionalne kartične sustave.
 
-Najnovija integracija s Cardano infrastrukturom predstavlja sljedeću fazu tog eksperimenta. Broj trgovina uključenih u projekt sada je povećan na 137, a ako se model pokaže uspješnim, moguće je da će se kripto plaćanja proširiti na još veći dio maloprodajne mreže.
+## Zašto je odabrana upravo Cardano kriptovaluta
 
-Za kripto industriju takvi projekti imaju posebno značenje jer pokazuju da blockchain tehnologija može funkcionirati i izvan financijskih tržišta.
+Jedno od zanimljivijih pitanja koje se pojavilo nakon objave projekta jest zašto je Spar odlučio implementirati Cardano, a ne neke od najpoznatijih kriptovaluta poput Bitcoina ili Ethereuma.
 
-## Švicarska kao globalni kripto laboratorij
+Jedan od razloga leži u strukturi transakcijskih troškova. Bitcoin i Ethereum mreže često imaju promjenjive naknade koje mogu značajno porasti tijekom razdoblja visokog opterećenja mreže. Takve varijacije nisu idealne za maloprodaju, gdje su transakcije male i moraju biti brze i predvidljive.
 
-Švicarska već godinama gradi reputaciju jedne od najotvorenijih država prema blockchain tehnologiji i digitalnoj imovini. Posebno se ističe regija Zug, poznata kao **Crypto Valley**, gdje su smještene brojne blockchain tvrtke i startupi. Zahvaljujući jasnom regulatornom okviru i podršci inovacijama, zemlja je postala jedno od najvažnijih središta globalne kripto industrije.
+Cardano mreža, s druge strane, ima relativno stabilne i niske transakcijske naknade, što je čini pogodnijom za svakodnevna plaćanja.
 
-U takvom okruženju nije iznenađenje da se upravo u Švicarskoj testiraju modeli stvarne upotrebe kriptovaluta u trgovinama. Integracija Cardano plaćanja u Spar supermarketima može se promatrati kao dio šire strategije u kojoj država i privatni sektor pokušavaju integrirati digitalnu imovinu u svakodnevni gospodarski život.
+Drugi važan faktor je geografski kontekst. Cardano Foundation ima sjedište upravo u Švicarskoj, što olakšava suradnju s lokalnim fintech tvrtkama i trgovcima. U tom smislu ADA se može promatrati i kao projekt koji je već duboko integriran u švicarski blockchain ekosustav.
 
-Frederik Gregaard, izvršni direktor Cardano Foundation, izjavio je da ovakvi projekti označavaju početak **fundamentalne promjene u načinu na koji se vrijednost prenosi kroz društvo**. Prema njegovim riječima, blockchain industrija postupno izlazi iz eksperimentalne faze i ulazi u razdoblje stvarne financijske transformacije.
+Treći element je infrastruktura koju pruža DFX.swiss. Ova fintech tvrtka razvila je sustav Open Crypto Pay koji podržava Cardano mrežu i omogućuje integraciju s POS sustavima u trgovinama. Zahvaljujući toj infrastrukturi trgovci mogu relativno jednostavno implementirati kripto plaćanja bez velikih tehničkih promjena.
 
-## Lugano i šira strategija digitalne imovine
+## Spar već testira kripto plaćanja
 
-Razvoj kripto plaćanja u Švicarskoj ne zaustavlja se samo na privatnom sektoru. Grad Lugano već nekoliko godina provodi inicijativu poznatu kao **Plan B**, čiji je cilj pretvoriti grad u globalno središte digitalne imovine.
+Ovo nije prvi put da Spar eksperimentira s digitalnim valutama u Švicarskoj. Još 2025. godine kompanija je pokrenula pilot projekt koji je omogućio plaćanje kriptovalutama i stablecoinima u dijelu trgovina.
 
-U okviru tog projekta stanovnici već mogu plaćati određene gradske naknade koristeći **Bitcoin (BTC)** i **Tether (USDT)**. Nedavno je najavljeno i dodatno ulaganje od pet milijuna švicarskih franaka u nastavak projekta između 2026. i 2030. godine.
+U tom projektu korišteni su sustavi Binance Pay i DFX.swiss, a plan je bio postupno proširiti infrastrukturu na veći broj prodajnih mjesta. Integracija Cardano plaćanja sada predstavlja novu fazu tog eksperimenta.
 
-Takve inicijative pokazuju kako Švicarska pokušava izgraditi cijeli ekosustav u kojem digitalna imovina može imati stvarnu ekonomsku funkciju, a ne biti samo spekulativni instrument na tržištu.
+Broj trgovina uključenih u projekt povećan je na 137, što znači da je riječ o jednom od najvećih testova kripto plaćanja u fizičkoj maloprodaji u Europi.
 
-## Što ovo znači za kripto tržište
+## Švicarska kao globalni kripto hub
 
-Integracija Cardano plaćanja u maloprodaji predstavlja važan test za cijelu industriju. Jedno od ključnih pitanja za kriptovalute već godinama glasi: mogu li postati praktično sredstvo plaćanja u svakodnevnom životu?
+Razvoj ovakvih projekata nije slučajan. Švicarska već godinama gradi reputaciju jedne od najnaprednijih država kada je riječ o blockchain tehnologiji i digitalnoj imovini.
 
-Ako se pokaže da kupci redovito koriste ADA za plaćanje u trgovinama, to bi moglo otvoriti vrata sličnim projektima u drugim državama i maloprodajnim lancima. S druge strane, ako potražnja ostane ograničena, projekt bi mogao ostati samo zanimljiv tehnološki eksperiment.
+Posebno se ističe regija Zug, poznata kao **Crypto Valley**, gdje se nalazi velik broj blockchain tvrtki, startupova i fondova usmjerenih na digitalnu imovinu.
 
-Bez obzira na ishod, činjenica da veliki maloprodajni lanac testira kripto plaćanja u više od stotinu trgovina pokazuje da blockchain tehnologija postupno ulazi u stvarni svijet ekonomije.
+Grad Lugano također provodi ambiciozni projekt poznat kao **Plan B**, koji ima cilj pretvoriti grad u globalni centar digitalne financijske infrastrukture. U sklopu tog projekta građani već mogu plaćati određene gradske naknade koristeći Bitcoin i stablecoin USDT.
+
+Takva okolina čini Švicarsku idealnim mjestom za testiranje realne primjene blockchain tehnologije u svakodnevnom gospodarstvu.
+
+## Što ovakvi projekti znače za kripto industriju
+
+Jedno od ključnih pitanja koje se već godinama postavlja u kripto industriji jest mogu li digitalne valute postati stvarno sredstvo plaćanja, a ne samo investicijska imovina.
+
+Projekti poput ovog u Spar trgovinama pružaju priliku za testiranje upravo te ideje. Ako se pokaže da kupci redovito koriste kriptovalute za svakodnevne kupnje, to bi moglo otvoriti vrata širem prihvaćanju blockchain tehnologije u maloprodaji.
+
+S druge strane, ako interes ostane ograničen, kriptovalute bi mogle nastaviti dominirati prvenstveno kao investicijski instrument.
+
+Bez obzira na ishod, činjenica da veliki maloprodajni lanac eksperimentira s blockchain plaćanjima u više od stotinu trgovina pokazuje da se granica između tradicionalnih financija i digitalne imovine sve više briše.
 
 ---
 
 ## Naš osvrt (Metaadvisor)
 
-• Integracija Cardano plaćanja u Spar trgovinama pokazuje kako kriptovalute polako prelaze iz investicijske sfere u svakodnevnu upotrebu.  
+• Integracija Cardano plaćanja u Spar trgovinama pokazuje kako kriptovalute postupno prelaze iz investicijske sfere u svakodnevnu ekonomiju.  
 
-• Švicarska se ponovno potvrđuje kao jedno od najvažnijih globalnih središta za testiranje blockchain tehnologije i digitalne imovine.  
+• Švicarska se ponovno potvrđuje kao jedno od najvažnijih globalnih središta za blockchain inovacije.  
 
-• Ako se ovakav model pokaže uspješnim, maloprodajne trgovine mogle bi postati jedan od ključnih kanala za širu adopciju kriptovaluta.  
+• Model trenutne konverzije u fiat omogućuje trgovcima prihvaćanje kriptovaluta bez rizika volatilnosti.  
 
-• Istodobno, pitanje ostaje hoće li kupci zaista koristiti kripto za svakodnevnu kupnju ili će digitalna imovina i dalje ostati prvenstveno investicijski instrument.
+• Ako se ovakav model pokaže uspješnim, maloprodajne trgovine mogle bi postati ključni kanal za širu adopciju digitalne imovine.
 
 <p style="font-size:0.85em; color:#6b7280; margin-top:28px; font-style:italic;">
 Disclaimer: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski niti investicijski savjet.
