@@ -1,7 +1,7 @@
 ---
 title: "Novi MacBook Pro skuplji do 400 USD zbog globalnog nedostatka RAM-a"
 slug: "novi-macbook-pro-skuplji-zbog-nedostatka-ram-a"
-date: 2026-03-04T16:30:00Z"
+date: 2026-03-04T16:30:00Z
 category: "tech"
 translationKey: "cc44b6bef115321b764aab67559b3fb3"
 source: "TechCrunch"
