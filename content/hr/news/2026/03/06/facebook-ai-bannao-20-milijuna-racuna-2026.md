@@ -94,6 +94,18 @@ Kritičari takvih odluka postavljaju logično pitanje: **ako netko koristi VPN u
 
 ---
 
+## Kada Facebook račun nestane, nestaje i Messenger
+
+U mnogim slučajevima suspenzija Facebook računa ne znači samo gubitak pristupa društvenoj mreži. Kada Meta trajno onemogući profil, korisnici često **automatski gube pristup i aplikaciji Messenger**.
+
+To znači da nestaju **privatni razgovori, poslovne komunikacije, grupni chatovi i kontakti** koji su se godinama gradili na toj platformi. Za mnoge ljude Messenger je postao primarni način komunikacije — često čak i važniji od samog Facebook feeda.
+
+Za neke korisnike to znači da preko noći nestaju **godine privatnih razgovora, dogovora s klijentima, obiteljskih poruka i međunarodnih kontakata** koji su postojali isključivo unutar Messenger aplikacije.
+
+U kontekstu modernog digitalnog života to dodatno pojačava pitanje koje sve češće postavljaju stručnjaci za digitalna prava: **što se događa kada jedna privatna platforma kontrolira i društvenu mrežu i komunikacijski kanal milijardi ljudi?**
+
+---
+
 ## Deseci tisuća malih biznisa nestali preko noći
 
 Problem ne pogađa samo privatne korisnike. **Izvještaji s Reddita i tehnoloških foruma sugeriraju da su u prva dva mjeseca 2026. nestali deseci tisuća manjih biznis računa.** U mnogim slučajevima riječ je o malim poduzetnicima, marketing agencijama ili freelancerima koji su preko Facebooka vodili svoje oglašavanje i komunikaciju s klijentima.
