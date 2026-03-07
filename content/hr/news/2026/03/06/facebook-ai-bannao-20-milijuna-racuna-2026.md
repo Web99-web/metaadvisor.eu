@@ -23,7 +23,7 @@ summary: "Procjene sugeriraju da je Facebook početkom 2026. bannao do 20 miliju
 
 # Gemini: Facebook AI bannao do 20 milijuna računa početkom 2026.
 
-Ako su procjene točne, razmjeri moderacije na Facebooku početkom 2026. godine su zapanjujući. Prema analizi koju je iznio Googleov AI sustav **Gemini**, u prva dva mjeseca 2026. godine moglo je biti **bannano ili suspendirano čak do 20 milijuna Facebook računa**. Kada se ta brojka pretvori u tempo kojim algoritmi rade, razmjeri postaju još dramatičniji: riječ je o oko **330.000 banova dnevno**, gotovo **14.000 na sat** i približno **230 računa svake minute**. Drugim riječima — Facebookovi algoritmi početkom 2026. bannaju **gotovo četiri računa svake sekunde**.
+Ako su procjene točne, razmjeri **AI moderacije** na Facebooku početkom 2026. godine su zapanjujući. Prema analizi koju je iznio Googleov AI sustav **Gemini**, u prva dva mjeseca 2026. godine moglo je biti **bannano ili suspendirano čak do 20 milijuna Facebook računa**. Kada se ta brojka pretvori u tempo kojim algoritmi rade, razmjeri postaju još dramatičniji: riječ je o oko **330.000 banova dnevno**, gotovo **14.000 na sat** i približno **230 računa svake minute**. Drugim riječima — Facebookovi algoritmi početkom 2026. bannaju **gotovo četiri računa svake sekunde**.
 
 Još šokantniji dio procjene odnosi se na takozvane **false positive slučajeve**, odnosno situacije u kojima algoritam pogrešno označi legitimnog korisnika kao prekršitelja pravila platforme. Procjene sugeriraju da je **više od 1,5 milijuna korisnika moglo biti pogrešno bannano u samo dva mjeseca**, što znači da je potencijalno **25.000 ljudi dnevno** izgubilo svoje račune zbog pogreške algoritma. Drugim riječima, gotovo **17 korisnika svake minute** moglo je izgubiti Facebook profil zbog automatizirane odluke umjetne inteligencije.
 
@@ -31,7 +31,19 @@ Još šokantniji dio procjene odnosi se na takozvane **false positive slučajeve
 
 U posljednjih nekoliko mjeseci, a osobito početkom 2026. godine, na forumima i u tehnološkim zajednicama počele su se pojavljivati neobične priče. Dugogodišnji korisnici Facebooka — neki s profilima starim deset ili čak petnaest godina — počeli su prijavljivati da im se računi jednostavno gase bez upozorenja i bez jasnog objašnjenja. U mnogim slučajevima jedina poruka koju su dobili bila je kratka automatizirana obavijest da je njihov račun prekršio pravila platforme.
 
-Posebno se velik broj takvih iskustava počeo pojavljivati na forumima poput **Reddita**, gdje su korisnici opisivali gotovo identične situacije: račun nestaje preko noći, žalbeni postupak vodi automatizirani sustav, a odgovori koje dobivaju također dolaze od AI-ja. Ljudska podrška u tim slučajevima praktički ne postoji. Zbog sve većeg broja takvih priča odlučili smo provjeriti što o toj pojavi govore dostupni podaci i sustavi umjetne inteligencije. Budući da Google indeksira velik dio interneta, logično je bilo pretpostaviti da bi upravo njihov AI sustav **Gemini** mogao imati širi pregled nad tim trendom. Postavili smo jednostavno pitanje: **koliko je Facebook računa bannano početkom 2026.?** Odgovor je bio šokantan.
+Posebno se velik broj takvih iskustava počeo pojavljivati na forumima poput **Reddita**, gdje su korisnici opisivali gotovo identične situacije: račun nestaje preko noći, žalbeni postupak vodi automatizirani sustav, a odgovori koje dobivaju također dolaze od AI-ja. Ljudska podrška u tim slučajevima praktički ne postoji. Zbog sve većeg broja takvih priča odlučili smo provjeriti što o toj pojavi govore dostupni podaci i sustavi umjetne inteligencije. Budući da Google indeksira velik dio interneta, logično je bilo pretpostaviti da bi upravo njihov AI sustav **Gemini** mogao imati širi pregled nad tim trendom. 
+
+Postavili smo jednostavno pitanje: **koliko je Facebook računa bannano početkom 2026.?**
+
+Odgovor koji je dao Googleov AI sustav **Gemini** bio je iznenađujuće dramatičan. Prema toj procjeni, **u prva dva mjeseca 2026. moglo je biti suspendirano ili trajno obrisano između 18 i 20 milijuna Facebook računa**.
+
+Gemini pritom navodi nekoliko ključnih procjena za razdoblje siječanj–veljača 2026.:
+
+- **Ukupno suspendiranih ili obrisanih računa:** približno **18–20 milijuna**
+- **Računi ugašeni zbog dobi (ispod 16 godina):** oko **550.000** slučajeva (prema Metinim podacima)
+- **Pogrešno bannani profili (“AI glitch” ili false positive):** procjene govore o **više od 1,5 milijuna slučajeva širom svijeta**
+
+Drugim riječima, čak i ako je samo dio tih procjena točan, govorimo o **milijunima korisničkih računa uklonjenih u samo dva mjeseca**, pri čemu bi **stotine tisuća ili čak više od milijun ljudi moglo biti kolateralna šteta automatiziranih sustava moderacije.**
 
 ## Što znači 20 milijuna bannanih računa
 
@@ -75,6 +87,9 @@ Kritičari takve situacije nazivaju **“AI halucinacijama”**, jer sustav u sa
 
 Još jedan primjer odnosi se na korisnike koji koriste **VPN radi zaštite privatnosti**. Automatizirani sigurnosni sustavi mogu takvo ponašanje protumačiti kao **pokušaj prikrivanja identiteta ili potencijalni hakerski napad**, nakon čega račun biva zaključan zbog navodnih **“cybersecurity” razloga**.
 
+No pitanje identiteta na internetu ima i drugu dimenziju. Povijest interneta pokazuje da su mnoge važne informacije često izlazile u javnost upravo zahvaljujući **anonimnim ili pseudonimnim profilima**. Tijekom godina brojni korisnici objavljivali su informacije o velikim aferama, uključujući slučajeve poput **Jeffreyja Epsteina i princa Andrewa**, upravo zato što su se bojali za vlastitu sigurnost, posao ili sigurnost svoje obitelji.
+
+Takvih profila ima i danas na tisuće — od ljudi koji pokušavaju razotkriti **korupciju i zloupotrebe moći**, do građana koji žive u državama s represivnim režimima gdje otvoreno kritiziranje vlasti može dovesti do ozbiljnih posljedica. Zbog toga kritičari upozoravaju da **automatsko označavanje anonimnosti kao sumnjivog ponašanja može imati šire posljedice za slobodu izražavanja na internetu.**
 Kritičari takvih odluka postavljaju logično pitanje: **ako netko koristi VPN upravo kako bi zaštitio svoju privatnost, zašto se takav korisnik tretira kao potencijalna sigurnosna prijetnja?**
 
 ---
