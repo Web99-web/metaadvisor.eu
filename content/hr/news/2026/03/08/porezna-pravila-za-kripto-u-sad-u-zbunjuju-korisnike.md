@@ -17,7 +17,8 @@ image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["kripto", "bitcoin", "crypto", "porez", "porezi", "kripto porez", "SAD porezi", "IRS", "crypto regulation", "coinbase", "bitcoin porez", "kripto regulacija", "stablecoin", "gas fee"]
 summary: "Nova američka porezna pravila za kriptovalute uvode obrazac 1099-DA i zahtijevaju prijavljivanje brojnih transakcija, uključujući stablecoine i male naknade za mrežu. Coinbase upozorava da bi takav sustav mogao stvoriti administrativni kaos za milijune malih korisnika."
 ---
-
+ *Slika je simbolična.*
+ 
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
      style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
@@ -33,7 +34,6 @@ Prema novim pravilima koje provodi **IRS (Internal Revenue Service – američka
 
 Međutim, kako upozoravaju u Coinbaseu, realnost kripto tržišta znatno je složenija. Dok tradicionalna tržišta imaju relativno mali broj transakcija, kripto korisnici često imaju **stotine ili tisuće malih transakcija**, uključujući prijenose između walleta, korištenje decentraliziranih aplikacija ili plaćanje mrežnih naknada. Upravo tu nastaje problem.
 
-Sitno ispod slike: *Slika je simbolična.*
 
 ## Novi obrazac 1099-DA
 
