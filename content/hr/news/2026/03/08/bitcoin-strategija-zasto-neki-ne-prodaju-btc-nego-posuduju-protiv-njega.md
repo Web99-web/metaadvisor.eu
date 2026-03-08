@@ -66,6 +66,41 @@ Nakon kolapsa platformi poput **Celsiusa, BlockFija i Genesisa**, mnogi investit
 
 To pokazuje da tržište i dalje traži sigurniji način kako koristiti Bitcoin kao financijsko osiguranje.
 
+## Platforme na kojima je moguće posuđivati protiv Bitcoina
+
+Iako koncept "borrow against BTC" zvuči jednostavno, većinu ljudi zapravo zanima vrlo konkretno pitanje: **gdje se to u praksi može napraviti**.
+
+Danas postoji nekoliko različitih modela – od centraliziranih platformi do decentraliziranih DeFi protokola.
+
+### Nexo
+
+**Nexo** je jedna od najvećih kripto lending platformi u Europi. Korisnici mogu položiti Bitcoin kao kolateral i dobiti kredit u eurima, dolarima ili stablecoinima. Platforma je posebno popularna među investitorima koji žele brzo doći do likvidnosti bez prodaje BTC-a.
+
+### Ledn
+
+**Ledn** je platforma fokusirana gotovo isključivo na Bitcoin. Mnogi dugoročni BTC investitori koriste Ledn za tzv. **Bitcoin-backed loans**, odnosno kredite osigurane Bitcoinom.
+
+### Binance Loans
+
+Kripto burza **Binance** također omogućuje uzimanje kredita uz kolateral u kriptovalutama, uključujući Bitcoin. Korisnici mogu posuditi stablecoine ili druge kriptovalute dok njihov BTC ostaje zaključan kao kolateral.
+
+### Aave (DeFi)
+
+U decentraliziranom financijskom sustavu (**DeFi**) moguće je posuđivati koristeći **Wrapped Bitcoin (WBTC)** kao kolateral. Jedan od najpoznatijih protokola za to je **Aave**, gdje korisnici mogu deponirati WBTC i posuditi stablecoine poput USDC ili DAI.
+
+## Noviji model: sigurniji Bitcoin krediti
+
+Nakon kolapsa velikih kripto lending platformi poput **Celsius**, **BlockFi** i **Genesis**, mnogi investitori postali su puno oprezniji prema modelu u kojem platforma izravno drži njihov Bitcoin.
+
+Zbog toga su se pojavili novi projekti koji pokušavaju smanjiti rizik.
+
+### Firefish
+
+**Firefish** koristi model u kojem se Bitcoin drži u **multisig escrow walletu**, što znači da platforma nema potpunu kontrolu nad sredstvima korisnika.
+
+### Debifi
+
+Sličan pristup koristi i **Debifi**, gdje se krediti dogovaraju između investitora i zajmodavaca uz Bitcoin kao kolateral, ali bez potrebe da jedna centralna kompanija drži potpunu kontrolu nad BTC-om.
 ## Koliko se zapravo može posuditi
 
 To ovisi o tzv. **LTV-u (Loan-to-Value)**, odnosno omjeru kredita i vrijednosti kolaterala. Ako platforma dopušta maksimalni LTV od 50%, to znači da uz kolateral vrijedan 70.000 eura teoretski možeš dobiti do 35.000 eura kredita.
