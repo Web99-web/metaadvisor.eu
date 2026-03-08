@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin’s BTC $ 67,316.44 recent tendency to move in step with U.S. equities does not erase its value as a portfolio diversifier.
+Bitcoin’s BTC $ 67,052.60 recent tendency to move in step with U.S. equities does not erase its value as a portfolio diversifier.
 
 That’s according to financial services and infrastructure firm NYDIG. In a weekly market note, Greg Cipolaro, the company’s global head of research, said correlations between bitcoin and stock benchmarks such as the S&P 500, the Nasdaq 100, and the software-heavy IGV ETF have risen in recent months.
 

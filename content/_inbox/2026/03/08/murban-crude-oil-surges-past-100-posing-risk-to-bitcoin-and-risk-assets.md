@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Oil barrels that can still reliably reach global markets via the Middle East are now trading above $100 a barrel, a stark market signal of acute geopolitical stress and supply fears that could ripple through global risk assets, including stocks and bitcoin BTC $ 67,316.44 .
+Oil barrels that can still reliably reach global markets via the Middle East are now trading above $100 a barrel, a stark market signal of acute geopolitical stress and supply fears that could ripple through global risk assets, including stocks and bitcoin BTC $ 67,052.60 .
 
 Since the military conflict between the U.S., Israel and Iran began a week ago, Iran has significantly disrupted oil flows through the Strait of Hormuz, a major route that facilitates over $500 billion in oil and gas trade annually.
 
