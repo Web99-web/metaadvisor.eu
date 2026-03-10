@@ -1,4 +1,3 @@
-content/hr/news/2026-03-10-hyperliquid-tokenizirani-futuresi-1-2-milijarde.md
 ---
 title: "Hyperliquidovi tokenizirani futuresi prelaze 1,2 milijarde dolara dok trgovci spekuliraju na naftu i dionice"
 slug: "hyperliquid-tokenizirani-futuresi-nafta-dionice"
@@ -18,6 +17,7 @@ image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["kripto", "crypto", "hyperliquid", "defi", "rwa", "tokenizirana imovina", "futures", "perpetual futures", "nafta", "zlato", "srebro", "s&p500", "trgovanje", "blockchain", "decentralizirane burze", "defi tržišta"]
 summary: "Decentralizirana platforma Hyperliquid bilježi rekordnih 1,2 milijarde dolara otvorenih futures pozicija, dok trgovci sve više koriste blockchain za spekulacije na cijene nafte, zlata i burzovnih indeksa."
 ---
+*Slika je simbolična.*
 
 <p style="text-align:center; margin:18px 0 8px 0;">
 <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
@@ -26,7 +26,7 @@ style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; te
 </a>
 </p>
 
-*Slika je simbolična.*
+
 
 # Hyperliquidovi tokenizirani futuresi prelaze 1,2 milijarde dolara
 
