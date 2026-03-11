@@ -19,11 +19,11 @@ The blockchain payments firm plans to repurchase up to $750 million in shares fr
 
 Ripple is a major contributor to the XRP Ledger network, a blockchain designed for banks and payment firms to move money across borders and settle transfers in seconds. The firm said it has processed over 100 billion in transactions across its payments ecosystem.
 
-The company has been quickly expanding through acquisitions, building services around trading and digital asset infrastructure. That push included the $1.25 billion purchase of prime brokerage Hidden Road and buying corporate treasury business GTreasury for $1 billion. The firm also issues a U.S. dollar stablecoin, the $1.5 billion RLUSD $ 1.0000 , via its custody arm.
+The company has been quickly expanding through acquisitions, building services around trading and digital asset infrastructure. That push included the $1.25 billion purchase of prime brokerage Hidden Road and buying corporate treasury business GTreasury for $1 billion. The firm also issues a U.S. dollar stablecoin, the $1.5 billion RLUSD $ 0.9998 , via its custody arm.
 
 The move comes after a major funding round just months ago. In November, Ripple raised $500 million at a $40 billion valuation from a group of investors that included funds managed by affiliates of Fortress Investment Group, affiliates of Citadel Securities, Pantera Capital, Galaxy Digital, Brevan Howard and Marshall Wace.
 
-That indicates a 25% higher valuation since the fundraising, despite a crypto market downturn that saw bitcoin BTC $ 70,447.01 and XRP tumble 30%-40% over the same period.
+That indicates a 25% higher valuation since the fundraising, despite a crypto market downturn that saw bitcoin BTC $ 70,510.06 and XRP tumble 30%-40% over the same period.
 
 Wells Fargo signals deeper push into crypto, filing trademark for WFUSD
 

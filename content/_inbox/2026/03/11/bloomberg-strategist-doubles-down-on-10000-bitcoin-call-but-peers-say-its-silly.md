@@ -17,13 +17,13 @@ Bloomberg Intelligence senior commodity strategist Mike McGlone, who previously 
 
 In an interview with EllioTrades , McGlone said the crypto bear market may not be over and warned that bitcoin could remain vulnerable if global risk assets reprice sharply.
 
-McGlone’s forecast was met with rebuttals from several market analysts who said that while they agree a further downside for bitcoin BTC $ 70,447.01 is possible, a drop to $10,000 would likely require an extraordinary global liquidity event.
+McGlone’s forecast was met with rebuttals from several market analysts who said that while they agree a further downside for bitcoin BTC $ 69,593.87 is possible, a drop to $10,000 would likely require an extraordinary global liquidity event.
 
 “Analysts often get lost in short-term macro noise, and sometimes they extrapolate that into silly conclusions,” said Mati Greenspan, founder and CEO of Quantum Economics.
 
 “For an asset like bitcoin, which regularly sees tens to hundreds of billions of dollars in daily trading volume across global markets, to revisit $10,000 we’d need a global liquidity crisis, a nuclear war, and the internet to stop working.”
 
-Bitcoin BTC $ 70,447.01 is currently hovering around $70,000, after trading between $69,000 and $71,000. BTC’s price rise appeared to coincide with oil quickly reversing most of its session's large gains, dropping $3 per barrel in minutes. Other crypto assets, including ether (ETH), solana (SOL) and XRP, also saw upward moves.
+Bitcoin BTC $ 69,593.87 is currently hovering around $70,000, after trading between $69,000 and $71,000. BTC’s price rise appeared to coincide with oil quickly reversing most of its session's large gains, dropping $3 per barrel in minutes. Other crypto assets, including ether (ETH), solana (SOL) and XRP, also saw upward moves.
 
 McGlone based his bearish analysis on broader macroeconomic conditions. He believes bitcoin has increasingly traded in tandem with other speculative assets as institutional participation in crypto markets has grown, weakening the narrative that crypto serves as an uncorrelated hedge against traditional markets.
 
