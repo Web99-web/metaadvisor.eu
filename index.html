@@ -166,7 +166,7 @@
   </div>
 {{ end }}
 
-{{ partial "home-support.html" . }}
+
   
       {{ if gt $paginator.TotalPages 1 }}
         <div style="display:flex;gap:10px;justify-content:center;margin-top:22px">
@@ -183,6 +183,8 @@
   </div>
 </section>
 
+  {{ partial "home-support.html" . }}
+  
  <footer>
   <div class="container foot">
     <small>© {{ now.Format "2006" }} <strong>MetaAdvisor.eu</strong></small>
