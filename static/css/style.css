@@ -555,3 +555,25 @@ img.card-img{
 .support-btn:hover {
   opacity: 0.9;
 }
+
+/* =========================
+   HOME SUPPORT BLOCK – UPDATED DESIGN
+========================= */
+
+.home-support {
+  margin: 40px auto;
+  padding: 40px 25px;
+  max-width: 1100px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #f3f6ff 0%, #e9efff 100%);
+  text-align: center;
+}
+
+.home-support p {
+  font-size: 18px;
+  line-height: 1.7;
+  color: #3a3a3a;
+  font-weight: 500; /* jače ali ne bold */
+  max-width: 720px;
+  margin: 0 auto 20px;
+}
