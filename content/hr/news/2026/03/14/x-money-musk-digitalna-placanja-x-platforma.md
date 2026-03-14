@@ -92,11 +92,13 @@ To bi također moglo promijeniti poslovni model same platforme. Umjesto oslanjan
 
 ## Veliki izazovi
 
-Unatoč ambicioznoj viziji, X Money suočit će se s brojnim izazovima. Financijski sektor zahtijeva visoku razinu sigurnosti, regulatorne usklađenosti i zaštite korisnika. Platforma će morati osigurati sigurnost transakcija, zaštitu korisničkih sredstava i sustave za sprječavanje prijevara i pranja novca.
+Unatoč ambicioznoj viziji, **X Money suočit će se s nizom ozbiljnih izazova**. Financijski sektor zahtijeva visoku razinu sigurnosti, regulatorne usklađenosti i zaštite korisnika. Platforma će morati osigurati **sigurnost transakcija, zaštitu korisničkih sredstava te sustave za sprječavanje prijevara i pranja novca**.
 
-Osim toga, X će se natjecati s već etabliranim digitalnim payment platformama kao što su **PayPal, Venmo, Apple Pay i Cash App**, koje već imaju milijune korisnika, prepoznatljiv brand i razvijenu infrastrukturu.
+Istodobno će se X natjecati s već etabliranim digitalnim payment platformama kao što su **PayPal, Venmo, Apple Pay i Cash App**, koje već imaju milijune korisnika, prepoznatljiv brand i razvijenu infrastrukturu.
 
-Drugi izazov je povjerenje. Korisnici su navikli koristiti društvene mreže za sadržaj i komunikaciju, ali ne nužno i za držanje ili prijenos novca. Upravo zato će prvi dojam X Money sustava biti izuzetno važan. Ako sustav bude spor, kompliciran ili izazove sigurnosne kontroverze, povjerenje korisnika moglo bi se vrlo teško vratiti.
+Ipak, **prema procjeni Metaadvisor.eu**, Musk ima jednu prednost koju mnoge fintech kompanije nemaju. Njegove ideje često vrlo brzo pronalaze publiku, a velik broj njegovih obožavatelja i pratitelja nalazi se upravo na platformi **X**. Zbog toga postoji realna mogućnost da bi novi sustav plaćanja mogao dobiti **brzi početni zamah zahvaljujući postojećoj korisničkoj bazi mreže**.
+
+Drugi veliki izazov bit će **povjerenje korisnika**. Ljudi su navikli koristiti društvene mreže za sadržaj i komunikaciju, ali ne nužno i za držanje ili prijenos novca. Upravo zato će **prvi dojam X Money sustava biti izuzetno važan**. Ako sustav bude spor, kompliciran ili izazove sigurnosne kontroverze, povjerenje korisnika moglo bi se vrlo teško vratiti. **No, s obzirom na dosadašnje Muskove projekte i snažnu bazu njegovih pratitelja, moguće je da će velik broj korisnika ipak biti spreman vrlo brzo isprobati nove funkcije platforme.**
 
 ## Zašto industrija pažljivo prati X Money
 
