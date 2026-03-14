@@ -67,9 +67,14 @@
   </header>
 
   <div class="post-body">
-    {{ $p.Content }}
+  {{ $p.Content }}
+</div>
 
- {{ if $isNews }}
+{{ if $isNews }}
+  {{ partial "article-support.html" . }}
+{{ end }}
+
+{{ if $isNews }}
 <div class="share-box">
   <span class="share-label">Share</span>
 
