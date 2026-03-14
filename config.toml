@@ -46,10 +46,11 @@ placeholder_image = "/images/finance.jpg"
   instagram = "https://www.instagram.com/metaadvisor.eu/"
   facebook  = "https://www.facebook.com/profile.php?id=61580191122240"
   x         = "https://x.com/MetaadvisorEU"
-  tiktok = "https://www.tiktok.com/@metaadvisor.eu"
-  linkedin = "https://linkedin.com/..."
-  mastodon = "https://mastodon.social/@metaadvisor"
+  tiktok    = "https://www.tiktok.com/@metaadvisor.eu"
+  linkedin  = "https://www.linkedin.com/company/metaadvisoreu/"
+  mastodon  = "https://mastodon.social/@metaadvisor"
   buymeacoffee = "https://buymeacoffee.com/metaadvisor"
+  
 
 [taxonomies]
   tag = "tags"
