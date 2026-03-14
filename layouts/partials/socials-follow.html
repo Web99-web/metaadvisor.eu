@@ -14,9 +14,9 @@
       </a>
     {{ end }}
 
-    {{ with $s.facebook }}
-      <a href="{{ . }}" target="_blank" rel="me noopener nofollow" class="social-btn fb">
-        Facebook
+    {{ with $s.linkedin }}
+      <a href="{{ . }}" target="_blank" rel="me noopener nofollow" class="social-btn li">
+        LinkedIn
       </a>
     {{ end }}
 
@@ -26,21 +26,21 @@
       </a>
     {{ end }}
 
+    {{ with $s.mastodon }}
+      <a href="{{ . }}" target="_blank" rel="me noopener nofollow" class="social-btn mastodon">
+        Mastodon
+      </a>
+    {{ end }}
+
     {{ with $s.tiktok }}
       <a href="{{ . }}" target="_blank" rel="me noopener nofollow" class="social-btn tt">
         TikTok
       </a>
     {{ end }}
 
-    {{ with $s.linkedin }}
-      <a href="{{ . }}" target="_blank" rel="me noopener nofollow" class="social-btn li">
-        LinkedIn
-      </a>
-    {{ end }}
-
-    {{ with $s.mastodon }}
-      <a href="{{ . }}" target="_blank" rel="me noopener nofollow" class="social-btn mastodon">
-        Mastodon
+    {{ with $s.facebook }}
+      <a href="{{ . }}" target="_blank" rel="me noopener nofollow" class="social-btn fb">
+        Facebook
       </a>
     {{ end }}
 
