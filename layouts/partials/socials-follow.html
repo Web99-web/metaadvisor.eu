@@ -32,5 +32,23 @@
       </a>
     {{ end }}
 
+    {{ with $s.linkedin }}
+      <a href="{{ . }}" target="_blank" rel="me noopener nofollow" class="social-btn li">
+        LinkedIn
+      </a>
+    {{ end }}
+
+    {{ with $s.mastodon }}
+      <a href="{{ . }}" target="_blank" rel="me noopener nofollow" class="social-btn mastodon">
+        Mastodon
+      </a>
+    {{ end }}
+
+    {{ with $s.buymeacoffee }}
+      <a href="{{ . }}" target="_blank" rel="noopener nofollow" class="social-btn bmc">
+        ☕ Support
+      </a>
+    {{ end }}
+
   </div>
 </div>
