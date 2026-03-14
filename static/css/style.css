@@ -503,11 +503,11 @@ img.card-img{
 
 /* Platform colors */
 .social-btn.x { background: #000; }              /* X */
-.social-btn.fb { background: #1877f2; }          /* Facebook */
-.social-btn.ig { background: #e1306c; }          /* Instagram */
-.social-btn.tt { background: #000; }             /* TikTok */
 .social-btn.li { background: #0A66C2; }          /* LinkedIn */
 .social-btn.mastodon { background: #6364FF; }    /* Mastodon */
+.social-btn.ig { background: #e1306c; }          /* Instagram */
+.social-btn.tt { background: #000; }             /* TikTok */
+.social-btn.fb { background: #1877f2; }          /* Facebook */
 .social-btn.bmc { 
   background: #FFDD00;                           /* Buy Me a Coffee */
   color: #000;
