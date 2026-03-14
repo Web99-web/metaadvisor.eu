@@ -577,3 +577,10 @@ img.card-img{
   max-width: 720px;
   margin: 0 auto 20px;
 }
+.support-highlight {
+  margin-top: 6px;
+  font-size: 17px;
+  font-weight: 500;
+  color: #1e293b;
+  font-style: italic;
+}
