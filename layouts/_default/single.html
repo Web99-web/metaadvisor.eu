@@ -115,6 +115,8 @@
 
   <span id="copyNotice" class="copy-notice">Copied!</span>
 </div>
+
+  {{ if $isNews }}{{ partial "related.html" $p }}{{ end }}
 {{ end }}
 
 
@@ -126,7 +128,7 @@
     {{ end }}
   </div>
 
-  {{ partial "fb-like.html" $p }}
+  
 
   {{ if and $isNews (or $p.Params.source $p.Params.source_url) }}
     {{/* Link samo ako je IZRIČITO dopušten po članku i postoji URL */}}
@@ -165,7 +167,7 @@
 {{ end }}
 
 {{ if $isNews }}{{ partial "post-nav.html" $p }}{{ end }}
-{{ if $isNews }}{{ partial "related.html" $p }}{{ end }}
+{{ partial "fb-like.html" $p }}
 {{ partial "disclaimer.html" $p }}
 
 
