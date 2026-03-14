@@ -1,5 +1,5 @@
 ---
-title: "X Money: Elon Musk once again tries to combine social networks and digital money"
+title: "Elon Musk is building X Money — a digital payment system inside the X platform"
 slug: "x-money-musk-digital-payments-x-platform"
 date: 2026-03-14T20:00:00+01:00
 category: "tech"
