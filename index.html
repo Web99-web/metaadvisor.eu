@@ -166,7 +166,8 @@
   </div>
 {{ end }}
 
-
+{{ partial "home-support.html" . }}
+  
       {{ if gt $paginator.TotalPages 1 }}
         <div style="display:flex;gap:10px;justify-content:center;margin-top:22px">
           {{ with $paginator.Prev }}<a class="btn" href="{{ .URL }}">← Newer</a>{{ end }}
