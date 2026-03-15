@@ -9,8 +9,12 @@ menu:
 ---
 
 <p>Sie können MetaAdvisor über unsere offiziellen Kanäle oder per E-Mail erreichen:</p>
+<p>📩 <strong>Email:</strong> 
+<a href="mailto:metaadvisoreu+webcontact@gmail.com">
+metaadvisoreu<span style="display:none">remove-this</span>+webcontact@gmail.com
+</a>
+</p>
 
-<p>📩 <strong>E-Mail:</strong> metaadvisoreu+webcontact@gmail.com</p>
 
 <ul>
   <li>🐦 X (Twitter): 
