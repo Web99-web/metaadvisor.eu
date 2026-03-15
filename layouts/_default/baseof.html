@@ -180,7 +180,10 @@
 
   {{ block "main" . }}{{ end }}
 
+  {{ if not (or (eq .Type "news") (eq .Section "news")) }}
   {{ partial "home-support.html" . }}
+  {{ end }}
+
 </main>
 
  
