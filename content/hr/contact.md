@@ -10,7 +10,12 @@ menu:
 
 <p>MetaAdvisor možete kontaktirati putem naših službenih kanala ili e-maila:</p>
 
-<p>📩 <strong>E-mail:</strong> metaadvisoreu+webcontact@gmail.com</p>
+<p>📩 <strong>Email:</strong> 
+<a href="mailto:metaadvisoreu+webcontact@gmail.com">
+metaadvisoreu<span style="display:none">remove-this</span>+webcontact@gmail.com
+</a>
+</p>
+
 
 <ul>
   <li>🐦 X (Twitter): 
