@@ -23,4 +23,7 @@ Was dich erwartet
 - Einsteigerfreundliche Erklärstücke.  
 - Ab und zu Deep Dives, wenn Trends relevant werden.
 
-Fragen oder Ideen? → [Kontakt](/de/contact/)
+MetaAdvisor ist ein **unabhängiges Medienprojekt, das globale Trends in Technologie, künstlicher Intelligenz und Kryptowährungen erklärt.**
+
+Fragen oder Ideen?  
+📩 **metaadvisoreu+webcontact@gmail.com**
