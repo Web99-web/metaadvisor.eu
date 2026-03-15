@@ -30,4 +30,4 @@ Questions or ideas?
 
 
 
-MetaAdvisor is an independent media project covering technology, artificial intelligence and crypto trends worldwide.
+
