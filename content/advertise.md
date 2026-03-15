@@ -8,9 +8,9 @@ draft: false
 
 **MetaAdvisor** is an independent media project covering **technology, AI and crypto trends**.
 
-Our readers come from different parts of the world, including the **United States, Europe and Asia**, with growing interest in digital finance, emerging technologies and the future of the internet.
+Our audience includes readers interested in **digital finance, emerging technologies and the future of the internet**.
 
-While we are still a relatively small project, our audience is highly focused on topics such as **AI, crypto, fintech and digital innovation**.
+While we are still a relatively small project, our content focuses on topics such as **AI, crypto, fintech and digital innovation**.
 
 ### Advertising & collaborations
 
