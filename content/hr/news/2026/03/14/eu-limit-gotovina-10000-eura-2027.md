@@ -69,6 +69,15 @@ Zagovornici ove mjere tvrde da će ona povećati transparentnost financijskih to
 
 Rasprava o ulozi gotovine u modernom financijskom sustavu zato će se gotovo sigurno nastaviti i u godinama koje dolaze.
 
+## Naš osvrt (Metaadvisor)
+
+- Europska unija uvodi **jedinstveni limit od 10.000 € za gotovinska plaćanja**, ali države članice mogu zadržati i stroža nacionalna ograničenja.
+- Pravilo se odnosi na **jednu pojedinačnu transakciju**, a ne na tjedni, mjesečni ili godišnji iznos potrošnje.
+- Limit je dio šireg europskog paketa protiv pranja novca koji uključuje i novu instituciju za nadzor financijskog sustava na razini EU.
+- Iako se često na društvenim mrežama govori o “zabrani gotovine”, nova regulativa **ne ukida gotovinu**, nego ograničava velike gotovinske transakcije.
+- Rasprava o ravnoteži između **borbe protiv kriminala i financijske privatnosti građana** vjerojatno će se nastaviti i nakon što pravila stupe na snagu 2027. godine.
+
 <p style="font-size:0.85em; color:#777;">
 Napomena: Ovaj tekst služi u informativne svrhe i ne predstavlja financijski ili pravni savjet.
 </p>
+
