@@ -23,4 +23,11 @@ What you can expect
 - Beginner-friendly explainers.  
 - Occasional deep dives when a trend really matters.
 
-Questions or ideas? → [Contact](/contact/)
+MetaAdvisor is an **independent media project covering technology, artificial intelligence and crypto trends worldwide.**
+
+Questions or ideas?  
+📩 **metaadvisoreu+webcontact@gmail.com**
+
+
+
+MetaAdvisor is an independent media project covering technology, artificial intelligence and crypto trends worldwide.
