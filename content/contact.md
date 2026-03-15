@@ -52,11 +52,8 @@ menu:
   <li>☕ Support MetaAdvisor: 
     <a href="https://buymeacoffee.com/metaadvisor" target="_blank" rel="noopener noreferrer">
       buymeacoffee.com/metaadvisor
-    </a>
+    </a> – If you enjoy our work, you can support our independent project here.
   </li>
-
-  For advertising inquiries please see the Advertise page.
-
 </ul>
 
 <p>We monitor messages on our official social profiles and do our best to respond.</p>
