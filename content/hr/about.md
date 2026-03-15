@@ -23,4 +23,7 @@ Kako pišemo
 - Tekstove za početnike.  
 - Povremene dublje analize kada trend to zaslužuje.
 
-Pitanja ili prijedlozi? → [Kontakt](/hr/contact/)
+MetaAdvisor je **neovisni medijski projekt koji prati tehnologiju, umjetnu inteligenciju i kripto trendove u svijetu.**
+
+Pitanja ili prijedlozi?  
+📩 **metaadvisoreu+webcontact@gmail.com**
