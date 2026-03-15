@@ -7,10 +7,10 @@ translationKey: "defi-50m-trade-mev-loss-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/Millions-50M-lost.png"
-featured_image: "/images/Millions-50M-lost.png"
-image: "/images/Millions-50M-lost.png"
-thumbnail: "/images/Millions-50M-lost.png"
+image_url: "/images/news/Millions-50M-lost.png"
+featured_image: "/images/news/Millions-50M-lost.png"
+image: "/images/news/Millions-50M-lost.png"
+thumbnail: "/images/news/Millions-50M-lost.png"
 image_alt: "One click millions lost crypto trade"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["kripto", "defi", "aave", "mev", "ethereum", "trgovanje kriptovalutama"]
@@ -108,8 +108,10 @@ Ujedno, slučaj ponovno otvara raspravu o ulozi **MEV botova**, koje mnogi smatr
 
 Ako želite bolje razumjeti kako MEV botovi zapravo funkcioniraju i zašto ih mnogi smatraju jednim od najvećih problema u DeFi-ju, pročitajte naš detaljni vodič:
 
-👉 **Što je MEV trgovanje i zašto je postalo jedan od najvećih problema DeFi-ja**  
-https://metaadvisor.eu/hr/news/sto-je-mev-trgovanje-defi/
+👉 👉 <a href="https://metaadvisor.eu/hr/news/sto-je-mev-trgovanje-defi/" target="_blank" rel="noopener">
+<strong>Što je MEV trgovanje i zašto je postalo jedan od najvećih problema DeFi-ja</strong>
+</a>
+
 
 ---
 
