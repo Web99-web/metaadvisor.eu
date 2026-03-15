@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-description: "Wie Sie MetaAdvisor erreichen können."
+description: "So erreichen Sie MetaAdvisor."
 date: 2025-09-06
 menu:
   main:
@@ -8,29 +8,54 @@ menu:
     weight: 30
 ---
 
-<p>Kontaktieren Sie uns über unsere offiziellen Kanäle:</p>
+<p>Sie können MetaAdvisor über unsere offiziellen Kanäle oder per E-Mail erreichen:</p>
+
+<p>📩 <strong>E-Mail:</strong> metaadvisoreu+webcontact@gmail.com</p>
 
 <ul>
-  <li>🐦 X (Twitter):
+  <li>🐦 X (Twitter): 
     <a href="https://x.com/MetaadvisorEU" target="_blank" rel="noopener noreferrer">
       @MetaadvisorEU
     </a>
   </li>
-  <li>📸 Instagram:
+
+  <li>🌐 Mastodon: 
+    <a href="https://mastodon.social/@metaadvisor" target="_blank" rel="noopener noreferrer">
+      mastodon.social/@metaadvisor
+    </a>
+  </li>
+
+  <li>💼 LinkedIn: 
+    <a href="https://www.linkedin.com/company/metaadvisoreu/" target="_blank" rel="noopener noreferrer">
+      MetaAdvisor
+    </a>
+  </li>
+
+  <li>📸 Instagram: 
     <a href="https://www.instagram.com/metaadvisor.eu/" target="_blank" rel="noopener noreferrer">
       metaadvisor.eu
     </a>
   </li>
-  <li>📘 Facebook:
+
+  <li>🎵 TikTok: 
+    <a href="https://www.tiktok.com/@metaadvisor.eu" target="_blank" rel="noopener noreferrer">
+      @metaadvisor.eu
+    </a>
+  </li>
+
+  <li>📘 Facebook: 
     <a href="https://www.facebook.com/metaadvisor.eu/" target="_blank" rel="noopener noreferrer">
       facebook.com/metaadvisor.eu
     </a>
   </li>
-  <li>🌐 Website:
-    <a href="https://metaadvisor.eu" target="_blank" rel="noopener noreferrer">
-      metaadvisor.eu
-    </a>
+
+  <li>☕ MetaAdvisor unterstützen: 
+    <a href="https://buymeacoffee.com/metaadvisor" target="_blank" rel="noopener noreferrer">
+      buymeacoffee.com/metaadvisor
+    </a> – Wenn Ihnen unsere Inhalte gefallen, können Sie hier unser unabhängiges Projekt unterstützen.
   </li>
 </ul>
 
-<p>Wir verfolgen Nachrichten auf unseren offiziellen Profilen regelmäßig und bemühen uns, zeitnah zu antworten.</p>
+<p>Wir prüfen Nachrichten auf unseren offiziellen Social-Media-Profilen und versuchen so schnell wie möglich zu antworten.</p>
+
+<p>Für Werbeanfragen besuchen Sie bitte die Seite <a href="/de/advertise/">Advertise</a>.</p>
