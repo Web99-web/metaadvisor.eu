@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Forensic analysis of lobbyist Mauricio Novelli’s phone reportedly uncovered a draft document outlining a $5 million payment tied to Milei’s promotion of the Libra token.
+Forensic analysis of lobbyist Mauricio Novelli’s phone reportedly uncovered a draft document outlining a $5 million payment tied to Argentina's president's promotion of the Libra token.
 
 New forensic findings from the phone of crypto lobbyist Mauricio Novelli have revealed a draft document suggesting a possible $5 million agreement connected to Argentine President Javier Milei’s promotion of the Libra token, according to local media reports.
 
@@ -25,6 +25,4 @@ The document then details the payment structure. “$1.5M of liquid tokens or ca
 
 Notably, the draft note does not specify who would receive the funds.
 
-Related: Argentina turns up the heat in Libra scandal with sweeping asset freeze
-
-Investigators also recovered a separate note drafted on Feb. 16, 2025, two days after the Libra controversy erupted online. The message appears to outline a public statement intended to calm the
+The case centers on Libra, a memecoin that gained traction in February 2025 after Milei briefly promoted Davis in a social-media post as a blockchain and AI adviser. Within hours, the token surged and then crashed, wiping out about $250 million from more than
