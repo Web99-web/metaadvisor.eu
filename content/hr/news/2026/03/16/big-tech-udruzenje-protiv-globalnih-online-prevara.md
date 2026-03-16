@@ -36,7 +36,6 @@ Cilj inicijative je **brža razmjena informacija o scamovima, koordinirano uklan
 
 Ovaj potez dolazi u trenutku kada globalni gubici od online prijevara dosežu **desetke milijardi dolara godišnje**, a sve veći broj napada koristi i **umjetnu inteligenciju, deepfake tehnologiju i automatizirane botove**.
 
-*Slika je simbolična.*
 
 ## Zašto su online prevare postale globalni problem
 
