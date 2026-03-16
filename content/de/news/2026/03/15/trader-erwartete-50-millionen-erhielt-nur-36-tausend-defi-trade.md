@@ -1,7 +1,7 @@
 ---
 title: "Trader erwartete 50 Millionen Dollar, erhielt nur 36 Tausend – was ist passiert?"
 slug: "trader-erwartete-50-millionen-erhielt-nur-36-tausend-defi-trade"
-translationKey: "defi-50m-trade-mev-loss-2026"
+date: 2026-03-15T08:00:00+01:00
 category: "crypto"
 translationKey: "defi-50m-trade-mev-loss-2026"
 author: "Metaadvisor.eu"
