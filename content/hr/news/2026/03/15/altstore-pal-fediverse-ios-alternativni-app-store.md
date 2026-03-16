@@ -46,6 +46,13 @@ Najpoznatija platforma koja koristi ovaj sustav je **Mastodon**, ali u Fediverse
 
 U takvom sustavu korisnici na jednom serveru mogu pratiti korisnike i sadržaj s drugih servera. To znači da mreža funkcionira kao **federacija međusobno povezanih platformi**, a ne kao jedna centralna društvena mreža.
 
+Važno je napomenuti da Fediverse nije jedna platforma, nego mreža međusobno povezanih servera. Najpoznatiji primjer takve mreže je **Mastodon**, decentralizirana društvena platforma koja je posljednjih godina doživjela značajan rast, posebno među developerima, novinarima i open-source zajednicom.
+
+**Ako želite isprobati Mastodon i Fediverse mrežu, pripremili smo i detaljan vodič:  
+[Kako smo otvorili račun na Mastodonu: vodič kroz decentraliziranu društvenu mrežu](https://metaadvisor.eu/hr/news/kako-otvoriti-racun-na-mastodonu-decentralizirana-drustvena-mreza/).**
+
+U tom vodiču korak po korak objašnjavamo kako funkcioniraju serveri, kako odabrati instancu i kako otvoriti vlastiti račun na decentraliziranoj društvenoj mreži.
+
 ## Prvi federirani marketplace za aplikacije
 
 AltStore PAL planira pokrenuti vlastiti **Mastodon server** koji će služiti kao komunikacijska platforma za developere i korisnike aplikacija. Developeri će moći objavljivati informacije o svojim aplikacijama, novim verzijama, sigurnosnim upozorenjima ili promjenama u funkcionalnosti.
