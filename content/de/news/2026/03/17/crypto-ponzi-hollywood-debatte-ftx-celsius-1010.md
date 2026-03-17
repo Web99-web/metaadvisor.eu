@@ -15,7 +15,7 @@ image_alt: "Hollywood und die Kryptoindustrie im Fokus der Debatte"
 tags: ["krypto", "hollywood", "ftx", "celsius", "bitcoin", "analyse", "markt", "investoren", "blockchain", "finanzen"]
 summary: "Hollywood bringt durch Ben McKenzies Dokumentation die Kryptofrage erneut in den Fokus, während im Hintergrund weiterhin der FTX-Kollaps 2022, die Celsius-Insolvenz und der Große Kollaps vom 10.10.2025 analysiert werden, die die Marktwahrnehmung verändert haben."
 symbolic_image: true
---------------------
+---
 
 Das Bild ist symbolisch.
 
