@@ -1,5 +1,4 @@
 ---
-
 title: "Ist Krypto ein Ponzi? Hollywood steigt in die Debatte ein und öffnet alte Fragen"
 slug: "crypto-ponzi-hollywood-debatte-ftx-celsius-1010"
 date: 2026-03-17T08:00:00+01:00
