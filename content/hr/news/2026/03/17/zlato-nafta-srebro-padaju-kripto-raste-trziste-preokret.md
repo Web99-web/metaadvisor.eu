@@ -3,7 +3,7 @@ title: "Zlato, nafta i srebro padaju dok rat eskalira — a Bitcoin raste. Je li
 slug: "zlato-nafta-srebro-rat-bitcoin-raste-trziste-preokret"
 date: 2026-03-17T12:00:00+01:00
 category: "crypto"
-translationKey: "hollywood-crypto-debate-2026"
+translationKey: "commodities-btc-shift-2026"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
