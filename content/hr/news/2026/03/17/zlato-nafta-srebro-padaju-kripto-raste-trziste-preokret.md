@@ -37,7 +37,7 @@ Takva kombinacija nije samo neobična, već otvara ozbiljno pitanje: **je li se 
 
 ---
 
-## Bitcoin raste — ali ne na “zdrav” način
+## Bitcoin raste — ali da li na zdrav način?
 
 Na prvi pogled, rast Bitcoina djeluje kao povratak snage tržišta. No dublja analiza pokazuje da situacija nije tako jednostavna.
 
