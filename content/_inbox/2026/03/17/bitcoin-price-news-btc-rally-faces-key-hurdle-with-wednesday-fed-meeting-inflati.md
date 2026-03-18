@@ -13,9 +13,9 @@ _build:
   list: never
 ---
 
-The crypto rally is took a pause on Tuesday ahead of Wednesday's Federal Reserve decision.
+The crypto rally took a pause on Tuesday ahead of Wednesday's Federal Reserve decision.
 
-After briefly topping $76,000 overnight, bitcoin BTC $ 74,639.11 pulled back to around $74,000 during the U.S. session, modestly higher over the past 24 hours.
+After briefly topping $76,000 overnight, bitcoin BTC $ 73,960.05 pulled back to around $74,000 during the U.S. session, modestly higher over the past 24 hours.
 
 Crypto stocks mostly booked modest gains, with stablecoin issuer Circle (CRCL), bitcoin miner Bitdeer (BTDR) standing out advancing 5% and 12%, respectively. The Nasdaq closed with a 0.5% gain and the S&P 500 rose 0.25%.
 
