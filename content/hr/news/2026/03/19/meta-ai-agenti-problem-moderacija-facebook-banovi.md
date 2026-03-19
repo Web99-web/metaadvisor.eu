@@ -48,9 +48,11 @@ Takvi primjeri ukazuju na obrazac — sustavi koji bi trebali raditi pod kontrol
 
 ## Meta i dalje ulaže u autonomne AI sustave
 
-Unatoč ovim problemima, Meta nastavlja razvijati tzv. “agentic AI” sustave. Nedavna kupnja platforme za komunikaciju između AI agenata dodatno potvrđuje taj smjer.
+Unatoč ovim problemima, Meta ne usporava razvoj.
 
-To znači da će AI u budućnosti imati još veću autonomiju — i još veću odgovornost.
+Nedavno je kompanija kupila Moltbook, društvenu mrežu nalik Redditu, namijenjenu komunikaciji između AI agenata. Time Meta jasno pokazuje da vjeruje u budućnost tzv. “agentic AI” sustava — umjetne inteligencije koja djeluje autonomno.
+
+To ujedno znači da će AI u budućnosti imati još veću autonomiju — ali i otvara pitanje koliko su takvi sustavi uopće pod kontrolom.
 
 ## AI moderacija i stvarni korisnici
 
