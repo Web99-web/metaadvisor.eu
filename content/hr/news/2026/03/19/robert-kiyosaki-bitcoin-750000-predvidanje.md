@@ -80,7 +80,7 @@ Ako investitori počnu donositi odluke temeljene isključivo na ovakvim projekci
 
 ## Naš osvrt
 
-Kiyosakijeva prognoza od 750.000 dolara za Bitcoin nije nemoguća — ali je u ovom trenutku teško opravdati je kroz aktualne tržišne trendove.
+Kiyosakijeva prognoza od 750.000 dolara za Bitcoin nije nemoguća — no nije jasno u kojem vremenskom okviru bi se to trebalo dogoditi, a u ovom trenutku teško ju je opravdati kroz aktualne tržišne trendove.
 
 U okruženju gdje Bitcoin mjesecima stagnira ili pada, scenarij naglog rasta zahtijevao bi izuzetno snažan katalizator, poput globalne financijske krize ili radikalnih monetarnih promjena.
 
