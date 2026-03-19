@@ -12,7 +12,7 @@ featured_image: "/images/news/Robert-Kiyosaki-btc-750000.png"
 image: "/images/news/Robert-Kiyosaki-btc-750000.png"
 thumbnail: "/images/news/Robert-Kiyosaki-btc-750000.png"
 image_alt: "Robert Kiyosaki und die Prognose von Bitcoin bei 750.000 Dollar"
-tags: ["krypto", "bitcoin", "analyse", "markt", "investitionen"]
+tags: ["robert kiyosaki", "bitcoin", "btc", "750000", "prognose", "krypto analyse", "krypto", "analyse", "markt", "investitionen"]
 summary: "Robert Kiyosaki behauptet, dass Bitcoin nach einem Zusammenbruch des Finanzsystems 750.000 Dollar erreichen könnte. Doch wie realistisch ist ein solches Szenario unter den aktuellen Marktbedingungen?"
 symbolic_image: true
 ---
