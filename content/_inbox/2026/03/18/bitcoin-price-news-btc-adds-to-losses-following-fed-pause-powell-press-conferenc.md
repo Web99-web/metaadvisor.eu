@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 71,184.51 slipped below $71,000 on Wednesday as Federal Reserve Chair Jerome Powell flagged rising oil prices amid the war in Iran as a new inflation risk.
+Bitcoin BTC $ 70,565.84 slipped below $71,000 on Wednesday as Federal Reserve Chair Jerome Powell flagged rising oil prices amid the war in Iran as a new inflation risk.
 
 The Fed held interest rates steady as expected, but during his post-meeting press conference, Powell acknowledged that the recent surge in energy prices is already feeding into the central bank’s outlook.
 
@@ -29,7 +29,7 @@ Despite that, Powell dismissed comparisons to a 1970s-style stagflation, even as
 
 Already under pressure prior to the Fed news on poor February inflation data and no sign the war in Iran is letting up, markets fell further late in the session.
 
-Bitcoin BTC $ 71,184.51 late Wednesday afternoon had pulled all the way back to $70,900, down almost 5% over the past 24 hours. Ether (ETH) was sporting a 6.5% decline.
+Bitcoin BTC $ 70,565.84 late Wednesday afternoon had pulled all the way back to $70,900, down almost 5% over the past 24 hours. Ether (ETH) was sporting a 6.5% decline.
 
 The S&P 500 and Nasdaq closed at the day's lows, down 1.4% and 1.5%, respectively. Gold extended its decline below $4,850 an ounce, now 3.1% lower on the day at its weakest price in more than a month.
 
