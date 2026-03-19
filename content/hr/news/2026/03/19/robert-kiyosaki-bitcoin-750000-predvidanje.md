@@ -14,6 +14,7 @@ thumbnail: "/images/news/Robert-Kiyosaki-btc-750000.png"
 image_alt: "Robert Kiyosaki i predviđanje Bitcoina od 750.000 dolara"
 tags: ["kripto", "bitcoin", "analiza", "tržište", "investicije"]
 summary: "Robert Kiyosaki tvrdi da bi Bitcoin mogao dosegnuti 750.000 dolara nakon kolapsa financijskog sustava. No koliko je takav scenarij realan u trenutnim tržišnim uvjetima?"
+symbolic_image: true
 ---
 
 *Slika je simbolična*
