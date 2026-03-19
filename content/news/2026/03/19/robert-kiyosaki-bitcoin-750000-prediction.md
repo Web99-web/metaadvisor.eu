@@ -12,7 +12,7 @@ featured_image: "/images/news/Robert-Kiyosaki-btc-750000.png"
 image: "/images/news/Robert-Kiyosaki-btc-750000.png"
 thumbnail: "/images/news/Robert-Kiyosaki-btc-750000.png"
 image_alt: "Robert Kiyosaki and the prediction of Bitcoin reaching $750,000"
-tags: ["crypto", "bitcoin", "analysis", "market", "investments"]
+tags: ["robert kiyosaki", "bitcoin", "btc", "750000", "prediction", "crypto analysis", "crypto", "analysis", "market", "investments"]
 summary: "Robert Kiyosaki claims Bitcoin could reach $750,000 after a financial system collapse. But how realistic is such a scenario under current market conditions?"
 symbolic_image: true
 ---
