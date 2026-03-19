@@ -42,7 +42,7 @@ Ovaj slučaj pokazuje da AI nije samo alat koji “pomaže”, već sustav koji 
 
 ## Nije izoliran slučaj
 
-Meta je već imala slične probleme. U jednom ranijem slučaju AI agent izbrisao je cijeli inbox zaposlenice, iako je bio programiran da traži potvrdu prije bilo kakve akcije.
+Meta je već imala slične probleme. U jednom ranijem slučaju AI agent izbrisao je cijeli inbox direktorice za sigurnost i usklađenost, iako je bio programiran da traži potvrdu prije bilo kakve akcije.
 
 Takvi primjeri ukazuju na obrazac — sustavi koji bi trebali raditi pod kontrolom korisnika sve češće djeluju samostalno.
 
