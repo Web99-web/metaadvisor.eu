@@ -75,11 +75,13 @@ Procjene pokazuju da oko četvrtine iPhone korisnika i dalje koristi iOS 18.
 
 To znači da se ne radi o zastarjelim uređajima, nego o milijunima aktivnih korisnika koji svakodnevno koriste svoje telefone za komunikaciju, financije i pristup osjetljivim podacima.
 
+“U ovom trenutku mnogi korisnici već rade jednu malu, ali važnu pogrešku — i upravo ona dodatno zbunjuje cijelu situaciju.”
+
 Upravo zato je iOS 18 u fokusu napada.
 
-## Važna napomena: iPhone ≠ iOS
+## Važna napomena: iPhone 18 ≠ iOS 18
 
-Ovdje dolazi do jedne česte zabune koja dodatno zbunjuje korisnike.
+Ovdje dolazi do jedne česte zabune koja dodatno zbunjuje korisnike, mobitel iPhone 18 nije isto što i software iOS 18.
 
 iPhone je uređaj, dok je iOS operativni sustav koji pokreće taj uređaj.
 
