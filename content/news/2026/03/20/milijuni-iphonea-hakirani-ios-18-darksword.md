@@ -75,9 +75,7 @@ Procjene pokazuju da oko četvrtine iPhone korisnika i dalje koristi iOS 18.
 
 To znači da se ne radi o zastarjelim uređajima, nego o milijunima aktivnih korisnika koji svakodnevno koriste svoje telefone za komunikaciju, financije i pristup osjetljivim podacima.
 
-“U ovom trenutku mnogi korisnici već rade jednu malu, ali važnu pogrešku — i upravo ona dodatno zbunjuje cijelu situaciju.”
-
-Upravo zato je iOS 18 u fokusu napada.
+Upravo zato je iOS 18 u fokusu napada. U ovom trenutku mnogi korisnici već rade jednu malu, ali važnu pogrešku — i upravo ona dodatno zbunjuje cijelu situaciju.
 
 ## Važna napomena: iPhone 18 ≠ iOS 18
 
