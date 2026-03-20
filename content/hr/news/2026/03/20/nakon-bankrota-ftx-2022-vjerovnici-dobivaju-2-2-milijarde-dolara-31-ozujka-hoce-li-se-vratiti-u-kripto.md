@@ -37,15 +37,15 @@ Ukupno je do sada vraćeno oko 10 milijardi dolara, što ovaj slučaj čini jedn
 
 ## Kako je moguće dobiti 100% — ili čak 120%?
 
+Posebno je zanimljiva kategorija tzv. “convenience claims”, odnosno manjih potraživanja, gdje korisnici u određenim slučajevima dobivaju i više od 100% povrata, prvenstveno kako bi se takvi slučajevi brže administrativno zatvorili.
+
 Na prvi pogled, ovakav scenarij djeluje gotovo nevjerojatno. Nakon gubitka sredstava i višegodišnjeg procesa, logično bi bilo očekivati djelomičan povrat. Međutim, struktura stečajnog procesa i specifičnosti kripto tržišta dovele su do drugačijeg ishoda.
 
-Ključna stvar koju treba razumjeti jest da se isplate ne vrše u originalnim kriptovalutama, već u američkim dolarima, prema vrijednosti imovine u trenutku kolapsa 2022. godine. Prema dostupnim informacijama, najvjerojatnije je riječ o USD vrijednosti potraživanja u trenutku bankrota 2022. godine, a ne o povratu prema današnjim tržišnim cijenama kriptovaluta.
+Ključna stvar koju treba razumjeti jest da se isplate ne vrše u originalnim kriptovalutama, već u američkim dolarima, prema vrijednosti imovine u trenutku bankrota 2022. godine. Prema dostupnim informacijama, upravo se na tu USD vrijednost odnose postoci poput 100% ili 120%, a ne na današnje tržišne cijene kriptovaluta.
 
-Ključna stvar koju treba razumjeti jest da se isplate ne vrše u originalnim kriptovalutama, već u američkim dolarima, prema vrijednosti imovine u trenutku kolapsa. To znači da korisnici koji su držali Bitcoin ili druge kriptovalute ne dobivaju njihovu današnju tržišnu vrijednost, već tadašnju procijenjenu vrijednost.
+To znači da korisnici koji su držali Bitcoin ili druge kriptovalute ne dobivaju njihovu trenutačnu vrijednost, već tada procijenjeni iznos — što u uvjetima rasta tržišta može rezultirati znatno manjom količinom coina.
 
-U međuvremenu, dio imovine FTX-a — uključujući kripto, investicije i druge financijske instrumente — značajno je porastao ili je uspješno likvidiran. Upravo ta kombinacija omogućila je da ukupna masa sredstava za isplatu bude veća nego što se prvotno očekivalo.
-
-Posebno je zanimljiva kategorija tzv. “convenience claims”, odnosno manjih potraživanja, gdje korisnici dobivaju i do 120% povrata. Razlog tome leži u želji da se takvi slučajevi brzo riješe i administrativno zatvore.
+U međuvremenu, dio imovine FTX-a — uključujući kripto, investicije i druge financijske instrumente — značajno je porastao ili je uspješno likvidiran, što je omogućilo da ukupna masa sredstava za isplatu bude veća nego što se prvotno očekivalo.
 
 ## Usporedba sa Celsius
 
