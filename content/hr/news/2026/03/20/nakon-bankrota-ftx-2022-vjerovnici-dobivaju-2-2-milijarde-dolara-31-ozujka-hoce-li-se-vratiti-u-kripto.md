@@ -39,17 +39,29 @@ Ukupno je do sada vraćeno oko 10 milijardi dolara, što ovaj slučaj čini jedn
 
 Na prvi pogled, ovakav scenarij djeluje gotovo nevjerojatno. Nakon gubitka sredstava i višegodišnjeg procesa, logično bi bilo očekivati djelomičan povrat. Međutim, struktura stečajnog procesa i specifičnosti kripto tržišta dovele su do drugačijeg ishoda.
 
-Ključna stvar koju treba razumjeti jest da se isplate ne vrše u originalnim kriptovalutama, već u američkim dolarima, prema vrijednosti imovine u trenutku kolapsa 2022. godine. To znači da korisnici koji su držali Bitcoin ili druge kriptovalute ne dobivaju njihovu današnju tržišnu vrijednost, već tadašnju procijenjenu vrijednost.
+Ključna stvar koju treba razumjeti jest da se isplate ne vrše u originalnim kriptovalutama, već u američkim dolarima, prema vrijednosti imovine u trenutku kolapsa 2022. godine. Prema dostupnim informacijama, najvjerojatnije je riječ o USD vrijednosti potraživanja u trenutku bankrota 2022. godine, a ne o povratu prema današnjim tržišnim cijenama kriptovaluta.
+
+Ključna stvar koju treba razumjeti jest da se isplate ne vrše u originalnim kriptovalutama, već u američkim dolarima, prema vrijednosti imovine u trenutku kolapsa. To znači da korisnici koji su držali Bitcoin ili druge kriptovalute ne dobivaju njihovu današnju tržišnu vrijednost, već tadašnju procijenjenu vrijednost.
 
 U međuvremenu, dio imovine FTX-a — uključujući kripto, investicije i druge financijske instrumente — značajno je porastao ili je uspješno likvidiran. Upravo ta kombinacija omogućila je da ukupna masa sredstava za isplatu bude veća nego što se prvotno očekivalo.
 
 Posebno je zanimljiva kategorija tzv. “convenience claims”, odnosno manjih potraživanja, gdje korisnici dobivaju i do 120% povrata. Razlog tome leži u želji da se takvi slučajevi brzo riješe i administrativno zatvore.
 
+## Usporedba sa Celsius
+
+Sličan efekt već je viđen kod Celsiusa, gdje se govorilo o približno 70% povrata. Međutim, velik dio korisnika nije u početku razumio da se taj postotak odnosi na USD vrijednost u trenutku bankrota u srpnju 2022., kada je Bitcoin vrijedio oko 19.000 dolara. Budući da su isplate izvršene kasnije, u razdoblju znatno viših cijena, stvarni broj dobivenih coina bio je znatno manji.
+
+U konkretnom primjeru, korisnik koji je imao 0,30 BTC na kraju je dobio jednu isplatu, kroz kombinaciju BTC i ETH isplata, dobio je vrijednost ekvivalentnu približno 0,06 BTC — odnosno oko 20% izvorne količine. Drugim riječima, bez obzira na to kako se postotak formalno obračunava, stvarni ishod za mnoge korisnike bio je znatno ispod očekivanih “70%”.
+
+Nakon izvršene isplate korisnik je zaprimio obavijest da je isplata završena, bez daljnjih pojašnjenja ili mogućnosti dodatne komunikacije. U takvim slučajevima, gdje nije jasno kako je obračun proveden niti postoji uvid u sve faze distribucije, kod dijela korisnika ostaje otvoreno pitanje jesu li sve predviđene isplate doista i u cijelosti izvršene.
+
+Istovremeno, izostanak dodatnih informacija i prekid daljnje komunikacije nakon poruke “isplata je izvršena” ostavlja prostor za nedoumice — osobito u situacijama gdje korisnici nemaju mogućnost provjeriti strukturu i potpunost konačnog iznosa.
+
 ## Struktura isplata i što znače postoci
 
 Četvrta runda isplata uključuje različite kategorije vjerovnika. Primjerice, određene skupine korisnika dobivaju dodatnih 18% povrata, dok druge kategorije ostvaruju 5% ili 15% povećanja. U nekim slučajevima ukupni povrat doseže punih 100%.
 
-Važno je naglasiti da ovi postoci ne znače profit u klasičnom smislu. Radi se o povratu u odnosu na priznatu vrijednost potraživanja iz 2022., a ne na današnje tržišne cijene kriptovaluta.
+Važno je naglasiti da ovi postoci ne znače profit u klasičnom smislu, ako se radi o povratu u odnosu na priznatu vrijednost potraživanja iz 2022., a ne na današnje tržišne cijene kriptovaluta.
 
 ## FTX kao lekcija: kako je sve počelo
 
