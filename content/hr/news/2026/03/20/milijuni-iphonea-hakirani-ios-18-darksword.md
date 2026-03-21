@@ -29,6 +29,14 @@ Twitter nije nastao kao globalna vizija, već kao nusprodukt problema. Tvrtka Od
 
 U početku su poruke bile ograničene na 140 znakova. Razlog nije bio estetski, već tehnički: SMS poruke imale su limit od 160 znakova, a nakon što se oduzme prostor za korisničko ime, ostajalo je upravo toliko. Ograničenje koje je nastalo iz tehničkog kompromisa pretvorilo se u stil komunikacije koji je kasnije definirao internet — brzo, sažeto i često snažno.
 
+## Tko je zapravo stvorio Twitter — i što se događalo iza kulisa
+
+Twitter se danas često veže uz jedno ime — **Jack Dorsey** — no stvarna priča o njegovom nastanku puno je složenija i daleko manje “uredna” nego što se obično prikazuje. U pozadini su stajali **Biz Stone**, **Evan Williams** i **Noah Glass**, tim koji je radio unutar startupa Odeo u trenutku kada je kompanija praktički ostala bez svoje osnovne ideje i morala krenuti ispočetka. Upravo u takvom okruženju, između nesigurnosti i potrebe za preživljavanjem, nastaje koncept Twittera.
+
+**Noah Glass** bio je jedan od najglasnijih zagovornika projekta i osoba koja je predložila ime “Twitter”, dok je **Evan Williams** donio iskustvo, strukturu i financijsku stabilnost nakon uspjeha s Bloggerom. **Biz Stone** oblikovao je ton i način komunikacije platforme, koji će kasnije postati njezin zaštitni znak. Ipak, kao i kod mnogih startupova, razvoj nije bio linearan. Unutar tima dolazilo je do neslaganja i promjena, a **Noah Glass** je u jednom trenutku izbačen iz tvrtke, unatoč ključnoj ulozi u ranim danima.
+
+Ta odluka godinama je ostala u sjeni, ali danas se često spominje kao jedan od kontroverznijih trenutaka u povijesti platforme. Priča o osnivačima Twittera tako nije samo priča o inovaciji, već i o riziku, nesigurnosti i teškim odlukama koje su oblikovale proizvod koji danas koristi stotine milijuna ljudi.
+
 ## Kako je Twitter zapravo rastao
 
 Rani rast Twittera bio je spor i organski. Prvih 10 korisnika bili su ljudi iz istog ureda. Prvih 100 dolazilo je iz šire startup zajednice. Prvih 1.000 već je značilo da se nešto zanimljivo događa. No pravi trenutak preokreta dogodio se 2007. godine na festivalu South by Southwest (SXSW), gdje su organizatori postavili velike ekrane s live prikazom tweetova. Ljudi su doslovno stajali i gledali kako se poruke pojavljuju u stvarnom vremenu, shvaćajući po prvi put koliko brzo informacija može putovati.
