@@ -41,6 +41,8 @@ The message appears credible because it comes from within a context the user alr
 
 Once the user clicks “connect wallet,” malicious actions can be triggered in the background. Transactions or approvals may be executed, allowing attackers to gain access to the user’s funds. From there, assets can be quickly transferred to attacker-controlled addresses.
 
+{{< support1 >}}
+
 ## Why this attack is particularly dangerous
 
 Unlike traditional phishing attempts via email or social media, this attack takes place inside a platform users inherently trust. GitHub is not just another social network — it is a working environment, which lowers users’ level of suspicion.
@@ -62,6 +64,8 @@ OpenClaw founder Peter Steinberger had already warned about the misuse of the pr
 After scammers hijacked old OpenClaw accounts and used them to promote fake tokens, strict measures were introduced — including banning any mention of crypto on official project channels.
 
 This response highlights how these scams can have real consequences, not only for users but also for developers and the projects themselves.
+
+{{< support2 >}}
 
 ## How to protect yourself
 
