@@ -37,7 +37,7 @@ Twitter se danas često veže uz jedno ime — **Jack Dorsey** — no stvarna pr
 
 Ta odluka godinama je ostala u sjeni, ali danas se često spominje kao jedan od kontroverznijih trenutaka u povijesti platforme. Priča o osnivačima Twittera tako nije samo priča o inovaciji, već i o riziku, nesigurnosti i teškim odlukama koje su oblikovale proizvod koji danas koristi stotine milijuna ljudi.
 
-## Kako je Twitter zapravo rastao
+## Kakvu je ulogu u eksploziji Twittera odigrao festival South by Southwest (SXSW)?
 
 Rani rast Twittera bio je spor i organski. Prvih 10 korisnika bili su ljudi iz istog ureda. Prvih 100 dolazilo je iz šire startup zajednice. Prvih 1.000 već je značilo da se nešto zanimljivo događa. No pravi trenutak preokreta dogodio se 2007. godine na festivalu South by Southwest (SXSW), gdje su organizatori postavili velike ekrane s live prikazom tweetova. Ljudi su doslovno stajali i gledali kako se poruke pojavljuju u stvarnom vremenu, shvaćajući po prvi put koliko brzo informacija može putovati.
 
