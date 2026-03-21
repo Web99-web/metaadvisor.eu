@@ -10,4 +10,16 @@
   translation: "Disclaimer: The content on this site is for informational purposes only and does not constitute financial advice. Each user is responsible for their own investment decisions."
 - id: followSocial
   translation: "Follow us on social media"
+  
+- id: support1_title
+  translation: "Support independent analysis"
+- id: support1_desc
+  translation: "Helping make complex finances, tech, AI and crypto easier to understand."
 
+- id: support2_title
+  translation: "Support MetaAdvisor"
+- id: support2_desc
+  translation: "Independent project, written and published in 3 languages."
+
+- id: support_btn
+  translation: "☕ Support MetaAdvisor"
