@@ -11,3 +11,16 @@
 - id: followSocial
   translation: "Folge uns in den sozialen Medien"
 
+- id: support1_title
+  translation: "Unabhängige Analysen unterstützen"
+- id: support1_desc
+  translation: "Wir erklären Finanzen, Technologie, KI und Krypto einfach und verständlich."
+
+- id: support2_title
+  translation: "MetaAdvisor unterstützen"
+- id: support2_desc
+  translation: "Unabhängiges Projekt, geschrieben und veröffentlicht in 3 Sprachen."
+
+- id: support_btn
+  translation: "☕ MetaAdvisor unterstützen"
+
