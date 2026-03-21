@@ -674,13 +674,13 @@ img.card-img{
 }
 
 /* =========================
-   ARTICLE SUPPORT (FINAL)
+   ARTICLE SUPPORT (FINAL - FLAT)
 ========================= */
 
 /* BASE */
 .support-box {
   max-width: 600px;
-  margin: 50px auto;
+  margin: 40px auto;         /* ↓ malo manje */
   text-align: center;
   position: relative;
   color: inherit;
@@ -688,8 +688,8 @@ img.card-img{
 
 /* tekst prati članak */
 .support-box p {
-  margin: 8px auto;
-  max-width: 480px;
+  margin: 4px auto;          /* ↓ bilo 8px */
+  max-width: 460px;
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
@@ -698,7 +698,7 @@ img.card-img{
 
 /* naslov */
 .support-box strong {
-  font-size: 1.05em;
+  font-size: 1.03em;         /* ↓ malo manji */
   font-weight: 600;
   color: #111;
 }
@@ -707,7 +707,7 @@ img.card-img{
 .support-box p:last-of-type {
   font-weight: 500;
   color: #111;
-  line-height: 1.5;
+  line-height: 1.45;
 }
 
 /* linije */
@@ -717,7 +717,7 @@ img.card-img{
   display: block;
   height: 1px;
   background: #e5e5e5;
-  margin: 20px auto;
+  margin: 12px auto;         /* ↓ bilo 20px */
   width: 100%;
   max-width: 600px;
 }
@@ -729,7 +729,7 @@ img.card-img{
 
 .support-native {
   background: transparent;
-  padding: 10px 0;
+  padding: 6px 0;            /* ↓ bilo 10px */
 }
 
 
@@ -739,8 +739,8 @@ img.card-img{
 
 .support-highlight {
   background: #efefef;
-  border-radius: 10px;
-  padding: 18px;
+  border-radius: 8px;
+  padding: 12px 16px;        /* ↓ bilo 18px */
 }
 
 
@@ -750,8 +750,8 @@ img.card-img{
 
 .support-btn {
   display: inline-block;
-  margin-top: 12px;
-  padding: 10px 20px;
+  margin-top: 8px;           /* ↓ bilo 12px */
+  padding: 8px 16px;         /* ↓ kompaktnije */
   background: #ffcc00;
   color: #000;
   border-radius: 8px;
