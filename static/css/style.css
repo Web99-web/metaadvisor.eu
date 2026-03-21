@@ -696,11 +696,16 @@ img.card-img{
   color: #111;
 }
 
+/* Description (ono što si označila plavim) */
 .support-box p:last-of-type {
-  font-size: 14px;
-  opacity: 0.8;
+  font-size: 18px;   /* prije 14px → sada čitljivo */
+  font-weight: 600;
+  opacity: 0.95;     /* jače */
+  color: #222;       /* tamnije */
+  max-width: 500px;
+  margin: 10px auto;
+  line-height: 1.5;
 }
-
 /* Divider lines (top & bottom) */
 .support-box::before,
 .support-box::after {
