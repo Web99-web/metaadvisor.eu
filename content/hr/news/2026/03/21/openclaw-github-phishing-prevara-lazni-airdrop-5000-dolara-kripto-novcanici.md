@@ -41,6 +41,8 @@ Poruka izgleda uvjerljivo jer dolazi iz konteksta u kojem korisnik već sudjeluj
 
 U trenutku kada korisnik klikne “connect wallet”, otvara se prostor za izvršavanje zlonamjernih radnji. U pozadini se mogu aktivirati transakcije ili odobrenja (tzv. approvals) kojima korisnik nesvjesno daje pristup svojim sredstvima. Nakon toga, napadači mogu brzo prebaciti sredstva na vlastite adrese.
 
+{{< support1 >}}
+
 ## Zašto je ovaj napad posebno opasan
 
 Za razliku od klasičnih phishing pokušaja putem emaila ili društvenih mreža, ovdje se napad odvija unutar platforme kojoj korisnici vjeruju. GitHub nije samo društvena mreža — to je radno okruženje za developere, što dodatno smanjuje razinu opreza.
@@ -62,6 +64,8 @@ Osnivač OpenClawa, Peter Steinberger, već je ranije upozorio na zloupotrebu pr
 Nakon što su prevaranti preuzeli stare OpenClaw račune i koristili ih za promociju lažnih tokena, uvedene su stroge mjere — uključujući zabranu spominjanja kripta na službenim kanalima projekta.
 
 Ova reakcija pokazuje koliko ovakve prijevare mogu imati realne posljedice, ne samo za korisnike, već i za same developere i projekte koji postaju meta.
+
+{{< support2 >}}
 
 ## Kako se zaštititi
 
