@@ -65,7 +65,7 @@ O ovoj transformaciji već smo pisali u članku: **Elon Musk is building X Money
 
 Danas platforma broji stotine milijuna korisnika, procjenjuje se oko 550–600 milijuna mjesečno aktivnih, dok oko 250 milijuna koristi platformu svakodnevno. I dalje postoji izraženija muška publika, s procjenama da oko 64% korisnika čine muškarci, što utječe i na sadržaj i teme koje dominiraju.
 
-Istovremeno, regionalne razlike su značajne. U Nigeriji platforma ima iznimno visoku penetraciju i koristi je velik dio online populacije, dok je u nekim europskim zemljama poput Njemačke ili Francuske prisutnost znatno manja. To pokazuje da X nije univerzalno isti proizvod svugdje, već platforma koja se koristi na različite načine ovisno o tržištu.
+Zanimljive su i regionalne razlike u korištenju platforme. Prema nekim procjenama, u Nigeriji čak oko 80% internet korisnika koristi X, dok je u zemljama poput Njemačke ili Francuske taj udio znatno manji, oko 20%. To pokazuje koliko se uloga platforme razlikuje ovisno o tržištu — negdje je primarni kanal komunikacije, dok je drugdje samo jedna od mnogih društvenih mreža.
 
 ## Nova faza: AI moderacija i pitanje budućnosti
 
