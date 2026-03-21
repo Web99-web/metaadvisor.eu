@@ -43,9 +43,9 @@ Rani rast Twittera bio je spor i organski. Prvih 10 korisnika bili su ljudi iz i
 
 U tom trenutku Twitter prestaje biti alat i postaje fenomen. Broj korisnika počinje eksponencijalno rasti, a koncept “tweeta” ulazi u svakodnevni jezik. Riječ “tweet” postaje globalni glagol, što je rijetkost za bilo koji digitalni proizvod.
 
-## Kada platforma izlazi iz ekrana
+## 2010. godina i Arapsko proljeće — kada Twitter izlazi iz digitalnog svijeta u stvarnost
 
-Do 2010. godine Twitter prelazi granicu digitalnog i počinje utjecati na stvarni svijet. Tijekom Arapskog proljeća platforma se koristi za organizaciju prosvjeda i širenje informacija iz zemalja u kojima su mediji bili ograničeni. Informacije s terena dolazile su u stvarnom vremenu, često prije nego što bi ih preuzeli tradicionalni mediji. To je bio trenutak kada Twitter postaje nešto više od društvene mreže — postaje alat za koordinaciju i informiranje na globalnoj razini.
+Do 2010. godine Twitter prelazi granicu digitalnog i počinje utjecati na stvarni svijet. Tijekom Arapskog proljeća platforma se koristi za organizaciju prosvjeda i širenje informacija iz zemalja u kojima su mediji bili ograničeni. Informacije s terena dolazile su u stvarnom vremenu, često prije nego što bi ih preuzeli tradicionalni mediji, ali i izvan njihovih uredničkih i političkih ograničenja. Upravo ta mogućnost izravne komunikacije omogućila je korisnicima da zaobiđu cenzuru i kontrolu informacija, što je Twitteru dalo potpuno novu ulogu u globalnom informiranju. To je bio trenutak kada platforma postaje nešto više od društvene mreže — alat za širenje informacija u stvarnom vremenu.
 
 ## Od poruke do medija
 
