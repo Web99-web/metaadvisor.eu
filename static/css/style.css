@@ -674,40 +674,43 @@ img.card-img{
 }
 
 /* =========================
-   ARTICLE SUPPORT BLOCK (INLINE)
+   ARTICLE SUPPORT (FINAL)
 ========================= */
 
+/* BASE */
 .support-box {
-  background: #f8f8f8;
-  border-radius: 12px;
-  padding: 25px;
-  margin: 50px 0;
+  max-width: 600px;
+  margin: 50px auto;
   text-align: center;
-  color: #333;
   position: relative;
+  color: inherit;
 }
 
+/* tekst prati članak */
 .support-box p {
-  margin: 8px 0;
-}
-
-.support-box strong {
-  font-size: 17px;
-  color: #111;
-}
-
-/* Description (ono što si označila plavim) */
-.support-box p:last-of-type {
-  font-size: 16px;     /* = ili malo iznad body */
-  font-weight: 500;    /* lagano jače, ne bold */
-  opacity: 1;
-  color: #111;
+  margin: 8px auto;
   max-width: 480px;
-  margin: 10px auto;
-  line-height: 1.5;
-  letter-spacing: 0.1px;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  font-style: normal;
 }
-/* Divider lines (top & bottom) */
+
+/* naslov */
+.support-box strong {
+  font-size: 1.05em;
+  font-weight: 600;
+  color: #111;
+}
+
+/* opis (value) */
+.support-box p:last-of-type {
+  font-weight: 500;
+  color: #111;
+  line-height: 1.5;
+}
+
+/* linije */
 .support-box::before,
 .support-box::after {
   content: "";
@@ -715,10 +718,36 @@ img.card-img{
   height: 1px;
   background: #e5e5e5;
   margin: 20px auto;
-  width: 60%;
+  width: 100%;
+  max-width: 600px;
 }
 
-/* Button */
+
+/* =========================
+   SUPPORT 1 (NATIVE - GORE)
+========================= */
+
+.support-native {
+  background: transparent;
+  padding: 10px 0;
+}
+
+
+/* =========================
+   SUPPORT 2 (HIGHLIGHT - DOLJE)
+========================= */
+
+.support-highlight {
+  background: #efefef;
+  border-radius: 10px;
+  padding: 18px;
+}
+
+
+/* =========================
+   BUTTON
+========================= */
+
 .support-btn {
   display: inline-block;
   margin-top: 12px;
