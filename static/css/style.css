@@ -672,3 +672,54 @@ img.card-img{
   50% { transform: scale(1.05); }
   100% { transform: scale(1); }
 }
+
+/* =========================
+   ARTICLE SUPPORT BLOCK (INLINE)
+========================= */
+
+.support-box {
+  background: #f8f8f8;
+  border-radius: 12px;
+  padding: 25px;
+  margin: 50px 0;
+  text-align: center;
+  color: #333;
+  position: relative;
+}
+
+.support-box p {
+  margin: 8px 0;
+}
+
+.support-box strong {
+  font-size: 18px;
+  color: #111;
+}
+
+.support-box p:last-of-type {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+/* Divider lines (top & bottom) */
+.support-box::before,
+.support-box::after {
+  content: "";
+  display: block;
+  height: 1px;
+  background: #e5e5e5;
+  margin: 20px auto;
+  width: 60%;
+}
+
+/* Button */
+.support-btn {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 10px 20px;
+  background: #ffcc00;
+  color: #000;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+}
