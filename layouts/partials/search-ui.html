@@ -55,8 +55,10 @@
   }
 
   function render(items){
+    var noResultsText = "{{ if eq .Lang "de" }}Keine Ergebnisse.{{ else if eq .Lang "hr" }}Nema rezultata.{{ else }}No results.{{ end }}";
+
     if(!items || !items.length){
-      grid.innerHTML = '<div style="opacity:.7;padding:6px 2px;">No results.</div>';
+      grid.innerHTML = '<div style="opacity:.7;padding:6px 2px;">'+noResultsText+'</div>';
       return;
     }
     grid.innerHTML = items.map(cardHTML).join('');
@@ -77,8 +79,10 @@
   fetch('/index.json', {credentials:'omit'})
     .then(function(r){ return r.json(); })
     .then(function(j){ DATA = j; })
-    .catch(function(){ grid.innerHTML = '<div style="color:#b42318">Greška pri učitavanju indeksa.</div>'; });
-
+    var errorText = "{{ if eq .Lang "de" }}Fehler beim Laden des Index.{{ else if eq .Lang "hr" }}Greška pri učitavanju indeksa.{{ else }}Error loading search index.{{ end }}";
+    .catch(function(){
+  grid.innerHTML = '<div style="color:#b42318">'+errorText+'</div>';
+});
   form.addEventListener('submit', function(e){ e.preventDefault(); search(input.value); });
   input.addEventListener('input', function(){ search(input.value); });
 })();
