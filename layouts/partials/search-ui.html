@@ -76,13 +76,14 @@
     render(res);
   }
 
-  fetch('/index.json', {credentials:'omit'})
-    .then(function(r){ return r.json(); })
-    .then(function(j){ DATA = j; })
-    var errorText = "{{ if eq .Lang "de" }}Fehler beim Laden des Index.{{ else if eq .Lang "hr" }}Greška pri učitavanju indeksa.{{ else }}Error loading search index.{{ end }}";
-    .catch(function(){
-  grid.innerHTML = '<div style="color:#b42318">'+errorText+'</div>';
-});
+  var errorText = "{{ if eq .Lang "de" }}Fehler beim Laden des Index.{{ else if eq .Lang "hr" }}Greška pri učitavanju indeksa.{{ else }}Error loading search index.{{ end }}";
+
+fetch('/index.json', {credentials:'omit'})
+  .then(function(r){ return r.json(); })
+  .then(function(j){ DATA = j; })
+  .catch(function(){
+    grid.innerHTML = '<div style="color:#b42318">'+errorText+'</div>';
+  });
   form.addEventListener('submit', function(e){ e.preventDefault(); search(input.value); });
   input.addEventListener('input', function(){ search(input.value); });
 })();
