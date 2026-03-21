@@ -77,8 +77,15 @@ To otvara pitanje koje postaje sve važnije: što se događa s platformama kada 
 
 ## Naš osvrt
 
-Dvadeset godina nakon prvog tweeta, platforma se nalazi između svoje prošlosti i ambiciozne budućnosti. S jedne strane, ostavila je neizbrisiv trag u načinu na koji komuniciramo. S druge, pokušava redefinirati što društvena mreža uopće jest. Hoće li X postati “everything app” ili ostati primarno komunikacijska platforma, ovisit će o tome kako će korisnici prihvatiti te promjene — jer tehnologija može postaviti smjer, ali korisnici odlučuju hoće li ga slijediti.
+Dvadeset godina nakon prvog tweeta, jasno je da Twitter — danas X — nije samo društvena mreža, već jedna od najutjecajnijih komunikacijskih platformi modernog interneta. Promijenio je način na koji informacije nastaju, šire se i dolaze do publike, često brže nego ikada prije u povijesti. Ono što je počelo kao jednostavna ideja pretvorilo se u globalni sustav kroz koji milijuni ljudi svakodnevno razmjenjuju informacije u stvarnom vremenu.
 
+Danas platforma ulazi u novu fazu razvoja, s ambicijom da postane puno više od mjesta za komunikaciju — digitalni ekosustav koji povezuje sadržaj, financije i svakodnevne online aktivnosti. Upravo ta sposobnost stalne transformacije jedan je od ključnih razloga zašto je opstala i nakon dva desetljeća.
+
+Dvadeset godina kasnije, jedno je sigurno — bez obzira na ime, utjecaj ove platforme ostaje ogroman. Ako je suditi po smjeru u kojem se razvija, koristit ćemo ju sve više. Hoće li X postati “everything app” ili ostati primarno komunikacijska platforma, ovisit će o tome kako će korisnici prihvatiti te promjene — jer tehnologija može postaviti smjer, ali korisnici odlučuju hoće li ga slijediti.
+
+A jedno se kroz 20 godina nije promijenilo — korisnici žele slobodu izražavanja, jer upravo u toj nefiltriranoj razmjeni informacija leži najveća snaga platforme.
+
+Sretan rođendan platformi koja je promijenila internet.
 ---
 
 *This content is for informational purposes only and does not constitute financial or investment advice.*
