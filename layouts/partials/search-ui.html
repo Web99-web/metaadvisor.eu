@@ -1,10 +1,14 @@
 <div id="onsite-search" style="max-width:1200px;margin:12px auto 4px;padding:0 16px;">
   <form id="onsite-search-form" style="display:flex;gap:10px;align-items:center;max-width:880px;">
-    <input id="q" type="search" placeholder="Pretraga po naslovu/sažetku…" aria-label="Pretraga"
+    
+    <input id="q" type="search"
+  placeholder="{{ if eq .Lang "de" }}Suche nach Titel/Zusammenfassung…{{ else if eq .Lang "hr" }}Pretraga po naslovu/sažetku…{{ else }}Search articles or topics…{{ end }}"
+  aria-label="{{ if eq .Lang "de" }}Suche{{ else if eq .Lang "hr" }}Pretraga{{ else }}Search{{ end }}"
+      
            style="flex:1;padding:10px 14px;border:1px solid #cfd6e4;border-radius:10px;font-size:16px;">
     <button type="submit"
             style="padding:10px 14px;border:1px solid #cfd6e4;border-radius:10px;cursor:pointer;font-size:16px;">
-      Search
+            {{ if eq .Lang "de" }}Suchen{{ else if eq .Lang "hr" }}Pretraži{{ else }}Search{{ end }}
     </button>
   </form>
 
