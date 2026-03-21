@@ -1,148 +1,76 @@
 ---
-title: "Milijuni iPhonea mogu biti hakirani — iOS 18 je u fokusu napada"
-slug: "milijuni-iphonea-hakirani-ios-18-darksword"
-date: 2026-03-20T06:00:00+01:00
-category: "security"
-translationKey: "darksword-ios18-mass-exploit-2026"
+title: "20 godina Twittera — zovete li ga još uvijek Twitter ili X?"
+slug: "20-godina-twittera-zovete-li-ga-jos-uvijek-twitter-ili-x"
+date: 2026-03-21T06:30:00+01:00
+category: "tech"
+translationKey: "twitter-x-20-years-2006-2026"
 author: "Metaadvisor.eu"
-source: "WIRED"
+source: ""
 source_url: ""
-image_url: "/images/news/Iphone-IOS18-hack.png"
-featured_image: "/images/news/Iphone-IOS18-hack.png"
-image: "/images/news/Iphone-IOS18-hack.pngg"
-thumbnail: "/images/news/Iphone-IOS18-hack.png"
-image_alt: "DarkSword iPhone exploit targeting iOS 18 devices"
-tags: ["iphone", "ios", "ios18", "security", "hack", "cybersecurity", "apple", "exploit", "darksword", "data", "privacy", "analysis"]
-summary: "Nova tehnika napada nazvana DarkSword pokazuje kako milijuni iPhone korisnika koji koriste iOS 18 mogu biti izloženi napadima samo posjetom zaraženoj web stranici."
+image_url: "/images/news/X-Twitter-20-years.png"
+featured_image: "/images/news/X-Twitter-20-years.png"
+image: "/images/news/X-Twitter-20-years.png"
+thumbnail: "/images/news/X-Twitter-20-years.png"
+image_alt: "20 years of Twitter X platform evolution social media history"
+tags: ["twitter", "x", "elon musk", "social media", "ai moderation", "tech", "internet history", "communication", "platforms"]
+summary: "Od prvog tweeta 2006. do platforme X danas — kako je jedna ideja promijenila internet i kamo ide dalje."
 symbolic_image: true
 ---
 
+👉 **Trgujte kriptovalutama uz bonus do 5,000 USDT 👉 https://partner.bitget.com/bg/Metaadvisor**
+
 *Slika je simbolična.*
 
-<p style="text-align:center; margin:18px 0 8px 0;">
-  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
-     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
-     👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
-  </a>
-</p>
+## 20 godina Twittera — zovete li ga još uvijek Twitter ili X?
 
-# Milijuni iPhonea mogu biti hakirani — iOS 18 je u fokusu napada
+Na današnji dan, 21.03.2026., prije točno 20 godina, Jack Dorsey objavio je kratku poruku: *“just setting up my twttr”*. Nije bilo najave, nije bilo velikog lansiranja, niti osjećaja da se upravo događa nešto važno. Radilo se o eksperimentu unutar malog startupa koji je pokušavao pronaći novi smjer nakon što je izgubio svoju originalnu tržišnu priliku. No upravo iz takvih trenutaka često nastaju stvari koje kasnije definiraju cijele industrije.
 
-## Napadi koji više nisu rijetki
+Twitter nije nastao kao globalna vizija, već kao nusprodukt problema. Tvrtka Odeo, u kojoj je ideja nastala, izgubila je smisao postojanja nakon što je Apple preuzeo tržište podcasta. Tim je morao izmisliti nešto novo, a rješenje koje su pronašli bilo je gotovo banalno — sustav za dijeljenje kratkih statusnih poruka. No upravo ta jednostavnost postala je njegova najveća prednost.
 
-Godinama se vjerovalo da su ozbiljni napadi na iPhone uređaje rijetki i rezervirani za vrlo specifične mete poput novinara, političara ili aktivista. Za većinu korisnika postojala je tiha pretpostavka da su takvi scenariji daleko od njihove svakodnevice.
+U početku su poruke bile ograničene na 140 znakova. Razlog nije bio estetski, već tehnički: SMS poruke imale su limit od 160 znakova, a nakon što se oduzme prostor za korisničko ime, ostajalo je upravo toliko. Ograničenje koje je nastalo iz tehničkog kompromisa pretvorilo se u stil komunikacije koji je kasnije definirao internet — brzo, sažeto i često snažno.
 
-No najnovija otkrića sigurnosnih istraživača pokazuju da se ta slika brzo mijenja.
+## Kako je Twitter zapravo rastao
 
-Nova tehnika napada nazvana DarkSword pokazuje kako kompromitacija iPhone uređaja više nije ograničena na ciljane operacije. Umjesto toga, pojavljuje se model koji omogućuje masovnu primjenu — potencijalno na tisuće korisnika istovremeno.
+Rani rast Twittera bio je spor i organski. Prvih 10 korisnika bili su ljudi iz istog ureda. Prvih 100 dolazilo je iz šire startup zajednice. Prvih 1.000 već je značilo da se nešto zanimljivo događa. No pravi trenutak preokreta dogodio se 2007. godine na festivalu South by Southwest (SXSW), gdje su organizatori postavili velike ekrane s live prikazom tweetova. Ljudi su doslovno stajali i gledali kako se poruke pojavljuju u stvarnom vremenu, shvaćajući po prvi put koliko brzo informacija može putovati.
 
-## Dovoljno je posjetiti web stranicu
+U tom trenutku Twitter prestaje biti alat i postaje fenomen. Broj korisnika počinje eksponencijalno rasti, a koncept “tweeta” ulazi u svakodnevni jezik. Riječ “tweet” postaje globalni glagol, što je rijetkost za bilo koji digitalni proizvod.
 
-Za razliku od klasičnih napada koji zahtijevaju klik na sumnjivi link ili instalaciju aplikacije, DarkSword koristi tzv. “drive-by” pristup.
+## Kada platforma izlazi iz ekrana
 
-U praksi to znači da korisnik ne mora učiniti ništa posebno.
+Do 2010. godine Twitter prelazi granicu digitalnog i počinje utjecati na stvarni svijet. Tijekom Arapskog proljeća platforma se koristi za organizaciju prosvjeda i širenje informacija iz zemalja u kojima su mediji bili ograničeni. Informacije s terena dolazile su u stvarnom vremenu, često prije nego što bi ih preuzeli tradicionalni mediji. To je bio trenutak kada Twitter postaje nešto više od društvene mreže — postaje alat za koordinaciju i informiranje na globalnoj razini.
 
-Dovoljno je:
+## Od poruke do medija
 
-- otvoriti kompromitiranu web stranicu  
-- i napad može započeti automatski  
+Kako je broj korisnika rastao, tako se mijenjala i uloga platforme. Ono što je počelo kao razmjena kratkih poruka postalo je sustav kroz koji političari komuniciraju s javnošću, novinari prate vijesti, a korisnici sudjeluju u raspravama u realnom vremenu. Twitter je postao mjesto gdje vijesti nastaju, a ne samo gdje se prenose.
 
-Bez preuzimanja datoteka, bez upozorenja i bez jasnog znaka da se nešto događa.
+Godine 2017. dolazi do značajne promjene — limit se povećava na 280 znakova. Time se otvara prostor za detaljnije izražavanje, ali se zadržava osnovna ideja brzine i direktnosti.
 
-Takvi napadi posebno su opasni jer zaobilaze osnovne sigurnosne navike na koje se korisnici oslanjaju.
+## Prekretnica: Musk i transformacija u X
 
-## Što napadači mogu vidjeti
+Velika promjena dolazi 14. travnja 2022., kada Elon Musk objavljuje tweet *“I made an offer”*. Nekoliko mjeseci kasnije, transakcija vrijedna oko 44 milijarde dolara zaključena je i Twitter ulazi u novu fazu. Godine 2023. platforma mijenja ime u X, čime započinje proces redefiniranja identiteta.
 
-Prema analizama sigurnosnih tvrtki, DarkSword omogućuje pristup velikom broju podataka unutar uređaja.
+Musk ne vidi X kao društvenu mrežu, već kao infrastrukturu za puno širi digitalni sustav. Njegova vizija jasno ide prema modelu “everything app”, sličnom kineskom WeChatu, gdje komunikacija, plaćanja, kupovina i digitalni identitet postaju dio jedinstvenog ekosustava. U tom kontekstu razvija se i projekt X Money, digitalni sustav plaćanja integriran unutar platforme, koji bi mogao promijeniti način na koji korisnici doživljavaju društvene mreže.
 
-To uključuje:
+O ovoj transformaciji već smo pisali u članku: **Elon Musk is building X Money — a digital payment system inside the X platform**
 
-- lozinke i spremljene podatke  
-- fotografije i osobne datoteke  
-- poruke iz aplikacija poput WhatsAppa i Telegrama  
-- povijest pregledavanja  
-- bilješke i kalendar  
+## Tko koristi platformu danas
 
-U nekim slučajevima, napadači mogu pristupiti i podacima iz zdravstvenih aplikacija.
+Danas platforma broji stotine milijuna korisnika, procjenjuje se oko 550–600 milijuna mjesečno aktivnih, dok oko 250 milijuna koristi platformu svakodnevno. I dalje postoji izraženija muška publika, s procjenama da oko 64% korisnika čine muškarci, što utječe i na sadržaj i teme koje dominiraju.
 
-Posebno je značajno da napad cilja i podatke povezane s kripto novčanicima, što ukazuje na potencijalnu financijsku motivaciju iza ovakvih operacija.
+Istovremeno, regionalne razlike su značajne. U Nigeriji platforma ima iznimno visoku penetraciju i koristi je velik dio online populacije, dok je u nekim europskim zemljama poput Njemačke ili Francuske prisutnost znatno manja. To pokazuje da X nije univerzalno isti proizvod svugdje, već platforma koja se koristi na različite načine ovisno o tržištu.
 
-## Zašto je iOS 18 ključan
+## Nova faza: AI moderacija i pitanje budućnosti
 
-Iako najnovije verzije iOS-a uključuju sigurnosne zakrpe koje blokiraju ovaj napad, problem je u tome što velik broj korisnika još uvijek koristi starije verzije sustava.
+Kako platforme rastu, raste i potreba za upravljanjem sadržajem. U tom kontekstu AI moderacija postaje ključni alat za kontrolu milijuna objava dnevno. No ta promjena donosi i ozbiljne izazove. Sustavi često ne razumiju kontekst, humor ili sarkazam, što dovodi do pogrešnih odluka.
 
-Procjene pokazuju da oko četvrtine iPhone korisnika i dalje koristi iOS 18.
+Metaadvisor je već pisao da su slični problemi vidljivi na Meta platformama, gdje su brojni dugogodišnji korisnici koji su pratili platformu 15–20 godina prijavili da su im profili suspendirani bez jasnog objašnjenja ili mogućnosti kontakta s podrškom.
 
-To znači da se ne radi o zastarjelim uređajima, nego o milijunima aktivnih korisnika koji svakodnevno koriste svoje telefone za komunikaciju, financije i pristup osjetljivim podacima.
-
-Upravo zato je iOS 18 u fokusu napada. U ovom trenutku mnogi korisnici već rade jednu malu, ali važnu pogrešku — i upravo ona dodatno zbunjuje cijelu situaciju.
-
-## Važna napomena: iPhone 18 ≠ iOS 18
-
-Ovdje dolazi do jedne česte zabune koja dodatno zbunjuje korisnike, mobitel iPhone 18 nije isto što i software iOS 18.
-
-iPhone je uređaj, dok je iOS operativni sustav koji pokreće taj uređaj.
-
-To znači da različiti modeli — poput iPhone 14, 15 ili 16 — mogu svi koristiti iOS 18. Problem nije vezan uz određeni model telefona, nego uz verziju softvera koja se na njemu nalazi.
-
-## Napadi bez tragova
-
-Jedna od ključnih karakteristika DarkSworda je način na koji djeluje.
-
-Za razliku od klasičnih malwarea, ovaj napad ne instalira trajni spyware na uređaj.
-
-Umjesto toga koristi tzv. “fileless” pristup:
-
-- koristi postojeće procese unutar sustava  
-- ne ostavlja klasične tragove  
-- nestaje nakon restartanja uređaja  
-
-To ga čini znatno težim za detekciju i analizu.
-
-Napad funkcionira kao brza operacija — u kratkom vremenu prikuplja podatke i zatim se povlači.
-
-## Od špijunaže do tržišta
-
-Ono što ovu priču čini posebno važnom nije samo tehnologija, nego način na koji se takvi alati danas šire.
-
-Slični alati ranije su bili dostupni isključivo državnim akterima i specijaliziranim timovima.
-
-Danas se sve više govori o tržištu eksploita — prostoru u kojem se sigurnosne ranjivosti kupuju, prodaju i preprodaju.
-
-U slučaju DarkSworda, istraživači su primijetili da je dio koda bio ostavljen javno dostupan, što dodatno povećava rizik širenja ovakvih napada.
-
-To znači da više različitih grupa može koristiti iste metode — bez potrebe za vlastitim razvojem.
-
-## Što korisnici mogu napraviti
-
-Iako napad djeluje sofisticirano, osnovne mjere zaštite ostaju relativno jednostavne.
-
-Najvažnija među njima je:
-
-- redovito ažuriranje operativnog sustava  
-
-Uz to, preporučuje se:
-
-- izbjegavanje sumnjivih web stranica  
-- oprez pri otvaranju nepoznatih linkova  
-- korištenje dodatnih sigurnosnih opcija na uređaju  
-
-Sigurnost danas nije nešto što se podrazumijeva — nego nešto što se aktivno održava.
+To otvara pitanje koje postaje sve važnije: što se događa s platformama kada počnu gubiti vlastite korisnike? Ako se uklanjaju dugogodišnji profili, ostaje li prostor za autentičnu komunikaciju — ili sustavi postupno prelaze u okruženje gdje sadržaj sve više generiraju i filtriraju algoritmi?
 
 ## Naš osvrt
 
-DarkSword pokazuje jasnu promjenu u načinu na koji se provode digitalni napadi.
-
-Ono što je nekad bilo rijetko i ciljano, sada postaje dostupno i skalabilno.
-
-Granica između “ciljanih meta” i “običnih korisnika” sve je tanja.
-
-Možda najvažnija promjena nije tehnička, nego percepcijska.
-
-Više nije pitanje tko je meta.
-
-Pitanje je koliko je korisnika još uvijek na verzijama sustava koje su ranjive — i koliko njih vjeruje da se takvi napadi događaju nekom drugom.
+Dvadeset godina nakon prvog tweeta, platforma se nalazi između svoje prošlosti i ambiciozne budućnosti. S jedne strane, ostavila je neizbrisiv trag u načinu na koji komuniciramo. S druge, pokušava redefinirati što društvena mreža uopće jest. Hoće li X postati “everything app” ili ostati primarno komunikacijska platforma, ovisit će o tome kako će korisnici prihvatiti te promjene — jer tehnologija može postaviti smjer, ali korisnici odlučuju hoće li ga slijediti.
 
 ---
 
-*Ovaj sadržaj je informativnog karaktera i ne predstavlja financijski ili investicijski savjet.*
+*This content is for informational purposes only and does not constitute financial or investment advice.*
