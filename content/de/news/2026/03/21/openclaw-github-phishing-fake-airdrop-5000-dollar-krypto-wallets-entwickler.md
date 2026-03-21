@@ -41,6 +41,8 @@ Die Nachricht wirkt glaubwürdig, da sie aus einem Kontext kommt, in dem der Nut
 
 Sobald der Nutzer auf „Connect Wallet“ klickt, können im Hintergrund bösartige Aktionen ausgelöst werden. Transaktionen oder Genehmigungen (Approvals) werden initiiert, durch die der Nutzer unbewusst Zugriff auf seine Mittel gewährt. Danach können die Angreifer die Gelder schnell auf eigene Adressen übertragen.
 
+{{< support1 >}}
+
 ## Warum dieser Angriff besonders gefährlich ist
 
 Im Gegensatz zu klassischen Phishing-Versuchen über E-Mail oder soziale Netzwerke findet dieser Angriff innerhalb einer Plattform statt, der Nutzer vertrauen. GitHub ist kein gewöhnliches soziales Netzwerk — es ist ein Arbeitsumfeld für Entwickler, was die Aufmerksamkeit zusätzlich senkt.
@@ -62,6 +64,8 @@ Der Gründer von OpenClaw, Peter Steinberger, hatte bereits zuvor vor dem Missbr
 Nachdem Betrüger alte OpenClaw-Konten übernommen und für Fake-Token-Promotionen genutzt hatten, wurden strenge Maßnahmen eingeführt — darunter ein Verbot jeglicher Erwähnung von Kryptowährungen auf den offiziellen Kommunikationskanälen des Projekts.
 
 Diese Entwicklung zeigt, wie stark solche Betrugsversuche reale Auswirkungen haben können — nicht nur für Nutzer, sondern auch für Entwickler und Projekte selbst.
+
+{{< support2 >}}
 
 ## Wie man sich schützen kann
 
