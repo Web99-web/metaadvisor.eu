@@ -75,7 +75,7 @@ No kako platforme rastu, raste i potreba za kontrolom.
 
 Upravo tu dolazi do jedne od najvećih promjena današnjeg interneta — uvođenja AI moderacije. Sustavi koji analiziraju sadržaj u stvarnom vremenu postaju ključni za upravljanje milijunima objava, ali istovremeno otvaraju niz pitanja. AI često ne razumije kontekst, humor, ironiju ili sarkazam, što dovodi do pogrešnih označavanja i uklanjanja sadržaja.
 
-Na Meta platformama zabilježeni su brojni problemi s AI moderacijom, pri čemu su dugogodišnji korisnici — s profilima starima 15 do 20 godina — prijavili suspenzije bez jasnog objašnjenja. Nakon uklanjanja s platforme više nemaju nikakvu mogućnost kontakta s podrškom.
+Na Meta platformama zabilježeni su brojni problemi s AI moderacijom, pri čemu su dugogodišnji korisnici — s profilima starima 15 do 20 godina — prijavili suspenzije i trajnog uklanjanja bez jasnog objašnjenja. Nakon uklanjanja s platforme više nemaju nikakvu mogućnost kontakta s podrškom.
 
 Takve situacije otvaraju šire pitanje budućnosti digitalnih zajednica: što se događa kada sustavi počnu uklanjati upravo one korisnike koji su godinama gradili platformu?
 Ako dugogodišnji korisnici nestaju, postavlja se pitanje tko ostaje — stvarni ljudi s poviješću i identitetom, ili sve više sadržaja koji je generiran, filtriran i kontroliran algoritmima?
