@@ -69,11 +69,17 @@ Zanimljive su i regionalne razlike u korištenju platforme. Prema nekim procjena
 
 ## Nova faza: AI moderacija i pitanje budućnosti
 
-Kako platforme rastu, raste i potreba za upravljanjem sadržajem. U tom kontekstu AI moderacija postaje ključni alat za kontrolu milijuna objava dnevno. No ta promjena donosi i ozbiljne izazove. Sustavi često ne razumiju kontekst, humor ili sarkazam, što dovodi do pogrešnih odluka.
+Dvadeset godina nakon prvog tweeta, jasno je da Twitter — ili X — više nije samo društvena mreža, već infrastruktura za komunikaciju u stvarnom vremenu. Platforma je promijenila način na koji informacije nastaju, šire se i utječu na društvo. Danas ulazi u novu fazu u kojoj se pokušava spojiti komunikacija, financije i digitalni identitet u jedinstven sustav.
 
-Metaadvisor je već pisao da su slični problemi vidljivi na Meta platformama, gdje su brojni dugogodišnji korisnici koji su pratili platformu 15–20 godina prijavili da su im profili suspendirani bez jasnog objašnjenja ili mogućnosti kontakta s podrškom.
+No kako platforme rastu, raste i potreba za kontrolom.
 
-To otvara pitanje koje postaje sve važnije: što se događa s platformama kada počnu gubiti vlastite korisnike? Ako se uklanjaju dugogodišnji profili, ostaje li prostor za autentičnu komunikaciju — ili sustavi postupno prelaze u okruženje gdje sadržaj sve više generiraju i filtriraju algoritmi?
+Upravo tu dolazi do jedne od najvećih promjena današnjeg interneta — uvođenja AI moderacije. Sustavi koji analiziraju sadržaj u stvarnom vremenu postaju ključni za upravljanje milijunima objava, ali istovremeno otvaraju niz pitanja. AI često ne razumije kontekst, humor, ironiju ili sarkazam, što dovodi do pogrešnih označavanja i uklanjanja sadržaja.
+
+Slični problemi već su vidljivi na Meta platformama, gdje su brojni dugogodišnji korisnici prijavili da su im profili suspendirani bez jasnog objašnjenja ili mogućnosti kontakta s podrškom. Takve situacije otvaraju šire pitanje budućnosti digitalnih zajednica: što se događa kada sustavi počnu uklanjati upravo one korisnike koji su godinama gradili platformu?
+
+Ako dugogodišnji korisnici nestaju, postavlja se pitanje tko ostaje — stvarni ljudi s poviješću i identitetom, ili sve više sadržaja koji je generiran, filtriran i kontroliran algoritmima?
+
+U tom kontekstu, budućnost platformi poput X-a ne ovisi samo o tehnologiji i inovacijama, već i o ravnoteži između kontrole i slobode komunikacije.
 
 ## Naš osvrt
 
