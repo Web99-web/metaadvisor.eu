@@ -692,17 +692,17 @@ img.card-img{
 }
 
 .support-box strong {
-  font-size: 18px;
+  font-size: 17px;
   color: #111;
 }
 
 /* Description (ono što si označila plavim) */
 .support-box p:last-of-type {
-  font-size: 18px;   /* prije 14px → sada čitljivo */
-  font-weight: 600;
-  opacity: 0.95;     /* jače */
-  color: #222;       /* tamnije */
-  max-width: 500px;
+  font-size: 15px;        /* ↓ smanji */
+  font-weight: 400;       /* ↓ makni bold */
+  opacity: 0.9;
+  color: #222;
+  max-width: 460px;       /* malo uži → bolje čitljivo */
   margin: 10px auto;
   line-height: 1.5;
 }
