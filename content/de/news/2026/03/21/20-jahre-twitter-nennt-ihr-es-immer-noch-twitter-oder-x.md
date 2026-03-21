@@ -64,7 +64,7 @@ Eine große Veränderung kam am 14. April 2022, als Elon Musk den Tweet *„I ma
 
 Musk sieht X nicht als soziales Netzwerk, sondern als Infrastruktur für ein viel breiteres digitales System. Seine Vision geht klar in Richtung einer „Everything App“, ähnlich dem chinesischen WeChat, in der Kommunikation, Zahlungen, Einkäufe und digitale Identität Teil eines einheitlichen Ökosystems werden. In diesem Zusammenhang wird auch das Projekt X Money entwickelt, ein integriertes Zahlungssystem, das die Art und Weise, wie Nutzer soziale Plattformen wahrnehmen, grundlegend verändern könnte.
 
-Über diese Transformation haben wir bereits im Artikel geschrieben: **X Money: Elon Musk versucht erneut, soziale Netzwerke und digitales Geld zu verbinden — https://metaadvisor.eu/de/news/x-money-musk-digitale-zahlungen-x-plattform/**
+Über diese Transformation haben wir bereits im Artikel geschrieben: [**X Money: Elon Musk versucht erneut, soziale Netzwerke und digitales Geld zu verbinden**](https://metaadvisor.eu/de/news/x-money-musk-digitale-zahlungen-x-plattform/)
 
 ## Wer nutzt die Plattform heute
 
