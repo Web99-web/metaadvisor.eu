@@ -64,7 +64,7 @@ Velika promjena dolazi 14. travnja 2022., kada Elon Musk objavljuje tweet *“I 
 
 Musk ne vidi X kao društvenu mrežu, već kao infrastrukturu za puno širi digitalni sustav. Njegova vizija jasno ide prema modelu “everything app”, sličnom kineskom WeChatu, gdje komunikacija, plaćanja, kupovina i digitalni identitet postaju dio jedinstvenog ekosustava. U tom kontekstu razvija se i projekt X Money, digitalni sustav plaćanja integriran unutar platforme, koji bi mogao promijeniti način na koji korisnici doživljavaju društvene mreže.
 
-O ovoj transformaciji već smo pisali u članku: **Elon Musk is building X Money — a digital payment system inside the X platform**
+O ovoj transformaciji već smo pisali u članku: [**X Money: Elon Musk ponovno pokušava spojiti društvene mreže i digitalni novac**](https://metaadvisor.eu/hr/news/x-money-musk-digitalna-placanja-x-platforma/)
 
 ## Tko koristi platformu danas
 
