@@ -10,3 +10,16 @@
   translation: "Disclaimer, odricanje od odgovornosti: Sadržaj na ovoj stranici služi samo u informativne svrhe i ne predstavlja financijski savjet. Svaki korisnik preuzima odgovornost za vlastite odluke o ulaganju."
 - id: followSocial
   translation: "Pratite nas na društvenim mrežama"
+  
+- id: support1_title
+  translation: "Podržite neovisnu analizu"
+- id: support1_desc
+  translation: "Jednostavno objašnjavamo financije, tehnologiju, AI i kripto."
+
+- id: support2_title
+  translation: "Podrži MetaAdvisor"
+- id: support2_desc
+  translation: "Neovisni projekt, pisan i objavljen na 3 jezika."
+
+- id: support_btn
+  translation: "☕ Podrži MetaAdvisor"
