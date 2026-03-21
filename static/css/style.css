@@ -698,13 +698,14 @@ img.card-img{
 
 /* Description (ono što si označila plavim) */
 .support-box p:last-of-type {
-  font-size: 15px;        /* ↓ smanji */
-  font-weight: 400;       /* ↓ makni bold */
-  opacity: 0.9;
-  color: #222;
-  max-width: 460px;       /* malo uži → bolje čitljivo */
+  font-size: 16px;     /* = ili malo iznad body */
+  font-weight: 500;    /* lagano jače, ne bold */
+  opacity: 1;
+  color: #111;
+  max-width: 480px;
   margin: 10px auto;
   line-height: 1.5;
+  letter-spacing: 0.1px;
 }
 /* Divider lines (top & bottom) */
 .support-box::before,
