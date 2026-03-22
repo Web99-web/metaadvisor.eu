@@ -782,3 +782,11 @@ img.card-img{
     grid-template-columns: repeat(1, 1fr) !important;
   }
 }
+
+/* =========================
+   GRID WIDTH FIX (omogućava 6 kartica)
+========================= */
+
+.container{
+  max-width: 100% !important;
+}
