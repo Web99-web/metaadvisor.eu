@@ -784,9 +784,31 @@ img.card-img{
 }
 
 /* =========================
-   FORCE 6 CARDS (REAL FIX)
+   GRID + LAYOUT FINAL (6 CARDS + RESPONSIVE)
 ========================= */
 
-main.site-main .grid{
-  grid-template-columns: repeat(6, 1fr) !important;
+/* DESKTOP — 6 kartica */
+@media (min-width: 1200px){
+  main.site-main .container,
+  main.site-main .wrap{
+    max-width: 1600px !important;
+  }
+
+  main.site-main .grid{
+    grid-template-columns: repeat(6, 1fr) !important;
+  }
+}
+
+/* TABLET — 3 kartice */
+@media (max-width: 1199px){
+  main.site-main .grid{
+    grid-template-columns: repeat(3, 1fr) !important;
+  }
+}
+
+/* MOBITEL — 1 kartica */
+@media (max-width: 768px){
+  main.site-main .grid{
+    grid-template-columns: repeat(1, 1fr) !important;
+  }
 }
