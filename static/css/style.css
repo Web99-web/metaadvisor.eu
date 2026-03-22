@@ -760,55 +760,43 @@ img.card-img{
 }
 
 /* =========================
-   GRID OVERRIDE (HOME / LISTING LAYOUT)
-   - forsira 6 kartica u redu na desktopu
-   - koristi se za bolju vidljivost sadržaja + consent overlay
+   GRID FINAL (CLEAN VERSION)
 ========================= */
 
-.site-main .grid{
-  grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+/* container full width */
+main.site-main .container{
+  max-width: 100% !important;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+/* grid layout */
+main.site-main .grid{
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 20px;
 }
 
 /* tablet */
-@media (max-width: 1200px){ 
-  .site-main .grid{
-    grid-template-columns: repeat(3, 1fr) !important;
+@media (max-width: 1200px){
+  main.site-main .grid{
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  main.site-main .container{
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
 /* mobitel */
 @media (max-width: 768px){
-  .site-main .grid{
-    grid-template-columns: repeat(1, 1fr) !important;
-  }
-}
-
-/* =========================
-   GRID + LAYOUT FINAL (6 CARDS + RESPONSIVE)
-========================= */
-
-/* DESKTOP — 6 kartica */
-@media (min-width: 1200px){
-  main.site-main .container,
-  main.site-main .wrap{
-    max-width: 1600px !important;
-  }
-
   main.site-main .grid{
-    grid-template-columns: repeat(6, 1fr) !important;
+    grid-template-columns: repeat(1, 1fr);
   }
-}
 
-/* TABLET — 3 kartice */
-@media (max-width: 1199px){
-  main.site-main .grid{
-    grid-template-columns: repeat(3, 1fr) !important;
-  }
-}
-
-/* MOBITEL — 1 kartica */
-@media (max-width: 768px){
-  main.site-main .grid{
-    grid-template-columns: repeat(1, 1fr) !important;
+  main.site-main .container{
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
