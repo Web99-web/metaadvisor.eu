@@ -29,7 +29,7 @@ symbolic_image: true
 
 # Meta planira otpustiti oko 16.000 ljudi — AI preuzima sve veću kontrolu, ali problem je već počeo   
 
-Meta navodno planira otpustiti oko 20% svoje radne snage — što znači približno 16.000 zaposlenika — uz procijenjene uštede od 5 do 6 milijardi dolara. Ovaj potez dolazi u trenutku kada kompanija agresivno ulaže u umjetnu inteligenciju i optimizaciju poslovanja.
+Meta prema izvještajima iz Reutersa i Business Insidera, uz procjene JP Morgana, navodno planira otpustiti oko 20% svoje radne snage — što znači približno 16.000 zaposlenika — uz procijenjene uštede od 5 do 6 milijardi dolara. Ovaj potez dolazi u trenutku kada kompanija agresivno ulaže u umjetnu inteligenciju i optimizaciju poslovanja.
 
 20% zaposlenika možda na papiru izgleda kao još jedna korporativna optimizacija, ali kada se ta brojka prevede u stvarne ljude — oko 16.000 — dobiva potpuno drugačiju težinu. To je veličina jednog manjeg grada koji jednostavno nestaje iz sustava. Upravo toliko zaposlenika  No ovdje nije riječ o klasičnom rezanju troškova zbog krize, nego o svjesnom preusmjeravanju resursa: novac odlazi u umjetnu inteligenciju, a ljudi postaju kolateralna promjena.
 
