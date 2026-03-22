@@ -29,7 +29,7 @@ symbolic_image: true
 
 # Meta plant Entlassungen von rund 16.000 Menschen — KI übernimmt immer mehr Kontrolle, aber das Problem hat bereits begonnen
 
-Meta plant Berichten zufolge, etwa 20 % seiner Belegschaft zu entlassen — was ungefähr 16.000 Mitarbeiter entspricht — mit geschätzten Einsparungen von 5 bis 6 Milliarden Dollar. Dieser Schritt erfolgt zu einem Zeitpunkt, in dem das Unternehmen aggressiv in künstliche Intelligenz und Geschäftsoptimierung investiert.
+Meta laut Berichten von Reuters und Business Insider sowie Schätzungen von JP Morgan, plant Berichten zufolge, etwa 20 % seiner Belegschaft zu entlassen — was ungefähr 16.000 Mitarbeiter entspricht — mit geschätzten Einsparungen von 5 bis 6 Milliarden Dollar. Dieser Schritt erfolgt zu einem Zeitpunkt, in dem das Unternehmen aggressiv in künstliche Intelligenz und Geschäftsoptimierung investiert.
 
 20 % der Mitarbeiter wirken auf dem Papier vielleicht wie eine weitere Unternehmensoptimierung, aber wenn man diese Zahl in reale Menschen übersetzt — etwa 16.000 — bekommt sie ein völlig anderes Gewicht. Das entspricht der Größe einer kleinen Stadt, die einfach aus dem System verschwindet. Genau so viele Mitarbeiter. Doch hier geht es nicht um klassische Kostensenkungen aufgrund einer Krise, sondern um eine bewusste Umverteilung von Ressourcen: Geld fließt in künstliche Intelligenz, während Menschen zur Kollateralveränderung werden.
 
