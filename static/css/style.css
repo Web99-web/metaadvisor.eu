@@ -758,3 +758,27 @@ img.card-img{
   font-weight: 600;
   text-decoration: none;
 }
+
+/* =========================
+   GRID OVERRIDE (HOME / LISTING LAYOUT)
+   - forsira 6 kartica u redu na desktopu
+   - koristi se za bolju vidljivost sadržaja + consent overlay
+========================= */
+
+.site-main .grid{
+  grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+}
+
+/* tablet */
+@media (max-width: 1200px){ 
+  .site-main .grid{
+    grid-template-columns: repeat(3, 1fr) !important;
+  }
+}
+
+/* mobitel */
+@media (max-width: 768px){
+  .site-main .grid{
+    grid-template-columns: repeat(1, 1fr) !important;
+  }
+}
