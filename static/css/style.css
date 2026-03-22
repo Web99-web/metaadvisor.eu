@@ -784,9 +784,9 @@ img.card-img{
 }
 
 /* =========================
-   GRID WIDTH FIX (omogućava 6 kartica)
+   FORCE 6 CARDS (REAL FIX)
 ========================= */
 
-.container{
-  max-width: 100% !important;
+main.site-main .grid{
+  grid-template-columns: repeat(6, 1fr) !important;
 }
