@@ -31,9 +31,11 @@ symbolic_image: true
 
 Meta navodno planira otpustiti oko 20% svoje radne snage — što znači približno 16.000 zaposlenika — uz procijenjene uštede od 5 do 6 milijardi dolara. Ovaj potez dolazi u trenutku kada kompanija agresivno ulaže u umjetnu inteligenciju i optimizaciju poslovanja.
 
-I dok Meta javno govori o “efikasnosti” i “restrukturiranju”, sve veći broj korisnika primjećuje nešto drugo — nagli porast problema s automatiziranom moderacijom sadržaja. 20% zaposlenika možda na papiru izgleda kao još jedna korporativna optimizacija, ali kada se ta brojka prevede u stvarne ljude — oko 16.000 — dobiva potpuno drugačiju težinu. To je veličina jednog manjeg grada koji jednostavno nestaje iz sustava. Upravo toliko zaposlenika  No ovdje nije riječ o klasičnom rezanju troškova zbog krize, nego o svjesnom preusmjeravanju resursa: novac odlazi u umjetnu inteligenciju, a ljudi postaju kolateralna promjena.
+20% zaposlenika možda na papiru izgleda kao još jedna korporativna optimizacija, ali kada se ta brojka prevede u stvarne ljude — oko 16.000 — dobiva potpuno drugačiju težinu. To je veličina jednog manjeg grada koji jednostavno nestaje iz sustava. Upravo toliko zaposlenika  No ovdje nije riječ o klasičnom rezanju troškova zbog krize, nego o svjesnom preusmjeravanju resursa: novac odlazi u umjetnu inteligenciju, a ljudi postaju kolateralna promjena.
 
-Meta danas ulaže milijarde u AI modele, infrastrukturu i automatizaciju procesa, s ciljem da isti posao obavlja manje ljudi, brže i jeftinije. Investitori to nagrađuju, tržište to razumije, ali ono što se gubi u toj jednadžbi nije vidljivo u financijskim izvještajima. Gubi se ljudski sloj između platforme i korisnika — upravo onaj sloj koji postaje ključan u trenutku kada nešto pođe po zlu.
+I dok Meta javno govori o “efikasnosti” i “restrukturiranju”, sve veći broj korisnika primjećuje nešto drugo — nagli porast problema s automatiziranom moderacijom sadržaja. Meta danas ulaže milijarde u AI modele, infrastrukturu i automatizaciju procesa, s ciljem da isti posao obavlja manje ljudi, brže i jeftinije. Investitori to nagrađuju, tržište to razumije, ali ono što se gubi u toj jednadžbi nije vidljivo u financijskim izvještajima. Gubi se ljudski sloj između platforme i korisnika — upravo onaj sloj koji postaje ključan u trenutku kada nešto pođe po zlu.
+
+{{< support1 >}}
 
 ## Problemi AI moderacije na Facebooku: očekivanja i stvarnost
 
@@ -45,19 +47,17 @@ Jedan od primjera koji posebno odjekuje jest slučaj community officera iz Kanad
 
 Ovo više nisu izolirani incidenti. Sve više korisničkih iskustava i procjena sugerira da se val izbacivanja putem AI moderacije dodatno pojačao u 2026. godini, do razine gdje se govori o milijunima pogođenih korisnika. Nema službenih brojki, ali obrasci su jasni i ponavljaju se. Ljudi nestaju iz sustava bez upozorenja i bez mogućnosti povratka. Ako AI izbacuje stvarne korisnike — tko će im ostati? AI bots?
 
-{{< support1 >}}
-
 ## Facebook sustav izbačenog korisnika potpuno ignorira: ban i potpuna tišina
 
 Problem ne završava samim banom, nego tek tada počinje. Kada korisnik bude izbačen s Facebooka, praktički prestaje postojati komunikacijski kanal između njega i platforme. Ne postoji nikakv službeno objavljen email na koji se možete obratiti, ili je toliko sakriven da ga ne možete pronaći, Jednom kad vas izbace, više nemate pritup ničemu, jer je sve zatvoreno unutar sustava kojem više ne postoji pristup. Ne postoji osoba koja će pregledati slučaj. Ne postoji transparentan proces žalbe. Sve što ostaje je automatizirani sustav koji je već donio odluku i nema mehanizam da je preispita na ljudskoj razini.
 
 Europska unija formalno nudi određene mehanizme zaštite, poput mogućnosti obraćanja kroz AppealsCentre.eu, ali praksa pokazuje da ni to nije stvarno rješenje. Korisnici navode da odgovori kasne tjednima ili uopće ne dolaze, što znači da čak ni regulatorni okvir ne može osigurati pravovremenu reakciju. U takvom sustavu korisnik ne gubi samo račun, nego i mogućnost da uopće bude saslušan.
 
+{{< support2 >}}
+
 ## 16.000 otkaza i pitanje koje nitko ne postavlja
 
 U tom kontekstu planirani otkazi dobivaju potpuno novu dimenziju. Ako Meta već sada ne odgovara korisnicima, ako su komunikacijski kanali već sada praktički ugašeni, što znači dodatno uklanjanje 16.000 ljudi iz sustava? Vrlo je vjerojatno da značajan dio tih zaposlenika dolazi upravo iz operativnih funkcija — korisničke podrške i moderacije — jer su upravo ti segmenti najlakši za automatizaciju i najčešći cilj rezanja troškova. To znači da će sustav koji već sada ne odgovara korisnicima postati još zatvoreniji.
-
-{{< support2 >}}
 
 ## Internet bez ljudi: gdje je granica?
 
