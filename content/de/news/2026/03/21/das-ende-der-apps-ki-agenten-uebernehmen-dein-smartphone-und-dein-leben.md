@@ -50,7 +50,7 @@ Die zentrale Annahme dieser Vision ist, dass KI den Nutzer gut genug versteht, u
 
 KI-Systeme können halluzinieren — das bedeutet, sie erzeugen falsche oder vollständig erfundene Informationen, präsentieren diese jedoch als korrekt. Im Alltag kann das zu falschen Buchungen, schlechten Empfehlungen oder fehlerhaften finanziellen Entscheidungen führen.
 
-Zudem versteht KI den Kontext oft nicht so, wie es Menschen tun. Humor, Sarkasmus oder die eigentliche Absicht eines Nutzers können falsch interpretiert werden. Genau solche Situationen beobachten wir bereits bei KI-Moderationssystemen in sozialen Netzwerken, wo in den letzten Monaten langjährige Nutzer — angeblich sogar Millionen — fälschlicherweise markiert, eingeschränkt oder ohne klare Begründung aus der Kommunikation ausgeschlossen wurden.
+Zudem versteht KI den Kontext oft nicht so, wie es Menschen tun. Humor, Sarkasmus oder die eigentliche Absicht eines Nutzers können falsch interpretiert werden. Genau solche Situationen beobachten wir bereits bei KI-Moderationssystemen in sozialen Netzwerken, wo in den letzten Monaten Facebook langjährige Nutzer — angeblich sogar Millionen — fälschlicherweise markiert, eingeschränkt oder ohne klare Begründung aus der Kommunikation ausgeschlossen wurden.
 
 Wenn KI schon heute Schwierigkeiten hat, grundlegende Interaktionen richtig zu verstehen, stellt sich die Frage, wie bereit sie ist, komplexe Aufgaben und Entscheidungen im Alltag zu übernehmen.
 
