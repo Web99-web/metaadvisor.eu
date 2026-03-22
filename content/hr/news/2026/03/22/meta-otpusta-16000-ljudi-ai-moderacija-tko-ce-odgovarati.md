@@ -39,7 +39,9 @@ I dok Meta javno govori o “efikasnosti” i “restrukturiranju”, sve veći 
 
 ## Problemi AI moderacije na Facebooku: očekivanja i stvarnost
 
-AI moderacija se godinama predstavlja kao rješenje za probleme interneta. Ideja je jednostavna: algoritmi će ukloniti spam, prijevare, lažne oglase i štetan sadržaj, i time učiniti platforme sigurnijima. No ono što se stvarno događa na Facebooku tijekom 2025. i 2026. pokazuje potpuno drugačiju sliku. Sve veći broj običnih ljudi prijavljuje trajne zabrane bez objašnjenja, i to ne bilo kakvih korisnika, nego ljudi koji su platformu koristili deset ili petnaest godina bez problema. To nisu anonimni profili ni sumnjivi računi, nego stvarni ljudi sa stvarnim mrežama kontakata, poslovima, obiteljima i društvenim ulogama koje su godinama gradili upravo na toj platformi.
+AI moderacija se godinama predstavlja kao rješenje za probleme interneta. Ideja je jednostavna: algoritmi će ukloniti spam, prijevare, lažne oglase i štetan sadržaj, i time učiniti platforme sigurnijima. No ono što se stvarno događa na Facebooku tijekom 2025. i 2026. pokazuje potpuno drugačiju sliku. Sve veći broj običnih ljudi prijavljuje trajne zabrane bez objašnjenja, i to ne bilo kakvih korisnika, nego ljudi koji su platformu koristili 10 ili 15 godina bez problema. To nisu anonimni profili ni sumnjivi računi, nego stvarni ljudi sa stvarnim mrežama kontakata, poslovima, obiteljima i društvenim ulogama koje su godinama gradili upravo na toj platformi. 
+
+Takvim ljudima je trajnom zabranom onemogućeno korištenja Facebook ali i Messengera. Jednim klikom izgube sve privatne i poslovne kontakte. 
 
 ### Slučaj koji postavlja pitanje: kakvo je to “društvo”?
 
