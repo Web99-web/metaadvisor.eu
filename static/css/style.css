@@ -890,3 +890,24 @@ body.list main.site-main{
   padding-left: 40px;
   padding-right: 40px;
 }
+
+/* =========================
+   LIST – REAL WIDTH FIX
+========================= */
+
+/* makni global max-width */
+body.list main.site-main{
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* makni max-width iz varijable */
+body.list{
+  --maxW: 100% !important;
+}
+
+/* grid full width */
+body.list .grid{
+  max-width: none !important;
+  width: 100% !important;
+}
