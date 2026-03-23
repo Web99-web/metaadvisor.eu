@@ -827,3 +827,39 @@ main.site-main .grid{
   max-width: 1600px;
   margin: 0 auto;
 }
+
+/* =========================
+   HARD GRID FIX (FINAL)
+========================= */
+
+/* natjeraj grid na 6 kolona */
+main.site-main .grid{
+  display: grid !important;
+  grid-template-columns: repeat(6, 1fr) !important;
+  gap: 20px !important;
+}
+
+/* ukloni ograničenja kartica */
+main.site-main .grid > *{
+  min-width: 0 !important;
+  width: 100% !important;
+}
+
+/* SINGLE FIX (vrati normalu ispod članka) */
+.post-related .grid{
+  grid-template-columns: repeat(3, 1fr) !important;
+}
+
+/* TABLET */
+@media (max-width: 1200px){
+  main.site-main .grid{
+    grid-template-columns: repeat(3, 1fr) !important;
+  }
+}
+
+/* MOBITEL */
+@media (max-width: 768px){
+  main.site-main .grid{
+    grid-template-columns: repeat(1, 1fr) !important;
+  }
+}
