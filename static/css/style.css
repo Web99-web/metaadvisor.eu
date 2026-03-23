@@ -831,9 +831,9 @@ body.list main.site-main .grid{
 }
 
 /* =========================
-   FORCE 6 CARDS ON LIST (REAL FIX)
+   LIST FIX – REAL (FINAL)
 ========================= */
 
-main.site-main > .container > .grid{
-  grid-template-columns: repeat(6, 1fr);
+main.site-main > .grid{
+  grid-template-columns: repeat(6, 1fr) !important;
 }
