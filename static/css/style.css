@@ -829,3 +829,11 @@ body.list main.site-main .grid{
   grid-template-columns: repeat(6, 1fr);
   gap: 20px;
 }
+
+/* =========================
+   FORCE 6 CARDS ON LIST (REAL FIX)
+========================= */
+
+main.site-main > .container > .grid{
+  grid-template-columns: repeat(6, 1fr);
+}
