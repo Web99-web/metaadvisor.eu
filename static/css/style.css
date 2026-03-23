@@ -830,10 +830,13 @@ body.list main.site-main .grid{
   gap: 20px;
 }
 
+
 /* =========================
-   LIST FIX – REAL (FINAL)
+   LIST FIX – DESKTOP ONLY
 ========================= */
 
-main.site-main > .grid{
-  grid-template-columns: repeat(6, 1fr) !important;
+@media (min-width: 1201px){
+  main.site-main > .grid{
+    grid-template-columns: repeat(6, 1fr);
+  }
 }
