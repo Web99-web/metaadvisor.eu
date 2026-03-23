@@ -819,3 +819,13 @@ main.site-main .grid{
   margin-left: auto;
   margin-right: auto;
 }
+
+/* =========================
+   GRID – ONLY LIST PAGES
+========================= */
+
+body.list main.site-main .grid{
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 20px;
+}
