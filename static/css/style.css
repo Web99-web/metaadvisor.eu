@@ -760,33 +760,39 @@ img.card-img{
 }
 
 /* =========================
-   GRID FINAL (CLEAN VERSION)
+   GRID FINAL (STABLE)
 ========================= */
 
+/* CONTAINER (širina + centar) */
 main.site-main .container{
   max-width: 1600px !important;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   padding-left: 40px;
   padding-right: 40px;
 }
 
-/* grid layout */
-/* main.site-main .grid{
+/* GLOBAL GRID (SINGLE + fallback) */
+.grid{
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 20px;
-}*/
-
-/* =========================
-   GRID – ONLY LIST PAGES
-========================= */
-
-body.list main.site-main .grid{
-  grid-template-columns: repeat(6, 1fr);
 }
 
-/* tablet */
+/* =========================
+   LIST ONLY – 6 CARDS
+========================= */
+
+/* samo na većim ekranima */
+@media (min-width: 1200px){
+  main.site-main .grid{
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+/* =========================
+   TABLET
+========================= */
+
 @media (max-width: 1200px){
   main.site-main .grid{
     grid-template-columns: repeat(3, 1fr);
@@ -798,7 +804,10 @@ body.list main.site-main .grid{
   }
 }
 
-/* mobitel */
+/* =========================
+   MOBILE
+========================= */
+
 @media (max-width: 768px){
   main.site-main .grid{
     grid-template-columns: repeat(1, 1fr);
@@ -811,32 +820,10 @@ body.list main.site-main .grid{
 }
 
 /* =========================
-   CENTER GRID (FINAL FIX)
+   CENTER GRID WIDTH
 ========================= */
 
 main.site-main .grid{
-  max-width: 1600px;      /* širina za 6 kartica */
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* =========================
-   GRID – ONLY LIST PAGES
-========================= */
-
-body.list main.site-main .grid{
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 20px;
-}
-
-
-/* =========================
-   LIST FIX – FINAL (REAL TARGET)
-========================= */
-
-@media (min-width: 1201px){
-  main.site-main .grid{
-    grid-template-columns: repeat(6, 1fr);
-  }
+  max-width: 1600px;
+  margin: 0 auto;
 }
