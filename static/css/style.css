@@ -800,3 +800,12 @@ main.site-main .grid{
     padding-right: 16px;
   }
 }
+
+/* =========================
+   HARD OVERRIDE (ubija inline max-width iz HTML-a)
+========================= */
+
+main.site-main .grid{
+  max-width: 100% !important;
+  margin: 0 !important;
+}
