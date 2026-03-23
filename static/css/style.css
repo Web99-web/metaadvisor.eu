@@ -772,10 +772,18 @@ main.site-main .container{
 }
 
 /* grid layout */
-main.site-main .grid{
+/* main.site-main .grid{
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   gap: 20px;
+}*/
+
+/* =========================
+   GRID – ONLY LIST PAGES
+========================= */
+
+body.list main.site-main .grid{
+  grid-template-columns: repeat(6, 1fr);
 }
 
 /* tablet */
