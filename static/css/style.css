@@ -832,11 +832,11 @@ body.list main.site-main .grid{
 
 
 /* =========================
-   LIST FIX – DESKTOP ONLY
+   LIST FIX – FINAL (REAL TARGET)
 ========================= */
 
 @media (min-width: 1201px){
-  main.site-main > .grid{
+  main.site-main .grid{
     grid-template-columns: repeat(6, 1fr);
   }
 }
