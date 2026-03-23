@@ -823,9 +823,14 @@ main.site-main .container{
    CENTER GRID WIDTH
 ========================= */
 
-main.site-main .grid{
+/*main.site-main .grid{
   max-width: 1600px;
   margin: 0 auto;
+}*/
+
+main.site-main .grid{
+  max-width: none;   /* ← bilo 1600 */
+  margin: 0;         /* ← bilo auto */
 }
 
 /* =========================
