@@ -809,3 +809,13 @@ main.site-main .grid{
   max-width: 100% !important;
   margin: 0 !important;
 }
+
+/* =========================
+   CENTER GRID (FINAL FIX)
+========================= */
+
+main.site-main .grid{
+  max-width: 1600px;      /* širina za 6 kartica */
+  margin-left: auto;
+  margin-right: auto;
+}
