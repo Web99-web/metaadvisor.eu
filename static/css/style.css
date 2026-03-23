@@ -783,7 +783,7 @@ main.site-main .container{
 ========================= */
 
 /* samo na većim ekranima */
-@media (min-width: 1200px){
+@media (min-width: 1700px){
   main.site-main .grid{
     grid-template-columns: repeat(6, 1fr);
   }
