@@ -863,3 +863,11 @@ main.site-main .grid > *{
     grid-template-columns: repeat(1, 1fr) !important;
   }
 }
+
+/* =========================
+   LIST ONLY – FULL WIDTH FIX
+========================= */
+
+body.list main.site-main .container{
+  max-width: 100% !important;
+}
