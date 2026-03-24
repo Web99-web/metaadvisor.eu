@@ -71,9 +71,13 @@ Reuters izvještava o ulaganjima i akvizicijama koje pokazuju da Mastercard žel
 
 {{< support2 >}}
 
-## ECB ulazi u igru
+## ECB ulazi u igru  
 
-Digitalni euro u tom kontekstu nije samo tehnološki projekt, već **strateški alat za smanjenje ovisnosti Europe o globalnim privatnim platnim mrežama poput Visa, Mastercard i PayPala**, ali i o širem ekosustavu koji se sve više oslanja na **digitalni dolar kroz stablecoine**. Upravo zato ECB prelazi u fazu konkretne implementacije — od bankomata do kartičnih plaćanja u trgovinama diljem eurozone, što detaljnije analiziramo u članku **„Digitalni euro ulazi u stvarni svijet: ECB priprema bankomate, kartice i plaćanja“**.
+Digitalni euro u tom kontekstu nije samo tehnološki projekt, već **strateški alat za smanjenje ovisnosti Europe o globalnim privatnim platnim mrežama poput Visa, Mastercard i PayPala**, ali i o širem ekosustavu koji se sve više oslanja na **digitalni dolar kroz stablecoine**. Upravo zato ECB prelazi iz faze ideje u fazu konkretne implementacije — od bankomata do kartičnih plaćanja u trgovinama diljem eurozone.
+
+👉 [Digitalni euro ulazi u stvarni svijet: ECB priprema bankomate, kartice i plaćanja](/hr/news/digitalni-euro-ecb-bankomati-kartice-placanja-eu/)
+
+Time se otvara nova dimenzija ove priče — više nije riječ samo o tehnologiji, već o **kontroli financijske infrastrukture u Europi**. ECB ne pokušava zamijeniti postojeće sustave preko noći, ali jasno signalizira da želi imati vlastitu alternativu koja ne ovisi o vanjskim akterima.
 
 ## Tri sustava, jedna borba
 
