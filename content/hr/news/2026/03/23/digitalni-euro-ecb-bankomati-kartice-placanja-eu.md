@@ -14,8 +14,8 @@ image: "/images/Euro-digital.png"
 thumbnail: "/images/Euro-digital.png"
 image_alt: "Digitalni euro i ECB plan integracije u bankomate i plaćanja"
 image_credit: "MetaAdvisor.eu"
-tags: ["digitalni euro", "ecb", "cbdc", "placanja", "bankomati", "kartice", "eu", "financije", "crypto", "regulacija"]
-summary: "ECB prelazi iz faze planiranja u fazu implementacije digitalnog eura, s fokusom na bankomate, kartična plaćanja i infrastrukturu u cijeloj eurozoni."
+tags: ["digitalni euro", "ecb", "cbdc", "placanja", "bankomati", "kartice", "eurozona", "financije", "crypto", "regulacija"]
+summary: "ECB prelazi u fazu implementacije digitalnog eura s fokusom na bankomate, kartična plaćanja i svakodnevnu upotrebu u cijeloj eurozoni."
 ---
 
 *Slika je simbolična.*
@@ -29,57 +29,57 @@ summary: "ECB prelazi iz faze planiranja u fazu implementacije digitalnog eura, 
 
 # Digitalni euro ulazi u stvarni svijet
 
-Europska središnja banka (ECB) napravila je ključan iskorak u razvoju digitalnog eura — projekt više nije samo koncept ili regulatorna rasprava, već ulazi u fazu konkretne implementacije. Umjesto pitanja “treba li digitalni euro”, fokus se sada jasno pomiče na “kako će se koristiti u svakodnevnom životu”.
+Europska središnja banka (ECB) napravila je ključan iskorak — digitalni euro više nije samo ideja, već projekt koji ulazi u fazu konkretne izgradnje. Fokus se više ne nalazi na pitanju treba li ova valuta postojati, već na tome kako će se koristiti u svakodnevnom životu diljem Europe.
 
-Najvažnija promjena je da ECB sada traži stručnjake koji će definirati kako će digitalni euro funkcionirati na **bankomatima, kartičnim terminalima i u trgovinama**. To znači da se projekt po prvi put ozbiljno približava stvarnom svijetu i korisnicima, a ne samo tehničkim modelima i strategijama.
+Najvažnije: ECB sada aktivno traži stručnjake koji će definirati kako će digitalni euro funkcionirati na **bankomatima, kartičnim terminalima i u trgovinama unutar cijele eurozone**. Cilj je jasan — omogućiti da korisnici mogu **plaćati digitalnim eurom na blagajni ili podizati sredstva na bankomatima**, baš kao i danas s gotovinom ili karticama.
 
 ## Od teorije do infrastrukture
 
-Ovaj korak označava prijelaz iz faze dizajna u fazu izgradnje. ECB više ne raspravlja samo o tome kako bi digitalna valuta trebala izgledati, već aktivno radi na tome kako će se uklopiti u postojeću infrastrukturu plaćanja diljem Europe. Fokus je na **interoperabilnosti**, odnosno sposobnosti digitalnog eura da funkcionira zajedno s postojećim sustavima, a ne da ih u potpunosti zamijeni.
+Ovo je trenutak kada projekt prelazi iz koncepta u infrastrukturu. ECB je već završio tehničke pripreme, a sada je, prema riječima predsjednice **Christine Lagarde**, na političkim institucijama da donesu konačnu odluku. Projekt se trenutno nalazi na razmatranju u **Europskom vijeću i Europskom parlamentu**, što znači da ulazi u završnu fazu prije potencijalne implementacije.
 
-Poseban naglasak stavljen je na tehničke detalje poput komunikacije između uređaja, podrške za **offline plaćanja** i mogućnosti korištenja postojećih standarda. To znači da bi korisnici u budućnosti mogli plaćati digitalnim eurom čak i bez internetske veze, slično kao s gotovinom, ali u digitalnom obliku.
+Ključni fokus sada je kako će digitalni euro funkcionirati u stvarnom svijetu — uključujući **offline plaćanja**, povezivanje s postojećim uređajima i korištenje već postojećih standarda. To znači da digitalni euro neće zamijeniti sustav preko noći, već će se **ugraditi u postojeću infrastrukturu plaćanja**.
 
 {{< support1 >}}
 
-## Dva ključna pravca razvoja
+## Tko je već uključen
 
-ECB je organizirao razvoj u dva glavna smjera. Prvi se odnosi na tehničku implementaciju — kako će bankomati i POS terminali prihvaćati digitalni euro, kako će uređaji komunicirati i kako će se transakcije obrađivati u stvarnom vremenu.
+ECB je otvorio dva glavna “workstreama” unutar svoje Rulebook Development Group (RDG). Prvi je fokusiran na tehničku implementaciju — kako će bankomati i POS terminali obrađivati digitalni euro, kako će uređaji komunicirati i kako će korisnici plaćati u trgovinama diljem eurozone.
 
-Drugi pravac fokusiran je na certificiranje i odobravanje sustava. To uključuje definiranje pravila za banke, fintech kompanije i pružatelje platnih usluga koji će sudjelovati u ekosustavu. Drugim riječima, ECB ne gradi samo tehnologiju, već i **cijeli sustav kontrole i standarda** koji će omogućiti sigurno korištenje digitalne valute.
+Drugi workstream bavi se certificiranjem i odobravanjem sustava — odnosno definira tko i pod kojim uvjetima može sudjelovati u ekosustavu. To uključuje **banke, fintech kompanije i pružatelje platnih usluga**, koji će morati proći proces testiranja i odobrenja kako bi omogućili prihvat digitalnog eura.
+
+Paralelno s ECB projektom, već se formira i privatna alternativa. **Grupa od 12 europskih banaka — uključujući BBVA, ING i BNP Paribas — razvija vlastiti euro-stablecoin kroz projekt Qivalis**, s planiranim lansiranjem u drugoj polovici 2026. godine. Cilj je ponuditi blockchain plaćanja bez oslanjanja na dolar.
 
 ## Šira slika: borba za kontrolu plaćanja
 
-Iza tehničkih detalja krije se puno veća priča. Danas većina digitalnih plaćanja u Europi prolazi kroz privatne mreže poput Visa i Mastercard, dok stablecoini vezani uz dolar dominiraju globalnim kripto tržištem. Digitalni euro predstavlja pokušaj Europe da vrati kontrolu nad vlastitim financijskim sustavom.
+Ovdje više nije riječ samo o tehnologiji — već o kontroli. Danas većina digitalnih plaćanja u Europi prolazi kroz privatne mreže poput Visa i Mastercard, dok globalni kripto sustav dominiraju dolar-based stablecoini.
 
-U tom kontekstu, digitalni euro nije samo nova valuta — on je i **strateški alat financijske suverenosti**. Cilj je smanjiti ovisnost o vanjskim sustavima i osigurati da Europa ima vlastitu infrastrukturu za digitalna plaćanja u budućnosti.
+Digitalni euro predstavlja pokušaj da Europa preuzme kontrolu nad vlastitim financijskim sustavom i smanji ovisnost o vanjskim akterima. U tom smislu, digitalni euro nije samo nova valuta — on je **strateški projekt financijske suverenosti Europe**.
 
 {{< support2 >}}
 
 ## Kada dolazi digitalni euro
 
-Prema trenutačnim planovima, politička odluka o uvođenju digitalnog eura očekuje se u sljedećim godinama. Ako projekt dobije zeleno svjetlo, pilot faza mogla bi započeti već oko 2027., dok se potencijalno šire uvođenje spominje oko 2029. godine.
-
-To znači da se trenutno nalazimo u ključnoj fazi — fazi u kojoj se definiraju pravila, tehnologija i infrastruktura koja će oblikovati budući sustav plaćanja u Europi.
+Ako političke institucije daju odobrenje, ECB je već signalizirao potencijalni rollout oko **2029. godine**. To znači da se trenutno nalazimo u ključnoj fazi — fazi u kojoj se definiraju pravila koja će oblikovati budućnost plaćanja u Europi.
 
 ## Što to znači za korisnike
 
-Za građane, digitalni euro mogao bi donijeti jednostavnija i brža plaćanja, bez dodatnih troškova i s većom dostupnošću unutar cijele eurozone. Mogućnost offline korištenja dodatno ga približava gotovini, ali s prednostima digitalnog sustava.
+Za građane, digitalni euro bi mogao značiti jednostavnija, brža i jeftinija plaćanja unutar cijele eurozone. Posebno je važna mogućnost **offline transakcija**, koja digitalni euro približava gotovini, ali s prednostima digitalnog sustava.
 
-Za banke i financijske institucije, situacija je kompleksnija. Digitalni euro mogao bi promijeniti način na koji se drže depoziti i upravlja likvidnošću, što otvara pitanja o budućoj ulozi banaka u financijskom sustavu.
+Za banke i financijski sektor, ovo je potencijalna prekretnica. Ako korisnici počnu držati sredstva direktno u digitalnom euru, to bi moglo promijeniti način funkcioniranja depozita i likvidnosti u cijelom sustavu.
 
 ## Zaključak
 
-Digitalni euro više nije hipotetski projekt — postaje konkretna infrastruktura koja se aktivno razvija. Uvođenje bankomata i kartičnih terminala u planiranje pokazuje da se ECB priprema za stvarnu primjenu, a ne samo za testiranje.
+Digitalni euro ulazi u fazu u kojoj prestaje biti teorija i postaje infrastruktura. Uključivanje bankomata, kartičnih terminala i trgovina znači da se ECB priprema za stvarnu upotrebu — unutar svakodnevnog života građana eurozone.
 
-Ključno pitanje više nije hoće li digitalni euro postojati, već kako će se uklopiti u postojeći sustav i koliko brzo će ga korisnici prihvatiti.
+Ključno pitanje više nije hoće li digitalni euro postojati, već koliko brzo će postati dio svakodnevice.
 
 ## Naš osvrt (Metaadvisor)
 
-- Digitalni euro ulazi u fazu implementacije, što je najveći pomak do sada  
-- ECB ne gradi samo valutu, već cijeli financijski sustav  
-- Ključni cilj je smanjiti ovisnost o Visa i Mastercard mrežama  
-- Projekt ima najveći potencijal u dugoročnom restrukturiranju plaćanja u Europi  
-- Glavni izazovi ostaju regulacija, prihvaćanje korisnika i uloga banaka  
+- ECB je prešao iz teorije u fazu konkretne implementacije  
+- Digitalni euro cilja svakodnevna plaćanja u cijeloj eurozoni  
+- U projekt su već uključene banke, fintech i privatni stablecoin inicijative  
+- Qivalis projekt pokazuje da i privatni sektor želi dio tržišta  
+- Ovo je početak borbe između država, banaka i crypto infrastrukture  
 
 ---
 
