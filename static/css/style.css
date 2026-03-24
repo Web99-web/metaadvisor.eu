@@ -950,3 +950,11 @@ body.list main.site-main .grid{
 body.list .grid{
   grid-template-columns: repeat(6, 1fr);
 }
+
+/* =========================
+   LIST ONLY – KILL WIDTH LIMIT
+========================= */
+
+body.list{
+  --maxW: 1600px !important;
+}
