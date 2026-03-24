@@ -39,7 +39,7 @@ Dies ist der Moment, in dem das Projekt vom Konzept zur Infrastruktur übergeht.
 
 Der Fokus liegt nun darauf, wie der digitale Euro in der Praxis funktionieren wird — einschließlich **Offline-Zahlungen**, der Verbindung mit bestehenden Geräten und der Nutzung vorhandener Standards. Das bedeutet, dass der digitale Euro das bestehende System nicht sofort ersetzt, sondern sich **in die vorhandene Zahlungsinfrastruktur integriert**.
 
-## Wer bereits beteiligt ist — und warum das ein wichtiges Signal ist
+## Die EZB sucht bereits Experten für den digitalen Euro — ein klares Signal, dass das Projekt voranschreitet
 
 Die EZB arbeitet nicht mehr nur auf konzeptioneller Ebene — sie hat bereits Bewerbungen für Experten geöffnet, die an der Entwicklung des digitalen Euro mitwirken sollen. Über ihre Rulebook Development Group (RDG) sucht die Zentralbank aktiv nach Fachleuten aus der Industrie, die definieren werden, wie der digitale Euro in der Praxis funktionieren soll — von Geldautomaten und POS-Terminals bis hin zum gesamten Zahlungssystem.
 
