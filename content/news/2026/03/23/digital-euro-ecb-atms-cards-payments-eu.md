@@ -39,7 +39,7 @@ This is the moment the project moves from concept to infrastructure. The ECB has
 
 The key focus now is how the digital euro will function in real-world scenarios — including **offline payments**, integration with existing devices, and compatibility with current payment standards. This means the digital euro will not replace existing systems overnight, but will instead **be integrated into the current payment infrastructure**.
 
-## Who is already involved — and why this is an important signal
+## The ECB is already hiring experts for the digital euro — a clear signal the project is moving forward
 
 The ECB is no longer operating at the level of concept — it has already opened applications for experts who will take part in building the digital euro. Through its Rulebook Development Group (RDG), the central bank is actively seeking industry professionals who will define how the digital euro will function in practice — from ATMs and point-of-sale terminals to the entire payment acceptance system.
 
