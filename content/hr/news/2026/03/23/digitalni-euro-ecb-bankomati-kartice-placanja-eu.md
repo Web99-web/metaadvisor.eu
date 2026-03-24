@@ -33,7 +33,7 @@ Europska središnja banka (ECB) napravila je ključan iskorak — digitalni euro
 
 Najvažnije: ECB sada aktivno traži stručnjake koji će definirati kako će digitalni euro funkcionirati na **bankomatima, kartičnim terminalima i u trgovinama unutar cijele eurozone**. Cilj je jasan — omogućiti da korisnici mogu **plaćati digitalnim eurom na blagajni ili podizati sredstva na bankomatima**, baš kao i danas s gotovinom ili karticama.
 
-## Tko je već uključen — i zašto je to važan signal
+## ECB već traži stručnjake za rad na digitalnom euru — jasan signal da projekt ide dalje
 
 ECB više ne radi samo na razini koncepta — već je otvorio prijave za stručnjake koji će sudjelovati u razvoju digitalnog eura. Kroz svoju Rulebook Development Group (RDG), banka aktivno traži industrijske eksperte koji će definirati kako će digitalni euro funkcionirati u praksi — od bankomata i POS terminala do cijelog sustava prihvaćanja plaćanja.
 
