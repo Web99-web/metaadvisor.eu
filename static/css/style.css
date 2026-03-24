@@ -946,15 +946,30 @@ body.list{
    NAJNOVIJI SAVIJET 24 3 U 2314 H  
 ========================= */
 
+/* =========================
+   FINAL GRID SYSTEM
+========================= */
+
+/* DESKTOP */
 @media (min-width: 1400px){
-
   body main.site-main .grid{
-    max-width: 1800px !important;
+    max-width: 1850px !important;
     margin: 0 auto !important;
+    grid-template-columns: repeat(6, minmax(280px, 1fr)) !important;
   }
+}
 
+/* TABLET */
+@media (max-width: 1200px){
   body main.site-main .grid{
-    grid-template-columns: repeat(6, minmax(260px, 1fr)) !important;
+    grid-template-columns: repeat(3, 1fr) !important;
   }
+}
 
+/* MOBITEL */
+@media (max-width: 768px){
+  body main.site-main .grid{
+    grid-template-columns: repeat(1, 1fr) !important;
+    max-width: 100% !important;
+  }
 }
