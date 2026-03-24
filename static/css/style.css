@@ -955,7 +955,7 @@ body.list{
   body main.site-main .grid{
     max-width: 1850px !important;
     margin: 0 auto !important;
-    grid-template-columns: repeat(6, minmax(300px, 1fr)) !important;
+    grid-template-columns: repeat(6, minmax(290px, 1fr)) !important;
   }
 }
 
