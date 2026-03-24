@@ -927,3 +927,26 @@ body.list .grid{
   margin: 0 auto;
   width: 100%;
 }
+
+/* =========================
+   LIST ONLY – FULL WIDTH (REAL FIX)
+========================= */
+
+/* samo LIST – razbij container ograničenje */
+body.list .container,
+body.list .wrap{
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* grid ide full širina */
+body.list main.site-main .grid{
+  width: 100%;
+  max-width: 1600px;   /* kontrolirana širina */
+  margin: 0 auto;
+}
+
+/* 6 kartica samo na list */
+body.list .grid{
+  grid-template-columns: repeat(6, 1fr);
+}
