@@ -947,10 +947,10 @@ body.list{
 ========================= */
 
 body main.site-main .grid{
-  max-width: 1600px !important;
+  max-width: 1700px !important;
   margin: 0 auto !important;
 }
 
 body main.site-main .grid{
-  grid-template-columns: repeat(6, minmax(260px, 1fr)) !important;
+  grid-template-columns: repeat(6, minmax(280px, 1fr)) !important;
 }
