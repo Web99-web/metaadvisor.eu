@@ -952,5 +952,5 @@ body main.site-main .grid{
 }
 
 body main.site-main .grid{
-  grid-template-columns: repeat(6, minmax(240px, 1fr)) !important;
+  grid-template-columns: repeat(6, minmax(260px, 1fr)) !important;
 }
