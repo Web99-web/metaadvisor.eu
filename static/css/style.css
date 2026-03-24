@@ -837,12 +837,7 @@ main.site-main .grid{
    HARD GRID FIX (FINAL)
 ========================= */
 
-/* natjeraj grid na 6 kolona */
-main.site-main .grid{
-  display: grid !important;
-  grid-template-columns: repeat(6, 1fr) !important;
-  gap: 20px !important;
-}
+
 
 /* ukloni ograničenja kartica */
 main.site-main .grid > *{
