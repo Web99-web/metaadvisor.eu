@@ -941,3 +941,16 @@ body.list .grid{
 body.list{
   --maxW: 1600px !important;
 }
+
+/* =========================
+   NAJNOVIJI SAVIJET 24 3 U 2314 H  
+========================= */
+
+body main.site-main .grid{
+  max-width: 1600px !important;
+  margin: 0 auto !important;
+}
+
+body main.site-main .grid{
+  grid-template-columns: repeat(6, minmax(240px, 1fr)) !important;
+}
