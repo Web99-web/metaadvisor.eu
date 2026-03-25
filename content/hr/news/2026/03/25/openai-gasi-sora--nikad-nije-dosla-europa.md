@@ -1,6 +1,6 @@
 ---
-title: "Sora se gasi: čekali smo je u Europi — ali nikad neće doći"
-slug: "sora-se-gasi-nikad-nije-dosla-europa"
+title: "OpenAI gasi Sora: čekali smo je u Europi — ali nikad neće doći"
+slug: "openai-gasi-sora--nikad-nije-dosla-europa"
 date: 2026-03-25T06:30:00+01:00
 category: "ai"
 translationKey: "sora-shutdown-europe-never-arrived-2026"
