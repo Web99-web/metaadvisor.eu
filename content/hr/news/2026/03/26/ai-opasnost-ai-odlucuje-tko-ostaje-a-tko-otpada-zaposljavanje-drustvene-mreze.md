@@ -30,7 +30,7 @@ summary: "AI više ne pomaže samo u odlukama — on odlučuje tko prolazi, a tk
 
 ## Kada AI bira “idealnog kandidata” — koga sve prekriži prije toga i zašto?
 
-U jednoj tvrtki AI sustav je, kao dio standardnog procesa zapošljavanja, izdvojio uži izbor kandidata. Na prvi pogled sve je djelovalo savršeno: prijave su bile uredne, precizne i gotovo u potpunosti usklađene s oglasom za posao. Kandidati su izgledali kao da točno odgovaraju traženom profilu.
+U jednoj firmi AI sustav je, kao dio standardnog procesa zapošljavanja, izdvojio uži izbor kandidata. Na prvi pogled sve je djelovalo savršeno: prijave su bile uredne, precizne i gotovo u potpunosti usklađene s oglasom za posao. Kandidati su izgledali kao da točno odgovaraju traženom profilu.
 
 No, vrlo brzo se pokazalo da postoji problem koji algoritam nije mogao prepoznati. Svi su kandidati djelovali gotovo identično. Razlike su bile minimalne, a dojam je bio kao da se ne radi o stvarnim ljudima, nego o varijacijama istog obrasca.
 
