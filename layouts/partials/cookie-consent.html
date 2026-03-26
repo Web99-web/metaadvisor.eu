@@ -1,0 +1,138 @@
+<div id="ma-consent">
+  <div class="ma-box">
+
+    <div class="ma-top">
+      <a href="#" id="ma-decline">Continue without accepting →</a>
+    </div>
+
+    <h3>We use cookies</h3>
+
+    <p class="ma-main">
+      We use cookies to understand what readers find useful — as an independent project focused on finance, crypto, AI and technology.
+    </p>
+
+    <p class="ma-small">
+      This helps us improve content. More in our privacy policy.
+    </p>
+
+    <div class="ma-actions">
+      <a href="/privacy/" id="ma-settings">Settings</a>
+      <button id="ma-accept">Accept all</button>
+    </div>
+
+  </div>
+</div>
+
+<style>
+#ma-consent {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999999;
+  display: none;
+}
+
+.ma-box {
+  max-width: 360px;
+  background: #f5f5f5;
+  color: #111;
+  padding: 16px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+  font-size: 13px;
+  font-family: inherit;
+}
+
+.ma-top {
+  text-align: right;
+  margin-bottom: 6px;
+}
+
+#ma-decline {
+  font-size: 12px;
+  color: #666;
+  text-decoration: none;
+  opacity: 0.6;
+}
+
+#ma-decline:hover {
+  opacity: 1;
+}
+
+.ma-main {
+  margin: 10px 0;
+}
+
+.ma-small {
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+.ma-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+#ma-settings {
+  background: #ddd;
+  padding: 8px 10px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #000;
+  font-size: 12px;
+}
+
+#ma-accept {
+  background: #ccc;
+  border: 0;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+}
+</style>
+
+<script>
+(function () {
+
+  // 🔐 Default: analytics blocked until user gives consent (GDPR-safe)
+  if (typeof gtag === 'function') {
+    gtag('consent', 'default', {
+      analytics_storage: 'denied'
+    });
+  }
+
+  const consent = localStorage.getItem('ma_consent');
+  const banner = document.getElementById('ma-consent');
+
+  if (!consent) {
+    banner.style.display = 'block';
+  }
+
+  if (consent === 'granted') {
+    allowAnalytics();
+  }
+
+  document.getElementById('ma-accept').onclick = function () {
+    localStorage.setItem('ma_consent', 'granted');
+    allowAnalytics();
+    banner.remove();
+  };
+
+  document.getElementById('ma-decline').onclick = function () {
+    localStorage.setItem('ma_consent', 'denied');
+    banner.remove();
+  };
+
+  // ✅ Consent ONLY unlocks storage — does NOT start GA again
+  function allowAnalytics() {
+    if (typeof gtag !== 'function') return;
+
+    gtag('consent', 'update', {
+      analytics_storage: 'granted'
+    });
+  }
+
+})();
+</script>
