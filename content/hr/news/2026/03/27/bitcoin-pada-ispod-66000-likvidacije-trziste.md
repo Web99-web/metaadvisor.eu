@@ -1,0 +1,75 @@
+---
+title: "Bitcoin pada ispod $66,000: $300 milijuna likvidacija briše tržište u satima"
+slug: "bitcoin-pada-ispod-66000-likvidacije-trziste"
+date: 2026-03-27T10:30:00+01:00
+category: "crypto"
+translationKey: "11ec20a52c893f7d209e1b85c5423146"
+author: "Metaadvisor.eu"
+source: "Metaadvisor.eu analiza (CoinDesk, Cointelegraph, tržišni podaci)"
+source_url: ""
+image_url: "/images/bitcoin-btc1.jpg"
+featured_image: "/images/bitcoin-btc1.jpg"
+image: "/images/bitcoin-btc1.jpg"
+thumbnail: "/images/bitcoin-btc1.jpg"
+image_alt: "Pad cijene Bitcoina i likvidacije na tržištu"
+image_credit: "MetaAdvisor.eu"
+tags: ["bitcoin", "btc", "kripto", "likvidacije", "tržište", "etf", "inflacija", "fed", "kamate", "crypto"]
+summary: "Bitcoin je pao ispod $66,000, dosegnuvši oko $65,760 uz više od $300 milijuna likvidacija, dok makro pritisci i ETF odljevi dodatno pojačavaju nestabilnost tržišta."
+---
+
+*Slika je simbolična.*
+
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
+  </a>
+</p>
+
+# Bitcoin pada ispod $66,000: $300 milijuna likvidacija briše tržište u satima
+
+## Nagli pad koji je ubrzao likvidacije
+
+Bitcoin je u kratkom vremenskom razdoblju pao ispod razine od $66,000, dosegnuvši oko $65,760, što predstavlja najnižu cijenu u više od dva tjedna. Ovaj pad dodatno je ubrzao negativni sentiment na tržištu i potvrdio da se radi o ozbiljnijoj korekciji, a ne samo kratkotrajnom kolebanju.
+
+Najveći udar došao je kroz likvidacije leveraged (polugiranih) pozicija, gdje je više od $300 milijuna long pozicija izbrisano u svega nekoliko sati. Long pozicije predstavljaju oklade na rast cijene, a kada tržište krene u suprotnom smjeru, dolazi do lančane reakcije prisilnih zatvaranja koje dodatno ubrzavaju pad i stvaraju tzv. “snowball efekt”.
+
+## Makro pritisak: kamate, nafta i rat
+
+Pad Bitcoina dolazi u trenutku pogoršanja makro uvjeta. Prinos na 10-godišnje američke državne obveznice (10-year U.S. Treasury yield) približio se razini od 4.5%, što je najviša razina u gotovo godinu dana. Ova kamatna stopa ima ključnu ulogu jer utječe na to koliko su rizične investicije poput kripta atraktivne u odnosu na sigurnije opcije.
+
+Istovremeno, cijene nafte ostaju iznad $100 po barelu, što dodatno pojačava strah od inflacije. Napetosti na Bliskom istoku, uključujući situaciju povezanu s Iranom, dodatno pogoršavaju raspoloženje na tržištima. U takvom okruženju investitori se često povlače iz rizične imovine i prelaze u sigurnije oblike ulaganja.
+
+{{< support1 >}}
+
+## ETF izlazi i institucionalni signal
+
+Dodatni signal slabosti dolazi iz institucionalnog segmenta tržišta. Američki Bitcoin ETF-ovi zabilježili su odljeve od $171 milijun u jednom danu, što ukazuje na povećani oprez među većim investitorima. Fondovi poput BlackRocka, Fidelityja i Grayscalea svi su zabilježili značajne odljeve kapitala.
+
+Iako su ukupni tokovi u ožujku još uvijek pozitivni, ovakvi nagli izlazi često djeluju kao katalizator za kratkoročne padove. ETF-ovi su postali ključni most između tradicionalnih financija i kripto tržišta, pa njihovo ponašanje sve više utječe na ukupni sentiment.
+
+## Altcoini pod još jačim pritiskom
+
+Pad Bitcoina povukao je za sobom i altcoine, koji su tradicionalno osjetljiviji na promjene tržišnog raspoloženja. Projekti poput ETHFI, WLD, SEI i FET zabilježili su padove između 3% i 6% u vrlo kratkom vremenu, dodatno naglašavajući širinu tržišne korekcije.
+
+Negativni funding rate-ovi na futures tržištu dodatno potvrđuju bearish sentiment. Funding rate predstavlja periodična plaćanja između long i short pozicija, a kada su negativni, to znači da short pozicije dominiraju tržištem i očekuju daljnji pad.
+
+{{< support2 >}}
+
+## Što slijedi dalje?
+
+Bitcoin je već probio razinu od $66,000, koja se ranije smatrala ključnom zonom likvidnosti. Time je aktiviran novi val prisilnih likvidacija, što povećava volatilnost i rizik dodatnih padova u kratkom roku.
+
+Analize likvidacijskih zona sada pokazuju da se potencijalne sljedeće razine interesa nalaze još niže, što sugerira da tržište možda još nije pronašlo stabilno dno. Istovremeno, povećana volatilnost na tržištu obveznica dodatno potvrđuje širu nesigurnost u financijskom sustavu.
+
+## Naš osvrt (Metaadvisor):
+
+* Pad ispod $66,000 potvrđuje da se ne radi samo o kratkoj korekciji, već o širem tržišnom pritisku
+* Likvidacije od $300M pokazuju koliko leverage i dalje igra veliku ulogu u kriptu
+* ETF odljevi su rani signal opreza među institucionalnim investitorima
+* Makro faktori (kamate, nafta, geopolitika) trenutno imaju jači utjecaj od kripto narativa
+* Kratkoročno tržište ostaje visoko volatilno, s povećanim rizikom daljnjih padova
+
+<p style="font-size:13px; color:#6b7280; margin-top:20px;">
+This content is for informational purposes only and does not constitute financial or investment advice.
+</p>
