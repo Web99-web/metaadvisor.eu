@@ -1,5 +1,5 @@
 ---
-le: "Bitcoin falls below $66,000: $300 million in liquidations wipe out the market within hours"
+title: "Bitcoin falls below $66,000: $300 million in liquidations wipe out the market within hours"
 slug: "bitcoin-falls-below-66000-liquidations-market"
 date: 2026-03-27T10:30:00+01:00
 category: "crypto"
