@@ -56,6 +56,8 @@ For younger generations, the digital world is not an alternative. It is the prim
 
 In such a world, deleting a profile is not a technical act. It is a social rupture. It is isolation. It is social stigma. It can also mean the inability to work.
 
+{{< support1 >}}
+
 ## A Shock That Is Not Just a Metaphor
 
 When someone who has been active for years suddenly loses access, the reaction is not mere disappointment. People describe physical reactions: indescribable sadness, crying, a sense of darkness closing in, tightness in the chest, difficulty breathing, insomnia, disorientation. An inability to think rationally.
@@ -80,6 +82,8 @@ An alias does not make something less real. The history of literature and journa
 Digital identity can represent professional capital, emotional value, and social belonging.
 
 When that identity is erased, the network of relationships is erased as well.
+
+{{< support2 >}}
 
 ## The Emptiness — and the Fear — Felt by Those Who Remain
 
@@ -106,6 +110,8 @@ This creates the perception that the system punishes engagement.
 The paradox becomes even stronger when users simultaneously see that platforms continue to host profiles publishing extremely violent content — recordings of fights, assaults, weapons — while a satirical comment, slang, or critical analysis may be interpreted as a more serious violation.
 
 Without clear and transparent criteria, such disproportionality appears illogical and unjust.
+
+{{< support2 >}}
 
 ## Private Platform — But Public Function
 
