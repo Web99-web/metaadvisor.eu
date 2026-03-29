@@ -1,5 +1,5 @@
 ---
-"Coinbase under pressure: users say prediction markets feel like gambling as legal battle escalates in the US"
+title: "Coinbase under pressure: users say prediction markets feel like gambling as legal battle escalates in the US"
 slug: "coinbase-prediction-markets-gambling-perception-legal-battle"
 date: 2026-03-29T18:30:00+01:00
 category: "ai"
