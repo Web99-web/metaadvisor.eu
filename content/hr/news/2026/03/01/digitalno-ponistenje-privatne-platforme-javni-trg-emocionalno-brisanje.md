@@ -38,6 +38,8 @@ To nije bila hladna rasprava o pravilima korištenja. To je bio šok. I bol. Do�
 
 To nije izolirani slučaj niti osobna percepcija jednog pojedinca. Sve više zajednica primjećuje sličan obrazac. Aktivni korisnici, koji su godinama gradili prisutnost i odnose, nestaju bez jasnog i javnog objašnjenja. A zajednica ostaje bez odgovora.
 
+{{< support1 >}}
+
 ## Digitalni javni trg i post-Covid stvarnost
 
 Prije deset ili petnaest godina online prostor nije imao istu težinu. Društvene mreže bile su dodatak životu. Ako bi netko nestao s foruma ili mreže, postojali su drugi kanali, drugi prostori, druga mjesta susreta. Nije bilo niti toliko online poslova, niti online shopova. 
@@ -66,6 +68,8 @@ Nema prostora da obavijestiš ljude s kojima si godinama komunicirao.
 To djeluje kao digitalna egzekucija.
 
 Za osobu koja je izbrisana, to može značiti gubitak publike, gubitak reputacije, gubitak prihoda i – najteže – gubitak identiteta koji je godinama građen. Osoba preko noći doživi egzistencijalni, fizički i mentalni šok.
+
+{{< support2 >}}
 
 ## Digitalni identitet je stvaran identitet
 
@@ -101,6 +105,8 @@ To stvara osjećaj da sustav kažnjava angažman.
 Paradoks postaje još teži kada korisnici istodobno vide kako na platformama i dalje postoje profili koji objavljuju vrlo nasilne sadržaje – snimke tučnjava, napada, prikaze oružja. Dok se satirični komentar, slang ili kritička analiza mogu protumačiti kao teži prekršaj.
 
 Bez jasnog i transparentnog objašnjenja kriterija, takva disproporcija djeluje nelogično i nepravedno.
+
+{{< support2 >}}
 
 ## Privatna platforma – ali javna funkcija
 
