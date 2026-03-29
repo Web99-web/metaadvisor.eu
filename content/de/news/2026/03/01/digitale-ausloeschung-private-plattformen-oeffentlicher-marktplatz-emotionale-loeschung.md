@@ -56,6 +56,8 @@ Für neue Generationen ist die digitale Welt keine Alternative. Sie ist der prim
 
 In einer solchen Welt ist das Löschen eines Profils keine technische Handlung. Es ist ein sozialer Bruch, eine Isolation, eine gesellschaftliche Stigmatisierung. Es kann auch den Verlust der Arbeitsmöglichkeit bedeuten.
 
+{{< support1 >}}
+
 ## Ein Schock, der keine Metapher ist
 
 Wenn jemandem, der jahrelang aktiv war, plötzlich der Zugang entzogen wird, ist die Reaktion nicht nur Enttäuschung. Menschen berichten von körperlichen Reaktionen: unbeschreibliche Trauer, Weinen, ein Gefühl von Dunkelheit, Enge in der Brust, Atemnot, Schlaflosigkeit, Desorientierung. Die Unfähigkeit, rational zu denken.
@@ -80,6 +82,8 @@ Ein Alias macht etwas nicht weniger real. Die Geschichte der Literatur und des J
 Digitale Identität kann berufliches Kapital, emotionaler Wert und gesellschaftliche Zugehörigkeit sein.
 
 Wenn diese Identität gelöscht wird, wird auch das Beziehungsnetz gelöscht.
+
+{{< support2 >}}
 
 ## Die Leere — und die Angst — derjenigen, die bleiben
 
@@ -106,6 +110,8 @@ Das erzeugt das Gefühl, dass das System Engagement bestraft.
 Das Paradoxe wird noch deutlicher, wenn Nutzer gleichzeitig sehen, dass auf Plattformen weiterhin Profile existieren, die sehr gewalttätige Inhalte veröffentlichen – Aufnahmen von Schlägereien, Angriffen, Waffen. Während ein satirischer Kommentar, Slang oder eine kritische Analyse als schwererer Verstoß gewertet werden kann.
 
 Ohne klare und transparente Kriterien wirkt eine solche Disproportionalität unlogisch und ungerecht.
+
+{{< support2 >}}
 
 ## Private Plattform – aber öffentliche Funktion
 
