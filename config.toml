@@ -1,6 +1,6 @@
 baseURL = "https://metaadvisor.eu/"
 title = "MetaAdvisor.eu"
-paginate = 48
+paginate = 96
 paginatePath = "page"
 enableRobotsTXT = true
 ignoreFiles = ["^content/_inbox/"]  # (1) ne renderiraj _inbox
