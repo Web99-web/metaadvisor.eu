@@ -82,6 +82,8 @@ Ondo Finance ne želi ostati samo izdavatelj tokenizirane imovine. Njihov dugoro
 
 To znači omogućavanje trgovanja, kolaterala, posudbe i upravljanja rizikom — sve unutar jednog on-chain ekosustava. Drugim riječima, cilj nije samo tokenizirati imovinu, već rekonstruirati cijeli financijski sustav.
 
+{{< support2 >}}
+
 ## Zašto cijena ne prati razvoj?
 
 Unatoč svim ovim pomacima, cijena ONDO tokena ne odražava uvijek napredak projekta. Razlog leži u činjenici da tržište često reagira kratkoročno, dok se stvarna vrijednost ovakvih projekata razvija kroz godine.
