@@ -66,6 +66,22 @@ Takva iskustva sve češće se opisuju kao digitalno brisanje. Sustav koji te go
 
 {{< support2 >}}
 
+## Pandemija kao ubrzivač ovisnosti
+
+Važan kontekst koji se često zanemaruje u ovakvim raspravama je razdoblje pandemije COVID-19. Tijekom lockdowna, milijuni ljudi diljem svijeta provodili su znatno više vremena online nego ikada prije. Društvene mreže, video platforme i digitalni alati postali su gotovo jedini način komunikacije, informiranja i održavanja kontakta s drugima.
+
+U tom razdoblju granica između “normalnog korištenja” i prekomjerne ovisnosti dodatno se zamaglila. Ono što je započelo kao nužna prilagodba okolnostima, za mnoge je preraslo u trajnu naviku. Platforme su u tom periodu bilježile rekordne razine angažmana, dok su istovremeno dodatno usavršavale algoritme i mehanizme zadržavanja korisnika.
+
+## Posljedice koje dolaze kasnije
+
+Za korisnike koji su u tim godinama intenzivno koristili platforme, posljedice se nisu uvijek odmah vidjele. No s vremenskim odmakom postaje jasnije da su obrasci ponašanja uspostavljeni u tom razdoblju ostali prisutni i nakon povratka u “normalan” život.
+
+Sve češće se spominju poteškoće s koncentracijom, smanjena pažnja i otežano fokusiranje na učenje, osobito kod djece i mladih koji su u tom razdoblju provodili sate dnevno na digitalnim platformama. Takvi primjeri više nisu iznimka, već iskustvo koje dijele mnoge obitelji, što dodatno pojačava pitanje dugoročnog utjecaja ovakvih sustava.
+
+U kontekstu ove presude, to otvara dodatno pitanje odgovornosti. Ako su platforme u razdoblju povećane ranjivosti korisnika dodatno pojačavale mehanizme zadržavanja i angažmana, može li se njihov utjecaj promatrati odvojeno od šire društvene situacije u kojoj su djelovale?
+
+{{< support2 >}}
+
 ## Ovo je tek početak — više od 1000 tužbi čeka
 
 Ali vratimo se na priču o djevojci koja ih je tužila. Ova presuda nije izoliran slučaj. Naprotiv, riječ je o tzv. testnom procesu unutar mnogo šireg vala tužbi. Više od 1000 sličnih slučajeva već je objedinjeno i čeka svoj red na sudovima. Ako daljnje presude potvrde slične zaključke, tehnološke kompanije mogle bi se suočiti s ozbiljnim financijskim i regulatornim posljedicama.
