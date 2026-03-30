@@ -68,7 +68,7 @@ Takva iskustva sve češće se opisuju kao digitalno brisanje. Sustav koji te go
 
 ## Ovo je tek početak — više od 1000 tužbi čeka
 
-Ova presuda nije izoliran slučaj. Naprotiv, riječ je o tzv. testnom procesu unutar mnogo šireg vala tužbi. Više od 1000 sličnih slučajeva već je objedinjeno i čeka svoj red na sudovima. Ako daljnje presude potvrde slične zaključke, tehnološke kompanije mogle bi se suočiti s ozbiljnim financijskim i regulatornim posljedicama.
+Ali vratimo se na priču o djevojci koja ih je tužila. Ova presuda nije izoliran slučaj. Naprotiv, riječ je o tzv. testnom procesu unutar mnogo šireg vala tužbi. Više od 1000 sličnih slučajeva već je objedinjeno i čeka svoj red na sudovima. Ako daljnje presude potvrde slične zaključke, tehnološke kompanije mogle bi se suočiti s ozbiljnim financijskim i regulatornim posljedicama.
 
 Zbog toga sve više analitičara povlači paralelu s tužbama protiv duhanske industrije. I tada su pojedinačni slučajevi u početku djelovali ograničeno, no s vremenom su doveli do velikih promjena, novih pravila i višemilijardnih odšteta. Današnja situacija u tehnološkom sektoru pokazuje slične obrasce.
 
