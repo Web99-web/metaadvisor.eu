@@ -128,13 +128,20 @@ if (!consent || consent === 'denied') {
   };
 
   // ✅ Consent ONLY unlocks storage — does NOT start GA again
-  function allowAnalytics() {
-    if (typeof gtag !== 'function') return;
+function allowAnalytics() {
+  if (typeof gtag !== 'function') return;
 
-    gtag('consent', 'update', {
-      analytics_storage: 'granted'
-    });
-  }
+  gtag('consent', 'update', {
+    analytics_storage: 'granted'
+  });
+
+  // 🔥 OVO DODAJ
+  gtag('event', 'page_view', {
+    page_location: window.location.href,
+    page_path: window.location.pathname,
+    page_title: document.title
+  });
+}
 
 })();
 </script>
