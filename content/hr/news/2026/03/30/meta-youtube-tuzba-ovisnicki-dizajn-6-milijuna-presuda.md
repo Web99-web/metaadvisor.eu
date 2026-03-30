@@ -5,7 +5,7 @@ date: 2026-03-30T18:30:00+01:00
 category: "tech"
 translationKey: "meta_youtube_addiction_case_6m_20260330"
 author: "Metaadvisor.eu"
-source: "Metaadvisor.eu analiza (Reuters, NPR, Guardian, sudski dokumenti)"
+source: "Metaadvisor.eu analiza (Reuters, NPR, Guardian, Yahoo Finance, Courthouse News)"
 source_url: ""
 image_url: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
 featured_image: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
