@@ -108,9 +108,9 @@
   const consent = localStorage.getItem('ma_consent');
   const banner = document.getElementById('ma-consent');
 
-  if (!consent) {
-    banner.style.display = 'block';
-  }
+if (!consent || consent === 'denied') {
+  banner.style.display = 'block';
+}
 
   if (consent === 'granted') {
     allowAnalytics();
