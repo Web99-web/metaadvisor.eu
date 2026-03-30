@@ -56,7 +56,7 @@ A onda se događa preokret. Ako isti ti administratori pokušaju promovirati vla
 
 Paradoks je očit: ono što je jučer bilo poticano kao angažman, danas može biti kažnjeno kao zlouporaba. I to unutar sustava koji je upravo takvo ponašanje godinama gradio i nagrađivao.
 
-## Jedan klik — i sve nestaje - platvorma ih briše - zauvijek
+## Jedan klik — i sve nestaje - platforma ih briše - zauvijek
 
 U praksi to znači da korisnici koji su godinama gradili svoju prisutnost na platformi mogu u jednom trenutku ostati bez svega. Profili se uklanjaju, stranice nestaju, a grupe koje su korisnici godinama razvijali prestaju funkcionirati. Istovremeno, Meta u nekim slučajevima bez jasnog objašnjenja automatski deaktivira cijeli korisnički račun — FAcebook zajedno s Messengerom i Instagramom — čime nestaju i kontakti, komunikacija te poslovni odnosi koji su se godinama gradili unutar tog sustava.
 
