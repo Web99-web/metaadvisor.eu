@@ -58,7 +58,7 @@ Paradoks je očit: ono što je jučer bilo poticano kao angažman, danas može b
 
 ## Jedan klik — i sve nestaje - platforma ih briše - zauvijek
 
-U praksi to znači da korisnici koji su godinama gradili svoju prisutnost na platformi mogu u jednom trenutku ostati bez svega. Profili se uklanjaju, stranice nestaju, a grupe koje su korisnici godinama razvijali prestaju funkcionirati. Istovremeno, Meta u nekim slučajevima bez jasnog objašnjenja automatski deaktivira cijeli korisnički račun — FAcebook zajedno s Messengerom i Instagramom — čime nestaju i kontakti, komunikacija te poslovni odnosi koji su se godinama gradili unutar tog sustava.
+U praksi to znači da korisnici koji su godinama gradili svoju prisutnost na platformi mogu u jednom trenutku ostati bez svega. Profili se uklanjaju, stranice nestaju, a grupe koje su korisnici godinama razvijali prestaju funkcionirati. Istovremeno, Meta u nekim slučajevima bez jasnog objašnjenja automatski deaktivira cijeli korisnički račun — Facebook zajedno s Messengerom i Instagramom — čime nestaju i kontakti, komunikacija te poslovni odnosi koji su se godinama gradili unutar tog sustava.
 
 Problem dodatno pogoršava činjenica da mnogi korisnici nemaju sigurnosne kopije kontakata. U praksi to znači da su neke veze postojale isključivo unutar Meta ekosustava, bez razmijenjenih privatnih podataka izvan platforme. Kada račun nestane, nestaje i mogućnost ponovnog kontakta. U mnogim slučajevima ne postoji jasno objašnjenje, niti stvarna mogućnost žalbe ili komunikacije s odgovornom osobom.
 
