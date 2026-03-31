@@ -1,5 +1,4 @@
 ---
-
 title: "Nach dem Zusammenbruch der Kryptobörse FTX im Jahr 2022 erhalten Gläubiger am 31. März 2,2 Milliarden Dollar — werden sie in Krypto zurückkehren?"
 slug: "nach-ftx-bankrott-2022-glaeubiger-erhalten-2-2-milliarden-dollar-31-maerz-kehren-sie-in-krypto-zurueck"
 date: 2026-03-20T08:30:00+01:00
@@ -17,7 +16,7 @@ image_credit: "MetaAdvisor.eu"
 tags: ["ftx", "bankrott", "krypto", "bitcoin", "auszahlungen", "rueckerstattung", "sam bankman fried", "crypto", "analyse", "markt", "investoren"]
 summary: "FTX startet eine neue Auszahlungsrunde in Höhe von 2,2 Milliarden Dollar, und einige Nutzer erhalten angeblich bis zu 100% Rückerstattung. Wie ist das nach einem der größten Krypto-Zusammenbrüche möglich?"
 symbolic_image: true
---------------------
+---
 
 *Das Bild ist symbolisch.*
 
