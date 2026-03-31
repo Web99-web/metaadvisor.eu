@@ -68,7 +68,7 @@ The Anthropic AI leak is not just a technical story — it signals a structural 
 
 The key question is no longer whether AI can help, but whether it can be trusted in critical systems.
 
-## Naš osvrt (Metaadvisor):
+## Our view (MetaAdvisor):
 
 * AI errors and hallucinations are becoming a central issue, not a minor detail
 * The combination of power and unpredictability creates real risk
