@@ -68,7 +68,7 @@ Razlika je u tome što sada posljedice postaju vidljive — i to u velikim brojk
 
 Za mnoge, ovo je prvi susret s tom realnošću. Za druge, ona već traje.
 
-# Ovo je NewTech-AI svijet — isključe te jednim klikom
+## Ovo je NewTech-AI svijet — isključe te jednim klikom
 
 Za neke, ovo je samo još jedna vijest iz tehnološkog svijeta. No za one koji su već osjetili kako izgleda kada sustav u jednom trenutku “isključi” njihov profil, posao ili pristup, ovo nije apstraktna priča. Ovo je stvarnost u kojoj jedan klik može izbrisati godine rada, kontakte, prihode i planove, bez upozorenja i bez stvarne mogućnosti žalbe.
 
