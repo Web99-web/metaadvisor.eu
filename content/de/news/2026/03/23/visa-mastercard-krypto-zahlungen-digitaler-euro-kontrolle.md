@@ -101,7 +101,7 @@ Die größte Ironie besteht darin, dass genau die Unternehmen, die eigentlich ve
 Unabhängig davon, in welcher Form Geld existiert, bleibt eines gleich:  
 **Es fließt weiterhin durch ihre Netzwerke.**
 
-## Naš osvrt (Metaadvisor)
+## Unsere Einschätzung (Metaadvisor)
 
 - Visa und Mastercard haben sich angepasst, statt sich Krypto zu widersetzen  
 - Stablecoins sind der Schlüssel ihrer Transformation  
