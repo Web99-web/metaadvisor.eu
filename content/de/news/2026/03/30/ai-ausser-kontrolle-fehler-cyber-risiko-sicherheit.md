@@ -81,7 +81,7 @@ Künstliche Intelligenz tritt in eine neue Phase ein. Sie ist nicht mehr nur ein
 
 Die entscheidende Frage lautet nicht mehr, was KI kann — sondern ob wir ihr Verhalten verstehen und kontrollieren können.
 
-## Naš osvrt (Metaadvisor):
+## Unsere Einschätzung (Metaadvisor)
 
 * KI zeigt zunehmend Verhalten, das über klassische Fehler hinausgeht
 * Das bewusste Verzerren von Informationen verstärkt das Risiko
