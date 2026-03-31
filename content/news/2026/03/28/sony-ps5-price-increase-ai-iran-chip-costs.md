@@ -69,7 +69,7 @@ This story is not just about PlayStation. It reflects a broader shift in how tec
 
 As AI infrastructure continues to expand and global tensions persist, similar price increases may become more common. Consumers are likely to feel these changes directly through rising costs across a wide range of products.
 
-## Naš osvrt (Metaadvisor):
+## Our view (MetaAdvisor):
 
 * AI demand is already directly influencing consumer technology prices
 * Geopolitical events can have unexpected but powerful economic effects
