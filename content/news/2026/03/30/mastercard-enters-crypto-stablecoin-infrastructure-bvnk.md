@@ -76,7 +76,7 @@ With this acquisition, Mastercard is not just buying a company — it is buying 
 
 In a world where financial systems are being redefined, control over infrastructure may matter more than the products built on top of it.
 
-## Naš osvrt (Metaadvisor):
+## Our view (MetaAdvisor):
 
 * Mastercard is signaling a clear shift toward crypto infrastructure
 * Stablecoins are becoming a core component of global payments
