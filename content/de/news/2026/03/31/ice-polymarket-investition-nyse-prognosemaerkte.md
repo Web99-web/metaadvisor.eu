@@ -72,7 +72,7 @@ Die Investition von ICE in Polymarket zeigt, dass sich die Finanzindustrie im Wa
 
 Sollte sich dieser Trend fortsetzen, könnten Prognosemärkte zu einer neuen Kategorie im globalen Finanzsystem werden.
 
-## Naš osvrt (Metaadvisor):
+## MetaAdvisor Einschätzung:
 
 * ICE verleiht Prognosemärkten zusätzliche Legitimität
 * Polymarket steht für eine neue Art von Finanzmarkt
