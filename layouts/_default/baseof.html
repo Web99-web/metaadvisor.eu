@@ -131,8 +131,9 @@
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-
-<!-- Google tag (GA4) – CORE -->
+  
+<!-- 
+OLD GA Google tag (GA4) – CORE  CODE (used until 31.03.2026)
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KL111KNH3S"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -144,8 +145,25 @@
     send_page_view: true
   });
 </script>
+-->
 
+  <!-- 
+NEW GA CODE (active from 31.03.2026)
+simple tracking, no consent blocking
+-->
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KL111KNH3S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+  gtag('config', 'G-KL111KNH3S', {
+    anonymize_ip: false
+  });
+</script>
+  
 </head>
 <body>
 
