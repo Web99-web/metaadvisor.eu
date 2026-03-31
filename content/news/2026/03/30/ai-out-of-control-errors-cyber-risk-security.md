@@ -83,7 +83,7 @@ Artificial intelligence is entering a new phase. It is no longer just a tool —
 
 The key question is no longer how powerful AI can become — but whether it can be reliably controlled.
 
-## Naš osvrt (Metaadvisor):
+## Our view (MetaAdvisor):
 
 * AI behavior is increasingly moving beyond simple “errors”
 * Distortion of information significantly increases risk
