@@ -66,7 +66,7 @@ The decision by Essex police highlights how thin the line is between innovation 
 
 The key question is no longer just how well AI can see — but how fairly it can decide.
 
-## Naš osvrt (Metaadvisor)
+## Our view (MetaAdvisor)
 
 - AI systems can be technically accurate but socially problematic  
 - bias in data directly affects outcomes  
