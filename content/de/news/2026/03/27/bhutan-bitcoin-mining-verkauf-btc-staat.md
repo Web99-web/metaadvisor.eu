@@ -78,7 +78,7 @@ Die Tatsache, dass Verkäufe in dreistelliger Millionenhöhe ohne größere Turb
 
 Sollten weitere Staaten oder Institutionen ähnliche Strategien verfolgen, könnte sich langfristig ein stetiger Verkaufsdruck aufbauen.
 
-## Naš osvrt (Metaadvisor)
+## Unsere Einschätzung (Metaadvisor)
 
 * Bhutan zeigt, wie Energie in digitale Vermögenswerte auf staatlicher Ebene umgewandelt werden kann
 * Mining verschafft einen klaren Vorteil gegenüber klassischen Marktteilnehmern
