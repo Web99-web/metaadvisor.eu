@@ -68,7 +68,7 @@ Dieser Fall zeigt deutlich, wie sehr sich die Kryptoindustrie verändert hat. W�
 
 Mit dem Eintritt institutioneller Investoren und wachsendem Kapital werden solche Auseinandersetzungen nahezu unvermeidlich. Die Frage ist nicht mehr, ob sie auftreten, sondern wie häufig und wie weitreichend sie werden.
 
-## Naš osvrt (Metaadvisor):
+## Unsere Einschätzung (Metaadvisor)
 
 * Dieser Fall zeigt, dass das größte Risiko für Unternehmen oft von innen kommt und nicht von außen
 * Sollte sich der Datendiebstahl bestätigen, wäre dies ein ernsthafter Präzedenzfall für die Kryptoindustrie
