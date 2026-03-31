@@ -70,7 +70,7 @@ Der Einstieg großer Banken wie Morgan Stanley zeigt, dass Bitcoin zunehmend im 
 
 Sollte sich dieser Trend fortsetzen, könnten weitere Gebührensenkungen und eine stärkere Integration von Kryptowährungen in klassische Anlagestrategien folgen.
 
-## Naš osvrt (Metaadvisor):
+## Unsere Einschätzung (Metaadvisor)
 
 * Der Einstieg einer großen Bank stärkt die Legitimität von Bitcoin als Anlageklasse
 * Gebühren werden zum zentralen Wettbewerbsfaktor
