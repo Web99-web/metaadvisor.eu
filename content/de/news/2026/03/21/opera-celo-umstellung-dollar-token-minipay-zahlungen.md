@@ -61,7 +61,7 @@ Die Zusammenarbeit zwischen Opera und Celo zeigt, wie sich die Grenzen zwischen 
 
 Ob sich solche Modelle auch in Europa durchsetzen werden, bleibt offen. Klar ist jedoch, dass sich die globale Finanzlandschaft bereits verändert.
 
-## Naš osvrt (Metaadvisor)
+## Unsere Einschätzung (Metaadvisor)
 
 - Opera positioniert sich zunehmend als Fintech-Plattform und nicht nur als Browser  
 - Der Wechsel zu Tokens zeigt ein starkes Vertrauen in das Celo-Ökosystem  
