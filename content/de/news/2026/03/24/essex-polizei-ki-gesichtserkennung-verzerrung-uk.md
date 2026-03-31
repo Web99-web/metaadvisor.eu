@@ -66,7 +66,7 @@ Die Entscheidung der Polizei in Essex zeigt, wie schmal der Grat zwischen Innova
 
 Die entscheidende Frage ist nicht mehr nur, wie gut KI sehen kann — sondern wie fair sie Entscheidungen trifft.
 
-## Naš osvrt (Metaadvisor)
+## Unsere Einschätzung (Metaadvisor)
 
 - KI-Systeme können technisch präzise, aber gesellschaftlich problematisch sein  
 - Verzerrungen in Daten wirken sich direkt auf Ergebnisse aus  
