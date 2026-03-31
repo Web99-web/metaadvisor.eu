@@ -75,7 +75,7 @@ Die wichtigste Regel ist einfach: Wenn du nicht selbst auf eine offizielle Seite
 
 Zusätzlich wird empfohlen, separate Wallets für Tests oder neue Projekte zu verwenden, um das Risiko von Verlusten zu minimieren.
 
-## Naš osvrt (Metaadvisor)
+## Unsere Einschätzung (Metaadvisor)
 
 - Dieser Betrug zeigt, wie sich Angriffe auf vermeintlich „sichere“ Plattformen wie GitHub verlagern  
 - Airdrops entwickeln sich zu einem der wichtigsten Werkzeuge für Manipulation im Kryptobereich  
