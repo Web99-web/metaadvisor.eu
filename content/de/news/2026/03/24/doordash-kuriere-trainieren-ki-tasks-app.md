@@ -82,7 +82,7 @@ DoorDash ist längst nicht mehr nur eine Lieferplattform. Es wird zur Infrastruk
 
 Die größte Ironie: Menschen, die eines Tages durch KI ersetzt werden könnten, helfen heute aktiv dabei, sie zu entwickeln.
 
-## Naš osvrt (Metaadvisor)
+## Unsere Einschätzung (Metaadvisor)
 
 - DoorDash verwandelt Kuriere in KI-Arbeiter  
 - KI wird zunehmend durch reale Menschen und Situationen trainiert  
