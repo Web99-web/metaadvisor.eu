@@ -62,7 +62,7 @@ This case clearly illustrates that “protection” in the crypto industry does 
 
 For many investors, the distinction between retail and professional status may seem abstract, but in practice it can be decisive. It determines how much a platform must explain risks and how much protection a user receives when engaging with complex financial instruments.
 
-## Naš osvrt (Metaadvisor):
+## Our view (MetaAdvisor):
 
 * This case shows how administrative decisions can lead to real financial consequences
 * Misclassification resulted in the loss of safeguards and exposure to high-risk products
