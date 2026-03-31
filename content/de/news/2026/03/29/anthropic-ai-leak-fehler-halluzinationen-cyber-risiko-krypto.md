@@ -68,7 +68,7 @@ Der Anthropic AI Leak ist mehr als nur ein technisches Ereignis — er signalisi
 
 Die entscheidende Frage lautet nicht mehr, ob KI nützlich ist, sondern wie zuverlässig und sicher sie in kritischen Systemen eingesetzt werden kann.
 
-## Naš osvrt (Metaadvisor):
+## Unsere Einschätzung (Metaadvisor)
 
 * KI-Fehler und Halluzinationen werden zu einem zentralen Problem
 * Die Kombination aus Leistung und Unvorhersehbarkeit erhöht das Risiko
