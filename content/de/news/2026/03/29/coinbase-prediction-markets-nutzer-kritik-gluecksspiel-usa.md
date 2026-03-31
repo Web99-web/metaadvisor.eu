@@ -74,7 +74,7 @@ Coinbase befindet sich an einem kritischen Punkt. Einerseits versucht das Untern
 
 Der Ausgang des Rechtsstreits sowie die Reaktion der Nutzer könnten entscheidend dafür sein, wie sich dieser Marktbereich in Zukunft entwickelt.
 
-## Naš osvrt (Metaadvisor):
+## Unsere Einschätzung (Metaadvisor)
 
 * Aggressive Glücksspiel-Promotion kann das Vertrauen der Nutzer beschädigen
 * Prediction Markets bewegen sich an der Grenze zwischen Finanzprodukt und Glücksspiel
