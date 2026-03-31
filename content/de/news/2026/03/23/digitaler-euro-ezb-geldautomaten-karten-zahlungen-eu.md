@@ -83,7 +83,7 @@ Der digitale Euro tritt in eine Phase ein, in der er nicht mehr nur Theorie ist,
 
 Die entscheidende Frage ist nicht mehr, ob der digitale Euro kommen wird, sondern wie schnell er Teil des täglichen Lebens wird.
 
-## Naš osvrt (Metaadvisor)
+## Unsere Einschätzung (Metaadvisor)
 
 - Die EZB ist von der Theorie in die Phase der konkreten Umsetzung übergegangen  
 - Der digitale Euro zielt auf den Alltag in der gesamten Eurozone ab  
