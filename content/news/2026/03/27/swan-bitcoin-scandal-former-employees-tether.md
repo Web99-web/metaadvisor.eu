@@ -68,7 +68,7 @@ This case highlights how much the crypto industry has evolved. What was once pri
 
 As institutional players and larger capital flows enter the space, conflicts like this are becoming inevitable. The question is no longer whether they will happen, but how often — and how far they will go.
 
-## Naš osvrt (Metaadvisor):
+## Our view (MetaAdvisor):
 
 * This case shows that the biggest risks for companies often come from within, not from external threats
 * If data theft is confirmed, it could set a serious precedent for the crypto industry
