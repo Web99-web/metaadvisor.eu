@@ -74,7 +74,7 @@ Coinbase finds itself at a crossroads. On one side is expansion and diversificat
 
 The outcome of the legal battle and ongoing user sentiment may ultimately shape not only Coinbase’s future, but also the trajectory of prediction markets within the crypto ecosystem.
 
-## Naš osvrt (Metaadvisor):
+## Our view (MetaAdvisor):
 
 * Aggressive promotion of betting-like features may damage user trust
 * Prediction markets sit on the edge between finance and gambling
