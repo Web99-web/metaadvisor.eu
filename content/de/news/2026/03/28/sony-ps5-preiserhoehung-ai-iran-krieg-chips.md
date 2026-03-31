@@ -69,7 +69,7 @@ Diese Geschichte handelt nicht nur von PlayStation, sondern von einem grundlegen
 
 Mit dem weiteren Ausbau der KI-Infrastruktur und anhaltenden geopolitischen Spannungen könnten solche Preiserhöhungen künftig häufiger auftreten. Verbraucher werden diese Veränderungen zunehmend direkt über steigende Preise spüren.
 
-## Naš osvrt (Metaadvisor):
+## Unsere Einschätzung (Metaadvisor)
 
 * Der KI-Wettlauf wirkt sich bereits direkt auf die Preise von Konsumtechnologie aus
 * Geopolitische Ereignisse können unerwartete, aber starke Auswirkungen haben
