@@ -62,7 +62,7 @@ Bitcoin has already broken below the $66,000 level, previously considered a key 
 
 Liquidation heatmaps now suggest that significant liquidity clusters lie even lower, indicating that the market may not have found a stable bottom yet. At the same time, rising volatility in the bond market reflects broader uncertainty across the financial system.
 
-## Naš osvrt (Metaadvisor):
+## Our view (MetaAdvisor):
 
 * The break below $66,000 confirms this is more than a simple correction — broader pressure is building
 * $300M in liquidations highlights how sensitive the market remains to leverage
