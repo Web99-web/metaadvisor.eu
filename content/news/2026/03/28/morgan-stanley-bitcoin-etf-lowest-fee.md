@@ -70,7 +70,7 @@ The entry of major banks like Morgan Stanley highlights how Bitcoin is becoming 
 
 If the trend continues, further fee reductions and deeper integration of crypto into standard investment strategies are likely.
 
-## Naš osvrt (Metaadvisor):
+## Our view (MetaAdvisor):
 
 * Entry of a major bank further legitimizes Bitcoin as an asset class
 * Fees are becoming the key competitive factor
