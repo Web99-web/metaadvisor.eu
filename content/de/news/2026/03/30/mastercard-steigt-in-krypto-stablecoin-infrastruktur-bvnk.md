@@ -76,7 +76,7 @@ Mit dieser Übernahme sichert sich Mastercard nicht nur eine Position im Markt, 
 
 In einer Welt, in der sich Finanzsysteme neu definieren, könnte die Kontrolle über die Infrastruktur entscheidender sein als das Produkt selbst.
 
-## Naš osvrt (Metaadvisor):
+## Unsere Einschätzung (Metaadvisor)
 
 * Mastercard setzt ein klares Signal in Richtung Krypto-Infrastruktur
 * Stablecoins entwickeln sich zu einem zentralen Bestandteil globaler Zahlungen
