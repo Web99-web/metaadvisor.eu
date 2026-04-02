@@ -46,7 +46,7 @@ Formalno, **korisnici imaju do 180 dana za žalbu i pokušaj povrata računa**. 
 
 U Europskoj uniji postoji regulatorni okvir kroz **Digital Services Act** koji bi trebao omogućiti dodatnu zaštitu i žalbene mehanizme. Međutim, iako ti alati postoje, procesi su spori, često nejasni i za prosječnog korisnika teško dostupni.
 
-## Najveća greška: ovisnost o jednoj platformi
+## Najveća greška: ovisnost o jednoj platformi bez vlastite web stranice
 
 Problem postaje još ozbiljniji kada se uzme u obzir kako su mnogi korisnici u potpunosti napustili vlastite web stranice. Društvene mreže postale su primarni — a često i jedini — alat za poslovanje, promociju i komunikaciju. Ljude rade najveću grešku kada nemaju svoje web stranice, već se oslanjaju samo na društvene mreže i njihove 'pages' za poslovanje.
 
