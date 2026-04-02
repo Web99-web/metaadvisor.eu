@@ -42,15 +42,15 @@ Izvana, takve situacije gotovo su nevidljive. Ljudi jednostavno pretpostave da j
 
 ## 180 dana na papiru, tjedni bez odgovora u stvarnosti
 
-Formalno, korisnici imaju do 180 dana za žalbu i pokušaj povrata računa. No u praksi, mnogi već više od šest tjedana ne uspijevaju doći do stvarnog ljudskog supporta. Komunikacija se svodi na automatizirane forme i generičke odgovore, dok konkretno rješenje izostaje.
+Formalno, **korisnici imaju do 180 dana za žalbu i pokušaj povrata računa**. No u praksi, mnogi već više od šest tjedana ne uspijevaju doći do stvarnog ljudskog supporta. Komunikacije nema, komunikacija se svodi na automatizirane forme i generičke odgovore sa web stranica, dok konkretno rješenje izostaje.
 
-U Europskoj uniji postoji regulatorni okvir kroz Digital Services Act koji bi trebao omogućiti dodatnu zaštitu i žalbene mehanizme. Međutim, iako ti alati postoje, procesi su spori, često nejasni i za prosječnog korisnika teško dostupni.
+U Europskoj uniji postoji regulatorni okvir kroz **Digital Services Act** koji bi trebao omogućiti dodatnu zaštitu i žalbene mehanizme. Međutim, iako ti alati postoje, procesi su spori, često nejasni i za prosječnog korisnika teško dostupni.
 
 ## Najveća greška: ovisnost o jednoj platformi
 
-Problem postaje još ozbiljniji kada se uzme u obzir kako su mnogi korisnici u potpunosti napustili vlastite web stranice. Društvene mreže postale su primarni — a često i jedini — alat za poslovanje, promociju i komunikaciju.
+Problem postaje još ozbiljniji kada se uzme u obzir kako su mnogi korisnici u potpunosti napustili vlastite web stranice. Društvene mreže postale su primarni — a često i jedini — alat za poslovanje, promociju i komunikaciju. Ljude rade najveću grešku kada nemaju svoje web stranice, već se oslanjaju samo na društvene mreže i njihove 'pages' za poslovanje.
 
-Dok sve radi, to izgleda kao idealno rješenje. No u trenutku bana, sve nestaje istovremeno. Kontakti, poruke, sadržaj, vidljivost — i često prihod. Ono što je izgledalo kao stabilan biznis pokazuje se kao nešto što korisnik nikada nije u potpunosti kontrolirao.
+Dok sve radi, to izgleda kao idealno rješenje. No u trenutku bana tj. apsolutne zabrane, i trenutnog isključenja, sve nestaje istovremeno. Kontakti, poruke, sadržaj, vidljivost — i često prihod. Ono što je izgledalo kao stabilan biznis pokazuje se kao nešto što korisnik nikada nije u potpunosti kontrolirao.
 
 {{< support2 >}}
 
@@ -59,6 +59,37 @@ Dok sve radi, to izgleda kao idealno rješenje. No u trenutku bana, sve nestaje 
 Ban s društvenih mreža danas više nije izolirani incident. Postaje dio šire promjene u načinu na koji digitalni sustavi funkcioniraju. Dok se javna rasprava fokusira na AI i radna mjesta, paralelno se događa nešto drugo — sustavi već odlučuju tko ostaje vidljiv, a tko nestaje.
 
 Razlika je u tome što se ti slučajevi ne vide javno. Ljudi jednostavno nestanu iz digitalnog prostora — bez buke, bez objašnjenja i bez mogućnosti da ispričaju svoju stranu priče.
+
+
+## Kako se žaliti u EU: Digital Services Act i Appeal Centre
+
+Ako vam društvena mreža ukloni račun, važno je znati da u EU **niste ograničeni samo na interni appeal platforme**.
+
+Kroz **Digital Services Act (DSA)** imate pravo na dodatne žalbene mehanizme — uključujući i **neovisna tijela izvan same platforme**.
+
+👉 Jedna od ključnih opcija je:
+**Appeals Centre Europe**
+https://www.appealscentre.eu/
+
+Radi se o platformi putem koje korisnici mogu pokrenuti žalbu na odluke velikih online servisa, uključujući društvene mreže, kada interni appeal ne daje rezultat.
+
+---
+
+👉 **EU “out-of-court dispute settlement” (izvan-sudsko rješavanje sporova)**
+
+Ovo su **neovisna tijela** koja mogu pregledati odluku platforme i dati procjenu izvan samog sustava:
+
+* Digital Services Act (osnovne informacije):
+  https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package
+
+* Izvan-sudsko rješavanje sporova (DSA):
+  https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement
+
+---
+
+**Važno:**
+Iako ovi mehanizmi postoje, u praksi proces može trajati tjednima, a korisnici često i dalje nemaju direktan kontakt s platformom. Upravo taj jaz između regulatornih mogućnosti i stvarnog iskustva korisnika ostaje jedan od ključnih problema današnjeg digitalnog okruženja.
+
 
 ## Zaključak
 
