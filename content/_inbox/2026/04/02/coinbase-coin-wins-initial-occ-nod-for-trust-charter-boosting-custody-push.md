@@ -17,12 +17,10 @@ Coinbase (COIN) said Thursday it had received initial approval for a national tr
 
 The approval is not final. It is a conditional green light that sets out requirements Coinbase must meet before it can receive a full charter. These typically include building out compliance systems, hiring key personnel and undergoing regulatory reviews. The OCC also expects firms to show they can manage risk, protect client assets and follow anti-money laundering rules. Only after those steps are complete can the agency grant full approval.
 
+“We still need final approval… our business will not operate under an OCC charter until we have that final approval,” Paul Grewal, chief legal officer at Coinbase told CoinDesk. "This next phase allows us to get into more detail on how we can extend our business in ways that are exciting and important for crypto’s development.”
+
 If finalized, the charter would allow Coinbase to run a non-insured national trust company. That structure permits the firm to hold digital assets on behalf of clients but bars it from taking deposits or making loans.
 
 Coinbase first applied for the charter in October, alongside firms such as Ripple. More recently, Citadel-backed exchange EDX Markets said it had filed for a similar structure. The cluster of applications points to growing demand for regulated custody as large investors enter crypto markets.
 
-For institutions, custody is less about trading and more about trust. A pension fund, for example, may want exposure to bitcoin but needs a regulated entity to hold the asset securely. A federal charter can provide that assurance in a way state licenses may not.
-
-The move aligns with Coinbase’s effort to rely less on trading fees, which can swing with market cycles. Custody offers steadier revenue. The company already acts as custodian for several U.S. spot bitcoin exchange-traded funds, holding the underlying assets on behalf of fund managers.
-
-Coinbase did not immediately
+For institutions, custody is less about trading and more about trust. A pension fund, for example, may want exposure to bitcoin but needs a regulated entity to hold the asset securely. A federal charter can provide that assurance in a way state
