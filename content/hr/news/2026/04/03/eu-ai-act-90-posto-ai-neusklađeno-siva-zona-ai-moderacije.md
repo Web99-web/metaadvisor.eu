@@ -57,14 +57,13 @@ Jedan od ključnih dijelova EU AI Acta jasno definira:
 
 Drugim riječima — zakon prati učinak, a ne lokaciju firme.
 
-{{< support2 >}}
-
 ## AI u zapošljavanju: odluke bez objašnjenja
 
 Jedno od područja gdje je problem najvidljiviji je zapošljavanje. AI sustavi sve češće filtriraju životopise, rangiraju kandidate i odlučuju tko će uopće dobiti priliku za razgovor. Takve odluke izravno utječu na živote ljudi, a često dolaze bez jasnog objašnjenja, bez mogućnosti provjere i bez ljudske intervencije.
 
 Upravo zato EU AI Act takve sustave svrstava među visokorizične. Uz zapošljavanje, zakon posebno cilja i područja poput kreditiranja i zdravstva — sektore u kojima AI može imati izravan i mjerljiv utjecaj na život pojedinca. U tim slučajevima zahtijeva se jasna dokumentacija, logovi i mogućnost objašnjenja odluka.
 
+{{< support2 >}}
 ---
 
 ## Ali što se događa izvan tih sektora?
@@ -83,6 +82,7 @@ Platforme poput Meta Platforms, kroz Facebook, Instagram i Messenger, sve više 
 
 Poseban problem nastaje nakon takve odluke. Jednom kada je korisnik izbačen iz sustava, često više nema nikakav direktan kontakt s ljudskom podrškom. Pokušaji rješavanja problema ostaju unutar automatiziranih sustava, korisnik samo vidi unaprijed generirane odgovore. Dok pravih odgovora nema, jer jednom izbačen korisnik, više ne može doći do ljudske podrške. Čak niti upiti poslani službenim EU kanalima kroz **https://www.appealscentre.eu/**  — kasne tjednima, ako uopće dođu.
 
+{{< support2 >}}
 ---
 
 ## Samo 180 dana za povratak računa — ili totalni gubitak digitalnog identiteta
