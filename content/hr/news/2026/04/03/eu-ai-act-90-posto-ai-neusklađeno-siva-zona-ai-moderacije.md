@@ -51,9 +51,9 @@ Upravo tu se otvara ključno pitanje: **hoće li se regulacija fokusirati na man
 
 Jedan od ključnih dijelova EU AI Acta jasno definira:
 
-> “Ova Uredba primjenjuje se na pružatelje koji stavljaju na tržište ili puštaju u uporabu AI sustave… bez obzira na to jesu li ti pružatelji osnovani ili se nalaze unutar Unije ili u trećoj zemlji.”
+> **“Ova Uredba primjenjuje se na pružatelje koji stavljaju na tržište ili puštaju u uporabu AI sustave… bez obzira na to jesu li ti pružatelji osnovani ili se nalaze unutar Unije ili u trećoj zemlji.”**
 
-> “Ova Uredba također se primjenjuje na… pružatelje ili korisnike koji se nalaze u trećoj zemlji, ako se rezultat sustava koristi unutar Unije.”
+> **“Ova Uredba također se primjenjuje na… pružatelje ili korisnike koji se nalaze u trećoj zemlji, ako se rezultat sustava koristi unutar Unije.”**
 
 Drugim riječima — zakon prati učinak, a ne lokaciju firme.
 
@@ -77,19 +77,19 @@ AI se danas koristi u sustavima koji ne odlučuju formalno o karijeri ili kredit
 
 ## AI moderacija: problem koji raste, ali nema jasna pravila - je li u sivoj zoni
 
-Od 2025. i 2026. godine sve je više slučajeva u kojima korisnici diljem svijeta prijavljuju probleme s AI moderacijom. Problem se odnosi i na stare korisničke račune stare 15–20 godina, s tisućama ili desecima tisuća objava i interakcija. Sustavi sve češće pogrešno označavaju sadržaj (“false positives”), a zatim bez prethodnog upozorenja uklanjaju objave ili potpuno gase korisničke račune.
+**Od 2025. i 2026. godine sve je više slučajeva u kojima korisnici diljem svijeta prijavljuju probleme s AI moderacijom.** Problem se odnosi i na stare korisničke račune stare 15–20 godina, s tisućama ili desecima tisuća objava i interakcija. Sustavi sve češće pogrešno označavaju sadržaj (“false positives”), a zatim bez prethodnog upozorenja uklanjaju objave ili potpuno gase korisničke račune.
 
-Platforme poput Meta Platforms, kroz Facebook, Instagram i Messenger, sve više koriste automatizirane sustave koji donose odluke bez ljudske provjere. U praksi to znači da korisnik može izgubiti pristup računu bez upozorenja i bez objašnjenja.
+Platforme poput Meta Platforms, kroz Facebook, Instagram i Messenger, sve više koriste automatizirane sustave koji donose odluke bez ljudske provjere. U praksi to znači da korisnik može jednim klikom, izgubiti pristup svim računima odjednom (Facebook, Instagram i Messenger) i to bez upozorenja i bez objašnjenja.
 
-Poseban problem nastaje nakon takve odluke. Jednom kada je korisnik izbačen iz sustava, često više nema nikakav direktan kontakt s ljudskom podrškom. Pokušaji rješavanja problema ostaju unutar automatiziranih sustava, dok odgovori — ako uopće dođu — kasne tjednima ili izostaju.
+Poseban problem nastaje nakon takve odluke. Jednom kada je korisnik izbačen iz sustava, često više nema nikakav direktan kontakt s ljudskom podrškom. Pokušaji rješavanja problema ostaju unutar automatiziranih sustava, korisnik samo vidi unaprijed generirane odgovore. Dok pravih odgovora nema, jer jednom izbačen korisnik, više ne može doći do ljudske podrške. Čak niti upiti poslani službenim EU kanalima kroz https://www.appealscentre.eu/  — kasne tjednima, ako uopće dođu.
 
 ---
 
 ## Samo 180 dana za povratak računa — ili totalni gubitak digitalnog identiteta
 
-U mnogim slučajevima korisnici imaju oko 180 dana da pokušaju vratiti račun. No bez mogućnosti pristupa korisničkoj podršci, to je paradoks. Kao da pitaju zid - zašto su izbačeni izvan kuće? Izbačeni korisnici nisu dobili jasni razlog zabrane i bez stvarnog procesa žalbe, kroz ljudsku podršku, taj rok često nema stvarnu vrijednost.
+U mnogim slučajevima korisnici imaju oko 180 dana da pokušaju vratiti račun. No bez mogućnosti pristupa korisničkoj podršci, to je paradoks. Kao da pitaju zid: "Zašto sam izbačen iz kuće?" — Izbačeni korisnici nisu dobili jasni razlog zabrane i bez stvarnog procesa žalbe, kroz ljudsku podršku, taj rok često nema stvarnu vrijednost.
 
-U tom kontekstu postavlja se ključno pitanje: ako zakon zahtijeva logove, transparentnost i odgovornost za AI sustave u poslovanju — zašto isti standardi ne vrijede za sustave koji brišu dugogodišnji digitalni identitet, poslovanje i komunikaciju korisnika? 
+U tom kontekstu postavlja se ključno pitanje: ako zakon zahtijeva logove, transparentnost i odgovornost za AI sustave u poslovanju — zašto isti standardi ne vrijede za sustave koji brišu dugogodišnji digitalni identitet, poslovanje i komunikaciju korisnika? I zašto veliki sustavi tako sporo odgovarju i odugovlače proces? Zašto im EU ne zada rok za odgovore?
 
 Današnje platforme su globalni igrači i izbacivanjem korisnika, običnim ljudima onemogućuju pristup polovici današnjih informacija.
 
