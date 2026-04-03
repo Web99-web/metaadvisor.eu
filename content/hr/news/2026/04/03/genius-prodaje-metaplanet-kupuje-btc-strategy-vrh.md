@@ -27,7 +27,7 @@ summary: "Dok singapurski Genius prodaje Bitcoin, japanski Metaplanet agresivno 
 
 # Genius prodaje, Metaplanet kupuje BTC, a Strategy ostaje na vrhu
 
-## Tri kontinenta, tri potpuno različite strategije
+## Tri kompanije, tri potpuno različite strategije
 
 Dok se kripto tržište nalazi pod pritiskom i traži smjer, kompanije diljem svijeta donose potpuno suprotne odluke kada je riječ o Bitcoinu. Najnoviji potezi pokazuju jasan razdor — singapurski Genius izlazi iz Bitcoina, japanski Metaplanet agresivno kupuje, dok američki Strategy ostaje čvrsto na vrhu bez promjene kursa.
 
