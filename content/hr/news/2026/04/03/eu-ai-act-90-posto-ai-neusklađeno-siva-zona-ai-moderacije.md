@@ -1,5 +1,5 @@
 ---
-title: "Do 90% AI sustava razvijenih u Europi možda već krši zakon — ali najveći problem možda je negdje drugdje"
+title: "Do 90% AI sustava korištenih u Europi možda već krši EU AI act zakon — ali najveći problem možda je negdje drugdje"
 slug: "eu-ai-act-90-posto-ai-neusklađeno-siva-zona-ai-moderacije"
 date: 2026-04-03T06:30:00+01:00
 category: "tech"
