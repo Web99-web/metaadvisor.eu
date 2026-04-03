@@ -1,5 +1,5 @@
 ---
-title: "Bis zu 90 % der in Europa entwickelten EU AI ACT KI-Systeme könnten bereits gegen das Gesetz verstoßen — doch das größte Problem liegt vielleicht woanders"
+title: "Bis zu 90 % der in Europa eingesetzten KI-Systeme könnten bereits gegen den EU AI Act verstoßen — doch das größte Problem liegt vielleicht woanders"
 slug: "eu-ai-act-90-prozent-ai-nicht-konform-grauzone-ai-moderation"
 date: 2026-04-03T06:30:00+01:00
 category: "tech"
