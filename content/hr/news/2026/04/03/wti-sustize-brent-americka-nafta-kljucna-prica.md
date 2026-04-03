@@ -32,13 +32,13 @@ _Slika je simbolična._
 
 ## Neočekivani pomak na tržištu nafte
 
-Tržište nafte posljednjih dana pokazuje signal koji se ne pojavljuje često — američka nafta WTI snažno je porasla i u jednom trenutku sustigla, pa čak i nadmašila Brent. Taj odnos između dva ključna benchmarka dugo je bio stabilan, gotovo predvidljiv. Brent je globalni referentni standard i gotovo uvijek kotira iznad WTI-a, koji je vezan uz američko tržište.
+Tržište nafte posljednjih dana pokazuje signal koji se ne pojavljuje često — **američka nafta WTI snažno je porasla i u jednom trenutku sustigla, pa čak i nadmašila Brent**. Taj odnos između dva ključna benchmarka dugo je bio stabilan, gotovo predvidljiv. Brent je globalni referentni standard i gotovo uvijek kotira iznad WTI-a, koji je vezan uz američko tržište.
 
 Upravo zato trenutak kada WTI prelazi Brent nije samo zanimljiv podatak — nego potencijalni signal promjene u percepciji tržišta. Samo dan ranije, WTI se kretao između 96 i 100 dolara, dok je Brent bio iznad, između 102 i 108 dolara. Takva razlika bila je uobičajena. No nagli skok WTI-a iznad 111 dolara u vrlo kratkom vremenu mijenja sliku.
 
 ## Izjava, percepcija rizika i reakcija tržišta
 
-Pomak se dogodio u trenutku kada je Donald Trump izjavio da “svijet treba naftu, a Amerika je ima dovoljno i ne mora ovisiti o Hormuškom tjesnacu”. Iako nije moguće sa sigurnošću tvrditi da je upravo ta izjava uzrokovala rast, vremensko poklapanje i brzina reakcije sugeriraju da je tržište tu poruku ozbiljno shvatilo.
+Pomak se dogodio u trenutku kada je Donald Trump izjavio da **“svijet treba naftu, a Amerika je ima dovoljno i ne mora ovisiti o Hormuškom tjesnacu”**. Iako nije moguće sa sigurnošću tvrditi da je upravo ta izjava uzrokovala rast, vremensko poklapanje i brzina reakcije sugeriraju da je tržište tu poruku ozbiljno shvatilo.
 
 Važno je razumjeti da tržišta ne reagiraju samo na događaje — nego na očekivanja. Dovoljno je da se pojavi percepcija rizika kako bi kapital počeo mijenjati smjer. Hormuški tjesnac, kroz koji prolazi velik dio svjetske opskrbe naftom, već dugo je jedna od najosjetljivijih točaka globalne energetike. Svaka naznaka nestabilnosti odmah pokreće pitanje: tko može preuzeti tu ulogu?
 
@@ -56,7 +56,7 @@ Ovakav pomak nije samo tehnički. On govori o promjeni u percepciji sigurnosti o
 
 Nafta je i dalje jedan od najvažnijih resursa na svijetu. Unatoč pričama o tranziciji na obnovljive izvore, realnost pokazuje da globalna ekonomija i dalje ovisi o stabilnoj opskrbi energijom. Upravo zato svaki signal koji sugerira promjenu u ravnoteži snaga ima šire implikacije.
 
-Ako tržište počne gledati na SAD kao na ključnog dobavljača u trenucima nesigurnosti, to ne utječe samo na cijene. To utječe na trgovinske tokove, političke odnose i dugoročne strategije država. Energetska sigurnost ponovno dolazi u prvi plan — ali s novim fokusom.
+**Ako tržište počne gledati na SAD kao na ključnog dobavljača u trenucima nesigurnosti, to ne utječe samo na cijene. To utječe na trgovinske tokove, političke odnose i dugoročne strategije država. Energetska sigurnost ponovno dolazi u prvi plan — ali s novim fokusom.**
 
 Takav razvoj događaja može značiti i smanjenje ovisnosti o tradicionalnim regijama poput Bliskog istoka. No istovremeno otvara nova pitanja — koliko je takav model održiv, i može li američka proizvodnja dugoročno zadovoljiti globalnu potražnju u kriznim situacijama.
 
