@@ -1,5 +1,5 @@
 ---
-title: "Genius prodaje, Metaplanet kupuje BTC, a Strategy ostaje na vrhu"
+title: "Singapurski Genius prodaje BTC, japanski Metaplanet kupuje, a američki Strategy ostaje na vrhu"
 slug: "genius-prodaje-metaplanet-kupuje-btc-strategy-vrh"
 date: 2026-04-02T20:30:00+01:00
 category: "crypto"
