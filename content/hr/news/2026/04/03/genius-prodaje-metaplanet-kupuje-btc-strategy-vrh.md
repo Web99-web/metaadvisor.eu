@@ -1,7 +1,7 @@
 ---
 title: "Singapurski Genius prodaje BTC, japanski Metaplanet kupuje, a američki Strategy ostaje na vrhu"
 slug: "genius-prodaje-metaplanet-kupuje-btc-strategy-vrh"
-date: 2026-04-02T20:30:00+01:00
+date: 2026-04-03T06:30:00+01:00
 category: "crypto"
 translationKey: "3c5a91c2e8f44d7bb3a2e9f5c6d1a712"
 author: "Metaadvisor.eu"
