@@ -17,9 +17,14 @@ tags: ["facebook", "banned", "removed", "ai moderation", "meta", "digital rights
 summary: "Estimates suggest that Facebook banned up to 20 million accounts in just two months at the start of 2026. Analyses indicate that more than 1.5 million users may have been wrongfully banned, often without any way to contact human support."
 ---
 
-<a class="cta-button" href="https://www.bybit.com/" target="_blank" rel="nofollow noopener">Start trading cryptocurrencies</a>
-
 *The image is symbolic.*
+
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Claim your Bitget bonus up to 6200 USDT — register here
+  </a>
+</p>
 
 # Gemini: Facebook AI banned up to 20 million accounts in early 2026
 
@@ -45,6 +50,8 @@ Gemini lists several key estimates for the January–February 2026 period:
 
 In other words, even if only part of these estimates is correct, we are talking about **millions of user accounts removed in just two months**, with **hundreds of thousands or even more than a million people potentially becoming collateral damage of automated moderation systems.**
 
+{{< support1 >}}
+
 ## What 20 million banned accounts actually means
 
 When people hear about millions of removed accounts, many instinctively assume those are bots, spam profiles or scammers. Meta often talks about exactly that in its official reports — fake account removals and the fight against spam networks. But the stories appearing on forums suggest that among those accounts there are often **real people** as well.
@@ -58,6 +65,8 @@ If even part of the estimates is correct, those profiles could include **someone
 One of the most controversial issues appearing in discussions about Facebook’s content moderation is the so-called **false positive case**. This refers to situations in which an artificial intelligence algorithm **misinterprets content** and automatically labels a user as someone violating platform rules. In such cases, an account can be **suspended or permanently shut down without any real human review**, while the appeal process is often handled again by — another algorithm.
 
 Users in such situations find themselves in a kind of digital limbo: the account is gone, and **contact with a real person is almost impossible**. That is exactly why more and more people are beginning to publicly share examples where bans are clearly the result of a system error.
+
+{{< support1 >}}
 
 ### **Example 1: Family photos labeled as “Child Sexual Exploitation”**
 
@@ -77,6 +86,8 @@ In one well-known case, a page promoting female heroes and using the word **“H
 
 These kinds of mistakes are especially problematic because they happen due to **language nuances**, which algorithms often misread.
 
+{{< support2 >}}
+
 ### **Example 4: AI “hallucinations” in comments**
 
 There are also cases in which users say their comments **did not mention drugs, loans or financial fraud in any way**, yet the algorithm still concluded that the posts were promoting such activities. In those situations, users often receive a notice saying they violated rules related to **financial scams or illegal trade**, even though their posts contain no such elements.
@@ -93,6 +104,8 @@ There are still thousands of such profiles today — from people trying to expos
 Critics of such decisions ask a logical question: **if someone uses a VPN precisely to protect their privacy, why should that user be treated as a potential security threat?**
 
 ---
+
+{{< support2 >}}
 
 ## Tens of thousands of small businesses vanished overnight
 
@@ -117,6 +130,8 @@ The second is the **loss of digital history**. Many users lose access to profile
 In other words, the problem is not that the platform moderates content — the problem arises when **a long-standing account with thousands of photos and millions of posts can be permanently shut down because of a few mistaken flags**, without any chance for the user to explain the situation to a real person.
 
 ---
+
+{{< support2 >}}
 
 ## The EU begins to respond: Digital Services Act
 
@@ -153,7 +168,6 @@ In such proceedings:
 According to reports from **March 2026**, such bodies overturn **more than 75% of disputed platform decisions**, which raises an additional question about how reliable AI systems really are in content moderation.
 
 ---
-
 ## Class actions are already being prepared in Europe
 
 At the same time, **organized legal initiatives against Meta** are beginning to appear in Europe as well.
@@ -163,6 +177,8 @@ According to information from legal and technology forums, **law firms in German
 One important legal precedent comes from Germany. In one case, a court in Düsseldorf concluded that a platform **cannot permanently block a user account without giving the user a real opportunity to respond before a human being**. Such rulings are increasingly being used as arguments in disputes against major technology platforms.
 
 ---
+
+{{< support2 >}}
 
 ## Digital infrastructure of modern life
 
