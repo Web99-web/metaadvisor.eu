@@ -17,9 +17,14 @@ tags: ["facebook", "banani", "izbačeni", "ai moderacija", "meta", "digital righ
 summary: "Procjene sugeriraju da je Facebook početkom 2026. bannao do 20 milijuna računa u samo dva mjeseca. Analize pokazuju da bi više od 1,5 milijuna korisnika moglo biti pogrešno bannano, često bez mogućnosti kontakta s ljudskom podrškom."
 ---
 
-<a class="cta-button" href="https://www.bybit.com/" target="_blank" rel="nofollow noopener">Počni trgovati kriptovalutama</a>
-
 *Slika je simbolična.*
+
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
+  </a>
+</p>
 
 # Gemini: Facebook AI bannao do 20 milijuna računa početkom 2026.
 
@@ -45,6 +50,8 @@ Gemini pritom navodi nekoliko ključnih procjena za razdoblje siječanj–velja�
 
 Drugim riječima, čak i ako je samo dio tih procjena točan, govorimo o **milijunima korisničkih računa uklonjenih u samo dva mjeseca**, pri čemu bi **stotine tisuća ili čak više od milijun ljudi moglo biti kolateralna šteta automatiziranih sustava moderacije.**
 
+{{< support1 >}}
+
 ## Što znači 20 milijuna bannanih računa
 
 Kada se govori o milijunima uklonjenih računa, mnogi ljudi instinktivno pomisle da se radi o botovima, spam profilima ili prevarantima. Meta u svojim službenim izvještajima često govori upravo o tome — o uklanjanju lažnih računa i borbi protiv spam mreža. No priče koje se pojavljuju na forumima sugeriraju da među tim računima često završavaju i **stvarni ljudi**.
@@ -58,6 +65,8 @@ Ako je samo dio procjena točan, među tim profilima mogli bi biti **nečiji pri
 Jedan od najkontroverznijih problema koji se pojavljuje u raspravama o Facebookovoj moderaciji sadržaja su takozvani **“false positive” slučajevi**. Riječ je o situacijama u kojima algoritam umjetne inteligencije **pogrešno interpretira sadržaj** i korisnika automatski označi kao prekršitelja pravila platforme. U takvim slučajevima račun može biti **suspendiran ili trajno ugašen bez stvarne ljudske provjere**, a žalbeni postupak često ponovno obrađuje — drugi algoritam.
 
 Korisnici se u takvim situacijama nalaze u svojevrsnom digitalnom limbu: račun je nestao, a **kontakt sa stvarnom osobom gotovo je nemoguće ostvariti**. Upravo zbog toga sve više ljudi počinje javno dijeliti primjere u kojima su banovi očito rezultat pogreške sustava.
+
+{{< support1 >}}
 
 ### **Primjer 1: Obiteljske fotografije označene kao “Child Sexual Exploitation”**
 
@@ -77,6 +86,8 @@ U jednom poznatom slučaju stranica koja je promovirala žene heroje i koristila
 
 Takve greške posebno su problematične jer nastaju zbog **jezičnih nijansi**, koje algoritmi često pogrešno interpretiraju.
 
+{{< support2 >}}
+
 ### **Primjer 4: AI “halucinacije” u komentarima**
 
 Postoje i slučajevi u kojima korisnici tvrde da u njihovim komentarima **nije bilo nikakvog spominjanja droge, kredita ili financijskih prijevara**, ali je algoritam ipak zaključio da objave promoviraju takve aktivnosti. U takvim situacijama korisnici često dobiju obavijest da su prekršili pravila o **financijskim prevarama ili ilegalnoj trgovini**, iako u objavama nema nikakvih takvih elemenata.
@@ -93,6 +104,8 @@ Takvih profila ima i danas na tisuće — od ljudi koji pokušavaju razotkriti *
 Kritičari takvih odluka postavljaju logično pitanje: **ako netko koristi VPN upravo kako bi zaštitio svoju privatnost, zašto se takav korisnik tretira kao potencijalna sigurnosna prijetnja?**
 
 ---
+
+{{< support2 >}}
 
 ## Kada Facebook račun nestane, nestaje i Messenger
 
@@ -129,6 +142,8 @@ Druga je **gubitak digitalne povijesti**. Mnogi korisnici gube pristup profilima
 Drugim riječima, problem nije u tome što platforma moderira sadržaj — problem nastaje kada **dugogodišnji račun s tisućama fotografija i milijunima objava može biti trajno ugašen zbog nekoliko pogrešnih flagova**, bez mogućnosti da korisnik objasni situaciju stvarnoj osobi.
 
 ---
+
+{{< support2 >}}
 
 ## EU počinje reagirati: Digital Services Act
 
@@ -175,6 +190,8 @@ Prema informacijama s pravnih i tehnoloških foruma, **odvjetnički uredi u Njem
 Jedan od važnih pravnih presedana dolazi iz Njemačke. Sud u Düsseldorfu u jednom je postupku zaključio da platforma **ne može trajno blokirati korisnički račun bez da korisniku omogući stvarnu priliku da se očituje pred ljudskom osobom**. Takve presude sve se češće koriste kao argument u sporovima protiv velikih tehnoloških platformi.
 
 ---
+
+{{< support2 >}}
 
 ## Digitalna infrastruktura modernog života
 
