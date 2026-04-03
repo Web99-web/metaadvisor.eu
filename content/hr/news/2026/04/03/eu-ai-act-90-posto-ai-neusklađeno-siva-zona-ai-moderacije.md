@@ -13,7 +13,7 @@ image: "/images/EU-AI-act-90percent-non-complient.png"
 thumbnail: "/images/EU-AI-act-90percent-non-complient.png"
 image_alt: "EU AI Act i neusklađenost AI sustava"
 image_credit: "MetaAdvisor.eu"
-tags: ["eu ai act","ai zakon","ai moderacija","meta","facebook","instagram","zapošljavanje","regulacija"]
+tags: ["eu ai act","ai zakon","ai moderacija","meta","facebook","instagram","zapošljavanje","regulacija","ai usklađenost","ai governance","neusklađenost","regulatorni rizik","ai transparentnost","ai odgovornost","gdpr","nis2","dora","kibernetička sigurnost"]
 summary: "EU AI Act odnosi se na sve firme koje utječu na korisnike u EU, dok se postavlja pitanje hoće li regulacija vidjeti stvarni problem — ili će ostati fokusirana na manje sustave."
 ---
 
