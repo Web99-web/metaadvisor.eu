@@ -77,7 +77,7 @@ AI se danas koristi u sustavima koji ne odlučuju formalno o karijeri ili kredit
 
 ## AI moderacija: problem koji raste, ali nema jasna pravila - je li u sivoj zoni
 
-**Od 2025. i 2026. godine sve je više slučajeva u kojima korisnici diljem svijeta prijavljuju probleme s AI moderacijom.** Problem se odnosi i na stare korisničke račune stare 15–20 godina, s tisućama ili desecima tisuća objava i interakcija. Sustavi sve češće pogrešno označavaju sadržaj (“false positives”), a zatim bez prethodnog upozorenja uklanjaju objave ili potpuno gase korisničke račune.
+**Od 2025. i 2026. godine sve je više slučajeva u kojima korisnici diljem svijeta prijavljuju probleme s AI moderacijom.** Problem se odnosi i na korisničke račune stare 15–20 godina, s tisućama ili desecima tisuća objava i interakcija. Sustavi sve češće pogrešno označavaju sadržaj (“false positives”), a zatim bez prethodnog upozorenja uklanjaju objave ili potpuno gase korisničke račune.
 
 Platforme poput Meta Platforms, kroz Facebook, Instagram i Messenger, sve više koriste automatizirane sustave koji donose odluke bez ljudske provjere. U praksi to znači da korisnik može jednim klikom, izgubiti pristup svim računima odjednom (Facebook, Instagram i Messenger) i to bez upozorenja i bez objašnjenja.
 
