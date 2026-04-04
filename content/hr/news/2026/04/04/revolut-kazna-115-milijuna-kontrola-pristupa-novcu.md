@@ -7,9 +7,9 @@ translationKey: "c9e7a1f4d2b84b7a9e5c3f1a8d6b2c4e"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (regulatorni izvori, mediji)"
 source_url: ""
-image_url: "/images/Revolut.png"
-featured_image: "/images/Revolut.png"
-image_alt: "Revolut aplikacija i digitalno bankarstvo"
+image_url: "/images/news/Revolut-fined-in-Italy.png"
+featured_image: "/images/news/Revolut-fined-in-Italy.png"
+image_alt: "Revolut kazna Italija blokada računa"
 image_credit: "Ilustracija"
 tags: ["revolut","fintech","bankarstvo","blokada računa","digitalna kontrola","ai moderacija"]
 summary: "Kazna Revolutu u Italiji otvara šire pitanje: tko danas kontrolira pristup novcu i što se događa kada taj pristup nestane."
@@ -17,14 +17,14 @@ summary: "Kazna Revolutu u Italiji otvara šire pitanje: tko danas kontrolira pr
 
 *Slika je simbolična.*
 
+# Revolut kažnjen s 11,5 milijuna eura: kada platforme kontroliraju pristup novcu
+
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
      style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
      👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
   </a>
 </p>
-
-# Revolut kažnjen s 11,5 milijuna eura: kada platforme kontroliraju pristup novcu
 
 ## Kada pristup novcu više nije siguran
 
@@ -52,28 +52,29 @@ Sličan princip postoji i u klasičnom bankarstvu. Novac koji držiš u banci pr
 
 ## AI moderacija i nestanak digitalnog identiteta
 
-Ova priča ne postoji izolirano. Sličan obrazac već vidimo na društvenim mrežama, gdje AI moderacija može ugasiti korisnički račun bez upozorenja, objašnjenja ili stvarne mogućnosti žalbe. U tom trenutku nestaju godine rada, kontakti i komunikacija.
+Ova priča ne postoji izolirano. Sličan obrazac već vidimo na društvenim mrežama, ali i u financijskim platformama. AI sustavi i automatizirani procesi mogu ograničiti pristup — bilo da se radi o računu ili novcu — bez upozorenja, jasnog objašnjenja ili stvarne mogućnosti žalbe.
 
-Kada AI moderacija ugasi račun na društvenim mrežama poput Facebooka, Instagrama i Messengera, često se sve platforme gase istovremeno. Ne gube se samo objave — gube se klijenti, kontakti i komunikacijski kanali… godine teškog rada.
+Na društvenim mrežama, AI moderacija može ugasiti korisnički račun i u tom trenutku nestaju godine rada, kontakti i komunikacija. Kada se račun ugasi, Facebook, Instagram i Messenger često se gase istovremeno.
 
-Bez objašnjenja. Bez ljudske podrške. Bez stvarne žalbe.
-
-Razlika između pristupa novcu i pristupa digitalnom profilu sve je manja. Jer u oba slučaja ono što se zapravo gubi nije samo alat, nego pristup vlastitom poslovanju.
-
-Pitanje ostaje isto: tko kontrolira pristup — i tko je odgovoran kada se taj pristup oduzme?
-
-## Naš osvrt (Metaadvisor)
-
-Možda će netko reći da ovo nije isto — pristup novcu ili pristup profilu na društvenoj mreži. Ali za mnoge male poduzetnike danas to zapravo jest isto.
-
-Kada AI moderacija ugasi račun, Facebook, Instagram i Messenger često se gase istovremeno. Ne gube se samo objave — gube se klijenti, kontakti i komunikacijski kanali. Gube se godine rada.
+U financijskom sustavu, posljedica je drugačija — ali jednako ozbiljna. Umjesto gubitka komunikacije, dolazi do gubitka pristupa novcu. Operacije ne moraju stati — ali pristup sredstvima može.
 
 Bez objašnjenja. Bez ljudske podrške. Bez stvarne žalbe.
+
+Razlika između pristupa novcu i pristupa digitalnom profilu sve je manja. Jer u oba slučaja ono što se zapravo gubi nije samo alat — nego pristup vlastitom poslovanju.
 
 Za mali biznis ili običnu osobu, blokirani račun znači opstanak. Isto kao kada godinama koristiš neku platformu za svoj posao, a onda ti netko zaključa ulaz i sve što posjeduješ ostane unutar njihove “zgrade” — i nakon 180 dana to jednostavno nestane.
 
-Pitanje ostaje isto: tko kontrolira pristup — i tko je odgovoran kada se taj pristup oduzme?
+## Naš osvrt (Metaadvisor)
 
+Možda će netko reći da ovo nije isto — pristup novcu ili pristup profilu na društvenoj mreži.
+
+Ali za mnoge male poduzetnike danas razlika više ne postoji, sve je digitalno, pogotovo nakon Covid, kada su nas sve 'navukli' na digitalno.
+
+U oba slučaja, platforma kontrolira pristup — a korisnik snosi posljedice.
+
+Bez objašnjenja. Bez podrške. Bez stvarne žalbe.
+
+👉 Tko kontrolira pristup — i tko je odgovoran kada se taj pristup oduzme?
 
 ---
 
