@@ -88,7 +88,7 @@ I sve to u sustavu koji se predstavlja kao budućnost financija.
 
 Danas postoji očit jaz između onoga što DeFi tehnologija može napraviti i onoga što korisnici trebaju. S jedne strane imamo sofisticirane protokole i inovacije, a s druge korisnike koji ne mogu razumjeti osnovne funkcije.
 
-To nije samo UX problem — to je problem pristupa. Ako sustav nije razumljiv, nije ni pristupačan.
+To nije samo UX problem — to je problem pristupa. Ako sustav nije razumljiv, nije ni pristupačan, niti će biti masovno korišten.
 
 ## Zaključak: budućnost koja još nije spremna za ljude
 
