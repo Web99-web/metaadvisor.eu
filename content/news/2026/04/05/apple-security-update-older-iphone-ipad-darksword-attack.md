@@ -1,7 +1,7 @@
 ---
 title: "Apple releases security update for older iPhones and iPads due to DarkSword attacks"
 slug: "apple-security-update-older-iphone-ipad-darksword-attack"
-date: 2026-04-05T06:30:00+01:00
+date: 2026-04-05T04:30:00+01:00
 category: "tech"
 translationKey: "ab5fbf964aefde0010e3f90da4d06b5b"
 author: "TechCrunch"
