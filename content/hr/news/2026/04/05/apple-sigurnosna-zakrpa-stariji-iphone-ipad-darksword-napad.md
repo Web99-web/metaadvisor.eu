@@ -16,7 +16,7 @@ image_alt: "Apple iPhone sigurnosno ažuriranje"
 image_credit: "TechCrunch / ilustracija"
 tags: ["apple","iphone","ipad","sigurnost","cybersecurity","darksword","hakeri","ios","ipadOS","kripto"]
 summary: "Apple je izdao hitno sigurnosno ažuriranje za starije iPhone i iPad uređaje kako bi zaštitio korisnike od DarkSword napada koji omogućuju krađu podataka putem kompromitiranih web stranica."
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 *Slika je simbolična.*
 
