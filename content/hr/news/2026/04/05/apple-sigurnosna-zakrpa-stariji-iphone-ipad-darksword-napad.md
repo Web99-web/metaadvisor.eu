@@ -1,7 +1,7 @@
 ---
 title: "Apple objavio sigurnosnu zakrpu za starije iPhone i iPad uređaje zbog DarkSword napada"
 slug: "apple-sigurnosna-zakrpa-stariji-iphone-ipad-darksword-napad"
-date: 2026-04-05T06:30:00+01:00
+date: 2026-04-05T04:30:00+01:00
 category: "tech"
 translationKey: "ab5fbf964aefde0010e3f90da4d06b5b"
 author: "TechCrunch"
