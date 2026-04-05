@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 67,264.07 tends to outperform traditional safe haven assets like gold in the two months following major global crises, according to new analysis from Brazilian crypto exchange Mercado Bitcoin.
+Bitcoin BTC $ 67,179.20 tends to outperform traditional safe haven assets like gold in the two months following major global crises, according to new analysis from Brazilian crypto exchange Mercado Bitcoin.
 
 The study, led by Rony Szuster, head of research at the Latin American crypto platform, examined 60-day windows after economic or geopolitical shocks such as the COVID-19 outbreak and U.S. tariff escalations. Bitcoin posted stronger returns than both gold and the S&P 500 in each of the periods analyzed.
 
