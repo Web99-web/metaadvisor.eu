@@ -50,7 +50,11 @@ Dodatno, neke mjenjačnice nude kartice koje omogućuju trošenje sredstava dire
 
 ## Realnost: kako korisnici zapravo izlaze
 
-U stvarnom svijetu većina korisnika koristi kombinaciju više platformi. Kripto se kupuje i trguje na jednoj mjenjačnici, a zatim se sredstva prebacuju na drugu koja omogućuje fiat isplatu. Najčešći scenarij uključuje konverziju u stabilne coine poput USDT-a ili BTC-a, prijenos na platformu poput Coinbasea ili Krakena, te tek tada povlačenje na bankovni račun.
+U stvarnom svijetu većina korisnika koristi kombinaciju više platformi, ali taj proces često uključuje i DeFi alate i vlastite kripto novčanike. Dio korisnika trguje izvan klasičnih mjenjačnica, primjerice na decentraliziranim platformama ili kroz novčanike poput MetaMaska, gdje sami upravljaju sredstvima bez posrednika. U takvim slučajevima ne postoji direktan izlaz u fiat, pa se sredstva prvo moraju prebaciti na centraliziranu mjenjačnicu koja podržava isplate.
+
+To znači da put često izgleda ovako: kripto se drži ili trguje u DeFi okruženju (npr. putem novčanika ili platformi poput Hyperliquida), zatim se pretvara u likvidnije tokene poput USDT-a ili BTC-a, prebacuje na mjenjačnicu poput Coinbasea ili Krakena, i tek se tamo prodaje za EUR ili USD kako bi se mogao povući na bankovni račun. Upravo taj prijelaz između decentraliziranog i reguliranog sustava predstavlja ključnu točku u cijelom procesu.
+
+👉 Kripto možeš držati bilo gdje — ali kada ga želiš pretvoriti u stvarni novac, gotovo uvijek moraš proći kroz centraliziranu mjenjačnicu.
 
 Ovaj dodatni korak nije tehnički nužan, ali je u praksi postao standard jer mnoge popularne mjenjačnice ne nude direktan izlaz u fiat.
 
