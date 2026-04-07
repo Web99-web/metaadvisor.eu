@@ -1,5 +1,5 @@
 ---
-title: "AI već utječe na poslove — ali ne samo kako ljudi misle — briše ih"
+title: "AI već utječe na poslove osim što ih preuzima i — briše ih"
 slug: "ai-ne-uzima-poslove-brise-ih"
 date: 2026-04-06T12:30:00+01:00
 category: "tech"
