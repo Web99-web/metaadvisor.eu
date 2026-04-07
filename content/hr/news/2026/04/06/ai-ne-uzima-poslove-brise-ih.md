@@ -47,7 +47,7 @@ Korisnici su nas također uputili na online peticiju za povrat računa, koja jas
 
 Problem dodatno pogoršava činjenica da ljudi koji su izbačeni često ni ne znaju da postoje tisuće drugih u istoj situaciji. Njihov glas jednostavno nestaje zajedno s profilom. Upravo zato dio njih pokušava ponovno izgraditi prisutnost na platformama poput Mastodona ili LinkedIna, ali većina i dalje želi povrat svojih originalnih računa.
 
-![Meta bans petition growth](/images/Meta-wrongfully-disabling-accounts-Facebook-Instagram.png)
+![Meta bans petition growth](/images/Meta/Meta-wrongfully-disabling-accounts-Facebook-Instagram.png)
 
 ## EU pokušava — ali stvarnost je drugačija
 
