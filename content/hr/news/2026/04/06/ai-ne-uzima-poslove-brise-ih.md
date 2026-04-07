@@ -43,11 +43,13 @@ Od kako smo počeli pratiti ovu temu, otkrivamo sve veći broj konkretnih sluča
 
 Zajednički obrazac je gotovo identičan: profil nestaje preko noći, bez jasnog objašnjenja i bez stvarne mogućnosti daljnje žalbe. Nakon toga, korisnik ostaje bez pristupa svemu — fotografijama, kontaktima, poslovnim komunikacijama i godinama akumuliranog sadržaja.
 
-Korisnici su nas također uputili na online peticiju za povrat računa, koja jasno pokazuje koliko je problem raširen. U samo četiri dana koliko pratimo njezin rast, zabilježeno je oko 400 novih potpisa, što ukazuje na kontinuirano povećanje broja pogođenih korisnika.
 
 Problem dodatno pogoršava činjenica da ljudi koji su izbačeni često ni ne znaju da postoje tisuće drugih u istoj situaciji. Njihov glas jednostavno nestaje zajedno s profilom. Upravo zato dio njih pokušava ponovno izgraditi prisutnost na platformama poput Mastodona ili LinkedIna, ali većina i dalje želi povrat svojih originalnih računa.
 
+Korisnici su nas također uputili na online peticiju za povrat računa, koja jasno pokazuje koliko je problem raširen. U samo četiri dana koliko pratimo njezin rast, zabilježeno je oko 400 novih potpisa, što ukazuje na kontinuirano povećanje broja pogođenih korisnika. Ali većina korisnika još nije niti čula za peticiju.
+
 ![Meta bans petition growth](/images/Meta/Meta-wrongfully-disabling-accounts-Facebook-Instagram.png)
+
 
 ## EU pokušava — ali stvarnost je drugačija
 
