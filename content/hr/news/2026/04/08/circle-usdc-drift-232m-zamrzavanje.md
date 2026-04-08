@@ -64,7 +64,7 @@ Balans između brzine, točnosti i odgovornosti postaje sve teži.
 
 ## Šira slika: više od jednog incidenta
 
-Drift slučaj nije izoliran. Slične situacije događale su se i ranije, što dodatno pojačava raspravu o ulozi centraliziranih aktera u kriptu. Kako se sve više novca kreće kroz blockchain sustave, pritisak na takve tvrtke raste.
+Drift slučaj nije izoliran. Slične situacije događale su se i ranije, što dodatno pojačava raspravu o ulozi centraliziranih aktera u kriptu. Prema analizama unutar zajednice, Circle od 2022. godine nije uspio zamrznuti ukupno oko 420 milijuna dolara povezanih s različitim hackovima i prijevarama, što ovaj problem stavlja u puno širi kontekst od jednog incidenta. Kako se sve više novca kreće kroz blockchain sustave, pritisak na takve tvrtke raste.
 
 Istovremeno, dio tih tokova povezuje se i s organiziranim kriminalom, pa čak i akterima povezanim s državama poput Sjeverne Koreje. U tom kontekstu, pitanje zamrzavanja sredstava prelazi iz tehničkog u sigurnosno i geopolitičko područje.
 
