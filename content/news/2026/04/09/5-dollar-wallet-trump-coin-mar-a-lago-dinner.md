@@ -1,5 +1,5 @@
 ---
-title: "A $5 wallet buys $TRUMP: does it know something others don’t?"
+title: "A $5 wallet buys TRUMP: does it know something others don’t?"
 slug: "5-dollar-wallet-trump-coin-mar-a-lago-dinner"
 date: 2026-04-09T17:30:00+01:00
 category: "crypto"
