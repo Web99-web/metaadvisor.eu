@@ -1,5 +1,5 @@
 ---
-title: "Wallet mit 5 Dollar kauft $TRUMP: weiß er etwas, was andere nicht wissen?"
+title: "Wallet mit 5 Dollar kauft TRUMP: weiß er etwas, was andere nicht wissen?"
 slug: "wallet-5-dollar-trump-coin-essen-mar-a-lago"
 date: 2026-04-09T17:30:00+01:00
 category: "crypto"
@@ -13,7 +13,7 @@ image: "/images/trump-coin1.jpg"
 thumbnail: "/images/trump-coin1.jpg"
 image_alt: "Trump Coin und kleiner Wallet-Einstieg"
 image_credit: "Illustration"
-tags: ["krypto","crypto","trump coin","meme coin","solana","wallet","trading","investieren","blockchain","markt","psychologie"]
+tags: ["krypto","crypto","trump coin","meme coin","solana","wallet","trading","investieren","blockchain","markt","psychologie","mar-a-lago","dinner","trump event","politik"]
 summary: "Ein Wallet mit insgesamt 5 Dollar, investiert in den $TRUMP Coin, hat die Aufmerksamkeit der Krypto-Community auf sich gezogen und wirft eine Frage auf: Zufall, Hoffnung oder mehr?"
 ---
 
