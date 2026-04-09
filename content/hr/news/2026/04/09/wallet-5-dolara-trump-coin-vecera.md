@@ -40,6 +40,8 @@ Na prvi pogled, riječ je o beznačajnom potezu u svijetu gdje milijuni dolara m
 
 Ono što ovu situaciju čini zanimljivom nije veličina ulaganja, nego kontekst. $TRUMP coin nije samo još jedan token, nego projekt koji u ovom trenutku nosi i dodatni narativ. Najveći holderi imaju mogućnost sudjelovanja na ekskluzivnom događaju u Mar-a-Lagu, gdje se organizira susret s Donaldom Trumpom.
 
+U toj večeri smo pričali u priči – [Trump memecoin ponovno raste: večera u Mar-a-Lagu pokreće novi kripto val](https://metaadvisor.eu/hr/news/trump-memecoin-vecera-mar-a-lago-kripto-val/)
+
 U takvom okruženju, čak i mali ulazak dobiva dodatno značenje. Nije riječ samo o potencijalnoj zaradi, nego o sudjelovanju u priči koja uključuje politiku, marketing i percepciju vrijednosti.
 
 {{< support1 >}}
