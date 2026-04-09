@@ -1,5 +1,5 @@
 ---
-title: "Wallet od 5 dolara kupuje $TRUMP: zna li nešto što drugi ne znaju?"
+title: "Wallet od 5 dolara kupuje TRUMP: zna li nešto što drugi ne znaju?"
 slug: "wallet-5-dolara-trump-coin-vecera"
 date: 2026-04-09T17:30:00+01:00
 category: "crypto"
@@ -13,7 +13,7 @@ image: "/images/trump-coin1.jpg"
 thumbnail: "/images/trump-coin1.jpg"
 image_alt: "Trump coin i mali wallet ulazak"
 image_credit: "Ilustracija"
-tags: ["kripto","crypto","trump coin","meme coin","solana","wallet","trgovanje","investiranje","blockchain","trziste","psihologija"]
+tags: ["kripto","crypto","trump coin","meme coin","solana","wallet","trgovanje","investiranje","blockchain","trziste","psihologija","mar-a-lago","vecera","trump event","politika"]
 summary: "Wallet s ukupno 5 dolara uloženih u $TRUMP coin privukao je pažnju kripto zajednice i otvorio pitanje: radi li se o slučajnosti, nadi ili nečemu više?"
 ---
 
