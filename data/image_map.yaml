@@ -329,7 +329,7 @@ mapping:
 
     # --- MEMECOINS (lokalne nove slike) ---
   bone:         [shiba-inu-coin.jpg, shiba-inu-coin1.jpg, shiba-inu.png, bone.png, shiba-inu-coin2.jpg]
-  trump:        [trump-coin.jpg, trump-coin1.jpg]
+  trump:        [trump-coin.jpg, trump-coin1.jpg, Trump-coin2.jpeg]
   maga:         [trump-coin.jpg, trump-coin1.jpg]
   djt:          [trump-coin.jpg, trump-coin1.jpg]
 
