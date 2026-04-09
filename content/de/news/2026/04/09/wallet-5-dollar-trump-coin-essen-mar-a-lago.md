@@ -40,6 +40,8 @@ Auf den ersten Blick wirkt das wie eine unbedeutende Transaktion in einem Markt,
 
 Was diesen Fall interessant macht, ist nicht die Höhe der Investition, sondern der Kontext. Der $TRUMP Coin ist nicht nur ein weiterer Token, sondern ein Projekt, das aktuell mit einem zusätzlichen Narrativ aufgeladen ist. Die größten Holder erhalten Zugang zu einem exklusiven Event in Mar-a-Lago, bei dem ein Treffen mit Donald Trump geplant ist.
 
+In diesem Zusammenhang haben wir bereits berichtet – [Trump Memecoin steigt erneut: Dinner in Mar-a-Lago löst neue Krypto-Welle aus](https://metaadvisor.eu/de/news/trump-memecoin-mar-a-lago-dinner-krypto-welle/)
+
 In einem solchen Umfeld bekommt selbst ein kleiner Einstieg eine andere Bedeutung. Es geht nicht nur um möglichen Gewinn, sondern auch darum, Teil einer Geschichte zu sein, die Politik, Marketing und Wahrnehmung miteinander verbindet.
 
 {{< support1 >}}
