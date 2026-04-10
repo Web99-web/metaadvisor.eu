@@ -31,7 +31,9 @@ _The image is symbolic._
 
 The crypto project World Liberty Financial (WLFI), linked to the family of Donald Trump, has come under increased scrutiny following a series of transactions that raise fundamental questions about how decentralized finance actually operates when large capital flows and connected actors are involved. According to on-chain data, the project used its own token as collateral to borrow tens of millions of dollars in stablecoins within a system where it simultaneously controls a significant portion of total liquidity.
 
-At first glance, this model does not differ dramatically from standard DeFi practices, where users deposit collateral and borrow against it. However, as Metaadvisor highlights, the key difference here is that the collateral is the project’s own token, while borrowing takes place within a protocol that has direct connections to the same ecosystem. This combination opens the door to concerns about system structure and the emergence of a potential closed-loop financing model.
+At first glance, this model does not differ dramatically from standard DeFi practices, where users deposit collateral and borrow against it. 
+
+However, based on on-chain data reported by CoinDesk, the key difference here is that the collateral is the project’s own token, while borrowing takes place within a protocol with direct connections to the same ecosystem. This raises questions about system structure and the possibility of a closed-loop model.
 
 {{< support1 >}}
 
@@ -57,7 +59,7 @@ In such a structure, the same entity can provide liquidity, use its own token as
 
 ## Liquidity under pressure
 
-Additional concern comes from liquidity utilization. Some estimates suggest that the main stablecoin pool within the protocol is used at levels approaching 90%, meaning most of the available liquidity has already been borrowed. Under such conditions, users attempting to withdraw funds could face delays or limitations.
+Additional concern comes from liquidity utilization. Some unverified estimates shared on X suggest that the main stablecoin pool could be utilized at levels approaching 90%, meaning most of the available liquidity may already be borrowed. Under such conditions, users attempting to withdraw funds could face delays or limitations.
 
 This does not necessarily indicate that the system is broken, but it does highlight increased risk in scenarios where multiple participants attempt to exit simultaneously. In such moments, liquidity becomes the defining factor of system stability.
 
