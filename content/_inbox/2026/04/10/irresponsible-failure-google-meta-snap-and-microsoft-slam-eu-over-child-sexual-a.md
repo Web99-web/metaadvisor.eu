@@ -19,7 +19,7 @@ Sign up for the Breaking News US email to get newsletter alerts in your inbox
 
 The European parliament has blocked the extension of a law that permits big tech firms to scan for child sexual exploitation on their platforms, creating a legal gap that child safety experts say will lead to crimes going undetected.
 
-The law, which was a carve-out of the EU Privacy Act, was put in place in 2021 as a temporary measure allowing companies to use automated detection technologies to scan messages for harms, including child sexual abuse material (CSAM), grooming and sextortion . However, it expired on 3 April, and the EU parliament decided not to vote to extend it, amid privacy concerns from some lawmakers.
+The law, which was a carve-out of the European Union’s ePrivacy Directive, was put in place in 2021 as a temporary measure allowing companies to use automated detection technologies to scan messages for harms, including child sexual abuse material (CSAM), grooming and sextortion . However, it expired on 3 April, and the EU parliament decided not to vote to extend it, amid privacy concerns from some lawmakers.
 
 The regulatory gap has created uncertainty for big tech companies, because while scanning for harms on their platforms is now illegal, they still remain liable to remove any illegal content hosted on their platforms under a different law, the Digital Services Act. Google, Meta, Snap and Microsoft said they would continue to voluntarily scan their platforms for CSAM, in a joint statement posted on a Google blog.
 
@@ -27,4 +27,4 @@ The regulatory gap has created uncertainty for big tech companies, because while
 
 The European parliament said in a statement that it was prioritizing its work on legislation to prevent and combat child sexual abuse online, and that negotiations on a permanent legal framework were ongoing, though the body had offered no timeline for agreements or implementation.
 
-Child protection advocates had warned that allowing the legislation to lapse would probably trigger a steep fall in reports
+Child protection advocates had warned that allowing the legislation to lapse would probably trigger a
