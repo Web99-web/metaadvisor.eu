@@ -34,7 +34,9 @@ To je tehnički točno, ali rasprava u 2025. i 2026. godini sve se više pomiče
 
 ## Gdje komunikacija izlazi iz enkripcije
 
-Jedna od ključnih točaka je funkcija prijave sadržaja. Kada korisnik prijavi poruku ili razgovor, dio komunikacije šalje se sustavu zajedno s tehničkim podacima, čime sadržaj izlazi iz isključivo privatnog okvira.
+Jedna od ključnih točaka je funkcija prijave sadržaja. Kada korisnik prijavi poruku ili razgovor, dio komunikacije šalje se sustavu zajedno s tehničkim podacima, čime sadržaj izlazi iz isključivo privatnog okvira. 
+
+Prema javno dostupnim informacijama i načinu na koji je funkcija prijave opisana, prilikom klika na “Report” korisnik daje privolu za slanje dijela komunikacije na pregled, obično kroz kratku obavijest unutar aplikacije. Iako to nije skriveni proces, u praksi većina korisnika nije u potpunosti svjesna koliko konkretnih podataka time dijeli. Važno je naglasiti da se ovakav opis temelji na dostupnim informacijama i može varirati ovisno o verziji aplikacije i postavkama korisnika.
 
 Takav sadržaj mogu obrađivati automatizirani sustavi, ali i ljudski moderatori, a u određenim slučajevima i vanjski partneri koji sudjeluju u operativnim procesima platforme.
 
