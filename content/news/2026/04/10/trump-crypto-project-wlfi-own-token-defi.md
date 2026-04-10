@@ -65,9 +65,9 @@ This does not necessarily indicate that the system is broken, but it does highli
 
 ## Timing and additional questions
 
-Further attention is drawn to the fact that tens of millions of dollars were transferred to Coinbase Prime shortly before major political and geopolitical announcements related to Trump. While the project denies any wrongdoing, this timing adds to speculation and calls for greater transparency.
+Further attention is drawn to the fact that tens of millions of dollars were transferred to Coinbase Prime shortly before major political and geopolitical announcements related to Trump-linked developments. While the project denies any wrongdoing, this timing adds to speculation and calls for greater transparency.
 
-As Metaadvisor notes, situations like this do not automatically imply misconduct, but they clearly demonstrate how sensitive DeFi systems become when large capital flows, connected actors, and limited liquidity intersect.
+These situations do not automatically imply misconduct, but they clearly demonstrate how sensitive DeFi systems become when large capital flows, connected actors, and limited liquidity intersect.
 
 ## Conclusion
 
