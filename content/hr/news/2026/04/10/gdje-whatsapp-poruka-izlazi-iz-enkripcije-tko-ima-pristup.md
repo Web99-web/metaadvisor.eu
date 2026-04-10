@@ -38,7 +38,7 @@ Jedna od ključnih točaka je funkcija prijave sadržaja. Kada korisnik prijavi 
 
 Prema javno dostupnim informacijama i načinu na koji je funkcija prijave opisana, prilikom klika na “Report” korisnik daje privolu za slanje dijela komunikacije na pregled, obično kroz kratku obavijest unutar aplikacije. Iako to nije skriveni proces, u praksi većina korisnika nije u potpunosti svjesna koliko konkretnih podataka time dijeli. Važno je naglasiti da se ovakav opis temelji na dostupnim informacijama i može varirati ovisno o verziji aplikacije i postavkama korisnika.
 
-Takav sadržaj mogu obrađivati automatizirani sustavi, ali i ljudski moderatori, a u određenim slučajevima i vanjski partneri koji sudjeluju u operativnim procesima platforme.
+Takav sadržaj mogu obrađivati automatizirani sustavi, ali i ljudski moderatori, a u određenim slučajevima i vanjski partneri koji sudjeluju u operativnim procesima platforme. Moguće je da mnogi korisnici nisu bili svjesni da u određenim situacijama njihova komunikacija može biti pregledana izvan same platforme. Upravo tu u priču ulazi kompanija Accenture — globalni operativni sustav kojeg koriste neke BigTech firme.
 
 {{< support1 >}}
 
