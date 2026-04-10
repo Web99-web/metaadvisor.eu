@@ -19,4 +19,4 @@ Most crypto privacy models weaken as blockchain data grows. Encryption-based mod
 
 As blockchain adoption scales, the metadata available to machine learning models scales with it. Obfuscation-based privacy approaches are structurally degrading as a result. This report provides a comprehensive comparison of all five major crypto privacy architectures and a framework for evaluating which models remain durable as AI capabilities improve.
 
-The level that has capped every rally during the six-week war remains intact, with analysts saying $75,000 needs to break before the market enters a genuine bullish
+The stock has plunged roughly 99% from its May 2025 peak as pressure builds on the bitcoin treasury

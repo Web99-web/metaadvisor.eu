@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-The AI company argued that such rules would force it to feed its AI chatbot Grok with data aligned with Colorado’s political views rather than striving to be “maximally truth seeking.”
+xAI argues that the law could force Grok to align with state-defined standards, which would conflict with its goal of “maximally truth-seeking” AI.
 
 Elon Musk’s artificial intelligence company, xAI, has filed a lawsuit against the state of Colorado, seeking to block incoming AI rules that restrict speech from AI chatbots like Grok.
 
@@ -33,4 +33,4 @@ The Colorado and California AI laws come after accusations of Grok making racist
 
 White House AI czar David Sacks has led a push for state regulators to steer clear of crafting AI rules, arguing for a single federal standard for AI instead of a "patchwork" of state laws.
 
-“The problem that
+“The problem that we're seeing right now is that you've

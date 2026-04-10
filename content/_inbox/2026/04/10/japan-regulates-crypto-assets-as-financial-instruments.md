@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-The Japanese Cabinet reclassified crypto as a financial instrument and will enforce insider trading bans and annual disclosure mandates for issuers.
+Japan tightens oversight with insider-trading bans and new disclosure rules as crypto markets attract more institutional participation.
 
 The Japanese government amended the Financial Instruments and Exchange Act on Friday to classify crypto assets as financial instruments.
 
@@ -33,4 +33,4 @@ Related: Prediction markets are testing legal limits in strict Asian markets
 
 Japan signaled that it was bringing crypto under the same umbrella as traditional finance in January when Katayama said, “To ensure citizens benefit from digital and blockchain-based assets, the role of exchanges and market infrastructure will be essential.”
 
-The government backed plans in December to significantly
+The government backed plans in December to significantly reduce Japan’s

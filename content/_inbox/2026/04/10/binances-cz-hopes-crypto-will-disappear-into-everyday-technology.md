@@ -15,7 +15,7 @@ _build:
 
 Some industry insiders speculate the crypto sector may be just one market cycle away from full-scale mainstream adoption.
 
-Binance co-founder Changpeng ‘CZ’ Zhao said he hopes that cryptocurrencies and blockchain will simply become an invisible part of daily infrastructure by 2031, much like the internet today.
+Binance co-founder Changpeng “CZ” Zhao said he hopes that cryptocurrencies and blockchain will simply become an invisible part of daily infrastructure by 2031, much like the internet today.
 
 Speaking on Scott Melker’s Wolf of All Streets podcast posted Thursday, Zhao said that while new use cases and advances will continue to emerge, he hopes talk of the technology will subside as it becomes part of everyday life.
 
