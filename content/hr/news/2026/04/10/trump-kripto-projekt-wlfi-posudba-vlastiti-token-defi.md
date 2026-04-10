@@ -15,7 +15,7 @@ thumbnail: "/images/wlfi.png"
 image_alt: "DeFi sustav i kolateralizacija vlastitog tokena"
 image_credit: "Metaadvisor ilustracija"
 tags: ["crypto", "kripto", "bitcoin", "btc", "defi", "wlfi", "trump", "stablecoin", "likvidnost", "rizik", "dolomite", "posudba", "token", "regulacija"]
-summary: "Kripto projekt povezan s Trumpom koristi vlastiti token kao kolateral za posudbu milijuna dolara, što otvara pitanja o likvidnosti, strukturi i potencijalnom zatvorenom krugu unutar DeFi sustava."
+summary: "Kripto projekt povezan s Trumpom koristi vlastiti token kao kolateral za posudbu desetaka milijuna dolara, što otvara pitanja o likvidnosti, strukturi i potencijalnom zatvorenom krugu unutar DeFi sustava."
 ---
 
 _Slika je simbolična._
@@ -29,61 +29,59 @@ _Slika je simbolična._
 
 # Trumpov kripto projekt posuđuje protiv vlastitog tokena: zatvoreni krug u DeFi sustavu
 
-Kripto projekt World Liberty Financial (WLFI), povezan s obitelji Donalda Trumpa, našao se u središtu pažnje nakon niza transakcija koje otvaraju pitanja o tome kako decentralizirane financije zaista funkcioniraju kada su u igri veliki iznosi i povezani akteri. Prema dostupnim on-chain podacima, projekt je koristio vlastiti token kao kolateral kako bi posudio desetke milijuna dolara u stablecoinima, unutar sustava u kojem istovremeno drži značajan dio ukupne likvidnosti.
+Kripto projekt World Liberty Financial (WLFI), povezan s obitelji Donalda Trumpa, našao se u središtu pozornosti nakon niza transakcija koje otvaraju temeljna pitanja o tome kako decentralizirane financije doista funkcioniraju kada su u igri veliki kapital i međusobno povezani akteri. Prema on-chain podacima, projekt je koristio vlastiti token kao kolateral kako bi posudio desetke milijuna dolara u stablecoinima, i to unutar sustava u kojem istovremeno kontrolira značajan dio ukupne likvidnosti.
 
-Na prvi pogled, ovakav model ne odudara od standardnih DeFi praksi, gdje korisnici polažu kolateral i posuđuju sredstva protiv njega. Međutim, razlika u ovom slučaju leži u činjenici da je kolateral upravo token samog projekta, dok se posudba odvija unutar protokola s kojim postoji izravna povezanost. Upravo ta kombinacija otvara prostor za pitanja o strukturi sustava i potencijalnom zatvorenom krugu financiranja.
-
-## Kako funkcionira model posudbe
-
-Prema analizi transakcija, WLFI je početkom veljače položio oko 14 milijuna USD1, vlastitog stablecoina, kao kolateral unutar DeFi protokola Dolomite te na temelju toga posudio oko 11.4 milijuna USDC-a. Nedugo zatim, sredstva su prebačena na Coinbase Prime, platformu koja se koristi za institucionalno trgovanje i konverziju kripto imovine u fiat.
-
-Nekoliko dana kasnije, dodatnih 12.5 milijuna USD1 poslano je izravno iz treasury walleta prema istoj destinaciji, bez prolaska kroz protokol, što sugerira da je projekt koristio vlastitu likvidnost za izravan izlaz iz kripto sustava. Ovakav potez dodatno komplicira sliku jer se dio aktivnosti odvija unutar DeFi sustava, a dio izvan njega.
+Na prvi pogled, ovakav model ne odudara od standardnih DeFi praksi u kojima korisnici polažu kolateral i posuđuju sredstva protiv njega. Međutim, ključna razlika, prema on-chain podacima o kojima izvještava CoinDesk, jest u tome što je kolateral upravo token samog projekta, dok se posudba odvija unutar protokola koji ima izravne veze s istim ekosustavom. To otvara pitanja o strukturi sustava i mogućnosti postojanja zatvorenog financijskog kruga.
 
 {{< support1 >}}
 
+## Kako funkcionira model posudbe
 
-## Eksplozija kolaterala i rast zaduženja
+Prema analizi transakcija, WLFI je početkom veljače položio oko 14 milijuna USD1, vlastitog stablecoina, kao kolateral unutar DeFi protokola Dolomite te na temelju toga posudio približno 11,4 milijuna USDC-a. Nedugo nakon toga, sredstva su prebačena na Coinbase Prime, platformu koja se koristi za institucionalno trgovanje i konverziju kripto imovine u fiat.
 
-Sredinom veljače i krajem ožujka dolazi do naglog povećanja aktivnosti. WLFI polaže gotovo 2 milijarde vlastitih tokena kao kolateral te posuđuje dodatne stablecoine, čime ukupna posuđena sredstva dosežu desetke milijuna dolara. Procjene iz različitih izvora, uključujući analize objavljene na društvenoj mreži X, sugeriraju da je ukupni iznos posudbi mogao dosegnuti i oko 75 milijuna dolara.
+Samo nekoliko dana kasnije, dodatnih 12,5 milijuna USD1 poslano je izravno iz treasury walleta prema istoj destinaciji, bez prolaska kroz protokol. To sugerira da je projekt koristio vlastitu likvidnost za izravan izlaz prema fiat tržištu. Kombinacija internih DeFi aktivnosti i vanjskih “off-ramp” transakcija dodatno povećava kompleksnost cijele strukture.
 
-Istovremeno, ukupna količina WLFI tokena korištenih kao kolateral nastavlja rasti, a projekt se pozicionira kao dominantan izvor likvidnosti unutar samog protokola. Time se dodatno briše granica između korisnika sustava i njegovog ključnog pokretača.
+## Ekspanzija kolaterala i rast zaduženja
 
-## Strukturni rizik i koncentracija moći
+Sredinom veljače i krajem ožujka aktivnost se značajno povećava. WLFI polaže gotovo 2 milijarde vlastitih tokena kao kolateral te posuđuje dodatne stablecoine, čime ukupni iznos posuđenih sredstava raste na desetke milijuna dolara. Procjene iz različitih izvora, uključujući analize objavljene na platformi X, sugeriraju da bi ukupna posudba mogla dosegnuti i oko 75 milijuna dolara.
 
-Ključni problem ovog modela leži u koncentraciji. WLFI čini oko 55% ukupne likvidnosti unutar Dolomite protokola, što znači da u velikoj mjeri utječe na njegovo funkcioniranje. Istovremeno, protokol je povezan s osobama koje imaju savjetničku ulogu u projektu, čime se dodatno pojačava percepcija zatvorenog kruga.
-
-U takvoj strukturi isti entitet može osiguravati likvidnost, koristiti vlastiti token kao kolateral i posuđivati sredstva iz sustava koji sam u velikoj mjeri kontrolira. Iako to tehnički može biti izvedivo, postavlja se pitanje održivosti i transparentnosti.
-
+Istovremeno, količina WLFI tokena zaključanih kao kolateral nastavlja rasti, a projekt se pozicionira kao dominantan izvor likvidnosti unutar samog protokola. Time se sve više briše granica između sudionika sustava i njegovog glavnog pokretača.
 
 {{< support2 >}}
 
+## Strukturni rizik i koncentracija moći
+
+Ključni problem ovog modela leži u koncentraciji. WLFI čini oko 55% ukupne likvidnosti unutar Dolomite protokola, što mu daje značajan utjecaj na funkcioniranje sustava. Istovremeno, postoje veze između protokola i osoba koje imaju savjetničke uloge u projektu, što dodatno pojačava percepciju zatvorenog kruga.
+
+U takvoj strukturi isti akter može osiguravati likvidnost, koristiti vlastiti token kao kolateral i posuđivati sredstva iz sustava koji sam u velikoj mjeri kontrolira. Iako je to tehnički izvedivo, otvara ozbiljna pitanja o održivosti i transparentnosti.
+
 ## Likvidnost pod pritiskom
 
-Dodatnu zabrinutost izazivaju podaci o iskorištenosti likvidnosti. Prema nekim procjenama, stablecoin pool unutar protokola iskorišten je i do 90%, što znači da je većina sredstava već posuđena. U takvim uvjetima, korisnici koji žele povući sredstva mogli bi se suočiti s ograničenjima ili kašnjenjima.
+Dodatnu zabrinutost izaziva iskorištenost likvidnosti. Neke neprovjerene procjene podijeljene na platformi X sugeriraju da bi glavni stablecoin pool mogao biti iskorišten i do razine od oko 90%, što znači da je većina dostupne likvidnosti već posuđena. U takvim uvjetima, korisnici koji pokušavaju povući sredstva mogli bi se suočiti s kašnjenjima ili ograničenjima.
 
-Takav scenarij ne znači nužno da je sustav neispravan, ali ukazuje na povećani rizik u situacijama kada više korisnika istovremeno pokuša izaći iz sustava. Upravo u tim trenucima postaje jasno koliko je likvidnost ključna komponenta stabilnosti.
+To ne znači nužno da je sustav neispravan, ali ukazuje na povećani rizik u situacijama kada više sudionika istovremeno pokušava izaći iz sustava. Upravo u takvim trenucima likvidnost postaje ključni faktor stabilnosti.
 
 ## Tajming i dodatna pitanja
 
-Posebnu pozornost privlači činjenica da je više desetaka milijuna dolara prebačeno prema Coinbase Prime neposredno prije važnih političkih objava povezanih s Trumpom. Iako iz projekta odbacuju bilo kakve nepravilnosti, ovakav tajming dodatno potiče interes javnosti i potrebu za većom transparentnošću.
+Posebnu pozornost privlači činjenica da su deseci milijuna dolara prebačeni na Coinbase Prime neposredno prije važnih političkih i geopolitičkih događanja povezanih s Trumpom. Iako projekt negira bilo kakve nepravilnosti, takav tajming dodatno potiče interes i zahtjeve za većom transparentnošću.
 
-Ovakve situacije ne moraju nužno značiti nepravilnosti, ali pokazuju koliko su DeFi sustavi osjetljivi kada se u njima isprepliću veliki kapital, povezani akteri i ograničena likvidnost.
+Ovakve situacije ne moraju nužno značiti nepravilnosti, ali jasno pokazuju koliko DeFi sustavi postaju osjetljivi kada se u njima spoje veliki kapital, povezani akteri i ograničena likvidnost.
 
 ## Zaključak
 
-Slučaj World Liberty Financiala otvara važna pitanja o granicama decentraliziranih financija. Kada isti akter istovremeno osigurava likvidnost, koristi vlastiti token kao kolateral i posuđuje sredstva iz sustava, postavlja se pitanje gdje završava decentralizacija, a gdje počinje kontrolirani financijski krug.
+Slučaj World Liberty Financiala otvara važna pitanja o granicama decentraliziranih financija. Kada jedan akter istovremeno osigurava likvidnost, koristi vlastiti token kao kolateral i posuđuje sredstva iz istog sustava, granica između decentralizacije i kontroliranog financijskog kruga postaje sve nejasnija.
 
-Za korisnike i investitore, ključna lekcija ostaje ista: razumijevanje strukture sustava jednako je važno kao i praćenje cijena. Jer u trenutku kada likvidnost postane ograničena, pravila igre mogu se promijeniti brže nego što se očekuje.
+Za korisnike i investitore ključna lekcija ostaje ista: razumijevanje strukture sustava jednako je važno kao i praćenje cijena. Jer kada likvidnost postane ograničena, pravila igre mogu se promijeniti brže nego što se očekuje.
 
 ---
 
 ### Naš osvrt (Metaadvisor):
 
-- DeFi omogućuje inovativne modele financiranja, ali ovakvi slučajevi pokazuju i njegove slabosti  
-- Korištenje vlastitog tokena kao kolaterala povećava rizik u slučaju pada cijene  
-- Visoka koncentracija likvidnosti u rukama jednog aktera smanjuje otpornost sustava  
+- DeFi omogućuje inovativne modele financiranja, ali ovakvi slučajevi otkrivaju njegove slabosti  
+- Korištenje vlastitog tokena kao kolaterala povećava sistemski rizik u slučaju pada cijene  
+- Visoka koncentracija likvidnosti smanjuje otpornost sustava  
 - Povezanost između projekta i infrastrukture otvara pitanje sukoba interesa  
-- Transparentnost i upravljanje rizikom postaju ključni za dugoročnu održivost DeFi tržišta  
+- Transparentnost i upravljanje rizikom ključni su za dugoročnu stabilnost  
 
 ---
 
