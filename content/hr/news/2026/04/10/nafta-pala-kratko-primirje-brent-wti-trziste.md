@@ -30,9 +30,11 @@ Nafta je pala — ali samo onoliko koliko je trajalo primirje.
 
 ##  Kratki pad koji je trajao koliko i vijest
 
-U trenutku objave vijesti o primirju, tržište je reagiralo gotovo trenutno. Cijena Brent nafte pala je s razina iznad 100 USD na oko 91–97 USD, dok je WTI (West Texas Intermediate) pao čak i nešto dublje, približavajući se razini od 90–96 USD po barelu.
+U trenutku objave vijesti o primirju, tržište je reagiralo gotovo trenutno. Cijena Brent nafte pala je s razina iznad 100 USD na oko 91–97 USD, dok je WTI (West Texas Intermediate) pao još nešto dublje, približavajući se razini od 90–96 USD po barelu.
 
-No, taj pad trajao je jednako kratko kao i povjerenje u primirje. Čim su se pojavile prve sumnje u njegovu održivost, tržište je napravilo nagli zaokret. Cijene su ponovno krenule prema gore, kao da se ništa nije dogodilo, potvrđujući koliko su današnja tržišta osjetljiva na političke signale — čak i kada su nepotvrđeni. Već unutar sljedećih 24 sata, kako su se pojavile sumnje u stabilnost primirja, cijene su se ponovno oporavile. Brent se vratio prema 97 USD, dok se WTI kretao u rasponu 97–99 USD, brišući velik dio prethodnog pada.
+No, taj pad trajao je jednako kratko kao i povjerenje u primirje. Čim su se pojavile prve sumnje u njegovu održivost, tržište je napravilo nagli zaokret. Cijene su ponovno krenule prema gore, kao da se ništa nije dogodilo, potvrđujući koliko su današnja tržišta osjetljiva na političke signale — čak i kada su nepotvrđeni.
+
+Već unutar sljedećih 24 sata, kako su se pojavile sumnje u stabilnost primirja, cijene su se ponovno oporavile. Brent se vratio prema 97 USD, dok se WTI kretao u rasponu 97–99 USD, brišući velik dio prethodnog pada. U trenutku pisanja, Brent se kreće oko 91 USD, dok je WTI oko 92 USD, što dodatno potvrđuje koliko su oscilacije brze i nepredvidive.
 
 ##  Tržište više ne reagira na ekonomiju — nego na vijesti
 
