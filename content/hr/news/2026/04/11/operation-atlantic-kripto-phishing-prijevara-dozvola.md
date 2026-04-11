@@ -1,13 +1,13 @@
 ---
-title: "Operation Atlantic: 20.000 žrtava i nova kripto prijevara koja ne traži novac nego dozvolu"
+title: "Operation Atlantic: zamrznuto $12M, više od 20.000 žrtava u novoj kripto prijevari"
 slug: "operation-atlantic-kripto-phishing-prijevara-dozvola"
 date: 2026-04-11T10:30:00+01:00
 category: "crypto"
 translationKey: "12fbf9a6ce57faa6450dc4337bf509fd"
-author: "Cointelegraph"
+author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-source: "Cointelegraph"
-source_url: "https://cointelegraph.com/news/operation-atlantic-crypto-approval-phishing-freezes"
+source: "Cointelegraph, CoinDesk, Binance, NCA"
+source_url: ""
 image_url: "/images/hacker.png"
 featured_image: "/images/hacker.png"
 image: "/images/hacker.png"
