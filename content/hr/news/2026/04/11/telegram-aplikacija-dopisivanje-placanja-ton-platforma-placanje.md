@@ -53,16 +53,16 @@ To znači stabilniji doseg, veću kontrolu nad publikom i manje ovisnosti o prom
 
 ## TON kao tehnološka osnova
 
-U pozadini ovog razvoja nalazi se The Open Network (TON), blockchain infrastruktura koja omogućuje brze i skalabilne transakcije unutar Telegram ekosustava. Iako formalno neovisan, TON je danas ključni tehnološki sloj koji omogućuje financijske i aplikacijske funkcionalnosti.
+U pozadini ovog razvoja nalazi se The Open Network (TON), blockchain koji je izvorno razvijen unutar Telegrama, ali je nakon regulatornih pritisaka izdvojen i danas funkcionira kao neovisan projekt. Unatoč formalnoj odvojenosti, TON je i dalje duboko integriran u Telegram ekosustav i predstavlja ključni tehnološki sloj za financijske i aplikacijske funkcionalnosti unutar same aplikacije. 
 
-Najnovija nadogradnja dodatno je ubrzala mrežu. Transakcije koje su ranije trajale oko 10 sekundi sada se potvrđuju u približno jednoj sekundi, dok se blokovi stvaraju svakih 400 milisekundi. Takva brzina približava blockchain iskustvo klasičnim aplikacijama i omogućuje korištenje bez tehničkih prepreka.
+Njegova snaga leži u praktičnoj primjeni — koristi se unutar Telegrama **za mini aplikacije**, **igre** i **“tap-to-earn” modele**, gdje funkcionira kao valuta, sustav nagrađivanja i infrastruktura. Izvan Telegrama omogućuje brze peer-to-peer transakcije, plaćanja i razvoj decentraliziranih aplikacija, uz dodatne slojeve poput **TON Storage**, **TON Proxy** i **TON DNS**. **Dok većina blockchain projekata traži korisnike, TON ih već ima kroz Telegram.**
 
 
 {{< support2 >}}
 
 ## Brzina kao ključ masovnog usvajanja
 
-Jedan od najvećih izazova blockchain tehnologije oduvijek je bila brzina. Korisnici su navikli na instant aplikacije, a svako kašnjenje predstavlja prepreku za šire prihvaćanje. Upravo tu TON pokušava napraviti iskorak.
+Jedan od najvećih izazova blockchain tehnologije oduvijek je bila brzina. Korisnici su navikli na instant aplikacije, a svako kašnjenje predstavlja prepreku za šire prihvaćanje. Upravo tu TON pokušava napraviti iskorak. Najnovija nadogradnja dodatno je ubrzala mrežu. Transakcije koje su ranije trajale oko 10 sekundi sada se potvrđuju u približno jednoj sekundi, dok se blokovi stvaraju svakih 400 milisekundi. **Takva brzina približava blockchain iskustvo klasičnim aplikacijama** i omogućuje korištenje bez tehničkih prepreka, što je ključno za šire prihvaćanje.
 
 S gotovo trenutačnim transakcijama i integracijom unutar aplikacije koju koristi više od milijardu ljudi, Telegram ima potencijal ubrzati usvajanje digitalnih financijskih alata na globalnoj razini.
 
