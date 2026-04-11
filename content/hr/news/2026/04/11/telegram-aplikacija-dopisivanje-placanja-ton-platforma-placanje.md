@@ -46,7 +46,7 @@ Takav pristup briše granicu između komunikacije i transakcije. Umjesto korišt
 
 ## Novi kanal za publiku i poslovanje
 
-Za projekte i medije, Telegram postaje jedan od najvažnijih kanala distribucije. Za razliku od platformi koje koriste algoritme za filtriranje sadržaja, Telegram omogućuje direktan kontakt s publikom. Kada korisnik prati kanal, sadržaj dolazi direktno do njega, bez posrednika.
+**Za projekte i medije, Telegram postaje jedan od najvažnijih kanala distribucije**. Za razliku od platformi koje koriste algoritme za filtriranje sadržaja, Telegram omogućuje direktan kontakt s publikom. Kada korisnik prati kanal, sadržaj dolazi direktno do njega, bez posrednika.
 
 To znači stabilniji doseg, veću kontrolu nad publikom i manje ovisnosti o promjenama algoritama. Upravo zbog toga sve više projekata koristi Telegram kao primarni kanal komunikacije i promocije.
 
