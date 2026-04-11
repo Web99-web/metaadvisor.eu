@@ -28,7 +28,7 @@ _Slika je simbolična._
 
 # Telegram: od aplikacije za dopisivanje do platforme za plaćanja, aplikacije i biznis
 
-Za većinu korisnika Telegram je i dalje aplikacija za dopisivanje. No iza te jednostavne funkcije krije se jedna od najbrže rastućih digitalnih platformi na svijetu, s više od milijardu korisnika. Posebno je snažan u regijama poput Istočne Europe, Bliskog istoka i Azije, gdje služi ne samo za komunikaciju, nego i za vijesti, biznis i organizaciju zajednica.
+Za većinu korisnika Telegram je i dalje aplikacija za dopisivanje. No iza te jednostavne funkcije krije se jedna od najbrže rastućih digitalnih platformi na svijetu, s više od milijardu korisnika. Služi ne samo za komunikaciju, nego i za vijesti, biznis i organizaciju zajednica.
 
 Telegram se često percipira kao privatnija alternativa drugim platformama, ponajviše zato što ne koristi podatke korisnika u istom opsegu za oglašavanje kao druge velike tehnološke kompanije. Iako i dalje prikuplja određene metapodatke, njegov poslovni model nije utemeljen na agresivnom oglašavanju, što dodatno jača percepciju sigurnosti među korisnicima.
 
