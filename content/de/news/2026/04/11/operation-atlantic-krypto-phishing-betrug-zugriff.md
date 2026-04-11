@@ -1,5 +1,5 @@
 ---
-title: "Operation Atlantic: 20.000 Opfer und ein neuer Krypto-Betrug, der kein Geld verlangt – sondern Zugriff"
+title: "Operation Atlantic: 12 Millionen eingefroren und 20.000 Opfer – der neue Krypto-Betrug, der Zugriff statt Geld verlangt"
 slug: "operation-atlantic-krypto-phishing-betrug-zugriff"
 date: 2026-04-11T10:30:00+01:00
 category: "crypto"
