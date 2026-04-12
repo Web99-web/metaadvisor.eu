@@ -28,7 +28,7 @@ _Slika je simbolična._
 
 # TAO pod pritiskom: AI ‘Bitcoin’ i pitanje stvarne decentralizacije
 
-Kriptovaluta TAO, povezana s projektom Bittensor, posljednjih se mjeseci sve češće opisuje kao svojevrsni “AI Bitcoin”. Taj narativ temelji se na ideji decentraliziranog razvoja umjetne inteligencije, ali i na tehničkim karakteristikama poput ograničenog maksimalnog supplyja od 21 milijun tokena, što dodatno pojačava percepciju rijetkosti i dugoročne vrijednosti.
+Kriptovaluta TAO, povezana s projektom Bittensor, koji se ponekad opisuje i kao svojevrsni “AI Bitcoin”. Taj narativ temelji se na ideji decentraliziranog razvoja umjetne inteligencije, ali i na tehničkim karakteristikama poput ograničenog maksimalnog supplyja od 21 milijun tokena, što dodatno pojačava percepciju rijetkosti i dugoročne vrijednosti.
 
 Takva pozicija na tržištu donosi i određeni rizik. Kada projekt počiva ne samo na tehnologiji nego i na snažnom narativu, svaka promjena u povjerenju može imati brze i vidljive posljedice. Upravo to se dogodilo s TAO-om nakon događaja unutar samog ekosustava, koji su potaknuli raspravu o stvarnoj strukturi projekta.
 
