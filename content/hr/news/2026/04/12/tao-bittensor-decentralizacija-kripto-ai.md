@@ -44,7 +44,7 @@ Odlazak sam po sebi ne bi imao toliko snažan utjecaj da nije bio popraćen javn
 
 Takve optužbe imaju poseban efekt u projektima koji se oslanjaju na ideju decentralizacije. TAO nije samo tehnološki projekt, nego i dio šire priče o budućnosti umjetne inteligencije bez centralne kontrole, što privlači investitore i developere.
 
-Kada se ta ideja dovede u pitanje, reakcija tržišta može biti brza. Nakon objava, došlo je do pojačane prodaje i likvidacija, što je dodatno ubrzalo pad cijene. No važno je naglasiti da taj pad nije bio izoliran od šireg tržišta, koje je u istom razdoblju također pokazivalo povećanu volatilnost.
+Kada se ta ideja dovede u pitanje, reakcija tržišta može biti brza. Covenant AI je, paralelno s izlaskom iz projekta, likvidirao oko 37.000 TAO tokena, što je bilo približno $10 milijuna u tom trenutku, što je dodatno pojačalo pritisak na tržište i ubrzalo pad cijene. Nakon objava, došlo je do pojačane prodaje i likvidacija, što je dodatno ubrzalo pad cijene. No važno je naglasiti da taj pad nije bio izoliran od šireg tržišta, koje je u istom razdoblju također pokazivalo povećanu volatilnost i pad.
 
 ## Oporavak cijene i šira tržišna slika
 
