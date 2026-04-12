@@ -28,7 +28,7 @@ _Slika je simbolična._
 
 # GTA (Grand Theft Auto) na udaru hakera: Rockstar Games dobio rok do 14.4 za uplatu
 
-Hoćemo li imati priliku vidjeti GTA VI ili će hakeri promijeniti planove? To pitanje više ne zvuči kao teorija, nego kao realan scenarij nakon najnovijeg sigurnosnog incidenta koji je pogodio **Rockstar Games**.
+Hoćemo li imati priliku vidjeti **GTA VI** ili će hakeri promijeniti planove? To pitanje više ne zvuči kao teorija, nego kao realan scenarij nakon najnovijeg sigurnosnog incidenta koji je pogodio **Rockstar Games**.
 
 Na prvi pogled, riječ je o još jednom hakiranju velike kompanije. No ovaj slučaj otkriva puno dublji problem — način na koji moderne firme funkcioniraju i koliko su ovisne o vanjskim partnerima. **Rockstar Games** nije hakiran direktno. Napad se dogodio kroz njihovog dobavljača, što je bilo dovoljno da se kompromitira cijeli sustav.
 
@@ -36,7 +36,7 @@ Na prvi pogled, riječ je o još jednom hakiranju velike kompanije. No ovaj slu�
 
 Iza napada stoji hakerska grupa **ShinyHunters**, aktivna od **2019. godine**, poznata po krađi podataka i modelu ucjene “pay or leak”. Tijekom godina povezivani su s napadima na **Microsoft**, **Cisco**, **Ticketmaster**, ali i institucije unutar **Europske unije**.
 
-Posebno je važno naglasiti da su **ShinyHunters** prije samo dva tjedna povezani s napadom na EU, što smo analizirali u članku <a href="https://metaadvisor.eu/hr/news/eu-hack-trufflehog-supply-chain-napad/" style="color:inherit; text-decoration:none;">EU hakirana kroz sigurnosni alat: kako je jedan download otvorio vrata napadu</a>. To pokazuje da se ne radi o izoliranom incidentu, nego o obrascu koji se ponavlja.
+Posebno je važno naglasiti da su **ShinyHunters** prije samo dva tjedna povezani s napadom na EU, što smo analizirali u članku **<a href="https://metaadvisor.eu/hr/news/eu-hack-trufflehog-supply-chain-napad/" style="color:inherit; text-decoration:none;">EU hakirana kroz sigurnosni alat: kako je jedan download otvorio vrata napadu</a>.** To pokazuje da se ne radi o izoliranom incidentu, nego o obrascu koji se ponavlja.
 
 {{< support1 >}}
 
