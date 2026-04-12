@@ -1,20 +1,20 @@
 ---
-title: "Bitcoin skočio prema $74K pa pao ispod $72K: tržište reagira na propale pregovore SAD–Iran"
-slug: "bitcoin-74k-pad-ispod-72k-sad-iran-pregovori"
-date: 2026-04-12T20:00:00+01:00
+title: "BTC pad od $2.000: s gotovo $74K na ispod $72K nakon propalih pregovora SAD–Iran"
+slug: "btc-pad-2000-74k-72k-propali-pregovori-sad-iran"
+date: 2026-04-12T06:00:00+01:00
 category: "crypto"
 translationKey: "btc-us-iran-negotiations-volatility-2026"
 author: "Metaadvisor.eu"
 source: "CoinDesk, Cointelegraph"
-source_url: "https://www.coindesk.com/markets/2026/04/11/bitcoin-and-other-cryptos-fall-as-u-s-iranian-negotiators-fail-to-reach-war-resolution"
-image_url: "/images/bitcoin-volatility.png"
-featured_image: "/images/bitcoin-volatility.png"
-image: "/images/bitcoin-volatility.png"
-thumbnail: "/images/bitcoin-volatility.png"
-image_alt: "Bitcoin volatilnost i nagli pad cijene nakon vijesti"
+source_url: ""
+image_url: "/images/btc3.jpg"
+featured_image: "/images/btc3.jpg"
+image: "/images/btc3.jpg"
+thumbnail: "/images/btc3.jpg"
+image_alt: "Bitcoin nagli pad cijene s 74000 na ispod 72000"
 image_credit: "Metaadvisor ilustracija"
-tags: ["bitcoin", "btc", "crypto", "geopolitika", "volatilnost", "tržište", "trading"]
-summary: "Bitcoin je kratko porastao prema $74.000 prije nego što je naglo pao ispod $72.000 nakon vijesti o neuspjelim pregovorima SAD-a i Irana, ali tržište se i dalje drži unutar ključnog sideways raspona."
+tags: ["bitcoin", "btc", "crypto", "iran", "sad", "geopolitika", "volatilnost", "tržište"]
+summary: "Bitcoin je pao više od $2.000 odmah nakon vijesti da pregovori između SAD-a i Irana nisu uspjeli, ali unatoč tome tržište i dalje pokazuje relativnu stabilnost."
 ---
 
 _Slika je simbolična._
@@ -26,53 +26,53 @@ _Slika je simbolična._
   </a>
 </p>
 
-# Bitcoin skočio prema $74K pa pao ispod $72K: tržište reagira na propale pregovore SAD–Iran
+# BTC pad od $2.000: s gotovo $74K na ispod $72K nakon propalih pregovora SAD–Iran
 
-Bitcoin je u kratkom vremenu pokazao koliko je tržište trenutno osjetljivo na makro i geopolitičke vijesti. Tijekom rasta optimizma, cijena se približila razini od $74.000, no ubrzo nakon objave da pregovori između Sjedinjenih Američkih Država i Irana nisu rezultirali dogovorom, uslijedio je nagli pad ispod $72.000.
+Bitcoin je uoči ključnih pregovora između Sjedinjenih Američkih Država i Irana pokazivao jasan uzlazni trend, približivši se razini od $74.000. Tržište je reagiralo na očekivanja mogućeg smirivanja geopolitičkih napetosti, uključujući pitanja Hormuškog tjesnaca, nuklearnog programa i potencijalnog ublažavanja sankcija.
 
-Takvi brzi pomaci nisu neuobičajeni u okruženju povećane nesigurnosti, gdje tržište reagira gotovo trenutno na nove informacije.
+Međutim, nakon sastanka i izjave američkog potpredsjednika J.D. Vancea da dogovor nije postignut, sentiment se naglo preokrenuo. U samo nekoliko minuta Bitcoin je pao za više od $2.000, spustivši se ispod $72.000 i pokazujući koliko je tržište trenutno osjetljivo na makro vijesti.
 
-## Brza reakcija tržišta na geopolitičke vijesti
+## Geopolitika kao okidač volatilnosti
 
-Pad cijene uslijedio je ubrzo nakon izjave američkih dužnosnika da pregovori nisu doveli do produženja primirja niti konkretnog rješenja. Tržišta su ovakve vijesti protumačila kao povećanje rizika, što je potaknulo kratkoročni izlazak iz rizične imovine, uključujući kriptovalute.
+Pregovori su obuhvaćali ključne teme poput sigurnosti Hormuškog tjesnaca, nuklearnih ograničenja, ratnih reparacija i ukidanja sankcija. Neuspjeh da se postigne dogovor povećao je percepciju globalnog rizika, što je potaknulo brzu reakciju investitora.
 
-U takvim trenucima dolazi do tzv. “risk-off” ponašanja, gdje investitori smanjuju izloženost volatilnim tržištima. Bitcoin, iako često percipiran kao alternativna imovina, u kratkom roku i dalje reagira poput rizične klase.
+Takve situacije često dovode do tzv. “risk-off” ponašanja, gdje kapital kratkoročno izlazi iz volatilnih tržišta poput kripta.
 
 {{< support1 >}}
 
-## Likvidacije i ubrzanje pada
+## Likvidacije dodatno ubrzale pad
 
-Nagli pad nije bio uzrokovan samo sentimentom, već i tehničkim faktorima. Kako je cijena počela padati, aktivirao se niz likvidacija na tržištu derivata, što je dodatno ubrzalo silazni pokret.
+Osim promjene sentimenta, pad je ubrzan tehničkim faktorima. Kako je cijena krenula prema dolje, aktivirao se niz likvidacija leveraged pozicija na derivatnim tržištima.
 
-Takav “liquidation cascade” efekt često dovodi do vertikalnih padova, jer burze automatski zatvaraju leveraged pozicije. U tom kontekstu, pad od nekoliko tisuća dolara u vrlo kratkom vremenu postaje razumljiv.
+Ovaj efekt, poznat kao “liquidation cascade”, često rezultira naglim i vertikalnim padovima, gdje automatske prodaje dodatno pojačavaju silazni trend.
 
-## Unatoč padu – tržište ostaje u sideways rasponu
+## Unatoč padu – tržište ostaje stabilno
 
-Unatoč volatilnosti, šira slika ostaje relativno stabilna. Bitcoin se i dalje kreće unutar raspona od približno $69.000 do $72.000, što sugerira da tržište još uvijek nije odlučilo o sljedećem većem smjeru.
+Unatoč snažnoj reakciji na vijest, Bitcoin se i dalje kreće unutar relativno uskog raspona između približno $69.000 i $72.000. To sugerira da tržište, unatoč kratkoročnim šokovima, još uvijek nije izgubilo strukturu.
 
-Ovaj sideways kanal često se promatra kao zona akumulacije ili konsolidacije, gdje se balansiraju kupci i prodavatelji prije jačeg pomaka u jednom smjeru.
+Takva stabilnost u uvjetima globalne nesigurnosti često se tumači kao znak otpornosti i potencijalne konsolidacije prije većeg pomaka.
 
 {{< support2 >}}
 
-## Ključne razine i potencijalni scenariji
+## Potencijal rasta i makro kontekst
 
-Trenutna situacija stavlja fokus na nekoliko ključnih razina. Gornja granica oko $74.000 predstavlja zonu otpora koju tržište zasad nije uspjelo održivo probiti. S druge strane, područje između $69.000 i $70.000 ostaje važna zona podrške.
+Prema dostupnim podacima, pomak Bitcoina prema $76.000 predstavljao bi rast od oko 6,1% u odnosu na razinu od približno $71.646. Ethereum bi s rastom prema $2.400 mogao ostvariti oko 8% dobitka.
 
-Prema pojedinim analitičarima, proboj iznad viših razina mogao bi otvoriti prostor za nastavak uzlaznog trenda, dok bi gubitak donjih razina povećao rizik dublje korekcije.
+Istovremeno, podaci s predikcijskog tržišta Kalshi pokazuju pad očekivanja recesije. Vjerojatnost recesije u 2026. procjenjuje se na oko 24%, što je smanjenje od 10% u posljednjih 30 dana.
+
+Takav makro okvir sugerira da, unatoč kratkoročnim geopolitičkim šokovima, šire tržište i dalje zadržava određeni stupanj optimizma.
 
 ## Zaključak
 
-Kretanje Bitcoina u posljednjim satima pokazuje koliko su tržišta trenutno osjetljiva na vanjske događaje. Brzi rast prema $74.000 i jednako brz pad ispod $72.000 nisu nužno znak promjene dugoročnog trenda, već prije odraz kratkoročne nesigurnosti.
-
-Za sada, tržište ostaje u fazi konsolidacije, a daljnji smjer ovisit će o kombinaciji makroekonomskih faktora, geopolitike i tehničkih razina.
+Nagla promjena cijene Bitcoina s gotovo $74.000 na ispod $72.000 jasno pokazuje koliko brzo tržište reagira na geopolitičke vijesti. Ipak, činjenica da se cijena i dalje zadržava unutar definiranog raspona sugerira da tržište nije u fazi panike, već u fazi prilagodbe.
 
 ---
 
 ### Naš osvrt (Metaadvisor)
 
-Bitcoin trenutno ne pokazuje jasan trend, već reagira na vijesti i kreće se unutar definiranog raspona. Takva situacija često prethodi većem pomaku, ali ne daje jasan signal o smjeru.
+Bitcoin trenutno balansira između kratkoročne nesigurnosti i dugoročnijeg makro optimizma. Ovakvi nagli padovi često nisu znak slabosti, već dio normalne tržišne dinamike u uvjetima povećane volatilnosti.
 
-U kratkom roku, volatilnost će vjerojatno ostati povišena, dok će tržište tražiti novi balans između optimizma i opreza.
+Upravo zato, ključ ostaje u praćenju širih trendova, a ne samo pojedinačnih vijesti.
 
 ---
 
