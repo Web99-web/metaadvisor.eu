@@ -1,5 +1,4 @@
-
-.---
+---
 title: "TAO pod pritiskom: AI ‘Bitcoin’ i pitanje stvarne decentralizacije"
 slug: "tao-bittensor-decentralizacija-kripto-ai"
 date: 2026-04-12T06:30:00+01:00
