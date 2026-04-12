@@ -58,7 +58,7 @@ To pokazuje da, iako su interni događaji imali utjecaj, tržište TAO i dalje p
 
 Važno je naglasiti da odlazak jednog tima ne znači kraj projekta. Bittensor je zamišljen kao otvorena mreža u kojoj mogu sudjelovati različiti timovi i developeri, što u teoriji omogućuje zamjenu i nastavak razvoja.
 
-Međutim, u praksi takve promjene zahtijevaju vrijeme. Timovi poput Covenant AI nose specifično znanje i iskustvo koje nije jednostavno nadoknaditi, a njihov odlazak otvara dodatna pitanja o strukturi upravljanja i dugoročnoj održivosti projekta.
+Međutim, u praksi takve promjene zahtijevaju vrijeme. Timovi poput Covenant AI nose specifično znanje i iskustvo koje nije jednostavno nadoknaditi, a njihov odlazak otvara dodatna pitanja o strukturi upravljanja i dugoročnoj održivosti projekta. Istovremeno, tržišni kontekst ide u prilog mogućem oporavku razvoja — rast umjetne inteligencije, ali i valovi otpuštanja u IT sektoru, stvaraju bazu stručnjaka koji traže nove projekte i prilike. Upravo takvi timovi mogli bi u budućnosti preuzeti dio razvoja i dodatno ojačati ekosustav, iako taj proces u pravilu nije trenutan.
 
 ## Zaključak
 
