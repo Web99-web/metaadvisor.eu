@@ -30,7 +30,7 @@ _Slika je simbolična._
 
 Bitcoin je uoči ključnih pregovora između Sjedinjenih Američkih Država i Irana pokazivao jasan uzlazni trend, približivši se razini od $74.000. Tržište je reagiralo na očekivanja mogućeg smirivanja geopolitičkih napetosti, uključujući pitanja Hormuškog tjesnaca, nuklearnog programa i potencijalnog ublažavanja sankcija.
 
-Međutim, nakon sastanka i izjave američkog potpredsjednika J.D. Vancea da dogovor nije postignut, sentiment se naglo preokrenuo. U samo nekoliko minuta Bitcoin je pao za više od $2.000, spustivši se ispod $72.000 i pokazujući koliko je tržište trenutno osjetljivo na makro vijesti.
+Međutim, nakon sastanka i izjave američkog potpredsjednika J.D. Vancea da dogovor nije postignut, sentiment se naglo preokrenuo. U vrlo kratkom vremenu Bitcoin je pao za više od $2.000, spustivši se ispod $72.000 i pokazujući koliko je tržište trenutno osjetljivo na makro vijesti.
 
 ## Geopolitika kao okidač volatilnosti
 
