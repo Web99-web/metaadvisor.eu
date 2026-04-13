@@ -53,9 +53,9 @@ U drugoj objavi dodatno naglašava kako njegov sadržaj svakodnevno preuzimaju m
 ![Dom Lucre objašnjava svoj model objava](/images/news/X-clickbait-Dom-Lucre.png)
 
 
-## Promjena pravila bez jasne granice
+## Promjena pravila 
 
-Ključni problem u cijeloj priči je činjenica da platforma nije izravno birala ovakav model, već ga je sama poticala. Monetizacija temeljena na engagementu stvorila je okruženje u kojem je količina sadržaja postala važnija od njegove kvalitete, a algoritam nagrađivao ono što najbrže privlači pažnju.
+Ključni problem u cijeloj priči je činjenica da platforma nije izravno birala ovakav model, zapravo se on spontano dogodio. Ljudi su snalažljivi i ubrzo su uvidjeli da ne moraju sami raditi sadržaj, nego masovno dijelti tuđi. Platforme dok rastu trebaju publiku i angažman i ovakvi sadržaji su sigurno svakome od nas često izmamili osmjeh ili zgražanje zavisno od sadržaja koji je postao viralan. A viralan sadržaj su trebali i ovakvi kreatori jer je on donosio novac. Od puno objava jedna je uvijek bila više klikana. Monetizacija temeljena na engagementu stvorila je okruženje u kojem je količina sadržaja postala važnija od njegove kvalitete, a algoritam nagrađivao ono što najbrže privlači pažnju. A često obraćamo pažnju na BREAKING i to je radilo godinama.
 
 Sada, kada X pokušava ograničiti takav pristup, dolazi do svojevrsnog sukoba između platforme i kreatora. Platforma tvrdi da neće ograničavati slobodu govora niti doseg, ali jasno poručuje da neće više financijski nagrađivati manipulaciju sustavom.
 
