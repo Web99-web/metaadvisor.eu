@@ -36,7 +36,10 @@ Ova promjena dolazi nakon razdoblja u kojem je upravo takav model bio potican. M
 
 U praksi, clickbait agregatori sadržaja funkcionirali su kao stalni tok informacija. Objavljivali su desetke, pa i stotine re-postova dnevno, često koristeći videozapise i vijesti koje su već kružile internetom. U mnogim slučajevima sadržaj je bio jednostavno preuzet i ponovno objavljen, bez dodatnog konteksta ili vlastitog teksta.
 
-Budimo iskreni — dio takvog sadržaja publika i dalje voli. Neki videozapisi koje viđamo godinama i dalje su smiješni ili zanimljivi, i upravo zato takve objave često postižu velik doseg. No problem nastaje kada količina takvog sadržaja počne dominirati feedom i potiskivati originalne autore.
+Budimo iskreni — dio takvog sadržaja publika i dalje voli. Mnogi videozapisi i objave koje kruže internetom godinama i dalje uspijevaju izmamiti osmijeh, šok ili nevjericu, i upravo takve reakcije čine sadržaj viralnim. A upravo je viralnost bila ključ monetizacije na platformi.
+
+U tom smislu, odnos između platforme i agregatora sadržaja dugo je funkcionirao kao svojevrsni “win-win”: platforma je dobivala promet i angažman, dok su kreatori kroz veliki volumen objava povećavali šanse da barem jedna postane viralna i donese zaradu. No problem nastaje kada količina takvog sadržaja počne dominirati feedom, potiskujući originalne autore i smanjujući ukupnu kvalitetu sadržaja.
+
 
 {{< support1 >}}
 
@@ -55,7 +58,11 @@ U drugoj objavi dodatno naglašava kako njegov sadržaj svakodnevno preuzimaju m
 
 ## Promjena pravila 
 
-Ključni problem u cijeloj priči je činjenica da platforma nije izravno birala ovakav model, zapravo se on spontano dogodio. Ljudi su snalažljivi i ubrzo su uvidjeli da ne moraju sami raditi sadržaj, nego masovno dijelti tuđi. Platforme dok rastu trebaju publiku i angažman i ovakvi sadržaji su sigurno svakome od nas često izmamili osmjeh ili zgražanje zavisno od sadržaja koji je postao viralan. A viralan sadržaj su trebali i ovakvi kreatori jer je on donosio novac. Od puno objava jedna je uvijek bila više klikana. Monetizacija temeljena na engagementu stvorila je okruženje u kojem je količina sadržaja postala važnija od njegove kvalitete, a algoritam nagrađivao ono što najbrže privlači pažnju. A često obraćamo pažnju na BREAKING i to je radilo godinama.
+Ključni problem u cijeloj priči nije to što je platforma svjesno odabrala ovakav model, već što se on gotovo prirodno razvio. Korisnici su vrlo brzo shvatili da za uspjeh na platformi ne moraju nužno stvarati vlastiti sadržaj, već mogu masovno dijeliti već postojeći i pritom ostvarivati velik doseg. U fazi rasta, platformama su bili potrebni upravo publika i angažman, a ovakav tip sadržaja to je isporučivao bez zadrške.
+
+Logika je bila jednostavna — od velikog broja objava, uvijek bi se jedna izdvojila i postala viralna. Upravo ta jedna donosila je najveći dio prihoda. Monetizacija temeljena na engagementu tako je stvorila okruženje u kojem količina sadržaja često nadmašuje njegovu kvalitetu, dok algoritam nagrađuje ono što najbrže privlači pažnju korisnika.
+
+Prema dostupnim informacijama i izjavama pojedinih kreatora, takav model mogao je donositi i značajne prihode, u nekim slučajevima i do 55.000 dolara godišnje. Dodatno, korištenje oznaka poput “BREAKING” pokazalo se iznimno učinkovitim u privlačenju pažnje — i funkcioniralo je godinama bez većih ograničenja.
 
 Sada, kada X pokušava ograničiti takav pristup, dolazi do svojevrsnog sukoba između platforme i kreatora. Platforma tvrdi da neće ograničavati slobodu govora niti doseg, ali jasno poručuje da neće više financijski nagrađivati manipulaciju sustavom.
 
