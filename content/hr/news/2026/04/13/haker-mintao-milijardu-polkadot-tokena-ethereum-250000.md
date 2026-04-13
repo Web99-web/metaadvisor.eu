@@ -30,7 +30,7 @@ summary: "Napadač je iskoristio ranjivost u bridge sustavu i stvorio tokene vri
 
 U svijetu kriptovaluta navikli smo na velike brojke i dramatične naslove, ali rijetko kada vidimo ovakav paradoks. Napadač je uspio tehnički stvoriti tokene vrijedne više od milijarde dolara, a na kraju iz cijelog napada izvukao tek djelić tog iznosa. Ovaj slučaj otkriva koliko je razlika između onoga što postoji “na papiru” u blockchainu i onoga što stvarno ima vrijednost na tržištu.
 
-Incident se dogodio U NEDJELJU 12. travnja 2026., kada je napadač iskoristio ranjivost u sustavu Hyperbridge — tehnologiji koja povezuje različite blockchain mreže. Cilj napada nije bio sam Polkadot, već infrastruktura koja omogućuje prijenos tokena između mreža poput Ethereuma i Polkadota, što se pokazalo kao ključna slabost.
+Incident se dogodio u nedjelju 12. travnja 2026., kada je napadač iskoristio ranjivost u sustavu Hyperbridge — tehnologiji koja povezuje različite blockchain mreže. Cilj napada nije bio sam Polkadot, već infrastruktura koja omogućuje prijenos tokena između mreža poput Ethereuma i Polkadota, što se pokazalo kao ključna slabost.
 
 ## Što znači “mintanje” i zašto je to opasno
 
