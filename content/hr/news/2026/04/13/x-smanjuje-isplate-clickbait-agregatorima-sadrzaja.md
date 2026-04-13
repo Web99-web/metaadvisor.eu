@@ -68,11 +68,13 @@ Sada, kada X pokušava ograničiti takav pristup, dolazi do svojevrsnog sukoba i
 
 {{< support2 >}}
 
-## Šira slika: algoritam kao sudac prihoda
+## Šira slika: promjena monetizacije, a ne vidljivosti
 
-Ova promjena otvara šire pitanje o ulozi digitalnih platformi u današnjem informacijskom prostoru. X više ne kontrolira samo što korisnici vide, već i tko od toga zarađuje. Algoritam tako postaje ključni posrednik između sadržaja i prihoda.
+Ova promjena prije svega otvara pitanje načina na koji se nagrađuje sadržaj na platformi, a ne nužno i toga što korisnici vide. X i dalje u osnovi funkcionira kroz algoritam koji preporučuje sadržaj prema interesu publike, no sada pokušava prilagoditi način na koji se taj sadržaj monetizira.
 
-Granica između legitimnog viralnog sadržaja i clickbaita pritom ostaje nejasna. Ono što je jučer donosilo zaradu, danas može biti označeno kao problematično ponašanje, bez jasnih i transparentnih kriterija.
+Smanjenje isplata clickbait agregatorima ne znači da će takav sadržaj nestati iz feeda, već da više neće biti jednako financijski potican. Time se fokus pomiče s količine prema potencijalnoj vrijednosti sadržaja, iako ostaje otvoreno pitanje kako će sustav u praksi razlikovati kvalitetan sadržaj od onoga koji je samo dobro optimiziran za pažnju.
+
+Granica između viralnog i vrijednog sadržaja i dalje nije jasno definirana, a pravi test tek slijedi — hoće li algoritam uspjeti prepoznati i nagraditi originalne autore ili će se samo promijeniti način igre bez stvarne promjene rezultata.
 
 ## Novi smjer za kreatore
 
