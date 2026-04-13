@@ -47,11 +47,11 @@ U tom smislu, odnos između platforme i agregatora sadržaja dugo je funkcionira
 
 Kako su isplate počele padati, reakcije su brzo postale vidljive. Neki veliki računi počeli su označavati svoje objave s “STOLEN” ili “STOLEN NEWS”, ali taj potez ne djeluje samo kao pokušaj transparentnosti. Naprotiv, sve više izgleda kao oblik tihog protesta. Kreatori time zapravo poručuju da nisu promijenili način rada — i dalje objavljuju isti sadržaj kao i prije — već da je platforma ta koja je preko noći promijenila pravila igre. Drugim riječima, ono što je jučer bilo nagrađivano, danas se kažnjava.
 
-Ovakav stav jasno se vidi i u objavama samih kreatora. Jedan od njih ističe kako su svi koji objavljuju isječke iz medija zapravo agregatori te da je upravo takav način rada godinama bio temelj platforme, naglašavajući da bi nagrađivanje isključivo originalnog sadržaja značilo da bi vrlo mali broj korisnika uopće mogao sudjelovati u monetizaciji.
+Ovakav stav jasno se vidi i u objavama samih kreatora. Jedan od njih Don Keith ističe kako su svi koji objavljuju isječke iz medija zapravo agregatori te da je upravo takav način rada godinama bio temelj platforme, naglašavajući da bi nagrađivanje isključivo originalnog sadržaja značilo da bi vrlo mali broj korisnika uopće mogao sudjelovati u monetizaciji.
 
 ![Primjer objave agregatora sadržaja na X platformi](/images/news/X-clickbait.png)
 
-U drugoj objavi dodatno naglašava kako njegov sadržaj svakodnevno preuzimaju mainstream mediji, tvrdeći da nije problem u “clickbaitu”, već u načinu prezentacije vijesti koji privlači pažnju publike.
+U drugoj objavi Dom Lucre dodatno naglašava kako njegov sadržaj svakodnevno preuzimaju mainstream mediji, tvrdeći da nije problem u “clickbaitu”, već u načinu prezentacije vijesti koji privlači pažnju publike.
 
 ![Dom Lucre objašnjava svoj model objava](/images/news/X-clickbait-Dom-Lucre.png)
 
