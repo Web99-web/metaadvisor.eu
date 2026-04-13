@@ -15,7 +15,7 @@ image_alt: "Hakerski napad i mintanje tokena na blockchainu"
 image_credit: "Metaadvisor.eu"
 tags: ["kripto", "crypto", "polkadot", "dot", "ethereum", "eth", "hakiranje", "blockchain", "sigurnost", "bridge", "defi", "tokeni"]
 summary: "Napadač je iskoristio ranjivost u bridge sustavu i stvorio tokene vrijedne više od milijarde dolara, ali zbog tržišne realnosti uspio je izvući tek oko 250.000 dolara."
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 *Slika je simbolična.*
 
