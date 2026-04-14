@@ -34,7 +34,7 @@ No ono što ovu situaciju čini posebno zabrinjavajućom nije samo činjenica da
 
 ## 🔓 Koji su podaci mogli biti izloženi
 
-Prema izvještajima, napadači su mogli imati pristup imenu i prezimenu korisnika, email adresi, broju telefona i adresi, ali i detaljima rezervacija te komunikaciji s hotelima. To znači da netko sada potencijalno zna gdje putujete, kada dolazite, koliko ostajete i s kim ste već komunicirali.
+Prema prvim izvještajima, napadači su mogli imati pristup **imenu i prezimenu korisnika, email adresi, broju telefona i adresi, ali i detaljima rezervacija te komunikaciji s hotelima**. To znači da netko sada potencijalno zna gdje putujete, kada dolazite, koliko ostajete i s kim ste već komunicirali.
 
 👉 Dobra vijest: financijski podaci, poput kartica, nisu kompromitirani.
 
@@ -44,7 +44,7 @@ Ali upravo to stvara lažni osjećaj sigurnosti. Jer napadačima često nije ni 
 
 ## ⚠️ Što je stvarni problem (ovo je ključno)
 
-Najveći rizik ne dolazi iz samog hacka — nego iz onoga što dolazi nakon njega. S ovakvim podacima, napadači mogu kreirati izuzetno uvjerljive phishing poruke koje izgledaju potpuno legitimno.
+Najveći rizik ne dolazi iz samog hacka — nego iz onoga što dolazi nakon njega. S ovakvim podacima, napadači mogu kreirati izuzetno uvjerljive **phishing poruke** koje izgledaju potpuno legitimno.
 
 Primjeri mogu izgledati ovako:
 
