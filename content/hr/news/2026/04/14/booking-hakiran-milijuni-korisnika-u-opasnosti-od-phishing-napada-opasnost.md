@@ -1,6 +1,6 @@
 ---
 title: "Booking hack: milijuni korisnika izloženi — ali prava opasnost tek dolazi"
-slug: "booking-hackiran-milijuni-korisnika-u-opasnosti-od-phishing-napada-opasnost"
+slug: "booking-hakiran-milijuni-korisnika-u-opasnosti-od-phishing-napada-opasnost"
 date: 2026-04-14T11:00:00+02:00
 category: "ai"
 translationKey: "booking-hack-phishing-2026"
