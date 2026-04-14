@@ -28,7 +28,7 @@ summary: "Masovno gašenje Facebook i Instagram računa ponovno otvara pitanje A
 
 # Tisuće Facebook i Instagram računa korisnika iz SAD-a, Kanade i Filipina masovno ugašene
 
-Zamislite da ne možete pročitati ovu vijest — jer ste bannani s “društvene” platforme koju svakodnevno koristite. Odjednom više nemate pristup informacijama iz svijeta, iz svog grada, pa čak ni iz vlastitog kruga ljudi.
+**Zamislite da ne možete pročitati ovu vijest — jer ste bannani s “društvene” platforme koju svakodnevno koristite.** Odjednom više nemate pristup informacijama iz svijeta, iz svog grada, pa čak ni iz vlastitog kruga ljudi.
 
 Na prvi pogled, ovo može izgledati kao još jedan tehnički problem platforme. No za mnoge korisnike, ovo nije bio privremeni glitch. Bio je to nagli i potpuni nestanak iz digitalnog svijeta.
 
