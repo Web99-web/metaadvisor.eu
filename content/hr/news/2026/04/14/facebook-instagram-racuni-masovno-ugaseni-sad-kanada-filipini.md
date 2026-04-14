@@ -32,7 +32,7 @@ Zamislite da ne možete pročitati ovu vijest — jer ste bannani s “društven
 
 Na prvi pogled, ovo može izgledati kao još jedan tehnički problem platforme. No za mnoge korisnike, ovo nije bio privremeni glitch. Bio je to nagli i potpuni nestanak iz digitalnog svijeta.
 
-Korisnici navode da su istovremeno odjavljeni sa svojih računa, bez jasnog objašnjenja i bez stvarne mogućnosti povratka. Pokušaji ponovne prijave vode samo do poruka o grešci — bez opcije žalbe ili kontakta s ljudskom podrškom. Za profile građene godinama — privatne, poslovne, zajednice — rezultat je trenutan: tišina.
+Korisnici navode da su istovremeno odjavljeni sa svojih računa, bez jasnog objašnjenja i bez stvarne mogućnosti povratka. samo do poruke da je račun onemogućen — bez opcije žalbe ili kontakta s ljudskom podrškom. Za profile građene godinama — privatne, poslovne, zajednice — rezultat je trenutan: tišina.
 
 ![](/images/Meta/Facebook-banned-people-US-Canada-Phillippines-27.03.2026.png)
 
