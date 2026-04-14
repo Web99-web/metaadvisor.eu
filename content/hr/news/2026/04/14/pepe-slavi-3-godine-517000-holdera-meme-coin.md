@@ -49,6 +49,8 @@ Većina meme coina nestane gotovo jednako brzo kako se i pojavi. Bez zajednice i
 
 Pepe, međutim, pokazuje drugačiji obrazac. Tijekom tri godine prošao je kroz više tržišnih ciklusa — rastove, padove i faze stagnacije — ali nije nestao. Štoviše, i dalje prati tržišni sentiment: kada tržište raste, raste i Pepe, a kada pada, pada zajedno s njim.
 
+Možda će netko od Pepe holdera supportati naše znanje.
+
 {{< support2 >}}
 
 ## Više od projekta: digitalna kultura
