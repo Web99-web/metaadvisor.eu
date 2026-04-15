@@ -1,7 +1,7 @@
 ---
 title: "Do you remember Pokémon Go? Niantic is now building a real-world model for AI"
 slug: "pokemon-go-niantic-ai-real-world-model"
-date: 2026-04-15T20:00:00+02:00
+date: 2026-04-15T10:00:00+02:00
 category: "ai"
 translationKey: "niantic-pokemon-go-ai-world-model-2026"
 source: "Metaadvisor (Niantic, industry reports)"
