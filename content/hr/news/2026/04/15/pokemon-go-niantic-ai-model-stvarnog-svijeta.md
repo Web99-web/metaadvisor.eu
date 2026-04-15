@@ -21,9 +21,7 @@ summary: "Pokémon Go više nije samo igra — Niantic danas koristi milijarde p
 
 # Sjećate li se Pokémon Go? Niantic sada gradi model stvarnog svijeta za AI
 
-Sjećate li se ljeta kada su ljudi masovno izlazili na ulice hvatajući Pokémone? Parkovi, trgovi i ulice bili su puni korisnika koji su kroz svoje pametne telefone tražili virtualna bića u stvarnom prostoru.
-
-U tom trenutku sve je izgledalo kao globalni gaming fenomen. Zabava, trend i kratkotrajna digitalna euforija.
+Sjećate li se ljeta kada su ljudi masovno izlazili na ulice hvatajući Pokémone? Parkovi, trgovi i ulice bili su puni korisnika koji su kroz svoje pametne telefone tražili virtualna bića u stvarnom prostoru. U tom trenutku sve je izgledalo kao globalni gaming fenomen. Zabava, trend i kratkotrajna digitalna euforija.
 
 Danas, gotovo desetljeće kasnije, ista priča dobiva potpuno novo značenje — i puno dublji kontekst.
 
