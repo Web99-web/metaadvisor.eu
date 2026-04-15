@@ -1,7 +1,7 @@
 ---
 title: "Amazon kauft Globalstar für 11,57 Mrd. $: Der Kampf um Satelliteninternet gegen Starlink beginnt"
 slug: "amazon-kauft-globalstar-satelliteninternet-starlink-konkurrenz"
-date: 2026-04-15T16:20:48Z
+date: 2026-04-15T06:20:48Z
 category: "ai"
 translationKey: "e7448e46aef52a93b528dcb3d6e77603"
 source: "The Guardian, Reuters, Bloomberg, CNBC, Financial Times, TechCrunch, The Verge, Ars Technica, Engadget"
