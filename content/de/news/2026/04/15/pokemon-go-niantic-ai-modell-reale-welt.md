@@ -1,7 +1,7 @@
 ---
 title: "Erinnern Sie sich an Pokémon Go? Niantic baut jetzt ein Modell der realen Welt für KI"
 slug: "pokemon-go-niantic-ai-modell-reale-welt"
-date: 2026-04-15T20:00:00+02:00
+date: 2026-04-15T10:00:00+02:00
 category: "ai"
 translationKey: "niantic-pokemon-go-ai-world-model-2026"
 source: "Metaadvisor (Niantic, industry reports)"
