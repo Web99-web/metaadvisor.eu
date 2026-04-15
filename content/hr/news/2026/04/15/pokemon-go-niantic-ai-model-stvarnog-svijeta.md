@@ -1,7 +1,7 @@
 ---
 title: "Sjećate li se Pokémon Go? Niantic sada gradi model stvarnog svijeta za AI"
 slug: "pokemon-go-niantic-ai-model-stvarnog-svijeta"
-date: 2026-04-15T20:00:00+02:00
+date: 2026-04-15T10:00:00+02:00
 category: "ai"
 translationKey: "niantic-pokemon-go-ai-world-model-2026"
 source: "Metaadvisor (Niantic, industry reports)"
