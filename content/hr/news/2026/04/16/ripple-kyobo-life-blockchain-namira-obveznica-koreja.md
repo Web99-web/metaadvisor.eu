@@ -1,5 +1,5 @@
 ---
-title: "Ripple i ripple: Ripple i Kyobo Life iz Koreje testiraju blockchain namiru obveznica — početak nove financijske infrastrukture"
+title: "Ripple i Kyobo Life iz Koreje testiraju blockchain namiru obveznica — početak nove financijske infrastrukture"
 slug: "ripple-kyobo-life-koreja-blockchain-namira-obveznica"
 date: 2026-04-16T14:30:00+02:00
 category: "ai"
