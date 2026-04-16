@@ -1,5 +1,5 @@
 ---
-title: "Ripple und ripple: Ripple und Kyobo Life aus Korea testen Blockchain-Abwicklung von Anleihen — Beginn einer neuen Finanzinfrastruktur"
+title: "Ripple und Kyobo Life aus Korea testen Blockchain-Abwicklung von Anleihen — Beginn einer neuen Finanzinfrastruktur"
 slug: "ripple-kyobo-life-korea-blockchain-anleihen-abwicklung"
 date: 2026-04-16T14:30:00+02:00
 category: "ai"
