@@ -1,5 +1,5 @@
 ---
-title: "Ripple and ripple: Ripple and Kyobo Life from Korea test blockchain bond settlement — the start of a new financial infrastructure"
+title: "Ripple and Kyobo Life from Korea test blockchain bond settlement — the start of a new financial infrastructure"
 slug: "ripple-kyobo-life-korea-blockchain-bond-settlement"
 date: 2026-04-16T14:30:00+02:00
 category: "ai"
