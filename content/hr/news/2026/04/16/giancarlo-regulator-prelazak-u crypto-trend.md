@@ -4,7 +4,7 @@ slug: "giancarlo-regulator-prelazak-u crypto-trend"
 date: 2026-04-16T06:00:00+02:00
 category: "ai"
 translationKey: "37c68ba9e3fb8b3cd3a486935e6f7bf4"
-source: "Metaadvisor (Cointelegraph)"
+source: "Metaadvisor (Cointelegraph, Cryptopolitan, TradingView, Gadgets360)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
 image_url: "/images/Regulator-to-crypto.png"
