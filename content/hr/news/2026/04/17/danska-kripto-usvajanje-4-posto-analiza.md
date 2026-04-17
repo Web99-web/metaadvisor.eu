@@ -34,7 +34,7 @@ Istraživanje, provedeno na uzorku od više od 3.000 građana, pokazuje da kript
 
 ## Većina ulaganja ostaje mala
 
-Čak i među onima koji posjeduju kripto, većina ulaže relativno male iznose. Najveći broj ispitanika drži manje od 10.000 danskih kruna,  (oko 1.570 američkih dolara)., što potvrđuje da kriptovalute još uvijek nisu široko prihvaćene kao ozbiljna investicijska klasa.
+Čak i među onima koji posjeduju kripto, većina ulaže relativno male iznose. **Najveći broj ispitanika drži manje od 10.000 danskih kruna,  (oko 1.570 američkih dolara)**, što potvrđuje da kriptovalute još uvijek nisu široko prihvaćene kao ozbiljna investicijska klasa.
 
 Ukupna vrijednost kripto imovine u Danskoj procjenjuje se između 317 i 847 milijuna dolara, što dodatno potvrđuje da kripto još uvijek ne igra značajnu ulogu u financijskim portfeljima građana.  
 
@@ -52,7 +52,9 @@ Danska središnja banka ističe da su domaće banke tradicionalno zauzimale opre
 
 Takav pristup mogao je ograničiti šire prihvaćanje digitalne imovine među građanima, osobito među onima koji se oslanjaju na tradicionalne financijske institucije.
 
-Uz to, raniji porezni tretman kriptovaluta u Danskoj bio je nepovoljan u usporedbi s drugim vrstama ulaganja, što je  dodatno obeshrabrivao ulaganja i smanjilo interes  šire populacije.  
+Uz to, raniji porezni tretman kriptovaluta u Danskoj bio je nepovoljan u usporedbi s drugim vrstama ulaganja, što je  dodatno obeshrabrivao ulaganja i smanjilo interes  šire populacije. 
+
+
 {{< support2 >}}
 
 ## Demografska slika: mlađi i imućniji prednjače  
