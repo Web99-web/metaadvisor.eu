@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Crypto-linked stocks surged Friday, led by a sharp rally in beaten-down digital asset treasury firms, as progress toward ending the Iran war jolted risk assets, sending bitcoin BTC $ 77,161.50 to a two-month high of $78,000.
+Crypto-linked stocks surged Friday, led by a sharp rally in beaten-down digital asset treasury firms, as progress toward ending the Iran war jolted risk assets, sending bitcoin BTC $ 76,566.57 to a two-month high of $78,000.
 
 U.S. President Donald Trump said in a Truth Social post that Iran committed to keeping open the Strait of Hormuz, a key artery for global energy markets.
 
@@ -25,7 +25,7 @@ As the headlines helped calm fears of a prolonged energy shock, crude oil tanked
 
 "By removing one of the most significant geopolitical chokepoints in the world, Iran has effectively uncorked a massive wave of liquidity and investor confidence," he added. "With oil nose diving below $85 for the first time in a month, inflation fears may finally come to an end."
 
-Bitcoin BTC $ 77,161.50 climbed to $78,000, breaking out from a two-month range that capped prices since early February and up nearly 5% over the past 24 hours.
+Bitcoin BTC $ 76,566.57 climbed to $78,000, breaking out from a two-month range that capped prices since early February and up nearly 5% over the past 24 hours.
 
 The move rippled across the broader cryptocurrency prices higher, with major altcoins ether (ETH), Solana (SOL) and XRP (XRP) posting 4%-5% gains.
 
