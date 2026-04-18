@@ -36,9 +36,7 @@ Policija je već zaplijenila oko 400.000 dolara u kriptovalutama, dok su uhićen
 
 ## Tko stoji iza operacije
 
-Prema dostupnim informacijama, među uhićenima su osobe u dobi od 18 do 20 godina, a navodni vođa grupe ima samo 18 godina.
-
-Iako mediji koriste izraz “banda od 400 ljudi”, struktura operacije bila je nešto drugačija.
+Prema dostupnim informacijama, među uhićenima su osobe u dobi od 18 do 20 godina, a navodni vođa grupe ima samo 18 godina. Iako mediji koriste izraz “banda od 400 ljudi”, struktura operacije bila je nešto drugačija.
 
 Jezgru je činila relativno mala skupina organizatora, dok je šira mreža uključivala stotine sudionika koji su sudjelovali u prijenosu i prikrivanju novca.
 
@@ -60,9 +58,7 @@ Takve transakcije često su znak pokušaja pranja novca.
 
 ## Uloga “money mule” mreže
 
-Ključ cijele operacije bila je logistika.
-
-Umjesto stotina hakera, operacija se oslanjala na takozvane “money mule” sudionike — osobe koje ustupaju svoje račune ili identitet za prijenos novca.
+Ključ cijele operacije bila je logistika. Umjesto stotina hakera, operacija se oslanjala na takozvane “money mule” sudionike — osobe koje ustupaju svoje račune ili identitet za prijenos novca.
 
 Takve mreže mogu uključivati:
 
@@ -70,15 +66,13 @@ Takve mreže mogu uključivati:
 * nezaposlene osobe
 * ljude koji nisu svjesni punog opsega aktivnosti
 
-Upravo zato brojka od 400 djeluje impresivno, iako većina uključenih nije imala direktnu ulogu u samom hakiranju.
+Upravo zato brojka od 400 djeluje impresivno, iako većina uključenih nije imala direktnu ulogu u samom hakiranju, osim što su sada povezani sa njima, jer to su osobe, koje su svjesno ili nesvjesno, sudjelovale u pranju novca.
 
 ## Što je pokrenulo istragu
 
 Cijela operacija razotkrivena je nakon što je jedna investitorica primila neuobičajeno visoku ponudu za svoje digitalne tokene.
 
-Takve ponude često su indikator pokušaja brzog pranja novca, što je u ovom slučaju dovelo do prijave policiji i pokretanja istrage.
-
-Nakon toga uslijedila su uhićenja, zapljene i daljnje praćenje financijskih tokova.
+Takve ponude često su indikator pokušaja brzog pranja novca, što je u ovom slučaju dovelo do prijave policiji i pokretanja istrage. Nakon toga uslijedila su uhićenja, zapljene i daljnje praćenje financijskih tokova.
 
 {{< support2 >}}
 
@@ -94,7 +88,7 @@ Zbog toga se sve češće koristi u fazama pranja novca, posebno u međunarodnim
 
 Priča o “maloljetničkoj bandi od 400 ljudi” zvuči dramatično — i djelomično je točna.
 
-No iza naslova krije se poznati obrazac: mala skupina organizatora i velika mreža posrednika koja omogućuje širenje operacije.
+No iza naslova krije se poznati obrazac: mala skupina organizatora i velika mreža posrednika koja omogućuje širenje operacije, a koji često ne razumiju u što se upuštaju, a još manje poznaju kripto.
 
 Razlika između percepcije i stvarnosti ključna je za razumijevanje ovakvih slučajeva.
 
