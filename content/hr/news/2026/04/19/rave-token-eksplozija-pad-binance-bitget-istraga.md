@@ -1,5 +1,5 @@
 ---
-title: "RAVE token eksplodirao s 0.25 na 28 dolara pa pao 80%: Binance i Bitget pokrenuli istragu"
+title: "RAVE pao s 28 na 1.23 u 24 sata dok Binance i Bitget istražuju tržišnu aktivnost"
 slug: "rave-token-eksplozija-pad-binance-bitget-istraga"
 date: 2026-04-19T07:30:00+02:00
 category: "crypto"
@@ -14,7 +14,7 @@ thumbnail: "/images/news/RAVE-token-crash.png"
 image_alt: "RAVE token nagli rast i pad uz istragu Binance i Bitget burzi"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "rave", "binance", "bitget", "market manipulation", "token", "trading", "defi", "risk"]
-summary: "RAVE token skočio je s 0.25 na gotovo 28 dolara u nekoliko dana prije nego što je pao više od 80%, dok Binance i Bitget istražuju sumnjivu trgovinsku aktivnost."
+summary: "RAVE token pao je s 28 na 1.23 u samo 24 sata, dok Binance i Bitget istražuju sumnjivu tržišnu aktivnost i moguće manipulacije."
 ---
 
 *Slika je simbolična.*
