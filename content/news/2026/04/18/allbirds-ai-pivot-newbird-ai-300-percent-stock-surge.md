@@ -19,6 +19,13 @@ summary: "Allbirds exits the sneaker business and pivots to AI infrastructure, t
 
 *The image is symbolic.*
 
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Get a Bitget bonus up to 6200 USDT — register here
+  </a>
+</p>
+
 # AI mania: Allbirds, a sneaker maker, becomes tech company NewBird AI and the stock jumps 300% overnight
 
 In one of the most unusual business transformations in recent years, US-based **Allbirds** — known for its minimalist and eco-friendly sneakers such as the **Wool Runners** made from merino wool, popular among tech workers in Silicon Valley — has decided to abandon its core business and pivot to artificial intelligence.
