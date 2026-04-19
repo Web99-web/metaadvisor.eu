@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Alcoa is nearing a deal to sell its idle Massena East smelter to NYDIG as US industrial sites increasingly shift toward Bitcoin mining and AI data centers.
+Alcoa is nearing a deal to sell its idle upstate New York Massena East smelter to NYDIG as US industrial sites increasingly shift toward Bitcoin mining and AI data centers.
 
 US aluminium giant Alcoa is reportedly nearing a deal to offload its long-idle Massena East smelter in upstate New York to Bitcoin mining firm New York Digital Investment Group (NYDIG).
 
@@ -27,4 +27,4 @@ Related: Bitcoin mining difficulty falls, but projected to rise in next adjustme
 
 The potential sale comes amid a broader trend across the US, where retired industrial sites are being repurposed for digital infrastructure. Earlier this year, Century Aluminum sold its Hawesville smelter in Kentucky to TeraWulf for $200 million, with plans to convert it into a high-performance computing and AI facility rather than traditional industrial use.
 
-Meanwhile, NYDIG has been growing its footprint in Bitcoin ( BTC ) mining infrastructure. The firm, owned by Stone Ridge, already holds a stake in Coinmint, which operates mining hardware at the same
+Meanwhile, NYDIG has been growing its footprint in Bitcoin ( BTC ) mining infrastructure. The firm, owned by Stone Ridge, already holds a stake in Coinmint, which operates mining hardware
