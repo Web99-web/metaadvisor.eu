@@ -1,5 +1,5 @@
 ---
-title: "DoorDash stellt Zesty nach wenigen Monaten ein: warum eigenständige AI-Apps scheitern"
+title: "DoorDash stellt Zesty app nach wenigen Monaten ein: warum eigenständige AI-Apps scheitern"
 slug: "doordash-stellt-zesty-ein-warum-ai-apps-scheitern"
 date: 2026-04-21T06:30:00+02:00
 category: "ai"
