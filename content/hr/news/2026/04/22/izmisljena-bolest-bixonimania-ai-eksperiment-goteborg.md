@@ -4,7 +4,7 @@ slug: "izmisljena-bolest-bixonimania-ai-eksperiment-goteborg"
 date: 2026-04-22T12:00:00+02:00
 category: "ai"
 translationKey: "bixonimania-ai-experiment-peer-review-fail"
-source: "Metaadvisor (Nature)"
+source: "Nature, Ars Technica, The Register, New York Post, Jutarnji list"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
 image_url: "/images/hack/Bixonimania-fake-disease-experiment.png"
