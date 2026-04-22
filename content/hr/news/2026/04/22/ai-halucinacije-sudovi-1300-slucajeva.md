@@ -95,3 +95,7 @@ U svijetu u kojem AI može generirati pravne dokumente, moderirati sadržaj i do
 * Ključno pitanje ostaje: gdje završava tehnologija, a počinje odgovornost
 
 ---
+
+<p style="font-size:12px; color:#9ca3af;">
+Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski, pravni niti investicijski savjet.
+</p>
