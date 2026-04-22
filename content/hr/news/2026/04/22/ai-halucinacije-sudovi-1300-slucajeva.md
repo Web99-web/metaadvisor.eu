@@ -69,6 +69,13 @@ Problemi sa AI halucinacijama postaje ozbiljni na nekoliko razina, a u svim slu�
 
 AI sustavi za moderaciju sadržaja sve češće djeluju bez transparentnosti i bez jasnog procesa žalbe. Kada algoritam pogriješi, korisnici često nemaju način da brzo dobiju ljudski odgovor.
 
+<p>
+Već smo obradili nekoliko priča o AI moderaciji — ovo je jedna od njih:  
+<a href="https://metaadvisor.eu/hr/news/facebook-instagram-racuni-masovno-ugaseni-sad-kanada-filipini/" target="_blank" rel="nofollow">
+Tisuće Facebook i Instagram računa korisnika iz SAD-a, Kanade i Filipina masovno ugašene
+</a>
+</p>
+
 ---
 
 ## Šira slika: povjerenje u AI dolazi pod pitanje
