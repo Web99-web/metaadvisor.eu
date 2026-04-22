@@ -43,8 +43,6 @@ Dodatni problem je što često **nije jasno koji je konkretan alat korišten**, 
 
 ---
 
-## Support 1
-
 {{< support1 >}}
 
 AI ne daje signal nesigurnosti kao čovjek. Kada pogriješi, to čini uvjerljivo i samouvjereno, što povećava rizik da pogreške prođu neprimijećeno, posebno u profesionalnim okruženjima.
@@ -63,16 +61,14 @@ Problemi sa AI halucinacijama postaje ozbiljni na nekoliko razina, a u svim slu�
 
 ---
 
-## Support 2
-
 {{< support2 >}}
 
 AI sustavi za moderaciju sadržaja sve češće djeluju bez transparentnosti i bez jasnog procesa žalbe. Kada algoritam pogriješi, korisnici često nemaju način da brzo dobiju ljudski odgovor.
 
 <p>
 Već smo obradili nekoliko priča o AI moderaciji — ovo je jedna od njih:  
-<a href="https://metaadvisor.eu/hr/news/facebook-instagram-racuni-masovno-ugaseni-sad-kanada-filipini/" target="_blank" rel="nofollow">
-Tisuće Facebook i Instagram računa korisnika iz SAD-a, Kanade i Filipina masovno ugašene
+**<a href="https://metaadvisor.eu/hr/news/facebook-instagram-racuni-masovno-ugaseni-sad-kanada-filipini/" target="_blank" rel="nofollow">
+Tisuće Facebook i Instagram računa korisnika iz SAD-a, Kanade i Filipina masovno ugašene**
 </a>
 </p>
 
