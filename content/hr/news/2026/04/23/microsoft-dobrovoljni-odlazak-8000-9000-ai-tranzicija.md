@@ -44,7 +44,7 @@ Važno je naglasiti: ovo nisu klasični otkazi. Prema informacijama iz relevantn
 
 Radi se o dobrovoljnoj opciji, a ne prisilnoj odluci.  Takav pristup nije slučajan. Velike kompanije često koriste ovakve modele kako bi smanjile troškove bez negativnog publiciteta koji dolazi s masovnim otkazima. Umjesto naglih rezova, proces se odvija postupno i “mekše”, uz manji reputacijski rizik.
 
-ova vijest je odmah izazvala val reakcija na društvenim mrežama. Iako na prvi pogled djeluje kao standardna korporativna mjera, brojke i kontekst ukazuju na dublju promjenu u načinu na koji velike tehnološke kompanije upravljaju svojom radnom snagom. I zato su društvene mreže ponudile potpuno drugačiju verziju događaja.
+Ova vijest je odmah izazvala val reakcija na društvenim mrežama. Iako na prvi pogled djeluje kao standardna korporativna mjera, brojke i kontekst ukazuju na dublju promjenu u načinu na koji velike tehnološke kompanije upravljaju svojom radnom snagom. I zato su društvene mreže ponudile potpuno drugačiju verziju događaja.
 
 ---
 
