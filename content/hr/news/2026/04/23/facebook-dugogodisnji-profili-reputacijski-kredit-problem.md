@@ -74,9 +74,9 @@ Problem se dodatno produbljuje činjenicom da sustav ne nudi stvarni put žalbe.
 
 Zagovornici stroge automatike tvrde da bi reputacijski kredit otvorio prostor za zloupotrebe. No to je nepotpun argument. Uvođenje reputacije ne znači imunitet. Ona može biti faktor koji smanjuje osjetljivost sustava ili uvodi dodatni ljudski pregled prije sankcije. Upravo taj sloj danas nedostaje.
 
-{{< support2 >}}
-
 Posebno je problematično što algoritmi ne razumiju ton, ironiju ni kontekst javne rasprave. Kritika, sarkazam ili upozoravanje na nepravilnosti mogu aktivirati isti signal kao i stvarno kršenje pravila. U tom trenutku dugogodišnji korisnik nema nikakvu prednost. Povijest ponašanja kao da ne postoji.
+
+{{< support2 >}}
 
 ## Platforma kažnjava ono što je sama poticala
 
@@ -98,13 +98,13 @@ Ako je cilj stabilna i zdrava zajednica, reputacija mora imati ulogu. Ne kao za�
 
 Ovo nije sentimentalno pitanje. Ovo je pitanje logike sustava.
 
-Ako podaci postoje, ako povijest postoji i ako je statistika mjerljiva — zašto se ne koristi?
+Ako podaci postoje, ako povijest postoji i ako je statistika mjerljiva — zašto se ne koristi? Zar žele samo šutljive korisnike i potrošaće reklama? Ili AI botvoe?
 
 U digitalnom prostoru kojim upravlja tehnologija, ignoriranje reputacije nije ograničenje.
 
 To je odluka.
 
-I svaka takva odluka ima posljedice.
+I svaka takva odluka ima posljedice. Želimo da Facebook i dalje ostane društvena mreža, u kojoj društvo sudjeluje.
 
 ---
 
