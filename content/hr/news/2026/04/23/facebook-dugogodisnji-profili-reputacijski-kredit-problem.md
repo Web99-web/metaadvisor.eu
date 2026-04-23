@@ -80,7 +80,11 @@ Posebno je problematično što algoritmi ne razumiju ton, ironiju ni kontekst ja
 
 ## Platforma kažnjava ono što je sama poticala
 
-Ovdje dolazimo do ključne točke: platforma je godinama poticala ponašanje koje danas kažnjava. Korisnicima je omogućeno da vode više stranica, upravljaju grupama i objavljuju sadržaj bez plaćenih oglasa. Taj model bio je temelj rasta. Danas isti obrasci i upravo oni koji više objavljuju, mogu biti interpretirani kao rizični.
+Ovdje dolazimo do ključne točke: platforma je godinama poticala upravo takvo ponašanje — korisnici su gradili zajednice, vodili grupe, moderirali rasprave i razvijali mreže ljudi oko zajedničkih interesa. Omogućeno im je da pod jednim profilom upravljaju s više stranica, dijele različite objave i aktivno sudjeluju u širenju sadržaja. Upravo takva aktivnost bila je temelj rasta same platforme.
+
+Istovremeno, ti isti korisnici nisu bili samo kreatori sadržaja — bili su i publika. Godinama su bili izloženi tisućama oglasa, kupovali proizvode i usluge te sudjelovali u ekonomiji platforme kroz svoju pažnju i angažman. Drugim riječima, nisu samo gradili mrežu — bili su njezin aktivni dio.
+
+Danas se, međutim, isti obrasci ponašanja — posebno kod korisnika koji više objavljuju i aktivnije sudjeluju — mogu interpretirati kao rizični.
 
 ## Pitanje odgovornosti
 
