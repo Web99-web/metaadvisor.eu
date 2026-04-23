@@ -55,9 +55,9 @@ Ovaj sukob ima značaj i izvan samog spora. Justin Sun kao osnivač Tron blockch
 
 S druge strane, World Liberty predstavlja novu generaciju DeFi projekata koji pokušavaju spojiti financije, tehnologiju i institucionalni utjecaj. Upravo ta kombinacija dodatno komplicira situaciju jer se sukob ne odvija samo na tržištu, nego i u javnom prostoru gdje percepcija igra ključnu ulogu.
 
-## 🔥 Što se stvarno dogodilo (timeline)
+##  Što se stvarno dogodilo (timeline)
 
-###  FAZA 1 — pozitivan odnos (2024–2025)
+###  FAZA 1 — pozitivan odnos (2025)
 
 Justin Sun bio je veliki investitor u World Liberty Financial, s ulaganjima koja su prema dostupnim informacijama rasla od oko 30 milijuna dolara do čak 75 milijuna dolara. U toj fazi, projekt je imao snažnu podršku, a Sun je igrao važnu ulogu u njegovom razvoju.
 
