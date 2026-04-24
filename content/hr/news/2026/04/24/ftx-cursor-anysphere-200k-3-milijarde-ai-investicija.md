@@ -79,13 +79,11 @@ Razlika između prodajne cijene i današnje vrijednosti procjenjuje se na čak:
 
 👉 **15.000 puta**
 
-## Nije loš trade — nego loš timing
+## Bio je to loš timing za prodaju
 
 Ovo nije klasična priča o pogrešnoj investiciji.
 
-FTX nije izgubio novac u smislu lošeg odabira.
-
-👉 izgubio je vrijeme
+FTX nije izgubio novac u smislu lošeg odabira, bio je prisiljen prdavati imovinu zbog stečaja.
 
 U trenutku kada je udio prodan, tržište kripta bilo je u kolapsu, a likvidacija imovine bila je nužna.
 
