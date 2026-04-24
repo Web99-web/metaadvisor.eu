@@ -32,12 +32,7 @@ summary: "FTX je 2023. prodao udio u AI startupu Cursor za 200.000 dolara. Danas
 
 U svijetu investicija rijetko se vidi ovakav scenarij: nešto kupiš, prodaš za isti iznos — i tek kasnije shvatiš da si propustio milijarde.
 
-Upravo to se dogodilo s FTX i njihovim udjelom u AI startupu koji danas vrijedi desetke milijardi.
-
-<img src="/images/companies/Cursor-AI-Anysphere.png" alt="Cursor AI Anysphere former FTX stake" />
-<p><em>Cursor AI (Anysphere) — jedan od najbrže rastućih AI coding alata</em></p>
-
-Radi se o kompaniji Anysphere, koja razvija alat poznat kao Cursor — sustav za pisanje koda uz pomoć umjetne inteligencije.
+Upravo to se dogodilo s FTX i njihovim udjelom u AI startupu koji danas vrijedi desetke milijardi. Radi se o kompaniji Anysphere, koja razvija alat poznat kao Cursor — sustav za pisanje koda uz pomoć umjetne inteligencije.
 
 ## Kako je FTX ušao — i izašao
 
