@@ -17,8 +17,8 @@ President Donald Trump's command of U.S. financial and economic policy may have 
 
 Fed chair nominee Kevin Warsh, whose own considerable wealth includes some crypto-world assets , is awaiting a final vote from the Senate after appearing in a confirmation hearing this week . Trump, who has relentlessly blamed Powell for maintaining overly high U.S. interest rates, chose Warsh to remedy that, but Republican Senator Thom Tillis had promised to block the confirmation as long as the DOJ pressed an investigation against Powell for cost overruns in a Fed building project.
 
-That criminal probe was dropped on Friday, and Attorney General Jeanine Pirro said the DOJ asked the Fed's inspector general to look into the renovation situation and issue a report. When the news emerged, Kalshi's prediction betting on Walsh's confirmation before May 15 shot up from about 30% odds to more than 80%.
+That criminal probe was dropped on Friday, and U.S. Attorney for the District of Columbia Jeanine Pirro said the DOJ asked the Fed's inspector general to look into the renovation situation and issue a report. When the news emerged, Kalshi's prediction betting on Walsh's confirmation before May 15 shot up from about 30% odds to more than 80%.
 
 "I expect a comprehensive report in short order and am confident the outcome will assist in resolving, once and for all, the questions that led this office to issue subpoenas," Pirro wrote in a post on social media site X. "Accordingly, I have directed my office to close our investigation as the IG undertakes this inquiry. Note well, however, that I will not hesitate to restart a criminal investigation should the facts warrant doing so."
 
-Putting his own people atop the Federal Reserve not only equates with Trump's greater influence over U.S. monetary policy, but it also leaves him with more allies on the Fed board as it makes decisions about financial policy — including implementing
+Putting his own people atop the Federal Reserve not only equates with Trump's greater influence over U.S. monetary policy, but it also leaves him with more allies on the Fed board as it makes decisions about financial policy —

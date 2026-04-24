@@ -15,7 +15,7 @@ _build:
 
 The quantum attack Bitcoin has spent years treating as tomorrow's problem just got a little less theoretical.
 
-Quantum security startup Project Eleven said it awarded its 1 bitcoin BTC $ 77,689.16 Q-Day Prize to independent researcher Giancarlo Lelli on Friday after he broke a 15-bit elliptic curve key on publicly accessible quantum hardware, deriving a private encryption key from its public counterpart.
+Quantum security startup Project Eleven said it awarded its 1 bitcoin BTC $ 77,631.75 Q-Day Prize to independent researcher Giancarlo Lelli on Friday after he broke a 15-bit elliptic curve key on publicly accessible quantum hardware, deriving a private encryption key from its public counterpart.
 
 The bounty is worth roughly $78,000 at current prices. It is said to be the largest public demonstration of the attack class that could one day threaten bitcoin, ether (ETH) and most major blockchains.
 
