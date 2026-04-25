@@ -52,6 +52,9 @@ U takvim uvjetima i relativno mali pomak cijene može pokrenuti lančanu reakcij
 
 Rezultat je bio dramatičan: dionica je porasla s približno **$107 na više od $850**, što predstavlja rast veći od **700%** u kratkom razdoblju. Takav rast nije odražavao promjenu u poslovanju kompanije, nego je bio posljedica tržišne dinamike poznate kao short squeeze.
 
+<img src="/images/companies/Avis-shares-down.png" alt="Pad cijene dionice Avisa nakon short squeezea" />
+<p><em>Nagla korekcija nakon ekstremnog rasta</em></p>
+
 ## A onda dolazi pad
 
 Nakon što je pritisak prisilne kupnje počeo slabiti i veliki igrači počeli izlaziti iz pozicija, tržište se brzo okrenulo u suprotnom smjeru. Dionice koje su prethodno rasle gotovo vertikalno počele su naglo padati.
