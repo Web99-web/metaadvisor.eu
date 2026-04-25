@@ -52,6 +52,9 @@ Unter solchen Bedingungen kann selbst eine kleine Kursbewegung eine Kettenreakti
 
 Das Ergebnis war dramatisch: Die Aktie stieg von etwa **$107 auf über $850**, was einem Anstieg von mehr als **700%** in kurzer Zeit entspricht. Dieser Anstieg spiegelte keine Veränderung im Geschäft wider, sondern war das Ergebnis der Marktdynamik – eines sogenannten Short Squeeze.
 
+<img src="/images/companies/Avis-shares-down.png" alt="Kursrückgang der Avis-Aktie nach dem Short Squeeze" />
+<p><em>Starke Korrektur nach dem extremen Anstieg</em></p>
+
 ## Und dann kommt der Einbruch
 
 Als der Druck durch erzwungene Käufe nachließ und große Akteure begannen, ihre Positionen zu schließen, drehte sich der Markt schnell in die entgegengesetzte Richtung. Aktien, die zuvor nahezu vertikal gestiegen waren, begannen stark zu fallen.
