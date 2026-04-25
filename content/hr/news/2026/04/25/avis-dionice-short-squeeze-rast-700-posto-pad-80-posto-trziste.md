@@ -77,3 +77,7 @@ Kada mali broj igrača kontrolira većinu dostupnih dionica, a druga strana trž
 * kombinacija visokog short interesa i koncentrirane ponude stvara nestabilnost
 * ovakve situacije nisu nužno manipulacija, ali nose visok rizik
 * ključni faktor nije informacija, nego pozicioniranje na tržištu
+
+<p style="font-size:12px; color:#9ca3af;">
+Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski, pravni niti investicijski savjet.
+</p>
