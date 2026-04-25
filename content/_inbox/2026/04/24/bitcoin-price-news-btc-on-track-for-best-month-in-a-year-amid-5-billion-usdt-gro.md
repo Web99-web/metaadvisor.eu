@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 77,551.19 held above $77,000 on Friday, consolidating after hitting its strongest level since early February earlier in the week.
+Bitcoin BTC $ 77,593.86 held above $77,000 on Friday, consolidating after hitting its strongest level since early February earlier in the week.
 
 The largest cryptocurrency is up about 13.6% in April, putting it on track for its best monthly performance in a year, according to CoinGlass data. The rebound follows a rough stretch, with crypto markets logging their longest losing streak since 2018, posting consecutive monthly declines from October through February.
 
