@@ -52,6 +52,8 @@ In such conditions, even a relatively small price move can trigger a chain react
 
 The result was dramatic: the stock jumped from around **$107 to over $850**, representing a gain of more than **700%** in a short period. This rise did not reflect a change in the company’s business — it was driven by market mechanics known as a short squeeze.
 
+<img src="/images/companies/Avis-shares-down.png" alt="Avis stock price drop after short squeeze" />
+<p><em>Sharp correction after the extreme rise</em></p>
 ## And then came the drop
 
 Once the pressure from forced buying began to fade and large players started exiting their positions, the market quickly reversed. Shares that had previously risen almost vertically began to fall sharply.
