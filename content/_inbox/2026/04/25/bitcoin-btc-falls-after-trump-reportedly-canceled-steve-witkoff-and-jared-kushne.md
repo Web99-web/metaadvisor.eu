@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 77,337.14 edged lower late morning on the U.S. East Coast after U.S. President Donald Trump's comments signaled a halt to planned diplomatic travel tied to Iran talks.
+Bitcoin BTC $ 77,301.35 edged lower late morning on the U.S. East Coast after U.S. President Donald Trump's comments signaled a halt to planned diplomatic travel tied to Iran talks.
 
 The largest cryptocurrency dropped about $100 to $77,351 just before noon ET, reversing a modest earlier gain. The move came minutes after a Fox reporter posted Trump’s remarks on X, where he said he had canceled a trip by envoys Steve Witkoff and Trump's stepson, Jared Kushner.
 

@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin's BTC $ 77,337.14 recent gains — it's added almost 15% this month — aren't enough to convince some industry observers that the largest cryptocurrency has escaped the bear market it entered in October. It is, after all, still 40% below its record.
+Bitcoin's BTC $ 77,301.35 recent gains — it's added almost 15% this month — aren't enough to convince some industry observers that the largest cryptocurrency has escaped the bear market it entered in October. It is, after all, still 40% below its record.
 
 There may be deeper drops to come, with some, unidentified, forecasters, predicting a drop to as low as $40,000, a 70% drop from its all-time high. The figure comes from bitcoin analyst James Check , who says such a move is unlikely. While not impossible, he said in a post on X, it would be statistically extraordinary.
 
