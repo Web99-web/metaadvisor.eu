@@ -147,6 +147,16 @@ OLD GA Google tag (GA4) – CORE  CODE (used until 31.03.2026)
 </script>
 -->
 
+  <!-- CONSENT MODE (added 25.04.2026) -->
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+gtag('consent', 'default', {
+  'analytics_storage': 'denied'
+});
+</script>
+  
   <!-- 
 NEW GA CODE (active from 31.03.2026)
 simple tracking, no consent blocking
