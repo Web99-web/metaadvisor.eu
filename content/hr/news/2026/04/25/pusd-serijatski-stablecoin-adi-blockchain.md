@@ -1,7 +1,7 @@
 ---
 title: "PUSD: šerijatski stablecoin ulazi na ADI blockchain i cilja tržište vrijedno 3 trilijuna dolara"
 slug: "pusd-serijatski-stablecoin-adi-blockchain"
-date: 2026-04-24T12:00:00+02:00
+date: 2026-04-25T06:00:00+02:00
 category: "crypto"
 translationKey: "780d3a063144175d09f24285cc16e0ae"
 source: "Cointelegraph, CoinDesk, The Block, Gulf News, Zawya"
