@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-The biggest traders on Hyperliquid have been building a long bitcoin BTC $ 78,241.40 position for two months, and the price chart is starting to break their way.
+The biggest traders on Hyperliquid have been building a long bitcoin BTC $ 78,147.20 position for two months, and the price chart is starting to break their way.
 
 Glassnode data shows whale positioning on Hyperliquid, the onchain perpetual futures exchange, flipped from net short to net long in early March and has stayed long ever since, with the size of the long bias increasing through April.
 

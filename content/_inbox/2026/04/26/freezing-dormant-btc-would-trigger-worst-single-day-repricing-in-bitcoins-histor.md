@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Freezing dormant bitcoin BTC $ 78,241.40 would trigger an immediate repricing and mark one of the world's oldest cryptocurrency's worst trading days since its 2009 launch, advocates told CoinDesk.
+Freezing dormant bitcoin BTC $ 78,147.20 would trigger an immediate repricing and mark one of the world's oldest cryptocurrency's worst trading days since its 2009 launch, advocates told CoinDesk.
 
 Bitcoin developers and crypto industry participants have debated for weeks whether they should freeze dormant tokens to protect them against the risk of theft through quantum computing, whenever those machines begin going online.
 
