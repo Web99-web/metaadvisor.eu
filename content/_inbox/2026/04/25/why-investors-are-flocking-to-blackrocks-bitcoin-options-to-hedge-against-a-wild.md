@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Something notable happened on Friday, indicating the accelerating institutionalization of the bitcoin BTC $ 77,561.92 market, which has been pioneered by everyday people for years.
+Something notable happened on Friday, indicating the accelerating institutionalization of the bitcoin BTC $ 77,998.72 market, which has been pioneered by everyday people for years.
 
 This is because options, or hedging instruments, linked to BlackRock's bitcoin exchange-traded fund (ETF), IBIT, have grown slightly larger on Nasdaq than total bitcoin options trading on the offshore giant Deribit. It is particularly striking that IBIT options have, in just two years, closed the gap with Deribit’s bitcoin options market, which has been operating since 2016.
 
