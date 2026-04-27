@@ -36,7 +36,7 @@ Iako detalji još nisu u potpunosti razjašnjeni, već sada je jasno da se ne ra
 
 Prema dostupnim informacijama, problem je eskalirao kada je postalo poznato da platforma nema pristup određenom dijelu svojih kripto rezervi. Radi se o tzv. cold walletu, što znači da su sredstva trebala biti pohranjena offline i time dodatno zaštićena.
 
-U trenutku kada takav wallet postane nedostupan, situacija prelazi iz tehničkog problema u ozbiljan sigurnosni i financijski rizik. Procjene govore o iznosu koji se kreće oko nekoliko stotina milijuna dolara, ovisno o tržišnoj cijeni Bitcoina.
+U trenutku kada takav wallet postane nedostupan, situacija prelazi iz tehničkog problema u ozbiljan sigurnosni i financijski rizik. Procjene govore o iznosu koji se kreće oko **4.500 BTC, što je trenutno oko 347 milijuna dolara**, ovisno o tržišnoj cijeni Bitcoina.
 
 {{< support1 >}}
 
