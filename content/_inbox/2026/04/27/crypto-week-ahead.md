@@ -19,8 +19,8 @@ Markets are leaving April with a plethora of macro events to watch. Four major c
 
 Layered on top is a slate of U.S. data including first-quarter GDP and March PCE inflation alongside earnings from Visa, Mastercard, Robinhood and some of the biggest tech companies, whose results could either reinforce or unwind the current tone.
 
-Markus Levin, Co-founder of XYO, told CoinDesk that bitcoin BTC $ 77,811.76 is entering the week “with strong momentum around the $78,000 level, and while the Fed is expected to keep rates unchanged, persistent inflation could reinforce a hawkish tone and we could see bitcoin pull back to $72,000–$74,000 range once again in the short-term.”
+Markus Levin, Co-founder of XYO, told CoinDesk that bitcoin BTC $ 77,852.53 is entering the week “with strong momentum around the $78,000 level, and while the Fed is expected to keep rates unchanged, persistent inflation could reinforce a hawkish tone and we could see bitcoin pull back to $72,000–$74,000 range once again in the short-term.”
 
 Tech giants’ earnings, Levin added, could also be a crucial indicator “in reinforcing or challenging the current trajectory given their outsized influence on equity markets, while developments around the U.S.–Iran talks will steer sentiment through oil and dollar movements.”
 
-The two blue-chip collections are leading double-digit gains as global NFT sales volume falls and participation hits multi-year
+BTC fails at $80,000 and drops 2% as rising oil prices weigh on sentiment with altcoins leading losses across a volatile
