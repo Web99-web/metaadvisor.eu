@@ -17,7 +17,14 @@ tags: ["öl", "brent", "wti", "hormusstraße", "vae", "opec", "geopolitik", "kri
 summary: "Die Ölpreise steigen mit Brent über 113 und WTI über 108 Dollar, dem höchsten Stand der letzten 7–12 Tage. Die Hormus-Krise und der Austritt der VAE aus der OPEC erhöhen den Druck auf die globalen Märkte."
 ---
 
-*Bild ist symbolisch.*
+*Das Bild ist symbolisch.*
+
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Erhalte einen Bitget Bonus bis zu 6200 USDT — jetzt registrieren
+  </a>
+</p>
 
 # Ölpreise steigen: Brent über 113, WTI 108 während Hormus eskaliert und die VAE OPEC verlassen
 
