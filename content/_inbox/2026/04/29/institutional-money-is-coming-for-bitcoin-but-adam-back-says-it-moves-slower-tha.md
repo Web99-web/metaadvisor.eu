@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-The arrival of Morgan Stanley at the U.S. spot bitcoin BTC $ 77,210.21 ETF party earlier this month was characterized by some observers as the catalyst that will end the current crypto bear market thanks to the massive distribution power of the Wall Street wirehouse’s $8 trillion advisory network.
+The arrival of Morgan Stanley at the U.S. spot bitcoin BTC $ 76,998.28 ETF party earlier this month was characterized by some observers as the catalyst that will end the current crypto bear market thanks to the massive distribution power of the Wall Street wirehouse’s $8 trillion advisory network.
 
 Not so fast, said Blockstream CEO Adam Back, an early contributor to the Bitcoin community and recently tipped by the New York Times to be the cryptocurrency's pseudonymous creator, Satoshi Nakamoto, an assertion he denies.
 

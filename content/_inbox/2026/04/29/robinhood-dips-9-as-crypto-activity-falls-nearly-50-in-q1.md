@@ -25,8 +25,8 @@ Its earnings per share of $0.38 and $1.07 billion in revenue missed industry exp
 
 Robinhood CEO Vladimir Tenev attributed the crypto revenue and trading volume fall to price swings in the market but added that the company is more focused on building crypto infrastructure and integrating assets that have “real-world utility.”
 
-“Price moves up and down, but what I can tell you is crypto as technology infrastructure is going to be big, and we’re investing,” he said, adding: “We’re at the very beginning of what’s gonna be a tokenization supercycle.”
+“Price moves up and down, but what I can tell you is crypto as technology infrastructure is going to be big, and we’re investing,” he said, adding: “We’re at the very beginning of what’s going to be a tokenization supercycle.”
 
 Robinhood is one of several trading platforms that have used the bear market to expand their blockchain-based offerings in an effort to capture new revenue streams and broaden retail demand.
 
-Another one of those offerings is Robinhood Predictions, a predictions market platform integrated through Kalshi, which saw a record 8.8 billion event contracts traded on Robinhood in Q1, marking a 780%
+Another one of those offerings is Robinhood Predictions, a prediction market platform integrated through Kalshi, which saw a record 8.8 billion event contracts traded on Robinhood in Q1, marking a 780%
