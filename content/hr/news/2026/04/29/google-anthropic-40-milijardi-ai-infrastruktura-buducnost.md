@@ -38,6 +38,8 @@ Prema dostupnim informacijama, Google planira inicijalno uložiti oko 10 milijar
 
 No ključni dio ove priče nije samo kapital. Riječ je o tzv. “computeu” — računalnoj snazi potrebnoj za treniranje i pokretanje velikih AI modela. Upravo taj resurs danas postaje najvrjedniji u cijeloj industriji.
 
+Za sada nije objavljena konkretna lokacija infrastrukture, već se govori o osiguravanju računalnih kapaciteta kroz postojeće cloud sustave.
+
 {{< support1 >}}
 
 ## AI više nije samo softver
@@ -49,7 +51,7 @@ Bez dovoljno računalnih resursa:
 - performanse stagniraju  
 - troškovi eksponencijalno rastu  
 
-To znači da se prava konkurencija seli iz laboratorija u podatkovne centre.
+Zbog toga velike AI kompanije sve više ulaze u višemilijardne ugovore s cloud providerima i proizvođačima čipova. To znači da se prava konkurencija seli iz laboratorija u podatkovne centre.
 
 ## Borba za infrastrukturu i energiju
 
@@ -61,7 +63,7 @@ Anthropic već surađuje s više tehnoloških partnera kako bi osigurao potrebne
 
 ## Zašto je ovo ključno za budućnost
 
-Ovakva ulaganja pokazuju da umjetna inteligencija postaje pitanje kontrole resursa, a ne samo inovacije. Tko ima pristup računalnoj snazi i energiji, ima i mogućnost oblikovanja razvoja AI tehnologije.
+Ovakva ulaganja pokazuju da umjetna inteligencija postaje pitanje kontrole resursa, a ne samo inovacije. Takvi modeli razvoja već se vide kod vodećih AI kompanija koje ulažu desetke milijardi u infrastrukturu kako bi osigurale dugoročnu prednost. Tko ima pristup računalnoj snazi i energiji, ima i mogućnost oblikovanja razvoja AI tehnologije.
 
 To ujedno znači i koncentraciju moći u rukama nekoliko velikih kompanija koje si mogu priuštiti ovakve investicije.
 
@@ -69,7 +71,7 @@ To ujedno znači i koncentraciju moći u rukama nekoliko velikih kompanija koje 
 
 Suradnja između Googlea i Anthropica nije samo još jedan investicijski dogovor, nego signal promjene u načinu na koji se razvija umjetna inteligencija. Fokus se pomiče s softvera na infrastrukturu, a time i na kontrolu ključnih resursa.
 
-U takvom okruženju, pitanje tko kontrolira AI više nije tehničko — nego strateško.
+U takvom okruženju, pitanje tko kontrolira AI više nije samo tehničko pitanje, nego i strateško pitanje globalne tehnologije
 
 ---
 
