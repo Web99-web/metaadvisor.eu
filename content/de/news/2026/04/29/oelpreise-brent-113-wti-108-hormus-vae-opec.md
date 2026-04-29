@@ -1,6 +1,6 @@
 ---
 title: "Ölpreise steigen: Brent über 113, WTI 108 während Hormus eskaliert und die VAE OPEC verlassen"
-slug: "nafta-cijene-barela-brent-113-wti-108-hormuz-uae-opec"
+slug: "oelpreise-brent-113-wti-108-hormus-vae-opec"
 date: 2026-04-29T21:00:00+02:00
 category: "crypto"
 translationKey: "oil-hormuz-uae-opec-april-2026"
