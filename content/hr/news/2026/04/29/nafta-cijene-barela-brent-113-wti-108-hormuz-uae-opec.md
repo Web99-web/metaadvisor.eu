@@ -19,6 +19,13 @@ summary: "Cijene nafte rastu s Brentom iznad 113 i WTI iznad 108 dolara, najviš
 
 *Slika je simbolična.*
 
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
+  </a>
+</p>
+
 # Nafta skače: Brent iznad 113, WTI 108 dok Hormuz gori, a UAE izlazi iz OPEC-a
 
 Cijene nafte ponovno su snažno porasle, s Brentom iznad 113 dolara i WTI iznad 108 dolara po barelu, što predstavlja najvišu razinu u posljednjih 7 do 12 dana, nakon vrhunca početkom travnja kada je WTI dosegao 116 dolara, a Brent 114 dolara.
