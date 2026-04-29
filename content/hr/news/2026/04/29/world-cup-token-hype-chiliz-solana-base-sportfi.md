@@ -28,7 +28,7 @@ summary: "Chiliz širi fan tokene na Solanu i Base uoči Svjetskog prvenstva, al
 
 # World Cup hype: Fan tokeni na udaru pažnje dok se Chiliz širi na Solanu i Base
 
-Kako se približava Svjetsko prvenstvo, interes za sport i digitalne tokene ponovno raste. Chiliz, blockchain platforma fokusirana na sport, pokušava iskoristiti taj trenutak širenjem svojih fan tokena na Solana i Base mreže.
+Kako se približava Svjetsko prvenstvo, interes za sport i digitalne tokene ponovno raste. Blockchain platforma fokusirana na sport, Chiliz, širi svoju ponudu od više od 70 fan tokena na Solana i Base mreže, pokušavajući uhvatiti val interesa uoči Svjetskog prvenstva. Timing nije slučajan. Svjetsko prvenstvo donosi globalni hype, milijarde gledatelja i eksploziju interesa za sport. Chiliz očito računa da će taj val pažnje pretvoriti u trading volumen.
 
 Ovaj potez predstavlja značajan zaokret – od zatvorenog ekosustava prema tzv. “omnichain” modelu, gdje tokeni postaju dostupni na više blockchaina istovremeno.
 
@@ -36,7 +36,7 @@ Fan tokeni omogućuju navijačima sudjelovanje u odlukama klubova, pristup nagra
 
 ## Omnichain strategija i novi doseg
 
-Prelazak na Solanu i Base znači pristup većem broju korisnika i većoj likvidnosti. Umjesto fragmentiranih verzija tokena, Chiliz koristi standard koji omogućuje jedinstvenu ponudu tokena kroz više mreža.
+Prelazak na Solanu i Base znači pristup većem broju korisnika i većoj likvidnosti. Umjesto fragmentiranih verzija tokena, Chiliz koristi standard koji omogućuje jedinstvenu ponudu tokena kroz više mreža.Ova ekspanzija dolazi u ključnom trenutku, kada se očekuje porast interesa za sport i digitalne tokene povezane s navijačima. Chiliz time izlazi iz svog dosadašnjeg zatvorenijeg ekosustava i prelazi na tzv. “omnichain” pristup, što znači da će njegovi tokeni biti dostupni na više blockchain mreža istovremeno. “Koristeći Omnichain Fungible Token (OFT) standard, fan tokeni će imati jedinstvenu ponudu na svim mrežama, bez potrebe za ‘wrapped’ verzijama ili fragmentiranom likvidnošću,” navodi kompanija.
 
 Teoretski, to bi trebalo pojednostaviti trgovanje i povećati volumen.
 
