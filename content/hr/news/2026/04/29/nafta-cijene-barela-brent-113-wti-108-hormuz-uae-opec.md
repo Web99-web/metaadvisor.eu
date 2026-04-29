@@ -68,3 +68,7 @@ Sve zajedno, situacija pokazuje da energija ponovno postaje jedan od ključnih p
 * FED dolazi pod dodatni pritisak
 
 ---
+
+<p style="font-size:12px; color:#777;">
+Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski ili investicijski savjet.
+</p>
