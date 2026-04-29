@@ -1,7 +1,10 @@
 <div id="ma-consent">
   <div class="ma-box">
 
+
+    <!-- TEST: NEW CONSENT MESSAGE (temporary hidden)
     <div style="color:red;">NEW CONSENT TEST</div>
+    -->
     
     <div class="ma-top">
       <a href="#" id="ma-decline">Continue without accepting →</a>
