@@ -16,8 +16,14 @@ image_credit: "Metaadvisor.eu"
 tags: ["robinhood", "kripto", "bitcoin", "btc", "coinbase", "dionice", "pad tržišta", "kripto trgovanje", "investitori", "blockchain", "volatilnost", "hormuški tjesnac", "nafta", "geopolitika", "fed"]
 summary: "Dionice Robinhooda pale su gotovo 10% nakon slabijih rezultata, dok kripto aktivnost pada gotovo 50%. Pad se širi na cijeli sektor uz utjecaj FED-a i geopolitičkih napetosti oko Hormuškog tjesnaca."
 ---
-
 *Slika je simbolična.*
+
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
+  </a>
+</p>
 
 # Dionice Robinhooda pale su gotovo 10% u Q1, dok kripto aktivnost pada gotovo 50%
 
