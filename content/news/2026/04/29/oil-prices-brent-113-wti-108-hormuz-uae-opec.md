@@ -1,6 +1,6 @@
 ---
 title: "Oil surges: Brent above $113, WTI at $108 as Hormuz tensions rise and UAE exits OPEC"
-slug: "nafta-cijene-barela-brent-113-wti-108-hormuz-uae-opec"
+slug: "oil-prices-brent-113-wti-108-hormuz-uae-opec"
 date: 2026-04-29T21:00:00+02:00
 category: "crypto"
 translationKey: "oil-hormuz-uae-opec-april-2026"
