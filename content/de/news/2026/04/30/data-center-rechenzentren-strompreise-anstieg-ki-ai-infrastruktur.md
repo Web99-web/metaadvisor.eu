@@ -1,6 +1,6 @@
 ---
 title: "Rechenzentren und steigende Strompreise: Was wirklich hinter dem KI-Boom passiert"
-slug: "rechenzentren-strompreise-anstieg-ki-infrastruktur"
+slug: "data-center-rechenzentren-strompreise-anstieg-ki-ai-infrastruktur"
 date: 2026-04-30T12:00:00+02:00
 category: "ai"
 translationKey: "3f2a9c7b1e8d4f6a9b0c2d5e7f8a1b3c"
@@ -40,8 +40,8 @@ In der Theorie bringen Rechenzentren Investitionen, Infrastrukturentwicklung und
 
 Im Artikel:
 
-👉 **New York hinterfragt die Expansion von Rechenzentren: Infrastruktur der Zukunft oder Konzentration von Macht in den Händen weniger?**
-https://metaadvisor.eu/hr/news/new-york-propitkuje-data-centre-ai-infrastruktura-2026/
+👉 New York stellt die Ausweitung von Rechenzentren infrage: Infrastruktur der Zukunft oder Machtkonzentration in den Händen weniger?
+https://metaadvisor.eu/de/news/new-york-hinterfragt-rechenzentren-ki-infrastruktur-2026/
 
 haben wir bereits eines der zentralen Probleme klar benannt:
 
