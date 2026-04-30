@@ -136,7 +136,7 @@ All das verstärkt die zentrale Frage: Ist die lokale Gemeinschaft wirklich der 
 
 ---
 
-## 🇭🇷 Pantheon in Topusko: Chance oder Risiko?
+## 🇭🇷 Pantheon in Topusko, Kroatien: Chance oder Risiko?
 
 In diesem Kontext steht besonders das aktuell viel diskutierte Projekt Pantheon AI data center — potenziell die größte private Investition in der Geschichte Kroatiens.
 
