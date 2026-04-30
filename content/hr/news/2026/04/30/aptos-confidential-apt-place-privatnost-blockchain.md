@@ -4,7 +4,7 @@ slug: "place-blockchain-privatnost-aptos-confidential-apt"
 date: 2026-04-30T12:00:00+02:00
 category: "crypto"
 translationKey: "fae9ff63d50f4a39d51acee9744ce331"
-source: "Metaadvisor (Cointelegraph)"
+source: "Metaadvisor (Cointelegraph, Binance Square, KuCoin, MEXC, TradingView)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
 image_url: "/images/Salaries-crypto.png"
