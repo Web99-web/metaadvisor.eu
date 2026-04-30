@@ -136,7 +136,7 @@ All of this reinforces a key question: is the local community truly benefiting?
 
 ---
 
-## 🇭🇷 Pantheon in Topusko: opportunity or risk?
+## 🇭🇷 Pantheon in Topusko, Croatia: opportunity or risk?
 
 In this context, the widely discussed Pantheon AI data center project stands out — potentially the largest private investment in Croatia’s history.
 
