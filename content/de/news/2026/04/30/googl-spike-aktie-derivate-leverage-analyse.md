@@ -1,7 +1,7 @@
 ---
 title: "GOOGL Spike: Wie Aktie und Derivate gemeinsam eine plötzliche Bewegung erzeugten"
 slug: "googl-spike-aktie-derivate-leverage-analyse"
-date: 2026-05-01T12:00:00+02:00
+date: 2026-04-30T12:00:00+02:00
 category: "crypto"
 translationKey: "9a7c3f2e5d1b4c6a8e0f2a9d7b3c1e5f"
 source: "Metaadvisor"
