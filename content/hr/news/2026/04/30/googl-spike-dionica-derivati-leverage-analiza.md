@@ -1,7 +1,7 @@
 ---
 title: "GOOGL spike: kako su dionica i derivati zajedno stvorili nagli skok"
 slug: "googl-spike-dionica-derivati-leverage-analiza"
-date: 2026-05-01T12:00:00+02:00
+date: 2026-04-30T12:00:00+02:00
 category: "crypto"
 translationKey: "9a7c3f2e5d1b4c6a8e0f2a9d7b3c1e5f"
 source: "Metaadvisor"
