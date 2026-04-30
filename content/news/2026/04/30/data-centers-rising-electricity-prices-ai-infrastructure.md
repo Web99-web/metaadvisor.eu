@@ -40,8 +40,8 @@ In theory, data centers bring investment, infrastructure development, and digita
 
 In the article:
 
-👉 **New York Questions Data Center Expansion: Infrastructure of the Future or Concentration of Power in the Hands of a Few?**
-https://metaadvisor.eu/hr/news/new-york-propitkuje-data-centre-ai-infrastruktura-2026/
+👉 New York Questions Data Center Expansion: Infrastructure of the Future or Concentration of Power in the Hands of a Few?
+https://metaadvisor.eu/news/new-york-questions-data-center-expansion-ai-infrastructure-2026/
 
 we clearly identified one of the key issues:
 
