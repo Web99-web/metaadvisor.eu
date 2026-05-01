@@ -1,12 +1,12 @@
 ---
 title: "Solana vijesti: Njemački AllUnity širi EURAU na Solanu dok euro stablecoini dobivaju na značaju"
 slug: "njemacki-allunity-eurau-solana-euro-stablecoin"
-date: 2026-04-30T11:58:32Z
+date: 2026-05-01T12:00:00+02:00
 category: "crypto"
 translationKey: "416deb28d3ec41207294ad9dbc8cbd18"
-source: "CoinDesk"
-source_url: "https://www.coindesk.com/business/2026/04/30/germany-s-allunity-expands-eurau-to-solana-as-euro-stablecoins-gain-traction"
-author: "CoinDesk"
+source: "Metaadvisor (CoinDesk, The Chain Post, PANews, MEXC, AInvest, Binance Square, AllUnity)"
+source_url: "https://metaadvisor.eu/"
+author: "Metaadvisor.eu"
 image_url: "/images/EURAU.png"
 featured_image: "/images/EURAU.png"
 image: "/images/EURAU.png"
