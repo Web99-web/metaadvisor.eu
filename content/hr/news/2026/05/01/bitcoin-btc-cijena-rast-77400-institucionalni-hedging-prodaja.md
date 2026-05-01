@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin raste iznad 77.400 USD, ali institucionalni hedge i prodajni pritisak koče daljnji rast"
 slug: "bitcoin-btc-cijena-rast-77400-institucionalni-hedging-prodaja"
-date: 2026-05-01T12:00:00+02:00
+date: 2026-05-01T06:00:00+02:00
 category: "crypto"
 translationKey: "291a098b4ecd2fdfc62c87e9cbfccf06"
 source: "Metaadvisor (CoinDesk, Cointelegraph)"
