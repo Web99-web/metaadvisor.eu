@@ -82,6 +82,9 @@ I tu dolazi Sentora.
 
 Ovdje se ova priča direktno povezuje s temom o kojoj smo već pisali — DeFi lending platformama poput Morpha.
 
+👉 Što je Morpho i kako funkcionira DeFi lending (objašnjeno za početnike)
+https://metaadvisor.eu/hr/news/sto-je-morpho-defi-lending-objasnjenje/
+
 Dok platforme poput Morpha omogućuju:
 
 * posudbu i plasiranje kapitala
