@@ -74,7 +74,7 @@ Zanimljiv detalj iz priče je i to da ovaj pristup nije bio slučajan. Prema nje
 
 ## Nije jedini slučaj
 
-No važno je naglasiti: ovo nije politička priča. Iako je velika sličnost sa prijašnjim MAGA ženskim profilom. Ranije se pojavio vrlo sličan viralni profil koji se predstavljao kao američka vojnikinja — često se spominje ime  “Jessica Foster”. Taj profil također je koristio kombinaciju atraktivnog izgleda, patriotizma i emocionalno nabijenih poruka kako bi brzo izgradio publiku. Njezin profil skupio je više od 1 milijun pratitelja u par mjeseci, koristio je fake slike s poznatim osobama i događajima i vodio korisnike prema plaćenim platformama (npr. Fanvue / slično kao OnlyFans)
+No važno je naglasiti: ovo nije politička priča. Iako je velika sličnost sa prijašnjim MAGA ženskim profilom. Ranije se pojavio vrlo sličan viralni profil koji se predstavljao kao američka vojnikinja — često se spominje ime  “Jessica Foster”. Taj profil također je koristio kombinaciju atraktivnog izgleda, patriotizma i emocionalno nabijenih poruka kako bi brzo izgradio publiku. Njezin profil skupio je više od 1 milijun pratitelja u par mjeseci, koristio je fake slike s poznatim osobama i događajima. Profil je služio kao ‘funnel’ prema plaćenim platformama poput Fanvuea ili čak i OnlyFansa, gdje se monetizacija temeljila na pretplatama, ekskluzivnom sadržaju i interakciji s korisnicima.
 
 Iako detalji tog slučaja nisu u potpunosti potvrđeni kao u slučaju Emily Hart, obrazac je gotovo identičan. Koliko je poznato, identitet koji je stajao iza profila Jessica Foster još nije otkriven.
 
