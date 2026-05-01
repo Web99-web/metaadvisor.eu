@@ -1,7 +1,7 @@
 ---
 title: "AI influenceri koji ne postoje: kako lažni profili igraju na emocije i zarađuju"
 slug: "ai-influenceri-lazni-profili-emily-hart-vojnikinja-jessica-foster-emocije-zarada"
-date: 2026-05-01T12:00:00+02:00
+date: 2026-05-01T09:00:00+02:00
 category: "ai"
 translationKey: "8d5c1b9a4f6e4c2a9b3d7e1f0a2c6e77"
 source: "Metaadvisor (WIRED, Indian Times, People, NDTV)"
