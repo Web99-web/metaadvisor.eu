@@ -117,10 +117,7 @@ It also mentions partnerships with:
 * Morpho
 * Upshift
 
-However, it is important to note:
-👉 these figures come directly from the PR and have not been independently verified
-
-This doesn’t mean they are inaccurate, but they should be interpreted carefully.
+👉 these figures come directly from the PR.
 
 ## What is really changing
 
