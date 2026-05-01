@@ -50,7 +50,7 @@ Tada dolazi ključni zaokret. AI mu predlaže da kreira specifičan profil koji 
 
 Umjesto generičnog sadržaja, profil je dobio identitet — i to vrlo specifičan. Emily Hart postaje 20-godišnja medicinska sestra iz New Yorka, s jasno definiranim stavovima i narativom.
 
-Sadržaj se počinje fokusirati na teme koje izazivaju jake emocije: patriotizam, pripadnost, politički stavovi i provokativne poruke. Upravo taj element — emocija — pokazao se kao ključan. 'Emily' bi često objavljivala kao i postavljala pitanja, kao ovo: 'Nepopularno pitanje. Ljudi koji ne poštuju Americu, trebaju biti izbačeni iz naše divne zemlje. - Stavite zastavu USA ako se slažete.' i slične objave. 
+Sadržaj se počinje fokusirati na teme koje izazivaju jake emocije: patriotizam, pripadnost, politički stavovi i provokativne poruke. Upravo taj element — emocija — pokazao se kao ključan. 'Emily' bi često objavljivala kao i postavljala pitanja, kao ovo: 'Nepopularno pitanje. Ljudi koji ne poštuju Ameriku, trebaju biti izbačeni iz naše divne zemlje. - Stavite zastavu USA ako se slažete.' i slične objave. 
 
 Jer ljudi nisu reagirali na činjenice. Reagirali su na osjećaj.
 
