@@ -117,10 +117,7 @@ Također navode partnerstva s platformama poput:
 * Morpho
 * Upshift
 
-Međutim, važno je naglasiti:
-👉 ove brojke dolaze iz samog PR-a i nisu neovisno potvrđene
-
-To ne znači da su netočne, ali zahtijevaju oprez pri interpretaciji.
+👉 ove brojke dolaze iz samog PR-a.
 
 ## Što se zapravo mijenja
 
