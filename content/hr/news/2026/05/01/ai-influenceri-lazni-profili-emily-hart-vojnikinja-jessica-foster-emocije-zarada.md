@@ -30,7 +30,7 @@ summary: "AI influencerica Emily Hart i slični profili pokazuju kako emocije i 
 
 Nedavno su razotrkili još jedan svjež primjer kako lažni AI profil može u vrlo kratkom roku prikupiti tisuće pratitelja i početi zarađivati — sve dok ga netko ne razotkrije.
 
-Na prvi pogled, riječ je o još jednoj “influencerici”: atraktivna plavuša, koja je pritom bila i medicinska sestra i pobornik MAGA, radila je lifestyle sadržaj, sa jasnim stavovima i redovitim objavama. No u stvarnosti, iza profila nije stajala stvarna osoba.
+Na prvi pogled, riječ je o još jednoj “influencerici”: atraktivna plavuša, koja je pritom bila i medicinska sestra i pobornik MAGA, radila je lifestyle sadržaj, sa jasnim stavovima i redovitim objavama. No u stvarnosti, iza profila je stajala sasvim druga stvarna osoba, i pritom muškarac.
 
 ## Slučaj Emily Hart: profil koji nikada nije postojao
 
