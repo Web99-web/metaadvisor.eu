@@ -120,10 +120,7 @@ Zudem werden Partnerschaften mit Plattformen wie:
 
 genannt.
 
-Wichtig ist jedoch:
-👉 Diese Zahlen stammen aus dem PR selbst und wurden nicht unabhängig bestätigt.
-
-Das bedeutet nicht, dass sie falsch sind, aber sie sollten mit Vorsicht betrachtet werden.
+👉 Diese Zahlen stammen aus dem PR selbst.
 
 ## Was sich wirklich verändert
 
