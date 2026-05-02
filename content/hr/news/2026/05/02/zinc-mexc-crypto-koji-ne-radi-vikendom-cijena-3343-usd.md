@@ -50,10 +50,7 @@ Vrlo je vjerojatno da prati tržište industrijskih metala, poput cinka, ali kro
 
 ## Zašto ne radi vikendom
 
-Ovo je ključni dio priče.
-
-Za razliku od kripta, tradicionalna tržišta imaju radno vrijeme. Vikendi su zatvoreni, a trgovanje se odvija u definiranim sesijama.
-
+Ovo je ključni dio priče. Za razliku od kripta, tradicionalna tržišta imaju radno vrijeme. Vikendi su zatvoreni, a trgovanje se odvija u definiranim sesijama.
 ZINC očito slijedi tu logiku.
 
 To znači da:
