@@ -1,6 +1,6 @@
 ---
 title: "Schwedisches Startup für Anwälte Legora erreicht Bewertung von 5,6 Milliarden USD und strebt den Durchbruch auf dem US-Markt an, wo Harvey dominiert"
-slug: "europski-svedski-ai-startup-legora-56-milijardi-sukob-harvey"
+slug: "europaeisches-schwedisches-ai-startup-legora-56-milliarden-us-expansion-harvey"
 date: 2026-05-03T06:00:00+02:00
 category: "ai"
 translationKey: "4f23af2c0635c2a2f2af75194f125fef"
