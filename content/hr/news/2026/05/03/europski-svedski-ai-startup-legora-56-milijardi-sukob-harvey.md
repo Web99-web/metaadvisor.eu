@@ -14,7 +14,7 @@ thumbnail: "/images/companies/Legora-legal-AI.png"
 image_alt: "Legora AI platforma za odvjetnike i pravne timove"
 image_credit: "Metaadvisor.eu"
 tags: ["legora ai", "pravni ai startup", "legal tech europa", "ai za odvjetnike", "harvey ai konkurencija", "nvidia ulaganje ai", "ai pravna industrija", "automatizacija prava", "europski startup ai", "ai odvjetnici alati"]
-summary: "Švedski startup Legora dosegao je valuaciju od 5,6 milijardi USD i ubrzano širi poslovanje prema SAD-u, gdje ulazi u izravnu konkurenciju s američkim AI pravnim igračem Harvey."
+summary: "Švedski startup Legora dosegao je valuaciju od 5,6 milijardi USD i ubrzano širi poslovanje prema SAD-u, uz snažnu podršku investitora poput Nvidije i izravnu konkurenciju s američkim Harveyjem."
 ---
 
 *Slika je simbolična.*
@@ -32,85 +32,114 @@ U trenutku kada umjetna inteligencija sve snažnije ulazi u poslovne procese, je
 
 Osnovan 2023. u Stockholmu, Legora je u manje od dvije godine dosegao valuaciju od oko **5,6 milijardi USD**, čime je postao jedan od najvrjednijih europskih AI startupova u području pravne tehnologije.
 
-## Brz rast i globalno širenje
+## Startup star manje od dvije godine — ali već globalan
 
-U relativno kratkom vremenu Legora je uspio:
+Legora je pokrenut 2023. godine i u vrlo kratkom vremenu uspio:
 
-* proširiti poslovanje na više od 50 tržišta
-* okupiti više od 1.000 pravnih timova i odvjetničkih ureda
-* prijeći granicu od 100 milijuna USD godišnjeg prihoda
+* proširiti se na više od 50 tržišta
+* okupiti više od 1.000 odvjetničkih ureda i pravnih timova
+* dosegnuti više od **100 milijuna USD godišnjeg prihoda (ARR)**
 
-Za industriju koja je poznata po sporim promjenama, ovakav tempo rasta predstavlja značajan pomak.
+Za industriju koja se tradicionalno sporo mijenja, ovakav rast je iznimno rijedak.
 
 ## Što Legora zapravo radi
 
-Legora razvija AI platformu specijaliziranu za pravni sektor. Njezin fokus nije zamjena odvjetnika, već povećanje njihove učinkovitosti.
+Legora razvija AI sustav specijaliziran za pravni sektor, s ciljem ubrzavanja i optimizacije rada odvjetnika.
 
-Sustav omogućuje:
+Platforma omogućuje:
 
-* bržu analizu ugovora
-* automatizaciju pravnog istraživanja
+* analizu i izradu ugovora
+* pravno istraživanje
 * obradu velikih količina dokumentacije
-* strukturiranje kompleksnih pravnih podataka
+* automatizaciju repetitivnih zadataka
 
-Velik dio pravnog posla i dalje se naplaćuje klijentima, ali Legora cilja upravo na ubrzavanje procesa — što omogućuje odvjetnicima da u kraćem vremenu obrade više slučajeva i povećaju ukupnu produktivnost.
+Važno je naglasiti:
+
+👉 odvjetnici i dalje naplaćuju svoj rad
+👉 ali uz pomoć AI-a mogu raditi brže i obraditi više slučajeva
 
 {{< support1 >}}
 
-## Nvidia i institucionalni kapital
+## 🔥 Nvidia ulazi u pravni AI — prvi put
 
-Jedan od ključnih trenutaka u razvoju Legore bio je ulazak velikih investitora.
+Najzanimljiviji dio ove priče je ulazak Nvidije.
 
-Među njima se ističe **Nvidia**, koja je putem svog investicijskog fonda NVentures ušla u projekt. Uz nju, u financiranju sudjeluju i drugi veliki tehnološki i investicijski igrači.
+Legora je prikupila ukupno oko **600 milijuna USD kroz Series D rundu i njezino proširenje**, a upravo u tom proširenju sudjelovao je i Nvidia investicijski fond.
 
-To je prvi značajniji ulazak Nvidije u pravni AI sektor, što dodatno potvrđuje da se umjetna inteligencija sve više širi izvan tradicionalnih tehnoloških okvira.
+👉 ulaganje dolazi preko **NVentures**, službenog venture capital fonda Nvidije
 
-## Sukob s američkim Harveyjem
+👉 radi se o **prvoj poznatoj Nvidia investiciji u legal AI sektor**
 
-Legora ne ulazi na tržište bez konkurencije.
+Uz Nvidiju, u investiciji sudjeluju i:
 
-Glavni rival je američki startup Harvey, koji već ima snažnu poziciju u SAD-u i valuaciju od oko **11 milijardi USD**.
+* Atlassian
+* te niz drugih institucionalnih investitora
 
-Situacija je zanimljiva jer:
+Ova činjenica jasno pokazuje smjer:
+
+👉 Nvidia ne ulaže samo u čipove i infrastrukturu
+👉 nego i u aplikacije koje koriste umjetnu inteligenciju
+
+## Sukob s Harveyjem — Europa protiv SAD-a
+
+Legora ulazi u izravnu konkurenciju s američkim startupom Harvey.
+
+Harvey:
+
+* osnovan u SAD-u
+* koristi AI za pravne usluge
+* procijenjen na oko **11 milijardi USD**
+
+Situacija postaje zanimljiva jer:
 
 * Legora iz Europe ulazi na američko tržište
-* Harvey iz SAD-a širi poslovanje prema Europi
+* Harvey iz SAD-a širi poslovanje u Europu
 
-To stvara izravnu globalnu konkurenciju u segmentu koji je do nedavno bio relativno zatvoren.
+👉 nastaje globalna bitka za tržište pravnog AI-a
 
 {{< support2 >}}
 
 ## Pravni sektor ulazi u novu fazu
 
-Pravna industrija dugo je bila otporna na tehnološke promjene zbog:
+Pravo je jedna od rijetkih industrija koja je dugo odolijevala tehnološkim promjenama zbog:
 
-* visokih standarda točnosti
-* regulatornih zahtjeva
-* odgovornosti prema klijentima
+* visoke odgovornosti
+* potrebe za preciznošću
+* regulatornog okvira
 
-No, s razvojem AI alata, sve više pravnih timova počinje uvoditi automatizaciju u svakodnevni rad.
+No umjetna inteligencija mijenja pravila igre.
 
-To ne znači smanjenje cijena usluga, već promjenu načina rada — brže procese, veću efikasnost i potencijalno veću količinu obrađenih slučajeva.
+Fokus se sve više prebacuje na:
+
+* brzinu obrade
+* količinu obrađenih slučajeva
+* efikasnost rada
+
+To ne znači smanjenje cijena usluga, već promjenu načina rada.
 
 ## Što ova priča znači šire
 
-Legora je primjer šireg trenda:
+Legora nije izoliran slučaj.
+
+Radi se o trendu:
 
 * AI ulazi u tradicionalne profesije
 * tržišta postaju globalna
 * konkurencija se ubrzava
 
-U tom kontekstu, pravni sektor postaje jedno od sljedećih velikih područja transformacije.
+A najvažnije:
+
+👉 kapital velikih igrača poput Nvidije potvrđuje da je ovo tek početak
 
 ---
 
 ## Naš osvrt (Metaadvisor):
 
-* Legora pokazuje koliko brzo AI startup može skalirati u Europi
-* ulazak Nvidije potvrđuje stratešku važnost sektora
-* pravna industrija ulazi u fazu tehnološke transformacije
-* sukob s Harveyjem prerasta u globalnu bitku
-* ključni izazov bit će balans između brzine i pouzdanosti
+* Legora pokazuje koliko brzo europski startup može skalirati
+* ulaganje Nvidije preko NVentures fonda je ključni signal
+* ovo je prva Nvidia investicija u pravni AI sektor
+* pravna industrija ulazi u fazu transformacije
+* sukob s Harveyjem postaje globalna utakmica
 
 ---
 
