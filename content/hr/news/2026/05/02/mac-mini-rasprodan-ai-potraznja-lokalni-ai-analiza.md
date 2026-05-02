@@ -1,7 +1,7 @@
 ---
 title: "Mac mini rasprodan zbog AI potražnje: mali Apple uređaj postaje neočekivani AI alat"
 slug: "mac-mini-rasprodan-ai-potraznja-lokalni-ai-analiza"
-date: 2026-04-24T12:00:00+02:00
+date: 2026-05-02T06:00:00+02:00
 category: "ai"
 translationKey: "6d67a039dbfbaea8a8d121bc6476b201"
 source: "Metaadvisor (TechCrunch, Business Insider, The Wall Street Journal, TechRadar, Times of India)"
