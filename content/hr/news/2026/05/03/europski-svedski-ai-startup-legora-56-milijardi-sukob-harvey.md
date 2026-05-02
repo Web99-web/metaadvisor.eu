@@ -55,8 +55,7 @@ Platforma omogućuje:
 
 Važno je naglasiti:
 
-👉 odvjetnici i dalje naplaćuju svoj rad
-👉 ali uz pomoć AI-a mogu raditi brže i obraditi više slučajeva
+👉 odvjetnici uz pomoć AI-a mogu raditi brže i obraditi više slučajeva
 
 {{< support1 >}}
 
