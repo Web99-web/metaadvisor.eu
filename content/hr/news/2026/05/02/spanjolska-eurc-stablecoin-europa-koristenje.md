@@ -1,4 +1,4 @@
---
+---
 title: "Španjolska predvodi korištenje EURC stablecoina u Europi: prvi test digitalnog eura u praksi"
 slug: "spanjolska-eurc-stablecoin-europa-koristenje"
 date: 2026-05-02T06:00:00+02:00
