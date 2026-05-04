@@ -1,5 +1,5 @@
 ---
-title: "GameStop 2.0: pokušaj kupnje eBaya mogao bi promijeniti pravila igre"
+title: "GameStop 2.0: Kako GameStop pokušava kupiti Ebay, firmu 4x veću od sebe"
 slug: "gamestop-pokusaj-kupnje-ebaya-meme-stock-preuzimanje"
 date: 2026-05-05T06:00:00+02:00
 category: "crypto"
