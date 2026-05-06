@@ -32,8 +32,6 @@ Nakon godina ponavljanja iste poruke — “Bitcoin se ne prodaje” — čini s
 
 Ova izjava dolazi u trenutku kada je tvrtka prijavila ogroman gubitak i kada se suočava s rastućim financijskim obvezama. Pitanje više nije samo što Strategy radi — nego što to znači za cijelo kripto tržište.
 
-{{< support1 >}}
-
 ## Rekordan gubitak mijenja ton
 
 Strategy je objavio neto gubitak od oko 12,5 milijardi dolara, najvećim dijelom zbog nerealiziranih gubitaka na Bitcoin pozicijama nakon pada cijene u prvom kvartalu.
@@ -46,7 +44,7 @@ Strategy ima oko 1,5 milijardi dolara obveza vezanih uz dividende i dug, a prema
 
 To je trenutak kada strategija počinje prelaziti iz teorije u praksu.
 
-{{< support2 >}}
+{{< support1 >}}
 
 ## “Prodati da pokažemo da možemo”
 
@@ -75,6 +73,9 @@ U veljači je čak izjavio da očekuje da će Strategy “kupovati Bitcoin zauvi
 Današnja izjava zato predstavlja jasan zaokret.
 
 Iako se ne radi o masovnoj prodaji, sama činjenica da se prodaja razmatra — mijenja percepciju tržišta.
+
+
+{{< support2 >}}
 
 ## Model koji ima smisla… ali i rizik
 
