@@ -57,6 +57,8 @@ Zasad nijedan ozbiljan izvor nije objavio puno ime i prezime osobe koja tvrdi da
 
 No upravo ta anonimnost dodatno pojačava misterij oko cijelog slučaja.
 
+{{< support1 >}}
+
 ## Lažna .app domena i Inferno Drainer
 
 Kako izlaze novi detalji, cijela priča postaje još ozbiljnija.
@@ -73,8 +75,6 @@ Istragu navodno vode i specijalizirane blockchain forenzičke firme:
 * Zero Shadow
 * Five Stones Intelligence
 
-{{< support1 >}}
-
 ## Pojavljuje se i ime Ukrajinca
 
 U sudskim dokumentima pojavljuje se i jedno ime koje bi moglo biti povezano s pranjem sredstava:
@@ -88,6 +88,8 @@ No važno je naglasiti:
 Trenutno se njegovo ime povezuje samo s dijelom laundering operacije odnosno mogućim premještanjem i prikrivanjem ukradenih sredstava.
 
 To dodatno pokazuje koliko su ovakvi slučajevi kompleksni i međunarodni.
+
+{{< support1 >}}
 
 ## Coinbase između regulacije i decentralizacije
 
