@@ -1,6 +1,6 @@
 ---
-title: "Wer ist Linea und warum versucht das Projekt, das Linux der Ethereum-Layer-2-Welt zu werden?"
-slug: "wer-ist-linea-und-warum-es-das-linux-von-ethereum-layer-2-werden-will"
+title: "Was ist Linea und warum versucht das Projekt, das Linux der Ethereum-Layer-2-Welt zu werden?"
+slug: "was-ist-linea-und-warum-es-das-linux-von-ethereum-layer-2-werden-will"
 date: 2026-05-08T06:00:00+02:00
 category: "tech"
 translationKey: "d9e51c74af7e4b5f9f64aa0c8b53f190"
