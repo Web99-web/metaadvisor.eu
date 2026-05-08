@@ -1,6 +1,6 @@
 ---
-title: "Tko je Linea i zašto pokušava postati Linux svijeta Ethereum Layer 2 mreža"
-slug: "tko-je-linea-i-zele-postati-linux-ethereum-layer-2"
+title: "Što je Linea i zašto pokušava postati Linux svijeta Ethereum Layer 2 mreža"
+slug: "sto-je-linea-i-zele-postati-linux-ethereum-layer-2"
 date: 2026-05-08T06:00:00+02:00
 category: "tech"
 translationKey: "d9e51c74af7e4b5f9f64aa0c8b53f190"
