@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "2118ec241458949cc9b99dc0fb997380"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-how-grayscale-brought-crypto-staking-to-wall-street-for-the-first-time1.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-etf-infrastructure-investment.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false

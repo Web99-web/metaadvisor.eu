@@ -15,7 +15,7 @@ _build:
 
 With bitcoin holding above $80,000 and stocks pushing to fresh record highs, risk appetite spilled deeper into crypto markets Friday, lifting altcoins and blockchain infrastructure plays.
 
-Solana (SOL), Chainlink LINK $ 10.49 , SUI $ 1.0758 and DOT $ 1.3787 rose around 5%, while Near Protocol (NEAR) and Uniswap (UNI) gained roughly 7%. Internet Computer Protocol’s ICP jumped nearly 12%, leading majors higher.
+Solana (SOL), Chainlink LINK $ 10.41 , SUI $ 1.0483 and DOT $ 1.3556 rose around 5%, while Near Protocol (NEAR) and Uniswap (UNI) gained roughly 7%. Internet Computer Protocol’s ICP jumped nearly 12%, leading majors higher.
 
 The move came alongside another strong session for equities. The tech-heavy Nasdaq climbed 2.2% to fresh record highs, while the S&P 500 added 0.85%, also closing at an all-time high.
 
