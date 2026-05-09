@@ -1,5 +1,5 @@
 ---
-title: "Zcash explodes again: ZEC could reach its November 2025 high"
+title: "Zcash explodes again: could ZEC reach its November 2025 high"
 slug: "zcash-explodes-again-zec-could-reach-2025-high"
 date: 2026-05-09T06:00:00+02:00
 category: "crypto"
