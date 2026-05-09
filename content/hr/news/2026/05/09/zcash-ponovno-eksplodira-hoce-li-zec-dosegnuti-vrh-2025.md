@@ -1,5 +1,5 @@
 ---
-title: "Zcash ponovno eksplodira: može li ZEC dosegnuti vrh iz studenog 2025.?"
+title: "Zcash ponovno eksplodira: može li ZEC dosegnuti vrh iz studenog 2025"
 slug: "zcash-ponovno-eksplodira-hoce-li-zec-dosegnuti-vrh-2025"
 date: 2026-05-09T06:00:00+02:00
 category: "crypto"
@@ -26,7 +26,7 @@ summary: "Zcash (ZEC) ponovno privlači pažnju tržišta nakon snažnog rasta i
   </a>
 </p>
 
-# Zcash ponovno eksplodira: može li ZEC dosegnuti vrh iz studenog 2025.?
+# Zcash ponovno eksplodira: može li ZEC dosegnuti vrh iz studenog 2025
 
 Zcash (ZEC) ponovno privlači pažnju kripto tržišta nakon snažnog rasta koji je u samo nekoliko tjedana podigao cijenu s područja ispod 200 USDT na više od 600 USDT.
 
