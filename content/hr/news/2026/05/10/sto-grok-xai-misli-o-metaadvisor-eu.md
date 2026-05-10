@@ -52,13 +52,13 @@ te naveo da projekt pokušava:
 
 * kompleksne teme objasniti jasno i jednostavno
 * približiti AI i crypto običnim ljudima
-* i izbjeći agresivni hype pristup koji je čest u ovom prostoru.\
+* i izbjeći agresivni hype pristup koji je čest u ovom prostoru.
 
 ## Što se Groku svidjelo kod MetaAdvisora?
 
 Prema Groku, projekt ima stvarni potencijal i nekoliko jasnih prednosti u odnosu na tipične AI i crypto news stranice.
 
-Posebno je istaknuo fokus na objašnjavanje kompliciranih tema običnim ljudima, bez agresivnog “guru” pristupa koji je čest u crypto industriji. Pozitivno je ocijenio i multilingual pristup - objavljivanje sadržaja na engleskom, hrvatskom i njemačkom jeziku.
+**Posebno je istaknuo fokus na objašnjavanje kompliciranih tema običnim ljudima, bez agresivnog “guru” pristupa koji je čest u crypto industriji. Pozitivno je ocijenio i multilingual pristup - objavljivanje sadržaja na engleskom, hrvatskom i njemačkom jeziku.**
    
 **Pozitivno:**
 Nezavisni su — financiraju se preko BuyMeACoffee donacija (nema velikih sponzora ili agresivnog oglašavanja).
@@ -135,7 +135,7 @@ Nakon ovog razgovora s Grokom, fokus projekta u sljedećem razdoblju bit će:
 
 MetaAdvisor se trenutno financira isključivo kroz podršku čitatelja putem Buy Me a Coffee platforme.
 
-Ako vam se sviđa ono što MetaAdvisor radi i želite podržati sate istraživanja, analiza i svakodnevnog praćenja novih AI, tech i crypto tema — svaka kava zaista znači puno, pogotovo jer kava često postane glavno gorivo za kasnonoćno istraživanje novih tema 😄
+Ako vam se sviđa ono što MetaAdvisor radi i želite podržati sate istraživanja, analiza i svakodnevnog praćenja novih AI, tech i crypto tema — svaka kava zaista znači puno, pogotovo jer kava često postane glavno gorivo za kasnonoćno istraživanje novih tema 😄 https://buymeacoffee.com/metaadvisor
 
 Hvala na svakoj podršci i svakoj “virtualnoj” kavi.
 
