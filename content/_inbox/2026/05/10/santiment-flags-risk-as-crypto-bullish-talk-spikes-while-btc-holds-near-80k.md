@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "662abc6929f6f3350178d7b5ee0a70a3"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/33ea4842-7bb9-4f20-87a5-f39817b51f97.jpeg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/bitcoin-crypto-desk-graph-chart.jpg"
 tags: ["crypto"]
 _build:
   publishResources: false

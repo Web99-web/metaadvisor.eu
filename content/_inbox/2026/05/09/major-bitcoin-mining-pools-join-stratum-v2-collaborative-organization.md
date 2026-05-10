@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "a95ed21741bd2f52467038eb110f4eaa"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/33ea4842-7bb9-4f20-87a5-f39817b51f97.jpeg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/bitcoin-crypto-desk-graph-chart.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false
