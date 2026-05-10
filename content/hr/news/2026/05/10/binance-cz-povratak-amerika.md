@@ -38,7 +38,7 @@ Ova priča dolazi samo nekoliko dana nakon što je CZ tijekom Consensus Miami ko
 
 Prema CZ-u, američki korisnici danas nemaju pristup najboljoj globalnoj liquidity koja se nalazi izvan SAD-a. Upravo zato Binance razmatra različite opcije za jačanje Binance.US platforme i potencijalni povratak ozbiljnijeg poslovanja unutar američkog tržišta.
 
-“To best liquidity in crypto is outside of the U.S.”, izjavio je CZ tijekom konferencije u Miamiju.
+“Najveća likvidnost u cryptu danas se nalazi izvan SAD-a”, izjavio je CZ tijekom konferencije u Miamiju.
 
 Drugim riječima:
 👉 Binance smatra da američki korisnici danas dobivaju lošije uvjete trgovanja nego ostatak svijeta.
