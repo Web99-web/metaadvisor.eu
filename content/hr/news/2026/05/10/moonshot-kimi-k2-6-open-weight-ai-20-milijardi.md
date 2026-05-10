@@ -48,6 +48,8 @@ Prema izvještajima:
 - sada je valuacija skočila na oko 20 milijardi
 - a kompanija je navodno prikupila gotovo 4 milijarde dolara u posljednjih šest mjeseci.
 
+{{< support1 >}}
+
 Najnoviju investicijsku rundu predvodio je Long-Z Investment, venture capital ogranak kineskog giganta Meituan.
 
 U financiranju su sudjelovali i:
@@ -103,6 +105,8 @@ To developerima omogućuje:
 - i manje ovisnosti o američkim cloud platformama.
 
 Zato dio analitičara vjeruje da bi Kina mogla postati vrlo ozbiljan konkurent američkoj AI dominaciji.
+
+{{< support1 >}}
 
 ## OpenAI, Anthropic i Google dobivaju novu konkurenciju
 
