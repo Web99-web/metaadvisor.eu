@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "45321160ccfd867e695425c0b6ac7b28"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/markets/bitcoin-price-holds-80k-into-weekly-close-traders-say-dips-not-over-yet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-research.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-supply-michael-saylor.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false

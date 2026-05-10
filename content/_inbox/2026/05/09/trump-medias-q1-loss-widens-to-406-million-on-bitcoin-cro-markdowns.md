@@ -19,7 +19,7 @@ The parent company of Truth Social booked $244 million in unrealized losses on i
 
 Trump Media held 9,542.16 bitcoin BTC $ 80,815.58 at the end of March, with a cost basis of $1.13 billion and a fair value of $647.1 million, the firm wrote in a filing with the SEC. That position is now worth around $770 million.
 
-The company also held 756.1 million CRO $ 0.07307 with a cost basis of $113.9 million and a fair value of $53 million. Trump Media closed the purchase of $105 million in CRO last year as part of a Crypto.com deal that tied the token to Truth Social and Truth+ rewards.
+The company also held 756.1 million CRO $ 0.07504 with a cost basis of $113.9 million and a fair value of $53 million. Trump Media closed the purchase of $105 million in CRO last year as part of a Crypto.com deal that tied the token to Truth Social and Truth+ rewards.
 
 Trump Media reported $17.9 million in operating cash flow for the quarter, helped by the sale of previously purchased put options on pledged bitcoin and bitcoin-related securities.
 
