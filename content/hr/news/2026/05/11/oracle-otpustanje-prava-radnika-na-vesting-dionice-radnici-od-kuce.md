@@ -66,7 +66,7 @@ Zbog toga se posljednjih dana sve više pojavljuje pitanje:
 
 {{< support1 >}}
 
-## Remote work sada pokazuje i drugu stranu
+## Remote work - rad od kuće - sada pokazuje i drugu stranu priče
 
 Jedan od najzanimljivijih dijelova cijele priče odnosi se na rad od kuće (remote work) model koji je godinama promoviran kao simbol moderne i fleksibilne budućnosti rada.
 
