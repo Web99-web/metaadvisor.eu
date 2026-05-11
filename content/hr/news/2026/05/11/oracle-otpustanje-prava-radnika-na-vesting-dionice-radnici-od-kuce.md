@@ -57,13 +57,9 @@ I upravo zato dio bivših Oracle zaposlenika tvrdi da nisu izgubili samo posao �
 
 ## Neki zaposlenici bili su svega nekoliko mjeseci od velikog vestinga
 
-Prema pisanju TechCruncha i drugih američkih medija, neki zaposlenici bili su samo nekoliko mjeseci udaljeni od velikih vesting datuma (stjecanje prava na dionice u budućnosti).
+Prema pisanju TechCruncha i drugih američkih medija, neki zaposlenici bili su samo nekoliko mjeseci udaljeni od velikih vesting datuma (stjecanje prava na dionice u budućnosti). Jedan dugogodišnji zaposlenik navodno je izgubio oko milijun dolara u dionicama koje su trebale postati njegovo vlasništvo samo četiri mjeseca kasnije.
 
-Jedan dugogodišnji zaposlenik navodno je izgubio oko milijun dolara u dionicama koje su trebale postati njegovo vlasništvo samo četiri mjeseca kasnije.
-
-To je razlog zašto su reakcije među bivšim zaposlenicima toliko emotivne.
-
-Za mnoge ljude u Silicon Valleyu upravo su RSU paketi i vesting sustav (stjecanje prava na dionice u budućnosti) često važniji od same mjesečne plaće. Neki zaposlenici ostaju u kompanijama još nekoliko mjeseci samo kako bi dočekali datum kada njihove dionice konačno postaju stvarno njihove.
+To je razlog zašto su reakcije među bivšim zaposlenicima toliko emotivne. Za mnoge ljude u Silicon Valleyu upravo su RSU paketi i vesting sustav (stjecanje prava na dionice u budućnosti) često važniji od same mjesečne plaće. Neki zaposlenici ostaju u kompanijama još nekoliko mjeseci samo kako bi dočekali datum kada njihove dionice konačno postaju stvarno njihove.
 
 Zbog toga se posljednjih dana sve više pojavljuje pitanje:
 👉 jesu li layoffs slučajno tempirani upravo prije velikih vesting datuma (stjecanje prava na dionice u budućnosti)?
