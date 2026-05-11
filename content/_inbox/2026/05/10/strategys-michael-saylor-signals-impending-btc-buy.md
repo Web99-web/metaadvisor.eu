@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "5cc5325e5e08408eca2b2de9563a818a"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/saylor-bitcoin-buy-sale-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-supply-michael-saylor.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-research.jpg"
 tags: ["crypto"]
 _build:
   publishResources: false
