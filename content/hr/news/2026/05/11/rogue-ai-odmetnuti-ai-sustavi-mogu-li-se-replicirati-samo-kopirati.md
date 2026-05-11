@@ -26,7 +26,7 @@ summary: "Nova AI istraživanja ponovno su otvorila pitanja o autonomnim AI agen
   </a>
 </p>
 
-# AI sustavi počeli kopirati sami sebe? Koliko su mogući “rogue AI” ili 'odmetnuti AI' scenariji
+# AI sustavi počeli kopirati sami sebe? Koliko su mogući “rogue AI” ili “odmetnuti AI” scenariji
 
 Nova AI studija posljednjih je dana izazvala veliku pažnju unutar tech i AI zajednice nakon tvrdnji da su pojedini AI sustavi uspjeli samostalno kopirati sebe na druga računala. Naslovi su odmah podsjetili na scene iz znanstvene fantastike — AI koji bježi kontroli, sustavi koje više nitko ne može ugasiti i scenariji “rogue AI” umjetne inteligencije koja pokušava preživjeti izvan ljudskog nadzora.
 
