@@ -62,13 +62,13 @@ Prema pisanju TechCruncha i drugih američkih medija, neki zaposlenici bili su s
 To je razlog zašto su reakcije među bivšim zaposlenicima toliko emotivne. Za mnoge ljude u Silicon Valleyu upravo su RSU paketi i vesting sustav (stjecanje prava na dionice u budućnosti) često važniji od same mjesečne plaće. Neki zaposlenici ostaju u kompanijama još nekoliko mjeseci samo kako bi dočekali datum kada njihove dionice konačno postaju stvarno njihove.
 
 Zbog toga se posljednjih dana sve više pojavljuje pitanje:
-👉 jesu li layoffs slučajno tempirani upravo prije velikih vesting datuma (stjecanje prava na dionice u budućnosti)?
+👉 jesu li masovna optuštanja (layoffs) slučajno tempirani upravo prije velikih vesting datuma (stjecanje prava na dionice u budućnosti)?
 
 {{< support1 >}}
 
 ## Remote work sada pokazuje i drugu stranu
 
-Jedan od najzanimljivijih dijelova cijele priče odnosi se na remote work model koji je godinama promoviran kao simbol moderne i fleksibilne budućnosti rada.
+Jedan od najzanimljivijih dijelova cijele priče odnosi se na rad od kuće (remote work) model koji je godinama promoviran kao simbol moderne i fleksibilne budućnosti rada.
 
 Dio bivših zaposlenika tvrdi da ih je Oracle vodio kao “remote workers” iz saveznih država koje imaju slabiju pravnu zaštitu zaposlenika.
 
