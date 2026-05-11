@@ -34,7 +34,7 @@ Dok je javnost uglavnom pratila brojke o navodnih 20.000 do 30.000 otpuštenih l
 
 Prema više izvještaja, dio bivših Oracle zaposlenika organizirao se kroz zajednička pisma, online peticije i interne grupe pokušavajući izvršiti pritisak na kompaniju. No Oracle navodno zasad ne pokazuje spremnost na ozbiljnije ustupke.
 
-## Problem nisu samo otpremnine
+## Problem nisu samo otpremnine nego i izgubljeni RSU paketi i “vesting” sustav
 
 Za velik dio bivših zaposlenika najveći problem nisu same otpremnine, nego izgubljeni RSU paketi i “vesting” sustav (stjecanje prava na dionice u budućnosti).
 
