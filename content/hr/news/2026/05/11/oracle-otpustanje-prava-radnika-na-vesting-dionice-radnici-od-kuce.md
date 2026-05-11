@@ -26,11 +26,11 @@ summary: "Nakon masovnih Oracle layoffs otkaza iz ožujka, bivši zaposlenici po
   </a>
 </p>
 
-# Oracle layoffs dobivaju novu dimenziju: bivši zaposlenici tvrde da su izgubili milijune kroz vesting sustav
+# Oracle layoffs dobivaju novu dimenziju: bivši zaposlenici tvrde da su izgubili milijune kroz vesting sustav (dioničke pakete)
 
 Vezano uz masovna otpuštanja koja je Oracle najavio 31. ožujka, a čija se vijest velikom brzinom proširila 1. travnja pa su mnogi isprva mislili da se radi o prvoaprilskoj šali, posljednjih dana pojavili su se novi detalji o pregovorima bivših zaposlenika i kontroverzama oko izgubljenih dioničkih paketa.
 
-Dok je javnost uglavnom pratila brojke o navodnih 20.000 do 30.000 otpuštenih ljudi, američki mediji sada sve više pišu o onome što se dogodilo nakon layoffs vala — pokušajima bivših zaposlenika da izbore bolje uvjete otpremnina i zaštite dio svojih dioničkih kompenzacija.
+Dok je javnost uglavnom pratila brojke o navodnih 20.000 do 30.000 otpuštenih ljudi, američki mediji sada sve više pišu o onome što se dogodilo nakon layoffs vala otpuštanja - pokušajima bivših zaposlenika da izbore bolje uvjete otpremnina i zaštite dio svojih dioničkih kompenzacija.
 
 Prema više izvještaja, dio bivših Oracle zaposlenika organizirao se kroz zajednička pisma, online peticije i interne grupe pokušavajući izvršiti pritisak na kompaniju. No Oracle navodno zasad ne pokazuje spremnost na ozbiljnije ustupke.
 
