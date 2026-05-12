@@ -42,11 +42,11 @@ He explained that many people inside the Bitcoin community still see Wall Street
 
 However, Mallers believes Bitcoin’s decentralized structure is strong enough to survive institutional participation. In his view, Bitcoin does not become weaker simply because banks and large investors decide to buy it.
 
+{{< support1 >}}
+
 ## Wall Street And Bitcoin ETFs Continue Growing
 
 The debate comes during a period of massive institutional growth around Bitcoin ETFs in the United States. Spot Bitcoin ETFs have already attracted tens of billions of dollars in net inflows since their launch.
-
-{{< support1 >}}
 
 Some Bitcoin supporters argue that ETFs concentrate too much Bitcoin inside the hands of a small number of financial companies. Others believe ETFs are helping Bitcoin become a mainstream global asset accessible to pension funds, traditional investors and institutions that previously avoided crypto entirely.
 
@@ -64,13 +64,15 @@ Metaadvisor.eu recently covered Strike’s growing expansion after the company r
 
 https://metaadvisor.eu/news/what-is-strike-bitcoin-app-bitlicense-new-york/
 
+
+
+{{< support2 >}}
+
 ## Could Institutional Capital Actually Strengthen Bitcoin?
 
 One of the most controversial parts of the debate is whether institutional money could eventually reshape Bitcoin itself.
 
 Critics argue that Wall Street firms may gain too much influence over custody, ETFs and market direction. Supporters, however, say institutional participation is inevitable if Bitcoin wants to compete with traditional stores of value like gold, government bonds or real estate.
-
-{{< support2 >}}
 
 Mallers believes Bitcoin is ultimately competing for global capital, and that major financial firms joining the ecosystem is simply a natural consequence of Bitcoin becoming more valuable and widely accepted.
 
