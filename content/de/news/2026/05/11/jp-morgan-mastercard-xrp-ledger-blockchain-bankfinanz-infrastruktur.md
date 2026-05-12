@@ -124,7 +124,8 @@ in Blockchain-Token umzuwandeln.
 In diesem Pilotprojekt nahm Ondo mit seinem tokenisierten US-Treasury-Fonds namens OUSG teil.
 
 Ondo wird in den letzten Monaten immer häufiger in Zusammenhang mit tokenisierten Finanzwerten und Blockchain-Infrastruktur erwähnt. Bereits zuvor hatten wir über ihre Beteiligung an Projekten rund um die Tokenisierung von Aktien auf der Blockchain berichtet:
-➡️ https://metaadvisor.eu/hr/news/ondo-finance-tokenizacija-dionica-blockchain-buducnost/
+➡️ 
+https://metaadvisor.eu/de/news/ondo-finance-tokenisierung-aktien-blockchain-zukunft/
 
 ## Welche Rolle spielte Mastercard?
 
