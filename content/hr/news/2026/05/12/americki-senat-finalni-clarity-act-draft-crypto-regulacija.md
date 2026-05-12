@@ -4,7 +4,7 @@ slug: "americki-senat-finalni-clarity-act-draft-crypto-regulacija"
 date: 2026-05-12T06:00:00+02:00
 category: "crypto"
 translationKey: "5f2d91c84abf4b8e9e6c772ab11d5027"
-source: "Metaadvisor (CoinDesk, Cointelegraph, Reuters)"
+source: "Metaadvisor (Reuters, CoinDesk, Cointelegraph, Barron’s, Yahoo Finance, CryptoBriefing, The Block, PYMNTS)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
 image_url: "/images/Clarity-act.png"
