@@ -124,7 +124,8 @@ into blockchain-based tokens.
 In this case, Ondo participated through its tokenized US Treasury fund called OUSG.
 
 Ondo has been increasingly mentioned in stories involving tokenized financial assets and blockchain infrastructure, and we previously covered the company’s participation in projects involving stock tokenization on blockchain systems:
-➡️ https://metaadvisor.eu/hr/news/ondo-finance-tokenizacija-dionica-blockchain-buducnost/
+➡️ 
+https://metaadvisor.eu/news/ondo-finance-tokenized-stocks-blockchain-future/
 
 ## What role did Mastercard play?
 
