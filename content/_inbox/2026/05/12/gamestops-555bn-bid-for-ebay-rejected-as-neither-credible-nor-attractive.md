@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Online marketplace takes into account uncertainty around US video games retailer’s financing proposal
+Online marketplace takes into account uncertainty around US video game retailer’s financing proposal
 
 The board of eBay has rejected the US video games retailer GameStop’s surprise $55.5bn bid (£41bn) for the online marketplace, describing the proposal as “neither credible nor attractive”.
 
