@@ -19,7 +19,9 @@ Ethereum liquid restaking platform Kelp and decentralized lending protocol Aave 
 
 Kelp DAO detailed a post-exploit recovery for its liquid staking token rsETH on Tuesday, confirming that the hacker’s tokens were burned on the layer-2 Arbitrum network.
 
-The 117,132 rsETH, currently worth about $278 million, will be refilled progressively over two weeks from Aave Recovery Guardian, a multisignature wallet controlled by the DeFi United recovery group and Kelp’s own recovery safe into the LayerZero OFT adapter, a smart contract that handles locking, minting, burning and releasing rsETH during cross-chain transfers.
+The 117,132 rsETH — worth about $278 million at current prices — will be progressively restored over two weeks using funds from the Aave Recovery Guardian multisignature wallet, which is controlled by the DeFi United recovery group and Kelp’s own recovery safe.
+
+The funds will be routed through the LayerZero OFT adapter, the smart contract responsible for locking, minting, burning and releasing rsETH during cross-chain transfers.
 
 Kelp DAO confirmed that rsETH on mainnet and layer-2 networks, which has a market capitalization of $1.5 billion, remains fully backed at all times.
 
@@ -31,4 +33,4 @@ Blockchain security firm OpenZeppelin reported at the time that no smart contrac
 
 Tracking the exploited funds. Source: Cyvers
 
-Kelp said it will unpause withdrawals, “tentatively within 24 hours,” after the first tranche is returned to the
+Kelp said it will unpause withdrawals,

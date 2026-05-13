@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 81,010.10 shrugged off the inflation scare almost as quickly as the print landed.
+Bitcoin BTC $ 80,947.38 shrugged off the inflation scare almost as quickly as the print landed.
 
 The largest cryptocurrency dropped to $79,879 in late U.S. hours Tuesday after the April Consumer Price Index came in at 3.8% year-over-year, hotter than economists had estimated, with gasoline prices doing most of the lift since the Iran war began. BTC recovered to $81,208 by Asian morning Wednesday, ending the session up 0.3% over 24 hours after trading a $1,400 range. The dip got bought aggressively.
 
