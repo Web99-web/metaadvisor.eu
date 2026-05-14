@@ -51,6 +51,8 @@ Velik broj korisnika danas se i dalje susreće s:
 
 Zbog toga Hyperliquid sada pokušava pojednostaviti cijeli ecosystem i fokusirati likvidnost oko jednog dominantnog stablecoina — USDC-a.
 
+{{< support1 >}}
+
 ## Mnogi nisu znali da je Coinbase povezan s USDC-om
 
 Dio mlađe crypto zajednice danas USDC prvenstveno povezuje s Circleom, ali Coinbase je zapravo bio jedan od ključnih partnera od samog početka razvoja stablecoina.
@@ -60,6 +62,14 @@ USDC je pokrenut još 2018. kroz Centre Consortium koji su zajedno osnovali Coin
 Nova Hyperliquid objava sada pokazuje da Coinbase želi imati još veću ulogu:
 - ne samo kao exchange,
 - nego i kao važan infrastrukturni i treasury partner u DeFi sektoru.
+
+## Što se događa s USDH stablecoinom?
+
+Objava je istovremeno potvrdila i postupni sunset USDH stablecoina. Native Markets pristao je na dogovor prema kojem Coinbase dobiva pravo kupnje USDH brand asseta, dok će postojeći USDH marketi ostati aktivni tijekom prijelaznog razdoblja.
+
+Hyperliquid pritom tvrdi da USDH ostaje potpuno backed te da korisnici mogu bez feeja konvertirati sredstva u USDC ili fiat tijekom tranzicije. Projekt je najavio i grantove za developere i timove koji su koristili USDH infrastrukturu kako bi im se olakšala migracija prema novom sustavu.
+
+Iako USDH postupno odlazi iz fokusa, Hyperliquid navodi da će ideje i mehanizmi koje je stablecoin razvio nastaviti živjeti kroz AQAv2 model.
 
 {{< support1 >}}
 
@@ -84,6 +94,8 @@ Dio profesionalnih tradera tvrdi da je upravo:
 - i dobra likvidnost
 
 ono što je Hyperliquid izdvojilo od mnogih drugih decentraliziranih trading projekata.
+
+{{< support1 >}}
 
 ## Hyperliquid više ne izgleda kao underground projekt
 
