@@ -1,5 +1,5 @@
 ---
-title: "Entsteht rund um den TRUMP Coin und das T1 Mobile Phone ein neues digitales Ecosystem?"
+title: "TRUMP Coin + goldenes Trump T1 Phone: Entsteht ein neues digitales Ecosystem?"
 slug: "trump-coin-t1-phone-mobile-mvno-oekosystem"
 date: 2026-05-14T06:00:00+02:00
 category: "crypto"
