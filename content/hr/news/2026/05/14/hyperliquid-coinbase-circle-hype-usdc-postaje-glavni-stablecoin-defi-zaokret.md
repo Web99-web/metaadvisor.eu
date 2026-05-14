@@ -53,7 +53,7 @@ Zbog toga Hyperliquid sada pokušava pojednostaviti cijeli ecosystem i fokusirat
 
 ## Mnogi nisu znali da je Coinbase povezan s USDC-om
 
-Dio crypto zajednice danas USDC prvenstveno povezuje s Circleom, ali Coinbase je zapravo bio jedan od ključnih partnera od samog početka razvoja stablecoina.
+Dio mlađe crypto zajednice danas USDC prvenstveno povezuje s Circleom, ali Coinbase je zapravo bio jedan od ključnih partnera od samog početka razvoja stablecoina.
 
 USDC je pokrenut još 2018. kroz Centre Consortium koji su zajedno osnovali Coinbase i Circle. Kasnije je Circle postao glavni issuer stablecoina, ali Coinbase je ostao duboko povezan s cijelim USDC ecosystemom i prihodima od rezervi.
 
@@ -84,29 +84,6 @@ Dio profesionalnih tradera tvrdi da je upravo:
 - i dobra likvidnost
 
 ono što je Hyperliquid izdvojilo od mnogih drugih decentraliziranih trading projekata.
-
-## Tko zapravo donosi volumen na market?
-
-Pitanje koje si mnogi retail korisnici danas postavljaju glasi:
-kako novi exchange uopće dobije prve tradere i veliki volumen?
-
-Odgovor se uglavnom skriva u market makerima.
-
-Riječ je o profesionalnim trading firmama koje:
-- stalno postavljaju buy i sell naloge,
-- održavaju likvidnost marketa,
-- smanjuju spreadove,
-- i omogućuju da trading izgleda “smooth”.
-
-Bez market makera većina novih exchangeeva izgledala bi gotovo prazno.
-
-Na većim crypto marketima danas dominiraju profesionalne firme s:
-- algoritamskim botovima,
-- quant traderima,
-- high-frequency trading sustavima,
-- i milijunskim kapitalom.
-
-Zbog toga dio retail tradera često ima osjećaj da “market uvijek zna gdje su njihovi stop-lossovi”, posebno na highly leveraged perpetual marketima.
 
 ## Hyperliquid više ne izgleda kao underground projekt
 
