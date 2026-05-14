@@ -1,5 +1,5 @@
 ---
-title: "Stvara li se oko TRUMP coina i T1 Mobile Phonea novi digitalni ecosystem?"
+title: "TRUMP coin + zlatni Trump T1 Phone: Stvara li se novi digitalni ecosystem?"
 slug: "trump-coin-t1-phone-mobile-mvno-ecosystem"
 date: 2026-05-14T06:00:00+02:00
 category: "crypto"
