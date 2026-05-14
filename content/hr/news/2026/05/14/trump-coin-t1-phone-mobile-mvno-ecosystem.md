@@ -4,7 +4,7 @@ slug: "trump-coin-t1-phone-mobile-mvno-ecosystem"
 date: 2026-05-14T06:00:00+02:00
 category: "crypto"
 translationKey: "7d1f4b29c84a5f0e3a91cb728de51f22"
-source: "Metaadvisor (CoinDesk, The Verge, TechRadar)"
+source: "Metaadvisor (CoinDesk, The Verge, TechRadar, Yahoo Finance, New York Magazine)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
 image_url: "/images/companies/Trump-T1-phone-Mobile.png"
