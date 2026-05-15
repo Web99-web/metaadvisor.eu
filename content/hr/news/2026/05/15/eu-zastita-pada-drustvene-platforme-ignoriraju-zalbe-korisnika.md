@@ -36,7 +36,11 @@ Vezano uz temu koju pratimo - a to su AI moderacije, zapravo AI BRISANJE LJUDI i
 
 Ono o čemu ovdje govorimo nije izolirani problem, nego sve šira pojava o kojoj ljudi diljem svijeta sve češće govore — masovno brisanje korisnika s najvećih društvenih platformi, posebno Facebooka i Instagrama. https://metaadvisor.eu/news/facebook-instagram-accounts-mass-disabled-us-canada-philippines/
 
-Zašto se o tome ne govori glasnije? **Zato što ih izbrišu iznenada i trenutno - i ljudi ne mogu masovno podijeliti što im se događa. AI IZBRIŠE LJUDE, njihov digitalni glas i njihovu mogućnost komunikacije i dijeljena informacija**
+Zašto se o tome ne govori glasnije? **Zato što ih izbrišu iznenada i trenutno - i ljudi ne mogu masovno podijeliti što im se događa. AI IZBRIŠE LJUDE, njihov digitalni glas i njihovu mogućnost komunikacije i dijeljena informacija**.
+
+![Meta wrongfully disabling accounts](/static/images/Meta/Meta-wrongfully-disabling-accounts-Facebook-Instagram.png)
+
+O ovome problemu se sve više govori i kroz inicijative poput online peticija u koje se uključuju korisnici koji tvrde da su pogrešno uklonjeni zbog AI moderacije, što dodatno potvrđuje da se ne radi o izoliranim slučajevima, već o sve raširenijem problemu.
 
 Većina ljudi ne koristi desetke različitih platformi, nego su prisutni na nekoliko najvećih — mjesto gdje su svi, gdje su kontakti, vijesti, komunikacija, ali i posao. U današnje doba, pogotovo nakon Covida, velike društvene mreže postale su svojevrsni “utility” tj. osnovna digitalna struktura (kao što se danas uobičajeno smatra da ljudi imaju struju i vodu)  I upravo zato je udarac veći kada ih, praktički preko noći, sustav jednostavno ukloni. Profil dobije kratku poruku: prekršili ste uvjete korištenja. Bez konkretnog objašnjenja. Bez konteksta. Bez emaila za kontakt. Ljudi tada počinju preispitivati sami sebe — što su napravili, gdje su pogriješili — iako često nisu učinili ništa sporno. U velikom broju slučajeva radi se o AI moderaciji. Automatizirani sustavi brišu profile, poslovne stranice, kontakte, fotografije i godine komunikacije — bez stvarnog objašnjenja, bez učinkovite žalbe i bez ljudske podrške koja bi mogla intervenirati.
 
