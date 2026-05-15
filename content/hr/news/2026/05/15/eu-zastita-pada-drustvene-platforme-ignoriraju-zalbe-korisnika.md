@@ -30,7 +30,7 @@ Slika je simbolična.
 
 # EU zaštita pada: društvene platforme ignoriraju žalbe korisnika
 
-Vezano uz temu koju pratimo - a to su AI moderacije, zapravo AI BRISANJE LJUDI i masovni tihi i automatski banovi tj. brisanje tisuća normalnih korisnika na društvenim mrežama, što smo pratili kroz nekoliko članaka - https://metaadvisor.eu/news/social-media-bans-eu-ai-moderation-accounts/ a u ovom članku smo, kao pozitivno, naveli da u Europi korisnici ipak imaju veću zaštitu i pravo, jer se EU brine o svojim građanima. Međutim, sada dobivamo kontra informacije da je to sve samo EU zaštita na 'papiru' dok se u stvarnosti ništa ne mijenja i platforme ih i dalje nisu vratili na mreže, ignoriraju im emailove i ispada da su ih sve nadigrale, uključujući i EU. O čemu se radi?
+Vezano uz temu koju pratimo - a to su AI moderacije, zapravo AI BRISANJE LJUDI i masovni tihi i automatski banovi ili brisanje tisuća normalnih korisnika na društvenim mrežama, što smo pratili kroz nekoliko članaka - https://metaadvisor.eu/news/social-media-bans-eu-ai-moderation-accounts/ a u ovom članku smo, kao pozitivno, naveli da u Europi korisnici ipak imaju veću zaštitu i pravo, jer se EU brine o svojim građanima. Međutim, sada dobivamo kontra informacije da je to sve samo EU zaštita na 'papiru' dok se u stvarnosti ništa ne mijenja i platforme ih i dalje nisu vratili na mreže, ignoriraju im emailove i ispada da su ih sve nadigrale, uključujući i EU. O čemu se radi?
 
 ## O čemu se zapravo ovdje radi - zašto ljudi misle da se uklanjaju samo spameri, kad uklanjaju i normalne korisnike
 
