@@ -1,11 +1,11 @@
 ---
 title: "Google denies breaching law by promoting suicide forum linked to 164 UK deaths"
-date: 2026-05-14T16:14:46Z
+date: 2026-05-14T17:01:14Z
 category: "news"
 translationKey: "e68cd5d1df50c424fd4ecd895a3e427b"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2026/may/14/google-law-suicide-forum-online-safety-act-technology"
-image_url: "https://i.guim.co.uk/img/media/b81d75ecc030ba7e12d35f91cdd9de4d9f24e475/245_0_5589_4471/master/5589.jpg?width=465&dpr=1&s=none&crop=none"
+image_url: "https://i.guim.co.uk/img/media/9f0ce295a254109a52849eaedecd82715785ddc2/363_0_2084_1667/master/2084.jpg?width=465&dpr=1&s=none&crop=none"
 tags: []
 _build:
   publishResources: false
@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Link to US-based site, whose operators were fined £950,000 by Ofcom, appears in Google’s search results and can be accessed in UK
+US-based site, whose operators were fined £950,000 by Ofcom, appears in Google’s search results and can be accessed in UK
 
 Google has denied breaching the Online Safety Act by promoting a “nihilistic” suicide forum associated with 164 deaths in the UK, where it is supposed to be banned.
 
@@ -29,4 +29,4 @@ However, it includes the website’s address, which can then be used to access t
 
 When set to simulate internet access from the US, Germany and France, the full forum was easily accessible, including detailed advice on the efficacy of various methods of suicide.
 
-The Molly Rose Foundation, set up in the memory of Molly Russell, a
+The Molly Rose Foundation, set up in the memory of Molly Russell, a 14-year-old
