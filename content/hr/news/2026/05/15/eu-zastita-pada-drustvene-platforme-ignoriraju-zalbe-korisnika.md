@@ -38,7 +38,7 @@ Ono o čemu ovdje govorimo nije izolirani problem, nego sve šira pojava o kojoj
 
 Zašto se o tome ne govori glasnije? **Zato što ih izbrišu iznenada i trenutno - i ljudi ne mogu masovno podijeliti što im se događa. AI IZBRIŠE LJUDE, njihov digitalni glas i njihovu mogućnost komunikacije i dijeljena informacija**.
 
-![Meta wrongfully disabling accounts](/static/images/Meta/Meta-wrongfully-disabling-accounts-Facebook-Instagram.png)
+![Meta wrongfully disabling accounts](/images/Meta/Meta-wrongfully-disabling-accounts-Facebook-Instagram.png)
 
 O ovome problemu se sve više govori i kroz inicijative poput online peticija u koje se uključuju korisnici koji tvrde da su pogrešno uklonjeni zbog AI moderacije, što dodatno potvrđuje da se ne radi o izoliranim slučajevima, već o sve raširenijem problemu.
 
