@@ -38,11 +38,7 @@ Those Bitcoin are now worth more than $300,000, and the story quickly exploded o
 
 According to the reports, the wallet owner had spent years trying to regain access to an old Blockchain.com account. The problem was that over time he had used multiple passwords and was no longer certain which one matched the correct wallet backup.
 
-For eight weeks, he attempted brute-force recovery methods using GPU servers and specialized tools such as btcrecover. Reports claim that around 3.5 trillion password combinations were tested.
-
-Nothing worked.
-
-Then he decided to try something completely different.
+For eight weeks, he attempted brute-force recovery methods using GPU servers and specialized tools such as btcrecover. Reports claim that around 3.5 trillion password combinations were tested. Nothing worked. Then he decided to try something completely different.
 
 He uploaded old college notebooks, backups, old Macs, external drives, Apple Notes exports, Gmail inboxes, iCloud Mail archives and even old X messages into Claude. In total, the AI analyzed more than one gigabyte of personal historical data.
 
@@ -58,27 +54,13 @@ Once the backup file and the old password were connected, the wallet opened.
 
 The internet immediately began spreading claims that AI had “broken Bitcoin,” but security experts quickly pointed out that this is not what happened.
 
-Bitcoin’s cryptography was not compromised.
-
-The AI did not discover a flaw in the Bitcoin network.
-
-Claude did not “hack” private keys.
-
-Instead, the AI helped organize and connect a massive amount of forgotten digital traces that the owner himself could no longer process manually.
+Bitcoin’s cryptography was not compromised. The AI did not discover a flaw in the Bitcoin network. Claude did not “hack” private keys. Instead, the AI helped organize and connect a massive amount of forgotten digital traces that the owner himself could no longer process manually.
 
 ## Why this story matters far beyond Bitcoin
 
-This viral story may actually reveal something much bigger than another crypto headline.
+This viral story may actually reveal something much bigger than another crypto headline. Modern people leave behind enormous amounts of digital information — old emails, backups, cloud accounts, USB drives, screenshots, exported app data, forgotten laptops and years of scattered notes. Most of those digital fragments eventually disappear into personal digital chaos. But AI tools are becoming increasingly powerful at connecting exactly those types of fragmented historical records.
 
-Modern people leave behind enormous amounts of digital information — old emails, backups, cloud accounts, USB drives, screenshots, exported app data, forgotten laptops and years of scattered notes.
-
-Most of those digital fragments eventually disappear into personal digital chaos.
-
-But AI tools are becoming increasingly powerful at connecting exactly those types of fragmented historical records.
-
-That opens an entirely new dimension for digital forensics, cybersecurity and personal data organization.
-
-In the future, AI may become far more than just a chatbot for answering questions or generating text. It could evolve into a personal digital investigator capable of helping users recover lost information, navigate old archives and reconnect forgotten pieces of their own digital history.
+That opens an entirely new dimension for digital forensics, cybersecurity and personal data organization. In the future, AI may become far more than just a chatbot for answering questions or generating text. It could evolve into a personal digital investigator capable of helping users recover lost information, navigate old archives and reconnect forgotten pieces of their own digital history.
 
 Metaadvisor.eu believes stories like this are an early glimpse into how AI could reshape personal data recovery in the years ahead.
 
@@ -86,26 +68,18 @@ Metaadvisor.eu believes stories like this are an early glimpse into how AI could
 
 ## Bitcoin itself was never “cracked”
 
-For context, truly “breaking” Bitcoin would require either a severe flaw in elliptic-curve cryptography or a fully functional quantum computer capable of running Shor’s algorithm.
+For context, truly “breaking” Bitcoin would require either a severe flaw in elliptic-curve cryptography or a fully functional quantum computer capable of running Shor’s algorithm. That technology does not currently exist in any practical form.
 
-That technology does not currently exist in any practical form.
-
-This is why many experts see the viral “AI hacked Bitcoin” headlines as internet sensationalism rather than an actual technological threat.
-
-Still, the story highlights how artificial intelligence could fundamentally change the way people interact with their digital lives.
+This is why many experts see the viral “AI hacked Bitcoin” headlines as internet sensationalism rather than an actual technological threat. Still, the story highlights how artificial intelligence could fundamentally change the way people interact with their digital lives.
 
 Because the biggest future problem may not be hackers stealing data — but ordinary people no longer knowing where their own data even exists.
 
 ## Our Take (Metaadvisor)
 
 • This story shows how useful AI can become in organizing and analyzing massive amounts of personal data.
-
 • Bitcoin was not hacked and its cryptography remains secure.
-
 • AI tools may become extremely important for digital forensics and data recovery.
-
 • Many users still manage backups, passwords and seed phrases very poorly.
-
 • Viral internet headlines often exaggerate and misrepresent technological events.
 
 <p style="font-size:13px; opacity:0.7;">
