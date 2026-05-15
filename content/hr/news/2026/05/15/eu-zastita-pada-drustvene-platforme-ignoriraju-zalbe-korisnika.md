@@ -1,0 +1,109 @@
+---
+title: "EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, drustvene platforme ignoriraju?"
+slug: "eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika"
+date: 2026-05-15T12:00:00+02:00
+category: "ai"
+translationKey: "eu-protection-fails-platforms-ignore-user-appeals"
+source: "Metaadvisor"
+source_url: "https://metaadvisor.eu/"
+author: "Metaadvisor.eu"
+image_url: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+featured_image: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+image: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+thumbnail: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+image_alt: "EU zaštita i blokirani korisnici društvenih mreža Facebook, Instagram"
+image_credit: "Metaadvisor.eu"
+tags: ["eu", "dsa", "ai moderacija", "appeals centre europe", "platforme", "žalbe", "digitalna prava", "facebook", "instagram", "messenger", "business suite"]
+summary: "Sustav digitalne zaštite u EU obećava sigurnost korisnika, ali u praksi platforme ignoriraju žalbe, a odluke Appeals centra nemaju pravnu snagu."
+---
+
+<p style="font-size:13px; opacity:0.7;">
+Slika je simbolična.
+</p>
+
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
+  </a>
+</p>
+
+# EU zaštita pada: društvene platforme ignoriraju žalbe korisnika
+
+Vezano uz temu koju pratimo - a to su AI moderacije, zapravo AI BRISANJE LJUDI i masovni tihi i automatski banovi tj. brisanje tisuća normalnih korisnika na društvenim mrežama, što smo pratili kroz nekoliko članaka - https://metaadvisor.eu/news/social-media-bans-eu-ai-moderation-accounts/ a u ovom članku smo, kao pozitivno, naveli da u Europi korisnici ipak imaju veću zaštitu i pravo, jer se EU brine o svojim građanima. Međutim, sada dobivamo kontra informacije da je to sve samo EU zaštita na 'papiru' dok se u stvarnosti ništa ne mijenja i platforme ih i dalje nisu vratili na mreže, ignoriraju im emailove i ispada da su ih sve nadigrale, uključujući i EU. O čemu se radi?
+
+## O čemu se zapravo ovdje radi - zašto ljudi misle da se uklanjaju samo spameri, kad uklanjaju i normalne korisnike
+
+Ono o čemu ovdje govorimo nije izolirani problem, nego sve šira pojava o kojoj ljudi diljem svijeta sve češće govore — masovno brisanje korisnika s najvećih društvenih platformi, posebno Facebooka i Instagrama. https://metaadvisor.eu/news/facebook-instagram-accounts-mass-disabled-us-canada-philippines/
+
+Zašto se o tome ne govori glasnije? **Zato što ih izbrišu iznenada i trenutno - i ljudi ne mogu masovno podijeliti što im se događa. AI IZBRIŠE LJUDE.**
+
+Većina ljudi ne koristi desetke različitih platformi, nego su prisutni na nekoliko najvećih koje su postale svojevrsni “utility” (tj. osnovna digitalna struktura, nešto kao što se danas smatra struja i voda) — mjesto gdje su svi, gdje su kontakti, vijesti, komunikacija, ali i posao. I upravo zato je udarac veći kada ih, praktički preko noći, sustav jednostavno ukloni. Profil dobije kratku poruku: prekršili ste uvjete korištenja. Bez konkretnog objašnjenja. Bez konteksta. Bez emaila za kontakt. Ljudi tada počinju preispitivati sami sebe — što su napravili, gdje su pogriješili — iako često nisu učinili ništa sporno. U velikom broju slučajeva radi se o AI moderaciji. Automatizirani sustavi brišu profile, poslovne stranice, kontakte, fotografije i godine komunikacije — bez stvarnog objašnjenja, bez učinkovite žalbe i bez ljudske podrške koja bi mogla intervenirati.
+
+Mnogi i dalje vjeruju da se to događa samo prevarantima ili “lošim akterima”. To jednostavno nije točno. Sve češće pogađa obične korisnike i male poduzetnike. Najproblematičniji dio je način na koji se to događa. Sustavi često uklanjaju ljude tiho. Jedan trenutak sve funkcionira, sljedeći račun nestaje — a okolina to uopće ne primijeti. Prijatelji misle da je osoba jednostavno prestala koristiti društvene mreže.
+
+Umjetna inteligencija može biti iznimno moćan alat. No sustavi koji imaju ovakvu razinu kontrole nad digitalnim životima ljudi ne bi smjeli funkcionirati bez stvarnog i odgovornog ljudskog nadzora. Netko ih je kreirao, netko je odobrio da ovo rade i netko je odgovoran.
+
+## Što se događa kada platforme jednostavno ne odgovaraju?
+
+Europska unija kroz **Digital Services Act** pokušava postaviti sustav koji bi korisnicima dao stvarnu zaštitu u odnosu na velike digitalne platforme. Ideja je jasna: ako platforma donese odluku koja utječe na korisnika, taj korisnik ima pravo žalbe i pristup neovisnom tijelu koje bi trebalo procijeniti je li odluka bila ispravna. Na papiru, riječ je o ozbiljnom pokušaju uspostavljanja ravnoteže.
+
+U praksi, međutim, sustav se raspada u trenutku kada platforma odluči ne sudjelovati.
+
+{{< support1 >}}
+
+**Kada korisnik izgubi pristup računu, gubi i mogućnost direktnog kontakta s platformom jer se više ne može ulogirati**. Proces žalbe formalno postoji, ali samo kroz platformu, jer nemaju javno istaknute emailove, a i one koje su prije imali, ignoriraju, što znači da sve često završava bez odgovora - totalni muk od strane platformi. Platforme ne komuniciraju, ne daju dodatne informacije i ne ulaze u dijalog. Cijeli proces pretvara se u čekanje bez ishoda, dok istovremeno korisnik ima ograničeno vrijeme — **često 180 dana** — prije trajnog brisanja računa.
+
+![Appeals Centre Europe 1](/images/Meta/EU-Appeals-Centre-Europe-1.png)
+
+## Appeals Centre Europe: odluka bez stvarne snage
+
+U takvim situacijama uključuje se **Appeals Centre Europe, zamišljen kao neovisni mehanizam za rješavanje sporova između korisnika i platformi**. - Obzirom da je blokiran, korisnik pokušava doći natrag do svog privatnog računa ili poslovne stranice ili grupe, i ako je iz EU, EU je najavila zaštitu svojih građana i to sve zvuči odlično.... i pokušava preko  Appeals Centre Europe. Na papiru, to izgleda kao rješenje. Njihova stranica je prepuna pozitivnih slika i pozitivnih poruka, no je li to sve baš tako?
+
+![Appeals Centre Europe 2](/images/Meta/EU-Appeals-Centre-Europe-2.png)
+
+Međutim upravo u toj praksi i upravo u tim postupcima postaje jasno gdje sustav gubi snagu. **Čini se da platforme formalno-pravno mogu ignorirati i EU Appeals Centre Europe. Kako je to moguće? Moguće je - jer Appeals Centre Europe je neovisno tijelo i uopće nema mogućnost kažnjavanja**. A i ono što je vidljivo na njihovoj stranici je da njihov rad, koji nije obvezujući je zapravo i plaćen od strane platformi. Štoviše čini se da su im uredi pozicionirani u Dublinu kao i Meta? 
+![Appeals Centre Europe 4](/images/Meta/EU-Appeals-Centre-Europe-4.png)
+
+Dodatno zabrinjava činjenica da u nekim slučajevima izgleda kako platforme uopće nisu sudjelovale u postupku. Ako se odluka donosi uz napomenu da nije bilo dovoljno informacija s druge strane, postavlja se pitanje je li komunikacija uopće postojala ili se cijeli proces odvijao bez stvarnog odgovora platforme. U međuvremenu, vrijeme radi protiv korisnika. Mnoge platforme imaju rok nakon kojeg se podaci trajno brišu, često oko 180 dana. Ako u tom razdoblju nema odgovora ili provedbe odluke, gubitak postaje nepovratan.
+
+I što ako platforma ne dostavi informacije ili se uopće ne uključi? Appeals Centre Europe može donijeti odluku u korist korisnika, ali ta odluka nije pravno obvezujuća. I sada dolazimo do glavnog i osnovnog problema jer **Appeals Centre Europe nema izvršnu moć**. Što to znači? Ako platforma ne dostavi informacije ili se uopće ne uključi u postupak, **Appeals Centre Europe može donijeti odluku u korist korisnika — ali ta odluka nije pravno obvezujuća. Platforma je može jednostavno ignorirati.**
+
+![Appeals Centre Europe odluka](/images/Meta/Appeals-centre-Europe-dispute.png) 
+
+To dovodi do apsurdne situacije: korisnik dobiva potvrdu da je u pravu, ali bez ikakvog načina da tu odluku provede.
+**Platforma može ignorirati korisnika, ignorirati postupak i ignorirati odluku — bez posljedica.**
+
+Ako se sustav temelji na pretpostavci da će platforme surađivati, a ta suradnja nije obvezna niti sankcionirana, tada se odnos snaga ne mijenja. Platforme i dalje odlučuju hoće li sudjelovati, a korisnik ostaje bez stvarne zaštite čak i kada formalno dobije odluku u svoju korist.
+
+## Što korisnik zapravo može napraviti?
+
+U tom trenutku dolazimo do ključnog pitanja: što korisnik uopće treba napraviti s odlukom koja mu ide u korist? Ako nema pristup računu i ako platforma ne odgovara — kome se ta odluka predaje? Platformi koja ga ignorira? I do koje ne može niti doći, jer je blokiran. **Ili je treba simbolično “prikucati” na vrata EU institucija?**
+
+Bez kanala komunikacije i bez mehanizma provedbe, odluka ostaje samo dokument bez stvarne vrijednosti. - **Prazno slovo na papiru.**
+
+U današnjem digitalnom svijetu to više nije mali problem. Platforme su postale infrastruktura za komunikaciju, poslovanje i pristup informacijama. Gubitak računa znači gubitak kontakata, sadržaja i digitalnog identiteta, što za mnoge korisnike ima konkretne socijalne i ekonomske posljedice u stvarnom životu.
+
+## AI moderacija briše sve: korisnici bez računa i bez objašnjenja
+
+Iskustva korisnika o Appeals Centre Europe su podijeljena. Postoje navodi da su neki uspjeli vratiti svoje račune, no većina tih primjera odnosi se na 2025. godinu. To je posebno znakovito jer upravo od ljeta 2025. počinje intenzivniji val AI moderacije i masovnog uklanjanja korisnika, nakon čega se sve veći broj ljudi javlja s istim problemom — da su bez ikakvog objašnjenja i upozorenja izbačeni s platformi.
+
+![Appeals Centre Europe 3](/images/Meta/EU-Appeals-Centre-Europe-3.png)
+
+Važno je razumjeti i širinu tog problema. Kada ovakvi sustavi nekoga blokiraju, često ne uklanjaju samo jedan račun. Ako su **Facebook**, **Instagram**, **Messenger** i **Business Suite** povezani s istim emailom ili profilom, **korisnik može u istom trenutku izgubiti pristup svemu — trenutačno i često trajno**. Nestaju kontakti, poruke, godine komunikacije, fotografije, poslovne stranice i radna povijest. U velikom broju slučajeva ne postoji ni stvarna ljudska podrška koja bi objasnila što se dogodilo ili omogućila povratak profila, kao niti povrat informacija i kontakata.
+
+## Vrijeme radi protiv korisnika
+
+Dok proces traje, korisnik se zapravo utrkuje s vremenom. Nakon određenog perioda — često 180 dana — račun se trajno briše.
+
+To znači da čak i kada postoji odluka u korist korisnika, ona može doći prekasno ili ostati potpuno ignorirana.
+
+## Naš osvrt (Metaadvisor)
+
+Ovdje problem nije u nedostatku pravila, nego u nedostatku provedbe. Sustav koji može potvrditi da je korisnik u pravu, ali ne može osigurati provedbu te odluke, ne funkcionira kao zaštita.
+
+Ako nema posljedica za ignoriranje odluka i ako platforme mogu jednostavno ne odgovoriti, tada digitalna zaštita ostaje na razini papira — dok stvarna moć ostaje na platformama.
+
+<p style="font-size:13px; opacity:0.7;">
+Odricanje od odgovornosti: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski ili investicijski savjet.
+</p>
