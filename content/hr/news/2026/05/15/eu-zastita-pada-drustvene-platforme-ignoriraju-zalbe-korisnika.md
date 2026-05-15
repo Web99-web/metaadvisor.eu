@@ -1,5 +1,5 @@
 ---
-title: "EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, drustvene platforme ignoriraju?"
+title: "EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, društvene platforme ignoriraju?"
 slug: "eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika"
 date: 2026-05-15T12:00:00+02:00
 category: "ai"
