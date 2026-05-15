@@ -48,7 +48,7 @@ Drugi ljudi, koji nisu trenutno pogođeni sa iznenadnim brisanjem i dalje vjeruj
 
 Umjetna inteligencija može biti iznimno moćan alat. No sustavi koji imaju ovakvu razinu kontrole nad digitalnim životima ljudi ne bi smjeli funkcionirati bez stvarnog i odgovornog ljudskog nadzora. Netko ih je kreirao. Netko je odobrio da AI moderacija masovno briše ljude. Netko je odgovoran.
 
-## Što se događa kada platforme jednostavno ne odgovaraju?
+## Europska unija **Digital Services Act** i što se događa kada platforme jednostavno ne odgovaraju?
 
 Europska unija kroz **Digital Services Act** pokušava postaviti sustav koji bi korisnicima dao stvarnu zaštitu u odnosu na velike digitalne platforme. Ideja je jasna: ako platforma donese odluku koja utječe na korisnika, taj korisnik ima pravo žalbe i pristup neovisnom tijelu koje bi trebalo procijeniti je li odluka bila ispravna. Na papiru, riječ je o ozbiljnom pokušaju uspostavljanja ravnoteže.
 
