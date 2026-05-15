@@ -42,7 +42,7 @@ Većina ljudi ne koristi desetke različitih platformi, nego su prisutni na neko
 
 Drugi ljudi, koji nisu trenutno pogođeni sa iznenadnim brisanjem i dalje vjeruju da se to događa samo prevarantima ili “lošim akterima”. To jednostavno nije točno. Ovaj problem AI moderacija ili brisanja korisnika, sve češće pogađa upravo obične korisnike i male poduzetnike. Najproblematičniji dio je način na koji se to događa. Sustavi uklanjaju ljude tiho. Jedan trenutak sve funkcionira, sljedeći račun nestaje — a okolina to uopće ne primijeti. Prijatelji misle da je osoba jednostavno prestala koristiti društvene mreže.
 
-Umjetna inteligencija može biti iznimno moćan alat. No sustavi koji imaju ovakvu razinu kontrole nad digitalnim životima ljudi ne bi smjeli funkcionirati bez stvarnog i odgovornog ljudskog nadzora. Netko ih je kreirao. Netko je odobrio da AI moderacija masovno briše ljude. Metko je odgovoran.
+Umjetna inteligencija može biti iznimno moćan alat. No sustavi koji imaju ovakvu razinu kontrole nad digitalnim životima ljudi ne bi smjeli funkcionirati bez stvarnog i odgovornog ljudskog nadzora. Netko ih je kreirao. Netko je odobrio da AI moderacija masovno briše ljude. Netko je odgovoran.
 
 ## Što se događa kada platforme jednostavno ne odgovaraju?
 
