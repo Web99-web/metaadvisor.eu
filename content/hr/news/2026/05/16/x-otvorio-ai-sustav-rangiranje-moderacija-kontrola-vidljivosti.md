@@ -1,7 +1,7 @@
 ---
 title: "X otvorio svoj AI sustav: rangiranje, moderacija i kontrola vidljivosti sada su javni"
 slug: "x-otvorio-ai-sustav-rangiranje-moderacija-kontrola-vidljivosti"
-date: 2026-05-16T00:30:00+02:00
+date: 2026-05-16T00:10:00+02:00
 category: "ai"
 translationKey: "9f1c2a74e5d84f1ba671c93a6ef02d44"
 source: "Metaadvisor (xAI GitHub, X)"
