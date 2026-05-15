@@ -13,9 +13,9 @@ _build:
   list: never
 ---
 
-Elon Musk’s newly rebranded SpaceXAI is reportedly losing top talent, with more than 50 researchers and engineers departing since February, according to The Information. The exits include key leaders across coding, world models, and Grok voice.
+Elon Musk’s newly rebranded SpaceXAI is reportedly losing top talent, with more than 50 researchers and engineers departing since February, according to The Information . The exits include key leaders across coding, world models, and Grok voice.
 
-Rivals like Meta and Thinking Machine Labs are reportedly scooping up former staff, with the company’s core pre-training team dwindling to just a handful of people. Since February, at least 11 xAI employees have defected to Meta, according to The Information’s report. At least seven have left to join Mira Murati’s Thinking Machine Labs. TechCrunch has previously reported on 11 of the xAI departures announced directly after the merger, including two co-founders .
+Rivals like Meta and Thinking Machines Lab are reportedly scooping up former staff, with the company’s core pre-training team dwindling to just a handful of people. Since February, at least 11 xAI employees have defected to Meta, according to The Information’s report. At least seven have left to join Mira Murati’s Thinking Machines Lab. TechCrunch has previously reported on 11 of the xAI departures announced directly after the merger, including two co-founders .
 
 SpaceX acquired xAI — two companies owned by Musk — in February and has since installed new leadership at the company. Musk renamed the combined company SpaceXAI earlier this month.
 
