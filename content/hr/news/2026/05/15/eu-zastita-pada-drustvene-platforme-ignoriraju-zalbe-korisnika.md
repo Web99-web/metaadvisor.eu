@@ -54,24 +54,27 @@ U praksi, međutim, sustav se raspada u trenutku kada platforma odluči ne sudje
 
 **Kada korisnik izgubi pristup računu, gubi i mogućnost direktnog kontakta s platformom jer se više ne može ulogirati**. Proces žalbe formalno postoji, ali samo kroz platformu, jer nemaju javno istaknute emailove, a i one koje su prije imali, ignoriraju, što znači da sve često završava bez odgovora - totalni muk od strane platformi. Platforme ne komuniciraju, ne daju dodatne informacije i ne ulaze u dijalog. Cijeli proces pretvara se u čekanje bez ishoda, dok istovremeno korisnik ima ograničeno vrijeme — **često 180 dana** — prije trajnog brisanja računa.
 
+## Appeals Centre Europe: tko su i zašto su im odluke bez stvarne snage
+
 ![Appeals Centre Europe 1](/images/Meta/EU-Appeals-Centre-Europe-1.png)
 
-## Appeals Centre Europe: odluka bez stvarne snage
-
-U takvim situacijama uključuje se **Appeals Centre Europe, zamišljen kao neovisni mehanizam za rješavanje sporova između korisnika i platformi**. - Obzirom da je blokiran, korisnik pokušava doći natrag do svog privatnog računa ili poslovne stranice ili grupe, i ako je iz EU, EU je najavila zaštitu svojih građana i to sve zvuči odlično.... i pokušava preko  Appeals Centre Europe. Na papiru, to izgleda kao rješenje. Njihova stranica je prepuna pozitivnih slika i pozitivnih poruka, no je li to sve baš tako?
+U takvim situacijama uključuje se **Appeals Centre Europe, zamišljen kao neovisni mehanizam za rješavanje sporova između korisnika i platformi**. Kada je korisnik blokiran i izgubi pristup računu, često pokušava upravo tim putem vratiti svoj privatni profil, poslovnu stranicu ili grupu. Ako dolazi iz EU, logično je očekivati određenu razinu zaštite — barem na papiru, sve to izgleda kao rješenje. I sama prezentacija Appeals centra djeluje uvjerljivo: stranica je puna pozitivnih poruka i vizuala koji sugeriraju podršku korisnicima. No postavlja se pitanje — funkcionira li to u stvarnosti?
 
 ![Appeals Centre Europe 2](/images/Meta/EU-Appeals-Centre-Europe-2.png)
 
-Međutim upravo u toj praksi i upravo u tim postupcima postaje jasno gdje sustav gubi snagu. **Čini se da platforme formalno-pravno mogu ignorirati i EU Appeals Centre Europe. Kako je to moguće? Moguće je - jer Appeals Centre Europe je neovisno tijelo i uopće nema mogućnost kažnjavanja**. A i ono što je vidljivo na njihovoj stranici je da njihov rad, koji nije obvezujući je zapravo i plaćen od strane platformi. Štoviše čini se da su im uredi pozicionirani u Dublinu kao i Meta? 
+Upravo kroz konkretne postupke postaje jasno gdje sustav gubi snagu. **Čini se da društvene platforme formalno-pravno mogu ignorirati i EU Appeals Centre Europe. Kako je to moguće?** Razlog je jednostavan: Appeals Centre Europe je neovisno tijelo bez izvršnih ovlasti. Ne može kažnjavati platforme niti ih prisiliti na suradnju. Dodatno, iz dostupnih informacija proizlazi da se njegov rad financira upravo od strane platformi, a zanimljivo je i da se nalazi u Dublinu — istom gradu u kojem su smještena europska sjedišta velikih tehnoloških kompanija, uključujući Metu. Sama po sebi ta činjenica ne mora značiti problem, ali u kontekstu sustava koji ovisi o dobroj volji platformi, otvara dodatna pitanja.
+
 ![Appeals Centre Europe 4](/images/Meta/EU-Appeals-Centre-Europe-4.png)
 
-Dodatno zabrinjava činjenica da u nekim slučajevima izgleda kako platforme uopće nisu sudjelovale u postupku. Ako se odluka donosi uz napomenu da nije bilo dovoljno informacija s druge strane, postavlja se pitanje je li komunikacija uopće postojala ili se cijeli proces odvijao bez stvarnog odgovora platforme. U međuvremenu, vrijeme radi protiv korisnika. Mnoge platforme imaju rok nakon kojeg se podaci trajno brišu, često oko 180 dana. Ako u tom razdoblju nema odgovora ili provedbe odluke, gubitak postaje nepovratan.
+Nakon što korisnik pokrene postupak preko Appeals Centre Europe, često slijedi novo čekanje — tjednima, ponekad i bez jasnog odgovora. U nekim slučajevima dodatno zabrinjava činjenica da izgleda kako platforme uopće nisu sudjelovale u postupku. Ako se odluka donosi uz napomenu da nije bilo dovoljno informacija s druge strane, logično se postavlja pitanje: je li komunikacija uopće postojala ili je cijeli proces vođen bez stvarnog odgovora platforme?
 
-I što ako platforma ne dostavi informacije ili se uopće ne uključi? Appeals Centre Europe može donijeti odluku u korist korisnika, ali ta odluka nije pravno obvezujuća. I sada dolazimo do glavnog i osnovnog problema jer **Appeals Centre Europe nema izvršnu moć**. Što to znači? Ako platforma ne dostavi informacije ili se uopće ne uključi u postupak, **Appeals Centre Europe može donijeti odluku u korist korisnika — ali ta odluka nije pravno obvezujuća. Platforma je može jednostavno ignorirati.**
+U međuvremenu, vrijeme radi protiv korisnika. Mnoge platforme imaju rok nakon kojeg se podaci trajno brišu, često oko 180 dana. Ako u tom razdoblju nema odgovora ili provedbe odluke, gubitak postaje nepovratan.
+
+**Ključni problem dolazi na kraju procesa. Čak i u situaciji kada Appeals Centre Europe donese odluku u korist korisnika, ta odluka nije pravno obvezujuća**. Drugim riječima, platforma je može jednostavno ignorirati — bez ikakvih posljedica. 
 
 ![Appeals Centre Europe odluka](/images/Meta/Appeals-centre-Europe-dispute.png) 
 
-To dovodi do apsurdne situacije: korisnik dobiva potvrdu da je u pravu, ali bez ikakvog načina da tu odluku provede.
+Time cijeli sustav dolazi u apsurdnu poziciju: postoji procedura, postoji odluka, korisnik dobiva potvrdu da je u pravu, ali ne postoji mehanizam koji bi osigurao njezinu provedbu.
 **Platforma može ignorirati korisnika, ignorirati postupak i ignorirati odluku — bez posljedica.**
 
 Ako se sustav temelji na pretpostavci da će platforme surađivati, a ta suradnja nije obvezna niti sankcionirana, tada se odnos snaga ne mijenja. Platforme i dalje odlučuju hoće li sudjelovati, a korisnik ostaje bez stvarne zaštite čak i kada formalno dobije odluku u svoju korist.
