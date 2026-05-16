@@ -32,13 +32,13 @@ Bitcoin je tijekom subote pao ispod 78.000 dolara i dotaknuo razine koje tržiš
 
 Umjesto toga, tržište je naglo reagiralo na kombinaciju geopolitičkih napetosti, rasta cijene nafte i straha od novog inflacijskog vala. Bitcoin je u jednom trenutku pao prema 77.600 dolara, dok su veliki altcoini poput Solane i XRP-a izgubili oko 5% vrijednosti.
 
-{{< support1 >}}
-
 ## Više od 500 milijuna dolara likvidacija
 
 Prema podacima s tržišta, u kratkom razdoblju likvidirano je više od 500 milijuna dolara long pozicija. To znači da su mnogi traderi bili previše optimistični i koristili leverage očekujući nastavak rasta tržišta.
 
 Kada tržište naglo krene prema dolje, burze automatski zatvaraju takve pozicije kako bi pokrile gubitke. Upravo te prisilne likvidacije često dodatno ubrzavaju pad cijene i stvaraju efekt “lavine”. Posebno je zanimljivo da dio analitičara smatra da se možda ne radi o početku velikog bear marketa, nego o mogućem “bear trap” scenariju.
+
+{{< support1 >}}
 
 ## Što je bear trap?
 
@@ -46,13 +46,13 @@ Bear trap je situacija u kojoj tržište snažno padne i uvjeri velik broj trade
 
 Dio crypto tradera sada posebno prati funding rates na futures tržištu koji su postali negativni. To pokazuje da velik broj sudionika trenutno očekuje daljnji pad Bitcoina.
 
-{{< support2 >}}
-
 ## Iran, nafta i nova inflacijska nervoza
 
 Pozadina cijelog pada nije samo crypto tržište. Posljednjih dana investitori opet sve više prate situaciju oko Irana i Hormuškog tjesnaca — jednog od najvažnijih prolaza za svjetsku opskrbu naftom. Pojavile su se informacije o mogućim novim ograničenjima i napetostima u regiji, što je odmah poguralo cijenu američke WTI nafte iznad 100 dolara po barelu.
 
 Takav rast cijene energije ponovno otvara pitanje inflacije. Ako energija poskupi, vrlo brzo rastu i troškovi transporta, proizvodnje i hrane. Mnogi analitičari zato povlače usporedbe s 2022. godinom kada su tržišta prolazila kroz snažan inflacijski šok.
+
+{{< support2 >}}
 
 ## FED ponovno u fokusu tržišta
 
