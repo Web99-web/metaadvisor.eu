@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "468f7862f13f592875bbd0d03f58f270"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/markets/bitcoin-slides-below-79k-macro-fears-can-fixed-income-outflows-save-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/digital-bank.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-supply-is-shrinking-will-saylors-relentless-btc-buying-cause-a-supply-shock.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false
