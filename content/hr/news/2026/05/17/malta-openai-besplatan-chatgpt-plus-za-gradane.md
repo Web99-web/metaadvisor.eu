@@ -1,7 +1,7 @@
 ---
 title: "Malta i OpenAI pokreću besplatan ChatGPT Plus za građane: početak nove AI ere?"
 slug: "malta-openai-besplatan-chatgpt-plus-za-gradane"
-date: 2026-05-16T20:00:00+02:00
+date: 2026-05-17T20:00:00+02:00
 category: "ai"
 translationKey: "f486282165abeb6f2a496db6eddf688b"
 source: "Metaadvisor (Cointelegraph, OpenAI)"
