@@ -1,7 +1,7 @@
 ---
 title: "Malta and OpenAI Launch Free ChatGPT Plus for Citizens: Beginning of a New AI Era?"
 slug: "malta-openai-free-chatgpt-plus-for-citizens"
-date: 2026-05-16T20:00:00+02:00
+date: 2026-05-17T20:00:00+02:00
 category: "ai"
 translationKey: "f486282165abeb6f2a496db6eddf688b"
 source: "Metaadvisor (Cointelegraph, OpenAI)"
