@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "78f7a83e386d3f9bd80908be49f28870"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/how-did-a-fake-crypto-exchange-reportedly-attract-150m-before-collapsing.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price-2.jpg"
 tags: ["crypto"]
 _build:
   publishResources: false
