@@ -1,5 +1,5 @@
 ---
-title: "XRP beat bitcoin gains as CLARITY Act advanced, but a real bullrun still needs Congress"
+title: "XRP beat bitcoin gains as Clarity Act advanced, but a real bullrun still needs Congress"
 date: 2026-05-16T11:30:00Z
 category: "crypto"
 translationKey: "50026d78137eb33bc1cadf2ac0af7752"
