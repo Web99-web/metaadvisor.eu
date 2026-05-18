@@ -1,6 +1,6 @@
 ---
 title: "Boje li se CME i ICE Hyperliquida? Wall Street sve više prati rast on-chain tradinga"
-slug: "cme-ice-hyperliquid-wall-street-defi-onchain-trading"
+slug: "boje-li-se-cme-i-ice-hyperliquida-wall-street-prati-onchain-trading"
 date: 2026-05-16T07:00:00+02:00
 category: "crypto"
 translationKey: "c3f2b7a1d94e4a51a8bcfe2197aa6e44"
