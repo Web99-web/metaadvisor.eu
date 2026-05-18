@@ -1,7 +1,7 @@
 ---
 title: "SpaceX pre-IPO stiže na Hyperliquid: crypto pokušava otvoriti Wall Street svima"
 slug: "spacex-pre-ipo-stize-na-hyperliquid-crypto-pokusava-otvoriti-wall-street-svima"
-date: 2026-05-18T12:00:00+02:00
+date: 2026-05-18T06:00:00+02:00
 category: "crypto"
 translationKey: "c7d06fc57c05e4ddeae6fe56f0633834"
 source: "Metaadvisor (Hyperliquid, Financial Times)"
