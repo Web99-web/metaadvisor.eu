@@ -83,8 +83,7 @@ Die Geschichte der Wall Street ist voller Situationen, in denen große instituti
 
 Interessant ist, dass wir bereits Situationen erlebt haben, die gezeigt haben, wie institutionelles Kapital die Nervosität am Markt verstärken kann. Darüber haben wir bereits am 06.02.2026 im Artikel berichtet:
 
-“Bitcoin ETFs Enter Capitulation: Record Volume and Heavy Outflows During Yesterday’s Crash”
-https://metaadvisor.eu/news/bitcoin-etfs-capitulation-record-volume-outflows/
+[Bitcoin-ETFs in der Kapitulation: Rekordvolumen und massive Abflüsse während des gestrigen Einbruchs](https://metaadvisor.eu/de/news/bitcoin-etfs-kapitulation-rekordvolumen-abfluesse/)
 
 Damals wurden gerade ETF-Abflüsse und Rekord-Handelsvolumen zu einem der wichtigsten Signale dafür, dass sich großes Kapital aggressiv aus dem Markt zurückzog.
 
