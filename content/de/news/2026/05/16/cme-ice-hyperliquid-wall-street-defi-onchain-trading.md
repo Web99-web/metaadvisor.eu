@@ -1,6 +1,6 @@
 ---
 title: "Fürchten CME und ICE Hyperliquid? Wall Street beobachtet den Aufstieg des On-Chain-Tradings immer genauer"
-slug: "cme-ice-hyperliquid-wall-street-defi-onchain-trading"
+slug: "fuerchten-cme-und-ice-hyperliquid-wall-street-beobachtet-onchain-trading"
 date: 2026-05-16T07:00:00+02:00
 category: "crypto"
 translationKey: "c3f2b7a1d94e4a51a8bcfe2197aa6e44"
