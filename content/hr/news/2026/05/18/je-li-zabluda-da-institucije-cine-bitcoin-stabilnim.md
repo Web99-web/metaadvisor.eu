@@ -82,9 +82,7 @@ Drugim riječima, Bitcoin više nije samo priča o blockchainu i decentralizacij
 Povijest Wall Streeta puna je situacija u kojima su veliki institucionalni igrači u trenucima panike ubrzavali rasprodaje umjesto da smiruju tržište. Kada fondovi počnu smanjivati izloženost rizičnoj imovini, odluke se često donose brzo i bez emocija. U takvom okruženju ni Bitcoin ne bi nužno bio pošteđen.
 
 Zanimljivo je da smo već imali situacije koje su pokazale koliko institucionalni kapital može pojačati nervozu na tržištu. O tome smo pisali i 06.02.2026. u članku:
-
-“Bitcoin ETFs Enter Capitulation: Record Volume and Heavy Outflows During Yesterday’s Crash”
-https://metaadvisor.eu/news/bitcoin-etfs-capitulation-record-volume-outflows/
+[Bitcoin ETF-ovi u kapitulaciji: rekordni volumeni i masovni odljevi tijekom jučerašnjeg pada](https://metaadvisor.eu/hr/news/bitcoin-etf-kapitulacija-rekordni-volumeni-odljevi/)
 
 Tada su upravo ETF odljevi i rekordni volumen trgovanja postali jedan od glavnih signala da se veliki kapital počinje agresivnije povlačiti iz tržišta tijekom pada.
 
