@@ -1,7 +1,7 @@
 ---
 title: "SpaceX pre-IPO Arrives on Hyperliquid: Crypto Tries to Open Wall Street to Everyone"
 slug: "spacex-pre-ipo-arrives-on-hyperliquid-crypto-tries-to-open-wall-street-to-everyone"
-date: 2026-05-18T12:00:00+02:00
+date: 2026-05-18T06:00:00+02:00
 category: "crypto"
 translationKey: "c7d06fc57c05e4ddeae6fe56f0633834"
 source: "Metaadvisor (Hyperliquid, Financial Times)"
