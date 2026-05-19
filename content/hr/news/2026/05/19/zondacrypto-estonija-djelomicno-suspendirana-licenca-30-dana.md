@@ -51,7 +51,8 @@ Nova estonska odluka ne dolazi iz praznog prostora. Zondacrypto se već tjednima
 Na MetaAdvisoru smo o toj ranijoj fazi već pisali u članku:
 
 # Zondacrypto pod istragom u Poljskoj: 4.500 BTC nedostupno, stotine korisnika pogođeno
-https://metaadvisor.eu/hr/news/zondacrypto-pod-istragom-poljsk%D0%B0-4500-btc-nedostupno-korisnici/
+
+https://metaadvisor.eu/hr/news/zondacrypto-pod-istragom-poljska-4500-btc-nedostupno-korisnici/
 
 U toj priči otvorila su se ključna pitanja koja sada postaju još važnija: tko zapravo kontrolira ključeve, gdje su korisnička sredstva, koliko je siguran custody model centraliziranih burzi i što se događa kada korisnici više ne mogu normalno doći do vlastite imovine.
 
