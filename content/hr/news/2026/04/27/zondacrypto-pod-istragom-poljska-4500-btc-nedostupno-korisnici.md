@@ -1,6 +1,6 @@
 ---
 title: "Zondacrypto pod istragom u Poljskoj: 4.500 BTC nedostupno, stotine korisnika pogođeno"
-slug: "zondacrypto-pod-istragom-poljskа-4500-btc-nedostupno-korisnici"
+slug: "zondacrypto-pod-istragom-poljska-4500-btc-nedostupno-korisnici"
 date: 2026-04-27T12:00:00+02:00
 category: "crypto"
 translationKey: "78f7a83e386d3f9bd80908be49f28870"
