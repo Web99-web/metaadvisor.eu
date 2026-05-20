@@ -30,9 +30,11 @@ Slika je simbolična.
 
 # GitHub incident upozorava: novi cyber rizik počinje u alatima koje developeri koriste svaki dan
 
-GitHub je ponovno pokazao koliko je digitalni svijet osjetljiv na mjesta koja obični korisnici gotovo nikada ne vide. Prema javno dostupnim informacijama, incident se odnosi na neovlašteni pristup GitHubovim internim repozitorijima, nakon što je kompromitiran uređaj jednog zaposlenika preko zlonamjerne ekstenzije za **Visual Studio Code**, poznatiji kao **VS Code**. VS Code je popularan alat za pisanje i uređivanje koda, odnosno razvojno okruženje koje developeri svakodnevno koriste za rad na aplikacijama, web stranicama, servisima i automatizacijama.
+GitHub je izvijestio da istražuje sigurnosni incident povezan s neovlaštenim pristupom internim repozitorijima. Prema javno dostupnim informacijama, incident se odnosi na neovlašteni pristup GitHubovim internim repozitorijima, nakon što je kompromitiran uređaj jednog zaposlenika preko zlonamjerne ekstenzije za **Visual Studio Code**, poznatiji kao **VS Code**. VS Code je popularan alat za pisanje i uređivanje koda, odnosno razvojno okruženje koje developeri svakodnevno koriste za rad na aplikacijama, web stranicama, servisima i automatizacijama.
 
 GitHub zasad navodi da nema dokaza o utjecaju na korisničke repozitorije, organizacije ili enterprise račune. To je važna razlika, jer incident nije predstavljen kao proboj u privatne projekte korisnika, nego kao pristup internim GitHub repozitorijima. Ipak, sama metoda napada puno je važnija od jedne izolirane vijesti. Ako se napad može dogoditi preko alata koji developer koristi svaki dan, onda sigurnosni problem više ne počinje tek na serveru, nego puno ranije — na računalu osobe koja piše i objavljuje kod.
+
+GitHub je ponovno pokazao koliko je digitalni svijet osjetljiv na mjesta koja obični korisnici gotovo nikada ne vide. 
 
 {{< support1 >}}
 
