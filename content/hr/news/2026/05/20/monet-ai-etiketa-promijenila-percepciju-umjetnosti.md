@@ -4,7 +4,7 @@ slug: "monet-ai-etiketa-promijenila-percepciju-umjetnosti"
 date: 2026-05-20T12:00:00+02:00
 category: "ai"
 translationKey: "monet-ai-label-perception-art-2026-05-20"
-source: "Metaadvisor (PetaPixel, Fortune, Sleek, OpenSea)"
+source: "Metaadvisor (X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
 image_url: "/images/news/Monet_Lilies_Louvre_2.jpg"
