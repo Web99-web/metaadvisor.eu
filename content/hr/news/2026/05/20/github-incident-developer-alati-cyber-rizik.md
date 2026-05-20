@@ -52,7 +52,7 @@ VS Code ekstenzije developerima olakšavaju rad. One mogu pomagati u formatiranj
 
 Ako napadač uspije podmetnuti zlonamjernu ekstenziju, potencijalno može pokušati čitati lokalne konfiguracije, pristupne tokene, privatne repozitorije, session podatke, API ključeve ili druge osjetljive informacije. Drugim riječima, ne mora nužno prvo napasti samu platformu. Može napasti alat koji developer koristi za pristup toj platformi.
 
-{{< support2 >}}
+{{< support1 >}}
 
 To je velika promjena u odnosu na stariji način razmišljanja o cyber sigurnosti. Nekada se najviše govorilo o lozinkama, phishing emailovima, nezaštićenim serverima i virusima na običnim računalima. Danas se sve više govori o developer endpointu — računalu osobe koja ima pristup kodu, repozitorijima, internim sustavima i automatizacijama. Ako je taj uređaj kompromitiran, napadač može dobiti ulaz u sustav kroz vrata koja izgledaju potpuno legitimno.
 
@@ -63,6 +63,8 @@ Najopasniji dio ovakvih napada jest to što mogu izgledati sasvim normalno. Deve
 U malim timovima i startupima takva provjera često ne postoji ili je vrlo površna. Ljudi žele brzo raditi, instalirati alat koji im štedi vrijeme i nastaviti s projektom. Ali upravo tu nastaje rizik. Jedan pogrešan dodatak može biti dovoljan da napadač dođe do tokena, repozitorija ili internih informacija.
 
 Za crypto projekte ovaj problem ima još veću težinu. U crypto svijetu kod često izravno upravlja novcem, walletima, smart contractima, exchange integracijama i API ključevima. Ako napadač dođe do pogrešnog tokena ili deploy skripte, šteta može biti ogromna. U teoriji se crypto često opisuje kao decentraliziran, ali razvojna infrastruktura mnogih projekata i dalje je vrlo centralizirana: GitHub, VS Code, npm paketi, cloud servisi i CI/CD alati ostaju ključne točke povjerenja.
+
+{{< support2 >}}
 
 ## Open source nije problem, ali sigurnosna kultura mora biti jača
 
