@@ -3,7 +3,7 @@ title: "ZEC ponovno u fokusu tržišta: gotovo 100 USD rasta u 24 sata i dodir z
 slug: "zec-ponovno-u-fokusu-trzista-rast-100-usd-24-sata-690-usd"
 date: 2026-05-21T06:00:00+02:00
 category: "crypto"
-translationKey: "zec-market-focus-rast-680-usd-2026-05-21"
+translationKey: "zec-market-focus-rast-690-usd-2026-05-21"
 source: "Metaadvisor (market data)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
