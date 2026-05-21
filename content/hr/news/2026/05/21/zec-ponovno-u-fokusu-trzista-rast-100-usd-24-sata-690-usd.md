@@ -1,5 +1,5 @@
 ---
-title: "ZEC ponovno u fokusu tržišta: gotovo 100 USD rasta u 24 sata i dodir zone od 680 USD"
+title: "ZEC ponovno u fokusu tržišta: gotovo 100 USD rasta u 24 sata i dodir zone od 690 USD"
 slug: "zec-ponovno-u-fokusu-trzista-rast-100-usd-24-sata-690-usd"
 date: 2026-05-21T06:00:00+02:00
 category: "crypto"
