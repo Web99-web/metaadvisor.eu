@@ -14,7 +14,7 @@ thumbnail: "/images/Zcash1.png"
 image_alt: "Zcash ZEC ponovno u fokusu crypto tržišta nakon snažnog rasta cijene"
 image_credit: "Metaadvisor.eu"
 tags: ["zec", "zcash", "privacy coin", "crypto tržište", "kripto tržište", "altcoin", "blockchain", "digitalna imovina", "financijska privatnost", "crypto cijene", "volatilnost", "fomo", "market focus", "tržišni fokus", "crypto analiza", "kripto analiza"]
-summary: "ZEC je ponovno privukao pažnju crypto tržišta nakon što je u 24 sata porastao za gotovo 100 USD i dotaknuo zonu oko 680 USD. Rast ponovno otvara pitanje vraća li se interes tržišta prema privacy coinovima i blockchain infrastrukturi izgrađenoj oko financijske privatnosti."
+summary: "ZEC je ponovno privukao pažnju crypto tržišta nakon što je u 24 sata porastao za gotovo 100 USD i dotaknuo zonu oko 690 USD. Rast ponovno otvara pitanje vraća li se interes tržišta prema privacy coinovima i blockchain infrastrukturi izgrađenoj oko financijske privatnosti."
 ---
 
 <p style="font-size:13px; opacity:0.75;">
@@ -66,7 +66,7 @@ Ta dva pitanja ne moraju imati isti odgovor. Dugoročno, privacy narativ može b
 
 {{< support2 >}}
 
-## Zašto tržište sada prati zonu oko 680 USD?
+## Zašto tržište sada prati zonu oko 690 USD?
 
 Zona oko 680 USD postala je važna jer predstavlja razinu na kojoj se ZEC ponovno pojavio kao jedan od najvidljivijih dobitnika među većim crypto imenima. Takve okrugle i psihološki snažne zone često postaju točke oko kojih se formira tržišna priča: hoće li cijena nastaviti prema gore, hoće li uslijediti korekcija ili će se stvoriti široki raspon trgovanja?
 
@@ -84,7 +84,7 @@ Za sada je jasno samo jedno: Zcash je ponovno u fokusu tržišta. Cijena je u 24
 
 ## Naš osvrt (Metaadvisor)
 
-* **ZEC je ponovno privukao pažnju tržišta** nakon što je u 24 sata porastao za gotovo 100 USD i dotaknuo zonu oko 680 USD.
+* **ZEC je ponovno privukao pažnju tržišta** nakon što je u 24 sata porastao za gotovo 100 USD i dotaknuo zonu oko 690 USD.
 * **Privacy narativ se vraća u crypto razgovor**, posebno u kontekstu nadzora transakcija, blockchain analitike i digitalnog identiteta.
 * **Ovakav rast može privući snažan FOMO**, pa kratkoročni rizik ostaje visok čak i ako je dugoročna tema zanimljiva.
 * **Zcash ima prednost prepoznatljivog starijeg projekta**, ali tržište sada mora pokazati može li zadržati momentum.
