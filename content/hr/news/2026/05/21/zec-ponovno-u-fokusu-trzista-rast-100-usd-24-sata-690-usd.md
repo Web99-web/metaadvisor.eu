@@ -28,7 +28,7 @@ Slika je simbolična.
   </a>
 </p>
 
-# ZEC ponovno u fokusu tržišta: gotovo 100 USD rasta u 24 sata i dodir zone od 680 USD
+# ZEC ponovno u fokusu tržišta: gotovo 100 USD rasta u 24 sata i dodir zone od 690 USD
 
 Zcash se ponovno našao u središtu pažnje crypto tržišta nakon što je ZEC u posljednja 24 sata napravio još jedan snažan pomak prema gore. Cijena je, prema dostupnim tržišnim podacima, u jednom trenutku dotaknula zonu oko **690 USD**, dok je dnevni raspon pokazao gotovo **100 USD razlike** između nižih i viših razina trgovanja.
 
