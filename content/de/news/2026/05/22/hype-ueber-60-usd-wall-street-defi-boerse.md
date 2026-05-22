@@ -1,4 +1,4 @@
-c---
+---
 title: "HYPE über 60 USD: Wall Street testet jetzt, ob eine DeFi-Börse Milliarden wert sein kann"
 slug: "hype-ueber-60-usd-wall-street-defi-boerse"
 date: 2026-05-22T12:00:00+02:00
