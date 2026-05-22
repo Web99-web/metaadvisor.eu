@@ -1,6 +1,6 @@
 ---
-title: "Prediction marketi kao sigurnosni rizik: mogu li crypto oklade otkriti vojne tajne prije napada?"
-slug: "prediction-marketi-crypto-oklade-vojne-tajne"
+title: "Prediction marketi kao sigurnosni rizik: mogu li crypto predviđanja otkriti vojne tajne prije napada?"
+slug: "prediction-marketi-crypto-predvidjanja-vojne-tajne"
 date: 2026-05-22T07:00:00+02:00
 category: "crypto"
 translationKey: "prediction-markets-national-security-risk-iran-2026"
@@ -11,10 +11,10 @@ image_url: "/images/prediction-markets.png"
 featured_image: "/images/prediction-markets.png"
 image: "/images/prediction-markets.png"
 thumbnail: "/images/prediction-markets.png"
-image_alt: "Prediction markets and national security risk in crypto betting"
+image_alt: "Prediction markets and national security risk in crypto forecasting"
 image_credit: "Metaadvisor.eu"
-tags: ["crypto", "kripto", "prediction markets", "polymarket", "crypto betting", "crypto klađenje", "blockchain", "onchain", "insider trading", "nacionalna sigurnost", "vojne tajne", "iran", "sad", "geopolitika", "regulacija", "cftc", "kalshi", "bubblemaps", "rat", "tržišta predviđanja", "transparentnost blockchaina", "digitalna tržišta", "risk management", "crypto regulation"]
-summary: "Prediction marketi, odnosno tržišta predviđanja, iz eksperimenta kolektivne inteligencije sve više ulaze u zonu ozbiljnih regulatornih i sigurnosnih pitanja. Ako se na blockchainu prije vojnih akcija mogu vidjeti neuobičajeno precizne oklade, takva tržišta više nisu samo zabava ili analiza vjerojatnosti, nego mogu postati signal koji čitaju i protivnici."
+tags: ["crypto", "kripto", "prediction markets", "tržišta predviđanja", "polymarket", "crypto predviđanja", "blockchain", "onchain", "insider trading", "nacionalna sigurnost", "vojne tajne", "iran", "sad", "geopolitika", "regulacija", "cftc", "kalshi", "bubblemaps", "transparentnost blockchaina", "digitalna tržišta", "crypto regulation"]
+summary: "Prediction marketi, odnosno tržišta predviđanja, sve više ulaze u zonu ozbiljnih sigurnosnih pitanja. Ako se na blockchainu prije vojnih akcija pojave neuobičajeno precizna predviđanja, takva tržišta mogu postati signal koji čitaju i protivnici."
 ---
 
 <p style="font-size:13px; opacity:0.75;">
@@ -28,87 +28,65 @@ Slika je simbolična.
   </a>
 </p>
 
-# Prediction marketi kao sigurnosni rizik: mogu li crypto oklade otkriti vojne tajne prije napada?
+# Prediction marketi kao sigurnosni rizik: mogu li crypto predviđanja (oklade) otkriti vojne tajne prije napada?
 
-Prediction marketi, odnosno tržišta predviđanja, dugo su se predstavljali kao zanimljiv spoj financija, statistike i “mudrosti mase”. Ideja je jednostavna: ljudi se klade na ishode stvarnih događaja, a cijena oklade pokazuje kolika je tržišna procjena vjerojatnosti da će se nešto dogoditi. No najnoviji slučaj povezan s okladama na američke vojne akcije protiv Irana pokazuje da ta tržišta mogu otvoriti potpuno novu i puno opasniju dimenziju.
+Prediction marketi, odnosno tržišta predviđanja, dugo su se predstavljali kao zanimljiv spoj financija, statistike i “mudrosti mase”. Na njima korisnici ne kupuju klasične dionice ili tokene, nego zauzimaju poziciju oko toga hoće li se neki stvarni događaj dogoditi ili neće. Zato ih nije sasvim točno zvati običnim okladama, iako u praksi često jako nalikuju klađenju.
 
-Ovdje više nije riječ samo o tome je li netko pogodio politički ishod, sportski rezultat ili odluku regulatora. Ako se prije vojne operacije na javnom blockchainu pojave velike i neuobičajeno precizne oklade na konkretne napade, datume ili prekide vatre, tada prediction market više nije samo tržište prognoza. On može postati javno vidljiv signal koji mogu čitati analitičari, novinari, regulatori, ali i protivnici neke države.
+Najnoviji slučaj povezan s predviđanjima američkih vojnih akcija protiv Irana pokazuje zašto ova tržišta mogu postati puno više od crypto zanimljivosti. Ako se prije vojne operacije na javnom blockchainu pojave velike i neuobičajeno precizne pozicije na konkretne napade, datume ili prekide vatre, tada prediction market više nije samo tržište mišljenja. On može postati signal koji čitaju analitičari, regulatori, novinari, ali i protivnici neke države.
 
 ## Što se navodno dogodilo?
 
-Analitičari koji prate on-chain podatke upozorili su na niz neobično preciznih oklada povezanih s američkim vojnim operacijama protiv Irana. Prema objavljenim analizama, identificirano je više desetaka oklada koje su bile toliko točne da ih je teško objasniti samo srećom. Posebno se spominje skupina povezanih računa koja je navodno zaradila milijune dolara klađenjem gotovo isključivo na događaje povezane s američkim vojnim potezima.
+Prema analizama on-chain istraživača, na tržištima predviđanja pojavile su se vrlo precizne pozicije povezane s američkim vojnim operacijama protiv Irana. Spominje se više desetaka predviđanja koja su bila toliko točna da ih je teško objasniti samo srećom. Posebno je problematično što su se neke pozicije navodno pojavile prije važnih događaja.
 
-Najproblematičniji dio priče nije sama zarada, nego timing. Oklade su se, prema tim analizama, pojavljivale prije važnih događaja, uključujući napade, političke ishode i najave prekida vatre. Takav obrazac otvara pitanje je li netko imao pristup informacijama koje javnost nije imala.
-
-Važno je naglasiti: to ne znači da je dokazano da su vojni insajderi, američki dužnosnici ili službene osobe izravno trgovali tim informacijama. To bi bila ozbiljna tvrdnja i za nju bi trebali jasni dokazi. Ali sama mogućnost da netko s povlaštenim informacijama može koristiti prediction markete za zaradu dovoljna je da se otvori puno veća rasprava.
+Ovdje treba biti oprezan. Nije dokazano da su vojni insajderi ili službene osobe izravno trgovali povjerljivim informacijama. Ali sama mogućnost da netko s pristupom nejavnim informacijama može koristiti prediction market za zaradu dovoljna je da se otvori ozbiljna rasprava.
 
 {{< support1 >}}
 
-## Zašto je ovo drugačije od običnog insider tradinga?
+## Zašto je to sigurnosni problem?
 
-Kod klasičnog insider tradinga obično govorimo o dionicama, poslovnim rezultatima, spajanjima kompanija ili regulatornim odlukama. Netko zna nešto prije tržišta i koristi tu informaciju za kupnju ili prodaju. To je već poznat problem financijskih tržišta.
+Kod klasičnog insider tradinga obično govorimo o dionicama, poslovnim rezultatima ili regulatornim odlukama. Netko zna nešto prije tržišta i koristi tu informaciju za kupnju ili prodaju. To je već poznat problem financijskih tržišta.
 
-Prediction marketi dodaju novu razinu jer se ne trguje samo financijskom reakcijom na događaj, nego samim događajem. Na primjer, ne kladite se samo na to hoće li cijena neke dionice pasti nakon vijesti, nego direktno na to hoće li se napad dogoditi, hoće li doći do prekida vatre ili hoće li neka politička odluka biti donesena do određenog datuma.
+Prediction marketi dodaju novu razinu jer se ne trguje samo reakcijom tržišta na događaj, nego samim događajem. Na primjer, pitanje nije samo hoće li neka dionica porasti nakon vijesti, nego hoće li se napad dogoditi, hoće li doći do prekida vatre ili hoće li neka politička odluka biti donesena do određenog datuma. To je puno osjetljivije. Ako netko zna da će se određena vojna akcija dogoditi i prije toga zauzme veliku poziciju, takvo tržište može postati javno vidljiv trag povjerljive informacije.
 
-To je puno izravnije. Ako netko ima informaciju da će se određena vojna akcija dogoditi, prediction market mu može omogućiti da se kladi baš na taj ishod. Time se otvara nova vrsta tržišta povjerljivih informacija, gdje najvrjednija roba nije dionica, nego znanje o budućem događaju.
+## Blockchain transparentnost ima i drugu stranu
 
-## Blockchain transparentnost: prednost koja može postati slabost
+Crypto zajednica često ističe transparentnost blockchaina kao veliku prednost. Transakcije su vidljive, podaci se mogu analizirati, a sumnjivi obrasci mogu se otkriti. U mnogim slučajevima to zaista pomaže u praćenju manipulacija i tokova novca. Ali kod osjetljivih geopolitičkih događaja transparentnost može postati slabost. Ako analitičari mogu vidjeti neuobičajene obrasce prije napada, mogu ih vidjeti i strane obavještajne službe. Ako se prije vojne akcije pojavi velik broj preciznih predviđanja, protivnik može zaključiti da se nešto sprema.
 
-Crypto zajednica često ističe transparentnost blockchaina kao veliku prednost. Transakcije su vidljive, podaci se mogu analizirati, a obrasci se mogu pratiti. U mnogim slučajevima to je zaista korisno jer pomaže otkriti manipulacije, tokove novca i sumnjive aktivnosti.
+Tu se prediction marketi pomiču iz zone financijskog rizika u zonu nacionalne sigurnosti. Kod financijskog rizika netko može izgubiti novac. Kod sigurnosnog rizika netko može promijeniti vojne planove, premjestiti opremu ili ugroziti ljudske živote.
 
-Ali u ovakvom slučaju transparentnost može imati i drugu stranu. Ako analitičari mogu vidjeti sumnjive obrasce oklada, mogu ih vidjeti i protivnici. Ako se prije vojnog napada pojave veliki, precizni i neuobičajeni ulozi, to može postati signal da se nešto sprema.
+{{< support1 >}}
 
-To je ključna razlika između običnog tržišnog rizika i nacionalno-sigurnosnog rizika. Kod običnog tržišnog rizika netko može izgubiti novac. Kod sigurnosnog rizika netko može promijeniti vojne planove, premjestiti opremu, pripremiti obranu ili ugroziti ljudske živote.
+## Problem nije samo jedna platforma
 
-## Prediction marketi su narasli brže od pravila
+Iako se u ovoj priči najviše spominju crypto prediction marketi poput Polymarketa, problem nije vezan samo uz jednu platformu. Cijela kategorija tržišta predviđanja brzo raste, a s rastom tržišta raste i motivacija za zlouporabu.
 
-Još jedan problem je brz rast ovih tržišta. Prediction marketi više nisu mala nišna igračka za internet zajednicu. Na njima se sve češće trguje velikim političkim, regulatornim, ekonomskim i geopolitičkim događajima. Kada tržište naraste, rastu i poticaji za zlouporabu.
+Što su pitanja osjetljivija, to su veći rizici. Tržišta koja se bave izborima, regulatornim odlukama ili ekonomskim podacima već su osjetljiva. Ali tržišta koja se bave ratom, napadima, smrću političkih lidera ili prekidima vatre ulaze u potpuno drugu kategoriju. Zato će regulatori vjerojatno sve više gledati gdje je granica između korisnog tržišta predviđanja i opasnog tržišta povjerljivih informacija.
 
-Ako se na nekom tržištu može zaraditi velik novac na informaciji koju zna mali broj ljudi, tada će se prije ili kasnije pojaviti pitanje zlouporabe. To vrijedi za dionice, robu, valute, sportske oklade, ali sada očito i za crypto prediction markete.
+## Treba li zabraniti predviđanja o ratu?
 
-Regulatorima je ovo posebno teško jer se prediction marketi nalaze na granici više različitih područja. Jesu li to financijski derivati? Jesu li oklade? Jesu li informacijska tržišta? Jesu li crypto protokoli? Odgovor ovisi o zemlji, platformi, načinu trgovanja i tome tko ima nadležnost.
+Jedno od ključnih pitanja sada je treba li uopće dopustiti tržišta koja se odnose na aktivne vojne operacije. Prediction marketi mogu imati vrijednost kada mjere očekivanja o ekonomiji, tehnologiji ili politici. Ali kada se predviđa ratni ishod, napad ili smrt političkog lidera, situacija postaje puno ozbiljnija.
+
+Takva tržišta mogu stvoriti neugodan poticaj: nečija tragedija postaje nečija tržišna prilika. Još je opasnije ako osoba s povlaštenim informacijama može zaraditi prije nego što se događaj dogodi.
+
+Moguće je da će platforme morati ograničiti ili ukloniti osjetljive kategorije tržišta. Druga mogućnost je stroži nadzor sumnjivih obrazaca, povezanih računa i neuobičajeno visokih stopa uspješnosti. No čak i tada ostaje problem: ako je signal već vidljiv na blockchainu, možda su ga već vidjeli svi koji ga znaju čitati.
 
 {{< support2 >}}
 
-## Zašto je geopolitičko klađenje posebno opasno?
+## Zaključak: tržište predviđanja ili sigurnosna rupa?
 
-Klađenje na izbore ili makroekonomske odluke već je osjetljivo. Ali klađenje na rat, napade, smrt političkih lidera ili prekid vatre ulazi u puno opasniju zonu. Tu više ne govorimo samo o financijskim posljedicama, nego o stvarnim ljudskim životima.
+Prediction marketi su zanimljivi jer pokušavaju pretvoriti kolektivna očekivanja u tržišnu cijenu. U idealnom slučaju, oni mogu pokazati kako masa ljudi procjenjuje vjerojatnost budućeg događaja.
 
-Ako tržište omogućuje klađenje na vojne ishode, tada se stvara čudan i neugodan poticaj: nečija tragedija postaje nečija trgovinska prilika. Još je gore ako netko tko ima povjerljive informacije može zaraditi na događaju koji uključuje rat, smrt ili destabilizaciju.
+Ali kada se prije vojnih akcija pojavljuju neuobičajeno precizna predviđanja, priča više nije bezazlena. Najveći problem nije samo mogućnost da je netko zaradio na povjerljivim informacijama. Veći problem je to što takvi obrasci mogu postati signal koji čitaju i protivnici.
 
-To ne znači da prediction marketi nemaju nikakvu vrijednost. Oni ponekad mogu pokazati zanimljivu kolektivnu procjenu rizika. Ali kada se radi o vojnim tajnama i osjetljivim geopolitičkim događajima, pitanje više nije samo “koliko je tržište točno”. Pitanje postaje: smije li takvo tržište uopće postojati u tom obliku?
-
-## Problem nije samo Polymarket
-
-Iako se u ovoj priči najviše spominje Polymarket, širi problem nije vezan samo uz jednu platformu. Cijela kategorija prediction marketa sada ulazi u zreliju, ali i opasniju fazu. Što više novca ulazi u ta tržišta, to je veća motivacija za manipulaciju, insajderske oklade i regulatorno zaobilaženje.
-
-Slična pitanja mogu se pojaviti i kod drugih platformi koje dopuštaju trgovanje ishodima stvarnih događaja. Ako događaj ima političku, vojnu ili ekonomsku važnost, uvijek postoji mogućnost da netko zna nešto prije javnosti.
-
-Zato ova tema neće nestati. Naprotiv, vjerojatno će postati sve važnija kako prediction marketi budu rasli. Regulatori će morati odlučiti gdje je granica između korisnog tržišta predviđanja i opasnog tržišta povjerljivih informacija.
-
-## Što bi se moglo dogoditi dalje?
-
-Jedan mogući smjer je stroža regulacija. Platforme bi mogle morati bolje pratiti sumnjive obrasce, ograničiti određene vrste tržišta ili prijavljivati neuobičajene aktivnosti. Posebno bi se mogla ograničiti tržišta vezana uz rat, terorizam, državne udare, smrt političkih lidera ili aktivne vojne operacije.
-
-Drugi mogući smjer je potpuna zabrana određenih kategorija oklada. Ako zakonodavci zaključe da su tržišta povezana s vojnim akcijama sigurnosni rizik, mogli bi tražiti njihovo uklanjanje. To bi bio veliki udarac za platforme koje žele širiti prediction markete na sve vrste događaja.
-
-Treći smjer je tehnički nadzor. Budući da su on-chain podaci vidljivi, moguće je razvijati alate koji će automatski prepoznavati sumnjive obrasce: povezane račune, neuobičajene timing obrasce, preveliku stopu uspješnosti i koncentraciju zarade na osjetljivim događajima. Ali i tu postoji problem: ako alati vide obrazac tek nakon što se oklade dogode, možda je signal već bio javno dostupan svima koji su ga znali čitati.
-
-## Zaključak: tržište prognoza ili sigurnosna rupa?
-
-Prediction marketi su zanimljivi jer pokušavaju pretvoriti kolektivno mišljenje u tržišnu cijenu. U idealnom slučaju, oni mogu pokazati što masa ljudi misli o budućem događaju. Ali kada se na njima pojavljuju neuobičajeno precizne oklade prije vojnih akcija, priča više nije bezazlena.
-
-Najveći problem nije samo mogućnost da je netko zaradio na povjerljivim informacijama. Veći problem je to što takvi obrasci mogu postati signal koji drugi mogu čitati. Ako neprijateljska strana iz tržišnih podataka može zaključiti da se sprema napad, prediction marketi više nisu samo crypto inovacija. Oni postaju potencijalna sigurnosna rupa.
-
-To je razlog zašto će ova tema vjerojatno sve više zanimati ne samo crypto zajednicu, nego i regulatore, vojne analitičare, obavještajne službe i zakonodavce. Crypto tržišta više nisu izolirani eksperiment. Ona se sve više dodiruju sa stvarnim svijetom, a ponekad i s najosjetljivijim dijelovima tog svijeta.
+Zato ova tema više nije samo crypto tema. Ona ulazi u područje regulacije, geopolitike, obavještajnih procjena i nacionalne sigurnosti. Crypto tržišta više nisu izolirani eksperiment. Sve češće se dodiruju sa stvarnim svijetom, a ponekad i s njegovim najosjetljivijim dijelovima.
 
 ## Naš osvrt (Metaadvisor)
 
-* Prediction marketi mogu biti korisni kao alat za mjerenje očekivanja, ali postaju opasni kada se na njima trguje osjetljivim vojnim i geopolitičkim događajima.
-* Transparentnost blockchaina ovdje je dvosjekli mač: može pomoći otkriti sumnjive obrasce, ali ih istovremeno mogu vidjeti i protivnici.
+* Prediction marketi nisu obične oklade, ali se kod osjetljivih događaja mogu ponašati kao vrlo opasna tržišta informacija.
+* Transparentnost blockchaina može pomoći otkriti sumnjive obrasce, ali ih istovremeno mogu vidjeti i protivnici.
 * Najveći rizik nije samo insider trading, nego mogućnost da tržište prije vremena oda signal o stvarnim vojnim planovima.
-* Platforme koje omogućuju klađenje na ratne ishode vjerojatno će se sve više suočavati s pritiskom regulatora i zakonodavaca.
-* Ovo je jedan od primjera gdje crypto više nije samo financijska inovacija, nego ulazi u područje nacionalne sigurnosti.
+* Tržišta koja se odnose na ratne ishode, napade ili smrt političkih lidera vjerojatno će biti pod sve većim pritiskom regulatora.
+* Ovo je primjer gdje crypto više nije samo financijska inovacija, nego ulazi u područje nacionalne sigurnosti.
 
 <p style="font-size:12px; opacity:0.7; margin-top:30px;">
 Odricanje od odgovornosti: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski ni investicijski savjet.
