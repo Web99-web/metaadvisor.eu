@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "ef82629c486fb54583beaf1d554ef8f0"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/us-senators-unveil-new-bitcoin-bill-renewing-strategic-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-explained-coinbase.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/greenish-green-bitcoin-grow-up-2.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false

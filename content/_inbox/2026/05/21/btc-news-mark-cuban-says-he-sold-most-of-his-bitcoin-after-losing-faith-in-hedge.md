@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Billionaire investor Mark Cuban said he has sold most of his bitcoin BTC $ 77.589,08 holdings after losing confidence in the cryptocurrency’s role as a hedge against weakening fiat currencies and geopolitical instability.
+Billionaire investor Mark Cuban said he has sold most of his bitcoin BTC $ 77,341.59 holdings after losing confidence in the cryptocurrency’s role as a hedge against weakening fiat currencies and geopolitical instability.
 
 Cuban, who's net worth is about $10 billion , said bitcoin’s price behavior during the recent Iran conflict challenged one of the core reasons he owned the asset during an episode of Front Office Sports' podcast " Portfolio Players ," where he mainly discussed professional sports and his ownership of the Dallas Mavericks.
 
