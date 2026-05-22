@@ -74,7 +74,7 @@ Drugim riječima, HYPE iznad 61 USD nije sam po sebi dokaz da je projekt vrijeda
 
 ## Rizik: kada infrastruktura postane hype
 
-Ime tokena je u ovom slučaju gotovo ironično. HYPE raste, a tržište se pita koliko je tu stvarne infrastrukture, a koliko stvarnog hypea. U crypto svijetu ta granica često nije jasna. Najbolji projekti znaju imati špekulativne balone, a najglasniji baloni ponekad prikrivaju stvarne inovacije.
+Ime tokena HYPE je u ovom slučaju kao pravi, ali HYPE zbilja raste, a tržište se pita koliko je tu stvarne infrastrukture, a koliko stvarnog hypea. U crypto svijetu ta granica često nije jasna. Najbolji projekti znaju imati špekulativne balone, a najglasniji baloni ponekad prikrivaju stvarne inovacije. Ali ponekad i tihi projekti odjednom zabljesnu. Ovaj projekt je duže vrijeme poznat u crypto zajednici, a sada ga otkrivaju i drugi.
 
 Najveći rizik za HYPE nije samo mogući pad cijene. Rizik je da se cijeli narativ pregrije prije nego što se dugoročna vrijednost platforme potvrdi. Ako institucionalni proizvodi privuku kapital, cijena može snažno rasti. Ali ako se promijeni sentiment, likvidnost se može povući jednako brzo.
 
