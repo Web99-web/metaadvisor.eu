@@ -72,6 +72,12 @@ Moguće je da će platforme morati ograničiti ili ukloniti osjetljive kategorij
 
 {{< support2 >}}
 
+## Zašto ta predviđanja ipak imaju tržišnu vrijednost?
+
+S druge strane, ne može se ignorirati činjenica da geopolitika snažno utječe na financijska tržišta. Rat, prekid vatre, sankcije, napadi na energetske rute ili politička nestabilnost mogu odmah promijeniti cijenu nafte, zlata, dionica, obveznica, Bitcoina i šireg crypto tržišta. Zato prediction marketi nisu bezvrijedni. Oni mogu pokazati kako tržište procjenjuje rizik prije nego što se taj rizik u potpunosti vidi u cijenama tradicionalne imovine. Ako investitori već reagiraju na geopolitiku kroz dionice, robu i crypto, onda i tržišta predviđanja imaju svoju logiku: pokušavaju izravno izmjeriti vjerojatnost događaja koji može pomaknuti tržišta.
+
+Problem, dakle, nije u samoj ideji da se procjenjuju geopolitički rizici. Problem nastaje kada se predviđanja približe povjerljivim informacijama, aktivnim vojnim operacijama ili događajima kod kojih javno vidljivi obrasci mogu ugroziti sigurnost.
+
 ## Zaključak: tržište predviđanja ili sigurnosna rupa?
 
 Prediction marketi su zanimljivi jer pokušavaju pretvoriti kolektivna očekivanja u tržišnu cijenu. U idealnom slučaju, oni mogu pokazati kako masa ljudi procjenjuje vjerojatnost budućeg događaja.
