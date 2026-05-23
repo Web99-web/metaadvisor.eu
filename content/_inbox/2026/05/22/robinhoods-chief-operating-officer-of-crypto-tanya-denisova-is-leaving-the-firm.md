@@ -23,7 +23,7 @@ The departure comes amid Robinhood missing its first-quarter earnings and revenu
 
 Robinhood enables users to trade stocks, exchange-traded funds (ETFs), options, and cryptocurrencies through a mobile-first app. The company also offers retirement accounts, cash management services, and market insights designed to simplify investing and broaden access to financial markets.
 
-The firm has expanded its presence in crypto by offering commission-free trading for major digital assets, including bitcoin BTC $ 75,328.36 , ether (ETH), solana (SOL), and DOGE $ 0.1007 , directly within its app.
+The firm has expanded its presence in crypto by offering commission-free trading for major digital assets, including bitcoin BTC $ 74,703.02 , ether (ETH), solana (SOL), and DOGE $ 0.09952 , directly within its app.
 
 The company also provides crypto wallets, onchain transfers, staking services in select markets, and educational tools aimed at newer investors. As part of its broader strategy to bridge traditional finance and digital assets, Robinhood has continued to grow its crypto offerings internationally while positioning itself as a simple, low-cost entry point into the crypto market
 
