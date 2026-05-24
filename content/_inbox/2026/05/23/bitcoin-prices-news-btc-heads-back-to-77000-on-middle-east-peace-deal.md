@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-After crumbling about 4% late Friday into early Saturday, bitcoin BTC $ 76,925.64 has more than retraced those losses in the past few minutes after President Trump announced a coming agreement with Iran and other Middle Eastern countries.
+After crumbling about 4% late Friday into early Saturday, bitcoin BTC $ 76,656.54 has more than retraced those losses in the past few minutes after President Trump announced a coming agreement with Iran and other Middle Eastern countries.
 
 "An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries," wrote Trump in a Truth Social post.
 
