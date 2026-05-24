@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 76,680.58 may be entering a new period of outperformance against traditional assets as inflation pressures persist and bond markets weaken, according to Risk Dimensions chief investment officer Mark Connors.
+Bitcoin BTC $ 76,925.64 may be entering a new period of outperformance against traditional assets as inflation pressures persist and bond markets weaken, according to Risk Dimensions chief investment officer Mark Connors.
 
 Connors, who spent years as the global head of portfolio management at Credit Suisse, said bitcoin recently broke out of what had been its longest stretch of underperformance against the S&P 500 in history, a 142-day period that ended in early May.
 

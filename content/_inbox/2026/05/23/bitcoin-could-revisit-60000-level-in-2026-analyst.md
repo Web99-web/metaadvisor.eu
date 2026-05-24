@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "291f2f900f5a47b2f8004209b65decd5"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/google-laptop-bitcoin-trump-1.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-impermanent-loss-and-how-to-avoid-it2-1.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false
