@@ -34,8 +34,6 @@ Europska unija uvela je MiCA regulaciju kako bi uredila crypto tržište, zašti
 
 Ali slučaj estonskog Kriptomata otvara neugodno pitanje koje se u regulaciji često gura pod tepih: zašto se od privatnih tvrtki traži da poštuju rokove i stroge obaveze, dok učinkovitost administracije i brzina rješavanja zahtjeva i dalje ovise o birokratima svake pojedine zemlje?
 
-{{< support1 >}}
-
 Kriptomat je objavio da postupno zatvara poslovanje do 30. lipnja 2026., uz objašnjenje da su sredstva korisnika sigurna i dostupna te da korisnici mogu povući sredstva ili prijeći na Kraken. Razlog koji se navodi nije hack, insolventnost ili gubitak imovine, nego regulatorna neizvjesnost oko MiCA autorizacije. Posebno je važno što se u objašnjenjima spominje da vremenski okvir i nejasni zahtjevi procesa nisu bili kompatibilni s održivim i transparentnim nastavkom poslovanja.
 
 ## Zašto je vremenski okvir toliko važan?
@@ -44,13 +42,13 @@ Za crypto platformu licenca nije samo formalnost. O njoj ovise poslovni planovi,
 
 Upravo zato je ova vijest važnija od same sudbine jedne platforme. Ona otvara pitanje učinkovitosti europske regulacije u praksi. EU je propisala što crypto tvrtke moraju ispuniti, ali tržište sada vidi da problem može nastati i na drugoj strani — u brzini i predvidljivosti same administracije.
 
+{{< support1 >}}
+
 ## Kraken, Irska i pitanje jednakih uvjeta
 
 Posebno je zanimljivo da je Kraken dobio MiCA licencu od Central Bank of Ireland i da mu ta autorizacija omogućuje pružanje reguliranih crypto usluga u svih 30 država Europskog gospodarskog prostora. Drugim riječima, jedan regulator u jednoj državi članici može otvoriti vrata cijelom europskom tržištu.
 
 To nije problem samo po sebi. Upravo je “passporting” jedna od ideja jedinstvenog tržišta. Problem nastaje ako brzina, jasnoća i učinkovitost licenciranja nisu jednaki u svim državama. Tada EU formalno ima zajednički okvir, ali stvarna sudbina pojedine platforme ovisi o tome u kojoj zemlji čeka regulatora.
-
-{{< support2 >}}
 
 Ako jedan regulator može brzo i jasno provesti postupak, a drugi nema predvidljiv vremenski okvir, tada se stvara neravnoteža. Tvrtke ne konkuriraju samo proizvodom, sigurnošću i korisničkom podrškom, nego i regulatornom srećom — odnosno time gdje im se zahtjev obrađuje.
 
@@ -61,6 +59,8 @@ MiCA od crypto platformi traži ozbiljnost. To je razumljivo. Nakon kolapsa plat
 Ali ako se od platformi traži disciplina, onda se ista logika mora primijeniti i na administraciju. Ako tvrtka ima rok, dokumentaciju i troškove, tada bi i tijelo koje odlučuje o zahtjevu trebalo imati jasan rok, transparentan proces i odgovornost za kašnjenje.
 
 U protivnom se stvara vrlo opasna neravnoteža: privatna tvrtka može biti kažnjena ako ne ispuni obaveze, ali birokratski sustav ne snosi stvarnu posljedicu ako se proces razvlači. Za tvrtku to može značiti gubitak tržišta, korisnika, zaposlenika i investicija. Za administraciju je to često samo još jedan predmet u redu čekanja.
+
+{{< support1 >}}
 
 ## Neučinkovitost administracije uvijek ostavlja loš dojam
 
@@ -77,6 +77,8 @@ Velike burze imaju odvjetnike, compliance timove, kapital, regulatorne savjetnik
 Manje platforme nemaju taj luksuz. Za njih svaki mjesec neizvjesnosti znači trošak. Plaće se moraju isplatiti, sustavi održavati, korisnici informirati, bankovni partneri uvjeravati, a tržište se ne može normalno širiti dok regulatorna budućnost visi u zraku.
 
 Zato MiCA, iako zamišljena kao okvir za sigurnost i red, u praksi može ubrzati konsolidaciju tržišta. Ne zato što je to nužno službeni cilj, nego zato što administrativni teret i neizvjesnost prirodno više pogađaju manje igrače.
+
+{{< support2 >}}
 
 ## Ako EU propisuje obaveze, treba propisati i odgovornost administracije
 
