@@ -58,7 +58,7 @@ MiCA od crypto platformi traži ozbiljnost. To je razumljivo. Nakon kolapsa plat
 
 Ali ako se od platformi traži disciplina, onda se ista logika mora primijeniti i na administraciju. Ako tvrtka ima rok, dokumentaciju i troškove, tada bi i tijelo koje odlučuje o zahtjevu trebalo imati jasan rok, transparentan proces i odgovornost za kašnjenje.
 
-U protivnom se stvara vrlo opasna neravnoteža: privatna tvrtka može biti kažnjena ako ne ispuni obaveze, ali birokratski sustav ne snosi stvarnu posljedicu ako se proces razvlači. Za tvrtku to može značiti gubitak tržišta, korisnika, zaposlenika i investicija. Za administraciju je to često samo još jedan predmet u redu čekanja.
+U protivnom se stvara vrlo opasna neravnoteža: privatna tvrtka može biti kažnjena ako ne ispuni obaveze, ali birokratski sustav ne snosi stvarnu posljedicu ako se proces razvlači. Za tvrtku to može značiti gubitak reputacije, tržišta, korisnika, zaposlenika i investicija. Za administraciju je to često samo još jedan predmet u redu čekanja.
 
 {{< support1 >}}
 
