@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Nasdaq has moved closer to offering cash-settled bitcoin BTC $ 77,389.41 index options, a move set to democratize crypto risk management and eliminate legacy operational barriers.
+Nasdaq has moved closer to offering cash-settled bitcoin BTC $ 77,385.64 index options, a move set to democratize crypto risk management and eliminate legacy operational barriers.
 
 Last week, the U.S. Securities and Exchange Commission granted Nasdaq PHLX conditional approval to list European-style options under the ticker QBTC. These will be cash-settled, European-style options tracking the CME CF Bitcoin Real Time Index (BRTT).
 

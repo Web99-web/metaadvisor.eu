@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "6c9dd0fd027a35ecd16deb39dd12eee6"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-etf-outflow-streak-pushes-market-closer-to-net-negative-flows-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-pilot-launch-what-it-means-for-pioneers.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-iran-bitcoin.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false

@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 77,389.41 was slightly higher on Monday as a sharp decline in oil prices helped lift Asian stock markets.
+Bitcoin BTC $ 77,385.64 was slightly higher on Monday as a sharp decline in oil prices helped lift Asian stock markets.
 
 At 6:35 UTC, the leading cryptocurrency by market value traded near $77,200, up 0.4% from midnight UTC, according to CoinDesk data. At that level, bitcoin was trading just above its widely tracked 50-day simple moving average of around $76,940. Traders and chart analysts monitor this key level closely, with sustained breakouts above it typically viewed as bullish.Other major cryptocurrencies were also modestly higher.
 
