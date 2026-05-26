@@ -1,6 +1,6 @@
 ---
-title: "“What you learned in your first year may already be outdated”: students booed pro-AI speakers"
-slug: "what-you-learned-in-your-first-year-may-already-be-outdated-students-booed-pro-ai-speakers"
+title: "“What you learned in your first University year may already be outdated”: students booed pro-AI speakers"
+slug: "what-you-learned-in-your-first-university-year-may-already-be-outdated-students-booed-pro-ai-speakers"
 date: 2026-05-26T12:00:00+02:00
 category: "ai"
 translationKey: "b23060558dc859809cd76ad56a968ad7"
