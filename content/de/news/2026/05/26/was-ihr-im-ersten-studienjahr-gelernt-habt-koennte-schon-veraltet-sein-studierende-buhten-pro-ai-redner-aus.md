@@ -5,7 +5,7 @@ date: 2026-05-26T12:00:00+02:00
 category: "ai"
 translationKey: "b23060558dc859809cd76ad56a968ad7"
 source: "The Guardian Tech"
-source_url: "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers"
+source_url: ""
 author: "The Guardian Tech"
 analysis_by: "Metaadvisor.eu"
 image_url: "/images/ai1manja.jpg"
