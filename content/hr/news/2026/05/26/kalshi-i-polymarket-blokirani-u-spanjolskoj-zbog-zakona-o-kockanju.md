@@ -5,7 +5,7 @@ date: 2026-05-26T12:00:00+02:00
 category: "crypto"
 translationKey: "d32556075d7706a7a8db777fb2f3a899"
 source: "Metaadvisor.eu (El País, Ministerio de Derechos Sociales, Consumo y Agenda 2030, Reuters)"
-source_url: "https://elpais.com/economia/2026-05-26/consumo-ordena-el-bloqueo-de-polymarket-y-kalshi-en-espana-por-operar-sin-licencia-de-juego.html"
+source_url: ""
 author: "Metaadvisor.eu"
 image_url: "/images/spain flag.jpg"
 featured_image: "/images/spain flag.jpg"
