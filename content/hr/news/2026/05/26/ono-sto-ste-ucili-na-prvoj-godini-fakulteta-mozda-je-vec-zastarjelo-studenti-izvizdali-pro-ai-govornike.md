@@ -1,6 +1,6 @@
 ---
-title: "“Ono što ste učili na prvoj godini možda je već zastarjelo”: studenti izviždali pro-AI govornike"
-slug: "ono-sto-ste-ucili-na-prvoj-godini-mozda-je-vec-zastarjelo-studenti-izvizdali-pro-ai-govornike"
+title: "“Ono što ste učili na prvoj godini fakulteta možda je već zastarjelo”: studenti izviždali pro-AI govornike"
+slug: "ono-sto-ste-ucili-na-prvoj-godini-fakulteta-mozda-je-vec-zastarjelo-studenti-izvizdali-pro-ai-govornike"
 date: 2026-05-26T12:00:00+02:00
 category: "ai"
 translationKey: "b23060558dc859809cd76ad56a968ad7"
