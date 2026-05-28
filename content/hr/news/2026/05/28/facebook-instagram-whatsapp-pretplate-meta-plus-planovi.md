@@ -44,7 +44,7 @@ Za velike kompanije takve pretplate vjerojatno nisu nikakav trošak. Ali za free
 
 Zato je ova vijest zanimljiva iz drugog kuta. Mali korisnici možda bi i bili spremni plaćati nešto malo ako bi im to donijelo bolju organizaciju, više sigurnosti, jasnije alate ili profesionalniji nastup. Za nekoga tko tek gradi mali brend, 2,99 ili 3,99 dolara mjesečno nije isto što i skupi poslovni softver. To može biti prihvatljivo ako stvarno pomaže.
 
-Problem je u tome što mnogi korisnici danas nemaju osjećaj da ih velike platforme štite. Dapače, posljednjih godina sve je više slučajeva u kojima dugogodišnji Facebook profili, stranice i grupe budu ograničeni, ugašeni ili zaključani bez jasnog objašnjenja. To se događa odjednom i korisnik istodobno u sekundi bude izbačen iz Facebook, Instagram, Messenger i Business Suits. Bez prethodnog upozorenja. Posebno je osjetljivo kada se to dogodi korisnicima koji su na mreži 15 ili 20 godina i koji su godinama gradili kontakte, publiku, stranice i zajednice.
+Problem je u tome što mnogi korisnici danas nemaju osjećaj da ih velike platforme štite. Dapače, posljednjih godina sve je više slučajeva u kojima dugogodišnji Facebook profili, stranice i grupe budu ograničeni, ugašeni ili zaključani bez jasnog objašnjenja. To se događa odjednom: korisnik u jednoj sekundi može izgubiti pristup Facebooku, Instagramu, Messengeru i Meta Business Suiteu, bez prethodnog upozorenja. Posebno je osjetljivo kada se to dogodi korisnicima koji su na mreži 15 ili 20 godina i koji su godinama gradili kontakte, publiku, stranice i zajednice.
 
 
 ![Facebook banned users and account restrictions](/images/Meta/Facebook-banned-people-US-Canada-Phillippines-27.03.2026.png)
