@@ -49,7 +49,7 @@ Problem je u tome što mnogi korisnici danas nemaju osjećaj da ih velike platfo
 
 ![Facebook banned users and account restrictions](/images/Meta/Facebook-banned-people-US-Canada-Phillippines-27.03.2026.png)
 
-Metaadvisor je o tome već pisao u analizi: [Zašto na Facebooku profil star 15–20 godina nema reputacijski kredit?](https://metaadvisor.eu/hr/news/facebook-dugogodisnji-profili-reputacijski-kredit-problem/) Isti problem obrađen je i u engleskoj verziji: [Why does a 15–20 year old Facebook profile have no reputation credit?](https://metaadvisor.eu/news/facebook-long-term-profiles-no-reputation-credit-problem/) te u njemačkoj verziji: [Warum hat ein 15–20 Jahre altes Facebook-Profil keinen Reputationskredit?](https://metaadvisor.eu/de/news/facebook-langjaehrige-profile-kein-reputationskredit-problem/).
+Metaadvisor je o tome već pisao u analizi: [Zašto na Facebooku profil star 15–20 godina nema reputacijski kredit?](https://metaadvisor.eu/hr/news/facebook-dugogodisnji-profili-reputacijski-kredit-problem/)
 
 To pitanje sada postaje još važnije. Ako Meta želi korisnicima naplaćivati dodatne funkcije, onda korisnici moraju imati barem minimalan osjećaj sigurnosti. Nitko ne želi plaćati premium opcije na platformi na kojoj se istodobno boji da mu račun, stranica ili grupa mogu nestati preko noći zbog automatizirane odluke koju nitko ne može objasniti.
 
