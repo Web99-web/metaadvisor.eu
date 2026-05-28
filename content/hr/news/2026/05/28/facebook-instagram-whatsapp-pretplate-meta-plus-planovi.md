@@ -59,8 +59,6 @@ Metaadvisor je o tome već pisao u analizi: [Zašto na Facebooku profil star 15�
 
 To pitanje sada postaje još važnije. Ako Meta želi korisnicima naplaćivati dodatne funkcije, onda korisnici moraju imati barem minimalan osjećaj sigurnosti. Nitko ne želi plaćati premium opcije na platformi na kojoj se istodobno boji da mu račun, stranica ili grupa mogu nestati preko noći zbog automatizirane odluke koju nitko ne može objasniti.
 
-{{< support1 >}}
-
 ## AI moderacija, previše objava ili čišćenje starih korisnika?
 
 Još uvijek nije potpuno jasno zašto su neki dugogodišnji korisnici završili pod ograničenjima. Moguće je da je dio problema povezan s AI moderacijom, automatiziranim prepoznavanjem navodnog spama, velikim brojem objava, linkovima ili obrascima ponašanja koje sustav tumači kao rizične. No iz perspektive korisnika rezultat je isti: račun nestane, pristup se izgubi, a stvarne ljudske podrške gotovo nema.
