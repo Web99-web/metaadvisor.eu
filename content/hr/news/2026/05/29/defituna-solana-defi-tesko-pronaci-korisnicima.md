@@ -83,6 +83,8 @@ DeFiTuna može imati zanimljivu tehnologiju, dokumentaciju, token i napredne fun
 
 Upravo zato su TVL, adoption i tržišna potražnja toliko važni u DeFi-ju. TVL, odnosno Total Value Locked, pokazuje koliko je vrijednosti zaključano u protokolu. Ali da bi TVL rastao, korisnici moraju razumjeti što protokol radi, kako se koristi i kako sigurno doći do njega. Ako prvi korak već stvara konfuziju, mnogi će odustati prije nego što uopće shvate proizvod.
 
+{{< support2 >}}
+
 ## DeFi treba bolji “putokaz” za obične korisnike
 
 Jedna od najvećih lekcija iz ove priče je da DeFi treba bolji sloj provjere i navigacije. Walleti, agregatori i službene dokumentacije moraju pomoći korisnicima da sigurnije razlikuju tokene od aplikacija i službene protokole od kopija. Dok se to ne riješi, obični korisnici će se i dalje osjećati kao da ulaze u prostor gdje svaki klik može biti rizik.
