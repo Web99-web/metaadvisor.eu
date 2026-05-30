@@ -32,13 +32,13 @@ Projekt Južne interkonekcije između Bosne i Hercegovine i Hrvatske trebao bi, 
 
 To odmah mijenja ton cijele priče. Nije sporno da BiH želi sigurniji i raznolikiji pristup energiji, niti da Europa već godinama pokušava smanjiti ovisnost o ruskom plinu. Sporno je to kako je jedna relativno nepoznata firma došla do tako velikog i politički osjetljivog posla, te zašto se sve odvijalo bez otvorene konkurencije.
 
-{{< support1 >}}
-
 ## Tko je AAFS i zašto je priča privukla pažnju
 
 Guardian navodi da je riječ o američkoj firmi AAFS Infrastructure and Energy, povezanoj s figurama iz Trumpova političkog kruga. Upravo je ta poveznica dodatno pojačala zanimanje medija, ali još važnije od toga je pitanje poslovnih referenci. Kada firma bez široko poznatog iskustva u projektima ove veličine dobije posao vezan uz infrastrukturni projekt od milijardu dolara, logično je da javnost traži više odgovora.
 
 Prema Guardianu, AAFS nije privukao pažnju zato što je riječ o globalno poznatom energetskom divu, nego upravo zato što se radi o kompaniji za koju šira javnost gotovo nije ni čula. U normalnim okolnostima, takav bi projekt uključivao detaljnu usporedbu više ponuđača, provjeru referenci, financijske kapacitete, tehničko iskustvo i jasno definirane uvjete. Kada tog procesa nema, ostaje dojam da je odluka donesena političko-poslovnim putem, a ne kroz otvoreno tržišno nadmetanje.
+
+{{< support1 >}}
 
 ## Što bi ta firma zapravo trebala raditi
 
@@ -46,13 +46,25 @@ Ovdje je važno razlikovati običnog izvođača radova od tvrtke koja dobiva ši
 
 Drugim riječima, ne radi se samo o postavljanju cijevi u zemlju. Radi se o pozicioniranju privatne firme unutar projekta koji ima dugoročne posljedice za energetsku sigurnost regije. Zbog toga je način dodjele posla jednako važan kao i sam projekt. Ako se već govori o strateškoj infrastrukturi, tada i standardi transparentnosti moraju biti viši, a ne niži.
 
-{{< support2 >}}
+Prema Guardianu, sam plinovod se u povjerljivom AAFS prijedlogu procjenjuje na oko **300 milijuna eura**, a dodatnih oko **900 milijuna eura odnosi se na tri elektrane**. Znači “više od 1 milijarde” nije samo cijev, nego širi paket energetskih infrastrukturnih projekata. Guardian navodi da bi financiranje trebalo doći kroz equity i debt, odnosno privatni kapital i zaduženje, a ne izravno iz državnog proračuna BiH — ali nisu navedeni detalji o investicijskim fondovima ni očekivanim povratima.
+
+{{< support1 >}}
 
 ## Zašto je natječaj važan čak i kada je projekt dobar
 
 Ovo je ključni dio cijele priče. Moguće je da ideja Južne interkonekcije ima smisla. Moguće je i da BiH doista treba alternativni pravac opskrbe plinom. Ali čak i ako je cilj dobar, to ne znači da postupak može biti netransparentan. Upravo suprotno: što je projekt veći i važniji, to javnost ima veće pravo znati kako je partner izabran.
 
 Guardian ističe da nije bilo javnog natječaja, a to je detalj koji cijeloj priči daje težinu. U javnom natječaju trebalo bi biti jasno tko se mogao prijaviti, pod kojim uvjetima, koje su reference tražene i zašto je baš jedan ponuđač bio najbolji izbor. Bez toga ostaju otvorena pitanja. Je li AAFS doista bio najbolji kandidat? Je li netko drugi uopće dobio priliku? Tko je procijenio da baš ta firma zaslužuje tako važnu poziciju?
+
+Budući da se projekt mora spojiti na hrvatsku plinsku mrežu i LNG terminal na Krku, Hrvatska nije samo promatrač. BiH i Hrvatska već su potpisale međudržavni sporazum o Južnoj interkonekciji krajem travnja 2026., no sama gradnja još ovisi o provedbenim ugovorima, dozvolama, financiranju i konačnom modelu upravljanja projektom.
+
+## BIH i Hrvatska suradnja oko izgradnje plinovoda Južne interkonekcije
+
+To nije samo “BiH projekt”. Plinovod bi se morao spojiti na hrvatsku plinsku mrežu, odnosno na pravac prema LNG terminalu Krk, pa dio infrastrukture i međudržavni dogovor s Hrvatskom jesu bitni za priču.
+
+Prema dostupnim izvorima, Hrvatska i BiH su već potpisale međudržavni sporazum 28./29. travnja 2026. o Južnoj plinskoj interkonekciji. Dakle ne čekaju tek “ugovor s Hrvatskom” u općem smislu — taj političko-međudržavni korak je već napravljen. Ono što još ostaje su konkretni provedbeni ugovori, regulacija, financiranje, dozvole, trasa, operativni modeli i eventualni ugovori s AAFS-om.
+
+{{< support2 >}}
 
 ## Energetika, ali i povjerenje javnosti
 
@@ -65,6 +77,8 @@ U ovom slučaju projekt se može braniti argumentom energetske sigurnosti. BiH j
 Ova tema nije važna samo za BiH ili Hrvatsku. Ona pokazuje kako danas izgledaju veliki energetski poslovi u regiji koja je i dalje politički osjetljiva i energetski ranjiva. Kada se strateški projekti dodjeljuju bez natječaja, to ne izaziva samo medijsku pažnju nego i dugoročnu sumnju u institucije. Ljudi tada ne raspravljaju više samo o plinu, nego o povjerenju u cijeli sustav.
 
 Zato je Guardianova priča važna i iz šire perspektive. Ona ne tvrdi da projekt nema smisla, nego otvara pitanje postupka. A upravo je to često ono što odlučuje hoće li javnost neki projekt doživjeti kao razvojni iskorak ili kao još jedan primjer kako se veliki poslovi dodjeljuju iza zatvorenih vrata.
+
+{{< support2 >}}
 
 ## Može li se dobar projekt kompromitirati lošim postupkom
 
