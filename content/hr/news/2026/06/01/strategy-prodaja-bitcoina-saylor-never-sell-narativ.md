@@ -1,4 +1,4 @@
-c---
+---
 title: "Strategy prodala Bitcoin: mala prodaja, veliki udarac za Saylorov ‘never sell’ narativ"
 slug: "strategy-prodaja-bitcoina-saylor-never-sell-narativ"
 date: 2026-06-01T12:00:00+02:00
