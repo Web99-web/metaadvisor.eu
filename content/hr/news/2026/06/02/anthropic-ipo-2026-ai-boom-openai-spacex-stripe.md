@@ -38,13 +38,13 @@ Povjerljiva S-1 prijava znači da kompanija predaje regulatorima nacrt dokumenta
 
 Za Anthropic je to posebno važno jer se kompanija procjenjuje na iznimno visoku valuaciju nakon velikog privatnog kruga financiranja. Javna burza, međutim, nije isto što i privatni investicijski krug. Dok privatni ulagači često kupuju budući potencijal, javno tržište traži puno konkretnija pitanja: koliko kompanija zarađuje, koliko troši, koliko brzo raste i može li taj rast jednoga dana postati profitabilan.
 
+{{< support1 >}}
+
 ## Claude kao test za cijelu AI ekonomiju
 
 Anthropic ne izlazi pred Wall Street samo kao još jedna tehnološka kompanija. On dolazi kao predstavnik nove generacije AI laboratorija koji troše ogromne iznose na modele, čipove, cloud infrastrukturu i podatkovne centre. Upravo zato potencijalni IPO neće biti samo test za Anthropic, nego i test za cijeli AI boom.
 
 Ako investitori prihvate priču o Claudeu i njegovoj ulozi u poslovnom svijetu, to će biti snažan signal da javno tržište još uvijek vjeruje u umjetnu inteligenciju kao novu osnovnu infrastrukturu digitalne ekonomije. Ako budu oprezniji, to može značiti da se AI euforija počinje sudarati s pitanjem stvarnih troškova.
-
-{{< support1 >}}
 
 ## OpenAI, SpaceX i Stripe u istoj IPO godini
 
@@ -52,19 +52,23 @@ Na slici se uz Anthropic nalaze i OpenAI, SpaceX i Stripe jer se 2026. sve češ
 
 Važno je ipak razlikovati potvrđene korake od tržišnih očekivanja. Anthropic je sada službeno predao povjerljivu dokumentaciju. SpaceX se u medijima spominje s konkretnijim IPO planovima i mogućim velikim datumima. OpenAI se promatra kao logičan kandidat zbog ogromne valuacije i globalne prepoznatljivosti. Stripe je drukčija priča: on je već dugo na listama najpoželjnijih IPO kandidata, ali njegov stvarni trenutak izlaska na burzu ovisi o odluci kompanije i tržišnim uvjetima.
 
+{{< support2 >}}
+
 ## Mali ulagači neće nužno kupovati po IPO cijeni
 
 Za male ulagače najvažnije je razumjeti razliku između sudjelovanja u IPO-u i kupnje dionice nakon što počne trgovanje. Veliki fondovi i institucionalni investitori često imaju prednost kod početne alokacije. Mali ulagači najčešće mogu kupovati tek nakon što se dionica pojavi na burzi, primjerice preko brokera koji nude američke dionice.
 
-To znači da popularni brokeri poput eToro, Interactive Brokersa, Trading 212, Revoluta, XTB-a ili domaćih brokera mogu biti korisni tek kada dionica stvarno počne trgovati i ako je dodaju u svoju ponudu. Ali to nije isto kao kupnja po IPO cijeni. Kod vrlo popularnih kompanija cijena nakon otvaranja može snažno skočiti, ali može i brzo pasti ako tržište procijeni da je početna euforija bila pretjerana.
+Nakon uvrštenja, dionice bi se mogle pojaviti kod brokera koji nude trgovanje američkim dionicama, poput Interactive Brokersa, Trading 212, eToro, XTB-a ili Revoluta, ali investitori moraju provjeriti kupuju li stvarnu dionicu ili derivat/CFD te je li konkretni ticker dostupan u njihovoj zemlji.
 
-{{< support2 >}}
+To znači da popularni brokeri poput eToro, Interactive Brokersa, Trading 212, Revoluta, XTB-a ili domaćih brokera mogu biti korisni tek kada dionica stvarno počne trgovati i ako je dodaju u svoju ponudu. Ali to nije isto kao kupnja po IPO cijeni. Kod vrlo popularnih kompanija cijena nakon otvaranja može snažno skočiti, ali može i brzo pasti ako tržište procijeni da je početna euforija bila pretjerana.
 
 ## AI boom ili početak novog balona?
 
 Najveće pitanje nije samo koliko vrijedi Anthropic. Pitanje je koliko vrijedi cijeli AI boom kada se prebaci iz privatnih valuacija na javno tržište. Dok su kompanije privatne, investitori često gledaju priču, rast, tehnološku prednost i mogućnost dominacije. Kada uđu na burzu, počinje stroži test: prihodi, marže, troškovi, konkurencija i realna sposobnost stvaranja profita.
 
 To ne znači da je AI balon. Umjetna inteligencija već mijenja način rada u programiranju, korisničkoj podršci, marketingu, analizi podataka, pravu, obrazovanju i mnogim drugim sektorima. Ali pitanje je mogu li valuacije od stotina milijardi ili gotovo bilijun dolara opravdati tempo kojim se danas gradi infrastruktura, zapošljavaju stručnjaci i kupuju računalni resursi.
+
+{{< support2 >}}
 
 ## Godina u kojoj Wall Street testira budućnost
 
