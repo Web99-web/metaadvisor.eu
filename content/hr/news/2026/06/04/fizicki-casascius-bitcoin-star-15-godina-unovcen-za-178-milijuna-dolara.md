@@ -1,7 +1,7 @@
 ---
 title: "Rijetki fizički Casascius Bitcoin star 15 godina unovčen za 1,78 milijuna dolara"
 slug: "fizicki-casascius-bitcoin-star-15-godina-unovcen-za-178-milijuna-dolara"
-date: 2026-06-03T12:00:00+02:00
+date: 2026-06-04T12:00:00+02:00
 category: "kripto"
 translationKey: "cc097034a02380816b882efcc9d8f192"
 source: "Metaadvisor (CoinDesk, Crypto Briefing, Decrypt)"
