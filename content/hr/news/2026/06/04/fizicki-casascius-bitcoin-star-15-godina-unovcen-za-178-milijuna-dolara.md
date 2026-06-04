@@ -38,13 +38,13 @@ Casascius Bitcoin nije bio samo suvenir ili ukrasni coin. To je bio fizički pre
 
 Upravo zato su Casascius coinovi postali posebna kategorija između walleta, kolekcionarskog predmeta i numizmatičke povijesti. Oni su fizički dokaz jedne rane faze Bitcoina, kada je digitalna imovina još bila toliko nova da su je neki ljudi pokušavali objasniti kroz predmet koji se može primiti u ruku.
 
+{{< support1 >}}
+
 ## Zašto je skidanje holograma tako važno?
 
 Hologram je bio ključan jer je štitio privatni ključ. Dok je bio netaknut, coin je imao dvostruku vrijednost: vrijednost Bitcoina koji se nalazi unutra i kolekcionarsku vrijednost fizičkog predmeta. Kada vlasnik skine hologram i upotrijebi privatni ključ, Bitcoin se može premjestiti u novi wallet. Ali taj potez je nepovratan.
 
 Coin tada više nije “pun” kolekcionarski primjerak, nego postaje otvoreni, iskorišteni artefakt. Za vlasnika to može biti racionalna odluka jer dobiva pristup velikoj digitalnoj vrijednosti. Za kolekcionare to može biti gubitak jer je nestao jedan netaknuti primjerak iz rane Bitcoin povijesti.
-
-{{< support1 >}}
 
 ## Od eksperimenta do milijunske vrijednosti
 
@@ -52,19 +52,21 @@ U ovom slučaju povučeno je 25 BTC-a. Danas je to iznos vrijedan oko 1,78 milij
 
 Malo tko je tada mogao sigurno znati da će fizički coin s 25 BTC-a jednoga dana vrijediti kao luksuzna nekretnina. Upravo zato ovakve priče uvijek izazivaju pažnju. One pokazuju koliko se vrijednost Bitcoina promijenila, ali i koliko je rani Bitcoin svijet bio drukčiji od današnjeg institucionalnog tržišta.
 
+{{< support1 >}}
+
 ## Kolekcionarska vrijednost ili digitalni novac?
 
 Vlasnik ovog coina morao je odlučiti između dvije vrste vrijednosti: digitalne vrijednosti od 25 BTC-a i kolekcionarske vrijednosti netaknutog Casascius coina. Za mnoge kolekcionare netaknuti hologram vrijedi gotovo kao dokaz autentičnosti i dio povijesti. Kada se hologram skine, nestaje dio magije.
 
 To je ono što ovu priču razlikuje od običnog Bitcoin transfera. Netko tko prebaci BTC s burze na wallet ne uništava kolekcionarski predmet. Ali kod Casasciusa svaki redeem, odnosno svako skidanje holograma i premještanje Bitcoina, smanjuje broj netaknutih fizičkih Bitcoin primjeraka na svijetu.
 
-{{< support2 >}}
-
 ## Fizički Bitcoin kao relikvija digitalne ere
 
 Casascius coinovi danas imaju posebno mjesto u Bitcoin kulturi. Oni podsjećaju na vrijeme kada je Bitcoin još bio mali, čudan i nerazumljiv većini svijeta. Tada se ideja fizičkog Bitcoina činila korisnom jer je ljudima bilo lakše shvatiti digitalni novac ako ga mogu vidjeti i držati u ruci.
 
 Danas, kada se Bitcoin uglavnom čuva na hardverskim walletima, burzama ili institucionalnim custody računima, Casascius izgleda kao relikvija iz pionirskog doba. On pripada vremenu prije velikih ETF-ova, prije institucionalnih treasury strategija i prije globalne rasprave o Bitcoinu kao rezervnoj imovini.
+
+{{< support2 >}}
 
 ## Postojali su i coinovi od 1.000 BTC
 
@@ -77,6 +79,8 @@ To ih čini gotovo mitskim predmetima za kolekcionare i Bitcoin povjesničare. K
 Priča ima i regulatorni dio. Mike Caldwell zaustavio je proizvodnju Casascius coinova krajem 2013. nakon što su ga američke vlasti upozorile da bi se takva aktivnost mogla smatrati prijenosom novca bez odgovarajuće licence. To je još jedan podsjetnik da se Bitcoin od samog početka kretao između tehnološkog eksperimenta, financijske inovacije i regulatorne sive zone.
 
 Danas se to možda čini logično, ali u ranim godinama Bitcoina mnoge granice nisu bile jasne. Ljudi su eksperimentirali s fizičkim coinovima, papirnatim walletima, forumskim prodajama i ručnim prijenosima vrijednosti. Casascius je iz tog razdoblja ostao jedan od najprepoznatljivijih simbola.
+
+{{< support2 >}}
 
 ## Zašto ovakve priče i dalje privlače pažnju?
 
