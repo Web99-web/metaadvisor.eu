@@ -1,6 +1,6 @@
 ---
-title: "Meta pala: skupi AI i izgubljeni korisnici zbog AI moderacije"
-slug: "meta-pala-skupi-ai-troskovi-i-izgubljeni-korisnici-ai-moderacija"
+title: "Dionica Mete pala: skupi AI i izgubljeni korisnici zbog AI moderacije"
+slug: "dionica-mete-pala-skupi-ai-izgubljeni-korisnici-ai-moderacija"
 date: 2026-06-05T12:00:00+02:00
 category: "ai"
 translationKey: "meta-ai-costs-facebook-moderation-2026-06-05"
