@@ -84,14 +84,10 @@ Danas zato ne gledamo samo pad jedne dionice. Gledamo širu promjenu narativa. P
 ## Naš osvrt (Metaadvisor)
 
 - Meta je i dalje jedna od najjačih tehnoloških kompanija, ali današnja reakcija tržišta pokazuje da investitori više ne gledaju AI samo kroz hype.
-
 - Ako se AI infrastruktura mora financirati novim dionicama ili velikim zaduživanjem, pitanje povrata investicije postaje puno važnije.
-
 - Meta se sve više oslanja na AI ne samo u razvoju proizvoda, nego i u moderaciji sadržaja, serviranju oglasa i upravljanju korisničkim računima.
-
 - Ako automatizirani sustavi pogrešno izbacuju stvarne korisnike, to nije samo problem korisničke podrške. To može biti i problem prihoda, jer su ti korisnici istovremeno publika, potrošači i dio oglašivačkog ekosustava.
-
-- Najvažnije pitanje više nije samo koliko će Meta zaraditi na AI-u, nego koliko može izgubiti ako se ljudska procjena potpuno zamijeni automatiziranim sustavima.
+- Najvažnije pitanje više nije samo koliko će Meta zaraditi na AI-u, nego i koliko može izgubiti ako se ljudska procjena potpuno zamijeni automatiziranim sustavima.
 
 <p style="font-size:0.82em; color:#888; line-height:1.5; margin-top:24px;">
 Odricanje od odgovornosti: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja financijski niti investicijski savjet.
