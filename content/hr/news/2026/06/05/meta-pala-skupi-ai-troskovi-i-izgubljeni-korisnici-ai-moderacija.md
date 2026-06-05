@@ -67,6 +67,8 @@ Metaadvisor je ovu temu već obradio u nekoliko priča, uključujući članak �
   </figcaption>
 </figure>
 
+https://metaadvisor.eu/hr/news/facebook-dugogodisnji-profili-reputacijski-kredit-problem/
+
 Ovdje se vidi širi rizik za Metu. Kompanija sve više ulaže u AI kako bi povećala učinkovitost, poboljšala oglašavanje, automatizirala korisničku podršku i razvila nove proizvode. No ako isti taj AI sustav stvara pogreške u moderaciji, halucinira, krivo interpretira ponašanje korisnika ili izbacuje stvarne ljude s platforme, tada se dio potencijalne koristi može pretvoriti u gubitak. Nije dovoljno imati najbolji algoritam za oglase ako se istovremeno smanjuje povjerenje korisnika koji te oglase trebaju gledati.
 
 {{< support2 >}}
