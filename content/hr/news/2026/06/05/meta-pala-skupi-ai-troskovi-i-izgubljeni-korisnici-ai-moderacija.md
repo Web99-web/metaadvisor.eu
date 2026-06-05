@@ -1,5 +1,5 @@
 ---
-title: "Meta pala: skupi AI i izgubljeni korisnici zabog AI moderacije"
+title: "Meta pala: skupi AI i izgubljeni korisnici zbog AI moderacije"
 slug: "meta-pala-skupi-ai-troskovi-i-izgubljeni-korisnici-ai-moderacija"
 date: 2026-06-05T12:00:00+02:00
 category: "ai"
