@@ -48,6 +48,8 @@ Zato su najviše pogođene upravo AI i chip dionice. Broadcom je bio jedan od na
 
 Meta je također snažno pala, s oko 629 USD prema 583 USD tijekom dana, prije djelomičnog oporavka. Kod Mete se dodatno otvorilo pitanje koliko će AI infrastruktura stvarno koštati i hoće li kompanija morati tražiti nove načine financiranja. To je važno jer AI više nije samo lijepa priča o budućnosti. Sada je to priča o čipovima, podatkovnim centrima, električnoj energiji, hlađenju, serverima i milijardama dolara novih ulaganja.
 
+{{< support1 >}}
+
 Zanimljivo je da se Google, odnosno Alphabet, nije pomaknuo ni približno toliko snažno. Dok su neke AI i chip dionice imale velike padove, Alphabet se kretao otprilike od 370 prema 365 USD, što je relativno mirno u usporedbi s ostatkom tržišta. To može značiti da ga tržište u ovom trenutku ne doživljava jednako pregrijano kao neke druge AI favorite, ili da investitori u Alphabetu još vide stabilniji oglašivački, cloud i search biznis.
 
 ## Crypto pad: Bitcoin, Ethereum, ZEC, NEAR i HYPE
@@ -58,7 +60,7 @@ Posebno dramatičan primjer bio je Zcash. ZEC je pao s oko 510 USD prema 260 USD
 
 U takvim danima tržište ne pada linearno. Prvo se pojavi sumnja, zatim krenu prodaje, zatim se aktiviraju stop-loss nalozi i likvidacije, a onda se pad širi i na imovinu koja možda nije imala direktno lošu vijest. Zato se čini kao da “sve pada odjednom”. Zapravo, tržište samo smanjuje rizik gdje god može.
 
-{{< support1 >}}
+{{< support2 >}}
 
 ## Zašto je palo i zlato?
 
