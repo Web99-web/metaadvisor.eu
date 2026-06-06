@@ -34,7 +34,7 @@ Meta Oversight Board, neovisno nadzorno tijelo koje pregledava najvažnije i naj
 
 ## AI moderacija nije novi problem, ali sada dobiva službeni fokus
 
-To je upravo ono o čemu se već godinama govori iz perspektive običnih korisnika. Ljudi ne gube samo “profil na društvenoj mreži”. Gube fotografije, poruke, uspomene, poslovne stranice, grupe, kontakte, oglašivačke račune, zajednice koje su gradili godinama i digitalni identitet koji u nekim slučajevima postoji **15 ili 20 godina**. Kada takav račun nestane zbog automatizirane odluke, a korisnik ne može doći do čovjeka koji bi slučaj pregledao, problem više nije samo tehnički. To postaje pitanje **digitalnih prava, povjerenja i osnovne proceduralne pravednosti**.
+To je upravo **ono o čemu se već godinama govori iz perspektive običnih korisnika**. Ljudi ne gube samo “profil na društvenoj mreži”. Gube fotografije, poruke, uspomene, poslovne stranice, grupe, kontakte, oglašivačke račune, zajednice koje su gradili godinama i digitalni identitet koji u nekim slučajevima postoji **15 ili 20 godina**. Kada takav račun nestane zbog automatizirane odluke, a korisnik ne može doći do čovjeka koji bi slučaj pregledao, problem više nije samo tehnički. To postaje pitanje **digitalnih prava, povjerenja i osnovne proceduralne pravednosti**.
 
 Meta godinama koristi sve više automatiziranih sustava za moderaciju sadržaja i računa. To je djelomično razumljivo: platforme imaju milijarde korisnika i količinu objava koju nijedan ljudski tim ne može ručno pregledati. Ali problem nastaje kada se automatizacija pretvori u sustav koji odlučuje o životu računa **bez jasnog objašnjenja, bez reputacijskog konteksta i bez stvarne žalbene procedure**.
 
