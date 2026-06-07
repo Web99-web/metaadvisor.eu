@@ -42,7 +42,7 @@ Najveći strah tržišta bio je vrlo ozbiljan: ranjivost je teoretski mogla omog
 
 ## Zašto je pitanje “lažnog ZEC-a” toliko osjetljivo?
 
-Kod svakog crypto projekta povjerenje u supply je temelj vrijednosti. Zcash, slično kao Bitcoin, ima maksimalnu planiranu ponudu od **21 milijun ZEC-a**, dok je u cirkulaciji trenutačno oko **16,7 milijuna ZEC-a**. Upravo zato je svaka sumnja u mogućnost stvaranja dodatnih, lažnih tokena posebno osjetljiva: tržište cijenu formira uz pretpostavku da je ukupna ponuda poznata, ograničena i provjerljiva.
+Kod svakog crypto projekta povjerenje u supply je temelj vrijednosti. Zcash, slično kao Bitcoin, ima maksimalnu planiranu ponudu od **21 milijun ZEC-a**. Upravo zato je svaka sumnja u mogućnost stvaranja dodatnih, lažnih tokena posebno osjetljiva: tržište cijenu formira uz pretpostavku da je ukupna ponuda poznata, ograničena i provjerljiva.
 
 Važno je naglasiti: nije isto reći da je ranjivost teoretski mogla omogućiti stvaranje lažnog ZEC-a i reći da je netko to stvarno učinio. Koliko je javno poznato, nije potvrđeno da je ranjivost iskorištena za stvaranje lažnih tokena. Ali u crypto tržištu sama mogućnost često je dovoljna da pokrene strah.
 
