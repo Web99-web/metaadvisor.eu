@@ -1,5 +1,5 @@
 ---
-itcoin near $63,000, ETF outflows now in fourth week"
+title: "Bitcoin near $63,000, ETF outflows now in fourth week"
 slug: "bitcoin-near-63000-usd-etf-outflows-fourth-week"
 date: 2026-06-08T12:00:00+02:00
 category: "crypto"
