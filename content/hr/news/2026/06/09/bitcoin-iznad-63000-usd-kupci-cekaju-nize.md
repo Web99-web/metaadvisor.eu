@@ -1,5 +1,5 @@
 ---
-title: "title: "Bitcoin iznad 63.000 USD, kupci čekaju 57–59K""
+title: "Bitcoin iznad 63.000 USD, kupci čekaju 57–59K"
 slug: "bitcoin-iznad-63000-usd-kupci-cekaju-nize"
 date: 2026-06-09T06:00:00+02:00
 category: "crypto"
