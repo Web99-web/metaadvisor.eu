@@ -40,9 +40,9 @@ No upravo zato je ovaj incident posebno neugodan. Kada projekt koji gradi povjer
 
 H token pao je s oko 0,67 USD na približno 0,13 USD, a u jednom trenutku dotaknuo je i oko 0,05 USD. To znači da je intradnevni pad bio blizu 90 posto. Takvi padovi nisu neuobičajeni kada tržište osjeti da problem još nije zaustavljen, osobito ako napadač i dalje prodaje ukradene tokene ili ako postoji mogućnost dodatnog pritiska na cijenu.
 
-Prema dostupnim informacijama, napadač je praznio više walleta povezanih s projektom, prodavao ukradene H tokene za ether i dodatno mintao 100 milijuna H tokena na BNB Chainu. To je posebno opasno jer ne znači samo da je netko ukrao postojeću imovinu, nego da je mogao stvoriti dodatne tokene i tako povećati pritisak na tržište.
-
 {{< support1 >}}
+
+Prema dostupnim informacijama, napadač je praznio više walleta povezanih s projektom, prodavao ukradene H tokene za ether i dodatno mintao 100 milijuna H tokena na BNB Chainu. To je posebno opasno jer ne znači samo da je netko ukrao postojeću imovinu, nego da je mogao stvoriti dodatne tokene i tako povećati pritisak na tržište.
 
 ## Što znači da je multisig bio kompromitiran?
 
@@ -51,6 +51,8 @@ Ključni dio priče odnosi se na multisig, odnosno multisignature wallet. U teor
 Važno je razumjeti da multisig ne znači da je uvijek potrebno imati sve ključeve. Ako postoji šest ključeva, sustav može biti postavljen tako da su dovoljna tri potpisa od šest, četiri od šest ili neka druga kombinacija. Ako je prag postavljen na tri od šest, tada napadač ne mora imati svih šest ključeva. Dovoljno je da dođe do tri ključa i može prijeći prag potreban za odobrenje.
 
 U ovom slučaju problem nije bio samo u tome da je netko došao do privatnih ključeva. Problem je bio u tome što su ključevi koji su trebali biti organizacijski i fizički odvojeni navodno završili dostupni preko jednog kompromitiranog laptopa. To poništava samu svrhu multisiga. Sustav izvana može izgledati decentralizirano, ali ako se dovoljan broj ključeva nalazi na jednom mjestu, rizik ponovno postaje centraliziran.
+
+{{< support1 >}}
 
 Humanity Protocol je objasnio da je incident počeo kompromitacijom laptopa jednog zaposlenika. Na tom uređaju su se nalazili ključevi povezani s bridgeovima projekta — alatima koji omogućuju prijenos H tokena i drugih povezanih tokena između različitih blockchaina. Bridgeovi su inače česta meta napada jer povezuju više mreža, više ugovora i često velike količine likvidnosti.
 
@@ -62,9 +64,9 @@ To je važan detalj jer pokazuje razliku između sigurnosnog dizajna na papiru i
 
 Osnivač Humanity Protocola Terence Kwok naveo je da je tim prvotno postavio multisig preko više osoba, kako bi takav sustav i trebao funkcionirati. Međutim, sumnja se da su neki ključevi tijekom postavljanja slučajno završili kao backup na kompromitiranom uređaju. To znači da formalno nije nužno problem bio u samoj ideji multisiga, nego u načinu na koji je izveden i čuvan.
 
-Za obične korisnike ovo zvuči tehnički, ali zapravo je vrlo jednostavno. Multisig je kao sef koji se otvara s više ključeva. Ako su ti ključevi kod različitih ljudi, u različitim prostorima i na sigurnim uređajima, rizik je manji. Ako se dovoljno ključeva kopira na jedan laptop, tada napadač više ne mora napasti cijeli tim. Dovoljno je da kompromitira jedan uređaj.{{< support2 >}}
-
 {{< support2 >}}
+
+Za obične korisnike ovo zvuči tehnički, ali zapravo je vrlo jednostavno. Multisig je kao sef koji se otvara s više ključeva. Ako su ti ključevi kod različitih ljudi, u različitim prostorima i na sigurnim uređajima, rizik je manji. Ako se dovoljno ključeva kopira na jedan laptop, tada napadač više ne mora napasti cijeli tim. Dovoljno je da kompromitira jedan uređaj.{{< support2 >}}
 
 ## Šira lekcija za kripto sektor
 
@@ -75,6 +77,8 @@ Za projekte koji upravljaju bridgeovima, treasury sredstvima, admin funkcijama i
 Posebno je osjetljivo kada projekt ima mogućnost mintanja novih tokena. Ako napadač preuzme admin kontrolu i može stvoriti dodatne tokene, tada se šteta ne zaustavlja na krađi postojećih sredstava. Dodatno mintanje može srušiti povjerenje u tokenomiku projekta, povećati prodajni pritisak i izazvati paničnu reakciju tržišta.
 
 Za investitore i korisnike ovo je podsjetnik da nije dovoljno pitati što neki projekt radi, koliko je moderan narativ ili tko ga podržava. Treba pitati i tko ima ključeve, gdje se čuvaju, kakav je prag multisiga, tko može promijeniti bridge, tko može mintati tokene i što se događa ako jedan zaposlenik izgubi ili kompromitira laptop.
+
+{{< support2 >}}
 
 ## Naš osvrt (Metaadvisor)
 
