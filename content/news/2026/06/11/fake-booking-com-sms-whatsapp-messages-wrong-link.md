@@ -19,8 +19,6 @@ summary: "A German Facebook group warning about fake Booking.com WhatsApp and SM
 
 The image is symbolic.
 
-# Fake Booking.com SMS and WhatsApp messages: why people click the wrong link
-
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
      style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
