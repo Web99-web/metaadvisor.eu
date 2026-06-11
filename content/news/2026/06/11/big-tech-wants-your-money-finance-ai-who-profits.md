@@ -34,7 +34,7 @@ The title may sound harsh, but it increasingly matches market reality. Companies
 
 ## Oracle: from 6 AM layoffs to the question of who pays for AI
 
-Oracle is a good example of how quickly the AI story can change. In late March and early April, we wrote about large layoffs at Oracle, where some employees reportedly learned that they had lost their jobs through an email sent at 6 AM. Many initially thought it was an April Fool’s joke because the timing seemed almost unbelievable. But the message was real: a job can disappear in seconds, while the company redirects resources toward a new AI phase. We covered that earlier here: [Oracle fired 20,000 people in a 6 AM email: jobs vanish in seconds](https://metaadvisor.eu/news/oracle-fired-20000-email-6am/)
+Oracle is a good example of how quickly the AI story can change. In late March and early April, we wrote about large layoffs at Oracle, where some employees reportedly learned that they had lost their jobs through an email sent at 6 AM. Many initially thought it was an April Fool’s joke because the timing seemed almost unbelievable. But the message was real: a job can disappear in seconds, while the company redirects resources toward a new AI phase. We covered that earlier here: <a href="https://metaadvisor.eu/news/oracle-fired-20000-email-6am/" target="_blank" rel="noopener">Oracle fired 20,000 people in a 6 AM email: jobs vanish in seconds</a>
 
 At the time, such cost-cutting could be read as a signal of efficiency. Fewer employees, higher productivity, more money for data centers, chips and cloud infrastructure. Investors often like these stories because they see lower costs and preparation for growth. According to the numbers we followed, Oracle’s stock rose sharply from the beginning of April to the beginning of June, moving from around 147 USD to about 248 USD. That was a huge increase in a very short period.
 
@@ -48,8 +48,7 @@ That is the key change. The first phase of AI euphoria was simple: if a company 
 
 ## Meta: expensive AI and the question of new capital
 
-We saw similar nervousness with Meta. Meta is also one of the companies investing heavily in AI, but investors are watching the price of that strategy more carefully. When reports appeared that the company was considering a major capital raise to finance AI infrastructure, the stock fell. We wrote about that earlier here: [Meta stock falls: expensive AI and lost users through AI moderation](https://metaadvisor.eu/news/meta-stock-falls-expensive-ai-lost-users-ai-moderation/)
-
+We saw similar nervousness with Meta. Meta is also one of the companies investing heavily in AI, but investors are watching the price of that strategy more carefully. When reports appeared that the company was considering a major capital raise to finance AI infrastructure, the stock fell. We wrote about that earlier here: <a href="https://metaadvisor.eu/news/meta-stock-falls-expensive-ai-lost-users-ai-moderation/" target="_blank" rel="noopener">Meta stock falls: expensive AI and lost users through AI moderation</a>
 
 In that article, we noted that META had fallen from around 629 USD to about 583 USD. That showed how sensitive investors had become to any news that raises questions about the real cost of artificial intelligence. Today, Meta is still trading below those earlier levels, around 568 USD. That does not mean the market does not believe in Meta or in AI. But it does mean that investors are no longer looking only at potential. They are also looking at the bill.
 
