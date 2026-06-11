@@ -34,7 +34,7 @@ Naslov zvuči grubo, ali sve više odgovara tržišnoj stvarnosti. Kompanije koj
 
 ## Oracle: od otkaza u 6 ujutro do pitanja tko plaća AI
 
-Oracle je dobar primjer kako se AI priča može vrlo brzo promijeniti. Krajem ožujka i početkom travnja pisali smo o velikim otkazima u Oracleu, kada je dio zaposlenika navodno za gubitak posla saznao emailom u 6 ujutro. Mnogi su tada mislili da je riječ o prvoaprilskoj šali jer je vrijeme bilo gotovo nevjerojatno. No poruka je bila stvarna: posao može nestati u sekundi, dok kompanija istodobno preusmjerava resurse prema novoj AI fazi. O tome smo pisali u ranijem članku: [Oracle otpustio 20.000 ljudi jednim emailom u 6 ujutro: posao nestaje u sekundi](https://metaadvisor.eu/hr/news/oracle-otpustio-20000-ljudi-email-6-ujutro/)
+Oracle je dobar primjer kako se AI priča može vrlo brzo promijeniti. Krajem ožujka i početkom travnja pisali smo o velikim otkazima u Oracleu, kada je dio zaposlenika navodno za gubitak posla saznao emailom u 6 ujutro. Mnogi su tada mislili da je riječ o prvoaprilskoj šali jer je vrijeme bilo gotovo nevjerojatno. No poruka je bila stvarna: posao može nestati u sekundi, dok kompanija istodobno preusmjerava resurse prema novoj AI fazi. O tome smo pisali u ranijem članku: <a href="https://metaadvisor.eu/hr/news/oracle-otpustio-20000-ljudi-email-6-ujutro/" target="_blank" rel="noopener">Oracle otpustio 20.000 ljudi jednim emailom u 6 ujutro: posao nestaje u sekundi</a>
 
 Tada se takvo rezanje troškova moglo čitati kao signal efikasnosti. Manje zaposlenih, veća produktivnost, više novca za data centre, čipove i cloud infrastrukturu. Investitori često vole takve priče jer u njima vide smanjenje troškova i pripremu za rast. Prema brojkama koje pratimo, Oracleova dionica je od početka travnja do početka lipnja snažno porasla, s oko 147 USD na oko 248 USD. To je ogroman rast u vrlo kratkom roku.
 
@@ -48,7 +48,7 @@ Upravo je to najvažnija promjena. Prva faza AI euforije bila je jednostavna: tk
 
 ## Meta: skupi AI i pitanje novog kapitala
 
-Sličnu nervozu vidjeli smo i kod Mete. Meta je također jedna od kompanija koje snažno ulažu u AI, ali investitori sve pažljivije gledaju cijenu te strategije. Kada su se pojavile informacije da kompanija razmatra veliko prikupljanje kapitala za financiranje AI infrastrukture, dionica je pala. O tome smo pisali u ranijem članku: [Dionica Mete pala: skupi AI i izgubljeni korisnici zbog AI moderacije](https://metaadvisor.eu/hr/news/dionica-mete-pala-skupi-ai-izgubljeni-korisnici-ai-moderacija/)
+Sličnu nervozu vidjeli smo i kod Mete. Meta je također jedna od kompanija koje snažno ulažu u AI, ali investitori sve pažljivije gledaju cijenu te strategije. Kada su se pojavile informacije da kompanija razmatra veliko prikupljanje kapitala za financiranje AI infrastrukture, dionica je pala. O tome smo pisali u ranijem članku: <a href="https://metaadvisor.eu/hr/news/dionica-mete-pala-skupi-ai-izgubljeni-korisnici-ai-moderacija/" target="_blank" rel="noopener">Dionica Mete pala: skupi AI i izgubljeni korisnici zbog AI moderacije</a>
 
 U tom tekstu naveli smo da je META tada pala s oko 629 USD na oko 583 USD, što je pokazalo koliko su investitori postali osjetljivi na svaku vijest koja otvara pitanje stvarne cijene umjetne inteligencije. Danas se Meta i dalje kreće ispod tih ranijih razina, oko 568 USD. To ne znači da tržište ne vjeruje u Metu ili u AI. Ali znači da investitori više ne gledaju samo potencijal, nego i račun.
 
