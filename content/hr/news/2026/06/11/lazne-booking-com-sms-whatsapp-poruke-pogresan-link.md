@@ -1,6 +1,6 @@
 ---
-title: "Lažne Booking.com SMS i WhatsApp poruke: zašto ljudi kliknu pogrešan link"
-slug: "lazne-booking-com-sms-whatsapp-poruke-pogresan-link"
+title: "Njemačka Facebook grupe: lažne Booking.com SMS i WhatsApp poruke mogu korisnike odvesti na krivi link"
+slug: "lazne-booking-com-sms-whatsapp-poruke-krivi-link"
 date: 2026-06-11T06:00:00+02:00
 category: "cybersecurity"
 translationKey: "booking-com-sms-whatsapp-phishing-wrong-link-2026-06-11"
@@ -11,15 +11,13 @@ image_url: "/images/hack/booking-phishing-alert.png"
 featured_image: "/images/hack/booking-phishing-alert.png"
 image: "/images/hack/booking-phishing-alert.png"
 thumbnail: "/images/hack/booking-phishing-alert.png"
-image_alt: "Booking.com phishing alert with fake SMS and WhatsApp messages"
+image_alt: "Booking.com phishing upozorenje s lažnim SMS i WhatsApp porukama"
 image_credit: "Metaadvisor.eu"
-tags: ["Booking.com", "phishing", "SMS phishing", "WhatsApp phishing", "cybersecurity", "kibernetička sigurnost", "online prijevare", "lažni linkovi", "hotel booking", "rezervacije", "turisti", "putovanja", "scam", "sigurnost na internetu", "lažne poruke", "zaštita podataka", "Metaadvisor"]
-summary: "Lažne Booking.com SMS i WhatsApp poruke mogu izgledati uvjerljivo jer koriste poznato ime, hotelski kontekst i ponekad stvarne detalje rezervacije. Ključni znak opasnosti često je link koji ne vodi na službeni Booking.com."
+tags: ["Booking.com", "phishing", "SMS phishing", "WhatsApp phishing", "kibernetička sigurnost", "online prevare", "lažni linkovi", "hotelska rezervacija", "rezervacije", "turisti", "putovanja", "prevara", "internetska sigurnost", "lažne poruke", "zaštita podataka", "Metaadvisor"]
+summary: "Upozorenje iz jedne njemačke Facebook grupe o lažnim Booking.com WhatsApp i SMS porukama pokazalo je koliko uvjerljivo takve prevare mogu izgledati kada prikazuju poznate detalje poput [no-reply@booking.com](mailto:no-reply@booking.com) adrese, vidljivog booking.com linka i hotelskog konteksta. Prava opasnost često je stvarni link koji se od korisnika traži da otvori."
 ---
 
 Slika je simbolična.
-
-# Lažne Booking.com SMS i WhatsApp poruke: zašto ljudi kliknu pogrešan link
 
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
@@ -28,76 +26,80 @@ Slika je simbolična.
   </a>
 </p>
 
-Lažne Booking.com SMS i WhatsApp poruke postaju sve uvjerljivije jer više ne izgledaju uvijek kao klasični spam. Umjesto lošeg prijevoda i nepoznatog pošiljatelja, korisnik može dobiti poruku koja spominje hotel, rezervaciju, datum putovanja ili potrebu da “hitno potvrdi” podatke. Upravo zato ljudi kliknu pogrešan link: poruka se ne oslanja samo na strah, nego i na povjerenje koje već imaju prema poznatoj platformi.
+# Upozorenje iz njemačke Facebook grupe: lažne Booking.com SMS i WhatsApp poruke mogu korisnike odvesti na krivi link
 
-Najopasniji dio nije uvijek sam tekst poruke, nego kombinacija detalja. Ako se u WhatsApp profilu vidi naziv hotela, “guest support”, “hotel manager”, Booking.com email ili link na Booking.com, korisnik može pomisliti da je poruka stvarno povezana s rezervacijom. No takvi elementi u profilu ne dokazuju identitet pošiljatelja. WhatsApp profil može ručno urediti bilo tko, a prevarant može staviti poznato ime, logo, opis i službeni link samo kako bi izgledao vjerodostojno.
+Tema je potaknuta upozorenjem koje se pojavilo u jednoj njemačkoj Facebook grupi, gdje se vidjelo kako Booking.com SMS i WhatsApp poruke mogu izgledati i zašto mogu zbuniti korisnike. Profil može izgledati uvjerljivo jer prikazuje detalje koji na prvi pogled djeluju kao da pripadaju Booking.com-u, uključujući adresu [no-reply@booking.com](mailto:no-reply@booking.com) i vidljiv booking.com link. Međutim, to samo po sebi ne dokazuje da je poruka sigurna, jer stvarni link koji korisnik treba otvoriti može voditi na drugu adresu.
 
-## Zašto ovakve poruke izgledaju stvarno?
-
-Kod klasičnog phishinga često je dovoljno pogledati poruku i odmah je jasno da nešto nije u redu. No kod putnih rezervacija situacija je drugačija. Ljudi već očekuju komunikaciju od hotela, apartmana, recepcije ili platforme za rezervacije. Ako je putovanje blizu, a poruka kaže da rezervaciju treba potvrditi u kratkom roku, korisnik može reagirati brzo, bez dodatne provjere.
-
-Prevaranti upravo na to računaju. Poruka često stvara pritisak: “potvrdite rezervaciju”, “unesite podatke”, “rezervacija će biti otkazana”, “potrebna je provjera kartice” ili “kliknite u roku od nekoliko sati”. Kada se tome doda poznato ime Booking.com-a, korisnik može steći dojam da samo završava administrativni korak koji je povezan s njegovim putovanjem.
-
-![Primjer WhatsApp profila koji koristi Booking.com elemente, ali poruka može voditi na drugu domenu](/images/hack/booking_whatsapp_contact_card.jpg)
-
-*Primjer pokazuje zašto ovakve poruke mogu izgledati uvjerljivo: u profilu se mogu pojaviti Booking.com elementi, ali link u samoj poruci može voditi na potpuno drugu domenu.*
+Lažne Booking.com SMS i WhatsApp poruke postaju sve uvjerljivije jer više ne izgledaju uvijek kao klasični spam. Umjesto lošeg prijevoda i nepoznatog pošiljatelja, korisnik može dobiti poruku u kojoj se spominje hotel, rezervacija, datumi putovanja ili potreba da se podaci „hitno potvrde“. Upravo zato ljudi kliknu na krivi link: poruka se ne oslanja samo na strah, nego i na povjerenje koje korisnici već imaju u poznatu platformu.
 
 {{< support1 >}}
 
-## Profil može izgledati uvjerljivo, ali link je ključan
+Najopasniji dio nije uvijek sam tekst poruke, nego kombinacija više detalja. Ako WhatsApp profil prikazuje naziv hotela, „guest support“, „hotel manager“, Booking.com email adresu ili čak link na Booking.com, korisnik može pretpostaviti da je poruka stvarno povezana s rezervacijom. Ali ti elementi u profilu ne dokazuju identitet pošiljatelja. WhatsApp profil svatko može ručno urediti, a prevaranti mogu dodati poznato ime, logo, opis i čak link koji izgleda službeno kako bi djelovali vjerodostojno.
 
-Važno je razumjeti jedan trik: prevarant u WhatsApp profilu može ručno dodati naziv hotela, opis “Hotel manager”, email koji izgleda kao Booking.com adresa i čak pravi link na Booking.com. To ne dokazuje da poruka stvarno dolazi od Booking.com-a ili od hotela. Ključni problem je link u samoj poruci.
+## Zašto takve poruke izgledaju stvarno?
 
-Ako poruka traži potvrdu rezervacije, unos kartice, potvrdu identiteta ili osobne podatke preko domene koja nije službeni Booking.com, korisnik ne bi trebao klikati ni unositi podatke. Čak i kada profil izgleda uvjerljivo, stvarni smjer linka može biti potpuno drugačiji. To je trenutak u kojem se phishing najčešće događa: korisnik vjeruje profilu, a ne provjerava domenu na koju ga poruka vodi.
+Kod klasičnog phishinga često je dovoljan jedan brzi pogled da se primijeti kako nešto nije u redu. Kod putnih rezervacija situacija je drugačija. Ljudi već očekuju komunikaciju od hotela, apartmana, recepcije ili platforme za rezervacije. Ako je putovanje blizu i poruka kaže da se rezervacija mora potvrditi u kratkom roku, korisnik može reagirati brzo, bez dodatne provjere.
 
-## Pravi detalji rezervacije dodatno zbunjuju korisnike
+Upravo na to računaju prevaranti. Poruka stvara pritisak: „potvrdite rezervaciju“, „unesite podatke“, „vaša rezervacija bit će otkazana“, „potrebna je provjera kartice“ ili „kliknite u roku od nekoliko sati“. Kada se tome doda poznato ime Booking.com, korisnik može imati osjećaj da samo dovršava običan administrativni korak povezan sa svojim putovanjem.
 
-Posebno opasne su poruke koje sadrže točne ili vrlo uvjerljive detalje o rezervaciji. Ako poruka spominje točan hotel, datume putovanja ili ime gosta, korisnik puno lakše povjeruje da se radi o stvarnoj komunikaciji. To ne mora automatski značiti da je došlo do velikog javnog curenja podataka, ali znači da je netko došao do informacija koje poruku čine uvjerljivijom.
+![Primjer WhatsApp profila koji koristi Booking.com elemente, dok link u samoj poruci može voditi na drugu domenu](/images/hack/booking_whatsapp_contact_card.jpg)
 
-Kod takvih slučajeva ne treba gledati samo jednu poruku, nego cijeli lanac. Korisnik je možda rezervirao smještaj, zatim očekuje poruku od hotela, zatim dobije WhatsApp ili SMS s poznatim kontekstom, zatim vidi Booking.com u profilu i tek onda klikne link. Svaki od tih koraka povećava vjerojatnost da će previdjeti najvažnije pitanje: vodi li link stvarno na službenu domenu?
+*Ovaj primjer pokazuje zašto takve poruke mogu izgledati uvjerljivo: Booking.com elementi mogu se pojaviti u profilu, dok link u samoj poruci može voditi na potpuno drugu domenu.*
+
+## Profil može izgledati uvjerljivo, ali najvažniji je link
+
+Važno je razumjeti jedan trik: prevarant može ručno dodati naziv hotela, opis „Hotel manager“, email adresu koja izgleda kao Booking.com adresa i čak pravi Booking.com link u WhatsApp profil. To ne dokazuje da poruka stvarno dolazi od Booking.com-a ili hotela. Ključno pitanje je link unutar same poruke.
+
+Ako poruka traži od korisnika da potvrdi rezervaciju, verificira karticu, potvrdi identitet ili unese osobne podatke preko domene koja nije službena Booking.com domena, korisnik ne bi trebao kliknuti ni unositi podatke. Čak i kada profil izgleda uvjerljivo, stvarno odredište linka može biti potpuno drugačije. Upravo se tu phishing često događa: korisnik povjeruje profilu i ne provjeri kamo link zapravo vodi.
 
 {{< support1 >}}
+
+## Stvarni podaci o rezervaciji dodatno zbunjuju korisnike
+
+Poruke koje sadrže točne ili vrlo uvjerljive podatke o rezervaciji posebno su opasne. Ako poruka spominje pravi hotel, datume putovanja ili ime gosta, korisnik će puno lakše povjerovati da je riječ o stvarnoj komunikaciji. To ne znači automatski da se dogodilo veliko javno curenje podataka, ali znači da je netko došao do informacija koje poruku čine uvjerljivijom.
+
+U takvim slučajevima važno je ne gledati samo jednu poruku, nego cijeli lanac događaja. Korisnik je možda rezervirao smještaj, zatim očekuje poruku od hotela, zatim dobije WhatsApp ili SMS poruku s poznatim kontekstom, zatim vidi Booking.com u profilu i tek tada klikne na link. Svaki od tih koraka povećava mogućnost da se previdi najvažnije pitanje: vodi li link stvarno na službenu domenu?
 
 ## Kako provjeriti je li poruka opasna?
 
-Prvo pravilo je jednostavno: ne unositi podatke preko linka iz SMS-a ili WhatsApp poruke ako postoji i najmanja sumnja. Umjesto toga, korisnik bi trebao ručno otvoriti Booking.com aplikaciju ili službenu web stranicu i tamo provjeriti rezervaciju. Ako postoji stvarni problem, obavijest bi se trebala vidjeti i unutar službenog računa ili kroz službenu komunikaciju.
+Prvo pravilo je jednostavno: ne unositi podatke preko linka iz SMS ili WhatsApp poruke ako postoji i najmanja sumnja. Umjesto toga, korisnik bi trebao ručno otvoriti Booking.com aplikaciju ili službenu web stranicu i tamo provjeriti rezervaciju. Ako postoji stvarni problem, obavijest bi trebala biti vidljiva i unutar službenog računa ili kroz službenu komunikaciju.
 
-Drugo pravilo je provjera domene. Prevaranti često koriste domene koje na prvi pogled izgledaju slično službenima, ali imaju dodatne riječi, crtice, čudne nastavke ili nazive koji podsjećaju na hotel, rezervaciju ili podršku. Domena može izgledati “dovoljno uvjerljivo” na mobitelu, pogotovo ako korisnik čita brzo i pod pritiskom.
-
-## Ne vjerujte samo logu, imenu ili slici profila
-
-Logo, ime profila i opis nisu dokaz identiteta. To vrijedi za WhatsApp, SMS, Telegram, email i društvene mreže. Prevarant može koristiti poznati brand, sliku hotela ili službeni link u opisu profila, ali to ne znači da ima stvarnu vezu s platformom. U praksi, najvažniji signal nije ono što piše u profilu, nego što poruka od korisnika traži.
-
-Ako poruka traži karticu, CVC kod, login podatke, potvrdu identiteta, jednokratni kod ili hitno plaćanje, treba zastati. Booking, hotel ili banka nikada ne bi trebali tražiti da se osjetljivi podaci unose preko sumnjivog linka iz poruke. Posebno je opasno ako poruka prijeti otkazivanjem rezervacije u vrlo kratkom roku.
+Drugo pravilo je provjera domene. Prevaranti često koriste domene koje na prvi pogled izgledaju slično, ali sadrže dodatne riječi, crtice, neobične nastavke ili nazive koji se odnose na hotele, rezervacije ili podršku. Na mobitelu domena može izgledati „dovoljno uvjerljivo“, posebno ako korisnik čita brzo i pod pritiskom.
 
 {{< support2 >}}
 
-## Što napraviti ako ste već kliknuli?
+## Ne vjeruj samo logotipu, imenu ili profilnoj slici
 
-Ako je korisnik samo kliknuo link, ali nije ništa unio, rizik može biti manji, ali i dalje treba zatvoriti stranicu i ne nastavljati postupak. Ako je unio podatke kartice, treba odmah kontaktirati banku ili izdavatelja kartice, blokirati karticu ako je potrebno i pratiti transakcije. Ako je unio login podatke, treba odmah promijeniti lozinku na službenoj platformi i uključiti dodatnu zaštitu računa ako je dostupna.
+Logo, naziv profila i opis nisu dokaz identiteta. To vrijedi za WhatsApp, SMS, Telegram, email i društvene mreže. Prevarant može koristiti poznati brend, sliku hotela ili službeni link u opisu profila bez ikakve stvarne povezanosti s platformom. U praksi najvažniji signal nije ono što se prikazuje u profilu, nego ono što poruka traži od korisnika.
 
-Ako je poruka povezana s rezervacijom, korisnik bi trebao kontaktirati smještaj kroz službeni kanal unutar Booking.com aplikacije ili preko telefona koji je naveden na službenoj stranici, a ne preko broja iz sumnjive poruke. Važno je prijaviti poruku i platformi, jer takve prijave pomažu u bržem uklanjanju lažnih profila i domena.
+Ako poruka traži podatke kartice, CVC kod, login podatke, potvrdu identiteta, jednokratni kod ili hitnu uplatu, korisnik bi trebao stati. Booking, hotel ili banka ne bi trebali tražiti unos osjetljivih podataka preko sumnjivog linka iz poruke. Posebno je opasno kada poruka prijeti da će rezervacija biti otkazana u vrlo kratkom roku.
+
+## Što učiniti ako si već kliknuo?
+
+Ako je korisnik samo kliknuo na link, ali nije ništa unio, rizik može biti manji, ali stranicu ipak treba zatvoriti i ne nastavljati postupak. Ako su uneseni podaci kartice, korisnik treba odmah kontaktirati banku ili izdavatelja kartice, po potrebi blokirati karticu i pratiti transakcije. Ako su uneseni login podaci, lozinku na službenoj platformi treba odmah promijeniti i uključiti dodatnu zaštitu računa ako je dostupna.
+
+Ako je poruka povezana s rezervacijom, korisnik bi trebao kontaktirati smještaj preko službenog kanala unutar Booking.com aplikacije ili preko telefonskog broja navedenog na službenoj web stranici, a ne preko broja iz sumnjive poruke. Važno je i prijaviti poruku platformi, jer takve prijave mogu pomoći da se lažni profili i domene brže uklone.
+
+{{< support2 >}}
 
 ## Turisti su posebno laka meta
 
-Putnici su često umorni, u žurbi ili pod stresom. Netko putuje za vikend, netko je već na aerodromu, netko ima obiteljsku rezervaciju i ne želi riskirati otkazivanje smještaja. Zbog toga su turističke i hotelske prevare posebno učinkovite. Napadač ne mora uvjeriti korisnika u neku potpuno nepoznatu priču; dovoljno je iskoristiti stvarnu situaciju u kojoj se korisnik već nalazi.
+Putnici su često umorni, u žurbi ili pod stresom. Neki putuju samo za vikend, neki su već na aerodromu, a neki imaju obiteljsku rezervaciju i ne žele riskirati gubitak smještaja. Zato hotelske i turističke prevare mogu biti posebno učinkovite. Napadač ne mora uvjeriti korisnika u potpuno nepoznatu priču; dovoljno je iskoristiti stvarnu situaciju u kojoj se korisnik već nalazi.
 
-Zato je edukacija važna. Ljudi ne klikaju takve linkove zato što su “naivni”, nego zato što je poruka dizajnirana da izgleda hitno, poznato i uvjerljivo. Prevara uspijeva kada se spoje povjerenje u brand, stvarni kontekst putovanja i kratki rok za reakciju.
-
-{{< support2 >}}
+Zato je edukacija važna. Ljudi ne klikaju na takve linkove zato što su „naivni“, nego zato što je poruka osmišljena tako da izgleda hitno, poznato i uvjerljivo. Prevara uspijeva kada se spoje povjerenje u brend, stvarni kontekst putovanja i kratak vremenski pritisak.
 
 ## Naš osvrt (Metaadvisor)
 
-* Lažne Booking.com SMS i WhatsApp poruke mogu izgledati vrlo uvjerljivo jer koriste poznato ime, hotelski kontekst i ponekad detalje rezervacije.
+* Lažne Booking.com SMS i WhatsApp poruke mogu izgledati vrlo uvjerljivo jer koriste poznato ime, hotelski kontekst i ponekad podatke o rezervaciji.
 * Booking.com elementi u WhatsApp profilu ne dokazuju da poruka stvarno dolazi od Booking.com-a ili hotela.
-* Ključni znak opasnosti često je link u samoj poruci, osobito ako vodi na domenu koja nije službeni Booking.com.
-* Korisnik ne bi trebao unositi kartične, login ili osobne podatke preko linka iz SMS-a ili WhatsApp poruke.
-* Ako postoji sumnja, rezervaciju treba provjeriti ručno kroz službenu aplikaciju ili službenu web stranicu.
-* Poruke koje prijete otkazivanjem rezervacije u kratkom roku treba posebno pažljivo provjeriti.
-* Ako ste unijeli podatke kartice, odmah kontaktirajte banku ili izdavatelja kartice.
-* Ako ste unijeli login podatke, odmah promijenite lozinku i uključite dodatnu zaštitu računa ako je moguće.
-* Najvažnije pravilo: poznato ime u profilu nije dokaz sigurnosti — uvijek provjerite domenu linka.
+* Ključni znak upozorenja često je link u samoj poruci, osobito ako vodi na domenu koja nije službena Booking.com domena.
+* Korisnici ne bi trebali unositi podatke kartice, login podatke ili osobne podatke preko linkova iz SMS ili WhatsApp poruka.
+* Ako postoji ikakva sumnja, rezervaciju treba ručno provjeriti kroz službenu aplikaciju ili službenu web stranicu.
+* Poruke koje prijete brzim otkazivanjem rezervacije treba provjeriti posebno pažljivo.
+* Ako su uneseni podaci kartice, treba odmah kontaktirati banku ili izdavatelja kartice.
+* Ako su uneseni login podaci, lozinku treba odmah promijeniti i uključiti dodatnu sigurnost ako je moguće.
+* Najvažnije pravilo: poznato ime u profilu nije dokaz sigurnosti — uvijek provjeri domenu linka.
 
 <p style="font-size:0.82em; color:#888; line-height:1.5; margin-top:24px;">
-Odricanje od odgovornosti: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja pravni, financijski niti sigurnosni savjet. Informacije su namijenjene općoj edukaciji o online sigurnosti.
+Disclaimer: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja pravni, financijski ni sigurnosni savjet. Informacije su namijenjene općoj edukaciji o online sigurnosti.
 </p>
