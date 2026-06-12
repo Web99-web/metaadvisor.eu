@@ -101,12 +101,12 @@ To je važan signal za budućnost. Veliki IPO-i više ne žive samo na Nasdaqu i
 
 ## Naš osvrt (Metaadvisor)
 
-Prvi dan SpaceX IPO-a može se opisati kao snažan, ali ne bez upozorenja. IPO cijena bila je 135 dolara, dionica je otvorila oko 150 dolara, tijekom dana skočila iznad 176 dolara, a zatvorila oko 161 dolar. To znači da je završila približno 19% iznad IPO cijene, ali osjetno ispod dnevnog vrha.
+- Prvi dan SpaceX IPO-a može se opisati kao snažan, ali ne bez upozorenja. IPO cijena bila je 135 dolara, dionica je otvorila oko 150 dolara, tijekom dana skočila iznad 176 dolara, a zatvorila oko 161 dolar. To znači da je završila približno 19% iznad IPO cijene, ali osjetno ispod dnevnog vrha.
+- To je važna kombinacija. S jedne strane, tržište je pokazalo veliko povjerenje i ogroman interes. S druge strane, brzo uzimanje profita pokazuje da investitori nisu potpuno zaboravili na valuaciju i rizik.
+- SpaceX je prvi dan dokazao da je jedna od najtraženijih kompanija na tržištu. Ali od sada više nije dovoljno imati snažnu priču. Kao javna kompanija, morat će redovito opravdavati očekivanja investitora.
+- Za male ulagače glavna lekcija nije samo da je SpaceX porastao prvi dan. Glavna lekcija je da kod velikih IPO-a treba gledati više od samog skoka cijene. Važno je vidjeti gdje je dionica otvorila, koliko je visoko otišla, gdje je zatvorila i koliko se brzo pojavio profit-taking.
+- SpaceX je imao vrlo uspješan prvi dan. Ali tržište je već prvog dana pokazalo da će ova dionica biti više od jednostavne priče o raketama. Bit će to priča o očekivanjima, valuaciji, strpljenju i sposobnosti kompanije da iz privatnog mita preraste u javno tržišno mjerilo.
 
-To je važna kombinacija. S jedne strane, tržište je pokazalo veliko povjerenje i ogroman interes. S druge strane, brzo uzimanje profita pokazuje da investitori nisu potpuno zaboravili na valuaciju i rizik.
-
-SpaceX je prvi dan dokazao da je jedna od najtraženijih kompanija na tržištu. Ali od sada više nije dovoljno imati snažnu priču. Kao javna kompanija, morat će redovito opravdavati očekivanja investitora.
-
-Za male ulagače glavna lekcija nije samo da je SpaceX porastao prvi dan. Glavna lekcija je da kod velikih IPO-a treba gledati više od samog skoka cijene. Važno je vidjeti gdje je dionica otvorila, koliko je visoko otišla, gdje je zatvorila i koliko se brzo pojavio profit-taking.
-
-SpaceX je imao vrlo uspješan prvi dan. Ali tržište je već prvog dana pokazalo da će ova dionica biti više od jednostavne priče o raketama. Bit će to priča o očekivanjima, valuaciji, strpljenju i sposobnosti kompanije da iz privatnog mita preraste u javno tržišno mjerilo.
+<p style="font-size:0.82em; color:#888; line-height:1.5; margin-top:24px;">
+Disclaimer: Ovaj sadržaj služi isključivo u informativne svrhe i ne predstavlja pravni, financijski ni sigurnosni savjet. Informacije su namijenjene općoj edukaciji o online sigurnosti.
+</p>
