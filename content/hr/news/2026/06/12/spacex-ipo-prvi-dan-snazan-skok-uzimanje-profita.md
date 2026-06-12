@@ -6,12 +6,26 @@ category: "news"
 translationKey: "spacex-ipo-first-day-price-profit-taking-2026-06-12"
 source: "Reuters, MarketWatch, Business Insider, WSJ, CoinDesk, CoinMarketCap, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
-author: "Metaadvisor"
+author: "Metaadvisor.eu"
 image_url: "/images/Elon-Musk-world.png"
+featured_image: "/images/Elon-Musk-world.png"
+image: "/images/Elon-Musk-world.png"
+thumbnail: "/images/Elon-Musk-world.png"
+image_alt: "Elon Musk, SpaceX IPO i globalno tržište"
+image_credit: "Metaadvisor.eu"
 tags: ["SpaceX", "SpaceX IPO", "Elon Musk", "Nasdaq", "SPCX", "IPO", "dionice", "burza", "Wall Street", "retail investitori", "profit taking", "tržište kapitala", "tehnološke dionice", "Starlink", "crypto tržište", "Bitcoin", "Hyperliquid", "HYPE", "Metaadvisor"]
 summary: "SpaceX je prvi dan trgovanja završio oko 19% iznad IPO cijene, ali pad s dnevnog vrha pokazuje da je tržište uz snažnu euforiju odmah vidjelo i brzo uzimanje profita."
-
 ---
+
+Slika je simbolična.
+
+<p style="text-align:center; margin:18px 0 8px 0;">
+  <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
+     style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;">
+     👉 Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje
+  </a>
+</p>
+
 
 # SpaceX IPO prvi dan: snažan skok, brzo uzimanje profita i cijena koja više nije samo priča o Musku
 
