@@ -8,28 +8,8 @@ source: "Reuters, MarketWatch, Business Insider, WSJ, CoinDesk, CoinMarketCap, M
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor"
 image_url: "/images/Elon-Musk-world.png"
-tags:
-
-* SpaceX
-* SpaceX IPO
-* Elon Musk
-* Nasdaq
-* SPCX
-* IPO
-* dionice
-* burza
-* Wall Street
-* retail investitori
-* profit taking
-* tržište kapitala
-* tehnološke dionice
-* Starlink
-* crypto tržište
-* Bitcoin
-* Hyperliquid
-* HYPE
-* Metaadvisor
-  summary: "SpaceX je prvi dan trgovanja završio oko 19% iznad IPO cijene, ali pad s dnevnog vrha pokazuje da je tržište uz snažnu euforiju odmah vidjelo i brzo uzimanje profita."
+tags: ["SpaceX", "SpaceX IPO", "Elon Musk", "Nasdaq", "SPCX", "IPO", "dionice", "burza", "Wall Street", "retail investitori", "profit taking", "tržište kapitala", "tehnološke dionice", "Starlink", "crypto tržište", "Bitcoin", "Hyperliquid", "HYPE", "Metaadvisor"]
+summary: "SpaceX je prvi dan trgovanja završio oko 19% iznad IPO cijene, ali pad s dnevnog vrha pokazuje da je tržište uz snažnu euforiju odmah vidjelo i brzo uzimanje profita."
 
 ---
 
