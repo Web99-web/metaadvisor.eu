@@ -44,11 +44,9 @@ Kada padnu Facebook i Instagram, vijest odmah obiđe svijet. Korisnici pišu da 
 
 Prema Reutersu, problemi su počeli oko 9:20 ujutro po istočnom američkom vremenu, odnosno oko 15:20 po našem vremenu. Prijave su se kasnije smanjile, a servisi su se postupno vraćali. Business Insider je pisao da nisu bili pogođeni samo Facebook i Instagram, nego i dijelovi Meta poslovne infrastrukture, uključujući Ads Manager, Messenger API, Messenger platformu i WhatsApp Business Platform.
 
-Ali razlika je ogromna: kod outagea se sustav vrati. Kod pogrešnog bana često nema povratka.
+Ali razlika je ogromna: kod outagea se sustav vrati. Kod pogrešnog bana često nema povratka. Za korisnika kojem je Meta AI moderacija zaključala ili ugasila račun, osjećaj je isti kao outage — samo bez kraja. Ne možete ući. Ne znate što se dogodilo. Ne možete doći do ljudske podrške, jer sve izgleda kao da je prepušteno automatiziranoj moderaciji. Isključenje i žalba mogu biti odbijeni u minutama. I nakon toga ste trajno isključeni, a vaš cijeli digitalni život ostaje zaključan iza automatizirane odluke.
 
 {{< support1 >}}
-
-Za korisnika kojem je Meta AI moderacija zaključala ili ugasila račun, osjećaj je isti kao outage — samo bez kraja. Ne možete ući. Ne znate što se dogodilo. Ne možete doći do ljudske podrške, jer sve izgleda kao da je prepušteno automatiziranoj moderaciji. Isključenje i žalba mogu biti odbijeni u minutama. I nakon toga ste trajno isključeni, a vaš cijeli digitalni život ostaje zaključan iza automatizirane odluke.
 
 ## CBS News: računi zaključani bez jasnog objašnjenja
 
@@ -74,7 +72,7 @@ U članku se navodi primjer Erica Cunninghama, učitelja iz Chicaga, koji je rek
   </figcaption>
 </figure>
 
-Vidljivi link na CBS News članak: <a href="https://www.cbsnews.com/philadelphia/news/facebook-instagram-accounts-wrongly-banned-abuse-allegations/" target="_blank" rel="noopener">https://www.cbsnews.com/philadelphia/news/facebook-instagram-accounts-wrongly-banned-abuse-allegations/</a>
+Vidljivi link na CBS News članak i video: <a href="https://www.cbsnews.com/philadelphia/news/facebook-instagram-accounts-wrongly-banned-abuse-allegations/" target="_blank" rel="noopener">https://www.cbsnews.com/philadelphia/news/facebook-instagram-accounts-wrongly-banned-abuse-allegations/</a>
 
 Ovo je srž problema. Nije dovoljno reći “platforma ima pravila”. Pravila moraju imati postupak. Postupak mora imati objašnjenje. A kada se radi o optužbama koje mogu uništiti reputaciju, posao ili osobni život, korisnik mora imati mogućnost da njegov slučaj pogleda stvarna osoba.
 
