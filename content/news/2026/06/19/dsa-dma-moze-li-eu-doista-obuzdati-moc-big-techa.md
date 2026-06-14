@@ -69,7 +69,6 @@ Posljednjih godina zabilježeni su brojni slučajevi u kojima su korisnici izgub
 Europska unija često govori o zaštiti korisnika, ali upravo na području AI moderacije DSA još uvijek mora dokazati da može pružiti stvarnu zaštitu građanima kada algoritmi pogriješe.
 
 {{< support1 >}}
-
 ## Appeals Centre Europe: pravo na papiru ili stvarna zaštita?
 
 Jedan od najzanimljivijih testova za DSA danas je pitanje koliko korisnicima stvarno pomažu novi mehanizmi žalbe. Europska unija je kroz Digital Services Act pokušala stvoriti sustav u kojem građani neće biti potpuno prepušteni odlukama velikih platformi. Među tim mehanizmima nalazi se i **Appeals Centre Europe**, koji bi trebao pomagati korisnicima u sporovima s platformama.
@@ -78,13 +77,35 @@ Na papiru to zvuči kao značajan napredak. Korisnik može pokrenuti postupak, d
 
 **Korisnik može dobiti odluku Appeals Centre Europe u svoju korist i dalje ne dobiti natrag račun.**
 
-**Mnogi korisnici nemaju nikakav email kontakt preko kojeg bi tu odluku uopće dostavili Meti.**
+**Mnogi korisnici nemaju nikakav funkcionalan email kontakt preko kojeg bi tu odluku uopće dostavili Meti.**
 
-**Bez email adrese, bez stvarne ljudske podrške i bez mehanizma prisile, odluka često ostaje samo dokument na papiru.**
+**Bez email adrese, bez stvarne ljudske podrške i bez mehanizma koji bi prisilio platformu na provedbu odluke, cijeli postupak za mnoge završava samo komadom papira.**
+
+<p style="text-align:center; margin:22px 0;">
+  <a href="https://metaadvisor.eu/hr/news/eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika/"
+     target="_blank"
+     rel="noopener">
+    <img src="/images/Meta/Appeals-centre-Europe-dispute.png"
+         alt="EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, društvene platforme ignoriraju?"
+         style="max-width:100%; height:auto; border-radius:12px;">
+  </a>
+</p>
+
+<p style="text-align:center; font-size:0.95em; margin-top:-8px; margin-bottom:20px;">
+  <a href="https://metaadvisor.eu/hr/news/eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika/"
+     target="_blank"
+     rel="noopener"
+     style="font-weight:700;">
+     EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, društvene platforme ignoriraju?
+  </a>
+</p>
 
 Za korisnika kojem je ugašen račun problem nije riješen dok mu račun nije vraćen. Ako je izgubio pristup Facebooku, Instagramu, Messengeru, Business Suiteu, stranicama ili grupama koje je gradio godinama, simbolična potvrda da je možda bio u pravu ne vraća mu publiku, kontakte ni poslovanje.
 
+**Drugim riječima, korisnik može dobiti potvrdu da je možda bio oštećen, ali i dalje ostati bez računa, bez publike i bez mogućnosti da nastavi svoj rad.**
+
 Upravo zato se među pogođenim korisnicima često postavlja pitanje: **što vrijedi odluka ako ne postoji način da se ona provede u praksi?**
+
 
 ## Najveći test za europsku regulaciju tek dolazi
 
