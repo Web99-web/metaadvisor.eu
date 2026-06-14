@@ -1,7 +1,7 @@
 ---
 title: "Anthropic Mythos i Claude Fable 5 ugašeni nakon samo nekoliko dana: može li se opasna AI sposobnost uopće kontrolirati?"
 slug: "anthropic-mythos-claude-fable-5-ugaseni-opasna-ai-sposobnost-kontrola"
-date: 2026-06-14T12:00:00+02:00
+date: 2026-06-14T06:00:00+02:00
 category: "ai"
 translationKey: "anthropic-mythos-claude-fable-5-ai-control-2026-06-14"
 source: "Anthropic, Reuters, The Verge, Axios, Metaadvisor.eu"
