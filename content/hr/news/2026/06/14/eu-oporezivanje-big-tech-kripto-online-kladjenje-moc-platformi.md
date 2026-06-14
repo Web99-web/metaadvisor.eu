@@ -15,7 +15,7 @@ image_alt: "European Union digital regulation and Big Tech illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["EU", "Big Tech", "kripto", "crypto", "online klađenje", "online gambling", "digitalne platforme", "Meta", "Facebook", "Instagram", "Google", "YouTube", "Digital Services Act", "Appeals Centre Europe", "digitalna infrastruktura", "mali biznisi", "platform power", "digitalna suverenost", "EU proračun", "digitalni porez", "regulacija", "Metaadvisor"]
 summary: "EU želi nove prihode od Big Techa, kripta i online klađenja, ali veliko pitanje ostaje otvoreno: ako su platforme postale digitalna infrastruktura za ljude i male biznise, tko kontrolira njihovu moć kada korisnika ugase preko noći?"
-----
+---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>
 
