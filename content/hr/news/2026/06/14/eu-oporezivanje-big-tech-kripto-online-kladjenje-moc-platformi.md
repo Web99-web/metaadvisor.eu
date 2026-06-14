@@ -25,7 +25,9 @@ summary: "EU želi nove prihode od Big Techa, kripta i online klađenja, ali vel
 
 Europska unija traži nove izvore prihoda i sve češće gleda prema velikim digitalnim sektorima. U raspravama o budućem europskom proračunu spominju se novi nameti na Big Tech, kripto i online klađenje. Na prvi pogled, logika je jasna: ako globalne platforme i digitalne industrije zarađuju ogroman novac na europskom tržištu, Europa želi dio tog novca za zajedničke prioritete.
 
-Ali tu počinje važnije pitanje. Ako je Big Tech dovoljno velik da ga EU vidi kao izvor javnih prihoda, zašto ga još uvijek tretiramo kao običnu privatnu aplikaciju kada ugasi račun čovjeku ili malom biznisu?
+Procjene govore o velikom novcu. **Novi nameti na kripto, digitalne divove i online gambling mogli bi, prema europskim procjenama, donijeti oko 68 milijardi eura u razdoblju 2028.–2034.**, odnosno gotovo 11 milijardi eura godišnje. Zato ne čudi da EU u raspravama o budućem proračunu sve češće gleda prema Big Techu, kriptu i online klađenju.
+
+Ali tu počinje važnije pitanje. **Ako je Big Tech dovoljno velik da ga EU vidi kao izvor javnih prihoda, zašto ga još uvijek tretiramo kao običnu privatnu aplikaciju kada ugasi račun čovjeku ili malom biznisu?**
 
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
@@ -40,15 +42,17 @@ Facebook, Instagram, Google, YouTube, WhatsApp, oglasni računi, marketplace pla
 
 Influenceri, mikro poduzetnici, mali turistički iznajmljivači, lokalni saloni, web shopovi, freelanceri i male firme često prvo testiraju posao upravo na platformama. Tamo nalaze publiku, kupce i prve narudžbe. Za njih platforma nije zabava. Ona je početak poslovanja.
 
-## Kada nešto postane “utility”, ne može se gasiti kao običan profil
+## Kada nešto postane “utility”, ne može se dopustiti gašenje profila u sekundi
 
-Na hrvatskom se za engleski pojam “utility” može reći osnovna infrastruktura ili usluga od javnog značaja. To su stvari poput struje, vode, telefona, interneta ili bankovnog računa. Nitko ne bi normalno prihvatio da se čovjeku bez jasnog razloga i bez stvarne žalbe u jednoj sekundi isključi struja ili voda.
+Na hrvatskom se za engleski pojam “utility” može reći osnovna infrastruktura ili usluga od javnog značaja. To su stvari poput struje, vode, telefona, interneta ili bankovnog računa. Nitko ne bi normalno prihvatio da se čovjeku bez jasnog razloga i bez stvarne žalbe u jednoj sekundi isključi struja, voda ili pristup banci.
 
-Ali u digitalnom svijetu to se često događa. Račun se ugasi, stranica nestane, oglasni račun se blokira, profil se trajno onemogući. Korisnik dobije generičku poruku, ne zna što je točno napravio, nema stvarnu osobu kojoj može objasniti situaciju i često ne dobije nikakav smisleni put natrag. - Jel vas 'štrecnulo' neki dan kada je Facebook pao. Jeste li osjetili onaj kratki šok kada se ne možete ulogirati u Facebook ili Instagram? Kada su 12.6 Facebook i Instagram pali, korisnici su osjetili ono što Meta AI moderacija drugima radi - trajno! Kada ih isključi zauvijek u sekundi
-
-Ako je platforma postala digitalna infrastruktura od javnog značaja, tada ne smije imati moć da u sekundi izbaci čovjeka ili mali biznis iz digitalnog tržišta bez ljudske provjere, jasnog obrazloženja i stvarne mogućnosti žalbe.
+Ali u digitalnom svijetu to se često događa. Kod **Meta problem nije samo jedan profil. Ako se korisniku ugasi Facebook** ili **Instagram** račun, s njim često nestaje i pristup **Messengeru**, povezanim stranicama, grupama, oglasnom računu i **Business Suiteu**. Za korisnika to znači automatski gubitak kontakata i komunikacije. Za mali biznis to može značiti gubitak tržišta.
 
 {{< support1 >}}
+
+**Jeste li osjetili onaj kratki šok kada su 12.6. Facebook i Instagram pali?** Kada se ne možete ulogirati, kada ne znate je li problem kod vas, je li vas netko hakirao ili se dogodilo nešto veće? Za većinu korisnika taj je osjećaj trajao kratko. Ali upravo to, samo trajno, doživljavaju ljudi koje automatizirana moderacija izbaci iz sustava. Račun nestane, stranice nestanu, Messenger više ne radi, Business Suite više nije dostupan, a korisnik dobije generičku poruku i gotovo nikakav stvarni put do ljudske podrške.
+
+Ako je platforma postala digitalna infrastruktura od javnog značaja, tada ne smije imati moć da u sekundi izbaci čovjeka ili mali biznis iz digitalnog tržišta bez ljudske provjere, jasnog obrazloženja i stvarne mogućnosti žalbe.
 
 ## EU ne smije gledati samo prihod
 
@@ -56,9 +60,11 @@ Naravno, EU ima pravo raspravljati o tome trebaju li Big Tech, kripto i online k
 
 Problem je ako se cijela rasprava svede samo na pitanje koliko se novca može prikupiti. Ako EU vidi digitalne platforme kao izvor prihoda, mora ih vidjeti i kao izvor moći. Jer ta moć nije apstraktna. Ona odlučuje tko može komunicirati, tko se može oglašavati, tko može prodavati i tko uopće postoji online.
 
+{{< support1 >}}
+
 ## Appeals Centre Europe nije dovoljan ako odluka nema stvarnu snagu
 
-Europa je kroz **Digital Services Act** pokušala uvesti više odgovornosti za velike online platforme. Postoje i mehanizmi poput **Appeals Centre Europe**, koji bi trebali pomoći korisnicima u sporovima s platformama. Na papiru to zvuči kao napredak. U praksi, za mnoge korisnike ključno pitanje ostaje isto: **odluka je samo na papiru, korisnik ju poslije ne može nikome isporučiti - jer nema pristup platformi. što vrijedi odluka ako platforma ne mora stvarno vratiti račun?**
+Europa je kroz **Digital Services Act** pokušala uvesti više odgovornosti za velike online platforme. Postoje i mehanizmi poput **Appeals Centre Europe**, koji bi trebali pomoći korisnicima u sporovima s platformama. Na papiru to zvuči kao ozbiljan napredak. U praksi, za mnoge korisnike ključno pitanje ostaje isto: **odluka je samo na papiru, korisnik ju poslije ne može nikome isporučiti - jer nema pristup platformi. što vrijedi odluka ako platforma ne mora stvarno vratiti račun?**
 
 <p style="text-align:center; margin:22px 0;">
   <a href="https://metaadvisor.eu/news/eu-appeals-centre-europe-protection-fails-platforms-ignore-user-complaints/" target="_blank" rel="noopener">
@@ -72,7 +78,7 @@ Europa je kroz **Digital Services Act** pokušala uvesti više odgovornosti za v
   </a>
 </p>
 
-Ako korisnik dobije papir koji pokazuje da je platforma možda pogriješila, ali i dalje ne može vratiti profil, stranicu, oglasni račun, kontakte ili poslovnu vidljivost, tada problem nije riješen. To je posebno bolno za male biznise. Oni ne trebaju simboličnu potvrdu da se možda dogodila greška. Trebaju stvarni povrat pristupa.
+Ako korisnik dobije odluku koja pokazuje da je platforma možda pogriješila, ali i dalje ne može vratiti profil na Facebooku ili Instagramu, kao ni pristup Messengeru, povezanim stranicama, grupama, oglasnom računu i Business Suiteu vezanom uz isti račun, tada problem nije riješen. To je posebno bolno za male biznise. Oni ne trebaju simboličnu potvrdu da se možda dogodila greška. Trebaju stvarni povrat pristupa.
 
 ## Mali biznisi nemaju pravne timove kao velike kompanije
 
