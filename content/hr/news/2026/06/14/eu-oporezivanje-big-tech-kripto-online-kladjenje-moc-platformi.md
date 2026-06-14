@@ -84,7 +84,7 @@ Ako korisnik dobije odluku koja pokazuje da je platforma možda pogriješila, al
 
 Velike kompanije imaju odvjetnike, agencije, interne kontakte i budžete. Ako im se dogodi problem s platformom, možda će ga riješiti kroz account managera ili pravni pritisak. Mali korisnik najčešće nema ništa od toga.
 
-Mali biznis može imati samo jednu Facebook stranicu, jedan Instagram profil, jedan oglasni račun i jednu publiku koju je gradio godinama. Ako to nestane preko noći, to nije samo digitalna neugodnost. To može značiti gubitak klijenata, prihoda, kontakata i povjerenja.
+Mali biznis ili osoba može imati samo publiku koju je gradio godinama. Ako to nestane preko noći, to nije samo digitalna neugodnost. To može značiti gubitak klijenata, prihoda, kontakata i povjerenja.
 
 Zato Big Tech ne smije biti samo bankomat za EU proračun. Ako je postao digitalna infrastruktura od javnog značaja, onda mora imati i obveze slične infrastrukturi: jasna pravila, ljudsku provjeru, pravo na stvarnu žalbu, rokove, odgovornost i mogućnost pravne zaštite prije nego što nečiji digitalni život ili posao nestane preko noći.
 
