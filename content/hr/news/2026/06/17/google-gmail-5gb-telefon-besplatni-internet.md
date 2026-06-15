@@ -15,7 +15,7 @@ image_alt: "Gmail and Google account storage concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Gmail", "Google Drive", "Google Photos", "Google Account", "Google One", "cloud storage", "5 GB", "15 GB", "phone verification", "broj telefona", "digitalna privatnost", "Big Tech", "besplatni internet", "digitalna identifikacija", "online računi", "cloud", "backup", "Metaadvisor"]
 summary: "Google prema dostupnim izvještajima testira novu politiku za neke nove račune: početnih 5 GB prostora bez broja telefona, uz mogućnost otključavanja do 15 GB nakon dodavanja telefona. Pitanje više nije samo koliko prostora dobivamo, nego što sve moramo dati za usluge koje zovemo besplatnima."
-98----
+----
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>
 
