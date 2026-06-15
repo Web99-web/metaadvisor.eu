@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Site takes no action over hate posts against UK politicians including Kemi Badenock, Shabana Mahmood and Zia Yusuf
+Site takes no action over hate posts against UK politicians including Kemi Badenoch, Shabana Mahmood and Zia Yusuf
 
 X has refused to take down dozens of social media posts reported as “hate, abuse or harassment” in which prominent UK politicians, including Kemi Badenoch , have been racially abused.
 
