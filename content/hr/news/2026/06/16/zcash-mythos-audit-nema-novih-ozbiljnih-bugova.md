@@ -78,7 +78,7 @@ AI audit može biti važan novi sloj sigurnosti. No ne smije postati novi oblik 
 
 ## Povjerenje se teško vraća
 
-ZEC se nakon početne panike djelomično oporavio, ali cijena nije jedino mjerilo povjerenja. Kod privacy coina povjerenje je dublje pitanje. Korisnici ne pitaju samo hoće li token rasti. Pitaju mogu li vjerovati da sustav nije tiho narušen.
+ZEC se nakon početne panike oporavio, ali cijena nije jedino mjerilo povjerenja. Kod privacy coina povjerenje je dublje pitanje. Korisnici ne pitaju samo hoće li token rasti. Pitaju mogu li vjerovati da sustav nije tiho narušen.
 
 To je najteži dio priče. Ako AI pronađe bug i drugi AI audit ne pronađe nove ozbiljne probleme, to je pozitivno. Ali tržište i korisnici i dalje moraju probaviti činjenicu da je kritična ranjivost mogla postojati dugo vremena u dijelu sustava koji je trebao biti temelj privatnosti.
 
