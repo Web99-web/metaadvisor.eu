@@ -55,6 +55,18 @@ AI u tom slučaju može samo sažeti samo ono što vidi u određenom dijelu plat
 
 Ovdje dolazimo do još osjetljivijeg problema. Facebook grupe i javne objave nisu samo prirodno pristrane zbog toga što su najglasniji često najvidljiviji. **Problem je i to što je Meta kroz AI moderaciju već godinama izbacivala, ograničavala ili trajno gasila velik broj običnih korisnika, stranica i biznisa.**
 
+<p style="margin:22px 0; padding:14px; border:1px solid #e5e7eb; border-radius:14px; background:#f9fafb;">
+  <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">
+    <img src="/images/Meta/Meta-verified-fake-people-accounts.png" alt="Meta Oversight Board: AI moderacija — dugogodišnji problem tek sad ulazi u fokus" style="width:100%; max-width:520px; display:block; margin:0 auto 12px auto; border-radius:12px;">
+  </a>
+  <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener" style="font-weight:700; color:#1e40af; text-decoration:none;">
+    Meta Oversight Board: AI moderacija — dugogodišnji problem tek sad ulazi u fokus
+  </a>
+  <p style="font-size:0.92em; color:#555; margin:8px 0 0 0;">
+    U povezanom tekstu pisali smo o problemu AI moderacije, pogrešnim zabranama običnih korisnika i lažnim verificiranim profilima koji i dalje ostaju vidljivi na platformi.
+  </p>
+</p>
+
 Ako je velik dio normalnih korisnika pogrešno uklonjen, blokiran ili ušutkan, a na platformi i dalje ostaju lažni profili, botovi i čak neki verificirani lažni računi, tada AI više ne sažima “javnost”, nego sažima sadržaj koji je ostao nakon vrlo nesavršenog sustava moderacije.
 
 Drugim riječima: ako je ulazni sadržaj iskrivljen, onda i AI sažetak može biti iskrivljen. A korisnik toga možda uopće neće biti svjestan jer će odgovor dobiti u urednom, uvjerljivom i samouvjerenom obliku.
