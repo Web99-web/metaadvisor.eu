@@ -1,7 +1,7 @@
 ---
 title: "VivaTech Paris 2026: Mistral, Big Tech i europska ovisnost o AI infrastrukturi"
 slug: "vivatech-paris-2026-mistral-big-tech-europska-ovisnost-ai-infrastruktura"
-date: 2026-06-18T12:00:00+02:00
+date: 2026-06-1T12:00:00+02:00
 category: "ai"
 translationKey: "vivatech-paris-2026-mistral-big-tech-europska-ovisnost-ai-infrastruktura-2026-06-18"
 source: "Reuters, VivaTech, LVMH, Vogue, Metaadvisor.eu"
