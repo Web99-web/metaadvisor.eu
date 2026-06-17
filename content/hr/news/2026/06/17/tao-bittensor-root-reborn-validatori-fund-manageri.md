@@ -3,7 +3,7 @@ title: "TAO news: Root Reborn bi validatore mogao pretvoriti u upravitelje kapit
 slug: "tao-bittensor-root-reborn-validatori-fund-manageri"
 date: 2026-06-17T12:00:00+02:00
 category: "crypto"
-translationKey: "tao-bittensor-root-reborn-validatori-fund-manageri-2026-06-18"
+translationKey: "tao-bittensor-root-reborn-validatori-fund-manageri-2026-06-17"
 source: "CoinDesk, Bittensor, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
