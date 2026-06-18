@@ -1,6 +1,6 @@
 ---
-title: "Fortinet ili FortiBleed? VPN lozinke, firewalli i rizik za 194 zemlje"
-slug: "fortinet-ili-fortibleed-vpn-lozinke-firewalli-rizik-194-zemlje"
+title: "FortiBleed u 194 zemlje: Fortinet, VPN lozinke i firewall rizik"
+slug: "fortibleed-194-zemlje-fortinet-vpn-lozinke-firewall-rizik"
 date: 2026-06-18T06:00:00+02:00
 category: "cybersecurity"
 translationKey: "fortinet-fortibleed-vpn-lozinke-firewalli-rizik-194-zemlje-2026-06-18"
