@@ -46,7 +46,7 @@ But there is also another side. If validators receive more economic power, it wi
 
 ## The history: decentralization and governance
 
-Root Reborn does not appear in an empty space. Bittensor has already faced questions about real decentralization after the departure of the Covenant AI team, which we analyzed in an earlier article: <a href="https://metaadvisor.eu/hr/news/tao-bittensor-decentralizacija-kripto-ai/" target="_blank" rel="noopener">TAO pod pritiskom: AI ‘Bitcoin’ i pitanje stvarne decentralizacije</a>.
+Root Reborn does not appear in an empty space. Bittensor has already faced the question of real decentralization before, including after the departure of the Covenant-AI team. We wrote about that in an earlier article: <a href="https://metaadvisor.eu/news/tao-bittensor-decentralization-crypto-ai/" target="_blank" rel="noopener">TAO under pressure: AI ‘Bitcoin’ and the question of real decentralization</a>.
 
 At that time, the main question was whether TAO could preserve trust if doubts appeared inside the ecosystem around governance, centralized influence and the departure of important development teams. That is why this new proposal should also be viewed carefully. If validators receive a larger role in choosing subnets, then this is not only a technical change, but also a question of power.
 
