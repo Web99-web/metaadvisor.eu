@@ -46,7 +46,7 @@ Aber es gibt auch die andere Seite. Wenn Validatoren mehr wirtschaftliche Macht 
 
 ## Vorgeschichte: Dezentralisierung und Governance
 
-Root Reborn entsteht nicht in einem leeren Raum. Bittensor war bereits früher mit der Frage echter Dezentralisierung konfrontiert, unter anderem nach dem Weggang des Covenant-AI-Teams. Darüber haben wir bereits in einem früheren Artikel geschrieben: <a href="https://metaadvisor.eu/hr/news/tao-bittensor-decentralizacija-kripto-ai/" target="_blank" rel="noopener">TAO pod pritiskom: AI ‘Bitcoin’ i pitanje stvarne decentralizacije</a>.
+Root Reborn entsteht nicht in einem leeren Raum. Bittensor war bereits früher mit der Frage echter Dezentralisierung konfrontiert, unter anderem nach dem Weggang des Covenant-AI-Teams. Darüber haben wir bereits in einem früheren Artikel geschrieben: <a href="https://metaadvisor.eu/de/news/tao-bittensor-dezentralisierung-krypto-ai/" target="_blank" rel="noopener">TAO unter Druck: AI-‘Bitcoin’ und die Frage der echten Dezentralisierung</a>.
 
 Damals ging es vor allem um die Frage, ob TAO das Vertrauen behalten kann, wenn innerhalb des Ökosystems Zweifel an Governance, zentralisiertem Einfluss und dem Weggang wichtiger Entwicklungsteams entstehen. Genau deshalb sollte auch dieser neue Vorschlag vorsichtig betrachtet werden. Wenn Validatoren eine größere Rolle bei der Auswahl von Subnets bekommen, geht es nicht nur um eine technische Änderung, sondern auch um Macht.
 
