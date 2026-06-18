@@ -34,6 +34,8 @@ Fortinet je jedna od velikih svjetskih cybersecurity tvrtki. Njegovi FortiGate f
 
 {{< support1 >}}
 
+Screenshotovi koji kruže cyber-security zajednicom navodno prikazuju da se zapisi ne odnose samo na male ili nepoznate sustave, nego i na velike industrije i globalne kompanije. U jednom od prikaza vide se kategorije poput **Oil & Gas, Electric Utilities, Automotive, Telecommunications i Consumer Electronics, uz procjene prihoda poput 400 milijardi USD, 350 milijardi USD ili 200 milijardi USD te oznake država kao CH, CN, US ili Unknown.** Takvi podaci ne dokazuju sami po sebi puni kompromis cijele kompanije, ali sugeriraju da je dataset strukturiran kao katalog potencijalnih pristupa po domenama, industrijama, prihodima, broju zaposlenih i lokacijama endpointa. Upravo zato FortiBleed nije samo tehnička priča o firewallima, nego i priča o riziku za kritičnu infrastrukturu i velike organizacije.
+
 ## FortiBleed nije službeni naziv nove Fortinet ranjivosti
 
 Važno je odmah razjasniti: **FortiBleed nije službeni Fortinetov naziv i nije službeno ime nove Fortinet ranjivosti**. To je nadimak koji se pojavio u cyber zajednici i medijima za leak i kampanju povezanu s Fortinet/FortiGate VPN vjerodajnicama.
