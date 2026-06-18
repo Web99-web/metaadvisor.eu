@@ -1,6 +1,6 @@
 ---
-title: "Fortinet oder FortiBleed? VPN-Passwörter, Firewalls und Risiko für 194 Länder"
-slug: "fortinet-oder-fortibleed-vpn-passwoerter-firewalls-risiko-194-laender"
+title: "FortiBleed in 194 Ländern: Fortinet, VPN-Passwörter und Firewall-Risiko"
+slug: "fortibleed-194-laender-fortinet-vpn-passwoerter-firewall-risiko"
 date: 2026-06-18T06:00:00+02:00
 category: "cybersecurity"
 translationKey: "fortinet-fortibleed-vpn-lozinke-firewalli-rizik-194-zemlje-2026-06-18"
