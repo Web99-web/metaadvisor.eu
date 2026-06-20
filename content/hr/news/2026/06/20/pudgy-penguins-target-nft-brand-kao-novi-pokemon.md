@@ -56,7 +56,7 @@ Ovaj potez s Target karticama nadovezuje se na raniju strategiju projekta. Pudgy
      rel="noopener">
     <img src="/images/news/Pudgy-Penguins-game-launched.png"
          alt="Pudgy Penguins lansirao svoju igru – Web3 projekt koji pokušava izgledati kao obična igra"
-         style="max-width:100%; height:auto; border-radius:12px;">
+         style="max-width:520px; width:85%; height:auto; border-radius:12px;">
   </a>
 </p>
 
