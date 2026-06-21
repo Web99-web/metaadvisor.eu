@@ -19,7 +19,7 @@ On Thursday, the stock price dropped below $83, some 17% below the target and th
 
 Keeping the stock near par is critical because it allows Strategy to raise capital efficiently through at-the-market (ATM) offerings to fund the annualized 11.5% payout.
 
-In recent weeks, however, a sharp decline in the price of bitcoin BTC $ 63,786.21 , combined with a series of management decisions, have pushed STRC significantly below its intended trading level. Here's how it happened:
+In recent weeks, however, a sharp decline in the price of bitcoin BTC $ 64,248.08 , combined with a series of management decisions, have pushed STRC significantly below its intended trading level. Here's how it happened:
 
 May 14: STRC closed at $100 heading into its monthly ex-dividend date, while bitcoin traded above $80,000. On the surface, then, everything appeared normal. (Investors buying a stock on the ex-dividend date do not receive the payout, so the price tends to drop to reflect the lost value.)
 
