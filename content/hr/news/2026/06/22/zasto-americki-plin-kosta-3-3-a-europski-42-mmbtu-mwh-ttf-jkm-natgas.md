@@ -50,7 +50,10 @@ ili obrnuto:
 
 Gruba formula za pretvorbu europske cijene plina iz EUR/MWh u USD/MMBtu izgleda ovako:
 
-**Cijena u USD/MMBtu ≈ (cijena u EUR/MWh ÷ 3,412) × tečaj EUR/USD**
+<div style="background:#f5f7fa; border-left:4px solid #2563eb; padding:18px 20px; margin:26px 0; border-radius:10px; font-size:1.08em; line-height:1.6;">
+  <strong>Formula:</strong><br>
+  Cijena u USD/MMBtu ≈ (cijena u EUR/MWh ÷ 3,412) × tečaj EUR/USD
+</div>
 
 Ako uzmemo primjer u kojem je europski plin oko **42 EUR/MWh**, računica izgleda ovako:
 
