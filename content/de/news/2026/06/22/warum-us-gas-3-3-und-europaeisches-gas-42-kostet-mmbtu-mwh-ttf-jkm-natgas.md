@@ -50,7 +50,10 @@ oder umgekehrt:
 
 Die grobe Formel zur Umrechnung des europäischen Gaspreises von EUR/MWh in USD/MMBtu sieht so aus:
 
-**Preis in USD/MMBtu ≈ (Preis in EUR/MWh ÷ 3,412) × EUR/USD-Wechselkurs**
+<div style="background:#f5f7fa; border-left:4px solid #2563eb; padding:18px 20px; margin:26px 0; border-radius:10px; font-size:1.08em; line-height:1.6;">
+  <strong>Formel:</strong><br>
+  Preis in USD/MMBtu ≈ (Preis in EUR/MWh ÷ 3,412) × EUR/USD-Wechselkurs
+</div>
 
 Wenn wir ein Beispiel nehmen, bei dem europäisches Gas etwa **42 EUR/MWh** kostet, sieht die Rechnung so aus:
 
