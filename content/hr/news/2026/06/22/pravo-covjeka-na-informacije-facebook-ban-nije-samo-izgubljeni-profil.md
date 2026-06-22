@@ -23,7 +23,7 @@ summary: "Facebook ban više nije samo izgubljeni profil. Kada Meta korisnika iz
 
 Zamislite da čitate online novine. Vidite kratku vijest, obavijest ili najavu koja vas zanima. Možda se radi o lokalnoj akciji, događaju u vašem kvartu, obavijesti škole, udruge, grada, pjevača, političara, humanitarne grupe ili nekog javnog događaja. Želite vidjeti detalje. Kliknete. Ali detalji nisu u članku. **Detalji su na Facebook profilu, Facebook stranici ili u Facebook grupi.** Ako ste trajno izbačeni s Facebooka, taj dio informacije za vas više ne postoji. Nije tajan. Nije zabranjen zakonom. Nije opasan. Dostupan je drugima. **Ali ne i vama. Privatna platforma zatvorila vam je vrata prostora u kojem se danas nalazi velik dio svakodnevnog javnog života.**
 
-Mnogi će sada pomisliti: ako je netko izbačen, sigurno je postojao dobar razlog. I to bi bilo logično — da govorimo samo o prevarantima, nasilnicima, lažnim profilima ili ljudima koji svjesno zloupotrebljavaju platforme. Ali problem je upravo u tome što to nije cijela priča. **Prateći ovu temu mjesecima, postaje jasno da su mnogi sasvim obični ljudi izgubili pristup putem automatizirane AI moderacije.** Ne govorimo samo o influencerima, političarima ili javnim osobama. Govorimo o učiteljima, socijalnim radnicima, ljudima koji rade marketing, vlasnicima malih obrta, lokalnih trgovina, administratorima grupa, roditeljima, volonterima i običnim građanima. **Ljudima poput vaših prijatelja, susjeda, kolega ili članova obitelji.**
+Mnogi će sada pomisliti: ako je netko izbačen, sigurno je postojao dobar razlog. I to bi bilo logično - da govorimo samo o prevarantima, nasilnicima, lažnim profilima ili ljudima koji svjesno zloupotrebljavaju platforme. Ali problem je upravo u tome što to nije cijela priča. **Prateći ovu temu mjesecima, postaje jasno da su mnogi sasvim obični ljudi izgubili pristup putem automatizirane AI moderacije.** Ne govorimo samo o influencerima, političarima ili javnim osobama. Govorimo o učiteljima, socijalnim radnicima, ljudima koji rade marketing, vlasnicima malih obrta, lokalnih trgovina, administratorima grupa, roditeljima, volonterima i običnim građanima. **Ljudima poput vaših prijatelja, susjeda, kolega ili članova obitelji.**
 
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"
@@ -34,6 +34,12 @@ Mnogi će sada pomisliti: ako je netko izbačen, sigurno je postojao dobar razlo
 
 Što se njima dogodilo? U jednom trenutku bili su online. U drugom trenutku stigla je poruka: izbačeni ste s mreže. Odluku nije objasnio čovjek. **Donio ju je automatizirani sustav.** Nakon toga pojavila se poruka da se korisnik može žaliti. Ljudi bi se ponadali da će sada netko stvarno pogledati slučaj, shvatiti pogrešku i vratiti račun. Ali vrlo često, nakon samo nekoliko minuta, stigla bi nova odluka: **trajno ste izbačeni zbog kršenja naših pravila.** Bez ljudske podrške. Bez jasnog objašnjenja. Bez stvarne mogućnosti da objasnite što se dogodilo. Bez osobe koja može pogledati kontekst. **Za korisnika to ne izgleda kao moderacija. To izgleda kao AI presuda bez suda.**
 
+<p style="text-align:center; margin:22px 0;">
+  <img src="/images/Meta/Meta-banned-woman-from-Canada-after-18-years.png"
+       alt="Meta banned a woman from Canada after 18 years"
+       style="max-width:560px; width:90%; height:auto; border-radius:12px;">
+</p>
+
 I onda dolazi drugi udarac. Jer Meta nije samo Facebook. **Kada osoba izgubi Facebook račun, često u istoj sekundi gubi i Messenger, Instagram i Business Suite.** To znači da ne gubi samo mogućnost objavljivanja statusa. Gubi privatne razgovore, poslovne kontakte, pristup stranicama, grupama, klijentima, oglasima, arhivi poruka i godinama vlastitog rada.
 
 Za malog poduzetnika to može značiti gubitak poslovnog kanala. Za administratora lokalne grupe gubitak zajednice koju je godinama gradio. Za osobu koja koristi Messenger kao glavni komunikacijski alat gubitak kontakata i razgovora. Za nekoga tko vodi stranice ili oglašavanje, to može značiti trenutačni poslovni prekid.
@@ -42,7 +48,7 @@ Za malog poduzetnika to može značiti gubitak poslovnog kanala. Za administrato
 
 ## Ovo se ne događa samo u jednoj zemlji
 
-Ovaj problem nije ograničen na Kanadu, Australiju, Belgiju, Njemačku, Europu ili jednu grupu korisnika. Priče o iznenadnim banovima, pogrešnoj AI moderaciji i izgubljenim računima pojavljuju se diljem svijeta — od SAD-a i Kanade do Australije, Filipina i drugih zemalja. U mnogim slučajevima obrazac izgleda slično: **običan korisnik, mali biznis, nastavnik, umjetnik, humanitarna organizacija ili lokalna stranica odjednom izgubi pristup, dobije automatiziranu poruku i ostane bez stvarnog ljudskog kontakta.**
+Ovaj problem nije ograničen na Kanadu, Australiju, Belgiju, Njemačku, Europu ili jednu grupu korisnika. Priče o iznenadnim banovima, pogrešnoj AI moderaciji i izgubljenim računima pojavljuju se diljem svijeta - od SAD-a i Kanade do Australije, Filipina i drugih zemalja. U mnogim slučajevima obrazac izgleda slično: **običan korisnik, mali biznis, nastavnik, umjetnik, humanitarna organizacija ili lokalna stranica odjednom izgubi pristup, dobije automatiziranu poruku i ostane bez stvarnog ljudskog kontakta.**
 
 <p style="text-align:center; margin:22px 0;">
   <img src="/images/Meta/Facebook-banned-people-US-Canada-Phillippines-27.03.2026.png"
@@ -50,11 +56,11 @@ Ovaj problem nije ograničen na Kanadu, Australiju, Belgiju, Njemačku, Europu i
        style="max-width:560px; width:90%; height:auto; border-radius:12px;">
 </p>
 
-Zanimljivo je da o toj temi sve češće pišu veliki mediji, a među njima se posebno ističe **The Guardian i Guardian Australia.** To je važno jer se problem ne može više svesti na pojedinačne pritužbe ljutitih korisnika. Kada novine počnu bilježiti slučajeve učitelja, malih poduzetnika, kulturnih organizacija, žena koje su godinama koristile platformu ili ljudi koji su izgubili fotografije, kontakte i poslovne kanale, tada pitanje banova postaje pitanje digitalnih prava.
+Zanimljivo je da o toj temi sve češće pišu veliki mediji, a među njima se posebno ističe **The Guardian i Guardian Australia.** To je važno jer se problem ne može više svesti na pojedinačne pritužbe ljutitih korisnika. Kada novine počnu bilježiti slučajeve učitelja, malih poduzetnika, kulturnih organizacija, udruga koje su godinama koristile platformu ili ljudi koji su izgubili fotografije, kontakte i poslovne kanale, tada pitanje banova postaje pitanje digitalnih prava.
 
 <p style="text-align:center; margin:22px 0;">
-  <img src="/images/Meta/Meta-banned-woman-from-Canada-after-18-years.png"
-       alt="Meta banned a woman from Canada after 18 years"
+  <img src="/images/Meta/Facebook-Meta-blocked-her-after-18-years.png"
+       alt="Meta blocked a woman after 18 years on Facebook"
        style="max-width:560px; width:90%; height:auto; border-radius:12px;">
 </p>
 
@@ -75,6 +81,16 @@ Do jučer ste tim prostorom mogli hodati. Mogli ste istraživati. Mogli ste razg
 U fizičkom svijetu takva situacija zvučala bi apsurdno. Kao da nekome bez suda zabranite ulazak u dio grada, knjižnicu, oglasnu ploču, poslovni prostor, poštu, tržnicu, kvartovsku grupu i ured u kojem mu se nalaze dokumenti. Kao da mu kažete: možda ste nešto prekršili, ali nećemo vam jasno reći što, nećemo vam dati stvarnu obranu i nećemo vam omogućiti razgovor s osobom.
 
 **U digitalnom svijetu to se događa jednim automatiziranim klikom.**
+
+## Kanadski primjer: kada platforma blokira vijesti cijeloj zemlji
+
+Kanada je možda jedan od najjasnijih primjera koliko daleko može ići moć digitalnih platformi. Od 2023. godine Meta blokira novinske sadržaje kanadskih izdavača na Facebooku i Instagramu — ne samo velikih medija, nego i manjih lokalnih portala. Povod je bio kanadski zakon Online News Act, kojim je država pokušala natjerati velike digitalne platforme da pregovaraju s medijima o naknadi za vrijednost koju novinarski sadržaj donosi njihovim platformama. Meta na to nije odgovorila plaćanjem, nego uklanjanjem vijesti iz Facebooka i Instagrama u Kanadi. Drugim riječima, privatna platforma mogla je ograničiti pristup vijestima za cijelu zemlju jer joj se nisu svidjela pravila koja je ta zemlja donijela.
+
+<p style="text-align:center; margin:22px 0;">
+  <img src="/images/Meta/Canada-news-being-blocked-on-Facebook-Instagram.png"
+       alt="Canada news being blocked on Facebook and Instagram"
+       style="max-width:560px; width:90%; height:auto; border-radius:12px;">
+</p>
 
 ## Platforma kao sudac, pravila i izvršitelj kazne
 
