@@ -13,7 +13,7 @@ image: "/images/UK-CMA-Competition-and-Markets-Authority.png"
 thumbnail: "/images/UK-CMA-Competition-and-Markets-Authority.png"
 image_alt: "UK Competition and Markets Authority und Regulierung von Google AI Overviews"
 image_credit: "Metaadvisor.eu"
-tags: ["Google", "Google Search", "AI Overviews", "AI Search", "CMA", "Competition and Markets Authority", "Britische Regulierungsbehörde", "Big Tech", "SEO", "organischer Traffic", "Web-Traffic", "Publisher", "KI-Regulierung", "digitale Märkte", "Deutsches Gerichtsurteil", "Metaadvisor"]
+tags: ["Google", "AI Overviews", "KI-Suche", "CMA", "britische Wettbewerbsbehörde", "Big Tech", "SEO", "organischer Traffic", "Verlage", "KI-Regulierung", "digitale Märkte", "deutsches Gerichtsurteil", "Metaadvisor"]
 summary: "Die britische Wettbewerbsbehörde CMA hat neue verbindliche Regeln für Google Search eingeführt, einschließlich AI Overviews. Nach monatelangen Diskussionen über Traffic-Verluste von Websites und einem deutschen Gerichtsurteil zur Haftung für KI-Antworten wird immer deutlicher: KI-Suche ist nicht mehr nur eine technische Frage."
 ---
 
