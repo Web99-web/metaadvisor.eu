@@ -83,7 +83,6 @@ Zato rasprava o Britcoinu nije samo britanska. Slična pitanja postoje i u Europ
 
 Ako digitalni novac bude samo privatni proizvod, tada će sve veću moć imati izdavatelji stablecoina, velike platforme i payment kompanije. Ako digitalni novac bude javna infrastruktura, tada se otvaraju druga pitanja: privatnost, nadzor, uloga države i ograničenja moći središnjih banaka.
 
-**Nijedna opcija nije potpuno neutralna.**
 
 ## Naš osvrt (Metaadvisor)
 
