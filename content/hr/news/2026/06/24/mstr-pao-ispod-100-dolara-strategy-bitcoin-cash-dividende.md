@@ -82,6 +82,12 @@ U bull marketu takav rizik često ostaje u drugom planu. U padu tržišta dolazi
 
 {{< support2 >}}
 
+## Mali ulagači često najteže osjete ovakve padove
+
+Upravo zato ovakvi padovi često najviše pogađaju male ulagače koji ulaze kasno, dok profesionalni tržišni sudionici čekaju trenutke slabosti, prisilne prodaje ili panike kako bi kupovali jeftinije ili zatvarali svoje pozicije.
+
+Kod MSTR-a je to posebno osjetljivo jer se dionica ne doživljava samo kao obična dionica, nego kao pojačana izloženost Bitcoinu. Kada Bitcoin pada, a MSTR istovremeno probija psihološke razine poput 100 dolara, dio malih ulagača može reagirati emocionalno, dok profesionalni sudionici obično gledaju razine, likvidnost, volatilnost i strukturu rizika.
+
 ## Što sada treba pratiti?
 
 Nakon pada ispod 100 dolara, važno je pratiti može li se MSTR brzo vratiti iznad ranije spominjane zone podrške od 100–105 dolara ili će ta razina postati nova zona otpora. To je važno ne zato što jedna brojka sama po sebi odlučuje sudbinu kompanije, nego zato što tržište takve razine često koristi kao signal promjene raspoloženja.
@@ -89,6 +95,8 @@ Nakon pada ispod 100 dolara, važno je pratiti može li se MSTR brzo vratiti izn
 Drugo važno pitanje je Bitcoin. Ako se BTC stabilizira i ponovno krene prema gore, dio pritiska na MSTR mogao bi se smanjiti. Ali ako Bitcoin ostane slabiji, tada će tržište još više gledati financijsku strukturu Strategyja, a ne samo veličinu njegovih Bitcoin rezervi.
 
 Treće pitanje je cash. Ako se nastavi rasprava o gotovinskoj rezervi, dividendnim obvezama i STRC-u, MSTR bi se mogao sve više promatrati ne samo kao Bitcoin dionica, nego kao složen financijski instrument s dodatnim slojevima rizika.
+
+{{< support1 >}}
 
 ## Bitcoin i MSTR nisu ista stvar
 
