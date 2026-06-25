@@ -13,7 +13,7 @@ image: "/images/Binance-regulatory.png"
 thumbnail: "/images/Binance-regulatory.png"
 image_alt: "Binance regulatory briefing with microphones, documents and crypto market symbolism"
 image_credit: "Metaadvisor.eu"
-tags: "Binance, MiCA, EU regulacija, crypto regulacija, Grčka, Europska unija, crypto burze, tržište kriptoimovine, ESMA, compliance, licenciranje, crypto exchange, regulatori, digitalna imovina, Metaadvisor"
+tags: ["Binance", "MiCA", "EU regulacija", "crypto regulacija", "Grčka", "Europska unija", "crypto burze", "tržište kriptoimovine", "ESMA", "compliance", "licenciranje", "crypto exchange", "regulatori", "digitalna imovina", "Metaadvisor"]
 summary: "Binance je povukao zahtjev za MiCA licencu u Grčkoj, ali tvrdi da ne napušta Europu. Slučaj pokazuje koliko MiCA postaje važan filter za ulazak na EU crypto tržište — i koliko taj proces može biti zahtjevan čak i za najveće igrače."
 ---
 
