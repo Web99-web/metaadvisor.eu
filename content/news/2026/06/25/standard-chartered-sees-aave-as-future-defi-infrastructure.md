@@ -13,7 +13,7 @@ image: "/images/AAVE-goes-DEFI.png"
 thumbnail: "/images/AAVE-goes-DEFI.png"
 image_alt: "Aave and DeFi infrastructure concept"
 image_credit: "Metaadvisor.eu"
-tags: "Aave, DeFi, Standard Chartered, tokenized assets, Real World Assets, RWA, blockchain, lending protocol, DeFi infrastructure, crypto, tokenization, financial infrastructure, Metaadvisor"
+tags: ["Aave", "DeFi", "Standard Chartered", "tokenized assets", "Real World Assets", "RWA", "blockchain", "lending protocol", "DeFi infrastructure", "crypto", "tokenization", "financial infrastructure", "Metaadvisor"]
 summary: "Standard Chartered sees Aave as a possible future DeFi infrastructure layer for the growth of tokenized assets. The story is interesting because it shows why a large traditional bank is watching DeFi — but also why risks such as exploits, collateral issues and connected protocols do not disappear."
 ---
 
