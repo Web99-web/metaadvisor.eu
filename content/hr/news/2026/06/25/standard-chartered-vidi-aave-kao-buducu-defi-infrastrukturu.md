@@ -13,7 +13,7 @@ image: "/images/AAVE-goes-DEFI.png"
 thumbnail: "/images/AAVE-goes-DEFI.png"
 image_alt: "Aave and DeFi infrastructure concept"
 image_credit: "Metaadvisor.eu"
-tags: "Aave, DeFi, Standard Chartered, tokenizirana imovina, real world assets, RWA, blockchain, lending protokol, DeFi infrastruktura, crypto, tokenizacija, financijska infrastruktura, Metaadvisor"
+tags: ["Aave", "DeFi", "Standard Chartered", "tokenizirana imovina", "real world assets", "RWA", "blockchain", "lending protokol", "DeFi infrastruktura", "crypto", "tokenizacija", "financijska infrastruktura", "Metaadvisor"]
 summary: "Standard Chartered vidi Aave kao moguću buduću DeFi infrastrukturu za rast tokenizirane imovine. Priča je zanimljiva jer pokazuje zašto i velika tradicionalna banka prati DeFi, ali i zašto rizici poput exploita, kolaterala i povezanih protokola ne nestaju."
 ---
 
