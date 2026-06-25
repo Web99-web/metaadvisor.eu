@@ -13,7 +13,7 @@ image: "/images/Binance-regulatory.png"
 thumbnail: "/images/Binance-regulatory.png"
 image_alt: "Binance regulatory briefing with microphones, documents and crypto market symbolism"
 image_credit: "Metaadvisor.eu"
-tags: "Binance, MiCA, EU-Regulierung, Krypto-Regulierung, Griechenland, Europäische Union, Kryptobörsen, Kryptowerte, ESMA, Compliance, Lizenzierung, Crypto Exchange, Regulierungsbehörden, digitale Vermögenswerte, Metaadvisor"
+tags: ["Binance", "MiCA", "EU-Regulierung", "Krypto-Regulierung", "Griechenland", "Europäische Union", "Kryptobörsen", "Kryptowerte", "ESMA", "Compliance", "Lizenzierung", "Crypto Exchange", "Regulierungsbehörden", "digitale Vermögenswerte", "Metaadvisor"]
 summary: "Binance hat seinen Antrag auf eine MiCA-Lizenz in Griechenland zurückgezogen, betont aber, Europa nicht zu verlassen. Der Fall zeigt, wie wichtig MiCA als Eintrittsfilter für den europäischen Kryptomarkt wird — und wie anspruchsvoll der Prozess selbst für große globale Akteure sein kann."
 ---
 
