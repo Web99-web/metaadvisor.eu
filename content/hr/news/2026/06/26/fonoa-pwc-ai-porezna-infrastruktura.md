@@ -48,6 +48,8 @@ Najvažnija poruka ove priče nije “AI će riješiti poreze”. To bi bilo pre
 
 Zato je Fonoa zanimljiva. Njihova priča nije samo u tome da dodaju AI sloj na postojeći porezni proces. Ambicija je povezati podatke, transakcije, prijave, e-račune i audit trail u sustav koji može podržati ozbiljnu automatizaciju. To je velika razlika između AI hypea i stvarnog enterprise AI-a.
 
+{{< support2 >}}
+
 ## Hrvatski kut: zašto je Fonoa važna
 
 Fonoa se u međunarodnim medijima često opisuje kao Dublin-based startup. To je poslovno točno. Ali za hrvatsku publiku važan je i drugi dio: Fonoa ima snažne hrvatske korijene, hrvatske osnivače i razvojnu prisutnost u Zagrebu. Zato ova priča nije samo još jedna strana startup vijest. Ona pokazuje da se iz Hrvatske može graditi globalna poslovna infrastruktura, i to u području koje nije jednostavno, viralno ni površno.
@@ -65,8 +67,6 @@ Fonoa ne prodaje aplikaciju koju će milijuni ljudi skinuti na mobitel. Ona grad
     </span>
   </a>
 </div>
-
-{{< support2 >}}
 
 ## Zašto je ova priča šira od poreza
 
