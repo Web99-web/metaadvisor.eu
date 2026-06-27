@@ -1,6 +1,6 @@
 ---
-title: "Whale shortao ETH s 19,7 milijuna dolara: Ethereum ponovno pod pritiskom"
-slug: "whale-shortao-eth-197-milijuna-dolara-ethereum-pod-pritiskom"
+title: "Kripto Whale shortao ETH s 19,7 milijuna dolara: Ethereum ponovno pod pritiskom"
+slug: "kripto-whale-shortao-eth-197-milijuna-dolara-ethereum-pod-pritiskom"
 date: 2026-06-27T09:00:00+02:00
 category: "crypto"
 translationKey: "whale-shortao-eth-197-milijuna-dolara-ethereum-pod-pritiskom-2026-06-27"
@@ -19,11 +19,11 @@ summary: "Veliki Ethereum trader otvorio je ETH short poziciju vrijednu 19,7 mil
 
 Slika je simbolična.
 
-# Whale shortao ETH s 19,7 milijuna dolara: Ethereum ponovno pod pritiskom
+# Kripto Whale shortao ETH s 19,7 milijuna dolara: Ethereum ponovno pod pritiskom
 
-Veliki Ethereum trader ponovno je privukao pažnju tržišta nakon što je otvorio short poziciju na ETH-u vrijednu gotovo 20 milijuna dolara. Potez dolazi u trenutku kada se Ether nalazi pod tehničkim pritiskom, dok se istodobno oko Ethereuma otvaraju pitanja o financiranju, upravljanju i ulozi Ethereum Foundationa.
+Jedan veliki Ethereum trader, odnosno 'kripto whale', ponovno je privukao pažnju tržišta nakon što je otvorio short poziciju na ETH-u vrijednu gotovo 20 milijuna dolara. Potez dolazi u trenutku kada se Ether nalazi pod tehničkim pritiskom, dok se istodobno oko Ethereuma otvaraju pitanja o financiranju, upravljanju i ulozi Ethereum Foundationa.
 
-Prema podacima koje navodi Cointelegraph, wallet označen kao ‘0xf83f...6728’ otvorio je ETH short poziciju s polugom od 20x, vrijednu oko 19,72 milijuna dolara. Pozicija je otvorena dok se Ether spustio prema zoni podrške oko 1.500 dolara, nakon pada od više od 18% u posljednja dva tjedna.
+Nakon osam mjeseci tišine, wallet označen kao ‘0xf83f...6728’ ponovno se aktivirao — i odmah otvorio ETH short poziciju s polugom od 20x, vrijednu oko 19,72 milijuna dolara. Pozicija je otvorena dok se Ether spustio prema zoni podrške oko 1.500 dolara, nakon pada od više od 18% u posljednja dva tjedna.
 
 {{< support1 >}}
 
@@ -33,7 +33,7 @@ Pozicija je, prema dostupnim podacima, otvorena po prosječnoj cijeni od oko 1.5
 
 ## Zašto je ovaj short privukao pažnju tržišta?
 
-Veliki short sam po sebi ne znači da će ETH sigurno pasti. Whaleovi mogu pogriješiti, a pozicije s visokom polugom nose velik rizik. Kod 20x leveragea i manji pomak cijene u suprotnom smjeru može brzo promijeniti cijelu sliku.
+Veliki short sam po sebi ne znači da će ETH sigurno pasti. Whaleovi mogu pogriješiti, i oni gube ponkead gube velike iznose, a pozicije s visokom polugom nose velik rizik. Kod 20x leveragea i manji pomak cijene u suprotnom smjeru može brzo promijeniti cijelu sliku.
 
 Ali ovaj potez dolazi u osjetljivom trenutku. Ethereum je posljednjih tjedana pod pritiskom zajedno sa širim tržištem rizične imovine. Slabiji sentiment u tehnološkom sektoru, pritisak na Nasdaq i dionice proizvođača čipova prelijevaju se i na kripto tržište. Kada investitori smanjuju izloženost rizičnoj imovini, ETH često osjeti dodatni pritisak jer ga tržište promatra i kao tehnološku infrastrukturu i kao špekulativnu imovinu.
 
@@ -43,13 +43,9 @@ Ovo je važno jer se ETH ne promatra samo kao još jedan token. Ethereum je teme
 
 ## Ethereum Foundation i pitanje povjerenja
 
-Uz tehnički pritisak na cijenu, Ethereum se suočava i s unutarnjom raspravom o financiranju i upravljanju. CoinDesk piše da je Trent Van Epps, bivši važan član Ethereum Foundationa, upozorio da Ethereumova dugoročna strategija decentralizacije ulazi u kritičnu prijelaznu fazu.
+Uz tehnički pritisak na cijenu, Ethereum se suočava i s unutarnjom raspravom o financiranju i upravljanju. CoinDesk piše da je Trent Van Epps, bivši važan član Ethereum Foundationa, upozorio da Ethereumova dugoročna strategija decentralizacije ulazi u kritičnu prijelaznu fazu. Njegova poruka nije da je Ethereum u egzistencijalnoj krizi. Više se radi o praktičnom pitanju: kako će se dugoročno financirati razvoj, istraživanje, sigurnost i javna dobra ako se Ethereumovo upravljanje sve više distribuira izvan same Foundation strukture.
 
-Njegova poruka nije da je Ethereum u egzistencijalnoj krizi. Više se radi o praktičnom pitanju: kako će se dugoročno financirati razvoj, istraživanje, sigurnost i javna dobra ako se Ethereumovo upravljanje sve više distribuira izvan same Foundation strukture.
-
-To je bitna razlika. Ethereum Foundation godinama je imao važnu ulogu u koordinaciji razvoja i podršci ekosustavu. Ako se ta uloga mijenja, tržište prirodno pita tko preuzima dio odgovornosti za dugoročnu stabilnost mreže. Za developere i investitore to nije samo organizacijsko pitanje, nego pitanje povjerenja.
-
-Ipak, ovo ne mora biti loša vijest. Šire distribuirano upravljanje dugoročno može biti znak sazrijevanja Ethereuma. Problem je u tome što tržište ne voli neizvjesnost. Kada se istodobno pojave pad cijene, veliki short, slabiji tehnički signali i pitanja oko financiranja ekosustava, traderi to mogu protumačiti kao razlog za oprez.
+To je bitna razlika. Ethereum Foundation godinama je imao važnu ulogu u koordinaciji razvoja i podršci ekosustavu. Ako se ta uloga mijenja, tržište prirodno pita tko preuzima dio odgovornosti za dugoročnu stabilnost mreže. Za developere i investitore to nije samo organizacijsko pitanje, nego pitanje povjerenja. Ipak, ovo ne mora biti loša vijest. Šire distribuirano upravljanje dugoročno može biti znak sazrijevanja Ethereuma. Problem je u tome što tržište ne voli neizvjesnost. Kada se istodobno pojave pad cijene, veliki short, slabiji tehnički signali i pitanja oko financiranja ekosustava, traderi to mogu protumačiti kao razlog za oprez.
 
 {{< support2 >}}
 
