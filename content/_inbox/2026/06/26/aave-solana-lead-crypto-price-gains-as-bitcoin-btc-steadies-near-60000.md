@@ -13,9 +13,9 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 59,655.47 found some footing around $60,000 on Friday after this week's selloff, but the biggest gains came from decentralized finance (DeFi) and the Solana ecosystem.
+Bitcoin BTC $ 60,359.04 found some footing around $60,000 on Friday after this week's selloff, but the biggest gains came from decentralized finance (DeFi) and the Solana ecosystem.
 
-Leading the advance was the native token of Aave AAVE $ 93.08 , the largest DeFi lending protocol, which jumped 19% over the past 24 hours. CoinDesk reported Thursday that crypto exchange Kraken is exploring a strategic investment tied to the lending protocol, acquiring a 15% stake at a $385 million valuation.
+Leading the advance was the native token of Aave AAVE $ 95.26 , the largest DeFi lending protocol, which jumped 19% over the past 24 hours. CoinDesk reported Thursday that crypto exchange Kraken is exploring a strategic investment tied to the lending protocol, acquiring a 15% stake at a $385 million valuation.
 
 Aave founder Stani Kulechov pushed back in an X post against the suggestion that Aave assets could be sold at a steep discount. He reiterated that all protocol revenue — currently running at an annualized $134 million, he said. — flows to the Aave DAO and ultimately benefits AAVE token holders under the protocol's recently adopted "Aave Will Win" framework.
 
@@ -27,4 +27,4 @@ Trading activity around tokenized stocks continued to accelerate, topping $2.5 b
 
 The surge lifted several Solana DeFi tokens, especially tied to trading infrastructure protocols.
 
-JTO $ 0.7519 , which operates Solana's largest liquid staking protocol, provides infrastructure that helps validators maximize reward and unveiled a new trading platform last month, soared 30%. Tokens of Solana-based decentralized exchanges RAY $ 0.6112 and Meteora (MET) gained about 7%, while
+JTO $ 0.8247 , which operates Solana's largest liquid staking protocol, provides infrastructure that helps validators maximize reward and unveiled a new trading platform last month, soared 30%. Tokens of Solana-based decentralized exchanges RAY $ 0.6205 and Meteora (MET) gained about 7%, while
