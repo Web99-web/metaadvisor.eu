@@ -1,4 +1,4 @@
---
+---
 title: "Japans Fugu AI fordert die US-Dominanz heraus"
 slug: "japans-fugu-ai-fordert-die-us-dominanz-heraus"
 date: 2026-06-30T06:00:00+02:00
