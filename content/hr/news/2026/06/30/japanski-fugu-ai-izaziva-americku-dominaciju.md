@@ -20,7 +20,7 @@ summary: "Japanski Sakana AI predstavio je Fugu, novi AI sustav koji ne pokušav
 
 Slika je simbolična.
 
-# Japan’s Fugu AI challenges US dominance
+# Japanski Fugu AI izaziva američku dominaciju
 
 **Japanski Sakana AI lansirao je Fugu, novi AI sustav koji dolazi u trenutku kada se sve više raspravlja o američkoj dominaciji u umjetnoj inteligenciji.** Ime Fugu dolazi od japanske riječi za ribu napuhaču, ali iza simpatičnog imena krije se ozbiljna ideja: što ako budućnost AI-ja nije jedan “najveći model”, nego sustav koji zna pametno povezati više modela odjednom?
 
