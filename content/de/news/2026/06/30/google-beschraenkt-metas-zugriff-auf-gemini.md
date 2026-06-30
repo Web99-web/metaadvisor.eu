@@ -1,4 +1,4 @@
---
+---
 title: "Google beschränkt Metas Zugriff auf Gemini"
 slug: "google-beschraenkt-metas-zugriff-auf-gemini"
 date: 2026-06-30T06:00:00+02:00
