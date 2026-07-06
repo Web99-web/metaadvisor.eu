@@ -75,6 +75,11 @@ To otvara zanimljive mogućnosti, ali i nove probleme. Ako AI već sada stvara o
 
 Kod obične slike rizik je manji. Kod mini-aplikacije koja reagira na uređaj, privatnost i sigurnost postaju puno ozbiljnija tema.
 
+## Dostupnost: Pocket nije svugdje otvoren
+
+Važno je i pitanje dostupnosti. Pocket zasad nije dostupan svugdje, pa ga dio korisnika možda uopće neće vidjeti u svom App Storeu ili Google Playu. Za korištenje aplikacije potreban je Meta račun, što ne mora nužno značiti aktivan Facebook ili Instagram profil, ali korisnici koji imaju blokiran, ograničen ili nedostupan Meta identitet mogli bi imati problem s pristupom. Zbog toga Pocket trenutno više izgleda kao ograničeni test nego kao aplikacija dostupna svima.
+
+
 ## Naš osvrt
 
 * Pocket nije samo nova Meta aplikacija, nego nastavak Gizmo ideje pod Metinim imenom.
