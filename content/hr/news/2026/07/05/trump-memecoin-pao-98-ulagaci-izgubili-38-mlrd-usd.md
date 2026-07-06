@@ -5,7 +5,7 @@ date: 2026-07-05T20:30:00+02:00
 category: "crypto"
 translationKey: "trump-memecoin-investors-lost-38-billion-2026-07-05"
 source: "TechCrunch, The New York Times, Nansen, CBS News, Reuters, CoinGecko, Metaadvisor.eu"
-source_url: ""
+source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 image_url: "/images/trump-coin1.jpg"
 featured_image: "/images/trump-coin1.jpg"
@@ -27,9 +27,7 @@ Prema Nansenovoj analizi, do kraja lipnja 2026. ukupno **988.905 računa** bilo 
 
 Najvažniji podatak za tržište ipak je cijena. $TRUMP je u nedjelju trgovao oko **1,69 dolara**, što je gotovo **98 posto manje** od vrhunca od **75,35 dolara**.
 
-To je ekstreman pad, ali nije se dogodio u vakuumu. Bitcoin je od svog vrha izgubio približno polovicu vrijednosti. Ethereum je pao još snažnije. Solana je daleko ispod svog povijesnog vrha, a Cardano je također više od 90 posto ispod ATH razine.
-
-Razlika je u tome što je $TRUMP bio memecoin s vrlo jakim hypeom, poznatim imenom i velikim brojem malih ulagača koji su ušli tek nakon što je priča već eksplodirala.
+To je ekstreman pad, ali nije se dogodio u vakuumu. Bitcoin je od svog vrha izgubio približno polovicu vrijednosti. Ethereum je pao još snažnije. Solana je daleko ispod svog povijesnog vrha, a Cardano je također više od 90 posto ispod ATH razine. Razlika je u tome što je $TRUMP bio memecoin s vrlo jakim hypeom, poznatim imenom i velikim brojem malih ulagača koji su ušli tek nakon što je priča već eksplodirala.
 
 {{< support1 >}}
 
@@ -61,55 +59,41 @@ To je čest obrazac kod memecoina. Prvo dolazi veliki hype, zatim nagli rast, za
 
 Nansenova analiza posebno je važna jer se ne temelji samo na dojmu tržišta, nego na blockchain podacima. Blockchain transakcije su javno vidljive, pa analitičke tvrtke mogu procijeniti koliko je računa kupovalo token, po kojim razinama i koliko je njih završilo u gubitku.
 
-Prema podacima koje prenose TechCrunch i The New York Times, gotovo **988.905 računa** izgubilo je novac na $TRUMP memecoinu do kraja lipnja. To je oko dvije trećine svih kupaca.
-
-Ukupni gubici procijenjeni su na oko **3,8 milijardi dolara**.
-
-Takav omjer pokazuje koliko memecoin tržište može biti brutalno za male ulagače. Na papiru, token može izgledati kao “viralna prilika”. U stvarnosti, mnogi ulaze tek nakon što su najveći rast i najveća dobit već prošli.
+Prema podacima koje prenose TechCrunch i The New York Times, gotovo **988.905 računa** izgubilo je novac na $TRUMP memecoinu do kraja lipnja. To je oko dvije trećine svih kupaca. Ukupni gubici procijenjeni su na oko **3,8 milijardi dolara**. Takav omjer pokazuje koliko memecoin tržište može biti brutalno za male ulagače. Na papiru, token može izgledati kao “viralna prilika”. U stvarnosti, mnogi ulaze tek nakon što su najveći rast i najveća dobit već prošli.
 
 {{< support2 >}}
 
 ## Zašto su memecoini posebno rizični?
 
-Memecoini često nemaju klasičnu poslovnu vrijednost iza sebe. Nemaju prihod, proizvod, jasnu ekonomiju ili dugoročnu upotrebu koja bi podržavala cijenu. Njihova vrijednost najčešće ovisi o pažnji tržišta, viralnosti, poznatom imenu, zajednici i kratkoročnom sentimentu.
+Memecoini često nemaju klasičnu poslovnu vrijednost iza sebe. Nemaju prihod, proizvod, jasnu ekonomiju ili dugoročnu upotrebu koja bi podržavala cijenu. Njihova vrijednost najčešće ovisi o pažnji tržišta, viralnosti, poznatom imenu, zajednici i kratkoročnom sentimentu. To ne znači da se na memecoinima ne može zaraditi. Može. Ali rizik je iznimno visok jer se cijena često kreće brže od informacija koje prosječni ulagač može obraditi.
 
-To ne znači da se na memecoinima ne može zaraditi. Može. Ali rizik je iznimno visok jer se cijena često kreće brže od informacija koje prosječni ulagač može obraditi.
-
-Kod $TRUMP tokena dodatni problem je što je projekt od početka imao snažan brend i ogromnu vidljivost. To je moglo privući i ljude koji inače ne razumiju crypto tržište, ali su reagirali na ime, medijsku pažnju ili osjećaj da se “nešto veliko događa”.
-
-U takvim situacijama cijena često ne raste zato što projekt ima fundamentalnu vrijednost, nego zato što raste pažnja. A kada pažnja nestane, tržište se može vrlo brzo okrenuti.
+Kod $TRUMP tokena dodatni problem je što je projekt od početka imao snažan brend i ogromnu vidljivost. To je moglo privući i ljude koji inače ne razumiju crypto tržište, ali su reagirali na ime, medijsku pažnju ili osjećaj da se “nešto veliko događa”. U takvim situacijama cijena često ne raste zato što projekt ima fundamentalnu vrijednost, nego zato što raste pažnja. A kada pažnja nestane, tržište se može vrlo brzo okrenuti.
 
 ## Velika razlika između ranih i kasnih kupaca
 
 Kod memecoina je vrijeme ulaska često presudno. Oni koji uđu vrlo rano mogu ostvariti velike dobitke ako se hype proširi. Ali oni koji kupuju nakon što je token već eksplodirao često preuzimaju najveći rizik.
 
-$TRUMP je dobar primjer tog problema. Token je privukao ogromnu pažnju, dosegnuo visoku cijenu, a zatim pao gotovo 98 posto od vrhunca. To znači da kasniji kupci nisu samo izgubili dio vrijednosti, nego su u mnogim slučajevima ostali s tokenom koji vrijedi tek mali dio ranije cijene.
+Trump memecoin $TRUMP dobar je primjer tog problema. Token je privukao ogromnu pažnju, dosegnuo visoku cijenu, a zatim pao gotovo 98 posto od vrhunca. To znači da kasniji kupci nisu samo izgubili dio vrijednosti, nego su u mnogim slučajevima ostali s tokenom koji vrijedi tek mali dio ranije cijene. Zato je kod memecoina najopasnije kupovati samo zato što “svi pričaju o tome”. Kada nešto već postane glavna vijest, često je velik dio rasta već završen.
 
-Zato je kod memecoina najopasnije kupovati samo zato što “svi pričaju o tome”. Kada nešto već postane glavna vijest, često je velik dio rasta već završen.
+To ne znači da svaki memecoin mora završiti jednako. Dogecoin, Shiba Inu i Pepe pokazali su da neki stariji ili prepoznatljiviji memecoini mogu preživjeti više tržišnih ciklusa i zadržati značajan volumen trgovanja. Noviji tokeni poput Bonka, Pengu ili Dogwifhata također pokazuju da interes za meme segment nije nestao.
 
-To ne znači da svaki memecoin mora završiti jednako. Ali znači da mali ulagači moraju razumjeti da memecoin tržište nije isto što i ulaganje u projekt s proizvodom, prihodima ili jasnim poslovnim modelom.
+Ali to ne mijenja osnovni rizik. Memecoin tržište nije isto što i ulaganje u projekt s proizvodom, prihodima ili jasnim poslovnim modelom. Vrijednost se često temelji na zajednici, viralnosti, likvidnosti i pažnji tržišta. Kada ta pažnja oslabi, pad može biti vrlo brz. Zato je za male ulagače ključno razlikovati memecoine koji su već izgradili širu prepoznatljivost i likvidnost od kratkotrajnih hype projekata koji ovise o jednom valu pažnje. Trump memecoin pokazuje koliko rizično može biti kada se poznato ime, snažan hype i kasni ulazak malih ulagača spoje u istoj priči.
+
+{{< support2 >}}
 
 ## Što ova priča govori o crypto tržištu?
 
 Ova analiza nije važna samo zbog jednog tokena. Ona pokazuje širi problem crypto tržišta: kako se hype, poznata imena i društvene mreže mogu pretvoriti u vrlo rizičan financijski proizvod.
 
-U isto vrijeme, treba biti pošteno reći da je cijelo crypto tržište izgubilo velik dio vrijednosti od svojih vrhova. Bitcoin, Ethereum, Solana i Cardano također su daleko od razina koje su ranije imali.
+U isto vrijeme, treba biti pošteno reći da je cijelo crypto tržište izgubilo velik dio vrijednosti od svojih vrhova. Bitcoin, Ethereum, Solana i Cardano također su daleko od razina koje su ranije imali. Zato $TRUMP ne treba promatrati kao jedini problem crypto tržišta, nego kao ekstreman primjer onoga što se događa kada se širi tržišni pad spoji s memecoin hypeom.
 
-Zato $TRUMP ne treba promatrati kao jedini problem crypto tržišta, nego kao ekstreman primjer onoga što se događa kada se širi tržišni pad spoji s memecoin hypeom.
-
-Kod Bitcoina i Ethereuma investitori barem mogu raspravljati o mreži, infrastrukturi, ETF-ovima, institucionalnom interesu i dugoročnoj ulozi u crypto ekosustavu. Kod memecoina je oslonac često puno tanji: pažnja, brend, viralnost i osjećaj da se može brzo zaraditi.
-
-Kada takva pažnja nestane, cijena može pasti puno brže nego kod većih crypto projekata.
+Kod Bitcoina i Ethereuma investitori barem mogu raspravljati o mreži, infrastrukturi, ETF-ovima, institucionalnom interesu i dugoročnoj ulozi u crypto ekosustavu. Kod memecoina je oslonac često puno tanji: pažnja, brend, viralnost i osjećaj da se može brzo zaraditi. Kada takva pažnja nestane, cijena može pasti puno brže nego kod većih crypto projekata.
 
 ## Pad od 98 posto mijenja matematiku oporavka
 
-Pad od 98 posto ne znači da se cijena mora vratiti samo 98 posto da bi se vratila na staru razinu. Matematika je puno okrutnija.
+Pad od 98 posto ne znači da se cijena mora vratiti samo 98 posto da bi se vratila na staru razinu. Matematika je puno okrutnija. Ako token padne s 75 dolara na oko 1,5 ili 2 dolara, mora narasti više desetaka puta da bi se približio starom vrhuncu. To je razlog zašto su veliki padovi posebno opasni za kasne ulagače.
 
-Ako token padne s 75 dolara na oko 1,5 ili 2 dolara, mora narasti više desetaka puta da bi se približio starom vrhuncu. To je razlog zašto su veliki padovi posebno opasni za kasne ulagače.
-
-Mnogi kupci gledaju samo nominalnu cijenu i misle da je token “jeftiniji” jer je pao. Ali nakon ekstremnog pada ključno pitanje nije samo koliko je cijena niska, nego postoji li razlog da se potražnja vrati.
-
-Kod memecoina taj razlog često ovisi o novom valu hypea. A hype je teško predvidjeti i još teže dugoročno održati.
+Mnogi kupci gledaju samo nominalnu cijenu i misle da je token “jeftiniji” jer je pao. Ali nakon ekstremnog pada ključno pitanje nije samo koliko je cijena niska, nego postoji li razlog da se potražnja vrati. Kod memecoina taj razlog često ovisi o novom valu hypea. A hype je teško predvidjeti i još teže dugoročno održati.
 
 ## Naš osvrt
 
