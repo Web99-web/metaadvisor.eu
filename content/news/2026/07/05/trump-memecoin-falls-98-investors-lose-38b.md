@@ -5,7 +5,7 @@ date: 2026-07-05T20:30:00+02:00
 category: "crypto"
 translationKey: "trump-memecoin-investors-lost-38-billion-2026-07-05"
 source: "TechCrunch, The New York Times, Nansen, CBS News, Reuters, CoinGecko, Metaadvisor.eu"
-source_url: ""
+source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 image_url: "/images/trump-coin1.jpg"
 featured_image: "/images/trump-coin1.jpg"
