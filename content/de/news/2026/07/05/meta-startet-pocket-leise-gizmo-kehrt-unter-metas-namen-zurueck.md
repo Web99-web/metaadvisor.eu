@@ -73,6 +73,10 @@ Das eröffnet interessante Möglichkeiten, aber auch neue Probleme. Wenn AI scho
 
 Bei einem normalen Bild ist das Risiko kleiner. Bei einer Mini-App, die auf ein Gerät reagiert, werden Datenschutz und Sicherheit zu deutlich wichtigeren Themen.
 
+## Verfügbarkeit: Pocket ist nicht überall geöffnet
+
+Wichtig ist auch die Frage der Verfügbarkeit. Pocket ist derzeit noch nicht überall verfügbar, sodass einige Nutzer die App möglicherweise gar nicht im App Store oder bei Google Play sehen. Für die Nutzung der App ist ein Meta-Konto erforderlich, was nicht zwingend ein aktives Facebook- oder Instagram-Profil bedeuten muss. Nutzer mit gesperrter, eingeschränkter oder nicht zugänglicher Meta-Identität könnten jedoch Schwierigkeiten beim Zugriff haben. Deshalb wirkt Pocket aktuell eher wie ein begrenzter Test als wie eine App, die bereits für alle verfügbar ist.
+
 ## Unsere Einschätzung
 
 * Pocket ist nicht nur eine neue Meta-App, sondern die Fortsetzung der Gizmo-Idee unter Metas Namen.
