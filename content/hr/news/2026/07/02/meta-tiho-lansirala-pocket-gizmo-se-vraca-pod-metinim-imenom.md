@@ -13,7 +13,7 @@ image: "/images/Meta/Pocket-Meta-Gizmo.png"
 thumbnail: "/images/Meta/Pocket-Meta-Gizmo.png"
 image_alt: "Meta Pocket aplikacija i Gizmo kao dio Metine AI gaming strategije"
 image_credit: "Metaadvisor.eu"
-tags: ["Meta", "Pocket", "Gizmo", "AI", "gaming", "vibe coding", "Meta AI", "AI apps", "social media", "TechCrunch", "Business Insider", "The Verge", "Metaadvisor"]
+tags: ["Meta Pocket", "Gizmo", "vibe coding", "AI mini igre", "AI aplikacije", "interaktivni AI sadržaj", "AI promptovi", "Meta AI strategija", "AI gaming", "društveni AI feed", "generativni softver", "AI eksperimenti Mete"]
 summary: "Meta je tiho lansirala Pocket, novu AI aplikaciju povezanu s timom iza Gizma. Pocket korisnicima omogućuje stvaranje malih interaktivnih aplikacija i igara pomoću AI promptova."
 ---
 
@@ -62,6 +62,8 @@ Aplikaciju je javno uočio reverse engineer Alessandro Paluzzi, koji često pron
 To je tipično za velike tehnološke kompanije. Prvo se testira interes korisnika, mjeri se koliko ljudi stvara sadržaj, koliko ga dijeli i koliko se vraća u aplikaciju. Tek nakon toga odlučuje se hoće li projekt dobiti veći zamah. No čak i ako Pocket zasad ostane mali eksperiment, signal je važan.
 
 Meta očito ne želi da AI bude samo dodatak postojećim aplikacijama. Želi vidjeti može li AI stvoriti potpuno novi format sadržaja. Nakon statusa, fotografija, Storiesa, Reelsa i AI videa, sljedeći korak mogao bi biti feed pun malih AI aplikacija i igara.
+
+{{< support2 >}}
 
 ## Zašto je Pocket važan?
 
