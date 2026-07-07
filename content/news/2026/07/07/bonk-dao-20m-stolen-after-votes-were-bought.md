@@ -65,6 +65,18 @@ With memecoins, people often talk about volatility, hype and community. But here
 
 If the community is not active, if quorum is not strong enough and if there are no additional protections for large fund transfers, a DAO can become vulnerable to an attack that does not happen through a bug, but through the rules themselves.
 
+{{< support2 >}}
+
+## Bybit, Binance and KuCoin: buying votes and trying to trace the funds
+
+According to available reports, the attacker did not just “happen” to have enough BONK tokens. On **July 4 and 5**, the attacker deliberately bought BONK on exchanges such as **Bybit** and **Binance**, while part of the funds was reportedly obtained through DeFi lending platforms. This gave the attacker enough voting power for the malicious proposal to pass.
+
+After the treasury funds were drained, BONK DAO reportedly identified suspicious exchange wallet addresses that had been used before the vote. According to reports cited by **KuCoin**, the project is now trying to coordinate with **exchanges**, **bridges**, the **Solana Foundation** and **relevant authorities** to trace the stolen funds, try to freeze them if they reach centralized exchanges, and increase the chances of recovering at least part of the assets.
+
+It is important to note that, so far, there is no confirmation that the attacker bought BONK through KuCoin, nor that KuCoin itself has recovered the funds. In the available information, KuCoin appears as a source reporting that BONK DAO is trying to coordinate the tracing and possible recovery of funds after the attack.
+
+This detail matters because it shows that the attack was not spontaneous. The attacker built the position over several days, bought voting power and waited for the proposal to pass. That is why this case looks more like a planned governance operation than a classic crypto hack.
+
 ## Our view
 
 - BONK DAO lost around **$20 million** through a malicious governance proposal.
