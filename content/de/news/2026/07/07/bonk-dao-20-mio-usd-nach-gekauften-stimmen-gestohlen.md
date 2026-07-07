@@ -65,6 +65,19 @@ Bei Memecoins spricht man häufig über Volatilität, Hype und Community. Hier l
 
 Wenn die Community nicht aktiv ist, das Quorum nicht stark genug ist und zusätzliche Schutzmechanismen für große Mittelübertragungen fehlen, kann eine DAO anfällig für einen Angriff werden, der nicht über einen Bug erfolgt, sondern über die Regeln selbst.
 
+{{< support2 >}}
+
+## Bybit, Binance und KuCoin: Stimmenkauf und Versuch, die Mittel nachzuverfolgen
+
+Laut verfügbaren Berichten hatte der Angreifer nicht einfach „zufällig“ genug BONK-Token. Am **4. und 5. Juli** kaufte er gezielt BONK auf Börsen wie **Bybit** und **Binance**. Ein Teil der Mittel soll außerdem über DeFi-Lending-Plattformen beschafft worden sein. Dadurch erlangte er genügend Stimmrechte, damit der bösartige Vorschlag angenommen werden konnte.
+
+Nachdem die Mittel aus der Treasury abgezogen worden waren, identifizierte BONK DAO Berichten zufolge verdächtige Exchange-Wallet-Adressen, die vor der Abstimmung genutzt wurden. Laut Berichten, die **KuCoin** aufgreift, versucht das Projekt nun, mit **Börsen**, **Bridges**, der **Solana Foundation** und **zuständigen Behörden** zu koordinieren, um die gestohlenen Mittel nachzuverfolgen, sie möglicherweise einzufrieren, falls sie auf zentrale Börsen gelangen, und die Chancen auf eine Rückgewinnung zumindest eines Teils der Vermögenswerte zu erhöhen.
+
+Wichtig ist: Bisher gibt es keine Bestätigung, dass der Angreifer BONK über KuCoin gekauft hat, und auch keine Bestätigung, dass KuCoin selbst Mittel zurückgeholt hat. KuCoin erscheint in den verfügbaren Informationen als Quelle, die berichtet, dass BONK DAO nach dem Angriff die Nachverfolgung und mögliche Rückgewinnung der Mittel koordiniert.
+
+Dieses Detail ist wichtig, weil es zeigt, dass der Angriff nicht spontan war. Der Angreifer baute seine Position über mehrere Tage auf, kaufte Stimmrechte und wartete darauf, dass der Vorschlag angenommen wurde. Genau deshalb wirkt dieser Fall eher wie eine geplante Governance-Operation als wie ein klassischer Crypto-Hack.
+
+
 ## Unsere Einschätzung
 
 - BONK DAO verlor rund **20 Millionen Dollar** durch einen bösartigen Governance-Vorschlag.
