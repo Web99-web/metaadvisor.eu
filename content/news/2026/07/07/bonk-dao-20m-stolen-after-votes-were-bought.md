@@ -1,7 +1,7 @@
 ---
 title: "BONK DAO: $20M stolen after votes were bought"
 slug: "bonk-dao-20m-stolen-after-votes-were-bought"
-date: 2026-07-07T12:00:00+02:00
+date: 2026-07-07T06:00:00+02:00
 category: "crypto"
 translationKey: "bonk-dao-governance-attack-20-million-2026-07-07"
 source: "CoinDesk, Chainalysis, Lookonchain, Decrypt, Crypto Briefing, Metaadvisor.eu"
