@@ -61,6 +61,18 @@ Kod memecoina se često govori o volatilnosti, hypeu i zajednici. No ovdje je pr
 
 Ako zajednica nije aktivna, ako kvorum nije dovoljno jak i ako ne postoje dodatne zaštite za velike prijenose sredstava, DAO može postati ranjiv na napad koji se ne događa kroz bug, nego kroz pravila.
 
+{{< support2 >}}
+
+## Bybit, Binance i KuCoin: kupnja glasova i pokušaj praćenja sredstava
+
+Prema dostupnim izvještajima, napadač nije samo “slučajno” imao dovoljno BONK tokena. Tijekom **4. i 5. srpnja** ciljano je kupovao BONK na burzama kao što su **Bybit** i **Binance**, a dio sredstava navodno je pribavljen i preko DeFi lending platformi. Time je stekao dovoljno glasačke moći da zlonamjerni prijedlog može proći.
+
+Nakon što su sredstva iz treasuryja izvučena, BONK DAO je navodno identificirao sumnjive exchange wallet adrese koje su korištene prije glasanja. Prema izvještajima koje prenosi **KuCoin**, projekt sada pokušava koordinirati s **burzama**, **bridgeovima**, **Solana Foundationom** i **nadležnim tijelima** kako bi pratio ukradena sredstva, pokušao ih zamrznuti ako dođu na centralizirane burze i povećao šanse za povrat barem dijela imovine.
+
+Važno je naglasiti: zasad nema potvrde da je napadač BONK kupovao preko KuCoina, niti da je KuCoin sam vratio sredstva. KuCoin se u dostupnim informacijama pojavljuje kao izvor koji prenosi da BONK DAO pokušava koordinirati praćenje i povrat sredstava nakon napada.
+
+To je važan detalj jer pokazuje da napad nije bio trenutačan. Napadač je danima gradio poziciju, kupovao glasačku moć i čekao da prijedlog prođe. Upravo zato ovaj slučaj izgleda više kao planirana governance operacija nego kao klasični crypto hack.
+
 ## Naš osvrt
 
 - BONK DAO izgubio je oko **20 milijuna dolara** kroz zlonamjerni governance prijedlog.
