@@ -1,7 +1,7 @@
 ---
 title: "YGG gasi gaming odjel i okreće se AI podacima"
 slug: "ygg-gasi-gaming-odjel-okrece-se-ai-podacima"
-date: 2026-07-07T19:30:00+02:00
+date: 2026-07-08T06:30:00+02:00
 category: "crypto"
 translationKey: "ygg-shuts-gaming-arm-pivots-ai-data-2026-07-07"
 source: "Cointelegraph, BlockchainGamer.biz, Decrypt, KuCoin, YGG, Metaadvisor.eu"
