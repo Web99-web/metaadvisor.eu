@@ -98,13 +98,14 @@ Dodatno je zanimljiv politički moment. Prema izvještajima, najnoviji pokušaj 
 
 ## Što ovo znači za obične korisnike?
 
-Za obične korisnike najvažnije pitanje glasi: hoće li privatne poruke ostati privatne?
-
-Ljudi danas preko aplikacija za dopisivanje šalju gotovo sve: obiteljske razgovore, fotografije djece, poslovne informacije, financijske podatke, zdravstvene detalje, političke stavove i privatne misli. Ako se uvede ili normalizira model automatskog skeniranja, korisnici više neće moći biti sigurni da se njihova komunikacija analizira samo kada postoji sumnja i sudski nalog.
+Za obične korisnike najvažnije pitanje glasi: hoće li privatne poruke ostati privatne? Ljudi danas preko aplikacija za dopisivanje šalju gotovo sve: obiteljske razgovore, fotografije djece, poslovne informacije, financijske podatke, zdravstvene detalje, političke stavove i privatne misli. Ako se uvede ili normalizira model automatskog skeniranja, korisnici više neće moći biti sigurni da se njihova komunikacija analizira samo kada postoji sumnja i sudski nalog.
 
 To ne znači da će svaka poruka biti pročitana od strane čovjeka. Ali znači da bi sustavi mogli automatski analizirati sadržaj u potrazi za zabranjenim ili sumnjivim materijalom. A kada se takav model jednom prihvati, najveće pitanje postaje: tko određuje što se traži, tko kontrolira algoritme, tko ima pristup rezultatima i može li se sustav zloupotrijebiti?
 
+Poseban problem su lažno pozitivne detekcije. Privatna obiteljska fotografija, primjerice slika bebe koju jedan roditelj pošalje drugom roditelju, može biti potpuno nevina i osobna. No automatski sustav ne razumije uvijek kontekst, namjeru i odnos između osoba. Ako algoritam takav sadržaj pogrešno označi kao sumnjiv, privatna komunikacija obične obitelji može završiti u postupku provjere. Upravo zato kritičari upozoravaju da se ovdje ne radi samo o kriminalcima i ilegalnom sadržaju. Radi se i o riziku da automatizirani sustavi pogrešno zahvate obične građane, obiteljske razgovore i privatne trenutke koji nikada nisu trebali izaći izvan tog razgovora.
+
 U demokratskim društvima takva pitanja ne smiju biti sporedna. Privatnost komunikacije nije luksuz. Ona je temelj slobodnog društva, slobodnog novinarstva, političke opozicije, poslovne sigurnosti i osobnog dostojanstva.
+
 
 ## Naš osvrt
 
