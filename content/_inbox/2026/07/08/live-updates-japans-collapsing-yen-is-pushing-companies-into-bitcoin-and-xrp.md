@@ -13,16 +13,16 @@ _build:
   list: never
 ---
 
-The yen is trading near its weakest level in four decades, and Japanese companies are moving crypto onto their balance sheets to escape it.
+OpenAI said Wednesday it will publicly launch its GPT-5.6 model family this Thursday, expanding access globally after weeks of restricted preview.
 
-SBI VC Trade on Tuesday said corporate demand for bitcoin and XRP is climbing as the currency's slide pushes firms to diversify reserves beyond cash, with the exchange's registered accounts passing 2 million, roughly double its 2025 count.
+The three models are named Sol, Terra and Luna - drawn from the Latin names for the sun, earth and moon, meant to mark capability tiers rather than model generations.
 
-Hedge funds have turned the most bearish on the yen since 2007, boosting bets on further losses to nearly 138,000 contracts as of June 30, per CFTC data. The dollar buys around 162 yen as of Asian morning hours Wednesday.
+Thursday's public release ends that gated period and puts one of the most capable model families to date into general access, feeding the same AI-infrastructure race that has driven this month's market swings from chip stocks to crypto.
 
-The driver is the interest-rate gap between a hawkish U.S. Fed and a Bank of Japan still far behind it, the same gap that makes holding yen cash a losing position and sends firms looking for harder assets.
+GPT-5.6 spent the past two weeks in a limited preview restricted to about 20 government-approved partners, a rollout OpenAI said was coordinated with the U.S. government over the models' cybersecurity capabilities.
 
-SBI, the crypto arm of Tokyo-based SBI Holdings, noted demand for its corporate service has grown alongside companies that hand out bitcoin or XRP through shareholder-perk programs.
+Meanwhile, the naming choice draws amused reactions in crypto circles on social media.
 
-The move fits a pattern the market has watched all month. A weak yen has fed the carry trade, where investors borrow cheaply in yen to buy higher-returning assets elsewhere, and some of that flow is now reaching crypto through regulated Japanese channels rather than offshore ones.
+Terra and Luna were the twin tokens at the center of a $40 billion implosion in May 2022, when the TerraUSD stablecoin lost its dollar peg and dragged its sister token LUNA to near zero, wiping out retail holders and triggering a cascade that took down Three Arrows Capital, Celsius and eventually FTX.
 
-Bitcoin traded near $62,650 on Tuesday, up 6.1% on the week, per CoinDesk
+The names remain shorthand in crypto for catastrophic
