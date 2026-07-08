@@ -4,7 +4,7 @@ slug: "eu-ponovno-gura-chat-control-kroz-hitnu-proceduru"
 date: 2026-07-08T08:00:00+02:00
 category: "news"
 translationKey: "eu-chat-control-urgent-procedure-2026-07-08"
-source: "Cointelegraph, Euronews, The Guardian, EDRi, Metaadvisor.eu"
+source: "Cointelegraph, Euronews, The Guardian, EDRi, Meta Oversight Board, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 image_url: "/images/eu-chat-control.png"
@@ -100,11 +100,17 @@ Dodatno je zanimljiv politički moment. Prema izvještajima, najnoviji pokušaj 
 
 Za obične korisnike najvažnije pitanje glasi: hoće li privatne poruke ostati privatne? Ljudi danas preko aplikacija za dopisivanje šalju gotovo sve: obiteljske razgovore, fotografije djece, poslovne informacije, financijske podatke, zdravstvene detalje, političke stavove i privatne misli. Ako se uvede ili normalizira model automatskog skeniranja, korisnici više neće moći biti sigurni da se njihova komunikacija analizira samo kada postoji sumnja i sudski nalog.
 
-To ne znači da će svaka poruka biti pročitana od strane čovjeka. Ali znači da bi sustavi mogli automatski analizirati sadržaj u potrazi za zabranjenim ili sumnjivim materijalom. A kada se takav model jednom prihvati, najveće pitanje postaje: tko određuje što se traži, tko kontrolira algoritme, tko ima pristup rezultatima i može li se sustav zloupotrijebiti?
+To ne znači da će svaka poruka biti pročitana od strane čovjeka. Ali znači da bi sustavi mogli automatski analizirati sadržaj u potrazi za zabranjenim ili sumnjivim materijalom. A kada se takav model jednom prihvati, najveće pitanje postaje: tko određuje što se traži, tko kontrolira algoritme, tko ima pristup rezultatima i može li se sustav zloupotrijebiti? Poseban problem su **lažno pozitivne detekcije**. Privatna obiteljska fotografija, primjerice slika bebe koju jedan roditelj pošalje drugom roditelju, može biti potpuno nevina i osobna. No automatski sustav ne razumije uvijek kontekst, namjeru i odnos između osoba. Ako algoritam takav sadržaj pogrešno označi kao sumnjiv, privatna komunikacija obične obitelji može završiti u postupku provjere.
 
-Poseban problem su lažno pozitivne detekcije. Privatna obiteljska fotografija, primjerice slika bebe koju jedan roditelj pošalje drugom roditelju, može biti potpuno nevina i osobna. No automatski sustav ne razumije uvijek kontekst, namjeru i odnos između osoba. Ako algoritam takav sadržaj pogrešno označi kao sumnjiv, privatna komunikacija obične obitelji može završiti u postupku provjere. Upravo zato kritičari upozoravaju da se ovdje ne radi samo o kriminalcima i ilegalnom sadržaju. Radi se i o riziku da automatizirani sustavi pogrešno zahvate obične građane, obiteljske razgovore i privatne trenutke koji nikada nisu trebali izaći izvan tog razgovora.
+Takav rizik nije samo teorijski. Velike platforme već su imale probleme s automatiziranom moderacijom i pogrešnim označavanjem sadržaja ili korisničkih računa. Meta je, primjerice, bila suočena s brojnim pritužbama korisnika Facebooka i Instagrama zbog pogrešnih suspenzija, uključujući slučajeve u kojima su računi bili označeni zbog navodnog kršenja pravila povezanih s dječjim seksualnim iskorištavanjem, iako su korisnici tvrdili da nisu objavili ništa takvo.
 
-U demokratskim društvima takva pitanja ne smiju biti sporedna. Privatnost komunikacije nije luksuz. Ona je temelj slobodnog društva, slobodnog novinarstva, političke opozicije, poslovne sigurnosti i osobnog dostojanstva.
+<a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">
+  <img src="/images/Banned-from-social-media.png" alt="Meta Oversight Board: AI moderacija — dugogodišnji problem tek sad ulazi u fokus" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+</a>
+
+<a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">Meta Oversight Board: AI moderacija — dugogodišnji problem tek sad ulazi u fokus</a>
+
+Upravo zato kritičari upozoravaju da se ovdje ne radi samo o kriminalcima i ilegalnom sadržaju. Radi se i o riziku da automatizirani sustavi pogrešno zahvate obične građane, obiteljske razgovore i privatne trenutke koji nikada nisu trebali izaći izvan tog razgovora. U demokratskim društvima takva pitanja ne smiju biti sporedna. Privatnost komunikacije nije luksuz. Ona je temelj slobodnog društva, slobodnog novinarstva, političke opozicije, poslovne sigurnosti i osobnog dostojanstva.
 
 
 ## Naš osvrt
@@ -118,5 +124,6 @@ U demokratskim društvima takva pitanja ne smiju biti sporedna. Privatnost komun
 - MetaAdvisor je već 2025. pisao o Chat Controlu kao o mogućem opasnom presedanu: građani pod nadzorom, političke elite zaštićene, a kriminalci premješteni na teže dostupne kanale.
 - O mogućem pomaku prema Web3 i decentraliziranim komunikacijskim alternativama već se raspravlja, ali fokus ovog glasanja ostaje pitanje privatnosti, enkripcije i hitne procedure.
 - Ključno pitanje ostaje isto: kako zaštititi djecu bez pretvaranja privatne komunikacije 500 milijuna građana u prostor stalne automatske kontrole?
+- Lažno pozitivne detekcije nisu samo tehnički problem. Ako automatizirani sustav pogrešno označi obiteljsku fotografiju, privatni razgovor ili korisnički račun, obični građani mogu završiti u postupku provjere bez stvarne krivnje.
 
 **Disclaimer:** Ovaj članak služi isključivo u informativne svrhe i ne predstavlja pravni, sigurnosni ili politički savjet. Tema Chat Controla uključuje složena pitanja privatnosti, zaštite djece, enkripcije, digitalnih prava i europskog zakonodavstva.
