@@ -4,7 +4,7 @@ slug: "eu-pushes-chat-control-again-through-urgent-procedure"
 date: 2026-07-08T08:00:00+02:00
 category: "news"
 translationKey: "eu-chat-control-urgent-procedure-2026-07-08"
-source: "Cointelegraph, Euronews, The Guardian, EDRi, Metaadvisor.eu"
+source: "Cointelegraph, Euronews, The Guardian, EDRi, Meta Oversight Board, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 image_url: "/images/eu-chat-control.png"
@@ -98,13 +98,19 @@ The political timing is also interesting. According to reports, the latest attem
 
 ## What does this mean for ordinary users?
 
-For ordinary users, the most important question is: will private messages remain private?
+For ordinary users, the most important question is: will private messages remain private? Today, people send almost everything through messaging apps: family conversations, photos of children, business information, financial data, health details, political views and private thoughts. If a model of automatic scanning is introduced or normalized, users will no longer be able to be sure that their communication is analyzed only when there is suspicion and a court order.
 
-Today, people send almost everything through messaging apps: family conversations, photos of children, business information, financial data, health details, political views and private thoughts. If a model of automatic scanning is introduced or normalized, users will no longer be able to be sure that their communication is analyzed only when there is suspicion and a court order.
+This does not mean that every message will be read by a human being. But it does mean that systems could automatically analyze content in search of prohibited or suspicious material. And once such a model is accepted, the biggest question becomes: who decides what is being searched for, who controls the algorithms, who has access to the results and can the system be abused? A particular problem is false positives. A private family photo, for example an image of a baby sent by one parent to the other, can be completely innocent and personal. But an automated system does not always understand context, intent and the relationship between people. If an algorithm wrongly flags such content as suspicious, the private communication of an ordinary family can end up in a review process.
 
-This does not mean that every message will be read by a human being. But it does mean that systems could automatically analyze content in search of prohibited or suspicious material. And once such a model is accepted, the biggest question becomes: who decides what is being searched for, who controls the algorithms, who has access to the results and can the system be abused?
+This risk is not only theoretical. Large platforms have already had problems with automated moderation and the incorrect flagging of content or user accounts. Meta, for example, has faced numerous complaints from Facebook and Instagram users over mistaken suspensions, including cases in which accounts were flagged for alleged violations of rules related to child sexual exploitation, even though users said they had posted nothing of the kind.
 
-In democratic societies, such questions must not be secondary. Privacy of communication is not a luxury. It is a foundation of a free society, free journalism, political opposition, business security and personal dignity.
+<a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">
+  <img src="/images/Banned-from-social-media.png" alt="Meta Oversight Board: AI moderation — a years-long problem is only now coming into focus" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+</a>
+
+<a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">Meta Oversight Board: AI moderation — a years-long problem is only now coming into focus</a>
+
+That is why critics warn that this is not only about criminals and illegal content. It is also about the risk that automated systems wrongly capture ordinary citizens, family conversations and private moments that were never meant to leave that conversation. In democratic societies, such questions must not be secondary. Privacy of communication is not a luxury. It is a foundation of a free society, free journalism, political opposition, business security and personal dignity.
 
 ## Our take
 
@@ -117,5 +123,6 @@ In democratic societies, such questions must not be secondary. Privacy of commun
 - MetaAdvisor already wrote in 2025 about Chat Control as a possible dangerous precedent: citizens under surveillance, political elites protected, while criminals move to harder-to-reach channels.
 - A possible shift toward Web3 and decentralized communication alternatives is already being discussed, but the focus of this vote remains privacy, encryption and the urgent procedure.
 - The central question remains the same: how can children be protected without turning the private communication of 500 million citizens into a space of constant automatic control?
+- False positives are not only a technical problem. If an automated system wrongly flags a family photo, a private conversation or a user account, ordinary citizens can end up in a review process without any real wrongdoing.
 
 **Disclaimer:** This article is for informational purposes only and does not constitute legal, security or political advice. The topic of Chat Control involves complex questions of privacy, child protection, encryption, digital rights and European legislation.
