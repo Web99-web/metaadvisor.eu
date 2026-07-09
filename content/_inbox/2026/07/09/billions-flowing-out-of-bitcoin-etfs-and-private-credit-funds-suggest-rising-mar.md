@@ -15,7 +15,7 @@ _build:
 
 If the second quarter was bad for bitcoin exchange-traded funds (ETFs), with record outflows of nearly $5 billion, it was even more brutal for private credit.
 
-Investors yanked out $4 billion from U.S.-listed spot bitcoin ETFs, led by BlackRock’s IBIT in June alone, according to data source SoSoValue. The outflow was mainly due to capital rotation into the AI trade and other high-profile opportunities, such as SpaceX’s blockbuster IPO. The market felt the heat as bitcoin's BTC $ 62,985.21 price fell roughly 14% in the second quarter, dipping below $60,000 to register its third straight quarterly loss.
+Investors yanked out $4 billion from U.S.-listed spot bitcoin ETFs, led by BlackRock’s IBIT in June alone, according to data source SoSoValue. The outflow was mainly due to capital rotation into the AI trade and other high-profile opportunities, such as SpaceX’s blockbuster IPO. The market felt the heat as bitcoin's BTC $ 63,169.61 price fell roughly 14% in the second quarter, dipping below $60,000 to register its third straight quarterly loss.
 
 However, that outflow was dwarfed by liquidity stress in the $2 trillion private credit market, where investors requested $15.6 billion in redemptions during Q2 and were only partially satisfied. According to data tracked by Fitch , redemption requests exceeded the standard 5% quarterly cap at 10 of the 16 business development companies (BDCs), meaning many investors received only a portion of their money and remain in line for future quarters.
 

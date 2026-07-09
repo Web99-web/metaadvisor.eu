@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Aave Labs, the organization behind the largest decentralized lending platform Aave AAVE $ 91.59 , is rolling out vaults to help fintech companies offer yield on stablecoins without requiring users to interact directly with crypto rails.
+Aave Labs, the organization behind the largest decentralized lending platform Aave AAVE $ 91.07 , is rolling out vaults to help fintech companies offer yield on stablecoins without requiring users to interact directly with crypto rails.
 
 The new Stable Vaults let wallets, exchanges and payment providers embed stablecoin earning through a single connection. Behind the scenes, the vaults allocate deposits across approved decentralized finance (DeFi) lending strategies while the customer continues using a familiar app interface.
 
