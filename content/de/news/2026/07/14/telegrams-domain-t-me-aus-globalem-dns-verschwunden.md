@@ -31,6 +31,8 @@ Das bedeutet nicht, dass die Domain gelöscht wurde oder Telegram die Kontrolle 
 
 Einfacher gesagt: Klickt jemand auf einen Link, der mit `t.me` beginnt, weiß der Browser nicht mehr, wo sich diese Adresse befindet.
 
+{{< support1 >}}
+
 Betroffen waren Links zu öffentlichen Kanälen, Gruppen, Nutzerprofilen, Bots, Einladungen und weiteren Telegram-Diensten, die über die Domain `t.me` geöffnet werden. Der Nachrichtenaustausch innerhalb einer bereits installierten App ist nicht zwingend ausschließlich von dieser Domain abhängig. Deshalb ist Telegram nicht vollständig verschwunden und hat auch nicht komplett aufgehört zu funktionieren.
 
 ## Durov bat öffentlich um eine Erklärung
@@ -53,6 +55,8 @@ Dabei ist es wichtig, zwischen dem Inhaber einer einzelnen Domain und dem Betrei
 
 Montenegro kontrolliert weder Telegrams Inhalte noch seine Nachrichten oder die App. Der Betreiber der `.me`-Registry entscheidet jedoch technisch darüber, ob eine einzelne Domain innerhalb der `.me`-Zone im DNS veröffentlicht wird.
 
+{{< support2 >}}
+
 ## Warum hat Telegram eine montenegrinische Domain gewählt?
 
 Telegram hat nicht allein deshalb eine besondere geschäftliche oder organisatorische Verbindung zu Montenegro, weil das Unternehmen `t.me` verwendet. Die Domain wurde gewählt, weil sie extrem kurz, leicht zu merken und praktisch zu teilen ist.
@@ -70,6 +74,12 @@ Der Status `serverHold` unterscheidet sich von einem gewöhnlichen Problem mit d
 Eine solche Maßnahme kann aus unterschiedlichen Gründen eingesetzt werden, etwa während einer Datenprüfung, wegen eines Sicherheitsvorfalls, bei Verdacht auf Missbrauch, aufgrund eines administrativen Problems oder infolge eines irrtümlich ausgelösten Verfahrens. Der Status selbst verrät jedoch nicht, warum er gesetzt wurde.
 
 Deshalb ließ sich zum Zeitpunkt der Veröffentlichung nicht zuverlässig sagen, warum `t.me` aus dem DNS entfernt wurde. Bekannt war, was technisch geschehen war, nicht aber, wodurch der Vorfall ausgelöst wurde.
+
+{{< support2 >}}
+
+**Aktualisierung vom 14. Juli 2026:** Die Domain `t.me` ist wieder erreichbar, nachdem der Status `serverHold` aufgehoben wurde. Die `.ME`-Registry erklärte, dass die Domain aufgrund von OFAC-Compliance-Anforderungen vorübergehend gesperrt worden sei. OFAC ist das Office of Foreign Assets Control des US-Finanzministeriums und für die Umsetzung wirtschaftlicher und finanzieller Sanktionen zuständig.
+
+Nach den bisher verfügbaren Informationen enthielt eine am selben Tag veröffentlichte Sanktionsmeldung des US-Finanzministeriums einen Link zu einer Telegram-Gruppe, die mit dem VPN-Dienst First VPN in Verbindung stand. Da dieser Link die Domain `t.me` verwendete, wurde möglicherweise versehentlich oder vorsorglich die gesamte Domain gesperrt, anstatt nur die konkrete Adresse einzuschränken. Die `.ME`-Registry hat bislang nicht ausführlich erklärt, wie es dazu kam. Die `t.me`-Links funktionieren inzwischen wieder. 
 
 ## Unsere Einschätzung
 
