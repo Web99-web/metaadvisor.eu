@@ -31,6 +31,8 @@ To ne znači da je domena izbrisana ili da je Telegram izgubio vlasništvo nad n
 
 Jednostavnije rečeno, kada netko klikne poveznicu koja počinje s `t.me`, preglednik više ne zna gdje se ta adresa nalazi.
 
+{{< support1 >}}
+
 Problem je pogodio poveznice prema javnim kanalima, grupama, korisničkim profilima, botovima, pozivnicama i drugim Telegramovim uslugama koje se otvaraju preko domene `t.me`. Sama razmjena poruka unutar već instalirane aplikacije nije nužno ovisna samo o toj domeni, zbog čega Telegram nije u potpunosti nestao niti prestao raditi.
 
 ## Durov je javno zatražio odgovor
@@ -53,6 +55,8 @@ Važno je pritom razlikovati vlasnika pojedinačne domene od upravitelja cijele 
 
 Crna Gora ne upravlja Telegramovim sadržajem, porukama ili aplikacijom. Međutim, operator `.me` registra tehnički upravlja time hoće li pojedina domena unutar `.me` zone biti objavljena u DNS-u.
 
+{{< support2 >}}
+
 ## Zašto je Telegram odabrao crnogorsku domenu?
 
 Telegram nema posebnu poslovnu ili organizacijsku vezu s Crnom Gorom samo zato što koristi `t.me`. Domena je odabrana zato što je izuzetno kratka, lako pamtljiva i praktična za dijeljenje.
@@ -70,6 +74,12 @@ Status `serverHold` razlikuje se od običnog problema s internetskim hostingom i
 Takva mjera može se koristiti iz različitih razloga, primjerice tijekom provjere podataka, zbog sigurnosnog incidenta, sumnje na zloupotrebu, administrativnog problema ili pogrešno pokrenute procedure. Sam status, međutim, ne otkriva razlog zbog kojeg je postavljen.
 
 Zbog toga u trenutku objave nije bilo moguće pouzdano tvrditi zašto je `t.me` uklonjen iz DNS-a. Bilo je poznato što se tehnički dogodilo, ali ne i što je incident pokrenulo.
+
+{{< support2 >}}
+
+**Ažuriranje, 14. srpnja 2026.:** Domena `t.me` ponovno je dostupna nakon što je uklonjen status `serverHold`. `.ME` registar objavio je da je domena bila privremeno stavljena na čekanje zbog usklađivanja s pravilima OFAC-a. OFAC je Ured za kontrolu strane imovine američkog Ministarstva financija, koji provodi gospodarske i financijske sankcije.
+
+Prema dosad dostupnim informacijama, američko Ministarstvo financija istoga je dana u sankcijski dokument uključilo poveznicu prema Telegram grupi povezanoj s VPN servisom First VPN. Budući da je poveznica koristila domenu `t.me`, moguće je da je cijela domena privremeno suspendirana umjesto samo konkretne adrese. `.ME` registar još nije detaljno objasnio kako je do toga došlo. Telegramove `t.me` poveznice sada ponovno rade. 
 
 ## Naš osvrt
 
