@@ -5,7 +5,7 @@ category: "news"
 translationKey: "ccb052dabaaff99cf500879664e5e595"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-erisx-raises-275-mln-from-fidelity-nasdaq-ventures-and-others-details-2.jpg"
 tags: []
 _build:
   publishResources: false

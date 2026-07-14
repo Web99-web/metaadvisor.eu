@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Japanese investment bank Mizuho downgraded Circle (CRCL) to underperform from neutral and slashed its price target to $50 from $85, arguing that OpenUSD's business model threatens the stablecoin issuer's long-term economics.
+Japanese investment bank Mizuho downgraded Circle ( CRCL ) to underperform from neutral and slashed its price target to $50 from $85, arguing that OpenUSD's business model threatens the stablecoin issuer's long-term economics.
 
 Circle shares were trading 0.6% lower at $62.63 at publication time.
 
@@ -29,4 +29,4 @@ That model could pressure Circle's distribution partners to demand a larger shar
 
 Coinbase's support for OpenUSD could strengthen its negotiating position, the report added.
 
-Reflecting that risk, Mizuho raised its estimate for Circle's distribution and transaction costs in 2027 to 73% from 64%, cutting its adjusted EBITDA forecast to $699 million from $1.09
+Reflecting that risk, Mizuho raised its estimate for Circle's distribution and transaction costs in 2027 to 73% from 64%, cutting its adjusted EBITDA forecast to $699 million from
