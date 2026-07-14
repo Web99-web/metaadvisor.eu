@@ -29,6 +29,8 @@ Publicly available records showed that the domain `t.me` had been assigned the s
 
 That does not mean the domain was deleted or that Telegram lost ownership of it. The domain may still be registered, but while `serverHold` remains active, the DNS system does not receive the information needed to direct users to the correct servers.
 
+{{< support1 >}}
+
 In simpler terms, when someone clicks a link beginning with `t.me`, the browser no longer knows where that address is located.
 
 The problem affected links to public channels, groups, user profiles, bots, invitations and other Telegram services accessed through the `t.me` domain. Messaging inside an already installed app does not necessarily depend entirely on that domain, which is why Telegram did not completely disappear or stop working altogether.
@@ -40,6 +42,8 @@ Telegram founder Pavel Durov contacted the official `.ME` Registry account on th
 His brief public message prompted even more discussion because it suggested that Telegram may not have been informed about the problem in advance. However, the message alone does not reveal whether the cause was a technical error, an administrative issue, an automated security measure or something else.
 
 While users waited for a response from the registry, social media filled with speculation, but none of the theories had been officially confirmed at that point.
+
+{{< support2 >}}
 
 ## What does Montenegro have to do with it?
 
@@ -71,6 +75,12 @@ Such a measure can be used for different reasons, including data verification, a
 
 For that reason, it was not possible at the time of publication to say with certainty why `t.me` had been removed from the DNS. What happened technically was known, but the cause of the incident was not.
 
+{{< support2 >}}
+
+**Update, 14 July 2026:** The `t.me` domain is back online after the `serverHold` status was removed. The `.ME` Registry said the domain had temporarily been placed on hold because of OFAC compliance requirements. OFAC is the U.S. Treasury’s Office of Foreign Assets Control, the agency responsible for administering and enforcing U.S. economic and financial sanctions.
+
+Based on the information available so far, a U.S. Treasury sanctions notice published on the same day included a link to a Telegram group associated with the First VPN service. Because the link used the `t.me` domain, it is possible that the entire domain was suspended instead of only the specific address. The `.ME` Registry has not yet provided a detailed explanation of how this happened. Telegram’s `t.me` links are now working again.
+
 ## Our view
 
 - Telegram did not stop working completely, but it temporarily lost one of its most important public access points.
@@ -79,4 +89,4 @@ For that reason, it was not possible at the time of publication to say with cert
 - The incident shows how even the world’s largest platforms depend on domain registries, the DNS system and infrastructure they do not fully control themselves.
 - Social media quickly filled with various theories, but until the `.ME` Registry or Telegram releases further information, the actual cause remains unknown.
 
-> **Disclaimer:** This article is based on publicly available information at the time of publication, 14 July 2026 at 6:00 a.m. The reason for the `serverHold` status on the `t.me` domain had not yet been officially confirmed at that time. The information will be updated if necessary after Telegram or the `.ME` Registry publishes an official explanation.
+**Disclaimer:** This article is based on publicly available information at the time of publication, 14 July 2026 at 6:00 a.m. The reason for the `serverHold` status on the `t.me` domain had not yet been officially confirmed at that time. The information will be updated if necessary after Telegram or the `.ME` Registry publishes an official explanation.
