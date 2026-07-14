@@ -31,6 +31,8 @@ Nacionalne internetske domene uglavnom prate dvoslovne oznake država iz međuna
 
 Na temelju te oznake Crna Gora mogla je dobiti vlastitu nacionalnu internetsku domenu. Domena `.me` delegirana je 2007. godine, dok je globalna registracija počela 2008. godine. Prije toga Srbija i Crna Gora koristile su naslijeđenu jugoslavensku domenu `.yu`. Nakon stvaranja dviju zasebnih država Srbija je dobila `.rs`, a Crna Gora `.me`.
 
+{{< support1 >}}
+
 ## Kako je državna oznaka postala globalni proizvod?
 
 Crna Gora brzo je prepoznala da oznaka `ME` ima tržišnu vrijednost koja daleko nadilazi njezinu osnovnu ulogu nacionalne domene. Riječ “me” na engleskom znači “mene” ili “ja”, zbog čega je nastavak postao idealan za osobne stranice, portfelje, marketinške kampanje, pozive na akciju i kratke internetske adrese.
@@ -38,8 +40,6 @@ Crna Gora brzo je prepoznala da oznaka `ME` ima tržišnu vrijednost koja daleko
 Umjesto da registraciju ograniči samo na stanovnike, institucije i kompanije iz Crne Gore, država je `.me` otvorila korisnicima i tvrtkama iz cijelog svijeta. Nacionalna domena tako je u praksi počela funkcionirati gotovo poput međunarodne generičke domene.
 
 Danas postoji više od milijun registriranih `.me` domena, a koriste ih pojedinci i kompanije u više od 200 država i područja. Broj registriranih domena tako je znatno veći od broja stanovnika same Crne Gore.
-
-{{< support1 >}}
 
 ## Zašto je koriste Telegram, WhatsApp i PayPal?
 
@@ -49,9 +49,9 @@ Telegram koristi `t.me` za poveznice prema kanalima, grupama, profilima i botovi
 
 PayPal je oko naziva PayPal.Me izgradio poseban sustav osobnih poveznica za slanje i primanje novca.
 
-To ne znači da su te kompanije crnogorske niti da Crna Gora upravlja njihovim aplikacijama. One koriste pojedinačne internetske adrese registrirane unutar nacionalne domenske zone Crne Gore.
+To ne znači da su te kompanije crnogorske niti da Crna Gora upravlja njihovim aplikacijama. One koriste pojedinačne internetske adrese registrirane unutar nacionalne domenske zone Crne Gore. Funkcionalnost njihovih `.me` adresa zato ovisi o pravilnom radu registra koji upravlja cijelom `.me` zonom, jednako kao što svaka domena ovisi o registru svoje domenske ekstenzije.
 
-Funkcionalnost njihovih `.me` adresa zato ovisi o pravilnom radu registra koji upravlja cijelom `.me` zonom, jednako kao što svaka domena ovisi o registru svoje domenske ekstenzije.
+{{< support1 >}}
 
 ## Što Crna Gora dobiva od toga?
 
@@ -61,8 +61,6 @@ Crna Gora zato ne dobiva cijeli iznos koji korisnik plati GoDaddyju ili nekom dr
 
 Vlada Crne Gore objavila je 2015. da je projekt `.me` u prvih nekoliko godina zemlji donio više od 15 milijuna eura. U službenoj objavi iz 2016. navedeno je da je ukupna financijska korist za Crnu Goru **premašila 20 milijuna eura**. Precizan noviji kumulativni iznos nije jednako jasno javno objavljen. Budući da se registracije i obnove domena nastavljaju, ukupna vrijednost projekta danas je vjerojatno znatno veća, ali bez novijeg službenog podatka ne može se navesti točna svota.
 
-{{< support2 >}}
-
 ## Tko zapravo upravlja domenom `.me`?
 
 U službenoj evidenciji IANA-e kao upravitelj nacionalne domene navedena je Vlada Crne Gore. Svakodnevne registarske i tehničke poslove obavlja ovlašteni `.ME` registar, odnosno kompanija doMEn, u suradnji s međunarodnim tehničkim partnerima i mrežom registrara.
@@ -70,6 +68,8 @@ U službenoj evidenciji IANA-e kao upravitelj nacionalne domene navedena je Vlad
 Korisnik domenu ne registrira izravno kod Vlade Crne Gore, nego preko prodajnog registrara. Registrar naplaćuje registraciju, pruža korisničko sučelje i upravlja odnosom s kupcem, dok središnji registar vodi službenu bazu svih domena unutar `.me` zone.
 
 Vlasnik pojedinačne domene upravlja njezinim sadržajem, poslužiteljima i aplikacijama. Registar, međutim, održava središnji zapis koji omogućuje da se domena pojavljuje u DNS-u i bude dostupna korisnicima širom svijeta.
+
+{{< support2 >}}
 
 ## Što je jutrošnji slučaj s Telegramom otkrio?
 
@@ -105,7 +105,7 @@ Crna Gora ne čita Telegramove poruke, ne upravlja njegovim kanalima i ne kontro
   </div>
 </div>
 
-{{< support1 >}}
+
 
 ## Naš osvrt
 
