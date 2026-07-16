@@ -78,15 +78,15 @@ Facebook and Instagram users have described a very similar problem for months, a
 Automated systems can restrict or disable a profile, remove a page, block access to business tools or erase a digital identity built over many years, often without a clear explanation and without a genuine opportunity for a human to review the case.
 
 <div style="text-align:center; margin:24px 0;">
-  <a href="https://metaadvisor.eu/news/social-media-ban-eu-ai-moderation-accounts/" target="_blank" rel="noopener">
+  <a href="https://metaadvisor.eu/news/social-media-bans-eu-ai-moderation-accounts/" target="_blank" rel="noopener">
     <img src="/images/Banned-from-social-media.png"
-         alt="Social media bans in the EU: When AI moderation erases your digital life"
+         alt="Social media bans in the EU: when AI moderation erases your digital life"
          loading="lazy"
          style="width:100%; max-width:520px; height:auto; border-radius:10px;">
   </a>
 </div>
 
-### <a href="https://metaadvisor.eu/news/social-media-ban-eu-ai-moderation-accounts/" target="_blank" rel="noopener">Social media bans in the EU: When AI moderation erases your digital life</a>
+### <a href="https://metaadvisor.eu/news/social-media-bans-eu-ai-moderation-accounts/" target="_blank" rel="noopener">Social media bans in the EU: when AI moderation erases your digital life</a>
 
 When an automated AI system makes a wrong decision about a user, another AI often serves as the supposed “review” and confirms within seconds that the first system’s decision to keep the account blocked was correct. The user is not told what the system identified as a problem or which rule they allegedly violated.
 
@@ -97,15 +97,15 @@ The company’s employees are now making a very similar complaint. They claim th
 A particularly important question is whether an algorithm considers a person’s years of work, results, experience and reputation or bases its decision primarily on recent and easily measurable data. The same issue affects user profiles. An account that has existed for 15 or 20 years, contains thousands of legitimate posts and has never presented a serious security risk can be disabled after a single incorrect automated assessment.
 
 <div style="text-align:center; margin:24px 0;">
-  <a href="https://metaadvisor.eu/news/facebook-long-term-profiles-reputation-credit-problem/" target="_blank" rel="noopener">
+  <a href="https://metaadvisor.eu/news/facebook-long-term-profiles-no-reputation-credit-problem/" target="_blank" rel="noopener">
     <img src="/images/Meta/Facebook-blocks-long-term-profiles.png"
-         alt="Why do 15- to 20-year-old Facebook profiles receive no reputation credit?"
+         alt="Why does a 15–20 year old Facebook profile have no reputation credit?"
          loading="lazy"
          style="width:100%; max-width:520px; height:auto; border-radius:10px;">
   </a>
 </div>
 
-### <a href="https://metaadvisor.eu/news/facebook-long-term-profiles-reputation-credit-problem/" target="_blank" rel="noopener">Why do 15- to 20-year-old Facebook profiles receive no reputation credit?</a>
+### <a href="https://metaadvisor.eu/news/facebook-long-term-profiles-no-reputation-credit-problem/" target="_blank" rel="noopener">Why does a 15–20 year old Facebook profile have no reputation credit?</a>
 
 The same question arises in both cases: what is the value of a reputation built over many years when an algorithm can disregard it based on a handful of indicators that the affected person can neither see nor challenge?
 
