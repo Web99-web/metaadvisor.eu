@@ -77,9 +77,14 @@ Korisnici Facebooka i Instagrama već mjesecima, a možda i duže od godinu dana
 
 Automatizirani sustavi mogu ograničiti ili ugasiti profil, ukloniti stranicu, blokirati pristup poslovnim alatima ili izbrisati dugogodišnji digitalni identitet, često bez jasnog objašnjenja i bez stvarne mogućnosti da slučaj pregleda čovjek.
 
-<a href="https://metaadvisor.eu/hr/news/ban-drustvene-mreze-eu-ai-moderacija-racuni/" target="_blank" rel="noopener">
-  <img src="/images/Banned-from-social-media.png" alt="Ban s društvenih mreža u EU: kada AI moderacija izbriše vaš digitalni život" loading="lazy">
-</a>
+<div style="text-align:center; margin:24px 0;">
+  <a href="https://metaadvisor.eu/hr/news/ban-drustvene-mreze-eu-ai-moderacija-racuni/" target="_blank" rel="noopener">
+    <img src="/images/Banned-from-social-media.png"
+         alt="Ban s društvenih mreža u EU: kada AI moderacija izbriše vaš digitalni život"
+         loading="lazy"
+         style="width:100%; max-width:520px; height:auto; border-radius:10px;">
+  </a>
+</div>
 
 ### <a href="https://metaadvisor.eu/hr/news/ban-drustvene-mreze-eu-ai-moderacija-racuni/" target="_blank" rel="noopener">Ban s društvenih mreža u EU: kada AI moderacija izbriše vaš digitalni život</a>
 
@@ -91,9 +96,14 @@ Sada zaposlenici kompanije iznose vrlo sličnu primjedbu. Tvrde da su ocijenjeni
 
 Posebno je važno pitanje uzima li algoritam u obzir dugogodišnji rad, rezultate, iskustvo i reputaciju osobe ili odluku temelji prvenstveno na novijim i lako mjerljivim podacima. Isti problem postoji kod korisničkih profila. Profil koji postoji 15 ili 20 godina, ima tisuće legitimnih objava i nikada nije predstavljao ozbiljan sigurnosni problem može biti ugašen nakon jedne pogrešne automatizirane procjene.
 
-<a href="https://metaadvisor.eu/hr/news/facebook-dugogodisnji-profili-reputacijski-kredit-problem/" target="_blank" rel="noopener">
-  <img src="/images/Meta/Facebook-blocks-long-term-profiles.png" alt="Zašto na Facebooku profil star 15–20 godina nema reputacijski kredit?" loading="lazy">
-</a>
+<div style="text-align:center; margin:24px 0;">
+  <a href="https://metaadvisor.eu/hr/news/facebook-dugogodisnji-profili-reputacijski-kredit-problem/" target="_blank" rel="noopener">
+    <img src="/images/Meta/Facebook-blocks-long-term-profiles.png"
+         alt="Zašto na Facebooku profil star 15–20 godina nema reputacijski kredit?"
+         loading="lazy"
+         style="width:100%; max-width:520px; height:auto; border-radius:10px;">
+  </a>
+</div>
 
 ### <a href="https://metaadvisor.eu/hr/news/facebook-dugogodisnji-profili-reputacijski-kredit-problem/" target="_blank" rel="noopener">Zašto na Facebooku profil star 15–20 godina nema reputacijski kredit?</a>
 
