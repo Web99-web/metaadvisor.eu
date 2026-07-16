@@ -78,15 +78,15 @@ Facebook- und Instagram-Nutzer berichten seit Monaten, möglicherweise sogar sei
 Automatisierte Systeme können ein Profil einschränken oder deaktivieren, eine Seite entfernen, den Zugang zu geschäftlichen Tools blockieren oder eine über viele Jahre aufgebaute digitale Identität löschen. Dies geschieht häufig ohne verständliche Erklärung und ohne echte Möglichkeit, den Fall von einem Menschen prüfen zu lassen.
 
 <div style="text-align:center; margin:24px 0;">
-  <a href="https://metaadvisor.eu/de/news/sperre-soziale-netzwerke-eu-ki-moderation-konten/" target="_blank" rel="noopener">
+  <a href="https://metaadvisor.eu/de/news/sperren-soziale-netzwerke-eu-ki-moderation-konten/" target="_blank" rel="noopener">
     <img src="/images/Banned-from-social-media.png"
-         alt="Sperre in sozialen Netzwerken in der EU: Wenn KI-Moderation Ihr digitales Leben löscht"
+         alt="Sperren in sozialen Netzwerken in der EU: Wenn KI-Moderation Ihr digitales Leben löscht"
          loading="lazy"
          style="width:100%; max-width:520px; height:auto; border-radius:10px;">
   </a>
 </div>
 
-### <a href="https://metaadvisor.eu/de/news/sperre-soziale-netzwerke-eu-ki-moderation-konten/" target="_blank" rel="noopener">Sperre in sozialen Netzwerken in der EU: Wenn KI-Moderation Ihr digitales Leben löscht</a>
+### <a href="https://metaadvisor.eu/de/news/sperren-soziale-netzwerke-eu-ki-moderation-konten/" target="_blank" rel="noopener">Sperren in sozialen Netzwerken in der EU: Wenn KI-Moderation Ihr digitales Leben löscht</a>
 
 Trifft ein automatisiertes KI-System eine falsche Entscheidung über einen Nutzer, dient häufig eine zweite KI als angebliche „Kontrolle“ und bestätigt innerhalb weniger Sekunden lediglich die Entscheidung des ersten Systems, dass das Konto gesperrt bleiben soll. Dem Nutzer wird dabei weder mitgeteilt, was das System als Problem erkannt hat, noch gegen welche Regel er angeblich verstoßen hat.
 
@@ -97,15 +97,15 @@ Nun bringen Mitarbeiter des Unternehmens einen sehr ähnlichen Einwand vor. Sie 
 Besonders wichtig ist die Frage, ob ein Algorithmus langjährige Arbeit, Ergebnisse, Erfahrung und den Ruf einer Person berücksichtigt oder seine Entscheidung hauptsächlich auf neueren und leicht messbaren Daten aufbaut. Dasselbe Problem besteht bei Nutzerprofilen. Ein Profil, das seit 15 oder 20 Jahren existiert, Tausende legitime Beiträge enthält und nie ein ernsthaftes Sicherheitsproblem dargestellt hat, kann nach einer einzigen fehlerhaften automatisierten Bewertung deaktiviert werden.
 
 <div style="text-align:center; margin:24px 0;">
-  <a href="https://metaadvisor.eu/de/news/facebook-langjaehrige-profile-reputationskredit-problem/" target="_blank" rel="noopener">
+  <a href="https://metaadvisor.eu/de/news/facebook-langjaehrige-profile-kein-reputationskredit-problem/" target="_blank" rel="noopener">
     <img src="/images/Meta/Facebook-blocks-long-term-profiles.png"
-         alt="Warum erhalten 15 bis 20 Jahre alte Facebook-Profile keinen Reputationskredit?"
+         alt="Warum hat ein 15–20 Jahre altes Facebook-Profil keinen Reputationskredit?"
          loading="lazy"
          style="width:100%; max-width:520px; height:auto; border-radius:10px;">
   </a>
 </div>
 
-### <a href="https://metaadvisor.eu/de/news/facebook-langjaehrige-profile-reputationskredit-problem/" target="_blank" rel="noopener">Warum erhalten 15 bis 20 Jahre alte Facebook-Profile keinen Reputationskredit?</a>
+### <a href="https://metaadvisor.eu/de/news/facebook-langjaehrige-profile-kein-reputationskredit-problem/" target="_blank" rel="noopener">Warum hat ein 15–20 Jahre altes Facebook-Profil keinen Reputationskredit?</a>
 
 In beiden Fällen stellt sich dieselbe Frage: Welchen Wert hat ein über viele Jahre aufgebauter Ruf, wenn ein Algorithmus ihn auf Grundlage weniger Indikatoren ignorieren kann, die die betroffene Person weder sehen noch anfechten kann?
 
