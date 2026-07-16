@@ -27,9 +27,15 @@ Prema navodima iz tužbe, automatizirani sustavi nerazmjerno su pogodili zaposle
 
 Tužba je podnesena saveznom sudu u sjevernom okrugu Kalifornije nakon Metine odluke da u svibnju ukine približno **8.000 radnih mjesta**. Skupina od **26 zaposlenika** sada tvrdi da su interni AI sustavi, automatizirane ocjene radnog učinka i podaci o digitalnoj aktivnosti utjecali na to tko će biti uključen na popis za otkaz.
 
-Umjesto toga, Meta je navodno koristila kombinaciju internih sustava umjetne inteligencije, automatiziranih ocjena radnog učinka i podataka o digitalnoj aktivnosti zaposlenika. Prema tvrdnjama iz tužbe, ti su sustavi služili za bodovanje, uspoređivanje i rangiranje radnika te su mogli utjecati na to tko će biti uključen na popis za otkaz.
+Umjesto toga, Meta je navodno koristila kombinaciju internih sustava umjetne inteligencije, automatiziranih ocjena radnog učinka i podataka o digitalnoj aktivnosti zaposlenika. Prema tvrdnjama iz tužbe, ti su sustavi služili za bodovanje, uspoređivanje i rangiranje radnika te su mogli utjecati na to tko će biti uključen na popis za otkaz. Zaposlenici tvrde da su odluke s ozbiljnim posljedicama za njihov posao, prihode, zdravstveno osiguranje i boravišni status bile zasnovane na sustavima čiji način rada nisu mogli provjeriti niti učinkovito osporiti.
 
-Zaposlenici tvrde da su odluke s ozbiljnim posljedicama za njihov posao, prihode, zdravstveno osiguranje i boravišni status bile zasnovane na sustavima čiji način rada nisu mogli provjeriti niti učinkovito osporiti.
+## Je li 26 tužitelja doista konačan broj?
+
+Činjenica da je tužbu podnijelo 26 zaposlenika ne znači nužno da je samo toliko ljudi bilo pogođeno na sličan način. To je broj osoba koje su se do podnošenja tužbe uspjele međusobno pronaći, povezati s odvjetnicima i priključiti postupku.
+
+Zaposlenici velikih tehnoloških kompanija tijekom rada komuniciraju službenim e-mailovima, internim telefonskim brojevima, chatovima i zatvorenim poslovnim sustavima. Nakon otkaza pristup tim kanalima može nestati gotovo preko noći. Ako kolege ranije nisu razmijenili privatne kontakte, nakon odlaska iz kompanije može ih biti vrlo teško pronaći, osobito kada rade u različitim timovima, gradovima i saveznim državama.
+
+Zato broj tužitelja ne mora pokazivati puni razmjer problema. Može pokazivati samo koliko se ljudi u kratkom roku uspjelo ponovno povezati izvan Metine interne infrastrukture. Za sada, međutim, nema javne potvrde da postoji veća organizirana skupina zaposlenika s istim zahtjevima, pa to treba jasno predstaviti kao moguću okolnost, a ne kao utvrđenu činjenicu.
 
 {{< support1 >}}
 
