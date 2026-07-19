@@ -5,7 +5,7 @@ category: "news"
 translationKey: "5936116bb7427c0c2747470ce106e8b9"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-hacker-interview.png"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
 tags: []
 _build:
   publishResources: false
