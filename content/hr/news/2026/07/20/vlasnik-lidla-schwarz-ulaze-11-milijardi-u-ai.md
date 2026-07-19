@@ -33,7 +33,7 @@ To znači da Lidlova i Kauflandova matična kompanija više ne razvija IT sustav
 
 ## Podatkovni centar snage 200 megavata
 
-Novi kampus u Lübbenauu planiran je s ukupnim kapacitetom od 200 megavata. Prostirat će se na približno 13 hektara bivšeg industrijskog područja i trebao bi sadržavati šest zasebnih modula podatkovnog centra.
+Novi kampus podatkovnih centara u Lübbenauu planiran je s ukupnim kapacitetom od 200 megavata. Prostirat će se na približno 13 hektara bivšeg industrijskog područja i trebao bi sadržavati šest zasebnih modula podatkovnog centra.
 
 Prva faza s tri modula trebala bi biti završena do kraja 2027. godine. Nakon dovršetka cijelog projekta infrastruktura bi mogla podržavati do 100.000 grafičkih procesora, odnosno GPU-ova, koji se koriste za treniranje i pokretanje velikih modela umjetne inteligencije.
 
