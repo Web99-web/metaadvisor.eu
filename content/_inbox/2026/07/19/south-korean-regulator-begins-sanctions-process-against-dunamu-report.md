@@ -1,6 +1,6 @@
 ---
 title: "South Korean Regulator Begins Sanctions Process Against Dunamu: Report"
-date: 2026-07-19T10:17:46Z
+date: 2026-07-19T10:23:00Z
 category: "ai"
 translationKey: "ce09913e70206eb58319b77e83dd919e"
 source: "Cointelegraph"
@@ -13,9 +13,9 @@ _build:
   list: never
 ---
 
-The proceedings come as South Korea’s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and computer system incidents, leaving the scope of penalties uncertain.
+Korea’s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and similar incidents, clouding the scope of penalties facing the Upbit operator Dunamu.
 
-South Korea’s Financial Supervisory Service (FSS) has reportedly sent an inspection opinion letter to Dunamu, the operator of crypto exchange Upbit, regarding the $36 million hack from November 2025.
+South Korea’s Financial Supervisory Service (FSS) has reportedly sent an inspection opinion letter to Dunamu, the operator of crypto exchange Upbit, concerning the $36 million hack from November 2025.
 
 Local news outlet Yonhap News reported Sunday that the FSS had recently sent Dunamu an inspection opinion letter.
 
@@ -27,10 +27,10 @@ Related: Kaspersky identifies malware framework targeting crypto investors
 
 Upbit faced criticism for delaying its announcement of the $36 million exploit , according to Yonhap.
 
-The breach lasted about 54 minutes, starting at 4:42 a.m. KST on November 27, but Upbit only announced the hack at the end of the day, after a merger-related event involving internet giant Naver Financial concluded.
+The breach lasted about 54 minutes, starting at 4:42 a.m. KST on Nov. 27, 2026, but Upbit only announced the hack at the end of the day, after a merger-related event involving internet giant Naver Financial concluded.
 
 The financial regulator said it is reviewing whether the exchange violated the Virtual Asset User Protection Act, which provides no direct sanctions provisions related to cyberattacks or computer hacks.
 
 The report said South Korean authorities plan to address the regulatory gap by adding sanctions and compensation provisions for hacking and computer system failures to the second phase of the Digital Asset Basic Act.
 
-In a statement following the November exploit, Upbit said it froze approximately 2.3 billion won ($1.5 million) worth of funds. The exchange said it would fully
+Following the November exploit, Upbit said it froze approximately 2.3 billion won ($1.5 million) worth of funds. The exchange’s statement at the time said it would fully reimburse
