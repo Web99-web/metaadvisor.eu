@@ -1,7 +1,7 @@
 ---
 title: "Hacker Deletes Romania’s Land Registry?"
 slug: "hacker-deletes-romanias-land-registry"
-date: 2026-07-23T12:00:00+02:00
+date: 2026-07-23T06:00:00+02:00
 category: "cybersecurity"
 translationKey: "haker-izbrisao-rumunjski-katastar-2026-07-21"
 source: "ANCPI, The Record, Cybernews and Help Net Security"
