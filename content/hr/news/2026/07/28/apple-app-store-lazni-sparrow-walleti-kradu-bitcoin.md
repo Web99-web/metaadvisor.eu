@@ -1,4 +1,3 @@
-
 ---
 title: "Apple App Store: lažni Sparrow Walleti kradu bitcoin"
 slug: "apple-app-store-lazni-sparrow-walleti-kradu-bitcoin"
