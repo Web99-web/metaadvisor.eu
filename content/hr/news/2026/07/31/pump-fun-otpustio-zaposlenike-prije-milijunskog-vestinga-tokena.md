@@ -120,4 +120,4 @@ Ako su zaposlenici doista otpušteni neposredno prije nego što su trebali dobit
 
 **Disclaimer:** Članak je informativnog i edukativnog karaktera te ne predstavlja pravni, financijski, investicijski ili sigurnosni savjet. Informacije se temelje na javno dostupnim izvorima i nisu svi navodi nužno neovisno potvrđeni.
 
-**U suradnji s AI-jem.**
+U suradnji s AI-jem.
