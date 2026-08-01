@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "ce7312bf72b2b7400c8d9d97d08f7cc0"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-cmc-verified-info-deadline-1.png"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-fall.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false

@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Bitcoin BTC $ 62,952.70 is ending July on firmer footing than many investors might have expected.
+Bitcoin BTC $ 63,053.57 is ending July on firmer footing than many investors might have expected.
 
 Yes, it slipped below $63,000 on Friday, down about 3% on the day. But zoom out, and the largest cryptocurrency is still on track to finish the month up roughly 7.5% — a respectable showing considering the list of headwinds markets have had to absorb.
 
