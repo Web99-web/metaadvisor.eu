@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "64b48a9e05a3824dd4f37c246a892f6a"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-bank-of-italy-and-crypto-recap.png"
 tags: ["crypto"]
 _build:
   publishResources: false
