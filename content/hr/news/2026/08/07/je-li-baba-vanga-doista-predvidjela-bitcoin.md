@@ -24,7 +24,7 @@ summary: "Babi Vangi pripisuju se predviđanja ratova, katastrofa, umjetne intel
 
 Na portalima diljem svijeta redovito se pojavljuju tekstovi o tome što su Baba Vanga ili Nostradamus navodno predvidjeli za sljedeću godinu. Naslovi se mijenjaju ovisno o aktualnim događajima, ali obrazac ostaje gotovo isti: ratovi, prirodne katastrofe, gospodarske krize, umjetna inteligencija, izvanzemaljci i veliki politički preokreti.
 
-Slične članke objavljuju The Economic Times, AS, HISTORY i brojni američki i britanski tabloidi. The Guardian je u posebnoj analizi opisao kako se ime Babe Vange koristi za clickbait, širenje propagande i naknadno pripisivanje proročanstava koja često nemaju provjerljiv izvor.
+Slične članke često ili povremeno objavljuju tabloidi, ali i ozbiljni mediji poput The Economic Timesa, AS-a i HISTORY-ja, kao i brojni drugi svjetski portali.
 
 Kriptovalute su gotovo idealna nova tema za takvu vrstu sadržaja. Bitcoin je povezan s novcem, tehnologijom, financijskim krizama i velikim promjenama, pa se gotovo svaka nejasna izjava o „novom novcu” ili „padu starog sustava” može naknadno predstaviti kao proročanstvo o kriptu.
 
@@ -136,7 +136,7 @@ To samo po sebi ne sprječava ljude da njihove nejasne rečenice povezuju s mode
 
 Zato tvrdnju da je netko „predvidio Bitcoin” treba odvojiti od činjenice da je netko kasnije starom tekstu dodijelio novo značenje.
 
-Tema može biti zabavna i privući publiku, ali navodna proročanstva nisu pouzdana osnova za odluku o kupnji, prodaji ili držanju kriptoimovine.
+Tema može biti zabavna i privući publiku, ali navodna proročanstva nisu pouzdana osnova za odluku o kupnji, prodaji ili držanju kriptoimovine. The Guardian je u posebnoj analizi opisao kako se ime Babe Vange koristi za clickbait, širenje propagande i naknadno pripisivanje proročanstava koja često nemaju provjerljiv izvor.
 
 ## Naš osvrt
 
