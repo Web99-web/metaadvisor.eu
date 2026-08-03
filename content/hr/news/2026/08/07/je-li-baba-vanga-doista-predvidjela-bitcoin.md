@@ -1,7 +1,7 @@
 ---
 title: "Je li Baba Vanga doista predvidjela Bitcoin?"
 slug: "je-li-baba-vanga-doista-predvidjela-bitcoin"
-date: 2026-08-03T12:00:00+02:00
+date: 2026-08-09T06:00:00+02:00
 category: "crypto"
 translationKey: "baba-vanga-bitcoin-predvidanje-2026-08-03"
 source: "The Guardian, The Economic Times, AS, HISTORY, Snopes i javno dostupni povijesni izvori"
