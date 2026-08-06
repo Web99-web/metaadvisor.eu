@@ -13,14 +13,8 @@ _build:
   list: never
 ---
 
-Bitcoin hovered near $64,830 on Thursday, up 0.8% over 24 hours and 1.3% on the week, while trading inside a narrow band, CoinDesk data show. Ether rose 2.1%, but most other majors barely moved, leaving the market less in rally mode than in wait-and-see mode.
+The U.S.-listed spot bitcoin exchange-traded funds (ETFs) have registered a net inflow of $626 million in three days. That puts these funds on track to register their best weekly performance since early May, according to data source SoSoValue.
 
-The bid under bitcoin is coming from macro hopes rather than fresh crypto demand. President Donald Trump pointed to strong employment, better manufacturing data and cooling inflation, while also raising the possibility of a deal to reopen the Strait of Hormuz.
+Analysts say the pace of inflows needs to sustain for bitcoin to chart a meaningful rally.
 
-A reopening would likely pressure oil lower, easing inflation worries and giving Treasury yields and the dollar room to fall. That is the setup risk assets want, and bitcoin is trading like some of it may arrive.
-
-The problem is that the trade still depends on several steps lining up. Lower oil has to feed into lower inflation expectations. Lower inflation expectations have to pull down real yields and the dollar.
-
-Its roughly 63% correlation with the S&P 500 also means equity sentiment may matter more than crypto-native flows in the near term. A calmer Middle East backdrop helps risk appetite, but it can also reduce the safe-haven demand that supported bitcoin earlier in the summer.
-
-The levels to watch are real yields and the dollar. If both fall alongside oil, bitcoin has a cleaner path above the top of its recent range. If yields stay firm, the macro case remains theoretical and bitcoin likely stays pinned near
+"Several consecutive days of inflows will be needed to confirm a sustained recovery in institutional demand," Vikram Subburaj, CEO of India-based FIU-registered Giottus.com, said in an

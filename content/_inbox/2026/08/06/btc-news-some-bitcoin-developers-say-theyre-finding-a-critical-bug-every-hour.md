@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-A volunteer team has flagged 85 critical bugs across 390 bitcoin BTC $ 64,785.85 projects in a little over a day.
+A volunteer team has flagged 85 critical bugs across 390 bitcoin BTC $ 64.785,85 projects in a little over a day.
 
 Sixteen Bitcoin developers have filed 4,962 findings in a coordinated security audit, including 85 critical and 635 high-severity issues, according to Calle , the pseudonymous developer behind the Cashu ecash protocol.
 

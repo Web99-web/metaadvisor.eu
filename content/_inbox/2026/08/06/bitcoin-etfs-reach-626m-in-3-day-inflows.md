@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "1ca63d5ef35955cd97cbe9514f982644"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/magazinechina-gold.png"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin-1.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false
