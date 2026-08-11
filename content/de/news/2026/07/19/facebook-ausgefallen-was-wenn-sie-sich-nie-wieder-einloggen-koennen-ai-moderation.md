@@ -109,11 +109,11 @@ Einer der bekanntesten Fälle betrifft Eric Cunningham, einen Lehrer aus Chicago
 Metaadvisor hat bereits früher über die Probleme der AI-Moderation und die wachsende Zahl von Nutzern berichtet, die nach eigenen Angaben ihre Konten verloren haben, ohne mit einem Mitarbeiter des Supports sprechen zu können.
 
 <figure style="max-width:620px; margin:26px auto; text-align:center;">
-  <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ai-moderation/" target="_blank" rel="noopener">
+  <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener">
     <img src="/images/Social-networking-erased-destroyed.png" alt="Meta AI-Moderation und digitaler Ausschluss von Nutzern" style="width:100%; height:auto; border-radius:12px;">
   </a>
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ai-moderation/" target="_blank" rel="noopener">
+    <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener">
       Meta Oversight Board: AI-Moderation und der digitale Ausschluss von Nutzern
     </a>
   </figcaption>
