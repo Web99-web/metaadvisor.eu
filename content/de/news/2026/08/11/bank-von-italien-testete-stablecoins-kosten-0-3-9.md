@@ -1,7 +1,7 @@
 ---
 title: "Bank von Italien testete Stablecoins: Kosten 0,3–9%"
 slug: "bank-von-italien-testete-stablecoins-kosten-0-3-9"
-date: 2026-08-12T06:00:00+02:00
+date: 2026-08-11T06:00:00+02:00
 category: "crypto"
 translationKey: "banka-italije-testirala-stablecoine-trosak-2026-08-12"
 source: "Banca d’Italia, Weltbank und öffentlich verfügbare Berichte zur Studie"
