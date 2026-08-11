@@ -52,7 +52,7 @@ Raspon od 0,3% do gotovo 9% pokazuje koliko se rezultat može razlikovati od jed
 
 Ipak, iz istraživanja ne proizlazi da su stablecoin doznake općenito preskupe. Kada ih se usporedi s globalnim prosjekom tradicionalnih međunarodnih doznaka koji je korišten kao referentna vrijednost, stablecoin transferi bili su jeftiniji u većini analiziranih koridora.
 
-Slika se mijenja kada se stablecoini usporede s učinkovitijim fintech servisima. Prema rezultatima istraživanja, stablecoin ruta bila je jeftinija od Wisea u samo tri od sedam koridora u kojima je bilo moguće napraviti izravnu usporedbu.
+Slika se mijenja kada se stablecoini usporede s učinkovitijim fintech servisima poput Wisea, međunarodne platforme za slanje novca i konverziju valuta. Prema rezultatima istraživanja, stablecoin ruta bila je jeftinija od Wisea u samo tri od sedam koridora u kojima je bilo moguće napraviti izravnu usporedbu.
 
 To je važna nijansa. Stablecoini mogu imati veliku prednost ondje gdje su tradicionalne međunarodne doznake skupe, ali nisu automatski jeftiniji od najboljih postojećih digitalnih platnih servisa.
 
