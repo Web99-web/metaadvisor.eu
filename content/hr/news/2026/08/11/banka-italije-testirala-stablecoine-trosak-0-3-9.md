@@ -1,7 +1,7 @@
 ---
 title: "Banka Italije testirala stablecoine: trošak 0,3–9%"
 slug: "banka-italije-testirala-stablecoine-trosak-0-3-9"
-date: 2026-08-12T06:00:00+02:00
+date: 2026-08-11T06:00:00+02:00
 category: "crypto"
 translationKey: "banka-italije-testirala-stablecoine-trosak-2026-08-12"
 source: "Banca d’Italia, World Bank i javno dostupni izvještaji o istraživanju"
