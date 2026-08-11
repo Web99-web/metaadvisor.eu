@@ -109,11 +109,11 @@ One of the best-known cases involves Eric Cunningham, a teacher from Chicago. He
 Metaadvisor has previously reported on the problems caused by AI moderation and the growing number of users who say they lost access to their accounts without being able to speak to a human support representative.
 
 <figure style="max-width:620px; margin:26px auto; text-align:center;">
-  <a href="https://metaadvisor.eu/news/meta-oversight-board-problem-ai-moderation/" target="_blank" rel="noopener">
+  <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">
     <img src="/images/Social-networking-erased-destroyed.png" alt="Meta AI moderation and the digital removal of users" style="width:100%; height:auto; border-radius:12px;">
   </a>
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    <a href="https://metaadvisor.eu/news/meta-oversight-board-problem-ai-moderation/" target="_blank" rel="noopener">
+    <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">
       Meta Oversight Board: AI moderation and the digital exclusion of users
     </a>
   </figcaption>
