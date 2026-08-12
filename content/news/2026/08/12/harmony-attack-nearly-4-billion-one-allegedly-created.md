@@ -22,7 +22,7 @@ summary: "Harmony has asked exchanges to freeze funds, paused its bridge and is 
 
 # Harmony confirms attack: Nearly 4 billion ONE allegedly created
 
-Harmony is facing a serious security incident following claims that an attacker managed to create nearly **four billion new ONE tokens without authorization** – an amount equivalent to approximately **26 percent of the token’s previous supply**.
+Harmony is a Layer-1 blockchain network for decentralized applications, whose native ONE token is used for transactions and securing the network. Harmony is facing a serious security incident following claims that an attacker managed to create nearly **four billion new ONE tokens without authorization** – an amount equivalent to approximately **26 percent of the token’s previous supply**.
 
 Harmony has confirmed that it is investigating the incident and taking emergency measures, but so far it has not confirmed the exact cause of the attack, the number of newly created tokens or the amount that reached exchanges.
 
