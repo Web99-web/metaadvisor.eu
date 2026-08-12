@@ -22,7 +22,7 @@ summary: "Harmony hat Börsen aufgefordert, Gelder einzufrieren, seine Bridge pa
 
 # Harmony bestätigt Angriff: Angeblich 4 Milliarden ONE erzeugt
 
-Harmony sieht sich mit einem schweren Sicherheitsvorfall konfrontiert, nachdem behauptet wurde, ein Angreifer habe unautorisiert fast **vier Milliarden neue ONE-Token** erzeugt – eine Menge, die etwa **26 Prozent des bisherigen Token-Angebots** entspricht.
+Harmony ist ein Layer-1-Blockchain-Netzwerk für dezentrale Anwendungen, dessen nativer ONE-Token für Transaktionen und zur Sicherung des Netzwerks verwendet wird. Harmony sieht sich mit einem schweren Sicherheitsvorfall konfrontiert, nachdem behauptet wurde, ein Angreifer habe unautorisiert fast **vier Milliarden neue ONE-Token** erzeugt – eine Menge, die etwa **26 Prozent des bisherigen Token-Angebots** entspricht.
 
 Harmony hat bestätigt, dass der Vorfall untersucht und Notfallmaßnahmen ergriffen werden. Bislang hat das Projekt jedoch weder die genaue Ursache des Angriffs noch die Zahl der neu erzeugten Token oder die Menge bestätigt, die auf Börsen gelangt sein soll.
 
