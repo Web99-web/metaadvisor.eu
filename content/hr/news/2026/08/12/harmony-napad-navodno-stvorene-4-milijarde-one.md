@@ -22,7 +22,7 @@ summary: "Harmony je zatražio od burzi zamrzavanje sredstava, zaustavio bridge 
 
 # Harmony potvrdio napad: navodno stvorene 4 milijarde ONE
 
-Harmony se suočava s ozbiljnim sigurnosnim incidentom nakon tvrdnji da je napadač uspio neovlašteno stvoriti gotovo **četiri milijarde novih ONE tokena** – količinu koja odgovara približno **26 posto dotadašnje ponude tokena**.
+Harmony je Layer-1 blockchain mreža za decentralizirane aplikacije, čiji se izvorni ONE token koristi za transakcije i osiguravanje mreže. Harmony se suočava s ozbiljnim sigurnosnim incidentom nakon tvrdnji da je napadač uspio neovlašteno stvoriti gotovo **četiri milijarde novih ONE tokena** – količinu koja odgovara približno **26 posto dotadašnje ponude tokena**.
 
 Harmony je potvrdio da istražuje incident i poduzima hitne mjere, ali zasad nije potvrdio točan uzrok napada, broj novostvorenih tokena niti količinu koja je završila na burzama.
 
