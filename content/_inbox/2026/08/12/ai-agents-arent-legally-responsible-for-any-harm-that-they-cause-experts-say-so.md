@@ -13,7 +13,9 @@ _build:
   list: never
 ---
 
-Following Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their bots
+After Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their bots
+
+Follow our Australia news live blog for latest updates
 
 Get our breaking news email , free app or daily news podcast
 
@@ -21,7 +23,7 @@ The law is clear, says Prof Jeannie Paterson. “If I deploy an AI agent and it 
 
 “Even if I didn’t intend for that to happen, it was foreseeable, and I should be taking responsibility.”
 
-However, the director of the University of Melbourne’s Centre for AI and Digital Ethics acknowledges there is also a good deal of scope for legal and ethical “murkiness” around actions perpetrated by automated agents, in the wake of Australia’s first known agentic AI “accident”.
+However, the director of the University of Melbourne’s Centre for AI and Digital Ethics acknowledges there is also a good deal of scope for legal and ethical “murkiness” around actions perpetrated by automated agents, after Australia’s first known agentic AI “accident”.
 
 An agent is an autonomous software system that, tasked with pursuing a goal, can do it without human oversight – every step of the way.
 
@@ -35,6 +37,4 @@ To his shock, his agent hacked his gym’s software system and booted another me
 
 “Worse, it could cancel other members’ reservations and bump them off the waitlist.”
 
-The agent was being helpful, he wrote, but his experience showed that if you gave an AI permission to do something for you, it would “often discover paths you did not explicitly ask it to look for”.
-
-Andrew asked the agent to
+The agent was being helpful, he wrote, but his experience showed that if you gave an AI permission to do something for you, it would “often discover paths you did not explicitly ask it
