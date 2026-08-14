@@ -85,7 +85,7 @@ Gleichzeitig finden fundamental einige der interessantesten Entwicklungen der ve
 
 Der Markt wirkt deshalb derzeit eher wie eine Phase selektiver Kapitalrotation als wie eine Situation, in der Bitcoin steigt oder fällt und sämtliche anderen Token ihm einfach in dieselbe Richtung folgen.
 
-{{< support3 >}}
+{{< support2 >}}
 
 ## Unsere Einschätzung
 
