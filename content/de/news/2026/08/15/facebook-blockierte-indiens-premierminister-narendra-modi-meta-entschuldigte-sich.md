@@ -53,7 +53,7 @@ Die Nachricht über die dauerhafte Deaktivierung enthält weder den Namen der Pe
 
 ## Ein Facebook-Ban ist längst nicht mehr nur ein verlorenes Profil
 
-Wir verfolgen dieses Thema bei Metaadvisor bereits seit Monaten. Und je länger wir es untersuchen, desto stärker kommen wir zu dem Schluss, dass es wesentlich mehr solcher Fälle gibt, als die meisten Menschen überhaupt verstehen.
+Wir verfolgen dieses Thema bei Metaadvisor bereits seit Monaten. Und je mehr wir darüber recherchieren, desto stärker kommen wir zu dem Schluss, dass es wesentlich mehr solcher Fälle gibt, als die meisten Menschen überhaupt verstehen.
 
 Darüber haben wir bereits im Artikel <a href="https://metaadvisor.eu/de/news/recht-auf-information-facebook-ban-ist-nicht-nur-ein-verlorenes-profil/" target="_blank" rel="noopener"><strong>Recht auf Information: Ein Facebook-Ban ist nicht mehr nur ein verlorenes Profil</strong></a> berichtet.
 
@@ -61,9 +61,11 @@ Darüber haben wir bereits im Artikel <a href="https://metaadvisor.eu/de/news/re
 <img src="/images/Meta/Facebook-bans.png" alt="Facebook-Ban und das Recht des Menschen auf Information" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
 </a>
 
-Ein dauerhafter Ausschluss kann buchstäblich innerhalb einer Sekunde erfolgen. Ein Nutzer, der noch wenige Augenblicke zuvor ganz normal mit Freunden gesprochen, Gruppen oder Seiten verwaltet und Messenger genutzt hat, ist plötzlich nicht mehr drin. Er hat keine Zeit, Freunde darüber zu informieren, was passiert ist. Keine Zeit, einen anderen Kontakt zu hinterlassen. Keine Zeit, Menschen, mit denen er vielleicht jahrelang kommuniziert hat, mitzuteilen, dass sie ihn auf Facebook nicht mehr finden werden.
+Ein dauerhafter Ausschluss kann buchstäblich innerhalb einer Sekunde erfolgen. Ein Nutzer, der nur wenige Augenblicke zuvor mit Freunden gesprochen, Gruppen oder Seiten verwaltet und Messenger genutzt hat, ist plötzlich nicht mehr drin. Er hat keine Zeit, Freunde zu warnen, eine andere Kontaktmöglichkeit zu hinterlassen oder Menschen, die er vielleicht seit Jahren kennt, zu erklären, dass Facebook ihn entfernt hat.
 
-Für seine Kontakte verschwindet er einfach.
+**Für seine Kontakte verschwindet er einfach — und Facebook erklärt diesen Menschen nicht, warum.** **Das Verschwinden kann freiwillig wirken: Freunde könnten glauben, die Person habe sie als Freunde entfernt, ghoste sie oder habe sie absichtlich blockiert.** Das ist besonders nach den Covid-Jahren wichtig, als sich ein großer Teil der Welt ins Internet verlagerte und Freundschaften, berufliche Kontakte und ganze Gemeinschaften über Facebook und Messenger aufgebaut wurden. Manche dieser Menschen leben möglicherweise Tausende Kilometer voneinander entfernt und haben weder Telefonnummer noch E-Mail-Adresse oder irgendeine andere Möglichkeit, wieder Kontakt aufzunehmen.
+
+**Facebook entfernt nicht nur die Person. Es kann auch die Erklärung für ihr Verschwinden entfernen.**
 
 Genau deshalb ist ein dauerhafter Ausschluss aus einem der größten sozialen Netzwerke der Welt längst nicht mehr nur die Frage eines verlorenen Profils. Es geht um den Zugang zu Kommunikation, Menschen und Informationen.
 
@@ -202,6 +204,37 @@ Wir brauchen nicht nur neue Protokolle für „prominent persons“.
 Denn das Recht auf eine klare Begründung, eine faire Beschwerde und ein Gespräch mit einem echten Menschen darf nicht davon abhängen, ob jemand Premierminister oder ein völlig unbekannter Facebook-Nutzer ist.
 
 **Wenn Facebook bei Modi einen Fehler machte, sich entschuldigte und seine Protokolle änderte – warum sollen normale Menschen einfach aus dem „sozialen Netzwerk“ verschwinden?**
+
+## Wenn Sie online keinen Menschen erreichen können, können Sie Meta immer noch schreiben
+
+Für Nutzer, die am Ende des automatisierten Beschwerdeverfahrens von Facebook angekommen sind und keinen Menschen finden, an den sie sich wenden können, gibt es noch eine altmodische Möglichkeit: **Post auf Papier**.
+
+Meta selbst veröffentlicht Postanschriften seiner Unternehmen.
+
+**Für Nutzer in der europäischen Region:**
+
+Meta Platforms Ireland Limited<br>
+ATTN: Operations<br>
+Merrion Road<br>
+Dublin 4<br>
+D04 X2K5<br>
+Ireland
+
+**Meta Platforms, Inc. — Vereinigte Staaten:**
+
+Meta Platforms, Inc.<br>
+1 Meta Way<br>
+Menlo Park, CA 94025<br>
+USA
+
+Das Versenden eines Briefes garantiert weder, dass ein Konto wiederhergestellt wird, noch überhaupt, dass Meta antwortet. Nutzer, die sich dennoch dafür entscheiden, sollten ihren vollständigen Namen, die mit dem deaktivierten Konto verknüpfte E-Mail-Adresse und Telefonnummer, den Namen des Facebook-Profils oder die URL, falls bekannt, das Datum der Sperre, die von Facebook gegebene Begründung sowie den Verlauf des Beschwerdeverfahrens klar angeben.
+
+Bei wichtiger Korrespondenz kann es außerdem sinnvoll sein, eine Kopie des Schreibens und einen Zustellnachweis aufzubewahren.
+
+Es hat fast etwas Symbolisches, zur Papierpost zurückkehren zu müssen, um eines der größten Technologieunternehmen der Welt überhaupt erreichen zu können.
+
+Und es wäre sicherlich interessant zu sehen, was passieren würde, wenn die Menge der Post, die in Metas Büros eintrifft, irgendwann die tatsächliche Zahl der Menschen widerspiegeln würde, die nach eigenen Angaben dauerhaft von Facebook ausgeschlossen wurden, ohne jemals die Möglichkeit gehabt zu haben, mit einem menschlichen Kundendienst zu sprechen.
+
 
 ## Unsere Einschätzung
 
