@@ -214,18 +214,18 @@ Meta itself publishes postal contact addresses for its companies.
 
 **For users in the European region:**
 
-Meta Platforms Ireland Limited
-ATTN: Operations
-Merrion Road
-Dublin 4
-D04 X2K5
+Meta Platforms Ireland Limited<br>
+ATTN: Operations<br>
+Merrion Road<br>
+Dublin 4<br>
+D04 X2K5<br>
 Ireland
 
 **Meta Platforms, Inc. — United States:**
 
-Meta Platforms, Inc.
-1 Meta Way
-Menlo Park, CA 94025
+Meta Platforms, Inc.<br>
+1 Meta Way<br>
+Menlo Park, CA 94025<br>
 USA
 
 Sending a letter does not guarantee that an account will be restored or even that Meta will respond. But users who decide to write may want to clearly state their full name, the email address and phone number connected to the disabled account, the Facebook profile name or URL if known, the date of the suspension, what explanation Facebook provided, and what happened during the appeal process.
