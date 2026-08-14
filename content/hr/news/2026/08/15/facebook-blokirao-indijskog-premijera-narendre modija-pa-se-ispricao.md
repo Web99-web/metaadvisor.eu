@@ -50,7 +50,7 @@ Poruka o trajnoj deaktivaciji ne daje mu ime osobe koja je donijela odluku, kont
 
 {{< support1 >}}
 
-## Ban više nije samo izgubljeni Facebook profil
+## Facebook ban ili trajno isključenje, više nije samo izgubljeni profil
 
 Ovu temu na Metaadvisoru pratimo već mjesecima i što je više istražujemo, to više zaključujemo da ovakvih slučajeva ima mnogo više nego što većina ljudi uopće razumije.
 
@@ -60,9 +60,11 @@ O tome smo već pisali u članku <a href="https://metaadvisor.eu/hr/news/pravo-c
 <img src="/images/Meta/Facebook-bans.png" alt="Facebook ban i pravo čovjeka na informacije" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
 </a>
 
-Trajno isključenje može se dogoditi doslovno u sekundi. Korisnik koji je prije nekoliko trenutaka normalno razgovarao s prijateljima, upravljao grupama ili stranicama i koristio Messenger odjednom više nije unutra. Ne stigne upozoriti prijatelje što se dogodilo. Ne stigne ostaviti drugi kontakt. Ne stigne ljudima s kojima je možda godinama komunicirao napisati da ga više neće moći pronaći na Facebooku.
+Trajno isključenje može se dogoditi doslovno u sekundi. Korisnik koji je samo nekoliko trenutaka ranije razgovarao s prijateljima, upravljao grupama ili stranicama i koristio Messenger odjednom više nije unutra. Ne stigne upozoriti prijatelje, ostaviti drugi način kontakta ili objasniti ljudima koje možda poznaje godinama da ga je Facebook uklonio.
 
-Za njegove kontakte on jednostavno - nestane.
+**Za njegove kontakte on jednostavno nestane — a Facebook tim ljudima ne kaže zašto.** **Nestanak može izgledati dobrovoljno: prijatelji mogu pomisliti da ih je osoba uklonila iz prijatelja, počela ignorirati ili namjerno blokirala.** To je posebno važno nakon godina Covida, kada se velik dio svijeta preselio online, a prijateljstva, poslovni kontakti i cijele zajednice gradili su se preko Facebooka i Messengera. Neki od tih ljudi mogu živjeti tisućama kilometara daleko i nemati broj telefona, e-mail adresu ili bilo koji drugi način da ponovno uspostave kontakt.
+
+**Facebook ne uklanja samo osobu. Može ukloniti i objašnjenje njezina nestanka.**
 
 Upravo zato trajno isključenje s jedne od najvećih društvenih mreža na svijetu više nije samo pitanje izgubljenog profila. To postaje pitanje pristupa komunikaciji, ljudima i informacijama.
 
@@ -201,6 +203,36 @@ Ne trebaju nam samo novi protokoli za “prominent persons”.
 Jer pravo na jasno objašnjenje, poštenu žalbu i razgovor sa stvarnim čovjekom ne bi smjelo ovisiti o tome jeste li premijer ili potpuno nepoznati korisnik Facebooka.
 
 **Ako je Facebook pogriješio kod Modija, ispričao se i promijenio protokole, zašto bi obični ljudi morali samo nestati sa 'društvene mreže'?**
+
+## Ako ne možete doći do čovjeka online, još uvijek možete pisati Meti
+
+Za korisnike koji su došli do kraja Facebookova automatiziranog žalbenog postupka i ne mogu pronaći stvarnu osobu kojoj bi se obratili, još uvijek postoji jedna staromodna mogućnost: **poštansko pismo**.
+
+Meta sama objavljuje poštanske adrese svojih kompanija.
+
+**Za korisnike u europskoj regiji:**
+
+Meta Platforms Ireland Limited<br>
+ATTN: Operations<br>
+Merrion Road<br>
+Dublin 4<br>
+D04 X2K5<br>
+Ireland
+
+**Meta Platforms, Inc. — Sjedinjene Američke Države:**
+
+Meta Platforms, Inc.<br>
+1 Meta Way<br>
+Menlo Park, CA 94025<br>
+USA
+
+Slanje pisma ne jamči da će račun biti vraćen, pa čak ni da će Meta odgovoriti. Ali korisnici koji odluče pisati trebali bi jasno navesti svoje puno ime i prezime, e-mail adresu i broj telefona povezane s deaktiviranim računom, naziv Facebook profila ili URL ako ga znaju, datum suspenzije, objašnjenje koje je Facebook dao te što se dogodilo tijekom žalbenog postupka.
+
+Kod važne korespondencije korisno je sačuvati kopiju pisma i dokaz o dostavi.
+
+Postoji nešto gotovo simbolično u tome da se morate vratiti papirnatoj pošti kako biste pokušali doći do jedne od najvećih tehnoloških kompanija na svijetu.
+
+I bilo bi svakako zanimljivo vidjeti što bi se dogodilo kada bi količina pošte koja stiže u Metine urede počela odražavati stvaran broj ljudi koji tvrde da su trajno uklonjeni s Facebooka, a da nikada nisu dobili mogućnost razgovarati s ljudskom korisničkom podrškom.
 
 ## Naš osvrt
 
