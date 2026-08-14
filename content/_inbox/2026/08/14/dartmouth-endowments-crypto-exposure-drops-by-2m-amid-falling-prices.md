@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "f495b09375d6b97378b5f90be8d97902"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-5-ways-to-make-money-with-cryptocurrency-ai.png"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-can-actually-make-a-difference-by-helping-people-binance.png"
 tags: ["crypto"]
 _build:
   publishResources: false

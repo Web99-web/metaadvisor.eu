@@ -13,7 +13,7 @@ _build:
   list: never
 ---
 
-Strategy MSTR $ 92.15 has pushed back against MSCI’s proposed methodology for identifying “non-operating companies,” which could result in the largest bitcoin treasury company being removed from the index provider’s global equity indexes.
+Strategy MSTR $ 93.05 has pushed back against MSCI’s proposed methodology for identifying “non-operating companies,” which could result in the largest bitcoin treasury company being removed from the index provider’s global equity indexes.
 
 Strategy said on X , “Digital assets are assets. Index providers should measure markets, not decide which assets companies are allowed to own,” Strategy said. “MSCI’s proposal puts it out of step with regulators, markets, and its own customers. Bitcoin doesn’t need MSCI. Neither does Strategy.”
 

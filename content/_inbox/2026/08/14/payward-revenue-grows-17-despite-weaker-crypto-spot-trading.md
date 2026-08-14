@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "95b5f9d9388278aa680a63fbf36d6c77"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/studentcoinman.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-can-actually-make-a-difference-by-helping-people-binance.png"
 tags: ["crypto"]
 _build:
   publishResources: false

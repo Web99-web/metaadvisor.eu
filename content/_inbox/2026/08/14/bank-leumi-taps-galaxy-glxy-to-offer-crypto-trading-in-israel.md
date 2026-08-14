@@ -15,7 +15,7 @@ _build:
 
 Bank Leumi, Israel’s largest bank, will offer cryptocurrency trading to customers from early 2027 becoming the first Israeli bank to announce such a service.
 
-Customers of Leumi and its mobile banking unit, Pepper, will be able to buy, hold and sell bitcoin BTC $ 62,821.41 , ether ETH $ 1,874.33 and solana (SOL) through a section of the Leumi Trade app, according to a Friday announcement.
+Customers of Leumi and its mobile banking unit, Pepper, will be able to buy, hold and sell bitcoin BTC $ 62,759.31 , ether ETH $ 1,875.45 and solana (SOL) through a section of the Leumi Trade app, according to a Friday announcement.
 
 Galaxy Digital (GLXY) will provide trading and services through GalaxyOne Institutional, its platform for banks and asset managers. Leumi has also signed an agreement to use Galaxy’s custody infrastructure, formerly known as GK8, to support the offering.
 
