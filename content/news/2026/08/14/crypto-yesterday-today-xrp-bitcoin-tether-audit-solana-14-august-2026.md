@@ -85,7 +85,7 @@ At the same time, some of the most interesting fundamental developments in recen
 
 The market currently looks more like a period of selective capital rotation than a situation in which Bitcoin simply rises or falls and every other token follows in the same direction.
 
-{{< support3 >}}
+{{< support2 >}}
 
 ## Our take
 
