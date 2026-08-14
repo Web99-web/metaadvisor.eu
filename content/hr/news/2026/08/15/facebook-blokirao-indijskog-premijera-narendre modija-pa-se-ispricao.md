@@ -26,7 +26,7 @@ Možda je mnogim ljudima u svijetu promakla neobična vijest iz Indije. Facebook
 
 U isto vrijeme Facebook zbog moderacijskih odluka privremeno ili trajno briše profile običnih ljudi — uključujući korisnike koji su na toj društvenoj mreži proveli 15 ili 20 godina. Zabrana može stići u sekundi: račun je deaktiviran, korisnik izbačen s Facebooka, a godine fotografija, poruka, kontakata, grupa, stranica i poslovnih veza odjednom postaju nedostupne. **KRAJ!**
 
-I pritom korisnik često ne sazna **što je konkretno napravio**. Umjesto toga dobiva generičku poruku poput: **“We've disabled your account”**, uz općenitu tvrdnju da račun “doesn't follow our Community Standards on account integrity” — bez navođenja konkretne objave, komentara, fotografije ili postupka zbog kojeg je nakon desetljeća korištenja mreže izbačen.
+I pritom korisnik često ne sazna **što je konkretno napravio**. Umjesto toga dobiva generičku poruku poput: **“We've disabled your account”**, uz općenitu tvrdnju da račun “doesn't follow our Community Standards on account integrity” - bez navođenja konkretne objave, komentara, fotografije ili postupka zbog kojeg je nakon desetljeća korištenja mreže izbačen.
 
 A zatim može stići još jedna rečenica:
 
@@ -62,7 +62,7 @@ O tome smo već pisali u članku <a href="https://metaadvisor.eu/hr/news/pravo-c
 
 Trajno isključenje može se dogoditi doslovno u sekundi. Korisnik koji je prije nekoliko trenutaka normalno razgovarao s prijateljima, upravljao grupama ili stranicama i koristio Messenger odjednom više nije unutra. Ne stigne upozoriti prijatelje što se dogodilo. Ne stigne ostaviti drugi kontakt. Ne stigne ljudima s kojima je možda godinama komunicirao napisati da ga više neće moći pronaći na Facebooku.
 
-Za njegove kontakte on jednostavno — nestane.
+Za njegove kontakte on jednostavno - nestane.
 
 Upravo zato trajno isključenje s jedne od najvećih društvenih mreža na svijetu više nije samo pitanje izgubljenog profila. To postaje pitanje pristupa komunikaciji, ljudima i informacijama.
 
@@ -90,7 +90,7 @@ Drugim riječima, više uopće ne govorimo o nekoliko ljutitih korisnika koji se
 
 Ne znamo koliko je među tim milijardama deaktiviranih računa stvarnih ljudi koji su pogrešno trajno blokirani. Meta taj broj javnosti ne daje. Ne možemo zato odgovorno tvrditi je li riječ o 100.000, milijun ili više stvarnih korisnika. Ali upravo je to dio problema: platforma koja godišnje deaktivira račune u milijardama ne objavljuje koliko je tih odluka naknadno utvrđeno kao pogrešno i koliko je stvarnih ljudi nakon pogreške uspjelo vratiti svoj digitalni život.
 
-Meta je, primjerice, sama objavila da je samo tijekom 2025. automatski uklonila više od četiri milijuna računa koje su njezini sustavi označili kao sumnjive u okviru borbe protiv seksualnog iskorištavanja djece. To ne znači da su ti računi bili pogrešno blokirani — riječ je o iznimno ozbiljnoj kategoriji u kojoj je uklanjanje stvarnih počinitelja nužno. Ali podatak pokazuje nešto drugo: odluke o uklanjanju milijuna računa već se donose automatski i u ogromnim razmjerima.
+Meta je, primjerice, sama objavila da je samo tijekom 2025. automatski uklonila više od četiri milijuna računa koje su njezini sustavi označili kao sumnjive u okviru borbe protiv seksualnog iskorištavanja djece. To ne znači da su ti računi bili pogrešno blokirani - riječ je o iznimno ozbiljnoj kategoriji u kojoj je uklanjanje stvarnih počinitelja nužno. Ali podatak pokazuje nešto drugo: odluke o uklanjanju milijuna računa već se donose automatski i u ogromnim razmjerima.
 
 Istodobno su se pojavljivali i ljudi koji tvrde da su dobivali suspenzije zbog potpuno bezazlenog sadržaja, pa čak i obiteljskih fotografija s godišnjih odmora.
 
@@ -128,13 +128,13 @@ Postoji još jedna posljedica o kojoj se gotovo uopće ne govori. Ako Meta deakt
 
 **A stvarni ljudi su i birači.**
 
-Političari, vlade, ministarstva, gradovi, stranke, mediji i javne institucije danas koriste Facebook kako bi informacije objavili instantno — često prije nego što ih građanin vidi na televiziji, portalu ili u novinama. Kampanje se vode na društvenim mrežama, premijeri i predsjednici ondje se izravno obraćaju biračima, a objavljuju se političke poruke, upozorenja, konferencije za novinare, promjene zakona, krizne informacije i reakcije na događaje koji se upravo odvijaju.
+Političari, vlade, ministarstva, gradovi, stranke, mediji i javne institucije danas koriste Facebook kako bi informacije objavili instantno - često prije nego što ih građanin vidi na televiziji, portalu ili u novinama. Kampanje se vode na društvenim mrežama, premijeri i predsjednici ondje se izravno obraćaju biračima, a objavljuju se političke poruke, upozorenja, konferencije za novinare, promjene zakona, krizne informacije i reakcije na događaje koji se upravo odvijaju.
 
 Kada stvarnog čovjeka trajno izbacite iz Facebooka, on zato ne prestaje biti samo korisnik društvene mreže. **On prestaje biti politički izložen dijelu informacija koje drugi birači dobivaju odmah.**
 
 Privatna kompanija svojom moderacijskom odlukom tako može odlučiti da jedan birač više nije dio digitalne publike kojoj se svakodnevno obraćaju političari i institucije.
 
-Ako je blokada opravdana zbog teškog kršenja pravila, to je jedna stvar. Ali ako je sustav pogriješio, tada stvarnog čovjeka nismo samo neopravdano utišali. Izbacili smo ga i iz dijela političkog i medijskog prostora u kojem se sve više odvija moderno demokratsko društvo — a taj birač možda nikada neće dobiti priliku objasniti pogrešku stvarnom čovjeku u Meti.
+Ako je blokada opravdana zbog teškog kršenja pravila, to je jedna stvar. Ali ako je sustav pogriješio, tada stvarnog čovjeka nismo samo neopravdano utišali. Izbacili smo ga i iz dijela političkog i medijskog prostora u kojem se sve više odvija moderno demokratsko društvo - a taj birač možda nikada neće dobiti priliku objasniti pogrešku stvarnom čovjeku u Meti.
 
 ## Jedna pravila za važne, druga za obične ljude?
 
@@ -148,17 +148,17 @@ Državni zakoni trebali bi vrijediti jednako za premijera, milijardera, glumca i
 
 Današnji anonimni korisnik sutra može postati novinar, poduzetnik, umjetnik, aktivist, političar — ili budući premijer. Nitko se nije rodio s oznakom “prominent person”.
 
-## EU ima zaštitu — ali odluka može ostati mrtvo slovo na papiru
+## EU se pravi da ima zaštitu korisnika od Big Tech, ali zapravo nema — jer odluke mogu ostati mrtvo slovo na papiru
 
 Ovdje vrijedi pogledati i što se događa u Europskoj uniji, koja se godinama predstavlja kao predvodnik u reguliranju Big Techa.
 
 EU je kroz Digital Services Act korisnicima dao mogućnost obraćanja certificiranim tijelima za izvansudsko rješavanje sporova. Jedno od njih je **Appeals Centre Europe**, smješten u Irskoj, kao i europsko sjedište Mete.
 
-Problem je gotovo nevjerojatan: Appeals Centre može pregledati slučaj, uključiti ljudskog pregledavatelja i čak odlučiti da je platforma pogriješila, ali njegova odluka **nije obvezujuća**. Na platformi na kraju ostaje hoće li tu odluku provesti.
+Problem je gotovo nevjerojatan: Appeals Centre može pregledati slučaj, uključiti ljudskog pregledavatelja i čak odlučiti da je platforma pogriješila, ali njegova odluka **nije obvezujuća**. Na platformi na kraju ostaje hoće li tu odluku provesti - ili jednostavno ignorirati bez posljedica.
 
-Platforma mora sudjelovati u postupku, ali korisnik može ostati s odlukom u svoju korist — i bez vraćenog računa.
+Platforma mora sudjelovati u postupku, ali može se i ne odazvati pozivu? a korisnik može ostati s odlukom u svoju korist - ali i bez vraćenog računa. Zapravo dobije papir sa kojim ne može ništa.
 
-Sustav ima još jednu gotovo satiričnu dimenziju: obradu sporova financiraju naknade koje plaćaju same tehnološke platforme protiv čijih se odluka korisnici žale.
+Sustav ima još jednu gotovo satiričnu dimenziju: Appeals Centre Europe naknade za obradu sporova financiraju same Big Tech tehnološke platforme protiv čijih se odluka korisnici žale.
 
 **Životna politička satira, a ne stvarna zaštita ljudi od Big Techa.**
 
@@ -172,11 +172,11 @@ Možda će Narendra Modi i indijska vlada biti uspješniji nego što je dosad bi
 
 ## Modi je na vlastitoj koži osjetio šok blokade
 
-Narendra Modi sada je barem nakratko na vlastitoj koži osjetio ono što možda stotine tisuća ili već milijuni običnih ljudi diljem svijeta doživljavaju: **šok i nevjericu kada Facebook odjednom blokira sadržaj ili račun — i pitanje: što se upravo dogodilo?**
+Narendra Modi sada je barem nakratko na vlastitoj koži osjetio ono što možda stotine tisuća ili već milijuni običnih ljudi diljem svijeta doživljavaju: **šok i nevjericu kada Facebook odjednom blokira sadržaj ili račun - i pitanje: što se upravo dogodilo?**
 
 Modi je, za razliku od njih, imao mogućnost dobiti odgovor. Njegova vlada mogla je pozvati Metu, zatražiti objašnjenje i dobiti ispriku.
 
-Možda je indijska vlada objašnjenje da je riječ o “operational error” prihvatila jer prije ovog slučaja nije bila svjesna razmjera trajnih isključenja običnih korisnika. Ali ako je o njima bila obaviještena — ili sada postane svjesna koliko se takvih slučajeva prijavljuje diljem svijeta — onda priča više ne može završiti samo time da Meta ubuduće bolje zaštiti premijera i druge “prominent persons”.
+Možda je indijska vlada objašnjenje da je riječ o “operational error” prihvatila jer prije ovog slučaja nije bila svjesna razmjera trajnih isključenja običnih korisnika. Ali ako je o njima bila obaviještena - ili sada postane svjesna koliko se takvih slučajeva prijavljuje diljem svijeta — onda priča više ne može završiti samo time da Meta ubuduće bolje zaštiti premijera i druge “prominent persons”.
 
 **Indijska vlada trebala bi pomoći zaštititi i svoje građane od samovolje Big Techa. A zakoni koje bi takva država uvela mogli bi postati primjer i za zaštitu običnih korisnika drugdje u svijetu.**
 
@@ -200,7 +200,7 @@ Ne trebaju nam samo novi protokoli za “prominent persons”.
 
 Jer pravo na jasno objašnjenje, poštenu žalbu i razgovor sa stvarnim čovjekom ne bi smjelo ovisiti o tome jeste li premijer ili potpuno nepoznati korisnik Facebooka.
 
-**Ako je Facebook pogriješio kod Modija, ispričao se i promijenio protokole, zašto bi obični ljudi morali samo nestati?**
+**Ako je Facebook pogriješio kod Modija, ispričao se i promijenio protokole, zašto bi obični ljudi morali samo nestati sa 'društvene mreže'?**
 
 ## Naš osvrt
 
