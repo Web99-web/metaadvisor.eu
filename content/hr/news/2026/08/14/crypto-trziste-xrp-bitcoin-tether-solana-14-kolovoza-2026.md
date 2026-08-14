@@ -85,7 +85,7 @@ Istodobno se fundamentalno događaju neke od zanimljivijih promjena posljednjih 
 
 Tržište zato trenutno više izgleda kao selektivna rotacija kapitala nego kao razdoblje u kojem Bitcoin jednostavno povuče sve ostale tokene u istom smjeru.
 
-{{< support3 >}}
+{{< support2 >}}
 
 ## Naš osvrt
 
