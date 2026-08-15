@@ -89,6 +89,10 @@ Wie groß dieses System ist, zeigt eine Zahl, die beinahe unglaublich klingt. Da
 
 Über genau diese Problematik haben wir bereits im Artikel <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener"><strong>Meta Oversight Board: KI-Moderation — ein jahrelanges Problem rückt erst jetzt in den Fokus</strong></a> berichtet.
 
+<a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener">
+<img src="/images/Meta/Meta-oversight-board2.png" alt="Meta Oversight Board und das Problem der KI-Moderation" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+</a>
+
 Mit anderen Worten: Wir sprechen längst nicht mehr über ein paar verärgerte Nutzer, die sich im Internet beschweren.
 
 Wir wissen nicht, wie viele dieser Milliarden deaktivierten Konten echten Menschen gehörten, die zu Unrecht dauerhaft gesperrt wurden. Meta veröffentlicht diese Zahl nicht. Deshalb können wir nicht seriös behaupten, ob es 100.000, eine Million oder mehr echte Nutzer sind. Aber genau das ist Teil des Problems: Eine Plattform, die jährlich Konten in Milliardenhöhe deaktiviert, veröffentlicht nicht, wie viele dieser Entscheidungen später als falsch erkannt wurden und wie viele echte Menschen nach einem Fehler ihr digitales Leben zurückbekommen haben.
