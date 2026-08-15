@@ -20,7 +20,7 @@ summary: "Modijeva blokada završila je intervencijom vlade, objašnjenjem i isp
 
 # Facebook blokirao indijskog premijera Narendre Modija pa se ispričao?
 
-Možda je mnogim ljudima u svijetu promakla neobična vijest iz Indije. Facebook je privremeno blokirao objavu indijskog premijera Narendre Modija. Indijska vlada reagirala je na način o kojem običan korisnik Facebooka može samo sanjati: odmah je pozvala visoke predstavnike Mete i zatražila da kompanija na najvišoj razini objasni što se dogodilo. Meta je zatim priznala da je riječ o “operational error”, a njezin Chief Global Affairs Officer Joel Kaplan osobno se indijskom ministru ispričao u ime kompanije.
+Možda je mnogim ljudima u svijetu promakla neobična vijest iz Indije. Facebook je **28. srpnja 2026.** privremeno blokirao objavu indijskog premijera Narendre Modija. Indijska vlada reagirala je na način o kojem običan korisnik Facebooka može samo sanjati: već nekoliko dana kasnije pozvala je visoke predstavnike Mete i zatražila da kompanija na najvišoj razini objasni što se dogodilo. Meta je zatim priznala da je riječ o **“operational error”**, a **5. kolovoza** njezin Chief Global Affairs Officer Joel Kaplan osobno se indijskom ministru ispričao u ime kompanije.
 
 ## Za premijera isprika, za običnog korisnika — KRAJ!
 
