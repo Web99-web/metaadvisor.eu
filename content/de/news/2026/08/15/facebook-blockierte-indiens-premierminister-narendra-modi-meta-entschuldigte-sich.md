@@ -21,7 +21,7 @@ summary: "Modis Sperre führte zu einer Intervention der Regierung, einer Erklä
 
 # Facebook blockierte Indiens Premierminister Narendra Modi - und entschuldigte sich?
 
-Vielleicht ist vielen Menschen weltweit eine ungewöhnliche Nachricht aus Indien entgangen. Facebook blockierte vorübergehend einen Beitrag des indischen Premierministers Narendra Modi. Die indische Regierung reagierte auf eine Weise, von der ein normaler Facebook-Nutzer nur träumen kann: Sie bestellte umgehend hochrangige Vertreter von Meta ein und verlangte, dass das Unternehmen auf höchster Ebene erklärt, was passiert war. Meta räumte anschließend einen „operational error“ ein, und Chief Global Affairs Officer Joel Kaplan entschuldigte sich persönlich im Namen des Unternehmens beim indischen Minister.
+Vielleicht ist vielen Menschen weltweit eine ungewöhnliche Nachricht aus Indien entgangen. Am **28. Juli 2026** blockierte Facebook vorübergehend einen Beitrag des indischen Premierministers Narendra Modi. Die indische Regierung reagierte auf eine Weise, von der ein normaler Facebook-Nutzer nur träumen kann: Innerhalb weniger Tage bestellte sie hochrangige Vertreter von Meta ein und verlangte, dass das Unternehmen auf höchster Ebene erklärt, was passiert war. Meta räumte später ein, dass es sich um einen **„operational error“** gehandelt hatte, und am **5. August** entschuldigte sich Chief Global Affairs Officer Joel Kaplan persönlich im Namen des Unternehmens beim indischen Minister.
 
 ## Für den Premierminister eine Entschuldigung, für normale Nutzer - ENDE!
 
