@@ -21,7 +21,8 @@ summary: "Modi’s block ended with government intervention, an explanation and 
 
 # Facebook blocked India’s Prime Minister Narendra Modi - then apologized?
 
-An unusual story from India may have gone largely unnoticed by many people around the world. Facebook temporarily blocked a post by Indian Prime Minister Narendra Modi. The Indian government reacted in a way an ordinary Facebook user can only dream of: it immediately summoned senior Meta representatives and demanded that the company explain at the highest level what had happened. Meta then acknowledged an “operational error,” and its Chief Global Affairs Officer Joel Kaplan personally apologized to the Indian minister on behalf of the company.
+An unusual story from India may have gone largely unnoticed by many people around the world. On **July 28, 2026**, Facebook temporarily blocked a post by Indian Prime Minister Narendra Modi. The Indian government reacted in a way an ordinary Facebook user can only dream of: within days, it summoned senior Meta representatives and demanded that the company explain at the highest level what had happened. Meta later acknowledged that the incident was an **“operational error,”** and on **August 5**, its Chief Global Affairs Officer Joel Kaplan personally apologized to the Indian minister on behalf of the company.
+
 
 ## An apology for the Prime Minister, for an ordinary user - THE END!
 
