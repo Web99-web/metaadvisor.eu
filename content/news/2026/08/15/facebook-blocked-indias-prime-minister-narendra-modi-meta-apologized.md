@@ -91,6 +91,10 @@ The scale of the system is best illustrated by a figure that sounds almost unbel
 
 We have already covered this issue in <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener"><strong>Meta Oversight Board: AI moderation — a years-long problem is only now coming into focus</strong></a>.
 
+<a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">
+<img src="/images/Meta/Meta-oversight-board2.png" alt="Meta Oversight Board and the problem of AI moderation" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+</a>
+
 In other words, we are no longer talking about a few angry users complaining on the internet.
 
 We do not know how many of those billions of deactivated accounts belonged to real people who were wrongly permanently banned. Meta does not disclose that number to the public. We therefore cannot responsibly claim whether the figure is 100,000, one million or more real users. But that is precisely part of the problem: a platform that can deactivate accounts on a scale of billions per year does not publish how many of those decisions were later found to be wrong or how many real people managed to recover their digital lives after an error.
