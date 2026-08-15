@@ -88,6 +88,10 @@ Koliko je sustav velik, najbolje pokazuje podatak koji zvuči gotovo nevjerojatn
 
 O toj smo problematici već pisali u članku <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener"><strong>Meta Oversight Board: AI moderacija — dugogodišnji problem tek sad ulazi u fokus</strong></a>.
 
+<a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">
+<img src="/images/Meta/Meta-oversight-board2.png" alt="Meta Oversight Board i problem AI moderacije" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+</a>
+
 Drugim riječima, više uopće ne govorimo o nekoliko ljutitih korisnika koji se žale na internetu.
 
 Ne znamo koliko je među tim milijardama deaktiviranih računa stvarnih ljudi koji su pogrešno trajno blokirani. Meta taj broj javnosti ne daje. Ne možemo zato odgovorno tvrditi je li riječ o 100.000, milijun ili više stvarnih korisnika. Ali upravo je to dio problema: platforma koja godišnje deaktivira račune u milijardama ne objavljuje koliko je tih odluka naknadno utvrđeno kao pogrešno i koliko je stvarnih ljudi nakon pogreške uspjelo vratiti svoj digitalni život.
