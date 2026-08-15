@@ -5,7 +5,7 @@ category: "ai"
 translationKey: "4debfe00abd92bad720d43beb09db6e1"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/studentcoinman.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump.jpg"
 tags: ["ai"]
 _build:
   publishResources: false
