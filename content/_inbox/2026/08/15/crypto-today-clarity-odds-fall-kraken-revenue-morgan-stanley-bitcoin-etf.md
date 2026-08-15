@@ -1,19 +1,21 @@
 ---
-title: "Galaxy Lowers CLARITY Act Odds to 10%"
-date: 2026-08-15T08:40:59Z
-category: "news"
-translationKey: "ef92f7e8871ad2259a31b478f0ef3834"
+title: "Crypto Today: CLARITY Odds Fall, Kraken Revenue, Morgan Stanley Bitcoin ETF"
+date: 2026-08-15T14:40:24Z
+category: "crypto"
+translationKey: "78f7a83e386d3f9bd80908be49f28870"
 source: "Cointelegraph"
-source_url: "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 image_url: "https://s3-images.ctmedia.io/media/article-covers/blockchain-waterfall-rwa.jpg"
-tags: []
+tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false
   render: never
   list: never
 ---
 
-Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+Today in crypto, Galaxy lowered its CLARITY Act passage odds to 10%, Kraken parent Payward reported a 17% rise in second-quarter adjusted revenue despite weaker trading volumes and Morgan Stanley disclosed larger crypto fund positions led by increased holdings in BlackRock’s Bitcoin ETF.
 
 Galaxy Digital has lowered its estimate of the Digital Asset Market Clarity (CLARITY) Act’s chances of passing in 2026 to 10%.
 
@@ -27,8 +29,4 @@ Galaxy lowered its previous estimate from 60% to 50% on June 26, after cutting i
 
 The CLARITY Act aims to establish the first regulatory framework for digital assets in the US, but it has faced criticism. It cleared the Senate Banking Committee in May, but most Democrats and the banking industry pushed back, arguing that it would allow crypto firms to offer yields on stablecoins without facing the same requirements as banks.
 
-At the beginning of June, over 200 crypto companies and organizations urged the US Senate to pass the CLARITY Act in a letter shared by crypto lobby group Stand With Crypto.
-
-Magazine: Why Meta is choosing partners over power in its 2026 stablecoin push
-
-Cointelegraph is committed to providing independent, high-quality journalism across the crypto,
+Non-trading businesses became increasingly important
