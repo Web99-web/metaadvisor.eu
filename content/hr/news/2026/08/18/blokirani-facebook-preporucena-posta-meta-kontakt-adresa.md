@@ -103,7 +103,7 @@ Tada više nemate samo tvrdnju: „Pokušao sam kontaktirati Metu.” Imate doku
 
 Naravno, što će netko napisati Meti ovisi o njegovu konkretnom slučaju. Netko je izgubio samo osobni profil, netko je zajedno s njim izgubio godine Messenger komunikacije, Facebook Pages ili Groups, a nekome su preko istog računa bili povezani Business Suite, oglašavanje i drugi poslovni resursi. Svaki korisnik najbolje zna što je u njegovu slučaju važno i što želi objasniti ili zatražiti od Mete.
 
-Ipak, ako se već šalje fizičko pismo kompaniji koja upravlja milijardama korisničkih računa, ono mora sadržavati dovoljno informacija da ga Meta uopće može povezati s konkretnim korisnikom i događajem. To mogu biti podaci povezani s računom, naziv ili URL profila, datum deaktivacije, poruka koju je Facebook prikazao, informacije o prethodnoj žalbi ili drugi detalji koje korisnik smatra važnima za razumijevanje slučaja.
+**Ipak, ako se već šalje fizičko pismo kompaniji koja upravlja milijardama korisničkih računa, ono mora sadržavati dovoljno informacija da ga Meta uopće može povezati s konkretnim korisnikom i događajem. To mogu biti podaci povezani s računom, email, naziv ili URL profila, datum deaktivacije, poruka koju je Facebook prikazao, informacije o prethodnoj žalbi ili drugi detalji koje korisnik smatra važnima za razumijevanje slučaja.**
 
 Posebno može biti relevantno ako deaktivacijom nije nestao samo osobni profil nego i pristup Messengeru, stranicama, grupama ili poslovnim resursima, kao i ako Facebook korisniku prikazuje određeni rok nakon kojeg bi račun ili povezani podaci mogli biti trajno izgubljeni.
 
