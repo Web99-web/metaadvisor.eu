@@ -25,11 +25,11 @@ Facebook može suspendirati korisnički račun gotovo trenutačno. Na ekranu se 
 
 Ne možete se normalno prijaviti u račun. Dio podrške i alata za rješavanje problema nalazi se upravo iza prijave kojoj više nemate pristup. Meta sve snažnije uvodi AI podršku, ali ni AI asistent nije velika utjeha korisniku koji je izbačen iz sustava kroz koji bi do njega trebao doći. Facebook nema javni telefonski broj korisničke službe na koji bi deaktivirani korisnik jednostavno nazvao i objasnio svoj problem, niti postoji univerzalna javna e-mail adresa za takve slučajeve.
 
-Ali postoji — **poštanska adresa**.
+Ali postoji — **poštanska adresa**. 
+**Teško je smisliti bolju ironiju Big Techa - Facebook ima AI. Blokirani korisnik ima poštanski tracking broj.**
 
 Da. Godina je 2026. Meta razvija umjetnu inteligenciju, automatizira goleme dijelove moderacije i korisničke podrške, a jedan od rijetkih izravnih tragova koji blokiranom korisniku još može ostati jest papir, kuverta, poštanska marka i preporučena pošiljka.
 
-**Teško je smisliti bolju ironiju Big Techa - Facebook ima AI. Blokirani korisnik ima poštanski tracking broj.**
 
 ## Facebook je uspio blokirati čak i indijskog premijera
 
