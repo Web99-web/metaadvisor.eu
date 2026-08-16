@@ -158,9 +158,9 @@ Za Narendru Modija reagirala je indijska vlada. Meta je morala izaći pred indij
 
 Ali ima adresu. I poštu.
 
-Bilo bi zato izuzetno zanimljivo vidjeti što bi se dogodilo kada bi količina fizičkih preporučenih pisama koja stižu u Metine urede počela odražavati stvaran broj korisnika koji tvrde da su pogrešno deaktivirani i da nakon toga nisu uspjeli doći do stvarne korisničke podrške.
+Vidjeli smo svojedobno i **peticiju s više od 64.000 potpisa ljudi koji smatraju da su im Facebook računi ugašeni pogreškom i koji tvrde da nisu uspjeli doći do stvarne ljudske korisničke podrške**. Bilo bi zato izuzetno zanimljivo vidjeti što bi se dogodilo kada bi količina fizičkih preporučenih pisama koja stižu u Metine urede počela odražavati stvaran broj korisnika - i što bi se dogodilo kada bi samo dio tih ljudi odlučio svoj problem iz digitalnog svijeta preseliti u fizički — i poslati Meti preporučeno pismo.
 
-Digitalne žalbe mogu nestati negdje u automatiziranom sustavu. **Deset tisuća fizičkih kuverti ipak mora stići negdje. Netko ih mora zaprimiti.**
+Digitalne žalbe mogu nestati negdje u automatiziranom sustavu. **Šezdeset četiri tisuće fizičkih kuverti ipak mora negdje stići. Netko ih mora zaprimiti.**
 
 I možda je upravo to konačna ironija cijele priče: **da biste 2026. pokušali razgovarati s kompanijom koja gradi budućnost umjetne inteligencije, možda ćete prvo morati otići — na poštu.**
 
