@@ -40,6 +40,8 @@ Indijska vlada reagirala je i pozvala Metine predstavnike da objasne što se dog
 
 Ne znamo je li upravo AI donio konkretnu odluku u Modijevu slučaju i to ne treba tvrditi bez dokaza. Ali incident dolazi u trenutku sve veće automatizacije moderacije i korisničke podrške, zbog čega je teško izbjeći očito pitanje: ako Facebook može pogrešno ograničiti čak i objavu indijskog premijera, koliko je običnih ljudi završilo na pogrešnoj strani istog ili sličnog sustava, a da za njih nitko nikada nije pozvao Metu na red?
 
+To smo obradili u članku:
+
 <a href="/hr/news/facebook-blokirao-indijskog-premijera-narendre-modija-pa-se-ispricao/" target="_blank" rel="noopener">
 <img src="/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png" alt="Facebook blokirao indijskog premijera Narendru Modija pa se Meta ispričala" loading="lazy">
 </a>
@@ -67,6 +69,8 @@ Možda bismo cijeli problem mogli pripisati nekolicini nesretnih pogrešaka kada
 Ali upravo nakon toga dolazi važniji dio upozorenja. **Oversight Board navodi da su mnoge deaktivacije korisnicima neobjašnjive ili nedovoljno objašnjene te da ljudi nakon gubitka računa mogu otkriti da su žalbeni mehanizmi nejasni, nepraktični ili nedostupni. Board je posebno upozorio i da bi korisnici nakon deaktivacije trebali nastaviti imati pristup informacijama o statusu računa, prethodnim kršenjima i žalbama koje su u tijeku.**
 
 To je gotovo precizan opis problema o kojem govorimo: Facebook vas izbaci iz računa, a zatim vam upravo taj gubitak pristupa može otežati pokušaj da dokažete da je Facebook pogriješio, jer nemate pristup korisničkoj ppodršci.
+
+To smo obradili u članku:
 
 <a href="/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">
 <img src="/images/Meta/Meta-oversight-board2.png" alt="Meta Oversight Board i problem AI moderacije Facebook i Instagram računa" loading="lazy">
