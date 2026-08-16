@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "78f7a83e386d3f9bd80908be49f28870"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/blockchain-waterfall-rwa.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false
