@@ -19,11 +19,16 @@ summary: "Od Belgije, Grčke i Španjolske do Kanade, SAD-a i Hrvatske, veliki p
 
 *Slika je simbolična.*
 
+# Zašto u doba AI-ja još uvijek gledamo kako požari gutaju cijela naselja?
+
 Europa ponovno gori. Kanada ponovno gori. Veliki dijelovi Sjedinjenih Država ponovno se bore s požarima. I gotovo posvuda slike izgledaju začuđujuće slično: stotine vatrogasaca, kilometri crijeva, cisterne, avioni i helikopteri pokušavaju sustići vatru koju snažan vjetar ponekad širi brže nego što se cijeli sustav može reorganizirati.
+
+**Jedno je braniti jednu kuću. Sasvim drugo pokušavati obraniti cijeli dio grada dok vjetar istodobno stvara nova žarišta brže nego što vatrogasci mogu do njih.**
 
 U Europi su požari ove godine do sredine kolovoza zahvatili oko **576.000 hektara**. Belgija se upravo bori s najvećim zabilježenim požarom u svojoj povijesti, s oko **3.000 hektara** zahvaćenih u rezervatu High Fens i međunarodnom pomoći u gašenju. U Grčkoj su snažni vjetrovi ponovno potjerali vatru prema naseljima, dok su veliki požari u Španjolskoj tijekom ljeta spalili golema područja i prisilili tisuće ljudi na evakuaciju.
 
 Kanada se s istim problemom bori na još većoj površini. Krajem srpnja u zemlji je bilo gotovo **900 aktivnih požara**, uz više od **3,7 milijuna hektara** već spaljene površine. Ni Sjedinjene Države, unatoč golemoj tehnološkoj, financijskoj i logističkoj infrastrukturi, nemaju jednostavan odgovor kada se veliki požar pretvori u brzo pokretnu vatrenu frontu.
+
 
 {{< support1 >}}
 
