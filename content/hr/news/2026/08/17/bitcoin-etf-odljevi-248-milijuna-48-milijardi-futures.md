@@ -32,7 +32,6 @@ Američki spot Bitcoin ETF-ovi zabilježili su tri uzastopna trgovinska dana net
 
 Ukupno je riječ o približno **248,4 milijuna dolara neto odljeva**. To još ne znači da su institucionalni ulagači potpuno napustili Bitcoin — početkom kolovoza slika je bila znatno pozitivnija, uz snažan niz priljeva u američke spot ETF-ove.
 
-👉 [Ostvari Bitget bonus do 6200 USDT — registriraj se ovdje](https://www.bitget.com/referral?clacCode=2QZSXTW1){target="_blank" rel="nofollow sponsored"}
 
 ## Bitcoin dobiva dobre makro vijesti, ali ne raste
 
