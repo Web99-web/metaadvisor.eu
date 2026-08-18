@@ -40,9 +40,11 @@ The Indian government reacted and called Meta representatives in to explain what
 We do not know whether AI made the specific decision in Modi's case, and that should not be claimed without evidence. But the incident comes at a time when moderation and customer support are becoming increasingly automated, making one obvious question difficult to avoid: if Facebook can mistakenly restrict even a post by India's Prime Minister, how many ordinary people may have ended up on the wrong side of the same or a similar system without anyone ever calling Meta to account on their behalf?
 
 We covered the case here:
-
 <a href="https://metaadvisor.eu/news/facebook-blocked-indias-prime-minister-narendra-modi-meta-apologized/" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png" alt="Facebook blocked India's Prime Minister Narendra Modi and Meta apologized" loading="lazy">
+<img src="/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
+     alt="Facebook blocked India's Prime Minister Narendra Modi and Meta apologized"
+     loading="lazy"
+     style="width:65%; max-width:600px; height:auto; display:block; margin:1.5rem auto;">
 </a>
 
 <a href="https://metaadvisor.eu/news/facebook-blocked-indias-prime-minister-narendra-modi-meta-apologized/" target="_blank" rel="noopener"><strong>Facebook blocked India's Prime Minister - then apologized?</strong></a>
