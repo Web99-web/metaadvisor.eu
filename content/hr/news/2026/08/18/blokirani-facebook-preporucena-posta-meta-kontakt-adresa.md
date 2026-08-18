@@ -43,7 +43,10 @@ Ne znamo je li upravo AI donio konkretnu odluku u Modijevu slučaju i to ne treb
 To smo obradili u članku:
 
 <a href="/hr/news/facebook-blokirao-indijskog-premijera-narendre-modija-pa-se-ispricao/" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png" alt="Facebook blokirao indijskog premijera Narendru Modija pa se Meta ispričala" loading="lazy">
+<img src="/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
+     alt="Facebook blokirao indijskog premijera Narendru Modija pa se Meta ispričala"
+     loading="lazy"
+     style="width:65%; max-width:600px; height:auto; display:block; margin:1.5rem auto;">
 </a>
 
 <a href="/hr/news/facebook-blokirao-indijskog-premijera-narendre-modija-pa-se-ispricao/" target="_blank" rel="noopener"><strong>Facebook blokirao indijskog premijera pa se ispričao?</strong></a>
