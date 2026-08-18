@@ -42,10 +42,14 @@ Wir wissen nicht, ob gerade eine KI die konkrete Entscheidung in Modis Fall getr
 Darüber haben wir bereits berichtet:
 
 <a href="https://metaadvisor.eu/de/news/facebook-blockierte-indiens-premierminister-narendra-modi-meta-entschuldigte-sich/" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png" alt="Facebook blockierte Indiens Premierminister Narendra Modi und Meta entschuldigte sich" loading="lazy">
+<img src="/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
+     alt="Facebook blockierte Indiens Premierminister Narendra Modi und Meta entschuldigte sich"
+     loading="lazy"
+     style="width:65%; max-width:600px; height:auto; display:block; margin:1.5rem auto;">
 </a>
 
 <a href="https://metaadvisor.eu/de/news/facebook-blockierte-indiens-premierminister-narendra-modi-meta-entschuldigte-sich/" target="_blank" rel="noopener"><strong>Facebook blockierte Indiens Premierminister Narendra Modi – und entschuldigte sich?</strong></a>
+
 
 ## Für den Premierminister eine Entschuldigung. Für normale Nutzer — ENDE!
 
