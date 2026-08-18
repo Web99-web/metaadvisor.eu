@@ -27,9 +27,9 @@ Prema Reutersu, S&P 500 bio je niži oko 0,6%, Nasdaq Composite oko 1,2%, dok je
 
 ## Najveći udar ponovno je na čipovima
 
-Pad nije bio ravnomjerno raspoređen po tržištu. Tehnološki sektor predvodio je gubitke, a među najslabijima bili su proizvođači poluvodiča i kompanije koje su prethodno snažno rasle na valu ulaganja u umjetnu inteligenciju.
+Pad nije bio ravnomjerno raspoređen po tržištu. Tehnološki sektor predvodio je gubitke, a posebno snažno pali su proizvođači čipova i druge kompanije povezane s AI boomom. Micron je tijekom dana gubio oko 7,6%, AMD više od 5%, Nvidia oko 2%, Broadcom oko 3%, dok su Western Digital i Sandisk padali još snažnije. Philadelphia Semiconductor Index završio je s padom većim od 5%.
 
-To je važna razlika. Za sada se ne radi o širokom burzovnom slomu, nego o snažnijem pritisku na dio tržišta koji je posljednjih mjeseci imao vrlo visoka očekivanja i valuacije.
+To je važna razlika. S&P 500 završio je dan 0,67% niže, Nasdaq 1,31%, a Dow samo 0,22%, što pokazuje da se zasad ne radi o ravnomjernom padu cijelog tržišta. Glavni udar koncentriran je upravo na tehnološke i poluvodičke kompanije koje su prethodno snažno rasle na valu ulaganja u umjetnu inteligenciju
 
 ## Prinos na američku 30-godišnju obveznicu najviši od 2007.
 
