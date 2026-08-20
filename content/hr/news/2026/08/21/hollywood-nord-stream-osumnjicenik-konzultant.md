@@ -103,17 +103,9 @@ O tome smo detaljnije pisali u ranijem članku:
 
 {{< support2 >}}
 
-## Osumnjičenik je zatim stigao u Hrvatsku
+## Od podvodne sabotaže do filmskog seta u Puli u Hrvatskoj
 
 Europski uhidbeni nalog za Vladimirom Z. Njemačka je izdala još 2024. Uhićen je 19. kolovoza 2026. u Puli, a hrvatski sud odredio mu je pritvor dok traje postupak povezan s njemačkim zahtjevom za njegovo izručenje.
-
-Hrvatska pritom ima jedan od većih brojeva policijskih službenika u odnosu na broj stanovnika u EU. Prema podacima za 2023., imala je oko **528 policijskih službenika na 100.000 stanovnika**, dok je Njemačka bila na približno 317. Viši omjer među državama za koje su bili dostupni podaci imale su, primjerice, Cipar i Grčka.
-
-Broj policajaca sam po sebi ne objašnjava sigurnost neke države, ali Hrvatska istodobno ima vrlo dobre pokazatelje svakodnevne sigurnosti. Prema Eurostatu, 2023. samo **1,4% stanovništva Hrvatske** navelo je kriminal, nasilje ili vandalizam kao problem u području u kojem živi, što je bio najmanji udio u EU.
-
-To ne znači da kriminala u Hrvatskoj nema, ali pokazuje zašto se Hrvatska često doživljava kao vrlo sigurna europska zemlja.
-
-## Od podvodne sabotaže do filmskog seta
 
 Najneobičniji dio priče ipak ostaje način na koji je osumnjičenik pronađen.
 
