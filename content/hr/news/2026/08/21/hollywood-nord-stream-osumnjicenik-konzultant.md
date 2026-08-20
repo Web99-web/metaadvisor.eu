@@ -19,7 +19,7 @@ summary: "Ukrajinski ronilac osumnjičen za sabotažu Nord Streama uhićen je u 
 
 *Slika je simbolična.*
 
-# Nord Stream osumnjičenik uhićen u Puli dok je radio na filmu Nord Stream sa Seanom Pennom?
+# Nord Stream osumnjičenik uhićen u Puli dok je radio na filmu Snake Island o Nord Stream sa Seanom Pennom?
 
 Gotovo četiri godine nakon eksplozija koje su teško oštetile plinovode Nord Stream 1 i Nord Stream 2 na dnu Baltičkog mora, jedan od glavnih osumnjičenika njemačke istrage uhićen je u Hrvatskoj. Ukrajinski državljanin Vladimir Z., u drugim izvještajima identificiran kao Volodymyr Zhuravlov, uhićen je 19. kolovoza u Puli prema europskom uhidbenom nalogu koji je izdala Njemačka.
 
