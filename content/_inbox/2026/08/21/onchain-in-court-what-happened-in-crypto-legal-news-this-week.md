@@ -15,6 +15,8 @@ _build:
 
 The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.
 
+Update (Aug. 21, 9:50 pm UTC): This article has been updated to include information about the criminal case against Edward Zimbardi.
+
 On Tuesday, the US District Court for the Southern District of New York (SDNY) entered consent orders related to a 2022 enforcement action against former Alameda Research CEO Caroline Ellison and crypto exchange FTX co-founder Zixiao “Gary” Wang.
 
 The orders imposed by the US Commodity Futures Trading Commission (CFTC) required that Ellison and Wang receive a five-year trading ban related to their roles in the crypto exchange’s collapse. The CFTC also ordered that the Alameda CEO receive a 10-year registration ban, while Wang received an eight-year registration ban.
@@ -25,4 +27,4 @@ On Wednesday, lawyers representing the US government in SDNY filed their opposit
 
 Related: Judge stays CFTC’s case against US soldier over prediction market bets
 
-The US soldier’s motion to dismiss, filed on July 31, included claims that the Commodity Exchange Act , at the center of three of the charges he faces, was “ambiguous” in treating event contracts as “swaps” under the CFTC’s purview. In
+The US soldier’s motion to dismiss, filed on July 31, included claims that the Commodity Exchange Act

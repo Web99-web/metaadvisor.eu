@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "6d573dbe0fe35d41f040317693507332"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/man-with-a-diplomatic-bag-bitcoin.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false
