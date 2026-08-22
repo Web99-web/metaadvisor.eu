@@ -1,4 +1,4 @@
---
+---
 title: "Phantom: trgovanje skočilo 90%, BTC blizu 80.000"
 slug: "phantom-trgovanje-skocilo-90-btc-blizu-80000"
 date: 2026-08-22T20:15:00+02:00
