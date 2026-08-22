@@ -91,7 +91,9 @@ S druge strane, prijedlog pokušava učiniti jednostavnijim modele kojima startu
 
 EU Inc. mogao bi znatno pojednostaviti osnivanje kompanije, ali zasad ne rješava jednu od najvećih svakodnevnih administrativnih obveza malih poduzetnika – obračun plaća, poreza i doprinosa. 
 
-Problem zato nije samo postojanje različitih doprinosa, nego činjenica da mali poslodavac mora poznavati i pratiti nacionalna pravila, osnovice, porezne stope, bolovanja, godišnje odmore i promjene propisa ili za to angažirati računovođu. EU Inc. u sadašnjem prijedlogu taj dio ne harmonizira. Dugoročno bi zato mnogo veće administrativno pojednostavljenje bilo kada bi službeni digitalni sustav mogao automatski primjenjivati važeća pravila države u kojoj zaposlenik radi: poslodavac bi, primjerice, odredio da zaposleniku želi isplatiti 2.000 eura neto, a sustav bi sam izračunao bruto plaću, doprinose zaposlenika i poslodavca, porez, ukupni trošak rada te pripremio potrebne prijave. Ako EU želi da se kompanija može osnovati za 48 sati, logično je postaviti i pitanje koliko će jednostavno biti voditi je svakog sljedećeg mjeseca.
+Problem zato nije samo postojanje različitih doprinosa, nego činjenica da mali poslodavac mora poznavati i pratiti nacionalna pravila, osnovice, porezne stope, bolovanja, godišnje odmore i promjene propisa ili za to angažirati računovođu. EU Inc. u sadašnjem prijedlogu taj dio ne harmonizira. 
+
+Dugoročno bi zato mnogo veće administrativno pojednostavljenje bilo kada bi službeni digitalni sustav mogao automatski primjenjivati važeća pravila države u kojoj zaposlenik radi: poslodavac bi, primjerice, odredio da zaposleniku želi isplatiti 2.000 eura neto, a sustav bi sam izračunao bruto plaću, doprinose zaposlenika i poslodavca, porez, ukupni trošak rada te pripremio potrebne prijave. Ako EU želi da se kompanija može osnovati za 48 sati, logično je postaviti i pitanje koliko će jednostavno biti voditi je svakog sljedećeg mjeseca.
 
 ## Što će biti s nacionalnim i lokalnim poticajima?
 
