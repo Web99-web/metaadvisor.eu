@@ -17,6 +17,8 @@ description: "EU priprema novi pravni oblik EU Inc. koji bi se mogao otvoriti on
 summary: "EU Inc. trebao bi omogućiti osnivanje europske tvrtke online u roku od 48 sati, uz maksimalni trošak od 100 eura i bez minimalnog temeljnog kapitala. No porezi, radno pravo i pristup nacionalnim poticajima i dalje otvaraju važna pitanja."
 ---
 
+*Slika je simbolična.*
+
 # EU Inc.: tvrtka za 48 sati i 100 eura
 
 Otvoriti tvrtku online za najviše 100 eura, bez propisanog minimalnog temeljnog kapitala, odabrati u kojoj će državi članici biti registrirana i zatim poslovati širom Europske unije prema velikom dijelu zajedničkih korporativnih pravila – to je osnovna ideja iza **EU Inc.**
