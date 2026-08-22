@@ -12,223 +12,141 @@ image: "/images/EU/EU-inc.png"
 thumbnail: "/images/EU/EU-inc.png"
 image_alt: "EU Inc. – europska tvrtka za 48 sati, najviše 100 eura i bez minimalnog temeljnog kapitala"
 image_credit: "Metaadvisor.eu"
-tags: ["EU Inc.", "Europska unija", "28. režim", "poduzetništvo", "startup", "tvrtka", "d.o.o.", "EU poslovanje", "porezi", "poticaji"]
-description: "EU priprema novi pravni oblik EU Inc. koji bi se mogao otvoriti online za 48 sati uz trošak do 100 eura i bez minimalnog temeljnog kapitala. Što bi to značilo za poduzetnike?"
-summary: "EU Inc. trebao bi omogućiti osnivanje europske tvrtke online u roku od 48 sati, uz maksimalni trošak od 100 eura i bez minimalnog temeljnog kapitala. No porezi, radno pravo i dio nacionalnih pravila i dalje bi ostali važni."
+tags: ["EU Inc.", "Europska unija", "28. režim", "poduzetništvo", "startup", "tvrtka", "EU poslovanje", "porezi", "poticaji", "jedinstveno tržište"]
+description: "EU priprema novi pravni oblik EU Inc. koji bi se mogao otvoriti online za 48 sati uz trošak do 100 eura i bez minimalnog temeljnog kapitala. Što bi to stvarno značilo za poduzetnike?"
+summary: "EU Inc. trebao bi omogućiti osnivanje europske tvrtke online u roku od 48 sati, uz maksimalni trošak od 100 eura i bez minimalnog temeljnog kapitala. No porezi, radno pravo i pristup nacionalnim poticajima i dalje otvaraju važna pitanja."
 ---
 
 # EU Inc.: tvrtka za 48 sati i 100 eura
 
-Otvoriti tvrtku online za najviše 100 eura, bez minimalnog temeljnog kapitala, odabrati u kojoj ćete je državi članici registrirati i zatim poslovati širom Europske unije prema velikom dijelu zajedničkih korporativnih pravila.
+Otvoriti tvrtku online za najviše 100 eura, bez propisanog minimalnog temeljnog kapitala, odabrati u kojoj će državi članici biti registrirana i zatim poslovati širom Europske unije prema velikom dijelu zajedničkih korporativnih pravila – to je osnovna ideja iza **EU Inc.**
 
-To je ideja iza **EU Inc.**, novog europskog pravnog oblika koji Europska komisija opisuje kao takozvani **28. režim** – dodatni sustav koji bi postojao uz 27 postojećih nacionalnih sustava prava društava.
+Europska komisija novi pravni okvir opisuje kao takozvani **28. režim**, odnosno dodatni sustav koji bi postojao uz 27 nacionalnih sustava prava društava. Poduzetnici danas biraju između njemačkog GmbH-a, francuskog SARL-a ili SAS-a, talijanskog S.r.l.-a, estonskog OÜ-a, latvijskog SIA-a, litavskog UAB-a, danskog ApS-a, bugarskog OOD-a, rumunjskog SRL-a, hrvatskog d.o.o.-a i brojnih drugih nacionalnih oblika. EU Inc. trebao bi postati još jedna, ovaj put paneuropska mogućnost.
 
-Ako prijedlog bude usvojen u sadašnjem ili sličnom obliku, poduzetnik više ne bi morao birati samo između hrvatskog d.o.o.-a, njemačkog GmbH-a, francuskog SARL-a i drugih nacionalnih oblika. Dobio bi još jednu mogućnost: **EU Inc.**
-
-No važno je odmah naglasiti: EU Inc. **još nije pravni oblik koji se danas može otvoriti**.
-
-Europska komisija objavila je zakonodavni prijedlog 18. ožujka 2026. Postupak usvajanja još traje, Europski parlament još razmatra prijedlog u odborima, a Vijeće EU-a već radi na kompromisnom tekstu.
+No važno je odmah naglasiti da EU Inc. **još nije pravni oblik koji se danas može otvoriti**. Europska komisija zakonodavni je prijedlog predstavila 18. ožujka 2026., a na dan 22. kolovoza postupak usvajanja još traje. Europski parlament još oblikuje svoju poziciju, dok države članice u Vijeću rade na kompromisnom tekstu, pa se pojedina pravila prije konačnog usvajanja još mogu promijeniti.
 
 ## Što je zapravo EU Inc.?
 
-EU Inc. zamišljen je kao novi harmonizirani oblik društva s ograničenom odgovornošću koji bi bio dostupan u svim državama članicama.
+EU Inc. zamišljen je kao harmonizirani oblik društva s ograničenom odgovornošću koji bi bio dostupan u svim državama članicama. Ne bi ukinuo postojeće nacionalne oblike društava, nego bi poduzetnicima ponudio dodatnu mogućnost kada žele kompaniju prvenstveno prilagođenu poslovanju na jedinstvenom europskom tržištu.
 
-Ne bi ukinuo postojeće nacionalne oblike društava. Hrvatski d.o.o. i j.d.o.o., njemački GmbH i drugi nacionalni modeli nastavili bi postojati.
+Mogla bi ga osnovati jedna ili više fizičkih ili pravnih osoba, a novi pravni oblik ne bi bio rezerviran samo za potpuno nove startupe. Prema prijedlogu, EU Inc. mogao bi nastati i pretvaranjem postojećeg društva, spajanjem, podjelom ili prekograničnom konverzijom.
 
-EU Inc. bio bi **dodatni izbor**.
-
-Mogla bi ga osnovati jedna ili više fizičkih ili pravnih osoba, a prema prijedlogu EU Inc. mogao bi nastati i pretvaranjem postojećeg društva, kao i kroz spajanja, podjele i prekogranične konverzije.
-
-Jednom kada je registriran u poslovnom registru države članice u kojoj ima registrirano sjedište, njegov pravni subjektivitet morale bi priznavati sve države članice EU-a.
+Jednom registriran u poslovnom registru odabrane države članice, EU Inc. imao bi pravnu osobnost koju bi morale priznavati i ostale države EU-a. Za pitanja koja europski propis ne uređuje i dalje bi se primjenjivala odgovarajuća nacionalna pravila, što znači da EU Inc. ne bi potpuno izbrisao razlike između pravnih sustava država članica.
 
 ## Tvrtka za 48 sati i najviše 100 eura
 
-Najviše pozornosti privlači obećanje da bi se EU Inc. mogao osnovati **u roku od 48 sati uz trošak registracije od najviše 100 eura**.
+Najviše pozornosti privlači mogućnost osnivanja EU Inc.-a **u roku od 48 sati uz trošak registracije od najviše 100 eura**. Prema prijedlogu Komisije, taj ubrzani postupak odnosio bi se na digitalnu registraciju uz korištenje standardiziranog europskog obrasca osnivačkog akta.
 
-To nije samo politički slogan – takav je ubrzani postupak predviđen prijedlogom Komisije.
+Postupak bi trebao biti potpuno online, a u maksimalnih 100 eura trebali bi biti uključeni i potrebni preventivni administrativni, sudski ili javnobilježnički postupci kada ih određeni nacionalni sustav zahtijeva. Fizička prisutnost osnivača trebala bi biti iznimka, primjerice kada postoji opravdana sumnja u identitet ili pravnu sposobnost osobe.
 
-Za fast-track registraciju osnivač bi koristio standardizirani europski obrazac osnivačkog akta preko budućeg središnjeg EU digitalnog sučelja.
-
-U maksimalnih 100 eura trebali bi biti uključeni i potrebni preventivni administrativni, sudski ili javnobilježnički postupci kada su dio registracije.
-
-Cijeli postupak zamišljen je kao digitalan.
-
-Fizička prisutnost pred tijelom ili posrednikom mogla bi se tražiti samo u iznimnim i opravdanim situacijama, primjerice kada postoji sumnja u identitet osobe ili njezinu pravnu sposobnost.
-
-Važno je ipak razlikovati fast-track postupak od svih mogućih registracija. Rok od 48 sati i maksimalnih 100 eura vezani su uz standardizirani postupak i EU predložak. Tvrtke koje žele posebno prilagođen statut mogle bi imati drugačiji postupak.
+Rok od 48 sati zato ne znači nužno da će svaka složena kompanija s posebno prilagođenim statutom biti osnovana za dva dana. Fast-track je zamišljen prvenstveno za standardizirani postupak u kojem osnivač prihvaća europski predložak.
 
 {{< support1 >}}
 
 ## Kapital? Minimalno 0 eura
 
-Možda je još zanimljivija činjenica da **100 eura nije minimalni kapital tvrtke**.
+Brojka od 100 eura ne odnosi se na temeljni kapital, nego na maksimalni trošak ubrzane registracije. Prema sadašnjem prijedlogu EU Inc. **ne bi imao propisani minimalni temeljni kapital**, a predloženi obrazac osnivačkog akta predviđa čak i mogućnost kapitala od **0 eura**.
 
-To je maksimalni trošak ubrzane registracije.
+To je posebno važno za startupe i druge kompanije čija početna vrijednost često nije u strojevima, nekretninama ili velikoj količini gotovine, nego u softveru, znanju, intelektualnom vlasništvu ili sposobnosti privlačenja budućih investitora. Istodobno bi pravila zaštite vjerovnika trebala spriječiti da mogućnost osnivanja bez minimalnog kapitala znači i potpuni izostanak financijske odgovornosti.
 
-EU Inc. prema prijedlogu **ne bi imao propisani minimalni temeljni kapital**.
+## Tvrtka registrirana u jednoj državi, poslovanje u drugoj
 
-U predloženom EU obrascu osnivačkog akta izričito je predviđena mogućnost da kapital društva iznosi **0 eura**.
+Jedan od najzanimljivijih dijelova prijedloga jest mogućnost da osnivači sami odaberu državu članicu u kojoj žele registrirati EU Inc. Registrirano sjedište moralo bi biti unutar Europske unije, a središnja uprava ili glavno mjesto poslovanja također bi morali ostati unutar EU-a.
 
-To predstavlja veliku razliku u odnosu na brojne postojeće nacionalne pravne oblike kod kojih država propisuje minimalni kapital koji osnivači moraju osigurati.
+Međutim, **registrirano sjedište i mjesto glavnog poslovanja ne bi nužno morali biti u istoj državi**. Tvrtka bi, primjerice, mogla biti registrirana u Francuskoj, dok najveći dio njezina poslovanja, zaposlenika ili ulaganja postoji u Njemačkoj.
 
-Istodobno bi trebala postojati harmonizirana pravila zaštite vjerovnika kako mogućnost osnivanja bez minimalnog kapitala ne bi značila i potpuno odsustvo odgovornosti prema vjerovnicima.
-
-## Možete li firmu registrirati u jednoj državi, a raditi u drugoj?
-
-Prema sadašnjem prijedlogu – **da**.
-
-Osnivači bi mogli odabrati u kojoj državi članici žele registrirati EU Inc.
-
-Tvrtka bi morala imati registrirano sjedište u Europskoj uniji, a njezina središnja uprava ili glavno mjesto poslovanja također bi morali biti unutar EU-a.
-
-Međutim, **registrirano sjedište i stvarno glavno poslovanje ne bi morali biti u istoj državi članici**.
-
-To znači da bi, primjerice, EU Inc. mogao biti registriran u jednoj članici, dok se njegova glavna gospodarska aktivnost odvija u drugoj.
-
-Države članice morale bi priznavati pravnu sposobnost EU Inc.-a koji je pravilno osnovan u drugoj državi EU-a.
-
-To je jedan od elemenata zbog kojih bi EU Inc. mogao bitno promijeniti način na koji poduzetnici razmišljaju o tome gdje osnovati tvrtku.
+Upravo se time pokušava odgovoriti na jedan od dugogodišnjih problema europskog tržišta: kompanija može prodavati preko granica gotovo jednako lako kao kod kuće, ali kada želi osnovati društvo, privući investitora, prenijeti udjele ili reorganizirati poslovanje, ponovno ulazi u potpuno drugačiji nacionalni sustav.
 
 {{< support2 >}}
 
-## Jednom uneseni podaci trebali bi se automatski razmjenjivati
+## Podatke bi trebalo predati samo jednom
 
-EU Inc. nije zamišljen samo kao novi naziv za tvrtku.
+EU Inc. ne pokušava pojednostaviti samo osnivanje društva, nego i njegov odnos s državnim registrima. Jedno od osnovnih načela prijedloga jest **„samo jednom“** – ako je određeni podatak već dostavljen jednom nadležnom tijelu, poduzetnik ga ne bi trebao ponovno unositi u niz drugih državnih sustava.
 
-Jedna od važnijih ideja cijelog projekta je načelo **„samo jednom“**.
+Podaci potrebni za poslovni registar, poreznu identifikaciju, PDV, socijalno osiguranje i registar stvarnih vlasnika trebali bi se elektronički razmjenjivati među nadležnim tijelima. U praksi bi to trebalo smanjiti broj obrazaca i situacija u kojima jedna državna institucija od poduzetnika traži dokument koji druga institucija već posjeduje.
 
-Poduzetnik pri registraciji ne bi trebao iste podatke ponovno unositi u niz različitih državnih sustava.
-
-Podaci iz poslovnog registra trebali bi se digitalno razmjenjivati s poreznim tijelima, sustavom za PDV identifikaciju, socijalnim osiguranjem i registrom stvarnih vlasnika.
-
-Prema prijedlogu, EU Inc. bi kroz taj proces trebao dobiti i porezni identifikacijski broj te PDV identifikacijski broj bez zasebnog ponovnog podnošenja istih podataka različitim državnim tijelima.
-
-Ideja je jednostavna: **država već ima podatak – poduzetnik ga ne bi trebao ponovno dostavljati drugoj državnoj instituciji.**
+Ako sustav u konačnici bude funkcionirao kako je zamišljen, upravo bi ova promjena za mnoge male kompanije mogla biti gotovo jednako važna kao i obećanje o registraciji u 48 sati.
 
 ## Znači li EU Inc. i isti porez u cijeloj Europi?
 
-Ne.
+Ne. EU Inc. pokušava harmonizirati velik dio **prava društava i administrativnih postupaka**, ali ne uvodi jednu zajedničku stopu poreza na dobit za cijelu Europsku uniju. Porezi i dalje velikim dijelom ostaju u nacionalnoj nadležnosti.
 
-Ovo je jedna od najvažnijih razlika između onoga što EU Inc. stvarno predlaže i onoga što bi se iz samog naziva moglo zaključiti.
+To znači da registracija EU Inc.-a u jednoj državi ne bi automatski omogućila kompaniji da cjelokupnu dobit oporezuje isključivo prema pravilima te države, neovisno o tome gdje se poslovanje stvarno odvija. Mjesto upravljanja, poslovne jedinice, zaposlenici, mjesto nastanka prihoda i drugi kriteriji i dalje bi mogli imati poreznu važnost.
 
-EU Inc. harmonizira velik dio **prava društava i administrativnih postupaka**, ali ne uvodi jednu jedinstvenu stopu poreza na dobit za cijelu Europsku uniju.
-
-Porezi i dalje velikim dijelom ostaju nacionalna nadležnost.
-
-Zato registriranje EU Inc.-a u jednoj državi ne znači automatski da će se cjelokupno poslovanje oporezivati prema stopi te države bez obzira na to gdje tvrtka stvarno posluje.
-
-Mjesto stvarnog upravljanja, poslovne jedinice, zaposlenici i mjesto na kojem nastaje dobit i dalje mogu imati veliku poreznu važnost.
-
-Europski parlament otišao je korak dalje i u srpnju 2026. podržao ideju da se uz EU Inc. u budućnosti razvije i poseban **porezni modul 28. režima**.
-
-Među idejama o kojima se raspravlja su jednostavniji prekogranični porezni postupci i potencijalno lakše upravljanje PDV obvezama.
-
-Ali to je zasebna inicijativa i **nije isto što i sadašnji prijedlog EU Inc.-a**.
+Europski parlament u međuvremenu je otvorio i zasebnu raspravu o budućem poreznom modulu 28. režima, uključujući mogućnost jednostavnijih prekograničnih poreznih postupaka i lakšeg upravljanja PDV obvezama. Međutim, to nije isto što i sadašnji prijedlog EU Inc.-a i ne znači da Europa dobiva jednu zajedničku stopu poreza na dobit.
 
 {{< support1 >}}
 
-## A što je sa zaposlenicima i radnim pravom?
+## A što je sa zaposlenicima?
 
-Ni ovdje EU Inc. ne stvara potpuno jedinstven europski sustav.
+EU Inc. također ne bi stvorio jedno potpuno jedinstveno europsko radno pravo. Nacionalna pravila o zaposlenicima, socijalnom osiguranju, obveznim pravima radnika i zaštiti zaposlenika i dalje bi ostala vrlo važna.
 
-Postojeća pravila o radu, socijalnim pravima i zaštiti zaposlenika i dalje ostaju vrlo važna, a Europski parlament posebno je naglasio da 28. režim ne smije postati način za zaobilaženje nacionalne zaštite radnika.
+Tvrtka zato ne bi mogla jednostavno odabrati državu registracije s pravilima koja joj najviše odgovaraju, a zatim zanemariti prava zaposlenika u zemlji u kojoj oni stvarno rade. Ideja EU Inc.-a jest pojednostaviti korporativnu strukturu i prekogranično poslovanje, a ne otvoriti mogućnost zaobilaženja nacionalnog radnog i socijalnog zakonodavstva.
 
-Drugim riječima, tvrtka ne bi mogla jednostavno registrirati EU Inc. u državi s pravilima koja joj najviše odgovaraju i zatim zanemariti obvezna prava zaposlenika u državama u kojima oni stvarno rade.
+S druge strane, prijedlog pokušava učiniti jednostavnijim modele kojima startupi i rastuće kompanije privlače zaposlenike, uključujući različite oblike vlasničkih opcija i udjela. To je područje u kojem europske tvrtke često navode da teže konkuriraju američkim kompanijama zbog velike pravne i porezne fragmentacije među državama članicama.
 
-EU Inc. trebao bi pojednostaviti korporativni okvir, ali ne izbrisati nacionalno radno i socijalno zakonodavstvo.
+## Što će biti s nacionalnim i lokalnim poticajima?
 
-## Što će biti s nacionalnim poticajima?
+Ovo bi moglo postati jedno od najzanimljivijih praktičnih pitanja cijelog EU Inc. projekta. Nacionalni, regionalni i gradski programi pomoći često imaju vlastita pravila o tome tko se smije prijaviti, gdje tvrtka mora poslovati, gdje se mora provoditi ulaganje, koliko ljudi mora zaposliti ili kakav lokalni gospodarski učinak projekt mora ostvariti.
 
-Ovo bi moglo postati jedno od praktično najzanimljivijih pitanja EU Inc.-a.
+Kod EU Inc.-a situacija postaje složenija jer mjesto registracije, državljanstvo vlasnika i mjesto stvarne poslovne aktivnosti više ne moraju pokazivati prema istoj državi. Njemački državljanin mogao bi, primjerice, osnovati EU Inc. u Francuskoj, a najveći dio poslovanja razvijati u Njemačkoj.
 
-Mnogi današnji nacionalni i regionalni programi potpore ne gledaju samo što tvrtka radi. Uvjeti mogu biti povezani sa **sjedištem društva, vlasničkom strukturom, mjestom ulaganja, zaposlenicima ili udjelom poslovne aktivnosti u određenoj državi**.
+Postavlja se tada vrlo praktično pitanje: može li takva kompanija konkurirati za njemačku potporu jer ulaže i posluje u Njemačkoj, iako je registrirana u Francuskoj? Može li konkurirati za francusku potporu zato što je pravno registrirana u Francuskoj, iako njezin vlasnik nije francuski državljanin? Odgovor neće biti automatski isti za svaki program jer će države i dalje moći propisivati objektivne kriterije povezane s mjestom ulaganja, zaposlenicima, vrstom projekta i stvarnim gospodarskim učinkom.
 
-A EU Inc. namjerno pokušava odvojiti pitanje registriranog sjedišta od pitanja gdje se stvarna gospodarska aktivnost odvija.
+Međutim, sama ideja EU Inc.-a ide prema tome da tvrtka **ne bi smjela biti automatski diskriminirana samo zato što joj je registrirano sjedište u drugoj državi članici**. Jednako tako, u stvarno jedinstvenom europskom tržištu teško bi bilo opravdati sustav u kojem kompanija ne može pristupiti određenoj poslovnoj potpori samo zato što vlasnik nije državljanin države koja je potporu raspisala, ako svi drugi opravdani uvjeti programa mogu biti ispunjeni.
 
-Prijedlog ide u smjeru zabrane određenih diskriminatornih mjera prema EU Inc. društvima samo zato što imaju registrirano sjedište u drugoj državi članici.
+To ne znači da bi EU Inc. automatski dobio pravo na svaki poticaj u svakoj članici. Države bi i dalje mogle tražiti da se novac uloži upravo na njihovu teritoriju, da se tamo otvore radna mjesta ili da projekt donese korist njihovom gospodarstvu. Ali **takve se tvrtke ne bi smjele gubiti između različitih nacionalnih pravila samo zbog formalne oznake države registracije ili državljanstva njihovih vlasnika**.
 
-To, međutim, ne znači da bi EU Inc. automatski imao pravo na svaki nacionalni poticaj.
-
-Država bi i dalje mogla zahtijevati da se konkretno ulaganje provodi na njezinu teritoriju, da se ondje otvore radna mjesta, da projekt donosi određeni lokalni gospodarski učinak ili da budu zadovoljeni drugi objektivni kriteriji programa.
-
-Posebno će biti zanimljivo vidjeti kako će se u budućnosti tretirati programi koji pristup pomoći povezuju s **vlasničkom strukturom društva ili određenim udjelom domaćeg vlasništva**.
-
-Ako EU Inc. treba biti stvarno paneuropska kompanija koja može biti registrirana u jednoj članici i poslovati u drugoj, takvi kriteriji mogli bi postati sve teže uskladivi s idejom jedinstvenog tržišta.
-
-EU Inc. zato možda neće promijeniti samo način na koji se kompanije osnivaju.
-
-Mogao bi otvoriti i puno šire pitanje: **što u jedinstvenom europskom tržištu zapravo znači „domaća tvrtka“?**
+Upravo zato EU Inc. otvara pitanje mnogo šire od osnivanja tvrtke za 48 sati: **što u jedinstvenom europskom tržištu zapravo znači „domaća tvrtka“?**
 
 {{< support2 >}}
 
-## EU Inc. pokušava olakšati i dolazak investitora
+## EU Inc. zamišljen je i za lakše privlačenje investitora
 
-Projekt je snažno usmjeren na startupe i scale-up kompanije kojima je danas širenje iz jedne države članice u drugu često povezano s novim pravnicima, novim pravilima i drugačijim korporativnim strukturama.
+Velik dio projekta usmjeren je na startupe i scale-up kompanije koje žele prikupiti kapital u više država članica. Danas investitor koji razumije pravila ulaganja u njemačku kompaniju ne mora nužno razumjeti i pravila francuskog, talijanskog, estonskog ili rumunjskog društva, a trošak pravnog savjetovanja raste sa svakim novim tržištem.
 
-EU Inc. zato predviđa fleksibilnije upravljanje kapitalom, različite klase udjela ili dionica te korištenje instrumenata poput SAFE ugovora za budući vlasnički kapital.
+EU Inc. zato bi trebao omogućiti fleksibilnije upravljanje kapitalom, različite klase udjela ili dionica, digitalniji prijenos vlasništva i korištenje investicijskih instrumenata prikladnijih startupima. Ideja je da oznaka EU Inc. s vremenom investitoru sama po sebi kaže koja su osnovna korporativna pravila kompanije, bez obzira na državu njezine registracije.
 
-Prijenos udjela također bi se trebao moći provoditi digitalno bez obveznog fizičkog dolaska pred posrednika.
+To je posebno važno za europske tehnološke kompanije koje često počnu u relativno maloj nacionalnoj ekonomiji, a već u ranoj fazi moraju tražiti klijente, zaposlenike i kapital preko granice.
 
-Cilj je da investitor koji razumije EU Inc. ne mora svaki put iz početka učiti potpuno drugačiji nacionalni sustav kada ulaže u kompaniju iz druge države članice.
+## Što ako već imate postojeću tvrtku?
 
-Predviđena je i mogućnost standardiziranih programa vlasničkih opcija za zaposlenike, što je posebno važno startupima koji talent često privlače i udjelima u budućoj vrijednosti kompanije.
+EU Inc. nije zamišljen samo za poduzetnike koji tek pokreću posao. Prema prijedlogu, postojeće nacionalno društvo moglo bi se pretvoriti u EU Inc. kroz domaću ili prekograničnu konverziju, bez potrebe da se postojeća kompanija nužno prvo ugasi i nakon toga osnuje nova.
 
-## Što ako već imate d.o.o.?
+To bi moglo biti posebno zanimljivo poduzećima koja su započela kao lokalne kompanije, ali su s vremenom počela imati zaposlenike, kupce, dobavljače ili investitore u više država članica. Umjesto stvaranja čitavog niza zasebnih nacionalnih struktura, EU Inc. trebao bi ponuditi jednu prepoznatljiviju korporativnu osnovu.
 
-EU Inc. nije namijenjen samo potpuno novim kompanijama.
-
-Prema prijedlogu, postojeća društva mogla bi prijeći na EU Inc. kroz domaću ili prekograničnu konverziju.
-
-To znači da postojeći hrvatski d.o.o. u budućnosti ne bi nužno morao biti ugašen kako bi njegovi vlasnici osnovali potpuno novu europsku kompaniju.
-
-Ako konačna pravila ostanu slična prijedlogu, mogao bi postojati postupak kojim se postojeće društvo pretvara u EU Inc.
-
-To bi moglo biti posebno zanimljivo tvrtkama koje su započele kao lokalni posao, ali su s vremenom počele poslovati, zapošljavati ili tražiti investitore u više država članica.
+Naravno, konačni uvjeti takve konverzije tek će ovisiti o tekstu koji na kraju usvoje Europski parlament i Vijeće.
 
 {{< support1 >}}
 
-## Lakše bi trebalo biti i zatvoriti neuspjelu tvrtku
+## Lakše otvoriti, ali i lakše zatvoriti tvrtku
 
-Europska komisija pokušava obuhvatiti cijeli životni ciklus kompanije, a ne samo njezino otvaranje.
+Europska komisija pokušava obuhvatiti cijeli životni ciklus kompanije, a ne samo njezino osnivanje. Zato su dio prijedloga i digitalniji postupci likvidacije solventnih društava te jednostavniji procesi u pojedinim slučajevima insolventnosti.
 
-Predviđeni su digitalniji i jednostavniji postupci likvidacije solventnih društava, elektronička komunikacija s vjerovnicima te pojednostavljeni postupci za određene slučajeve insolventnosti.
+To je važnije nego što na prvi pogled izgleda. Poduzetnički sustav nije konkurentan samo ako je lako otvoriti uspješnu tvrtku, nego i ako neuspjeli poslovni projekt ne znači godine administrativnih postupaka, troškova i pravne neizvjesnosti.
 
-To je važan dio prijedloga koji često ostaje u sjeni atraktivnog obećanja o osnivanju za 48 sati.
+Ako EU Inc. želi potaknuti ljude da češće pokreću kompanije i lakše ulažu preko granica, mora omogućiti i relativno uredan izlazak iz poslovanja kada projekt ne uspije.
 
-Za poduzetništvo nije važno samo koliko je lako otvoriti uspješnu tvrtku.
+## Kada bi EU Inc. mogao stvarno krenuti?
 
-Važno je i koliko košta i koliko traje zatvaranje poslovnog projekta koji nije uspio.
+Na dan 22. kolovoza 2026. odgovor je jednostavan: **još ne znamo**. Prijedlog postoji, ali zakonodavni postupak nije završen i pojedini elementi mogu se promijeniti tijekom pregovora Europskog parlamenta i država članica.
 
-## Kada ćemo stvarno moći otvoriti EU Inc.?
+Tek nakon konačnog usvajanja pravila i izgradnje potrebne digitalne infrastrukture moći će se govoriti o stvarnom datumu od kojeg bi poduzetnici mogli registrirati EU Inc.
 
-Za sada – **ne još**.
-
-Europska komisija zakonodavni je prijedlog predstavila 18. ožujka 2026., ali za njegovo usvajanje potrebno je završiti redovni zakonodavni postupak između Europskog parlamenta i Vijeća EU-a.
-
-Na dan 22. kolovoza 2026. postupak je još otvoren.
-
-Europski parlament još nije završio svoju poziciju, dok se u Vijeću već raspravlja o kompromisnim izmjenama prijedloga.
-
-To znači da se pojedini elementi – uključujući rokove, uvjete, procedure i odnos EU Inc.-a prema nacionalnim pravilima – još mogu promijeniti prije konačnog usvajanja.
-
-Tek nakon donošenja konačnog propisa i uspostave potrebne digitalne infrastrukture moći će se govoriti o stvarnom datumu od kojeg će poduzetnici moći registrirati EU Inc.
-
-Zato su tvrdnje da se **„sada može otvoriti europska tvrtka za 100 eura“ pogrešne**.
-
-Preciznije je reći: **Europska unija upravo priprema pravni okvir prema kojem bi to trebalo postati moguće.**
+Zato tvrdnja da se danas već može otvoriti „europska tvrtka za 100 eura“ nije točna. Preciznije je reći da Europska unija priprema sustav koji bi, ako ključni dijelovi prijedloga ostanu na snazi, trebao omogućiti **online osnivanje za 48 sati, uz trošak do 100 eura i bez propisanog minimalnog temeljnog kapitala**.
 
 ## Naš osvrt
 
-- EU Inc. mogao bi biti jedna od praktično najvažnijih promjena europskog prava društava posljednjih godina jer pokušava stvoriti prepoznatljiv pravni oblik koji funkcionira širom jedinstvenog tržišta.
-- Najatraktivniji dio prijedloga je potpuno digitalna fast-track registracija u roku od 48 sati uz maksimalni trošak od 100 eura.
-- Tih 100 eura nije temeljni kapital. Prema prijedlogu, EU Inc. ne bi imao obvezni minimalni kapital, a predviđena je čak i mogućnost kapitala od 0 eura.
-- EU Inc. mogao bi biti registriran u jednoj državi članici, dok se njegova glavna poslovna aktivnost odvija u drugoj, pod uvjetom da registrirano sjedište i središnja uprava ili glavno mjesto poslovanja ostaju unutar EU-a.
-- To ipak ne znači da nestaju nacionalni porezi, radno pravo i sva druga nacionalna pravila. EU Inc. stvara zajedničku korporativnu jezgru, ali ne pretvara Europsku uniju u jednu poreznu jurisdikciju.
-- Posebno će biti zanimljivo pitanje nacionalnih poticaja. Ako europska kompanija više ne mora imati registrirano sjedište u istoj državi u kojoj stvarno posluje, kriteriji povezani sa sjedištem, vlasničkom strukturom i „domaćim“ statusom tvrtke mogli bi postati sve važniji predmet rasprave.
-- Velika prednost mogao bi biti i princip „samo jednom“, prema kojem poduzetnici više ne bi trebali iste podatke ponovno prijavljivati poslovnom registru, poreznoj upravi, PDV sustavu, socijalnom osiguranju i registru stvarnih vlasnika.
-- Mogućnost pretvaranja postojećih nacionalnih društava u EU Inc. znači da projekt nije zanimljiv samo novim startupima, nego potencijalno i tisućama postojećih europskih poduzeća koja žele poslovati preko granica.
-- Najveća nepoznanica trenutačno je konačni tekst. EU Inc. još nije usvojen i pravila se tijekom pregovora Europskog parlamenta i Vijeća mogu promijeniti.
-- Ako ipak prežive ključni elementi prijedloga – 48 sati, najviše 100 eura, 0 eura minimalnog kapitala i digitalno poslovanje preko granica – pitanje više neće biti samo koliko je lako otvoriti tvrtku, nego hoće li Europa napokon dobiti pravni oblik koji je doista zamišljen za jedinstveno tržište.
+- EU Inc. mogao bi biti jedna od najvažnijih promjena europskog prava društava posljednjih godina jer prvi put pokušava stvoriti pravni oblik zamišljen prvenstveno za poslovanje na cijelom jedinstvenom tržištu.
+- Najatraktivniji dio prijedloga je digitalna fast-track registracija u roku od 48 sati uz maksimalni trošak od 100 eura.
+- Tih 100 eura nije temeljni kapital. Prema sadašnjem prijedlogu EU Inc. ne bi imao obvezni minimalni kapital, a predviđena je i mogućnost kapitala od 0 eura.
+- Mogućnost da registrirano sjedište bude u jednoj državi, a glavno poslovanje u drugoj mogla bi bitno promijeniti način na koji europski poduzetnici biraju gdje će osnovati kompaniju.
+- EU Inc. ipak ne znači jedan europski porez, jedno radno pravo niti automatsko pravo na sve nacionalne poticaje. Nacionalna pravila i dalje će ostati važna ondje gdje ih europski propis ne harmonizira.
+- Posebno će važno biti pitanje javnih potpora. Tvrtke koje stvarno ulažu i posluju u određenoj članici ne bi smjele biti automatski isključene samo zbog države registracije ili državljanstva vlasnika, dok bi države i dalje trebale moći tražiti stvarnu lokalnu investiciju, radna mjesta ili gospodarski učinak.
+- Upravo će na primjeru poticaja postati jasno koliko je EU spreman stvarno primijeniti ideju jedinstvenog tržišta, a ne samo omogućiti lakšu registraciju tvrtke.
+- Načelo „samo jednom“ moglo bi poduzetnicima u praksi značiti jednako mnogo kao i osnivanje za 48 sati, jer pokušava ukloniti stalno ponovno dostavljanje istih podataka različitim državnim tijelima.
+- Mogućnost pretvaranja postojećih nacionalnih društava u EU Inc. znači da projekt nije važan samo za nove startupe nego i za postojeće kompanije koje se žele širiti preko granica.
+- Najveća nepoznanica ostaje konačni tekst. EU Inc. još nije usvojen i pravila se tijekom zakonodavnog postupka mogu promijeniti prije nego što novi oblik tvrtke stvarno postane dostupan.
 
 **Disclaimer:** Ovaj članak služi isključivo u informativne svrhe i ne predstavlja pravni, porezni, financijski ili poslovni savjet. EU Inc. je na dan 22. kolovoza 2026. zakonodavni prijedlog koji još nije konačno usvojen. Odredbe, rokovi i uvjeti mogu se promijeniti tijekom zakonodavnog postupka.
 
