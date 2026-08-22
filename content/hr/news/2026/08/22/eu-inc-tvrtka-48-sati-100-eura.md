@@ -85,6 +85,12 @@ Tvrtka zato ne bi mogla jednostavno odabrati državu registracije s pravilima ko
 
 S druge strane, prijedlog pokušava učiniti jednostavnijim modele kojima startupi i rastuće kompanije privlače zaposlenike, uključujući različite oblike vlasničkih opcija i udjela. To je područje u kojem europske tvrtke često navode da teže konkuriraju američkim kompanijama zbog velike pravne i porezne fragmentacije među državama članicama.
 
+## Tvrtka za 48 sati – ali što je s obračunom plaće? Hoće li i dalje zbog toga trebati knjigovođe?
+
+EU Inc. mogao bi znatno pojednostaviti osnivanje kompanije, ali zasad ne rješava jednu od najvećih svakodnevnih administrativnih obveza malih poduzetnika – obračun plaća, poreza i doprinosa. 
+
+Problem zato nije samo postojanje različitih doprinosa, nego činjenica da mali poslodavac mora poznavati i pratiti nacionalna pravila, osnovice, porezne stope, bolovanja, godišnje odmore i promjene propisa ili za to angažirati računovođu. EU Inc. u sadašnjem prijedlogu taj dio ne harmonizira. Dugoročno bi zato mnogo veće administrativno pojednostavljenje bilo kada bi službeni digitalni sustav mogao automatski primjenjivati važeća pravila države u kojoj zaposlenik radi: poslodavac bi, primjerice, odredio da zaposleniku želi isplatiti 2.000 eura neto, a sustav bi sam izračunao bruto plaću, doprinose zaposlenika i poslodavca, porez, ukupni trošak rada te pripremio potrebne prijave. Ako EU želi da se kompanija može osnovati za 48 sati, logično je postaviti i pitanje koliko će jednostavno biti voditi je svakog sljedećeg mjeseca.
+
 ## Što će biti s nacionalnim i lokalnim poticajima?
 
 Ovo bi moglo postati jedno od najzanimljivijih praktičnih pitanja cijelog EU Inc. projekta. Nacionalni, regionalni i gradski programi pomoći često imaju vlastita pravila o tome tko se smije prijaviti, gdje tvrtka mora poslovati, gdje se mora provoditi ulaganje, koliko ljudi mora zaposliti ili kakav lokalni gospodarski učinak projekt mora ostvariti.
