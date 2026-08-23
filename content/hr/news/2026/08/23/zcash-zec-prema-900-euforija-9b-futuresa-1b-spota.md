@@ -73,23 +73,15 @@ Drugim riječima, futures volumen bio je približno **devet puta veći od spot v
 
 To ne znači da nema stvarne kupnje ZEC-a. Milijarda dolara spot volumena sama po sebi predstavlja vrlo veliku aktivnost i pokazuje da je potražnja na spot tržištu također snažno porasla.
 
-Ali $9,5 milijardi futures volumena ne znači da je $9,5 milijardi novog kapitala „ušlo u Zcash“.
-
-Futures volumen zbraja trgovanje ugovorima koje se tijekom dana može ponavljati mnogo puta, a pozicije se mogu otvarati uz leverage. Zato takvu brojku ne treba poistovjećivati sa stvarnom kupnjom $9,5 milijardi vrijednog ZEC-a.
+Ali $9,5 milijardi futures volumena ne znači da je $9,5 milijardi novog kapitala „ušlo u Zcash“. Futures volumen zbraja trgovanje ugovorima koje se tijekom dana može ponavljati mnogo puta, a pozicije se mogu otvarati uz leverage. Zato takvu brojku ne treba poistovjećivati sa stvarnom kupnjom $9,5 milijardi vrijednog ZEC-a.
 
 Ona ipak govori nešto vrlo važno: **trenutačno je najveći dio ukupne trgovinske aktivnosti oko ZEC-a koncentriran upravo na tržištu derivata.**
 
-To znači da rast cijene mogu dodatno ubrzavati leveraged long pozicije, zatvaranje shortova, prisilne likvidacije i momentum trgovci koji ulaze kada cijena već počne brzo rasti.
-
-Kada se takav mehanizam pokrene, relativno manja promjena ponude i potražnje na spot tržištu može proizvesti mnogo veći pomak cijene.
-
-Isti mehanizam radi i u obrnutom smjeru. Ako momentum stane, leveraged pozicije i prisilne likvidacije mogu ubrzati pad jednako snažno kao što su prethodno ubrzavale rast.
+To znači da rast cijene mogu dodatno ubrzavati leveraged long pozicije, zatvaranje shortova, prisilne likvidacije i momentum trgovci koji ulaze kada cijena već počne brzo rasti. Kada se takav mehanizam pokrene, relativno manja promjena ponude i potražnje na spot tržištu može proizvesti mnogo veći pomak cijene. Isti mehanizam radi i u obrnutom smjeru. Ako momentum stane, leveraged pozicije i prisilne likvidacije mogu ubrzati pad jednako snažno kao što su prethodno ubrzavale rast.
 
 ## Ironwood je riješio najvažniji problem — ali nije izbrisao prošlost
 
-Zcash zajednica nije ostavila Orchard problem otvorenim. Nakon hitne zakrpe razvijen je Ironwood, a **NU6.3 aktiviran je 28. srpnja** na mainnetu, na block heightu 3.428.143.
-
-Stari Orchard pool zatvoren je za normalnu novu aktivnost, dok sredstva koja izlaze iz njega moraju proći kroz javno mjerljiv **turnstile** prije prelaska u novi Ironwood pool.
+Zcash zajednica nije ostavila Orchard problem otvorenim. Nakon hitne zakrpe razvijen je Ironwood, a **NU6.3 aktiviran je 28. srpnja** na mainnetu, na block heightu 3.428.143. Stari Orchard pool zatvoren je za normalnu novu aktivnost, dok sredstva koja izlaze iz njega moraju proći kroz javno mjerljiv **turnstile** prije prelaska u novi Ironwood pool.
 
 To je iznimno važan mehanizam upravo zbog mogućeg counterfeit ZEC-a.
 
@@ -97,13 +89,7 @@ Blockchain može pratiti koliko je legitimnog ZEC-a ušlo u Orchard. Zato kroz t
 
 Do 22. kolovoza iz zatvorenog Orcharda migriralo je približno **3,04 milijuna ZEC**, odnosno oko **84,4% salda** koji se u njemu nalazio u trenutku zatvaranja. U Orchardu je ostalo približno 562.000 ZEC.
 
-Dosadašnja migracija nije proizvela objavljeni problem s bilancom turnstilea.
-
-To je vrlo pozitivan signal, ali ne daje odgovor na svako povijesno pitanje.
-
-Ironwood nije vremenski stroj. On ne može dokazati da netko, primjerice 2023. ili 2024., nikada nije iskoristio Orchard bug i stvorio counterfeit ZEC koji je kasnije ostao unutar starog poola.
-
-Ono što može učiniti jest spriječiti da hipotetski nelegitimni višak izađe iz zatvorenog Orcharda i postane dio verificirane nove cirkulirajuće ponude.
+Dosadašnja migracija nije proizvela objavljeni problem s bilancom turnstilea. To je vrlo pozitivan signal, ali ne daje odgovor na svako povijesno pitanje. Ironwood nije vremenski stroj. On ne može dokazati da netko, primjerice 2023. ili 2024., nikada nije iskoristio Orchard bug i stvorio counterfeit ZEC koji je kasnije ostao unutar starog poola. Ono što može učiniti jest spriječiti da hipotetski nelegitimni višak izađe iz zatvorenog Orcharda i postane dio verificirane nove cirkulirajuće ponude.
 
 Zato danas možemo reći da Zcash ima mehanizam kojim ponovno uspostavlja provjerljiv integritet cirkulirajućeg supplyja. **Ne možemo reći da je naknadno dokazano da tijekom četiri godine postojanja ranjivosti nikada nije napravljen niti jedan counterfeit ZEC.**
 
@@ -111,19 +97,13 @@ Zato danas možemo reći da Zcash ima mehanizam kojim ponovno uspostavlja provje
 
 ## Tržište je od straha do euforije stiglo za manje od tri mjeseca
 
-Upravo je zato sadašnji ZEC rally toliko zanimljiv.
-
-Početkom lipnja cijena se urušila dok se tržište pitalo postoji li možda ZEC koji nikada nije smio postojati. Metaadvisor je 7. lipnja, kada se cijena oporavila prema $420, pisao da pitanje povjerenja ostaje.
+Upravo je zato sadašnji ZEC rally toliko zanimljiv. - Početkom lipnja cijena se urušila dok se tržište pitalo postoji li možda ZEC koji nikada nije smio postojati. Metaadvisor je 7. lipnja, kada se cijena oporavila prema $420, pisao da pitanje povjerenja ostaje.
 
 Krajem kolovoza ZEC se ponovno približava $900. Grayscale najavljuje mogući početak trgovanja na NYSE Arca. Povezana kompanija razmatra doprinos od približno 200.000 ZEC. Cypherpunk gomila ZEC i širi rudarenje. Futures volumen približio se $10 milijardi dnevno.
 
-Fundamentalna situacija u međuvremenu se doista promijenila. Orchard ranjivost je zakrpana, Ironwood je aktiviran i velika većina ZEC-a iz starog poola već je prošla kroz migraciju.
+Fundamentalna situacija u međuvremenu se doista promijenila. Orchard ranjivost je zakrpana, Ironwood je aktiviran i velika većina ZEC-a iz starog poola već je prošla kroz migraciju.  Ne bi bilo korektno današnju mrežu opisivati kao da se od lipnja ništa nije dogodilo.
 
-Ne bi bilo korektno današnju mrežu opisivati kao da se od lipnja ništa nije dogodilo.
-
-Ali jednako bi pogrešno bilo zaključiti da je povijesno pitanje automatski dobilo odgovor samo zato što je ZEC ponovno postao jedan od najbrže rastućih velikih tokena.
-
-Nije.
+Ali jednako bi pogrešno bilo zaključiti da je povijesno pitanje automatski dobilo odgovor samo zato što je ZEC ponovno postao jedan od najbrže rastućih velikih tokena. Nije.
 
 ## Što sada treba pratiti kod ZEC-a?
 
