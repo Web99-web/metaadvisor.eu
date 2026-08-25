@@ -12,7 +12,7 @@ image: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.png"
 thumbnail: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.png"
 image_alt: "Treba li ukinuti beskonačno skrolanje na mobitelima i uvesti obvezne pauze"
 image_credit: "Metaadvisor.eu – slika je simbolična"
-tags: ["infinite scroll", "social media", "Instagram", "TikTok", "Snapchat", "smartphones", "children", "Digital Services Act", "addictive design", "screen time"]
+tags: ["beskonačno skrolanje", "društvene mreže", "Instagram", "TikTok", "Facebook", "Snapchat", "pametni telefoni", "smartphones", "djeca", "Akt o digitalnim uslugama", "DSA", "dizajn koji stvara ovisnost", "ovisnost", "manjak koncentracije", "nervoza", "nedovoljno sna", "loše spavanje", "loše ocjene", "anksioznost", "vrijeme provedeno pred ekranom", "screen time"]
 description: "Beskonačno skrolanje više nije samo problem jedne aplikacije. Korisnici mogu satima kružiti između Instagrama, TikToka, Snapchata i ponovno natrag. Trebaju li mobiteli dobiti stvarnu digitalnu kočnicu?"
 summary: "Europski regulatori već istražuju infinite scroll, autoplay i personalizirane preporuke kao dio mogućeg ovisničkog dizajna. No ograničenje jedne aplikacije ne rješava problem ako korisnik samo prijeđe na drugu. Jedno moguće rješenje je zajednički limit za beskonačne feedove i obvezna pauza od 60 do 90 minuta."
 ---
