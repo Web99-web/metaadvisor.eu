@@ -1,6 +1,6 @@
 ---
 title: "Što Meta radi sa snimkom vašeg lica?"
-slug: "sto-meta-faceook-instagram-radi-sa-snimkom-vaseg-lica"
+slug: "sto-meta-facebook-instagram-radi-sa-snimkom-vaseg-lica"
 date: 2026-08-26T08:00:00+02:00
 category: "Technology"
 translationKey: "what-meta-does-with-your-face-recording-2026-08-26"
