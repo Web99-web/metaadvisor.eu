@@ -154,6 +154,4 @@ Zato bi svaki zahtjev da korisnik okrene kameru prema sebi morao imati vrlo jedn
 **Disclaimer:** Ovaj članak služi isključivo u informativne svrhe. Opisani Meta postupci mogu se razlikovati ovisno o proizvodu, zemlji, vrsti računa i razlogu provjere. Tvrdnje o načinu obrade i brisanju podataka temelje se na javno dostupnim objašnjenjima Mete i njezinih partnera.
 
 
-
-
-*U suradnji s AI-jem.*
+<small style="color:#999; font-size:0.8em;">U suradnji s AI-jem.</small>
