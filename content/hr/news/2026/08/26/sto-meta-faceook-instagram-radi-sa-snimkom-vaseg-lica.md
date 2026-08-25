@@ -12,7 +12,7 @@ image: "/images/Meta/Meta-face-recording.png"
 thumbnail: "/images/Meta/Meta-face-recording.png"
 image_alt: "Što Meta radi sa snimkom vašeg lica tijekom video-selfie provjere identiteta"
 image_credit: "Metaadvisor.eu – slika je simbolična"
-tags: ["Meta", "Facebook", "Instagram", "facial recognition", "video selfie", "face recording", "biometrics", "biometric data", "privacy", "GDPR", "Yoti", "AI", "identity verification", "account recovery", "age verification"]
+tags: ["Meta", "Facebook", "Instagram", "prepoznavanje lica", "video selfie", "snimka lica", "biometrija", "biometrijski podaci", "privatnost", "GDPR", "Yoti", "AI", "provjera identiteta", "povrat računa", "provjera dobi"]
 description: "Meta ponovno koristi lice za provjeru identiteta, povrat računa i procjenu dobi. Tko obrađuje video-selfie, koliko se snimka čuva i ostaju li nakon brisanja izvedeni podaci?"
 summary: "Meta koristi nekoliko različitih sustava koji analiziraju lice: facial recognition za provjeru identiteta, AI procjenu dobi i video-selfie postupke. Neke snimke obrađuje i vanjska kompanija, a ključno pitanje ostaje što se događa s izvornim videom i podacima nastalim iz njega."
 ---
