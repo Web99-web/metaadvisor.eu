@@ -12,7 +12,7 @@ image: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.png"
 thumbnail: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.png"
 image_alt: "Sollte endloses Scrollen auf Smartphones abgeschafft und verpflichtende Pausen eingeführt werden"
 image_credit: "Metaadvisor.eu – das Bild ist symbolisch"
-tags: ["Infinite Scroll", "soziale Medien", "Instagram", "TikTok", "Snapchat", "Smartphones", "Kinder", "Digital Services Act", "Addictive Design", "Screen Time"]
+tags: ["Endlos-Scrolling", "soziale Medien", "Instagram", "TikTok", "Facebook", "Snapchat", "Smartphones", "smartphones", "Kinder", "Gesetz über digitale Dienste", "DSA", "süchtig machendes Design", "Sucht", "Konzentrationsmangel", "Nervosität", "Schlafmangel", "schlechter Schlaf", "schlechte Noten", "Angstzustände", "Bildschirmzeit", "screen time"]
 description: "Endloses Scrollen ist nicht mehr nur das Problem einer einzelnen App. Nutzer können stundenlang zwischen Instagram, TikTok, Snapchat und wieder zurück wechseln. Brauchen Smartphones eine echte digitale Bremse?"
 summary: "Europäische Regulierungsbehörden untersuchen bereits Infinite Scroll, Autoplay und personalisierte Empfehlungen als mögliche Elemente eines suchterzeugenden Designs. Doch die Begrenzung einer einzelnen App löst das Problem nicht, wenn Nutzer einfach zur nächsten wechseln. Eine mögliche Lösung wären gemeinsame Limits für endlose Feeds und verpflichtende Pausen von 90 bis 120 Minuten."
 ---
