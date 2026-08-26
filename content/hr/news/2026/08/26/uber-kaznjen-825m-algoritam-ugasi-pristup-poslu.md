@@ -73,6 +73,12 @@ Meta Oversight Board i sam je ove godine upozorio da Meta svake godine deaktivir
 
 Na internetu postoji i peticija protiv pogrešnih Meta deaktivacija koja je prema javno vidljivim podacima prešla **64.000 potpisa i ide prema 65.000**, što pokazuje da problem nije ograničen na nekoliko izoliranih slučajeva. Koliko je takvih korisnika u svijetu ukupno, nitko ne zna sa sigurnošću. Moguće je da ih je mnogo više, možda stotine tisuća ili i milijuni, ali točan broj nije javno poznat.
 
+<a href="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png" target="_blank" rel="noopener">
+  <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+       alt="EU Appeals Centre Europe i problemi korisnika Facebooka s žalbama"
+       style="width: 520px; max-width: 100%; height: auto;">
+</a>
+
 O tom smo problemu već pisali u tekstu <a href="/hr/news/facebook-dugogodisnji-profili-reputacijski-kredit-problem/" target="_blank" rel="noopener">Zašto na Facebooku profil star 15–20 godina nema reputacijski kredit?</a>.
 
 ## Ključno pitanje nije samo koristi li se AI
