@@ -116,15 +116,13 @@ To je drugačija struktura tržišta od one u kojoj kapital jednostavno bježi u
 
 Zlato i bakar tradicionalno šalju različite ekonomske signale. Gold se često kupuje kao zaštita od inflacije, fiskalnih problema, geopolitičke nesigurnosti ili pada vrijednosti valuta. Copper je puno više povezan s realnom ekonomijom – električnim mrežama, gradnjom, industrijom, energetikom, vozilima i podatkovnim centrima.
 
-Zbog toga se bakar često naziva "Dr. Copper", jer se njegovo kretanje koristi kao jedan od pokazatelja očekivanja buduće industrijske aktivnosti.
+Zbog toga se bakar često naziva "Dr. Copper", jer se njegovo kretanje koristi kao jedan od pokazatelja očekivanja buduće industrijske aktivnosti. Ipak, aktualni rekord bakra nije čist signal snažnijeg gospodarskog rasta.
 
-Ipak, aktualni rekord bakra nije čist signal snažnijeg gospodarskog rasta.
+Američke tarifne prijetnje, premještanje fizičkog metala u SAD, rekordne COMEX zalihe, smanjena raspoloživost bakra drugdje, problemi u rudnicima i poremećaji u preradi trenutno snažno utječu na cijenu. Zato će biti važnije pratiti što se događa nakon ovog skoka nego sam rekord. Ako copper ostane snažan, rudari nastave nadmašivati šire tržište, a rotaciji se pridruže cink, aluminij i drugi industrijski metali, signal bi postao znatno jači.
 
-Američke tarifne prijetnje, premještanje fizičkog metala u SAD, rekordne COMEX zalihe, smanjena raspoloživost bakra drugdje, problemi u rudnicima i poremećaji u preradi trenutno snažno utječu na cijenu.
+Najvažnija promjena zasad nije da je gold postao slab. Nije.
 
-Zato će biti važnije pratiti što se događa nakon ovog skoka nego sam rekord.
-
-Ako copper ostane snažan, rudari nastave nadmašivati šire tržište, a rotaciji se pridruže cink, aluminij i drugi industrijski metali, signal bi postao znatno jači.
+**Promjena je da metals trade više nije samo gold trade.**
 
 ## Naš osvrt
 
@@ -138,9 +136,6 @@ Ako copper ostane snažan, rudari nastave nadmašivati šire tržište, a rotaci
 * **Sljedeći signal koji ćemo pratiti je aluminij.** Ako se i on pridruži, dok industrijski metali i rudari nastave nadmašivati zlato i šire tržište, rotacija će biti puno jasnija.
 * **Capital Rotation Watch zato više ne treba promatrati Metals kao jednu kategoriju.** Precious metals i industrial metals sada počinju pokazivati različit momentum.
 
-Najvažnija promjena zasad nije da je gold postao slab. Nije.
-
-**Promjena je da metals trade više nije samo gold trade.**
 
 **Disclaimer:** Ovaj članak služi isključivo u informativne svrhe i ne predstavlja financijski ili investicijski savjet. Cijene metala, dionica, ETF-ova i derivata brzo se mijenjaju. Perpetual futures i drugi derivati, posebno uz korištenje financijske poluge, nose visok rizik gubitka. Podaci o minimalnom iznosu naloga i uvjetima trgovanja mogu se mijenjati ovisno o burzi i tržišnoj cijeni.
 
