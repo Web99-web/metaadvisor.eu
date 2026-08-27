@@ -1,5 +1,5 @@
 ---
-title: "Metin bivši direktor sigurnosti koristio Signal"
+title: "Metin bivši direktor sigurnosti koristio Signal, a ne WhatsApp"
 slug: "meta-safety-director-signal-ne-whatsapp-arturo-bejar"
 date: 2026-08-27T18:00:00+02:00
 category: "Technology"
