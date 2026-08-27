@@ -49,7 +49,7 @@ Ali za bivšeg Facebookova direktora sigurnosti izbor konkurentske privacy aplik
 
 ## Meta je upravo Signal pokušala iskoristiti protiv njega
 
-Signal je u sudskom procesu postao mnogo više od zanimljivog detalja.
+Signal app je u sudskom procesu postao mnogo više od zanimljivog detalja.
 
 Prije početka velikog američkog suđenja Meta je od savezne sutkinje tražila da Béjaru uopće ne dopusti svjedočenje. Jedan od važnih argumenata kompanije odnosio se upravo na njegove komunikacije putem Signala.
 
