@@ -116,7 +116,9 @@ Für gesperrte Nutzer gibt es noch ein weiteres praktisches Problem: Oft ist es 
 Wenn Login, Help Center und automatisierte Verfahren geschlossen sind, keine klare Antwort auf die Sperre oder auf Datenschutzfragen zur Gesichtsaufnahme erhältlich ist und alle Versuche im Kreis führen, bleibt eine Möglichkeit, die für einen der größten Technologiekonzerne der Welt fast absurd altmodisch wirkt: **Papier, Briefumschlag und Einschreiben**. Darüber haben wir hier geschrieben:
 
 <a href="https://metaadvisor.eu/de/news/facebook-gesperrt-einschreiben-meta-kontaktadresse/" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-Meta-address-for-registered-mail.png" alt="Meta-Adresse für ein Einschreiben nach der Sperrung eines Facebook-Kontos">
+<img src="/images/Meta/Facebook-Meta-address-for-registered-mail.png"
+     alt="Meta-Adresse für ein Einschreiben nach der Sperrung eines Facebook-Kontos"
+     style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>
 
 ### <a href="https://metaadvisor.eu/de/news/facebook-gesperrt-einschreiben-meta-kontaktadresse/" target="_blank" rel="noopener">Auf Facebook gesperrt? Versuchen Sie es per Einschreiben.</a>
