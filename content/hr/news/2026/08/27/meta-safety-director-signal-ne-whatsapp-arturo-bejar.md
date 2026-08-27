@@ -12,114 +12,92 @@ image: "/images/Meta/Meta-safety-director-Signal-not-WhatsApp.png"
 thumbnail: "/images/Meta/Meta-safety-director-Signal-not-WhatsApp.png"
 image_alt: "Bivši Metin direktor sigurnosti Arturo Béjar koristio Signal umjesto WhatsAppa za dio osjetljive komunikacije"
 image_credit: "Metaadvisor.eu – slika je simbolična"
-tags: ["Meta", "Facebook", "Instagram", "WhatsApp", "Signal", "Arturo Béjar", "sigurnost", "privatnost", "šifrirane poruke", "end-to-end enkripcija", "nestajuće poruke", "svjedočenje", "sud", "Mark Zuckerberg", "sigurnost djece", "društvene mreže", "zaštita djece", "regulacija", "Kalifornija", "Colorado", "Kentucky", "New Jersey", "Arizona", "Connecticut", "Delaware", "Georgia", "Havaji", "Idaho", "Illinois", "Indiana", "Kansas", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "Missouri", "Nebraska", "New York", "Sjeverna Karolina", "Sjeverna Dakota", "Ohio", "Oregon", "Pennsylvania", "Rhode Island", "Južna Karolina", "Južna Dakota", "Virginia", "Washington", "Zapadna Virginia", "Wisconsin", "Utah", "Massachusetts", "Mississippi", "New Hampshire", "Oklahoma", "Tennessee", "Vermont", "Florida"]
+tags: ["Meta", "Facebook", "Instagram", "WhatsApp", "Signal", "Arturo Béjar", "sigurnost", "privatnost", "šifrirane poruke", "end-to-end enkripcija", "nestajuće poruke", "svjedočenje", "sud", "Mark Zuckerberg", "regulacija", "Kalifornija", "Colorado", "Kentucky", "New Jersey", "Arizona", "Connecticut", "Delaware", "Georgia", "Havaji", "Idaho", "Illinois", "Indiana", "Kansas", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "Missouri", "Nebraska", "New York", "Sjeverna Karolina", "Sjeverna Dakota", "Ohio", "Oregon", "Pennsylvania", "Rhode Island", "Južna Karolina", "Južna Dakota", "Virginia", "Washington", "Zapadna Virginia", "Wisconsin", "Utah", "Massachusetts", "Mississippi", "New Hampshire", "Oklahoma", "Tennessee", "Vermont", "Florida"]
 description: "Arturo Béjar godinama je radio na sigurnosti korisnika Facebooka i Instagrama. U velikom američkom sporu protiv Mete otkriven je neobičan detalj: za dio osjetljive komunikacije koristio je Signal, a ne WhatsApp u vlasništvu Mete."
-summary: "Meta je pokušala spriječiti bivšeg direktora sigurnosti Artura Béjara da svjedoči, među ostalim zbog nestajućih poruka na Signalu. Sud mu je ipak dopustio iskaz. Tko je Béjar, zašto je njegovo svjedočenje bilo toliko važno i što je rekao o sigurnosti djece, Zuckerbergu i Metinoj kulturi?"
+summary: "Bivši Facebookov direktor sigurnosti Arturo Béjar koristio je Signal s nestajućim porukama za dio komunikacije povezane sa sporovima protiv Mete. Rekao je da kao sigurnosni stručnjak posebno pazi na operativnu sigurnost svojih komunikacija. Meta je zbog nestalih Signal poruka pokušala spriječiti njegovo svjedočenje, ali sud mu je ipak dopustio da svjedoči."
 ---
 
 *Slika je simbolična.*
 
-# Bivši Metin direktor sigurnosti koristio Signal, a ne WhatsApp: tko je Arturo Béjar i zašto je Meta pokušala zaustaviti njegovo svjedočenje?
+# Bivši Metin direktor sigurnosti koristio Signal, a ne WhatsApp: zašto je Arturo Béjar birao aplikaciju za sigurnu komunikaciju?
 
-Jedan detalj iz velikog američkog sudskog procesa protiv Mete posebno privlači pažnju. Arturo Béjar, čovjek koji je godinama radio upravo na sigurnosti korisnika unutar Facebooka i kasnije Instagrama, za dio osjetljive komunikacije koristio je Signal, a ne WhatsApp u vlasništvu Mete.
+Jedan detalj iz velikog američkog sudskog procesa protiv Mete posebno privlači pažnju. Arturo Béjar, bivši Facebookov direktor koji je godinama radio upravo na sigurnosti korisnika, za dio osjetljive komunikacije povezane sa sporovima protiv Mete koristio je Signal, a ne WhatsApp koji pripada kompaniji u kojoj je godinama radio.
 
-Meta je upravo njegovu uporabu Signala i poruka koje se automatski brišu kasnije pokušala iskoristiti kako bi ga spriječila da svjedoči. Kompanija je tvrdila da su nestale komunikacije koje su trebale biti sačuvane za sudski postupak.
+Sama činjenica da je koristio Signal ne dokazuje da Béjar nije vjerovao WhatsAppu i iz dostupnih sudskih dokumenata ne možemo izvesti takav zaključak. Ali izbor aplikacije posebno je zanimljiv zbog njegove profesionalne pozadine: riječ je o čovjeku koji je godinama radio na sigurnosti Facebooka i koji je kasnije sam objasnio da vrlo ozbiljno shvaća sigurnost vlastite komunikacije.
 
-Iz dostupnih sudskih izvještaja ne može se zaključiti **zašto je Béjar odabrao Signal**, pa ne bi bilo korektno tvrditi da WhatsAppu nije vjerovao. Ali paradoks je teško ne primijetiti: bivši Facebookov direktor koji se godinama bavio sigurnošću za dio osjetljive komunikacije koristio je konkurentsku aplikaciju poznatu upravo po privatnosti, end-to-end enkripciji i disappearing messages.
+## "Professional paranoid": zašto je Béjar koristio Signal?
 
-## Tko je zapravo Arturo Béjar?
+Tijekom ranijeg ispitivanja o njegovim komunikacijskim navikama Béjar je govorio o korištenju Signala i disappearing messages, odnosno poruka koje se nakon određenog vremena automatski brišu.
 
-Béjar nije bio zaposlenik s periferije kompanije. U Facebook je došao 2009. i tijekom prvog razdoblja rada obavljao visoke inženjerske i sigurnosne funkcije. Vodio je timove koji su se bavili zaštitom korisnika i problemima poput bullyinga, sigurnosti djece, suicidalnog sadržaja i drugih štetnih iskustava na platformi.
+Opisao se kao svojevrsni **"professional paranoid"** kada je riječ o sigurnosti komunikacije i objasnio da posebno pazi na vlastiti communications OPSEC, odnosno operativnu sigurnost komunikacije.
 
-U Facebooku je ostao do 2015. godine. Na kasnijem sudskom ispitivanju rekao je da je iz kompanije otišao u dobrim odnosima, da je imao podršku Marka Zuckerberga i da je i dalje ponosan na dio posla koji je tamo napravio.
+U sigurnosnom svijetu OPSEC nije samo pitanje može li netko pročitati sadržaj poruke. Važno je i kojim se kanalom komunicira, koje informacije ostaju spremljene, koliko dugo postoje, tko im može pristupiti i kakav digitalni trag komunikacija ostavlja iza sebe.
 
-To je važan detalj jer njegov kasniji kritički iskaz nije jednostavno moguće svesti na priču o ogorčenom bivšem zaposleniku koji se s kompanijom razišao u sukobu.
+Signal je upravo zbog takvog pristupa postao popularan među sigurnosnim stručnjacima, novinarima, aktivistima, odvjetnicima i drugim ljudima kojima je privatnost komunikacije posebno važna.
 
-Godine 2019. vratio se u Metin ekosustav, ovaj put kao konzultant koji je radio na Instagramovu wellbeing timu, i ondje ostao do 2021.
+## Je li koristio Signal privatno, a WhatsApp poslovno?
 
-## Problem je postao osoban kada je njegova kći doživjela uznemiravanje
+Za takvu podjelu zasad nema dovoljno javno dostupnih dokaza.
 
-Béjarovo zanimanje za sigurnost mladih nije ostalo samo profesionalno. Njegova tinejdžerska kći koristila je Instagram i, prema njegovu kasnijem svjedočenju, dobivala neželjene seksualne poruke, fotografije muških genitalija i mizogine uvrede.
+Ne možemo tvrditi da je Béjar koristio Signal za privatne razgovore, a WhatsApp za poslovne, niti da je Signal odabrao zato što nije imao povjerenja u WhatsApp. Sudski materijal koji je postao važan odnosio se na njegovu komunikaciju povezanu s pravnim postupcima protiv Mete.
 
-Rekla mu je i da alati kojima je takav sadržaj trebala prijaviti nisu uvijek radili učinkovito ili ih u nekim situacijama nije bilo moguće koristiti.
+Zato je najpreciznije reći da je **za dio osjetljive komunikacije koristio Signal s uključenim nestajućim porukama**.
 
-To ga je navelo da se ponovno detaljnije počne baviti onime što mladi korisnici zapravo doživljavaju na Instagramu, a ne samo onime što pokazuju Metine službene statistike o uklonjenom sadržaju i formalnim kršenjima pravila.
+Ali za bivšeg Facebookova direktora sigurnosti izbor konkurentske privacy aplikacije ipak ostaje zanimljiv detalj.
 
 {{< support1 >}}
 
-## 51% mladih prijavilo je loše iskustvo u samo sedam dana
+## Meta je upravo Signal pokušala iskoristiti protiv njega
 
-Prema Béjarovu svjedočenju, jedno interno istraživanje pokazalo je da je **51% ispitanih mladih korisnika u prethodnih sedam dana doživjelo neko loše ili štetno iskustvo na Instagramu**.
+Signal je u sudskom procesu postao mnogo više od zanimljivog detalja.
 
-Još neugodniji bio je podatak o tome koliko je takvog sadržaja nakon tih iskustava zapravo uklonjeno. Béjar je pred sudom govorio o iznimno niskoj stopi uklanjanja sadržaja u odnosu na broj korisnika koji su rekli da su doživjeli nešto štetno.
+Prije početka velikog američkog suđenja Meta je od savezne sutkinje tražila da Béjaru uopće ne dopusti svjedočenje. Jedan od važnih argumenata kompanije odnosio se upravo na njegove komunikacije putem Signala.
 
-Njegova poanta bila je da klasične platformine metrike mogu pokazivati sasvim drugačiju sliku od one koja se dobije kada se korisnike izravno pita jesu li bili izloženi seksualnom uznemiravanju, bullyingu, nasilju ili drugim štetnim iskustvima.
+Meta je tvrdila da je Béjar koristio disappearing messages u komunikaciji s državnim tužiteljima i drugim osobama povezanim sa sporovima te da su zbog toga nestale poruke koje su trebale biti sačuvane kao mogući dokazni materijal.
 
-Béjar je tvrdio da je takva razlika mogla stvarati **lažan dojam sigurnosti**.
+Kompanija je tvrdila da je Béjar znao za obvezu očuvanja relevantnih komunikacija te da je nastavljanjem korištenja poruka koje se automatski brišu postupao najmanje krajnje nepažljivo, a prema Metinoj argumentaciji možda i u lošoj vjeri.
 
-## Rezultate je poslao Zuckerbergu
+Tražili su ozbiljnu posljedicu: da jedan od najvažnijih svjedoka saveznih država uopće ne izađe pred porotu.
 
-Béjar je rezultate svojih istraživanja poslao najvišem vodstvu kompanije, uključujući Marka Zuckerberga i Adama Mosserija.
+## Sutkinja nije prihvatila Metin pokušaj da ga ukloni
 
-Prema njegovu iskazu, Zuckerbergu se obratio upravo zato što je dobro poznavao način na koji kompanija funkcionira. Tvrdio je da je tijekom godina imao više od stotinu interakcija sa Zuckerbergom i da je vidio koliko se brzo cijela organizacija može pomaknuti kada CEO nešto osobno proglasi prioritetom.
+Savezna sutkinja Yvonne Gonzalez Rogers nije prihvatila zahtjev da se Béjar potpuno isključi kao svjedok.
 
-Kako je to opisao pred sudom: kada Mark nešto postavi kao prioritet, **"mountains move"**.
+U sudskim izvještajima Metin pokušaj opisan je kao svojevrsni **"Hail Mary" pokušaj da se eliminira snažan svjedok tužitelja**.
 
-Béjar je Zuckerbergu 2021. poslao upozorenje nakon što je CEO javno tvrdio da kompanija ne stavlja profit ispred sigurnosti. Smatrao je da takva izjava daje pogrešan dojam o stvarnom stanju sigurnosti mladih korisnika.
+Sud je zaključio da nije dovoljno pokazano da je Béjar imao pravno provedivu obvezu trajnog čuvanja upravo tih Signal poruka na način na koji je Meta tvrdila. Béjaru je zato dopušteno svjedočiti, iako je Meta mogla nastaviti ispitivati okolnosti u kojima komunikacije više nisu bile dostupne.
 
-Na pitanje je li Zuckerberg odgovorio, Béjar je rekao da nije.
+Drugim riječima, ista funkcija zbog koje mnogi korisnici biraju Signal – mogućnost da poruke nakon određenog vremena nestanu – postala je središte procesnog sukoba oko toga treba li Béjaru uopće dopustiti da govori pred porotom.
+
+## Nestajuće poruke nisu isto što i uništavanje dokaza
+
+Važno je razlikovati dvije stvari.
+
+Korištenje disappearing messages samo po sebi nije dokaz pokušaja skrivanja nečega. Signal tu funkciju nudi svim korisnicima kao standardni alat privatnosti, a poruke se mogu automatski uklanjati nakon vremenskog razdoblja koje korisnici sami odrede.
+
+Situacija postaje pravno osjetljivija ako osoba već ima konkretnu obvezu očuvanja dokumentacije zbog sudskog spora ili očekivanog postupka. Tada pitanje više nije je li funkcija legalna ili normalna, nego je li određena komunikacija morala biti sačuvana.
+
+Upravo oko toga su se Meta i Béjar sporili.
 
 {{< support2 >}}
 
-## Više skrolanja znači više oglasa i više prihoda
+## Zašto ljudi poput sigurnosnih stručnjaka biraju Signal?
 
-Jedan od najupečatljivijih dijelova Béjarova svjedočenja odnosio se na poslovni model društvenih mreža i dizajn kojim se korisnika pokušava što dulje zadržati na platformi.
+Signal je izgrađen s vrlo drugačijom filozofijom od većine velikih komunikacijskih platformi. Sadržaj poruka zaštićen je end-to-end enkripcijom, a kompanija pokušava prikupljati vrlo malo metapodataka o svojim korisnicima.
 
-**Što korisnik više skrola, vidi više sadržaja; što vidi više sadržaja, može mu se prikazati više oglasa; što se prikaže više oglasa, kompanija ostvaruje više prihoda.**
+Aplikacija nema klasičan poslovni model temeljen na oglašavanju i profiliranju korisnika. Razvija je neprofitna Signal Foundation, a njezin protokol za enkripciju postao je toliko utjecajan da se Signal Protocol koristi i u drugim komunikacijskim sustavima.
 
-Ta vrlo jednostavna računica pokazuje zašto rasprava o sigurnosti korisnika nije odvojena od poslovnog modela. Ako određena zaštitna mjera smanjuje vrijeme provedeno na Instagramu ili Facebooku, ona može istodobno smanjiti engagement, broj prikazanih oglasa i prihod.
+WhatsApp također koristi end-to-end enkripciju za osobne razgovore i pritom koristi Signal Protocol, pa nije korektno predstaviti WhatsApp kao aplikaciju bez sigurnosti ili enkripcije.
 
-Béjar je tvrdio da su upravo rast, engagement i vrijeme provedeno na platformi dugo bili među dominantnim prioritetima kompanije, dok je sigurnost prečesto dolazila naknadno.
+Razlika je šira. Signal je od početka izgrađen oko ideje da se prikuplja što je moguće manje informacija o korisniku i njegovoj komunikaciji.
 
-Govorio je i o kulturi iz Facebookovih ranijih godina, kada je poznati slogan **"Move Fast and Break Things"** bio gotovo simbol kompanije. Prema njegovu iskazu, sigurnost korisnika često je bila nešto o čemu se ozbiljnije razmišljalo tek nakon što je proizvod već bio izgrađen i pušten među korisnike.
+Zbog toga je Béjarov izbor Signala kao sigurnosnog stručnjaka zanimljiv čak i bez nagađanja o tome što je mislio o WhatsAppu.
 
-## "Don't ask, don't tell" za djecu mlađu od 13 godina
+## O Signalu smo već detaljno pisali
 
-Posebno težak dio njegova iskaza odnosio se na djecu mlađu od 13 godina.
+Signal nije samo još jedna alternativa WhatsAppu. Njegova vlasnička struktura, neprofitni model, način financiranja, pristup privatnosti i količina podataka koje aplikacija može vidjeti znatno se razlikuju od većine velikih komunikacijskih platformi.
 
-Facebook i Instagram službeno ne dopuštaju otvaranje računa djeci ispod te dobi. Béjar je, međutim, Metin pristup opisao kao svojevrsnu politiku **"don't ask, don't tell"**.
-
-Prema njegovu svjedočenju, kompanija je formalno imala dobnu granicu, ali nije činila dovoljno da aktivno utvrdi koliko djece mlađe od 13 godina stvarno koristi platforme i da ih ukloni.
-
-To pitanje bilo je posebno važno jer su američke savezne države u svojim postupcima tvrdile i da je Meta prikupljala podatke djece mlađe od 13 godina bez odgovarajuće roditeljske suglasnosti.
-
-## Meta je pokušala spriječiti Béjara da uopće svjedoči
-
-Prije početka suđenja Meta nije samo osporavala pojedine njegove tvrdnje. Kompanija je tražila da mu se **uopće ne dopusti svjedočenje**.
-
-Jedan od glavnih argumenata odnosio se upravo na Signal.
-
-Meta je tvrdila da je Béjar s državnim tužiteljima i drugim osobama komunicirao preko Signala koristeći disappearing messages, odnosno poruke koje se automatski brišu, te da su na taj način izgubljene komunikacije relevantne za spor.
-
-Kompanija ga je optuživala da nije pravilno očuvao dokumentaciju i komunikaciju nakon što je već znao da postoji mogućnost pravnog postupka. Tvrdila je da je takvo ponašanje bilo učinjeno u lošoj vjeri ili najmanje uz krajnju nepažnju.
-
-Sud ipak nije prihvatio Metin zahtjev da Béjar bude potpuno uklonjen s liste svjedoka.
-
-Béjar je svjedočio.
-
-## Signal protiv WhatsAppa: zanimljiv detalj, ali ne i dokaz nepovjerenja
-
-Činjenica da je bivši Facebookov sigurnosni direktor za dio komunikacije koristio Signal umjesto WhatsAppa lako može izazvati zaključak da je više vjerovao konkurentskoj aplikaciji.
-
-Za takav zaključak nemamo dokaz.
-
-Signal koriste novinari, odvjetnici, aktivisti, sigurnosni stručnjaci, političari i obični korisnici upravo zato što je aplikacija dizajnirana s jakim naglaskom na privatnost, minimalno prikupljanje podataka i end-to-end enkripciju. Disappearing messages također su standardna funkcija Signala i same po sebi ne znače da osoba pokušava sakriti nezakonito ponašanje.
-
-U sudskom procesu, međutim, situacija postaje drugačija ako postoji obveza očuvanja komunikacije. Upravo je na tome Meta temeljila svoj pokušaj da ospori Béjarovo svjedočenje.
-
-Paradoks ipak ostaje: čovjek koji je godinama radio na sigurnosti u kompaniji koja posjeduje WhatsApp za dio svoje osjetljive komunikacije odabrao je Signal.
-
-O tome tko stoji iza Signala, kako aplikacija funkcionira, zašto prikuplja tako malo podataka i zbog čega je sve više ljudi bira kao alternativu WhatsAppu već smo detaljno pisali:
+O tome tko stoji iza Signala, kako funkcionira njegova enkripcija i zašto ga sve više ljudi bira umjesto WhatsAppa već smo detaljno pisali:
 
 <a href="https://metaadvisor.eu/hr/news/signal-tko-stoji-iza-aplikacije-privatnost-whatsapp-alternativa/" target="_blank" rel="noopener">
 <img src="/images/companies/Signal-app.png"
@@ -129,48 +107,15 @@ O tome tko stoji iza Signala, kako aplikacija funkcionira, zašto prikuplja tako
 
 ### <a href="https://metaadvisor.eu/hr/news/signal-tko-stoji-iza-aplikacije-privatnost-whatsapp-alternativa/" target="_blank" rel="noopener">Signal: tko stoji iza aplikacije koju sve više ljudi bira umjesto WhatsAppa?</a>
 
-## Meta ga je pokušala prikazati kao nepouzdanog, ali odgovori nisu bili jednostavni
-
-Kada ga nije uspjela potpuno ukloniti kao svjedoka, Meta je tijekom unakrsnog ispitivanja pokušala drugačije osporiti težinu njegova iskaza.
-
-Odvjetnici su ga pitali je li imao Zuckerbergovu podršku dok je radio u kompaniji.
-
-Rekao je da jest.
-
-Pitali su ga je li iz Facebooka otišao u dobrim odnosima.
-
-Ponovno je odgovorio potvrdno.
-
-Pitali su ga je li i dalje ponosan na posao koji je ondje radio.
-
-I na to je rekao da jest.
-
-Takvi odgovori stvaraju neobičnu situaciju. S jedne strane mogu pokazivati da njegov odnos s kompanijom nije bio potpuno neprijateljski. S druge strane, upravo zbog toga postaje teže njegovu kritiku jednostavno odbaciti kao osvetu nezadovoljnog bivšeg zaposlenika.
-
-## Nagodba je zaustavila ostatak suđenja
-
-Béjar je svoje svjedočenje stigao dati.
-
-Brojni drugi visoki Metini rukovoditelji nisu.
-
-Mark Zuckerberg trebao je svjedočiti tijekom nastavka procesa, kao i Metin Chief Privacy Officer Michel Protti, globalna šefica sigurnosti Antigone Davis i drugi visoki zaposlenici kompanije.
-
-Do toga nije došlo.
-
-Meta je pristala na sudsku nagodbu vrijednu do približno 17 milijardi dolara i time je proces završen prije nego što su ti svjedoci izašli pred porotu.
-
-Nagodba nije priznanje krivnje. Ali jedna od njezinih praktičnih posljedica jest da se javno svjedočenje zaposlenika i rukovoditelja zaustavilo upravo u trenutku kada su iz internih dokumenata i prvih iskaza počeli izlaziti vrlo neugodni detalji o odnosu sigurnosti, engagementa, rasta i regulatornog rizika.
-
 ## Naš osvrt
 
-* **Béjar nije bio običan bivši zaposlenik.** Godinama je radio upravo na sigurnosti korisnika Facebooka i Instagrama i imao izravan pristup najvišem vodstvu kompanije.
-* **Signal je zanimljiv paradoks, ali ne i dokaz da Béjar nije vjerovao WhatsAppu.** Znamo da ga je koristio za dio osjetljive komunikacije; ne znamo zašto ga je odabrao.
-* **Metin pokušaj da ga potpuno ukloni kao svjedoka pokazuje koliko je njegov iskaz bio važan.** Kompanija je tvrdila da su korištenjem disappearing messages izgubljeni relevantni dokazi, ali sud mu je ipak dopustio da svjedoči.
-* **Najvažniji dio njegove priče ipak nije Signal, nego ono što je rekao o sigurnosti mladih.** Prema njegovu iskazu, 51% ispitanih mladih korisnika prijavilo je loše ili štetno iskustvo na Instagramu u samo sedam dana.
-* **Veza između engagementa i prihoda izravno stvara konflikt interesa.** **Više skrolanja znači više sadržaja, više oglasa i više prihoda**, pa sigurnosne mjere koje skraćuju vrijeme korištenja mogu istodobno smanjiti poslovne metrike.
-* **Zuckerberg je prema Béjarovu iskazu imao moć dramatično promijeniti prioritete kompanije.** Béjar mu je poslao upozorenje o sigurnosti mladih, ali je pred sudom rekao da odgovor nije dobio.
-* **Nagodba je stigla prije nastavka svjedočenja nekih od najvažnijih ljudi Mete.** Béjar je govorio pod prisegom, ali Zuckerberg i niz drugih visokih rukovoditelja više nisu morali izaći pred porotu u ovom procesu.
+* **Izbor Signala posebno je zanimljiv zbog Béjarove profesionalne pozadine.** Godinama je radio upravo na sigurnosti korisnika Facebooka, a za dio osjetljive komunikacije koristio je aplikaciju koja je izgrađena prvenstveno oko privatnosti i minimalnog zadržavanja podataka.
+* **Ne znamo zašto nije koristio WhatsApp.** Nema dovoljno dokaza da zaključimo da WhatsAppu nije vjerovao niti da je Signal koristio privatno, a WhatsApp poslovno.
+* **Béjar je sam naglasio važnost OPSEC-a.** Kao sigurnosni stručnjak opisao je sebe kao svojevrsnog "professional paranoid" kada je riječ o zaštiti komunikacije.
+* **Disappearing messages postale su problem tek u kontekstu sudskog postupka.** Sama funkcija nije dokaz skrivanja, ali očuvanje komunikacije može postati obveza kada je ona relevantna za postojeći ili očekivani spor.
+* **Meta je pokušala upravo Signal komunikaciju pretvoriti u razlog da Béjar uopće ne svjedoči.** Sud taj zahtjev nije prihvatio i Béjar je ipak izašao pred porotu.
+* **Paradoks ostaje zanimljiv.** Bivši direktor sigurnosti kompanije koja posjeduje WhatsApp za osjetljivu komunikaciju birao je Signal – ali bez dodatnih dokaza taj detalj treba promatrati kao zanimljivu činjenicu, a ne kao dokaz nepovjerenja prema Metinoj aplikaciji.
 
-**Disclaimer:** Ovaj članak služi isključivo u informativne svrhe. Navodi o Metinim internim procesima, sigurnosti korisnika i komunikaciji Artura Béjara temelje se na javno dostupnim sudskim izvještajima, svjedočenjima i izjavama uključenih strana. Metin pokušaj ograničavanja ili isključivanja svjedočenja ne predstavlja dokaz krivnje, a korištenje Signala samo po sebi ne upućuje na nezakonito postupanje niti dokazuje nepovjerenje prema WhatsAppu.
+**Disclaimer:** Ovaj članak služi isključivo u informativne svrhe. Korištenje Signala ili disappearing messages samo po sebi ne upućuje na nezakonito postupanje niti dokazuje namjeru skrivanja komunikacije. Nema javno potvrđenih dokaza da je Arturo Béjar odabrao Signal zato što nije vjerovao WhatsAppu. Navodi o sudskom postupku temelje se na javno dostupnim sudskim dokumentima i izvještajima o svjedočenju.
 
 <small style="color:#999; font-size:0.8em;">U suradnji s AI-jem.</small>
