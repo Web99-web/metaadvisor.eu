@@ -117,10 +117,13 @@ Za blokiranog korisnika postoji još jedan praktičan problem: ponekad nije teš
 Kada su login, Help Center i automatizirani postupci zatvoreni i ne možete doći do odgovora zašto ste blokirani ili do GDPR za sva pitanja u vezi snimke lica, a svi pokušaji vode stalno u krug...., jedna od preostalih mogućnosti izgleda gotovo apsurdno staromodno za jednu od najvećih tehnoloških kompanija na svijetu: **papir, kuverta i preporučena pošta**. O tome smo pisali u priči: 
 
 <a href="https://metaadvisor.eu/hr/news/blokirani-facebook-preporucena-posta-meta-kontakt-adresa/" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-Meta-address-for-registered-mail.png" alt="Adresa Mete za slanje preporučene pošte nakon blokade Facebook računa">
+<img src="/images/Meta/Facebook-Meta-address-for-registered-mail.png"
+     alt="Adresa Mete za slanje preporučene pošte nakon blokade Facebook računa"
+     style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>
 
 ### <a href="https://metaadvisor.eu/hr/news/blokirani-facebook-preporucena-posta-meta-kontakt-adresa/" target="_blank" rel="noopener">Blokirani ste na Facebooku? Pokušajte preporučenom poštom.</a>
+
 
 ## Meta je facial recognition ugasila — pa ga ponovno vratila
 
