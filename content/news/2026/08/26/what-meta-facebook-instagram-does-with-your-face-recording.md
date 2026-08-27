@@ -114,9 +114,10 @@ That matters particularly because Meta uses several video-selfie procedures for 
 For a blocked user, there is another practical problem: sometimes it is difficult not only to obtain an answer about a video selfie, but to find any communication channel through which a person at Meta can be reached.
 
 When login access, the Help Center and automated procedures are closed, when no clear answer is available about why an account was blocked or about GDPR questions concerning a face recording, and every attempt leads in circles, one remaining option can look almost absurdly old-fashioned for one of the world's largest technology companies: **paper, an envelope and registered mail**. We wrote about that here:
-
 <a href="ENGLISH-INTERNAL-LINK-HERE" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-Meta-address-for-registered-mail.png" alt="Meta address for sending registered mail after a Facebook account is blocked">
+<img src="/images/Meta/Facebook-Meta-address-for-registered-mail.png"
+     alt="Meta address for sending registered mail after a Facebook account is blocked"
+     style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>
 
 ### <a href="ENGLISH-INTERNAL-LINK-HERE" target="_blank" rel="noopener">Blocked on Facebook? Try registered mail.</a>
