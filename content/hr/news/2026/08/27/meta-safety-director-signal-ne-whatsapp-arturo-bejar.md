@@ -37,9 +37,7 @@ Signal je upravo zbog takvog pristupa postao popularan među sigurnosnim stručn
 
 ## Je li koristio Signal privatno, a WhatsApp poslovno?
 
-Za takvu podjelu zasad nema dovoljno javno dostupnih dokaza.
-
-Ne možemo tvrditi da je Béjar koristio Signal za privatne razgovore, a WhatsApp za poslovne, niti da je Signal odabrao zato što nije imao povjerenja u WhatsApp. Sudski materijal koji je postao važan odnosio se na njegovu komunikaciju povezanu s pravnim postupcima protiv Mete.
+Za takvu podjelu zasad nema dovoljno javno dostupnih dokaza. Ne možemo tvrditi da je Béjar koristio Signal za privatne razgovore, a WhatsApp za poslovne, niti da je Signal odabrao zato što nije imao povjerenja u WhatsApp. Sudski materijal koji je postao važan odnosio se na njegovu komunikaciju povezanu s pravnim postupcima protiv Mete.
 
 Zato je najpreciznije reći da je **za dio osjetljive komunikacije koristio Signal s uključenim nestajućim porukama**.
 
@@ -49,9 +47,7 @@ Ali za bivšeg Facebookova direktora sigurnosti izbor konkurentske privacy aplik
 
 ## Meta je upravo Signal pokušala iskoristiti protiv njega
 
-Signal app je u sudskom procesu postao mnogo više od zanimljivog detalja.
-
-Prije početka velikog američkog suđenja Meta je od savezne sutkinje tražila da Béjaru uopće ne dopusti svjedočenje. Jedan od važnih argumenata kompanije odnosio se upravo na njegove komunikacije putem Signala.
+Signal app je u sudskom procesu postao mnogo više od zanimljivog detalja. Prije početka velikog američkog suđenja Meta je od savezne sutkinje tražila da Béjaru uopće ne dopusti svjedočenje. Jedan od važnih argumenata kompanije odnosio se upravo na njegove komunikacije putem Signala.
 
 Meta je tvrdila da je Béjar koristio disappearing messages u komunikaciji s državnim tužiteljima i drugim osobama povezanim sa sporovima te da su zbog toga nestale poruke koje su trebale biti sačuvane kao mogući dokazni materijal.
 
@@ -71,9 +67,7 @@ Drugim riječima, ista funkcija zbog koje mnogi korisnici biraju Signal – mogu
 
 ## Nestajuće poruke nisu isto što i uništavanje dokaza
 
-Važno je razlikovati dvije stvari.
-
-Korištenje disappearing messages samo po sebi nije dokaz pokušaja skrivanja nečega. Signal tu funkciju nudi svim korisnicima kao standardni alat privatnosti, a poruke se mogu automatski uklanjati nakon vremenskog razdoblja koje korisnici sami odrede.
+Važno je razlikovati dvije stvari. Korištenje disappearing messages samo po sebi nije dokaz pokušaja skrivanja nečega. Signal tu funkciju nudi svim korisnicima kao standardni alat privatnosti, a poruke se mogu automatski uklanjati nakon vremenskog razdoblja koje korisnici sami odrede.
 
 Situacija postaje pravno osjetljivija ako osoba već ima konkretnu obvezu očuvanja dokumentacije zbog sudskog spora ili očekivanog postupka. Tada pitanje više nije je li funkcija legalna ili normalna, nego je li određena komunikacija morala biti sačuvana.
 
@@ -89,9 +83,7 @@ Aplikacija nema klasičan poslovni model temeljen na oglašavanju i profiliranju
 
 WhatsApp također koristi end-to-end enkripciju za osobne razgovore i pritom koristi Signal Protocol, pa nije korektno predstaviti WhatsApp kao aplikaciju bez sigurnosti ili enkripcije.
 
-Razlika je šira. Signal je od početka izgrađen oko ideje da se prikuplja što je moguće manje informacija o korisniku i njegovoj komunikaciji.
-
-Zbog toga je Béjarov izbor Signala kao sigurnosnog stručnjaka zanimljiv čak i bez nagađanja o tome što je mislio o WhatsAppu.
+Razlika je šira. Signal je od početka izgrađen oko ideje da se prikuplja što je moguće manje informacija o korisniku i njegovoj komunikaciji. Zbog toga je Béjarov izbor Signala kao sigurnosnog stručnjaka zanimljiv čak i bez nagađanja o tome što je mislio o WhatsAppu.
 
 ## O Signalu smo već detaljno pisali
 
