@@ -87,7 +87,7 @@ Za kupca to može značiti jeftiniju, predvidljiviju i potencijalno energetski u
 
 Širi smjer kompanije pokazuje da Coco nije izoliran projekt. Uber sve veći kapital i stratešku pažnju usmjerava prema autonomnoj mobilnosti, uključujući robotaksije i partnerstva s proizvođačima autonomnih vozila.
 
-U takvom kontekstu robotska dostava hrane postaje dio puno veće promjene. Uberova dugoročna platforma možda više neće povezivati samo korisnika s vozačem ili dostavljačem, nego korisnika s najboljim raspoloživim načinom prijevoza ili dostave — čovjekom, automobilom bez vozača, malim pločničkim robotom, a u drugim projektima potencijalno i dronom.
+U takvom kontekstu robotska dostava hrane postaje dio puno veće promjene. Uberova dugoročna platforma možda više neće povezivati samo korisnika s vozačem ili dostavljačem, nego korisnika s najboljim raspoloživim načinom prijevoza ili dostave - čovjekom, automobilom bez vozača, malim pločničkim robotom, a u drugim projektima potencijalno i dronom.
 
 To mijenja samu funkciju algoritma. Današnja platforma uglavnom određuje kojem će čovjeku dodijeliti posao. Buduća platforma može najprije odlučiti **treba li za određeni posao čovjek uopće biti uključen**.
 
