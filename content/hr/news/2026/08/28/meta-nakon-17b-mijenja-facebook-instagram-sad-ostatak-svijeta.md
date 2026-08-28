@@ -1,6 +1,6 @@
 ---
-title: "Meta mijenja Facebook i Instagram u SAD-u – a ostatak svijeta?"
-slug: "meta-mijenja-facebook-instagram-sad-ostatak-svijeta"
+title: "Meta plaća 17b i mijenja Facebook i Instagram u SAD-u – a ostatak svijeta?"
+slug: "meta-nakon-17b-mijenja-facebook-instagram-sad-ostatak-svijeta"
 date: 2026-08-28T08:00:00+02:00
 category: "Technology"
 translationKey: "meta-us-settlement-global-protection-2026-08-28"
@@ -31,6 +31,8 @@ Arturo Béjar nije govorio samo kao bivši zaposlenik Mete nego i kao roditelj. 
 
 George Volichenko, koji je radio u Instagramovu timu za mentalnu dobrobit, rekao je da mu je objašnjeno kako tim prvenstveno postoji kako bi kompaniju zaštitio od budućih tužbi. Njegov tim želio je da se funkcija **Take a Break** mlađim tinejdžerima uključi automatski, ali prijedlog nije prošao. Prema njegovu svjedočenju razlog je bio negativan utjecaj na ključne poslovne metrike – koliko dugo i koliko često korisnici koriste Instagram.
 
+{{< support1 >}}
+
 Francescu Foguu tužitelji su pokazali još neugodniji interni dokument. U njemu se navodi da kompanije kod regulatornih zahtjeva ponekad jednostavno **ne postupe po zahtjevu i prihvate kaznu**, a ponekad se prilagode na minimalan ili doslovan način. Fogu je rekao da se ne sjeća je li upravo on napisao te riječi.
 
 **Je li velikoj tehnološkoj kompaniji jednostavno jeftinije platiti regulatornu kaznu nego provesti prilagodbu koja bi smanjila vrijeme korisnika na platformi, engagement i time profit?**
@@ -43,8 +45,6 @@ Meta ne mora odjednom platiti 17 milijardi dolara. Sporazum traje deset godina, 
 
 Meta je zauzvrat izbjegla nastavak procesa u kojem su se još tjednima mogli javno pojavljivati interni dokumenti i iskazi vodećih ljudi kompanije. Istodobno je pristala na niz zaštita za američke tinejdžere: vremenska ograničenja, noćne blokade, manje obavijesti tijekom školskog dana, skrivene brojke lajkova, ograničenja određenih filtera, jaču provjeru dobi i dodatne roditeljske kontrole.
 
-{{< support1 >}}
-
 ## Ostatak svijeta sada pita: a zašto ne i kod nas?
 
 Američka nagodba gotovo je odmah proizvela reakcije izvan SAD-a. **Australska ministrica komunikacija Anika Wells** istaknula je da društvene mreže očito imaju alate kojima mogu zaštititi mlade od ovisničkih funkcija. **Južnokorejski regulator KMCC** otišao je još dalje i poručio da bi poboljšanja vezana uz algoritamske preporuke, prikaz lajkova i push obavijesti trebala vrijediti za mlade korisnike **širom svijeta**, a ne samo tamo gdje je regulator dovoljno snažan da ih izbori.
@@ -52,6 +52,8 @@ Američka nagodba gotovo je odmah proizvela reakcije izvan SAD-a. **Australska m
 **Britanski ministar Pat McFadden** poručio je da ne želi situaciju u kojoj djeca u SAD-u imaju višu razinu zaštite od djece u Britaniji, a posebno je izdvojio endless scrolling kao izrazito ovisničku funkciju za mlade. Na **Filipinima** je ministar Henry Aguda nakon razgovora s kompanijom objavio da je Meta pristala pojačati provjeru dobi, roditeljske kontrole, uklanjanje štetnog sadržaja i suradnju s vlastima. **Meksička predsjednica Claudia Sheinbaum** rekla je da vlada mora razmotriti što američka nagodba znači za Meksiko, dok **Europska komisija** od Mete očekuje konkretne promjene i za europske korisnike.
 
 Ako se određena funkcija može automatski ograničiti američkom tinejdžeru, tehnički se može ograničiti i tinejdžeru u Hrvatskoj, Britaniji, Južnoj Koreji ili Keniji. Sve teže postaje tvrditi da je problem tehnički. Sve više izgleda da zaštita ovisi o snazi regulatora.
+
+{{< support1 >}}
 
 ## Infinite scroll ostaje – iako je upravo on jedan od problema
 
@@ -103,7 +105,6 @@ O toj temi detaljnije smo pisali ranije:
 
 ### <a href="https://metaadvisor.eu/hr/news/sto-meta-facebook-instagram-radi-sa-snimkom-vaseg-lica/" target="_blank" rel="noopener">Što Meta radi sa snimkom vašeg lica?</a>
 
-{{< support2 >}}
 
 ## Globalni profit, ali lokalna zaštita?
 
@@ -114,6 +115,8 @@ SAD je dobio promjene nakon velikog sudskog procesa. EU prijeti kaznama prema DS
 Ali što je s korisnikom u državi koja nema regulatornu snagu SAD-a ili Europske unije?
 
 Meta je američkom nagodbom dokazala jednu važnu stvar: **promjene su moguće**. Kompanija može promijeniti zadane postavke, ograničiti određene funkcije, utišati obavijesti, mijenjati način na koji rade recommendation sustavi i pojačati dobne kontrole. Nakon toga argument da je nešto tehnički nemoguće postaje mnogo slabiji.
+
+{{< support2 >}}
 
 ## Naš osvrt
 
