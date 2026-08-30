@@ -1,6 +1,6 @@
 ---
-title: "Kako napraviti vlastiti QR kod izravno u Wordu"
-slug: "kako-napraviti-vlastiti-qr-kod-u-wordu"
+title: "Kako napraviti besplatni vlastiti QR kod izravno u Wordu"
+slug: "kako-napraviti-besplatni-vlastiti-qr-kod-u-wordu"
 date: 2026-08-30T12:30:00+02:00
 category: "Tech"
 translationKey: "how-to-create-your-own-qr-code-in-microsoft-word-2026-08-30"
@@ -17,7 +17,7 @@ description: "Microsoft Word može napraviti QR kod bez dodatnog programa ili on
 summary: "QR kod ne morate izrađivati na vanjskim web-stranicama. Microsoft Word ima ugrađenu naredbu DISPLAYBARCODE kojom se web-link, tekst ili drugi podaci mogu pretvoriti u QR kod izravno u dokumentu."
 ---
 
-# Kako napraviti vlastiti QR kod izravno u Microsoft Wordu
+# Jel znate kako napraviti besplatni vlastiti QR kod izravno u Microsoft Wordu?
 
 Za izradu QR koda nije uvijek potreban poseban program niti online QR generator. **Microsoft Word ima ugrađenu funkciju kojom se web-adresa, tekst ili drugi podaci mogu pretvoriti u QR kod izravno unutar dokumenta.**
 
