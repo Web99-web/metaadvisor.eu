@@ -119,6 +119,10 @@ Equally important, switching identity on an individual post should not move the 
 
 This does not require a major new feature. The functionality already exists. What is missing is better UX around it.
 
+LinkedIn is one of the world’s most important professional communities, and that is precisely why small workflow frictions matter. Most professionals would probably agree with a simple principle: time is money. For people working in marketing, communications or social media management, who may need to review and respond to dozens of posts in a session, waiting for the interface to jump through ten already-viewed posts is not just visually annoying - it is lost time repeated throughout the working day.
+
+This is also the kind of UX issue that can be easy to overlook in a product as large as LinkedIn, but immediately obvious to people who use a particular workflow intensively. Sometimes the most valuable improvements do not come from adding another major feature, but from watching how experienced users actually work and removing the small interruptions that slow them down.
+
 ## Our view
 
 * **LinkedIn has the functionality to comment as a Company Page, but the way it is integrated into Search and the feed unnecessarily interrupts the workflow.**
@@ -128,6 +132,7 @@ This does not require a major new feature. The functionality already exists. Wha
 * **Facebook shows that persistent Page identity can work more simply.** An administrator should not have to repeatedly tell the platform who they are currently working as.
 * **LinkedIn does not need an entirely new system.** A persistent Page mode and preservation of scroll position would solve much of the problem without a major redesign.
 * **For a platform built around professional engagement, commenting on behalf of a company should be an almost invisible part of the workflow — not a moment when you have to wait for the screen to stop jumping.**
+* LinkedIn already has the community, the functionality and the professional use case. **Our proposed UX improvement is relatively small - persistent Page identity and preserved scroll position - but it could make the experience better match the quality and importance of the platform itself.**
 
 **Follow Metaadvisor.eu for more business and tech news, practical tech hacks, AI topics, digital platforms, crypto and analysis of the technology we use every day.**
 
