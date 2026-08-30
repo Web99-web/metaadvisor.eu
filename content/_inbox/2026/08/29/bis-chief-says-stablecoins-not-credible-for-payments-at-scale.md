@@ -5,7 +5,7 @@ category: "news"
 translationKey: "bd12d93a4aa1e493c4e7b978ba93ba98"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png"
 tags: []
 _build:
   publishResources: false
