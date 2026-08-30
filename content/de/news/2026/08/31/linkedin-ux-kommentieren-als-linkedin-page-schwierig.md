@@ -111,23 +111,26 @@ LinkedIn behandelt das Company-Page-Management weiterhin eher wie einen sekundä
 
 ## Die Lösung erfordert kein großes Redesign
 
-Die einfachste Lösung könnte eine Option wie **„Continue as Page“** sein.
+Die einfachste Lösung könnte eine Option wie **„Continue as Page“** sein. Ein Administrator würde eine Company Page einmal auswählen, und LinkedIn würde diese Identität anschließend in Search, Feed, Reaktionen und Kommentaren beibehalten, bis der Nutzer selbst entscheidet, zu seinem persönlichen Profil zurückzukehren oder eine andere Page auszuwählen.
 
-Der Administrator wählt einmal eine Company Page aus und LinkedIn behält diese Identität anschließend in Search, Feed, Reaktionen und Kommentaren bei, bis der Nutzer selbst entscheidet, zum persönlichen Profil zurückzukehren oder eine andere Seite auszuwählen.
+Ebenso wichtig ist, dass der Wechsel der Identität bei einem einzelnen Beitrag den Nutzer nicht von seiner aktuellen Position wegbewegen sollte. **Die Scroll-Position sollte unverändert bleiben**, ohne den Feed neu aufzubauen und ohne den Nutzer dazu zu zwingen, zuzusehen, wie zehn bereits angesehene Beiträge erneut über den Bildschirm laufen.
 
-Ebenso wichtig ist, dass der Wechsel der Identität bei einem einzelnen Beitrag den Nutzer nicht von seiner aktuellen Position wegbewegen sollte. Die Scroll-Position müsste erhalten bleiben, ohne den Feed neu aufzubauen und ohne zuzusehen, wie zehn bereits angesehene Beiträge erneut über den Bildschirm laufen.
+Dafür ist keine große neue Funktion notwendig. Die Funktionalität existiert bereits. Was fehlt, ist ein besserer UX rund um sie.
 
-Dafür ist keine große neue Funktion notwendig. Die Funktionalität existiert bereits. Was fehlt, ist ein besserer UX rund um diese Funktion.
+LinkedIn ist eine der wichtigsten professionellen Communities der Welt, und genau deshalb sind kleine Reibungsverluste im Workflow relevant. Die meisten Berufstätigen würden wahrscheinlich einem einfachen Grundsatz zustimmen: Zeit ist Geld. Für Menschen, die im Marketing, in der Kommunikation oder im Social Media Management arbeiten und in einer einzigen Session möglicherweise Dutzende Beiträge prüfen und beantworten müssen, ist das Warten darauf, dass die Oberfläche durch zehn bereits angesehene Posts springt, nicht nur visuell störend - es ist verlorene Zeit, die sich im Laufe eines Arbeitstages immer wiederholt.
+
+Gerade solche UX-Probleme können bei einem Produkt von der Größe LinkedIns leicht übersehen werden, sind aber für Menschen, die einen bestimmten Workflow intensiv nutzen, sofort sichtbar. Manchmal entstehen die wertvollsten Verbesserungen nicht durch eine weitere große neue Funktion, sondern dadurch, genau zu beobachten, wie erfahrene Nutzer tatsächlich arbeiten, und die kleinen Unterbrechungen zu entfernen, die sie ausbremsen.
 
 ## Unser Blick
 
-* **LinkedIn bietet die Möglichkeit, als Company Page zu kommentieren, doch die Einbindung dieser Funktion in Search und Feed unterbricht den Arbeitsablauf unnötig.**
-* **Das größte Problem ist nicht nur ein zusätzlicher Klick.** Die Page-Identität bleibt nicht dauerhaft aktiv, weshalb Administratoren bei verschiedenen Beiträgen immer wieder prüfen müssen, ob sie als Privatperson oder als Unternehmen kommentieren.
-* **Das Springen des Feeds nach einem Identitätswechsel ist ein besonders unangenehmes UX-Problem, das wir bei unserer eigenen Nutzung festgestellt haben.** Zunächst dachten wir, es handle sich um einen Glitch, der nur unsere Seite betrifft.
-* **Die Erfahrungen anderer Nutzer zeigen, dass das breitere Problem der wiederholten Auswahl einer Company Page nicht neu ist.** Ähnliche Beschwerden finden sich seit Jahren in öffentlichen Diskussionen.
-* **Facebook zeigt, dass eine kontinuierliche Page-Identität einfacher funktionieren kann.** Ein Administrator sollte der Plattform nicht immer wieder erklären müssen, in wessen Namen er gerade arbeitet.
-* **LinkedIn braucht dafür kein völlig neues System.** Ein persistenter Page-Modus und die Beibehaltung der Scroll-Position würden einen großen Teil des Problems ohne umfangreiches Redesign lösen.
-* **Für eine Plattform, die auf professionellem Engagement aufgebaut ist, sollte das Kommentieren im Namen eines Unternehmens nahezu unmerklich funktionieren – und nicht zu einem Moment werden, in dem man darauf wartet, dass der Bildschirm endlich aufhört zu springen.**
+* **LinkedIn bietet die Möglichkeit, als Company Page zu kommentieren, doch die Einbindung dieser Funktion in Search und Feed unterbricht den Workflow unnötig.**
+* **Das größte Problem ist nicht nur ein zusätzlicher Klick.** Die Page-Identität bleibt nicht dauerhaft aktiv, weshalb Administratoren immer wieder prüfen müssen, ob sie gerade als Privatperson oder als Unternehmen kommentieren.
+* **Das Springen des Feeds nach einem Identitätswechsel ist ein besonders frustrierendes UX-Problem, das wir bei unserer eigenen Nutzung beobachtet haben.** Zunächst dachten wir, es könnte sich um einen Glitch handeln, der nur unsere Page betrifft.
+* **Die Erfahrungen anderer Nutzer zeigen, dass das breitere Problem der wiederholten Auswahl einer Company-Page-Identität nicht neu ist.** Ähnliche Beschwerden finden sich seit Jahren in öffentlichen Diskussionen.
+* **Facebook zeigt, dass eine persistente Page-Identität einfacher funktionieren kann.** Ein Administrator sollte der Plattform nicht immer wieder mitteilen müssen, in wessen Namen er gerade arbeitet.
+* **LinkedIn benötigt dafür kein völlig neues System.** Ein persistenter Page-Modus und die Beibehaltung der Scroll-Position würden einen großen Teil des Problems ohne umfangreiches Redesign lösen.
+* **Für eine Plattform, die auf professionellem Engagement aufgebaut ist, sollte das Kommentieren im Namen eines Unternehmens nahezu unmerklich funktionieren - und nicht zu einem Moment werden, in dem man darauf wartet, dass der Bildschirm endlich aufhört zu springen.**
+* LinkedIn verfügt bereits über die Community, die Funktionalität und den professionellen Anwendungsfall. **Die von uns vorgeschlagene UX-Verbesserung ist vergleichsweise klein - eine persistente Page-Identität und eine erhaltene Scroll-Position - könnte das Nutzungserlebnis aber deutlich besser an die Qualität und Bedeutung der Plattform selbst anpassen.**
 
 **Folgen Sie Metaadvisor.eu für weitere Wirtschafts- und Technologienachrichten, praktische Tech-Hacks, AI-Themen, digitale Plattformen, Krypto und Analysen zu Technologien, die wir täglich nutzen.**
 
