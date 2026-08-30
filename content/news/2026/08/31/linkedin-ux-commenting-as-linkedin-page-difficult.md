@@ -111,9 +111,7 @@ LinkedIn still treats Company Page management more like a secondary mode attache
 
 ## The solution does not require a major redesign
 
-The simplest solution could be an option such as **“Continue as Page.”**
-
-An administrator would select a Company Page once, and LinkedIn would keep that identity active across Search, feed, reactions and comments until the user chooses to return to their personal profile or select another Page.
+The simplest solution could be an option such as **“Continue as Page.”** - An administrator would select a Company Page once, and LinkedIn would keep that identity active across Search, feed, reactions and comments until the user chooses to return to their personal profile or select another Page.
 
 Equally important, switching identity on an individual post should not move the user away from their current position. The scroll position should remain unchanged, without rebuilding the feed and without forcing the user to watch ten already-reviewed posts travel across the screen again.
 
