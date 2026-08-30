@@ -19,7 +19,7 @@ summary: "Komentiranje kao LinkedIn Page postoji, ali workflow je iznenađujuće
 
 # LinkedIn UX: Zašto je komentiranje kao LinkedIn Page tako teško
 
-LinkedIn želi da kompanije budu aktivne, prate relevantne teme i uključuju se u razgovore. Komentiranje drugih objava jedan je od najjednostavnijih načina da poslovna stranica izađe izvan vlastitog kruga followera i postane vidljiva ljudima koji već prate neku industriju, kompaniju ili temu.
+LinkedIn želi da tvrtke budu aktivne, prate relevantne teme i uključuju se u razgovore. Komentiranje drugih objava jedan je od najjednostavnijih načina da poslovna stranica izađe izvan vlastitog kruga followera i postane vidljiva ljudima koji već prate neku industriju, kompaniju ili temu.
 
 I upravo zato iznenađuje koliko je jedan tako osnovan posao LinkedIn Page administratora još uvijek nespretno riješen.
 
