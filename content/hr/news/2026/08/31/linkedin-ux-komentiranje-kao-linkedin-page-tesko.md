@@ -97,11 +97,13 @@ LinkedIn pritom već ima gotovo sve što mu treba. Zna kojim stranicama korisnik
 
 Nedostaje samo jedna naizgled mala stvar: da zapamti u kojem identitetu korisnik želi raditi.
 
-## Facebook je ovaj konkretni workflow riješio davno
+## Facebook je ovaj konkretni workflow riješio prije mnogo godina
 
 Za sve kritike koje Facebook dobiva, ovaj konkretni workflow riješio je prije mnogo godina. Page administratori mogu kontinuirano raditi kao Page bez potrebe da za svaku pojedinačnu interakciju ponovno biraju identitet.
 
-Korisnik prijeđe u Page, pregledava sadržaj, reagira, komentira i odgovara kao Page, a kada ponovno želi koristiti vlastiti profil, sam se vrati na njega.
+Ako administrator upravlja s više stranica, može se prebaciti s jedne Page stranice na drugu i zatim na njoj objavljivati, pregledavati sadržaj, reagirati, komentirati i odgovarati. Facebook pritom zadržava posljednji odabrani identitet sve dok ga korisnik sam ne promijeni — bilo povratkom na privatni profil ili prelaskom na drugi Page.
+
+Drugim riječima, Facebook pamti u čije ime trenutno radite. Korisnik ne mora na svakoj novoj objavi ponovno objašnjavati platformi predstavlja li sebe ili kompaniju.
 
 To ne znači da je Facebook kao platforma bolji niti da nema ozbiljnih problema u drugim dijelovima svog sustava. U ovom slučaju usporedba samo pokazuje da kontinuirani poslovni identitet nije nikakav neobičan UX zahtjev i da problem nije tehnički neizbježan.
 
