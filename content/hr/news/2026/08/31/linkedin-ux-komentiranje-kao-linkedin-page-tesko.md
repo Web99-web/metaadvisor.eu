@@ -61,7 +61,7 @@ Na Redditu se još 2023. pojavio korisnik koji je napisao da gotovo sav LinkedIn
 
 Slična rasprava pojavila se ponovno 2025. Korisnik koji upravlja kompanijskom stranicom opisao je da se odabrani Company Page primjenjuje samo na jednu objavu i da se na sljedećoj ponovno mora prebacivati s privatnog profila. U istoj je raspravi social media manager u svibnju 2026. napisao da je prebacivanje računa postalo stvarni poremećaj u svakodnevnom radu.
 
-Nismo pronašli javnu objavu koja opisuje potpuno isto skakutanje ekrana koje vidimo u našem Searchu, pa ne možemo tvrditi da svi administratori imaju identičan vizualni problem. Ali pritužbe na osnovni workflow — stalno prebacivanje između privatnog profila i Company Pagea — postoje godinama.
+Nismo pronašli javnu objavu koja opisuje potpuno isto skakutanje ekrana koje vidimo u našem Searchu, pa ne možemo tvrditi da svi administratori imaju identičan vizualni problem. Ali pritužbe na osnovni workflow - stalno prebacivanje između privatnog profila i Company Pagea - postoje godinama.
 
 ## Problem je stariji od današnjeg LinkedIn sučelja
 
