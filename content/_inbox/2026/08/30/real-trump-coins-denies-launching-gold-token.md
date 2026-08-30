@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "a9cc86d08b02d67c1de1b6d9107587e0"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/hi-how-great-big-companies-use-blockchain2.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M16D9NH0P7JYVR3ND526E5F5/trumps-influence-on-crypto.jpg"
 tags: ["crypto"]
 _build:
   publishResources: false
