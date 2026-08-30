@@ -111,23 +111,26 @@ LinkedIn i dalje Company Page management više tretira kao sekundarni način rad
 
 ## Rješenje ne zahtijeva veliki redizajn
 
-Najjednostavnije rješenje mogla bi biti opcija poput **“Continue as Page”**.
+Najjednostavnije rješenje mogla bi biti opcija poput **“Continue as Page.”** Administrator jednom odabere Company Page, a LinkedIn taj identitet zadrži kroz Search, feed, reakcije i komentare sve dok korisnik sam ne odluči vratiti se na privatni profil ili izabrati drugu Page stranicu.
 
-Administrator jednom odabere Company Page i LinkedIn taj identitet zadrži kroz Search, feed, reakcije i komentare sve dok korisnik sam ne odluči vratiti se na privatni profil ili izabrati drugu stranicu.
+Jednako važno, promjena identiteta na pojedinoj objavi ne bi smjela pomaknuti korisnika s mjesta na kojem se nalazi. **Scroll pozicija trebala bi ostati nepromijenjena**, bez ponovnog slaganja feeda i bez gledanja kako deset već pregledanih objava ponovno prolazi preko ekrana.
 
-Jednako važno, sama promjena identiteta na pojedinoj objavi ne bi smjela pomicati korisnika s mjesta na kojem se nalazi. Scroll pozicija trebala bi ostati ista, bez ponovnog slaganja feeda i bez gledanja kako desetak već pregledanih postova ponovno prolazi preko ekrana.
+Za to nije potrebna velika nova funkcija. Funkcionalnost već postoji. Ono što nedostaje jest bolji UX oko nje.
 
-To nije zahtjev za novom velikom funkcijom. Funkcionalnost već postoji. Ono što nedostaje jest bolji UX oko nje.
+LinkedIn je jedna od najvažnijih profesionalnih zajednica na svijetu i upravo zato male prepreke u workflowu imaju značaj. Većina profesionalaca vjerojatno bi se složila s jednostavnim pravilom: vrijeme je novac. Za ljude koji rade u marketingu, komunikacijama ili social media managementu i tijekom jedne sesije trebaju pregledati i odgovoriti na desetke objava, čekanje da sučelje ponovno proskakuće kroz deset već pregledanih postova nije samo vizualno iritantno - to je izgubljeno vrijeme koje se ponavlja tijekom cijelog radnog dana.
+
+Upravo su takvi UX problemi nešto što se u proizvodu veličine LinkedIna lako može previdjeti, ali ih ljudi koji određeni workflow intenzivno koriste odmah primijete. Ponekad najvrjednija poboljšanja ne dolaze dodavanjem još jedne velike funkcije, nego promatranjem načina na koji iskusni korisnici stvarno rade i uklanjanjem malih prekida koji ih usporavaju.
 
 ## Naš osvrt
 
-* **LinkedIn ima funkciju za komentiranje kao Company Page, ali način na koji je uklopljena u Search i feed nepotrebno prekida radni proces.**
-* **Najveći problem nije samo dodatni klik.** Page identitet nije trajan, pa administrator na različitim objavama ponovno mora paziti komentira li kao privatna osoba ili kompanija.
-* **Skakutanje feeda nakon promjene identiteta posebno je neugodan UX problem koji smo primijetili tijekom vlastitog korištenja.** U početku smo mislili da je riječ o glitchu specifičnom za našu stranicu.
-* **Iskustva drugih korisnika pokazuju da širi problem s ponovnim biranjem Company Page identiteta nije nov.** Slične pritužbe mogu se pronaći u javnim raspravama još godinama unatrag.
-* **Facebook pokazuje da kontinuirani Page identitet može funkcionirati jednostavnije.** Administrator ne bi trebao iznova objašnjavati platformi u čije ime trenutno radi.
-* **LinkedInu ne treba potpuno novi sustav.** Persistent Page mode i očuvanje scroll pozicije riješili bi velik dio problema bez velikog redizajna.
-* **Za platformu izgrađenu oko profesionalnog engagementa, komentiranje u ime kompanije trebalo bi biti gotovo neprimjetan dio rada — a ne trenutak u kojem čekate da vam ekran prestane skakutati.**
+* **LinkedIn ima funkciju za komentiranje kao Company Page, ali način na koji je uklopljena u Search i feed nepotrebno prekida workflow.**
+* **Najveći problem nije samo jedan dodatni klik.** Page identitet nije trajan, pa administratori iznova moraju provjeravati komentiraju li kao privatna osoba ili kompanija.
+* **Skakutanje feeda nakon promjene identiteta posebno je frustrirajući UX problem koji smo primijetili tijekom vlastitog korištenja.** U početku smo mislili da je možda riječ o glitchu specifičnom samo za našu Page stranicu.
+* **Iskustva drugih korisnika pokazuju da širi problem ponovnog biranja Company Page identiteta nije nov.** Slične pritužbe mogu se pronaći u javnim raspravama već godinama.
+* **Facebook pokazuje da trajni Page identitet može funkcionirati jednostavnije.** Administrator ne bi trebao iznova objašnjavati platformi u čije ime trenutno radi.
+* **LinkedInu za to nije potreban potpuno novi sustav.** Trajni Page mode i očuvanje scroll pozicije riješili bi velik dio problema bez velikog redizajna.
+* **Za platformu izgrađenu oko profesionalnog engagementa, komentiranje u ime kompanije trebalo bi biti gotovo neprimjetan dio workflowa - a ne trenutak u kojem čekate da ekran napokon prestane skakutati.**
+* LinkedIn već ima zajednicu, funkcionalnost i jasan profesionalni use case. **UX poboljšanje koje mi predlažemo relativno je malo - trajni Page identitet i očuvana scroll pozicija - ali moglo bi korisničko iskustvo bolje uskladiti s kvalitetom i važnošću same platforme.**
 
 **Pratite Metaadvisor.eu za više poslovnih i tehnoloških vijesti, praktičnih tech trikova, AI tema, digitalnih platformi, crypta i analiza tehnologije koju svakodnevno koristimo.**
 
