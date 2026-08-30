@@ -41,9 +41,7 @@ Kod nas se pojavio još neugodniji problem. U početku smo mislili da možda sam
 
 Problem se posebno vidi kada kroz Search već dugo skrolate. Prošli ste niz objava, možda deset, dvadeset ili više, i napokon pronađete post na koji želite odgovoriti kao kompanija. Kliknete selector, promijenite identitet s privatnog profila na Page — i ekran odjednom skoči.
 
-Ali ne napravi samo jedan skok.
-
-Sljedećih sekundu ili dvije LinkedIn pred vašim očima počne doslovno **skakutati s jedne objave na drugu**. Pojavi se raniji post, zatim drugi, pa treći, sadržaj leti gore-dolje kroz dio feeda koji ste već pregledali, kao da sučelje ponovno pokušava pronaći poziciju na kojoj ste bili. Tek nakon tog kratkog putovanja kroz stare rezultate ekran se konačno vrati dolje do posta koji ste cijelo vrijeme samo željeli komentirati.
+Ali ne napravi samo jedan skok. - Sljedećih sekundu ili dvije LinkedIn pred vašim očima počne doslovno **skakutati s jedne objave na drugu**. Pojavi se raniji post, zatim drugi, pa treći, sadržaj skakuče od ozgore do dolje kroz dio feeda koji ste već pregledali, kao da sučelje ponovno pokušava pronaći poziciju na kojoj ste bili. Tek nakon tog kratkog putovanja kroz stare rezultate ekran se konačno vrati dolje do posta koji ste cijelo vrijeme samo željeli komentirati. Prvi puta je izgledalo smješno. A onda smo uvidjeli da to radi svaki puta. 
 
 Što ste bili niže u rezultatima, cijeli efekt postaje primjetniji.
 
