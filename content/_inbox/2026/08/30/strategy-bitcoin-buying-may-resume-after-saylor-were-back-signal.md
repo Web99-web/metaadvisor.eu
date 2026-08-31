@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "7d6e342f496ae8d0e02752035748d52b"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1ABTCJ2NCZ56B6Y07HVQZ2T/magazine-cover-collage.png"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false
