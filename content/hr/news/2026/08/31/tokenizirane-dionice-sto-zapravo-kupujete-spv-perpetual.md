@@ -1,10 +1,11 @@
 ---
-title: "Tokenizirane dionice rastu, ali što zapravo kupujete?"
+
+title: "Tokenizirane dionice prijete novom 'paperwork crisis': što zapravo kupujete?"
 slug: "tokenizirane-dionice-sto-zapravo-kupujete-spv-perpetual"
 date: 2026-08-31T06:00:00+02:00
 category: "Crypto"
 translationKey: "tokenized-stocks-ownership-spv-perpetual-paper-crisis-2026-08-31"
-source: "CoinDesk, Fairmint, Robinhood, Hyperliquid, xStocks, Ondo Finance, Republic, Metaadvisor.eu"
+source: "CoinDesk, Fairmint, SEC, DTCC, xStocks, Ondo Finance, Robinhood, Hyperliquid, Republic, Metaadvisor.eu"
 author: "Metaadvisor.eu"
 image_url: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.png"
 featured_image: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.png"
@@ -12,105 +13,147 @@ image: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-deriva
 thumbnail: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.png"
 image_alt: "Razlika između stvarnih dionica, tokeniziranih dionica, SPV struktura, derivativa i perpetual ugovora"
 image_credit: "Metaadvisor.eu – informativna ilustracija"
-tags: ["tokenized stocks", "tokenizirane dionice", "RWA", "SPV", "derivatives", "perpetual", "Hyperliquid", "xStocks", "Ondo", "Robinhood", "Fairmint"]
-description: "Tokenizirane dionice mogu izgledati gotovo identično na ekranu, ali iza njih mogu stajati stvarne dionice, SPV strukture, derivativi ili perpetual ugovori."
-summary: "Fairmint upozorava da bi rast tokeniziranih dionica mogao stvoriti digitalnu verziju Wall Streetove papirnate krize. Ključno pitanje postaje jednostavno: kada kupite token s oznakom NVDA ili SpaceX, što zapravo posjedujete?"
----
+tags: ["tokenized stocks", "tokenizirane dionice", "paperwork crisis", "RWA", "SPV", "perpetual", "Hyperliquid", "xStocks", "Ondo", "Robinhood", "Fairmint", "blockchain"]
+description: "Tokenizirane dionice mogu izgledati gotovo identično na ekranu, ali iza njih mogu stajati stvarne dionice, SPV strukture, derivativi ili perpetual ugovori. Fairmint upozorava na mogućnost nove digitalne 'paperwork crisis'."
+summary: "Wall Street je 1968. morao skraćivati trgovanje i zatvarati burze kako bi stigao obraditi papirologiju. Danas Fairmint upozorava da bi tokenizirane dionice mogle stvoriti digitalnu verziju istog problema: mnogo različitih evidencija i proizvoda koji predstavljaju istu imovinu."
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Slika je simbolična.*
 
-# Kupili ste tokeniziranu dionicu. Ali jeste li stvarno kupili dionicu?
+# Od Wall Streetove “paperwork crisis” do tokeniziranih dionica: što zapravo kupujete?
 
-Tokenizirane dionice sve se češće pojavljuju na crypto burzama, blockchainima, DeFi platformama i aplikacijama za trgovanje. Na ekranu korisnik može vidjeti poznato ime poput **Nvidia, Tesla ili SpaceX**, cijenu koja prati vrijednost kompanije i jednostavnu tipku Buy.
+Tokenizirane dionice sve se češće pojavljuju na crypto burzama, blockchainima, DeFi platformama i aplikacijama za trgovanje. Na ekranu korisnik može vidjeti poznato ime poput **Nvidije, Tesle ili neke druge velike kompanije**, cijenu koja prati vrijednost dionice i jednostavnu tipku Buy.
 
 No iza gotovo identičnog korisničkog sučelja mogu stajati potpuno različiti financijski i pravni proizvodi.
 
 Jedan token može biti **1:1 pokriven stvarnom dionicom**. Drugi može predstavljati ekonomsku izloženost vrijednosnici preko posebne pravne strukture. Treći je derivativ. Četvrti je perpetual ugovor kod kojeg stvarna dionica uopće ne mora biti kupljena za korisnika.
 
-Upravo na taj problem upozorio je Joris Delanoue, CEO Fairminta, američke fintech kompanije koja djeluje kao **SEC-registrirani transfer agent** i razvija on-chain infrastrukturu za evidenciju vlasništva nad dionicama. Njegova je teza da bi tokenizacija, ako se razvije kroz velik broj međusobno nepovezanih sustava i evidencija, mogla ponoviti jedan stari problem Wall Streeta — samo ovaj put bez papira.
+Fairmintov CEO Joris Delanoue zbog toga upozorava da bi tržište tokeniziranih dionica moglo ponoviti problem koji je Wall Street doživio krajem 1960-ih — samo ovaj put bez fizičkog papira.
 
 ## Wall Street je već jednom imao problem s evidencijom tzv. “paperwork crisis”
 
-Krajem 1960-ih američko tržište dionica suočilo se s takozvanom **“paperwork crisis”**. Trading volume brzo je rastao, dok su brokeri, burze i transfer agenti velik dio procesa i dalje obrađivali uz fizičke potvrde o vlasništvu, ručne evidencije i velike količine dokumentacije.
+Krajem 1960-ih američko tržište dionica suočilo se s takozvanom **“paperwork crisis”**.
 
-Sustav jednostavno nije mogao pratiti rast trgovanja. Kašnjenja u settlementu, pogreške i neuspjela poravnanja postajali su sve veći problem, a kriza je ubrzala razvoj centraliziranije elektroničke infrastrukture za evidenciju i poravnanje vrijednosnica.
+Trading volume eksplodirao je, dok su brokeri, burze i transfer agenti velik dio procesa i dalje obrađivali uz fizičke potvrde o vlasništvu, ručne evidencije i goleme količine dokumentacije. Sustavi napravljeni za nekoliko milijuna dionica dnevno više nisu mogli pratiti tržište koje je krajem desetljeća obrađivalo višestruko veći volumen.
 
-Danas više nemamo kamione pune papirnatih potvrda. No mogli bismo dobiti nešto drugo: **velik broj blockchaina, tokena, SPV-ova, wrappera, derivativa i privatnih evidencija koje istu ekonomsku imovinu predstavljaju na različite načine**.
+Problem je postao toliko ozbiljan da nije završio samo na sporijem settlementu.
 
-## Fairmint upozorava na “digitalnu paper crisis”
+**Wall Street je doslovno morao zatvarati tržište kako bi stigao riješiti papirologiju.**
 
-Fairmintova poanta nije da je tokenizacija sama po sebi problem. Upravo suprotno, blockchain može pojednostaviti prijenos vrijednosnica, ubrzati settlement i otvoriti tržište većem broju investitora.
+U siječnju 1968. burze su prvo skratile dnevno trgovanje za 90 minuta. U lipnju su vratile puni trgovinski dan, ali su počele **zatvarati burze jedan dan u tjednu** kako bi back-office zaposlenici dobili vrijeme za obradu nagomilanih transakcija. Srijeda je postala poznata kao dan kada se nije trgovalo upravo zato da bi se brokeri mogli uhvatiti ukoštac s planinama potvrda, prijenosa i drugih dokumenata. Početkom 1969. vratili su petodnevni trgovinski tjedan, ali ponovno uz skraćeno radno vrijeme. SEC danas navodi da je NYSE u nekim trenucima morao zatvarati **čak dva dana u jednom tjednu** kako bi sustav uspio sustići zaostatke.
 
-Problem nastaje ako distribucija tokeniziranih proizvoda raste brže od infrastrukture koja odgovara na jedno osnovno pitanje:
+Do prosinca 1968. vrijednost neriješenih transakcija narasla je na približno **4 milijarde dolara**, a SEC je kasnije opisao da se sustav poravnanja praktički raspao. Certifikati su kasnili, nestajali ili završavali na pogrešnim mjestima, dividende su se pogrešno usmjeravale, a dio brokerskih kuća nije preživio operativni kaos.
 
-**Tko je zapravo vlasnik?**
+Upravo je ta kriza ubrzala razvoj centraliziranije infrastrukture za clearance, settlement i evidenciju vrijednosnica, uključujući sustav iz kojeg će kasnije nastati Depository Trust Company, odnosno današnji DTCC. Umjesto fizičkog premještanja certifikata između kupca, brokera i prodavatelja, vlasništvo se sve više počelo prenositi elektroničkim knjiženjima.
 
-Fairmint razvija Open Cap Table Protocol, odnosno infrastrukturu u kojoj se službena evidencija izdavanja, prijenosa i vlasništva nad dionicama može voditi on-chain. Kompanija navodi da kroz svoju infrastrukturu administrira više od **1,6 milijardi dolara equityja**.
+Danas više nemamo službenike koji po Wall Streetu guraju kolica puna papirnatih potvrda.
 
-Ako ista Nvidia dionica istodobno postoji kao tradicionalna NVDA dionica, 1:1 backed token, drugi token kod drugog izdavatelja, Robinhood derivativ i perpetual na derivatives platformi, svi proizvodi mogu pratiti gotovo istu cijenu.
+No mogli bismo dobiti nešto drugo: **velik broj blockchaina, tokena, SPV-ova, wrappera, derivativa i privatnih evidencija koje istu ekonomsku imovinu predstavljaju na različite načine.**
+
+## Fairmint upozorava na digitalnu verziju istog problema
+
+Fairmint nije crypto burza na kojoj retail korisnik jednostavno kupuje tokenizirane dionice. Tvrtka se bavi infrastrukturom za evidenciju vlasništva i prijenos vrijednosnica te djeluje kao registrirani transfer agent u SAD-u.
+
+Zato je njihovo upozorenje zanimljivije od obične kritike tokenizacije.
+
+Problem, prema Fairmintu, nije nužno u tome što se dionica nalazi na blockchainu. Problem nastaje ako se **distribucija tokeniziranih vrijednosnica razvija brže od infrastrukture koja može nedvosmisleno odgovoriti na osnovno pitanje: tko je zapravo vlasnik?**
+
+Ako ista Nvidia dionica postoji kao tradicionalna NVDA dionica, 1:1 backed token, drugi token na drugom blockchainu, Robinhood derivativ, SPV pozicija i perpetual na derivatives tržištu, svi proizvodi mogu pratiti približno istu cijenu.
 
 Ali oni nisu ista stvar.
 
+Blockchain može ukloniti papir.
+
+Ne mora automatski ukloniti **problem evidencije**.
+
 {{< support1 >}}
+
+## Zašto u primjerima koristimo Nvidiju?
+
+U nastavku koristimo **Nvidiju i oznaku NVDA samo kao jednostavan ilustrativni primjer**, jer je riječ o jednoj od globalno najpoznatijih javno trgovanim kompanija i čitatelju je lako zamisliti da različiti proizvodi pokušavaju pratiti istu dionicu.
+
+Jednako smo mogli koristiti **Teslu, Alphabet odnosno Google, Apple, Amazon ili neku drugu poznatu javnu kompaniju**.
+
+Kod privatnih kompanija poput **SpaceX-a** situacija je još zanimljivija jer ne postoji klasična javno trgovana SpaceX dionica s jednom kontinuiranom burzovnom spot cijenom. Zbog toga proizvodi koji nude SpaceX exposure mogu uključivati SPV strukture, private-market pozicije, tokene ili derivativne i perpetual proizvode.
+
+Dakle, NVDA u nastavku nije preporuka niti analiza Nvidia dionice. Ona nam samo služi kao lako razumljiv primjer za odgovor na pitanje:
+
+**Ako pet proizvoda na ekranu svi nose ime iste kompanije, posjedujete li u svih pet slučajeva istu stvar?**
+
+Odgovor je — ne.
 
 ## Što zapravo možete kupiti?
 
-Najjednostavnije ih je podijeliti prema tome što se nalazi iza cijene koju korisnik vidi na ekranu.
+Najjednostavnije je proizvode podijeliti prema tome što se nalazi iza cijene koju korisnik vidi na ekranu.
 
-| Što kupujete | Primjeri proizvoda / platformi | Što zapravo imate |
-|---|---|---|
-| **Pravu dionicu** | klasični brokeri | Dionicu kroz tradicionalni brokerski i custody sustav |
-| **1:1 backed tokenized stock** | xStocks, Ondo Stocks | Token iza kojeg postoji odgovarajuća underlying dionica ili drugo definirano pokriće |
-| **Stock token derivative** | Robinhood Classic Stock Tokens | Derivativni ugovor koji prati vrijednost underlying dionice ili ETF-a |
-| **SPV-based proizvod** | private-market i pre-IPO platforme | Udio ili pravo prema SPV-u koji drži underlying imovinu |
-| **Pre-IPO exposure** | Republic i drugi private-market proizvodi | Ekonomsku izloženost privatnoj kompaniji preko posredničke strukture |
-| **Perpetual / synthetic stock** | Hyperliquid HIP-3 tržišta i drugi derivatives DEX-ovi | Ugovor koji prati cijenu ili referentnu vrijednost bez nužnog vlasništva underlying dionice |
+| Što kupujete                    | Primjeri proizvoda/platformi                          | Što zapravo imate                                                                            |
+| ------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Pravu dionicu**               | klasični brokeri                                      | Dionicu kroz tradicionalni brokerski i custody sustav                                        |
+| **1:1 backed tokenized stock**  | xStocks, Ondo Stocks                                  | Token iza kojeg postoji odgovarajuća underlying dionica ili drugo definirano pokriće         |
+| **Stock token derivative**      | Robinhood Stock Tokens                                | Financijski derivativ koji daje ekonomsku izloženost underlying dionici                      |
+| **SPV-based proizvod**          | private-market platforme                              | Udio ili pravo prema SPV-u koji drži underlying imovinu                                      |
+| **Pre-IPO exposure**            | Republic i druge private-market platforme             | Ekonomsku izloženost privatnoj kompaniji preko posredničke pravne strukture                  |
+| **Perpetual / synthetic stock** | Hyperliquid HIP-3 tržišta i drugi derivatives DEX-ovi | Ugovor koji prati referentnu cijenu ili vrijednost, bez nužnog vlasništva underlying dionice |
 
-Upravo zato izraz **“tokenized stock”** sam po sebi više nije dovoljan da bi investitor znao što je kupio.
+Upravo zato izraz **“tokenized stock”** sam po sebi više nije dovoljan da bi investitor znao što je zapravo kupio.
 
-## Token vezan uz stvarnu dionicu nije isto što i perpetual
+## Token pokriven stvarnom dionicom
 
-Ovo je jedna od najvažnijih razlika.
+Jedan model tokenizacije koristi stvarnu vrijednosnicu kao pokriće.
 
-Na ekranu oba proizvoda mogu izgledati gotovo jednako. Korisnik može vidjeti:
+Kod 1:1 backed tokena izdavatelj ili njegova custody struktura u pozadini drži underlying dionicu ili odgovarajuću količinu vrijednosnice koja predstavlja pokriće za izdane tokene.
+
+Pojednostavljeno:
+
+**korisnik → NVDA token → izdavatelj/custodian → stvarna Nvidia dionica**
+
+xStocks je jedan od poznatijih primjera takvog pristupa, dok Ondo Stocks koristi vlastitu strukturu za tokenizirane dionice i ETF-ove.
+
+Ali čak ni kod proizvoda koji je potpuno pokriven stvarnom dionicom ne treba automatski zaključiti:
+
+**“Posjedujem Nvidia token, dakle ja sam Nvidia dioničar.”**
+
+To ovisi o pravnoj strukturi proizvoda.
+
+Investitor treba provjeriti tko je formalni vlasnik underlying vrijednosnice, kakva prava ima tokenholder, što se događa s dividendama, postoje li voting rights, može li se token redeemati za underlying imovinu ili samo za novac te što se događa ako izdavatelj ili custodian upadne u probleme.
+
+## Token vezan uz stvarnu dionicu nije isto što i derivative ili perpetual
+
+Ovo je možda najvažnija razlika za običnog korisnika.
+
+Na ekranu oba proizvoda mogu izgledati gotovo jednako:
 
 **NVDA – $180**
 
 No jedan proizvod može imati stvarnu Nvidia dionicu kao pokriće, dok drugi samo prati njezinu cijenu.
 
-| | Token vezan uz stvarnu dionicu | Derivative / perpetual |
-|---|---|---|
-| **Postoji li stvarna dionica kao pokriće?** | Da, ako je proizvod stvarno 1:1 backed | Ne mora postojati |
-| **Što korisnik posjeduje?** | Token s ekonomskom izloženošću pokrivenoj dionici | Ugovor koji prati cijenu underlying imovine |
-| **Je li korisnik izravni dioničar kompanije?** | U pravilu ne automatski | Ne |
-| **Leverage** | Obično nije sastavni dio tokena | Često dostupan |
-| **Long / short** | Ovisi o tržištu i platformi | Osnovna funkcija proizvoda |
-| **Što održava cijenu?** | Underlying, redemption i arbitraža | Referentna cijena, oracle/index, tržište i funding |
-| **Glavni dodatni rizik** | Izdavatelj, custodian i pravna struktura | Funding, leverage, likvidacija, oracle i struktura tržišta |
+|                                                | Token vezan uz stvarnu dionicu                          | Derivative / perpetual                                     |
+| ---------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
+| **Postoji li stvarna dionica kao pokriće?**    | Da, ako je proizvod 1:1 backed                          | Ne mora postojati                                          |
+| **Što korisnik posjeduje?**                    | Token koji daje ekonomsku izloženost pokrivenoj dionici | Ugovor koji prati cijenu underlying imovine                |
+| **Je li korisnik izravni dioničar kompanije?** | U pravilu ne                                            | Ne                                                         |
+| **Leverage**                                   | Obično nije sastavni dio tokena                         | Često dostupan                                             |
+| **Long / short**                               | Ovisi o platformi                                       | Osnovna funkcija proizvoda                                 |
+| **Što održava cijenu blizu underlyinga?**      | Pokriće, redemption i arbitraža                         | Referentna cijena, oracle/index, tržište i funding         |
+| **Glavni dodatni rizik**                       | Izdavatelj, custodian i pravna prava                    | Funding, leverage, likvidacija, oracle i struktura tržišta |
 
 Pretpostavimo da Nvidia dionica vrijedi **180 dolara**.
 
-Kod 1:1 backed tokena izdavatelj u pozadini može držati odgovarajuću underlying vrijednosnicu, a token korisniku daje ekonomsku izloženost toj imovini.
+Kod 1:1 backed tokena izdavatelj može držati odgovarajuću Nvidia dionicu i izdati token koji prati njezinu ekonomsku vrijednost.
 
-Pojednostavljeno:
+Kod perpetuala situacija je sasvim drukčija.
 
-**token korisnika → izdavatelj/custodian → stvarna NVDA dionica**
-
-Ali čak ni tada nije dovoljno zaključiti: **“Posjedujem Nvidia token, dakle ja sam Nvidia dioničar.”**
-
-Potrebno je provjeriti tko je formalno upisan kao vlasnik underlying vrijednosnice, ima li tokenholder pravo na dividendu, postoje li voting rights, može li se token zamijeniti za underlying imovinu te što se događa ako izdavatelj ili custodian propadne.
-
-Kod perpetuala situacija je potpuno drukčija.
-
-Korisnik može otvoriti:
+Korisnik otvara:
 
 **LONG NVDA perpetual**
 
 ili:
 
-**SHORT NVDA perpetual**
+**SHORT NVDA perpetual.**
 
-Ako referentna cijena poraste 10%, long pozicija može dobiti približno 10% prije utjecaja fundinga, naknada i leveragea. Međutim, zbog te pozicije nitko ne mora kupiti jednu stvarnu Nvidia dionicu i držati je za tog korisnika.
+Ako referentna cijena poraste 10%, vrijednost long pozicije također raste, uz utjecaj fundinga, naknada i eventualnog leveragea.
+
+Ali zbog te pozicije nitko ne mora kupiti jednu stvarnu Nvidia dionicu i držati je za tog korisnika.
 
 Perpetual zato prvenstveno služi za **trading cijene**, a ne za vlasništvo underlying imovine.
 
@@ -118,123 +161,160 @@ Perpetual zato prvenstveno služi za **trading cijene**, a ne za vlasništvo und
 
 ## Gdje se u tu priču uklapa Hyperliquid?
 
-Hyperliquid je posebno zanimljiv jer njegov **HIP-3** model omogućuje pokretanje builder-deployed perpetual tržišta. Time perpetual infrastruktura više nije ograničena samo na klasične crypto assete poput Bitcoina ili Ethera, nego može obuhvatiti i tržišta povezana s dionicama, robama, indeksima ili privatnim kompanijama.
+Hyperliquid je posebno zanimljiv zbog **HIP-3 builder-deployed perpetual markets**.
+
+Takva infrastruktura omogućuje kreiranje perpetual tržišta čija referentna imovina ne mora biti samo klasična kriptovaluta poput Bitcoina ili Ethereuma. Mogu se pojaviti i tržišta koja prate dionice, indekse, robe ili procijenjenu vrijednost privatnih kompanija.
 
 Kod takvog proizvoda korisnik ne kupuje kompaniju.
 
 Kupuje **perpetual ugovor**.
 
-To znači da može zauzeti long ili short poziciju prema referentnoj vrijednosti, ali time ne postaje vlasnik underlying dionice.
+Može biti long ako očekuje rast ili short ako očekuje pad.
 
-Ta razlika postaje posebno važna kada se na derivatives tržištima pojave kompanije koje još nisu javno izlistane.
+To je potpuno drugačija pravna i financijska pozicija od kupnje stvarne dionice ili 1:1 backed tokena.
 
-## SpaceX je odličan primjer
+## SpaceX posebno dobro pokazuje razliku
 
-Ako na derivatives platformi vidite instrument označen kao **SpaceX** s cijenom od, primjerice, 120 ili 140 dolara, ta brojka ne znači automatski:
+Kod privatne kompanije kao što je SpaceX ta je razlika još lakše vidljiva.
 
-**“Jedna službena SpaceX dionica na burzi vrijedi 140 dolara.”**
+Ako derivatives platforma prikazuje proizvod s nazivom **SpaceX** i cijenu od, primjerice, 120 ili 140 dolara, ta brojka ne znači automatski:
 
-Kod privatne kompanije nema iste vrste jedinstvene javne spot cijene kakvu imaju Nvidia, Apple ili Tesla na tradicionalnoj burzi.
+**“Jedna službena SpaceX dionica na javnoj burzi sada košta 140 dolara.”**
 
-Perpetual ili drugi synthetic proizvod može koristiti određenu referentnu vrijednost, indeks, model procjene ili tržišni mehanizam za price discovery.
+SpaceX nije u istoj situaciji kao Nvidia ili Tesla, koje imaju javno trgovane dionice s transparentnim tržišnim cijenama.
 
-Investitor može zaraditi ili izgubiti novac ovisno o kretanju te cijene.
+SpaceX perpetual može predstavljati **synthetic exposure odnosno derivativnu poziciju koja prati neku definiranu referentnu ili impliciranu vrijednost kompanije**.
 
-Ali time nije postao SpaceX dioničar.
+Investitor može zaraditi ili izgubiti novac na promjeni te cijene.
 
-Ova razlika postaje sve važnija kako derivatives tržišta počinju nuditi izloženost privatnim kompanijama poput SpaceX-a, OpenAI-ja ili Anthropica.
+Ali zbog toga nije postao SpaceX dioničar.
 
 ## A što je SPV?
 
-SPV znači **Special Purpose Vehicle** — posebno osnovani pravni subjekt koji služi određenoj svrsi.
+SPV znači **Special Purpose Vehicle**, odnosno posebno osnovani pravni subjekt stvoren za određenu svrhu.
 
-Kod private-market ulaganja SPV može biti osnovan kako bi kupio i držao dionice neke privatne kompanije.
+Kod private-market ulaganja SPV može biti osnovan upravo kako bi kupio i držao dionice određene kompanije.
 
-Struktura može izgledati ovako:
+Struktura tada može izgledati ovako:
 
 **investitor → SPV → SpaceX dionice**
 
-Investitor zato ne mora biti izravno upisan kao vlasnik SpaceX dionica. SPV je subjekt koji drži underlying poziciju, dok investitor ima određeno pravo prema SPV-u.
+Investitor zato ne mora biti izravno upisan kao vlasnik SpaceX dionica.
 
-SPV sam po sebi nije nešto neuobičajeno ni nužno problematično. Takve se strukture desetljećima koriste u financijama.
+Formalnu underlying poziciju drži SPV, dok investitor ima određeno pravo prema SPV-u.
 
-Ali investitor mora razumjeti **koliko slojeva postoji između njega i stvarne imovine**.
+To samo po sebi nije neobično niti automatski problematično. SPV strukture dugo se koriste u tradicionalnim financijama.
 
-Što se događa ako SPV propadne? Tko ima pravo na underlying dionice? Može li se pozicija prenijeti? Što se događa nakon IPO-a ili prodaje kompanije? Ima li investitor voting rights?
+Ali investitor mora razumjeti **koliko pravnih i operativnih slojeva postoji između njega i stvarne imovine**.
 
-Odgovori ovise o konkretnom proizvodu.
+Tko je vlasnik underlying dionice? Što se događa ako SPV propadne? Kako se tretira investitor u slučaju likvidacije? Može li prenijeti svoj udio? Što se događa ako kompanija napravi IPO ili bude prodana?
 
-## Robinhood pokazuje koliko naziv može zavarati
+Odgovori ovise o dokumentaciji konkretnog proizvoda.
 
-Robinhoodovi europski **Classic Stock Tokens** vrlo dobro pokazuju koliko naziv proizvoda može zvučati jednostavnije nego njegova pravna struktura.
+## Robinhood Stock Token može izgledati kao dionica, ali nije isto
 
-Robinhood u svojim uvjetima izričito navodi da su Classic Stock Tokens **financijski derivativni ugovori između korisnika i Robinhooda** koji prate cijenu određenih američkih dionica ili ETF-ova.
+Robinhood je još jedan primjer zašto korisničko sučelje i naziv kompanije nisu dovoljni.
 
-Underlying vrijednosnice mogu postojati i biti držane u custodyju, ali korisnik kupnjom Stock Tokena **ne kupuje samu underlying dionicu i ne dobiva prava prema kompaniji koja ju je izdala**.
+Stock token može korisniku pružiti ekonomsku izloženost cijeni određene vrijednosnice, ali pravno ne mora predstavljati isto vlasništvo koje dobiva investitor koji kupuje samu underlying dionicu preko tradicionalnog brokerskog sustava.
 
-Na ekranu korisnik može vidjeti poznatu kompaniju, odgovarajući ticker i cijenu koja prati dionicu.
+Na jednom ekranu zato možemo imati dva proizvoda koji nose ime **Nvidia** i gotovo identičnu cijenu.
 
-Pravno, međutim, može posjedovati sasvim drugi instrument.
+Jedan predstavlja dionicu.
 
-## Jedna Nvidia, više potpuno različitih proizvoda
+Drugi predstavlja ugovor vezan uz cijenu te dionice.
 
-Zamislimo situaciju u kojoj investitor može birati između:
+Za korisnika su vizualno vrlo slični.
 
-**NVDA preko tradicionalnog brokera**
+Pravno su potpuno različiti.
+
+## Jedna Nvidia, šest različitih proizvoda
+
+Zamislimo tržište na kojem istodobno postoje:
+
+**NVDA na Nasdaqu**
 
 **NVDAx kao 1:1 backed token**
 
-**druge tokenizirane verzije NVDA-e**
+**drugi NVDA token na drugom blockchainu**
 
-**Robinhood Stock Tokena**
+**Robinhood NVDA Stock Token**
 
-**NVDA perpetuala**
+**NVDA perpetual na Hyperliquid infrastrukturi**
 
-**synthetic NVDA proizvoda na nekom drugom DeFi protokolu**
+**NVDA synthetic proizvod na drugom DeFi protokolu**
 
-Svi mogu biti vezani uz istu kompaniju.
+Svih šest može pokazivati gotovo istu cijenu.
 
-Svi mogu pokazivati gotovo istu cijenu.
+Ali iza njih mogu stajati:
 
-Ali iza njih mogu stajati potpuno različita prava, različiti custody modeli, različiti registri vlasništva i različiti rizici.
+različiti vlasnici underlying dionica,
 
-Tu Fairmintova usporedba s krizom 1960-ih postaje puno jasnija.
+različiti custodiani,
 
-Problem nije nužno blockchain.
+različita prava investitora,
 
-Problem je **fragmentacija evidencije i proizvoda**.
+različiti blockchaini,
+
+različiti pravni ugovori,
+
+različiti oracle sustavi,
+
+i različite evidencije o tome tko što zapravo posjeduje.
+
+Upravo je to srž upozorenja o mogućoj novoj **“paperwork crisis”**.
+
+Problem više ne bi bio fizički papir.
+
+Problem bi bila **digitalna fragmentacija**.
+
+## Blockchain može ukloniti papir, ali ne nužno i kaos
+
+Ironija je očita.
+
+Blockchain je nastao upravo kao tehnologija koja bi trebala omogućiti transparentniju, programabilnu i jednostavniju evidenciju imovine.
+
+Ali ako svaki izdavatelj, blockchain, broker, SPV i derivatives protokol stvori vlastitu reprezentaciju iste imovine, mogli bismo dobiti potpuno suprotan rezultat.
+
+Umjesto jedne jasne evidencije možemo dobiti:
+
+**jednu kompaniju → deset proizvoda → pet blockchaina → nekoliko custodiana → više pravnih struktura → različita prava investitora.**
+
+Drugim riječima, Wall Street je 1968. imao problem jer je morao usklađivati previše papira.
+
+Budući Wall Street mogao bi imati problem jer mora usklađivati **previše digitalnih verzija iste stvari**.
 
 ## Što bi investitor trebao provjeriti prije kupnje?
 
-Prije kupnje proizvoda koji se predstavlja kao tokenizirana dionica nije dovoljno pogledati ticker i cijenu.
+Prije kupnje proizvoda koji nosi ime poznate kompanije nije dovoljno pogledati ticker i cijenu.
 
-Treba odgovoriti barem na nekoliko pitanja:
+Treba znati odgovor barem na nekoliko pitanja:
 
-- **Postoji li stvarna underlying dionica?**
-- **Tko je drži?**
-- **Je li proizvod zaista 1:1 backed?**
-- **Jesam li dioničar ili imam samo ekonomsku izloženost?**
-- **Je li riječ o tokenu, derivativu, perpetualu ili udjelu u SPV-u?**
-- **Imam li pravo na dividendu?**
-- **Imam li voting rights?**
-- **Mogu li token zamijeniti za underlying dionicu ili samo za novac?**
-- **Što se događa ako izdavatelj, custodian ili SPV propadne?**
-- **Koja evidencija predstavlja konačan dokaz mojeg prava?**
+* **Postoji li stvarna underlying dionica?**
+* **Tko je drži?**
+* **Je li proizvod 1:1 backed?**
+* **Jesam li vlasnik vrijednosnice ili imam samo ekonomsku izloženost?**
+* **Je li proizvod token, derivativ, perpetual ili udio u SPV-u?**
+* **Imam li pravo na dividendu?**
+* **Imam li voting rights?**
+* **Mogu li token pretvoriti u underlying dionicu ili samo u novac?**
+* **Što se događa ako izdavatelj, custodian ili SPV propadne?**
+* **Koja evidencija predstavlja konačni dokaz mojeg prava?**
 
-Upravo bi ovo posljednje pitanje moglo postati najvažnije.
+To posljednje pitanje moglo bi postati najvažnije od svih.
 
 ## Naš osvrt
 
-- Tokenizacija dionica može značajno povećati pristup globalnim tržištima i omogućiti trgovanje tradicionalnom imovinom kroz blockchain infrastrukturu.
-- Međutim, naziv kompanije i ticker više nisu dovoljni da bi investitor znao što je kupio.
-- **1:1 backed stock token i perpetual koji prati istu dionicu nisu ista financijska imovina.**
-- Kod tokena s pokrićem postoji underlying imovina, ali to još uvijek ne znači automatski da je tokenholder izravni registrirani dioničar kompanije.
-- Kod perpetuala underlying dionica za konkretnu poziciju ne mora biti kupljena; korisnik trguje cijenom putem derivativnog ugovora.
-- SPV uvodi dodatni pravni sloj jer investitor može imati pravo prema posebnom društvu koje zatim drži stvarne dionice.
-- Hyperliquidov HIP-3 pokazuje koliko se brzo briše granica između crypto derivatives tržišta i tržišta tradicionalne imovine.
-- Kod privatnih kompanija poput SpaceX-a razlika je posebno važna jer cijena perpetual ugovora nije isto što i službena cijena javno trgovane dionice.
-- Fairmintovo upozorenje zato nije argument protiv tokenizacije. To je upozorenje da velik broj nepovezanih digitalnih reprezentacija iste imovine može proizvesti novu vrstu financijske fragmentacije.
-- Wall Streetova kriza 1960-ih nastala je zbog previše papira i prespore infrastrukture. Novi problem mogao bi nastati zbog **previše digitalnih verzija iste imovine i premalo jasnoće o tome koja od njih predstavlja stvarno vlasništvo**.
+* Wall Streetova **“paperwork crisis”** nije samo zanimljiva povijesna anegdota. Situacija je 1968. postala toliko ozbiljna da su burze skraćivale trgovanje i zatvarale se jedan dan tjedno kako bi brokeri stigli obraditi dokumentaciju.
+* U pojedinim razdobljima NYSE je morao zatvoriti tržište čak dva dana u tjednu kako bi sustav uhvatio korak s nagomilanim transakcijama.
+* Tokenizacija danas može ukloniti fizički papir, ubrzati settlement i otvoriti pristup tržištima većem broju investitora.
+* Ali naziv kompanije i ticker više nisu dovoljni da bi korisnik znao što je kupio.
+* **1:1 backed token i perpetual koji prati istu dionicu nisu ista financijska imovina.**
+* Kod prvoga u pozadini postoji definirano underlying pokriće. Kod drugoga stvarna dionica za konkretnog korisnika ne mora postojati.
+* SPV uvodi još jedan sloj: investitor može imati pravo prema posebnom društvu koje zatim drži underlying dionice.
+* Hyperliquidov HIP-3 pokazuje koliko se brzo granica između crypto derivatives tržišta i tradicionalnih financijskih asseta briše.
+* Kod privatnih kompanija poput SpaceX-a razlika je posebno važna jer cijena derivativa ili perpetuala nije isto što i službena cijena javno trgovane dionice.
+* Fairmintovo upozorenje zato nije argument protiv tokenizacije. Ono upozorava da distribucija bez jasne i interoperabilne evidencije vlasništva može stvoriti novu vrstu tržišne fragmentacije.
+* Wall Streetova kriza 1960-ih nastala je zbog **previše papira i infrastrukture koja ga nije mogla obraditi dovoljno brzo**. Sljedeći problem mogao bi nastati zbog **previše digitalnih reprezentacija iste imovine i premalo jasnoće o tome koja od njih predstavlja što**.
 
 **Disclaimer:** Članak je informativnog karaktera i ne predstavlja financijski ili investicijski savjet. Tokenizirane vrijednosnice, SPV strukture, derivativi i perpetual ugovori mogu imati različita pravna prava, regulatorni tretman i rizike ovisno o izdavatelju, platformi i jurisdikciji. Prije ulaganja potrebno je provjeriti dokumentaciju konkretnog proizvoda.
 
