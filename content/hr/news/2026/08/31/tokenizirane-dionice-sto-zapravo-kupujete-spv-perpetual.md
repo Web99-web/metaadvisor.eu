@@ -1,5 +1,4 @@
 ---
-
 title: "Tokenizirane dionice prijete novom 'paperwork crisis': što zapravo kupujete?"
 slug: "tokenizirane-dionice-sto-zapravo-kupujete-spv-perpetual"
 date: 2026-08-31T06:00:00+02:00
@@ -16,7 +15,7 @@ image_credit: "Metaadvisor.eu – informativna ilustracija"
 tags: ["tokenized stocks", "tokenizirane dionice", "paperwork crisis", "RWA", "SPV", "perpetual", "Hyperliquid", "xStocks", "Ondo", "Robinhood", "Fairmint", "blockchain"]
 description: "Tokenizirane dionice mogu izgledati gotovo identično na ekranu, ali iza njih mogu stajati stvarne dionice, SPV strukture, derivativi ili perpetual ugovori. Fairmint upozorava na mogućnost nove digitalne 'paperwork crisis'."
 summary: "Wall Street je 1968. morao skraćivati trgovanje i zatvarati burze kako bi stigao obraditi papirologiju. Danas Fairmint upozorava da bi tokenizirane dionice mogle stvoriti digitalnu verziju istog problema: mnogo različitih evidencija i proizvoda koji predstavljaju istu imovinu."
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 *Slika je simbolična.*
 
