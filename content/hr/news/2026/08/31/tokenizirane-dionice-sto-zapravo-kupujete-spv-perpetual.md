@@ -29,7 +29,7 @@ Jedan token može biti **1:1 pokriven stvarnom dionicom**. Drugi može predstavl
 
 Upravo na taj problem upozorio je Joris Delanoue, CEO Fairminta, američke fintech kompanije koja djeluje kao **SEC-registrirani transfer agent** i razvija on-chain infrastrukturu za evidenciju vlasništva nad dionicama. Njegova je teza da bi tokenizacija, ako se razvije kroz velik broj međusobno nepovezanih sustava i evidencija, mogla ponoviti jedan stari problem Wall Streeta — samo ovaj put bez papira.
 
-## Wall Street je već jednom imao problem s evidencijom
+## Wall Street je već jednom imao problem s evidencijom tzv. “paperwork crisis”
 
 Krajem 1960-ih američko tržište dionica suočilo se s takozvanom **“paperwork crisis”**. Trading volume brzo je rastao, dok su brokeri, burze i transfer agenti velik dio procesa i dalje obrađivali uz fizičke potvrde o vlasništvu, ručne evidencije i velike količine dokumentacije.
 
