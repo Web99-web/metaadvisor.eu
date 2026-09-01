@@ -1,5 +1,5 @@
 ---
-title: "Rusija danas otvara regulirano crypto tržište: Sber priprema kredite uz BTC, ETH i USDT"
+title: "Rusija 1.9. otvara regulirano crypto tržište: Sber priprema kredite uz BTC, ETH i USDT"
 slug: "rusija-otvara-regulirano-crypto-trziste-sber-btc-eth-usdt"
 date: 2026-09-01T08:00:00+02:00
 category: "Crypto"
