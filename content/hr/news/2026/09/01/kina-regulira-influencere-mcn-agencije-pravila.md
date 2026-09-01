@@ -27,7 +27,7 @@ Kineski regulator za njih koristi širi naziv pružatelja višekanalnih usluga d
 
 Veliki kineski MCN može istodobno biti talent-agencija, produkcijski studio, marketinška kompanija, social media management servis i e-commerce operator. Agencija može pronaći osobu bez velike publike, procijeniti za koju je nišu zanimljiva, pomoći joj izgraditi online personu te joj osigurati scenariste, snimatelje, montažere, studio i ljude koji analiziraju rezultate sadržaja.
 
-Ako format uspije, ista formula može se širiti na više računa i platformi poput Douyina, Kuaishoua ili Xiaohongshua. Zato influencer kojeg publika vidi kao jednu osobu koja svakodnevno snima sadržaj iza sebe ponekad ima čitav tim koji planira što će snimiti, kada će objaviti, kako će privući promet i kako će ga monetizirati.
+Ako format uspije, ista formula može se širiti na više računa i platformi poput **Douyina**, **Kuaishoua** ili **Xiaohongshua**. Zato influencer kojeg publika vidi kao jednu osobu koja svakodnevno snima sadržaj iza sebe ponekad ima čitav tim koji planira što će snimiti, kada će objaviti, kako će privući promet i kako će ga monetizirati.
 
 ## Industrija vrijedna više od 60 milijardi juana
 
