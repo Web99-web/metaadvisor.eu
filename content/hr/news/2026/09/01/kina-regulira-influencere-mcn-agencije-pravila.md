@@ -83,7 +83,7 @@ Time Kina zapravo govori da profesionalni influencer više nije uvijek samo poje
 
 ## Naš osvrt
 
-* **Kineski influencer business prerastao je u ozbiljnu industriju s oko 29.000 MCN organizacija i tržištem vrijednim 63,6 milijardi juana.**
+* **Kineski influencer business prerastao je u ozbiljnu industriju s oko 29.000 MCN organizacija i tržištem vrijednim 63,6 milijardi juana, odnosno oko 9,5 milijardi dolara, uz očekivanje da prijeđe 70 milijardi juana odnosno oko 10,4 milijarde dolara.**
 * **MCN može raditi gotovo sve iza influencera: od pronalaska creatora i produkcije sadržaja do marketinga, prodaje i live commercea.**
 * **Agencije zarađuju od creator prihoda, promocija, brand kampanja, provizija od prodaje, produkcije i e-commerce usluga.**
 * **Influencer koji stvarno radi sam nije automatski MCN**, ali i dalje podliježe drugim pravilima koja vrijede za sadržaj, oglašavanje i online prodaju.
