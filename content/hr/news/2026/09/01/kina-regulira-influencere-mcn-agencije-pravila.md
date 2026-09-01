@@ -1,5 +1,5 @@
 ---
-title: "Kina regulira mreže iza influencera: nova MCN pravila"
+title: "Kina od 1.9. regulira mreže iza influencera: nova MCN pravila"
 slug: "kina-regulira-influencere-mcn-agencije-pravila"
 date: 2026-09-01T18:00:00+02:00
 category: "Tech"
