@@ -65,7 +65,7 @@ Možda najzanimljiviji dio cijele priče nije samo otvaranje tržišta, nego kon
 
 Dok Sber razvija proizvode povezane s Bitcoinom, Etherom i USDT-om, iz same banke već su se mogle čuti procjene da zasad ne postoji osobito snažna potražnja za digitalnim rubljem. To stvara zanimljiv paradoks: država razvija vlastitu digitalnu valutu središnje banke, dok najveća komercijalna banka vidi konkretnu poslovnu priliku upravo u Bitcoinu, Etheru i stablecoinima.
 
-To ne znači da je projekt digitalnog rublja nevažan, ali pokazuje da tržište i banke trenutačno puno jasnije prepoznaju praktičnu upotrebu postojećih globalnih crypto imovina.
+To ne znači da je digitalni rubalj nevažan, ali za banke koje posluju na globalnom tržištu BTC, ETH i USDT trenutačno imaju jednu veliku prednost: već postoji međunarodna likvidnost, razvijena tržišna infrastruktura i stvarna potražnja. Upravo zato njihova praktična primjena može biti jasnija od primjene CBDC-a koji je prije svega vezan uz domaći monetarni sustav.
 
 ## Naš osvrt
 
