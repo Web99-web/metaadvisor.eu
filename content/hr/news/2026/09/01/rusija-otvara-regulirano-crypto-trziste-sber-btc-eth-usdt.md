@@ -59,7 +59,7 @@ Upravo zato su krediti uz BTC, ETH i USDT toliko zanimljivi. Oni pokazuju da ban
 
 {{< support2 >}}
 
-## Digitalni rubalj ostaje u sjeni
+## Što se događa s digitalnim rubljem?
 
 Možda najzanimljiviji dio cijele priče nije samo otvaranje tržišta, nego kontrast između interesa za decentralizirane i privatno izdane digitalne imovine s jedne strane i digitalnog rublja s druge.
 
