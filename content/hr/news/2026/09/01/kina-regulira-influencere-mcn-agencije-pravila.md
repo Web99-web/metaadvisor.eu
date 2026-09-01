@@ -29,9 +29,9 @@ Veliki kineski MCN može istodobno biti talent-agencija, produkcijski studio, ma
 
 Ako format uspije, ista formula može se širiti na više računa i platformi poput **Douyina**, **Kuaishoua** ili **Xiaohongshua**. Zato influencer kojeg publika vidi kao jednu osobu koja svakodnevno snima sadržaj iza sebe ponekad ima čitav tim koji planira što će snimiti, kada će objaviti, kako će privući promet i kako će ga monetizirati.
 
-## Industrija vrijedna više od 60 milijardi juana
+## Industrija vrijedna više od 60 milijardi juana ili oko 9,5 milijardi dolara 
 
-To više nije mali posao. Prema izvješću China Association of Performing Arts i Douyin Livea, Kina je do svibnja 2025. imala oko **29.000 MCN organizacija**, a tržište je dosegnulo **63,6 milijardi juana**. Za 2025. očekivalo se da će vrijednost industrije prijeći **70 milijardi juana**.
+To više nije mali posao. Prema izvješću China Association of Performing Arts i Douyin Livea, Kina je do svibnja 2025. imala oko **29.000 MCN organizacija**, a **tržište vrijedno 63,6 milijardi juana, odnosno oko 9,5 milijardi dolara, uz očekivanje da prijeđe 70 milijardi juana, odnosno oko 10,4 milijarde dolara**.
 
 MCN agencije mogu zarađivati na više strana: uzimaju dio prihoda svojih creatora, naplaćuju brandovima kampanje i promociju, dobivaju provizije od prodaje proizvoda tijekom livestreama, proizvode sadržaj za kompanije te nude marketing i upravljanje računima. Neke idu još dalje i ulaze u supply chain, razvijaju vlastite proizvode ili upravljaju cijelim e-commerce poslovanjem.
 
