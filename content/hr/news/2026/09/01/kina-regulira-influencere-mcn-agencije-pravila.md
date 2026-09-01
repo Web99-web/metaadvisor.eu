@@ -12,184 +12,87 @@ image: "/images/news/China-regulets-infulencer-mcn-rules.png"
 thumbnail: "/images/news/China-regulets-infulencer-mcn-rules.png"
 image_alt: "Kina uvodi nova pravila za MCN agencije i poslovne mreže koje stoje iza influencera"
 image_credit: "Metaadvisor.eu"
-tags: ["Kina", "influenceri", "MCN", "MCN agencije", "društvene mreže", "kreatori sadržaja", "creator economy", "live commerce", "livestream", "e-trgovina", "digitalni marketing", "Douyin", "Xiaohongshu", "Kuaishou", "regulacija", "online sadržaj", "društvene platforme", "tehnologija"]
-description: "Kina od 1. rujna uvodi posebna pravila za MCN agencije koje upravljaju influencerima, sadržajem, livestream prodajom i velikim mrežama računa na društvenim platformama."
-summary: "Nova kineska pravila prvi put detaljnije reguliraju poslovnu infrastrukturu iza influencera. MCN agencije morat će biti registrirane, provjeravati creatore, nadzirati sadržaj i odgovarati za manipulaciju prometom, lažne persone i druge nepravilnosti."
+tags: ["Kina", "influenceri", "MCN", "MCN agencije", "kreatori sadržaja", "creator economy", "live commerce", "livestream", "e-trgovina", "digitalni marketing", "Douyin", "Xiaohongshu", "Kuaishou", "regulacija", "društvene mreže", "online sadržaj", "tehnologija"]
+description: "Kina od 1. rujna uvodi posebna pravila za MCN agencije koje upravljaju influencerima, produkcijom sadržaja, marketingom i livestream prodajom."
+summary: "Iza mnogih kineskih influencera ne stoji samo jedna osoba nego cijela kompanija. Kina sada prvi put posebnim nacionalnim pravilima uređuje MCN industriju vrijednu desetke milijardi juana."
 ---
 
 # Kina od 1. rujna regulira industriju iza influencera: što su MCN agencije i kako rade
 
-Kina od 1. rujna uvodi posebna nacionalna pravila za kompanije koje stoje iza velikog dijela tamošnje influencer ekonomije. Nova regulativa ne odnosi se samo na pojedinačne influencere koji objavljuju video sadržaj ili prodaju proizvode putem livestreama, nego prvenstveno na organizacije koje ih pronalaze, stvaraju njihove online persone, proizvode sadržaj, upravljaju računima, dovode publiku, ugovaraju oglase i organiziraju prodaju.
+Kina od 1. rujna uvodi posebna nacionalna pravila za kompanije koje stoje iza velikog dijela tamošnje influencer ekonomije. Meta nisu samo pojedinačni influenceri, nego takozvane MCN agencije – Multi-Channel Networks – koje mogu pronaći creatora, osmisliti njegov online identitet, proizvoditi sadržaj, upravljati računima, organizirati marketing i pretvarati publiku u prodaju.
 
-Riječ je o takozvanim MCN agencijama, odnosno Multi-Channel Networks. Kineski regulator koristi širi naziv za pružatelje višekanalnih usluga distribucije internetskog sadržaja, ali se u kineskoj creator industriji za takve kompanije već godinama koristi naziv MCN.
+Kineski regulator za njih koristi širi naziv pružatelja višekanalnih usluga distribucije internetskog sadržaja. U službenoj definiciji to uključuje planiranje, produkciju, distribuciju, marketing, promociju i zastupanje javnih online računa. Drugim riječima, država počinje regulirati upravo poslovnu infrastrukturu koja se često ne vidi iza osobe na ekranu.
 
-## Što je zapravo kineski MCN?
+## Što je MCN i kako zapravo radi?
 
-Na Zapadu se MCN najčešće povezuje s mrežama YouTube kreatora koje pomažu oko oglašavanja, produkcije i monetizacije. U Kini je taj model prerastao u puno širu industriju.
+Veliki kineski MCN može istodobno biti talent-agencija, produkcijski studio, marketinška kompanija, social media management servis i e-commerce operator. Agencija može pronaći osobu bez velike publike, procijeniti za koju je nišu zanimljiva, pomoći joj izgraditi online personu te joj osigurati scenariste, snimatelje, montažere, studio i ljude koji analiziraju rezultate sadržaja.
 
-Veliki kineski MCN može istodobno biti talent-agencija, produkcijski studio, digitalna marketinška kompanija, social media management servis i e-commerce operator.
+Ako format uspije, ista formula može se širiti na više računa i platformi poput Douyina, Kuaishoua ili Xiaohongshua. Zato influencer kojeg publika vidi kao jednu osobu koja svakodnevno snima sadržaj iza sebe ponekad ima čitav tim koji planira što će snimiti, kada će objaviti, kako će privući promet i kako će ga monetizirati.
 
-Agencija može pronaći osobu koja gotovo nema publiku, procijeniti u kojoj bi niši mogla uspjeti, osmisliti njezin online identitet, odrediti kakav će sadržaj proizvoditi i kojoj će se publici obraćati. Nakon toga može osigurati scenariste, snimatelje, montažere, studio, rasvjetu, proizvode za testiranje i ljude koji analiziraju podatke s platformi.
+## Industrija vrijedna više od 60 milijardi juana
 
-Influencer zato publici može izgledati kao jedna osoba koja svakodnevno spontano snima sadržaj, dok iza računa zapravo radi čitav produkcijski i komercijalni tim.
+To više nije mali posao. Prema izvješću China Association of Performing Arts i Douyin Livea, Kina je do svibnja 2025. imala oko **29.000 MCN organizacija**, a tržište je dosegnulo **63,6 milijardi juana**. Za 2025. očekivalo se da će vrijednost industrije prijeći **70 milijardi juana**.
 
-## Kako od obične osobe nastaje influencer?
+MCN agencije mogu zarađivati na više strana: uzimaju dio prihoda svojih creatora, naplaćuju brandovima kampanje i promociju, dobivaju provizije od prodaje proizvoda tijekom livestreama, proizvode sadržaj za kompanije te nude marketing i upravljanje računima. Neke idu još dalje i ulaze u supply chain, razvijaju vlastite proizvode ili upravljaju cijelim e-commerce poslovanjem.
 
-Proces može početi gotovo poput castinga. Agencija traži osobe za koje procjenjuje da imaju potencijal u određenoj niši, primjerice modi, beautyju, gamingu, hrani, fitnessu, tehnologiji, lifestyleu ili prodaji putem livestreama.
-
-Nakon toga testiraju se različiti formati i prati koji sadržaj ostvaruje najbolji engagement. Ako određeni koncept počne privlačiti publiku, produkcija se povećava.
-
-Umjesto jednog računa može nastati čitava mreža profila oko iste osobe ili teme. MCN istodobno može upravljati desecima, stotinama ili čak većim brojem creatora.
-
-Ideje se testiraju, uspješni formati ponavljaju, sadržaj prilagođava različitim platformama, objave vremenski koordiniraju, a rezultati analiziraju gotovo u realnom vremenu.
-
-To pojedinačni influencer teško može postići sam. Kineski creator economy zato je u velikom dijelu tržišta prerastao u pravu industrijsku proizvodnju sadržaja.
+Kod live commercea influencer tako može biti samo lice prodajnog sustava. Iza kamere se pregovara s proizvođačem, određuje cijena, priprema scenarij, organizira studio, prati broj gledatelja i prodaja, a MCN zarađuje od naknade i dijela ostvarenog prometa.
 
 {{< support1 >}}
 
-## Od influencera do virtualne trgovine
+## Što se mijenja 1. rujna?
 
-Još veća razlika vidi se kod live commercea.
+Nova pravila uvode jasniji lanac odgovornosti između creatora, MCN-a, platforme i regulatora. MCN mora biti registrirani poslovni subjekt, imati odgovorne osobe za sadržaj i provjeravati identitet creatora s kojima sklapa ugovore. Postojeće agencije imaju 30 dana od početka primjene pravila da usklade registriranu djelatnost.
 
-MCN tada ne prodaje samo oglas nekom brandu. Može organizirati cijeli prodajni proces: pronaći proizvod, pregovarati s proizvođačem, dogovoriti cijenu i proviziju, pripremiti livestream, odabrati influencera, napisati prodajni scenarij, organizirati studio i pratiti prodaju u realnom vremenu.
+Platforme također dobivaju veće obveze. Moraju formalno evidentirati MCN organizacije koje kod njih posluju, omogućiti im posebne management račune za ugovorene creatore i na profilima jasno prikazivati kojoj MCN organizaciji određeni creator pripada.
 
-Veliki influencer tako može biti samo najvidljivije lice puno šireg poslovnog sustava koji uključuje marketing, prodaju, podatkovnu analitiku, odnose s brandovima, logistiku i korisničku podršku.
+To je važna promjena upravo zato što publika danas često ne zna gleda li potpuno neovisnog influencera ili osobu iza koje stoji kompanija koja sudjeluje u proizvodnji sadržaja, marketingu i monetizaciji.
 
-Agencije mogu zarađivati od fiksnih naknada za promociju proizvoda, provizija od ostvarene prodaje, oglašavanja, produkcije sadržaja, upravljanja creatorima i vlastitih e-commerce projekata.
+## A što ako influencer zaista radi potpuno sam?
 
-Upravo je kombinacija short-form videa, livestreaminga i trenutne kupnje jedan od razloga zbog kojih je kineski influencer business otišao znatno dalje od klasičnog modela sponzorirane objave.
+Onda je situacija drugačija. Osoba koja sama vodi svoj račun, sama proizvodi sadržaj i nema MCN koji joj pruža takve usluge **nije samo zbog toga MCN organizacija**.
 
-## Koliko je ta industrija velika?
+Nova pravila prvenstveno uređuju poslovne subjekte koji drugim creatorima pružaju usluge poput planiranja, produkcije, distribucije, promocije ili zastupanja. Neovisni influencer zbog novih MCN pravila ne mora odjednom osnovati agenciju samo zato što ima velik broj followera.
 
-Kineska MCN industrija tijekom posljednjeg desetljeća eksplozivno je rasla.
-
-Prema podacima kineske industrije livestreama i short-video sadržaja, broj MCN institucija porastao je sa svega nekoliko stotina sredinom prošlog desetljeća na desetke tisuća organizacija.
-
-Procjene objavljene tijekom 2025. govorile su o približno 29.000 institucija povezanih s livestream i short-video creatorima te tržištu vrijednom desetke milijardi juana.
-
-Ta veličina objašnjava zašto kineski regulatori više ne žele reagirati samo na pojedinačne problematične influencere. Jedna agencija može istodobno upravljati velikim brojem računa i proizvoditi sadržaj u gotovo industrijskim razmjerima.
+Naravno, i dalje mora poštovati kineske zakone, pravila platforme, pravila oglašavanja i e-commerce propise koji se odnose na njegov sadržaj i poslovanje. Razlika je u tome što između njega i platforme nema dodatnog MCN-a kojem se sada također pripisuje dio odgovornosti.
 
 {{< support2 >}}
 
-## Što se mijenja od 1. rujna?
+## Lažne persone, followeri i prodajni rezultati pod povećalom
 
-Nova pravila stvaraju jasniji lanac odgovornosti između creatora, MCN agencije, platforme i regulatora.
+Nova pravila posebno zabranjuju izmišljanje pozadine, događaja ili persona ako se koriste za lažan ili obmanjujući marketing. To je zanimljivo upravo u industriji u kojoj online lik creatora ponekad nije potpuno spontan, nego pažljivo osmišljen proizvod.
 
-MCN mora biti registrirani poslovni subjekt, a djelatnost kompanije mora odgovarati uslugama koje stvarno pruža. Postojeće kompanije dobivaju prijelazno razdoblje za usklađivanje registracije.
+Problem nije fikcija ili gluma sama po sebi, nego situacija u kojoj se izmišljena životna priča predstavlja kao stvarnost kako bi se stvorilo povjerenje i prodavao proizvod.
 
-Ako se bave djelatnostima za koje su potrebne dodatne dozvole, primjerice određenim vrstama online informiranja, izdavaštva ili audiovizualnog sadržaja, moraju imati i odgovarajuće licence.
+Regulator cilja i umjetno povećavanje followera, pregleda, klikova, ocjena, glasova i čak prikazanih iznosa potrošnje. Zabranjeno je tehnički ili ručno proizvoditi lažni promet te masovno objavljivati gotovo isti sadržaj radi manipulacije distribucijom.
 
-Agencije moraju imenovati osobu odgovornu za upravljanje sadržajem, imati odgovarajući tim te uspostaviti interna pravila za sadržaj, zaposlenike i postupanje u kriznim situacijama.
+Za brandove koji influencerima plaćaju upravo prema dosegu, engagementu ili prodajnim rezultatima to je vrlo važan dio novih pravila.
 
-## Platforme moraju znati tko stoji iza influencera
+## Stroža pravila za livestream prodaju i maloljetnike
 
-Velika promjena odnosi se i na same platforme.
+MCN-ovi koji rade live commerce moraju imati jasne procedure za izbor proizvoda, provjeru njihove usklađenosti, ispravljanje problema i reagiranje na kršenja propisa. Time regulator pokušava povezati influencer marketing s odgovornošću prema kupcu, a ne tretirati livestream kao običnu zabavu.
 
-Platforma mora formalno evidentirati MCN koji posluje kroz njezin sustav i provjeriti ispunjava li potrebne uvjete. Agencije dobivaju posebne management račune preko kojih mogu upravljati creatorima s kojima imaju ugovorni odnos.
+Posebna ograničenja odnose se na maloljetnike. MCN ne smije pružati usluge livestream objavljivanja djeci mlađoj od 16 godina, dok je za osobe između 16 i 18 godina potrebna provjera identiteta i suglasnost roditelja ili skrbnika.
 
-Posebno je zanimljivo pravilo prema kojem bi na profilima creatora trebalo biti vidljivije kojoj MCN organizaciji pripadaju.
+## Platforma može reagirati protiv cijelog MCN-a
 
-To znači da model u kojem influencer publici djeluje potpuno neovisno, dok iza njega nevidljivo stoji kompanija koja upravlja njegovim sadržajem, rastom i monetizacijom, postaje transparentniji.
+Možda je najveća promjena to što problem jednog creatora više ne mora završiti samo kaznom njegovu računu. Ako MCN sustavno omogućuje ili organizira problematičan sadržaj, platforme mogu upozoravati agenciju, ograničiti funkcije i monetizaciju, zatvarati račune ili ukloniti samu organizaciju s platforme.
 
-Ako creator odbija prikazati potrebne informacije ili nastavlja kršiti pravila nakon upozorenja, platforma može ograničiti funkcije računa ili mogućnost zarade.
+MCN također mora reagirati kada njegov ugovoreni creator krši zakon, pravila platforme ili ugovor. Mjere mogu uključivati upozorenje, privremenu obustavu usluge ili raskid suradnje.
 
-## MCN mora znati tko je creator
-
-Agencije moraju provjeravati identitet osoba s kojima surađuju i jasno ugovoriti odgovornost za upravljanje sadržajem.
-
-To je važna promjena jer MCN više nije samo posrednik koji može tvrditi da je influencer potpuno samostalno odlučio što će objaviti.
-
-Od agencije se očekuje da creatore upozna s pravilima, prati njihovo ponašanje i reagira kada dođe do ozbiljnog kršenja propisa ili pravila platforme.
-
-Mjere mogu uključivati upozorenje, privremenu obustavu suradnje ili raskid ugovora, uz obavještavanje platforme.
-
-## Lažne persone i izmišljene životne priče pod povećalom
-
-Jedan od najzanimljivijih dijelova novih pravila odnosi se na način na koji nastaje viralni sadržaj.
-
-Regulator posebno cilja izmišljanje pozadine, događaja ili persona kada se takve priče koriste za lažno ili obmanjujuće predstavljanje i marketing.
-
-To je važno jer online identitet influencera nije uvijek organski nastao.
-
-U izrazito konkurentnom creator economyju može se konstruirati cijela životna priča: navodno siromašna djevojka iz sela, uspješni poduzetnik koji je krenuo od nule, samohrana majka, stručnjak, bogati nasljednik ili neki drugi identitet dizajniran kako bi stvorio emociju, povjerenje i engagement.
-
-Nova pravila ne zabranjuju fikciju, glumu ili zabavni sadržaj kao takav. Problem nastaje kada se izmišljena priča predstavlja kao stvarnost radi obmanjujućeg marketinga ili komercijalne koristi.
-
-## Lažni followeri, pregledi i prodajni rezultati
-
-Na meti su i umjetno povećavanje broja followera, pregleda, klikova, ocjena, glasova i prikazanih iznosa potrošnje.
-
-Zabranjena je manipulacija tim podacima ručno ili tehničkim sredstvima, kao i masovna proizvodnja gotovo identičnog sadržaja s ciljem manipuliranja prometom.
-
-To udara u jedno od najosjetljivijih područja influencer marketinga.
-
-Brand može influenceru ili agenciji platiti kampanju zato što vidi milijune pregleda, snažan engagement ili veliki prodajni rezultat. Ako je dio tih brojki umjetno proizveden, oglašivač zapravo donosi poslovnu odluku na temelju podataka koji ne prikazuju stvarnu publiku.
-
-Kod mreže koja upravlja velikim brojem računa čak i relativno mala količina manipuliranog prometa može postati ozbiljan business.
-
-## Pravila idu dalje od marketinga
-
-Nova regulativa ne zaustavlja se na oglašavanju i prodaji.
-
-Na listi problematičnih praksi nalaze se i fabriciranje ili spajanje informacija kako bi se javnost dovela u zabludu, ponovno predstavljanje starih negativnih vijesti kao novih, namjerno izazivanje sukoba među društvenim ili regionalnim skupinama, cyberbullying te eksploatiranje ranjivih osoba radi zarade.
-
-Pravila zahvaćaju i promoviranje krivotvorene, nesigurne ili druge problematične robe.
-
-To pokazuje da Kina kroz MCN regulaciju istodobno pokušava urediti influencer marketing, live commerce i način na koji se masovno proizvodi i distribuira online sadržaj.
-
-## Posebna pravila za maloljetnike
-
-MCN agencije ne smiju pružati određene livestream usluge djeci mlađoj od 16 godina.
-
-Za creatore između 16 i 18 godina potrebne su dodatne provjere identiteta i pristanak roditelja ili drugog zakonskog skrbnika.
-
-Kod live commercea dodatno se traže procedure za izbor proizvoda, provjeru usklađenosti, ispravke pogrešaka i postupanje u slučaju kršenja pravila.
-
-Time regulator pokušava smanjiti rizik da se maloljetnici koriste u agresivnim komercijalnim formatima bez odgovarajućeg nadzora.
-
-## Platforma može reagirati protiv cijele mreže
-
-Jedna od najvažnijih promjena za industriju jest mogućnost povezivanja problema pojedinačnog računa s MCN organizacijom koja stoji iza njega.
-
-Platforme mogu izdavati upozorenja, tražiti ispravke, ograničiti funkcije računa, suspendirati monetizaciju, zatvarati račune ili ukloniti cijeli MCN iz sustava.
-
-Ozbiljniji slučajevi mogu biti proslijeđeni regulatorima ili policiji.
-
-Time se odgovornost više ne zaustavlja samo na influenceru koji je nešto objavio. Ako agencija sustavno organizira ili omogućuje problematične prakse kroz cijelu mrežu creatora, posljedice mogu zahvatiti samu kompaniju.
-
-## Kina je čišćenje već počela
-
-Nova pravila ne dolaze potpuno iznenada.
-
-Kineski regulator već je tijekom ljeta objavljivao rezultate akcija usmjerenih na problematične livestream formate, manipulaciju sadržajem i nepravilnosti povezane s creator računima i MCN agencijama.
-
-Platforme poput Douyina, Kuaishoua, WeChat Video Accountsa, Bilibilija i Xiaohongshua posljednjih godina također postupno pooštravaju pravila za livestreaming, maloljetnike, prodajne formate i upravljanje creatorima.
-
-Nova nacionalna regulativa sada tim pojedinačnim potezima daje puno jasniji zajednički okvir.
-
-## Nije riječ o zabrani influencera
-
-Važno je razdvojiti novu regulaciju od pojednostavljenih tvrdnji da Kina od 1. rujna „zabranjuje influencere“.
-
-To nije ono što nova pravila rade.
-
-Glavna meta je poslovna infrastruktura iza profesionalizirane creator ekonomije: MCN agencije, platforme i creator računi koji s njima imaju ugovorni odnos.
-
-Neovisni influencer zbog ovog propisa ne postaje automatski registrirana agencija, iako za njega i dalje vrijede druga kineska pravila o sadržaju, oglašavanju, trgovini i korištenju internetskih platformi.
+Time Kina zapravo govori da profesionalni influencer više nije uvijek samo pojedinac koji objavljuje sadržaj. Ako iza njega postoji kompanija koja upravlja njegovim poslovanjem i zarađuje od njega, i ta kompanija mora preuzeti dio odgovornosti.
 
 ## Naš osvrt
 
-* **Influencer kojeg korisnik vidi na ekranu može biti samo lice puno većeg produkcijskog, marketinškog i prodajnog sustava.**
-* **MCN može odabrati creatora, osmisliti njegovu personu, proizvoditi sadržaj, upravljati računima, dovoditi promet, prodavati oglase i organizirati live commerce.**
-* **Nova kineska pravila pokušavaju učiniti vezu između influencera i agencije vidljivijom publici i platformama.**
-* **Posebno se cilja na lažne persone, umjetne followere i preglede, manipulaciju engagementom, lažne prodajne brojke i obmanjujući marketing.**
-* **Odgovornost se više ne zaustavlja na pojedinačnom influenceru.** Dio odgovornosti prelazi na MCN koji upravlja creatorom, ali i na platformu koja takvoj mreži omogućuje poslovanje.
-* **Pravila za maloljetnike postaju stroža**, posebno kod livestreaminga i komercijalnih formata.
-* **Kina creator economy sve više tretira kao ozbiljnu industriju**, a ne samo kao milijune pojedinaca koji zasebno objavljuju sadržaj na internetu.
-* **Možda je upravo to najzanimljiviji dio promjene:** države više ne reguliraju samo ono što korisnik vidi na ekranu, nego počinju regulirati i kompanije, ugovore, distribucijske mreže i poslovne sustave koji stoje iza modernih influencera.
+* **Kineski influencer business prerastao je u ozbiljnu industriju s oko 29.000 MCN organizacija i tržištem vrijednim 63,6 milijardi juana.**
+* **MCN može raditi gotovo sve iza influencera: od pronalaska creatora i produkcije sadržaja do marketinga, prodaje i live commercea.**
+* **Agencije zarađuju od creator prihoda, promocija, brand kampanja, provizija od prodaje, produkcije i e-commerce usluga.**
+* **Influencer koji stvarno radi sam nije automatski MCN**, ali i dalje podliježe drugim pravilima koja vrijede za sadržaj, oglašavanje i online prodaju.
+* **Nova pravila posebno ciljaju lažne persone, umjetne followere i preglede, lažne podatke o prodaji i manipulaciju prometom.**
+* **Publika bi trebala jasnije vidjeti kada iza influencera stoji MCN organizacija.**
+* **Najvažnija promjena je odgovornost:** kada kompanija upravlja creatorima, sadržajem i novcem koji taj sadržaj generira, više ne može biti potpuno nevidljiva iza influencera.
 
 **Pratite Metaadvisor.eu za više poslovnih i tehnoloških vijesti, AI tema, digitalnih platformi, društvenih mreža, praktičnih tech trikova i analiza promjena koje oblikuju online svijet.**
 
-**Disclaimer:** Ovaj članak služi isključivo u informativne svrhe. Temelji se na javno dostupnim regulatornim dokumentima, industrijskim izvješćima i informacijama o kineskom MCN i creator economy tržištu. Pravila platformi, regulatorni zahtjevi i način njihove primjene mogu se naknadno mijenjati ili razlikovati ovisno o vrsti usluge, sadržaja i poslovnog modela.
+**Disclaimer:** Ovaj članak služi isključivo u informativne svrhe. Temelji se na javno dostupnim kineskim regulatornim dokumentima i industrijskim izvješćima o MCN i creator economy tržištu. Regulatorni zahtjevi i pravila platformi mogu se mijenjati i razlikovati ovisno o vrsti sadržaja, usluge i poslovnog modela.
 
 <small style="color:#999; font-size:0.8em;">U suradnji s AI-jem.</small>
