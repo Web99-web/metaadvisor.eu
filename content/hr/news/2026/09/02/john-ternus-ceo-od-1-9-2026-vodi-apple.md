@@ -1,6 +1,6 @@
 ---
-title: "John Ternus od 1.9.2026. vodi Apple"
-slug: "john-ternus-od-1-9-2026-vodi-apple"
+title: "John Ternus novi CEO od 1.9.2026. vodi Apple"
+slug: "john-ternus-ceo-od-1-9-2026-vodi-apple"
 date: 2026-09-02T09:00:00+02:00
 category: "Tech"
 translationKey: "john-ternus-apple-ceo-from-september-1-2026"
