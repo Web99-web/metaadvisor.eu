@@ -1,7 +1,7 @@
 ---
 title: "Dropbox hack preko Lenovo ID-a kompromitirao 5.000 računa"
 slug: "dropbox-hack-lenovo-id-kompromitirao-5000-racuna"
-date: 2026-09-02T18:00:00+02:00
+date: 2026-09-03T06:00:00+02:00
 category: "Tech"
 translationKey: "dropbox-lenovo-id-hack-5000-accounts-2026-09-02"
 source: "Dropbox, Lenovo, Reuters, BleepingComputer"
