@@ -85,6 +85,12 @@ Današnji događaj pokazuje ograničenje takvog pristupa. Ako nekoliko najvećih
 
 Za ozbiljne poslovne sustave zato će sve važniji postajati ne samo izbor modela nego i infrastruktura oko njega: rezervni pružatelji, lokalni modeli, fallback sustavi i procedure koje omogućuju nastavak rada kada vanjski AI servis privremeno postane nedostupan.
 
+## Kineski AI servisi nisu pokazali isti obrazac
+
+Zanimljiv kontrast dolazi iz Kine. Dok su **ChatGPT, Claude i Grok imali službeno potvrđene probleme**, a poteškoće su prijavljivane i za Gemini, vodeći kineski AI servisi nisu pokazali isti obrazac. **DeepSeek 3. rujna nije prijavio incident**, a njegova statusna stranica pokazivala je da su chat i API operativni. Ni **Kimi, koji razvija kineska kompanija Moonshot AI**, nije imao prijavljen širi outage tog dana, dok za **Qwen, Alibabin veliki AI model**, također nije bilo potvrde usporedivog pada cijele platforme.
+
+To ne znači da su kineski modeli nužno otporniji niti dokazuje da je problem bio vezan isključivo uz zapadnu infrastrukturu. Ipak, vremenski kontrast je zanimljiv: **nekoliko najvećih američkih AI pružatelja imalo je probleme tijekom istog razdoblja, dok vodeći kineski servisi nisu zabilježili usporedivu širu nedostupnost**. Upravo zato ostaje otvoreno pitanje je li riječ o slučajnom preklapanju nekoliko odvojenih incidenata ili o nekom zajedničkom infrastrukturnom faktoru koji nije zahvatio kineski AI ekosustav.
+
 ## Naš osvrt
 
 * **OpenAI, Anthropic i xAI službeno su potvrdili probleme 3. rujna**, a incidenti su se vremenski značajno preklapali.
@@ -94,6 +100,9 @@ Za ozbiljne poslovne sustave zato će sve važniji postajati ne samo izbor model
 * **Za Gemini su zabilježene brojne korisničke prijave problema**, ali Google nije objavio potvrdu širokog outagea usporedivu s objavama OpenAI-ja, Anthropica i xAI-ja.
 * **Nema potvrde da je jedan zajednički kvar srušio sve velike AI servise.** Vremensko preklapanje može biti povezano, ali može biti i slučajnost nekoliko odvojenih infrastrukturnih problema.
 * **Najvažnije pitanje više nije samo radi li chatbot.** Kako AI postaje dio programiranja i poslovnih procesa, dostupnost modela postaje infrastrukturno pitanje slično dostupnosti clouda, mreža i drugih ključnih digitalnih servisa.
+* **Zanimljiv kontrast dolazi iz Kine:** DeepSeek i Kimi 3. rujna nisu imali prijavljen širi outage, dok za Qwen također nije bilo potvrde pada usporedivog s problemima zapadnih AI servisa.
+* **To ne dokazuje da su kineski modeli otporniji**, ali pokazuje da današnji obrazac problema nije jednako zahvatio cijeli globalni AI ekosustav.
+* **Upravo taj kontrast dodatno otvara pitanje zajedničke infrastrukture:** ako je dio problema bio vezan uz servise, mreže ili cloud infrastrukturu koju koriste zapadne AI kompanije, kineski pružatelji mogli su ostati izvan tog lanca.
 
 **Pratite Metaadvisor.eu za više poslovnih i tehnoloških vijesti, AI tema, digitalnih platformi, crypta i događaja koji mijenjaju način na koji koristimo tehnologiju.**
 
