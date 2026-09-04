@@ -1,5 +1,5 @@
 ---
-title: "Google: Am 04.09.1998 gegründet, heute Geburtstag"
+title: "Google wurde am 04.09.1998 gegründet: die Geschichte des 100.000-Dollar-Schecks"
 slug: "google-am-04-09-1998-gegruendet-heute-geburtstag"
 date: 2026-09-04T22:00:00+02:00
 category: "Tech"
