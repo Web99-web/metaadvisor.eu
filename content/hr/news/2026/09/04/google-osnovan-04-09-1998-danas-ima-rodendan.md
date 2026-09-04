@@ -103,33 +103,31 @@ Upravo se taj trenutak često povezuje s kasnijim ustaljivanjem 27. rujna kao Go
 
 Ipak, važno je napraviti razliku između zanimljive povijesne poveznice i potvrđene činjenice. **Google nikada nije službeno objavio da je 27. rujna izabrao baš zato što je tada pobijedio Yahoo u bitci tražilica.** Zato je preciznije reći da se izbor tog datuma često povezuje s velikim search postignućem iz 2005., dok službeno objašnjenje zašto je upravo 27. rujna trajno ostao rođendan nije potpuno jasno.
 
+## Google je 2015. dobio novu krovnu kompaniju – Alphabet
+
+Google koji je **Larry Page** i **Sergey Brin** osnovali 1998. s vremenom je prerastao samu internetsku tražilicu. Kompanija je razvila Gmail, Google Maps, Chrome, Android i Google Cloud, kupila YouTube te počela ulagati u projekte koji su bili sve udaljeniji od osnovnog internetskog poslovanja.
+
+Zato su osnivači 2015. napravili veliku korporativnu reorganizaciju i osnovali **Alphabet Inc.** kao novu krovnu kompaniju. Alphabet je zamijenio Google Inc. kao javno izlistanu kompaniju, dok je Google postao njegova potpuno vlasnička podružnica. Ideja je bila odvojiti osnovne Googleove poslove – Search, oglase, YouTube, Android, Chrome i druge velike proizvode – od drugih projekata i kompanija poput Wayma, Calica i eksperimentalnih tehnoloških projekata. **Sundar Pichai** tada je postao CEO Googlea, a **Larry Page** CEO Alphabeta. Kasnije je Pichai preuzeo vođenje i Googlea i Alphabeta.
+
 ## Od garaže do kompanije koja je promijenila internet
 
 Nakon osnivanja stvari su se počele događati brzo. **Larry Page** i **Sergey Brin** dobili su kapital, Google je iz studentskih prostorija preselio u garažu **Susan Wojcicki**, a novi način rangiranja web stranica počeo je privlačiti sve više korisnika.
 
-Ono što je posebno zanimljivo u toj priči jest koliko malo današnji Google nalikuje projektu u koji je **Andy Bechtolsheim** uložio prvih 100.000 dolara.
+Ono što je posebno zanimljivo u toj priči jest koliko malo današnji Google i cijela grupa Alphabet nalikuju projektu u koji je **Andy Bechtolsheim** uložio prvih 100.000 dolara. Tada nije bilo Gmaila, Google Mapsa, Androida, Chromea, YouTubea pod Googleom, Google Clouda ni Geminija. Nije postojala ni krovna kompanija Alphabet, koja će nastati tek 17 godina kasnije. Postojala je prvenstveno jedna ideja: internet će postajati toliko velik da pronalaženje prave informacije mora postati bolje.
 
-Tada nije bilo Gmaila. Nije bilo Google Mapsa. Nije bilo Androida. Nije bilo Chromea, YouTubea pod Googleom, Google Clouda ni Geminija. Nije postojao ni Alphabet.
+U trenutku kada su mnogi internetski portali pokušavali zadržati korisnika što dulje na svojim stranicama, Google je krenuo drugim putem. Njegov posao bio je korisniku što brže pokazati gdje se nalazi ono što traži. Ta razlika kasnije će postati temelj jednog od najvrjednijih poslovnih modela u povijesti interneta.
 
-Postojala je prvenstveno jedna ideja: internet će postajati toliko velik da pronalaženje prave informacije mora postati bolje.
+## Američka priča prije svega
 
-U trenutku kada su mnogi internetski portali pokušavali zadržati korisnika što dulje na svojim stranicama, Google je krenuo drugim putem. Njegov posao bio je korisniku što brže pokazati gdje se nalazi ono što traži.
+Priča **Larryja Pagea**, **Sergeyja Brina** i **Andyja Bechtolsheima** gotovo savršeno opisuje ono što se desetljećima naziva američkim snom, posebno u svijetu tehnologije i Silicon Valleyja. Netko ima ideju koja još nije postala velika kompanija, a netko drugi je dovoljno brzo prepozna da je spreman odmah riskirati vlastiti novac.
 
-Ta razlika kasnije će postati temelj jednog od najvrjednijih poslovnih modela u povijesti interneta.
+**Bechtolsheim** nije čekao da Google ima godine poslovnih rezultata, veliku prodaju, stotine zaposlenih ili dokazanu tržišnu dominaciju. Vidio je proizvod, razumio problem koji **Page** i **Brin** pokušavaju riješiti i napisao ček na 100.000 dolara.
 
-## Priča koja zvuči izrazito američki
+Još fascinantnije, napisao ga je na ime **Google Inc.**, kompanije koja tada još nije ni postojala.
 
-Naravno, ulaganje u projekt prije formalnog osnivanja kompanije nije pravno moguće samo u Sjedinjenim Državama. Investitori i osnivači i u drugim državama mogu dogovarati buduća ulaganja, a pravna struktura i uplata mogu se urediti nakon osnivanja društva.
+U toj jednoj sceni nalazi se gotovo cijela klasična američka startup priča: dvojica mladih ljudi imaju ideju, uspiju je pokazati pravoj osobi, a investitor ne kaže „vratite se kada budete veći“, nego odluči uložiti odmah.
 
-Ali priča **Larryja Pagea**, **Sergeyja Brina** i **Andyja Bechtolsheima** govori o nečem drugom: o kulturi spremnosti na rizik.
-
-Iskusni tehnološki poduzetnik vidio je demonstraciju proizvoda dvojice studenata, razumio što pokušavaju napraviti i bio spreman staviti 100.000 dolara na njih prije nego što su imali kompaniju na čije je ime ček upravo napisao.
-
-Nije investirao u veliku bilancu, razvijenu prodajnu mrežu ili višegodišnje poslovne rezultate. Investirao je u tehnologiju za koju je vjerovao da rješava veliki problem.
-
-Upravo zato taj trenutak i 28 godina kasnije ostaje fascinantan. Google danas predstavlja jednu od najvećih kompanija i najpoznatijih riječi na internetu, ali prvi ozbiljan investicijski ček kompanija nije mogla ni položiti jer – kompanija još nije postojala.
-
-A dvojica osnivača taj su trenutak proslavila doručkom u Burger Kingu.
+Dvadeset i osam godina kasnije upravo taj detalj možda najbolje pokazuje koliko su počeci Googlea bili daleko od kompanije kakvu danas poznajemo. Prvi veliki ček nisu mogli odmah ni položiti jer kompanija na čije je ime bio napisan još nije bila osnovana. A **Larry Page** i **Sergey Brin** sve su to proslavili doručkom u Burger Kingu.
 
 ## Naš osvrt
 
