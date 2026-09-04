@@ -83,7 +83,7 @@ Googleovi vlastiti Doodle arhivi pokazuju gotovo nevjerojatan niz različitih da
 
 Od 2006. godine Google je počeo redovito koristiti **27. rujna**, a taj je datum s vremenom postao njihov tradicionalni službeni dan proslave.
 
-Google je poslije i sam priznao koliko je povijest njegova rođendana neobična. U tekstu objavljenom upravo 4. rujna 2018. kompanija je navela da je Google Inc. inkorporiran 4. rujna, ali da već više od desetljeća rođendan slavi 27. rujna. Čak su naslov tog teksta napisali kao obilježavanje „20-ish” godina Googlea, praktički priznajući da ni kompanija koja je izgradila najveću svjetsku tražilicu nema potpuno jednostavan odgovor na pitanje kada joj je rođendan.
+Google je poslije i sam priznao koliko je povijest njegova rođendana neobična. U tekstu objavljenom upravo 4. rujna 2018. kompanija je navela da je Google Inc. inkorporiran 4. rujna, ali da već više od desetljeća rođendan slavi 27. rujna. Čak su naslov tog teksta napisali kao obilježavanje 20 godina Googlea, praktički priznajući da ni kompanija koja je izgradila najveću svjetsku tražilicu nema potpuno jednostavan odgovor na pitanje kada joj je rođendan.
 
 Dakle, Google ima datum na dokumentima i datum na kojem se pojavljuje torta.
 
