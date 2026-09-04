@@ -1,5 +1,5 @@
 ---
-title: "Google je osnovan 04.09.1998. i danas ima rođendan"
+title: "Google je osnovan 04.09.1998.: priča o čeku od 100.000 dolara"
 slug: "google-osnovan-04-09-1998-danas-ima-rodendan"
 date: 2026-09-04T22:00:00+02:00
 category: "Tech"
