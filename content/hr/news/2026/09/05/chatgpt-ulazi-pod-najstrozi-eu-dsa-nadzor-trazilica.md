@@ -145,7 +145,9 @@ Za korisnike bi dugoročno mogle biti važne teme poput jasnijih objašnjenja od
 
 Tu se pojavljuje važnije pitanje. **Facebook je već godinama pod najstrožim DSA nadzorom kao Very Large Online Platform (VLOP)**, ali samo postojanje tog statusa ne znači da će korisnik koji izgubi pristup računu nužno dobiti razgovor s čovjekom, jasno objašnjenje odluke ili brzo i učinkovito rješenje.
 
-Metaadvisor.eu već je pisao o problemu korisnika kojima su računi blokirani ili trajno onemogućeni, dok se komunikacija svodi na automatizirane obrasce, generičke odgovore ili postupke u kojima je iznimno teško doći do stvarne ljudske komunikacije. Čak ni obraćanje tijelima i mehanizmima poput **Appeals Centre Europe**, izvansudskog tijela za rješavanje sporova prema DSA-u, ne znači nužno da će se problem brzo riješiti ili da će korisnik konačno dobiti konkretan odgovor o tome što se dogodilo.
+Metaadvisor.eu nije jedini koji je pisao o problemu korisnika kojima su Facebook i Instagram računi blokirani ili trajno onemogućeni. O valovima suspenzija, korisnicima koji tvrde da su računi ugašeni bez jasnog razloga i problemima s povratom pristupa izvještavali su i međunarodni mediji poput **CBS Newsa, Nine Australia i Radara PH**, dok je problem odgovornosti Mete i učinkovitosti regulatornog nadzora već dulje tema i u medijima poput **The Guardiana**.
+
+Zajednički problem u mnogim takvim slučajevima nije samo sama suspenzija računa, nego ono što slijedi nakon nje: komunikacija se često svodi na automatizirane obrasce, generičke odgovore ili postupke u kojima je iznimno teško doći do stvarne ljudske komunikacije. Čak ni obraćanje tijelima i mehanizmima poput **Appeals Centre Europe**, izvansudskog tijela za rješavanje sporova prema DSA-u, ne znači nužno da će se problem brzo riješiti ili da će korisnik konačno dobiti konkretan odgovor o tome što se dogodilo.
 
 Upravo zato vrijedi postaviti neugodno pitanje: **čemu DSA služi ako najveće platforme mogu biti kažnjene sa stotinama milijuna eura, a pojedini korisnik i dalje mjesecima pokušava saznati zašto mu je račun ugašen i postoji li uopće osoba koja je pregledala njegov slučaj?**
 
@@ -165,7 +167,7 @@ To je posebno relevantno sada kada pod isti regulatorni okvir ulazi i ChatGPT. P
 
 DSA ne znači da će svaki problem pojedinog korisnika završiti pred Europskom komisijom. Međutim, znači da ChatGPT više nije samo proizvod čija pravila određuje kompanija koja ga je napravila. Postao je servis nad kojim postoji poseban europski regulatorni režim.
 
-Upravo zato ova odluka nije samo još jedno administrativno uvrštenje na regulatorni popis. Ona otvara šire pitanje: **hoće li pojačani DSA nadzor stvarno nešto značiti ljudima ili će se njegova učinkovitost i dalje prvenstveno mjeriti regulatornim postupcima i velikim novčanim kaznama?**
+Drugim riječima, problem više nije pitanje nekoliko izoliranih žalbi korisnika, nego obrazac koji se pojavljuje na različitim tržištima i o kojem izvještavaju mediji u više država. - Upravo zato ova odluka nije samo još jedno administrativno uvrštenje na regulatorni popis. Ona otvara šire pitanje: **hoće li pojačani DSA nadzor stvarno nešto značiti pojedinačnim ljudima koji zbilja imaju problem, ili će se njegova učinkovitost i dalje prvenstveno mjeriti regulatornim postupcima i velikim novčanim kaznama?**
 
 ## Zašto je odluka važna upravo sada
 
