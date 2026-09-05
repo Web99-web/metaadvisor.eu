@@ -127,13 +127,9 @@ Upravo je posljednja skupina najzanimljivija. **ChatGPT se sada nalazi u istoj r
 
 Još jedna zanimljiva razlika pokazuje da EU ne tretira sve proizvode iste kompanije automatski na isti način.
 
-**X je službeno označen kao Very Large Online Platform (VLOP)** i već se nalazi pod pojačanim DSA nadzorom. Međutim, **Grok nije zasebno naveden kao VLOP ili VLOSE**.
+**X je službeno označen kao Very Large Online Platform (VLOP)** i već se nalazi pod pojačanim DSA nadzorom. Međutim, **Grok nije zasebno naveden kao VLOP ili VLOSE**. To znači da činjenica da je Grok integriran u X ne daje Groku automatski zaseban status vrlo velike platforme ili tražilice.
 
-To znači da činjenica da je Grok integriran u X ne daje Groku automatski zaseban status vrlo velike platforme ili tražilice.
-
-Slična situacija postoji kod Googlea.
-
-Google Search je VLOSE, dok su YouTube, Google Play, Google Maps i Google Shopping zasebno obuhvaćeni kao veliki digitalni servisi. **Gemini, međutim, zasad nije zasebno naveden kao VLOP ili VLOSE.**
+Slična situacija postoji kod Googlea. - Google Search je VLOSE, dok su YouTube, Google Play, Google Maps i Google Shopping zasebno obuhvaćeni kao veliki digitalni servisi. **Gemini, međutim, zasad nije zasebno naveden kao VLOP ili VLOSE.**
 
 To je važno jer pokazuje da Europska komisija ne uzima kategoriju „AI” i automatski u nju svrstava sve velike modele. Promatra se **konkretna usluga, njezina funkcija, broj korisnika i način na koji se servis koristi**.
 
