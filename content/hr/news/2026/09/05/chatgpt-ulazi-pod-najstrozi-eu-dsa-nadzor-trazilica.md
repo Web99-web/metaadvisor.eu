@@ -105,7 +105,7 @@ Radi preglednosti, mogu se podijeliti ovako:
 24. Google Maps  
 25. Google Shopping  
 
-### Very Large Online Search Engines (VLOSE)
+### Very Large Online Search Engines (VLOSE) ili Vrlo velike internetske tražilice
 
 26. Google Search  
 27. Bing  
