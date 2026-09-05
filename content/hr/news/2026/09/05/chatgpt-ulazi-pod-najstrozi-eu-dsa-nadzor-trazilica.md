@@ -54,19 +54,11 @@ To je jedna od najvažnijih poruka cijele odluke. **ChatGPT više nije regulator
 
 Razlog nije politička odluka donesena proizvoljno, nego prag broja korisnika. DSA predviđa poseban režim za servise koji dosežu najmanje **45 milijuna prosječnih mjesečno aktivnih korisnika u EU-u**.
 
-Prema podacima Europske komisije, ChatGPT je prijavio oko **159,1 milijun prosječnih mjesečnih korisnika u EU**, Reddit oko **57,2 milijuna**, a Roblox oko **46,6 milijuna**.
-
-Time su sva tri servisa prešla regulatorni prag.
-
-Nakon službenog uvrštenja imaju četiri mjeseca, odnosno do **siječnja 2027.**, za potpuno usklađivanje s dodatnim obvezama koje DSA propisuje za VLOP-ove i VLOSE-e.
+Prema podacima Europske komisije, ChatGPT je prijavio oko **159,1 milijun prosječnih mjesečnih korisnika u EU**, Reddit oko **57,2 milijuna**, a Roblox oko **46,6 milijuna**. Time su sva tri servisa prešla regulatorni prag. Nakon službenog uvrštenja imaju četiri mjeseca, odnosno do **siječnja 2027.**, za potpuno usklađivanje s dodatnim obvezama koje DSA propisuje za VLOP-ove i VLOSE-e.
 
 ## Što će OpenAI sada morati raditi
 
-Za OpenAI nova oznaka nije samo administrativna formalnost. ChatGPT će morati zadovoljiti dodatne zahtjeve koji se odnose na **procjenu i ublažavanje sistemskih rizika**.
-
-To uključuje rizike povezane sa širenjem nezakonitog sadržaja, zaštitom maloljetnika, temeljnim pravima korisnika, fizičkim i mentalnim blagostanjem, izbornim procesima i javnom sigurnošću.
-
-OpenAI će morati pokazivati da takve rizike ne samo prepoznaje nego i da poduzima mjere kojima ih smanjuje. To može uključivati promjene algoritama, sigurnosne mehanizme, dodatni nadzor, veću transparentnost, postupke upravljanja rizicima i druge tehničke ili organizacijske mjere.
+Za OpenAI nova oznaka nije samo administrativna formalnost. ChatGPT će morati zadovoljiti dodatne zahtjeve koji se odnose na **procjenu i ublažavanje sistemskih rizika**. To uključuje rizike povezane sa širenjem nezakonitog sadržaja, zaštitom maloljetnika, temeljnim pravima korisnika, fizičkim i mentalnim blagostanjem, izbornim procesima i javnom sigurnošću. OpenAI će morati pokazivati da takve rizike ne samo prepoznaje nego i da poduzima mjere kojima ih smanjuje. To može uključivati promjene algoritama, sigurnosne mehanizme, dodatni nadzor, veću transparentnost, postupke upravljanja rizicima i druge tehničke ili organizacijske mjere.
 
 Za vrlo velike servise postoji i pojačan nadzor Europske komisije. To znači da regulator može izravnije provjeravati kako kompanija ispunjava obveze i kako upravlja sistemskim rizicima svoje platforme.
 
