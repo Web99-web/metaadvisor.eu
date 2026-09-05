@@ -70,7 +70,7 @@ OpenAI će morati pokazivati da takve rizike ne samo prepoznaje nego i da poduzi
 
 Za vrlo velike servise postoji i pojačan nadzor Europske komisije. To znači da regulator može izravnije provjeravati kako kompanija ispunjava obveze i kako upravlja sistemskim rizicima svoje platforme.
 
-## Tko je sve sada pod pojačanim DSA nadzorom
+## Tko je sve sada pod pojačanim EU DSA nadzorom
 
 Popis servisa pod pojačanim nadzorom pokazuje koliko široko DSA zahvaća današnji internet. Na njemu se nalaze društvene mreže, internetske trgovine, platforme za video sadržaj, tražilice, aplikacijske trgovine i drugi veliki digitalni servisi.
 
