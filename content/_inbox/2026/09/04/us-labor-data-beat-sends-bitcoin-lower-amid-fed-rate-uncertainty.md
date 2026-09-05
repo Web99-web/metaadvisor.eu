@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "aeb3fbaaf091561fd034d6619eb62bd2"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1R63FX0B48YA7B473RBB8TA/hi-bitcoin-etf-infrastructure-investment-2.jpg"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false
