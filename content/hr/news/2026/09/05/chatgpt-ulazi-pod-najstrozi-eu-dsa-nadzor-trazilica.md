@@ -115,7 +115,7 @@ Upravo je posljednja skupina najzanimljivija. **ChatGPT se sada nalazi u istoj r
 
 {{< support2 >}}
 
-## X je na popisu, ali Grok nije
+## X je na popisu, ali Grok nije - Google je na popisu, a Gemini nije
 
 Još jedna zanimljiva razlika pokazuje da EU ne tretira sve proizvode iste kompanije automatski na isti način.
 
