@@ -145,39 +145,51 @@ Regulatorno gledano, granica između klasične tražilice i generativnog AI asis
 
 ## Što se mijenja za običnog korisnika
 
-Za korisnike se neće dogoditi neka dramatična promjena preko noći. ChatGPT neće zbog nove oznake odjednom izgledati drukčije niti će normalan način razgovora s njim nestati.
-
-Veći dio promjena dogodit će se u pozadini. OpenAI će morati više dokumentirati rizike, pokazivati regulatorima kako ih ublažava i ispunjavati strože zahtjeve transparentnosti i odgovornosti.
+Za korisnike se neće dogoditi neka dramatična promjena preko noći. ChatGPT neće zbog nove oznake odjednom izgledati drukčije niti će normalan način razgovora s njim nestati. Veći dio promjena dogodit će se u pozadini. OpenAI će morati više dokumentirati rizike, pokazivati regulatorima kako ih ublažava i ispunjavati strože zahtjeve transparentnosti i odgovornosti.
 
 Za korisnike bi dugoročno mogle biti važne teme poput jasnijih objašnjenja određenih odluka, mogućnosti prigovora, postupanja s moderacijom, zaštite maloljetnika i načina na koji algoritamski sustavi utječu na ono što korisnik vidi.
 
+### Ali štiti li DSA doista pojedinog korisnika?
+
+Tu se pojavljuje važnije pitanje. **Facebook je već godinama pod najstrožim DSA nadzorom kao Very Large Online Platform (VLOP)**, ali samo postojanje tog statusa ne znači da će korisnik koji izgubi pristup računu nužno dobiti razgovor s čovjekom, jasno objašnjenje odluke ili brzo i učinkovito rješenje.
+
+Metaadvisor.eu već je pisao o problemu korisnika kojima su računi blokirani ili trajno onemogućeni, dok se komunikacija svodi na automatizirane obrasce, generičke odgovore ili postupke u kojima je iznimno teško doći do stvarne ljudske komunikacije. Čak ni obraćanje tijelima i mehanizmima poput **Appeals Centre Europe**, izvansudskog tijela za rješavanje sporova prema DSA-u, ne znači nužno da će se problem brzo riješiti ili da će korisnik konačno dobiti konkretan odgovor o tome što se dogodilo.
+
+Upravo zato vrijedi postaviti neugodno pitanje: **čemu DSA služi ako najveće platforme mogu biti kažnjene sa stotinama milijuna eura, a pojedini korisnik i dalje mjesecima pokušava saznati zašto mu je račun ugašen i postoji li uopće osoba koja je pregledala njegov slučaj?**
+
+Kazne velikim platformama privlače naslovnice i pokazuju da Europska komisija ima regulatorne ovlasti. No stvarna vrijednost DSA-a ne bi se trebala mjeriti samo iznosom naplaćenih kazni. Trebala bi se mjeriti i time **može li običan korisnik dobiti razumljivo obrazloženje, stvarnu mogućnost žalbe i učinkovitu zaštitu kada automatizirani sustav pogriješi.**
+
+O problemu razlike između onoga što DSA znači na papiru i onoga što obični korisnici doživljavaju u praksi već smo pisali:
+
+### <a href="/hr/news/eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika/" target="_blank" rel="noopener">EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, društvene platforme ignoriraju?</a>
+
+<a href="/hr/news/eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika/" target="_blank" rel="noopener">
+  <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+       alt="EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, društvene platforme ignoriraju?"
+       style="max-width:560px;width:100%;height:auto;">
+</a>
+
+To je posebno relevantno sada kada pod isti regulatorni okvir ulazi i ChatGPT. Pitanje nije samo hoće li OpenAI izrađivati procjene rizika, izvještaje i dokumentaciju za regulatore. Pitanje je i **hoće li europski korisnik, ako jednog dana izgubi pristup računu ili bude pogođen automatiziranom odlukom, stvarno imati bolju zaštitu nego što je danas često ima na velikim društvenim platformama.**
+
 DSA ne znači da će svaki problem pojedinog korisnika završiti pred Europskom komisijom. Međutim, znači da ChatGPT više nije samo proizvod čija pravila određuje kompanija koja ga je napravila. Postao je servis nad kojim postoji poseban europski regulatorni režim.
+
+Upravo zato ova odluka nije samo još jedno administrativno uvrštenje na regulatorni popis. Ona otvara šire pitanje: **hoće li pojačani DSA nadzor stvarno nešto značiti ljudima ili će se njegova učinkovitost i dalje prvenstveno mjeriti regulatornim postupcima i velikim novčanim kaznama?**
 
 ## Zašto je odluka važna upravo sada
 
-Generativna umjetna inteligencija u nekoliko je godina prešla put od eksperimentalne tehnologije do svakodnevnog alata za posao, školu, programiranje, istraživanje, kupnju i traženje informacija.
+Generativna umjetna inteligencija u nekoliko je godina prešla put od eksperimentalne tehnologije do svakodnevnog alata za posao, školu, programiranje, istraživanje, kupnju i traženje informacija. Što je servis veći, to posljedice njegovih sistemskih pogrešaka postaju važnije.
 
-Što je servis veći, to posljedice njegovih sistemskih pogrešaka postaju važnije.
-
-Pogrešan odgovor malog alata može utjecati na nekoliko korisnika. Ako sustav koji koristi više od sto milijuna ljudi u EU-u sustavno daje pogrešne, manipulativne ili štetne rezultate, posljedice više nisu samo tehnički problem.
-
-One postaju regulatorno pitanje.
+Pogrešan odgovor malog alata može utjecati na nekoliko korisnika. Ako sustav koji koristi više od sto milijuna ljudi u EU-u sustavno daje pogrešne, manipulativne ili štetne rezultate, posljedice više nisu samo tehnički problem. One postaju regulatorno pitanje.
 
 Zato je DSA zamišljen tako da najveći digitalni servisi ne čekaju veliki incident, nego moraju unaprijed procjenjivati sistemske rizike i pokazivati što rade da ih smanje.
 
 ## ChatGPT više nije samo chatbot
 
-Najvažniji dio odluke Europske komisije možda nije sama činjenica da je ChatGPT dobio još jedan regulatorni status.
-
-Važnije je **kako ga je EU klasificirao**.
-
-Nije ga stavio samo među vrlo velike digitalne platforme. Stavljen je među **Very Large Online Search Engines (VLOSE)**.
+Najvažniji dio odluke Europske komisije možda nije sama činjenica da je ChatGPT dobio još jedan regulatorni status. Važnije je **kako ga je EU klasificirao**. Nije ga stavio samo među vrlo velike digitalne platforme. Stavljen je među **Very Large Online Search Engines (VLOSE)**.
 
 To je svojevrsno regulatorno priznanje promjene koja se već događa među korisnicima: sve više ljudi više ne počinje potragu za informacijama klasičnim upisivanjem nekoliko riječi u Google, nego postavlja cijelo pitanje AI asistentu i očekuje gotov odgovor.
 
-ChatGPT zato više nije samo alat koji generira tekst.
-
-Za Europsku komisiju sada je i **jedan od najvećih načina na koji ljudi u Europi pronalaze informacije**.
+ChatGPT zato više nije samo alat koji generira tekst. Za Europsku komisiju sada je i **jedan od najvećih načina na koji ljudi u Europi pronalaze informacije**.
 
 ## Naš osvrt
 
