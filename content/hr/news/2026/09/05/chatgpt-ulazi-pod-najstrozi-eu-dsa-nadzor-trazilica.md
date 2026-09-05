@@ -38,7 +38,7 @@ Kada servis postane jedan od glavnih načina na koji milijuni ljudi dolaze do in
 
 Upravo je zato status VLOSE-a značajan. Europska komisija time generativni AI odgovor više ne promatra samo kao sadržaj koji proizvodi model, nego i kao način na koji korisnik dolazi do informacija na internetu.
 
-## ChatGPT, Reddit i Roblox nisu dobili isti status
+## ChatGPT, Reddit i Roblox svi dodani 31.08.2026, ali nisu dobili isti status
 
 Posebno je zanimljivo što su **ChatGPT, Reddit i Roblox svi dodani istog dana**, ali nisu dobili istu regulatornu oznaku.
 
