@@ -13,7 +13,7 @@ image: "/images/informative/ChatGPT-added-to-EU-DSA-list-VLOSE.png"
 thumbnail: "/images/informative/ChatGPT-added-to-EU-DSA-list-VLOSE.png"
 image_alt: "ChatGPT dodan na EU popis vrlo velikih internetskih tražilica prema DSA-u"
 image_credit: "Metaadvisor.eu"
-tags: ["ChatGPT", "OpenAI", "Europska unija", "Europska komisija", "DSA", "VLOSE", "VLOP", "Reddit", "Roblox", "Grok", "Gemini", "Google", "X", "TikTok", "digitalne platforme", "umjetna inteligencija", "regulacija"]
+tags: ["ChatGPT", "OpenAI", "Europska unija", "Europska komisija", "EU", "DSA", "VLOSE", "VLOP", "Reddit", "Roblox", "Grok", "Gemini", "Google", "X", "TikTok", "digitalne platforme", "umjetna inteligencija", "regulacija"]
 description: "Europska komisija označila je ChatGPT kao Very Large Online Search Engine prema DSA-u. Time je prvi veliki generativni AI chatbot ušao u najstroži sloj europskog nadzora digitalnih servisa."
 summary: "ChatGPT je 31. kolovoza ušao na popis najvećih digitalnih servisa pod pojačanim nadzorom Europske komisije. Zanimljivo je da su Reddit i Roblox istog dana postali VLOP-ovi, dok Grok i Gemini zasad nemaju zaseban takav status."
 ---
