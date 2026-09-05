@@ -38,6 +38,8 @@ Kada servis postane jedan od glavnih načina na koji milijuni ljudi dolaze do in
 
 Upravo je zato status VLOSE-a značajan. Europska komisija time generativni AI odgovor više ne promatra samo kao sadržaj koji proizvodi model, nego i kao način na koji korisnik dolazi do informacija na internetu.
 
+{{< support1 >}}
+
 ## ChatGPT, Reddit i Roblox svi dodani 31.08.2026, ali nisu dobili isti status
 
 Posebno je zanimljivo što su **ChatGPT, Reddit i Roblox svi dodani istog dana**, ali nisu dobili istu regulatornu oznaku.
@@ -48,13 +50,13 @@ Razlika nije samo terminološka. VLOP je vrlo velika internetska platforma preko
 
 To je jedna od najvažnijih poruka cijele odluke. **ChatGPT više nije regulatorno tretiran samo kao chatbot.** EU ga promatra kao servis koji je počeo preuzimati funkciju internetske pretrage.
 
-{{< support1 >}}
-
 ## Zašto su baš sada došli pod DSA
 
 Razlog nije politička odluka donesena proizvoljno, nego prag broja korisnika. DSA predviđa poseban režim za servise koji dosežu najmanje **45 milijuna prosječnih mjesečno aktivnih korisnika u EU-u**.
 
 Prema podacima Europske komisije, ChatGPT je prijavio oko **159,1 milijun prosječnih mjesečnih korisnika u EU**, Reddit oko **57,2 milijuna**, a Roblox oko **46,6 milijuna**. Time su sva tri servisa prešla regulatorni prag. Nakon službenog uvrštenja imaju četiri mjeseca, odnosno do **siječnja 2027.**, za potpuno usklađivanje s dodatnim obvezama koje DSA propisuje za VLOP-ove i VLOSE-e.
+
+{{< support1 >}}
 
 ## Što će OpenAI sada morati raditi
 
@@ -135,6 +137,8 @@ To znači da je ChatGPT postao prvi veliki generativni AI chatbot koji je Europs
 
 Regulatorno gledano, granica između klasične tražilice i generativnog AI asistenta počela se brisati.
 
+{{< support2 >}}
+
 ## Što se mijenja za običnog korisnika
 
 Za korisnike se neće dogoditi neka dramatična promjena preko noći. ChatGPT neće zbog nove oznake odjednom izgledati drukčije niti će normalan način razgovora s njim nestati. Veći dio promjena dogodit će se u pozadini. OpenAI će morati više dokumentirati rizike, pokazivati regulatorima kako ih ublažava i ispunjavati strože zahtjeve transparentnosti i odgovornosti.
@@ -153,17 +157,30 @@ Upravo zato vrijedi postaviti neugodno pitanje: **čemu DSA služi ako najveće 
 
 Kazne velikim platformama privlače naslovnice i pokazuju da Europska komisija ima regulatorne ovlasti. No stvarna vrijednost DSA-a ne bi se trebala mjeriti samo iznosom naplaćenih kazni. Trebala bi se mjeriti i time **može li običan korisnik dobiti razumljivo obrazloženje, stvarnu mogućnost žalbe i učinkovitu zaštitu kada automatizirani sustav pogriješi.**
 
-O problemu razlike između onoga što DSA znači na papiru i onoga što obični korisnici doživljavaju u praksi već smo pisali:
+<p>O problemu razlike između onoga što DSA znači na papiru i onoga što obični korisnici doživljavaju u praksi već smo pisali:</p>
 
-### <a href="/hr/news/eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika/" target="_blank" rel="noopener">EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, društvene platforme ignoriraju?</a>
+<h3>
+  <a href="/hr/news/eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika/"
+     target="_blank"
+     rel="noopener">
+    EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, društvene platforme ignoriraju?
+  </a>
+</h3>
 
-<a href="/hr/news/eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika/" target="_blank" rel="noopener">
-  <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
-       alt="EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, društvene platforme ignoriraju?"
-       style="max-width:560px;width:100%;height:auto;">
-</a>
+<div style="text-align:center; margin:18px 0 28px 0;">
+  <a href="/hr/news/eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika/"
+     target="_blank"
+     rel="noopener">
+    <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+         alt="EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, društvene platforme ignoriraju?"
+         style="max-width:560px;width:100%;height:auto;display:inline-block;">
+  </a>
+</div>
+
 
 To je posebno relevantno sada kada pod isti regulatorni okvir ulazi i ChatGPT. Pitanje nije samo hoće li OpenAI izrađivati procjene rizika, izvještaje i dokumentaciju za regulatore. Pitanje je i **hoće li europski korisnik, ako jednog dana izgubi pristup računu ili bude pogođen automatiziranom odlukom, stvarno imati bolju zaštitu nego što je danas često ima na velikim društvenim platformama.**
+
+{{< support2 >}}
 
 DSA ne znači da će svaki problem pojedinog korisnika završiti pred Europskom komisijom. Međutim, znači da ChatGPT više nije samo proizvod čija pravila određuje kompanija koja ga je napravila. Postao je servis nad kojim postoji poseban europski regulatorni režim.
 
@@ -176,6 +193,8 @@ Generativna umjetna inteligencija u nekoliko je godina prešla put od eksperimen
 Pogrešan odgovor malog alata može utjecati na nekoliko korisnika. Ako sustav koji koristi više od sto milijuna ljudi u EU-u sustavno daje pogrešne, manipulativne ili štetne rezultate, posljedice više nisu samo tehnički problem. One postaju regulatorno pitanje.
 
 Zato je DSA zamišljen tako da najveći digitalni servisi ne čekaju veliki incident, nego moraju unaprijed procjenjivati sistemske rizike i pokazivati što rade da ih smanje.
+
+{{< support2 >}}
 
 ## ChatGPT više nije samo chatbot
 
