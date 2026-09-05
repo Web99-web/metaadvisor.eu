@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT ulazi pod najstroži EU DSA nadzor"
-slug: "chatgpt-ulazi-pod-najstrozi-eu-dsa-nadzor"
+title: "ChatGPT ulazi pod najstroži EU DSA nadzor, kao tražilica"
+slug: "chatgpt-ulazi-pod-najstrozi-eu-dsa-nadzor-trazilica"
 date: 2026-09-05T08:00:00+02:00
 category: "AI"
 translationKey: "chatgpt-eu-dsa-vlose-2026-09-05"
