@@ -4,7 +4,7 @@ slug: "air-china-new-europe-route-beijing-bucharest-zagreb"
 date: 2026-09-06T08:00:00+02:00
 category: "Travel"
 translationKey: "air-china-new-europe-route-beijing-bucharest-zagreb-2026-09-06"
-source: "Air China, Croatian Ministry of the Sea, Transport and Infrastructure, Xinhua, Metaadvisor.eu"
+source: "Air China, Xinhua, Metaadvisor.eu"
 source_url: "https://mmpi.gov.hr/air-china-links-china-and-croatia-with-new-bejing-bucharest-zagreb-service/25946"
 author: "Metaadvisor.eu"
 image_url: "/images/news/Air-China-new-Europe-route.png"
