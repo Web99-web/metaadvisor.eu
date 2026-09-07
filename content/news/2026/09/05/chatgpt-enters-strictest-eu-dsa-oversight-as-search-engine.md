@@ -5,7 +5,7 @@ date: 2026-09-05T08:00:00+02:00
 category: "AI"
 translationKey: "chatgpt-eu-dsa-vlose-2026-09-05"
 source: "European Commission, Metaadvisor.eu"
-source_url: "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act"
+source_url: ""
 author: "Metaadvisor.eu"
 image_url: "/images/informative/ChatGPT-added-to-EU-DSA-list-search-engine-VLOSE.png"
 featured_image: "/images/informative/ChatGPT-added-to-EU-DSA-list-search-engine-VLOSE.png"
