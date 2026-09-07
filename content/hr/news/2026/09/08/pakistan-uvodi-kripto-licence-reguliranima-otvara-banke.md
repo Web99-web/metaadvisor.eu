@@ -13,26 +13,26 @@ image: "/images/news/Pakistan-crypto-licenses.png"
 thumbnail: "/images/news/Pakistan-crypto-licenses.png"
 image_alt: "Pakistan uvodi crypto licence i otvara pristup bankama reguliranim kompanijama"
 image_credit: "Metaadvisor.eu"
-tags: ["Pakistan", "kripto", "kriptovalute", "kripto licence", "PVARA", "banke", "regulacija", "VASP", "crypto burze", "digitalna imovina", "blockchain", "AML", "KYC", "financijska regulacija", "bankarski sustav"]
+tags: ["Pakistan", "kripto", "kriptovalute", "kripto licence", "PVARA", "banke", "regulacija", "VASP", "kripto burze", "Binance", "HTX", "digitalna imovina", "blockchain", "AML", "KYC", "financijska regulacija", "bankarski sustav"]
 description: "Pakistan uvodi puni regulatorni okvir za crypto kompanije: postojeći operatori morali su zatražiti NOC ili prestati poslovati, dok regulirani pružatelji dobivaju pristup bankarskom sustavu."
-summary: "Pakistan je postavio jasan model za crypto industriju: registracija i licenciranje postaju obavezni, a kompanijama koje uđu u regulirani sustav otvara se pristup bankama i formalnoj financijskoj infrastrukturi."
+summary: "Pakistan postavlja jasan model za crypto industriju: registracija i licenciranje postaju obavezni, regulirane kompanije dobivaju pristup bankama, a velike burze poput Binancea i HTX-a već su ušle u proces."
 ---
 
 *Slika je simbolična.*
 
 # Pakistan uvodi crypto licence: kompanije bez prijave moraju prestati poslovati, a reguliranima se otvara pristup bankama
 
-**Pakistan je povukao jasnu granicu za crypto industriju: kompanije koje žele nastaviti poslovati u zemlji moraju ući u regulatorni sustav, ali zauzvrat dobivaju nešto što je crypto sektoru godinama bilo teško dostupno – pristup formalnom bankarskom sustavu.** Postojeći pružatelji virtualnih usluga koji su poslovali u Pakistanu 5. ožujka 2026. ili ranije morali su do **5. rujna** podnijeti zahtjev za No Objection Certificate, odnosno NOC, ili prestati poslovati.
+**Pakistan je povukao jasnu granicu za crypto industriju: kompanije koje žele nastaviti poslovati u zemlji moraju ući u regulatorni sustav, ali zauzvrat dobivaju pristup nečemu što je crypto sektoru godinama bilo teško dostupno – formalnom bankarskom sustavu.** Postojeći pružatelji usluga virtualne imovine koji su poslovali u Pakistanu 5. ožujka 2026. ili ranije morali su do **5. rujna** podnijeti zahtjev za No Objection Certificate, odnosno NOC, ili prestati poslovati.
 
 Rok je sada istekao, a Pakistan Virtual Assets Regulatory Authority, odnosno **PVARA**, nastavlja primjenjivati novi sustav prema kojem crypto burze, wallet operatori, custodiani i drugi pružatelji virtualnih usluga više ne mogu legitimno poslovati izvan formalnog regulatornog okvira. Pakistan pritom ne ide putem zabrane crypta. Naprotiv, država pokušava sektor premjestiti iz regulatorne sive zone u sustav licenciranja, nadzora i bankarskog pristupa.
 
 ## Rok je istekao: NOC ili prestanak poslovanja
 
-PVARA je za takozvane prijelazne operatore – kompanije koje su već pružale virtualne usluge u Pakistanu 5. ožujka 2026. ili ranije – postavila jasan rok. **Do 5. rujna morali su predati zahtjev za NOC ili prestati pružati obuhvaćene usluge u zemlji.**
+PVARA je za takozvane prijelazne operatore – kompanije koje su već pružale usluge virtualne imovine u Pakistanu 5. ožujka 2026. ili ranije – postavila jasan rok. **Do 5. rujna morali su predati zahtjev za NOC ili prestati pružati obuhvaćene usluge u zemlji.**
 
 NOC, odnosno No Objection Certificate, predstavlja regulatorno prethodno odobrenje kojim kompanija ulazi u formalni postupak licenciranja. Sama prijava ne znači da je kompanija automatski dobila punu dozvolu za rad, ali joj omogućuje nastavak regulatornog procesa i, uz ispunjavanje propisanih uvjeta, put prema konačnoj VASP licenci.
 
-PVARA pritom jasno navodi da svi Virtual Asset Service Providers moraju imati odgovarajuće regulatorno odobrenje prije pružanja usluga u Pakistanu. Poslovanje bez potrebnog odobrenja više se ne tretira kao regulatorna siva zona nego kao kršenje novog zakonskog okvira.
+PVARA pritom jasno navodi da svi Virtual Asset Service Providers moraju imati odgovarajuće regulatorno odobrenje prije pružanja usluga u Pakistanu. Poslovanje bez potrebnog odobrenja više se ne tretira kao regulatorna siva zona, nego kao kršenje novog zakonskog okvira.
 
 ## NOC je tek prvi korak prema punoj crypto licenci
 
@@ -50,7 +50,7 @@ Najzanimljiviji dio novog pakistanskog modela nije sama obveza licenciranja, neg
 
 Time se bitno mijenja odnos između tradicionalnog financijskog sustava i crypto industrije. Pakistan je još 2018. ograničio bankama poslovanje povezano s virtualnim valutama, dok novi režim sada omogućuje formalnu bankarsku infrastrukturu kompanijama koje pristanu na licenciranje, nadzor i AML pravila.
 
-Puna mogućnost pružanja bankarskih usluga vezanih uz virtualnu imovinu odnosi se na **licencirane VASP-ove**, dok kompanije koje su tek dobile NOC mogu dobiti ograničene račune potrebne za dovršetak formalnosti i procesa dobivanja licence.
+Širi pristup bankarskim uslugama povezanima s virtualnom imovinom odnosi se na **licencirane VASP-ove**, dok kompanije koje su tek dobile NOC mogu dobiti ograničene račune potrebne za dovršetak formalnosti i nastavak procesa licenciranja.
 
 To znači da Pakistan praktički nudi razmjenu: **uđite u regulatorni sustav i dobit ćete pristup bankama.**
 
@@ -66,9 +66,19 @@ Drugim riječima, država otvara **bankarsku infrastrukturu cryptu**, ali ne otv
 
 {{< support2 >}}
 
+## Binance i HTX već su ušli u regulatorni proces
+
+Pakistan je već pokazao da novi sustav nije samo teorijski. **PVARA je globalnim crypto burzama Binance i HTX već izdala NOC odobrenja**, čime im je omogućila ulazak u sljedeće faze regulatornog procesa.
+
+NOC pritom ne znači da su Binance ili HTX automatski dobili punu operativnu licencu. Riječ je o regulatornom prethodnom odobrenju koje kompanijama omogućuje nastavak prema AML registraciji, lokalnom osnivanju i, konačno, punoj VASP licenci.
+
+Ta je razlika važna, ali jednako je važna i šira poruka. **Pakistan ne pokušava istjerati velike međunarodne crypto kompanije iz zemlje. Pokušava ih dovesti unutar domaćeg regulatornog sustava.**
+
+Ulazak Binancea i HTX-a daje cijelom okviru dodatnu težinu. Ako su neke od najvećih svjetskih crypto platformi spremne ući u postupak, Pakistan praktički testira može li kombinirati strogu regulaciju i formalni bankarski pristup na način koji će i dalje biti komercijalno zanimljiv velikim globalnim kompanijama.
+
 ## Regulacija obuhvaća puno više od crypto burzi
 
-Pakistanski regulatorni okvir nije ograničen samo na klasične burze na kojima korisnici kupuju i prodaju Bitcoin ili druge tokene. PVARA regulira širi spektar pružatelja usluga virtualne imovine.
+Pakistanski regulatorni okvir nije ograničen samo na klasične burze na kojima korisnici kupuju i prodaju Bitcoin ili druge tokene. PVARA regulira znatno širi spektar pružatelja usluga virtualne imovine.
 
 To uključuje **crypto burze, wallet providere, custody usluge, brokere, upravljanje virtualnom imovinom, izdavanje tokena i druge aktivnosti povezane s razmjenom, prijenosom, čuvanjem ili administracijom digitalne imovine**.
 
@@ -76,15 +86,15 @@ Kompanije pritom moraju zadovoljiti zahtjeve povezane s kapitalom, upravljanjem,
 
 Poseban naglasak stavljen je na **KYC, praćenje transakcija, prijavu sumnjivih aktivnosti i sankcijske provjere**, dok PVARA zahtijeva da regulirani pružatelji određene transakcijske i korisničke evidencije čuvaju najmanje deset godina.
 
-## Pakistan od zabrane bankarskog pristupa prelazi prema reguliranom tržištu
+## Pakistan od ograničenog bankarskog pristupa prelazi prema reguliranom tržištu
 
 Šira slika možda je još zanimljivija od samog roka 5. rujna. Pakistan se u relativno kratkom razdoblju pomaknuo od vrlo restriktivnog odnosa tradicionalnih financijskih institucija prema cryptu prema pokušaju stvaranja formalnog i nadziranog tržišta.
 
 Novi **Virtual Assets Act 2026** uspostavio je PVARA-u kao specijaliziranog regulatora za virtualnu imovinu. Nakon toga slijedili su detaljniji propisi za licenciranje, AML/CFT, zaštitu korisnika, cybersecurity i različite vrste virtualnih usluga.
 
-U kolovozu su notificirani i novi Pakistan Virtual Asset Services Regulations te Activity Specific Regulations, čime se regulatorni okvir dodatno približio potpuno operativnom sustavu.
+U kolovozu su uvedeni i novi Pakistan Virtual Asset Services Regulations te Activity Specific Regulations, čime se regulatorni okvir dodatno približio potpuno operativnom sustavu.
 
-Rezultat nije liberalizacija bez uvjeta. Upravo suprotno: Pakistan uvodi znatno više nadzora nego prije. Ali istodobno prvi put crypto kompanijama koje zadovolje uvjete nudi jasan pravni status i pristup infrastrukturi tradicionalnog financijskog sustava.
+Rezultat nije deregulacija. Upravo suprotno: Pakistan uvodi znatno više nadzora nego prije. Ali istodobno crypto kompanijama koje zadovolje uvjete nudi jasniji pravni status i pristup infrastrukturi tradicionalnog financijskog sustava.
 
 ## Zašto je bankarski pristup toliko važan
 
@@ -106,15 +116,19 @@ Kompanije koje pristanu na licenciranje, transparentno vlasništvo, AML/KYC kont
 
 To Pakistan čini zanimljivim primjerom šireg globalnog trenda u kojem države sve manje biraju između potpune zabrane i potpuno slobodnog crypto tržišta. Umjesto toga pokušavaju izgraditi treći model: **crypto može ostati, ali mora poslovati prema pravilima usporedivima s drugim reguliranim financijskim djelatnostima.**
 
+Činjenica da su **Binance i HTX već ušli u taj proces** pakistanski eksperiment čini još zanimljivijim. Pokazuje da regulacija ne mora nužno značiti isključivanje najvećih crypto kompanija ako im regulatorni okvir istodobno daje pravnu sigurnost i pristup financijskoj infrastrukturi potrebnoj za poslovanje.
+
 ## Naš osvrt
 
-* **Postojeći pružatelji virtualnih usluga u Pakistanu morali su do 5. rujna 2026. podnijeti NOC zahtjev ili prestati poslovati.**
+* **Postojeći pružatelji usluga virtualne imovine u Pakistanu morali su do 5. rujna 2026. podnijeti NOC zahtjev ili prestati poslovati.**
 * NOC nije puna crypto licenca, nego **prvi regulatorni korak prema VASP licenci**.
 * Pakistan time ne zabranjuje crypto nego ga pokušava prebaciti iz sive zone u **formalno licencirano i nadzirano tržište**.
 * Najvažniji poticaj kompanijama je to što **regulirani VASP-ovi dobivaju pristup pakistanskom bankarskom sustavu**.
 * Kompanije koje imaju samo NOC mogu dobiti ograničene bankovne račune za dovršetak regulatornog procesa, dok se šire bankarske usluge otvaraju nakon pune licence.
+* **Binance i HTX već su dobili NOC odobrenja**, što pokazuje da velike globalne crypto burze već ulaze u novi pakistanski regulatorni okvir.
 * Banke moraju provjeravati licence, provoditi AML nadzor i držati sredstva korisnika odvojeno od sredstava samih crypto kompanija.
 * Bankama pritom **nije dopušteno vlastitim novcem ili depozitima klijenata trgovati ili držati crypto imovinu**.
+* Pakistanski model tako kombinira dva vrlo različita instrumenta: **stroge uvjete licenciranja za crypto kompanije i formalni pristup bankama za one koje ih ispune**.
 * Najzanimljivija poruka pakistanskog modela glasi: **regulacija više nije samo trošak za crypto kompaniju – postaje ulaznica za bankarski sustav.**
 
 **Pratite Metaadvisor.eu za više vijesti o cryptu, blockchainu, financijskim tržištima, regulaciji, bankarstvu, tehnologiji i globalnim poslovnim trendovima.**
