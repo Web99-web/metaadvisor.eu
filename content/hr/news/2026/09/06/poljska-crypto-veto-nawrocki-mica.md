@@ -5,7 +5,7 @@ date: 2026-09-06T08:00:00+02:00
 category: "Crypto"
 translationKey: "poland-crypto-veto-nawrocki-mica-2026-09-06"
 source: "Kancelaria Prezydenta RP, Komisja Nadzoru Finansowego (KNF), Kancelaria Premiera RP, Prokuratura Krajowa, Cointelegraph, Metaadvisor.eu"
-source_url: "https://www.gov.pl/web/premier/premier-do-opozycji-wszystko-wskazuje-na-to-ze-za-gardlo-trzymaja-was-bardzo-zli-ludzie"
+source_url: ""
 author: "Metaadvisor.eu"
 image_url: "/images/Poland-crypto.png"
 featured_image: "/images/Poland-crypto.png"
