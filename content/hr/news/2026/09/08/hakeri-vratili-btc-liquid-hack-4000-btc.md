@@ -22,145 +22,181 @@ summary: "Liquid Network ostao je bez gotovo 4.000 BTC nakon iskorištavanja bug
 
 # "White-hat" hakeri povukli 4.000 BTC iz Liquida, poručili "prvo popravite bug" i zatim vratili 3.400 BTC
 
-**Jedan od najvećih crypto sigurnosnih incidenata ove godine dobio je neobičan nastavak: akteri koji se nazivaju white-hat hakerima povukli su gotovo 4.000 BTC iz Liquid Networka, vrijednih oko 320 milijuna dolara, poručili Blockstreamu da će većinu vratiti nakon što popravi ranjivost – i zatim doista vratili 3.400 BTC.** Još neobičnije, velik dio pregovora nije se odvijao preko emaila, Telegrama ili privatnog chata, nego kroz kratke poruke zapisane izravno u Bitcoin blockchain.
+**Jedan od najneobičnijih crypto sigurnosnih incidenata ove godine dobio je još neobičniji nastavak: akteri koji se nazivaju white-hat hakerima povukli su gotovo 4.000 BTC iz Liquid Networka, vrijednih oko 320 milijuna dolara, poručili Blockstreamu da će većinu vratiti nakon što popravi ranjivost – i zatim doista vratili 3.400 BTC.** Još zanimljivije, velik dio pregovora nije se odvijao preko emaila, Telegrama ili privatnog chata, nego kroz poruke zapisane izravno u Bitcoin blockchain.
 
-Incident je pogodio **Liquid Network**, Bitcoin sidechain koji koristi softver Elements i kojim upravlja federacija članova. Problem prema dosad dostupnim informacijama nije nastao zato što je netko ukrao privatne ključeve. Bug u Elementsu omogućio je stvaranje L-BTC-a koji nisu imali odgovarajuće stvarne Bitcoine kao pokriće, a zatim je kroz normalni peg-out proces Liquid Federation isplatila pravi BTC. Nakon što je mreža ostala bez gotovo cijelog Bitcoin salda federation walleta, Liquid je zaustavio bridge nodeove i obustavio dio mrežnih operacija.
+Incident je pogodio **Liquid Network**, Bitcoin sidechain koji koristi open-source softver Elements. Problem, prema dosad objavljenim informacijama, nije nastao zato što je netko ukrao privatne ključeve Liquid Federacije ili kompromitirao SideSwapov Peg-out Authorization Key. Bug povezan s Elementsom omogućio je stvaranje L-BTC-a bez odgovarajućeg stvarnog Bitcoin pokrića, nakon čega su tokeni prošli kroz peg-out proces i federacija je isplatila pravi BTC.
 
 ## Gotovo 4.000 BTC otišlo je kroz transakciju koja je izgledala legitimno
 
-Prema informacijama koje su objavili SideSwap i istraživači koji su pratili transakcije, incident je počeo 6. rujna kada je oko **4.000 L-BTC poslano SideSwapovu peg-out servisu**. Tokeni su prošli autorizaciju valjanim Peg-out Authorization Keyem, odnosno PAK-om, nakon čega je Liquid Federation isplatila približno **3.996 BTC** na Bitcoin adresu korisnika.
+Incident je počeo 6. rujna kada je oko **4.000 L-BTC poslano SideSwapovu peg-out servisu**. SideSwap je objavio da je njegov sustav transakciju obradio kao normalan korisnički nalog: L-BTC je spaljen uz valjanu peg-out autorizaciju, a Liquid Federation zatim je isplatila približno **3.996 BTC** na Bitcoin adresu korisnika.
 
-Najvažniji detalj je da SideSwapov PAK, prema objavljenim informacijama, nije bio kompromitiran. Ključevi su radili ono za što su dizajnirani, ali je problem bio u L-BTC-u koji je ušao u sustav. Prema SideSwapu, ti su tokeni stvoreni iskorištavanjem buga u **Elements open-source softveru**, što je omogućilo da se kroz normalan proces otkupa dobije stvarni Bitcoin za L-BTC koji nije imao odgovarajuće pokriće.
+SideSwap tvrdi da njegov PAK nije bio kompromitiran. Prema dosad dostupnim informacijama, problem je nastao ranije, u Elements softveru na kojem Liquid radi, što je omogućilo da L-BTC bez stvarnog pokrića dođe do faze u kojoj ga je bilo moguće zamijeniti za pravi Bitcoin.
 
-Federation wallet prije incidenta sadržavao je oko **4.200 BTC-a**, pa je jedna transakcija odnijela približno 95% njegovih Bitcoin rezervi. Bitcoin mainnet pritom nije bio kompromitiran; ranjivost se odnosila na Liquid sidechain i njegov peg mehanizam.
+Federation wallet prije incidenta sadržavao je približno **4.200 BTC-a**, pa je povlačenje odnijelo oko 95% njegove Bitcoin rezerve. Liquid je nakon incidenta onemogućio bridge nodeove i zatražio od burzi da zaustave L-BTC depozite i povlačenja. Bitcoin mainnet pritom nije bio kompromitiran.
 
-## Onda se u blockchainu pojavila poruka: "we are whitehats"
+## Prva poruka u blockchainu: "Mi smo white-hat hakeri"
 
-Nekoliko sati nakon povlačenja dogodilo se nešto potpuno neuobičajeno. Dana **6. rujna u 18:30 UTC**, odnosno oko 20:30 po hrvatskom vremenu, u Bitcoin transakciji povezanoj s adresom na kojoj su završila sredstva pojavio se OP_RETURN zapis.
+Nekoliko sati nakon povlačenja dogodilo se nešto što je cijelom incidentu potpuno promijenilo ton. Dana **6. rujna u 18:30 UTC**, odnosno oko 20:30 po hrvatskom vremenu, adresa koja je držala gotovo 4.000 BTC poslala je novu Bitcoin transakciju. U njezinu OP_RETURN outputu bila je poruka.
 
-**Originalna on-chain poruka:**
+**Hexadecimalni zapis u blockchainu:**
 
-**“we are whitehats. contact us on chain”**
+**`776520617265207768697465686174732e20636f6e74616374207573206f6e20636861696e`**
 
-**Prijevod:**
+**„Mi smo white-hat hakeri. Kontaktirajte nas on-chain.” (original engleski: “we are whitehats. contact us on chain”)**
 
-**„Mi smo white-hat hakeri. Kontaktirajte nas on-chain.”**
+To je stvarni računalni zapis rečenice. U Bitcoin blockchainu slova nisu spremljena kao tekst koji čovjek izravno čita, nego kao bajtovi koji se mogu prikazati hexadecimalno. Primjerice, `77` predstavlja slovo `w`, `65` slovo `e`, pa početak `7765` nakon dekodiranja daje riječ `we`.
 
-To nije bio komentar na društvenoj mreži niti poruka poslana kroz neku aplikaciju. Bila je to **prava Bitcoin transakcija** u kojoj je jedan output sadržavao OP_RETURN podatak. Sirovi zapis u blockchainu tehnički je spremljen kao računalni podatak, ali ga Bitcoin explorer može dekodirati i prikazati kao običan tekst. Svatko tko otvori odgovarajuću transakciju može vidjeti poruku zajedno s TXID-em, block heightom i vremenom potvrde.
+Bitcoin block explorer taj hexadecimalni sadržaj može automatski pretvoriti natrag u čitljivu rečenicu. Zato korisnik koji otvori transakciju može vidjeti OP_RETURN podatak i pročitati poruku koju su akteri ostavili.
 
-Prema rekonstrukciji transakcija, poruka je bila umetnuta u transakciju koja je istodobno slala i malu količinu Bitcoina prema drugoj strani. Blockchain je tako postao svojevrsni javni komunikacijski kanal u pregovorima o stotinama milijuna dolara.
+Još neobičnije, to nije bila samo poruka spremljena negdje uz transakciju. **Sama poruka postala je dio trajnog zapisa Bitcoin blockchaina.**
 
 {{< support1 >}}
 
-## Blockstream odgovara – također preko Bitcoin blockchaina
+## Blockstream im odgovara – također kroz Bitcoin
 
-Blockstream nije ignorirao poruku. Oko sat vremena kasnije, **6. rujna u 19:31 UTC**, poslao je vlastitu Bitcoin transakciju s OP_RETURN porukom.
-
-**Originalna Blockstreamova poruka:**
+Blockstream je prihvatio njihov način komunikacije. Oko sat vremena kasnije, **6. rujna u 19:31 UTC**, s adrese povezane s Blockstreamom poslana je transakcija s porukom:
 
 **“Please contact security@blockstream.com”**
 
-**Prijevod:**
-
 **„Molimo kontaktirajte security@blockstream.com.”**
 
-Komunikacija se nakon toga nastavila. Dio tehničkih informacija razmijenjen je i u šifriranom obliku, a **7. rujna u 02:20 UTC** akteri su najavili da namjeravaju vratiti većinu sredstava i provjeravali adresu na koju bi Bitcoin trebao biti poslan.
+Kasnije je Blockstream poslao i PGP-potpisanu šifriranu poruku. Potpis je bilo moguće provjeriti prema javno objavljenom Blockstreamovu sigurnosnom ključu, čime se moglo potvrditi da poruke zaista dolaze od Blockstreamove sigurnosne strane.
 
-Međutim, ubrzo nakon toga postavili su novi uvjet. Dana **7. rujna u 03:30 UTC**, odnosno oko 05:30 po hrvatskom vremenu, u blockchainu se pojavila poruka koja je postala središnji dio cijelog slučaja.
+No white-hat strana nastavila je razgovor on-chain.
 
-**Originalna on-chain poruka:**
+## "Vraćamo većinu – je li ovo prava adresa?"
 
-**“Please fix the bug first. The chain is under risk at latest commit right now. Make sure every node is patched. Then we will transfer the money back safely after confirming the fix.”**
+Dana **7. rujna u 02:20 UTC**, odnosno oko 04:20 po hrvatskom vremenu, akteri su poslali novu transakciju. Ovoga puta poruka je sadržavala i punu adresu Liquid Federation walleta na koju su namjeravali vratiti Bitcoin.
 
-**Prijevod:**
+**Hexadecimalni zapis u blockchainu:**
 
-**„Molimo prvo popravite bug. Mreža je trenutačno ugrožena u najnovijoj verziji. Pobrinite se da svaki node bude zakrpan. Nakon što potvrdimo da je problem riješen, sigurno ćemo vratiti novac.”**
+**`73656e64696e67206d6f7374206261636b20746f2062633171646c6c6436616e746d76347875673234326564383371376b3472717735306377666e733338737a783471753266346a77617878737568777878722c2069732074686174206f6b`**
 
-Drugim riječima, ljudi koji su upravo kontrolirali Bitcoin vrijedan stotine milijuna dolara javno su poručili Blockstreamu: **prvo popravite bug i zakrpajte mrežu – tek onda vraćamo Bitcoin.**
+**„Vraćamo većinu na bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr, je li to u redu?” (original engleski: “sending most back to bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr, is that ok”)**
 
-## Blockstream javlja da je bug popravljen
+Ovo je možda prvi trenutak u kojem je postalo jasno da njihova početna tvrdnja da su white-hat hakeri možda nije samo pokušaj kupovanja vremena. **Nisu samo rekli da će vratiti novac – poslali su adresu na koju namjeravaju vratiti većinu gotovo 4.000 BTC-a i pitali Blockstream je li ispravna.**
 
-Nakon rada na ranjivosti Blockstream je poslao novu potpisanu on-chain poruku kojom je potvrdio da su ključni bridge nodeovi zakrpani.
+Blockstream im je odgovorio **“Yes, thank you.”**, odnosno **„Da, hvala.”**
 
-**Originalna Blockstreamova poruka:**
+Ali prije samog povrata uslijedila je još važnija poruka.
 
-**“Bridge nodes are patched, safe to return the funds.”**
+## "Prvo popravite bug"
 
-**Prijevod:**
+Dana **7. rujna u 03:30 UTC**, odnosno oko 05:30 po hrvatskom vremenu, white-hat strana poslala je treću javno čitljivu poruku. Ona je praktički objasnila zašto Bitcoin još neće odmah vratiti.
 
-**„Bridge nodeovi su zakrpani. Sredstva je sada sigurno vratiti.”**
+**Hexadecimalni zapis javno čitljivog dijela poruke u blockchainu:**
 
-Time je ispunjen uvjet koji su akteri prethodno javno postavili. I tada se dogodilo ono zbog čega je cijela priča toliko neobična: **održali su obećanje.**
+**`506c656173652066697820746865206275672066697273742e2054686520636861696e20697320756e646572207269736b206174206c617465737420636f6d6d6974207269676874206e6f772e204d616b652073757265206576657279206e6f646520697320706174636865642e205468656e2077652077696c6c207472616e7366657220746865206d6f6e6579206261636b20736166656c7920616674657220636f6e6669726d696e6720746865206669782e`**
 
-Dana **7. rujna u 16:09 UTC**, odnosno nešto poslije 18 sati po hrvatskom vremenu, Bitcoin blockchain zabilježio je veliku transakciju kojom je **3.400 BTC vraćeno na Liquid Federation adresu**.
+**„Molimo prvo popravite bug. Mreža je trenutačno izložena riziku i na najnovijem commitu. Pobrinite se da svaki node bude zakrpan. Nakon što potvrdimo popravak, sigurno ćemo vratiti novac.” (original engleski: “Please fix the bug first. The chain is under risk at latest commit right now. Make sure every node is patched. Then we will transfer the money back safely after confirming the fix.”)**
+
+Nakon tog javno čitljivog teksta u istom OP_RETURN zapisu slijedio je i **PGP-šifrirani tehnički dio** namijenjen Blockstreamu. Javnost je mogla vidjeti šifrirane podatke, ali ne i pročitati njihov sadržaj bez privatnog ključa. Prema istraživačima koji su analizirali blockchain, taj je dio sadržavao tehničke informacije o ranjivosti.
+
+Poruka je bila vrlo jasna: **nemojte samo potvrditi adresu i uzeti Bitcoin natrag – prvo osigurajte da ista ranjivost više ne postoji.**
 
 {{< support2 >}}
 
-## Obećali su vratiti većinu – i 3.400 BTC zaista se vratilo
+## Blockstream javlja da su bridge nodeovi zakrpani
 
-Povrat 3.400 BTC posebno je važan jer nije došao bez prethodne najave. Nekoliko sati prije toga akteri su javno zapisali u Bitcoin blockchain da će sredstva vratiti nakon što se ranjivost popravi i svi relevantni nodeovi budu zakrpani. Blockstream je zatim također on-chain potvrdio da je popravak proveden, nakon čega je velika transakcija zaista stigla natrag.
+Nakon rada na sigurnosnom problemu Blockstream je poslao potpisanu on-chain poruku:
 
-To ne znači da je cijeli iznos vraćen. Nakon transakcije na adresi povezanoj s incidentom ostalo je približno **598,5 BTC-a**, vrijednih oko 47 milijuna dolara. Nema javno potvrđenog dogovora prema kojem bi taj iznos predstavljao bug bounty niti je Blockstream objavio da je akterima dopušteno zadržati ga.
+**“Bridge nodes are patched, safe to return the funds.”**
 
-Zbog toga je preciznije reći da su akteri **vratili većinu Bitcoina kao što su obećali**, ali ne i sve. Status preostalih gotovo 600 BTC-a i eventualni daljnji povrat sredstava zasad ostaju otvoreni.
+**„Bridge nodeovi su zakrpani. Sredstva je sada sigurno vratiti.”**
+
+Time je ispunjen uvjet koji su akteri nekoliko sati ranije zapisali u Bitcoin blockchain.
+
+I tada se dogodio ključni obrat: **održali su ono što su napisali.**
+
+Dana **7. rujna u 16:09 UTC**, odnosno oko 18:09 po hrvatskom vremenu, u Bitcoin blocku 965.950 potvrđena je transakcija kojom je **točno 3.400 BTC vraćeno na adresu Liquid Federacije**.
+
+## Obećali su vratiti većinu – i vratili 3.400 BTC
+
+Povrat je posebno zanimljiv zbog slijeda događaja. Akteri su prvo napisali da su white-hat hakeri, zatim javno pitali je li federation adresa prava adresa za povrat većine novca, a potom odbili odmah poslati BTC dok se ranjivost ne popravi.
+
+Blockstream je potvrdio da su bridge nodeovi zakrpani. Nakon toga stigla je transakcija od **3.400 BTC**.
+
+Drugim riječima, ključna rečenica cijele priče – **„nakon što potvrdimo popravak, sigurno ćemo vratiti novac”** – nije ostala samo poruka u blockchainu. Nakon potvrde popravka vratili su oko 85% sredstava.
+
+Na njihovoj adresi ipak je ostalo približno **598,5 BTC-a**, tada vrijednih oko 47 milijuna dolara.
+
+## Oko 600 BTC ipak nisu vratili
+
+Status preostalih gotovo 600 BTC-a još je otvoren. Pojavila su se nagađanja da bi taj iznos mogao predstavljati svojevrsni bug bounty, odnosno nagradu za pronalazak kritične ranjivosti, ali nema javno potvrđenog dogovora prema kojem je Blockstream pristao na nagradu te veličine.
+
+Gotovo 600 BTC predstavlja oko 15% ukupnog iznosa koji je ostao pod kontrolom aktera nakon incidenta. Zbog toga nije precizno govoriti da je sav Bitcoin vraćen.
+
+Točnije je reći da su **obećali vratiti "većinu" i upravo su većinu vratili**.
+
+Čak je i riječ **“most”** iz njihove druge on-chain poruke naknadno postala vrlo važna. Nisu napisali da vraćaju sve. Napisali su **“sending most back”** – vraćamo većinu.
 
 ## Jesu li to zaista white-hat hakeri?
 
-Sam naziv "white hat" treba koristiti oprezno. Akteri su se sami tako predstavili, ali nije poznato da su prije iskorištavanja ranjivosti imali dopuštenje Blockstreama, Liquid Federacije ili SideSwapa za izvođenje sigurnosnog testa ove veličine.
+Njihovo vlastito predstavljanje kao white-hat hakera ne znači automatski da ih tako treba pravno ili sigurnosno klasificirati. Nema javnih informacija da su prije iskorištavanja ranjivosti imali dopuštenje Blockstreama ili Liquid Federacije za sigurnosno testiranje sustava.
 
-Klasični white-hat istraživač obično otkrije ranjivost, prijavi je kompaniji kroz security disclosure ili bug bounty program i zatim čeka da se problem riješi. Ovdje su akteri najprije povukli gotovo 4.000 BTC-a, a tek nakon toga stupili u kontakt s odgovornima.
+Uobičajeni white-hat postupak bio bi pronaći ranjivost i prijaviti je kompaniji kroz security disclosure ili bug bounty program, a ne prvo preuzeti kontrolu nad gotovo 320 milijuna dolara.
 
-S druge strane, njihovo ponašanje također nije izgledalo poput tipičnog crypto exploita u kojem napadač pokušava sredstva brzo prebaciti kroz mixere, bridgeove i niz novih adresa. Ovi su akteri ostali u komunikaciji s Blockstreamom, poslali tehničke informacije o bugu, zahtijevali popravak mreže i na kraju vratili 3.400 BTC-a.
+S druge strane, njihovo ponašanje nakon exploita također nije izgledalo poput tipične crypto krađe. Nisu pokušali odmah sakriti sredstva kroz niz walleta i drugih mreža. Ostali su na blockchainu, javno su stupili u kontakt s Blockstreamom, dostavili tehničke informacije, tražili zakrpu i zatim vratili 3.400 BTC.
 
-Upravo zato slučaj ostaje teško svrstati u klasičnu kategoriju napada. Njihovo ponašanje nakon exploita ima obilježja white-hat sigurnosnog disclosurea, ali način na koji su prvo preuzeli kontrolu nad gotovo 320 milijuna dolara daleko je od standardne prakse sigurnosnih istraživača.
+Upravo zato incident ostaje toliko neobičan. **Sami su se nazvali white-hat hakerima, ali njihov će konačni status vjerojatno ovisiti i o tome što će se dogoditi s preostalih 598,5 BTC-a.**
 
-## Kako uopće izgleda razgovor "na blockchainu"
+## Kako uopće izgleda razgovor na Bitcoin blockchainu
 
-Bitcoin nije chat aplikacija, ali OP_RETURN omogućuje da se u transakciju upiše mala količina proizvoljnih podataka. Nakon potvrde transakcije ti podaci ostaju zapisani u blockchainu zajedno s TXID-em, block heightom i vremenom potvrde.
+Bitcoin nije chat aplikacija, ali OP_RETURN omogućuje zapisivanje male količine proizvoljnih podataka u transakciju. Kada se transakcija potvrdi, taj podatak postaje dio blockchaina.
 
-Na block exploreru korisnik zato vidi klasičnu Bitcoin transakciju s inputima i outputima, a među njima i output označen kao **OP_RETURN**. Kada je sadržaj kodiran kao tekst, explorer ga može prikazati ljudski čitljivo.
-
-Dakle, korisnik ne mora gledati nešto poput `10110111010110`. U blockchainu je poruka računalno kodirana, ali explorer je može prikazati ovako:
+Zato ono što korisnik na exploreru vidi kao:
 
 **“we are whitehats. contact us on chain”**
 
-I kasnije:
+u hexadecimalnom zapisu izgleda ovako:
 
-**“Please fix the bug first.”**
+**`776520617265207768697465686174732e20636f6e74616374207573206f6e20636861696e`**
 
-To cijeloj priči daje gotovo filmski element. Ljudi koji su kontrolirali gotovo 4.000 BTC i kompanija čiji je sustav bio pogođen ostavljali su jedni drugima poruke u **javnoj, trajnoj knjizi Bitcoin transakcija** koju je istodobno mogao čitati cijeli svijet.
+Explorer jednostavno uzme spremljene bajtove i, kada oni predstavljaju tekst, dekodira ih u znakove koje čovjek može pročitati.
+
+Još je važnije što svaka takva poruka dolazi unutar **prave Bitcoin transakcije**. U ovom slučaju adresa koja je slala white-hat poruke bila je upravo adresa koja je kontrolirala povučene Bitcoine. Time blockchain ne dokazuje tko su osobe iza walleta, ali potvrđuje da je poruke slao netko tko je mogao potpisivati transakcije iz walleta koji je držao sredstva.
+
+To je razlog zbog kojeg je ovaj razgovor puno više od screenshota ili anonimne objave na internetu.
+
+## Pregovori o 320 milijuna dolara odvijali su se javno
+
+Najzanimljiviji dio incidenta možda nije čak ni sam exploit, nego način na koji je problem rješavan nakon njega. White-hat strana i Blockstream praktički su vodili pregovore o Bitcoinu vrijednom stotine milijuna dolara pred cijelim svijetom.
+
+Poruke, vrijeme njihova slanja i adrese koje su ih poslale ostale su zapisane u blockchainu. Javnost je mogla pratiti kako akteri prvo traže kontakt, zatim najavljuju povrat većine sredstava, potom zahtijevaju popravak ranjivosti i na kraju stvarno vraćaju 3.400 BTC.
+
+Nije postojao klasični privatni pregovarački kanal koji je javnosti kasnije prepričan. **Najvažniji dijelovi razgovora bili su zapisani u samom Bitcoinu.**
 
 ## Što je Liquid Network i zašto je bug bio toliko opasan
 
-Liquid je Bitcoin sidechain koji je razvio **Blockstream** kako bi omogućio brže transfere Bitcoina, povjerljivije transakcije i izdavanje različite digitalne imovine. Na njemu se koristi **L-BTC**, odnosno Liquid Bitcoin, koji bi trebao biti pokriven stvarnim BTC-om zaključanim u federation walletima.
+Liquid je Bitcoin sidechain koji je razvio **Blockstream**, a koristi se za brže prijenose Bitcoina i izdavanje različite digitalne imovine. Njegov L-BTC trebao bi biti pokriven stvarnim Bitcoinom zaključanim u federation sustavu.
 
-Osnovna ideja je jednostavna: korisnik unese Bitcoin u Liquid sustav i dobije odgovarajuću količinu L-BTC-a. Kada se želi vratiti na Bitcoin mainnet, L-BTC se uništi, odnosno burna, a federation sustav oslobađa odgovarajući stvarni BTC.
+Korisnik može zaključati BTC i dobiti odgovarajući L-BTC na Liquid mreži. Kada se želi vratiti na Bitcoin mainnet, L-BTC se kroz peg-out proces uklanja iz optjecaja, a federation sustav oslobađa stvarni Bitcoin.
 
-Upravo je zato ovaj incident toliko ozbiljan. Ako je moguće stvoriti L-BTC bez stvarnog Bitcoin pokrića, a zatim ga provesti kroz normalan peg-out i dobiti pravi BTC, tada je ugrožen osnovni računovodstveni mehanizam cijelog bridgea.
+Upravo je zato ovaj bug bio kritičan. Ako je moguće stvoriti L-BTC koji nije stvarno pokriven Bitcoinom i zatim ga kroz regularan peg-out zamijeniti za pravi BTC, ugrožena je osnovna pretpostavka sustava.
 
-Prema SideSwapu, njihovi sustavi i autorizacijski ključ nisu bili kompromitirani. Problem je bio u Elements softveru na kojem Liquid radi, zbog čega je transakcija mogla izgledati legitimno sve dok stvarni BTC nije već napustio federation wallet.
+SideSwap tvrdi da njegovi sustavi i PAK nisu bili kompromitirani. Prema njihovim informacijama, izvor problema bio je bug u **Elementsu**, open-source softveru koji pokreće Liquid.
 
 ## Bitcoin mainnet nije hakiran
 
-Važno je napraviti jasnu razliku između Liquid Networka i samog Bitcoina. Incident nije kompromitirao Bitcoin konsenzus, Bitcoin nodeove, privatne walletove korisnika niti sigurnost Bitcoin mainneta.
+Incident nije bio hack samog Bitcoina. Bitcoin konsenzus, Bitcoin nodeovi i privatni walleti korisnika nisu kompromitirani.
 
-Problem je nastao na **Liquid sidechainu i njegovom mehanizmu za pretvaranje L-BTC-a natrag u stvarni BTC**. Bitcoin mreža je samo izvršavala valjano potpisane transakcije koje joj je federation sustav poslao.
+Problem je nastao na Liquid sidechainu i u njegovu mehanizmu za izdavanje i povrat L-BTC-a. Bitcoin mainnet samo je izvršavao valjano potpisane transakcije koje su mu poslane.
 
-Ironično, upravo je Bitcoin mainnet zatim poslužio kao javni zapisnik cijelog incidenta. Preko njega su poslane poruke **“we are whitehats”** i **“Please fix the bug first”**, preko njega je Blockstream potvrdio zakrpu i preko njega je na kraju vidljiv povrat 3.400 BTC-a.
+Ironično, upravo je Bitcoin blockchain nakon toga postao **javni zapisnik rješavanja problema**. Na njemu su ostale poruke hakera, odgovori Blockstreama i konačna transakcija kojom je vraćeno 3.400 BTC.
 
 ## Naš osvrt
 
-* **Akteri koji se nazivaju white-hat hakerima iskoristili su ranjivost povezanu s Elements softverom i iz Liquid Federation walleta izvukli približno 4.000 BTC.**
-* Povlačenje je predstavljalo oko **95% Bitcoina koji se tada nalazio u federation walletu**, zbog čega je Liquid privremeno zaustavio bridge nodeove i dio mrežnih aktivnosti.
-* Dana **6. rujna u 18:30 UTC** u Bitcoin blockchain upisali su poruku: **“we are whitehats. contact us on chain” – „Mi smo white-hat hakeri. Kontaktirajte nas on-chain.”**
-* Blockstream im je također odgovorio kroz Bitcoin transakciju: **“Please contact security@blockstream.com” – „Molimo kontaktirajte security@blockstream.com.”**
-* Dana **7. rujna u 03:30 UTC** akteri su poslali ključnu poruku: **“Please fix the bug first” – „Molimo prvo popravite bug”**, te zatražili da svi nodeovi budu zakrpani prije povrata sredstava.
-* Blockstream je nakon zakrpe odgovorio: **“Bridge nodes are patched, safe to return the funds” – „Bridge nodeovi su zakrpani. Sredstva je sada sigurno vratiti.”**
-* Nakon toga su akteri **7. rujna u 16:09 UTC vratili 3.400 BTC**, upravo kako su prethodno obećali.
-* Na njihovoj adresi ostalo je približno **598,5 BTC-a**, bez javno potvrđenog dogovora da taj iznos predstavlja bug bounty.
-* Bitcoin mainnet **nije bio hakiran**; problem je bio u Liquid sidechainu i njegovom peg-out mehanizmu.
-* Najneobičniji dio cijelog slučaja jest da se **pregovor o gotovo 320 milijuna dolara odvijao dijelom javno, kroz poruke trajno zapisane u Bitcoin blockchainu**.
-* Akteri su poručili da će vratiti Bitcoin kada se bug popravi – i **za 3.400 BTC održali su riječ**.
+* **Akteri koji se sami nazivaju white-hat hakerima iskoristili su ranjivost povezanu s Elements softverom i izvukli približno 4.000 BTC iz Liquid sustava.**
+* Dana **6. rujna u 18:30 UTC** u blockchain su upisali poruku čiji hexadecimalni zapis počinje s **`776520...`**, a koja nakon dekodiranja glasi: **„Mi smo white-hat hakeri. Kontaktirajte nas on-chain.”**
+* Dana **7. rujna u 02:20 UTC** kroz novu Bitcoin transakciju napisali su da **vraćaju većinu sredstava** i pitali Blockstream je li federation adresa ispravna.
+* Samo nešto više od sat vremena kasnije poslali su ključnu poruku: **„Molimo prvo popravite bug.”** Tražili su da svi nodeovi budu zakrpani prije nego što vrate Bitcoin.
+* Javno čitljivi dijelovi sve tri poruke mogu se iz raw blockchain podataka prikazati i kao **hexadecimalni nizovi**, dok ih block exploreri mogu dekodirati u običan tekst.
+* Blockstream je nakon zakrpe poručio da je sredstva sigurno vratiti.
+* Dana **7. rujna u 16:09 UTC** akteri su vratili **3.400 BTC**, upravo nakon što je uvjet koji su postavili bio ispunjen.
+* Na njihovoj adresi ostalo je približno **598,5 BTC-a**, a nema javno potvrđenog dogovora da taj iznos predstavlja bug bounty.
+* Sam Bitcoin mainnet **nije bio hakiran**; problem se odnosio na Liquid i Elements.
+* Najneobičniji dio cijelog incidenta ostaje činjenica da su se **pregovori o Bitcoinu vrijednom oko 320 milijuna dolara dijelom odvijali javno, kroz poruke trajno zapisane u Bitcoin blockchainu**.
+* Rekli su da će nakon popravka vratiti većinu sredstava – i **za 3.400 BTC održali su riječ**.
 
 **Pratite Metaadvisor.eu za više vijesti o cryptu, Bitcoinu, blockchainu, kibernetičkoj sigurnosti, digitalnoj imovini, tehnologiji i financijskim tržištima.**
 
