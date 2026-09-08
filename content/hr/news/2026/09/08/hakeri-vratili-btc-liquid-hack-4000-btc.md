@@ -54,11 +54,15 @@ Još neobičnije, to nije bila samo poruka spremljena negdje uz transakciju. **S
 
 ## Blockstream im odgovara – također kroz Bitcoin
 
-Blockstream je prihvatio njihov način komunikacije. Oko sat vremena kasnije, **6. rujna u 19:31 UTC**, s adrese povezane s Blockstreamom poslana je transakcija s porukom:
+Blockstream je prihvatio njihov način komunikacije. Oko sat vremena kasnije, **6. rujna u 19:31 UTC**, s adrese povezane s Blockstreamom poslana je nova Bitcoin transakcija s OP_RETURN porukom.
 
-**“Please contact security@blockstream.com”**
+**Hexadecimalni zapis u blockchainu:**
 
-**„Molimo kontaktirajte security@blockstream.com.”**
+**`506c6561736520636f6e7461637420736563757269747940626c6f636b73747265616d2e636f6d`**
+
+**„Molimo kontaktirajte security@blockstream.com.” (original engleski: “Please contact security@blockstream.com”)**
+
+To znači da je i Blockstream odgovorio na isti način – porukom zapisanom unutar Bitcoin transakcije. Umjesto da komunikacija odmah prijeđe na email ili neku privatnu platformu, prvi odgovor ostao je trajno zabilježen u blockchainu.
 
 Kasnije je Blockstream poslao i PGP-potpisanu šifriranu poruku. Potpis je bilo moguće provjeriti prema javno objavljenom Blockstreamovu sigurnosnom ključu, čime se moglo potvrditi da poruke zaista dolaze od Blockstreamove sigurnosne strane.
 
@@ -98,18 +102,19 @@ Poruka je bila vrlo jasna: **nemojte samo potvrditi adresu i uzeti Bitcoin natra
 
 ## Blockstream javlja da su bridge nodeovi zakrpani
 
-Nakon rada na sigurnosnom problemu Blockstream je poslao potpisanu on-chain poruku:
+Nakon rada na sigurnosnom problemu Blockstream je poslao potpisanu on-chain poruku kojom je potvrdio da je problem na bridge nodeovima zakrpan.
 
-**“Bridge nodes are patched, safe to return the funds.”**
+**Hexadecimalni zapis u blockchainu:**
 
-**„Bridge nodeovi su zakrpani. Sredstva je sada sigurno vratiti.”**
+**`427269646765206e6f6465732061726520706174636865642c207361666520746f2072657475726e207468652066756e64732e`**
+
+**„Bridge nodeovi su zakrpani. Sredstva je sada sigurno vratiti.” (original engleski: “Bridge nodes are patched, safe to return the funds.”)**
 
 Time je ispunjen uvjet koji su akteri nekoliko sati ranije zapisali u Bitcoin blockchain.
 
 I tada se dogodio ključni obrat: **održali su ono što su napisali.**
 
 Dana **7. rujna u 16:09 UTC**, odnosno oko 18:09 po hrvatskom vremenu, u Bitcoin blocku 965.950 potvrđena je transakcija kojom je **točno 3.400 BTC vraćeno na adresu Liquid Federacije**.
-
 ## Obećali su vratiti većinu – i vratili 3.400 BTC
 
 Povrat je posebno zanimljiv zbog slijeda događaja. Akteri su prvo napisali da su white-hat hakeri, zatim javno pitali je li federation adresa prava adresa za povrat većine novca, a potom odbili odmah poslati BTC dok se ranjivost ne popravi.
