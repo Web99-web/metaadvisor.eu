@@ -44,6 +44,12 @@ Nekoliko sati nakon povlačenja dogodilo se nešto što je cijelom incidentu pot
 
 **„Mi smo white-hat hakeri. Kontaktirajte nas on-chain.” (original engleski: “we are whitehats. contact us on chain”)**
 
+Važno je razumjeti kako je netko tu poruku uopće primijetio među milijunima Bitcoin transakcija. Nitko nije pretraživao cijeli blockchain u potrazi za zanimljivim rečenicama. Nakon povlačenja gotovo 4.000 BTC adresa na kojoj su sredstva završila već je bila pod intenzivnim nadzorom Blockstreama, sigurnosnih timova i blockchain analitičara. Svaka nova transakcija s te adrese mogla je automatski pokrenuti upozorenje.
+
+OP_RETURN output pritom se vrlo lako prepoznaje jer u Bitcoin skripti ima poseban opcode. Kada analitički alat ili block explorer vidi da OP_RETURN sadrži podatke koji se mogu dekodirati kao tekst, hexadecimalni zapis može odmah pretvoriti u čitljivu poruku. Drugim riječima, hakeri nisu bacili poruku u nepregledan ocean blockchain podataka nadajući se da će je netko slučajno pronaći. Poslali su je upravo s adrese koju su svi već gledali.
+
+To njihovu rečenicu **„contact us on chain”** čini još zanimljivijom: praktički su poručili, **„znamo da pratite ovaj wallet – javite nam se ovdje.”**
+
 To je stvarni računalni zapis rečenice. U Bitcoin blockchainu slova nisu spremljena kao tekst koji čovjek izravno čita, nego kao bajtovi koji se mogu prikazati hexadecimalno. Primjerice, `77` predstavlja slovo `w`, `65` slovo `e`, pa početak `7765` nakon dekodiranja daje riječ `we`.
 
 Bitcoin block explorer taj hexadecimalni sadržaj može automatski pretvoriti natrag u čitljivu rečenicu. Zato korisnik koji otvori transakciju može vidjeti OP_RETURN podatak i pročitati poruku koju su akteri ostavili.
