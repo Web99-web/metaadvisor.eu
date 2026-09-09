@@ -1,5 +1,5 @@
 ---
-title: "US city slows AI data centers over power"
+title: "US city slows AI data centers over 50% power"
 slug: "us-city-slows-ai-data-centers-over-50-percent-power-demand"
 date: 2026-09-09T08:00:00+02:00
 category: "Tech"
