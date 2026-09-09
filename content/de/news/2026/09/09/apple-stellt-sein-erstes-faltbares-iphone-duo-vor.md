@@ -1,6 +1,6 @@
 ---
-title: "Apple stellt sein erstes faltbares iPhone vor"
-slug: "apple-stellt-sein-erstes-faltbares-iphone-vor"
+title: "Apple stellt sein erstes faltbares iPhone Duo vor"
+slug: "apple-stellt-sein-erstes-faltbares-iphone-duo-vor"
 date: 2026-09-09T20:00:00+02:00
 category: "Tech"
 translationKey: "apple-iphone-duo-first-foldable-iphone-2026-09-09"
