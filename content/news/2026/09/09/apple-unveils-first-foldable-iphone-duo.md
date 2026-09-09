@@ -1,6 +1,6 @@
 ---
-title: "Apple unveils its first foldable iPhone"
-slug: "apple-unveils-first-foldable-iphone"
+title: "Apple unveils its first foldable iPhone Duo"
+slug: "apple-unveils-first-foldable-iphone-duo"
 date: 2026-09-09T20:00:00+02:00
 category: "Tech"
 translationKey: "apple-iphone-duo-first-foldable-iphone-2026-09-09"
