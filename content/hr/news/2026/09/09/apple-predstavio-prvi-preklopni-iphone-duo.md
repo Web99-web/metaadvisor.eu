@@ -1,6 +1,6 @@
 ---
-title: "Apple predstavio svoj prvi preklopni iPhone"
-slug: "apple-predstavio-prvi-preklopni-iphone"
+title: "Apple predstavio svoj prvi preklopni iPhone Duo"
+slug: "apple-predstavio-prvi-preklopni-iphone-duo"
 date: 2026-09-09T20:00:00+02:00
 category: "Tech"
 translationKey: "apple-iphone-duo-first-foldable-iphone-2026-09-09"
