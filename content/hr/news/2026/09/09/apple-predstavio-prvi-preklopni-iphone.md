@@ -24,6 +24,8 @@ summary: "Apple ulazi na tržište preklopnih telefona s iPhoneom Duo, uređajem
 
 **Apple je 9. rujna predstavio iPhone Duo, svoj prvi preklopni iPhone i jednu od najvećih promjena dizajna iPhonea od predstavljanja originalnog modela. Zatvoren ima 5,4-inčni vanjski zaslon, a otvaranjem se pretvara u uređaj sa 7,6-inčnim unutarnjim zaslonom namijenjenim multitaskingu, videu, igrama, radu s aplikacijama i Apple Intelligence funkcijama. Početna cijena u SAD-u je 1.999 dolara.**
 
+Predstavljanje iPhonea Duo bilo je i prvi veliki Appleov product event pod vodstvom **Johna Ternusa**, koji je 1. rujna preuzeo mjesto CEO-a nakon Tima Cooka. Novi direktor tako je samo nekoliko dana nakon preuzimanja kompanije predstavio jedan od najvažnijih novih Appleovih formata posljednjih godina – prvi preklopni iPhone. <a href="/hr/news/john-ternus-ceo-od-1-9-2026-vodi-apple/" target="_blank" rel="noopener">John Ternus novi CEO od 1.9.2026. vodi Apple</a>
+
 Prednarudžbe počinju 16. listopada, a prodaja 23. listopada na više od 70 tržišta. Apple će zatim 30. listopada proširiti dostupnost na dodatnih 28 zemalja i regija. iPhone Duo dolazi u bojama Star White i Night Sky te s 256 GB, 512 GB, 1 TB ili 2 TB prostora za pohranu.
 
 ## Dva zaslona, ali isti format sadržaja
