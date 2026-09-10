@@ -1,6 +1,6 @@
 ---
-title: "MetaMask se odvaja i širi izvan crypta"
-slug: "metamask-se-odvaja-i-siri-izvan-crypta"
+title: "MetaMask wallet postaje zasebna kompanija i uz kripto se širi u financije"
+slug: "metamask-wallet-odvaja-se-od-consensysa-financijska-superaplikacija"
 date: 2026-09-10T08:00:00+02:00
 category: "Crypto"
 translationKey: "metamask-consensys-split-financial-platform-2026-09-10"
@@ -20,7 +20,7 @@ summary: "MetaMask postaje samostalna kompanija dok novi Consensys preuzima Ethe
 
 *Slika je simbolična.*
 
-# Consensys se dijeli na dvije kompanije: MetaMask postaje samostalna financijska platforma
+# MetaMask postaje samostalna financijska platforma, odvaja se od Consensysa i kreće prema štednji, plaćanjima, dionicama i široj financijskoj platformi
 
 **Consensys Software Inc., Ethereum kompanija koja stoji iza MetaMaska, podijelit će se na dvije neovisne kompanije do kraja 2026., čime jedan od najpoznatijih crypto walleta prvi put postaje zaseban poslovni subjekt.** Postojeći Consensys Software Inc. preimenovat će se u MetaMask i koncentrirati na proizvode za krajnje korisnike, dok će nova kompanija koja zadržava ime Consensys preuzeti Ethereum protokole i institucionalnu blockchain infrastrukturu.
 
