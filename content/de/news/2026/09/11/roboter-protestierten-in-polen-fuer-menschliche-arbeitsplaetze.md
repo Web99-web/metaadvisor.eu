@@ -60,7 +60,7 @@ Genau diese Fragen sollen hinter dem ungewöhnlichen Bild von Robotern mit Prote
 
 Die Geschichte bekommt eine zusätzliche Portion Ironie, wenn man betrachtet, wer hinter der gesamten Aktion steht. **Grzegorz Kuliś** ist kein Gegner der Robotik, der die Technologie von außen betrachtet. Er ist gerade mit jenen Branchen verbunden, die im Zentrum der Debatte stehen.
 
-Kuliś leitet das Personalvermittlungsunternehmen **Weegree** und ist zugleich mit der Robotikbranche verbunden. Die bei der Demonstration eingesetzten Roboter kamen von **Delta Robots**, einem polnischen Unternehmen, das mit humanoiden und vierbeinigen Robotern arbeitet.
+Kuliś leitet das Personalvermittlungsunternehmen Weegree und ist zugleich mit der Robotikbranche verbunden. Die bei der Demonstration eingesetzten Roboter kamen von Delta Robots, einem polnischen Unternehmen, das mit humanoiden und vierbeinigen Robotern arbeitet.
 
 Menschen, die sich mit Robotern und Personalvermittlung beschäftigen, schickten also Roboter auf die Straße, um davor zu warnen, dass Roboter und künstliche Intelligenz die Beschäftigung grundlegend verändern können.
 
