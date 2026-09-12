@@ -18,6 +18,8 @@ description: "Rund 30 humanoide Roboter und Roboterhunde gingen in Warschau auf 
 summary: "Roboter protestierten in Warschau mit Botschaften zum Schutz menschlicher Arbeitsplätze und zur Regulierung künstlicher Intelligenz. Organisiert wurde die Aktion von Menschen, die darauf aufmerksam machen wollten, wie schnell KI, Automatisierung und Robotik den Arbeitsmarkt verändern können."
 ---
 
+*Das Bild ist symbolisch.*
+
 # Roboter gingen in Warschau auf die Straße, um Menschen vor KI zu warnen
 
 **Auf den ersten Blick wirkt die Szene wie ein Sketch aus der Zukunft: Humanoide Roboter und Roboterhunde protestieren vor einem Ministerium und fordern den Schutz von Arbeitsplätzen sowie strengere Regeln für künstliche Intelligenz. Doch genau das war der Punkt. Menschen schickten Roboter auf die Straße, um andere Menschen davor zu warnen, was passieren könnte, wenn KI und Robotisierung den Arbeitsmarkt schneller verändern, als sich die Gesellschaft anpassen kann.**
