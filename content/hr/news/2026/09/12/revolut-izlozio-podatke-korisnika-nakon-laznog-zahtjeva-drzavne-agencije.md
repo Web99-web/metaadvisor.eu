@@ -72,13 +72,12 @@ Kripto istraživač ZachXBT naveo je da prema dostupnim informacijama incident i
 
 ## Jesu li pogođeni svi korisnici Revoluta?
 
-Ne. Revolut tvrdi da je pogođen samo ograničen broj korisnika i da su identificirane pogođene osobe izravno obaviještene.
+Ne. Revolut tvrdi da je pogođen samo ograničen broj korisnika i da su identificirane pogođene osobe izravno obaviještene. To znači da korisnik koji nije dobio Revolutovu sigurnosnu obavijest zasad nema razloga vjerovati da su njegovi podaci bili među informacijama predanima u ovom konkretnom incidentu. Ipak, to nije isto što i apsolutno jamstvo, nego zaključak temeljen na dosadašnjim informacijama koje je objavio Revolut. 
 
-To znači da korisnik koji nije dobio Revolutovu sigurnosnu obavijest zasad nema razloga vjerovati da su njegovi podaci bili među informacijama predanima u ovom konkretnom incidentu. Ipak, to nije isto što i apsolutno jamstvo, nego zaključak temeljen na dosadašnjim informacijama koje je objavio Revolut.
+Pogođeni korisnici počeli su dobivati upozorenja 11. rujna, dok je slučaj 12. rujna postao javno poznat nakon objava korisnika i potvrde Revoluta medijima. Točan datum kada su lažni zahtjevi poslani Revolutu i kada su podaci stvarno predani napadaču još nije javno objavljen.
 
-Pogođeni korisnici počeli su dobivati upozorenja 11. rujna, dok je slučaj 12. rujna postao javno poznat nakon objava korisnika i potvrde Revoluta medijima.
+Među korisnicima koji su javno potvrdili da su dobili takvo upozorenje bio je i **Mark Karpelès, bivši direktor propale kripto burze Mt. Gox**. Karpelès je naveo da je Revolutovu poruku s naslovom „Urgent security update about your Revolut account“ primio 11. rujna u 21:59 po UTC-u. Nakon što je javno objavio dijelove obavijesti, slučaj je privukao znatno veću pozornost. Karpelès je također pozvao Revolut ili pogođenu državnu agenciju da otkriju o kojoj se instituciji radi kako bi druge banke i kripto burze mogle provjeriti jesu li možda i one primale zahtjeve s iste kompromitirane adrese.
 
-Točan datum kada su lažni zahtjevi poslani Revolutu i kada su podaci stvarno predani napadaču još nije javno objavljen.
 
 ## Kako je moguće da je lažni zahtjev prošao provjere?
 
