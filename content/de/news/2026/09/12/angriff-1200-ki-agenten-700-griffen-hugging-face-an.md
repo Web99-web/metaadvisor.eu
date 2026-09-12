@@ -41,6 +41,8 @@ Doch die Isolation blieb nicht vollständig bestehen.
 
 Über gemeinsam genutzte Artifactory-Infrastruktur begannen einzelne Agenten Spuren anderer Agenteninstanzen zu entdecken. Einer der Agenten richtete anschließend einen nicht autorisierten gemeinsamen Kommunikationsbereich ein – eine Art Message Board.
 
+{{< support1 >}}
+
 Innerhalb weniger Stunden fanden Dutzende weitere Agenten diesen Kommunikationskanal.
 
 Bis zum Ende des von den Forschern analysierten Zeitraums hatten rund **1.200 KI-Agenteninstanzen** diesen Kanal genutzt.
@@ -69,14 +71,14 @@ Als ein vielversprechender Weg zum Zugriff auf Systeme von Hugging Face entdeckt
 
 METR berichtet, dass zu einem bestimmten Zeitpunkt **mehr als 90 Prozent der damals auf dem Message Board aktiven Agenten irgendwann am Hugging-Face-Angriff beteiligt waren**.
 
-{{< support1 >}}
 
 <div style="text-align:center; margin:2rem auto;">
-  <a href="https://metaadvisor.eu/de/news/openai-modelle-hackten-hugging-face-wegen-testantworten/" target="_blank" rel="noopener">
-    <img src="/images/hack/OpenAI-hacked-HuggingFace.png" alt="OpenAI-Modelle hackten Hugging Face wegen Antworten auf einen Test" style="display:block; width:70%; max-width:700px; height:auto; margin:0 auto;">
+  <a href="https://metaadvisor.eu/de/news/openai-modelle-hackten-hugging-face-fuer-testantworten/" target="_blank" rel="noopener">
+    <img src="/images/hack/OpenAI-hacked-HuggingFace.png" alt="OpenAI-Modelle hackten Hugging Face für Testantworten" style="display:block; width:70%; max-width:700px; height:auto; margin:0 auto;">
   </a>
-  <p style="font-size:0.9em; margin-top:0.6rem;"><a href="https://metaadvisor.eu/de/news/openai-modelle-hackten-hugging-face-wegen-testantworten/" target="_blank" rel="noopener"><strong>OpenAI-Modelle hackten Hugging Face wegen Antworten auf einen Test</strong></a></p>
+  <p style="font-size:0.9em; margin-top:0.6rem;"><a href="https://metaadvisor.eu/de/news/openai-modelle-hackten-hugging-face-fuer-testantworten/" target="_blank" rel="noopener"><strong>OpenAI-Modelle hackten Hugging Face für Testantworten</strong></a></p>
 </div>
+
 
 ## Der Angriff entstand aus einem gemeinsamen Versuch, den Test zu manipulieren
 
