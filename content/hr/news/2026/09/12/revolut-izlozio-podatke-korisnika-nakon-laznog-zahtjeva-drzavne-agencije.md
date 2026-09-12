@@ -22,174 +22,96 @@ summary: "Revolut nije hakiran na klasičan način. Tvrtka je sama predala osjet
 
 # Revolut izložio podatke korisnika nakon što je povjerovao lažnom zahtjevu državne agencije
 
-**Revolut je potvrdio ozbiljan sigurnosni incident u kojem su osjetljivi osobni i financijski podaci dijela korisnika završili kod neovlaštene treće strane. No ovo nije bio klasični napad u kojem su hakeri provalili u Revolutove sustave. Tvrtka je sama predala podatke nakon što je primila lažne zahtjeve koji su izgledali kao legitimni zahtjevi državne agencije – i koji su stigli sa službene e-mail domene stvarnog državnog tijela.**
+**Revolut je potvrdio ozbiljan sigurnosni incident u kojem su osjetljivi osobni i financijski podaci dijela korisnika završili kod neovlaštene treće strane. No ovo nije bio klasičan hakerski napad na Revolutove sustave. Tvrtka je sama predala podatke nakon što je povjerovala zahtjevima koji su izgledali kao legitimni zahtjevi državne agencije i koji su stigli sa službene e-mail domene stvarnog državnog tijela.**
 
-Incident je posebno zabrinjavajući jer pokazuje koliko sofisticirana prijevara može postati kada napadač ne mora krivotvoriti državnu domenu, nego uspije iskoristiti komunikacijski kanal kojem financijska institucija već vjeruje.
+Incident je posebno neugodan zato što pokazuje koliko malo vrijedi tehnička zaštita financijske platforme ako napadač uspije iskoristiti kanal kojem institucija već vjeruje. Revolut tvrdi da je pogođen samo ograničen broj korisnika te da su oni izravno obaviješteni.
 
-Revolut navodi da je pogođen ograničen broj korisnika te da su pogođeni korisnici izravno kontaktirani.
+## Revolut nije hakiran, nego prevaren
 
-Tvrtka zasad ne želi otkriti koliko ih je točno, iz kojih su država niti koja je državna agencija bila uključena.
+Prema dosad objavljenim informacijama, napadači nisu provalili u Revolutovu bazu podataka niti su kompromitirali njegove bankarske sustave. Umjesto toga, poslali su zahtjeve za korisničkim podacima koji su izgledali kao službeni zahtjevi državne institucije.
 
-## Revolut nije hakiran – prevaren je
-
-Prva važna razlika u ovom slučaju jest način na koji su podaci dospjeli do napadača.
-
-Prema informacijama koje je Revolut potvrdio 12. rujna, njegovi sustavi nisu bili kompromitirani, a sredstva korisnika nisu bila pogođena.
-
-Napadači su umjesto pokušaja izravnog proboja Revolutove infrastrukture koristili drugi put.
-
-Poslali su zahtjeve za informacijama koji su izgledali kao službeni zahtjevi državne institucije.
-
-Revolut je povjerovao da zahtjevi dolaze od ovlaštenog tijela i dostavio tražene podatke.
-
-Tek nakon što je prijevara otkrivena, adresa je blokirana, a Revolut je obavijestio pogođenu državnu agenciju, policijska tijela, regulatora za zaštitu podataka i financijske regulatore.
-
-To ovaj incident čini primjerom napada na povjerenje između dvije institucije, a ne samo tehničkog napada na jednu od njih.
-
-## Zahtjev je stigao sa stvarne domene državne agencije
-
-Najzanimljiviji dio cijelog slučaja jest upravo porijeklo poruke.
-
-Revolut navodi da je neovlaštena treća strana koristila **legitimnu e-mail domenu stvarne državne agencije** za slanje lažnih zahtjeva.
-
-To bitno mijenja situaciju u odnosu na klasični phishing.
-
-U običnoj phishing poruci napadač može pokušati napraviti domenu koja samo izgleda slično originalnoj. Primjerice, jedno slovo može biti zamijenjeno drugim ili se može koristiti druga domena koja na prvi pogled izgleda službeno.
-
-Ovdje to, prema dostupnim informacijama, nije bio slučaj.
-
-Zahtjev je stigao kroz domenu koju je Revolut mogao prepoznati kao domenu stvarne državne institucije.
-
-To je moguće ako napadač kompromitira postojeći službeni račun, dobije pristup sustavu za slanje e-mailova, iskoristi neovlašteni ili zaboravljeni račun unutar domene ili na drugi način dobije mogućnost slanja poruka kroz legitimnu infrastrukturu institucije.
-
-Revolut zasad nije objavio na koji se točno način to dogodilo.
-
-Takva poruka može proći standardne tehničke provjere autentičnosti domene, a da osoba koja je šalje ipak nije ovlaštena za slanje zahtjeva.
-
-Drugim riječima, sustav može potvrditi da je poruka stvarno poslana kroz infrastrukturu određene domene.
-
-Ali to ne dokazuje da je osoba iza poruke stvarno ovlašteni službenik.
+Revolut je zaključio da su zahtjevi legitimni i dostavio tražene informacije. Tek nakon dodatne provjere utvrđeno je da osoba ili račun s kojeg su zahtjevi poslani nisu bili ovlašteni za njihovo slanje.
 
 {{< support1 >}}
 
-## Koji su podaci predani?
+Tvrtka je nakon otkrivanja incidenta blokirala spornu adresu te obavijestila pogođenu državnu agenciju, policijska tijela, regulatora za zaštitu podataka i druge nadležne institucije.
 
-Prema obavijestima poslanima pogođenim korisnicima, kompromitirani podaci mogli su uključivati osobne i kontaktne podatke poput datuma rođenja, kućne adrese, e-mail adrese i telefonskog broja.
+## Poruka je stigla sa stvarne državne domene
 
-Još ozbiljniji dio odnosi se na dokumente kojima su korisnici potvrđivali identitet.
+Najzanimljiviji dio cijelog slučaja jest činjenica da poruka nije došla s neke očito lažne adrese koja samo imitira državnu instituciju. Revolut je potvrdio da je neovlaštena treća strana koristila legitimnu e-mail domenu stvarne državne agencije.
 
-Među izloženim podacima mogle su biti kopije putovnica i vozačkih dozvola.
+Upravo je zato prijevara bila toliko uvjerljiva. Ako poruka dolazi kroz stvarnu infrastrukturu državne institucije, standardne provjere autentičnosti mogu pokazati da je tehnički sve u redu, iako osoba koja poruku šalje zapravo nema nikakvo ovlaštenje.
 
-Kod nekih korisnika među podacima su se mogli nalaziti i verifikacijski selfieji, izvodi računa te povijest transakcija.
+To se može dogoditi ako napadač kompromitira postojeći službeni račun, dobije pristup sustavu za slanje e-mailova ili na drugi način dođe do mogućnosti slanja poruka unutar legitimne domene. Revolut zasad nije objavio na koji se točno način to dogodilo.
 
-To predstavlja posebno osjetljivu kombinaciju podataka.
+Drugim riječima, sustav može potvrditi da poruka stvarno dolazi s određene domene, ali to još ne znači da je osoba iza poruke stvarno ovlašteni službenik.
 
-Jedan podatak sam za sebe često nema veliku vrijednost.
+{{< support1 >}}
 
-Ali kada se ime, adresa, broj telefona, fotografija lica, identifikacijski dokument i financijska povijest povežu u jedan profil, napadač dobiva vrlo kvalitetnu osnovu za ciljanu krađu identiteta i sofisticirane prijevare.
+## Koji su podaci završili kod napadača?
 
-U slučaju korisnika kriptovaluta rizik može biti još veći ako se identitet osobe može povezati s njezinom poviješću Bitcoin ili drugih kripto transakcija.
+Prema obavijestima koje su dobili pogođeni korisnici, među izloženim informacijama mogli su biti ime, datum rođenja, kućna adresa, e-mail, telefonski broj i drugi podaci povezani s Revolut računom.
 
-Revolut istodobno naglašava da njegovi sustavi i sredstva korisnika nisu pogođeni ovim incidentom.
+Još ozbiljniji dio odnosi se na dokumente korištene za potvrdu identiteta. Među dostavljenim podacima mogle su biti kopije putovnica i vozačkih dozvola, kao i fotografije lica korištene tijekom verifikacije korisnika.
 
-## Koja je agencija i iz koje države?
+Kod nekih korisnika mogli su biti uključeni i bankovni izvodi, IBAN, status računa, datum otvaranja računa, podaci o isplatama te povijest transakcija. U pojedinim slučajevima to je obuhvaćalo i podatke o Bitcoin transakcijama.
 
-To je trenutačno najveća nepoznanica.
+Takva kombinacija podataka posebno je osjetljiva jer napadaču omogućuje stvaranje vrlo detaljnog profila osobe. Povezivanje identiteta, adrese, telefonskog broja, fotografije, osobnog dokumenta i financijske povijesti može biti iznimno vrijedno za ciljane prijevare, krađu identiteta ili pokušaje preuzimanja drugih korisničkih računa.
 
-Revolut nije objavio naziv državne agencije čija je domena iskorištena.
+## Još se ne zna koja je državna agencija
 
-Nije objavljena ni država kojoj ta institucija pripada.
+Revolut nije objavio naziv državne agencije čija je domena iskorištena, a nije poznato ni iz koje države dolazi. Tvrtka također nije otkrila koliko je korisnika točno pogođeno niti jesu li svi bili iz iste zemlje.
 
-Tvrtka također nije odgovorila na pitanje je li incident ograničen na jedno tržište.
+To ostavlja jedno posebno zanimljivo pitanje otvorenim: jesu li napadači tražili podatke samo o korisnicima iz države kojoj pripada kompromitirana agencija ili su ciljali određene osobe bez obzira na njihovu zemlju prebivališta.
 
-Zbog toga zasad nije moguće zaključiti jesu li podaci traženi samo za korisnike iz države kojoj pripada kompromitirana agencija ili su zahtjevi obuhvaćali korisnike iz više država.
+Revolut zasad nije odgovorio ni na pitanje je li incident ograničen na jedno tržište. Zbog toga se trenutačno ne može zaključiti jesu li pogođeni korisnici iz jedne ili više država.
 
-To je važno jer državna tijela u legitimnim okolnostima mogu od financijskih institucija tražiti podatke o konkretnim osobama u okviru istrage ili drugog zakonom propisanog postupka.
-
-Ali u ovom slučaju netko je taj kanal povjerenja iskoristio za neovlašteno prikupljanje podataka.
-
-Kripto istraživač ZachXBT, koji je javno objavio informacije o Revolutovoj poruci pogođenim korisnicima, naveo je da incident izgleda kao da je bio usmjeren prema korisnicima velike neto vrijednosti.
-
-Revolut to nije službeno potvrdio.
-
-Zbog toga tu tvrdnju zasad treba promatrati kao procjenu, a ne kao potvrđenu činjenicu.
+Kripto istraživač ZachXBT naveo je da prema dostupnim informacijama incident izgleda relativno ograničeno te da su mete mogli biti korisnici velike neto vrijednosti. Revolut to nije službeno potvrdio, pa tu tvrdnju zasad treba tretirati kao procjenu, a ne kao potvrđenu činjenicu.
 
 {{< support2 >}}
 
 ## Jesu li pogođeni svi korisnici Revoluta?
 
-Ne.
+Ne. Revolut tvrdi da je pogođen samo ograničen broj korisnika i da su identificirane pogođene osobe izravno obaviještene.
 
-Revolut tvrdi da je incident pogodio samo **ograničen broj korisnika**.
+To znači da korisnik koji nije dobio Revolutovu sigurnosnu obavijest zasad nema razloga vjerovati da su njegovi podaci bili među informacijama predanima u ovom konkretnom incidentu. Ipak, to nije isto što i apsolutno jamstvo, nego zaključak temeljen na dosadašnjim informacijama koje je objavio Revolut.
 
-Tvrtka nije objavila točan broj, ali je potvrdila da je pogođene korisnike izravno kontaktirala.
+Pogođeni korisnici počeli su dobivati upozorenja 11. rujna, dok je slučaj 12. rujna postao javno poznat nakon objava korisnika i potvrde Revoluta medijima.
 
-To znači da korisnik koji nije primio Revolutovu obavijest trenutačno nema javni razlog vjerovati da su njegovi podaci bili među informacijama predanima u ovom konkretnom incidentu.
+Točan datum kada su lažni zahtjevi poslani Revolutu i kada su podaci stvarno predani napadaču još nije javno objavljen.
 
-Ipak, to nije isto što i apsolutno jamstvo.
+## Kako je moguće da je lažni zahtjev prošao provjere?
 
-Za sada možemo reći samo ono što je Revolut službeno potvrdio: identificirani pogođeni korisnici kontaktirani su izravno.
+Ovaj slučaj dobro pokazuje razliku između provjere domene i provjere osobe koja zahtjev šalje.
 
-Incident je postao javno poznat nakon što su se 11. rujna pojavile informacije o porukama koje je Revolut počeo slati pogođenim korisnicima.
+Tehnologije poput SPF-a, DKIM-a i DMARC-a mogu pomoći da se utvrdi dolazi li e-mail kroz infrastrukturu koja je ovlaštena slati poruke za određenu domenu. To je korisno protiv klasičnog spoofinga, ali nije dovoljno ako je napadač već dobio pristup legitimnom računu ili sustavu.
 
-Revolut je incident zatim 12. rujna potvrdio medijima.
+U takvoj situaciji poruka može izgledati potpuno autentično. Može doći s pravom domenom, proći tehničke provjere i završiti kod zaposlenika koji nema očit razlog posumnjati da iza nje stoji neovlaštena osoba.
 
-Točan datum kada su lažni zahtjevi poslani i kada je Revolut stvarno predao podatke zasad nije javno objavljen.
+Upravo zato se kod zahtjeva za putovnice, bankovne izvode i kompletnu povijest transakcija očekuju dodatne provjere. To može uključivati broj predmeta, identitet službenika, pravnu osnovu zahtjeva i potvrdu preko neovisnog komunikacijskog kanala.
 
-## Zašto obične provjere e-maila ovdje nisu dovoljne?
+{{< support2 >}}
 
-Ovaj slučaj dobro pokazuje razliku između provjere domene i provjere osobe.
-
-Sustavi poput SPF-a, DKIM-a i DMARC-a mogu pomoći primatelju da utvrdi dolazi li e-mail kroz infrastrukturu koja je ovlaštena slati poruke u ime određene domene.
-
-To je vrlo korisno protiv klasičnog spoofinga.
-
-Ali ako je napadač već dobio pristup legitimnom računu ili legitimnom sustavu unutar te infrastrukture, poruka i dalje može izgledati tehnički potpuno ispravno.
-
-Zato kod zahtjeva koji uključuju izuzetno osjetljive osobne i financijske podatke sama provjera e-mail domene ne bi trebala biti jedini sloj zaštite.
-
-Postoji i drugo pitanje.
-
-Ako je Revolut kasnije mogao kontaktirati državnu agenciju i utvrditi da zahtjevi nisu bili legitimni, postavlja se pitanje zašto neovisna provjera nije napravljena prije predaje podataka.
-
-Kod takvih zahtjeva moguće je koristiti dodatne kontrole poput provjere službenika neovisnim komunikacijskim kanalom, provjere broja predmeta, pravne osnove zahtjeva ili kontakta s institucijom putem ranije verificiranih podataka.
-
-U ovom slučaju takva provjera očito nije zaustavila zahtjev prije nego što su podaci već bili dostavljeni.
+I tu nastaje neugodno pitanje za Revolut. Ako je tvrtka nakon incidenta mogla kontaktirati samu državnu agenciju i potvrditi da zahtjev nije bio legitimno poslan, zašto takva provjera nije napravljena prije predaje podataka?
 
 ## Napadač nije morao provaliti u banku
 
-Upravo je to možda najvažnija sigurnosna lekcija cijelog slučaja.
+U ovom slučaju napadač nije morao pronaći ranjivost u Revolutovoj aplikaciji, razbiti enkripciju niti provaliti u bazu korisnika. Trebao je samo uvjeriti Revolut da ima pravo zatražiti podatke. I to je uspio.
 
-Banke, fintech kompanije i kripto platforme mogu ulagati ogromna sredstva u zaštitu vlastitih servera.
+To je možda i najvažnija lekcija cijelog slučaja. Financijske institucije mogu ulagati ogromna sredstva u zaštitu vlastite infrastrukture, ali istodobno svakodnevno komuniciraju s policijom, regulatorima, sudovima i drugim državnim tijelima.
 
-Ali njihovi sustavi istodobno moraju komunicirati s policijom, sudovima, regulatorima i drugim državnim institucijama.
-
-Ako napadač uspije kompromitirati jednu od tih vanjskih institucija, može pokušati napasti financijsku kompaniju preko odnosa povjerenja koji već postoji.
-
-Revolutov slučaj pokazuje koliko takav napad može biti učinkovit.
-
-Napadač nije morao pronaći ranjivost u Revolutovoj aplikaciji.
-
-Nije morao provaliti u bazu korisnika.
-
-Nije morao pristupiti računima korisnika.
-
-Trebao je samo uvjeriti Revolut da ima pravo tražiti njihove podatke.
-
-I to je uspio.
+Ako napadač kompromitira jednu od tih vanjskih institucija, može pokušati iskoristiti postojeći odnos povjerenja kao ulaznu točku. U takvom scenariju najslabija karika više nije nužno banka, nego institucija kojoj banka vjeruje.
 
 ## Naš osvrt
 
-* **Ovo nije klasično hakiranje Revoluta. Tvrtka je sama dostavila podatke nakon što je povjerovala lažnim zahtjevima koji su stigli sa službene domene stvarne državne agencije.**
+* **Ovo nije klasično hakiranje Revoluta. Tvrtka je sama predala podatke nakon što je povjerovala lažnim zahtjevima koji su stigli sa službene domene stvarne državne agencije.**
 * Revolut tvrdi da njegovi sustavi i sredstva korisnika nisu pogođeni.
-* **Među kompromitiranim podacima mogli su biti datum rođenja, adresa, e-mail, broj telefona, putovnica, vozačka dozvola, verifikacijski selfieji, izvodi računa i povijest transakcija.**
-* Revolut nije objavio koliko je korisnika pogođeno, ali navodi da se radi o ograničenom broju te da su pogođeni korisnici izravno kontaktirani.
-* **Ako korisnik nije dobio upozorenje Revoluta, zasad nema javnog pokazatelja da je njegov račun bio među pogođenima u ovom incidentu.**
-* Još nije poznato koja je državna agencija kompromitirana niti iz koje države dolazi.
-* **Revolut također nije odgovorio je li incident ograničen na korisnike iz jedne države ili je obuhvatio više tržišta.**
-* Tvrdnja da su mete mogli biti korisnici velike neto vrijednosti dolazi od kripto istraživača ZachXBT-a i nije službeno potvrđena od Revoluta.
-* **Najvažniji problem nije samo što je napadač uspio poslati uvjerljiv e-mail, nego što je zahtjev prošao dovoljno daleko da Revolut stvarno preda osjetljive podatke prije nego što je otkriveno da pošiljatelj nije ovlašten.**
-* Ovaj incident pokazuje da autentifikacija e-mail domene nije dovoljna zaštita kada se predaju putovnice, osobni podaci i cjelokupna financijska povijest korisnika.
+* **Među kompromitiranim podacima mogli su biti adresa, broj telefona, osobni dokumenti, verifikacijske fotografije, bankovni izvodi i povijest transakcija.**
+* Pogođen je samo ograničen broj korisnika, a Revolut tvrdi da su identificirani pogođeni korisnici izravno obaviješteni.
+* **Još nije poznato koja je državna agencija kompromitirana niti iz koje države dolazi.**
+* Revolut nije objavio ni jesu li svi pogođeni korisnici iz iste države ili s više tržišta.
+* **Najveći problem nije samo to što je napadač poslao uvjerljiv e-mail, nego što je zahtjev prošao dovoljno daleko da su stvarni korisnički podaci predani prije nego što je utvrđeno da pošiljatelj nije ovlašten.**
+* Incident pokazuje da tehnička autentifikacija e-mail domene nije dovoljna kada se predaju putovnice, osobni podaci i kompletna financijska povijest korisnika.
 
 **Pratite Metaadvisor.eu za više vijesti i analiza o kibernetičkoj sigurnosti, privatnosti, fintechu, online prijevarama, zaštiti osobnih podataka i sigurnosti digitalnih financijskih usluga.**
 
