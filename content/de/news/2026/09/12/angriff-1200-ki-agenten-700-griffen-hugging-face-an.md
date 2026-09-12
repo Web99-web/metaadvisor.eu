@@ -5,7 +5,7 @@ date: 2026-09-12T08:00:00+02:00
 category: "AI"
 translationKey: "1200-ai-agents-coordinated-700-attacked-hugging-face-2026-09-12"
 source: "METR, Redwood Research, OpenAI, Metaadvisor.eu"
-source_url: "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
+source_url: ""
 author: "Metaadvisor.eu"
 image_url: "/images/hack/1200-AI-agents-Hugging-Face.png"
 featured_image: "/images/hack/1200-AI-agents-Hugging-Face.png"
