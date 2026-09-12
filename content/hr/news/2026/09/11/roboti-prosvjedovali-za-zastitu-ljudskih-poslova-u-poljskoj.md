@@ -18,6 +18,8 @@ description: "Oko 30 humanoidnih robota i robotskih pasa izašlo je na ulice Var
 summary: "Roboti su u Varšavi prosvjedovali s porukama za zaštitu ljudskih radnih mjesta i regulaciju umjetne inteligencije. Akciju su organizirali ljudi kako bi upozorili koliko brzo AI, automatizacija i robotika mogu promijeniti tržište rada."
 ---
 
+*Slika je simbolična.*
+
 # Roboti su izašli na ulice Varšave kako bi upozorili ljude na AI
 
 **Na prvi pogled prizor izgleda kao skeč iz budućnosti: humanoidni roboti i robotski psi prosvjeduju ispred ministarstva tražeći zaštitu radnih mjesta i stroža pravila za umjetnu inteligenciju. Ali upravo je u tome bila poanta. Ljudi su poslali robote na ulicu kako bi upozorili druge ljude što bi se moglo dogoditi ako AI i robotizacija počnu mijenjati tržište rada brže nego što se društvo može prilagoditi.**
