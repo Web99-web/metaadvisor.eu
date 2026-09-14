@@ -24,23 +24,17 @@ summary: "Revolutov incident prerastao je u aktivnu ucjenu. Napadači navodno ob
 
 **Revolutov sigurnosni incident dobio je puno ozbiljniji nastavak. Nakon što je potvrđeno da je fintech predao osjetljive podatke dijela korisnika osobi koja se lažno predstavljala kao predstavnik državne agencije, napadači su navodno počeli javno objavljivati dio tih podataka i prijete da će svaki dan objavljivati nove dok Revolut ne plati.**
 
-Među prvim javno imenovanim osobama čiji su podaci navodno objavljeni nalaze se profesionalni tenisač Alexander Shevchenko i Felix Römer, CEO online kripto kasina Gamdom. Među objavljenim materijalima navodno su identifikacijski dokumenti i selfieji korišteni za verifikaciju identiteta.
-
-Napadači su preko Telegrama navodno poručili da će nastaviti objavljivati sve više podataka svakoga dana dok “Revolut ne plati”.
+Među prvim javno imenovanim osobama čiji su podaci navodno objavljeni nalaze se profesionalni tenisač Alexander Shevchenko i Felix Römer, CEO online kripto kasina Gamdom. Među objavljenim materijalima navodno su identifikacijski dokumenti i selfieji korišteni za verifikaciju identiteta. Napadači su preko Telegrama navodno poručili da će nastaviti objavljivati sve više podataka svakoga dana dok “Revolut ne plati”.
 
 ## Shevchenko i Römer među prvim objavljenim imenima
 
 Novi razvoj slučaja prvi put pokazuje kako podaci koje je Revolut predao mogu izgledati kada završe javno objavljeni. Prema izvještajima, među materijalima koji su se pojavili online nalaze se identifikacijski dokumenti i verification selfieji povezani s Alexanderom Shevchenkom i Felixom Römerom.
 
-Shevchenko je profesionalni tenisač, dok je Römer CEO Gamdoma, online platforme povezane s kripto kockanjem. Činjenica da se među prvim javno imenovanim osobama nalaze ljudi iz profesionalnog sporta i kripto industrije ponovno otvara pitanje jesu li napadači ciljano tražili korisnike za koje su vjerovali da raspolažu većom imovinom.
-
-To se nadovezuje na raniju procjenu blockchain istraživača ZachXBT-a da je incident možda bio usmjeren prema high-net-worth korisnicima. Revolut to zasad nije službeno potvrdio.
+Shevchenko je profesionalni tenisač, dok je Römer CEO Gamdoma, online platforme povezane s kripto kockanjem. Činjenica da se među prvim javno imenovanim osobama nalaze ljudi iz profesionalnog sporta i kripto industrije ponovno otvara pitanje jesu li napadači ciljano tražili korisnike za koje su vjerovali da raspolažu većom imovinom. To se nadovezuje na raniju procjenu blockchain istraživača ZachXBT-a da je incident možda bio usmjeren prema high-net-worth korisnicima. Revolut to zasad nije službeno potvrdio.
 
 ## Mark Karpelès već je potvrdio da je pogođen
 
-Još prije sadašnjeg objavljivanja dokumenata jedan od prvih javno poznatih pogođenih korisnika bio je Mark Karpelès, bivši CEO propale kripto burze Mt. Gox.
-
-Karpelès je javno objavio dijelove Revolutove sigurnosne obavijesti i naveo da je poruku s naslovom “Urgent security update about your Revolut account” primio 11. rujna u 21:59 po UTC-u. Upravo je njegova objava bila jedan od razloga zbog kojih je cijeli incident privukao veću pozornost kripto zajednice i medija.
+Još prije sadašnjeg objavljivanja dokumenata jedan od prvih javno poznatih pogođenih korisnika bio je Mark Karpelès, bivši CEO propale kripto burze Mt. Gox. Karpelès je javno objavio dijelove Revolutove sigurnosne obavijesti i naveo da je poruku s naslovom “Urgent security update about your Revolut account” primio 11. rujna u 21:59 po UTC-u. Upravo je njegova objava bila jedan od razloga zbog kojih je cijeli incident privukao veću pozornost kripto zajednice i medija.
 
 Važno je razlikovati dvije stvari: Karpelès je potvrdio da je pogođen originalnim incidentom, ali zasad nema pouzdane potvrde da su i njegovi osobni dokumenti javno objavljeni zajedno s podacima Shevchenka i Römera.
 
@@ -55,23 +49,15 @@ Važno je razlikovati dvije stvari: Karpelès je potvrdio da je pogođen origina
 
 ## Napadači sada pokušavaju ucijeniti Revolut
 
-Prva faza priče već je bila neuobičajena. Napadači nisu provalili u Revolutovu infrastrukturu, nego su fintech uvjerili da podatke predaje legitimnoj državnoj instituciji koristeći adresu povezanu sa stvarnom državnom domenom.
+Prva faza priče već je bila neuobičajena. Napadači nisu provalili u Revolutovu infrastrukturu, nego su fintech uvjerili da podatke predaje legitimnoj državnoj instituciji koristeći adresu povezanu sa stvarnom državnom domenom. Sada se incident očito pretvara u nešto drugo: pokušaj ucjene korištenjem stvarnih korisničkih podataka kao poluge pritiska.
 
-Sada se incident očito pretvara u nešto drugo: pokušaj ucjene korištenjem stvarnih korisničkih podataka kao poluge pritiska.
-
-Prema porukama koje se pripisuju napadačima, grupa namjerava nastaviti svakodnevno objavljivati nove podatke dok Revolut ne plati. Na Redditu se također pojavljuju tvrdnje da se podaci objavljuju “jedan po jedan” preko Telegrama te da grupa neće stati dok ne dobije novac.
-
-Te navode zasad treba razlikovati od službeno potvrđenih činjenica. Revolut još nije javno potvrdio identitet svih osoba čiji su dokumenti navodno objavljeni niti je objavio odgovor na zahtjeve za plaćanjem.
+Prema porukama koje se pripisuju napadačima, grupa namjerava nastaviti svakodnevno objavljivati nove podatke dok Revolut ne plati. **Na Redditu** se također pojavljuju tvrdnje da se podaci objavljuju “jedan po jedan” preko Telegrama te da grupa neće stati dok ne dobije novac. Te navode zasad treba razlikovati od službeno potvrđenih činjenica. Revolut još nije javno potvrdio identitet svih osoba čiji su dokumenti navodno objavljeni niti je objavio odgovor na zahtjeve za plaćanjem.
 
 ## Mađarski Reddit tvrdi da je Bitcoin možda bio filter
 
-Posebno zanimljiva rasprava pojavila se na mađarskom Redditu, gdje se tvrdi da su napadači od Revoluta tražili potpune KYC podatke korisnika koji su bili povezani s poznatim Bitcoin adresama za depozite ili isplate.
+**Posebno zanimljiva rasprava pojavila se na mađarskom Redditu**, gdje se tvrdi da su napadači od Revoluta tražili potpune KYC podatke korisnika koji su bili povezani s poznatim Bitcoin adresama za depozite ili isplate. U istoj raspravi pojavljuju se i tvrdnje da neki pogođeni korisnici već primaju ucjenjivačke poruke preko Telegrama.
 
-U istoj raspravi pojavljuju se i tvrdnje da neki pogođeni korisnici već primaju ucjenjivačke poruke preko Telegrama.
-
-Za sada nema neovisne potvrde da je Bitcoin aktivnost zaista korištena kao kriterij za odabir meta. Ako bi se to pokazalo točnim, slučaj bi dobio potpuno novu dimenziju: napadači možda nisu nasumično tražili korisničke račune, nego su preko blockchain aktivnosti pokušavali identificirati potencijalno vrijedne mete.
-
-Poznato je da su među podacima koje je Revolut naveo u obavijestima pogođenim korisnicima bile i potpune povijesti transakcija, uključujući zapise o Bitcoin transakcijama.
+Za sada nema neovisne potvrde da je Bitcoin aktivnost zaista korištena kao kriterij za odabir meta. Ako bi se to pokazalo točnim, slučaj bi dobio potpuno novu dimenziju: napadači možda nisu nasumično tražili korisničke račune, nego su preko blockchain aktivnosti pokušavali identificirati potencijalno vrijedne mete. Poznato je da su među podacima koje je Revolut naveo u obavijestima pogođenim korisnicima bile i potpune povijesti transakcija, uključujući zapise o Bitcoin transakcijama.
 
 {{< support2 >}}
 
@@ -96,19 +82,11 @@ Revolutov slučaj sada pokazuje zašto to nije samo teoretsko pitanje privatnost
 
 Revolut je ranije naveo da su među potencijalno izloženim informacijama mogli biti puno ime, datum rođenja, zanimanje, adresa, e-mail, broj telefona, kopije putovnica i vozačkih dozvola, verification selfieji, IBAN-i, bankovni izvodi, podaci o isplatama i potpuna povijest transakcija.
 
-Kombinacija tih podataka može biti izuzetno vrijedna za krađu identiteta, ciljane phishing napade, social engineering i pokušaje preuzimanja drugih računa.
-
-Kod korisnika povezanih s kriptovalutama postoji i dodatni rizik. Ako se stvarni identitet, fizička adresa i fotografija osobe mogu povezati s njezinom Bitcoin aktivnošću, posljedice više nisu ograničene samo na online prijevaru.
-
-Upravo zato potencijalno ciljanje bogatijih korisnika predstavlja posebno ozbiljan scenarij.
+Kombinacija tih podataka može biti izuzetno vrijedna za krađu identiteta, ciljane phishing napade, social engineering i pokušaje preuzimanja drugih računa. Kod korisnika povezanih s kriptovalutama postoji i dodatni rizik. Ako se stvarni identitet, fizička adresa i fotografija osobe mogu povezati s njezinom Bitcoin aktivnošću, posljedice više nisu ograničene samo na online prijevaru. Upravo zato potencijalno ciljanje bogatijih korisnika predstavlja posebno ozbiljan scenarij.
 
 ## Revolut još ne govori koliko je ljudi pogođeno
 
-Revolut i dalje navodi samo da je pogođen “ograničen broj” korisnika. Tvrtka nije objavila točan broj pogođenih ljudi, nije otkrila koja je državna agencija bila kompromitirana i nije rekla iz koje države ta agencija dolazi.
-
-Također nije potvrđeno jesu li korisnici čiji su podaci predani bili iz jedne države ili s više tržišta.
-
-Revolut tvrdi da njegovi sustavi i sredstva korisnika nisu bili kompromitirani te da su identificirani pogođeni korisnici izravno obaviješteni.
+Revolut i dalje navodi samo da je pogođen “ograničen broj” korisnika. Tvrtka nije objavila točan broj pogođenih ljudi, nije otkrila koja je državna agencija bila kompromitirana i nije rekla iz koje države ta agencija dolazi. Također nije potvrđeno jesu li korisnici čiji su podaci predani bili iz jedne države ili s više tržišta. Revolut tvrdi da njegovi sustavi i sredstva korisnika nisu bili kompromitirani te da su identificirani pogođeni korisnici izravno obaviješteni.
 
 To znači da korisnik koji nije dobio sigurnosnu obavijest zasad nema konkretan razlog vjerovati da su njegovi podaci bili među onima predanima u ovom incidentu. No kako se priča razvija, ključna će biti informacija koliko je korisničkih profila zapravo završilo kod napadača.
 
@@ -116,11 +94,7 @@ To znači da korisnik koji nije dobio sigurnosnu obavijest zasad nema konkretan 
 
 Kada je incident prvi put postao poznat, glavno pitanje bilo je kako je moguće da Revolut preda putovnice, selfieje i financijske podatke nakon zahtjeva koji je izgledao kao legitimna komunikacija državne agencije.
 
-Sada je pitanje puno ozbiljnije: koliko podataka napadači imaju, koga su točno ciljali i koliko toga namjeravaju objaviti.
-
-Ako su Shevchenko i Römer tek početak, a napadači zaista raspolažu podacima većeg broja posebno odabranih korisnika, pritisak na Revolut mogao bi tek početi.
-
-Još važnije bit će utvrditi jesu li tvrdnje iz mađarskih Reddit rasprava točne i je li Bitcoin aktivnost zaista korištena kao način pronalaska potencijalno vrijednih meta.
+Sada je pitanje puno ozbiljnije: koliko podataka napadači imaju, koga su točno ciljali i koliko toga namjeravaju objaviti. Ako su Shevchenko i Römer tek početak, a napadači zaista raspolažu podacima većeg broja posebno odabranih korisnika, pritisak na Revolut mogao bi tek početi. Još važnije bit će utvrditi jesu li tvrdnje iz mađarskih Reddit rasprava točne i je li Bitcoin aktivnost zaista korištena kao način pronalaska potencijalno vrijednih meta.
 
 Jedna stvar, međutim, više nije samo teorijska: podaci koje je Revolut predao neovlaštenoj strani više se ne smatraju samo “izloženima”. Prema novim izvještajima, barem dio tih podataka sada se aktivno objavljuje i koristi kao sredstvo pritiska na kompaniju.
 
