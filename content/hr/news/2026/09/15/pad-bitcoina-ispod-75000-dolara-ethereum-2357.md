@@ -32,7 +32,7 @@ Bitcoin se tijekom dana spustio na približno **74.914 dolara**, čime je nakrat
 
 Do večeri se pojavio prvi oporavak. Bitcoin se vratio prema 76.000 dolara, Ethereum ponovno iznad 2.400 dolara, a TAO, HYPE i SOL također su odskočili od dnevnih minimuma. Takav potez pokazuje da su se kupci pojavili nakon snažnog pada, ali još ne potvrđuje da je tržište pronašlo konačno dno.
 
-## Brent je skočio gotovo do 103 dolara
+## Nafta Brent je gotovo 103 dolara, a WTI boko 101 dolara
 
 Jedan od važnijih razloga za današnji risk-off dolazi s energetskog tržišta. Brent je tijekom dana dosegnuo približno **103 dolara po barelu**, dok je WTI bio oko **101 dolara**. 
 
