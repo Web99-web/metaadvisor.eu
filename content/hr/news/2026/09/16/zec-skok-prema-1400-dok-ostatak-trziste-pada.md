@@ -1,6 +1,6 @@
 ---
-title: "ZEC ide protiv tržišta uz rekordne futurese"
-slug: "zec-ide-protiv-trzista-rekordni-futures-promet"
+title: "ZEC šokira skokom prema 1.400 dok ostatak tržište pada"
+slug: "zec-skok-prema-1400-dok-ostatak-trziste-pada"
 date: 2026-09-16T21:00:00+02:00
 category: "Kriptovalute"
 translationKey: "zec-against-market-futures-nu7-eu-2026-09-16"
@@ -22,7 +22,7 @@ summary: "Zcash se 16. rujna snažno odvojio od BTC-a, ETH-a i SOL-a. Futures pr
 
 *Slika je simbolična.*
 
-# ZEC ide protiv cijelog tržišta: futures promet gotovo deset puta veći od spota
+# ZEC ide protiv cijelog tržišta skok na skoro 1400, dok BTC i ETH padaju: futures promet gotovo deset puta veći od spota
 
 **Dok su Bitcoin, Ethereum i velik dio crypto tržišta 16. rujna stagnirali ili bili u minusu, Zcash je krenuo u potpuno suprotnom smjeru. ZEC je tijekom dana rastao približno 18–20% i dosezao područje iznad 1.300 dolara. Još zanimljiviji od same cijene bio je odnos između trgovanja stvarnim ZEC-om i derivatima: futures promet približio se 10 milijardi dolara u 24 sata, dok je spot promet bio oko milijardu dolara.**
 
