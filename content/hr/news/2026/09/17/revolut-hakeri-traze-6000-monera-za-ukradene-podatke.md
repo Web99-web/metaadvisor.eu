@@ -80,6 +80,14 @@ Izbor Monera vjerojatno nije slučajan. Za razliku od transparentnih blockchaino
 
 Revolut, međutim, kaže da skupina kompaniju nije izravno kontaktirala i da nema pregovora. To znači da je zasad riječ o javno objavljenom ultimatumu napadača, a ne potvrđenoj komunikaciji između dvije strane.
 
+## Revolut istodobno traži bankarsku licencu u Švicarskoj
+
+Vrijeme incidenta za Revolut je dodatno osjetljivo. Kompanija je **16. rujna**, istog dana kada je novi zahtjev za otkupninom postao javan, potvrdila da je podnijela zahtjev za **švicarsku bankarsku licencu** i najavila ulaganja veća od **150 milijuna švicarskih franaka** na tom tržištu.
+
+Revolut u Švicarskoj već ima oko 1,3 milijuna korisnika, a napadači tvrde da se dio osoba koje su ciljano tražili nalazi upravo u Švicarskoj i Francuskoj, iako Revolut tu geografsku raspodjelu nije potvrdio.
+
+Tako se u istom trenutku preklapaju dvije vrlo različite priče: Revolut pokušava proširiti regulirano bankarsko poslovanje u Švicarskoj, dok istodobno mora odgovarati na pitanja o tome kako provjerava i predaje vrlo osjetljive KYC i financijske podatke na zahtjev državnih tijela. Zahtjev za licencu nije izravno povezan s incidentom, ali pitanja privatnosti i kontrole podataka regulatorima sigurno neće biti nevažna.
+
 ## Najveće pitanje više nije samo kako je kompromitiran email
 
 Talijanske vlasti sada istražuju kako je kompromitiran službeni PEC sustav i tko je dobio pristup državnom komunikacijskom kanalu. Za Revolut je, međutim, jednako važno pitanje kako su zahtjevi s mogućim nelogičnostima prolazili interne procedure tijekom više mjeseci.
