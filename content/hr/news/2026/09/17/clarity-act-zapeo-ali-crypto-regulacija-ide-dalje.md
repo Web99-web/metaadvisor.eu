@@ -40,13 +40,11 @@ Wall je pritom sam naglasio da bi takav scenarij bio vrlo težak i opisao ga kao
 
 {{< support1 >}}
 
-## Dok CLARITY zapinje, crypto porezni zakon prolazi 38 prema 5
+## Dok CLARITY zapinje, crypto porezni zakon ide dalje
 
-Samo dan nakon neuspjeha CLARITY-ja, House Ways and Means Committee napravio je veliki korak na drugom području crypto regulacije. Odbor je **16. rujna glasovima 38 prema 5** odobrio Digital Asset Tax Certainty Act, H.R. 10357, i poslao ga prema razmatranju u punom Zastupničkom domu.
+Samo dan nakon neuspjeha CLARITY-ja, House Ways and Means Committee odobrio je **Digital Asset Tax Certainty Act, H.R. 10357**, i poslao ga prema punom Zastupničkom domu. Zakon je prošao glasovima 38 prema 5, ali važnije je što pokušava uspostaviti širi porezni okvir za digitalnu imovinu.
 
-Zakon pokušava modernizirati američka porezna pravila za digitalnu imovinu. Obuhvaća porezni tretman mininga i stakinga, crypto lendinga, trgovanja, stablecoina i izvještavanja, a postojeća pravila poput wash-sale ograničenja proširuje i na digitalnu imovinu.
-
-Za svakodnevne korisnike zanimljiva je i predložena iznimka za određene blockchain network i transaction feejeve od **10 dolara ili manje**, kako sitne naknade ne bi stvarale nepotrebne porezne izračune i prijave.
+**Digital Asset Tax Certainty Act uređuje porezni tretman mininga i stakinga, crypto tradinga i lendinga, izvještavanja, mark-to-market računovodstva za određene tradere i dealere te proširuje postojeća wash-sale i druga anti-abuse pravila na digitalnu imovinu.** Predviđa i olakšice za male svakodnevne crypto transakcije i blockchain naknade, kako sitni iznosi ne bi stvarali nepotrebne porezne prijave.
 
 ## CLARITY i porezni zakon rješavaju različite probleme
 
