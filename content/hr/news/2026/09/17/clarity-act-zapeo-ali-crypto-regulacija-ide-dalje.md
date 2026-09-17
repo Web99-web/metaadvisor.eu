@@ -4,7 +4,7 @@ slug: "clarity-act-zapeo-ali-crypto-regulacija-ide-dalje"
 date: 2026-09-17T06:00:00+02:00
 category: "Kriptovalute"
 translationKey: "clarity-act-crypto-regulation-tax-sec-cftc-2026-09-17"
-source: "U.S. Senate, House Ways and Means Committee, SEC, Cointelegraph, Metaadvisor.eu"
+source: "U.S. Senate, House Ways and Means Committee, SEC, Reuters, Cointelegraph"
 source_url: ""
 author: "Metaadvisor.eu"
 image_url: "/images/Capitol-USA.png"
