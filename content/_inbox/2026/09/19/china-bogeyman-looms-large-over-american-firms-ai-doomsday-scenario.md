@@ -15,6 +15,8 @@ _build:
 
 Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanity
 
+Why China is pushing back on US warnings over rapid AI development
+
 When reporters asked Donald Trump this week if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China .
 
 “We’re leading China in AI,” Trump said. “We’re the most sophisticated country in the world, and frankly, I want to ⁠keep it that way, because whoever wins AI, wins.”
@@ -27,4 +29,4 @@ Even as Dario Amodei, Anthropic’s CEO, led an industry-wide call this week to 
 
 The AI industry’s concerns about China may come with self-serving economic incentives, but they also reflect a strain of hawkish foreign policy toward Beijing that has become entrenched in tech.
 
-In recent years, parts of Silicon Valley have positioned themselves as the vanguard in a new cold war with China, arguing fiercely that the industry’s technological advancements are essential to both US hegemony and the liberal world order. This view has taken hold across tech’s different ideological camps, creating strange bedfellows of AI safety advocates,
+In recent years, parts of Silicon Valley have positioned themselves as the vanguard in a new cold war with China, arguing fiercely that the industry’s technological advancements are essential to both US hegemony and the liberal world order. This view has taken hold across tech’s different
