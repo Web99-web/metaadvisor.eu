@@ -2,7 +2,7 @@
 title: "Gemini dionica pala 80% od IPO-a dok se vraćaju spekulacije o preuzimanju"
 slug: "gemini-dionica-pala-80-od-ipo-a-dok-se-vracaju-spekulacije-o-preuzimanju"
 date: 2026-09-21T06:00:00+02:00
-category: "Kriptovalute"
+category: "crypto"
 translationKey: "gemini-stock-down-80-ipo-takeover-speculation-2026-09-21"
 source: "CoinDesk, Gemini Investor Relations, Gemini"
 source_url: ""
