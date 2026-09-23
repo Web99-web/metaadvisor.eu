@@ -20,7 +20,7 @@ summary: "Austrija i još 12 članica EU-a traže manje novih propisa, sustavnu 
 
 *Slika je simbolična.*
 
-# Trinaest država traži pauzu od novih EU pravila
+# Austrija i još 12 država traže pauzu od novih EU pravila
 
 **Trinaest država članica Europske unije traži od Bruxellesa snažnije ograničavanje novih regulatornih obveza i temeljitu provjeru postojećeg zakonodavstva. Austrija, Češka, Danska, Njemačka, Estonija, Mađarska, Italija, Latvija, Litva, Poljska, Portugal, Slovenija i Slovačka potpisale su zajednički non-paper kojim predlažu svojevrsno dubinsko čišćenje europskih propisa i razdoblje provedbe i konsolidacije postojećih pravila.**
 
@@ -38,11 +38,9 @@ To otvara važno pitanje: **ako se deseci milijardi eura mogu uštedjeti samo uk
 
 ## Trošak nije samo porez, trošak je i svaka nova prilagodba
 
-Kada se govori o poslovnom opterećenju, rasprava se često svodi na porezne stope, doprinose i naknade. Međutim, postoji i drugi trošak koji se puno teže vidi u službenim statistikama.
+Kada se govori o poslovnom opterećenju, rasprava se često svodi na porezne stope, doprinose i naknade. Međutim, postoji i drugi trošak koji se puno teže vidi u službenim statistikama. **Institucija donese novu obvezu, ali trošak njezine provedbe u pravilu ostaje onome tko je mora provesti.**
 
 Svaka promjena zakona ili poreznog propisa zahtijeva vrijeme i prilagodbu. Poduzetnik mora saznati što se promijenilo, utvrditi odnosi li se novo pravilo na njegovo poslovanje, promijeniti proceduru, računovodstveni program, cjenik, ugovor, obrazac ili način izvještavanja. Ponekad mora angažirati računovođu, poreznog savjetnika, odvjetnika ili IT stručnjaka. Ponekad mora platiti novu verziju programa ili dodatnu nadogradnju samo zato što se promijenio propis.
-
-**Institucija donese novu obvezu, ali trošak njezine provedbe u pravilu ostaje onome tko je mora provesti.**
 
 Za veliku kompaniju s vlastitim pravnim, poreznim i IT odjelima takva promjena može biti još jedan projekt. Za vlasnika malog obrta ili tvrtke ista promjena često znači sate, dane ili tjedne tijekom kojih se ne bavi kupcima, razvojem proizvoda ili prodajom, nego pokušava razumjeti novu verziju propisa.
 
