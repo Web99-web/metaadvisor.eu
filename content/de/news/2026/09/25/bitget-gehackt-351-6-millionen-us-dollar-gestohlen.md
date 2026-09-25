@@ -129,17 +129,11 @@ Deshalb wird der endgültige Incident Report von Bitget nicht nur für Nutzer di
 ## Unsere Einschätzung
 
 * **351,6 Millionen US-Dollar machen diesen Vorfall zu einem der größten Kryptoangriffe des Jahres.** Allein die Höhe des Schadens verleiht dem Fall größere Bedeutung für die Sicherheit zentralisierter Börsen.
-
 * **Besonders auffällig sind mehr als 100 Millionen gestohlene XRP.** XRP war der größte einzelne Teil der Beute, und die enorme Menge in den kompromittierten Wallets fällt deutlich auf.
-
 * **Bislang gibt es keine Belege dafür, dass XRP gezielt angegriffen wurde.** Die wahrscheinlichere Erklärung bleibt, dass die Angreifer jene Vermögenswerte abzogen, die in den betroffenen Wallets verfügbar waren.
-
 * **Das technisch wichtigste Detail könnte sein, dass die privaten Schlüssel offenbar nicht gestohlen wurden.** Sollte das System kompromittiert worden sein, das Transfers erzeugt oder autorisiert, würde dies auf ein ernstes Problem in der Sicherheitsarchitektur hinweisen.
-
 * **Cold Wallets sind laut Bitget nicht betroffen.** Das ist ein entscheidender Unterschied zwischen einem großen Sicherheitsvorfall und einem potenziell noch schwerwiegenderen Szenario, in dem ein Großteil der Vermögenswerte der Börse gefährdet wäre.
-
 * **Das Einfrieren der Stablecoins hat bislang nur einen kleinen Teil der Mittel gesichert.** Circle und Tether können bestimmte Token blockieren, ein großer Teil der XRP-, ETH- und anderen Bestände lässt sich jedoch nicht auf dieselbe Weise stoppen.
-
 * **Eine Verbindung zu Nordkorea ist noch nicht bestätigt.** Die Muster des Angriffs ähneln laut Bitget früheren nordkoreanischen Operationen, doch eine endgültige Zuordnung steht noch aus.
 
 **Folgen Sie Metaadvisor.eu für weitere Nachrichten und Analysen zu künstlicher Intelligenz, Technologie, digitalen Tools, Finanzmärkten und globalen Technologietrends.**
