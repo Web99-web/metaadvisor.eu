@@ -2,7 +2,7 @@
 title: "Bitget hakiran: ukradeno 351,6 milijuna dolara"
 slug: "bitget-hakiran-ukradeno-351-6-milijuna-dolara"
 date: 2026-09-25T17:00:00+02:00
-category: "news"
+category: "crypto"
 translationKey: "b7f42d915ce84a1aa9e7f3d65c92804b"
 source: "Bitget, Reuters, CoinDesk, BleepingComputer, The Hacker News, SlowMist"
 source_url: ""
