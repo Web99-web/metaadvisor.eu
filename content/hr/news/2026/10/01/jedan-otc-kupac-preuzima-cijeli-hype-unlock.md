@@ -1,6 +1,6 @@
 ---
 title: "Jedan OTC kupac preuzima cijeli HYPE unlock"
-slug: "jedan-otc-kupac-preuzima-cijeli-hype-unlock""
+slug: "jedan-otc-kupac-preuzima-cijeli-hype-unlock"
 date: 2026-10-01T00:05:00+02:00
 category: "news"
 translationKey: "hype-329m-unlock-one-otc-buyer-2026"
