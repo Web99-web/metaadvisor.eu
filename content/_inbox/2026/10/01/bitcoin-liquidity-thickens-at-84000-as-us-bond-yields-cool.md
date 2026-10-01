@@ -5,7 +5,7 @@ category: "crypto"
 translationKey: "dceddb4f55fdcdfd48fca90469cb550f"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3V3AAFNW5YNB2QD9324SBKH/bitcoin-price-market-2.jpg"
+image_url: "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VDHKSR470RG70DY6MAWY1T/money-dollar-calculator-inflation-1280x854.webp"
 tags: ["crypto", "bitcoin"]
 _build:
   publishResources: false
