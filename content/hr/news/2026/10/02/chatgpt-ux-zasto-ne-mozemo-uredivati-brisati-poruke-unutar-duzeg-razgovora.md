@@ -30,7 +30,7 @@ OpenAI u službenom Help Centeru objašnjava kako izbrisati ili arhivirati cijel
 
 Zamislimo jednostavan primjer. Radite na poslovnom zadatku i već imate dugi razgovor s ChatGPT-om u kojem razvijate web stranicu, analizirate dokumente i dogovarate poslovna rješenja. U jednom trenutku primijetite da vam mačka stalno kašlje i želite o tome pitati ChatGPT, ali slučajno fotografiju mačke pošaljete u postojeći poslovni razgovor. Isto se može dogoditi sa screenshotom, dokumentom ili bilo kojim drugim sadržajem koji pripada potpuno drugom zadatku.
 
-Tu sliku mačke ili drugi pogrešno poslani sadržaj više ne možete jednostavno ukloniti iz tog razgovora. Poruka možda nema nikakvu vrijednost za nastavak rada, ali ostaje kao crna mrlja u važnom poslovnom chatu. Ako vam je razgovor važan zbog desetaka prethodnih odluka, analiza, uploadanih dokumenata i konteksta, brisanje cijelog razgovora nije realno rješenje — niti opcija koju biste željeli koristiti.
+Tu sliku mačke ili drugi pogrešno poslani sadržaj više ne možete jednostavno ukloniti iz tog razgovora. Poruka možda nema nikakvu vrijednost za nastavak rada, ali ostaje kao crna mrlja u važnom poslovnom chatu. Ako vam je razgovor važan zbog desetaka prethodnih odluka, analiza, uploadanih dokumenata i konteksta, brisanje cijelog razgovora nije realno rješenje - niti opcija koju biste željeli koristiti.
 
 ## Problem nije samo brisanje nego i ispravak
 
