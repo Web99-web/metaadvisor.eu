@@ -133,6 +133,6 @@ Ne mora svaka od tih opcija biti tehnički jednostavna za implementaciju. Odgovo
 
 **Pratite Metaadvisor.eu za više vijesti i analiza o umjetnoj inteligenciji, tehnologiji, digitalnim alatima, financijskim tržištima i globalnim tehnološkim trendovima.**
 
-**Disclaimer:** Ovaj članak predstavlja UX analizu i prijedlog funkcionalnosti na temelju trenutačno dostupnih ChatGPT kontrola i službene OpenAI dokumentacije. Dostupnost pojedinih kontrola može se razlikovati ovisno o platformi, verziji proizvoda ili korisničkom sučelju, a funkcije se mogu mijenjati tijekom daljnjeg razvoja.
+**Disclaimer:** Ovaj članak predstavlja UX analizu i prijedlog funkcionalnosti na temelju trenutačno dostupnih ChatGPT kontrola i službene OpenAI dokumentacije dostupne 2. listopada 2026. Dostupnost pojedinih kontrola može se razlikovati ovisno o platformi, verziji proizvoda ili korisničkom sučelju, a funkcije se mogu mijenjati tijekom daljnjeg razvoja.
 
 <small style="color:#999; font-size:0.8em;">U suradnji s AI-jem.</small>
