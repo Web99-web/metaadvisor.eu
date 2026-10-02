@@ -34,19 +34,19 @@ Dieses Katzenfoto oder einen anderen versehentlich gesendeten Inhalt können Sie
 
 ## Das Problem ist nicht nur das Löschen, sondern auch das Korrigieren
 
-Manchmal gehört die Nachricht sehr wohl zum richtigen Thema. Das Problem kann lediglich ein Tippfehler, eine Zahl oder ein fehlendes Komma sein.
+Manchmal gehört die Nachricht sehr wohl zum richtigen Thema. Das Problem kann lediglich ein Tippfehler, eine Zahl oder eine zusätzliche beziehungsweise fehlende Null sein.
 
 Der Unterschied zwischen:
 
-`Wir essen, Kinder.`
+`Das Budget beträgt 50.000 $.`
 
 und:
 
-`Wir essen Kinder.`
+`Das Budget beträgt 500.000 $.`
 
-ist enorm. Ein einziges Komma kann die Bedeutung einer Nachricht vollständig verändern. Wenn der Nutzer den Fehler unmittelbar nach dem Absenden bemerkt, wäre es nur logisch, die Nachricht einfach korrigieren zu können, bevor ein falsch verstandener Inhalt den weiteren Gesprächsverlauf beeinflusst.
+ist erheblich. Eine einzige zusätzliche Null kann die Bedeutung einer Nachricht vollständig verändern und dazu führen, dass die weitere Analyse, Kalkulation oder Empfehlung auf einer völlig falschen Grundlage erfolgt. Wenn der Nutzer den Fehler unmittelbar nach dem Absenden bemerkt, wäre es nur logisch, die Nachricht einfach korrigieren zu können, bevor die falsche Zahl den weiteren Gesprächsverlauf beeinflusst.
 
-ChatGPT kann aus dem größeren Kontext oft erschließen, was der Nutzer wahrscheinlich gemeint hat. Das ist jedoch nicht dasselbe wie dem Nutzer die Kontrolle über seine eigene Nachricht zu geben.
+ChatGPT kann aus dem größeren Kontext manchmal erkennen, dass eine Zahl wahrscheinlich nicht stimmen kann. Darauf sollte sich der Nutzer bei geschäftlichen Angaben jedoch nicht verlassen müssen. Die Möglichkeit, die eigene Nachricht direkt zu korrigieren, wäre deutlich präziser.
 
 ## Erste Option: Edit message
 
