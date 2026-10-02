@@ -24,15 +24,12 @@ summary: "ChatGPT i dalje omogućuje brisanje ili arhiviranje cijelih razgovora,
 
 **ChatGPT danas omogućuje brisanje cijelog razgovora, ali ako usred dugog chata slučajno pošaljete pogrešnu sliku, dokument ili pitanje, ne postoji jednostavna opcija kojom biste uklonili samo tu jednu poruku. Za razgovore koji se koriste satima, danima ili tjednima, to postaje puno veći UX problem nego što na prvi pogled izgleda.**
 
-OpenAI u službenom Help Centeru objašnjava kako izbrisati ili arhivirati cijeli razgovor. Izbrisani chat odmah nestaje iz korisničkog prikaza i predviđen je za trajno brisanje iz sustava u roku od 30 dana, uz navedene sigurnosne i pravne iznimke. Arhiviranje samo uklanja razgovor iz glavne bočne trake i čuva ga na računu. Trenutačna dokumentacija, međutim, ne navodi mogućnost brisanja jedne poruke iz postojećeg razgovora. :chatgpt-content-reference{index="1"}
+OpenAI u službenom Help Centeru objašnjava kako izbrisati ili arhivirati cijeli razgovor. Izbrisani chat odmah nestaje iz korisničkog prikaza i predviđen je za trajno brisanje iz sustava u roku od 30 dana, uz navedene sigurnosne i pravne iznimke. Arhiviranje samo uklanja razgovor iz glavne bočne trake i čuva ga na računu. Trenutačna dokumentacija, međutim, ne navodi mogućnost brisanja jedne poruke iz postojećeg razgovora. 
 
 ## Jedna pogrešna poruka može ostati u vrlo važnom razgovoru
+Zamislimo jednostavan primjer. Radite na poslovnom zadatku i već imate dugi razgovor s ChatGPT-om u kojem razvijate web stranicu, analizirate dokumente i dogovarate poslovna rješenja. U jednom trenutku primijetite da vam mačka stalno kašlje i želite o tome pitati ChatGPT, ali slučajno fotografiju mačke pošaljete u postojeći poslovni razgovor. Isto se može dogoditi sa screenshotom, dokumentom ili bilo kojim drugim sadržajem koji pripada potpuno drugom zadatku.
 
-Zamislimo jednostavan primjer. U dugom poslovnom razgovoru radite na web stranici, analizirate dokumente i razvijate projekt, a onda slučajno ubacite fotografiju mačke, pogrešan screenshot ili dokument koji pripada potpuno drugom zadatku.
-
-Takva poruka možda nema nikakvu vrijednost za nastavak rada, ali ostaje dio razgovora. Ako vam je taj chat važan zbog desetaka prethodnih odluka, analiza, uploadanih dokumenata i konteksta, brisanje cijelog razgovora nije realno rješenje.
-
-Problem postaje još vidljiviji kada se jedan razgovor koristi kao radni prostor kroz dulje razdoblje. Svaka nepotrebna poruka povećava količinu sadržaja kroz koji korisnik mora prolaziti i može otežati kasnije pronalaženje važnih dijelova.
+Tu sliku mačke ili drugi pogrešno poslani sadržaj više ne možete jednostavno izbrisati iz tog razgovora. Poruka možda nema nikakvu vrijednost za nastavak rada, ali ostaje kao crna mrlja u važnom poslovnom chatu. Ako vam je razgovor važan zbog desetaka prethodnih odluka, analiza, uploadanih dokumenata i konteksta, brisanje cijelog razgovora nije realno rješenje — niti opcija koju biste željeli koristiti.
 
 ## Zašto ne postoji Delete message?
 
@@ -90,7 +87,7 @@ Brisanje cijelog razgovora dovoljno je kada je chat nevažan. Za razgovor koji j
 
 ## Brisanje cijelog razgovora već postoji
 
-OpenAI trenutno nudi jasne kontrole za brisanje i arhiviranje cijelog razgovora. Chat se može ukloniti iz povijesti, arhivirati kako bi ostao spremljen bez prikaza u glavnoj bočnoj traci ili se svi razgovori mogu skupno arhivirati ili izbrisati. :chatgpt-content-reference{index="2"}
+OpenAI trenutno nudi jasne kontrole za brisanje i arhiviranje cijelog razgovora. Chat se može ukloniti iz povijesti, arhivirati kako bi ostao spremljen bez prikaza u glavnoj bočnoj traci ili se svi razgovori mogu skupno arhivirati ili izbrisati. 
 
 To rješava problem upravljanja cijelim razgovorima, ali ne i upravljanja sadržajem unutar jednog važnog razgovora.
 
