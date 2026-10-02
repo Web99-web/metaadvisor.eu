@@ -54,7 +54,7 @@ Najjednostavnija kontrola za ovakve situacije bila bi:
 
 `⋯ → Edit message`
 
-Korisnik bi mogao ispraviti tipfeler, broj, datum, zarez ili pogrešno napisanu riječ bez slanja dodatne poruke poput “ispravak”, “mislila sam...” ili “zaboravio sam zarez”.
+Korisnik bi mogao ispraviti tipfeler, broj, datum, zarez ili pogrešno napisanu riječ bez slanja dodatne poruke poput “ispravak”, “mislio sam...” ili “zaboravio sam zarez”.
 
 Ako su kasniji odgovori već nastali na temelju stare verzije poruke, ChatGPT bi mogao jasno upozoriti da izmjena može utjecati na razumljivost nastavka razgovora ili ponuditi stvaranje nove grane od uređene poruke.
 
