@@ -24,7 +24,7 @@ summary: "Jedan tipfeler, zaboravljeni zarez ili pogrešno poslana slika mogu pr
 
 **ChatGPT danas omogućuje brisanje cijelog razgovora, ali ako usred dugog chata slučajno pošaljete pogrešnu sliku, dokument ili poruku s greškom, nemate jednostavnu kontrolu kojom biste tu jednu poruku naknadno ispravili ili uklonili. Kod razgovora koji se koriste satima, danima ili tjednima, to postaje puno veći UX problem nego što na prvi pogled izgleda.**
 
-OpenAI u službenom Help Centeru objašnjava kako izbrisati ili arhivirati cijeli razgovor. Izbrisani chat odmah nestaje iz korisničkog prikaza i predviđen je za trajno brisanje iz sustava u roku od 30 dana, uz navedene sigurnosne i pravne iznimke. Arhiviranje uklanja razgovor iz glavne bočne trake, ali ga čuva na računu. Trenutačna dokumentacija opisuje kontrole na razini cijelog razgovora, ali ne navodi zasebno brisanje jedne poruke unutar postojećeg chata. :chatgpt-content-reference{index="0"}
+OpenAI u službenom Help Centeru objašnjava kako izbrisati ili arhivirati cijeli razgovor. Izbrisani chat odmah nestaje iz korisničkog prikaza i predviđen je za trajno brisanje iz sustava u roku od 30 dana, uz navedene sigurnosne i pravne iznimke. Arhiviranje uklanja razgovor iz glavne bočne trake, ali ga čuva na računu. Trenutačna dokumentacija opisuje kontrole na razini cijelog razgovora, ali ne navodi zasebno brisanje jedne poruke unutar postojećeg chata. 
 
 ## Jedna pogrešna poruka može ostati u vrlo važnom razgovoru
 
