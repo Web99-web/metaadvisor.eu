@@ -104,21 +104,10 @@ Ali u dugim radnim chatovima takve korekcije stvaraju dodatni sloj nereda. Umjes
 
 ## Chatovi sve više postaju radni prostori
 
-Ovakve kontrole postaju važnije kako se način korištenja ChatGPT-a mijenja. Razgovor više nije nužno nekoliko pitanja i odgovora koje korisnik zatvori nakon pet minuta.
+Ovakve kontrole postaju važnije kako se način korištenja ChatGPT-a mijenja. Razgovor više nije nužno nekoliko pitanja i odgovora koje korisnik zatvori nakon pet minuta. Jedan chat može sadržavati istraživanje, kod, slike, PDF dokumente, poslovne odluke, podatke iz više izvora i desetke iteracija istog projekta, pa što razgovori postaju duži i važniji, to raste potreba za preciznijim alatima za upravljanje njihovim sadržajem.
 
-Jedan chat može sadržavati istraživanje, kod, slike, PDF dokumente, poslovne odluke, podatke iz više izvora i desetke iteracija istog projekta. Što razgovori postaju duži i važniji, to raste potreba za osnovnim alatima za upravljanje njihovim sadržajem.
-
-Brisanje cijelog razgovora dovoljno je kada je chat nevažan. Za razgovor koji je postao radni prostor to je vrlo gruba kontrola.
-
-{{< support2 >}}
-
-## Brisanje cijelog razgovora već postoji
-
-OpenAI trenutno nudi jasne kontrole za brisanje i arhiviranje cijelog razgovora. Chat se može ukloniti iz povijesti, arhivirati kako bi ostao spremljen bez prikaza u glavnoj bočnoj traci ili se svi razgovori mogu skupno arhivirati ili izbrisati. :chatgpt-content-reference{index="1"}
-
-To rješava problem upravljanja cijelim razgovorima, ali ne i upravljanja sadržajem unutar jednog važnog razgovora.
-
-Upravo tu postoji UX praznina: razina kontrole ide od cijelog chata do vrlo malo mogućnosti nad jednom pojedinačnom već poslanom porukom.
+OpenAI već nudi jasne kontrole za brisanje i arhiviranje cijelog razgovora. Chat se može ukloniti iz povijesti, arhivirati kako bi ostao spremljen bez prikaza u glavnoj bočnoj traci ili se svi razgovori mogu skupno arhivirati ili izbrisati. To dobro rješava upravljanje cijelim razgovorima, ali ne i sadržajem unutar jednog važnog chata.
+Brisanje cijelog razgovora ima smisla kada je chat nevažan. Za važan razgovor koji je postao pravi radni prostor, brisanje cijele povijesti samo zbog jedne pogrešne poruke vrlo je gruba kontrola i velika smetnja. Upravo tu postoji UX praznina: između upravljanja cijelim chatom i upravljanja jednom već poslanom porukom trenutačno postoji vrlo malo mogućnosti.
 
 ## Kako bi idealna kontrola mogla izgledati?
 
