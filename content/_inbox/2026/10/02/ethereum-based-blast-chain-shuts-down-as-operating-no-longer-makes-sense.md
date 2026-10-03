@@ -27,4 +27,4 @@ Its demise points to a broader shakeout among blockchain networks.
 
 Running a chain means paying for development, infrastructure and security even after user activity dries up. A recent wave of crypto exploits has drawn additional attention to security spending, while AI tools may also make it easier for attackers to probe code for weaknesses.
 
-Large consumer platforms with built-in distribution have launched their own Ethereum-based networks. Crypto exchange Coinbase COIN $182.13 rolled out Base and has turned its exchange users and developer ecosystem into a source of
+Large consumer platforms with built-in distribution have launched their own Ethereum-based networks. Crypto exchange Coinbase COIN $182.95 · Market Closed rolled out Base and has turned its exchange users and developer ecosystem into
