@@ -95,3 +95,5 @@ To ne znači da sredstva postaju potpuno nevidljiva, ali znači da praćenje pos
 **Pratite Metaadvisor.eu za više vijesti i analiza o umjetnoj inteligenciji, tehnologiji, digitalnim alatima, financijskim tržištima i globalnim tehnološkim trendovima.**
 
 **Disclaimer:** Ovaj članak služi isključivo u informativne svrhe i ne predstavlja financijski, investicijski ili pravni savjet. Kripto imovina i decentralizirane financije nose visok rizik, a opisani događaji i stavovi pojedinih projekata mogu se dodatno mijenjati kako se budu pojavljivale nove informacije.
+
+<small style="color:#999; font-size:0.8em;">U suradnji s AI-jem.</small>
