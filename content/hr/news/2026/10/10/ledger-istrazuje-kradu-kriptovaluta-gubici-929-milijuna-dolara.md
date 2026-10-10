@@ -1,4 +1,3 @@
-
 ---
 title: "Ledger istražuje krađu kriptovaluta: procjene gubitaka dosežu 92,9 milijuna dolara"
 slug: "ledger-istrazuje-kradu-kriptovaluta-gubici-929-milijuna-dolara"
