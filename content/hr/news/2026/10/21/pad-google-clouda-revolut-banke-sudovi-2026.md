@@ -1,5 +1,5 @@
 ---
-title: "Pad Google Clouda paralizirao Revolut i banke"
+title: "Pad Google Clouda paralizirao Revolut i banke u Europi"
 slug: "pad-google-clouda-revolut-banke-sudovi-2026"
 date: 2026-10-21T09:00:00+02:00
 category: "technology"
