@@ -1,58 +1,98 @@
 ---
-title: "GLOBAL MARKET WATCH — Bitcoin jača, Azija slabi"
-slug: "global-market-watch-bitcoin-jaca-azija-slabi-2026"
+title: "GLOBAL MARKET WATCH: Bitcoin jača, AI dionice padaju"
+slug: "global-market-watch-bitcoin-etf-azija-ai-pad-2026"
 date: 2026-10-22T08:00:00+02:00
 category: "finance"
 translationKey: "global-market-watch-2026-10-22"
-source: "Farside Investors, Reuters, AP, CoinGecko, tržišni podaci"
+source: "Farside Investors, Reuters, Associated Press, CoinGecko, tržišni podaci"
 source_url: ""
 author: "Metaadvisor.eu"
 image_url: "/images/daily-charts/Market-focus.png"
 featured_image: "/images/daily-charts/Market-focus.png"
 image: "/images/daily-charts/Market-focus.png"
 thumbnail: "/images/daily-charts/Market-focus.png"
-image_alt: "Global Market Watch pregled: Bitcoin ETF priljevi jačaju, dok azijski poluvodiči i tehnološke dionice ponovno padaju."
+image_alt: "Simbolična ilustracija globalnih financijskih tržišta, snažnih priljeva u Bitcoin ETF-ove i pada azijskih tehnoloških dionica."
 image_credit: "Metaadvisor.eu"
-tags: ["Global Market Watch", "Bitcoin ETF", "Ethereum ETF", "Crypto", "AI", "Semiconductors", "Nasdaq", "KOSPI", "Nikkei", "Brent", "Markets", "Technology", "Investing", "Finance", "Metaadvisor"]
-description: "Bitcoin ETF-ovi snažno su ojačali, Ethereum ETF-ovi vratili su se u plus, ali azijski poluvodiči i tehnološke dionice ponovno su pod pritiskom."
-summary: "Američki Bitcoin ETF-ovi 21. listopada privukli su 524,8 milijuna dolara neto priljeva, dok su Ethereum ETF-ovi ponovno prešli u plus. Istodobno, azijska tržišta 22. listopada bilježe izražen pad, osobito u sektoru poluvodiča i tehnologije. Brent se drži iznad 110 dolara, a tržišta i dalje šalju mješovite signale o tome je li globalni risk-on doista započeo."
+tags: ["Global Market Watch", "Bitcoin", "Bitcoin ETF", "Ethereum", "Ethereum ETF", "Cryptocurrency", "Artificial Intelligence", "AI", "Semiconductors", "Nasdaq", "KOSPI", "Nikkei", "Hang Seng", "Brent Oil", "Federal Reserve", "Stock Market", "Financial Markets", "Technology", "Investing"]
+description: "Bitcoin ETF-ovi privukli su 524,8 milijuna dolara, ali azijske AI i poluvodičke dionice ponovno padaju. Brent iznad 110 dolara povećava rizike."
+summary: "Američki Bitcoin ETF-ovi 21. listopada 2026. privukli su 524,8 milijuna dolara neto priljeva, dok su Ethereum ETF-ovi ponovno završili u plusu. Istodobno, azijska tržišta 22. listopada bilježe snažan pad, posebno u sektoru poluvodiča. Visoke cijene nafte i geopolitički rizici dodatno povećavaju neizvjesnost, dok globalni oporavak rizične imovine još nema jasnu potvrdu."
 ---
 
 *Slika je simbolična.*
 
-# Bitcoin privlači kapital, ali azijski tehnološki sektor ponovno pada
+# GLOBAL MARKET WATCH: Bitcoin privlači milijune, AI dionice ponovno padaju
 
-**Američki Bitcoin ETF-ovi 21. listopada privukli su 524,8 milijuna dolara neto priljeva, Ethereum ETF-ovi ponovno su završili u plusu, a Nasdaq je zatvorio trgovanje s rastom od 1,05%. Međutim, optimizam se nije ravnomjerno proširio na globalna tržišta. Azijski proizvođači poluvodiča i tehnološke dionice 22. listopada ponovno su pod snažnim pritiskom, dok Brent ostaje iznad 110 dolara. Tržišta tako šalju mješovitu poruku: institucionalni interes za pojedine rizične klase imovine raste, ali širi globalni risk-on još nije potvrđen.**
+**Američki Bitcoin ETF-ovi 21. listopada privukli su 524,8 milijuna dolara novog kapitala, Ethereum ETF-ovi prekinuli su niz odljeva, a Nasdaq je završio trgovanje u plusu. Međutim, optimizam nije potrajao na svim tržištima. Azijski proizvođači poluvodiča 22. listopada ponovno bilježe snažne padove, dok se nafta Brent kreće iznad 110 dolara zbog eskalacije napetosti u Perzijskom zaljevu. Globalna tržišta tako šalju proturječne signale: institucionalni kapital vraća se u pojedine rizične instrumente, ali zabrinutost zbog AI ulaganja, inflacije i geopolitičkih rizika i dalje ograničava oporavak.**
 
-Najvažniji pozitivan signal dolazi iz američkih spot ETF-ova vezanih uz kriptotržište. Prema najnovijem završenom dnevnom presjeku, Bitcoin ETF-ovi zabilježili su snažan skok priljeva, s 23,2 milijuna dolara dan ranije na 524,8 milijuna dolara. Ethereum ETF-ovi istodobno su zabilježili 14,9 milijuna dolara neto priljeva, čime su prekinuli niz negativnih dnevnih tokova. To pokazuje da se institucionalna potražnja za vodećim kriptoimovinama poboljšala, iako cijene samih tokena zasad ne prate taj optimizam istim intenzitetom.
+Globalna financijska tržišta ulaze u završnicu listopada uz sve izraženije razlike između pojedinih sektora. Nakon pozitivnog zatvaranja američkih burzi 21. listopada, investitori su očekivali nastavak oporavka tehnoloških dionica, no azijska trgovanja tijekom četvrtka pokazala su da povjerenje još nije stabilno. Istodobno, Bitcoin ETF-ovi bilježe snažan povratak institucionalnih priljeva, dok većina altcoina ne pokazuje jednaku snagu. Dodatni pritisak stvaraju rast cijena energije i nova sigurnosna upozorenja iz Perzijskog zaljeva.
 
-Bitcoin se u jutarnjem presjeku kreće oko 82.777 dolara, a Ethereum oko 2.438 dolara, uz male dnevne promjene. Šire kriptotržište pritom ostaje neujednačeno. TAO, AAVE i HYPE pokazuju slabost, dok ZEC zadržava relativnu snagu. PEPE je nakon jučerašnjeg jačeg pomaka usporio, što sugerira da Ethereum zasad ne potvrđuje novi val šireg meme momentuma. Zato se poboljšanje ETF tokova trenutačno može promatrati više kao pozitivan institucionalni signal nego kao potvrda punog oporavka cijelog kriptosektora.
+## Bitcoin ETF-ovi privukli više od pola milijarde dolara
 
-S druge strane, jutrošnje trgovanje u Aziji donijelo je izražen risk-off u tehnološkom sektoru. KOSPI je pao oko 2,6%, Nikkei oko 1,6%, a Hang Seng približno 2,7%. Pad nije ostao na indeksima. Samsung je bio niži oko 3,9%, SK Hynix oko 4,7%, Tokyo Electron oko 5,9%, a SoftBank oko 5,6%. Takvo kretanje posebno je važno jer dolazi neposredno nakon pozitivnog zatvaranja američkog tehnološkog sektora i pokazuje da globalni oporavak AI i semiconductor segmenta još nema stabilnu potvrdu.
+Prema podacima Farside Investorsa, američki spot Bitcoin ETF-ovi 21. listopada ostvarili su neto priljev od 524,8 milijuna dolara, nakon samo 23,2 milijuna dolara prethodnog trgovinskog dana. Najveći doprinos stigao je iz BlackRockova fonda IBIT, koji je privukao 235 milijuna dolara, te Fidelityjeva FBTC-a s dodatnih 212,7 milijuna dolara.
 
-Glavna zabrinutost i dalje ostaje ista: tržište sve intenzivnije preispituje koliko će ulaganja u AI infrastrukturu, podatkovne centre i povezane tehnološke projekte biti održiva uz današnje troškove kapitala. Pozitivni poslovni rezultati i kratkoročni rast američkih tehnoloških dionica zasad nisu bili dovoljni da uvjere azijske ulagače kako je pritisak završen. Upravo zato semiconductors trenutačno izgledaju slabije od ostatka tehnološkog segmenta.
+Istodobno su Ethereum ETF-ovi zabilježili neto priljev od 14,9 milijuna dolara, prvi pozitivan dnevni rezultat nakon pet uzastopnih trgovinskih dana odljeva. Međutim, oporavak još nije ravnomjeran. BlackRockov Ethereum fond ETHA istoga je dana zabilježio odljev od 29,3 milijuna dolara, što pokazuje da interes investitora nije jednak među svim fondovima.
 
-Američko tržište dan ranije ipak je poslalo pozitivniji signal. Nasdaq je porastao 1,05%, S&P 500 0,58%, a Dow Jones 0,69%. Technology je bio među najjačim sektorima, što pokazuje da kapital i dalje selektivno traži izloženost prema rastućim pričama. No rast američkih indeksa dolazi u trenutku kada prinos na američku desetogodišnju obveznicu ostaje visok, oko 5,11%, a sljedeća odluka Feda očekuje se 28. listopada. To znači da monetarni okvir i dalje ograničava prostor za bezbrižan povratak snažnog risk-ona.
+Ukupno su Bitcoin i Ethereum ETF-ovi tijekom posljednje završene američke sesije privukli približno 539,7 milijuna dolara. To je značajna promjena u institucionalnim tokovima, no ne znači automatski da će cijene kriptovaluta nastaviti rasti. Priljevi u fondove mogu predstavljati dugoročnu akumulaciju, ali i kratkoročnu promjenu pozicioniranja investitora.
 
-Dodatni makro pritisak dolazi s energetskog tržišta. Brent se jutros ponovno drži iznad 110 dolara po barelu. Razlog su pojačane geopolitičke napetosti povezane s Perzijskim zaljevom i novim tvrdnjama o incidentima koji bi mogli utjecati na pomorski promet. Važno je naglasiti da dio tih tvrdnji dolazi iz iranskih izvora i da sve okolnosti nisu u cijelosti neovisno potvrđene. Ipak, samo prisutnost takvih rizika dovoljna je da podupre cijene energije i pojača inflacijske bojazni.
+## Altcoini zaostaju, PEPE nakon snažnog rasta usporava
 
-Kada se svi ti signali spoje, dobiva se prilično jasna slika trenutnog tržišnog stanja. Kapital se vraća u odabrane dijelove tržišta, osobito u Bitcoin ETF-ove i pojedine američke tehnološke dionice, ali oprez nije nestao. Slabost azijskih poluvodiča, mješovito stanje među altcoinima i visoke cijene energije pokazuju da je tržište još daleko od jednostavnog i široko potvrđenog optimizma.
+Unatoč poboljšanju institucionalnih tokova, šire tržište kriptovaluta zasad ne potvrđuje snažan uzlazni trend. U jutarnjem presjeku 22. listopada Bitcoin se kretao oko 82.777 dolara, a Ethereum približno 2.439 dolara, uz male dnevne promjene. Istodobno su TAO, AAVE i HYPE bilježili izraženiju slabost, dok je Zcash zadržavao relativnu snagu nakon snažnijeg sedmodnevnog rasta.
+
+Posebno je zanimljivo kretanje PEPE-a, meme tokena izgrađenog na Ethereumu. Nakon snažnog rasta tijekom prethodnih dana, njegov se momentum usporio. PEPE često reagira na promjene raspoloženja prema Ethereumu, ali s većim dnevnim oscilacijama, zbog čega može poslužiti kao jedan od pokazatelja spremnosti ulagača na preuzimanje većeg rizika.
+
+Trenutačno Ethereum ne pokazuje dovoljno snažan uzlazni zamah da bi se posljednji rast PEPE-a mogao smatrati potvrdom šireg oporavka altcoina. Pritom se kretanje jednog meme tokena ne može koristiti kao pouzdan pokazatelj smjera cijelog kriptotržišta.
+
+## Azijski proizvođači čipova ponovno pod pritiskom
+
+Najizraženija negativna promjena tijekom jutarnjeg trgovanja 22. listopada dolazi s azijskih tržišta. Južnokorejski KOSPI padao je približno 2,6%, japanski Nikkei 1,6%, a hongkonški Hang Seng 2,7%. Među najpogođenijim kompanijama bili su Samsung Electronics s padom od približno 3,9%, SK Hynix s 4,7%, Tokyo Electron s 5,9% i SoftBank s 5,6%.
+
+Ovi padovi posebno su važni jer dolaze nakon pozitivnog zatvaranja američkog tehnološkog sektora. Nasdaq je 21. listopada porastao oko 1,05%, dok je indeks poluvodiča SOX ojačao približno 2,1%. Razlika između američkog i azijskog trgovanja pokazuje da ulagači još nisu postigli suglasnost oko budućeg vrednovanja AI infrastrukture i kompanija povezanih s proizvodnjom čipova.
+
+Jedna od glavnih zabrinutosti odnosi se na goleme troškove izgradnje podatkovnih centara i financiranja razvoja umjetne inteligencije. Dok tehnološke kompanije nastavljaju povećavati ulaganja, investitori sve češće postavljaju pitanje kada će ta ulaganja početi donositi dovoljno velike i održive financijske povrate.
+
+## Wall Street raste, ali zabrinutost zbog AI ulaganja ostaje
+
+Američke burze završile su 21. listopada u pozitivnom raspoloženju. Nasdaq je porastao približno 1,05%, S&P 500 oko 0,58%, a Dow Jones 0,69%. Tehnološki sektor bio je među najjačima, potaknut poslovnim rezultatima pojedinih velikih kompanija i povratkom interesa za dionice povezane s umjetnom inteligencijom.
+
+Međutim, pozitivni kvartalni rezultati više nisu dovoljni da uklone sve zabrinutosti. Investitori sve pozornije prate troškove izgradnje podatkovnih centara, financiranje računalne infrastrukture i mogućnost da buduća zarada neće opravdati trenutačna ulaganja.
+
+Dodatnu neizvjesnost stvara američka monetarna politika. Sljedeća odluka Federalnih rezervi očekuje se 28. listopada, dok se prinos na desetogodišnje američke državne obveznice tijekom jutra kretao oko 5,1%. Visoki troškovi kapitala posebno mogu opterećivati kompanije čija tržišna vrijednost snažno ovisi o očekivanom budućem rastu.
+
+{{< support1 >}}
+
+## Brent iznad 110 dolara, nove napetosti u Perzijskom zaljevu
+
+Uz zabrinutost zbog umjetne inteligencije, globalna tržišta suočavaju se i s rastućim energetskim rizicima. Cijena nafte Brent tijekom jutra 22. listopada ponovno se kretala iznad 110 dolara po barelu, potaknuta napetostima na Bliskom istoku i zabrinutošću zbog sigurnosti pomorskog prometa.
+
+Iranska Revolucionarna garda objavila je da su četiri plovila pogođena u Perzijskom zaljevu, dok su još tri navodno naišla na mine zapadno od Hormuškog tjesnaca. Reuters je prenio iranske tvrdnje, ali nisu sve okolnosti incidenata neovisno potvrđene.
+
+Hormuški tjesnac jedna je od najvažnijih svjetskih ruta za transport nafte. Svako ozbiljnije ugrožavanje pomorskog prometa može povećati troškove transporta i energije te dodatno zakomplicirati borbu s inflacijom. Ako cijene nafte ostanu visoke, središnje banke mogle bi se suočiti s još težim odlukama o kamatnim stopama.
+
+## Kapital se selektivno vraća, ali globalni oporavak nije potvrđen
+
+Najvažnija karakteristika trenutačnog tržišta nije potpuni odlazak investitora iz rizičnih instrumenata, nego njihova selektivnost. Bitcoin ETF-ovi privlače velik institucionalni kapital, američke tehnološke dionice povremeno se oporavljaju, dok azijski proizvođači čipova i dio altcoina ponovno pokazuju slabost.
+
+Takva kretanja ne predstavljaju nužno trajnu promjenu smjera. Jedan dan ETF priljeva ne jamči rast Bitcoina, kao što jedan dan pada poluvodiča ne potvrđuje dugoročni silazni trend. Međutim, kombinacija snažnih oscilacija tehnoloških dionica, visokih energetskih cijena i nesigurnosti oko monetarne politike pokazuje da ulagači ostaju oprezni.
+
+Za nastavak globalnog oporavka bit će važni rezultati američkih tehnoloških kompanija, reakcija Wall Streeta na današnji azijski pad, sljedeća odluka Feda i razvoj sigurnosne situacije u Perzijskom zaljevu.
+
+{{< support2 >}}
 
 ## Naš osvrt (Metaadvisor)
 
-* **Snažan priljev u Bitcoin ETF-ove važan je pozitivan signal, ali još nije potvrda novog širokog uzlaznog trenda.** Institucionalni kapital vraća se u Bitcoin, no tržište cijena zasad reagira opreznije.
-* **Ethereum i altcoini još ne potvrđuju puni oporavak kriptotržišta.** ZEC i djelomično PEPE pokazuju relativnu snagu, ali TAO, AAVE i HYPE ostaju pod pritiskom.
-* **Novi pad azijskih poluvodiča posebno je važan jer dolazi nakon pozitivnog zatvaranja Wall Streeta.** To pokazuje da AI i semiconductor oporavak još nema globalnu potvrdu.
-* **Visoka cijena Brenta ostaje ozbiljan makroekonomski rizik.** Ako se energetski pritisak zadrži, inflacijska očekivanja i monetarna politika mogli bi dodatno opteretiti tržišta.
-* **Tržište trenutačno pokazuje selektivni risk-on, a ne široki globalni optimizam.** Kapital bira pojedine priče, dok ostali segmenti i dalje ostaju pod pritiskom.
-* **Današnja reakcija američkog tržišta bit će važan test.** Ako Wall Street potvrdi azijsku slabost, pritisak na AI i semiconductor segment mogao bi se dodatno pojačati.
+* **Povratak institucionalnog kapitala u Bitcoin ETF-ove pozitivan je signal, ali nije potvrda novog uzlaznog tržišta.** Priljev od 524,8 milijuna dolara pokazuje snažnu potražnju tijekom jedne sesije, no šire kretanje cijena kriptovaluta zasad je znatno opreznije.
+* **Ethereum i altcoini još nisu potvrdili oporavak.** ZEC i PEPE pokazuju selektivnu relativnu snagu, ali TAO, AAVE i HYPE ostaju pod pritiskom, što upućuje na neujednačeno raspoloženje investitora.
+* **Azijski pad poluvodiča posebno je važan nakon pozitivnog zatvaranja Nasdaqa.** Tržišta i dalje preispituju financijsku održivost velikih ulaganja u AI infrastrukturu, a oporavak američkih dionica zasad nema jednako snažnu potvrdu u Aziji.
+* **Visoka cijena nafte predstavlja dodatni rizik za inflaciju.** Dugotrajniji energetski pritisak mogao bi ograničiti prostor središnjim bankama za ublažavanje monetarne politike.
+* **Geopolitičke tvrdnje treba razlikovati od neovisno potvrđenih događaja.** Informacije o incidentima u Perzijskom zaljevu zahtijevaju dodatnu provjeru, osobito kada mogu snažno utjecati na financijska i energetska tržišta.
+* **Tržište trenutačno pokazuje selektivno preuzimanje rizika, a ne jedinstveni globalni optimizam.** Kapital se vraća u pojedine sektore, ali razlike između američkih, azijskih i kriptotržišta upozoravaju da je oporavak i dalje krhak.
 
-Globalna tržišta 22. listopada zato izgledaju podijeljeno. S jedne strane, postoji vidljiv povratak institucionalnog interesa za Bitcoin i djelomično za američki tehnološki sektor. S druge strane, pad azijskih čipova, visoka cijena energije i oprezno ponašanje altcoina pokazuju da investitori još nisu spremni potvrditi širi i stabilniji risk-on.
+Svjetska tržišta 22. listopada šalju dvije različite poruke. S jedne strane, snažan priljev u Bitcoin ETF-ove i pozitivni rezultati Wall Streeta pokazuju da investitori nisu potpuno odustali od rizične imovine. S druge strane, novi pad azijskih proizvođača čipova, slabost dijela kriptotržišta i rast cijena energije pokazuju da razlozi za oprez nisu nestali.
 
-**Najvažnije pitanje za nastavak dana bit će hoće li američko tržište potvrditi slabost Azije ili će ponovno pokušati povući tehnološki sektor prema gore. Upravo će taj odgovor pokazati je li trenutačna rotacija kapitala početak održivijeg oporavka ili tek kratkotrajni predah unutar i dalje nestabilnog okruženja.**
+**Sljedeći važan test bit će reakcija američkog tržišta na današnju azijsku rasprodaju. Ako i Wall Street nastavi prodajni pritisak na AI i poluvodičke dionice, razlika između institucionalnog optimizma prema Bitcoinu i zabrinutosti zbog tehnološkog sektora mogla bi postati još izraženija.**
 
 **Pratite Metaadvisor.eu za više vijesti i analiza o umjetnoj inteligenciji, tehnologiji, financijama, poslovanju, digitalnim alatima i globalnim trendovima.**
 
-**Napomena:** Ovaj članak služi isključivo informiranju i ne predstavlja financijski ni investicijski savjet. Podaci o tržištima, ETF-ovima, cijenama energenata i kriptovalutama temelje se na jutarnjim presjecima i posljednjim dostupnim završenim trgovinskim sesijama te se mogu promijeniti tijekom dana.
+**Napomena:** Ovaj članak služi isključivo informiranju i ne predstavlja financijski ni investicijski savjet. Podaci o azijskim tržištima, nafti i kriptovalutama odnose se na jutarnje presjeke 22. listopada 2026. i mogu se promijeniti tijekom trgovanja. Informacije o incidentima u Perzijskom zaljevu uključuju tvrdnje iranskih vlasti koje nisu u cijelosti neovisno potvrđene.
 
 <small style="color:#999; font-size:0.8em;">U suradnji s AI-jem.</small>
