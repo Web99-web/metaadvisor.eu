@@ -1,5 +1,5 @@
 {
-  "captured_at_UTC": "2026-10-30T20:32:51.546279+00:00",
+  "captured_at_UTC": "2026-10-30T22:39:54.841410+00:00",
   "base_SHA": "ec5206ea964d5ecad2e626465abe9dd8a9f80966",
   "snapshot_branch": "qa/metaadvisor-linux-2026-10-30",
   "source_files": {
@@ -42776,8 +42776,8 @@
       "sha256": "86fe0df75525c92dace7bbebbb7c4afd724aa80298cf5d447476b64e33c3d53c"
     },
     "layouts/_default/baseof.html": {
-      "bytes": 8467,
-      "sha256": "ad933db838b5a6b9f715a765fffc47c5aa9a6514014a844ce1f01c0bdbdd4b71"
+      "bytes": 8354,
+      "sha256": "565225cd5631a753a3d1bb92466527bc3e8fcc97af7ad14069e286c1f534d4e3"
     },
     "layouts/_default/content/about.md": {
       "bytes": 211,
@@ -42856,8 +42856,8 @@
       "sha256": "804e48e23d7447032525836091d3e51b9eb09a2c2d3a5a70b6d859848ef21873"
     },
     "layouts/partials/ads/slot.html": {
-      "bytes": 2812,
-      "sha256": "e534f32cc940cee466bd112a4acad62d609046f05f4828fe6badd5d48fab9ee2"
+      "bytes": 2783,
+      "sha256": "28f6b85b00f810a6c8ac30f9438fd575a1d8ae87a6a855d53738fccaa9ece457"
     },
     "layouts/partials/analytics.html": {
       "bytes": 88,
@@ -47612,8 +47612,8 @@
       "sha256": "2ce746ef24ec728b9df5a5c3d77a5caeaf2102aeb890542ccbdc3942053f80bb"
     },
     "tools/finalize_release.py": {
-      "bytes": 7933,
-      "sha256": "aa1665f440494ff68a06e881d349ed57d9da0e345d556748bbc16106d6c87472"
+      "bytes": 7737,
+      "sha256": "0028f1fff728570fcee47de1eb5fdd09a63b82c986a3dcbecf8d2234670ff658"
     },
     "tools/image_physical_plan.py": {
       "bytes": 2150,
@@ -47641,7 +47641,7 @@
     }
   },
   "source_file_count": 11909,
-  "source_bytes": 234591594,
+  "source_bytes": 234591256,
   "excluded": [
     ".git/**",
     ".hugo_build.lock"

@@ -43,9 +43,6 @@ class Policy(HTMLParser):
             new = re.sub(r'\bsrc\s*=', 'data-ma-legacy-src=', new)
             new = re.sub(r"""\btype\s*=\s*(["']).*?\1""", '', new)
             new = new[:-1] + ' type="text/plain">'
-        if tag == 'iframe' and a.get('src', '').startswith('https://ad.a-ads.com/'):
-            new = new.replace('src=', 'data-ma-ad-src=', 1)
-            new = new[:-1] + ' src="about:blank">'
         if new != raw: self.edits.append((self.position(), self.position() + len(raw), new))
     def handle_endtag(self, tag):
         if tag == 'script': self.scriptJSON = False
