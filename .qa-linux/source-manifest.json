@@ -47668,6 +47668,7 @@
     ".qa-linux/special-urls.json",
     ".qa-linux/source-manifest.json",
     ".qa-linux/run_qa.py",
-    ".qa-linux/build_rollback.py"
+    ".qa-linux/build_rollback.py",
+    ".github/workflows/metaadvisor-rollback-export.yml"
   ]
 }

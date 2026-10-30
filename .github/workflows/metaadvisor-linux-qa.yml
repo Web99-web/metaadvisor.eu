@@ -9,7 +9,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   qa:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/qa/metaadvisor-linux-2026-10-30'
+    if: github.event_name == 'push' && github.ref == 'refs/heads/qa/metaadvisor-linux-2026-10-30' && github.event.head_commit.message != 'qa: export verified rollback chunks only'
     runs-on: ubuntu-24.04
     timeout-minutes: 60
     env:
