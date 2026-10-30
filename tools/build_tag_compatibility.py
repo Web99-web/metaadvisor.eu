@@ -97,8 +97,12 @@ def main():
         url, data = job; p = out / path_for(url); p.write_bytes(data)
         return {'url': url, 'file': p.relative_to(out).as_posix(), 'bytes': len(data)}
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool: emitted = list(pool.map(write, jobs))
+    import sys
+    sys.path.insert(0, str(ROOT / 'tools'))
+    from migration_gate import resolve_pending
+    pending, resolved_pending = resolve_pending(ROOT, out, pending)
     result = {'platform': os.name, 'files_added': len(emitted), 'bytes_added': sum(x['bytes'] for x in emitted),
-        'seconds': time.perf_counter() - start, 'files': emitted, 'pending': pending,
+        'seconds': time.perf_counter() - start, 'files': emitted, 'pending': pending, 'resolved_pending': resolved_pending,
         'pending_counts': dict(collections.Counter(x['reason'] for x in pending)), 'route_decisions': decisions,
         'redirects_activated': 0, 'BC_RSS_generated': 0, 'empty_200_generated': 0}
     args.report.parent.mkdir(parents=True, exist_ok=True)

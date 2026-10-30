@@ -10,6 +10,7 @@ def run(name,cmd):
 def py(name,file,*args):run(name,[sys.executable,'-u','-B','-c',wrapper,str(file),*map(str,args)])
 py('source-before',q/'verify_snapshot.py','--repo',r,'--report',d/'source-before.json')
 index=subprocess.check_output(['git','ls-files','--stage','-z']);version=subprocess.check_output(['hugo','version'],text=True);assert 'v0.128.0' in version and 'extended' in version and 'linux' in version
+py('migration-gate-unit',r/'tools/test_migration_gate.py')
 py('controls',r/'tools/prepare_tag_archives.py','--check')
 run('consent-unit',['node',str(q/'test-memory.cjs')])
 (d/'resource-overlay.toml').write_text('resourceDir = '+json.dumps(str(d/'resources'))+'\n',encoding='utf-8');manifest=json.loads((q/'source-manifest.json').read_text(encoding='utf-8'))

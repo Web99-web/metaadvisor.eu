@@ -1,5 +1,5 @@
 {
-  "captured_at_UTC": "2026-10-30T22:39:54.841410+00:00",
+  "captured_at_UTC": "2026-10-30T23:41:33.518964+00:00",
   "base_SHA": "ec5206ea964d5ecad2e626465abe9dd8a9f80966",
   "snapshot_branch": "qa/metaadvisor-linux-2026-10-30",
   "source_files": {
@@ -47600,8 +47600,8 @@
       "sha256": "55af73bdc2b1952f21c972bce43b4681b2b14675a4ff2e09187ab4880f558d61"
     },
     "tools/build_tag_compatibility.py": {
-      "bytes": 6999,
-      "sha256": "52e7122c83f5b3e1f0d6b0424b482ad8dc6f67f15c26c9b5d7b525a312db193f"
+      "bytes": 7325,
+      "sha256": "aa1aac1cc76f6e03620b83aa5ee3be9735caf06becf65cda69e160b64e9b3127"
     },
     "tools/check_release_gate.py": {
       "bytes": 973,
@@ -47638,10 +47638,22 @@
     "translate_existing.py": {
       "bytes": 1656,
       "sha256": "aebffcb4144515899380bfbc9795a4b75ccc1ec78d4803a44c9c5c73996636b8"
+    },
+    "tools/migration_gate.py": {
+      "bytes": 1760,
+      "sha256": "aa36091125013405e2bb11508f4a50ff609d4458fa35c86f0825c41c46085c53"
+    },
+    "tools/test_migration_gate.py": {
+      "bytes": 2222,
+      "sha256": "142d1eaa510137406f98470585dd8c252548a2cb2ee3d712c999f8a044733739"
+    },
+    "migration/approved-route-resolutions.json": {
+      "bytes": 66557,
+      "sha256": "62286da9f682427f73493789ba53a3a95a063d600155b1c160e64d4b9c4377b2"
     }
   },
-  "source_file_count": 11909,
-  "source_bytes": 234591256,
+  "source_file_count": 11912,
+  "source_bytes": 234662121,
   "excluded": [
     ".git/**",
     ".hugo_build.lock"
@@ -47655,6 +47667,7 @@
     ".qa-linux/http_qa.py",
     ".qa-linux/special-urls.json",
     ".qa-linux/source-manifest.json",
-    ".qa-linux/run_qa.py"
+    ".qa-linux/run_qa.py",
+    ".qa-linux/build_rollback.py"
   ]
 }

@@ -1,0 +1,1459 @@
+{
+  "schema": 1,
+  "approval_basis": "User-approved 19,144 exact migrations implemented by 8 Single and 4,725 Bulk entries; preparation only, no activation",
+  "http_plan_sha256": "9186b72c8d78c1fbe75960e22a04d68d59c6685badfacbbf5fe244a46998270a",
+  "resolutions": {
+    "https://metaadvisor.eu/de/tags/ada/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/cardano/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ai-agenten/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ki-agenten/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ai-agents/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ki-agenten/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ai-infrastruktur/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ki-infrastruktur/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ai-moderation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ki-moderation/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ai-regulation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ki-regulierung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ai-security/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ki-sicherheit/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ai-sicherheit/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ki-sicherheit/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ai-stocks/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ki-aktien/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ai-tools/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ki-tools/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/aktie/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/aktien/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/altcoin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/altcoins/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/arb/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/arbitrum/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/artificial-intelligence/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ai/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/automation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/automatisierung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/avax/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/avalanche/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/bank/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/banken/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/bankrott/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/insolvenz/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/bankruptcy/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/insolvenz/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/banks/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/banken/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/bitcoin-kurs/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/bitcoin-preis/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/blockchain-security/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/blockchain-sicherheit/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/boersen/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/b%C3%B6rsen/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/bonds/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/anleihen/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/btc/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/bitcoin/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/capital-markets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/kapitalm%C3%A4rkte/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/cloud-storage/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/cloud-speicher/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/commodities/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/rohstoffe/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/copyright/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/urheberrecht/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/crypto/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/crypto-exchange/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto-b%C3%B6rsen/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/crypto-law/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto-regulierung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/crypto-market/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto-markt/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/crypto-markets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto-markt/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/crypto-markt/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto-markt/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/crypto-regulation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto-regulierung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/crypto-security/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto-sicherheit/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/crypto-wallet/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto-wallet/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/cryptocurrency/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/cyber-security/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/cybersicherheit/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/cyber-sicherheit/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/cybersicherheit/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/cybersecurity/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/cybersicherheit/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/data-breach/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/datenleck/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/data-centers/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/rechenzentren/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/decentralization/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/dezentralisierung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/derivatives/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/derivate/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/dezentrale-finanzen/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/defi/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/dezentrale-finanzierung/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/defi/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/digital-assets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/digitale-verm%C3%B6genswerte/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/digitale-privatsphaere/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/privatsph%C3%A4re/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/digitale-vermoegenswerte/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/digitale-verm%C3%B6genswerte/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/digitale_rechte/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/digitale-rechte/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/doge/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/dogecoin/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/dot/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/polkadot/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ecommerce/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/e-commerce/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/encryption/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/verschl%C3%BCsselung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/equities/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/aktien/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/etfs/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/etf/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/eth/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ethereum/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ether/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ethereum/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/eu/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/europ%C3%A4ische-union/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/eu-regulation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/eu-regulierung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/exchange/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/b%C3%B6rsen/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/exchanges/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/b%C3%B6rsen/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/finance/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/finanzen/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/financije/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/finanzen/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/finanz/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/finanzen/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/future-of-work/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/zukunft-der-arbeit/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/gesetz/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/recht/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/institutional-investors/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/institutionelle-investoren/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/investing/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/investieren/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/investitionen/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/investieren/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/investment/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/investieren/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/jp-morgan/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/jpmorgan/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/kapitalmarkt/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/kapitalm%C3%A4rkte/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/kelpdao/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/kelp-dao/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ki/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ai/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/kripto/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/kriptovalute/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/krypto-boersen/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto-b%C3%B6rsen/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/kryptomarkt/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto-markt/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/kryptoregulierung/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto-regulierung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/kryptowaehrung/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/kryptowaehrungen/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/krypto/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/kuenstliche-intelligenz/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ai/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/kuenstliche_intelligenz/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ai/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/kunstliche-intelligenz/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/ai/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/l2/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/layer-2/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/law/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/recht/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/layer1/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/layer-1/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/layer2/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/layer-2/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/layoffs/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/entlassungen/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/liquiditaet/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/liquidit%C3%A4t/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/liquidity/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/liquidit%C3%A4t/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ltc/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/litecoin/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/maerkte/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/m%C3%A4rkte/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/market/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/m%C3%A4rkte/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/markets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/m%C3%A4rkte/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/markt/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/m%C3%A4rkte/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/meme-coin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/memecoins/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/memecoin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/memecoins/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/natural-gas/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/erdgas/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/oel/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/%C3%B6l/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/on-chain/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/onchain/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/onchain-data/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/onchain-daten/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/payments/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/zahlungen/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/perpetual-futures/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/perpetuals/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/perps/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/perpetuals/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/privacy/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/privatsph%C3%A4re/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/privatanleger/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/kleinanleger/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/privatsphaere/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/privatsph%C3%A4re/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/pumpfun/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/pump.fun/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/real-world-assets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/rwa/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/regulation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/regulierung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/research/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/forschung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/retail-anleger/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/kleinanleger/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/retail-investoren/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/kleinanleger/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/robotics/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/robotik/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/security/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/sicherheit/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/silver/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/silber/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/social-media/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/soziale-medien/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/sol/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/solana/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/soziale-netzwerke/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/soziale-medien/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/spot-bitcoin-etf/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/bitcoin-etf/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/stablecoin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/stablecoins/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/startup/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/startups/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/steuern/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/steuer/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/stocks/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/aktien/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/surveillance/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/%C3%BCberwachung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/tao/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/bittensor/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/tax/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/steuer/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/tech/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/technologie/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/technical-analysis/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/technische-analyse/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/technik/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/technologie/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/technology/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/technologie/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/tokenization/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/tokenisierung/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/trx/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/tron/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/twitter/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/x-plattform/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/ulaganje/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/investieren/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/volatilitaet/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/volatilit%C3%A4t/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/volatility/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/volatilit%C3%A4t/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/x/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/x-plattform/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/xmr/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/monero/index.xml"
+    },
+    "https://metaadvisor.eu/de/tags/zec/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/de/tags/zcash/index.xml"
+    },
+    "https://metaadvisor.eu/tags/ada/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/cardano/index.xml"
+    },
+    "https://metaadvisor.eu/tags/altcoin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/altcoins/index.xml"
+    },
+    "https://metaadvisor.eu/tags/arb/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/arbitrum/index.xml"
+    },
+    "https://metaadvisor.eu/tags/artificial-intelligence/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/ai/index.xml"
+    },
+    "https://metaadvisor.eu/tags/artificial_intelligence/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/ai/index.xml"
+    },
+    "https://metaadvisor.eu/tags/avax/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/avalanche/index.xml"
+    },
+    "https://metaadvisor.eu/tags/bank/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/banks/index.xml"
+    },
+    "https://metaadvisor.eu/tags/btc/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/bitcoin/index.xml"
+    },
+    "https://metaadvisor.eu/tags/crypto-exchange/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/crypto-exchanges/index.xml"
+    },
+    "https://metaadvisor.eu/tags/crypto-law/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/crypto-regulation/index.xml"
+    },
+    "https://metaadvisor.eu/tags/crypto-markets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/crypto-market/index.xml"
+    },
+    "https://metaadvisor.eu/tags/cryptocurrencies/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/crypto/index.xml"
+    },
+    "https://metaadvisor.eu/tags/cryptocurrency/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/crypto/index.xml"
+    },
+    "https://metaadvisor.eu/tags/cyber-security/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/cybersecurity/index.xml"
+    },
+    "https://metaadvisor.eu/tags/datacenters/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/data-centers/index.xml"
+    },
+    "https://metaadvisor.eu/tags/decentralized-finance/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/defi/index.xml"
+    },
+    "https://metaadvisor.eu/tags/digital-privacy/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/privacy/index.xml"
+    },
+    "https://metaadvisor.eu/tags/digital_rights/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/digital-rights/index.xml"
+    },
+    "https://metaadvisor.eu/tags/doge/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/dogecoin/index.xml"
+    },
+    "https://metaadvisor.eu/tags/dot/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/polkadot/index.xml"
+    },
+    "https://metaadvisor.eu/tags/ecommerce/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/e-commerce/index.xml"
+    },
+    "https://metaadvisor.eu/tags/equities/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/stocks/index.xml"
+    },
+    "https://metaadvisor.eu/tags/etfs/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/etf/index.xml"
+    },
+    "https://metaadvisor.eu/tags/eth/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/ethereum/index.xml"
+    },
+    "https://metaadvisor.eu/tags/ether/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/ethereum/index.xml"
+    },
+    "https://metaadvisor.eu/tags/eu/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/european-union/index.xml"
+    },
+    "https://metaadvisor.eu/tags/exchange/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/exchanges/index.xml"
+    },
+    "https://metaadvisor.eu/tags/investment/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/investing/index.xml"
+    },
+    "https://metaadvisor.eu/tags/investments/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/investing/index.xml"
+    },
+    "https://metaadvisor.eu/tags/jp-morgan/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/jpmorgan/index.xml"
+    },
+    "https://metaadvisor.eu/tags/kelpdao/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/kelp-dao/index.xml"
+    },
+    "https://metaadvisor.eu/tags/l2/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/layer-2/index.xml"
+    },
+    "https://metaadvisor.eu/tags/layer1/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/layer-1/index.xml"
+    },
+    "https://metaadvisor.eu/tags/layer2/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/layer-2/index.xml"
+    },
+    "https://metaadvisor.eu/tags/ltc/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/litecoin/index.xml"
+    },
+    "https://metaadvisor.eu/tags/market/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/markets/index.xml"
+    },
+    "https://metaadvisor.eu/tags/markt/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/markets/index.xml"
+    },
+    "https://metaadvisor.eu/tags/meme-coin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/memecoins/index.xml"
+    },
+    "https://metaadvisor.eu/tags/memecoin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/memecoins/index.xml"
+    },
+    "https://metaadvisor.eu/tags/on-chain/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/onchain/index.xml"
+    },
+    "https://metaadvisor.eu/tags/perpetual-futures/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/perpetuals/index.xml"
+    },
+    "https://metaadvisor.eu/tags/perps/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/perpetuals/index.xml"
+    },
+    "https://metaadvisor.eu/tags/pumpfun/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/pump.fun/index.xml"
+    },
+    "https://metaadvisor.eu/tags/real-world-assets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/rwa/index.xml"
+    },
+    "https://metaadvisor.eu/tags/social-networks/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/social-media/index.xml"
+    },
+    "https://metaadvisor.eu/tags/sol/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/solana/index.xml"
+    },
+    "https://metaadvisor.eu/tags/spot-bitcoin-etf/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/bitcoin-etf/index.xml"
+    },
+    "https://metaadvisor.eu/tags/stablecoin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/stablecoins/index.xml"
+    },
+    "https://metaadvisor.eu/tags/startup/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/startups/index.xml"
+    },
+    "https://metaadvisor.eu/tags/stock/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/stocks/index.xml"
+    },
+    "https://metaadvisor.eu/tags/tao/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/bittensor/index.xml"
+    },
+    "https://metaadvisor.eu/tags/taxes/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/tax/index.xml"
+    },
+    "https://metaadvisor.eu/tags/tech/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/technology/index.xml"
+    },
+    "https://metaadvisor.eu/tags/trx/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/tron/index.xml"
+    },
+    "https://metaadvisor.eu/tags/twitter/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/x-platform/index.xml"
+    },
+    "https://metaadvisor.eu/tags/ulaganje/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/investing/index.xml"
+    },
+    "https://metaadvisor.eu/tags/x/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/x-platform/index.xml"
+    },
+    "https://metaadvisor.eu/tags/xmr/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/monero/index.xml"
+    },
+    "https://metaadvisor.eu/tags/zec/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/tags/zcash/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ada/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/cardano/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ai-agents/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai-agenti/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ai-infrastructure/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai-infrastruktura/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ai-models/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai-modeli/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ai-moderation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai-moderacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ai-regulation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai-regulacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ai-security/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai-sigurnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ai-stocks/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai-dionice/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ai-tools/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai-alati/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/altcoin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/altcoini/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/altcoins/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/altcoini/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/arb/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/arbitrum/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/artificial-intelligence/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/automation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/automatizacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/avax/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/avalanche/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/banka/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/banke/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/banking/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/bankarstvo/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/bankrot/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ste%C4%8Daj/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/bankruptcy/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ste%C4%8Daj/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/banks/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/banke/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/bitcoin-cijena/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/cijena-bitcoina/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/bitcoin-price/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/cijena-bitcoina/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/blockchain-security/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/blockchain-sigurnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/bonds/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/obveznice/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/btc/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/bitcoin/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/burza/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/burze/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/centralne-banke/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/sredi%C5%A1nje-banke/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/commodities/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/sirovine/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/copyright/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/autorska-prava/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/cross-border-payments/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/prekograni%C4%8Dna-pla%C4%87anja/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/crypto/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/crypto-exchange/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-burze/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/crypto-exchanges/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-burze/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/crypto-law/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-regulacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/crypto-market/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-tr%C5%BEi%C5%A1te/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/crypto-markets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-tr%C5%BEi%C5%A1te/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/crypto-regulacija/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-regulacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/crypto-regulation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-regulacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/crypto-security/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-sigurnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/crypto-wallet/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-nov%C4%8Danik/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/cryptocurrency/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/cyber-security/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kiberneti%C4%8Dka-sigurnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/cyber-sigurnost/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kiberneti%C4%8Dka-sigurnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/cybersecurity/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kiberneti%C4%8Dka-sigurnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/data-breach/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/curenje-podataka/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/data-centers/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/podatkovni-centri/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/data-centri/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/podatkovni-centri/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/decentralization/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/decentralizacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/decentralizirane-financije/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/defi/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/derivatives/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/derivati/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/digital-assets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/digitalna-imovina/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/digital-privacy/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/privatnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/digital-rights/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/digitalna-prava/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/digitalna-placanja/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/digitalna-pla%C4%87anja/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/digitalna-privatnost/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/privatnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/digitalna_prava/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/digitalna-prava/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/doge/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/dogecoin/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/dot/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/polkadot/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/edukacija/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/obrazovanje/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/encryption/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/enkripcija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/energetika/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/energija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/energy/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/energija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/equities/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/dionice/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/etfs/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/etf/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/eth/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ethereum/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ether/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ethereum/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/eu/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/europska-unija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/eu-regulation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/eu-regulacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/eu-regulativa/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/eu-regulacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/european-union/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/europska-unija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/exchange/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/burze/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/exchanges/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/burze/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/finance/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/financije/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/financial-markets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/financijska-tr%C5%BEi%C5%A1ta/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/future-of-work/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/budu%C4%87nost-rada/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/gold/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/zlato/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/hacking/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/hakiranje/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/hardware-wallet/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/hardverski-nov%C4%8Danik/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/inflation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/inflacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/institutional-investors/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/institucionalni-investitori/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/interest-rates/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kamatne-stope/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/investicije/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/investiranje/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/investing/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/investiranje/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/investment/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/investiranje/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/jp-morgan/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/jpmorgan/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/kamate/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kamatne-stope/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/kelpdao/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kelp-dao/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/kripto-burza/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-burze/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/kripto-trziste/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-tr%C5%BEi%C5%A1te/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/kripto-wallet/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-nov%C4%8Danik/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/kriptovalute/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/l2/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/layer-2/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/law/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/pravo/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/layer1/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/layer-1/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/layer2/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/layer-2/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/layoffs/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/otkazi/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/liquidity/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/likvidnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ltc/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/litecoin/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/market/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/tr%C5%BEi%C5%A1ta/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/markets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/tr%C5%BEi%C5%A1ta/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/meme-coin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/memecoins/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/memecoin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/memecoins/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/memecoini/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/memecoins/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/natural-gas/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/prirodni-plin/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/oi/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/open-interest/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/oil/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/nafta/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/on-chain/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/onchain/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/onchain-data/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/onchain-podaci/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/payments/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/pla%C4%87anja/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/perpetual-futures/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/perpetuals/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/perps/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/perpetuals/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/placanja/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/pla%C4%87anja/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/porezi/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/porez/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/privacy/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/privatnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/programming/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/programiranje/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/pumpfun/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/pump.fun/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/real-world-assets/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/rwa/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/regulacija-ai/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai-regulacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/regulacija-kripta/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/kripto-regulacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/regulation/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/regulacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/regulativa/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/regulacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/research/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/istra%C5%BEivanje/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/retail-investitori/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/mali-ulaga%C4%8Di/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/robotics/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/robotika/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/robots/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/roboti/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/security/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/sigurnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/semiconductors/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/poluvodi%C4%8Di/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/sicherheit/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/sigurnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/silver/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/srebro/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/smart-contracts/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/pametni-ugovori/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/social-media/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/dru%C5%A1tvene-mre%C5%BEe/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/sol/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/solana/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/spot-bitcoin-etf/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/bitcoin-etf/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/stablecoin/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/stablecoini/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/stablecoins/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/stablecoini/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/startup/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/startupovi/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/startups/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/startupovi/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/stocks/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/dionice/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/surveillance/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/nadzor/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/tao/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/bittensor/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/tax/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/porez/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/tech/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/tehnologija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/technical-analysis/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/tehni%C4%8Dka-analiza/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/technology/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/tehnologija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/tehnicka-analiza/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/tehni%C4%8Dka-analiza/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/tokenization/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/tokenizacija/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/tokenomics/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/tokenomika/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/trx/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/tron/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/trzista/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/tr%C5%BEi%C5%A1ta/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/trziste/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/tr%C5%BEi%C5%A1ta/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/twitter/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/x-platforma/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ulaganja/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/investiranje/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/ulaganje/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/investiranje/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/umjetna-inteligencija/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/umjetna_inteligencija/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/ai/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/volatility/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/volatilnost/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/x/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/x-platforma/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/xmr/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/monero/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/zakon/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/pravo/index.xml"
+    },
+    "https://metaadvisor.eu/hr/tags/zec/index.xml": {
+      "action": "APPROVED_SPECIFIC_301",
+      "target": "https://metaadvisor.eu/hr/tags/zcash/index.xml"
+    }
+  }
+}
