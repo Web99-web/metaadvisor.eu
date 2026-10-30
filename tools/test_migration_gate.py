@@ -1,5 +1,6 @@
-import unittest,tempfile,json,hashlib
+import unittest,tempfile,json,hashlib,sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from migration_gate import resolve_pending
 
 class GateTests(unittest.TestCase):

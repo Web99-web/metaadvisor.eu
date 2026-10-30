@@ -47644,8 +47644,8 @@
       "sha256": "aa36091125013405e2bb11508f4a50ff609d4458fa35c86f0825c41c46085c53"
     },
     "tools/test_migration_gate.py": {
-      "bytes": 2222,
-      "sha256": "142d1eaa510137406f98470585dd8c252548a2cb2ee3d712c999f8a044733739"
+      "bytes": 2283,
+      "sha256": "e88fb4b665ddc43646dce0feab7879372ea6a3defa8e87c5c78ce66878213a3b"
     },
     "migration/approved-route-resolutions.json": {
       "bytes": 66557,
@@ -47653,7 +47653,7 @@
     }
   },
   "source_file_count": 11912,
-  "source_bytes": 234662121,
+  "source_bytes": 234662182,
   "excluded": [
     ".git/**",
     ".hugo_build.lock"
