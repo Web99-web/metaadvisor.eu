@@ -3,7 +3,7 @@ title: "Blizanci Winklevoss pozivaju na milijun dolara Bitcoin Cijena dok Blizan
 slug: "blizanci-winklevoss-pozivaju-na-milijun-dolara-bitcoin-cijena-dok-blizanci-idu-u-javnost-desifrira"
 date: 2025-09-12T18:58:04Z
 category: "news"
-translationKey: "3138f9d8a34a6d31605e7ae515b16dc3"
+translationKey: "3138f9d8a34a6d31605e7ae515b16dc3--unpaired-e64e9daa4686"
 source: "Decrypt"
 source_url: "https://decrypt.co/339281/winklevoss-twins-1-million-bitcoin-price-gemini-goes-public"
 priority: 97
@@ -11,6 +11,11 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "bitcoin", "cryptocurrency", "btc", "meta", "stocks"]
 our_take: |
   Naše stajalište: Blizanci Winklevoss pozivaju na cijenu od milijun dolara Bitcoin jer BEMINI odlaze u javne kripto poduzetnike Tyler i Cameron Winklevoss - osnivači novonamjerno javne kripto razmjene, Gemini - predviđali su da će Bitcoin pogoditi… ključne stvari koje treba gledati: likvidnost, macro.Ostanite selektivni;Dodajte samo u imena visoke presude.
+categories: ["news"]
+seo_alias_of: "https://metaadvisor.eu/hr/news/blizanci-winklevoss-bitcoin-1-milijun-gemini-izlazi-na-burzu/"
+_build:
+  list: never
+  render: always
 ---
 
 Blizanci Winklevoss pozivaju na milijun dolara Bitcoin cijene dok Blizanci postaju javni

@@ -7,14 +7,15 @@ translationKey: "privacy_coins_new_stars_end_2025"
 source: "MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/ZEC-XMR-DASH.png"
-featured_image: "/images/ZEC-XMR-DASH.png"
-image: "/images/ZEC-XMR-DASH.png"
-thumbnail: "/images/ZEC-XMR-DASH.png"
+image_url: "/images/ZEC-XMR-DASH.webp"
+featured_image: "/images/ZEC-XMR-DASH.webp"
+image: "/images/ZEC-XMR-DASH.webp"
+thumbnail: "/images/ZEC-XMR-DASH.webp"
 image_alt: "Symbolic illustration of Zcash (ZEC), Monero (XMR) and Dash (DASH) as privacy coins"
 image_credit: "MetaAdvisor.eu"
 tags: ["zcash", "zec", "monero", "xmr", "dash", "privacy-coins", "crypto", "crypto-market", "privacy"]
 summary: "While much of the crypto market ended 2025 marked by caution and weakness, privacy coins such as Zcash, Monero and Dash unexpectedly stood out as relative outperformers."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

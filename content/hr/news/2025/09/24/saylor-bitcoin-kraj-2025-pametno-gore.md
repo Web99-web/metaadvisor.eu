@@ -29,6 +29,7 @@ tags:
   - liquidity
   - adoption
 summary: "Michael Saylor smatra da bi se prema kraju 2025. potražnja za BTC-om iz ETF-ova i korporativnih trezora ponovno mogla nazirati kao ključna sila, jača od nove ponude, što bi ‘pametno’ poguralo cijenu naviše."
+categories: ["crypto"]
 ---
 
 **Kratko:** **Michael Saylor** (MicroStrategy) poručuje kako bi se **prema kraju 2025.** mogao dogoditi **novi, “pametan” uzlazni val** na bitcoinu — primarno zbog **potražnje iz spot ETF-ova**, **korporativnih bilanci** i **sve oskudnije nove ponude** nakon halvinga. Prema njegovoj tezi, **strukturna kupnja** nadglasala bi **cikličke padove** i kratkoročna risk-off razdoblja.

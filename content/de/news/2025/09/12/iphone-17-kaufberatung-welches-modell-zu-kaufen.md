@@ -3,7 +3,7 @@ title: "iPhone 17 Kaufberatung: Welches Modell solltest du kaufen?"
 slug: "iphone-17-kaufberatung-welches-modell-zu-kaufen"
 date: 2025-09-12T12:00:00Z
 category: "news"
-translationKey: "4f1a99c11e3a4a6b9cb2f4eacb3b8e2a"
+translationKey: "iphone-17-quick-guide-2025-09-12"
 source: "MetaAdvisor"
 source_url: "https://metaadvisor.eu/de/"
 priority: 100
@@ -11,6 +11,7 @@ image_url: "/images/IPHONE3.jpg"
 tags: ["apple", "iphone", "smartphones"]
 our_take: |
   Unser Fazit: Entscheide zuerst Displaygröße und Speicher. 17 = Preis/Leistung, Air = dünn & ausdauernd, Pro/Pro Max = Kamera + Performance — bezahle nur, wenn du’s nutzt.
+categories: ["news"]
 ---
 
 Apples 2025-Line-up: **iPhone 17**, **iPhone Air**, **iPhone 17 Pro**, **iPhone 17 Pro Max**. Hier die Kurzfassung.

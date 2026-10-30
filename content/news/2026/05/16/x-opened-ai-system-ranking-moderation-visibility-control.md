@@ -7,15 +7,16 @@ translationKey: "9f1c2a74e5d84f1ba671c93a6ef02d44"
 source: "Metaadvisor (xAI GitHub, X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/X-published-algorithm-on-Github.png"
-featured_image: "/images/news/X-published-algorithm-on-Github.png"
-image: "/images/news/X-published-algorithm-on-Github.png"
-thumbnail: "/images/news/X-published-algorithm-on-Github.png"
+image_url: "/images/news/X-published-algorithm-on-Github.webp"
+featured_image: "/images/news/X-published-algorithm-on-Github.webp"
+image: "/images/news/X-published-algorithm-on-Github.webp"
+thumbnail: "/images/news/X-published-algorithm-on-Github.webp"
 image_alt: "X AI algorithm published on GitHub"
 image_credit: "Metaadvisor.eu"
 tags: ["x", "xai", "grok", "github", "artificial intelligence", "ai", "algorithm", "social media", "moderation", "visibility", "content control", "internet", "ai moderation", "open source"]
 summary: "Published parts of the X/xAI recommendation system on GitHub reveal how modern social networks have become AI-mediated systems that analyze content, audio, trust profiles and user visibility."
 draft: false
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.7;">

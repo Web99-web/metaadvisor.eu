@@ -9,6 +9,7 @@ summary: "Ausbruch über 3 $ löst einen fünffachen Volumensprung aus; Fed-Kurs
 tags: ["xrp","ripple","price","breakout","powell","fed","jackson-hole","onchain","xrp-ledger","volume","markets","crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/092aae262c3e82083e87ab950178b71c032e309e-735x448.png?auto=format"
 image_alt: "XRP bricht über 3 $ aus – begleitet von stark steigendem Volumen"
+categories: ["news"]
 ---
 
 XRP legte in der Sitzung vom 22.–23. August deutlich zu und testete nach Wochen seitwärts gerichteten Handels den Mehrmonats-Widerstand bei rund 3,10 $.

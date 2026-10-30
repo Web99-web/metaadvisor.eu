@@ -16,6 +16,7 @@ image_alt: "Symbolisches Bild für künstliche Intelligenz und Veränderungen am
 image_credit: "Metaadvisor.eu"
 tags: ["AI", "künstliche Intelligenz", "Studierende", "Abschluss", "Arbeitsmarkt", "Technologie", "Karriere", "Automatisierung", "Bildung", "USA"]
 summary: "Studierende in den USA buhten Pro-AI-Botschaften bei einer Abschlussfeier aus, nachdem ihnen gesagt wurde, dass ein Teil des Wissens aus dem ersten Studienjahr vielleicht bereits veraltet sei. Die Geschichte zeigt, wie schnell Wissen heute an Wert verlieren kann und wie stark junge Menschen den Wandel durch künstliche Intelligenz bereits spüren."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">Das Bild ist symbolisch.</p>

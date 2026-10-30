@@ -15,6 +15,7 @@ image_alt: "Bitcoin green market reaction despite tariff tensions"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["bitcoin", "btc", "trump", "zoelle", "krypto", "crypto", "markt", "makrooekonomie", "volatilitaet"]
 summary: "Bitcoin bleibt stabil trotz neuer Zollspannungen und Aussagen von Donald Trump. Wir analysieren, ob dies ein Zeichen von Marktstärke oder nur kurzfristige Ruhe ist."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

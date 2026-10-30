@@ -16,6 +16,7 @@ image_alt: "Infographic: Your bank balance is not your money"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["banks","money","finance","fractional-reserve","swift","sepa","ach","settlement","liquidity","payment-systems","usa","europe","deposit-insurance","celsius","crypto","digital-money","education"]
 summary: "The moment you deposit money in a bank, it stops being yours and becomes the bank’s property. This is a deep analysis of how banks use your money, why the system works only as long as there is no panic, and why in the U.S. money moves as if it were still 1970."
+categories: ["finance"]
 ---
 
 # Money in the bank is not yours — it is the bank’s property. What you have is only a claim.

@@ -3,7 +3,7 @@ title: "Tinder Admits It: AI Is Now a Response to User Burnout and Swipe Fatigue
 slug: "tinder-ai-swipe-fatigue-burnout-chemistry"
 date: 2026-02-05T12:30:00
 category: "ai"
-translationKey: "bebee28a72a90f8b0e794232f4e5d83c"
+translationKey: "bebee28a72a90f8b0e794232f4e5d83c--2026-02-05"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/"
 author: "TechCrunch"
@@ -16,6 +16,7 @@ image_alt: "Tinder uses AI to fight swipe fatigue and user burnout"
 image_credit: "TechCrunch / MetaAdvisor.eu"
 tags: ["tinder","ai","artificial intelligence","privacy","dating apps","match group","burnout","gen z","algorithms","data"]
 summary: "Tinder now openly admits that AI is not a feature experiment but a response to user burnout, declining subscriptions and the limits of endless swiping."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

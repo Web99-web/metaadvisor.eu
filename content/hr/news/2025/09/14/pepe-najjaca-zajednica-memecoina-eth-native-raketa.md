@@ -9,6 +9,7 @@ image_alt: "PEPE memecoin"
 tags: ["pepe","memecoins","ethereum","beta","likvidnost","markets","community"]
 summary: "PEPE je iz internetske fore narastao u fenomen: jedna od najglasnijih zajednica, trajno visoki volumeni i česta ‘viša beta’ u odnosu na ETH kad tržište krene risk-on."
 our_take: "Ako gledaš PEPE, gledaj ETH trend + likvidnost i puls zajednice. U uzlaznim fazama ETH-a PEPE često reagira brže — ali i brže kažnjava kad se trend preokrene."
+categories: ["news"]
 ---
 
 **Zašto baš PEPE?**  

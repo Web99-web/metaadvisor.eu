@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "b9c4e0f8c1ad46c0bba77e0d2d992eb2"
 source: "Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/btc-who-controles.png"
-featured_image: "/images/btc-who-controles.png"
-image: "/images/btc-who-controles.png"
-thumbnail: "/images/btc-who-controles.png"
+image_url: "/images/btc-who-controles.webp"
+featured_image: "/images/btc-who-controles.webp"
+image: "/images/btc-who-controles.webp"
+thumbnail: "/images/btc-who-controles.webp"
 image_alt: "Who runs Bitcoin – a decentralized network of people, not an institution"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin","Nick Szabo","Satoshi","Bitcoin Core","decentralization","developers","nodes","miners","open-source","regulation"]
 summary: "Bitcoin has no CEO. It’s sustained by nodes, miners and open-source developers — funded by donations and grants. After five years of silence, Nick Szabo weighs in on a contentious Core update."
+categories: ["crypto"]
 ---
 
 ### Who actually runs Bitcoin?

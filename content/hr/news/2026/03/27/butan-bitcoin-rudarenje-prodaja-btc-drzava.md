@@ -7,14 +7,15 @@ translationKey: "e788097f0e70da2e85a3995ef5b99328"
 author: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/news/Butan-BTC.png"
-featured_image: "/images/news/Butan-BTC.png"
-image: "/images/news/Butan-BTC.png"
-thumbnail: "/images/news/Butan-BTC.png"
+image_url: "/images/news/Butan-BTC.webp"
+featured_image: "/images/news/Butan-BTC.webp"
+image: "/images/news/Butan-BTC.webp"
+thumbnail: "/images/news/Butan-BTC.webp"
 image_alt: "Butan i Bitcoin – rudarenje i prodaja BTC-a"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "kripto", "butan", "rudarenje", "hidroenergija", "crypto", "blockchain", "prodaja", "tržište"]
 summary: "Butan, mala azijska država koja je većinom rudarenjem prikupila tisuće Bitcoina, sada ubrzano prodaje BTC u vrijednosti većoj od 150 milijuna dolara, bez većeg utjecaja na tržište."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

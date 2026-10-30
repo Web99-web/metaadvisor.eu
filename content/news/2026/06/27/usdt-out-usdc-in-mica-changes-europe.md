@@ -7,14 +7,15 @@ translationKey: "usdt-usdc-mica-stablecoin-europa-2026-06-27"
 source: "Circle, ESMA, EBA, Reuters, Decrypt, Coinbase, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/USDT-USDC-EU-MICA.png"
-featured_image: "/images/news/USDT-USDC-EU-MICA.png"
-image: "/images/news/USDT-USDC-EU-MICA.png"
-thumbnail: "/images/news/USDT-USDC-EU-MICA.png"
+image_url: "/images/news/USDT-USDC-EU-MICA.webp"
+featured_image: "/images/news/USDT-USDC-EU-MICA.webp"
+image: "/images/news/USDT-USDC-EU-MICA.webp"
+thumbnail: "/images/news/USDT-USDC-EU-MICA.webp"
 image_alt: "USDT is out, USDC is in under MiCA rules in Europe"
 image_credit: "Metaadvisor.eu"
 tags: ["USDT", "USDC", "MiCA", "stablecoins", "Tether", "Circle", "crypto regulation", "European Union", "digital assets", "crypto exchanges", "Coinbase", "compliance", "blockchain", "regulated Europe", "Metaadvisor"]
 summary: "MiCA rules are changing the European stablecoin market. USDT remains globally important, but it is losing part of its access to regulated European platforms, while USDC is gaining an advantage because Circle has positioned itself within the EU regulatory framework. This is not only a story about two stablecoins, but about how regulation is changing liquidity, user choice and the rules of crypto in Europe."
+categories: ["crypto"]
 ---
 
 The image is symbolic.

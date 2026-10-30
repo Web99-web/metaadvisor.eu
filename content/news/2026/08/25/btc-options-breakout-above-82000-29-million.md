@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "bitcoin-call-options-29-million-82000-2026-08-25"
 source: "CoinDesk, Laevitas, Deribit, ESMA, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/BTC-call-options-2.9m.png"
-featured_image: "/images/news/BTC-call-options-2.9m.png"
-image: "/images/news/BTC-call-options-2.9m.png"
-thumbnail: "/images/news/BTC-call-options-2.9m.png"
+image_url: "/images/news/BTC-call-options-2.9m.webp"
+featured_image: "/images/news/BTC-call-options-2.9m.webp"
+image: "/images/news/BTC-call-options-2.9m.webp"
+thumbnail: "/images/news/BTC-call-options-2.9m.webp"
 image_alt: "Bitcoin call options worth $2.9 million targeting a BTC breakout above $82,000"
 image_credit: "Metaadvisor.eu – image is illustrative"
 tags: ["Bitcoin", "BTC", "Bitcoin options", "call options", "crypto options", "BTC options", "strike price", "option premium", "Deribit", "Laevitas", "Bitcoin futures", "crypto derivatives", "options", "futures", "Bitcoin trading", "Bitcoin price", "volatility", "downside protection", "put options", "MiFID II", "EU"]
 description: "One or more traders paid around $2.9 million for 2,000 Bitcoin call options with an $82,000 strike. But BTC does not necessarily have to cross $82,000 for the trader to profit from the options."
 summary: "Someone put around $2.9 million on a rapid Bitcoin breakout above $82,000 while the wider options market simultaneously buys protection against a decline. What exactly was bought, why choose options instead of futures, and how can an option become profitable before BTC even reaches the strike?"
+categories: ["Crypto"]
 ---
 
 *The image is illustrative.*

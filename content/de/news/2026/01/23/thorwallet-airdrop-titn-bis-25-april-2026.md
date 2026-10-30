@@ -7,14 +7,15 @@ translationKey: "thorwallet_titn_airdrop_20260123"
 source: "ThorWallet App / offizielle Regeln"
 source_url: "https://thorwallet.org/"
 author: "MetaAdvisor.eu"
-image_url: "/images/ThorWallet-airdrop.png"
-featured_image: "/images/ThorWallet-airdrop.png"
-image: "/images/ThorWallet-airdrop.png"
-thumbnail: "/images/ThorWallet-airdrop.png"
+image_url: "/images/ThorWallet-airdrop.webp"
+featured_image: "/images/ThorWallet-airdrop.webp"
+image: "/images/ThorWallet-airdrop.webp"
+thumbnail: "/images/ThorWallet-airdrop.webp"
 image_alt: "ThorWallet App – TITN Airdrop Leaderboard"
 image_credit: "ThorWallet / symbolische Darstellung"
 tags: ["thorwallet","airdrop","titn","thorchain","krypto rewards","leaderboard","wallet","defi"]
 summary: "ThorWallet hat eine neue Airdrop-Kampagne gestartet, bei der insgesamt 5.000.000 TITN Token ausgeschüttet werden. Laut offiziellen Regeln läuft Airdrop One bis zum 25. April 2026."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

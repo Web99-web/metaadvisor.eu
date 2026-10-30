@@ -8,14 +8,15 @@ author: "The Guardian Tech"
 analysis_by: "Metaadvisor.eu"
 source: "The Guardian Tech"
 source_url: ""
-image_url: "/images/companies/PS5-100usd-more.png"
-featured_image: "/images/companies/PS5-100usd-more.png"
-image: "/images/companies/PS5-100usd-more.png"
-thumbnail: "/images/companies/PS5-100usd-more.png"
+image_url: "/images/companies/PS5-100usd-more.webp"
+featured_image: "/images/companies/PS5-100usd-more.webp"
+image: "/images/companies/PS5-100usd-more.webp"
+thumbnail: "/images/companies/PS5-100usd-more.webp"
 image_alt: "PS5 poskupljenje zbog AI i globalnih troškova čipova"
 image_credit: "MetaAdvisor.eu"
 tags: ["sony", "ps5", "ai", "poluvodici", "cipovi", "gaming", "inflacija", "tehnologija", "rat", "ekonomija"]
 summary: "Sony podiže cijene PS5 za $100 zbog rasta troškova čipova, potaknutog AI utrkom i poremećajima u opskrbi izazvanim geopolitičkim sukobima."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

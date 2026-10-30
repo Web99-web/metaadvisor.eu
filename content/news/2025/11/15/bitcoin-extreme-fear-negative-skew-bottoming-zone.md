@@ -15,6 +15,7 @@ image_alt: "Bitcoin dropping below 100k"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "market", "analysis", "fear-and-greed", "negative-skew", "nasdaq", "volatility", "liquidations"]
 summary: "Bitcoin enters extreme fear as the price trades between 93.9k and 95.9k USD. Negative skew has fallen to 2022 levels — historically a sign that the market may be nearing a bottoming zone."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

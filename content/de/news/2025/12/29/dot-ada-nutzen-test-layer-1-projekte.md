@@ -7,10 +7,10 @@ translationKey: "dot_ada_utility_test_29122025"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/DOT-ADA.png"
-featured_image: "/images/DOT-ADA.png"
-image: "/images/DOT-ADA.png"
-thumbnail: "/images/DOT-ADA.png"
+image_url: "/images/DOT-ADA.webp"
+featured_image: "/images/DOT-ADA.webp"
+image: "/images/DOT-ADA.webp"
+thumbnail: "/images/DOT-ADA.webp"
 image_alt: "Polkadot DOT und Cardano ADA – Test der realen Nutzung von Layer-1-Projekten"
 image_credit: "MetaAdvisor / Illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - blockchain-projekte
   - reale-nutzung
 summary: "Polkadot und Cardano zeigen zum Jahresende 2025 uneinheitliche Kursbewegungen. Der Markt stellt zunehmend die Frage, ob ältere Layer-1-Projekte ihre Bewertung mit realer Nutzung rechtfertigen können."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

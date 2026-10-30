@@ -15,6 +15,7 @@ image_alt: "Stocks, Big Tech and the financing of AI infrastructure"
 image_credit: "Metaadvisor.eu"
 tags: ["Big Tech", "AI", "artificial intelligence", "Oracle", "Meta", "SpaceX", "IPO", "stocks", "investing", "AI infrastructure", "data centers", "AI costs", "capex", "retail investors", "financial markets", "Metaadvisor"]
 summary: "Big Tech increasingly needs capital to finance expensive AI infrastructure. Oracle, Meta and SpaceX show different sides of the same story: AI optimism can push stocks higher, but rising costs, debt, IPO valuations and the question of real profit are making investors more cautious."
+categories: ["ai"]
 ---
 
 The image is symbolic.

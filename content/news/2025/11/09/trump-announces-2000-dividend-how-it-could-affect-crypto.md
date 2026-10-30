@@ -16,6 +16,7 @@ image_alt: "White House with U.S. flag"
 image_credit: "Metaadvisor.eu"
 tags: ["trump", "crypto", "bitcoin", "usa", "inflation", "stimulus", "politics"]
 summary: "Donald Trump announced a $2,000-per-person dividend funded by tariff revenues. Analysts see short-term upside for markets, but inflation risk in the long run."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -6,10 +6,11 @@ category: "news"
 translationKey: "2cf94e4aaabaf74f80764552f98ba5e8"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/15/memecoins-under-pressure-as-shib-dogecoin-slide-after-shibarium-loses-usd2-4m-in-hack"
-image_url: "/images/bone.png"
+image_url: "/images/bone.webp"
 image_alt: "BONE-Token und Shibarium — Sicherheitskontext"
 tags: ["memecoins","security","shib","doge","bone","bridge"]
 summary: "Shibarium wurde Ziel eines Flash-Loan-Angriffs auf das Validator-System; rund 2,4 Mio. $ in ETH/SHIB abgezogen. SHIB/DOGE geraten unter Druck; SHIB mit dem stärksten Tagesminus seit drei Wochen."
+categories: ["news"]
 ---
 
 **Was passiert ist**  

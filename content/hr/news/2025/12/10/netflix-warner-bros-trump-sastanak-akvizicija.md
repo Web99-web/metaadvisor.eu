@@ -7,14 +7,15 @@ translationKey: "netflix_warner_trump_meeting_10122025"
 source: "MetaAdvisor analiza — na temelju izvještaja TechCruncha, Bloomberga i THR-a"
 source_url: "https://techcrunch.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Netflix-Warner-Bros.png"
-featured_image: "/images/Netflix-Warner-Bros.png"
-image: "/images/Netflix-Warner-Bros.png"
-thumbnail: "/images/Netflix-Warner-Bros.png"
+image_url: "/images/Netflix-Warner-Bros.webp"
+featured_image: "/images/Netflix-Warner-Bros.webp"
+image: "/images/Netflix-Warner-Bros.webp"
+thumbnail: "/images/Netflix-Warner-Bros.webp"
 image_alt: "Netflix i Warner Bros — akvizicija i geopolitički pritisak"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["netflix","warner-bros","trump","akvizicije","streaming","tehnologija","hollywood","paramount","regulativa","trziste","analiza"]
 summary: "Privatni Netflixov sastanak s Donaldom Trumpom o potencijalnoj akviziciji Warner Brosa otkriva duboku tektoniku — borbu za kontrolu nad globalnim streaming tržištem i povijesno restrukturiranje Hollywooda."
+categories: ["tech"]
 ---
 
 <div class="cta">

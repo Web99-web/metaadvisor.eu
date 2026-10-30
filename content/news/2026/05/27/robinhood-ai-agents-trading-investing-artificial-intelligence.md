@@ -15,6 +15,7 @@ image_alt: "Robinhood and AI agents for automated trading and financial decision
 image_credit: "Metaadvisor.eu"
 tags: ["robinhood", "ai", "artificial intelligence", "ai agents", "agentic trading", "fintech", "trading", "investing", "stocks", "crypto", "cryptocurrency", "bitcoin", "btc", "retail investors", "automation", "financial technology", "risk", "market", "portfolio", "virtual credit card"]
 summary: "Robinhood is introducing AI agents that could monitor markets, execute strategies and make purchases on behalf of users. The idea sounds practical, but it raises major questions about control, risk and responsibility when artificial intelligence gets access to real money."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

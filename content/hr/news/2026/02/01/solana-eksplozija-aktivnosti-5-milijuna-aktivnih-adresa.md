@@ -24,6 +24,7 @@ tags:
   - ai
   - ethereum
 summary: "Solana je krajem siječnja zabilježila snažan rast aktivnosti, s više od 5 milijuna aktivnih adresa dnevno, potaknut kombinacijom AI alata, memecoin ekspanzije i niskih transakcijskih troškova."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

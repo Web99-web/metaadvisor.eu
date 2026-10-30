@@ -13,6 +13,7 @@ image_alt: "Ethena Labs — logotip"
 image_credit: "Metaadvisor (simbolična slika)"
 tags: ["CZ","Changpeng-Zhao","Yi-He","YZi-Labs","Ethena-Labs","USDe","stablecoin","synthetic-dollar","delta-neutral","perpetual-futures","BNB-Chain","USDtb","Converge","Securitize","BlackRock","CeDeFi","on-chain-finance"]
 summary: "YZi Labs — privatna investicijska kuća (tzv. family office) osnivača Binancea CZ-a i Yi He — produbljuje ulaganje u Ethena Labs. USDe, ‘sintetički dolar’, premašio je 13 mlrd $ ponude; Ethena širi prisutnost na BNB Chain i najavljuje institucionalne proizvode poput USDtb i Convergea."
+categories: ["crypto"]
 ---
 
 **Tko su akteri i što je ‘family office’?**  

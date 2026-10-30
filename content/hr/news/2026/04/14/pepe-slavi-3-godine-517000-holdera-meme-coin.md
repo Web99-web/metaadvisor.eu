@@ -15,6 +15,7 @@ image_alt: "Pepe meme coin tri godine kasnije"
 image_credit: "Metaadvisor.eu"
 tags: ["pepe", "meme coin", "kriptovalute", "ethereum", "tržište", "crypto kultura", "blockchain", "trading", "investiranje"]
 summary: "Tri godine nakon lansiranja, Pepe i dalje ima više od 517.000 holdera i ostaje jedan od rijetkih meme coina koji su preživjeli više tržišnih ciklusa."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

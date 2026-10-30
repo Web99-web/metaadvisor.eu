@@ -7,10 +7,10 @@ translationKey: "1b22cbbc45d310cb4fc20f21b34cdb6e"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitfarms-latam-paraguay-sale"
 author: "MetaAdvisor.eu"
-image_url: "/images/Bitfarms-exits-latin-america.png"
-featured_image: "/images/Bitfarms-exits-latin-america.png"
-image: "/images/Bitfarms-exits-latin-america.png"
-thumbnail: "/images/Bitfarms-exits-latin-america.png"
+image_url: "/images/Bitfarms-exits-latin-america.webp"
+featured_image: "/images/Bitfarms-exits-latin-america.webp"
+image: "/images/Bitfarms-exits-latin-america.webp"
+thumbnail: "/images/Bitfarms-exits-latin-america.webp"
 image_alt: "Bitfarms napušta rudarske operacije u Paragvaju i Latinskoj Americi"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 tags:
@@ -23,6 +23,7 @@ tags:
   - energija
   - crypto
 summary: "Bitfarms prodaje rudarski pogon u Paragvaju za 30 milijuna dolara i u potpunosti izlazi iz Latinske Amerike, usmjeravajući se na AI i high-performance computing infrastrukturu u Sjevernoj Americi."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

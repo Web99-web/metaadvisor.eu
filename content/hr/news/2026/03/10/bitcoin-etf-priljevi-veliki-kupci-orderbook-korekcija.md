@@ -16,6 +16,7 @@ image_alt: "Bitcoin tržište ETF kapital orderbook analiza"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["bitcoin", "btc", "kripto", "crypto", "bitcoin etf", "spot etf", "kripto fondovi", "institucionalni investitori", "otc trgovanje", "orderbook", "kripto tržište", "bitcoin cijena", "crypto market", "tradfi", "defi", "bitcoin analiza"]
 summary: "Bitcoin se ponovno približava razini od 70.000 dolara dok kapital ponovno ulazi u Bitcoin ETF-ove. Istodobno veliki kupci i OTC trgovine stabiliziraju tržište tijekom naftnog šoka, ali orderbook pokazuje povećani pritisak prodaje koji bi mogao signalizirati korekciju."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

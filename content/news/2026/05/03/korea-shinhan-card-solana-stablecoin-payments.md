@@ -15,6 +15,7 @@ image_alt: "Shinhan credit card and Solana blockchain payments"
 image_credit: "Metaadvisor.eu"
 tags: ["shinhan card", "solana blockchain", "stablecoin payments", "korea crypto", "defi finance", "tradfi defi integration", "blockchain cards", "digital payments", "crypto infrastructure", "fintech asia"]
 summary: "Shinhan Card, one of South Korea’s largest card issuers, partners with Solana to test stablecoin payments and explore new digital finance models."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

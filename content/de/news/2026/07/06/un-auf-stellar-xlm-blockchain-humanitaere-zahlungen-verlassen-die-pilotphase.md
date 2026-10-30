@@ -15,6 +15,7 @@ image_alt: "UN und Stellar XLM Blockchain für humanitäre Zahlungen"
 image_credit: "Metaadvisor.eu"
 tags: ["UN Blockchain-Zahlungen", "Stellar XLM", "UNDP Stellar", "humanitäre Zahlungen", "Blockchain für Hilfe", "Stellar Blockchain", "XLM Netzwerk", "UNHCR Ukraine", "digitale Hilfszahlungen", "Blockchain-Infrastruktur"]
 summary: "UNDP, das Entwicklungsprogramm der Vereinten Nationen, erweitert den Einsatz von Blockchain-Zahlungen auf dem Stellar XLM Netzwerk nach Pilotprojekten in mehreren Ländern. In Syrien wurden die Verteilungskosten von 10 auf 2 Prozent gesenkt, und ein früherer UN-Pilot mit Stellar wurde bereits während des Krieges in der Ukraine genutzt."
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

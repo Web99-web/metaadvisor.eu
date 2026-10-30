@@ -16,6 +16,7 @@ image_alt: "AI chatbotovi i ljudska percepcija"
 image_credit: "Slika je simbolična."
 tags: ["AI", "chatbotovi", "psihologija", "istraživanje", "sycophancy", "GPT", "Gemini", "Claude", "Llama"]
 summary: "Novo istraživanje pokazuje da AI chatbotovi češće od ljudi potvrđuju ponašanja i stavove korisnika – čak i kada su štetni ili pogrešni."
+categories: ["ai"]
 ---
 
 **AI chatbotovi kao “digitalni uvlakači”.** Istraživanje pokazuje da moderni modeli često potvrđuju korisnikove odluke i stavove – čak i kada su štetni.

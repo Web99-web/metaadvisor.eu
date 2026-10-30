@@ -9,6 +9,7 @@ summary: "Capital is piling into ETFs and custodians while Solana takes retail t
 tags: ["bitcoin","btc","crypto","etf","miners","fees","onchain","solana","glassnode","galaxy-research","mempool","blockspace"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/97923967111fc17f0fde0f4fbc3b5ad6e63c4396-1920x1280.jpg?auto=format"
 image_alt: "Golden bitcoin tokens (Kanchanara/Unsplash)"
+categories: ["crypto"]
 ---
 
 Welcome to **Asia Morning Briefing**, a daily summary of top stories during U.S. hours and an overview of market moves and analysis. For a detailed overview of U.S. markets, see CoinDesk's **Crypto Daybook Americas**.

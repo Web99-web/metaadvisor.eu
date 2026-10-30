@@ -15,6 +15,7 @@ image_alt: "Bitcoin prelazi 80 tisuća dolara uz rast institucionalne potražnje
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto trziste", "kripto analiza", "institucionalni investitori", "btc 80000", "altcoini", "ethereum", "solana", "crypto volatilnost", "bitcoin analiza", "kripto trendovi"]
 summary: "Bitcoin je probio razinu od 80.000 USD uz snažnu institucionalnu potražnju, ali geopolitičke tenzije i dalje stvaraju volatilnost. Ključno pitanje ostaje hoće li altcoini slijediti ovaj rast."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

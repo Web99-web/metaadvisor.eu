@@ -15,6 +15,7 @@ image_alt: "Bitcoin finance market and ETF outflows"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Krypto", "Crypto", "Bitcoin ETF", "Spot Bitcoin ETF", "ETF-Abflüsse", "BlackRock", "IBIT", "Fidelity", "FBTC", "Grayscale", "GBTC", "SoSoValue", "Farside Investors", "institutionelle Investoren", "Makrorisiko", "Zinsen", "Liquidität", "Risk-off", "digitale Vermögenswerte", "Metaadvisor"]
 summary: "Bitcoin bewegt sich um 63.000 USD, doch Spot-Bitcoin-ETFs verzeichnen rund 1,7 Mrd. USD an wöchentlichen Abflüssen — bereits die vierte Woche in Folge. Die Daten zeigen, dass institutionelle Vorsicht noch nicht verschwunden ist."
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

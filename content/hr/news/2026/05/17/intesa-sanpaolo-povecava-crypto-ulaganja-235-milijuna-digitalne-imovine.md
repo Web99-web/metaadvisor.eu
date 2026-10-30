@@ -7,14 +7,15 @@ translationKey: "fb9473aee08c6bd1cc69ffbd7a497d35"
 source: "Metaadvisor (Cointelegraph, Criptovaluta.it, CryptoSlate)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Banks-move-into-crypto.png"
-featured_image: "/images/Banks-move-into-crypto.png"
-image: "/images/Banks-move-into-crypto.png"
-thumbnail: "/images/Banks-move-into-crypto.png"
+image_url: "/images/Banks-move-into-crypto.webp"
+featured_image: "/images/Banks-move-into-crypto.webp"
+image: "/images/Banks-move-into-crypto.webp"
+thumbnail: "/images/Banks-move-into-crypto.webp"
 image_alt: "Velike europske banke sve više ulaze u crypto sektor"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "kripto", "bitcoin", "btc", "ethereum", "eth", "xrp", "solana", "banke", "bankarstvo", "digitalna imovina", "intesa sanpaolo", "pbz", "europske banke", "blockchain", "etf", "blackrock", "financije", "institucionalni investitori", "wall street"]
 summary: "Intesa Sanpaolo, jedna od najvećih europskih bankarskih grupacija, povećala je svoj crypto exposure na oko 235 milijuna dolara kroz Bitcoin, Ethereum i XRP ETF proizvode."
+categories: ["crypto"]
 ---
 
 <small><em>Slika je simbolična.</em></small>

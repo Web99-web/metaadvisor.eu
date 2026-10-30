@@ -16,6 +16,7 @@ image_alt: "BitFuFu Q3 Cloud-Mining Wachstum"
 image_credit: "Metaadvisor.eu"
 tags: ["bitfufu", "singapur", "bitcoin", "mining", "cloud-mining", "profit", "hashrate", "crypto", "markt", "infrastruktur", "btc"]
 summary: "Das singapursche Cloud-Mining-Unternehmen BitFuFu hat seine Umsätze im dritten Quartal mehr als verdoppelt und bestätigt die starke globale Erholung des Bitcoin-Minings."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

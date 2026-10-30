@@ -7,10 +7,10 @@ translationKey: "google_deepmind_alphagenome_ai_genome_20260130"
 source: "The Guardian / Google DeepMind"
 source_url: "https://www.theguardian.com/science/2026/jan/28/google-deepmind-alphagenome-ai-tool-genetics-disease"
 author: "MetaAdvisor.eu"
-image_url: "/images/Google-DeepMind-AI-AlphaGenome.png"
-featured_image: "/images/Google-DeepMind-AI-AlphaGenome.png"
-image: "/images/Google-DeepMind-AI-AlphaGenome.png"
-thumbnail: "/images/Google-DeepMind-AI-AlphaGenome.png"
+image_url: "/images/Google-DeepMind-AI-AlphaGenome.webp"
+featured_image: "/images/Google-DeepMind-AI-AlphaGenome.webp"
+image: "/images/Google-DeepMind-AI-AlphaGenome.webp"
+thumbnail: "/images/Google-DeepMind-AI-AlphaGenome.webp"
 image_alt: "AI analiza DNK uz pomoć Google DeepMind AlphaGenome alata"
 image_credit: "Ilustracija / MetaAdvisor.eu"
 tags:
@@ -25,6 +25,7 @@ tags:
   - genetske bolesti
   - biotehnologija
 summary: "Google DeepMind predstavio je AlphaGenome, AI alat koji može analizirati do milijun DNK znakova odjednom i pomoći u otkrivanju genetskih uzroka bolesti. Riječ je o potencijalno velikom iskoraku u razumijevanju genoma i razvoju budućih terapija."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "hype-wall-street-defi-burza-2026-05-22"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Hype-up.png"
-featured_image: "/images/Hype-up.png"
-image: "/images/Hype-up.png"
-thumbnail: "/images/Hype-up.png"
+image_url: "/images/Hype-up.webp"
+featured_image: "/images/Hype-up.webp"
+image: "/images/Hype-up.webp"
+thumbnail: "/images/Hype-up.webp"
 image_alt: "HYPE-Token über 60 USD und symbolische Darstellung des DeFi-Marktes"
 image_credit: "Metaadvisor.eu"
 tags: ["hype", "hyperliquid", "defi", "dezentrale finanzen", "crypto", "krypto", "wall street", "etf", "perpetual futures", "dex", "börse", "trading", "blockchain", "institutionelles kapital", "mexc"]
 summary: "HYPE ist laut MEXC-Daten über 61 USD gestiegen, während der Markt Hyperliquid zunehmend als mögliche Brücke zwischen DeFi-Trading-Infrastruktur und institutionellem Kapital betrachtet. Die Frage ist nicht mehr nur, wie stark der Token steigen kann, sondern ob eine dezentrale Börse tatsächlich Milliarden wert sein kann."
+categories: ["crypto"]
 ---
 
 <small>Das Bild ist symbolisch.</small>

@@ -9,6 +9,7 @@ summary: "Token je pao s $3,02 na $2,89 tijekom 28.–29. kolovoza na iznadprosj
 tags: ["xrp", "crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/xrp-bullish-patterns-2025.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/xrp-bullish-patterns-2025.jpg?auto=format&width=1200"
+categories: ["news"]
 ---
 
 XRP se nalazi u fokusu analitičara nakon što je token zabilježio pad s **$3,02 na $2,89** u razdoblju od 28. do 29. kolovoza, uz pojačane volumene trgovanja. Nakon toga se stabilizirao u zoni podrške **$2,83–$2,89**, a signali preprodaje i povećana akumulacija od strane kitova ublažili su prodajni pritisak.  

@@ -7,14 +7,15 @@ translationKey: "nafta-iznenadujuce-nisko-wti-brent-plin-krhkost-trzista-2026-06
 source: "Reuters, Trading Economics, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-Gas-news.png"
-featured_image: "/images/Oil-Gas-news.png"
-image: "/images/Oil-Gas-news.png"
-thumbnail: "/images/Oil-Gas-news.png"
+image_url: "/images/Oil-Gas-news.webp"
+featured_image: "/images/Oil-Gas-news.webp"
+image: "/images/Oil-Gas-news.webp"
+thumbnail: "/images/Oil-Gas-news.webp"
 image_alt: "Oil and gas news with market charts, oil barrels and gas infrastructure"
 image_credit: "Metaadvisor.eu"
 tags: ["nafta", "plin", "WTI", "Brent", "cijene nafte", "cijene plina", "energetsko tržište", "prirodni plin", "LNG", "Katar", "TTF plin", "Hormuški tjesnac", "Iran", "Bliski istok", "geopolitički rizik", "tržište energenata", "Metaadvisor"]
 summary: "WTI je oko 71 dolara, Brent oko 75 dolara, a naftno tržište izgleda iznenađujuće mirno dok pregovori i energetski rizici još nisu potpuno riješeni. Plin, međutim, i dalje pokazuje koliko je globalni LNG sustav krhak."
+categories: ["markets"]
 ---
 
 Slika je simbolična.

@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/polymarket-founder-coplan-billionaires-nyse-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Polymarket-ICE.png"
-featured_image: "/images/Polymarket-ICE.png"
-image: "/images/Polymarket-ICE.png"
-thumbnail: "/images/Polymarket-ICE.png"
+image_url: "/images/Polymarket-ICE.webp"
+featured_image: "/images/Polymarket-ICE.webp"
+image: "/images/Polymarket-ICE.webp"
+thumbnail: "/images/Polymarket-ICE.webp"
 image_alt: "Polymarket i ICE (NYSE parent company)"
 image_credit: "Dizajn: Metaadvisor.eu"
 tags:
@@ -24,6 +24,7 @@ tags:
   - regulation
   - institutions
 summary: "Intercontinental Exchange (ICE), matična kuća njujorške burze NYSE, uložila je u Polymarket. Time osnivač Shayne Coplan formalno postaje 'milijarder na papiru', a Polymarket prelazi iz Web3 niše u mainstream financijski fokus."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

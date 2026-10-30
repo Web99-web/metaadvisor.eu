@@ -16,6 +16,7 @@ image_alt: "Aktienmarkt & AI – symbolische Illustration"
 image_credit: "Metaadvisor image_map (symbolisches Bild)"
 tags: ["IREN","AI-Cloud","GPU","NVIDIA","B200","B300","GB300","H100","H200","AMD","MI350X","Blackwell","Prince-George","Texas","Rechenzentren","Kapazität","Run-Rate","500M-USD","Pre-Market","Aktie","Bitcoin-Mining","50-EHs","Diversifikation","Capex","Hyperscaler","Enterprise-Kunden","Compute"]
 summary: "Der frühere Pure-Play-Bitcoin-Miner IREN expandiert aggressiv in AI-Compute: Flotte auf 23.000 GPUs, anvisierte Annualized Run-Rate >500 Mio. USD bis Q1/2026. Aktie im Vorhandel +11 %."
+categories: ["ai"]
 ---
 
 **Kurz & knapp:**  

@@ -7,10 +7,10 @@ translationKey: "522983db2ea47e1f4521c9153ddd0484"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/30/precious-metals-crash-with-silver-plunging-32-gold-11-bitcoin-slips-back-to-usd82-000"
 author: "Metaadvisor.eu"
-image_url: "/images/gold-down.png"
-featured_image: "/images/gold-down.png"
-image: "/images/gold-down.png"
-thumbnail: "/images/gold-down.png"
+image_url: "/images/gold-down.webp"
+featured_image: "/images/gold-down.webp"
+image: "/images/gold-down.webp"
+thumbnail: "/images/gold-down.webp"
 image_alt: "Starker Preisverfall bei Gold und Silber"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -24,6 +24,7 @@ tags:
   - volatilität
   - investieren
 summary: "Gold und Silber haben einen der stärksten Tagesverluste der letzten Jahrzehnte erlitten. Was steckt hinter dem plötzlichen Einbruch und welche Bedeutung hat das für Bitcoin?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

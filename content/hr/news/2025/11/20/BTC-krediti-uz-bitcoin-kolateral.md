@@ -8,14 +8,15 @@ source: "MetaAdvisor – analitički sadržaj"
 source_url: ""
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc-credit-fb.png"
-featured_image: "/images/btc-credit-fb.png"
-image: "/images/btc-credit-fb.png"
-thumbnail: "/images/btc-credit-fb.png"
+image_url: "/images/btc-credit-fb.webp"
+featured_image: "/images/btc-credit-fb.webp"
+image: "/images/btc-credit-fb.webp"
+thumbnail: "/images/btc-credit-fb.webp"
 image_alt: "Bitcoin kredit – ilustracija"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc kredit", "crypto loans", "kolateral", "stablecoini", "defi", "ledn", "kripto kredit"]
 summary: "Krediti uz Bitcoin kolateral omogućuju likvidnost bez prodaje BTC-a. Evo kako funkcioniraju, koji su rizici i kada se isplate."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

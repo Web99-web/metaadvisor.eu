@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/26/asia-morning-briefing-b
 summary: "Maloprodajna poluga se ispire dok ETF-ovi bilježe odljeve u milijardama, a kitovi i suvereni igrači tiho akumuliraju ETH i BTC kroz volatilnost."
 tags: ["crypto","bitcoin","btc","ethereum","eth","etf","likvidnost","whales","glassnode","qcp-capital","enflux","asia","konsolidacija","tržište"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/7b5d2c4ad567c31163d072346895d1c9b12152c1-6016x3530.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 Dobrodošli u **Asia Morning Briefing**, dnevni sažetak glavnih priča tijekom američkih sati i pregled tržišnih kretanja s analizom. Detaljan pregled američkih tržišta potražite u **Crypto Daybook Americas**.

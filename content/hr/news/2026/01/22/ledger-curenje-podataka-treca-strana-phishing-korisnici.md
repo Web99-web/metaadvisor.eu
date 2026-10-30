@@ -15,6 +15,7 @@ image_alt: "Ledger hardverski novčanik i sigurnosna upozorenja"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags: ["ledger","hardware wallet","phishing","sigurnost","curenje podataka","kripto prijevare","self custody","wallet sigurnost","blockchain sigurnost","kripto korisnici"]
 summary: "Početkom 2026. dio korisnika Ledgera našao se na meti uvjerljivih phishing napada nakon curenja podataka kod treće strane. Iako walleti nisu kompromitirani, incident je pokazao koliko je sigurnost kripto ekosustava šira od samog blockchaina."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

@@ -15,6 +15,7 @@ image_alt: "Symbolische Illustration von Bitcoin-Vermögen aus der frühen Zeit 
 image_credit: "MetaAdvisor.eu / symbolische Illustration"
 tags: ["bitcoin", "btc", "krypto", "crypto", "satoshi nakamoto", "erste welle", "whale", "wallet", "paper wallet", "blockchain"]
 summary: "Ein Bitcoin-Wallet aus der ersten Welle, entstanden in der Zeit von Satoshi Nakamoto, hat nach 13 Jahren Inaktivität rund 85 Millionen US-Dollar in BTC bewegt. Obwohl dies zunächst wie ein Verkaufssignal wirkt, spricht der historische und technische Kontext für andere Erklärungen."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

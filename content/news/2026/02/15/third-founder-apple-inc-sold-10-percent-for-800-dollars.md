@@ -7,14 +7,15 @@ translationKey: "apple-inc-third-founder-ronald-wayne"
 author: "Metaadvisor.eu"
 source: "Public historical records"
 source_url: ""
-image_url: "/images/Apple-inc-3rd-forgoten-foundeer.png"
-featured_image: "/images/Apple-inc-3rd-forgoten-foundeer.png"
-image: "/images/Apple-inc-3rd-forgoten-foundeer.png"
-thumbnail: "/images/Apple-inc-3rd-forgoten-foundeer.png"
+image_url: "/images/Apple-inc-3rd-forgoten-foundeer.webp"
+featured_image: "/images/Apple-inc-3rd-forgoten-foundeer.webp"
+image: "/images/Apple-inc-3rd-forgoten-foundeer.webp"
+thumbnail: "/images/Apple-inc-3rd-forgoten-foundeer.webp"
 image_alt: "Ronald Wayne, third co-founder of Apple Inc."
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["Apple Inc", "Ronald Wayne", "Steve Jobs", "Steve Wozniak", "Apple founders", "garage startup", "success from garage", "Silicon Valley", "entrepreneurship", "risk", "tech history"]
 summary: "The story of Ronald Wayne, the forgotten third co-founder of Apple Inc., who sold 10% of the company for $800 — and why that decision still fascinates the world."
+categories: ["story"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

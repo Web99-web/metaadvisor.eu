@@ -7,14 +7,15 @@ translationKey: "56ac4fc1d7e4343aa1501fa226e6abab"
 source: "Metaadvisor (Cointelegraph, Binance Square, MEXC, RBA, Visa)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Australia-crypto 1.png"
-featured_image: "/images/Australia-crypto 1.png"
-image: "/images/Australia-crypto 1.png"
-thumbnail: "/images/Australia-crypto 1.png"
+image_url: "/images/Australia-crypto 1.webp"
+featured_image: "/images/Australia-crypto 1.webp"
+image: "/images/Australia-crypto 1.webp"
+thumbnail: "/images/Australia-crypto 1.webp"
 image_alt: "Australija i tokenizirani novac kao budućnost plaćanja"
 image_credit: "Metaadvisor.eu"
 tags: ["tokenizirani novac", "stablecoin placanja", "australia crypto", "digitalni novac", "blockchain financije", "payment rails", "defi i tradfi", "centralne banke kripto", "buducnost placanja", "crypto infrastruktura"]
 summary: "Australija razmatra integraciju tokeniziranog novca u buduće sustave plaćanja, signalizirajući pomak prema digitalnim i programabilnim oblicima novca."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

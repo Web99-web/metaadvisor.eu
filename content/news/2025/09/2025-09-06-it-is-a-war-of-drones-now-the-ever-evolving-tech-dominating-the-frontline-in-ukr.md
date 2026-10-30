@@ -9,6 +9,7 @@ summary: "Models for reconnaissance, rescue, interception and attack are changin
 tags: ["ai", "drones", "ukraine", "russia", "fpv", "military-tech", "frontline", "reconnaissance"]
 image_url: "https://images.pexels.com/photos/2050718/pexels-photo-2050718.jpeg?cs=srgb&dl=pexels-bohlemedia-2050718.jpg&fm=jpg"
 image_source: "Pexels – https://www.pexels.com/photo/black-and-white-photo-of-drone-2050718/"
+categories: ["ai"]
 ---
 
 Models for reconnaissance, rescue, interception and attack are changing the way both sides operate

@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/unicoin-sec-distorted-filings-100m-f
 summary: "Unicoin pozvao je sud u New Yorku da odbaci SEC-ovu tužbu od 100 milijuna USD tvrdeći da je regulator iskrivio njihove regulatorne izjave."
 tags: ["news","Unicoin","SEC","fraud","crypto law"]
 image_url: "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTI..."
+categories: ["news"]
 ---
 
 Crypto platforma **Unicoin** reagirala je na SEC-ovu tužbu za prijevaru od 100 milijuna USD, ističući pred sudom u **New Yorku** da je regulator:

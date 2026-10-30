@@ -10,6 +10,7 @@ image_url: "/images/grafikon-manji2.jpg"
 image_alt: "Grafikon uz naglasak na odluku FED-a i kretanje kripta"
 tags: ["crypto","macro","fed","mkr","sky","token-unlocks"]
 summary: "Tržišta računaju na rez od 25 bps u srijedu (FOMC 17.9.). Dan poslije istječe rok za MKR→SKY bez penala, a više token-unlockova drži fokus na likvidnosti; Glassnode vidi povratak neto prodaji među BTC kohortama."
+categories: ["crypto"]
 ---
 
 **Što pratimo ovaj tjedan**

@@ -28,6 +28,7 @@ tags:
   - groww
   - ecommerce
 summary: "Flipkart is securing approvals to move its headquarters from Singapore to India, aiming to finish by year-end and pave the way for a domestic IPO as early as 2026."
+categories: ["ai"]
 ---
 
 **Briefly:** **Flipkart** (owned by **Walmart**) is in late-stage **HQ relocation** from **Singapore to India** to prepare for a **domestic IPO** (potentially **2026**). Per TechCrunch, a Singapore court has granted **in-principle approval**, and multiple **NCLAT** hearings have taken place in India. The transition is targeted for **the coming months**, aligned with India’s **festive season** — a crucial sales window.

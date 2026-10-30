@@ -16,6 +16,7 @@ image_alt: "Pad cijene Bitcoina (simbolična ilustracija)"
 image_credit: "MetaAdvisor image map (simbolična slika)"
 tags: ["crypto", "bitcoin", "markets"]
 summary: "Kripto tržište je u petak vratilo dobitke iz ranijeg dijela tjedna. BTC je nakon pokušaja proboja 118.000 USD pao na oko 115.600 USD, dok su i ETH, SOL i DOGE u povlačenju."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

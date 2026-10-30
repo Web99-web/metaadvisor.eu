@@ -15,6 +15,7 @@ image_alt: "Trump coin and small wallet entry"
 image_credit: "Illustration"
 tags: ["crypto","trump coin","meme coin","solana","wallet","trading","investing","blockchain","market","psychology","mar-a-lago","dinner","trump event","politics"]
 summary: "A wallet with just $5 invested in the $TRUMP coin caught the attention of the crypto community, raising a simple question: coincidence, hope — or something more?"
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/south-korea-upbit-hack-crypto-exchanges-bank-liability"
 author: "Cointelegraph — prijevod i analiza MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/South-Korea-new-crypto-rules.png"
-featured_image: "/images/South-Korea-new-crypto-rules.png"
-image: "/images/South-Korea-new-crypto-rules.png"
-thumbnail: "/images/South-Korea-new-crypto-rules.png"
+image_url: "/images/South-Korea-new-crypto-rules.webp"
+featured_image: "/images/South-Korea-new-crypto-rules.webp"
+image: "/images/South-Korea-new-crypto-rules.webp"
+thumbnail: "/images/South-Korea-new-crypto-rules.webp"
 image_alt: "Južna Koreja uvodi nova kripto pravila — bankarska razina odgovornosti"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["crypto","kriptovalute","south korea","juzna koreja","regulation","security","hakiranje","upbit","burze","fintech","zakon"]
 summary: "Nakon velikog incidenta na Upbitu, Južna Koreja priprema zakon koji će kripto burze tretirati poput banaka — uključujući obveznu naknadu štete korisnicima čak i kada burza nije kriva."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

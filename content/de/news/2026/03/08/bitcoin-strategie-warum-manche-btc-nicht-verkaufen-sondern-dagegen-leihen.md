@@ -7,14 +7,15 @@ translationKey: "btc-never-sell-borrow-against-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse"
 source_url: ""
-image_url: "/images/BTC-never-sell-borrow-against.png"
-featured_image: "/images/BTC-never-sell-borrow-against.png"
-image: "/images/BTC-never-sell-borrow-against.png"
-thumbnail: "/images/BTC-never-sell-borrow-against.png"
+image_url: "/images/BTC-never-sell-borrow-against.webp"
+featured_image: "/images/BTC-never-sell-borrow-against.webp"
+image: "/images/BTC-never-sell-borrow-against.webp"
+thumbnail: "/images/BTC-never-sell-borrow-against.webp"
 image_alt: "Bitcoin never sell borrow against strategy"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["bitcoin","btc","krypto","crypto","bitcoin strategie","btc als sicherheit","krypto kredite","gegen bitcoin leihen","digitale vermögenswerte","finanzstrategie","michael saylor","bitcoin investment"]
 summary: "Immer mehr Bitcoin-Investoren nutzen BTC als Kreditsicherheit statt ihn zu verkaufen. Die Strategie 'buy, borrow, never sell' wirft die Frage auf, ob Bitcoin zu einer neuen Form digitalen Kollaterals im modernen Finanzsystem werden kann."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -15,6 +15,7 @@ image_alt: "Grokipedia – Muskov AI projekt enciklopedije"
 image_credit: "Metaadvisor.eu — slika je simbolična."
 tags: ["ai","grok","grokipedia","elon musk","enciklopedija","wikimedia","točnost","dezinformacije","fact-checking","bias","workslop"]
 summary: "Grokipedia, AI-pokrenuta enciklopedija Elona Muska, startala je burno: akademici prijavljuju netočnosti, plagiranje i ideološke biasove — a korisnici se pitaju može li AI doista biti 'istina, cijela istina i ništa osim istine'."
+categories: ["ai"]
 ---
 
 **Od objavljivanja netočnosti do guranja krajnje-desnih narativa — rani dojmovi o Grokipediji nisu blistavi.** Više akademika prijavilo je da su njihove biografije na novoj AI-enciklopediji prepune pogrešaka i izmišljotina, dok su korisnici uočili kako stranice često **preuzimaju velike dijelove Wikipedije** koju Grokipedia navodno želi nadmašiti.

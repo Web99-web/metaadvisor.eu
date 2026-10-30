@@ -7,14 +7,15 @@ translationKey: "7f26d59461f9968c4f982bde7f4c6418"
 source: "Metaadvisor (Cointelegraph, CoinDesk, Ondo Finance)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/JP-Morgan-crypto.png"
-featured_image: "/images/JP-Morgan-crypto.png"
-image: "/images/JP-Morgan-crypto.png"
-thumbnail: "/images/JP-Morgan-crypto.png"
+image_url: "/images/JP-Morgan-crypto.webp"
+featured_image: "/images/JP-Morgan-crypto.webp"
+image: "/images/JP-Morgan-crypto.webp"
+thumbnail: "/images/JP-Morgan-crypto.webp"
 image_alt: "JPMorgan and Mastercard testing XRP Ledger blockchain infrastructure"
 image_credit: "Metaadvisor.eu"
 tags: ["jpmorgan", "mastercard", "xrp", "xrp ledger", "ripple", "ondo finance", "crypto", "blockchain", "tokenization", "rwa", "real world assets", "kinexys", "jpm coin", "digital finance", "wall street", "stablecoins"]
 summary: "JPMorgan, Mastercard, Ripple and Ondo Finance participated in a pilot project combining the XRP Ledger blockchain, tokenized US Treasuries and a banking settlement system. The story shows how seriously Wall Street is testing new financial infrastructure."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

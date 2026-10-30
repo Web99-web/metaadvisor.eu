@@ -38,6 +38,7 @@ tags:
   - trzista
   - sad
 summary: "LINK je ovaj tjedan ojačao oko 6,7% uz formiran viši ‘low’. Zamah stiže nakon što Plasma (XPL) ulazi u Chainlink SCALE i integrira CCIP/Data Streams/Data Feeds, dok UBS testira CCIP sa SWIFT-om; Chainlink Reserve dodatno kupuje LINK."
+categories: ["crypto"]
 ---
 
 **Sažetak**  

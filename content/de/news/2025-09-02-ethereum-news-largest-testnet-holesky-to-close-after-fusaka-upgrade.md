@@ -9,6 +9,7 @@ summary: "Fusaka soll Ethereum-Rollups günstiger und schneller machen, indem di
 tags: ["crypto","ethereum","testnet","holesky","fusaka"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/3d0589b21d2ef5403db7b13ac4ce23bb1ef91aa1-2000x1125.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/3d0589b21d2ef5403db7b13ac4ce23bb1ef91aa1-2000x1125.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 Eine neue Generation von Ethereum-Testnets ersetzt Holesky, das einst größte Testumfeld, das nun nach zwei Jahren Betrieb heruntergefahren wird.

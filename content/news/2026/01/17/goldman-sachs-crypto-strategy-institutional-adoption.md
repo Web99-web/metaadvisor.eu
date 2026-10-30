@@ -7,10 +7,10 @@ translationKey: "goldman_sachs_crypto_strategy_2026"
 source: "MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Goldman-Sachs.png"
-featured_image: "/images/Goldman-Sachs.png"
-image: "/images/Goldman-Sachs.png"
-thumbnail: "/images/Goldman-Sachs.png"
+image_url: "/images/Goldman-Sachs.webp"
+featured_image: "/images/Goldman-Sachs.webp"
+image: "/images/Goldman-Sachs.webp"
+thumbnail: "/images/Goldman-Sachs.webp"
 image_alt: "Symbolic illustration of traditional banks entering the crypto market"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - wall street
   - finance
 summary: "Goldman Sachs avoids loud crypto headlines, but behind the scenes it is steadily building infrastructure and products that position the bank as a key institutional player in digital assets."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/27/xrp-eyes-usd3-20-as-bul
 summary: "Token tests $3.08 resistance on heavy flows before consolidating near the $3.00 psychological level."
 tags: ["crypto","XRP","technical analysis","bull-flag","support"]
 image_url: "https://www.coindesk.com/resizer/xrp-bull-flag.png"
+categories: ["news"]
 ---
 
 **What to know:**

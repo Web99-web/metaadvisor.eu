@@ -15,6 +15,7 @@ image_alt: "Ledger Hardware Wallet"
 image_credit: "Metaadvisor.eu"
 tags: ["ledger", "crypto", "sicherheit", "wallet", "nyse", "hardware"]
 summary: "Der französische Hersteller von Hardware-Wallets Ledger erwägt einen Börsengang in New York, nachdem die Einnahmen aufgrund zunehmender Hackerangriffe stark gestiegen sind."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

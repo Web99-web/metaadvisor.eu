@@ -15,6 +15,7 @@ image_alt: "Candlestick graf s ekstremnim padom i odskokom"
 image_credit: "Metaadvisor.eu (slika je simbolična)"
 tags: ["crypto","markets","flash-crash","record-crash","record-fall","16B-liquidations","liquidation-cascade","auto-deleveraging","ADL","derivatives","perpetuals","order-book","market-structure","volatility","risk-management","whales","manipulation-question","funding","open-interest","MEXC","BTC","ETH","SOL","ZEC","AVAX","SUI","TIA"]
 summary: "U ~10 minuta tržište je odradilo brutalni flash crash + bounce, uz ≈16 mlrd USD likvidacija i ekstremne wickove. Čak ni iskusni traderi nisu uhvatili potez; otvara se pitanje utjecaja whaleova i burzovnih mehanizama."
+categories: ["markets"]
 ---
 
 **U kratko:** U četvrtak navečer (oko **23:00 CET**) kripto tržište je u **~10 minuta** odradilo jedan od najbrutalnijih **flash crash + bounce** poteza dosad. Agregirani feedovi derivata pokazuju **≈ 16 mlrd USD** likvidacija, a mnogi parovi ostavili su **ekstremne wickove** koji su se gotovo odmah poništili.

@@ -9,6 +9,7 @@ summary: "Celestia (TIA) setzt auf modulare Architektur und definiert Skalierbar
 tags: ["Celestia", "TIA", "Blockchain", "Modular"]
 image_url: "https://tse4.mm.bing.net/th/id/OIP.1aUr9aS-hWGEDh0fKD0IxQHaHa"
 image: "https://tse3.mm.bing.net/th/id/OIP.dKjXjwvcIT2C1WJZZr8KbAHaJZ"
+categories: ["crypto"]
 ---
 
 ## Celestia (TIA): die modulare Revolution

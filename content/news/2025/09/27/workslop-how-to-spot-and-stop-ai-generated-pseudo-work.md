@@ -32,6 +32,7 @@ tags:
   - stanford
 
 summary: "‘Workslop’ is AI-generated output that looks polished but doesn’t move the task forward. How to spot it (slides, meeting notes, pixel-pushing) and how to stop it with clear guardrails and outcome-first briefs."
+categories: ["ai"]
 ---
 
 > **Definition (HBR / BetterUp Labs)**  

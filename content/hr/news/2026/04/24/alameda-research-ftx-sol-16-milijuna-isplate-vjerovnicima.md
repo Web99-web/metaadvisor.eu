@@ -7,14 +7,15 @@ translationKey: "alameda-sol-creditor-payments-ftx"
 source: "CoinDesk, Cointelegraph"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Alameda-research.png"
-featured_image: "/images/companies/Alameda-research.png"
-image: "/images/companies/Alameda-research.png"
-thumbnail: "/images/companies/Alameda-research.png"
+image_url: "/images/companies/Alameda-research.webp"
+featured_image: "/images/companies/Alameda-research.webp"
+image: "/images/companies/Alameda-research.webp"
+thumbnail: "/images/companies/Alameda-research.webp"
 image_alt: "Alameda Research FTX moving Solana SOL tokens creditor payments"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["crypto","ftx","alameda","solana","sol","blockchain","likvidacija","tržište","kripto"]
 summary: "Alameda Research, povezana s FTX-om, povukla je oko 16 milijuna dolara u SOL tokenima i prebacila ih na adresu povezanu s isplatama vjerovnicima, što upućuje na nastavak procesa restrukturiranja."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

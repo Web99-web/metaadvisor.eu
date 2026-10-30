@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/05/asia-morning-briefing-o
 summary: "Krypto-Vermögensverwalter warnen: Ohne eine Milliarde USD Kapital oder klaren Risiko-Rahmen werden die meisten Bitcoin-Treasuries scheitern."
 tags: ["crypto", "bitcoin", "btc", "etf", "treasury", "microstrategy", "ethereum", "eth"]
 image_url: "/images/coin-btc1.jpg"
+categories: ["crypto"]
 ---
 
 Unternehmen mit **Bitcoin (BTC)** in ihrer Treasury stehen vor einer harten Realität: Können sie die BTC-Performance übertreffen, oder sollten Investoren einfach einen **Bitcoin ETF** kaufen?  

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/05/asia-morning-briefing-o
 summary: "Upravljatelji kripto imovinom upozoravaju: bez milijarde dolara kapitala ili jasnog rizik-okvira, većina Bitcoin riznica neće uspjeti."
 tags: ["crypto", "bitcoin", "btc", "etf", "treasury", "microstrategy", "ethereum", "eth"]
 image_url: "/images/coin-btc1.jpg"
+categories: ["crypto"]
 ---
 
 Tvrtke koje drže **Bitcoin (BTC)** u riznici suočavaju se s jednostavnim, ali brutalnim pitanjem: mogu li nadmašiti samu cijenu BTC-a ili bi investitori trebali jednostavno kupiti **Bitcoin ETF**?  

@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "fed-warsh-rate-hike-crypto-markets-2026-08-28"
 source: "Federal Reserve, Reuters, CoinGecko, Investing.com, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/btc-eth-down.png"
-featured_image: "/images/daily-charts/btc-eth-down.png"
-image: "/images/daily-charts/btc-eth-down.png"
-thumbnail: "/images/daily-charts/btc-eth-down.png"
+image_url: "/images/daily-charts/btc-eth-down.webp"
+featured_image: "/images/daily-charts/btc-eth-down.webp"
+image: "/images/daily-charts/btc-eth-down.webp"
+thumbnail: "/images/daily-charts/btc-eth-down.webp"
 image_alt: "Bitcoin and Ethereum fall after Fed Chair Kevin Warsh's speech"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Bitcoin", "Ethereum", "crypto", "cryptocurrencies", "Fed", "Federal Reserve", "Kevin Warsh", "interest rates", "inflation", "Solana", "XRP", "gold", "silver", "US dollar", "government bonds", "financial markets"]
 description: "Bitcoin, Ethereum, Solana, XRP and gold fell sharply after Fed Chair Kevin Warsh's speech, while the market-implied probability of a September rate hike jumped from around 35% to about 60%."
 summary: "Fed Chair Kevin Warsh did not announce a new rate hike, but warned that inflation is still not moving convincingly enough toward the 2% target. Markets reacted abruptly: Bitcoin lost almost 5% from its daily high, Ethereum around 5%, Solana nearly 6%, XRP more than 6%, and gold about 3.6%."
+categories: ["Crypto"]
 ---
 
 *The image is symbolic.*

@@ -7,10 +7,10 @@ translationKey: "cashz_zcash_wallet_positive_2026"
 source: "MetaAdvisor analysis based on public project information"
 source_url: "cashz.org, zec.rocks"
 author: "MetaAdvisor.eu"
-image_url: "/images/Zcash-cashZ.png"
-featured_image: "/images/Zcash-cashZ.png"
-image: "/images/Zcash-cashZ.png"
-thumbnail: "/images/Zcash-cashZ.png"
+image_url: "/images/Zcash-cashZ.webp"
+featured_image: "/images/Zcash-cashZ.webp"
+image: "/images/Zcash-cashZ.webp"
+thumbnail: "/images/Zcash-cashZ.webp"
 image_alt: "The new cashZ wallet as the next phase of the Zcash ecosystem"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - crypto
   - blockchain
 summary: "cashZ is a new Zcash wallet designed to make privacy simple and usable every day, built by the same team behind Zashi, the official mobile wallet for Zcash."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

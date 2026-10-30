@@ -15,6 +15,7 @@ image_alt: "Pad Bitcoina i globalnih tržišta – ilustracija"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "ethereum", "eth", "xrp", "solana", "dogecoin", "kripto", "zlato", "gold", "pad-trzista", "likvidacije", "risk-off", "financijska-trzista"]
 summary: "Bitcoin je pao na 83.000 USD i povukao cijelo tržište sa sobom – od zlata koje je izgubilo 400 USD u 30 minuta do Ethereuma, XRP-a, Solane i Dogecoina. Likvidacije su premašile 570 milijuna USD."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

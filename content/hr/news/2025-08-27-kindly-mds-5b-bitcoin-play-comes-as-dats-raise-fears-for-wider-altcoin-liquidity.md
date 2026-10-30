@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/336975/kindly-mds-5-billion-bitcoin-bet-expense-
 summary: "Kindly MD podnio zahtjev za 5 mlrd. $ shelf offering nakon kupnje Bitcoina od 679 mil. $, dok se rasprave o rizicima digitalnih trezora šire."
 tags: ["crypto","bitcoin","BTC","altcoin","DATs","KindlyMD"]
 image_url: "https://decrypt.co/wp-content/uploads/2025/08/kindly-md-bitcoin.jpg"
+categories: ["crypto"]
 ---
 
 Kindly MD, zdravstvena kompanija listana na Nasdaqu, podnijela je automatski shelf filing američkoj SEC agenciji, otvarajući put za izdavanje do 5 mlrd. $ dionica. Taj potez dolazi neposredno nakon kupnje Bitcoina vrijedne 679 mil. $ putem podružnice Nakamoto Holdings.

@@ -26,6 +26,7 @@ tags:
   - efikasnost
   - SAD
 summary: "CleanSpark je u rujnu proizveo 629 BTC, prodao 445 BTC (~48,7 mil. $) i povećao trezor na 13.011 BTC, uz prosječni operativni hashrate 45,6 EH/s."
+categories: ["crypto"]
 ---
 
 **Što se dogodilo?**  

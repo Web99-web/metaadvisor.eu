@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/04/head-of-alan-tur
 summary: "Jean Innes says it is time for ‘new chapter’ at AI research body, after staff revolt and government calls for change."
 tags: ["alan turing institute", "jean innes", "peter kyle", "ai", "artificial intelligence", "uk"]
 image_url: "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
+categories: ["news"]
 ---
 
 Jean Innes says it is time for a “new chapter” at the AI institute, after staff revolt and government demands for change.  

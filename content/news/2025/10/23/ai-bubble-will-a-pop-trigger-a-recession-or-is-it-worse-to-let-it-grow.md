@@ -15,6 +15,7 @@ image_alt: "Symbolic image of a financial bubble above market charts"
 image_credit: "Image is symbolic."
 tags: ["ai","artificial intelligence","bubble","economy","recession","jobs","unemployment","housing","mortgages","defaults","bankruptcies","USA","Europe","consumption","interest rates","capital markets","big tech","GPU","data centers","ETF","bonds"]
 summary: "The AI boom props up markets and GDP but hides growing weaknesses: slowing wages, rising defaults, falling confidence and dependence on a narrow tech sector. The question isn’t if it will be painful, but when and how much."
+categories: ["ai"]
 ---
 
 Artificial intelligence (AI) has become the main engine of growth. Massive investments in data centers, GPU clusters and large models are pushing markets higher and supporting consumption through the so-called “wealth effect”. But cracks are showing: weak job growth, slowing real wages, rising loan delinquencies and collapsing consumer confidence. Political factors (trade wars, migration restrictions, prolonged shutdowns) are adding further pressure.

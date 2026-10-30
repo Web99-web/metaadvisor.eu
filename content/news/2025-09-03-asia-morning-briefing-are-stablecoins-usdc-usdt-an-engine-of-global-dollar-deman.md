@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/asia-morning-briefing-a
 summary: "Stablecoins are increasingly tied to U.S. Treasury liquidity, sparking debate over whether they stabilize or destabilize financial markets."
 tags: ["stablecoins", "USDC", "USDT", "crypto", "dollar", "treasuries", "liquidity"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/USD_Coin_icon.png"
+categories: ["news"]
 ---
 
 Welcome to Asia Morning Briefing, a daily summary of top stories during U.S. hours and an overview of market moves and analysis. For a detailed overview of U.S. markets, see CoinDesk's Crypto Daybook Americas.

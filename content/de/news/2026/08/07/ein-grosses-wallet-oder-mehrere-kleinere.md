@@ -7,15 +7,16 @@ translationKey: "jedan-veliki-wallet-ili-vise-manjih-2026-08-07"
 source: "Öffentlich zugängliche Dokumentation zu Krypto-Wallets, der Verwaltung privater Schlüssel und Multisig-Schutz"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/One-wallet-or-several.png"
-featured_image: "/images/informative/One-wallet-or-several.png"
-image: "/images/informative/One-wallet-or-several.png"
-thumbnail: "/images/informative/One-wallet-or-several.png"
+image_url: "/images/informative/One-wallet-or-several.webp"
+featured_image: "/images/informative/One-wallet-or-several.webp"
+image: "/images/informative/One-wallet-or-several.webp"
+thumbnail: "/images/informative/One-wallet-or-several.webp"
 image_alt: "Vergleich zwischen einem großen Krypto-Wallet und mehreren kleineren, getrennten Wallets"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Krypto-Wallet", "Hardware-Wallet", "Seed-Phrase", "privater Schlüssel", "Krypto-Sicherheit", "Self-Custody", "Multisig", "Passphrase", "Hot Wallet", "Cold Wallet", "Bitcoin-Wallet", "DeFi-Sicherheit", "Risikomanagement", "Sicherheitskopie", "Krypto-Vermögen"]
 description: "Ist es sicherer, sämtliche Krypto-Vermögenswerte in einem Wallet aufzubewahren oder auf mehrere kleinere zu verteilen? Die Antwort hängt von Seeds, Nutzung und Wiederherstellungskomplexität ab."
 summary: "Ein Wallet ist einfacher zu verwalten, stellt jedoch einen einzigen großen Risikopunkt dar. Mehrere unabhängige Wallets können Schäden begrenzen, bringen aber mehr Seeds, Sicherheitskopien und Möglichkeiten für menschliche Fehler mit sich."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

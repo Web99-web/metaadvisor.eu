@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-re
 summary: "The two-year-old OpenAI rival, founded by former DeepMind and Meta researchers, develops open source language models and Le Chat, its AI chatbot built for European audiences."
 tags: ["ai", "France", "startup", "investment", "Mistral", "OpenAI-rival"]
 image_url: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg"
+categories: ["ai"]
 ---
 
 French AI startup **Mistral AI** is finalizing a €2 billion investment at a post-money valuation of $14 billion, Bloomberg reports, positioning the company as one of Europe’s most valuable tech startups.  

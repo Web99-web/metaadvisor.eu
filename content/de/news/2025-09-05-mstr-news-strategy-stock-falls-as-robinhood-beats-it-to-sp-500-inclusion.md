@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/05/michael-saylor-s-strat
 summary: "Robinhood wurde überraschend in den S&P 500 aufgenommen, was die Aktie nach Börsenschluss um 7 % steigen ließ."
 tags: ["crypto", "mstr", "michael saylor", "bitcoin", "sp500", "robinhood", "stocks"]
 image_url: "/images/grafikon-manji2.jpg"
+categories: ["news"]
 ---
 
 **Strategy (MSTR)** von Michael Saylor wurde am Freitag nicht in den **S&P 500 Index** aufgenommen, obwohl das Unternehmen eines der besten Quartale seiner Geschichte verzeichnete und alle Kriterien erfüllte.  

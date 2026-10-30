@@ -9,6 +9,7 @@ summary: "Kupnja, objavljena u trgovačkim izvještajima, uključuje 387.000 dio
 tags: ["ark", "arkinvest", "etf", "bitmine", "bullish", "crypto", "ethereum", "eth", "dionice", "investicije"]
 image_url: "/images/Cathie_Wood_ARK_Invest_Photo.jpg"
 image_attribution: "Foto: Cathie Wood, autor Caroline Wood, CC BY-SA 4.0"
+categories: ["vijesti"]
 ---
 
 ARK Invest Cathie Wood dodatno je povećao svoje udjele u kripto-povezanim dionicama u petak, kupivši više od 23,5 milijuna USD u BitMine Immersion Technologies (BMNR) i kripto burzi Bullish, matičnoj kompaniji CoinDeska, kroz tri svoja aktivno upravljana ETF-a.

@@ -9,6 +9,7 @@ summary: "Powellov blagi ton podigao je ether na nove vrhunce, ali gotovo 400 mi
 tags: ["ethereum","eth","bitcoin","powell","fed","liquidations","crypto","treasury","hashdex","wall-street","stablecoins","smart-contracts","tokenization"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1d1424e45e19742407d0b0130a1db80b45a67c68-1280x853.jpg?auto=format"
 image_alt: "Ethereum cijena cilja 10.000 $ dok likvidacije dosežu 400 milijuna $"
+categories: ["crypto"]
 ---
 
 Ethereumov proboj iznad 4.800 $ pokrenuo je gotovo 388 milijuna $ likvidacija vezanih uz token u posljednja 24 sata – što je najteži val čišćenja među svim kripto-imovinama.

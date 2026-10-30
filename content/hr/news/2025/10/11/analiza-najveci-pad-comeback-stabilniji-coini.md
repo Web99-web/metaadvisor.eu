@@ -15,6 +15,7 @@ image_alt: "Coins with biggest drop and comeback"
 image_credit: "Metaadvisor.eu (simbolična ilustracija)"
 tags: ["crypto","markets","flash-crash","volatilnost","likvidacije","ADL","order-book","MEXC","Bybit","btc","eth","sol","ada","xrp","bnb","doge","tia","sui","ena","avax","jto","wld","inj","pepe","pump","tao","cro","mx","bgb","zec","hype","aster","atom","risk-management","upravljenje-rizikom"]
 summary: "U 10 minuta tržište je srušilo i vratilo desetke parova. Donosimo pregled: tko je najviše pao, tko je najjače odskočio i tko je bio relativno stabilniji — na temelju MEXC podataka (high/low/last)."
+categories: ["crypto"]
 ---
 
 ## Što se dogodilo (kratko)

@@ -9,6 +9,7 @@ summary: "In a Friday blog post, the company said that, as a small team, it lack
 tags: ["news","bluesky","mississippi","hb1126","age-verification","privacy","free-speech","law","us","social-media"]
 image_url: "https://techcrunch.com/wp-content/uploads/2024/10/bluesky_media_kit_banner_4.jpg?w=1024"
 image_alt: "Bluesky logo on a starry background"
+categories: ["news"]
 ---
 
 Social networking startup **Bluesky** has decided to **block access** to its service in the state of **Mississippi** rather than comply with a new **age assurance** law.

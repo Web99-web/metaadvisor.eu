@@ -10,6 +10,7 @@ image_url: "/images/tesla.jpg"
 image_alt: "Tesla"
 tags: ["ai","tesla","elon-musk","vergütung","corporate-governance","aktien"]
 summary: "Vor der Abstimmung über ein 10-Jahres-Paket im Wert von 1 Billion US-Dollar verteidigt Robyn Denholm den Vorschlag: Es gehe um künftige Ziele und Stimmgewalt, nicht um den absoluten Dollarbetrag."
+categories: ["ai"]
 ---
 
 Mit Blick auf die für November geplante Aktionärsabstimmung über ein **zehnjähriges Vergütungspaket** für **Elon Musk** im Umfang von **1 Billion US-Dollar** sprach **Robyn Denholm**, Vorsitzende des Tesla-Aufsichtsrats, mit der *New York Times* und verteidigte das Paket – es wäre das **größte der Unternehmensgeschichte**.

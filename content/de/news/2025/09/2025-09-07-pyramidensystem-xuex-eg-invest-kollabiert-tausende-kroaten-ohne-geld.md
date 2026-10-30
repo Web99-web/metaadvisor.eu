@@ -10,6 +10,7 @@ tags: ["news", "scam", "ponzi", "pig-butchering", "xuex", "eg-invest", "revolut"
 image_url: "https://images.pexels.com/photos/5900131/pexels-photo-5900131.jpeg"
 image_source: "Pexels – Kaboompics.com (https://www.pexels.com/photo/woman-and-receipts-on-desk-5900131/)"
 image_alt: "Woman reviewing receipts on a desk"
+categories: ["news"]
 ---
 
 Die Plattform **XUEX** (unter **EG Investment Group** firmierend) ist am Freitagabend kollabiert. In Anzeigen und Telegram-Gruppen wurden „stabile Renditen“ und eine **Verdopplung der Einlage** versprochen; Nutzer mussten täglich „Signale“ in der App bestätigen. Auszahlungen waren erst nach **52 Tagen** möglich — ein typisches Muster von **Ponzi-** bzw. **„Pig-Butchering“**-Betrug.

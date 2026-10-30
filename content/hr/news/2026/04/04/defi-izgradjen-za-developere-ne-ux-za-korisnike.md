@@ -7,14 +7,15 @@ translationKey: "f76f79d23fcb18fd7ba890e13e049281"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (Cointelegraph, tržišni podaci)"
 source_url: ""
-image_url: "/images/DeFi-not-user-friendly.png"
-featured_image: "/images/DeFi-not-user-friendly.png"
-image: "/images/DeFi-not-user-friendly.png"
-thumbnail: "/images/DeFi-not-user-friendly.png"
+image_url: "/images/DeFi-not-user-friendly.webp"
+featured_image: "/images/DeFi-not-user-friendly.webp"
+image: "/images/DeFi-not-user-friendly.webp"
+thumbnail: "/images/DeFi-not-user-friendly.webp"
 image_alt: "DeFi sučelje koje je teško razumjeti prosječnim korisnicima"
 image_credit: "MetaAdvisor.eu"
 tags: ["defi", "kripto", "trgovanje", "ethereum", "blockchain", "korisnicko iskustvo", "ux", "likvidacije", "leverage", "tehnologija"]
 summary: "DeFi sustavi često su optimizirani za tehnička ograničenja, a ne za korisnike. Bez jasnih uputa i jednostavnog UX-a, masovno usvajanje ostaje ograničeno."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

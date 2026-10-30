@@ -9,6 +9,7 @@ summary: "Tether hat seinen Plan aufgegeben, die Unterstützung von USDT auf fü
 tags: ["crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5LWIzYTYzODlkLWZiYjMtNGViOC05NmNlLWJlMmIxNDZkNTViMC5qcGc=.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5LWIzYTYzODlkLWZiYjMtNGViOC05NmNlLWJlMmIxNDZkNTViMC5qcGc=.jpg"
+categories: ["crypto"]
 ---
 
 Tether hat bekanntgegeben, dass das Unternehmen **seinen zuvor angekündigten Plan zurückzieht**, die Unterstützung für den USDT-Stablecoin auf fünf Blockchains zu beenden.  

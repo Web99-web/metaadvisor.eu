@@ -15,6 +15,7 @@ image_alt: "Bitcoin-Kursanstieg in Richtung 69.000 USD"
 image_credit: "Symbolische Illustration"
 tags: ["bitcoin", "btc", "krypto", "kryptowährungen", "markt", "short covering", "short squeeze", "etf", "spot etf", "derivate", "geopolitik", "iran", "makroökonomie", "volatilität"]
 summary: "Bitcoin ist nach einem Wochenend-Rückgang plötzlich in Richtung 69.000 USD gestiegen. Analysten warnen, dass es sich eher um Short-Covering als um den Beginn eines neuen Bullenmarkts handeln könnte."
+categories: ["crypto"]
 ---
 
 # Warum BTC heute trotz Konflikten steigt: Der Sprung auf 69.000 USD ist wahrscheinlich das Ergebnis von Short-Covering

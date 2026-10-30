@@ -4,10 +4,11 @@ slug: "vibe-coding-anything-100m-valuation"
 date: 2025-09-29T17:55:29Z
 category: "news"
 translationKey: "204dc30c4a67255101b41a5b805c1baf"
-image_url: "/images/vibe-coding.png"
-thumbnail: "/images/vibe-coding.png"
+image_url: "/images/vibe-coding.webp"
+thumbnail: "/images/vibe-coding.webp"
 image_alt: "Vibe coding illustration"
 tags: ["AI", "startups", "vibe coding", "Anything", "funding"]
+categories: ["news"]
 ---
 
 **Anything**, an AI app launched just a month ago, reached a **$100 million valuation** after raising an $11 million funding round. The startup hit a **$2M ARR in just two weeks**, showing the explosive rise of so-called *vibe coding* — building apps and websites through natural language prompts.  

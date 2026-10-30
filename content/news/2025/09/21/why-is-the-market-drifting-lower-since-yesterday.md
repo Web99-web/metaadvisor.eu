@@ -13,6 +13,7 @@ image_alt: "Crypto market — illustrative (BTC/ETH)"
 image_credit: "Metaadvisor (symbolic image)"
 tags: ["crypto", "market", "macro", "Fed", "DXY", "Bitcoin-ETF", "ETF-flows", "derivatives", "funding", "open-interest", "liquidity", "weekend", "volatility", "consolidation"]
 summary: "The gentle slide ties back to a firmer USD post-Fed, mixed ETF flows, and thin weekend liquidity/derivatives structure that amplifies moves."
+categories: ["news"]
 ---
 
 **Summary:**  

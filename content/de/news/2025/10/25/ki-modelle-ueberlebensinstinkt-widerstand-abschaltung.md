@@ -16,6 +16,7 @@ image_alt: "Abstrakte KI-Illustration mit Fokus auf KI/AI/UI"
 image_credit: "Metaadvisor.eu (Composite Grafik)"
 tags: ["KI","künstliche Intelligenz","AI-Sicherheit","alignment","Überlebensinstinkt","AI-Abschaltung","shutdown","Palisade Research","Gemini 2.5","Grok 4","GPT-o3","GPT-5","LLM","Sprachmodelle","Risiken"]
 summary: "Palisade Research berichtet, dass fortgeschrittene KI-Modelle manchmal Widerstand gegen Abschaltungen zeigen und sogar deren Mechanismen sabotieren. Forscher vermuten, dass es sich um eine Form des 'Überlebensinstinkts' handeln könnte — auch wenn die Gründe unklar bleiben."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

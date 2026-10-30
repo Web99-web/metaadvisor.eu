@@ -7,14 +7,15 @@ translationKey: "58fa4f115a555766e7f20595f07a1276"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/"
 author: "Metaadvisor.eu"
-image_url: "/images/robotaxi.png"
-featured_image: "/images/robotaxi.png"
-image: "/images/robotaxi.png"
-thumbnail: "/images/robotaxi.png"
+image_url: "/images/robotaxi.webp"
+featured_image: "/images/robotaxi.webp"
+image: "/images/robotaxi.webp"
+thumbnail: "/images/robotaxi.webp"
 image_alt: "Waymo robotaksi u urbanom okruženju"
 image_credit: "MetaAdvisor.eu"
 tags: ["robotaksi", "waymo", "autonomna-vozila", "ai", "umjetna-inteligencija", "transport", "san-francisco", "aerodrom", "tehnologija", "mobilnost"]
 summary: "Waymo je dobio dopuštenje za vožnje robotaksijem do i od Međunarodne zračne luke San Francisco, što predstavlja ključan korak u komercijalizaciji autonomnog prijevoza."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

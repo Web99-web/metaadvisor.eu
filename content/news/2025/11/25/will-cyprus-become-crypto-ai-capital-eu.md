@@ -7,14 +7,15 @@ translationKey: "cyprus_crypto_ai_hub_20251125"
 source: "MetaAdvisor – analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Cyprus.png"
-featured_image: "/images/Cyprus.png"
-image: "/images/Cyprus.png"
-thumbnail: "/images/Cyprus.png"
+image_url: "/images/Cyprus.webp"
+featured_image: "/images/Cyprus.webp"
+image: "/images/Cyprus.webp"
+thumbnail: "/images/Cyprus.webp"
 image_alt: "Cyprus is changing the crypto game"
 image_credit: "MetaAdvisor / AI-generated"
 tags: ["crypto", "ai", "blockchain", "europe", "cyprus", "regulation", "tokenization", "stablecoins", "defi", "miCA", "startups"]
 summary: "Cyprus is rapidly emerging as one of the most attractive hubs for crypto and AI in the EU, driven by fast MiCA implementation, clear regulation and a business-friendly environment."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "china_analog_ai_chip_metaadvisor_20251108"
 source: "South China Morning Post"
 source_url: "https://www.scmp.com/news/china/science/article/3329820/chinas-analogue-ai-chip-could-work-1000-times-faster-nvidia-gpu-study"
 author: "Metaadvisor.eu"
-image_url: "/images/China-chip.png"
-featured_image: "/images/China-chip.png"
-image: "/images/China-chip.png"
-thumbnail: "/images/China-chip.png"
+image_url: "/images/China-chip.webp"
+featured_image: "/images/China-chip.webp"
+image: "/images/China-chip.webp"
+thumbnail: "/images/China-chip.webp"
 image_alt: "Kineski analogni AI čip - ilustracija"
 image_credit: "Metaadvisor.eu"
 tags: ["kina", "ai", "čip", "nvidia", "tehnologija", "inovacije", "scmp", "analog", "računalstvo"]
 summary: "Kineski znanstvenici razvili su analogni AI čip koji prema prvim rezultatima može ostvariti i do 1.000 puta veću učinkovitost od digitalnih procesora u određenim zadacima."
+categories: ["ai"]
 ---
 
 Kineski istraživači s **Peking University** razvili su **analogni AI čip** koji bi, prema prvim testovima, mogao postići i do **1.000 puta veću učinkovitost** od najnaprednijih digitalnih procesora poput **Nvidia H100 GPU-a**.  

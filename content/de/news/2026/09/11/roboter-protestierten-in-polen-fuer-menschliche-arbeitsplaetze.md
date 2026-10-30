@@ -16,6 +16,7 @@ image_credit: "Reuters"
 tags: ["Roboter", "künstliche Intelligenz", "KI", "Polen", "Warschau", "humanoide Roboter", "Roboterhunde", "Robotik", "Automatisierung", "Arbeitsplätze", "Arbeitsmarkt", "KI-Regulierung", "Democratism", "Delta Robots"]
 description: "Rund 30 humanoide Roboter und Roboterhunde gingen in Warschau auf die Straße und forderten den Schutz menschlicher Arbeitsplätze sowie strengere Regeln für KI. Hinter der auf den ersten Blick komischen Szene steckt eine ernste Botschaft über die Zukunft der Arbeit."
 summary: "Roboter protestierten in Warschau mit Botschaften zum Schutz menschlicher Arbeitsplätze und zur Regulierung künstlicher Intelligenz. Organisiert wurde die Aktion von Menschen, die darauf aufmerksam machen wollten, wie schnell KI, Automatisierung und Robotik den Arbeitsmarkt verändern können."
+categories: ["AI"]
 ---
 
 *Das Bild ist symbolisch.*

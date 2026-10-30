@@ -7,6 +7,7 @@ tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/6e48d440a497a404d13a5d036d26af141c2a7539-6000x4000.jpg"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/08/21/victim-loses-usd91m-in-bitcoin-after-social-engineering-scam-zachxbt"
+categories: ["crypto"]
 ---
 
 Istražitelj blockchaina ZachXBT otkrio je u četvrtak visokoprofilirani napad društvenog inženjeringa, u kojem je žrtva izgubila 783 BTC vrijedna oko 91,4 milijuna USD.

@@ -2,12 +2,13 @@
 title: "Die Aktien von Ethzilla (ETHZ) stürzen fast 30%, da die Verdünnung befürchtet"
 date: 2025-08-22T14:53:27Z
 category: "crypto"
-translationKey: "0c01cc453067c20be1c94ad947013348"
+translationKey: "0c01cc453067c20be1c94ad947013348--unpaired-1447bf86ea8c"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/22/ethzilla-shares-plunge-36-as-dilution-fears-overshadow-usd349m-ether-treasury"
 summary: "Das umbenannte Krypto -Finanzministerium gab ein Anteil von 74,8 Mio. an, das Bedenken auswirkte, auch als es mehr als 82.000 ETH und 238 Mio. USD in bar hält."
 tags: ["crypto"]
 image: "/news/2025-08-22-ethzilla-ethz-shares-plunge-nearly-30-as-dilution-fears-overshadow-349m-ether-et.jpg"
+categories: ["crypto"]
 ---
 
 Die Aktien von Ethzilla (ETHZ), früher als Biotech -Firma 180 Life Science bekannt, fielen am Freitag um fast 30%, nachdem das Unternehmen bekannt gab, dass die Aktionäre bis zu 74,8 Millionen Cabrio -Aktien anbieten.

@@ -7,14 +7,15 @@ translationKey: "944f46a4060576a3e5adf3613923a629"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/why-did-bitcoin-price-hit-two-month-lows-near-83k"
 author: "Metaadvisor.eu"
-image_url: "/images/gold-down.png"
-featured_image: "/images/gold-down.png"
-image: "/images/gold-down.png"
-thumbnail: "/images/gold-down.png"
+image_url: "/images/gold-down.webp"
+featured_image: "/images/gold-down.webp"
+image: "/images/gold-down.webp"
+thumbnail: "/images/gold-down.webp"
 image_alt: "Starker Goldpreisverfall auf digitalen Märkten"
 image_credit: "MetaAdvisor.eu"
 tags: ["gold", "edelmetalle", "krypto", "crypto", "märkte", "volatilität", "makroökonomie", "investieren", "sicherer hafen", "bitcoin", "finanzmärkte"]
 summary: "Gold verlor innerhalb von nur 30 Minuten über 400 USD an Wert – ein klares Zeichen dafür, dass der Handel über Krypto-Börsen die Dynamik des Goldmarktes grundlegend verändert."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

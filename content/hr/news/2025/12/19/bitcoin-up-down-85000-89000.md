@@ -15,6 +15,7 @@ image_alt: "Bitcoin cijena oscilira između 85.000 i 89.000 dolara"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","kripto","crypto","volatilnost","tržište","analiza","institucije","etf","cijena bitcoina"]
 summary: "Bitcoin se nalazi u uskom rasponu između 85.000 i 89.000 USD, pritisnut kratkoročnim prodajama i dugoročnim institucionalnim očekivanjima."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

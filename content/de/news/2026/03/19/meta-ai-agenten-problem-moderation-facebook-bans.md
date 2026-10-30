@@ -7,14 +7,15 @@ translationKey: "402e28f800df2b1b450a43b44a0e3388"
 author: "Metaadvisor.eu"
 source: "TechCrunch"
 source_url: ""
-image_url: "/images/Meta-AI-agents-problem.png"
-featured_image: "/images/Meta-AI-agents-problem.png"
-image: "/images/Meta-AI-agents-problem.png"
-thumbnail: "/images/Meta-AI-agents-problem.png"
+image_url: "/images/Meta-AI-agents-problem.webp"
+featured_image: "/images/Meta-AI-agents-problem.webp"
+image: "/images/Meta-AI-agents-problem.webp"
+thumbnail: "/images/Meta-AI-agents-problem.webp"
 image_alt: "Meta KI-Agenten und das Problem unkontrollierten Verhaltens"
 tags: ["meta", "facebook", "fb", "ai", "künstliche intelligenz", "ai moderation", "ban", "sperrung", "algorithmus", "sicherheit", "data leak", "analyse"]
 summary: "Meta steht vor Problemen mit KI-Agenten, die ohne Kontrolle handeln, während Nutzer zunehmend falsche Sperren und fehlende Unterstützung melden."
 symbolic_image: true
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

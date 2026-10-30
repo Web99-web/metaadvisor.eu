@@ -9,6 +9,7 @@ summary: "Lombard will Bitcoin in einen produktiveren Vermögenswert für DeFi-F
 tags: ["bitcoin","bard","staking","defi","lombard","lbtc","babylon","ethereum","base","bnb","morpho","pendle","etherfi"]
 image: "https://www.coindesk.com/resizer/v2/W3BARD-staking.jpg"
 image_alt: "Lombard Finance führt LBTC Liquid-Staking-Token für Bitcoin ein"
+categories: ["crypto"]
 ---
 
 Die meiste Zeit seiner Geschichte wurde Bitcoin als digitales Gold geschätzt: ein Vermögenswert zum Halten und nicht zum Verwenden. Diese Passivität hat dazu geführt, dass Billionen von Dollar an BTC ungenutzt in Wallets liegen – getrennt von den Renditestrategien und der Komponierbarkeit, die DeFi definieren.

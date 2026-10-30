@@ -16,6 +16,7 @@ image_alt: "Ethereum i pad vrijednosti korporativnih kripto-riznica"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["ethereum", "ether", "kripto-riznice", "korporativni-kripto", "altcoini", "financije", "dug"]
 summary: "ETHZilla je prodala 74,5 milijuna USD u etheru kako bi smanjila dug, što pokazuje kako se model korporativnih kripto-riznica okreće iz faze akumulacije u fazu preživljavanja."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

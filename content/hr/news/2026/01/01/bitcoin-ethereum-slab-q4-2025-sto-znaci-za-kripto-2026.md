@@ -23,6 +23,7 @@ tags:
   - volatility
   - institutions
 summary: "Bitcoin i Ethereum završili su četvrti kvartal 2025. s jednim od najslabijih rezultata u posljednjih nekoliko godina. Umjesto očekivanog božićnog rasta, tržište je poslalo poruku opreza koja će snažno utjecati na ulazak u 2026."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

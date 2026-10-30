@@ -15,6 +15,7 @@ image_alt: "Bitcoin und globale Krypto-Adoption"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "daenemark", "crypto adoption", "europa", "finanzen", "blockchain", "markt"]
 summary: "Nur 4% der dänischen Bevölkerung halten Kryptowährungen laut Zentralbankdaten, trotz des globalen Wachstums digitaler Vermögenswerte."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

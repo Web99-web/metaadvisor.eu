@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/ether-futures-open-inte
 summary: "Institucionalni interes za ether raste, a broj velikih nositelja otvorenih pozicija dosegnuo je rekordnih 101 početkom mjeseca."
 tags: ["crypto","Ethereum","ETH","futures","CME","institucionalni investitori"]
 image_url: "https://www.coindesk.com/resizer/vqUArE8U3d2b8uTGb_iuSK4mAB8=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ETHFuturesCME.jpg"
+categories: ["crypto"]
 ---
 
 Regulirano tržište ether (ETH) futures ugovora na CME-u zagrijava se dok rotacija iz bitcoina (BTC 113.025,87 USD) ubrzava.

@@ -6,15 +6,16 @@ category: "crypto"
 translationKey: "bitcoin-etf-outflows-futures-17-08-2026"
 source: "CoinDesk, Farside Investors"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/BTC-ETF-outflows.png"
-featured_image: "/images/daily-charts/BTC-ETF-outflows.png"
-image: "/images/daily-charts/BTC-ETF-outflows.png"
-thumbnail: "/images/daily-charts/BTC-ETF-outflows.png"
+image_url: "/images/daily-charts/BTC-ETF-outflows.webp"
+featured_image: "/images/daily-charts/BTC-ETF-outflows.webp"
+image: "/images/daily-charts/BTC-ETF-outflows.webp"
+thumbnail: "/images/daily-charts/BTC-ETF-outflows.webp"
 image_alt: "Bitcoin ETF outflows and $48 billion in open BTC futures positions"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Bitcoin", "BTC", "Bitcoin ETF", "ETF outflows", "Bitcoin futures", "open interest", "crypto", "Federal Reserve", "FOMC"]
 description: "U.S. spot Bitcoin ETFs record nearly $248 million in net outflows while BTC remains around $63,000 to $64,000 and futures open interest reaches about $48 billion."
 summary: "Bitcoin ETFs recorded three consecutive trading days of net outflows, while very low trading volume and around $48 billion in open futures positions increase the potential for a stronger move once BTC breaks out of its current range."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

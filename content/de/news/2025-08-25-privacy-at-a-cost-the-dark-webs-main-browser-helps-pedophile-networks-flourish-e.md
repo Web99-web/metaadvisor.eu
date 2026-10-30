@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/aug/25/tor-network-chil
 summary: "Die Privacy-Architektur des Tor-Netzwerks schafft ein Schutzrefugium für den Austausch von Kindesmissbrauchsdarstellungen."
 tags: ["privacy","tor","dark-web","csam","child-protection","policy","internet"]
 image_url: "https://i.guim.co.uk/img/media/571a97d55cd873eab688c3b964c7ecf05c19b6d3/0_0_4000_2670/master/4000.jpg?crop=none&dpr=1&s=none&width=1200"
+categories: ["ai"]
 ---
 
 Die Privacy-Architektur des Tor-Netzwerks schafft ein sicheres Umfeld für die Verbreitung von Darstellungen sexuellen Missbrauchs von Kindern (CSAM).

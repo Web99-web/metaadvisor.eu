@@ -12,6 +12,7 @@ featured_image: "/images/bitcon-down.jpg"
 image_alt: "Bitcoin — a red day on the tape"
 tags: ["bitcoin","markets","on-chain","sentiment"]
 summary: "From about 10:00 (CEST) price started to slide and sits near $114,867. In plain terms: across small and large wallets alike there’s more selling than buying today — typical for a consolidation phase."
+categories: ["crypto"]
 ---
 
 Around **10:00 (CEST)** Bitcoin began to slip; as of writing it’s near **$114,867**. When we say “groups are selling,” we don’t mean a secret club — we mean **wallet groups by balance size**. Analytics look at **smaller holders** (under 1 BTC), **mid-sized** (say 1–100 BTC) and **larger** balances (hundreds/thousands of BTC). Today the pattern is similar across those buckets: **net selling**.

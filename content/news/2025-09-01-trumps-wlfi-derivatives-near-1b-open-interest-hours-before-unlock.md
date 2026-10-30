@@ -9,6 +9,7 @@ summary: "Open interest in WLFI futures hit nearly $1B just hours before the tok
 tags: ["Trump","WLFI","derivatives","futures","open-interest","crypto","Binance","DeFi"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvZDQ0NzFiYWItZmUwMy00ZWI1LTg5OTEtMzBkMGM3ZGE5N2U4LmpwZw==.jpg"
 image_url_small: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvZDQ0NzFiYWItZmUwMy00ZWI1LTg5OTEtMzBkMGM3ZGE5N2U4LmpwZw==.jpg"
+categories: ["news"]
 ---
 
 Futures tied to **World Liberty Financial (WLFI)**, the Trump-linked DeFi token, surged to nearly $1 billion in open interest just hours before the token’s unlock.  

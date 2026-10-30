@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: ""
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/bob-bitcoin-vault-stablecoin.png"
-featured_image: "/images/bob-bitcoin-vault-stablecoin.png"
-image: "/images/bob-bitcoin-vault-stablecoin.png"
-thumbnail: "/images/bob-bitcoin-vault-stablecoin.png"
+image_url: "/images/bob-bitcoin-vault-stablecoin.webp"
+featured_image: "/images/bob-bitcoin-vault-stablecoin.webp"
+image: "/images/bob-bitcoin-vault-stablecoin.webp"
+thumbnail: "/images/bob-bitcoin-vault-stablecoin.webp"
 image_alt: "BOB Bitcoin Vault — borrow stablecoins while keeping BTC self-custody"
 image_credit: "Illustration — Metaadvisor.eu (symbolic image)"
 tags: ["BOB","Build on Bitcoin","Bitcoin","BTC","stablecoin","DeFi","vault","rollup","layer-2","self-custody","crypto lending","collateral","liquidation","TVL"]
 summary: "BOB (Build on Bitcoin) enables BTC-collateralized stablecoin borrowing without surrendering keys — a rollup approach that anchors DeFi functionality to Bitcoin security."
+categories: ["defi"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "8d4f2b7c61aa44b89e3f5f10d9c772bb"
 source: "Metaadvisor (TechCrunch, The Verge, Wired, Digital Camera World, PetaPixel)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Fujifilm-Instax-Wide-400.png"
-featured_image: "/images/companies/Fujifilm-Instax-Wide-400.png"
-image: "/images/companies/Fujifilm-Instax-Wide-400.png"
-thumbnail: "/images/companies/Fujifilm-Instax-Wide-400.png"
+image_url: "/images/companies/Fujifilm-Instax-Wide-400.webp"
+featured_image: "/images/companies/Fujifilm-Instax-Wide-400.webp"
+image: "/images/companies/Fujifilm-Instax-Wide-400.webp"
+thumbnail: "/images/companies/Fujifilm-Instax-Wide-400.webp"
 image_alt: "Fujifilm Instax Wide 400 and the return of instant photography"
 image_credit: "Metaadvisor.eu"
 tags: ["fujifilm", "instax", "instax wide 400", "analog photography", "instant camera", "retro camera", "film camera", "tech", "ai", "photography", "vintage camera", "nostalgia", "tiktok trend", "camera", "instant photography"]
 summary: "Fujifilm Instax Wide 400 shows how analog and instant photography are becoming popular again in the era of artificial intelligence and digital content."
+categories: ["tech"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>The image is symbolic.</em></p>

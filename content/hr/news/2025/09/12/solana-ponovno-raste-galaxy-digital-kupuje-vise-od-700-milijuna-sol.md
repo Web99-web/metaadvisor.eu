@@ -1,5 +1,5 @@
 ---
-title: "Solana ponovno raste dok Galaxy Digital kupuje više od 700 milijuna $ u SOL"
+title: "Solana ponovno raste: Galaxy Digital kupuje SOL vrijedan više od 700 milijuna dolara – Decrypt"
 slug: "solana-ponovno-raste-galaxy-digital-kupuje-vise-od-700-milijuna-sol"
 date: 2025-09-12T19:40:58Z
 category: "news"
@@ -10,23 +10,24 @@ priority: 0
 image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png"
 tags: ["crypto", "cryptocurrency", "solana", "sol", "binance", "bnb", "stocks"]
 our_take: |
-  Naš osvrt: Galaxy Digital kupuje >700 mil. $ u SOL (Forward treasury), a cijena Solane nastavlja rasti. Ključno za pratiti: likvidnost, kretanje USD/kamata i regulatorni ton. Ostati selektivan; izloženost povećavati samo u visokouvjerenim pozicijama.
+  Naš osvrt: Galaxyjeve kupnje SOL-a povezane su sa strategijom pričuve Forward Industriesa. Važno je pratiti likvidnost, kamatne stope, američki dolar i regulaciju te ulagati selektivno, samo uz jasno obrazloženo uvjerenje.
+categories: ["news"]
 ---
 
-Solana ponovno raste dok Galaxy Digital kupuje više od 700 milijuna dolara u SOL
+Solana ponovno raste: Galaxy Digital kupuje SOL vrijedan više od 700 milijuna dolara
 
-Investicijska tvrtka Galaxy Digital tijekom posljednja dva dana kupila je Solane u vrijednosti većoj od 700 milijuna dolara, kao dio ulaganja u tvrtku za SOL trezor Forward Industries. U međuvremenu je cijena Solane nastavila rasti.
+Investicijska tvrtka Galaxy Digital u dva je dana kupila Solanu u vrijednosti većoj od 700 milijuna dolara. Kupnje su povezane s njezinim ulaganjem u Forward Industries, tvrtku koja gradi pričuvu u SOL-u. Cijena Solane u tom je razdoblju nastavila rasti.
 
-Galaxy je SOL najviše prebacivao s Binancea — te djelomično s Coinbasea — kroz više transakcija; podaci Arkham Intelligencea pokazuju da je od srijede kupljeno nešto više od 3 milijuna SOL-a.
+Galaxy je SOL prenosio kroz više transakcija, uglavnom s Binancea, ali i s Coinbasea. Prema podacima Arkham Intelligencea, tvrtka je od srijede kupila nešto više od 3 milijuna SOL-a.
 
-Upravitelj imovinom te kupnje vjerojatno obavlja u ime Forward Industriesa, u koji je predvodio ulaganje od 1,65 milijardi dolara, uz sudjelovanje Jump Crypto i Multicoin Capitala.
+Upravitelj imovine te kupnje možda provodi u ime Forward Industriesa. Galaxy je predvodio ulaganje od 1,65 milijardi dolara u tu tvrtku, uz sudjelovanje Jump Crypta i Multicoin Capitala.
 
-Forward, osnovan 1961., na Nasdaqu je uvrštena tvrtka za dizajn proizvoda koja sredstva ovog tjedna koristi za izgradnju najveće javno listane Solana riznice na svijetu, pri čemu je Galaxy zadužen za nabavu i prijenos većine SOL-a.
+Forward Industries osnovan je 1961. godine, bavi se dizajnom proizvoda i uvršten je na Nasdaq. Novcem prikupljenim toga tjedna namjeravao je izgraditi najveću pričuvu Solane među javno uvrštenim tvrtkama na svijetu. Galaxy je bio odgovoran za kupnju i prijenos većine SOL-a.
 
-Suradnja Galaxyja s Forwardom dolazi dok kompanija pokazuje sve veći interes za Solanu; u objavi o ulaganju opisali su je kao „jedinstveno pozicioniranu da pogoni sljedeću generaciju tržišta kapitala”.
+Suradnja je započela u razdoblju pojačanog Galaxyjeva interesa za Solanu. U objavi kojom je najavila ulaganje tvrtka je opisala Solanu kao jedinstveno pozicioniranu za pokretanje sljedeće generacije tržišta kapitala.
 
-Osnivač i izvršni direktor Galaxyja Mike Novogratz u četvrtak je u intervjuu za CNBC-jev Squawk Box govorio o prednostima Solane, tvrdeći da Solanin blockchain može obraditi „14 milijardi transakcija” dnevno.
+Osnivač i izvršni direktor Galaxyja Mike Novogratz govorio je o Solani u četvrtak u intervjuu za CNBC-ovu emisiju Squawk Box. Izjavio je da njezin blockchain može obraditi 14 milijardi transakcija dnevno.
 
-Sažimajući zašto je Galaxy uzbuđen oko Solane, rekao je: „Imate blockchain koji je sada dovoljno brz, krojen da bude blockchain za financijska tržišta.”
+Galaxyjevo zanimanje za Solanu objasnio je time da je blockchain sada dovoljno brz i prilagođen potrebama financijskih tržišta.
 
-Zatim se osvrnuo na komentare predsjednika SEC-a Paula Atkinsa, koji je u srijedu održao uvodno izlaganje u kojem je govorio o inicijativi agencije Project Crypto — njezinoj „sveobuhvatnoj inicijativi” za poticanje…
+Potom se osvrnuo na predsjednika SEC-a Paula Atkinsa, koji je u srijedu održao govor o inicijativi Project Crypto. Tom je inicijativom agencija željela potaknuti prijelaz tržišta na blockchain infrastrukturu.

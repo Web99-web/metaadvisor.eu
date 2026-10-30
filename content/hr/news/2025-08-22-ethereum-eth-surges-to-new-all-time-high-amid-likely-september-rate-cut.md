@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/ethereum-surges-to-new-
 summary: "Token je u petak na Coinbaseu dosegnuo novu rekordnu vrijednost."
 tags: ["crypto", "token", "financije", "ethereum", "eth", "bitcoin", "btc", "lido", "ldo", "ethena", "ena"]
 image: "/news/2025-08-22-ethereum-eth-surges-to-new-all-time-high-amid-likely-september-rate-cut.jpg"
+categories: ["crypto"]
 ---
 
 **Ethereum (ETH, 4.749,79 USD)** dosegnuo je u petak rekordnu cijenu od **4.885 USD** na Coinbaseu nakon govora predsjednika Federalnih rezervi **Jeromea Powella**, koji je sugerirao smanjenje kamatnih stopa i ulagačima donio olakšanje pred vikend.  

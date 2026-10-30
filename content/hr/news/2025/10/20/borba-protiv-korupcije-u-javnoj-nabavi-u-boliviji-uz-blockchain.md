@@ -16,6 +16,7 @@ image_alt: "Zastava Bolivije"
 image_credit: "Slika je simbolična."
 tags: ["bolivia", "korupcija", "blockchain", "javna nabava", "transparentnost", "crypto", "AI", "pametni ugovori"]
 summary: "Novi predsjednik Bolivije Rodrigo Paz najavljuje uvođenje blockchain tehnologije i pametnih ugovora u javnu nabavu kao odgovor na korupciju i gubitak povjerenja građana."
+categories: ["ai"]
 ---
 <p style="text-align:center; margin:20px 0;">
   <a href="/go/mexc" target="_blank" rel="nofollow sponsored"

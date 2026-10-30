@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu – KI-Illustration, kein echtes Foto der Vorführ
 tags: ["Tesla", "Tesla Roadster", "Elon Musk", "SpaceX", "fliegendes Auto", "Elektroauto", "Elektromobilität", "KI-Videos", "KI-Memes", "künstliche Intelligenz", "Automobiltechnik", "Technologie"]
 description: "Tesla zeigt einen Roadster mit SpaceX-Schubdüsen bei Flugmanövern. Was ist echt, was sind virale KI-Memes, und wann kommt das Auto?"
 summary: "Tesla demonstrierte am 15. Oktober 2026 in Texas den neuen Roadster mit Druckgas-Schubdüsen, einer Fahrt kopfüber und kurzen Manövern in der Luft. Danach verbreiteten sich futuristische Videos fliegender Teslas im Internet. Wir erklären die Technik, Teslas Beschleunigungsangaben, den Produktionsplan für 2028 und den Unterschied zwischen Demonstration und KI-Memes."
+categories: ["technology"]
 ---
 
 *Das Bild ist eine symbolische KI-Illustration und keine Aufnahme der tatsächlichen Vorführung.*

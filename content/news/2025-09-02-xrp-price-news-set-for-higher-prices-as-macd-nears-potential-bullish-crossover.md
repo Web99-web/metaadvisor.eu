@@ -9,6 +9,7 @@ summary: "XRP climbs from $2.74 to $2.82 as whales accumulate nearly 340M tokens
 tags: ["crypto","XRP","MACD","technical-analysis","whales"]
 image_url: "https://cdn.coindesk.com/coindesk-images/2025/09/xrp-macd-chart-2025.png"
 image_url_small: "https://cdn.coindesk.com/coindesk-images/2025/09/xrp-macd-chart-2025.png?fit=600%2C338"
+categories: ["crypto"]
 ---
 
 Over the past 24 hours, XRP surged approximately 3%, reaching a high near $2.82. Whales have accumulated around 340 million tokens (about $960M), signaling institutional conviction amid broader market stress.

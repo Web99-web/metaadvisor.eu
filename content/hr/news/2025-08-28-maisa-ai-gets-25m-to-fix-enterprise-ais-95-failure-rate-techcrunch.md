@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterpri
 summary: "Maisa AI temelji se na ideji da poslovna automatizacija zahtijeva odgovorne AI agente, a ne netransparentne 'black box' sustave."
 tags: ["ai","MaisaAI","automation","enterprise","Creandum"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/maisa-ai-funding.jpg"
+categories: ["ai"]
 ---
 
 Prema izvještaju MIT-ovog NANDA instituta, **95% generativnih AI pilot-projekata u tvrtkama propada**. Umjesto da se organizacije povuku, one najnaprednije počinju eksperimentirati s **agentnim AI sustavima** koji mogu učiti i biti nadzirani.

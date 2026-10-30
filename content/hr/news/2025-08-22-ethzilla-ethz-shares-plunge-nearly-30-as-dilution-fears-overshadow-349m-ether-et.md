@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/ethzilla-shares-plunge-
 summary: "Rebrendirana kripto rizničarska tvrtka otkrila je ponudu od 74,8 milijuna dionica, izazvavši zabrinutost iako drži više od 82.000 ETH i 238 milijuna USD u gotovini."
 tags: ["crypto", "token", "financije", "ethereum", "eth", "ethzilla", "ethz"]
 image: "/news/2025-08-22-ethzilla-ethz-shares-plunge-nearly-30-as-dilution-fears-overshadow-349m-ether-et.jpg"
+categories: ["crypto"]
 ---
 
 Dionice **ETHZilla (ETHZ)**, bivše biotehnološke tvrtke 180 Life Science, pale su u petak gotovo **30%** nakon što je tvrtka otkrila da su dioničari podnijeli zahtjev za ponudu do **74,8 milijuna konvertibilnih dionica**.  

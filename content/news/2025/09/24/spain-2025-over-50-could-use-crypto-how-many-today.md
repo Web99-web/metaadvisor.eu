@@ -25,6 +25,7 @@ tags:
   - onramp
   - regulation
 summary: "Forecasts say over 50% of Spain’s population could use crypto by 2025. How many do today — and what will decide the path to that number?"
+categories: ["crypto"]
 ---
 
 In recent years, Spain has quietly moved crypto from “exotic” to everyday. Banking apps are faster, fees are lower, and the EU’s **MiCAR** finally provides clarity. So the idea that **over half the population** could be using crypto by **2025** no longer sounds far-fetched. The natural question: **how many actually use it today?**

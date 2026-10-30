@@ -7,14 +7,15 @@ translationKey: "fc6df9ded4c00363faa324c62ba2b88f"
 source: "Metaadvisor (The Guardian, Reuters, Bloomberg)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Samsung-AI-chip.png"
-featured_image: "/images/companies/Samsung-AI-chip.png"
-image: "/images/companies/Samsung-AI-chip.png"
-thumbnail: "/images/companies/Samsung-AI-chip.png"
+image_url: "/images/companies/Samsung-AI-chip.webp"
+featured_image: "/images/companies/Samsung-AI-chip.webp"
+image: "/images/companies/Samsung-AI-chip.webp"
+thumbnail: "/images/companies/Samsung-AI-chip.webp"
 image_alt: "Samsung AI memory chips and record bonuses for workers"
 image_credit: "Metaadvisor.eu"
 tags: ["samsung", "ai", "artificial intelligence", "chips", "memory chips", "semiconductor", "semiconductors", "sk hynix", "micron", "ai boom", "data centers", "workers", "bonuses", "unions", "technology", "stock market", "market capitalization", "trillion dollar", "memory chips", "ai infrastructure"]
 summary: "Samsung workers in the memory chip division are set to receive record bonuses after an agreement with unions. The AI boom is no longer filling only stock market valuations, but is increasingly affecting wages, bonuses and the bargaining power of employees in key technology sectors."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

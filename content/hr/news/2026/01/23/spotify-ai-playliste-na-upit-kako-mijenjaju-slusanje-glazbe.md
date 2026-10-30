@@ -7,14 +7,15 @@ translationKey: "5eba84d99e8f98c3cbf245fa05ec3c00"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Spotify-AI.png"
-featured_image: "/images/Spotify-AI.png"
-image: "/images/Spotify-AI.png"
-thumbnail: "/images/Spotify-AI.png"
+image_url: "/images/Spotify-AI.webp"
+featured_image: "/images/Spotify-AI.webp"
+image: "/images/Spotify-AI.webp"
+thumbnail: "/images/Spotify-AI.webp"
 image_alt: "Ilustracija AI asistenta koji pomaže korisnicima u stvaranju Spotify playlista"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 summary: "Spotify uvodi novu AI funkciju koja korisnicima omogućuje stvaranje playlista jednostavnim opisivanjem onoga što žele slušati – bez poznavanja izvođača, žanrova ili naslova pjesama."
 tags: ["spotify", "ai", "umjetna inteligencija", "glazba", "playlist", "streaming", "tehnologija", "algoritmi", "djeca", "korisnicko iskustvo"]
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "f486282165abeb6f2a496db6eddf688b"
 source: "Metaadvisor (Cointelegraph, OpenAI)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Malta-Free-ChatGPT-plus.png"
-featured_image: "/images/news/Malta-Free-ChatGPT-plus.png"
-image: "/images/news/Malta-Free-ChatGPT-plus.png"
-thumbnail: "/images/news/Malta-Free-ChatGPT-plus.png"
+image_url: "/images/news/Malta-Free-ChatGPT-plus.webp"
+featured_image: "/images/news/Malta-Free-ChatGPT-plus.webp"
+image: "/images/news/Malta-Free-ChatGPT-plus.webp"
+thumbnail: "/images/news/Malta-Free-ChatGPT-plus.webp"
 image_alt: "Malta i OpenAI pokreću besplatan ChatGPT Plus za građane"
 image_credit: "Metaadvisor.eu"
 tags: ["openai", "chatgpt", "chatgpt plus", "ai", "umjetna inteligencija", "malta", "eu", "digitalizacija", "ai edukacija", "ai literacy", "tech", "future", "europe", "ai policy"]
 summary: "Malta i OpenAI pokrenuli su prvi nacionalni program koji građanima omogućuje besplatan ChatGPT Plus nakon završetka AI edukacije. Projekt mnogi vide kao početak nove ere državnih AI partnerstava."
+categories: ["ai"]
 ---
 
 <small><em>Slika je simbolična.</em></small>

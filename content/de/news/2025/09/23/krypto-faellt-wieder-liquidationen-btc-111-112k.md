@@ -8,14 +8,15 @@ source: "Metaadvisor Market Wrap"
 source_url: ""
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "BTC schneller Rücksetzer — symbolische Illustration"
 image_credit: "Metaadvisor (symbolisches Bild)"
 tags: ["Krypto","Bitcoin","BTC","Ethereum","ETH","Liquidationen","Long-Squeeze","Leverage","Perps","Funding","Open-Interest","ETF","DXY","Fed","PCE","Volatilität","Spot-vs-Perps","Altcoins","DeFi","Markt"]
 summary: "Über Nacht erneut ein ‘Leverage Flush’: rund $1,6–1,9 Mrd. Derivate-Liquidationen; BTC tauchte kurzfristig bis ~$111k. Warum, wie viel und was als Nächstes."
+categories: ["crypto"]
 ---
 
 **Kurz (Morgen des 23.9.):**  

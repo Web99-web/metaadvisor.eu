@@ -7,10 +7,10 @@ translationKey: "e15ea5b3f289621657c39cd6455df1b7"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/07/xrp-spot-trading-is-now-live-on-hyperliquid-with-flare-s-fxrp-listing"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hyperliquid-XRP-FXRP.png"
-featured_image: "/images/Hyperliquid-XRP-FXRP.png"
-image: "/images/Hyperliquid-XRP-FXRP.png"
-thumbnail: "/images/Hyperliquid-XRP-FXRP.png"
+image_url: "/images/Hyperliquid-XRP-FXRP.webp"
+featured_image: "/images/Hyperliquid-XRP-FXRP.webp"
+image: "/images/Hyperliquid-XRP-FXRP.webp"
+thumbnail: "/images/Hyperliquid-XRP-FXRP.webp"
 image_alt: "XRP spot trgovanje na Hyperliquid platformi putem FXRP-a"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -24,6 +24,7 @@ tags:
   - defi
   - metamask
 summary: "Spot trgovanje XRP-om sada je aktivno na platformi Hyperliquid putem FXRP-a, tokenizirane verzije XRP-a iz Flare ekosustava, čime XRP dobiva punu dostupnost u on-chain order-book spot okruženju."
+categories: ["crypto"]
 ---
 
 

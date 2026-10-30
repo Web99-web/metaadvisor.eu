@@ -9,6 +9,7 @@ summary: "BTC above $100K, yet only 18% of interns own/use crypto — adoption i
 tags: ["bitcoin","btc","crypto","ai","humanoids","robots","morgan-stanley","intern-survey","etf","farside-investors","ethereum","eth","adoption"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/9def86c28207aa3e8c4d2095f1031c130eae77c9-1280x851.jpg?auto=format"
 image_alt: "Crypto adoption is still early — illustration"
+categories: ["crypto"]
 ---
 
 The “**we’re still early**” line still rings true in 2025: even with **bitcoin (BTC)** above **$100,000**, broader **adoption** remains nascent.

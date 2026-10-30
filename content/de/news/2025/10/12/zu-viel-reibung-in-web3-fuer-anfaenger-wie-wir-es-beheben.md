@@ -16,6 +16,7 @@ image_alt: "Web3 Logo und Netzwerksymbole"
 image_credit: "Symbolisches Bild."
 tags: ["web3", "UX", "Onboarding", "Blockchain", "MetaMask", "Bridges", "Multichain", "Neue Nutzer"]
 summary: "Ein fragmentiertes, mehrkettiges UX ist laut Autor die größte Hürde für neue Web3-Nutzer — vom Network-Switch bis zu Bridges. Vorgeschlagen werden Lösungen, die die Komplexität verbergen und Anwendungen in den Vordergrund stellen."
+categories: ["news"]
 ---
 
 Stellen Sie sich den **ersten Tag eines Nutzers in Krypto** vor. Er hört von finanzieller Souveränität, globalen Märkten, neuer digitaler Ökonomie. Er lädt eine Wallet herunter, kauft etwas ETH und findet eine interessante App. Dann — **stößt er auf Hindernisse**.

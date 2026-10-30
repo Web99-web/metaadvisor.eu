@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "ethereum", "eth", "solana", "sol", "finance", "stocks"]
 our_take: |
   Naš osvrt: SOL je u petak skočio iznad 239 $, nastavljajući snažan rujanski rast; Mike Novogratz Solanu opisuje kao „krojenu po mjeri” za globalna financijska tržišta, a analitičar Ali Martinez vidi cilj oko 1.314 $. Ključno za pratiti: likvidnost, makro (kamatne stope/USD) i regulativa. Ostanite selektivni; dodavati samo u visokouvjerene pozicije.
+categories: ["news"]
 ---
 
 Solanin SOL u petak je porastao iznad 239 $, produživši snažne rujanske dobitke, dok je izvršni direktor Galaxy Digitala Mike Novogratz opisao blockchain kao „krojen po mjeri” za globalna financijska tržišta, a analitičar Ali Martinez ucrtao mogući put do 1.314 $.

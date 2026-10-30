@@ -6,14 +6,15 @@ category: "ai"
 translationKey: "cbb02fefaac83f96190b152826cfc18c"
 source: "Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/ai-deepfake.png"
-featured_image: "/images/ai-deepfake.png"
-image: "/images/ai-deepfake.png"
-thumbnail: "/images/ai-deepfake.png"
+image_url: "/images/ai-deepfake.webp"
+featured_image: "/images/ai-deepfake.webp"
+image: "/images/ai-deepfake.webp"
+thumbnail: "/images/ai-deepfake.webp"
 image_alt: "Illustration: AI-Deepfake mit digitalem Glitch-Effekt"
 image_credit: "Metaadvisor / generiert"
 tags: ["ai","sora","openai","deepfake","video","recht","ethik","generative-ai","personenrechte","publicity-rights","forrest-gump","film","nachlass"]
 summary: "OpenAIs Videotool Sora ermöglicht realistisch wirkende Deepfakes Verstorbener. Juristen und Ethiker warnen vor rechtlichen Grauzonen, Missbrauch und Verletzung der Würde."
+categories: ["ai"]
 ---
 
 {{< cta href="/go/mexc" text="👉 Traden auf MEXC" >}}

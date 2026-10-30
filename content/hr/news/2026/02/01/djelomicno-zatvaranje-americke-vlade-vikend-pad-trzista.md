@@ -24,6 +24,7 @@ tags:
   - volatilnost
   - vikend-trgovanje
 summary: "Djelomično zatvaranje rada američke savezne vlade tijekom vikenda pojačalo je nesigurnost na tržištima i moglo pridonijeti padu rizične imovine, uključujući kriptovalute."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

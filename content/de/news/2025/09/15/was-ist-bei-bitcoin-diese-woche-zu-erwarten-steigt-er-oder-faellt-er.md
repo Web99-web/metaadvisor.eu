@@ -10,6 +10,7 @@ image_url: "/images/btc-news.jpg"
 image_alt: "Bitcoin-News und Kursentwicklung"
 tags: ["bitcoin","markets","fed","etf","macro"]
 summary: "FOMC-Woche: Die US-Notenbank entscheidet über Zinsen. Bitcoin schwankt unter 117.000 $, ETFs kaufen weiter – der Markt sucht ein klares Signal für „hoch“ oder „runter“."
+categories: ["crypto"]
 ---
 
 **Kurzfassung:** Am **Mittwoch** entscheidet die **US-Notenbank (Fed)** über die Zinsen. Solche Termine sorgen oft für mehr Bewegung – auch bei Bitcoin. Aktuell pendelt der Kurs **unter 117.000 $**. Ein **klarer Ausbruch darüber** könnte schnell in Richtung **120.000 $+** führen. Scheitert der Anlauf, wäre ein Rücksetzer **um 113.000 $** naheliegend.

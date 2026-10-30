@@ -7,14 +7,15 @@ translationKey: "f34cb7e5e99073c90420fa0884e6d0ed"
 source: "Metaadvisor (Cointelegraph, Bitcoin.com, Forklog)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-hard-fork-eCash-august.png"
-featured_image: "/images/BTC-hard-fork-eCash-august.png"
-image: "/images/BTC-hard-fork-eCash-august.png"
-thumbnail: "/images/BTC-hard-fork-eCash-august.png"
+image_url: "/images/BTC-hard-fork-eCash-august.webp"
+featured_image: "/images/BTC-hard-fork-eCash-august.webp"
+image: "/images/BTC-hard-fork-eCash-august.webp"
+thumbnail: "/images/BTC-hard-fork-eCash-august.webp"
 image_alt: "Bitcoin-Hard-Fork eCash für August geplant"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "krypto", "hard fork", "ecash", "blockchain", "wallet", "self custody", "exchange", "satoshi nakamoto"]
 summary: "Der neue Bitcoin-Hard-Fork eCash, geplant für August, bringt ein 1:1-Verteilungsmodell, aber auch Kontroversen rund um Satoshi-Wallets und die tatsächliche Verfügbarkeit der Coins für Nutzer."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -24,6 +24,7 @@ tags:
   - etf
   - crypto trading
 summary: "U.S. spot ETFs linked to XRP have surpassed $1.25 billion in net assets, yet the token’s price remains below key levels. The market shows a clear divide between institutional accumulation and short-term trading."
+categories: ["crypto"]
 ---
 U.S. spot ETFs linked to XRP continue to attract capital and have surpassed **$1.25 billion in net assets**, yet the token’s price remains without a clear directional trend. While professional investors patiently build positions through regulated products, short-term traders continue to sell into every rally, keeping the price pressured around **$1.86**.
 

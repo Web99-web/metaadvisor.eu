@@ -16,6 +16,7 @@ image_alt: "Kripto budućnost — privatnost i regulacija"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["privacy","blockchain","regulation","surveillance","crypto","metaadvisor"]
 summary: "U srazu blockchaina i javne vlasti privatnost nije stanje nego proces: kako mreže postaju masovnije, raste i pritisak države da nametne nadzor i usklađenost."
+categories: ["ai"]
 ---
 
 U kriptu se često govori o privatnosti kao o značajci — uključiš je ili isključiš i stvar je riješena. U praksi, privatnost je **stalna borba**. Svaki korak prema većoj upotrebljivosti i masovnom usvajanju povlači i **snažniji institucionalni interes**: porezna tijela, financijski nadzor, agencije za suzbijanje kriminala. I dok su rani dani pripadali pionirima koji su gradili alate za **pseudonimnost** i **self-custody**, zrelo tržište sve više traži **pravila** — i sve češće ih provode **posrednici** poput burzi, skrbnika i izdavatelja tokena.

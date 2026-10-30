@@ -69,21 +69,53 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
+      - name: Require explicit release approvals
+        run: python3 tools/check_release_readiness.py
+
+      - name: Install QA dependency
+        run: python3 -m pip install lxml
+
+      # Local D preparation: no changes are published until the route gate passes.
+      - name: Check approved topic controls
+        run: |
+          python3 tools/prepare_tag_archives.py
+          python3 tools/prepare_tag_archives.py --check
+
       # Build the Hugo site
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          MA_RELEASE_OUTPUT: ${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}
         run: |
+          test ! -e "$MA_RELEASE_OUTPUT"
           hugo \
             --minify \
-            --baseURL "https://metaadvisor.eu/"
+            --baseURL "https://metaadvisor.eu/" \
+            --destination "$MA_RELEASE_OUTPUT"
+
+      - name: Repair verified broken URL references in rendered HTML
+        run: |
+          python3 tools/repair_verified_urls.py --output "${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}" --report "${{ runner.temp }}/verified-url-repairs.json"
+
+      - name: Prepare meaningful compatibility and enforce migration gate
+        run: |
+          python3 tools/build_tag_compatibility.py --output "${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}" --report "${{ runner.temp }}/tag-compatibility.json" --release-check
+
+      - name: Apply final article-only indexing and verified MIME policy
+        run: python3 tools/finalize_release.py --output "${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}" --report "${{ runner.temp }}/final-policy.json"
+
+      - name: Validate complete Linux release output
+        run: |
+          printf '{"platform":"linux","returncode":0}\n' > "${{ runner.temp }}/linux-build.json"
+          python3 tools/validate_tag_release.py --output "${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}" --compat-report "${{ runner.temp }}/tag-compatibility.json" --report "${{ runner.temp }}/validation.json" --require-linux
+          python3 tools/check_release_readiness.py
 
       # Upload build artifact for deployment
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}
 
   # Deployment job
   deploy:

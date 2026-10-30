@@ -9,6 +9,7 @@ summary: "U.S. stocks are flashing signs of investor euphoria even as crypto mar
 tags: ["crypto","stocks","sentiment","wall-street","euphoria"]
 image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/09/wall-street-nyse-bull-market-gID_7.jpg?fit=1200%2C675"
 image_url_small: "https://cdn.decrypt.co/wp-content/uploads/2025/09/wall-street-nyse-bull-market-gID_7.jpg?fit=600%2C338"
+categories: ["crypto"]
 ---
 
 U.S. stocks are flashing signs of euphoria, contrasting with a muted crypto market as traders look for clues on what’s next.

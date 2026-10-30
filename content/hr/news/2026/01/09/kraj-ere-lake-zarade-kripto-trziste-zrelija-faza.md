@@ -25,6 +25,7 @@ tags:
   - futures
   - risk
 summary: "Nakon snažnog tržišnog sloma u listopadu 2025., kripto tržište ulazi u novu, zreliju fazu. Era relativno lake i stabilne zarade kroz arbitražne strategije postupno završava, ostavljajući prostor za održiviji i profesionalniji razvoj tržišta."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

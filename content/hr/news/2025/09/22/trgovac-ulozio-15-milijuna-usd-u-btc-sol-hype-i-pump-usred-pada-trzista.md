@@ -16,6 +16,7 @@ image_alt: "Bitcoin, Ethereum i Solana — simbolična ilustracija tržišta"
 image_credit: "Metaadvisor image_map (simbolična slika)"
 tags: ["Bitcoin","BTC","Solana","SOL","HYPE","PUMP","Hyperliquid","kupnja-dipa","whale","likvidacije","derivati","perps","DXY","Fed","PCE","FTX","vjerovnici","on-chain","Lookonchain","volatilnost","tržište"]
 summary: "Dok se kripto tržište spuštalo, jedan je ‘whale’ na Hyperliquidu rasporedio 15 mil. USD (USDC) na BTC, SOL, HYPE i PUMP — oklada na brzi oporavak usred pojačanih likvidacija i jačeg dolara."
+categories: ["crypto"]
 ---
 
 **Kratko:**  

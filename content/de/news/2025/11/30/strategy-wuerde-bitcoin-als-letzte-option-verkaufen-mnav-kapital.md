@@ -16,6 +16,7 @@ image_alt: "Strategy (ehemals MicroStrategy) Bitcoin Strategie"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","strategy","microstrategy","mnav","nav","phong-le","etf","btc","krypto","investitionen","institutionen","kapital"]
 summary: "Strategy-CEO Phong Le sagt, dass das Unternehmen Bitcoin nur verkaufen würde, wenn die Aktie unter den Nettoinventarwert fällt und der Zugang zu Kapital vollständig versagt – eine rein finanzielle Entscheidung und keine Änderung der Strategie."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "digital-public-square-emotional-erasure-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/Social-networking-erased-destroyed.png"
-featured_image: "/images/Social-networking-erased-destroyed.png"
-image: "/images/Social-networking-erased-destroyed.png"
-thumbnail: "/images/Social-networking-erased-destroyed.png"
+image_url: "/images/Social-networking-erased-destroyed.webp"
+featured_image: "/images/Social-networking-erased-destroyed.webp"
+image: "/images/Social-networking-erased-destroyed.webp"
+thumbnail: "/images/Social-networking-erased-destroyed.webp"
 image_alt: "Emotional erschütterte junge Menschen symbolisieren die Folgen digitaler Löschung aus sozialen Netzwerken"
 image_credit: "Metaadvisor.eu"
 tags: ["digitale Identität", "KI-Moderation", "Digital Services Act", "soziale Netzwerke", "Algorithmen", "Zensur", "Online-Communitys", "psychologische Folgen", "Meinungsfreiheit", "digitaler öffentlicher Raum"]
 summary: "In letzter Zeit wird in digitalen Gemeinschaften immer häufiger über langjährige Nutzer gesprochen, die plötzlich durch KI-Moderation verschwunden sind. Was bedeutet es, wenn private Plattformen zum öffentlichen Marktplatz werden – und wie hoch ist der emotionale Preis digitaler Auslöschung?"
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

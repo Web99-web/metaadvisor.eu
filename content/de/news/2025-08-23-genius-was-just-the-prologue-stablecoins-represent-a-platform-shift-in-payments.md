@@ -9,6 +9,7 @@ summary: "Shan Aggarwal meint, dass die Krypto-Branche das Tempo und die Wucht d
 tags: ["stablecoins","payments","genius-act","ai","infrastructure","fintech","circle","stripe","shopify","banks","card-networks","platform-shift","opinion"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/0a9b2f4c6a1e4b5cbd0b1a2a3f4e5d6c7b8a9f01-1280x720.jpg?auto=format"
 image_alt: "Stablecoins als neue Zahlungsschicht"
+categories: ["news"]
 ---
 
 Jede Ära wirtschaftlicher Transformation begann gleich: mit Infrastruktur, die zunächst als Nische erschien — bis sie es nicht mehr war.

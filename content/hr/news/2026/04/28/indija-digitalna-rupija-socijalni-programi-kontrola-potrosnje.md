@@ -7,14 +7,15 @@ translationKey: "a3eb58d7bb08f2b581aa667d23922204"
 source: "Metaadvisor (CoinDesk, Reuters)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/India-digital-rupee.png"
-featured_image: "/images/India-digital-rupee.png"
-image: "/images/India-digital-rupee.png"
-thumbnail: "/images/India-digital-rupee.png"
+image_url: "/images/India-digital-rupee.webp"
+featured_image: "/images/India-digital-rupee.webp"
+image: "/images/India-digital-rupee.webp"
+thumbnail: "/images/India-digital-rupee.webp"
 image_alt: "Indija uvodi digitalnu rupiju kroz socijalne programe"
 image_credit: "Metaadvisor.eu"
 tags: ["digitalna rupija", "cbdc", "india", "indija", "crypto", "kripto", "financije", "regulacija", "blockchain", "buducnost novca"]
 summary: "Indija koristi socijalne programe za širenje digitalne rupije, testirajući model programabilnog novca i potencijalnu kontrolu načina trošenja."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

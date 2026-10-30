@@ -16,6 +16,7 @@ image_alt: "Teksas kupio 5M u Bitcoin ETF-u"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["teksas", "bitcoin", "btc", "kripto", "kriptovalute", "etf", "btc etf", "državne rezerve", "financije", "ulaganje", "ekonomija", "blockchain", "crypto", "kriptotržište"]
 summary: "Teksas je kupio 5 milijuna dolara u Bitcoin ETF-u, dok pojedini izvori navode da je ukupna alokacija za državne kripto-rezerve planirana do 10 milijuna dolara."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

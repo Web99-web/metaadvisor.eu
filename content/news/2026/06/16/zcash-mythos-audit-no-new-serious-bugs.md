@@ -15,6 +15,7 @@ image_alt: "Zcash Mythos AI security audit concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Zcash", "ZEC", "Claude Mythos", "Anthropic Mythos", "Claude Opus", "AI audit", "security audit", "Orchard", "shielded pool", "privacy coin", "crypto security", "bug", "vulnerability", "AI security", "blockchain", "zero-knowledge", "Shielded Labs", "Zooko Wilcox", "Taylor Hornby", "Metaadvisor"]
 summary: "After the serious Orchard bug in Zcash, a new AI audit using Anthropic’s Claude Mythos model reportedly found no additional serious vulnerabilities. But for a privacy coin, the question of trust does not end simply because no new bug was found."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>The image is symbolic.</em></p>

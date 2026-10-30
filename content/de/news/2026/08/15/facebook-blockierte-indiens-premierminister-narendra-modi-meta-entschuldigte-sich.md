@@ -6,15 +6,16 @@ category: "Meta"
 translationKey: "facebook-blocked-indias-prime-minister-modi-meta-apologized-2026-08-15"
 source: "Reuters, Meta Oversight Board, Financial Times, CBS News, Appeals Centre Europe, Change.org, Meta"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
-featured_image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
-image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
-thumbnail: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
+image_url: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
+featured_image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
+image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
+thumbnail: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
 image_alt: "Facebook blockierte einen Beitrag des indischen Premierministers Narendra Modi, danach entschuldigte sich Meta"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Facebook", "Meta", "Narendra Modi", "Indien", "KI-Moderation", "Facebook-Ban", "dauerhafte Sperre", "Big Tech", "Kundensupport", "Oversight Board", "Appeals Centre Europe", "Recht auf Information"]
 description: "Facebook blockierte einen Beitrag des indischen Premierministers Narendra Modi. Nach der Reaktion der indischen Regierung entschuldigte sich Meta, während normale Nutzer ihre Konten dauerhaft verlieren können – ohne konkrete Erklärung und ohne menschlichen Support."
 summary: "Modis Sperre führte zu einer Intervention der Regierung, einer Erklärung und einer Entschuldigung von Meta. Gleichzeitig können normale Nutzer innerhalb von Sekunden 15 oder 20 Jahre alte Konten, Messenger, Seiten, Gruppen und den Zugang zu einem Teil des Informationsraums von Facebook verlieren."
+categories: ["Meta"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -58,7 +59,7 @@ Wir verfolgen dieses Thema bei Metaadvisor bereits seit Monaten. Und je mehr wir
 Darüber haben wir bereits im Artikel <a href="https://metaadvisor.eu/de/news/recht-auf-information-facebook-ban-ist-nicht-nur-ein-verlorenes-profil/" target="_blank" rel="noopener"><strong>Recht auf Information: Ein Facebook-Ban ist nicht mehr nur ein verlorenes Profil</strong></a> berichtet.
 
 <a href="https://metaadvisor.eu/de/news/recht-auf-information-facebook-ban-ist-nicht-nur-ein-verlorenes-profil/" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-bans.png" alt="Facebook-Ban und das Recht des Menschen auf Information" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+<img src="/images/Meta/Facebook-bans.webp" alt="Facebook-Ban und das Recht des Menschen auf Information" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
 </a>
 
 Ein dauerhafter Ausschluss kann buchstäblich innerhalb einer Sekunde erfolgen. Ein Nutzer, der nur wenige Augenblicke zuvor mit Freunden gesprochen, Gruppen oder Seiten verwaltet und Messenger genutzt hat, ist plötzlich nicht mehr drin. Er hat keine Zeit, Freunde zu warnen, eine andere Kontaktmöglichkeit zu hinterlassen oder Menschen, die er vielleicht seit Jahren kennt, zu erklären, dass Facebook ihn entfernt hat.
@@ -90,7 +91,7 @@ Wie groß dieses System ist, zeigt eine Zahl, die beinahe unglaublich klingt. Da
 Über genau diese Problematik haben wir bereits im Artikel <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener"><strong>Meta Oversight Board: KI-Moderation — ein jahrelanges Problem rückt erst jetzt in den Fokus</strong></a> berichtet.
 
 <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener">
-<img src="/images/Meta/Meta-oversight-board2.png" alt="Meta Oversight Board und das Problem der KI-Moderation" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+<img src="/images/Meta/Meta-oversight-board2.webp" alt="Meta Oversight Board und das Problem der KI-Moderation" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
 </a>
 
 Mit anderen Worten: Wir sprechen längst nicht mehr über ein paar verärgerte Nutzer, die sich im Internet beschweren.
@@ -172,7 +173,7 @@ Das System besitzt noch eine beinahe satirische Dimension: Die Gebühren für di
 Über diese Problematik haben wir bereits ausführlich im Artikel <a href="https://metaadvisor.eu/de/news/eu-appeals-centre-europe-schutz-versagt-plattformen-ignorieren-beschwerden/" target="_blank" rel="noopener"><strong>EU-Schutz versagt: Appeals Centre Europe hat keine echte Macht, ignorieren soziale Plattformen?</strong></a> berichtet.
 
 <a href="https://metaadvisor.eu/de/news/eu-appeals-centre-europe-schutz-versagt-plattformen-ignorieren-beschwerden/" target="_blank" rel="noopener">
-<img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png" alt="Appeals Centre Europe und der Schutz von Facebook-Nutzern in der Europäischen Union" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+<img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp" alt="Appeals Centre Europe und der Schutz von Facebook-Nutzern in der Europäischen Union" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
 </a>
 
 Vielleicht werden Narendra Modi und die indische Regierung erfolgreicher sein als die EU und ihr Appeals Centre Europe bisher. Denn ein Nutzer, dessen Konto dauerhaft deaktiviert wurde, braucht kein weiteres Dokument, das zu totem Papier werden kann. Er braucht einen Mechanismus, der die Plattform **verpflichtet**, ihre Entscheidung zu erklären, eine echte menschliche Beschwerde zu ermöglichen und einen Fehler zu korrigieren.

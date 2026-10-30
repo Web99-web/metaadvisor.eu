@@ -3,7 +3,7 @@ title: "Tinder räumt ein: Künstliche Intelligenz soll Nutzer-Burnout und Swipe
 slug: "tinder-ki-swipe-fatigue-burnout-chemistry"
 date: 2026-02-05T12:30:00
 category: "ai"
-translationKey: "bebee28a72a90f8b0e794232f4e5d83c"
+translationKey: "bebee28a72a90f8b0e794232f4e5d83c--2026-02-05"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/"
 author: "TechCrunch"
@@ -16,6 +16,7 @@ image_alt: "Tinder setzt KI ein, um Swipe-Fatigue zu reduzieren"
 image_credit: "TechCrunch / MetaAdvisor.eu"
 tags: ["tinder","ki","künstliche intelligenz","privatsphäre","dating apps","match group","burnout","gen z","algorithmen","daten"]
 summary: "Tinder macht deutlich: KI ist kein Gimmick mehr, sondern eine Antwort auf Nutzerermüdung, sinkende Abos und das Ende des klassischen Swipe-Modells."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

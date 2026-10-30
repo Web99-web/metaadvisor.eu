@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Market Focus", "globalna tržišta", "Wall Street", "S&P 500", "Nasdaq", "Dow Jones", "Brent", "nafta", "zlato", "srebro", "obveznice", "Bitcoin", "Ethereum", "Solana", "XRP", "HYPE", "kripto", "Japan", "Hong Kong", "Europa", "inflacija", "kamatne stope"]
 description: "Nafta se približava 95 dolara, globalni prinosi rastu, zlato i srebro snažno padaju, a Bitcoin, Ethereum, Solana, XRP i HYPE pokušavaju se stabilizirati nakon novog risk-off udara."
 summary: "Početak rujna donio je neuobičajenu podjelu tržišta: energija snažno raste, obveznice se prodaju, tehnološke dionice slabe, zlato i srebro padaju, dok kripto pokušava obraniti ključne support zone."
+categories: ["Markets"]
 ---
 
 # Market Focus: Nafta raste prema 95 dolara, metali padaju, kripto pokušava odbiti

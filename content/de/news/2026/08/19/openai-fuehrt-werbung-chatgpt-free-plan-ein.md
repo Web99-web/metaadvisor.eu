@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["ChatGPT", "OpenAI", "ChatGPT Werbung", "Werbung", "AI", "Free Plan", "ChatGPT Go", "künstliche Intelligenz"]
 description: "OpenAI weitet Werbung innerhalb von ChatGPT aus. Anzeigen werden Nutzern der Free- und Go-Pläne gezeigt, während Plus, Pro, Business, Enterprise und Edu werbefrei bleiben."
 summary: "OpenAI hat die Tests von Werbung in ChatGPT über die USA hinaus ausgeweitet. Anzeigen können Nutzern der Free- und Go-Pläne erscheinen, während OpenAI erklärt, dass Werbung weder die Antworten von ChatGPT beeinflussen noch Werbetreibenden Zugang zu privaten Gesprächen geben soll."
+categories: ["AI"]
 ---
 
 *Symbolbild.*

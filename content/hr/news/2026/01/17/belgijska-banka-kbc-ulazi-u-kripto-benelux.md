@@ -7,10 +7,10 @@ translationKey: "kbc_belgian_bank_crypto_benelux_2026"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Banks-move-into-crypto2.png"
-featured_image: "/images/Banks-move-into-crypto2.png"
-image: "/images/Banks-move-into-crypto2.png"
-thumbnail: "/images/Banks-move-into-crypto2.png"
+image_url: "/images/Banks-move-into-crypto2.webp"
+featured_image: "/images/Banks-move-into-crypto2.webp"
+image: "/images/Banks-move-into-crypto2.webp"
+thumbnail: "/images/Banks-move-into-crypto2.webp"
 image_alt: "Simboličan prikaz belgijske banke i ulaska tradicionalnog bankarstva u kripto sektor"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -25,6 +25,7 @@ tags:
   - institucionalno usvajanje
   - regulacija
 summary: "Belgijska banka KBC najavila je da će omogućiti trgovanje Bitcoinom i Ethereumom za retail klijente, čime Benelux regija dobiva jednu od prvih velikih banaka s izravnom kripto ponudom."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

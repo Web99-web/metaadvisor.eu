@@ -15,6 +15,7 @@ image_alt: "Pi Network – Kryptowährung, die seit sechs Jahren ohne offenen Ma
 image_credit: "MetaAdvisor AI-generated"
 tags: ["pi-network","kryptowährungen","blockchain","mining","mobile-app","krypto-community","liquidität","markt","analyse"]
 summary: "Pi Network ist ein Krypto-Projekt, das seit sechs Jahren Millionen von Nutzern ohne offenen Markt und ohne klare Marktpreisbildung sammelt – ein einzigartiges, aber auch sehr riskantes Phänomen."
+categories: ["news"]
 ---
 
 # Pi Network wächst seit 6 Jahren ohne Markt

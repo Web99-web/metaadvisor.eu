@@ -7,10 +7,10 @@ translationKey: "address_poisoning_50m_loss_20122025"
 source: "Cointelegraph, CoinDesk"
 source_url: "cointelegraph.com, coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Lost-50-mil-usd.png"
-featured_image: "/images/Lost-50-mil-usd.png"
-image: "/images/Lost-50-mil-usd.png"
-thumbnail: "/images/Lost-50-mil-usd.png"
+image_url: "/images/Lost-50-mil-usd.webp"
+featured_image: "/images/Lost-50-mil-usd.webp"
+image: "/images/Lost-50-mil-usd.webp"
+thumbnail: "/images/Lost-50-mil-usd.webp"
 image_alt: "Address poisoning scam and loss of 50 million dollars after copying a crypto address"
 image_credit: "MetaAdvisor illustration"
 tags:
@@ -26,6 +26,7 @@ tags:
   - tornado cash
   - cybercrime
 summary: "A single copied crypto address was enough to lose nearly $50 million in USDT. This case shows how address poisoning attacks exploit human behavior rather than blockchain vulnerabilities."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

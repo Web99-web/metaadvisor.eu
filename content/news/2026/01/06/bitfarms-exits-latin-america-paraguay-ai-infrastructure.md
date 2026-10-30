@@ -7,10 +7,10 @@ translationKey: "1b22cbbc45d310cb4fc20f21b34cdb6e"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitfarms-latam-paraguay-sale"
 author: "MetaAdvisor.eu"
-image_url: "/images/Bitfarms-exits-latin-america.png"
-featured_image: "/images/Bitfarms-exits-latin-america.png"
-image: "/images/Bitfarms-exits-latin-america.png"
-thumbnail: "/images/Bitfarms-exits-latin-america.png"
+image_url: "/images/Bitfarms-exits-latin-america.webp"
+featured_image: "/images/Bitfarms-exits-latin-america.webp"
+image: "/images/Bitfarms-exits-latin-america.webp"
+thumbnail: "/images/Bitfarms-exits-latin-america.webp"
 image_alt: "Bitfarms exits Paraguay and Latin America as it pivots toward AI infrastructure"
 image_credit: "MetaAdvisor.eu / symbolic illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - energy
   - crypto
 summary: "Bitfarms sold its Paraguay mining facility for $30 million and fully exited Latin America, shifting its strategy toward AI and high-performance computing infrastructure in North America."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

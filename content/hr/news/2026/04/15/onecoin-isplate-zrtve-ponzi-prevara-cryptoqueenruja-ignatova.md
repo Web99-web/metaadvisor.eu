@@ -7,14 +7,15 @@ translationKey: "onecoin-compensation-doj-2026"
 source: "Metaadvisor (DOJ, CoinDesk, Cointelegraph)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.png"
-featured_image: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.png"
-image: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.png"
-thumbnail: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.png"
+image_url: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.webp"
+featured_image: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.webp"
+image: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.webp"
+thumbnail: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.webp"
 image_alt: "OneCoin prevara i ključne osobe Ruja Ignatova i Konstantin Ignatov"
 image_credit: "Metaadvisor.eu"
 tags: ["onecoin", "crypto prevara", "ponzi shema", "ruja ignatova", "konstantin ignatov", "kripto", "scam", "bitcoin", "financije", "ai"]
 summary: "SAD pokreće isplate za žrtve OneCoin prevare u kojoj je izgubljeno najmanje 4 milijarde dolara, dok neke procjene govore i do 19 milijardi — no vraća se tek oko 40 milijuna dolara."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

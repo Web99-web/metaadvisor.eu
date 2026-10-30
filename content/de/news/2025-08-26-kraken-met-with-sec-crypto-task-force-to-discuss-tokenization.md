@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/crypto-exchange-kraken-met-with-sec-
 summary: "Kraken und die SEC-Crypto Task Force diskutierten die Tokenisierung traditioneller Vermögenswerte und einen tokenisierten Handelssystem-Rahmen."
 tags: ["crypto","kraken","sec","tokenization","tokenized-stocks","regulation","rwa"]
 image_url: "https://s3.cointelegraph.com/uploads/2025-08/0198e50b-2451-754c-86dc-4d3cadea0812"
+categories: ["crypto"]
 ---
 
 Die Kryptobörse **Kraken** traf sich am Montag mit der **Crypto Task Force** der US-**SEC**, um die **Tokenisierung traditioneller Assets** sowie regulatorische und rechtliche Anforderungen für ein **tokenisiertes Handelssystem** zu erörtern, wie ein eingereichtes Memorandum festhält.

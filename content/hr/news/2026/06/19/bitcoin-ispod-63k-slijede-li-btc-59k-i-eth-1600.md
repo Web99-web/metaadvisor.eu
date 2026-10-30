@@ -15,6 +15,7 @@ image_alt: "Bitcoin and Ethereum under pressure as crypto market tests key level
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "crypto", "kripto", "crypto tržište", "Bitcoin cijena", "Ethereum cijena", "BTC 59k", "ETH 1600", "altcoins", "risk assets", "globalna tržišta", "tržišna korekcija", "crypto korekcija", "futures", "open interest", "exchange inflows", "Binance", "CryptoQuant", "CoinDesk", "likvidnost", "prodajni pritisak", "Metaadvisor"]
 summary: "Bitcoin je pao ispod 63.000 dolara, Ethereum se spustio prema području od 1.700 dolara, a tržište ponovno gleda ključne razine: BTC oko 59.000–60.000 dolara i ETH oko 1.600 dolara."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>

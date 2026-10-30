@@ -15,6 +15,7 @@ image_alt: "Ethereum (ETH) als Basis-Infrastruktur für dezentrale Finanzsysteme
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Marktanalysten nennen zunehmend die Marke von 15.000 US-Dollar für Ethereum bis 2027 – gestützt auf Staking, sinkendes Angebot und wachsende institutionelle Nutzung."
 tags: ["ethereum", "eth", "krypto", "staking", "defi", "tokenisierung", "institutionelles kapital"]
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

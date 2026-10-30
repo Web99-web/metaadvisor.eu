@@ -7,10 +7,10 @@ translationKey: "after_the_hack_no_code_chainalysis_20260122"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hack-no-code-tracking.png"
-featured_image: "/images/Hack-no-code-tracking.png"
-image: "/images/Hack-no-code-tracking.png"
-thumbnail: "/images/Hack-no-code-tracking.png"
+image_url: "/images/Hack-no-code-tracking.webp"
+featured_image: "/images/Hack-no-code-tracking.webp"
+image: "/images/Hack-no-code-tracking.webp"
+thumbnail: "/images/Hack-no-code-tracking.webp"
 image_alt: "No-code praćenje kripto sredstava nakon hakerskog napada"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags: [
@@ -27,6 +27,7 @@ tags: [
   "incident response"
 ]
 summary: "Nakon hakerskog napada, brzina reakcije postaje ključna. No-code alati poput Chainalysis Workflows omogućuju praćenje ukradenih sredstava bez pisanja koda i mijenjaju način na koji se kripto incidenti istražuju."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

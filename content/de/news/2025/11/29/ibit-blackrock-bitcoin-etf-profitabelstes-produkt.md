@@ -15,6 +15,7 @@ image_alt: "BlackRock IBIT ETF Illustration"
 image_credit: "MetaAdvisor AI–generated"
 tags: ["bitcoin","btc","krypto","kriptowährungen","blackrock","ibit","etf","finanzen","institutionell","wallstreet","kapital","btcangebot","bitcoinetf"]
 summary: "IBIT, BlackRocks Spot-Bitcoin-ETF, wurde zum profitabelsten Produkt des Unternehmens und erreichte fast 100 Milliarden USD an Allokationen sowie über 3% des gesamten BTC-Angebots."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

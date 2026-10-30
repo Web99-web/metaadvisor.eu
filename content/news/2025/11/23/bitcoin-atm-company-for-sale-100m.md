@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/crypto-dispensers-explores-100m-sale-after-ceo-indictment"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Bitcoin-ATM.png"
-featured_image: "/images/Bitcoin-ATM.png"
-image: "/images/Bitcoin-ATM.png"
-thumbnail: "/images/Bitcoin-ATM.png"
+image_url: "/images/Bitcoin-ATM.webp"
+featured_image: "/images/Bitcoin-ATM.webp"
+image: "/images/Bitcoin-ATM.webp"
+thumbnail: "/images/Bitcoin-ATM.webp"
 image_alt: "Bitcoin ATM in the United States – illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "crypto", "bitcoin atm", "btc news", "crypto regulation", "usa"]
 summary: "Bitcoin ATMs exist across the US and Canada, enabling people to buy BTC with cash. Now, one of the major operators is exploring a $100M sale following a federal indictment."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

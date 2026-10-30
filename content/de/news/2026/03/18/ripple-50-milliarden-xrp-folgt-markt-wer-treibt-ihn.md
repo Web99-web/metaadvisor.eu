@@ -7,14 +7,15 @@ translationKey: "xrp-market-follow-2026"
 author: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/news/Ripple-vs-XRP.png"
-featured_image: "/images/news/Ripple-vs-XRP.png"
-image: "/images/news/Ripple-vs-XRP.png"
-thumbnail: "/images/news/Ripple-vs-XRP.png"
+image_url: "/images/news/Ripple-vs-XRP.webp"
+featured_image: "/images/news/Ripple-vs-XRP.webp"
+image: "/images/news/Ripple-vs-XRP.webp"
+thumbnail: "/images/news/Ripple-vs-XRP.webp"
 image_alt: "XRP folgt Bitcoin ohne eigenen Narrativ"
 tags: ["krypto", "xrp", "ripple", "bitcoin", "analyse", "markt", "investoren", "blockchain"]
 summary: "Ripple erreicht eine Bewertung von 50 Milliarden Dollar, während XRP mit dem Markt steigt. Doch die entscheidende Frage bleibt — wer treibt XRP wirklich an und warum fehlt ihm eine eigene Richtung?"
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

@@ -16,6 +16,7 @@ image_alt: "Hyperliquid tokenized futures trading oil stocks"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["crypto", "hyperliquid", "defi", "rwa", "tokenized assets", "futures", "perpetual futures", "oil", "gold", "silver", "sp500", "trading", "blockchain", "decentralized exchanges", "defi markets"]
 summary: "Hyperliquid’s decentralized futures market has surpassed $1.2 billion in open interest as traders increasingly speculate on tokenized oil, gold and equity markets."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

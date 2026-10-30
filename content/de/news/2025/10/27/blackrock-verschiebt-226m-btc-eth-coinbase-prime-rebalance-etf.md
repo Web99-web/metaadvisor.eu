@@ -16,6 +16,7 @@ image_alt: "BlackRock → Coinbase Prime: Transfer von Bitcoin und Ethereum für
 image_credit: "Illustration — Metaadvisor.eu (symbolisches Bild)"
 tags: ["BlackRock","Coinbase Prime","ETF","bitcoin","ethereum","BTC","ETH","rebalancing","institutionen","krypto","märkte","liquidität"]
 summary: "BlackRock hat rund 1.021 BTC und 25.707 ETH (zusammen ca. $226 Mio.) zu Coinbase Prime transferiert. Der Schritt wird als Portfolio-Rebalancing eingeordnet — vermutlich im Zusammenhang mit Spot-ETF-Zuflüssen und -Abflüssen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

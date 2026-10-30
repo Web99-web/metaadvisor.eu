@@ -5,10 +5,10 @@ category: "news"
 translationKey: "353556f7e99a54cdaf8756918230458f"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/kraken-500m-raise-15b-valuation-ipo-speculation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "/images/kraken.png"
-featured_image: "/images/kraken.png"
-image: "/images/kraken.png"
-thumbnail: "/images/kraken.png"
+image_url: "/images/kraken.webp"
+featured_image: "/images/kraken.webp"
+image: "/images/kraken.webp"
+thumbnail: "/images/kraken.webp"
 image_alt: "Kraken Logo – Symbolgrafik"
 image_credit: "Metaadvisor.eu (generierte Grafik)"
 tags:
@@ -18,6 +18,7 @@ tags:
   - crypto-exchange
   - valuation
 summary: "Die Kryptobörse Kraken hat eine neue Finanzierungsrunde in Höhe von 500 Mio. $ abgeschlossen und erreicht damit eine Bewertung von 15 Mrd. $, während sich die Gerüchte über einen möglichen Börsengang verdichten."
+categories: ["news"]
 ---
 
 Die US-Kryptobörse **Kraken** hat laut einem neuen Bericht **500 Mio. $ Kapital aufgenommen** und wird nun mit **15 Mrd. $ bewertet**. Die Runde befeuert Spekulationen über einen möglichen **Börsengang (IPO)**, der seit Monaten in der Branche diskutiert wird.  

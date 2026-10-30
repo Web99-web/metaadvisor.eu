@@ -3,7 +3,7 @@ title: "Was heute in Krypto passiert ist"
 slug: "heute-in-krypto"
 date: 2025-10-03T22:34:56Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-10-03"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
@@ -32,6 +32,7 @@ tags:
   - regulierung
   - markt
 summary: "Samsung und Coinbase bringen Krypto zu Galaxy-Nutzern, Unity patcht Android-Schwachstelle, Altcoin-ETFs im Fokus, Verluste durch Hacks fallen um 37 % im Q3, Stablecoins überschreiten 300 Mrd. $, und die FDIC erwägt neue Regeln zum Reputationsrisiko."
+categories: ["crypto"]
 ---
 
 **Kurzüberblick:** Der Tag bringt eine Mischung aus **Technologie-Integrationen**, **Regulierungsfortschritten** und **Sicherheitsentwicklungen**. Im Fokus stehen **Samsung × Coinbase**, eine Unity-Sicherheitslücke auf Android, Altcoin-ETFs in den USA, sinkende Q3-Verluste durch Hacks und der starke Anstieg von Stablecoins.

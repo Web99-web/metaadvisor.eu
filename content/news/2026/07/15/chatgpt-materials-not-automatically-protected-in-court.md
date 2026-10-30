@@ -7,14 +7,15 @@ translationKey: "chatgpt-materijali-sudska-zastita-2026-07-15"
 source: "Massachusetts Lawyers Weekly, US court sources"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/ChatGPT-in-court.png"
-featured_image: "/images/news/ChatGPT-in-court.png"
-image: "/images/news/ChatGPT-in-court.png"
-thumbnail: "/images/news/ChatGPT-in-court.png"
+image_url: "/images/news/ChatGPT-in-court.webp"
+featured_image: "/images/news/ChatGPT-in-court.webp"
+image: "/images/news/ChatGPT-in-court.webp"
+thumbnail: "/images/news/ChatGPT-in-court.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["ChatGPT", "artificial intelligence", "court", "legal protection", "confidentiality", "court proceedings", "AI documents", "attorney work product"]
 description: "A Massachusetts court ruled that materials created with ChatGPT are not automatically protected simply because they are connected to court proceedings."
 summary: "Materials created with ChatGPT are not automatically confidential or protected from disclosure to the opposing party. A Massachusetts court examined who created them, under whose instructions and for what purpose."
+categories: ["ai"]
 ---
 
 # ChatGPT materials are not automatically protected in court

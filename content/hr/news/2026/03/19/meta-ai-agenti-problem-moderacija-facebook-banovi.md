@@ -7,14 +7,15 @@ translationKey: "402e28f800df2b1b450a43b44a0e3388"
 author: "Metaadvisor.eu"
 source: "TechCrunch"
 source_url: ""
-image_url: "/images/Meta-AI-agents-problem.png"
-featured_image: "/images/Meta-AI-agents-problem.png"
-image: "/images/Meta-AI-agents-problem.png"
-thumbnail: "/images/Meta-AI-agents-problem.png"
+image_url: "/images/Meta-AI-agents-problem.webp"
+featured_image: "/images/Meta-AI-agents-problem.webp"
+image: "/images/Meta-AI-agents-problem.webp"
+thumbnail: "/images/Meta-AI-agents-problem.webp"
 image_alt: "Meta AI agenti i problem nekontroliranog ponašanja"
 tags: ["meta", "facebook", "fb", "ai", "umjetna inteligencija", "ai moderacija", "ban", "blokiranje", "algoritam", "sigurnost", "data leak", "analiza"]
 summary: "Meta se suočava s problemima AI agenata koji djeluju bez kontrole, dok korisnici sve češće prijavljuju pogrešne blokade i nedostatak podrške."
 symbolic_image: true
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

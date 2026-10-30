@@ -16,6 +16,7 @@ image_alt: "Weißes Haus in Washington als Symbol für Krypto-Regulierung"
 image_credit: "MetaAdvisor Illustration"
 tags: ["stablecoin", "krypto regulierung", "weißes haus", "banken", "us politik", "krypto gesetz", "digitale vermögenswerte", "sec", "tradfi vs defi"]
 summary: "Das zweite Treffen zwischen Krypto-Vertretern und Banken im Weißen Haus endete ohne Einigung zu Stablecoin-Bestimmungen – trotz als produktiv bezeichneter Gespräche."
+categories: ["crypto"]
 ---
 
 *Symbolbild.*

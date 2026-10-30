@@ -7,14 +7,15 @@ translationKey: "near-ai-rally-5-usd-fomo-2026-05-25"
 source: "Metaadvisor.eu (Cointelegraph, CoinDesk, TradingView, Nvidia market reports)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Near.png"
-featured_image: "/images/Near.png"
-image: "/images/Near.png"
-thumbnail: "/images/Near.png"
+image_url: "/images/Near.webp"
+featured_image: "/images/Near.webp"
+image: "/images/Near.webp"
+thumbnail: "/images/Near.webp"
 image_alt: "NEAR Protocol AI rally, blockchain sharding and crypto market momentum concept"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "krypto", "near", "near protocol", "ki", "künstliche intelligenz", "ai tokens", "ki tokens", "ai crypto", "blockchain", "sharding", "shard", "dynamic resharding", "skalierung", "crypto rally", "krypto rally", "altcoin", "altcoins", "fomo", "short squeeze", "short liquidations", "nvidia", "tradingview", "defi", "web3", "autonome agenten", "ki agenten", "krypto markt", "volatilität"]
 summary: "NEAR ist gemeinsam mit AI-Token stark gestiegen, unterstützt durch Netzwerk-Upgrades, Short-Liquidationen und breiteren Optimismus rund um den AI-Sektor. Das 5-USD-Ziel sollte jedoch vorsichtig gelesen werden, da der Preis noch nicht stabil über 3 USD ausgebrochen ist."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

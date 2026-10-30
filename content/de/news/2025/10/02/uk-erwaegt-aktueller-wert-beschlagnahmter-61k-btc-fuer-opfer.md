@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/uk-government-considers-keeping-bitcoin-returns-on-seized-fraud-proceeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc-61000-dispute.png"
-featured_image: "/images/btc-61000-dispute.png"
-image: "/images/btc-61000-dispute.png"
-thumbnail: "/images/btc-61000-dispute.png"
+image_url: "/images/btc-61000-dispute.webp"
+featured_image: "/images/btc-61000-dispute.webp"
+image: "/images/btc-61000-dispute.webp"
+thumbnail: "/images/btc-61000-dispute.webp"
 image_alt: "Illustration: britische Flagge und Bitcoin — Streit um die Verteilung von 61.000 BTC"
 image_credit: "Metaadvisor.eu (symbolisches Bild)"
 tags:
@@ -31,6 +31,7 @@ tags:
   - insolvenz
   - bewertungsdatum
 summary: "Die britische Regierung prüft, ob Opfer des China-Betrugsschemas den aktuellen Marktwert der beschlagnahmten 61.000 BTC erhalten sollen oder den zum früheren Zeitpunkt bemessenen Fiat-Schaden."
+categories: ["crypto"]
 ---
 
 Das Vereinigte Königreich erwägt ein Modell der **Entschädigung für Opfer eines China-Betrugsschemas**, bei dem die Polizei rund **61.000 BTC** beschlagnahmt hat. Die Kernfrage lautet: **Auszahlung des aktuellen Marktwerts** der Coins (die seither stark gestiegen sind) oder **Bemessung der Entschädigung nach dem damaligen Fiat-Schaden** zum Tatzeitpunkt.

@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/26/riot-gets-double-upgrade-on-ai-pivot-as-jpmorgan-citi-hike-targets"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/miner-mining.png"
-featured_image: "/images/miner-mining.png"
-image: "/images/miner-mining.png"
-thumbnail: "/images/miner-mining.png"
+image_url: "/images/miner-mining.webp"
+featured_image: "/images/miner-mining.webp"
+image: "/images/miner-mining.webp"
+thumbnail: "/images/miner-mining.webp"
 image_alt: "Bergbau-Werkzeugset — symbolische Darstellung"
 image_credit: "Metaadvisor.eu (symbolische Grafik)"
 tags:
@@ -26,6 +26,7 @@ tags:
   - mara
   - clsk
 summary: "JPMorgan und Citigroup heben Riot Platforms hoch: der Pivot in Richtung AI/HPC und Cloud gilt als Treiber, obwohl die Mining-Margen unter Druck stehen."
+categories: ["crypto"]
 ---
 
 **Riot Platforms (RIOT)** erhielt am Freitag eine **doppelte Hochstufung** von **JPMorgan** und **Citigroup**, da sich die Branchenökonomik ändert und der Miner stärker auf **High-Performance Computing (HPC)** und **AI-nahe Dienste** setzt.

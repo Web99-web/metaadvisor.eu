@@ -15,6 +15,7 @@ image_alt: "Simbolična ilustracija pingvina povezana s kripto tržištem"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Memecoin PENGUIN zabilježio je rast od nekoliko stotina posto u svega nekoliko sati nakon viralne objave na društvenim mrežama. Slučaj pokazuje koliko su kripto tržišta, posebno memecoin segment, osjetljiva na hype i simboliku."
 tags: ["penguin", "memecoin", "kripto", "solana", "pumpfun", "phantom", "dex", "tržište", "hype", "viralnost"]
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

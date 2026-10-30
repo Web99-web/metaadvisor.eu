@@ -16,6 +16,7 @@ image_alt: "Bitcoin Markt ETF Kapital Orderbook Analyse"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["bitcoin", "btc", "krypto", "crypto", "bitcoin etf", "spot etf", "krypto fonds", "institutionelle investoren", "otc handel", "orderbook", "krypto markt", "bitcoin preis", "crypto market", "tradfi", "defi", "bitcoin analyse"]
 summary: "Bitcoin nähert sich erneut der Marke von 70.000 Dollar, während Kapital in Bitcoin-ETFs zurückkehrt. Gleichzeitig stabilisieren große Käufer und OTC-Trades den Markt während eines Ölpreisschocks, doch das Orderbook signalisiert möglichen Verkaufsdruck."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

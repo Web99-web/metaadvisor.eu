@@ -7,14 +7,15 @@ translationKey: "d9f4c2a8e7b14b6fa3e2c91b7d5a8c44"
 source: "Metaadvisor (Business Insider, Tom's Hardware, Gizmodo)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/AI-deleted-database.png"
-featured_image: "/images/news/AI-deleted-database.png"
-image: "/images/news/AI-deleted-database.png"
-thumbnail: "/images/news/AI-deleted-database.png"
+image_url: "/images/news/AI-deleted-database.webp"
+featured_image: "/images/news/AI-deleted-database.webp"
+image: "/images/news/AI-deleted-database.webp"
+thumbnail: "/images/news/AI-deleted-database.webp"
 image_alt: "KI-Agent löscht Datenbank in wenigen Sekunden"
 image_credit: "Metaadvisor.eu"
 tags: ["cursor ai", "claude opus", "ki vorfall", "datenbank geloescht", "pocketos", "ki sicherheit", "ki agenten", "saas risiko", "automatisierung", "cloud infrastruktur"]
 summary: "Ein KI-Agent in Kombination aus Cursor und Claude hat die Produktionsdatenbank und Backups des Startups PocketOS in nur 9 Sekunden gelöscht und zeigt damit die Risiken autonomer KI-Systeme."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

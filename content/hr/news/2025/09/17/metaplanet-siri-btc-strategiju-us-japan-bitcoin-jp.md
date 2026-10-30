@@ -19,6 +19,7 @@ summary: "Japanski Metaplanet otvara dva nova ogranka — u Miamiju i Tokiju —
 pinned: true
 weight: -1000
 importance: 100
+categories: ["crypto"]
 ---
 
 Metaplanet, japanska kompanija koja je posljednjih godinu dana svoje poslovanje okrenula prema **bitcoin trezoru**, napravila je tri poteza u istom danu: otvorila je **Metaplanet Income Corp. u Miamiju** (fokus na **prihod od bitcoina** i izvedenice), pokrenula **Bitcoin Japan Inc.** u Tokiju (fokus na **medije i događaje**) te kupila domenu **Bitcoin.jp** kao nacionalni “landing” za svoj sadržaj i zajednicu.

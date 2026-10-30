@@ -15,6 +15,7 @@ image_alt: "Illustration der möglichen Bitcoin-Kursentwicklung rund um die 58.0
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["bitcoin", "btc", "crypto", "etf", "liquiditaet", "markt", "altcoins", "hype", "hyperliquid"]
 summary: "Nach dem jüngsten Rückgang rückt die Marke von rund 58.000 US-Dollar in den Fokus. Historisch erwies sich diese Zone als entscheidende langfristige Unterstützung, deren Verteidigung oder Bruch die Richtung des Kryptomarktes bestimmen könnte."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

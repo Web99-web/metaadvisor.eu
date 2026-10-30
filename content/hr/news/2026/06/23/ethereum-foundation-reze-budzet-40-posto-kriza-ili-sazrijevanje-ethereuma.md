@@ -15,6 +15,7 @@ image_alt: "Ethereum Foundation rezanje budžeta i strateški reset Ethereuma"
 image_credit: "Metaadvisor.eu"
 tags: ["Ethereum", "Ethereum Foundation", "Vitalik Buterin", "ETH", "crypto", "kriptovalute", "blockchain", "budget cut", "treasury", "endowment model", "self-custody", "decentralizacija", "Web3", "Ethereum roadmap", "crypto market", "Metaadvisor"]
 summary: "Ethereum Foundation planira smanjiti budžet za oko 40% i prijeći na dugoročniji, štedljiviji model financiranja. Je li to znak krize u Foundationu ili pokušaj da Ethereum sazrije kao globalna infrastruktura?"
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

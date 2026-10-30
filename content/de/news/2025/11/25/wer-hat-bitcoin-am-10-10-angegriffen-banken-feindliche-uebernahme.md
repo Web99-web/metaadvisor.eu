@@ -3,15 +3,15 @@ title: "War der ‘Big Short’ am 10.10 ein feindlicher Übernahmeversuch von B
 slug: "wer-hat-bitcoin-am-10-10-angegriffen-banken-feindliche-uebernahme"
 date: 2025-11-25T12:00:00Z
 category: "crypto"
-translationKey: "attack_1010_btc_banks_20251124"
+translationKey: "attack_1010_btc_banks_20251124--2025-11-25"
 source: "MetaAdvisor – Analyse + Aussagen aus sozialen Netzwerken (Ran, Hayes, Dixon)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/BTC-10.10-banks-attack.png"
-featured_image: "/images/BTC-10.10-banks-attack.png"
-image: "/images/BTC-10.10-banks-attack.png"
-thumbnail: "/images/BTC-10.10-banks-attack.png"
+image_url: "/images/BTC-10.10-banks-attack.webp"
+featured_image: "/images/BTC-10.10-banks-attack.webp"
+image: "/images/BTC-10.10-banks-attack.webp"
+thumbnail: "/images/BTC-10.10-banks-attack.webp"
 image_alt: "Wer hat Bitcoin am 10.10 angegriffen — Illustration"
 image_credit: "MetaAdvisor.eu"
 tags: [
@@ -21,6 +21,7 @@ tags: [
   "tradfi", "arthur hayes", "ran neuner", "simon dixon", "kryptomarkt", "eth"
 ]
 summary: "Immer mehr Analysten behaupten, dass der Bitcoin-Absturz am 10.10 kein normaler Rückgang war, sondern ein gezielter Übernahmeversuch durch große Banken und Institutionen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

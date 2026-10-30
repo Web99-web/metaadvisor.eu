@@ -23,6 +23,7 @@ tags:
   - tržište
   - regulacija
 summary: "XRP ETF-ovi zabilježili su prve odljeve kapitala nakon iznimno snažnog niza priljeva, no širi kontekst i dalje upućuje na stabilan institucionalni interes uoči 2026."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

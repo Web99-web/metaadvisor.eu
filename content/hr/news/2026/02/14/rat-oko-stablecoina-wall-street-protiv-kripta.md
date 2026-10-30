@@ -7,14 +7,15 @@ translationKey: "cdc35404b7260214e1c6fc70faf97227"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2026/02/13/crypto-group-counters-wall-street-bankers-with-its-own-stablecoin-principles-for-bill"
 author: "CoinDesk"
-image_url: "/images/Banks-want-control-crypto.png"
-featured_image: "/images/Banks-want-control-crypto.png"
-image: "/images/Banks-want-control-crypto.png"
-thumbnail: "/images/Banks-want-control-crypto.png"
+image_url: "/images/Banks-want-control-crypto.webp"
+featured_image: "/images/Banks-want-control-crypto.webp"
+image: "/images/Banks-want-control-crypto.webp"
+thumbnail: "/images/Banks-want-control-crypto.webp"
 image_alt: "Službeni sukob banaka i kripto industrije oko stablecoina"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["stablecoin", "kripto", "crypto", "regulacija", "wall street", "banke", "yield", "kamate", "digitalni dolar", "us zakon", "genius act", "blockchain", "depoziti"]
 summary: "Po prvi put službeno je dokumentiran sukob između Wall Streeta i kripto industrije oko stablecoin prinosa, dok američki Senat raspravlja o ključnom zakonu za digitalnu imovinu."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

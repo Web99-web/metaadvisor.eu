@@ -7,14 +7,15 @@ translationKey: "a7f3c2d9e8b14c6fa9d3b5e7c1a2f4d8"
 author: "Metaadvisor.eu"
 source: "Tehnološke analize, javni podaci"
 source_url: ""
-image_url: "/images/companies/Signal-app.png"
-featured_image: "/images/companies/Signal-app.png"
-image: "/images/companies/Signal-app.png"
-thumbnail: "/images/companies/Signal-app.png"
+image_url: "/images/companies/Signal-app.webp"
+featured_image: "/images/companies/Signal-app.webp"
+image: "/images/companies/Signal-app.webp"
+thumbnail: "/images/companies/Signal-app.webp"
 image_alt: "Signal aplikacija i privatna komunikacija"
 image_credit: "Ilustracija"
 tags: ["signal aplikacija","privatnost poruka","whatsapp alternativa","enkripcija komunikacije","digitalna privatnost","meta konkurencija","signal foundation","cyber sigurnost","ai komunikacija","chat aplikacije"]
 summary: "Signal se sve češće spominje kao alternativa WhatsAppu, ali malo tko zna tko zapravo stoji iza te aplikacije i kako funkcionira njen model."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

@@ -6,6 +6,7 @@ category: "news"
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/9f0092c9ec9033d91ea783b325db6e44f2892f30-737x449.png"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/22/doge-surges-5-amid-trump-affiliated-dogecoin-mining-deal-and-fed-comments"
+categories: ["news"]
 ---
 
 Dogecoin rallied on Tuesday after a string of regulatory and corporate catalysts shifted sentiment across the crypto sector. A $50 million Trump-linked acquisition of a DOGE mining firm, Wyoming’s launch of a state-backed stablecoin, and comments from Federal Reserve officials signaling a softer stance on digital assets all converged to trigger fresh institutional flows.

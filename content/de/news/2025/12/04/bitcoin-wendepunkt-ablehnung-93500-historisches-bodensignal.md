@@ -16,6 +16,7 @@ image_alt: "Bitcoin Illustration, Markttrend"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","märkte","analyse","korrelation","nasdaq","boden","erholung","volatilität","fed","zinsentscheid","bärenmarkt","bullenmarkt","makro","krypto"]
 summary: "Bitcoin prallt bei 93.500 USD ab, während die historische negative Korrelation zum Nasdaq erneut auf eine mögliche Bodenbildung hindeutet."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

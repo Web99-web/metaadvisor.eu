@@ -7,14 +7,15 @@ translationKey: "439f3786973bf326393cc30c9ba7fdc0"
 source: "Metaadvisor (Cointelegraph, Reuters, DOJ)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Celsius.png"
-featured_image: "/images/Celsius.png"
-image: "/images/Celsius.png"
-thumbnail: "/images/Celsius.png"
+image_url: "/images/Celsius.webp"
+featured_image: "/images/Celsius.webp"
+image: "/images/Celsius.webp"
+thumbnail: "/images/Celsius.webp"
 image_alt: "Celsius, Alex Mashinsky and the legal battle over the collapse of the crypto lending platform"
 image_credit: "Metaadvisor.eu"
 tags: ["celsius", "alex mashinsky", "mashinsky", "ftx", "sam bankman-fried", "sbf", "cel token", "celsius network", "crypto lending", "kripto lending", "kripto zajmovi", "kripto prijevara", "tržišna manipulacija", "market manipulation", "securities fraud", "commodities fraud", "doj", "sudski postupak", "stečaj", "bankrot", "crypto collapse", "kripto kolaps", "defi", "centralizirane kripto platforme", "crypto regulation", "regulacija kripta", "roni cohen-pavon", "ftx collapse"]
 summary: "Bivši direktor Celsiusa Alex Mashinsky traži poništenje 12-godišnje kazne i tvrdi da je imao neučinkovitu pravnu obranu, dok u priču ponovno uvodi FTX, Sama Bankman-Frieda i unutarnje sukobe u Celsiusu."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

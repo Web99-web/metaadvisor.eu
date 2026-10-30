@@ -6,10 +6,10 @@ category: "tech"
 translationKey: "second_life_metaverse_debate_20260121"
 source: "MetaAdvisor analiza"
 author: "MetaAdvisor.eu"
-image_url: "/images/SecondLife.png"
-featured_image: "/images/SecondLife.png"
-image: "/images/SecondLife.png"
-thumbnail: "/images/SecondLife.png"
+image_url: "/images/SecondLife.webp"
+featured_image: "/images/SecondLife.webp"
+image: "/images/SecondLife.webp"
+thumbnail: "/images/SecondLife.webp"
 image_alt: "Second Life kao rani primjer virtualnog metaverzuma i digitalne ekonomije"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 summary: "Prije NFT-ova i Web3-a već je postojao virtualni svijet u kojem su se trošili milijuni dolara stvarnog novca, nastajali prvi virtualni milijunaši i u koji su ulazile velike korporacije. Second Life bio je rani metaverzum čiji se uspjeh i neuspjeh i danas raspravljaju."
@@ -24,6 +24,7 @@ tags:
   - tech povijest
   - metaverse
   - metaadvisor analiza
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

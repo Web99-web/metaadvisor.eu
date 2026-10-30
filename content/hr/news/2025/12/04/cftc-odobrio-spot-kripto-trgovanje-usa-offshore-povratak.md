@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/cftc-spot-crypto-trading-exchanges"
 author: "Cointelegraph — prijevod i analiza MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/cftc-spot-crypto.png"
-featured_image: "/images/cftc-spot-crypto.png"
-image: "/images/cftc-spot-crypto.png"
-thumbnail: "/images/cftc-spot-crypto.png"
+image_url: "/images/cftc-spot-crypto.webp"
+featured_image: "/images/cftc-spot-crypto.webp"
+image: "/images/cftc-spot-crypto.webp"
+thumbnail: "/images/cftc-spot-crypto.webp"
 image_alt: "CFTC crypto spot trading approval"
 image_credit: "Metaadvisor.eu"
 
@@ -31,6 +31,7 @@ tags:
   - analiza
 
 summary: "Američki CFTC službeno je odobrio spot kripto trgovanje na registriranim burzama. Ovo je prvi put da se spot BTC i ETH mogu trgovati pod pravilima strogim koliko i derivati — i označava povrat likvidnosti iz offshore svijeta."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

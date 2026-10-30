@@ -8,10 +8,10 @@ source: "CoinDesk + Metaadvisor.eu"
 source_url: "https://www.coindesk.com/markets/2025/09/26/hyped-baby-shark-token-on-story-protocol-drops-90-as-creator-denies-authorization"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/baby-shark.png"
-featured_image: "/images/baby-shark.png"
-image: "/images/baby-shark.png"
-thumbnail: "/images/baby-shark.png"
+image_url: "/images/baby-shark.webp"
+featured_image: "/images/baby-shark.webp"
+image: "/images/baby-shark.webp"
+thumbnail: "/images/baby-shark.webp"
 image_alt: "Baby-Shark-Illustration — symbolische Grafik"
 image_credit: "Metaadvisor.eu (symbolische Grafik)"
 tags:
@@ -22,6 +22,7 @@ tags:
   - story-protocol
   - token
 summary: "Ein als „offiziell“ beworbener Baby-Shark-Token stürzte um 90 % ab, nachdem Markeninhaber Pinkfong jegliche Verbindung zum Projekt dementierte."
+categories: ["crypto"]
 ---
 
 Der **Baby Shark-Token**, der auf **Story Protocol** vergangene Woche als vermeintlich *offizieller* Token des meistgesehenen YouTube-Videos beworben wurde, ist um **90 %** eingebrochen. Der Markeninhaber **Pinkfong** (Seoul) stellte auf X klar, dass **keine Verbindung** zum Token besteht.

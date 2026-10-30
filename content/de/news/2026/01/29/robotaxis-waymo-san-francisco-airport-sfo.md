@@ -7,14 +7,15 @@ translationKey: "58fa4f115a555766e7f20595f07a1276"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/"
 author: "Metaadvisor.eu"
-image_url: "/images/robotaxi.png"
-featured_image: "/images/robotaxi.png"
-image: "/images/robotaxi.png"
-thumbnail: "/images/robotaxi.png"
+image_url: "/images/robotaxi.webp"
+featured_image: "/images/robotaxi.webp"
+image: "/images/robotaxi.webp"
+thumbnail: "/images/robotaxi.webp"
 image_alt: "Waymo robotaxi operating in an urban environment"
 image_credit: "MetaAdvisor.eu"
 tags: ["robotaxi", "waymo", "autonomous-vehicles", "ai", "artificial-intelligence", "mobility", "transport", "san-francisco", "airport", "technology"]
 summary: "Waymo has received approval to operate robotaxi rides to and from San Francisco International Airport, marking a major milestone in the commercialization of autonomous mobility."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

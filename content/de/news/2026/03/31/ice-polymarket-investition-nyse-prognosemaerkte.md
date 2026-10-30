@@ -3,18 +3,19 @@ title: "ICE investiert 600 Millionen in Polymarket: Eigentümer der NYSE steigt 
 slug: "ice-polymarket-investition-nyse-prognosemaerkte"
 date: 2026-03-31T06:00:00+01:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-03-31"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (Cointelegraph, Marktdaten)"
 source_url: ""
-image_url: "/images/Polymarket-ICE.png"
-featured_image: "/images/Polymarket-ICE.png"
-image: "/images/Polymarket-ICE.png"
-thumbnail: "/images/Polymarket-ICE.png"
+image_url: "/images/Polymarket-ICE.webp"
+featured_image: "/images/Polymarket-ICE.webp"
+image: "/images/Polymarket-ICE.webp"
+thumbnail: "/images/Polymarket-ICE.webp"
 image_alt: "ICE und Polymarket Investment in Prediction Markets"
 image_credit: "MetaAdvisor.eu"
 tags: ["polymarket", "ice", "nyse", "krypto", "prognosemaerkte", "fintech", "maerkte", "investition"]
 summary: "ICE, Eigentümer der New York Stock Exchange (NYSE), investiert 600 Millionen Dollar in Polymarket und öffnet damit die Tür zu einer neuen Art von Finanzmärkten – dem Handel mit Ereignissen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

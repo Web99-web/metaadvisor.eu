@@ -15,6 +15,7 @@ image_alt: "Bitcoin price rises above 78000 dollars"
 image_credit: "Metaadvisor / illustration"
 tags: ["bitcoin","btc","crypto","ethereum","eth","solana","market","geopolitics","ETF","institutional investors","crypto market","blockchain"]
 summary: "Bitcoin climbs above $78,000 driven by geopolitics, institutional buying and strong capital inflows, signaling potential continuation of the trend."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

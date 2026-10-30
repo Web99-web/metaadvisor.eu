@@ -16,6 +16,7 @@ image_alt: "Ilustracija kripto derivata s istaknutim tokenima XRP, SOL i BTC"
 image_credit: "Vizual: Metaadvisor.eu (simbolična slika)"
 tags: ["crypto","derivatives","CME","futures","open-interest","institutions","XRP","Solana","BTC","ETH","cash-settled","notional","volatilnost","Token2049","Singapore","tržišta"]
 summary: "Na konferenciji Token2049 CME je istaknuo da institucije sve brže usvajaju nove futures ugovore na XRP i Solanu, dok ukupni open interest na kripto futures tržištu dostiže 30–35 mlrd. USD dnevno. SOL i XRP nadmašuju očekivanja po brzini rasta OI-ja."
+categories: ["crypto"]
 ---
 
 **Kratko:** Institucionalni interes za kripto derivate širi se **izvan Bitcoina i Ethera**. Prema **CME Groupu**, novi **cash-settled** futures ugovori na **XRP** i **Solanu (SOL)** bilježe **rekordne razine open interesta**, dok ukupni OI na kripto futuresima iznosi oko **30–35 mlrd. USD dnevno**.

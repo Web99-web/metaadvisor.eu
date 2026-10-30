@@ -7,14 +7,15 @@ translationKey: "fonoa-pwc-ai-porezna-infrastruktura-2026-06-26"
 source: "Fonoa, PwC, Dawn Capital, EU-Startups, The Recursive, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Fonoa-PWC-AI-tax.png"
-featured_image: "/images/companies/Fonoa-PWC-AI-tax.png"
-image: "/images/companies/Fonoa-PWC-AI-tax.png"
-thumbnail: "/images/companies/Fonoa-PWC-AI-tax.png"
+image_url: "/images/companies/Fonoa-PWC-AI-tax.webp"
+featured_image: "/images/companies/Fonoa-PWC-AI-tax.webp"
+image: "/images/companies/Fonoa-PWC-AI-tax.webp"
+thumbnail: "/images/companies/Fonoa-PWC-AI-tax.webp"
 image_alt: "Fonoa PwC und KI-Steuerinfrastruktur"
 image_credit: "Metaadvisor.eu"
 tags: ["Fonoa", "PwC", "KI-Steuern", "Steuerinfrastruktur", "Tax-Tech", "Indirect Tax", "Mehrwertsteuer", "GST", "Sales Tax", "E-Rechnungen", "Steuer-Compliance", "KI-Infrastruktur", "kroatisches Startup", "irisches Startup", "Dublin", "Zagreb", "Enterprise AI", "Metaadvisor"]
 summary: "Fonoa, ein kroatisch-irisches Tax-Tech-Startup, hat 110 Millionen Dollar eingesammelt und PwCs Indirect Tax Edge übernommen. Die eigentliche Geschichte liegt nicht nur im Geld, sondern im neuen Rennen um KI-Steuerinfrastruktur, bei der künstliche Intelligenz erst dann sinnvoll wird, wenn sie mit verbundenen, korrekten und überprüfbaren Daten arbeitet."
+categories: ["ki"]
 ---
 
 Das Bild ist symbolisch.
@@ -59,7 +60,7 @@ Fonoa verkauft keine App, die Millionen Menschen auf ihr Smartphone herunterlade
 
 <div style="border:1px solid #e5e7eb; border-radius:14px; padding:14px; margin:24px 0; background:#fff;">
   <a href="https://metaadvisor.eu/de/news/kroatischer-tech-wm-2026-aircash-sofascore-zusammenarbeit/" target="_blank" rel="noopener" style="display:flex; gap:16px; align-items:center; text-decoration:none; color:inherit;">
-    <img src="/images/companies/Sofascore-Aircash-Cro-apps.png" alt="Kroatischer Tech bei der WM 2026 Aircash und Sofascore Zusammenarbeit" style="width:180px; max-width:38%; border-radius:10px; object-fit:cover;">
+    <img src="/images/companies/Sofascore-Aircash-Cro-apps.webp" alt="Kroatischer Tech bei der WM 2026 Aircash und Sofascore Zusammenarbeit" style="width:180px; max-width:38%; border-radius:10px; object-fit:cover;">
     <span>
       <span style="display:block; font-size:0.82em; color:#777; margin-bottom:5px; text-transform:uppercase; letter-spacing:0.04em;">Verwandte Geschichte</span>
       <strong style="display:block; font-size:1.08em; line-height:1.35; color:#111827;">Kroatischer Tech bei der WM 2026: Aircash und Sofascore arbeiten zusammen</strong>

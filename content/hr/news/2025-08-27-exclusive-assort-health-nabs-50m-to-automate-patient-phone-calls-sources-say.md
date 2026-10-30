@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/26/assort-health-nabs-50m-to-automat
 summary: "Startup, sada procijenjen na 750 milijuna $, jedan je od tri koji su nedavno prikupili sredstva za korištenje AI agenata u odgovaranju na pozive pacijenata."
 tags: ["AI","health","healthcare","startup","AssortHealth","EliseAI","HelloPatient","AmbienceHealthcare","Abridge"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/assort-health.jpg"
+categories: ["news"]
 ---
 
 Assort Health, startup koji koristi AI za automatizaciju komunikacije s pacijentima u specijaliziranim zdravstvenim praksama, prikupio je oko 50 milijuna dolara u Series B rundi uz procijenjenu vrijednost od 750 milijuna dolara, prema trima izvorima upoznatima s dogovorom. Najnovija runda, koja dolazi samo četiri mjeseca nakon što je tvrtka prikupila 22 milijuna $ u Series A, predvođena je Lightspeed Venture Partners, rekli su izvori.

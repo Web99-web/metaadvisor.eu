@@ -9,6 +9,7 @@ summary: "Two months after making a $14.3B investment in Scale AI, Meta is relyi
 tags: ["ai"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2134773083.jpg?w=1024"
 image: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2134773083.jpg?w=1024"
+categories: ["ai"]
 ---
 
 It’s only been since June that Meta invested $14.3 billion in the data-labeling vendor **Scale AI**, bringing on CEO Alexandr Wang and several of the startup’s top executives to run **Meta Superintelligence Labs (MSL)**. But the relationship is already showing signs of strain.

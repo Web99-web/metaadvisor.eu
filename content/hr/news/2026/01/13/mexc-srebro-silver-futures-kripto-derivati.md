@@ -7,10 +7,10 @@ translationKey: "mexc_silver_futures_crypto_2026"
 source: "MetaAdvisor analiza (na temelju MEXC objave)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/silver.png"
-featured_image: "/images/silver.png"
-image: "/images/silver.png"
-thumbnail: "/images/silver.png"
+image_url: "/images/silver.webp"
+featured_image: "/images/silver.webp"
+image: "/images/silver.webp"
+thumbnail: "/images/silver.webp"
 image_alt: "Srebro kao investicijska imovina povezano s kripto tržištem"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -27,6 +27,7 @@ tags:
   - leverage
   - tradicionalna_trzista
 summary: "Kripto burza MEXC uvela je perpetual futures ugovore na srebro, omogućujući trgovanje cijenom plemenitog metala kroz USDT-margined derivate. Time se brišu granice između tradicionalnih robnih tržišta i kripto ekosustava."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

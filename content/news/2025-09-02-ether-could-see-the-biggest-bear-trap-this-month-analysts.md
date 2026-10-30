@@ -9,6 +9,7 @@ summary: "Analysts warn Ether’s pullback could turn into the month’s biggest
 tags: ["crypto","ethereum","cointelegraph"]
 image_url: "https://images.cointelegraph.com/cdn-cgi/image/width=1200/https://s3.cointelegraph.com/uploads/2025-09/ether-bear-trap.jpg"
 image_url_small: "https://images.cointelegraph.com/cdn-cgi/image/width=600/https://s3.cointelegraph.com/uploads/2025-09/ether-bear-trap.jpg"
+categories: ["crypto"]
 ---
 
 Ether (ETH) has seen a sharp price pullback at the start of September, but analysts warn this may form the “biggest bear trap” of the month.  

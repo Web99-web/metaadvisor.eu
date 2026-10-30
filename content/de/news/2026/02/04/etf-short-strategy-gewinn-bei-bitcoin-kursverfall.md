@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/02/04/etf-that-feasts-on-carnage-in-bitcoin-holder-strategy-hits-record-high"
 author: "CoinDesk"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/btc-shorting-carnage.png"
-featured_image: "/images/btc-shorting-carnage.png"
-image: "/images/btc-shorting-carnage.png"
-thumbnail: "/images/btc-shorting-carnage.png"
+image_url: "/images/btc-shorting-carnage.webp"
+featured_image: "/images/btc-shorting-carnage.webp"
+image: "/images/btc-shorting-carnage.webp"
+thumbnail: "/images/btc-shorting-carnage.webp"
 image_alt: "Bitcoin-Marktschwankungen und Short-Strategien während eines Marktabschwungs"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["bitcoin","btc","crypto","krypto","etf","short","shorten","strategy","mstr","volatilitaet","marktcrash","trading"]
 summary: "Während Bitcoin und die Aktie von Strategy deutlich fallen, erzielen gehebelte ETFs, die auf fallende Kurse setzen, historische Gewinne. Der Markt zeigt klar: Ein Teil des Kapitals sucht nicht Wachstum, sondern Profite aus Volatilität."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

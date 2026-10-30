@@ -7,14 +7,15 @@ translationKey: "cc44b6bef115321b764aab67559b3fb3"
 source: "TechCrunch"
 source_url: ""
 author: "TechCrunch"
-image_url: "/images/Macbook-pro-price.png"
-featured_image: "/images/Macbook-pro-price.png"
-image: "/images/Macbook-pro-price.png"
-thumbnail: "/images/Macbook-pro-price.png"
+image_url: "/images/Macbook-pro-price.webp"
+featured_image: "/images/Macbook-pro-price.webp"
+image: "/images/Macbook-pro-price.webp"
+thumbnail: "/images/Macbook-pro-price.webp"
 image_alt: "New MacBook Pro with higher price due to RAM shortage"
 image_credit: "Illustration / Apple theme"
 tags: ["macbook pro", "apple", "m5 pro", "m5 max", "ram", "memory shortage", "ai", "artificial intelligence", "tech", "laptop", "semiconductors", "hardware"]
 summary: "Apple unveiled its new MacBook Pro lineup featuring M5 Pro and M5 Max chips. However, prices are up to $400 higher than the previous generation, partly driven by the global RAM shortage."
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

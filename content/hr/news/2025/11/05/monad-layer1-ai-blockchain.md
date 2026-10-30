@@ -14,6 +14,7 @@ image_alt: "Monad Layer 1 blockchain"
 image_credit: "Metaadvisor.eu"
 tags: ["blockchain", "ai", "monad", "crypto", "evm", "layer1", "scalability", "tps", "defi"]
 summary: "Monad je novi Layer 1 blockchain koji spaja visoku brzinu, niske naknade i potpunu kompatibilnost s EVM-om, uz integraciju umjetne inteligencije i modularan dizajn za budućnost DeFi aplikacija."
+categories: ["ai"]
 ---
 
 U vrijeme kada se tržište blockchaina ubrzano mijenja, **Monad** se pozicionira kao jedan od **najsuvremenijih Layer 1 projekata** s fokusom na **brzinu, učinkovitost i potpunu EVM kompatibilnost**.

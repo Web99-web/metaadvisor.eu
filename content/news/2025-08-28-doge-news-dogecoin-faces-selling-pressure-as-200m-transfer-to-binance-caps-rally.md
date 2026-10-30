@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/doge-faces-selling-pres
 summary: "Token holds narrow range near $0.22 as large holders liquidate and corporate desks absorb flows."
 tags: ["crypto","DOGE","Dogecoin","Binance"]
 image_url: "https://www.coindesk.com/markets/2025/08/28/doge-faces-selling-pressure-as-usd200m-whale-transfer-to-binance-caps-rally"
+categories: ["news"]
 ---
 
 DOGE is facing selling pressure after a **whale transferred 900 million DOGE (over $200M)** to Binance, sparking fears of a broader sell-off and a short-lived price drop from $0.25 to around $0.23 :contentReference[oaicite:23]{index=23}.

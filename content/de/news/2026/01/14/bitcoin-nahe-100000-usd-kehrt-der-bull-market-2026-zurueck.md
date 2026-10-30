@@ -23,6 +23,7 @@ tags:
   - markt
   - investoren
   - fomo
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.8em; color:#777; margin-top:-6px;">

@@ -8,14 +8,15 @@ source: "The Guardian"
 source_url: "https://www.theguardian.com/technology/2026/feb/04/pinterest-sacks-two-engineers-for-software-identify-fired-workers"
 author: "The Guardian"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Pinterest.png"
-featured_image: "/images/Pinterest.png"
-image: "/images/Pinterest.png"
-thumbnail: "/images/Pinterest.png"
+image_url: "/images/Pinterest.webp"
+featured_image: "/images/Pinterest.webp"
+image: "/images/Pinterest.webp"
+thumbnail: "/images/Pinterest.webp"
 image_alt: "Ilustracija radnog okruženja u tehnološkoj tvrtki"
 image_credit: "Symbolic image / MetaAdvisor"
 tags: ["pinterest", "tehnologija", "otkazi", "radna-prava", "privatnost", "ai", "big-tech", "zaposlenici"]
 summary: "Pinterest je otpustio dvojicu inženjera nakon što su izradili interni softver za identifikaciju zaposlenika pogođenih otkazima. Slučaj otvara važna pitanja o privatnosti, etici i odnosima moći unutar tehnoloških kompanija u razdoblju masovnih restrukturiranja."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-10px;">

@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-l
 summary: "Wagniskapitalriese Andreessen Horowitz verbrennt Geld, um die Politik am Capitol Hill zu formen."
 tags: ["venture-capital","a16z","lobbying","washington","crypto","stablecoins","ai","defense"]
 image_url: "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?w=1200"
+categories: ["news"]
 ---
 
 Der Plan von Andreessen Horowitz, seine Agenda in Washington voranzutreiben, zeigt keine Anzeichen einer Verlangsamung: Laut beim Kongress eingereichten Unterlagen meldete die Firma bislang 1,49 Millionen US-Dollar an Bundes-Lobbying in diesem Jahr. a16z gibt damit sogar knapp mehr aus als der eigene Branchenverband, die National Venture Capital Association.

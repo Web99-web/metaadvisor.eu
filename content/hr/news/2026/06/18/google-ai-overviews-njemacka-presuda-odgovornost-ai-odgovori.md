@@ -7,14 +7,15 @@ translationKey: "google-ai-overviews-njemacka-presuda-odgovornost-ai-odgovori-20
 source: "Reuters, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/google-ai-overviews-german-court-liability.png"
-featured_image: "/images/news/google-ai-overviews-german-court-liability.png"
-image: "/images/news/google-ai-overviews-german-court-liability.png"
-thumbnail: "/images/news/google-ai-overviews-german-court-liability.png"
+image_url: "/images/news/google-ai-overviews-german-court-liability.webp"
+featured_image: "/images/news/google-ai-overviews-german-court-liability.webp"
+image: "/images/news/google-ai-overviews-german-court-liability.webp"
+thumbnail: "/images/news/google-ai-overviews-german-court-liability.webp"
 image_alt: "Njemačka presuda o odgovornosti Google AI Overview odgovora"
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Google AI Overview", "AI Overview", "Njemačka", "sud", "AI odgovornost", "Google Search", "Meta AI", "Facebook AI Mode", "Big Tech", "umjetna inteligencija", "digitalna odgovornost", "Metaadvisor"]
 summary: "Njemački sud presudio je da Google može odgovarati za netočne tvrdnje u AI Overview odgovorima. Presuda otvara šire pitanje odgovornosti velikih platformi kada AI više ne prikazuje samo linkove, nego sam sastavlja gotove odgovore."
+categories: ["ai"]
 ---
 
 Slika je simbolična.

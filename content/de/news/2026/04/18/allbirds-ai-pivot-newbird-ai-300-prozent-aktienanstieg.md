@@ -7,14 +7,15 @@ translationKey: "b19e38546a286e8ff4e988d16344b41c"
 source: "Metaadvisor (CoinDesk, TechCrunch, Marktdaten)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/AI-mania-Allbirds.png"
-featured_image: "/images/companies/AI-mania-Allbirds.png"
-image: "/images/companies/AI-mania-Allbirds.png"
-thumbnail: "/images/companies/AI-mania-Allbirds.png"
+image_url: "/images/companies/AI-mania-Allbirds.webp"
+featured_image: "/images/companies/AI-mania-Allbirds.webp"
+image: "/images/companies/AI-mania-Allbirds.webp"
+thumbnail: "/images/companies/AI-mania-Allbirds.webp"
 image_alt: "Allbirds Übergang von Sneaker-Produktion zu AI-Infrastruktur und Aktienanstieg"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "allbirds", "gpu", "cloud", "ai infrastruktur", "aktien", "markt", "tech", "investieren"]
 summary: "Allbirds verlässt die Sneaker-Produktion und wechselt in die AI-Infrastruktur, was einen Kursanstieg der Aktie von rund 300% ausgelöst hat."
+categories: ["ai"]
 ---
 *Das Bild ist symbolisch.*
 

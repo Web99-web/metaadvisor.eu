@@ -24,6 +24,7 @@ tags:
   - liquidität
   - institutionen
 summary: "Bitcoin startet ins Jahr 2026 zwischen zwei gegensätzlichen Narrativen: Einige Analysten warnen vor einem möglichen Rückgang in Richtung 60.000 USD, während andere bereits im ersten Quartal mit einem starken Anstieg und neuen Höchstständen rechnen."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 10px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

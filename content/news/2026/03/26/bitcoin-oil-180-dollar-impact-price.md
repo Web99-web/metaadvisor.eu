@@ -7,15 +7,16 @@ translationKey: "26d06b711c276c2011279b553e2043d0"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (Cointelegraph, market data)"
 source_url: ""
-image_url: "/images/news/Oil-at-180-and-BTC.png"
-featured_image: "/images/news/Oil-at-180-and-BTC.png"
-image: "/images/news/Oil-at-180-and-BTC.png"
-thumbnail: "/images/news/Oil-at-180-and-BTC.png"
+image_url: "/images/news/Oil-at-180-and-BTC.webp"
+featured_image: "/images/news/Oil-at-180-and-BTC.webp"
+image: "/images/news/Oil-at-180-and-BTC.webp"
+thumbnail: "/images/news/Oil-at-180-and-BTC.webp"
 image_alt: "Oil and Bitcoin – how energy prices impact the crypto market"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "oil", "inflation", "fed", "interest rates", "crypto", "btc", "market", "macroeconomics", "geopolitics"]
 summary: "A potential surge in oil prices toward $180 could significantly impact inflation, interest rates, and Bitcoin’s price. Here’s what it means for global markets."
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

@@ -15,6 +15,7 @@ image_alt: "Simbolična ilustracija prekida Azure i Amazon cloud servisa"
 image_credit: "Ilustracija — Metaadvisor.eu"
 tags: ["Microsoft","Azure","Amazon","AWS","Google Cloud","Cloudflare","Akamai","cloud","outage","internet","kolaps","otpornost","offline","business continuity","banke","plaćanja"]
 summary: "Kada istovremeno padnu Microsoft Azure i Amazon AWS, milijuni servisa i aplikacija diljem svijeta prestaju raditi. U priči objašnjavamo što se danas dogodilo, kako nastaje lančana reakcija i zašto offline procedure odlučuju o tome tko nastavlja raditi."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

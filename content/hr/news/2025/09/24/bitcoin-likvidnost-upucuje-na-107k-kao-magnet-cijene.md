@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/24/bitcoin-buy-the-dip-calls-surge-but-liquidity-trends-point-to-usd107k-as-potential-magnet"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "BTC – pad cijene (simbolična ilustracija)"
 image_credit: "Metaadvisor.eu (generirana grafika)"
 tags:
@@ -30,6 +30,7 @@ tags:
   - volatility
   - technical-analysis
 summary: "BTC je pao ispod 50/100-dnevnog SMA i probudio val 'buy the dip' poruka, ali koncentracija naloga oko 107k $ (Hyblock) može djelovati kao magnet. Likvidnosni klasteri i ravnanje prosjeka upozoravaju na moguć nastavak korekcije."
+categories: ["crypto"]
 ---
 
 **Kratko:** **Bitcoin (BTC)** je ovoga tjedna pao za nešto više od **3%** na oko **111.590 $**, probivši **50-** i **100-dnevni SMA**. Oba prosjeka po prvi put od travnja gube uzlazni momentum i prelaze u **ravnanje**, što je **signal opreza** za bikove. Istodobno, društvene mreže bilježe **skok “buy the dip”** spominjanja (Santiment) — često **kontrarna** naznaka da **povlačenje može produbiti**.

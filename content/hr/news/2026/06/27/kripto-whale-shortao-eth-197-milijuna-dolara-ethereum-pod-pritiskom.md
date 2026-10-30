@@ -15,6 +15,7 @@ image_alt: "Ethereum pod pritiskom nakon velike short pozicije whalea"
 image_credit: "Metaadvisor.eu"
 tags: ["Ethereum", "ETH", "whale", "short", "crypto", "trading", "crypto tržište", "Ethereum Foundation", "DeFi", "leverage", "kripto analiza", "Metaadvisor"]
 summary: "Veliki Ethereum trader otvorio je ETH short poziciju vrijednu 19,7 milijuna dolara s polugom od 20x. Potez dolazi dok je Ether pod tehničkim pritiskom, a oko Ethereuma se ponovno otvaraju pitanja financiranja, upravljanja i uloge Ethereum Foundationa."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

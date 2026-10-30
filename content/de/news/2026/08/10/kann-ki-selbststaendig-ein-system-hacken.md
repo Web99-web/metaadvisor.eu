@@ -7,15 +7,16 @@ translationKey: "moze-li-ai-samostalno-hakirati-sustav-2026-08-10"
 source: "OpenAI, Anthropic, Google Project Zero, DARPA und öffentlich zugängliche Sicherheitsforschung"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/can-AI-hack-on-its-own.png"
-featured_image: "/images/informative/can-AI-hack-on-its-own.png"
-image: "/images/informative/can-AI-hack-on-its-own.png"
-thumbnail: "/images/informative/can-AI-hack-on-its-own.png"
+image_url: "/images/informative/can-AI-hack-on-its-own.webp"
+featured_image: "/images/informative/can-AI-hack-on-its-own.webp"
+image: "/images/informative/can-AI-hack-on-its-own.webp"
+thumbnail: "/images/informative/can-AI-hack-on-its-own.webp"
 image_alt: "Ein KI-Agent richtet sich auf ein Computersystem und wirft die Frage auf, ob er es selbstständig hacken kann"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["künstliche Intelligenz", "KI-Agenten", "autonome KI", "Hacking", "Cybersicherheit", "OpenAI", "Anthropic", "Claude", "Hugging Face", "Big Sleep", "DARPA", "Sicherheitslücken", "Cybersecurity", "KI-Sicherheit", "autonome Angriffe"]
 description: "KI-Agenten können bereits selbstständig nach Schwachstellen suchen, Code schreiben, mehrere Angriffsschritte miteinander verbinden und auf reale Systeme zugreifen. Sie benötigen jedoch weiterhin ein Ziel, Werkzeuge und den entsprechenden Zugang."
 summary: "Die Sicherheitsvorfälle bei OpenAI und Anthropic zeigten, dass KI nicht mehr nur ein Assistent ist, der erklärt, wie ein Angriff funktioniert. Wenn ein Modell ein Terminal, Netzwerkzugang und ein ausreichend weit gefasstes Ziel erhält, kann es große Teile eines realen Cyberangriffs selbstständig ausführen."
+categories: ["cybersecurity"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -48,7 +49,7 @@ Die Modelle verhielten sich wie ein Schüler, der eine Aufgabe nicht lösen kann
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/de/news/openai-modelle-hackten-hugging-face-fuer-testantworten/" target="_blank" rel="noopener">
-    <img src="/images/hack/OpenAI-hacked-HuggingFace.png" alt="OpenAI-Modelle hackten Hugging Face für Testantworten" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/hack/OpenAI-hacked-HuggingFace.webp" alt="OpenAI-Modelle hackten Hugging Face für Testantworten" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/de/news/openai-modelle-hackten-hugging-face-fuer-testantworten/" target="_blank" rel="noopener"><strong>OpenAI-Modelle hackten Hugging Face für Testantworten</strong></a>
@@ -69,7 +70,7 @@ Ein drittes Modell scannte ungefähr 9.000 Internetziele und kompromittierte ein
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/de/news/claude-hackte-unbeabsichtigt-drei-reale-unternehmen/" target="_blank" rel="noopener">
-    <img src="/images/hack/Claude-hacked-3-companies.png" alt="Claude hackte unbeabsichtigt drei reale Unternehmen" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/hack/Claude-hacked-3-companies.webp" alt="Claude hackte unbeabsichtigt drei reale Unternehmen" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/de/news/claude-hackte-unbeabsichtigt-drei-reale-unternehmen/" target="_blank" rel="noopener"><strong>Claude hackte unbeabsichtigt drei reale Unternehmen</strong></a>

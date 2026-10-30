@@ -38,6 +38,7 @@ tags:
   - markets
   - usa
 summary: "LINK is up ~6.7% this week with a higher low. Momentum follows Plasma (XPL) joining SCALE and integrating CCIP/Data Streams/Data Feeds, UBS piloting CCIP with SWIFT, and additional LINK purchases by the Chainlink Reserve."
+categories: ["crypto"]
 ---
 
 **Summary**  

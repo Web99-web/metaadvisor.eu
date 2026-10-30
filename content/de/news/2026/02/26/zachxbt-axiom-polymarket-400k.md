@@ -7,14 +7,15 @@ translationKey: "zachxbt-axiom-polymarket-400k-2026"
 source: "ZachXBT (X); Cointelegraph; Yahoo Finance; Coinlaw"
 source_url: "https://metaadvisor.eu/news/zachxbt-axiom-polymarket-400k/"
 author: "Metaadvisor.eu"
-image_url: "/images/Polymarket-ZachXBT2.png"
-featured_image: "/images/Polymarket-ZachXBT2.png"
-image: "/images/Polymarket-ZachXBT2.png"
-thumbnail: "/images/Polymarket-ZachXBT2.png"
+image_url: "/images/Polymarket-ZachXBT2.webp"
+featured_image: "/images/Polymarket-ZachXBT2.webp"
+image: "/images/Polymarket-ZachXBT2.webp"
+thumbnail: "/images/Polymarket-ZachXBT2.webp"
 image_alt: "ZachXBT Untersuchung, Axiom Insiderhandel und Polymarket Wetten"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["zachxbt", "axiom exchange", "polymarket", "insider handel", "krypto untersuchung", "onchain analyse", "dezentrale börsen", "prognosemärkte", "marktvolatilität", "defi", "crypto"]
 summary: "Die Veröffentlichung von ZachXBTs Untersuchung zu mutmaßlichem Insiderhandel bei Axiom erschütterte die Märkte, während auf Polymarket fast 40 Millionen Dollar an Wetten vor der Enthüllung platziert wurden. Ein Nutzer erzielte rund 400.000 Dollar Gewinn, indem er den Ausgang korrekt vorhersagte."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/top-10-fastest-growing-blockchains-of-the-year-ranked-by-active-users"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/blockchain.png"
-featured_image: "/images/blockchain.png"
-image: "/images/blockchain.png"
-thumbnail: "/images/blockchain.png"
+image_url: "/images/blockchain.webp"
+featured_image: "/images/blockchain.webp"
+image: "/images/blockchain.webp"
+thumbnail: "/images/blockchain.webp"
 image_alt: "BLOCKCHAIN – title centered"
 image_credit: "Metaadvisor.eu (generated graphic)"
 tags:
@@ -34,6 +34,7 @@ tags:
   - sui
   - aptos
 summary: "This ranking by active on-chain users highlights networks winning with low fees, fast finality, simple onboarding and real use cases (payments, games, mini-apps). The full Top-10 is listed at the bottom."
+categories: ["ai"]
 ---
 
 **TL;DR:** Looking at **active on-chain users** often gives a more realistic picture of adoption than market cap alone. Networks that let people act **quickly, cheaply and with minimal friction** tend to grow the fastest—especially L2s and high-throughput L1s where micro-transactions (gaming, payments, mini-apps) are common.

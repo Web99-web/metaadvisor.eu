@@ -7,15 +7,16 @@ translationKey: "clarity-act-crypto-regulation-tax-sec-cftc-2026-09-17"
 source: "U.S. Senate, House Ways and Means Committee, SEC, Reuters, Cointelegraph"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Capitol-USA.png"
-featured_image: "/images/Capitol-USA.png"
-image: "/images/Capitol-USA.png"
-thumbnail: "/images/Capitol-USA.png"
+image_url: "/images/Capitol-USA.webp"
+featured_image: "/images/Capitol-USA.webp"
+image: "/images/Capitol-USA.webp"
+thumbnail: "/images/Capitol-USA.webp"
 image_alt: "Das US-Kapitol während der Kongress über den CLARITY Act, Kryptosteuern und neue Regeln für digitale Vermögenswerte debattiert."
 image_credit: "Metaadvisor.eu"
 tags: ["CLARITY Act", "Kryptoregulierung", "USA", "Kongress", "Senat", "SEC", "CFTC", "Digital Asset Tax Certainty Act", "Kryptosteuern", "Bitcoin", "Kryptowährungen", "digitale Vermögenswerte", "Lame-Duck-Session"]
 description: "Der CLARITY Act scheiterte zunächst im US-Senat, doch die Kryptoregulierung geht über ein Steuergesetz, einen möglichen neuen CLARITY-Versuch sowie Regeln von SEC und CFTC weiter."
 summary: "Der CLARITY Act blieb im Senat mit 49 zu 50 Stimmen stecken, könnte aber nach den Wahlen erneut aufgerufen werden. Gleichzeitig passierte ein umfassendes Kryptosteuergesetz den House-Ausschuss mit 38 zu 5 Stimmen."
+categories: ["Kryptowährungen"]
 ---
 
 *Das Bild ist symbolisch.*

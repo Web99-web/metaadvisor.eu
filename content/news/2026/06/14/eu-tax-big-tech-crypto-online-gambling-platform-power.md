@@ -15,6 +15,7 @@ image_alt: "European Union digital regulation and Big Tech illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["EU", "Big Tech", "crypto", "cryptocurrency", "online betting", "online gambling", "digital platforms", "Meta", "Facebook", "Instagram", "Google", "YouTube", "Digital Services Act", "Appeals Centre Europe", "digital infrastructure", "small businesses", "platform power", "digital sovereignty", "EU budget", "digital tax", "regulation", "Metaadvisor"]
 summary: "The EU wants new revenue from Big Tech, crypto and online gambling. But a bigger question remains: if platforms have become digital infrastructure for people and small businesses, who controls their power when users are shut out overnight?"
+categories: ["tech"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>The image is symbolic.</em></p>

@@ -3,7 +3,7 @@ title: "Tinder priznaje: umjetna inteligencija je odgovor na burnout i ‘swipe 
 slug: "tinder-ai-swipe-fatigue-burnout-chemistry"
 date: 2026-02-05T12:30:00
 category: "ai"
-translationKey: "bebee28a72a90f8b0e794232f4e5d83c"
+translationKey: "bebee28a72a90f8b0e794232f4e5d83c--2026-02-05"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/"
 author: "TechCrunch"
@@ -16,6 +16,7 @@ image_alt: "Tinder koristi umjetnu inteligenciju za smanjenje swipe fatiguea"
 image_credit: "TechCrunch / MetaAdvisor.eu"
 tags: ["tinder","ai","umjetna inteligencija","privatnost","dating aplikacije","match group","burnout","gen z","algoritmi","podaci"]
 summary: "Tinder sve otvorenije priznaje da AI nije samo nova funkcija, već odgovor na zamor korisnika, pad pretplatnika i iscrpljenost od beskonačnog swipanja."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/22/head-of-irs-crypto-work-
 summary: "Trish Turner, the U.S. Internal Revenue Service veteran running its digital assets effort, is the latest senior official leaving for the private sector."
 tags: ["crypto"]
 image: "/news/2025-08-22-head-of-irs-crypto-work-exits-as-us-tax-changes-loom-for-digital-assets.jpg"
+categories: ["crypto"]
 ---
 
 The head of the U.S. Internal Revenue Service's digital assets unit, Trish Turner, is leaving her post for the private sector just as new tax policies are set to potentially bring in a wave of crypto work for the agency.

@@ -15,6 +15,7 @@ image_alt: "Regulirane kripto zemlje 2025"
 image_credit: "MetaAdvisor"
 tags: ["kripto", "regulacija", "mica", "dao", "defi", "financije", "blockchain"]
 summary: "Tijekom 2025. pet ključnih jurisdikcija jasno je definiralo pravila za kripto-industriju. Donosimo pregled tko su te zemlje, što su regulirale i zašto je regulatorna jasnoća postala ključna za budućnost kripta."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

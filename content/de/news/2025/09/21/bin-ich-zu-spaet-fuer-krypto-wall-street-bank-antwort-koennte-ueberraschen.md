@@ -16,6 +16,7 @@ image_alt: "Bitcoin und Ethereum — symbolischer Vergleich"
 image_credit: "Metaadvisor image_map (symbolisches Bild)"
 tags: ["Krypto", "Institutionen", "Wall-Street", "Jefferies", "Bitcoin", "Ethereum", "ETF", "RWA", "Tokenisierung", "Infrastruktur", "Custody", "Compliance", "Risiko", "Kapitalallokation", "DCA", "Marktzyklus"]
 summary: "Jefferies signalisiert Großkunden: Krypto befindet sich noch in einer ‚1996‘-Phase — früh, aber mit klaren Wachstumssignalen. Wir erklären, was das für Allokation jenseits von Bitcoin bedeutet."
+categories: ["crypto"]
 ---
 
 **Kurz & knapp:**  

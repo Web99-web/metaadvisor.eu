@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/lido-ethena-rally-more-
 summary: "Lido i Ethena skočili su dvoznamenkasto u petak dok oba tokena pokušavaju doseći razine od prošlog tjedna."
 tags: ["crypto", "token", "financije", "ethereum", "eth", "lido", "ldo", "ethena", "ena", "staking", "defi"]
 image: "/news/2025-08-22-ldo-ena-tokens-rally-more-than-10-as-traders-snap-up-cheap-staking-tokens-amid-e.png"
+categories: ["crypto"]
 ---
 
 Kripto trgovci su u petak iskoristili pad cijena i kupovali više Ethereum staking tokena, čime su **Lido (LDO)** i **Ethena (ENA)** porasli za 14% odnosno 15%.  

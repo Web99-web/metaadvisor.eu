@@ -7,14 +7,15 @@ translationKey: "c3a0b9f2e0c84c79ad7f0f2a61000btc"
 source: "Summary of media reports and UK court proceedings"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/btc-61000-dispute.png"
-featured_image: "/images/btc-61000-dispute.png"
-image: "/images/btc-61000-dispute.png"
-thumbnail: "/images/btc-61000-dispute.png"
+image_url: "/images/btc-61000-dispute.webp"
+featured_image: "/images/btc-61000-dispute.webp"
+image: "/images/btc-61000-dispute.webp"
+thumbnail: "/images/btc-61000-dispute.webp"
 image_alt: "61,000 BTC – custody dispute UK vs China"
 image_credit: "Design: Metaadvisor.eu (symbolic)"
 tags: ["Bitcoin","BTC","crime","money laundering","UK","China","Zhimin Qian","Yadi Zhang","Jian Wen","asset seizure","restitution","confiscation","extradition","61k BTC"]
 summary: "Chinese national Zhimin Qian (Yadi Zhang) pleaded guilty to laundering crypto linked to a mass fraud in China. At the center: 61,000 BTC seized in London — China seeks restitution to victims, while the UK pursues confiscation."
+categories: ["crypto"]
 ---
 
 ## Who she is and how the fraud worked

@@ -7,14 +7,15 @@ translationKey: "voltage-usd-credit-line-bitcoin-infrastructure-20260221"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Voltage-credits.png"
-featured_image: "/images/Voltage-credits.png"
-image: "/images/Voltage-credits.png"
-thumbnail: "/images/Voltage-credits.png"
+image_url: "/images/Voltage-credits.webp"
+featured_image: "/images/Voltage-credits.webp"
+image: "/images/Voltage-credits.webp"
+thumbnail: "/images/Voltage-credits.webp"
 image_alt: "Voltage USD credit line over Bitcoin network"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["voltage", "bitcoin", "lightning network", "usd kredit", "krypto infrastruktur", "finanzen", "blockchain", "digitale vermoegenswerte"]
 summary: "Das US-Fintech-Unternehmen Voltage startet eine USD-Kreditlinie, die das Bitcoin-Netzwerk als Infrastruktur nutzt. Das neue Modell eröffnet neue Möglichkeiten der Kreditaufnahme auf Basis der BTC-Technologie."
+categories: ["krypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -16,6 +16,7 @@ image_alt: "Industrieroboter — Sicherheitssensorik (symbolisch)"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["ai","robotics","sensoren","ultraschall","lidar","sicherheit","norway","oslo","metaadvisor"]
 summary: "Da Roboter immer häufiger mit Menschen den Raum teilen, rückt Sicherheit in den Vordergrund. Sonair setzt auf 3D-‘Ultraschall-Lidar’, der Räume mit Schall füllt und Tiefenwahrnehmung verbessert."
+categories: ["ai"]
 ---
 
 Roboter verlassen die Käfige der Fabriken und bewegen sich durch **Lager, Krankenhäuser und Shops**. Sicherheit in **Menschenräumen** wird damit zur Kernanforderung. Das norwegische **Sonair** glaubt, den fehlenden Baustein gefunden zu haben: **Schall**. Statt die Szene mit einem Laserstrahl abzutasten, **füllt** der **ADAR-Sensor** (acoustic detection and ranging) den Raum mit **Ultraschall** und liefert ein **dreidimensionales Abbild**.

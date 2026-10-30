@@ -7,14 +7,15 @@ translationKey: "cyber_monday_crypto_discount_20251201"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Cyber-monday-crypto-discounts.png"
-featured_image: "/images/Cyber-monday-crypto-discounts.png"
-image: "/images/Cyber-monday-crypto-discounts.png"
-thumbnail: "/images/Cyber-monday-crypto-discounts.png"
+image_url: "/images/Cyber-monday-crypto-discounts.webp"
+featured_image: "/images/Cyber-monday-crypto-discounts.webp"
+image: "/images/Cyber-monday-crypto-discounts.webp"
+thumbnail: "/images/Cyber-monday-crypto-discounts.webp"
 image_alt: "Cyber Monday crypto discounts"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["crypto","bitcoin","altcoins","market","analiza","trziste","dip","kupnja","investiranje"]
 summary: "Današnji pad kripto tržišta izgleda loše, ali mnogi ga vide kao jedinstvenu priliku – svojevrsni ‘Cyber Monday popust’ prije nastavka bull runa."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

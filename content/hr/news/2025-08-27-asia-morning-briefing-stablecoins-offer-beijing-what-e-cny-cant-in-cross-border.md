@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/asia-morning-briefing-s
 summary: "Dominacija dolara zahvaljujući stablecoinima potiče Kinu da istraži vlastite stablecoine, ali stroge kontrole kapitala ograničavaju projekt na hongkonško offshore RMB tržište, gdje je likvidnost slaba."
 tags: ["crypto","stablecoin","China","e-CNY","CBDC","HongKong","Beijing"]
 image_url: "https://www.coindesk.com/resizer/stablecoins-vs-ecny.jpg"
+categories: ["news"]
 ---
 
 Dobrodošli u Asia Morning Briefing, dnevni pregled najvažnijih događaja tijekom američkih sati i analizu tržišta. Fokus današnjeg izdanja je Kina: zašto Peking sve ozbiljnije razmatra stablecoine, i što to znači za globalnu monetarnu ravnotežu.

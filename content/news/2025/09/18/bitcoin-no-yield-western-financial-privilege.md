@@ -15,6 +15,7 @@ image_alt: "Bitcoin and the yield debate"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitcoin","yield","emerging-markets","inflation","self-custody","metaadvisor"]
 summary: "“No yield” sounds persuasive if your bank pays interest like clockwork. In much of the world, yield arrives bundled with issuer, intermediary and political risk — exactly what Bitcoin tries to sidestep."
+categories: ["crypto"]
 ---
 
 On Western high streets, bank windows glow with percentages: 3%, 4%, 5% on deposits. In many cities, those numbers don’t glow — they go dark overnight. Today the rate is “safe,” tomorrow the account is under **moratorium**, the currency drifts, or the border turns back into a wall. In that world, asking why Bitcoin **doesn’t pay yield** feels like a textbook objection, not a real-life answer.  

@@ -17,6 +17,7 @@ image_credit: "MetaAdvisor AI-generated"
 tags:
   ["bitcoin","btc","krypto","markt","analyse","makroökonomie","stablecoins","japan","anleihen","volatilität"]
 summary: "Bitcoin fiel auf 84.000 USD, nachdem er die Marke von 92.000 USD nicht durchbrechen konnte. Viele fragten sich, ob der japanische Anleihemarkt dahintersteckt oder ob tiefere makroökonomische Faktoren im Spiel sind."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -9,6 +9,7 @@ summary: "Celestia (TIA) is redefining decentralization and scalability with its
 tags: ["Celestia", "TIA", "Blockchain", "Modular"]
 image_url: "https://tse4.mm.bing.net/th/id/OIP.1aUr9aS-hWGEDh0fKD0IxQHaHa"
 image: "https://tse3.mm.bing.net/th/id/OIP.dKjXjwvcIT2C1WJZZr8KbAHaJZ"
+categories: ["crypto"]
 ---
 
 ## Celestia (TIA): modular innovation on the rise

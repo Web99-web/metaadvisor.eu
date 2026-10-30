@@ -15,6 +15,7 @@ image_alt: "American Bitcoin"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin","american bitcoin","trump","eric trump","donald trump jr","crypto stocks","abtc","scaramucci","ton","solana","btc","eth","crypto","mining","nasdaq","usa crypto","politics","web3"]
 summary: "American Bitcoin (ABTC) has become the most controversial crypto-related stock in the U.S., thanks to its direct connection to the Trump family and major investments from the Scaramucci family."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

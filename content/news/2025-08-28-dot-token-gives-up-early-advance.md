@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/polkadot-s-dot-returns-
 summary: "Support has formed in the $3.90-$3.91 zone, with resistance at $4.02."
 tags: ["crypto","DOT","Polkadot","Paraguay","tokenization"]
 image_url: "https://www.coindesk.com/resizer/RlJgqQ3nMX02fH_o7DbQ19_cX_g=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/polkadot-dot-aug28.jpg"
+categories: ["crypto"]
 ---
 
 **Polkadot’s DOT token** rose more than 2% early Thursday, with trading patterns suggesting institutional participation, according to **CoinDesk Research’s technical analysis model**.

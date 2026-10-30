@@ -1,151 +1,17 @@
-<!-- ✅ GA4 + CONSENT MODE (MORA BITI PRIJE SVEGA) -->
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-
-// 🔥 "šum" - anonimno brojanje i bez Accept
-gtag('consent', 'default', {
-  'analytics_storage': 'denied'
-});
-</script>
-
-<!-- ✅ GA4 SCRIPT -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KL111KNH3S"></script>
-<script>
-gtag('js', new Date());
-gtag('config', 'G-KL111KNH3S');
-</script>
-
-
-<!-- ✅ CONSENT BANNER -->
-<div id="ma-consent">
-  <div class="ma-box">
-
- 
-    <!-- TEST: NEW CONSENT MESSAGE (temporary hidden)
-    <div style="color:red;">NEW CONSENT TEST</div>
-    -->
-
-    
-    <div class="ma-top">
-      <a href="#" id="ma-decline">Continue without accepting →</a>
-    </div>
-
-    <h3>We use cookies</h3>
-
-    <p class="ma-main">
-      We use cookies to understand what readers find useful — as an independent project focused on finance, crypto, AI and technology.
-    </p>
-
-    <p class="ma-small">
-      This helps us improve content. More in our privacy policy.
-    </p>
-
-    <div class="ma-actions">
-      <a href="/privacy/" id="ma-settings">Settings</a>
-      <button id="ma-accept">Accept all</button>
-    </div>
-
-  </div>
+{{ $hr := eq .Lang "hr" }}{{ $de := eq .Lang "de" }}
+<div id="ma-consent" hidden role="region" aria-label="{{ if $hr }}Analitički kolačići{{ else if $de }}Analyse-Cookies{{ else }}Analytics cookies{{ end }}">
+  <p>{{ if $hr }}Analitički kolačići pomažu nam mjeriti posjete i čitanost, bez oglašivačkih profila.{{ else if $de }}Analyse-Cookies messen Besuche und Seitenaufrufe, ohne Werbeprofile.{{ else }}Analytics cookies measure visits and page views, without advertising profiles.{{ end }} <a href="{{ "/privacy/" | relLangURL }}">{{ if $hr }}Privatnost{{ else if $de }}Datenschutz{{ else }}Privacy{{ end }}</a></p>
+  <div class="ma-consent-actions"><button type="button" id="ma-decline">{{ if $hr }}Odbij{{ else if $de }}Ablehnen{{ else }}Reject{{ end }}</button><button type="button" id="ma-accept">{{ if $hr }}Prihvati{{ else if $de }}Akzeptieren{{ else }}Accept{{ end }}</button></div>
 </div>
-
 <style>
-#ma-consent {
-  position: fixed;
-  bottom: 70px; /* ili 80px ako želiš više prostora - od 06.05.2026 */
-  right: 20px;
-  z-index: 999999;
-  display: none;
-}
-
-.ma-box {
-  max-width: 360px;
-  background: #f5f5f5;
-  color: #111;
-  padding: 16px;
-  border-radius: 12px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-  font-size: 13px;
-  font-family: inherit;
-}
-
-.ma-top {
-  text-align: right;
-  margin-bottom: 6px;
-}
-
-#ma-decline {
-  font-size: 10px;
-  color: #666;
-  text-decoration: none;
-  opacity: 0.6;
-}
-
-#ma-decline:hover {
-  opacity: 1;
-}
-
-.ma-main {
-  margin: 10px 0;
-}
-
-.ma-small {
-  font-size: 12px;
-  opacity: 0.7;
-}
-
-.ma-actions {
-  display: flex;
-  gap: 8px;
-  margin-top: 12px;
-}
-
-#ma-settings {
-  background: #e5e5e5;
-  padding: 8px 10px;
-  border-radius: 6px;
-  text-decoration: none;
-  color: #333;
-  font-size: 12px;
-}
-
-#ma-accept {
-  background: #1e40af;
-  color: #fff;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  border: 0;
-  padding: 8px 12px;
-  border-radius: 6px;
-  font-weight: 600;
-  cursor: pointer;
-}
+#ma-consent[hidden]{display:none!important}
+#ma-consent{position:fixed;bottom:62px;left:12px;right:12px;margin:0 auto;z-index:10000;box-sizing:border-box;width:min(620px,calc(100vw - 24px));max-height:calc(100svh - 90px);overflow:auto;padding:12px 14px;border:1px solid #64748b;border-radius:8px;background:#fff;color:#17212b;box-shadow:0 3px 14px #0002;font-size:14px;line-height:1.4}
+#ma-consent p{margin:0 0 10px}
+#ma-consent a{color:#064faf;text-decoration:underline}
+.ma-consent-actions{display:flex;gap:10px}
+.ma-consent-actions button{flex:1;min-width:0;min-height:44px;padding:9px 10px;border:1px solid #334155;border-radius:5px;font:inherit;cursor:pointer}
+#ma-decline{background:#fff;color:#17212b}
+#ma-accept{background:#146c43;color:#fff}
+.ma-consent-actions button:focus-visible,#ma-consent-settings:focus-visible{outline:3px solid #185abd;outline-offset:3px}
+#ma-consent-settings{font:inherit;color:inherit;background:none;border:0;padding:0;text-decoration:underline;text-underline-offset:2px;cursor:pointer}
 </style>
-
-<script>
-(function () {
-
-  const consent = localStorage.getItem('ma_consent');
-  const banner = document.getElementById('ma-consent');
-
-  if (!consent || consent === 'denied') {
-    banner.style.display = 'block';
-  }
-
-  document.getElementById('ma-accept').onclick = function () {
-    localStorage.setItem('ma_consent', 'granted');
-
-    // 🔥 uključuje puni tracking nakon klika
-    gtag('consent', 'update', {
-      'analytics_storage': 'granted'
-    });
-
-    banner.remove();
-  };
-
-  document.getElementById('ma-decline').onclick = function () {
-    localStorage.setItem('ma_consent', 'denied');
-    banner.remove();
-  };
-
-})();
-</script>

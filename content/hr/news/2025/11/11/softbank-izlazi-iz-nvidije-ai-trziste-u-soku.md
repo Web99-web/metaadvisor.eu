@@ -14,6 +14,7 @@ image_alt: "SoftBank out of Nvidia"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "nvidia", "softbank", "masayoshi son", "investicije", "tržište", "mali ulagači"]
 summary: "SoftBank prodaje svoj udio u Nvidiji vrijedan 5,8 milijardi USD i preusmjerava kapital u umjetnu inteligenciju. Tržište reagira šokom, ali analitičari smatraju da je to prilika za male ulagače i signal nove redistribucije kapitala između hardvera i AI servisa."
+categories: ["ai"]
 ---
 
 💥 **Masayoshi Son ponovno iznenađuje tržište.**  

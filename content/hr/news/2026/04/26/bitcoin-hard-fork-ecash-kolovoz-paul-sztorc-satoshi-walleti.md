@@ -7,14 +7,15 @@ translationKey: "f34cb7e5e99073c90420fa0884e6d0ed"
 source: "Metaadvisor (Cointelegraph, Bitcoin.com, Forklog)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-hard-fork-eCash-august.png"
-featured_image: "/images/BTC-hard-fork-eCash-august.png"
-image: "/images/BTC-hard-fork-eCash-august.png"
-thumbnail: "/images/BTC-hard-fork-eCash-august.png"
+image_url: "/images/BTC-hard-fork-eCash-august.webp"
+featured_image: "/images/BTC-hard-fork-eCash-august.webp"
+image: "/images/BTC-hard-fork-eCash-august.webp"
+thumbnail: "/images/BTC-hard-fork-eCash-august.webp"
 image_alt: "Bitcoin hard fork eCash planiran za kolovoz"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "kripto", "hard fork", "ecash", "blockchain", "wallet", "self custody", "exchange", "satoshi nakamoto"]
 summary: "Novi Bitcoin hard fork eCash planiran za kolovoz donosi model 1:1 distribucije, ali i kontroverzu oko Satoshijevih walleta i stvarne dostupnosti coinova korisnicima."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

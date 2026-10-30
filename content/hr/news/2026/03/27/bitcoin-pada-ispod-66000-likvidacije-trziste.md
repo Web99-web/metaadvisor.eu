@@ -15,6 +15,7 @@ image_alt: "Pad cijene Bitcoina i likvidacije na tržištu"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "kripto", "likvidacije", "tržište", "etf", "inflacija", "fed", "kamate", "crypto"]
 summary: "Bitcoin je pao ispod $66,000, dosegnuvši oko $65,760 uz više od $300 milijuna likvidacija, dok makro pritisci i ETF odljevi dodatno pojačavaju nestabilnost tržišta."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

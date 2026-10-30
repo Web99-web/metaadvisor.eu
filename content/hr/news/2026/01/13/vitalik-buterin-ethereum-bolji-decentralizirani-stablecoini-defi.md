@@ -7,10 +7,10 @@ translationKey: "vitalik_buterin_better_decentralized_stablecoins_2026"
 source: "MetaAdvisor analiza (na temelju Cointelegraph)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Vitalik-Buterin-decentralised-coins.png"
-featured_image: "/images/Vitalik-Buterin-decentralised-coins.png"
-image: "/images/Vitalik-Buterin-decentralised-coins.png"
-thumbnail: "/images/Vitalik-Buterin-decentralised-coins.png"
+image_url: "/images/Vitalik-Buterin-decentralised-coins.webp"
+featured_image: "/images/Vitalik-Buterin-decentralised-coins.webp"
+image: "/images/Vitalik-Buterin-decentralised-coins.webp"
+thumbnail: "/images/Vitalik-Buterin-decentralised-coins.webp"
 image_alt: "Ilustracija ravnoteže između centraliziranih i decentraliziranih stablecoina na Ethereumu"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -25,6 +25,7 @@ tags:
   - monetarni_sustav
   - blockchain
 summary: "Ethereum suosnivač Vitalik Buterin upozorava da trenutni stablecoini previše ovise o američkom dolaru i centraliziranim strukturama. Ako DeFi želi ispuniti obećanje financijske neovisnosti, potrebni su otporniji, dugoročno održivi i istinski decentralizirani oblici digitalnog novca."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

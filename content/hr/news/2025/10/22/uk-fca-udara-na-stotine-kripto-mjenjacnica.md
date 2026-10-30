@@ -16,6 +16,7 @@ image_alt: "Britanska zastava i FCA — simbol regulatornog nadzora"
 image_credit: "Slika je simbolična."
 tags: ["FCA", "UK", "crypto", "kripto", "regulacija", "burze", "compliance", "crypto exchanges", "financial conduct authority"]
 summary: "Britanski regulator FCA (Financial Conduct Authority) poslao je u listopadu stotine upozorenja kripto mjenjačnicama i posrednicima zbog neusklađenosti s pravilima."
+categories: ["crypto"]
 ---
 
 Britanski **FCA (Financial Conduct Authority)**, glavni regulator za financijske usluge u Ujedinjenom Kraljevstvu, u listopadu je poslao **stotine upozorenja kripto mjenjačnicama i posrednicima**. Cilj su bile platforme koje posluju bez potrebne registracije ili krše pravila o oglašavanju i zaštiti potrošača.

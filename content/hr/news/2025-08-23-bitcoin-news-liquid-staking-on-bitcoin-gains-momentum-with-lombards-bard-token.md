@@ -9,6 +9,7 @@ summary: "Lombard želi pretvoriti Bitcoin u produktivniju imovinu za DeFi funkc
 tags: ["bitcoin","bard","staking","defi","lombard","lbtc","babylon","ethereum","base","bnb","morpho","pendle","etherfi"]
 image: "https://www.coindesk.com/resizer/v2/W3BARD-staking.jpg"
 image_alt: "Lombard Finance uvodi LBTC liquid staking token za Bitcoin"
+categories: ["crypto"]
 ---
 
 Većinu svoje povijesti bitcoin je bio cijenjen kao digitalno zlato: imovina koju treba čuvati, a ne koristiti. Ta pasivnost ostavila je trilijune dolara vrijednog BTC-a koji stoji neiskorišten u walletima, izvan dosega strategija prinosa i interoperabilnosti koje definiraju decentralizirane financije (DeFi).

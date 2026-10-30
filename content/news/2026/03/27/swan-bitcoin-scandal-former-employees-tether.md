@@ -7,14 +7,15 @@ translationKey: "8fcbf87790f81c1d27b8653486a1d0f9"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (Cointelegraph, court documents)"
 source_url: ""
-image_url: "/images/companies/Swan-btc-scandal.png"
-featured_image: "/images/companies/Swan-btc-scandal.png"
-image: "/images/companies/Swan-btc-scandal.png"
-thumbnail: "/images/companies/Swan-btc-scandal.png"
+image_url: "/images/companies/Swan-btc-scandal.webp"
+featured_image: "/images/companies/Swan-btc-scandal.webp"
+image: "/images/companies/Swan-btc-scandal.webp"
+thumbnail: "/images/companies/Swan-btc-scandal.webp"
 image_alt: "Swan Bitcoin scandal and conflict with former employees"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "swan bitcoin", "tether", "scandal", "data theft", "mining", "crypto", "business"]
 summary: "Swan Bitcoin claims former employees stole confidential documents and launched a rival firm, Proton Management, while Tether and Wall Street connections emerge in the background."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

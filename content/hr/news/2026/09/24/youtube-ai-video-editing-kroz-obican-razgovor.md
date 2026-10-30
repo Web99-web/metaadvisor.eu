@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["YouTube", "AI", "AI video", "video editing", "Gemini", "YouTube Create", "YouTube Shorts", "kreatori", "video", "umjetna inteligencija", "content creation", "Google"]
 description: "YouTube uvodi conversational video editing, alat koji kreatorima omogućuje da AI-ju običnim jezikom zadaju rezanje videa, uklanjanje pauza, dodavanje teksta, glazbe i prijelaza."
 summary: "Novi YouTube AI alat pretvara montažu videa u razgovor. Kreator može zatražiti odabir najboljih kadrova, uklanjanje pauza, dodavanje teksta, glazbe i prijelaza, a zatim se po potrebi vratiti na klasični timeline. Conversational editing dolazi u YouTube Shorts i YouTube Create početkom 2027."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

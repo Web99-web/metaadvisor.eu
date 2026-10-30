@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/05/google-fined-eur
 summary: "Regulatori su naredili tehnološkom gigantu da prekine praksu samopreferiranja u oglašivačkim uslugama, ali nisu zahtijevali prodaju dijelova poslovanja."
 image_url: "/images/Google.png"
 tags: ["eu", "google", "tehnologija", "adtech", "antitrust", "konkurencija", "kazne"]
+categories: ["vijesti"]
 ---
 
 Regulatori su naredili tehnološkom gigantu da prekine „samopreferirajuće prakse“ u oglašivačkim uslugama, ali su odbili prisiliti prodaju poslovanja.

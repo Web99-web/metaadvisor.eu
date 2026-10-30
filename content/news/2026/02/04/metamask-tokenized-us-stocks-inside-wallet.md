@@ -3,18 +3,19 @@ title: "MetaMask brings tokenized US stocks directly into the wallet"
 slug: "metamask-tokenized-us-stocks-inside-wallet"
 date: 2026-02-04T12:30:00
 category: "crypto"
-translationKey: "7ee5a89332f38ccf99e6c7628e6ffc40"
+translationKey: "7ee5a89332f38ccf99e6c7628e6ffc40--2026-02-04"
 source: "CoinDesk"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Metamask-stocks.png"
-featured_image: "/images/Metamask-stocks.png"
-image: "/images/Metamask-stocks.png"
-thumbnail: "/images/Metamask-stocks.png"
+image_url: "/images/Metamask-stocks.webp"
+featured_image: "/images/Metamask-stocks.webp"
+image: "/images/Metamask-stocks.webp"
+thumbnail: "/images/Metamask-stocks.webp"
 image_alt: "MetaMask wallet with tokenized US stocks and market charts"
 image_credit: "MetaAdvisor.eu"
 tags: ["metamask","tokenized stocks","us stocks","apple","tesla","nvidia","microsoft","amazon","nasdaq","etf","gold etf","real world assets","rwa","defi","tradfi","ethereum","onchain finance","blockchain","digital securities"]
 summary: "MetaMask expands its wallet by enabling access to tokenized US stocks, ETFs and commodities, bringing traditional markets directly on-chain."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

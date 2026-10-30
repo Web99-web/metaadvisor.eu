@@ -32,6 +32,7 @@ tags:
   - tokenizacija
   - kripto-trziste
 summary: "AlloyX lansira RYT, tokenizirani novčani fond na Polygonu, uz kustodijsku uslugu Standard Chartered banke i DeFi integracije za pojačani prinos — uz T+1 namiru i dio podataka o fondu na lancu."
+categories: ["crypto"]
 ---
 
 **AlloyX**, hongkonška tvrtka za stablecoin infrastrukturu, predstavila je **RYT**, **tokenizirani novčani fond (MMF)** koji **debitira na Polygonu**, dok **Standard Chartered** pruža **kustodijsku uslugu**. Za razliku od tipičnih “tokeniziranih MMF-ova” s pasivnom izloženošću, RYT se **integrira s DeFi-jem** kako bi kreirao **strategije za pojačani prinos**, unutar **okvira usklađenosti** prepoznatljivog revizorima i regulatorima.

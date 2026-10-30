@@ -7,10 +7,10 @@ translationKey: "future_of_salaries_crypto_20260115"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Salaries-crypto.png"
-featured_image: "/images/Salaries-crypto.png"
-image: "/images/Salaries-crypto.png"
-thumbnail: "/images/Salaries-crypto.png"
+image_url: "/images/Salaries-crypto.webp"
+featured_image: "/images/Salaries-crypto.webp"
+image: "/images/Salaries-crypto.webp"
+thumbnail: "/images/Salaries-crypto.webp"
 image_alt: "Die Zukunft der Gehaltszahlungen und Kryptowährungen"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Die Auszahlung eines Teils des Gehalts in Kryptowährungen ist keine Theorie mehr. Von der Schweiz über die USA bis nach Lateinamerika existieren bereits Krypto-Gehälter – meist in hybriden, regulatorisch angepassten Modellen."
@@ -24,6 +24,7 @@ tags:
   - arbeit
   - finanzen
   - zukunft
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

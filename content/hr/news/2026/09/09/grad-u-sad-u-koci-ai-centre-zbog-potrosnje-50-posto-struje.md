@@ -7,15 +7,16 @@ translationKey: "us-city-slows-ai-centers-power-demand-2026-09-09"
 source: "City of Plattsburgh, WCAX, New York State, Reuters, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/US-city-stops-AI-center.png"
-featured_image: "/images/AI-general/US-city-stops-AI-center.png"
-image: "/images/AI-general/US-city-stops-AI-center.png"
-thumbnail: "/images/AI-general/US-city-stops-AI-center.png"
+image_url: "/images/AI-general/US-city-stops-AI-center.webp"
+featured_image: "/images/AI-general/US-city-stops-AI-center.webp"
+image: "/images/AI-general/US-city-stops-AI-center.webp"
+thumbnail: "/images/AI-general/US-city-stops-AI-center.webp"
 image_alt: "Plattsburgh razmatra moratorij na AI data centre zbog njihove velike potrošnje električne energije"
 image_credit: "Metaadvisor.eu"
 tags: ["AI", "umjetna inteligencija", "podatkovni centri", "Plattsburgh", "New York", "SAD", "električna energija", "cijena struje", "energetska mreža", "energetska infrastruktura", "Bitcoin", "rudarenje Bitcoina", "kripto", "data centri", "moratorij"]
 description: "Američki grad Plattsburgh razmatra moratorij na nove AI data centre nakon procjene da bi jedan veliki projekt mogao koristiti oko 50 MW od ukupno 105 MW gradske energetske alokacije."
 summary: "Plattsburgh je 2018. zaustavio nove Bitcoin rudare zbog pritiska na električnu mrežu, a sada razmatra 12-mjesečni moratorij na AI, crypto i druge energetski intenzivne računalne objekte."
+categories: ["Tech"]
 ---
 
 *Slika je simbolična.*
@@ -80,7 +81,7 @@ Današnja situacija ipak nije potpuno ista jer gradonačelnik Hughes navodi da p
 
 <div style="text-align:center; margin:24px 0;">
 <a href="https://metaadvisor.eu/hr/news/data-centri-rast-cijena-struje-ai-infrastruktura/" target="_blank" rel="noopener">
-<img src="/images/Data-centers-electric-bill.png" alt="Data centri i rast cijena struje zbog AI infrastrukture" style="width:70%; max-width:520px; height:auto;">
+<img src="/images/Data-centers-electric-bill.webp" alt="Data centri i rast cijena struje zbog AI infrastrukture" style="width:70%; max-width:520px; height:auto;">
 </a>
 <br>
 <small><a href="https://metaadvisor.eu/hr/news/data-centri-rast-cijena-struje-ai-infrastruktura/" target="_blank" rel="noopener"><strong>Data centri i rast cijena struje: što se stvarno događa iza AI buma?</strong></a></small>

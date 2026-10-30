@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/solmate-rockawayx-solana-infrastructure-treasury-abu-dhabi"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Solmate-RockawayX.png"
-featured_image: "/images/Solmate-RockawayX.png"
-image: "/images/Solmate-RockawayX.png"
-thumbnail: "/images/Solmate-RockawayX.png"
+image_url: "/images/Solmate-RockawayX.webp"
+featured_image: "/images/Solmate-RockawayX.webp"
+image: "/images/Solmate-RockawayX.webp"
+thumbnail: "/images/Solmate-RockawayX.webp"
 image_alt: "Solmate i RockawayX spajanje u UAE"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["solmate","rockawayx","solana","infrastruktura","staking","abu dhabi","emirati","ceska","akvizicija","kripto","web3","venture","fondovi","aum","staking infrastruktura","decentralizirano financiranje","spajanje","blockchain"]
 summary: "Solmate iz UAE potpisao je term sheet za preuzimanje češke RockawayX — jedne od najpoznatijih srednjoeuropskih kripto infrastrukturnih grupacija. Spajanje stvara kombinirani entitet s više od 2 mlrd USD imovine."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

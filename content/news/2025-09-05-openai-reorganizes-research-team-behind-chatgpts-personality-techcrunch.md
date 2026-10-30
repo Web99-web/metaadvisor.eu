@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-
 summary: "OpenAI is restructuring its Model Behavior team, while its leader moves on to launch a new research project within the company."
 tags: ["ai", "openai", "chatgpt", "research", "personality"]
 image_url: "/images/ai1manja.jpg"
+categories: ["ai"]
 ---
 
 **OpenAI** is reorganizing its **Model Behavior team**, a small but influential research unit shaping how the company’s AI models interact with people, TechCrunch reports.  

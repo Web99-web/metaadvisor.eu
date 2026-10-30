@@ -15,6 +15,7 @@ image_alt: "Michael Burry steigt in einem entscheidenden Moment aus GameStop aus
 image_credit: "Metaadvisor.eu"
 tags: ["michael burry", "gamestop", "aktien", "investieren", "wall street", "retail-investoren", "finanzanalyse", "kapitalmärkte"]
 summary: "Michael Burry steigt genau in dem Moment aus GameStop aus, in dem das Unternehmen seinen ambitioniertesten Schritt plant. Die Entscheidung wirft die Frage auf, ob es ein Warnsignal oder kluges Timing ist."
+categories: ["stocks"]
 ---
 
 *Das Bild ist symbolisch.*

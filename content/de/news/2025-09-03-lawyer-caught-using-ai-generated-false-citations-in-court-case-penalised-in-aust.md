@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-
 summary: "Australischer Anwalt verliert seine Zulassung als Hauptanwalt, nachdem er zugab, eine von KI erstellte Fallliste nicht überprüft zu haben."
 tags: ["KI", "Recht", "Ethik", "Australien", "Gericht", "Berufsverantwortung"]
 image_url: "https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg"
+categories: ["ai"]
 ---
 
 Ein Anwalt im Bundesstaat Victoria ist der erste in Australien, der berufliche Sanktionen wegen der Nutzung von Künstlicher Intelligenz in einem Gerichtsverfahren erhielt. Ihm wurde die Zulassung als Hauptanwalt entzogen, nachdem KI falsche Zitate generierte, die er nicht überprüft hatte.  

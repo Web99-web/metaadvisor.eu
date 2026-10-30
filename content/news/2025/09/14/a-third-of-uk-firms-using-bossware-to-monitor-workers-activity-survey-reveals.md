@@ -10,6 +10,7 @@ image_url: "/images/fallback-security2.jpg"
 image_alt: "Illustration of digital employee monitoring in the workplace"
 tags: ["privacy","surveillance","workplace","uk"]
 summary: "New CMI data point to rising ‘bossware’ use: a third of managers report monitoring on employer devices and one in seven say screen activity is recorded or reviewed, stoking worries about trust and privacy."
+categories: ["news"]
 ---
 
 **What the survey found**  

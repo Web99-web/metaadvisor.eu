@@ -7,14 +7,15 @@ translationKey: "aptos_post_quantum_bitcoin_risk_18122025"
 source: "MetaAdvisor analysis — based on Cointelegraph reporting"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Aptos-cryptography.png"
-featured_image: "/images/Aptos-cryptography.png"
-image: "/images/Aptos-cryptography.png"
-thumbnail: "/images/Aptos-cryptography.png"
+image_url: "/images/Aptos-cryptography.webp"
+featured_image: "/images/Aptos-cryptography.webp"
+image: "/images/Aptos-cryptography.webp"
+thumbnail: "/images/Aptos-cryptography.webp"
 image_alt: "Aptos post-quantum security"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["aptos","bitcoin","quantum computing","post-quantum security","blockchain","cryptography","security","pqc","web3","technology","crypto","investing","analysis"]
 summary: "Aptos introduces post-quantum cryptography — a security system designed to protect blockchain even if quantum computers someday become powerful enough to break Bitcoin."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

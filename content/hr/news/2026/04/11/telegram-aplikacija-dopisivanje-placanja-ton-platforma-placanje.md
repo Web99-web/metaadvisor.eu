@@ -7,14 +7,15 @@ translationKey: "telegram-ton-platform-shift-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/companies/Telegram-messaging-to-paying-app.png"
-featured_image: "/images/companies/Telegram-messaging-to-paying-app.png"
-image: "/images/companies/Telegram-messaging-to-paying-app.png"
-thumbnail: "/images/companies/Telegram-messaging-to-paying-app.png"
+image_url: "/images/companies/Telegram-messaging-to-paying-app.webp"
+featured_image: "/images/companies/Telegram-messaging-to-paying-app.webp"
+image: "/images/companies/Telegram-messaging-to-paying-app.webp"
+thumbnail: "/images/companies/Telegram-messaging-to-paying-app.webp"
 image_alt: "Telegram evolucija od dopisivanja do platforme za plaćanje"
 image_credit: "Metaadvisor ilustracija"
 tags: ["telegram", "ton", "kripto", "aplikacije", "plaćanja", "tehnologija", "digitalni ekosustav", "privatnost", "web3", "blockchain"]
 summary: "Telegram prerasta klasičnu aplikaciju za dopisivanje i razvija se u platformu koja spaja komunikaciju, plaćanja i digitalne usluge, uz podršku TON infrastrukture."
+categories: ["tech"]
 ---
 
 _Slika je simbolična._

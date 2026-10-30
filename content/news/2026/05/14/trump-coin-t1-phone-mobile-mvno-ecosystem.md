@@ -7,14 +7,15 @@ translationKey: "7d1f4b29c84a5f0e3a91cb728de51f22"
 source: "Metaadvisor (CoinDesk, The Verge, TechRadar)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Trump-T1-phone-Mobile.png"
-featured_image: "/images/companies/Trump-T1-phone-Mobile.png"
-image: "/images/companies/Trump-T1-phone-Mobile.png"
-thumbnail: "/images/companies/Trump-T1-phone-Mobile.png"
+image_url: "/images/companies/Trump-T1-phone-Mobile.webp"
+featured_image: "/images/companies/Trump-T1-phone-Mobile.webp"
+image: "/images/companies/Trump-T1-phone-Mobile.webp"
+thumbnail: "/images/companies/Trump-T1-phone-Mobile.webp"
 image_alt: "TRUMP coin and T1 Phone"
 image_credit: "Metaadvisor.eu"
 tags: ["trump", "trump coin", "trump mobile", "t1 phone", "bitcoin", "btc", "crypto", "memecoin", "smartphone", "mobile", "usa", "politics", "blockchain", "dogecoin", "shiba inu", "pepe", "mvno"]
 summary: "Trump Mobile is expected to begin shipping its gold-colored T1 Phone soon, while the TRUMP coin is once again drawing attention across the crypto market. Some investors are now wondering whether a broader digital ecosystem is slowly forming around the Trump brand."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>The image is symbolic.</em></p>

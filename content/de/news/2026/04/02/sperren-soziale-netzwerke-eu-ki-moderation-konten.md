@@ -7,14 +7,15 @@ translationKey: "a4c9f7e2d1b8435a9c7f1e6b2d8c9f01"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (Nutzererfahrungen, regulatorischer Rahmen der EU)"
 source_url: ""
-image_url: "/images/Banned-from-social-media.png"
-featured_image: "/images/Banned-from-social-media.png"
-image: "/images/Banned-from-social-media.png"
-thumbnail: "/images/Banned-from-social-media.png"
+image_url: "/images/Banned-from-social-media.webp"
+featured_image: "/images/Banned-from-social-media.webp"
+image: "/images/Banned-from-social-media.webp"
+thumbnail: "/images/Banned-from-social-media.webp"
 image_alt: "Sperre in sozialen Netzwerken und KI-Moderation"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "moderation", "facebook", "instagram", "tiktok", "eu", "digital services act", "sperre", "kleine unternehmen"]
 summary: "Immer mehr Nutzer in der EU verlieren den Zugang zu sozialen Netzwerken aufgrund von KI-Moderation, ohne Erklärung und ohne echten Zugang zu menschlichem Support."
+categories: ["tech"]
 ---
 
 *Das Bild ist symbolisch.*

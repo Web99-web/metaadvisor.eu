@@ -7,14 +7,15 @@ translationKey: "d9f4c2a8e7b14b6fa3e2c91b7d5a8c44"
 source: "Metaadvisor (Business Insider, Tom's Hardware, Gizmodo)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/AI-deleted-database.png"
-featured_image: "/images/news/AI-deleted-database.png"
-image: "/images/news/AI-deleted-database.png"
-thumbnail: "/images/news/AI-deleted-database.png"
+image_url: "/images/news/AI-deleted-database.webp"
+featured_image: "/images/news/AI-deleted-database.webp"
+image: "/images/news/AI-deleted-database.webp"
+thumbnail: "/images/news/AI-deleted-database.webp"
 image_alt: "AI agent briše bazu podataka u nekoliko sekundi"
 image_credit: "Metaadvisor.eu"
 tags: ["cursor ai", "claude opus", "ai incident", "brisanje baze", "pocketos", "ai sigurnost", "ai agenti", "saas rizik", "automatizacija", "cloud infrastruktura"]
 summary: "AI agent u kombinaciji Cursor + Claude obrisao je produkcijsku bazu i backupove startupa PocketOS u samo 9 sekundi, otkrivajući ozbiljne rizike autonomnih AI sustava."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

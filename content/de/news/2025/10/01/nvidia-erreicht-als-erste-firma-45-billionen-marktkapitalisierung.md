@@ -7,14 +7,15 @@ translationKey: "f3c9e6d0a8a24b8e9f48a7b7c0a5f9b2"
 source: "Market recap"
 source_url: "https://example.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Nvidia-4.5-trillion.png"
-featured_image: "/images/Nvidia-4.5-trillion.png"
-image: "/images/Nvidia-4.5-trillion.png"
-thumbnail: "/images/Nvidia-4.5-trillion.png"
+image_url: "/images/Nvidia-4.5-trillion.webp"
+featured_image: "/images/Nvidia-4.5-trillion.webp"
+image: "/images/Nvidia-4.5-trillion.webp"
+thumbnail: "/images/Nvidia-4.5-trillion.webp"
 image_alt: "Nvidia erreicht $4,5 Billionen Marktkapitalisierung"
 image_credit: "Visual: Metaadvisor.eu (symbolische Darstellung)"
 tags: ["Nvidia","AI","GPU","Märkte","Aktien","Marktkapitalisierung","Chips","Rechenzentren","Hyperscaler","AI-Infrastruktur","DePIN","Krypto-Narrative"]
 summary: "Nvidia überschreitet die historische Marke von $4,5 Billionen – als erstes Unternehmen überhaupt. Getrieben von AI-Superzyklus, Hyperscaler-Capex und langfristigen GPU-Verträgen."
+categories: ["markets"]
 ---
 
 **Kurz:** **Nvidia** hat eine **Marktkapitalisierung von $4,5T** erreicht – ein **historischer Meilenstein**. Zuvor: $1T (2023), $2T (2024), $3T (2024), $4T (07/2025).

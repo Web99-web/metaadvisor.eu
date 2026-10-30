@@ -7,14 +7,15 @@ translationKey: "c3a0b9f2e0c84c79ad7f0f2a61000btc"
 source: "Sažetak medijskih izvještaja i sudskih postupaka u UK"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/btc-61000-dispute.png"
-featured_image: "/images/btc-61000-dispute.png"
-image: "/images/btc-61000-dispute.png"
-thumbnail: "/images/btc-61000-dispute.png"
+image_url: "/images/btc-61000-dispute.webp"
+featured_image: "/images/btc-61000-dispute.webp"
+image: "/images/btc-61000-dispute.webp"
+thumbnail: "/images/btc-61000-dispute.webp"
 image_alt: "61,000 BTC – spor oko skrbništva kovanica između UK i Kine"
 image_credit: "Dizajn: Metaadvisor.eu (simbolična slika)"
 tags: ["bitcoin","BTC","kriminal","pranje-novca","UK","Kina","Zhimin Qian","Yadi Zhang","Jian Wen","zaplijenjena-imovina","restitucija","konfiskacija","ekstradicija","61k BTC"]
 summary: "Kineska državljanka Zhimin Qian (Yadi Zhang) priznala je pranje kripto-imovine povezane s masovnom prijevarom u Kini. U središtu slučaja je 61.000 BTC zaplijenjenih u Londonu — Kina traži povrat žrtvama, a UK vodi postupak konfiskacije."
+categories: ["crypto"]
 ---
 
 ## Tko je ona i kako je prevarila ljude

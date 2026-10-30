@@ -7,14 +7,15 @@ translationKey: "d1c8f5a7e2b94c3aa6f0e9d4b7c1a532"
 author: "Metaadvisor.eu"
 source: "Cointelegraph, ZachXBT analysis, on-chain data"
 source_url: ""
-image_url: "/images/news/Circle-USDC-232M-Drift-protocol.png"
-featured_image: "/images/news/Circle-USDC-232M-Drift-protocol.png"
-image: "/images/news/Circle-USDC-232M-Drift-protocol.png"
-thumbnail: "/images/news/Circle-USDC-232M-Drift-protocol.png"
+image_url: "/images/news/Circle-USDC-232M-Drift-protocol.webp"
+featured_image: "/images/news/Circle-USDC-232M-Drift-protocol.webp"
+image: "/images/news/Circle-USDC-232M-Drift-protocol.webp"
+thumbnail: "/images/news/Circle-USDC-232M-Drift-protocol.webp"
 image_alt: "USDC and Drift exploit of 232 million dollars"
 image_credit: "Illustration"
 tags: ["crypto","usdc","circle","drift protocol","exploit","defi","hack","eth","blockchain","security","regulation"]
 summary: "Following the Drift exploit, around $232 million in USDC moved through the system without being frozen, raising questions about reaction speed and the responsibility of centralized stablecoins."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

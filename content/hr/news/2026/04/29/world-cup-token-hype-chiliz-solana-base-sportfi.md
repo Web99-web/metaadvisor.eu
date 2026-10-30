@@ -7,14 +7,15 @@ translationKey: "2262ec49cd0d01d254036978ba2e17b8"
 source: "Metaadvisor (CoinDesk, analiza tržišta)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/World-Cup-token.png"
-featured_image: "/images/World-Cup-token.png"
-image: "/images/World-Cup-token.png"
-thumbnail: "/images/World-Cup-token.png"
+image_url: "/images/World-Cup-token.webp"
+featured_image: "/images/World-Cup-token.webp"
+image: "/images/World-Cup-token.webp"
+thumbnail: "/images/World-Cup-token.webp"
 image_alt: "World Cup token hype i fan tokeni na blockchainu"
 image_credit: "Metaadvisor.eu"
 tags: ["world cup", "fan tokeni", "chiliz", "solana", "base", "crypto", "sportfi", "blockchain", "trading", "navijaci"]
 summary: "Chiliz širi fan tokene na Solanu i Base uoči Svjetskog prvenstva, ali unatoč hypeu cijena CHZ pada, otkrivajući slabosti tržišta i izazove multi-chain pristupa."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

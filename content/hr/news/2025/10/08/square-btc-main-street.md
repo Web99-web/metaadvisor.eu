@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/10/08/square-launches-bitcoin-payment-tools-for-small-businesses-expanding-crypto-access"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/square-btc-main-street.png"
-featured_image: "/images/square-btc-main-street.png"
-image: "/images/square-btc-main-street.png"
-thumbnail: "/images/square-btc-main-street.png"
+image_url: "/images/square-btc-main-street.webp"
+featured_image: "/images/square-btc-main-street.webp"
+image: "/images/square-btc-main-street.webp"
+thumbnail: "/images/square-btc-main-street.webp"
 image_alt: "Bitcoin plaćanja kroz Square terminale"
 image_credit: "Metaadvisor.eu (slika simbolična)"
 tags: ["crypto","bitcoin","payments","Square","Block","SMB","commerce","wallets","crypto-payments","main-street"]
 summary: "Square, platna platforma u vlasništvu Blocka (XYZ), uvela je alate koji omogućuju malim biznisima prihvaćanje Bitcoina bez naknada tijekom prve godine."
+categories: ["crypto"]
 ---
 
 **Square**, platna divizija kompanije **Block (SQ)**, predstavila je **Square Bitcoin** – set alata koji omogućuje malim biznisima u SAD-u da **primaju plaćanja u Bitcoinu**, automatski pretvaraju dio prometa u BTC i upravljaju digitalnim i fiat sredstvima na jedinstvenoj platformi.

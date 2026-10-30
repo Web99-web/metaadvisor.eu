@@ -16,6 +16,7 @@ image_alt: "TeraWulf Q3 profit rise"
 image_credit: "Metaadvisor.eu"
 tags: ["terawulf", "bitcoin", "mining", "usa", "profit", "hashrate", "crypto", "market", "infrastructure", "btc", "energy"]
 summary: "Američki Bitcoin rudar TeraWulf udvostručio je prihode u trećem kvartalu, potvrđujući snažan oporavak rudarske industrije u SAD-u."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

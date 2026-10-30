@@ -7,14 +7,15 @@ translationKey: "casascius_2000btc_1312_satoshi_question_hr001"
 source: "MetaAdvisor — Analyse"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-Casascius.png"
-featured_image: "/images/BTC-Casascius.png"
-image: "/images/BTC-Casascius.png"
-thumbnail: "/images/BTC-Casascius.png"
+image_url: "/images/BTC-Casascius.webp"
+featured_image: "/images/BTC-Casascius.webp"
+image: "/images/BTC-Casascius.webp"
+thumbnail: "/images/BTC-Casascius.webp"
 image_alt: "Casascius physische Bitcoin-Münzen"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","kryptowaehrung","casascius","satoshi","sicherheit","blockchain","bitcoin-geschichte","analyse"]
 summary: "Nach über einem Jahrzehnt völliger Ruhe wurden zwei Casascius-Münzen mit insgesamt 2.000 BTC plötzlich bewegt. War es der ursprüngliche Besitzer – oder jemand, der einen der seltensten Bitcoin-Artefakte der Geschichte wiederentdeckt hat?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

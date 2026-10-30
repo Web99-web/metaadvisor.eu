@@ -15,6 +15,7 @@ image_alt: "Fidelity Digital Assets i integracija kripta u Wall Street"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Fidelity Digital Assets poručuje da sljedeća faza rasta kripta neće doći iz novih tokena, već iz duboke integracije s Wall Streetom. ETF-ovi, skrbništvo i regulatorna infrastruktura postaju važniji od eksperimenta i hypea."
 tags: ["fidelity","wall-street","institucionalni-investitori","crypto","kripto","bitcoin","etf","custody","financijska-infrastruktura","regulacija"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

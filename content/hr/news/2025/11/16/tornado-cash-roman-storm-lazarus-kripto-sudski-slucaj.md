@@ -16,6 +16,7 @@ image_alt: "Tornado Cash kripto mixer"
 image_credit: "Tornado Cash / Metaadvisor.eu"
 tags: ["tornado cash", "roman storm", "privacy", "mixer", "ethereum", "zk", "zkp", "lazarus", "crypto regulation", "blockchain", "doj", "sad", "sankcije"]
 summary: "DOJ tvrdi da je imao dovoljno dokaza da developer Roman Storm nije bio samo autor koda, nego aktivni operater Tornado Casha — što mijenja način na koji se globalno regulira privatnost u kriptu."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

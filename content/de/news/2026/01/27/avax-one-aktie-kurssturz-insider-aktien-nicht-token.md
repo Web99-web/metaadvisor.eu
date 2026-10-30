@@ -7,14 +7,15 @@ translationKey: "93e721a2b5381009936d1a71ba894503"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/27/anthony-scaramucci-linked-avax-one-tumbles-30-on-uncertainty-around-shareholder-sales"
 author: "MetaAdvisor.eu"
-image_url: "/images/Avax-one-shares.png"
-featured_image: "/images/Avax-one-shares.png"
-image: "/images/Avax-one-shares.png"
-thumbnail: "/images/Avax-one-shares.png"
+image_url: "/images/Avax-one-shares.webp"
+featured_image: "/images/Avax-one-shares.webp"
+image: "/images/Avax-one-shares.webp"
+thumbnail: "/images/Avax-one-shares.webp"
 image_alt: "Kursrutsch der AVAX-One-Aktie – symbolische Marktillustration"
 image_credit: "MetaAdvisor / Illustration"
 tags: ["avax", "avax one", "aktie", "krypto", "insider", "verwässerung", "sec", "börse", "investoren", "volatilität"]
 summary: "Die Aktie von AVAX One ist um mehr als 30 % gefallen, nachdem Insider-Aktien für einen möglichen Verkauf registriert wurden. Der Kursrückgang hat nichts mit dem AVAX-Token zu tun, sondern spiegelt die Angst des Marktes vor Verwässerung wider."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777;">

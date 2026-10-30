@@ -7,14 +7,15 @@ translationKey: "strike-bitlicense-new-york-bitcoin-services"
 author: "Metaadvisor.eu"
 source: "Cointelegraph und CoinDesk"
 source_url: ""
-image_url: "/images/companies/Strike-bitlicense.png"
-featured_image: "/images/companies/Strike-bitlicense.png"
-image: "/images/companies/Strike-bitlicense.png"
-thumbnail: "/images/companies/Strike-bitlicense.png"
+image_url: "/images/companies/Strike-bitlicense.webp"
+featured_image: "/images/companies/Strike-bitlicense.webp"
+image: "/images/companies/Strike-bitlicense.webp"
+thumbnail: "/images/companies/Strike-bitlicense.webp"
 image_alt: "Strike Bitcoin payment app receives BitLicense approval in New York"
 image_credit: "Metaadvisor.eu / Illustration"
 tags: ["bitcoin","btc","krypto","strike","jack mallers","bitlicense","new york","bitcoin zahlungen","lightning network","fintech","digitale vermögenswerte"]
 summary: "Die Bitcoin-Fintech-App Strike hat eine BitLicense in New York erhalten und öffnet damit den Zugang zu einem der strengsten regulierten Kryptomärkte der Welt."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

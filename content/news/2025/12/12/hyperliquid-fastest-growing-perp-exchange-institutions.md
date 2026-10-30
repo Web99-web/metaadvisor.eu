@@ -15,6 +15,7 @@ image_alt: "Hyperliquid — next-generation decentralized perpetuals exchange"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["hyperliquid","dex","perps","derivatives","binance","dydx","institutions","defi","crypto","blockchain","trading"]
 summary: "Hyperliquid has become the fastest-growing decentralized perpetuals exchange — powered by its own L1 blockchain, deep liquidity and a CEX-grade trading engine built entirely on-chain."
+categories: ["crypto"]
 ---
 
 <div class="cta">

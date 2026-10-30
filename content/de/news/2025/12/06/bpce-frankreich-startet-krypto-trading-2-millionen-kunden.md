@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/12/06/french-banking-giant-bpce-to-roll-out-crypto-trading-for-2m-retail-clients"
 author: "CoinDesk — Übersetzung und Analyse von MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/France-BPCE-bank-crypto.png"
-featured_image: "/images/France-BPCE-bank-crypto.png"
-image: "/images/France-BPCE-bank-crypto.png"
-thumbnail: "/images/France-BPCE-bank-crypto.png"
+image_url: "/images/France-BPCE-bank-crypto.webp"
+featured_image: "/images/France-BPCE-bank-crypto.webp"
+image: "/images/France-BPCE-bank-crypto.webp"
+thumbnail: "/images/France-BPCE-bank-crypto.webp"
 image_alt: "BPCE-Bank startet Krypto-Trading in Frankreich"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["krypto","bitcoin","btc","ethereum","eth","solana","sol","usdc","frankreich","banken","finanzen","europa","regulierung","krypto-handel"]
 summary: "BPCE, die drittgrößte Bankengruppe Frankreichs, startet Krypto-Trading für zwei Millionen Kunden. Nutzer können BTC, ETH, SOL und USDC direkt in den Apps von Banque Populaire und Caisse d’Épargne kaufen und verkaufen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

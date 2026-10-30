@@ -8,6 +8,7 @@ summary: "After sharp corrections, speculators are asking whether Trump Coin ($T
 tags: ["crypto","Trump","memecoin","growth"]
 image_url: "https://tse2.mm.bing.net/th/id/OIP.d2IzgNO-q7rhz90ndlVa_QHaE1?pid=Api"
 image_url_small: "https://tse2.mm.bing.net/th/id/OIP.d2IzgNO-q7rhz90ndlVa_QHaE1?pid=Api"
+categories: ["crypto"]
 ---
 
 ![Trump Coin illustration](https://tse2.mm.bing.net/th/id/OIP.d2IzgNO-q7rhz90ndlVa_QHaE1?pid=Api)

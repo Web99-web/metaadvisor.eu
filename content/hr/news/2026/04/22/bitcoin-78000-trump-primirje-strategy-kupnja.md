@@ -15,6 +15,7 @@ image_alt: "Bitcoin prelazi 78000 dolara rast tržišta"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["bitcoin","btc","crypto","kripto","ethereum","eth","solana","tržište","geopolitika","ETF","institutional investors","crypto market","blockchain"]
 summary: "Bitcoin prelazi $78.000 potaknut kombinacijom geopolitike, institucionalnih kupnji i snažnih priljeva kapitala, što signalizira mogući nastavak trenda."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

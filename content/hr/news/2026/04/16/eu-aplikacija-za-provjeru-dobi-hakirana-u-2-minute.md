@@ -7,14 +7,15 @@ translationKey: "eu-age-verification-app-security-flaw-2026"
 author: "Metaadvisor.eu"
 source: "X (Twitter), javne objave"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/news/EU-age-verification-app-hacked.png"
-featured_image: "/images/news/EU-age-verification-app-hacked.png"
-image: "/images/news/EU-age-verification-app-hacked.png"
-thumbnail: "/images/news/EU-age-verification-app-hacked.png"
+image_url: "/images/news/EU-age-verification-app-hacked.webp"
+featured_image: "/images/news/EU-age-verification-app-hacked.webp"
+image: "/images/news/EU-age-verification-app-hacked.webp"
+thumbnail: "/images/news/EU-age-verification-app-hacked.webp"
 image_alt: "EU age verification app security flaw bypass"
 image_credit: "Metaadvisor ilustracija"
 tags: ["eu", "provjera dobi", "sigurnost", "hakiranje", "privatnost", "digitalni identitet", "sigurnosni propust"]
 summary: "Sigurnosni konzultant pokazao je kako se EU aplikacija za provjeru dobi može zaobići u manje od dvije minute zbog ozbiljnog dizajnerskog propusta."
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

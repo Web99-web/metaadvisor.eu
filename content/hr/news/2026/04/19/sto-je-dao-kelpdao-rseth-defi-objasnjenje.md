@@ -7,14 +7,15 @@ translationKey: "dao-kelpdao-rseth-explainer-2026"
 source: "Metaadvisor (edukativna analiza, DeFi izvori)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/DAO-KelpDAO-rsETH.png"
-featured_image: "/images/DAO-KelpDAO-rsETH.png"
-image: "/images/DAO-KelpDAO-rsETH.png"
-thumbnail: "/images/DAO-KelpDAO-rsETH.png"
+image_url: "/images/DAO-KelpDAO-rsETH.webp"
+featured_image: "/images/DAO-KelpDAO-rsETH.webp"
+image: "/images/DAO-KelpDAO-rsETH.webp"
+thumbnail: "/images/DAO-KelpDAO-rsETH.webp"
 image_alt: "Objašnjenje DAO, KelpDAO i rsETH u DeFi sustavu"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "defi", "dao", "kelpdao", "rseth", "ethereum", "edukacija", "blockchain"]
 summary: "Jednostavno objašnjenje što su DAO, KelpDAO i rsETH te kako funkcioniraju u DeFi sustavu i koji su njihovi ključni rizici."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

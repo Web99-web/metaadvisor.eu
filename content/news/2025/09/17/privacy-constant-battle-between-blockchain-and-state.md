@@ -16,6 +16,7 @@ image_alt: "Crypto future — privacy and regulation"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["privacy","blockchain","regulation","surveillance","crypto","metaadvisor"]
 summary: "Between blockchain and state oversight, privacy isn’t a state but a process. As networks scale, so does pressure for visibility and compliance."
+categories: ["ai"]
 ---
 
 In crypto, privacy is often treated like a feature switch—on or off. In practice, it’s a **constant battle**. Every step toward usability and mass adoption invites **stronger institutional interest**: tax authorities, financial watchdogs, law enforcement. The early phase belonged to builders of **pseudonymity** and **self-custody**; the mature phase increasingly demands **rules**—usually enforced via **intermediaries** like exchanges, custodians and token issuers.

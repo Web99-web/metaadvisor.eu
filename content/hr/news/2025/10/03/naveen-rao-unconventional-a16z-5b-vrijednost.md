@@ -32,6 +32,7 @@ tags:
   - MosaicML
   - Naveen Rao
 summary: "Naveen Rao (MosaicML/Databricks) prikuplja do $1B za novi AI hardverski startup Unconventional, uz ciljanu valuaciju $5B i backing a16z, Lightspeed, Lux — navodno sudjeluje i Databricks."
+categories: ["ai"]
 ---
 
 **Što se događa?**  

@@ -9,6 +9,7 @@ summary: "Modeli za izviđanje, spašavanje, presretanje i napad mijenjaju nači
 tags: ["ai", "dronovi", "ukrajina", "rusija", "fpv", "vojna-tehnologija", "fronta", "izviđanje"]
 image_url: "https://images.pexels.com/photos/2050718/pexels-photo-2050718.jpeg?cs=srgb&dl=pexels-bohlemedia-2050718.jpg&fm=jpg"
 image_source: "Pexels – https://www.pexels.com/photo/black-and-white-photo-of-drone-2050718/"
+categories: ["ai"]
 ---
 
 Modeli za izviđanje, spašavanje, presretanje i napad mijenjaju način djelovanja obje strane.

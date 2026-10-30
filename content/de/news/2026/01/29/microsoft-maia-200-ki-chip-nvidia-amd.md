@@ -7,14 +7,15 @@ translationKey: "21fe1c78fa6d86f83124ca53a51534f7"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/"
 author: "Metaadvisor.eu"
-image_url: "/images/Microsoft-Maia-200-AI-chip.png"
-featured_image: "/images/Microsoft-Maia-200-AI-chip.png"
-image: "/images/Microsoft-Maia-200-AI-chip.png"
-thumbnail: "/images/Microsoft-Maia-200-AI-chip.png"
+image_url: "/images/Microsoft-Maia-200-AI-chip.webp"
+featured_image: "/images/Microsoft-Maia-200-AI-chip.webp"
+image: "/images/Microsoft-Maia-200-AI-chip.webp"
+thumbnail: "/images/Microsoft-Maia-200-AI-chip.webp"
 image_alt: "Microsoft Maia 200 KI-Chip – Illustration"
 image_credit: "MetaAdvisor.eu"
 tags: ["microsoft", "ki", "kuenstliche-intelligenz", "ai-chips", "nvidia", "amd", "azure", "cloud-computing", "rechenzentren", "technologie"]
 summary: "Microsoft stellt mit Maia 200 seinen eigenen KI-Chip vor, betont jedoch, dass die Zusammenarbeit mit Nvidia und AMD weitergeht – die KI-Zukunft basiert auf Parallelentwicklung, nicht auf Ersatz."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

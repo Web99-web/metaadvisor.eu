@@ -3,15 +3,15 @@ title: "Was the ‘Big Short’ on 10.10 a hostile takeover by banks and institu
 slug: "who-attacked-bitcoin-1010-banks-hostile-takeover"
 date: 2025-11-24T10:00:00Z
 category: "crypto"
-translationKey: "attack_1010_btc_banks_20251124"
+translationKey: "attack_1010_btc_banks_20251124--2025-11-24"
 source: "MetaAdvisor – analysis + social media commentary (Ran, Hayes, Dixon)"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/BTC-10.10-who-attacked.png"
-featured_image: "/images/BTC-10.10-who-attacked.png"
-image: "/images/BTC-10.10-who-attacked.png"
-thumbnail: "/images/BTC-10.10-who-attacked.png"
+image_url: "/images/BTC-10.10-who-attacked.webp"
+featured_image: "/images/BTC-10.10-who-attacked.webp"
+image: "/images/BTC-10.10-who-attacked.webp"
+thumbnail: "/images/BTC-10.10-who-attacked.webp"
 image_alt: "Who attacked Bitcoin on 10.10 — illustration"
 image_credit: "MetaAdvisor.eu"
 tags: [
@@ -22,6 +22,7 @@ tags: [
   "finance", "financing"
 ]
 summary: "More and more analysts argue that the Bitcoin crash on 10.10 was not natural, but a coordinated institutional attack on Microstrategy — aiming to buy cheap BTC and take control of the market."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

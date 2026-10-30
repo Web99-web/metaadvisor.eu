@@ -8,6 +8,7 @@ source_url: "https://metaadvisor.eu/"
 summary: "World Liberty Financial (WLFI) burned 47 million tokens in an attempt to lift its price, but bearish pressure persists."
 tags: ["WLFI", "crypto", "token burn", "altcoin", "defi"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/3/36/Fire_icon.png"
+categories: ["crypto"]
 ---
 
 **World Liberty Financial (WLFI)** has burned **47 million tokens** in an attempt to boost its price amid a continued slide.  

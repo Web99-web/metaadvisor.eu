@@ -7,14 +7,15 @@ translationKey: "ab1841f1-bf38-4703-8d7d-7d29c9ff9f42"
 source: "Bitcoin.org, CryptoHistory Archive"
 source_url: "https://bitcoin.org/bitcoin.pdf"
 author: "Metaadvisor.eu"
-image_url: "/images/Satoshi-Nakamoto1.png"
-featured_image: "/images/Satoshi-Nakamoto1.png"
-image: "/images/Satoshi-Nakamoto1.png"
-thumbnail: "/images/Satoshi-Nakamoto1.png"
+image_url: "/images/Satoshi-Nakamoto1.webp"
+featured_image: "/images/Satoshi-Nakamoto1.webp"
+image: "/images/Satoshi-Nakamoto1.webp"
+thumbnail: "/images/Satoshi-Nakamoto1.webp"
 image_alt: "Mysterious masked figure symbolising Satoshi Nakamoto’s anonymity"
 image_credit: "Metaadvisor.eu — illustrative image."
 tags: ["bitcoin","btc","satoshi","nakamoto","crypto","history","mystery","blockchain","whitepaper","patoshi","founder","identity"]
 summary: "Satoshi Nakamoto — the creator of Bitcoin and author of the 2008 whitepaper — remains anonymous. Here’s a concise overview of the facts, leading theories and potential motives behind crypto’s biggest mystery."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

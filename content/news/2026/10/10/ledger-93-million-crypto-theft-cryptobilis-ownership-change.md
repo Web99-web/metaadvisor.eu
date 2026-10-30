@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Ledger", "CryptoBilis", "crypto theft", "cryptocurrency", "hardware wallet", "blockchain", "Bitcoin", "Ethereum", "supply chain attack", "cybersecurity"]
 description: "Ledger investigates suspected cryptocurrency losses of $92.9 million. Reseller CryptoBilis changed ownership months before the incident, while a confidentiality agreement delayed public disclosure."
 summary: "Ledger is investigating the suspected theft of nearly $93 million in cryptocurrency associated with hardware wallets sold through CryptoBilis. The reseller changed ownership in 2026, and its former founders say a confidentiality agreement delayed the public announcement until mid-October. Claims of potentially compromised devices are also under scrutiny."
+categories: ["crypto"]
 ---
 
 *Image is illustrative.*

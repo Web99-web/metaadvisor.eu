@@ -7,14 +7,15 @@ translationKey: "openai-prediction-markets-insider-2026"
 author: "Metaadvisor.eu"
 source: "TechCrunch (analysis and expansion by Metaadvisor.eu)"
 source_url: ""
-image_url: "/images/Open-AI-confidential1.png"
-featured_image: "/images/Open-AI-confidential1.png"
-image: "/images/Open-AI-confidential1.png"
-thumbnail: "/images/Open-AI-confidential1.png"
+image_url: "/images/Open-AI-confidential1.webp"
+featured_image: "/images/Open-AI-confidential1.webp"
+image: "/images/Open-AI-confidential1.webp"
+thumbnail: "/images/Open-AI-confidential1.webp"
 image_alt: "OpenAI logo with confidential and insider trading references"
 image_credit: "Illustration: MetaAdvisor"
 tags: ["openai", "artificial intelligence", "ai", "prediction markets", "polymarket", "kalshi", "insider trading", "regulation", "tech sector", "ipo", "financial markets"]
 summary: "OpenAI has fired an employee for allegedly using confidential information while trading on prediction markets such as Polymarket. The case raises broader questions about insider trading, AI governance and financial regulation."
+categories: ["ai"]
 ---
 
 # OpenAI Fires Employee Over Use of Confidential Information on Prediction Markets

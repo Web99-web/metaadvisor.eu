@@ -15,6 +15,7 @@ image_alt: "KI-Browser Atlas — Sicherheitsrisiken"
 image_credit: "Das Bild ist symbolisch."
 tags: ["Atlas", "ChatGPT", "KI-Browser", "Sicherheit", "Sicherheitsproblem", "Sicherheitslücke", "Prompt Injection", "Clipboard", "Browser", "Agent Mode"]
 summary: "Atlas ist ein neuer KI-Browser auf Basis von ChatGPT. Er bringt einen Agent-Modus, eröffnet jedoch auch ein mögliches Sicherheitsproblem. Hier sind die Risiken und Schutzmaßnahmen."
+categories: ["ai"]
 ---
 
 **Worum geht’s?**

@@ -15,6 +15,7 @@ image_alt: "Bitcoin cijena iznad 77000 uz pritisak prodaje i institucionalni hed
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "kripto", "trading", "derivatives", "futures", "hedging", "profit taking", "market", "volatilnost", "investitori", "analiza", "blockchain"]
 summary: "Bitcoin prelazi 77.400 USD uz snažan volumen, ali rast ograničavaju institucionalni hedge, realizacija profita i povećani dotok BTC-a na burze."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

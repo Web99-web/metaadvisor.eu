@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/02/01/single-trader-just-lost-usd220-million-as-ether-plunged-10"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/whale-liquidated.png"
-featured_image: "/images/whale-liquidated.png"
-image: "/images/whale-liquidated.png"
-thumbnail: "/images/whale-liquidated.png"
+image_url: "/images/whale-liquidated.webp"
+featured_image: "/images/whale-liquidated.webp"
+image: "/images/whale-liquidated.webp"
+thumbnail: "/images/whale-liquidated.webp"
 image_alt: "Whale liquidated – simboličan prikaz velike kripto likvidacije"
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto", "kripto", "ethereum", "ether", "eth", "likvidacije", "whale", "leverage", "derivati", "tržišni pad"]
 summary: "Masovni pad Ethereuma izazvao je lanac prisilnih likvidacija vrijedan gotovo $2,6 mlrd., uključujući jednu whale poziciju tešku više od $220 mil. Događaj naglašava rizike trgovanja s polugom u uvjetima tanke likvidnosti."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777;">

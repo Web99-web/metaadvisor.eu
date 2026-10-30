@@ -8,14 +8,15 @@ source: "The Guardian"
 source_url: "https://www.theguardian.com/technology/2026/feb/05/london-man-sainsburys-facial-recognition-facewatch"
 author: "The Guardian"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/sainsburys-facial-recognition.png"
-featured_image: "/images/sainsburys-facial-recognition.png"
-image: "/images/sainsburys-facial-recognition.png"
-thumbnail: "/images/sainsburys-facial-recognition.png"
+image_url: "/images/sainsburys-facial-recognition.webp"
+featured_image: "/images/sainsburys-facial-recognition.webp"
+image: "/images/sainsburys-facial-recognition.webp"
+thumbnail: "/images/sainsburys-facial-recognition.webp"
 image_alt: "Use of facial recognition systems in retail"
 image_credit: "Symbolic image / MetaAdvisor.eu"
 tags: ["ai", "artificial intelligence", "facial recognition", "surveillance", "privacy", "sainsburys", "facewatch", "retail", "human rights"]
 summary: "A customer was wrongly identified in a London Sainsbury’s store using facial recognition technology, reigniting debate over the reliability of AI surveillance and civil rights."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

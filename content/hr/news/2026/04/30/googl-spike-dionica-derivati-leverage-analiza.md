@@ -15,6 +15,7 @@ image_alt: "GOOGL spike analiza dionice i derivata"
 image_credit: "Metaadvisor.eu"
 tags: ["google", "googl", "ai", "derivatives", "trading", "stock market", "crypto", "leverage", "short squeeze"]
 summary: "GOOGL nije samo skočio — stvarni rast dionice i leverage efekt derivata zajedno su stvorili nagli spike na tržištu."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

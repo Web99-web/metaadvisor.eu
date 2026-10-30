@@ -7,14 +7,15 @@ translationKey: "hype_uptrend_vs_market_20260126"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/HYPE-up1.png"
-featured_image: "/images/HYPE-up1.png"
-image: "/images/HYPE-up1.png"
-thumbnail: "/images/HYPE-up1.png"
+image_url: "/images/HYPE-up1.webp"
+featured_image: "/images/HYPE-up1.webp"
+image: "/images/HYPE-up1.webp"
+thumbnail: "/images/HYPE-up1.webp"
 image_alt: "HYPE-Token mit Aufwärtspfeil – Symbol für Kursanstieg"
 image_credit: "MetaAdvisor.eu"
 tags: ["hype", "hyperliquid", "krypto", "altcoins", "trend", "bitcoin", "ethereum", "solana", "xrp"]
 summary: "Während Bitcoin und große Kryptowährungen in eine Konsolidierungsphase eintreten, hebt sich HYPE in den letzten Tagen durch einen klaren Aufwärtstrend hervor."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

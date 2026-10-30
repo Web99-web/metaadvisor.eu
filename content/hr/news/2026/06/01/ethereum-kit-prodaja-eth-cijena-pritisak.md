@@ -15,6 +15,7 @@ image_alt: "Ethereum whale prodaja ETH i pritisak na cijenu Ethera"
 image_credit: "MetaAdvisor.eu"
 tags: ["Ethereum", "Ether", "ETH", "Ethereum kit", "ETH whale", "stari Ethereum novčanik", "prodaja ETH", "Ethereum OG", "Lookonchain", "onchain podaci", "HODL waves", "kripto tržište", "altcoini", "cijena Ethera", "ETH analiza", "Bitcoin", "BTC", "HYPE", "rotacija kapitala", "kripto sentiment", "Metaadvisor"]
 summary: "Stari Ethereum investitor prodao je ETH vrijedan oko 136 milijuna dolara, što je izazvalo strah da bi Ether mogao pasti još niže. Ipak, onchain podaci zasad ne pokazuju masovni izlazak dugoročnih Ethereum holdera, nego više pritisak kratkoročnih ulagača i tržišnog sentimenta."
+categories: ["kripto"]
 ---
 
 <small><em>Slika je simbolična.</em></small>

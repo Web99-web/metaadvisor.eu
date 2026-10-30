@@ -7,14 +7,15 @@ translationKey: "binance_adgm_3_licenses_08122025"
 source: "MetaAdvisor – analiza Cointelegraph vijesti"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Binance-3-adgm-licenses.png"
-featured_image: "/images/Binance-3-adgm-licenses.png"
-image: "/images/Binance-3-adgm-licenses.png"
-thumbnail: "/images/Binance-3-adgm-licenses.png"
+image_url: "/images/Binance-3-adgm-licenses.webp"
+featured_image: "/images/Binance-3-adgm-licenses.webp"
+image: "/images/Binance-3-adgm-licenses.webp"
+thumbnail: "/images/Binance-3-adgm-licenses.webp"
 image_alt: "Binance 3 ADGM licenses – techno stil"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["binance","adgm","fsra","abu-dhabi","regulativa","kriptovalute","burze","institucije","upravljenje","analiza"]
 summary: "Binance je dobio tri ključne licence od ADGM regulatora u Abu Dhabiju, čime prvi put ulazi u potpuno regulirani međunarodni okvir — burza, clearing i broker-dealer pod istim nadzorom."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

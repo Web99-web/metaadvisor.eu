@@ -7,8 +7,8 @@ translationKey: "stripe_bridge_tempo_stablecoins_20260225"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2026/02/24/stripe-s-bridge-sees-stablecoin-volume-quadruple-as-utility-insulates-from-crypto-winter"
 author: "MetaAdvisor.eu"
-image_url: "/images/Stripe-Bridge-Tempo-stablecoins.png"
-featured_image: "/images/Stripe-Bridge-Tempo-stablecoins.png"
+image_url: "/images/Stripe-Bridge-Tempo-stablecoins.webp"
+featured_image: "/images/Stripe-Bridge-Tempo-stablecoins.webp"
 image_alt: "Stripe, Bridge and Tempo in the context of stablecoin growth"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Stripe highlights strong stablecoin growth despite a weaker crypto market. Its Bridge platform quadrupled volume while the company prepares to launch its payments-focused blockchain, Tempo."
@@ -19,6 +19,7 @@ tags:
   - tempo
   - fintech
   - crypto
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

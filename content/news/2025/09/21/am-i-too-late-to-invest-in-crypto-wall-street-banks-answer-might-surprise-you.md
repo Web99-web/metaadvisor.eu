@@ -16,6 +16,7 @@ image_alt: "Bitcoin and Ethereum — illustrative comparison"
 image_credit: "Metaadvisor image_map (symbolic image)"
 tags: ["crypto", "institutions", "Wall-Street", "Jefferies", "Bitcoin", "Ethereum", "ETFs", "RWA", "tokenization", "infrastructure", "custody", "compliance", "risk", "capital-allocation", "DCA", "market-cycle"]
 summary: "Jefferies tells big clients that crypto is still in a ‘1996’ phase — early, but with clear growth signals. Here’s what that means for allocation beyond just Bitcoin."
+categories: ["crypto"]
 ---
 
 **Summary:**  

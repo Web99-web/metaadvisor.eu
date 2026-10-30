@@ -7,10 +7,10 @@ translationKey: "blackrock-ga-66m-ibit"
 author: "Metaadvisor.eu"
 source: "Portfolioberichte (SEC Filings), Branchenberichte"
 source_url: ""
-image_url: "/images/Blackrock-66m-en.png"
-featured_image: "/images/Blackrock-66m-en.png"
-image: "/images/Blackrock-66m-en.png"
-thumbnail: "/images/Blackrock-66m-en.png"
+image_url: "/images/Blackrock-66m-en.jpg"
+featured_image: "/images/Blackrock-66m-en.jpg"
+image: "/images/Blackrock-66m-en.jpg"
+thumbnail: "/images/Blackrock-66m-en.jpg"
 image_alt: "BlackRock und Bitcoin — symbolische Darstellung"
 image_credit: "Metaadvisor.eu"
 
@@ -27,6 +27,7 @@ tags:
   - Märkte
 
 summary: "BlackRocks Global Allocation Fund hält rund 66 Mio. $ an Bitcoin-Exposure — jedoch über den iShares Bitcoin Trust (IBIT), einen Spot-BTC-ETF. Das Signal: Institutionen nutzen ETFs, um in BTC zu investieren."
+categories: ["crypto"]
 ---
 
 > **Hinweis:** Symbolisches Bild. Dieser Beitrag fasst die wichtigsten Fakten zusammen; die Zahlen hängen vom jeweiligen Berichtsdatum ab.

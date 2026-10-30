@@ -7,14 +7,15 @@ translationKey: "c9f7a12e4b8d4e2a9c6f1b3d7a8e5f21"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "Bewegung der Ölpreise Brent und WTI auf dem globalen Markt"
 image_credit: "Metaadvisor.eu"
 tags: ["öl", "brent", "wti", "ölmarkt", "geopolitik", "inflation", "energie", "globaler markt", "ölpreise", "krise", "krieg", "wirtschaft"]
 summary: "Nach einem plötzlichen Rückgang der Ölpreise infolge von Waffenstillstands-Nachrichten erholte sich der Markt ebenso schnell. Es zeigt sich, dass heute nicht die Wirtschaft, sondern die Geopolitik die Preise bestimmt."
+categories: ["markt"]
 ---
 
 Öl ist gefallen — aber nur so lange, wie der Waffenstillstand hielt.

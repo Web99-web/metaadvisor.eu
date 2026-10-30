@@ -6,15 +6,16 @@ category: "Cybersecurity"
 translationKey: "gta-6-leaker-own-meme-token-solana-2026-08-20"
 source: "CyberLeek, The Verge, PC Gamer, GamesRadar, Le Monde, DEX Screener, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/games/GTA-6-leaker-has-his-own-meme-token.png"
-featured_image: "/images/games/GTA-6-leaker-has-his-own-meme-token.png"
-image: "/images/games/GTA-6-leaker-has-his-own-meme-token.png"
-thumbnail: "/images/games/GTA-6-leaker-has-his-own-meme-token.png"
+image_url: "/images/games/GTA-6-leaker-has-his-own-meme-token.webp"
+featured_image: "/images/games/GTA-6-leaker-has-his-own-meme-token.webp"
+image: "/images/games/GTA-6-leaker-has-his-own-meme-token.webp"
+thumbnail: "/images/games/GTA-6-leaker-has-his-own-meme-token.webp"
 image_alt: "GTA 6 leaker CyberLeek promotes his own meme token on the Solana blockchain"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["GTA 6", "GTA VI", "CyberLeek", "Rockstar Games", "Take-Two", "Solana", "meme token", "crypto", "gaming", "cybersecurity"]
 description: "CyberLeek is publishing alleged GTA VI gameplay footage, a manifesto against gaming industry practices and, at the same time, promoting its own meme token on Solana."
 summary: "The GTA VI leak has turned into an unusual mix of gaming, cyber activism and crypto: CyberLeek is publishing gameplay, making demands of publishers and promoting the $CYBERLEEK meme token."
+categories: ["Cybersecurity"]
 ---
 
 *The image is symbolic.*

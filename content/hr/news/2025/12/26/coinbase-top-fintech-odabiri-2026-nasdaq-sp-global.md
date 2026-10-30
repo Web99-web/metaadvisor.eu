@@ -16,6 +16,7 @@ image_alt: "Coinbase uz Nasdaq i S&P Global kao top fintech odabiri za 2026."
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto","bitcoin","btc","coinbase","fintech","nasdaq","sp500","stablecoin","usdc","blockchain","kripto"]
 summary: "Wall Street sve češće gleda na Coinbase kao temeljnu financijsku infrastrukturu, a ne samo kripto burzu. Analitičari ga za 2026. svrstavaju uz Nasdaq i S&P Global kao jedan od ključnih fintech stupova."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

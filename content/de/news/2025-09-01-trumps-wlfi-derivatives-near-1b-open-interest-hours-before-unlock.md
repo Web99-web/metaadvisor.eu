@@ -9,6 +9,7 @@ summary: "Das offene Interesse an WLFI-Futures stieg wenige Stunden vor der Toke
 tags: ["Trump","WLFI","Derivate","Futures","Open-Interest","Krypto","Binance","DeFi"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvZDQ0NzFiYWItZmUwMy00ZWI1LTg5OTEtMzBkMGM3ZGE5N2U4LmpwZw==.jpg"
 image_url_small: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvZDQ0NzFiYWItZmUwMy00ZWI1LTg5OTEtMzBkMGM3ZGE5N2U4LmpwZw==.jpg"
+categories: ["news"]
 ---
 
 Das Futures-Marktinteresse an **World Liberty Financial (WLFI)**, einem mit der Trump-Familie verbundenen Token, hat kurz vor der Token-Freigabe fast 1 Mrd. USD erreicht.  

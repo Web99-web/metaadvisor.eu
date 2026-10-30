@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/23/aave-leads-top-40-crypt
 summary: "AAVE surged 19% in a day to lead the top 40 cryptos by daily percentage gain."
 # keep your current image/image_url as is
 tags: ["aave","defi","crypto","aptos","chainlink","powell","fed"]
+categories: ["news"]
 ---
 
 AAVE surged nearly 19% to $355 over the past 24 hours, according to CoinDesk Data, leading the top 40 cryptocurrencies by percentage daily gain as investors responded to its recent Aptos expansion and Federal Reserve Chair Jerome Powell’s dovish remarks.

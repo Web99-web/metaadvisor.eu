@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/09/05/legislation-steering-u-s
 summary: "Senatski odbor za bankarstvo objavio je novi nacrt zakona o kripto tržištima koji uključuje zaštitu developera, pravila o stečaju i smjernice za tokenizaciju."
 tags: ["crypto", "clarity act", "us regulation", "senate", "sec", "cftc", "law", "policy"]
 image_url: "/images/financial-chart.jpg"
+categories: ["crypto"]
 ---
 
 **Američki Senat** nastavlja rad na ključnom zakonu za industriju kriptovaluta — **Clarity Act**, kojim bi se konačno postavila regulatorna struktura kripto tržišta u SAD-u. U petak je kružila nova verzija nacrta zakona koja detaljno obrađuje zaštitu developera, pravila o stečaju i ulogu regulatora u tokenizaciji financijskih tržišta.  

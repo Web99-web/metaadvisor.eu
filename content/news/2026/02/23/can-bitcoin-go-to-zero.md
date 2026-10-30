@@ -7,14 +7,15 @@ translationKey: "btc-can-go-to-zero-2026"
 source: "Market analysis"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-to-zero.png"
-featured_image: "/images/BTC-to-zero.png"
-image: "/images/BTC-to-zero.png"
-thumbnail: "/images/BTC-to-zero.png"
+image_url: "/images/BTC-to-zero.webp"
+featured_image: "/images/BTC-to-zero.webp"
+image: "/images/BTC-to-zero.webp"
+thumbnail: "/images/BTC-to-zero.webp"
 image_alt: "Can Bitcoin go to zero – market psychology analysis"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["bitcoin", "btc", "crypto", "can bitcoin go to zero", "google trends", "market cycles", "bull run", "volatility", "crypto analysis", "blockchain", "investing"]
 summary: "‘Can Bitcoin go to zero?’ is currently one of the most searched Google queries in crypto. But the question reflects market psychology far more than a realistic probability of total collapse."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

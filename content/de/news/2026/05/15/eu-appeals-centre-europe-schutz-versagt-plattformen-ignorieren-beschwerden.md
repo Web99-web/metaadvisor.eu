@@ -7,14 +7,15 @@ translationKey: "eu-protection-fails-platforms-ignore-user-appeals"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
-featured_image: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
-image: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
-thumbnail: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+image_url: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
+featured_image: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
+image: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
+thumbnail: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
 image_alt: "EU-Schutz und gesperrte Social-Media-Nutzer Facebook, Instagram"
 image_credit: "Metaadvisor.eu"
 tags: ["eu", "dsa", "ai moderation", "appeals centre europe", "plattformen", "beschwerden", "digitale rechte", "facebook", "instagram", "messenger", "business suite"]
 summary: "Das EU-System zum Schutz von Nutzern verspricht Sicherheit, doch in der Praxis ignorieren Plattformen Beschwerden und Entscheidungen des Appeals Centre sind nicht rechtlich bindend."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.7;">

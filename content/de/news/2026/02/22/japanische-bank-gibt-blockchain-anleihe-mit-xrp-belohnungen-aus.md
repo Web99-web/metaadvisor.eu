@@ -7,14 +7,15 @@ translationKey: "sbi-japan-blockchain-bond-xrp-2026"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/"
 author: "Metaadvisor.eu"
-image_url: "/images/Japan-bank-xrp.png"
-featured_image: "/images/Japan-bank-xrp.png"
-image: "/images/Japan-bank-xrp.png"
-thumbnail: "/images/Japan-bank-xrp.png"
+image_url: "/images/Japan-bank-xrp.webp"
+featured_image: "/images/Japan-bank-xrp.webp"
+image: "/images/Japan-bank-xrp.webp"
+thumbnail: "/images/Japan-bank-xrp.webp"
 image_alt: "Japanische Bank emittiert Blockchain-Anleihe mit XRP-Belohnungen"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["japan", "japanische bank", "SBI", "anleihe", "bond", "blockchain", "XRP", "Ripple", "krypto", "tokenisierung", "institutionen", "finanzen", "digitale vermögenswerte"]
 summary: "Eine japanische Finanzgruppe emittiert eine Anleihe auf der Blockchain mit XRP-Belohnungen für Investoren. Der Schritt signalisiert eine tiefere Integration von traditionellen Finanzmärkten und Krypto-Infrastruktur."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/05/michael-saylor-s-strat
 summary: "Robinhood je neočekivano dodan u S&P 500, podižući cijenu dionice za 7% nakon zatvaranja tržišta."
 tags: ["crypto", "mstr", "michael saylor", "bitcoin", "sp500", "robinhood", "stocks"]
 image_url: "/images/grafikon-manji2.jpg"
+categories: ["news"]
 ---
 
 **Strategy (MSTR)** Michaela Saylora u petak nije dodan u indeks **S&P 500**, unatoč snažnim očekivanjima nakon što je kompanija ostvarila jedan od najboljih kvartala u povijesti i zadovoljila sve kriterije za uključivanje.  

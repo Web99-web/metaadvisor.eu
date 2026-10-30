@@ -28,6 +28,7 @@ tags:
   - groww
   - ecommerce
 summary: "Flipkart steht kurz vor der Genehmigung, seinen Hauptsitz von Singapur nach Indien zu verlegen – mit Abschluss bis Jahresende und einem möglichen Inlands-IPO bereits 2026."
+categories: ["ai"]
 ---
 
 **Kurz:** **Flipkart** (Walmart) treibt die **Verlegung des Hauptsitzes** von **Singapur nach Indien** voran, um sich auf einen **Inlands-IPO** vorzubereiten (möglich bereits **2026**). Laut TechCrunch liegt eine **grundsätzliche Genehmigung** eines singapurischen Gerichts vor; in Indien fanden **Anhörungen vor dem NCLAT** statt. Der Umzug soll **in den kommenden Monaten** erfolgen – im Einklang mit der **Festtagssaison**, einer besonders umsatzstarken Zeit.

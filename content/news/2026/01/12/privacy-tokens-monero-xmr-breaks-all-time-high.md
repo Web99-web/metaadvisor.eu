@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/12/privacy-tokens-rally-as-xmr-breaks-all-time-high"
 author: "CoinDesk"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Monero-XMR-up.png"
-featured_image: "/images/Monero-XMR-up.png"
-image: "/images/Monero-XMR-up.png"
-thumbnail: "/images/Monero-XMR-up.png"
+image_url: "/images/Monero-XMR-up.webp"
+featured_image: "/images/Monero-XMR-up.webp"
+image: "/images/Monero-XMR-up.webp"
+thumbnail: "/images/Monero-XMR-up.webp"
 image_alt: "Monero XMR reaches a new all-time high and leads the rally in privacy tokens"
 image_credit: "MetaAdvisor.eu / symbolic illustration"
 tags:
@@ -25,6 +25,7 @@ tags:
   - zcash
   - regulation
 summary: "Monero (XMR) briefly broke a new all-time high before stabilizing slightly lower, as interest in privacy tokens returns. Growing concerns around regulation and surveillance are bringing privacy-focused crypto back into focus."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-6px;">

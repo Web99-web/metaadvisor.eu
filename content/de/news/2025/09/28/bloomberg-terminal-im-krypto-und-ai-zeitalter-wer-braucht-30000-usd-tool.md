@@ -9,10 +9,10 @@ author: "Metaadvisor.eu"
 source: "Metaadvisor Analyse"
 source_url: ""
 
-image_url: "/images/Bloomberg-terminal.png"
-featured_image: "/images/Bloomberg-terminal.png"
-image: "/images/Bloomberg-terminal.png"
-thumbnail: "/images/Bloomberg-terminal.png"
+image_url: "/images/Bloomberg-terminal.webp"
+featured_image: "/images/Bloomberg-terminal.webp"
+image: "/images/Bloomberg-terminal.webp"
+thumbnail: "/images/Bloomberg-terminal.webp"
 image_alt: "Bloomberg Terminal – zentrale Schaltfläche der Weltfinanz (symbolisch)"
 image_credit: "Metaadvisor.eu"
 
@@ -30,6 +30,7 @@ tags:
   - Analytics
 
 summary: "Der Bloomberg Terminal bleibt der Goldstandard für Institutionen. Mit Krypto- und KI-Tools stellt sich die Frage: Braucht ihn heute noch jeder? Unser Fazit: Für die meisten nicht – für Profis in Anleihen/FX/OTC weiterhin unverzichtbar."
+categories: ["finance"]
 ---
 
 > **Hinweis:** Symbolisches Bild.

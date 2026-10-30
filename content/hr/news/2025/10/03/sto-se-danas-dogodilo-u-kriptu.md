@@ -3,7 +3,7 @@ title: "Što se danas dogodilo u kriptu"
 slug: "sto-se-danas-dogodilo-u-kriptu"
 date: 2025-10-03T22:34:56Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-10-03"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
@@ -32,6 +32,8 @@ tags:
   - regulativa
   - tržište
 summary: "Dnevni pregled: Samsung i Coinbase šire kripto pristup; Unity krpa Android ranjivost za mobilne novčanike; altcoin ETF-ovi ulaze u odlučujući listopad; gubici od hakiranja pali 37% u Q3; stablecoini iznad 300 mlrd. $; FDIC razmatra 'reputacijski rizik'."
+categories: ["crypto"]
+url: "/hr/news/sto-se-danas-dogodilo-u-kriptu-2025-10-03/"
 ---
 
 **Kratko uvodno:** Dan donosi miks **tehnoloških integracija**, **regulatornih pomaka** i **sigurnosnih trendova**. U fokusu su **Samsung × Coinbase**, **Unity patch za Android**, **rokovi za altcoin ETF-ove**, pad **Q3 hakerskih gubitaka** i **rast stablecoina**.

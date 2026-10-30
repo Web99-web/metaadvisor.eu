@@ -7,14 +7,15 @@ translationKey: "defi_future_onchain_finance_21122025"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/defi.png"
-featured_image: "/images/defi.png"
-image: "/images/defi.png"
-thumbnail: "/images/defi.png"
+image_url: "/images/defi.webp"
+featured_image: "/images/defi.webp"
+image: "/images/defi.webp"
+thumbnail: "/images/defi.webp"
 image_alt: "DeFi – Zukunft der Finanzmärkte auf der Blockchain"
 image_credit: "MetaAdvisor Illustration"
 tags: ["defi", "dezentrale-finanzierung", "blockchain", "krypto", "onchain-finanzierung", "web3", "tokenisierung", "finanzzukunft"]
 summary: "DeFi verschwindet nicht, sondern verschmilzt mit dem traditionellen Finanzsystem. Die Blockchain entwickelt sich zur neuen Infrastruktur der globalen Kapitalmärkte."
+categories: ["ai"]
 ---
 
 # DeFi-Zukunft: Finanzmärkte wandern auf die Blockchain

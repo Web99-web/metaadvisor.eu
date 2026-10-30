@@ -7,15 +7,16 @@ translationKey: "eu-chat-control-urgent-procedure-2026-07-08"
 source: "Cointelegraph, Euronews, The Guardian, EDRi, Meta Oversight Board, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/eu-chat-control.png"
-featured_image: "/images/eu-chat-control.png"
-image: "/images/eu-chat-control.png"
-thumbnail: "/images/eu-chat-control.png"
+image_url: "/images/eu-chat-control.webp"
+featured_image: "/images/eu-chat-control.webp"
+image: "/images/eu-chat-control.webp"
+thumbnail: "/images/eu-chat-control.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Chat Control", "EU nadzor", "privatne poruke", "end-to-end enkripcija", "digitalna privatnost", "CSAM", "Europski parlament", "hitna procedura", "masovni nadzor", "Signal", "WhatsApp", "Telegram"]
 summary: "Europski parlament ponovno glasa o Chat Controlu kroz hitnu proceduru. Formalno se radi o produljenju privremenog režima za skeniranje poruka radi otkrivanja CSAM-a, ali politički je riječ o nastavku velike rasprave o privatnosti, enkripciji i granicama nadzora u EU."
 disclaimer: "Ovaj članak služi isključivo u informativne svrhe i ne predstavlja pravni, sigurnosni ili politički savjet."
 draft: false
+categories: ["news"]
 ---
 
 Slika je simbolična.
@@ -43,7 +44,7 @@ Chat Control se ne pojavljuje iznenada. O ovoj temi već se mjesecima raspravlja
 U studenome 2025. pisali smo o politički najosjetljivijem aspektu Chat Controla: mogućnosti stvaranja **sustava u kojem se građani nadziru, dok političke elite mogu biti izuzete ili bolje zaštićene od istog nadzora**. Takav model nije samo tehničko pitanje, nego demokratski problem. Ako se privatne poruke građana mogu skenirati bez individualne sumnje i sudskog naloga, tada se otvara pitanje tko nadzire sustav, tko je iz njega izuzet i tko može odlučivati o njegovoj budućoj primjeni.
 
 <a href="https://metaadvisor.eu/hr/news/chat-control-najopasniji-zakon-eu-politicari-izuzeti-gradjani-pod-nadzorom/" target="_blank" rel="noopener">
-  <img src="/images/EU-chat-control1.png" alt="Chat Control: Najopasniji zakon u povijesti EU — političari izuzeti, građani pod nadzorom" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/EU-chat-control1.webp" alt="Chat Control: Najopasniji zakon u povijesti EU — političari izuzeti, građani pod nadzorom" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/hr/news/chat-control-najopasniji-zakon-eu-politicari-izuzeti-gradjani-pod-nadzorom/" target="_blank" rel="noopener">Chat Control: Najopasniji zakon u povijesti EU — političari izuzeti, građani pod nadzorom</a>
@@ -79,7 +80,7 @@ To je razlog zašto se oko Chat Controla toliko često sukobljavaju child-safety
 O mogućem pomaku korisnika prema decentraliziranim i Web3 komunikacijskim alternativama pisali smo još u rujnu 2025. Tada smo analizirali zašto bi pretjerano širenje nadzora nad centraliziranim platformama moglo dio korisnika gurnuti prema alatima koji obećavaju veću otpornost na cenzuru i kontrolu.
 
 <a href="https://metaadvisor.eu/hr/news/eu-chat-control-gura-korisnike-prema-web3-alternativama/" target="_blank" rel="noopener">
-  <img src="/images/eu-chat-control-sigurno-nadzorovano.png" alt="EU-ov zakon o Chat Controlu gura korisnike prema ‘Web3 alternativama’, tvrde stručnjaci" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/eu-chat-control-sigurno-nadzorovano.webp" alt="EU-ov zakon o Chat Controlu gura korisnike prema ‘Web3 alternativama’, tvrde stručnjaci" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/hr/news/eu-chat-control-gura-korisnike-prema-web3-alternativama/" target="_blank" rel="noopener">EU-ov zakon o Chat Controlu gura korisnike prema ‘Web3 alternativama’, tvrde stručnjaci</a>
@@ -105,7 +106,7 @@ To ne znači da će svaka poruka biti pročitana od strane čovjeka. Ali znači 
 Takav rizik nije samo teorijski. Velike platforme već su imale probleme s automatiziranom moderacijom i pogrešnim označavanjem sadržaja ili korisničkih računa. Meta je, primjerice, bila suočena s brojnim pritužbama korisnika Facebooka i Instagrama zbog pogrešnih suspenzija, uključujući slučajeve u kojima su računi bili označeni zbog navodnog kršenja pravila povezanih s dječjim seksualnim iskorištavanjem, iako su korisnici tvrdili da nisu objavili ništa takvo.
 
 <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">
-  <img src="/images/Banned-from-social-media.png" alt="Meta Oversight Board: AI moderacija — dugogodišnji problem tek sad ulazi u fokus" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/Banned-from-social-media.webp" alt="Meta Oversight Board: AI moderacija — dugogodišnji problem tek sad ulazi u fokus" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">Meta Oversight Board: AI moderacija — dugogodišnji problem tek sad ulazi u fokus</a>

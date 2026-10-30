@@ -39,6 +39,7 @@ tags: [
   "eu technologie"
 ]
 summary: "Europa hat bereits im Januar 2026 fünf neue Startup-„Einhörner“ hervorgebracht – Unternehmen mit einer Bewertung von über einer Milliarde Dollar. Auch wenn einige global tätig oder außerhalb der EU registriert sind, liegen ihre Wurzeln klar in Europa."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#777;">

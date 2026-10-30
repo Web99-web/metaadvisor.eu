@@ -15,6 +15,7 @@ image_alt: "Grafovi Bitcoina i Ethereuma — kratkoročni skok (simbolično)"
 image_credit: "Slika je simbolična."
 tags: ["bitcoin", "ethereum", "tržište", "likvidacije", "derivati", "sentiment", "makro", "tarife", "rijetke zemlje"]
 summary: "Nakon rekordnih likvidacija i geopolitike (tarife SAD-Kina, rijetke zemlje), BTC se vraća oko 115.000 $, a ETH na ~4.164 $. Je li ovo samo relief-bounce i 'liquidity grab' — ili početak nastavka bull trenda?"
+categories: ["crypto"]
 ---
 
 **Ukratko:**  

@@ -15,6 +15,7 @@ image_alt: "Rakuten und XRP Integration in Zahlungen"
 image_credit: "Metaadvisor.eu"
 tags: ["xrp", "ripple", "rakuten", "japan", "crypto", "zahlungen", "blockchain", "finanzen"]
 summary: "Rakuten, eines der größten digitalen Ökosysteme Japans, integriert XRP in Zahlungen, während Banken gleichzeitig Ripple-Technologie für internationale Transfers testen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

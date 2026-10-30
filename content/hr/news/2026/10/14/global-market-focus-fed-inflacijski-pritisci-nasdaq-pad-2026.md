@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Global Market Focus", "Federal Reserve", "Beige Book", "inflacija", "Nasdaq", "S&P 500", "Wall Street", "semiconductors", "AI stocks", "markets"]
 description: "Novo Fedovo Beige Book izvješće pojačalo je zabrinutost zbog uporne inflacije i slabljenja tržišne širine. Nasdaq je tijekom trgovanja pao više od 2 posto, a tehnološki sektor dodatno oslabio."
 summary: "Federal Reserve objavio je novo Beige Book izvješće koje pokazuje širenje inflacijskih pritisaka, rast ulaznih troškova i stagnaciju zapošljavanja. Wall Street je negativno reagirao, pri čemu je Nasdaq tijekom trgovanja pao više od 2 posto, tehnološki sektor više od 2,5 posto, a poluvodiči gotovo 4 posto. Tržišni bias ostaje negativan, uz nastavak pritiska na AI, tehnološke dionice i male izdavatelje."
+categories: ["finance"]
 ---
 
 *Slika je simbolična.*

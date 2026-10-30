@@ -16,6 +16,7 @@ image_alt: "Jupiter JupUSD stablecoin launch"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags: ["jupiter","jupusd","stablecoin","solana","defi","crypto"]
 summary: "Jupiter unveils JupUSD, a Solana-native stablecoin, integrated across its perps, lending and swap modules."
+categories: ["crypto"]
 ---
 
 **Jupiter**, a leading DeFi aggregator on Solana, announced **JupUSD**, a **Solana-native stablecoin**. The move expands Jupiter’s footprint and reinforces Solana’s push toward mainstream usage.

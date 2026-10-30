@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["ChatGPT", "ChatGPT UX", "korisničko iskustvo", "brisanje poruka", "digitalni alati", "AI alati", "OpenAI", "UX"]
 description: "ChatGPT omogućuje brisanje cijelog razgovora, ali ne nudi jednostavnu kontrolu za uklanjanje jedne već poslane poruke iz važnog chata."
 summary: "Slučajno poslana slika, dokument ili poruka mogu ostati unutar važnog razgovora. Predlažemo tri UX kontrole: Delete message, Move to another chat i Hide from context."
+categories: ["digital-tools"]
 ---
 
 *Slika je simbolična.*

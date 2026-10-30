@@ -7,14 +7,15 @@ translationKey: "spacex-ipo-first-day-price-profit-taking-2026-06-12"
 source: "Reuters, MarketWatch, Business Insider, WSJ, CoinDesk, CoinMarketCap, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Elon-Musk-world.png"
-featured_image: "/images/Elon-Musk-world.png"
-image: "/images/Elon-Musk-world.png"
-thumbnail: "/images/Elon-Musk-world.png"
+image_url: "/images/Elon-Musk-world.webp"
+featured_image: "/images/Elon-Musk-world.webp"
+image: "/images/Elon-Musk-world.webp"
+thumbnail: "/images/Elon-Musk-world.webp"
 image_alt: "Elon Musk, SpaceX IPO i globalno tržište"
 image_credit: "Metaadvisor.eu"
 tags: ["SpaceX", "SpaceX IPO", "Elon Musk", "Nasdaq", "SPCX", "IPO", "dionice", "burza", "Wall Street", "retail investitori", "profit taking", "tržište kapitala", "tehnološke dionice", "Starlink", "crypto tržište", "Bitcoin", "Hyperliquid", "HYPE", "Metaadvisor"]
 summary: "SpaceX je prvi dan trgovanja završio oko 19% iznad IPO cijene, ali pad s dnevnog vrha pokazuje da je tržište uz snažnu euforiju odmah vidjelo i brzo uzimanje profita."
+categories: ["news"]
 ---
 
 Slika je simbolična.

@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242
 summary: "Stattdessen sprach die Jury den Klägern 242,5 Mio. $ an Ausgleichs- und Strafschadensersatz zu."
 tags: ["tesla","autopilot","urteil","klage","miami","jury","vergleich","transportation"]
 image_url: "https://techcrunch.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-20-at-12.40.05-pm.png?w=1200"
+categories: ["news"]
 ---
 
 Monate bevor eine Jury Tesla wegen seiner Mitschuld an einem tödlichen Unfall von 2019 zu **242,5 Mio. $** verurteilte, hatte der Autobauer die Chance, sich für **60 Mio. $** zu vergleichen — lehnte dies jedoch ab, wie neue, zuerst von Reuters gemeldete Gerichtsunterlagen zeigen.

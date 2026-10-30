@@ -15,6 +15,7 @@ image_alt: "Bitcoin green market reaction despite tariff tensions"
 image_credit: "MetaAdvisor.eu (symbolična ilustracija)"
 tags: ["bitcoin", "btc", "trump", "tarife", "carine", "kripto", "crypto", "tržište", "makroekonomija", "volatilnost"]
 summary: "Bitcoin ostaje stabilan unatoč novim tarifnim tenzijama i izjavama Donalda Trumpa o carinama. Analiziramo znači li to zrelost tržišta ili tek kratkotrajnu stabilnost."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

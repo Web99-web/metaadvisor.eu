@@ -9,10 +9,10 @@ author: "Metaadvisor.eu"
 source: "Metaadvisor analysis"
 source_url: ""
 
-image_url: "/images/Bloomberg-terminal.png"
-featured_image: "/images/Bloomberg-terminal.png"
-image: "/images/Bloomberg-terminal.png"
-thumbnail: "/images/Bloomberg-terminal.png"
+image_url: "/images/Bloomberg-terminal.webp"
+featured_image: "/images/Bloomberg-terminal.webp"
+image: "/images/Bloomberg-terminal.webp"
+thumbnail: "/images/Bloomberg-terminal.webp"
 image_alt: "Bloomberg Terminal – control panel of global finance (symbolic)"
 image_credit: "Metaadvisor.eu"
 
@@ -30,6 +30,7 @@ tags:
   - analytics
 
 summary: "Bloomberg Terminal remains the gold standard for institutions. With crypto and AI tools everywhere, does everyone still need it? Our take: for most users, no — but for fixed-income/FX/OTC pros it’s still a must-have."
+categories: ["finance"]
 ---
 
 > **Note:** Symbolic image.

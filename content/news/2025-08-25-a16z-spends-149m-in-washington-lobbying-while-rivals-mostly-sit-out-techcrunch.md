@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-l
 summary: "Venture giant Andreessen Horowitz is burning cash to shape policy on the Hill."
 tags: ["venture-capital","a16z","lobbying","washington","crypto","stablecoins","ai","defense"]
 image_url: "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?w=1200"
+categories: ["news"]
 ---
 
 Andreessen Horowitz’s plan to push its agenda in Washington shows no sign of slowing down, with the firm reporting $1.49 million in federal lobbying so far this year, according to lobbying records filed with Congress. a16z is even narrowly outspending its own industry trade group, the National Venture Capital Association.

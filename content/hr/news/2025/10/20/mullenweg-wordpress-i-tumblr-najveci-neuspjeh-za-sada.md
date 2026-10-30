@@ -16,6 +16,7 @@ image_alt: "Tumblr — logotip, simbolična ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["tumblr", "wordpress", "automattic", "matt mullenweg", "migracija", "wordpress backend", "fediverse", "activitypub", "open source", "cms", "tehnologija", "poslovanje", "restrukturiranje", "otkazi", "monetizacija", "saas", "cloud", "cdn", "seo", "id mapping"]
 summary: "CEO Automattica Matt Mullenweg na WordCampu Canada 2025 nazvao je akviziciju Tumblra i njegovu odvojenost od WordPress infrastrukture svojim 'najvećim neuspjehom' do sada. Masovna migracija na WordPress back-end pauzirana je zbog skale i troška, ali projekt nije otkazan."
+categories: ["ai"]
 ---
 
 Su-osnivač WordPressa i CEO Automattica **Matt Mullenweg** na otvorenom je rekao ono što su mnogi u industriji već naslućivali: akvizicija **Tumblra** i višegodišnje oklijevanje oko potpunog tehničkog spajanja s WordPress infrastrukturom njegov je “**najveći neuspjeh do sada**”. Neuspjeh — ali ne i kapitulacija. Vizija ostaje ista: Tumblr **preseliti na WordPress back-end**, pojednostaviti razvoj, srezati troškove i uvesti Tumblr dublje u **fediverse**. Trenutno je taj plan **pauziran** jer je preskup i prekompleksan za stanje u kojem je Tumblr danas, no strateški cilj nije napušten.

@@ -9,6 +9,7 @@ summary: "Tether has abandoned its plan to discontinue support for USDT on five 
 tags: ["crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5LWIzYTYzODlkLWZiYjMtNGViOC05NmNlLWJlMmIxNDZkNTViMC5qcGc=.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5LWIzYTYzODlkLWZiYjMtNGViOC05NmNlLWJlMmIxNDZkNTViMC5qcGc=.jpg"
+categories: ["crypto"]
 ---
 
 Tether has announced that it is **scrapping its previously revealed plan** to phase out support for USDT across five blockchain networks.  

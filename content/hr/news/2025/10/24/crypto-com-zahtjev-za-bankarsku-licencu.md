@@ -16,6 +16,7 @@ image_alt: "Crypto.com bank charter"
 image_credit: "Slika je simbolična."
 tags: ["Crypto.com", "bank charter", "SAD", "regulacija", "banke", "crypto"]
 summary: "Crypto.com je podnio zahtjev za US Trust Bank charter – što bi mu omogućilo status federalno regulirane banke u SAD-u. Ovo bi mogao biti povijesni trenutak za cijelu kripto industriju."
+categories: ["crypto"]
 ---
 
 🚨 **Crypto.com ide prema bankarskoj licenci u SAD-u**

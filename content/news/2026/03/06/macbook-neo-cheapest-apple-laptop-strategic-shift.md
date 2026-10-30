@@ -7,14 +7,15 @@ translationKey: "f4a1b2c3987e4d22a6b3c9d0e5f112ab"
 author: "Metaadvisor.eu"
 source: "Jutarnji list, Reuters, Bloomberg, TechCrunch, Metaadvisor.eu analysis"
 source_url: ""
-image_url: "/images/MacBook-Neo.png"
-featured_image: "/images/MacBook-Neo.png"
-image: "/images/MacBook-Neo.png"
-thumbnail: "/images/MacBook-Neo.png"
+image_url: "/images/MacBook-Neo.webp"
+featured_image: "/images/MacBook-Neo.webp"
+image: "/images/MacBook-Neo.webp"
+thumbnail: "/images/MacBook-Neo.webp"
 image_alt: "MacBook Neo in multiple colors – Apple’s cheapest laptop"
 image_credit: "Apple / Illustration"
 tags: ["apple", "macbook", "macbook neo", "laptop", "technology", "ai", "a18 pro", "iphone 17e", "apple strategy", "hardware", "ram", "memory", "tech market"]
 summary: "Apple has introduced the MacBook Neo starting at $599 ($499 for education), marking its first serious move into the lower-priced laptop segment. The launch signals a strategic shift aimed at expanding Apple’s user base beyond the traditional premium audience."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

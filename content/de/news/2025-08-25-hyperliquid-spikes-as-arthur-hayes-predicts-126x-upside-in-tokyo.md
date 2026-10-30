@@ -9,6 +9,7 @@ summary: "Auf der WebX 2025 in Tokio sagt BitMEX-Mitgründer Arthur Hayes, HYPE 
 tags: ["news","hyperliquid","hype","arthur-hayes","dex","derivate","perps","webx2025","defillama","redstone","onchain"]
 image_url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2025-08/01987510-d8e2-7660-affe-2833f386ecdf"
 image_alt: "Arthur Hayes & Hyperliquid HYPE – Hero-Grafik von Cointelegraph"
+categories: ["news"]
 ---
 
 Der **HYPE-Token** des dezentralen Perps-DEX **Hyperliquid** gehörte zu den wenigen Gewinnern, nachdem **Arthur Hayes** in Tokio eine **126×-Rendite** binnen **drei Jahren** skizzierte. Auslöser sei die Expansion von **Stablecoins**, die die annualisierten **Gebühreneinnahmen** des DEX auf etwa **258 Mrd. $** treiben könnten (derzeit ~**1,2 Mrd. $**).

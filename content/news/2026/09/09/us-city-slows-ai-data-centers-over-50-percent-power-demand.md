@@ -7,15 +7,16 @@ translationKey: "us-city-slows-ai-centers-power-demand-2026-09-09"
 source: "City of Plattsburgh, WCAX, New York State, Reuters, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/US-city-stops-AI-center.png"
-featured_image: "/images/AI-general/US-city-stops-AI-center.png"
-image: "/images/AI-general/US-city-stops-AI-center.png"
-thumbnail: "/images/AI-general/US-city-stops-AI-center.png"
+image_url: "/images/AI-general/US-city-stops-AI-center.webp"
+featured_image: "/images/AI-general/US-city-stops-AI-center.webp"
+image: "/images/AI-general/US-city-stops-AI-center.webp"
+thumbnail: "/images/AI-general/US-city-stops-AI-center.webp"
 image_alt: "Plattsburgh considers a moratorium on AI data centers over their massive electricity demand"
 image_credit: "Metaadvisor.eu"
 tags: ["AI", "artificial intelligence", "data centers", "Plattsburgh", "New York", "United States", "electricity", "electricity prices", "power grid", "energy infrastructure", "Bitcoin", "Bitcoin mining", "crypto", "AI infrastructure", "moratorium"]
 description: "The US city of Plattsburgh is considering a moratorium on new AI data centers after estimates that one large project could require around 50 MW of the city's approximately 105 MW power allocation."
 summary: "Plattsburgh stopped new Bitcoin miners in 2018 over pressure on its electricity system and is now considering a 12-month moratorium on AI, crypto and other energy-intensive computing facilities."
+categories: ["Tech"]
 ---
 
 *The image is symbolic.*
@@ -84,7 +85,7 @@ The purpose of the new moratorium is partly to prevent that situation from devel
 
 <div style="text-align:center; margin:24px 0;">
 <a href="https://metaadvisor.eu/news/data-centers-rising-electricity-prices-ai-infrastructure/" target="_blank" rel="noopener">
-<img src="/images/Data-centers-electric-bill.png" alt="Data centers and rising electricity prices behind the AI boom" style="display:block; margin:0 auto; width:70%; max-width:520px; height:auto;">
+<img src="/images/Data-centers-electric-bill.webp" alt="Data centers and rising electricity prices behind the AI boom" style="display:block; margin:0 auto; width:70%; max-width:520px; height:auto;">
 </a>
 <br>
 <small><a href="https://metaadvisor.eu/news/data-centers-rising-electricity-prices-ai-infrastructure/" target="_blank" rel="noopener"><strong>Data Centers and Rising Electricity Prices: What’s Really Behind the AI Boom?</strong></a></small>

@@ -9,6 +9,7 @@ summary: "Američke dionice pokazuju znakove investicijske euforije, dok kripto 
 tags: ["crypto","stocks","sentiment","wall-street","euphoria"]
 image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/09/wall-street-nyse-bull-market-gID_7.jpg?fit=1200%2C675"
 image_url_small: "https://cdn.decrypt.co/wp-content/uploads/2025/09/wall-street-nyse-bull-market-gID_7.jpg?fit=600%2C338"
+categories: ["crypto"]
 ---
 
 Američke dionice šalju signale euforije, u kontrastu s prigušenim kripto tržištem, dok ulagači pokušavaju pronaći naznake smjera.

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/08/27/versabank-tests-tokeni
 summary: "Die kanadische Digitalbank VersaBank testet tokenisierte USD-Einlagen in den USA – mit regulatorischem Fokus und Versicherungsschutz."
 tags: ["crypto","VersaBank","Algorand","Ethereum","Stellar","tokenisierte Einlagen"]
 image_url: "https://www.coindesk.com/resizer/XKwdVQFZsdDe7q3H2FZC88Gxwqg=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WXYZ12345.jpg"
+categories: ["crypto"]
 ---
 
 VersaBank, eine kanadische Digitalbank mit Fokus auf Geschäftskunden, hat ein Pilotprojekt für tokenisierte Einlagen gestartet. Ziel ist es, eine sicherere und regelkonforme Alternative zu Stablecoins zu schaffen.

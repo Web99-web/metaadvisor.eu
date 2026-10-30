@@ -7,8 +7,8 @@ translationKey: "police_ai_bias_20260225"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2026/feb/24/police-ai-chief-admits-crime-fighting-tech-will-have-bias-but-vows-to-tackle-it"
 author: "MetaAdvisor.eu"
-image_url: "/images/AI-police.png"
-featured_image: "/images/AI-police.png"
+image_url: "/images/AI-police.webp"
+featured_image: "/images/AI-police.webp"
 image_alt: "AI u policijskim sustavima i pitanje pristranosti algoritama"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Britanski policijski dužnosnici priznaju da će AI sustavi za borbu protiv kriminala sadržavati određenu razinu pristranosti, ali tvrde da je cilj svesti je na minimum kroz bolju kontrolu podataka, testiranje i edukaciju službenika."
@@ -19,6 +19,7 @@ tags:
   - algoritmi
   - regulacija
   - etika
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

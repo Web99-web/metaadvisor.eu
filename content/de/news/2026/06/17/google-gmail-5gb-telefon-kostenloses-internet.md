@@ -15,6 +15,7 @@ image_alt: "Gmail and Google account storage concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Gmail", "Google Drive", "Google Photos", "Google Account", "Google One", "Cloud Storage", "5 GB", "15 GB", "Telefonverifizierung", "Telefonnummer", "digitale Privatsphäre", "Big Tech", "kostenloses Internet", "digitale Identifikation", "Online-Konten", "Cloud", "Backup", "Metaadvisor"]
 summary: "Google testet Berichten zufolge eine neue Regel für einige neue Konten: zunächst 5 GB Speicher ohne Telefonnummer, mit der Möglichkeit, bis zu 15 GB nach dem Hinzufügen einer Telefonnummer freizuschalten. Die Frage ist nicht mehr nur, wie viel Speicher wir bekommen, sondern was wir für Dienste geben müssen, die wir kostenlos nennen."
+categories: ["tech"]
 ----
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Das Bild ist symbolisch.</em></p>
@@ -86,7 +87,7 @@ Die dritte Lektion ist, dass „kostenlos“ anders gelesen werden sollte. Koste
 
 <p style="margin:22px 0; padding:14px; border:1px solid #e5e7eb; border-radius:14px; background:#f9fafb;">
   <a href="https://metaadvisor.eu/de/news/mega-vs-google-drive-privatsphaere-google-oekosystem/" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">
-    <img src="/images/companies/MEGA-vs-Google-drive.png" alt="MEGA vs Google Drive: Privatsphäre oder Google-Ökosystem?" style="width:100%; max-width:520px; display:block; margin:0 auto 12px auto; border-radius:12px;">
+    <img src="/images/companies/MEGA-vs-Google-drive.webp" alt="MEGA vs Google Drive: Privatsphäre oder Google-Ökosystem?" style="width:100%; max-width:520px; display:block; margin:0 auto 12px auto; border-radius:12px;">
   </a>
   <a href="https://metaadvisor.eu/de/news/mega-vs-google-drive-privatsphaere-google-oekosystem/" target="_blank" rel="noopener" style="font-weight:700; color:#1e40af; text-decoration:none;">
     MEGA vs Google Drive: Privatsphäre oder Google-Ökosystem?

@@ -9,6 +9,7 @@ summary: "Taco Bell has rolled out voice AI ordering at over 500 drive-throughs,
 tags: ["ai", "tacobell", "fastfood"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/taco-bell-ai-drive-thru.jpg?w=1200"
 image: "https://techcrunch.com/wp-content/uploads/2025/08/taco-bell-ai-drive-thru.jpg?w=1200"
+categories: ["ai"]
 ---
 
 Taco Bell’s Chief Digital and Technology Officer says the company is having an “active conversation” about when AI makes sense at the drive-through – and when it doesn’t.  

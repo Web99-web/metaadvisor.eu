@@ -7,14 +7,15 @@ translationKey: "cc44b6bef115321b764aab67559b3fb3"
 source: "TechCrunch"
 source_url: ""
 author: "TechCrunch"
-image_url: "/images/Macbook-pro-price.png"
-featured_image: "/images/Macbook-pro-price.png"
-image: "/images/Macbook-pro-price.png"
-thumbnail: "/images/Macbook-pro-price.png"
+image_url: "/images/Macbook-pro-price.webp"
+featured_image: "/images/Macbook-pro-price.webp"
+image: "/images/Macbook-pro-price.webp"
+thumbnail: "/images/Macbook-pro-price.webp"
 image_alt: "Novi MacBook Pro i rast cijene zbog nestašice RAM memorije"
 image_credit: "Ilustracija / Apple tematika"
 tags: ["macbook pro", "apple", "m5 pro", "m5 max", "ram", "nedostatak memorije", "ai", "umjetna inteligencija", "tech", "laptop", "poluvodiči", "hardware"]
 summary: "Apple je predstavio novu generaciju MacBook Pro prijenosnika s M5 Pro i M5 Max čipovima, ali cijene su do 400 USD više u odnosu na prethodnu generaciju zbog globalnog nedostatka RAM memorije."
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

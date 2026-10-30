@@ -7,14 +7,15 @@ translationKey: "21fe1c78fa6d86f83124ca53a51534f7"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/"
 author: "Metaadvisor.eu"
-image_url: "/images/Microsoft-Maia-200-AI-chip.png"
-featured_image: "/images/Microsoft-Maia-200-AI-chip.png"
-image: "/images/Microsoft-Maia-200-AI-chip.png"
-thumbnail: "/images/Microsoft-Maia-200-AI-chip.png"
+image_url: "/images/Microsoft-Maia-200-AI-chip.webp"
+featured_image: "/images/Microsoft-Maia-200-AI-chip.webp"
+image: "/images/Microsoft-Maia-200-AI-chip.webp"
+thumbnail: "/images/Microsoft-Maia-200-AI-chip.webp"
 image_alt: "Microsoft Maia 200 AI čip – ilustracija"
 image_credit: "MetaAdvisor.eu"
 tags: ["microsoft", "ai", "umjetna-inteligencija", "ai-cipovi", "nvidia", "amd", "cloud", "azure", "data-centri", "tehnologija"]
 summary: "Microsoft je predstavio vlastiti AI čip Maia 200, ali poručuje da neće prestati kupovati čipove od Nvidije i AMD-a, potvrđujući da AI utrka ulazi u fazu paralelnog razvoja, a ne zamjene."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

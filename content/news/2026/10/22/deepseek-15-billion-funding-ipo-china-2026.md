@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["DeepSeek", "Artificial Intelligence", "AI", "China", "Tencent", "CATL", "IPO", "STAR Market", "Shanghai Stock Exchange", "CITIC Securities", "Funding", "Investment", "Technology", "AI Models", "Data Centers", "OpenAI", "Financial Markets"]
 description: "DeepSeek is nearing a $15 billion private funding round backed by Tencent and CATL as it prepares for a possible IPO in Shanghai."
 summary: "Chinese AI startup DeepSeek is approaching the close of a private funding round worth around 100 billion yuan, or nearly $15 billion. Tencent and CATL are reported to be among its largest backers, while the company prepares for a potential listing on Shanghai's STAR Market. DeepSeek is not yet publicly traded, and the final funding terms remain unconfirmed."
+categories: ["technology"]
 ---
 
 *Image is for illustrative purposes only.*

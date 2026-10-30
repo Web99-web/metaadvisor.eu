@@ -16,6 +16,7 @@ image_alt: "Flagge Boliviens"
 image_credit: "Symbolbild."
 tags: ["Bolivien", "Korruption", "Blockchain", "öffentliche Beschaffung", "Transparenz", "Crypto", "AI", "Smart Contracts"]
 summary: "Boliviens neuer Präsident will Blockchain und Smart Contracts in der öffentlichen Beschaffung einsetzen, um Transparenz zu erhöhen und Korruption einzudämmen."
+categories: ["ai"]
 ---
 
 Der neu gewählte Präsident **Rodrigo Paz** kündigt eine umfassende Digitalisierung der **öffentlichen Beschaffung** an. Kern der Reform: **Blockchain** für fälschungssichere Protokolle und **Smart Contracts** für automatische Auszahlungen erst nach bestätigter Leistung. Ziel ist, Entscheidungen und Zahlungen **nachvollziehbar, dauerhaft und öffentlich prüfbar** zu machen – von der Ausschreibung bis zur finalen Rechnungsbegleichung.

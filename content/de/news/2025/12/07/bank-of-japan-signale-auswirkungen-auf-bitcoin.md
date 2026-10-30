@@ -16,6 +16,7 @@ image_alt: "Bank of Japan — geldpolitische Signale und Einfluss auf Bitcoin"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","japan","boj","yen","carry trade","dovish","hawkish","makro","inflation","liquidität","analytik"]
 summary: "Investoren interpretieren die Signale der Bank of Japan unterschiedlich. Was bedeutet eine weiterhin extrem lockere Geldpolitik für globale Märkte — und für Bitcoin?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

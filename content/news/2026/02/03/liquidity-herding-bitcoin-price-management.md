@@ -16,6 +16,7 @@ image_alt: "Illustration of Bitcoin price control through liquidity"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["bitcoin", "btc", "liquidity herding", "liquidity", "order book", "crypto markets", "institutional investors", "market structure", "crypto"]
 summary: "While gold and silver surged, Bitcoin remained stuck below key levels. Order-book data suggests this was no coincidence: a strategy known as liquidity herding allows large players to control price trajectories without overt market manipulation."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

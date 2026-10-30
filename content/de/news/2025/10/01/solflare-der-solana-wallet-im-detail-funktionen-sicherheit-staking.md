@@ -7,14 +7,15 @@ translationKey: "0d7a6a59b3f44a82a4b1b0a6b6f2solflare"
 source: "debug.hr; Solflare; CoinBureau; Solana"
 source_url: "https://www.debug.hr/solflare-iznutra-kako-izgleda-graditi-wallet-za-milijune-korisnika/"
 author: "Metaadvisor.eu"
-image_url: "/images/solflare.png"
-featured_image: "/images/solflare.png"
-image: "/images/solflare.png"
-thumbnail: "/images/solflare.png"
+image_url: "/images/solflare.webp"
+featured_image: "/images/solflare.webp"
+image: "/images/solflare.webp"
+thumbnail: "/images/solflare.webp"
 image_alt: "Solflare – Wallet für das Solana-Ökosystem"
 image_credit: "Visual: Metaadvisor.eu (symbolisch)"
 tags: ["Solflare","Solana","Wallet","Self-Custody","Staking","Ledger","Keystone","DeFi","NFT","Sicherheit","Validatoren","Air-gapped","Seed Phrase","Browser-Erweiterung","Mobile","dApp","Non-custodial"]
 summary: "Solflare ist ein ausgereifter Self-Custody-Wallet für Solana (Web/Extension/Mobile) mit Ledger/Keystone-Support, nativem & „liquid“ Staking sowie tiefen DeFi/NFT-Integrationen."
+categories: ["crypto"]
 ---
 
 **Kurz:** **Solflare** ist ein **non-custodial** Wallet, das sich vollständig auf **Solana (SOL, SPL-Token, NFTs)** konzentriert und als **Mobile-App** sowie **Browser-Erweiterung** verfügbar ist. Zu den Stärken zählen **Sicherheits-Stack** (u. a. **Ledger** & **Keystone**), ein reibungsloses **Staking-Erlebnis** und breite **dApp/NFT-Integrationen**. *Bild ist symbolisch.*

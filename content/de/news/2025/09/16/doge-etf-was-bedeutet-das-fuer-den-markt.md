@@ -7,14 +7,15 @@ translationKey: "d1a6d0a0b1b24f85b8a2e1e8c9c77a10"
 source: "Metaadvisor analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/dogecoin-doge.png"
-featured_image: "/images/dogecoin-doge.png"
-image: "/images/dogecoin-doge.png"
-thumbnail: "/images/dogecoin-doge.png"
+image_url: "/images/dogecoin-doge.webp"
+featured_image: "/images/dogecoin-doge.webp"
+image: "/images/dogecoin-doge.webp"
+thumbnail: "/images/dogecoin-doge.webp"
 image_alt: "Dogecoin (DOGE) — ETF-Narrativ"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["doge","dogecoin","etf","liquidity","flows","funding","positioning","macro","metaadvisor"]
 summary: "Die Spekulation über den ersten US-DOGE-ETF befeuert Liquiditätserwartungen und die Altcoin-Stimmung. Unser Nachrichtenüberblick: Chancen, Risiken und die wichtigsten Signale in dieser ‘ETF-Woche’."
+categories: ["crypto"]
 ---
 
 Dogecoin handelte am Abend um **0,265 USDT**, während der Markt zunehmend mit einer **baldigen Genehmigung des ersten US-DOGE-ETF** rechnet. Schon das Kürzel “ETF” hebt die Liquiditätserwartungen und zieht institutionelle Aufmerksamkeit an – ein Nährboden, auf dem Altcoins häufig überproportional reagieren.

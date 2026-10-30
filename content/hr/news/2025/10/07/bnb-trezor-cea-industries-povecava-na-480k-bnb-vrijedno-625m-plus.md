@@ -29,6 +29,7 @@ tags:
   - markets
   - flows
 summary: "CEA Industries (BNC) otkriva trezor od **480.000 BNB** (+15% vs. prethodno), uz prosječnu kupovnu cijenu ~$860 i nerealiziranu dobit na novom ATH-u BNB-a. Plan: akumulirati **1% ukupne ponude** do kraja godine."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

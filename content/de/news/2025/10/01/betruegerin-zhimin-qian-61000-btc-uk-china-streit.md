@@ -7,14 +7,15 @@ translationKey: "c3a0b9f2e0c84c79ad7f0f2a61000btc"
 source: "Zusammenfassung aus Medienberichten und UK-Gerichtsverfahren"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/btc-61000-dispute.png"
-featured_image: "/images/btc-61000-dispute.png"
-image: "/images/btc-61000-dispute.png"
-thumbnail: "/images/btc-61000-dispute.png"
+image_url: "/images/btc-61000-dispute.webp"
+featured_image: "/images/btc-61000-dispute.webp"
+image: "/images/btc-61000-dispute.webp"
+thumbnail: "/images/btc-61000-dispute.webp"
 image_alt: "61.000 BTC – Sorgerechtsstreit UK vs. China"
 image_credit: "Design: Metaadvisor.eu (symbolisch)"
 tags: ["Bitcoin","BTC","Kriminalität","Geldwäsche","UK","China","Zhimin Qian","Yadi Zhang","Jian Wen","Vermögenseinziehung","Restitution","Konfiszierung","Auslieferung","61k BTC"]
 summary: "Die chinesische Staatsbürgerin Zhimin Qian (Yadi Zhang) gestand Geldwäsche im Zusammenhang mit einem groß angelegten Betrug. Im Zentrum stehen 61.000 BTC, die in London sichergestellt wurden – China fordert die Rückgabe an die Opfer, während UK Konfiszierung prüft."
+categories: ["crypto"]
 ---
 
 ## Wer ist sie und wie lief der Betrug?

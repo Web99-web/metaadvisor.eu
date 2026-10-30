@@ -7,10 +7,10 @@ translationKey: "windkraft_usa_sicherheit_24122025"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/12/22/trump-admin-halts-6-gw-of-offshore-wind-leases-again/"
 author: "MetaAdvisor.eu (Analyse)"
-image_url: "/images/Wind-turbine.png"
-featured_image: "/images/Wind-turbine.png"
-image: "/images/Wind-turbine.png"
-thumbnail: "/images/Wind-turbine.png"
+image_url: "/images/Wind-turbine.webp"
+featured_image: "/images/Wind-turbine.webp"
+image: "/images/Wind-turbine.webp"
+thumbnail: "/images/Wind-turbine.webp"
 image_alt: "Windkraftanlage mit Radar-Overlay als Symbol für Energie und Sicherheit"
 tags:
   - windkraft
@@ -20,6 +20,7 @@ tags:
   - infrastruktur
   - energiepolitik
 summary: "Die USA pausieren große Windkraftprojekte mit Verweis auf nationale Sicherheit. Doch worum geht es wirklich – um feste Standorte oder um unsichtbare Effekte auf Radar- und Verteidigungssysteme?"
+categories: ["news"]
 ---
 
 <div class="cta" style="text-align:center; margin:20px 0 26px 0;">

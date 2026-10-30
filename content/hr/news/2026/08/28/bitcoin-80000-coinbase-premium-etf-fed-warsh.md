@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "bitcoin-80000-coinbase-premium-etf-fed-warsh-2026-08-28"
 source: "CoinDesk, Farside Investors, The Block, Reuters, CoinGecko, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/market-crypto-daily.png"
-featured_image: "/images/market-crypto-daily.png"
-image: "/images/market-crypto-daily.png"
-thumbnail: "/images/market-crypto-daily.png"
+image_url: "/images/market-crypto-daily.webp"
+featured_image: "/images/market-crypto-daily.webp"
+image: "/images/market-crypto-daily.webp"
+thumbnail: "/images/market-crypto-daily.webp"
 image_alt: "Bitcoin oko 80.000 dolara dok tržište čeka FED"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "kriptovalute", "tržište kriptovaluta", "Bitcoin ETF-ovi", "američki Bitcoin ETF-ovi", "ETF priljevi", "Coinbase Premium", "američka potražnja", "Ethereum", "Solana", "Hyperliquid", "Zcash", "Bittensor", "FED", "Kevin Warsh", "kamatne stope", "monetarna politika"]
 description: "Bitcoin se ponovno kreće oko 80.000 dolara dok se Coinbase Premium prvi put od svibnja vratio u pozitivno područje, a američki spot Bitcoin ETF-ovi bilježe više od 2,8 milijardi dolara priljeva kroz osam uzastopnih trgovačkih dana. Tržište istodobno čeka novi signal Kevina Warsha i FED-a."
 summary: "Bitcoin pokušava zadržati područje oko 80.000 dolara uz znakove jače američke spot potražnje. Coinbase Premium ponovno je pozitivan, ETF-ovi nastavljaju privlačiti kapital, dok SOL i HYPE rastu, ZEC ostaje blizu 800 dolara, a TAO ponovno slabi. Sljedeći važan makro signal očekuje se od FED-a."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

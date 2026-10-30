@@ -7,14 +7,15 @@ translationKey: "80d615c471989a99c14936f446a3a4a8"
 source: "Metaadvisor (CoinDesk, Bloomberg)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/kraken.png"
-featured_image: "/images/kraken.png"
-image: "/images/kraken.png"
-thumbnail: "/images/kraken.png"
+image_url: "/images/kraken.webp"
+featured_image: "/images/kraken.webp"
+image: "/images/kraken.webp"
+thumbnail: "/images/kraken.webp"
 image_alt: "Kraken expands toward payments and crypto banking"
 image_credit: "Metaadvisor.eu"
 tags: ["kraken", "crypto", "stablecoin", "payments", "reap", "bitcoin", "ethereum", "crypto bank", "custody", "staking", "blockchain", "web3", "moneygram", "bitnomial", "ipo", "crypto regulation", "metaadvisor"]
 summary: "Kraken is aggressively expanding beyond the traditional crypto exchange model. After acquiring payments company Reap for $600 million and applying for a federal trust charter in the US, the company increasingly looks like it wants to become a full-scale crypto financial platform."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

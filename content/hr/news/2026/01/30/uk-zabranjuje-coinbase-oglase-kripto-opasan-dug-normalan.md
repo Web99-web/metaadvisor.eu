@@ -7,10 +7,10 @@ translationKey: "coinbase_ads_banned_uk_20260130"
 source: "Cointelegraph / MetaAdvisor analiza"
 source_url: "https://cointelegraph.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Coinbase-ads-banned-UK.png"
-featured_image: "/images/Coinbase-ads-banned-UK.png"
-image: "/images/Coinbase-ads-banned-UK.png"
-thumbnail: "/images/Coinbase-ads-banned-UK.png"
+image_url: "/images/Coinbase-ads-banned-UK.webp"
+featured_image: "/images/Coinbase-ads-banned-UK.webp"
+image: "/images/Coinbase-ads-banned-UK.webp"
+thumbnail: "/images/Coinbase-ads-banned-UK.webp"
 image_alt: "Zabrana Coinbase oglasa u Ujedinjenom Kraljevstvu"
 image_credit: "Ilustracija / MetaAdvisor.eu"
 tags:
@@ -25,6 +25,7 @@ tags:
   - dvostruki standardi
   - financijska pismenost
 summary: "Britanski regulator zabranio je Coinbase oglase zbog ‘umanjivanja rizika kripta’. No dok se kripto mora ograđivati na svakom koraku, dug od 20–30 godina i dalje se reklamira kao normalna životna odluka."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

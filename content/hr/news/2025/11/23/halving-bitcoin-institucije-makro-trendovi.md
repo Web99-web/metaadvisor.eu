@@ -17,6 +17,7 @@ image_credit: "Free licensed image"
 tags: ["bitcoin", "kripto", "tržište", "makroekonomija", "institucije", "halving", "digitalno zlato"]
 summary: "Lyn Alden i BlackRock objašnjavaju zašto se Bitcoin ciklus sve manje oslanja na halving, a sve više na institucionalni kapital i makroekonomiju."
 
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

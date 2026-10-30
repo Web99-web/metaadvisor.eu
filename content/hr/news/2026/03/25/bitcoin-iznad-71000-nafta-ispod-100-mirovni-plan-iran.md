@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["bitcoin", "btc", "kripto", "crypto", "nafta", "iran", "geopolitika", "tržišta", "inflacija", "makroekonomija"]
 summary: "Bitcoin se stabilizira iznad 71.000 dolara dok pad cijene nafte i vijesti o mirovnom planu za Iran signaliziraju promjenu tržišnog sentimenta."
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

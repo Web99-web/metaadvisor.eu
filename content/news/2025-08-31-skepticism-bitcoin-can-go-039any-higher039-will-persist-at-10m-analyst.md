@@ -9,6 +9,7 @@ summary: "An analyst argues that doubts about Bitcoin's upside will continue to 
 tags: ["bitcoin", "crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvYmMyZWVkMGMtMDExMi00MmVkLTkzYjEtY2FjZjM1ZjViYTM2LmpwZw==.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvYmMyZWVkMGMtMDExMi00MmVkLTkzYjEtY2FjZjM1ZjViYTM2LmpwZw==.jpg"
+categories: ["crypto"]
 ---
 
 A well-known crypto analyst has said that skepticism about Bitcoin’s price potential will persist no matter how high it goes — even if BTC were to reach **$10 million per coin**.  

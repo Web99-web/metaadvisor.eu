@@ -8,11 +8,12 @@ source: "CoinDesk; Cointelegraph; Metaadvisor.eu"
 source_url: "https://www.coindesk.com/markets/2025/10/10/usd16b-in-longs-liquidated-as-wall-street-sell-off-extends-btc-eth-broader-crypto-market-meltdown"
 tags: ["krypto","bitcoin","btc","eth","xrp","sol","fear-greed","liquidationen","adl","marktstruktur","etf","fondsfluesse","makro","marktkapitalisierung"]
 summary: "Sentiment kippte auf ‘Fear’, nominell rekordhohe Liquidationen (~19–20 Mrd. $), einige Trader sehen noch kein Boden — während BTC-ETFs ~2,71 Mrd. $ wöchentliche Zuflüsse verzeichnen. Plus: der zentrale Unterschied zwischen 20 Mrd. $ Liquidationen (realisierte Verluste) und ~168 Mrd. $ Marktkap-Rückgang (Buchwert)."
-image_url: "/images/Fear-greed-11-10-2025.png"
-featured_image: "/images/Fear-greed-11-10-2025.png"
-thumbnail: "/images/Fear-greed-11-10-2025.png"
+image_url: "/images/Fear-greed-11-10-2025.webp"
+featured_image: "/images/Fear-greed-11-10-2025.webp"
+thumbnail: "/images/Fear-greed-11-10-2025.webp"
 image_alt: "Fear & Greed ‘Fear’, $20B Liquidationen vs. +$2.71B ETF-Zuflüsse"
 image_credit: "Metaadvisor.eu (symbolische Illustration)"
+categories: ["crypto"]
 ---
 
 In den letzten 24 Stunden sah der Kryptomarkt **rekordhohe nominale Liquidationen** von insgesamt **~19–20 Mrd. $**, überwiegend auf **Long-Positionen**. **Bitcoin (BTC)** fiel kurz unter **$110k**, und der **Crypto Fear & Greed Index** rutschte in den Bereich **‘Fear’**.

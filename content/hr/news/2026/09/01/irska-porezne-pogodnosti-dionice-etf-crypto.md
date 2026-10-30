@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "ireland-tax-perks-stocks-etfs-no-crypto-2026-09-01"
 source: "Department of Finance Ireland, Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
-featured_image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
-image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
-thumbnail: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
+image_url: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
+featured_image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
+image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
+thumbnail: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
 image_alt: "Irska uvodi porezno povlaštene investicijske račune za dionice i ETF-ove, dok crypto ostaje isključen"
 image_credit: "Metaadvisor.eu"
 tags: ["Irska", "crypto", "kriptovalute", "Bitcoin", "ulaganja", "investiranje", "ETF", "dionice", "obveznice", "investicijski fondovi", "porezi", "porezne olakšice", "mali ulagači", "financijska tržišta", "regulacija", "Europska unija"]
 description: "Irska priprema novi porezno povlašteni investicijski račun za građane koji će uključivati dionice, obveznice, ETF-ove i fondove, dok će crypto imovina i derivati ostati izvan sustava."
 summary: "Novi irski investicijski računi trebali bi od 2027. građanima omogućiti jednostavnije i porezno povoljnije ulaganje u tradicionalnu financijsku imovinu. Crypto i derivati isključeni su jer ih vlada smatra složenijim i rizičnijim proizvodima."
+categories: ["Crypto"]
 ---
 
 # Irska daje porezne pogodnosti za dionice i ETF-ove, ali ne i za crypto

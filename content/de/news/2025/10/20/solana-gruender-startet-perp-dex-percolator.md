@@ -7,14 +7,15 @@ translationKey: "09226f7546ffea9c4bf6cddbe0c282a5"
 source: "Cointelegraph"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/percolator.png"
-featured_image: "/images/percolator.png"
-image: "/images/percolator.png"
-thumbnail: "/images/percolator.png"
+image_url: "/images/percolator.webp"
+featured_image: "/images/percolator.webp"
+image: "/images/percolator.webp"
+thumbnail: "/images/percolator.webp"
 image_alt: "Percolator DEX — symbolische Illustration mit Kaffeekanne und Solana-Logo"
 image_credit: "Bild ist symbolisch."
 tags: ["solana","perp","dex","percolator","anatoly-yakovenko","derivate","krypto"]
 summary: "Anatoly Yakovenko, Mitgründer von Solana, startet den Perp DEX Percolator, um mit dYdX und Hyperliquid durch Geschwindigkeit und niedrige Gebühren zu konkurrieren."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

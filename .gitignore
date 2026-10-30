@@ -1,0 +1,11 @@
+# Generated output and local QA are not publication source.
+/public/
+/resources/
+/.hugo_build.lock
+/node_modules/
+/audit-*/
+/implementation-*/
+/.qa-build*/
+__pycache__/
+*.pyc
+# Existing tracked files are retained; this file does not remove them from Git.

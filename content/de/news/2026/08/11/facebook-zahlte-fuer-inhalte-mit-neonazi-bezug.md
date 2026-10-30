@@ -7,15 +7,16 @@ translationKey: "facebook-placao-za-sadrzaj-povezan-s-neonacizmom-2026-08-11"
 source: "Futurism, ABC News Australia, Meta"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
-featured_image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
-image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
-thumbnail: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
+image_url: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
+featured_image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
+image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
+thumbnail: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
 image_alt: "Facebook Content Monetization und die Frage nach Einnahmen durch Inhalte mit Neonazi-Bezug"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Facebook", "Meta", "Content Monetization", "Facebook-Monetarisierung", "KI-Moderation", "Hassrede", "Neonazismus", "Extremismus", "soziale Netzwerke", "Inhaltsmoderation"]
 description: "Facebooks Content-Monetization-Programm ermöglichte Einnahmen für Accounts, die mit rechtsextremen und neonazistischen Inhalten in Verbindung standen, während andere langjährige Nutzer dauerhaft von der Plattform entfernt wurden."
 summary: "Facebooks Monetarisierungssystem ermöglichte Auszahlungen an Accounts mit Verbindungen zu rechtsextremen und neonazistischen Inhalten. Gleichzeitig verloren langjährige normale Nutzer ihre Konten, teilweise ohne eine klare Erklärung dafür zu erhalten."
+categories: ["social-media"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -58,7 +59,7 @@ Das Problem automatisierter Entscheidungen ist inzwischen so ernst, dass sich au
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener">
-    <img src="/images/Banned-from-social-media.png" alt="Meta Oversight Board und das langjährige Problem der KI-Moderation" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/Banned-from-social-media.webp" alt="Meta Oversight Board und das langjährige Problem der KI-Moderation" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener"><strong>Meta Oversight Board: KI-Moderation — ein jahrelanges Problem rückt erst jetzt in den Fokus</strong></a>
@@ -75,7 +76,7 @@ Das wirft die Frage auf, warum ein Facebook-Profil, das seit fünfzehn oder zwan
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/de/news/facebook-langjaehrige-profile-kein-reputationskredit-problem/" target="_blank" rel="noopener">
-    <img src="/images/Meta/Facebook-blocks-long-term-profiles.png" alt="Facebook und langjährige Profile ohne Reputationskredit" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/Meta/Facebook-blocks-long-term-profiles.webp" alt="Facebook und langjährige Profile ohne Reputationskredit" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/de/news/facebook-langjaehrige-profile-kein-reputationskredit-problem/" target="_blank" rel="noopener"><strong>Warum hat ein 15–20 Jahre altes Facebook-Profil keinen Reputationskredit?</strong></a>

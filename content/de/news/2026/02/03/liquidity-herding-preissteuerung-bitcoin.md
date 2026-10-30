@@ -16,6 +16,7 @@ image_alt: "Illustration der Preissteuerung von Bitcoin durch Liquidität"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["bitcoin", "btc", "liquidity herding", "liquidität", "orderbuch", "kryptomärkte", "institutionelle investoren", "marktstruktur", "crypto"]
 summary: "Während Gold und Silber stark zulegten, blieb Bitcoin unter wichtigen Kursmarken gefangen. Orderbuch-Daten deuten darauf hin, dass dies kein Zufall ist: Eine Strategie namens Liquidity Herding erlaubt es großen Marktteilnehmern, die Kursentwicklung zu steuern, ohne den Markt offen zu manipulieren."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

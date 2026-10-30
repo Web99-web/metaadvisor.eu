@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/10/14/cathie-wood-s-ark-invest-takes-11-5-stake-in-solana-treasury-firm-solmate-slmt"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Solmate-Infrastructure-SLMT.png"
-featured_image: "/images/Solmate-Infrastructure-SLMT.png"
-image: "/images/Solmate-Infrastructure-SLMT.png"
-thumbnail: "/images/Solmate-Infrastructure-SLMT.png"
+image_url: "/images/Solmate-Infrastructure-SLMT.webp"
+featured_image: "/images/Solmate-Infrastructure-SLMT.webp"
+image: "/images/Solmate-Infrastructure-SLMT.webp"
+thumbnail: "/images/Solmate-Infrastructure-SLMT.webp"
 image_alt: "Solmate Infrastructure (SLMT) — Solana trezor i validator infrastruktura"
 image_credit: "Slika je simbolična."
 tags: ["Solmate", "SLMT", "Solana", "validatori", "trezor", "ARK Invest", "Nasdaq", "PIPE", "UAE", "Abu Dhabi", "staking", "RockawayX"]
 summary: "Solmate (SLMT) je Nasdaq-listirana tvrtka fokusirana na trezor digitalne imovine i validator infrastrukturu za Solanu. Ušla je u partnerstva u UAE, kupila SOL uz popust i privukla ARK Invest, koji drži 11,5% udjela."
+categories: ["crypto"]
 ---
 
 **Solmate Infrastructure (Nasdaq: SLMT)** pojavljuje se kao hibrid **trezora digitalne imovine** i **infrastrukturne tvrtke** posvećene ekosustavu **Solane (SOL)**. Nastao rebrandiranjem bivšeg **Brera Holdingsa**, Solmate se odmaknuo od sportskog modela “multi-club” i usmjerio na **ulaganje u SOL** te **pokretanje bare-metal validatora** — s fokusom na **Abu Dhabi (UAE)**.

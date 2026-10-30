@@ -9,6 +9,7 @@ summary: "Dugoročni bitcoin holderi pojačali su likvidacije posljednjih tjedan
 tags: ["bitcoin","crypto","holders","Glassnode","bearish","market"]
 image_url: "https://www.coindesk.com/resizer/v2/BQ65Y55T4JEXLBGNRHFDS7U7N4.jpg?auth=567b39703f2ad0c0e2b171e6cb30ef6f52fca1ecde17e6e7282d8edb39a22320&width=1200"
 image_url_small: "https://www.coindesk.com/resizer/v2/BQ65Y55T4JEXLBGNRHFDS7U7N4.jpg?auth=567b39703f2ad0c0e2b171e6cb30ef6f52fca1ecde17e6e7282d8edb39a22320&width=600"
+categories: ["crypto"]
 ---
 
 Dugoročni vlasnici bitcoina pojačali su prodaje posljednjih tjedana, što je dodatno povećalo **bearish pritiske** na tržištu.  

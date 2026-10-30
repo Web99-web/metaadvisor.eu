@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/337305/21shares-seeks-launch-of-sei-etf-with-pot
 summary: "Prijava slijedi nakon Canary Capitalove iz svibnja, dok menadžeri fondova ciljaju ETF-ove izvan Bitcoina i Ethereuma."
 tags: ["crypto","ETF","SEI","21Shares","staking"]
 image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/08/sei-etf-21shares.jpg"
+categories: ["news"]
 ---
 
 **21Shares**, vodeća tvrtka za upravljanje imovinom, podnijela je zahtjev **američkoj Komisiji za vrijednosne papire (SEC)** kako bi lansirala **ETF koji prati SEI**, izvorni token Sei blockchaina.

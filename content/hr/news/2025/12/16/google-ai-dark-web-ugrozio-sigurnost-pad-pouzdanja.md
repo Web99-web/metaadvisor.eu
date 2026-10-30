@@ -7,13 +7,14 @@ translationKey: "google_dark_web_report_shutdown_16122025"
 source: "TechCrunch"
 source_url: "https://techcrunch.com"
 author: "MetaAdvisor.eu — analiza"
-image_url: "/images/dark-web-safty.png"
-featured_image: "/images/dark-web-safty.png"
-image: "/images/dark-web-safty.png"
-thumbnail: "/images/dark-web-safty.png"
+image_url: "/images/dark-web-safty.webp"
+featured_image: "/images/dark-web-safty.webp"
+image: "/images/dark-web-safty.webp"
+thumbnail: "/images/dark-web-safty.webp"
 image_alt: "Digitalni sigurnosni štit s natpisom Dark Web Safety"
 tags: ["sigurnost podataka","dark web","curenje podataka","google","online sigurnost","cyber sigurnost","privatnost","digitalna zaštita"]
 summary: "Google ukida svoj 'dark web report' alat. Korisnici sada moraju koristiti druge alate kako bi provjerili je li njihova email adresa ili lozinka završila na dark webu."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

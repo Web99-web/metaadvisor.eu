@@ -16,6 +16,7 @@ image_alt: "Solana SOL und institutionelles Interesse über ETFs"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["solana","sol","etf","institutionelle-investoren","kryptowaehrungen","markt","analyse"]
 summary: "Trotz fallender SOL-Preise verzeichnen Solana-ETFs mehrere Tage in Folge Kapitalzuflüsse, was auf anhaltendes institutionelles Interesse hindeutet."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "meta-ai-support-hack-instagram-2026-06-07"
 source: "The Guardian, Reuters, 404 Media, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Meta-AI-instagram-hack.png"
-featured_image: "/images/hack/Meta-AI-instagram-hack.png"
-image: "/images/hack/Meta-AI-instagram-hack.png"
-thumbnail: "/images/hack/Meta-AI-instagram-hack.png"
+image_url: "/images/hack/Meta-AI-instagram-hack.webp"
+featured_image: "/images/hack/Meta-AI-instagram-hack.webp"
+image: "/images/hack/Meta-AI-instagram-hack.webp"
+thumbnail: "/images/hack/Meta-AI-instagram-hack.webp"
 image_alt: "Meta AI support hack and Instagram account takeover concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Meta AI", "Instagram", "Facebook", "Messenger", "KI", "künstliche Intelligenz", "KI-Support", "Chatbot", "Cybersecurity", "Cybersicherheit", "Hacking", "Kontoübernahme", "Account Takeover", "Passwort-Reset", "Kontosicherheit", "digitale Identität", "Meta Support", "Automatisierung", "KI-Moderation", "Metaadvisor"]
 summary: "Der Vorfall mit dem Meta AI Support Bot wirft ernste Fragen darüber auf, wie sicher es ist, die Wiederherstellung von Konten automatisierten Systemen zu überlassen. Wenn KI-Support Hackern bei der Änderung des Kontozugangs helfen kann, ist das nicht mehr nur schlechter Kundendienst, sondern ein Sicherheitsrisiko."
+categories: ["ai"]
 ---
 
 Das Bild ist symbolisch.
@@ -83,7 +84,7 @@ Besonders gefährdet sind kleine Unternehmer, Seitenadministratoren, Content Cre
 <figure style="max-width:520px; margin:28px auto; text-align:center;">
   <a href="https://metaadvisor.eu/de/news/digitale-ausloeschung-private-plattformen-oeffentlicher-marktplatz-emotionale-loeschung/" style="display:block;">
     <img 
-      src="/images/Social-networking-erased-destroyed.png" 
+      src="/images/Social-networking-erased-destroyed.webp" 
       alt="Digitale Auslöschung und emotionale Löschung von Nutzern aus sozialen Netzwerken"
       style="width:100%; height:auto; border-radius:14px;"
     >

@@ -7,15 +7,16 @@ translationKey: "metamask-consensys-split-financial-platform-2026-09-10"
 source: "Consensys, MetaMask, Fortune, CoinDesk, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Metamask-stocks.png"
-featured_image: "/images/Metamask-stocks.png"
-image: "/images/Metamask-stocks.png"
-thumbnail: "/images/Metamask-stocks.png"
+image_url: "/images/Metamask-stocks.webp"
+featured_image: "/images/Metamask-stocks.webp"
+image: "/images/Metamask-stocks.webp"
+thumbnail: "/images/Metamask-stocks.webp"
 image_alt: "MetaMask splits from Consensys and expands toward tokenized stocks, payments, savings and investing"
 image_credit: "Metaadvisor.eu"
 tags: ["MetaMask", "Consensys", "Ethereum", "crypto", "blockchain", "tokenization", "tokenized stocks", "finance", "fintech", "self-custody", "MetaMask Card", "Money Account", "mUSD", "Linea", "DeFi", "IPO", "RWA"]
 description: "Consensys is splitting into two independent companies, with MetaMask becoming a standalone consumer business that is expanding from a crypto wallet into payments, savings, investing and traditional financial products."
 summary: "MetaMask is becoming a standalone company while the new Consensys takes over Ethereum protocols and institutional blockchain infrastructure. The split shows how far the former crypto wallet has moved toward becoming a broader financial platform."
+categories: ["Crypto"]
 ---
 
 *The image is symbolic.*

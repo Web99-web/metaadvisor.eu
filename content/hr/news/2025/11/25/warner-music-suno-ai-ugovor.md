@@ -15,6 +15,7 @@ image_alt: "Warner Music i Suno AI partnerstvo"
 image_credit: "MetaAdvisor / AI-generated"
 tags: ["ai", "glazba", "warner", "suno", "autorska-prava", "tehnologija", "ai-glazba", "ulaganja", "inovacije"]
 summary: "Warner Music Group i Suno sklopili su povijesni AI glazbeni sporazum koji rješava sudsku tužbu i otvara put licenciranim AI modelima te novim fan-iskustvima."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

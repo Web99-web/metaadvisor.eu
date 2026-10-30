@@ -16,6 +16,7 @@ image_alt: "Trump memecoin and crypto market dynamics"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags: ["trumpcoin", "crypto", "bitcoin", "memecoin", "politics", "trading", "whales", "blockchain", "defi", "market", "analysis"]
 summary: "The TRUMP memecoin is gaining renewed attention after an exclusive Mar-a-Lago dinner for top holders was announced, triggering a new wave of interest and whale activity."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

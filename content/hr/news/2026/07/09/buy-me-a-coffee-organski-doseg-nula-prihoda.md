@@ -16,6 +16,7 @@ tags: ["Buy Me a Coffee", "organski doseg", "digitalna monetizacija", "creator e
 summary: "MetaAdvisor već gotovo godinu dana testira ručni organski rast bez plaćenih oglasa, boostanih objava i umjetnog prometa. Prije nekoliko mjeseci u eksperiment je dodan i Buy Me a Coffee. Organski doseg postoji, publika raste, ali prihod od izravne podrške zasad je i dalje nula dolara."
 disclaimer: "Ovaj članak služi isključivo u informativne svrhe i predstavlja osvrt na iskustvo MetaAdvisora s organskim dosegom i pokušajem monetizacije kroz Buy Me a Coffee. Ne predstavlja poslovni, financijski ni marketinški savjet."
 draft: false
+categories: ["business"]
 ---
 
 Slika je simbolična.

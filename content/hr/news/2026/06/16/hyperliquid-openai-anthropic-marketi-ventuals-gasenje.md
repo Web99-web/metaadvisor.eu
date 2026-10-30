@@ -15,6 +15,7 @@ image_alt: "Hyperliquid OpenAI Anthropic private company markets concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Hyperliquid", "Ventuals", "OpenAI", "Anthropic", "SpaceX", "pre-IPO", "perpetual futures", "private company markets", "crypto trading", "HYPE", "AI companies", "synthetic markets", "price discovery", "DeFi", "crypto", "private valuation", "oracle risk", "Metaadvisor"]
 summary: "Hyperliquid ostaje bez OpenAI i Anthropic marketa jer se Ventuals, projekt koji ih je vodio, gasi. Ti marketi nisu bili prave dionice, nego sintetičke špekulacije na procijenjene valuacije privatnih AI kompanija."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>

@@ -8,14 +8,15 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/12/24/waymo-explains-why-its-robotaxis-got-stuck-during-the-sf-blackout/"
 author: "TechCrunch — translation and analysis by Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/robotaxi.png"
-featured_image: "/images/robotaxi.png"
-image: "/images/robotaxi.png"
-thumbnail: "/images/robotaxi.png"
+image_url: "/images/robotaxi.webp"
+featured_image: "/images/robotaxi.webp"
+image: "/images/robotaxi.webp"
+thumbnail: "/images/robotaxi.webp"
 image_alt: "Autonomous robotaxi with the word robotaxi on the vehicle"
 image_credit: "Illustration: MetaAdvisor"
 tags: ["robotaxi", "autonomous vehicles", "artificial intelligence", "ai", "mobility", "technology", "transport"]
 summary: "Waymo’s robotaxis became stuck during a power outage in San Francisco, raising questions about how prepared autonomous vehicles are for emergency situations."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

@@ -7,14 +7,15 @@ translationKey: "google-ogranicio-metin-pristup-geminiju-2026-06-30"
 source: "Financial Times, Reuters, Jutarnji list, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Google-limits-meta-gemini-access.png"
-featured_image: "/images/news/Google-limits-meta-gemini-access.png"
-image: "/images/news/Google-limits-meta-gemini-access.png"
-thumbnail: "/images/news/Google-limits-meta-gemini-access.png"
+image_url: "/images/news/Google-limits-meta-gemini-access.webp"
+featured_image: "/images/news/Google-limits-meta-gemini-access.webp"
+image: "/images/news/Google-limits-meta-gemini-access.webp"
+thumbnail: "/images/news/Google-limits-meta-gemini-access.webp"
 image_alt: "Google limits Meta's access to Gemini AI models"
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Meta", "Gemini", "artificial intelligence", "AI", "Google Cloud", "compute", "AI infrastructure", "data centers", "GPU", "Llama", "digital advertising", "Big Tech", "AI models", "Metaadvisor"]
 summary: "The news that Google limited Meta’s access to Gemini AI models emerged two days ago, but it raises a bigger question: why is Meta, despite its own Llama models and billions of dollars invested in AI, apparently using Google’s Gemini enough for a restriction to become news?"
+categories: ["ai"]
 ---
 
 The image is symbolic.
@@ -41,7 +42,7 @@ We wrote about this on **06.10.2025** in the article **“Meta Llama: Everything
 
 <div style="max-width:360px; margin:24px auto; text-align:center;">
   <a href="https://metaadvisor.eu/news/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/" target="_blank" rel="noopener noreferrer">
-    <img src="/images/Meta-llama.png" alt="Meta Llama generative AI model" style="width:100%; max-width:360px; height:auto; border-radius:12px;">
+    <img src="/images/Meta-llama.webp" alt="Meta Llama generative AI model" style="width:100%; max-width:360px; height:auto; border-radius:12px;">
   </a>
   <p style="font-size:0.9em; line-height:1.4; margin-top:8px;">
     <a href="https://metaadvisor.eu/news/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/" target="_blank" rel="noopener noreferrer">

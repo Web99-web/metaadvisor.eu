@@ -7,14 +7,15 @@ translationKey: "5affba8151607354900b31ce1d4c0b3b"
 source: "Metaadvisor (Cointelegraph, DeFi izvori, pravni podnesci)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/AAVE-Arbitrum-30000-eth.png"
-featured_image: "/images/news/AAVE-Arbitrum-30000-eth.png"
-image: "/images/news/AAVE-Arbitrum-30000-eth.png"
-thumbnail: "/images/news/AAVE-Arbitrum-30000-eth.png"
+image_url: "/images/news/AAVE-Arbitrum-30000-eth.webp"
+featured_image: "/images/news/AAVE-Arbitrum-30000-eth.webp"
+image: "/images/news/AAVE-Arbitrum-30000-eth.webp"
+thumbnail: "/images/news/AAVE-Arbitrum-30000-eth.webp"
 image_alt: "Aave i Arbitrum u sukobu oko zamrznutih 30.000 ETH nakon Kelp hacka"
 image_credit: "Metaadvisor.eu"
 tags: ["aave", "arbitrum", "ethereum", "eth", "defi", "kripto", "crypto", "kelp dao", "hack", "blockchain", "layer2", "regulacija", "pravni spor", "rsETH", "liquidity", "decentralizacija"]
 summary: "Nakon Kelp DAO hacka vrijednog gotovo 300 milijuna dolara, Aave i Arbitrum ulaze u pravni i tehnološki sukob oko 30.000 ETH. Pitanje više nije samo sigurnost — već i kontrola nad DeFi sustavom."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

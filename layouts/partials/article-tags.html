@@ -1,0 +1,28 @@
+{{- $p := . -}}
+{{- $terms := .GetTerms "tags" -}}
+{{- $byName := dict -}}
+{{- range $terms -}}
+  {{- $byName = merge $byName (dict (lower .Data.Term) .) -}}
+{{- end -}}
+{{- with .Params.tags -}}
+  {{- range $i, $name := . -}}
+    {{- if $i }}, {{ end -}}
+    {{- $destination := index $byName (lower $name) -}}
+    {{- if not $destination -}}
+      {{- $matches := slice -}}
+      {{- range $terms -}}
+        {{- if eq (urlize .Data.Term) (urlize $name) -}}{{- $matches = $matches | append . -}}{{- end -}}
+      {{- end -}}
+      {{- if eq (len $matches) 1 -}}{{- $destination = index $matches 0 -}}{{- end -}}
+    {{- end -}}
+    {{- with $destination -}}
+      {{- $tag := partialCached "tag-policy.html" . .Lang .Path -}}
+      {{- if ne $tag.Primary $tag.Slug -}}
+        {{- with $p.Site.GetPage (printf "/tags/%s" $tag.Primary) -}}{{- $destination = . -}}{{- end -}}
+      {{- end -}}
+      {{ with $destination.RelPermalink }}<a href="{{ . }}">{{ $name }}</a>{{ else }}<span class="tag">{{ $name }}</span>{{ end }}
+    {{- else -}}
+      <span class="tag">{{ $name }}</span>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

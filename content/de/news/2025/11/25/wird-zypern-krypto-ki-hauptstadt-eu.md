@@ -7,14 +7,15 @@ translationKey: "cyprus_crypto_ai_hub_20251125"
 source: "MetaAdvisor – Analyse"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Cyprus.png"
-featured_image: "/images/Cyprus.png"
-image: "/images/Cyprus.png"
-thumbnail: "/images/Cyprus.png"
+image_url: "/images/Cyprus.webp"
+featured_image: "/images/Cyprus.webp"
+image: "/images/Cyprus.webp"
+thumbnail: "/images/Cyprus.webp"
 image_alt: "Cyprus is changing the crypto game"
 image_credit: "MetaAdvisor / KI-generiert"
 tags: ["krypto", "blockchain", "eu", "zypern", "tokenisierung", "regulierung", "stablecoins", "defi", "ki", "startups"]
 summary: "Zypern entwickelt sich zu einem der dynamischsten Zentren für Krypto- und KI-Industrie in der EU – dank schneller MiCA-Implementierung, klarer Regulierung und günstiger Rahmenbedingungen für innovative Unternehmen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

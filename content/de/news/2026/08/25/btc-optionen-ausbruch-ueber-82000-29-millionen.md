@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "bitcoin-call-options-29-million-82000-2026-08-25"
 source: "CoinDesk, Laevitas, Deribit, ESMA, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/BTC-call-options-2.9m.png"
-featured_image: "/images/news/BTC-call-options-2.9m.png"
-image: "/images/news/BTC-call-options-2.9m.png"
-thumbnail: "/images/news/BTC-call-options-2.9m.png"
+image_url: "/images/news/BTC-call-options-2.9m.webp"
+featured_image: "/images/news/BTC-call-options-2.9m.webp"
+image: "/images/news/BTC-call-options-2.9m.webp"
+thumbnail: "/images/news/BTC-call-options-2.9m.webp"
 image_alt: "Bitcoin-Call-Optionen im Wert von 2,9 Millionen US-Dollar für einen BTC-Ausbruch über 82.000 US-Dollar"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Bitcoin", "BTC", "Bitcoin-Optionen", "Call-Optionen", "Krypto-Optionen", "BTC-Optionen", "Strike-Preis", "Optionsprämie", "Deribit", "Laevitas", "Bitcoin-Futures", "Krypto-Derivate", "Optionen", "Futures", "Bitcoin-Handel", "Bitcoin-Preis", "Volatilität", "Absicherung gegen Kursverluste", "Put-Optionen", "MiFID II", "EU"]
 description: "Ein oder mehrere Trader zahlten rund 2,9 Millionen US-Dollar für 2.000 Bitcoin-Call-Optionen mit einem Strike von 82.000 US-Dollar. Doch BTC muss nicht zwingend über 82.000 US-Dollar steigen, damit der Trader mit den Optionen Gewinn erzielt."
 summary: "Jemand setzte rund 2,9 Millionen US-Dollar auf einen schnellen Bitcoin-Ausbruch über 82.000 US-Dollar, während der restliche Optionsmarkt gleichzeitig Schutz vor fallenden Kursen kauft. Was wurde tatsächlich gekauft, warum Optionen statt Futures und wie kann mit einer Option schon Gewinn erzielt werden, bevor BTC den Strike erreicht?"
+categories: ["Crypto"]
 ---
 
 *Das Bild ist symbolisch.*

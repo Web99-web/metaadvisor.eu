@@ -16,6 +16,7 @@ image_alt: "Kripto tržište — rezultati i kretanje cijena dionica"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","exchanges","bullish","earnings","markets","stocks","metaadvisor"]
 summary: "Bullish je objavio Q2 rezultate iznad očekivanja — dionica je reagirala rastom. Investitori ponovno nagrađuju burze koje pokazuju stabilan prihod od naknada, veće volumene i kontrolu troškova."
+categories: ["crypto"]
 ---
 
 **Bullish** je isporučio **bolje Q2 rezultate** od očekivanih i time potvrdio da u okruženju **postupnog popuštanja** (nakon Fedova reza) tržište najviše cijeni **predvidive tokove prihoda**. Priča je jednostavna: kad **volumeni rastu**, a **naknade** i **skrbničke usluge** drže ritam, P&L izgleda bolje — bez obzira na dnevne trzaje cijena kripta.

@@ -10,6 +10,7 @@ tags: ["news", "scam", "ponzi", "pig-butchering", "xuex", "eg-invest", "revolut"
 image_url: "https://images.pexels.com/photos/5900131/pexels-photo-5900131.jpeg"
 image_source: "Pexels – Kaboompics.com (https://www.pexels.com/photo/woman-and-receipts-on-desk-5900131/)"
 image_alt: "Woman reviewing receipts on a desk"
+categories: ["news"]
 ---
 
 The **XUEX** platform (linked to **EG Investment Group**) collapsed on Friday night, leaving thousands of users without access to their funds, according to Croatian media. Ads and Telegram groups promised “stable returns” and a **doubling of deposits**, with users confirming two daily “signals” in the app. Payouts were only possible after **52 days**, sustaining the illusion of profits — a hallmark of **Ponzi** and **“pig-butchering”** schemes.

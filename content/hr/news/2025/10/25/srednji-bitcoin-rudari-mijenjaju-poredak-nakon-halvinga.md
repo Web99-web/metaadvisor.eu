@@ -15,6 +15,7 @@ image_alt: "Bitcoin kovanice — ilustracija rudarenja"
 image_credit: "Slika je simbolična."
 tags: ["bitcoin", "BTC", "rudari", "mining", "halving", "hashrate", "energija", "struja", "ugovori o opskrbi", "demand-response", "ASIC", "hladjenje", "data-centar", "operativna učinkovitost", "dug", "CAPEX", "prihodi", "kripto"]
 summary: "Nakon halvinga srednje veliki rudari hvataju zalet kombinacijom jeftinije struje, discipline duga, učinkovitije opreme i dodatnih izvora prihoda. Rezultat: vidljivo preslagivanje poretka u industriji."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

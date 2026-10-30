@@ -38,6 +38,7 @@ tags:
   - Liquidität
 
 summary: "Wöchentliche, monatliche und quartalsweise Optionsverfälle (OPEX) erzeugen Angebots-/Nachfragewellen, die BTC/ETH um „Max-Pain“-Zonen ziehen können. Hier die Mechanik, typische Muster und worauf man praktisch achtet."
+categories: ["crypto"]
 ---
 
 > **Hinweis:** Bild ist symbolisch.

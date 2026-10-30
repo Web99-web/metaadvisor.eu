@@ -7,14 +7,15 @@ translationKey: "trump-cz-pardon-20251023"
 source: "Reuters, AP, The Guardian"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/CZ-pardon.png"
-featured_image: "/images/CZ-pardon.png"
-image: "/images/CZ-pardon.png"
-thumbnail: "/images/CZ-pardon.png"
+image_url: "/images/CZ-pardon.webp"
+featured_image: "/images/CZ-pardon.webp"
+image: "/images/CZ-pardon.webp"
+thumbnail: "/images/CZ-pardon.webp"
 image_alt: "CZ — predsjedničko pomilovanje (Trump, Binance)"
 image_credit: "Slika je simbolična."
 tags: ["Trump", "CZ", "Binance", "pardon", "SAD", "regulacija", "DOJ"]
 summary: "Donald Trump pomilovao je osnivača Binancea, Changpeng Zhao-a (CZ). Podsjećamo zašto je uopće bio optužen i što pomilovanje praktično znači."
+categories: ["crypto"]
 ---
 
 **Što se dogodilo?**  

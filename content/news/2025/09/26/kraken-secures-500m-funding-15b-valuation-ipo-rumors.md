@@ -5,10 +5,10 @@ category: "news"
 translationKey: "353556f7e99a54cdaf8756918230458f"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/kraken-500m-raise-15b-valuation-ipo-speculation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "/images/kraken.png"
-featured_image: "/images/kraken.png"
-image: "/images/kraken.png"
-thumbnail: "/images/kraken.png"
+image_url: "/images/kraken.webp"
+featured_image: "/images/kraken.webp"
+image: "/images/kraken.webp"
+thumbnail: "/images/kraken.webp"
 image_alt: "Kraken logo – symbolic graphic"
 image_credit: "Metaadvisor.eu (generated graphic)"
 tags:
@@ -18,6 +18,7 @@ tags:
   - crypto-exchange
   - valuation
 summary: "Crypto exchange Kraken has raised $500M at a $15B valuation, fueling speculation of an upcoming IPO."
+categories: ["news"]
 ---
 
 U.S. crypto exchange **Kraken** has reportedly raised **$500 million** in fresh capital, pushing its valuation to **$15 billion**. The round has intensified speculation about a potential **initial public offering (IPO)**, a topic long debated in the crypto industry.  

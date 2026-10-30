@@ -7,10 +7,10 @@ translationKey: "gold_5496_digital_hype_20260128"
 source: "MetaAdvisor Analysis / Precious Metals Markets"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/gold.png"
-featured_image: "/images/gold.png"
-image: "/images/gold.png"
-thumbnail: "/images/gold.png"
+image_url: "/images/gold.webp"
+featured_image: "/images/gold.webp"
+image: "/images/gold.webp"
+thumbnail: "/images/gold.webp"
 image_alt: "Gold at a historic high – symbolic illustration"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -28,6 +28,7 @@ tags:
   - global economy
   - market uncertainty
 summary: "Gold has surged to a new all-time high of $5,496 per ounce, while silver climbs toward $118. Beyond macro uncertainty, the rally is increasingly driven by digital accessibility through crypto platforms and tokenized products."
+categories: ["finance"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

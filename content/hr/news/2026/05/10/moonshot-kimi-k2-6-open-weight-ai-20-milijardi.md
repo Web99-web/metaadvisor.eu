@@ -7,14 +7,15 @@ translationKey: "c9be13e3a9fdb5450eaf69d9c39a7c4d"
 source: "Metaadvisor (TechCrunch, OpenRouter, Reuters)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Moonshot-Kimi-K2.6-20B.png"
-featured_image: "/images/companies/Moonshot-Kimi-K2.6-20B.png"
-image: "/images/companies/Moonshot-Kimi-K2.6-20B.png"
-thumbnail: "/images/companies/Moonshot-Kimi-K2.6-20B.png"
+image_url: "/images/companies/Moonshot-Kimi-K2.6-20B.webp"
+featured_image: "/images/companies/Moonshot-Kimi-K2.6-20B.webp"
+image: "/images/companies/Moonshot-Kimi-K2.6-20B.webp"
+thumbnail: "/images/companies/Moonshot-Kimi-K2.6-20B.webp"
 image_alt: "Moonshot i Kimi K2.6 AI model dosegnuli 20 milijardi dolara vrijednosti"
 image_credit: "Metaadvisor.eu"
 tags: ["moonshot", "kimi", "kimi k2.6", "ai", "artificial intelligence", "china ai", "open-weight", "llm", "openrouter", "developers", "open source ai", "deepseek", "anthropic", "openai", "coding ai", "ai models", "tech", "metaadvisor"]
 summary: "Kineski AI startup Moonshot dosegnuo je valuaciju od 20 milijardi dolara nakon novog financiranja, dok njihov Kimi K2.6 open-weight AI model postaje sve popularniji među developerima i AI zajednicom."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

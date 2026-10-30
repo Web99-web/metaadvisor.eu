@@ -7,10 +7,10 @@ translationKey: "lighter_lit_airdrop_explained_31122025"
 source: "MetaAdvisor Analyse — basierend auf CoinDesk und On-Chain-Daten"
 source_url: "https://coindesk.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/LIT-Ligther-airdrop.png"
-featured_image: "/images/LIT-Ligther-airdrop.png"
-image: "/images/LIT-Ligther-airdrop.png"
-thumbnail: "/images/LIT-Ligther-airdrop.png"
+image_url: "/images/LIT-Ligther-airdrop.webp"
+featured_image: "/images/LIT-Ligther-airdrop.webp"
+image: "/images/LIT-Ligther-airdrop.webp"
+thumbnail: "/images/LIT-Ligther-airdrop.webp"
 image_alt: "Symbolische Darstellung von Kapitalabflüssen nach dem LIT-Airdrop auf der Lighter-Plattform"
 image_credit: "MetaAdvisor.eu"
 image_note: "Bild ist symbolisch."
@@ -25,6 +25,7 @@ tags:
   - liquidity
   - yield-farming
 summary: "Nach dem großen Airdrop des Tokens LIT wurden innerhalb von nur 24 Stunden rund 250 Millionen US-Dollar von der Plattform Lighter abgezogen. Obwohl dies dramatisch klingt, handelt es sich um ein bekanntes Muster im DeFi-Sektor – insbesondere nach großen Airdrops."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 10px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

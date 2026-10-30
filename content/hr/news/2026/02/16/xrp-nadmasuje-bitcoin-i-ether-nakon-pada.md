@@ -15,6 +15,7 @@ image_alt: "XRP raste nakon snažnog pada dok investitori akumuliraju"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["xrp", "ripple", "kriptovalute", "bitcoin", "ether", "binance", "buy the dip", "akumulacija", "kripto tržište", "blockchain", "digitalna imovina"]
 summary: "XRP bilježi snažan oporavak nakon nedavnog sloma cijene, nadmašujući Bitcoin i Ether, dok podaci ukazuju na intenzivnu akumulaciju investitora nakon pada."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

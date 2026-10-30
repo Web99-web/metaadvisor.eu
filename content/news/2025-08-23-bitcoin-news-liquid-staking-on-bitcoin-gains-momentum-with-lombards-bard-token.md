@@ -9,6 +9,7 @@ summary: "Lombard is attempting to make Bitcoin a more productive asset for DeFi
 tags: ["bitcoin","bard","staking","defi","lombard","lbtc","babylon","ethereum","base","bnb","morpho","pendle","etherfi"]
 image: "https://www.coindesk.com/resizer/v2/W3BARD-staking.jpg"
 image_alt: "Lombard Finance introduces LBTC liquid staking token for Bitcoin"
+categories: ["crypto"]
 ---
 
 For most of its history, bitcoin has been prized as digital gold: an asset to hold rather than use. That passivity has left trillions of dollars’ worth of BTC sitting idle in wallets, disconnected from the yield strategies and composability that define decentralized finance (DeFi).

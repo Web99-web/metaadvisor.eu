@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/23/bitcoin-stumbles-in-week-38-its-third-worst-week-on-average"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "BTC – Kursrückgang (symbolische Illustration)"
 image_credit: "Metaadvisor.eu (generierte Grafik)"
 tags:
@@ -33,6 +33,7 @@ tags:
   - hpc
   - market-sentiment
 summary: "Historisch ist Kalenderwoche 38 die dritt-schlechteste für Bitcoin (Ø −2,25%). Diese Woche liegt BTC bereits bei ~−2%, mit Max-Pain um 110.000 $ und niedrigen Funding-Sätzen sowie geringer impliziter Volatilität — Zeichen nachlassender Spekulation."
+categories: ["crypto"]
 ---
 
 **Kurz:** Statistiken zeigen, dass die **38. Kalenderwoche** historisch die **dritt-schlechteste** für **Bitcoin** ist, mit einem durchschnittlichen Ertrag von rund **−2,25%** (schwächer sind nur Woche **14** und **28**). Aktuell notiert BTC etwa **~−2%** bei rund **113.000 $**. Der **Max-Pain** zum Monatsverfall im September liegt bei **110.000 $** und kann kurzfristig **Abwärtsdruck** erzeugen.

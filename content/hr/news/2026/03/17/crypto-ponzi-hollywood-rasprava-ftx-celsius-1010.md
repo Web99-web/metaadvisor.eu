@@ -7,14 +7,15 @@ translationKey: "hollywood-crypto-debate-2026"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/news/Hollywood-vs-Crypto.png"
-featured_image: "/images/news/Hollywood-vs-Crypto.png"
-image: "/images/news/Hollywood-vs-Crypto.png"
-thumbnail: "/images/news/Hollywood-vs-Crypto.png"
+image_url: "/images/news/Hollywood-vs-Crypto.webp"
+featured_image: "/images/news/Hollywood-vs-Crypto.webp"
+image: "/images/news/Hollywood-vs-Crypto.webp"
+thumbnail: "/images/news/Hollywood-vs-Crypto.webp"
 image_alt: "Hollywood i kripto industrija u fokusu rasprave"
 tags: ["kripto", "hollywood", "ftx", "celsius", "bitcoin", "analiza", "tržište", "investitori", "blockchain", "financije"]
 summary: "Hollywood kroz dokumentarac Bena McKenzieja ponovno otvara pitanje kripta, dok se u pozadini i dalje analiziraju FTX kolaps 2022., Celsius bankrot i Veliki kolaps 10.10.2025 koji su promijenili percepciju tržišta."
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

@@ -7,12 +7,13 @@ translationKey: "c9e7a1f4d2b84b7a9e5c3f1a8d6b2c4e"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (regulatorische Quellen, Medien)"
 source_url: ""
-image_url: "/images/news/Revolut-fined-in-Italy.png"
-featured_image: "/images/news/Revolut-fined-in-Italy.png"
+image_url: "/images/news/Revolut-fined-in-Italy.webp"
+featured_image: "/images/news/Revolut-fined-in-Italy.webp"
 image_alt: "Revolut Strafe Italien Kontosperrung"
 image_credit: "Illustration"
 tags: ["revolut","fintech","bankwesen","kontosperrung","digitale kontrolle","ai moderation"]
 summary: "Die Strafe gegen Revolut in Italien wirft eine größere Frage auf: Wer kontrolliert heute den Zugang zu Geld – und was passiert, wenn dieser Zugang verschwindet?"
+categories: ["fintech"]
 ---
 
 *Das Bild ist symbolisch.*

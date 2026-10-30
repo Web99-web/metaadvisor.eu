@@ -7,14 +7,15 @@ translationKey: "niantic-pokemon-go-ai-world-model-2026"
 source: "Metaadvisor (Niantic, industry reports)"
 source_url: "[https://metaadvisor.eu/](https://metaadvisor.eu/)"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Pokemon-GO-Niantic.png"
-featured_image: "/images/companies/Pokemon-GO-Niantic.png"
-image: "/images/companies/Pokemon-GO-Niantic.png"
-thumbnail: "/images/companies/Pokemon-GO-Niantic.png"
+image_url: "/images/companies/Pokemon-GO-Niantic.webp"
+featured_image: "/images/companies/Pokemon-GO-Niantic.webp"
+image: "/images/companies/Pokemon-GO-Niantic.webp"
+thumbnail: "/images/companies/Pokemon-GO-Niantic.webp"
 image_alt: "Pokémon Go i Niantic transformacija prema AI modelu stvarnog svijeta"
 image_credit: "Metaadvisor.eu"
 tags: ["niantic", "pokemon go", "ai", "umjetna inteligencija", "ar", "augmented reality", "geospatial ai", "data", "big tech", "machine learning", "tehnologija", "buducnost"]
 summary: "Pokémon Go više nije samo igra — Niantic danas koristi milijarde prikupljenih podataka za razvoj AI modela koji razumije stvarni svijet i spaja digitalno i fizičko okruženje."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

@@ -15,6 +15,7 @@ image_alt: "Globaler Internetausfall — symbolische Illustration"
 image_credit: "Illustration — Metaadvisor.eu (symbolisches Bild)"
 tags: ["Internet","Ausfall","Resilienz","Cloud","Microsoft","Amazon","AWS","Azure","Banken","Zahlungen","Bargeld","Offline","Vorräte","DePIN","Kryptowährungen","global"]
 summary: "Was wäre, wenn das Internet weltweit ausfällt? Ein totaler Blackout ist unwahrscheinlich, weil das Netz nicht zentral ist. Doch regionale Störungen zeigen immer öfter, wie verwundbar unsere Gesellschaft ist."
+categories: ["policy"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,15 +7,16 @@ translationKey: "copper-industrial-metals-rotation-2026-08-26"
 source: "Reuters, MEXC, Investing.com, Yahoo Finance"
 source_url: "https://www.reuters.com/business/us-tariff-threat-upends-copper-surplus-prices-test-all-time-peak-2026-08-25/"
 author: "Metaadvisor.eu"
-image_url: "/images/Crypto-metals.png"
-featured_image: "/images/Crypto-metals.png"
-image: "/images/Crypto-metals.png"
-thumbnail: "/images/Crypto-metals.png"
+image_url: "/images/Crypto-metals.webp"
+featured_image: "/images/Crypto-metals.webp"
+image: "/images/Crypto-metals.webp"
+thumbnail: "/images/Crypto-metals.webp"
 image_alt: "Kupfer und Industriemetalle sind über traditionelle Märkte und Kryptobörsen handelbar"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Kupfer", "Industriemetalle", "Metalle", "Gold", "Kupferminen", "Kapitalrotation", "Rohstoffe", "Kryptobörsen", "Derivate", "Metallhandel", "Rohstoffmärkte", "Energieinfrastruktur", "künstliche Intelligenz"]
 description: "Kupfer hat Rekordniveaus erreicht, während sich das Kapital innerhalb des Metallmarktes von Gold in Richtung Industriemetalle und Minenbetreiber ausweitet. Kryptobörsen haben den Kupferhandel zusätzlich für kleine Privatanleger geöffnet."
 summary: "Kupfer ist stark in Richtung historischer Rekorde gestiegen, auch Kupferminen legen zu, während Zink ein Vierjahreshoch erreicht hat. Gleichzeitig kann Kupfer heute über Kryptobörsen bereits mit sehr kleinen Beträgen gehandelt werden, ohne physisches Metall kaufen zu müssen."
+categories: ["Crypto"]
 ---
 
 *Symbolbild.*

@@ -7,14 +7,15 @@ translationKey: "pyth_network_explainer_13122025"
 source: "MetaAdvisor – objašnjenje"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Pyth-network.png"
-featured_image: "/images/Pyth-network.png"
-image: "/images/Pyth-network.png"
-thumbnail: "/images/Pyth-network.png"
+image_url: "/images/Pyth-network.webp"
+featured_image: "/images/Pyth-network.webp"
+image: "/images/Pyth-network.webp"
+thumbnail: "/images/Pyth-network.webp"
 image_alt: "Pyth Network oracle mreža za tržišne podatke na blockchainu"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["pyth","oracle","blockchain","defi","trzisni-podaci","kripto","solana","ethereum","tehnologija"]
 summary: "Pyth Network je blockchain oracle mreža koja pametnim ugovorima omogućuje pristup stvarnim tržišnim podacima u gotovo realnom vremenu."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

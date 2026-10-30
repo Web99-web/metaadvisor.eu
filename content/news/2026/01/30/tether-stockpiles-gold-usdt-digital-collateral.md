@@ -7,10 +7,10 @@ translationKey: "tether_gold_usdt_digital_collateral_20260130"
 source: "MetaAdvisor Analysis / Gold and Stablecoin Markets"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Tether-USDT-gold.png"
-featured_image: "/images/Tether-USDT-gold.png"
-image: "/images/Tether-USDT-gold.png"
-thumbnail: "/images/Tether-USDT-gold.png"
+image_url: "/images/Tether-USDT-gold.webp"
+featured_image: "/images/Tether-USDT-gold.webp"
+image: "/images/Tether-USDT-gold.webp"
+thumbnail: "/images/Tether-USDT-gold.webp"
 image_alt: "Gold bars and Tether USDT – symbolic illustration of digital and physical collateral"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -27,6 +27,7 @@ tags:
   - gold market
   - financial security
 summary: "Tether, issuer of the world’s largest stablecoin, is systematically accumulating physical gold at a pace of 1–2 tons per week. As gold prices swing sharply, this move raises fundamental questions about the future of stablecoins, collateral, and financial power."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

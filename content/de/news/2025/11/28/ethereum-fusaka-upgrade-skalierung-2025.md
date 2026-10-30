@@ -7,14 +7,15 @@ translationKey: "eth_fusaka_upgrade_20251128"
 source: "MetaAdvisor – Analyse"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/eth-fusaka.png"
-featured_image: "/images/eth-fusaka.png"
-image: "/images/eth-fusaka.png"
-thumbnail: "/images/eth-fusaka.png"
+image_url: "/images/eth-fusaka.webp"
+featured_image: "/images/eth-fusaka.webp"
+image: "/images/eth-fusaka.webp"
+thumbnail: "/images/eth-fusaka.webp"
 image_alt: "Ethereum Fusaka Upgrade"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ethereum", "fusaka", "skalierung", "rollups", "blockchain", "technologie", "krypto"]
 summary: "Fusaka führt PeerDAS, neue BPO-Parameter und technische Anpassungen ein, die langfristig bestimmen, wie Ethereum Daten verarbeitet und Rollups skaliert."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

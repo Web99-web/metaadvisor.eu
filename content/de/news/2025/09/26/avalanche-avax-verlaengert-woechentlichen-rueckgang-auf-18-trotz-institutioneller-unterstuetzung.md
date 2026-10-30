@@ -27,6 +27,7 @@ tags:
   - coinbase-institutional
   - liquiditaet
 summary: "AVAX fiel in 24 h um ~8 % auf ~27,72 $ und liegt damit auf Wochenbasis ~18 % im Minus. Trotz neuer Initiativen und prominenter Berater bleibt Kaufdynamik vorerst aus."
+categories: ["ai"]
 ---
 
 **Kurz:** **AVAX** verlor am Freitag rund **8 %** auf **27,72 $** – der **Wochenverlust** summiert sich damit auf etwa **18 %**. Die Schwäche ist Teil einer breiteren Korrektur: **ETH, SOL, DOGE** verzeichnen zweistellige Wochenminus, **BTC ~−6 %**.

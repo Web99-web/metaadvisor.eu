@@ -15,6 +15,7 @@ image_alt: "EURC euro stablecoin korištenje u Španjolskoj i digitalna plaćanj
 image_credit: "Metaadvisor.eu"
 tags: ["eurc stablecoin spanjolska", "euro stablecoin europa", "eurc placanja", "digitalni euro stablecoin", "crypto placanja spanjolska", "mica regulacija europa", "circle eurc stablecoin", "fintech spanjolska", "peer to peer placanja euro", "kripto karticna placanja", "stablecoin retail upotreba"]
 summary: "Španjolska predvodi korištenje EURC stablecoina u Europi s čak 36% transakcija, pokazujući kako se digitalni euro već danas koristi u svakodnevnim plaćanjima."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

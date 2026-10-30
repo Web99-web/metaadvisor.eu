@@ -7,14 +7,15 @@ translationKey: "openclaw-135k-ai-cost-shock-2026"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-agent.png"
-featured_image: "/images/AI-agent.png"
-image: "/images/AI-agent.png"
-thumbnail: "/images/AI-agent.png"
+image_url: "/images/AI-agent.webp"
+featured_image: "/images/AI-agent.webp"
+image: "/images/AI-agent.webp"
+thumbnail: "/images/AI-agent.webp"
 image_alt: "AI agent i razvoj umjetne inteligencije"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "umjetna inteligencija", "openclaw", "anthropic", "claude", "ai agenti", "developeri", "tehnologija", "automatizacija", "poslovi", "kripto", "big tech", "startup"]
 summary: "Nagla promjena u načinu naplate AI alata pogodila je oko 135.000 developera i otvorila pitanje ovisnosti o jednom sustavu, uz skok troškova i do 50 puta."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

@@ -14,6 +14,7 @@ image_alt: "Chainlink LINK price chart"
 image_credit: "MetaAdvisor.eu"
 tags: ["chainlink", "link", "crypto", "bitcoin", "defi", "akumulacija"]
 summary: "Chainlink (LINK) pao je ispod 14,5 USD, ali on-chain podaci pokazuju da protokol i dalje kupuje vlastite tokene, sada već 27% ispod prosječne nabavne cijene."
+categories: ["crypto"]
 ---
 
 💥 **Chainlink se našao pod pritiskom prodavača.**  

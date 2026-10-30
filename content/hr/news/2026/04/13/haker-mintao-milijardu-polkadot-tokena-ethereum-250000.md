@@ -7,14 +7,15 @@ translationKey: "7996d920ec1a06e455bfcc5c9a0cbaf0"
 source: "Metaadvisor (CoinDesk, CCN, The Cryptonomist, Cryptopolitan, FXStreet)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/hacker-made-tokens.png"
-featured_image: "/images/news/hacker-made-tokens.png"
-image: "/images/news/hacker-made-tokens.png"
-thumbnail: "/images/news/hacker-made-tokens.png"
+image_url: "/images/news/hacker-made-tokens.webp"
+featured_image: "/images/news/hacker-made-tokens.webp"
+image: "/images/news/hacker-made-tokens.webp"
+thumbnail: "/images/news/hacker-made-tokens.webp"
 image_alt: "Hakerski napad i mintanje tokena na blockchainu"
 image_credit: "Metaadvisor.eu"
 tags: ["kripto", "crypto", "polkadot", "dot", "ethereum", "eth", "hakiranje", "blockchain", "sigurnost", "bridge", "defi", "tokeni"]
 summary: "Napadač je iskoristio ranjivost u bridge sustavu i stvorio tokene vrijedne više od milijarde dolara, ali zbog tržišne realnosti uspio je izvući tek oko 250.000 dolara."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

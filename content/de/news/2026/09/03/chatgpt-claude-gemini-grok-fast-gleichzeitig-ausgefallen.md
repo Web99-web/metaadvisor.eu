@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "chatgpt-claude-gemini-grok-ai-outage-2026-09-03"
 source: "OpenAI Status, Anthropic Status, xAI Status, Downdetector, Axios, Forbes, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.png"
-featured_image: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.png"
-image: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.png"
-thumbnail: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.png"
+image_url: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.webp"
+featured_image: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.webp"
+image: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.webp"
+thumbnail: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.webp"
 image_alt: "AI-Ausfälle betreffen ChatGPT, Claude, Gemini und Grok mit Problemen bei der Verfügbarkeit großer KI-Dienste"
 image_credit: "Metaadvisor.eu"
 tags: ["KI", "ChatGPT", "OpenAI", "Claude", "Anthropic", "Gemini", "Google", "Grok", "xAI", "KI-Ausfall", "Störung", "künstliche Intelligenz", "Codex", "Technologie", "Cloud-Infrastruktur"]
 description: "ChatGPT, Claude und Grok hatten am 3. September nahezu gleichzeitig bestätigte Verfügbarkeitsprobleme, während auch Nutzer von Google Gemini Störungen meldeten. Eine gemeinsame Ursache ist bislang nicht bestätigt."
 summary: "Mehrere führende KI-Dienste hatten am selben Nachmittag Probleme. OpenAI, Anthropic und xAI bestätigten offiziell Störungen, während bei Gemini Nutzerprobleme gemeldet wurden, ohne dass Google einen umfassenden Ausfall bestätigte."
+categories: ["Tech"]
 ---
 
 *Das Bild dient nur zur Illustration.*

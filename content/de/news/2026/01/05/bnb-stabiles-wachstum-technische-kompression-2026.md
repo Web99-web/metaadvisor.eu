@@ -22,6 +22,7 @@ tags:
   - layer1
   - blockchain
 summary: "BNB verzeichnet zu Beginn des Jahres 2026 ein moderates Kursplus, während die technische Struktur auf eine enge Handelsspanne und fehlende klare Richtung hinweist."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

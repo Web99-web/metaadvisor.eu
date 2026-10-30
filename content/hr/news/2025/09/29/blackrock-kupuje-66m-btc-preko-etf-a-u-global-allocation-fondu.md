@@ -7,10 +7,10 @@ translationKey: "blackrock-ga-66m-ibit-hr"
 author: "Metaadvisor.eu"
 source: "Portfeljni izvještaji (SEC filings), industrijski pregledi"
 source_url: ""
-image_url: "/images/Blackrock-kupio-hr.png"
-featured_image: "/images/Blackrock-kupio-hr.png"
-image: "/images/Blackrock-kupio-hr.png"
-thumbnail: "/images/Blackrock-kupio-hr.png"
+image_url: "/images/Blackrock-kupio-hr.webp"
+featured_image: "/images/Blackrock-kupio-hr.webp"
+image: "/images/Blackrock-kupio-hr.webp"
+thumbnail: "/images/Blackrock-kupio-hr.webp"
 image_alt: "BlackRock i Bitcoin — simbolična naslovnica"
 image_credit: "Metaadvisor.eu"
 
@@ -27,6 +27,7 @@ tags:
   - tržišta
 
 summary: "BlackRockov Global Allocation Fund drži približno 66 mil. $ izloženosti Bitcoinu — ali preko iShares Bitcoin Trusta (IBIT), spot BTC ETF-a. Poruka: institucije šire BTC ekspoziciju kroz poznatu ETF infrastrukturu."
+categories: ["crypto"]
 ---
 
 > **Napomena:** Slika je simbolična. Ova objava sažima ključne činjenice; brojke ovise o datumu izvještaja fonda.

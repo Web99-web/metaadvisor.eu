@@ -15,6 +15,7 @@ image_alt: "Fall der Robinhood-Aktie und Kryptomärkte unter geopolitischem Druc
 image_credit: "Metaadvisor.eu"
 tags: ["robinhood", "krypto", "bitcoin", "btc", "coinbase", "aktien", "marktrückgang", "krypto handel", "investoren", "blockchain", "volatilität", "hormusstraße", "ölpreise", "geopolitik", "fed"]
 summary: "Die Robinhood-Aktie fällt um fast 10%, während die Krypto-Aktivität um nahezu 50% einbricht. Der Druck weitet sich auf den gesamten Sektor aus, verstärkt durch FED-Entscheidungen und Spannungen rund um die Hormusstraße."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

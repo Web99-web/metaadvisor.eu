@@ -5,10 +5,10 @@ date: 2025-12-25T12:00:00
 category: "crypto"
 translationKey: "imf_el_salvador_bitcoin_25122025"
 source: "CoinDesk, Cointelegraph"
-image_url: "/images/El-Salvador-BTC.png"
-featured_image: "/images/El-Salvador-BTC.png"
-image: "/images/El-Salvador-BTC.png"
-thumbnail: "/images/El-Salvador-BTC.png"
+image_url: "/images/El-Salvador-BTC.webp"
+featured_image: "/images/El-Salvador-BTC.webp"
+image: "/images/El-Salvador-BTC.webp"
+thumbnail: "/images/El-Salvador-BTC.webp"
 image_alt: "Flagge von El Salvador und Bitcoin-Symbol"
 tags:
   - el-salvador
@@ -19,6 +19,7 @@ tags:
   - kryptowaehrungen
   - staatliche-reserven
   - globale-oekonomie
+categories: ["crypto"]
 ---
 
 # IWF und El Salvador: Bitcoin bleibt Teil der Strategie, während sich die Spannungen entspannen

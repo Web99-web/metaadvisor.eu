@@ -7,14 +7,15 @@ translationKey: "7f90d7d3c0a84d3db2b7c1f9aa1148bc"
 source: "Metaadvisor (OpenAI, npm, Reddit, GitHub)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/OpenAI-Codex.png"
-featured_image: "/images/AI-general/OpenAI-Codex.png"
-image: "/images/AI-general/OpenAI-Codex.png"
-thumbnail: "/images/AI-general/OpenAI-Codex.png"
+image_url: "/images/AI-general/OpenAI-Codex.webp"
+featured_image: "/images/AI-general/OpenAI-Codex.webp"
+image: "/images/AI-general/OpenAI-Codex.webp"
+thumbnail: "/images/AI-general/OpenAI-Codex.webp"
 image_alt: "OpenAI Codex und die Explosion von AI Coding Agents"
 image_credit: "Metaadvisor.eu"
 tags: ["openai", "codex", "ai", "künstliche intelligenz", "coding ai", "ai agents", "entwickler", "github", "npm", "chatgpt", "softwareentwicklung", "devops", "automation", "cursor", "claude code", "programmierung"]
 summary: "Die Installationszahlen von OpenAI Codex sind in den letzten Tagen auf Social Media und Entwicklerplattformen explodiert. AI Coding Agents dringen immer stärker direkt in Development-Workflows ein und könnten den Beginn einer völlig neuen Software-Ära markieren."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

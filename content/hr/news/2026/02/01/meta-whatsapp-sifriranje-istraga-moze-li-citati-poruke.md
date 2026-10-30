@@ -8,10 +8,10 @@ source: "The Guardian"
 source_url: "https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages"
 author: "The Guardian"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/private-messages.png"
-featured_image: "/images/private-messages.png"
-image: "/images/private-messages.png"
-thumbnail: "/images/private-messages.png"
+image_url: "/images/private-messages.webp"
+featured_image: "/images/private-messages.webp"
+image: "/images/private-messages.webp"
+thumbnail: "/images/private-messages.webp"
 image_alt: "Privatne poruke i pitanje sigurnosti end-to-end enkripcije"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -24,6 +24,7 @@ tags:
   - nsa
   - nadzor
 summary: "Američke vlasti istražuju ozbiljne tvrdnje da Meta može pristupiti navodno šifriranim WhatsApp porukama, nakon tužbe temeljene na iskazima zviždača iz više zemalja."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

@@ -3,7 +3,7 @@ title: "Gemini Jumps on Nasdaq Debut, Hitting $4.4 Billion Valuation - Decrypt"
 slug: "gemini-jumps-on-nasdaq-debut-hitting-44-billion-valuation-decrypt-064f13"
 date: 2025-09-12T18:10:00Z
 category: "news"
-translationKey: "be217e7fb5358e4e2b8af4f22194a11c"
+translationKey: "be217e7fb5358e4e2b8af4f22194a11c--unpaired-eb49deab68b1"
 source: "Decrypt"
 source_url: "https://decrypt.co/339329/gemini-jumps-nasdaq-debut-hitting-4-4-billion-valuation"
 priority: 97
@@ -11,6 +11,11 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "finance", "stocks"]
 our_take: |
   Our view: Gemini Jumps on Nasdaq Debut, Hitting $4.4 Billion Valuation Gemini debuted on the Nasdaq at a roughly $4.4 billion valuation on Friday, as the crypto exchangeâ€™s shares immediately jumped above their initial offering p… Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
+seo_alias_of: "https://metaadvisor.eu/news/gemini-jumps-on-nasdaq-debut-hitting-44-billion-valuation-decrypt/"
+_build:
+  list: never
+  render: always
 ---
 
 Gemini Jumps on Nasdaq Debut, Hitting $4.4 Billion Valuation

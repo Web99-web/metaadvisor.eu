@@ -15,6 +15,7 @@ image_alt: "Symbolische Illustration eines Ausfalls bei Azure und Amazon Cloud"
 image_credit: "Illustration — Metaadvisor.eu"
 tags: ["Microsoft","Azure","Amazon","AWS","Google Cloud","Cloudflare","Cloud","Ausfall","Internet","Resilienz","Offline","Business Continuity","Banken","Zahlungen"]
 summary: "Wenn Microsoft Azure, Amazon AWS, Google Cloud und Cloudflare gleichzeitig Probleme haben, spüren Millionen von Nutzern weltweit die Folgen. Wir erklären, was heute passiert ist, warum die Abhängigkeit so groß ist und welche Lehren man ziehen sollte."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Google Cloud", "Google", "Revolut", "Lloyds", "Halifax", "HSBC", "Cloud Outage", "Cloud Computing", "Banking", "Digital Banking", "Payments", "Cybersecurity", "DORA", "Digital Infrastructure", "Financial Technology", "Europe", "Technology"]
 description: "Pad Google Clouda pogodio je Revolut, britanske banke, sudove i druge usluge. Kvar u Londonu otvorio je pitanje digitalne ovisnosti Europe."
 summary: "Kvar Google Cloud infrastrukture u Londonu 20. listopada 2026. izazvao je prekide bankarskih i drugih digitalnih usluga. Revolut, Lloyds, Halifax i HSBC bili su među pogođenima, dok su poteškoće zabilježene i u pravosuđu, dostavi te drugim sektorima. Incident je ponovno otvorio pitanje ovisnosti europskih financijskih institucija o nekoliko globalnih cloud kompanija."
+categories: ["technology"]
 ---
 
 *Slika je simbolična.*

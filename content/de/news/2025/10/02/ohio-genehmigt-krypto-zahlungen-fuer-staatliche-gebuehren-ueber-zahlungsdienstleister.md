@@ -7,10 +7,10 @@ translationKey: "f1a8d9b0b7e84d6b9c1f0a2dohio-btc-taxes-2025"
 source: "Amtliche Mitteilungen & Medienberichte (Synthese)"
 source_url: "https://ohio.gov"
 author: "Metaadvisor.eu"
-image_url: "/images/Ohio.png"
-featured_image: "/images/Ohio.png"
-image: "/images/Ohio.png"
-thumbnail: "/images/Ohio.png"
+image_url: "/images/Ohio.webp"
+featured_image: "/images/Ohio.webp"
+image: "/images/Ohio.webp"
+thumbnail: "/images/Ohio.webp"
 image_alt: "Skyline von Columbus, Ohio, mit Bitcoin-Symbol — Krypto-Zahlungen für staatliche Gebühren"
 image_credit: "Metaadvisor.eu (symbolisches Bild)"
 tags:
@@ -24,6 +24,7 @@ tags:
   - usa
   - adoption
 summary: "Ohio hat einen Zahlungsdienstleister für Krypto-Zahlungen bei staatlichen Gebühren freigegeben. Bürger können in Bitcoin zahlen; der Dienstleister wandelt Beträge sofort in US-Dollar um, die an den Staat fließen."
+categories: ["crypto"]
 ---
 
 Ohio macht einen Schritt in Richtung **Krypto-Zahlungen für staatliche Gebühren**: Das State Board of Deposit hat einen **Zahlungsdienstleister (Payment Processor)** zugelassen, der Krypto-Einzahlungen entgegennimmt und **in Echtzeit in USD umwandelt**. Bürger und Unternehmen können damit **Bitcoin** (und ggf. weitere Coins) nutzen, während die **Staatskasse weiterhin US-Dollar** erhält.

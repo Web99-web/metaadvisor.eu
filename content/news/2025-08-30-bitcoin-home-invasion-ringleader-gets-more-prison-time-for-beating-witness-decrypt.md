@@ -9,6 +9,7 @@ summary: "A Florida man sentenced to 47 years in prison for orchestrating violen
 tags: ["bitcoin", "crypto"]
 image_url: "https://cdn.decrypt.co/optimized/1200/webp/wp-content/uploads/2025/08/handcuffs-prison-gID_7.jpg"
 image: "https://cdn.decrypt.co/optimized/1200/webp/wp-content/uploads/2025/08/handcuffs-prison-gID_7.jpg"
+categories: ["crypto"]
 ---
 
 A Florida man, already serving a 47-year prison sentence for orchestrating a series of violent home invasions targeting crypto holders, has been handed more time for attacking a witness, according to the U.S. Justice Department.  

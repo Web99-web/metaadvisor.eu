@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/uk-government-considers-keeping-bitcoin-returns-on-seized-fraud-proceeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc-61000-dispute.png"
-featured_image: "/images/btc-61000-dispute.png"
-image: "/images/btc-61000-dispute.png"
-thumbnail: "/images/btc-61000-dispute.png"
+image_url: "/images/btc-61000-dispute.webp"
+featured_image: "/images/btc-61000-dispute.webp"
+image: "/images/btc-61000-dispute.webp"
+thumbnail: "/images/btc-61000-dispute.webp"
 image_alt: "Ilustracija: britanska zastava i Bitcoin — spor oko raspodjele 61.000 BTC"
 image_credit: "Metaadvisor.eu (simbolična slika)"
 tags:
@@ -28,6 +28,7 @@ tags:
   - pravosuđe
   - restitucija
 summary: "Vlada Ujedinjenog Kraljevstva razmatra hoće li žrtvama kineske prevare isplatiti trenutačnu tržišnu vrijednost zaplijenjenih 61.000 BTC ili iznos temeljen na ranijoj fiat šteti."
+categories: ["crypto"]
 ---
 
 Ujedinjeno Kraljevstvo razmatra model **naknade žrtvama kineske sheme prijevare** u kojoj je policija zaplijenila oko **61.000 BTC**. Ključno pitanje: **isplatiti žrtvama trenutačnu tržišnu vrijednost** kovanica (koje su u međuvremenu znatno poskupjele) ili **iznos temeljen na procijenjenoj fiat šteti** u trenutku kaznenog djela.

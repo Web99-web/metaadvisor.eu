@@ -9,6 +9,7 @@ summary: "Powells dovisher Ton trieb Ether auf neue Höchststände, aber fast 40
 tags: ["ethereum","eth","bitcoin","powell","fed","liquidations","crypto","treasury","hashdex","wall-street","stablecoins","smart-contracts","tokenization"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1d1424e45e19742407d0b0130a1db80b45a67c68-1280x853.jpg?auto=format"
 image_alt: "Ethereum-Preis zielt auf 10.000 $ während Liquidationen 400 Mio. $ erreichen"
+categories: ["crypto"]
 ---
 
 Der Ausbruch von Ethereum über 4.800 $ löste in den letzten 24 Stunden fast 388 Mio. $ an Liquidationen aus – das schwerste Flush unter allen Krypto-Assets.

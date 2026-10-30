@@ -8,10 +8,10 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/"
 author: "TechCrunch — analiza i prilagodba: MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Naware-steam-destorys-weeds.png"
-featured_image: "/images/Naware-steam-destorys-weeds.png"
-image: "/images/Naware-steam-destorys-weeds.png"
-thumbnail: "/images/Naware-steam-destorys-weeds.png"
+image_url: "/images/Naware-steam-destorys-weeds.webp"
+featured_image: "/images/Naware-steam-destorys-weeds.webp"
+image: "/images/Naware-steam-destorys-weeds.webp"
+thumbnail: "/images/Naware-steam-destorys-weeds.webp"
 image_alt: "Naware parna tehnologija za uništavanje korova bez kemikalija"
 image_credit: "MetaAdvisor / AI-generated"
 tags: [
@@ -32,6 +32,7 @@ tags: [
   "tehnologija"
 ]
 summary: "Američki startup Naware razvija tehnologiju za uništavanje korova pomoću pare i topline, bez pesticida i kemikalija. Ideja je potaknuta osobnim iskustvima s rakom i sve većim istraživanjima o štetnosti kemikalija u tlu, vodi i hrani."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

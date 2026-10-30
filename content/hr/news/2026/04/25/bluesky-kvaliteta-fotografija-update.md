@@ -15,6 +15,7 @@ image_alt: "Bluesky aplikacija i poboljšanje kvalitete fotografija"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["tech","tehnologija","bluesky","društvene mreže","fotografije","aplikacije","social media","innovation"]
 summary: "Bluesky uvodi poboljšanu kvalitetu fotografija i novi način prikaza sadržaja, čime pokušava postati ozbiljniji konkurent platformama poput X-a i Threadsa."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

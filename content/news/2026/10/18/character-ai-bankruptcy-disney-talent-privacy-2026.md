@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Character.AI", "Disney", "Artificial Intelligence", "AI", "AI Chatbots", "Bankruptcy", "AI Startups", "Data Privacy", "User Data", "Child Safety", "AI Regulation", "Google", "Technology", "Business"]
 description: "Character.AI files for bankruptcy despite millions of users. Disney seeks its AI talent and technology as authorities demand protection for private chats."
 summary: "Character.AI has entered Chapter 11 bankruptcy proceedings following heavy monthly losses and legal challenges. Disney is pursuing certain technology rights and 66 AI specialists, while US attorneys general are demanding safeguards for sensitive user data. The case raises questions about AI profitability, child safety and the future of private conversations."
+categories: ["technology"]
 ---
 
 *The image is symbolic.*

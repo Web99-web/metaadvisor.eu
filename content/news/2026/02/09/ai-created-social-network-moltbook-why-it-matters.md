@@ -7,14 +7,15 @@ translationKey: "ai-moltbook-social-network-agents-2026-02-09"
 source: "Wired / AP News / Forbes / MetaAdvisor Analysis"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Moltbook.png"
-featured_image: "/images/Moltbook.png"
-image: "/images/Moltbook.png"
-thumbnail: "/images/Moltbook.png"
+image_url: "/images/Moltbook.webp"
+featured_image: "/images/Moltbook.webp"
+image: "/images/Moltbook.webp"
+thumbnail: "/images/Moltbook.webp"
 image_alt: "Symbolic illustration of AI agents communicating inside their own social network"
 image_credit: "Symbolic illustration (AI / freely available image)"
 tags: ["ai", "artificial intelligence", "moltbook", "ai agents", "social networks", "automation", "future of work", "technology"]
 summary: "An experimental AI-only social network, informally dubbed Moltbook, shows that artificial intelligence can independently create content, discussions, and digital communities — without human users."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

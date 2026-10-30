@@ -7,14 +7,15 @@ translationKey: "darksword-ios18-mass-exploit-2026"
 author: "Metaadvisor.eu"
 source: "WIRED"
 source_url: ""
-image_url: "/images/news/Iphone-IOS18-hack.png"
-featured_image: "/images/news/Iphone-IOS18-hack.png"
-image: "/images/news/Iphone-IOS18-hack.png"
-thumbnail: "/images/news/Iphone-IOS18-hack.png"
+image_url: "/images/news/Iphone-IOS18-hack.webp"
+featured_image: "/images/news/Iphone-IOS18-hack.webp"
+image: "/images/news/Iphone-IOS18-hack.webp"
+thumbnail: "/images/news/Iphone-IOS18-hack.webp"
 image_alt: "DarkSword iPhone Exploit, der iOS 18 Geräte angreift"
 tags: ["iphone", "ios", "security", "hack", "cybersecurity", "apple", "exploit", "darksword", "daten", "privatsphäre", "analyse"]
 summary: "Eine neue Angriffstechnik namens DarkSword zeigt, wie Millionen iPhone-Nutzer mit iOS 18 bereits durch den Besuch einer infizierten Website gefährdet sein können."
 symbolic_image: true
+categories: ["security"]
 ---
 
 *Das Bild ist symbolisch.*

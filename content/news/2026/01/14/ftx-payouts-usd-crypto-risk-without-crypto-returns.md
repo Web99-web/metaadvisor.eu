@@ -7,10 +7,10 @@ translationKey: "77aa5e81fc83adcaec7fa4fc85877a88"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/FTX-payout.png"
-featured_image: "/images/FTX-payout.png"
-image: "/images/FTX-payout.png"
-thumbnail: "/images/FTX-payout.png"
+image_url: "/images/FTX-payout.webp"
+featured_image: "/images/FTX-payout.webp"
+image: "/images/FTX-payout.webp"
+thumbnail: "/images/FTX-payout.webp"
 image_alt: "FTX creditor payouts, legal disputes, and USD accounting in a crypto bankruptcy"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "FTX has set a new creditor payout date, but the core question remains unchanged: why are users who knowingly invested in crypto paid out in USD during bankruptcy, rather than in the assets they believed in?"
@@ -22,6 +22,7 @@ tags:
   - bitcoin
   - usd
   - creditors
+categories: ["news"]
 ---
 
 <p style="font-size:0.8em; color:#777; margin-top:-6px;">

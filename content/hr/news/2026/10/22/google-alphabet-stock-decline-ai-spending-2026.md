@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Google", "Alphabet", "GOOGL", "GOOG", "Stock Market", "Artificial Intelligence", "AI", "Google Cloud", "Gemini", "AI Infrastructure", "Capital Expenditure", "Wall Street", "Nasdaq", "Technology Stocks", "Financial Markets", "Investment", "Earnings", "Data Centers", "AI Spending"]
 description: "Googleove dionice padaju unatoč rastu prihoda od 24 % i Google Clouda od 82 %. Investitore zabrinjava do 205 milijardi dolara kapitalnih ulaganja."
 summary: "Dionice Googleove matične kompanije Alphabet nalaze se pod snažnim pritiskom i izgubile su približno petinu vrijednosti u odnosu na svibanjski vrhunac. Iako je kompanija u drugom kvartalu povećala prihode za 24 %, a Google Cloud čak 82 %, investitore zabrinjavaju golema ulaganja u umjetnu inteligenciju, troškovi podatkovnih centara i pitanje buduće profitabilnosti. Rezultati zakazani za 28. listopada mogli bi biti ključni za daljnje kretanje dionice."
+categories: ["finance"]
 ---
 
 *Slika je ilustrativna.*

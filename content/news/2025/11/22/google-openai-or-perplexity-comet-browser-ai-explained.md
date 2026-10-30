@@ -6,12 +6,13 @@ category: "ai"
 translationKey: "perplexity-comet-browser-metaadvisor"
 source: "MetaAdvisor"
 source_url: "https://metaadvisor.eu"
-image_url: "/images/Paraplexity-Comet.AIgoogle.png"
-featured_image: "/images/Paraplexity-Comet.AIgoogle.png"
-image: "/images/Paraplexity-Comet.AIgoogle.png"
-thumbnail: "/images/Paraplexity-Comet.AIgoogle.png"
+image_url: "/images/Paraplexity-Comet.AIgoogle.webp"
+featured_image: "/images/Paraplexity-Comet.AIgoogle.webp"
+image: "/images/Paraplexity-Comet.AIgoogle.webp"
+thumbnail: "/images/Paraplexity-Comet.AIgoogle.webp"
 summary: "Perplexity brings its new Comet browser to Android — a fresh blend of Google search, OpenAI intelligence, and real-time analysis."
 tags: ["ai", "artificial intelligence", "perplexity", "comet", "browser", "google", "openai", "technology", "apps", "finance", "financing"]
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "poljska_eu_crypto_asset_mica_06122025"
 source: "Više izvora – analiza MetaAdvisor"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Poland-crypto-MICA.png"
-featured_image: "/images/Poland-crypto-MICA.png"
-image: "/images/Poland-crypto-MICA.png"
-thumbnail: "/images/Poland-crypto-MICA.png"
+image_url: "/images/Poland-crypto-MICA.webp"
+featured_image: "/images/Poland-crypto-MICA.webp"
+image: "/images/Poland-crypto-MICA.webp"
+thumbnail: "/images/Poland-crypto-MICA.webp"
 image_alt: "Poljska kripto MICA vizual"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["poljska", "eu", "mica", "crypto law", "regulacija", "kriptovalute", "eu regulativa", "stablecoini", "banke", "burze", "blockchain"]
 summary: "Poljska je blokirala Crypto-Asset Market Act, prvi zakon koji je trebao implementirati EU MiCA regulativu. Što to znači za korisnike, startupove, banke i budućnost kripta u jednoj od najvećih zemalja EU?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

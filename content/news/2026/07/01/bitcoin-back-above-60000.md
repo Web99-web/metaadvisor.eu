@@ -7,14 +7,15 @@ translationKey: "crypto-market-bitcoin-above-60000-2026-07-01"
 source: "Reuters, CoinDesk, Metaadvisor.eu"
 source_url: "https://www.reuters.com/technology/citi-cuts-bitcoin-ether-forecasts-etf-flows-turn-negative-2026-07-01/"
 author: "Metaadvisor.eu"
-image_url: "/images/market-crypto-daily.png"
-featured_image: "/images/market-crypto-daily.png"
-image: "/images/market-crypto-daily.png"
-thumbnail: "/images/market-crypto-daily.png"
+image_url: "/images/market-crypto-daily.webp"
+featured_image: "/images/market-crypto-daily.webp"
+image: "/images/market-crypto-daily.webp"
+thumbnail: "/images/market-crypto-daily.webp"
 image_alt: "Daily crypto market update with Bitcoin above 60,000 dollars"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "Ethereum", "Solana", "Cardano", "crypto", "crypto market", "BTC", "ETH", "SOL", "ADA", "ETF", "Citi", "Reuters", "Metaadvisor"]
 summary: "The crypto market looks livelier today: Bitcoin moved back above $60,000, Solana and Cardano gained more strongly than the largest coins, but Citi also cut its 12-month forecasts for Bitcoin and Ether."
+categories: ["crypto"]
 ---
 
 The image is symbolic.

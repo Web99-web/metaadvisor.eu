@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/bitmine-buys-65m-ether-1971-moment-f
 summary: "BitMine objavio kupnju ETH-a vrijednog 65 milijuna USD, uspoređujući Ethereum s povijesnim trenutkom ukidanja zlatnog standarda 1971."
 tags: ["crypto", "ETH", "Ethereum", "BitMine", "ulaganja"]
 image_url: "/images/eth1.jpg"
+categories: ["crypto"]
 ---
 
 Tvrtka **BitMine**, specijalizirana za digitalna ulaganja, kupila je ETH u vrijednosti od 65 milijuna USD.  

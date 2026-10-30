@@ -7,14 +7,15 @@ translationKey: "c9f7a12e4b8d4e2a9c6f1b3d7a8e5f21"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "Kretanje cijena nafte Brent i WTI na globalnom tržištu"
 image_credit: "Metaadvisor.eu"
 tags: ["nafta", "brent", "wti", "tržište nafte", "geopolitika", "inflacija", "energija", "globalno tržište", "cijene nafte", "kriza", "rat", "ekonomija"]
 summary: "Nakon naglog pada cijena nafte uslijed vijesti o primirju, tržište se jednako brzo oporavilo. Pokazalo se da danas cijene ne određuje ekonomija — nego geopolitika."
+categories: ["tržište"]
 ---
 
 Nafta je pala — ali samo onoliko koliko je trajalo primirje.

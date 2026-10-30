@@ -16,6 +16,7 @@ image_alt: "OpenAI Atlas browser"
 image_credit: "Symbolic image."
 tags: ["ai","openai","atlas","chatgpt","browser","altman","techcrunch","ai-browser","search","google","ai-trends"]
 summary: "OpenAI unveils Atlas — an AI browser designed to put ChatGPT at the center of search and everyday web use."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

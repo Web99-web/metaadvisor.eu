@@ -15,6 +15,7 @@ image_alt: "Stock market chart and investors during AI-driven market rally"
 image_credit: "Metaadvisor.eu"
 summary: "Die alte Börsenregel „Sell in May and go away“ wird 2026 wieder diskutiert, diesmal jedoch in einem völlig anderen Marktumfeld. AI-Rally, Technologiewerte und Erwartungen rund um künstliche Intelligenz verändern die Frage, ob saisonale Börsenmuster heute noch sinnvoll sind."
 tags: ["Börse", "Aktien", "AI-Markt", "künstliche Intelligenz", "Sell in May", "Sell in May and go away", "S&P 500", "Nasdaq", "Technologieaktien", "AI-Rally", "Investieren", "Märkte", "Volatilität", "Market Timing", "Kleinanleger", "Finanzbildung", "Krypto-Markt", "Bitcoin", "Ethereum", "Risiko", "Metaadvisor"]
+categories: ["markets"]
 ---
 
 *Das Bild ist symbolisch.*

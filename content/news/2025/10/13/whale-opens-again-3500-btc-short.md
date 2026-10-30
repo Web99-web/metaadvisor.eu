@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-whale-reveals-3-5k-btc-short-levels-watch-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/while-short-again3500.png"
-featured_image: "/images/while-short-again3500.png"
-image: "/images/while-short-again3500.png"
-thumbnail: "/images/while-short-again3500.png"
+image_url: "/images/while-short-again3500.webp"
+featured_image: "/images/while-short-again3500.webp"
+image: "/images/while-short-again3500.webp"
+thumbnail: "/images/while-short-again3500.webp"
 image_alt: "Symbolic whale — headline graphic: Whale Opens Again New 3,500 BTC Short"
 image_credit: "Symbolic image (headline)."
 tags: ["Bitcoin", "BTC", "whale", "short", "Hyperliquid", "leverage", "20x", "liquidation", "risk management", "STH cost basis", "technical analysis", "volatility", "crypto markets"]
 summary: "A tracked whale expanded its short to ~3,500 BTC with 20× leverage. Entry is around $116,812, liquidation ~$120,990, leaving a thin buffer if price spikes."
+categories: ["crypto"]
 ---
 
 **Quick take:** One of the most-followed **whale accounts** on **Hyperliquid** has again expanded a short position to about **3,500 BTC**. According to a public screenshot, the **entry is ~$116,812**, **leverage 20× (cross)**, and **liquidation ~$120,990** — leaving only a **narrow buffer** if price spikes.

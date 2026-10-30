@@ -15,6 +15,7 @@ image_alt: "Financijski kvart u Londonu — regulacija i kripto"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","uk","fca","regulation","policy","editorial","regulatory-capture","self-custody","metaadvisor"]
 summary: "FCA obećava ‘prilagoditi’ pravila za kripto. Je li to stvarna zaštita potrošača ili tek fino pakirana ambicija kontrole? Naš urednički pogled."
+categories: ["crypto"]
 ---
 
 Ovih dana London pažljivo bira riječi: **nećemo preslikavati pravila iz TradFi-ja, nego ćemo ih ‘prilagoditi’ kriptu**. Zvuči razumno, gotovo umirujuće. Ali iza te ambalaže stoji staro pitanje: **tko će biti vratare kripta** i pod kojim uvjetima?

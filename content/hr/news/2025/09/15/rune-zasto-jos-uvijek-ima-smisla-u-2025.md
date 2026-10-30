@@ -12,6 +12,7 @@ featured_image: "/images/thorchain-rune-logo.png"
 image_alt: "THORChain / RUNE — nativni cross-chain"
 tags: ["rune","thorchain","defi","cross-chain", "thor"]
 summary: "RUNE nije zaboravljen. THORChain i dalje nudi nativne BTC↔ETH↔… swapove bez bridgeva — a siječanjska promjena, koja je došla baš pred veliki hype, vjerojatno ga je samo privremeno izbacila iz fokusa."
+categories: ["crypto"]
 ---
 
 Ako ste zadnjih mjeseci imali dojam da je sve u kriptu samo o memima i ETF-ovima, lako je previdjeti projekte koji u tišini rješavaju **stvarne** korisničke probleme. **RUNE** je upravo takav slučaj: „radni konj” **THORChaina**, mreže koja omogućuje ono što većina ljudi zapravo želi — **nativnu zamjenu između lanaca** (recimo BTC ↔ ETH) **bez** centraliziranih mostova i bez wrapanih tokena.

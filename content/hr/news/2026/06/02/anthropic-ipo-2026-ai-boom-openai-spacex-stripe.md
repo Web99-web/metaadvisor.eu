@@ -7,14 +7,15 @@ translationKey: "388c0763bb7e3a71aeabb5cc0a0624ac"
 source: "Metaadvisor (TechCrunch, Reuters, Axios, The Guardian)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/IPO-100-billion-dollars.png"
-featured_image: "/images/IPO-100-billion-dollars.png"
-image: "/images/IPO-100-billion-dollars.png"
-thumbnail: "/images/IPO-100-billion-dollars.png"
+image_url: "/images/IPO-100-billion-dollars.webp"
+featured_image: "/images/IPO-100-billion-dollars.webp"
+image: "/images/IPO-100-billion-dollars.webp"
+thumbnail: "/images/IPO-100-billion-dollars.webp"
 image_alt: "Anthropic OpenAI SpaceX Stripe i veliki IPO val 2026"
 image_credit: "MetaAdvisor.eu"
 tags: ["Anthropic", "Claude", "Anthropic IPO", "AI IPO", "umjetna inteligencija", "AI boom", "OpenAI", "SpaceX", "Stripe", "Wall Street", "IPO 2026", "tehnološke dionice", "javna ponuda dionica", "SEC", "S-1 prijava", "startup valuacije", "AI infrastruktura", "AI tržište", "Metaadvisor"]
 summary: "Anthropic, kompanija iza Claudea, povjerljivo je predao dokumentaciju za mogući IPO i time otvorio novu fazu AI utrke na Wall Streetu. U istoj godini investitori prate i OpenAI, SpaceX i Stripe, što 2026. može pretvoriti u godinu povijesnih tehnoloških IPO-a."
+categories: ["ai"]
 ---
 
 <small><em>Slika je simbolična.</em></small>

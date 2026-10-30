@@ -15,6 +15,7 @@ image_alt: "Bitcoin, Ethereum and Solana chart during a volatile crypto market p
 image_credit: "Illustration: MetaAdvisor"
 tags: ["bitcoin", "btc", "ethereum", "eth", "solana", "sol", "crypto", "etf", "deribit", "options", "hedge", "volatility", "nasdaq", "ai tokens", "institutional investors"]
 summary: "ETF funds and corporate treasuries are actively buying downside protection below $60,000 while Bitcoin flashes a long-term technical pattern that preceded deeper bear market phases in 2014 and 2022. The market stands between institutional accumulation and rising caution."
+categories: ["crypto"]
 ---
 
 # Institutions Hedge Below $60,000 as Bitcoin Revisits Historic Bear Market Pattern

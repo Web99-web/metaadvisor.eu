@@ -7,10 +7,10 @@ translationKey: "f1a8d9b0b7e84d6b9c1f0a2dohio-btc-taxes-2025"
 source: "Službene objave i medijski izvještaji (sinteza)"
 source_url: "https://ohio.gov"
 author: "Metaadvisor.eu"
-image_url: "/images/Ohio.png"
-featured_image: "/images/Ohio.png"
-image: "/images/Ohio.png"
-thumbnail: "/images/Ohio.png"
+image_url: "/images/Ohio.webp"
+featured_image: "/images/Ohio.webp"
+image: "/images/Ohio.webp"
+thumbnail: "/images/Ohio.webp"
 image_alt: "Ohio skyline i Bitcoin simbol — kripto plaćanja za državne pristojbe"
 image_credit: "Metaadvisor.eu (simbolična slika)"
 tags:
@@ -25,6 +25,7 @@ tags:
   - usa
   - adoption
 summary: "Ohio je odobrio posrednika za obradu kripto uplata za državne pristojbe i usluge. Građani će moći platiti u Bitcoinu, dok država prima dolare nakon trenutne konverzije."
+categories: ["crypto"]
 ---
 
 Ohio je napravio korak prema **plaćanju državnih pristojbi u kriptovalutama**: državno tijelo za depozite odobrilo je **posrednika za plaćanja (payment processor)** koji će obrađivati kripto uplate i **trenutno ih konvertirati u USD**. To znači da će građani i tvrtke moći odabrati **Bitcoin** (i druge podržane kripto-valute) za plaćanje pristojbi i usluga, dok će **Državna blagajna i dalje primati dolare**.

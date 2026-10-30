@@ -7,10 +7,10 @@ translationKey: "btc_breakout_structure_jan2026"
 source: "MetaAdvisor-Analyse auf Basis von Cointelegraph- und CoinDesk-Berichten"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-94440.png"
-featured_image: "/images/BTC-94440.png"
-image: "/images/BTC-94440.png"
-thumbnail: "/images/BTC-94440.png"
+image_url: "/images/BTC-94440.webp"
+featured_image: "/images/BTC-94440.webp"
+image: "/images/BTC-94440.webp"
+thumbnail: "/images/BTC-94440.webp"
 image_alt: "Bitcoin verlässt eine monatelange Handelsspanne und erreicht den Bereich um 94.440 USD"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -26,6 +26,7 @@ tags:
   - futures
   - makro
 summary: "Nach monatelanger Bewegung in einer engen Spanne hat Bitcoin höhere Kursniveaus erreicht – begleitet von sinkender Volatilität, positiven makroökonomischen Signalen und einer veränderten Marktstruktur."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

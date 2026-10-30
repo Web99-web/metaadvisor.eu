@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/polkadot-s-dot-returns-
 summary: "Podrška se formirala u zoni od 3,90–3,91 USD, s otporom na 4,02 USD."
 tags: ["crypto","DOT","Polkadot","Paraguay","tokenization"]
 image_url: "https://www.coindesk.com/resizer/RlJgqQ3nMX02fH_o7DbQ19_cX_g=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/polkadot-dot-aug28.jpg"
+categories: ["crypto"]
 ---
 
 **Polkadotov DOT token** u četvrtak je u ranim satima porastao više od 2%, pri čemu su obrasci volumena sugerirali institucionalno sudjelovanje, pokazao je **CoinDesk Research** model tehničke analize.

@@ -7,14 +7,15 @@ translationKey: "polen_eu_mica_crypto_asset_06122025"
 source: "Multiple sources — MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Poland-crypto-MICA.png"
-featured_image: "/images/Poland-crypto-MICA.png"
-image: "/images/Poland-crypto-MICA.png"
-thumbnail: "/images/Poland-crypto-MICA.png"
+image_url: "/images/Poland-crypto-MICA.webp"
+featured_image: "/images/Poland-crypto-MICA.webp"
+image: "/images/Poland-crypto-MICA.webp"
+thumbnail: "/images/Poland-crypto-MICA.webp"
 image_alt: "Poland Crypto MiCA visual"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["poland", "eu", "mica", "crypto law", "regulation", "stablecoins", "exchanges", "web3", "blockchain", "eu politics"]
 summary: "Poland has blocked the Crypto-Asset Market Act — the national law intended to implement MiCA. Why did it fail, who supported it, who opposed it, and what does this mean for the future of EU crypto regulation?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

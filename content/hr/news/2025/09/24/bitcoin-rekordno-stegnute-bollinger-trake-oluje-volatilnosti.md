@@ -30,6 +30,7 @@ tags:
   - iv
   - macro
 summary: "Analitičari bilježe najuže Bollinger trake u povijesti bitcoina — klasičan 'squeeze' koji često prethodi snažnom proboju. Rastu izgledi za veliku volatilnost; smjer će vjerojatno diktirati protok volumena i derivativni signali."
+categories: ["crypto"]
 ---
 
 **Kratko:** Prema nizu analitičkih modela, **Bollinger trake** na višim timeframeovima (dnevni/tjedni) za **bitcoin** su **najsuže u povijesti** — što upućuje na **ekstremnu kompresiju volatilnosti**. Takvi **“squeeze”** režimi statistički često prethode **naglim probojima** i **trendovima**. Pitanje nije toliko **hoće li** doći do pokreta, nego **u kojem smjeru** i **koliko dugo** će trajati.

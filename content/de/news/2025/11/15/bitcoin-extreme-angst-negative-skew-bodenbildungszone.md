@@ -15,6 +15,7 @@ image_alt: "Bitcoin fällt unter 100k"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "markt", "analyse", "fear-and-greed", "negative-skew", "nasdaq", "volatilität", "liquidationen"]
 summary: "Bitcoin rutscht in extreme Angst, während der Kurs zwischen 93,9k und 95,9k USD schwankt. Doch die aktuellen Skew-Signale entsprechen Niveaus aus 2022 — oft ein Vorbote einer möglichen Bodenbildungszone."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

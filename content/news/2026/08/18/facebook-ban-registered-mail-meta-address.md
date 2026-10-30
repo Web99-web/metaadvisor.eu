@@ -6,15 +6,16 @@ category: "Meta"
 translationKey: "facebook-meta-registered-mail-support-address-2026-08-18"
 source: "Meta, Meta Oversight Board, Reuters, SEC, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-Meta-address-for-registered-mail.png"
-featured_image: "/images/Meta/Facebook-Meta-address-for-registered-mail.png"
-image: "/images/Meta/Facebook-Meta-address-for-registered-mail.png"
-thumbnail: "/images/Meta/Facebook-Meta-address-for-registered-mail.png"
+image_url: "/images/Meta/Facebook-Meta-address-for-registered-mail.webp"
+featured_image: "/images/Meta/Facebook-Meta-address-for-registered-mail.webp"
+image: "/images/Meta/Facebook-Meta-address-for-registered-mail.webp"
+thumbnail: "/images/Meta/Facebook-Meta-address-for-registered-mail.webp"
 image_alt: "Banned from Facebook and unable to reach customer support? Meta EU and US addresses for sending registered mail"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Facebook", "Meta", "Facebook ban", "banned Facebook account", "disabled Facebook account", "Facebook customer support", "Meta customer support", "AI moderation", "registered mail", "Meta address", "Facebook appeal", "Oversight Board"]
 description: "Facebook can disable a user in seconds, and once logged out, access to customer support channels may disappear too. If you can no longer reach Meta online, an almost absurd option remains in 2026 — sending an old-fashioned registered letter."
 summary: "Meta is automating moderation and introducing AI support, yet permanently banned Facebook users may lose normal access to the very channels through which they are supposed to challenge a decision. After the mistaken restriction of a post by India's Prime Minister and warnings from the Oversight Board about billions of disabled accounts each year, an almost absurd question remains: should locked-out users try sending Meta a registered letter?"
+categories: ["Meta"]
 ---
 
 *Image is symbolic.*
@@ -41,7 +42,7 @@ We do not know whether AI made the specific decision in Modi's case, and that sh
 
 We covered the case here:
 <a href="https://metaadvisor.eu/news/facebook-blocked-indias-prime-minister-narendra-modi-meta-apologized/" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
+<img src="/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
      alt="Facebook blocked India's Prime Minister Narendra Modi and Meta apologized"
      loading="lazy"
      style="width:65%; max-width:600px; height:auto; display:block; margin:1.5rem auto;">
@@ -74,7 +75,7 @@ That is almost a precise description of the problem we are discussing: Facebook 
 We covered that issue here:
 
 <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">
-<img src="/images/Meta/Meta-oversight-board2.png" alt="Meta Oversight Board and the problem of AI moderation on Facebook and Instagram accounts" loading="lazy">
+<img src="/images/Meta/Meta-oversight-board2.webp" alt="Meta Oversight Board and the problem of AI moderation on Facebook and Instagram accounts" loading="lazy">
 </a>
 
 <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener"><strong>Meta Oversight Board: AI moderation — a years-long problem is only now coming into focus</strong></a>
@@ -140,7 +141,7 @@ For Meta Platforms, Inc. in the United States, the current official headquarters
 **MENLO PARK, CA 94025**
 **UNITED STATES**
 
-<img src="/images/Meta/Facebook-Meta-address-for-registered-mail1.png" alt="Meta EU and Meta US addresses for sending registered mail" loading="lazy">
+<img src="/images/Meta/Facebook-Meta-address-for-registered-mail1.webp" alt="Meta EU and Meta US addresses for sending registered mail" loading="lazy">
 
 Sending a letter to either of these addresses is not an official promise of individual customer support and does not guarantee that an account will be restored. That distinction matters. The point of registered mail is not to promise an outcome nobody can guarantee, but to leave a record that a user attempted to notify the company directly about the case before any relevant deadlines expired.
 

@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/DeFi-wins-over-bad-crypto-law.png"
-featured_image: "/images/DeFi-wins-over-bad-crypto-law.png"
-image: "/images/DeFi-wins-over-bad-crypto-law.png"
-thumbnail: "/images/DeFi-wins-over-bad-crypto-law.png"
+image_url: "/images/DeFi-wins-over-bad-crypto-law.webp"
+featured_image: "/images/DeFi-wins-over-bad-crypto-law.webp"
+image: "/images/DeFi-wins-over-bad-crypto-law.webp"
+thumbnail: "/images/DeFi-wins-over-bad-crypto-law.webp"
 image_alt: "DeFi views the failure of a US crypto bill as a victory"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -27,6 +27,7 @@ tags:
   - dao
   - web3
 summary: "A proposed US crypto regulation bill failed to pass Congress. While some see this as a setback, the DeFi community considers it a victory against poorly designed regulation."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

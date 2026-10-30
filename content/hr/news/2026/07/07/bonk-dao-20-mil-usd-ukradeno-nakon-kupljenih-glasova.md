@@ -15,6 +15,7 @@ image_alt: "BONK memecoin i governance napad na BONK DAO treasury"
 image_credit: "Metaadvisor.eu"
 tags: ["BONK DAO", "BONK memecoin", "governance napad", "DAO treasury", "Solana memecoin", "on-chain glasanje", "crypto krađa", "malicious proposal", "token voting", "DeFi governance"]
 summary: "BONK DAO ostao je bez oko 20 milijuna dolara nakon što je napadač ciljano kupio dovoljno BONK tokena da progura zlonamjerni governance prijedlog. Ovo nije bio klasični hack koda, nego napad kroz sustav glasanja."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

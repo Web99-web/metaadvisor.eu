@@ -7,14 +7,15 @@ translationKey: "afec6c1c833f3eb6c59c515da624c212"
 source: "Metaadvisor (TechCrunch, industry reports, tech media)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Spotify-AI.png"
-featured_image: "/images/Spotify-AI.png"
-image: "/images/Spotify-AI.png"
-thumbnail: "/images/Spotify-AI.png"
+image_url: "/images/Spotify-AI.webp"
+featured_image: "/images/Spotify-AI.webp"
+image: "/images/Spotify-AI.webp"
+thumbnail: "/images/Spotify-AI.webp"
 image_alt: "Spotify AI verified human badge and distinction between AI and real artists"
 image_credit: "Metaadvisor.eu"
 tags: ["spotify ai badge", "ai music spotify", "verified artists spotify", "ai generated music", "digital identity artists", "ai content problem", "streaming platforms ai", "music industry ai", "authenticity online", "ai vs human content"]
 summary: "Spotify introduces ‘Verified by Spotify’ badges to distinguish real artists from AI-generated profiles as AI music rapidly expands across streaming platforms."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

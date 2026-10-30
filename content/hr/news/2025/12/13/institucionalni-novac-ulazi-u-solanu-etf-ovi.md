@@ -16,6 +16,7 @@ image_alt: "Solana SOL i institucionalni interes kroz ETF-ove"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["solana","sol","etf","institucionalni-ulagaci","kriptovalute","trziste","analiza"]
 summary: "Unatoč padu cijene Solane, SOL ETF-ovi bilježe višednevne priljeve kapitala, što upućuje na kontinuirani interes institucionalnih ulagača."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "tron-q3-2025-growth"
 source: "Messari, CoinDesk, Nansen (Q3 2025 izvješća)"
 author: "Metaadvisor.eu"
-image_url: "/images/Tron-TRX-growth.png"
-featured_image: "/images/Tron-TRX-growth.png"
-image: "/images/Tron-TRX-growth.png"
-thumbnail: "/images/Tron-TRX-growth.png"
+image_url: "/images/Tron-TRX-growth.webp"
+featured_image: "/images/Tron-TRX-growth.webp"
+image: "/images/Tron-TRX-growth.webp"
+thumbnail: "/images/Tron-TRX-growth.webp"
 image_alt: "TRON (TRX) rast i rekordna dobit"
 image_credit: "Slika je simbolična."
 tags: ["tron","trx","stablecoin","usdt","defi","kriptovalute","messari","nansen","coindesk","blockchain"]
 summary: "TRON je u Q3 2025. postavio rekord u prihodima i transakcijama, potvrđujući dominaciju u stablecoin ekosustavu i rast institucionalnog interesa."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

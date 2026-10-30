@@ -9,6 +9,7 @@ summary: "Ein neuer Bericht von River zeigt: Privatpersonen halten weiterhin die
 tags: ["bitcoin", "crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/bitcoin-holders-2025.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/bitcoin-holders-2025.jpg?auto=format&width=1200"
+categories: ["crypto"]
 ---
 
 Das US-Bitcoin-Finanzunternehmen **River** veröffentlichte am 25. August eine Analyse zur Verteilung der Bitcoin-Bestände. Die Studie unterteilt das Angebot in mehrere Kategorien und zeigt den Marktanteil jeder Gruppe, basierend auf öffentlichen Einreichungen, Adress-Tags von Verwahrstellen und früheren Blockchain-Analysen.  

@@ -14,6 +14,7 @@ image_alt: "Zastave država pred Uredom Ujedinjenih naroda u Ženevi"
 image_credit: "Pexels"
 tags: ["crypto","blockchain","UN","UNDP","edukacija","javna-uprava","regulativa","policy","regtech","web3","AML/CFT","analysis","translation"]
 summary: "UNDP planira program za osposobljavanje javnog sektora za blockchain i kripto — naglasak na stvarnim use-caseovima, rizicima i regulativi."
+categories: ["crypto"]
 ---
 
 Program Ujedinjenih naroda za razvoj (UNDP) najavio je da će iduće godine pokrenuti **edukacijski program za javni sektor** kako bi vladama i regulatorima pružio praktično razumijevanje blockchaina i kripto ekosustava. Cilj je smanjiti jaz između tehnologije i propisa te omogućiti uvođenje novih usluga na odgovoran i mjerljiv način.

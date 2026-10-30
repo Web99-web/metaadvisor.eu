@@ -16,6 +16,7 @@ image_alt: "Rumble Videoplayer — BTC Trinkgeld"
 image_credit: "Symbolisches Bild."
 tags: ["bitcoin", "BTC", "Rumble", "Trinkgeld", "Tether", "PlanB Forum", "Lugano", "Video Plattform", "Kreatoren", "Treasury", "Krypto", "Crypto"]
 summary: "Rumble plant, bis Mitte Dezember BTC-Trinkgelder für 51 Millionen monatliche Nutzer einzuführen. Die neue Option entsteht in Partnerschaft mit Tether und ermöglicht Trinkgelder direkt in der App."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

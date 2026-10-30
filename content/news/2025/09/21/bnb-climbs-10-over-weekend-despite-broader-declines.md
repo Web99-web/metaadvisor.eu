@@ -13,6 +13,7 @@ image_alt: "BNB — illustrative image"
 image_credit: "Metaadvisor (symbolic image)"
 tags: ["BNB", "Binance", "BNB-Chain", "opBNB", "BEP-95", "Auto-Burn", "deflation", "on-chain-activity", "derivatives", "short-squeeze", "funding", "open-interest", "volatility", "technical-analysis"]
 summary: "BNB quietly rallied about 10% over the weekend, outperforming a market where many tokens fell. Here are the drivers and our forward scenarios."
+categories: ["news"]
 ---
 
 **At a glance**  

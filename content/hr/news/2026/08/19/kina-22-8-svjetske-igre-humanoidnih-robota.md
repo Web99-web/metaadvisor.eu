@@ -6,15 +6,16 @@ category: "AI"
 translationKey: "world-humanoid-robot-games-china-beijing-2026"
 source: "Beijing Municipal Government, CGTN, China Daily, Reuters, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/games/World-humanoid-robot-games-China.png"
-featured_image: "/images/games/World-humanoid-robot-games-China.png"
-image: "/images/games/World-humanoid-robot-games-China.png"
-thumbnail: "/images/games/World-humanoid-robot-games-China.png"
+image_url: "/images/games/World-humanoid-robot-games-China.webp"
+featured_image: "/images/games/World-humanoid-robot-games-China.webp"
+image: "/images/games/World-humanoid-robot-games-China.webp"
+thumbnail: "/images/games/World-humanoid-robot-games-China.webp"
 image_alt: "Svjetske igre humanoidnih robota u Pekingu od 22. do 26. kolovoza 2026."
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["humanoidni roboti", "World Humanoid Robot Games", "Kina", "Peking", "roboti", "AI", "robotika", "Unitree", "vatrogasni roboti"]
 description: "Peking od 22. do 26. kolovoza održava druge World Humanoid Robot Games s 2.056 robota iz 16 zemalja. Roboti će trčati, igrati nogomet, dizati utege i rješavati zadatke iz industrije, hotela, trgovine i spašavanja."
 summary: "Na drugim World Humanoid Robot Games natjecat će se 666 timova i 2.056 robota iz 16 zemalja. Uz sport, roboti će spajati kablove, zabijati čavle, dizati terete i rješavati zadatke iz stvarnog svijeta."
+categories: ["AI"]
 ---
 
 *Slika je simbolična.*
@@ -66,7 +67,7 @@ Humanoidni roboti trenutačno bi na takvom terenu vrlo teško mogli pratiti vatr
 O tome koliko bi AI, dronovi i roboti mogli pomoći vatrogascima - i gdje su njihove današnje granice pisali smo ovdje, pogledajte u članku pravi video požara među kućama i ima li robot tu ikakve šanse ili bi se sapleo po stepenicama ili rastopio:
 
 <a href="/hr/news/pozari-ai-zasto-jos-uvijek-gubimo/" target="_blank" rel="noopener">
-<img src="/images/news/Fire-firefighters-AI-help.png"
+<img src="/images/news/Fire-firefighters-AI-help.webp"
      alt="Požari, vatrogasci i mogućnosti AI-a, dronova i robota"
      loading="lazy"
      style="width:55%; max-width:500px; height:auto; display:block; margin:1.5rem auto;">
@@ -111,7 +112,7 @@ Mi smo još prije samog debija pratili neobičnu razliku između službene IPO c
 O tome smo pisali ovdje:
 
 <a href="/hr/news/unitree-roboti-ipo-cijene-hyperliquid-pre-ipo-16-kolovoza-2026/" target="_blank" rel="noopener">
-<img src="/images/companies/Unitree-robots-IPO.png"
+<img src="/images/companies/Unitree-robots-IPO.webp"
      alt="Unitree Robotics IPO i pre-IPO cijene"
      loading="lazy"
      style="width:55%; max-width:500px; height:auto; display:block; margin:1.5rem auto;">

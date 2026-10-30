@@ -7,15 +7,16 @@ translationKey: "binance-aplikacija-nestala-s-google-playa-eu-2026-07-29"
 source: "Cointelegraph, Google Play, ESMA i Binance"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Binance-app-rectrected-EU-Mica-Google-play.png"
-featured_image: "/images/news/Binance-app-rectrected-EU-Mica-Google-play.png"
-image: "/images/news/Binance-app-rectrected-EU-Mica-Google-play.png"
-thumbnail: "/images/news/Binance-app-rectrected-EU-Mica-Google-play.png"
+image_url: "/images/news/Binance-app-rectrected-EU-Mica-Google-play.webp"
+featured_image: "/images/news/Binance-app-rectrected-EU-Mica-Google-play.webp"
+image: "/images/news/Binance-app-rectrected-EU-Mica-Google-play.webp"
+thumbnail: "/images/news/Binance-app-rectrected-EU-Mica-Google-play.webp"
 image_alt: "Binance aplikacija više nije dostupna na Google Playu u pojedinim državama Europske unije"
 image_credit: "Metaadvisor.eu"
 tags: ["Binance", "Google Play", "MiCA", "Europska unija", "kripto burza", "CASP licenca", "Android aplikacija", "Španjolska", "Latvija", "Google Play pravila", "kripto regulacija", "reverse solicitation", "APK prijevara"]
 description: "Binanceova Android aplikacija više se ne prikazuje na Google Playu u pojedinim državama EU-a, dok kompanija pokušava riješiti problem s Googleom."
 summary: "Dostupnost Binanceove aplikacije ograničena je u dijelu Europske unije nakon promjena Google Play pravila za kripto platforme i pitanja povezanih s MiCA autorizacijom."
+categories: ["crypto"]
 ---
 
 # Binance aplikacija nestala s Google Playa u dijelu Europske unije

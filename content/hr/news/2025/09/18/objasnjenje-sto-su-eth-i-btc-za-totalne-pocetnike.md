@@ -15,6 +15,7 @@ image_alt: "Bitcoin i Ethereum — jednostavno objašnjenje"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["bitcoin","ethereum","btc","eth","beginner","guide","portfolio","metaadvisor"]
 summary: "BTC je kao zlato u sefu — štednja bez izdavatelja. ETH je kao grad na internetu — mjesto gdje se gradi i troši. Ovo je kratko, ljudsko objašnjenje bez žargona i bez filozofije."
+categories: ["crypto"]
 ---
 
 Ako ti je kripto zvučao kao svemirski brod — evo verzije za kafić. **Bitcoin (BTC)** i **Ethereum (ETH)** nisu “isti kripto”. Imaju **različite uloge**, pa ih je pametno gledati kao **dva različita alata**.

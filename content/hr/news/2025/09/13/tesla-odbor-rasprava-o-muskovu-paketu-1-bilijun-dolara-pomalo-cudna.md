@@ -9,6 +9,7 @@ source_url: "https://techcrunch.com/2025/09/13/tesla-board-chair-calls-debate-ov
 image_url: "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?w=1024"
 tags: ["ai","tesla","elon-musk","kompenzacija","upravljanje","dionice"]
 summary: "Uoči studenog i glasanja o 10-godišnjem paketu od 1 bilijun $, Robyn Denholm brani prijedlog i tvrdi da je fokus na budućim ciljevima i glasačkoj moći, a ne na samim dolarima."
+categories: ["ai"]
 ---
 
 Kako se približava **studeni** i glasanje dioničara Tesle o predloženom **10-godišnjem kompenzacijskom paketu od 1 bilijun dolara** za CEO-a **Elona Muska**, predsjednica odbora **Robyn Denholm** za *The New York Times* brani prijedlog koji bi bio **najveći u korporativnoj povijesti**.

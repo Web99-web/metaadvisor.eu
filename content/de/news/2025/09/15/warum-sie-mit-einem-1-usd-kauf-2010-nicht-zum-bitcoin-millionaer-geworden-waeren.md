@@ -10,6 +10,7 @@ image_url: "/images/btc-millionaire.jpg"
 image_alt: "Früher Bitcoin vs. heutige Millionenbeträge – Mythos und Realität"
 tags: ["bitcoin","mythen","geschichte","psychologie","schluesselverluste","mt-gox"]
 summary: "Die Erzählung „1 $ im Jahr 2010 = heute Millionär“ klingt verführerisch, blendet aber die Realität aus: damalige Kosten und Limits, chaotische Börsen, massenhaft verlorene Schlüssel und brutale 80–90-%-Einbrüche, die kaum jemand stoisch ausgesessen hat."
+categories: ["crypto"]
 ---
 
 **Der Mythos in einem Satz:** Hätten Sie 2010 **1 Dollar** in Bitcoin gesteckt und ihn einfach liegen gelassen, wären Sie heute Millionär. Klingt schön – überspringt aber fast alles, was man in der Realität überstehen musste, um überhaupt in diese Größenordnung zu kommen.

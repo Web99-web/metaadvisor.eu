@@ -7,10 +7,10 @@ translationKey: "clarity_act_banks_vs_stablecoins_20260116"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Clarity-act.png"
-featured_image: "/images/Clarity-act.png"
-image: "/images/Clarity-act.png"
-thumbnail: "/images/Clarity-act.png"
+image_url: "/images/Clarity-act.webp"
+featured_image: "/images/Clarity-act.webp"
+image: "/images/Clarity-act.webp"
+thumbnail: "/images/Clarity-act.webp"
 image_alt: "Clarity Act und der Konflikt zwischen Banken und Stablecoins über Zinsen und Einlagen"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Während der Clarity Act versucht, eine klare Grenze zwischen Banken und Stablecoins zu ziehen, bleibt eine zentrale Frage im Schatten der Debatte: Warum werden Krypto-Anleger in Insolvenzen wie FTX oder Celsius in US-Dollar ausgezahlt – ohne jede Verbindung zur späteren Erholung des Kryptomarktes?"
@@ -22,6 +22,7 @@ tags:
   - ftx
   - celsius
   - bankruptcy
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/bitcoin-etfs-take-share-spot-trading
 summary: "Prema CryptoQuant-u, US Bitcoin spot ETF-ovi sada redovito generiraju 5–10 milijardi USD dnevnog volumena, ponekad nadmašujući kripto burze."
 tags: ["bitcoin","crypto","ETF","trading volume","institutional"]
 image_url: "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzL2RvY3VtZW50LzIwMjUtMDgtLXVzLWV0ZnMtanVuZWN1b21lZGUuanBn.jpg"
+categories: ["crypto"]
 ---
 
 Prema **Juliu Morenu**, voditelju istraživanja u **CryptoQuant-u**, **US spot Bitcoin ETF-ovi** sada značajno doprinose dnevnom volumenu trgovanja – u aktivnim danima dosežu **5–10 milijardi USD**, ponekad nadmašujući većinu kripto burzi :contentReference[oaicite:1]{index=1}.

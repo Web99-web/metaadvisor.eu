@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["THORChain", "NEAR", "Bitget", "DeFi", "crypto", "blockchain", "security", "decentralizacija", "cross-chain", "hakiranje"]
 description: "Nakon Bitget hacka dio ukradenih sredstava prošao je kroz THORChain, dok je NEAR Intents pokušao blokirati sumnjive tokove. Rasprava je otvorila veliko pitanje o granicama decentralizacije."
 summary: "Bitget hack ponovno je otvorio staru raspravu u kripto industriji. THORChain je odbio blokirati adrese povezane s napadačem i zadržao permissionless pristup, dok je NEAR Intents preko svojeg SHIELD sustava pokušao zaustaviti sumnjive transakcije. Pitanje više nije samo sigurnosno, nego i ideološko: treba li decentralizirani protokol ostati neutralan čak i kada kroz njega prolaze ukradena sredstva."
+categories: ["hack"]
 ---
 
 *Slika je simbolična.*

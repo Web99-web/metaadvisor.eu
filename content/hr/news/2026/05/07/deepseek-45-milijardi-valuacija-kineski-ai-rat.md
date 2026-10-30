@@ -15,6 +15,7 @@ image_alt: "DeepSeek AI company moving toward 45 billion dollar valuation"
 image_credit: "Metaadvisor.eu"
 tags: ["deepseek", "ai", "artificial intelligence", "china", "openai", "anthropic", "huawei", "llm", "ai war", "chips", "nvidia", "tech", "future tech", "machine learning", "agentic ai"]
 summary: "Kineski AI startup DeepSeek mogao bi dosegnuti valuaciju od čak $45 milijardi. Priča više nije samo o chatbotovima — nego o globalnom AI ratu između Kine i SAD-a."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

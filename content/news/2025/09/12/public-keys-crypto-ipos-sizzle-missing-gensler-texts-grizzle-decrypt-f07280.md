@@ -3,7 +3,7 @@ title: "Public Keys: Crypto IPOs Sizzle, Missing Gensler Texts Grizzle - Decrypt
 slug: "public-keys-crypto-ipos-sizzle-missing-gensler-texts-grizzle-decrypt-f07280"
 date: 2025-09-12T20:46:08Z
 category: "news"
-translationKey: "e4226116d2efb74815e07b330547d665"
+translationKey: "e4226116d2efb74815e07b330547d665--unpaired-e1a13670d1ea"
 source: "Decrypt"
 source_url: "https://decrypt.co/339343/public-keys-gemini-ipo-figure-gensler-texts"
 priority: 97
@@ -11,6 +11,11 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "cryptocurrency", "stocks"]
 our_take: |
   Our view: Public Keys: Crypto IPOs Sizzle, Missing Gensler Texts Grizzle Public Keys is a weekly roundup from Decrypt that tracks the key publicly traded crypto companies. Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
+seo_alias_of: "https://metaadvisor.eu/news/public-keys-crypto-ipos-sizzle-missing-gensler-texts-grizzle-decrypt/"
+_build:
+  list: never
+  render: always
 ---
 
 Public Keys: Crypto IPOs Sizzle, Missing Gensler Texts Grizzle

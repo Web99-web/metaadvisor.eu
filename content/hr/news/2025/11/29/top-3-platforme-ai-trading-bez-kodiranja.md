@@ -15,6 +15,7 @@ image_alt: "Top 3 no-code AI trading platforms"
 image_credit: "MetaAdvisor AI–generated"
 tags: ["ai trading","crypto","beginner guide","botovi","hyperliquid","kryll","mexc","grid bot","automatsko trgovanje","btc","bitcoin","eth","strategije"]
 summary: "Tri najbolje platforme za AI trading bez kodiranja — Hyperliquid, Kryll i MEXC. Gdje se nalaze botovi, kako ih pokrenuti i što je bolje: mobitel ili kompjuter?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

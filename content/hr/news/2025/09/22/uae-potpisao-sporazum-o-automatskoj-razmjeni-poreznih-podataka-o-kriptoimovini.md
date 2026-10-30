@@ -16,6 +16,7 @@ image_alt: "Dubai skyline — simbolična slika"
 image_credit: "Unsplash (ID: L4-TIH6FdR0) — simbolična slika"
 tags: ["UAE", "Dubai", "OECD", "CARF", "porezi", "razmjena-podataka", "AML", "KYC", "regulacija", "VASP", "mjenjačnice", "compliance", "privatnost", "kripto", "tokenizacija"]
 summary: "UAE se priključuje OECD-ovu okviru CARF za automatsku razmjenu poreznih podataka o kriptoimovini — strože izvještavanje za pružatelje usluga i manje ‘porezne anonimnosti’ za korisnike."
+categories: ["crypto"]
 ---
 
 **Ukratko:**  

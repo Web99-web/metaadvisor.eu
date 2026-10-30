@@ -7,10 +7,10 @@ translationKey: "77aa5e81fc83adcaec7fa4fc85877a88"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/FTX-payout.png"
-featured_image: "/images/FTX-payout.png"
-image: "/images/FTX-payout.png"
-thumbnail: "/images/FTX-payout.png"
+image_url: "/images/FTX-payout.webp"
+featured_image: "/images/FTX-payout.webp"
+image: "/images/FTX-payout.webp"
+thumbnail: "/images/FTX-payout.webp"
 image_alt: "FTX-Auszahlungen an Gläubiger, Gerichtsverfahren und USD-Abrechnung im Krypto-Bankrott"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "FTX hat einen neuen Auszahlungstermin für Gläubiger festgelegt. Die zentrale Frage bleibt jedoch: Warum werden Anleger, die bewusst in Krypto investiert haben, im Konkurs in USD ausgezahlt – und nicht in der Vermögensform, an die sie geglaubt haben?"
@@ -23,6 +23,7 @@ tags:
   - bitcoin
   - usd
   - glaeubiger
+categories: ["news"]
 ---
 
 <p style="font-size:0.8em; color:#777; margin-top:-6px;">

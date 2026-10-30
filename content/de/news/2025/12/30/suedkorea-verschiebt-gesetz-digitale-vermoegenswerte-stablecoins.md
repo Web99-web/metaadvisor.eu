@@ -15,6 +15,7 @@ image_alt: "Südkorea verzögert Gesetz zu digitalen Vermögenswerten wegen Stab
 image_credit: "MetaAdvisor illustration"
 tags: ["krypto", "stablecoin", "regulierung", "südkorea", "digitale vermögenswerte", "fintech", "banken"]
 summary: "Das lange erwartete Gesetz zu digitalen Vermögenswerten in Südkorea wurde erneut verschoben, da Regulierungsbehörden uneins darüber sind, wer Stablecoins ausgeben darf."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

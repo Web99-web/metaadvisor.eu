@@ -7,14 +7,15 @@ translationKey: "d84c1f42c6e94c9ab72f8f0f1e9a5c33"
 source: "Metaadvisor (Ready, Morpho)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Ready-Morpho-USD-Prime1.png"
-featured_image: "/images/companies/Ready-Morpho-USD-Prime1.png"
-image: "/images/companies/Ready-Morpho-USD-Prime1.png"
-thumbnail: "/images/companies/Ready-Morpho-USD-Prime1.png"
+image_url: "/images/companies/Ready-Morpho-USD-Prime1.webp"
+featured_image: "/images/companies/Ready-Morpho-USD-Prime1.webp"
+image: "/images/companies/Ready-Morpho-USD-Prime1.webp"
+thumbnail: "/images/companies/Ready-Morpho-USD-Prime1.webp"
 image_alt: "Ready und Morpho USD Prime DeFi Yield Ethereum Savings"
 image_credit: "Metaadvisor.eu"
 tags: ["ready", "morpho", "usd prime", "defi", "ethereum", "eth", "yield", "krypto", "stablecoin", "fintech", "mobile banking", "passives einkommen", "krypto sparen", "defi yield", "web3"]
 summary: "Ready und Morpho haben USD Prime vorgestellt — ein neues Produkt, das DeFi-Yield, Ethereum und ein einfaches mobiles Nutzererlebnis für Mainstream-Nutzer verbinden soll."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -7,15 +7,16 @@ translationKey: "trader-loses-2m-dex-swap-bad-route-2026-07-07"
 source: "Cointelegraph, GoPlus Security, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/MIllions-lost.png"
-featured_image: "/images/news/MIllions-lost.png"
-image: "/images/news/MIllions-lost.png"
-thumbnail: "/images/news/MIllions-lost.png"
+image_url: "/images/news/MIllions-lost.webp"
+featured_image: "/images/news/MIllions-lost.webp"
+image: "/images/news/MIllions-lost.webp"
+thumbnail: "/images/news/MIllions-lost.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["DEX swap", "DeFi risk", "MEV", "same-block backrun", "Titan Builder", "GoPlus Security", "Uniswap v3", "0x router", "slippage", "price impact", "crypto loss"]
 summary: "A trader lost almost $2 million after a large ETH swap was routed through a pool with very low liquidity. The case shows why minimum received, slippage, price impact and the swap route are critical before signing any DEX transaction."
 disclaimer: "This article is for informational purposes only and does not constitute financial, investment, legal or security advice."
 draft: false
+categories: ["crypto"]
 ---
 
 Image is symbolic.
@@ -117,7 +118,7 @@ MEV refers to the additional value that validators, block builders or bots can e
 In practice, this means that someone who sees a large or poorly configured transaction can try to profit from price differences, arbitrage or the order of execution.
 
 <a href="https://metaadvisor.eu/news/what-is-mev-trading-defi/" target="_blank" rel="noopener">
-  <img src="/images/MEV-explained.png" alt="What Is MEV Trading and Why It Has Become One of DeFi’s Biggest Problems" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/MEV-explained.webp" alt="What Is MEV Trading and Why It Has Become One of DeFi’s Biggest Problems" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/news/what-is-mev-trading-defi/" target="_blank" rel="noopener">What Is MEV Trading and Why It Has Become One of DeFi’s Biggest Problems</a>

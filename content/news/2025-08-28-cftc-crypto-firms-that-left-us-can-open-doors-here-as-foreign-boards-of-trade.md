@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/28/cftc-crypto-firms-that-l
 summary: "The U.S. derivatives regulator issued a 'reminder' that foreign crypto firms registered with the CFTC as FBOTs can directly handle U.S. customers."
 tags: ["crypto","CFTC","regulation","Trump","FBOT"]
 image_url: "https://www.coindesk.com/resizer/vzZY0N_LwE43P0a2eKZZB9O2T5g=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/cftc-fbot-2025.jpg"
+categories: ["crypto"]
 ---
 
 The **Commodity Futures Trading Commission (CFTC)**, as part of its ongoing “crypto sprint,” issued an advisory on Thursday stating that foreign crypto firms can directly serve U.S. customers if they register as **Foreign Boards of Trade (FBOTs).**

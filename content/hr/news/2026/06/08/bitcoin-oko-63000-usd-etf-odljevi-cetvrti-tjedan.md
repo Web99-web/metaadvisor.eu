@@ -15,6 +15,7 @@ image_alt: "Bitcoin finance market and ETF outflows"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "crypto", "kripto", "Bitcoin ETF", "spot Bitcoin ETF", "ETF odljevi", "BlackRock", "IBIT", "Fidelity", "FBTC", "Grayscale", "GBTC", "SoSoValue", "Farside Investors", "institucionalni investitori", "makro rizik", "kamate", "likvidnost", "risk-off", "digitalna imovina", "Metaadvisor"]
 summary: "Bitcoin se kreće oko 63.000 USD, ali spot Bitcoin ETF-ovi bilježe oko 1,7 mlrd. USD tjednih odljeva, već četvrti tjedan zaredom. Podaci pokazuju da institucionalni oprez još nije nestao."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

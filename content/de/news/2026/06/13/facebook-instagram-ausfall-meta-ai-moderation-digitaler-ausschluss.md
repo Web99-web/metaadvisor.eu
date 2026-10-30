@@ -7,14 +7,15 @@ translationKey: "meta-outage-ai-moderation-digital-lockout-2026-06-13"
 source: "Reuters, Business Insider, Downdetector, CBS News Philadelphia, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-outage-Facebook-Instagram-down.png"
-featured_image: "/images/Meta/Meta-outage-Facebook-Instagram-down.png"
-image: "/images/Meta/Meta-outage-Facebook-Instagram-down.png"
-thumbnail: "/images/Meta/Meta-outage-Facebook-Instagram-down.png"
+image_url: "/images/Meta/Meta-outage-Facebook-Instagram-down.webp"
+featured_image: "/images/Meta/Meta-outage-Facebook-Instagram-down.webp"
+image: "/images/Meta/Meta-outage-Facebook-Instagram-down.webp"
+thumbnail: "/images/Meta/Meta-outage-Facebook-Instagram-down.webp"
 image_alt: "Meta outage, Facebook and Instagram down"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Facebook", "Instagram", "Messenger", "WhatsApp", "Meta outage", "Facebook outage", "Instagram outage", "AI-Moderation", "digitale Sperre", "Business Suite", "kleine Unternehmen", "gesperrte Konten", "Cybersecurity", "digitale Rechte", "Metaadvisor"]
 summary: "Facebook und Instagram waren mehrere Stunden lang gestört. Doch dieser kurze Verlust des Zugangs zeigt ein viel größeres Problem: wie es aussieht, wenn Meta-AI-Moderation gewöhnlichen Menschen dauerhaft den Zugang zu Konten, Bildern, Kontakten, Messenger und geschäftlichen Tools nimmt."
+categories: ["cybersecurity"]
 ---
 
 Das Bild ist symbolisch.
@@ -84,7 +85,7 @@ Das ist der Kern des Problems. Es reicht nicht zu sagen: „Die Plattform hat Re
 
 <figure style="max-width:620px; margin:26px auto; text-align:center;">
   <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">
-    <img src="/images/Social-networking-erased-destroyed.png" alt="Meta AI moderation and digital erasure of users" style="width:100%; height:auto; border-radius:12px;">
+    <img src="/images/Social-networking-erased-destroyed.webp" alt="Meta AI moderation and digital erasure of users" style="width:100%; height:auto; border-radius:12px;">
   </a>
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">

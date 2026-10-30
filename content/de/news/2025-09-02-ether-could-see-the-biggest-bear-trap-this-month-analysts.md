@@ -9,6 +9,7 @@ summary: "Analysten warnen, dass der jüngste Rückgang von Ethereum die größt
 tags: ["crypto","ethereum","cointelegraph"]
 image_url: "https://images.cointelegraph.com/cdn-cgi/image/width=1200/https://s3.cointelegraph.com/uploads/2025-09/ether-bear-trap.jpg"
 image_url_small: "https://images.cointelegraph.com/cdn-cgi/image/width=600/https://s3.cointelegraph.com/uploads/2025-09/ether-bear-trap.jpg"
+categories: ["crypto"]
 ---
 
 Ether (ETH) verzeichnet Anfang September eine Kurskorrektur, doch Analysten warnen, dass dies zur „größten Bärenfalle“ des Monats werden könnte.  

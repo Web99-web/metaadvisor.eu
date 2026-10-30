@@ -9,6 +9,7 @@ summary: "August saw $751M exit U.S. Bitcoin ETFs even as Ethereum funds pulled 
 tags: ["bitcoin","ethereum","ETF","crypto","institutions","markets","Asia","Glassnode","Polymarket"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/76853a648e0f82399c9dfebd64d9a9d82a9efb20-2880x1620.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/76853a648e0f82399c9dfebd64d9a9d82a9efb20-2880x1620.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 August delivered a rare reversal in the ETF tide: Bitcoin spot funds shed $751 million in net outflows just weeks after powering the asset to a $124,000 all-time high, while Ethereum ETFs quietly absorbed $3.9 billion.  

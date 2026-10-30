@@ -3,7 +3,7 @@ title: "Germany considers major shift: Bitcoin and crypto may no longer be tax-f
 slug: "germany-crypto-tax-bitcoin"
 date: 2026-05-09T09:00:00+02:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-05-09"
 source: "Metaadvisor (Cointelegraph, BTC Echo, Blockpit, Reuters)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
@@ -15,6 +15,7 @@ image_alt: "Germany considers major changes to Bitcoin and crypto taxation"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "germany", "bitcoin tax", "crypto tax", "tax", "europe", "mica", "dac8", "ethereum", "altcoins", "hodl", "bitcoin regulation", "eu regulation", "blockchain", "metaadvisor"]
 summary: "Germany is considering removing its famous one-year tax exemption for Bitcoin and cryptocurrencies. Crypto investors fear Europe could become significantly less attractive for long-term holders and digital asset capital."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

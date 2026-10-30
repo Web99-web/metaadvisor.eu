@@ -7,14 +7,15 @@ translationKey: "2026_school_education_crypto_new_zealand"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/New-Zealand-crypto-in-schools.png"
-featured_image: "/images/New-Zealand-crypto-in-schools.png"
-image: "/images/New-Zealand-crypto-in-schools.png"
-thumbnail: "/images/New-Zealand-crypto-in-schools.png"
+image_url: "/images/New-Zealand-crypto-in-schools.webp"
+featured_image: "/images/New-Zealand-crypto-in-schools.webp"
+image: "/images/New-Zealand-crypto-in-schools.webp"
+thumbnail: "/images/New-Zealand-crypto-in-schools.webp"
 image_alt: "Simbolična ilustracija uvođenja kriptovaluta i blockchaina u školsko obrazovanje na Novom Zelandu"
 image_credit: "MetaAdvisor.eu"
 tags: ["novi-zeland", "crypto-education", "blockchain", "kriptovalute", "skole", "financijska-pismenost", "digitalna-ekonomija"]
 summary: "Novi Zeland od 2026. godine uvodi obavezno financijsko obrazovanje koje uključuje kriptovalute i blockchain, s ciljem pripreme učenika za digitalnu ekonomiju i nove oblike financijskih sustava."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

@@ -18,6 +18,7 @@ summary: "Three moves in one day: a Miami income unit, a Tokyo media/events unit
 pinned: true
 weight: -1000
 importance: 100
+categories: ["crypto"]
 ---
 
 Japan’s **Metaplanet** just pulled a three-part expansion: it formed **Metaplanet Income Corp.** in **Miami** to drive **bitcoin-linked income** (including derivatives), launched **Bitcoin Japan Inc.** in **Tokyo** to run **media and events**, and acquired the **Bitcoin.jp** domain as a national on-ramp for content and community.

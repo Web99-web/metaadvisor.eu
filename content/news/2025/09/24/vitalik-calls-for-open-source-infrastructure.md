@@ -23,6 +23,7 @@ tags:
   - finance
   - decentralization
 summary: "Vitalik Buterin argues that open-source infrastructure should extend beyond blockchain into healthcare, finance and public governance."
+categories: ["news"]
 ---
 
 **TL;DR:** **Vitalik Buterin**, Ethereum **co-founder**, urges broader adoption of **open-source infrastructure** beyond crypto — in **healthcare**, **finance** and **governance**. Open code supports **trust, interoperability** and **resilience**.

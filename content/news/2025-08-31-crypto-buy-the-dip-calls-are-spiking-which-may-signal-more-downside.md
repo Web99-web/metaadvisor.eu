@@ -9,6 +9,7 @@ summary: "Santiment notes a surge in 'buy the dip' calls across social media, bu
 tags: ["crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvZTkzZGE3Y2EtZjRjOC00ODc0LWE2YWEtYzkwMDdmNzA2NTcyLmpwZw==.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvZTkzZGE3Y2EtZjRjOC00ODc0LWE2YWEtYzkwMDdmNzA2NTcyLmpwZw==.jpg"
+categories: ["crypto"]
 ---
 
 Analytics firm **Santiment** reported that “buy the dip” chatter on social media has surged to multi-month highs as the crypto market faces mounting sell pressure.  

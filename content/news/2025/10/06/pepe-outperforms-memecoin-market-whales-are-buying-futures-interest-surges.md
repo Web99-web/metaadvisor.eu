@@ -16,6 +16,7 @@ image_alt: "PEPE memecoin — market momentum"
 image_credit: "Metaadvisor.eu — symbolic illustration"
 tags: ["crypto", "memecoins", "PEPE", "whales", "derivatives", "open-interest", "accumulation", "liquidity"]
 summary: "PEPE is up ~2.5% and beating the memecoin index. The top 100 addresses increased holdings by 4.28% over 30 days, while futures open interest pushes toward ~$645M."
+categories: ["news"]
 ---
 
 **PEPE is stealing the spotlight again.** Prices are up, but the headline isn’t the percent move — it’s **who’s buying**.

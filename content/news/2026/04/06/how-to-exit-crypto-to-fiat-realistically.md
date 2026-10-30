@@ -15,6 +15,7 @@ image_alt: "How to convert crypto to cash"
 image_credit: "Illustration"
 tags: ["crypto","cryptocurrency","fiat","withdrawal","exchanges","bitcoin","altcoin","trading","banks","regulation"]
 summary: "Entering crypto is easy, but exiting into fiat often becomes a challenge. A realistic overview of how withdrawals actually work and where users most often make mistakes."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

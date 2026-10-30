@@ -7,14 +7,15 @@ translationKey: "doordash-ai-training-couriers-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (TechCrunch, Bloomberg)"
 source_url: ""
-image_url: "/images/companies/DoorDach-couriers-ai-training.png"
-featured_image: "/images/companies/DoorDach-couriers-ai-training.png"
-image: "/images/companies/DoorDach-couriers-ai-training.png"
-thumbnail: "/images/companies/DoorDach-couriers-ai-training.png"
+image_url: "/images/companies/DoorDach-couriers-ai-training.webp"
+featured_image: "/images/companies/DoorDach-couriers-ai-training.webp"
+image: "/images/companies/DoorDach-couriers-ai-training.webp"
+thumbnail: "/images/companies/DoorDach-couriers-ai-training.webp"
 image_alt: "DoorDash couriers recording tasks to train artificial intelligence"
 image_credit: "MetaAdvisor.eu"
 tags: ["doordash", "ai", "delivery", "artificial intelligence", "gig economy", "ai training", "data", "robotics", "future tech"]
 summary: "DoorDash launches a Tasks app where couriers record everyday activities like washing dishes to train AI systems — opening a new chapter in the 'AI gig economy'."
+categories: ["ai"]
 ---
 
 *Image is symbolic.*

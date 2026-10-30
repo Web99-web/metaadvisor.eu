@@ -8,14 +8,15 @@ author: "The Guardian Tech"
 analysis_by: "Metaadvisor.eu"
 source: "The Guardian Tech"
 source_url: ""
-image_url: "/images/companies/PS5-100usd-more.png"
-featured_image: "/images/companies/PS5-100usd-more.png"
-image: "/images/companies/PS5-100usd-more.png"
-thumbnail: "/images/companies/PS5-100usd-more.png"
+image_url: "/images/companies/PS5-100usd-more.webp"
+featured_image: "/images/companies/PS5-100usd-more.webp"
+image: "/images/companies/PS5-100usd-more.webp"
+thumbnail: "/images/companies/PS5-100usd-more.webp"
 image_alt: "PS5 Preiserhöhung aufgrund von KI und globalen Chipkosten"
 image_credit: "MetaAdvisor.eu"
 tags: ["sony", "ps5", "ki", "halbleiter", "chips", "gaming", "inflation", "technologie", "krieg", "wirtschaft"]
 summary: "Sony erhöht die Preise der PS5 um $100 aufgrund steigender Chipkosten, die durch den KI-Wettlauf und geopolitische Spannungen beeinflusst werden."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

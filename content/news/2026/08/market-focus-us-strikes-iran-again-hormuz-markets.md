@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["markets", "Iran", "United States", "Strait of Hormuz", "oil", "gold", "silver", "Bitcoin", "BTC", "Bitcoin ETF", "ETF outflows", "Federal Reserve", "Kevin Warsh", "interest rates", "liquidations", "capital rotation", "geopolitical risk"]
 description: "The US has launched another military strike on Iran near the Strait of Hormuz as markets assess the impact of a hawkish Fed message, Bitcoin weakness, ETF outflows and fresh liquidations."
 summary: "A new US strike on Iran puts the Strait of Hormuz and oil back at the center of market attention. Bitcoin is not showing a panic reaction so far, but markets enter the new session after Warsh's hawkish remarks, sharp declines in gold and silver, the first BTC ETF outflow after nine days and heavy crypto liquidations."
+categories: ["Markets"]
 ---
 
 # New US strike on Iran puts Hormuz, oil and market risk back in focus

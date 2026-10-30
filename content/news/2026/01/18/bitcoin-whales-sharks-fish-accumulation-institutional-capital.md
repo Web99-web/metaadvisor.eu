@@ -7,14 +7,15 @@ translationKey: "btc_whales_etf_accumulation_20260118"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/whale.png"
-featured_image: "/images/whale.png"
-image: "/images/whale.png"
-thumbnail: "/images/whale.png"
+image_url: "/images/whale.webp"
+featured_image: "/images/whale.webp"
+image: "/images/whale.webp"
+thumbnail: "/images/whale.webp"
 image_alt: "Bitcoin whale symbolizing large-scale accumulation by major investors"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Large Bitcoin investors are increasing long exposure and reducing shorts, while whale, shark and fish holders accumulate BTC at an accelerated pace. ETF inflows and on-chain data together point to a quiet but strategic accumulation phase."
 tags: ["bitcoin","btc","crypto","whales","institutional-investors","etf","accumulation","onchain","market-analysis"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-buries-the-tulip-myth-after-17-years-of-proven-resilience-balchunas"
 author: "Cointelegraph — translation and analysis by MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/BTC-tulips.png"
-featured_image: "/images/BTC-tulips.png"
-image: "/images/BTC-tulips.png"
-thumbnail: "/images/BTC-tulips.png"
+image_url: "/images/BTC-tulips.webp"
+featured_image: "/images/BTC-tulips.webp"
+image: "/images/BTC-tulips.webp"
+thumbnail: "/images/BTC-tulips.webp"
 image_alt: "Bitcoin vs. Tulip Mania — illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","tulip mania","bubble","burry","Michael Burry","balchunas","etf","crypto","analysis","institutions","finance"]
 summary: "Bitcoin has survived 17 years of crashes, recoveries and global adoption growth — while the historical tulip mania burst once and never returned."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

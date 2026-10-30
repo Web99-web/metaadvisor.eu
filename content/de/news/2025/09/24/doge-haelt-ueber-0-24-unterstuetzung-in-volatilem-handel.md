@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/24/doge-holds-firm-above-usd0-24-support-in-choppy-session"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/dogecoin-doge.png"
-featured_image: "/images/dogecoin-doge.png"
-image: "/images/dogecoin-doge.png"
-thumbnail: "/images/dogecoin-doge.png"
+image_url: "/images/dogecoin-doge.webp"
+featured_image: "/images/dogecoin-doge.webp"
+image: "/images/dogecoin-doge.webp"
+thumbnail: "/images/dogecoin-doge.webp"
 image_alt: "Dogecoin (DOGE) — symbolische Illustration"
 image_credit: "Metaadvisor.eu (generierte Grafik)"
 tags:
@@ -26,6 +26,7 @@ tags:
   - technical-analysis
   - market-structure
 summary: "Trotz fragilen Kryptosentiments behauptet DOGE die Unterstützung um ~0,24 $. Enger Range und Käuferverteidigung deuten auf Akkumulation, doch für die Fortsetzung ist ein Bruch über 0,244 $ mit tragfähigem Volumen nötig."
+categories: ["news"]
 ---
 
 **Kurz:** Im schwachen **Risk-off**-Umfeld zeigte **DOGE** **Robustheit** und handelte im 24h-Fenster (23.9. 03:00 – 24.9. 02:00) in einer engen **Range von 0,236–0,244 $**. Zwei Spikes um **06:00** und **16:00** testeten **0,244 $**, doch **Gewinnmitnahmen** bremsten den Ausbruch. Der Tagesschluss nahe **0,240 $** signalisiert **defensive Käufe** in der Zone 0,236–0,240 $.

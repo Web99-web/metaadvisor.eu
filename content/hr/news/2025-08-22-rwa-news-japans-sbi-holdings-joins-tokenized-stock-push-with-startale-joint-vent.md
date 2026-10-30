@@ -7,6 +7,7 @@ tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/a8185c29a55a7805ba8c40418021fd6352fe58b4-1920x1283.jpg"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/08/21/japan-s-sbi-holdings-joins-tokenized-stock-push-with-startale-joint-venture"
+categories: ["crypto"]
 ---
 
 Japanski financijski div **SBI Holdings** ulazi na sve popularnije tržište tokeniziranih dionica kroz zajednički pothvat sa singapurskom blockchain tvrtkom **Startale**.  

@@ -15,6 +15,7 @@ image_alt: "Bitcoin and Ethereum under pressure as crypto market tests key level
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "crypto", "crypto market", "Bitcoin price", "Ethereum price", "BTC 59k", "ETH 1600", "altcoins", "risk assets", "global markets", "market correction", "crypto correction", "futures", "open interest", "exchange inflows", "Binance", "CryptoQuant", "CoinDesk", "liquidity", "selling pressure", "Metaadvisor"]
 summary: "Bitcoin fell below $63,000, Ethereum moved toward the $1,700 area, and the crypto market is again watching key levels: BTC around $59,000–$60,000 and ETH near $1,600."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Symbolic image.</em></p>

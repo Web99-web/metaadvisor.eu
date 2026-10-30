@@ -8,14 +8,15 @@ source: "CoinDesk – überarbeitete Analyse"
 source_url: "https://www.coindesk.com/policy/2025/dec/06/state-of-crypto-wrapping-up-the-month"
 author: "Metaadvisor.eu – Redaktionsteam"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Capitol-USA.png"
-featured_image: "/images/Capitol-USA.png"
-image: "/images/Capitol-USA.png"
-thumbnail: "/images/Capitol-USA.png"
+image_url: "/images/Capitol-USA.webp"
+featured_image: "/images/Capitol-USA.webp"
+image: "/images/Capitol-USA.webp"
+thumbnail: "/images/Capitol-USA.webp"
 image_alt: "US-Kapitol – Analyse der US-Krypto-Regulierung 2025"
 image_credit: "Capitol-USA"
 tags: ["krypto","bitcoin","gesetzgebung","regulierung","usa","marktstruktur","cftc","fdic","senat","politik","coindesk","blockchain","kryptoanalyse"]
 summary: "Die USA gehen ins Jahresende 2025 ohne ein zentrales Marktstrukturgesetz für Krypto. Wir erklären, was wirklich im Senat passiert – und warum 2026 zum entscheidenden Wendepunkt werden könnte."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

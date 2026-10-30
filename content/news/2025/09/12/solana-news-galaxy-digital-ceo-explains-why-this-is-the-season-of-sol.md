@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "ethereum", "eth", "solana", "sol", "finance", "stocks"]
 our_take: |
   Our view: Solana’s SOL rallied above $239 on Friday, extending its sharp September gains, as Galaxy Digital CEO Mike Novogratz described the blockchain as “tailor-made” for global financial markets and analyst Ali Martinez charted… Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
 ---
 
 Solana’s SOL rallied above $239 on Friday, extending its sharp September gains, as Galaxy Digital CEO Mike Novogratz described the blockchain as “tailor-made” for global financial markets and analyst Ali Martinez charted a potential path to $1,314.

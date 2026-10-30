@@ -7,14 +7,15 @@ translationKey: "cbc104cf32e369b2c717c79b5b371dc7"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/X-trading-app.png"
-featured_image: "/images/X-trading-app.png"
-image: "/images/X-trading-app.png"
-thumbnail: "/images/X-trading-app.png"
+image_url: "/images/X-trading-app.webp"
+featured_image: "/images/X-trading-app.webp"
+image: "/images/X-trading-app.webp"
+thumbnail: "/images/X-trading-app.webp"
 image_alt: "X platforma uvodi trgovanje kriptom i dionicama unutar aplikacije"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["kripto", "crypto", "bitcoin", "btc", "ether", "ethereum", "eth", "dogecoin", "doge", "x", "x money", "elon musk", "trgovanje", "dionice", "super aplikacija", "fintech", "digitalna plaćanja", "ticker", "cashtags"]
 summary: "Platforma X uskoro bi mogla omogućiti trgovanje kriptovalutama i dionicama izravno unutar aplikacije, dok Musk paralelno razvija X Money – sustav digitalnih plaćanja."
+categories: ["crypto"]
 ---
 
 <p style="font-size:12px; opacity:0.6; margin-top:-10px;">

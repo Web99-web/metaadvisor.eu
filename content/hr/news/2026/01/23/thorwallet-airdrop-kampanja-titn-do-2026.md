@@ -7,14 +7,15 @@ translationKey: "thorwallet_titn_airdrop_20260123"
 source: "ThorWallet / službena dokumentacija"
 source_url: "https://docs.google.com/document/u/0/d/e/2PACX-1vSznqVwOkJIUS7sZUOKh2ruiPb_8YZFs0TbpBtSZqbSlE4bSO-AwAzVjWMFRNJZUJG0V15DIctq5pnJ/pub"
 author: "MetaAdvisor.eu"
-image_url: "/images/ThorWallet-airdrop.png"
-featured_image: "/images/ThorWallet-airdrop.png"
-image: "/images/ThorWallet-airdrop.png"
-thumbnail: "/images/ThorWallet-airdrop.png"
+image_url: "/images/ThorWallet-airdrop.webp"
+featured_image: "/images/ThorWallet-airdrop.webp"
+image: "/images/ThorWallet-airdrop.webp"
+thumbnail: "/images/ThorWallet-airdrop.webp"
 image_alt: "ThorWallet airdrop kampanja s TITN tokenima"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags: ["thorwallet","airdrop","titn","thorchain","crypto nagrade","wallet","onchain","defi","kripto kampanja"]
 summary: "ThorWallet je pokrenuo novu airdrop kampanju koja uključuje ukupno 5.000.000 TITN tokena, s trajanjem do 25. travnja 2026. godine."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

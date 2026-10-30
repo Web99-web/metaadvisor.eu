@@ -6,6 +6,7 @@ category: "news"
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1fc62bc6f4d30b1c4cfef2e628ef8c7268c654b6-2543x1374.jpg"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/08/21/u-s-banking-regulator-occ-lifts-enforcement-order-from-anchorage-digital"
+categories: ["news"]
 ---
 
 **Anchorage Digital** steht nicht länger unter der Anordnung der US-Bankenaufsicht, ein umfassendes Compliance-Programm zur Verhinderung von Geldwäsche einzuführen. Das **Office of the Comptroller of the Currency (OCC)** gab am Donnerstag die Aufhebung der ursprünglich 2022 erlassenen „Cease-and-Desist“-Anordnung bekannt.  

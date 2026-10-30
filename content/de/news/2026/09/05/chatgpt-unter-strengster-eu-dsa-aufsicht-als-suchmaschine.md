@@ -7,15 +7,16 @@ translationKey: "chatgpt-eu-dsa-vlose-2026-09-05"
 source: "European Commission, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/informative/ChatGPT-added-to-EU-DSA-list-search-engine-VLOSE.png"
-featured_image: "/images/informative/ChatGPT-added-to-EU-DSA-list-search-engine-VLOSE.png"
-image: "/images/informative/ChatGPT-added-to-EU-DSA-list-search-engine-VLOSE.png"
-thumbnail: "/images/informative/ChatGPT-added-to-EU-DSA-list-search-engine-VLOSE.png"
+image_url: "/images/informative/ChatGPT-added-to-EU-DSA-list-search-engine-VLOSE.webp"
+featured_image: "/images/informative/ChatGPT-added-to-EU-DSA-list-search-engine-VLOSE.webp"
+image: "/images/informative/ChatGPT-added-to-EU-DSA-list-search-engine-VLOSE.webp"
+thumbnail: "/images/informative/ChatGPT-added-to-EU-DSA-list-search-engine-VLOSE.webp"
 image_alt: "ChatGPT wurde in die EU-Liste der sehr großen Online-Suchmaschinen nach dem DSA aufgenommen"
 image_credit: "Metaadvisor.eu"
 tags: ["ChatGPT", "OpenAI", "Europäische Union", "Europäische Kommission", "EU", "DSA", "VLOSE", "VLOP", "Reddit", "Roblox", "Grok", "Gemini", "Google", "X", "TikTok", "digitale Plattformen", "künstliche Intelligenz", "Regulierung"]
 description: "Die Europäische Kommission hat ChatGPT nach dem DSA als Very Large Online Search Engine eingestuft. Damit fällt der erste große generative AI-Chatbot unter die strengste Aufsichtsebene der EU für digitale Dienste."
 summary: "ChatGPT wurde am 31. August in die Liste der größten digitalen Dienste unter verstärkter Aufsicht der Europäischen Kommission aufgenommen. Reddit und Roblox wurden am selben Tag zu VLOPs, während Grok und Gemini bislang keinen eigenen solchen Status haben."
+categories: ["AI"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -173,7 +174,7 @@ Hohe Geldbußen gegen große Plattformen erzeugen Schlagzeilen und zeigen, dass 
   <a href="https://metaadvisor.eu/de/news/eu-appeals-centre-europe-schutz-versagt-plattformen-ignorieren-beschwerden/"
      target="_blank"
      rel="noopener">
-    <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+    <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
          alt="EU-Schutz versagt: Appeals Centre Europe hat keine echte Macht, ignorieren soziale Plattformen?"
          style="max-width:560px;width:100%;height:auto;display:inline-block;">
   </a>

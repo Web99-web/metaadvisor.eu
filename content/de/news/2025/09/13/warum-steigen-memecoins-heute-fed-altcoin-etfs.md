@@ -10,6 +10,7 @@ image_url: "/images/shiba-inu-coin2.jpg"
 image_alt: "Shiba-Inu-Münze — Symbol für Memecoins"
 tags: ["memecoins","fed","etf","altseason","maerkte","shib","bone","doge","trump","shibarium"]
 summary: "Memecoins legen zu, weil der Markt mit einer Zins­senkung der FED und möglichen Altcoin-ETFs rechnet – beides stärkt die Risikoneigung."
+categories: ["news"]
 ---
 
 Der Memecoin-Sektor zieht an, während in sozialen Medien wieder häufiger von einer neuen **Altcoin-Saison** die Rede ist – mit Rückenwind durch die Erwartung, dass die **FED** bereits nächste Woche die Zinsen senkt, was riskante Anlagen begünstigt.

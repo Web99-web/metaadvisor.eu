@@ -14,6 +14,7 @@ image_alt: "Indische Flagge neben dem XRP-Logo; Referenz auf WazirX und Gerichts
 image_credit: "Metaadvisor.eu"
 tags: ["indien","recht","gericht","eigentum","wazirx","xrp","ripple","exchange","krypto","sicherheit","multisig","lazarus","hack","self-custody"]
 summary: "Das Madras High Court in Indien erkennt Kryptowährungen als ‚Eigentum‘ an. Im Fall WazirX wurde die Verwendung von 3.532,30 XRP eines Nutzers blockiert, nachdem ein Hack den Multisig-Wallet kompromittierte — angeblich durch die Lazarus-Gruppe."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

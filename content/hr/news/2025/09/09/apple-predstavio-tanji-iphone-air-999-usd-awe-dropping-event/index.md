@@ -12,6 +12,7 @@ image_alt: "Black iPhone 7 with white and black dice"
 tags: ["ai", "apple", "iphone"]
 our_take: |
   Naš osvrt: Tvrtka je nadogradila AirPods slušalice uvođenjem prijevoda uživo i najavila novosti za Apple Watch. U utorak je predstavljen najtanji iPhone dosad. Šira slika: ishode određuju podaci/licenciranje, kvaliteta modela i regulatorni rizik. Sviđa nam se stvarna distribucija i obrambeni “data moats”.
+categories: ["news"]
 ---
 
 Tvrtka je dodatno unaprijedila AirPods slušalice prijevodom uživo i otkrila nadogradnje za Apple Watch.

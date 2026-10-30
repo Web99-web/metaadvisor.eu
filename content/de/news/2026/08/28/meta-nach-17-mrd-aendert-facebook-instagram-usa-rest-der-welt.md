@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "meta-us-settlement-global-protection-2026-08-28"
 source: "California Attorney General, Meta, Reuters, AP, The Guardian, European Commission, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-17b-court-case6.png"
-featured_image: "/images/Meta/Meta-17b-court-case6.png"
-image: "/images/Meta/Meta-17b-court-case6.png"
-thumbnail: "/images/Meta/Meta-17b-court-case6.png"
+image_url: "/images/Meta/Meta-17b-court-case6.webp"
+featured_image: "/images/Meta/Meta-17b-court-case6.webp"
+image: "/images/Meta/Meta-17b-court-case6.webp"
+thumbnail: "/images/Meta/Meta-17b-court-case6.webp"
 image_alt: "Meta ändert Facebook und Instagram in den USA nach einem gerichtlichen Vergleich"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Meta", "Facebook", "Instagram", "Algorithmen", "digitale Rechte", "Nutzerrechte", "Kinderschutz", "Sicherheit von Kindern", "soziale Netzwerke", "Social-Media-Sucht", "endloses Scrollen", "süchtig machendes Design", "Inhaltsempfehlungen", "Gesichtsaufnahmen", "Video-Selfie", "biometrische Daten", "Altersverifikation", "Datenschutz", "Digital Services Act", "DSA", "Europäische Union", "Regulierung", "gerichtlicher Vergleich", "Mark Zuckerberg"]
 description: "Meta stimmte nach unangenehmen Zeugenaussagen einem Vergleich von bis zu 17 Milliarden Dollar und Änderungen an Facebook und Instagram für jüngere Nutzer in den USA zu. Der Rest der Welt fragt nun, warum dieselben Schutzmaßnahmen nicht global gelten."
 summary: "Nach Aussagen aktueller und ehemaliger Mitarbeiter stimmte Meta einem Vergleich von bis zu 17 Milliarden Dollar zu, dessen Bedingungen Zahlungen über zehn Jahre ermöglichen und den tatsächlich garantierten Betrag reduzieren könnten. Während in den USA neue Schutzmaßnahmen eingeführt werden, fragen Regulierungsbehörden weltweit, warum dieselben Maßnahmen nicht global gelten. Die EU nimmt insbesondere Infinite Scroll und andere Elemente süchtig machenden Designs ins Visier."
+categories: ["Technology"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -66,7 +67,7 @@ Die Europäische Kommission hat deshalb Infinite Scroll, Autoplay, Push-Benachri
 Darüber haben wir ausführlicher in einem separaten Artikel berichtet:
 
 <a href="https://metaadvisor.eu/de/news/sollte-endloses-scrollen-auf-smartphones-abgeschafft-werden/" target="_blank" rel="noopener">
-<img src="/images/news/Infinite-scroll-on-internet-mobite-desktop1.png"
+<img src="/images/news/Infinite-scroll-on-internet-mobite-desktop1.webp"
      alt="Sollte endloses Scrollen auf Smartphones abgeschafft werden?"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>
@@ -98,7 +99,7 @@ Deshalb reicht es nicht, nur zu fragen, ob der Nutzer auf „Continue“ geklick
 Über dieses Thema haben wir bereits ausführlicher berichtet:
 
 <a href="https://metaadvisor.eu/de/news/was-meta-facebook-instagram-mit-ihrer-gesichtsaufnahme-macht/" target="_blank" rel="noopener">
-<img src="/images/Meta/Meta-face-recording.png"
+<img src="/images/Meta/Meta-face-recording.webp"
      alt="Was macht Meta mit der Aufnahme Ihres Gesichts?"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

@@ -15,6 +15,7 @@ image_alt: "Bitcoin chart and market analysis around $100K zone"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "wave3", "crypto", "analysis", "institutions", "etf", "ethereum", "market"]
 summary: "Bitcoin se konsolidira između 102 i 103 tisuće USD dok analitičari predviđaju mogući početak ‘Wave III’ rasta koji bi mogao dosegnuti 200.000 USD."
+categories: ["crypto"]
 ---
 
 Cijena Bitcoina (BTC) ponovno se kreće u uskom rasponu između **102.000 i 103.000 USD**, nakon što je u ponedjeljak nakratko dosegnula 107.000 USD.  

@@ -7,15 +7,16 @@ translationKey: "funding-rate-kako-perpsi-pojedu-dobit-2026-08-05"
 source: "Hyperliquid, Binance und öffentlich zugängliche Dokumentation zu Perpetual-Futures-Kontrakten"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Funding-cost-perps.png"
-featured_image: "/images/informative/Funding-cost-perps.png"
-image: "/images/informative/Funding-cost-perps.png"
-thumbnail: "/images/informative/Funding-cost-perps.png"
+image_url: "/images/informative/Funding-cost-perps.webp"
+featured_image: "/images/informative/Funding-cost-perps.webp"
+image: "/images/informative/Funding-cost-perps.webp"
+thumbnail: "/images/informative/Funding-cost-perps.webp"
 image_alt: "Funding Rate als versteckte Kosten beim Handel mit Perpetual-Futures-Kontrakten"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Funding Rate", "Perpetual Futures", "Perps", "Krypto-Handel", "Hebel", "Long-Position", "Short-Position", "Handelsgebühren", "Hyperliquid", "Binance", "Derivate", "Margin-Handel", "Liquidation", "Krypto-Risiko", "Risikomanagement"]
 description: "Funding Rates können Gewinne aus Perpetual-Futures-Positionen schrittweise verringern, insbesondere bei langer Haltedauer, höherem Hebel und hohen Sätzen."
 summary: "Perpetual-Futures-Kontrakte haben kein Ablaufdatum, können aber nicht kostenlos unbegrenzt gehalten werden. Funding wird regelmäßig auf den gesamten Positionswert berechnet und kann den endgültigen Gewinn deutlich reduzieren."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

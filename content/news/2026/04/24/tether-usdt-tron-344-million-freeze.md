@@ -15,6 +15,7 @@ image_alt: "TRON blockchain and USDT freeze event"
 image_credit: "Metaadvisor / illustration"
 tags: ["crypto","cryptocurrency","usdt","tether","tron","stablecoin","blockchain","regulation","security","defi"]
 summary: "Tether froze $344 million in USDT on the Tron blockchain in coordination with US authorities. The move raises fundamental questions about how decentralized stablecoins and blockchain networks really are."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

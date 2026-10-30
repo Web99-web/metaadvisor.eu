@@ -16,6 +16,7 @@ image_alt: "Volume/open-interest chart — illustration for DEX/CEX derivatives"
 image_credit: "Metaadvisor.eu (symbolic)"
 tags: ["crypto","derivatives","perpetuals","DEX","CEX","Hyperliquid","Aster","Lighter","BitMEX","Stephan Lutz","Token2049","incentives","liquidity","volatility"]
 summary: "At Token2049, BitMEX CEO Stephan Lutz warned the current perp DEX hype could fade fast: the models rely too heavily on token incentives and fee rebates. Aster and Lighter have pushed volumes, but the question is what remains once incentives cool."
+categories: ["crypto"]
 ---
 
 **SINGAPORE —** By the next **Token2049**, today’s **perp DEX** leaders (**Hyperliquid**, **Aster**, **Lighter**) may no longer dominate, says **Stephan Lutz** (CEO, **BitMEX**). Incentive-heavy designs are **fragile** and hard to sustain.

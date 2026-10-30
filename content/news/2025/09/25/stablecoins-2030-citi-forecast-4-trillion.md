@@ -28,6 +28,7 @@ tags:
   - uae
   - adoption
 summary: "Citi revised its 2030 stablecoin forecast to $1.9T (base) and $4T (bull). With fiat-like velocity, stablecoins could support $100T+ annual transactions, while bank tokens may capture even larger volumes."
+categories: ["news"]
 ---
 
 **TL;DR:** The **stablecoin market** is expanding faster than anticipated. Outstanding supply rose from **$200B** to **$280B** in 2025. **Citi** now projects **$1.9T** in issuance by 2030 (base) and **$4T** in a bull case. At fiat-like velocity, stablecoins could support **$100–200T** in yearly transactions.

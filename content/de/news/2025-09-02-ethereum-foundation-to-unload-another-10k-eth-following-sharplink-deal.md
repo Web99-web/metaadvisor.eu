@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/tech/2025/09/02/ethereum-foundation-unload
 summary: "Die Stiftung teilte mit, dass sie in den kommenden Wochen 10.000 ETH über zentralisierte Börsen verkaufen will, um Forschung, Grants und Spenden zu unterstützen."
 tags: ["crypto", "ethereum", "ETH", "solana", "SOL", "treasury", "foundation"]
 image_url: "https://www.coindesk.com/resizer/v2/XQAZ42X5DRDKZES4LFIK73O6RE.jpg?auto=webp&quality=85&width=1200"
+categories: ["crypto"]
 ---
 
 Die Ethereum Foundation (EF) teilte am Dienstag auf X mit, dass sie in den kommenden Wochen 10.000 ETH über zentralisierte Börsen verkaufen will, um Forschung, Entwicklung, Grants im Ökosystem und ähnliche Spenden zu unterstützen.

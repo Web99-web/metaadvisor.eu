@@ -7,14 +7,15 @@ translationKey: "ai-zuckerberg-clone-meetings-meta"
 source: "Metaadvisor (Financial Times, The Verge, Wired, X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/ai-zuckerberg-clone-meetings-meta.png"
-featured_image: "/images/Meta/ai-zuckerberg-clone-meetings-meta.png"
-image: "/images/Meta/ai-zuckerberg-clone-meetings-meta.png"
-thumbnail: "/images/Meta/ai-zuckerberg-clone-meetings-meta.png"
+image_url: "/images/Meta/ai-zuckerberg-clone-meetings-meta.webp"
+featured_image: "/images/Meta/ai-zuckerberg-clone-meetings-meta.webp"
+image: "/images/Meta/ai-zuckerberg-clone-meetings-meta.webp"
+thumbnail: "/images/Meta/ai-zuckerberg-clone-meetings-meta.webp"
 image_alt: "AI clone of Mark Zuckerberg attending meetings instead of CEO"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "meta", "zuckerberg", "ai klon", "ai ceo", "automatisierung", "entscheidungsfindung", "ai moderation", "zukunft der arbeit"]
 summary: "Die Geschichte über einen AI-Klon von Zuckerberg verbreitete sich in sozialen Netzwerken, doch das eigentliche Risiko ist nicht die Ersetzung des CEO — sondern was passiert, wenn Systeme der digitalen Version mehr vertrauen als der realen Person."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

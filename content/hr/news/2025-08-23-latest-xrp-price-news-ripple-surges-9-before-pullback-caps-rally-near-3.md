@@ -9,6 +9,7 @@ summary: "Probijanje iznad 3 $ izazvalo je peterostruki skok volumena; promjena 
 tags: ["xrp","ripple","price","breakout","powell","fed","jackson-hole","onchain","xrp-ledger","volume","markets","crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/092aae262c3e82083e87ab950178b71c032e309e-735x448.png?auto=format"
 image_alt: "XRP probija razinu od 3 $ uz snažan skok volumena"
+categories: ["news"]
 ---
 
 XRP je snažno napredovao u sesiji 22.–23. kolovoza, testirajući višemjesečni otpor oko 3,10 $ nakon tjedana kretanja u rasponu.

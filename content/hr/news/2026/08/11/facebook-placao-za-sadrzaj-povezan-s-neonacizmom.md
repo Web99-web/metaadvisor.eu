@@ -7,15 +7,16 @@ translationKey: "facebook-placao-za-sadrzaj-povezan-s-neonacizmom-2026-08-11"
 source: "Futurism, ABC News Australia, Meta"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
-featured_image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
-image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
-thumbnail: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
+image_url: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
+featured_image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
+image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
+thumbnail: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
 image_alt: "Facebook Content Monetization i pitanje zarade na sadržaju povezanom s neonacizmom"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Facebook", "Meta", "Content Monetization", "Facebook monetizacija", "AI moderacija", "govor mržnje", "neonacizam", "ekstremizam", "društvene mreže", "moderacija sadržaja"]
 description: "Facebookov Content Monetization program omogućio je zaradu računima povezanim s ekstremno desnim i neonacističkim sadržajem, dok su drugi dugogodišnji korisnici trajno uklanjani s platforme."
 summary: "Facebookov sustav monetizacije omogućio je isplate računima povezanim s ekstremno desnim i neonacističkim sadržajem. Istodobno su dugogodišnji obični korisnici, uključujući profesionalce i ljude koji su platformu koristili godinama, ostajali bez računa često bez jasnog objašnjenja."
+categories: ["social-media"]
 ---
 
 *Slika je simbolična.*
@@ -58,7 +59,7 @@ Problem automatiziranih odluka postao je dovoljno ozbiljan da se njime bavio i M
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">
-    <img src="/images/Banned-from-social-media.png" alt="Meta Oversight Board i dugogodišnji problem AI moderacije" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/Banned-from-social-media.webp" alt="Meta Oversight Board i dugogodišnji problem AI moderacije" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener"><strong>Meta Oversight Board: AI moderacija — dugogodišnji problem tek sad ulazi u fokus</strong></a>
@@ -75,7 +76,7 @@ To otvara pitanje zašto Facebook profil star petnaest ili dvadeset godina nema 
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/hr/news/facebook-dugogodisnji-profili-reputacijski-kredit-problem/" target="_blank" rel="noopener">
-    <img src="/images/Meta/Facebook-blocks-long-term-profiles.png" alt="Facebook i dugogodišnji profili bez reputacijskog kredita" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/Meta/Facebook-blocks-long-term-profiles.webp" alt="Facebook i dugogodišnji profili bez reputacijskog kredita" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/hr/news/facebook-dugogodisnji-profili-reputacijski-kredit-problem/" target="_blank" rel="noopener"><strong>Zašto na Facebooku profil star 15–20 godina nema reputacijski kredit?</strong></a>

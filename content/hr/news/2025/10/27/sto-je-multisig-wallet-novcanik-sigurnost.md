@@ -14,6 +14,7 @@ image_alt: "Tri ključa i tri ključanice — ilustracija multisig walleta"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto","bitcoin","ethereum","wallet","sigurnost","multisig","hardware wallet","trezor","DAO","DeFi","Lazarus","WazirX","self custody"]
 summary: "Multisig wallet je kripto-novčanik kojemu je za svaku transakciju potrebno više potpisa. Donosi veću sigurnost i smanjuje rizik, ali zahtijeva pažljivo korištenje i pravilnu implementaciju."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

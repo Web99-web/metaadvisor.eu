@@ -15,6 +15,7 @@ image_alt: "Claude AI model tvrtke Anthropic"
 image_credit: "Metaadvisor.eu (simbolična ilustracija)"
 tags: ["ai", "umjetna inteligencija", "anthropic", "claude", "llm", "generativni ai", "tehnologija", "buducnost", "ai sigurnost", "cloud", "enterprise ai"]
 summary: "Claude je napredni AI model tvrtke Anthropic koji se pozicionirao kao jedan od ključnih igrača u globalnoj utrci umjetne inteligencije. Donosimo detaljnu analizu zašto je danas izuzetno važan."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

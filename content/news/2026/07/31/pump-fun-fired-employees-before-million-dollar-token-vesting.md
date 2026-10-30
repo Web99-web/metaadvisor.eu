@@ -7,15 +7,16 @@ translationKey: "pump-fun-otpustio-zaposlenike-prije-milijunskog-vestinga-tokena
 source: "Sandmark, Cointelegraph, PANews, KuCoin, Yahoo Finance and public statements by former employees"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Pump-fun1.png"
-featured_image: "/images/Pump-fun1.png"
-image: "/images/Pump-fun1.png"
-thumbnail: "/images/Pump-fun1.png"
+image_url: "/images/Pump-fun1.webp"
+featured_image: "/images/Pump-fun1.webp"
+image: "/images/Pump-fun1.webp"
+thumbnail: "/images/Pump-fun1.webp"
 image_alt: "Pump.fun and PUMP tokens linked to employee layoffs before vesting"
 image_credit: "Metaadvisor.eu"
 tags: ["Pump.fun", "PUMP token", "Solana", "memecoin", "token vesting", "employee layoffs", "crypto employees", "token allocation", "token unlock", "Noah Tweedale", "Sandmark", "crypto industry", "employee rights"]
 description: "Pump.fun reportedly fired employees only months before they were due to receive PUMP tokens worth millions of dollars."
 summary: "Former Pump.fun employees claim they lost valuable PUMP token allocations after being fired shortly before vesting, with at least one allocation reportedly worth more than $1 million."
+categories: ["crypto"]
 ---
 
 # Pump.fun Fired Employees Before Million-Dollar Token Vesting

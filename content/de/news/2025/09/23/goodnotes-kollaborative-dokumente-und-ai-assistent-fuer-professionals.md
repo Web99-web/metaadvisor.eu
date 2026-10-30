@@ -8,10 +8,10 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/23/goodnotes-collaborative-docs-and-ai-assitant-to-cater-to-professional-users/"
 author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/goodnotes-ai.png"
-featured_image: "/images/goodnotes-ai.png"
-image: "/images/goodnotes-ai.png"
-thumbnail: "/images/goodnotes-ai.png"
+image_url: "/images/goodnotes-ai.webp"
+featured_image: "/images/goodnotes-ai.webp"
+image: "/images/goodnotes-ai.webp"
+thumbnail: "/images/goodnotes-ai.webp"
 image_alt: "Goodnotes + AI – Kollaboration und Produktivität"
 image_credit: "Metaadvisor.eu (generierte Grafik)"
 tags:
@@ -28,6 +28,7 @@ tags:
   - edtech
   - prosumers
 summary: "Goodnotes, bislang stark im Bildungsbereich, bringt kollaboratives Whiteboard, Dokumenterstellung und einen AI-Assistenten — ausgerichtet auf Professionals mit Teamwork-Bedarf, Meeting-Summaries und Visual-Generierung."
+categories: ["ai"]
 ---
 
 **Kurz:** **Goodnotes** erweitert sich vom Schul-/Uni-Use-Case in Richtung **Professional-Teams**. Neu sind ein **kollaboratives Whiteboard**, **Dokumenterstellung** (Text, Bilder, GIFs, Tabellen) sowie ein **AI-Assistent**, der Meetings zusammenfasst, Visuals (Charts/Diagramme) erzeugt, Texte lektoriert und **Templates** für Notizen/Dokumente vorschlägt.

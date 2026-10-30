@@ -24,6 +24,7 @@ tags:
   - volatilitaet
   - wochenendhandel
 summary: "Der teilweise Stillstand der US-Regierung über das Wochenende verstärkte die Unsicherheit an den Märkten und könnte den Abverkauf von Risikoanlagen, einschließlich Kryptowährungen, beschleunigt haben."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

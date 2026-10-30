@@ -14,6 +14,7 @@ image_alt: "Zašto burze zatvaraju shortove prije vremena"
 image_credit: "Metaadvisor.eu (simbolična ilustracija)"
 tags: ["crypto","trading","adl","short","exchange","risk-management","auto-deleveraging","liquidation","market-crash","phantom"]
 summary: "Zašto burze u trenucima naglog pada zatvaraju vaše short pozicije iako ste još u profitu? Objašnjavamo mehanizam Auto-Deleveraginga (ADL)."
+categories: ["crypto"]
 ---
 
 ## Što se dogodilo

@@ -9,6 +9,7 @@ summary: "Regulatory clarity following Ripple’s litigation outcome continues t
 tags: ["crypto","xrp","ripple","fed","powell","price-prediction","technical-analysis"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/f3e12572faeee8e49886bb6b1267389ae8259928-741x452.png?auto=format"
 image_alt: "XRP — CoinDesk Data image"
+categories: ["news"]
 ---
 
 XRP extended its rally on August 23 as institutional trading volumes spiked above averages, reinforcing bullish sentiment after weeks of consolidation. The move coincided with dovish remarks from Fed Chair Jerome Powell at Jackson Hole, which strengthened expectations of September rate cuts and triggered rotation into risk assets, including cryptocurrencies. Regulatory clarity following Ripple’s litigation outcome continues to support institutional flows, while analysts now point to ambitious $5–$8 targets should XRP break decisively above near-term resistance.

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/asia-morning-briefing-s
 summary: "Dollar dominance thanks to stablecoins is pushing China to explore stablecoins, but capital controls limit the project to Hong Kong’s offshore renminbi market, where liquidity is thin."
 tags: ["crypto","stablecoin","China","e-CNY","CBDC","HongKong","Beijing"]
 image_url: "https://www.coindesk.com/resizer/stablecoins-vs-ecny.jpg"
+categories: ["news"]
 ---
 
 Welcome to Asia Morning Briefing, a daily digest of key stories during U.S. hours and an overview of market moves. Today’s spotlight: China’s accelerating focus on stablecoins.

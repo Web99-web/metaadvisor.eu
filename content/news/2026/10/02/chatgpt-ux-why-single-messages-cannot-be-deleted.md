@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["ChatGPT", "ChatGPT UX", "user experience", "delete messages", "digital tools", "AI tools", "OpenAI", "UX"]
 description: "ChatGPT allows users to delete entire conversations, but does not offer a simple control for removing one already-sent message from an important chat."
 summary: "An accidentally sent image, document or message can remain inside an important chat. We propose three UX controls: Delete message, Move to another chat and Hide from context."
+categories: ["digital-tools"]
 ---
 
 *The image is symbolic.*

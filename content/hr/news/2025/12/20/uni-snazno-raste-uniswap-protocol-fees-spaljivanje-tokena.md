@@ -25,6 +25,7 @@ tags:
   - ethereum
   - kripto tržište
 summary: "UNI token snažno je porastao nakon početka glasanja o prijedlogu koji uvodi protocol fees i mehanizam spaljivanja, što tržište vidi kao ključni korak prema održivijoj tokenomici."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

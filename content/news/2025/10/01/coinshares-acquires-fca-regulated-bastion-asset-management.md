@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/10/01/coinshares-to-acquire-fca-regulated-bastion-asset-management"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/CoinShares.png"
-featured_image: "/images/CoinShares.png"
-image: "/images/CoinShares.png"
-thumbnail: "/images/CoinShares.png"
+image_url: "/images/CoinShares.webp"
+featured_image: "/images/CoinShares.webp"
+image: "/images/CoinShares.webp"
+thumbnail: "/images/CoinShares.webp"
 image_alt: "CoinShares logo"
 image_credit: "CoinShares"
 tags:
@@ -26,6 +26,7 @@ tags:
   - us-expansion
   - jean-marie-mognetti
 summary: "CoinShares acquires Bastion Asset Management to expand active digital asset management and accelerate its U.S. growth strategy."
+categories: ["news"]
 ---
 
 **CoinShares**, a leading European digital asset manager (approx. $10B AUM), announced the acquisition of **Bastion Asset Management**, an FCA-regulated London-based firm. Financial terms were not disclosed, and the deal remains subject to regulatory approval.

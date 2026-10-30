@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "crypto-rally-btc-77500-zec-721-etf-inflows-2026-08-21"
 source: "CoinDesk, Cointelegraph, Wall Street Journal, Financial Times, CryptoRank, Grayscale, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/BTC-up.png"
-featured_image: "/images/daily-charts/BTC-up.png"
-image: "/images/daily-charts/BTC-up.png"
-thumbnail: "/images/daily-charts/BTC-up.png"
+image_url: "/images/daily-charts/BTC-up.webp"
+featured_image: "/images/daily-charts/BTC-up.webp"
+image: "/images/daily-charts/BTC-up.webp"
+thumbnail: "/images/daily-charts/BTC-up.webp"
 image_alt: "Bitcoin steigt stark, während sich die Crypto-Rally auf ZEC, Ethereum, AAVE, LINK und XRP ausweitet"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Bitcoin", "BTC", "Zcash", "ZEC", "Ethereum", "ETH", "AAVE", "Chainlink", "LINK", "XRP", "Bitcoin-ETF", "Krypto-Rally", "Short Squeeze", "Kryptowährungen"]
 description: "Bitcoin hält sich nach dem Anstieg bis fast 80.000 Dollar bei rund 77.500 Dollar, während US-Spot-Bitcoin-ETFs in vier Tagen Zuflüsse von rund 1,6 Milliarden Dollar verzeichnen. ZEC erreichte rund 721 Dollar."
 summary: "Die Crypto-Rally hat sich von Bitcoin auf ZEC, ETH, XRP, AAVE und LINK ausgeweitet. ETF-Zuflüsse geben dem Anstieg nach dem anfänglichen Short Squeeze zusätzliches Gewicht."
+categories: ["Crypto"]
 ---
 
 *Das Bild ist symbolisch.*

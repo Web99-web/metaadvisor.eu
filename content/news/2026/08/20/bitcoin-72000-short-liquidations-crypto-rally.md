@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – symbolic image"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "Solana", "AAVE", "HYPE", "cryptocurrency", "short squeeze", "liquidations", "Bitcoin ETF", "Ethereum ETF"]
 description: "Bitcoin broke above $72,000 as crypto short liquidations exceeded $3.1 billion in two days. Ethereum reached $2,300, while SOL, AAVE and HYPE also surged."
 summary: "Bitcoin broke out of a six-week range and moved above $72,000. More than $3.1 billion in short positions were liquidated over two days as the rally spread to Ethereum, Solana, Aave and HYPE."
+categories: ["Crypto"]
 ---
 
 *Symbolic image.*

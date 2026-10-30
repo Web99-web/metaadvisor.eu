@@ -7,10 +7,10 @@ summary: "Die US-Regierung verbietet den Verkauf neuer ausländischer Drohnen au
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/"
 author: "MetaAdvisor.eu"
-image_url: "/images/dron.png"
-featured_image: "/images/dron.png"
-image: "/images/dron.png"
-thumbnail: "/images/dron.png"
+image_url: "/images/dron.webp"
+featured_image: "/images/dron.webp"
+image: "/images/dron.webp"
+thumbnail: "/images/dron.webp"
 image_alt: "Technologische Drohne – Symbol für das US-Verbot ausländischer Drohnen"
 tags:
   - drohnen
@@ -21,6 +21,7 @@ tags:
   - dji
   - regulierung
   - kuenstliche-intelligenz
+categories: ["ai"]
 ---
 
 <div class="cta" style="text-align:center; margin:20px 0 26px 0;">

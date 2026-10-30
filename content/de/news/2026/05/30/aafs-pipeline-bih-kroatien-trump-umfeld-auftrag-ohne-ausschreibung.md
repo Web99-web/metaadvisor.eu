@@ -7,14 +7,15 @@ translationKey: "aafs-bih-croatia-pipeline-guardian-2026"
 source: "Metaadvisor (The Guardian)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.png"
-featured_image: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.png"
-image: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.png"
-thumbnail: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.png"
+image_url: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.webp"
+featured_image: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.webp"
+image: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.webp"
+thumbnail: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.webp"
 image_alt: "AAFS pipeline deal Bosnia Croatia project"
 image_credit: "Metaadvisor.eu"
 tags: ["AAFS", "BiH", "Bosnien und Herzegowina", "Kroatien", "Pipeline", "Südliche Interkonnektion", "Energie", "Gas", "LNG", "Krk", "The Guardian", "Ausschreibung", "Transparenz", "Infrastruktur", "US-Unternehmen", "Balkan", "Energiesicherheit", "russisches Gas"]
 summary: "Nach Recherchen des Guardian hat das US-Unternehmen AAFS Infrastructure and Energy eine Schlüsselrolle bei einem Pipelineprojekt zwischen Bosnien und Herzegowina und Kroatien im Wert von rund einer Milliarde Dollar erhalten — offenbar ohne öffentliche Ausschreibung. Die Geschichte wirft Fragen zu Transparenz, Erfahrung des Unternehmens und zur Vergabe großer Energieprojekte auf dem Balkan auf."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">Das Bild ist symbolisch.</p>

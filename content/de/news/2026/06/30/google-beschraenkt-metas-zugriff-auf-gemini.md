@@ -7,14 +7,15 @@ translationKey: "google-ogranicio-metin-pristup-geminiju-2026-06-30"
 source: "Financial Times, Reuters, Jutarnji list, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Google-limits-meta-gemini-access.png"
-featured_image: "/images/news/Google-limits-meta-gemini-access.png"
-image: "/images/news/Google-limits-meta-gemini-access.png"
-thumbnail: "/images/news/Google-limits-meta-gemini-access.png"
+image_url: "/images/news/Google-limits-meta-gemini-access.webp"
+featured_image: "/images/news/Google-limits-meta-gemini-access.webp"
+image: "/images/news/Google-limits-meta-gemini-access.webp"
+thumbnail: "/images/news/Google-limits-meta-gemini-access.webp"
 image_alt: "Google beschränkt Metas Zugriff auf Gemini-KI-Modelle"
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Meta", "Gemini", "künstliche Intelligenz", "KI", "Google Cloud", "Compute", "KI-Infrastruktur", "Rechenzentren", "GPU", "Llama", "digitale Werbung", "Big Tech", "KI-Modelle", "Metaadvisor"]
 summary: "Die Nachricht, dass Google Metas Zugriff auf Gemini-KI-Modelle beschränkt hat, tauchte vor zwei Tagen auf, wirft aber eine größere Frage auf: Warum nutzt Meta trotz eigener Llama-Modelle und Milliardeninvestitionen in KI Googles Gemini offenbar in einem solchen Ausmaß, dass eine Beschränkung zur Nachricht wird?"
+categories: ["ai"]
 ---
 
 Das Bild ist symbolisch.
@@ -41,7 +42,7 @@ Darüber haben wir bereits am **06.10.2025** im Artikel **“Meta Llama: Alles W
 
 <div style="max-width:360px; margin:24px auto; text-align:center;">
   <a href="https://metaadvisor.eu/de/news/meta-llama-alles-wichtige-zum-offenen-generativen-ki-modell/" target="_blank" rel="noopener noreferrer">
-    <img src="/images/Meta-llama.png" alt="Meta Llama generatives KI-Modell" style="width:100%; max-width:360px; height:auto; border-radius:12px;">
+    <img src="/images/Meta-llama.webp" alt="Meta Llama generatives KI-Modell" style="width:100%; max-width:360px; height:auto; border-radius:12px;">
   </a>
   <p style="font-size:0.9em; line-height:1.4; margin-top:8px;">
     <a href="https://metaadvisor.eu/de/news/meta-llama-alles-wichtige-zum-offenen-generativen-ki-modell/" target="_blank" rel="noopener noreferrer">

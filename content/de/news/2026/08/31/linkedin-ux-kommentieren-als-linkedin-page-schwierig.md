@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["LinkedIn", "LinkedIn Page", "LinkedIn UX", "Benutzererfahrung", "UX", "Company Page", "soziale Netzwerke", "Unternehmensseiten", "digitale Plattformen", "Social Media Management", "Kommentieren", "Unternehmensprofile", "Microsoft", "Technologie"]
 description: "LinkedIn ermöglicht das Kommentieren im Namen einer Company Page, doch Administratoren müssen die Identität immer wieder wechseln. In der Suche kann der Bildschirm nach dem Wechsel zur Page zudem sichtbar durch bereits angesehene Beiträge springen."
 summary: "Das Kommentieren als LinkedIn Page ist möglich, doch der Workflow ist überraschend umständlich: Search setzt den Administrator wieder auf das persönliche Profil zurück, die Page muss erneut ausgewählt werden und der Identitätswechsel kann ein störendes Springen durch die Suchergebnisse auslösen."
+categories: ["Tech"]
 ---
 
 # LinkedIn UX: Warum Kommentieren als LinkedIn Page so schwierig ist

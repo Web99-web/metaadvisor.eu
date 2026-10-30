@@ -7,14 +7,15 @@ translationKey: "a3b5f2f8b7c34f38b0f2e11ad118k001"
 source: "Market recap"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/bitcoin-118k.png"
-featured_image: "/images/bitcoin-118k.png"
-image: "/images/bitcoin-118k.png"
-thumbnail: "/images/bitcoin-118k.png"
+image_url: "/images/bitcoin-118k.webp"
+featured_image: "/images/bitcoin-118k.webp"
+image: "/images/bitcoin-118k.webp"
+thumbnail: "/images/bitcoin-118k.webp"
 image_alt: "Bitcoin $118K — symbolic visual"
 image_credit: "Design: Metaadvisor.eu (symbolic)"
 tags: ["bitcoin","BTC","markets","price","Uptober","seasonality","open interest","derivatives","institutions","funding","volatility"]
 summary: "Bitcoin reclaimed $118,000 as Q4 kicks off. Seasonality (‘Uptober’), firm derivatives activity and steady flows on regulated rails underpin sentiment."
+categories: ["crypto"]
 ---
 
 **TL;DR:** **BTC** printed **above $118K** during the session. The move is framed by **Q4 seasonality** (“**Uptober**”), rising **open interest** and ongoing **institutional** participation via regulated products.

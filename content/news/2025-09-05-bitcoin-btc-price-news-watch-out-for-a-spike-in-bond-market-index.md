@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/05/bitcoin-bulls-should-ke
 summary: "The MOVE index, an indicator of bond market volatility, has surged, signaling potential liquidity tightening."
 tags: ["crypto", "bitcoin", "btc", "etf", "move-index", "bonds", "macro", "donald-trump", "tariffs"]
 image_url: "/images/bitcoin-btc1.jpg"
+categories: ["crypto"]
 ---
 
 The **Bitcoin (BTC)** bull run has already stalled as long-term holder wallets continue selling and ETF inflows slow. To make matters worse, another lesser-known but significant market variable is turning against bitcoin bulls, signaling new challenges ahead.

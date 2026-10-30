@@ -16,6 +16,7 @@ image_alt: "Stilizirana ilustracija digitalnog dolara i stabilnih kovanica (simb
 image_credit: "MetaAdvisor image map (simbolična slika)"
 tags: ["policy", "stablecoin", "SAD", "U.S. Treasury", "GENIUS Act", "AML", "sankcije", "porezi", "federalno vs. državno"]
 summary: "U.S. Treasury pokreće ranu fazu izrade pravila za GENIUS Act putem ANPRM-a i otvara mjesec dana za komentare industrije i javnosti o ključnim pitanjima regulacije stablecoina."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

@@ -7,15 +7,16 @@ translationKey: "eu-uvodi-ai-oznake-sto-morate-oznaciti-2026-08-04"
 source: "Europäische Kommission, EU AI Act und Leitlinien zu den Transparenzpflichten nach Artikel 50"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/ai-deepfake.png"
-featured_image: "/images/ai-deepfake.png"
-image: "/images/ai-deepfake.png"
-thumbnail: "/images/ai-deepfake.png"
+image_url: "/images/ai-deepfake.webp"
+featured_image: "/images/ai-deepfake.webp"
+image: "/images/ai-deepfake.webp"
+thumbnail: "/images/ai-deepfake.webp"
 image_alt: "Symbolische Darstellung von KI-Deepfake-Inhalten und Kennzeichnungspflichten in der Europäischen Union"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Europäische Union", "EU AI Act", "künstliche Intelligenz", "KI-Kennzeichnung", "KI-Inhalte", "Deepfake", "generative KI", "KI-Chatbot", "KI-Transparenz", "KI-generierte Inhalte", "maschinenlesbare Kennzeichnung", "Artikel 50", "Digitalregulierung", "redaktionelle Kontrolle", "in Zusammenarbeit mit KI"]
 description: "Seit dem 2. August gelten in der Europäischen Union neue Regeln zur Kennzeichnung von Chatbots, Deepfakes und bestimmten KI-generierten Veröffentlichungen."
 summary: "Der EU AI Act führt Transparenzpflichten für Chatbots, Deepfake-Inhalte und bestimmte KI-generierte Veröffentlichungen ein, verlangt aber keine Kennzeichnung jedes Textes, der mit KI-Unterstützung entstanden ist."
+categories: ["artificial-intelligence"]
 ---
 
 # EU führt KI-Kennzeichnung ein: Was muss gekennzeichnet werden?

@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-
 summary: "Australski odvjetnik ostao bez ovlasti glavnog odvjetnika nakon što je priznao da nije provjerio popis slučajeva koje mu je generirala umjetna inteligencija."
 tags: ["AI", "pravo", "etika", "Australija", "sud", "profesionalna-odgovornost"]
 image_url: "https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg"
+categories: ["ai"]
 ---
 
 Australski odvjetnik postao je prvi u zemlji koji se suočio s profesionalnim sankcijama zbog korištenja umjetne inteligencije u sudskom slučaju. Oduzeta mu je mogućnost rada kao glavni odvjetnik nakon što je AI generirao lažne pravne presedane koje nije provjerio.  

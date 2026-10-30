@@ -15,6 +15,7 @@ image_alt: "Symbolic illustration of a penguin linked to the crypto market"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "The PENGUIN memecoin surged by several hundred percent within hours following a viral social media post. The episode highlights how hype and symbolism can rapidly move prices in the memecoin segment."
 tags: ["penguin", "memecoin", "crypto", "solana", "pumpfun", "phantom", "dex", "market", "hype", "virality"]
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

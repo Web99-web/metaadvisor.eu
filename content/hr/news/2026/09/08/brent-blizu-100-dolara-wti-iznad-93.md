@@ -6,15 +6,16 @@ category: "Markets"
 translationKey: "oil-brent-wti-near-100-middle-east-2026-09-08"
 source: "Reuters, Kpler, Goldman Sachs, Metaadvisor.eu"
 source_url: ""
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "Brent i WTI rastu dok geopolitički rizici na Bliskom istoku podižu cijene nafte"
 image_credit: "Metaadvisor.eu"
 tags: ["nafta", "Brent", "WTI", "energenti", "tržišta", "Bliski istok", "Saudijska Arabija", "Iran", "Huti", "Hormuški tjesnac", "cijena nafte", "geopolitički rizik"]
 description: "Brent se približio granici od 100 dolara po barelu, dok je WTI porastao iznad 93 dolara nakon novih napada na energetska postrojenja u Saudijskoj Arabiji i nastavka problema s prometom kroz Hormuški tjesnac."
 summary: "Brent je 8. rujna dosegnuo intraday vrh od 99,46 dolara, a WTI 94,73 dolara. Novi napadi na saudijska energetska postrojenja i ograničeni tokovi kroz Hormuški tjesnac ponovno podižu geopolitičku premiju u cijeni nafte."
+categories: ["Markets"]
 ---
 
 *Slika je simbolična.*

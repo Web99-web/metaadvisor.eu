@@ -15,6 +15,7 @@ image_alt: "Bitcoin und Krypto-Regulierung in Pakistan"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "pakistan", "regulierung", "banken", "crypto adoption", "blockchain", "finanzen"]
 summary: "Pakistan hebt nach sieben Jahren das Krypto-Verbot auf und erlaubt Banken die Zusammenarbeit mit lizenzierten Krypto-Unternehmen — jedoch unter strengen regulatorischen Bedingungen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

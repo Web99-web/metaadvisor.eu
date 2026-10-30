@@ -7,6 +7,7 @@ tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1c858c0bc20cb3b45571d51b93c2291f63a68d83-5184x2916.jpg"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/08/21/state-street-expands-custody-to-tokenized-debt-on-jpmorgan-s-blockchain-platform"
+categories: ["crypto"]
 ---
 
 State Street, skrbnička banka iz Bostona s 49 bilijuna USD imovine pod upravljanjem, dodatno ulazi u područje digitalne imovine pridruživanjem JPMorganovoj blockchain platformi za tokeniziranu imovinu **Digital Debt Service** kao prvi vanjski skrbnik.

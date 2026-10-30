@@ -7,14 +7,15 @@ translationKey: "cognition-ai-devin-scott-wu-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/companies/Cognition-AI-Scott-Wu.png"
-featured_image: "/images/companies/Cognition-AI-Scott-Wu.png"
-image: "/images/companies/Cognition-AI-Scott-Wu.png"
-thumbnail: "/images/companies/Cognition-AI-Scott-Wu.png"
+image_url: "/images/companies/Cognition-AI-Scott-Wu.webp"
+featured_image: "/images/companies/Cognition-AI-Scott-Wu.webp"
+image: "/images/companies/Cognition-AI-Scott-Wu.webp"
+thumbnail: "/images/companies/Cognition-AI-Scott-Wu.webp"
 image_alt: "Scott Wu Cognition AI Devin AI"
 image_credit: "Metaadvisor ilustracija"
 tags: ["ai", "cognition ai", "scott wu", "devin ai", "programiranje", "startup", "automatizacija", "tehnologija"]
 summary: "Priča o Scottu Wuu i Cognition AI pokazuje kako jedan od najtalentiranijih programera svoje generacije razvija AI koji može samostalno programirati i potencijalno promijeniti IT industriju."
+categories: ["ai"]
 ---
 
 _Slika je simbolična._
@@ -32,7 +33,7 @@ Do nas je došao video jednog klinca s matematičkog natjecanja koji odgovara na
 
 Istraživanje nas je dovelo do imena Scott Wu. I tu priča prestaje biti samo zanimljiv video, a počinje voditi prema jednom od najambicioznijih mladih ljudi i AI projekata današnjice.
 
-![Scott Wu Mathcounts 2010](/images/companies/Scott-Wu-2010-Mathcounts-National-Competition.png)
+![Scott Wu Mathcounts 2010](/images/companies/Scott-Wu-2010-Mathcounts-National-Competition.webp)
 
 *Scott Wu kao mladi natjecatelj na MATHCOUNTS National Competition*
 

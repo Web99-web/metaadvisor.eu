@@ -8,10 +8,10 @@ source: "MetaAdvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/okx-analysis.png"
-featured_image: "/images/okx-analysis.png"
-image: "/images/okx-analysis.png"
-thumbnail: "/images/okx-analysis.png"
+image_url: "/images/okx-analysis.webp"
+featured_image: "/images/okx-analysis.webp"
+image: "/images/okx-analysis.webp"
+thumbnail: "/images/okx-analysis.webp"
 image_alt: "Analyse der Kryptobörse OKX und ihrer Rolle auf dem asiatischen Markt"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -23,6 +23,7 @@ tags:
   - derivative
   - globale-maerkte
 summary: "Die Kryptobörse OKX taucht zunehmend in Analysen großer Marktbewegungen auf. Lange außerhalb des Fokus westlicher Medien, wird ihre Rolle in Asien und im Derivatehandel immer sichtbarer."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

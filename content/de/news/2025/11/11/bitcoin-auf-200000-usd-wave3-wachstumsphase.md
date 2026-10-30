@@ -15,6 +15,7 @@ image_alt: "Bitcoin Chart um 100 000 USD-Zone"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "wave3", "crypto", "analyse", "institutionen", "etf", "ethereum", "markt"]
 summary: "Bitcoin konsolidiert sich zwischen 102 000 und 103 000 USD, Analysten prognostizieren den möglichen Start der ‚Wave III‘-Phase mit Ziel 200 000 USD."
+categories: ["crypto"]
 ---
 
 Der Preis von Bitcoin (BTC) bewegt sich erneut in einer engen Spanne zwischen **102.000 und 103.000 USD**, nachdem er am Montag kurz **107.000 USD** erreicht hatte.  

@@ -10,6 +10,7 @@ image_url: "/images/btc-millionaire.jpg"
 image_alt: "Rani Bitcoin vs. današnji milijunski iznosi – mit i realnost"
 tags: ["bitcoin","mitovi","povijest","psihologija","gubici-kljuceva","mt-gox"]
 summary: "Priča „1 $ u 2010. = milijun danas” zvuči slasno, ali ignorira stvarnost: tadašnje troškove i limite, kaotične burze, masovne gubitke ključeva i brutalne padove od 80–90% kroz koje je gotovo nitko nije mirno prehodao."
+categories: ["crypto"]
 ---
 
 **Mit u jednoj rečenici:** da ste 2010. kupili **1 dolar** Bitcoina i samo mirno zaboravili na njega, danas biste bili milijunaš. Zvuči lijepo – ali ta priča **preskače** gotovo sve što je u stvarnosti trebalo preživjeti da bi se do milijuna uopće došlo.

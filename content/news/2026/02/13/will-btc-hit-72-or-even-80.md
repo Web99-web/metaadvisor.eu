@@ -15,6 +15,7 @@ image_alt: "Bitcoin BTC chart and market analysis"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["btc", "bitcoin", "crypto", "market analysis", "mvrv", "cpi", "inflation", "bull market", "bear market", "etf", "trading"]
 summary: "Bitcoin approaches the critical $72K–$80K zone as onchain indicators suggest potential undervaluation. Is a short-term rally ahead?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

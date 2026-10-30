@@ -7,10 +7,10 @@ translationKey: "77aa5e81fc83adcaec7fa4fc85877a88"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/FTX-payout.png"
-featured_image: "/images/FTX-payout.png"
-image: "/images/FTX-payout.png"
-thumbnail: "/images/FTX-payout.png"
+image_url: "/images/FTX-payout.webp"
+featured_image: "/images/FTX-payout.webp"
+image: "/images/FTX-payout.webp"
+thumbnail: "/images/FTX-payout.webp"
 image_alt: "FTX isplate vjerovnicima, sudski postupci i USD obračun u kripto bankrotu"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "FTX je objavio novi datum isplate vjerovnicima, ali ključno pitanje ostaje isto: zašto se ljudi koji su svjesno uložili u kripto u bankrotu isplaćuju u USD, a ne u imovini u koju su vjerovali?"
@@ -23,6 +23,7 @@ tags:
   - bitcoin
   - usd
   - vjerovnici
+categories: ["news"]
 ---
 
 <p style="font-size:0.8em; color:#777; margin-top:-6px;">

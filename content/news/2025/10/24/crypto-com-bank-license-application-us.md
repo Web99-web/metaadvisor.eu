@@ -16,6 +16,7 @@ image_alt: "Crypto.com Bank license application"
 image_credit: "Image is symbolic."
 tags: ["Crypto.com", "bank license", "USA", "regulation", "crypto"]
 summary: "Crypto.com has filed an application for a U.S. Trust Bank Charter. If approved, the exchange could operate as a federally regulated bank."
+categories: ["crypto"]
 ---
 
 🚨 **Crypto.com files for U.S. bank license**

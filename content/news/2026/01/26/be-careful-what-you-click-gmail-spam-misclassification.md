@@ -15,6 +15,7 @@ image_alt: "Illustration of a Gmail inbox with security warnings"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Google has confirmed issues with Gmail that caused legitimate emails to be flagged as spam while suspicious messages appeared in inboxes. Users are advised to be extra cautious, as automated filtering systems are not always reliable."
 tags: ["gmail", "google", "email", "security", "spam", "phishing", "cybersecurity", "ai", "technology", "internet safety"]
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

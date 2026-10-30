@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "dropbox-lenovo-id-hack-5000-accounts-2026-09-02"
 source: "Dropbox, Lenovo, Reuters, BleepingComputer"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Dropbox-Lenovo-hack.png"
-featured_image: "/images/hack/Dropbox-Lenovo-hack.png"
-image: "/images/hack/Dropbox-Lenovo-hack.png"
-thumbnail: "/images/hack/Dropbox-Lenovo-hack.png"
+image_url: "/images/hack/Dropbox-Lenovo-hack.webp"
+featured_image: "/images/hack/Dropbox-Lenovo-hack.webp"
+image: "/images/hack/Dropbox-Lenovo-hack.webp"
+thumbnail: "/images/hack/Dropbox-Lenovo-hack.webp"
 image_alt: "Dropbox sigurnosni incident u kojem je preko Lenovo ID propusta kompromitirano oko 5.000 korisničkih računa"
 image_credit: "Metaadvisor.eu"
 tags: ["Dropbox", "Lenovo", "Lenovo ID", "hakiranje", "cyber sigurnost", "sigurnost", "krađa podataka", "korisnički računi", "cloud", "2FA", "autentifikacija", "digitalni identitet", "sigurnosni propust", "lozinke", "zaštita podataka"]
 description: "Dropbox je potvrdio da je oko 5.000 korisničkih računa kompromitirano preko sigurnosnog propusta povezanog sa starom Lenovo ID integracijom. Napadačima pritom nije trebala Dropbox lozinka."
 summary: "Napadači su iskoristili slabost u Lenovo ID email verifikaciji kako bi se predstavili kao vlasnici tuđih email adresa i preko stare integracije pristupili Dropbox računima. Dio datoteka bio je pregledan ili preuzet, a pogođeni računi nisu imali uključen Dropbox 2FA."
+categories: ["Tech"]
 ---
 
 *Slika je simbolična.*

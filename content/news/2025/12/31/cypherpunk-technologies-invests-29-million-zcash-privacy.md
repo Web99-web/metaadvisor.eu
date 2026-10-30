@@ -7,14 +7,15 @@ translationKey: "cypherpunk_zcash_29m_2025"
 source: "MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Cyperpunk-technologies-Zcash-zec.png"
-featured_image: "/images/Cyperpunk-technologies-Zcash-zec.png"
-image: "/images/Cyperpunk-technologies-Zcash-zec.png"
-thumbnail: "/images/Cyperpunk-technologies-Zcash-zec.png"
+image_url: "/images/Cyperpunk-technologies-Zcash-zec.webp"
+featured_image: "/images/Cyperpunk-technologies-Zcash-zec.webp"
+image: "/images/Cyperpunk-technologies-Zcash-zec.webp"
+thumbnail: "/images/Cyperpunk-technologies-Zcash-zec.webp"
 image_alt: "Cypherpunk Technologies buys Zcash (ZEC) worth $29 million"
 image_credit: "MetaAdvisor.eu"
 tags: ["zcash", "zec", "privacy-coins", "crypto", "institutional-crypto", "crypto-treasury", "nasdaq"]
 summary: "US-based, NASDAQ-listed Cypherpunk Technologies has purchased $29 million worth of Zcash, signaling that privacy has become a strategic long-term theme in crypto."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

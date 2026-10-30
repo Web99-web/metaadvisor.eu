@@ -16,6 +16,7 @@ image_alt: "Ledger Hardware-Wallet und Multisig-Konzept"
 image_credit: "Symbolisches Bild."
 tags: ["Ledger", "Hardware-Wallet", "Multisig", "Gebühren", "Self-Custody", "Sicherheit", "Krypto", "Bitcoin", "Ethereum", "Wallet", "Krypto-Sicherheit"]
 summary: "Ledger hat eine neue Multisig-Oberfläche vorgestellt. Die Community kritisiert das Gebührenmodell und spricht von einer „Melkkuh“. Wir erklären den Kontext, was Multisig ist und was das für Nutzer bedeutet."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

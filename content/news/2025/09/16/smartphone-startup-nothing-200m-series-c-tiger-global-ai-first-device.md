@@ -13,6 +13,7 @@ image_alt: "Symbolic photo of a smartphone"
 image_credit: "Symbolic image"
 tags: ["ai","smartphones","Nothing","Tiger Global","Series C","fundraising","Carl Pei","Qualcomm Ventures","GV","Highland Europe","EQT","Latitude","I2BF","Tapestry","community round","AI-first"]
 summary: "Nothing raises $200M (led by Tiger Global), lifts valuation to about $1.3B, and teases an 'AI-first' device."
+categories: ["ai"]
 ---
 
 *Note: symbolic image.*

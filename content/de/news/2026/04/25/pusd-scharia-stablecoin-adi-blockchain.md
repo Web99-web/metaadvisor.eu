@@ -15,6 +15,7 @@ image_alt: "PUSD scharia-konformer Stablecoin auf der ADI-Blockchain"
 image_credit: "Metaadvisor / Illustration"
 tags: ["crypto","krypto","pusd","stablecoin","scharia","islamische finanz","adi blockchain","blockchain","defi","finanzen"]
 summary: "PUSD, ein scharia-konformer Stablecoin, der durch Währungen aus der Golfregion gedeckt ist, wird in die ADI-Blockchain integriert und zielt auf einen Markt für islamische Finanzdienstleistungen im Wert von über 3 Billionen Dollar."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/04/google-pixel-10-
 summary: "Dodatna 5x telefoto kamera, korisni AI alati, Qi2 podrška i uglađeni softver čine ovaj Android kvalitetnim izborom."
 tags: ["google", "pixel 10", "tensor g5", "android", "qi2", "kamera", "smartphone"]
 image_url: "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg"
+categories: ["news"]
 ---
 
 Googleov novi Pixel 10 dobio je više kamera, brži čip i kvalitetan softver, čime je izašao iz sjene svojih skupljih Pro modela i postavio novi standard za osnovni flagship telefon.  

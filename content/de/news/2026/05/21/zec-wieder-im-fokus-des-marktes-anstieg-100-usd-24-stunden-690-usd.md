@@ -15,6 +15,7 @@ image_alt: "Zcash ZEC wieder im Fokus des Kryptomarktes nach einem starken Kursa
 image_credit: "Metaadvisor.eu"
 tags: ["zec", "zcash", "privacy coin", "kryptomarkt", "crypto markt", "altcoin", "blockchain", "digitale vermögenswerte", "finanzielle privatsphäre", "crypto preise", "volatilität", "fomo", "market focus", "marktfokus", "crypto analyse", "krypto analyse"]
 summary: "ZEC hat erneut die Aufmerksamkeit des Kryptomarktes auf sich gezogen, nachdem der Kurs innerhalb von 24 Stunden um fast 100 USD gestiegen ist und die Zone um 690 USD berührt hat. Der Anstieg wirft erneut die Frage auf, ob das Marktinteresse an Privacy Coins und Blockchain-Infrastruktur rund um finanzielle Privatsphäre zurückkehrt."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

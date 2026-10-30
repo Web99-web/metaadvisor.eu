@@ -15,6 +15,7 @@ image_alt: "FUD messages warning graphic"
 image_credit: "MetaAdvisor.eu"
 tags: ["kripto", "sigurnost", "fud", "ethereum", "eth", "prevara", "instagram", "messenger", "lazni profili", "kripto prevaranti"]
 summary: "Više korisnika prijavljuje gotovo identične FUD poruke na Instagramu i Messengeru koje potiču paniku oko kriptovaluta. Objašnjavamo što su, zašto se šalju i kako se zaštititi."
+categories: ["security"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

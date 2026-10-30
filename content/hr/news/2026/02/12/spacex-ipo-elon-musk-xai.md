@@ -7,14 +7,15 @@ translationKey: "spacex-ipo-xai-strategy-2026-02-12"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/"
 author: "Metaadvisor.eu"
-image_url: "/images/Elon-Musk-world.png"
-featured_image: "/images/Elon-Musk-world.png"
-image: "/images/Elon-Musk-world.png"
-thumbnail: "/images/Elon-Musk-world.png"
+image_url: "/images/Elon-Musk-world.webp"
+featured_image: "/images/Elon-Musk-world.webp"
+image: "/images/Elon-Musk-world.webp"
+thumbnail: "/images/Elon-Musk-world.webp"
 image_alt: "Elon Musk i globalna tehnološka ekspanzija"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["spacex", "ipo", "elon musk", "xai", "umjetna inteligencija", "svemirska tehnologija", "tech industrija", "nasdaq", "ai infrastruktura"]
 summary: "Dok suosnivači napuštaju xAI, Elon Musk sve glasnije govori o lunarnoj proizvodnji i jačanju AI infrastrukture, u trenutku kada se sve češće spominje mogućnost IPO-a povezanog sa SpaceX-om."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

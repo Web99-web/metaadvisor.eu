@@ -1,6 +1,9 @@
 {{- $lang := site.Language.Lang -}}
+{{- $imageRepairRegistry := readFile "migration/verified-url-repairs.json" | transform.Unmarshal -}}
+{{- $imageRepairs := $imageRepairRegistry.image_format_aliases -}}
 {{- $pages := where site.RegularPages "Type" "news" -}}
 {{- $pages = where $pages ".Lang" $lang -}}
+{{- $pages = partial "preferred-articles.html" $pages -}}
 [
 {{- $first := true -}}
 {{- range $pg := $pages -}}
@@ -9,7 +12,7 @@
   {{- $src := "" -}}
 
   {{/* 1) hero* iz bundlea */}}
-  {{ with $pg.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
+  {{ with (or ($pg.Resources.GetMatch "hero.png") ($pg.Resources.GetMatch "hero*")) }}{{ $src = .RelPermalink }}{{ end }}
 
   {{/* 2) .Params.image_url ili .Params.image (samo lokalni put) */}}
   {{ if not $src }}
@@ -28,6 +31,21 @@
   {{ end }}
 
   {{ if not $src }}{{ $src = $ph }}{{ end }}
+  {{/* Only the audited, explicitly verified JSON image aliases are repaired. */}}
+  {{ if in $imageRepairRegistry.json_image_keys $src }}
+    {{ $verified := index $imageRepairRegistry.images $src }}
+    {{ if and $verified (fileExists (printf "static%s" (urls.Parse $verified).Path)) }}
+      {{ $src = $verified }}
+    {{ else }}
+      {{ errorf "Verified JSON image target missing for %s: %s" $pg.RelPermalink $src }}
+    {{ end }}
+  {{ end }}
+  {{/* Resolve only approved image-format migrations; preserve every other record. */}}
+  {{ if not (fileExists (printf "static%s" (urls.Parse $src).Path)) }}
+    {{ with index $imageRepairs $src }}
+      {{ if fileExists (printf "static%s" (urls.Parse .).Path) }}{{ $src = . }}{{ end }}
+    {{ end }}
+  {{ end }}
 
   {
     "title": {{ $pg.Title | jsonify }},

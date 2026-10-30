@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu / AI"
 tags: ["Revolut", "Cybersicherheit", "Cybersecurity", "Datenleck", "personenbezogene Daten", "VIP-Kunden", "Identitätsdiebstahl", "KYC", "Selfie-Verifizierung", "Bitcoin", "Kryptowährungen", "Alexander Shevchenko", "Felix Römer", "Mark Karpelès", "Mt. Gox", "Gamdom", "Erpressung", "Datenschutz"]
 description: "Angreifer, die an sensible Daten von Revolut-Kunden gelangt sind, haben Berichten zufolge begonnen, Identitätsdokumente und Selfies zu veröffentlichen und drohen mit täglichen neuen Leaks, bis Revolut zahlt."
 summary: "Der Revolut-Vorfall entwickelt sich zu einem aktiven Erpressungsversuch. Angreifer veröffentlichen Berichten zufolge Kundendaten und drohen mit täglichen neuen Leaks. Zu den öffentlich genannten Personen gehören Alexander Shevchenko und Felix Römer, während der frühere Mt.-Gox-CEO Mark Karpelès bereits bestätigt hatte, ebenfalls betroffen zu sein."
+categories: ["Cybersecurity"]
 ----
 
 *Bild ist symbolisch.*
@@ -69,7 +70,7 @@ Der Fall wirft deshalb auch eine breitere Frage auf: Wie viele Selfies und Aufna
 
 <div style="text-align:center; margin:2rem auto;">
   <a href="https://metaadvisor.eu/de/news/was-meta-facebook-instagram-mit-ihrer-gesichtsaufnahme-macht/" target="_blank" rel="noopener">
-    <img src="/images/Meta/Meta-face-recording.png" alt="Was macht Meta mit der Aufnahme Ihres Gesichts?" style="display:block; width:55%; max-width:560px; height:auto; margin:0 auto;">
+    <img src="/images/Meta/Meta-face-recording.webp" alt="Was macht Meta mit der Aufnahme Ihres Gesichts?" style="display:block; width:55%; max-width:560px; height:auto; margin:0 auto;">
   </a>
   <p style="font-size:0.9em; margin-top:0.6rem;"><a href="https://metaadvisor.eu/de/news/was-meta-facebook-instagram-mit-ihrer-gesichtsaufnahme-macht/" target="_blank" rel="noopener"><strong>Was macht Meta mit der Aufnahme Ihres Gesichts?</strong></a></p>
 </div>

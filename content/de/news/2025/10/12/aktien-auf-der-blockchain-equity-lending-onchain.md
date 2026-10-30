@@ -15,6 +15,7 @@ image_alt: "Aktien und Blockchain digital verbunden"
 image_credit: "Symbolisches Bild."
 tags: ["Blockchain", "On-Chain", "Aktien", "Equity Lending", "Tokenisierung", "RWA", "DeFi", "Finanzen"]
 summary: "Die Kapitalmärkte brauchen On-Chain-Lösungen für Aktienleihe — sofortiges Settlement, programmierbare Sicherheiten und transparente Regeln anstelle veralteter Batch-Systeme."
+categories: ["ai"]
 ---
 
 **Kurz gefasst:**  

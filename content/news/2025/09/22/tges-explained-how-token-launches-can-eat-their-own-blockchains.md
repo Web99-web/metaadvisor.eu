@@ -15,6 +15,7 @@ image_alt: "Token launches and blockchains — symbolic illustration"
 image_credit: "Metaadvisor image_map (symbolic image)"
 tags: ["TGE","token-generation-event","token","launch","FDV","free-float","vesting","unlocks","CEX","DEX","LBP","lockdrop","retrodrop","airdrop","points","sybil","tokenomics","governance","PMF","utility","DeFi","L1","L2","retail","VC","regulation"]
 summary: "More projects launch the token first (TGE) and ship the product later. In plain words: why that inflates ‘paper value,’ starves utility – and how to spot healthier launch designs."
+categories: ["crypto"]
 ---
 
 **TL;DR:**  

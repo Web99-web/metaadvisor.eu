@@ -15,6 +15,7 @@ image_alt: "Bitcoin rally toward 83k followed by pullback to 81.5k amid weak der
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "cryptocurrency", "trading", "derivatives", "futures", "options", "macro", "inflation", "iran", "oil", "market", "volatility", "crypto market"]
 summary: "Bitcoin surged close to $83,000 before pulling back to $81,500. Despite the price rally, derivatives and macro signals suggest caution and a lack of real market conviction."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

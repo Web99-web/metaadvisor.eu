@@ -9,6 +9,7 @@ summary: "Regulatorna jasnoća nakon sudskog ishoda za Ripple nastavlja podupira
 tags: ["crypto","xrp","ripple","fed","powell","price-prediction","tehnicka-analiza"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/f3e12572faeee8e49886bb6b1267389ae8259928-741x452.png?auto=format"
 image_alt: "XRP — CoinDesk Data grafika"
+categories: ["news"]
 ---
 
 XRP je **nastavio rast** 23. kolovoza dok su **institucionalni volumeni** nadmašili prosjeke, učvršćujući bikovski sentiment nakon tjedana konsolidacije. Pomak se **poklopio s ‘dovish’ tonom** predsjednika Feda **Jeromea Powella** u Jackson Holeu, koji je ojačao očekivanja **smanjenja stopa u rujnu** i potaknuo rotaciju u rizičniju imovinu, uključujući kripto. **Regulatorna jasnoća** nakon sudskog epiloga za **Ripple** i dalje podupire institucionalne tokove, a analitičari sada ciljaju **5–8 $** ako **XRP** odlučno probije **kratkoročni otpor**.

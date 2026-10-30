@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu / AI"
 tags: ["Revolut", "kibernetička sigurnost", "cybersecurity", "curenje podataka", "osobni podaci", "privatnost", "krađa identiteta", "phishing", "socijalni inženjering", "fintech", "bankarstvo", "kriptovalute", "Bitcoin", "zaštita podataka", "online prijevare"]
 description: "Revolut je potvrdio da je osjetljive podatke dijela korisnika predao neovlaštenoj trećoj strani nakon lažnih zahtjeva koji su stigli sa službene e-mail domene stvarne državne agencije."
 summary: "Revolut nije hakiran na klasičan način. Tvrtka je sama predala osjetljive podatke ograničenog broja korisnika nakon što je povjerovala zahtjevima koji su izgledali kao legitimni zahtjevi državne agencije. Još nije poznato koja je agencija kompromitirana niti iz koje države dolazi."
+categories: ["Cybersecurity"]
 ---
 
 *Slika je simbolična.*

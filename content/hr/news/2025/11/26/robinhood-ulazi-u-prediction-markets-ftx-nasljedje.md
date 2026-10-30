@@ -15,6 +15,7 @@ image_alt: "Robinhood ulazi u prediction market industriju"
 image_credit: "MetaAdvisor AI-generated (slika je simbolična)"
 tags: ["robinhood", "predikcijska tržišta", "kripto", "derivati", "burze", "ulaganje", "trgovanje", "financije", "alameda", "ftx", "blockchain", "institucije", "regulacija", "tržište"]
 summary: "Robinhood i Susquehanna preuzimaju MIAXdx/LedgerX, jednu od rijetkih preživjelih firmi iz FTX ekosustava. Time ulaze u prediction markets i najavljuju najveći strateški zaokret od osnutka."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

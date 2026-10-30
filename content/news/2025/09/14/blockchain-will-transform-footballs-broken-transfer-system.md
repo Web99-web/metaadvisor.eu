@@ -10,6 +10,7 @@ image_url: "/images/football.jpg"
 image_alt: "Floodlit football pitch viewed from above"
 tags: ["ai","blockchain","football","transfers","stablecoin","ffp"]
 summary: "Faster settlement, lower costs and more transparency: blockchain rails could streamline transfers, aid smaller clubs and simplify financial fair play oversight."
+categories: ["ai"]
 ---
 
 **The pitch**  

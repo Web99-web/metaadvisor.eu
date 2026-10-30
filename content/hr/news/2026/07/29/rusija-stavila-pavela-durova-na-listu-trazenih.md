@@ -7,15 +7,16 @@ translationKey: "rusija-pavel-durov-lista-trazenih-2026-07-29"
 source: "Interfax, Reuters, Cointelegraph i Telegram"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Pavel-Durov-Russia-wanted-list.png"
-featured_image: "/images/news/Pavel-Durov-Russia-wanted-list.png"
-image: "/images/news/Pavel-Durov-Russia-wanted-list.png"
-thumbnail: "/images/news/Pavel-Durov-Russia-wanted-list.png"
+image_url: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
+featured_image: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
+image: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
+thumbnail: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
 image_alt: "Pavel Durov na ruskoj listi traženih osoba"
 image_credit: "Metaadvisor.eu"
 tags: ["Pavel Durov", "Telegram", "Rusija", "FSB", "međunarodna potraga", "lista traženih", "terorizam", "Interpol", "Red Notice", "privatnost", "sloboda govora", "Francuska"]
 description: "Ruski FSB optužio je osnivača Telegrama Pavela Durova za navodno pomaganje terorizmu i objavio da je stavljen na međunarodnu listu traženih."
 summary: "Rusija je pokrenula međunarodnu potragu za Pavelom Durovom, ali zasad nije potvrđeno da je Interpol izdao Red Notice."
+categories: ["news"]
 ---
 
 # Rusija stavila Pavela Durova na listu traženih
@@ -82,7 +83,7 @@ Nova ruska optužba dolazi samo dva tjedna nakon što je Telegramova domena `t.m
      rel="noopener"
      style="display: inline-block;">
     <img
-      src="/images/news/Telegram-t.me.png"
+      src="/images/news/Telegram-t.me.webp"
       alt="Telegramova domena t.me nestala iz globalnog DNS-a"
       loading="lazy"
       style="width: 100%; max-width: 480px; height: auto; border-radius: 8px;"

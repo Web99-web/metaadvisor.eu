@@ -8,14 +8,15 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/"
 author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/slate-truck.png"
-featured_image: "/images/slate-truck.png"
-image: "/images/slate-truck.png"
-thumbnail: "/images/slate-truck.png"
+image_url: "/images/Slate-truck.webp"
+featured_image: "/images/Slate-truck.webp"
+image: "/images/Slate-truck.webp"
+thumbnail: "/images/Slate-truck.webp"
 image_alt: "Elektrischer Pickup von Slate Auto"
 image_credit: "Symbolisches Bild."
 tags: ["EV", "Elektro-Pickup", "Slate Auto", "TechCrunch Disrupt 2025", "Mobilität", "Startups", "Produktion", "Supply Chain", "Christine Barman", "Chrysler", "ADAS", "Autonomes Fahren"]
 summary: "Auf der TechCrunch Disrupt 2025 (27.–29. Oktober) — mit 10.000+ Teilnehmern aus dem Tech-Ökosystem — will CEO Christine Barman den neuen Elektro-Pickup von Slate Auto live enthüllen und über Produktion & Skalierung sprechen."
+categories: ["news"]
 ---
 
 **San Francisco, 27.–29. Oktober 2025.** Die **TechCrunch Disrupt 2025** wird **über 10.000 Gründer, Investoren, Operator und Tech-Visionäre** zusammenbringen. **Christine (Chris) Barman**, CEO von **Slate Auto**, **plant**, auf der Hauptbühne den neuen **elektrischen Pickup** erstmals öffentlich zu zeigen — **noch vor** der Straßenerprobung.

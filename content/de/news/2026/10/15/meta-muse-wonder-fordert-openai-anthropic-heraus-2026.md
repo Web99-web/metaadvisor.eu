@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Muse Wonder", "Muse Wonder Full", "Mark Zuckerberg", "OpenAI", "Anthropic", "Künstliche Intelligenz", "KI-Agenten", "Active Memory", "Active Focus"]
 description: "Meta stellt mit Muse Wonder und Muse Wonder Full zwei neue KI-Modelle vor, die mit OpenAI und Anthropic konkurrieren. Ein Überblick über Leistung, Preise und Datenschutz."
 summary: "Meta hat am 12. Oktober 2026 Muse Wonder und Muse Wonder Full vorgestellt, seine bislang fortschrittlichsten Modelle für KI-Agenten. Muse Wonder Full erreichte 56 Punkte im Artificial Analysis Intelligence Index und lag damit vor GPT-6 Astra, aber hinter Claude Opus 5.5. Active Memory und Active Focus sollen längere, kontextbezogene Arbeitsabläufe ermöglichen. Die Modelle eröffnen neue kommerzielle Möglichkeiten, werfen jedoch zugleich wichtige Datenschutzfragen auf."
+categories: ["technology"]
 ---
 
 *Das Bild dient der symbolischen Illustration.*

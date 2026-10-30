@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/08/23/eric-trump-makes-bitco
 summary: "Eric Trump prognostiziert 175.000 $ für BTC in diesem Jahr und 1 Mio. $ langfristig; FT und Bloomberg berichten über American Bitcoins Expansionspläne in Asien und den geplanten Metaplanet-Besuch."
 tags: ["bitcoin", "krypto", "metaplanet", "eric-trump", "asien", "mining", "übernahmen"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/cad0242c0a608721f6973b6239cb0ee194c9d5d3-1024x683.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 Eric Trump vertieft sein Engagement bei digitalen Vermögenswerten: Berichten zufolge nimmt er an einer Hauptversammlung in Tokio teil, gibt öffentliche Bitcoin-Preisprognosen ab und treibt neue Unternehmensinitiativen voran, mit denen die Krypto-Aktivitäten der Familie Trump nach Asien ausgeweitet werden.

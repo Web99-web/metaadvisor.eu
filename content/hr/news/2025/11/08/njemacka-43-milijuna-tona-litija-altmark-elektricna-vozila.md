@@ -7,14 +7,15 @@ translationKey: "germany_lithium_43million_metaadvisor_20251108"
 source: "The Economic Times / Electrive.com"
 source_url: "https://www.electrive.com/2025/09/25/neptune-energy-confirms-massive-lithium-resources-in-germany/"
 author: "Metaadvisor.eu"
-image_url: "/images/Germany-lithium-43million-ton.png"
-featured_image: "/images/Germany-lithium-43million-ton.png"
-image: "/images/Germany-lithium-43million-ton.png"
-thumbnail: "/images/Germany-lithium-43million-ton.png"
+image_url: "/images/Germany-lithium-43million-ton.webp"
+featured_image: "/images/Germany-lithium-43million-ton.webp"
+image: "/images/Germany-lithium-43million-ton.webp"
+thumbnail: "/images/Germany-lithium-43million-ton.webp"
 image_alt: "Njemačka otkriva 43 milijuna tona litija u regiji Altmark - ilustracija"
 image_credit: "Metaadvisor.eu"
 tags: ["njemačka", "litij", "baterije", "električna vozila", "zelena energija", "obnovljivi izvori", "industrija", "altmark", "sustainability", "europa"]
 summary: "U regiji Altmark u Njemačkoj otkriveno je 43 milijuna tona litija, ključnog resursa za baterije, zelenu energiju i električna vozila. Eksploatacija bi mogla započeti početkom sljedećeg desetljeća."
+categories: ["sustainability"]
 ---
 
 Njemačka je potvrdila jedno od **najvećih geoloških otkrića u Europi** — **43 milijuna tona litija-karbonatnog ekvivalenta (LCE)** pronađeno je u regiji **Altmark** u saveznoj pokrajini **Saksonija-Anhalt**.  

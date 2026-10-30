@@ -7,15 +7,16 @@ translationKey: "harmony-napad-navodno-stvorene-4-milijarde-one-2026-08-12"
 source: "Harmony, Cointelegraph, CoinDesk, CoinGecko"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/exploit-alert.png"
-featured_image: "/images/hack/exploit-alert.png"
-image: "/images/hack/exploit-alert.png"
-thumbnail: "/images/hack/exploit-alert.png"
+image_url: "/images/hack/exploit-alert.webp"
+featured_image: "/images/hack/exploit-alert.webp"
+image: "/images/hack/exploit-alert.webp"
+thumbnail: "/images/hack/exploit-alert.webp"
 image_alt: "Harmony ONE sigurnosni incident i navodno neovlašteno stvaranje gotovo četiri milijarde tokena"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Harmony", "ONE", "Harmony exploit", "crypto hack", "blockchain", "cybersecurity", "DeFi", "crypto", "token minting", "rollback"]
 description: "Harmony istražuje ozbiljan sigurnosni incident nakon tvrdnji da je napadač neovlašteno stvorio gotovo četiri milijarde ONE tokena, oko 26 posto dotadašnje ponude."
 summary: "Harmony je zatražio od burzi zamrzavanje sredstava, zaustavio bridge i priprema hitnu zakrpu nakon tvrdnji da je napadač stvorio gotovo četiri milijarde novih ONE tokena. Oko 2,8 milijardi navodno je brzo prebačeno prema kripto burzama."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

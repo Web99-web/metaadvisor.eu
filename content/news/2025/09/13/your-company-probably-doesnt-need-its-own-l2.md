@@ -3,7 +3,7 @@ title: "Your Company Probably Doesn’t Need Its Own L2"
 slug: "your-company-probably-doesnt-need-its-own-l2"
 date: 2025-09-13T18:00:00Z
 category: "news"
-translationKey: "deb9039d3dd61126d44c252223bbf1ba"
+translationKey: "l2-coindesk-opinion-2025-09-13"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/opinion/2025/09/09/your-company-probably-doesn-t-need-its-own-l2"
 priority: 97
@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["ethereum", "eth", "solana", "sol", "finance"]
 our_take: |
   Our view: More and more companies are attracted to the idea of launching their own Ethereum layer 2 network. Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
 ---
 
 More and more companies are attracted to the idea of launching their own Ethereum layer 2 network. Most of them shouldn’t bother. There’s already a staggering number of them — over 150 . Quite a few of these are centralized and linked to a single enterprise and several companies such as Robinhood have recently announced plans to launch their own layer 2 networks.

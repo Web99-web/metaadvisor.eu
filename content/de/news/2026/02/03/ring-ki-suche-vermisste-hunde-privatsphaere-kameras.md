@@ -12,6 +12,7 @@ image_alt: "Illustration eines KI-Systems zur Suche nach vermissten Hunden"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["ki", "privatsphaere", "kameras", "ring", "kuenstliche intelligenz", "sicherheit", "technologie", "gesellschaft"]
 summary: "Amazon-Tochter Ring hat ihr KI-System zur Suche nach vermissten Hunden auch für Nutzer ohne Ring-Kamera geöffnet. Doch wie funktioniert das System wirklich, wer sieht was – und wo liegt die Grenze zwischen sinnvoller Technologie und Überwachung?"
+categories: ["news"]
 ---
 
 ## Was ist Ring – und warum kennen viele Menschen in Europa den Dienst kaum?

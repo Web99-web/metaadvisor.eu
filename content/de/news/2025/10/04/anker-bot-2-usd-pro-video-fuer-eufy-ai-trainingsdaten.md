@@ -16,6 +16,7 @@ image_alt: "Eufy Überwachungskamera und KI-Training mit Nutzer-Videos"
 image_credit: "Metaadvisor.eu – symbolisches Foto"
 tags: ["ai", "privacy", "security", "data-collection", "surveillance", "user-generated-data", "synthetic-data", "model-training", "Eufy", "Anker", "Neon", "compliance"]
 summary: "Anker (Eufy) bot Anfang 2025 Nutzern 2 $ pro Video mit Paket- oder Autodiebstahl an, um KI-Modelle zu trainieren – einschließlich inszenierter Clips. Die Aktion wirft Fragen zu Datenschutz und Sicherheit auf."
+categories: ["ai"]
 ---
 
 Anker, Hersteller der **Eufy**-Sicherheitskameras, bot Anfang dieses Jahres seinen Nutzern **2 $ pro Video** mit Aufnahmen von Paket- oder Autodiebstahl an, um diese zur **KI-Trainingsdaten**-Gewinnung zu verwenden.

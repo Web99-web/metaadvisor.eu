@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["ai", "artificial-intelligence", "crypto", "cryptocurrency", "bitcoin", "btc", "solana", "sol", "xrp", "ripple"]
 our_take: |
   Unser Fazit: HBAR verzeichnete im Handelsfenster 11.–12. September moderate Gewinne, stieg von 0,237 $ auf bis zu 0,245 $ und schloss bei 0,240 $. Im Blick: Liquidität, Makro (Zinsen/USD) und Regulierung. Selektiv bleiben; nur High-Conviction-Positionen ausbauen.
+categories: ["news"]
 ---
 
 Der native Token des Hedera-Netzwerks, HBAR, legte im Handelszeitraum vom 11. bis 12. September moderat zu und stieg von 0,237 $ auf bis zu 0,245 $, bevor er bei 0,240 $ schloss. Der Anstieg spiegelte eine Zunahme der institutionellen Beteiligung wider, wobei die Marktaktivität eng mit neuen Entwicklungen rund um mögliche börsengehandelte Produkte verknüpft war.

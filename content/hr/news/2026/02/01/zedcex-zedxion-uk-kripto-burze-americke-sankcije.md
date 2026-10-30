@@ -8,10 +8,10 @@ source: "CoinDesk / Cointelegraph"
 source_url: "https://www.coindesk.com/policy/2026/01/31/u-s-imposes-sanctions-on-crypto-exchanges-tied-to-iran-for-first-time"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/SEC-US.png"
-featured_image: "/images/SEC-US.png"
-image: "/images/SEC-US.png"
-thumbnail: "/images/SEC-US.png"
+image_url: "/images/SEC-US.webp"
+featured_image: "/images/SEC-US.webp"
+image: "/images/SEC-US.webp"
+thumbnail: "/images/SEC-US.webp"
 image_alt: "Američki regulator i kripto tržište u kontekstu sankcija protiv burzi Zedcex i Zedxion"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -24,6 +24,7 @@ tags:
   - geopolitika
   - kripto-regulacija
 summary: "Sjedinjene Američke Države po prvi put su uvele sankcije protiv cijelih kripto burzi — Zedcex i Zedxion — označivši presedan u globalnoj regulaciji digitalne imovine."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

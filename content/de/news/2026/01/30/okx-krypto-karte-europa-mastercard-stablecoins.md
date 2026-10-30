@@ -7,10 +7,10 @@ translationKey: "okx_crypto_card_eu_mastercard_20260130"
 source: "Cointelegraph / MetaAdvisor Analyse"
 source_url: "https://cointelegraph.com/news/okx-eu-crypto-card-regulated-issuer-monavate"
 author: "MetaAdvisor.eu"
-image_url: "/images/okx-card-eu.png"
-featured_image: "/images/okx-card-eu.png"
-image: "/images/okx-card-eu.png"
-thumbnail: "/images/okx-card-eu.png"
+image_url: "/images/okx-card-eu.webp"
+featured_image: "/images/okx-card-eu.webp"
+image: "/images/okx-card-eu.webp"
+thumbnail: "/images/okx-card-eu.webp"
 image_alt: "OKX Krypto-Karte für Europa mit Mastercard-Logo"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -27,6 +27,7 @@ tags:
   - digitales bezahlen
   - krypto alltag
 summary: "Die Kryptobörse OKX hat eine Zahlungskarte für Nutzer in der Europäischen Union eingeführt, mit der Stablecoins über das Mastercard-Netzwerk ausgegeben werden können. Das Produkt ist MiCA-konform und bringt Krypto näher an den Alltag."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -10,6 +10,7 @@ image_url: "/images/mobile-phone-ruke.jpg"
 image_alt: "Google Pixel 10 Pro in der Hand"
 tags: ["smartphone","google","pixel","test"]
 summary: "Top-Kameras, frische KI-Funktionen und ein exzellentes Display in handlichem Format – mit schnellerem Tensor G5, Qi2 und einem Einstiegspreis von £999."
+categories: ["news"]
 ---
 
 Das **Pixel 10 Pro** ist Googles „kleines” Topmodell: Es übernimmt die Stärken des Pixel 10 und legt bei der **Kamera** eine Schippe drauf, ohne in Tablet-Größe abzudriften. Das **6,3-Zoll-OLED** bleibt, wirkt aber **heller** und **knackiger**; polierte Alu-Flanken und eine matte Rückseite vermitteln Premium-Anfassqualität, auch wenn die **Farben** eher zurückhaltend ausfallen.

@@ -9,6 +9,7 @@ summary: "Zwei Monate nach einer 14,3-Mrd.-USD-Investition in Scale AI verlässt
 tags: ["ai"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2134773083.jpg?w=1024"
 image: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2134773083.jpg?w=1024"
+categories: ["ai"]
 ---
 
 Im Juni investierte Meta 14,3 Milliarden USD in Scale AI und holte CEO Alexandr Wang sowie mehrere Top-Manager ins Boot, um die **Meta Superintelligence Labs (MSL)** zu leiten. Doch die Beziehung zeigt bereits Spannungen.

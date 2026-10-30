@@ -16,6 +16,7 @@ image_alt: "Ether (ETH) i motiv trezora — ilustracija institucionalne kupnje"
 image_credit: "Slika je simbolična."
 tags: ["crypto","kripto","ethereum","eth","ether","huobi","li-lin","avenir-capital","fenbushi","hashkey","meitu","trust","trezor","institutional","hong-kong","nasdaq","etf","azija","onchain","treasury","staking"]
 summary: "Li Lin (Huobi / Avenir Capital) okuplja vodeće azijske investitore u trezor za Ether od 1 mlrd USD. Cilj je sustavno akumulirati i dugoročno držati ETH uz potencijalno strukturiranje preko Nasdaq-listane kompanije."
+categories: ["crypto"]
 ---
 
 {{< cta href="/go/mexc" text="👉 Trguj ETH-om na MEXC" >}}

@@ -15,6 +15,7 @@ image_alt: "Ilustracija budućeg kretanja cijene Bitcoina i ključne razine od 5
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["bitcoin", "btc", "crypto", "etf", "likvidnost", "trziste", "altcoini", "hype", "hyperliquid"]
 summary: "Nakon snažnog pada Bitcoina analitičari sve češće upozoravaju na razinu od oko 58.000 dolara, koja se u povijesti pokazala kao ključna dugoročna linija obrane. Ishod na toj razini mogao bi odrediti smjer kripto tržišta u narednim mjesecima."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

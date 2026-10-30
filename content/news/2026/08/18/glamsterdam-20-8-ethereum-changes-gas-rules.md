@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – symbolic image"
 tags: ["Ethereum", "Glamsterdam", "ETH", "gas", "EIP-8037", "wallet", "Ethereum wallet", "blockchain", "crypto"]
 description: "The Glamsterdam fork on Ethereum's public Platåberget testnet is scheduled for August 20, while the Ethereum Foundation warns developers that new gas changes may require adjustments to wallets, indexers and gas estimators."
 summary: "The Ethereum Foundation is urging developers to test wallets, indexers and gas estimators before Glamsterdam. The fork on the public Platåberget testnet is scheduled for August 20 and includes a new model for pricing the creation of permanent blockchain state."
+categories: ["Crypto"]
 ---
 
 *Symbolic image.*

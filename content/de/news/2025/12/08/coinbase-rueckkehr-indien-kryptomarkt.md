@@ -15,6 +15,7 @@ image_alt: "Coinbase Logo"
 image_credit: "MetaAdvisor"
 tags: ["coinbase","indien","kryptowährungen","handel","binance","dex","analyse","coindcx","coinswitch","bitbns"]
 summary: "Coinbase kehrt nach zwei Jahren Pause auf den indischen Kryptomarkt zurück – mit einer neuen Strategie, regulatorischem Fokus und einem geplanten Fiat-On-Ramp für 2026."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

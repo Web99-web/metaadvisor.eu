@@ -15,6 +15,7 @@ image_alt: "Bitcoin two-year cycle illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin", "btc", "market cycles", "halving", "institutional capital", "etf", "crypto market", "volatility", "analysis", "procap", "jeff park", "liquidity", "market structure"]
 summary: "More analysts argue that Bitcoin may be leaving behind its traditional 4-year cycle. Institutional inflows and ETFs could be creating an entirely new two-year market dynamic."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

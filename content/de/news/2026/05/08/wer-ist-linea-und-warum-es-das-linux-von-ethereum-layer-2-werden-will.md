@@ -7,14 +7,15 @@ translationKey: "d9e51c74af7e4b5f9f64aa0c8b53f190"
 source: "Metaadvisor (Cointelegraph, Linux Foundation, Consensys)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Linea-as-Ethereum-Linux.png"
-featured_image: "/images/companies/Linea-as-Ethereum-Linux.png"
-image: "/images/companies/Linea-as-Ethereum-Linux.png"
-thumbnail: "/images/companies/Linea-as-Ethereum-Linux.png"
+image_url: "/images/companies/Linea-as-Ethereum-Linux.webp"
+featured_image: "/images/companies/Linea-as-Ethereum-Linux.webp"
+image: "/images/companies/Linea-as-Ethereum-Linux.webp"
+thumbnail: "/images/companies/Linea-as-Ethereum-Linux.webp"
 image_alt: "Linea versucht, das Linux der Ethereum-Layer-2-Welt zu werden"
 image_credit: "Metaadvisor.eu"
 tags: ["linea", "ethereum", "layer 2", "zk rollup", "consensys", "linux foundation", "blockchain", "krypto", "infrastruktur", "open source", "web3", "scaling", "tech"]
 summary: "Linea versucht, einen Teil seiner Blockchain-Infrastruktur unter das Governance-Modell der Linux Foundation zu stellen. Ziel ist es, ein neutraleres und langfristig ernstzunehmendes Layer-2-Projekt für das Ethereum-Ökosystem aufzubauen."
+categories: ["tech"]
 ---
 
 *Das Bild ist symbolisch.*

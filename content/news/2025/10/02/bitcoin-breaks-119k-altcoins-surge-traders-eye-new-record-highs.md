@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/10/02/crypto-markets-today-bitcoin-breaks-usd119k-as-altcoins-surge-traders-eye-record-highs"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc-119000.png"
-featured_image: "/images/btc-119000.png"
-image: "/images/btc-119000.png"
-thumbnail: "/images/btc-119000.png"
+image_url: "/images/btc-119000.jpg"
+featured_image: "/images/btc-119000.jpg"
+image: "/images/btc-119000.jpg"
+thumbnail: "/images/btc-119000.jpg"
 image_alt: "Bitcoin at $119,000"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags:
@@ -26,6 +26,7 @@ tags:
   - jpmorgan
   - crypto-markets
 summary: "Bitcoin surged above $119,000 as altcoins rallied strongly. Market volume hit yearly highs and traders are now eyeing new records."
+categories: ["crypto"]
 ---
 
 Crypto markets roared on Thursday as **Bitcoin** broke above **$119,000**, setting its sights on fresh record highs. **Altcoins** joined the rally with double-digit gains.

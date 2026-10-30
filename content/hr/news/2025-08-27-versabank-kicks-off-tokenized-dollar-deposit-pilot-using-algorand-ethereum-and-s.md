@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/08/27/versabank-tests-tokeni
 summary: "Kanadska digitalna banka VersaBank pokrenula je testiranje blockchain-temeljenih tokeniziranih depozita u SAD-u, s naglaskom na regulatorni nadzor."
 tags: ["crypto","VersaBank","Algorand","Ethereum","Stellar","tokenized deposits"]
 image_url: "https://www.coindesk.com/resizer/XKwdVQFZsdDe7q3H2FZC88Gxwqg=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WXYZ12345.jpg"
+categories: ["crypto"]
 ---
 
 VersaBank, kanadska digitalna banka fokusirana na poslovne klijente, započela je testiranje tokeniziranog depozita za koji tvrdi da nudi sigurniju i regulatorno usklađeniju alternativu stablecoinima.

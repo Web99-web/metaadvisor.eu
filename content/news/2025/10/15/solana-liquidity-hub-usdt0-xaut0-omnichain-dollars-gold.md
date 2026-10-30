@@ -16,6 +16,7 @@ image_alt: "Solana as a liquidity hub for omnichain dollars (USDT0) and gold (XA
 image_credit: "Image is symbolic."
 tags: ["Solana", "USDT0", "XAUt0", "omnichain", "liquidity", "stablecoin", "tokenized gold", "interoperability", "DeFi", "bridges", "collateral", "payments"]
 summary: "Solana is positioning itself as a ‘liquidity hub’ for omnichain assets: USDT0 (dollars) and XAUt0 (gold) aim for unified liquidity across chains with less friction and lower costs."
+categories: ["crypto"]
 ---
 
 Solana is emerging as a **liquidity hub** for the next wave of **omnichain** assets. The launch of **USDT0** (a dollar stablecoin) and **XAUt0** (tokenized gold) targets **unified liquidity** for the same token across multiple chains — reducing reliance on traditional, riskier bridges. The idea is **one token identity, one liquidity pool**, mobile across networks.

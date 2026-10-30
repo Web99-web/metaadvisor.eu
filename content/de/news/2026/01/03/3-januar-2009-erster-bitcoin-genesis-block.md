@@ -7,14 +7,15 @@ translationKey: "bitcoin_genesis_block_2009"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-first-mining-3.1.2009.png"
-featured_image: "/images/BTC-first-mining-3.1.2009.png"
-image: "/images/BTC-first-mining-3.1.2009.png"
-thumbnail: "/images/BTC-first-mining-3.1.2009.png"
+image_url: "/images/BTC-first-mining-3.1.2009.webp"
+featured_image: "/images/BTC-first-mining-3.1.2009.webp"
+image: "/images/BTC-first-mining-3.1.2009.webp"
+thumbnail: "/images/BTC-first-mining-3.1.2009.webp"
 image_alt: "Symbolische Illustration des ersten Bitcoin-Minings und des Genesis Blocks am 3. Januar 2009"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "genesis-block", "satoshi-nakamoto", "bitcoin-geschichte", "krypto-geschichte"]
 summary: "Am 3. Januar 2009 wurde der erste Bitcoin-Block – der Genesis Block – gemined und damit ein Netzwerk gestartet, das das Verständnis von Geld, Vertrauen und digitalem Wert grundlegend veränderte."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

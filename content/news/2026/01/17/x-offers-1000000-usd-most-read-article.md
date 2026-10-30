@@ -7,10 +7,10 @@ translationKey: "x_one_million_top_article_2026"
 source: "X (post by Nikita Bier)"
 source_url: "https://x.com/nikitabier/status/2012307256444854693"
 author: "MetaAdvisor.eu"
-image_url: "/images/X-1-mil-usd.png"
-featured_image: "/images/X-1-mil-usd.png"
-image: "/images/X-1-mil-usd.png"
-thumbnail: "/images/X-1-mil-usd.png"
+image_url: "/images/X-1-mil-usd.webp"
+featured_image: "/images/X-1-mil-usd.webp"
+image: "/images/X-1-mil-usd.webp"
+thumbnail: "/images/X-1-mil-usd.webp"
 image_alt: "X platform offers one million US dollars for the most-read article"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - viral
   - news
 summary: "X has announced it will offer up to $1,000,000 to the author of the most-read article published on the platform within a two-week window, signaling a major push toward long-form content."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

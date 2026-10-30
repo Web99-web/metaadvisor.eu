@@ -16,6 +16,7 @@ image_alt: "KI und Bildung – Studenten nutzen künstliche Intelligenz beim Ler
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["ai","künstliche intelligenz","chatgpt","ki bildung","ki in schulen","kritisches denken","studenten","lehrer","technologie","bildung","zukunft der bildung"]
 summary: "Professoren auf der ganzen Welt versuchen Wege zu finden, kritisches Denken von Studenten im Zeitalter der künstlichen Intelligenz zu bewahren. KI-Tools wie ChatGPT verändern die Art, wie Studenten lernen, schreiben und Aufgaben lösen."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

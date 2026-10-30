@@ -15,6 +15,7 @@ image_alt: "Bitcoin struggles around the $80,000 level while altcoins rally"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "altcoins", "ethereum", "solana", "dogecoin", "fed", "inflation", "iran", "hormuz", "oil", "short squeeze", "funding rates", "markets", "trading", "bull market", "bitcoin price", "metaadvisor"]
 summary: "Bitcoin continues fighting around the key $80,000 level while several altcoins show much stronger momentum. At the same time, markets are trying to price in strong US jobs data, Federal Reserve policy and geopolitical tensions around the Strait of Hormuz."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

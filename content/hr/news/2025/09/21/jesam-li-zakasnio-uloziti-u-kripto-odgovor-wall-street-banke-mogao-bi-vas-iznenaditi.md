@@ -16,6 +16,7 @@ image_alt: "Bitcoin i Ethereum — simbolična usporedba"
 image_credit: "Metaadvisor image_map (simbolična slika)"
 tags: ["kripto", "institucije", "Wall-Street", "Jefferies", "Bitcoin", "Ethereum", "ETF", "RWA", "tokenizacija", "infrastruktura", "custody", "compliance", "rizik", "alociranje-kapitala", "DCA", "tržišni-ciklus"]
 summary: "Jefferies poručuje velikim klijentima da je kripto još u ‘1996.’ fazi — rano, ali s jasnim signalima rasta. Objašnjavamo što to znači za alokaciju, izvan samog Bitcoina."
+categories: ["crypto"]
 ---
 
 **Ukratko:**  

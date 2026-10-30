@@ -7,6 +7,7 @@ summary: "ETF je fond koji se trguje na burzi kao dionica i prati cijenu ciljne 
 tags: ["etf","ulaganje","bitcoin","crypto","indeksi","futures","spot-etf","custody","tracking-error"]
 image_url: "https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=1200&q=60"
 image_alt: "Burzovni zasloni i grafovi – ilustracija"
+categories: ["guide"]
 ---
 
 ## Što je ETF?

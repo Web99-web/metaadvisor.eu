@@ -15,6 +15,7 @@ image_alt: "Aktien, Big Tech und die Finanzierung der KI-Infrastruktur"
 image_credit: "Metaadvisor.eu"
 tags: ["Big Tech", "KI", "künstliche Intelligenz", "Oracle", "Meta", "SpaceX", "IPO", "Aktien", "Investieren", "KI-Infrastruktur", "Rechenzentren", "KI-Kosten", "Capex", "Retail-Investoren", "Finanzmärkte", "Metaadvisor"]
 summary: "Big Tech braucht immer mehr Kapital, um teure KI-Infrastruktur zu finanzieren. Oracle, Meta und SpaceX zeigen verschiedene Seiten derselben Geschichte: KI-Optimismus kann Aktien steigen lassen, doch hohe Kosten, Schulden, IPO-Bewertungen und die Frage nach echtem Gewinn machen Investoren zunehmend nervös."
+categories: ["ai"]
 ---
 
 Das Bild ist symbolisch.

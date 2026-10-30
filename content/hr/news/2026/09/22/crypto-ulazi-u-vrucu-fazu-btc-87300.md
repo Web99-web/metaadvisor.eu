@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Dogecoin", "DOGE", "PEPE", "Ethereum", "ETH", "Solana", "SOL", "XRP", "crypto tržište", "short squeeze", "likvidacije", "altcoini", "memecoini", "crypto rally", "HYPE"]
 description: "Bitcoin je tijekom rallyja bio iznad 87.300 dolara, Dogecoin raste više od 15%, a PEPE više od 20%. Više od milijardu dolara leveraged crypto pozicija likvidirano je u 24 sata, uključujući 844 milijuna dolara shortova."
 summary: "Crypto rally proširio se s Bitcoina na altcoine i memecoine. DOGE raste više od 15%, PEPE više od 20%, dok je u posljednja 24 sata likvidirano više od milijardu dolara pozicija, od čega 844 milijuna dolara shortova. Nakon velikog short squeezea tržište sada mora pokazati može li rast nastaviti uz novi organski kapital."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

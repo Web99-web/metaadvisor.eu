@@ -8,10 +8,10 @@ source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/25/instagram-risk-children-safety-tools-meta"
 author: "The Guardian Tech"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/instagram-safety.png"
-featured_image: "/images/instagram-safety.png"
-image: "/images/instagram-safety.png"
-thumbnail: "/images/instagram-safety.png"
+image_url: "/images/Kids-protection-from-social-media.webp"
+featured_image: "/images/Kids-protection-from-social-media.webp"
+image: "/images/Kids-protection-from-social-media.webp"
+thumbnail: "/images/Kids-protection-from-social-media.webp"
 image_alt: "Instagram Safety — simbolična ilustracija"
 image_credit: "Metaadvisor.eu (generirana grafika)"
 tags:
@@ -22,6 +22,7 @@ tags:
   - tinejdzeri
   - social-media
 summary: "Meta je uvela nove safety alate, no prema izvješću zviždača Arturo Béjara, 64% njih ne funkcionira. Djeca i tinejdžeri i dalje su izloženi riziku na Instagramu."
+categories: ["news"]
 ---
 
 Prema istraživanju koje je vodio **Arturo Béjar**, bivši inženjer Mete i zviždač koji je svjedočio pred američkim Kongresom, **Instagram i dalje predstavlja ozbiljan rizik za djecu i tinejdžere** unatoč uvođenju novih alata za zaštitu.

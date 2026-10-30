@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/ether-futures-open-inte
 summary: "Das institutionelle Interesse an Ether wächst – die Zahl der Großhalter offener Positionen erreichte Anfang des Monats 101."
 tags: ["crypto","Ethereum","ETH","Futures","CME","Institutionen"]
 image_url: "https://www.coindesk.com/resizer/vqUArE8U3d2b8uTGb_iuSK4mAB8=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ETHFuturesCME.jpg"
+categories: ["crypto"]
 ---
 
 Der regulierte Ether (ETH) Futures-Markt der CME heizt sich auf, während die Rotation aus Bitcoin (BTC 113.025,87 USD) zunimmt.

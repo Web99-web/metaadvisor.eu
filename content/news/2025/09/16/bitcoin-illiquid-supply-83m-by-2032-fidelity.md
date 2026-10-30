@@ -16,6 +16,7 @@ image_alt: "Bitcoin (BTC)"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitcoin","on-chain","supply","liquidity"]
 summary: "Fidelity estimates that Bitcoin’s illiquid supply could grow to roughly 8.3 million BTC by 2032, further shrinking the free-floating supply available to the market."
+categories: ["crypto"]
 ---
 
 **TL;DR:** By **2032**, the **illiquid** share of BTC supply could rise to **~8.3M BTC**, according to Fidelity. “Illiquid” refers to coins in wallets that rarely spend (long-term holders, institutional custody, lost keys), which reduces tradable supply and amplifies price sensitivity to demand shifts.

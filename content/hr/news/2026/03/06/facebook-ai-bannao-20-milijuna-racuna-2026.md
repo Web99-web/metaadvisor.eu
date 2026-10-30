@@ -7,14 +7,15 @@ translationKey: "facebook-ai-ban-20m-accounts-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza, Gemini, korisnička svjedočanstva, tehnološki forumi"
 source_url: ""
-image_url: "/images/Facebook-banned-20M-people.png"
-featured_image: "/images/Facebook-banned-20M-people.png"
-image: "/images/Facebook-banned-20M-people.png"
-thumbnail: "/images/Facebook-banned-20M-people.png"
+image_url: "/images/Facebook-banned-20M-people.webp"
+featured_image: "/images/Facebook-banned-20M-people.webp"
+image: "/images/Facebook-banned-20M-people.webp"
+thumbnail: "/images/Facebook-banned-20M-people.webp"
 image_alt: "Facebook AI banovi i pogrešne suspenzije računa"
 image_credit: "Metaadvisor ilustracija"
 tags: ["facebook", "banani", "izbačeni", "ai moderacija", "meta", "digital rights", "cenzura", "algoritmi", "društvene mreže"]
 summary: "Procjene sugeriraju da je Facebook početkom 2026. bannao do 20 milijuna računa u samo dva mjeseca. Analize pokazuju da bi više od 1,5 milijuna korisnika moglo biti pogrešno bannano, često bez mogućnosti kontakta s ljudskom podrškom."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

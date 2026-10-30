@@ -14,6 +14,7 @@ thumbnail: "/images/AI-calendar.png"
 image_alt: "AI kalendar koji automatski dogovara termine sastanaka"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags: ["ai", "automation", "productivity", "startups", "calendar", "future-of-work"]
+categories: ["ai"]
 ---
 
 # AI preuzima dogovaranje sastanaka: AI kalendar umjesto vas traži slobodne termine

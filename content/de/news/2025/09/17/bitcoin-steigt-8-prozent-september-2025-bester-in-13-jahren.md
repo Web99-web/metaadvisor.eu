@@ -16,6 +16,7 @@ image_alt: "Bitcoin — Kursanstieg im September"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["crypto","bitcoin","saisonalität","märkte","metaadvisor"]
 summary: "Bitcoin legte im September bislang rund 8 % zu und steuert damit auf den besten September seit 2012 zu – entgegen dem historisch schwächeren Saisonmuster. Für ein „Allzeit-Bestes“ bräuchte es bis Monatsende noch ca. 20 %."
+categories: ["crypto"]
 ---
 
 **BTC hat im September rund 8 % zugelegt** und liegt damit auf Kurs für den **besten September seit 2012** – ein Bruch mit dem historischen Muster, in dem der Monat oft schwach ausfiel. Der aktuelle Zyklus weicht damit weiter von früheren Saisonalitäten ab.

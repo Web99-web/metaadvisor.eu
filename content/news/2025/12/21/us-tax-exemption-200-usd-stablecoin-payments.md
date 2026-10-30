@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "Cointelegraph — translation and analysis by Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/200-usd-tax-exemption.png"
-featured_image: "/images/200-usd-tax-exemption.png"
-image: "/images/200-usd-tax-exemption.png"
-thumbnail: "/images/200-usd-tax-exemption.png"
+image_url: "/images/200-usd-tax-exemption.webp"
+featured_image: "/images/200-usd-tax-exemption.webp"
+image: "/images/200-usd-tax-exemption.webp"
+thumbnail: "/images/200-usd-tax-exemption.webp"
 image_alt: "US proposes tax exemption up to $200 for stablecoin payments"
 image_credit: "MetaAdvisor illustration"
 tags: ["stablecoins", "crypto-payments", "taxation", "crypto-regulation", "usa", "law", "staking", "mining"]
 summary: "US lawmakers propose a tax exemption of up to $200 for small stablecoin payments and a deferral of taxation on staking and mining rewards."
+categories: ["news"]
 ---
 
 # Tax exemption for small crypto payments in the US

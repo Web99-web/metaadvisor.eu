@@ -7,14 +7,15 @@ translationKey: "56ac4fc1d7e4343aa1501fa226e6abab"
 source: "Metaadvisor (Cointelegraph, Binance Square, MEXC, RBA, Visa)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Australia-crypto 1.png"
-featured_image: "/images/Australia-crypto 1.png"
-image: "/images/Australia-crypto 1.png"
-thumbnail: "/images/Australia-crypto 1.png"
+image_url: "/images/Australia-crypto 1.webp"
+featured_image: "/images/Australia-crypto 1.webp"
+image: "/images/Australia-crypto 1.webp"
+thumbnail: "/images/Australia-crypto 1.webp"
 image_alt: "Australia and tokenized money as the future of payments"
 image_credit: "Metaadvisor.eu"
 tags: ["tokenized money", "stablecoin payments", "australia crypto", "digital money", "blockchain finance", "payment rails", "defi and tradfi", "central banks crypto", "future of payments", "crypto infrastructure"]
 summary: "Australia is exploring how tokenized money could be integrated into future payment systems, signaling a shift toward digital and programmable forms of money."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

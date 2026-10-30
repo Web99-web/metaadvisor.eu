@@ -7,7 +7,7 @@ translationKey: "moonpay-stablecoin-debit-card-2026"
 source: "Metaadvisor (Payments Wrap Up, fintech sources)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/moonpay-card.png"
+image_url: "/images/companies/moonpay-card.webp"
 featured_image: "images/companies/moonpay-card.png"
 image: "images/companies/moonpay-card.png"
 thumbnail: "images/companies/moonpay-card.png"
@@ -15,6 +15,7 @@ image_alt: "MoonPay debit card for stablecoin payments"
 image_credit: "Metaadvisor.eu"
 tags: ["moonpay", "stablecoin", "crypto payments", "fintech", "debit card", "crypto adoption"]
 summary: "MoonPay launches a debit card that enables spending stablecoins in everyday purchases, bridging crypto and traditional payments."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

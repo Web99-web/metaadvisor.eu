@@ -7,14 +7,15 @@ translationKey: "booking-com-sms-whatsapp-phishing-wrong-link-2026-06-11"
 source: "Booking.com, Verbraucherzentrale, Watchlist Internet, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/booking-phishing-alert.png"
-featured_image: "/images/hack/booking-phishing-alert.png"
-image: "/images/hack/booking-phishing-alert.png"
-thumbnail: "/images/hack/booking-phishing-alert.png"
+image_url: "/images/hack/booking-phishing-alert.webp"
+featured_image: "/images/hack/booking-phishing-alert.webp"
+image: "/images/hack/booking-phishing-alert.webp"
+thumbnail: "/images/hack/booking-phishing-alert.webp"
 image_alt: "Booking.com phishing upozorenje s lažnim SMS i WhatsApp porukama"
 image_credit: "Metaadvisor.eu"
 tags: ["Booking.com", "phishing", "SMS phishing", "WhatsApp phishing", "kibernetička sigurnost", "online prevare", "lažni linkovi", "hotelska rezervacija", "rezervacije", "turisti", "putovanja", "prevara", "internetska sigurnost", "lažne poruke", "zaštita podataka", "Metaadvisor"]
 summary: "Upozorenje iz jedne njemačke Facebook grupe o lažnim Booking.com WhatsApp i SMS porukama pokazalo je koliko uvjerljivo takve prevare mogu izgledati kada prikazuju poznate detalje poput [no-reply@booking.com](mailto:no-reply@booking.com) adrese, vidljivog booking.com linka i hotelskog konteksta. Prava opasnost često je stvarni link koji se od korisnika traži da otvori."
+categories: ["cybersecurity"]
 ---
 
 Slika je simbolična.

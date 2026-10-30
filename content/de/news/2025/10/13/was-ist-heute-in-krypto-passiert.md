@@ -3,7 +3,7 @@ title: "Was ist heute in Krypto passiert"
 slug: "was-ist-heute-in-krypto-passiert"
 date: 2025-10-13T14:52:35Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-10-13"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
@@ -16,6 +16,7 @@ image_alt: "Tägliche Krypto-News"
 image_credit: "Symbolisches Bild."
 tags: ["Krypto", "Bitcoin", "Ethereum", "ETF", "BlackRock", "IBIT", "covered call", "UK Finance", "Tokenisierung", "Einlagen", "GBTD", "HSBC", "Barclays", "Lloyds", "NatWest", "Santander", "Hashdex", "XRP", "Solana", "Stellar", "XLM", "SEC", "Nasdaq", "NCIQ", "Europa", "Vereinigtes Königreich", "USA", "Märkte", "Regulierung"]
 summary: "UK Finance startet einen Pilot für tokenisierte GBP-Einlagen mit sechs Großbanken; BlackRock plant einen Bitcoin Premium Income ETF; Hashdex erweitert seinen US-Kryptoindex-ETF um XRP, Solana und Stellar."
+categories: ["crypto"]
 ---
 
 **Kurz:** Drei Nachrichten dominieren heute den institutionellen Krypto-Narrativ: (1) **UK Finance** startet einen **GBTD-Pilot** mit sechs großen Banken, (2) **BlackRock** kündigt einen **Bitcoin Premium Income ETF** (covered-call-Strategie) an und (3) **Hashdex** erweitert seinen **Crypto Index US ETF** auf **XRP, SOL und XLM** nach neuen SEC-Standards.

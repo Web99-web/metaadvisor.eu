@@ -7,14 +7,15 @@ translationKey: "d3252ae923f3d415e7689f945f770a16"
 source: "MetaAdvisor – Analyse + Meldungen mehrerer Medien"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Upbit-haked-36m-sol-Lazars.png"
-featured_image: "/images/Upbit-haked-36m-sol-Lazars.png"
-image: "/images/Upbit-haked-36m-sol-Lazars.png"
-thumbnail: "/images/Upbit-haked-36m-sol-Lazars.png"
+image_url: "/images/Upbit-haked-36m-sol-Lazars.webp"
+featured_image: "/images/Upbit-haked-36m-sol-Lazars.webp"
+image: "/images/Upbit-haked-36m-sol-Lazars.webp"
+thumbnail: "/images/Upbit-haked-36m-sol-Lazars.webp"
 image_alt: "Upbit Hack und SOL-Diebstahl"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["upbit","sol","solana","solana-ecosystem","hack","cyberattack","security","kripto","crypto","bitcoin","btc","ethereum","eth","aml","travel-rule","korea","south-korea","regulation","kriptovalute","vlasp","vasp","lazarus","north-korea","blockchain","cybersecurity","defi","stablecoins","finance","financije"]
 summary: "Die größte koreanische Kryptobörse Upbit wurde gehackt – 36 Millionen USD in SOL- und SPL-Token wurden entwendet. Gleichzeitig führt Südkorea die bisher strengsten AML-Regeln ein, einschließlich einer Erweiterung der Travel Rule auf Transaktionen unter 680 USD."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

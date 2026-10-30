@@ -15,6 +15,7 @@ image_alt: "Grokipedia – Musks KI-Enzyklopädie"
 image_credit: "Metaadvisor.eu — Bild ist symbolisch."
 tags: ["ai","grok","grokipedia","elon musk","enzyklopädie","wikimedia","faktencheck","fehlinformation","bias","workslop"]
 summary: "Grokipedia, Elon Musks neue KI-Enzyklopädie, sorgt zum Start für Kritik: Akademiker melden Fehler, Plagiate und ideologische Schlagseite — und stellen die Frage, ob KI wirklich 'die ganze Wahrheit' liefern kann."
+categories: ["ai"]
 ---
 
 **Von falschen Biografien bis hin zu politisch gefärbten Einträgen – Grokipedia hatte keinen sanften Start.** Mehrere Wissenschaftler fanden in ihren Profilen frei erfundene Details, während Nutzer bemerkten, dass viele Texte **nahezu wörtlich aus Wikipedia übernommen wurden** – jener Plattform, die Grokipedia eigentlich ersetzen will.

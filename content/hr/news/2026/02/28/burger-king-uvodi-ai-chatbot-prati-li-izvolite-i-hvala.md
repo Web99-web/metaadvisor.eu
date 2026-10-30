@@ -7,14 +7,15 @@ translationKey: "4d8e767054464bdd0e06ebcad6f16e86"
 source: "The Guardian"
 source_url: ""
 author: "The Guardian (analiza: MetaAdvisor.eu)"
-image_url: "/images/AI-monitors-in-burger.png"
-featured_image: "/images/AI-monitors-in-burger.png"
-image: "/images/AI-monitors-in-burger.png"
-thumbnail: "/images/AI-monitors-in-burger.png"
+image_url: "/images/AI-monitors-in-burger.jpg"
+featured_image: "/images/AI-monitors-in-burger.jpg"
+image: "/images/AI-monitors-in-burger.jpg"
+thumbnail: "/images/AI-monitors-in-burger.jpg"
 image_alt: "AI robot koji viri iz hamburgera u restoranu brze hrane"
 image_credit: "MetaAdvisor.eu (AI ilustracija)"
 tags: ["ai", "umjetna inteligencija", "burger king", "nadzor zaposlenika", "tehnologija", "chatbot", "openai", "radna prava", "automatizacija", "retail tehnologija", "ai nadzor", "digitalna transformacija"]
 summary: "Burger King uvodi AI asistenta koji analizira komunikaciju zaposlenika i detektira koriste li izraze poput 'please' i 'thank you'. Odluka je potaknula raspravu o granici između operativne podrške i nadzora zaposlenika."
+categories: ["ai"]
 ---
 
 # Burger King uvodi AI chatbot: prati li taj AI i “Izvolite” i “Hvala”?

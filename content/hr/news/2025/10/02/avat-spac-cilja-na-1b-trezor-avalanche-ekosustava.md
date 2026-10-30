@@ -32,6 +32,7 @@ tags:
   - monarq
   - advisors
 summary: "Avalanche Treasury Co. (AVAT) najavljuje SPAC spajanje vrijedno $675+ mil. s Mountain Lake Acquisition Corp. i ambiciju da trezor naraste na $1 mlrd., uz diskontirani mNAV ulaz i podršku Avalanche Foundationa."
+categories: ["ai"]
 ---
 
 **Avalanche Treasury Co. (AVAT)** objavio je **$675+ mil.** poslovnu kombinaciju sa **SPAC-om Mountain Lake Acquisition Corp. (MLAC)**, kao uvod u planirani **ekosustavni trezor od $1 mlrd.** Podržan **ekskluzivnim aranžmanom** s **Avalanche Foundationom**, AVAT kreće s **$200 mil.** diskontiranom prodajom tokena i cilja **listanje na Nasdaqu početkom 2026.** (uz regulatorna odobrenja).

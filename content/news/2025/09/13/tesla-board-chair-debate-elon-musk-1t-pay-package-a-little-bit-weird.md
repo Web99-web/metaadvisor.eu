@@ -10,6 +10,7 @@ image_url: "/images/tesla.jpg"
 image_alt: "Tesla"
 tags: ["ai","tesla","elon-musk","compensation","governance","stock"]
 summary: "Ahead of a November vote on a 10-year, $1T package, Robyn Denholm defends the plan, stressing future performance targets and voting power rather than the headline dollar amount."
+categories: ["ai"]
 ---
 
 With Tesla shareholders set to vote in **November** on a **10-year, $1 trillion** compensation plan for **Elon Musk**, board chair **Robyn Denholm** defended what would be the **largest package in corporate history** in comments to *The New York Times*.

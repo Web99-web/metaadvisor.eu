@@ -7,6 +7,7 @@ source: "MetaAdvisor Research"
 summary: "Institucionalni kapital ulazi u Solanu: DeFi Development Corp povećao riznicu na više od 400 milijuna USD, uz jačanje povjerenja u DeFi ekosustav."
 tags: ["crypto", "defi", "solana", "sol", "treasury", "blockchain", "altcoins", "investing", "ethereum", "eth", "bitcoin", "btc"]
 image_url: "/images/solana1.jpg"
+categories: ["crypto"]
 ---
 
 **DeFi Development Corp (DDC)** dodatno je povećao svoje ulaganje u **Solanu (SOL)**, a vrijednost njihove riznice sada premašuje **400 milijuna USD**. Time je DDC postao jedan od najvećih institucionalnih posjednika Solane, što signalizira sve veće povjerenje u ovaj blockchain.  

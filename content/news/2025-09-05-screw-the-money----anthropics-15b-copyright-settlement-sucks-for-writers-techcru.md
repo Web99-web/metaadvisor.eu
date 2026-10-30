@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-c
 summary: "Writers don’t actually benefit from this settlement — it’s just an expensive slap on the wrist for Anthropic for illegally downloading books instead of buying them."
 tags: ["ai", "anthropic", "copyright", "writers", "claude", "settlement"]
 image_url: "https://images.pexels.com/photos/1995842/pexels-photo-1995842.jpeg"
+categories: ["news"]
 ---
 
 About **half a million writers** will be eligible for payouts of at least $3,000 thanks to a historic **$1.5 billion settlement** in a class action lawsuit against **Anthropic**.  

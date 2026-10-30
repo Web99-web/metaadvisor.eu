@@ -6,15 +6,16 @@ category: "crypto"
 translationKey: "bank-of-england-stablecoin-digital-pound-cross-border-2026-08-15"
 source: "Bank of England, Polygon Labs, Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Britcoin-digital-pound-coming-or-not.png"
-featured_image: "/images/news/Britcoin-digital-pound-coming-or-not.png"
-image: "/images/news/Britcoin-digital-pound-coming-or-not.png"
-thumbnail: "/images/news/Britcoin-digital-pound-coming-or-not.png"
+image_url: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
+featured_image: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
+image: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
+thumbnail: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
 image_alt: "Bank of England testira stablecoin i digitalnu funtu u prekograničnim plaćanjima"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Bank of England", "digital pound", "digitalna funta", "stablecoin", "CBDC", "Polygon", "NOBO Finance", "Dun & Bradstreet", "cross-border payments", "crypto"]
 description: "Bank of England u Digital Pound Labu testira može li stablecoin funkcionirati zajedno sa simuliranom digitalnom funtom u istom prekograničnom plaćanju."
 summary: "Eksperiment Bank of Englanda povezuje stablecoin plaćanje, simuliranu digitalnu funtu i blockchain infrastrukturu u jednom međunarodnom trade finance procesu."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

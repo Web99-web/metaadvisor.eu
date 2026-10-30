@@ -7,15 +7,16 @@ translationKey: "banka-italije-testirala-stablecoine-trosak-2026-08-12"
 source: "Bank of Italy, World Bank and publicly available reports on the study"
 source_url: "https://www.bancaditalia.it/pubblicazioni/interventi-governatore/integov2026/20260505-panetta/index.html?com.dotmarketing.htmlpage.language=1"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
-featured_image: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
-image: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
-thumbnail: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
+image_url: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
+featured_image: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
+image: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
+thumbnail: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
 image_alt: "Bank of Italy tested stablecoin remittance costs ranging from 0.3 to nearly 9 percent"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["stablecoin", "stablecoins", "USDC", "Bank of Italy", "Banca d’Italia", "remittances", "cross-border payments", "blockchain", "fiat", "on-ramp", "off-ramp", "Wise", "World Bank", "crypto", "digital payments"]
 description: "The Bank of Italy tested real USDC remittances. Total costs ranged from 0.3% to nearly 9%, with most costs arising not on the blockchain but when converting between stablecoins and ordinary money."
 summary: "Bank of Italy researchers tested transfers of 200 USDC between Italy and five countries. Stablecoins were cheaper than the global remittance average in most corridors, but cheaper than Wise in only some comparable routes. Most costs and delays arose when entering and exiting crypto, not on the blockchain itself."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

@@ -15,6 +15,7 @@ image_alt: "Bitcoin unter Druck durch politische Unsicherheit und Marktnervosit�
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags: ["bitcoin","ethereum","krypto markt","sale","volatilität","politik","davos","geopolitik","kriegsrisiko","investoren","marktangst"]
 summary: "Bitcoin ist erneut auf rund 87.500 USD gefallen, während Ethereum unter 2.900 USD rutscht. Politische Unsicherheit und geopolitische Spannungen setzen den Kryptomarkt unter Druck."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

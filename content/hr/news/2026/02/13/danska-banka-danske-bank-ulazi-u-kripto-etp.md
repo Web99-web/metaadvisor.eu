@@ -3,18 +3,19 @@ title: "Danska banka Danske Bank ulazi u kripto: omogućuje Bitcoin i Ether ETP-
 slug: "danska-banka-danske-bank-ulazi-u-kripto-etp"
 date: 2026-02-13T06:30:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-02-13"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today"
 author: "Metaadvisor.eu"
-image_url: "/images/Banks-move-into-crypto2.png"
-featured_image: "/images/Banks-move-into-crypto2.png"
-image: "/images/Banks-move-into-crypto2.png"
-thumbnail: "/images/Banks-move-into-crypto2.png"
+image_url: "/images/Banks-move-into-crypto2.webp"
+featured_image: "/images/Banks-move-into-crypto2.webp"
+image: "/images/Banks-move-into-crypto2.webp"
+thumbnail: "/images/Banks-move-into-crypto2.webp"
 image_alt: "Europska banka ulazi u kripto tržište putem reguliranih proizvoda"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["danske bank", "danska banka", "bitcoin", "ether", "etp", "kripto ulaganja", "miCA", "miFID", "institucionalni kripto", "eu regulacija", "btc", "eth"]
 summary: "Danske Bank, najveća banka u Danskoj, prvi put omogućuje klijentima kupnju Bitcoin i Ether ETP-ova. Potez dolazi nakon jačanja regulatorne jasnoće u EU i rastuće potražnje za kripto izloženošću."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

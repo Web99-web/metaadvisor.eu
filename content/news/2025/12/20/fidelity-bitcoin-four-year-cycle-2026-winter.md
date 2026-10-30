@@ -23,6 +23,7 @@ tags:
   - crypto-market
   - analysis
 summary: "Fidelity argues that Bitcoin’s four-year cycle remains intact despite ETFs and institutional adoption. According to its analysis, 2026 could be a quiet, low-return year before the next growth phase."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

@@ -8,14 +8,15 @@ author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
 source: "TechCrunch"
 source_url: ""
-image_url: "/images/news/AI-apps-money.png"
-featured_image: "/images/news/AI-apps-money.png"
-image: "/images/news/AI-apps-money.png"
-thumbnail: "/images/news/AI-apps-money.png"
+image_url: "/images/news/AI-apps-money.webp"
+featured_image: "/images/news/AI-apps-money.webp"
+image: "/images/news/AI-apps-money.webp"
+thumbnail: "/images/news/AI-apps-money.webp"
 image_alt: "AI apps monetization and retention problem"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["ai", "artificial intelligence", "ai apps", "startup ecosystem", "subscription apps", "chatgpt", "tech industry", "mobile apps", "ios", "android", "ai market", "technology"]
 summary: "New data shows that while AI-powered apps can quickly generate revenue, they struggle to retain users long-term as many subscribers cancel their plans faster than with traditional apps."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

@@ -16,6 +16,7 @@ image_alt: "Crypto Security — simbolična ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["crypto","kripto","sigurnost","security","bitcoin","btc","ethereum","eth","wallet","novčanik","seed","phishing","malware","qr","deepfake","mfa","fido2","mpc","kyc","aml","rugpull","social-engineering","self-custody","custodial","exchange","hardware-wallet","2fa","allowlist","whitelist"]
 summary: "Kripto je prerastao u bilijun-dolarski ekosustav. Napadi su 2025. porasli ~40%, a industrija mora podići sigurnost: od boljeg UX-a i ugrađenih zaštita do realnih prijetnji poput phishinga, socijalnog inženjeringa i fizičke prisile."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

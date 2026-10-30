@@ -26,6 +26,7 @@ tags:
   - effizienz
   - USA
 summary: "CleanSpark produzierte im September 629 BTC, verkaufte 445 BTC (~$48,7 Mio.) und erhöhte den Treasury-Bestand auf 13.011 BTC bei einem durchschnittlichen operativen Hashrate von ~45,6 EH/s."
+categories: ["crypto"]
 ---
 
 **Was ist passiert?**  

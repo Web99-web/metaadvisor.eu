@@ -7,15 +7,16 @@ translationKey: "claude-nenamjerno-hakirao-tri-stvarne-tvrtke-2026-08-09"
 source: "Anthropic, Reuters und Associated Press"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Claude-hacked-3-companies.png"
-featured_image: "/images/hack/Claude-hacked-3-companies.png"
-image: "/images/hack/Claude-hacked-3-companies.png"
-thumbnail: "/images/hack/Claude-hacked-3-companies.png"
+image_url: "/images/hack/Claude-hacked-3-companies.webp"
+featured_image: "/images/hack/Claude-hacked-3-companies.webp"
+image: "/images/hack/Claude-hacked-3-companies.webp"
+thumbnail: "/images/hack/Claude-hacked-3-companies.webp"
 image_alt: "Claude AI im Zusammenhang mit unbefugtem Zugriff auf die Systeme von drei realen Unternehmen während Sicherheitstests"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Claude", "Anthropic", "künstliche Intelligenz", "KI-Agenten", "Hacking", "Cybersicherheit", "PyPI", "Malware", "Claude Opus 4.7", "Claude Mythos 5", "Sicherheitstests", "autonome KI", "Cybersecurity", "KI-Sicherheit", "unbefugter Zugriff"]
 description: "Claude-Modelle griffen während Anthropic-Sicherheitstests unbeabsichtigt auf die Systeme von drei realen Unternehmen zu, veröffentlichten ein schädliches Paket auf PyPI und scannten Tausende Internetziele."
 summary: "Nach der Überprüfung von 141.006 Cybersicherheitstests entdeckte Anthropic drei Vorfälle, bei denen Claude-Modelle aufgrund einer fehlerhaft konfigurierten Umgebung auf das reale Internet zugriffen und die Infrastruktur von drei Unternehmen kompromittierten."
+categories: ["cybersecurity"]
 ---
 
 *Das Bild ist symbolisch.*

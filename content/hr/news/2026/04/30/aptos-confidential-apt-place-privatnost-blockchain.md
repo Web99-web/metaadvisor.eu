@@ -7,14 +7,15 @@ translationKey: "fae9ff63d50f4a39d51acee9744ce331"
 source: "Metaadvisor (Cointelegraph, Binance Square, KuCoin, MEXC, TradingView)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Salaries-crypto.png"
-featured_image: "/images/Salaries-crypto.png"
-image: "/images/Salaries-crypto.png"
-thumbnail: "/images/Salaries-crypto.png"
+image_url: "/images/Salaries-crypto.webp"
+featured_image: "/images/Salaries-crypto.webp"
+image: "/images/Salaries-crypto.webp"
+thumbnail: "/images/Salaries-crypto.webp"
 image_alt: "Plaće na blockchainu i problem privatnosti u kriptu"
 image_credit: "Metaadvisor.eu"
 tags: ["aptos", "confidential apt", "kripto", "blockchain", "privatnost", "plaće", "zero knowledge", "zkp", "financije", "tehnologija", "web3", "sigurnost"]
 summary: "Aptos uvodi Confidential APT, rješenje koje omogućuje privatne transakcije na blockchainu i rješava problem javno vidljivih plaća i financijskih podataka."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -7,14 +7,15 @@ translationKey: "facebook-down-global-outage-ai-moderation-2026-07-19"
 source: "Reuters, Downdetector, CBS News Philadelphia, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-down.png"
-featured_image: "/images/Meta/Facebook-down.png"
-image: "/images/Meta/Facebook-down.png"
-thumbnail: "/images/Meta/Facebook-down.png"
+image_url: "/images/Meta/Facebook-down.webp"
+featured_image: "/images/Meta/Facebook-down.webp"
+image: "/images/Meta/Facebook-down.webp"
+thumbnail: "/images/Meta/Facebook-down.webp"
 image_alt: "Facebook down global outage"
 image_credit: "Metaadvisor.eu"
 tags: ["Facebook", "Meta", "Messenger", "Instagram", "Facebook down", "Meta outage", "AI moderacija", "AI moderation", "Business Suite", "cybersecurity", "digital rights", "Metaadvisor"]
 summary: "Facebook je ponovno doživio globalni tehnički kvar, no za dio korisnika osjećaj gubitka pristupa računu traje već mjesecima zbog AI moderacije i nedostatka ljudske podrške."
+categories: ["cybersecurity"]
 ---
 
 Slika je simbolična.
@@ -110,7 +111,7 @@ Na Metaadvisoru smo već ranije pisali o problemima AI moderacije i sve većem b
 
 <figure style="max-width:620px; margin:26px auto; text-align:center;">
   <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">
-    <img src="/images/Social-networking-erased-destroyed.png" alt="Meta AI moderacija i digitalno brisanje korisnika" style="width:100%; height:auto; border-radius:12px;">
+    <img src="/images/Social-networking-erased-destroyed.webp" alt="Meta AI moderacija i digitalno brisanje korisnika" style="width:100%; height:auto; border-radius:12px;">
   </a>
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">

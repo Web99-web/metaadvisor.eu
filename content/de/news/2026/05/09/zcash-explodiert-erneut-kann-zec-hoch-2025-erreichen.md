@@ -15,6 +15,7 @@ image_alt: "Zcash ZEC steigt erneut stark auf dem Kryptomarkt"
 image_credit: "Metaadvisor.eu"
 tags: ["zcash", "zec", "privacy coin", "crypto", "krypto", "altcoin", "futures", "bitcoin", "trading", "short squeeze", "markt", "volatilitat", "defi", "crypto market", "metaadvisor"]
 summary: "Zcash (ZEC) sorgt nach einem starken Anstieg über 600 USDT erneut für Aufmerksamkeit am Kryptomarkt. Händler diskutieren nun, ob ZEC das Hoch aus November 2025 erneut erreichen kann."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

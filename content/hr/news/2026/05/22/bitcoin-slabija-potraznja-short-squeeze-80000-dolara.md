@@ -7,14 +7,15 @@ translationKey: "bitcoin-demand-short-squeeze-80000-2026-05-22"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/btc-sideways4.png"
-featured_image: "/images/btc-sideways4.png"
-image: "/images/btc-sideways4.png"
-thumbnail: "/images/btc-sideways4.png"
+image_url: "/images/btc-sideways4.webp"
+featured_image: "/images/btc-sideways4.webp"
+image: "/images/btc-sideways4.webp"
+thumbnail: "/images/btc-sideways4.webp"
 image_alt: "Bitcoin sideways market with pressure between weak demand and possible short squeeze"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "kripto", "bitcoin cijena", "btc analiza", "short squeeze", "likvidacije", "bitcoin etf", "spot bitcoin etf", "coinbase premium", "whales", "akumulacija bitcoina", "realizirani gubici", "mark cuban", "digitalno zlato", "hedge", "macro", "risk off", "crypto tržište", "tehnička analiza", "200-dnevni prosjek", "nasdaq", "ethereum", "eth", "trading", "futures", "coinglass", "cryptoquant", "glassnode"]
 summary: "Bitcoin je zapeo između dvije potpuno različite slike tržišta: s jedne strane slabi potražnja, ETF-ovi bilježe odljeve i veliki igrači manje akumuliraju, a s druge strane iznad cijene se gomilaju short pozicije koje bi mogle pogurati BTC prema 80.000 dolara."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

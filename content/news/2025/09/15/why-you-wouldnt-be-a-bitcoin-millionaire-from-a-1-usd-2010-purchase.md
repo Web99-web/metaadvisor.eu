@@ -10,6 +10,7 @@ image_url: "/images/btc-millionaire.jpg"
 image_alt: "Early Bitcoin vs. today’s million-dollar headlines — myth vs. reality"
 tags: ["bitcoin","myths","history","behavior","key-loss","mt-gox"]
 summary: "The tale “$1 in 2010 = millionaire today” sounds great but ignores reality: frictions and limits back then, chaotic exchanges, massive key losses, and brutal 80–90% drawdowns that almost nobody sat through."
+categories: ["crypto"]
 ---
 
 **The myth in one line:** If you’d put **$1** into Bitcoin in 2010 and left it alone, you’d be a millionaire today. It’s a neat story that **skips** almost everything you had to survive to get anywhere near that outcome.

@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Binance", "ETF", "američki ETF-ovi", "TradFi", "Binance Earn", "upravljanje imovinom", "američke obveznice", "državne obveznice", "Treasury", "Alpaca Securities", "Nest Trading", "dionice", "financijska tržišta"]
 description: "Binance je pokrenuo wealth management ponudu s 11 američkih ETF-ova usmjerenih na državne i kvalitetnije obveznice, a korisnici kupuju stvarne ETF udjele kroz reguliranu brokersku infrastrukturu."
 summary: "Binance unutar Earna uvodi 11 američkih ETF-ova za cash management, stabilniji prihod i dulja ulaganja. Ne radi se o tokeniziranim ETF-ovima nego o stvarnim vrijednosnim papirima koji se izvršavaju i čuvaju kroz brokersku infrastrukturu."
+categories: ["Financije"]
 ---
 
 *Slika je simbolična.*

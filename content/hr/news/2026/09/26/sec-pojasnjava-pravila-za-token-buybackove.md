@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["SEC", "buyback", "kripto regulacija", "DeFi", "tokeni", "Howey test", "HYPE", "JUP", "AAVE", "PUMP"]
 description: "SEC-ov Division of Corporation Finance pojasnio je kako promatra token buybackove, razvoj funkcionalnih kripto mreža i aktivnosti relevantne za primjenu Howey testa."
 summary: "SEC staff naveo je da kod već funkcionalnog kripto sustava sama najava buyback programa za non-security token ne predstavlja obećanje ključnih upravljačkih aktivnosti. Kod mreža koje još nisu funkcionalne regulatorna analiza može biti drukčija."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

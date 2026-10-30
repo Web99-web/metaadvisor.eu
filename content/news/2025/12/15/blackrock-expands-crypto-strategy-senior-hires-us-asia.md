@@ -15,6 +15,7 @@ image_alt: "BlackRock expands digital asset hiring"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["blackrock","crypto","etfs","institutions","tokenization","asia","usa","digital-assets"]
 summary: "BlackRock is accelerating its digital asset expansion with seven new senior hires — signaling growing institutional demand for tokenized and on-chain financial products."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

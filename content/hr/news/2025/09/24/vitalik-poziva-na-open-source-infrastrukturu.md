@@ -23,6 +23,7 @@ tags:
   - finance
   - decentralization
 summary: "Vitalik Buterin naglašava važnost open-source infrastrukture ne samo za blockchain, nego i za zdravstvo, financije i sustave upravljanja."
+categories: ["news"]
 ---
 
 **Kratko:** **Vitalik Buterin**, suosnivač **Ethereuma**, pozvao je na širu primjenu **open-source infrastrukture** i izvan blockchain svijeta — u područjima poput **zdravstva**, **financija** i **javnog upravljanja**. Njegov stav je da transparentni i dostupni sustavi mogu osigurati **povjerenje, interoperabilnost i otpornost** društvenih institucija.

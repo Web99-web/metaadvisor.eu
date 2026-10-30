@@ -973,3 +973,12 @@ body.list{
     max-width: 100% !important;
   }
 }
+
+/* Contain genuine article tables on narrow screens without clipping page content. */
+.post-body table{display:block;max-width:100%;overflow-x:auto;overscroll-behavior-x:contain}
+.post-body th,.post-body td{overflow-wrap:anywhere}
+
+/* Related cards belong to the article width, not the six-column archive grid. */
+body main.site-main .post-related .grid{grid-template-columns:repeat(3,minmax(0,1fr))!important;max-width:100%!important}
+body main.site-main .post-related .grid>*{min-width:0!important}
+@media(max-width:768px){body main.site-main .post-related .grid{grid-template-columns:minmax(0,1fr)!important}}

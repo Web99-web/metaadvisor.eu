@@ -7,14 +7,15 @@ translationKey: "silver_investor_focus_20260123"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/silver.png"
-featured_image: "/images/silver.png"
-image: "/images/silver.png"
-thumbnail: "/images/silver.png"
+image_url: "/images/silver.webp"
+featured_image: "/images/silver.webp"
+image: "/images/silver.webp"
+thumbnail: "/images/silver.webp"
 image_alt: "Srebro prvi put probija granicu od 100 dolara po unci"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Srebro je danas prvi put u povijesti prešlo granicu od 100 USD po unci, čime se ponovno našlo u fokusu investitora koji, uz zlato, traže stvarnu i industrijski relevantnu vrijednost."
 tags: ["srebro", "silver", "plemeniti metali", "investicije", "inflacija", "tržišta", "energija", "industrija"]
+categories: ["markets"]
 ---
 
 *Slika je simbolična.*

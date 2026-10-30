@@ -39,6 +39,7 @@ tags: [
   "eu tehnologija"
 ]
 summary: "Europa je već u siječnju 2026. dobila pet novih startup jednoroga – tvrtki čija je valuacija premašila milijardu dolara. Iako neke posluju globalno ili su formalno registrirane izvan EU-a, njihovi korijeni, razvoj i ključni timovi ostaju europski."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#777;">

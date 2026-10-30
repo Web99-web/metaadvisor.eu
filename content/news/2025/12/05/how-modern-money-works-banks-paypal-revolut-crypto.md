@@ -3,7 +3,7 @@ title: "How Modern Money Really Works — Banks vs. PayPal vs. Revolut vs. Crypt
 slug: "how-modern-money-works-banks-paypal-revolut-crypto"
 date: 2025-12-05T12:00:00Z
 category: "ai"
-translationKey: "money_explained_banks_paypal_revolut_crypto_20251205_en"
+translationKey: "money_explained_banks_paypal_revolut_crypto_20251205"
 source: "MetaAdvisor – Analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
@@ -16,8 +16,9 @@ image_alt: "Infographic: Banks vs. PayPal vs. Revolut vs. Crypto"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["banks","paypal","revolut","money-system","finance","crypto","stablecoins","cex","dex","banking-explained","self-custody","digital-money","payments","economy","financial-literacy"]
 summary: "A comprehensive explanation of how banks, PayPal, Revolut, stablecoins and crypto really work — and who actually owns the money in each system."
+categories: ["ai"]
+image_note: "The illustration is schematic. Its combined PayPal/Revolut EMI label is not a generally correct legal classification; see the entity-specific correction below, based on the status on 05.12.2025."
 ---
-
 # How Modern Money Really Works  
 ## Banks vs. PayPal vs. Revolut vs. Crypto
 
@@ -92,14 +93,17 @@ Fintechs like PayPal and Revolut grew because banks were slow to modernize.
 
 ---
 
-# 💳 3) How PayPal and Revolut work (EMI model)
+# 💳 3) PayPal and Revolut: check the legal entity (status on 05.12.2025.)
 
-PayPal and Revolut are **not banks**.  
-They are *Electronic Money Institutions (EMI)*.
+PayPal and Revolut cannot both be described simply as EMIs. **PayPal Europe was already a Luxembourg-licensed credit institution**, although its e-money balance is not a bank deposit covered by a deposit guarantee scheme. **Revolut Bank UAB had a Lithuanian banking licence**, and eligible deposits with that bank were covered by the Lithuanian deposit guarantee scheme, subject to its limits and conditions. In the UK, Revolut Ltd still provided e-money accounts while the UK bank was in its restricted mobilisation phase. Protection therefore depended on the entity, country and product.
+
+Sources for the historical status: [PayPal's 2007 banking licence announcement](https://newsroom.paypal-corp.com/2007-05-15-PayPal-Expands-European-Growth-With-Bank-Charter-and-New-European-Headquarters), [Bank of Lithuania: licence valid from 13.12.2021.](https://www.lb.lt/en/news/banking-licence-granted-to-revolut-bank-uab), [Revolut's UK mobilisation announcement, 25.07.2024.](https://www.revolut.com/news/revolut_receives_uk_banking_licence/). [PayPal Europe, 16.12.2020.](https://www.paypalobjects.com/marketing/ua/pdf/IE/en/ua-121620-v1.pdf).
+
+The EMI description below applies to an actual e-money account, not automatically to every PayPal or Revolut product.
 
 An EMI:
 
-- cannot lend out customer deposits  
+- cannot use safeguarded e-money customer funds to finance loans  
 - must fully safeguard funds  
 - keeps user funds in pooled accounts  
 - does **not** offer deposit insurance
@@ -124,8 +128,8 @@ EMIs can:
 | System | Ownership? | Can freeze? | Protection? |
 |--------|------------|--------------|-------------|
 | Bank | ❌ You are a creditor | ✔️ | ✔️ |
-| PayPal | ❌ EMI claim | ✔️ | ❌ |
-| Revolut | ❌/✔️ depends on account type | ✔️ | partial |
+| PayPal | E-money claim; check entity/product | ✔️ | ❌ |
+| Revolut | Bank deposit or e-money claim, depending on entity/product | ✔️ | Eligible bank deposits: DGS; e-money: safeguarding |
 | Crypto exchange (CEX) | ❌ exchange owns keys | ✔️ | ❌ |
 | Crypto self-custody | ✔️ you own the keys | ❌ | ⚠️ full responsibility |
 
@@ -189,7 +193,7 @@ Stablecoins enable:
 Modern money operates across multiple layers:
 
 - Banks offer safety without ownership,  
-- Fintechs offer convenience without guarantees,  
+- Fintech protection depends on the legal entity and product,  
 - Crypto exchanges offer access without control,  
 - Self-custody offers ownership with responsibility.
 

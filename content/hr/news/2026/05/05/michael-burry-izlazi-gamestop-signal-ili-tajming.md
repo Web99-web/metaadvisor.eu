@@ -15,6 +15,7 @@ image_alt: "Michael Burry izlazi iz GameStopa u ključnom trenutku"
 image_credit: "Metaadvisor.eu"
 tags: ["michael burry", "gamestop", "dionice", "investiranje", "wall street", "retail investitori", "financijska analiza", "tržišta kapitala"]
 summary: "Michael Burry izlazi iz GameStopa upravo u trenutku kada kompanija pokušava svoj najambiciozniji potez. Odluka otvara pitanje radi li se o upozorenju ili pametnom tajmingu."
+categories: ["stocks"]
 ---
 
 *Slika je simbolična.*

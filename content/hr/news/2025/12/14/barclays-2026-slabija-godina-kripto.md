@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/12/12/barclays-sees-down-year-for-crypto-in-2026-without-big-catalysts"
 author: "CoinDesk — analiza MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Barclays-down-2026.png"
-featured_image: "/images/Barclays-down-2026.png"
-image: "/images/Barclays-down-2026.png"
-thumbnail: "/images/Barclays-down-2026.png"
+image_url: "/images/Barclays-down-2026.webp"
+featured_image: "/images/Barclays-down-2026.webp"
+image: "/images/Barclays-down-2026.webp"
+thumbnail: "/images/Barclays-down-2026.webp"
 image_alt: "Barclays analiza: 2026. kao potencijalno slabija godina za kripto tržište"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["barclays","kripto tržište","bitcoin","institucionalni ulagači","likvidnost","tržišna psihologija","analiza","2026"]
 summary: "Barclays upozorava da bi 2026. mogla biti slabija godina za kripto tržište ako izostanu novi snažni katalizatori, dok MetaAdvisor analizira promjenu ponašanja privatnih ulagača nakon listopada 2025."
+categories: ["crypto"]
 ---
 
 # Barclays upozorava: 2026. bi mogla biti slabija godina za kripto

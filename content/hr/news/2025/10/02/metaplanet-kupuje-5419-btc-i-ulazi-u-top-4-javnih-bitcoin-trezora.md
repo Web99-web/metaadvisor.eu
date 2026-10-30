@@ -7,10 +7,10 @@ translationKey: "metaplanet-sept-2025-btc-purchase-top4"
 source: "Bitcoin Magazine / službene objave"
 source_url: "https://bitcoinmagazine.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Metaplanet-buys5419btc.png"
-featured_image: "/images/Metaplanet-buys5419btc.png"
-image: "/images/Metaplanet-buys5419btc.png"
-thumbnail: "/images/Metaplanet-buys5419btc.png"
+image_url: "/images/Metaplanet-buys5419btc.webp"
+featured_image: "/images/Metaplanet-buys5419btc.webp"
+image: "/images/Metaplanet-buys5419btc.webp"
+thumbnail: "/images/Metaplanet-buys5419btc.webp"
 image_alt: "Metaplanet objavljuje kupnju 5.419 BTC"
 image_credit: "Metaadvisor.eu (simbolična slika)"
 tags:
@@ -25,6 +25,7 @@ tags:
   - btc
   - kripto-trziste
 summary: "Metaplanet je najavio kupnju 5.419 BTC (≈ $632,5M), čime skače među 4 najveća javna bitcoin trezora na svijetu."
+categories: ["crypto"]
 ---
 
 **Metaplanet** je objavio kupnju **5.419 BTC** u vrijednosti oko **$632,5 milijuna**, učvrstivši strategiju “**bitcoin-first treasury**” i ujedno se svrstao **među 4 najveća** javna poduzeća po količini bitcoina u trezoru. Transakcija je financirana kombinacijom **izdavanja kapitala i duga**, kao nastavak plana kojim se kompanija transformirala iz hotelskog biznisa u **korporativni bitcoin trezor**.

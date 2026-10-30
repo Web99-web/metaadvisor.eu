@@ -15,6 +15,7 @@ image_alt: "Market focus chart showing SpaceX and crypto market levels"
 image_credit: "Metaadvisor.eu"
 tags: ["SpaceX", "Bitcoin", "BTC", "Ethereum", "ETH", "Solana", "SOL", "HYPE", "crypto market", "IPO", "market focus", "daily charts", "Metaadvisor"]
 summary: "SpaceX fell to around 165 USD, while the crypto market was mixed today. Bitcoin moved around 64.5 thousand USD, Ethereum was around 1,747 to 1,760 USD, Solana around 73 USD, and HYPE around 68 USD after being above 70 USD a few days ago."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Symbolic image.</em></p>

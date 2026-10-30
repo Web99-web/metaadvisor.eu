@@ -15,6 +15,7 @@ image_alt: "Bitcoin graf rasta prema 69.000 USD"
 image_credit: "Simbolična ilustracija"
 tags: ["bitcoin", "btc", "kripto", "kriptovalute", "tržište", "short covering", "short squeeze", "etf", "spot etf", "derivati", "geopolitika", "iran", "makroekonomija", "volatilnost"]
 summary: "Bitcoin je nakon vikend pada naglo skočio prema 69.000 USD. Analitičari upozoravaju da se vjerojatno radi o short-coveringu, a ne o početku novog snažnog bull trenda."
+categories: ["crypto"]
 ---
 
 # Zašto BTC danas raste: Skok prema 69.000 USD vjerojatno rezultat short-coveringa

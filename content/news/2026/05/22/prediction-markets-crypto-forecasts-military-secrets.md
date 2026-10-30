@@ -7,14 +7,15 @@ translationKey: "prediction-markets-national-security-risk-iran-2026"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/prediction-markets.png"
-featured_image: "/images/prediction-markets.png"
-image: "/images/prediction-markets.png"
-thumbnail: "/images/prediction-markets.png"
+image_url: "/images/prediction-markets.webp"
+featured_image: "/images/prediction-markets.webp"
+image: "/images/prediction-markets.webp"
+thumbnail: "/images/prediction-markets.webp"
 image_alt: "Prediction markets and national security risk in crypto forecasting"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "prediction markets", "forecasting markets", "polymarket", "crypto forecasts", "blockchain", "onchain", "insider trading", "national security", "military secrets", "iran", "usa", "geopolitics", "regulation", "cftc", "kalshi", "bubblemaps", "blockchain transparency", "digital markets", "crypto regulation"]
 summary: "Prediction markets are increasingly entering the zone of serious security questions. If unusually precise forecasts appear on the blockchain before military actions, such markets can become a signal that adversaries can also read."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

@@ -16,6 +16,7 @@ image_alt: "UK Krypto DeFi Steuerreform no gain no loss"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["krypto", "defi", "steuer", "steuerreform", "liquiditätspools", "lending", "uk", "regierung", "regulierung", "blockchain", "krise", "steuerpolitik"]
 summary: "Großbritannien schlägt eine bedeutende Krypto-Steuerreform vor: DeFi-Transaktionen sollen erst beim tatsächlichen Verkauf der Token besteuert werden."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

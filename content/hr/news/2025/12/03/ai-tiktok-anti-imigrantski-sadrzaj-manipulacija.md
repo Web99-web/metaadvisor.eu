@@ -8,10 +8,10 @@ source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/AI-Tik-tok-Anitiimigrant.png"
-featured_image: "/images/AI-Tik-tok-Anitiimigrant.png"
-image: "/images/AI-Tik-tok-Anitiimigrant.png"
-thumbnail: "/images/AI-Tik-tok-Anitiimigrant.png"
+image_url: "/images/AI-Tik-tok-Anitiimigrant.webp"
+featured_image: "/images/AI-Tik-tok-Anitiimigrant.webp"
+image: "/images/AI-Tik-tok-Anitiimigrant.webp"
+thumbnail: "/images/AI-Tik-tok-Anitiimigrant.webp"
 image_alt: "AI manipulacija na TikToku i anti-imigrantski video sadržaj"
 image_credit: "MetaAdvisor AI-generated"
 tags: [
@@ -23,6 +23,7 @@ tags: [
   "istraživanje","ai forensics","algoritamska pristranost","deepfake politika"
 ]
 summary: "TikTok je preplavljen generativnim AI videima koji šire anti-imigrantske narative i manipulativne poruke, dok platforma teško prati razmjere novih dezinformacija."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

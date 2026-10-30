@@ -6,14 +6,15 @@ category: "ai"
 translationKey: "7fffafce0be8d5ca6f7342a60c5ea9ce"
 source: "Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/facebook-ai-photos.png"
-featured_image: "/images/facebook-ai-photos.png"
-image: "/images/facebook-ai-photos.png"
-thumbnail: "/images/facebook-ai-photos.png"
+image_url: "/images/facebook-ai-photos.webp"
+featured_image: "/images/facebook-ai-photos.webp"
+image: "/images/facebook-ai-photos.webp"
+thumbnail: "/images/facebook-ai-photos.webp"
 image_alt: "Illustration: AI suggesting photo edits on a smartphone"
 image_credit: "Metaadvisor / generated"
 tags: ["ai","meta","facebook","privacy","camera-roll","photos","cloud","mobile-apps","technology"]
 summary: "Facebook is rolling out a feature where AI suggests edits from your camera roll — even before you post them. It raises fresh questions about privacy and control over personal content."
+categories: ["ai"]
 ---
 
 {{< cta href="/go/mexc" text="👉 Trade on MEXC" >}}

@@ -8,14 +8,15 @@ source: "CoinDesk – prerađena analiza"
 source_url: "https://www.coindesk.com/policy/2025/dec/06/state-of-crypto-wrapping-up-the-month"
 author: "Metaadvisor.eu – editorial team"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Capitol-USA.png"
-featured_image: "/images/Capitol-USA.png"
-image: "/images/Capitol-USA.png"
-thumbnail: "/images/Capitol-USA.png"
+image_url: "/images/Capitol-USA.webp"
+featured_image: "/images/Capitol-USA.webp"
+image: "/images/Capitol-USA.webp"
+thumbnail: "/images/Capitol-USA.webp"
 image_alt: "US Capitol – analiza američke kripto regulacije 2025."
 image_credit: "Capitol-USA"
 tags: ["kripto","kriptovalute","regulacija","SAD","CFTC","FDIC","Senat","zakonodavstvo","bitcoin","crypto","tržišna struktura","regulatori","politika","CoinDesk"]
 summary: "Washington ulazi u kraj 2025. bez ključnog zakona o kripto tržišnoj strukturi. Razumijemo što se zaista događa u Senatu — i zašto 2026. postaje godina odluke."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

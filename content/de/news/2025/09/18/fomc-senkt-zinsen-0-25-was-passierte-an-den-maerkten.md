@@ -15,6 +15,7 @@ image_alt: "FOMC-Entscheidung, Zinsen und Bitcoin — Marktreaktion"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["fed","fomc","zinsen","makro","bitcoin","aktien","anleihen","usd","pressekonferenz","metaadvisor"]
 summary: "Die Fed hat die Leitzinsen um 0,25 Prozentpunkte gesenkt. Erst rutschten Kurse ab, dann folgte eine schnelle Stabilisierung. Kurz: Geld wird etwas günstiger – ohne Versprechen eines schnellen, großen Lockerungszyklus."
+categories: ["news"]
 ---
 
 ### Was wurde entschieden — einfach erklärt

@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "russia-opens-regulated-crypto-market-2026-09-01"
 source: "Bank of Russia, TASS, Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Russia-opens-regulated-crypto-market.png"
-featured_image: "/images/informative/Russia-opens-regulated-crypto-market.png"
-image: "/images/informative/Russia-opens-regulated-crypto-market.png"
-thumbnail: "/images/informative/Russia-opens-regulated-crypto-market.png"
+image_url: "/images/informative/Russia-opens-regulated-crypto-market.webp"
+featured_image: "/images/informative/Russia-opens-regulated-crypto-market.webp"
+image: "/images/informative/Russia-opens-regulated-crypto-market.webp"
+thumbnail: "/images/informative/Russia-opens-regulated-crypto-market.webp"
 image_alt: "Russia opens a regulated crypto market as Sber prepares loans backed by Bitcoin, Ether and USDT"
 image_credit: "Metaadvisor.eu"
 tags: ["Russia", "crypto", "cryptocurrencies", "Bitcoin", "Ethereum", "Ether", "USDT", "stablecoin", "Sber", "banks", "loans", "collateral", "regulation", "financial markets", "investing", "digital assets"]
 description: "Russia opens its regulated crypto market on September 1, while the country’s largest bank, Sber, prepares products that could use Bitcoin, Ether and USDT as collateral for loans."
 summary: "The new regulatory framework marks an important step for Russia’s crypto market. Sber plans to expand its offering and accept BTC, ETH and USDT as collateral, while the Bank of Russia sets the rules for trading digital assets on regulated platforms."
+categories: ["Crypto"]
 ---
 
 # Russia Opens Its Regulated Crypto Market Today: Sber Plans BTC, ETH and USDT-Backed Loans

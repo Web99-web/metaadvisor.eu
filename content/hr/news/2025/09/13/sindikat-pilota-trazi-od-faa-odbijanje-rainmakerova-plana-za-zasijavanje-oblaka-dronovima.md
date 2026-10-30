@@ -6,10 +6,11 @@ category: "ai"
 translationKey: "c160bc263097908f45de440ec9aafd4b"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/"
-image_url: "/images/drone.jpg"
+image_url: "/images/dron.webp"
 image_alt: "Dron"
 tags: ["ai","dron","drone","faa","cloud-seeding","sigurnost","avijacija","rainmaker","uas"]
 summary: "Rainmaker želi na male dronove montirati pirotehničke „flare” patrone za zasijavanje oblaka. Sindikat pilota (ALPA) traži od FAA da to odbije bez strožih sigurnosnih uvjeta — odluka bi mogla postaviti presedan."
+categories: ["ai"]
 ---
 
 Zahtjev **Rainmaker Technologyja** da male dronove opremi **„cloud-seeding”** (zasijavanje oblaka) patronama nailazi na otpor **sindikata linijskih pilota (ALPA)**, koji je od američkog regulatora **FAA** zatražio da **odbije** zahtjev osim ako tvrtka ne prihvati **strože sigurnosne smjernice**.

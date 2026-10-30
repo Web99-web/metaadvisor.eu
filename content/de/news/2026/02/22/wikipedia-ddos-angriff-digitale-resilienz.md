@@ -15,6 +15,7 @@ image_alt: "Wikipedia unter DDoS-Angriff – Symbol digitaler Verwundbarkeit"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["wikipedia", "ddos", "cyberangriff", "cybersicherheit", "digitale infrastruktur", "internetsicherheit", "hacking", "technologie", "cyberkrieg", "digitale resilienz"]
 summary: "Wikipedia war Ziel eines DDoS-Angriffs, der den Zugriff zeitweise erschwerte. Der Vorfall wirft Fragen zur Widerstandsfähigkeit globaler digitaler Infrastruktur auf."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

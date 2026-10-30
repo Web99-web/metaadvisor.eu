@@ -16,6 +16,7 @@ image_alt: "Tornado Cash crypto mixer"
 image_credit: "Tornado Cash / Metaadvisor.eu"
 tags: ["tornado cash", "roman storm", "privacy", "mixer", "ethereum", "zk", "zkp", "lazarus", "crypto regulation", "blockchain", "doj", "usa", "sanctions"]
 summary: "The DOJ argues it had enough evidence to prove that Tornado Cash developer Roman Storm was not just a coder, but an active operator — a case that could reshape the future of crypto privacy."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

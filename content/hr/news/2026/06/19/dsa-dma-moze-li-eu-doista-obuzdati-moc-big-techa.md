@@ -7,14 +7,15 @@ translationKey: "dsa-dma-can-eu-really-stand-up-to-big-tech-2026-06-19"
 source: "European Parliament, European Commission, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/EU-gatekeepers-DMA-DSA.png"
-featured_image: "/images/news/EU-gatekeepers-DMA-DSA.png"
-image: "/images/news/EU-gatekeepers-DMA-DSA.png"
-thumbnail: "/images/news/EU-gatekeepers-DMA-DSA.png"
+image_url: "/images/news/EU-gatekeepers-DMA-DSA.webp"
+featured_image: "/images/news/EU-gatekeepers-DMA-DSA.webp"
+image: "/images/news/EU-gatekeepers-DMA-DSA.webp"
+thumbnail: "/images/news/EU-gatekeepers-DMA-DSA.webp"
 image_alt: "DMA gatekeepers and EU regulation of Big Tech"
 image_credit: "Metaadvisor.eu"
 tags: ["DSA", "DMA", "Digital Services Act", "Digital Markets Act", "Europska unija", "EU", "Big Tech", "Meta", "Facebook", "Instagram", "Google", "Alphabet", "Apple", "Amazon", "Microsoft", "ByteDance", "TikTok", "Booking", "AI moderacija", "umjetna inteligencija", "digitalna prava", "Appeals Centre Europe", "društvene mreže", "mali biznisi", "malo poduzetništvo", "digitalna ekonomija", "online poslovanje", "digitalna infrastruktura", "platforme", "algoritmi", "AI", "regulacija", "Europski parlament", "Europska komisija", "Metaadvisor"]
 summary: "Europska unija kroz DSA i DMA pokušava ograničiti moć Big Techa i zaštititi korisnike. No koliko ta zaštita stvarno funkcionira kada AI moderacija pogriješi, a korisnici ostanu bez računa, publike i poslovanja?"
+categories: ["tech"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>

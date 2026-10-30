@@ -14,6 +14,7 @@ thumbnail: "/images/BTC-down.png"
 image_alt: "Bitcoin pad tržišta grafikon"
 tags: ["bitcoin", "kripto", "dolar", "nafta", "inflacija", "geopolitika", "tržište"]
 summary: "Bitcoin je pao na oko 66.000 USD dok geopolitičke napetosti, jačanje dolara i gotovo 600 milijardi USD nerealiziranih gubitaka stvaraju snažan pritisak na tržište."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2026/01/30/u-s-government-seizes-usd400-million-helix-allegedly-made-from-drug-linked-transactions"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/helix-seized.png"
-featured_image: "/images/helix-seized.png"
-image: "/images/helix-seized.png"
-thumbnail: "/images/helix-seized.png"
+image_url: "/images/helix-seized.webp"
+featured_image: "/images/helix-seized.webp"
+image: "/images/helix-seized.webp"
+thumbnail: "/images/helix-seized.webp"
 image_alt: "Bitcoin mixer Helix and the seizure of assets worth $400 million"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -23,6 +23,7 @@ tags:
   - regulation
   - doj
 summary: "The U.S. government has taken legal ownership of more than $400 million in assets linked to the darknet bitcoin mixer Helix."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

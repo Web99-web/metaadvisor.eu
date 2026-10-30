@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "d48d3041c514f5ed46ac033c85170f42"
 source: "Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/how-to-trade.png"
-featured_image: "/images/how-to-trade.png"
-image: "/images/how-to-trade.png"
-thumbnail: "/images/how-to-trade.png"
+image_url: "/images/how-to-trade.webp"
+featured_image: "/images/how-to-trade.webp"
+image: "/images/how-to-trade.webp"
+thumbnail: "/images/how-to-trade.webp"
 image_alt: "So liest du Krypto-Charts — Titelillustration"
 image_credit: "Bild ist symbolisch."
 tags: ["bitcoin","btc","krypto","charts","O-H-L-C","rsi","volumen","liquiditaet","trading","anfänger","macd","ema","sma","support","resistance"]
 summary: "Der praktische Leitfaden, um Krypto-Charts wie ein Pro zu lesen: von Kerzen und Trends über Volumen und RSI bis zu Liquidität — ohne Jargon, mit Beispielen und typischen Anfängerfallen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

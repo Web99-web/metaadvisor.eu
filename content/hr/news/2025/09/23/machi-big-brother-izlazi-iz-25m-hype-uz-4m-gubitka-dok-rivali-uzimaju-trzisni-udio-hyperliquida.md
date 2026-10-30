@@ -34,6 +34,7 @@ tags:
   - vertex
   - ethereum-l2
 summary: "Poznati kripto whale Machi Big Brother navodno je zatvorio izloženost HYPE tokenu (Hyperliquid) uz približno $4M gubitka. U isto vrijeme, konkurentske DEX burze za derivate povećavaju udio, nagrizajući Hyperliquidovu dominaciju."
+categories: ["news"]
 ---
 
 **Kratko:** Prema izvornom izvještaju, **Machi Big Brother** (Jeffrey Huang), jedan od najeksponiranijih kripto ‘whaleova’, **izašao je iz HYPE pozicije** (povezane s Hyperliquid ekosustavom) nakon što je uložio oko **$25 milijuna**, te pritom **zabilježio približno $4 milijuna gubitka**. Taj potez dolazi u trenutku kada **konkurentske DEX platforme za derivate** (npr. dYdX, Aevo, Vertex) **uzima**ju sve veći **tržišni udio**, smanjujući momentum Hyperliquida.

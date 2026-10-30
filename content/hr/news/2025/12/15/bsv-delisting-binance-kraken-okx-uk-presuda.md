@@ -7,14 +7,15 @@ translationKey: "bsv_delisting_15122025"
 source: "CoinDesk — analiza i kontekst MetaAdvisor.eu"
 source_url: "https://coindesk.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/BSV-Bitcoin-Satoshi-Vision.png"
-featured_image: "/images/BSV-Bitcoin-Satoshi-Vision.png"
-image: "/images/BSV-Bitcoin-Satoshi-Vision.png"
-thumbnail: "/images/BSV-Bitcoin-Satoshi-Vision.png"
+image_url: "/images/BSV-Bitcoin-Satoshi-Vision.webp"
+featured_image: "/images/BSV-Bitcoin-Satoshi-Vision.webp"
+image: "/images/BSV-Bitcoin-Satoshi-Vision.webp"
+thumbnail: "/images/BSV-Bitcoin-Satoshi-Vision.webp"
 image_alt: "BSV token i kripto burze — spor oko delistinga"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bsv","bitcoin-sv","craig-wright","binance","kraken","okx","delisting","uk-supreme-court","crypto-law","crypto-exchanges"]
 summary: "Zašto su Binance, Kraken i OKX delistali BSV 2019. — i kako je britanski Vrhovni sud sada praktički zatvorio 13 milijardi USD vrijedan slučaj protiv kripto burzi."
+categories: ["crypto"]
 ---
 
 <div class="cta">

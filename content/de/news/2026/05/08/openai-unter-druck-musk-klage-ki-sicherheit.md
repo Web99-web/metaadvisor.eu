@@ -7,14 +7,15 @@ translationKey: "ae90c4caa5091a4346af33a3f24a6a6c"
 source: "Metaadvisor (TechCrunch, Reuters, Wired, The Verge)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/OpenAI-Musk-Sam-Altman.png"
-featured_image: "/images/news/OpenAI-Musk-Sam-Altman.png"
-image: "/images/news/OpenAI-Musk-Sam-Altman.png"
-thumbnail: "/images/news/OpenAI-Musk-Sam-Altman.png"
+image_url: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+featured_image: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+image: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+thumbnail: "/images/news/OpenAI-Musk-Sam-Altman.webp"
 image_alt: "Elon Musk und OpenAI im Mittelpunkt der Debatte über KI-Sicherheit"
 image_credit: "Metaadvisor.eu"
 tags: ["openai", "elon musk", "sam altman", "ki", "ai", "kunstliche intelligenz", "agi", "ki sicherheit", "xai", "microsoft", "chatgpt", "technologie", "ai regulation", "superintelligenz", "openai klage", "future tech", "metaadvisor"]
 summary: "Ehemalige OpenAI-Mitarbeiter behaupten, dass sich das Unternehmen schrittweise von einer sicherheitsorientierten Forschungsorganisation zu einer produktorientierten KI-Firma entwickelt hat. Musks Klage entfacht nun erneut die Debatte darüber, ob die KI-Branche Geschwindigkeit und Profit über langfristige Sicherheit stellt."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

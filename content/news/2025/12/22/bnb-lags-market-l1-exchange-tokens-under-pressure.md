@@ -16,6 +16,7 @@ image_alt: "BNB price action amid broader weakness in L1 and exchange tokens"
 image_credit: "MetaAdvisor illustration"
 tags: ["bnb", "binance", "crypto-market", "altcoins", "regulation", "crypto-exchanges", "l1-tokens"]
 summary: "BNB pushed above $860 but continued to underperform the broader market, reflecting wider weakness across L1 and exchange tokens rather than a Binance-specific issue alone."
+categories: ["news"]
 ---
 
 # BNB lags the market despite a break above $860

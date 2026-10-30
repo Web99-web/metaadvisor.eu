@@ -3,7 +3,7 @@ title: "Tinder nutzt KI, um Nutzer besser kennenzulernen – und greift auf priv
 slug: "tinder-ai-chemistry-fotos-galerie-privatsphaere"
 date: 2025-11-05T18:22:17Z
 category: "ai"
-translationKey: "bebee28a72a90f8b0e794232f4e5d83c"
+translationKey: "bebee28a72a90f8b0e794232f4e5d83c--2025-11-05"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/"
 author: "TechCrunch"
@@ -16,6 +16,7 @@ image_alt: "Tinder KI und private Fotos"
 image_credit: "TechCrunch / Metaadvisor"
 tags: ["ai", "privatsphäre", "tinder", "match group", "meta", "kamera", "daten", "sicherheit"]
 summary: "Tinder führt eine KI-Funktion ein, die Nutzer durch Fragen und Einblick in private Handyfotos besser kennenlernen soll. Das neue Feature „Chemistry“ wird bereits in Australien und Neuseeland getestet."
+categories: ["ai"]
 ---
 
 Tinder setzt auf künstliche Intelligenz, um seine Dating-App zu beleben – nach neun aufeinanderfolgenden Quartalen mit rückläufigen Abozahlen.  

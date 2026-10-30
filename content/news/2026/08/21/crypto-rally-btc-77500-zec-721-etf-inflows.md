@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "crypto-rally-btc-77500-zec-721-etf-inflows-2026-08-21"
 source: "CoinDesk, Cointelegraph, Wall Street Journal, Financial Times, CryptoRank, Grayscale, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/BTC-up.png"
-featured_image: "/images/daily-charts/BTC-up.png"
-image: "/images/daily-charts/BTC-up.png"
-thumbnail: "/images/daily-charts/BTC-up.png"
+image_url: "/images/daily-charts/BTC-up.webp"
+featured_image: "/images/daily-charts/BTC-up.webp"
+image: "/images/daily-charts/BTC-up.webp"
+thumbnail: "/images/daily-charts/BTC-up.webp"
 image_alt: "Bitcoin rises strongly as the crypto rally spreads to ZEC, Ethereum, AAVE, LINK and XRP"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Bitcoin", "BTC", "Zcash", "ZEC", "Ethereum", "ETH", "AAVE", "Chainlink", "LINK", "XRP", "Bitcoin ETF", "crypto rally", "short squeeze", "crypto"]
 description: "Bitcoin holds around $77,500 after rising to nearly $80,000, while US spot Bitcoin ETFs record around $1.6 billion in inflows over four days. ZEC reached about $721."
 summary: "The crypto rally has spread from Bitcoin to ZEC, ETH, XRP, AAVE and LINK. ETF inflows are now adding weight to the move after the initial short squeeze."
+categories: ["Crypto"]
 ---
 
 *The image is symbolic.*

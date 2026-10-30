@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Dogecoin", "DOGE", "PEPE", "Ethereum", "ETH", "Solana", "SOL", "XRP", "crypto market", "short squeeze", "liquidations", "altcoins", "memecoins", "crypto rally", "HYPE"]
 description: "Bitcoin traded above $87,300 during the rally, Dogecoin gained more than 15%, and PEPE more than 20%. More than $1 billion in leveraged crypto positions were liquidated in 24 hours, including about $844 million in shorts."
 summary: "The crypto rally has spread from Bitcoin to altcoins and memecoins. DOGE is up more than 15%, PEPE more than 20%, while more than $1 billion in positions were liquidated in the past 24 hours, including about $844 million in shorts. After the major short squeeze, the market now has to prove whether the rally can continue with fresh organic capital."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

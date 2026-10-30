@@ -16,6 +16,7 @@ image_alt: "Industrijski robot — sigurnosni senzori (simbolično)"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ai","robotics","senzori","ultrazvuk","lidar","sigurnost","norway","oslo","metaadvisor"]
 summary: "Kako roboti sve češće dijele prostor s ljudima, sigurnost prestaje biti fusnota. Norveški Sonair razvija 3D ‘ultrazvučni lidar’ koji prostor ‘ispunjava zvukom’ i robotima daje dublju percepciju okoline."
+categories: ["ai"]
 ---
 
 Kako se roboti sele iz ograđenih proizvodnih ćelija u skladišta, bolnice i trgovine, pitanje **sigurnosti u ljudskim prostorima** prestaje biti detalj i postaje glavni zahtjev. Norveški **Sonair** tvrdi da je put do toga u — zvuku. Umjesto da laserskim snopom “mete” scenu, njihov **ADAR** (acoustic detection and ranging) senzor **ispunjava prostor ultrazvukom** i vraća trodimenzionalnu sliku okoline.

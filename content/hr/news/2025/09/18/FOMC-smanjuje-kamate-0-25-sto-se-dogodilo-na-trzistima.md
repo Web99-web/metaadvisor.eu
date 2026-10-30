@@ -15,6 +15,7 @@ image_alt: "FOMC odluka, kamate i Bitcoin — tržišna reakcija"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["fed","fomc","kamate","makro","bitcoin","dionice","obveznice","dxy","press-konferencija","metaadvisor"]
 summary: "Fed je 17. rujna smanjio kamate za 0,25 postotnih bodova. Tržišta su prvo potonula, pa se brzo vratila. Ukratko: malo jeftiniji novac, ali bez obećanja brzog i velikog rezanja."
+categories: ["news"]
 ---
 
 ### Što je Fed odlučio — i što to znači “običnim riječima”

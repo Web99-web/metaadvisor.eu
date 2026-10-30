@@ -7,14 +7,15 @@ translationKey: "eu_india_tariffs_110_20260128"
 source: "Reuters / službene izjave EU i Indije"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/EU-India-tariffs.png"
-featured_image: "/images/EU-India-tariffs.png"
-image: "/images/EU-India-tariffs.png"
-thumbnail: "/images/EU-India-tariffs.png"
+image_url: "/images/EU-India-tariffs.webp"
+featured_image: "/images/EU-India-tariffs.webp"
+image: "/images/EU-India-tariffs.webp"
+thumbnail: "/images/EU-India-tariffs.webp"
 image_alt: "Zastave Europske unije i Indije – povijesni trgovinski sporazum"
 image_credit: "MetaAdvisor.eu"
 tags: ["eu-indija", "trgovinski-sporazum", "ukidanje-carina", "globalna-trgovina", "protekcionizam", "uvozne-carine", "ekonomija-eu", "ekonomija-indija"]
 summary: "Europska unija i Indija postigle su povijesni trgovinski dogovor kojim se ukidaju carine koje su godinama dosezale i do 110%, nakon gotovo dva desetljeća pregovora."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

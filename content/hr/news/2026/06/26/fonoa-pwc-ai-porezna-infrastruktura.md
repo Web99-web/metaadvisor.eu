@@ -7,14 +7,15 @@ translationKey: "fonoa-pwc-ai-porezna-infrastruktura-2026-06-26"
 source: "Fonoa, PwC, Dawn Capital, EU-Startups, The Recursive, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Fonoa-PWC-AI-tax.png"
-featured_image: "/images/companies/Fonoa-PWC-AI-tax.png"
-image: "/images/companies/Fonoa-PWC-AI-tax.png"
-thumbnail: "/images/companies/Fonoa-PWC-AI-tax.png"
+image_url: "/images/companies/Fonoa-PWC-AI-tax.webp"
+featured_image: "/images/companies/Fonoa-PWC-AI-tax.webp"
+image: "/images/companies/Fonoa-PWC-AI-tax.webp"
+thumbnail: "/images/companies/Fonoa-PWC-AI-tax.webp"
 image_alt: "Fonoa PwC and AI tax infrastructure"
 image_credit: "Metaadvisor.eu"
 tags: ["Fonoa", "PwC", "AI porezi", "porezna infrastruktura", "tax-tech", "indirect tax", "PDV", "GST", "sales tax", "e-računi", "porezni compliance", "AI infrastruktura", "hrvatski startup", "irski startup", "Dublin", "Zagreb", "enterprise AI", "Metaadvisor"]
 summary: "Fonoa, hrvatsko-irski tax-tech startup, prikupila je 110 milijuna dolara i preuzela PwC-ov Indirect Tax Edge. Prava priča nije samo u novcu, nego u novoj utrci za AI poreznu infrastrukturu, gdje umjetna inteligencija ima smisla tek kada radi na povezanim, točnim i provjerljivim podacima."
+categories: ["ai"]
 ---
 
 Slika je simbolična.
@@ -58,7 +59,7 @@ Fonoa ne prodaje aplikaciju koju će milijuni ljudi skinuti na mobitel. Ona grad
 
 <div style="border:1px solid #e5e7eb; border-radius:14px; padding:14px; margin:24px 0; background:#fff;">
   <a href="https://metaadvisor.eu/hr/news/hrvatski-tech-sp-2026-aircash-sofascore-suradnja/" target="_blank" rel="noopener" style="display:flex; gap:16px; align-items:center; text-decoration:none; color:inherit;">
-    <img src="/images/companies/Sofascore-Aircash-Cro-apps.png" alt="Hrvatski tech na SP 2026 Aircash i Sofascore suradnja" style="width:180px; max-width:38%; border-radius:10px; object-fit:cover;">
+    <img src="/images/companies/Sofascore-Aircash-Cro-apps.webp" alt="Hrvatski tech na SP 2026 Aircash i Sofascore suradnja" style="width:180px; max-width:38%; border-radius:10px; object-fit:cover;">
     <span>
       <span style="display:block; font-size:0.82em; color:#777; margin-bottom:5px; text-transform:uppercase; letter-spacing:0.04em;">Povezana priča</span>
       <strong style="display:block; font-size:1.08em; line-height:1.35; color:#111827;">Hrvatski tech na SP 2026: Aircash i Sofascore suradnja</strong>

@@ -7,14 +7,15 @@ translationKey: "a91c7f3d4b6e42c1a8d5f7e2c9b3d104"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse"
 source_url: ""
-image_url: "/images/news/Oil-WTI-111-Brent-108.png"
-featured_image: "/images/news/Oil-WTI-111-Brent-108.png"
-image: "/images/news/Oil-WTI-111-Brent-108.png"
-thumbnail: "/images/news/Oil-WTI-111-Brent-108.png"
+image_url: "/images/news/Oil-WTI-111-Brent-108.webp"
+featured_image: "/images/news/Oil-WTI-111-Brent-108.webp"
+image: "/images/news/Oil-WTI-111-Brent-108.webp"
+thumbnail: "/images/news/Oil-WTI-111-Brent-108.webp"
 image_alt: "WTI überholt Brent und signalisiert eine Veränderung am Ölmarkt"
 image_credit: "MetaAdvisor.eu"
 tags: ["wti","brent","öl","trump","energie","geopolitik","ölmarkt","supply","strasse von hormus"]
 summary: "WTI steigt über 111 Dollar und holt Brent ein, was auf eine mögliche Veränderung in der globalen Versorgung und die wachsende Bedeutung von US-Öl hindeutet."
+categories: ["energy"]
 ---
 
 _Das Bild ist symbolisch._

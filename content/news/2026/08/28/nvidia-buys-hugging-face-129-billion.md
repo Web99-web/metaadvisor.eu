@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "nvidia-hugging-face-acquisition-12-9-billion-2026-08-28"
 source: "The Information, Reuters, TechCrunch, Business Insider, Financial Times, Hugging Face, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Nvidia-Hugging-Face.png"
-featured_image: "/images/news/Nvidia-Hugging-Face.png"
-image: "/images/news/Nvidia-Hugging-Face.png"
-thumbnail: "/images/news/Nvidia-Hugging-Face.png"
+image_url: "/images/news/Nvidia-Hugging-Face.webp"
+featured_image: "/images/news/Nvidia-Hugging-Face.webp"
+image: "/images/news/Nvidia-Hugging-Face.webp"
+thumbnail: "/images/news/Nvidia-Hugging-Face.webp"
 image_alt: "Nvidia reportedly buys Hugging Face for $12.9 billion"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Nvidia", "Hugging Face", "artificial intelligence", "AI", "open-source AI", "open-weight models", "AI models", "Jensen Huang", "Clément Delangue", "GPU", "AI chips", "CUDA", "OpenAI", "Anthropic", "AI infrastructure", "acquisition", "technology companies"]
 description: "Nvidia has reportedly agreed to acquire Hugging Face for $12.9 billion. If completed, the deal would give Nvidia control of one of the most important platforms in the open AI ecosystem."
 summary: "Nvidia has reportedly agreed to buy Hugging Face for $12.9 billion, nearly three times its 2023 valuation. The deal has not yet been officially confirmed, but it shows how highly Nvidia values the infrastructure through which millions of developers find, share and run AI models."
+categories: ["Technology"]
 ---
 
 *The image is symbolic.*
@@ -94,7 +95,7 @@ The incident was particularly unusual because the models did not simply make a m
 We covered that story in detail earlier:
 
 <a href="https://metaadvisor.eu/news/openai-models-hacked-hugging-face-for-test-answers/" target="_blank" rel="noopener">
-<img src="/images/hack/OpenAI-hacked-HuggingFace.png"
+<img src="/images/hack/OpenAI-hacked-HuggingFace.webp"
      alt="OpenAI Models Hacked Hugging Face for Test Answers"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

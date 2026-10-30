@@ -7,14 +7,15 @@ translationKey: "near-ai-rally-5-usd-fomo-2026-05-25"
 source: "Metaadvisor.eu (Cointelegraph, CoinDesk, TradingView, Nvidia market reports)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Near.png"
-featured_image: "/images/Near.png"
-image: "/images/Near.png"
-thumbnail: "/images/Near.png"
+image_url: "/images/Near.webp"
+featured_image: "/images/Near.webp"
+image: "/images/Near.webp"
+thumbnail: "/images/Near.webp"
 image_alt: "NEAR Protocol AI rally, blockchain sharding and crypto market momentum concept"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "kripto", "near", "near protocol", "ai", "umjetna inteligencija", "ai tokeni", "ai crypto", "blockchain", "sharding", "shard", "dynamic resharding", "skaliranje", "crypto rally", "altcoin", "altcoins", "fomo", "short squeeze", "short liquidations", "nvidia", "tradingview", "defi", "web3", "autonomni agenti", "ai agenti", "crypto tržište", "volatilnost"]
 summary: "NEAR je snažno porastao zajedno s AI tokenima, uz dodatni poticaj mrežnih nadogradnji, short likvidacija i šireg optimizma oko AI sektora. Ipak, cilj od 5 USD treba čitati oprezno jer cijena još nije stabilno probila ni 3 USD."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

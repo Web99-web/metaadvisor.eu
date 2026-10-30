@@ -8,14 +8,15 @@ author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/America-DOJ-Department-of-Justice.png"
-featured_image: "/images/America-DOJ-Department-of-Justice.png"
-image: "/images/America-DOJ-Department-of-Justice.png"
-thumbnail: "/images/America-DOJ-Department-of-Justice.png"
+image_url: "/images/America-DOJ-Department-of-Justice.webp"
+featured_image: "/images/America-DOJ-Department-of-Justice.webp"
+image: "/images/America-DOJ-Department-of-Justice.webp"
+thumbnail: "/images/America-DOJ-Department-of-Justice.webp"
 image_alt: "Department of Justice Gebäude USA"
 image_credit: "Illustration"
 tags: ["crypto","krypto","manipulation","wash trading","doj","usa","regulierung","handel","altcoin","bitcoin"]
 summary: "Das US-Justizministerium hat 10 Personen im Zusammenhang mit Kryptounternehmen wegen künstlicher Volumenerzeugung und Marktmanipulation angeklagt, was Fragen zur Zuverlässigkeit von Marktdaten aufwirft."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -7,14 +7,15 @@ translationKey: "d3f9c7a2b6e41e8f9a5c2d7e4b1a9f33"
 source: "Metaadvisor (Reuters, Teslarati, NotATeslaApp, industry sources)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/robotaxi.png"
-featured_image: "/images/robotaxi.png"
-image: "/images/robotaxi.png"
-thumbnail: "/images/robotaxi.png"
+image_url: "/images/robotaxi.webp"
+featured_image: "/images/robotaxi.webp"
+image: "/images/robotaxi.webp"
+thumbnail: "/images/robotaxi.webp"
 image_alt: "Tesla robotaxi testing in Dallas"
 image_credit: "Metaadvisor.eu"
 tags: ["tesla", "robotaxi", "ai", "autonomous vehicles", "dallas", "texas", "elon musk", "self driving", "tech", "future"]
 summary: "Tesla is accelerating robotaxi development in Dallas, moving from announcements to concrete preparation for autonomous mobility."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

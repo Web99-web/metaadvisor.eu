@@ -16,6 +16,7 @@ image_alt: "Bitcoin — symbolic illustration"
 image_credit: "Metaadvisor.eu — symbolic image"
 tags: ["crypto", "bitcoin", "BTC", "technical analysis", "ATH", "200WMA", "realized-price", "weekly-close", "liquidity", "ETF"]
 summary: "Bitcoin closed the week at a record high. Three reference points — 200WMA, realized price and weekly close — point to an early bull continuation, with caution about overheating."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

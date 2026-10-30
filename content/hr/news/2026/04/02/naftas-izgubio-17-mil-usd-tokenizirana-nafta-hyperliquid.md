@@ -7,14 +7,15 @@ translationKey: "244931044107a438428d596a06366fbb"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (CoinDesk, CoinGlass, tržišni podaci)"
 source_url: ""
-image_url: "/images/news/oil-trader-lost-17m-usd.png"
-featured_image: "/images/news/oil-trader-lost-17m-usd.png"
-image: "/images/news/oil-trader-lost-17m-usd.png"
-thumbnail: "/images/news/oil-trader-lost-17m-usd.png"
+image_url: "/images/news/oil-trader-lost-17m-usd.webp"
+featured_image: "/images/news/oil-trader-lost-17m-usd.webp"
+image: "/images/news/oil-trader-lost-17m-usd.webp"
+thumbnail: "/images/news/oil-trader-lost-17m-usd.webp"
 image_alt: "Likvidacija od 17 milijuna USD na tokeniziranoj nafti na Hyperliquid platformi"
 image_credit: "MetaAdvisor.eu"
 tags: ["nafta", "tokenizirana nafta", "hyperliquid", "bitcoin", "kripto", "likvidacije", "leverage", "trgovanje", "defi", "geopolitika", "iran", "trump", "short", "long"]
 summary: "Trader je izgubio više od 17 milijuna USD na tokeniziranoj nafti na Hyperliquid platformi, dok su tržišta reagirala na geopolitičke vijesti i nagli rast cijene nafte."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

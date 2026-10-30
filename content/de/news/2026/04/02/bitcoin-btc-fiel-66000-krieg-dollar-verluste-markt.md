@@ -14,6 +14,7 @@ thumbnail: "/images/BTC-down.png"
 image_alt: "Bitcoin Marktrückgang Diagramm"
 tags: ["bitcoin", "krypto", "dollar", "öl", "inflation", "geopolitik", "markt"]
 summary: "Bitcoin fiel auf etwa 66.000 USD, während geopolitische Spannungen, ein stärkerer Dollar und fast 600 Milliarden USD an nicht realisierten Verlusten starken Druck auf den Markt ausüben."
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

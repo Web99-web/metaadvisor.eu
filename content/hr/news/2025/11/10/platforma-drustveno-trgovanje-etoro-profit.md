@@ -15,6 +15,7 @@ image_alt: "eToro logo with slogan 'Your social investment network'"
 image_credit: "Metaadvisor.eu"
 tags: ["etoro", "ai", "investing", "crypto", "finance", "business", "društveno trgovanje"]
 summary: "eToro bilježi rast od 48% u profitu i planira otkup dionica od 150 milijuna USD. Platforma kombinira društveno trgovanje, umjetnu inteligenciju i kriptoinvesticije — novi val fintech inovacija."
+categories: ["business"]
 ---
 
 **Platforma za društveno trgovanje i investiranje eToro** (Nasdaq: ETOR) izvijestila je o **48% većem profitu** i najavila **program otkupa dionica od 150 milijuna USD**, što je potaknulo rast cijene dionice za gotovo 7% na Nasdaq burzi.

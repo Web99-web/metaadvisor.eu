@@ -15,6 +15,7 @@ image_alt: "Bitcoin cijena i potraga za tržišnim dnom nakon snažne korekcije"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "pad bitcoina", "bitcoin dno", "kripto tržište", "btc analiza", "etf bitcoin", "likvidacije", "bear market"]
 summary: "Bitcoin se nakon snažnog pada oporavio prema 67.000 USD, no tržište i dalje ne pokazuje jasne znakove formiranja dna. Ključno pitanje ostaje: slijedi li stabilizacija ili još jedan pad prema 58.000 ili čak 50.000 USD?"
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

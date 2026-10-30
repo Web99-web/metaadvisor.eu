@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242
 summary: "Instead, a jury awarded plaintiffs $242.5 million in compensatory and punitive damages."
 tags: ["tesla","autopilot","verdict","lawsuit","miami","jury","settlement","transportation"]
 image_url: "https://techcrunch.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-20-at-12.40.05-pm.png?w=1200"
+categories: ["news"]
 ---
 
 Months before a jury awarded a **$242.5 million** verdict against Tesla over its culpability in a 2019 fatal crash, the automaker had a chance to settle for **$60 million**. Instead, Tesla rejected that offer, according to new legal filings that were first reported by Reuters.

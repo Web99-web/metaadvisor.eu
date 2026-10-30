@@ -28,6 +28,7 @@ tags:
   - funding
   - iv
 summary: "BTC je ignorirao PCE podatke i kliznuo ispod 109.000 $, čime je oštećena kratkoročna struktura. Fokus je na likvidnosti prema 107.000 $ te na isteku opcija i funding/IV dinamici."
+categories: ["crypto"]
 ---
 
 **Kratko:** Unatoč objavi **PCE inflacije** (ključni Fedov indikator), **BTC** nije našao kupce već je **probio 109.000 $**. Tehnički, time je narušen niz intradnevnih viših minima, a pažnja se prebacuje na **likvidnoski džep oko 107.000 $** i blizinu **mjesečnog isteka opcija**.

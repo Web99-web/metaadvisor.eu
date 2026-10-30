@@ -16,6 +16,7 @@ image_alt: "TeraWulf Q3 Umsatzanstieg"
 image_credit: "Metaadvisor.eu"
 tags: ["terawulf", "bitcoin", "mining", "usa", "profit", "hashrate", "crypto", "markt", "infrastruktur", "btc", "energie"]
 summary: "Der US-Bitcoin-Miner TeraWulf hat seine Umsätze im dritten Quartal verdoppelt und bestätigt damit die starke Erholung der Mining-Industrie in den USA."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

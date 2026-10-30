@@ -15,6 +15,7 @@ image_alt: "South Korea delays digital asset law over stablecoin issuance debate
 image_credit: "MetaAdvisor illustration"
 tags: ["kripto", "stablecoin", "regulacija", "južna koreja", "digitalna imovina", "fintech", "banke"]
 summary: "Dugo najavljeni zakon o digitalnoj imovini u Južnoj Koreji ponovno je odgođen zbog spora regulatora oko toga tko smije izdavati stablecoine vezane uz korejski won."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

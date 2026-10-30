@@ -7,10 +7,10 @@ translationKey: "dubai_insurance_crypto_wallet_20260130"
 source: "Cointelegraph / MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Dubai-Insurance-crypto.png"
-featured_image: "/images/Dubai-Insurance-crypto.png"
-image: "/images/Dubai-Insurance-crypto.png"
-thumbnail: "/images/Dubai-Insurance-crypto.png"
+image_url: "/images/Dubai-Insurance-crypto.webp"
+featured_image: "/images/Dubai-Insurance-crypto.webp"
+image: "/images/Dubai-Insurance-crypto.webp"
+thumbnail: "/images/Dubai-Insurance-crypto.webp"
 image_alt: "Dubai Insurance führt Krypto-Wallet für Versicherungen ein"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -26,6 +26,7 @@ tags:
   - kryptoregulierung
   - institutionelle adoption
 summary: "Dubai Insurance hat ein Krypto-Wallet eingeführt, das es Kundinnen und Kunden ermöglicht, Versicherungsprämien zu zahlen und Schadensersatzleistungen in digitalen Vermögenswerten zu erhalten. Es handelt sich um das erste Angebot dieser Art im Versicherungssektor der VAE – innerhalb eines regulierten Rahmens."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

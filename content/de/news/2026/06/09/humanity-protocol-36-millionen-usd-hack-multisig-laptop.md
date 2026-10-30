@@ -7,14 +7,15 @@ translationKey: "humanity-protocol-hack-multisig-laptop-2026-06-09"
 source: "CoinDesk, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Humanity-protocol-hack-36M.png"
-featured_image: "/images/hack/Humanity-protocol-hack-36M.png"
-image: "/images/hack/Humanity-protocol-hack-36M.png"
-thumbnail: "/images/hack/Humanity-protocol-hack-36M.png"
+image_url: "/images/hack/Humanity-protocol-hack-36M.webp"
+featured_image: "/images/hack/Humanity-protocol-hack-36M.webp"
+image: "/images/hack/Humanity-protocol-hack-36M.webp"
+thumbnail: "/images/hack/Humanity-protocol-hack-36M.webp"
 image_alt: "Humanity Protocol hack 36M exploit symbolic image"
 image_credit: "MetaAdvisor.eu"
 tags: ["Humanity Protocol", "H token", "Crypto Hack", "Krypto Hack", "Private Key", "privater Schlüssel", "Multisig", "Multisignature Wallet", "Bridge Exploit", "BNB Chain", "Ethereum", "DeFi", "Crypto Security", "Krypto Sicherheit", "Token Crash", "Zero Knowledge", "digitale Identität", "Biometrie", "Worldcoin", "Crypto Theft", "Blockchain"]
 summary: "Humanity Protocol hat nach der Kompromittierung privater Schlüssel einen schweren Sicherheitsvorfall erlebt, während der H Token um mehr als 80 Prozent abstürzte. Der Fall zeigt, dass ein Multisig keine echte Schutzmaßnahme ist, wenn entscheidende Schlüssel schlecht gesichert sind oder auf demselben kompromittierten Gerät landen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

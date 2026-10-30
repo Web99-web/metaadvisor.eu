@@ -7,10 +7,10 @@ translationKey: "evolution_money_banks_defi_control_2026"
 source: "MetaAdvisor analysis (based on CoinDesk, Cointelegraph and regulatory reports)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Banks-want-control-crypto.png"
-featured_image: "/images/Banks-want-control-crypto.png"
-image: "/images/Banks-want-control-crypto.png"
-thumbnail: "/images/Banks-want-control-crypto.png"
+image_url: "/images/Banks-want-control-crypto.webp"
+featured_image: "/images/Banks-want-control-crypto.webp"
+image: "/images/Banks-want-control-crypto.webp"
+thumbnail: "/images/Banks-want-control-crypto.webp"
 image_alt: "Conflict between traditional banks and decentralized finance (DeFi)"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -25,6 +25,7 @@ tags:
   - monetary_system
   - evolution_of_money
 summary: "As banks and lawmakers seek to retain control over the financial system, DeFi offers an alternative where people can save, borrow and manage money without intermediaries. At the heart of the debate is no longer technology, but who holds power over money."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

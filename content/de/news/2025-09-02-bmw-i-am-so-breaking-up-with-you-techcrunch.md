@@ -9,6 +9,7 @@ summary: "Ich gebe meinen i4 zurück, da mein Leasing endet. Ich kann es kaum er
 tags: ["BMW","EV","TechCrunch","Review","Autos"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/09/bmw-i4-techcrunch.jpg?w=1200"
 image_url_small: "https://techcrunch.com/wp-content/uploads/2025/09/bmw-i4-techcrunch.jpg?w=600"
+categories: ["news"]
 ---
 
 Ich möchte gleich zu Beginn klarstellen: Ich war nie ein Autofan. Meine Fahrhistorie umfasst einen geerbten Volvo mit einem Loch im Boden und eine Reihe praktisch orientierter Fahrzeuge, darunter einen VW Golf und einen Mazda SUV, mit dem ich meine Familie 12 Jahre lang gefahren habe. Dann habe ich einen BMW i4 geleast.

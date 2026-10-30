@@ -27,6 +27,7 @@ tags:
   - funding
   - iv
 summary: "BTC ignorierte die PCE-Daten und fiel unter 109.000 $, was die kurzfristige Struktur beschädigt. Fokus auf Liquidität bei 107.000 $ sowie Optionen- und Funding-/IV-Dynamik."
+categories: ["crypto"]
 ---
 
 **Kurz:** Trotz Veröffentlichung der **PCE-Inflationsdaten** (wichtiger Fed-Indikator) fand **BTC** keine Käufer und **durchbrach die Marke von 109.000 $**. Damit wurde die kurzfristige Struktur verletzt. Jetzt rückt der **Liquiditätscluster bei 107.000 $** sowie der **Optionsverfall** in den Fokus.

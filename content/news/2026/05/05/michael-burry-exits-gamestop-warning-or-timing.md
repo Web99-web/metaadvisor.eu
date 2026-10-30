@@ -15,6 +15,7 @@ image_alt: "Michael Burry exits GameStop at a critical moment"
 image_credit: "Metaadvisor.eu"
 tags: ["michael burry", "gamestop", "stocks", "investing", "wall street", "retail investors", "financial analysis", "capital markets"]
 summary: "Michael Burry exits GameStop right as the company attempts its most ambitious move yet. The decision raises the question: is this a warning signal or smart timing?"
+categories: ["stocks"]
 ---
 
 *Image is symbolic.*

@@ -15,6 +15,7 @@ image_alt: "Strategy erwägt den Verkauf von Bitcoin nach einem großen Verlust"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "crypto", "strategy", "microstrategy", "saylor", "investieren", "trading", "aktien", "markt", "wall street", "dividenden", "schulden", "institutionell", "holder"]
 summary: "Strategy erwägt erstmals den Verkauf von Bitcoin, um Verpflichtungen und Dividenden nach einem massiven Verlust zu decken. Dieser Schritt könnte das Ende der 'never sell'-Strategie markieren."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

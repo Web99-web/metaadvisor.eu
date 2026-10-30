@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/news-analysis/2025/10/03/irs-guidance-limited-in-scope-but-good-news-for-crypto-treasury-firms"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/IRS.png"
-featured_image: "/images/IRS.png"
-image: "/images/IRS.png"
-thumbnail: "/images/IRS.png"
+image_url: "/images/IRS.webp"
+featured_image: "/images/IRS.webp"
+image: "/images/IRS.webp"
+thumbnail: "/images/IRS.webp"
 image_alt: "IRS logo and Bitcoin symbol"
 image_credit: "Metaadvisor.eu (symbolic graphic)"
 tags:
@@ -30,6 +30,7 @@ tags:
   - regulation
   - USA
 summary: "Interim IRS guidance shields the largest U.S. C-corps from CAMT taxes on unrealized crypto gains. The move eases pressure on firms like MicroStrategy and MARA that hold sizeable Bitcoin treasuries."
+categories: ["crypto"]
 ---
 
 The U.S. **Internal Revenue Service (IRS)** issued **interim guidance** that softens application of the **Corporate Alternative Minimum Tax (CAMT)** to **unrealized gains** at **large C-corporations**. In practice, companies above the “large taxpayer” threshold (C-corp, revenue > **$1B** based on book income) **won’t owe** the minimum tax on **paper gains** from certain assets — **including crypto**.

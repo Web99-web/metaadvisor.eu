@@ -7,14 +7,15 @@ translationKey: "0d7a6a59b3f44a82a4b1b0a6b6f2solflare"
 source: "debug.hr; Solflare; CoinBureau; Solana"
 source_url: "https://www.debug.hr/solflare-iznutra-kako-izgleda-graditi-wallet-za-milijune-korisnika/"
 author: "Metaadvisor.eu"
-image_url: "/images/solflare.png"
-featured_image: "/images/solflare.png"
-image: "/images/solflare.png"
-thumbnail: "/images/solflare.png"
+image_url: "/images/solflare.webp"
+featured_image: "/images/solflare.webp"
+image: "/images/solflare.webp"
+thumbnail: "/images/solflare.webp"
 image_alt: "Solflare — novčanik za Solana ekosustav"
 image_credit: "Vizual: Metaadvisor.eu (slika je simbolična)"
 tags: ["Solflare","Solana","wallet","self-custody","staking","Ledger","Keystone","DeFi","NFT","security","validatori"]
 summary: "Solflare je jedan od zrelijih self-custody walleta za Solanu: radi kao web/extension/mobilna aplikacija, podržava Ledger i Keystone, nativni i ‘liquid’ staking, te duboke DeFi/NFT integracije. Izdvajamo ključne prednosti, rizike i kome se isplati prijeći."
+categories: ["crypto"]
 ---
 
 **TL;DR:** **Solflare** je **non-custodial** novčanik fokusiran isključivo na **Solanu (SOL, SPL tokeni, NFT-ovi)**, dostupan kao **mobilna aplikacija** i **browser ekstenzija**. Ističe se **sigurnosnim modelom** (nativna podrška za **Ledger** i **Keystone**), vrlo dobrim **staking** iskustvom i **dApp/NFT** integracijama.

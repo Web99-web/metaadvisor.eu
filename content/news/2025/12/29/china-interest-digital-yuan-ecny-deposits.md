@@ -7,10 +7,10 @@ translationKey: "china_ecny_interest_2026"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today"
 author: "Metaadvisor.eu"
-image_url: "/images/China-Peoples-bank-yuan.png"
-featured_image: "/images/China-Peoples-bank-yuan.png"
-image: "/images/China-Peoples-bank-yuan.png"
-thumbnail: "/images/China-Peoples-bank-yuan.png"
+image_url: "/images/China-Peoples-bank-yuan.webp"
+featured_image: "/images/China-Peoples-bank-yuan.webp"
+image: "/images/China-Peoples-bank-yuan.webp"
+thumbnail: "/images/China-Peoples-bank-yuan.webp"
 image_alt: "People’s Bank of China and the digital yuan e-CNY"
 image_credit: "Illustration / MetaAdvisor"
 tags:
@@ -22,6 +22,7 @@ tags:
   - monetary policy
   - digital money
 summary: "Starting in 2026, Chinese banks will be allowed to pay interest on digital yuan balances. This marks a major shift as e-CNY evolves from digital cash into a digital deposit instrument."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

@@ -16,6 +16,7 @@ image_alt: "Kalshi i Solana ilustracija"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["crypto","kripto","solana","prediction","tržišta","tokenizacija","web3","politika","makro","financije"]
 summary: "Kalshi je pokrenuo tokenizirane verzije svojih event ugovora na Solani, otvarajući put spajanju reguliranih tržišta i kripto likvidnosti."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

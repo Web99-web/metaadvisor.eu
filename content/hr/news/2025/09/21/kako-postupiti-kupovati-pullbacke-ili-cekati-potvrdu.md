@@ -13,6 +13,7 @@ image_alt: "BTC/ETH — simbolični pregled tržišta"
 image_credit: "Metaadvisor (simbolična slika)"
 tags: ["kripto-strategija", "pullback", "trend-follow", "DCA", "ETF-tokovi", "DXY", "funding", "OI", "spot-vs-perps", "upravljanje-rizikom"]
 summary: "Bez pogađanja dna: dva praktična puta za ulaz — kupnja slabosti u tranšama ili kupnja snage tek nakon potvrde — uz jasne invalidacije i brzi kompas signala."
+categories: ["education"]
 ---
 
 **Ukratko:**  

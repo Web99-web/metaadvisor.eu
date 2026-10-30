@@ -16,6 +16,7 @@ image_alt: "Aktien- und Bitcoin-Rückgang — symbolische Finanz-Illustration"
 image_credit: "Bild ist symbolisch."
 tags: ["btctc","bitcoin","treasury","aktien","krypto","maerkte","volatilitaet"]
 summary: "Der 2025er Schwung der sogenannten Bitcoin-Treasury-Unternehmen (BTCTC) ist verflogen: deutliche Kursverluste, während Metaplanet, KindlyMD, Strive und Strategy Strategien zum Comeback erläutern."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

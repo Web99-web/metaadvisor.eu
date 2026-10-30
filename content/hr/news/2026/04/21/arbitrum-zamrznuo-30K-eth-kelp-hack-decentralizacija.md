@@ -7,14 +7,15 @@ translationKey: "fa0e92228ecb082e242de40982c7823b"
 source: "Metaadvisor (Cointelegraph, The Block, Decrypt, CoinDesk)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.png"
-featured_image: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.png"
-image: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.png"
-thumbnail: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.png"
+image_url: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.webp"
+featured_image: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.webp"
+image: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.webp"
+thumbnail: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.webp"
 image_alt: "Arbitrum zamrzava 30K ETH nakon Kelp hacka"
 image_credit: "Metaadvisor.eu"
 tags: ["kripto", "crypto", "arbitrum", "ethereum", "eth", "kelpdao", "hack", "defi", "aave", "layerzero", "security", "blockchain", "decentralizacija"]
 summary: "Arbitrum je zamrznuo više od 30.000 ETH povezanih s Kelp hackom, čime je zaustavio širenje štete, ali i otvorio pitanje kako decentralizacija funkcionira u praksi."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

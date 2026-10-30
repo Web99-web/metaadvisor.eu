@@ -6,15 +6,16 @@ category: "business"
 translationKey: "eu-carine-kineske-auto-gume-2026-08-14"
 source: "European Commission, EUR-Lex"
 author: "Metaadvisor.eu"
-image_url: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
-featured_image: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
-image: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
-thumbnail: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
+image_url: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
+featured_image: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
+image: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
+thumbnail: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
 image_alt: "Kineske automobilske gume i nove antidampinške carine Europske unije"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["EU", "Kina", "automobilske gume", "carine", "antidamping", "Europska komisija", "uvoz", "automobilska industrija", "cijene", "trgovina"]
 description: "Europska unija uvela je konačne antidampinške carine na određene kineske gume za osobne automobile i laka gospodarska vozila. Stope za pojedine proizvođače dosežu više od 45 posto."
 summary: "Kineske automobilske gume nisu zabranjene u EU, ali nove antidampinške carine mogle bi značajno promijeniti njihove cijene i konkurentnost na europskom tržištu."
+categories: ["business"]
 ---
 
 *Slika je simbolična.*

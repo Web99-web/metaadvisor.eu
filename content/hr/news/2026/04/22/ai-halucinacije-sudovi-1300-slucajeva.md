@@ -7,14 +7,15 @@ translationKey: "044f5dce575870508766c5a03ecef47c"
 source: "Metaadvisor (Cointelegraph, Reuters, Bloomberg Law, The New York Times, The Guardian)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/AI-hallucinates-in-courts-1300-cases.png"
-featured_image: "/images/news/AI-hallucinates-in-courts-1300-cases.png"
-image: "/images/news/AI-hallucinates-in-courts-1300-cases.png"
-thumbnail: "/images/news/AI-hallucinates-in-courts-1300-cases.png"
+image_url: "/images/news/AI-hallucinates-in-courts-1300-cases.webp"
+featured_image: "/images/news/AI-hallucinates-in-courts-1300-cases.webp"
+image: "/images/news/AI-hallucinates-in-courts-1300-cases.webp"
+thumbnail: "/images/news/AI-hallucinates-in-courts-1300-cases.webp"
 image_alt: "AI halucinacije u sudovima i pravni sustav"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["ai","umjetna inteligencija","ai halucinacije","sudovi","pravni sustav","chatgpt","ai moderacija","meta","facebook","instagram","tehnologija"]
 summary: "Više od 1300 slučajeva AI halucinacija u sudovima otkriva ozbiljan problem: umjetna inteligencija generira uvjerljive, ali netočne informacije s realnim posljedicama."
+categories: ["ai"]
 ---
 
 

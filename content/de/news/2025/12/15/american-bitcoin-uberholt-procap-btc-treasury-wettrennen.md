@@ -15,6 +15,7 @@ image_alt: "American Bitcoin und steigende Unternehmens-BTC-Reserven"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","treasury","unternehmen","american-bitcoin","procap","trump","krypto","institutionen"]
 summary: "American Bitcoin, unterstützt von Eric Trump, hat ProCap bei den Unternehmens-BTC-Beständen überholt. Trotz Marktvolatilität wächst der Trend der Bitcoin-Akkumulation im Corporate-Sektor weiter."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

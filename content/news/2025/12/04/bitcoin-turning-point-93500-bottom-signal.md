@@ -16,6 +16,7 @@ image_alt: "Bitcoin market trend illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","markets","analysis","nasdaq","correlation","bottom","recovery","volatility","fed","rate-cuts","bearish","bullish","macro","crypto"]
 summary: "Bitcoin rejects at $93.5K while its renewed negative correlation with the Nasdaq once again hints at a potential market bottom."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

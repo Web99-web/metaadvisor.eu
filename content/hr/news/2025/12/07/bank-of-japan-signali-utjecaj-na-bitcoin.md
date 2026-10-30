@@ -15,6 +15,7 @@ image_alt: "Bank of Japan i utjecaj monetarne politike na Bitcoin"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","japan","boj","yen","carry trade","dovish","hawkish","macro","markets","inflacija","likvidnost","analiza"]
 summary: "Investitori različito tumače signale Bank of Japan — od popustljive monetarne politike do mogućih promjena u kontroli prinosa. Što sve to znači za Bitcoin i globalnu likvidnost?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

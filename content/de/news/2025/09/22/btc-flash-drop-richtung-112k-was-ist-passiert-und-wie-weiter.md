@@ -5,14 +5,15 @@ date: 2025-09-22T08:10:00Z
 category: "news"
 translationKey: "c2e6f8a7d2d04e1a86b0e4e9d1a112ff"
 author: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "BTC Flash Drop — symbolische Illustration"
 image_credit: "Metaadvisor (symbolisches Bild)"
 tags: ["Bitcoin","BTC","Flash-Drop","Long-Squeeze","Liquidationen","Derivate","Funding","Open-Interest","DXY","ETF","Spot-vs-Perps","Liquidität","Makro","Konsolidierung"]
 summary: "Der morgendliche Rutsch bis ~112k wurde durch einen derivatelastigen Long-Squeeze begünstigt, verstärkt von einem festeren US-Dollar und uneinheitlichen ETF-Flows. Hier ist die Kurz-Erklärung und was in den nächsten 72 Stunden zählt."
+categories: ["news"]
 ---
 
 **Kurz & knapp:**  

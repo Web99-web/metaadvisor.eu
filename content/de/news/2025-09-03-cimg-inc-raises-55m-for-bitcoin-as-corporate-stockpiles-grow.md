@@ -8,6 +8,7 @@ source_url: "https://metaadvisor.eu/"
 summary: "CIMG Inc. hat durch die Ausgabe neuer Aktien 55 Mio. USD gesammelt, um 500 BTC zu kaufen – ein weiterer Schritt im Trend der Bitcoin-Reserven in Unternehmensbilanzen."
 tags: ["bitcoin", "BTC", "crypto", "treasury", "unternehmen", "investitionen"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
+categories: ["crypto"]
 ---
 
 Das US-Unternehmen **CIMG Inc.** hat durch eine Aktienemission **55 Millionen USD** eingenommen, die für den Kauf von **500 Bitcoin (BTC)** verwendet werden sollen. Damit setzt das Unternehmen auf eine wachsende Strategie, Kryptowährungen direkt in die Unternehmensbilanz aufzunehmen.

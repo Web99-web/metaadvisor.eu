@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/cftc-chair-crypto-nominees-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/chair.png"
-featured_image: "/images/chair.png"
-image: "/images/chair.png"
-thumbnail: "/images/chair.png"
+image_url: "/images/chair.webp"
+featured_image: "/images/chair.webp"
+image: "/images/chair.webp"
+thumbnail: "/images/chair.webp"
 image_alt: "Uredska stolica — simbol nove čelne pozicije"
 image_credit: "Metaadvisor.eu (simbolična grafika)"
 tags:
@@ -22,6 +22,7 @@ tags:
   - leadership
   - policy
 summary: "Nakon odlaska Rostina Behnama započela su nagađanja tko bi mogao postati novi predsjednik američke CFTC agencije — ključnog regulatora tržišta derivata i kripta."
+categories: ["ai"]
 ---
 
 Prema pisanju Cointelegrapha, nakon odlaska aktualnog predsjednika **Rostina Behnama** u Washingtonu su krenula nagađanja oko toga **tko bi mogao preuzeti kormilo** američke **Commodity Futures Trading Commission (CFTC)**.  

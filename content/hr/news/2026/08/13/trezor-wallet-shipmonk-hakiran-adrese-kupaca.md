@@ -6,15 +6,16 @@ category: "cybersecurity"
 translationKey: "trezor-shipmonk-data-breach-2026-08-13"
 source: "Trezor, Financial Times, BleepingComputer, CoinDesk"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Trezor-partner-ShipMonk-hacked.png"
-featured_image: "/images/hack/Trezor-partner-ShipMonk-hacked.png"
-image: "/images/hack/Trezor-partner-ShipMonk-hacked.png"
-thumbnail: "/images/hack/Trezor-partner-ShipMonk-hacked.png"
+image_url: "/images/hack/Trezor-partner-ShipMonk-hacked.webp"
+featured_image: "/images/hack/Trezor-partner-ShipMonk-hacked.webp"
+image: "/images/hack/Trezor-partner-ShipMonk-hacked.webp"
+thumbnail: "/images/hack/Trezor-partner-ShipMonk-hacked.webp"
 image_alt: "Trezor hardware wallet i sigurnosni incident kod logističkog partnera ShipMonk"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Trezor", "trezor wallet", "ShipMonk", "hardware wallet", "cold wallet", "data breach", "hakeri", "Bitcoin", "crypto", "phishing", "cybersecurity"]
 description: "Hakiran je Trezorov logistički partner ShipMonk, a procurili su osobni podaci gotovo 14.000 kupaca hardware walleta, uključujući i kućne adrese dijela korisnika."
 summary: "Trezor walleti i privatni ključevi nisu kompromitirani, ali napadači su preko logističkog partnera ShipMonk došli do podataka 13.689 kupaca. Za 11.742 osobe izložene su i pune adrese za dostavu."
+categories: ["cybersecurity"]
 ---
 
 *Slika je simbolična.*

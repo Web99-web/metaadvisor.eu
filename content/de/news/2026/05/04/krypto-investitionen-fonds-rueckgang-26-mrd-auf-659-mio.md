@@ -3,7 +3,7 @@ title: "Schock am Kryptomarkt: Investitionen von Fonds fallen von 2,6 Mrd. auf 6
 slug: "krypto-investitionen-fonds-rueckgang-26-mrd-auf-659-mio"
 date: 2026-05-04T06:00:00+02:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-05-04"
 source: "Metaadvisor (Cointelegraph, CryptoRank, The Block, CoinDesk)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
@@ -15,6 +15,7 @@ image_alt: "Rückgang von Investitionen in Krypto-Startups und Kapitalmärkte"
 image_credit: "Metaadvisor.eu"
 tags: ["krypto investitionen", "investitionsrueckgang", "startup finanzierung", "kryptomarkt", "blockchain investitionen", "fonds investitionen", "krypto analyse", "finanztrends", "krypto kapital", "web3 finanzierung"]
 summary: "Die Investitionen von Fonds in Krypto-Startups sind von 2,6 Milliarden USD im März auf nur 659 Millionen USD im April gefallen – einer der stärksten Rückgänge der letzten zwei Jahre und ein Zeichen für strukturelle Veränderungen im Markt."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

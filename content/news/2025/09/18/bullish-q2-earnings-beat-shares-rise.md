@@ -16,6 +16,7 @@ image_alt: "Crypto markets — earnings and stock moves"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","exchanges","bullish","earnings","markets","stocks","metaadvisor"]
 summary: "Bullish reported a stronger-than-expected Q2, lifting its shares. Investors are rewarding exchanges with repeatable fee income, rising volumes and cost control."
+categories: ["crypto"]
 ---
 
 **Bullish** delivered a **Q2 beat**, underscoring that in a **softening-rate** backdrop (post-Fed cut) the market pays up for **predictable revenue**. When **volumes improve** and **fees/custody** hold up, the P&L looks healthier — regardless of day-to-day crypto swings.

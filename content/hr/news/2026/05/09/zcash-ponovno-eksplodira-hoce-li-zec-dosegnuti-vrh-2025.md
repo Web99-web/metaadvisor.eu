@@ -15,6 +15,7 @@ image_alt: "Zcash ZEC ponovno snažno raste na kripto tržištu"
 image_credit: "Metaadvisor.eu"
 tags: ["zcash", "zec", "privacy coin", "crypto", "kripto", "altcoin", "futures", "bitcoin", "trading", "short squeeze", "market", "volatilnost", "defi", "crypto market", "metaadvisor"]
 summary: "Zcash (ZEC) ponovno privlači pažnju tržišta nakon snažnog rasta iznad 600 USDT. Trgovci sada raspravljaju može li ZEC ponovno dosegnuti vrh iz studenog 2025. godine."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

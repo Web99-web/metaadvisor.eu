@@ -16,6 +16,7 @@ image_alt: "Grafikon volumena i open interesta — ilustracija za DEX/CEX deriva
 image_credit: "Metaadvisor.eu (simbolična slika)"
 tags: ["crypto","derivati","perpetuals","DEX","CEX","Hyperliquid","Aster","Lighter","BitMEX","Stephan Lutz","Token2049","incentivi","likvidnost","volatilnost"]
 summary: "Na Token2049 u Singapuru, BitMEX-ov CEO Stephan Lutz procjenjuje da će hype oko perp DEX-eva splasnuti jer se previše oslanjaju na token-nagrade i rabate. Aster i Lighter kratkoročno guraju volumene, ali pitanje je što ostaje kad se poticaji smanje."
+categories: ["crypto"]
 ---
 
 **SINGAPUR —** Do idućeg **Token2049**-a današnji **perp DEX** pobjednici (npr. **Hyperliquid**, **Aster**, **Lighter**) možda više neće dominirati, kaže **Stephan Lutz** (CEO **BitMEX-a**). Razlog: **modeli ovisni o poticajima** krhki su i teško održivi.

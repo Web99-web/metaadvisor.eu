@@ -7,10 +7,10 @@ translationKey: "uk_court_game_gold_real_property_20260130"
 source: "MetaAdvisor analysis / legal precedent"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/UK-court-game-gold-real-property.png"
-featured_image: "/images/UK-court-game-gold-real-property.png"
-image: "/images/UK-court-game-gold-real-property.png"
-thumbnail: "/images/UK-court-game-gold-real-property.png"
+image_url: "/images/UK-court-game-gold-real-property.webp"
+featured_image: "/images/UK-court-game-gold-real-property.webp"
+image: "/images/UK-court-game-gold-real-property.webp"
+thumbnail: "/images/UK-court-game-gold-real-property.webp"
 image_alt: "UK court rules video game gold is real property"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -25,6 +25,7 @@ tags:
   - crypto and law
   - ownership rights
 summary: "A UK court has ruled that virtual gold from a video game qualifies as real property under the law. The decision marks a historic shift in how digital assets, gaming economies and ownership rights are treated."
+categories: ["news"]
 ---
 
 # UK court shock ruling: video game gold is now legally real property

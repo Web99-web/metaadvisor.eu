@@ -9,6 +9,7 @@ summary: "Ether je probio 4.900 $ na nove vrhunce, a grafovi pokazuju snažan mo
 tags: ["crypto","ethereum","eth","price-discovery","tradingview","miles-deutsher","crypto-rover","supply","exchange-reserves"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/ab9ea8c9d8346f05438e6f0a8739ddc6e4639afa-1920x1242.jpg?auto=format"
 image_alt: "Ethereum logo (Zoltan Tasi/Unsplash)"
+categories: ["crypto"]
 ---
 
 Ether (ETH) u nedjelju je ušao na neistražen teritorij, probivši **4.900 $** na Coinbaseu u **17:40 UTC** i nadmašivši prethodni rekord od **4.867 $** postavljen **8. studenoga 2021.**

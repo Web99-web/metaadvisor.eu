@@ -23,6 +23,7 @@ tags:
   - kryptomarkt
   - analyse
 summary: "Fidelity ist der Ansicht, dass der vierjährige Bitcoin-Zyklus trotz ETFs und institutionellem Kapital weiterhin besteht. Laut Analyse könnte 2026 ein ruhiges und schwaches Jahr vor der nächsten Wachstumsphase werden."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

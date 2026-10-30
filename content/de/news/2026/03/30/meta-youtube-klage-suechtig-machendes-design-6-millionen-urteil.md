@@ -7,15 +7,16 @@ translationKey: "meta_youtube_addiction_case_6m_20260330"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (Reuters, NPR, Guardian, Yahoo Finance, Courthouse News)"
 source_url: ""
-image_url: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
-featured_image: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
-image: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
-thumbnail: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
+image_url: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
+featured_image: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
+image: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
+thumbnail: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
 image_alt: "Meta und YouTube verlieren Klage wegen süchtig machendem Design"
 image_credit: "MetaAdvisor.eu"
 tags: ["meta", "youtube", "klage", "sucht", "ai", "soziale netzwerke", "technologie"]
 summary: "Eine Nutzerin konnte nachweisen, dass Meta und YouTube Plattformen entwickelt haben, die süchtig machen — das Gericht ordnete eine Zahlung von 6 Millionen Dollar an. Das Urteil könnte die Tür für mehr als 1000 ähnliche Klagen öffnen."
 symbolic_image: true
+categories: ["tech"]
 ---
 
 *Das Bild ist symbolisch.*

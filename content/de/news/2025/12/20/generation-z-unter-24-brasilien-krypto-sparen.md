@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "coindesk.com"
 author: "CoinDesk — Analyse von MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/brazil.png"
-featured_image: "/images/brazil.png"
-image: "/images/brazil.png"
-thumbnail: "/images/brazil.png"
+image_url: "/images/brazil.webp"
+featured_image: "/images/brazil.webp"
+image: "/images/brazil.webp"
+thumbnail: "/images/brazil.webp"
 image_alt: "Brasilianische Flagge – Generation Z und Krypto-Sparen in Brasilien"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -24,6 +24,7 @@ tags:
   - tokenisierung
   - rwa
 summary: "In Brasilien wird der Krypto-Boom nicht von Spekulanten getragen, sondern von jungen Menschen unter 24, die Stablecoins und tokenisierte Produkte als digitale Sparform nutzen."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

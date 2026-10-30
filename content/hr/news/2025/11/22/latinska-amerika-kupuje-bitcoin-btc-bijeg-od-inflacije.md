@@ -6,15 +6,16 @@ category: "crypto"
 translationKey: "latam-btc-inflation-treasuries"
 source: "MetaAdvisor"
 source_url: "https://metaadvisor.eu/hr/news/latinska-amerika-kupuje-bitcoin-btc-bijeg-od-inflacije"
-image_url: "/images/Latin-America-BTC.png"
-featured_image: "/images/Latin-America-BTC.png"
-image: "/images/Latin-America-BTC.png"
-thumbnail: "/images/Latin-America-BTC.png"
+image_url: "/images/Latin-America-BTC.webp"
+featured_image: "/images/Latin-America-BTC.webp"
+image: "/images/Latin-America-BTC.webp"
+thumbnail: "/images/Latin-America-BTC.webp"
 image_alt: "Latinska Amerika Bitcoin trezori"
 image_credit: "MetaAdvisor.eu"
 tags: ["latinska amerika", "inflacija", "bitcoin", "kripto trezori", "ripio", "microstrategy", "michael saylor", "el salvador", "brazil", "financijska pismenost", "btc"]
 
 summary: "Latinska Amerika bježi u Bitcoin zbog razorne inflacije, a korporativni kripto trezori eksplodiraju. Ripio sada ulazi među najveće svjetske BTC trezore — veće čak i od MicroStrategy po relativnom utjecaju na regiju."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

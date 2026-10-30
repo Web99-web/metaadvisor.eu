@@ -15,6 +15,7 @@ image_alt: "XRP steigt nach starkem Rückgang, während Investoren akkumulieren"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["xrp", "ripple", "kryptowährungen", "bitcoin", "ether", "binance", "buy the dip", "akkumulation", "kryptomarkt", "blockchain", "digitale vermögenswerte"]
 summary: "XRP verzeichnet nach dem jüngsten Kurseinbruch eine starke Erholung und übertrifft Bitcoin und Ether, während Daten auf intensive Akkumulation durch Investoren hindeuten."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

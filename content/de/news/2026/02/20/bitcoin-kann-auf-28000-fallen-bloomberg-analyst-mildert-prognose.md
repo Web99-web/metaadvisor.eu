@@ -7,14 +7,15 @@ translationKey: "7fa7d1f4be204b4a857c7540ea7deb8e"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/02/19/mike-mcglone-softens-bitcoin-downside-target-to-usd28-000-after-backlash-over-usd10-000-call"
 author: "CoinDesk"
-image_url: "/images/btc-28.000.png"
-featured_image: "/images/btc-28.000.png"
-image: "/images/btc-28.000.png"
-thumbnail: "/images/btc-28.000.png"
+image_url: "/images/btc-28.000.webp"
+featured_image: "/images/btc-28.000.webp"
+image: "/images/btc-28.000.webp"
+thumbnail: "/images/btc-28.000.webp"
 image_alt: "Bitcoin-Szenario bei 28.000 USD"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["bitcoin", "btc", "krypto", "crypto", "Bloomberg", "makroökonomie", "rezession", "volatilität", "prognose", "kapitalmarkt", "FED"]
 summary: "Ein Bloomberg-Makroanalyst hat seine drastische Bitcoin-Prognose von 10.000 USD auf 28.000 USD abgeschwächt. Die Debatte wirft Fragen zur Makroökonomie, Volatilität und realen Risiken für den Kryptomarkt auf."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

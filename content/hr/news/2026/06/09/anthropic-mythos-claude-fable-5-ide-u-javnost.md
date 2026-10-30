@@ -7,14 +7,15 @@ translationKey: "anthropic-mythos-claude-fable-5-public-ai-safety-2026-06-09"
 source: "Reuters, Axios, Anthropic, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-featured_image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-thumbnail: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
+image_url: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+featured_image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+thumbnail: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
 image_alt: "Anthropic Mythos Claude Fable 5 AI model symbolic image"
 image_credit: "MetaAdvisor.eu"
 tags: ["Anthropic", "Claude Fable 5", "Mythos", "AI", "umjetna inteligencija", "cybersecurity", "kibernetička sigurnost", "AI sigurnost", "AI modeli", "frontier AI", "guardrails", "cyber rizik", "zero day", "Claude", "AI regulacija", "AI alati", "tehnologija", "digitalna sigurnost", "Metaadvisor"]
 summary: "Anthropic javno predstavlja Claude Fable 5, model iz Mythos klase, ali uz sigurnosna ograničenja za najosjetljivije cyber sposobnosti. Najveće pitanje ostaje može li se opasna AI sposobnost doista kontrolirati samo guardrailovima."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

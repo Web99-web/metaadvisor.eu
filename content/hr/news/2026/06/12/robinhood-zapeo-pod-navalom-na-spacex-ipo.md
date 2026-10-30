@@ -15,6 +15,7 @@ image_alt: "Robinhood aplikacija, SpaceX IPO i retail investitori"
 image_credit: "Metaadvisor.eu"
 tags: ["Robinhood", "SpaceX", "SpaceX IPO", "SPCX", "IPO", "retail investitori", "mali ulagači", "burza", "Nasdaq", "trgovanje dionicama", "brokerske aplikacije", "aplikacija", "tehnički problemi", "Downdetector", "Wall Street", "investiranje", "financijska tržišta", "Metaadvisor"]
 summary: "Robinhood je tijekom SpaceX IPO dana imao probleme zbog rekordnog prometa, što je pokazalo koliko retail investitori žele pristup velikim tržišnim događajima — ali i koliko je važna stabilna infrastruktura."
+categories: ["news"]
 ---
 
 Slika je simbolična.

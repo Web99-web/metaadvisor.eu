@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu – AI illustration, not an actual photograph of t
 tags: ["Tesla", "Tesla Roadster", "Elon Musk", "SpaceX", "flying car", "electric vehicles", "EV", "AI videos", "AI memes", "artificial intelligence", "automotive technology", "technology news"]
 description: "Tesla demonstrates a Roadster performing airborne maneuvers with SpaceX thrusters. What is real, what are viral AI memes, and when will it arrive?"
 summary: "On October 15, 2026, Tesla demonstrated the new Roadster in Texas, featuring compressed-gas thrusters, inverted driving and short airborne maneuvers. Futuristic videos of flying Teslas then flooded social media. We examine the technology, Tesla's acceleration claims, its 2028 production target and the difference between the real demonstration and AI-generated memes."
+categories: ["technology"]
 ---
 
 *The image is a symbolic AI illustration, not a photograph of the actual event.*

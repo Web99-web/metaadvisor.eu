@@ -6,15 +6,16 @@ category: "crypto"
 translationKey: "bitcoin-etf-outflows-futures-17-08-2026"
 source: "CoinDesk, Farside Investors"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/BTC-ETF-outflows.png"
-featured_image: "/images/daily-charts/BTC-ETF-outflows.png"
-image: "/images/daily-charts/BTC-ETF-outflows.png"
-thumbnail: "/images/daily-charts/BTC-ETF-outflows.png"
+image_url: "/images/daily-charts/BTC-ETF-outflows.webp"
+featured_image: "/images/daily-charts/BTC-ETF-outflows.webp"
+image: "/images/daily-charts/BTC-ETF-outflows.webp"
+thumbnail: "/images/daily-charts/BTC-ETF-outflows.webp"
 image_alt: "Bitcoin ETF odljevi i 48 milijardi dolara otvorenih BTC futures pozicija"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Bitcoin", "BTC", "Bitcoin ETF", "ETF outflows", "Bitcoin futures", "open interest", "crypto", "Federal Reserve", "FOMC"]
 description: "Američki spot Bitcoin ETF-ovi bilježe gotovo 248 milijuna dolara neto odljeva dok BTC ostaje oko 63.000 do 64.000 dolara, a futures open interest doseže oko 48 milijardi dolara."
 summary: "Bitcoin ETF-ovi zabilježili su tri uzastopna dana neto odljeva, dok vrlo nizak volumen i oko 48 milijardi dolara otvorenih futures pozicija povećavaju mogućnost snažnijeg pomaka kada BTC napokon izađe iz sadašnjeg raspona."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

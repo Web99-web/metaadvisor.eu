@@ -8,10 +8,10 @@ source: "The Guardian"
 source_url: "https://www.theguardian.com"
 author: "The Guardian"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Kids-protection-from-social-media.png"
-featured_image: "/images/Kids-protection-from-social-media.png"
-image: "/images/Kids-protection-from-social-media.png"
-thumbnail: "/images/Kids-protection-from-social-media.png"
+image_url: "/images/Kids-protection-from-social-media.webp"
+featured_image: "/images/Kids-protection-from-social-media.webp"
+image: "/images/Kids-protection-from-social-media.webp"
+thumbnail: "/images/Kids-protection-from-social-media.webp"
 image_alt: "Zaštita djece od društvenih mreža – simbolična ilustracija"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -25,6 +25,7 @@ tags:
   - tehnologija
   - roditeljstvo
 summary: "Više od 100.000 građana Ujedinjenog Kraljevstva zatražilo je od zastupnika zabranu društvenih mreža za djecu mlađu od 16 godina, dok vlada razmatra strože mjere zaštite."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

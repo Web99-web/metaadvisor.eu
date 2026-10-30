@@ -7,14 +7,15 @@ translationKey: "schwarz-lidl-kaufland-ai-cloud-data-centar-2026-07-20"
 source: "Schwarz Gruppe, Schwarz Digits, öffentlich zugängliche Informationen und Medienberichte"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
-featured_image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
-image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
-thumbnail: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
+image_url: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
+featured_image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
+image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
+thumbnail: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Lidl", "Kaufland", "Schwarz Gruppe", "Schwarz Digits", "künstliche Intelligenz", "KI", "Rechenzentrum", "Cloud", "STACKIT", "Cybersicherheit", "Deutschland"]
 description: "Die Schwarz Gruppe, Eigentümerin von Lidl und Kaufland, investiert rund 11 Milliarden Euro in einen Rechenzentrumscampus und will eine europäische Alternative zu amerikanischen Cloud-Konzernen werden."
 summary: "Der Eigentümer von Lidl und Kaufland investiert rund 11 Milliarden Euro in Cloud- und KI-Infrastruktur. Der Rechenzentrumscampus könnte bis zu 100.000 GPUs unterstützen."
+categories: ["ai"]
 ---
 
 # Lidl-Eigentümer Schwarz investiert 11 Milliarden Euro in KI

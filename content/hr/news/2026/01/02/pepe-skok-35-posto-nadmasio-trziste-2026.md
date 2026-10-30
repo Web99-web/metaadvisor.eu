@@ -7,10 +7,10 @@ translationKey: "pepe_growth_market_jan2026"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/PEPE-up1.png"
-featured_image: "/images/PEPE-up1.png"
-image: "/images/PEPE-up1.png"
-thumbnail: "/images/PEPE-up1.png"
+image_url: "/images/PEPE-up1.webp"
+featured_image: "/images/PEPE-up1.webp"
+image: "/images/PEPE-up1.webp"
+thumbnail: "/images/PEPE-up1.webp"
 image_alt: "Usporedba tjednog rasta PEPE tokena u odnosu na ostatak kripto tržišta"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -23,6 +23,7 @@ tags:
   - holders
   - ethereum
 summary: "Dok se kripto tržište početkom 2026. polako oporavlja, PEPE bilježi osjetno snažniji rast od većine velikih tokena, potvrđujući obrazac po kojem često reagira brže i intenzivnije u ranim fazama tržišnog buđenja."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0 16px 0;">

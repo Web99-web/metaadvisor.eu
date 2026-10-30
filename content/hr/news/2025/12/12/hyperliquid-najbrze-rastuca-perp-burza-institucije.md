@@ -15,6 +15,7 @@ image_alt: "Hyperliquid — decentralizirani perp DEX nove generacije"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["hyperliquid","dex","perps","derivatives","binance","dydx","institutions","defi","crypto","blockchain","trading"]
 summary: "Hyperliquid je u godinu dana postao najbrže rastući perp DEX, privlačeći profesionalne trejdere, institucije i likvidnost zahvaljujući brzom L1-u, dubokom orderbooku i stabilnosti kakvu dosad nije viđenom u DeFi svijetu."
+categories: ["crypto"]
 ---
 
 <div class="cta">

@@ -16,6 +16,7 @@ image_alt: "Tokenized money market fund and stablecoin — illustrative chart"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ripple","xrp","xrp-ledger","dbs","franklin-templeton","rlusd","stablecoin","tokenization","money-market-fund","lending","trading","sgBENJI","tradfi-onchain","metaadvisor"]
 summary: "DBS, Franklin Templeton and Ripple signed an MoU to launch trading and lending built on a tokenized money market fund (sgBENJI) on XRP Ledger and Ripple’s stablecoin, RLUSD."
+categories: ["news"]
 ---
 
 **DBS**, **Franklin Templeton** and **Ripple** have agreed to collaborate on **trading and lending** solutions on the **XRP Ledger**. Franklin Templeton plans to tokenize its **U.S. dollar short-term money market fund**, while **DBS Digital Exchange (DDEx)** will list the **fund token ‘sgBENJI’** **alongside RLUSD**, enabling clients to **rebalance between a stablecoin and a yield-bearing MM fund** — earning yield even through volatile periods.

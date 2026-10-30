@@ -9,6 +9,7 @@ summary: "XLM je pao s 0,39 USD na 0,36 USD u nestabilnoj 24-satnoj sesiji, iako
 tags: ["crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/5XYLJ7ON5NC5NGJHJ6OM7IMZ44.jpg?auto=format&width=1920"
 image: "https://www.coindesk.com/resizer/v2/5XYLJ7ON5NC5NGJHJ6OM7IMZ44.jpg?auto=format&width=1920"
+categories: ["crypto"]
 ---
 
 Stellarov izvorni token XLM našao se pod snažnim pritiskom institucionalne prodaje u posljednjoj trgovačkoj sesiji, padajući s 0,39 na 0,36 USD između 28. kolovoza u 15:00 i 29. kolovoza u 14:00 ET. Podaci s tržišta pokazuju da je promijenilo vlasnika više od 41,89 milijuna XLM-a, uz rast volumena dok su veliki ulagači smanjivali izloženost.

@@ -10,6 +10,7 @@ image_url: "/images/btc1.jpg"
 image_alt: "Bitcoin graf uz makroekonomske pokazatelje"
 tags: ["crypto","makro","btc"]
 summary: "Tvrdokorna inflacija i slabiji podaci o zapošljavanju povećali su očekivanja o sniženju kamata, što kratkoročno podržava rizičnu imovinu — uključujući i bitcoin."
+categories: ["crypto"]
 ---
 
 Bitcoin (BTC) oko je **4% viši nego prije tjedan dana** — dobra vijest za digitalnu imovinu, ali ne i za realno gospodarstvo. Negativan ton prošlotjednih makro-podataka podigao je očekivanja da će **Federalne rezerve** u srijedu **smanjiti kamatne stope**, čime rizična imovina (dionice, bitcoin) postaje privlačnija.

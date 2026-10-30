@@ -23,6 +23,7 @@ tags:
   - manipulation
   - internet
 summary: "Wikipedia has become an essential part of everyday life, but recent cases show how open knowledge platforms can be vulnerable to subtle content manipulation, especially in political and historical topics."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

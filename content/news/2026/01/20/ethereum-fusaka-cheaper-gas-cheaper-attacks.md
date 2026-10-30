@@ -7,14 +7,15 @@ translationKey: "ethereum_fusaka_cheaper_gas_attacks_20260120"
 source: "Cointelegraph / MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/eth-fusaka.png"
-featured_image: "/images/eth-fusaka.png"
-image: "/images/eth-fusaka.png"
-thumbnail: "/images/eth-fusaka.png"
+image_url: "/images/eth-fusaka.webp"
+featured_image: "/images/eth-fusaka.webp"
+image: "/images/eth-fusaka.webp"
+thumbnail: "/images/eth-fusaka.webp"
 image_alt: "Ethereum network after the Fusaka upgrade and a rise in security-related attacks"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags: ["ethereum","fusaka","gas fees","security","scams","address poisoning","crypto attacks","onchain data","wallet security","blockchain"]
 summary: "After Ethereum’s Fusaka upgrade significantly reduced network fees, a rise in address poisoning attacks highlights how cheaper gas can also lower the cost of exploiting user behavior."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

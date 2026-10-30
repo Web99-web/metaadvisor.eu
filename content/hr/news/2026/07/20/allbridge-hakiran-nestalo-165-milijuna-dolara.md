@@ -7,15 +7,16 @@ translationKey: "allbridge-core-solana-hack-165-milijuna-2026-07-20"
 source: "Allbridge, Cointelegraph, The Block, Onchain Lens, PeckShield i CertiK"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/exploit-alert.png"
-featured_image: "/images/hack/exploit-alert.png"
-image: "/images/hack/exploit-alert.png"
-thumbnail: "/images/hack/exploit-alert.png"
+image_url: "/images/hack/exploit-alert.webp"
+featured_image: "/images/hack/exploit-alert.webp"
+image: "/images/hack/exploit-alert.webp"
+thumbnail: "/images/hack/exploit-alert.webp"
 image_alt: "Upozorenje na exploit Allbridge Core protokola nakon napada na Solani"
 image_credit: "Metaadvisor.eu"
 tags: ["Allbridge", "Allbridge Core", "Solana", "USDC", "USDT", "flash loan", "cross-chain bridge", "DeFi", "hakiranje", "kripto sigurnost"]
 description: "Allbridge Core zaustavio je protokol nakon napada na Solani u kojem se ukupna šteta procjenjuje na približno 1,65 milijuna dolara."
 summary: "Napadač je flash loanom manipulirao odnosom USDC-a i USDT-a u Allbridgeovu poolu, izvukao sredstva i prebacio ih sa Solane na Ethereum."
+categories: ["crypto"]
 ---
 
 # Allbridge hakiran: Nestalo 1,65 milijuna dolara

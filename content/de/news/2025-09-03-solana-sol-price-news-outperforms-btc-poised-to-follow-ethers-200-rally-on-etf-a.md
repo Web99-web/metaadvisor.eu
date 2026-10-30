@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/solana-outperforms-bitc
 summary: "Arca CIO Jeff Dorman: 'SOL ist derzeit der offensichtlichste Long-Trade.'"
 tags: ["Krypto", "Solana", "SOL", "BTC", "ETH", "ETF", "Markt"]
 image_url: "https://images.pexels.com/photos/6770772/pexels-photo-6770772.jpeg"
+categories: ["crypto"]
 ---
 
 Während Bitcoin (BTC) knapp über 110.000 USD stagniert und Ether (ETH) nach neuen Rekorden konsolidiert, hat sich **Solana (SOL)** als einer der stärksten Performer am Kryptomarkt herausgestellt.  

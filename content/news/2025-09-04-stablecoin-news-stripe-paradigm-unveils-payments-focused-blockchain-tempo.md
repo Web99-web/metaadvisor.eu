@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/04/stripe-paradigm-unveil
 summary: "The chain's stablecoin-first design aims to handle global payouts, microtransactions, remittances and AI agentic payments, Stripe CEO Collison said."
 tags: ["ai", "crypto", "stablecoin", "stripe", "paradigm", "blockchain", "payments", "ethereum", "eth", "solana", "sol"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["ai"]
 ---
 
 Payments giant **Stripe** and crypto investment firm **Paradigm** on Thursday officially unveiled **Tempo**, their joint blockchain project designed for stablecoin payments.

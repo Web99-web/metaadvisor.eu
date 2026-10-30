@@ -10,6 +10,7 @@ image_url: "/images/ai1.jpg"
 image_alt: "GPU racks inside a data center"
 tags: ["crypto","bitcoin","ai","mining","gpu","hpc"]
 summary: "Post-halving margin pressure and higher power costs push miners to repurpose sites for AI/HPC: steadier $/MW contracts, entrenched power deals and hard-won high-density cooling expertise."
+categories: ["crypto"]
 ---
 
 **What’s happening**  

@@ -15,6 +15,7 @@ image_alt: "Bitcoin futures tržište simbolična ilustracija"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["bitcoin","btc","kripto","crypto","bitfinex","bitcoin tržište","kripto burze","on-chain analiza","blockchain","digitalna imovina"]
 summary: "Gotovo 32.000 BTC povučeno je s burzi u jednom danu, a tjedni odljev dosegnuo je oko 47.700 BTC. Analitičari prate može li takvo povlačenje smanjiti pritisak prodaje na tržištu."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

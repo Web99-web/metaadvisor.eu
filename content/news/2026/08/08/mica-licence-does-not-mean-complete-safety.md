@@ -7,15 +7,16 @@ translationKey: "mica-licenca-ne-znaci-potpunu-sigurnost-2026-08-08"
 source: "ESMA, EBA, European Commission and Regulation (EU) 2023/1114"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/MICA-eu-regulation.png"
-featured_image: "/images/MICA-eu-regulation.png"
-image: "/images/MICA-eu-regulation.png"
-thumbnail: "/images/MICA-eu-regulation.png"
+image_url: "/images/MICA-eu-regulation.webp"
+featured_image: "/images/MICA-eu-regulation.webp"
+image: "/images/MICA-eu-regulation.webp"
+thumbnail: "/images/MICA-eu-regulation.webp"
 image_alt: "European Union MiCA regulation and cryptocurrency platforms"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["MiCA", "MiCA licence", "European Union", "cryptocurrencies", "crypto platforms", "CASP", "ESMA", "crypto regulation", "consumer protection", "Bitcoin", "crypto exchanges", "reverse solicitation", "MiCA compliant", "crypto security", "EU regulation"]
 description: "A MiCA licence confirms that a crypto platform has passed a regulatory process, but it does not guarantee the value of tokens, the safety of every product or the recovery of every lost amount."
 summary: "MiCA introduces common European rules for crypto platforms, but regulated status does not mean that every token, product and service inside the same app is completely safe or covered by the same protections."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*
@@ -128,7 +129,7 @@ This does not mean that an EU resident can never technically access a platform w
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/news/binance-app-disappears-from-google-play-in-parts-of-the-european-union/" target="_blank" rel="noopener">
-    <img src="/images/news/Binance-app-rectrected-EU-Mica-Google-play.png" alt="Binance App Disappears From Google Play in Parts of the European Union" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/news/Binance-app-rectrected-EU-Mica-Google-play.webp" alt="Binance App Disappears From Google Play in Parts of the European Union" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/news/binance-app-disappears-from-google-play-in-parts-of-the-european-union/" target="_blank" rel="noopener"><strong>Binance App Disappears From Google Play in Parts of the European Union</strong></a>

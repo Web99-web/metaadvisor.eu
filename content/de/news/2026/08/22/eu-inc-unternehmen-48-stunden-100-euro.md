@@ -12,9 +12,10 @@ image: "/images/EU/EU-inc.png"
 thumbnail: "/images/EU/EU-inc.png"
 image_alt: "EU Inc. – europäisches Unternehmen in 48 Stunden, für höchstens 100 Euro und ohne vorgeschriebenes Mindestkapital"
 image_credit: "Metaadvisor.eu"
-tags: ["EU Inc.", "Europäische Union", "28. Regime", "Unternehmertum", "Startup", "Unternehmen", "EU-Geschäft", "Steuern", "Förderungen", "Binnenmarkt"]
+tags: ["EU Inc", "Europäische Union", "28. Regime", "Unternehmertum", "Startup", "Unternehmen", "EU-Geschäft", "Steuern", "Förderungen", "Binnenmarkt"]
 description: "Die EU bereitet mit EU Inc. eine neue Gesellschaftsform vor, die online innerhalb von 48 Stunden für höchstens 100 Euro und ohne vorgeschriebenes Mindestkapital gegründet werden könnte. Was würde das für Unternehmer tatsächlich bedeuten?"
 summary: "EU Inc. soll die Online-Gründung eines europäischen Unternehmens innerhalb von 48 Stunden ermöglichen, bei maximalen Kosten von 100 Euro und ohne vorgeschriebenes Mindestkapital. Doch Steuern, Arbeitsrecht und der Zugang zu nationalen Förderungen werfen weiterhin wichtige Fragen auf."
+categories: ["EU"]
 ---
 
 *Das Bild ist symbolisch.*

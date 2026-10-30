@@ -7,14 +7,15 @@ translationKey: "66c8cd806d10a29e4b500d31febab9d7"
 source: "CoinDesk, X.com"
 source_url: "https://www.coindesk.com/policy/2025/11/01/bitcoin-never-shuts-down-treasury-s-bessent-marks-anniversary-needles-democrats"
 author: "Metaadvisor.eu"
-image_url: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
-featured_image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
-image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
-thumbnail: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
+image_url: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
+featured_image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
+image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
+thumbnail: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
 image_alt: "Scott Bessent lobt das Bitcoin-Netzwerk"
 image_credit: "Metaadvisor.eu — Symbolbild."
 tags: ["bitcoin","btc","politik","usa","finanzen","stablecoin","bessent","satoshi","whitepaper"]
 summary: "US-Finanzminister Scott Bessent würdigte zum 17. Jubiläum des Whitepapers die Widerstandskraft von Bitcoin und erklärte, das Netzwerk sei 'robuster denn je' — mit einem Seitenhieb auf die Demokraten im Senat."
+categories: ["crypto"]
 ---
 
 Scott Bessent, US-Finanzminister (Treasury Secretary), markierte das 17-jährige Jubiläum des Bitcoin-Whitepapers mit einem Post auf X, in dem er die **Widerstandskraft des Bitcoin-Netzwerks** lobt und betont, dass sich “Bitcoin niemals abschaltet” – im Gegensatz zu staatlichen Systemen.

@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lag
 summary: "TransBnk je prikupio 25 milijuna USD u rundi koju je predvodio Bessemer Venture Partners za digitalizaciju indijskog korporativnog bankarstva."
 tags: ["ai","fintech","TransBnk","India","bankarstvo"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/transbnk-funding-india.jpg"
+categories: ["ai"]
 ---
 
 Dok je digitalizacija transformirala potrošačko bankarstvo u Indiji, **korporativno bankarstvo ostalo je u prošlom stoljeću** — i dalje se oslanja na zastarjele sustave, papirnatu dokumentaciju i Excel tablice. **TransBnk** želi popraviti taj jaz, a Bessemer Venture Partners je uložio 25 milijuna USD u startup star tri godine kako bi ubrzao njegov razvoj.

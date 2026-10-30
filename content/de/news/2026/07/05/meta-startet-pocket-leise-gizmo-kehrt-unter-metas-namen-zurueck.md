@@ -7,14 +7,15 @@ translationKey: "meta-pocket-gizmo-ai-app-2026-07-05"
 source: "TechCrunch, Business Insider, The Verge, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Pocket-Meta-Gizmo.png"
-featured_image: "/images/Meta/Pocket-Meta-Gizmo.png"
-image: "/images/Meta/Pocket-Meta-Gizmo.png"
-thumbnail: "/images/Meta/Pocket-Meta-Gizmo.png"
+image_url: "/images/Meta/Pocket-Meta-Gizmo.webp"
+featured_image: "/images/Meta/Pocket-Meta-Gizmo.webp"
+image: "/images/Meta/Pocket-Meta-Gizmo.webp"
+thumbnail: "/images/Meta/Pocket-Meta-Gizmo.webp"
 image_alt: "Meta Pocket App und Gizmo als Teil von Metas AI-Gaming-Strategie"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta Pocket", "Gizmo", "Vibe Coding", "AI-Minigames", "interaktive AI-Inhalte", "AI-Prompts", "Metas AI-Strategie", "AI-Gaming", "sozialer AI-Feed", "generative Software", "Metas AI-Experimente"]
 summary: "Meta hat leise die neue AI-App Pocket gestartet, die eng mit der früheren Plattform Gizmo verbunden ist. Nutzer können damit kleine interaktive Apps und Spiele mithilfe von AI-Prompts erstellen."
+categories: ["news"]
 ---
 
 Das Bild ist symbolisch.

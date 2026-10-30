@@ -7,10 +7,10 @@ translationKey: "bch-explainer-2025-10-03"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Bitcoin-cash-BCH.png"
-featured_image: "/images/Bitcoin-cash-BCH.png"
-image: "/images/Bitcoin-cash-BCH.png"
-thumbnail: "/images/Bitcoin-cash-BCH.png"
+image_url: "/images/Bitcoin-cash-BCH.webp"
+featured_image: "/images/Bitcoin-cash-BCH.webp"
+image: "/images/Bitcoin-cash-BCH.webp"
+thumbnail: "/images/Bitcoin-cash-BCH.webp"
 image_alt: "Bitcoin Cash (BCH) — grünes Icon mit Schriftzug"
 image_credit: "Metaadvisor.eu (symbolisches Bild)"
 tags:
@@ -24,6 +24,7 @@ tags:
   - gebuehren
   - p2p-zahlungen
 summary: "Bitcoin Cash (BCH) ist ein Fork von Bitcoin aus 2017 mit größeren Blöcken und Fokus auf günstige, schnelle On-Chain-Transaktionen. Ziel: 'digitales Bargeld' für Alltagszahlungen."
+categories: ["crypto"]
 ---
 
 **Bitcoin Cash (BCH)** entstand durch einen **Hard Fork von Bitcoin (August 2017)** infolge der Debatte um **Skalierung**. BCH setzt auf **größere Blöcke** (praktisch bis *32 MB*), um **mehr Transaktionen pro Block** zu ermöglichen und **Gebühren niedrig** zu halten – anstatt primär auf Off-Chain-Lösungen zu bauen.

@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/05/tesla-elon-musk-
 summary: "CEO mora povećati vrijednost Tesle s nešto više od 1 bilijun USD na 8,5 bilijuna USD u roku od 10 godina."
 tags: ["tesla", "elon musk", "stocks", "EV", "trillionaire"]
 image_url: "https://www.pexels.com/photo/person-sitting-inside-car-2526127/"
+categories: ["news"]
 ---
 
 **Elon Musk** mogao bi postati prvi svjetski **bilijunaš** ako ispuni ciljeve postavljene od strane Tesle u okviru povijesnog paketa nagrađivanja.  

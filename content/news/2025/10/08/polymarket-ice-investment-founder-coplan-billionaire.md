@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/polymarket-founder-coplan-billionaires-nyse-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Polymarket-ICE.png"
-featured_image: "/images/Polymarket-ICE.png"
-image: "/images/Polymarket-ICE.png"
-thumbnail: "/images/Polymarket-ICE.png"
+image_url: "/images/Polymarket-ICE.webp"
+featured_image: "/images/Polymarket-ICE.webp"
+image: "/images/Polymarket-ICE.webp"
+thumbnail: "/images/Polymarket-ICE.webp"
 image_alt: "Polymarket and ICE (NYSE)"
 image_credit: "Design: Metaadvisor.eu"
 tags:
@@ -23,6 +23,7 @@ tags:
   - regulation
   - crypto
 summary: "Intercontinental Exchange (ICE), the parent company of the NYSE, has invested in Polymarket. Founder Shayne Coplan is now considered a 'billionaire on paper,' putting prediction markets in the mainstream spotlight."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

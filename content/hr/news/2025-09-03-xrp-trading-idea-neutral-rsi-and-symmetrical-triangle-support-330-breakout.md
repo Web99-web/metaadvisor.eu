@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/xrp-trading-idea-neutra
 summary: "Whale nakupljanje ublažava prodajni pritisak oko 2,76 USD, dok institucionalni priljevi guraju XRP prema zoni otpora od 2,86 USD."
 tags: ["xrp", "XRP", "crypto", "trgovanje", "RSI", "breakout", "analiza"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/0/0c/XRP_Logo.svg"
+categories: ["news"]
 ---
 
 **XRP** je imao volatilnu trgovačku sesiju, krećući se između **2,76 i 2,86 USD**, dok su geopolitičke i monetarne neizvjesnosti utjecale na šire kripto tržište.  

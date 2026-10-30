@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="container">
+  <h1>{{ if eq .Section "tags" }}{{ if eq .Lang "hr" }}Teme{{ else if eq .Lang "de" }}Themen{{ else }}Topics{{ end }}{{ else }}{{ .Title }}{{ end }}</h1>
+  <ul>
+    {{ range .Data.Terms.Alphabetical }}
+    {{ $tag := partialCached "tag-policy.html" .Page .Page.Lang .Page.Path }}
+    {{ if $tag.Indexable }}
+    <li><a href="{{ .Page.RelPermalink }}">{{ $tag.Title }}</a> ({{ len (partialCached "listing-pages.html" .Page .Page.Lang .Page.Path) }})</li>
+    {{ end }}
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

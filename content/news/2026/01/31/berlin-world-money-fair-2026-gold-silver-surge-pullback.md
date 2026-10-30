@@ -7,10 +7,10 @@ translationKey: "world-money-fair-berlin-2026-zlato-srebro-volatilnost"
 source: "MetaAdvisor.eu"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/world-money-fair-berlin-2026.png"
-featured_image: "/images/world-money-fair-berlin-2026.png"
-image: "/images/world-money-fair-berlin-2026.png"
-thumbnail: "/images/world-money-fair-berlin-2026.png"
+image_url: "/images/world-money-fair-berlin-2026.webp"
+featured_image: "/images/world-money-fair-berlin-2026.webp"
+image: "/images/world-money-fair-berlin-2026.webp"
+thumbnail: "/images/world-money-fair-berlin-2026.webp"
 image_alt: "Berlin as a hub of precious metals markets during gold and silver volatility"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -28,6 +28,7 @@ tags:
   - Croatian Mint
   - European markets
 summary: "World Money Fair 2026 takes place in Berlin amid sharp price movements in gold and silver. The event brings together key European and global players in the precious metals market, offering insight into physical markets during periods of heightened volatility."
+categories: ["markets"]
 ---
 
 ## Berlin as a global hub for precious metals

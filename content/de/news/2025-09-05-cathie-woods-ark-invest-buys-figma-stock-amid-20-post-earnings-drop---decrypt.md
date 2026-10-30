@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/338197/cathie-woods-ark-invest-buys-figma-stock-
 summary: "Ark Invest meldete eine Beteiligung an Figma, nachdem der erste Quartalsbericht nach dem Börsengang die Aktien einbrechen ließ. Fokus bleibt auf Design, nicht auf Bitcoin."
 tags: ["news", "stocks", "figma", "ark-invest", "cathie-wood", "tesla", "coinbase", "roku", "investing", "etf"]
 image_url: "/images/stock-market-dionice1.jpg"
+categories: ["news"]
 ---
 
 **Ark Invest**, das von **Cathie Wood** geleitete Investmentunternehmen mit Sitz in New York, hat über 100.000 Aktien von **Figma** in seinen **ARKW ETF** aufgenommen, nachdem die Aktie nach dem ersten Gewinnbericht seit dem Börsengang fast 20 % gefallen war.

@@ -16,6 +16,7 @@ image_alt: "Bitcoin (BTC)"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["crypto","bitcoin","on-chain","supply","liquidity"]
 summary: "Laut Fidelity könnte das nichtliquide BTC-Angebot bis 2032 auf etwa 8,3 Mio. Coins anwachsen – und damit den frei verfügbaren Marktfloat weiter reduzieren."
+categories: ["crypto"]
 ---
 
 **Kurz:** Bis **2032** könnte das Volumen des **nichtliquiden** Bitcoin-Angebots auf **~8,3 Mio. BTC** steigen. “Nichtliquid” meint Coins in Wallets, die selten ausgeben (Langfristhalter, institutionelle Verwahrung, verlorene Schlüssel) – was das verfügbare Angebot am Markt verknappt und die Preissensitivität erhöht.

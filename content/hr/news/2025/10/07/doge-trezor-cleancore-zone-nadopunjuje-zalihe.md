@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/10/07/cleancore-s-dogecoin-treasury-tops-710m-tokens-booking-usd20m-gain"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/dogecoin-doge.png"
-featured_image: "/images/dogecoin-doge.png"
-image: "/images/dogecoin-doge.png"
-thumbnail: "/images/dogecoin-doge.png"
+image_url: "/images/dogecoin-doge.webp"
+featured_image: "/images/dogecoin-doge.webp"
+image: "/images/dogecoin-doge.webp"
+thumbnail: "/images/dogecoin-doge.webp"
 image_alt: "Dogecoin (DOGE) — kovanica i grafikon"
 image_credit: "Dizajn: Metaadvisor.eu"
 tags:
@@ -27,6 +27,7 @@ tags:
   - markets
   - institutions
 summary: "CleanCore (ZONE) povećao je DOGE trezor na ~710 milijuna tokena, uz >20 mil. USD nerealiziranog profita. Cilj im je 1 mlrd. DOGE; inicijativu podupire Dogecoin Foundation."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

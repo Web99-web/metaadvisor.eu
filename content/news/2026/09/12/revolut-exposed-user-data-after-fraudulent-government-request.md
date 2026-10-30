@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu / AI"
 tags: ["Revolut", "cybersecurity", "data breach", "personal data", "privacy", "identity theft", "phishing", "social engineering", "fintech", "banking", "cryptocurrency", "Bitcoin", "data protection", "online scams"]
 description: "Revolut confirmed that it handed sensitive data belonging to some users to an unauthorized third party after fraudulent requests were sent through the official email domain of a real government agency."
 summary: "Revolut was not hacked in the conventional sense. The company itself handed over sensitive data belonging to a limited number of users after trusting requests that appeared to be legitimate government inquiries. The identity of the agency and the country it belongs to remain unknown."
+categories: ["Cybersecurity"]
 ---
 
 *Image is symbolic.*

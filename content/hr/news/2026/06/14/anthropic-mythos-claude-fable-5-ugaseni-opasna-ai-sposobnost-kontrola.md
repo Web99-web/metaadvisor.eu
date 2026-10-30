@@ -7,15 +7,16 @@ translationKey: "anthropic-mythos-claude-fable-5-ai-control-2026-06-14"
 source: "Anthropic, Reuters, The Verge, Axios, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-featured_image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-thumbnail: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
+image_url: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+featured_image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+thumbnail: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
 image_alt: "Anthropic Mythos and Claude Fable 5 AI illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["Anthropic", "Claude Fable 5", "Claude Mythos 5", "Anthropic Mythos", "umjetna inteligencija", "AI", "frontier AI", "AI sigurnost", "AI regulacija", "export controls", "američka vlada", "nacionalna sigurnost", "cyber sigurnost", "jailbreak", "digitalna suverenost", "tehnološka ovisnost", "Big Tech", "globalne platforme", "AI alati", "Metaadvisor"]
 summary: "Anthropicov Claude Fable 5 i Claude Mythos 5 ugašeni su nakon samo nekoliko dana zbog američke vladine direktive vezane uz nacionalnu sigurnost. Slučaj otvara veliko pitanje: može li se najnaprednija AI sposobnost uopće kontrolirati kada jednom postane komercijalni alat?"
 
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>

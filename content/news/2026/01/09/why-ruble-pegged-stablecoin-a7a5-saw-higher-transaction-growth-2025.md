@@ -7,10 +7,10 @@ translationKey: "e59c3e5aa9f970e6ae8b8963abe26822"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/09/a-ruble-stablecoin-outpaced-market-leaders-last-year-despite-international-sanctions"
 author: "MetaAdvisor.eu"
-image_url: "/images/A7A5-rubalj-crypto.png"
-featured_image: "/images/A7A5-rubalj-crypto.png"
-image: "/images/A7A5-rubalj-crypto.png"
-thumbnail: "/images/A7A5-rubalj-crypto.png"
+image_url: "/images/A7A5-rubalj-crypto.webp"
+featured_image: "/images/A7A5-rubalj-crypto.webp"
+image: "/images/A7A5-rubalj-crypto.webp"
+thumbnail: "/images/A7A5-rubalj-crypto.webp"
 image_alt: "Ruble-pegged stablecoin A7A5 and regional transaction growth"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - regional-markets
   - finance
 summary: "The ruble-pegged stablecoin A7A5 recorded notable transaction growth during 2025, outperforming the relative growth of larger stablecoins in specific segments. The data suggests this trend was driven primarily by regional and market-specific factors rather than a shift in global stablecoin dominance."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

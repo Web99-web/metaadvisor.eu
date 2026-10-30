@@ -16,6 +16,7 @@ image_alt: "Neutraler MYX-Token (generisches Badge)"
 image_credit: "Metaadvisor.eu (CC0)"
 tags: ["myx","dex","manipulation","liquidität","sybil","airdrop","crypto","metaadvisor"]
 summary: "Ein unabhängiger Bericht kommt zum Schluss, dass die Handelsmuster bei MYX mit hoher Wahrscheinlichkeit koordiniert sind. Die beobachteten Anomalien hätten weniger als 0,001 % Wahrscheinlichkeit, natürlich zu entstehen."
+categories: ["news"]
 ---
 
 Ein neuer Bericht zweier Research-Teams behauptet, die **Wahrscheinlichkeit für organischen MYX-Handel liege unter 0,001 %**. In tausenden Minuten-Slices wurden parallele Anstiege der **Illiquidität**, ungewöhnliche Bewegungen der **Bid–Ask-Spreads** und **kleinere Durchschnittsorders** genau dann festgestellt, wenn Spreads typischerweise aufgehen würden. Das deute eher auf **koordiniertes Vorgehen** als auf normales Preisfindungsverhalten hin.

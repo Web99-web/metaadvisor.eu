@@ -15,6 +15,7 @@ image_alt: "Gemini-Logo als Symbol für den regulatorischen Abschluss des Earn-P
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Die US-Börsenaufsicht SEC zieht ihre Klage gegen Gemini im Zusammenhang mit dem Earn-Programm zurück und schließt damit ein regulatorisches Kapitel, das nach dem FTX-Kollaps und der Insolvenz von Genesis begann."
 tags: ["gemini", "genesis", "ftx", "sec", "earn", "regulierung", "krypto", "yield"]
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

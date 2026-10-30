@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/10/14/cathie-wood-s-ark-invest-takes-11-5-stake-in-solana-treasury-firm-solmate-slmt"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Solmate-Infrastructure-SLMT.png"
-featured_image: "/images/Solmate-Infrastructure-SLMT.png"
-image: "/images/Solmate-Infrastructure-SLMT.png"
-thumbnail: "/images/Solmate-Infrastructure-SLMT.png"
+image_url: "/images/Solmate-Infrastructure-SLMT.webp"
+featured_image: "/images/Solmate-Infrastructure-SLMT.webp"
+image: "/images/Solmate-Infrastructure-SLMT.webp"
+thumbnail: "/images/Solmate-Infrastructure-SLMT.webp"
 image_alt: "Solmate Infrastructure (SLMT) — Solana treasury and validator infrastructure"
 image_credit: "Image is symbolic."
 tags: ["Solmate", "SLMT", "Solana", "validators", "treasury", "ARK Invest", "Nasdaq", "PIPE", "UAE", "Abu Dhabi", "staking", "RockawayX"]
 summary: "Solmate (SLMT) is a Nasdaq-listed company combining a Solana-focused digital-asset treasury with validator infrastructure. It bought SOL at a discount, is building bare-metal validators in Abu Dhabi, and counts ARK Invest as an 11.5% shareholder."
+categories: ["crypto"]
 ---
 
 **Solmate Infrastructure (Nasdaq: SLMT)** positions itself as a hybrid **digital-asset treasury** and **infrastructure operator** for the **Solana (SOL)** ecosystem. Rebranded from **Brera Holdings**, the firm pivoted from sports to **holding SOL** and running **bare-metal validators** — anchored in **Abu Dhabi (UAE)**.

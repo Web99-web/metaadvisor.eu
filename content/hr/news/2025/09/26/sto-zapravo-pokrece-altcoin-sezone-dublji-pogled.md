@@ -30,6 +30,7 @@ tags:
   - perps
   - risk-appetite
 summary: "Altcoin sezone rijetko su slučajne. Najčešće ih pokreće pad BTC dominacije nakon zasićenja trenda, signal snage na ETH/BTC paru, svježa likvidnost (stablecoini), te katalizatori poput airdropova i novih narativa — uz režim niske IV i jeftinog financiranja."
+categories: ["news"]
 ---
 
 **Kratko:** Kad altcoini preuzmu primat, to obično nije „magija”, nego **rotacija kapitala**. Nakon što **BTC trend** „odradi svoje” (rally → plato), dio profita seli u **ETH** i **veći L1/L2 sloj**, zatim u **tematske džepove** (DeFi, RWA, AI, memecoins). Ključne poluge: **pad BTC dominacije**, **snaga ETH/BTC**, **svježa likvidnost** (net-izdanje stablecoina) i **katalizatori** (airdropovi, lansiranja, narrative).

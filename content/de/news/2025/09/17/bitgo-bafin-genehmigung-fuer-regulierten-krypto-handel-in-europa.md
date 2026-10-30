@@ -15,6 +15,7 @@ image_alt: "Bitcoin & Regulierung — europäischer Rahmen"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["crypto","bitgo","bafin","deutschland","europa","trading","custody","mica","regulation","metaadvisor"]
 summary: "Die BaFin erlaubt BitGo Europe den Start von reguliertem Krypto-Handel — zusätzlich zu Custody/Staking. Das Angebot richtet sich an europäische Institutionen im MiCA-Rahmen."
+categories: ["crypto"]
 ---
 
 **BitGo Europe GmbH** hat von der **BaFin** grünes Licht erhalten, neben **Custody** und **Staking** auch **regulierten Krypto-Handel** für EU-Kunden anzubieten. Damit bündelt BitGo **Verwahrung** und **Orderausführung** auf einer Plattform — ein zentrales Puzzleteil für Institutionen, die beaufsichtigte Zugänge suchen.

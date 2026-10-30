@@ -7,15 +7,16 @@ translationKey: "jedan-veliki-wallet-ili-vise-manjih-2026-08-07"
 source: "Javno dostupna dokumentacija o kripto novčanicima, upravljanju privatnim ključevima i multisig zaštiti"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/One-wallet-or-several.png"
-featured_image: "/images/informative/One-wallet-or-several.png"
-image: "/images/informative/One-wallet-or-several.png"
-thumbnail: "/images/informative/One-wallet-or-several.png"
+image_url: "/images/informative/One-wallet-or-several.webp"
+featured_image: "/images/informative/One-wallet-or-several.webp"
+image: "/images/informative/One-wallet-or-several.webp"
+thumbnail: "/images/informative/One-wallet-or-several.webp"
 image_alt: "Usporedba jednog velikog kripto walleta i više manjih odvojenih walleta"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["kripto wallet", "hardware wallet", "seed fraza", "privatni ključ", "kripto sigurnost", "self-custody", "multisig", "passphrase", "hot wallet", "cold wallet", "Bitcoin wallet", "DeFi sigurnost", "upravljanje rizikom", "sigurnosna kopija", "kripto imovina"]
 description: "Je li sigurnije držati svu kriptoimovinu u jednom walletu ili sredstva podijeliti na više manjih? Odgovor ovisi o seedovima, načinu korištenja i složenosti oporavka."
 summary: "Jedan wallet jednostavniji je za održavanje, ali predstavlja jednu veliku točku rizika. Više neovisnih walleta može ograničiti štetu, no donosi više seedova, sigurnosnih kopija i mogućnosti ljudske pogreške."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -15,6 +15,7 @@ image_alt: "Polymarket regulatory approval"
 image_credit: "MetaAdvisor / AI-generated"
 tags: ["polymarket", "prediction-markets", "cftc", "usa", "crypto", "regulation", "event-derivatives", "token", "airdrop"]
 summary: "The CFTC has approved Polymarket to operate as an intermediated trading platform in the United States — a major shift from ‘betting’ to fully regulated event-derivatives trading."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

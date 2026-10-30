@@ -7,14 +7,15 @@ translationKey: "fake_gold_mine_ai_metaadvisor_07122025_de"
 source: "MetaAdvisor – Analyse"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Gold-mine-fake.png"
-featured_image: "/images/Gold-mine-fake.png"
-image: "/images/Gold-mine-fake.png"
-thumbnail: "/images/Gold-mine-fake.png"
+image_url: "/images/Gold-mine-fake.webp"
+featured_image: "/images/Gold-mine-fake.webp"
+image: "/images/Gold-mine-fake.webp"
+thumbnail: "/images/Gold-mine-fake.webp"
 image_alt: "KI-generiertes Bild einer angeblichen Goldmine"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ki","fake-news","desinformation","manipulation","deepfake","goldmine","viral","social-media","tiktok","ökonomie"]
 summary: "Ein angeblicher Fund einer ‚100 km langen Goldmine‘ ging viral – doch die Geschichte ist komplett erfunden. So erzeugt KI täuschend echte Desinformation."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

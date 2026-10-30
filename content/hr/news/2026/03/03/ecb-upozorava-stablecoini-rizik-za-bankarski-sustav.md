@@ -3,7 +3,7 @@ title: "Europska središnja banka ECB upozorava: Stablecoini postaju rizik za ba
 slug: "ecb-upozorava-stablecoini-rizik-za-bankarski-sustav"
 date: 2026-03-03T16:30:00Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-03-03"
 source: "Cointelegraph & CoinDesk"
 source_url: ""
 author: "Cointelegraph & CoinDesk"
@@ -15,6 +15,7 @@ image_alt: "Europska središnja banka i simbol stablecoina"
 image_credit: "Ilustracija / ECB tematika"
 tags: ["stablecoin", "ecb", "europska središnja banka", "fatf", "aml", "kripto regulacija", "crypto", "defi", "banke", "depoziti", "monetarna politika", "usdt", "usdc", "regulacija", "eu"]
 summary: "Europska središnja banka upozorava da rast stablecoina može oslabiti bankarske depozite i kreditiranje, dok FATF ističe da se upravo stablecoini najčešće koriste u nezakonitim transakcijama."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

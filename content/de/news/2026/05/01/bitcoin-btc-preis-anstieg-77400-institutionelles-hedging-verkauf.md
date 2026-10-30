@@ -15,6 +15,7 @@ image_alt: "Bitcoin Preis über 77000 unter Verkaufsdruck und institutionellem H
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "crypto", "trading", "derivate", "futures", "hedging", "gewinnmitnahmen", "markt", "volatilität", "investoren", "analyse", "blockchain"]
 summary: "Bitcoin steigt über 77.400 USD bei starkem Volumen, doch institutionelles Hedging, Gewinnmitnahmen und steigende BTC-Zuflüsse zu Börsen begrenzen das Wachstum."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

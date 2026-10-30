@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["crypto", "cryptocurrency", "solana", "sol", "stocks"]
 our_take: |
   Our view: Shares of Gemini (GEMI) opened at $41 a share on the Nasdaq Global Select Market on Friday, rising 45% from last night's IPO price. Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
 ---
 
 Shares of Gemini (GEMI) opened at $41 a share on the Nasdaq Global Select Market on Friday, rising 45% from last night's IPO price.

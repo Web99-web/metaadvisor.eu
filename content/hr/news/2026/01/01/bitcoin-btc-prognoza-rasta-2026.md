@@ -24,6 +24,7 @@ tags:
   - liquidity
   - institutions
 summary: "Bitcoin u 2026. ulazi između dva snažno suprotstavljena narativa: dio analitičara upozorava na mogući pad prema 60.000 USD, dok drugi očekuju snažan rast i potencijalni novi povijesni maksimum već u prvom kvartalu godine."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 10px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

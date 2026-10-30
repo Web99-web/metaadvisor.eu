@@ -9,6 +9,7 @@ summary: "Powell’s dovish tone supported a crypto rally, but risks include cor
 tags: ["bitcoin","ether","eth","powell","fed","jackson-hole","dat","monarq","rally","markets","crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/7ee9072b189b6e8c3f86977e9ad5862d55dcf287-1280x854.jpg?auto=format"
 image_alt: "BTC and ETH rally after Powell’s dovish remarks; crypto market surges"
+categories: ["crypto"]
 ---
 
 Cryptocurrencies surged late Friday after Federal Reserve President Jerome Powell struck a dovish tone at the Jackson Hole economic symposium, defying market expectations for a more hawkish stance. That has prompted asset managers to call for new all-time highs for bitcoin (BTC $114,978.33), ether (ETH) and select altcoins.

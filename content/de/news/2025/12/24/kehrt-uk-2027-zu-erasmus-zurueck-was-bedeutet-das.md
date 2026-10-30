@@ -5,10 +5,10 @@ date: 2025-12-24T12:00:00
 category: "news"
 translationKey: "uk_erasmus_2027_context_24122025"
 source: "Reuters, Guardian, EU-Policy-Briefings"
-image_url: "/images/Erasmus-UK-back.png"
-featured_image: "/images/Erasmus-UK-back.png"
-image: "/images/Erasmus-UK-back.png"
-thumbnail: "/images/Erasmus-UK-back.png"
+image_url: "/images/Erasmus-UK-back.webp"
+featured_image: "/images/Erasmus-UK-back.webp"
+image: "/images/Erasmus-UK-back.webp"
+thumbnail: "/images/Erasmus-UK-back.webp"
 image_alt: "Vereinigtes Königreich und Erasmus – Gespräche über eine Rückkehr ab 2027"
 tags:
   - erasmus
@@ -18,6 +18,7 @@ tags:
   - studenten
   - europa
   - eu-programme
+categories: ["news"]
 ---
 
 

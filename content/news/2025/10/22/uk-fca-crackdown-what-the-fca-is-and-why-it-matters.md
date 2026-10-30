@@ -16,6 +16,7 @@ image_alt: "UK flag with bold FCA lettering — regulatory oversight"
 image_credit: "Illustrative image."
 tags: ["FCA", "UK", "crypto", "regulation", "exchanges", "compliance", "Financial Conduct Authority"]
 summary: "The UK’s FCA (Financial Conduct Authority) issued hundreds of warnings to crypto firms in October. If you target UK users, you must be registered and comply with the promotions regime."
+categories: ["crypto"]
 ---
 
 The **FCA (Financial Conduct Authority)** is the United Kingdom’s primary **financial regulator** for firms and markets. Its mandate is to **protect consumers**, **ensure market integrity**, and **promote competition**. For crypto businesses this means: if you **target UK users**, you must be **FCA-registered** and follow the **financial promotions rules** to the letter.

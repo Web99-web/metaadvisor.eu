@@ -16,6 +16,7 @@ image_alt: "BlackRock → Coinbase Prime: prijenos bitcoina i ethereuma radi reb
 image_credit: "Ilustracija — Metaadvisor.eu (simbolična slika)"
 tags: ["BlackRock","Coinbase Prime","ETF","bitcoin","ethereum","BTC","ETH","rebalans","institucije","kripto","tržišta","likvidnost"]
 summary: "BlackRock je prebacio ~1.021 BTC i ~25.707 ETH (ukupno oko $226M) na Coinbase Prime, uz napomenu da se radi o rebalansu portfelja — vjerojatno povezanom s potrebama spot ETF-ova i priljevima/odljevima."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

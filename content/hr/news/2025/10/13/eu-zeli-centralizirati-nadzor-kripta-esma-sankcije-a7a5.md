@@ -15,6 +15,7 @@ image_alt: "Zastava Europske unije preko mreže blokova (simbolično)"
 image_credit: "Slika je simbolična."
 tags: ["EU", "ESMA", "MiCA", "regulation", "stablecoin", "A7A5", "crypto-policy", "compliance", "DeFi", "staking"]
 summary: "Bruxelles razmatra da ESMA preuzme izravni nadzor nad kripto-platformama diljem EU-a kako bi uklonio “fragmentaciju” pod MiCA-om — istodobno se razmatraju i sankcije za rubaljem podržani stablecoin A7A5."
+categories: ["crypto"]
 ---
 
 **Ukratko:**  

@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "russia-opens-regulated-crypto-market-2026-09-01"
 source: "Bank of Russia, TASS, Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Russia-opens-regulated-crypto-market.png"
-featured_image: "/images/informative/Russia-opens-regulated-crypto-market.png"
-image: "/images/informative/Russia-opens-regulated-crypto-market.png"
-thumbnail: "/images/informative/Russia-opens-regulated-crypto-market.png"
+image_url: "/images/informative/Russia-opens-regulated-crypto-market.webp"
+featured_image: "/images/informative/Russia-opens-regulated-crypto-market.webp"
+image: "/images/informative/Russia-opens-regulated-crypto-market.webp"
+thumbnail: "/images/informative/Russia-opens-regulated-crypto-market.webp"
 image_alt: "Rusija otvara regulirano crypto tržište, a Sber priprema kredite uz Bitcoin, Ether i USDT"
 image_credit: "Metaadvisor.eu"
 tags: ["Rusija", "crypto", "kriptovalute", "Bitcoin", "Ethereum", "Ether", "USDT", "stablecoin", "Sber", "banke", "krediti", "kolateral", "regulacija", "financijska tržišta", "ulaganja", "digitalna imovina"]
 description: "Rusija 1. rujna otvara regulirano crypto tržište, dok najveća banka u zemlji, Sber, priprema proizvode u kojima bi Bitcoin, Ether i USDT mogli služiti kao kolateral za kredite."
 summary: "Početak novog regulatornog okvira označava važan korak za rusko crypto tržište. Sber planira proširiti ponudu i prihvaćati BTC, ETH i USDT kao kolateral, dok Bank of Russia određuje pravila za trgovanje digitalnom imovinom na reguliranim platformama."
+categories: ["Crypto"]
 ---
 
 # Rusija danas otvara regulirano crypto tržište: Sber priprema kredite uz BTC, ETH i USDT

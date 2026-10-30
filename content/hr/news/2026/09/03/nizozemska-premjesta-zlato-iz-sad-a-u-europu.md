@@ -6,15 +6,16 @@ category: "Markets"
 translationKey: "netherlands-moves-gold-from-us-to-europe-2026-09-03"
 source: "De Nederlandsche Bank, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Netherlands-moves-gold-from-US-to-Europe.png"
-featured_image: "/images/news/Netherlands-moves-gold-from-US-to-Europe.png"
-image: "/images/news/Netherlands-moves-gold-from-US-to-Europe.png"
-thumbnail: "/images/news/Netherlands-moves-gold-from-US-to-Europe.png"
+image_url: "/images/news/Netherlands-moves-gold-from-US-to-Europe.webp"
+featured_image: "/images/news/Netherlands-moves-gold-from-US-to-Europe.webp"
+image: "/images/news/Netherlands-moves-gold-from-US-to-Europe.webp"
+thumbnail: "/images/news/Netherlands-moves-gold-from-US-to-Europe.webp"
 image_alt: "Nizozemska premješta dio zlatnih rezervi iz SAD-a prema Europi i povećava udio zlata pohranjenog u Londonu"
 image_credit: "Metaadvisor.eu"
 tags: ["Nizozemska", "zlato", "zlatne rezerve", "De Nederlandsche Bank", "DNB", "New York", "London", "Bank of England", "središnje banke", "geopolitički rizik", "financijska tržišta", "rezerve", "SAD", "Europa", "likvidnost", "sigurna imovina"]
 description: "Nizozemska središnja banka smanjila je količinu zlata pohranjenog u New Yorku za gotovo 80 tona i povećala rezerve u Londonu, navodeći geopolitičku nestabilnost i bolju pripremu za ozbiljne krize."
 summary: "DNB je promijenio geografsku raspodjelu svojih 612,4 tone zlata. Udio rezervi u New Yorku pao je s 31,3% na 18,5%, dok je London postao najveća inozemna lokacija nizozemskog zlata."
+categories: ["Markets"]
 ---
 
 *Slika je simbolična.*

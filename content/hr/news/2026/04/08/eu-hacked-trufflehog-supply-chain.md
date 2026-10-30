@@ -7,14 +7,15 @@ translationKey: "8e4c1f2a9b6d4c7ea1f0935bd2c4a8e1"
 author: "Metaadvisor.eu"
 source: "TechCrunch, CERT-EU analiza"
 source_url: "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/"
-image_url: "/images/news/EU-hacked-TruffleHog.png"
-featured_image: "/images/news/EU-hacked-TruffleHog.png"
-image: "/images/news/EU-hacked-TruffleHog.png"
-thumbnail: "/images/news/EU-hacked-TruffleHog.png"
+image_url: "/images/news/EU-hacked-TruffleHog.webp"
+featured_image: "/images/news/EU-hacked-TruffleHog.webp"
+image: "/images/news/EU-hacked-TruffleHog.webp"
+thumbnail: "/images/news/EU-hacked-TruffleHog.webp"
 image_alt: "EU hack i TruffleHog sigurnosni alat"
 image_credit: "Ilustracija"
 tags: ["eu","cybersecurity","hack","data breach","trufflehog","aws","cloud","security","supply chain","tehnologija","ai","infrastruktura"]
 summary: "Europska komisija kompromitirana je kroz supply chain napad putem sigurnosnog alata, što je omogućilo krađu podataka i otvorilo pitanja o sigurnosti digitalne infrastrukture EU."
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

@@ -9,6 +9,7 @@ summary: "Zlato postiže novi rekord, dok bitcoin šalje mješovite signale – 
 tags: ["bitcoin","crypto","gold","macro","markets","safe-haven","risk-assets"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvYmM4NDM3ZjEtYWVmOC00NjAwLWFjNDQtMTM0MmYzNTdiODhlLmpwZw==.jpg"
 image_url_small: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvYmM4NDM3ZjEtYWVmOC00NjAwLWFjNDQtMTM0MmYzNTdiODhlLmpwZw==.jpg"
+categories: ["crypto"]
 ---
 
 Zlato je doseglo novi povijesni rekord, pojačano potražnjom za sigurnom imovinom usred geopolitičkih i inflacijskih pritisaka. Istovremeno, bitcoin šalje mješovite signale koje analitičari nazivaju “podijeljenom osobnošću”: dio tržišta ga tretira kao digitalno zlato, dok ga drugi promatraju kao rizičnu imovinu ovisnu o likvidnosti.

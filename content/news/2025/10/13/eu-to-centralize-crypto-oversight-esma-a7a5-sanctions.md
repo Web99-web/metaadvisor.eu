@@ -15,6 +15,7 @@ image_alt: "EU flag over blockchain symbols (symbolic)"
 image_credit: "Symbolic image."
 tags: ["EU", "ESMA", "MiCA", "regulation", "stablecoin", "A7A5", "crypto-policy", "compliance", "DeFi", "staking"]
 summary: "Brussels is considering granting ESMA direct authority over crypto platforms across the EU to eliminate MiCA 'fragmentation' — while also preparing sanctions against the ruble-backed stablecoin A7A5."
+categories: ["crypto"]
 ---
 
 **In brief:**  

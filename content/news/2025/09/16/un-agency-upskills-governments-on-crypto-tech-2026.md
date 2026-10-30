@@ -14,6 +14,7 @@ image_alt: "Flags of UN member states at the United Nations Office in Geneva"
 image_credit: "Pexels"
 tags: ["crypto","blockchain","UN","UNDP","education","public-sector","regulation","policy","regtech","web3","AML/CFT","analysis","translation"]
 summary: "The UNDP plans a training program for public officials on blockchain and crypto — focused on real use cases, risks and regulation."
+categories: ["crypto"]
 ---
 
 According to Cointelegraph, the UN Development Programme (UNDP) will launch a **training initiative for governments and regulators** next year to provide practical understanding of blockchain and crypto. The aim is to close the gap between technology and policy so that public services can be deployed responsibly and measurably.

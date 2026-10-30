@@ -7,10 +7,10 @@ translationKey: "elevenlabs_voice_ai_330m_arr_2026"
 source: "TechCrunch / Bloomberg"
 source_url: "https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/"
 author: "MetaAdvisor.eu"
-image_url: "/images/ElevenLabs-voice-AI.png"
-featured_image: "/images/ElevenLabs-voice-AI.png"
-image: "/images/ElevenLabs-voice-AI.png"
-thumbnail: "/images/ElevenLabs-voice-AI.png"
+image_url: "/images/ElevenLabs-voice-AI.webp"
+featured_image: "/images/ElevenLabs-voice-AI.webp"
+image: "/images/ElevenLabs-voice-AI.webp"
+thumbnail: "/images/ElevenLabs-voice-AI.webp"
 image_alt: "ElevenLabs bilježi snažan rast prihoda u području AI generiranja glasa"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "ElevenLabs, startup za generiranje glasa pomoću umjetne inteligencije, premašio je 330 milijuna USD godišnjeg ponavljajućeg prihoda, pokazujući koliko brzo AI glas postaje ključna infrastruktura digitalne ekonomije."
@@ -23,6 +23,7 @@ tags:
   - startup
   - tehnologija
   - arr
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

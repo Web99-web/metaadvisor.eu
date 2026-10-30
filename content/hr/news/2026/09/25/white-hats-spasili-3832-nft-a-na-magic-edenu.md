@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Magic Eden", "NFT", "Ethereum", "EVM", "kripto sigurnost", "white hats", "wallet", "smart contract", "blockchain"]
 description: "White hat operacija premjestila je 3.832 NFT-a iz stotina walleta nakon sumnje na sigurnosni propust povezan s Magic Edenom."
 summary: "Tisuće NFT-ova premještene su za 0 ETH nakon sumnje na ranjivost povezanu s Magic Edenom. 0xQuit iz Yuga Labsa tvrdi da je riječ o white hat operaciji i da će NFT-ovi biti vraćeni vlasnicima kada opasnost prođe."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

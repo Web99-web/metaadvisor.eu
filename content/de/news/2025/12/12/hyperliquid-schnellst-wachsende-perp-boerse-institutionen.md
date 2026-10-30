@@ -15,6 +15,7 @@ image_alt: "Hyperliquid — Next-Gen dezentralisierte Perp-Börse"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["hyperliquid","dex","perps","derivate","binance","dydx","institutionen","defi","krypto","blockchain","trading"]
 summary: "Hyperliquid ist innerhalb eines Jahres zur am schnellsten wachsenden dezentralen Perp-Börse geworden – dank eines eigenen L1-Blockchains, tiefem Orderbuch und einer Stabilität, die DeFi in dieser Form bisher nicht kannte."
+categories: ["crypto"]
 ---
 
 <div class="cta">

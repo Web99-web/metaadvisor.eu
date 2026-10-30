@@ -15,6 +15,7 @@ image_alt: "Spanish flag and crypto seizure in piracy investigation"
 image_credit: "Metaadvisor / illustration"
 tags: ["crypto","cryptocurrency","spain","manga","piracy","blockchain","cold wallet","cybercrime","regulation"]
 summary: "Spanish police dismantled a large illegal manga distribution network operating since 2014 and seized crypto cold wallets. The case shows that cryptocurrencies are not beyond the reach of law enforcement."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

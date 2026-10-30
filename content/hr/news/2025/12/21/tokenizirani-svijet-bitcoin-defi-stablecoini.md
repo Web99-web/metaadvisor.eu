@@ -7,14 +7,15 @@ translationKey: "tokenized_world_btc_defi_stablecoins_21122025"
 source: "MetaAdvisor analiza"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Tokenized-world.png"
-featured_image: "/images/Tokenized-world.png"
-image: "/images/Tokenized-world.png"
-thumbnail: "/images/Tokenized-world.png"
+image_url: "/images/Tokenized-world.webp"
+featured_image: "/images/Tokenized-world.webp"
+image: "/images/Tokenized-world.webp"
+thumbnail: "/images/Tokenized-world.webp"
 image_alt: "Tokenizirani svijet: Bitcoin, DeFi i stablecoini kao nova financijska infrastruktura"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["tokenizacija", "bitcoin", "defi", "stablecoini", "kripto", "financije", "blockchain", "buducnost-financija"]
 summary: "Tokenizacija povezuje Bitcoin, DeFi i stablecoine u jedinstveni financijski sustav u kojem blockchain postaje infrastruktura, a ne samo nova klasa imovine."
+categories: ["crypto"]
 ---
 
 # Tokenizirani svijet: nova faza kripta i financija

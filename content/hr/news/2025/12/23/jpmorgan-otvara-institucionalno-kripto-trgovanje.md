@@ -7,10 +7,10 @@ translationKey: "jpmorgan_crypto_institutional_23122025"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/12/23/j-p-morgan-s-institutional-crypto-push-could-boost-rivals-like-coinbase-bullish-analysts-say"
 author: "MetaAdvisor.eu"
-image_url: "/images/JP-Morgan-crypto.png"
-featured_image: "/images/JP-Morgan-crypto.png"
-image: "/images/JP-Morgan-crypto.png"
-thumbnail: "/images/JP-Morgan-crypto.png"
+image_url: "/images/JP-Morgan-crypto.webp"
+featured_image: "/images/JP-Morgan-crypto.webp"
+image: "/images/JP-Morgan-crypto.webp"
+thumbnail: "/images/JP-Morgan-crypto.webp"
 image_alt: "JPMorgan ulazi u institucionalno kripto-trgovanje"
 tags:
   - kriptovalute
@@ -19,6 +19,7 @@ tags:
   - jp morgan
   - financijska tržišta
 summary: "JPMorgan razmatra pokretanje institucionalnog kripto-trgovanja, potez koji dodatno potvrđuje ulazak velikih banaka u digitalnu imovinu."
+categories: ["crypto"]
 ---
 
 <div class="cta" style="text-align:center; margin:24px 0;">

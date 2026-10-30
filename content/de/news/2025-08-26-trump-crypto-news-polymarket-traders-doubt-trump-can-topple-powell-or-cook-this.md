@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/26/polymarket-bettors-doub
 summary: "Polymarket erwartet, dass Powell 2025 unbeschadet übersteht – selbst wenn Trumps Versuch, Lisa Cook zu entlassen, den Rechtsschutz der Fed testet."
 tags: ["crypto","bitcoin","btc","polymarket","federal-reserve","jerome-powell","lisa-cook","trump","prediction-markets"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/929953de00b8159334b5ec0383ac3b9730ea74c8-1536x998.png?auto=format"
+categories: ["crypto"]
 ---
 
 Prognosemärkte signalisieren Skepsis, dass **Donald Trump** die **US-Notenbank** in diesem Jahr nach seinem Willen formen kann — obwohl der Präsident versucht, eine Fed-Gouverneurin aus „wichtigem Grund“ zu entlassen.

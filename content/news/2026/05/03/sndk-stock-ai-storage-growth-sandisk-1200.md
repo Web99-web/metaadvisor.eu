@@ -15,6 +15,7 @@ image_alt: "AI market and SNDK stock growth shown through a market focus chart"
 image_credit: "Metaadvisor.eu"
 tags: ["sndk stock", "sandisk growth", "ai infrastructure", "ai storage demand", "data centers growth", "ai investments", "tech stocks ai", "nasdaq ai trend", "memory demand ai", "ai investing"]
 summary: "SanDisk (SNDK) surged from around $250 at the end of 2025 to nearly $1,200 in 2026, driven by explosive demand for AI infrastructure and data storage solutions."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

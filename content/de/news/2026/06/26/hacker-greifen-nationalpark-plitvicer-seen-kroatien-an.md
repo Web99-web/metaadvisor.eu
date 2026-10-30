@@ -15,6 +15,7 @@ image_alt: "Cyberangriff auf den Nationalpark Plitvicer Seen in Kroatien"
 image_credit: "Metaadvisor.eu"
 tags: ["Plitvicer Seen", "Nationalpark Plitvicer Seen", "Hackerangriff", "Cybervorfall", "Cybersicherheit", "Tourismus", "bargeldloses Bezahlen", "Kartenzahlung", "Bargeld", "manuelle Rechnungsausstellung", "digitale Infrastruktur", "touristische Infrastruktur", "Datenschutz", "Kroatien", "Nationalpark", "Metaadvisor"]
 summary: "Der Nationalpark Plitvicer Seen hat einen Cybervorfall gemeldet, der bereits mehrere Tage andauert. Das Ziel des Angriffs ist bisher nicht bekannt, doch die wichtigste Frage ist nicht nur, wer hinter dem Angriff steckt, sondern wie der Ausfall digitaler Systeme Besucher, Zahlungen, Rechnungen und Grundbedürfnisse an einem abgelegenen touristischen Ort beeinflusst."
+categories: ["cybersecurity"]
 ---
 
 Das Bild ist symbolisch.

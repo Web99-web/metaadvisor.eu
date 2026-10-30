@@ -7,14 +7,15 @@ translationKey: "d50803f5d32a079202b1344472db7acc"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/"
 author: "Metaadvisor.eu"
-image_url: "/images/Wind-turbine-offshore.png"
-featured_image: "/images/Wind-turbine-offshore.png"
-image: "/images/Wind-turbine-offshore.png"
-thumbnail: "/images/Wind-turbine-offshore.png"
+image_url: "/images/Wind-turbine-offshore.webp"
+featured_image: "/images/Wind-turbine-offshore.webp"
+image: "/images/Wind-turbine-offshore.webp"
+thumbnail: "/images/Wind-turbine-offshore.webp"
 image_alt: "Offshore-Windkraftanlagen vor der Küste der USA"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags: ["offshore wind", "windenergie", "erneuerbare energien", "usa", "energiepolitik", "stromnetz", "energiewende"]
 summary: "US-Bundesgerichte haben den Weiterbau mehrerer Offshore-Windparks erlaubt und damit politische Blockaden zugunsten der Energiewende aufgehoben."
+categories: ["news"]
 ---
 
 <p style="font-size:0.8em; color:#777; margin-top:-6px;">

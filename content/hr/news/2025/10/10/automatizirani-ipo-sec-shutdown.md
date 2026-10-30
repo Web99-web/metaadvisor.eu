@@ -16,6 +16,7 @@ image_alt: "SEC IPO shutdown automatika"
 image_credit: "Metaadvisor.eu (slika simbolična)"
 tags: ["tržišta","ipo","sec","shutdown","regulativa","startupovi","kapital","investitori","sad"]
 summary: "Zbog shutdowna i odsutnog SEC osoblja, IPO prijave automatski postaju učinkovite nakon 20 dana – čak i bez cijene, što otvara rizike za ulagače."
+categories: ["news"]
 ---
 
 Zbog **shutdowna američke vlade** i činjenice da je **90% SEC osoblja na prisilnom dopustu**, tvrtke mogu lansirati svoje IPO-e putem **automatskog postupka**. Nakon 20 dana prijava automatski stupa na snagu — bez obvezne objave cijene.

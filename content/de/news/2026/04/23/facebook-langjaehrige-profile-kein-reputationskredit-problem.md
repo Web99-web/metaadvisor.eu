@@ -7,14 +7,15 @@ translationKey: "facebook-long-term-profiles-no-reputation-credit"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-blocks-long-term-profiles.png"
-featured_image: "/images/Meta/Facebook-blocks-long-term-profiles.png"
-image: "/images/Meta/Facebook-blocks-long-term-profiles.png"
-thumbnail: "/images/Meta/Facebook-blocks-long-term-profiles.png"
+image_url: "/images/Meta/Facebook-blocks-long-term-profiles.webp"
+featured_image: "/images/Meta/Facebook-blocks-long-term-profiles.webp"
+image: "/images/Meta/Facebook-blocks-long-term-profiles.webp"
+thumbnail: "/images/Meta/Facebook-blocks-long-term-profiles.webp"
 image_alt: "Facebook blockiert langjährige Profile ohne Erklärung"
 image_credit: "Metaadvisor.eu"
 tags: ["facebook", "ai moderation", "kontosperrung", "digitale rechte", "zensur", "soziale netzwerke", "meta", "technologie"]
 summary: "Langjährige Facebook-Nutzer verlieren zunehmend ihre Konten ohne Erklärung, ohne Support und ohne Einspruchsmöglichkeit — und werfen die Frage auf, warum Reputation auf der Plattform keinen Wert hat."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

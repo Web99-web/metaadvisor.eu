@@ -12,9 +12,10 @@ image: "/images/EU/EU-inc.png"
 thumbnail: "/images/EU/EU-inc.png"
 image_alt: "EU Inc. – europska tvrtka za 48 sati, najviše 100 eura i bez minimalnog temeljnog kapitala"
 image_credit: "Metaadvisor.eu"
-tags: ["EU Inc.", "Europska unija", "28. režim", "poduzetništvo", "startup", "tvrtka", "EU poslovanje", "porezi", "poticaji", "jedinstveno tržište"]
+tags: ["EU Inc", "Europska unija", "28. režim", "poduzetništvo", "startup", "tvrtka", "EU poslovanje", "porezi", "poticaji", "jedinstveno tržište"]
 description: "EU priprema novi pravni oblik EU Inc. koji bi se mogao otvoriti online za 48 sati uz trošak do 100 eura i bez minimalnog temeljnog kapitala. Što bi to stvarno značilo za poduzetnike?"
 summary: "EU Inc. trebao bi omogućiti osnivanje europske tvrtke online u roku od 48 sati, uz maksimalni trošak od 100 eura i bez minimalnog temeljnog kapitala. No porezi, radno pravo i pristup nacionalnim poticajima i dalje otvaraju važna pitanja."
+categories: ["EU"]
 ---
 
 *Slika je simbolična.*

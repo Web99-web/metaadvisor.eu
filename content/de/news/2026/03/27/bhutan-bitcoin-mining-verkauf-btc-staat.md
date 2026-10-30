@@ -7,14 +7,15 @@ translationKey: "e788097f0e70da2e85a3995ef5b99328"
 author: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/news/Butan-BTC.png"
-featured_image: "/images/news/Butan-BTC.png"
-image: "/images/news/Butan-BTC.png"
-thumbnail: "/images/news/Butan-BTC.png"
+image_url: "/images/news/Butan-BTC.webp"
+featured_image: "/images/news/Butan-BTC.webp"
+image: "/images/news/Butan-BTC.webp"
+thumbnail: "/images/news/Butan-BTC.webp"
 image_alt: "Bhutan und Bitcoin – Mining und Verkauf von BTC"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "bhutan", "mining", "wasserkraft", "crypto", "blockchain", "verkauf", "markt"]
 summary: "Bhutan, ein kleiner asiatischer Staat, der überwiegend durch Mining Tausende Bitcoins aufgebaut hat, verkauft nun BTC im Wert von über 150 Millionen Dollar – ohne große Auswirkungen auf den Markt."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

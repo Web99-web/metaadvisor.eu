@@ -23,6 +23,7 @@ tags:
   - volatility
   - institutions
 summary: "Bitcoin and Ethereum ended Q4 2025 with one of their weakest performances in years. Instead of a year-end rally, caution dominated the market — a signal that will strongly shape crypto’s path into 2026."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/eu-chat-control-privacy-warning-web3-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/eu-chat-control-sigurno-nadzorovano.png"
-featured_image: "/images/eu-chat-control-sigurno-nadzorovano.png"
-image: "/images/eu-chat-control-sigurno-nadzorovano.png"
-thumbnail: "/images/eu-chat-control-sigurno-nadzorovano.png"
+image_url: "/images/eu-chat-control-sigurno-nadzorovano.webp"
+featured_image: "/images/eu-chat-control-sigurno-nadzorovano.webp"
+image: "/images/eu-chat-control-sigurno-nadzorovano.webp"
+thumbnail: "/images/eu-chat-control-sigurno-nadzorovano.webp"
 image_alt: "EU Chat Control — Illustration"
 image_credit: "Metaadvisor (symbolisches Bild)"
 tags: ["EU", "Chat-Control", "Privatsphäre", "Zensur", "Regulierung", "Web3", "Blockchain", "Meinungsfreiheit", "Politik", "Überwachung"]
 summary: "Experten warnen, dass das geplante Chat-Control-Gesetz die Privatsphäre massiv gefährden und Nutzer in Richtung Web3-Kommunikation und Blockchain-basierte Netzwerke treiben würde."
+categories: ["news"]
 ---
 
 **Kurz & knapp:**  

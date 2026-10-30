@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Türkei", "Türkische Börse", "BIST 100", "MSCI", "Schwellenländer", "Investmentfonds", "Aktienmarkt", "Finanzmärkte", "Marktregulierung", "Liquidität", "US-Staatsanleihen", "Weltwirtschaft", "Wirtschaft"]
 description: "Die türkische Börse erlebt ihren stärksten Monatsverlust seit 2008. 131 Fonds sollen liquidiert werden, während MSCI vor strukturellen Problemen warnt."
 summary: "Der türkische Leitindex BIST 100 verlor im September 16,65 Prozent, während die Behörden die Liquidation von 131 Investmentfonds anordneten. MSCI setzte bestimmte Indexanpassungen aus und warnte vor einer möglichen Änderung der Markteinstufung im Jahr 2027. Für virale Behauptungen über Verluste von einer Billion türkischer Lira an einem einzigen Vormittag sowie über einen dringenden Verkauf von US-Staatsanleihen und Gold gibt es bislang keine verlässliche Bestätigung."
+categories: ["business"]
 ---
 
 *Das Bild dient ausschließlich der symbolischen Illustration.*

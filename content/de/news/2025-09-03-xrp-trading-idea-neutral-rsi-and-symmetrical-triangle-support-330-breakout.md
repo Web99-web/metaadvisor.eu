@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/xrp-trading-idea-neutra
 summary: "Wal-Akkumulation dämpft Verkaufsdruck um 2,76 USD, während institutionelle Zuflüsse XRP in Richtung Widerstandszone bei 2,86 USD treiben."
 tags: ["xrp", "XRP", "crypto", "trading", "RSI", "breakout", "analyse"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/0/0c/XRP_Logo.svg"
+categories: ["news"]
 ---
 
 **XRP** erlebte eine volatile Handelssitzung zwischen **2,76 und 2,86 USD**, während geopolitische und geldpolitische Unsicherheiten die Kryptomärkte beeinflussten.  

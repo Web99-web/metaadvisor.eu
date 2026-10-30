@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/vaneck-aims-to-take-sol
 summary: "Fond bi omogućio izloženost staked Solani putem JitoSOL-a, prateći nagrade od stakinga."
 tags: ["crypto", "token", "financije", "etf", "solana", "sol", "jitosol", "vaneck"]
 image: "/news/2025-08-22-jitosol-etf-news-vaneck-files-to-launch-staked-solana-sol-etf-backed-by-liquid-s.jpg"
+categories: ["crypto"]
 ---
 
 Upravitelj imovinom **VanEck** podnio je zahtjev za pokretanje **ETF-a vezanog uz staked Solanu (SOL)**, što pokazuje nastavak interesa za uvođenje blockchain-native imovine koja donosi prinos na tradicionalna investicijska tržišta.  

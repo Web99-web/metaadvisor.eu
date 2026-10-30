@@ -7,14 +7,15 @@ translationKey: "gold_5093_pullback_5100_question_20260125"
 source: "Market data / MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/gold.png"
-featured_image: "/images/gold.png"
-image: "/images/gold.png"
-thumbnail: "/images/gold.png"
+image_url: "/images/gold.webp"
+featured_image: "/images/gold.webp"
+image: "/images/gold.webp"
+thumbnail: "/images/gold.webp"
 image_alt: "Goldbarren mit Marktchart in einer Phase hoher Volatilität"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Gold erreichte kurzfristig die Marke von 5.093, bevor der Preis auf etwa 5.065 zurückfiel. Der Markt beobachtet nun, ob ein neuer Anlauf auf die psychologische Grenze von 5.100 folgt."
 tags: ["gold", "edelmetalle", "märkte", "sicherer hafen", "gewinnmitnahmen", "psychologische marke", "makro"]
+categories: ["markets"]
 ---
 
 *Das Bild ist symbolisch.*

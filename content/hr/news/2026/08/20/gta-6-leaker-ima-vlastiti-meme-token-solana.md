@@ -6,15 +6,16 @@ category: "Cybersecurity"
 translationKey: "gta-6-leaker-own-meme-token-solana-2026-08-20"
 source: "CyberLeek, The Verge, PC Gamer, GamesRadar, Le Monde, DEX Screener, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/games/GTA-6-leaker-has-his-own-meme-token.png"
-featured_image: "/images/games/GTA-6-leaker-has-his-own-meme-token.png"
-image: "/images/games/GTA-6-leaker-has-his-own-meme-token.png"
-thumbnail: "/images/games/GTA-6-leaker-has-his-own-meme-token.png"
+image_url: "/images/games/GTA-6-leaker-has-his-own-meme-token.webp"
+featured_image: "/images/games/GTA-6-leaker-has-his-own-meme-token.webp"
+image: "/images/games/GTA-6-leaker-has-his-own-meme-token.webp"
+thumbnail: "/images/games/GTA-6-leaker-has-his-own-meme-token.webp"
 image_alt: "GTA 6 leaker CyberLeek promovira vlastiti meme token na Solana blockchainu"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["GTA 6", "GTA VI", "CyberLeek", "Rockstar Games", "Take-Two", "Solana", "meme token", "crypto", "gaming", "cybersecurity"]
 description: "CyberLeek objavljuje navodne GTA VI gameplay snimke, manifest protiv praksi gaming industrije i istodobno promovira vlastiti meme token na Solani."
 summary: "GTA VI leak prerastao je u neobičnu kombinaciju gaminga, cyber aktivizma i crypta: CyberLeek objavljuje gameplay, postavlja zahtjeve izdavačima i promovira $CYBERLEEK meme token."
+categories: ["Cybersecurity"]
 ---
 
 *Slika je simbolična.*

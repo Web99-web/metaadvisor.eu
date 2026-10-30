@@ -7,14 +7,15 @@ translationKey: "46893bdc0f9dffd52a82fde445692343"
 source: "Metaadvisor (Cointelegraph, Estonian FIU, Estonian FSA, Notes from Poland)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/warnings/30-days-to-comply.png"
-featured_image: "/images/warnings/30-days-to-comply.png"
-image: "/images/warnings/30-days-to-comply.png"
-thumbnail: "/images/warnings/30-days-to-comply.png"
+image_url: "/images/warnings/30-days-to-comply.webp"
+featured_image: "/images/warnings/30-days-to-comply.webp"
+image: "/images/warnings/30-days-to-comply.webp"
+thumbnail: "/images/warnings/30-days-to-comply.webp"
 image_alt: "30 Tage zur Nachbesserung und regulatorische Warnung für eine Kryptobörse"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "krypto", "zondacrypto", "bb trade estonia", "estland", "estonia", "fiu", "mica", "regulierung", "crypto exchange", "kryptobörse", "bitcoin", "btc", "4500 btc", "compliance", "lizenz", "europäische union", "eu", "polen", "security", "custody", "zentralisierte börsen"]
 summary: "Die estnische FIU hat die Lizenz von BB Trade Estonia OÜ, dem Betreiber hinter Zondacrypto, teilweise ausgesetzt. Das Unternehmen hat 30 Tage Zeit zur Nachbesserung, während die größere Geschichte weiterhin mit früheren Problemen rund um 4.500 BTC, Auszahlungen und regulatorischem Druck in Europa verbunden ist."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

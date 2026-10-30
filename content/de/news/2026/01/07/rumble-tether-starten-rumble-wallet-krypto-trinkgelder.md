@@ -7,10 +7,10 @@ translationKey: "73d18c1c2070ba750be7c27e35b405f9"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/tether-rumble-launch-non-custodial-crypto-wallet"
 author: "MetaAdvisor.eu"
-image_url: "/images/Rumble-Wallet.png"
-featured_image: "/images/Rumble-Wallet.png"
-image: "/images/Rumble-Wallet.png"
-thumbnail: "/images/Rumble-Wallet.png"
+image_url: "/images/Rumble-Wallet.webp"
+featured_image: "/images/Rumble-Wallet.webp"
+image: "/images/Rumble-Wallet.webp"
+thumbnail: "/images/Rumble-Wallet.webp"
 image_alt: "Rumble Wallet – Krypto-Wallet für Trinkgelder an Content Creator"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - creators
   - payments
 summary: "Rumble und Tether haben das Rumble Wallet vorgestellt – ein Non-Custodial-Krypto-Wallet, mit dem Nutzer Content Creator direkt in der App Trinkgelder senden können."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

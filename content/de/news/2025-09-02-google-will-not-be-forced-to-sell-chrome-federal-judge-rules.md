@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/02/google-chrome-mo
 summary: "Richter entschied, dass Google seinen beliebtesten Browser trotz Monopol-Urteil behalten darf."
 tags: ["Google", "Chrome", "Antitrust", "Monopol", "Tech"]
 image_url: "/images/google.png"
+categories: ["news"]
 ---
 
 Ein Bundesrichter hat entschieden, dass **Google seinen Browser Chrome nicht verkaufen muss**, obwohl das Unternehmen im letzten Jahr als Monopol verurteilt wurde.  

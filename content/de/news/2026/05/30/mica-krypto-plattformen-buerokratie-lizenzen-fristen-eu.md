@@ -7,14 +7,15 @@ translationKey: "mica-crypto-platforms-bureaucracy-eu-deadlines-2026-05-30"
 source: "Metaadvisor.eu (Kriptomat, Kraken, ESMA)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/MICA-eu-regulation.png"
-featured_image: "/images/MICA-eu-regulation.png"
-image: "/images/MICA-eu-regulation.png"
-thumbnail: "/images/MICA-eu-regulation.png"
+image_url: "/images/MICA-eu-regulation.webp"
+featured_image: "/images/MICA-eu-regulation.webp"
+image: "/images/MICA-eu-regulation.webp"
+thumbnail: "/images/MICA-eu-regulation.webp"
 image_alt: "European crypto regulation, MiCA licensing and administrative deadlines concept"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "krypto", "mica", "mica regulierung", "eu regulierung", "europäische union", "krypto regulierung", "krypto börsen", "krypto plattformen", "casp", "lizenz", "mica lizenz", "regulatoren", "bürokratie", "verwaltung", "kriptomat", "kraken", "estland", "estonia", "irland", "ireland", "central bank of ireland", "esma", "compliance", "rechtssicherheit", "marktkonzentration", "große akteure", "kleine akteure", "digitale vermögenswerte"]
 summary: "MiCA verlangt von Krypto-Plattformen Lizenzen, Fristen, Dokumentation und Compliance, doch der Fall Kriptomat wirft die Frage auf, warum ebenso klare Fristen nicht auch für die Verwaltung gelten, die diese Lizenzen genehmigt."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

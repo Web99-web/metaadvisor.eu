@@ -11,6 +11,7 @@ image_url: "https://techcrunch.com/wp-content/uploads/2021/01/lwzxxnshgj71bonwbi
 tags: ["ai", "artificial-intelligence", "google", "openai"]
 our_take: |
   Our view: The CEO of the largest digital and print publisher in the U.S. Bigger picture: data/licensing, model quality, and policy risk drive outcomes. We like real distribution and defensible data moats.
+categories: ["news"]
 ---
 
 The CEO of the largest digital and print publisher in the U.S. has accused Google of being a bad actor for crawling its websites to support the search giant’s AI products.

@@ -11,6 +11,7 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "finance", "stocks"]
 our_take: |
   Naše mišljenje: Blizanci skaču na NASDAQ debi, dosegnuvši 4,4 milijarde dolara, Gailing Galiday, na NASDAQ -u je u petak s otprilike 4,4 milijarde dolara, jer su dionice Crypto Exchange odmah skočile iznad svoje početne ponude P… Ključne stvari za gledanje: likvidnost, makro (UsD) i regulacija.Ostanite selektivni;Dodajte samo u imena visoke presude.
+categories: ["news"]
 ---
 
 Blizanci skaču na NASDAQ debiju, dosegnuvši 4,4 milijarde dolara procjene

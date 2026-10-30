@@ -15,6 +15,7 @@ image_alt: "Bitcoin-Münzen symbolisieren die Volatilität des Marktes"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["bitcoin","btc","krypto","crypto","kryptomarkt","bitcoin kurs","bitcoin analyse","bitcoin volatilität","marktvolatilität","blockchain","digitale vermögenswerte"]
 summary: "Bitcoin stieg kurzzeitig auf 74.000 Dollar, verlor danach jedoch schnell an Dynamik. Der Markt ist derzeit gespalten zwischen kurzfristigen Verkäufen und Anzeichen starker Akkumulation."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

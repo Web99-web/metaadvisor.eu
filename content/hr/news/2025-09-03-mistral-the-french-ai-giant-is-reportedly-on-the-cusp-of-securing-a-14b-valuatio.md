@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-re
 summary: "Francuski startup Mistral AI, osnovan od bivših istraživača DeepMinda i Mete, razvija open source jezične modele i Le Chat chatbot za europsko tržište."
 tags: ["AI", "Francuska", "startup", "investicije", "Mistral", "OpenAI-rival"]
 image_url: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg"
+categories: ["ai"]
 ---
 
 Francuski AI startup **Mistral AI** finalizira investiciju od 2 milijarde eura uz valuaciju od 14 milijardi dolara, izvještava Bloomberg. Time bi Mistral postao jedan od najvrjednijih europskih tehnoloških startupa.  

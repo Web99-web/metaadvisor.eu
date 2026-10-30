@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/05/tesla-elon-musk-
 summary: "Der CEO muss den Wert von Tesla innerhalb von 10 Jahren von etwas über 1 Billion USD auf 8,5 Billionen USD steigern."
 tags: ["tesla", "elon musk", "aktien", "ev", "billionär"]
 image_url: "https://www.pexels.com/photo/person-sitting-inside-car-2526127/"
+categories: ["news"]
 ---
 
 **Elon Musk** könnte, falls er die von Tesla gesetzten Ziele erreicht, der erste **Billionär der Welt** werden.  

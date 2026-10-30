@@ -7,14 +7,15 @@ translationKey: "casascius_2000btc_1312_satoshi_question_hr001"
 source: "MetaAdvisor — analysis"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-Casascius.png"
-featured_image: "/images/BTC-Casascius.png"
-image: "/images/BTC-Casascius.png"
-thumbnail: "/images/BTC-Casascius.png"
+image_url: "/images/BTC-Casascius.webp"
+featured_image: "/images/BTC-Casascius.webp"
+image: "/images/BTC-Casascius.webp"
+thumbnail: "/images/BTC-Casascius.webp"
 image_alt: "Casascius physical Bitcoin coins"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","crypto","casascius","satoshi","security","blockchain","bitcoin-history","analysis"]
 summary: "After more than a decade of complete silence, two Casascius coins holding a total of 2,000 BTC suddenly moved. Was it the original owner — or someone who rediscovered one of the rarest Bitcoin artifacts ever created?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

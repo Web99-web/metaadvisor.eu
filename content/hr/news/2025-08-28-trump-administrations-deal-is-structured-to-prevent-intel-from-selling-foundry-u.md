@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/28/trump-administrations-deal-is-str
 summary: "Dogovor omogućuje SAD-u dodatni vlasnički udio u Intelu ako tvrtka ne zadrži barem 51% foundry poslovanja."
 tags: ["Intel","Trump","CHIPS Act","semiconductors","foundry"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/intel-foundry-trump-deal.jpg"
+categories: ["news"]
 ---
 
 Trumpova administracija nastoji ograničiti Intelovu slobodu odlučivanja oko njegovog posrnulog **foundry odjela**.

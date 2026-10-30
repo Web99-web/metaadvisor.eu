@@ -7,14 +7,15 @@ translationKey: "tao-bittensor-decentralization-2026"
 author: "Metaadvisor.eu"
 source: "Cointelegraph, TradingView, Binance, MEXC"
 source_url: ""
-image_url: "/images/TAO-bittensor.png"
-featured_image: "/images/TAO-bittensor.png"
-image: "/images/TAO-bittensor.png"
-thumbnail: "/images/TAO-bittensor.png"
+image_url: "/images/TAO-bittensor.webp"
+featured_image: "/images/TAO-bittensor.webp"
+image: "/images/TAO-bittensor.webp"
+thumbnail: "/images/TAO-bittensor.webp"
 image_alt: "TAO und Bittensor AI Netzwerk"
 image_credit: "Metaadvisor Illustration"
 tags: ["tao", "bittensor", "ai", "krypto", "blockchain", "dezentralisierung", "token", "markt", "volatilität"]
 summary: "TAO, oft als ‘AI Bitcoin’ bezeichnet, geriet nach dem Ausstieg eines wichtigen Teams und Vorwürfen der Zentralisierung unter Druck, während die Kursbewegung auch den Einfluss des Gesamtmarktes widerspiegelt."
+categories: ["crypto"]
 ---
 
 _Das Bild ist symbolisch._

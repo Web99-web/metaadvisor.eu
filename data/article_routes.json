@@ -1,0 +1,28 @@
+{
+  "aliases": {
+    "https://metaadvisor.eu/news/public-keys-crypto-ipos-sizzle-missing-gensler-texts-grizzle-decrypt-f07280/": "https://metaadvisor.eu/news/public-keys-crypto-ipos-sizzle-missing-gensler-texts-grizzle-decrypt/",
+    "https://metaadvisor.eu/news/solana-surges-again-as-galaxy-digital-buys-over-700-million-in-sol-decrypt-0a8844/": "https://metaadvisor.eu/news/solana-surges-again-as-galaxy-digital-buys-over-700-million-in-sol-decrypt/",
+    "https://metaadvisor.eu/news/winklevoss-twins-call-for-1-million-bitcoin-price-as-gemini-goes-public-decrypt-43a643/": "https://metaadvisor.eu/news/winklevoss-twins-call-for-1-million-bitcoin-price-as-gemini-goes-public-decrypt/",
+    "https://metaadvisor.eu/news/gemini-jumps-on-nasdaq-debut-hitting-44-billion-valuation-decrypt-064f13/": "https://metaadvisor.eu/news/gemini-jumps-on-nasdaq-debut-hitting-44-billion-valuation-decrypt/",
+    "https://metaadvisor.eu/news/how-thousands-of-overworked-underpaid-humans-train-googles-ai-to-seem-smart-fbcc38/": "https://metaadvisor.eu/news/how-thousands-of-overworked-underpaid-humans-train-googles-ai-to-seem-smart/",
+    "https://metaadvisor.eu/de/news/was-die-zinsentscheidung-der-fed-am-17-september-fuer-krypto-gold-und-aktien-bedeutet-6b9a5b/": "https://metaadvisor.eu/de/news/was-die-fed-entscheidung-am-17-september-fuer-krypto-gold-und-aktien-bedeutet/",
+    "https://metaadvisor.eu/de/news/oeffentliche-schluessel-crypto-ipos-sizzle-fehlende-gensler-texte-grizzle-entschluesselung-689b8e/": "https://metaadvisor.eu/de/news/oeffentliche-schluessel-crypto-ipos-sizzle-fehlende-gensler-texte-grizzle-entschluesselung/",
+    "https://metaadvisor.eu/de/news/solana-erstreckt-sich-erneut-als-galaxy-digital-ueber-700-millionen-us-dollar-in-sol-entschluesselung-kauft-ea2b65/": "https://metaadvisor.eu/de/news/solana-steigt-erneut-galaxy-digital-kauft-ueber-700-millionen-sol/",
+    "https://metaadvisor.eu/de/news/solana-erstreckt-sich-erneut-als-galaxy-digital-ueber-700-millionen-us-dollar-in-sol-entschluesselung-kauft/": "https://metaadvisor.eu/de/news/solana-steigt-erneut-galaxy-digital-kauft-ueber-700-millionen-sol/",
+    "https://metaadvisor.eu/de/news/winklevoss-twins-fordert-einen-bitcoin-preis-von-1-million-us-dollar-waehrend-gemini-oeffentlich-geht-entschluesseln-8585a4/": "https://metaadvisor.eu/de/news/winklevoss-zwillinge-1-million-bitcoin-gemini-geht-an-die-boerse/",
+    "https://metaadvisor.eu/de/news/gemini-springt-beim-nasdaq-debuet-und-erreicht-44-milliarden-us-dollar-entschluesselung-96daab/": "https://metaadvisor.eu/de/news/gemini-springt-beim-nasdaq-debuet-und-erreicht-44-milliarden-us-dollar-entschluesselung/",
+    "https://metaadvisor.eu/hr/news/sto-fedeova-odluka-o-kamatnoj-stopi-od-17-rujna-znaci-za-kriptovalute-zlato-i-zalihe/": "https://metaadvisor.eu/hr/news/sto-odluka-fed-17-rujna-znaci-za-kripto-zlato-i-dionice/",
+    "https://metaadvisor.eu/hr/news/javni-kljucevi-crypto-ipo-sizzle-nedostajuci-gensler-texts-grizzle-decript-558a95/": "https://metaadvisor.eu/hr/news/javni-kljucevi-crypto-ipo-sizzle-nedostajuci-gensler-texts-grizzle-decript/",
+    "https://metaadvisor.eu/hr/news/solana-se-ponovno-razmaze-dok-galaxy-digital-kupuje-vise-od-700-milijuna-dolara-u-sol-desifrira-9d20fe/": "https://metaadvisor.eu/hr/news/solana-ponovno-raste-galaxy-digital-kupuje-vise-od-700-milijuna-sol/",
+    "https://metaadvisor.eu/hr/news/solana-se-ponovno-razmaze-dok-galaxy-digital-kupuje-vise-od-700-milijuna-dolara-u-sol-desifrira/": "https://metaadvisor.eu/hr/news/solana-ponovno-raste-galaxy-digital-kupuje-vise-od-700-milijuna-sol/",
+    "https://metaadvisor.eu/hr/news/blizanci-winklevoss-pozivaju-na-milijun-dolara-bitcoin-cijene-dok-blizanci-postaju-javni-desipt/": "https://metaadvisor.eu/hr/news/blizanci-winklevoss-bitcoin-1-milijun-gemini-izlazi-na-burzu/",
+    "https://metaadvisor.eu/hr/news/blizanci-skoci-na-nasdaq-debi-dosezuci-44-milijarde-dolara-vrednovanje-desifript/": "https://metaadvisor.eu/hr/news/blizanci-skacu-na-nasdaq-debiju-dosezuci-44-milijarde-dolara-vrednovanje-desifript/",
+    "https://metaadvisor.eu/hr/news/kako-tisuce-preplavljenih-nedovoljno-placenih-treniraju-googleov-ai-da-izgleda-pametno-c874c3/": "https://metaadvisor.eu/hr/news/kako-tisuce-preplavljenih-nedovoljno-placenih-treniraju-googleov-ai-da-izgleda-pametno/",
+    "https://metaadvisor.eu/de/news/was-die-zinsentscheidung-der-fed-am-17-september-fuer-krypto-gold-und-aktien-bedeutet/": "https://metaadvisor.eu/de/news/was-die-fed-entscheidung-am-17-september-fuer-krypto-gold-und-aktien-bedeutet/",
+    "https://metaadvisor.eu/de/news/winklevoss-twins-fordert-einen-bitcoin-preis-von-1-million-us-dollar-waehrend-gemini-oeffentlich-geht-entschluesseln/": "https://metaadvisor.eu/de/news/winklevoss-zwillinge-1-million-bitcoin-gemini-geht-an-die-boerse/",
+    "https://metaadvisor.eu/hr/news/sto-fedeova-odluka-o-kamatama-od-17-rujna-znaci-za-kriptovalute-zlato-i-zalihe/": "https://metaadvisor.eu/hr/news/sto-odluka-fed-17-rujna-znaci-za-kripto-zlato-i-dionice/",
+    "https://metaadvisor.eu/hr/news/blizanci-winklevoss-pozivaju-na-milijun-dolara-bitcoin-cijena-dok-blizanci-idu-u-javnost-desifrira/": "https://metaadvisor.eu/hr/news/blizanci-winklevoss-bitcoin-1-milijun-gemini-izlazi-na-burzu/"
+  },
+  "canonical_alias_count": 22,
+  "policy": "Preferred real article URLs only; all alternate source texts retained."
+}

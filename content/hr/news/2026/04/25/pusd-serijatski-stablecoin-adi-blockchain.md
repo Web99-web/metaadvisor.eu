@@ -15,6 +15,7 @@ image_alt: "PUSD šerijatski stablecoin na ADI blockchainu"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["crypto","kripto","pusd","stablecoin","šerijatski","islamske financije","adi blockchain","blockchain","defi","financije"]
 summary: "PUSD, šerijatski stablecoin pokriven valutama iz Zaljeva, integrira se na ADI blockchain i cilja tržište islamskih financija vrijedno više od 3 trilijuna dolara."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

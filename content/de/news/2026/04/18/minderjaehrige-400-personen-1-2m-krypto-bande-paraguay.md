@@ -15,6 +15,7 @@ image_alt: "Krypto-Betrug und Festnahmen in Paraguay"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "hack", "betrug", "cybercrime", "paraguay", "money mule", "sicherheit", "bitcoin"]
 summary: "Die Polizei in Paraguay hat ein Netzwerk junger Täter zerschlagen, die in einen Krypto-Betrug über 1,2 Millionen Dollar verwickelt waren."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

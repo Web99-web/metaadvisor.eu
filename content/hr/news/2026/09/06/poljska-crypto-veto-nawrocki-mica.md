@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Poljska", "crypto", "kripto", "MiCA", "Karol Nawrocki", "Donald Tusk", "Zondacrypto", "regulacija", "Europska unija", "KNF", "kriptoimovina", "kriptovalute", "crypto regulacija", "financijska regulacija"]
 description: "Poljska je zadržala predsjednički veto na crypto zakon. Karol Nawrocki tvrdi da prijedlog ide dalje od EU MiCA-e i može otjerati kompanije iz zemlje."
 summary: "Sejm nije uspio srušiti treći veto predsjednika Karola Nawrockog na zakon o tržištu kriptoimovine, dok se Poljska suočava s pitanjem koliko daleko nacionalna regulacija smije ići iznad europskog MiCA okvira."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

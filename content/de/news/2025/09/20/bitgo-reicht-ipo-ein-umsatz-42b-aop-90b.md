@@ -15,6 +15,7 @@ image_alt: "BitGo IPO — H1’25 Umsatz 4,2 Mrd $, 90 Mrd $ Assets on Platform 
 image_credit: "MetaAdvisor (symbolisch)"
 tags: ["Krypto", "BitGo", "IPO", "SEC", "NYSE", "S-1", "BTGO", "Custody", "AoP", "Dual-Class"]
 summary: "Der Verwahrer BitGo hat ein S-1 eingereicht und strebt ein NYSE-Listing (BTGO) an. H1 2025 lag der Umsatz bei 4,19 Mrd. $, die AoP bei ~90 Mrd. $. Der Nettogewinn ging wegen höherer Kosten auf 12,6 Mio. $ zurück."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/02/01/single-trader-just-lost-usd220-million-as-ether-plunged-10"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/whale-liquidated.png"
-featured_image: "/images/whale-liquidated.png"
-image: "/images/whale-liquidated.png"
-thumbnail: "/images/whale-liquidated.png"
+image_url: "/images/whale-liquidated.webp"
+featured_image: "/images/whale-liquidated.webp"
+image: "/images/whale-liquidated.webp"
+thumbnail: "/images/whale-liquidated.webp"
 image_alt: "Whale liquidated – symbolic illustration of a major crypto liquidation"
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto", "ethereum", "ether", "eth", "liquidations", "whale", "leverage", "derivatives", "market crash"]
 summary: "Ethereum’s sharp sell-off triggered a chain reaction of forced liquidations worth nearly $2.6 billion, including a single whale position exceeding $220 million, highlighting the risks of leveraged trading in thin markets."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777;">

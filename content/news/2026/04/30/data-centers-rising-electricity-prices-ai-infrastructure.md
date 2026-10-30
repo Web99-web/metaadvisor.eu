@@ -7,14 +7,15 @@ translationKey: "3f2a9c7b1e8d4f6a9b0c2d5e7f8a1b3c"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Data-centers-electric-bill.png"
-featured_image: "/images/Data-centers-electric-bill.png"
-image: "/images/Data-centers-electric-bill.png"
-thumbnail: "/images/Data-centers-electric-bill.png"
+image_url: "/images/Data-centers-electric-bill.webp"
+featured_image: "/images/Data-centers-electric-bill.webp"
+image: "/images/Data-centers-electric-bill.webp"
+thumbnail: "/images/Data-centers-electric-bill.webp"
 image_alt: "Data centers and rising electricity costs due to AI infrastructure"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "data centers", "electricity", "energy", "infrastructure", "costs", "power", "pantheon", "croatia", "economy", "grid"]
 summary: "AI data centers consume enormous amounts of energy and require costly infrastructure, with part of these costs often passed on to citizens through higher electricity bills."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

@@ -3,18 +3,19 @@ title: "US-Steuerbehörde IRS genehmigt Staking — USA erlauben Fonds die Teiln
 slug: "irs-bundesfinanzverwaltung-staking-freigabe-fuer-krypto-etf-fonds"
 date: 2025-11-10T22:19:52Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-11-10"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today"
 author: "Cointelegraph, analysis_by: Metaadvisor.eu"
-image_url: "/images/IRS-crypto.png"
-featured_image: "/images/IRS-crypto.png"
-image: "/images/IRS-crypto.png"
-thumbnail: "/images/IRS-crypto.png"
+image_url: "/images/IRS-crypto.webp"
+featured_image: "/images/IRS-crypto.webp"
+image: "/images/IRS-crypto.webp"
+thumbnail: "/images/IRS-crypto.webp"
 image_alt: "IRS und US-Flagge mit ETH-Validatoren"
 image_credit: "Metaadvisor.eu"
 tags: ["staking", "irs", "etf", "usa", "regulierung", "crypto"]
 summary: "Die US-Steuerbehörde IRS hat einen neuen Rechtsrahmen geschaffen, der es Krypto-Fonds und ETFs erstmals erlaubt, an Staking teilzunehmen — also Kryptowährungen zu sperren und für die Netzwerkvalidierung Belohnungen zu erhalten."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

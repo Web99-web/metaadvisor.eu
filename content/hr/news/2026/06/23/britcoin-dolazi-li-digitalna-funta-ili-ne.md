@@ -7,14 +7,15 @@ translationKey: "britcoin-digital-pound-coming-or-not-2026-06-23"
 source: "Bank of England, The Guardian, Reuters, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Britcoin-digital-pound-coming-or-not.png"
-featured_image: "/images/news/Britcoin-digital-pound-coming-or-not.png"
-image: "/images/news/Britcoin-digital-pound-coming-or-not.png"
-thumbnail: "/images/news/Britcoin-digital-pound-coming-or-not.png"
+image_url: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
+featured_image: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
+image: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
+thumbnail: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
 image_alt: "Britcoin and the UK digital pound coming or not"
 image_credit: "Metaadvisor.eu"
 tags: ["Britcoin", "digital pound", "digitalna funta", "CBDC", "Central Bank Digital Currency", "digitalna valuta središnje banke", "Bank of England", "Tether", "USDT", "stablecoins", "stablecoini", "Nigel Farage", "Christopher Harborne", "Keir Starmer", "UK", "Ujedinjeno Kraljevstvo", "crypto", "kripto", "digitalni novac", "privatni interesi", "financijska moć", "Metaadvisor"]
 summary: "Britcoin, odnosno digitalna funta, nije Bitcoin ni novi crypto token. To je moguća britanska CBDC valuta, odnosno digitalna valuta središnje banke, koju istražuje Bank of England. Rasprava više nije samo tehnička, nego politička i financijska."
+categories: ["crypto"]
 ---
 
 

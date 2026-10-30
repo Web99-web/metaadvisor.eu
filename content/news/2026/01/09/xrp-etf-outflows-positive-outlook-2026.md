@@ -22,6 +22,7 @@ tags:
   - market
   - regulation
 summary: "XRP ETFs recorded their first notable outflows after an exceptionally strong streak of inflows, but the broader context still points to stable institutional interest in 2026."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

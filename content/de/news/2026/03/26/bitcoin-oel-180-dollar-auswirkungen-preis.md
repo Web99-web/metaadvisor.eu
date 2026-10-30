@@ -7,15 +7,16 @@ translationKey: "26d06b711c276c2011279b553e2043d0"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (Cointelegraph, Marktdaten)"
 source_url: ""
-image_url: "/images/news/Oil-at-180-and-BTC.png"
-featured_image: "/images/news/Oil-at-180-and-BTC.png"
-image: "/images/news/Oil-at-180-and-BTC.png"
-thumbnail: "/images/news/Oil-at-180-and-BTC.png"
+image_url: "/images/news/Oil-at-180-and-BTC.webp"
+featured_image: "/images/news/Oil-at-180-and-BTC.webp"
+image: "/images/news/Oil-at-180-and-BTC.webp"
+thumbnail: "/images/news/Oil-at-180-and-BTC.webp"
 image_alt: "Öl und Bitcoin – Einfluss der Energiepreise auf den Kryptomarkt"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "öl", "inflation", "fed", "zinsen", "krypto", "btc", "markt", "makroökonomie", "geopolitik"]
 summary: "Ein möglicher Anstieg des Ölpreises auf 180 Dollar könnte Inflation, Zinsen und den Bitcoin-Kurs stark beeinflussen. Wir analysieren, was das für die Märkte bedeutet."
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

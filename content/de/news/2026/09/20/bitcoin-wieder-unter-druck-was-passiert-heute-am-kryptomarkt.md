@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "Kryptomarkt", "Kryptowährungen", "Altcoins", "Krypto-Rückgang", "Bitcoin 80000", "ETF", "Liquidationen", "Naher Osten", "Geopolitik", "Solana", "HYPE", "Zcash"]
 description: "Bitcoin hat sich nach der Rückkehr über 80.000 US-Dollar am Wochenende erneut zurückgezogen, während Ethereum und zahlreiche Altcoins stärkere Verluste verzeichnen. Geopolitik, hohe Zinsen und eine schwächere Risikobereitschaft belasten den Kryptomarkt erneut."
 summary: "Bitcoin hat sich am Wochenende nach einer starken Erholung über 80.000 US-Dollar wieder zurückgezogen. Ethereum und Altcoins fallen stärker, während der Markt gleichzeitig die Eskalation im Nahen Osten, hohe Zinsen und die Frage beobachtet, ob BTC die neu eroberte Handelsspanne halten kann."
+categories: ["Kryptowährungen"]
 ---
 
 *Das Bild dient nur zur Illustration.*

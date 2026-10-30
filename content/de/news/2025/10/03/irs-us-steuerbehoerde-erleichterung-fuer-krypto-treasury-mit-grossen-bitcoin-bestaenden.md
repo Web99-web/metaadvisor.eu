@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/news-analysis/2025/10/03/irs-guidance-limited-in-scope-but-good-news-for-crypto-treasury-firms"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/IRS.png"
-featured_image: "/images/IRS.png"
-image: "/images/IRS.png"
-thumbnail: "/images/IRS.png"
+image_url: "/images/IRS.webp"
+featured_image: "/images/IRS.webp"
+image: "/images/IRS.webp"
+thumbnail: "/images/IRS.webp"
 image_alt: "IRS-Logo und Bitcoin-Symbol"
 image_credit: "Metaadvisor.eu (symbolische Grafik)"
 tags:
@@ -30,6 +30,7 @@ tags:
   - regulierung
   - USA
 summary: "Vorläufige IRS-Leitlinien entlasten die größten US-C-Corporations von CAMT-Steuern auf nicht realisierte Gewinne aus Krypto-Vermögenswerten. Das verschafft Firmen wie MicroStrategy und MARA Luft."
+categories: ["crypto"]
 ---
 
 Die US-Steuerbehörde **Internal Revenue Service (IRS)** hat **vorläufige Leitlinien** veröffentlicht, die die Anwendung der **Corporate Alternative Minimum Tax (CAMT)** auf **nicht realisierte Gewinne** bei **großen C-Corporations** entschärfen. Praktisch bedeutet das: Unternehmen oberhalb der Schwelle „Large Taxpayer“ (C-Corp, Umsatz > **1 Mrd. USD** auf Basis des „book income“) **unterliegen nicht** der Mindeststeuer auf **Papiergewinne** aus bestimmten Vermögenswerten — **einschließlich Krypto**.

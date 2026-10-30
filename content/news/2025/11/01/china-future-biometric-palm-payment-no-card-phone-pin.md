@@ -7,14 +7,15 @@ translationKey: "ea41c82d-fb17-4bcd-8c4a-9c7289a3e711"
 source: "Tencent, WeChat Pay pilot program, Chinese media sources"
 source_url: "https://www.tencent.com/"
 author: "Metaadvisor.eu"
-image_url: "/images/Paying-with-palm.png"
-featured_image: "/images/Paying-with-palm.png"
-image: "/images/Paying-with-palm.png"
-thumbnail: "/images/Paying-with-palm.png"
+image_url: "/images/Paying-with-palm.webp"
+featured_image: "/images/Paying-with-palm.webp"
+image: "/images/Paying-with-palm.webp"
+thumbnail: "/images/Paying-with-palm.webp"
 image_alt: "Customer pays by scanning their palm over a contactless terminal"
 image_credit: "Metaadvisor.eu — image is symbolic."
 tags: ["biometrics","china","payments","fintech","wechat","ai","future","palm-scan","cashless","no card","no phone"]
 summary: "China is testing a new payment method where customers simply hover their palm over a scanner — no card, no phone, no wallet. The system uses vein biometrics and is already being deployed in stores, transport and vending machines."
+categories: ["tech"]
 ---
 
 China is once again reshaping the way people pay. After QR codes and mobile wallets, the next phase has arrived: **biometric payments using your palm — no card, no smartphone, no PIN.**

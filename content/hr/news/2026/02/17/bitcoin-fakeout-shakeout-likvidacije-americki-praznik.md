@@ -15,6 +15,7 @@ image_alt: "Bitcoin volatilnost tijekom američkog bankovnog praznika"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["bitcoin", "btc", "kripto tržište", "likvidacije", "volatilnost", "američki praznik", "trgovanje", "leverage", "short squeeze", "long squeeze", "kripto analiza", "crypto", "market"]
 summary: "Bitcoin je tijekom američkog bankovnog praznika nakratko skočio prema 70.000 dolara, a zatim naglo pao, likvidirajući oko 120 milijuna dolara long i short pozicija. Analitičari upozoravaju na klasične 'fakeout' i 'shakeout' obrasce u razdoblju smanjene likvidnosti."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-crumbles-below-dollar109k-but-data-shows-buyers-stepping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "Bitcoin — pad cijene i aktivacija kupaca (simbolična ilustracija)"
 image_credit: "Metaadvisor.eu (simbolična slika)"
 tags:
@@ -30,6 +30,7 @@ tags:
   - market-structure
   - volatility
 summary: "BTC je kratko pao ispod 109.000 $ uz val likvidacija, no order-book i on-chain/ETF signali ukazuju na aktivaciju kupaca — formira li se lokalna baza ili je riječ o privremenom predahu?"
+categories: ["crypto"]
 ---
 
 **Kratko:** **Bitcoin (BTC)** je tijekom dana **probio ispod 109.000 $**, uz kratak „flush“ likvidacija i rast intraday volatilnosti. Ipak, **podaci o likvidnosti** i **protoku naloga** pokazuju da se **kupci aktiviraju** u zoni neposredno ispod psihološke granice od **110k $**, što upućuje na **pokušaj formiranja lokalne baze**.

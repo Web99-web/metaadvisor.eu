@@ -14,6 +14,7 @@ image_alt: "Monad Layer 1 Blockchain"
 image_credit: "Metaadvisor.eu"
 tags: ["blockchain", "ai", "monad", "crypto", "evm", "layer1", "scalability", "tps", "defi"]
 summary: "Monad ist eine neue Layer-1-Blockchain, die hohe Geschwindigkeit, niedrige Gebühren und volle EVM-Kompatibilität vereint – mit KI-Unterstützung und modularer Architektur für die Zukunft dezentraler Anwendungen."
+categories: ["ai"]
 ---
 
 In einer Zeit, in der sich der Blockchain-Sektor rasant verändert, positioniert sich **Monad** als eine der **modernsten Layer-1-Plattformen**, die auf **Geschwindigkeit, Effizienz und EVM-Kompatibilität** setzt.

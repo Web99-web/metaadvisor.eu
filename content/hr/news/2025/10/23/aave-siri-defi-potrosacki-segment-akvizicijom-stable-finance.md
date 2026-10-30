@@ -15,6 +15,7 @@ image_alt: "Aave i Stable Finance — simbolična ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["crypto","aave","stablecoins","defi","kolateral","likvidacija","ulaganje","institucije","consumer defi"]
 summary: "Aave je akvizirao Stable Finance kako bi ubrzao razvoj consumer DeFi proizvoda. Istovremeno, iskustvo tržišnog pada 10.10. pokazuje koliko je važno razumjeti kolateral i rizik likvidacija."
+categories: ["news"]
 ---
 
 Aave Labs, tim iza jednog od vodećih DeFi protokola, najavio je akviziciju **Stable Finance** s ciljem jačanja **consumer DeFi segmenta** — proizvoda za svakodnevne korisnike. Cilj je ponuditi jednostavnije rješenja sa stablecoinima: štednju, plaćanja i stabilne prinose, ali uz korisničko iskustvo nalik fintech aplikacijama.

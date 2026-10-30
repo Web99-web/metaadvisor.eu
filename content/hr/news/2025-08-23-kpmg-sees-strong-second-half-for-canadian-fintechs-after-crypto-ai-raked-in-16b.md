@@ -9,6 +9,7 @@ summary: "Unatoč globalnom usporavanju ulaganja, kanadski ulagači i dalje cilj
 tags: ["kpmg","canada","fintech","blockchain","ai","funding","venture-capital","startups","crypto","regulation"]
 image_url: "https://images.unsplash.com/photo-1505764706515-aa95265c5abc?auto=format&fit=crop&w=1280&q=80"
 image_alt: "Toronto skyline — simbol kanadskog fintech ekosustava"
+categories: ["crypto"]
 ---
 
 Kanadske fintech tvrtke prikupile su 1,62 mlrd $ u prvoj polovici 2025., pri čemu su startupi iz područja digitalne imovine i umjetne inteligencije preuzeli najveći udio, navodi KPMG Canada u izvješću *Pulse of Fintech*.

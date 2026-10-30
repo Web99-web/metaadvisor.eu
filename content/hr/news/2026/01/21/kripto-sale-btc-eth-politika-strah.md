@@ -15,6 +15,7 @@ image_alt: "Bitcoin i financijska tržišta pod pritiskom političke neizvjesnos
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags: ["bitcoin","ethereum","crypto market","sale","volatilnost","politika","davos","geopolitika","ratni rizik","investitori","tržišni strah"]
 summary: "Bitcoin se ponovno spustio prema 87.500 USD, a Ethereum ispod 2.900 USD, dok tržište reagira na političku neizvjesnost, geopolitičke napetosti i rastući strah od eskalacije sukoba."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

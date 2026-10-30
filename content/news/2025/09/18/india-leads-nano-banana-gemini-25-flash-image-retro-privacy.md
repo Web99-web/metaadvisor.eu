@@ -15,6 +15,7 @@ image_alt: "Google Gemini — image generation and editing"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ai","google","gemini","nano-banana","india","image-generation","editing","privacy","safety","synthid","app-stores","metaadvisor"]
 summary: "‘Nano Banana’ — the community nickname for Google’s Gemini 2.5 Flash Image — is exploding in India: retro portraits, ‘AI saree’ and local twists are everywhere. With the creative boom come fresh questions about privacy and safety."
+categories: ["news"]
 ---
 
 India has become the world’s biggest stage for the new AI wave: **‘Nano Banana’**, the community moniker for **Gemini 2.5 Flash Image**, has pushed the **Gemini app** to the top of the charts and turned into a cultural moment. Reports say **India ranks No. 1 in usage** — not just because of scale but due to **creative localization**: millions are imagining themselves as **1990s Bollywood** leads, experimenting with the **‘AI saree’**, or placing themselves before **global landmarks** — deliberately nostalgic, joyfully kitsch.

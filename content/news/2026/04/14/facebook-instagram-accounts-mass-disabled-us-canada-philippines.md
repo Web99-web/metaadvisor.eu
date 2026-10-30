@@ -7,14 +7,15 @@ translationKey: "facebook-instagram-mass-ban-accounts-2026"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.png"
-featured_image: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.png"
-image: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.png"
-thumbnail: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.png"
+image_url: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.webp"
+featured_image: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.webp"
+image: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.webp"
+thumbnail: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.webp"
 image_alt: "Mass disabling of Facebook and Instagram accounts worldwide"
 image_credit: "Metaadvisor.eu"
 tags: ["facebook", "instagram", "account bans", "ai moderation", "digital rights", "censorship", "social media", "technology", "ai", "internet"]
 summary: "Mass disabling of Facebook and Instagram accounts raises serious questions about AI moderation, lack of human oversight, and loss of access to digital information."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

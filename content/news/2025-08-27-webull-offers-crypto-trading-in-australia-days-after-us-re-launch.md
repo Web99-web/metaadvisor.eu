@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/webull-australia-crypto-services-uni
 summary: "Webull has swiftly expanded into Australia with crypto trading—offering 240 digital assets via Coinbase Prime—mere days after relaunching in the U.S."
 tags: ["crypto","Webull","Australia","Coinbase Prime","regulation","expansion"]
 image_url: "https://cointelegraph.com/images/528_webull_australia.jpg"
+categories: ["crypto"]
 ---
 
 Webull has rolled out crypto trading services in Australia just days after re-launching its crypto offering in the U.S. — having previously pulled out in 2023. Through a partnership with Coinbase Prime, Webull Australia now offers access to **240 cryptocurrencies** :contentReference[oaicite:21]{index=21}.

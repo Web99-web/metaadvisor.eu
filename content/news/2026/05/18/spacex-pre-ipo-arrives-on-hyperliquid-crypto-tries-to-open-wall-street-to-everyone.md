@@ -7,14 +7,15 @@ translationKey: "c7d06fc57c05e4ddeae6fe56f0633834"
 source: "Metaadvisor (Hyperliquid, Financial Times)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
-featured_image: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
-image: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
-thumbnail: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
+image_url: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
+featured_image: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
+image: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
+thumbnail: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
 image_alt: "SpaceX pre-IPO market on Hyperliquid"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "bitcoin", "btc", "hyperliquid", "hype", "spacex", "elon musk", "pre ipo", "wall street", "onchain trading", "defi", "perpetuals", "trading", "tokenization", "synthetic assets", "finance", "blockchain"]
 summary: "Hyperliquid is attracting major attention after launching a SpaceX pre-IPO market that gives users synthetic exposure to one of the world’s most famous private companies."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

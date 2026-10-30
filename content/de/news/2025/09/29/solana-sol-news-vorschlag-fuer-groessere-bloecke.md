@@ -28,6 +28,7 @@ tags:
   - scaling
 
 summary: "Firedancer (Jump Crypto) schlägt mit SIMD-0370 vor, das Block-Limit für Compute-Units nach dem Alpenglow-Upgrade zu entfernen. Ziel: höhere Durchsatzspitzen – bei diskutierten Risiken wie Zentralisierung und längerer Propagation."
+categories: ["crypto"]
 ---
 
 > **Hinweis:** Symbolisches Bild.

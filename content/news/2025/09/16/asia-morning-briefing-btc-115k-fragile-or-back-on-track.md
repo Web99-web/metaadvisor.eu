@@ -16,6 +16,7 @@ image_alt: "Asia morning market overview — Bitcoin near $115K"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitcoin","asia","etf","volatility","glassnode","qcp","macro","metaadvisor"]
 summary: "Bitcoin held above $115K in the Asian session. The market splits between fragility concerns and a ‘back on track’ narrative amid ETF inflows and softer macro expectations."
+categories: ["crypto"]
 ---
 
 **TL;DR:** BTC (**~$115.8k**) defended **$115k** on Tuesday morning in Asia after a strong start to the week. With **spot ETF inflows** and hopes of **rate cuts** next week, sentiment is mixed: **is the recovery fragile or is crypto back on track?**

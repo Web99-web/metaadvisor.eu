@@ -7,14 +7,15 @@ translationKey: "9bb5967dc368dafb02f5ead6e78cd209"
 source: "Cointelegraph"
 source_url: ""
 author: "Cointelegraph (Analyse: MetaAdvisor.eu)"
-image_url: "/images/Hackers-Stolen-BTC-South-Korea.png"
-featured_image: "/images/Hackers-Stolen-BTC-South-Korea.png"
-image: "/images/Hackers-Stolen-BTC-South-Korea.png"
-thumbnail: "/images/Hackers-Stolen-BTC-South-Korea.png"
+image_url: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+featured_image: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+image: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+thumbnail: "/images/Hackers-Stolen-BTC-South-Korea.webp"
 image_alt: "Hacker mit Laptop vor Krypto-Transaktionen und Sicherheitswarnung"
 image_credit: "MetaAdvisor.eu (KI-Illustration)"
 tags: ["krypto", "seed phrase", "sicherheit", "suedkorea", "steuerbehoerde", "blockchain", "ethereum", "private schluessel", "digitale vermoegenswerte", "cybersicherheit", "crypto hack", "wallet sicherheit"]
 summary: "Die südkoreanische Steuerbehörde veröffentlichte versehentlich eine Wallet-Seed-Phrase in einer offiziellen Pressemitteilung. Kurz darauf wurden Token im Wert von 4,8 Millionen US-Dollar abgezogen. Der Vorfall wirft Fragen zur institutionellen Sicherheit digitaler Vermögenswerte auf."
+categories: ["crypto"]
 ---
 
 # Südkoreanische Steuerbehörde veröffentlicht Seed-Phrase in Pressemitteilung – 4,8 Millionen Dollar in Token verschwunden

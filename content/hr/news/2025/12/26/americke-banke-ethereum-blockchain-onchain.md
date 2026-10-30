@@ -7,10 +7,10 @@ translationKey: "us_banks_ethereum_onchain_26122025"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-us-banks-are-quietly-preparing-for-an-onchain-future"
 author: "MetaAdvisor.eu — analiza"
-image_url: "/images/US-banks-on-eth-blockchains.png"
-featured_image: "/images/US-banks-on-eth-blockchains.png"
-image: "/images/US-banks-on-eth-blockchains.png"
-thumbnail: "/images/US-banks-on-eth-blockchains.png"
+image_url: "/images/US-banks-on-eth-blockchains.webp"
+featured_image: "/images/US-banks-on-eth-blockchains.webp"
+image: "/images/US-banks-on-eth-blockchains.webp"
+thumbnail: "/images/US-banks-on-eth-blockchains.webp"
 image_alt: "Američke banke i Ethereum — granica između bankarstva i blockchaina nestaje"
 tags:
   - ethereum
@@ -23,6 +23,7 @@ tags:
   - onchain
   - regulacija
 summary: "Američke banke ne lansiraju spekulativne kripto proizvode, već tiho prebacuju temeljnu financijsku infrastrukturu — depozite, namiru i skrbništvo — na Ethereum i druge javne blockchaine."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 20px 0;">

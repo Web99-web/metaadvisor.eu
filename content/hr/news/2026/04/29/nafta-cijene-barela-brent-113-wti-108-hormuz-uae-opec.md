@@ -7,14 +7,15 @@ translationKey: "oil-hormuz-uae-opec-april-2026"
 source: "Metaadvisor (Reuters, WSJ, tržišni podaci)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "Cijene nafte Brent i WTI rastu uz napetosti oko Hormuza i izlazak UAE iz OPEC-a"
 image_credit: "Metaadvisor.eu"
 tags: ["nafta", "brent", "wti", "hormuz", "uae", "opec", "geopolitika", "rat", "energija", "inflacija", "fed", "tržišta", "globalna ekonomija", "volatilnost"]
 summary: "Cijene nafte rastu s Brentom iznad 113 i WTI iznad 108 dolara, najviše u zadnjih 7–12 dana. Hormuz kriza i izlazak UAE iz OPEC-a dodatno destabiliziraju tržište i povećavaju inflacijske pritiske."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

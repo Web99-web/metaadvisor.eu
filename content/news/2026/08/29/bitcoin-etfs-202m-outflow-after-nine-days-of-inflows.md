@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "bitcoin-etf-outflows-202-million-after-nine-day-inflow-streak-2026-08-29"
 source: "Cointelegraph, SoSoValue, Farside Investors, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/BTC-ETF-outflows.png"
-featured_image: "/images/daily-charts/BTC-ETF-outflows.png"
-image: "/images/daily-charts/BTC-ETF-outflows.png"
-thumbnail: "/images/daily-charts/BTC-ETF-outflows.png"
+image_url: "/images/daily-charts/BTC-ETF-outflows.webp"
+featured_image: "/images/daily-charts/BTC-ETF-outflows.webp"
+image: "/images/daily-charts/BTC-ETF-outflows.webp"
+thumbnail: "/images/daily-charts/BTC-ETF-outflows.webp"
 image_alt: "Bitcoin falls toward $77,000 as US spot Bitcoin ETFs record $202 million in net outflows"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Bitcoin ETF", "spot Bitcoin ETF", "ETF outflows", "ETF inflows", "cryptocurrencies", "crypto market", "liquidations", "long liquidations", "Bitcoin price", "institutional investors", "derivatives market", "market risk"]
 description: "US spot Bitcoin ETFs recorded around $202 million in net outflows, ending a nine-day inflow streak, as Bitcoin fell toward $77,000 and a new wave of long liquidations hit the market."
 summary: "Bitcoin fell toward $77,000 after climbing above $81,000. At the same time, US spot Bitcoin ETFs recorded their first net outflow after nine trading days, while more than $480 million in crypto positions were liquidated."
+categories: ["Crypto"]
 ---
 
 # Bitcoin falls toward $77,000 as ETFs record $202M in outflows

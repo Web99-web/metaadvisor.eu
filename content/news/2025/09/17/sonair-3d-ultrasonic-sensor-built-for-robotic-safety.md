@@ -16,6 +16,7 @@ image_alt: "Industrial robot — safety sensing (illustrative)"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ai","robotics","sensors","ultrasonic","lidar","safety","norway","oslo","metaadvisor"]
 summary: "As robots move into human spaces, safety can’t be an afterthought. Norway’s Sonair is betting on a 3D ‘ultrasonic lidar’ that fills rooms with sound and sharpens depth perception."
+categories: ["ai"]
 ---
 
 As robots step out of fenced cells into **warehouses, hospitals and retail**, safety in **human spaces** becomes a first-order requirement. Norway-based **Sonair** argues the missing piece is **sound**. Rather than sweep a scene with a laser beam, its **ADAR** (acoustic detection and ranging) unit **fills the environment with ultrasound** and returns a three-dimensional picture.

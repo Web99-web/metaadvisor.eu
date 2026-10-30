@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/02/04/etf-that-feasts-on-carnage-in-bitcoin-holder-strategy-hits-record-high"
 author: "CoinDesk"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/btc-shorting-carnage.png"
-featured_image: "/images/btc-shorting-carnage.png"
-image: "/images/btc-shorting-carnage.png"
-thumbnail: "/images/btc-shorting-carnage.png"
+image_url: "/images/btc-shorting-carnage.webp"
+featured_image: "/images/btc-shorting-carnage.webp"
+image: "/images/btc-shorting-carnage.webp"
+thumbnail: "/images/btc-shorting-carnage.webp"
 image_alt: "Bitcoin market volatility and short-selling strategies during a market downturn"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["bitcoin","btc","crypto","etf","short","shorting","strategy","mstr","volatility","market-crash","trading"]
 summary: "As bitcoin and Strategy shares slide, leveraged ETFs betting against the stock are hitting record highs. The market is showing that some capital is not seeking upside, but profits from volatility and downside moves."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

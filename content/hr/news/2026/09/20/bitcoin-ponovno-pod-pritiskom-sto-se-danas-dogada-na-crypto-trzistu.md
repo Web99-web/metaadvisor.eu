@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "crypto tržište", "kriptovalute", "altcoini", "crypto pad", "Bitcoin 80000", "ETF", "likvidacije", "Bliski istok", "geopolitika", "Solana", "HYPE", "Zcash"]
 description: "Bitcoin se nakon povratka iznad 80.000 dolara tijekom vikenda ponovno povukao, dok Ethereum i brojni altcoini bilježe veće gubitke. Geopolitika, visoke kamatne stope i slabiji apetit za rizikom ponovno pritišću crypto tržište."
 summary: "Bitcoin se tijekom vikenda povukao nakon snažnog povratka iznad 80.000 dolara. Ethereum i altcoini padaju više, dok tržište istodobno prati eskalaciju na Bliskom istoku, visoke kamatne stope i pitanje može li BTC zadržati nov osvojeni raspon."
+categories: ["Kriptovalute"]
 ---
 
 *Slika je simbolična.*

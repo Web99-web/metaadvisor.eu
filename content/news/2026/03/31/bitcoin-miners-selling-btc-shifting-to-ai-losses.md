@@ -16,6 +16,7 @@ image_alt: "Bitcoin miners shifting to AI due to losses and rising energy costs"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "mining", "bitcoin mining", "ai", "artificial intelligence", "hashrate", "difficulty", "energy", "oil", "geopolitics", "market", "cryptocurrency"]
 summary: "Bitcoin miners are facing losses of up to $19,000 per BTC, forcing them to sell and increasingly shift toward AI infrastructure as a more stable source of revenue."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

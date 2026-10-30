@@ -9,6 +9,7 @@ summary: "XLM fiel von 0,39 USD auf 0,36 USD in einer volatilen 24-Stunden-Sessi
 tags: ["crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/5XYLJ7ON5NC5NGJHJ6OM7IMZ44.jpg?auto=format&width=1920"
 image: "https://www.coindesk.com/resizer/v2/5XYLJ7ON5NC5NGJHJ6OM7IMZ44.jpg?auto=format&width=1920"
+categories: ["crypto"]
 ---
 
 Der native Stellar-Token XLM stand in der letzten Handelssitzung unter starkem institutionellen Verkaufsdruck und fiel zwischen dem 28. August, 15:00 Uhr, und dem 29. August, 14:00 Uhr ET von 0,39 auf 0,36 USD. Marktdaten zeigen, dass mehr als 41,89 Millionen XLM den Besitzer wechselten, wobei die Volumina anstiegen, als große Anleger ihre Positionen reduzierten.

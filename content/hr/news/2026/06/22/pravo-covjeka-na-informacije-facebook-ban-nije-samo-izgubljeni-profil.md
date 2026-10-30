@@ -7,14 +7,15 @@ translationKey: "right-to-information-facebook-ban-not-just-lost-profile-2026-06
 source: "The Guardian, Appeals Centre Europe, European Parliament, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-bans.png"
-featured_image: "/images/Meta/Facebook-bans.png"
-image: "/images/Meta/Facebook-bans.png"
-thumbnail: "/images/Meta/Facebook-bans.png"
+image_url: "/images/Meta/Facebook-bans.webp"
+featured_image: "/images/Meta/Facebook-bans.webp"
+image: "/images/Meta/Facebook-bans.webp"
+thumbnail: "/images/Meta/Facebook-bans.webp"
 image_alt: "Facebook bans and digital exclusion from social networks"
 image_credit: "Metaadvisor.eu"
 tags: ["Facebook ban", "Meta", "Facebook", "Instagram", "Messenger", "Business Suite", "AI moderacija", "umjetna inteligencija", "digitalna prava", "pravo na informacije", "društvene mreže", "social media bans", "Appeals Centre Europe", "DSA", "Digital Services Act", "Europska unija", "The Guardian", "Big Tech", "platforme", "digitalno izopćenje", "online identitet", "digitalni javni prostor", "mali poduzetnici", "učitelji", "socijalni radnici", "AI", "Metaadvisor"]
 summary: "Facebook ban više nije samo izgubljeni profil. Kada Meta korisnika izbaci iz Facebooka, Messengera, Instagrama i Business Suitea bez jasnog objašnjenja i bez stvarne ljudske žalbe, otvara se pitanje prava čovjeka na informacije, komunikaciju i pristup digitalnom javnom prostoru."
+categories: ["tech"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>

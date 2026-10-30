@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu – AI ilustracija, nije stvarna fotografija demon
 tags: ["Tesla", "Tesla Roadster", "Elon Musk", "SpaceX", "flying car", "leteći automobil", "electric vehicles", "EV", "AI videos", "AI memes", "artificial intelligence", "automotive technology", "technology news"]
 description: "Tesla je demonstrirala Roadster koji izvodi manevre u zraku uz SpaceX tehnologiju. Što je stvarno, što su viralni AI memovi i kada automobil stiže?"
 summary: "Tesla je 15. listopada 2026. u Teksasu pokazala novi Roadster s potisnicima na komprimirani plin, vožnjom naopako i kratkim manevrima u zraku. Internet su zatim preplavili futuristički videozapisi letećih Tesli. Analiziramo stvarnu tehnologiju, Tesline tvrdnje o ubrzanju, plan proizvodnje za 2028. i razliku između demonstracije i AI memova."
+categories: ["technology"]
 ---
 
 *Slika je simbolična AI ilustracija, a ne fotografija stvarnog događaja.*

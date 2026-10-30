@@ -16,6 +16,7 @@ image_alt: "Crypto reward cards"
 image_credit: "Illustration is symbolic."
 tags: ["SOL", "Solana", "Fidelity", "Gemini", "crypto card", "staking", "crypto", "bitcoin", "ethereum"]
 summary: "Solana enters Fidelity's brokerage platform as Gemini launches a Solana credit card with up to 4% cashback in SOL. Traders closely monitor the critical $188 support level."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

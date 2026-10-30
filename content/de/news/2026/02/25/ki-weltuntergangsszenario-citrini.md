@@ -7,14 +7,15 @@ translationKey: "ai-doomsday-feedback-loop-2026"
 source: "The Guardian Tech; Citrini Research (Substack)"
 source_url: "https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-doomsday-loop.png"
-featured_image: "/images/AI-doomsday-loop.png"
-image: "/images/AI-doomsday-loop.png"
-thumbnail: "/images/AI-doomsday-loop.png"
+image_url: "/images/AI-doomsday-loop.webp"
+featured_image: "/images/AI-doomsday-loop.webp"
+image: "/images/AI-doomsday-loop.webp"
+thumbnail: "/images/AI-doomsday-loop.webp"
 image_alt: "KI-Feedback-Loop Szenario und wirtschaftliche Auswirkungen"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["KI", "künstliche intelligenz", "Citrini Research", "KI wirtschaft", "automatisierung", "arbeitsmarkt", "marktvolatilität", "makroökonomie", "KI agenten", "Wall Street", "Uber", "Mastercard", "American Express", "DoorDash"]
 summary: "Citrini Research veröffentlichte auf Substack ein spekulatives KI-Weltuntergangsszenario, in dem autonome Agenten eine wirtschaftliche Abwärtsspirale auslösen. Laut Guardian Tech reagierten die Märkte nervös, mehrere große Unternehmen verzeichneten deutliche Kursverluste."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

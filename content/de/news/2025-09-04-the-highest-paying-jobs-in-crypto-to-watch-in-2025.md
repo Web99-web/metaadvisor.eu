@@ -7,6 +7,7 @@ author: "MetaAdvisor"
 summary: "Unsere Analyse: Welche Jobs im Krypto-Sektor 2025 die höchsten Gehälter bieten – und warum sie Chancen, aber auch Risiken bergen."
 tags: ["Krypto", "Karriere", "Jobs", "Gehalt", "DeFi", "Compliance", "Sicherheit"]
 image_url: "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg"
+categories: ["crypto"]
 ---
 
 Die Kryptoindustrie 2025 bietet **Karrieren, die Wall Street in den Schatten stellen**. Hier ein Überblick über die bestbezahlten Positionen:  

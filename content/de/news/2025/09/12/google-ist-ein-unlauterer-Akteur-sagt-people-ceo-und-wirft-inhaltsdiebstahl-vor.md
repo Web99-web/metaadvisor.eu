@@ -11,6 +11,7 @@ image_url: "https://techcrunch.com/wp-content/uploads/2021/01/lwzxxnshgj71bonwbi
 tags: ["ai", "artificial-intelligence", "google", "openai"]
 our_take: |
   Unser Fazit: Der People-CEO kritisiert Google für einen einheitlichen Crawler für Suche und KI-Features und einen sinkenden Google-Traffic. Das große Bild: Daten/Lizenzen, Modellqualität und Regulierungsrisiko bestimmen die Ergebnisse. Bevorzugt werden echte Distribution und verteidigbare Daten-Moats.
+categories: ["news"]
 ---
 
 Der CEO des größten Digital- und Print-Verlags in den USA hat Google als „Bad Actor“ bezeichnet, weil der Konzern die Websites des Verlags crawlt, um KI-Produkte zu unterstützen.

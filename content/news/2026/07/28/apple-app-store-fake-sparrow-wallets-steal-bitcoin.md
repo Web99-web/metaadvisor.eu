@@ -7,15 +7,16 @@ translationKey: "apple-app-store-lazni-sparrow-walleti-kradu-bitcoin-2026-07-28"
 source: "CoinDesk, MacRumors, Protos, Bitcoin Magazine and the court filing"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/App-store-scam.png"
-featured_image: "/images/hack/App-store-scam.png"
-image: "/images/hack/App-store-scam.png"
-thumbnail: "/images/hack/App-store-scam.png"
+image_url: "/images/hack/App-store-scam.webp"
+featured_image: "/images/hack/App-store-scam.webp"
+image: "/images/hack/App-store-scam.webp"
+thumbnail: "/images/hack/App-store-scam.webp"
 image_alt: "Warning about a fake cryptocurrency wallet app in the Apple App Store"
 image_credit: "Metaadvisor.eu"
 tags: ["Apple", "App Store", "Sparrow Wallet", "fake crypto wallet", "Bitcoin", "seed phrase", "Bitcoin theft", "fake app", "crypto scam", "Craig Raw", "app security", "iPhone", "cybersecurity"]
 description: "Apple is facing a lawsuit after fake Sparrow Wallet apps in the App Store allegedly led to the theft of $1.84 million worth of bitcoin."
 summary: "Three users claim they lost a combined $1.84 million after entering their seed phrases into fake Sparrow Wallet apps downloaded from Apple’s App Store."
+categories: ["cybersecurity"]
 ---
 
 # Apple App Store: Fake Sparrow Wallets Steal Bitcoin

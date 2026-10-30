@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["zk.money", "Ethereum", "Aztec", "privacy", "crypto", "wallet", "DAI", "USDC", "USDT", "Layer 2"]
 description: "Aztec Labs has relaunched zk.money, a wallet for private Ethereum payments that hides balances, payment amounts and recipients inside the Aztec Network."
 summary: "zk.money returns after three years on new Aztec Network infrastructure. Users can send private payments, while deposits and withdrawals to and from Ethereum remain public and the Alpha version currently limits individual transactions to less than $2,500."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

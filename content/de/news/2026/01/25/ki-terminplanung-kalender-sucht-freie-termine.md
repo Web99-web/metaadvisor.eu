@@ -14,6 +14,7 @@ thumbnail: "/images/AI-calendar.png"
 image_alt: "KI-Kalender verhandelt automatisch freie Termine für Meetings"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags: ["ai", "kalender", "arbeitswelt", "produktivität", "automatisierung"]
+categories: ["ai"]
 ---
 
 # KI übernimmt die Terminplanung: Ein KI-Kalender sucht freie Termine für Sie

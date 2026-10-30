@@ -15,6 +15,7 @@ image_alt: "GOOGL spike analysis of stock and derivatives"
 image_credit: "Metaadvisor.eu"
 tags: ["google", "googl", "ai", "derivatives", "trading", "stock market", "crypto", "leverage", "short squeeze"]
 summary: "GOOGL didn’t just rise — the combination of real stock movement and derivative leverage created a sudden spike in the market."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

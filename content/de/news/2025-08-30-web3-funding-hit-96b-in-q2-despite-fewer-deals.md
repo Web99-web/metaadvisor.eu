@@ -9,6 +9,7 @@ summary: "Wagniskapital konzentriert sich zunehmend auf größere, gezieltere In
 tags: ["web3", "vc", "krypto"]
 image_url: "https://www.coindesk.com/resizer/v2/web3-funding-coindesk.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/web3-funding-coindesk.jpg?auto=format&width=1200"
+categories: ["news"]
 ---
 
 Web3-Startups sammelten im **zweiten Quartal 2025 insgesamt 9,6 Milliarden USD** ein – das zweithöchste Quartal aller Zeiten – obwohl die Zahl der Deals auf ein Mehrjahrestief fiel, wie ein Bericht von **Outlier Ventures** zeigt.  

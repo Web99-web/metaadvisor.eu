@@ -15,6 +15,7 @@ image_alt: "Cyber attack on Plitvice Lakes National Park in Croatia"
 image_credit: "Metaadvisor.eu"
 tags: ["Plitvička jezera", "Nacionalni park Plitvička jezera", "hakerski napad", "kibernetički incident", "cyber sigurnost", "turizam", "cashless plaćanje", "kartično plaćanje", "gotovina", "ručno izdavanje računa", "digitalna infrastruktura", "turistička infrastruktura", "zaštita podataka", "Hrvatska", "nacionalni park", "Metaadvisor"]
 summary: "Nacionalni park Plitvička jezera zabilježio je kibernetički incident koji traje već nekoliko dana. Cilj napada zasad nije poznat, ali najvažnije pitanje nije samo tko stoji iza napada, nego kako pad digitalnih sustava utječe na posjetitelje, plaćanje, račune i osnovne potrebe na izdvojenoj turističkoj lokaciji."
+categories: ["cybersecurity"]
 ---
 
 Slika je simbolična.

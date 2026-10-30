@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["NEAR Intents", "NEAR", "Bitget", "Hack", "Exploit", "ZachXBT", "KuCoin", "Cross-Chain", "Krypto-Sicherheit"]
 description: "NEAR Intents erlitt einen Exploit im Wert von rund 3,8 Millionen Dollar durch einen Fehler in der Cross-Chain-Infrastruktur, nur wenige Tage nachdem die Plattform geholfen hatte, mit dem Bitget-Hack verbundene Transfers zu blockieren."
 summary: "NEAR Intents setzte Teile seiner Dienste nach einem Exploit im Wert von rund 3,8 Millionen Dollar vorübergehend aus. Die Schwachstelle wurde behoben, betroffenen Nutzern wurde eine vollständige Erstattung zugesagt, und laut ZachXBT wurden gestohlene Gelder über KuCoin in Bitcoin umgewandelt."
+categories: ["hack"]
 ---
 
 *Das Bild ist symbolisch.*

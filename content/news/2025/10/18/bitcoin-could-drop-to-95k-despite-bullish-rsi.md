@@ -15,6 +15,7 @@ image_alt: "Bitcoin down — symbolic illustration"
 image_credit: "Image is symbolic."
 tags: ["bitcoin","btc","crypto","rsi","technical-analysis","trading","volatility"]
 summary: "Despite bullish RSI signals, technical analysis suggests Bitcoin could retest the $95,000 zone."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

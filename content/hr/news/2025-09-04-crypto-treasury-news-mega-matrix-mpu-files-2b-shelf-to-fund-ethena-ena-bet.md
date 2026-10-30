@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/04/mega-matrix-files-usd2
 summary: "Tvrtka želi profitirati od brzog rasta Ethenina digitalnog dolara USDe, uklapajući se u širi trend listanih kompanija koje akumuliraju kriptovalute."
 tags: ["crypto", "mega matrix", "mpu", "ethena", "ena", "usde", "bitcoin", "btc", "ethereum", "eth", "defi", "trezor"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["crypto"]
 ---
 
 Tvrtka Mega Matrix (MPU), listana na NYSE-u, prijavila je u četvrtak izdavanje vrijednosnih papira u iznosu od 2 milijarde dolara kako bi osnovala digitalni trezor imovine fokusiran na ENA, upravljački token protokola stabilnog coina Ethena.  

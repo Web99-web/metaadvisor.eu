@@ -16,6 +16,7 @@ image_alt: "Tether investment in German robotics"
 image_credit: "MetaAdvisor.eu"
 tags: ["tether", "neura robotics", "robotics", "germany", "lithium", "industry", "ai", "technology", "crypto", "europe", "investments", "market", "analysis"]
 summary: "After the discovery of 43 million tons of lithium and a potential €1B investment from Tether into Neura Robotics, Germany is rapidly re-emerging as Europe's next major tech and industrial hub."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

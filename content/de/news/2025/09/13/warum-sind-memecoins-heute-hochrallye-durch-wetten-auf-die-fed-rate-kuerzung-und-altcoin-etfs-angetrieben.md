@@ -3,7 +3,7 @@ title: "Warum sind Memecoins heute hoch?Rallye durch Wetten auf die Fed -Rate -K
 slug: "warum-sind-memecoins-heute-hochrallye-durch-wetten-auf-die-fed-rate-kuerzung-und-altcoin-etfs-angetrieben"
 date: 2025-09-13T16:54:47Z
 category: "news"
-translationKey: "4bdf2c5f918ff7261006104b83650e06"
+translationKey: "4bdf2c5f918ff7261006104b83650e06--unpaired-9aa01cbbb588"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/13/memecoins-rally-as-traders-bet-on-fed-rate-cut-and-u-s-altcoin-etfs"
 priority: 97
@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["bitcoin", "btc"]
 our_take: |
   Unsere Ansicht: Der Memecoin -Sektor heizt sich auf, da die Gespräche mit frischen Altcoin -Saison in den sozialen Medien zunehmen, teilweise von den Erwartungen getrieben, dass die Federal Reserve in der kommenden Woche die Zinssätze, einen Segen für Risikovermögen… wichtige Dinge zu beobachten wird: Liquidität, Makro (Raten/USD) und Regulierung.Bleib selektiv;Fügen Sie nur in Namen mit hoher Konvitation hinzu.
+categories: ["news"]
 ---
 
 Der Memecoin -Sektor heizt sich auf, da die Gespräche mit frischen Altcoin -Saison in den sozialen Medien zunehmen, teilweise von den Erwartungen getrieben, dass die Federal Reserve in der kommenden Woche die Zinsen senken wird, ein Segen für Risikovermögen.

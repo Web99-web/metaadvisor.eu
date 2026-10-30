@@ -7,14 +7,15 @@ translationKey: "bitcoin_180k_tapiero_20260118"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/18/bitcoin-to-usd180-000-stablecoins-to-soar-in-2026-investor-dan-tapiero-predicts"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-180-soon.png"
-featured_image: "/images/BTC-180-soon.png"
-image: "/images/BTC-180-soon.png"
-thumbnail: "/images/BTC-180-soon.png"
+image_url: "/images/BTC-180-soon.webp"
+featured_image: "/images/BTC-180-soon.webp"
+image: "/images/BTC-180-soon.webp"
+thumbnail: "/images/BTC-180-soon.webp"
 image_alt: "Bitcoin price outlook pointing toward $180,000 in the current market cycle"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Veteran macro and crypto investor Dan Tapiero believes Bitcoin is entering a new growth phase, with a potential price target of $180,000 driven by institutional capital, market maturity, and structural shifts in global finance."
 tags: ["bitcoin","btc","crypto","dan-tapiero","institutional-investors","market-cycles","stablecoins","macro"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -16,6 +16,7 @@ image_alt: "Smartphone in Händen (symbolische Illustration)"
 image_credit: "MetaAdvisor image map (symbolisch)"
 tags: ["Meta", "Instagram", "Threads", "Werbung", "Privatsphäre", "Kinder", "Sicherheit", "UK", "soziale Medien"]
 summary: "Exklusiv laut Guardian: Instagram-Fotos von Mädchen ab 13 wurden genutzt, um einem 37-Jährigen Threads zu bewerben. Eltern sprechen von „skandalös“; Meta verweist auf regelkonforme, öffentlich geteilte Inhalte."
+categories: ["news"]
 ---
 
 *Bild ist symbolisch.*

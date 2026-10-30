@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/23/fnality-raises-usd136m-to-expand-blockchain-payment-systems-for-banks"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/fnality-136m.png"
-featured_image: "/images/fnality-136m.png"
-image: "/images/fnality-136m.png"
-thumbnail: "/images/fnality-136m.png"
+image_url: "/images/fnality-136m.webp"
+featured_image: "/images/fnality-136m.webp"
+image: "/images/fnality-136m.webp"
+thumbnail: "/images/fnality-136m.webp"
 image_alt: "Fnality + $136M — blockchain payments for banks"
 image_credit: "Metaadvisor.eu (generated graphic)"
 tags:
@@ -39,6 +39,7 @@ tags:
   - ubs
   - barclays
 summary: "Fnality raised $136M (Series C) to extend blockchain-based payment and settlement rails for banks across more currencies and to support on-chain DvP/PvP for tokenized assets."
+categories: ["ai"]
 ---
 
 **TL;DR:** **Fnality** (London) builds **on-chain payment and settlement infrastructure** for banks, using tokenized representations of major currencies **collateralized with central bank money**. The **$136M Series C** is led by **WisdomTree, Bank of America, Citi, KBC Group, Temasek and Tradeweb**, with existing backers **Goldman Sachs, UBS, Barclays** participating. Proceeds will fund **new currencies**, **liquidity tools** and **settlement of tokenized assets** (securities, stablecoins).

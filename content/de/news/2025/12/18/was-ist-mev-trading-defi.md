@@ -7,13 +7,14 @@ translationKey: "mev_explained_defi_18122025"
 source: "Cointelegraph / CoinDesk"
 source_url: "https://cointelegraph.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/MEV-explained.png"
-featured_image: "/images/MEV-explained.png"
-image: "/images/MEV-explained.png"
-thumbnail: "/images/MEV-explained.png"
+image_url: "/images/MEV-explained.webp"
+featured_image: "/images/MEV-explained.webp"
+image: "/images/MEV-explained.webp"
+thumbnail: "/images/MEV-explained.webp"
 image_alt: "Erklärung von MEV-Trading auf der Blockchain"
 tags: ["MEV", "DeFi", "Blockchain", "Ethereum", "Solana", "Trading", "Regulierung"]
 summary: "MEV-Trading ermöglicht es Bots und Validatoren, durch Manipulation der Transaktionsreihenfolge Gewinne zu erzielen – häufig auf Kosten normaler Nutzer."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

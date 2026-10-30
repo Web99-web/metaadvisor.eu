@@ -34,6 +34,7 @@ tags:
   - matrix
   - krypto-guide
 summary: "Praxis-Workflow: So nutzt du Google Gemini für schnelle, aber gründliche Coin-Recherche – mit konkreten Prompts, Datenquellen, On-Chain/Fundamental-Checklisten und roten Flaggen."
+categories: ["news"]
 ---
 
 **Gemini** beschleunigt deine **Krypto-Due-Diligence** – entscheidend ist, **prüfbare Quellen** zu verlangen, **kritisch** zu bleiben und Ergebnisse mit **Primärdaten** (CoinGecko, DeFiLlama, Token Terminal, GitHub …) **abzugleichen**. Unten findest du einen **Schritt-für-Schritt**-Workflow inkl. **Copy/Paste-Prompts** für Gemini.

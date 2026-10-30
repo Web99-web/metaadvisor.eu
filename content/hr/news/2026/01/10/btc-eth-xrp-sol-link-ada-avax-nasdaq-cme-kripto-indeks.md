@@ -7,10 +7,10 @@ translationKey: "840cb61719cbae620c49fc1b036b6988"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/nasdaq-cme-group-nasdaq-cme-crypto-index"
 author: "MetaAdvisor.eu"
-image_url: "/images/Nasdaq-CME-crypto-index.png"
-featured_image: "/images/Nasdaq-CME-crypto-index.png"
-image: "/images/Nasdaq-CME-crypto-index.png"
-thumbnail: "/images/Nasdaq-CME-crypto-index.png"
+image_url: "/images/Nasdaq-CME-crypto-index.webp"
+featured_image: "/images/Nasdaq-CME-crypto-index.webp"
+image: "/images/Nasdaq-CME-crypto-index.webp"
+thumbnail: "/images/Nasdaq-CME-crypto-index.webp"
 image_alt: "Nasdaq i CME predstavljaju zajednički kripto indeks"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -24,6 +24,7 @@ tags:
   - bitcoin
   - ethereum
 summary: "Nasdaq i CME Group udružili su se u pokretanju zajedničkog kripto indeksa koji obuhvaća vodeće kriptovalute. Ovaj potez dodatno potvrđuje rastući interes institucionalnih ulagača za strukturirane i regulirane kripto proizvode."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

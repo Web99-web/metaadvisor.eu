@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/10/21/strategy-gets-buy-rating-from-citi-on-bullish-bitcoin-outlook"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Strategy(MSTR).png"
-featured_image: "/images/Strategy(MSTR).png"
-image: "/images/Strategy(MSTR).png"
-thumbnail: "/images/Strategy(MSTR).png"
+image_url: "/images/Strategy(MSTR).webp"
+featured_image: "/images/Strategy(MSTR).webp"
+image: "/images/Strategy(MSTR).webp"
+thumbnail: "/images/Strategy(MSTR).webp"
 image_alt: "Michael Saylor — Strategy (MSTR)"
 image_credit: "Symbolbild."
 tags: ["strategy", "mstr", "michael saylor", "bitcoin", "btc", "citi", "analyse", "treasury", "konvertible schulden", "nav-prämie", "aktien", "crypto"]
 summary: "Citi startet die Abdeckung von Strategy (MSTR) mit Kauf-/Hochrisiko-Empfehlung und Kursziel 485 USD – eine gehebelte Wette auf Bitcoin."
+categories: ["crypto"]
 ---
 
 Die Investmentbank **Citi** hat die Abdeckung von **Strategy (MSTR)** mit einer Empfehlung **Kaufen / hohes Risiko** und einem Kursziel von **485 USD** aufgenommen. Begründung: MSTR sei eine **gehebelte Wette** auf die Kursentwicklung von Bitcoin.

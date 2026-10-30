@@ -11,6 +11,7 @@ image_url: "/news/2025/09/12/winklevoss-hero.jpg"
 tags: ["crypto", "bitcoin", "cryptocurrency", "btc", "meta", "stocks"]
 our_take: |
   Naš osvrt: Izjava o cilju od 1 mil. $ oslanja se na „disrupt gold” narativ i rast institucionalne potražnje. Ključno za pratiti: likvidnost i kretanje USD/kamatnih stopa te regulatorne odluke u SAD/EU. Strategija: ostati selektivan; povećavati izloženost samo u visokouvjerenim pozicijama.
+categories: ["news"]
 ---
 
 Blizanci Tyler i Cameron Winklevoss — osnivači sada javno listane kripto-mjenjačnice Gemini — prognoziraju da će Bitcoin dosegnuti cijenu od 1 milijun dolara po novčiću jer „remeti zlato”.

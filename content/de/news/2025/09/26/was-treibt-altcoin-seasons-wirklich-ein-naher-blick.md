@@ -30,6 +30,7 @@ tags:
   - perps
   - risikoappetit
 summary: "Altcoin-Seasons entstehen selten zufällig. Typische Treiber: fallende BTC-Dominanz, Stärke im ETH/BTC-Paar, frische Stablecoin-Liquidität sowie Katalysatoren (Airdrops, neue Narrative) — häufig bei niedriger IV und günstigem Funding."
+categories: ["news"]
 ---
 
 **Kurz:** Wenn Altcoins die Führung übernehmen, ist das meist **Kapitalrotation**. Nach einem reifen **BTC-Trend** (Rallye → Plateau) wandern Gewinne zu **ETH** und großen **L1/L2s**, danach in **Themen-Taschen** (DeFi, RWA, AI, Memecoins). Signale: **sinkende BTC-Dominanz**, **starkes ETH/BTC**, **Netto-Emission von Stablecoins** und **Katalysatoren** (Airdrops, Launches, Narrative).

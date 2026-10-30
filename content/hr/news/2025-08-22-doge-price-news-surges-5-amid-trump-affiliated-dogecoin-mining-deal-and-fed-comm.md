@@ -8,6 +8,7 @@ summary: A $50 million Trump-linked acquisition of a DOGE mining firm, Wyoming�
   of a state-backed stablecoin, and comments from Federal Reserve officials signaling
   a softer stance on digital assets all converged to trigger fresh institutiona
 title: 'DOGE vijesti o cijeni: Skok od 5% usred Dogecoin rudarskog ugovora povezanog s Trumpom i komentara FED-a'
+categories: ["news"]
 ---
 
 Dogecoin je u utorak porastao nakon niza regulatornih i korporativnih poticaja koji su promijenili raspoloženje u kripto sektoru. Akvizicija DOGE rudarske tvrtke u vrijednosti 50 milijuna dolara povezana s Trumpom, lansiranje stabilnog coina kojeg podržava država Wyoming te komentari dužnosnika Federalnih rezervi koji signaliziraju mekši stav prema digitalnoj imovini, zajedno su potaknuli nove institucionalne tokove kapitala.

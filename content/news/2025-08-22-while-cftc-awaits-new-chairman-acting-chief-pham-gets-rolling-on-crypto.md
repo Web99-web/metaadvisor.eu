@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/22/while-cftc-awaits-new-ch
 summary: "As U.S. President Donald Trump's chairman nominee, Brian Quintenz, remains in a confirmation holding pattern, the CFTC starts another 'crypto sprint.'"
 tags: ["crypto"]
 image: "/news/2025-08-22-while-cftc-awaits-new-chairman-acting-chief-pham-gets-rolling-on-crypto.jpg"
+categories: ["crypto"]
 ---
 
 With the chairmanship still an open question for the Commodity Futures Trading Commission — likely to be a leading U.S. watchdog for crypto — its interim leader, Caroline Pham, is getting started on recommendations from the recent crypto report of the President's Working Group .

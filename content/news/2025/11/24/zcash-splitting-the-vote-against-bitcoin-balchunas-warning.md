@@ -17,6 +17,7 @@ image_credit: "MetaAdvisor AI Graphic"
 tags: ["zcash", "zec", "bitcoin", "btc", "blockchain", "privacy", "privacy coin", "zk-technology", "zero-knowledge", "cryptography", "winklevoss", "gemini", "market analysis"]
 summary: "Zcash is gaining new attention as analysts warn it could ‘split the vote’ against Bitcoin — especially as interest in ZK technology grows."
 
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

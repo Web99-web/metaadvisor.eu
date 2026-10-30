@@ -16,6 +16,7 @@ image_alt: "Aave DAO i Aave Labs – spor oko naknada i upravljanja protokolom"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["aave","dao","defi","upravljanje","naknade","cowswap","kriptovalute","blockchain","governance"]
 summary: "Unutar Aave ekosustava izbio je otvoreni sukob oko toga kome pripadaju naknade generirane integracijom s CoW Swapom — DAO treasuryju ili Aave Labsu."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

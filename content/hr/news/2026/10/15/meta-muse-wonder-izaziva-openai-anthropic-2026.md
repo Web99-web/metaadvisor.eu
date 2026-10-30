@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Muse Wonder", "Muse Wonder Full", "Mark Zuckerberg", "OpenAI", "Anthropic", "umjetna inteligencija", "AI agenti", "Active Memory", "Active Focus"]
 description: "Meta je predstavila Muse Wonder i Muse Wonder Full, nove AI modele koji konkuriraju OpenAI-ju i Anthropicu. Donosimo rezultate, cijene i pitanja privatnosti."
 summary: "Meta je 12. listopada 2026. predstavila Muse Wonder i Muse Wonder Full, svoje najnaprednije modele za AI agente. Muse Wonder Full ostvario je 56 bodova na Artificial Analysis Intelligence Indexu, ispred GPT-6 Astre, ali iza Claude Opus 5.5. Active Memory i Active Focus trebali bi omogućiti dugotrajnije i kontekstualno povezanije izvršavanje zadataka. Modeli donose nove komercijalne mogućnosti, ali i važna pitanja zaštite podataka."
+categories: ["technology"]
 ---
 
 *Slika je simbolična.*

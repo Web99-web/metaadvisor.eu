@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Character.AI", "Disney", "Künstliche Intelligenz", "KI", "KI-Chatbots", "Insolvenz", "KI-Startups", "Datenschutz", "Nutzerdaten", "Kinderschutz", "KI-Regulierung", "Google", "Technologie", "Wirtschaft"]
 description: "Character.AI meldet trotz Millionen Nutzern Insolvenz an. Disney interessiert sich für KI-Fachkräfte und Technologie, während Behörden den Schutz privater Chats fordern."
 summary: "Character.AI hat nach hohen monatlichen Verlusten und rechtlichen Problemen ein Insolvenzverfahren eingeleitet. Disney interessiert sich für die Technologie und 66 Fachkräfte, während US-Generalstaatsanwälte den Schutz sensibler Nutzerdaten verlangen. Der Fall wirft Fragen zur Rentabilität von KI-Plattformen, zur Sicherheit von Kindern und zur Zukunft privater Gespräche auf."
+categories: ["technology"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "meta-17b-settlement-testimony-2026-08-27"
 source: "California Attorney General, Meta, Reuters, AP, The Guardian, WIRED, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-17b-court-case.png"
-featured_image: "/images/Meta/Meta-17b-court-case.png"
-image: "/images/Meta/Meta-17b-court-case.png"
-thumbnail: "/images/Meta/Meta-17b-court-case.png"
+image_url: "/images/Meta/Meta-17b-court-case.jpg"
+featured_image: "/images/Meta/Meta-17b-court-case.jpg"
+image: "/images/Meta/Meta-17b-court-case.jpg"
+thumbnail: "/images/Meta/Meta-17b-court-case.jpg"
 image_alt: "Meta agrees to a court settlement of up to $17 billion after uncomfortable testimony"
 image_credit: "Metaadvisor.eu – image is illustrative"
 tags: ["Meta", "Facebook", "Instagram", "settlement", "court", "testimony", "Mark Zuckerberg", "Adam Mosseri", "Arturo Béjar", "George Volichenko", "Francesco Fogu", "child safety", "social media addiction", "privacy", "regulation", "technology companies"]
 description: "Meta agreed to a settlement of up to $17 billion after only a few days of a trial in which former and current employees testified about child safety, engagement and internal company decisions."
 summary: "The trial against Meta was expected to continue for weeks, with Mark Zuckerberg among the planned witnesses. After uncomfortable testimony, Meta agreed to a settlement of up to $17 billion, but the guaranteed portion is spread over ten years and part of the maximum amount may never have to be paid."
+categories: ["Technology"]
 ---
 
 *The image is illustrative.*
@@ -162,7 +163,7 @@ But in return, Meta gets greater certainty over a significant portion of its leg
 We also published a separate story about Meta's video-selfie verification procedures and facial recordings: what does Meta do with the original recording and the data that may be derived from it, how long is it retained, when is it deleted, can biometric or other derived data be created, and are those materials processed only by Meta's own systems and employees or also by external companies?
 
 <a href="https://metaadvisor.eu/news/what-meta-facebook-instagram-does-with-your-face-recording/" target="_blank" rel="noopener">
-<img src="/images/Meta/Meta-face-recording.png"
+<img src="/images/Meta/Meta-face-recording.webp"
      alt="What does Meta do with your face recording?"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

@@ -15,6 +15,7 @@ image_alt: "American Bitcoin and rising corporate BTC reserves"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","treasury","corporate","american-bitcoin","procap","trump","crypto","institutions"]
 summary: "Eric Trump-backed American Bitcoin has surpassed ProCap in total BTC holdings, signaling continued corporate accumulation despite a volatile market."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

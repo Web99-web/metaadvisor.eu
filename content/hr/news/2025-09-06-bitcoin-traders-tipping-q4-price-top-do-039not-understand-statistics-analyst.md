@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/bitcoin-price-top-2025-debate-contin
 summary: "Rasprava o tome kada će Bitcoin dosegnuti vrh u ovom ciklusu sve je intenzivnija, ali analitičari upozoravaju da se predviđanja prečesto temelje na pogrešnom razumijevanju statistike."
 tags: ["bitcoin", "crypto", "btc", "halving", "markets", "analysis"]
 image_url: "/images/bitcoin-btc1.jpg"
+categories: ["crypto"]
 ---
 
 Debata o tome hoće li **Bitcoin (BTC)** dosegnuti svoj vrhunac u četvrtom kvartalu 2025. sve je glasnija, ali analitičari tvrde da mnogi trgovci koriste **pogrešne pretpostavke i loše razumiju statistiku**.  

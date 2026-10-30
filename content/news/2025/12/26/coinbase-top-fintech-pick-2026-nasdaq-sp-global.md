@@ -16,6 +16,7 @@ image_alt: "Coinbase ranked alongside Nasdaq and S&P Global as a top fintech pic
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto","bitcoin","btc","coinbase","fintech","nasdaq","sp500","stablecoin","usdc","blockchain"]
 summary: "Wall Street increasingly views Coinbase as core financial infrastructure rather than just a crypto exchange. Analysts rank it among the top fintech plays for 2026, alongside Nasdaq and S&P Global."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

@@ -7,14 +7,15 @@ translationKey: "ftx-cursor-anysphere-missed-3b-opportunity"
 source: "CoinDesk"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Cursor-AI-Anysphere.png"
-featured_image: "/images/companies/Cursor-AI-Anysphere.png"
-image: "/images/companies/Cursor-AI-Anysphere.png"
-thumbnail: "/images/companies/Cursor-AI-Anysphere.png"
+image_url: "/images/companies/Cursor-AI-Anysphere.webp"
+featured_image: "/images/companies/Cursor-AI-Anysphere.webp"
+image: "/images/companies/Cursor-AI-Anysphere.webp"
+thumbnail: "/images/companies/Cursor-AI-Anysphere.webp"
 image_alt: "Cursor AI Anysphere ehemaliger FTX Anteil 3 Milliarden verpasste Chance"
 image_credit: "Metaadvisor / Illustration"
 tags: ["ai","cursor","anysphere","ftx","krypto","blockchain","investitionen","technologie","elon musk"]
 summary: "FTX verkaufte 2023 seinen Anteil am AI-Startup Cursor für 200.000 Dollar. Heute wäre derselbe Anteil rund 3 Milliarden wert — was die Frage aufwirft, ob die Insolvenzverkäufe enorme Werte zerstört haben."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -34,7 +35,7 @@ In der Welt der Investitionen sind solche Szenarien nicht ungewöhnlich: Man kau
 
 Genau das ist FTX mit seinem Anteil an einem AI-Startup passiert, das heute Milliarden wert ist.
 
-<img src="/images/companies/Cursor-AI-Anysphere.png" alt="Cursor AI Anysphere ehemaliger FTX Anteil" />
+<img src="/images/companies/Cursor-AI-Anysphere.webp" alt="Cursor AI Anysphere ehemaliger FTX Anteil" />
 <p><em>Cursor AI (Anysphere) — eines der am schnellsten wachsenden AI-Coding-Tools</em></p>
 
 Es handelt sich um das Unternehmen Anysphere, das das Tool Cursor entwickelt — ein System zur Code-Erstellung mit Hilfe künstlicher Intelligenz.

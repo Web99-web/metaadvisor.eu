@@ -16,6 +16,7 @@ image_alt: "ChatGPT — age-verification announcement (illustrative)"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ai","chatgpt","openai","safety","age-verification","privacy","teens","policy","metaadvisor"]
 summary: "Following a lawsuit by the family of a 16-year-old who died in April, OpenAI plans to estimate users’ ages and, where needed, request ID. When in doubt, it will default to an under-18 experience."
+categories: ["ai"]
 ---
 
 OpenAI says it is building an **age-prediction system** to identify **under-18 users** and, where required, will ask for **ID verification**. If the system **isn’t sure**, it will **default** to the **under-18 experience**. The move follows **legal action** by the family of a 16-year-old who had chatted with the bot for months before his death.

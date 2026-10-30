@@ -24,6 +24,7 @@ tags:
   - blockchain
   - scaling
 summary: "Offchain Labs, the development team behind the Arbitrum network, has increased its ARB holdings as the network surpassed $20 billion in total value locked. The move is seen as a signal of long-term confidence despite ongoing pressure on governance tokens."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 12px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

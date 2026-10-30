@@ -16,6 +16,7 @@ image_alt: "Crypto Security — symbolische Illustration"
 image_credit: "Symbolisches Bild."
 tags: ["krypto","sicherheit","bitcoin","btc","ethereum","eth","wallet","seed","phishing","malware","qr","deepfake","mfa","fido2","mpc","kyc","aml","rugpull","social-engineering","self-custody","custodial","exchange","hardware-wallet","2fa","allowlist","whitelist","web3"]
 summary: "Die Kryptoindustrie ist zum Billionen-Ökosystem gewachsen. Angriffe stiegen 2025 um ~40 % – Sicherheit muss hoch, ohne Kernwerte wie Dezentralisierung und Pseudonymität zu opfern."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "john-ternus-apple-ceo-from-september-1-2026"
 source: "Apple, Reuters"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/John-Ternus-CEO-Apple.png"
-featured_image: "/images/companies/John-Ternus-CEO-Apple.png"
-image: "/images/companies/John-Ternus-CEO-Apple.png"
-thumbnail: "/images/companies/John-Ternus-CEO-Apple.png"
+image_url: "/images/companies/John-Ternus-CEO-Apple.webp"
+featured_image: "/images/companies/John-Ternus-CEO-Apple.webp"
+image: "/images/companies/John-Ternus-CEO-Apple.webp"
+thumbnail: "/images/companies/John-Ternus-CEO-Apple.webp"
 image_alt: "John Ternus, novi CEO Applea od 1. rujna 2026., prikazan na simboličnoj ilustraciji"
 image_credit: "Metaadvisor.eu"
 tags: ["Apple", "John Ternus", "Tim Cook", "tehnologija", "CEO", "upravljanje", "hardver", "iPhone", "Mac", "Apple Silicon", "umjetna inteligencija", "AI", "Siri", "Apple Park", "tehnološke kompanije", "poslovanje"]
 description: "John Ternus od 1. rujna 2026. vodi Apple nakon 15 godina Tima Cooka. Na čelo kompanije dolazi dugogodišnji šef hardverskog inženjerstva u trenutku kada Apple traži novi veliki proizvod i odgovor na AI eru."
 summary: "Nakon 15 godina Tima Cooka Apple je dobio novog CEO-a. John Ternus dolazi iz hardverskog inženjerstva i preuzima kompaniju vrijednu oko 4,5 bilijuna dolara, s izazovom da pronađe sljedeću veliku fazu rasta i pozicionira Apple u AI eri."
+categories: ["Tech"]
 ---
 
 *Slika je simbolična.*

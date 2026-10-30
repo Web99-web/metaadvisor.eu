@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/26/crypto-s-u-s-policy-aims
 summary: "Die Einwände des Gesetzgebers gegen Krypto-Missbräuche gelten als wesentliches Hindernis, das überwunden werden muss, bevor der Senat den Gesetzentwurf zur Marktstruktur im Kryptobereich vorantreiben kann."
 tags: ["crypto"]
 image_url: "https://www.coindesk.com/policy/2025/08/26/crypto-s-u-s-policy-aims-may-pivot-on-resistance-from-democratic-senator-warner"
+categories: ["crypto"]
 ---
 
 US-Senator Mark Warner soll sich gegen den Schutz von Softwareentwicklern im Gesetz zur Marktstruktur für Kryptowährungen stellen. (Kevin Dietsch/Getty Images)

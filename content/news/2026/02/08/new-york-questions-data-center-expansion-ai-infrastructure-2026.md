@@ -15,6 +15,7 @@ image_alt: "Large AI data center and energy infrastructure"
 image_credit: "Free stock image (Pexels/Unsplash) — symbolic illustration"
 tags: ["ai", "data centers", "new york", "artificial intelligence", "energy infrastructure", "regulation", "jobs", "power concentration", "cloud"]
 summary: "New York is considering a moratorium on new data centers, raising a question that goes beyond energy and the environment: is artificial intelligence becoming infrastructure owned by a few, while most of society loses its place in the economy of work?"
+categories: ["news"]
 ---
 
 <p style="font-size:0.9em; color:#777; margin-top:4px;">

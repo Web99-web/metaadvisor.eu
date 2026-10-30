@@ -15,6 +15,7 @@ image_alt: "TRON blockchain i zamrzavanje USDT sredstava"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["crypto","kripto","usdt","tether","tron","stablecoin","blockchain","regulacija","sigurnost","defi"]
 summary: "Tether je zamrznuo 344 milijuna USDT-a na Tron mreži u suradnji s američkim vlastima. Ovaj potez ponovno otvara pitanje koliko su stablecoini i blockchain mreže zaista decentralizirani."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -16,6 +16,7 @@ image_alt: "Pametni telefon u rukama (simbolična ilustracija)"
 image_credit: "MetaAdvisor image map (simbolična slika)"
 tags: ["Meta", "Instagram", "Threads", "oglasi", "privatnost", "djeca", "sigurnost", "UK", "društvene mreže"]
 summary: "Roditelji su ogorčeni jer je Meta u ‘suggested threads’ promotivnim objavama koristila javno podijeljene fotografije školarki (neke stare 13 godina) kako bi muškarcu od 37 godina oglasila Threads. Tvrtka tvrdi da objave ne krše pravila."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

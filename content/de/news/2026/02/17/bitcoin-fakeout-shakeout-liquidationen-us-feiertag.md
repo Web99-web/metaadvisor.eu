@@ -15,6 +15,7 @@ image_alt: "Bitcoin-Volatilität während eines US-Bankfeiertags"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["bitcoin", "btc", "kryptomarkt", "liquidationen", "volatilität", "us feiertag", "trading", "leverage", "short squeeze", "long squeeze", "krypto analyse", "crypto", "markt"]
 summary: "Bitcoin sprang während eines US-Bankfeiertags kurzzeitig in Richtung 70.000 Dollar und drehte dann abrupt nach unten, wodurch rund 120 Millionen Dollar an Long- und Short-Positionen liquidiert wurden. Analysten sprechen von klassischen 'Fakeout'- und 'Shakeout'-Mustern bei geringer Liquidität."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

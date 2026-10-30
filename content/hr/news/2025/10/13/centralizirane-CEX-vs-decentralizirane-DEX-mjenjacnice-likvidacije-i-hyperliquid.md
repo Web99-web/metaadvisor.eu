@@ -15,6 +15,7 @@ image_alt: "CEX vs DEX mjenjačnice"
 image_credit: "Slika je simbolična."
 tags: ["CEX", "DEX", "mjenjačnice", "likvidacije", "Hyperliquid", "transparentnost", "kripto", "perps", "whales", "KYC", "self-custody", "cijene"]
 summary: "Centralizirane mjenjačnice dominiraju volumenom, ali skrivaju detalje likvidacija. Decentralizirane nude potpunu on-chain transparentnost, zbog čega je Hyperliquid pod povećalom nakon nedavnih masovnih likvidacija."
+categories: ["crypto"]
 ---
 
 ## Centralizirane mjenjačnice (CEX)

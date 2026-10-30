@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/04/asia-morning-briefing-b
 summary: "QCP verweist auf Governance-Risiken und einen schwächeren Dollar als Rückenwind für BTC und Gold, während Optionsmärkte und Polymarket ETH als Hauptkandidat für Aufwärtsbewegungen sehen."
 tags: ["Krypto", "BTC", "ETH", "Asien", "Märkte", "Optionen", "SOL"]
 image_url: "/images/fallback-finance.jpg"
+categories: ["crypto"]
 ---
 
 Willkommen zum Asia Morning Briefing – der tägliche Überblick über die wichtigsten Nachrichten während der US-Handelszeiten und Marktanalysen.  

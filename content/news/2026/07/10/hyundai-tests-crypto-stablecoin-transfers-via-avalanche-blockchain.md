@@ -7,15 +7,16 @@ translationKey: "hyundai-stablecoin-avalanche-treasury-transfers-2026-07-10"
 source: "CoinDesk, The Block, Finextra, Asian Banking & Finance, CryptoBriefing, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Hyundai-tests-stablecoin-usdt-avalanche.png"
-featured_image: "/images/news/Hyundai-tests-stablecoin-usdt-avalanche.png"
-image: "/images/news/Hyundai-tests-stablecoin-usdt-avalanche.png"
-thumbnail: "/images/news/Hyundai-tests-stablecoin-usdt-avalanche.png"
+image_url: "/images/news/Hyundai-tests-stablecoin-usdt-avalanche.webp"
+featured_image: "/images/news/Hyundai-tests-stablecoin-usdt-avalanche.webp"
+image: "/images/news/Hyundai-tests-stablecoin-usdt-avalanche.webp"
+thumbnail: "/images/news/Hyundai-tests-stablecoin-usdt-avalanche.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Hyundai", "stablecoin", "stablecoins", "Avalanche", "Avalanche blockchain", "USDT", "Tether", "crypto payments", "treasury transfers", "cross-border payments", "corporate treasury", "Hyundai Card", "Visa", "Circle", "blockchain payments"]
 summary: "Hyundai is testing crypto stablecoin transfers via the Avalanche blockchain, not for car payments, but for internal cross-border treasury transfers between its related entities. The first pilot involved a $20,000 transfer between Hyundai Motor America and Hyundai Motor Mexico, with dollars converted into USDT and then back into dollars."
 disclaimer: "This article is for informational purposes only and does not constitute investment, financial, technology or business advice."
 draft: false
+categories: ["crypto"]
 ---
 
 The image is symbolic.

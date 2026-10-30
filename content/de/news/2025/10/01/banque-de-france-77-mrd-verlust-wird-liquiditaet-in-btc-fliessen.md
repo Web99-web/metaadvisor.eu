@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/french-central-bank-deficit-great-bitcoin-arthur-hayes"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/banque-de-france-loss.png"
-featured_image: "/images/banque-de-france-loss.png"
-image: "/images/banque-de-france-loss.png"
-thumbnail: "/images/banque-de-france-loss.png"
+image_url: "/images/banque-de-france-loss.webp"
+featured_image: "/images/banque-de-france-loss.webp"
+image: "/images/banque-de-france-loss.webp"
+thumbnail: "/images/banque-de-france-loss.webp"
 image_alt: "Banque de France und Bitcoin — Symbolbild"
 image_credit: "Design: Metaadvisor.eu (symbolisch)"
 tags: ["Bitcoin","Arthur Hayes","Banque de France","EZB","QE","Liquidität","Inflation","Anleihen","Token2049","Europa","Makro"]
 summary: "Die Banque de France verbuchte 2024 einen Nettoverlust von rund €7,7 Mrd. Laut Arthur Hayes erhöht solcher Druck die Chance auf neue EZB-Liquidität — potenziell positiv für Bitcoin."
+categories: ["crypto"]
 ---
 
 **Kontext:** Die französische Zentralbank weist für 2024 einen **Nettoverlust von ca. €7,7 Mrd.** aus. Auf der **TOKEN2049** argumentierte **Arthur Hayes**, dass solche Defizite die **Wahrscheinlichkeit von Liquiditätsmaßnahmen** (z. B. **QE/Anleihekäufe**) durch die **EZB** erhöhen — was historisch **risk-on**-Phasen und **BTC-Aufwärtsbewegungen** begünstigte.

@@ -10,6 +10,7 @@ image_url: "/images/btc-coini.jpg"
 image_alt: "Bitcoin coins symbolizing rising institutional allocations"
 tags: ["crypto","bitcoin","treasuries","institutions"]
 summary: "Capital Group has scaled an initial ~$1B position in ‘Bitcoin treasury’ equities to >$6B, led by stakes in Strategy (formerly MicroStrategy) and Metaplanet."
+categories: ["crypto"]
 ---
 
 **What’s new**  

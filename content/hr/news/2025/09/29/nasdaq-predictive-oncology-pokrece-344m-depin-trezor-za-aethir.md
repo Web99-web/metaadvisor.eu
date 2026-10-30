@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/predictive-oncology-depin-treasury-aethir-ath-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/DePin-ATH-Aethir.png"
-featured_image: "/images/DePin-ATH-Aethir.png"
-image: "/images/DePin-ATH-Aethir.png"
-thumbnail: "/images/DePin-ATH-Aethir.png"
+image_url: "/images/DePin-ATH-Aethir.webp"
+featured_image: "/images/DePin-ATH-Aethir.webp"
+image: "/images/DePin-ATH-Aethir.webp"
+thumbnail: "/images/DePin-ATH-Aethir.webp"
 image_alt: "DePIN i Aethir (ATH) – decentralizirani GPU cloud"
 image_credit: "Dizajn: Metaadvisor.eu (simbolična ilustracija)"
 tags: ["crypto","DePIN","Aethir","ATH","Predictive Oncology","Nasdaq","GPU","AI","decentralizirana-infrastruktura","staking","likvidnost","treasury","enterprise","računalstvo"]
 summary: "Predictive Oncology (Nasdaq) lansira DePIN trezor od $344M fokusiran na Aethir (ATH), mrežu za decentralizirano GPU računalstvo. Cilj je kapitalizirati rast potražnje za AI kapacitetima i potaknuti likvidnost u Aethir ekosustavu."
+categories: ["crypto"]
 ---
 
 **Kratko:** **Predictive Oncology**, javno trgovana tvrtka na **Nasdaqu**, pokrenula je **DePIN treasury** vrijedan **$344 milijuna** s fokusom na **Aethir (ATH)** — mrežu za **decentralizirano GPU/AI računalstvo**. DePIN (Decentralized Physical Infrastructure Networks) spaja fizičku infrastrukturu (GPU-ove, čvorove, bandwidth) s tokenomikom i tržišnim poticajima.

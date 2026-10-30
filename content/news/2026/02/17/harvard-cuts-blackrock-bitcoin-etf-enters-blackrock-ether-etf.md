@@ -7,14 +7,15 @@ translationKey: "2ae89e230545ad2b01d87a68c670de5e"
 author: "CoinDesk"
 source: "CoinDesk / Cointelegraph"
 source_url: "https://www.coindesk.com/business/2026/02/16/harvard-cuts-bitcoin-exposure-by-20-adds-new-ether-position"
-image_url: "/images/Harvard-btc-eth-etf.png"
-featured_image: "/images/Harvard-btc-eth-etf.png"
-image: "/images/Harvard-btc-eth-etf.png"
-thumbnail: "/images/Harvard-btc-eth-etf.png"
+image_url: "/images/Harvard-btc-eth-etf.webp"
+featured_image: "/images/Harvard-btc-eth-etf.webp"
+image: "/images/Harvard-btc-eth-etf.webp"
+thumbnail: "/images/Harvard-btc-eth-etf.webp"
 image_alt: "Harvard rebalances exposure between BlackRock Bitcoin and Ether ETFs"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["harvard", "blackrock", "bitcoin", "btc", "ether", "eth", "ethereum", "etf", "institutional capital", "crypto market", "crypto funds", "digital assets", "investments", "wall street", "crypto"]
 summary: "Harvard’s $56.9 billion endowment reduced its stake in the BlackRock Bitcoin ETF by 21% while opening a new position in the BlackRock Ether ETF. The move signals strategic institutional capital rotation within crypto."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

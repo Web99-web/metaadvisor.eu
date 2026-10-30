@@ -7,14 +7,15 @@ translationKey: "gas_fee_crypto_explained_20260118"
 source: ""
 source_url: ""
 author: "MetaAdvisor.eu"
-image_url: "/images/Gas-fee-in-crypto.png"
-featured_image: "/images/Gas-fee-in-crypto.png"
-image: "/images/Gas-fee-in-crypto.png"
-thumbnail: "/images/Gas-fee-in-crypto.png"
+image_url: "/images/Gas-fee-in-crypto.webp"
+featured_image: "/images/Gas-fee-in-crypto.webp"
+image: "/images/Gas-fee-in-crypto.webp"
+thumbnail: "/images/Gas-fee-in-crypto.webp"
 image_alt: "Gas fee in crypto as a symbol of blockchain transaction costs"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Gas fees are one of the most confusing concepts in crypto. We explain what gas fees are, when they apply, what they are paid in, and exactly where you must have them — wallet by wallet, without technical jargon."
 tags: ["crypto","gas-fee","blockchain","metamask","phantom","trust-wallet","ledger","ethereum","solana","defi","education"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

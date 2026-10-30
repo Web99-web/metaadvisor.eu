@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Ledger", "CryptoBilis", "krađa kriptovaluta", "crypto", "hardware wallet", "blockchain", "Bitcoin", "Ethereum", "supply chain attack", "cybersecurity"]
 description: "Ledger istražuje nestanak kriptovaluta procijenjen na 92,9 milijuna dolara. Preprodavač CryptoBilis promijenio je vlasnika, uz ugovorenu odgodu javne objave akvizicije."
 summary: "Ledger istražuje moguću krađu gotovo 93 milijuna dolara s hardverskih novčanika kupljenih preko CryptoBilisa. Preprodavač je promijenio vlasnika tijekom 2026., a bivši osnivači tvrde da su zbog ugovora o povjerljivosti morali odgoditi javnu objavu akvizicije do sredine listopada. Istražuju se i sumnje na kompromitirane uređaje."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

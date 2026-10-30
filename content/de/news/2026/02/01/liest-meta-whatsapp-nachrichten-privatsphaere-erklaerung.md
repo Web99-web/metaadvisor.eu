@@ -8,10 +8,10 @@ source: "The Guardian"
 source_url: "https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages"
 author: "The Guardian"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/private-messages1.png"
-featured_image: "/images/private-messages1.png"
-image: "/images/private-messages1.png"
-thumbnail: "/images/private-messages1.png"
+image_url: "/images/private-messages1.webp"
+featured_image: "/images/private-messages1.webp"
+image: "/images/private-messages1.webp"
+thumbnail: "/images/private-messages1.webp"
 image_alt: "Private Nachrichten und Datenschutz im Kontext der WhatsApp-Untersuchung"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -24,6 +24,7 @@ tags:
   - cyber-sicherheit
   - ki
 summary: "US-Behörden prüfen Vorwürfe, wonach Meta Zugriff auf angeblich verschlüsselte WhatsApp-Nachrichten haben könnte. Meta weist die Anschuldigungen zurück."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

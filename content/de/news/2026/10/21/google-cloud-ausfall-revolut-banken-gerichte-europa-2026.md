@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Google Cloud", "Google", "Revolut", "Lloyds", "Halifax", "HSBC", "Cloud-Ausfall", "Cloud Computing", "Banken", "Online-Banking", "Zahlungsverkehr", "Cybersicherheit", "DORA", "Digitale Infrastruktur", "Finanztechnologie", "Europa", "Technologie"]
 description: "Ein Google-Cloud-Ausfall beeinträchtigte Revolut, britische Banken, Gerichte und weitere Dienste. Der Vorfall wirft Fragen zur digitalen Abhängigkeit Europas auf."
 summary: "Ein Infrastrukturproblem bei Google Cloud in London führte am 20. Oktober 2026 zu Störungen bei Banken und anderen digitalen Diensten. Revolut, Lloyds, Halifax und HSBC gehörten zu den betroffenen Finanzinstituten. Auch Gerichte, Lieferdienste und weitere Branchen meldeten Probleme. Der Vorfall verdeutlicht die Abhängigkeit Europas von wenigen großen Cloud-Anbietern."
+categories: ["technology"]
 ---
 
 *Symbolbild.*

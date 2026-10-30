@@ -7,14 +7,15 @@ translationKey: "559a342a97741973c8002fda250e574b"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (CoinDesk, Fortune)"
 source_url: ""
-image_url: "/images/companies/Anthropic-AI-risk.png"
-featured_image: "/images/companies/Anthropic-AI-risk.png"
-image: "/images/companies/Anthropic-AI-risk.png"
-thumbnail: "/images/companies/Anthropic-AI-risk.png"
+image_url: "/images/companies/Anthropic-AI-risk.webp"
+featured_image: "/images/companies/Anthropic-AI-risk.webp"
+image: "/images/companies/Anthropic-AI-risk.webp"
+thumbnail: "/images/companies/Anthropic-AI-risk.webp"
 image_alt: "Anthropic AI rizik, greške i cyber sigurnost"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "anthropic", "claude", "ai greske", "halucinacije", "cyber sigurnost", "bitcoin", "btc", "kripto", "tech", "rizik"]
 summary: "Anthropic AI leak otvorio je pitanja grešaka, halucinacija i cyber rizika, dok su tržišta reagirala padom Bitcoina i tech sektora."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

@@ -7,10 +7,10 @@ translationKey: "tennessee_stops_sports_prediction_contracts_2026"
 source: "MetaAdvisor analiza (na temelju CoinDesk i regulatornih dokumenata)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Tennessee-vs-sporting-prediction-market.png"
-featured_image: "/images/Tennessee-vs-sporting-prediction-market.png"
-image: "/images/Tennessee-vs-sporting-prediction-market.png"
-thumbnail: "/images/Tennessee-vs-sporting-prediction-market.png"
+image_url: "/images/Tennessee-vs-sporting-prediction-market.webp"
+featured_image: "/images/Tennessee-vs-sporting-prediction-market.webp"
+image: "/images/Tennessee-vs-sporting-prediction-market.webp"
+thumbnail: "/images/Tennessee-vs-sporting-prediction-market.webp"
 image_alt: "Tennessee regulator zaustavlja sportske ugovore na kripto tržištima predviđanja"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -26,6 +26,7 @@ tags:
   - polymarket
   - crypto_com
 summary: "Američka savezna država Tennessee naredila je obustavu sportskih ugovora na kripto tržištima predviđanja poput Kalshi, Polymarketa i Crypto.coma, otvarajući pitanje gdje završava financijska inovacija, a počinje klasično klađenje."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

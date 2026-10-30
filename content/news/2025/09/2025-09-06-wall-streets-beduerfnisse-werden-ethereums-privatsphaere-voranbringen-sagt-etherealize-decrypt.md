@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/338324/wall-streets-needs-advance-ethereum-priva
 summary: "Privacy advocates should be cheering on Wall Street’s adoption of crypto, according to Etherealize co-founder and President Danny Ryan."
 tags: ["crypto", "ethereum", "eth", "privacy", "zero-knowledge", "zk", "wall street", "institutions", "compliance", "decrypt", "etherealize"]
 image_url: "/images/wall-street-manja.jpg"
+categories: ["crypto"]
 ---
 
 Privacy advocates should be cheering on Wall Street’s adoption of cryptocurrencies, according to Etherealize co-founder and President Danny Ryan.

@@ -7,10 +7,10 @@ translationKey: "hype_30_prozent_24h_hyperliquid_20260129"
 source: "MetaAdvisor Analyse / Marktbeobachtung"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hype-up.png"
-featured_image: "/images/Hype-up.png"
-image: "/images/Hype-up.png"
-thumbnail: "/images/Hype-up.png"
+image_url: "/images/Hype-up.webp"
+featured_image: "/images/Hype-up.webp"
+image: "/images/Hype-up.webp"
+thumbnail: "/images/Hype-up.webp"
 image_alt: "HYPE Token mit starkem Kursanstieg – symbolische Illustration"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -31,6 +31,7 @@ tags:
   - krypto rally
   - marktbewegung
 summary: "Der HYPE-Token von Hyperliquid ist innerhalb von nur 24 Stunden um rund 30 % gestiegen und hebt sich damit deutlich von einem ansonsten ruhigen Kryptomarkt ab. Wir erklären, warum dieser Anstieg besonders auffällt und was ihn von anderen Bewegungen unterscheidet."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

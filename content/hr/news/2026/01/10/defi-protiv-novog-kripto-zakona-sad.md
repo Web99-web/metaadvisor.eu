@@ -7,10 +7,10 @@ translationKey: "39ce36720e0911f64bbdf6ab1c4b8352"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2026/01/09/crypto-crowd-could-still-walk-away-from-u-s-market-structure-bill-if-defi-needs-unmet"
 author: "MetaAdvisor.eu"
-image_url: "/images/DeFi-vs-crypto-regulations.png"
-featured_image: "/images/DeFi-vs-crypto-regulations.png"
-image: "/images/DeFi-vs-crypto-regulations.png"
-thumbnail: "/images/DeFi-vs-crypto-regulations.png"
+image_url: "/images/DeFi-vs-crypto-regulations.webp"
+featured_image: "/images/DeFi-vs-crypto-regulations.webp"
+image: "/images/DeFi-vs-crypto-regulations.webp"
+thumbnail: "/images/DeFi-vs-crypto-regulations.webp"
 image_alt: "Sukob DeFi sektora i novih kripto regulacija u SAD-u"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -24,6 +24,7 @@ tags:
   - blockchain
   - politika
 summary: "Dio kripto-industrije upozorava da bi mogao odustati od podrške novom američkom zakonu o tržišnoj strukturi ako se u njemu ne prepoznaju specifične potrebe DeFi sektora. Rasprava otvara šire pitanje kako regulirati decentralizirane financije bez gušenja inovacija."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "telegram-tme-global-dns-2026-07-14"
 source: "ICANN, WHOIS, Pavel Durov, .ME Registry"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Telegram-t.me.png"
-featured_image: "/images/news/Telegram-t.me.png"
-image: "/images/news/Telegram-t.me.png"
-thumbnail: "/images/news/Telegram-t.me.png"
+image_url: "/images/news/Telegram-t.me.webp"
+featured_image: "/images/news/Telegram-t.me.webp"
+image: "/images/news/Telegram-t.me.webp"
+thumbnail: "/images/news/Telegram-t.me.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Telegram", "t.me", "DNS", ".me", "Crna Gora", "serverHold", "internet infrastruktura", "domene"]
 description: "Telegramova domena t.me nestala je iz globalnog DNS-a, a poveznice prema kanalima, grupama i botovima prestale su raditi. Kakve veze s time ima Crna Gora?"
 summary: "Telegramova domena t.me nestala je iz globalnog DNS-a, zbog čega su prestale raditi poveznice prema kanalima, grupama, profilima i botovima. Kakve veze s time ima država Crna Gora? .me je njezina službena nacionalna internetska domena."
+categories: ["tech"]
 ---
 
 # Telegramova domena t.me nestala iz globalnog DNS-a

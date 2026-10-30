@@ -28,6 +28,7 @@ tags:
   - regulation
   - governance
 summary: "Asia’s stablecoin plans collide with capital controls that limit international usability of local currencies. Hong Kong is the standout: special status, peg and clear oversight make HKD a viable base."
+categories: ["news"]
 ---
 
 **TL;DR:** Ahead of **Korea Blockchain Week**, a **KRW stablecoin** gained political momentum as a **domestic digital alternative** to dollar tokens. But **capital controls** across much of Asia prevent **offshore circulation**, leaving **Hong Kong’s HKD** as the region’s only **practically usable** base.

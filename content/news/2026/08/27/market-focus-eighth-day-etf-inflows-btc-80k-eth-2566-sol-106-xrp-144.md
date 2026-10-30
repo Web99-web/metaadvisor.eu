@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "Bitcoin ETF", "ETF inflows", "Ethereum", "Ethereum ETF", "Solana", "XRP", "crypto market", "Asian markets", "KOSPI", "Nikkei 225", "AI", "technology stocks", "semiconductors", "capital rotation", "Market Focus"]
 description: "U.S. spot Bitcoin ETFs record their eighth consecutive day of net inflows as BTC again tests $80,000, Ethereum reaches $2,566, Solana $106 and XRP $1.44."
 summary: "Bitcoin ETFs extended their net inflow streak to eight days, BTC again tested $80,000, Ethereum reached around $2,566, Solana around $106 and XRP around $1.44."
+categories: ["Crypto"]
 ---
 
 *The image is symbolic.*

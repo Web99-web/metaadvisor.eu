@@ -8,10 +8,10 @@ source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/25/instagram-risk-children-safety-tools-meta"
 author: "The Guardian Tech"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/instagram-safety.png"
-featured_image: "/images/instagram-safety.png"
-image: "/images/instagram-safety.png"
-thumbnail: "/images/instagram-safety.png"
+image_url: "/images/Kids-protection-from-social-media.webp"
+featured_image: "/images/Kids-protection-from-social-media.webp"
+image: "/images/Kids-protection-from-social-media.webp"
+thumbnail: "/images/Kids-protection-from-social-media.webp"
 image_alt: "Instagram Safety — symbolische Illustration"
 image_credit: "Metaadvisor.eu (generierte Grafik)"
 tags:
@@ -22,6 +22,7 @@ tags:
   - jugendliche
   - social-media
 summary: "Laut Whistleblower Arturo Béjar sind 64 % der neuen Sicherheitsfunktionen auf Instagram unwirksam. Kinder und Jugendliche bleiben gefährdet."
+categories: ["news"]
 ---
 
 Eine umfassende Überprüfung von **Arturo Béjar**, ehemaliger Meta-Ingenieur und Whistleblower, zeigt: **Instagram bleibt eine Gefahrenquelle für Kinder und Jugendliche**, auch nach Einführung neuer Schutzmechanismen.

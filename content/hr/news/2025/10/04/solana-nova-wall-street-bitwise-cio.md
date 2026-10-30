@@ -38,6 +38,7 @@ tags:
   - tehnička-analiza
   - volatilnost
 summary: "Bitwiseov CIO Matt Hougan nazvao je Solanu ‘novom Wall Streetom’ zbog brzine, propusnosti i narativa o tokenizaciji/stablecoinima. SOL je u zadnjoj sesiji konsolidirao u uskom rasponu oko 228–237 USD."
+categories: ["crypto"]
 ---
 
 **Sažetak (2–3 rečenice)**  

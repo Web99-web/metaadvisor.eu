@@ -15,6 +15,7 @@ image_alt: "Rückgang der Preise von Bitcoin, Ethereum und Solana"
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto", "krypto", "bitcoin", "btc", "ethereum", "eth", "solana", "sol", "marktkorrektur", "volatilität", "marktanalyse"]
 summary: "Bitcoin hält sich bei 63.000 USD nach einem Rückgang unter 62.300 USD, während Ethereum und Solana ähnliche Bewegungen zeigen. Trotz kurzer Stabilisierung warnen Analysten, dass die Marktkorrektur noch nicht abgeschlossen ist."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

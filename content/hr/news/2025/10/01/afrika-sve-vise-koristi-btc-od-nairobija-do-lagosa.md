@@ -7,14 +7,15 @@ translationKey: "9de735ea2484048f39666976d03e8ba7"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-africans-are-using-stablecoins-to-survive-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Metaadvisor.eu"
-image_url: "/images/africa-bitcoin-exit-IG-1080.png"
-featured_image: "/images/africa-bitcoin-exit-IG-1080.png"
-image: "/images/africa-bitcoin-exit-IG-1080.png"
-thumbnail: "/images/africa-bitcoin-exit-IG-1080.png"
+image_url: "/images/africa-bitcoin-exit-IG-1080.webp"
+featured_image: "/images/africa-bitcoin-exit-IG-1080.webp"
+image: "/images/africa-bitcoin-exit-IG-1080.webp"
+thumbnail: "/images/africa-bitcoin-exit-IG-1080.webp"
 image_alt: "Stilizirana Afrika s Bitcoin motivom"
 image_credit: "Dizajn: Metaadvisor.eu (slika je simbolična)"
 tags: ["Africa","Bitcoin","BTC","stablecoins","USDT","USDC","inflacija","dollarization","remittances","Nigeria","Kenya","Lagos","Nairobi","M-Pesa","P2P","on/off-ramp","FX-kontrole","kripto-usvajanje","Lightning","DePIN","L2","fintech"]
 summary: "U afričkim metropolama raste praktična upotreba kripta: stablecoini služe za svakodnevicu, dok se Bitcoin sve više koristi kao duga štednja, zaštita od inflacije i alat za prekogranične transfere. Ključni pogon: inflacija, slabi FX i mobilni novac."
+categories: ["crypto"]
 ---
 
 **Kratko:** Od **Nairobija** do **Lagosa** kripto se koristi iz nužde, ne iz trenda. **Stablecoini (USDT/USDC)** dominiraju **svakodnevnim plaćanjima i doznakama**, a **Bitcoin (BTC)** sve češće služi kao **dugoročna zaštita** i “rezervna štednja” — posebno u okruženju **dvocifrene inflacije**, **slabih lokalnih valuta** i **skupih bankarskih kanala**. *Slika je simbolična.*

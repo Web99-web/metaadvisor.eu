@@ -16,6 +16,7 @@ image_alt: "Grüner Bitcoin symbolisiert institutionelle Investitionen in Krypto
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "wall street", "etf", "blockchain", "offchain", "crypto", "finanzen"]
 summary: "Wall Street liebt Bitcoin – aber nicht seine Blockchain. Hinter den Kulissen handeln große Akteure mit 'Papier-Bitcoin' und behalten die Kontrolle über Timing und Risiko."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

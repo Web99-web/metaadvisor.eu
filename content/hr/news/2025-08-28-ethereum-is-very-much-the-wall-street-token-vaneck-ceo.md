@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/vaneck-ceo-calls-ethereum-the-wall-s
 summary: "VanEckov izvršni direktor tvrdi da će se banke morati prilagoditi Ethereum blockchainu za stablecoin transakcije — inače riskiraju zaostajanje."
 tags: ["crypto","Ethereum","VanEck","Wall Street token","stablecoins"]
 image_url: "https://www.cointelegraph.com/images/ethereum-is-wall-street-token.jpg"
+categories: ["crypto"]
 ---
 
 Jan van Eck, izvršni direktor investicijske tvrtke VanEck, predviđa da će Ethereum postati glavni blockchain za bankovne institucije u složenju stablecoin transakcija – i naziva ga “Wall Street tokenom”.

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/bitcoin-price-to-hit-us
 summary: "Institucionalno usvajanje, potražnja za zaštitom od inflacije i ograničena ponuda bitcoina potaknut će novu valuaciju, navodi se u izvješću."
 tags: ["bitcoin", "crypto"]
 image: "/news/2025-08-22-btc-price-news-bitcoin-may-hit-13m-by-2035-says-crypto-asset-manager-bitwise.jpg"
+categories: ["crypto"]
 ---
 
 Upravitelj kripto imovine **Bitwise** daje velika predviđanja za budućnost bitcoina (BTC), tvrdeći da će iduće desetljeće obilježiti izvanredan rast najveće svjetske kriptovalute.  

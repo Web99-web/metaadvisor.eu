@@ -8,14 +8,15 @@ source: "MetaAdvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Bithumb-incident.png"
-featured_image: "/images/Bithumb-incident.png"
-image: "/images/Bithumb-incident.png"
-thumbnail: "/images/Bithumb-incident.png"
+image_url: "/images/Bithumb-incident.webp"
+featured_image: "/images/Bithumb-incident.webp"
+image: "/images/Bithumb-incident.webp"
+thumbnail: "/images/Bithumb-incident.webp"
 image_alt: "Symbolische Illustration eines Vorfalls bei der Kryptobörse Bithumb"
 image_credit: "Symbolic image / MetaAdvisor.eu"
 tags: ["bitcoin", "bithumb", "krypto-boersen", "markteinbruch", "liquidationen", "volatilitaet", "etf", "asien"]
 summary: "Die südkoreanische Kryptobörse Bithumb hat einigen Nutzern versehentlich rund 2.000 Bitcoin pro Konto ausgezahlt. Der Vorfall ereignete sich kurz vor einem starken Marktrückgang und wirft die Frage auf, ob dieser operative Fehler den bereits bestehenden globalen Verkaufsdruck zusätzlich verstärkt haben könnte."
+categories: ["crypto"]
 ---
 
 ## Ein ungewöhnlicher Vorfall auf einer der größten Börsen Asiens

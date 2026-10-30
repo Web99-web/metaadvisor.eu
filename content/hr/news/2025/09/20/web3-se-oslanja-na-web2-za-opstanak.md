@@ -16,6 +16,7 @@ image_alt: "WEB3 minimalistički logotip (simbolična grafika)"
 image_credit: "MetaAdvisor (simbolična grafika)"
 tags: ["web3", "web2", "onboarding", "identitet", "walleti", "on-ramp", "UX", "infrastruktura"]
 summary: "Unatoč decentraliziranoj viziji, današnji Web3 ovisi o Web2 kanalima i alatima — od identiteta i on-rampa do distribucije i DevOps-a. Pitanje više nije zamjena, nego suživot i postupna decentralizacija."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

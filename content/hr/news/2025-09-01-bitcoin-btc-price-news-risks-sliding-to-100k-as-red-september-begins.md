@@ -9,6 +9,7 @@ summary: "Tehnički indikatori potvrđuju medvjeđi zaokret nakon probijanja klj
 tags: ["bitcoin","crypto","BTC","price-analysis","trading","technical-analysis","Ichimoku","SMA","MACD","GMMA"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/404f1c4206325dfb85bb5fa2dc07f0e6a7f3c00f-2880x1620.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/404f1c4206325dfb85bb5fa2dc07f0e6a7f3c00f-2880x1620.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 Ovo je dnevna analiza CoinDesk analitičara i ovlaštenog tehničara tržišta (CMT) Omkara Godbolea.  

@@ -7,10 +7,10 @@ translationKey: "d4be0e1081118387419e6bfbb4f9892c"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/pumpfun-revamps-creator-fees-fee-sharing-cto-controls"
 author: "MetaAdvisor.eu"
-image_url: "/images/Pump.fun-10-wallets-fee.png"
-featured_image: "/images/Pump.fun-10-wallets-fee.png"
-image: "/images/Pump.fun-10-wallets-fee.png"
-thumbnail: "/images/Pump.fun-10-wallets-fee.png"
+image_url: "/images/Pump.fun-10-wallets-fee.webp"
+featured_image: "/images/Pump.fun-10-wallets-fee.webp"
+image: "/images/Pump.fun-10-wallets-fee.webp"
+thumbnail: "/images/Pump.fun-10-wallets-fee.webp"
 image_alt: "Pump.fun introduces a new fee-sharing model on Solana"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -22,6 +22,7 @@ tags:
   - wallet
   - crypto
 summary: "Solana-based memecoin platform Pump.fun has unveiled a new creator fee-sharing system that allows revenue to be split across up to 10 wallets, alongside expanded control features."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

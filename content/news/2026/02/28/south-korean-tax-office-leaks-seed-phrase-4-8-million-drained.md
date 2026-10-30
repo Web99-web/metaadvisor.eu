@@ -7,14 +7,15 @@ translationKey: "9bb5967dc368dafb02f5ead6e78cd209"
 source: "Cointelegraph"
 source_url: ""
 author: "Cointelegraph (analysis: MetaAdvisor.eu)"
-image_url: "/images/Hackers-Stolen-BTC-South-Korea.png"
-featured_image: "/images/Hackers-Stolen-BTC-South-Korea.png"
-image: "/images/Hackers-Stolen-BTC-South-Korea.png"
-thumbnail: "/images/Hackers-Stolen-BTC-South-Korea.png"
+image_url: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+featured_image: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+image: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+thumbnail: "/images/Hackers-Stolen-BTC-South-Korea.webp"
 image_alt: "Hacker using a laptop with crypto transactions and security warning"
 image_credit: "MetaAdvisor.eu (AI illustration)"
 tags: ["crypto", "seed phrase", "security", "south korea", "tax office", "blockchain", "ethereum", "private keys", "digital assets", "cybersecurity", "crypto hack", "wallet security"]
 summary: "South Korea’s National Tax Service accidentally exposed a crypto wallet seed phrase in an official press release, after which $4.8 million worth of tokens were quickly transferred out. The incident raises serious questions about institutional crypto custody and operational security."
+categories: ["crypto"]
 ---
 
 # South Korean Tax Office Leaks Seed Phrase in Press Release – $4.8 Million in Tokens Drained

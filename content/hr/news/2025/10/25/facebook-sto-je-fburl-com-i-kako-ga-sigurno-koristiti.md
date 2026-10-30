@@ -15,6 +15,7 @@ image_alt: "Facebook i fburl.com link"
 image_credit: "Slika je simbolična."
 tags: ["Facebook", "fburl", "sigurnost", "linkovi", "phishing", "cybersecurity"]
 summary: "Fburl.com je Facebookova skraćena domena koja se koristi za preusmjeravanje i dijeljenje linkova. Evo na što trebate paziti."
+categories: ["tech"]
 ---
 
 **Što je fburl.com?**

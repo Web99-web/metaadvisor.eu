@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/04/google-pixel-10-
 summary: "Zusätzliche 5x-Telekamera, nützliche KI-Tools, Qi2-Unterstützung und optimierte Software machen diesen Android zu einer starken Wahl."
 tags: ["google", "pixel 10", "tensor g5", "android", "qi2", "kamera", "smartphone"]
 image_url: "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg"
+categories: ["news"]
 ---
 
 Googles neues Pixel 10 hat mehr Kameras, einen schnelleren Chip und verbesserte Software erhalten und setzt damit einen neuen Standard für ein Basis-Flaggschiff-Smartphone.  

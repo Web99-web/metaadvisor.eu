@@ -7,14 +7,15 @@ translationKey: "4f23af2c0635c2a2f2af75194f125fef"
 source: "Metaadvisor (TechCrunch, Reuters, Crunchbase)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Legora-legal-AI.png"
-featured_image: "/images/companies/Legora-legal-AI.png"
-image: "/images/companies/Legora-legal-AI.png"
-thumbnail: "/images/companies/Legora-legal-AI.png"
+image_url: "/images/companies/Legora-legal-AI.webp"
+featured_image: "/images/companies/Legora-legal-AI.webp"
+image: "/images/companies/Legora-legal-AI.webp"
+thumbnail: "/images/companies/Legora-legal-AI.webp"
 image_alt: "Legora AI Plattform für Anwälte und Rechtsteams"
 image_credit: "Metaadvisor.eu"
 tags: ["legora ai", "legal ai startup", "legal tech europa", "ai für anwälte", "harvey ai konkurrenz", "nvidia investment ai", "ai rechtsbranche", "automatisierung recht", "europäisches startup ai", "ai anwalt tools"]
 summary: "Das schwedische Startup Legora hat eine Bewertung von 5,6 Milliarden USD erreicht und expandiert schnell in die USA, unterstützt von Investoren wie Nvidia und im direkten Wettbewerb mit dem amerikanischen Anbieter Harvey."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -7,14 +7,15 @@ translationKey: "b47c7c5ef9555053fb7ff3e500242836"
 author: "CoinDesk"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/HYPE-up1.png"
-featured_image: "/images/HYPE-up1.png"
-image: "/images/HYPE-up1.png"
-thumbnail: "/images/HYPE-up1.png"
+image_url: "/images/HYPE-up1.webp"
+featured_image: "/images/HYPE-up1.webp"
+image: "/images/HYPE-up1.webp"
+thumbnail: "/images/HYPE-up1.webp"
 image_alt: "HYPE token rising amid burn narrative"
 image_credit: "Symbolic illustration"
 tags: ["hype", "hyperliquid", "jup", "jupiter", "crypto", "altcoins", "token burn", "unlock", "tokenomics", "defi", "derivatives", "trading", "supply freeze", "governance", "circulating supply", "emissions"]
 summary: "HYPE rose 5% despite a looming $316M token unlock, supported by an aggressive burn mechanism. JUP gained after token holders voted to eliminate net-new emissions for 2026, reinforcing the supply-discipline narrative in altcoins."
+categories: ["crypto"]
 ---
 
 # HYPE Jumps 5% as Burn Offsets $316M Unlock, JUP Gains on Emission Freeze

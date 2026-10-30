@@ -15,6 +15,7 @@ image_alt: "Bitcoin, Ethereum i Solana grafikon uz volatilno tržište"
 image_credit: "Ilustracija: MetaAdvisor"
 tags: ["bitcoin", "btc", "ethereum", "eth", "solana", "sol", "kripto", "crypto", "etf", "deribit", "opcije", "hedge", "volatilnost", "nasdaq", "ai tokeni"]
 summary: "ETF fondovi i korporativne riznice kupuju zaštitu ispod 60.000 USD dok se Bitcoin suočava s povijesnim tehničkim obrascem koji je prethodio dubljim padovima 2014. i 2022. godine. Tržište balansira između institucionalne akumulacije i rastućeg opreza."
+categories: ["crypto"]
 ---
 
 # Institucije se štite ispod 60.000 USD dok Bitcoin ponovno testira povijesni obrazac pada

@@ -8,10 +8,10 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/"
 author: "TechCrunch — Analyse und redaktionelle Anpassung: MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Naware-steam-destorys-weeds.png"
-featured_image: "/images/Naware-steam-destorys-weeds.png"
-image: "/images/Naware-steam-destorys-weeds.png"
-thumbnail: "/images/Naware-steam-destorys-weeds.png"
+image_url: "/images/Naware-steam-destorys-weeds.webp"
+featured_image: "/images/Naware-steam-destorys-weeds.webp"
+image: "/images/Naware-steam-destorys-weeds.webp"
+thumbnail: "/images/Naware-steam-destorys-weeds.webp"
 image_alt: "Naware-Dampftechnologie zur Unkrautvernichtung ohne Chemikalien"
 image_credit: "MetaAdvisor / AI-generated"
 tags: [
@@ -32,6 +32,7 @@ tags: [
   "Technologie"
 ]
 summary: "Das US-Startup Naware entwickelt eine Technologie zur Unkrautvernichtung mit Dampf und Hitze – ganz ohne Pestizide. Auslöser waren persönliche Erfahrungen mit Krebs sowie zunehmende Forschung zu den gesundheitlichen Risiken von Chemikalien in Boden, Wasser und Nahrung."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

@@ -15,6 +15,7 @@ image_alt: "Robinhood stock decline and crypto market pressure amid geopolitical
 image_credit: "Metaadvisor.eu"
 tags: ["robinhood", "crypto", "bitcoin", "btc", "coinbase", "stocks", "market drop", "crypto trading", "investors", "blockchain", "volatility", "hormuz strait", "oil prices", "geopolitics", "fed"]
 summary: "Robinhood stock fell nearly 10% after weak Q1 results, while crypto activity dropped almost 50%. The pressure spread across the sector amid FED uncertainty and rising geopolitical tensions around the Hormuz Strait."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

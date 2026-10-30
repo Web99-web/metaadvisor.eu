@@ -16,6 +16,7 @@ image_alt: "WEB3 minimalist logo (symbolic graphic)"
 image_credit: "MetaAdvisor (symbolic graphic)"
 tags: ["web3", "web2", "onboarding", "identity", "wallets", "on-ramp", "UX", "infrastructure"]
 summary: "Despite a decentralized vision, today’s Web3 leans on Web2 channels and tooling — from identity and on-ramps to distribution and DevOps. The path forward is coexistence and progressive decentralization."
+categories: ["news"]
 ---
 
 *Image is symbolic.*

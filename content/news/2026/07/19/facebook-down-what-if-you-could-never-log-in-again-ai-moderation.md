@@ -7,14 +7,15 @@ translationKey: "facebook-down-global-outage-ai-moderation-2026-07-19"
 source: "Reuters, Downdetector, CBS News Philadelphia, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-down.png"
-featured_image: "/images/Meta/Facebook-down.png"
-image: "/images/Meta/Facebook-down.png"
-thumbnail: "/images/Meta/Facebook-down.png"
+image_url: "/images/Meta/Facebook-down.webp"
+featured_image: "/images/Meta/Facebook-down.webp"
+image: "/images/Meta/Facebook-down.webp"
+thumbnail: "/images/Meta/Facebook-down.webp"
 image_alt: "Facebook down during a global outage"
 image_credit: "Metaadvisor.eu"
 tags: ["Facebook", "Meta", "Messenger", "Instagram", "Facebook down", "Meta outage", "AI moderation", "Business Suite", "cybersecurity", "digital rights", "banned accounts", "Metaadvisor"]
 summary: "Facebook suffered another global technical outage, but for some users the feeling of losing access to their account has lasted for months because of automated AI moderation and the lack of human support."
+categories: ["cybersecurity"]
 ---
 
 The image is symbolic.
@@ -110,7 +111,7 @@ Metaadvisor has previously reported on the problems caused by AI moderation and 
 
 <figure style="max-width:620px; margin:26px auto; text-align:center;">
   <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">
-    <img src="/images/Social-networking-erased-destroyed.png" alt="Meta AI moderation and the digital removal of users" style="width:100%; height:auto; border-radius:12px;">
+    <img src="/images/Social-networking-erased-destroyed.webp" alt="Meta AI moderation and the digital removal of users" style="width:100%; height:auto; border-radius:12px;">
   </a>
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">

@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/web3/2025/12/04/coinbase-chainlink-introduce-base-solana-bridge-to-link-ecosystems"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Coinbase-Chainlink-Solana-bridge.png"
-featured_image: "/images/Coinbase-Chainlink-Solana-bridge.png"
-image: "/images/Coinbase-Chainlink-Solana-bridge.png"
-thumbnail: "/images/Coinbase-Chainlink-Solana-bridge.png"
+image_url: "/images/Coinbase-Chainlink-Solana-bridge.webp"
+featured_image: "/images/Coinbase-Chainlink-Solana-bridge.webp"
+image: "/images/Coinbase-Chainlink-Solana-bridge.webp"
+thumbnail: "/images/Coinbase-Chainlink-Solana-bridge.webp"
 image_alt: "Coinbase Chainlink Solana Bridge Illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["crypto","solana","coinbase","chainlink","bridge","cross-chain","interoperability","ccip","defi","web3","onchain","sol-ecosystem","infrastructure","scaling","markets","blockchain-innovation","developers","trading","dapps"]
 summary: "The new Base–Solana bridge from Coinbase and Chainlink marks a major milestone in blockchain interoperability and cross-chain liquidity."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

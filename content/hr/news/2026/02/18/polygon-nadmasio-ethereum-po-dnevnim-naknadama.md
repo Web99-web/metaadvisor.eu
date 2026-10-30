@@ -7,14 +7,15 @@ translationKey: "polygon-vs-ethereum-fees-20260218"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Polygon-vs-Ethereum.png"
-featured_image: "/images/Polygon-vs-Ethereum.png"
-image: "/images/Polygon-vs-Ethereum.png"
-thumbnail: "/images/Polygon-vs-Ethereum.png"
+image_url: "/images/Polygon-vs-Ethereum.webp"
+featured_image: "/images/Polygon-vs-Ethereum.webp"
+image: "/images/Polygon-vs-Ethereum.webp"
+thumbnail: "/images/Polygon-vs-Ethereum.webp"
 image_alt: "Polygon i Ethereum usporedba dnevnih naknada"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["polygon", "ethereum", "eth", "matic", "layer 2", "blockchain", "kripto", "crypto", "defi", "naknade", "gas fee", "skaliranje", "smart contracts"]
 summary: "Polygon je u određenom razdoblju nadmašio Ethereum po dnevnim transakcijskim naknadama, što otvara pitanje pomiče li se ekonomska aktivnost prema Layer 2 rješenjima."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

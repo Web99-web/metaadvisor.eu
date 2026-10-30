@@ -3,7 +3,7 @@ title: "Zondacrypto pod istragom u Poljskoj: 4.500 BTC nedostupno, stotine koris
 slug: "zondacrypto-pod-istragom-poljska-4500-btc-nedostupno-korisnici"
 date: 2026-04-27T12:00:00+02:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-04-27"
 source: "Metaadvisor (Cointelegraph, Onet, Notes from Poland)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
@@ -15,6 +15,7 @@ image_alt: "Istraga kripto burze Zondacrypto u Poljskoj"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "bitcoin", "btc", "kripto", "burze", "exchange", "zondacrypto", "poljska", "istraga", "sigurnost", "wallet", "regulacija"]
 summary: "Poljske vlasti pokrenule su istragu protiv kripto burze Zondacrypto nakon što je prijavljen gubitak pristupa cold walletu s oko 4.500 BTC, uz stotine potencijalno pogođenih korisnika."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

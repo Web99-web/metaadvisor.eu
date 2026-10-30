@@ -7,14 +7,15 @@ translationKey: "4e928f08f4013e5818864bf40a94e305"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/news/Australia-crypto.png"
-featured_image: "/images/news/Australia-crypto.png"
-image: "/images/news/Australia-crypto.png"
-thumbnail: "/images/news/Australia-crypto.png"
+image_url: "/images/news/Australia-crypto.webp"
+featured_image: "/images/news/Australia-crypto.webp"
+image: "/images/news/Australia-crypto.webp"
+thumbnail: "/images/news/Australia-crypto.webp"
 image_alt: "Zunehmende Nutzung von Krypto in Australien bei gleichzeitigen Bankeinschränkungen"
 image_credit: "MetaAdvisor.eu"
 tags: ["krypto", "australien", "bitcoin", "zahlungen", "banken", "regulierung", "defi", "finanzen", "digitale vermögenswerte", "markt", "analyse"]
 summary: "Die Nutzung von Kryptowährungen für reale Zahlungen in Australien steigt, während Banken gleichzeitig mehr Einschränkungen einführen. Der Konflikt zwischen Technologie und Finanzsystem wird immer sichtbarer."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

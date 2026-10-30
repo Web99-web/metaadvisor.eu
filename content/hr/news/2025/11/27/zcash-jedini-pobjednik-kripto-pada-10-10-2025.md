@@ -7,14 +7,15 @@ translationKey: "zcash_winner_1010_20251127"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Zcash-winner-of-10.10-crash.png"
-featured_image: "/images/Zcash-winner-of-10.10-crash.png"
-image: "/images/Zcash-winner-of-10.10-crash.png"
-thumbnail: "/images/Zcash-winner-of-10.10-crash.png"
+image_url: "/images/Zcash-winner-of-10.10-crash.webp"
+featured_image: "/images/Zcash-winner-of-10.10-crash.webp"
+image: "/images/Zcash-winner-of-10.10-crash.webp"
+thumbnail: "/images/Zcash-winner-of-10.10-crash.webp"
 image_alt: "Zcash jedini pobjednik kripto pada 10.10.2025"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["zcash","zec","bitcoin","btc","kripto","kriptovalute","zero knowledge","zk","privatnost","blockchain","pobjednici ciklusa","2025","altcoini","financije","ulaganje","tehnologija"]
 summary: "Zcash je bio jedini veliki altcoin koji je 10.10.2025. rastao dok je ostatak tržišta tonuo. U tri mjeseca narastao je više od 1100%."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -9,10 +9,10 @@ author: "Metaadvisor.eu"
 source: "Metaadvisor analysis"
 source_url: ""
 
-image_url: "/images/stocks-vs-blockchain-disappear.png"
-featured_image: "/images/stocks-vs-blockchain-disappear.png"
-image: "/images/stocks-vs-blockchain-disappear.png"
-thumbnail: "/images/stocks-vs-blockchain-disappear.png"
+image_url: "/images/stocks-vs-blockchain-disappear.webp"
+featured_image: "/images/stocks-vs-blockchain-disappear.webp"
+image: "/images/stocks-vs-blockchain-disappear.webp"
+thumbnail: "/images/stocks-vs-blockchain-disappear.webp"
 image_alt: "Traditional stocks versus blockchain, side-by-side"
 image_credit: "Metaadvisor.eu"
 
@@ -33,6 +33,7 @@ tags:
   - ownership
 
 summary: "The question isn’t ‘stocks or Bitcoin’, but how stocks will transform. Our view: stocks won’t vanish — they’ll be tokenized and trade on-chain, while Bitcoin becomes a digital reserve layer."
+categories: ["crypto"]
 ---
 
 > **Image note:** symbolic illustration.

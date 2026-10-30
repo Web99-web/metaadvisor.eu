@@ -16,6 +16,7 @@ image_alt: "Robert Kiyosaki analiza tržišta"
 image_credit: "Gage Skidmore / CC BY-SA"
 tags: ["bitcoin", "crypto", "robert kiyosaki", "kiyosaki", "bogati otac siromašni otac", "market", "analiza", "ulaganje", "fear", "gold", "btc", "psychology", "cash", "crash"]
 summary: "Robert Kiyosaki tvrdi da globalni nedostatak gotovine uzrokuje tržišni pad te ostaje bullish na Bitcoin i zlato. Najavljuje kupovinu dodatnog BTC-a kada pad završi."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

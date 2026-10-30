@@ -7,15 +7,16 @@ translationKey: "sora-shutdown-europe-never-arrived-2026"
 author: "Metaadvisor.eu"
 source: "Reuters / The Guardian / Business Insider"
 source_url: ""
-image_url: "/images/ai-deepfake.png"
-featured_image: "/images/ai-deepfake.png"
-image: "/images/ai-deepfake.png"
-thumbnail: "/images/ai-deepfake.png"
+image_url: "/images/ai-deepfake.webp"
+featured_image: "/images/ai-deepfake.webp"
+image: "/images/ai-deepfake.webp"
+thumbnail: "/images/ai-deepfake.webp"
 image_alt: "AI Deepfake Video-Generierung und Sora Tool"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["ai", "sora", "openai", "deepfake", "video ai", "kuenstliche intelligenz", "regulierung", "eu", "gdpr", "ai tools"]
 summary: "OpenAI stellt Sora ein, ein KI-Tool zur Videogenerierung, das trotz großer Nachfrage nie nach Europa gekommen ist."
 symbolic_image: true
+categories: ["ai"]
 ---
 
 *Bild ist symbolisch.*

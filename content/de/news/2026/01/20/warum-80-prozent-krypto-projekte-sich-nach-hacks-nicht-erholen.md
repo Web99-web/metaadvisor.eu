@@ -25,6 +25,7 @@ tags:
   - risiko
   - investieren
 summary: "Laut Sicherheitsexperten der Branche, darunter Immunefi-CEO Mitchell Amador, erholen sich rund 80 % der Krypto-Projekte nach einem schweren Hack nie vollständig – nicht wegen des Codes allein, sondern aufgrund dauerhafter Schäden an Vertrauen, Liquidität und operativer Stärke."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

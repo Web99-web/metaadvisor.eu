@@ -15,6 +15,7 @@ image_alt: "Kintara Browser-MMO-Spiel mit Play-to-Earn-Modell und KINS-Token"
 image_credit: "Metaadvisor.eu"
 tags: ["Kintara", "KINS", "Play-to-Earn", "GameFi", "Crypto Gaming", "Solana", "MMO", "Browser Game", "Krypto-Spiel", "Blockchain Gaming", "Token", "Marketplace", "Gaming", "Kryptowährungen", "Metaadvisor"]
 summary: "Kintara ist ein browserbasiertes isometrisches MMO-Spiel in der Beta-Phase, das Fantasy-Gameplay, Ressourcensammeln, Quests, Marketplace und den $KINS-Token verbindet. Das Spiel kann für GameFi-Fans interessant sein, doch das Play-to-Earn-Modell sollte nicht als sicherer Weg zu Einkommen verstanden werden."
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

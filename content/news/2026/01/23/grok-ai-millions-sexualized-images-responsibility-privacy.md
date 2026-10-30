@@ -7,14 +7,15 @@ translationKey: "26229392ac8d48c987994559b06b467c"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2026/jan/22/grok-ai-generated-millions-sexualised-images-in-month-research-says"
 author: "MetaAdvisor.eu"
-image_url: "/images/AI-risks.png"
-featured_image: "/images/AI-risks.png"
-image: "/images/AI-risks.png"
-thumbnail: "/images/AI-risks.png"
+image_url: "/images/AI-risks.webp"
+featured_image: "/images/AI-risks.webp"
+image: "/images/AI-risks.webp"
+thumbnail: "/images/AI-risks.webp"
 image_alt: "Illustration highlighting AI risks, legality and privacy concerns"
 image_credit: "MetaAdvisor.eu / symbolic illustration"
 summary: "New research warns that the AI tool Grok generated millions of sexualized images in a very short time, raising serious questions about privacy, legality and platform responsibility."
 tags: ["ai", "artificial intelligence", "grok", "privacy", "law", "ai abuse", "deepfake", "sexualized content", "children", "regulation"]
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

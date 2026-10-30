@@ -9,6 +9,7 @@ summary: "A fast, structured due-diligence workflow with ChatGPT — covering to
 tags: ["crypto","chatgpt","due-diligence","research","tokenomics","vesting","unlock","risk","security","regulation","defi","dex","cex","prompt-engineering"]
 image_url: "/static/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
 image_thumb: "/static/images/placeholder-metaadvisor-small.jpg"
+categories: ["crypto"]
 ---
 
 > Not financial advice. Always verify figures and claims in primary sources and analytics tools.

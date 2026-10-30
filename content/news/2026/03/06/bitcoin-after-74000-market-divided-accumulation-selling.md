@@ -15,6 +15,7 @@ image_alt: "Bitcoin coins symbolically representing market volatility"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["bitcoin","btc","crypto","cryptocurrency","crypto market","bitcoin price","bitcoin analysis","bitcoin volatility","blockchain","digital assets"]
 summary: "Bitcoin briefly reached $74,000 but quickly lost momentum. The market is now divided between short-term selling and signs of strong accumulation."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

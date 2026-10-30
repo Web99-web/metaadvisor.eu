@@ -7,10 +7,10 @@ translationKey: "hype_30_percent_surge_20260129"
 source: "Market analysis / CoinDesk"
 source_url: "https://www.coindesk.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hype-up.png"
-featured_image: "/images/Hype-up.png"
-image: "/images/Hype-up.png"
-thumbnail: "/images/Hype-up.png"
+image_url: "/images/Hype-up.webp"
+featured_image: "/images/Hype-up.webp"
+image: "/images/Hype-up.webp"
+thumbnail: "/images/Hype-up.webp"
 image_alt: "HYPE token price surge illustration"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -25,6 +25,7 @@ tags:
   - market breakout
   - volatility
 summary: "HYPE surged more than 30% in a single day, standing out as one of the strongest movers in an otherwise quiet crypto market. The rally highlights the growing convergence between decentralized crypto platforms and traditional financial markets."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

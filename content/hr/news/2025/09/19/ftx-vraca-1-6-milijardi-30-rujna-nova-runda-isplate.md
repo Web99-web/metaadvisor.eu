@@ -16,6 +16,7 @@ image_alt: "FTX najavljuje isplatu kreditorima 30. rujna (simbolična grafika)"
 image_credit: "MetaAdvisor (simbolična grafika)"
 tags: ["crypto", "FTX", "stečaj", "kreditori", "oporavak", "distribucija"]
 summary: "Stečajna masa FTX-a 30. rujna isplaćuje 1,6 mlrd $ kreditorima – treća veća runda od kolapsa burze, s ciljem dodatnog podizanja ukupnih stopa oporavka."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

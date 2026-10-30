@@ -7,14 +7,15 @@ translationKey: "trump-cz-pardon-20251023"
 source: "Reuters, AP, The Guardian"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/CZ-pardon.png"
-featured_image: "/images/CZ-pardon.png"
-image: "/images/CZ-pardon.png"
-thumbnail: "/images/CZ-pardon.png"
+image_url: "/images/CZ-pardon.webp"
+featured_image: "/images/CZ-pardon.webp"
+image: "/images/CZ-pardon.webp"
+thumbnail: "/images/CZ-pardon.webp"
 image_alt: "CZ — Trump presidential pardon (Binance)"
 image_credit: "Image is symbolic."
 tags: ["Trump", "CZ", "Binance", "pardon", "USA", "regulation"]
 summary: "Donald Trump has pardoned Binance founder Changpeng Zhao (CZ). Here’s why he was charged, and what the pardon really means."
+categories: ["crypto"]
 ---
 
 🚨 **Trump pardons CZ**

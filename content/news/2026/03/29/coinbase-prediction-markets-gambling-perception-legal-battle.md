@@ -7,14 +7,15 @@ translationKey: "a96ca6f40e698c69f0782c2052b01afe"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (Cointelegraph, court filings)"
 source_url: ""
-image_url: "/images/companies/Coinbase-prediction-markets.png"
-featured_image: "/images/companies/Coinbase-prediction-markets.png"
-image: "/images/companies/Coinbase-prediction-markets.png"
-thumbnail: "/images/companies/Coinbase-prediction-markets.png"
+image_url: "/images/companies/Coinbase-prediction-markets.webp"
+featured_image: "/images/companies/Coinbase-prediction-markets.webp"
+image: "/images/companies/Coinbase-prediction-markets.webp"
+thumbnail: "/images/companies/Coinbase-prediction-markets.webp"
 image_alt: "Coinbase prediction markets and gambling controversy"
 image_credit: "MetaAdvisor.eu"
 tags: ["coinbase", "prediction markets", "gambling", "crypto", "btc", "crypto exchange", "regulation", "usa", "market", "ai"]
 summary: "Coinbase faces user backlash over gambling-style promotion in its app while simultaneously fighting a legal battle with US regulators over prediction markets."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

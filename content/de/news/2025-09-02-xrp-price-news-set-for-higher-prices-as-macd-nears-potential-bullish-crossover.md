@@ -9,6 +9,7 @@ summary: "XRP klettert von $2,74 auf $2,82, da Wale fast 340 Mio. Token ansammel
 tags: ["crypto","XRP","MACD","Technische Analyse","Wale"]
 image_url: "https://cdn.coindesk.com/coindesk-images/2025/09/xrp-macd-chart-2025.png"
 image_url_small: "https://cdn.coindesk.com/coindesk-images/2025/09/xrp-macd-chart-2025.png?fit=600%2C338"
+categories: ["crypto"]
 ---
 
 In den letzten 24 Stunden stieg XRP um rund 3 % auf ein Hoch bei $2,82. Wale kauften etwa 340 Millionen Token (ca. $960 M), ein Zeichen institutionellen Vertrauens trotz allgemeiner Marktunsicherheit.

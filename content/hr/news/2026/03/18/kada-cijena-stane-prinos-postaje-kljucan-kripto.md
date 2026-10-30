@@ -15,6 +15,7 @@ image_alt: "Yield u kriptu kroz staking, lending i validaciju"
 image_credit: "MetaAdvisor.eu"
 tags: ["kripto", "yield", "prinos", "bitcoin", "ethereum", "solana", "staking", "defi", "ulaganje", "pasivni prihod", "tržište", "analiza"]
 summary: "Kako tržište ulazi u mirniju fazu, investitori se sve više okreću prinosima umjesto rasta cijene. Yield postaje ključan faktor za dugoročno zadržavanje pozicija."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

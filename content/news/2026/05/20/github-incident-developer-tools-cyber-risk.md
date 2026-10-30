@@ -7,14 +7,15 @@ translationKey: "github-developer-tools-security-2026-05-20"
 source: "Metaadvisor (GitHub, BleepingComputer, Times of India)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/GitHub.png"
-featured_image: "/images/GitHub.png"
-image: "/images/GitHub.png"
-thumbnail: "/images/GitHub.png"
+image_url: "/images/GitHub.webp"
+featured_image: "/images/GitHub.webp"
+image: "/images/GitHub.webp"
+thumbnail: "/images/GitHub.webp"
 image_alt: "GitHub and developer tools as a new target of cyber attacks"
 image_credit: "Metaadvisor.eu"
 tags: ["github", "cyber security", "cybersecurity", "developer tools", "visual studio code", "vs code", "malicious extension", "supply chain", "software supply chain", "open source", "repositories", "internal repositories", "api keys", "tokens", "secrets", "devops", "developers", "software security", "malware", "tech", "technology", "Metaadvisor", "Metaadvisor.eu"]
 summary: "The GitHub incident shows that cyber attacks are increasingly moving toward developer environments: editors, extensions, tokens, local configurations and the tools programmers use every day. Although there is currently no public evidence that user repositories were affected, the case raises an important question about trust in the software supply chain."
+categories: ["tech"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

@@ -3,7 +3,7 @@ title: "Was die Zinsentscheidung der Fed am 17. September für Krypto, Gold und 
 slug: "was-die-zinsentscheidung-der-fed-am-17-september-fuer-krypto-gold-und-aktien-bedeutet"
 date: 2025-09-13T18:36:20Z
 category: "news"
-translationKey: "0788faa171c452cefa36b0247735663d"
+translationKey: "0788faa171c452cefa36b0247735663d--unpaired-0480ebaa31fa"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/13/fed-s-sept-17-rate-cut-could-spark-short-term-jitters-but-supercharge-bitcoin-gold-and-stocks-long-term"
 priority: 97
@@ -11,6 +11,11 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["crypto", "cryptocurrency", "stocks", "equities"]
 our_take: |
   Unsere Ansicht: Investoren zählen auf die wichtigsten Dinge der Federal Reserve der Federal Reserve: Liquidität, Makro (Tarife/USD) und Regulierung.Bleib selektiv;Fügen Sie nur in Namen mit hoher Konvitation hinzu.
+categories: ["news"]
+seo_alias_of: "https://metaadvisor.eu/de/news/was-die-fed-entscheidung-am-17-september-fuer-krypto-gold-und-aktien-bedeutet/"
+_build:
+  list: never
+  render: always
 ---
 
 Die Anleger zählen auf die Geldentscheidung der Federal Reserve am 17. September.Die Märkte erwarten eine Viertelpunktrate, die eine kurzfristige Volatilität auslösen könnte, aber möglicherweise längerfristige Gewinne über Risikovermögenswerte hinweg treibt.

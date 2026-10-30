@@ -24,6 +24,7 @@ tags:
   - volatilitaet
   - altcoin
 summary: "XLM sprang am 3. Oktober zunächst bis 0,4041 USD, fiel dann auf 0,4015 USD zurück. Hohe Volumenspitzen deuten auf Verkäufe an Widerständen. Die Integration in die Bitcoin.com Wallet weitet die XLM-Reichweite aus."
+categories: ["news"]
 ---
 
 **XLM (Stellar)** verzeichnete am **3. Oktober** starke Schwankungen: Nach einem Anstieg auf **0,4041 USD** rutschte der Kurs ab **14:00 UTC** auf etwa **0,4015 USD** und gab die frühen Gewinne wieder ab.  

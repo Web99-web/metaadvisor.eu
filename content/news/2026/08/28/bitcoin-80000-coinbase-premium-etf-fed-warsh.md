@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "bitcoin-80000-coinbase-premium-etf-fed-warsh-2026-08-28"
 source: "CoinDesk, Farside Investors, The Block, Reuters, CoinGecko, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/market-crypto-daily.png"
-featured_image: "/images/market-crypto-daily.png"
-image: "/images/market-crypto-daily.png"
-thumbnail: "/images/market-crypto-daily.png"
+image_url: "/images/market-crypto-daily.webp"
+featured_image: "/images/market-crypto-daily.webp"
+image: "/images/market-crypto-daily.webp"
+thumbnail: "/images/market-crypto-daily.webp"
 image_alt: "Bitcoin near $80,000 as markets wait for the Fed"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "cryptocurrency", "crypto market", "Bitcoin ETFs", "US Bitcoin ETFs", "ETF inflows", "Coinbase Premium", "US demand", "Ethereum", "Solana", "Hyperliquid", "Zcash", "Bittensor", "Fed", "Kevin Warsh", "interest rates", "monetary policy"]
 description: "Bitcoin is once again trading near $80,000 as the Coinbase Premium turns positive for the first time since May and US spot Bitcoin ETFs record more than $2.8 billion in inflows across eight consecutive trading days. Markets are also waiting for a new signal from Kevin Warsh and the Fed."
 summary: "Bitcoin is trying to hold the $80,000 area as signs of stronger US spot demand emerge. The Coinbase Premium is positive again, ETFs continue to attract capital, SOL and HYPE are rising, ZEC remains near $800 and TAO is weakening again. The next major macro signal is expected from the Fed."
+categories: ["Crypto"]
 ---
 
 *Image is symbolic.*

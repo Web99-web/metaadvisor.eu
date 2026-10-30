@@ -16,6 +16,7 @@ image_alt: "Aave DAO und Aave Labs – Streit um Gebühren und Governance"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["aave","dao","defi","governance","gebühren","cowswap","kryptowährungen","blockchain"]
 summary: "Innerhalb des Aave-Ökosystems ist ein offener Konflikt darüber ausgebrochen, wem die durch die CoW-Swap-Integration generierten Gebühren zustehen – dem DAO-Treasury oder Aave Labs."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

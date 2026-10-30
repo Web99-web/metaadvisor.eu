@@ -28,6 +28,7 @@ tags:
   - scaling
 
 summary: "Jump Crypto’s Firedancer team proposed SIMD-0370 to remove the per-block compute-unit cap after the Alpenglow upgrade. The goal is more throughput and burst capacity — with open questions around propagation, hardware pressure and fees."
+categories: ["crypto"]
 ---
 
 > **Note:** Image is symbolic.

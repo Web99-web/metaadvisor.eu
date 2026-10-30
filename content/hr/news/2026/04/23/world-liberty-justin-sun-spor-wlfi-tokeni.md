@@ -15,6 +15,7 @@ image_alt: "Sukob između World Liberty i Justina Suna oko WLFI tokena"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["crypto","kripto","defi","justin sun","tron","wlfi","tokeni","spor","blockchain","financije"]
 summary: "Sukob između World Liberty Financiala i Justina Suna eskalirao je u pravni spor vrijedan milijarde dolara. Optužbe o manipulaciji i neprimjerenom ponašanju otvaraju šira pitanja o povjerenju i kontroli u DeFi sektoru."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

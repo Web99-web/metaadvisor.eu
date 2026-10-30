@@ -7,15 +7,16 @@ translationKey: "defi-50m-trade-mev-loss-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/news/Millions-50M-lost.png"
-featured_image: "/images/news/Millions-50M-lost.png"
-image: "/images/news/Millions-50M-lost.png"
-thumbnail: "/images/news/Millions-50M-lost.png"
+image_url: "/images/news/Millions-50M-lost.webp"
+featured_image: "/images/news/Millions-50M-lost.webp"
+image: "/images/news/Millions-50M-lost.webp"
+thumbnail: "/images/news/Millions-50M-lost.webp"
 image_alt: "One click millions lost crypto trade"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["kripto", "defi", "aave", "mev", "ethereum", "trgovanje kriptovalutama"]
 summary: "Velika DeFi transakcija koja je trebala donijeti oko 50 milijuna dolara završila je gotovo potpunim gubitkom. Trader je na kraju dobio tek oko 36 tisuća dolara, dok analitičari spekuliraju da su MEV botovi iz cijele situacije izvukli desetke milijuna."
 symbolic_image: true
+categories: ["crypto"]
 ---
 *Slika je simbolična.*
 

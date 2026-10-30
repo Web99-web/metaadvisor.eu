@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "meta-us-settlement-global-protection-2026-08-28"
 source: "California Attorney General, Meta, Reuters, AP, The Guardian, European Commission, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-17b-court-case6.png"
-featured_image: "/images/Meta/Meta-17b-court-case6.png"
-image: "/images/Meta/Meta-17b-court-case6.png"
-thumbnail: "/images/Meta/Meta-17b-court-case6.png"
+image_url: "/images/Meta/Meta-17b-court-case6.webp"
+featured_image: "/images/Meta/Meta-17b-court-case6.webp"
+image: "/images/Meta/Meta-17b-court-case6.webp"
+thumbnail: "/images/Meta/Meta-17b-court-case6.webp"
 image_alt: "Meta mijenja Facebook i Instagram u SAD-u nakon sudske nagodbe"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Meta", "Facebook", "Instagram", "algoritmi", "digitalna prava", "prava korisnika", "zaštita djece", "sigurnost djece", "društvene mreže", "ovisnost o društvenim mrežama", "beskonačno skrolanje", "ovisnički dizajn", "preporuke sadržaja", "snimanje lica", "video selfie", "biometrijski podaci", "provjera dobi", "privatnost", "Digital Services Act", "DSA", "Europska unija", "regulacija", "sudska nagodba", "Mark Zuckerberg"]
 description: "Meta je nakon neugodnih svjedočenja pristala na nagodbu do 17 milijardi dolara i promjene Facebooka i Instagrama za mlađe korisnike u SAD-u. Ostatak svijeta sada pita zašto iste zaštite nisu globalne."
 summary: "Nakon svjedočenja sadašnjih i bivših zaposlenika Meta je pristala na nagodbu do 17 milijardi dolara pod uvjetima koji omogućuju plaćanje kroz deset godina i mogu smanjiti stvarni zajamčeni iznos. Dok se SAD-u uvode nove zaštite, regulatori širom svijeta pitaju zašto iste mjere nisu globalne, a EU posebno cilja infinite scroll i druge elemente ovisničkog dizajna."
+categories: ["Technology"]
 ---
 
 *Slika je simbolična.*
@@ -66,7 +67,7 @@ Europska komisija zato je infinite scroll, autoplay, push obavijesti i izrazito 
 O tome smo detaljnije pisali u zasebnom članku:
 
 <a href="https://metaadvisor.eu/hr/news/treba-li-ukinuti-beskonacno-skrolanje-na-mobitelima/" target="_blank" rel="noopener">
-<img src="/images/news/Infinite-scroll-on-internet-mobite-desktop1.png"
+<img src="/images/news/Infinite-scroll-on-internet-mobite-desktop1.webp"
      alt="Treba li ukinuti beskonačno skrolanje na mobitelima?"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>
@@ -98,7 +99,7 @@ Zato nije dovoljno samo pitati je li korisnik kliknuo „Continue“. Važno je 
 O toj temi detaljnije smo pisali ranije:
 
 <a href="https://metaadvisor.eu/hr/news/sto-meta-facebook-instagram-radi-sa-snimkom-vaseg-lica/" target="_blank" rel="noopener">
-<img src="/images/Meta/Meta-face-recording.png"
+<img src="/images/Meta/Meta-face-recording.webp"
      alt="Što Meta radi sa snimkom vašeg lica?"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

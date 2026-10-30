@@ -7,15 +7,16 @@ translationKey: "jedan-veliki-wallet-ili-vise-manjih-2026-08-07"
 source: "Publicly available documentation on crypto wallets, private key management and multisig protection"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/One-wallet-or-several.png"
-featured_image: "/images/informative/One-wallet-or-several.png"
-image: "/images/informative/One-wallet-or-several.png"
-thumbnail: "/images/informative/One-wallet-or-several.png"
+image_url: "/images/informative/One-wallet-or-several.webp"
+featured_image: "/images/informative/One-wallet-or-several.webp"
+image: "/images/informative/One-wallet-or-several.webp"
+thumbnail: "/images/informative/One-wallet-or-several.webp"
 image_alt: "Comparison between one large crypto wallet and several smaller separate wallets"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["crypto wallet", "hardware wallet", "seed phrase", "private key", "crypto security", "self-custody", "multisig", "passphrase", "hot wallet", "cold wallet", "Bitcoin wallet", "DeFi security", "risk management", "backup", "crypto assets"]
 description: "Is it safer to keep all crypto assets in one wallet or divide them across several smaller ones? The answer depends on seeds, usage and recovery complexity."
 summary: "One wallet is easier to manage but creates a single major point of risk. Several independent wallets can limit damage, but they also introduce more seeds, backups and opportunities for human error."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

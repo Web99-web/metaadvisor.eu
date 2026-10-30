@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Revolut", "hackers", "cyberattack", "Monero", "XMR", "data breach", "KYC", "PEC", "Italy", "Polizia Postale", "Reggio Calabria", "crypto", "blockchain analysis", "extortion", "cybersecurity", "personal data"]
 description: "Attackers claiming to be behind the Revolut incident are demanding 6,000 Monero and threatening to sell stolen customer data, while Italian reports say requests ran for months through a compromised government PEC address."
 summary: "Revolut attackers are demanding 6,000 XMR and threatening to sell data linked to at least 680 customers. ANSA reports that requests apparently came through a compromised Italian government PEC address and continued for around five months."
+categories: ["Cybersecurity"]
 ---
 
 *Image is symbolic.*

@@ -9,6 +9,7 @@ summary: "Tether je odustao od plana da zaustavi podršku za USDT na pet blockch
 tags: ["crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5LWIzYTYzODlkLWZiYjMtNGViOC05NmNlLWJlMmIxNDZkNTViMC5qcGc=.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5LWIzYTYzODlkLWZiYjMtNGViOC05NmNlLWJlMmIxNDZkNTViMC5qcGc=.jpg"
+categories: ["crypto"]
 ---
 
 Tether je objavio da **odustaje od ranije najavljenog plana** kojim bi obustavio podršku za USDT stablecoin na pet blockchain mreža.  

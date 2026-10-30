@@ -7,14 +7,15 @@ translationKey: "80d615c471989a99c14936f446a3a4a8"
 source: "Metaadvisor (CoinDesk, Bloomberg)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/kraken.png"
-featured_image: "/images/kraken.png"
-image: "/images/kraken.png"
-thumbnail: "/images/kraken.png"
+image_url: "/images/kraken.webp"
+featured_image: "/images/kraken.webp"
+image: "/images/kraken.webp"
+thumbnail: "/images/kraken.webp"
 image_alt: "Kraken širi poslovanje prema paymentima i crypto bankingu"
 image_credit: "Metaadvisor.eu"
 tags: ["kraken", "crypto", "kripto", "stablecoin", "payments", "reap", "bitcoin", "ethereum", "crypto bank", "custody", "staking", "blockchain", "web3", "moneygram", "bitnomial", "ipo", "crypto regulation"]
 summary: "Kraken agresivno širi poslovanje izvan klasičnog crypto exchange modela. Nakon kupnje payment kompanije Reap za 600 milijuna dolara i zahtjeva za federalnu trust licencu u SAD-u, sve više izgleda kao da kompanija pokušava postati potpuna crypto financijska platforma."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

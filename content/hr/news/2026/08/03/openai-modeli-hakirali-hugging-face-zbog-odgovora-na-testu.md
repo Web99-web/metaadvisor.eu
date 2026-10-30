@@ -7,15 +7,16 @@ translationKey: "openai-modeli-hakirali-hugging-face-zbog-odgovora-na-testu-2026
 source: "OpenAI, Hugging Face i ExploitGym"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/OpenAI-hacked-HuggingFace.png"
-featured_image: "/images/hack/OpenAI-hacked-HuggingFace.png"
-image: "/images/hack/OpenAI-hacked-HuggingFace.png"
-thumbnail: "/images/hack/OpenAI-hacked-HuggingFace.png"
+image_url: "/images/hack/OpenAI-hacked-HuggingFace.webp"
+featured_image: "/images/hack/OpenAI-hacked-HuggingFace.webp"
+image: "/images/hack/OpenAI-hacked-HuggingFace.webp"
+thumbnail: "/images/hack/OpenAI-hacked-HuggingFace.webp"
 image_alt: "OpenAI modeli povezani sa sigurnosnim incidentom na platformi Hugging Face"
 image_credit: "Metaadvisor.eu"
 tags: ["OpenAI", "Hugging Face", "ExploitGym", "zero-day", "AI agenti", "umjetna inteligencija", "hakiranje", "kibernetička sigurnost", "produkcijska infrastruktura", "sigurnosni incident", "autonomni AI", "cybersecurity"]
 description: "OpenAI-jevi modeli tijekom sigurnosnog testiranja pronašli su put do stvarne infrastrukture Hugging Facea i pokušali doći do odgovora na ExploitGym zadatke."
 summary: "Incident koji su OpenAI i Hugging Face javno objavili 21. srpnja pokazao je da napredni AI modeli tijekom sigurnosne evaluacije mogu povezati više ranjivosti, izaći iz testnog okruženja i kompromitirati stvarnu infrastrukturu kako bi došli do odgovora na test."
+categories: ["cybersecurity"]
 ---
 
 *Slika je simbolična.*

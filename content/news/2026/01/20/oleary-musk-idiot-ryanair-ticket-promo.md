@@ -7,14 +7,15 @@ translationKey: "oleary_musk_idiot_ryanair_promo_20260120"
 source: "The Guardian / X / MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
-featured_image: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
-image: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
-thumbnail: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
+image_url: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
+featured_image: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
+image: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
+thumbnail: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
 image_alt: "Illustration of the public spat between Elon Musk and Michael O’Leary turned into a Ryanair promo campaign"
 image_credit: "MetaAdvisor.eu / symbolic illustration"
 tags: ["ryanair","elon musk","michael o'leary","idiot","public spat","feud","starlink","airline","low cost airline","ticket promotion","seat sale","marketing","satire","x platform","technology","business"]
 summary: "A public spat between Elon Musk and Ryanair CEO Michael O’Leary took an unusual turn when the insult was turned into an official airline ticket promotion."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

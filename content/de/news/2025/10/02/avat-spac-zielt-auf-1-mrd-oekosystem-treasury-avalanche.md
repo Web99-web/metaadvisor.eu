@@ -33,6 +33,7 @@ tags:
   - coinfund
   - kraken
 summary: "Avalanche Treasury Co. (AVAT) plant eine SPAC-Fusion über 675+ Mio. USD mit MLAC und peilt einen 1-Mrd.-USD-Treasury an – mit 0,77× mNAV-Einstieg, Startvermögen ~460 Mio. USD und exklusiver Unterstützung durch die Avalanche Foundation."
+categories: ["ai"]
 ---
 
 **Avalanche Treasury Co. (AVAT)** vermeldet eine **SPAC-Business-Combination über 675+ Mio. USD** mit **Mountain Lake Acquisition Corp. (MLAC)** – als Basis für einen geplanten **Ökosystem-Treasury von 1 Mrd. USD**. Ein **exklusives Arrangement** mit der **Avalanche Foundation** umfasst u. a. eine **diskontierte Token-Platzierung über 200 Mio. USD**. Das **Nasdaq-Listing** ist **für Anfang 2026** (vorbehaltlich Genehmigungen) avisiert.

@@ -7,10 +7,10 @@ translationKey: "e15ea5b3f289621657c39cd6455df1b7"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/07/xrp-spot-trading-is-now-live-on-hyperliquid-with-flare-s-fxrp-listing"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hyperliquid-XRP-FXRP.png"
-featured_image: "/images/Hyperliquid-XRP-FXRP.png"
-image: "/images/Hyperliquid-XRP-FXRP.png"
-thumbnail: "/images/Hyperliquid-XRP-FXRP.png"
+image_url: "/images/Hyperliquid-XRP-FXRP.webp"
+featured_image: "/images/Hyperliquid-XRP-FXRP.webp"
+image: "/images/Hyperliquid-XRP-FXRP.webp"
+thumbnail: "/images/Hyperliquid-XRP-FXRP.webp"
 image_alt: "XRP spot trading on Hyperliquid via FXRP"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - defi
   - metamask
 summary: "Spot trading for XRP is now live on Hyperliquid via FXRP, a tokenized version of XRP built within the Flare ecosystem, bringing XRP into a professional on-chain order book environment."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#6b7280; margin:6px 0 14px 0; text-align:center;">

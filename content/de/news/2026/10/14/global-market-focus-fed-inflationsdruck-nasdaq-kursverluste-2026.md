@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Global Market Focus", "Federal Reserve", "Beige Book", "Inflation", "Nasdaq", "S&P 500", "Wall Street", "Halbleiter", "KI-Aktien", "Finanzmärkte"]
 description: "Der neue Beige-Book-Bericht der Fed verstärkt die Sorgen über anhaltenden Inflationsdruck. Der Nasdaq verliert im Handelsverlauf mehr als 2 Prozent, während Technologie- und Halbleiteraktien deutlich nachgeben."
 summary: "Die Federal Reserve hat ihren neuen Beige-Book-Bericht veröffentlicht, der zunehmenden Inflationsdruck, steigende Vorleistungskosten und eine stagnierende Beschäftigung zeigt. Die Wall Street reagiert mit Kursverlusten: Der Nasdaq fällt im laufenden Handel um mehr als 2 Prozent, der Technologiesektor um über 2,5 Prozent und Halbleiteraktien um nahezu 4 Prozent. Die kurzfristige Markttendenz bleibt negativ, während KI-Aktien, Technologiewerte und kleinere Unternehmen weiter unter Druck stehen."
+categories: ["finance"]
 ---
 
 *Symbolbild.*

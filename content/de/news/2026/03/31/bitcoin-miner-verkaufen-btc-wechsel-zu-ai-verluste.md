@@ -16,6 +16,7 @@ image_alt: "Bitcoin-Miner wechseln zu AI aufgrund von Verlusten und steigenden E
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "crypto", "mining", "bitcoin mining", "ai", "künstliche intelligenz", "hashrate", "difficulty", "energie", "öl", "geopolitik", "markt", "kryptowährungen"]
 summary: "Bitcoin-Miner sehen sich mit Verlusten von bis zu 19.000 USD pro BTC konfrontiert, was sie zum Verkauf zwingt und zunehmend in Richtung AI-Infrastruktur als stabilere Einnahmequelle treibt."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -15,6 +15,7 @@ image_alt: "Ethereum Foundation budget cut and strategic reset of Ethereum"
 image_credit: "Metaadvisor.eu"
 tags: ["Ethereum", "Ethereum Foundation", "Vitalik Buterin", "ETH", "Crypto", "Cryptocurrencies", "Blockchain", "Budget cut", "Treasury", "Endowment model", "Decentralization", "Web3", "Ethereum roadmap", "Crypto market", "Metaadvisor"]
 summary: "The Ethereum Foundation plans to cut its budget by around 40% and move toward a longer-term, more conservative funding model. Is this a sign of crisis inside the Foundation, or an attempt to make Ethereum more mature as global infrastructure?"
+categories: ["crypto"]
 ---
 
 The image is symbolic.

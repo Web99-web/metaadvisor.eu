@@ -15,6 +15,7 @@ image_alt: "Pi Network – a cryptocurrency that has grown for six years without
 image_credit: "MetaAdvisor AI-generated"
 tags: ["pi-network","cryptocurrency","blockchain","mining","mobile-app","crypto-community","liquidity","market","analysis"]
 summary: "Pi Network is a crypto project that has gathered millions of users over six years without an open market or a freely formed price, making it a unique but highly controversial phenomenon."
+categories: ["news"]
 ---
 
 # Pi Network Has Been Growing for 6 Years Without a Market

@@ -16,6 +16,7 @@ image_alt: "Kalshi und Solana Illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["krypto","solana","prediction","märkte","tokenisierung","web3","politik","macro","finanzen"]
 summary: "Kalshi hat tokenisierte Versionen seiner Ereignis-Kontrakte auf Solana gestartet und verbindet damit regulierte Märkte mit der Geschwindigkeit und Liquidität von Web3."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Poland", "crypto", "MiCA", "Karol Nawrocki", "Donald Tusk", "Zondacrypto", "regulation", "European Union", "KNF", "crypto assets", "cryptocurrencies", "crypto regulation", "financial regulation"]
 description: "Poland has kept the presidential veto on its crypto law. Karol Nawrocki warns that rules stricter than the EU MiCA framework could drive companies out of Poland."
 summary: "Poland's Sejm failed to override President Karol Nawrocki's third veto of crypto market legislation, putting the focus on how far national rules should go beyond the EU's MiCA framework."
+categories: ["Crypto"]
 ---
 
 *Image is symbolic.*

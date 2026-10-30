@@ -1,0 +1,29 @@
+{
+  "version": "2026-10-30-regional-2",
+  "automatic_analytics_countries": [
+    "AU"
+  ],
+  "prior_consent_countries": [
+    "HR",
+    "DE",
+    "GB",
+    "CH",
+    "JP"
+  ],
+  "default": "prior-consent-unreviewed",
+  "implementation_status": "LOCAL ONLY; automatic country modes require prepublication administrative and lawful-basis review. No deployment authorized.",
+  "US_rule": "Conditional local auto only for CA/CO/CT/TX with trusted edge region metadata and processor/basic-only requirements. Maryland, Washington, all other US states and unknown US subdivision remain prior-consent pending review. Not a blanket US exemption.",
+  "AU_rule": "Reasonably necessary ordinary nonsensitive analytics; APP 3/5/6/8 collection notice, minimisation, purpose and overseas accountability must be verified. Not an advertising/sensitive-data exemption.",
+  "JP_rule": "Prior consent pending APPI recipient identification/linkage and foreign-transfer safeguards plus external-transmission disclosure applicability. No country-wide exemption assumed.",
+  "privacy_signals": "GPC and DNT stop analytics in every country",
+  "geolocation": "first-party Cloudflare /cdn-cgi/trace loc only, no IP storage; missing/invalid/timeout uses prior consent",
+  "state_geolocation": "Prepared first-party /_ma/region endpoint reads request.cf metadata. No HTTP-header trust. NOT DEPLOYED. Trace fallback has country only, therefore cannot auto-enable US.",
+  "advertising": "All three advertising consent parameters remain denied independently",
+  "prepublication_checks": "migration/ga4-prepublication-checklist.json",
+  "automatic_analytics_regions": [
+    "US-CA",
+    "US-CO",
+    "US-CT",
+    "US-TX"
+  ]
+}

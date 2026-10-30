@@ -7,14 +7,15 @@ translationKey: "b9f1c8a7e3d44a6f92b5c1d8e7f3a901"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (Wirtschaftsportale, Marktquellen)"
 source_url: ""
-image_url: "/images/news/Oracle-fired-20000.png"
-featured_image: "/images/news/Oracle-fired-20000.png"
-image: "/images/news/Oracle-fired-20000.png"
-thumbnail: "/images/news/Oracle-fired-20000.png"
+image_url: "/images/news/Oracle-fired-20000.webp"
+featured_image: "/images/news/Oracle-fired-20000.webp"
+image: "/images/news/Oracle-fired-20000.webp"
+thumbnail: "/images/news/Oracle-fired-20000.webp"
 image_alt: "Massenentlassungen bei Oracle per E-Mail um 6 Uhr morgens"
 image_credit: "MetaAdvisor.eu"
 tags: ["oracle", "entlassungen", "ki", "kuenstliche intelligenz", "technologie", "layoffs", "arbeit", "krise", "big tech", "cloud"]
 summary: "Zehntausende Oracle-Mitarbeiter sollen ihren Job durch eine E-Mail um 6 Uhr morgens verloren haben. Dieser Schritt wirft Fragen über die tatsächlichen Kosten des KI-Wettrennens und die neue Realität des Arbeitsmarktes auf."
+categories: ["tech"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -7,14 +7,15 @@ translationKey: "eu_india_tariffs_110_20260128"
 source: "Reuters / Offizielle EU- und Indien-Erklärungen"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/EU-India-tariffs.png"
-featured_image: "/images/EU-India-tariffs.png"
-image: "/images/EU-India-tariffs.png"
-thumbnail: "/images/EU-India-tariffs.png"
+image_url: "/images/EU-India-tariffs.webp"
+featured_image: "/images/EU-India-tariffs.webp"
+image: "/images/EU-India-tariffs.webp"
+thumbnail: "/images/EU-India-tariffs.webp"
 image_alt: "Flaggen der Europäischen Union und Indiens – historisches Handelsabkommen"
 image_credit: "MetaAdvisor.eu"
 tags: ["eu-indien", "freihandelsabkommen", "zoelle-indien", "automobilindustrie", "deutsche-autohersteller", "franzoesische-autoindustrie", "ursula-von-der-leyen", "berlin", "muenchen", "stuttgart", "wolfsburg", "paris", "globaler-handel", "protektionismus"]
 summary: "Die Europäische Union und Indien haben ein historisches Handelsabkommen geschlossen, das Zölle von bis zu 110% abschafft oder drastisch senkt – nach fast zwei Jahrzehnten Verhandlungen."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -29,6 +29,7 @@ tags:
   - iv
   - liquidity
 summary: "LINK slipped to ~$20 (lowest since early August), ~−28% below August highs, despite Caliber and Chainlink Reserve purchases. CoinDesk’s tech model: possible downtrend ‘snap’ if $20 holds, with confirmation above ~$20.57."
+categories: ["ai"]
 ---
 
 **Briefly:** **LINK** fell to around **$20**, the lowest since early August, now **~−28%** below its August peak amid broader market weakness. Notably, the drop comes **despite net buying**: wealth manager **Caliber (CWD)** added **~$4M** in LINK (now **~$10M** total), and the **Chainlink Reserve** — a facility that uses integration/service revenues to buy tokens and remove supply from the open market — purchased **~47,903 LINK** (~**$1M**) on Thursday; since August it has accumulated **>370,000 LINK** (**~$7.5M**).

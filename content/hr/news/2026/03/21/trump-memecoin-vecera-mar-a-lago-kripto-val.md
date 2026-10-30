@@ -16,6 +16,7 @@ image_alt: "Trump memecoin i kripto tržište"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags: ["trumpcoin", "kripto", "bitcoin", "memecoin", "trump", "politika", "trgovanje", "whales", "blockchain", "defi", "tržište", "analiza"]
 summary: "TRUMP memecoin ponovno privlači pažnju nakon najave ekskluzivne večere u Mar-a-Lagu za najveće vlasnike tokena, što pokreće novi val interesa i aktivnosti velikih investitora."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

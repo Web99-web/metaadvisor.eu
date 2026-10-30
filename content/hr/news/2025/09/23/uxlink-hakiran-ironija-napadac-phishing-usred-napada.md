@@ -16,6 +16,7 @@ image_alt: "Sigurnosni incident — simbolična ilustracija"
 image_credit: "Metaadvisor (simbolična slika)"
 tags: ["UXLink","UXLINK","hak","phishing","multisig","DeFi","Web3","token-minting","CEX","DEX","sigurnost","eksploit","PeckShield","Hacken","Lookonchain","token-swap"]
 summary: "UXLink potvrđuje provalu u multisig: napadač je neovlašteno iskovao enormnu količinu UXLINK-a i srušio cijenu — ali je usred eksploita i sam nasjeo na phishing te izgubio dio plijena."
+categories: ["news"]
 ---
 
 **Kratko:**  

@@ -7,14 +7,15 @@ translationKey: "2026_school_education_crypto_new_zealand"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/New-Zealand-crypto-in-schools.png"
-featured_image: "/images/New-Zealand-crypto-in-schools.png"
-image: "/images/New-Zealand-crypto-in-schools.png"
-thumbnail: "/images/New-Zealand-crypto-in-schools.png"
+image_url: "/images/New-Zealand-crypto-in-schools.webp"
+featured_image: "/images/New-Zealand-crypto-in-schools.webp"
+image: "/images/New-Zealand-crypto-in-schools.webp"
+thumbnail: "/images/New-Zealand-crypto-in-schools.webp"
 image_alt: "Symbolische Illustration zur Einführung von Kryptowährungen und Blockchain im Schulunterricht in Neuseeland"
 image_credit: "MetaAdvisor.eu"
 tags: ["neuseeland", "crypto-education", "blockchain", "kryptowaehrungen", "schulen", "finanzbildung", "digitale-oekonomie"]
 summary: "Neuseeland führt ab 2026 eine verpflichtende Finanzbildung ein, die Kryptowährungen und Blockchain umfasst, um Schüler auf die digitale Wirtschaft und moderne Finanzsysteme vorzubereiten."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

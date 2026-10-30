@@ -6,14 +6,15 @@ category: "ai"
 translationKey: "7fffafce0be8d5ca6f7342a60c5ea9ce"
 source: "Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/facebook-ai-photos.png"
-featured_image: "/images/facebook-ai-photos.png"
-image: "/images/facebook-ai-photos.png"
-thumbnail: "/images/facebook-ai-photos.png"
+image_url: "/images/facebook-ai-photos.webp"
+featured_image: "/images/facebook-ai-photos.webp"
+image: "/images/facebook-ai-photos.webp"
+thumbnail: "/images/facebook-ai-photos.webp"
 image_alt: "Illustration: KI schlägt Fotobearbeitungen auf dem Smartphone vor"
 image_credit: "Metaadvisor / generiert"
 tags: ["ai","meta","facebook","privatsphäre","camera-roll","fotos","cloud","mobile-apps","technologie"]
 summary: "Facebook testet eine Funktion, bei der KI Fotobearbeitungen aus dem Camera Roll vorschlägt — noch bevor Sie diese posten. Das wirft neue Fragen zum Datenschutz und zur Kontrolle über persönliche Inhalte auf."
+categories: ["ai"]
 ---
 
 {{< cta href="/go/mexc" text="👉 Traden auf MEXC" >}}

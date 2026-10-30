@@ -7,14 +7,15 @@ translationKey: "banks-long-term-crypto-strategy-2026-02-12"
 source: "CoinDesk / Cointelegraph"
 source_url: "https://www.coindesk.com/markets/2026/02/11/jpmorgan-bullish-on-crypto-for-rest-of-year-as-institutional-flows-set-to-drive-recovery"
 author: "Metaadvisor.eu"
-image_url: "/images/Banks-move-into-crypto1.png"
-featured_image: "/images/Banks-move-into-crypto1.png"
-image: "/images/Banks-move-into-crypto1.png"
-thumbnail: "/images/Banks-move-into-crypto1.png"
+image_url: "/images/Banks-move-into-crypto1.webp"
+featured_image: "/images/Banks-move-into-crypto1.webp"
+image: "/images/Banks-move-into-crypto1.webp"
+thumbnail: "/images/Banks-move-into-crypto1.webp"
 image_alt: "Banke i kripto simbolika – institucionalni ulazak u digitalnu imovinu"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["jp morgan", "malezija", "sredisnja banka malezije", "stablecoin", "bitcoin", "institucionalni investitori", "kripto regulacija", "tokenizacija", "digitalna imovina", "btc dugorocno"]
 summary: "JP Morgan vidi institucionalni oporavak kripta, dok Središnja banka Malezije pokreće stablecoin i tokenizacijske pilote. Bankarski sektor sve otvorenije gradi dugoročnu strategiju oko Bitcoina i digitalne imovine."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

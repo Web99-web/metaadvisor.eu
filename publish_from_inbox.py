@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import re, os, datetime, time, hashlib, yaml
+import re, os, datetime, time, hashlib, yaml, json
 from pathlib import Path
 import requests, frontmatter
 from googletrans import Translator
@@ -82,9 +82,13 @@ _WORDS_RE = re.compile(r"[a-z0-9\-]+", re.I)
 
 def _dedup(seq):
     seen = set(); out = []
+    taxonomy_names = {"$max": "MAX", "$trump token": "trump-token", "$trump-token": "trump-token",
+                      "trump token": "trump-token", "workers’ rights": "workers-rights",
+                      "eu inc": "EU Inc", "s&p500": "sp500"}
     for x in seq:
-        xl = str(x).strip()
+        xl = str(x).strip().strip('"').rstrip('.')
         if not xl: continue
+        xl = taxonomy_names.get(xl.casefold(), xl)
         key = xl.lower()
         if key not in seen:
             seen.add(key); out.append(xl)
@@ -296,6 +300,32 @@ def get_hero_bytes(image_url, tags, title, body, seed: str):
     return dl(image_url) or pick_library_image(tags, title, body, seed)
 
 
+_PUBLISHED_SLUGS = {}
+
+def published_slugs(lang: str):
+    if lang not in _PUBLISHED_SLUGS:
+        base = Path("content") if lang == "en" else Path("content") / lang
+        values = set()
+        for path in (base / "news").rglob("*.md"):
+            post = frontmatter.load(path)
+            values.add(post.get("slug") or url_slug(post.get("title", path.stem)))
+        _PUBLISHED_SLUGS[lang] = values
+    return _PUBLISHED_SLUGS[lang]
+
+def unique_news_slug(slug: str, dt: datetime.datetime, used):
+    if slug not in used:
+        return slug
+    candidate = f"{slug}-{dt:%Y-%m-%d}"
+    if candidate in used:
+        raise ValueError(f"Existing article route {candidate}; review before publishing")
+    return candidate
+
+def unchanged_article(path, title, body):
+    post = frontmatter.load(path)
+    if post.get("title") == title and post.content.strip() == (body or "").strip():
+        return True
+    raise ValueError(f"Existing source {path} differs; review instead of overwriting or duplicating")
+
 def write_single(lang: str, dt: datetime.datetime, title: str, body: str,
                  tkey: str, src: str, src_url: str, tags, aliases=None,
                  our_take=None, priority: int = 0, image_url: str = "",
@@ -303,14 +333,21 @@ def write_single(lang: str, dt: datetime.datetime, title: str, body: str,
     slug_clean = url_slug(title)
     out_path = out_path_single(lang, dt, slug_clean)
     if out_path.exists():
-        short = hashlib.md5(f"{title}{dt}".encode()).hexdigest()[:6]
-        slug_clean = f"{slug_clean}-{short}"
-        out_path = out_path_single(lang, dt, slug_clean)
+        # Re-running an unchanged inbox must not create another copy of the article.
+        if unchanged_article(out_path, title, body):
+            return out_path
+    used = published_slugs(lang)
+    dated_path = out_path_single(lang, dt, f"{slug_clean}-{dt:%Y-%m-%d}")
+    if slug_clean in used and dated_path.exists():
+        if unchanged_article(dated_path, title, body):
+            return dated_path
+    slug_clean = unique_news_slug(slug_clean, dt, used)
+    out_path = out_path_single(lang, dt, slug_clean)
 
     fm = [
         "---",
-        f'title: "{title}"',
-        f'slug: "{slug_clean}"',
+        f'title: {json.dumps(title, ensure_ascii=False)}',
+        f'slug: {json.dumps(slug_clean)}',
         f"date: {dt.strftime('%Y-%m-%dT%H:%M:%SZ')}",
     ]
     if publish_date_iso:
@@ -318,12 +355,13 @@ def write_single(lang: str, dt: datetime.datetime, title: str, body: str,
 
     fm += [
         'category: "news"',
-        f'translationKey: "{tkey}"',
-        f'source: "{src}"',
-        f'source_url: "{src_url}"',
+        'categories: ["news"]',
+        f'translationKey: {json.dumps(tkey)}',
+        f'source: {json.dumps(src, ensure_ascii=False)}',
+        f'source_url: {json.dumps(src_url)}',
         f"priority: {int(priority)}",
-        f'image_url: "{image_url or "/images/finance.jpg"}"',
-        "tags: [" + ", ".join([f'\"{t}\"' for t in (tags or [])]) + "]",
+        f'image_url: {json.dumps(image_url or "/images/finance.jpg")}',
+        f'tags: {json.dumps(tags or [], ensure_ascii=False)}',
     ]
     if aliases:
         fm.append("aliases:")
@@ -335,6 +373,7 @@ def write_single(lang: str, dt: datetime.datetime, title: str, body: str,
     fm.append("---")
 
     out_path.write_text("\n".join(fm) + "\n\n" + (body or "") + "\n", encoding="utf-8")
+    used.add(slug_clean)
     return out_path
 
 translator = Translator()
@@ -346,7 +385,7 @@ def auto_translate(text: str, lang: str) -> str:
             return translator.translate(text, dest=lang).text.strip()
         except Exception:
             time.sleep(0.8)
-    return text
+    raise RuntimeError(f"Translation to {lang} failed; refusing to publish the source language as a translation")
 
 def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     # SKIP: _index.md i sve što počinje s "_"
@@ -378,6 +417,10 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
         dt = date_val if date_val.tzinfo else date_val.replace(tzinfo=datetime.timezone.utc)
     else:
         dt = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+
+    # One identity for all translations, tied to this article rather than a reused feed key.
+    identity = "|".join([str(tkey), str(src_url), dt.date().isoformat(), title_en.strip()])
+    tkey = "article-" + hashlib.sha256(identity.encode("utf-8")).hexdigest()[:32]
 
     # Publish date — ako nije zadan u inboxu, objavi odmah (sada/UTC)
     pub_val = post.get("publishDate")
@@ -423,6 +466,17 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     old_segment = inbox_file.stem if ADD_ALIASES_FROM_INBOX else None
     en_aliases = [f"/news/{old_segment}/"] if old_segment else None
 
+    # Prepare translations before writing any language. A failed translation must
+    # not silently publish English content under an HR/DE URL.
+    translated = {}
+    for language, enabled in [("hr", also_hr), ("de", also_de)]:
+        if enabled:
+            translated[language] = (
+                auto_translate(title_en, language),
+                auto_translate(body_en or f"Read the full article: {src_url}", language),
+                auto_translate(our_take, language) if our_take else None,
+            )
+
     # EN
     write_single(
         "en", dt, title_en, body_en or f"Read the full article: {src_url}",
@@ -435,11 +489,11 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     if also_hr:
         write_single(
             "hr", dt,
-            auto_translate(title_en,"hr"),
-            auto_translate(body_en or f"Read the full article: {src_url}", "hr"),
+            translated["hr"][0],
+            translated["hr"][1],
             tkey, src, src_url, tags,
             aliases=[f"/hr/news/{old_segment}/"] if old_segment else None,
-            our_take=auto_translate(our_take,"hr") if our_take else None,
+            our_take=translated["hr"][2],
             priority=prio,
             image_url=image_url_final,
             publish_date_iso=pub_iso
@@ -449,13 +503,13 @@ def publish_one(inbox_file: Path, also_hr=True, also_de=True):
     if also_de:
         write_single(
             "de", dt,
-            auto_translate(title_en,"de"),
-            auto_translate(body_en or f"Read the full article: {src_url}", "de"),
+            translated["de"][0],
+            translated["de"][1],
             tkey, src, src_url, tags,
             aliases=[f"/de/news/{old_segment}/"] if old_segment else None,
-            our_take=auto_translate(our_take,"de") if our_take else None,
+            our_take=translated["de"][2],
             priority=prio,
-            image_url=image_url_final
+            image_url=image_url_final,
             publish_date_iso=pub_iso
         )
 

@@ -7,14 +7,15 @@ translationKey: "ftx-cursor-anysphere-missed-3b-opportunity"
 source: "CoinDesk"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Cursor-AI-Anysphere.png"
-featured_image: "/images/companies/Cursor-AI-Anysphere.png"
-image: "/images/companies/Cursor-AI-Anysphere.png"
-thumbnail: "/images/companies/Cursor-AI-Anysphere.png"
+image_url: "/images/companies/Cursor-AI-Anysphere.webp"
+featured_image: "/images/companies/Cursor-AI-Anysphere.webp"
+image: "/images/companies/Cursor-AI-Anysphere.webp"
+thumbnail: "/images/companies/Cursor-AI-Anysphere.webp"
 image_alt: "Cursor AI Anysphere former FTX stake $3 billion missed opportunity"
 image_credit: "Metaadvisor / illustration"
 tags: ["ai","cursor","anysphere","ftx","crypto","blockchain","investments","technology","elon musk"]
 summary: "FTX sold its stake in the AI startup Cursor for $200,000 in 2023. Today, that same stake would be worth around $3 billion — raising questions about whether the bankruptcy process destroyed massive value."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*
@@ -34,7 +35,7 @@ In the world of investing, scenarios like this are not uncommon: you buy somethi
 
 That is exactly what happened to FTX and its stake in an AI startup that is now worth tens of billions.
 
-<img src="/images/companies/Cursor-AI-Anysphere.png" alt="Cursor AI Anysphere former FTX stake" />
+<img src="/images/companies/Cursor-AI-Anysphere.webp" alt="Cursor AI Anysphere former FTX stake" />
 <p><em>Cursor AI (Anysphere) — one of the fastest-growing AI coding tools</em></p>
 
 The company in question is Anysphere, which develops Cursor — an AI-powered coding tool.

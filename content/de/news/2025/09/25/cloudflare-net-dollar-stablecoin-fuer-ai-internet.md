@@ -25,6 +25,7 @@ tags:
   - x402
   - fintech
 summary: "Cloudflare (NET) stellt NET Dollar vor — einen USD-gebundenen Stablecoin für den „agentic web“, in dem AI-Agenten Mikrotransaktionen abwickeln."
+categories: ["ai"]
 ---
 
 **Kurz:** **Cloudflare** kündigt **NET Dollar** an, einen an den US-Dollar gekoppelten Stablecoin für den **agentic web**. Autonome **AI-Agenten** sollen damit **sofortige, sichere Mikrotransaktionen** für Services, Content und API-Aufrufe tätigen.

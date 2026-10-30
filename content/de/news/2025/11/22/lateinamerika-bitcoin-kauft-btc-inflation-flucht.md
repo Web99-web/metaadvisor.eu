@@ -6,12 +6,13 @@ category: "news"
 translationKey: "21f348b5cbf8ebdaca4d06bfb85dfcab"
 source: "MetaAdvisor.eu"
 source_url: "https://metaadvisor.eu"
-image_url: "/images/Latin-America-BTC.png"
-featured_image: "/images/Latin-America-BTC.png"
-image: "/images/Latin-America-BTC.png"
-thumbnail: "/images/Latin-America-BTC.png"
+image_url: "/images/Latin-America-BTC.webp"
+featured_image: "/images/Latin-America-BTC.webp"
+image: "/images/Latin-America-BTC.webp"
+thumbnail: "/images/Latin-America-BTC.webp"
 tags: ["krypto", "bitcoin", "inflation", "lateinamerika", "ripio", "microstrategy", "michael saylor", "brasilien", "el salvador", "finanzbildung"]
 summary: "Warum Lateinamerika massenhaft Bitcoin kauft – und wie Krypto-Treasuries wie Ripio größer werden als MicroStrategy."
+categories: ["news"]
 ---
 
 Lateinamerika erlebt seit Jahren eine Realität, die Europa nur theoretisch diskutiert:  

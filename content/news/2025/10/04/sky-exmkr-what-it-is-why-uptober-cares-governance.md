@@ -32,6 +32,7 @@ tags:
   - volatility
   - tokenomics
 summary: "SKY is the governance token of the Sky ecosystem (ex-MakerDAO). Rebrand and redenomination refreshed the narrative, while USDS/RWA growth draws Uptober attention."
+categories: ["crypto"]
 ---
 
 **SKY** is the **governance token** of the **Sky** ecosystem, MakerDAO’s successor. Following the rebrand, legacy MKR was **redenominated** into SKY and DAI evolved into **USDS**. The result is a familiar core (collateral, RWA income, risk parameters) under a new identity and with a friendlier per-unit quote that often improves market psychology and liquidity.

@@ -8,14 +8,15 @@ source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/us-news/ng-interactive/2025/nov/09/healthcare-artificial-intelligence-ai"
 author: "Eric Reinhart | The Guardian Tech"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/doctor-ai.png"
-featured_image: "/images/doctor-ai.png"
-image: "/images/doctor-ai.png"
-thumbnail: "/images/doctor-ai.png"
+image_url: "/images/doctor-ai.webp"
+featured_image: "/images/doctor-ai.webp"
+image: "/images/doctor-ai.webp"
+thumbnail: "/images/doctor-ai.webp"
 image_alt: "Doctor observing a computer screen displaying artificial intelligence"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "healthcare", "medicine", "algorithms", "technology", "ethics"]
 summary: "AI systems increasingly act as medical scribes. But what do we lose when empathy, tone, and attention are handed over to algorithms?"
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

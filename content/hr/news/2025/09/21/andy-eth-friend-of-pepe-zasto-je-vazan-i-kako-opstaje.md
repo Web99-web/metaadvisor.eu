@@ -13,6 +13,7 @@ image_alt: "ANDY (ETH) — friend of PEPE (simbolična naslovnica)"
 image_credit: "Metaadvisor (simbolična slika)"
 tags: ["ANDY", "meme-coin", "Ethereum", "Pepe", "Boys-Club", "community", "on-chain", "likvidnost", "rotacija", "ETF", "idiosinkraticni-tokovi", "socijalni-impuls", "volatilnost", "rizik"]
 summary: "ANDY (ETH), često označen kao „PEPE’s Friend ‘ANDY’”, meme-coin je iz Boys Club/Pepe kulture. Važan je jer pokazuje kako zajednica i idiosinkratični tokovi mogu nositi cijenu čak i kad šire tržište ‘krvari’."
+categories: ["news"]
 ---
 
 **Ukratko:**  

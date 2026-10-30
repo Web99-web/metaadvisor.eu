@@ -15,6 +15,7 @@ image_alt: "Gemini logo kao simbol regulatornog epiloga Earn programa"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Američki SEC povlači tužbu protiv Geminija vezanu uz Earn program, zatvarajući regulatorno poglavlje koje je započelo nakon kolapsa FTX-a i bankrota Genesis-a."
 tags: ["gemini", "genesis", "ftx", "sec", "earn", "regulacija", "kripto", "yield"]
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

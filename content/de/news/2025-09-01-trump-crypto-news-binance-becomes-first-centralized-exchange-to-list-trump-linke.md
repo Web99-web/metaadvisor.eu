@@ -9,6 +9,7 @@ summary: "Binance öffnet WLFI-Spot-Paare gegen USDT und USDC und beendet die Ph
 tags: ["Trump","WLFI","Binance","Krypto","Börse","Listing","DeFi","Ethereum","BSC","Solana"]
 image_url: "https://www.coindesk.com/resizer/v2/WT4J2CG7DZEHXP54VIFC5X4QHE.jpg?auth=6c30f1c850d232b1b80d4ed8b5a9f99e58d683e1c6f7f27d0f13b77a1f33262b&width=1200"
 image_url_small: "https://www.coindesk.com/resizer/v2/WT4J2CG7DZEHXP54VIFC5X4QHE.jpg?auth=6c30f1c850d232b1b80d4ed8b5a9f99e58d683e1c6f7f27d0f13b77a1f33262b&width=600"
+categories: ["crypto"]
 ---
 
 Binance hat als erste zentrale Kryptobörse den **World Liberty Financial (WLFI)**-Token gelistet – ein DeFi-Projekt mit Trump-Verbindungen. Der Handel startete am Montagmittag UTC, Einzahlungen sind bereits möglich, Auszahlungen ab Dienstag.  

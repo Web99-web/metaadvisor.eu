@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice
 summary: "Anthropic uvodi velike promjene u rukovanje korisničkim podacima. Korisnici imaju rok do 28. rujna da odluče."
 tags: ["ai","Anthropic","Claude","AI training","privacy"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/anthropic-policy-update.jpg"
+categories: ["ai"]
 ---
 
 **Anthropic** uvodi značajne promjene u način na koji koristi korisničke podatke: do **28. rujna** svi korisnici Claude aplikacija moraju odlučiti žele li da se njihovi razgovori koriste za treniranje AI modela.

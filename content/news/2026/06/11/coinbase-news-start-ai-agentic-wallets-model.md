@@ -7,14 +7,15 @@ translationKey: "e5f84c908d34e5bde3b24567a6eaae15"
 source: "CoinDesk, Coinbase, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Coinbase1.png"
-featured_image: "/images/companies/Coinbase1.png"
-image: "/images/companies/Coinbase1.png"
-thumbnail: "/images/companies/Coinbase1.png"
+image_url: "/images/companies/Coinbase1.webp"
+featured_image: "/images/companies/Coinbase1.webp"
+image: "/images/companies/Coinbase1.webp"
+thumbnail: "/images/companies/Coinbase1.webp"
 image_alt: "Coinbase and the AI Agentic Wallets concept for digital payments and trading"
 image_credit: "Metaadvisor.eu"
 tags: ["Coinbase", "AI", "Agentic Wallets", "AI agents", "crypto", "crypto wallets", "digital payments", "agentic commerce", "x402", "stablecoins", "automated trading", "fintech", "cryptocurrencies", "artificial intelligence", "Metaadvisor"]
 summary: "Coinbase for Agents shows how AI agents are moving from the world of conversation and analysis toward real financial actions. Agentic Wallets could allow AI systems to trade, pay and use digital services on behalf of users, but they also raise new questions about security, control and responsibility."
+categories: ["ai"]
 ---
 
 The image is symbolic.

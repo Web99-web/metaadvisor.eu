@@ -3,7 +3,7 @@ title: "Što je L2 (layer-2) — i zašto vašoj tvrtki vjerojatno ne treba vlas
 slug: "sto-je-l2-i-zasto-vjerojatno-ne-treba-vlastiti-ethereum-l2"
 date: 2025-09-13T18:00:00Z
 category: "news"
-translationKey: "deb9039d3dd61126d44c252223bbf1ba"
+translationKey: "l2-explainer-business-2025-09-13"
 source: "MetaAdvisor"
 sources:
   - name: "CoinDesk (op-ed): Your Company Probably Doesn’t Need Its Own L2"
@@ -15,6 +15,7 @@ image_credit: "MetaAdvisor Library"
 tags: ["ethereum", "layer2", "rollups", "objašnjenje"]
 summary: "L2 je “drugi sloj” iznad Ethereuma: obrađuje transakcije izvan glavnog lanca i na L1 objavljuje dokaze — brže i jeftinije. Vlastiti L2 većini tvrtki ne donosi realnu korist."
 our_take: "Kreni tamo gdje su korisnici i likvidnost; vlastiti L2 ima smisla tek kad metrike to jasno opravdaju."
+categories: ["news"]
 ---
 
 **Ukratko: što je L2?**  

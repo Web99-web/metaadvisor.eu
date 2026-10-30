@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/338344/robinhood-set-to-join-sp-500-as-bitcoin-g
 summary: "Dionice Robinhooda skočile su 7% nakon što je fintech orijentiran na kripto dodan u S&P 500."
 tags: ["bitcoin", "crypto", "robinhood", "mstr", "stocks", "sp500"]
 image_url: "/images/robinhood-sp500.jpg"
+categories: ["crypto"]
 ---
 
 Dionice **Robinhooda (HOOD)** porasle su 7% u trgovanju nakon zatvaranja tržišta nakon vijesti da je fintech, snažno usmjeren na kripto, dodan u **S&P 500**.  

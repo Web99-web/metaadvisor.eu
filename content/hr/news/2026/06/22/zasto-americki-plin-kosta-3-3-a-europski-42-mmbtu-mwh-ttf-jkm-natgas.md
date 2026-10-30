@@ -7,14 +7,15 @@ translationKey: "natural-gas-prices-mmbtu-mwh-ttf-jkm-natgas-2026-06-22"
 source: "CME Group, ICE, Hypurrscan, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Natural-gas-LNG-prices.png"
-featured_image: "/images/Natural-gas-LNG-prices.png"
-image: "/images/Natural-gas-LNG-prices.png"
-thumbnail: "/images/Natural-gas-LNG-prices.png"
+image_url: "/images/Natural-gas-LNG-prices.webp"
+featured_image: "/images/Natural-gas-LNG-prices.webp"
+image: "/images/Natural-gas-LNG-prices.webp"
+thumbnail: "/images/Natural-gas-LNG-prices.webp"
 image_alt: "Natural gas and LNG prices with Henry Hub, TTF Europe and JKM LNG benchmarks"
 image_credit: "Metaadvisor.eu"
 tags: ["prirodni plin", "natural gas", "LNG", "Henry Hub", "NG", "TTF", "JKM", "NATGAS", "Hyperliquid", "MMBtu", "MWh", "plin", "cijena plina", "energetsko tržište", "futures", "burza", "Europa", "SAD", "Metaadvisor"]
 summary: "Američki plin često se prikazuje u USD/MMBtu, a europski TTF u EUR/MWh. Zato se cijene poput 3,3 i 42 ne mogu uspoređivati samo po prvoj brojci. Kada se jedinice preračunaju, europski plin ostaje skuplji, ali stvarna razlika je drugačija nego što izgleda na prvi pogled."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>

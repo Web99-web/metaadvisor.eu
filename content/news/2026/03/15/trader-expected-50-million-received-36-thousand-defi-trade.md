@@ -7,15 +7,16 @@ translationKey: "defi-50m-trade-mev-loss-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis"
 source_url: ""
-image_url: "/images/news/Millions-50M-lost.png"
-featured_image: "/images/news/Millions-50M-lost.png"
-image: "/images/news/Millions-50M-lost.png"
-thumbnail: "/images/news/Millions-50M-lost.png"
+image_url: "/images/news/Millions-50M-lost.webp"
+featured_image: "/images/news/Millions-50M-lost.webp"
+image: "/images/news/Millions-50M-lost.webp"
+thumbnail: "/images/news/Millions-50M-lost.webp"
 image_alt: "One click millions lost crypto trade"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["crypto", "defi", "aave", "mev", "ethereum", "crypto trading"]
 summary: "A massive DeFi transaction that was supposed to generate around 50 million dollars ended in an almost complete loss. The trader ultimately received only about 36 thousand dollars, while analysts speculate that MEV bots extracted tens of millions from the situation."
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

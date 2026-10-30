@@ -7,14 +7,15 @@ translationKey: "8039b7fb4727c7fa6b526c4a36f62bf8"
 author: "Metaadvisor.eu"
 source: "Cointelegraph und Metaadvisor.eu Analyse"
 source_url: ""
-image_url: "/images/AI-program-prevented-xrp-ledger-mistake.png"
-featured_image: "/images/AI-program-prevented-xrp-ledger-mistake.png"
-image: "/images/AI-program-prevented-xrp-ledger-mistake.png"
-thumbnail: "/images/AI-program-prevented-xrp-ledger-mistake.png"
+image_url: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
+featured_image: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
+image: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
+thumbnail: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
 image_alt: "KI-Sicherheitssystem schützt XRP Ledger vor potenziellem Angriff"
 image_credit: "MetaAdvisor Illustration (symbolisch)"
 tags: ["ai", "künstliche intelligenz", "xrp", "xrpl", "blockchain", "cybersicherheit", "kryptowährungen", "sicherheit", "ledger", "token"]
 summary: "Ein autonomes KI-Sicherheitstool entdeckte eine kritische logische Schwachstelle im XRP Ledger noch während der Abstimmungsphase und verhinderte damit ein mögliches Milliardenrisiko."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

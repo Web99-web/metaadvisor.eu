@@ -7,14 +7,15 @@ translationKey: "meta-ai-support-hack-instagram-2026-06-07"
 source: "The Guardian, Reuters, 404 Media, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Meta-AI-instagram-hack.png"
-featured_image: "/images/hack/Meta-AI-instagram-hack.png"
-image: "/images/hack/Meta-AI-instagram-hack.png"
-thumbnail: "/images/hack/Meta-AI-instagram-hack.png"
+image_url: "/images/hack/Meta-AI-instagram-hack.webp"
+featured_image: "/images/hack/Meta-AI-instagram-hack.webp"
+image: "/images/hack/Meta-AI-instagram-hack.webp"
+thumbnail: "/images/hack/Meta-AI-instagram-hack.webp"
 image_alt: "Meta AI support hack and Instagram account takeover concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Meta AI", "Instagram", "Facebook", "Messenger", "AI", "umjetna inteligencija", "AI podrška", "chatbot", "cybersecurity", "kibernetička sigurnost", "hakiranje", "preuzimanje računa", "account takeover", "reset lozinke", "sigurnost računa", "digitalni identitet", "Meta support", "automatizacija", "AI moderacija", "Metaadvisor"]
 summary: "Incident s Meta AI support botom otvorio je ozbiljna pitanja o tome koliko je sigurno prepustiti oporavak računa automatiziranim sustavima. Ako AI podrška može pomoći hakerima u promjeni pristupa računu, problem više nije samo loša korisnička podrška, nego i sigurnosni rizik."
+categories: ["ai"]
 ---
 
 Slika je simbolična.
@@ -85,7 +86,7 @@ Posebno su ugroženi mali poduzetnici, administratori stranica, kreatori sadrža
 <figure style="max-width:520px; margin:28px auto; text-align:center;">
   <a href="https://metaadvisor.eu/hr/news/digitalno-ponistenje-privatne-platforme-javni-trg-emocionalno-brisanje/" style="display:block;">
     <img 
-      src="/images/Social-networking-erased-destroyed.png" 
+      src="/images/Social-networking-erased-destroyed.webp" 
       alt="Digitalno poništenje i emocionalno brisanje korisnika s društvenih mreža"
       style="width:100%; height:auto; border-radius:14px;"
     >

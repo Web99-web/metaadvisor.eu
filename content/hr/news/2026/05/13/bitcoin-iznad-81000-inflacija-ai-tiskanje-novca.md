@@ -15,6 +15,7 @@ image_alt: "Bitcoin iznad 81.000 dolara"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "inflacija", "ai", "fed", "coinshares", "arthur hayes", "bull market", "trading"]
 summary: "Bitcoin se ponovno vratio iznad 81.000 dolara dok tržište prati rast inflacije, AI utrku i moguće novo tiskanje novca."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Slika je simbolična.</em></p>

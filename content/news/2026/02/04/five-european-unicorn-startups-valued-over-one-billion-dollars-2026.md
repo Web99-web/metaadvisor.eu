@@ -38,6 +38,7 @@ tags: [
   "eu technology"
 ]
 summary: "Europe has already produced five new startup ‘unicorns’ in early 2026 — companies valued at over $1 billion. While some operate globally or are incorporated elsewhere, their roots and core teams remain European."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#777;">

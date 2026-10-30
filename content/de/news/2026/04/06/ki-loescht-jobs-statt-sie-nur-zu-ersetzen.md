@@ -7,14 +7,15 @@ translationKey: "ai-erases-jobs-meta-bans-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse"
 source_url: ""
-image_url: "/images/AI-taking-and-erasing-jobs.png"
-featured_image: "/images/AI-taking-and-erasing-jobs.png"
-image: "/images/AI-taking-and-erasing-jobs.png"
-thumbnail: "/images/AI-taking-and-erasing-jobs.png"
+image_url: "/images/AI-taking-and-erasing-jobs.webp"
+featured_image: "/images/AI-taking-and-erasing-jobs.webp"
+image: "/images/AI-taking-and-erasing-jobs.webp"
+thumbnail: "/images/AI-taking-and-erasing-jobs.webp"
 image_alt: "KI löscht Jobs, anstatt sie nur zu ersetzen"
 image_credit: "Illustration"
 tags: ["ai","künstliche intelligenz","ai moderation","facebook","instagram","ban","kleine unternehmen","soziale netzwerke","jobs","eu ai act"]
 summary: "KI beeinflusst den Arbeitsmarkt nicht nur durch Automatisierung — durch Moderation löscht sie ganze digitale Identitäten, kleine Unternehmen und jahrelange Arbeit ohne Möglichkeit zur Wiederherstellung."
+categories: ["tech"]
 ---
 
 *Symbolisches Bild.*

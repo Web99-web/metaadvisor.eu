@@ -7,6 +7,7 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/26/xrp-slides-3-even-as-gemini-ripple-credit-card-adds-utility-narrative"
 summary: "Pokušaji oporavka kasno u sesiji vratili su token iznad 2,90 USD, ali tržište ostaje podijeljeno oko toga može li se uzlazni momentum održati."
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/e9d6f8574bd010e9c666dc0d0b97c3207ffb1d75-742x451.png?auto=format"
+categories: ["news"]
 ---
 
 XRP se suočio s oštrim kolebanjima u trgovačkom prozoru 25.–26. kolovoza, kliznuvši s 3,01 na 2,91 USD (pad od 3,2%). Nagli val institucionalne likvidacije tijekom sata 19:00–20:00 GMT uzrokovao je najoštriji pad, pri čemu su volumeni bili trostruko iznad dnevnih prosjeka. Pokušaji oporavka kasno u sesiji vratili su token iznad 2,90 USD, no tržište je i dalje podijeljeno oko toga može li se uzlazni momentum održati.

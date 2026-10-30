@@ -15,6 +15,7 @@ image_alt: "Bitcoin futures market and buy orders below price"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "crypto", "kripto", "Bitcoin futures", "futures", "open interest", "funding rate", "likvidnost", "kupovni nalozi", "57000 USD", "59000 USD", "63000 USD", "64000 USD", "ETF odljevi", "Strategy", "Michael Saylor", "MSTR", "USDT", "Tether", "stablecoin", "makro rizik", "risk-off", "Metaadvisor"]
 summary: "Bitcoin se oporavio iznad 63.000 USD, ali futures tržište još ne pokazuje snažan novi bullish impuls. Veliki kupovni nalozi čekaju između 57.000 i 59.000 USD, što pokazuje gdje tržište vidi moguću zonu obrane ako se pritisak vrati."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

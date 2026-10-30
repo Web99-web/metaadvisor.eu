@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "avax-treasury-2025-overview"
 source: "Financial Times, CoinDesk, Cointelegraph, Wall Street Journal, Business Insider"
 author: "Metaadvisor.eu"
-image_url: "/images/avax-treasury.png"
-featured_image: "/images/avax-treasury.png"
-image: "/images/avax-treasury.png"
-thumbnail: "/images/avax-treasury.png"
+image_url: "/images/avax-treasury.webp"
+featured_image: "/images/avax-treasury.webp"
+image: "/images/avax-treasury.webp"
+thumbnail: "/images/avax-treasury.webp"
 image_alt: "Avalanche AVAX — plan javnih trezora/riznica"
 image_credit: "Slika je simbolična."
 tags: ["avalanche","avax","treasury","riznica","spac","nasdaq","tokenizacija","stablecoin","defi","institucionalni","scaramucci","hivemind","dragonfly","onramp","crypto","kripto"]
 summary: "Avalanche Foundation pokreće model ‘javnih riznica’ AVAX-a: dva subjekta u SAD-u ciljaju prikupiti do $1 mlrd. — jedan kroz SPAC, drugi kroz Nasdaq-listanu tvrtku. Sredstva bi kupovala AVAX i aktivno ga stavljala na rad (likvidnost, kreditiranje, DeFi)."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

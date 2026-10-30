@@ -8,15 +8,16 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/dunamu-upbit-q3-profit-300-percent-surge-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Upbit-Dunamu-300.png"
-featured_image: "/images/Upbit-Dunamu-300.png"
-image: "/images/Upbit-Dunamu-300.png"
-thumbnail: "/images/Upbit-Dunamu-300.png"
+image_url: "/images/Upbit-Dunamu-300.webp"
+featured_image: "/images/Upbit-Dunamu-300.webp"
+image: "/images/Upbit-Dunamu-300.webp"
+thumbnail: "/images/Upbit-Dunamu-300.webp"
 image_alt: "Upbit i Dunamu ostvaruju rast dobiti od 300% u Q3"
 image_credit: "Metaadvisor.eu"
 tags: ["korea", "upbit", "dunamu", "profit", "crypto", "bitcoin", "exchange", "asia", "market", "regulation"]
 summary: "Upbitov operator Dunamu prijavio je rast dobiti od preko 300% u Q3. Što stoji iza snažnog skoka i kako utječe na šire kripto tržište?"
 
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

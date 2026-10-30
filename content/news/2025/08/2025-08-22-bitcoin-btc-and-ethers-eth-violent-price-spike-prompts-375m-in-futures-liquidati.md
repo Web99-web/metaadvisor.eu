@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/btc-rebounds-2-6-as-eth
 summary: "Bitcoin surged off key support after Powell hinted at rate cuts, triggering $375M in liquidations as ETH led gains with a 10% rally."
 tags: ["bitcoin", "crypto"]
 image: "/news/2025-08-22-bitcoin-btc-and-ethers-eth-violent-price-spike-prompts-375m-in-futures-liquidati.png"
+categories: ["crypto"]
 ---
 
 Bitcoin BTC $ 115,766.97 bounced off the $111,800 support level on Friday, sharply rising by 2.6% to $114,800 after Federal Reserve chairman Jerome Powell hinted at potential rate cuts during a speech at Jackson Hole.

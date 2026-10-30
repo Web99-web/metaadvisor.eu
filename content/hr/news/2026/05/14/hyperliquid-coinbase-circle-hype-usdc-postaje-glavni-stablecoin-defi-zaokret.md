@@ -7,14 +7,15 @@ translationKey: "d4e7c91a8f3b42c6b9d5e71f0a4c82be"
 source: "Metaadvisor (Hyperliquid, Bitcoin.com, BeInCrypto, KuCoin News)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Hyperliquid-hype-usdc.png"
-featured_image: "/images/companies/Hyperliquid-hype-usdc.png"
-image: "/images/companies/Hyperliquid-hype-usdc.png"
-thumbnail: "/images/companies/Hyperliquid-hype-usdc.png"
+image_url: "/images/companies/Hyperliquid-hype-usdc.webp"
+featured_image: "/images/companies/Hyperliquid-hype-usdc.webp"
+image: "/images/companies/Hyperliquid-hype-usdc.webp"
+thumbnail: "/images/companies/Hyperliquid-hype-usdc.webp"
 image_alt: "Hyperliquid, Coinbase, Circle i USDC"
 image_credit: "Metaadvisor.eu"
 tags: ["hyperliquid", "hype", "usdc", "coinbase", "circle", "stablecoin", "crypto", "defi", "trading", "blockchain", "likvidnost", "market makers", "perpetuals", "dex", "institutional crypto"]
 summary: "Coinbase i Circle ulaze dublje u Hyperliquid ecosystem kroz AQAv2 i USDC integraciju, dok USDC postaje glavni stablecoin platforme. Dio tržišta smatra da Hyperliquid polako prerasta iz crypto-native trading projekta u ozbiljan institutional DeFi layer."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Slika je simbolična.</em></p>

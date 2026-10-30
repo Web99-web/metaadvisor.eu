@@ -7,10 +7,10 @@ translationKey: "b6c70a0d4c08c002983b67a29f9d4e16"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/02/tether-adds-nearly-usd800-million-in-bitcoin-bringing-holdings-above-96-000-btc"
 author: "MetaAdvisor.eu"
-image_url: "/images/Teather-buys-BTC.png"
-featured_image: "/images/Teather-buys-BTC.png"
-image: "/images/Teather-buys-BTC.png"
-thumbnail: "/images/Teather-buys-BTC.png"
+image_url: "/images/Teather-buys-BTC.webp"
+featured_image: "/images/Teather-buys-BTC.webp"
+image: "/images/Teather-buys-BTC.webp"
+thumbnail: "/images/Teather-buys-BTC.webp"
 image_alt: "Tether erhöht seine Bitcoin-Reserven durch den Kauf von fast 9.000 BTC"
 image_credit: "MetaAdvisor.eu / symbolische Illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - treasury
   - institutionell
 summary: "Tether hat zu Beginn des Jahres 2026 exakt 8.888,88 BTC in seine Reserven aufgenommen und dafür rund 780 Millionen US-Dollar aus operativen Gewinnen eingesetzt."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

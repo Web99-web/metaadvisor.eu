@@ -10,6 +10,7 @@ image_url: "/images/grafikon-manji2.jpg"
 image_alt: "Chart mit Fokus auf die Fed-Entscheidung und Kryptobewegungen"
 tags: ["krypto","macro","fed","mkr","sky","token-unlocks"]
 summary: "Der Markt stellt sich für den FOMC am 17.9. auf −25 bp ein. Am 18.9. endet die MKR→SKY-Umwandlung ohne Strafabzug; mehrere Token-Unlocks halten die Liquidität im Blick. Glassnode meldet eine Rückkehr zur Nettodistribution über alle BTC-Kohorten."
+categories: ["crypto"]
 ---
 
 **Darauf schaut der Markt diese Woche**

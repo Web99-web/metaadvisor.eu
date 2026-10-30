@@ -9,6 +9,7 @@ summary: "Santiment bilježi porast 'buy the dip' poziva na društvenim mrežama
 tags: ["crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvZTkzZGE3Y2EtZjRjOC00ODc0LWE2YWEtYzkwMDdmNzA2NTcyLmpwZw==.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvZTkzZGE3Y2EtZjRjOC00ODc0LWE2YWEtYzkwMDdmNzA2NTcyLmpwZw==.jpg"
+categories: ["crypto"]
 ---
 
 Istraživačka platforma **Santiment** izvijestila je da pozivi za “buy the dip” na društvenim mrežama rastu na najviše razine u mjesecima, dok se tržište kriptovaluta suočava s povećanim pritiskom prodaje.  

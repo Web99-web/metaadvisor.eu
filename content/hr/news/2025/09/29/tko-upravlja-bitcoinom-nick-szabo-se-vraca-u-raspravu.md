@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "b9c4e0f8c1ad46c0bba77e0d2d992eb2"
 source: "Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/btc-who-controles.png"
-featured_image: "/images/btc-who-controles.png"
-image: "/images/btc-who-controles.png"
-thumbnail: "/images/btc-who-controles.png"
+image_url: "/images/btc-who-controles.webp"
+featured_image: "/images/btc-who-controles.webp"
+image: "/images/btc-who-controles.webp"
+thumbnail: "/images/btc-who-controles.webp"
 image_alt: "Tko upravlja Bitcoinom – decentralizirana mreža ljudi, ne institucija"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin","nick-szabo","satoshi","bitcoin-core","decentralizacija","developeri","nodeovi","rudari","open-source","regulacija"]
 summary: "Bitcoin nema šefa ni centralnu instituciju. Održava ga zajednica programera, rudara i node operatora, financirana donacijama i grantovima. Nakon pet godina šutnje, Nick Szabo se vraća u raspravu o spornim promjenama u Bitcoin Coreu."
+categories: ["crypto"]
 ---
 
 ### Tko zapravo upravlja Bitcoinom?

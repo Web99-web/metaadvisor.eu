@@ -7,10 +7,10 @@ translationKey: "f4e0d2d2a8c644dca8b4b8a7b3f6a104"
 source: "CoinMarketCap (Gainers/Losers); CoinDesk (Market Wrap)"
 source_url: "https://coinmarketcap.com/gainers-losers/"
 author: "Metaadvisor.eu"
-image_url: "/images/market-crypto-daily.png"
-featured_image: "/images/market-crypto-daily.png"
-image: "/images/market-crypto-daily.png"
-thumbnail: "/images/market-crypto-daily.png"
+image_url: "/images/market-crypto-daily.webp"
+featured_image: "/images/market-crypto-daily.webp"
+image: "/images/market-crypto-daily.webp"
+thumbnail: "/images/market-crypto-daily.webp"
 image_alt: "Crypto Market Daily — Top Movers Banner"
 image_credit: "Metaadvisor.eu (symbolische Grafik)"
 tags:
@@ -35,6 +35,7 @@ tags:
   - volatilitaet
   - technische-analyse
 summary: "BTC hält sich um 120.000 $, Altcoins rotieren: ZEC, FLOKI und OKB führen die Gewinner an, während MYX und 2Z die Verlierer anführen. Hier ist die Top-10-Übersicht (24h) mit kurzem Kontext."
+categories: ["crypto"]
 ---
 
 **Marktkontext (24h)**  

@@ -7,14 +7,15 @@ translationKey: "bb25ed850600fd926f9c21b36cf7836a"
 source: "Cointelegraph"
 source_url: ""
 author: "Cointelegraph"
-image_url: "/images/Bermuda-onchain-economy.png"
-featured_image: "/images/Bermuda-onchain-economy.png"
-image: "/images/Bermuda-onchain-economy.png"
-thumbnail: "/images/Bermuda-onchain-economy.png"
+image_url: "/images/Bermuda-onchain-economy.webp"
+featured_image: "/images/Bermuda-onchain-economy.webp"
+image: "/images/Bermuda-onchain-economy.webp"
+thumbnail: "/images/Bermuda-onchain-economy.webp"
 image_alt: "Bermuda and the concept of a fully onchain national economy"
 image_credit: "Illustration / Metaadvisor"
 tags: ["bermuda", "onchain economy", "stablecoin", "usdc", "coinbase", "circle", "blockchain", "digital infrastructure", "regulation", "crypto", "financial innovation"]
 summary: "Bermuda launches pilot programs to build a fully onchain national infrastructure in collaboration with Circle and Coinbase. Instead of imposing crypto mandates, the island adopts a regulated and gradual digital transformation model."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -7,14 +7,15 @@ translationKey: "commodities-btc-shift-2026"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/gold-silver-oil-down.png"
-featured_image: "/images/gold-silver-oil-down.png"
-image: "/images/gold-silver-oil-down.png"
-thumbnail: "/images/gold-silver-oil-down.png"
+image_url: "/images/gold-silver-oil-down.webp"
+featured_image: "/images/gold-silver-oil-down.webp"
+image: "/images/gold-silver-oil-down.webp"
+thumbnail: "/images/gold-silver-oil-down.webp"
 image_alt: "Zlato, nafta i srebro padaju dok Bitcoin raste"
 tags: ["kripto", "bitcoin", "zlato", "nafta", "srebro", "rat", "analiza", "tržište", "investitori"]
 summary: "U trenutku geopolitičkih napetosti zlato, nafta i srebro padaju, dok Bitcoin raste. Tržište šalje kontradiktorne signale — je li ovo početak promjene ili kratkoročna anomalija?"
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

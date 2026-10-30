@@ -7,14 +7,15 @@ translationKey: "cognition-ai-devin-scott-wu-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/companies/Cognition-AI-Scott-Wu.png"
-featured_image: "/images/companies/Cognition-AI-Scott-Wu.png"
-image: "/images/companies/Cognition-AI-Scott-Wu.png"
-thumbnail: "/images/companies/Cognition-AI-Scott-Wu.png"
+image_url: "/images/companies/Cognition-AI-Scott-Wu.webp"
+featured_image: "/images/companies/Cognition-AI-Scott-Wu.webp"
+image: "/images/companies/Cognition-AI-Scott-Wu.webp"
+thumbnail: "/images/companies/Cognition-AI-Scott-Wu.webp"
 image_alt: "Scott Wu Cognition AI Devin AI"
 image_credit: "Metaadvisor illustration"
 tags: ["ai", "cognition ai", "scott wu", "devin ai", "programming", "startup", "automation", "technology"]
 summary: "The story of Scott Wu and Cognition AI shows how one of the most talented programmers of his generation is building AI that can code independently and potentially transform the IT industry."
+categories: ["ai"]
 ---
 
 _The image is symbolic._
@@ -32,7 +33,7 @@ A video of a young boy at a math competition came across our feed — answering 
 
 That search led us to the name Scott Wu. And at that point, the story stopped being just an interesting video — and started pointing toward one of the most ambitious young minds and AI projects today.
 
-![Scott Wu Mathcounts 2010](/images/companies/Scott-Wu-2010-Mathcounts-National-Competition.png)
+![Scott Wu Mathcounts 2010](/images/companies/Scott-Wu-2010-Mathcounts-National-Competition.webp)
 
 *Scott Wu as a young competitor at the MATHCOUNTS National Competition*
 

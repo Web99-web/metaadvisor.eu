@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/ng-interactive/2025/aug/28/e
 summary: "Antonio Gracias dio je rastućeg pokreta u Silicijskoj dolini, osobito među desnicom, zaljubljenom u terapeutski i komercijalni potencijal MDMA-a."
 tags: ["ai","Elon Musk","Antonio Gracias","MDMA","psychedelics"]
 image_url: "https://i.guim.co.uk/img/media/12345abcd9876543210guardianmdma.jpg"
+categories: ["ai"]
 ---
 
 **Antonio Gracias** jedan je od predvodnika rastućeg pokreta u Silicijskoj dolini – posebno među desnim krugovima – koji u drogama poput **MDMA-a** vidi terapeutski i komercijalni potencijal.

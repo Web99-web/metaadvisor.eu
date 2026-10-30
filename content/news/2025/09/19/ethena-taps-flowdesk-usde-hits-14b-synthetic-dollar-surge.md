@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/ethena-flowdesk-usde-14-billion-synthetic-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/ethena-usde-14b.png"
-featured_image: "/images/ethena-usde-14b.png"
-image: "/images/ethena-usde-14b.png"
-thumbnail: "/images/ethena-usde-14b.png"
+image_url: "/images/ethena-usde-14b.webp"
+featured_image: "/images/ethena-usde-14b.webp"
+image: "/images/ethena-usde-14b.webp"
+thumbnail: "/images/ethena-usde-14b.webp"
 image_alt: "Ethena & USDe hit $14B (symbolic graphic)"
 image_credit: "MetaAdvisor (symbolic graphic)"
 tags: ["crypto", "Ethena", "USDe", "Flowdesk", "synthetic dollar", "stablecoin"]
 summary: "Ethena brings in Flowdesk as USDe supply reaches $14B, underscoring growing demand for synthetic-dollar exposure and institutional liquidity rails."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Wall Street", "Nasdaq", "S&P 500", "Tech-Aktien", "Halbleiter", "Anleiherenditen", "US-Treasuries", "Japan", "Inflation", "Öl", "AI"]
 description: "US-Technologieaktien sind gefallen, während langfristige Renditen von Staatsanleihen in den USA, Japan und Europa Mehrjahres- oder Mehrjahrzehntehochs erreichten."
 summary: "Der Nasdaq fiel am 18. August um mehr als 1 %, während der Halbleiterindex mehr als 5 % verlor. Steigende Anleiherenditen, höhere Ölpreise und Inflationssorgen erhöhten den Druck auf Technologieaktien."
+categories: ["Markets"]
 ---
 
 *Symbolbild.*

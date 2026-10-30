@@ -16,6 +16,7 @@ image_alt: "Bitcoin ilustracija, tržišna prekretnica"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","tržišta","analiza","korelacija","nasdaq","dno","oporavak","volatilnost","fed","kamatne-stope","medvjedi","bikovi","makro","kriptovalute"]
 summary: "Bitcoin odbija na 93.500 USD dok povijesna negativna korelacija s Nasdaqom ponovno signalizira potencijalnu formaciju tržišnog dna."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

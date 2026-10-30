@@ -15,6 +15,7 @@ image_alt: "Market focus chart showing SpaceX and crypto market levels"
 image_credit: "Metaadvisor.eu"
 tags: ["SpaceX", "Bitcoin", "BTC", "Ethereum", "ETH", "Solana", "SOL", "HYPE", "crypto market", "kripto tržište", "IPO", "market focus", "daily charts", "Metaadvisor"]
 summary: "SpaceX je pao na oko 165 USD, dok je kripto tržište danas bilo mješovito. Bitcoin se kretao oko 64,5 tisuće USD, Ethereum je bio oko 1.747 do 1.760 USD, Solana oko 73 USD, a HYPE oko 68 USD nakon što je prije nekoliko dana bio iznad 70 USD."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>

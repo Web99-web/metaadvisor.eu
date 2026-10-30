@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Dogecoin", "DOGE", "PEPE", "Ethereum", "ETH", "Solana", "SOL", "XRP", "Kryptomarkt", "Short Squeeze", "Liquidationen", "Altcoins", "Memecoins", "Crypto Rally", "HYPE"]
 description: "Bitcoin stieg während der Rally über 87.300 US-Dollar, Dogecoin legte mehr als 15 % zu und PEPE mehr als 20 %. Innerhalb von 24 Stunden wurden gehebelte Kryptopositionen im Wert von mehr als einer Milliarde US-Dollar liquidiert, darunter Shorts im Wert von rund 844 Millionen US-Dollar."
 summary: "Die Crypto-Rally hat sich von Bitcoin auf Altcoins und Memecoins ausgeweitet. DOGE steigt mehr als 15 %, PEPE mehr als 20 %, während innerhalb von 24 Stunden Positionen im Wert von mehr als einer Milliarde US-Dollar liquidiert wurden, davon rund 844 Millionen US-Dollar an Shorts. Nach dem großen Short Squeeze muss der Markt nun zeigen, ob die Rally mit neuem organischem Kapital weitergehen kann."
+categories: ["crypto"]
 ---
 
 *Das Bild dient nur zur Illustration.*

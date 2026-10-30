@@ -8,14 +8,15 @@ source: "MetaAdvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Bithumb-incident.png"
-featured_image: "/images/Bithumb-incident.png"
-image: "/images/Bithumb-incident.png"
-thumbnail: "/images/Bithumb-incident.png"
+image_url: "/images/Bithumb-incident.webp"
+featured_image: "/images/Bithumb-incident.webp"
+image: "/images/Bithumb-incident.webp"
+thumbnail: "/images/Bithumb-incident.webp"
 image_alt: "Symbolic illustration of a Bitcoin incident at Bithumb exchange"
 image_credit: "Symbolic image / MetaAdvisor.eu"
 tags: ["bitcoin", "bithumb", "crypto-exchanges", "market-selloff", "liquidations", "volatility", "etfs", "asia"]
 summary: "South Korean crypto exchange Bithumb mistakenly credited some users with approximately 2,000 Bitcoin per account. The incident occurred shortly before a sharp market selloff, raising questions about whether this operational error may have added to existing global selling pressure."
+categories: ["crypto"]
 ---
 
 ## An unusual incident at one of Asia’s largest crypto exchanges

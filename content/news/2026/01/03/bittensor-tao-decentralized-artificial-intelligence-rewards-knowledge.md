@@ -7,14 +7,15 @@ translationKey: "bittensor_tao_decentralized_ai_explained"
 source: "MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/TAO-bittensor.png"
-featured_image: "/images/TAO-bittensor.png"
-image: "/images/TAO-bittensor.png"
-thumbnail: "/images/TAO-bittensor.png"
+image_url: "/images/TAO-bittensor.webp"
+featured_image: "/images/TAO-bittensor.webp"
+image: "/images/TAO-bittensor.webp"
+thumbnail: "/images/TAO-bittensor.webp"
 image_alt: "Symbolic illustration of the Bittensor network and the TAO token"
 image_credit: "MetaAdvisor.eu"
 tags: ["bittensor", "tao", "decentralized-ai", "artificial-intelligence", "ai-crypto", "crypto-ai", "crypto", "web3"]
 summary: "Bittensor aims to build an open artificial intelligence network without a central owner, while TAO acts as an economic mechanism that rewards real contributions of knowledge and computational work."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

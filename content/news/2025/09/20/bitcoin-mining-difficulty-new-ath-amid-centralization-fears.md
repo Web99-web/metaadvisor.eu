@@ -15,6 +15,7 @@ image_alt: "Symbolic illustration of Bitcoin mining"
 image_credit: "MetaAdvisor (symbolic graphic)"
 tags: ["crypto", "bitcoin", "mining", "difficulty", "hashrate", "pools", "centralization", "energy"]
 summary: "Bitcoin’s mining difficulty set a fresh all-time high alongside record-level hashrate. That boosts security but intensifies competition, reviving concerns over pool concentration and small-miner viability."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

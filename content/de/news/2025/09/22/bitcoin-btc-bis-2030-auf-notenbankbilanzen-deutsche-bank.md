@@ -16,6 +16,7 @@ image_alt: "Deutsche Bank — BTC & Gold (Titelbild)"
 image_credit: "Metaadvisor (symbolisches Bild)"
 tags: ["Bitcoin","Gold","Zentralbanken","Reserven","Deutsche-Bank","USD","DXY","Volatilität","ETF","Reserve-Asset","Makro","Geopolitik","Diversifikation","Regulierung","Adoption"]
 summary: "Laut Deutsche Bank ist Bitcoin bis 2030 auf dem Weg, neben Gold als Reserve-Asset anerkannt zu werden. Gold bleibt führend, der USD dominant — dennoch mehren sich die Signale für Reserve-Diversifikation."
+categories: ["crypto"]
 ---
 
 **Kurz & knapp:**  

@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Anthropic", "Pentagon", "artificial intelligence", "Claude", "AI safety", "United States", "military AI", "AI regulation"]
 description: "A U.S. appeals court has left in place the Pentagon decision designating Anthropic as a national security supply-chain risk and excluding it from certain military contracts."
 summary: "Anthropic remains on the Pentagon blacklist after a U.S. appeals court rejected the company's legal challenge on September 25. The dispute centers on restrictions governing the use of Claude for surveillance and autonomous weapons."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

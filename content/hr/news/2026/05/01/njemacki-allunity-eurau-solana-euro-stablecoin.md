@@ -15,6 +15,7 @@ image_alt: "EURAU euro stablecoin na Solani i rast euro digitalnih plaćanja"
 image_credit: "Metaadvisor.eu"
 tags: ["allunity eurau", "euro stablecoin", "eur stablecoin europa", "solana placanja", "mica regulacija", "tokenizirani euro", "digitalni euro blockchain", "deutsche bank dws crypto", "flow traders crypto", "galaxy digital eurau", "stablecoin europa rast", "crypto placanja europa"]
 summary: "Njemački AllUnity širi euro stablecoin EURAU na Solanu, omogućujući brža i jeftinija plaćanja, dok potražnja za reguliranim euro stablecoinima u Europi snažno raste."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -7,14 +7,15 @@ translationKey: "cc097034a02380816b882efcc9d8f192"
 source: "Metaadvisor (CoinDesk, Crypto Briefing, Decrypt)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-Casascius1.png"
-featured_image: "/images/BTC-Casascius1.png"
-image: "/images/BTC-Casascius1.png"
-thumbnail: "/images/BTC-Casascius1.png"
+image_url: "/images/BTC-Casascius1.webp"
+featured_image: "/images/BTC-Casascius1.webp"
+image: "/images/BTC-Casascius1.webp"
+thumbnail: "/images/BTC-Casascius1.webp"
 image_alt: "Fizički Casascius Bitcoin star 15 godina unovčen za 1,78 milijuna dolara"
 image_credit: "MetaAdvisor.eu"
 tags: ["Bitcoin", "BTC", "Casascius", "Casascius Bitcoin", "fizički Bitcoin", "Mike Caldwell", "Bitcoin povijest", "Bitcoin kolekcionari", "Bitcoin numizmatika", "private key", "privatni ključ", "hologram", "Bitcoin wallet", "crypto kolekcionarstvo", "rani Bitcoin", "Bitcoin 2011", "Bitcoin artefakt", "kripto povijest", "digitalna imovina", "Metaadvisor"]
 summary: "Rijetki fizički Casascius Bitcoin iz rane Bitcoin povijesti otvoren je nakon više od desetljeća, a iz njega je povučeno 25 BTC-a vrijednih oko 1,78 milijuna dolara. Skidanjem holograma vlasnik je dobio pristup digitalnoj vrijednosti, ali je coin izgubio dio svoje kolekcionarske vrijednosti."
+categories: ["kripto"]
 ---
 
 <small><em>Slika je simbolična.</em></small>

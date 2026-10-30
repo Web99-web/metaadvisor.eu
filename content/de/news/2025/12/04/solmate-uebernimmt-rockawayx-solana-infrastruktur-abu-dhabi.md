@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/solmate-rockawayx-solana-infrastructure-treasury-abu-dhabi"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Solmate-RockawayX.png"
-featured_image: "/images/Solmate-RockawayX.png"
-image: "/images/Solmate-RockawayX.png"
-thumbnail: "/images/Solmate-RockawayX.png"
+image_url: "/images/Solmate-RockawayX.webp"
+featured_image: "/images/Solmate-RockawayX.webp"
+image: "/images/Solmate-RockawayX.webp"
+thumbnail: "/images/Solmate-RockawayX.webp"
 image_alt: "Solmate und RockawayX Übernahme"
 image_credit: "Metaadvisor.eu"
 
@@ -31,6 +31,7 @@ tags:
   - marktanalyse
 
 summary: "Solmate aus Abu Dhabi plant die Übernahme von RockawayX aus Tschechien – ein Zusammenschluss, der eine der größten Solana-Infrastrukturplattformen weltweit schaffen könnte."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"

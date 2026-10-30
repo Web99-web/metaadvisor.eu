@@ -7,6 +7,7 @@ tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1c858c0bc20cb3b45571d51b93c2291f63a68d83-5184x2916.jpg"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/08/21/state-street-expands-custody-to-tokenized-debt-on-jpmorgan-s-blockchain-platform"
+categories: ["crypto"]
 ---
 
 State Street, eine in Boston ansässige Depotbank mit 49 Billionen USD an verwahrten Vermögenswerten, dringt tiefer in den Bereich der digitalen Vermögenswerte vor, indem sie sich JPMorgans blockchainbasierter Plattform für tokenisierte Vermögenswerte **Digital Debt Service** als erster externer Verwahrer anschließt.

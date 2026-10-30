@@ -7,14 +7,15 @@ translationKey: "ftx_lessons_history_20251126"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/FTX-bankruptsy.png"
-featured_image: "/images/FTX-bankruptsy.png"
-image: "/images/FTX-bankruptsy.png"
-thumbnail: "/images/FTX-bankruptsy.png"
+image_url: "/images/FTX-bankruptsy.webp"
+featured_image: "/images/FTX-bankruptsy.webp"
+image: "/images/FTX-bankruptsy.webp"
+thumbnail: "/images/FTX-bankruptsy.webp"
 image_alt: "FTX bankrot – objašnjenje i posljedice"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ftx", "bankrot", "sam bankman-fried", "sbf", "bitcoin", "btc", "kriptotržište", "kripto", "crypto", "ustanova", "regulacija", "transparentnost", "burze", "sigurnost", "defi", "lessons learned", "financije"]
 summary: "FTX bankrot ostao je najveći krah u povijesti kripta. Donosimo pregled što se dogodilo, zašto je eksplodiralo u 72 sata i koje lekcije industrija mora naučiti."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

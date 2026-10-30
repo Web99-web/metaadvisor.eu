@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "Bitcoin ETF", "ETF-Zuflüsse", "Ethereum", "Ethereum ETF", "Solana", "XRP", "Kryptomarkt", "asiatische Märkte", "KOSPI", "Nikkei 225", "KI", "Technologieaktien", "Halbleiter", "Kapitalrotation", "Market Focus"]
 description: "US-Spot-Bitcoin-ETFs verzeichnen den achten Tag in Folge Nettozuflüsse, während BTC erneut 80.000 Dollar testet, Ethereum 2.566 Dollar erreicht, Solana 106 Dollar und XRP 1,44 Dollar."
 summary: "Bitcoin-ETFs verlängerten ihre Serie von Nettozuflüssen auf acht Tage, BTC testete erneut 80.000 Dollar, Ethereum erreichte rund 2.566 Dollar, Solana rund 106 Dollar und XRP rund 1,44 Dollar."
+categories: ["Crypto"]
 ---
 
 *Das Bild ist symbolisch.*

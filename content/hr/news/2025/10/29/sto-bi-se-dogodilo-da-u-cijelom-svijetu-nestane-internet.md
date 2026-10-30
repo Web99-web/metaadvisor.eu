@@ -15,6 +15,7 @@ image_alt: "Globalni kolaps interneta — simbolična ilustracija"
 image_credit: "Ilustracija — Metaadvisor.eu (simbolična slika)"
 tags: ["internet","kolaps","otpornost","cloud","Microsoft","Amazon","AWS","Azure","banke","plaćanja","gotovina","offline","zalihe","DePIN","kriptovalute","globalno"]
 summary: "Što bi se dogodilo da internet nestane u cijelom svijetu? Globalni kolaps je malo vjerojatan jer internet nije centraliziran, ali lokalni prekidi sve češće pokazuju koliko je društvo ranjivo."
+categories: ["policy"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

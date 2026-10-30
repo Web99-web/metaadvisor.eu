@@ -15,6 +15,7 @@ image_alt: "Coinbase ermöglicht Kredite mit gestaktem Ethereum ohne Verkauf von
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Die US-Kryptobörse Coinbase erlaubt Kredite bis zu 1 Million USD, abgesichert durch gestaktes Ethereum, ohne dass ETH verkauft werden muss."
 tags: ["coinbase", "ethereum", "eth", "staking", "krypto-kredit", "crypto lending", "tradfi", "defi", "blockchain"]
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

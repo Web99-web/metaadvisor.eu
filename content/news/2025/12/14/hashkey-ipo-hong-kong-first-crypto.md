@@ -16,6 +16,7 @@ image_alt: "HashKey IPO Hong Kong – first fully crypto-native IPO in Asia"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["hashkey","ipo","hong kong","crypto","exchange","regulation","defi","web3","asia","institutional capital"]
 summary: "HashKey plans to become Hong Kong’s first fully crypto-native IPO, testing whether a compliance-first crypto model can win the trust of public markets."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

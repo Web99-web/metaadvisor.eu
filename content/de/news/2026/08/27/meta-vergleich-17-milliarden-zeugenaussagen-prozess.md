@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "meta-17b-settlement-testimony-2026-08-27"
 source: "California Attorney General, Meta, Reuters, AP, The Guardian, WIRED, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-17b-court-case.png"
-featured_image: "/images/Meta/Meta-17b-court-case.png"
-image: "/images/Meta/Meta-17b-court-case.png"
-thumbnail: "/images/Meta/Meta-17b-court-case.png"
+image_url: "/images/Meta/Meta-17b-court-case.jpg"
+featured_image: "/images/Meta/Meta-17b-court-case.jpg"
+image: "/images/Meta/Meta-17b-court-case.jpg"
+thumbnail: "/images/Meta/Meta-17b-court-case.jpg"
 image_alt: "Meta stimmt nach unangenehmen Zeugenaussagen einem gerichtlichen Vergleich von bis zu 17 Milliarden Dollar zu"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Meta", "Facebook", "Instagram", "Vergleich", "Gerichtsverfahren", "Zeugenaussagen", "Mark Zuckerberg", "Adam Mosseri", "Arturo Béjar", "George Volichenko", "Francesco Fogu", "Kindersicherheit", "Social-Media-Sucht", "Datenschutz", "Regulierung", "Technologiekonzerne"]
 description: "Meta hat nach nur wenigen Tagen eines Gerichtsverfahrens einem Vergleich von bis zu 17 Milliarden Dollar zugestimmt. Ehemalige und aktuelle Mitarbeiter sagten über Kindersicherheit, Engagement und interne Entscheidungen des Konzerns aus."
 summary: "Der Prozess gegen Meta sollte noch mehrere Wochen dauern, und auch Mark Zuckerberg stand auf der Zeugenliste. Nach unangenehmen Aussagen stimmte Meta einem Vergleich von bis zu 17 Milliarden Dollar zu. Der garantierte Teil wird jedoch über zehn Jahre gezahlt, und ein Teil des maximalen Betrags muss möglicherweise nie gezahlt werden."
+categories: ["Technology"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -162,7 +163,7 @@ Im Gegenzug erhält Meta jedoch Planungssicherheit über einen erheblichen Teil 
 Wir haben außerdem eine eigene Geschichte über Metas Video-Selfie-Verfahren und Gesichtsaufnahmen veröffentlicht: Was macht Meta mit der eigentlichen Aufnahme und den Daten, die daraus entstehen können? Wie lange werden sie gespeichert, wann werden sie gelöscht, entstehen daraus biometrische oder andere abgeleitete Daten – und werden diese nur von Metas eigenen Systemen und Mitarbeitern verarbeitet oder auch von externen Unternehmen?
 
 <a href="https://metaadvisor.eu/de/news/was-meta-facebook-instagram-mit-ihrer-gesichtsaufnahme-macht/" target="_blank" rel="noopener">
-<img src="/images/Meta/Meta-face-recording.png"
+<img src="/images/Meta/Meta-face-recording.webp"
      alt="Was macht Meta mit der Aufnahme Ihres Gesichts?"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

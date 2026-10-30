@@ -28,6 +28,7 @@ tags:
   - groww
   - ecommerce
 summary: "Flipkart je u poodmakloj fazi dobivanja odobrenja za premještaj sjedišta iz Singapura u Indiju, s ciljem dovršetka do kraja godine i pripremom za domaći IPO već 2026."
+categories: ["ai"]
 ---
 
 **Kratko:** **Flipkart** (u vlasništvu **Walmarta**) ulazi u završnicu **premještaja sjedišta** iz **Singapura u Indiju** kako bi se pripremio za **IPO u Indiji** (moguće već **2026.**). Prema TechCrunchu, stiglo je **načelno odobrenje suda u Singapuru**, a u Indiji su održana ročišta pred **NCLAT-om**. Plan je dovršiti tranziciju **u idućim mjesecima**, sinkronizirano s **blagdanskom sezonom** — ključnim razdobljem prodaje.

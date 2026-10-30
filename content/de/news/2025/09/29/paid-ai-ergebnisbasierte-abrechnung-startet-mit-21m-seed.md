@@ -28,6 +28,7 @@ tags:
   - Seed
 
 summary: "Outreach-Gründer Manny Medina kehrt mit Paid zurück: keine Agenten, sondern Abrechnungs-Rails für deren Hersteller. Die Firma schließt eine überzeichnete Seed-Runde über 21,6 Mio. $ ab, um ‘ergebnisbasierte Abrechnung’ zu standardisieren."
+categories: ["ai"]
 ---
 
 > Bild ist symbolisch.

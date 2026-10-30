@@ -7,14 +7,15 @@ translationKey: "revolut-commodities-crypto-direct-exchange-2026-06-08"
 source: "Revolut, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Revolut.png"
-featured_image: "/images/Revolut.png"
-image: "/images/Revolut.png"
-thumbnail: "/images/Revolut.png"
+image_url: "/images/Revolut.webp"
+featured_image: "/images/Revolut.webp"
+image: "/images/Revolut.webp"
+thumbnail: "/images/Revolut.webp"
 image_alt: "Revolut notice about changes to commodities and crypto exchanges"
 image_credit: "Metaadvisor.eu"
 tags: ["Revolut", "crypto", "kripto", "commodities", "roba", "zlato", "srebro", "fiat", "EUR", "USD", "GBP", "MiCA", "CySEC", "fintech", "digitalna imovina", "kriptoimovina", "naknade", "auto-exchange", "regulacija", "investiranje", "Metaadvisor"]
 summary: "Revolut od 15. srpnja 2026. ukida direktne zamjene između commodities i crypto imovine. Korisnici će ubuduće morati ići preko fiat valute, što može značiti više koraka, manje jednostavnosti i moguće dodatne naknade."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

@@ -6,15 +6,16 @@ category: "fintech"
 translationKey: "revolut-uk-bank-license-2026"
 author: "Metaadvisor.eu"
 source: "CoinDesk, Cointelegraph"
-image_url: "/images/Revolut-UK-bank.png"
-featured_image: "/images/Revolut-UK-bank.png"
-image: "/images/Revolut-UK-bank.png"
-thumbnail: "/images/Revolut-UK-bank.png"
+image_url: "/images/Revolut-UK-bank.webp"
+featured_image: "/images/Revolut-UK-bank.webp"
+image: "/images/Revolut-UK-bank.webp"
+thumbnail: "/images/Revolut-UK-bank.webp"
 image_alt: "Revolut erhält Banklizenz im Vereinigten Königreich"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["revolut", "fintech", "digitale bank", "banklizenz", "uk banken", "finanzregulierung", "digitales banking", "fintech europa", "krypto fintech"]
 summary: "Das Fintech-Unternehmen Revolut hat eine vollständige Banklizenz im Vereinigten Königreich erhalten. Kundeneinlagen erhalten damit denselben Schutz wie bei traditionellen Banken."
 symbolic_image: true
+categories: ["fintech"]
 ---
 
 Symbolbild.

@@ -6,15 +6,16 @@ category: "crypto"
 translationKey: "powercompute-bitcoin-credit-18m-2percent-2026-08-13"
 source: "PowerCompute, SEC, Arch Lending, Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/news/BTC-credit-loan-18m-2percent.png"
-featured_image: "/images/news/BTC-credit-loan-18m-2percent.png"
-image: "/images/news/BTC-credit-loan-18m-2percent.png"
-thumbnail: "/images/news/BTC-credit-loan-18m-2percent.png"
+image_url: "/images/news/BTC-credit-loan-18m-2percent.webp"
+featured_image: "/images/news/BTC-credit-loan-18m-2percent.webp"
+image: "/images/news/BTC-credit-loan-18m-2percent.webp"
+thumbnail: "/images/news/BTC-credit-loan-18m-2percent.webp"
 image_alt: "Bitcoin als Sicherheit für die Refinanzierung von 18 Millionen US-Dollar Schulden zu einem anfänglichen Zinssatz von 2 Prozent"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Bitcoin", "BTC", "PowerCompute", "Arch Lending", "Bitcoin-Kredit", "Bitcoin-Sicherheit", "Krypto-Kredite", "Refinanzierung", "Nasdaq", "Unternehmensfinanzierung"]
 description: "PowerCompute hat 307 Bitcoin als Sicherheit hinterlegt und mehr als 18 Millionen US-Dollar Schulden zu einem anfänglichen Zinssatz von nur 2 Prozent refinanziert. Doch der niedrige Zinssatz hat einen Haken."
 summary: "Das Nasdaq-Unternehmen PowerCompute nutzt 307 BTC als Sicherheit für einen Kredit, mit dem rund 18 Millionen US-Dollar bestehender Schulden ersetzt wurden. Der anfängliche Zinssatz beträgt nur 2 Prozent, doch es handelt sich um eine spezielle Collar-Struktur, die einen Teil des möglichen Gewinns bei einem starken Bitcoin-Anstieg begrenzt."
+categories: ["crypto"]
 ---
 
 *Das Bild dient nur zur Illustration.*

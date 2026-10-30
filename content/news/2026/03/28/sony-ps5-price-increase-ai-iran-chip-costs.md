@@ -8,14 +8,15 @@ author: "The Guardian Tech"
 analysis_by: "Metaadvisor.eu"
 source: "The Guardian Tech"
 source_url: ""
-image_url: "/images/companies/PS5-100usd-more.png"
-featured_image: "/images/companies/PS5-100usd-more.png"
-image: "/images/companies/PS5-100usd-more.png"
-thumbnail: "/images/companies/PS5-100usd-more.png"
+image_url: "/images/companies/PS5-100usd-more.webp"
+featured_image: "/images/companies/PS5-100usd-more.webp"
+image: "/images/companies/PS5-100usd-more.webp"
+thumbnail: "/images/companies/PS5-100usd-more.webp"
 image_alt: "PS5 price increase due to AI demand and global chip costs"
 image_credit: "MetaAdvisor.eu"
 tags: ["sony", "ps5", "ai", "semiconductors", "chips", "gaming", "inflation", "technology", "war", "economy"]
 summary: "Sony is raising PS5 prices by $100 as rising chip costs—driven by AI demand and geopolitical tensions—put pressure on global supply chains."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

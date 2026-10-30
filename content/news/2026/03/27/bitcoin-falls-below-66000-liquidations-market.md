@@ -15,6 +15,7 @@ image_alt: "Bitcoin price drop and market liquidations"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "liquidations", "market", "etf", "inflation", "fed", "interest rates", "cryptocurrency"]
 summary: "Bitcoin has fallen below $66,000, reaching around $65,760, with over $300 million in liquidations as macro pressure and ETF outflows increase market instability."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

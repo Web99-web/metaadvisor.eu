@@ -7,13 +7,14 @@ translationKey: "google_dark_web_report_shutdown_16122025_de"
 source: "TechCrunch"
 source_url: "https://techcrunch.com"
 author: "MetaAdvisor.eu — Analyse"
-image_url: "/images/dark-web-safty.png"
-featured_image: "/images/dark-web-safty.png"
-image: "/images/dark-web-safty.png"
-thumbnail: "/images/dark-web-safty.png"
+image_url: "/images/dark-web-safty.webp"
+featured_image: "/images/dark-web-safty.webp"
+image: "/images/dark-web-safty.webp"
+thumbnail: "/images/dark-web-safty.webp"
 image_alt: "Digitale Sicherheitsgrafik zum Dark Web"
 tags: ["datensicherheit","dark web","datenleck","google","cybersicherheit","privatsphäre","online-sicherheit","identitätsschutz"]
 summary: "Google stellt seinen ‘Dark Web Report’ ein. Nutzer müssen nun alternative Tools verwenden, um zu prüfen, ob ihre E-Mail oder Passwörter im Dark Web gelandet sind."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -14,6 +14,7 @@ image_alt: "Integration von ChatGPT mit Binance- und Bybit-API"
 image_credit: "Metaadvisor.eu"
 tags: ["chatgpt", "api", "binance", "bybit", "ai", "trading", "automation", "crypto"]
 summary: "ChatGPT kann über API-Schlüssel mit Börsen wie Binance und Bybit verbunden werden, um Märkte zu analysieren, Signale zu senden und Strategien zu testen – jedoch immer mit Vorsicht und ohne vertrauliche Daten preiszugeben."
+categories: ["ai"]
 ---
 
 Die **künstliche Intelligenz** wird zunehmend in den Handel und die Marktanalyse integriert.  

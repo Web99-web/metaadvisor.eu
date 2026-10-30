@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/11b-bitcoin-whale-235m-btc-short-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/whale-235m-short.png"
-featured_image: "/images/whale-235m-short.png"
-image: "/images/whale-235m-short.png"
-thumbnail: "/images/whale-235m-short.png"
+image_url: "/images/whale-235m-short.webp"
+featured_image: "/images/whale-235m-short.webp"
+image: "/images/whale-235m-short.webp"
+thumbnail: "/images/whale-235m-short.webp"
 image_alt: "Bitcoin whale — $235M short, illustrative graphic"
 image_credit: "Illustrative image."
 tags: ["bitcoin", "btc", "crypto", "perpetuals", "short", "leverage", "derivatives", "coinglass", "market crash", "liquidations", "funding", "open interest"]
 summary: "A large market participant opened a ~$235M nominal short on Bitcoin. Market data indicate the entry was around $111,190 per BTC with roughly 10× leverage."
+categories: ["crypto"]
 ---
 
 A major crypto **whale** has opened a **short position** on **Bitcoin** with a **nominal size of about $235 million**. Based on available market data, the short was initiated **around $111,190 per BTC** with approximately **10× leverage**. The move follows reports that the same actor **booked roughly $200 million** during the recent market sell-off, suggesting expectations of **further weakness** or at least a **retest** of lower levels.

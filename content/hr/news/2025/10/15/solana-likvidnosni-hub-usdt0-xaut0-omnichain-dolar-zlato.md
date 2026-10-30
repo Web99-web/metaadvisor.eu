@@ -16,6 +16,7 @@ image_alt: "Solana kao likvidnosni hub za omnichain dolar (USDT0) i zlato (XAUt0
 image_credit: "Slika je simbolična."
 tags: ["Solana", "USDT0", "XAUt0", "omnichain", "likvidnost", "stablecoin", "tokenizirano zlato", "interoperabilnost", "DeFi", "bridges", "kolateral", "plaćanja"]
 summary: "Solana se pozicionira kao ‘likvidnosni hub’ za omnichain imovinu: USDT0 (dolar) i XAUt0 (zlato) ciljaju jedinstvenu likvidnost preko više lanaca uz manje trenja i niže troškove."
+categories: ["crypto"]
 ---
 
 Solana se izdvaja kao **likvidnosni hub** za novu generaciju **omnichain** imovine. Lansiranje **USDT0** (dolar-stablecoin) i **XAUt0** (tokenizirano zlato) cilja **jedinstvenu likvidnost** istog tokena preko više lanaca — bez oslanjanja na klasične, rizičnije mostove. Ideja je da **isti token** cirkulira među mrežama, uz zadržavanje **jednog identiteta i jednog “poola” likvidnosti**.

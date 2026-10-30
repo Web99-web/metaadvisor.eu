@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "0a9cb5dd-f22b-4c28-9d3b-bc2a92c5d8b0"
 source: "Cointelegraph, Reuters, Mi Primer Bitcoin"
 author: "Metaadvisor.eu"
-image_url: "/images/El-Salvador-skolaBTC.png"
-featured_image: "/images/El-Salvador-skolaBTC.png"
-image: "/images/El-Salvador-skolaBTC.png"
-thumbnail: "/images/El-Salvador-skolaBTC.png"
+image_url: "/images/El-Salvador-skolaBTC.webp"
+featured_image: "/images/El-Salvador-skolaBTC.webp"
+image: "/images/El-Salvador-skolaBTC.webp"
+thumbnail: "/images/El-Salvador-skolaBTC.webp"
 image_alt: "Zastava El Salvadora i Bitcoin simbol"
 image_credit: "Slika je simbolična."
 tags: ["el salvador", "bitcoin", "btc", "bukele", "obrazovanje", "school", "crypto", "kripto edukacija", "financijska pismenost"]
 summary: "El Salvador postaje prva država na svijetu koja uvodi Bitcoin u javni školski program. Nakon pilota u 50 škola, kurikulum se širi na nacionalnu razinu."
+categories: ["crypto"]
 ---
 
 **El Salvador** je službeno postao prva država koja uvodi **Bitcoin edukaciju u javne škole**. Ministarstvo obrazovanja, u suradnji s udrugom *Mi Primer Bitcoin*, provelo je pilot-program u pedesetak škola, a sada se kurikulum širi na nacionalnu razinu.

@@ -18,6 +18,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Zcash", "ZEC", "kriptovalute", "crypto tržište", "futures", "spot trgovanje", "open interest", "short squeeze", "NU7", "Zcash glasovanje", "privacy coins", "Zcash ETF", "Grayscale", "Europska unija", "EU regulativa", "Bitcoin", "BTC"]
 description: "ZEC raste protiv ostatka crypto tržišta dok je futures promet gotovo deset puta veći od spota. NU7 rezultati bili su javni 14. rujna, a veliki medijski val stigao je 16. rujna."
 summary: "Zcash se 16. rujna snažno odvojio od BTC-a, ETH-a i SOL-a. Futures promet približio se 10 milijardi dolara, NU7 glasovanje otvorilo je pitanja o utjecaju velikih holdera, a u pozadini ostaje EU regulatorni rizik od srpnja 2027."
+categories: ["Kriptovalute"]
 ---
 
 *Slika je simbolična.*

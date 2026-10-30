@@ -16,6 +16,7 @@ image_alt: "Ethereum und der Druck auf unternehmensweite Krypto-Treasuries"
 image_credit: "MetaAdvisor Illustration"
 tags: ["ethereum", "ether", "krypto-treasury", "unternehmen", "altcoins", "finanzen", "verschuldung"]
 summary: "ETHZilla verkaufte Ether im Wert von 74,5 Millionen US-Dollar zur Reduzierung von Verbindlichkeiten – ein weiteres Signal, dass sich das Krypto-Treasury-Modell im Jahr 2025 grundlegend verändert."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

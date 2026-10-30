@@ -15,6 +15,7 @@ image_alt: "Bitcoin market and volatility"
 image_credit: "MetaAdvisor / AI-generated"
 tags: ["bitcoin", "btc", "crypto", "market", "equities", "analysis", "institutions", "volatility", "battle"]
 summary: "Bitcoin appears to be underperforming equities — but could the real story be a redistribution battle and institutional accumulation behind the scenes?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

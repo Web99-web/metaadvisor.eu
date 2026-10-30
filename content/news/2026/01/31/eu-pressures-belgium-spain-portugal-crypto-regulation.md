@@ -24,6 +24,7 @@ tags:
   - regulation
   - europe
 summary: "The European Commission is pressuring Belgium, Spain, Portugal and nine other member states over the failure to implement crypto tax transparency rules and the MiCA framework."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

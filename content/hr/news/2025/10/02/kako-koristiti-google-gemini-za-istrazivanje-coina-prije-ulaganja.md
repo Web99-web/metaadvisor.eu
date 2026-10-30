@@ -35,6 +35,7 @@ tags:
   - matrix
   - kripto-vodic
 summary: "Praktični workflow kako koristiti Google Gemini za brzu, a temeljitu provjeru coina prije ulaganja — konkretni prompti, izvori podataka, on-chain i fundamentalne checkliste te crvene zastavice."
+categories: ["news"]
 ---
 
 **Gemini** može ubrzati tvoj **kripto due diligence**, ali ključ je tražiti **provjerljive izvore**, zadržati **kritički filter** i rezultate **ukrstiti s podacima** (CoinGecko, DeFiLlama, Token Terminal, GitHub…). U nastavku je **korak-po-korak** workflow i gotovi **prompte** (copy/paste) za praktičan rad u Geminiju.

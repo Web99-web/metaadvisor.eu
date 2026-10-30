@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/eu-chat-control-privacy-warning-web3-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/eu-chat-control-sigurno-nadzorovano.png"
-featured_image: "/images/eu-chat-control-sigurno-nadzorovano.png"
-image: "/images/eu-chat-control-sigurno-nadzorovano.png"
-thumbnail: "/images/eu-chat-control-sigurno-nadzorovano.png"
+image_url: "/images/eu-chat-control-sigurno-nadzorovano.webp"
+featured_image: "/images/eu-chat-control-sigurno-nadzorovano.webp"
+image: "/images/eu-chat-control-sigurno-nadzorovano.webp"
+thumbnail: "/images/eu-chat-control-sigurno-nadzorovano.webp"
 image_alt: "EU Chat Control — ilustracija"
 image_credit: "Metaadvisor (simbolična slika)"
 tags: ["EU", "Chat-Control", "privatnost", "cenzura", "regulacija", "Web3", "blockchain", "sloboda-govora", "politika", "nadzor"]
 summary: "Stručnjaci upozoravaju da bi predloženi zakon o Chat Controlu mogao ugroziti privatnost i potaknuti korisnike da pređu na Web3 alate i blockchain-based komunikacijske mreže."
+categories: ["news"]
 ---
 
 **Kratko:**  

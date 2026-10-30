@@ -15,6 +15,7 @@ image_alt: "Illustration einer dezentralen Futures-Börse (Hyperliquid)"
 image_credit: "MetaAdvisor.eu / symbolische Illustration"
 summary: "Hyperliquid hebt sich zunehmend als führende dezentrale Plattform für Futures-Handel ab, während das Handelsvolumen konkurrierender Perp-DEXs zurückgeht. Der Markt für dezentrale Derivate tritt in eine Phase der Konsolidierung ein, in der Liquidität und Zuverlässigkeit entscheidend werden."
 tags: ["crypto", "krypto", "dex", "perpetuals", "futures", "defi", "derivate", "handel", "hyperliquid", "handelsvolumen"]
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

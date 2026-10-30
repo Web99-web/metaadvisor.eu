@@ -8,10 +8,10 @@ translationKey: "dat-konsolidacija"
 author: "Metaadvisor.eu"
 source: "CoinDesk, Metaadvisor-Analyse"
 source_url: ""
-image_url: "/images/DAT-digital-asset-treasuries.png"
-featured_image: "/images/DAT-digital-asset-treasuries.png"
-image: "/images/DAT-digital-asset-treasuries.png"
-thumbnail: "/images/DAT-digital-asset-treasuries.png"
+image_url: "/images/DAT-digital-asset-treasuries.webp"
+featured_image: "/images/DAT-digital-asset-treasuries.webp"
+image: "/images/DAT-digital-asset-treasuries.webp"
+thumbnail: "/images/DAT-digital-asset-treasuries.webp"
 image_alt: "Digital Asset Treasuries"
 image_credit: "Metaadvisor.eu"
 
@@ -29,6 +29,7 @@ tags:
   - Tokenomics
 
 summary: "DAT-Firmen halten bereits über 100 Mrd. USD an Krypto. Sie wandeln sich von ‘Hodlern’ zu operativen Akteuren – und stoßen mit Deals wie Strive–Semler eine Konsolidierungswelle an."
+categories: ["crypto"]
 ---
 
 ## Neue Phase der DATs

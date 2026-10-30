@@ -15,6 +15,7 @@ image_alt: "Ledger crypto hardware wallet"
 image_credit: "Metaadvisor.eu"
 tags: ["ledger", "crypto", "security", "wallet", "nyse", "hardware"]
 summary: "French hardware wallet maker Ledger is considering a New York Stock Exchange listing after record revenues driven by surging crypto hacks and rising demand for cold-storage solutions."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

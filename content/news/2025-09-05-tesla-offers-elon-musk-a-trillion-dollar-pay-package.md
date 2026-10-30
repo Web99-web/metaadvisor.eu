@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/05/tesla-elon-musk-
 summary: "CEO must raise Tesla’s value from just over $1 trn to $8.5 trn within 10 years."
 tags: ["tesla", "elon musk", "stocks", "EV", "trillionaire"]
 image_url: "https://www.pexels.com/photo/person-sitting-inside-car-2526127/"
+categories: ["news"]
 ---
 
 **Elon Musk** could become the world’s first **trillionaire** if he achieves the targets set by Tesla under the most ambitious compensation plan ever proposed.  

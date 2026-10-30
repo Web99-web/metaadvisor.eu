@@ -7,10 +7,10 @@ translationKey: "f1a8d9b0b7e84d6b9c1f0a2dohio-btc-taxes-2025"
 source: "Official notices & media reports (synthesis)"
 source_url: "https://ohio.gov"
 author: "Metaadvisor.eu"
-image_url: "/images/Ohio.png"
-featured_image: "/images/Ohio.png"
-image: "/images/Ohio.png"
-thumbnail: "/images/Ohio.png"
+image_url: "/images/Ohio.webp"
+featured_image: "/images/Ohio.webp"
+image: "/images/Ohio.webp"
+thumbnail: "/images/Ohio.webp"
 image_alt: "Ohio skyline with Bitcoin symbol — crypto payments for state fees"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags:
@@ -25,6 +25,7 @@ tags:
   - usa
   - adoption
 summary: "Ohio has approved a payment processor for crypto remittances of state fees and services. Citizens can pay in Bitcoin while the state receives USD after instant conversion."
+categories: ["crypto"]
 ---
 
 Ohio has taken a step toward **accepting crypto for state fees**: the State Board of Deposit approved a **payment processor (vendor)** that will accept crypto and **convert it to USD in real time**. This lets citizens and businesses choose **Bitcoin** (and potentially other supported assets) while the **state treasury still receives dollars**.

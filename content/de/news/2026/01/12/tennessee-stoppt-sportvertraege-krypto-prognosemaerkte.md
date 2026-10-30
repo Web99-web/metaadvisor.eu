@@ -7,10 +7,10 @@ translationKey: "tennessee_stops_sports_prediction_contracts_2026"
 source: "MetaAdvisor Analyse (basierend auf CoinDesk und regulatorischen Dokumenten)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Tennessee-vs-sporting-prediction-market.png"
-featured_image: "/images/Tennessee-vs-sporting-prediction-market.png"
-image: "/images/Tennessee-vs-sporting-prediction-market.png"
-thumbnail: "/images/Tennessee-vs-sporting-prediction-market.png"
+image_url: "/images/Tennessee-vs-sporting-prediction-market.webp"
+featured_image: "/images/Tennessee-vs-sporting-prediction-market.webp"
+image: "/images/Tennessee-vs-sporting-prediction-market.webp"
+thumbnail: "/images/Tennessee-vs-sporting-prediction-market.webp"
 image_alt: "Regulierungsbehörde in Tennessee stoppt Sportverträge auf Krypto-Prognosemärkten"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -26,6 +26,7 @@ tags:
   - polymarket
   - crypto_com
 summary: "Der US-Bundesstaat Tennessee hat die Aussetzung von Sportverträgen auf Krypto-Prognosemärkten wie Kalshi, Polymarket und Crypto.com angeordnet. Die Entscheidung wirft die Frage auf, wo finanzielle Innovation endet und klassisches Glücksspiel beginnt."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

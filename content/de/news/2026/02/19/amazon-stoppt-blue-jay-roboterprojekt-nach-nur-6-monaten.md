@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Amazon-Blu-Jay-robots.png"
-featured_image: "/images/Amazon-Blu-Jay-robots.png"
-image: "/images/Amazon-Blu-Jay-robots.png"
-thumbnail: "/images/Amazon-Blu-Jay-robots.png"
+image_url: "/images/Amazon-Blu-Jay-robots.jpg"
+featured_image: "/images/Amazon-Blu-Jay-robots.jpg"
+image: "/images/Amazon-Blu-Jay-robots.jpg"
+thumbnail: "/images/Amazon-Blu-Jay-robots.jpg"
 image_alt: "Amazon stoppt Blue-Jay-Roboterprojekt"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["amazon", "blue jay", "robotik", "künstliche intelligenz", "ai", "automatisierung", "logistik", "technologie", "future tech", "roboter"]
 summary: "Amazon hat das Blue-Jay-Roboterprojekt nach nur sechs Monaten gestoppt – ein Schritt, der Fragen zur realen Geschwindigkeit der KI-Entwicklung und zur Wirtschaftlichkeit solcher Experimente aufwirft."
+categories: ["ai"]
 ---
 
 <p style="font-size:12px; opacity:0.7; margin-top:-10px;">Das Bild ist symbolisch.</p>

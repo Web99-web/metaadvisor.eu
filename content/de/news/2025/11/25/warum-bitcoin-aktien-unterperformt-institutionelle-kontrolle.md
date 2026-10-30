@@ -15,6 +15,7 @@ image_alt: "Bitcoin Markt und Volatilität"
 image_credit: "MetaAdvisor / KI-generiert"
 tags: ["bitcoin", "krypto", "markt", "aktien", "institutionen", "volatilität", "analyse"]
 summary: "Bitcoin scheint hinter Aktien zurückzubleiben – aber könnten im Hintergrund nicht Schwäche, sondern Machtkämpfe und stille institutionelle Akquise laufen?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

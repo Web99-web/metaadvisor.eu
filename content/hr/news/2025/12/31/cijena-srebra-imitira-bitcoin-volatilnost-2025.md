@@ -7,10 +7,10 @@ translationKey: "silver_bitcoin_volatility_31122025"
 source: "MetaAdvisor analiza — na temelju Cointelegraph izvještaja"
 source_url: "https://cointelegraph.com/news/silver-price-surge-bitcoin-crypto-volatility"
 author: "Metaadvisor.eu"
-image_url: "/images/silver.png"
-featured_image: "/images/silver.png"
-image: "/images/silver.png"
-thumbnail: "/images/silver.png"
+image_url: "/images/silver.webp"
+featured_image: "/images/silver.webp"
+image: "/images/silver.webp"
+thumbnail: "/images/silver.webp"
 image_alt: "Srebro pokazuje volatilnost nalik Bitcoinu krajem 2025."
 tags:
   - silver
@@ -20,6 +20,7 @@ tags:
   - inflation
   - volatility
 summary: "Srebro je krajem 2025. pokazalo ekstremne cjenovne oscilacije nalik Bitcoinu, potaknute monetarnim očekivanjima, industrijskom potražnjom i slabljenjem povjerenja u američki dolar."
+categories: ["crypto"]
 ---
 
 Cijena srebra posljednjih dana ponaša se na način koji je investitorima u kriptovalute itekako poznat. Nagli skokovi, jednako brzi padovi i snažne intradnevne oscilacije pretvorili su tradicionalno “stabilan” plemeniti metal u imovinu čija dinamika sve više podsjeća na Bitcoin.

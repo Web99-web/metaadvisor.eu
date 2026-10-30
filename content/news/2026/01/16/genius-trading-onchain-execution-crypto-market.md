@@ -7,10 +7,10 @@ translationKey: "genius_trading_onchain_execution_20260116"
 source: "Cointelegraph / MetaAdvisor analysis"
 source_url: "https://cointelegraph.com/news/yzi-labs-investment-genius-cross-chain-trading-terminal"
 author: "MetaAdvisor.eu"
-image_url: "/images/Genius-trading.png"
-featured_image: "/images/Genius-trading.png"
-image: "/images/Genius-trading.png"
-thumbnail: "/images/Genius-trading.png"
+image_url: "/images/Genius-trading.webp"
+featured_image: "/images/Genius-trading.webp"
+image: "/images/Genius-trading.webp"
+thumbnail: "/images/Genius-trading.webp"
 image_alt: "Genius Trading as an onchain execution terminal between CEX and DEX worlds"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Genius Trading is neither a traditional exchange nor a typical DEX. It represents a new type of onchain execution terminal designed to solve fragmented liquidity and inefficient order execution across multiple blockchains."
@@ -22,6 +22,7 @@ tags:
   - dex
   - cex
   - infrastructure
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

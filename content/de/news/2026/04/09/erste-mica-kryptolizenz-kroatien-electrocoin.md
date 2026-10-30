@@ -7,14 +7,15 @@ translationKey: "9f3c1e7a5b2d4c8ea6f0b1d3c7a9e442"
 author: "Metaadvisor.eu"
 source: "HANFA, öffentlich verfügbare Daten"
 source_url: ""
-image_url: "/images/news/First-Mica-crypto licence-in-Croatia.png"
-featured_image: "/images/news/First-Mica-crypto licence-in-Croatia.png"
-image: "/images/news/First-Mica-crypto licence-in-Croatia.png"
-thumbnail: "/images/news/First-Mica-crypto licence-in-Croatia.png"
+image_url: "/images/news/First-Mica-crypto licence-in-Croatia.webp"
+featured_image: "/images/news/First-Mica-crypto licence-in-Croatia.webp"
+image: "/images/news/First-Mica-crypto licence-in-Croatia.webp"
+thumbnail: "/images/news/First-Mica-crypto licence-in-Croatia.webp"
 image_alt: "Erste MiCA-Kryptolizenz in Kroatien"
 image_credit: "Illustration"
 tags: ["krypto","crypto","mica","regulierung","electrocoin","hanfa","blockchain","markt","europaeische union","finanzen","casp"]
 summary: "Kroatien hat seinen ersten lizenzierten Anbieter von Kryptodienstleistungen nach der MiCA-Regulierung erhalten und bringt damit Krypto in ein offizielles und überwachtetes Finanzsystem."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

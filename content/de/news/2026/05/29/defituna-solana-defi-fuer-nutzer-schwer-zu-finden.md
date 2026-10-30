@@ -7,14 +7,15 @@ translationKey: "defituna-solana-defi-discovery-user-liquidity-problem-2026"
 source: "Metaadvisor (DeFiTuna, FusionAMM, Phantom)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/DeFiTuna-Solana.png"
-featured_image: "/images/companies/DeFiTuna-Solana.png"
-image: "/images/companies/DeFiTuna-Solana.png"
-thumbnail: "/images/companies/DeFiTuna-Solana.png"
+image_url: "/images/companies/DeFiTuna-Solana.webp"
+featured_image: "/images/companies/DeFiTuna-Solana.webp"
+image: "/images/companies/DeFiTuna-Solana.webp"
+thumbnail: "/images/companies/DeFiTuna-Solana.webp"
 image_alt: "DeFiTuna auf Solana und das Problem, DeFi-Protokolle für normale Nutzer zu finden"
 image_credit: "Metaadvisor.eu"
 tags: ["defituna", "tuna token", "fusionamm", "solana", "phantom wallet", "solflare", "backpack wallet", "jupiter", "amm", "automated market maker", "clmm", "konzentrierte liquidität", "lending", "leverage", "leveraged liquidity", "defi protokoll", "solana defi", "wallet", "dapp", "tvl", "total value locked", "liquidität", "phishing", "scam links", "crypto nutzer", "dezentralisierte applikationen"]
 summary: "DeFiTuna ist ein DeFi-Protokoll auf Solana, das konzentrierte Liquidität, Lending und gehebelte Positionen verbindet, zeigt aber auch ein größeres Problem der DeFi-Branche: Für normale Nutzer ist oft nicht klar, wie sie ein echtes Protokoll sicher finden, einen Token von einer Anwendung unterscheiden und ein Wallet ohne Risiko verbinden."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

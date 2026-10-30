@@ -16,6 +16,7 @@ image_alt: "ChatGPT kao operativni sustav – ilustracija"
 image_credit: "Metaadvisor.eu (slika simbolična)"
 tags: ["ai","openai","chatgpt","apps","operating-system","browser","Nick Turley","Jony Ive","hardware","GPT Store","plugins","developer-conference","ecosystem","platform-economy"]
 summary: "Nick Turley (OpenAI) želi od ChatGPT-a napraviti platformu s trećim aplikacijama — nalik 'operativnom sustavu' nad kojim se gradi ekosustav, po uzoru na web preglednike."
+categories: ["ai"]
 ---
 
 OpenAI-jev čelnik za ChatGPT **Nick Turley** iznio je viziju u kojoj se **ChatGPT pretvara u platformu punu trećih aplikacija** — svojevrsni „operativni sustav“ koji ne zamjenjuje Windows ili macOS, već postaje **glavno mjesto rada** kroz koje korisnici pokreću razne AI alate.

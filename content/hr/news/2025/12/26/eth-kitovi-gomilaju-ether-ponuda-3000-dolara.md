@@ -15,6 +15,7 @@ image_alt: "Ethereum akumulacija kitova i ponuda oko 3000 dolara"
 image_credit: "MetaAdvisor"
 tags: ["ethereum", "eth", "kripto", "kitovi", "on-chain", "defi", "staking", "tržište"]
 summary: "Veliki investitori posljednjih dana intenzivno akumuliraju Ether, dok se količina ETH-a na burzama smanjuje. Iako se cijena još uvijek bori s razinom od 3.000 dolara, on-chain podaci upućuju na jačanje pritiska ispod površine tržišta."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

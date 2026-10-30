@@ -6,15 +6,16 @@ category: "Markets"
 translationKey: "netherlands-moves-gold-from-us-to-europe-2026-09-03"
 source: "De Nederlandsche Bank, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Netherlands-moves-gold-from-US-to-Europe.png"
-featured_image: "/images/news/Netherlands-moves-gold-from-US-to-Europe.png"
-image: "/images/news/Netherlands-moves-gold-from-US-to-Europe.png"
-thumbnail: "/images/news/Netherlands-moves-gold-from-US-to-Europe.png"
+image_url: "/images/news/Netherlands-moves-gold-from-US-to-Europe.webp"
+featured_image: "/images/news/Netherlands-moves-gold-from-US-to-Europe.webp"
+image: "/images/news/Netherlands-moves-gold-from-US-to-Europe.webp"
+thumbnail: "/images/news/Netherlands-moves-gold-from-US-to-Europe.webp"
 image_alt: "Die Niederlande verlagern einen Teil ihrer Goldreserven aus den USA nach Europa und erhöhen den in London gelagerten Anteil"
 image_credit: "Metaadvisor.eu"
 tags: ["Niederlande", "Gold", "Goldreserven", "De Nederlandsche Bank", "DNB", "New York", "London", "Bank of England", "Zentralbanken", "geopolitisches Risiko", "Finanzmärkte", "Reserven", "USA", "Europa", "Liquidität", "sicherer Hafen"]
 description: "Die niederländische Zentralbank hat ihre in New York gelagerten Goldreserven um fast 80 Tonnen reduziert und den Anteil in London erhöht. Als Gründe nennt sie geopolitische Unsicherheit und eine bessere Vorbereitung auf schwere Krisen."
 summary: "Die DNB hat die geografische Verteilung ihrer 612,4 Tonnen Gold verändert. Der Anteil in New York sank von 31,3% auf 18,5%, während London zur größten ausländischen Lagerstätte des niederländischen Goldes wurde."
+categories: ["Markets"]
 ---
 
 *Das Bild dient nur zur Illustration.*

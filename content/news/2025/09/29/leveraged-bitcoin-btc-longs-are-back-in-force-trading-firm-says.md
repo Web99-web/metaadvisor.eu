@@ -16,6 +16,7 @@ image_alt: "Bitcoin with perpetual futures market metrics"
 image_credit: "Symbolic image: Metaadvisor.eu"
 tags: ["crypto","bitcoin","perpetuals","futures","open interest","funding rate","QCP Capital","Deribit","Hyperliquid","leverage","liquidations","Coinglass","markets"]
 summary: "QCP Capital says leveraged BTC longs are back: open interest in perpetuals is rising and funding rates have jumped to as high as 13% on leading venues. Despite $700M+ in long liquidations last week, sentiment has rebounded."
+categories: ["crypto"]
 ---
 
 **TL;DR:** Traders are re-establishing **aggressive long exposure** in **Bitcoin perpetuals**. **QCP Capital** reports rising **open interest** and **funding rates** across centralized and decentralized exchanges — a clearly **bullish** tilt.

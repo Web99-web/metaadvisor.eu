@@ -14,7 +14,8 @@ thumbnail: "/images/Hyperliquid.png"
 image_alt: "Ilustracija decentralizirane futures burze Hyperliquid"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 summary: "Hyperliquid se sve jasnije izdvaja kao vodeća decentralizirana platforma za futures trgovanje, dok konkurentskim perp DEX-ovima postupno pada volumen. Tržište decentraliziranih derivata ulazi u fazu konsolidacije u kojoj likvidnost i pouzdanost postaju ključni faktori."
-tags: ["crypto", "kripto", "hyperliquid", "promet", dex", "perpetuals", "futures", "defi", "derivati", "trgovanje"]
+tags: ["crypto", "kripto", "hyperliquid", "promet", "dex", "perpetuals", "futures", "defi", "derivati", "trgovanje"]
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -15,6 +15,7 @@ image_alt: "Kadena — vijest i analiza"
 image_credit: "Slika je simbolična."
 tags: ["kadena","kda","bitcoin","crypto","kripto","layer1","pow","foundation","shutdown","community","dao","fork","rudari","hashrate","exchange","delisting","wallet","open-source"]
 summary: "Organizacija iza Kadene gasi operativne aktivnosti, dok mreža tehnički nastavlja raditi. Analiziramo što to znači za KDA, rudare, burze i mogući community takeover."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

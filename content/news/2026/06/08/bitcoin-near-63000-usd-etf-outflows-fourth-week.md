@@ -15,6 +15,7 @@ image_alt: "Bitcoin finance market and ETF outflows"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "crypto", "Bitcoin ETF", "spot Bitcoin ETF", "ETF outflows", "BlackRock", "IBIT", "Fidelity", "FBTC", "Grayscale", "GBTC", "SoSoValue", "Farside Investors", "institutional investors", "macro risk", "interest rates", "liquidity", "risk-off", "digital assets", "Metaadvisor"]
 summary: "Bitcoin is trading near $63,000, but spot Bitcoin ETFs have recorded around $1.7 billion in weekly outflows — the fourth week in a row. The data suggests that institutional caution has not disappeared."
+categories: ["crypto"]
 ---
 
 The image is symbolic.

@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/crypto-market-sentiment-fear-altcoin
 summary: "Sentiment na kripto tržištu prešao je u ‘Fear’ dok se trgovci rotiraju iz rizičnijih altcoina prema većim imovinama poput BTC-a i ETH-a, pokazuju podaci Santimenta i indeks straha i pohlepe."
 tags: ["crypto", "bitcoin", "btc", "ethereum", "eth", "solana", "sol", "altcoins", "sentiment", "fear-and-greed", "santiment", "tržište"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["kripto"]
 ---
 
 Kripto sentiment prešao je u zonu **‘Fear’**, uz znakove da se investitori privremeno povlače s „donjeg kraja“ krivulje rizika i ponovno fokusiraju na **BTC** i **ETH**, navodi Santiment. Indeks **Crypto Fear & Greed** također pokazuje prelazak u ‘Fear’. 

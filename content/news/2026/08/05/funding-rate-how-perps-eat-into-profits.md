@@ -7,15 +7,16 @@ translationKey: "funding-rate-kako-perpsi-pojedu-dobit-2026-08-05"
 source: "Hyperliquid, Binance and publicly available documentation on perpetual futures contracts"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Funding-cost-perps.png"
-featured_image: "/images/informative/Funding-cost-perps.png"
-image: "/images/informative/Funding-cost-perps.png"
-thumbnail: "/images/informative/Funding-cost-perps.png"
+image_url: "/images/informative/Funding-cost-perps.webp"
+featured_image: "/images/informative/Funding-cost-perps.webp"
+image: "/images/informative/Funding-cost-perps.webp"
+thumbnail: "/images/informative/Funding-cost-perps.webp"
 image_alt: "Funding rates as the hidden cost of trading perpetual futures contracts"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["funding rate", "perpetual futures", "perps", "crypto trading", "leverage", "long position", "short position", "trading fees", "Hyperliquid", "Binance", "derivatives", "margin trading", "liquidation", "crypto risk", "risk management"]
 description: "Funding rates can gradually reduce profits on perpetual futures positions, especially when trades are held for a long time, use higher leverage or face elevated rates."
 summary: "Perpetual futures contracts do not expire, but they are not free to hold indefinitely. Funding is charged periodically on the full position value and can significantly reduce final profits."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

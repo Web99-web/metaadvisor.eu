@@ -9,10 +9,10 @@ source_url: "https://www.coindesk.com/business/2025/09/27/nydig-calls-for-bitcoi
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
 
-image_url: "/images/miner-mining.png"
-featured_image: "/images/miner-mining.png"
-image: "/images/miner-mining.png"
-thumbnail: "/images/miner-mining.png"
+image_url: "/images/miner-mining.webp"
+featured_image: "/images/miner-mining.webp"
+image: "/images/miner-mining.webp"
+thumbnail: "/images/miner-mining.webp"
 image_alt: "Ilustracija rudarenja Bitcoina (simbolična slika)"
 image_credit: "Metaadvisor — simbolična"
 
@@ -33,6 +33,7 @@ tags:
   - analiza
 
 summary: "NYDIG kritizira mNAV — metriku koja tvrtke s bitcoin trezorima mjeri kao market cap podijeljen s količinom kovanica — jer ignorira stvarnu bilancu, poslovanje i obveze poput konvertibilnog duga."
+categories: ["crypto"]
 ---
 
 **Ukratko (3 rečenice)**  

@@ -15,6 +15,7 @@ image_alt: "GOOGL Spike Analyse von Aktie und Derivaten"
 image_credit: "Metaadvisor.eu"
 tags: ["google", "googl", "ai", "derivate", "trading", "aktienmarkt", "krypto", "leverage", "short squeeze"]
 summary: "GOOGL ist nicht einfach nur gestiegen — die Kombination aus realer Aktienbewegung und Leverage-Effekt der Derivate hat einen plötzlichen Spike erzeugt."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

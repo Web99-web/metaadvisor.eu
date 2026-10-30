@@ -15,6 +15,7 @@ image_alt: "Visa i Mastercard dominacija u crypto i digitalnim plaćanjima"
 image_credit: "MetaAdvisor.eu"
 tags: ["visa", "mastercard", "crypto", "placanja", "stablecoin", "digitalni euro", "ecb", "fintech", "blockchain", "cbdc"]
 summary: "Visa i Mastercard nisu izgubili bitku protiv kripta — prilagodili su se i postali ključni sloj globalne financijske infrastrukture."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

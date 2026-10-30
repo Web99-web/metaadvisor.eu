@@ -16,6 +16,7 @@ image_alt: "Stock and Bitcoin selloff — symbolic finance illustration"
 image_credit: "Image is symbolic."
 tags: ["btctc","bitcoin","treasury","stocks","crypto","markets","volatility"]
 summary: "The 2025 cohort of Bitcoin treasury companies (BTCTC) faces steep drawdowns. Metaplanet, KindlyMD, Strive and Strategy outline plans to regain market confidence."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

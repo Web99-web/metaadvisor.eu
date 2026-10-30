@@ -15,6 +15,7 @@ image_alt: "Claude AI model by Anthropic"
 image_credit: "Metaadvisor.eu (symbolic illustration)"
 tags: ["ai", "artificial intelligence", "anthropic", "claude", "llm", "generative ai", "technology", "future tech", "ai safety", "cloud", "enterprise ai"]
 summary: "Claude is an advanced AI model developed by Anthropic and has positioned itself as one of the key players in the global AI race. Here’s why it is exceptionally important today."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

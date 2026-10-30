@@ -7,14 +7,15 @@ translationKey: "afec6c1c833f3eb6c59c515da624c212"
 source: "Metaadvisor (TechCrunch, industry reports, tech media)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Spotify-AI.png"
-featured_image: "/images/Spotify-AI.png"
-image: "/images/Spotify-AI.png"
-thumbnail: "/images/Spotify-AI.png"
+image_url: "/images/Spotify-AI.webp"
+featured_image: "/images/Spotify-AI.webp"
+image: "/images/Spotify-AI.webp"
+thumbnail: "/images/Spotify-AI.webp"
 image_alt: "Spotify AI verified human oznaka i razlika između AI i stvarnih umjetnika"
 image_credit: "Metaadvisor.eu"
 tags: ["spotify ai oznaka", "ai glazba spotify", "verified artist spotify", "ai umjetnici glazba", "generativna glazba ai", "digitalni identitet umjetnika", "ai content problem", "streaming platforme ai", "glazbena industrija ai", "authenticity online"]
 summary: "Spotify uvodi ‘Verified by Spotify’ oznaku kako bi razlikovao stvarne umjetnike od AI generiranih profila, otvarajući novo poglavlje u borbi za autentičnost u digitalnoj glazbi."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

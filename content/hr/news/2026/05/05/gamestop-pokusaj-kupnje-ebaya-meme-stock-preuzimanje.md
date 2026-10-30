@@ -7,14 +7,15 @@ translationKey: "gamestop-ebay-acquisition-2026"
 source: "Metaadvisor (Reuters, GameStop, tržišni izvori)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Gamestop-buying-Ebay.png"
-featured_image: "/images/companies/Gamestop-buying-Ebay.png"
-image: "/images/companies/Gamestop-buying-Ebay.png"
-thumbnail: "/images/companies/Gamestop-buying-Ebay.png"
+image_url: "/images/companies/Gamestop-buying-Ebay.webp"
+featured_image: "/images/companies/Gamestop-buying-Ebay.webp"
+image: "/images/companies/Gamestop-buying-Ebay.webp"
+thumbnail: "/images/companies/Gamestop-buying-Ebay.webp"
 image_alt: "GameStop pokušava preuzeti eBay u velikom tržišnom potezu"
 image_credit: "Metaadvisor.eu"
 tags: ["gamestop", "ebay", "meme stock", "preuzimanje kompanija", "stock market", "investicije", "trgovanje dionicama", "retail investitori", "wall street", "financijska analiza"]
 summary: "GameStop pokušava preuzeti eBay u poslu vrijednom preko 50 milijardi USD, iako je višestruko manji. Ovaj potez mogao bi pokrenuti novi val interesa investitora i otvoriti pitanje može li hype ponovno financirati velike akvizicije."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

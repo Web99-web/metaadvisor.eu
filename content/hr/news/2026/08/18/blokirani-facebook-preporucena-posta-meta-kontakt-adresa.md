@@ -6,15 +6,16 @@ category: "Meta"
 translationKey: "facebook-meta-registered-mail-support-address-2026-08-18"
 source: "Meta, Meta Oversight Board, Reuters, SEC, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-Meta-address-for-registered-mail.png"
-featured_image: "/images/Meta/Facebook-Meta-address-for-registered-mail.png"
-image: "/images/Meta/Facebook-Meta-address-for-registered-mail.png"
-thumbnail: "/images/Meta/Facebook-Meta-address-for-registered-mail.png"
+image_url: "/images/Meta/Facebook-Meta-address-for-registered-mail.webp"
+featured_image: "/images/Meta/Facebook-Meta-address-for-registered-mail.webp"
+image: "/images/Meta/Facebook-Meta-address-for-registered-mail.webp"
+thumbnail: "/images/Meta/Facebook-Meta-address-for-registered-mail.webp"
 image_alt: "Blokirani ste na Facebooku i ne možete do korisničke podrške? Meta EU i US adrese za slanje preporučenog pisma"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Facebook", "Meta", "Facebook ban", "blokiran Facebook račun", "deaktiviran Facebook račun", "Facebook korisnička podrška", "Meta korisnička podrška", "AI moderacija", "preporučena pošta", "Meta adresa", "Facebook žalba", "Oversight Board"]
 description: "Facebook može deaktivirati korisnika u sekundi, a nakon odjave može nestati i pristup kanalima korisničke podrške. Ako do Mete više ne možete online, ostaje gotovo apsurdna mogućnost za 2026. godinu — poslati preporučeno papirnato pismo."
 summary: "Meta automatizira moderaciju i uvodi AI podršku, ali trajno blokirani Facebook korisnik nakon odjave može ostati bez normalnog pristupa upravo kanalima preko kojih bi trebao osporiti odluku. Nakon pogrešne blokade objave indijskog premijera i upozorenja Oversight Boarda o milijardama deaktiviranih računa godišnje, donosimo i službene EU i US adrese na koje korisnici mogu pokušati poslati preporučeno pismo Meti."
+categories: ["Meta"]
 ---
 
 *Slika je simbolična.*
@@ -43,7 +44,7 @@ Ne znamo je li upravo AI donio konkretnu odluku u Modijevu slučaju i to ne treb
 To smo obradili u članku:
 
 <a href="/hr/news/facebook-blokirao-indijskog-premijera-narendre-modija-pa-se-ispricao/" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
+<img src="/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
      alt="Facebook blokirao indijskog premijera Narendru Modija pa se Meta ispričala"
      loading="lazy"
      style="width:65%; max-width:600px; height:auto; display:block; margin:1.5rem auto;">
@@ -76,7 +77,7 @@ To je gotovo precizan opis problema o kojem govorimo: Facebook vas izbaci iz ra�
 To smo obradili u članku:
 
 <a href="/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">
-<img src="/images/Meta/Meta-oversight-board2.png" alt="Meta Oversight Board i problem AI moderacije Facebook i Instagram računa" loading="lazy">
+<img src="/images/Meta/Meta-oversight-board2.webp" alt="Meta Oversight Board i problem AI moderacije Facebook i Instagram računa" loading="lazy">
 </a>
 
 <a href="/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener"><strong>Meta Oversight Board: AI moderacija — dugogodišnji problem tek sad ulazi u fokus</strong></a>
@@ -143,7 +144,7 @@ Za Meta Platforms, Inc. u Sjedinjenim Američkim Državama aktualna službena ad
 **MENLO PARK, CA 94025**
 **UNITED STATES**
 
-<img src="/images/Meta/Facebook-Meta-address-for-registered-mail1.png" alt="Meta EU i Meta US adrese za slanje preporučenog pisma korisničkoj podršci" loading="lazy">
+<img src="/images/Meta/Facebook-Meta-address-for-registered-mail1.webp" alt="Meta EU i Meta US adrese za slanje preporučenog pisma korisničkoj podršci" loading="lazy">
 
 Slanje pisma na jednu od ovih adresa nije službeno obećanje individualne korisničke podrške niti jamči da će račun biti vraćen. To posebno treba naglasiti. Poanta preporučene pošte nije obećati rezultat koji nitko ne može jamčiti, nego ostaviti trag da je korisnik pokušao izravno upozoriti kompaniju na svoj slučaj prije isteka relevantnih rokova.
 

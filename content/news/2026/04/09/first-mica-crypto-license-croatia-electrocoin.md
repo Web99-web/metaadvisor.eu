@@ -7,14 +7,15 @@ translationKey: "9f3c1e7a5b2d4c8ea6f0b1d3c7a9e442"
 author: "Metaadvisor.eu"
 source: "HANFA, publicly available data"
 source_url: ""
-image_url: "/images/news/First-Mica-crypto licence-in-Croatia.png"
-featured_image: "/images/news/First-Mica-crypto licence-in-Croatia.png"
-image: "/images/news/First-Mica-crypto licence-in-Croatia.png"
-thumbnail: "/images/news/First-Mica-crypto licence-in-Croatia.png"
+image_url: "/images/news/First-Mica-crypto licence-in-Croatia.webp"
+featured_image: "/images/news/First-Mica-crypto licence-in-Croatia.webp"
+image: "/images/news/First-Mica-crypto licence-in-Croatia.webp"
+thumbnail: "/images/news/First-Mica-crypto licence-in-Croatia.webp"
 image_alt: "First MiCA crypto license in Croatia"
 image_credit: "Illustration"
 tags: ["crypto","mica","regulation","electrocoin","hanfa","blockchain","market","european union","finance","casp"]
 summary: "Croatia has issued its first licensed crypto service provider under MiCA, marking the transition of crypto into an official and supervised financial system."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

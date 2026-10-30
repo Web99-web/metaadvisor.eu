@@ -7,14 +7,15 @@ translationKey: "d3252ae923f3d415e7689f945f770a16"
 source: "MetaAdvisor – analiza + izvještaji više medija"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Upbit-haked-36m-sol-Lazars.png"
-featured_image: "/images/Upbit-haked-36m-sol-Lazars.png"
-image: "/images/Upbit-haked-36m-sol-Lazars.png"
-thumbnail: "/images/Upbit-haked-36m-sol-Lazars.png"
+image_url: "/images/Upbit-haked-36m-sol-Lazars.webp"
+featured_image: "/images/Upbit-haked-36m-sol-Lazars.webp"
+image: "/images/Upbit-haked-36m-sol-Lazars.webp"
+thumbnail: "/images/Upbit-haked-36m-sol-Lazars.webp"
 image_alt: "Upbit hack i SOL krađa"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["upbit","sol","solana","solana-ecosystem","hack","cyberattack","security","kripto","crypto","bitcoin","btc","ethereum","eth","aml","travel-rule","korea","south-korea","regulation","kriptovalute","vlasp","vasp","lazarus","north-korea","blockchain","cybersecurity","defi","stablecoins","finance","financije"]
 summary: "Najveća korejska kripto burza Upbit hakirana je, a iz hot-walleta je nestalo 36 milijuna USD u SOL i SPL tokenima. Gotovo istodobno, Južna Koreja najavila je najstrože AML mjere do sada, uključujući proširenje Travel Rule-a na transakcije ispod 680 dolara."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

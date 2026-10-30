@@ -15,6 +15,7 @@ image_alt: "EU Krypto-Regulierung MiCA 2"
 image_credit: "Metaadvisor.eu"
 tags: ["mica", "mica2", "eu", "krypto regulierung", "crypto", "defi", "blockchain", "finanzen", "regulierung", "markt"]
 summary: "Die EU signalisiert bereits eine neue Phase der Krypto-Regulierung durch ein mögliches MiCA 2, das DeFi und neue Marktmodelle stärker einbeziehen könnte."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

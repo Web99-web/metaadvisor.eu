@@ -16,6 +16,7 @@ image_alt: "Ethereum — on-chain usage and ETH price dynamics"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","ethereum","eth","on-chain","activity","etf","treasury","metaadvisor"]
 summary: "Rising active addresses, higher gas usage and growing ETF/treasury inflows support the case for ETH to challenge $5,000 — even with some un-staking supply pressure."
+categories: ["crypto"]
 ---
 
 **TL;DR:** Ethereum has seen a **clear pickup in on-chain activity** (more **active addresses**, **higher gas**, busier DeFi/stablecoin/L2 traffic). At the same time, **spot ETH ETFs** and some **corporate treasuries** keep **soaking up supply**. With exchange balances trending lower, the setup for a push toward **$5,000** looks increasingly credible.

@@ -16,6 +16,7 @@ image_alt: "Japan crypto tax reform"
 image_credit: "Metaadvisor.eu"
 tags: ["japan","crypto","bitcoin","eth","regulation","tax","porezna reforma","fsa","asia","kripto porez","financijski proizvodi","blockchain","105 tokena","kripto regulacija","insider trading","web3","global markets","btc","eth","altcoins"]
 summary: "Japan uvodi najveću kripto poreznu reformu u svojoj povijesti — snižavanje poreza na 20% i klasifikacija kriptovaluta kao financijskih proizvoda mogla bi potpuno promijeniti tržište."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

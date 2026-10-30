@@ -7,10 +7,10 @@ translationKey: "cd3a2ce9ef817a8c21445459c456a0ca"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2026/jan/02/uber-avoids-new-uk-taxi-tax-rewriting-driver-contracts"
 author: "MetaAdvisor.eu"
-image_url: "/images/Uber-UK-taxi-tax.png"
-featured_image: "/images/Uber-UK-taxi-tax.png"
-image: "/images/Uber-UK-taxi-tax.png"
-thumbnail: "/images/Uber-UK-taxi-tax.png"
+image_url: "/images/Uber-UK-taxi-tax.webp"
+featured_image: "/images/Uber-UK-taxi-tax.webp"
+image: "/images/Uber-UK-taxi-tax.webp"
+thumbnail: "/images/Uber-UK-taxi-tax.webp"
 image_alt: "Uber-Fahrzeug im Vereinigten Königreich im Zusammenhang mit der neuen Taxi-Steuer"
 image_credit: "MetaAdvisor.eu / symbolische Illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - gig-economy
   - politik
 summary: "Durch eine Änderung der Fahrer­verträge hat Uber die volle Wirkung der neuen britischen „Taxi-Steuer“ umgangen – ein Schritt, der den Staat bis zu 700 Millionen Pfund jährlich kosten könnte."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

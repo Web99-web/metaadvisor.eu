@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Global Market Watch", "Bitcoin", "Bitcoin ETF", "Ethereum", "Ethereum ETF", "Cryptocurrency", "Artificial Intelligence", "AI", "Semiconductors", "Nasdaq", "KOSPI", "Nikkei", "Hang Seng", "Brent Oil", "Federal Reserve", "Stock Market", "Financial Markets", "Technology", "Investing"]
 description: "Bitcoin ETF-ovi privukli su 524,8 milijuna dolara, ali azijske AI i poluvodičke dionice ponovno padaju. Brent iznad 110 dolara povećava rizike."
 summary: "Američki Bitcoin ETF-ovi 21. listopada 2026. privukli su 524,8 milijuna dolara neto priljeva, dok su Ethereum ETF-ovi ponovno završili u plusu. Istodobno, azijska tržišta 22. listopada bilježe snažan pad, posebno u sektoru poluvodiča. Visoke cijene nafte i geopolitički rizici dodatno povećavaju neizvjesnost, dok globalni oporavak rizične imovine još nema jasnu potvrdu."
+categories: ["finance"]
 ---
 
 *Slika je simbolična.*

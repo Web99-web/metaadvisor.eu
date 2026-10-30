@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bnb-chain-x-account-hacked-inferno-links?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/X-twitter.png"
-featured_image: "/images/X-twitter.png"
-image: "/images/X-twitter.png"
-thumbnail: "/images/X-twitter.png"
+image_url: "/images/X-twitter.webp"
+featured_image: "/images/X-twitter.webp"
+image: "/images/X-twitter.webp"
+thumbnail: "/images/X-twitter.webp"
 image_alt: "X (bivši Twitter) logo na sivoj pozadini"
 image_credit: "X Corp (simbolična slika)"
 tags:
@@ -26,6 +26,7 @@ tags:
   - blockchain
   - cyber-napadi
 summary: "Službeni X račun BNB Chain kompromitiran je i korišten za širenje phishing linkova. Changpeng Zhao (CZ) upozorio je korisnike da ne otvaraju poveznice s kompromitiranog profila."
+categories: ["ai"]
 ---
 
 **BNB Chain** potvrdio je kompromitaciju svojeg službenog **X računa**, putem kojeg su napadači objavili **phishing poveznice**. Incident je usmjeren na navlačenje korisnika na lažne stranice povezane s kripto ulaganjima.

@@ -7,14 +7,15 @@ translationKey: "c47f3165acc7c447a39058ff4b762818"
 author: "Metaadvisor.eu"
 source: "Cointelegraph, Cardano Foundation, DFX.swiss und Metaadvisor.eu Analyse"
 source_url: ""
-image_url: "/images/Cardano-ADA-Spar.png"
-featured_image: "/images/Cardano-ADA-Spar.png"
-image: "/images/Cardano-ADA-Spar.png"
-thumbnail: "/images/Cardano-ADA-Spar.png"
+image_url: "/images/Cardano-ADA-Spar.webp"
+featured_image: "/images/Cardano-ADA-Spar.webp"
+image: "/images/Cardano-ADA-Spar.webp"
+thumbnail: "/images/Cardano-ADA-Spar.webp"
 image_alt: "Cardano ADA Zahlung Spar Schweiz"
 image_credit: "Metaadvisor.eu"
 tags: ["cardano","ada","krypto zahlung","spar","schweiz","blockchain","crypto retail","cardano foundation","dfx swiss","digitale vermögenswerte"]
 summary: "Der Cardano-Token ADA kann nun in 137 Spar-Supermärkten in der Schweiz verwendet werden. Das Projekt gilt als einer der größten Tests für Krypto-Zahlungen im europäischen Einzelhandel."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -6,10 +6,10 @@ category: "crypto"
 translationKey: "btc_music_brazil_24122025"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/brazil-live-orchestra-bitcoin-price-into-music"
-image_url: "/images/Brasil-BTC-music.png"
-featured_image: "/images/Brasil-BTC-music.png"
-image: "/images/Brasil-BTC-music.png"
-thumbnail: "/images/Brasil-BTC-music.png"
+image_url: "/images/Brasil-BTC-music.webp"
+featured_image: "/images/Brasil-BTC-music.webp"
+image: "/images/Brasil-BTC-music.webp"
+thumbnail: "/images/Brasil-BTC-music.webp"
 image_alt: "Bitcoin price movements translated into live music by a Brazilian orchestra"
 tags:
   - bitcoin
@@ -22,6 +22,7 @@ tags:
   - crypto-culture
   - music
   - btc-plays
+categories: ["crypto"]
 ---
 
 # Bitcoin Becomes Music: Brazilian Orchestra Turns BTC Price Moves Into Sound

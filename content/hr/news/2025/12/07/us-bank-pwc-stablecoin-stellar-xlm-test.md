@@ -7,14 +7,15 @@ translationKey: "us_bank_pwc_stablecoin_stellar_xlm_07122025"
 source: "Stellar Development Foundation, Bloomberg"
 source_url: "https://stellar.org"
 author: "Metaadvisor.eu – analiza"
-image_url: "/images/banks-testing-stablecoins-xlm.png"
-featured_image: "/images/banks-testing-stablecoins-xlm.png"
-image: "/images/banks-testing-stablecoins-xlm.png"
-thumbnail: "/images/banks-testing-stablecoins-xlm.png"
+image_url: "/images/banks-testing-stablecoins-xlm.webp"
+featured_image: "/images/banks-testing-stablecoins-xlm.webp"
+image: "/images/banks-testing-stablecoins-xlm.webp"
+thumbnail: "/images/banks-testing-stablecoins-xlm.webp"
 image_alt: "Banke testiraju stablecoine na Stellar XLM blockchainu"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["kriptovalute","stablecoin","stellar","xlm","us bank","pwc","blockchain","banke","financije","digitalni dolar","tehnologija","analiza","kripto vijesti"]
 summary: "U.S. Bank i PwC pokreću testiranje bankarskog stablecoina na Stellar (XLM) blockchainu — potez koji otkriva kako tradicionalne banke ulaze u digitalne valute, ali pod svojim uvjetima."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

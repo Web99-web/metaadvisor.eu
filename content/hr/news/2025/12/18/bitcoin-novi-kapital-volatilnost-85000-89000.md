@@ -15,6 +15,7 @@ image_alt: "Bitcoin tržište balansira između 85.000 i 89.000 dolara uz rast r
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin","btc","kripto","crypto","tržište","volatilnost","inflacija","cpi","realized cap","likvidnost"]
 summary: "Bitcoin se kreće u rasponu između 85.000 i 89.000 USD dok novi kapital i dalje ulazi u mrežu, a kratkoročna volatilnost ostaje visoka zbog makroekonomskih šokova."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

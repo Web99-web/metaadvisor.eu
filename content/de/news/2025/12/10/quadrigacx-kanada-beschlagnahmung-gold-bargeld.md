@@ -7,14 +7,15 @@ translationKey: "quadrigacx_canada_forfeiture_10122025"
 source: "MetaAdvisor – Analyse basierend auf CoinDesk-Berichten"
 source_url: "https://www.coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Canada-forfeiture-gold-QuadrigaCX.png"
-featured_image: "/images/Canada-forfeiture-gold-QuadrigaCX.png"
-image: "/images/Canada-forfeiture-gold-QuadrigaCX.png"
-thumbnail: "/images/Canada-forfeiture-gold-QuadrigaCX.png"
+image_url: "/images/Canada-forfeiture-gold-QuadrigaCX.webp"
+featured_image: "/images/Canada-forfeiture-gold-QuadrigaCX.webp"
+image: "/images/Canada-forfeiture-gold-QuadrigaCX.webp"
+thumbnail: "/images/Canada-forfeiture-gold-QuadrigaCX.webp"
 image_alt: "Kanada QuadrigaCX Gold-Beschlagnahmung – Techno-Stil"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["quadrigacx","kanada","gold","forfeiture","kriminalität","krypto","gericht","british-columbia","analyse","digitalassets"]
 summary: "British Columbia hat über 1 Mio. USD in Gold, Bargeld und Luxusgegenständen vom QuadrigaCX-Mitgründer Michael Patryn eingezogen – einer der größten Forfeiture-Fälle in der Geschichte der kanadischen Kryptobranche."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

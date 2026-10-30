@@ -7,14 +7,15 @@ translationKey: "fonoa-pwc-ai-porezna-infrastruktura-2026-06-26"
 source: "Fonoa, PwC, Dawn Capital, EU-Startups, The Recursive, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Fonoa-PWC-AI-tax.png"
-featured_image: "/images/companies/Fonoa-PWC-AI-tax.png"
-image: "/images/companies/Fonoa-PWC-AI-tax.png"
-thumbnail: "/images/companies/Fonoa-PWC-AI-tax.png"
+image_url: "/images/companies/Fonoa-PWC-AI-tax.webp"
+featured_image: "/images/companies/Fonoa-PWC-AI-tax.webp"
+image: "/images/companies/Fonoa-PWC-AI-tax.webp"
+thumbnail: "/images/companies/Fonoa-PWC-AI-tax.webp"
 image_alt: "Fonoa PwC and AI tax infrastructure"
 image_credit: "Metaadvisor.eu"
 tags: ["Fonoa", "PwC", "AI tax", "tax infrastructure", "tax-tech", "indirect tax", "VAT", "GST", "sales tax", "e-invoicing", "tax compliance", "AI infrastructure", "Croatian startup", "Irish startup", "Dublin", "Zagreb", "Enterprise AI", "Metaadvisor"]
 summary: "Fonoa, a Croatian-Irish tax-tech startup, has raised 110 million dollars and acquired PwC’s Indirect Tax Edge. The real story is not only the money, but the new race for AI tax infrastructure, where artificial intelligence only makes sense when it works with connected, accurate and verifiable data."
+categories: ["ai"]
 ---
 
 The image is symbolic.
@@ -56,7 +57,7 @@ Fonoa is not selling an app that millions of people will download to their phone
 
 <div style="border:1px solid #e5e7eb; border-radius:14px; padding:14px; margin:24px 0; background:#fff;">
   <a href="https://metaadvisor.eu/news/croatian-tech-world-cup-2026-aircash-sofascore-collaboration/" target="_blank" rel="noopener" style="display:flex; gap:16px; align-items:center; text-decoration:none; color:inherit;">
-    <img src="/images/companies/Sofascore-Aircash-Cro-apps.png" alt="Croatian tech at the 2026 World Cup Aircash and Sofascore collaboration" style="width:180px; max-width:38%; border-radius:10px; object-fit:cover;">
+    <img src="/images/companies/Sofascore-Aircash-Cro-apps.webp" alt="Croatian tech at the 2026 World Cup Aircash and Sofascore collaboration" style="width:180px; max-width:38%; border-radius:10px; object-fit:cover;">
     <span>
       <span style="display:block; font-size:0.82em; color:#777; margin-bottom:5px; text-transform:uppercase; letter-spacing:0.04em;">Related story</span>
       <strong style="display:block; font-size:1.08em; line-height:1.35; color:#111827;">Croatian tech at the 2026 World Cup: Aircash and Sofascore collaboration</strong>

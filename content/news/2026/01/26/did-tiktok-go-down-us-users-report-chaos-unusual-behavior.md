@@ -15,6 +15,7 @@ image_alt: "TikTok app – symbolic illustration"
 image_credit: "MetaAdvisor.eu"
 tags: ["tiktok", "social media", "outage", "app glitch", "algorithm", "usa", "technology", "platforms"]
 summary: "Thousands of users across the U.S. reported strange TikTok behavior, sparking fears that the platform had suffered a major outage."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

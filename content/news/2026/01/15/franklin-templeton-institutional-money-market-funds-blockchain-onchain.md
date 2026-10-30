@@ -7,10 +7,10 @@ translationKey: "franklin_templeton_onchain_money_market_2026"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2026/01/13/franklin-templeton-turns-money-market-fund-into-stablecoin-reserve-vehicle"
 author: "MetaAdvisor.eu"
-image_url: "/images/Franklin-Templeton.png"
-featured_image: "/images/Franklin-Templeton.png"
-image: "/images/Franklin-Templeton.png"
-thumbnail: "/images/Franklin-Templeton.png"
+image_url: "/images/Franklin-Templeton.webp"
+featured_image: "/images/Franklin-Templeton.webp"
+image: "/images/Franklin-Templeton.webp"
+thumbnail: "/images/Franklin-Templeton.webp"
 image_alt: "Franklin Templeton brings institutional money market funds onto the blockchain"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Global asset manager Franklin Templeton has moved two institutional money market funds onto the blockchain, marking a major step in integrating traditional finance with onchain infrastructure."
@@ -21,6 +21,7 @@ tags:
   - institutional capital
   - stablecoins
   - tradfi
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

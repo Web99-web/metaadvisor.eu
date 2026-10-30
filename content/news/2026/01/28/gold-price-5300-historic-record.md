@@ -7,14 +7,15 @@ translationKey: "gold_5300_record_20260128"
 source: "Market data / exchanges"
 source_url: "https://www.mexc.com/"
 author: "Metaadvisor.eu"
-image_url: "/images/gold.png"
-featured_image: "/images/gold.png"
-image: "/images/gold.png"
-thumbnail: "/images/gold.png"
+image_url: "/images/gold.webp"
+featured_image: "/images/gold.webp"
+image: "/images/gold.webp"
+thumbnail: "/images/gold.webp"
 image_alt: "Gold price reaches a historic high above $5,300"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags: ["gold", "gold price", "precious metals", "inflation", "safe haven", "us dollar", "fed", "interest rates", "macroeconomics", "markets"]
 summary: "Gold has just crossed $5,300 per ounce on the MEXC exchange, setting a new all-time high. The move reflects growing investor distrust in fiat currencies, monetary policy, and the stability of the global financial system."
+categories: ["macro"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

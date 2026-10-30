@@ -7,14 +7,15 @@ translationKey: "defi_not_user_friendly_20260118"
 source: ""
 source_url: ""
 author: "MetaAdvisor.eu"
-image_url: "/images/DeFi-not-user-friendly.png"
-featured_image: "/images/DeFi-not-user-friendly.png"
-image: "/images/DeFi-not-user-friendly.png"
-thumbnail: "/images/DeFi-not-user-friendly.png"
+image_url: "/images/DeFi-not-user-friendly.webp"
+featured_image: "/images/DeFi-not-user-friendly.webp"
+image: "/images/DeFi-not-user-friendly.webp"
+thumbnail: "/images/DeFi-not-user-friendly.webp"
 image_alt: "DeFi als komplexes System, das nicht für reale Nutzer gemacht ist"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "DeFi verspricht Freiheit und Kontrolle, verliert aber Nutzer, weil es erwartet, dass Menschen die Infrastruktur verstehen. Angst vor Geldverlust, schlechtes UX und unerklärte Regeln machen Dezentralisierung zur Hürde."
 tags: ["defi","crypto","krypto","ux","user-experience","blockchain","metamask","web3","dezentralisierung"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -15,6 +15,7 @@ image_alt: "Fidelity Crypto — ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["crypto","fidelity","sol","solana","tradfi","kriptovalute","institucije","ulaganje","mirovinski fondovi","digitalna imovina"]
 summary: "Fidelity je otvorio pristup Solani (SOL) za milijune svojih klijenata, od retaila do institucija. Time SOL dobiva mainstream validaciju u TradFi kanalu."
+categories: ["crypto"]
 ---
 
 Solana je dobila još jedan **mainstream trenutak**: Fidelity, jedna od najvećih financijskih kuća na svijetu, službeno je dodala **SOL** u svoju ponudu. To znači da klijenti sada mogu kupovati, prodavati i držati Solanu putem različitih Fidelity platformi — od maloprodajnih računa (**Fidelity Crypto**), preko **mirovinskih planova (IRAs)**, do institucionalnih rješenja kroz **Fidelity Digital Assets**.

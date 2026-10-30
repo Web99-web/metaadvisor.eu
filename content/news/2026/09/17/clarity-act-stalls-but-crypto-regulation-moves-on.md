@@ -7,15 +7,16 @@ translationKey: "clarity-act-crypto-regulation-tax-sec-cftc-2026-09-17"
 source: "U.S. Senate, House Ways and Means Committee, SEC, Reuters, Cointelegraph"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Capitol-USA.png"
-featured_image: "/images/Capitol-USA.png"
-image: "/images/Capitol-USA.png"
-thumbnail: "/images/Capitol-USA.png"
+image_url: "/images/Capitol-USA.webp"
+featured_image: "/images/Capitol-USA.webp"
+image: "/images/Capitol-USA.webp"
+thumbnail: "/images/Capitol-USA.webp"
 image_alt: "The U.S. Capitol as Congress debates the CLARITY Act, crypto tax rules and new regulation for digital assets."
 image_credit: "Metaadvisor.eu"
 tags: ["CLARITY Act", "crypto regulation", "United States", "Congress", "Senate", "SEC", "CFTC", "Digital Asset Tax Certainty Act", "crypto taxes", "Bitcoin", "cryptocurrencies", "digital assets", "lame-duck session"]
 description: "The CLARITY Act stalled in the U.S. Senate, but crypto regulation is moving forward through a tax bill, a possible new CLARITY attempt and rulemaking by the SEC and CFTC."
 summary: "The CLARITY Act stalled in the Senate with a 49–50 vote but could return after the elections. Meanwhile, a broad crypto tax bill advanced through a House committee by 38–5."
+categories: ["Cryptocurrencies"]
 ---
 
 *Image is symbolic.*

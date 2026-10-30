@@ -15,6 +15,7 @@ image_alt: "Bitcoin futures market symbolic illustration"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["bitcoin","btc","crypto","cryptocurrency","bitfinex","crypto market","crypto exchanges","on-chain analysis","blockchain","digital assets"]
 summary: "Nearly 32,000 BTC were withdrawn from exchanges in a single day, while weekly outflows reached around 47,700 BTC. Analysts are watching whether the reduction of exchange supply could affect market dynamics."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

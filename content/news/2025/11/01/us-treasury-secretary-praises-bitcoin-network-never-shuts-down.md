@@ -7,14 +7,15 @@ translationKey: "66c8cd806d10a29e4b500d31febab9d7"
 source: "CoinDesk, X.com"
 source_url: "https://www.coindesk.com/policy/2025/11/01/bitcoin-never-shuts-down-treasury-s-bessent-marks-anniversary-needles-democrats"
 author: "Metaadvisor.eu"
-image_url: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
-featured_image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
-image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
-thumbnail: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
+image_url: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
+featured_image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
+image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
+thumbnail: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
 image_alt: "Scott Bessent praises the Bitcoin network"
 image_credit: "Metaadvisor.eu — image is symbolic."
 tags: ["bitcoin","btc","politics","usa","finance","stablecoin","bessent","satoshi","whitepaper"]
 summary: "U.S. Treasury Secretary Scott Bessent marked Bitcoin’s whitepaper anniversary by praising the network’s resilience — 'more robust than ever' — with a pointed jab at Senate Democrats."
+categories: ["crypto"]
 ---
 
 U.S. Treasury Secretary Scott Bessent marked the 17th anniversary of the Bitcoin whitepaper with a post on X praising the **resilience of the Bitcoin network**, stressing that “Bitcoin never shuts down” — unlike government systems.

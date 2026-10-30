@@ -14,6 +14,7 @@ image_alt: "Indian flag next to the XRP logo; reference to WazirX and court ruli
 image_credit: "Metaadvisor.eu"
 tags: ["india","law","court","property","wazirx","xrp","ripple","exchange","crypto","security","multisig","lazarus","hack","self-custody"]
 summary: "India’s Madras High Court has recognized cryptocurrencies as ‘property’. In the WazirX case, 3,532.30 XRP belonging to a user were protected after a hack compromised the exchange’s multisig wallet — allegedly by the Lazarus group."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

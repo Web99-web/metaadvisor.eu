@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "kripto tržište", "cijena Bitcoina", "Solana", "SOL", "Ethereum", "ETH", "Zcash", "ZEC", "Hyperliquid", "HYPE", "Dogecoin", "DOGE", "Stellar", "XLM", "Chainlink", "LINK", "Injective", "INJ", "Aave", "AAVE", "Sui", "SUI", "THORChain", "RUNE", "Strategy", "MSTR", "altcoini", "Market Focus"]
 description: "Bitcoin se ponovno probio iznad 80.000 dolara, dok se rast širi i na ostatak kripto tržišta. Solana je iznad 100 dolara, ZEC ostaje iznad 850 dolara, a rast bilježe i HYPE, XLM, LINK, AAVE, SUI i RUNE."
 summary: "Bitcoin se prvi put od svibnja vratio iznad 80.000 dolara, ali rast više nije ograničen samo na BTC. Solana je ponovno iznad 100 dolara, Zcash se drži iznad 850 dolara, HYPE oko 80 dolara, dok se oporavak vidi i kod XLM-a, DOGE-a, LINK-a, INJ-a, AAVE-a, SUI-ja i RUNE-a."
+categories: ["Crypto"]
 ---
 
 # Bitcoin ponovno iznad $80.000

@@ -7,14 +7,15 @@ translationKey: "banks-long-term-crypto-strategy-2026-02-12"
 source: "CoinDesk / Cointelegraph"
 source_url: "https://www.coindesk.com/markets/2026/02/11/jpmorgan-bullish-on-crypto-for-rest-of-year-as-institutional-flows-set-to-drive-recovery"
 author: "Metaadvisor.eu"
-image_url: "/images/Banks-move-into-crypto1.png"
-featured_image: "/images/Banks-move-into-crypto1.png"
-image: "/images/Banks-move-into-crypto1.png"
-thumbnail: "/images/Banks-move-into-crypto1.png"
+image_url: "/images/Banks-move-into-crypto1.webp"
+featured_image: "/images/Banks-move-into-crypto1.webp"
+image: "/images/Banks-move-into-crypto1.webp"
+thumbnail: "/images/Banks-move-into-crypto1.webp"
 image_alt: "Banken und Krypto – Symbolbild für institutionellen Einstieg in digitale Vermögenswerte"
 image_credit: "MetaAdvisor Illustration"
 tags: ["jp morgan", "malaysische zentralbank", "stablecoin", "bitcoin", "institutionelle investoren", "krypto regulierung", "tokenisierung", "digitale vermögenswerte", "btc langfristig"]
 summary: "JP Morgan zeigt sich konstruktiv für den Kryptomarkt 2026, während die Malaysische Zentralbank Stablecoin- und Tokenisierungs-Piloten startet. Banken setzen zunehmend auf eine langfristige Bitcoin-Strategie."
+categories: ["crypto"]
 ---
 
 *Symbolbild.*

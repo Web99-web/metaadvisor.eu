@@ -3,18 +3,19 @@ title: "Gency AI prikupio 20 milijuna dolara: AI i blockchain mijenjaju digitaln
 slug: "gency-ai-blockchain-oglasavanje-marketing-20m"
 date: 2026-05-03T10:00:00+02:00
 category: "ai"
-translationKey: "ea5b30b57b7d41c6572a0389df904200"
+translationKey: "ea5b30b57b7d41c6572a0389df904200--2026-05-03"
 source: "GlobeNewswire"
 source_url: "https://www.globenewswire.com/"
 author: "GlobeNewswire"
-image_url: "/images/AI-general/AI-advertising.png"
-featured_image: "/images/AI-general/AI-advertising.png"
-image: "/images/AI-general/AI-advertising.png"
-thumbnail: "/images/AI-general/AI-advertising.png"
+image_url: "/images/AI-general/AI-advertising.webp"
+featured_image: "/images/AI-general/AI-advertising.webp"
+image: "/images/AI-general/AI-advertising.webp"
+thumbnail: "/images/AI-general/AI-advertising.webp"
 image_alt: "AI i blockchain transformiraju digitalno oglašavanje"
 image_credit: "MetaAdvisor"
 tags: ["ai", "umjetna inteligencija", "blockchain", "kripto", "oglašavanje", "marketing", "web3", "smart contracts", "privacy", "data"]
 summary: "Gency AI razvija decentralizirani sustav oglašavanja koji kombinira umjetnu inteligenciju i blockchain kako bi automatizirao i učinio transparentnim cijeli proces – od prikaza oglasa do naplate."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

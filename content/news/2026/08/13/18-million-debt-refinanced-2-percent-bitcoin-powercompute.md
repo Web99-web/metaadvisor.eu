@@ -6,15 +6,16 @@ category: "crypto"
 translationKey: "powercompute-bitcoin-credit-18m-2percent-2026-08-13"
 source: "PowerCompute, SEC, Arch Lending, Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/news/BTC-credit-loan-18m-2percent.png"
-featured_image: "/images/news/BTC-credit-loan-18m-2percent.png"
-image: "/images/news/BTC-credit-loan-18m-2percent.png"
-thumbnail: "/images/news/BTC-credit-loan-18m-2percent.png"
+image_url: "/images/news/BTC-credit-loan-18m-2percent.webp"
+featured_image: "/images/news/BTC-credit-loan-18m-2percent.webp"
+image: "/images/news/BTC-credit-loan-18m-2percent.webp"
+thumbnail: "/images/news/BTC-credit-loan-18m-2percent.webp"
 image_alt: "Bitcoin used as collateral to refinance $18 million of debt at an initial 2 percent interest rate"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Bitcoin", "BTC", "PowerCompute", "Arch Lending", "Bitcoin loan", "Bitcoin collateral", "crypto lending", "refinancing", "Nasdaq", "corporate finance"]
 description: "PowerCompute pledged 307 Bitcoin and refinanced more than $18 million of debt at an initial interest rate of only 2 percent. But the low rate comes with an important catch."
 summary: "Nasdaq-listed PowerCompute is using 307 BTC as collateral for a loan that replaced around $18 million of existing debt. The initial interest rate is only 2 percent, but the deal uses a special collar structure that limits some of the potential upside if Bitcoin rises sharply."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

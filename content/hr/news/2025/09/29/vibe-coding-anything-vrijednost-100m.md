@@ -9,10 +9,10 @@ author: "Metaadvisor.eu"
 source: ""
 source_url: ""
 
-image_url: "/images/vibe-coding.png"
-featured_image: "/images/vibe-coding.png"
-image: "/images/vibe-coding.png"
-thumbnail: "/images/vibe-coding.png"
+image_url: "/images/vibe-coding.webp"
+featured_image: "/images/vibe-coding.webp"
+image: "/images/vibe-coding.webp"
+thumbnail: "/images/vibe-coding.webp"
 image_alt: "Vibe coding ilustracija"
 image_credit: "Metaadvisor.eu"
 
@@ -24,6 +24,7 @@ tags:
   - financiranje
 
 summary: "Anything, AI aplikacija stara tek mjesec dana, prikupila je 11 mil. $ uz valuaciju 100 mil. $ i došla do 2 mil. $ ARR-a u samo dva tjedna. Vibe coding – izrada aplikacija putem prirodnog jezika – ulazi u fazu hiper-rasta."
+categories: ["news"]
 ---
 
 **Anything**, AI aplikacija lansirana prije mjesec dana, objavila je **rundu od 11 mil. $** uz **valuaciju od 100 mil. $**. Kompanija je do **2 mil. $ ARR-a** stigla u samo **dva tjedna**, što pokazuje koliko brzo raste *vibe coding* — izrada aplikacija i webova kroz **prompte prirodnim jezikom**.

@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["HYPE", "Hyperliquid", "OTC", "token unlock", "institucionalni kupac", "kripto", "DeFi", "whale", "tokenomics"]
 description: "Jedan institucionalni kupac trebao bi kroz privatni OTC dogovor preuzeti cijeli paket od 3,75 milijuna HYPE tokena vrijedan oko 329 milijuna dolara."
 summary: "Hyperliquid Labs pokrenuo je unstaking 3,75 milijuna HYPE tokena za listopadsku raspodjelu timu, dok bi cijeli paket trebao preuzeti jedan institucionalni kupac kroz OTC transakciju. Identitet kupca, stvarna cijena i eventualni lock-up zasad nisu objavljeni."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

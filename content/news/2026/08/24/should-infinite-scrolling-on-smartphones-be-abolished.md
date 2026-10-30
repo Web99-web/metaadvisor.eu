@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "infinite-scroll-smartphones-regulation-2026-08-24"
 source: "European Commission, European Parliament, UK Government, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.png"
-featured_image: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.png"
-image: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.png"
-thumbnail: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.png"
+image_url: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.webp"
+featured_image: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.webp"
+image: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.webp"
+thumbnail: "/images/news/Infinite-scroll-on-internet-mobite-desktop1.webp"
 image_alt: "Should infinite scrolling on smartphones be abolished and mandatory breaks introduced"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["infinite scrolling", "social media", "Instagram", "TikTok", "Facebook", "Snapchat", "smartphones", "smartphones", "children", "Digital Services Act", "DSA", "addictive design", "addiction", "poor concentration", "nervousness", "lack of sleep", "poor sleep", "poor grades", "anxiety", "screen time", "screen time"]
 description: "Infinite scrolling is no longer just a problem within a single app. Users can spend hours moving between Instagram, TikTok, Snapchat and back again. Do smartphones need a real digital brake?"
 summary: "European regulators are already examining infinite scroll, autoplay and personalised recommendations as possible elements of addictive design. But limiting one app does not solve the problem if users simply move to another. One possible solution is a shared limit for endless feeds and a mandatory 90- to 120-minute break."
+categories: ["Technology"]
 ---
 
 

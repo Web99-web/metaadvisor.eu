@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Zcash", "ZEC", "Grayscale", "Zcash ETF", "ZCSH", "Orchard", "Ironwood", "crypto", "derivatives"]
 description: "ZEC se približava 900 dolara uz Grayscale ETF priču i eksploziju futures trgovanja, samo 77 dana nakon krize zbog Orchard ranjivosti i pitanja mogućeg counterfeit ZEC-a."
 summary: "Zcash je u sedam dana porastao gotovo 74%, dok je futures volumen dosegnuo oko 9,5 milijardi dolara. Istodobno se tržište gotovo prestalo prisjećati lipanjske krize u kojoj nije bilo moguće dokazati je li Orchard bug ikada iskorišten za stvaranje dodatnog ZEC-a."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

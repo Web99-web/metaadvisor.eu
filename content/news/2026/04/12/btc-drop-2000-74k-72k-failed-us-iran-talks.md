@@ -15,6 +15,7 @@ image_alt: "Bitcoin sharp price drop from 74000 to below 72000"
 image_credit: "Metaadvisor illustration"
 tags: ["bitcoin", "btc", "crypto", "iran", "usa", "geopolitics", "volatility", "market"]
 summary: "Bitcoin fell more than $2,000 immediately after news that US–Iran negotiations failed, yet the market still shows relative stability."
+categories: ["crypto"]
 ---
 
 _The image is symbolic._

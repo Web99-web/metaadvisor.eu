@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "bitcoin-etf-outflows-202-million-after-nine-day-inflow-streak-2026-08-29"
 source: "Cointelegraph, SoSoValue, Farside Investors, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/BTC-ETF-outflows.png"
-featured_image: "/images/daily-charts/BTC-ETF-outflows.png"
-image: "/images/daily-charts/BTC-ETF-outflows.png"
-thumbnail: "/images/daily-charts/BTC-ETF-outflows.png"
+image_url: "/images/daily-charts/BTC-ETF-outflows.webp"
+featured_image: "/images/daily-charts/BTC-ETF-outflows.webp"
+image: "/images/daily-charts/BTC-ETF-outflows.webp"
+thumbnail: "/images/daily-charts/BTC-ETF-outflows.webp"
 image_alt: "Bitcoin pao prema 77.000 dolara dok su američki spot Bitcoin ETF-ovi zabilježili 202 milijuna dolara neto odljeva"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Bitcoin ETF", "spot Bitcoin ETF", "ETF odljevi", "ETF priljevi", "kriptovalute", "crypto tržište", "likvidacije", "long likvidacije", "Bitcoin cijena", "institucionalni ulagači", "tržište derivata", "tržišni rizik"]
 description: "Američki spot Bitcoin ETF-ovi zabilježili su oko 202 milijuna dolara neto odljeva i prekinuli devetodnevni niz priljeva, dok se Bitcoin spustio prema 77.000 dolara, a tržište pogodio novi val long likvidacija."
 summary: "Bitcoin je nakon uspona iznad 81.000 dolara pao prema 77.000 dolara. Istodobno su američki spot Bitcoin ETF-ovi prvi put nakon devet trgovinskih dana zabilježili neto odljev, a na tržištu derivata likvidirano je više od 480 milijuna dolara pozicija."
+categories: ["Crypto"]
 ---
 
 # Bitcoin pao prema 77.000 USD, ETF-ovi bilježe $202 milijuna odljeva

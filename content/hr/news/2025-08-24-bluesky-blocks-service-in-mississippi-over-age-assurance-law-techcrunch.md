@@ -9,6 +9,7 @@ summary: "U objavi na blogu tvrtka objašnjava da, kao mali tim, nema resurse za
 tags: ["news","bluesky","mississippi","hb1126","age-verification","privacy","free-speech","law","us","social-media"]
 image_url: "https://techcrunch.com/wp-content/uploads/2024/10/bluesky_media_kit_banner_4.jpg?w=1024"
 image_alt: "Bluesky logotip na zvjezdanoj pozadini"
+categories: ["news"]
 ---
 
 Start-up društvene mreže **Bluesky** odlučio je blokirati pristup svojoj usluzi u saveznoj državi **Mississippi**, umjesto da se povinuje novom zakonu o provjeri dobi.

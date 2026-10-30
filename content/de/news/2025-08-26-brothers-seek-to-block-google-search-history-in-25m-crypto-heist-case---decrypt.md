@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/336836/brothers-seek-block-google-searches-25m-c
 summary: "Die Angeklagten sagen, Suchen nach 'top crypto lawyers' und 'wire fraud statute' seien durch das Anwaltsgeheimnis geschützt."
 tags: ["crypto","ethereum","eth","mev","google","search-history","attorney-client-privilege","wire-fraud","mit","manhattan","peraire-bueno"]
 image_url: "https://img.decrypt.co/insecure/rs%3Afit%3A3840%3A0%3A0%3A0/plain/https%3A//cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png%40webp"
+categories: ["crypto"]
 ---
 
 Zwei am **MIT** ausgebildete Brüder, denen vorgeworfen wird, **25 Mio. $** in Krypto über einen Blockchain-Exploit erbeutet zu haben, wollen ihren **Google-Suchverlauf** vom Gericht fernhalten. Die Staatsanwaltschaft wolle Suchen wie “**top crypto lawyers**” und “**wire fraud statute of limitations**” unzulässig zur Begründung eines **Tatvorsatzes** heranziehen, so die Verteidigung.

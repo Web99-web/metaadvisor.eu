@@ -16,6 +16,7 @@ image_alt: "Smartphone held in hands (symbolic illustration)"
 image_credit: "MetaAdvisor image map (symbolic)"
 tags: ["Meta", "Instagram", "Threads", "ads", "privacy", "children", "safety", "UK", "social media"]
 summary: "Guardian exclusive: Instagram photos of girls as young as 13 were shown to a 37-year-old man to promote Threads. Parents called it “outrageous”; Meta says the images complied with policies."
+categories: ["news"]
 ---
 
 *Image is symbolic.*

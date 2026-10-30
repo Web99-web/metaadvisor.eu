@@ -7,10 +7,10 @@ translationKey: "490ab7255d90634185b0c575bbb45594"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/09/truebit-token-tru-crashes-99-9-after-usd26-6m-exploit-drains-8-535-eth"
 author: "MetaAdvisor.eu"
-image_url: "/images/Truebit-TRU-hack.png"
-featured_image: "/images/Truebit-TRU-hack.png"
-image: "/images/Truebit-TRU-hack.png"
-thumbnail: "/images/Truebit-TRU-hack.png"
+image_url: "/images/Truebit-TRU-hack.webp"
+featured_image: "/images/Truebit-TRU-hack.webp"
+image: "/images/Truebit-TRU-hack.webp"
+thumbnail: "/images/Truebit-TRU-hack.webp"
 image_alt: "Truebit (TRU) token i posljedice hakerskog napada"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -24,6 +24,7 @@ tags:
   - blockchain
   - rizici
 summary: "Token Truebit (TRU) doživio je gotovo potpuni kolaps cijene nakon hakerskog napada u kojem je iz protokola izvučeno oko 26,6 milijuna dolara u etheru. Incident je još jednom pokazao koliko sigurnosni propusti mogu u kratkom vremenu izbrisati godine razvoja i povjerenja."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

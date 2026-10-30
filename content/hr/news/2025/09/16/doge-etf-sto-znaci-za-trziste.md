@@ -7,14 +7,15 @@ translationKey: "d1a6d0a0b1b24f85b8a2e1e8c9c77a10"
 source: "Metaadvisor analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/dogecoin-doge.png"
-featured_image: "/images/dogecoin-doge.png"
-image: "/images/dogecoin-doge.png"
-thumbnail: "/images/dogecoin-doge.png"
+image_url: "/images/dogecoin-doge.webp"
+featured_image: "/images/dogecoin-doge.webp"
+image: "/images/dogecoin-doge.webp"
+thumbnail: "/images/dogecoin-doge.webp"
 image_alt: "Dogecoin (DOGE) — ETF narativ"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["doge","dogecoin","etf","liquidity","flows","funding","positioning","macro","metaadvisor"]
 summary: "Špekulacije o prvom američkom DOGE ETF-u podižu očekivanja likvidnosti i raspoloženje prema altcoinima. Donosimo novinski pregled: gdje su prilike, gdje prijete rizici i što pratiti ovog ‘ETF tjedna’."
+categories: ["crypto"]
 ---
 
 Dogecoin je u večernjim satima trgovao oko **0,265 USDT**, dok tržište sve glasnije računa na **skorašnje odobrenje prvog američkog DOGE ETF-a**. Sam naslov “ETF” već tjednima podiže očekivanja o likvidnosti i privlači pažnju institucionalnih igrača — a kad alt-scena dobije zajednički narativ, često se budi i apetit za rizik izvan BTC/ETH okvira.

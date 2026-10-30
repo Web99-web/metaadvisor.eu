@@ -37,6 +37,7 @@ tags:
   - technische-analyse
   - volatilitaet
 summary: "Bitwise-CIO Matt Hougan nennt Solana die „neue Wall Street“ – wegen Speed, Durchsatz und finaler Abwicklung. Gleichzeitig konsolidierte SOL im engen Bereich von 228–237 USD."
+categories: ["crypto"]
 ---
 
 **Kurzüberblick**  

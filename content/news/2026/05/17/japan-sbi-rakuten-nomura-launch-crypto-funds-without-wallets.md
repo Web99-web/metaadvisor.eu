@@ -15,6 +15,7 @@ image_alt: "Japanese financial giants moving into crypto investment funds"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "bitcoin", "btc", "ethereum", "eth", "japan", "sbi", "rakuten", "nomura", "banks", "funds", "crypto funds", "blockchain", "digital assets", "retail investors", "institutional investors", "wallet", "etf", "finance", "asia", "Metaadvisor", "Metaadvisor.eu"]
 summary: "Major Japanese financial institutions such as SBI, Rakuten and Nomura are preparing crypto investment funds that could allow ordinary investors to gain crypto exposure without wallets or crypto exchanges."
+categories: ["crypto"]
 ---
 
 <small><em>The image is symbolic.</em></small>

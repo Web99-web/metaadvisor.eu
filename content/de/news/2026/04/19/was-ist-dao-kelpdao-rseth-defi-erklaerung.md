@@ -7,14 +7,15 @@ translationKey: "dao-kelpdao-rseth-explainer-2026"
 source: "Metaadvisor (Bildungsanalyse, DeFi-Quellen)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/DAO-KelpDAO-rsETH.png"
-featured_image: "/images/DAO-KelpDAO-rsETH.png"
-image: "/images/DAO-KelpDAO-rsETH.png"
-thumbnail: "/images/DAO-KelpDAO-rsETH.png"
+image_url: "/images/DAO-KelpDAO-rsETH.webp"
+featured_image: "/images/DAO-KelpDAO-rsETH.webp"
+image: "/images/DAO-KelpDAO-rsETH.webp"
+thumbnail: "/images/DAO-KelpDAO-rsETH.webp"
 image_alt: "Erklärung von DAO, KelpDAO und rsETH im DeFi-System"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "defi", "dao", "kelpdao", "rseth", "ethereum", "bildung", "blockchain"]
 summary: "Einfache Erklärung, was DAO, KelpDAO und rsETH sind, wie sie im DeFi-System funktionieren und welche Risiken sie mit sich bringen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

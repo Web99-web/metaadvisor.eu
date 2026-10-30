@@ -7,14 +7,15 @@ translationKey: "f6ad28da1b3811efce51adadba26b9e8"
 source: "Metaadvisor (CoinDesk, Bankless, Crypto Times)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/PAC-Political-Action-committee.png"
-featured_image: "/images/PAC-Political-Action-committee.png"
-image: "/images/PAC-Political-Action-committee.png"
-thumbnail: "/images/PAC-Political-Action-committee.png"
+image_url: "/images/PAC-Political-Action-committee.webp"
+featured_image: "/images/PAC-Political-Action-committee.webp"
+image: "/images/PAC-Political-Action-committee.webp"
+thumbnail: "/images/PAC-Political-Action-committee.webp"
 image_alt: "PAC Political Action Committee i Defend Developers PAC za DeFi i crypto regulaciju"
 image_credit: "MetaAdvisor.eu"
 tags: ["PAC", "Political Action Committee", "Defend Developers PAC", "DeFi", "decentralizirane financije", "crypto politika", "crypto regulacija", "blockchain developeri", "developer liability", "smart contracts", "otvoreni kod", "crypto lobiranje", "SAD izbori", "Kongres", "Fairshake", "Fellowship PAC", "Tether", "Digital Freedom Fund", "Winklevoss", "Gemini", "Blockchain Leadership Fund", "Anchorage Digital", "Chainlink", "DeFi Education Fund", "digitalna imovina", "kripto industrija", "Metaadvisor"]
 summary: "Defend Developers PAC novi je politički odbor u SAD-u koji želi podržati kandidate koji razumiju blockchain, DeFi i pravnu zaštitu developera. Za europske čitatelje važno je prvo objasniti što je PAC i zašto je u američkom sustavu to legalan, registriran oblik političkog utjecaja."
+categories: ["kripto"]
 ---
 
 <small><em>Slika je simbolična.</em></small>

@@ -17,6 +17,7 @@ image_credit: "MetaAdvisor AI-generated"
 tags:
   ["bitcoin","btc","crypto","market","analysis","macro","stablecoins","japan","bonds","volatility"]
 summary: "Bitcoin fell to $84,000 after failing to reclaim $92,000, sparking debate on whether Japan’s bond market turmoil triggered the drop or whether deeper macro stresses were the real cause."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

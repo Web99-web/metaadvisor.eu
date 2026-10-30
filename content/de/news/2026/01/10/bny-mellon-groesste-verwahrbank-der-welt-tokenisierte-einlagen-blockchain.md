@@ -7,10 +7,10 @@ translationKey: "c841519d5f5e8d56b098f6f883592c36"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2026/01/09/world-s-largest-custodial-bank-bny-to-offer-tokenized-deposits-for-institutional-investors"
 author: "MetaAdvisor.eu"
-image_url: "/images/BNY-Bank-of-New-York-Mellon.png"
-featured_image: "/images/BNY-Bank-of-New-York-Mellon.png"
-image: "/images/BNY-Bank-of-New-York-Mellon.png"
-thumbnail: "/images/BNY-Bank-of-New-York-Mellon.png"
+image_url: "/images/BNY-Bank-of-New-York-Mellon.webp"
+featured_image: "/images/BNY-Bank-of-New-York-Mellon.webp"
+image: "/images/BNY-Bank-of-New-York-Mellon.webp"
+thumbnail: "/images/BNY-Bank-of-New-York-Mellon.webp"
 image_alt: "BNY Mellon führt tokenisierte Einlagen für institutionelle Investoren ein"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - institutionelle-investoren
   - rwa
 summary: "BNY Mellon, die größte Verwahrbank der Welt, kündigt die Einführung tokenisierter Bankeinlagen für institutionelle Kunden an und treibt damit die Integration von Blockchain-Technologie in das traditionelle Finanzsystem voran."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

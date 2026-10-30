@@ -15,6 +15,7 @@ image_alt: "London financial district — regulation & crypto"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","uk","fca","regulation","policy","editorial","regulatory-capture","self-custody","metaadvisor"]
 summary: "The FCA promises ‘tailored’ rules for crypto. Is that genuine protection—or elegantly packaged control? Our editorial take."
+categories: ["crypto"]
 ---
 
 London’s tone is soothing: **no copy-paste from TradFi, but ‘tailoring’ for crypto**. Sensible on the surface, sure. Yet the real question remains: **who gets to be the gatekeeper, and on what terms?**

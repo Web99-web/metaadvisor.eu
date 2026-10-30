@@ -7,15 +7,16 @@ translationKey: "haker-izbrisao-rumunjski-katastar-2026-07-21"
 source: "ANCPI, The Record, Cybernews i Help Net Security"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hacker.png"
-featured_image: "/images/hacker.png"
-image: "/images/hacker.png"
-thumbnail: "/images/hacker.png"
+image_url: "/images/hacker.webp"
+featured_image: "/images/hacker.webp"
+image: "/images/hacker.webp"
+thumbnail: "/images/hacker.webp"
 image_alt: "Haker s maskom nakon kibernetičkog napada na rumunjski katastarski sustav"
 image_credit: "Metaadvisor.eu"
 tags: ["Rumunjska", "katastar", "zemljišne knjige", "e-Terra", "ANCPI", "ByteToBreach", "ransomware", "haker", "kibernetički napad", "nekretnine", "cybersecurity"]
 description: "Haker tvrdi da je nakon neuspjele iznude izbrisao rumunjsku katastarsku bazu i blokirao transakcije nekretninama."
 summary: "Kibernetički napad onesposobio je rumunjski sustav e-Terra, zaustavio dio poslova s nekretninama i otvorio pitanje jesu li ključni podaci zaista izbrisani."
+categories: ["cybersecurity"]
 ---
 
 # Haker izbrisao rumunjski katastar?

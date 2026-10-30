@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Märkte", "Iran", "USA", "Straße von Hormus", "Öl", "Gold", "Silber", "Bitcoin", "BTC", "Bitcoin ETF", "ETF-Abflüsse", "Federal Reserve", "Kevin Warsh", "Zinsen", "Liquidationen", "Kapitalrotation", "geopolitisches Risiko"]
 description: "Die USA haben Iran nahe der Straße von Hormus erneut militärisch angegriffen, während die Märkte noch die Folgen der hawkishen Fed-Botschaft, des Bitcoin-Rückgangs, der ETF-Abflüsse und neuer Liquidationen bewerten."
 summary: "Ein neuer US-Angriff auf Iran rückt die Straße von Hormus und Öl wieder ins Zentrum der Marktaufmerksamkeit. Bitcoin zeigt bislang keine panische Reaktion, doch die Märkte starten nach Warshs hawkishem Auftritt, fallenden Gold- und Silberpreisen, dem ersten BTC-ETF-Abfluss nach neun Tagen und starken Krypto-Liquidationen in die neue Woche."
+categories: ["Markets"]
 ---
 
 # Neuer US-Angriff auf Iran rückt Hormus, Öl und Marktrisiko wieder in den Fokus

@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – symbolic image"
 tags: ["ChatGPT", "OpenAI", "ChatGPT ads", "advertising", "AI", "Free plan", "ChatGPT Go", "artificial intelligence"]
 description: "OpenAI is expanding advertising inside ChatGPT. Ads are shown to users on Free and Go plans, while Plus, Pro, Business, Enterprise and Edu remain ad-free."
 summary: "OpenAI has expanded its ChatGPT ad testing beyond the United States. Ads can appear for users on Free and Go plans, while the company says advertising will not influence ChatGPT answers or give advertisers access to private conversations."
+categories: ["AI"]
 ---
 
 *Symbolic image.*

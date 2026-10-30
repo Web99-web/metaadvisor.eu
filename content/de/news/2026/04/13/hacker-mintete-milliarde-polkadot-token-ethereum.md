@@ -7,14 +7,15 @@ translationKey: "7996d920ec1a06e455bfcc5c9a0cbaf0"
 source: "Metaadvisor (CoinDesk, CCN, The Cryptonomist, Cryptopolitan, FXStreet)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/hacker-made-tokens.png"
-featured_image: "/images/news/hacker-made-tokens.png"
-image: "/images/news/hacker-made-tokens.png"
-thumbnail: "/images/news/hacker-made-tokens.png"
+image_url: "/images/news/hacker-made-tokens.webp"
+featured_image: "/images/news/hacker-made-tokens.webp"
+image: "/images/news/hacker-made-tokens.webp"
+thumbnail: "/images/news/hacker-made-tokens.webp"
 image_alt: "Hackerangriff und Minting von Token auf der Blockchain"
 image_credit: "Metaadvisor.eu"
 tags: ["krypto", "crypto", "polkadot", "dot", "ethereum", "eth", "hacking", "blockchain", "sicherheit", "bridge", "defi", "token"]
 summary: "Ein Angreifer nutzte eine Schwachstelle in einem Bridge-System und erstellte Token im Wert von über einer Milliarde Dollar, konnte jedoch aufgrund der Marktrealität nur rund 250.000 Dollar abziehen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

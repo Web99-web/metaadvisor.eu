@@ -15,6 +15,7 @@ image_alt: "Spot-Bitcoin-ETFs verzeichnen die sechste Woche in Folge Kapitalzufl
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "bitcoin etf", "spot bitcoin etf", "krypto", "crypto", "institutionen", "wall street", "blackrock", "etf", "investitionen", "fed", "bitcoin preis", "markt", "kapital", "kryptomarkt"]
 summary: "US-Spot-Bitcoin-ETFs haben sechs Wochen in Folge Nettozuflüsse verzeichnet — die längste positive Serie seit Sommer 2025."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Das Bild ist symbolisch.</em></p>

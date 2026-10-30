@@ -7,14 +7,15 @@ translationKey: "zcash_bitcoin_satoshi_crypto_circles"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Zcash-Bitcoin.png"
-featured_image: "/images/Zcash-Bitcoin.png"
-image: "/images/Zcash-Bitcoin.png"
-thumbnail: "/images/Zcash-Bitcoin.png"
+image_url: "/images/Zcash-Bitcoin.webp"
+featured_image: "/images/Zcash-Bitcoin.webp"
+image: "/images/Zcash-Bitcoin.webp"
+thumbnail: "/images/Zcash-Bitcoin.webp"
 image_alt: "Symbolische Illustration der kryptografischen Verbindung zwischen Zcash und Bitcoin"
 image_credit: "MetaAdvisor.eu"
 tags: ["zcash", "bitcoin", "btc", "kryptografie", "privacy", "zk-snarks", "crypto", "dezentralisierung"]
 summary: "Zcash versammelte von Beginn an einige der stärksten Kryptografen unserer Zeit – ein Umstand, der in der Community immer wieder Spekulationen über Verbindungen zu frühen Bitcoin-Kreisen auslöste, auch wenn diese nie bestätigt wurden."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

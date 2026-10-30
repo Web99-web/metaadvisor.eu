@@ -7,10 +7,10 @@ translationKey: "gold_5496_digital_hype_20260128"
 source: "MetaAdvisor analiza / tržište plemenitih metala"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/gold.png"
-featured_image: "/images/gold.png"
-image: "/images/gold.png"
-thumbnail: "/images/gold.png"
+image_url: "/images/gold.webp"
+featured_image: "/images/gold.webp"
+image: "/images/gold.webp"
+thumbnail: "/images/gold.webp"
 image_alt: "Zlato na povijesnom vrhu – simbolična ilustracija rasta cijene"
 image_credit: "Ilustracija / MetaAdvisor.eu"
 tags:
@@ -29,6 +29,7 @@ tags:
   - investicije
   - globalna ekonomija
 summary: "Zlato je doseglo novu povijesnu razinu od 5.496 USD po unci, dok srebro raste prema 118 USD. Osim straha i makroekonomije, ključni faktor rasta postaje nova digitalna dostupnost zlata kroz kripto burze i tokenizirane proizvode."
+categories: ["finance"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

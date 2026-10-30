@@ -10,6 +10,7 @@ image_url: "/images/football.jpg"
 image_alt: "Floodlit football pitch viewed from above"
 tags: ["ai","blockchain","football","transfers","stablecoin","ffp"]
 summary: "Brža namira, niži troškovi i veća transparentnost: blockchain bi mogao pojednostaviti transfere, pomoći manjim klubovima i olakšati kontrolu financial fair playa."
+categories: ["ai"]
 ---
 
 **Ideja ukratko**  

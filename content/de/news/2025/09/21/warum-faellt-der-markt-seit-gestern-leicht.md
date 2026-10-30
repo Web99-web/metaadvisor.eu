@@ -13,6 +13,7 @@ image_alt: "Kryptomarkt — symbolische Darstellung (BTC/ETH)"
 image_credit: "Metaadvisor (symbolisches Bild)"
 tags: ["krypto", "markt", "makro", "Fed", "DXY", "Bitcoin-ETF", "ETF-flows", "Derivate", "Funding", "Open-Interest", "Liquidität", "Wochenende", "Volatilität", "Konsolidierung"]
 summary: "Der sanfte Rückgang hängt mit einem stärkeren USD nach der Fed, uneinheitlichen ETF-Zuflüssen sowie dünner Wochenendliquidität und Derivatdruck zusammen."
+categories: ["news"]
 ---
 
 **Kurz & knapp:**  

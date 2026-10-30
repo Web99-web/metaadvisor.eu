@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/top-10-fastest-growing-blockchains-of-the-year-ranked-by-active-users"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/blockchain.png"
-featured_image: "/images/blockchain.png"
-image: "/images/blockchain.png"
-thumbnail: "/images/blockchain.png"
+image_url: "/images/blockchain.webp"
+featured_image: "/images/blockchain.webp"
+image: "/images/blockchain.webp"
+thumbnail: "/images/blockchain.webp"
 image_alt: "BLOCKCHAIN – naslov u centru"
 image_credit: "Metaadvisor.eu (generirana grafika)"
 tags:
@@ -34,6 +34,7 @@ tags:
   - sui
   - aptos
 summary: "Lista najbrže rastućih mreža po aktivnim on-chain korisnicima pokazuje da pobjeđuju one koje nude jeftine i brze transakcije, lak onboarding i stvarne use-caseove (plaćanja, igre, mini-aplikacije). U nastavku je kontekst — a Top-10 popis je pri dnu."
+categories: ["ai"]
 ---
 
 **Kratko:** Pregled najbrže rastućih blockchaina po **aktivnim korisnicima** (on-chain) daje realniju sliku usvajanja od samog market capa. Mreže koje korisnicima omogućuju **brze, jeftine i jednostavne** radnje — rastu brže. To posebno vrijedi za L2 rješenja i L1-ove s visokim throughputom, gdje su mikro-transakcije (igre, plaćanja, mini-aplikacije) svakodnevica.

@@ -9,6 +9,7 @@ summary: "Der Memecoin legte am 30.–31. August spürbar zu, während Whale- un
 tags: ["doge", "crypto", "memecoin"]
 image_url: "https://www.coindesk.com/resizer/v2/dogecoin-chart-2025.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/dogecoin-chart-2025.jpg?auto=format&width=1200"
+categories: ["news"]
 ---
 
 Dogecoin (**DOGE**) hat sich vom **$0,21-Support** erholt und dabei eine mögliche **Tassen-und-Henkel-Formation** ausgebildet, die auf einen Anstieg in Richtung **$0,30** hindeutet, so eine Analyse von CoinDesk.  

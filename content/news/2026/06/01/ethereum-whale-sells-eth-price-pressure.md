@@ -15,6 +15,7 @@ image_alt: "Ethereum whale sells ETH and adds pressure to Ether price"
 image_credit: "MetaAdvisor.eu"
 tags: ["Ethereum", "Ether", "ETH", "Ethereum whale", "ETH whale", "old Ethereum wallet", "ETH sale", "Ethereum OG", "Lookonchain", "onchain data", "HODL waves", "crypto market", "altcoins", "Ether price", "ETH analysis", "Bitcoin", "BTC", "HYPE", "capital rotation", "crypto sentiment", "Sell in May", "Metaadvisor"]
 summary: "An old Ethereum investor sold around $136 million worth of ETH, raising concerns that Ether could face more downside pressure. However, onchain data so far does not show a mass exit by long-term Ethereum holders, but rather more nervousness among shorter-term market participants."
+categories: ["crypto"]
 ---
 
 <small><em>The image is symbolic.</em></small>

@@ -16,6 +16,7 @@ image_alt: "Polymarket — najava tokena i airdropa"
 image_credit: "Slika je simbolična."
 tags: ["Polymarket", "token", "airdrop", "prediction markets", "CFTC", "SAD", "crypto"]
 summary: "Polymarket planira lansirati vlastiti token i airdrop nakon povratka na američko tržište. Objašnjavamo što je Polymarket, tko stoji iza projekta i zašto sada relaunch."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;"> <a href="/go/mexc" target="_blank" rel="nofollow sponsored" style="background:#1e40af; color:#fff; padding:12px 22px; border-radius:10px; text-decoration:none; font-weight:700; display:inline-block;"> 👉 Trguj BTC-om na MEXC </a> </p>

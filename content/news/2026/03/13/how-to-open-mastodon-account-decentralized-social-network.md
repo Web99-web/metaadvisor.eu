@@ -15,6 +15,7 @@ image_alt: "How to register on the Mastodon decentralized social network"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 summary: "Mastodon is a decentralized social network that works very differently from Facebook or X. We show step by step how to open an account, what servers are and how the Fediverse works."
 tags: ["mastodon", "fediverse", "decentralized social networks", "technology", "internet", "metaadvisor"]
+categories: ["tech"]
 ---
 
 *Image is symbolic.*

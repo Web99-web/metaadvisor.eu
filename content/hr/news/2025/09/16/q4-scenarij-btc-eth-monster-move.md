@@ -15,6 +15,7 @@ image_alt: "Bitcoin i Ether — Q4 scenariji"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["bitcoin","ether","fundstrat","tom lee","q4","seasonality","etf","liquidity","metaadvisor"]
 summary: "Ne oslanjamo se na izjavu, nego na scenarije: što bi u iduća tri mjeseca moralo ‘kliknuti’ da BTC i ETH snažno krenu, i što taj ishod može srušiti."
+categories: ["crypto"]
 ---
 
 **Kratko:** Tom Lee (Fundstrat) je javno bullish za sljedeća tri mjeseca. Umjesto da ponavljamo citate, slažemo **scenarijski vodič**: koji **fundamentalni i likvidnosni okidači** mogu progurati BTC/ETH u Q4 i koji **rizici** taj pomak gase.

@@ -7,14 +7,15 @@ translationKey: "7c9e1b1c-0c0e-4b8a-9f7a-1fcbf2b6b1aa"
 source: "Cosmoverse 2025 — službene i medijske najave"
 source_url: "https://cosmoverse.org/"
 author: "Metaadvisor.eu"
-image_url: "/images/Cosmoverse2025-Split.png"
-featured_image: "/images/Cosmoverse2025-Split.png"
-image: "/images/Cosmoverse2025-Split.png"
-thumbnail: "/images/Cosmoverse2025-Split.png"
+image_url: "/images/Cosmoverse2025-Split.webp"
+featured_image: "/images/Cosmoverse2025-Split.webp"
+image: "/images/Cosmoverse2025-Split.webp"
+thumbnail: "/images/Cosmoverse2025-Split.webp"
 image_alt: "Cosmoverse 2025 — Split, Croatia"
 image_credit: "Ilustracija — Metaadvisor.eu"
 tags: ["Cosmoverse","Cosmos","ATOM","IBC","Cosmos SDK","interoperabilnost","Split","Hrvatska","konferencija","regulatori","institucije","ECB","europska centralna banka","draganprimorac","dragan primorac"]
 summary: "Cosmoverse 2025 dovodi globalni Web3 u Split. Objašnjavamo Cosmos jednostavno i donosimo tko govori — od osnivača Osmosisa i IBC arhitekata do ECB-a i bivšeg predsjedničkog kandidata Dragana Primorca."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

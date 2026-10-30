@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/19/crypto-etf-floodgates-open-with-sec-listing-standards-but-price-impact-may-be-uneven"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/crypto-etf-floodgates.png"
-featured_image: "/images/crypto-etf-floodgates.png"
-image: "/images/crypto-etf-floodgates.png"
-thumbnail: "/images/crypto-etf-floodgates.png"
+image_url: "/images/crypto-etf-floodgates.webp"
+featured_image: "/images/crypto-etf-floodgates.webp"
+image: "/images/crypto-etf-floodgates.webp"
+thumbnail: "/images/crypto-etf-floodgates.webp"
 image_alt: "Simbolična grafika kripto ETF-ova i SEC odobrenja"
 image_credit: "MetaAdvisor (simbolična grafika)"
 tags: ["crypto", "ETF", "SEC", "listing standards", "Nasdaq", "NYSE Arca", "Cboe"]
 summary: "SEC je usvojio generičke standarde za listanje kripto ETF-ova na Nasdaq, Cboe i NYSE Arca, otvarajući vrata lavini novih proizvoda."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

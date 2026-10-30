@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/27/xrp-eyes-usd3-20-as-bul
 summary: "Token testira otpor na 3,08 $ uz visoke tokove prije konsolidacije u blizini psihološke razine od 3 $."
 tags: ["crypto","XRP","technical analysis","bull-flag","support"]
 image_url: "https://www.coindesk.com/resizer/xrp-bull-flag.png"
+categories: ["news"]
 ---
 
 **Bitno za znati:**

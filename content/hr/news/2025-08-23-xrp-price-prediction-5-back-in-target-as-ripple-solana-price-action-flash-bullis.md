@@ -9,6 +9,7 @@ summary: "Iako su ‘whaleovi’ uzimali profit i stvarali kratkoročni pritisak
 tags: ["xrp","ripple","solana","sol","price","bullish","breakout","whales","odl","etf","bitget","ryan-lee","institutions","defi","markets","crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/eab60955ba93e8536f337c1f5fdd3e3c0327575b-5616x3744.jpg?auto=format"
 image_alt: "Bullish raspoloženje za XRP i Solanu – ilustracija bika"
+categories: ["crypto"]
 ---
 
 XRP i Solana ponovno pokazuju snagu, a trgovci kao pokretače novog rasta ističu i institucionalne tokove i tehničke postavke.

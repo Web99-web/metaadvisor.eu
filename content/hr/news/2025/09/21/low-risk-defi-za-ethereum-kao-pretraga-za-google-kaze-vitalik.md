@@ -16,6 +16,7 @@ image_alt: "Ethereum i DeFi — simbolična ilustracija"
 image_credit: "Metaadvisor image_map (simbolična slika)"
 tags: ["ethereum", "ETH", "DeFi", "low-risk-DeFi", "Vitalik-Buterin", "stabilni-novci", "kolateralizirano-kreditiranje", "gas-fees", "on-chain-ekonomija", "sigurnost", "regulacija", "UX"]
 summary: "Vitalik Buterin ističe da bi niskorizični DeFi — štednja, plaćanja i u potpunosti kolateralizirano kreditiranje — mogao postati stabilan motor potražnje i naknada na Ethereumu, slično kao što je pretraga desetljećima hranila Googleov prihod."
+categories: ["crypto"]
 ---
 
 **Kratko:**  

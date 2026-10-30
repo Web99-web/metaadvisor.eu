@@ -1,0 +1,3 @@
+{{/* One consent controller. It never interprets the page language as geography. */}}
+<script>window.MA_GA_CONFIG = {measurementId: 'G-KL111KNH3S', automaticAnalyticsCountries: {{ .Site.Data.consent_policy.automatic_analytics_countries | jsonify | safeJS }}, automaticAnalyticsRegions: {{ .Site.Data.consent_policy.automatic_analytics_regions | jsonify | safeJS }}, policyVersion: '2026-10-30-v1'};</script>
+<script src="/js/ma-consent.js" defer></script>

@@ -15,6 +15,7 @@ image_alt: "Ethereum (ETH) kao temelj decentralizirane financijske infrastruktur
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Analitičari sve češće spominju razinu od 15.000 USD za Ethereum do 2027. godine, oslanjajući se na rast institucionalnog usvajanja, stakinga i tokenizacije."
 tags: ["ethereum", "eth", "kripto", "staking", "defi", "tokenizacija", "institucionalni kapital"]
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -16,6 +16,7 @@ image_alt: "Robert Kiyosaki — autor ‘Rich Dad, Poor Dad’"
 image_credit: "Foto: Gage Skidmore (Wikimedia), prilagodio Metaadvisor.eu"
 tags: ["kiyosaki","bitcoin","gold","silver","fiat","obrazovanje","hard-money","metaadvisor"]
 summary: "Robert Kiyosaki tvrdi da se djecu od najranije dobi uči ‘raditi za lažni (inflacijski) novac’ te zagovara usmjerenje prema zlatu, srebru, nafti, Bitcoinu i Etheru kao ‘čvrstom novcu’."
+categories: ["ai"]
 ---
 
 **Robert Kiyosaki**, autor bestselera *Rich Dad, Poor Dad* i dugogodišnji zagovornik Bitcoina, ponovio je tezu da je “**kriminalno**” djecu učiti da rade za **inflacijski, “lažni” novac** (fiat), dok se ignoriraju alternative poput **zlata, srebra, Bitcoina i Ethereuma**, koje naziva **“hard money”**. Poručuje da obrazovni sustav i nastavnici djecu **indoktriniraju** da “rade za lažni novac”, umjesto da razumiju **stvarni novac i imovinu**.

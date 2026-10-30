@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bank of England", "inflacija", "AI dug", "obveznice", "ECB", "Fed", "nafta", "Azija", "financijska tržišta", "sistemski rizik"]
 description: "Bank of England upozorio je na rast vjerojatnosti da se povezane slabosti financijskog sustava istodobno aktiviraju, dok inflacija ponovno snažno raste u velikim gospodarstvima eurozone."
 summary: "Bank of England upozorio je na kombinaciju energetskog šoka, ekstremnih prinosa i naglog rasta AI-related duga, dok je inflacija u Francuskoj, Italiji i Španjolskoj ponovno snažno ubrzala. Azijska tržišta ipak ostaju relativno otporna, predvođena Japanom i AI sektorom."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

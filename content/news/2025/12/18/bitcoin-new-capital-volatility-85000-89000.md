@@ -15,6 +15,7 @@ image_alt: "Bitcoin trading between $85,000 and $89,000 as realized capitalizati
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin","btc","crypto","market","volatility","inflation","cpi","realized cap","liquidity"]
 summary: "Bitcoin is trading between $85,000 and $89,000 as new capital continues to enter the network, while short-term price action remains volatile due to macroeconomic shocks."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

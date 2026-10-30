@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["bitcoin", "btc", "crypto", "oil", "iran", "geopolitics", "markets", "inflation", "macroeconomics"]
 summary: "Bitcoin stabilizes above $71,000 as falling oil prices and a reported U.S. peace plan for Iran signal a shift in market sentiment."
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

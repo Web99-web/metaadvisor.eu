@@ -7,14 +7,15 @@ translationKey: "onecoin-compensation-doj-2026"
 source: "Metaadvisor (DOJ, CoinDesk, Cointelegraph)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.png"
-featured_image: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.png"
-image: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.png"
-thumbnail: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.png"
+image_url: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.webp"
+featured_image: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.webp"
+image: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.webp"
+thumbnail: "/images/news/OneCoin-Ruja-Ignatova-Konstantin-Ignatov.webp"
 image_alt: "OneCoin scam and key figures Ruja Ignatova and Konstantin Ignatov"
 image_credit: "Metaadvisor.eu"
 tags: ["onecoin", "crypto scam", "ponzi scheme", "ruja ignatova", "konstantin ignatov", "crypto", "fraud", "bitcoin", "finance", "ai"]
 summary: "The US has opened compensation claims for OneCoin victims, where at least $4 billion was lost, while some estimates suggest up to $19 billion — but only around $40 million will be returned."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

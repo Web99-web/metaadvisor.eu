@@ -15,6 +15,7 @@ image_alt: "Vitalik Buterin – Schutz von Metadaten"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["vitalik-buterin","ethereum","eth","session","simplex","metadaten","privatsphare","sicherheit","messaging","web3","analyse"]
 summary: "Vitalik Buterin spendet 256 ETH an die dezentralen Messaging-Projekte Session und SimpleX und setzt damit ein starkes Zeichen für den Schutz von Metadaten, Privatsphäre und freie digitale Kommunikation."
+categories: ["crypto"]
 ---
 
 <div class="cta">

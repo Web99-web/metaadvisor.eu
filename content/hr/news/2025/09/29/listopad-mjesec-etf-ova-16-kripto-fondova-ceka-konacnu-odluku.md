@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/october-etf-month-16-crypto-etfs-final-sec-deadlines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/ETF-October.png"
-featured_image: "/images/ETF-October.png"
-image: "/images/ETF-October.png"
-thumbnail: "/images/ETF-October.png"
+image_url: "/images/ETF-October.webp"
+featured_image: "/images/ETF-October.webp"
+image: "/images/ETF-October.webp"
+thumbnail: "/images/ETF-October.webp"
 image_alt: "Natpis ETF na narančastoj podlozi – listopad kao ‘mjesec ETF-ova’"
 image_credit: "Dizajn: Metaadvisor.eu (simbolična vizualizacija)"
 tags: ["crypto","etf","spot-etf","sec","usa","solana","xrp","litecoin","dogecoin","cardano","hedera","altcoins","regulacija","tržišta","investitori"]
 summary: "Američki SEC u listopadu donosi konačne odluke za 16 spot kripto ETF-ova. Rokovi su raspoređeni kroz mjesec, a prijave pokrivaju veće altcoine poput Solane, XRP-a, Litecoina i Dogecoina. Ishod može utjecati na kratkoročni sentiment i tokove kapitala."
+categories: ["crypto"]
 ---
 
 **Kratko:** Listopad bi mogao postati prekretnica za kripto ETF-ove u SAD-u. Američka Komisija za vrijednosne papire (SEC) ima **konačne rokove** za **16 spot kripto ETF** prijava tijekom cijelog mjeseca. U igri su fondovi vezani uz veće altcoine – **Solana (SOL), XRP, Litecoin (LTC), Dogecoin (DOGE)**, uz spominjanje i drugih poput **Cardana (ADA)** i **Hedere (HBAR)**. Odlučivanje po etapama može „kapati” vijesti i volatilnost iz dana u dan.

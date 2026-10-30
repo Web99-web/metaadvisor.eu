@@ -15,6 +15,7 @@ image_alt: "Bitcoin futures market and buy orders below price"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Krypto", "Crypto", "Bitcoin futures", "Futures", "Open Interest", "Funding Rate", "Liquidität", "Kaufaufträge", "57000 USD", "59000 USD", "63000 USD", "64000 USD", "ETF-Abflüsse", "Strategy", "Michael Saylor", "MSTR", "USDT", "Tether", "Stablecoin", "Makrorisiko", "Risk-off", "Metaadvisor"]
 summary: "Bitcoin hat sich über 63.000 USD erholt, doch der Futures-Markt zeigt noch keinen starken neuen bullishen Impuls. Große Kaufaufträge warten zwischen 57.000 und 59.000 USD — eine mögliche Verteidigungszone, falls der Druck zurückkehrt."
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

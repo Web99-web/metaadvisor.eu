@@ -7,14 +7,15 @@ translationKey: "openclaw-135k-ai-cost-shock-2026"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-agent.png"
-featured_image: "/images/AI-agent.png"
-image: "/images/AI-agent.png"
-thumbnail: "/images/AI-agent.png"
+image_url: "/images/AI-agent.webp"
+featured_image: "/images/AI-agent.webp"
+image: "/images/AI-agent.webp"
+thumbnail: "/images/AI-agent.webp"
 image_alt: "KI-Agent und Entwicklung künstlicher Intelligenz"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "künstliche intelligenz", "openclaw", "anthropic", "claude", "ai agenten", "entwickler", "technologie", "automatisierung", "jobs", "krypto", "big tech", "startup"]
 summary: "Eine plötzliche Änderung im Preismodell von KI-Tools traf rund 135.000 Entwickler und warf Fragen zur Abhängigkeit von einem einzigen System auf, bei Kostensteigerungen von bis zu 50-fach."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

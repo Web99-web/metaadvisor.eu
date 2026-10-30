@@ -15,6 +15,7 @@ image_alt: "Dionice i blockchain povezani digitalnim lancem"
 image_credit: "Slika je simbolična."
 tags: ["blockchain", "on-chain", "dionice", "posudba dionica", "tokenizacija", "RWA", "DeFi", "financije"]
 summary: "Tržišta kapitala trebaju on-chain rješenja za posudbu dionica — trenutačno namirenje, programabilan kolateral i transparentna pravila umjesto zastarjelih batch sustava i sporih skrbnika."
+categories: ["ai"]
 ---
 
 **Ukratko:**  

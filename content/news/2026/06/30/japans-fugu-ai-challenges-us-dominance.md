@@ -7,14 +7,15 @@ translationKey: "japans-fugu-ai-challenges-us-dominance-2026-06-30"
 source: "TechCrunch, Sakana AI, Tom's Guide, DataCamp, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Sakana-Fugu-AI.png"
-featured_image: "/images/companies/Sakana-Fugu-AI.png"
-image: "/images/companies/Sakana-Fugu-AI.png"
-thumbnail: "/images/companies/Sakana-Fugu-AI.png"
+image_url: "/images/companies/Sakana-Fugu-AI.webp"
+featured_image: "/images/companies/Sakana-Fugu-AI.webp"
+image: "/images/companies/Sakana-Fugu-AI.webp"
+thumbnail: "/images/companies/Sakana-Fugu-AI.webp"
 image_alt: "Japanese Sakana Fugu AI with a pufferfish and futuristic AI background"
 image_credit: "Metaadvisor.eu"
 tags: ["Sakana AI", "Fugu AI", "Japan", "artificial intelligence", "AI", "frontier AI", "AI agents", "multi-agent AI", "API", "ChatGPT", "Claude", "Gemini", "Anthropic", "AI market", "Japanese AI", "Metaadvisor"]
 summary: "Japan’s Sakana AI has introduced Fugu, a new AI system that is not trying to be just another chatbot, but an orchestrator of multiple models and agents. Fugu arrives at a time when US dominance in AI, export restrictions and the need for alternatives outside the United States are becoming increasingly important topics."
+categories: ["ai"]
 ---
 
 The image is symbolic.

@@ -16,6 +16,7 @@ image_alt: "Bitcoin — naslovna vizualizacija (simbolično)"
 image_credit: "Metaadvisor.eu — simbolična slika"
 tags: ["crypto", "bitcoin", "BTC", "tehnička-analiza", "ATH", "200WMA", "realized-price", "weekly-close", "likvidnost", "ETF"]
 summary: "Bitcoin je tjedan zatvorio na ATH razini. Tri referentna pokazatelja — 200WMA, realized price i tjedni close — sugeriraju rani bull nastavak, uz oprez na pregrijavanje."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/26/u-s-cftc-democrat-johnso
 summary: "Der Rücktritt der Demokratin Kristin Johnson bedeutet, dass die Kryptoaufsicht auf nur einen Kommissar, Caroline Pham, schrumpfen wird, während Trumps Kandidat auf die Bestätigung im Senat wartet."
 tags: ["crypto","CFTC","BTC","Gemini","Trump"]
 image_url: "https://www.coindesk.com/resizer/eUBnYcftcCrypto.png"
+categories: ["crypto"]
 ---
 
 Die US Commodity Futures Trading Commission (CFTC) wird bald nur noch einen einzigen Kommissar haben, wenn die demokratische Kommissarin Kristin Johnson nächste Woche die Behörde verlässt. Die einzige weitere Person, die auf ihre Ernennung wartet, ist Trumps Kandidat für den Vorsitz, Brian Quintenz.

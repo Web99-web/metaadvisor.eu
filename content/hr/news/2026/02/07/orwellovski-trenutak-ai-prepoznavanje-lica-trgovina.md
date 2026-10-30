@@ -8,14 +8,15 @@ source: "The Guardian"
 source_url: "https://www.theguardian.com/technology/2026/feb/05/london-man-sainsburys-facial-recognition-facewatch"
 author: "The Guardian"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/sainsburys-facial-recognition.png"
-featured_image: "/images/sainsburys-facial-recognition.png"
-image: "/images/sainsburys-facial-recognition.png"
-thumbnail: "/images/sainsburys-facial-recognition.png"
+image_url: "/images/sainsburys-facial-recognition.webp"
+featured_image: "/images/sainsburys-facial-recognition.webp"
+image: "/images/sainsburys-facial-recognition.webp"
+thumbnail: "/images/sainsburys-facial-recognition.webp"
 image_alt: "Korištenje sustava za prepoznavanje lica u maloprodaji"
 image_credit: "Symbolic image / MetaAdvisor.eu"
 tags: ["ai", "umjetna inteligencija", "prepoznavanje lica", "nadzor", "privatnost", "sainsburys", "facewatch", "maloprodaja", "ljudska prava"]
 summary: "Pogrešna identifikacija kupca u londonskoj trgovini Sainsbury’s, temeljena na sustavu za prepoznavanje lica, ponovno je otvorila raspravu o pouzdanosti AI nadzora i pravima građana."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

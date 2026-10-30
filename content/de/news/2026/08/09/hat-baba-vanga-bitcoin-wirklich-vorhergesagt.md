@@ -7,15 +7,16 @@ translationKey: "baba-vanga-bitcoin-predvidanje-2026-08-03"
 source: "The Guardian, The Economic Times, AS, HISTORY, Snopes und öffentlich zugängliche historische Quellen"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Baba-Vanga-Bitcoin-prediction.png"
-featured_image: "/images/news/Baba-Vanga-Bitcoin-prediction.png"
-image: "/images/news/Baba-Vanga-Bitcoin-prediction.png"
-thumbnail: "/images/news/Baba-Vanga-Bitcoin-prediction.png"
+image_url: "/images/news/Baba-Vanga-Bitcoin-prediction.webp"
+featured_image: "/images/news/Baba-Vanga-Bitcoin-prediction.webp"
+image: "/images/news/Baba-Vanga-Bitcoin-prediction.webp"
+thumbnail: "/images/news/Baba-Vanga-Bitcoin-prediction.webp"
 image_alt: "Baba Vanga, eine Kristallkugel und Bitcoin als Symbol einer angeblichen Vorhersage von Kryptowährungen"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Baba Vanga", "Bitcoin", "Kryptowährungen", "Prophezeiungen", "Nostradamus", "Clickbait", "Internetmythen", "Desinformation", "Faktencheck", "Krypto-Prognosen", "Blockchain", "digitales Geld", "Medien", "Finanzprognosen", "Bitcoin-Prognose"]
 description: "Hat Baba Vanga Bitcoin wirklich vorhergesagt oder wurden vage Geschichten über Geld, Krisen und Technologie erst nachträglich in eine Krypto-Prophezeiung verwandelt?"
 summary: "Baba Vanga werden Vorhersagen über Kriege, Katastrophen, künstliche Intelligenz und Wirtschaftskrisen zugeschrieben. Es gibt jedoch keine glaubwürdige Quelle, die zeigt, dass sie über Bitcoin, Blockchain oder Kryptowährungen gesprochen hat."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

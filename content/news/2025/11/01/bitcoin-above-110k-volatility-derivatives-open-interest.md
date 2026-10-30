@@ -15,6 +15,7 @@ image_alt: "Bitcoin logo — volatile market above $110,000"
 image_credit: "Metaadvisor.eu — image is symbolic."
 tags: ["bitcoin","btc","crypto","volatility","derivatives","open interest","liquidations","funding","options","futures","on-chain","market","technical","market psychology"]
 summary: "Bitcoin trades around $110,000 with elevated short-term volatility. Derivatives show high open interest, rising liquidations and whipsaw moves — typical of late trend phases and tests of psychological zones."
+categories: ["crypto"]
 ---
 
 Bitcoin currently trades **around $110,000**, with sharp swings both ways and a jump in derivatives activity.  

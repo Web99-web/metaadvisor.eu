@@ -9,6 +9,7 @@ summary: "Trumpov DeFi projekt predlaže korištenje naknada iz likvidnosti za t
 tags: ["crypto","WLFI","Trump","DeFi","tokenomics"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/b2c7d33ec21ab2d7e423b91f9e7cfef8773f2d8e-2000x1125.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/b2c7d33ec21ab2d7e423b91f9e7cfef8773f2d8e-2000x1125.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 World Liberty Financial (WLFI), DeFi projekt povezan s obitelji Trump, predlaže novi tokenomski potez kako bi povratio povjerenje nakon teškog tržišnog debija: program otkupa i spaljivanja tokena financiran naknadama iz vlastitih likvidnosnih pozicija.

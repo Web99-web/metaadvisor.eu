@@ -7,10 +7,10 @@ translationKey: "yuga-labs-howey-2025"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/judge-tosses-lawsuit-against-yuga-labs-over-failure-to-satisfy-howey-test"
 author: "Metaadvisor.eu"
-image_url: "/images/NFT-vaga.png"
-featured_image: "/images/NFT-vaga.png"
-image: "/images/NFT-vaga.png"
-thumbnail: "/images/NFT-vaga.png"
+image_url: "/images/NFT-vaga.webp"
+featured_image: "/images/NFT-vaga.webp"
+image: "/images/NFT-vaga.webp"
+thumbnail: "/images/NFT-vaga.webp"
 image_alt: "Justice scale with abstract NFT motifs"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags:
@@ -22,6 +22,7 @@ tags:
   - regulation
   - court
 summary: "A U.S. judge dismissed the case against Yuga Labs (BAYC), finding the NFTs do not meet the Howey test. We explain the Howey test and the implications for the NFT market."
+categories: ["crypto"]
 ---
 
 ## 🔹 What happened?

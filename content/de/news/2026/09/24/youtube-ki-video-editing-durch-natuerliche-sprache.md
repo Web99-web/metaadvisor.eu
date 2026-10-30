@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["YouTube", "AI", "AI video", "Videobearbeitung", "Gemini", "YouTube Create", "YouTube Shorts", "Creator", "Video", "Künstliche Intelligenz", "Content Creation", "Google"]
 description: "YouTube führt Conversational Video Editing ein, mit dem Creator der KI in natürlicher Sprache Anweisungen zum Schneiden, Entfernen von Pausen sowie Hinzufügen von Text, Musik und Übergängen geben können."
 summary: "Das neue YouTube-KI-Tool macht Videobearbeitung zu einem Gespräch. Creator können die Auswahl der besten Szenen, das Entfernen von Pausen sowie das Hinzufügen von Text, Musik und Übergängen anfordern und anschließend bei Bedarf zur klassischen Timeline zurückkehren. Conversational Editing kommt Anfang 2027 zu YouTube Shorts und YouTube Create."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

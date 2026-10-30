@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/22/head-of-irs-crypto-work-
 summary: "Trish Turner, dugogodišnja zaposlenica američkog Poreznog ureda (IRS) i voditeljica odjela za digitalnu imovinu, posljednja je u nizu visokih dužnosnika koji odlaze u privatni sektor."
 tags: ["crypto", "token", "financije", "irs", "porezi", "sad", "digital-assets"]
 image: "/news/2025-08-22-head-of-irs-crypto-work-exits-as-us-tax-changes-loom-for-digital-assets.jpg"
+categories: ["crypto"]
 ---
 
 Voditeljica odjela američkog Poreznog ureda (IRS) za digitalnu imovinu, **Trish Turner**, napušta svoju poziciju i prelazi u privatni sektor baš u trenutku kada bi nove porezne politike mogle donijeti val kripto-poslova za agenciju.  

@@ -7,14 +7,15 @@ translationKey: "ai-erases-jobs-meta-bans-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis"
 source_url: ""
-image_url: "/images/AI-taking-and-erasing-jobs.png"
-featured_image: "/images/AI-taking-and-erasing-jobs.png"
-image: "/images/AI-taking-and-erasing-jobs.png"
-thumbnail: "/images/AI-taking-and-erasing-jobs.png"
+image_url: "/images/AI-taking-and-erasing-jobs.webp"
+featured_image: "/images/AI-taking-and-erasing-jobs.webp"
+image: "/images/AI-taking-and-erasing-jobs.webp"
+thumbnail: "/images/AI-taking-and-erasing-jobs.webp"
 image_alt: "AI does not just take jobs — it erases them"
 image_credit: "Illustration"
 tags: ["ai","artificial intelligence","ai moderation","facebook","instagram","ban","small business","social media","jobs","eu ai act"]
 summary: "AI is not only reshaping employment through automation — through moderation, it is erasing entire digital identities, small businesses, and years of work with no path to recovery."
+categories: ["tech"]
 ---
 
 *Image is symbolic.*

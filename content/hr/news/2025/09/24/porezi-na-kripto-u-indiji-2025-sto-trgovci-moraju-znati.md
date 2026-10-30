@@ -24,6 +24,7 @@ tags:
   - trading
   - 2025
 summary: "Indija i 2025. zadržava strogi porezni režim na kripto: 30% poreza na dobit, 1% TDS na svaku transakciju, bez prava na prijenos gubitaka. Trgovci i dalje traže načine za optimizaciju unutar sustava."
+categories: ["crypto"]
 ---
 
 **Kratko:** Indija je 2025. zadržala jedan od najstrožih poreznih režima za kripto u svijetu. **Trgovci plaćaju 30% poreza** na kapitalne dobitke, a uz to se i dalje primjenjuje **1% TDS (Tax Deducted at Source)** na svaku transakciju. Pravila i dalje ne dopuštaju **kompenzaciju gubitaka**, što investitore stavlja u specifičan položaj.

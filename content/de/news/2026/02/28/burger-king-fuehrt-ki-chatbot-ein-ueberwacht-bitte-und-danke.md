@@ -7,14 +7,15 @@ translationKey: "4d8e767054464bdd0e06ebcad6f16e86"
 source: "The Guardian"
 source_url: ""
 author: "The Guardian (Analyse: MetaAdvisor.eu)"
-image_url: "/images/AI-monitors-in-burger.png"
-featured_image: "/images/AI-monitors-in-burger.png"
-image: "/images/AI-monitors-in-burger.png"
-thumbnail: "/images/AI-monitors-in-burger.png"
+image_url: "/images/AI-monitors-in-burger.jpg"
+featured_image: "/images/AI-monitors-in-burger.jpg"
+image: "/images/AI-monitors-in-burger.jpg"
+thumbnail: "/images/AI-monitors-in-burger.jpg"
 image_alt: "KI-Roboter, der aus einem Burger hervorschaut"
 image_credit: "MetaAdvisor.eu (KI-Illustration)"
 tags: ["ki", "künstliche intelligenz", "burger king", "mitarbeiterüberwachung", "technologie", "chatbot", "openai", "arbeitsrecht", "automatisierung", "retail technologie", "ki überwachung", "digitale transformation"]
 summary: "Burger King führt einen KI-Assistenten ein, der analysiert, ob Mitarbeitende Wörter wie ‚please‘ und ‚thank you‘ verwenden. Die Entscheidung löst eine Debatte über die Grenze zwischen operativer Unterstützung und Überwachung aus."
+categories: ["ai"]
 ---
 
 # Burger King führt KI-Chatbot ein: Überwacht die KI jetzt auch „Bitte“ und „Danke“?

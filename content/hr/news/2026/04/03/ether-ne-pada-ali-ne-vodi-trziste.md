@@ -15,6 +15,7 @@ image_alt: "Ethereum cijena u zoni konsolidacije oko 2000 USD"
 image_credit: "MetaAdvisor.eu"
 tags: ["ethereum", "eth", "kripto", "trgovanje", "likvidacije", "leverage", "bitcoin", "defi", "trziste", "analiza", "cijena", "trend"]
 summary: "Ether se danima drži oko 2000 USD bez jasnog smjera. Iako analize upozoravaju na mogući pad prema 1700 USD, tržište trenutno pokazuje fazu čekanja i neodlučnosti."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

@@ -16,6 +16,7 @@ image_alt: "Dubai skyline — symbolic image"
 image_credit: "Unsplash (ID: L4-TIH6FdR0) — symbolic image"
 tags: ["UAE", "Dubai", "OECD", "CARF", "tax", "data-exchange", "AML", "KYC", "regulation", "VASP", "exchanges", "compliance", "privacy", "crypto", "tokenization"]
 summary: "The UAE joins the OECD’s CARF framework for automatic exchange of crypto tax data, tightening reporting for VASPs and shrinking room for tax anonymity."
+categories: ["crypto"]
 ---
 
 **Summary:**  

@@ -7,14 +7,15 @@ translationKey: "zora-moves-to-solana-2026"
 source: "Industry reports"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Zora-moves-to-Solana.png"
-featured_image: "/images/Zora-moves-to-Solana.png"
-image: "/images/Zora-moves-to-Solana.png"
-thumbnail: "/images/Zora-moves-to-Solana.png"
+image_url: "/images/Zora-moves-to-Solana.webp"
+featured_image: "/images/Zora-moves-to-Solana.webp"
+image: "/images/Zora-moves-to-Solana.webp"
+thumbnail: "/images/Zora-moves-to-Solana.webp"
 image_alt: "Zora prelazi na Solanu"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["zora", "solana", "web3", "kreatorska ekonomija", "nft", "blockchain", "ethereum", "crypto", "kripto", "multichain"]
 summary: "Zora protokol širi svoje djelovanje na Solanu, čime se dodatno potvrđuje trend multichain razvoja i smanjenja troškova za Web3 kreatore."
+categories: ["web3"]
 ---
 
 <p style="font-size:12px; opacity:0.7; margin-top:-10px;">Slika je simbolična.</p>

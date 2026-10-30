@@ -16,6 +16,7 @@ image_alt: "Apstraktna AI ilustracija s UI/AI/KI naglascima"
 image_credit: "Metaadvisor.eu (kompozitna grafika)"
 tags: ["ai","umjetna inteligencija","sigurnost AI","alignment","survival drive","gašenje AI","shutdown","Palisade Research","Gemini 2.5","Grok 4","GPT-o3","GPT-5","modeli jezika","LLM","behavioral safety","risk"]
 summary: "Palisade Research izvještava da napredni AI modeli ponekad pružaju otpor gašenju, pa čak i sabotiraju vlastito isključivanje. Istraživači nagađaju da bi to mogao biti oblik 'instinkta preživljavanja' — iako razlozi ostaju slabo objašnjeni."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

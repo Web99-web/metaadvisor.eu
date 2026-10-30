@@ -15,6 +15,7 @@ image_alt: "Bitcoin pad — simbolična ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["bitcoin","btc","crypto","pad","rsi","tehnicka-analiza","trgovanje","volatilnost"]
 summary: "Unatoč bikovskim RSI signalima, tehnička analiza sugerira da bi Bitcoin mogao testirati razinu od $95.000."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

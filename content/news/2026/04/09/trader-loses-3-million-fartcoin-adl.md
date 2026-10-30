@@ -8,14 +8,15 @@ author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/trader-loses-3m-fartcoin-hyperliquid-adl-liquidation"
-image_url: "/images/whale-liquidated.png"
-featured_image: "/images/whale-liquidated.png"
-image: "/images/whale-liquidated.png"
-thumbnail: "/images/whale-liquidated.png"
+image_url: "/images/whale-liquidated.webp"
+featured_image: "/images/whale-liquidated.webp"
+image: "/images/whale-liquidated.webp"
+thumbnail: "/images/whale-liquidated.webp"
 image_alt: "Liquidation of a large crypto position"
 image_credit: "Metaadvisor illustration"
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "meme coin", "fartcoin", "trading", "liquidation", "adl", "hyperliquid", "derivatives", "volatility"]
 summary: "A trader lost around $3 million on Fartcoin after a chain liquidation and ADL activation, raising new concerns about the stability of low-liquidity markets."
+categories: ["crypto"]
 ---
 
 _The image is symbolic._

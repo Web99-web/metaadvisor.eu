@@ -16,6 +16,7 @@ image_alt: "BNB cijena i tržišni pritisak na Binance"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["bnb", "binance", "kripto-trziste", "altcoini", "regulacija", "kripto-burze", "l1-tokeni"]
 summary: "BNB je probio razinu od 860 USD, ali i dalje zaostaje za širim kripto-tržištem u trenutku pojačanog regulatornog i medijskog pritiska na Binance."
+categories: ["news"]
 ---
 
 # BNB zaostaje za tržištem unatoč proboju iznad 860 USD

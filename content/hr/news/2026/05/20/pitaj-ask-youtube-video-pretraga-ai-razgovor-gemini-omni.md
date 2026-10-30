@@ -7,14 +7,15 @@ translationKey: "ask-youtube-ai-search-gemini-omni-2026-05-20"
 source: "Metaadvisor (YouTube, TechCrunch, The Verge, TechRadar, Tom’s Guide, Search Engine Journal)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Youtube.png"
-featured_image: "/images/Youtube.png"
-image: "/images/Youtube.png"
-thumbnail: "/images/Youtube.png"
+image_url: "/images/Youtube.webp"
+featured_image: "/images/Youtube.webp"
+image: "/images/Youtube.webp"
+thumbnail: "/images/Youtube.webp"
 image_alt: "YouTube uvodi AI pretraživanje i Gemini Omni u Shorts"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "umjetna inteligencija", "youtube", "ask youtube", "google", "gemini omni", "youtube shorts", "shorts", "video pretraga", "ai pretraga", "conversational search", "video search", "youtube create", "remix", "deepfake", "likeness detection", "kreatori", "content creators", "generativni ai", "ai video", "google io", "tehnologija", "digitalni sadržaj"]
 summary: "Google uvodi Ask YouTube, novu AI funkciju koja video pretragu pretvara u razgovor, dok YouTube Shorts dobiva Gemini Omni za AI remix i kreativne video alate. Promjena bi mogla pomoći korisnicima da brže pronađu odgovore, ali otvara i nova pitanja za kreatore, vidljivost sadržaja, autorstvo i deepfake zaštitu."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

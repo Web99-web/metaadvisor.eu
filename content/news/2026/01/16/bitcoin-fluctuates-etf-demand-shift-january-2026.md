@@ -25,6 +25,7 @@ tags:
   - market
   - volatility
 summary: "Bitcoin dipped below $100,000 in mid-January, while strong ETF inflows point to a possible structural shift in market demand."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

@@ -15,6 +15,7 @@ image_alt: "Fidelity Digital Assets and the integration of crypto into Wall Stre
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Fidelity Digital Assets argues that the next growth phase of the crypto market will not be driven by new tokens, but by deep integration with Wall Street through ETFs, custody, and regulated financial infrastructure."
 tags: ["fidelity","wall-street","institutional-investors","crypto","bitcoin","etf","custody","financial-infrastructure","regulation"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

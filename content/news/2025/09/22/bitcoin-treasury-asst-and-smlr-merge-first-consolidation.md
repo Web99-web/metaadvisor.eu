@@ -16,6 +16,7 @@ image_alt: "BTC and corporate balance sheets — symbolic illustration"
 image_credit: "Metaadvisor image_map (symbolic image)"
 tags: ["Bitcoin", "treasury", "ASST", "SMLR", "Semler-Scientific", "Strive", "merger", "M&A", "stocks", "BTC-on-balance-sheet", "ETF", "liquidity", "DXY", "Fed", "PCE", "corporate-reserves", "all-stock-deal"]
 summary: "Strive (ASST) is acquiring Semler Scientific (SMLR) in an all-stock deal while purchasing 5,816 BTC. Combined holdings top 10,900 BTC — a clear signal that ‘Bitcoin treasury’ names are entering consolidation."
+categories: ["crypto"]
 ---
 
 **Context:**  

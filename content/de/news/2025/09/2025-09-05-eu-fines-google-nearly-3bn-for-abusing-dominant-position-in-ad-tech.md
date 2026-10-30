@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/05/google-fined-eur
 summary: "Die Regulierungsbehörden ordneten an, dass der Tech-Gigant seine Praxis der Selbstbevorzugung in Werbediensten beendet, verzichteten jedoch auf eine Zwangsveräußerung."
 image_url: "/images/Google.png"
 tags: ["eu", "google", "technologie", "adtech", "antitrust", "konkurrenz", "strafe"]
+categories: ["nachrichten"]
 ---
 
 Die Regulierungsbehörden ordneten an, dass der Tech-Gigant seine „Selbstbevorzugungspraktiken“ in Werbediensten beendet, verzichteten jedoch auf eine Zwangsveräußerung.

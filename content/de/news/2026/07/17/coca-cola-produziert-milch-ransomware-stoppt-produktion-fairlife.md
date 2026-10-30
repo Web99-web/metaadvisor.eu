@@ -7,14 +7,15 @@ translationKey: "coca-cola-fairlife-ransomware-proizvodnja-2026-07-17"
 source: "Coca-Cola, Fairlife, TechCrunch, Reuters"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Coca-cola-Fairlife-milk-hacked.png"
-featured_image: "/images/hack/Coca-cola-Fairlife-milk-hacked.png"
-image: "/images/hack/Coca-cola-Fairlife-milk-hacked.png"
-thumbnail: "/images/hack/Coca-cola-Fairlife-milk-hacked.png"
+image_url: "/images/hack/Coca-cola-Fairlife-milk-hacked.webp"
+featured_image: "/images/hack/Coca-cola-Fairlife-milk-hacked.webp"
+image: "/images/hack/Coca-cola-Fairlife-milk-hacked.webp"
+thumbnail: "/images/hack/Coca-cola-Fairlife-milk-hacked.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Coca-Cola", "Fairlife", "Milch", "Ransomware", "Cyberangriff", "Hackerangriff", "Produktion", "Lebensmittelindustrie", "Cybersicherheit"]
 description: "Ein Ransomware-Angriff traf Fairlife, Coca-Colas Unternehmen für Milch und Proteingetränke, und legte die Produktion in den gesamten Vereinigten Staaten vorübergehend still."
 summary: "Coca-Cola besitzt die große US-Milchmarke Fairlife. Nach einem Ransomware-Angriff wurde die Produktion in den USA vorübergehend eingestellt, während die Anlagen in Kanada weiterarbeiten."
+categories: ["tech"]
 ---
 
 # Coca-Cola produziert Milch: Ransomware stoppt die Produktion bei Fairlife

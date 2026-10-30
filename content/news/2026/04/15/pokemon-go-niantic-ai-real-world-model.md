@@ -7,14 +7,15 @@ translationKey: "niantic-pokemon-go-ai-world-model-2026"
 source: "Metaadvisor (Niantic, industry reports)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Pokemon-GO-Niantic.png"
-featured_image: "/images/companies/Pokemon-GO-Niantic.png"
-image: "/images/companies/Pokemon-GO-Niantic.png"
-thumbnail: "/images/companies/Pokemon-GO-Niantic.png"
+image_url: "/images/companies/Pokemon-GO-Niantic.webp"
+featured_image: "/images/companies/Pokemon-GO-Niantic.webp"
+image: "/images/companies/Pokemon-GO-Niantic.webp"
+thumbnail: "/images/companies/Pokemon-GO-Niantic.webp"
 image_alt: "Pokémon Go and Niantic transforming into a real-world AI model"
 image_credit: "Metaadvisor.eu"
 tags: ["niantic", "pokemon go", "ai", "artificial intelligence", "ar", "augmented reality", "geospatial ai", "data", "big tech", "machine learning", "technology", "future"]
 summary: "Pokémon Go is no longer just a game — Niantic is now using billions of collected data points to build an AI model that understands the real world and connects digital and physical environments."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

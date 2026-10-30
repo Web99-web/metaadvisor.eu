@@ -3,14 +3,14 @@ title: "Wyoming startet FRNT-Stablecoin: staatlicher Token mit Unterstützung vo
 slug: "wyoming-frnt-stablecoin-kraken-avalanche-solana"
 date: 2026-01-08T18:30:00Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-01-08"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today"
 author: "MetaAdvisor.eu"
-image_url: "/images/Wyoming-coin-FRNT.png"
-featured_image: "/images/Wyoming-coin-FRNT.png"
-image: "/images/Wyoming-coin-FRNT.png"
-thumbnail: "/images/Wyoming-coin-FRNT.png"
+image_url: "/images/Wyoming-coin-FRNT.webp"
+featured_image: "/images/Wyoming-coin-FRNT.webp"
+image: "/images/Wyoming-coin-FRNT.webp"
+thumbnail: "/images/Wyoming-coin-FRNT.webp"
 image_alt: "Wyoming FRNT Stablecoin mit Unterstützung von Kraken, Avalanche und Solana"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - avalanche
   - solana
 summary: "Der US-Bundesstaat Wyoming hat mit FRNT den ersten öffentlich zugänglichen staatlichen Stablecoin in den USA gestartet – unterstützt durch Kraken sowie die Blockchain-Netzwerke Avalanche und Solana."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

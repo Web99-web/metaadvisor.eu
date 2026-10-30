@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/04/xrp-symmetrical-triangl
 summary: "XRP bewegt sich zwischen 2,76 und 2,86 USD; Händler achten auf einen möglichen Ausbruch über 3,30 USD."
 tags: ["XRP", "Ripple", "Krypto", "Altcoins", "Kursanalyse"]
 image_url: "/images/xrp.png"
+categories: ["crypto"]
 ---
 
 XRP handelt derzeit in einer enger werdenden Spanne, wobei sich ein **symmetrisches Dreieck** unterhalb des Widerstands bei **3 USD** gebildet hat.  

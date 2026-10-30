@@ -3,7 +3,7 @@ title: "Tinder koristi umjetnu inteligenciju kako bi upoznao korisnike — i zav
 slug: "tinder-ai-Chemistry-fotografije-galerija-privatnost"
 date: 2025-11-05T18:22:17Z
 category: "ai"
-translationKey: "bebee28a72a90f8b0e794232f4e5d83c"
+translationKey: "bebee28a72a90f8b0e794232f4e5d83c--2025-11-05"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/"
 author: "TechCrunch"
@@ -16,6 +16,7 @@ image_alt: "Tinder AI i privatne fotografije"
 image_credit: "TechCrunch / Metaadvisor"
 tags: ["ai", "privatnost", "tinder", "umjetna inteligencija", "match group", "meta", "kamera", "podaci", "sigurnost"]
 summary: "Tinder uvodi AI koji će upoznavati korisnike putem pitanja i uvida u njihove privatne fotografije — uz dopuštenje. Nova funkcija 'Chemistry' već se testira u Australiji i na Novom Zelandu, a u fokusu je 2026. godine."
+categories: ["ai"]
 ---
 
 Tinder se okreće umjetnoj inteligenciji kako bi revitalizirao svoju aplikaciju za spojeve, nakon što je već devet uzastopnih kvartala zabilježio pad broja pretplatnika. Tvrtka **Match Group**, vlasnik Tindera, objavila je da testira funkciju **“Chemistry”**, koja će upoznavati korisnike putem interaktivnih pitanja i — uz njihovo dopuštenje — pristupati **fotografijama iz galerije mobitela (Camera Roll)** kako bi pomoću AI-a “naučila više o njihovim interesima i osobnosti”.

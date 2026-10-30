@@ -15,6 +15,7 @@ image_alt: "UK FCA und Krypto-Regulierung bis 2027"
 image_credit: "Public domain / illustrative"
 tags: ["uk","fca","krypto","regulierung","crypto","defi","staking","börsen","gesetz","finanzen"]
 summary: "Die britische Finanzaufsicht FCA startet eine umfassende Reform des Kryptomarktes mit dem Ziel, bis 2027 einen vollständigen Regulierungsrahmen umzusetzen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

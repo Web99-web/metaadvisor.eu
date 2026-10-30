@@ -7,10 +7,10 @@ translationKey: "tiktok_pinedrama_microdrama_launch_2026"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/"
 author: "MetaAdvisor.eu"
-image_url: "/images/TikTok-PineDrama.png"
-featured_image: "/images/TikTok-PineDrama.png"
-image: "/images/TikTok-PineDrama.png"
-thumbnail: "/images/TikTok-PineDrama.png"
+image_url: "/images/TikTok-PineDrama.webp"
+featured_image: "/images/TikTok-PineDrama.webp"
+image: "/images/TikTok-PineDrama.webp"
+thumbnail: "/images/TikTok-PineDrama.webp"
 image_alt: "Simbolična ilustracija TikTok aplikacije PineDrama i kratkih igranih serija"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -23,6 +23,7 @@ tags:
   - aplikacije
   - digitalni mediji
 summary: "TikTok je tiho lansirao novu aplikaciju PineDrama, fokusiranu na kratke igrane serije od jedne minute, čime ulazi u brzo rastuće tržište microdrama sadržaja."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

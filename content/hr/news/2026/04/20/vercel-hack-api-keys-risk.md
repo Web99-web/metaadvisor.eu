@@ -15,6 +15,7 @@ image_alt: "Cyber security breach i API ključevi pod rizikom"
 image_credit: "Pexels"
 tags: ["crypto", "web3", "security", "vercel", "hack", "api", "blockchain", "developers", "data breach"]
 summary: "Sigurnosni incident u Vercelu otkrio je potencijalni rizik za API ključeve i Web3 aplikacije, uz sumnje na veći napad i moguće curenje podataka."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

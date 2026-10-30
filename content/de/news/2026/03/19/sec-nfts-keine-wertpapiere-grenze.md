@@ -7,14 +7,15 @@ translationKey: "3ffa9223bdcd9d34e19b2de92d504ab7"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/NFT.png"
-featured_image: "/images/NFT.png"
-image: "/images/NFT.png"
-thumbnail: "/images/NFT.png"
+image_url: "/images/NFT.webp"
+featured_image: "/images/NFT.webp"
+image: "/images/NFT.webp"
+thumbnail: "/images/NFT.webp"
 image_alt: "NFT als digitales Sammlerstück und regulatorische Grenze"
 image_credit: "MetaAdvisor.eu"
 tags: ["nft", "krypto", "regulierung", "sec", "digitale vermögenswerte", "blockchain", "analyse", "markt"]
 summary: "Die US-SEC erklärt, dass NFTs in der Regel keine Wertpapiere sind, betont jedoch, dass die endgültige Einstufung von ihrer Nutzung und Struktur abhängt."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

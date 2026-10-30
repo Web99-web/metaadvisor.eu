@@ -7,14 +7,15 @@ translationKey: "c1d8477af93d4e6aa58c91f7f30ab552"
 source: "Metaadvisor (Cointelegraph, Protos, TheStreet, Gerichtsdokumente)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Coinbase-frozen-dispute.png"
-featured_image: "/images/hack/Coinbase-frozen-dispute.png"
-image: "/images/hack/Coinbase-frozen-dispute.png"
-thumbnail: "/images/hack/Coinbase-frozen-dispute.png"
+image_url: "/images/hack/Coinbase-frozen-dispute.webp"
+featured_image: "/images/hack/Coinbase-frozen-dispute.webp"
+image: "/images/hack/Coinbase-frozen-dispute.webp"
+thumbnail: "/images/hack/Coinbase-frozen-dispute.webp"
 image_alt: "Coinbase-Klage wegen eingefrorener Krypto-Gelder im Zusammenhang mit dem DeFi Saver Exploit"
 image_credit: "Metaadvisor.eu"
 tags: ["coinbase", "krypto", "bitcoin", "defi", "defi saver", "dai", "hack", "phishing", "tornado cash", "inferno drainer", "cybersicherheit", "klage", "krypto regulierung", "wallet", "stablecoin", "krypto diebstahl"]
 summary: "Coinbase steht wegen eingefrorener Gelder im Zusammenhang mit einem $55 Millionen schweren DeFi Saver Phishing-Angriff vor Gericht. Der Fall wirft erneut Fragen zu Eigentum, Verantwortung von Börsen und der Zukunft der Krypto-Regulierung auf."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

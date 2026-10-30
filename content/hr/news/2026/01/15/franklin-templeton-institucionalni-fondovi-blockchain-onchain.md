@@ -7,10 +7,10 @@ translationKey: "franklin_templeton_onchain_money_market_2026"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2026/01/13/franklin-templeton-turns-money-market-fund-into-stablecoin-reserve-vehicle"
 author: "MetaAdvisor.eu"
-image_url: "/images/Franklin-Templeton.png"
-featured_image: "/images/Franklin-Templeton.png"
-image: "/images/Franklin-Templeton.png"
-thumbnail: "/images/Franklin-Templeton.png"
+image_url: "/images/Franklin-Templeton.webp"
+featured_image: "/images/Franklin-Templeton.webp"
+image: "/images/Franklin-Templeton.webp"
+thumbnail: "/images/Franklin-Templeton.webp"
 image_alt: "Franklin Templeton prenosi institucionalne fondove tržišta novca na blockchain"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Jedan od najvećih svjetskih upravitelja imovinom, Franklin Templeton, prebacio je dva institucionalna fonda tržišta novca na blockchain, čime tradicionalne financije po prvi put izravno ulaze u onchain infrastrukturu."
@@ -21,6 +21,7 @@ tags:
   - institucionalni kapital
   - stablecoins
   - tradfi
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,15 +7,16 @@ translationKey: "banka-italije-testirala-stablecoine-trosak-2026-08-12"
 source: "Banca d’Italia, Weltbank und öffentlich verfügbare Berichte zur Studie"
 source_url: "https://www.bancaditalia.it/pubblicazioni/interventi-governatore/integov2026/20260505-panetta/index.html?com.dotmarketing.htmlpage.language=1"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
-featured_image: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
-image: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
-thumbnail: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
+image_url: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
+featured_image: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
+image: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
+thumbnail: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
 image_alt: "Die Bank von Italien testete Stablecoin-Überweisungen mit Kosten zwischen 0,3 und fast 9 Prozent"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Stablecoin", "Stablecoins", "USDC", "Bank von Italien", "Banca d’Italia", "Geldüberweisungen", "grenzüberschreitende Zahlungen", "Blockchain", "Fiatgeld", "On-Ramp", "Off-Ramp", "Wise", "Weltbank", "Krypto", "digitale Zahlungen"]
 description: "Die Bank von Italien testete reale USDC-Überweisungen. Die Gesamtkosten lagen zwischen 0,3% und fast 9%, wobei der größte Teil der Kosten nicht auf der Blockchain entstand, sondern bei der Umwandlung zwischen Stablecoins und gewöhnlichem Geld."
 summary: "Forscher der Bank von Italien testeten Überweisungen von 200 USDC zwischen Italien und fünf Ländern. Stablecoins waren in den meisten Korridoren günstiger als der globale Durchschnitt für Geldüberweisungen, aber nur auf einem Teil der vergleichbaren Strecken günstiger als Wise. Die größten Kosten und Verzögerungen entstanden beim Ein- und Ausstieg aus Krypto, nicht auf der Blockchain selbst."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

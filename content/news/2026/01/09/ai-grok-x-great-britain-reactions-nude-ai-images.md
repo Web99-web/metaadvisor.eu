@@ -7,10 +7,10 @@ translationKey: "bfc8c630ab4c8264f9719301d9743487"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2026/jan/09/grok-ai-x-explainer-legal-regulation-nudified-images-social-media"
 author: "MetaAdvisor.eu"
-image_url: "/images/AI-risks.png"
-featured_image: "/images/AI-risks.png"
-image: "/images/AI-risks.png"
-thumbnail: "/images/AI-risks.png"
+image_url: "/images/AI-risks.webp"
+featured_image: "/images/AI-risks.webp"
+image: "/images/AI-risks.webp"
+thumbnail: "/images/AI-risks.webp"
 image_alt: "Artificial intelligence risks, privacy and law at the center of public debate"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -25,6 +25,7 @@ tags:
   - deepfake
   - digital-rights
 summary: "The spread of AI-generated nude images on platform X has triggered a debate in Great Britain over legality, privacy and platform responsibility. Incidents linked to the Grok tool have prompted political reactions and renewed calls for clearer AI safeguards."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

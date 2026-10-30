@@ -16,6 +16,7 @@ image_alt: "LinkedIn-Algorithmus und mögliche Bevorzugung männlicher Profile"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["linkedin","algorithmus","kuenstliche-intelligenz","ai","soziale-netzwerke","diskriminierung","geschlecht","technologie","llm"]
 summary: "LinkedIn-Nutzerinnen berichten, dass ihre Reichweite stark gestiegen ist, nachdem sie das Geschlecht in ihrem Profil auf männlich geändert haben – was eine Debatte über mögliche algorithmische Voreingenommenheit ausgelöst hat."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

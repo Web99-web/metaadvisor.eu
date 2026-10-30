@@ -7,10 +7,10 @@ translationKey: "trustwallet_hack_aftermath_29122025"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/trust-wallet-verification-phase-false-claims-hack"
 author: "Metaadvisor.eu"
-image_url: "/images/TrustWallet-hacked.png"
-featured_image: "/images/TrustWallet-hacked.png"
-image: "/images/TrustWallet-hacked.png"
-thumbnail: "/images/TrustWallet-hacked.png"
+image_url: "/images/TrustWallet-hacked.webp"
+featured_image: "/images/TrustWallet-hacked.webp"
+image: "/images/TrustWallet-hacked.webp"
+thumbnail: "/images/TrustWallet-hacked.webp"
 image_alt: "Trust Wallet Hack über 7 Millionen US-Dollar im Zusammenhang mit einer Chrome-Erweiterung"
 image_credit: "MetaAdvisor / Illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - crypto wallet
   - cyber sicherheit
 summary: "Nach dem Hackerangriff an Weihnachten im Umfang von rund 7 Millionen US-Dollar steht Trust Wallet vor einem neuen Problem: Tausende falsche Erstattungsanträge und eine ernste Vertrauenskrise in der Krypto-Sicherheit."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

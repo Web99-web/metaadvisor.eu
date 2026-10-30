@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/02/google-chrome-mo
 summary: "Judge rules Google can keep Chrome despite monopoly ruling, but limits exclusive contracts and requires data sharing."
 tags: ["Google", "Chrome", "antitrust", "monopoly", "tech"]
 image_url: "/images/google.png"
+categories: ["news"]
 ---
 
 A federal judge has ruled that **Google will not be forced to sell its Chrome browser**, despite the company being found guilty of maintaining a monopoly last year.  

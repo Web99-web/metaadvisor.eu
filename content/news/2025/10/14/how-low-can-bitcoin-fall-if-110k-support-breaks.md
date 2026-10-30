@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-low-can-bitcoin-price-go-if-dollar110k-btc-support-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "Bitcoin breaking support — price chart sliding lower"
 image_credit: "Image is symbolic."
 tags: ["bitcoin", "crypto", "price analysis", "BTC support", "liquidations", "Fibonacci", "technical analysis"]
 summary: "Bitcoin is testing the $110,000 support. If it breaks, analysts warn of cascading liquidations and fresh buy zones below 100k."
+categories: ["crypto"]
 ---
 
 Bitcoin sits at a **critical support around $110,000**. The key question: *what if it doesn’t hold?* A breakdown could trigger **cascading liquidations** and open a path toward lower psychological levels.

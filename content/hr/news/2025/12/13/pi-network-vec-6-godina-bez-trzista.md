@@ -15,6 +15,7 @@ image_alt: "Pi Network – kriptovaluta koja već šest godina raste bez otvoren
 image_credit: "MetaAdvisor AI-generated"
 tags: ["pi-network","kriptovalute","blockchain","rudarenje","mobilna-aplikacija","kripto-zajednica","likvidnost","trziste","analiza"]
 summary: "Pi Network je kripto-projekt koji već šest godina okuplja milijune korisnika bez otvorenog tržišta i jasne tržišne cijene, što ga čini jedinstvenim, ali i vrlo rizičnim fenomenom."
+categories: ["news"]
 ---
 
 # Pi Network već 6 godina raste bez tržišta

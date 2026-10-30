@@ -7,14 +7,15 @@ translationKey: "b47c7c5ef9555053fb7ff3e500242836"
 author: "CoinDesk"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/HYPE-up1.png"
-featured_image: "/images/HYPE-up1.png"
-image: "/images/HYPE-up1.png"
-thumbnail: "/images/HYPE-up1.png"
+image_url: "/images/HYPE-up1.webp"
+featured_image: "/images/HYPE-up1.webp"
+image: "/images/HYPE-up1.webp"
+thumbnail: "/images/HYPE-up1.webp"
 image_alt: "Rast HYPE tokena uz narativ burn mehanizma"
 image_credit: "Simbolična ilustracija"
 tags: ["hype", "hyperliquid", "jup", "jupiter", "kripto", "altcoini", "token burn", "otključavanje", "unlock", "tokenomika", "defi", "derivati", "trgovanje", "supply freeze", "governance", "ponuda", "emisija tokena"]
 summary: "HYPE je porastao 5% unatoč najavljenom otključavanju tokena vrijednom 316 milijuna USD, zahvaljujući snažnom burn mehanizmu. JUP bilježi rast nakon odluke o zamrzavanju nove emisije tokena za 2026., potvrđujući trend discipline ponude među altcoinima."
+categories: ["crypto"]
 ---
 
 # HYPE skače 5% dok burn neutralizira otključavanje od 316 mil. USD, JUP raste zbog zamrzavanja emisije

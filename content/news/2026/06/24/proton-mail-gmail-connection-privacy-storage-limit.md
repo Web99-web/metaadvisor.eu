@@ -7,14 +7,15 @@ translationKey: "proton-mail-gmail-povezivanje-privatnost-limit-prostora-2026-06
 source: "Proton, Google, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Proton-Gmail1.png"
-featured_image: "/images/news/Proton-Gmail1.png"
-image: "/images/news/Proton-Gmail1.png"
-thumbnail: "/images/news/Proton-Gmail1.png"
+image_url: "/images/news/Proton-Gmail1.webp"
+featured_image: "/images/news/Proton-Gmail1.webp"
+image: "/images/news/Proton-Gmail1.webp"
+thumbnail: "/images/news/Proton-Gmail1.webp"
 image_alt: "Proton Mail as a Swiss privacy email service and the question of Gmail connection"
 image_credit: "Metaadvisor.eu"
 tags: ["Proton Mail", "Gmail", "email privacy", "private email", "Swiss privacy email", "Google", "Google account", "secure email", "encrypted email", "Easy Switch", "email migration", "cloud storage", "free email limits", "digital privacy", "Big Tech", "Metaadvisor"]
 summary: "Proton Mail now offers users the option to connect a Gmail account. For some, this is a practical bridge toward a more private email service. For others, it raises concrete questions about privacy, old Gmail messages and the storage limits of free email accounts."
+categories: ["tech"]
 ---
 
 The image is symbolic.

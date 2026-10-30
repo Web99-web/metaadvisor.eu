@@ -7,14 +7,15 @@ translationKey: "cc097034a02380816b882efcc9d8f192"
 source: "Metaadvisor (CoinDesk, Crypto Briefing, Decrypt)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-Casascius1.png"
-featured_image: "/images/BTC-Casascius1.png"
-image: "/images/BTC-Casascius1.png"
-thumbnail: "/images/BTC-Casascius1.png"
+image_url: "/images/BTC-Casascius1.webp"
+featured_image: "/images/BTC-Casascius1.webp"
+image: "/images/BTC-Casascius1.webp"
+thumbnail: "/images/BTC-Casascius1.webp"
 image_alt: "Rare physical Casascius Bitcoin redeemed after 15 years for $1.78 million"
 image_credit: "MetaAdvisor.eu"
 tags: ["Bitcoin", "BTC", "Casascius", "Casascius Bitcoin", "physical Bitcoin", "Mike Caldwell", "Bitcoin history", "Bitcoin collectors", "Bitcoin numismatics", "private key", "hologram", "Bitcoin wallet", "crypto collectibles", "early Bitcoin", "Bitcoin 2011", "Bitcoin artifact", "crypto history", "digital assets", "Metaadvisor"]
 summary: "A rare physical Casascius Bitcoin from the early history of Bitcoin has been opened after more than a decade, and 25 BTC worth around $1.78 million were moved. By removing the hologram, the owner gained access to the digital value, but the coin lost part of its collector value."
+categories: ["crypto"]
 ---
 
 <small><em>The image is symbolic.</em></small>

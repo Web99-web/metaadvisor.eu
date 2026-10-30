@@ -15,6 +15,7 @@ image_alt: "Twenty One Capital XXI Bitcoin treasury illustration"
 image_credit: "Metaadvisor AI-generated"
 tags: ["bitcoin","btc","treasury","corporate-bitcoin","strategy","microstrategy","mara","xxi","listing","nyse","crypto","institutional","analysis"]
 summary: "Twenty One Capital is preparing to list on the NYSE, becoming the third-largest corporate Bitcoin holder with more than $4 billion in BTC, behind only Strategy and MARA Holdings."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

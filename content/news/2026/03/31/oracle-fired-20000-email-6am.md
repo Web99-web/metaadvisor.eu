@@ -7,14 +7,15 @@ translationKey: "b9f1c8a7e3d44a6f92b5c1d8e7f3a901"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (business media, market sources)"
 source_url: ""
-image_url: "/images/news/Oracle-fired-20000.png"
-featured_image: "/images/news/Oracle-fired-20000.png"
-image: "/images/news/Oracle-fired-20000.png"
-thumbnail: "/images/news/Oracle-fired-20000.png"
+image_url: "/images/news/Oracle-fired-20000.webp"
+featured_image: "/images/news/Oracle-fired-20000.webp"
+image: "/images/news/Oracle-fired-20000.webp"
+thumbnail: "/images/news/Oracle-fired-20000.webp"
 image_alt: "Mass layoffs at Oracle via a 6 AM email"
 image_credit: "MetaAdvisor.eu"
 tags: ["oracle", "layoffs", "ai", "artificial intelligence", "technology", "jobs", "crisis", "big tech", "cloud"]
 summary: "Tens of thousands of Oracle employees are reportedly losing their jobs through a single email sent at 6 AM. The move raises questions about the real cost of the AI race and the new reality of the job market."
+categories: ["tech"]
 ---
 
 *The image is symbolic.*

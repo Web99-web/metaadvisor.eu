@@ -7,14 +7,15 @@ translationKey: "e504babf4306531abce120a85537fd6a"
 source: "Metaadvisor.eu (TechCrunch, The Next Web, Yahoo Finance)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/PEEC-AI-GEO-SEO.png"
-featured_image: "/images/companies/PEEC-AI-GEO-SEO.png"
-image: "/images/companies/PEEC-AI-GEO-SEO.png"
-thumbnail: "/images/companies/PEEC-AI-GEO-SEO.png"
+image_url: "/images/companies/PEEC-AI-GEO-SEO.webp"
+featured_image: "/images/companies/PEEC-AI-GEO-SEO.webp"
+image: "/images/companies/PEEC-AI-GEO-SEO.webp"
+thumbnail: "/images/companies/PEEC-AI-GEO-SEO.webp"
 image_alt: "Peec AI and the rise of SEO for ChatGPT and AI search visibility"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "künstliche intelligenz", "peec ai", "chatgpt", "grok", "gemini", "perplexity", "seo", "geo", "generative engine optimization", "ki-suche", "ki-antworten", "sichtbarkeit in ki-antworten", "berliner startup", "startup", "digitales marketing", "brand visibility", "llm", "claude", "search", "marketing", "future tech", "ki-tools", "tech", "metaadvisor"]
 summary: "Das Berliner Startup Peec AI zeigt, wie schnell sich digitales Marketing verändert. Da Nutzer ihre Fragen immer häufiger an ChatGPT, Grok, Gemini, Perplexity und andere KI-Systeme stellen, wollen Marken zunehmend wissen, ob sie in diesen Antworten erscheinen und wie sie ihre Sichtbarkeit verbessern können."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

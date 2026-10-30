@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/xrp-trading-idea-neutra
 summary: "Whale accumulation eases selling pressure near $2.76 lows as institutional flows push XRP toward the $2.86 resistance zone."
 tags: ["xrp", "XRP", "crypto", "trading", "RSI", "breakout", "analysis"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/0/0c/XRP_Logo.svg"
+categories: ["news"]
 ---
 
 **XRP** saw a volatile session, moving between **$2.76 and $2.86**, as geopolitical and monetary policy uncertainty weighed on crypto markets.  

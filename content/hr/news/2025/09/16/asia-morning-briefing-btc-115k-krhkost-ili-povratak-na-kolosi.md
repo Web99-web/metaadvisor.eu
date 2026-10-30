@@ -16,6 +16,7 @@ image_alt: "Jutarnji pregled tržišta u Aziji — Bitcoin oko 115.000 $"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitcoin","asia","etf","volatility","glassnode","qcp","macro","metaadvisor"]
 summary: "Bitcoin se u azijskoj sesiji zadržao iznad 115.000 $. Tržište je podijeljeno: dio analitičara naglašava krhkost rasta, dok drugi vide potvrdu ‘povratka na kolosijek’ uz ETF priljeve i mekši makro ton."
+categories: ["crypto"]
 ---
 
 **Kratko:** BTC (**~115.8k $**) je u utorak ujutro u Aziji ostao iznad **115k** nakon snažnog početka tjedna. Uz **pozitivne tokove u spot ETF-ove** i očekivanja **smanjenja stopa** idući tjedan, sentiment je mješovit: **je li oporavak krhak ili je kripto ponovno na dobrom putu?**

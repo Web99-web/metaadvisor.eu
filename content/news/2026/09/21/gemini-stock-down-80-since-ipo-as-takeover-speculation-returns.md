@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Gemini", "Winklevoss", "Hyperliquid", "HYPE", "IPO", "stock", "takeover", "crypto exchange", "licenses", "regulation", "crypto", "CEX", "DEX"]
 description: "Gemini shares are down about 80% since the company went public, while weaker exchange revenue and trading volumes are reviving takeover speculation. Regulatory licenses and custody infrastructure may now be among its most valuable assets."
 summary: "Gemini stock is down about 80% since its IPO, while exchange revenue, spot trading volume and assets on the platform have fallen sharply. That has revived takeover speculation, although any potential Hyperliquid angle would be far from simple because Hyperliquid operates as a decentralized trading protocol while Gemini is a regulated centralized exchange."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

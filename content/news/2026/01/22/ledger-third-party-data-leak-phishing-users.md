@@ -15,6 +15,7 @@ image_alt: "Ledger hardware wallet and security warnings"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags: ["ledger","hardware wallet","phishing","security","data breach","crypto fraud","self custody","wallet security","blockchain security","crypto users"]
 summary: "In early 2026, some Ledger users became targets of highly targeted phishing attacks following a data leak at a third-party provider. While Ledger wallets themselves were not compromised, the incident highlighted how exposed users can be across the broader crypto ecosystem."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

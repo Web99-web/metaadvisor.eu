@@ -10,6 +10,7 @@ image_url: "/images/grafikon-manji2.jpg"
 image_alt: "Chart highlighting the Fed decision and crypto moves"
 tags: ["crypto","macro","fed","mkr","sky","token-unlocks"]
 summary: "Markets lean toward a 25 bp cut at the Sept. 17 FOMC. Sept. 18 is the penalty-free MKR→SKY deadline; multiple token unlocks keep liquidity in focus as Glassnode flags a return to net selling across BTC cohorts."
+categories: ["crypto"]
 ---
 
 **What to watch this week**

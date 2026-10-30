@@ -3,7 +3,7 @@ title: "Michael Saylors Bitcoin-Besessenheit: Wie alles begann"
 slug: "michael-saylor-bitcoin-besessenheit-wie-alles-begann"
 date: 2025-09-16T06:26:26Z
 category: "crypto"
-translationKey: "ea5b30b57b7d41c6572a0389df904200"
+translationKey: "ea5b30b57b7d41c6572a0389df904200--2025-09-16"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/michael-saylor-s-bitcoin-obsession-how-it-all-started"
 author: "Cointelegraph"
@@ -16,6 +16,7 @@ image_alt: "Michael Saylor"
 image_credit: "Wikimedia Commons / Gage Skidmore (CC BY-SA 2.0)"
 tags: ["crypto", "bitcoin", "microstrategy", "michael saylor", "corporate-treasury"]
 summary: "Vom Skeptiker zum prominentesten Unternehmens-Fürsprecher: Wie Michael Saylor die Bilanz von MicroStrategy veränderte und institutionelle BTC-Adoption befeuerte."
+categories: ["crypto"]
 ---
 
 **Kurz:** Michael Saylor, Mitgründer von MicroStrategy, wandelte sich vom öffentlichen Skeptiker (2013) zum lautesten Fürsprecher von Bitcoin auf Unternehmensebene. Der Wendepunkt kam 2020, als die Firma BTC als **primäre Reserve-Vermögensposition** einführte und langfristig akkumulierte.

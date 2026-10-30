@@ -9,6 +9,7 @@ summary: "Analyst Alex Krüger argumentiert, dass bärisch wirkende Charts und O
 tags: ["crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/BTCETHaltcoins-strength.jpg?auto=format&width=1920"
 image: "https://www.coindesk.com/resizer/v2/BTCETHaltcoins-strength.jpg?auto=format&width=1920"
+categories: ["crypto"]
 ---
 
 Der Krypto-Analyst und Makroökonom **Alex Krüger** ist der Meinung, dass die Märkte derzeit so bärisch aussehen, dass sie bullisch sein könnten.  

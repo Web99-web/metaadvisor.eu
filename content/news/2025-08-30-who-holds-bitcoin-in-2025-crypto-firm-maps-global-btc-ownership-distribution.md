@@ -9,6 +9,7 @@ summary: "Research by River shows individuals still hold most bitcoins mined so 
 tags: ["bitcoin", "crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/bitcoin-holders-2025.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/bitcoin-holders-2025.jpg?auto=format&width=1200"
+categories: ["crypto"]
 ---
 
 The U.S.-based Bitcoin services firm **River** published ownership distribution research on August 25. The study groups the circulating bitcoin supply into several categories and maps the market share of each, using public filings, custodial address tagging, and prior blockchain research.  

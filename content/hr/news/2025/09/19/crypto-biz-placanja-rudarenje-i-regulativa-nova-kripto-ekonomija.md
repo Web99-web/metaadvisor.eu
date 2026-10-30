@@ -16,6 +16,7 @@ image_alt: "Ilustracija financijskih tržišta i blockchain ekonomije (simbolič
 image_credit: "MetaAdvisor image map (simbolična slika)"
 tags: ["crypto", "payments", "PayPal", "Google", "stablecoins", "miners", "ETF", "regulation"]
 summary: "Tjedni pregled: nova plaćateljska infrastruktura, dinamika rudara, stablecoini pod povećalom i sve brži ulazak ETF-ova u mainstream."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

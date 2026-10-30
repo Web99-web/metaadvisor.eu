@@ -25,6 +25,7 @@ tags:
   - porezi
   - zakonodavstvo
 summary: "Europska komisija šalje formalne opomene Belgiji, Španjolskoj, Portugalu i još devet članica zbog neprovođenja kripto-poreznih pravila i MiCA okvira."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

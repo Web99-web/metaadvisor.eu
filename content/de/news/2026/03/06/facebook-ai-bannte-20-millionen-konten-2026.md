@@ -7,14 +7,15 @@ translationKey: "facebook-ai-ban-20m-accounts-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse, Gemini, Nutzerberichte, Technologieforen"
 source_url: ""
-image_url: "/images/Facebook-banned-20M-people.png"
-featured_image: "/images/Facebook-banned-20M-people.png"
-image: "/images/Facebook-banned-20M-people.png"
-thumbnail: "/images/Facebook-banned-20M-people.png"
+image_url: "/images/Facebook-banned-20M-people.webp"
+featured_image: "/images/Facebook-banned-20M-people.webp"
+image: "/images/Facebook-banned-20M-people.webp"
+thumbnail: "/images/Facebook-banned-20M-people.webp"
 image_alt: "Facebook KI-Bans und falsche Kontosperren"
 image_credit: "Metaadvisor Illustration"
 tags: ["facebook", "gebannt", "ausgeschlossen", "ki moderationssystem", "meta", "digitale rechte", "zensur", "algorithmen", "soziale netzwerke"]
 summary: "Schätzungen zufolge hat Facebook Anfang 2026 innerhalb von nur zwei Monaten bis zu 20 Millionen Konten gebannt. Analysen zeigen, dass mehr als 1,5 Millionen Nutzer möglicherweise fälschlicherweise gebannt wurden – oft ohne Möglichkeit, menschlichen Support zu kontaktieren."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

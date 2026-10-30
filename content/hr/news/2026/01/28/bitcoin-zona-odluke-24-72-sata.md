@@ -7,10 +7,10 @@ translationKey: "bitcoin_zona_odluke_24_72_sata_20260128"
 source: "MetaAdvisor analiza / tržišni pregled"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/btc-sideways1.png"
-featured_image: "/images/btc-sideways1.png"
-image: "/images/btc-sideways1.png"
-thumbnail: "/images/btc-sideways1.png"
+image_url: "/images/btc-sideways1.webp"
+featured_image: "/images/btc-sideways1.webp"
+image: "/images/btc-sideways1.webp"
+thumbnail: "/images/btc-sideways1.webp"
 image_alt: "Bitcoin u bočnom kretanju tržišta – simbolična ilustracija"
 image_credit: "Ilustracija / MetaAdvisor.eu"
 tags:
@@ -35,6 +35,7 @@ tags:
   - tržišna odluka
   - volatilnost
 summary: "Bitcoin se nalazi u kritičnoj zoni odluke u kojoj sljedećih 24–72 sata mogu odrediti smjer cijelog kripto tržišta. Donosimo pregled ključnih cijena, ponašanja altcoina i signala koje tržište trenutno šalje."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

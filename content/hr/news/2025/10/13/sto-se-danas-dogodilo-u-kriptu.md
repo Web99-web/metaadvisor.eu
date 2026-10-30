@@ -3,7 +3,7 @@ title: "Što se danas dogodilo u kriptu"
 slug: "sto-se-danas-dogodilo-u-kriptu"
 date: 2025-10-13T14:52:35Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-10-13"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
@@ -16,6 +16,7 @@ image_alt: "Dnevni sažetak kripto vijesti"
 image_credit: "Slika je simbolična."
 tags: ["kripto", "bitcoin", "ethereum", "ETF", "BlackRock", "IBIT", "covered call", "UK Finance", "tokenizacija", "depoziti", "GBTD", "HSBC", "Barclays", "Lloyds", "NatWest", "Santander", "Hashdex", "XRP", "Solana", "Stellar", "XLM", "SEC", "Nasdaq", "NCIQ", "Europa", "Ujedinjeno Kraljevstvo", "SAD", "tržišta", "regulacija"]
 summary: "UK Finance pokreće pilot tokeniziranih depozita s šest velikih banaka; BlackRock cilja BTC prinos kroz novi Premium Income ETF; Hashdex širi američki kripto indeks ETF na XRP, Solanu i Stellar."
+categories: ["crypto"]
 ---
 
 **Kratko:** Danas tri teme guraju narativ o *institucionalizaciji kripta*: (1) **UK Finance** starta pilot tokeniziranih depozita u funtama sa šest velikih banaka, (2) **BlackRock** najavljuje **Bitcoin Premium Income ETF** (covered-call strategija za generiranje prinosa), te (3) **Hashdex** širi svoj **Crypto Index US ETF** na **XRP, SOL i XLM** nakon novih generičkih listing standarda SEC-a.

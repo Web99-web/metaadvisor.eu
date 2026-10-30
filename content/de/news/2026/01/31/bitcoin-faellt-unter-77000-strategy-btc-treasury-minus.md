@@ -7,14 +7,15 @@ translationKey: "a2cc56c5973bec55be6785b3e9df3d6c"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-crashes-76k-strategy-cost-basis-2b-liquidation"
 author: "Metaadvisor.eu"
-image_url: "/images/Microstrategy-Strategy.png"
-featured_image: "/images/Microstrategy-Strategy.png"
-image: "/images/Microstrategy-Strategy.png"
-thumbnail: "/images/Microstrategy-Strategy.png"
+image_url: "/images/Microstrategy-Strategy.webp"
+featured_image: "/images/Microstrategy-Strategy.webp"
+image: "/images/Microstrategy-Strategy.webp"
+thumbnail: "/images/Microstrategy-Strategy.webp"
 image_alt: "Bitcoin-Kursrückgang und Auswirkungen auf die BTC-Treasury-Strategie von Strategy"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "crypto", "strategy", "microstrategy", "liquidationen", "hebel", "markt", "fed", "makro", "etf"]
 summary: "Bitcoin fiel am Wochenende unter 77.000 USD und drückte Strategy erstmals unter die durchschnittliche Kaufbasis seiner BTC-Bestände. Der Kursrutsch erfolgte in einem Umfeld aus dünner Liquidität, massiven Liquidationen und angespanntem Makro-Sentiment."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

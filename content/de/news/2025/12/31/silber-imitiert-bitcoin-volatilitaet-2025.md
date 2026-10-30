@@ -7,10 +7,10 @@ translationKey: "silver_bitcoin_volatility_31122025"
 source: "MetaAdvisor Analyse — basierend auf einem Cointelegraph-Bericht"
 source_url: "https://cointelegraph.com/news/silver-price-surge-bitcoin-crypto-volatility"
 author: "Metaadvisor.eu"
-image_url: "/images/silver.png"
-featured_image: "/images/silver.png"
-image: "/images/silver.png"
-thumbnail: "/images/silver.png"
+image_url: "/images/silver.webp"
+featured_image: "/images/silver.webp"
+image: "/images/silver.webp"
+thumbnail: "/images/silver.webp"
 image_alt: "Silber zeigt bitcoinähnliche Volatilität zum Jahresende 2025"
 tags:
   - silver
@@ -20,6 +20,7 @@ tags:
   - inflation
   - volatility
 summary: "Silber zeigte Ende 2025 extreme Kursschwankungen ähnlich wie Bitcoin, ausgelöst durch geldpolitische Erwartungen, industrielle Nachfrage und schwindendes Vertrauen in den US-Dollar."
+categories: ["crypto"]
 ---
 
 Der Silberpreis hat sich in den letzten Tagen auf eine Weise bewegt, die Investoren aus dem Kryptomarkt nur allzu gut kennen. Starke Kursanstiege, ebenso schnelle Rückgänge und ausgeprägte Intraday-Schwankungen haben das traditionell als stabil geltende Edelmetall in ein Asset verwandelt, dessen Dynamik zunehmend an Bitcoin erinnert.

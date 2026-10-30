@@ -15,6 +15,7 @@ image_alt: "Kripto prijevara i uhićenje osumnjičenih u Paragvaju"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "hack", "prijevara", "cybercrime", "paragvaj", "money mule", "security", "bitcoin"]
 summary: "Policija u Paragvaju razbila je mrežu mladih uključenih u krađu 1,2 milijuna dolara kroz kripto prijevaru i sustav od stotina posrednika."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

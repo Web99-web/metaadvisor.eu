@@ -16,6 +16,7 @@ image_alt: "Illustration of financial markets and the blockchain economy (symbol
 image_credit: "MetaAdvisor image map (symbolic)"
 tags: ["crypto", "payments", "PayPal", "Google", "stablecoins", "miners", "ETF", "regulation"]
 summary: "Weekly brief: new payment rails, miner dynamics, stablecoins under the microscope, and ETFs accelerating the path to mainstream adoption."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

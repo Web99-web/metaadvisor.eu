@@ -7,14 +7,15 @@ translationKey: "natural-gas-prices-mmbtu-mwh-ttf-jkm-natgas-2026-06-22"
 source: "CME Group, ICE, Hypurrscan, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Natural-gas-LNG-prices.png"
-featured_image: "/images/Natural-gas-LNG-prices.png"
-image: "/images/Natural-gas-LNG-prices.png"
-thumbnail: "/images/Natural-gas-LNG-prices.png"
+image_url: "/images/Natural-gas-LNG-prices.webp"
+featured_image: "/images/Natural-gas-LNG-prices.webp"
+image: "/images/Natural-gas-LNG-prices.webp"
+thumbnail: "/images/Natural-gas-LNG-prices.webp"
 image_alt: "Natural gas and LNG prices with Henry Hub, TTF Europe and JKM LNG benchmarks"
 image_credit: "Metaadvisor.eu"
 tags: ["natural gas", "LNG", "Henry Hub", "NG", "TTF", "JKM", "NATGAS", "Hyperliquid", "MMBtu", "MWh", "gas prices", "energy market", "futures", "commodities", "exchange", "Europe", "United States", "Metaadvisor"]
 summary: "US natural gas is often quoted in USD/MMBtu, while European TTF gas is quoted in EUR/MWh. That is why prices such as 3.3 and 42 cannot be compared only by looking at the first number. After conversion, European gas remains more expensive, but the real difference is different from what it looks like at first glance."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Symbolic image.</em></p>

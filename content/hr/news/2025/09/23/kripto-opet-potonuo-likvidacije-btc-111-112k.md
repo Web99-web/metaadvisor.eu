@@ -8,14 +8,15 @@ source: "Metaadvisor Market Wrap"
 source_url: ""
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "BTC nagli pad — simbolična ilustracija"
 image_credit: "Metaadvisor (simbolična slika)"
 tags: ["kripto","Bitcoin","BTC","Ethereum","ETH","likvidacije","long-squeeze","leverage","perps","funding","open-interest","ETF","DXY","Fed","PCE","volatilnost","spot-vs-perps","altcoini","DeFi","tržište"]
 summary: "Noćas ponovno ‘leverage flush’: oko $1.6–1.9 mlrd. likvidacija u 24 h; BTC je na nekim burzama dotaknuo ~$111k prije brzog odbijanca. Kratko objašnjavamo što i zašto."
+categories: ["crypto"]
 ---
 
 **Kratko (23.9. ujutro):**  

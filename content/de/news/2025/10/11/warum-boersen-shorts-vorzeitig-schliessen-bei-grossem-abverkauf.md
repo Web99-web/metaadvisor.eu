@@ -14,6 +14,7 @@ image_alt: "Warum Börsen Shorts vorzeitig schließen"
 image_credit: "Metaadvisor.eu (symbolische Illustration)"
 tags: ["crypto","trading","adl","short","exchange","risk-management","auto-deleveraging","liquidation","market-crash","phantom"]
 summary: "Warum Börsen in Crash-Phasen deine Short-Position schließen, obwohl sie noch im Gewinn ist? Wir erklären den Auto-Deleveraging-(ADL)-Mechanismus."
+categories: ["crypto"]
 ---
 
 ## Was ist passiert?

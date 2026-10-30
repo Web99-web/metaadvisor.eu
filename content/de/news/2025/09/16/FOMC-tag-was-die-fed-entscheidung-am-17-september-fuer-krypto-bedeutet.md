@@ -15,6 +15,7 @@ image_alt: "Jerome Powell bei der Fed-Pressekonferenz"
 image_credit: "US Federal Government (Public Domain), via Wikimedia Commons"
 tags: ["fomc","fed","powell","zinsentscheid","usd","reale renditen","bitcoin","krypto","liquidität","metaadvisor"]
 summary: "Am Mittwoch, 17.9., fällt der Zinsentscheid um 18:00 UTC (14:00 ET), die Pressekonferenz startet um 18:30 UTC. Der Markt preist einen Cut ein; hier sind Szenarien und eine Checkliste für Krypto."
+categories: ["crypto"]
 ---
 
 **Kurz:** Am **Mittwoch, 17. September**, veröffentlicht das FOMC um **18:00 UTC** den Entscheid, **18:30 UTC** folgt die Pressekonferenz. Das Event bewegt **USD, reale Renditen und Liquidität** — Krypto reagiert entsprechend. Der Konsens: **-25 bp**; **Ton** und **Projektionen (Dot-Plot)** sind oft wichtiger als der Schritt selbst.

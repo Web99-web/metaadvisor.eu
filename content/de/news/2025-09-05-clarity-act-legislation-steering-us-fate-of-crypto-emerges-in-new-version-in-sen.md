@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/09/05/legislation-steering-u-s
 summary: "Der Bankenausschuss des US-Senats veröffentlichte einen neuen Entwurf des Krypto-Gesetzes mit Entwickler-Schutz, Insolvenzregeln und Leitlinien für Tokenisierung."
 tags: ["crypto", "clarity act", "us regulation", "senate", "sec", "cftc", "law", "policy"]
 image_url: "/images/financial-chart.jpg"
+categories: ["crypto"]
 ---
 
 Der **US-Senat** treibt seine Arbeit am wichtigsten Gesetz für die Kryptoindustrie voran — dem **Clarity Act**, das endlich eine regulatorische Struktur für Kryptomärkte in den USA schaffen soll. Am Freitag kursierte eine neue Version des Entwurfs, die detaillierte Regelungen zum Entwicklerschutz, Insolvenzrecht und zur Rolle der Aufsichtsbehörden bei der Tokenisierung von Finanzmärkten enthält.  

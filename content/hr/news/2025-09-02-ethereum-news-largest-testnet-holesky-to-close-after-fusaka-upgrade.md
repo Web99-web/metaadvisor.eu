@@ -9,6 +9,7 @@ summary: "Fusaka bi trebala učiniti Ethereum rollupove jeftinijima i bržima ra
 tags: ["crypto","ethereum","testnet","holesky","fusaka"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/3d0589b21d2ef5403db7b13ac4ce23bb1ef91aa1-2000x1125.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/3d0589b21d2ef5403db7b13ac4ce23bb1ef91aa1-2000x1125.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 Nova generacija Ethereum testneta zamijenit će Holesky, nekoć masovno probno okruženje koje se sada gasi nakon dvije godine rada.

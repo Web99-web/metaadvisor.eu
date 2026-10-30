@@ -7,14 +7,15 @@ translationKey: "f0c61a4f93f847d8b2c5aa9f1dbe7741"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Social-networking-erased-destroyed.png"
-featured_image: "/images/Social-networking-erased-destroyed.png"
-image: "/images/Social-networking-erased-destroyed.png"
-thumbnail: "/images/Social-networking-erased-destroyed.png"
+image_url: "/images/Social-networking-erased-destroyed.webp"
+featured_image: "/images/Social-networking-erased-destroyed.webp"
+image: "/images/Social-networking-erased-destroyed.webp"
+thumbnail: "/images/Social-networking-erased-destroyed.webp"
 image_alt: "Digitalno nestajanje korisnika i AI moderacija na društvenim mrežama"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "dsa", "eu", "meta", "facebook", "instagram", "algoritmi", "dark patterns", "ai moderacija", "digitalna prava", "appeals centre europe", "shadowban", "moderacija", "tech", "europe"]
 summary: "Irski regulator otvorio je nove istrage protiv Mete vezane uz recommendation algoritme Facebooka i Instagrama. U isto vrijeme sve više korisnika prijavljuje AI moderation probleme, shadow restrikcije i osjećaj digitalnog nestajanja."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

@@ -15,6 +15,7 @@ image_alt: "Warner Music and Suno AI partnership"
 image_credit: "MetaAdvisor / AI-generated"
 tags: ["ai", "music", "warner", "suno", "copyright", "technology", "ai-music", "innovation"]
 summary: "Warner Music Group and Suno have reached a landmark agreement that ends a copyright lawsuit and paves the way for licensed AI models and new fan experiences."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

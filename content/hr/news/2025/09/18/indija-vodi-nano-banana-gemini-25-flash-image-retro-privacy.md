@@ -15,6 +15,7 @@ image_alt: "Google Gemini — vizualna generacija i uređivanje slika"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ai","google","gemini","nano-banana","india","image-generation","editing","privacy","safety","synthid","app-stores","metaadvisor"]
 summary: "‘Nano Banana’ — neslužbeni nadimak za Googleov Gemini 2.5 Flash Image — eksplodirao je u Indiji: retro portreti, ‘AI saree’ i lokalni trendovi pune feedove. Uz kreativni boom stižu i pitanja o privatnosti i sigurnosti."
+categories: ["news"]
 ---
 
 Indija je ovog rujna postala najveća pozornica za novi AI val: **‘Nano Banana’** — kako korisnici zovu **Gemini 2.5 Flash Image** — probio se na vrh ljestvica aplikacija i pretvorio se u kulturni fenomen. Novinari navode da je **Indija broj 1 po korištenju**, a uzrok nije samo veličina tržišta, nego i maštovita “lokalizacija”: milijuni korisnika poželjeli su se vidjeti kao junaci **Bollywooda 90-ih**, u **‘AI saree’** stilu ili pred kultnim **svjetskim znamenitostima**, sve u prepoznatljivom retro-treš štihu.

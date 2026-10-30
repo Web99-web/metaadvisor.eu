@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu / AI"
 tags: ["Revolut", "Cybersicherheit", "Cybersecurity", "Datenleck", "personenbezogene Daten", "Datenschutz", "Identitätsdiebstahl", "Phishing", "Social Engineering", "Fintech", "Bankwesen", "Kryptowährungen", "Bitcoin", "Datensicherheit", "Online-Betrug"]
 description: "Revolut bestätigte, sensible Daten einiger Nutzer an eine unbefugte dritte Partei übermittelt zu haben, nachdem gefälschte Anfragen über die offizielle E-Mail-Domain einer echten staatlichen Behörde eingegangen waren."
 summary: "Revolut wurde nicht auf klassische Weise gehackt. Das Unternehmen übermittelte selbst sensible Daten einer begrenzten Zahl von Nutzern, nachdem es Anfragen vertraut hatte, die wie legitime Behördenanfragen wirkten. Welche Behörde betroffen war und aus welchem Land sie stammt, ist weiterhin unbekannt."
+categories: ["Cybersecurity"]
 ---
 
 *Bild ist symbolisch.*

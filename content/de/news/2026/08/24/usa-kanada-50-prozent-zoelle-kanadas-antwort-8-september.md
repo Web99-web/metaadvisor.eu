@@ -6,15 +6,16 @@ category: "Wirtschaft"
 translationKey: "us-canada-50-percent-tariffs-start-22-08-and-08-09-2026"
 source: "Truth Social, White House, Department of Finance Canada, Premierminister von Kanada, Reuters, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
-featured_image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
-image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
-thumbnail: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
+image_url: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
+featured_image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
+image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
+thumbnail: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
 image_alt: "USA und Kanada starten eine neue Runde mit 50-Prozent-Zöllen, mit Beginn am 22. August und 8. September 2026"
 image_credit: "Metaadvisor.eu"
 tags: ["USA", "Kanada", "Zölle", "Handelskonflikt", "Trump", "Wirtschaft", "Industrie", "Automobilindustrie", "Stahl", "Märkte"]
 description: "Die US-Zölle von 50 Prozent auf einen Teil der kanadischen Exporte gelten seit dem 22. August, während Kanada Gegenmaßnahmen ab dem 8. September angekündigt hat. Welche Branchen und Unternehmen sind besonders exponiert?"
 summary: "Trump verschärfte am frühen Sonntagmorgen erneut seine Rhetorik gegenüber Kanada. Für die Märkte wichtiger ist jedoch, dass die neuen US-Zölle von 50 Prozent bereits seit dem 22. August gelten, während Kanada ab dem 8. September eigene Gegenmaßnahmen vorbereitet."
+categories: ["Wirtschaft"]
 ---
 
 *Das Bild ist symbolisch.*

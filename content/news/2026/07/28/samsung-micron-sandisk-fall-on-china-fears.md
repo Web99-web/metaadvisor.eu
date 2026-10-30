@@ -7,15 +7,16 @@ translationKey: "samsung-micron-sandisk-padaju-zbog-kine-2026-07-28"
 source: "Reuters, Associated Press, Barron’s and The Guardian"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/Stock-drop-price-down.png"
-featured_image: "/images/daily-charts/Stock-drop-price-down.png"
-image: "/images/daily-charts/Stock-drop-price-down.png"
-thumbnail: "/images/daily-charts/Stock-drop-price-down.png"
+image_url: "/images/daily-charts/Stock-drop-price-down.webp"
+featured_image: "/images/daily-charts/Stock-drop-price-down.webp"
+image: "/images/daily-charts/Stock-drop-price-down.webp"
+thumbnail: "/images/daily-charts/Stock-drop-price-down.webp"
 image_alt: "Falling stock market chart during the sell-off in Samsung, Micron and SanDisk shares"
 image_credit: "Metaadvisor.eu"
 tags: ["Samsung Electronics", "Micron", "SanDisk", "SK Hynix", "CXMT", "KOSPI", "memory chips", "DRAM", "NAND", "HBM memory", "Chinese chips", "semiconductor market", "AI stocks", "stock market sell-off"]
 description: "Samsung, SK Hynix, Micron and SanDisk fell sharply after CXMT’s Chinese IPO and renewed fears about competition in memory chips."
 summary: "The KOSPI fell almost 11% after Samsung and SK Hynix plunged, while concerns about China’s CXMT and progress in domestic lithography equipment triggered a global sell-off in memory-chip producers."
+categories: ["markets"]
 ---
 
 # Samsung, Micron and SanDisk Fall on China Fears

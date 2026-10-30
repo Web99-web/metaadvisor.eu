@@ -15,6 +15,7 @@ image_alt: "SEA token launch — symbolic illustration"
 image_credit: "Image is symbolic."
 tags: ["OpenSea","SEA","token","crypto","DeFi","staking","community","Q1 2026"]
 summary: "OpenSea confirms its long-awaited SEA token will launch in Q1 2026, with 50% of total supply allocated to the community via an initial claim and rewards."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

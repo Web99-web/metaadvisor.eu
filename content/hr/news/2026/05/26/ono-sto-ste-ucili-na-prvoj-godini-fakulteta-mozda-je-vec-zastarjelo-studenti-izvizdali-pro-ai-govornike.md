@@ -16,6 +16,7 @@ image_alt: "Simbolična slika umjetne inteligencije i promjena na tržištu rada
 image_credit: "Metaadvisor.eu"
 tags: ["AI", "umjetna inteligencija", "studenti", "diploma", "tržište rada", "tehnologija", "karijera", "automatizacija", "obrazovanje", "SAD"]
 summary: "Studenti u SAD-u izviždali su pro-AI poruke na svečanoj promociji, nakon što im je poručeno da je dio znanja stečenog na početku studija možda već zastario. Priča otvara šire pitanje: koliko brzo današnje znanje gubi vrijednost i kako se mladi mogu pripremiti za tržište rada koje se mijenja iz mjeseca u mjesec."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">Slika je simbolična.</p>

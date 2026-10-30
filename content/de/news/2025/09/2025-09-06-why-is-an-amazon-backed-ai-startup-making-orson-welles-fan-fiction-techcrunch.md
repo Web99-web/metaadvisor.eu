@@ -9,6 +9,7 @@ summary: "Fable will mit KI die verlorenen 43 Minuten von Welles’ ‘Ambersons
 tags: ["ai", "orson welles", "the magnificent ambersons", "fable", "amazon", "alexa fund", "generative ki", "urheberrecht", "hollywood", "ip", "deepfake", "fan fiction"]
 image_url: "https://images.pexels.com/photos/5826828/pexels-photo-5826828.jpeg"
 image_source: "Pexels – Nicolette Villavicencio (Filmrollen)"
+categories: ["ai"]
 ---
 
 Am Freitag kündigte ein Startup namens **Fable** einen ehrgeizigen, wenn auch rätselhaften Plan an: **die verlorenen 43 Minuten** aus Orson Welles’ Klassiker „**The Magnificent Ambersons**“ zu rekonstruieren.

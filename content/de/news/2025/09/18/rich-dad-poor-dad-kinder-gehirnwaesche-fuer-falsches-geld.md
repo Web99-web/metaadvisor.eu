@@ -16,6 +16,7 @@ image_alt: "Robert Kiyosaki — Autor von ‘Rich Dad, Poor Dad’"
 image_credit: "Foto: Gage Skidmore (Wikimedia), bearbeitet von Metaadvisor.eu"
 tags: ["kiyosaki","bitcoin","gold","silver","fiat","bildung","hard-money","metaadvisor"]
 summary: "Robert Kiyosaki behauptet, Kinder würden darauf konditioniert, für ‘falsches (inflationäres) Geld’ zu arbeiten, und wirbt für Gold, Silber, Öl, Bitcoin und Ether als ‘hartes Geld’."
+categories: ["ai"]
 ---
 
 **Robert Kiyosaki**, Autor des Bestsellers *Rich Dad, Poor Dad* und langjähriger Bitcoin-Befürworter, erneuert seine These, es sei “**kriminell**”, Kindern beizubringen, für **inflationäres, ‘falsches’ Geld** (Fiat) zu arbeiten, während Alternativen wie **Gold, Silber, Bitcoin und Ethereum** kaum vorkämen — sein Begriff dafür: **“hard money”**. Das **Bildungssystem**, so Kiyosaki, **indoktriniere** Kinder, “für falsches Geld zu arbeiten”, statt **echte Werte und Vermögensgüter** zu verstehen.

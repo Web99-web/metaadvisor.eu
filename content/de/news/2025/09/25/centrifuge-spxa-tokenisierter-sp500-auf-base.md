@@ -29,6 +29,7 @@ tags:
   - 24-7-trading
   - onchain
 summary: "Centrifuge bringt SPXA — den ersten lizenzierten S&P-500-Indexfonds auf der Blockchain (Base, L2). 24/7 Handel, transparente Bestände; Partner u. a. Janus Henderson und FalconX."
+categories: ["crypto"]
 ---
 
 **Kurz:** **Centrifuge** lanciert **SPXA**, den ersten **lizenzierten** S&P-500-Indexfonds auf **Blockchain-Rails**. Live auf **Base** (Ethereum L2 von **Coinbase**) soll einer der **wichtigsten Aktienbenchmarks** on-chain zugänglich werden — mit **24/7 Handel** und **transparenten Holdings**.

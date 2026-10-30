@@ -7,14 +7,15 @@ translationKey: "uk_driving_tests_bots_system_failure_21122025"
 source: "The Guardian — tech analiza"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/UK-bot-driving-tests.png"
-featured_image: "/images/UK-bot-driving-tests.png"
-image: "/images/UK-bot-driving-tests.png"
-thumbnail: "/images/UK-bot-driving-tests.png"
+image_url: "/images/UK-bot-driving-tests.webp"
+featured_image: "/images/UK-bot-driving-tests.webp"
+image: "/images/UK-bot-driving-tests.webp"
+thumbnail: "/images/UK-bot-driving-tests.webp"
 image_alt: "Bot koji vozi automobil – simbol zloupotrebe digitalnog sustava vozačkih ispita u UK"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["botovi", "automatizacija", "digitalni-sustavi", "uk", "javne-usluge", "tech-fail", "algoritmi"]
 summary: "Britanski sustav za rezervaciju vozačkih ispita postao je primjer kako loše dizajnirana digitalna platforma, bez zaštite od botova, može paralizirati javnu uslugu."
+categories: ["tech"]
 ---
 
 # Kako su botovi srušili britanski sustav vozačkih ispita

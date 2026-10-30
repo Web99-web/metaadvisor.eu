@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/cftc-spot-crypto-trading-exchanges"
 author: "Cointelegraph — translated & analyzed by MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/cftc-spot-crypto.png"
-featured_image: "/images/cftc-spot-crypto.png"
-image: "/images/cftc-spot-crypto.png"
-thumbnail: "/images/cftc-spot-crypto.png"
+image_url: "/images/cftc-spot-crypto.webp"
+featured_image: "/images/cftc-spot-crypto.webp"
+image: "/images/cftc-spot-crypto.webp"
+thumbnail: "/images/cftc-spot-crypto.webp"
 image_alt: "CFTC crypto spot trading approval"
 image_credit: "Metaadvisor.eu"
 
@@ -31,6 +31,7 @@ tags:
   - analysis
 
 summary: "The US CFTC has officially approved spot crypto trading on federally regulated exchanges — allowing BTC and ETH to be traded under the same strict standards as derivatives for the first time. This could mark a pivotal shift bringing liquidity back onshore."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

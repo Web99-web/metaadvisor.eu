@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Turkey", "Turkish Stock Market", "BIST 100", "MSCI", "Emerging Markets", "Investment Funds", "Stock Market", "Financial Markets", "Market Regulation", "Liquidity", "US Treasuries", "Global Economy", "Business"]
 description: "Turkey's stock market suffers its worst monthly decline since 2008 as 131 funds face liquidation and MSCI warns of serious market concerns."
 summary: "Turkey's BIST 100 index fell 16.65% in September as regulators ordered the liquidation of 131 investment funds. MSCI suspended certain Turkish index adjustments and warned of a possible market reclassification in 2027. Viral claims of one trillion lira being wiped out in a single morning and emergency sales of US Treasuries and gold remain unverified."
+categories: ["business"]
 ---
 
 *This image is for illustrative purposes only.*

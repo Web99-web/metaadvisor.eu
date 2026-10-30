@@ -6,6 +6,7 @@ category: "news"
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/b1b85de94e98aa9acf67e074f449f3046df74c15-700x430.png"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/21/hbar-rebounds-as-swift-blockchain-trials-boost-bullish-outlook"
+categories: ["news"]
 ---
 
 HBAR traded in a narrow but active 4% range from Aug. 20–21, climbing to $0.24 in the evening before correcting to $0.23 early the next day. By session’s end, the token had regained $0.24, reinforcing the $0.23–$0.24 band as a zone of support and accumulation.

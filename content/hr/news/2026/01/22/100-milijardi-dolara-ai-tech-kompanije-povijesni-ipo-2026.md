@@ -7,14 +7,15 @@ translationKey: "ed4d5ac0235b392e657e8f27cfd400a9"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/business/2026/jan/22/the-year-of-the-hectocorn-the-100bn-tech-companies-that-could-float-in-2026"
 author: "MetaAdvisor.eu"
-image_url: "/images/IPO-100milijardi-dolara.png"
-featured_image: "/images/IPO-100milijardi-dolara.png"
-image: "/images/IPO-100milijardi-dolara.png"
-thumbnail: "/images/IPO-100milijardi-dolara.png"
+image_url: "/images/IPO-100milijardi-dolara.webp"
+featured_image: "/images/IPO-100milijardi-dolara.webp"
+image: "/images/IPO-100milijardi-dolara.webp"
+thumbnail: "/images/IPO-100milijardi-dolara.webp"
 image_alt: "AI i tehnološke kompanije pred povijesnim IPO-ima s valuacijama iznad 100 milijardi dolara"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 summary: "Godina 2026. mogla bi postati prekretnica za tržišta kapitala, jer više AI i tehnoloških kompanija razmatra IPO-e s valuacijama većim od 100 milijardi dolara."
 tags: ["ipo", "ai", "umjetna inteligencija", "tehnološke kompanije", "burza", "dionice", "tržišta kapitala", "100 milijardi dolara", "openai", "anthropic", "spacex", "stripe", "nasdaq", "nyse", "tech ipo"]
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

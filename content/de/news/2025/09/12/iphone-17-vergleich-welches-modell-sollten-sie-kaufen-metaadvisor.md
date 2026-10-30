@@ -3,7 +3,7 @@ title: "Kaufberater iPhone 17: Air vs Pro vs Pro Max – welches Modell solltest
 slug: "kaufberater-iphone-17-welches-modell-kaufen"
 date: 2025-09-12T18:46:51Z
 category: "news"
-translationKey: "4f1a99c11e3a4a6b9cb2f4eacb3b8e2a"
+translationKey: "iphone-17-expanded-guide-2025-09-12"
 source: "MetaAdvisor"
 source_url: "https://metaadvisor.eu"
 priority: 100
@@ -11,6 +11,7 @@ image_url: "/images/IPHONE3.jpg"
 tags: ["apple", "iphone", "smartphones", "ai"]
 our_take: |
   Unser Fazit: Alle Modelle bieten 120-Hz-Displays und mehr Basisspeicher. Der wahre Unterschied: schlank & leicht (Air) vs. Performance & Kameras (Pro/Pro Max). Für die meisten ist das iPhone 17 der Preis-Leistungs-Tipp; Creator und Gamer fahren mit Pro besser; wer Komfort & Laufzeit will, nimmt Air.
+categories: ["news"]
 ---
 
 **Kurzfassung:** iPhone 17 für die meisten, **Air** für ultradünn & bequem mit starker Laufzeit, **Pro** für Leistung + Pro-Kameras, **Pro Max** für größtes Display und Ausdauer.

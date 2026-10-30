@@ -16,6 +16,7 @@ image_alt: "Infografik: Your bank balance is not your money"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["banken","geld","finanzen","fractional-reserve","swift","sepa","ach","settlement","liquidität","zahlungssysteme","usa","europa","einlagensicherung","celsius","krypto","digitales-geld","bildung"]
 summary: "Sobald du Geld auf die Bank einzahlst, gehört es nicht mehr dir, sondern der Bank. Dies ist eine tiefgehende Analyse darüber, wie Banken dein Geld nutzen, warum das System nur funktioniert, solange es keine Panik gibt, und warum sich Geld in den USA bewegt, als wäre es 1970."
+categories: ["finanzen"]
 ---
 
 # Geld auf der Bank gehört nicht dir — es ist Eigentum der Bank. Dir gehört nur eine Forderung.

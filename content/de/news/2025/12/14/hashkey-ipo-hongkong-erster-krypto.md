@@ -16,6 +16,7 @@ image_alt: "HashKey IPO Hongkong – erstes vollständig reguliertes Krypto-IPO"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["hashkey","ipo","hongkong","kryptowährungen","börse","regulierung","defi","web3","asien","institutionelles kapital"]
 summary: "HashKey will als erstes vollständig krypto-natives Unternehmen in Hongkong an die Börse gehen und damit testen, ob ein streng reguliertes Krypto-Modell das Vertrauen der Kapitalmärkte gewinnen kann."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

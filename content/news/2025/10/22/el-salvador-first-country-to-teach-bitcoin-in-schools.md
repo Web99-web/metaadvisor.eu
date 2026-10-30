@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "0a9cb5dd-f22b-4c28-9d3b-bc2a92c5d8b0"
 source: "Cointelegraph, Reuters, Mi Primer Bitcoin"
 author: "Metaadvisor.eu"
-image_url: "/images/ElSalvador-schoolBTC.png"
-featured_image: "/images/ElSalvador-schoolBTC.png"
-image: "/images/ElSalvador-schoolBTC.png"
-thumbnail: "/images/ElSalvador-schoolBTC.png"
+image_url: "/images/ElSalvador-schoolBTC.webp"
+featured_image: "/images/ElSalvador-schoolBTC.webp"
+image: "/images/ElSalvador-schoolBTC.webp"
+thumbnail: "/images/ElSalvador-schoolBTC.webp"
 image_alt: "Flag of El Salvador with a Bitcoin symbol"
 image_credit: "Illustrative image."
 tags: ["el salvador", "bitcoin", "btc", "education", "schools", "crypto", "financial literacy"]
 summary: "El Salvador rolls out Bitcoin education across public schools. After a 50-school pilot, the curriculum is expanding nationwide."
+categories: ["crypto"]
 ---
 
 **El Salvador** is officially the first country to integrate **Bitcoin education into public schools**. The Ministry of Education, in partnership with *Mi Primer Bitcoin*, ran a pilot across roughly fifty schools and is now scaling the curriculum nationwide.

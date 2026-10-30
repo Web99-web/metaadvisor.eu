@@ -8,14 +8,15 @@ source: "The Guardian"
 source_url: "https://www.theguardian.com/technology/2026/feb/04/pinterest-sacks-two-engineers-for-software-identify-fired-workers"
 author: "The Guardian"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Pinterest.png"
-featured_image: "/images/Pinterest.png"
-image: "/images/Pinterest.png"
-thumbnail: "/images/Pinterest.png"
+image_url: "/images/Pinterest.webp"
+featured_image: "/images/Pinterest.webp"
+image: "/images/Pinterest.webp"
+thumbnail: "/images/Pinterest.webp"
 image_alt: "Symbolic image representing layoffs and internal systems in a tech company"
 image_credit: "Symbolic image / MetaAdvisor"
 tags: ["pinterest", "technology", "layoffs", "workers-rights", "privacy", "ai", "big-tech", "employees"]
 summary: "Pinterest has fired two engineers after they created internal software to identify employees affected by layoffs. The case raises questions about privacy, ethics and power dynamics inside large tech companies during AI-driven restructuring."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-10px;">

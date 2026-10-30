@@ -7,14 +7,15 @@ translationKey: "bitcoin_10yr_growth_23000_metaadvisor_07122025"
 source: "MetaAdvisor – Analyse"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/btc-in-2015-at-390usd.png"
-featured_image: "/images/btc-in-2015-at-390usd.png"
-image: "/images/btc-in-2015-at-390usd.png"
-thumbnail: "/images/btc-in-2015-at-390usd.png"
+image_url: "/images/btc-in-2015-at-390usd.webp"
+featured_image: "/images/btc-in-2015-at-390usd.webp"
+image: "/images/btc-in-2015-at-390usd.webp"
+thumbnail: "/images/btc-in-2015-at-390usd.webp"
 image_alt: "Bitcoin-Wertentwicklung über 10 Jahre"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","kursentwicklung","krypto","analyse","bitcoin geschichte","satoshi","investitionen","regulierung","wall street"]
 summary: "Bitcoin ist in 10 Jahren von 390 USD auf fast 90.000 USD gestiegen — ein Wachstum von rund 23.000 %. Was sagt dieser Sprung über den Markt, die Regulierung und das Vermächtnis von Satoshi aus?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

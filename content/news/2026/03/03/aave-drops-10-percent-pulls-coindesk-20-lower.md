@@ -15,6 +15,7 @@ image_alt: "AAVE token with price decline and market volatility visualization"
 image_credit: "Illustration / CoinDesk"
 tags: ["aave", "defi", "crypto", "coindesk 20", "index", "ethereum", "trading", "altcoin", "near", "cro", "ada", "solana", "blockchain"]
 summary: "AAVE plunged 10% in daily trading, becoming the biggest laggard in the CoinDesk 20 Index as broader market sentiment weakens."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

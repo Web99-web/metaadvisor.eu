@@ -7,15 +7,16 @@ translationKey: "big-tech-fight-global-scams-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/big-tech-fight-scamers3.png"
-featured_image: "/images/big-tech-fight-scamers3.png"
-image: "/images/big-tech-fight-scamers3.png"
-thumbnail: "/images/big-tech-fight-scamers3.png"
+image_url: "/images/big-tech-fight-scamers3.webp"
+featured_image: "/images/big-tech-fight-scamers3.webp"
+image: "/images/big-tech-fight-scamers3.webp"
+thumbnail: "/images/big-tech-fight-scamers3.webp"
 image_alt: "Big Tech companies fight global scams"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["big tech", "internet prevare", "cyber sigurnost", "tehnologija", "online scam", "digitalna sigurnost"]
 summary: "Najveće tehnološke kompanije svijeta potpisale su dobrovoljni sporazum o zajedničkoj borbi protiv online prevara. Cilj je brže dijeljenje informacija o scamovima i koordinirana reakcija na globalne digitalne prijetnje."
 symbolic_image: true
+categories: ["technology"]
 ---
 *Slika je simbolična.*
 

@@ -1,0 +1,7 @@
+{
+  "publication_approved": false,
+  "linux_qa_completed": false,
+  "http_migration_layer_approved": false,
+  "regional_analytics_review_completed": false,
+  "note": "Only explicit approvals / actual test evidence may change these flags; local QA never sets publication approval."
+}

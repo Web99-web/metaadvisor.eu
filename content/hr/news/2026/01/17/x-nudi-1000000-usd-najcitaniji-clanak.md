@@ -7,10 +7,10 @@ translationKey: "x_one_million_top_article_2026"
 source: "X (objava Nikite Bier)"
 source_url: "https://x.com/nikitabier/status/2012307256444854693"
 author: "MetaAdvisor.eu"
-image_url: "/images/X-1-mil-usd.png"
-featured_image: "/images/X-1-mil-usd.png"
-image: "/images/X-1-mil-usd.png"
-thumbnail: "/images/X-1-mil-usd.png"
+image_url: "/images/X-1-mil-usd.webp"
+featured_image: "/images/X-1-mil-usd.webp"
+image: "/images/X-1-mil-usd.webp"
+thumbnail: "/images/X-1-mil-usd.webp"
 image_alt: "X platform nudi milijun dolara za najčitaniji članak"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -23,6 +23,7 @@ tags:
   - viral
   - news
 summary: "Platforma X objavila je da nudi do 1.000.000 USD autoru najčitanijeg članka objavljenog u sljedeća dva tjedna, jasno signalizirajući novi smjer prema dugom i viralnom sadržaju."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

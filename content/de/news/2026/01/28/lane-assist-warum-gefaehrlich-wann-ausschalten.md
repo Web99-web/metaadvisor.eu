@@ -7,10 +7,10 @@ translationKey: "lane_assist_risks_20260128"
 source: "Allgemeine Sicherheitsanalyse / Fahrzeugtechnologien"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/lane-assists.png"
-featured_image: "/images/lane-assists.png"
-image: "/images/lane-assists.png"
-thumbnail: "/images/lane-assists.png"
+image_url: "/images/lane-assists.webp"
+featured_image: "/images/lane-assists.webp"
+image: "/images/lane-assists.webp"
+thumbnail: "/images/lane-assists.webp"
 image_alt: "Lane-Assist-System im Fahrzeug mit Warnhinweis"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -22,6 +22,7 @@ tags:
   - verkehr
   - fahren
 summary: "Assistenzsysteme wie Lane Assist gehören heute zur Serienausstattung vieler Fahrzeuge. In bestimmten Situationen können sie jedoch Risiken bergen. Wir erklären, wie sie funktionieren, warum sie problematisch sein können und wann es sinnvoll ist, sie auszuschalten."
+categories: ["technology"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

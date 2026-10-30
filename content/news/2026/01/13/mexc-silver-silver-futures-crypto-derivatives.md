@@ -7,10 +7,10 @@ translationKey: "mexc_silver_futures_crypto_2026"
 source: "MetaAdvisor analysis (based on MEXC announcement)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/silver.png"
-featured_image: "/images/silver.png"
-image: "/images/silver.png"
-thumbnail: "/images/silver.png"
+image_url: "/images/silver.webp"
+featured_image: "/images/silver.webp"
+image: "/images/silver.webp"
+thumbnail: "/images/silver.webp"
 image_alt: "Silver as an asset class entering the crypto derivatives market"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -25,6 +25,7 @@ tags:
   - macro
   - traditional-finance
 summary: "Crypto exchange MEXC has launched perpetual silver futures, allowing traders to gain exposure to the precious metal via USDT-settled derivatives. The move further blurs the line between traditional commodity markets and the crypto ecosystem."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

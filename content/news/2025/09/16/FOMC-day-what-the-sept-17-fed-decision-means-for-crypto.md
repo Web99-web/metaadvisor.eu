@@ -15,6 +15,7 @@ image_alt: "Jerome Powell at a Federal Reserve press conference"
 image_credit: "US Federal Government (public domain), via Wikimedia Commons"
 tags: ["fomc","fed","powell","interest rates","usd","real yields","bitcoin","crypto","liquidity","metaadvisor"]
 summary: "On Wednesday, Sept. 17, the Fed announces at 18:00 UTC (2:00 p.m. ET) and Powell speaks at 18:30 UTC. Markets price a cut; here are scenarios and a crypto checklist."
+categories: ["crypto"]
 ---
 
 **TL;DR:** On **Wednesday, Sept. 17**, the FOMC releases its rate decision at **18:00 UTC (2:00 p.m. ET)**, followed by **Powell’s press conference** at **18:30 UTC (2:30 p.m. ET)**. The event moves **USD, real yields and liquidity**, so crypto often overreacts. Consensus is a **25 bp cut**, but the **tone** and **projections (dot plot)** usually carry the bigger signal.

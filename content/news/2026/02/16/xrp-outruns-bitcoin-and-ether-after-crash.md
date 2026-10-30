@@ -15,6 +15,7 @@ image_alt: "XRP surges after sharp decline as investors accumulate"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["xrp", "ripple", "cryptocurrency", "bitcoin", "ether", "binance", "buy the dip", "accumulation", "crypto market", "blockchain", "digital assets"]
 summary: "XRP is staging a strong recovery after a recent price crash, outperforming Bitcoin and Ether as on-chain data suggests aggressive dip-buying by investors."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

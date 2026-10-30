@@ -15,6 +15,7 @@ image_alt: "Bitcoin and Ethereum charts — short-term bounce (symbolic)"
 image_credit: "Symbolic image."
 tags: ["bitcoin", "ethereum", "markets", "liquidations", "derivatives", "sentiment", "macro", "tariffs", "rare earths"]
 summary: "After record liquidations and geopolitics (US–China tariffs, rare-earth controls), BTC bounces to ~$115,000 and ETH to ~$4,164. Is this just a relief bounce and ‘liquidity grab’ — or the start of a renewed bull leg?"
+categories: ["crypto"]
 ---
 
 **TL;DR:**  

@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/uk-government-considers-keeping-bitcoin-returns-on-seized-fraud-proceeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc-61000-dispute.png"
-featured_image: "/images/btc-61000-dispute.png"
-image: "/images/btc-61000-dispute.png"
-thumbnail: "/images/btc-61000-dispute.png"
+image_url: "/images/btc-61000-dispute.webp"
+featured_image: "/images/btc-61000-dispute.webp"
+image: "/images/btc-61000-dispute.webp"
+thumbnail: "/images/btc-61000-dispute.webp"
 image_alt: "Illustration: UK flag and Bitcoin — dispute over distributing 61,000 BTC"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags:
@@ -31,6 +31,7 @@ tags:
   - bankruptcy
   - valuation-date
 summary: "The UK is weighing whether to compensate victims of a China fraud scheme at the current market value of 61,000 seized BTC or at a fiat amount based on earlier losses."
+categories: ["crypto"]
 ---
 
 The UK is considering how to **compensate victims of a China-based fraud scheme** in which police seized roughly **61,000 BTC**. The core question: **pay victims the current market value** of the coins (which have appreciated) or **compensate based on fiat loss** calculated at the time of the offense.

@@ -7,15 +7,16 @@ translationKey: "japan-brani-jen-hoce-li-dolar-opet-prijeci-160-2026-08-03"
 source: "Bank of Japan, japansko Ministarstvo financija, Reuters, Associated Press i Federal Reserve"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Japan-defends-the-yen.png"
-featured_image: "/images/news/Japan-defends-the-yen.png"
-image: "/images/news/Japan-defends-the-yen.png"
-thumbnail: "/images/news/Japan-defends-the-yen.png"
+image_url: "/images/news/Japan-defends-the-yen.webp"
+featured_image: "/images/news/Japan-defends-the-yen.webp"
+image: "/images/news/Japan-defends-the-yen.webp"
+thumbnail: "/images/news/Japan-defends-the-yen.webp"
 image_alt: "Bank of Japan i tržišna reakcija nakon snažnog pada japanskog jena"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Bank of Japan", "BOJ", "japanski jen", "USD JPY", "Japan", "američki dolar", "valutna intervencija", "devizno tržište", "yen carry trade", "Nikkei", "japanske dionice", "Bitcoin", "Ethereum", "kripto", "financijska tržišta"]
 description: "Japan i SAD intervenirali su nakon pada jena na približno 163 za dolar. Tržišta sada prate hoće li se USD/JPY ponovno približiti granici od 160."
 summary: "Rijetka zajednička intervencija Japana i SAD-a naglo je ojačala jen, pogodila dio japanskih izvoznika i uzdrmala rizičnu imovinu. Ipak, razlika između američkih i japanskih kamata ostaje velika, pa tržište već prati može li se dolar ponovno vratiti iznad 160 jena."
+categories: ["markets"]
 ---
 
 *Slika je simbolična.*

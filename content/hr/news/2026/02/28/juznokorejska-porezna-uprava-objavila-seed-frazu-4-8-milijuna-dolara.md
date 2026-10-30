@@ -7,14 +7,15 @@ translationKey: "9bb5967dc368dafb02f5ead6e78cd209"
 source: "Cointelegraph"
 source_url: ""
 author: "Cointelegraph (analiza: MetaAdvisor.eu)"
-image_url: "/images/Hackers-Stolen-BTC-South-Korea.png"
-featured_image: "/images/Hackers-Stolen-BTC-South-Korea.png"
-image: "/images/Hackers-Stolen-BTC-South-Korea.png"
-thumbnail: "/images/Hackers-Stolen-BTC-South-Korea.png"
+image_url: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+featured_image: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+image: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+thumbnail: "/images/Hackers-Stolen-BTC-South-Korea.webp"
 image_alt: "Haker koji koristi laptop s prikazom kripto transakcija i upozorenjem o sigurnosnom propustu"
 image_credit: "MetaAdvisor.eu (AI ilustracija)"
 tags: ["kripto", "seed fraza", "sigurnost", "juzna koreja", "porezna uprava", "blockchain", "ethereum", "privatni kljucevi", "digitalna imovina", "cyber sigurnost", "crypto hack", "wallet sigurnost"]
 summary: "Južnokorejska porezna uprava slučajno je objavila seed frazu kripto novčanika u službenom priopćenju, nakon čega su tokeni vrijedni 4,8 milijuna dolara brzo prebačeni na drugu adresu. Incident ponovno otvara pitanje sigurnosnih protokola i institucionalne odgovornosti u upravljanju digitalnom imovinom."
+categories: ["crypto"]
 ---
 
 # Južnokorejska porezna uprava objavila seed frazu u priopćenju – nestalo 4,8 milijuna dolara u tokenima

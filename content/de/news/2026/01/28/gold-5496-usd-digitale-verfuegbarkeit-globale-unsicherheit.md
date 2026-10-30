@@ -7,10 +7,10 @@ translationKey: "gold_5496_digital_hype_20260128"
 source: "MetaAdvisor Analyse / Edelmetallmärkte"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/gold.png"
-featured_image: "/images/gold.png"
-image: "/images/gold.png"
-thumbnail: "/images/gold.png"
+image_url: "/images/gold.webp"
+featured_image: "/images/gold.webp"
+image: "/images/gold.webp"
+thumbnail: "/images/gold.webp"
 image_alt: "Gold auf historischem Höchststand – symbolische Illustration"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -29,6 +29,7 @@ tags:
   - globale wirtschaft
   - marktunsicherheit
 summary: "Gold erreicht mit 5.496 USD pro Unze ein neues Allzeithoch, während Silber in Richtung 118 USD steigt. Neben globaler Unsicherheit treibt vor allem die digitale Verfügbarkeit über Krypto-Börsen und tokenisierte Produkte die Nachfrage."
+categories: ["finance"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

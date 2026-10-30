@@ -9,10 +9,10 @@ author: "Metaadvisor.eu"
 source: "Metaadvisor Analyse"
 source_url: ""
 
-image_url: "/images/stocks-vs-blockchain-disappear.png"
-featured_image: "/images/stocks-vs-blockchain-disappear.png"
-image: "/images/stocks-vs-blockchain-disappear.png"
-thumbnail: "/images/stocks-vs-blockchain-disappear.png"
+image_url: "/images/stocks-vs-blockchain-disappear.webp"
+featured_image: "/images/stocks-vs-blockchain-disappear.webp"
+image: "/images/stocks-vs-blockchain-disappear.webp"
+thumbnail: "/images/stocks-vs-blockchain-disappear.webp"
 image_alt: "Vergleich: traditionelle Aktien vs. Blockchain"
 image_credit: "Metaadvisor.eu"
 
@@ -33,6 +33,7 @@ tags:
   - Eigentumsrechte
 
 summary: "Die richtige Frage lautet nicht ‘Aktien oder Bitcoin’, sondern wie sich Aktien verändern. Unsere These: Aktien verschwinden nicht – sie werden tokenisiert und on-chain gehandelt; Bitcoin wird zur digitalen Reserve."
+categories: ["crypto"]
 ---
 
 > **Hinweis zum Bild:** Symbolische Illustration.

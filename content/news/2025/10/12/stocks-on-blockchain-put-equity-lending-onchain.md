@@ -15,6 +15,7 @@ image_alt: "Stocks and blockchain connected digitally"
 image_credit: "Symbolic image."
 tags: ["blockchain", "on-chain", "stocks", "equity lending", "tokenization", "RWA", "DeFi", "finance"]
 summary: "Capital markets need on-chain solutions for equity lending — instant settlement, programmable collateral and transparent rules instead of outdated batch systems."
+categories: ["ai"]
 ---
 
 **In brief:**  

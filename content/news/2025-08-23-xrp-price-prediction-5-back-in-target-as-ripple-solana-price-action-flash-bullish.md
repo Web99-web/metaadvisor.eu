@@ -9,6 +9,7 @@ summary: "While whales booking profits created near-term pressure, some analysts
 tags: ["xrp","ripple","solana","sol","price","bullish","breakout","whales","odl","etf","bitget","ryan-lee","institutions","defi","markets","crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/eab60955ba93e8536f337c1f5fdd3e3c0327575b-5616x3744.jpg?auto=format"
 image_alt: "Bullish sentiment for XRP and Solana — bull illustration"
+categories: ["crypto"]
 ---
 
 XRP and Solana are showing strength again, with traders pointing to both institutional flows and technical setups as catalysts for a fresh rally.

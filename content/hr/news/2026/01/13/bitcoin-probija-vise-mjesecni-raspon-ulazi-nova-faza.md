@@ -7,10 +7,10 @@ translationKey: "btc_breakout_structure_jan2026"
 source: "MetaAdvisor analiza na temelju Cointelegraph i CoinDesk izvještaja"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-94440.png"
-featured_image: "/images/BTC-94440.png"
-image: "/images/BTC-94440.png"
-thumbnail: "/images/BTC-94440.png"
+image_url: "/images/BTC-94440.webp"
+featured_image: "/images/BTC-94440.webp"
+image: "/images/BTC-94440.webp"
+thumbnail: "/images/BTC-94440.webp"
 image_alt: "Bitcoin izlazi iz višemjesečnog raspona i doseže područje oko 94.440 USD"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -26,6 +26,7 @@ tags:
   - futures
   - macro
 summary: "Bitcoin se nakon dugotrajnog kretanja u uskom rasponu pomaknuo prema višim razinama, uz smanjenu volatilnost, povoljne makroekonomske signale i promjene u strukturi tržišta."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

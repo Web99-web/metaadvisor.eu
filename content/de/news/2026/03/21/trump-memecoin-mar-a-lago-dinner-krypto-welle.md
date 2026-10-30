@@ -16,6 +16,7 @@ image_alt: "Trump Memecoin und Kryptomarkt"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags: ["trumpcoin", "krypto", "bitcoin", "memecoin", "politik", "handel", "whales", "blockchain", "defi", "markt", "analyse"]
 summary: "Der TRUMP Memecoin gewinnt erneut Aufmerksamkeit, nachdem ein exklusives Dinner in Mar-a-Lago für die größten Tokenhalter angekündigt wurde und eine neue Welle von Interesse und Whale-Aktivität auslöst."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

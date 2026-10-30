@@ -6,6 +6,7 @@ category: "news"
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/b1b85de94e98aa9acf67e074f449f3046df74c15-700x430.png"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/21/hbar-rebounds-as-swift-blockchain-trials-boost-bullish-outlook"
+categories: ["news"]
 ---
 
 HBAR je trgovao unutar uskog, ali aktivnog raspona od 4% između 20. i 21. kolovoza, popevši se navečer na 0,24 USD prije nego što se idućeg jutra korigirao na 0,23 USD. Do kraja sesije token je ponovno dosegnuo 0,24 USD, potvrđujući zonu od 0,23–0,24 USD kao razinu podrške i akumulacije.  

@@ -7,14 +7,15 @@ translationKey: "015ec2b97f4cbed3c1fa2835a973e9e1"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (The Guardian, Cambridge study, ICO)"
 source_url: ""
-image_url: "/images/AI-police.png"
-featured_image: "/images/AI-police.png"
-image: "/images/AI-police.png"
-thumbnail: "/images/AI-police.png"
+image_url: "/images/AI-police.webp"
+featured_image: "/images/AI-police.webp"
+image: "/images/AI-police.webp"
+thumbnail: "/images/AI-police.webp"
 image_alt: "AI sustav za prepoznavanje lica u policijskoj upotrebi"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "policija", "prepoznavanje lica", "pristranost", "uk", "sigurnost", "tehnologija", "regulacija"]
 summary: "Policija u Essexu pauzira AI sustav za prepoznavanje lica nakon istraživanja koje ukazuje na moguće razlike u identifikaciji između etničkih skupina."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

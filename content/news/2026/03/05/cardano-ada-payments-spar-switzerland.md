@@ -7,14 +7,15 @@ translationKey: "c47f3165acc7c447a39058ff4b762818"
 author: "Metaadvisor.eu"
 source: "Cointelegraph, Cardano Foundation, DFX.swiss and Metaadvisor.eu analysis"
 source_url: ""
-image_url: "/images/Cardano-ADA-Spar.png"
-featured_image: "/images/Cardano-ADA-Spar.png"
-image: "/images/Cardano-ADA-Spar.png"
-thumbnail: "/images/Cardano-ADA-Spar.png"
+image_url: "/images/Cardano-ADA-Spar.webp"
+featured_image: "/images/Cardano-ADA-Spar.webp"
+image: "/images/Cardano-ADA-Spar.webp"
+thumbnail: "/images/Cardano-ADA-Spar.webp"
 image_alt: "Cardano ADA payments Spar Switzerland"
 image_credit: "Metaadvisor.eu"
 tags: ["cardano","ada","crypto payments","spar","switzerland","blockchain","crypto retail","cardano foundation","dfx swiss","digital assets"]
 summary: "Cardano ADA can now be used for grocery payments in 137 Spar supermarkets across Switzerland, marking one of the largest real-world crypto payment tests in European retail."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

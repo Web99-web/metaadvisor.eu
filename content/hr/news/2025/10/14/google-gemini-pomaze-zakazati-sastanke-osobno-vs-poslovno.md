@@ -16,6 +16,7 @@ image_alt: "Gemini AI pomaže zakazati sastanke u Google Kalendaru"
 image_credit: "Slika je simbolična."
 tags: ["Google", "Gemini", "AI", "Google Calendar", "Workspace", "besplatno", "AI alati"]
 summary: "Google je lansirao Gemini opciju 'Help me schedule' koja pomaže zakazati sastanke u Google Kalendaru. Evo što je dostupno besplatno osobnim korisnicima, a što pripada plaćenim Workspace planovima."
+categories: ["news"]
 ---
 
 Google je predstavio novu AI opciju za Gmail i Google Kalendar pod nazivom **“Help me schedule”**, pokretanu **Gemini modelom**. Funkcija automatski predlaže termine za sastanke na temelju slobodnih termina u vašem kalendaru i umeće ih direktno u e-mail koji šaljete. Primatelj odabire termin koji mu odgovara, a sastanak se automatski pojavljuje kod obiju strana u kalendaru.

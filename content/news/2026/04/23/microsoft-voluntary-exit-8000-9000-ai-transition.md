@@ -7,14 +7,15 @@ translationKey: "microsoft-voluntary-buyout-ai-transition"
 source: "Bloomberg, Reuters, WSJ"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-replaces-people.png"
-featured_image: "/images/AI-replaces-people.png"
-image: "/images/AI-replaces-people.png"
-thumbnail: "/images/AI-replaces-people.png"
+image_url: "/images/AI-replaces-people.webp"
+featured_image: "/images/AI-replaces-people.webp"
+image: "/images/AI-replaces-people.webp"
+thumbnail: "/images/AI-replaces-people.webp"
 image_alt: "AI replacing people concept illustration showing human transitioning into artificial intelligence"
 image_credit: "Metaadvisor / illustration"
 tags: ["ai","artificial intelligence","microsoft","jobs","technology","automation","future of work","big tech","reorganization"]
 summary: "Microsoft is offering voluntary buyouts to up to 7% of its U.S. workforce, raising questions about whether this is a standard reorganization or the beginning of a broader AI-driven shift in the job market."
+categories: ["ai"]
 ---
 
 *Image is symbolic.*

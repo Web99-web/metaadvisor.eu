@@ -16,6 +16,7 @@ image_alt: "LinkedIn algoritam i moguća pristranost prema muškim profilima"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["linkedin","algoritam","umjetna inteligencija","ai","društvene mreže","diskriminacija","rod","tehnologija","llm"]
 summary: "Korisnice LinkedIna tvrde da im je doseg naglo porastao nakon što su na profilu promijenile spol u muški, što je otvorilo raspravu o mogućoj algoritamskoj pristranosti."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

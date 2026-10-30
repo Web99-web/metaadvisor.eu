@@ -3,18 +3,19 @@ title: "Gency AI sammelt 20 Millionen Dollar: KI und Blockchain verändern die d
 slug: "gency-ai-blockchain-werbung-marketing-20m"
 date: 2026-05-03T10:00:00+02:00
 category: "ai"
-translationKey: "ea5b30b57b7d41c6572a0389df904200"
+translationKey: "ea5b30b57b7d41c6572a0389df904200--2026-05-03"
 source: "GlobeNewswire"
 source_url: "https://www.globenewswire.com/"
 author: "GlobeNewswire"
-image_url: "/images/AI-general/AI-advertising.png"
-featured_image: "/images/AI-general/AI-advertising.png"
-image: "/images/AI-general/AI-advertising.png"
-thumbnail: "/images/AI-general/AI-advertising.png"
+image_url: "/images/AI-general/AI-advertising.webp"
+featured_image: "/images/AI-general/AI-advertising.webp"
+image: "/images/AI-general/AI-advertising.webp"
+thumbnail: "/images/AI-general/AI-advertising.webp"
 image_alt: "KI und Blockchain transformieren die digitale Werbung"
 image_credit: "MetaAdvisor"
 tags: ["ai", "künstliche intelligenz", "blockchain", "krypto", "werbung", "marketing", "web3", "smart contracts", "datenschutz", "daten"]
 summary: "Gency AI entwickelt ein dezentrales Werbesystem, das künstliche Intelligenz und Blockchain kombiniert, um den gesamten Prozess – von der Anzeige bis zur Abrechnung – zu automatisieren und transparent zu machen."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

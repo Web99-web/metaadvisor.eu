@@ -7,14 +7,15 @@ translationKey: "b136992019a6592c5581525c6e3f6dc2"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/capital-one-bank-buys-stablecoin-fintech-brex-for-5-15b"
 author: "MetaAdvisor.eu"
-image_url: "/images/bank-CapitalOne-crypto.png"
-featured_image: "/images/bank-CapitalOne-crypto.png"
-image: "/images/bank-CapitalOne-crypto.png"
-thumbnail: "/images/bank-CapitalOne-crypto.png"
+image_url: "/images/bank-CapitalOne-crypto.webp"
+featured_image: "/images/bank-CapitalOne-crypto.webp"
+image: "/images/bank-CapitalOne-crypto.webp"
+thumbnail: "/images/bank-CapitalOne-crypto.webp"
 image_alt: "Američka banka Capital One ulazi u kripto kroz akviziciju fintech tvrtke Brex"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Američka banka Capital One preuzima fintech Brex za 5,15 milijardi dolara i time izravno ulazi u svijet kripto-plaćanja i stablecoina."
 tags: ["banka", "capital one", "brex", "kripto", "stablecoin", "usdc", "fintech", "americke banke", "crypto"]
+categories: ["news"]
 ---
 
 Američka banka **Capital One** objavila je da preuzima fintech tvrtku **Brex** u poslu vrijednom **5,15 milijardi američkih dolara**, čime jedna od najvećih tradicionalnih banaka u Sjedinjenim Američkim Državama izravno ulazi u svijet **kripto-plaćanja** i **stablecoina**.

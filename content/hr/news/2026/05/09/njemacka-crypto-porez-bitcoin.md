@@ -3,7 +3,7 @@ title: "Njemačka razmatra veliki zaokret: Bitcoin i crypto više možda neće b
 slug: "njemacka-crypto-porez-bitcoin"
 date: 2026-05-09T09:00:00+02:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-05-09"
 source: "Metaadvisor (Cointelegraph, BTC Echo, Blockpit, Reuters)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
@@ -15,6 +15,7 @@ image_alt: "Njemačka razmatra promjene poreza na Bitcoin i kriptovalute"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "kripto", "njemacka", "germany", "bitcoin tax", "crypto tax", "porez", "europe", "mica", "dac8", "ethereum", "altcoins", "hodl", "bitcoin regulation", "eu regulation", "blockchain"]
 summary: "Njemačka razmatra ukidanje poznatog pravila prema kojem je profit od Bitcoina i kriptovaluta nakon godinu dana držanja uglavnom neoporeziv. Crypto zajednica strahuje da bi Europa mogla postati znatno manje privlačna za dugoročne investitore."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

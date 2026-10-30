@@ -23,6 +23,7 @@ tags:
   - markt
   - regulierung
 summary: "XRP-ETFs verzeichnen erstmals Abflüsse nach einer außergewöhnlich starken Phase, doch der breitere Kontext spricht weiterhin für stabiles institutionelles Interesse im Jahr 2026."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

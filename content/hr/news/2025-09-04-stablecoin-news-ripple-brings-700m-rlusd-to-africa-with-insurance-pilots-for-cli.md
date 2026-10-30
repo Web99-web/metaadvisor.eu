@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/04/ripple-brings-usd700m-
 summary: "Stablecoini sve više dobivaju na važnosti u prekograničnim plaćanjima, osobito na tržištima u razvoju gdje je pristup pouzdanim valutama i bankama ograničen."
 tags: ["Ripple", "Stablecoin", "RLUSD", "Afrika", "klima", "kripto"]
 image_url: "https://images.pexels.com/photos/4386373/pexels-photo-4386373.jpeg"
+categories: ["crypto"]
 ---
 
 Ripple, tvrtka usmjerena na digitalna plaćanja, širi svoj stablecoin vezan uz američki dolar Ripple USD (RLUSD) na afričke institucije kroz nova partnerstva s Chipper Cashom, VALR-om i Yellow Cardom.  

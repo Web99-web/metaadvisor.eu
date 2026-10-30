@@ -3,15 +3,15 @@ title: "Was the ‘Big Short’ on 10.10 a hostile takeover attempt by banks and
 slug: "who-attacked-bitcoin-10-10-banks-hostile-takeover"
 date: 2025-11-25T12:00:00Z
 category: "crypto"
-translationKey: "attack_1010_btc_banks_20251124"
+translationKey: "attack_1010_btc_banks_20251124--2025-11-25"
 source: "MetaAdvisor – analysis + statements from social media (Ran, Hayes, Dixon)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/BTC-10.10-banks-attack.png"
-featured_image: "/images/BTC-10.10-banks-attack.png"
-image: "/images/BTC-10.10-banks-attack.png"
-thumbnail: "/images/BTC-10.10-banks-attack.png"
+image_url: "/images/BTC-10.10-banks-attack.webp"
+featured_image: "/images/BTC-10.10-banks-attack.webp"
+image: "/images/BTC-10.10-banks-attack.webp"
+thumbnail: "/images/BTC-10.10-banks-attack.webp"
 image_alt: "Who attacked Bitcoin on 10.10 — illustration"
 image_credit: "MetaAdvisor.eu"
 tags: [
@@ -21,6 +21,7 @@ tags: [
   "tradfi", "arthur hayes", "ran neuner", "simon dixon", "crypto market", "eth"
 ]
 summary: "A growing number of analysts argue that the Bitcoin crash on 10.10 was not ‘natural’ but a coordinated hostile takeover attempt by major banks and institutions."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

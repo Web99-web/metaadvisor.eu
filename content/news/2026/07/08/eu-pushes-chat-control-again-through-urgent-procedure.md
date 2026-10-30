@@ -7,15 +7,16 @@ translationKey: "eu-chat-control-urgent-procedure-2026-07-08"
 source: "Cointelegraph, Euronews, The Guardian, EDRi, Meta Oversight Board, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/eu-chat-control.png"
-featured_image: "/images/eu-chat-control.png"
-image: "/images/eu-chat-control.png"
-thumbnail: "/images/eu-chat-control.png"
+image_url: "/images/eu-chat-control.webp"
+featured_image: "/images/eu-chat-control.webp"
+image: "/images/eu-chat-control.webp"
+thumbnail: "/images/eu-chat-control.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Chat Control", "EU surveillance", "private messages", "end-to-end encryption", "digital privacy", "CSAM", "European Parliament", "urgent procedure", "mass surveillance", "Signal", "WhatsApp", "Telegram"]
 summary: "The European Parliament is again voting on Chat Control through an urgent procedure. Formally, the vote concerns extending a temporary regime for scanning messages to detect CSAM, but politically it is part of a wider debate about privacy, encryption and the limits of surveillance in the EU."
 disclaimer: "This article is for informational purposes only and does not constitute legal, security or political advice."
 draft: false
+categories: ["news"]
 ---
 
 Image is symbolic.
@@ -43,7 +44,7 @@ Chat Control is not appearing out of nowhere. This issue has been debated for mo
 In November 2025, we wrote about the politically most sensitive aspect of Chat Control: the possibility of creating a **system in which citizens are monitored while political elites may be exempt or better protected from the same surveillance**. Such a model is not only a technical issue, but a democratic problem. If citizens’ private messages can be scanned without individual suspicion and without a court order, then the question becomes who controls the system, who is exempt from it and who can decide how it will be used in the future.
 
 <a href="https://metaadvisor.eu/news/chat-control-dangerous-eu-law-politicians-exempt-citizens-monitored/" target="_blank" rel="noopener">
-  <img src="/images/EU-chat-control1.png" alt="Chat Control: The Most Dangerous Law in EU History — Politicians Exempt, Citizens Monitored" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/EU-chat-control1.webp" alt="Chat Control: The Most Dangerous Law in EU History — Politicians Exempt, Citizens Monitored" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/news/chat-control-dangerous-eu-law-politicians-exempt-citizens-monitored/" target="_blank" rel="noopener">Chat Control: The Most Dangerous Law in EU History — Politicians Exempt, Citizens Monitored</a>
@@ -79,7 +80,7 @@ This is why Chat Control so often brings child-safety arguments into conflict wi
 We wrote about a possible shift of users toward decentralized and Web3 communication alternatives back in September 2025. At the time, we analyzed why an excessive expansion of surveillance over centralized platforms could push some users toward tools that promise greater resistance to censorship and control.
 
 <a href="https://metaadvisor.eu/news/eu-chat-control-law-pushes-users-to-web3-alternatives/" target="_blank" rel="noopener">
-  <img src="/images/eu-chat-control-sigurno-nadzorovano.png" alt="EU’s Chat Control law pushes users toward ‘Web3 alternatives’, experts warn" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/eu-chat-control-sigurno-nadzorovano.webp" alt="EU’s Chat Control law pushes users toward ‘Web3 alternatives’, experts warn" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/news/eu-chat-control-law-pushes-users-to-web3-alternatives/" target="_blank" rel="noopener">EU’s Chat Control law pushes users toward ‘Web3 alternatives’, experts warn</a>
@@ -105,7 +106,7 @@ This does not mean that every message will be read by a human being. But it does
 This risk is not only theoretical. Large platforms have already had problems with automated moderation and the incorrect flagging of content or user accounts. Meta, for example, has faced numerous complaints from Facebook and Instagram users over mistaken suspensions, including cases in which accounts were flagged for alleged violations of rules related to child sexual exploitation, even though users said they had posted nothing of the kind.
 
 <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">
-  <img src="/images/Banned-from-social-media.png" alt="Meta Oversight Board: AI moderation — a years-long problem is only now coming into focus" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/Banned-from-social-media.webp" alt="Meta Oversight Board: AI moderation — a years-long problem is only now coming into focus" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">Meta Oversight Board: AI moderation — a years-long problem is only now coming into focus</a>

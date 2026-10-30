@@ -8,14 +8,15 @@ author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/companies/OpenClow-GitHub-scam-alert.png"
-featured_image: "/images/companies/OpenClow-GitHub-scam-alert.png"
-image: "/images/companies/OpenClow-GitHub-scam-alert.png"
-thumbnail: "/images/companies/OpenClow-GitHub-scam-alert.png"
+image_url: "/images/companies/OpenClow-GitHub-scam-alert.webp"
+featured_image: "/images/companies/OpenClow-GitHub-scam-alert.webp"
+image: "/images/companies/OpenClow-GitHub-scam-alert.webp"
+thumbnail: "/images/companies/OpenClow-GitHub-scam-alert.webp"
 image_alt: "GitHub phishing scam targeting crypto wallets through fake airdrops"
 image_credit: "MetaAdvisor.eu"
 tags: ["github", "phishing", "crypto", "kripto", "wallet", "novčanik", "scam", "prijevara", "airdrop", "sigurnost", "cybersecurity", "openclaw"]
 summary: "Nova phishing kampanja na GitHubu koristi lažne airdropove kako bi navela developere na povezivanje kripto novčanika, nakon čega dolazi do krađe sredstava."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

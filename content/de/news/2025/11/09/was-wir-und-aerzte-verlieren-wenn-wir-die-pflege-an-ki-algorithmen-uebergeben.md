@@ -8,14 +8,15 @@ source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/us-news/ng-interactive/2025/nov/09/healthcare-artificial-intelligence-ai"
 author: "Eric Reinhart | The Guardian Tech"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/doctor-ai.png"
-featured_image: "/images/doctor-ai.png"
-image: "/images/doctor-ai.png"
-thumbnail: "/images/doctor-ai.png"
+image_url: "/images/doctor-ai.webp"
+featured_image: "/images/doctor-ai.webp"
+image: "/images/doctor-ai.webp"
+thumbnail: "/images/doctor-ai.webp"
 image_alt: "Arzt betrachtet den Bildschirm mit einer KI-Visualisierung"
 image_credit: "Metaadvisor.eu"
 tags: ["ki", "gesundheitswesen", "medizin", "algorithmen", "ethik", "technologie"]
 summary: "KI-Systeme übernehmen zunehmend die Rolle des ärztlichen Schreibers. Doch was verlieren wir, wenn wir Empathie und Aufmerksamkeit Algorithmen überlassen?"
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

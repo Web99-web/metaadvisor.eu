@@ -7,14 +7,15 @@ translationKey: "right-to-information-facebook-ban-not-just-lost-profile-2026-06
 source: "The Guardian, Appeals Centre Europe, European Parliament, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-bans.png"
-featured_image: "/images/Meta/Facebook-bans.png"
-image: "/images/Meta/Facebook-bans.png"
-thumbnail: "/images/Meta/Facebook-bans.png"
+image_url: "/images/Meta/Facebook-bans.webp"
+featured_image: "/images/Meta/Facebook-bans.webp"
+image: "/images/Meta/Facebook-bans.webp"
+thumbnail: "/images/Meta/Facebook-bans.webp"
 image_alt: "Facebook-Sperren und digitale Ausgrenzung aus sozialen Netzwerken"
 image_credit: "Metaadvisor.eu"
 tags: ["Facebook-Sperre", "Meta", "Facebook", "Instagram", "Messenger", "Business Suite", "KI-Moderation", "künstliche Intelligenz", "digitale Rechte", "Recht auf Information", "soziale Netzwerke", "Social-Media-Sperren", "Appeals Centre Europe", "DSA", "Digital Services Act", "Europäische Union", "The Guardian", "Big Tech", "Plattformen", "digitale Ausgrenzung", "Online-Identität", "digitaler öffentlicher Raum", "kleine Unternehmen", "Lehrer", "Sozialarbeiter", "KI", "Metaadvisor"]
 summary: "Ein Facebook-Ban ist nicht mehr nur ein verlorenes Profil. Wenn Meta Nutzer ohne klare Erklärung und ohne echte menschliche Beschwerdemöglichkeit aus Facebook, Messenger, Instagram und der Business Suite ausschließt, stellt sich die Frage nach dem Recht auf Information, Kommunikation und Zugang zum digitalen öffentlichen Raum."
+categories: ["tech"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Symbolbild.</em></p>

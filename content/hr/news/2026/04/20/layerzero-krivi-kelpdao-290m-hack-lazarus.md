@@ -7,14 +7,15 @@ translationKey: "478999bba611acd09744f72c4b1e4477"
 source: "Metaadvisor (CoinDesk, TechCrunch)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.png"
-featured_image: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.png"
-image: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.png"
-thumbnail: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.png"
+image_url: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.webp"
+featured_image: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.webp"
+image: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.webp"
+thumbnail: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.webp"
 image_alt: "Kelp DAO hack, LayerZero i Lazarus grupa"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "defi", "kelpdao", "layerzero", "lazarus", "hack", "security", "blockchain", "web3", "rpc", "ddos"]
 summary: "Napad vrijedan 290 milijuna dolara na Kelp DAO otkriva sofisticirani exploit infrastrukture, uz optužbe na račun Lazarus grupe i raspravu o odgovornosti između LayerZero i Kelp sustava."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

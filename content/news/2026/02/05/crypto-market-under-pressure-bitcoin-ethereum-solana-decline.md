@@ -15,6 +15,7 @@ image_alt: "Decline in Bitcoin, Ethereum and Solana prices"
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "ethereum", "eth", "solana", "sol", "market correction", "volatility", "market analysis"]
 summary: "Bitcoin holds near $63,000 after dropping below $62,300, while Ethereum and Solana show similar moves. Despite brief stabilization, analysts warn the market correction may not be over."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

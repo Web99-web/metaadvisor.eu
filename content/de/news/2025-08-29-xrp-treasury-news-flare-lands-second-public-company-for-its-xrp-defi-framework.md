@@ -9,6 +9,7 @@ summary: "In Kombination mit Firelight, der Restaking-Schicht von Flare, können
 tags: ["xrp", "crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/D2C7Z4L7D5GHPKZ46JKJYZM4HI.jpg?auto=format&width=1920"
 image: "https://www.coindesk.com/resizer/v2/D2C7Z4L7D5GHPKZ46JKJYZM4HI.jpg?auto=format&width=1920"
+categories: ["news"]
 ---
 
 Der langsame Vorstoß von XRP in die institutionellen Finanzen hat einen weiteren Unterstützer gewonnen.

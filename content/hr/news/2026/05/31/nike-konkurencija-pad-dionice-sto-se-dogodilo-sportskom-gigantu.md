@@ -7,14 +7,15 @@ translationKey: "nike-stock-drop-competition-since-2021-2026"
 source: "Metaadvisor (Barron's, Reuters)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/NIke-stock-drop-since-2021.png"
-featured_image: "/images/companies/NIke-stock-drop-since-2021.png"
-image: "/images/companies/NIke-stock-drop-since-2021.png"
-thumbnail: "/images/companies/NIke-stock-drop-since-2021.png"
+image_url: "/images/companies/NIke-stock-drop-since-2021.webp"
+featured_image: "/images/companies/NIke-stock-drop-since-2021.webp"
+image: "/images/companies/NIke-stock-drop-since-2021.webp"
+thumbnail: "/images/companies/NIke-stock-drop-since-2021.webp"
 image_alt: "Nike stock drop since 2021 with competition catching up"
 image_credit: "Metaadvisor.eu"
 tags: ["Nike", "NKE", "dionice", "pad dionice", "burza", "investiranje", "sportska obuća", "konkurencija", "Hoka", "On Running", "Asics", "New Balance", "Adidas", "Li-Ning", "Anta", "Jordan", "tržište", "brendovi", "potrošači", "maloprodaja"]
 summary: "Nike je od vrhunca iz 2021. izgubio velik dio burzovne vrijednosti, dok konkurenti poput Hoke, On Runninga, Asicsa, New Balancea i Adidasa sve jače zauzimaju prostor u sportskoj obući. Priča pokazuje da ni globalni brendovi nisu automatski sigurna investicija."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">Slika je simbolična.</p>

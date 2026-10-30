@@ -28,6 +28,7 @@ tags:
   - seed round
 
 summary: "Outreach founder Manny Medina returns with Paid — not an agent, but billing infrastructure for agent makers. The startup closes a $21.6M oversubscribed seed to standardize value-based charging for AI agents."
+categories: ["ai"]
 ---
 
 > Image is symbolic.

@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "cointelegraph.com"
 author: "Cointelegraph — analiza MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/btc-vs-xau.png"
-featured_image: "/images/btc-vs-xau.png"
-image: "/images/btc-vs-xau.png"
-thumbnail: "/images/btc-vs-xau.png"
+image_url: "/images/btc-vs-xau.jpg"
+featured_image: "/images/btc-vs-xau.jpg"
+image: "/images/btc-vs-xau.jpg"
+thumbnail: "/images/btc-vs-xau.jpg"
 image_alt: "Usporedba Bitcoina i zlata na vagi – BTC vs XAU"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "zlato", "gold", "xau", "rsi", "oversold", "crypto", "analiza"]
 summary: "Bitcoin je prema zlatu pao na razine koje se povijesno povezuju s dugoročnim dnom. RSI pokazuje stanje preprodanosti, što otvara pitanje je li BTC trenutno podcijenjen u odnosu na zlato."
+categories: ["crypto"]
 ---
 Bitcoin je prema zlatu dosegnuo razine koje analitičari nazivaju **klasičnom zonom dugoročnog dna**. Omjer BTC/XAU pao je na oko **20 unci zlata za jedan bitcoin**, što su najniže vrijednosti još od početka 2024. godine.
 

@@ -16,6 +16,7 @@ image_alt: "Monad airdrop i MON perpetuals na Hyperliquidu"
 image_credit: "Metaadvisor.eu (slika simbolična)"
 tags: ["crypto","hyperliquid","monad","mon","airdrop","perpetuals","perps","DEX","FDV","EVM","l1","trading","derivatives"]
 summary: "Decentralizirana burza Hyperliquid lansirala je MON perpetuals, dok projekt Monad najavljuje airdrop s procijenjenim FDV-om od 13 mlrd. USD."
+categories: ["crypto"]
 ---
 
 **Hyperliquid**, decentralizirana burza derivata, listala je **MON-USD perpetuals** – omogućujući traderima da longaju ili shortaju **MON**, nativni token **Monad** blockchaina, prije samog airdropa.

@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["tržišta", "Iran", "SAD", "Hormuški tjesnac", "nafta", "zlato", "srebro", "Bitcoin", "BTC", "Bitcoin ETF", "ETF odljevi", "Federalne rezerve", "Kevin Warsh", "kamatne stope", "likvidacije", "kapitalna rotacija", "geopolitički rizik"]
 description: "SAD je ponovno izveo vojni udar na Iran kod Hormuškog tjesnaca upravo dok tržišta procjenjuju posljedice hawkish Fed poruke, pada Bitcoina, ETF odljeva i novih likvidacija."
 summary: "Novi američki udar na Iran vraća Hormuški tjesnac i naftu u središte tržišne pažnje. Bitcoin zasad ne pokazuje paničnu reakciju, ali tržišta u novu sesiju ulaze nakon Warshova hawkish govora, pada zlata i srebra, prvog BTC ETF odljeva nakon devet dana i snažnih crypto likvidacija."
+categories: ["Markets"]
 ---
 
 # Novi američki napad na Iran vraća Hormuz, naftu i tržišni rizik u fokus

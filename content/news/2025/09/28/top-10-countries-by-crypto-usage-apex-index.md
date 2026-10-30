@@ -32,6 +32,7 @@ tags:
   - Indonesia
 
 summary: "The ApeX composite index (ownership, adoption growth, search interest, ATM density) ranks the top 10 countries by crypto usage. Leaders: Singapore and the UAE, followed by the USA, Canada, Turkey, Germany, Switzerland, Australia, Argentina and Indonesia."
+categories: ["crypto"]
 ---
 
 > **Note:** The ranking is based on the ApeX composite index (ownership + adoption growth + search interest + ATM availability), not on a single media article.

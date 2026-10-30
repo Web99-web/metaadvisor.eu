@@ -24,6 +24,7 @@ tags:
   - smart-contracts
   - layer1
 summary: "Ethereum erreichte Ende 2025 einen neuen Rekord von 2,2 Millionen täglichen Transaktionen, während die durchschnittlichen Gebühren auf nur 17 Cent sanken – ein starkes Signal für die technologische Reife des Netzwerks."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 10px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

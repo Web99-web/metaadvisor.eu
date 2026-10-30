@@ -15,6 +15,7 @@ image_alt: "Kerzenchart mit Flash Crash und schneller Erholung"
 image_credit: "Metaadvisor.eu (symbolisch)"
 tags: ["krypto","märkte","flash-crash","record-crash","record-fall","16B-liquidations","liquidations-kaskade","auto-deleveraging","ADL","perpetuals","orderbuch","market-structure","volatilität","risk-management","whales","manipulation-frage","funding","open-interest","MEXC","BTC","ETH","SOL","ZEC","AVAX","SUI","TIA"]
 summary: "Binnen ~10 Minuten kam es zu einem brutalen Flash Crash mit sofortigem Bounce. Rund 16 Mrd. USD wurden liquidiert – selbst erfahrene Trader wurden überrascht."
+categories: ["markets"]
 ---
 
 **Kurz:** Am Donnerstagabend (ca. **23:00 CET**) erlebte der Kryptomarkt einen der heftigsten **Flash-Crash-plus-Bounce**-Moves. Insgesamt wurden **≈16 Mrd. USD** liquidiert; viele Paare zeigten **extreme Wicks**, die fast sofort zurückgenommen wurden.

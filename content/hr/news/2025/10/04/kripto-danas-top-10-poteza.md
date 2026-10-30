@@ -7,10 +7,10 @@ translationKey: "f4e0d2d2a8c644dca8b4b8a7b3f6a104"
 source: "CoinMarketCap (gainers/losers); CoinDesk (market wrap)"
 source_url: "https://coinmarketcap.com/gainers-losers/"
 author: "Metaadvisor.eu"
-image_url: "/images/market-crypto-daily.png"
-featured_image: "/images/market-crypto-daily.png"
-image: "/images/market-crypto-daily.png"
-thumbnail: "/images/market-crypto-daily.png"
+image_url: "/images/market-crypto-daily.webp"
+featured_image: "/images/market-crypto-daily.webp"
+image: "/images/market-crypto-daily.webp"
+thumbnail: "/images/market-crypto-daily.webp"
 image_alt: "Dnevni kripto pregled — top dobitnici i gubitnici"
 image_credit: "Metaadvisor.eu (simbolična grafika)"
 tags:
@@ -35,6 +35,7 @@ tags:
   - volatilnost
   - tehnička-analiza
 summary: "BTC se drži oko 120k$, a altcoini rotiraju: ZEC, FLOKI i OKB predvode dobitnike, dok MYX i 2Z vode padove. Donosimo sažetak Top 10 poteza (24h) i kratki kontekst."
+categories: ["crypto"]
 ---
 
 **Kontekst tržišta (24h)**  

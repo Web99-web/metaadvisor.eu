@@ -38,6 +38,7 @@ tags:
   - liquidity
 
 summary: "Tjedna, mjesečna i kvartalna dospijeća opcija (OPEX) stvaraju valove ponude i potražnje koji mogu pomicati BTC/ETH cijene oko razina „max pain“. Objašnjavamo mehaniku, tipične obrasce i što pratiti u praksi."
+categories: ["crypto"]
 ---
 
 > **Napomena:** Slika je simbolična.

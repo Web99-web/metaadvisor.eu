@@ -16,6 +16,7 @@ image_alt: "LinkedIn algorithm and potential bias toward male profiles"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["linkedin","algorithm","artificial-intelligence","ai","social-media","bias","gender","technology","llm"]
 summary: "Several LinkedIn users report a sharp increase in reach after changing their profile gender to male, sparking a debate about possible algorithmic bias."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -10,6 +10,7 @@ image_url: "/images/asia-briefing.jpg"
 image_alt: "Night view of an Asian financial district with a crypto chart overlay"
 tags: ["asia","macro","policy","stablecoin","tax"]
 summary: "Japan targets a 20% flat crypto tax by 2026; Hong Kong’s stablecoin regime is live; South Korea implements OECD CARF data sharing; Pakistan debates crypto vs. hawala."
+categories: ["crypto"]
 ---
 
 **1) Japan: Path to a 20% flat crypto tax (by 2026)**  

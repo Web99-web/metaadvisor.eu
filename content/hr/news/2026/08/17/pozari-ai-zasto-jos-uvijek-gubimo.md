@@ -6,15 +6,16 @@ category: "technology"
 translationKey: "wildfires-ai-why-are-we-still-losing-2026-08-17"
 source: "Reuters, NASA, NIST, DVD Trogir"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Fire-firefighters-AI-help.png"
-featured_image: "/images/news/Fire-firefighters-AI-help.png"
-image: "/images/news/Fire-firefighters-AI-help.png"
-thumbnail: "/images/news/Fire-firefighters-AI-help.png"
+image_url: "/images/news/Fire-firefighters-AI-help.webp"
+featured_image: "/images/news/Fire-firefighters-AI-help.webp"
+image: "/images/news/Fire-firefighters-AI-help.webp"
+thumbnail: "/images/news/Fire-firefighters-AI-help.webp"
 image_alt: "Požari, vatrogasci, dronovi i umjetna inteligencija u borbi protiv brzo širećih šumskih požara"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["požari", "šumski požari", "AI", "umjetna inteligencija", "vatrogasci", "vatrogasni dronovi", "vatrogasni roboti", "wildfire", "NASA", "tehnologija"]
 description: "Europa, Kanada i SAD ponovno se bore s golemim požarima. Imamo AI, dronove i autonomne strojeve, ali ljude još uvijek šaljemo izravno prema vatri. Zašto?"
 summary: "Od Belgije, Grčke i Španjolske do Kanade, SAD-a i Hrvatske, veliki požari ponovno pokazuju koliko je čovječanstvo ograničeno kada se vatra počne brzo širiti. Može li sljedeća generacija AI-a, dronova i autonomnih strojeva promijeniti način na koji gasimo požare?"
+categories: ["technology"]
 ---
 
 *Slika je simbolična.*

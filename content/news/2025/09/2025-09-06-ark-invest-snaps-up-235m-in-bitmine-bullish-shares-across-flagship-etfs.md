@@ -9,6 +9,7 @@ summary: "The purchases, disclosed in trade filings, included 387,000 shares of 
 tags: ["ark", "arkinvest", "etf", "bitmine", "bullish", "crypto", "ethereum", "eth", "stocks", "investments"]
 image_url: "/images/Cathie_Wood_ARK_Invest_Photo.jpg"
 image_attribution: "Photo: Cathie Wood, by Caroline Wood, CC BY-SA 4.0"
+categories: ["news"]
 ---
 
 Cathie Wood’s ARK Invest increased its exposure to crypto-related equities on Friday, buying more than $23.5 million worth of BitMine Immersion Technologies (BMNR) and crypto exchange Bullish, the parent company of CoinDesk, across three of its actively managed ETFs.

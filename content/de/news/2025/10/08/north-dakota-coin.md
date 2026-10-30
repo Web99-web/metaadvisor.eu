@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/10/08/north-dakota-to-issue-stablecoin-with-fiserv-as-digital-dollar-trend-expands"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/north-dakota-coin.png"
-featured_image: "/images/north-dakota-coin.png"
-image: "/images/north-dakota-coin.png"
-thumbnail: "/images/north-dakota-coin.png"
+image_url: "/images/north-dakota-coin.webp"
+featured_image: "/images/north-dakota-coin.webp"
+image: "/images/north-dakota-coin.webp"
+thumbnail: "/images/north-dakota-coin.webp"
 image_alt: "North Dakota Stablecoin Roughrider Coin"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "stablecoins", "North Dakota", "Fiserv", "banks", "SWIFT", "digital-dollar", "Roughrider Coin"]
 summary: "Die Bank of North Dakota und Fiserv starten einen eigenen digitalen Dollar – den Roughrider Coin. Damit schließt sich North Dakota dem wachsenden Trend staatlicher Stablecoin-Pilotprojekte in den USA an."
+categories: ["news"]
 ---
 
 Die **Bank of North Dakota** hat angekündigt, gemeinsam mit **Fiserv** im kommenden Jahr einen eigenen USD-Stablecoin namens **Roughrider Coin** zu lancieren. Der Token richtet sich an Finanzinstitute und soll als Brücke zwischen traditionellem Bankwesen und Blockchain dienen.

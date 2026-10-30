@@ -7,15 +7,16 @@ translationKey: "us-city-slows-ai-centers-power-demand-2026-09-09"
 source: "City of Plattsburgh, WCAX, New York State, Reuters, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/US-city-stops-AI-center.png"
-featured_image: "/images/AI-general/US-city-stops-AI-center.png"
-image: "/images/AI-general/US-city-stops-AI-center.png"
-thumbnail: "/images/AI-general/US-city-stops-AI-center.png"
+image_url: "/images/AI-general/US-city-stops-AI-center.webp"
+featured_image: "/images/AI-general/US-city-stops-AI-center.webp"
+image: "/images/AI-general/US-city-stops-AI-center.webp"
+thumbnail: "/images/AI-general/US-city-stops-AI-center.webp"
 image_alt: "Plattsburgh erwägt ein Moratorium für KI-Rechenzentren wegen ihres hohen Stromverbrauchs"
 image_credit: "Metaadvisor.eu"
 tags: ["KI", "künstliche Intelligenz", "Rechenzentren", "Plattsburgh", "New York", "USA", "Strom", "Strompreise", "Stromnetz", "Energieinfrastruktur", "Bitcoin", "Bitcoin-Mining", "Krypto", "Data Center", "Moratorium"]
 description: "Die US-Stadt Plattsburgh erwägt ein Moratorium für neue KI-Rechenzentren, nachdem ein großes Projekt rund 50 MW von insgesamt etwa 105 MW verfügbarer städtischer Stromkapazität beanspruchen könnte."
 summary: "Plattsburgh stoppte bereits 2018 neue Bitcoin-Miner wegen des Drucks auf das Stromsystem und erwägt nun ein zwölfmonatiges Moratorium für KI-, Krypto- und andere energieintensive Rechenanlagen."
+categories: ["Tech"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -84,7 +85,7 @@ Das neue Moratorium soll gerade verhindern, dass eine solche Situation in Zukunf
 
 <div style="text-align:center; margin:24px 0;">
 <a href="https://metaadvisor.eu/de/news/data-center-rechenzentren-strompreise-anstieg-ki-ai-infrastruktur/" target="_blank" rel="noopener">
-<img src="/images/Data-centers-electric-bill.png" alt="Rechenzentren und steigende Strompreise durch KI-Infrastruktur" style="display:block; margin:0 auto; width:70%; max-width:520px; height:auto;">
+<img src="/images/Data-centers-electric-bill.webp" alt="Rechenzentren und steigende Strompreise durch KI-Infrastruktur" style="display:block; margin:0 auto; width:70%; max-width:520px; height:auto;">
 </a>
 <br>
 <small><a href="https://metaadvisor.eu/de/news/data-center-rechenzentren-strompreise-anstieg-ki-ai-infrastruktur/" target="_blank" rel="noopener"><strong>Rechenzentren und steigende Strompreise: Was wirklich hinter dem KI-Boom passiert</strong></a></small>

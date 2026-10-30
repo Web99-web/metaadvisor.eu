@@ -15,6 +15,7 @@ image_alt: "BlackRock digital asset expansion"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["blackrock","institucije","kripto","bitcoin","eth","tokenizacija","etf","azija","digital-assets"]
 summary: "Najveći svjetski upravitelj imovine zapošljava sedam novih senior stručnjaka za digitalnu imovinu — znak da BlackRock ubrzano širi ponudu kripto proizvoda u SAD-u i Aziji."
+categories: ["crypto"]
 ---
 
 <div class="cta">

@@ -8,14 +8,15 @@ author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/companies/MiniPay-Opera-cooperation.png"
-featured_image: "/images/companies/MiniPay-Opera-cooperation.png"
-image: "/images/companies/MiniPay-Opera-cooperation.png"
-thumbnail: "/images/companies/MiniPay-Opera-cooperation.png"
+image_url: "/images/companies/MiniPay-Opera-cooperation.webp"
+featured_image: "/images/companies/MiniPay-Opera-cooperation.webp"
+image: "/images/companies/MiniPay-Opera-cooperation.webp"
+thumbnail: "/images/companies/MiniPay-Opera-cooperation.webp"
 image_alt: "Zusammenarbeit zwischen Opera und Celo durch MiniPay und Krypto-Zahlungen"
 image_credit: "MetaAdvisor.eu"
 tags: ["opera", "celo", "minipay", "krypto", "zahlungen", "stablecoin", "wallet", "blockchain", "web3", "fintech"]
 summary: "Opera schlägt vor, statt US-Dollar CELO-Token zu erhalten, und vertieft damit die Zusammenarbeit mit dem Celo-Ökosystem und MiniPay."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

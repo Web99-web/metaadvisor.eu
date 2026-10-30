@@ -16,8 +16,9 @@ image_alt: "Infografik: Banken vs. PayPal vs. Revolut vs. Krypto"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["banken","geldsystem","paypal","revolut","krypto","stablecoins","bitcoin","finanzen","bildung","cex","dex","kryptobörsen","selfcustody","digitales-geld","liquidität","wirtschaft","zahlungssysteme"]
 summary: "Eine umfassende Erklärung darüber, wie Banken, PayPal, Revolut, Stablecoins und Krypto wirklich funktionieren – und wem das Geld in jedem System tatsächlich gehört."
+categories: ["ai"]
+image_note: "Die Grafik ist schematisch. Ihre gemeinsame EMI-Bezeichnung für PayPal/Revolut ist rechtlich nicht allgemein zutreffend; maßgeblich ist die Korrektur nach Gesellschaft und Produkt unten, Stand 05.12.2025."
 ---
-
 # Wie funktioniert modernes Geld wirklich?  
 ## Banken vs. PayPal vs. Revolut vs. Krypto
 
@@ -90,14 +91,17 @@ Fintechs wie PayPal und Revolut entstanden, weil Banken ihre Kernsysteme kaum mo
 
 ---
 
-# 💳 3) Wie PayPal und Revolut funktionieren (EMI-Modell)
+# 💳 3) PayPal und Revolut: Die rechtliche Einheit zählt (Stand 05.12.2025.)
 
-PayPal und Revolut sind **keine Banken**.  
-Sie sind *Electronic Money Institutions (EMI)*.
+PayPal und Revolut lassen sich nicht pauschal als E-Geld-Institute einordnen. **PayPal Europe war bereits ein in Luxemburg zugelassenes Kreditinstitut**; sein E-Geld-Guthaben ist jedoch keine durch ein Einlagensicherungssystem geschützte Bankeinlage. **Revolut Bank UAB besaß eine litauische Banklizenz**. Berechtigte Einlagen bei dieser Bank unterlagen der litauischen Einlagensicherung innerhalb ihrer Grenzen und Bedingungen. In Großbritannien führte Revolut Ltd weiterhin E-Geld-Konten, während sich die britische Bank in der eingeschränkten Mobilisierungsphase befand. Der Schutz hing somit von Gesellschaft, Land und Produkt ab.
+
+Quellen zum damaligen Status: [PayPal-Banklizenz, 2007](https://newsroom.paypal-corp.com/2007-05-15-PayPal-Expands-European-Growth-With-Bank-Charter-and-New-European-Headquarters), [Bank von Litauen: Banklizenz seit 13.12.2021.](https://www.lb.lt/en/news/banking-licence-granted-to-revolut-bank-uab), [Revolut: UK-Mobilisierungsphase, 25.07.2024.](https://www.revolut.com/news/revolut_receives_uk_banking_licence/). [PayPal Europe, 16.12.2020.](https://www.paypalobjects.com/marketing/ua/pdf/IE/en/ua-121620-v1.pdf).
+
+Die folgende EMI-Beschreibung gilt für ein tatsächliches E-Geld-Konto, nicht automatisch für jedes PayPal- oder Revolut-Produkt.
 
 Eine EMI:
 
-- darf keine Kundeneinlagen verleihen  
+- darf geschützte E-Geld-Kundengelder nicht zur Kreditvergabe verwenden  
 - muss 100 % der Kundengelder decken  
 - verwahrt Gelder separat  
 - bietet aber keine Einlagensicherung
@@ -122,8 +126,8 @@ EMIs können:
 | System | Eigentum? | Einfrieren möglich? | Einlagensicherung? |
 |--------|-----------|----------------------|---------------------|
 | Bank | ❌ (Sie sind Gläubiger) | ✔️ | ✔️ |
-| PayPal | ❌ (EMI-Forderung) | ✔️ | ❌ |
-| Revolut | ❌ / ✔️ | ✔️ | teilweise |
+| PayPal | E-Geld-Forderung; Gesellschaft/Produkt prüfen | ✔️ | ❌ |
+| Revolut | Bankeinlage oder E-Geld-Forderung, je nach Gesellschaft/Produkt | ✔️ | Berechtigte Bankeinlagen: Einlagensicherung; E-Geld: Sicherung |
 | Krypto-Börse (CEX) | ❌ (Börse hält Schlüssel) | ✔️ | ❌ |
 | Krypto Self-Custody | ✔️ (Sie besitzen die Schlüssel) | ❌ | ⚠️ Eigenverantwortung |
 
@@ -185,7 +189,7 @@ Stablecoins ermöglichen:
 
 Das heutige Geldsystem ist komplexer denn je:  
 Banken bieten Sicherheit ohne Eigentum,  
-Fintechs bieten Flexibilität ohne Garantien,  
+Bei Fintechs hängen Schutz und Garantien von Gesellschaft und Produkt ab,  
 Krypto-Börsen bieten Zugang ohne Kontrolle,  
 Self-Custody bietet Eigentum mit voller Verantwortung.
 

@@ -3,19 +3,20 @@ title: "Digital euro enters the real world: ECB prepares ATMs, cards and payment
 slug: "digital-euro-ecb-atms-cards-payments-eu"
 date: 2026-03-23T18:30:00+01:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-03-23"
 author: "Cointelegraph / CoinDesk"
 analysis_by: "Metaadvisor.eu"
 source: "Cointelegraph / CoinDesk"
 source_url: ""
-image_url: "/images/Euro-digital.png"
-featured_image: "/images/Euro-digital.png"
-image: "/images/Euro-digital.png"
-thumbnail: "/images/Euro-digital.png"
+image_url: "/images/Euro-digital.webp"
+featured_image: "/images/Euro-digital.webp"
+image: "/images/Euro-digital.webp"
+thumbnail: "/images/Euro-digital.webp"
 image_alt: "Digital euro and ECB plan to integrate into ATMs and payments"
 image_credit: "MetaAdvisor.eu"
 tags: ["digital euro", "ecb", "cbdc", "payments", "atms", "cards", "eurozone", "finance", "crypto", "regulation"]
 summary: "The ECB is moving into the implementation phase of the digital euro, focusing on ATMs, card payments and real-world usage across the eurozone."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

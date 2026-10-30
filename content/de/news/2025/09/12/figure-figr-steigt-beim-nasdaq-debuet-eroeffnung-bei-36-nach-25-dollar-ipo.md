@@ -11,6 +11,7 @@ image_url: "/images/placeholder.jpg"
 tags: ["fintech", "blockchain", "stocks", "ipo", "figure", "figr", "provenance", "mortgage"]
 our_take: |
   Unser Fazit: IPO-Preis 25 $, Eröffnung ca. 36 $ (+44 %) und implizite Bewertung ~7,6 Mrd. $. Die Story lautet „Blockchain als Markt-Infrastruktur” (Provenance), nicht Trading. Beobachten: Kreditvolumen auf der Plattform, Finanzierungskosten bei Zinsänderungen und Underwriting-Qualität über den Kreditzyklus. Ebenso Greenshoe und zusätzliches Angebot nach Lock-up.
+categories: ["news"]
 ---
 
 **Figure Technology Solutions (FIGR)** legte beim Nasdaq-Debüt deutlich zu, **Eröffnung bei 36 US-$ je Aktie nach einem IPO-Preis von 25 US-$**, was einer **Bewertung von rund 7,6 Mrd. US-$** entspricht.

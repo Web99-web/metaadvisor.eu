@@ -10,6 +10,7 @@ image_url: "/images/btc-eth1.jpg"
 image_alt: "Bitcoin und Ether — Symbolbild im Stablecoin-Kontext"
 tags: ["krypto","policy","stablecoin","uk"]
 summary: "Die BOE erwägt Caps für ‘systemische’ Stablecoins: £10–20k pro Person und ca. £10 Mio. für Unternehmen. Coinbase und Branchenverbände halten das für unpraktikabel und strenger als US-/EU-Ansätze."
+categories: ["crypto"]
 ---
 
 **Worum es geht**  

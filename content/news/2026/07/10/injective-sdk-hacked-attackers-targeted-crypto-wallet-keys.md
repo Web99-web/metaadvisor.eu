@@ -7,15 +7,16 @@ translationKey: "injective-sdk-npm-wallet-keys-2026-07-10"
 source: "Cointelegraph, Socket, Aikido, OX Security, DefiLlama, CoinGecko, Metaadvisor.eu"
 source_url: "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Injective-SDK-hacked.png"
-featured_image: "/images/hack/Injective-SDK-hacked.png"
-image: "/images/hack/Injective-SDK-hacked.png"
-thumbnail: "/images/hack/Injective-SDK-hacked.png"
+image_url: "/images/hack/Injective-SDK-hacked.webp"
+featured_image: "/images/hack/Injective-SDK-hacked.webp"
+image: "/images/hack/Injective-SDK-hacked.webp"
+thumbnail: "/images/hack/Injective-SDK-hacked.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Injective", "Injective SDK", "npm package", "supply chain attack", "crypto security", "wallet keys", "private keys", "seed phrase", "mnemonic phrase", "Web3 security", "DeFi security", "developer tools", "GitHub", "npm malware", "crypto wallet"]
 summary: "The Injective npm package @injectivelabs/sdk-ts was compromised, and a malicious version targeted private keys and mnemonic phrases from crypto wallets. The incident was not an attack on the blockchain itself, but an example of a growing Web3 risk: attacks on the software supply chain."
 disclaimer: "This article is for informational purposes only and does not constitute investment, technology, security or financial advice."
 draft: false
+categories: ["crypto"]
 ---
 
 The image is symbolic.

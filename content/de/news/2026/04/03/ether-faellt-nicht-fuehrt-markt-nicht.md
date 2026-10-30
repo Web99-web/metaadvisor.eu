@@ -15,6 +15,7 @@ image_alt: "Ethereum Preis in einer Konsolidierungszone um 2000 USD"
 image_credit: "MetaAdvisor.eu"
 tags: ["ethereum", "eth", "krypto", "trading", "liquidationen", "hebel", "bitcoin", "defi", "markt", "analyse", "preis", "trend"]
 summary: "Ether hält sich seit Tagen um 2000 USD ohne klare Richtung. Obwohl Analysen vor einem möglichen Rückgang auf 1700 USD warnen, zeigt der Markt derzeit eine Phase des Abwartens und der Unentschlossenheit."
+categories: ["crypto"]
 ---
 
 Bild ist symbolisch.

@@ -36,6 +36,7 @@ tags:
   - compliance
   - eu
 summary: "Otter.ai unveils an enterprise suite that turns meeting content into a searchable knowledge base — with APIs, an MCP bridge and an AI agent for semantic search."
+categories: ["ai"]
 ---
 
 **Overview.** Otter.ai doesn’t just want to “take notes” anymore. The new enterprise suite aims to convert meeting data — transcripts, notes, slides and action items — into a **searchable, connected and shareable** **knowledge layer** that plugs into the tools teams already use.

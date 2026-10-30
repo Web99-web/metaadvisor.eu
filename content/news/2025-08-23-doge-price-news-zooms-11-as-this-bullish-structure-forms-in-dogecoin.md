@@ -9,6 +9,7 @@ summary: "DOGE's price action shows potential for further gains, with support at
 tags: ["dogecoin","doge","price","bullish","breakout","whales","powell","fed","wyoming","stablecoin","thumzup","dogehash","sofi","lightning-network","mining","markets","crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/4748d98709f7d9235d6de26ad84f0cd7bd6e070f-741x450.png?auto=format"
 image_alt: "DOGE jumps 11% as a bullish structure forms after a high-volume breakout"
+categories: ["news"]
 ---
 
 The meme token climbed to a $0.24 peak, with volume nearly doubling monthly averages, signaling institutional activity behind the rally.

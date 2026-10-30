@@ -34,6 +34,7 @@ tags:
   - regulation
   - tokenomics
 summary: "Reuters estimates around $500M in cumulative inflows to the Trump family via WLFI; $57.35M was officially reported (OGE 2024). For Barron, ~$80M circulates in media chatter, but there are no mandatory public filings to confirm it."
+categories: ["crypto"]
 ---
 
 The Trump–crypto story has two faces: the **documented** and the **estimated**. The documented one is plain: in his 2024 financial disclosure Donald Trump lists **$57.35 million** in proceeds from token sales on **World Liberty Financial (WLFI)** and **15.75 billion governance tokens** held. The louder face emerges when revenue-share terms, ownership and on-chain sales are tallied: **Reuters** arrives at **about $500 million** in cumulative inflows to the family since WLFI launched. The first figure is cash in hand; the second describes the capacity of a system that can attract very large sums.

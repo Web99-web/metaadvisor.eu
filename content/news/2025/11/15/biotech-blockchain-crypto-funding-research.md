@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "e34c55180048beb4d9b8e957047e751b"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/crypto-treasuries-blockchain-pave-way-decentralized-science?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "/images/Crypto-biotech-TON.png"
-featured_image: "/images/Crypto-biotech-TON.png"
-image: "/images/Crypto-biotech-TON.png"
-thumbnail: "/images/Crypto-biotech-TON.png"
+image_url: "/images/Crypto-biotech-TON.webp"
+featured_image: "/images/Crypto-biotech-TON.webp"
+image: "/images/Crypto-biotech-TON.webp"
+thumbnail: "/images/Crypto-biotech-TON.webp"
 image_alt: "Crypto x Biotech – Decentralized science powered by blockchain"
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto", "biotech", "blockchain", "research", "science", "ton", "toncoin", "rwa", "desci", "prediction markets", "analysis"]
 summary: "More biotech and research companies are adopting blockchain, tokenization and crypto treasuries to fund scientific innovation — faster and more flexible than traditional models."
+categories: ["crypto"]
 ---
 
 More biomedical and scientific companies are turning to blockchain technology and crypto treasuries to finance early-stage research — bypassing slow, centralized and bureaucratic traditional funding systems.

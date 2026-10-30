@@ -7,14 +7,15 @@ translationKey: "d3f9c7a2b6e41e8f9a5c2d7e4b1a9f33"
 source: "Metaadvisor (Reuters, Teslarati, NotATeslaApp, industrijski izvori)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/robotaxi.png"
-featured_image: "/images/robotaxi.png"
-image: "/images/robotaxi.png"
-thumbnail: "/images/robotaxi.png"
+image_url: "/images/robotaxi.webp"
+featured_image: "/images/robotaxi.webp"
+image: "/images/robotaxi.webp"
+thumbnail: "/images/robotaxi.webp"
 image_alt: "Tesla robotaxi testiranje u Dallasu"
 image_credit: "Metaadvisor.eu"
 tags: ["tesla", "robotaxi", "ai", "autonomna vozila", "dallas", "texas", "elon musk", "self driving", "tech", "budućnost"]
 summary: "Tesla ubrzava razvoj robotaxi usluge u Dallasu, prelazeći iz faze najava u konkretne pripreme za lansiranje autonomnog prijevoza."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

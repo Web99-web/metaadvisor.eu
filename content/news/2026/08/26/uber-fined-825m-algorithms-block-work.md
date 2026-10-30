@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "uber-fined-825-million-algorithmic-decisions-2026-08-26"
 source: "CNIL, Autoriteit Persoonsgegevens, Reuters, Oversight Board, Change.org, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/uber-fined-825-millions.png"
-featured_image: "/images/news/uber-fined-825-millions.png"
-image: "/images/news/uber-fined-825-millions.png"
-thumbnail: "/images/news/uber-fined-825-millions.png"
+image_url: "/images/news/uber-fined-825-millions.webp"
+featured_image: "/images/news/uber-fined-825-millions.webp"
+image: "/images/news/uber-fined-825-millions.webp"
+thumbnail: "/images/news/uber-fined-825-millions.webp"
 image_alt: "Uber fined nearly €825 million over automated decisions that deactivated drivers"
 image_credit: "Metaadvisor.eu – image is illustrative"
 tags: ["Uber", "GDPR", "automated decision-making", "algorithms", "drivers", "account deactivation", "Article 22", "AI moderation", "Facebook", "Instagram", "small businesses", "digital platforms", "privacy", "EU regulation"]
 description: "Uber was fined nearly €825 million over automated decisions that deactivated drivers. The case raises a broader question: what happens when major platforms shut down people's accounts without a clear explanation or visible human review?"
 summary: "The Dutch privacy regulator fined Uber €824.99 million over automated individual decisions affecting drivers. The case matters far beyond Uber because it raises questions about how platforms deactivate accounts, who actually makes those decisions and what happens when a user loses access to work or a business in seconds."
+categories: ["Tech"]
 ---
 
 *The image is illustrative.*
@@ -74,7 +75,7 @@ Meta's Oversight Board itself warned this year that Meta disables **billions of 
 There is also an online petition against wrongful Meta account deactivations that, according to publicly visible figures, has already gathered **more than 64,000 signatures and is approaching 65,000**. That shows the problem is not limited to a handful of isolated cases. Nobody knows with certainty how many users worldwide may actually be affected. The real number could be much higher — possibly hundreds of thousands or even millions — but no reliable global figure is publicly available.
 
 <a href="https://metaadvisor.eu/news/eu-appeals-centre-europe-protection-fails-platforms-ignore-user-complaints/" target="_blank" rel="noopener">
-  <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+  <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
        alt="EU Appeals Centre Europe and problems users face when appealing social platform decisions"
        style="width: 520px; max-width: 100%; height: auto;">
 </a>

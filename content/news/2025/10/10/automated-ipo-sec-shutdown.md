@@ -16,6 +16,7 @@ image_alt: "SEC IPO shutdown automatic process"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags: ["markets","ipo","sec","shutdown","regulation","startups","capital-markets","investor-protection","us"]
 summary: "With most SEC staff furloughed, IPO filings become effective after 20 days via the automatic route — even without pricing, raising risks for investors."
+categories: ["news"]
 ---
 
 Amid the **U.S. government shutdown** (about **90%** of SEC staff furloughed), companies can list via the rarely used **automatic effectiveness** route. After **20 days**, filings become effective **without** prior SEC review and **without** pricing (no penalties during the shutdown).

@@ -7,14 +7,15 @@ translationKey: "4f1b6d3baf8d91c5e7aa92bcbdf6a442"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Banks-want-control-crypto.png"
-featured_image: "/images/Banks-want-control-crypto.png"
-image: "/images/Banks-want-control-crypto.png"
-thumbnail: "/images/Banks-want-control-crypto.png"
+image_url: "/images/Banks-want-control-crypto.webp"
+featured_image: "/images/Banks-want-control-crypto.webp"
+image: "/images/Banks-want-control-crypto.webp"
+thumbnail: "/images/Banks-want-control-crypto.webp"
 image_alt: "Institucije i Bitcoin tržište"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "kripto", "bitcoin", "btc", "institucije", "wall street", "etf", "blackrock", "fed", "tržište", "volatilnost", "banke", "investiranje", "nasdaq", "makro", "kapital", "financije"]
 summary: "Sve više investitora vjeruje da je Bitcoin danas stabilniji jer su velike institucije ušle na tržište. No dio analitičara upozorava da upravo institucionalni kapital može postati novi izvor velikog rizika."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

@@ -9,6 +9,7 @@ summary: "Bitcoin je iznad 100.000 $, ali samo 18% pripravnika koristi/posjeduje
 tags: ["bitcoin","btc","crypto","ai","humanoids","robots","morgan-stanley","intern-survey","etf","farside-investors","ethereum","eth","adoption"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/9def86c28207aa3e8c4d2095f1031c130eae77c9-1280x851.jpg?auto=format"
 image_alt: "Rano usvajanje kripta – ilustracija"
+categories: ["crypto"]
 ---
 
 U kripto zajednici i 2025. često se čuje fraza **„još je rano“**: unatoč tome što je **bitcoin (BTC)** probio **100.000 $**, ukupno usvajanje i dalje je u povojima.

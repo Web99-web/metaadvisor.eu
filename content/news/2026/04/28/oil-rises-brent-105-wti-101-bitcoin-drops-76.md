@@ -7,14 +7,15 @@ translationKey: "oil-rise-btc-drop-76k-april-2026"
 source: "Metaadvisor (Cointelegraph, market data)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "Oil prices rise Brent and WTI while Bitcoin drops below 77k"
 image_credit: "Metaadvisor.eu"
 tags: ["oil", "bitcoin", "crypto", "brent", "wti", "energy", "market", "macro"]
 summary: "Oil prices are rising again after a period of stagnation, with Brent above 105 USD and WTI above 101 USD, while Bitcoin drops toward 76,000 USD under macro pressure."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

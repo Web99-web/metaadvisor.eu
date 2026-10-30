@@ -16,6 +16,7 @@ image_alt: "OpenAI Atlas preglednik"
 image_credit: "Slika je simbolična."
 tags: ["ai","openai","atlas","chatgpt","preglednik","altman","techcrunch","ai-browser","search","google","ai-trendovi"]
 summary: "OpenAI je lansirao Atlas, AI preglednik koji ChatGPT stavlja u središte pretraživanja i svakodnevnog korištenja weba."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

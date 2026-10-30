@@ -7,14 +7,15 @@ translationKey: "roomba_irobot_bankrot_17122025"
 source: "Reuters, The Guardian, Wikipedia"
 source_url: "https://www.reuters.com / https://www.theguardian.com / https://en.wikipedia.org"
 author: "MetaAdvisor.eu"
-image_url: "/images/Irobot-Roomba.png"
-featured_image: "/images/Irobot-Roomba.png"
-image: "/images/Irobot-Roomba.png"
-thumbnail: "/images/Irobot-Roomba.png"
+image_url: "/images/Irobot-Roomba.webp"
+featured_image: "/images/Irobot-Roomba.webp"
+image: "/images/Irobot-Roomba.webp"
+thumbnail: "/images/Irobot-Roomba.webp"
 image_alt: "Roomba robotic vacuum cleaner in a clean, modern living room"
 image_credit: "Illustration / symbolic image"
 tags: ["roomba", "irobot", "robot vacuum", "technology", "automation", "smart home", "robotics", "artificial intelligence", "amazon", "eu regulation"]
 summary: "Roomba popularized robotic vacuum cleaners more than 20 years ago, yet its creator iRobot filed for bankruptcy just as these devices became mainstream. How the pioneer of home robotics lost its edge."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

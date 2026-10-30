@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/tech/2025/09/04/world-liberty-financial-bl
 summary: "Sun je ključni investitor u projekt i drži oko 700 milijuna USD vrijednosti WLFI tokena, uglavnom uloženo."
 tags: ["crypto", "trump", "wlfi", "justin-sun", "tron", "trx", "ethereum", "eth", "blockchain", "tokens"]
 image_url: "/images/wlfi.png"
+categories: ["crypto"]
 ---
 
 **World Liberty Financial (WLFI)**, kripto protokol povezan s **Donaldom Trumpom** i njegovom obitelji, u četvrtak je blokirao blockchain adresu **Justina Suna**, osnivača **Trona (TRX)** i ključnog investitora, onemogućivši mu prijenos WLFI tokena.

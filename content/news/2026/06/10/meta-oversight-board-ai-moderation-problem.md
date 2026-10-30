@@ -7,14 +7,15 @@ translationKey: "meta-oversight-board-ai-moderation-problem-2026-06-10"
 source: "TechCrunch, The Guardian, Meta Oversight Board, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-oversight-board2.png"
-featured_image: "/images/Meta/Meta-oversight-board2.png"
-image: "/images/Meta/Meta-oversight-board2.png"
-thumbnail: "/images/Meta/Meta-oversight-board2.png"
+image_url: "/images/Meta/Meta-oversight-board2.webp"
+featured_image: "/images/Meta/Meta-oversight-board2.webp"
+image: "/images/Meta/Meta-oversight-board2.webp"
+thumbnail: "/images/Meta/Meta-oversight-board2.webp"
 image_alt: "Banned from social media and AI moderation problem in the EU"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Facebook", "Instagram", "Messenger", "Business Suite", "Meta Oversight Board", "AI moderation", "artificial intelligence", "automated moderation", "account bans", "account deactivation", "disabled profiles", "appeals process", "digital rights", "social networks", "Meta Verified", "fake profiles", "impersonation", "Appeals Centre Europe", "Digital Services Act", "DSA", "EU", "customer support", "cybersecurity", "online safety", "Metaadvisor"]
 summary: "The Meta Oversight Board has warned about a lack of transparency and meaningful appeals in Meta’s account deactivation system. For many long-term Facebook and Instagram users, this is a problem they have been describing for years: automated moderation can erase profiles, pages, groups and business tools without a clear explanation or real human help."
+categories: ["ai"]
 ---
 
 The image is symbolic.
@@ -76,7 +77,7 @@ It is especially hard to understand why it often seems that active users, group 
 <figure style="max-width:520px; margin:28px auto; text-align:center;">
   <a href="https://metaadvisor.eu/news/facebook-instagram-accounts-mass-disabled-us-canada-philippines/" style="display:block;">
     <img 
-      src="/images/Meta/Facebook-banned-social-media-accounts-worldwide.png" 
+      src="/images/Meta/Facebook-banned-social-media-accounts-worldwide.webp" 
       alt="Facebook and Instagram accounts banned worldwide"
       style="width:100%; height:auto; border-radius:14px;"
     >

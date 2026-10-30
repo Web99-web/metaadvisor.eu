@@ -7,14 +7,15 @@ translationKey: "cbc104cf32e369b2c717c79b5b371dc7"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/X-trading-app.png"
-featured_image: "/images/X-trading-app.png"
-image: "/images/X-trading-app.png"
-thumbnail: "/images/X-trading-app.png"
+image_url: "/images/X-trading-app.webp"
+featured_image: "/images/X-trading-app.webp"
+image: "/images/X-trading-app.webp"
+thumbnail: "/images/X-trading-app.webp"
 image_alt: "X integrating crypto and stock trading directly inside the app"
 image_credit: "MetaAdvisor illustration"
 tags: ["crypto", "bitcoin", "btc", "ethereum", "ether", "eth", "dogecoin", "doge", "x money", "elon musk", "stock trading", "super app", "fintech", "digital payments", "cashtags"]
 summary: "X plans to integrate crypto and stock trading directly inside the app while simultaneously developing X Money as an internal payment system."
+categories: ["crypto"]
 ---
 
 <p style="font-size:12px; opacity:0.6; margin-top:-10px;">

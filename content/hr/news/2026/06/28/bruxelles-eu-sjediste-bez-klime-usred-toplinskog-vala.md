@@ -7,14 +7,15 @@ translationKey: "bruxelles-eu-sjediste-bez-klime-toplinski-val-2026-06-28"
 source: "Politico Europe, E&E News, Euractiv, Anadolu Agency, Reuters, The Brussels Times, Copernicus, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
-featured_image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
-image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
-thumbnail: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
+image_url: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
+featured_image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
+image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
+thumbnail: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
 image_alt: "EU headquarters in Brussels without air conditioning during a heatwave"
 image_credit: "Metaadvisor.eu"
 tags: ["Europska komisija", "Bruxelles", "Berlaymont", "EU", "toplinski val", "klima", "hlađenje", "Europa", "vrućina", "infrastruktura", "klimatske promjene", "Metaadvisor"]
 summary: "Sjedište Europske komisije u Bruxellesu moralo je usred toplinskog vala prisilno isključiti hlađenje od 1. do 7. kata zgrade Berlaymont. Isključenje se dogodilo dok su temperature u Belgiji dosezale oko 35,3 °C, u Bruxellesu oko 37 °C, a šire u Europi prelazile 40 °C. Prema izvještajima, ured predsjednice Komisije Ursule von der Leyen na 13. katu nije bio pogođen isključenjem."
+categories: ["news"]
 ---
 
 Slika je simbolična.

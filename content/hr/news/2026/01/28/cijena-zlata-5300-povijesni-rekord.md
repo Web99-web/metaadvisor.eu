@@ -7,14 +7,15 @@ translationKey: "gold_5300_record_20260128"
 source: "Tržišni podaci / burze"
 source_url: "https://www.mexc.com/"
 author: "Metaadvisor.eu"
-image_url: "/images/gold.png"
-featured_image: "/images/gold.png"
-image: "/images/gold.png"
-thumbnail: "/images/gold.png"
+image_url: "/images/gold.webp"
+featured_image: "/images/gold.webp"
+image: "/images/gold.webp"
+thumbnail: "/images/gold.webp"
 image_alt: "Cijena zlata probija povijesni rekord iznad 5300 USD"
 image_credit: "Ilustracija / MetaAdvisor.eu"
 tags: ["zlato", "gold", "cijena zlata", "inflacija", "sigurna imovina", "dolar", "fed", "kamatne stope", "makroekonomija", "tržišta"]
 summary: "Cijena zlata na burzi MEXC upravo je prešla razinu od 5.300 USD po unci, postavivši novi povijesni rekord. Rast odražava duboko nepovjerenje investitora u fiat valute, monetarnu politiku i stabilnost financijskog sustava."
+categories: ["macro"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

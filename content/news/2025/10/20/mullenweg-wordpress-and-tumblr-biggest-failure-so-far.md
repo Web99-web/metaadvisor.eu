@@ -16,6 +16,7 @@ image_alt: "Tumblr — logo, illustrative"
 image_credit: "Illustrative image."
 tags: ["tumblr", "wordpress", "automattic", "matt mullenweg", "migration", "wordpress backend", "fediverse", "activitypub", "open source", "cms", "technology", "restructuring", "monetization", "saas", "cloud", "cdn", "seo", "id mapping"]
 summary: "Automattic CEO Matt Mullenweg calls the Tumblr acquisition — and its continued separation from WordPress infrastructure — his 'biggest failure'. The large-scale move to a WordPress back end is paused but remains the strategic goal."
+categories: ["ai"]
 ---
 
 WordPress co-founder and Automattic CEO **Matt Mullenweg** said out loud what many suspected: acquiring **Tumblr** and failing to fully merge it into the **WordPress infrastructure** remains his “**biggest failure so far**.” A failure — but **not a surrender**. The vision stands: move Tumblr onto the WordPress back end, simplify development, cut costs, and plug Tumblr deeper into the **fediverse**. The plan is currently **paused** — too costly and complex for Tumblr’s state today — yet the strategic endgame is intact.

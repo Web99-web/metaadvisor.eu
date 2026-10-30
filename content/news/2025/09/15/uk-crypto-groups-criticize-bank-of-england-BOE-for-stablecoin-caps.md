@@ -10,6 +10,7 @@ image_url: "/images/btc-eth1.jpg"
 image_alt: "Bitcoin and Ether — stablecoin context"
 tags: ["crypto","policy","stablecoin","uk"]
 summary: "The BOE is weighing holding caps for ‘systemic’ stablecoins — £10–20k per person and ~£10m per business. Coinbase and industry groups call the plan unworkable and tougher than U.S./EU frameworks."
+categories: ["crypto"]
 ---
 
 **What’s reported**  

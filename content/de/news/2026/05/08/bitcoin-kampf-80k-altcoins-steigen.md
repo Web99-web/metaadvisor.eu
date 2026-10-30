@@ -15,6 +15,7 @@ image_alt: "Bitcoin kämpft um die 80.000-Dollar-Marke, während Altcoins steige
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "crypto", "altcoins", "ethereum", "solana", "dogecoin", "fed", "inflation", "iran", "hormus", "öl", "short squeeze", "funding rates", "märkte", "trading", "bull market"]
 summary: "Bitcoin kämpft erneut mit der wichtigen Marke von 80.000 Dollar, während einige Altcoins deutlich mehr Stärke zeigen. Gleichzeitig versucht der Markt, die Auswirkungen der US-Arbeitsmarktdaten, der FED-Politik und der Spannungen rund um die Straße von Hormus einzuschätzen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -16,6 +16,7 @@ image_alt: "Kryptokarten mit Belohnungen"
 image_credit: "Symbolisches Bild."
 tags: ["SOL", "Solana", "Fidelity", "Gemini", "Kreditkarte", "staking", "crypto", "bitcoin", "ethereum"]
 summary: "Solana wird in Fidelitys Brokerage-Angebot aufgenommen, während Gemini eine Solana-Kreditkarte mit bis zu 4% Cashback in SOL einführt. Der Markt beobachtet die wichtige Unterstützung bei 188 USD."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "uk_driving_tests_bots_system_failure_21122025"
 source: "The Guardian — tech analysis"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/UK-bot-driving-tests.png"
-featured_image: "/images/UK-bot-driving-tests.png"
-image: "/images/UK-bot-driving-tests.png"
-thumbnail: "/images/UK-bot-driving-tests.png"
+image_url: "/images/UK-bot-driving-tests.webp"
+featured_image: "/images/UK-bot-driving-tests.webp"
+image: "/images/UK-bot-driving-tests.webp"
+thumbnail: "/images/UK-bot-driving-tests.webp"
 image_alt: "Bot driving a car — symbol of automated abuse of the UK driving test booking system"
 image_credit: "MetaAdvisor illustration"
 tags: ["bots", "automation", "digital-systems", "uk", "public-services", "tech-failure", "algorithms"]
 summary: "The UK driving test booking system shows how poorly designed digital platforms, without bot protection, can paralyze essential public services."
+categories: ["tech"]
 ---
 
 # How bots broke the UK driving test system

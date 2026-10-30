@@ -15,6 +15,7 @@ image_alt: "Bitcoin market between fear and accumulation"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["bitcoin", "btc", "crypto", "retail investors", "options market", "call options", "market sentiment", "bull run", "institutional capital", "volatility", "crypto analysis"]
 summary: "Bitcoin is sending mixed signals: retail investors are accumulating while the options market shows caution. Is the market quietly preparing for a new cycle or pausing before another correction?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

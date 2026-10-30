@@ -7,10 +7,10 @@ translationKey: "dot_ada_utility_test_29122025"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/DOT-ADA.png"
-featured_image: "/images/DOT-ADA.png"
-image: "/images/DOT-ADA.png"
-thumbnail: "/images/DOT-ADA.png"
+image_url: "/images/DOT-ADA.webp"
+featured_image: "/images/DOT-ADA.webp"
+image: "/images/DOT-ADA.webp"
+thumbnail: "/images/DOT-ADA.webp"
 image_alt: "Polkadot DOT i Cardano ADA – test stvarne korisnosti Layer-1 projekata"
 image_credit: "MetaAdvisor / ilustracija"
 tags:
@@ -24,6 +24,7 @@ tags:
   - blockchain projekti
   - stvarna korisnost
 summary: "Polkadot i Cardano krajem 2025. pokazuju neujednačena kretanja cijena, otvarajući ključno pitanje: mogu li stariji Layer-1 projekti dokazati stvarnu korisnost izvan vlastitih zajednica?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

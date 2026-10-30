@@ -15,6 +15,7 @@ image_alt: "Simbolična ilustracija rudarenja Bitcoina"
 image_credit: "MetaAdvisor (simbolična grafika)"
 tags: ["crypto", "bitcoin", "mining", "difficulty", "hashrate", "pools", "centralizacija", "energetika"]
 summary: "Bitcoinova ‘težina’ rudarenja dosegnula je novi povijesni maksimum, uz rekordni hashrate. Rekordi pojačavaju sigurnost mreže, ali otvaraju pitanja o koncentraciji ‘poolova’ i održivosti malih rudara."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

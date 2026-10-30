@@ -23,6 +23,7 @@ tags:
   - volatilitaet
   - institutionen
 summary: "Bitcoin und Ethereum beendeten das vierte Quartal 2025 mit einem der schwächsten Ergebnisse der letzten Jahre. Statt einer klassischen Jahresendrallye dominierte Vorsicht – ein Signal, das den Start ins Krypto-Jahr 2026 maßgeblich prägt."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

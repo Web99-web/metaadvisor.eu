@@ -7,14 +7,15 @@ translationKey: "avis-short-squeeze-extreme-market-structure"
 source: "Reuters, WSJ, MarketWatch, Barron’s, Business Insider"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/AVIS-stock-down.png"
-featured_image: "/images/companies/AVIS-stock-down.png"
-image: "/images/companies/AVIS-stock-down.png"
-thumbnail: "/images/companies/AVIS-stock-down.png"
+image_url: "/images/companies/AVIS-stock-down.webp"
+featured_image: "/images/companies/AVIS-stock-down.webp"
+image: "/images/companies/AVIS-stock-down.webp"
+thumbnail: "/images/companies/AVIS-stock-down.webp"
 image_alt: "Avis Aktiencrash nach massivem Short Squeeze"
 image_credit: "Metaadvisor / Illustration"
 tags: ["avis","short squeeze","markt","aktien","investitionen","finanzen","trading","börse"]
 summary: "Die Aktie von Avis stieg um mehr als 700% und fiel anschließend um etwa 80% innerhalb weniger Tage – ohne Veränderung im Geschäft. Ein Beispiel dafür, wie Marktstruktur Extreme erzeugen kann."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

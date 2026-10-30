@@ -7,14 +7,15 @@ translationKey: "f774d5d1be49bbf61f294dde9aa97843"
 source: "Metaadvisor (Cointelegraph, CoinDesk, Crypto.news, Finance Magnates, Yahoo Tech, X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Claude-recovered-5-btc.png"
-featured_image: "/images/news/Claude-recovered-5-btc.png"
-image: "/images/news/Claude-recovered-5-btc.png"
-thumbnail: "/images/news/Claude-recovered-5-btc.png"
+image_url: "/images/news/Claude-recovered-5-btc.webp"
+featured_image: "/images/news/Claude-recovered-5-btc.webp"
+image: "/images/news/Claude-recovered-5-btc.webp"
+thumbnail: "/images/news/Claude-recovered-5-btc.webp"
 image_alt: "AI Claude i izgubljeni Bitcoin wallet"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "kripto", "claude", "anthropic", "ai", "umjetna inteligencija", "wallet", "bitcoin wallet", "seed phrase", "blockchain", "cybersecurity", "digitalna forenzika", "x", "viralno", "bitcoin sigurnost"]
 summary: "Viralna priča o korisniku koji tvrdi da mu je AI chatbot Claude pomogao vratiti pristup 5 Bitcoina ponovno je otvorila raspravu o ulozi umjetne inteligencije u digitalnoj forenzici i sigurnosti."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.7;">

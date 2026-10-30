@@ -15,6 +15,7 @@ image_alt: "Spanische Flagge als Symbol für die regulatorische Blockade von Pre
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "Krypto", "Polymarket", "Kalshi", "Prediction Markets", "Prognosemärkte", "Spanien", "Regulierung", "Glücksspiel", "Wetten", "DGOJ", "Online-Wetten", "Krypto-Regulierung", "Europa"]
 summary: "Spanische Behörden haben die Blockade der Plattformen Polymarket und Kalshi angeordnet, weil sie diese als Prognosemärkte einstufen, die praktisch wie Glücksspiele ohne die erforderliche Lizenz funktionieren. Der Fall zeigt, dass Prediction Markets immer stärker zwischen Krypto-Innovation, Finanzmarkt und klassischem Glücksspielrecht stehen."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">Das Bild ist symbolisch.</p>

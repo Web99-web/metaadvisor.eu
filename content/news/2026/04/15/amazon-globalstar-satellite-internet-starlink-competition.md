@@ -7,14 +7,15 @@ translationKey: "e7448e46aef52a93b528dcb3d6e77603"
 source: "The Guardian, Reuters, Bloomberg, CNBC, Financial Times, TechCrunch, The Verge, Ars Technica, Engadget"
 source_url: ""
 author: "metaadvisor analysis"
-image_url: "/images/companies/Amazon-buys-Globalstar.png"
-featured_image: "/images/companies/Amazon-buys-Globalstar.png"
-image: "/images/companies/Amazon-buys-Globalstar.png"
-thumbnail: "/images/companies/Amazon-buys-Globalstar.png"
+image_url: "/images/companies/Amazon-buys-Globalstar.webp"
+featured_image: "/images/companies/Amazon-buys-Globalstar.webp"
+image: "/images/companies/Amazon-buys-Globalstar.webp"
+thumbnail: "/images/companies/Amazon-buys-Globalstar.webp"
 image_alt: "Amazon acquires Globalstar and enters the satellite internet race"
 image_credit: "Metaadvisor.eu"
 tags: ["amazon", "globalstar", "starlink", "elon musk", "jeff bezos", "satellites", "internet", "space", "technology", "ai", "low earth orbit", "leo", "space economy"]
 summary: "Amazon plans to acquire Globalstar for $11.57 billion to accelerate its satellite network ambitions and compete with Starlink, which currently dominates the global satellite internet market."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

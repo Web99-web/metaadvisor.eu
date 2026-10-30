@@ -9,6 +9,7 @@ summary: "Od privatnih aviona do jahti – bogati bitcoineri sve više koriste B
 tags: ["bitcoin","crypto","luxury","holidays","jets","yachts","travel","payments"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/739d9b7bb173fe3e06e24cf3b0f5827d21b82032-2880x1620.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/739d9b7bb173fe3e06e24cf3b0f5827d21b82032-2880x1620.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 Najnoviji rast bitcoina prelijeva se i na tržište luksuznih odmora.  

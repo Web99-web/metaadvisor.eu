@@ -13,6 +13,7 @@ image_alt: "Symbolfoto eines Smartphones"
 image_credit: "Symbolfoto"
 tags: ["ai","smartphones","Nothing","Tiger Global","Series C","Finanzierung","Carl Pei","Qualcomm Ventures","GV","Highland Europe","EQT","Latitude","I2BF","Tapestry","Community-Runde","AI-first"]
 summary: "Nothing sammelt 200 Mio. $ (geführt von Tiger Global), Bewertung ~1,3 Mrd. $, und teasert ein 'AI-first'-Gerät."
+categories: ["ai"]
 ---
 
 *Hinweis: Symbolfoto.*

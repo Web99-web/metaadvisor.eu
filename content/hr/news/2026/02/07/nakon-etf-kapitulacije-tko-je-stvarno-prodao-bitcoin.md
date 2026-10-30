@@ -7,14 +7,15 @@ translationKey: "bitcoin-etf-kapitulacija-tko-je-prodao-2026-02-07"
 source: "CoinDesk / Cointelegraph / MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/btc-etf-down.png"
-featured_image: "/images/btc-etf-down.png"
-image: "/images/btc-etf-down.png"
-thumbnail: "/images/btc-etf-down.png"
+image_url: "/images/btc-etf-down.webp"
+featured_image: "/images/btc-etf-down.webp"
+image: "/images/btc-etf-down.webp"
+thumbnail: "/images/btc-etf-down.webp"
 image_alt: "Bitcoin ETF-ovi bilježe kapitulaciju i snažan prodajni pritisak"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "bitcoin etf", "ibit", "blackrock", "kripto tržište", "kapitulacija", "institucionalni investitori", "btc pad", "leverage"]
 summary: "Nakon jučerašnje kapitulacije Bitcoin ETF-ova i rekordnih volumena, tržište se okreće ključnom pitanju: tko je bio prisiljen prodavati i je li prodajni pritisak doista završen?"
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

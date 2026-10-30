@@ -15,6 +15,7 @@ image_alt: "Strategy razmatra prodaju Bitcoina nakon velikog gubitka"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "kripto", "strategy", "microstrategy", "saylor", "investing", "trading", "stocks", "market", "wall street", "dividends", "debt", "institutional", "holder"]
 summary: "Strategy prvi put razmatra prodaju Bitcoina kako bi pokrio obveze i dividende nakon velikog gubitka. Ovaj potez mogao bi označiti kraj 'never sell' narativa i utjecati na cijelo tržište."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

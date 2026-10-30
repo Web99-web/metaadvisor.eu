@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-l
 summary: "VC div Andreessen Horowitz troši novac kako bi oblikovao politiku na Capitol Hillu."
 tags: ["venture-capital","a16z","lobbying","washington","crypto","stablecoins","ai","defense"]
 image_url: "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?w=1200"
+categories: ["news"]
 ---
 
 Plan Andreessena Horowitza da gura svoju agendu u Washingtonu ne pokazuje znakove usporavanja; tvrtka je, prema registrima lobiranja podnesenima Kongresu, prijavila 1,49 milijuna dolara federalnog lobiranja dosad ove godine. a16z čak troši malo više od vlastite strukovne udruge, National Venture Capital Association.

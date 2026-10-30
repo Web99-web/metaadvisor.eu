@@ -3,18 +3,19 @@ title: "ICE invests $600 million in Polymarket: NYSE owner enters prediction mar
 slug: "ice-polymarket-investment-nyse-prediction-markets"
 date: 2026-03-31T06:00:00+01:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-03-31"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (Cointelegraph, market data)"
 source_url: ""
-image_url: "/images/Polymarket-ICE.png"
-featured_image: "/images/Polymarket-ICE.png"
-image: "/images/Polymarket-ICE.png"
-thumbnail: "/images/Polymarket-ICE.png"
+image_url: "/images/Polymarket-ICE.webp"
+featured_image: "/images/Polymarket-ICE.webp"
+image: "/images/Polymarket-ICE.webp"
+thumbnail: "/images/Polymarket-ICE.webp"
 image_alt: "ICE and Polymarket investment in prediction markets"
 image_credit: "MetaAdvisor.eu"
 tags: ["polymarket", "ice", "nyse", "crypto", "prediction markets", "fintech", "markets", "investment"]
 summary: "ICE, the owner of the New York Stock Exchange (NYSE), invests $600 million in Polymarket, opening the door to a new category of financial markets — trading on real-world events."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

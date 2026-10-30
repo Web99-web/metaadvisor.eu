@@ -7,10 +7,10 @@ translationKey: "lane_assist_risks_20260128"
 source: "Opća sigurnosna analiza / automobilske tehnologije"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/lane-assists.png"
-featured_image: "/images/lane-assists.png"
-image: "/images/lane-assists.png"
-thumbnail: "/images/lane-assists.png"
+image_url: "/images/lane-assists.webp"
+featured_image: "/images/lane-assists.webp"
+image: "/images/lane-assists.webp"
+thumbnail: "/images/lane-assists.webp"
 image_alt: "Lane Assist sustav u automobilu s upozorenjem"
 image_credit: "Ilustracija / MetaAdvisor.eu"
 tags:
@@ -22,6 +22,7 @@ tags:
   - promet
   - vožnja
 summary: "Sustavi poput Lane Assist-a postali su standard u novim automobilima, ali u određenim situacijama mogu predstavljati rizik. Donosimo objašnjenje kako rade, zašto mogu biti opasni i kada ih je pametno isključiti."
+categories: ["technology"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

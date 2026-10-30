@@ -15,6 +15,7 @@ image_alt: "Yield in crypto through staking, lending and validation"
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto", "yield", "bitcoin", "ethereum", "solana", "staking", "defi", "investing", "passive income", "market", "analysis"]
 summary: "As the market enters a quieter phase, investors are shifting from price gains to yield. Income generation is becoming a key factor for staying invested."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

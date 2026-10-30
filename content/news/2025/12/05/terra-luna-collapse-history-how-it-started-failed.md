@@ -7,14 +7,15 @@ translationKey: "terra_luna_povijest_kolaps_06122025"
 source: "CoinDesk — extended analysis by MetaAdvisor"
 source_url: "https://www.coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Terra-luna1.png"
-featured_image: "/images/Terra-luna1.png"
-image: "/images/Terra-luna1.png"
-thumbnail: "/images/Terra-luna1.png"
+image_url: "/images/Terra-luna1.webp"
+featured_image: "/images/Terra-luna1.webp"
+image: "/images/Terra-luna1.webp"
+thumbnail: "/images/Terra-luna1.webp"
 image_alt: "Dramatic Terra-Luna illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["terra", "luna", "ust", "crypto collapse", "algorithmic stablecoin", "blockchain", "do kwon", "crypto history", "bitcoin", "stablecoins", "defi"]
 summary: "Terra-Luna was once one of the world’s largest blockchain projects — until it collapsed in 2022 in one of the fastest and most dramatic breakdowns crypto has ever seen. This is the full story of its rise, fall, and the long-term consequences still shaping the market."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "eu_india_tariffs_110_20260128"
 source: "Reuters / Official EU and India statements"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/EU-India-tariffs.png"
-featured_image: "/images/EU-India-tariffs.png"
-image: "/images/EU-India-tariffs.png"
-thumbnail: "/images/EU-India-tariffs.png"
+image_url: "/images/EU-India-tariffs.webp"
+featured_image: "/images/EU-India-tariffs.webp"
+image: "/images/EU-India-tariffs.webp"
+thumbnail: "/images/EU-India-tariffs.webp"
 image_alt: "Flags of the European Union and India – historic trade agreement"
 image_credit: "MetaAdvisor.eu"
 tags: ["eu-india", "eu", "india", "trade-agreement", "tariff-reduction", "global-trade", "automotive-industry", "german-automakers", "french-industry", "ursula-von-der-leyen", "berlin", "stuttgart", "wolfsburg", "paris", "protectionism"]
 summary: "The European Union and India have reached a historic trade agreement eliminating or sharply reducing tariffs that had reached up to 110%, after nearly two decades of negotiations."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

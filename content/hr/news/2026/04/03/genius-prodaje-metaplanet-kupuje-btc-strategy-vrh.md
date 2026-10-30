@@ -14,6 +14,7 @@ thumbnail: "/images/bitcoin-btc.jpg"
 image_alt: "Bitcoin kompanije kupuju i prodaju"
 tags: ["bitcoin", "kripto", "kompanije", "strategy", "metaplanet", "genius", "tržište"]
 summary: "Dok singapurski Genius prodaje Bitcoin, japanski Metaplanet agresivno kupuje, a američki Strategy ostaje dominantan — tržište pokazuje potpuno podijeljene strategije."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

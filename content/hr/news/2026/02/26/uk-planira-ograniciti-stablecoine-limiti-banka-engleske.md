@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: ""
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/UK-stablecoins-limits.png"
-featured_image: "/images/UK-stablecoins-limits.png"
-image: "/images/UK-stablecoins-limits.png"
-thumbnail: "/images/UK-stablecoins-limits.png"
+image_url: "/images/UK-stablecoins-limits.webp"
+featured_image: "/images/UK-stablecoins-limits.webp"
+image: "/images/UK-stablecoins-limits.webp"
+thumbnail: "/images/UK-stablecoins-limits.webp"
 image_alt: "UK planira ograničiti stablecoine – simbol britanske zastave i digitalne funte"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["uk", "velika britanija", "stablecoin", "stablecoini", "regulacija", "banka engleske", "fca", "crypto", "kripto", "digitalna imovina", "coinbase", "brian armstrong", "fintech"]
 summary: "Banka Engleske predlaže limite na iznose stablecoina koje pojedinci i tvrtke smiju držati, dok FCA testira izdavanje kroz regulatorni sandbox. Industrija upozorava da bi stroga ograničenja mogla oslabiti konkurentnost UK-a u digitalnoj ekonomiji."
+categories: ["regulacija"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -9,6 +9,7 @@ summary: "The exchange will open WLFI spot pairs against USDT and USDC, marking 
 tags: ["Trump","WLFI","Binance","crypto","exchange","listing","DeFi","Ethereum","BSC","Solana"]
 image_url: "https://www.coindesk.com/resizer/v2/WT4J2CG7DZEHXP54VIFC5X4QHE.jpg?auth=6c30f1c850d232b1b80d4ed8b5a9f99e58d683e1c6f7f27d0f13b77a1f33262b&width=1200"
 image_url_small: "https://www.coindesk.com/resizer/v2/WT4J2CG7DZEHXP54VIFC5X4QHE.jpg?auth=6c30f1c850d232b1b80d4ed8b5a9f99e58d683e1c6f7f27d0f13b77a1f33262b&width=600"
+categories: ["crypto"]
 ---
 
 Binance has become the first centralized crypto exchange to list **World Liberty Financial (WLFI)**, a DeFi project linked to the Trump family. Trading began Monday afternoon UTC, with deposits already open and withdrawals starting Tuesday.  

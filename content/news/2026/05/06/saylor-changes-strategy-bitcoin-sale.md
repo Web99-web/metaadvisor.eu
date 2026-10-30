@@ -15,6 +15,7 @@ image_alt: "Strategy considers selling Bitcoin after major losses"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "strategy", "microstrategy", "saylor", "investing", "trading", "stocks", "market", "wall street", "dividends", "debt", "institutional", "holder"]
 summary: "Strategy may sell Bitcoin for the first time to cover obligations and dividends after a major loss. The move could mark a shift away from the long-standing 'never sell' narrative."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

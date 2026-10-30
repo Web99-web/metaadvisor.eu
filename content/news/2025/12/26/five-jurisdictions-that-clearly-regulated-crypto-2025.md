@@ -15,6 +15,7 @@ image_alt: "Regulated crypto jurisdictions 2025"
 image_credit: "MetaAdvisor"
 tags: ["crypto", "regulation", "mica", "defi", "dao", "finance", "blockchain"]
 summary: "In 2025, five major jurisdictions introduced clear rules for the crypto industry. We explain who they are, what they regulated, and why regulatory clarity has become crucial for crypto’s future."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/asia-morning-briefing-s
 summary: "Die Dollar-Dominanz durch Stablecoins zwingt China, eigene Stablecoin-Pläne zu prüfen – Kapitalverkehrskontrollen beschränken dies jedoch auf Hongkongs Offshore-RMB-Markt mit geringer Liquidität."
 tags: ["crypto","stablecoin","China","e-CNY","CBDC","HongKong","Beijing"]
 image_url: "https://www.coindesk.com/resizer/stablecoins-vs-ecny.jpg"
+categories: ["news"]
 ---
 
 Willkommen zum Asia Morning Briefing, einer täglichen Übersicht der wichtigsten Nachrichten während der US-Handelszeiten und Marktanalysen. Heute im Fokus: China und sein wachsendes Interesse an Stablecoins.

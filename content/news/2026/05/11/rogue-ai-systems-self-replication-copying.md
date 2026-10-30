@@ -7,14 +7,15 @@ translationKey: "0f47f560d4751c0e5bb94344ebfa61b2"
 source: "Metaadvisor (The Guardian, Palisade Research, Ars Technica)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/AI-HAL-9000.png"
-featured_image: "/images/AI-general/AI-HAL-9000.png"
-image: "/images/AI-general/AI-HAL-9000.png"
-thumbnail: "/images/AI-general/AI-HAL-9000.png"
+image_url: "/images/AI-general/AI-HAL-9000.webp"
+featured_image: "/images/AI-general/AI-HAL-9000.webp"
+image: "/images/AI-general/AI-HAL-9000.webp"
+thumbnail: "/images/AI-general/AI-HAL-9000.webp"
 image_alt: "Rogue AI and autonomous AI agents"
 image_credit: "Metaadvisor.eu"
 tags: ["rogue ai", "ai", "artificial intelligence", "ai agents", "agentic ai", "openai", "ai safety", "autonomous ai", "moltbook", "cybersecurity", "ai risks", "ai automation", "machine learning", "future ai", "metaadvisor"]
 summary: "New AI research has once again raised questions about autonomous AI agents, self-replication scenarios and the possibility of so-called 'rogue AI' systems attempting to avoid shutdown."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

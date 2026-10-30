@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/27/nvidia-shares-edge-lowe
 summary: "Bitcoin und andere Kryptos zeigten Volatilität, blieben aber nach dem Bericht weitgehend unverändert."
 tags: ["crypto","BTC","ETH","XRP","Nvidia","Quartalszahlen"]
 image_url: "https://www.coindesk.com/resizer/b3x6c4XzDvsXyP0Lx5tN0c9C94k=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3XH75JZ3ZZGDRB2WZFHJZQ4JTI.jpg"
+categories: ["crypto"]
 ---
 
 Nvidia (NVDA) meldete am Mittwoch besser als erwartete Ergebnisse für das zweite Quartal, mit einem Umsatz von 46,7 Milliarden USD – ein Anstieg von 56 % gegenüber dem Vorjahr.

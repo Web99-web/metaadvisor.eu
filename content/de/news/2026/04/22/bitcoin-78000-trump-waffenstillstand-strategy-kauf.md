@@ -15,6 +15,7 @@ image_alt: "Bitcoin über 78000 Dollar Marktanstieg"
 image_credit: "Metaadvisor / Illustration"
 tags: ["bitcoin","btc","krypto","crypto","ethereum","eth","solana","markt","geopolitik","ETF","institutionelle investoren","kryptomarkt","blockchain"]
 summary: "Bitcoin steigt über $78.000, getrieben durch Geopolitik, institutionelle Käufe und starke Kapitalzuflüsse – ein Signal für möglichen weiteren Aufwärtstrend."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

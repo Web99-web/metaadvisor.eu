@@ -10,6 +10,7 @@ image_url: "/images/gold1.jpg"
 image_alt: "Zlatne poluge – ilustracija"
 tags: ["fed","rates","macro","crypto","gold","stocks"]
 summary: "Markets expect a 25-bp cut on Sept. 17. Short-term jitters are possible, but lower rates could support crypto, gold and stocks over time."
+categories: ["crypto"]
 ---
 
 Investors are counting down to the **FED’s** Sept. 17 decision; markets expect a **quarter-point (25 bp)** cut that could trigger short-term volatility but potentially fuel longer-term gains in risk assets.

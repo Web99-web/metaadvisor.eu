@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/336975/kindly-mds-5-billion-bitcoin-bet-expense-
 summary: "Kindly MD has filed for a $5B shelf offering after a $679M Bitcoin buy, while risks and debates over digital asset treasuries spread across the market."
 tags: ["crypto","bitcoin","BTC","altcoin","DATs","KindlyMD"]
 image_url: "https://decrypt.co/wp-content/uploads/2025/08/kindly-md-bitcoin.jpg"
+categories: ["crypto"]
 ---
 
 Nasdaq-listed healthcare firm Kindly MD has filed an automatic shelf registration with the SEC to issue up to $5 billion in stock, just days after disclosing a $679 million Bitcoin purchase through its subsidiary, Nakamoto Holdings.

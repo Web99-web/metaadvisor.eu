@@ -15,6 +15,7 @@ image_alt: "Gmail and Google account storage concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Gmail", "Google Drive", "Google Photos", "Google Account", "Google One", "cloud storage", "5 GB", "15 GB", "phone verification", "broj telefona", "digitalna privatnost", "Big Tech", "besplatni internet", "digitalna identifikacija", "online računi", "cloud", "backup", "Metaadvisor"]
 summary: "Google prema dostupnim izvještajima testira novu politiku za neke nove račune: početnih 5 GB prostora bez broja telefona, uz mogućnost otključavanja do 15 GB nakon dodavanja telefona. Pitanje više nije samo koliko prostora dobivamo, nego što sve moramo dati za usluge koje zovemo besplatnima."
+categories: ["tech"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>
@@ -86,7 +87,7 @@ Treća lekcija je da “besplatno” treba čitati drugačije. Besplatno može z
 
 <p style="margin:22px 0; padding:14px; border:1px solid #e5e7eb; border-radius:14px; background:#f9fafb;">
   <a href="https://metaadvisor.eu/hr/news/mega-vs-google-drive-privatnost-google-ekosustav/" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">
-    <img src="/images/companies/MEGA-vs-Google-drive.png" alt="MEGA vs Google Drive: privatnost ili Google ekosustav?" style="width:100%; max-width:520px; display:block; margin:0 auto 12px auto; border-radius:12px;">
+    <img src="/images/companies/MEGA-vs-Google-drive.webp" alt="MEGA vs Google Drive: privatnost ili Google ekosustav?" style="width:100%; max-width:520px; display:block; margin:0 auto 12px auto; border-radius:12px;">
   </a>
   <a href="https://metaadvisor.eu/hr/news/mega-vs-google-drive-privatnost-google-ekosustav/" target="_blank" rel="noopener" style="font-weight:700; color:#1e40af; text-decoration:none;">
     MEGA vs Google Drive: privatnost ili Google ekosustav?

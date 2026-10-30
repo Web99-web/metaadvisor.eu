@@ -17,6 +17,7 @@ image_credit: "MetaAdvisor AI Graphic"
 tags: ["zcash", "zec", "bitcoin", "btc", "blockchain", "kripto", "privacy", "privacy coin", "zk-tehnologija", "zero-knowledge", "kripto tržište", "kriptografija", "winklevoss", "gemini", "analitičari"]
 summary: "Zcash dobiva sve veću pozornost, dok analitičari upozoravaju da bi mogao ‘podijeliti glasove’ u ključnom trenutku za Bitcoin – posebno zbog sve većeg interesa za ZK tehnologiju."
 
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

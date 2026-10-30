@@ -7,14 +7,15 @@ translationKey: "c7d1a7a6-0f7c-4db5-9f7f-6e5d8a4b8d34"
 source: "Emirates Media Centre"
 source_url: "https://www.emirates.com/media-centre/emirates-signs-mou-with-cryptocom-for-future-integration-of-cryptocom-pay-as-a-payment-option-for-customers/"
 author: "Metaadvisor.eu"
-image_url: "/images/Emirates-eth.png"
-featured_image: "/images/Emirates-eth.png"
-image: "/images/Emirates-eth.png"
-thumbnail: "/images/Emirates-eth.png"
+image_url: "/images/Emirates-eth.webp"
+featured_image: "/images/Emirates-eth.webp"
+image: "/images/Emirates-eth.webp"
+thumbnail: "/images/Emirates-eth.webp"
 image_alt: "Emirates avion i Ethereum logo — najava kripto plaćanja"
 image_credit: "Metaadvisor.eu — slika je simbolična."
 tags: ["crypto","kripto","ethereum","ETH","Emirates","aviation","zrakoplovstvo","plaćanja","payments","Dubai","Crypto.com","PSP","Layer2","BTC","Bitcoin"]
 summary: "Emirates planira omogućiti plaćanja u kriptovalutama — s naglaskom na Ethereum — od prvog kvartala 2026., nakon potpisanog MoU-a s Crypto.com za integraciju Crypto.com Pay."
+categories: ["crypto"]
 ---
 
 Emirates, jedan od najvećih svjetskih avioprijevoznika, potvrdio je plan da od **prvog kvartala 2026.** omogući plaćanja u kriptovalutama — s naglaskom na **Ethereum (ETH)**. Najava slijedi nakon potpisivanja **MoU-a** (eng. *Memorandum of Understanding* — memorandum o razumijevanju) s platformom **Crypto.com** radi integracije rješenja **Crypto.com Pay** u sustav naplate karata i dodatnih usluga.

@@ -16,6 +16,7 @@ image_alt: "Solana (SOL) — symbolic illustration"
 image_credit: "Metaadvisor.eu — symbolic image"
 tags: ["crypto", "Solana", "ETH", "ETF", "institutions", "trading", "altcoins", "blockchain", "regulation", "SEC", "capital-inflows"]
 summary: "SOL has rallied hard, but the key question now is: can Solana outperform Ether if spot ETFs get the green light? Here are the expectations and the risks."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

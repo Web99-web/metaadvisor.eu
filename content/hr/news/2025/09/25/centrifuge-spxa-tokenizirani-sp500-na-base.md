@@ -29,6 +29,7 @@ tags:
   - 24-7-trading
   - onchain
 summary: "Centrifuge je lansirao SPXA — prvi licencirani S&P 500 indeksni fond na blockchainu (Base, L2). Fond obećava 24/7 trgovanje i transparentne sadržaje portfelja, uz partnere poput Janus Hendersona i FalconX-a."
+categories: ["crypto"]
 ---
 
 **Kratko:** Specijalist za **RWA** (real-world assets) **Centrifuge** pokreće **SPXA**, prvi **licencirani** S&P 500 indeksni fond na **blockchain railovima**. Fond je uživo na **Base** (Ethereum L2 koji je razvio **Coinbase**), s ciljem da jedan od **najpraćenijih svjetskih dioničkih indeksa** dobije **on-chain** pristup, **24/7 trgovanje** i **transparentne** sastavnice.

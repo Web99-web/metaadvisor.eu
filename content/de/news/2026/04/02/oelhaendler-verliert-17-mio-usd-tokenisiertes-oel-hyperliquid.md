@@ -7,14 +7,15 @@ translationKey: "244931044107a438428d596a06366fbb"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (CoinDesk, CoinGlass, Marktdaten)"
 source_url: ""
-image_url: "/images/news/oil-trader-lost-17m-usd.png"
-featured_image: "/images/news/oil-trader-lost-17m-usd.png"
-image: "/images/news/oil-trader-lost-17m-usd.png"
-thumbnail: "/images/news/oil-trader-lost-17m-usd.png"
+image_url: "/images/news/oil-trader-lost-17m-usd.webp"
+featured_image: "/images/news/oil-trader-lost-17m-usd.webp"
+image: "/images/news/oil-trader-lost-17m-usd.webp"
+thumbnail: "/images/news/oil-trader-lost-17m-usd.webp"
 image_alt: "Liquidation von 17 Millionen USD bei tokenisiertem Öl auf der Plattform Hyperliquid"
 image_credit: "MetaAdvisor.eu"
 tags: ["öl", "tokenisiertes öl", "hyperliquid", "bitcoin", "krypto", "liquidationen", "hebel", "trading", "defi", "geopolitik", "iran", "trump", "short", "long"]
 summary: "Ein Trader verlor mehr als 17 Millionen USD mit tokenisiertem Öl auf der Plattform Hyperliquid, während die Märkte auf geopolitische Nachrichten und einen starken Anstieg des Ölpreises reagierten."
+categories: ["crypto"]
 ---
 
 Bild ist symbolisch.

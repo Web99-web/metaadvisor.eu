@@ -7,14 +7,15 @@ translationKey: "gta-rockstar-hack-2026"
 author: "Metaadvisor.eu"
 source: "Cointelegraph, Tom’s Hardware, The Verge"
 source_url: ""
-image_url: "/images/news/GTA-hacked.png"
-featured_image: "/images/news/GTA-hacked.png"
-image: "/images/news/GTA-hacked.png"
-thumbnail: "/images/news/GTA-hacked.png"
+image_url: "/images/news/GTA-hacked.webp"
+featured_image: "/images/news/GTA-hacked.webp"
+image: "/images/news/GTA-hacked.webp"
+thumbnail: "/images/news/GTA-hacked.webp"
 image_alt: "GTA i Rockstar Games hakerski napad"
 image_credit: "Metaadvisor ilustracija"
 tags: ["gta", "rockstar", "hack", "cybersecurity", "shinyhunters", "supply chain", "gaming", "tehnologija", "sigurnost"]
 summary: "Rockstar Games našao se pod pritiskom nakon supply chain napada, uz rok do 14. travnja 2026. i prijetnju objave podataka ako se otkupnina ne plati."
+categories: ["tech"]
 ---
 
 _Slika je simbolična._

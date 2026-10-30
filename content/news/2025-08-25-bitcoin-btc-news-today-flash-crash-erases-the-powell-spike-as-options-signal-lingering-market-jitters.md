@@ -9,6 +9,7 @@ summary: "Options data shows lingering uncertainty despite Powell's dovish pivot
 tags: ["bitcoin","btc","crypto","options","powell","jackson-hole","deribit","amberdata","flash-crash","whale","timechainindex"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/dbfb690c699ed79d604f30a911b4271fb9cd7583-1500x843.jpg?auto=format"
 image_alt: "Reverse gear illustration (CoinDesk Archives)"
+categories: ["crypto"]
 ---
 
 Bitcoin BTC $ 112,112.97 fell below $111,000 during the overnight trade, reversing Friday's spike caused by Fed Chair Powell's dovish speech, as a whale sold into illiquid market conditions.

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/mike-cagney-s-figure-te
 summary: "Figure Technologies aims to raise up to $526 million at a valuation over $4 billion through its upcoming IPO."
 tags: ["RWA", "FIGR", "IPO", "Nasdaq", "blockchain", "stablecoin", "crypto"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
+categories: ["news"]
 ---
 
 **Figure Technologies**, the blockchain lender founded by SoFi co-founder Mike Cagney, is targeting a valuation of up to **$4.13 billion** in its upcoming **Nasdaq IPO**, according to filings with the U.S. Securities and Exchange Commission.

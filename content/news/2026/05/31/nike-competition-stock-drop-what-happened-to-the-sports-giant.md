@@ -7,14 +7,15 @@ translationKey: "nike-stock-drop-competition-since-2021-2026"
 source: "Metaadvisor (Barron's, Reuters)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/NIke-stock-drop-since-2021.png"
-featured_image: "/images/companies/NIke-stock-drop-since-2021.png"
-image: "/images/companies/NIke-stock-drop-since-2021.png"
-thumbnail: "/images/companies/NIke-stock-drop-since-2021.png"
+image_url: "/images/companies/NIke-stock-drop-since-2021.webp"
+featured_image: "/images/companies/NIke-stock-drop-since-2021.webp"
+image: "/images/companies/NIke-stock-drop-since-2021.webp"
+thumbnail: "/images/companies/NIke-stock-drop-since-2021.webp"
 image_alt: "Nike stock drop since 2021 with competition catching up"
 image_credit: "Metaadvisor.eu"
 tags: ["Nike", "NKE", "stocks", "stock drop", "stock market", "investing", "sports shoes", "competition", "Hoka", "On Running", "Asics", "New Balance", "Adidas", "Li-Ning", "Anta", "Jordan", "market", "brands", "consumers", "retail"]
 summary: "Nike has lost a major part of its market value since its 2021 peak, while competitors such as Hoka, On Running, Asics, New Balance and Adidas are gaining ground in sports footwear. The story shows that even global brands are not automatically safe investments."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">The image is symbolic.</p>

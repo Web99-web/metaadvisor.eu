@@ -7,14 +7,15 @@ translationKey: "ftx_final_sec_19122025"
 source: "MetaAdvisor analysis — based on CoinDesk reporting"
 source_url: "https://coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/FTX.png"
-featured_image: "/images/FTX.png"
-image: "/images/FTX.png"
-thumbnail: "/images/FTX.png"
+image_url: "/images/FTX.webp"
+featured_image: "/images/FTX.webp"
+image: "/images/FTX.webp"
+thumbnail: "/images/FTX.webp"
 image_alt: "FTX and the U.S. Securities and Exchange Commission"
 image_credit: "Public domain / illustrative"
 tags: ["ftx","sec","sam bankman-fried","crypto","regulation","fraud","crypto exchanges","justice","finance"]
 summary: "U.S. regulators close the FTX case with long-term bans for former executives, marking the end of one of the darkest chapters in crypto history."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

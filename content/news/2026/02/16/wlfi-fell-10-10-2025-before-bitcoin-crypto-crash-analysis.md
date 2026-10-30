@@ -15,6 +15,7 @@ image_alt: "WLFI as a possible early signal of the crypto crash on 10.10.2025"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["wlfi", "world liberty financial", "bitcoin", "crypto crash", "liquidations", "derivatives", "perpetual futures", "funding rate", "amberdata", "cryptocurrency", "market stress"]
 summary: "An Amberdata analysis suggests that WLFI began falling more than five hours before the $6.9 billion liquidation wave and the sharp Bitcoin decline on 10.10.2025."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

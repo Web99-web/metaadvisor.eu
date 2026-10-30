@@ -7,14 +7,15 @@ translationKey: "mstr_bitcoin_purchase_1229_btc_30122025"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million"
 author: "Metaadvisor.eu"
-image_url: "/images/MSTR-strategy-Bitcoin.png"
-featured_image: "/images/MSTR-strategy-Bitcoin.png"
-image: "/images/MSTR-strategy-Bitcoin.png"
-thumbnail: "/images/MSTR-strategy-Bitcoin.png"
+image_url: "/images/MSTR-strategy-Bitcoin.webp"
+featured_image: "/images/MSTR-strategy-Bitcoin.webp"
+image: "/images/MSTR-strategy-Bitcoin.webp"
+thumbnail: "/images/MSTR-strategy-Bitcoin.webp"
 image_alt: "Strategy (MSTR) verstärkt Bitcoin-Bestand"
 image_credit: "MetaAdvisor"
 tags: ["bitcoin", "btc", "strategy", "mstr", "institutionen", "corporate treasury", "krypto", "investment", "finanzmärkte"]
 summary: "Strategy (MSTR) hat weitere 1.229 Bitcoin gekauft und festigt damit seine Position als größter börsennotierter BTC-Halter weltweit."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

@@ -15,6 +15,7 @@ image_alt: "EURC Nutzung in Spanien und digitale Euro-Zahlungen"
 image_credit: "Metaadvisor.eu"
 tags: ["eurc stablecoin spanien", "euro stablecoin europa", "eurc zahlungen", "digitaler euro stablecoin", "krypto zahlungen spanien", "mica regulierung europa", "circle eurc stablecoin", "fintech spanien", "peer to peer zahlungen euro", "krypto kartenzahlungen", "stablecoin retail nutzung"]
 summary: "Spanien führt die Nutzung des EURC Stablecoins in Europa an und zeigt, wie ein digitaler Euro bereits heute im Alltag eingesetzt wird."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

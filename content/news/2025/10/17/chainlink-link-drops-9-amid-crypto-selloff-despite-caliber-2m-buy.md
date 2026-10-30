@@ -16,6 +16,7 @@ image_alt: "Chainlink (LINK) — symbolic illustration"
 image_credit: "Image is symbolic."
 tags: ["chainlink","link","oracle","crypto","defi","megaeth","data streams","perpetuals","stablecoins","caliber","reserve","treasury","latency","btc","altcoins","trading","price","drop"]
 summary: "LINK fell roughly 9% on Friday. At the same time, Caliber disclosed another $2M purchase, and Chainlink launched Data Streams on MegaETH."
+categories: ["crypto"]
 ---
 
 **Overview.** LINK slid about **9%** into the **$16–17** range during broader crypto weakness. Even so, **Caliber** disclosed another **$2M** in LINK, while the **Chainlink Reserve** also added tokens. On the product side, Chainlink rolled out **Data Streams on MegaETH**, aimed at ultra-low latency for real-time DeFi.

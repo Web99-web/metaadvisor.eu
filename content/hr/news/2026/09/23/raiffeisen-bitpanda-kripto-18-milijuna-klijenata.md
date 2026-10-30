@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Raiffeisen", "RBI", "Bitpanda", "crypto", "Bitcoin", "digitalna imovina", "banke", "fintech", "Austrija", "Europa", "MiCA", "bankarstvo"]
 description: "Raiffeisen Bank International i Bitpanda šire suradnju na grupnu razinu. Bitpandina infrastruktura mogla bi omogućiti crypto usluge bankama unutar RBI mreže koja opslužuje oko 18 milijuna klijenata."
 summary: "Raiffeisen Bank International prelazi s lokalnog crypto projekta na grupni okvir s Bitpandom. Banke unutar RBI mreže moći će postupno uvoditi usluge digitalne imovine, dok potencijalni doseg partnerstva iznosi oko 18 milijuna bankovnih klijenata."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -7,14 +7,15 @@ translationKey: "4d8e767054464bdd0e06ebcad6f16e86"
 source: "The Guardian"
 source_url: ""
 author: "The Guardian (analysis: MetaAdvisor.eu)"
-image_url: "/images/AI-monitors-in-burger.png"
-featured_image: "/images/AI-monitors-in-burger.png"
-image: "/images/AI-monitors-in-burger.png"
-thumbnail: "/images/AI-monitors-in-burger.png"
+image_url: "/images/AI-monitors-in-burger.jpg"
+featured_image: "/images/AI-monitors-in-burger.jpg"
+image: "/images/AI-monitors-in-burger.jpg"
+thumbnail: "/images/AI-monitors-in-burger.jpg"
 image_alt: "AI robot peeking out of a burger in a fast food setting"
 image_credit: "MetaAdvisor.eu (AI illustration)"
 tags: ["ai", "artificial intelligence", "burger king", "employee monitoring", "technology", "chatbot", "openai", "workplace surveillance", "automation", "retail tech", "ai governance", "digital transformation"]
 summary: "Burger King introduces an AI assistant capable of analyzing employee communication and detecting words like 'please' and 'thank you'. The move sparks debate about the boundary between operational support and workplace surveillance."
+categories: ["ai"]
 ---
 
 # Burger King rolls out AI chatbot: Is it now tracking ‘please’ and ‘thank you’?

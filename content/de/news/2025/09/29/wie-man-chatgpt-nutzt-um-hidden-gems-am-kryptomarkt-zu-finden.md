@@ -15,6 +15,7 @@ image_alt: "ChatGPT/AI-Research für Krypto – ‘Hidden Gems’"
 image_credit: "Design/Visual: Metaadvisor.eu (symbolische Darstellung)"
 tags: ["Krypto","AI","ChatGPT","Research","On-Chain","Tokenomics","DeFi","Altcoins","Analyse","Prompts"]
 summary: "Ein praxisnahes Playbook, wie ChatGPT das Screening von Altcoins beschleunigt: Filter definieren, Shortlist erstellen, Tokenomics/On-Chain/Liquidität prüfen. AI hilft – Entscheidungen und Verifikationen bleiben bei dir."
+categories: ["crypto"]
 ---
 
 **Kurz:** ChatGPT kann den Weg von „zu viele Projekte“ zur **Shortlist** stark **beschleunigen**. Nicht die „magische Antwort“ zählt, sondern **gute Filter**, **gute Prompts** und **harte Checks** (on-chain, Tokenomics, Liquidität).

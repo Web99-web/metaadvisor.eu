@@ -9,6 +9,7 @@ summary: "El Salvador je rasporedio oko 678 milijuna USD u Bitcoinu na 14 razli�
 tags: ["bitcoin", "crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvZGVmYXVsdC5qcGc=.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvZGVmYXVsdC5qcGc=.jpg"
+categories: ["crypto"]
 ---
 
 El Salvador, prva država na svijetu koja je usvojila Bitcoin kao zakonsko sredstvo plaćanja, poduzela je korak u zaštiti svojih nacionalnih BTC rezervi. Vlada je rasporedila **678 milijuna USD vrijednih bitcoina** u 14 različitih novčanika kako bi se smanjio potencijalni **kvantni rizik**.

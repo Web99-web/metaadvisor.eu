@@ -16,6 +16,7 @@ image_alt: "Ledger hardverski novčanik i multisig koncept"
 image_credit: "Slika je simbolična."
 tags: ["Ledger", "hardverski novčanik", "multisig", "naknade", "self-custody", "sigurnost", "kripto", "bitcoin", "ethereum", "wallet", "kripto sigurnost"]
 summary: "Ledger je predstavio novo multisig sučelje, a zajednica kritizira model naplate i proziva ga ‘kravom muzarom’. Donosimo kontekst: što je multisig, zašto su naknade sporne i što to znači za korisnike."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

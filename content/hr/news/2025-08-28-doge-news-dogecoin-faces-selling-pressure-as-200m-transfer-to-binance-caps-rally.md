@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/doge-faces-selling-pres
 summary: "Token se drži u uskom rasponu oko $0,22 dok veliki vlasnici likvidiraju, a institucionalni stolovi preuzimaju tokove."
 tags: ["crypto","DOGE","Dogecoin","Binance"]
 image_url: "https://www.coindesk.com/markets/2025/08/28/doge-faces-selling-pressure-as-usd200m-whale-transfer-to-binance-caps-rally"
+categories: ["news"]
 ---
 
 DOGE je pod pritiskom prodaje nakon što je **velika 'kit'-transakcija** od 900 milijuna DOGE (preko $200M) prebačena na Binance, izazivajući strahove od šire likvidacije i kratkotrajni pad cijene s $0,25 na oko $0,23 :contentReference[oaicite:1]{index=1}.

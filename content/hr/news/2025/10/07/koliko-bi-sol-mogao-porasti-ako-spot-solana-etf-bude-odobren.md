@@ -27,6 +27,7 @@ tags:
   - staking
   - volatility
 summary: "Hipotetsko odobrenje spot Solana ETF-a otvorilo bi vrata institucionalnim tokovima i potencijalno smanjilo slobodnu ponudu kroz skrbništvo — no ishod ovisi o regulativi, naknadama i tržišnom sentimentu."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

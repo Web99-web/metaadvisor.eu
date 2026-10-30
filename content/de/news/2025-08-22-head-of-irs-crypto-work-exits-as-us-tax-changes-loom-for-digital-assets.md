@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/22/head-of-irs-crypto-work-
 summary: "Trish Turner, langjährige Mitarbeiterin der US-Steuerbehörde IRS und Leiterin der Abteilung für digitale Vermögenswerte, ist die jüngste hochrangige Beamtin, die in den Privatsektor wechselt."
 tags: ["crypto", "token", "finanz", "irs", "steuern", "usa", "digital-assets"]
 image: "/news/2025-08-22-head-of-irs-crypto-work-exits-as-us-tax-changes-loom-for-digital-assets.jpg"
+categories: ["crypto"]
 ---
 
 Die Leiterin der Abteilung für digitale Vermögenswerte beim **Internal Revenue Service (IRS)**, **Trish Turner**, verlässt ihre Position und wechselt in den Privatsektor – genau zu dem Zeitpunkt, an dem neue Steuerregelungen einen massiven Anstieg der Krypto-Arbeit für die Behörde bringen könnten.  

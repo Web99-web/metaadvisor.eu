@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/27/nvidia-shares-edge-lowe
 summary: "Bitcoin i druge kriptovalute pokazale su volatilnost, ali su ostale gotovo nepromijenjene nakon objave izvještaja."
 tags: ["crypto","BTC","ETH","XRP","Nvidia","rezultati"]
 image_url: "https://www.coindesk.com/resizer/b3x6c4XzDvsXyP0Lx5tN0c9C94k=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3XH75JZ3ZZGDRB2WZFHJZQ4JTI.jpg"
+categories: ["crypto"]
 ---
 
 Nvidia (NVDA) objavila je u srijedu rezultate iznad očekivanja za drugo tromjesečje, s prihodom od 46,7 milijardi USD, što je rast od 56% u odnosu na prošlu godinu.

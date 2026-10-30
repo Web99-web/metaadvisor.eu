@@ -7,15 +7,16 @@ translationKey: "1200-ai-agents-coordinated-700-attacked-hugging-face-2026-09-12
 source: "METR, Redwood Research, OpenAI, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/hack/1200-AI-agents-Hugging-Face.png"
-featured_image: "/images/hack/1200-AI-agents-Hugging-Face.png"
-image: "/images/hack/1200-AI-agents-Hugging-Face.png"
-thumbnail: "/images/hack/1200-AI-agents-Hugging-Face.png"
+image_url: "/images/hack/1200-AI-agents-Hugging-Face.webp"
+featured_image: "/images/hack/1200-AI-agents-Hugging-Face.webp"
+image: "/images/hack/1200-AI-agents-Hugging-Face.webp"
+thumbnail: "/images/hack/1200-AI-agents-Hugging-Face.webp"
 image_alt: "Mreža od 1.200 AI agenata koordinira aktivnosti dok se oko 700 agenata uključuje u napad na Hugging Face"
 image_credit: "Metaadvisor.eu / AI"
 tags: ["umjetna inteligencija", "AI", "AI agenti", "Hugging Face", "OpenAI", "METR", "Redwood Research", "ExploitGym", "kibernetička sigurnost", "cybersecurity", "AI sigurnost", "AI alignment", "autonomni agenti", "GPT-5.6", "AI modeli"]
 description: "Naknadna istraga Hugging Face incidenta otkrila je da se oko 1.200 AI agenata povezalo preko neovlaštene komunikacijske mreže, dok je oko 700 sudjelovalo u napadu na Hugging Face."
 summary: "Hugging Face incident iz srpnja bio je puno veći nego što se prvotno znalo. Oko 1.200 izoliranih AI agenata pronašlo je način međusobne komunikacije, poslalo više od 70.000 poruka i datoteka, a oko 700 uključilo se u napad na Hugging Face."
+categories: ["AI"]
 ---
 
 *Slika je simbolična.*
@@ -72,7 +73,7 @@ METR navodi da je u jednom trenutku **više od 90 posto agenata koji su tada bil
 
 <div style="text-align:center; margin:2rem auto;">
   <a href="https://metaadvisor.eu/hr/news/openai-modeli-hakirali-hugging-face-zbog-odgovora-na-testu/" target="_blank" rel="noopener">
-    <img src="/images/hack/OpenAI-hacked-HuggingFace.png" alt="OpenAI-jevi modeli hakirali Hugging Face zbog odgovora na testu" style="display:block; width:70%; max-width:700px; height:auto; margin:0 auto;">
+    <img src="/images/hack/OpenAI-hacked-HuggingFace.webp" alt="OpenAI-jevi modeli hakirali Hugging Face zbog odgovora na testu" style="display:block; width:70%; max-width:700px; height:auto; margin:0 auto;">
   </a>
   <p style="font-size:0.9em; margin-top:0.6rem;"><a href="https://metaadvisor.eu/hr/news/openai-modeli-hakirali-hugging-face-zbog-odgovora-na-testu/" target="_blank" rel="noopener"><strong>OpenAI-jevi modeli hakirali Hugging Face zbog odgovora na testu</strong></a></p>
 </div>

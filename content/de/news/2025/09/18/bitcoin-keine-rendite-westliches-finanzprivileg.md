@@ -15,6 +15,7 @@ image_alt: "Bitcoin und das Rendite-Narrativ"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["crypto","bitcoin","rendite","emerging-markets","inflation","self-custody","metaadvisor"]
 summary: "Die Kritik „Bitcoin hat keine Rendite“ wirkt plausibel, wenn Zinsprodukte zuverlässig auszahlen. In großen Teilen der Welt ist Rendite jedoch ein Paket aus Emittenten-, Intermediär- und Politrisiko – genau dem versucht Bitcoin zu entkommen."
+categories: ["crypto"]
 ---
 
 Auf westlichen Bankvitrinen leuchten die Prozente: 3 %, 4 %, 5 % auf Termineinlagen. In vielen Städten der Welt leuchten sie nicht – sie gehen über Nacht aus. Heute ist der Zins „sicher“, morgen steht das Konto unter **Moratorium**, der Wechselkurs rutscht oder die Grenze wird wieder zur Wand. In diesem Umfeld klingt die Frage, warum Bitcoin **keine Rendite** zahlt, wie ein Lehrbuch-Einwand, nicht wie eine Antwort auf die Realität.  

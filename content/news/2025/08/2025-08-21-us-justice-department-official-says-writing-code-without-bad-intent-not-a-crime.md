@@ -6,6 +6,7 @@ category: "news"
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/564bac7203c6e38e89eb4093ecb221b0bbe4e205-3200x1800.jpg"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/08/21/u-s-justice-department-official-says-writing-code-without-bad-intent-not-a-crime"
+categories: ["news"]
 ---
 
 A senior official at the U.S. Department of Justice knew the crypto audience in Wyoming had fresh software developer convictions on its mind when he told them on Thursday that his department doesn't want to go after digital assets software developers who don't have money-laundering intentions.

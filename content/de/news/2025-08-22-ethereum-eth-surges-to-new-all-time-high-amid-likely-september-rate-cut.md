@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/ethzilla-shares-plunge-
 summary: "Das neu ausgerichtete Krypto-Treasury-Unternehmen gab ein Angebot von 74,8 Mio. Aktien bekannt und löste Bedenken aus, obwohl es über 82.000 ETH und 238 Mio. USD in bar hält."
 tags: ["crypto", "token", "finanz", "ethereum", "eth", "ethzilla", "ethz"]
 image: "/news/2025-08-22-ethzilla-ethz-shares-plunge-nearly-30-as-dilution-fears-overshadow-349m-ether-et.jpg"
+categories: ["crypto"]
 ---
 
 Die Aktien von **ETHZilla (ETHZ)**, ehemals das Biotech-Unternehmen 180 Life Science, fielen am Freitag um fast **30%**, nachdem das Unternehmen bekannt gab, dass Aktionäre die Ausgabe von bis zu **74,8 Mio. wandelbaren Aktien** beantragt hatten.  

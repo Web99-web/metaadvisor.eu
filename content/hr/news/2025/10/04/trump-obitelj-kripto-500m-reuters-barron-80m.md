@@ -34,6 +34,7 @@ tags:
   - regulacija
   - tokenomics
 summary: "Reuters procjenjuje kumulativne priljeve od oko 500 mil. USD za obitelj Trump kroz WLFI; službeno je prijavljeno 57,35 mil. USD (OGE 2024.). Za Barrona kruži cifra od ~80 mil. USD, ali bez obaveznih javnih podataka."
+categories: ["crypto"]
 ---
 
 Priča o Trumpovima i kriptu ima dva lica: ono koje je zapisano u službenim dokumentima i ono koje nastaje zbrojem procjena, on-chain tragova i medijskog zamaha. Prvo lice je suho i vrlo konkretno: u imovinskoj objavi za 2024. Donald Trump upisuje 57,35 milijuna dolara prihoda od prodaje tokena na World Liberty Financialu (WLFI) te 15,75 milijardi governance tokena u posjedu. Drugo lice je veće i bučnije: Reuters zbraja pravila raspodjele prihoda, vlasničku strukturu i prodaje tokena i dolazi do procjene da je obitelj od lansiranja WLFI-ja kumulativno uprihodila oko 500 milijuna dolara. Jedna brojka je minimalno potvrđena gotovina, druga je slika sustava koji je u stanju generirati iznimno velik priljev.

@@ -3,8 +3,9 @@ title: "SEC traži povlačenje 19b-4 prijava; ETF-ovi bi mogli biti odobreni rek
 date: 2025-09-29T17:02:10Z
 category: "news"
 translationKey: "8800b11984274d024d8cbd98290e093f"
-image: "/images/SEC-ETFs.png"
+image: "/images/SEC-ETFs.webp"
 tags: ["ETF", "SEC", "crypto", "bitcoin"]
+categories: ["news"]
 ---
 
 Američka Komisija za vrijednosne papire i burze (SEC) zatražila je od izdavatelja kripto ETF-ova da povuku svoje **19b-4 prijave**, što otvara vrata puno bržem postupku odobravanja nakon što su nove regulative uklonile ključnu prepreku.  

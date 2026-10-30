@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/tech/2025/09/04/world-liberty-financial-bl
 summary: "Sun ist ein wichtiger Investor im Projekt und hält WLFI-Token im Wert von rund 700 Millionen USD, größtenteils gesperrt."
 tags: ["crypto", "trump", "wlfi", "justin-sun", "tron", "trx", "ethereum", "eth", "blockchain", "tokens"]
 image_url: "/images/wlfi.png"
+categories: ["crypto"]
 ---
 
 **World Liberty Financial (WLFI)**, das Krypto-Protokoll, das mit **Donald Trump** und seiner Familie verbunden ist, hat am Donnerstag die Blockchain-Adresse von **Justin Sun**, dem Gründer von **Tron (TRX)** und einem wichtigen Investor, blockiert und ihn daran gehindert, WLFI-Token zu übertragen.

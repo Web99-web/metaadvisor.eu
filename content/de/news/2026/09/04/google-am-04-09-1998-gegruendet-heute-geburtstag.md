@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "google-founded-100000-check-before-company-2026-09-04"
 source: "Google, Google Doodles, Stanford University, Inc., Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Google-28th-birthday.png"
-featured_image: "/images/news/Google-28th-birthday.png"
-image: "/images/news/Google-28th-birthday.png"
-thumbnail: "/images/news/Google-28th-birthday.png"
+image_url: "/images/news/Google-28th-birthday.webp"
+featured_image: "/images/news/Google-28th-birthday.webp"
+image: "/images/news/Google-28th-birthday.webp"
+thumbnail: "/images/news/Google-28th-birthday.webp"
 image_alt: "Google feiert 28 Jahre seit der Gründung mit Geburtstagstorte und Kerzen"
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Larry Page", "Sergey Brin", "Andy Bechtolsheim", "Silicon Valley", "Startup", "Suchmaschinen", "Yahoo", "Stanford", "Susan Wojcicki", "David Cheriton", "Google Doodle", "Technologie", "Unternehmertum"]
 description: "Google Inc. wurde am 4. September 1998 offiziell gegründet, nachdem Andy Bechtolsheim einen Scheck über 100.000 Dollar auf eine Firma ausgestellt hatte, die noch gar nicht existierte."
 summary: "Vor Googleplex, Gmail, YouTube und Android standen zwei Stanford-Studenten, eine Suchmaschine aus dem Studentenwohnheim und ein Scheck über 100.000 Dollar, den sie zunächst nicht einlösen konnten, weil Google Inc. noch nicht existierte."
+categories: ["Tech"]
 ---
 
 *Das Bild ist symbolisch.*

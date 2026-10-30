@@ -7,14 +7,15 @@ translationKey: "satoshi-nakamoto-identity-mystery-no-proof"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Satoshi-Nakamoto.png"
-featured_image: "/images/Satoshi-Nakamoto.png"
-image: "/images/Satoshi-Nakamoto.png"
-thumbnail: "/images/Satoshi-Nakamoto.png"
+image_url: "/images/Satoshi-Nakamoto.webp"
+featured_image: "/images/Satoshi-Nakamoto.webp"
+image: "/images/Satoshi-Nakamoto.webp"
+thumbnail: "/images/Satoshi-Nakamoto.webp"
 image_alt: "Satoshi Nakamoto identity mystery Bitcoin creator"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "satoshi nakamoto", "kripto", "blockchain", "misterij", "tehnologija", "financije"]
 summary: "Identitet Satoshija Nakamota ponovno je u fokusu nakon novih teorija — no unatoč brojnim tvrdnjama, ključni dokaz i dalje ne postoji."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

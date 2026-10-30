@@ -7,14 +7,15 @@ translationKey: "pump_fun_30_day_hackathon_3m_20260121"
 source: "Cointelegraph / MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Pump-fun-30-day-hackathon-3M.png"
-featured_image: "/images/Pump-fun-30-day-hackathon-3M.png"
-image: "/images/Pump-fun-30-day-hackathon-3M.png"
-thumbnail: "/images/Pump-fun-30-day-hackathon-3M.png"
+image_url: "/images/Pump-fun-30-day-hackathon-3M.webp"
+featured_image: "/images/Pump-fun-30-day-hackathon-3M.webp"
+image: "/images/Pump-fun-30-day-hackathon-3M.webp"
+thumbnail: "/images/Pump-fun-30-day-hackathon-3M.webp"
 image_alt: "Pump.fun 30-day hackathon worth $3 million"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags: ["pump.fun","hackathon","crypto","startup","investment","memecoin","web3","blockchain","venture","tokens","innovation","crypto market","speculation"]
 summary: "Pump.fun, best known for the memecoin boom, has launched a $3 million 30-day hackathon as part of a broader attempt to move toward more sustainable, long-term projects."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/tech/2025/10/10/monero-releases-privacy-boost-against-sneaky-network-nodes"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/monero-privacy.png"
-featured_image: "/images/monero-privacy.png"
-image: "/images/monero-privacy.png"
-thumbnail: "/images/monero-privacy.png"
+image_url: "/images/monero-privacy.webp"
+featured_image: "/images/monero-privacy.webp"
+image: "/images/monero-privacy.webp"
+thumbnail: "/images/monero-privacy.webp"
 image_alt: "Monero Fluorine Fermi Upgrade"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags: ["monero","xmr","fluorine-fermi","privacy","ringct","stealth-addresses","ring-signatures","p2p","network","security"]
 summary: "Monero has released CLI v0.18.4.3 'Fluorine Fermi' – a highly recommended upgrade improving privacy by defending against spy nodes through smarter peer selection."
+categories: ["crypto"]
 ---
 
 **Monero (XMR)** has released **CLI v0.18.4.3 “Fluorine Fermi”**, described by the team as a *highly recommended upgrade*. It strengthens protection against so-called **spy nodes**.

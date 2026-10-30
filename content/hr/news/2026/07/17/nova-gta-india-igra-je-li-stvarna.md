@@ -7,14 +7,15 @@ translationKey: "gta-india-ai-video-nije-prava-igra-2026-07-17"
 source: "Rockstar Games, društvene mreže"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/games/GTA-India-is-not-real.png"
-featured_image: "/images/games/GTA-India-is-not-real.png"
-image: "/images/games/GTA-India-is-not-real.png"
-thumbnail: "/images/games/GTA-India-is-not-real.png"
+image_url: "/images/games/GTA-India-is-not-real.webp"
+featured_image: "/images/games/GTA-India-is-not-real.webp"
+image: "/images/games/GTA-India-is-not-real.webp"
+thumbnail: "/images/games/GTA-India-is-not-real.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["GTA India", "Grand Theft Auto", "GTA", "Rockstar Games", "AI video", "AI trailer", "umjetna inteligencija", "videoigre", "viralni video"]
 description: "Viralni GTA India trailer izgledao je toliko uvjerljivo da su mnogi pomislili kako gledaju najavu stvarne Rockstarove igre. Međutim, riječ je o AI-generiranom konceptu."
 summary: "GTA India nije službena Rockstarova igra. Viralni AI trailer prikazao je zamišljenu igru smještenu u Indiju i izgledao toliko uvjerljivo da su ga mnogi zamijenili za stvarnu najavu."
+categories: ["ai"]
 ---
 
 # GTA India izgleda kao prava igra, ali nije

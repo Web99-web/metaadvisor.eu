@@ -24,6 +24,7 @@ tags:
   - cftc
   - crypto
 summary: "The US Senate confirmed a senior Treasury official while the government shutdown continues. Here’s why this matters for markets and crypto – especially AML/OFAC/FinCEN – and what to watch next."
+categories: ["news"]
 ---
 
 *Image is symbolic.*

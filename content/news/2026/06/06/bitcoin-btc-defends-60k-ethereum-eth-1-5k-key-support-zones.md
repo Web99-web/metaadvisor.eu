@@ -7,14 +7,15 @@ translationKey: "bitcoin-ethereum-support-zones-2026-06-06"
 source: "Cointelegraph, TradingView, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/btc-eth-down.png"
-featured_image: "/images/daily-charts/btc-eth-down.png"
-image: "/images/daily-charts/btc-eth-down.png"
-thumbnail: "/images/daily-charts/btc-eth-down.png"
+image_url: "/images/daily-charts/btc-eth-down.webp"
+featured_image: "/images/daily-charts/btc-eth-down.webp"
+image: "/images/daily-charts/btc-eth-down.webp"
+thumbnail: "/images/daily-charts/btc-eth-down.webp"
 image_alt: "Bitcoin and Ethereum price drop with support zones"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "crypto", "cryptocurrency", "altcoins", "Solana", "SOL", "HYPE", "Zcash", "ZEC", "XRP", "Chainlink", "LINK", "AAVE", "TAO", "Injective", "INJ", "Cardano", "ADA", "Jito", "JTO", "Dogecoin", "DOGE", "SHIB", "PEPE", "MSTR", "Strategy", "support zone", "liquidations", "derivatives", "funding rate", "DeFi", "TVL", "Metaadvisor"]
 summary: "Bitcoin is fighting to defend the 59,000–60,000 USD zone, while Ethereum has fallen to a 13-month low and is trying to hold the 1,500–1,550 USD area. If these levels break, pressure on altcoins could quickly intensify."
+categories: ["crypto"]
 ---
 
 The image is symbolic.

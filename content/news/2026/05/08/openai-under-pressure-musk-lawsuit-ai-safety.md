@@ -7,14 +7,15 @@ translationKey: "ae90c4caa5091a4346af33a3f24a6a6c"
 source: "Metaadvisor (TechCrunch, Reuters, Wired, The Verge)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/OpenAI-Musk-Sam-Altman.png"
-featured_image: "/images/news/OpenAI-Musk-Sam-Altman.png"
-image: "/images/news/OpenAI-Musk-Sam-Altman.png"
-thumbnail: "/images/news/OpenAI-Musk-Sam-Altman.png"
+image_url: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+featured_image: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+image: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+thumbnail: "/images/news/OpenAI-Musk-Sam-Altman.webp"
 image_alt: "Elon Musk and OpenAI at the center of the AI safety debate"
 image_credit: "Metaadvisor.eu"
 tags: ["openai", "elon musk", "sam altman", "ai", "agi", "artificial intelligence", "ai safety", "xai", "microsoft", "chatgpt", "tech", "ai regulation", "superintelligence", "openai lawsuit", "future tech", "metaadvisor"]
 summary: "Former OpenAI employees claim the company gradually shifted from an AI safety-focused research lab into a product-driven organization. Elon Musk’s lawsuit is now reigniting concerns about whether the AI industry is prioritizing speed and profit over long-term safety."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

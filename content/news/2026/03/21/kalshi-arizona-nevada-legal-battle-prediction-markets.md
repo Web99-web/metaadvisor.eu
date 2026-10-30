@@ -15,6 +15,7 @@ image_alt: "Kalshi platform facing legal conflict with US states"
 tags: ["kalshi", "prediction markets", "regulation", "cftc", "arizona", "nevada", "fintech", "crypto", "betting"]
 summary: "Kalshi faces criminal charges in Arizona and a temporary ban in Nevada as a broader conflict unfolds between state authorities and federal regulators over the future of prediction markets."
 symbolic_image: true
+categories: ["news"]
 ---
 
 *The image is symbolic.*

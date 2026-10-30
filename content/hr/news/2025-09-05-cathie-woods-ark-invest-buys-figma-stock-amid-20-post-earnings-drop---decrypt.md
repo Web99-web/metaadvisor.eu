@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/338197/cathie-woods-ark-invest-buys-figma-stock-
 summary: "Ark Invest otkrio je udio u Figma-i nakon što su prve objave o zaradi srušile dionice, naglašavajući fokus na dizajn, a ne na Bitcoin."
 tags: ["news", "stocks", "figma", "ark-invest", "cathie-wood", "tesla", "coinbase", "roku", "investing", "etf"]
 image_url: "/images/stock-market-dionice1.jpg"
+categories: ["news"]
 ---
 
 **Ark Invest**, investicijska tvrtka iz New Yorka kojom upravlja **Cathie Wood**, dodala je više od 100.000 dionica **Figma-e** u svoj **ARKW ETF**, nakon što su dionice pale gotovo 20% poslije prvog izvještaja o zaradi od izlaska na burzu.

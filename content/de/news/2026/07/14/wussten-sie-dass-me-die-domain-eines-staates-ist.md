@@ -7,14 +7,15 @@ translationKey: "me-domain-montenegro-global-success-2026-07-14"
 source: "IANA, .ME Registry, Regierung von Montenegro"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/domena.me-montenegro.png"
-featured_image: "/images/informative/domena.me-montenegro.png"
-image: "/images/informative/domena.me-montenegro.png"
-thumbnail: "/images/informative/domena.me-montenegro.png"
+image_url: "/images/informative/domena.me-montenegro.webp"
+featured_image: "/images/informative/domena.me-montenegro.webp"
+image: "/images/informative/domena.me-montenegro.webp"
+thumbnail: "/images/informative/domena.me-montenegro.webp"
 image_credit: "Metaadvisor.eu"
 tags: [".me", "Montenegro", "Domains", "DNS", "ccTLD", "Telegram", "WhatsApp", "PayPal", "digitale Wirtschaft"]
 description: "Die Domain .me ist die offizielle nationale Domain Montenegros, wird aber von Telegram, WhatsApp, PayPal und zahlreichen globalen Marken genutzt. Wie wurden zwei Buchstaben zu einem wertvollen digitalen Produkt?"
 summary: "Telegram, WhatsApp und PayPal nutzen .me-Adressen innerhalb der nationalen Domainzone des kleinen europäischen Staates Montenegro. Wie wurden nur zwei Buchstaben zu einem globalen digitalen Produkt, das Montenegro Millionen Euro einbrachte?"
+categories: ["tech"]
 ---
 
 # Wussten Sie, dass `.me` die Domain eines Staates ist?
@@ -86,7 +87,7 @@ Montenegro liest keine Telegram-Nachrichten, verwaltet keine Telegram-Kanäle un
      target="_blank"
      rel="noopener"
      style="flex-shrink:0;">
-    <img src="/images/news/Telegram-t.me.png"
+    <img src="/images/news/Telegram-t.me.webp"
          alt="Telegrams Domain t.me ist aus dem globalen DNS verschwunden"
          loading="lazy"
          style="width:160px; max-width:35vw; height:auto; border-radius:8px; display:block;">

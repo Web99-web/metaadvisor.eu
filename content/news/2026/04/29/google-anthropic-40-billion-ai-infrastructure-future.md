@@ -7,14 +7,15 @@ translationKey: "1b3680d029f50bd7300bccb929e674a8"
 source: "Metaadvisor (TechCrunch, Bloomberg, Reuters)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Google-and-Anthropic-40B-investment.png"
-featured_image: "/images/companies/Google-and-Anthropic-40B-investment.png"
-image: "/images/companies/Google-and-Anthropic-40B-investment.png"
-thumbnail: "/images/companies/Google-and-Anthropic-40B-investment.png"
+image_url: "/images/companies/Google-and-Anthropic-40B-investment.webp"
+featured_image: "/images/companies/Google-and-Anthropic-40B-investment.webp"
+image: "/images/companies/Google-and-Anthropic-40B-investment.webp"
+thumbnail: "/images/companies/Google-and-Anthropic-40B-investment.webp"
 image_alt: "Google and Anthropic $40 billion investment in AI infrastructure"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "40 billion investment", "artificial intelligence", "google", "anthropic", "infrastructure", "compute", "data centers", "big tech", "technology", "future"]
 summary: "Google plans to invest up to $40 billion in Anthropic, highlighting how the AI race is increasingly driven by infrastructure, compute power, and energy."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

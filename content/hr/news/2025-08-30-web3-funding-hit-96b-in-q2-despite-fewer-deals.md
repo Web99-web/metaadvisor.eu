@@ -9,6 +9,7 @@ summary: "Rizični kapital prelazi na veće, strateške oklade — infrastruktur
 tags: ["web3", "vc", "crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/web3-funding-coindesk.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/web3-funding-coindesk.jpg?auto=format&width=1200"
+categories: ["news"]
 ---
 
 Web3 startupi prikupili su **9,6 milijardi USD** u Q2 2025., čime je to drugi najveći kvartal ikada, iako je broj poslova pao na najnižu razinu u nekoliko godina, pokazuje izvješće **Outlier Venturesa**.  

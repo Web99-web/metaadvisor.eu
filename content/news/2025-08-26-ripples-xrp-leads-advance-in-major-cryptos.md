@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/26/xrp-jumps-8-to-top-mark
 summary: "Solana, dogecoin, and ether also rallied, while CME crypto futures hit $30B in open interest, signaling growing institutional demand."
 tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/d502eb0a60fc0021f07f61d4384c701994c880c0-5160x4128.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 Altcoins bounced back sharply on Tuesday after a steep sell-off over the prior 48 hours, with traders seizing lower prices as an opportunity to re-enter the market. XRP led the recovery, gaining 6% over the past 24 hours.

@@ -25,6 +25,7 @@ tags:
   - ethereum
   - kryptomarkt
 summary: "Der UNI-Token legte deutlich zu, nachdem die Governance-Abstimmung zur Einführung von Protocol Fees und Token-Burning gestartet ist — ein Schritt hin zu einer nachhaltigeren Token-Ökonomie."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

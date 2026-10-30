@@ -7,14 +7,15 @@ translationKey: "chrome-gemini-nano-on-device-ai-2026"
 source: "Metaadvisor (The Verge, Tom's Guide, X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Google-Chrome-Gemini-Nano.png"
-featured_image: "/images/companies/Google-Chrome-Gemini-Nano.png"
-image: "/images/companies/Google-Chrome-Gemini-Nano.png"
-thumbnail: "/images/companies/Google-Chrome-Gemini-Nano.png"
+image_url: "/images/companies/Google-Chrome-Gemini-Nano.webp"
+featured_image: "/images/companies/Google-Chrome-Gemini-Nano.webp"
+image: "/images/companies/Google-Chrome-Gemini-Nano.webp"
+thumbnail: "/images/companies/Google-Chrome-Gemini-Nano.webp"
 image_alt: "Chrome i Gemini Nano lokalni AI model na uređaju"
 image_credit: "Metaadvisor.eu"
 tags: ["chrome", "google", "gemini nano", "instalacija", "preuzimanje", "download", "ai", "on-device ai", "privacy", "tech", "browser", "data", "storage", "ai model", "local ai"]
 summary: "Chrome može lokalno preuzeti AI model Gemini Nano koji zauzima nekoliko gigabajta prostora, često bez jasne obavijesti korisnicima. Iako nije riječ o univerzalnom rolloutu, otvara pitanja transparentnosti i kontrole."
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

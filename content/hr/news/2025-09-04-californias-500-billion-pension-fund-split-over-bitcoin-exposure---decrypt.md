@@ -9,6 +9,7 @@ summary: "Kandidati su podijeljeni oko kripta, iako fond već posjeduje 410.596 
 tags: ["bitcoin", "BTC", "crypto", "mirovinski fond", "CalPERS"]
 image_url: "/images/finance1.jpg"
 
+categories: ["crypto"]
 ---
 
 Kalifornijski mirovinski sustav CalPERS vrijedan 506 mlrd. USD podijelio je kandidate za upravni odbor oko pitanja ulaganja u Bitcoin.  

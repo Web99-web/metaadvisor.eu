@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Robinhood", "HOOD", "financije", "trading", "ulaganja", "mladi investitori", "prediction markets", "tržišta predviđanja", "AI trading", "umjetna inteligencija", "kripto", "blockchain", "Robinhood Chain", "IPO", "Crypto.com", "OG.com", "financijska superaplikacija"]
 description: "Robinhood se širi daleko izvan klasičnog retail tradinga: prediction markets, AI agenti, vlastiti blockchain, crypto, IPO underwriting i milijuni mlađih korisnika postaju dijelovi nove strategije."
 summary: "Robinhood pokušava iz trading aplikacije izrasti u financijsku superaplikaciju za novu generaciju investitora, dok Wall Street posljednjih dana podiže procjene dionice HOOD."
+categories: ["Business"]
 ---
 
 *Slika je simbolična.*

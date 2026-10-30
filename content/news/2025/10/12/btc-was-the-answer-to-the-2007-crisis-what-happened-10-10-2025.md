@@ -5,10 +5,11 @@ date: 2025-10-12T18:10:00Z
 category: "crypto"
 translationKey: "btc-answer-2007-crisis-en"
 author: "MetaAdvisor"
-image_url: "/images/bitcoin-BTC-2007-2009.png"
-featured_image: "/images/bitcoin-BTC-2007-2009.png"
+image_url: "/images/bitcoin-BTC-2007-2009.webp"
+featured_image: "/images/bitcoin-BTC-2007-2009.webp"
 tags: ["Bitcoin", "financial crisis", "The Big Short", "cascading liquidations", "Binance", "whales"]
 summary: "Born from the 2007/2008 crisis, Bitcoin met a 'Perfect Storm' on 10.10.2025: record liquidations, execution issues and perfectly timed shorts raised questions about orchestration."
+categories: ["crypto"]
 ---
 
 # BTC was the answer to the 2007 crisis – what happened on 10.10.2025?

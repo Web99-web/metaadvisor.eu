@@ -7,15 +7,16 @@ translationKey: "clarity-act-crypto-regulation-tax-sec-cftc-2026-09-17"
 source: "U.S. Senate, House Ways and Means Committee, SEC, Reuters, Cointelegraph"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Capitol-USA.png"
-featured_image: "/images/Capitol-USA.png"
-image: "/images/Capitol-USA.png"
-thumbnail: "/images/Capitol-USA.png"
+image_url: "/images/Capitol-USA.webp"
+featured_image: "/images/Capitol-USA.webp"
+image: "/images/Capitol-USA.webp"
+thumbnail: "/images/Capitol-USA.webp"
 image_alt: "Američki Capitol dok Kongres raspravlja o CLARITY Actu, poreznim pravilima za kriptovalute i novoj crypto regulaciji."
 image_credit: "Metaadvisor.eu"
 tags: ["CLARITY Act", "crypto regulacija", "SAD", "Kongres", "Senat", "SEC", "CFTC", "Digital Asset Tax Certainty Act", "crypto porezi", "Bitcoin", "kriptovalute", "digitalna imovina", "lame-duck session"]
 description: "CLARITY Act nije prošao proceduralno glasovanje u Senatu, ali američka crypto regulacija nastavlja se kroz porezni zakon, mogući novi pokušaj CLARITY-ja te pravila SEC-a i CFTC-a."
 summary: "CLARITY Act zapeo je u Senatu s 49 prema 50 glasova, ali ostaje moguć novi pokušaj nakon izbora. Istodobno je crypto porezni zakon prošao House committee glasovima 38 prema 5, dok SEC i CFTC nastavljaju razvijati vlastita pravila."
+categories: ["Kriptovalute"]
 ---
 
 *Slika je simbolična.*

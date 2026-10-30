@@ -9,6 +9,7 @@ summary: "Optionsdaten deuten trotz Powells ‚dovish‘-Kurs auf fortbestehende
 tags: ["bitcoin","btc","crypto","optionen","powell","jackson-hole","deribit","amberdata","flash-crash","whale","timechainindex"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/dbfb690c699ed79d604f30a911b4271fb9cd7583-1500x843.jpg?auto=format"
 image_alt: "Rückwärtsgang-Illustration (CoinDesk Archives)"
+categories: ["crypto"]
 ---
 
 Bitcoin BTC $ 112.112,97 fiel im nächtlichen Handel unter 111.000 $ und machte damit den Sprung vom Freitag nach Powells ‚dovish‘-Rede zunichte, während ein „Wal“ in illiquiden Marktbedingungen verkaufte.

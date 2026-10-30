@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/28/trump-administrations-deal-is-str
 summary: "The deal allows the U.S. to take more equity in Intel if the company doesn't retain at least 51% ownership in its foundry business."
 tags: ["Intel","Trump","CHIPS Act","semiconductors","foundry"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/intel-foundry-trump-deal.jpg"
+categories: ["news"]
 ---
 
 The Trump administration appears determined to **limit Intel’s ability to make independent decisions** about its struggling foundry business.

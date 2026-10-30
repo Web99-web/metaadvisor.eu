@@ -7,14 +7,15 @@ translationKey: "github-developer-tools-security-2026-05-20"
 source: "Metaadvisor (GitHub, BleepingComputer, Times of India)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/GitHub.png"
-featured_image: "/images/GitHub.png"
-image: "/images/GitHub.png"
-thumbnail: "/images/GitHub.png"
+image_url: "/images/GitHub.webp"
+featured_image: "/images/GitHub.webp"
+image: "/images/GitHub.webp"
+thumbnail: "/images/GitHub.webp"
 image_alt: "GitHub und Entwickler-Tools als neues Ziel von Cyberangriffen"
 image_credit: "Metaadvisor.eu"
 tags: ["github", "cybersicherheit", "cybersecurity", "entwickler-tools", "visual studio code", "vs code", "bösartige erweiterung", "supply chain", "software supply chain", "open source", "repositories", "interne repositories", "api-schlüssel", "token", "secrets", "devops", "entwickler", "softwaresicherheit", "malware", "tech", "technologie"]
 summary: "Der GitHub-Incident zeigt, dass sich Cyberangriffe zunehmend in Richtung Entwicklerumgebungen verlagern: Editoren, Erweiterungen, Token, lokale Konfigurationen und Tools, die Programmierer jeden Tag verwenden. Obwohl es bisher keine öffentlichen Hinweise darauf gibt, dass Nutzer-Repositories betroffen sind, wirft der Fall eine wichtige Frage zum Vertrauen in die Software Supply Chain auf."
+categories: ["tech"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

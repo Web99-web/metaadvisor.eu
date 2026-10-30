@@ -15,6 +15,7 @@ image_alt: "Bitcoin- und Ethereum-Markt sowie Preisbewegungen"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "ethereum", "krypto markt", "trading", "analyse", "blockchain", "ai", "crypto", "finanzen"]
 summary: "Bitcoin konnte $76K nicht durchbrechen und kehrt auf $73K zurück, während Analysten weiterhin einen möglichen Rückgang auf $50K sehen, gleichzeitig aber Signale für einen Short Squeeze und eine mögliche Markterholung zunehmen."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

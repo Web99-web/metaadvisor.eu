@@ -3,7 +3,7 @@ title: "Zašto su danas memecoins?Rally potaknut okladama na smanjenje brzine Fe
 slug: "zasto-su-danas-memecoinsrally-potaknut-okladama-na-smanjenje-brzine-feda-i-altcoin-etfs"
 date: 2025-09-13T16:54:47Z
 category: "news"
-translationKey: "4bdf2c5f918ff7261006104b83650e06"
+translationKey: "4bdf2c5f918ff7261006104b83650e06--unpaired-d96a27b76815"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/13/memecoins-rally-as-traders-bet-on-fed-rate-cut-and-u-s-altcoin-etfs"
 priority: 97
@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["bitcoin", "btc"]
 our_take: |
   Naše stajalište: Sektor Memecoin se zagrijava jer razgovori o svježim altcoin sezonama počinju rasti na društvenim medijima, dijelom vođeni očekivanjima da će Federalna rezerva ovog tjedna smanjiti kamatne stope, blagodat za rizičnu imovinu ... ključne stvari za gledanje: likvidnost, makro (stope/USD) i regulacija.Ostanite selektivni;Dodajte samo u imena visoke presude.
+categories: ["news"]
 ---
 
 Memecoin sektor zagrijava se jer razgovori o sezoni svježeg altcoina počinju rasti na društvenim medijima, dijelom vođen očekivanjima da će Federalne rezerve ovog tjedna smanjiti kamatne stope, blagodat za imovinu za rizik.

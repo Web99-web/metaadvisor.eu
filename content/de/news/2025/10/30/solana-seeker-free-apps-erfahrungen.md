@@ -7,14 +7,15 @@ translationKey: "f93b1b77-2c49-47a0-a789-89cb9a5a01e2"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Solana-seeker-phone-free-apps1.png"
-featured_image: "/images/Solana-seeker-phone-free-apps1.png"
-image: "/images/Solana-seeker-phone-free-apps1.png"
-thumbnail: "/images/Solana-seeker-phone-free-apps1.png"
+image_url: "/images/Solana-seeker-phone-free-apps1.webp"
+featured_image: "/images/Solana-seeker-phone-free-apps1.webp"
+image: "/images/Solana-seeker-phone-free-apps1.webp"
+thumbnail: "/images/Solana-seeker-phone-free-apps1.webp"
 image_alt: "Solana Seeker Telefon und versprochene Gratis-Apps"
 image_credit: "Illustration — Metaadvisor.eu"
 tags: ["Solana","Seeker","Saga","Krypto Phone","dApp Store","airdrop","solana domain",".sol","Gratis-Perks","Helium Mobile","Moonwalk","dApps"]
 summary: "Nutzer des Solana Seeker Phones berichten von Enttäuschungen: 'Gratis'-Apps verlangen oft eine E-Mail-Registrierung oder zusätzliche Gebühren, und die versprochene kostenlose .sol-Domain kostete viele 20 USD."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

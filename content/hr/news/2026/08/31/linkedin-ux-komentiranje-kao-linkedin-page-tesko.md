@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["LinkedIn", "LinkedIn Page", "LinkedIn UX", "korisničko iskustvo", "UX", "Company Page", "društvene mreže", "poslovne stranice", "digitalne platforme", "social media management", "komentiranje", "poslovni profili", "Microsoft", "tehnologija"]
 description: "LinkedIn omogućuje komentiranje u ime Company Pagea, ali administrator mora iznova mijenjati identitet, a kod pretraživanja se nakon promjene Pagea ekran može početi vidljivo pomicati kroz već pregledane objave."
 summary: "Komentiranje kao LinkedIn Page postoji, ali workflow je iznenađujuće nespretan: Search vraća administratora na privatni profil, Page se mora ponovno birati, a promjena identiteta može pokrenuti neugodno skakutanje kroz rezultate pretraživanja."
+categories: ["Tech"]
 ---
 
 # LinkedIn UX: Zašto je komentiranje kao LinkedIn Page tako teško

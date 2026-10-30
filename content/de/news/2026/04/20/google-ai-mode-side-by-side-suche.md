@@ -7,14 +7,15 @@ translationKey: "google-ai-mode-side-by-side-2026"
 source: "Metaadvisor (TechCrunch, Google Blog)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Google-AI-overviews.png"
-featured_image: "/images/Google-AI-overviews.png"
-image: "/images/Google-AI-overviews.png"
-thumbnail: "/images/Google-AI-overviews.png"
+image_url: "/images/Google-AI-overviews.webp"
+featured_image: "/images/Google-AI-overviews.webp"
+image: "/images/Google-AI-overviews.webp"
+thumbnail: "/images/Google-AI-overviews.webp"
 image_alt: "Google AI Mode Side-by-Side Suche"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "google", "search", "chrome", "tech", "internet", "seo"]
 summary: "Google führt den AI Mode ein, der das Surfen im Web gemeinsam mit einem KI-Assistenten in Echtzeit ermöglicht. Was bedeutet das für Nutzer und die Zukunft des Internets?"
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

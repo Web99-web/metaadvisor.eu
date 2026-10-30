@@ -7,6 +7,7 @@ summary: "An ETF is a fund that trades like a stock and tracks a target asset (e
 tags: ["etf","investing","bitcoin","crypto","indexes","futures","spot-etf","custody","tracking-error"]
 image_url: "https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=1200&q=60"
 image_alt: "Stock market screens and charts — illustration"
+categories: ["guide"]
 ---
 
 ## What is an ETF?

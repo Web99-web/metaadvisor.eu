@@ -7,14 +7,15 @@ translationKey: "meta-plus-subscriptions-small-creators-account-trust-2026"
 source: "Metaadvisor (TechCrunch, The Verge, MEXC)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.png"
-featured_image: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.png"
-image: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.png"
-thumbnail: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.png"
+image_url: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.webp"
+featured_image: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.webp"
+image: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.webp"
+thumbnail: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.webp"
 image_alt: "Meta introduces Facebook Plus, Instagram Plus and WhatsApp Plus subscriptions for social media users"
 image_credit: "Metaadvisor.eu"
 tags: ["meta", "facebook", "instagram", "whatsapp", "subscriptions", "facebook plus", "instagram plus", "whatsapp plus", "meta ai", "social networks", "social media", "creators", "freelancers", "small brands", "ai moderation", "content moderation", "digital economy", "platforms", "creator economy", "online business", "reputation credit", "account security", "meta business suite", "messenger"]
 summary: "Meta is introducing Facebook Plus, Instagram Plus and WhatsApp Plus subscriptions, testing how willing users are to pay for extra features inside social networks. But for small brands, freelancers and long-term users, account security, AI moderation and reputation credit may matter even more."
+categories: ["tech"]
 ---
 
 *The image is symbolic.*
@@ -49,7 +50,7 @@ The problem is that many users today do not feel protected by large platforms. O
 ![Facebook banned users and account restrictions](/images/Meta/Facebook-banned-people-US-Canada-Phillippines-27.03.2026.png)
 
 <p style="text-align:center; margin:24px 0;">
-  <img src="/images/Meta/Facebook-blocks-long-term-profiles.png"
+  <img src="/images/Meta/Facebook-blocks-long-term-profiles.webp"
        alt="Facebook blocks long-term profiles"
        style="max-width:560px; width:100%; height:auto; border-radius:14px;">
 </p>

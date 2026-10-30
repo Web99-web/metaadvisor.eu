@@ -16,6 +16,7 @@ image_alt: "Robert Kiyosaki Marktanalyse"
 image_credit: "Gage Skidmore / CC BY-SA"
 tags: ["bitcoin", "crypto", "robert kiyosaki", "kiyosaki", "rich dad poor dad", "markt", "analyse", "investieren", "fear", "gold", "btc", "psychologie", "cash", "crash"]
 summary: "Robert Kiyosaki macht einen globalen Cash-Mangel für den Markteinbruch verantwortlich. Er bleibt bullish auf Bitcoin und Gold und plant, nach dem Absturz noch mehr BTC zu kaufen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

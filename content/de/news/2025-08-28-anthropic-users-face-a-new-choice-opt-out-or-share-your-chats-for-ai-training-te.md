@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice
 summary: "Anthropic verändert massiv die Handhabung von Nutzerdaten. Deadline für Entscheidungen ist der 28. September."
 tags: ["ai","Anthropic","Claude","KI Training","Datenschutz"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/anthropic-policy-update.jpg"
+categories: ["ai"]
 ---
 
 **Anthropic** führt grundlegende Änderungen im Umgang mit Nutzerdaten ein: Bis zum **28. September** müssen alle Claude-Anwender entscheiden, ob ihre Gespräche für das Training von KI-Modellen genutzt werden dürfen.

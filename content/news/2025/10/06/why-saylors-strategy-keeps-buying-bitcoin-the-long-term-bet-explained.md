@@ -16,6 +16,7 @@ image_alt: "Michael Saylor — long-term Bitcoin strategy"
 image_credit: "Metaadvisor.eu — symbolic photo"
 tags: ["crypto", "bitcoin", "Michael Saylor", "MicroStrategy", "treasury", "DCA", "volatility", "ETF", "long-term", "risk", "convertible-notes", "balance-sheet", "price-discovery"]
 summary: "Michael Saylor explains why his strategy keeps accumulating BTC: balance-sheet resilience, disciplined DCA, capital-markets financing, and the thesis that Bitcoin outpaces inflation across cycles."
+categories: ["crypto"]
 ---
 
 **Why keep buying BTC?**  

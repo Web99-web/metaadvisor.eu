@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/05/bitcoin-bulls-should-ke
 summary: "MOVE indeks, pokazatelj volatilnosti obvezničkog tržišta, naglo je skočio, signalizirajući moguće stezanje likvidnosti."
 tags: ["crypto", "bitcoin", "btc", "etf", "move-index", "bonds", "macro", "donald-trump", "tariffs"]
 image_url: "/images/bitcoin-btc1.jpg"
+categories: ["crypto"]
 ---
 
 **Bitcoin (BTC)** rast bikova već je zastao zbog kontinuirane prodaje iz novčanika dugoročnih vlasnika i usporavanja priljeva u **ETF-ove**. Situaciju dodatno pogoršava još jedna, manje poznata, ali značajna tržišna varijabla koja se okreće protiv bitcoin bikova i signalizira nove izazove na horizontu.

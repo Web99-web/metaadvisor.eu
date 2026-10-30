@@ -8,14 +8,15 @@ author: "The Guardian"
 analysis_by: "Metaadvisor.eu"
 source: "The Guardian Tech"
 source_url: ""
-image_url: "/images/news/xai-datacenter-power.png"
-featured_image: "/images/news/xai-datacenter-power.png"
-image: "/images/news/xai-datacenter-power.png"
-thumbnail: "/images/news/xai-datacenter-power.png"
+image_url: "/images/news/xai-datacenter-power.webp"
+featured_image: "/images/news/xai-datacenter-power.webp"
+image: "/images/news/xai-datacenter-power.webp"
+thumbnail: "/images/news/xai-datacenter-power.webp"
 image_alt: "xAI datacenter turbines and AI infrastructure"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["ai","artificial intelligence","xai","elon musk","grok","ai datacenter","supercomputers","ai infrastructure","ai energy consumption","technology","datacenters","ai industry"]
 summary: "Elon Musk’s AI company xAI has received approval to operate 41 gas turbines to power its Colossus 2 AI datacenter in Mississippi. The decision comes despite strong opposition from local communities and environmental groups."
+categories: ["ai"]
 ---
 
 *Image is symbolic.*

@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Global Market Watch", "Bitcoin", "Bitcoin ETF", "Ethereum", "Ethereum ETF", "Kryptowährungen", "Künstliche Intelligenz", "KI", "Halbleiter", "Nasdaq", "KOSPI", "Nikkei", "Hang Seng", "Brent Öl", "Federal Reserve", "Aktienmarkt", "Finanzmärkte", "Technologie", "Investitionen"]
 description: "Bitcoin-ETFs verzeichnen Zuflüsse von 524,8 Millionen Dollar, während asiatische KI- und Halbleiteraktien erneut fallen. Brent über 110 Dollar erhöht die Risiken."
 summary: "US-amerikanische Bitcoin-ETFs verzeichneten am 21. Oktober 2026 Nettozuflüsse von 524,8 Millionen US-Dollar, während Ethereum-ETFs wieder im Plus schlossen. Gleichzeitig gerieten die asiatischen Märkte am 22. Oktober deutlich unter Druck, insbesondere im Halbleitersektor. Hohe Ölpreise und geopolitische Risiken verstärken die Unsicherheit, während eine breite Erholung risikoreicher Anlagen noch nicht bestätigt ist."
+categories: ["finance"]
 ---
 
 *Symbolbild.*

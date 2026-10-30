@@ -15,6 +15,7 @@ image_alt: "Ethereum / stETH – institucionalno skrbništvo i staking"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ethereum","lido","steth","wsteth","hex-trust","custody","staking","institutions","yield","liquid-staking","metaadvisor"]
 summary: "Hex Trust dodaje skrbništvo i staking za Lido stETH. Institucije dobivaju ‘DeFi prinos’ kroz poznate procese skrbništva, odobravanja i izvještavanja — bez napuštanja compliance okvira."
+categories: ["crypto"]
 ---
 
 Kako interes institucija za **ETH prinos** raste, najveća prepreka često nije tehnologija nego **operativa i compliance**: tko čuva imovinu, tko potpisuje transakcije, kako se sve knjiži i revidira. **Hex Trust**, skrbnik digitalne imovine fokusiran na institucije, uvodi podršku za **Lidov stETH** — i to kao **skrbnički proizvod** i kao **kanal za staking**. Ideja je jednostavna: **on-chain prinos**, ali u formatu koji prolazi interne procedure i vanjsku reviziju.

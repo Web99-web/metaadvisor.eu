@@ -16,6 +16,7 @@ image_alt: "Grafikon Stellar (XLM) kretanja cijene"
 image_credit: "Metaadvisor.eu — simbolična ilustracija"
 tags: ["crypto", "Stellar", "XLM", "plaćanja", "remitance", "institucije", "likvidnost", "otpor", "SCP", "XRP", "XRP-Ledger"]
 summary: "Stellar Lumens (XLM) porastao je za oko 3% probijajući razinu otpora, uz dosljednu institucionalnu potražnju i jačanje uloge u infrastrukturnim blockchain plaćanjima."
+categories: ["news"]
 ---
 
 **Stellar Lumens (XLM)** zabilježio je **rast od 3%** u razdoblju od 23 sata do **6. listopada**, uz pomak s **0,40 $** na **0,41 $**, dok je institucionalno trgovanje premašilo **71 milijun tokena**.

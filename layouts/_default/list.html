@@ -10,8 +10,19 @@
 
 
   <h1 style="margin:10px 0 14px;">
-    {{ if .Title }}{{ .Title }}{{ else }}Latest Highlights{{ end }}
+    {{ (partialCached "tag-policy.html" . .Lang .Path).Title | default "Latest Highlights" }}
   </h1>
+
+  {{ $tag := partialCached "tag-policy.html" . .Lang .Path }}
+  {{ if $tag.IsTag }}
+    {{ if $tag.Indexable }}
+      <p class="topic-intro">{{ if eq .Lang "hr" }}Članci i analize MetaAdvisora o temi {{ $tag.Title }}.{{ else if eq .Lang "de" }}Artikel und Analysen von MetaAdvisor zum Thema {{ $tag.Title }}.{{ else }}MetaAdvisor articles and analysis about {{ $tag.Title }}.{{ end }}</p>
+    {{ else if ne $tag.Primary $tag.Slug }}
+      {{ with .Site.GetPage (printf "/tags/%s" $tag.Primary) }}
+      <p class="topic-intro">{{ if eq $.Lang "hr" }}Pogledajte objedinjenu temu:{{ else if eq $.Lang "de" }}Zum gemeinsamen Themenarchiv:{{ else }}See the combined topic:{{ end }} <a href="{{ .RelPermalink }}">{{ (partialCached "tag-policy.html" . .Lang .Path).Title }}</a></p>
+      {{ end }}
+    {{ end }}
+  {{ end }}
 
   <!-- AD: top banner ispod naslova -->
   <!--
@@ -27,12 +38,7 @@
 
 
 {{/* Skupi stranice i pripremi pager */}}
-{{ $pages := .Pages }}
-{{ if or .IsHome (eq (len $pages) 0) }}{{ $pages = .Site.RegularPages }}{{ end }}
-{{ $pages = where $pages "Type" "news" }}
-
-{{/* Najnovije prvo; priority samo razbija poredak unutar istog datuma */}}
-{{ $sorted := sort $pages ".Date" "desc" ".Params.priority" "desc" }}
+{{ $sorted := partialCached "listing-pages.html" . .Lang .Path }}
 {{ $pager := .Paginate $sorted }}
 
 
@@ -92,8 +98,8 @@
           "kaspa" "/images/kaspa-kas.png" "kas" "/images/kaspa-kas.png"
           "tether" "/images/tether-usdt.png" "usdt" "/images/tether-usdt.png"
           "aave" "/images/aave.png" "cosmos" "/images/cosmos-atom.png" "atom" "/images/cosmos-atom.png"
-          "dogecoin" "/images/dogecoin-doge.png" "doge" "/images/dogecoin-doge.png"
-          "sei" "/images/sei.png" "sui" "/images/sui.png" "ordi" "/images/ordi.png" "ordinals" "/images/ordi.png"
+          "dogecoin" "/images/dogecoin-doge.webp" "doge" "/images/dogecoin-doge.webp"
+          "sei" "/images/sei.png" "sui" "/images/sui.png" "ordi" "/images/ordi.webp" "ordinals" "/images/ordi.webp"
           "avalanche" "/images/avalanche-avax.png" "avax" "/images/avalanche-avax.png"
           "bittensor" "/images/bittensor-tao.png" "tao" "/images/bittensor-tao.png"
           "finance" "/images/finance.jpg"
@@ -164,7 +170,7 @@
       {{ else }}
         <span class="badge">news</span>
       {{ end }}
-      <time datetime="{{ $pg.Date }}">{{ $pg.Date.Format "2006-01-02" }}</time>
+      <time datetime="{{ $pg.Date }}">{{ partial "reader-date.html" $pg.Date }}</time>
     </div>
 
     <h3 class="card-title">

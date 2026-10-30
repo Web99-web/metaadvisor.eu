@@ -15,6 +15,7 @@ image_alt: "Symbolische Illustration des Bitcoin-Minings"
 image_credit: "MetaAdvisor (symbolisch)"
 tags: ["Krypto", "Bitcoin", "Mining", "Difficulty", "Hashrate", "Pools", "Zentralisierung", "Energie"]
 summary: "Bitcoins Mining-Schwierigkeit markiert ein neues Allzeithoch bei gleichzeitig rekordnaher Hashrate. Das stärkt die Netzsicherheit, erhöht aber den Druck auf kleinere Miner und schürt Debatten über Pool-Konzentration."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

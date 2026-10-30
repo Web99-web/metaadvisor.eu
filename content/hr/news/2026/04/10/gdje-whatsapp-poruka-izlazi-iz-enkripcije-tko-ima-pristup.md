@@ -7,14 +7,15 @@ translationKey: "c9a1f6e7d2b44a8f9e3c5d7b1a2f6c90"
 author: "Metaadvisor.eu"
 source: "Javna rasprava, pravni postupci, tehnološke analize"
 source_url: ""
-image_url: "/images/private-messages.png"
-featured_image: "/images/private-messages.png"
-image: "/images/private-messages.png"
-thumbnail: "/images/private-messages.png"
+image_url: "/images/private-messages.webp"
+featured_image: "/images/private-messages.webp"
+image: "/images/private-messages.webp"
+thumbnail: "/images/private-messages.webp"
 image_alt: "Privatne poruke i enkripcija komunikacije"
 image_credit: "Ilustracija"
 tags: ["whatsapp privatnost","meta podaci","enkripcija poruka","ai moderacija","accenture outsourcing","zastita podataka","digitalna privatnost","cloud backup","cyber sigurnost","whatsapp sigurnost"]
 summary: "WhatsApp koristi enkripciju, ali postoje točke gdje poruke mogu izaći iz tog sustava. Gdje se to događa i tko tada ima potencijalni pristup podacima?"
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

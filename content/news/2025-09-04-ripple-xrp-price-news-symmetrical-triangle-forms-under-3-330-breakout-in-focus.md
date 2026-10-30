@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/04/xrp-symmetrical-triangl
 summary: "XRP consolidates between $2.76 and $2.86 as traders eye $3.30 breakout level, with whales offsetting institutional selling."
 tags: ["XRP", "Ripple", "crypto", "altcoins", "price analysis"]
 image_url: "/images/xrp.png"
+categories: ["crypto"]
 ---
 
 XRP is trading in a narrowing range, with a **symmetrical triangle pattern** forming below the **$3.00 resistance**.  

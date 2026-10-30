@@ -16,6 +16,7 @@ image_alt: "WEB3 minimalistisches Logo (symbolisch)"
 image_credit: "MetaAdvisor (symbolisch)"
 tags: ["web3", "web2", "Onboarding", "Identität", "Wallets", "On-Ramp", "UX", "Infrastruktur"]
 summary: "Trotz dezentraler Vision stützt sich Web3 heute auf Web2-Kanäle und -Tools – von Identität und On-Ramps bis zu Distribution und DevOps. Es geht weniger um Ablösung als um Koexistenz und schrittweise Dezentralisierung."
+categories: ["news"]
 ---
 
 *Bild ist symbolisch.*

@@ -7,14 +7,15 @@ translationKey: "spacex-ipo-xai-strategy-2026-02-12"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/"
 author: "Metaadvisor.eu"
-image_url: "/images/Elon-Musk-world.png"
-featured_image: "/images/Elon-Musk-world.png"
-image: "/images/Elon-Musk-world.png"
-thumbnail: "/images/Elon-Musk-world.png"
+image_url: "/images/Elon-Musk-world.webp"
+featured_image: "/images/Elon-Musk-world.webp"
+image: "/images/Elon-Musk-world.webp"
+thumbnail: "/images/Elon-Musk-world.webp"
 image_alt: "Elon Musk und globale Technologie-Expansion"
 image_credit: "MetaAdvisor Illustration"
 tags: ["spacex", "ipo", "elon musk", "xai", "künstliche intelligenz", "raumfahrt", "tech industrie", "nasdaq", "ai infrastruktur"]
 summary: "Während xAI-Mitgründer das Unternehmen verlassen, spricht Elon Musk von Mondfabriken und massiver KI-Infrastruktur – zeitgleich nehmen Spekulationen über einen möglichen SpaceX-IPO zu."
+categories: ["news"]
 ---
 
 *Symbolbild.*

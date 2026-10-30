@@ -7,10 +7,10 @@ translationKey: "goldman_sachs_crypto_strategy_2026"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Goldman-Sachs.png"
-featured_image: "/images/Goldman-Sachs.png"
-image: "/images/Goldman-Sachs.png"
-thumbnail: "/images/Goldman-Sachs.png"
+image_url: "/images/Goldman-Sachs.webp"
+featured_image: "/images/Goldman-Sachs.webp"
+image: "/images/Goldman-Sachs.webp"
+thumbnail: "/images/Goldman-Sachs.webp"
 image_alt: "Simboličan prikaz ulaska tradicionalnih banaka u kripto sektor"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -24,6 +24,7 @@ tags:
   - wall street
   - financije
 summary: "Goldman Sachs već godinama izbjegava glasne kripto izjave, ali u pozadini sustavno gradi infrastrukturu i proizvode koji ga pozicioniraju kao ključnog institucionalnog igrača u digitalnoj imovini."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

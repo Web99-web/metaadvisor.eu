@@ -15,6 +15,7 @@ image_alt: "Bitcoin und Ether — Q4-Szenarien"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["bitcoin","ether","fundstrat","tom lee","q4","seasonality","etf","liquidity","metaadvisor"]
 summary: "Nicht der Quote ist die Story, sondern die Szenarien: Welche Trigger könnten BTC/ETH im nächsten Quartal wirklich anschieben – und welche Risiken bremsen?"
+categories: ["crypto"]
 ---
 
 **Kurz:** Tom Lee (Fundstrat) ist für die nächsten drei Monate bullish. Statt die Aussage zu wiederholen, liefern wir einen **Szenario-Guide**: welche **fundamentalen & Liquiditäts-Treiber** BTC/ETH in Q4 pushen könnten – und welche **Risiken** das verhindern.

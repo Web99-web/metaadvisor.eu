@@ -17,6 +17,7 @@ image_credit: "MetaAdvisor AI-generated"
 tags:
   ["bitcoin","btc","kriptovalute","tržište","makroekonomija","analiza","stabilni-kovanici","japan","obveznice","financije"]
 summary: "Bitcoin je pao na 84.000 USD nakon što nije uspio probiti 92.000 USD, a analitičari raspravljaju je li za pad kriv japanski obveznički šok ili dublji globalni makroproblemi."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "michael-burry-bitcoin-50000-black-hole-2026-02-08"
 source: "Yahoo Finance / Substack / MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-at-50000.png"
-featured_image: "/images/BTC-at-50000.png"
-image: "/images/BTC-at-50000.png"
-thumbnail: "/images/BTC-at-50000.png"
+image_url: "/images/BTC-at-50000.webp"
+featured_image: "/images/BTC-at-50000.webp"
+image: "/images/BTC-at-50000.webp"
+thumbnail: "/images/BTC-at-50000.webp"
 image_alt: "Bitcoin na razini od 50.000 USD tone u simboličnu crnu rupu likvidnosti"
 image_credit: "Simbolična ilustracija (AI / javno dostupni vizual)"
 tags: ["bitcoin", "btc", "michael burry", "kripto tržište", "pad bitcoina", "likvidnost", "rudari", "kapitulacija", "crna rupa", "financijska kriza"]
 summary: "Michael Burry upozorava da bi pad Bitcoina na 50.000 USD mogao pokrenuti lančanu reakciju bez kupaca – spiralni kolaps koji bi zahvatio rudare, izvedenice i šire tržište. No, povijest pokazuje da se u takvim trenucima pojavljuju i novi, strpljivi kupci."
+categories: ["crypto"]
 ---
 
 [➡️ **Trguj Bitcoinom (BTC) – pogledaj ponude burzi**]

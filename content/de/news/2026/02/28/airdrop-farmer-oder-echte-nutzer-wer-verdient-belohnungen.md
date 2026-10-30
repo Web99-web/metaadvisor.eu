@@ -7,14 +7,15 @@ translationKey: "a1c94f7e8d2b4f4bb2e9d3c6f7a88211"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/Airdrop-farmers.png"
-featured_image: "/images/Airdrop-farmers.png"
-image: "/images/Airdrop-farmers.png"
-thumbnail: "/images/Airdrop-farmers.png"
+image_url: "/images/Airdrop-farmers.webp"
+featured_image: "/images/Airdrop-farmers.webp"
+image: "/images/Airdrop-farmers.webp"
+thumbnail: "/images/Airdrop-farmers.webp"
 image_alt: "Debatte über Airdrop-Farmer und echte Nutzer im Kryptobereich"
 image_credit: "MetaAdvisor Illustration (symbolisch)"
 tags: ["crypto", "krypto", "airdrop", "airdrop farmer", "web3", "defi", "token", "blockchain", "wallet", "dezentralisierung", "tokenomik"]
 summary: "Die Debatte darüber, ob Airdrop-Belohnungen an echte Nutzer oder sogenannte Farmer gehen sollten, wirft grundlegende Fragen zu Fairness, Tokenomik und langfristiger Nachhaltigkeit im Web3-Ökosystem auf."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

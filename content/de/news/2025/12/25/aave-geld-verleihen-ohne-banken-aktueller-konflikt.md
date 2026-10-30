@@ -7,14 +7,15 @@ translationKey: "aave_lending_without_banks_conflict"
 source: "MetaAdvisor Analyse"
 source_url: ""
 author: "MetaAdvisor.eu"
-image_url: "/images/AAVE-credits.png"
-featured_image: "/images/AAVE-credits.png"
-image: "/images/AAVE-credits.png"
-thumbnail: "/images/AAVE-credits.png"
+image_url: "/images/AAVE-credits.webp"
+featured_image: "/images/AAVE-credits.webp"
+image: "/images/AAVE-credits.webp"
+thumbnail: "/images/AAVE-credits.webp"
 image_alt: "Aave – Geld verleihen ohne Banken"
 image_credit: "MetaAdvisor"
 tags: ["aave", "defi", "kredit", "verleihen", "krypto", "dao", "blockchain", "finanzen"]
 summary: "Aave ermöglicht das Verleihen und Leihen von Geld ohne Banken, ohne Papierkram und ohne Vermittler. Wir erklären, wie das System funktioniert, wo die Kreditvergabe tatsächlich stattfindet und warum es innerhalb des Projekts zu einem Konflikt kam – ohne Auswirkungen auf den täglichen Betrieb der Plattform."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

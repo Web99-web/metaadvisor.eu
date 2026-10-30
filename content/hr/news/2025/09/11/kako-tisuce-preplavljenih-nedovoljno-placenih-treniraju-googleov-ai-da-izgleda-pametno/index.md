@@ -11,6 +11,7 @@ image: "hero.jpg"
 tags: ["ai", "artificial-intelligence", "google", "mental-health"]
 our_take: |
   Naše stajalište: Ugovoreni AI ocjenjivači opisuju naporne rokove, lošu plaću i neprozirnost oko rada kako bi chatbots bio inteligentni proljeće 2024. godine, kada je Rachael Sawyer, tehnička spisateljica iz Teksasa, primila LinkedIn poruku od ... veće slike: Podaci/licenciranje, kvaliteta modela i rizik od politike.Volimo stvarnu distribuciju i obrambene podatke.
+categories: ["news"]
 ---
 
 Ugovoreni AI ocjenjivači opisuju naporne rokove, lošu plaću i neprozirnost oko posla kako bi chatboti bili inteligentni

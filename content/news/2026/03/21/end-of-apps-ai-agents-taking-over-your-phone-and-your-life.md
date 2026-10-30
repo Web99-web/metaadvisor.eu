@@ -7,14 +7,15 @@ translationKey: "8af459e4138dbe9c3a30ba7b148d6445"
 author: "Metaadvisor.eu"
 source: "TechCrunch"
 source_url: ""
-image_url: "/images/AI-agent.png"
-featured_image: "/images/AI-agent.png"
-image: "/images/AI-agent.png"
-thumbnail: "/images/AI-agent.png"
+image_url: "/images/AI-agent.webp"
+featured_image: "/images/AI-agent.webp"
+image: "/images/AI-agent.webp"
+thumbnail: "/images/AI-agent.webp"
 image_alt: "AI agents and a future without apps"
 tags: ["ai", "ai agents", "smartphone", "apps", "nothing", "carl pei", "future tech"]
 summary: "Nothing’s CEO believes apps will disappear and be replaced by AI agents — but questions around safety, hallucinations and user understanding remain critical."
 symbolic_image: true
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

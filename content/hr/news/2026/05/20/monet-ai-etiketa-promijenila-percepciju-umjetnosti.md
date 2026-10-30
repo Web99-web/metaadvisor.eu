@@ -15,6 +15,7 @@ image_alt: "Claude Monet Water Lilies, slika korištena za raspravu o AI percepc
 image_credit: "Claude Monet / gigi4791, Louvre, Wikimedia Commons, CC BY 2.0"
 tags: ["ai", "umjetna inteligencija", "generativna umjetnost", "ai umjetnost", "monet", "claude monet", "water lilies", "lopoči", "shl0ms", "viralni eksperiment", "društvene mreže", "x", "percepcija", "bias", "pristranost", "ai slop", "umjetnost", "digitalna umjetnost", "autentičnost", "openai", "generativni ai", "kultura", "tehnologija"]
 summary: "Viralni eksperiment u kojem je stvarna Monetova slika predstavljena kao AI-generirana pokazao je koliko snažno etiketa može promijeniti našu percepciju umjetnosti. Čim su ljudi povjerovali da gledaju AI, mnogi su počeli vidjeti mane koje možda ne bi vidjeli da su znali da gledaju Moneta."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

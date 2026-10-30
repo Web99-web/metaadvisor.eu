@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/aug/27/chatgpt-scrutiny
 summary: "OpenAI mijenja način na koji odgovara korisnicima u psihičkoj krizi nakon što roditelji Adama Rainea tvrde da sustav nije bio siguran"
 tags: ["ai","OpenAI","ChatGPT","safety","lawsuit"]
 image_url: "https://i.guim.co.uk/img/media/8c2a4d3dcb6f3b9458c1dcd86b4cbdbe6d3d73d9/0_0_5472_3648/master/5472.jpg?width=1200&quality=85&auto=format&fit=max&s=27f1cdece3e9f41af"
+categories: ["ai"]
 ---
 
 OpenAI će mijenjati način na koji chatbot ChatGPT odgovara korisnicima koji pokazuju znakove mentalne i emocionalne krize, nakon tužbe obitelji 16-godišnjeg Adama Rainea iz Kalifornije, koji si je oduzeo život nakon višemjesečnih razgovora s AI sustavom.

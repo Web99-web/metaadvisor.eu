@@ -34,6 +34,7 @@ tags:
   - altcoins
   - markets
 summary: "XRP slipped below $3. We outline key support/resistance zones, fundamental drivers (lawsuit path, network development, escrow flows) and risk scenarios."
+categories: ["news"]
 ---
 
 **Quick summary**  

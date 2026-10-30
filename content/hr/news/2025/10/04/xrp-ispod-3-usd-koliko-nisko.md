@@ -34,6 +34,7 @@ tags:
   - altcoini
   - tržišta
 summary: "XRP je skliznuo ispod 3 USD. Donosimo ključne razine podrške/otpora, glavne fundamentalne pokretače (parnica, mrežni razvoj, escrow izdavanja) i scenarije rizika."
+categories: ["news"]
 ---
 
 **Kratki sažetak**  

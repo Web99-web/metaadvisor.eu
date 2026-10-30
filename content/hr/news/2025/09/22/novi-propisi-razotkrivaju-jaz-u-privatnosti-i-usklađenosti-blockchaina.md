@@ -16,6 +16,7 @@ image_alt: "Digitalna budućnost i regulatorni nadzor — simbolična ilustracij
 image_credit: "Metaadvisor image_map (simbolična slika)"
 tags: ["regulacija", "privatnost", "compliance", "blockchain", "DeFi", "KYC", "AML", "FATF-Travel-Rule", "MiCA", "AMLA", "sanctions", "on-chain-analitika", "regtech", "ZK", "MPC", "self-custody", "stablecoini", "identitet", "privacy-coin", "tokenizacija", "AI-nadzor"]
 summary: "Val novih pravila — od Travel Rulea i AML-a do europskog MiCA/AMLA paketa — gura kripto prema jačem KYC/monitoringu. Time se otkrivaju bolne točke blockchaina: privatnost korisnika, identitet i ‘last mile’ usklađivanja."
+categories: ["ai"]
 ---
 
 **Ukratko:**  

@@ -1,0 +1,19 @@
+{{- $pages := .Pages -}}
+{{- if or .IsHome (and (ne .Kind "term") (eq (len $pages) 0)) -}}{{- $pages = .Site.RegularPages -}}{{- end -}}
+{{- $tag := partialCached "tag-policy.html" . .Lang .Path -}}
+{{- if and $tag.IsTag $tag.Indexable -}}
+  {{- range $tag.Entry.terms -}}
+    {{- with $.Site.GetPage (printf "/tags/%s" .) -}}
+      {{- $pages = union $pages .Pages -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (eq .Kind "section") (eq .Section "news") -}}
+{{- $pages = union $pages (where .Site.RegularPages "Section" "in" (slice "de" "hr" "")) -}}
+{{- end -}}
+{{- $pages = where $pages "Type" "news" -}}
+{{- with index .Site.Data.article_alias_memberships .RelPermalink -}}
+  {{- $pages = where $.Site.RegularPages "Permalink" "in" . -}}
+{{- end -}}
+{{- $pages = partial "preferred-articles.html" $pages -}}
+{{- return (sort $pages ".Date" "desc" ".Params.priority" "desc") -}}

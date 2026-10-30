@@ -7,14 +7,15 @@ translationKey: "trump-cz-pardon-20251023"
 source: "Reuters, AP, The Guardian"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/CZ-pardon.png"
-featured_image: "/images/CZ-pardon.png"
+image_url: "/images/CZ-pardon.webp"
+featured_image: "/images/CZ-pardon.webp"
 image: "/images/CZ-pardon.pngg"
-thumbnail: "/images/CZ-pardon.png"
+thumbnail: "/images/CZ-pardon.webp"
 image_alt: "CZ — Begnadigung durch Trump (Binance)"
 image_credit: "Bild ist symbolisch."
 tags: ["Trump", "CZ", "Binance", "Begnadigung", "USA", "Regulierung"]
 summary: "Donald Trump hat Binance-Gründer Changpeng Zhao (CZ) begnadigt. Wir erklären, warum er verurteilt wurde und was die Begnadigung bedeutet."
+categories: ["crypto"]
 ---
 
 🚨 **Trump begnadigt CZ**

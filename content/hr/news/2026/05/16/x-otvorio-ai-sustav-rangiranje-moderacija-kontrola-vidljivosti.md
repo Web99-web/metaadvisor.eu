@@ -7,15 +7,16 @@ translationKey: "9f1c2a74e5d84f1ba671c93a6ef02d44"
 source: "Metaadvisor (xAI GitHub, X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/X-published-algorithm-on-Github.png"
-featured_image: "/images/news/X-published-algorithm-on-Github.png"
-image: "/images/news/X-published-algorithm-on-Github.png"
-thumbnail: "/images/news/X-published-algorithm-on-Github.png"
+image_url: "/images/news/X-published-algorithm-on-Github.webp"
+featured_image: "/images/news/X-published-algorithm-on-Github.webp"
+image: "/images/news/X-published-algorithm-on-Github.webp"
+thumbnail: "/images/news/X-published-algorithm-on-Github.webp"
 image_alt: "X AI algoritam objavljen na GitHubu"
 image_credit: "Metaadvisor.eu"
 tags: ["x", "xai", "grok", "github", "umjetna inteligencija", "ai", "algoritam", "društvene mreže", "moderacija", "vidljivost", "kontrola sadržaja", "internet", "ai moderacija", "otvoreni kod"]
 summary: "Objavljeni dijelovi X/xAI recommendation sustava na GitHubu otkrivaju koliko su moderne društvene mreže postale AI-posredovani sustavi koji analiziraju sadržaj, audio, trust profile i vidljivost korisnika."
 draft: false
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.7;">

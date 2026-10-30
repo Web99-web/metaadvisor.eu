@@ -16,6 +16,7 @@ tags: ["OpenAI", "ChatGPT", "ChatGPT for families", "family control", "parental 
 summary: "OpenAI is hiring a product manager for products aimed at families, caregivers and older users. ChatGPT has already entered households through everyday questions from parents, children and older people. Now the question is whether the next step could be a family mode, parental controls and family control."
 disclaimer: "This article is for informational purposes only and does not constitute technology, legal, educational or safety advice."
 draft: false
+categories: ["ai"]
 ---
 
 The image is symbolic.

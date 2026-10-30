@@ -6,15 +6,16 @@ category: "Economy"
 translationKey: "us-canada-50-percent-tariffs-start-22-08-and-08-09-2026"
 source: "Truth Social, White House, Department of Finance Canada, Prime Minister of Canada, Reuters, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
-featured_image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
-image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
-thumbnail: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
+image_url: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
+featured_image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
+image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
+thumbnail: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
 image_alt: "US and Canada enter a new round of 50 percent tariffs starting August 22 and September 8, 2026"
 image_credit: "Metaadvisor.eu"
 tags: ["US", "Canada", "tariffs", "trade conflict", "Trump", "economy", "industry", "auto industry", "steel", "markets"]
 description: "US tariffs of 50 percent on part of Canadian exports took effect on August 22, while Canada plans countermeasures from September 8. Which industries and companies are most exposed?"
 summary: "Trump again escalated his rhetoric toward Canada early Sunday morning, but for markets the more important development is that new US tariffs of 50 percent have already been in force since August 22, while Canada is preparing its own countermeasures from September 8."
+categories: ["Economy"]
 ---
 
 *Image is symbolic.*

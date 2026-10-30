@@ -7,14 +7,15 @@ translationKey: "guardian-leave-big-tech-alternatives-2026"
 author: "Metaadvisor.eu"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
-image_url: "/images/Guardian-suggest-leave-big-tech.png"
-featured_image: "/images/Guardian-suggest-leave-big-tech.png"
-image: "/images/Guardian-suggest-leave-big-tech.png"
-thumbnail: "/images/Guardian-suggest-leave-big-tech.png"
+image_url: "/images/Guardian-suggest-leave-big-tech.webp"
+featured_image: "/images/Guardian-suggest-leave-big-tech.webp"
+image: "/images/Guardian-suggest-leave-big-tech.webp"
+thumbnail: "/images/Guardian-suggest-leave-big-tech.webp"
 image_alt: "Alternativen zu Big-Tech-Plattformen"
 image_credit: "Metaadvisor.eu (symbolische Illustration)"
 tags: ["big tech", "google alternative", "nas geraet", "nextcloud", "proton mail", "mastodon", "perplexity", "brave search", "digitale souveränität", "gdpr", "cloud alternative", "eu technologie"]
 summary: "Guardian analysiert die Möglichkeit, Google, Amazon und Meta zu verlassen. Wir geben einen Überblick über Alternativen, einschließlich NAS-Geräten, Nextcloud und europäischen Cloud-Lösungen, und analysieren die digitale Souveränität Europas."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

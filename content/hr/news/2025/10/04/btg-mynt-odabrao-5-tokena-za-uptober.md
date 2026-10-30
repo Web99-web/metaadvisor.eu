@@ -16,6 +16,7 @@ image_alt: "Mynt (BTG Pactual) objavljuje 5 kripto odabira za Uptober"
 image_credit: "Metaadvisor.eu – simbolična kompozicija"
 tags: ["crypto", "BTC", "ETH", "SOL", "AVAX", "SKY", "ETFs", "DeFi", "Brazil", "BTG Pactual", "Mynt", "institucionalni-ulagači", "tokenizacija", "DEX", "TVL"]
 summary: "Mynt, kripto platforma najveće brazilske investicijske banke BTG Pactual, objavila je pet tokena za ‘Uptober’: BTC, ETH, SOL, AVAX i SKY. Naglasak je na rastu institucijskih priljeva u spot ETF-ove, DeFi likvidnosti i mrežnim osnovama."
+categories: ["crypto"]
 ---
 
 **Mynt**, kripto platforma **BTG Pactuala** (najveća investicijska banka u Brazilu), objavila je pet tokena za koje smatra da su dobro pozicionirani za listopad (“**Uptober**”): **bitcoin (BTC)**, **ether (ETH)**, **solana (SOL)**, **avalanche (AVAX)** i **sky (SKY)**. Iza liste stoje analitičari **Matheus Parizotto** i **João Galhardo**, koji uočavaju poboljšane makro uvjete (popuštanje američkih kamatnih stopa) i sve veći interes za nove kripto ETF-ove.

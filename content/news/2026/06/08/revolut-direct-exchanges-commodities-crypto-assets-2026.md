@@ -7,14 +7,15 @@ translationKey: "revolut-commodities-crypto-direct-exchange-2026-06-08"
 source: "Revolut, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Revolut.png"
-featured_image: "/images/Revolut.png"
-image: "/images/Revolut.png"
-thumbnail: "/images/Revolut.png"
+image_url: "/images/Revolut.webp"
+featured_image: "/images/Revolut.webp"
+image: "/images/Revolut.webp"
+thumbnail: "/images/Revolut.webp"
 image_alt: "Revolut notice about changes to commodities and crypto exchanges"
 image_credit: "Metaadvisor.eu"
 tags: ["Revolut", "crypto", "cryptocurrency", "crypto assets", "commodities", "gold", "silver", "fiat", "EUR", "USD", "GBP", "MiCA", "CySEC", "fintech", "digital assets", "fees", "auto-exchange", "regulation", "investing", "Metaadvisor"]
 summary: "Revolut will end direct exchanges between commodities and crypto assets from 15 July 2026. Users will have to go through fiat currency, which may mean more steps, less simplicity and potentially additional fees."
+categories: ["crypto"]
 ---
 
 The image is symbolic.

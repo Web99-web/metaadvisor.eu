@@ -9,6 +9,7 @@ summary: "I’m driving my i4 back to the dealership as my lease is over. I'm su
 tags: ["BMW","EV","TechCrunch","review","cars"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/09/bmw-i4-techcrunch.jpg?w=1200"
 image_url_small: "https://techcrunch.com/wp-content/uploads/2025/09/bmw-i4-techcrunch.jpg?w=600"
+categories: ["news"]
 ---
 
 I want to be clear from the outset. I’ve never been a car enthusiast. My driving history includes a hand-me-down Volvo with a hole in the floorboards and a series of aggressively practical vehicles, including a VW Golf and a Mazda SUV in which I hauled my family around for 12 years. Then I leased a BMW i4 electric car.

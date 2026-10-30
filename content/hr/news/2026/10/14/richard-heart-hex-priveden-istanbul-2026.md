@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Richard Heart", "HEX", "PulseChain", "PulseX", "Istanbul", "kriptovalute", "Interpol", "Finska", "regulacija", "blockchain"]
 description: "Turski mediji izvještavaju da je osnivač HEX-a Richard Heart priveden u Istanbulu na temelju potrage povezane s Finskom. HEX i PLS bilježe snažne padove."
 summary: "Turski i međunarodni mediji izvještavaju da je Richard Heart, osnivač HEX-a, PulseChaina i PulseX-a, priveden 14. listopada 2026. u Istanbulu. Operacija se povezuje s Interpolovom crvenom tjeralicom raspisanom na zahtjev Finske, dok se izvještaji o zaplijenjenoj imovini razlikuju. Službena potvrda turskih i finskih tijela o njegovu identitetu i statusu nije javno dostupna. Tokeni povezani s njegovim projektima zabilježili su snažne padove."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -9,6 +9,7 @@ summary: "Michael Saylor joins the Bloomberg Billionaires Index with an estimate
 tags: ["crypto", "bitcoin", "btc", "michael saylor", "microstrategy", "mstr", "bloomberg", "billionaires index", "net worth", "stocks"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Michael_Saylor_%2854345839472%29.jpg"
 image_source: "Photo: Gage Skidmore / CC BY-SA 2.0 via Wikimedia Commons"
+categories: ["crypto"]
 ---
 
 Michael **Saylor** has been added to the **Bloomberg Billionaires Index** with an estimated net worth of **$7.37B** (currently **#491**), up nearly **16%** year-to-date, while **MicroStrategy (MSTR)** has gained about **12%** over the same period. :contentReference[oaicite:6]{index=6}

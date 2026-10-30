@@ -7,14 +7,15 @@ translationKey: "germany_lithium_43million_metaadvisor_20251108"
 source: "The Economic Times / Electrive.com"
 source_url: "https://www.electrive.com/2025/09/25/neptune-energy-confirms-massive-lithium-resources-in-germany/"
 author: "Metaadvisor.eu"
-image_url: "/images/Germany-lithium-43million-ton.png"
-featured_image: "/images/Germany-lithium-43million-ton.png"
-image: "/images/Germany-lithium-43million-ton.png"
-thumbnail: "/images/Germany-lithium-43million-ton.png"
+image_url: "/images/Germany-lithium-43million-ton.webp"
+featured_image: "/images/Germany-lithium-43million-ton.webp"
+image: "/images/Germany-lithium-43million-ton.webp"
+thumbnail: "/images/Germany-lithium-43million-ton.webp"
 image_alt: "Germany discovers 43 million tons of lithium in the Altmark region - illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["germany", "lithium", "batteries", "electric vehicles", "green energy", "sustainability", "altmark", "industry", "europe"]
 summary: "Germany has confirmed a 43-million-ton lithium discovery in the Altmark region — a key resource for EV batteries, energy storage and the green industrial transition. Mining could begin in the early 2030s."
+categories: ["sustainability"]
 ---
 
 Germany has confirmed one of **Europe’s largest geological discoveries** — **43 million tons of lithium carbonate equivalent (LCE)** found in the **Altmark region** of **Saxony-Anhalt**.  

@@ -7,14 +7,15 @@ translationKey: "3c0f7a4d9b6c4b8fae52d77f18bc9412"
 source: "Metaadvisor (Cointelegraph, Aave, Galaxy Digital, Arbitrum DAO)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/AAVE-liquidating-haker.png"
-featured_image: "/images/hack/AAVE-liquidating-haker.png"
-image: "/images/hack/AAVE-liquidating-haker.png"
-thumbnail: "/images/hack/AAVE-liquidating-haker.png"
+image_url: "/images/hack/AAVE-liquidating-haker.webp"
+featured_image: "/images/hack/AAVE-liquidating-haker.webp"
+image: "/images/hack/AAVE-liquidating-haker.webp"
+thumbnail: "/images/hack/AAVE-liquidating-haker.webp"
 image_alt: "Aave liquidates Kelp DAO hacker positions after massive DeFi exploit"
 image_credit: "Metaadvisor.eu"
 tags: ["aave", "kelp dao", "defi", "krypto", "ethereum", "arbitrum", "hack", "exploit", "rseth", "restaking", "layerzero", "chainlink", "liquidation", "defi recovery", "cross chain"]
 summary: "Aave hat mit der Liquidierung von Positionen begonnen, die mit dem Kelp-DAO-Hacker verbunden sind. Nach dem fast 293 Millionen Dollar schweren Exploit versucht die DeFi-Industrie nun, das System zu stabilisieren und einen weiteren Contagion-Effekt zu verhindern."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

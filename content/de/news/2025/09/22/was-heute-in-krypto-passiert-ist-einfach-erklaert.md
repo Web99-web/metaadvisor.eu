@@ -16,6 +16,7 @@ image_alt: "Bitcoin & Ethereum — symbolische Illustration der Marktübersicht"
 image_credit: "Metaadvisor image_map (symbolisches Bild)"
 tags: ["Krypto", "Markt", "Wormhole", "W-Token", "Tokenomics", "Staking", "Reserve", "UK", "FCA", "Regulierung", "Consumer-Duty", "SEC", "ETP", "ETF", "Bitwise", "Listing", "Altseason", "Liquidität", "Tagesüberblick"]
 summary: "Der Krypto-Tagesüberblick in einfacher Sprache: Wormhole überarbeitet die W-Tokenomics; die britische FCA skizziert Regeln für Krypto; Bitwise erklärt, wie generische SEC-Standards Krypto-ETP/ETF-Listings beschleunigen könnten."
+categories: ["crypto"]
 ---
 
 **Kurz & knapp (laut Cointelegraphs Tagesüberblick):**  

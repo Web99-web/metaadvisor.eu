@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Europäische Union", "EU", "EU Law Tracker", "EU-Gesetzgebung", "europäische Gesetze", "Europäisches Parlament", "Europäische Kommission", "Rat der EU", "Regulierung", "digitale Regulierung", "Künstliche Intelligenz", "KI", "Datenschutz", "Unternehmen", "Wirtschaft", "Transparenz"]
 description: "Der EU Law Tracker bündelt Gesetzgebungsverfahren der Europäischen Kommission, des Europäischen Parlaments und des Rates der EU und ermöglicht es, Vorschläge durch die verschiedenen Phasen des Gesetzgebungsprozesses zu verfolgen."
 summary: "Mit dem EU Law Tracker lassen sich europäische Gesetzgebungsverfahren, Dokumente, Verhandlungen und Änderungen an einem Ort verfolgen. Das Tool kann besonders für Unternehmen, Journalisten und alle nützlich sein, die frühzeitig erkennen wollen, welche neuen Vorschriften aus Brüssel kommen."
+categories: ["EU"]
 ---
 
 # EU Law Tracker bündelt den EU-Gesetzgebungsprozess an einem Ort

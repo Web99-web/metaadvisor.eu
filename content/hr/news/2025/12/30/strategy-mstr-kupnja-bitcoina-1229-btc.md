@@ -7,14 +7,15 @@ translationKey: "mstr_bitcoin_purchase_1229_btc_30122025"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million"
 author: "MetaAdvisor.eu"
-image_url: "/images/MSTR-strategy-Bitcoin.png"
-featured_image: "/images/MSTR-strategy-Bitcoin.png"
-image: "/images/MSTR-strategy-Bitcoin.png"
-thumbnail: "/images/MSTR-strategy-Bitcoin.png"
+image_url: "/images/MSTR-strategy-Bitcoin.webp"
+featured_image: "/images/MSTR-strategy-Bitcoin.webp"
+image: "/images/MSTR-strategy-Bitcoin.webp"
+thumbnail: "/images/MSTR-strategy-Bitcoin.webp"
 image_alt: "Strategy (MSTR) povećava bitcoin rezerve institucionalnom kupnjom"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "mstr", "strategy", "institucionalni-ulagači", "korporativni-trezor", "akumulacija", "kripto-tržište"]
 summary: "Strategy (MSTR) kupio je dodatnih 1.229 bitcoina za 109 milijuna dolara, povećavši ukupne rezerve na više od 670.000 BTC i potvrdivši dugoročnu institucionalnu strategiju akumulacije."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

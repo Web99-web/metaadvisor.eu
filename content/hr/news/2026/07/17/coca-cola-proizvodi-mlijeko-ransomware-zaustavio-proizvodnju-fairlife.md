@@ -7,14 +7,15 @@ translationKey: "coca-cola-fairlife-ransomware-proizvodnja-2026-07-17"
 source: "Coca-Cola, Fairlife, TechCrunch, Reuters"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Coca-cola-Fairlife-milk-hacked.png"
-featured_image: "/images/hack/Coca-cola-Fairlife-milk-hacked.png"
-image: "/images/hack/Coca-cola-Fairlife-milk-hacked.png"
-thumbnail: "/images/hack/Coca-cola-Fairlife-milk-hacked.png"
+image_url: "/images/hack/Coca-cola-Fairlife-milk-hacked.webp"
+featured_image: "/images/hack/Coca-cola-Fairlife-milk-hacked.webp"
+image: "/images/hack/Coca-cola-Fairlife-milk-hacked.webp"
+thumbnail: "/images/hack/Coca-cola-Fairlife-milk-hacked.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Coca-Cola", "Fairlife", "mlijeko", "ransomware", "kibernetički napad", "hakerski napad", "proizvodnja", "prehrambena industrija", "kibernetička sigurnost"]
 description: "Ransomware napad pogodio je Fairlife, Coca-Colinu kompaniju za mlijeko i proteinske napitke, te privremeno zaustavio proizvodnju diljem Sjedinjenih Američkih Država."
 summary: "Coca-Cola je vlasnik velikog američkog mliječnog brenda Fairlife. Nakon ransomware napada privremeno je obustavljena proizvodnja u SAD-u, dok pogoni u Kanadi nastavljaju raditi."
+categories: ["tech"]
 ---
 
 # Coca-Cola proizvodi mlijeko: ransomware zaustavio proizvodnju u Fairlifeu

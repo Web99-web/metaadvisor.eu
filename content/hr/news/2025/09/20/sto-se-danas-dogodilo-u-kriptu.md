@@ -3,7 +3,7 @@ title: "Što se danas dogodilo u kriptu"
 slug: "sto-se-danas-dogodilo-u-kriptu"
 date: 2025-09-20T12:56:25Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-09-20"
 source: "Više izvora (vidi dolje)"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
@@ -15,6 +15,8 @@ image_alt: "Bitcoin i financijska tržišta (simbolična ilustracija)"
 image_credit: "MetaAdvisor (simbolična grafika)"
 tags: ["crypto", "markets", "regulation", "stablecoins", "ETF", "Ethereum", "FTX", "BitGo"]
 summary: "BitGo ide na IPO, američko Ministarstvo financija otvara komentare za GENIUS Act (stablecoini), Ethereum ‘Fusaka’ se zakazuje za prosinac, SEC olakšava listanje kripto ETF-ova, FTX priprema novu isplatu, a tržišta ostaju oprezna nakon rezanja kamatnih stopa."
+categories: ["crypto"]
+url: "/hr/news/sto-se-danas-dogodilo-u-kriptu-2025-09-20/"
 ---
 
 *Slika je simbolična.*

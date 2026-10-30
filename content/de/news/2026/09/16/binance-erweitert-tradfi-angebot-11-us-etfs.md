@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Binance", "ETF", "US-ETFs", "TradFi", "Binance Earn", "Vermögensverwaltung", "US-Anleihen", "Staatsanleihen", "Treasury", "Alpaca Securities", "Nest Trading", "Aktien", "Finanzmärkte"]
 description: "Binance hat ein Wealth-Management-Angebot mit 11 US-ETFs gestartet, die auf Staatsanleihen und höherwertige Anleihen ausgerichtet sind. Nutzer kaufen echte ETF-Anteile über regulierte Broker-Infrastruktur."
 summary: "Binance führt innerhalb von Earn 11 US-ETFs für Cash Management, stabilere Erträge und längere Anlagezeiträume ein. Es handelt sich nicht um tokenisierte ETFs, sondern um echte Wertpapiere, die über klassische Broker-Infrastruktur ausgeführt und verwahrt werden."
+categories: ["Finanzen"]
 ---
 
 *Bild ist symbolisch.*

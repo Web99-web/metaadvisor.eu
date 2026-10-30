@@ -5,10 +5,10 @@ date: 2025-10-08T09:00:00Z
 category: "crypto"
 translationKey: "filcoin-intro-20251008"
 author: "Metaadvisor.eu"
-image_url: "/images/filecoin.png"
-featured_image: "/images/filecoin.png"
-image: "/images/filecoin.png"
-thumbnail: "/images/filecoin.png"
+image_url: "/images/filecoin.webp"
+featured_image: "/images/filecoin.webp"
+image: "/images/filecoin.webp"
+thumbnail: "/images/filecoin.webp"
 image_alt: "Filecoin (FIL) — logo and decentralized storage network"
 image_credit: "Design: Metaadvisor.eu"
 tags:
@@ -20,6 +20,7 @@ tags:
   - defi
   - infrastructure
 summary: "Filecoin (FIL) is a blockchain project launched in 2020 that enables decentralized data storage. The FIL token is used for payments and collateral within the network."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

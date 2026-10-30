@@ -13,6 +13,7 @@ image_alt: "BNB — simbolična ilustracija"
 image_credit: "Metaadvisor (simbolična slika)"
 tags: ["BNB", "Binance", "BNB-Chain", "opBNB", "BEP-95", "Auto-Burn", "deflacija", "on-chain-aktivnost", "derivati", "short-squeeze", "funding", "otvoreni-interes", "volatilnost", "tehnicka-analiza"]
 summary: "BNB je preko vikenda tiho odskočio oko 10% i nadmašio šire tržište — dok mnogi tokeni bilježe pad. Donosimo razloge rasta i scenarije što dalje."
+categories: ["news"]
 ---
 
 **Ukratko:**  

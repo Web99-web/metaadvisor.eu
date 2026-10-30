@@ -16,6 +16,7 @@ tags: ["OpenAI", "ChatGPT", "ChatGPT za obitelji", "family control", "roditeljsk
 summary: "OpenAI zapošljava product managera za proizvode namijenjene obiteljima, skrbnicima i starijim korisnicima. ChatGPT je već ušao u kućanstva kroz svakodnevna pitanja roditelja, djece i starijih osoba, ali sada se otvara pitanje hoće li sljedeći korak biti obiteljski način korištenja, roditeljski nadzor i family control."
 disclaimer: "Ovaj članak služi isključivo u informativne svrhe i ne predstavlja tehnološki, pravni, obrazovni ni sigurnosni savjet."
 draft: false
+categories: ["ai"]
 ---
 
 Slika je simbolična.

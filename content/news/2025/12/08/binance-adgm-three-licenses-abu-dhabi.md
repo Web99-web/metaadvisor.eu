@@ -7,14 +7,15 @@ translationKey: "binance_adgm_3_licenses_08122025"
 source: "MetaAdvisor – analysis of Cointelegraph reporting"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Binance-3-adgm-licenses.png"
-featured_image: "/images/Binance-3-adgm-licenses.png"
-image: "/images/Binance-3-adgm-licenses.png"
-thumbnail: "/images/Binance-3-adgm-licenses.png"
+image_url: "/images/Binance-3-adgm-licenses.webp"
+featured_image: "/images/Binance-3-adgm-licenses.webp"
+image: "/images/Binance-3-adgm-licenses.webp"
+thumbnail: "/images/Binance-3-adgm-licenses.webp"
 image_alt: "Binance receives 3 ADGM licenses – techno style"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["binance","adgm","fsra","abu-dhabi","regulation","crypto","exchange","institutions","compliance","analysis"]
 summary: "Binance has received three major licenses from the ADGM regulator in Abu Dhabi, entering for the first time into a fully regulated international framework — exchange, clearing and broker-dealer under a single supervisory structure."
+categories: ["crypto"]
 ---
 
 <div class="cta">

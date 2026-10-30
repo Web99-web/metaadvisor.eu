@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/vaneck-aims-to-take-sol
 summary: "Der Fonds würde Zugang zu gestaktem Solana über JitoSOL bieten und dabei die Staking-Erträge berücksichtigen."
 tags: ["crypto", "token", "finanz", "etf", "solana", "sol", "jitosol", "vaneck"]
 image: "/news/2025-08-22-jitosol-etf-news-vaneck-files-to-launch-staked-solana-sol-etf-backed-by-liquid-s.jpg"
+categories: ["crypto"]
 ---
 
 Der Vermögensverwalter **VanEck** hat einen Antrag auf die Einführung eines **ETF für gestaktes Solana (SOL)** gestellt, was das anhaltende Interesse zeigt, blockchain-native renditeträchtige Assets auf traditionelle Investmentplattformen zu bringen.  

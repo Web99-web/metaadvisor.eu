@@ -11,6 +11,7 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "cryptocurrency", "stocks"]
 our_take: |
   Our view: Public Keys: Crypto IPOs Sizzle, Missing Gensler Texts Grizzle Public Keys is a weekly roundup from Decrypt that tracks the key publicly traded crypto companies. Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
 ---
 
 Public Keys: Crypto IPOs Sizzle, Missing Gensler Texts Grizzle

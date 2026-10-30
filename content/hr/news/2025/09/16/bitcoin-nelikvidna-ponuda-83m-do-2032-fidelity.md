@@ -16,6 +16,7 @@ image_alt: "Bitcoin (BTC)"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitcoin","on-chain","supply","liquidity"]
 summary: "Fidelity procjenjuje da bi nelikvidna ponuda Bitcoina do 2032. mogla narasti na oko 8,3 milijuna BTC, što bi dodatno smanjilo cirkulirajuću ponudu dostupnu na tržištu."
+categories: ["crypto"]
 ---
 
 **Kratko:** Prema Fidelityju, do **2032.** bi se volumen **nelikvidne** BTC ponude mogao popeti na **~8,3M BTC**. Nelikvidna ponuda odnosi se na coine u novčanicima koji rijetko troše (npr. dugoročni holderi, institucionalna kustodija, izgubljeni ključevi), što smanjuje “slobodnu” ponudu na tržištu i povećava osjetljivost cijene na promjene potražnje.

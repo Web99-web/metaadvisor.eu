@@ -11,6 +11,7 @@ image_url: "/news/2025/09/12/winklevoss-hero.jpg"
 tags: ["crypto", "bitcoin", "cryptocurrency", "btc", "meta", "stocks"]
 our_take: |
   Unser Fazit: Die 1-Mio.-$-These stützt sich auf das „Gold-2.0“-Narrativ und wachsende institutionelle Nachfrage. Im Blick: Marktliquidität, USD/Zinsregime sowie Regulierung in US/EU. Taktik: selektiv bleiben; Exposure nur in High-Conviction-Positionen ausbauen.
+categories: ["news"]
 ---
 
 Die Krypto-Unternehmer Tyler und Cameron Winklevoss — Gründer der nun börsennotierten Kryptobörse Gemini — prognostizieren, dass Bitcoin 1 Million US-Dollar pro Coin erreichen wird, da er „Gold verdrängt“.

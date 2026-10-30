@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "bitcoin-etf-outflows-202-million-after-nine-day-inflow-streak-2026-08-29"
 source: "Cointelegraph, SoSoValue, Farside Investors, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/BTC-ETF-outflows.png"
-featured_image: "/images/daily-charts/BTC-ETF-outflows.png"
-image: "/images/daily-charts/BTC-ETF-outflows.png"
-thumbnail: "/images/daily-charts/BTC-ETF-outflows.png"
+image_url: "/images/daily-charts/BTC-ETF-outflows.webp"
+featured_image: "/images/daily-charts/BTC-ETF-outflows.webp"
+image: "/images/daily-charts/BTC-ETF-outflows.webp"
+thumbnail: "/images/daily-charts/BTC-ETF-outflows.webp"
 image_alt: "Bitcoin fällt in Richtung 77.000 Dollar, während US-Spot-Bitcoin-ETFs Nettoabflüsse von 202 Millionen Dollar verzeichnen"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Bitcoin-ETF", "Spot-Bitcoin-ETF", "ETF-Abflüsse", "ETF-Zuflüsse", "Kryptowährungen", "Kryptomarkt", "Liquidationen", "Long-Liquidationen", "Bitcoin-Preis", "institutionelle Investoren", "Derivatemarkt", "Marktrisiko"]
 description: "US-Spot-Bitcoin-ETFs verzeichneten rund 202 Millionen Dollar Nettoabflüsse und beendeten damit eine neuntägige Zuflussserie, während Bitcoin in Richtung 77.000 Dollar fiel und eine neue Welle von Long-Liquidationen den Markt traf."
 summary: "Bitcoin ist nach dem Anstieg über 81.000 Dollar in Richtung 77.000 Dollar gefallen. Gleichzeitig verzeichneten US-Spot-Bitcoin-ETFs erstmals nach neun Handelstagen Nettoabflüsse, während am Derivatemarkt Positionen im Wert von mehr als 480 Millionen Dollar liquidiert wurden."
+categories: ["Crypto"]
 ---
 
 # Bitcoin fällt in Richtung 77.000 USD, ETFs melden $202 Mio. Abflüsse

@@ -7,14 +7,15 @@ translationKey: "944f46a4060576a3e5adf3613923a629"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/why-did-bitcoin-price-hit-two-month-lows-near-83k"
 author: "Metaadvisor.eu"
-image_url: "/images/gold-down.png"
-featured_image: "/images/gold-down.png"
-image: "/images/gold-down.png"
-thumbnail: "/images/gold-down.png"
+image_url: "/images/gold-down.webp"
+featured_image: "/images/gold-down.webp"
+image: "/images/gold-down.webp"
+thumbnail: "/images/gold-down.webp"
 image_alt: "Sharp gold price drop on digital markets"
 image_credit: "MetaAdvisor.eu"
 tags: ["gold", "crypto", "markets", "volatility", "macroeconomics", "investing", "safe haven", "bitcoin", "financial markets"]
 summary: "Gold plunged by more than $400 within just 30 minutes, signaling that trading via crypto exchanges is fundamentally reshaping gold market dynamics."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

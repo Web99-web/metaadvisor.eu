@@ -9,6 +9,7 @@ summary: "The Indonesian startup, now backed by $16.7M in Series A funding, help
 tags: ["ai","fintech","indonesia","pintarnya","series-a","square-peg","vertex-ventures","east-ventures","jobs","gig-economy","lending"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/Pintarnya-Founders-Press-Kit.png?w=1024"
 image_alt: "Pintarnya founders"
+categories: ["ai"]
 ---
 
 **Pintarnya**, an Indonesian employment platform that goes beyond job matching by offering financial services along with full-time and side-gig opportunities, said it has raised a **$16.7 million Series A** round.

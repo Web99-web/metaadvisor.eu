@@ -28,6 +28,7 @@ tags:
   - liquidity
   - volatility
 summary: "Eine mögliche Genehmigung eines Spot-Solana-ETFs könnte neue institutionelle Nachfragekanäle öffnen und zirkulierendes Angebot binden – die Wirkung hängt jedoch von Regulierung, Gebühren und Marktstimmung ab."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

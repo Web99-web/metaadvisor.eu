@@ -6,15 +6,16 @@ category: "cybersecurity"
 translationKey: "autonomni-ai-agenti-cybernapad-tajvan-2026-08-12"
 source: "Financial Times, Dream"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/AI-agent-cyberattack.png"
-featured_image: "/images/hack/AI-agent-cyberattack.png"
-image: "/images/hack/AI-agent-cyberattack.png"
-thumbnail: "/images/hack/AI-agent-cyberattack.png"
+image_url: "/images/hack/AI-agent-cyberattack.webp"
+featured_image: "/images/hack/AI-agent-cyberattack.webp"
+image: "/images/hack/AI-agent-cyberattack.webp"
+thumbnail: "/images/hack/AI-agent-cyberattack.webp"
 image_alt: "Autonome KI-Agenten und Cyberangriff auf Regierungssysteme und kritische Infrastruktur"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["KI", "KI-Agenten", "autonome KI", "Cyberangriff", "Cybersicherheit", "Taiwan", "China", "kritische Infrastruktur", "Hacker", "Regierungssysteme"]
 description: "Mehrere autonome KI-Agenten sollen vier Tage lang Regierungssysteme in Taiwan angegriffen, Konten kompromittiert und die Operation auf Nuklearsicherheit und Energieunternehmen ausgeweitet haben."
 summary: "Bis zu acht KI-Agenten sollen parallel Regierungssysteme kartiert, Schwachstellen gesucht und ihre Taktik während einer viertägigen Cyberoperation angepasst haben. Die Financial Times berichtet, dass Taiwan das Ziel war, während eine Verbindung der Angreifer zu China bislang nicht offiziell bestätigt ist."
+categories: ["cybersecurity"]
 ---
 
 *Das Bild dient nur zur Illustration.*

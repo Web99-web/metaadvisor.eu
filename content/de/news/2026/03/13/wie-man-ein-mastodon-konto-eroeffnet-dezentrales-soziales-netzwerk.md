@@ -15,6 +15,7 @@ image_alt: "Wie man sich im dezentralen sozialen Netzwerk Mastodon registriert"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 summary: "Mastodon ist ein dezentrales soziales Netzwerk, das völlig anders funktioniert als Facebook oder X. Wir zeigen Schritt für Schritt, wie man ein Konto eröffnet, was Server sind und wie das Fediverse funktioniert."
 tags: ["mastodon", "fediverse", "dezentrale soziale netzwerke", "technologie", "internet", "metaadvisor"]
+categories: ["tech"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -7,15 +7,16 @@ translationKey: "oil-rises-markets-fall-inflation-rates-2026-09-10"
 source: "Reuters, AP, MarketWatch, CoinGecko, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "WTI i Brent nafta snažno rastu dok dionice, tehnološki sektor, kripto i metali padaju"
 image_credit: "Metaadvisor.eu"
 tags: ["nafta", "Brent", "WTI", "tržišta", "dionice", "Wall Street", "tehnološke dionice", "umjetna inteligencija", "poluvodiči", "Bitcoin", "kripto", "zlato", "srebro", "platina", "inflacija", "Fed", "obveznice", "kamatne stope", "energija"]
 description: "Brent je skočio iznad 107 dolara, WTI iznad 102 dolara, dok istodobno padaju Wall Street, tehnološke dionice, kripto i plemeniti metali. Pogledali smo gdje kapital trenutno ulazi, a odakle izlazi."
 summary: "Nafta je 10. rujna jedan od rijetkih velikih dijelova tržišta koji snažno raste. Brent i WTI skaču više od 6%, dok rast inflacijskih očekivanja i prinosa na američke obveznice pritišće dionice, AI i tech sektor, kripto, zlato, srebro i platinu."
+categories: ["Markets"]
 ---
 
 *Slika je simbolična.*

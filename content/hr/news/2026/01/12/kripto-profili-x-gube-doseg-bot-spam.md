@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/cryptoquant-founder-slams-x-over-bot-spam-and-crypto-suppression"
 author: "Cointelegraph"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/X-ignoring-bots.png"
-featured_image: "/images/X-ignoring-bots.png"
-image: "/images/X-ignoring-bots.png"
-thumbnail: "/images/X-ignoring-bots.png"
+image_url: "/images/X-ignoring-bots.webp"
+featured_image: "/images/X-ignoring-bots.webp"
+image: "/images/X-ignoring-bots.webp"
+thumbnail: "/images/X-ignoring-bots.webp"
 image_alt: "Ilustracija problema bot spama i smanjenog dosega kripto sadržaja na platformi X"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 tags:
@@ -26,6 +26,7 @@ tags:
   - shadowban
   - društvene mreže
 summary: "Sve više legitimnih kripto profila na platformi X bilježi pad dosega, iako ne sudjeluju u spamanju. Glavni uzrok sve češće se povezuje s bot spamom i algoritamskim mjerama koje pogađaju cijeli kripto sadržaj."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-6px;">

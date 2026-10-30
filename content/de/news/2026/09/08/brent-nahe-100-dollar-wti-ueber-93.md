@@ -7,15 +7,16 @@ translationKey: "oil-brent-wti-near-100-middle-east-2026-09-08"
 source: "Reuters, Kpler, Goldman Sachs, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "Brent und WTI steigen, während geopolitische Risiken im Nahen Osten die Ölpreise nach oben treiben"
 image_credit: "Metaadvisor.eu"
 tags: ["Öl", "Brent", "WTI", "Energie", "Märkte", "Naher Osten", "Saudi-Arabien", "Iran", "Huthis", "Straße von Hormus", "Ölpreis", "geopolitisches Risiko"]
 description: "Brent nähert sich der Marke von 100 Dollar pro Barrel, während WTI nach neuen Angriffen auf Energieanlagen in Saudi-Arabien und anhaltenden Problemen im Schiffsverkehr durch die Straße von Hormus über 93 Dollar steigt."
 summary: "Brent erreichte am 8. September im Tagesverlauf 99,46 Dollar, WTI 94,73 Dollar. Neue Angriffe auf saudische Energieanlagen und eingeschränkte Öltransporte durch die Straße von Hormus erhöhen erneut die geopolitische Risikoprämie am Ölmarkt."
+categories: ["Märkte"]
 ---
 
 *Das Bild ist symbolisch.*

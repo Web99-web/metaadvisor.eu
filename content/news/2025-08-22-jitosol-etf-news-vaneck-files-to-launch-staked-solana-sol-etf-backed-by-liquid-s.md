@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/vaneck-aims-to-take-sol
 summary: "The fund would offer exposure to staked Solana via JitoSOL, tracking staking rewards."
 tags: ["crypto"]
 image: "/news/2025-08-22-jitosol-etf-news-vaneck-files-to-launch-staked-solana-sol-etf-backed-by-liquid-s.jpg"
+categories: ["crypto"]
 ---
 
 Asset manager VanEck has filed to launch a staked solana SOL $ 205.76 exchange-traded fund (ETF) , signaling continued interest in bringing blockchain-native yield-bearing assets to traditional investment rails.

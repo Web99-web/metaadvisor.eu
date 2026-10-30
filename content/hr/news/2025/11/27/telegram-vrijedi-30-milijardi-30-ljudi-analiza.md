@@ -15,6 +15,7 @@ image_alt: "Telegram analiza vrijednosti i broja zaposlenih"
 image_credit: "MetaAdvisor AI-generated (symbolic image)"
 tags: ["telegram", "aplikacije", "tehnologija", "tržišna vrijednost", "startup", "rad-na-daljinu", "lean-model", "poslovanje", "financije", "platforme"]
 summary: "Može li tehnološka platforma vrijediti 30 milijardi dolara i imati samo 30 zaposlenih? Analiziramo činjenice, mitove i stvarni poslovni model Telegrama."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

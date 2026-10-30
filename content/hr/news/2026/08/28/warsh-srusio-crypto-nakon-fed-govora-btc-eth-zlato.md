@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "fed-warsh-rate-hike-crypto-markets-2026-08-28"
 source: "Federal Reserve, Reuters, CoinGecko, Investing.com, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/btc-eth-down.png"
-featured_image: "/images/daily-charts/btc-eth-down.png"
-image: "/images/daily-charts/btc-eth-down.png"
-thumbnail: "/images/daily-charts/btc-eth-down.png"
+image_url: "/images/daily-charts/btc-eth-down.webp"
+featured_image: "/images/daily-charts/btc-eth-down.webp"
+image: "/images/daily-charts/btc-eth-down.webp"
+thumbnail: "/images/daily-charts/btc-eth-down.webp"
 image_alt: "Bitcoin i Ethereum pali nakon govora predsjednika Feda Kevina Warsha"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Bitcoin", "Ethereum", "crypto", "kriptovalute", "Fed", "Federalne rezerve", "Kevin Warsh", "kamatne stope", "inflacija", "Solana", "XRP", "zlato", "srebro", "američki dolar", "državne obveznice", "financijska tržišta"]
 description: "Bitcoin, Ethereum, Solana, XRP i zlato naglo su pali nakon govora predsjednika Feda Kevina Warsha, dok je tržišna procjena vjerojatnosti povećanja kamata u rujnu skočila s oko 35% na približno 60%."
 summary: "Fedov predsjednik Kevin Warsh nije najavio novo povećanje kamata, ali je upozorio da inflacija još nije dovoljno jasno krenula prema cilju od 2%. Tržište je reagiralo naglo: Bitcoin je od dnevnog vrha izgubio gotovo 5%, Ethereum oko 5%, Solana gotovo 6%, XRP više od 6%, a zlato oko 3,6%."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

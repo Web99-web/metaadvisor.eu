@@ -7,14 +7,15 @@ translationKey: "github-developer-tools-security-2026-05-20"
 source: "Metaadvisor (GitHub, BleepingComputer, Times of India)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/GitHub.png"
-featured_image: "/images/GitHub.png"
-image: "/images/GitHub.png"
-thumbnail: "/images/GitHub.png"
+image_url: "/images/GitHub.webp"
+featured_image: "/images/GitHub.webp"
+image: "/images/GitHub.webp"
+thumbnail: "/images/GitHub.webp"
 image_alt: "GitHub i developer alati kao nova meta cyber napada"
 image_credit: "Metaadvisor.eu"
 tags: ["github", "cyber sigurnost", "cybersecurity", "developer alati", "visual studio code", "vs code", "zlonamjerna ekstenzija", "supply chain", "software supply chain", "open source", "repozitoriji", "interni repozitoriji", "api ključevi", "tokeni", "secrets", "devops", "programeri", "sigurnost softvera", "malware", "tech", "tehnologija"]
 summary: "GitHub incident pokazuje da se cyber napadi sve više sele prema developer okruženju: editorima, ekstenzijama, tokenima, lokalnim konfiguracijama i alatima koje programeri koriste svaki dan. Iako zasad nema javnih dokaza da su pogođeni korisnički repozitoriji, slučaj otvara važno pitanje povjerenja u software supply chain."
+categories: ["tech"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

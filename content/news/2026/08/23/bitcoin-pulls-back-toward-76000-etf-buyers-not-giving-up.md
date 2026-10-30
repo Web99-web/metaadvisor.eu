@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Bitcoin", "BTC", "Bitcoin ETF", "BlackRock", "IBIT", "Fidelity", "crypto", "ETF inflows"]
 description: "Bitcoin has pulled back toward $76,000 after a strong rally, while U.S. spot Bitcoin ETFs continue to record strong net inflows."
 summary: "BTC is around 4% below its recent high near $79,500, but spot Bitcoin ETFs attracted nearly $1.92 billion in net inflows over five days."
+categories: ["Crypto"]
 ---
 
 *Image is symbolic.*

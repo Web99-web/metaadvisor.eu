@@ -8,6 +8,7 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/10/11/v-shaped-rally-or-gradual-reset-btc-eth-xrp-sol-face-slow-bottoming-process-after-usd16b-liquidation-shock"
 tags: ["crypto","bitcoin","btc","eth","xrp","sol","liquidations","market-structure"]
 summary: "After a record ~$16B liquidation event, a gradual reset is more likely than a swift V-shaped bounce. Here’s the typical sequence and what to watch next."
+categories: ["crypto"]
 ---
 
 The crypto market just experienced the **largest liquidation event on record** — about **$16B** in leveraged longs across **BTC, ETH, XRP, SOL** and broader altcoins were force-closed. Many altcoins dropped **20–40%** to **multi-month lows**.

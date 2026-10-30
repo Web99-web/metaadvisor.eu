@@ -7,10 +7,10 @@ translationKey: "palantir_uk_security_questions_22122025"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/dec/22/mps-question-uk-palantir-contracts-security-concerns-investigation"
 author: "Metaadvisor.eu"
-image_url: "/images/palantir-it.png"
-featured_image: "/images/palantir-it.png"
-image: "/images/palantir-it.png"
-thumbnail: "/images/palantir-it.png"
+image_url: "/images/palantir-it.webp"
+featured_image: "/images/palantir-it.webp"
+image: "/images/palantir-it.webp"
+thumbnail: "/images/palantir-it.webp"
 image_alt: "Palantir, analiza podataka i državna sigurnost"
 tags:
   - palantir
@@ -19,6 +19,7 @@ tags:
   - umjetna inteligencija
   - javni sektor
 summary: "Nakon švicarske istrage, britanski zastupnici postavljaju ozbiljna pitanja o sigurnosnim i etičkim rizicima suradnje države s američkom tvrtkom Palantir."
+categories: ["news"]
 ---
 
 # Palantir, državna sigurnost i podaci: zašto britanski parlament traži odgovore

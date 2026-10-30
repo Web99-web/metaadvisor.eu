@@ -7,14 +7,15 @@ translationKey: "thorwallet_titn_airdrop_20260123"
 source: "ThorWallet / official documentation"
 source_url: "https://docs.google.com/document/u/0/d/e/2PACX-1vSznqVwOkJIUS7sZUOKh2ruiPb_8YZFs0TbpBtSZqbSlE4bSO-AwAzVjWMFRNJZUJG0V15DIctq5pnJ/pub"
 author: "MetaAdvisor.eu"
-image_url: "/images/ThorWallet-airdrop.png"
-featured_image: "/images/ThorWallet-airdrop.png"
-image: "/images/ThorWallet-airdrop.png"
-thumbnail: "/images/ThorWallet-airdrop.png"
+image_url: "/images/ThorWallet-airdrop.webp"
+featured_image: "/images/ThorWallet-airdrop.webp"
+image: "/images/ThorWallet-airdrop.webp"
+thumbnail: "/images/ThorWallet-airdrop.webp"
 image_alt: "ThorWallet airdrop campaign with TITN token rewards"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags: ["thorwallet","airdrop","titn","thorchain","crypto rewards","wallet","onchain","defi","crypto campaign"]
 summary: "ThorWallet has launched a new airdrop campaign featuring a total of 5,000,000 TITN tokens, running until April 25, 2026."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

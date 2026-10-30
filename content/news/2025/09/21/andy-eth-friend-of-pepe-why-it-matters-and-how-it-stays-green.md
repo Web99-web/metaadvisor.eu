@@ -13,6 +13,7 @@ image_alt: "ANDY (ETH) — friend of PEPE (symbolic cover)"
 image_credit: "Metaadvisor (symbolic image)"
 tags: ["ANDY","meme-coin","Ethereum","Pepe","Boys-Club","community","on-chain","liquidity","rotation","ETF","idiosyncratic-flows","social-momentum","volatility","risk"]
 summary: "ANDY (ETH), often labeled “PEPE’s Friend ‘ANDY’,” is a Boys Club/Pepe-inspired meme-coin. It proves how community & idiosyncratic flows can lift prices even when the broader market softens."
+categories: ["news"]
 ---
 
 **Summary:**  

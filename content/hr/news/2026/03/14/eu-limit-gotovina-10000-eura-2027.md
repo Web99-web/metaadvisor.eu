@@ -15,6 +15,7 @@ image_alt: "EU limit gotovinskih plaćanja 10000 eura"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["EU regulacija", "gotovina", "limit gotovine", "EU zakon", "plaćanja gotovinom", "financije", "AML"]
 summary: "Europska unija uvodi limit od 10.000 € za gotovinska plaćanja kao dio novog paketa protiv pranja novca. Pravilo će se početi primjenjivati od 2027. godine, dok pojedine države već imaju i stroža ograničenja."
+categories: ["finance"]
 ---
 
 *Slika je simbolična.*

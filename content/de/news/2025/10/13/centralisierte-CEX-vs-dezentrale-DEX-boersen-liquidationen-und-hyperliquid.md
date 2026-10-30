@@ -15,6 +15,7 @@ image_alt: "CEX vs DEX Börsen"
 image_credit: "Symbolisches Bild."
 tags: ["CEX", "DEX", "Börsen", "Liquidationen", "Hyperliquid", "Transparenz", "Krypto", "Perps", "Whales", "KYC", "Self-Custody", "Preise"]
 summary: "Zentralisierte Börsen dominieren beim Volumen, verbergen jedoch Details zu Liquidationen. Dezentrale Börsen bieten vollständige On-Chain-Transparenz – deshalb steht Hyperliquid nach den jüngsten Massenliquidationen im Rampenlicht."
+categories: ["crypto"]
 ---
 
 ## Zentralisierte Börsen (CEX)

@@ -6,14 +6,15 @@ category: "ai"
 translationKey: "cbb02fefaac83f96190b152826cfc18c"
 source: "Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/ai-deepfake.png"
-featured_image: "/images/ai-deepfake.png"
-image: "/images/ai-deepfake.png"
-thumbnail: "/images/ai-deepfake.png"
+image_url: "/images/ai-deepfake.webp"
+featured_image: "/images/ai-deepfake.webp"
+image: "/images/ai-deepfake.webp"
+thumbnail: "/images/ai-deepfake.webp"
 image_alt: "Ilustracija: AI deepfake i digitalni glitch efekt"
 image_credit: "Metaadvisor / generirano"
 tags: ["ai","sora","openai","deepfake","video","pravna pitanja","etika","generativni-ai","prava-osoba","publicity-rights","forrest-gump","film","nasljeđe"]
 summary: "OpenAI-jev Sora alat za generiranje videa omogućuje izradu uvjerljivih deepfakeova preminulih slavnih osoba. Pravnici i etičari upozoravaju na pravne sive zone, zlouporabe i narušavanje dostojanstva."
+categories: ["ai"]
 ---
 
 {{< cta href="/go/mexc" text="👉 Trguj na MEXC" >}}

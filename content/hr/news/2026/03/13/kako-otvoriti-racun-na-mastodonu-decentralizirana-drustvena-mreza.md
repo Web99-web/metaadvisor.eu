@@ -15,6 +15,7 @@ image_alt: "Kako se registrirati na Mastodon decentraliziranu društvenu mrežu"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 summary: "Mastodon je decentralizirana društvena mreža koja funkcionira potpuno drugačije od Facebooka ili X-a. Pokazujemo korak po korak kako otvoriti račun, što su serveri i kako funkcionira Fediverse."
 tags: ["mastodon", "fediverse", "decentralizirane društvene mreže", "tehnologija", "internet", "metaadvisor"]
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

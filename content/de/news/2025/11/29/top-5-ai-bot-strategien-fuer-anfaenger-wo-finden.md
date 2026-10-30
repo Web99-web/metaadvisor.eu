@@ -15,6 +15,7 @@ image_alt: "Top 5 AI Bot Strategies für Anfänger"
 image_credit: "MetaAdvisor AI–generated"
 tags: ["ai trading","krypto","bitcoin","btc","trading bots","strategie","hyperliquid","kryll","mexc","grid bot","trend bot","mean reversion","dca bot","automatisierung"]
 summary: "Wo man die fünf besten AI-Bot-Strategien findet, auf welchen Plattformen sie verfügbar sind und wie man sie startet — inklusive klarer Schritte und Beispiele."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

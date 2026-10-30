@@ -28,6 +28,7 @@ tags:
   - asset-managers
   - europe-expansion
 summary: "Börse Stuttgart Digital otvorio je ured u Madridu, proširujući se na osam europskih hubova. S MiCAR licencom od BaFina, nudi kripto trgovanje i skrbništvo bankama, brokerima i upraviteljima imovine. Španjolska se profilira kao rastuće kripto tržište."
+categories: ["crypto"]
 ---
 
 **Kratko:** **Börse Stuttgart Digital**, kripto odjel **Stuttgart Stock Exchange Group**, otvorio je ured u **Madridu** i time proširio svoju prisutnost na **osam europskih hubova** (uključujući Frankfurt, Zürich, Milano). Tvrtka nudi **trgovanje i skrbništvo** kriptoimovine za **banke, brokere i asset managere**, a radi u skladu s novim **MiCAR** okvirom EU-a.

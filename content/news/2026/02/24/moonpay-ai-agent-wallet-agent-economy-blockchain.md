@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/moonpay-launches-agents-giving-ai-systems-wallets-and-onchain-cash-flow"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/moonpay-ai-wallet.png"
-featured_image: "/images/moonpay-ai-wallet.png"
-image: "/images/moonpay-ai-wallet.png"
-thumbnail: "/images/moonpay-ai-wallet.png"
+image_url: "/images/moonpay-ai-wallet.webp"
+featured_image: "/images/moonpay-ai-wallet.webp"
+image: "/images/moonpay-ai-wallet.webp"
+thumbnail: "/images/moonpay-ai-wallet.webp"
 image_alt: "AI agent managing stablecoins on blockchain"
 image_credit: "MetaAdvisor.eu (symbolic image)"
 tags: ["moonpay", "ai", "agent economy", "stablecoin", "blockchain", "crypto", "web3"]
 summary: "MoonPay introduces a non-custodial AI Agent Wallet enabling autonomous stablecoin transactions on blockchain networks, marking a step toward the agent economy."
+categories: ["ai"]
 ---
 
 # MoonPay Launches AI Agent Wallet: Building the Agent Economy

@@ -15,6 +15,7 @@ image_alt: "WLFI kao mogući rani signal kripto sloma 10.10.2025."
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["wlfi", "world liberty financial", "bitcoin", "kripto slom", "likvidacije", "derivati", "perpetual futures", "funding rate", "amberdata", "kriptovalute", "tržišni stres"]
 summary: "Analiza Amberdate sugerira da je token WLFI 10.10.2025. počeo naglo padati više od pet sati prije masovne likvidacije od 6,9 milijardi dolara i oštrog pada Bitcoina."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

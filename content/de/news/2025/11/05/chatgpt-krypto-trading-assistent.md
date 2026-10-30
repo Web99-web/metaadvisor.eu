@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-to-turn-chatgpt-into-your-personal-crypto-trading-assistant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/ChatGPT-crypto-assistant.png"
-featured_image: "/images/ChatGPT-crypto-assistant.png"
-image: "/images/ChatGPT-crypto-assistant.png"
-thumbnail: "/images/ChatGPT-crypto-assistant.png"
+image_url: "/images/ChatGPT-crypto-assistant.webp"
+featured_image: "/images/ChatGPT-crypto-assistant.webp"
+image: "/images/ChatGPT-crypto-assistant.webp"
+thumbnail: "/images/ChatGPT-crypto-assistant.webp"
 image_alt: "ChatGPT Krypto-Assistent"
 image_credit: "Cointelegraph / Metaadvisor"
 tags: ["crypto", "ai", "trading", "chatgpt", "bot", "automation"]
 summary: "Mit fortschrittlichen KI-Tools wie ChatGPT können Händler heute Marktanalysen, Projektauswertungen und Entscheidungsfindungen automatisieren – mit höherer Effizienz und geringerem Risiko."
+categories: ["crypto"]
 ---
 
 Die Kombination aus **künstlicher Intelligenz** und **Kryptowährungen** eröffnet eine neue Ära des automatisierten Tradings.  

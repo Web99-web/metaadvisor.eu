@@ -9,6 +9,7 @@ summary: "Kolovoz je donio odljev od 751 milijun USD iz američkih Bitcoin ETF-o
 tags: ["bitcoin","ethereum","ETF","crypto","institutions","markets","Asia","Glassnode","Polymarket"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/76853a648e0f82399c9dfebd64d9a9d82a9efb20-2880x1620.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/76853a648e0f82399c9dfebd64d9a9d82a9efb20-2880x1620.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 Kolovoz je donio rijedak preokret u ETF tokovima: Bitcoin spot fondovi zabilježili su neto odljeve od 751 milijun USD, samo nekoliko tjedana nakon što je BTC dosegnuo povijesni maksimum od 124.000 USD, dok su Ethereum ETF-ovi tiho privukli 3,9 milijardi USD.  

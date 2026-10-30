@@ -9,6 +9,7 @@ summary: "Clegg reflects on Meta, free speech, Trump’s suspension, Valley cult
 tags: ["ai","meta","facebook","instagram","whatsapp","nick-clegg","mark-zuckerberg","sheryl-sandberg","elon-musk","donald-trump","jd-vance","keir-starmer","rachel-reeves","free-speech","moderation","silicon-valley","eu","brexit","politics","books"]
 image_url: "https://i.guim.co.uk/img/media/ce3501a60b73c977d07524064abbd3b835e96ed1/0_1117_5352_5334/master/5352.jpg?width=1200&dpr=1&s=none"
 image_alt: "Nick Clegg portrait (David Vintiner/The Guardian)"
+categories: ["ai"]
 ---
 
 **Paraphrased recap:**  

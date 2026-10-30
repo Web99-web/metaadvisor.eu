@@ -7,14 +7,15 @@ translationKey: "8039b7fb4727c7fa6b526c4a36f62bf8"
 author: "Metaadvisor.eu"
 source: "Cointelegraph and Metaadvisor.eu analysis"
 source_url: ""
-image_url: "/images/AI-program-prevented-xrp-ledger-mistake.png"
-featured_image: "/images/AI-program-prevented-xrp-ledger-mistake.png"
-image: "/images/AI-program-prevented-xrp-ledger-mistake.png"
-thumbnail: "/images/AI-program-prevented-xrp-ledger-mistake.png"
+image_url: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
+featured_image: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
+image: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
+thumbnail: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
 image_alt: "AI security system preventing a potential exploit on XRP Ledger"
 image_credit: "MetaAdvisor illustration (symbolic)"
 tags: ["ai", "artificial intelligence", "xrp", "xrpl", "blockchain", "crypto", "cybersecurity", "ledger", "token", "security"]
 summary: "An autonomous AI security tool detected a critical logic flaw in the XRP Ledger during the voting phase of an amendment, preventing a potential exploit that could have put billions at risk."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

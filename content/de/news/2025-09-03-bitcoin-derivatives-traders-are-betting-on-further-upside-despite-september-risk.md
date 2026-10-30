@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/337835/bitcoin-derivatives-traders-further-upsid
 summary: "Bitcoin-Derivatehändler bleiben optimistisch, auch wenn makroökonomische Unsicherheit und die saisonal schwache September-Phase Vorsicht erfordern."
 tags: ["bitcoin", "BTC", "crypto", "derivate", "optionen", "futures"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
+categories: ["crypto"]
 ---
 
 Händler von Bitcoin-Derivaten erwarten im September eine eher optimistische Stimmung trotz makroökonomischer Unsicherheit und saisonaler Risiken, wobei die Abwärtsvolatilität gedämpft bleibt.

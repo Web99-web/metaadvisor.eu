@@ -15,6 +15,7 @@ image_alt: "AAVE token uz prikaz pada cijene i tržišne volatilnosti"
 image_credit: "Ilustracija / CoinDesk"
 tags: ["aave", "defi", "kripto", "crypto", "coindesk 20", "indeks", "ethereum", "trgovanje", "altcoin", "nearp", "cro", "ada", "solana", "blockchain"]
 summary: "AAVE je potonuo 10% u dnevnom trgovanju i postao najveći gubitnik CoinDesk 20 indeksa, dok šire tržište pokazuje znakove slabljenja."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -7,10 +7,10 @@ translationKey: "d4be0e1081118387419e6bfbb4f9892c"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/pumpfun-revamps-creator-fees-fee-sharing-cto-controls"
 author: "MetaAdvisor.eu"
-image_url: "/images/Pump.fun-10-wallets-fee.png"
-featured_image: "/images/Pump.fun-10-wallets-fee.png"
-image: "/images/Pump.fun-10-wallets-fee.png"
-thumbnail: "/images/Pump.fun-10-wallets-fee.png"
+image_url: "/images/Pump.fun-10-wallets-fee.webp"
+featured_image: "/images/Pump.fun-10-wallets-fee.webp"
+image: "/images/Pump.fun-10-wallets-fee.webp"
+thumbnail: "/images/Pump.fun-10-wallets-fee.webp"
 image_alt: "Pump.fun uvodi novi model dijeljenja feejeva na Solani"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -23,6 +23,7 @@ tags:
   - crypto
   - kripto
 summary: "Solana memecoin platforma Pump.fun najavila je novi sustav dijeljenja creator feejeva koji omogućuje raspodjelu prihoda na do 10 walleta, uz dodatne kontrole nad vlasništvom i upravljanjem tokenima."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

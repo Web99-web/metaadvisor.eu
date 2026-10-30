@@ -15,6 +15,7 @@ image_alt: "EU regulacija kripta MiCA 2"
 image_credit: "Metaadvisor.eu"
 tags: ["mica", "mica2", "eu", "kripto regulacija", "crypto", "defi", "blockchain", "financije", "regulacija", "tržište"]
 summary: "EU već najavljuje novu fazu regulacije kripta kroz potencijalni MiCA 2, koji bi mogao proširiti pravila na DeFi i nove tržišne modele."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

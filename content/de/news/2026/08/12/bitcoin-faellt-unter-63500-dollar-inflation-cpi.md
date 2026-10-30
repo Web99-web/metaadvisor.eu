@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Bitcoin", "BTC", "CPI", "Inflation", "Federal Reserve", "Fed", "Krypto", "Kryptowährungen", "Zinsen", "US-Wirtschaft"]
 description: "Bitcoin ist unter 63.500 Dollar gefallen, obwohl die US-Inflation im Juli den Erwartungen entsprach und den Druck auf die Federal Reserve für eine weitere Zinserhöhung nicht verstärkte."
 summary: "Der US-CPI stieg im Juli um 0,1 Prozent gegenüber dem Vormonat und um 3,4 Prozent gegenüber dem Vorjahr – genau wie erwartet. Trotz des relativ günstigen makroökonomischen Umfelds gab Bitcoin seine Tagesgewinne ab und setzte die Zone um 63.000 Dollar erneut unter Druck."
+categories: ["crypto"]
 ---
 
 *Das Bild dient nur zur Illustration.*

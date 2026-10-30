@@ -29,6 +29,7 @@ tags:
   - liquidity
   - adoption
 summary: "Michael Saylor erwartet gegen Ende 2025 einen erneuten, „smart“ getragenen BTC-Anstieg: ETF-Zuflüsse, Corporate-Treasuries und knapperes Angebot nach dem Halving könnten die Nachfrage-Seite strukturstark machen."
+categories: ["crypto"]
 ---
 
 **Kurz:** **Michael Saylor** (MicroStrategy) skizziert ein Szenario, in dem **gegen Ende 2025** ein **neuer Aufwärtsschub** entsteht — getragen von **Spot-ETF-Zuflüssen**, **unternehmensseitiger BTC-Allokation** und einer **dünneren Neuemission** nach dem Halving. Die Idee: **strukturelle Käufer** übertönen **zyklische Rückgänge**.

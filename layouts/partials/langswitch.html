@@ -8,28 +8,24 @@
               border-bottom:1px solid rgba(0,0,0,.06);
               padding:8px 12px;">
     {{- $curr := . -}}
+    {{- $links := partial "seo-links.html" . -}}
     {{- range .Site.Languages -}}
       {{- $isActive := eq .Lang $curr.Lang -}}
 
-      {{- $trans := (where $curr.AllTranslations "Lang" .Lang) | first 1 -}}
+      {{- $trans := (where $links.Alternates "Lang" .Lang) | first 1 -}}
       {{- $href := "" -}}
       {{- if $trans -}}
-        {{- $href = (index $trans 0).RelPermalink -}}
-      {{- else -}}
-        {{- $homeTrans := (where site.Home.AllTranslations "Lang" .Lang) | first 1 -}}
-        {{- if $homeTrans -}}
-          {{- $href = (index $homeTrans 0).RelPermalink -}}
-        {{- else -}}
-          {{- $href = "/" -}}
-        {{- end -}}
+        {{- $href = (index $trans 0).URL -}}
       {{- end -}}
 
+      {{ if $href }}
       <a class="lang {{ if $isActive }}active{{ end }}" href="{{ $href }}">
         <span class="flag">
           {{- if eq .Lang "en" -}}🇬🇧{{- else if eq .Lang "de" -}}🇩🇪{{- else if eq .Lang "hr" -}}🇭🇷{{- end -}}
         </span>
         {{ upper .Lang }}
       </a>
+      {{ end }}
     {{- end -}}
   </div>
 {{- end -}}

@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "avax-treasury-2025-overview"
 source: "Financial Times, CoinDesk, Cointelegraph, Wall Street Journal, Business Insider"
 author: "Metaadvisor.eu"
-image_url: "/images/avax-treasury.png"
-featured_image: "/images/avax-treasury.png"
-image: "/images/avax-treasury.png"
-thumbnail: "/images/avax-treasury.png"
+image_url: "/images/avax-treasury.webp"
+featured_image: "/images/avax-treasury.webp"
+image: "/images/avax-treasury.webp"
+thumbnail: "/images/avax-treasury.webp"
 image_alt: "Avalanche AVAX — plan for public treasuries/reserves"
 image_credit: "Image is symbolic."
 tags: ["avalanche","avax","treasury","reserves","spac","nasdaq","tokenization","stablecoin","defi","institutional","hivemind","dragonfly","onramp","crypto"]
 summary: "Avalanche Foundation is advancing a model of public AVAX treasuries: two U.S. entities aim to raise up to $1B — one via a SPAC, the other through a Nasdaq-listed company. Proceeds would purchase AVAX and actively deploy it (liquidity, lending, DeFi)."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

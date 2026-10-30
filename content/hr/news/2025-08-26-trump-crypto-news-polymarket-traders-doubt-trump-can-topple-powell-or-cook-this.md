@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/26/polymarket-bettors-doub
 summary: "Polymarket vidi Powella kako završava 2025. neokrznut, iako Trumpov pokušaj smjene Lise Cook testira pravni štit Feda."
 tags: ["crypto","bitcoin","btc","polymarket","federal-reserve","jerome-powell","lisa-cook","trump","prediction-markets"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/929953de00b8159334b5ec0383ac3b9730ea74c8-1536x998.png?auto=format"
+categories: ["crypto"]
 ---
 
 Tržišta predviđanja signaliziraju skepsu da će Donald Trump moći saviti **Federalne rezerve** prema svojoj volji ove godine — iako američki predsjednik pokušava smijeniti guvernericu Feda za, kako tvrdi, opravdan uzrok.

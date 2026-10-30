@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Market Focus", "globale Märkte", "Wall Street", "S&P 500", "Nasdaq", "Dow Jones", "Brent", "Öl", "Gold", "Silber", "Anleihen", "Bitcoin", "Ethereum", "Solana", "XRP", "HYPE", "Krypto", "Japan", "Hongkong", "Europa", "Inflation", "Zinsen"]
 description: "Öl nähert sich 95 Dollar, die globalen Anleiherenditen steigen, Gold und Silber fallen deutlich, während Bitcoin, Ethereum, Solana, XRP und HYPE nach dem jüngsten Risk-off-Schub eine Stabilisierung versuchen."
 summary: "Der September beginnt mit einer ungewöhnlichen Marktspaltung: Energie steigt stark, Anleihen werden verkauft, Technologieaktien geben nach, Gold und Silber fallen, während Krypto versucht, wichtige Unterstützungszonen zu verteidigen."
+categories: ["Markets"]
 ---
 
 # Market Focus: Öl steigt in Richtung 95 Dollar, Metalle fallen, Krypto versucht sich zu erholen

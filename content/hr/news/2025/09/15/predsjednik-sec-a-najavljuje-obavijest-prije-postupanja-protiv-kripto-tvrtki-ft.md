@@ -10,6 +10,7 @@ image_url: "/images/etc-btc-manja.jpg"
 image_alt: "SEC i kripto — promjena pristupa provedbi"
 tags: ["crypto","policy","sec","enforcement","rulemaking"]
 summary: "SEC-ov Paul Atkins najavljuje da će poduzeća prvo dobivati pisanu obavijest o ‘tehničkim’ povredama prije pokretanja postupanja – jasan odmak od pristupa ‘regulation by enforcement’ i signal ulaska u formalniji, predvidljiviji okvir."
+categories: ["crypto"]
 ---
 
 **Što se mijenja i zašto je bitno**  

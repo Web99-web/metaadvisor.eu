@@ -7,14 +7,15 @@ translationKey: "c4339512869fb38d78d548ab106485fb"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/NFT-vaga.png"
-featured_image: "/images/NFT-vaga.png"
-image: "/images/NFT-vaga.png"
-thumbnail: "/images/NFT-vaga.png"
+image_url: "/images/NFT-vaga.webp"
+featured_image: "/images/NFT-vaga.webp"
+image: "/images/NFT-vaga.webp"
+thumbnail: "/images/NFT-vaga.webp"
 image_alt: "Illustration of scales symbolizing justice and the NFT market"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "The US Department of Justice has dropped the case against former OpenSea manager Nathaniel Chastain, marking the end of the first attempt to prosecute NFT insider trading in the United States."
 tags: ["opensea", "nft", "insider trading", "regulation", "justice", "crypto", "digital assets"]
+categories: ["news"]
 ---
 
 *The image is symbolic.*

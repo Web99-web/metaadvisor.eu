@@ -7,6 +7,7 @@ author: "MetaAdvisor"
 summary: "Naša analiza: Koji su najplaćeniji poslovi u kriptu 2025. godine i zašto nude ogromne prilike – ali i rizike."
 tags: ["kripto", "karijera", "poslovi", "plaće", "DeFi", "compliance", "sigurnost"]
 image_url: "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg"
+categories: ["crypto"]
 ---
 
 Kripto industrija u 2025. nije samo priča o volatilnim tokenima. To je i svijet **karijera koje nadmašuju Wall Street**. Donosimo pregled najplaćenijih poslova i što se krije iza njih.  

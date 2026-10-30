@@ -7,15 +7,16 @@ translationKey: "pakistan-crypto-licenses-bank-access-2026-09-08"
 source: "Pakistan Virtual Assets Regulatory Authority (PVARA), State Bank of Pakistan, Virtual Assets Act 2026, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/news/Pakistan-crypto-licenses.png"
-featured_image: "/images/news/Pakistan-crypto-licenses.png"
-image: "/images/news/Pakistan-crypto-licenses.png"
-thumbnail: "/images/news/Pakistan-crypto-licenses.png"
+image_url: "/images/news/Pakistan-crypto-licenses.webp"
+featured_image: "/images/news/Pakistan-crypto-licenses.webp"
+image: "/images/news/Pakistan-crypto-licenses.webp"
+thumbnail: "/images/news/Pakistan-crypto-licenses.webp"
 image_alt: "Pakistan führt Krypto-Lizenzen ein und öffnet regulierten Unternehmen den Zugang zu Banken"
 image_credit: "Metaadvisor.eu"
 tags: ["Pakistan", "Krypto", "Kryptowährungen", "Krypto-Lizenzen", "PVARA", "Banken", "Regulierung", "VASP", "Krypto-Börsen", "Binance", "HTX", "digitale Vermögenswerte", "Blockchain", "AML", "KYC", "Finanzregulierung", "Bankensystem"]
 description: "Pakistan führt einen umfassenden Regulierungsrahmen für Krypto-Unternehmen ein: Bestehende Anbieter mussten einen NOC beantragen oder ihre Tätigkeit einstellen, während regulierte Anbieter Zugang zum Bankensystem erhalten."
 summary: "Pakistan etabliert ein klares Modell für die Krypto-Branche: Registrierung und Lizenzierung werden verpflichtend, regulierte Firmen erhalten Bankzugang und große Börsen wie Binance und HTX sind bereits in den Prozess eingetreten."
+categories: ["Crypto"]
 ---
 
 *Symbolbild.*

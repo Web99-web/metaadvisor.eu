@@ -7,14 +7,15 @@ translationKey: "bsv_delisting_15122025"
 source: "CoinDesk — analysis and context by MetaAdvisor.eu"
 source_url: "https://coindesk.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/BSV-Bitcoin-Satoshi-Vision.png"
-featured_image: "/images/BSV-Bitcoin-Satoshi-Vision.png"
-image: "/images/BSV-Bitcoin-Satoshi-Vision.png"
-thumbnail: "/images/BSV-Bitcoin-Satoshi-Vision.png"
+image_url: "/images/BSV-Bitcoin-Satoshi-Vision.webp"
+featured_image: "/images/BSV-Bitcoin-Satoshi-Vision.webp"
+image: "/images/BSV-Bitcoin-Satoshi-Vision.webp"
+thumbnail: "/images/BSV-Bitcoin-Satoshi-Vision.webp"
 image_alt: "BSV token and crypto exchanges — delisting dispute"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bsv","bitcoin-sv","craig-wright","binance","kraken","okx","delisting","uk-supreme-court","crypto-law","crypto-exchanges"]
 summary: "Why Binance, Kraken and OKX delisted BSV back in 2019 — and how the UK Supreme Court has now effectively closed a $13 billion lawsuit brought by BSV investors."
+categories: ["crypto"]
 ---
 
 <div class="cta">

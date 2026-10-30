@@ -15,6 +15,7 @@ image_alt: "American Bitcoin i rast korporativnih BTC trezora"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","treasury","corporate-bitcoin","american-bitcoin","procap","trump","crypto","investing","institutions"]
 summary: "American Bitcoin, projekt povezan s obitelji Trump, prestigao je ProCap u ukupnim BTC rezervama, unatoč volatilnosti tržišta i padu proxy dionica. Korporativno akumuliranje Bitcoina ulazi u novu fazu."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

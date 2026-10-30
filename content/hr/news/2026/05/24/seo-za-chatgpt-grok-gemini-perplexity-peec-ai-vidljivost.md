@@ -7,14 +7,15 @@ translationKey: "e504babf4306531abce120a85537fd6a"
 source: "Metaadvisor.eu (TechCrunch, The Next Web, Yahoo Finance)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/PEEC-AI-GEO-SEO.png"
-featured_image: "/images/companies/PEEC-AI-GEO-SEO.png"
-image: "/images/companies/PEEC-AI-GEO-SEO.png"
-thumbnail: "/images/companies/PEEC-AI-GEO-SEO.png"
+image_url: "/images/companies/PEEC-AI-GEO-SEO.webp"
+featured_image: "/images/companies/PEEC-AI-GEO-SEO.webp"
+image: "/images/companies/PEEC-AI-GEO-SEO.webp"
+thumbnail: "/images/companies/PEEC-AI-GEO-SEO.webp"
 image_alt: "Peec AI and the rise of SEO for ChatGPT and AI search visibility"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "umjetna inteligencija", "peec ai", "chatgpt", "seo", "geo", "generative engine optimization", "ai search", "ai pretraga", "vidljivost u ai odgovorima", "berlin startup", "startup", "digitalni marketing", "brand visibility", "llm", "perplexity", "gemini", "claude", "search", "marketing", "future tech", "ai alati", "tech", "metaadvisor"]
 summary: "Berlinski startup Peec AI pokazuje koliko se digitalni marketing brzo mijenja. Kako korisnici sve češće postavljaju pitanja ChatGPT-u, Perplexityju i drugim AI alatima, brendovi sve više žele znati pojavljuju li se u tim odgovorima i kako mogu poboljšati svoju vidljivost."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

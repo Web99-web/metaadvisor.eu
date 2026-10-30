@@ -15,6 +15,7 @@ image_alt: "Bitcoin i pojam prinosa"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitcoin","yield","emerging-markets","inflacija","self-custody","metaadvisor"]
 summary: "Prigovor da ‘Bitcoin nema prinos’ zvuči uvjerljivo kad živite u svijetu uredno isplaćenih kamata. U većini svijeta prinos dolazi s paketom izdavateljskog, posredničkog i političkog rizika — upravo od čega Bitcoin bježi."
+categories: ["crypto"]
 ---
 
 Na zapadnim vitrinama banaka svijetle postoci: 3%, 4%, 5% na oročenje. U većini gradova svijeta postoci ne svijetle — gase se preko noći. Jednog dana je kamata “sigurna”, sljedećeg je račun u **moratoriju**, tečaj pušten nizvodno ili je granica opet postala zid. U takvom okruženju pitanje “zašto Bitcoin **nema prinos**” zvuči kao prigovor iz udžbenika, ali ne iz stvarnog života.  

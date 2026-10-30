@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/tech/2025/08/29/ethereum-foundation-target
 summary: "Inicijativa označava strateški zaokret: nakon godina skaliranja propusnosti i smanjenja troškova, tim sada stavlja interoperabilnost u središte korisničkog iskustva."
 tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/ab9ea8c9d8346f05438e6f0a8739ddc6e4639afa-1920x1242.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 Ethereum Foundation objavila je u petak novi blog post u kojem detaljno opisuje veliku inicijativu usmjerenu na uklanjanje barijera između sve većeg broja Ethereum Layer-2 mreža. Inicijativa označava strateški zaokret: nakon godina fokusiranja na skaliranje propusnosti i smanjenje troškova, tim sada stavlja interoperabilnost u središte korisničkog iskustva.

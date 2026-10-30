@@ -15,6 +15,7 @@ image_alt: "Bitcoin green market reaction despite tariff tensions"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["bitcoin", "btc", "trump", "tariffs", "crypto", "market", "macroeconomics", "volatility"]
 summary: "Bitcoin remains stable despite renewed tariff tensions and statements from Donald Trump. Metaadvisor analyzes whether this signals structural resilience or short-term calm."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "meta-outage-ai-moderation-digital-lockout-2026-06-13"
 source: "Reuters, Business Insider, Downdetector, CBS News Philadelphia, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-outage-Facebook-Instagram-down.png"
-featured_image: "/images/Meta/Meta-outage-Facebook-Instagram-down.png"
-image: "/images/Meta/Meta-outage-Facebook-Instagram-down.png"
-thumbnail: "/images/Meta/Meta-outage-Facebook-Instagram-down.png"
+image_url: "/images/Meta/Meta-outage-Facebook-Instagram-down.webp"
+featured_image: "/images/Meta/Meta-outage-Facebook-Instagram-down.webp"
+image: "/images/Meta/Meta-outage-Facebook-Instagram-down.webp"
+thumbnail: "/images/Meta/Meta-outage-Facebook-Instagram-down.webp"
 image_alt: "Meta outage, Facebook and Instagram down"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Facebook", "Instagram", "Messenger", "WhatsApp", "Meta outage", "Facebook outage", "Instagram outage", "AI moderacija", "AI moderation", "digitalno isključenje", "Business Suite", "mali biznisi", "banani računi", "cybersecurity", "digital rights", "Metaadvisor"]
 summary: "Facebook i Instagram pali su na nekoliko sati, ali taj kratki gubitak pristupa pokazuje nešto puno ozbiljnije: kako izgleda kada Meta AI moderacija običnim ljudima trajno izbriše pristup računima, slikama, kontaktima, Messengeru i poslovnim alatima."
+categories: ["cybersecurity"]
 ---
 
 Slika je simbolična.
@@ -82,7 +83,7 @@ O problemu automatizirane moderacije pisali smo i ranije, nakon što je Meta Ove
 
 <figure style="max-width:620px; margin:26px auto; text-align:center;">
   <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">
-    <img src="/images/Social-networking-erased-destroyed.png" alt="Meta AI moderacija i digitalno brisanje korisnika" style="width:100%; height:auto; border-radius:12px;">
+    <img src="/images/Social-networking-erased-destroyed.webp" alt="Meta AI moderacija i digitalno brisanje korisnika" style="width:100%; height:auto; border-radius:12px;">
   </a>
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">

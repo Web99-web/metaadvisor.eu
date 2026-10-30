@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bank of England", "inflation", "AI debt", "bonds", "ECB", "Fed", "oil", "Asia", "financial markets", "systemic risk"]
 description: "The Bank of England warned that the likelihood of interconnected financial-system vulnerabilities materializing at the same time has increased, while inflation is accelerating again across major eurozone economies."
 summary: "The Bank of England warned about the combination of an energy shock, extremely high bond yields and rapidly rising AI-related debt. At the same time, inflation has accelerated sharply again in France, Italy and Spain, while Asian markets remain relatively resilient."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

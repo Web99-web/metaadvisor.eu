@@ -7,14 +7,15 @@ translationKey: "hype-market-focus-rast-57-usd-2026-05-21"
 source: "Metaadvisor (market data, MarketWatch, WSJ)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/HYPE-up1.png"
-featured_image: "/images/HYPE-up1.png"
-image: "/images/HYPE-up1.png"
-thumbnail: "/images/HYPE-up1.png"
+image_url: "/images/HYPE-up1.webp"
+featured_image: "/images/HYPE-up1.webp"
+image: "/images/HYPE-up1.webp"
+thumbnail: "/images/HYPE-up1.webp"
 image_alt: "Hyperliquid HYPE ponovno u fokusu crypto tržišta nakon snažnog rasta cijene"
 image_credit: "Metaadvisor.eu"
 tags: ["hype", "hyperliquid", "crypto tržište", "kripto tržište", "altcoin", "blockchain", "decentralizirana burza", "dex", "perpetual futures", "on-chain trading", "synthetic assets", "rwa", "real world assets", "spacex", "pre-ipo", "digitalna imovina", "volatilnost", "fomo", "market focus", "tržišni fokus", "crypto analiza", "kripto analiza"]
 summary: "HYPE je ponovno privukao pažnju crypto tržišta nakon što je u 24 sata porastao za oko 18% i dotaknuo zonu oko 57 USD. Rast se povezuje sa širim interesom za Hyperliquid kao on-chain trading infrastrukturu, perpetual futures tržišta, synthetic assets i nove oblike digitalnog price discoveryja."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

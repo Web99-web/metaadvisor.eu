@@ -7,14 +7,15 @@ translationKey: "4f1b6d3baf8d91c5e7aa92bcbdf6a442"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Banks-want-control-crypto.png"
-featured_image: "/images/Banks-want-control-crypto.png"
-image: "/images/Banks-want-control-crypto.png"
-thumbnail: "/images/Banks-want-control-crypto.png"
+image_url: "/images/Banks-want-control-crypto.webp"
+featured_image: "/images/Banks-want-control-crypto.webp"
+image: "/images/Banks-want-control-crypto.webp"
+thumbnail: "/images/Banks-want-control-crypto.webp"
 image_alt: "Institutions and the Bitcoin market"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "bitcoin", "btc", "institutions", "wall street", "etf", "blackrock", "fed", "market", "volatility", "banks", "investing", "nasdaq", "macro", "capital", "finance"]
 summary: "More investors believe Bitcoin has become more stable because large institutions entered the market. But some analysts warn that institutional capital itself could become a new source of systemic risk."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

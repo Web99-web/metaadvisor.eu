@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-buries-the-tulip-myth-after-17-years-of-proven-resilience-balchunas"
 author: "Cointelegraph — Übersetzung und Analyse MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/BTC-tulips.png"
-featured_image: "/images/BTC-tulips.png"
-image: "/images/BTC-tulips.png"
-thumbnail: "/images/BTC-tulips.png"
+image_url: "/images/BTC-tulips.webp"
+featured_image: "/images/BTC-tulips.webp"
+image: "/images/BTC-tulips.webp"
+thumbnail: "/images/BTC-tulips.webp"
 image_alt: "Bitcoin vs. Tulpenmanie — Illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","tulpenmanie","blasen","burry","Michael Burry","balchunas","etf","crypto","analyse","institutionen","finanzen"]
 summary: "Bitcoin hat in 17 Jahren zahlreiche Marktzyklen überlebt und sich erholt, während die historische Tulpenmanie nur einmal platzte – und nie wieder zurückkehrte."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

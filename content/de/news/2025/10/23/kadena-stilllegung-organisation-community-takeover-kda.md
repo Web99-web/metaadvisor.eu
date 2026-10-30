@@ -15,6 +15,7 @@ image_alt: "Kadena — Nachricht und Analyse"
 image_credit: "Symbolisches Bild."
 tags: ["kadena","kda","bitcoin","krypto","layer1","pow","foundation","shutdown","community","dao","fork","miner","hashrate","exchange","delisting","wallet","open-source"]
 summary: "Die Organisation hinter Kadena stellt ihre Aktivitäten ein, das Netzwerk läuft technisch weiter. Wir analysieren, was das für KDA, Miner, Börsen und ein mögliches Community Takeover bedeutet."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

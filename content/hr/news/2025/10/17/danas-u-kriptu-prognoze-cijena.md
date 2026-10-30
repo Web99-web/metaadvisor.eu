@@ -14,6 +14,7 @@ image_alt: "Ilustracija tržišta kriptovaluta"
 image_credit: "Slika je simbolična."
 tags: ["crypto","kripto","bitcoin","btc","ethereum","eth","bnb","xrp","sol","doge","ada","hype","link","xlm","prognoze","tehnicka-analiza"]
 summary: "Pregled ključnih razina i tehničkih signala za vodeće kriptovalute na današnji dan (17.10.). Fokus je na bitcoinu i njegovom utjecaju na altcoine."
+categories: ["crypto"]
 ---
 
 {{< cta href="/go/mexc" text="👉 Trguj na MEXC" >}}

@@ -7,14 +7,15 @@ translationKey: "ftx-cursor-anysphere-missed-3b-opportunity"
 source: "CoinDesk"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Cursor-AI-Anysphere.png"
-featured_image: "/images/companies/Cursor-AI-Anysphere.png"
-image: "/images/companies/Cursor-AI-Anysphere.png"
-thumbnail: "/images/companies/Cursor-AI-Anysphere.png"
+image_url: "/images/companies/Cursor-AI-Anysphere.webp"
+featured_image: "/images/companies/Cursor-AI-Anysphere.webp"
+image: "/images/companies/Cursor-AI-Anysphere.webp"
+thumbnail: "/images/companies/Cursor-AI-Anysphere.webp"
 image_alt: "Cursor AI Anysphere former FTX stake $3 billion missed opportunity"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["ai","cursor","anysphere","ftx","crypto","blockchain","investicije","tehnologija","elon musk"]
 summary: "FTX je 2023. prodao udio u AI startupu Cursor za 200.000 dolara. Danas bi taj isti udio vrijedio oko 3 milijarde, što otvara pitanje je li stečajna rasprodaja uništila ogromnu vrijednost."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

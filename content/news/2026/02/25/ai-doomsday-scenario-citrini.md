@@ -7,14 +7,15 @@ translationKey: "ai-doomsday-feedback-loop-2026"
 source: "The Guardian Tech; Citrini Research (Substack)"
 source_url: "https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-doomsday-loop.png"
-featured_image: "/images/AI-doomsday-loop.png"
-image: "/images/AI-doomsday-loop.png"
-thumbnail: "/images/AI-doomsday-loop.png"
+image_url: "/images/AI-doomsday-loop.webp"
+featured_image: "/images/AI-doomsday-loop.webp"
+image: "/images/AI-doomsday-loop.webp"
+thumbnail: "/images/AI-doomsday-loop.webp"
 image_alt: "AI feedback loop scenario and economic impact"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["AI", "artificial intelligence", "Citrini Research", "AI economy", "automation", "unemployment", "market volatility", "macroeconomics", "AI agents", "Wall Street", "Uber", "Mastercard", "American Express", "DoorDash"]
 summary: "Citrini Research published a speculative AI doomsday scenario on Substack describing an economic feedback loop without brakes. Guardian Tech reports that markets reacted sharply, with several major companies experiencing notable declines."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

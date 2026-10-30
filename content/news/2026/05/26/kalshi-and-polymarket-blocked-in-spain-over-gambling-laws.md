@@ -15,6 +15,7 @@ image_alt: "Spanish flag as a symbol of the regulatory blockade of prediction ma
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "Polymarket", "Kalshi", "prediction markets", "Spain", "regulation", "gambling", "betting", "DGOJ", "online betting", "crypto regulation", "Europe", "blockchain"]
 summary: "Spanish authorities have ordered the blocking of Polymarket and Kalshi, treating the platforms as prediction markets that may operate like gambling services without the required license. The case shows how prediction markets increasingly sit between crypto innovation, financial markets and traditional gambling law."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">The image is symbolic.</p>

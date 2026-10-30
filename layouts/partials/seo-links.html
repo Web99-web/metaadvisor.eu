@@ -1,0 +1,45 @@
+{{- $number := 1 -}}
+{{- $canonical := .Permalink -}}
+{{- $listingKinds := slice "home" "section" "term" -}}
+{{- if in $listingKinds .Kind -}}
+  {{- $pager := .Paginate (partialCached "listing-pages.html" . .Lang .Path) -}}
+  {{- $number = $pager.PageNumber -}}
+  {{- if gt $number 1 -}}{{- $canonical = absURL $pager.URL -}}{{- end -}}
+{{- end -}}
+{{- $alternates := slice -}}
+{{- $tag := partialCached "tag-policy.html" . .Lang .Path -}}
+{{- $translations := .AllTranslations -}}
+{{- if $tag.IsTag -}}
+  {{- $translations = slice . -}}
+  {{- if $tag.Indexable -}}
+    {{- $translations = slice -}}
+    {{- $topic := index .Site.Data.tag_policy.topics $tag.Entry.topic -}}
+    {{- range $home := .Site.Home.AllTranslations -}}
+      {{- $s := $home.Site -}}
+      {{- with index $topic $s.Language.Lang -}}
+        {{- with $s.GetPage (printf "/tags/%s" .) -}}{{- $translations = $translations | append . -}}{{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- range $translations -}}
+  {{- $href := .Permalink -}}
+  {{- if gt $number 1 -}}
+    {{- $href = "" -}}
+    {{- if in $listingKinds .Kind -}}
+      {{- $pager := .Paginate (partialCached "listing-pages.html" . .Lang .Path) -}}
+      {{- if ge (len $pager.Pagers) $number -}}
+        {{- $href = absURL (index $pager.Pagers (sub $number 1)).URL -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $href -}}{{- $alternates = $alternates | append (dict "Lang" .Lang "URL" $href) -}}{{- end -}}
+{{- end -}}
+{{- $policy := partial "article-policy.html" . -}}
+{{- if $policy.Alias -}}{{- $canonical = $policy.Alias -}}{{- end -}}
+{{- $mapped := slice -}}
+{{- range $alternates -}}
+  {{- $u := index $.Site.Data.article_routes.aliases .URL | default .URL -}}
+  {{- $mapped = $mapped | append (dict "Lang" .Lang "URL" $u) -}}
+{{- end -}}
+{{- return (dict "Canonical" $canonical "Alternates" $mapped "Noindex" (not $policy.Preferred)) -}}

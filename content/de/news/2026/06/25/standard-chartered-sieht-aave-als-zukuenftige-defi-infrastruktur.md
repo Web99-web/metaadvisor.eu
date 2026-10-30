@@ -7,14 +7,15 @@ translationKey: "standard-chartered-vidi-aave-kao-buducu-defi-infrastrukturu-202
 source: "Cointelegraph, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AAVE-goes-DEFI.png"
-featured_image: "/images/AAVE-goes-DEFI.png"
-image: "/images/AAVE-goes-DEFI.png"
-thumbnail: "/images/AAVE-goes-DEFI.png"
+image_url: "/images/AAVE-goes-DEFI.webp"
+featured_image: "/images/AAVE-goes-DEFI.webp"
+image: "/images/AAVE-goes-DEFI.webp"
+thumbnail: "/images/AAVE-goes-DEFI.webp"
 image_alt: "Aave and DeFi infrastructure concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Aave", "DeFi", "Standard Chartered", "tokenisierte Vermögenswerte", "Real World Assets", "RWA", "Blockchain", "Lending-Protokoll", "DeFi-Infrastruktur", "Krypto", "Tokenisierung", "Finanzinfrastruktur", "Metaadvisor"]
 summary: "Standard Chartered sieht Aave als mögliche zukünftige DeFi-Infrastruktur für das Wachstum tokenisierter Vermögenswerte. Die Geschichte ist interessant, weil sie zeigt, warum auch eine große traditionelle Bank DeFi beobachtet — aber auch, warum Risiken wie Exploits, Sicherheiten und verbundene Protokolle nicht verschwinden."
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

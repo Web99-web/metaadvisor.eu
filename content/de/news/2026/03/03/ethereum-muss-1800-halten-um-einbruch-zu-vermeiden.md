@@ -15,6 +15,7 @@ image_alt: "Ethereum-Chart mit markierter Unterstützung bei 1.800 USD"
 image_credit: "Cointelegraph / Illustration"
 tags: ["ethereum", "eth", "krypto", "crypto", "altcoin", "trading", "technische analyse", "unterstützung", "mvrv", "onchain", "defi", "blockchain"]
 summary: "Ethereum steht erneut vor einer entscheidenden technischen Marke bei 1.800 USD. Analysten warnen, dass ein Bruch dieser Zone den Weg in Richtung 1.500 USD oder tiefer öffnen könnte."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

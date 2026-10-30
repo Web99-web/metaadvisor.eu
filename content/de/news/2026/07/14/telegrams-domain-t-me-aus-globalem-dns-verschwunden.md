@@ -7,14 +7,15 @@ translationKey: "telegram-tme-global-dns-2026-07-14"
 source: "ICANN, WHOIS, Pavel Durov, .ME Registry"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Telegram-t.me.png"
-featured_image: "/images/news/Telegram-t.me.png"
-image: "/images/news/Telegram-t.me.png"
-thumbnail: "/images/news/Telegram-t.me.png"
+image_url: "/images/news/Telegram-t.me.webp"
+featured_image: "/images/news/Telegram-t.me.webp"
+image: "/images/news/Telegram-t.me.webp"
+thumbnail: "/images/news/Telegram-t.me.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Telegram", "t.me", "DNS", ".me", "Montenegro", "serverHold", "Internetinfrastruktur", "Domains"]
 description: "Telegrams Domain t.me ist aus dem globalen DNS verschwunden. Links zu Kanälen, Gruppen und Bots funktionierten nicht mehr. Doch was hat Montenegro damit zu tun?"
 summary: "Telegrams Domain t.me ist aus dem globalen DNS verschwunden. Dadurch funktionierten Links zu Kanälen, Gruppen, Profilen und Bots nicht mehr. Doch was hat der Staat Montenegro damit zu tun? .me ist seine offizielle nationale Internetdomain."
+categories: ["tech"]
 ---
 
 # Telegrams Domain t.me ist aus dem globalen DNS verschwunden

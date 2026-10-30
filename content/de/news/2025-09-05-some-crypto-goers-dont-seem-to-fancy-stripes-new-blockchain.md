@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/stripe-blockchain-launch-tempo-crypt
 summary: "Stripe hat seine eigene Blockchain namens Tempo gestartet, doch die Reaktionen der Krypto-Community sind geteilt."
 tags: ["crypto", "stripe", "tempo", "stablecoin", "blockchain", "payments", "defi"]
 image_url: "/images/financial-chart.jpg"
+categories: ["crypto"]
 ---
 
 **Stripe**, ein globaler Gigant im Online-Payment-Bereich, hat **Tempo** vorgestellt – ein Blockchain-Projekt für Stablecoin-Transaktionen und digitale Zahlungen. Die Reaktionen in der Krypto-Community sind jedoch gespalten.  

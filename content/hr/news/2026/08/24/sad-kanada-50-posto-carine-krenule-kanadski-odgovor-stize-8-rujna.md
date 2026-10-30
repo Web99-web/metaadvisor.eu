@@ -6,15 +6,16 @@ category: "Economy"
 translationKey: "us-canada-50-percent-tariffs-start-22-08-and-08-09-2026"
 source: "Truth Social, White House, Department of Finance Canada, Prime Minister of Canada, Reuters, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
-featured_image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
-image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
-thumbnail: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.png"
+image_url: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
+featured_image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
+image: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
+thumbnail: "/images/news/US-Canada-50-tariffs-starts-22.08-and-08.09.2026.webp"
 image_alt: "SAD i Kanada ulaze u novu rundu 50-postotnih carina, s datumima 22. kolovoza i 8. rujna 2026."
 image_credit: "Metaadvisor.eu"
 tags: ["SAD", "Kanada", "carine", "trgovinski rat", "Trump", "economy", "industrija", "autoindustrija", "čelik", "tržišta"]
 description: "Američke carine od 50 posto na dio kanadskog izvoza počele su se primjenjivati 22. kolovoza, dok Kanada najavljuje odgovor od 8. rujna. Koji su sektori i kompanije najizloženiji?"
 summary: "Trump je u nedjelju rano ujutro ponovno zaoštrio retoriku prema Kanadi, ali tržišno važniji dio priče jest da su američke 50-postotne carine već krenule 22. kolovoza, dok Kanada od 8. rujna priprema vlastite protumjere."
+categories: ["Economy"]
 ---
 
 *Slika je simbolična.*

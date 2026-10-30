@@ -11,6 +11,7 @@ image_url: "https://i.guim.co.uk/img/media/28d38dbcb3194ad36fcb229a462050b59c4ce
 tags: ["ai", "apple", "iphone"]
 our_take: |
   Our view: Company also augments AirPods earbuds with live translation and reveals upgrades to Apple Watch Apple debuted its latest iPhone on Tuesday, trumpeting the smartphone’s slimmest design yet. Bigger picture: data/licensing, model quality, and policy risk drive outcomes. We like real distribution and defensible data moats.
+categories: ["news"]
 ---
 
 Company also augments AirPods earbuds with live translation and reveals upgrades to Apple Watch

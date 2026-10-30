@@ -15,6 +15,7 @@ image_alt: "ARK Invest verkauft Coinbase-Aktien und verlagert Kapital in Bullish
 image_credit: "MetaAdvisor.eu"
 tags: ["ark invest", "cathie wood", "coinbase", "bullish", "krypto aktien", "bitcoin", "krypto markt", "investmentstrategie"]
 summary: "ARK Invest hat Coinbase-Aktien im Wert von rund 17 Mio. USD verkauft und nahezu den gleichen Betrag in Bullish investiert – ein klares Signal für einen Strategiewechsel mitten im Krypto-Marktrückgang."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

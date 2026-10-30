@@ -6,10 +6,10 @@ category: "crypto"
 translationKey: "james-wynn-aster-3x-long"
 author: "Metaadvisor.eu"
 
-image_url: "/images/Aster-long.png"
-featured_image: "/images/Aster-long.png"
-image: "/images/Aster-long.png"
-thumbnail: "/images/Aster-long.png"
+image_url: "/images/Aster-long.webp"
+featured_image: "/images/Aster-long.webp"
+image: "/images/Aster-long.webp"
+thumbnail: "/images/Aster-long.webp"
 image_alt: "James Wynn ASTER 3x long (symbolic)"
 image_credit: "Metaadvisor.eu"
 
@@ -30,6 +30,7 @@ tags:
   - derivatives
 
 summary: "James Wynn, the pseudonymous trader behind a $1.2B BTC long with 40x leverage, is back — this time with a 3x long on ASTER. The tale of risk, liquidations, and airdrop farming raises fresh questions about the future of onchain perps."
+categories: ["crypto"]
 ---
 
 ## Introduction — James Wynn is back

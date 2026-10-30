@@ -5,14 +5,15 @@ date: 2025-09-22T08:10:00Z
 category: "news"
 translationKey: "c2e6f8a7d2d04e1a86b0e4e9d1a112ff"
 author: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "BTC flash drop — symbolic illustration"
 image_credit: "Metaadvisor (symbolic image)"
 tags: ["Bitcoin","BTC","flash-drop","long-squeeze","liquidations","derivatives","funding","open-interest","DXY","ETF","spot-vs-perps","liquidity","macro","consolidation"]
 summary: "This morning’s slide to ~112k was driven by a derivative-led long squeeze, amplified by a firmer USD and inconsistent ETF flows. Here’s the quick breakdown and what to watch over the next 72 hours."
+categories: ["news"]
 ---
 
 **Summary:**  

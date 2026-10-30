@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Bitcoin", "BTC", "Bitcoin ETF", "BlackRock", "IBIT", "Fidelity", "crypto", "ETF inflows"]
 description: "Bitcoin se povukao prema 76.000 dolara nakon snažnog rallyja, dok američki spot Bitcoin ETF-ovi i dalje bilježe snažne neto priljeve."
 summary: "BTC je pao oko 4% od nedavnog vrha blizu 79.500 dolara, ali spot Bitcoin ETF-ovi u pet dana privukli su gotovo 1,92 milijarde dolara neto priljeva."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

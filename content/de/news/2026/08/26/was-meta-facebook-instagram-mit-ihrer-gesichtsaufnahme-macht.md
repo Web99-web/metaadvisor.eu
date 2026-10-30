@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "what-meta-does-with-your-face-recording-2026-08-26"
 source: "Meta, Facebook Help Center, Instagram Help Center, Yoti, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-face-recording.png"
-featured_image: "/images/Meta/Meta-face-recording.png"
-image: "/images/Meta/Meta-face-recording.png"
-thumbnail: "/images/Meta/Meta-face-recording.png"
+image_url: "/images/Meta/Meta-face-recording.webp"
+featured_image: "/images/Meta/Meta-face-recording.webp"
+image: "/images/Meta/Meta-face-recording.webp"
+thumbnail: "/images/Meta/Meta-face-recording.webp"
 image_alt: "Was Meta mit der Aufnahme Ihres Gesichts bei Video-Selfie- und Identitätsprüfungen macht"
 image_credit: "Metaadvisor.eu – das Bild ist symbolisch"
 tags: ["Meta", "Facebook", "Instagram", "Gesichtserkennung", "Video-Selfie", "Gesichtsaufnahme", "Biometrie", "biometrische Daten", "Datenschutz", "DSGVO", "Yoti", "KI", "Identitätsprüfung", "Kontowiederherstellung", "Altersprüfung"]
 description: "Meta nutzt das Gesicht erneut für Identitätsprüfungen, Kontowiederherstellung und Altersbestimmung. Wer verarbeitet das Video-Selfie, wie lange wird es gespeichert und bleiben daraus abgeleitete Daten zurück?"
 summary: "Meta nutzt mehrere unterschiedliche Systeme zur Analyse von Gesichtern: Gesichtserkennung zur Identitätsprüfung, KI zur Altersschätzung und verschiedene Video-Selfie-Verfahren. Einige Aufnahmen werden auch von einem externen Unternehmen verarbeitet. Die zentrale Frage bleibt, was mit dem Originalvideo und den daraus entstandenen Daten geschieht."
+categories: ["Technology"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -116,7 +117,7 @@ Für gesperrte Nutzer gibt es noch ein weiteres praktisches Problem: Oft ist es 
 Wenn Login, Help Center und automatisierte Verfahren geschlossen sind, keine klare Antwort auf die Sperre oder auf Datenschutzfragen zur Gesichtsaufnahme erhältlich ist und alle Versuche im Kreis führen, bleibt eine Möglichkeit, die für einen der größten Technologiekonzerne der Welt fast absurd altmodisch wirkt: **Papier, Briefumschlag und Einschreiben**. Darüber haben wir hier geschrieben:
 
 <a href="https://metaadvisor.eu/de/news/facebook-gesperrt-einschreiben-meta-kontaktadresse/" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-Meta-address-for-registered-mail.png"
+<img src="/images/Meta/Facebook-Meta-address-for-registered-mail.webp"
      alt="Meta-Adresse für ein Einschreiben nach der Sperrung eines Facebook-Kontos"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

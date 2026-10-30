@@ -15,6 +15,7 @@ image_alt: "AI savjetnik širi dezinformacije o cjepivu"
 image_credit: "Slika je simbolična."
 tags: ["ai", "dezinformacije", "cjepiva", "Meta", "društvene mreže", "povjerenje", "tehnologija"]
 summary: "Otvorena je rasprava o tome kako Meta AI savjetnici komuniciraju o cjepivima i gdje počinje granica između mišljenja i dezinformacija."
+categories: ["ai"]
 ---
 
 **Ukratko:**  

@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/10/08/square-launches-bitcoin-payment-tools-for-small-businesses-expanding-crypto-access"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/square-btc-main-street.png"
-featured_image: "/images/square-btc-main-street.png"
-image: "/images/square-btc-main-street.png"
-thumbnail: "/images/square-btc-main-street.png"
+image_url: "/images/square-btc-main-street.webp"
+featured_image: "/images/square-btc-main-street.webp"
+image: "/images/square-btc-main-street.webp"
+thumbnail: "/images/square-btc-main-street.webp"
 image_alt: "Bitcoin-Zahlungen über Square-Terminals"
 image_credit: "Metaadvisor.eu (symbolisches Bild)"
 tags: ["crypto","bitcoin","payments","Square","Block","SMB","commerce","wallets","crypto-payments","main-street"]
 summary: "Square, die Payment-Sparte von Block (SQ), führt Tools ein, mit denen kleine Unternehmen in den USA Bitcoin-Zahlungen akzeptieren können – im ersten Jahr ohne Gebühren."
+categories: ["crypto"]
 ---
 
 **Square**, die Zahlungssparte von **Block (SQ)**, hat **Square Bitcoin** vorgestellt – einen Tool-Stack, mit dem kleine US-Unternehmen **Bitcoin akzeptieren**, Kartenerlöse **automatisch in BTC konvertieren** und **Wallet & Finanzen** in einer Oberfläche verwalten können.

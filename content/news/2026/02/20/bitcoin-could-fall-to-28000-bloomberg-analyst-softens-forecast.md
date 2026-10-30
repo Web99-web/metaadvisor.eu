@@ -7,14 +7,15 @@ translationKey: "7fa7d1f4be204b4a857c7540ea7deb8e"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/02/19/mike-mcglone-softens-bitcoin-downside-target-to-usd28-000-after-backlash-over-usd10-000-call"
 author: "CoinDesk"
-image_url: "/images/btc-28.000.png"
-featured_image: "/images/btc-28.000.png"
-image: "/images/btc-28.000.png"
-thumbnail: "/images/btc-28.000.png"
+image_url: "/images/btc-28.000.webp"
+featured_image: "/images/btc-28.000.webp"
+image: "/images/btc-28.000.webp"
+thumbnail: "/images/btc-28.000.webp"
 image_alt: "Bitcoin scenario at 28,000 USD"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["bitcoin", "btc", "crypto", "Bloomberg", "macroeconomics", "recession", "volatility", "forecast", "capital markets", "FED"]
 summary: "A Bloomberg macro analyst has softened his dramatic Bitcoin downside call from $10,000 to $28,000. The debate highlights broader questions about macroeconomics, volatility, and real risks for the crypto market."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

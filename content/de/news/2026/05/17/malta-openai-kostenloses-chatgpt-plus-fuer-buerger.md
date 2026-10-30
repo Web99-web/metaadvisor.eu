@@ -7,14 +7,15 @@ translationKey: "f486282165abeb6f2a496db6eddf688b"
 source: "Metaadvisor (Cointelegraph, OpenAI)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Malta-Free-ChatGPT-plus.png"
-featured_image: "/images/news/Malta-Free-ChatGPT-plus.png"
-image: "/images/news/Malta-Free-ChatGPT-plus.png"
-thumbnail: "/images/news/Malta-Free-ChatGPT-plus.png"
+image_url: "/images/news/Malta-Free-ChatGPT-plus.webp"
+featured_image: "/images/news/Malta-Free-ChatGPT-plus.webp"
+image: "/images/news/Malta-Free-ChatGPT-plus.webp"
+thumbnail: "/images/news/Malta-Free-ChatGPT-plus.webp"
 image_alt: "Malta und OpenAI starten kostenloses ChatGPT Plus für Bürger"
 image_credit: "Metaadvisor.eu"
 tags: ["openai", "chatgpt", "chatgpt plus", "ki", "kunstliche intelligenz", "malta", "eu", "digitalisierung", "ki bildung", "ai literacy", "tech", "future", "europe", "ai policy"]
 summary: "Malta und OpenAI haben das erste nationale Programm gestartet, das Bürgern nach Abschluss einer KI-Ausbildung kostenlosen Zugang zu ChatGPT Plus ermöglicht. Viele sehen darin den Beginn einer neuen Ära staatlicher KI-Partnerschaften."
+categories: ["ai"]
 ---
 
 <small><em>Das Bild ist symbolisch.</em></small>

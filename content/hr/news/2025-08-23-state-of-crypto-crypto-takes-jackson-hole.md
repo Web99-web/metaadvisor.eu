@@ -9,6 +9,7 @@ summary: "Ovog tjedna održana je godišnja konferencija SALT Wyoming. Dužnosni
 tags: ["jackson-hole","salt-wyoming","policy","regulation","crypto","congress","lummis","tim-scott","jenny-johnson","michelle-bowman","chris-waller","newsletter"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/e44e1ff5a6dd83ecb6be1e381d086793cbbdccae-2890x2306.jpg?rect=0,0,2890,1626&w=1920&h=1080&auto=format"
 image_alt: "Guverner Feda Chris Waller na pozornici tijekom SALT Wyoming konferencije"
+categories: ["crypto"]
 ---
 
 Ovog su tjedna na konferenciji **SALT Wyoming** u Jackson Holeu govorili donosioci politika različitih profila.

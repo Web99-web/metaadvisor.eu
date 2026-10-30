@@ -7,14 +7,15 @@ translationKey: "8111055fd5bd8a5a95efdafdfdf6dae4"
 source: "Metaadvisor (CoinDesk, Cointelegraph)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Binance-CZ-responds.png"
-featured_image: "/images/Binance-CZ-responds.png"
-image: "/images/Binance-CZ-responds.png"
-thumbnail: "/images/Binance-CZ-responds.png"
+image_url: "/images/Binance-CZ-responds.webp"
+featured_image: "/images/Binance-CZ-responds.webp"
+image: "/images/Binance-CZ-responds.webp"
+thumbnail: "/images/Binance-CZ-responds.webp"
 image_alt: "CZ spricht über eine mögliche Rückkehr von Binance auf den US-Markt"
 image_credit: "Metaadvisor.eu"
 tags: ["binance", "cz", "crypto", "krypto", "binance us", "coinbase", "kraken", "bitcoin", "ethereum", "crypto regulation", "clarity act", "stablecoins", "wall street", "trump", "crypto exchange", "blockchain"]
 summary: "Binance-Gründer Changpeng Zhao behauptet, konkurrierende US-Crypto-Börsen hätten versucht, seine Begnadigung zu blockieren, weil sie eine Rückkehr von Binance auf den amerikanischen Markt fürchten. Gleichzeitig versucht Binance.US erneut, seine Position in den USA auszubauen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

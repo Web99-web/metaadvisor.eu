@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "crypto-rally-btc-77500-zec-721-etf-inflows-2026-08-21"
 source: "CoinDesk, Cointelegraph, Wall Street Journal, Financial Times, CryptoRank, Grayscale, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/BTC-up.png"
-featured_image: "/images/daily-charts/BTC-up.png"
-image: "/images/daily-charts/BTC-up.png"
-thumbnail: "/images/daily-charts/BTC-up.png"
+image_url: "/images/daily-charts/BTC-up.webp"
+featured_image: "/images/daily-charts/BTC-up.webp"
+image: "/images/daily-charts/BTC-up.webp"
+thumbnail: "/images/daily-charts/BTC-up.webp"
 image_alt: "Bitcoin snažno raste dok se crypto rally širi na ZEC, Ethereum, AAVE, LINK i XRP"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Bitcoin", "BTC", "Zcash", "ZEC", "Ethereum", "ETH", "AAVE", "Chainlink", "LINK", "XRP", "Bitcoin ETF", "crypto rally", "short squeeze", "crypto"]
 description: "Bitcoin se drži oko 77.500 dolara nakon skoka gotovo do 80.000, dok američki spot Bitcoin ETF-ovi bilježe 1,6 milijardi dolara priljeva u četiri dana. ZEC je dosegnuo oko 721 dolar."
 summary: "Crypto rally se proširio s Bitcoina na ZEC, ETH, XRP, AAVE i LINK. ETF priljevi sada daju rastu dodatnu težinu nakon početnog short squeezea."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/cryptoquant-founder-slams-x-over-bot-spam-and-crypto-suppression"
 author: "Cointelegraph"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/X-ignoring-bots.png"
-featured_image: "/images/X-ignoring-bots.png"
-image: "/images/X-ignoring-bots.png"
-thumbnail: "/images/X-ignoring-bots.png"
+image_url: "/images/X-ignoring-bots.webp"
+featured_image: "/images/X-ignoring-bots.webp"
+image: "/images/X-ignoring-bots.webp"
+thumbnail: "/images/X-ignoring-bots.webp"
 image_alt: "Illustration von Bot-Spam und sinkender Reichweite von Krypto-Inhalten auf der Plattform X"
 image_credit: "MetaAdvisor.eu / symbolische Illustration"
 tags:
@@ -26,6 +26,7 @@ tags:
   - shadowban
   - soziale netzwerke
 summary: "Immer mehr legitime Krypto-Profile auf X verlieren an Reichweite, obwohl sie keinen Spam betreiben. Hauptursache scheint eine Kombination aus massivem Bot-Spam und algorithmischen Einschränkungen zu sein, die den gesamten Krypto-Bereich treffen."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-6px;">

@@ -8,14 +8,15 @@ source: "MetaAdvisor – prilagodba + Cointelegraph"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Bitcoin-ATM.png"
-featured_image: "/images/Bitcoin-ATM.png"
-image: "/images/Bitcoin-ATM.png"
-thumbnail: "/images/Bitcoin-ATM.png"
+image_url: "/images/Bitcoin-ATM.webp"
+featured_image: "/images/Bitcoin-ATM.webp"
+image: "/images/Bitcoin-ATM.webp"
+thumbnail: "/images/Bitcoin-ATM.webp"
 image_alt: "Bitcoin ATM ilustracija"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc bankomat", "kripto", "bitcoin atm", "crypto dispensers", "bankomati", "sad", "pranje novca", "kripto regulacija"]
 summary: "Bitcoin bankomati postoje već desetljeće, a u SAD-u su toliko uobičajeni da cijele kompanije posluju samo kroz njih. Jedna takva sada razmatra prodaju vrijednu 100 milijuna dolara."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["NEAR Intents", "NEAR", "Bitget", "hack", "exploit", "crypto", "cross-chain", "ZachXBT", "KuCoin"]
 description: "NEAR Intents pretrpio je exploit od oko 3,8 milijuna dolara zbog buga u cross-chain infrastrukturi, samo nekoliko dana nakon što je pomogao blokirati transfere povezane s Bitget hackom."
 summary: "NEAR Intents privremeno je zaustavio dio usluga nakon exploita vrijednog oko 3,8 milijuna dolara. Ranjivost je zakrpana, korisnicima je obećana puna naknada, a ukradena sredstva prema ZachXBT-u prebačena su preko KuCoina u Bitcoin."
+categories: ["hack"]
 ---
 
 *Slika je simbolična.*

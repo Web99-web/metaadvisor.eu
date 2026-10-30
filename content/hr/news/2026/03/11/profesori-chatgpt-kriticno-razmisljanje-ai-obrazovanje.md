@@ -16,6 +16,7 @@ image_alt: "AI i obrazovanje – studenti koriste umjetnu inteligenciju u učenj
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["ai","umjetna inteligencija","chatgpt","ai obrazovanje","ai u školama","kritičko razmišljanje","studenti","učitelji","tehnologija","edukacija","budućnost obrazovanja"]
 summary: "Profesori diljem svijeta pokušavaju pronaći način kako očuvati kritičko razmišljanje studenata u eri umjetne inteligencije. AI alati poput ChatGPT-a mijenjaju način na koji studenti uče, pišu i rješavaju zadatke."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

@@ -3,13 +3,15 @@ title: "Here’s what happened in crypto today"
 slug: "heres-what-happened-in-crypto-today"
 date: 2025-09-14T13:15:17Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-09-14"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today"
 image_url: "/images/finance1.jpg"
 image_alt: "Daily roundup of crypto market news"
 tags: ["crypto","macro","etf","policy","asia"]
 summary: "Pakistan opens licensing for crypto firms; spot BTC/ETH ETFs log strong inflows; Wall Street veterans see rising institutional allocations; debate on future stablecoin tickers; BTC hovers near $115k."
+categories: ["crypto"]
+url: "/news/heres-what-happened-in-crypto-today-2025-09-14/"
 ---
 
 **Top stories today:**

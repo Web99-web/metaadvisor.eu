@@ -6,15 +6,16 @@ category: "News"
 translationKey: "trump-hormuz-us-territory"
 source: "Truth Social, Reuters, CNA, The Times of Israel, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Trump-Hormuz-US-territory.png"
-featured_image: "/images/news/Trump-Hormuz-US-territory.png"
-image: "/images/news/Trump-Hormuz-US-territory.png"
-thumbnail: "/images/news/Trump-Hormuz-US-territory.png"
+image_url: "/images/news/Trump-Hormuz-US-territory.webp"
+featured_image: "/images/news/Trump-Hormuz-US-territory.webp"
+image: "/images/news/Trump-Hormuz-US-territory.webp"
+thumbnail: "/images/news/Trump-Hormuz-US-territory.webp"
 image_alt: "Donald Trump posts a map labeling the Strait of Hormuz as New U.S. Territory"
 image_credit: "Metaadvisor.eu – image is illustrative"
 tags: ["Donald Trump", "Strait of Hormuz", "Iran", "United States", "Truth Social", "oil", "geopolitics"]
 description: "Donald Trump posted a map on his Truth Social network showing the Strait of Hormuz labeled as 'New U.S. Territory'. The post itself does not change the legal status of the strategic waterway."
 summary: "Donald Trump posted a map on Truth Social labeling the Strait of Hormuz as 'New U.S. Territory', days after earlier remarks about potentially declaring it U.S. territory."
+categories: ["News"]
 ---
 
 # Trump posts map: Hormuz as "new U.S. territory"

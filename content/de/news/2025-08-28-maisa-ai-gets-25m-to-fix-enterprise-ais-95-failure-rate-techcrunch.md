@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterpri
 summary: "Maisa AI setzt auf verantwortliche KI-Agenten anstelle intransparenter Blackbox-Systeme, um Enterprise-Automatisierung erfolgreich zu machen."
 tags: ["ai","MaisaAI","Enterprise","Automation","Creandum"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/maisa-ai-funding.jpg"
+categories: ["ai"]
 ---
 
 Laut einem Bericht der MIT-Initiative NANDA **scheitern 95 % aller generativen KI-Pilotprojekte in Unternehmen**. Statt die Technologie aufzugeben, experimentieren führende Organisationen mit **agentenbasierten KI-Systemen**, die lernfähig und überwachbar sind.

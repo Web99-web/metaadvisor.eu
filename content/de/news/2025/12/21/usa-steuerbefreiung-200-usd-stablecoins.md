@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "Cointelegraph — Übersetzung und Analyse Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/200-usd-tax-exemption.png"
-featured_image: "/images/200-usd-tax-exemption.png"
-image: "/images/200-usd-tax-exemption.png"
-thumbnail: "/images/200-usd-tax-exemption.png"
+image_url: "/images/200-usd-tax-exemption.webp"
+featured_image: "/images/200-usd-tax-exemption.webp"
+image: "/images/200-usd-tax-exemption.webp"
+thumbnail: "/images/200-usd-tax-exemption.webp"
 image_alt: "Steuerbefreiung bis 200 USD für Stablecoin-Zahlungen in den USA"
 image_credit: "MetaAdvisor Illustration"
 tags: ["stablecoins", "krypto-zahlungen", "steuern", "krypto-regulierung", "usa", "gesetz", "staking", "mining"]
 summary: "US-Gesetzgeber schlagen eine Steuerbefreiung bis 200 USD für kleine Stablecoin-Zahlungen sowie eine Steuerstundung für Staking- und Mining-Erträge vor."
+categories: ["news"]
 ---
 
 # Steuerbefreiung für kleine Krypto-Zahlungen in den USA

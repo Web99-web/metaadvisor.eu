@@ -7,14 +7,15 @@ translationKey: "c9a1f6e7d2b44a8f9e3c5d7b1a2f6c90"
 author: "Metaadvisor.eu"
 source: "Öffentliche Debatten, rechtliche Verfahren, technologische Analysen"
 source_url: ""
-image_url: "/images/private-messages.png"
-featured_image: "/images/private-messages.png"
-image: "/images/private-messages.png"
-thumbnail: "/images/private-messages.png"
+image_url: "/images/private-messages.webp"
+featured_image: "/images/private-messages.webp"
+image: "/images/private-messages.webp"
+thumbnail: "/images/private-messages.webp"
 image_alt: "Private Nachrichten und Kommunikationsverschlüsselung"
 image_credit: "Illustration"
 tags: ["whatsapp datenschutz","meta daten","nachrichten verschluesselung","ai moderation","accenture outsourcing","datenschutz","digitale privatsphaere","cloud backup","cyber sicherheit","whatsapp sicherheit"]
 summary: "WhatsApp nutzt Verschlüsselung, doch es gibt Punkte, an denen Nachrichten dieses System verlassen können. Wo passiert das und wer könnte dann Zugriff auf die Daten haben?"
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

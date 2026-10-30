@@ -28,6 +28,7 @@ tags:
   - asset-managers
   - europe-expansion
 summary: "Boerse Stuttgart Digital opens a Madrid office, growing to eight European hubs. Backed by a BaFin-issued MiCAR license, it offers crypto trading and custody for banks, brokers and asset managers."
+categories: ["crypto"]
 ---
 
 **TL;DR:** **Boerse Stuttgart Digital**, the crypto arm of the **Stuttgart Stock Exchange Group**, has opened a **Madrid** office, extending its footprint to **eight European hubs** (including Frankfurt, Zurich and Milan). It provides **crypto trading and custody** for **banks, brokers and asset managers**, aligned with the EU’s **MiCAR** regime.

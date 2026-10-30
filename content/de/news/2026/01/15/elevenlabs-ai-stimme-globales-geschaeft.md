@@ -7,10 +7,10 @@ translationKey: "elevenlabs_voice_ai_330m_arr_2026"
 source: "TechCrunch / Bloomberg"
 source_url: "https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/"
 author: "MetaAdvisor.eu"
-image_url: "/images/ElevenLabs-voice-AI.png"
-featured_image: "/images/ElevenLabs-voice-AI.png"
-image: "/images/ElevenLabs-voice-AI.png"
-thumbnail: "/images/ElevenLabs-voice-AI.png"
+image_url: "/images/ElevenLabs-voice-AI.webp"
+featured_image: "/images/ElevenLabs-voice-AI.webp"
+image: "/images/ElevenLabs-voice-AI.webp"
+thumbnail: "/images/ElevenLabs-voice-AI.webp"
 image_alt: "ElevenLabs verzeichnet starkes Wachstum im Bereich KI-generierte Stimmen"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Das Voice-AI-Startup ElevenLabs hat die Marke von 330 Millionen US-Dollar Jahresumsatz überschritten und unterstreicht damit, wie schnell KI-Stimmen von einer Nischentechnologie zu einem ernsthaften globalen Geschäft geworden sind."
@@ -22,6 +22,7 @@ tags:
   - voice_ai
   - technologie
   - startup
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

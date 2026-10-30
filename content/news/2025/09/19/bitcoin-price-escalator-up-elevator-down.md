@@ -16,6 +16,7 @@ image_alt: "Bitcoin price drops (symbolic illustration)"
 image_credit: "MetaAdvisor image map (symbolic image)"
 tags: ["crypto", "bitcoin", "markets"]
 summary: "Friday selloff erased earlier gains. BTC failed to clear $118,000 and slid to about $115,600; ETH, SOL and DOGE also turned lower."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

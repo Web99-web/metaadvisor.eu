@@ -7,14 +7,15 @@ translationKey: "nevada_ai_goldrush_20251204"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers"
 author: "Metaadvisor.eu – Analyse"
-image_url: "/images/Nevada-AI-goldrush.png"
-featured_image: "/images/Nevada-AI-goldrush.png"
-image: "/images/Nevada-AI-goldrush.png"
-thumbnail: "/images/Nevada-AI-goldrush.png"
+image_url: "/images/Nevada-AI-goldrush.webp"
+featured_image: "/images/Nevada-AI-goldrush.webp"
+image: "/images/Nevada-AI-goldrush.webp"
+thumbnail: "/images/Nevada-AI-goldrush.webp"
 image_alt: "Nevada AI Data Center Boom"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ai","nevada","usa","data-center","infrastruktur","cloud","rechenleistung","silicon valley","google","microsoft","tesla","industrie","energie","wachstum","techlandschaft"]
 summary: "Nevada erlebt seinen zweiten Goldrausch – diesmal nicht mit Schaufeln und Goldpfannen, sondern mit KI-Rechenzentren, Energieinfrastruktur und globalen Tech-Giganten, die sich um Wüstenflächen reißen."
+categories: ["ai"]
 ---
 
 # CTA

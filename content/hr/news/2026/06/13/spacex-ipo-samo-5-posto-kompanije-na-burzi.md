@@ -7,14 +7,15 @@ translationKey: "spacex-ipo-only-five-percent-shares-allocation-2026-06-13"
 source: "Reuters, WSJ, MarketWatch, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/SpaceX-ipo-12.06.2026.png"
-featured_image: "/images/companies/SpaceX-ipo-12.06.2026.png"
-image: "/images/companies/SpaceX-ipo-12.06.2026.png"
-thumbnail: "/images/companies/SpaceX-ipo-12.06.2026.png"
+image_url: "/images/companies/SpaceX-ipo-12.06.2026.webp"
+featured_image: "/images/companies/SpaceX-ipo-12.06.2026.webp"
+image: "/images/companies/SpaceX-ipo-12.06.2026.webp"
+thumbnail: "/images/companies/SpaceX-ipo-12.06.2026.webp"
 image_alt: "SpaceX IPO i ograničena alokacija dionica"
 image_credit: "Metaadvisor.eu"
 tags: ["SpaceX", "SpaceX IPO", "SPCX", "Elon Musk", "IPO", "alokacija dionica", "retail investitori", "Nasdaq", "dionice", "burza", "javna ponuda", "IPO allocation", "retail allocation", "tokenizirane dionice", "xStocks", "Metaadvisor"]
 summary: "SpaceX je u IPO-u pustio na tržište samo oko 5% kompanije. Iako je retail dobio neuobičajeno velik dio ponude, potražnja je bila toliko velika da mnogi ulagači nisu mogli dobiti količine koje su željeli kupiti."
+categories: ["news"]
 ---
 
 Slika je simbolična.
@@ -60,7 +61,7 @@ Ako ima dovoljno dionica, korisnik može dobiti sve što je tražio. Ako nema do
 
 <figure style="max-width:520px; margin:26px auto; text-align:center;">
   <a href="https://metaadvisor.eu/hr/news/xstocks-zapeo-na-spacex-ipo-u-bybit-binance-wallet-bitget-kraken-vracaju-novac-coinbase-perps/" target="_blank" rel="noopener">
-    <img src="/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.png" alt="xStocks i SpaceX IPO: visoka potražnja i ograničene dionice" style="width:100%; height:auto; border-radius:12px;">
+    <img src="/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.webp" alt="xStocks i SpaceX IPO: visoka potražnja i ograničene dionice" style="width:100%; height:auto; border-radius:12px;">
   </a>
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     <a href="https://metaadvisor.eu/hr/news/xstocks-zapeo-na-spacex-ipo-u-bybit-binance-wallet-bitget-kraken-vracaju-novac-coinbase-perps/" target="_blank" rel="noopener">

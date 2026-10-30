@@ -7,14 +7,15 @@ translationKey: "4e3c7f91a5d041cdbbe6dfbd6d910f20"
 source: "Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/wi-fi-vas-moze-vidjeti.png"
-featured_image: "/images/wi-fi-vas-moze-vidjeti.png"
-image: "/images/wi-fi-vas-moze-vidjeti.png"
-thumbnail: "/images/wi-fi-vas-moze-vidjeti.png"
+image_url: "/images/wi-fi-vas-moze-vidjeti.webp"
+featured_image: "/images/wi-fi-vas-moze-vidjeti.webp"
+image: "/images/wi-fi-vas-moze-vidjeti.webp"
+thumbnail: "/images/wi-fi-vas-moze-vidjeti.webp"
 image_alt: "Wi-Fi router i ljudska silueta — simbolična ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["wifi","80211bf","wifi sensing","tech","tehnologija","privatnost","cybersecurity","radio","CSI","router","smart home","AI","IoT"]
 summary: "Priča da ‘Wi-Fi može vidjeti’ nije clickbait: novi standard 802.11bf službeno uvodi Wi-Fi sensing. Objašnjavamo što tehnologija doista može, gdje su granice i kako štititi privatnost."
+categories: ["tech"]
 ---
 
 Do nas je došla priča da nas Wi-Fi može “vidjeti” — kako je lažnih vijesti sve više i teško je dokučiti što je istina, odlučili smo provjeriti. Zaključak: istraživanja postoje **godinama** (razni timovi, više zemalja), a sada je stigla i **službena potvrda** kroz **IEEE 802.11bf** — standard koji **uvodi Wi-Fi sensing u rutere**.

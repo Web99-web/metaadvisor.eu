@@ -15,6 +15,7 @@ image_alt: "Kadena — news and analysis"
 image_credit: "Symbolic image."
 tags: ["kadena","kda","bitcoin","crypto","layer1","pow","foundation","shutdown","community","dao","fork","miners","hashrate","exchange","delisting","wallet","open-source"]
 summary: "The organization behind Kadena is shutting down operations, while the blockchain technically continues to run. We analyze what this means for KDA, miners, exchanges and a possible community takeover."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

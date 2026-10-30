@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["HYPE", "Hyperliquid", "OTC", "Token-Unlock", "institutioneller Käufer", "Krypto", "DeFi", "Whale", "Tokenomics"]
 description: "Ein institutioneller Käufer soll über einen privaten OTC-Deal das gesamte Paket von 3,75 Millionen HYPE-Token übernehmen, das einen Marktwert von rund 329 Millionen Dollar hat."
 summary: "Hyperliquid Labs hat das Unstaking von 3,75 Millionen HYPE-Token für die Oktober-Zuteilung an das Team gestartet. Das gesamte Paket soll von einem institutionellen Käufer über eine OTC-Transaktion übernommen werden. Identität des Käufers, tatsächlicher Preis und ein möglicher Lock-up sind bislang nicht öffentlich."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

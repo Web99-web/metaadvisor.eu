@@ -9,6 +9,7 @@ summary: "Die Käufe, die in Handelsmeldungen veröffentlicht wurden, umfassen 3
 tags: ["ark", "arkinvest", "etf", "bitmine", "bullish", "crypto", "ethereum", "eth", "aktien", "investitionen"]
 image_url: "/images/Cathie_Wood_ARK_Invest_Photo.jpg"
 image_attribution: "Foto: Cathie Wood, Autorin Caroline Wood, CC BY-SA 4.0"
+categories: ["nachrichten"]
 ---
 
 Cathie Woods ARK Invest hat am Freitag seine Wetten auf krypto­bezogene Aktien verstärkt und über 23,5 Mio. USD in BitMine Immersion Technologies (BMNR) und die Kryptobörse Bullish, die Muttergesellschaft von CoinDesk, über drei seiner aktiv verwalteten ETFs investiert.

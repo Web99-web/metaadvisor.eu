@@ -15,6 +15,7 @@ image_alt: "Jupiter Lend — Leitfaden für Einsteiger"
 image_credit: "Metaadvisor.eu"
 tags: ["finanzen", "finanzierung", "jupiter", "solana", "lend", "defi", "lending", "borrow", "kredit", "cash", "security", "solana-ecosystem", "yield", "geld", "kryptokredit", "kryptofinanzierung", "kryptodarlehen", "solana-lending", "collateral", "liquidität", "risiko", "zinsen", "leihen", "defi-guide", "solana-guide", "kreditaufnahme", "wallet-sicherheit"]
 summary: "Jupiter Lend ermöglicht schnelle, dezentrale Kredite und Collateral-Lending auf Solana. Wir erklären, wie es funktioniert – sicher und verständlich."
+categories: ["defi"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

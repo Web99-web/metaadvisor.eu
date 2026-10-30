@@ -7,14 +7,15 @@ translationKey: "fc6df9ded4c00363faa324c62ba2b88f"
 source: "Metaadvisor (The Guardian, Reuters, Bloomberg)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Samsung-AI-chip.png"
-featured_image: "/images/companies/Samsung-AI-chip.png"
-image: "/images/companies/Samsung-AI-chip.png"
-thumbnail: "/images/companies/Samsung-AI-chip.png"
+image_url: "/images/companies/Samsung-AI-chip.webp"
+featured_image: "/images/companies/Samsung-AI-chip.webp"
+image: "/images/companies/Samsung-AI-chip.webp"
+thumbnail: "/images/companies/Samsung-AI-chip.webp"
 image_alt: "Samsung AI memorijski čipovi i rekordni bonusi radnicima"
 image_credit: "Metaadvisor.eu"
 tags: ["samsung", "ai", "umjetna inteligencija", "čipovi", "memorijski čipovi", "semiconductor", "poluvodiči", "sk hynix", "micron", "ai boom", "podatkovni centri", "radnici", "bonusi", "sindikati", "tehnologija", "burza", "tržišna kapitalizacija", "bilijun dolara", "memory chips", "ai infrastruktura"]
 summary: "Samsungovi radnici u memorijskoj chip diviziji trebali bi dobiti rekordne bonuse nakon dogovora sa sindikatima. AI boom više ne puni samo burzovne valuacije, nego se sve jasnije prelijeva i na plaće, bonuse i pregovaračku moć zaposlenika u ključnim tehnološkim sektorima."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

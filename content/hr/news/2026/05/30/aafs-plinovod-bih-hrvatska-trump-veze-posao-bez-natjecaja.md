@@ -7,14 +7,15 @@ translationKey: "aafs-bih-croatia-pipeline-guardian-2026"
 source: "Metaadvisor (The Guardian)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.png"
-featured_image: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.png"
-image: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.png"
-thumbnail: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.png"
+image_url: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.webp"
+featured_image: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.webp"
+image: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.webp"
+thumbnail: "/images/companies/AAFS-pipeline-deal-Bosnia-Croatia.webp"
 image_alt: "AAFS pipeline deal Bosnia Croatia project"
 image_credit: "Metaadvisor.eu"
 tags: ["AAFS", "BiH", "Bosna i Hercegovina", "Hrvatska", "plinovod", "Južna interkonekcija", "energetika", "plin", "LNG", "Krk", "The Guardian", "natječaj", "transparentnost", "infrastruktura", "američka firma", "Balkan", "energetska sigurnost", "ruski plin"]
 summary: "Prema pisanju Guardiana, američka firma AAFS Infrastructure and Energy dobila je ključnu ulogu u projektu plinovoda BiH–Hrvatska vrijednom oko milijardu dolara, i to bez javnog natječaja. Priča otvara pitanja o transparentnosti, iskustvu firme i načinu na koji se veliki energetski projekti dodjeljuju na Balkanu."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">Slika je simbolična.</p>

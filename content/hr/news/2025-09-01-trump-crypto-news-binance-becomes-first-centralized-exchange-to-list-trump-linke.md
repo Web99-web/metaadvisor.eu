@@ -9,6 +9,7 @@ summary: "Binance otvara spot parove WLFI/USDT i WLFI/USDC, označavajući prije
 tags: ["Trump","WLFI","Binance","crypto","exchange","listing","DeFi","Ethereum","BSC","Solana"]
 image_url: "https://www.coindesk.com/resizer/v2/WT4J2CG7DZEHXP54VIFC5X4QHE.jpg?auth=6c30f1c850d232b1b80d4ed8b5a9f99e58d683e1c6f7f27d0f13b77a1f33262b&width=1200"
 image_url_small: "https://www.coindesk.com/resizer/v2/WT4J2CG7DZEHXP54VIFC5X4QHE.jpg?auth=6c30f1c850d232b1b80d4ed8b5a9f99e58d683e1c6f7f27d0f13b77a1f33262b&width=600"
+categories: ["crypto"]
 ---
 
 Binance je prva kripto burza koja je listala **World Liberty Financial (WLFI)**, DeFi projekt povezan s obitelji Trump. Trgovanje je počelo u ponedjeljak poslijepodne po UTC vremenu, dok su depoziti već aktivni, a povlačenja zakazana za utorak.  

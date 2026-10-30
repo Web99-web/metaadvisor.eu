@@ -15,6 +15,7 @@ image_alt: "Ethereum (ETH) as the foundational infrastructure for decentralized 
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Analysts increasingly point to $15,000 as a potential Ethereum price level by 2027, driven by staking, reduced supply, and growing institutional adoption."
 tags: ["ethereum", "eth", "crypto", "staking", "defi", "tokenization", "institutional adoption"]
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

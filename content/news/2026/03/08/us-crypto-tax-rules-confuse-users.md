@@ -8,14 +8,15 @@ author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/US-crypto-tax-2026.png"
-featured_image: "/images/US-crypto-tax-2026.png"
-image: "/images/US-crypto-tax-2026.png"
-thumbnail: "/images/US-crypto-tax-2026.png"
+image_url: "/images/US-crypto-tax-2026.webp"
+featured_image: "/images/US-crypto-tax-2026.webp"
+image: "/images/US-crypto-tax-2026.webp"
+thumbnail: "/images/US-crypto-tax-2026.webp"
 image_alt: "US crypto tax rules 2026"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["crypto", "bitcoin", "crypto tax", "US tax", "IRS", "crypto regulation", "coinbase", "bitcoin tax", "stablecoin", "gas fee", "crypto compliance", "digital assets tax"]
 summary: "New U.S. tax reporting rules introduce the 1099-DA form for cryptocurrency transactions. Coinbase warns that the system could create significant administrative complexity for millions of retail crypto users."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

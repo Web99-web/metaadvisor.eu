@@ -7,14 +7,15 @@ translationKey: "gamestop-ebay-acquisition-2026"
 source: "Metaadvisor (Reuters, GameStop, market sources)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Gamestop-buying-Ebay.png"
-featured_image: "/images/companies/Gamestop-buying-Ebay.png"
-image: "/images/companies/Gamestop-buying-Ebay.png"
-thumbnail: "/images/companies/Gamestop-buying-Ebay.png"
+image_url: "/images/companies/Gamestop-buying-Ebay.webp"
+featured_image: "/images/companies/Gamestop-buying-Ebay.webp"
+image: "/images/companies/Gamestop-buying-Ebay.webp"
+thumbnail: "/images/companies/Gamestop-buying-Ebay.webp"
 image_alt: "GameStop attempts to acquire eBay in a major market move"
 image_credit: "Metaadvisor.eu"
 tags: ["gamestop", "ebay", "meme stock", "acquisition", "stock market", "investing", "trading", "retail investors", "wall street", "financial analysis"]
 summary: "GameStop is attempting to acquire eBay in a deal worth over $50 billion despite being significantly smaller. The move raises questions about whether market hype can once again finance major corporate acquisitions."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

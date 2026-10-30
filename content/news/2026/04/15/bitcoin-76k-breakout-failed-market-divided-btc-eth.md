@@ -15,6 +15,7 @@ image_alt: "Bitcoin and Ethereum market and price movement"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "ethereum", "crypto market", "trading", "analysis", "blockchain", "ai", "crypto", "finance"]
 summary: "Bitcoin failed to break $76K and returned to $73K as analysts still expect a possible drop to $50K, while at the same time signals for a potential short squeeze and market recovery are increasing."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

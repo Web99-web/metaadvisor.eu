@@ -7,15 +7,16 @@ translationKey: "26d06b711c276c2011279b553e2043d0"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (Cointelegraph, tržišni podaci)"
 source_url: ""
-image_url: "/images/news/Oil-at-180-and-BTC.png"
-featured_image: "/images/news/Oil-at-180-and-BTC.png"
-image: "/images/news/Oil-at-180-and-BTC.png"
+image_url: "/images/news/Oil-at-180-and-BTC.webp"
+featured_image: "/images/news/Oil-at-180-and-BTC.webp"
+image: "/images/news/Oil-at-180-and-BTC.webp"
 thumbnail: "/images/news/Oil-at-180-and-BTC.pngg"
 image_alt: "Nafta i Bitcoin – utjecaj cijene energije na kripto tržište"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "nafta", "inflacija", "fed", "kamate", "crypto", "kripto", "btc", "tržište", "makroekonomija", "geopolitika"]
 summary: "Mogući skok cijene nafte prema 180 dolara mogao bi snažno utjecati na inflaciju, kamatne stope i cijenu Bitcoina. Donosimo analizu što to znači za tržišta."
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

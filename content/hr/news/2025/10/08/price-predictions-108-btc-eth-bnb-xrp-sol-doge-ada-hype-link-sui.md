@@ -16,6 +16,7 @@ image_alt: "Bitcoin i Ether – tržišni pregled"
 image_credit: "Metaadvisor.eu (slika simbolična)"
 tags: ["crypto","price-prediction","technical-analysis","bitcoin","btc","ethereum","eth","binance-coin","bnb","xrp","solana","sol","dogecoin","doge","cardano","ada","chainlink","link","sui","hype","support-resistance","rsi","moving-averages","market-outlook"]
 summary: "Dnevni tehnički pregled ključnih kovanica. Fokus na trendu, zonama podrške/otpora i scenarijima za BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK i SUI."
+categories: ["crypto"]
 ---
 
 U nastavku je sažetak tehničkih razina i scenarija za **BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK** i **SUI**. Nije financijski savjet – već pregled tipičnih točaka koje profesionalni trejderi prate (trend, S/R zone, momentum indikatori kao **RSI** i pokretni prosjeci).

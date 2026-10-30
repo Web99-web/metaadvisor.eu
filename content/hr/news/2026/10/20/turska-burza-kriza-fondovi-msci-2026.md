@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Turkey", "Turkish Stock Market", "BIST 100", "MSCI", "Emerging Markets", "Investment Funds", "Stock Market", "Financial Markets", "Market Regulation", "Liquidity", "US Treasuries", "Global Economy", "Business"]
 description: "Turska burza bilježi najveći mjesečni pad od 2008., a 131 fond ide u likvidaciju. MSCI upozorava na tržišne probleme. Provjeravamo viralne tvrdnje."
 summary: "Turski BIST 100 u rujnu je izgubio 16,65 posto, dok su vlasti naredile likvidaciju 131 investicijskog fonda. MSCI je zamrznuo određene indeksne promjene i upozorio na moguću promjenu klasifikacije tržišta 2027. godine. Za viralne tvrdnje o bilijunu lira gubitaka u jednom jutru te hitnoj rasprodaji američkih obveznica i zlata zasad nema pouzdane potvrde."
+categories: ["business"]
 ---
 
 *Slika je simbolična.*

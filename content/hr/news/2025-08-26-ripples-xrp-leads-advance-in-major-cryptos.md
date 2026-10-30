@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/26/xrp-jumps-8-to-top-mark
 summary: "Solana, dogecoin i ether također su porasli, dok su CME kripto futuresi dosegli 30 mlrd. $ otvorenog interesa, što signalizira rastuću institucionalnu potražnju."
 tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/d502eb0a60fc0021f07f61d4384c701994c880c0-5160x4128.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 Altcoini su se u utorak snažno oporavili nakon naglog pada u prethodnih 48 sati, pri čemu su trgovci niže cijene iskoristili kao priliku za ponovni ulazak na tržište. XRP je predvodio oporavak, porastavši 6% u posljednja 24 sata.

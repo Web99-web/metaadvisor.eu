@@ -8,14 +8,15 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/"
 author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/slate-truck.png"
-featured_image: "/images/slate-truck.png"
-image: "/images/slate-truck.png"
-thumbnail: "/images/slate-truck.png"
+image_url: "/images/Slate-truck.webp"
+featured_image: "/images/Slate-truck.webp"
+image: "/images/Slate-truck.webp"
+thumbnail: "/images/Slate-truck.webp"
 image_alt: "Slate Auto električni kamion"
 image_credit: "Slika je simbolična."
 tags: ["EV", "električni kamion", "Slate Auto", "TechCrunch Disrupt 2025", "mobilnost", "startupi", "proizvodnja", "supply chain", "Christine Barman", "Chrysler", "autonomna vožnja", "ADAS"]
 summary: "Na TechCrunch Disruptu 2025 (27.–29. listopada), koji će okupiti 10.000+ sudionika, CEO Slate Auta Christine Barman planira uživo predstaviti novi električni kamion i govoriti o inovacijama, opskrbnim lancima i skaliranju proizvodnje."
+categories: ["news"]
 ---
 
 **TechCrunch Disrupt 2025** u San Franciscu (27.–29. listopada) okupit će više od **10.000 osnivača, investitora, operatera i tehnoloških vizionara**. Na glavnoj pozornici, **Christine (Chris) Barman**, izvršna direktorica **Slate Auta**, **planira** javno otkriti potpuno novi **električni kamion** — prije nego što ga itko vidi na cesti.

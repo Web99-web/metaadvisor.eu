@@ -1,4 +1,6 @@
 ---
+type: news
+url: /hr/cloud-mining-vs-staking-sto-je-isplativije-2025/
 title: "Cloud mining ili staking — što je isplativije 2025.? (objašnjeno za ‘obične ljude’)"
 slug: "cloud-mining-vs-staking-sto-je-isplativije-2025"
 date: 2025-09-18T07:10:00Z
@@ -15,6 +17,7 @@ image_alt: "Cloud mining vs. staking — jednostavno objašnjenje"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","cloud-mining","staking","bitcoin","ethereum","prinos","rizik","profitability","metaadvisor"]
 summary: "Cloud mining = ‘unajmi moju opremu i možda zaradi’; staking = ‘zaključaš svoje coine i dobiješ naknadu u istom coinu’. 2025. za većinu malih ulagača staking je razumljiviji i predvidljiviji — cloud mining rijetko pobjeđuje kupnju i držanje."
+categories: ["crypto"]
 ---
 
 Zamisli da imaš **1.000 €** i pitaš se: “Kako od kripta napraviti **džeparac**?” Dvije najglasnije opcije su **cloud mining** i **staking**. Jedna zvuči kao **iznajmljivanje rudarske opreme** (bez da je posjeduješ), druga kao **oročenje vlastitih coina**. Krenimo redom, bez žargona.

@@ -7,15 +7,16 @@ translationKey: "harmony-napad-navodno-stvorene-4-milijarde-one-2026-08-12"
 source: "Harmony, Cointelegraph, CoinDesk, CoinGecko"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/exploit-alert.png"
-featured_image: "/images/hack/exploit-alert.png"
-image: "/images/hack/exploit-alert.png"
-thumbnail: "/images/hack/exploit-alert.png"
+image_url: "/images/hack/exploit-alert.webp"
+featured_image: "/images/hack/exploit-alert.webp"
+image: "/images/hack/exploit-alert.webp"
+thumbnail: "/images/hack/exploit-alert.webp"
 image_alt: "Harmony ONE Sicherheitsvorfall und die angeblich unautorisierte Erzeugung von fast vier Milliarden Token"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Harmony", "ONE", "Harmony Exploit", "Krypto-Hack", "Blockchain", "Cybersicherheit", "DeFi", "Krypto", "Token Minting", "Rollback"]
 description: "Harmony untersucht einen schweren Sicherheitsvorfall nach Behauptungen, dass ein Angreifer unautorisiert fast vier Milliarden ONE-Token erzeugt hat – rund 26 Prozent des bisherigen Token-Angebots."
 summary: "Harmony hat Börsen aufgefordert, Gelder einzufrieren, seine Bridge pausiert und bereitet einen Notfall-Patch vor, nachdem behauptet wurde, ein Angreifer habe fast vier Milliarden neue ONE-Token erzeugt. Rund 2,8 Milliarden davon sollen schnell an Kryptobörsen transferiert worden sein."
+categories: ["crypto"]
 ---
 
 *Das Bild dient nur zur Illustration.*

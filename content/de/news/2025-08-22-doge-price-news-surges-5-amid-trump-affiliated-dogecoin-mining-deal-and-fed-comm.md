@@ -8,6 +8,7 @@ summary: A $50 million Trump-linked acquisition of a DOGE mining firm, Wyoming�
   of a state-backed stablecoin, and comments from Federal Reserve officials signaling
   a softer stance on digital assets all converged to trigger fresh institutiona
 title: 'DOGE Preis-News: Anstieg um 5 % im Zuge von Trump-verbundenem Dogecoin-Mining-Deal und Fed-Kommentaren'
+categories: ["news"]
 ---
 
 Dogecoin legte am Dienstag zu, nachdem eine Reihe regulatorischer und unternehmerischer Faktoren die Stimmung im Kryptosektor veränderten. Eine Trump-nahe Übernahme eines DOGE-Mining-Unternehmens im Wert von 50 Millionen US-Dollar, die Einführung eines staatlich gestützten Stablecoins in Wyoming und Kommentare von Fed-Beamten, die eine mildere Haltung gegenüber digitalen Vermögenswerten signalisieren, führten zusammen zu frischen institutionellen Zuflüssen.

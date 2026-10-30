@@ -23,6 +23,7 @@ tags:
   - ulaganja
   - kripto tržište
 summary: "BlackRockov IBIT među je najjačim ETF-ovima po priljevima u 2025., iako bilježi negativne prinose. Analitičari to vide kao znak dugoročne institucionalne uvjerenosti u Bitcoin."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

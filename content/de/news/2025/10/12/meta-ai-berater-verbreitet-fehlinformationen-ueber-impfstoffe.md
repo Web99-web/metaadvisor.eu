@@ -15,6 +15,7 @@ image_alt: "AI-Berater verbreitet Fehlinformationen über Impfstoffe"
 image_credit: "Symbolisches Bild."
 tags: ["ai", "Fehlinformation", "Impfstoffe", "Meta", "soziale Medien", "Technologie"]
 summary: "Die Rolle der Meta AI-Berater steht erneut im Fokus, nachdem Vorwürfe über die Verbreitung von Fehlinformationen zu Impfstoffen aufgetaucht sind."
+categories: ["ai"]
 ---
 
 **Kurz gefasst:**  

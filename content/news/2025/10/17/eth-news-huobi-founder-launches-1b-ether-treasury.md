@@ -16,6 +16,7 @@ image_alt: "Ether (ETH) with vault motif — symbolic of institutional accumulat
 image_credit: "Illustrative image"
 tags: ["crypto","ethereum","eth","huobi","li-lin","avenir-capital","fenbushi","hashkey","meitu","trust","treasury","institutional","hong-kong","nasdaq","etf","asia","onchain","staking"]
 summary: "Li Lin (Huobi / Avenir Capital) is pooling leading Asian investors into a $1B Ether treasury aimed at methodically accumulating and holding ETH, with a potential Nasdaq structure under consideration."
+categories: ["crypto"]
 ---
 
 {{< cta href="/go/mexc" text="👉 Trade ETH on MEXC" >}}

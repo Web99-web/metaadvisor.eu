@@ -7,6 +7,7 @@ tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/0dfcc4d7c71fa2880b01af9aab8bf1de0ab3225e-3780x2124.jpg"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/08/21/crypto-exchange-gemini-secures-mica-license-in-malta-expands-european-footprint"
+categories: ["crypto"]
 ---
 
 Gemini, the crypto exchange backed by the billionaire Winklevoss twins, has secured a Markets in Crypto Assets (MiCA) license from the Malta Financial Services Authority (MFSA) , strengthening its bid to expand across the European Union under the bloc’s new regulatory framework, the company said in a blog post Thursday.

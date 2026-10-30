@@ -7,14 +7,15 @@ translationKey: "c47f3165acc7c447a39058ff4b762818"
 author: "Metaadvisor.eu"
 source: "Cointelegraph, Cardano Foundation, DFX.swiss i Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/Cardano-ADA-Spar.png"
-featured_image: "/images/Cardano-ADA-Spar.png"
-image: "/images/Cardano-ADA-Spar.png"
-thumbnail: "/images/Cardano-ADA-Spar.png"
+image_url: "/images/Cardano-ADA-Spar.webp"
+featured_image: "/images/Cardano-ADA-Spar.webp"
+image: "/images/Cardano-ADA-Spar.webp"
+thumbnail: "/images/Cardano-ADA-Spar.webp"
 image_alt: "Cardano ADA plaćanje Spar Švicarska"
 image_credit: "Metaadvisor.eu"
 tags: ["cardano","ada","kripto plaćanje","spar","švicarska","blockchain","crypto retail","cardano foundation","dfx swiss","digitalna imovina"]
 summary: "Cardano ADA token sada se može koristiti za plaćanje u 137 Spar supermarketa u Švicarskoj. Projekt predstavlja jedan od najvećih testova kripto plaćanja u maloprodaji u Europi i pokazuje kako blockchain postupno ulazi u svakodnevnu ekonomiju."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

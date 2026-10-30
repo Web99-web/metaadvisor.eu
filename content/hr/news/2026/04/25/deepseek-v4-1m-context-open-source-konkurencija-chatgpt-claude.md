@@ -15,6 +15,7 @@ image_alt: "DeepSeek V4 AI model competing with ChatGPT and Claude"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["ai","deepseek","umjetna inteligencija","chatgpt","claude","open source","tehnologija","ai modeli"]
 summary: "DeepSeek V4 donosi 1M context i open-source pristup, uz potencijal da konkurira modelima poput ChatGPT-a i Claudea. No što to znači za korisnike i developere?"
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

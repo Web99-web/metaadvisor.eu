@@ -6,15 +6,16 @@ category: "business"
 translationKey: "eu-carine-kineske-auto-gume-2026-08-14"
 source: "European Commission, EUR-Lex"
 author: "Metaadvisor.eu"
-image_url: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
-featured_image: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
-image: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
-thumbnail: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
+image_url: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
+featured_image: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
+image: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
+thumbnail: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
 image_alt: "Chinesische Autoreifen und neue Antidumpingzölle der Europäischen Union"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["EU", "China", "Autoreifen", "Zölle", "Antidumping", "Europäische Kommission", "Import", "Automobilindustrie", "Preise", "Handel"]
 description: "Die Europäische Union hat endgültige Antidumpingzölle auf bestimmte chinesische Reifen für Pkw und leichte Nutzfahrzeuge eingeführt. Für einzelne Hersteller liegen die Sätze bei mehr als 45 Prozent."
 summary: "Chinesische Autoreifen sind in der EU nicht verboten, doch die neuen Antidumpingzölle könnten ihre Preise und ihre Wettbewerbsfähigkeit auf dem europäischen Markt deutlich verändern."
+categories: ["business"]
 ---
 
 *Das Bild ist symbolisch.*

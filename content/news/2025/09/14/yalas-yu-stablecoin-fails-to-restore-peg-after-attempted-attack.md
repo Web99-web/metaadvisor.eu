@@ -10,6 +10,7 @@ image_url: "/images/grafikon.jpg"
 image_alt: "Price chart showing YU stablecoin below $1"
 tags: ["stablecoin","defi","security"]
 summary: "YU, a BTC-collateralized stablecoin on Yala, fell below its peg following a security incident and hasn’t held $1 despite a partial rebound."
+categories: ["ai"]
 ---
 
 **What happened?**  

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/27/nvidia-shares-edge-lowe
 summary: "Bitcoin and other cryptos showed some volatility, but were mostly flat in the minutes following the report."
 tags: ["crypto","BTC","ETH","XRP","Nvidia","earnings"]
 image_url: "https://www.coindesk.com/resizer/b3x6c4XzDvsXyP0Lx5tN0c9C94k=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3XH75JZ3ZZGDRB2WZFHJZQ4JTI.jpg"
+categories: ["crypto"]
 ---
 
 Nvidia (NVDA) reported stronger-than-expected earnings for the second quarter on Wednesday, posting revenue of $46.7 billion, a 56% increase from a year earlier.

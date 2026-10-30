@@ -7,14 +7,15 @@ translationKey: "oil-rise-btc-drop-76k-april-2026"
 source: "Metaadvisor (Cointelegraph, tržišni podaci)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "Nafta raste Brent i WTI dok Bitcoin pada ispod 77k"
 image_credit: "Metaadvisor.eu"
 tags: ["nafta", "bitcoin", "crypto", "brent", "wti", "energija", "trziste", "makro"]
 summary: "Cijene nafte ponovno rastu nakon stagnacije, Brent prelazi 105 USD, WTI 101 USD, dok Bitcoin pada prema 76.000 USD pod pritiskom makro tržišta."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

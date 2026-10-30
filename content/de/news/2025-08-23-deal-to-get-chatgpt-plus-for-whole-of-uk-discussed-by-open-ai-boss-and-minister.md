@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/politics/2025/aug/23/uk-minister-peter-
 summary: "Exklusiv: Ein Deal, der bis zu 2 Mrd. £ kosten könnte, wurde bei einem Treffen zwischen Technologieminister Peter Kyle und Sam Altman erörtert"
 tags: ["ai", "openai", "chatgpt", "uk", "public-services"]
 image_url: "https://i.guim.co.uk/img/media/55e045641d9df43e2f4c6ecfd36161da879a7b45/609_0_3502_2801/master/3502.jpg?crop=none&dpr=1&s=none&width=1200"
+categories: ["ai"]
 ---
 
 Exklusiv: Ein Deal, der bis zu 2 Mrd. £ kosten könnte, wurde bei einem Treffen zwischen Technologieminister Peter Kyle und Sam Altman diskutiert.

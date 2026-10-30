@@ -15,6 +15,7 @@ image_alt: "UK FCA i kripto regulacija do 2027."
 image_credit: "Public domain / illustrative"
 tags: ["uk","fca","kripto","regulacija","crypto","defi","staking","burze","zakon","financije"]
 summary: "Britanski regulator FCA pokreće opsežnu reformu kripto-tržišta s ciljem pune primjene novih pravila do 2027. godine."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

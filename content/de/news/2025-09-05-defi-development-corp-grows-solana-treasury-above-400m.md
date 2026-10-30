@@ -7,6 +7,7 @@ source: "MetaAdvisor Research"
 summary: "Institutionelles Kapital fließt in Solana: DeFi Development Corp erhöht Treasury auf über 400 Mio. USD und stärkt das Vertrauen in das DeFi-Ökosystem."
 tags: ["crypto", "defi", "solana", "sol", "treasury", "blockchain", "altcoins", "investing", "ethereum", "eth", "bitcoin", "btc"]
 image_url: "/images/solana1.jpg"
+categories: ["crypto"]
 ---
 
 Die **DeFi Development Corp (DDC)** hat ihre Investitionen in **Solana (SOL)** weiter verstärkt, wodurch ihre Treasury nun einen Wert von über **400 Mio. USD** erreicht. Damit gehört DDC zu den größten institutionellen Inhabern von Solana und sendet ein klares Signal des Vertrauens in diese Blockchain.  

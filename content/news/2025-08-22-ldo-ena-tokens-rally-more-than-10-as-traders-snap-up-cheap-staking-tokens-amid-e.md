@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/lido-ethena-rally-more-
 summary: "Lido and ethena surged double digits Friday as both tokens look to return to last week's highs."
 tags: ["crypto"]
 image: "/news/2025-08-22-ldo-ena-tokens-rally-more-than-10-as-traders-snap-up-cheap-staking-tokens-amid-e.png"
+categories: ["crypto"]
 ---
 
 Crypto traders bought the dip in several Ethereum staking tokens on Friday, lifting the likes of lido (LDO) and ethena ENA $ 0.7572 up by 14% and 15%, respectively.

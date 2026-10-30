@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/bitcoin-remains-under-p
 summary: "Zlato se u četvrtak popelo za gotovo 1% i približilo povijesnom rekordu od 3.500 USD po unci."
 tags: ["bitcoin","crypto","BTC","Ethereum","XRP","Solana","gold"]
 image_url: "https://www.coindesk.com/resizer/vhzM7rE_XCXLtK78u8h8v1wMiDw=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/btc-price-aug28.jpg"
+categories: ["crypto"]
 ---
 
 Kripto tržište u četvrtak je pokušalo s kratkim oporavkom, no popodnevna trgovina u SAD-u donijela je **kontinuiranu prodaju**.

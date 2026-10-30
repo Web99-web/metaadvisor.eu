@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/20/kevin-durant-recovers-bitcoin-bought-at-usd650-now-up-over-17-700-after-nearly-a-decade"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Kevin-Durant-coinbase.png"
-featured_image: "/images/Kevin-Durant-coinbase.png"
-image: "/images/Kevin-Durant-coinbase.png"
-thumbnail: "/images/Kevin-Durant-coinbase.png"
+image_url: "/images/Kevin-Durant-coinbase.webp"
+featured_image: "/images/Kevin-Durant-coinbase.webp"
+image: "/images/Kevin-Durant-coinbase.webp"
+thumbnail: "/images/Kevin-Durant-coinbase.webp"
 image_alt: "Kevin Durant — povrat pristupa Coinbase Bitcoin računu"
 image_credit: "Metaadvisor.eu — simbolična ilustracija"
 tags: ["crypto", "bitcoin", "Kevin Durant", "Coinbase", "oporavak računa", "2FA", "sigurnost", "onboarding"]
 summary: "Nakon gotovo desetljeća zaključanog pristupa, Kevin Durant vratio je kontrolu nad svojim Coinbase računom. Donosimo vremensku crtu, vjerojatne uzroke i kako oporavak stvarno funkcionira kod mjenjačnica."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -9,6 +9,7 @@ summary: "Exklusiv: Beschäftigte sagen, der 500.000-Pfund-Vertrag mit dem US-Un
 tags: ["ai","Palantir","öffentlicher Sektor","UK"]
 image_url: "https://i.guim.co.uk/img/media/f29f72d8a3797a0db6ecce62f1588ad4c08046c0/0_0_3500_2100/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=2d6e6b6d5e8c"
 image_url_small: "https://i.guim.co.uk/img/media/f29f72d8a3797a0db6ecce62f1588ad4c08046c0/0_0_3500_2100/master/3500.jpg?width=600&quality=80&auto=format&fit=max&s=2d6e6b6d5e8c"
+categories: ["ai"]
 ---
 
 Beschäftigte des öffentlichen Sektors haben „tiefe Besorgnis“ geäußert, nachdem der Stadtrat von Coventry einen **jährlichen KI‑Vertrag über 500.000 Pfund** mit der US‑Firma **Palantir** unterzeichnet hat:contentReference[oaicite:12]{index=12}. Es ist der erste Vertrag dieser Art zwischen einer britischen Kommune und dem in Denver ansässigen Datenunternehmen, das Technologien an die israelischen Streitkräfte liefert und an **Trumps Abschiebungsprogrammen** beteiligt war:contentReference[oaicite:13]{index=13}.

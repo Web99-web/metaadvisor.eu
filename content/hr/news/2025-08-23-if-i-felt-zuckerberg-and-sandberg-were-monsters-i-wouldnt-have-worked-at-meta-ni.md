@@ -9,6 +9,7 @@ summary: "Bivši britanski potpredsjednik vlade i donedavni predsjednik globalni
 tags: ["ai","meta","facebook","instagram","whatsapp","nick-clegg","mark-zuckerberg","sheryl-sandberg","elon-musk","donald-trump","jd-vance","keir-starmer","rachel-reeves","sloboda-govora","silicijska-dolina","eu","brexit","politika","knjige"]
 image_url: "https://i.guim.co.uk/img/media/ce3501a60b73c977d07524064abbd3b835e96ed1/0_1117_5352_5334/master/5352.jpg?width=1200&dpr=1&s=none"
 image_alt: "Nick Clegg sjedi uz rub stola, bijela košulja, portret – fotografija The Guardian/David Vintiner"
+categories: ["ai"]
 ---
 
 **Ukratko:** Nick Clegg, bivši potpredsjednik britanske vlade, a potom predsjednik globalnih poslova u Meti, u opsežnom razgovoru brani svoje nasljeđe, analizira „tech-bro“ kulturu Silicijske doline, raspravlja o granicama moderiranja sadržaja i upozorava na koncentraciju moći u nadolazećoj eri „agentskog“ AI-ja. Kaže da ne bi radio u Meti da je mislio kako su **Mark Zuckerberg** i **Sheryl Sandberg** „monstrumi“, te da bi političari – uključujući **Keira Starmera** i **Rachel Reeves** – trebali „zamahivati većim potezima“.

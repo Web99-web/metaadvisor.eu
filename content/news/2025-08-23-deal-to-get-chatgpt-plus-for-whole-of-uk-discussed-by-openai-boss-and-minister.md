@@ -9,6 +9,7 @@ summary: "Exclusive: A plan reportedly worth up to £2bn to give all UK resident
 tags: ["ai","openai","chatgpt","chatgpt-plus","uk","peter-kyle","sam-altman","government","policy","privacy","copyright","subscription"]
 image_url: "https://i.guim.co.uk/img/media/55e045641d9df43e2f4c6ecfd36161da879a7b45/609_0_3502_2801/master/3502.jpg?crop=none&dpr=1&s=none&width=1200"
 image_alt: "Sam Altman, CEO of OpenAI"
+categories: ["ai"]
 ---
 
 **Exclusive:** A deal that could have cost **£2bn** was raised during a meeting between technology secretary **Peter Kyle** and **Sam Altman**.

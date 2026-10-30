@@ -6,10 +6,10 @@ category: "crypto"
 translationKey: "dat-konsolidacija"
 author: "MetaAdvisor"
 source: "CoinDesk, MetaAdvisor analysis"
-image_url: "/images/DAT-digital-asset-treasuries.png"
-featured_image: "/images/DAT-digital-asset-treasuries.png"
-image: "/images/DAT-digital-asset-treasuries.png"
-thumbnail: "/images/DAT-digital-asset-treasuries.png"
+image_url: "/images/DAT-digital-asset-treasuries.webp"
+featured_image: "/images/DAT-digital-asset-treasuries.webp"
+image: "/images/DAT-digital-asset-treasuries.webp"
+thumbnail: "/images/DAT-digital-asset-treasuries.webp"
 image_alt: "Digital Asset Treasuries"
 image_credit: "Metaadvisor.eu"
 
@@ -25,6 +25,7 @@ tags:
   - MicroStrategy
 
 summary: "Digital Asset Treasury firme ulaze u novu fazu: od strateških vizija i usporedbe s Berkshire Hathawayom do konkretnih spajanja poput Strive–Semler, što označava početak vala konsolidacije."
+categories: ["crypto"]
 ---
 
 ## Nova faza DAT-ova

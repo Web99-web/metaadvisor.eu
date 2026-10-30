@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/btc-rebounds-2-6-as-eth
 summary: "Bitcoin je odskočio od ključne podrške nakon što je Powell nagovijestio snižavanje kamata, što je izazvalo 375 milijuna USD likvidacija dok je Ether predvodio s rastom od 10%."
 tags: ["bitcoin", "crypto"]
 image: "/news/2025-08-22-bitcoin-btc-and-ethers-eth-violent-price-spike-prompts-375m-in-futures-liquidati.png"
+categories: ["crypto"]
 ---
 
 Bitcoin (BTC) na vrijednosti od **115.766,97 USD** odskočio je s podrške na **111.800 USD** u petak, skočivši za 2,6% na 114.800 USD nakon što je predsjednik Federalnih rezervi Jerome Powell u govoru u Jackson Holeu nagovijestio moguće rezove kamatnih stopa.  

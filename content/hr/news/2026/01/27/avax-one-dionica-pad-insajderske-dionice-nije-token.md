@@ -7,14 +7,15 @@ translationKey: "93e721a2b5381009936d1a71ba894503"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/27/anthony-scaramucci-linked-avax-one-tumbles-30-on-uncertainty-around-shareholder-sales"
 author: "MetaAdvisor.eu"
-image_url: "/images/Avax-one-shares.png"
-featured_image: "/images/Avax-one-shares.png"
-image: "/images/Avax-one-shares.png"
-thumbnail: "/images/Avax-one-shares.png"
+image_url: "/images/Avax-one-shares.webp"
+featured_image: "/images/Avax-one-shares.webp"
+image: "/images/Avax-one-shares.webp"
+thumbnail: "/images/Avax-one-shares.webp"
 image_alt: "Pad dionice AVAX One – simbolična ilustracija tržišnog pada"
 image_credit: "MetaAdvisor / ilustracija"
 tags: ["avax", "avax one", "dionice", "kripto", "insajderi", "razrjeđenje", "sec", "burza", "investitori", "volatilnost"]
 summary: "Dionica AVAX Onea pala je više od 30% nakon registracije insajderskih dionica za moguću prodaju. Pad nema veze s AVAX tokenom, već s tržišnim strahom od razrjeđenja i gubitka povjerenja."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777;">

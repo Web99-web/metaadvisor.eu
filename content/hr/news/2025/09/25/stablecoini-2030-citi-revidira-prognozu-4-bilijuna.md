@@ -29,6 +29,7 @@ tags:
   - uae
   - adoption
 summary: "Citi podiže baznu prognozu izdanja stablecoina do 2030. na 1,9 bilijuna $ (bull: 4 bilijuna $). Uz visoku brzinu opticaja, to bi moglo poduprijeti do 100+ bilijuna $ godišnjih transakcija — dok bi bankovni tokeni i depoziti na lancu mogli ostvariti još veći promet."
+categories: ["news"]
 ---
 
 **Kratko:** Tržište **stablecoina** širi se brže od očekivanja: izdanje je od početka 2025. poraslo s oko **200 mlrd $** na **~280 mlrd $**. **Citi** zato diže 2030. prognoze: **1,9 bilijuna $** (bazni scenarij) i **4 bilijuna $** (bull), u odnosu na ranijih 1,6/3,7 bilijuna $. Ako **brzina opticaja** stablecoina približno prati fiat, mogla bi poduprijeti **~100 bilijuna $** godišnjeg prometa u bazi i **do 200 bilijuna $** u bull scenariju.

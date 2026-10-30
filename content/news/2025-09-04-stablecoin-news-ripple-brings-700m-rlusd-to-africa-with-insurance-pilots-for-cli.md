@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/04/ripple-brings-usd700m-
 summary: "Stablecoins are gaining traction in cross-border payments, especially in emerging markets where access to reliable currencies and banks is limited."
 tags: ["Ripple", "Stablecoin", "RLUSD", "Africa", "climate", "crypto"]
 image_url: "https://images.pexels.com/photos/4386373/pexels-photo-4386373.jpeg"
+categories: ["crypto"]
 ---
 
 Ripple, the payments-focused digital asset firm, is expanding its U.S. dollar-backed stablecoin Ripple USD (RLUSD) to institutions in Africa through new partnerships with Chipper Cash, VALR and Yellow Card distributors.

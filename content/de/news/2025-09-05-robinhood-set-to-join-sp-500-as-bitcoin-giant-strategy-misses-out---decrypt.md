@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/338344/robinhood-set-to-join-sp-500-as-bitcoin-g
 summary: "Die Robinhood-Aktien stiegen um 7 %, nachdem das krypto-orientierte Fintech in den S&P 500 aufgenommen wurde."
 tags: ["bitcoin", "crypto", "robinhood", "mstr", "stocks", "sp500"]
 image_url: "/images/robinhood-sp500.jpg"
+categories: ["crypto"]
 ---
 
 Die Aktien von **Robinhood (HOOD)** stiegen im nachbörslichen Handel um 7 %, nachdem bekannt wurde, dass das stark krypto-orientierte Fintech in den **S&P 500** aufgenommen wird.  

@@ -26,6 +26,7 @@ tags:
   - efficiency
   - USA
 summary: "In September, CleanSpark produced 629 BTC, sold 445 BTC (~$48.7M) and increased its treasury to 13,011 BTC, with an average operational hashrate of ~45.6 EH/s."
+categories: ["crypto"]
 ---
 
 **What happened?**  

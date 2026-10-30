@@ -3,18 +3,19 @@ title: "Ondo Finance im Fokus: Kommen Aktien auf die Blockchain und verändert s
 slug: "ondo-finance-tokenisierung-aktien-blockchain-zukunft"
 date: 2026-03-31T06:30:00+01:00
 category: "crypto"
-translationKey: "7ee5a89332f38ccf99e6c7628e6ffc40"
+translationKey: "7ee5a89332f38ccf99e6c7628e6ffc40--2026-03-31"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (CoinDesk, Cointelegraph, Marktdaten)"
 source_url: ""
-image_url: "/images/companies/ONDO-finance.png"
-featured_image: "/images/companies/ONDO-finance.png"
-image: "/images/companies/ONDO-finance.png"
-thumbnail: "/images/companies/ONDO-finance.png"
+image_url: "/images/companies/ONDO-finance.webp"
+featured_image: "/images/companies/ONDO-finance.webp"
+image: "/images/companies/ONDO-finance.webp"
+thumbnail: "/images/companies/ONDO-finance.webp"
 image_alt: "Ondo Finance und die Tokenisierung von Aktien auf der Blockchain"
 image_credit: "MetaAdvisor.eu"
 tags: ["ondo", "ondo finance", "rwa", "tokenisierung", "aktien", "blockchain", "metamask", "mexc", "krypto", "etf"]
 summary: "Ondo Finance baut schnell Infrastruktur für tokenisierte Aktien und ETFs durch Partnerschaften mit MetaMask und MEXC auf, während der Markt zunehmend die Grenze zwischen Wall Street und Blockchain verwischt."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

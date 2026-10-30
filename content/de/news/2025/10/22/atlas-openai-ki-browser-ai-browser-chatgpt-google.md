@@ -16,6 +16,7 @@ image_alt: "OpenAI Atlas Browser"
 image_credit: "Symbolisches Bild."
 tags: ["ai","openai","atlas","chatgpt","browser","altman","techcrunch","ki-browser","ai-browser","search","google","ai-trends"]
 summary: "OpenAI stellt Atlas vor – einen KI-Browser (AI-Browser), der ChatGPT ins Zentrum von Suche und Web-Nutzung rückt."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

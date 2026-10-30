@@ -16,6 +16,7 @@ image_alt: "Web3 logo with network icons"
 image_credit: "Symbolic image."
 tags: ["web3", "UX", "onboarding", "blockchain", "MetaMask", "bridges", "multichain", "new users"]
 summary: "Fragmented, multi-chain UX is Web3’s biggest hurdle for newcomers — from network switches to bridges. The proposed fixes hide complexity and put applications before infrastructure."
+categories: ["news"]
 ---
 
 Imagine someone’s **first day in crypto**. They hear the promises of owning money, accessing global markets, joining a new economy. They download a wallet, buy some ETH, find an app — and then hit a **wall of confusion**.

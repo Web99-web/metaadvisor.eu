@@ -7,15 +7,16 @@ translationKey: "samsung-micron-sandisk-padaju-zbog-kine-2026-07-28"
 source: "Reuters, Associated Press, Barron’s i The Guardian"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/Stock-drop-price-down.png"
-featured_image: "/images/daily-charts/Stock-drop-price-down.png"
-image: "/images/daily-charts/Stock-drop-price-down.png"
-thumbnail: "/images/daily-charts/Stock-drop-price-down.png"
+image_url: "/images/daily-charts/Stock-drop-price-down.webp"
+featured_image: "/images/daily-charts/Stock-drop-price-down.webp"
+image: "/images/daily-charts/Stock-drop-price-down.webp"
+thumbnail: "/images/daily-charts/Stock-drop-price-down.webp"
 image_alt: "Burzovni grafikon u padu tijekom rasprodaje dionica Samsunga, Microna i SanDiska"
 image_credit: "Metaadvisor.eu"
 tags: ["Samsung Electronics", "Micron", "SanDisk", "SK Hynix", "CXMT", "KOSPI", "memorijski čipovi", "DRAM", "NAND", "HBM memorija", "kineski čipovi", "tržište poluvodiča", "AI dionice", "burzovni pad"]
 description: "Samsung, SK Hynix, Micron i SanDisk snažno padaju nakon kineskog IPO-a CXMT-a i novih strahova od konkurencije u memorijskim čipovima."
 summary: "KOSPI je pao gotovo 11 posto nakon sloma Samsunga i SK Hynixa, dok su strah od kineskog CXMT-a i napredak domaće litografske opreme pokrenuli globalnu rasprodaju proizvođača memorije."
+categories: ["markets"]
 ---
 
 # Samsung, Micron i SanDisk padaju zbog Kine

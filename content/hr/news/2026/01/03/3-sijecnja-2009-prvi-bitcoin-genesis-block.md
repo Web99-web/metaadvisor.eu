@@ -7,14 +7,15 @@ translationKey: "bitcoin_genesis_block_2009"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-first-mining-3.1.2009.png"
-featured_image: "/images/BTC-first-mining-3.1.2009.png"
-image: "/images/BTC-first-mining-3.1.2009.png"
-thumbnail: "/images/BTC-first-mining-3.1.2009.png"
+image_url: "/images/BTC-first-mining-3.1.2009.webp"
+featured_image: "/images/BTC-first-mining-3.1.2009.webp"
+image: "/images/BTC-first-mining-3.1.2009.webp"
+thumbnail: "/images/BTC-first-mining-3.1.2009.webp"
 image_alt: "Simbolična ilustracija prvog rudarenja Bitcoina i Genesis Blocka 3. siječnja 2009."
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "genesis-block", "satoshi-nakamoto", "povijest-bitcoina", "kripto-povijest"]
 summary: "Dana 3. siječnja 2009. iskopan je prvi Bitcoin blok – Genesis Block – čime je započela mreža koja je zauvijek promijenila pojam novca, povjerenja i digitalne vrijednosti."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

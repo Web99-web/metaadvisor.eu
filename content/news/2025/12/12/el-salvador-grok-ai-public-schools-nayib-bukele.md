@@ -16,6 +16,7 @@ image_alt: "Grok AI in El Salvador's public schools"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["elon-musk","grok","xai","el-salvador","ai","education","bukele","technology","analysis"]
 summary: "El Salvador is deploying the Grok AI chatbot across more than 5,000 public schools, reaching over one million students — a move that sparks global debate due to the model’s previously controversial behavior."
+categories: ["tech"]
 ---
 
 <div class="cta">

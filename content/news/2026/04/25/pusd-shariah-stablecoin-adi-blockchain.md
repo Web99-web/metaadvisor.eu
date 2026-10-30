@@ -15,6 +15,7 @@ image_alt: "PUSD shariah-compliant stablecoin on ADI blockchain"
 image_credit: "Metaadvisor / illustration"
 tags: ["crypto","cryptocurrency","pusd","stablecoin","shariah","islamic finance","adi blockchain","blockchain","defi","finance"]
 summary: "PUSD, a shariah-compliant stablecoin backed by Gulf currencies, is integrating with the ADI blockchain and targeting the $3 trillion Islamic finance market."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

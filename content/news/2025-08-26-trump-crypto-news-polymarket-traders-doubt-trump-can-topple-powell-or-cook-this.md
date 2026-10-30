@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/26/polymarket-bettors-doub
 summary: "Polymarket sees Powell finishing 2025 unscathed, even as Trump’s bid to oust Lisa Cook tests the Fed’s legal shield."
 tags: ["crypto","bitcoin","btc","polymarket","federal-reserve","jerome-powell","lisa-cook","trump","prediction-markets"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/929953de00b8159334b5ec0383ac3b9730ea74c8-1536x998.png?auto=format"
+categories: ["crypto"]
 ---
 
 Prediction markets are signaling skepticism that **Donald Trump** will be able to bend the **Federal Reserve** to his will this year, even as the U.S. President moves to fire a Fed governor for what he believes is just cause.

@@ -3,18 +3,19 @@ title: "Nizozemska i porez na nerealiziranu dobit: zašto bi investitori plaćal
 slug: "nizozemska-porez-na-nerealiziranu-dobit-investitori"
 date: 2026-01-24T18:00:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-01-24"
 source: "Cointelegraph / lokalni mediji"
 source_url: "https://cointelegraph.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Netherlands-tax.png"
-featured_image: "/images/Netherlands-tax.png"
-image: "/images/Netherlands-tax.png"
-thumbnail: "/images/Netherlands-tax.png"
+image_url: "/images/Netherlands-tax.webp"
+featured_image: "/images/Netherlands-tax.webp"
+image: "/images/Netherlands-tax.webp"
+thumbnail: "/images/Netherlands-tax.webp"
 image_alt: "Ilustracija poreza na nerealiziranu dobit u Nizozemskoj"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Nizozemska razmatra porez na nerealiziranu dobit, što znači da bi investitori plaćali porez na rast vrijednosti imovine koju nisu prodali. Kritičari upozoravaju da takav sustav kažnjava štednju, povećava rizik za građane i potiče odljev kapitala."
 tags: ["nizozemska", "porez", "nerealizirana dobit", "kapitalna dobit", "investitori", "štednja", "kripto", "dionice", "volatilnost", "porezna politika"]
+categories: ["crypto"]
 ---
 
 *(Slika je simbolična.)*

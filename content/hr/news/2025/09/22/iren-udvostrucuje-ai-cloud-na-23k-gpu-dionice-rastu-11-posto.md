@@ -16,6 +16,7 @@ image_alt: "Dionice i AI — simbolična ilustracija"
 image_credit: "Metaadvisor image_map (simbolična slika)"
 tags: ["IREN", "AI-Cloud", "GPU", "NVIDIA", "B200", "B300", "GB300", "H100", "H200", "AMD", "MI350X", "Blackwell", "Prince-George", "Texas", "data-centers", "kapacitet", "run-rate", "500M-USD", "pre-market", "dionice", "bitcoin-mining", "50-EHs", "diversifikacija", "capex", "hyperscaler", "enterprise-klijenti", "računarstvo"]
 summary: "Bivši ‘pure-play’ bitcoin rudar IREN agresivno širi AI cloud: flota raste na 23.000 GPU-a, a ciljani godišnji prihod (run-rate) premašuje 500 mil. USD do Q1/2026. Dionica u pre-marketu +11%."
+categories: ["ai"]
 ---
 
 **Kratko:**  

@@ -7,10 +7,10 @@ translationKey: "after_the_hack_no_code_chainalysis_20260122"
 source: "MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hack-no-code-tracking.png"
-featured_image: "/images/Hack-no-code-tracking.png"
-image: "/images/Hack-no-code-tracking.png"
-thumbnail: "/images/Hack-no-code-tracking.png"
+image_url: "/images/Hack-no-code-tracking.webp"
+featured_image: "/images/Hack-no-code-tracking.webp"
+image: "/images/Hack-no-code-tracking.webp"
+thumbnail: "/images/Hack-no-code-tracking.webp"
 image_alt: "No-code tracking of crypto assets after a hacking incident"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags: [
@@ -26,6 +26,7 @@ tags: [
   "incident response"
 ]
 summary: "After a hack, speed is critical. No-code tools such as Chainalysis Workflows enable rapid tracking of stolen crypto assets without writing code, reshaping how security incidents are investigated."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

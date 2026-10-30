@@ -7,14 +7,15 @@ translationKey: "f4a1b2c3987e4d22a6b3c9d0e5f112ab"
 author: "Metaadvisor.eu"
 source: "Jutarnji list, Reuters, Bloomberg, TechCrunch, Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/MacBook-Neo.png"
-featured_image: "/images/MacBook-Neo.png"
-image: "/images/MacBook-Neo.png"
-thumbnail: "/images/MacBook-Neo.png"
+image_url: "/images/MacBook-Neo.webp"
+featured_image: "/images/MacBook-Neo.webp"
+image: "/images/MacBook-Neo.webp"
+thumbnail: "/images/MacBook-Neo.webp"
 image_alt: "MacBook Neo u više boja – Appleov najjeftiniji laptop"
 image_credit: "Apple / ilustracija"
 tags: ["apple", "macbook", "macbook neo", "laptop", "tehnologija", "ai", "a18 pro", "iphone 17e", "apple strategija", "hardware", "ram", "memorija", "tech tržište"]
 summary: "Apple je lansirao MacBook Neo po cijeni od 599 dolara, odnosno 499 dolara za obrazovni sektor, čime prvi put ozbiljno ulazi u niži cjenovni segment prijenosnika. Riječ je o strateškom zaokretu kojim kompanija širi bazu korisnika, a ne samo premium tržište."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -14,6 +14,7 @@ image_alt: "Bitcoin pad ispod 100k"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "crypto", "market", "btc", "analiza", "likvidacije"]
 summary: "Bitcoin pada ispod 100.000 USD nakon vala likvidacija vrijednog 1,3 milijarde USD. Trgovci se pitaju — je li ovo kraj bull runa ili tek prilika stoljeća za kupovinu na rasprodaji?"
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"

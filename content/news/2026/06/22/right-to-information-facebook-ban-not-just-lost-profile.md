@@ -7,14 +7,15 @@ translationKey: "right-to-information-facebook-ban-not-just-lost-profile-2026-06
 source: "The Guardian, Appeals Centre Europe, European Parliament, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-bans.png"
-featured_image: "/images/Meta/Facebook-bans.png"
-image: "/images/Meta/Facebook-bans.png"
-thumbnail: "/images/Meta/Facebook-bans.png"
+image_url: "/images/Meta/Facebook-bans.webp"
+featured_image: "/images/Meta/Facebook-bans.webp"
+image: "/images/Meta/Facebook-bans.webp"
+thumbnail: "/images/Meta/Facebook-bans.webp"
 image_alt: "Facebook bans and digital exclusion from social networks"
 image_credit: "Metaadvisor.eu"
 tags: ["Facebook ban", "Meta", "Facebook", "Instagram", "Messenger", "Business Suite", "AI moderation", "artificial intelligence", "digital rights", "right to information", "social networks", "social media bans", "Appeals Centre Europe", "DSA", "Digital Services Act", "European Union", "The Guardian", "Big Tech", "platforms", "digital exclusion", "online identity", "digital public space", "small businesses", "teachers", "social workers", "AI", "Metaadvisor"]
 summary: "A Facebook ban is no longer just a lost profile. When Meta removes a user from Facebook, Messenger, Instagram and Business Suite without a clear explanation and without a real human appeal, it raises the question of the human right to information, communication and access to the digital public space."
+categories: ["tech"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Symbolic image.</em></p>

@@ -15,6 +15,7 @@ image_alt: "Bluesky app and improved photo quality"
 image_credit: "Metaadvisor / illustration"
 tags: ["tech","technology","bluesky","social media","photos","apps","innovation","platforms"]
 summary: "Bluesky introduces higher-quality photo uploads and new display features, aiming to compete more directly with platforms like X and Threads."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

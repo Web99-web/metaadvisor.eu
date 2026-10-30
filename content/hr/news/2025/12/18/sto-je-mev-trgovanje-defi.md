@@ -7,13 +7,14 @@ translationKey: "mev_explained_defi_18122025"
 source: "Cointelegraph / CoinDesk"
 source_url: "https://cointelegraph.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/MEV-explained.png"
-featured_image: "/images/MEV-explained.png"
-image: "/images/MEV-explained.png"
-thumbnail: "/images/MEV-explained.png"
+image_url: "/images/MEV-explained.webp"
+featured_image: "/images/MEV-explained.webp"
+image: "/images/MEV-explained.webp"
+thumbnail: "/images/MEV-explained.webp"
 image_alt: "Objašnjenje MEV trgovanja na blockchainu"
 tags: ["MEV", "defi", "blockchain", "ethereum", "solana", "trgovanje", "regulacija"]
 summary: "MEV trgovanje omogućuje botovima i validatorima da zarađuju manipulacijom redoslijeda transakcija, često na štetu običnih korisnika decentraliziranih financija."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

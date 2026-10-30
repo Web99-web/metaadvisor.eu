@@ -7,14 +7,15 @@ translationKey: "silver_investor_focus_20260123"
 source: "MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/silver.png"
-featured_image: "/images/silver.png"
-image: "/images/silver.png"
-thumbnail: "/images/silver.png"
+image_url: "/images/silver.webp"
+featured_image: "/images/silver.webp"
+image: "/images/silver.webp"
+thumbnail: "/images/silver.webp"
 image_alt: "Silver breaking the $100 level and returning to investor focus"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Silver has crossed the $100 mark for the first time in history, re-entering the spotlight as investors look beyond gold toward industrial metals with strategic value."
 tags: ["silver", "precious metals", "inflation", "investing", "markets", "energy transition", "industry"]
+categories: ["markets"]
 ---
 
 *The image is symbolic.*

@@ -7,14 +7,15 @@ translationKey: "f76f79d23fcb18fd7ba890e13e049281"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (Cointelegraph, market data)"
 source_url: ""
-image_url: "/images/DeFi-not-user-friendly.png"
-featured_image: "/images/DeFi-not-user-friendly.png"
-image: "/images/DeFi-not-user-friendly.png"
-thumbnail: "/images/DeFi-not-user-friendly.png"
+image_url: "/images/DeFi-not-user-friendly.webp"
+featured_image: "/images/DeFi-not-user-friendly.webp"
+image: "/images/DeFi-not-user-friendly.webp"
+thumbnail: "/images/DeFi-not-user-friendly.webp"
 image_alt: "DeFi interface difficult for average users to understand"
 image_credit: "MetaAdvisor.eu"
 tags: ["defi", "crypto", "trading", "ethereum", "blockchain", "user experience", "ux", "liquidations", "leverage", "technology"]
 summary: "DeFi systems are often optimized for technical constraints rather than users. Without clear instructions and simple UX, mass adoption remains limited."
+categories: ["crypto"]
 ---
 
 Image is symbolic.

@@ -16,6 +16,7 @@ image_alt: "Twenty One Capital BTC treasury ilustracija"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["crypto","bitcoin","btc","treasury","MicroStrategy","MARA","korporacije","ulaganje","NYSE","spajanje","Cantor","XXI","kripto-tržište","institucije","analiza"]
 summary: "Twenty One Capital nakon spajanja s Cantor Equity Partners postaje treći najveći korporativni vlasnik Bitcoina, odmah iza MicroStrategyja i MARA-e. Tvrtka ulazi na NYSE pod tickerom XXI."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

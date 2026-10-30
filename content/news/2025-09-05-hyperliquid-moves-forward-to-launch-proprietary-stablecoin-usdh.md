@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/tech/2025/09/05/hyperliquid-moves-forward-
 summary: "A proprietary stablecoin could reduce Hyperliquid's dependency on USDC and generate revenue from reserve assets."
 tags: ["crypto", "stablecoin", "usdh", "usdc", "tether", "defi", "exchange", "hyperliquid"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["news"]
 ---
 
 The decentralized exchange **Hyperliquid (HYPE)** is preparing to launch its own U.S. dollar-pegged stablecoin, according to a Friday announcement from the Hyperliquid Foundation on the platform’s Discord server.  

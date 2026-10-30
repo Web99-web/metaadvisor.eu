@@ -7,14 +7,15 @@ translationKey: "c1d8477af93d4e6aa58c91f7f30ab552"
 source: "Metaadvisor (Cointelegraph, Protos, TheStreet, court documents)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Coinbase-frozen-dispute.png"
-featured_image: "/images/hack/Coinbase-frozen-dispute.png"
-image: "/images/hack/Coinbase-frozen-dispute.png"
-thumbnail: "/images/hack/Coinbase-frozen-dispute.png"
+image_url: "/images/hack/Coinbase-frozen-dispute.webp"
+featured_image: "/images/hack/Coinbase-frozen-dispute.webp"
+image: "/images/hack/Coinbase-frozen-dispute.webp"
+thumbnail: "/images/hack/Coinbase-frozen-dispute.webp"
 image_alt: "Coinbase lawsuit over frozen crypto linked to DeFi Saver exploit"
 image_credit: "Metaadvisor.eu"
 tags: ["coinbase", "crypto", "bitcoin", "defi", "defi saver", "dai", "hack", "phishing", "tornado cash", "inferno drainer", "cybersecurity", "lawsuit", "crypto regulation", "wallet", "stablecoin", "crypto theft"]
 summary: "Coinbase is facing a lawsuit over frozen funds connected to a $55 million DeFi Saver phishing attack. The case raises major questions about ownership, exchange responsibility and the future of crypto regulation."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

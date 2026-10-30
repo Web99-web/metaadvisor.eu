@@ -7,14 +7,15 @@ translationKey: "varm-5000-eura-izolacija-kuce-jedan-dan-2026-06-26"
 source: "VARM, EU-Startups, Invest in Berlin, Vestbee, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/VARM-german-startup-house-insulation.png"
-featured_image: "/images/companies/VARM-german-startup-house-insulation.png"
-image: "/images/companies/VARM-german-startup-house-insulation.png"
-thumbnail: "/images/companies/VARM-german-startup-house-insulation.png"
+image_url: "/images/companies/VARM-german-startup-house-insulation.webp"
+featured_image: "/images/companies/VARM-german-startup-house-insulation.webp"
+image: "/images/companies/VARM-german-startup-house-insulation.webp"
+thumbnail: "/images/companies/VARM-german-startup-house-insulation.webp"
 image_alt: "VARM German startup 5000 euro house insulation in one day"
 image_credit: "Metaadvisor.eu"
 tags: ["VARM", "deutsches Startup", "Hausdämmung", "5000 Euro", "energetische Sanierung", "Climate-Tech", "KI-Plattform", "Baugewerbe", "Energieeffizienz", "Deutschland", "BAFA-Förderung", "Dämmstoffe", "Einfamilienhäuser", "Startup", "Europa", "Metaadvisor"]
 summary: "Das deutsche Startup VARM hat 17,5 Millionen Euro eingesammelt, um sein Modell für schnelle Dämmung von Einfamilienhäusern auszubauen. Das Unternehmen spricht von Hausdämmung an einem Tag zu einem Preis von rund 5000 Euro, doch aus den verfügbaren Angaben ist nicht vollständig klar, was genau in diesem Preis enthalten ist, für welche Haustypen das Modell gilt und wo KI endet und klassisches Baugewerbe beginnt."
+categories: ["tech"]
 ---
 
 Das Bild ist symbolisch.

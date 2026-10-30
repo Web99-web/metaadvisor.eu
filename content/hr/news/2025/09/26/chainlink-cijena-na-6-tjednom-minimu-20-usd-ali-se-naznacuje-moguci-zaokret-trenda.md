@@ -29,6 +29,7 @@ tags:
   - iv
   - liquidity
 summary: "LINK je skliznuo na ~20 $ (najniže od početka kolovoza), ~−28% u odnosu na kolovoške vrhunce, unatoč kupnjama Calibera i Chainlink Reservea. Tehnički model CoinDeska: moguć ‘snap’ downtrenda uz obranu 20 $, no za potvrdu treba probiti ~20,57 $."
+categories: ["ai"]
 ---
 
 **Kratko:** **LINK** je pao na oko **20 $**, najniže od početka kolovoza, te je **~−28%** ispod kolovoških vrhunaca, u skladu sa širim slabljenjem kripto-tržišta. Zanimljivo, pad se događa **unatoč neto kupnjama**: wealth-manager **Caliber (CWD)** dodao je **~4 mil. $** LINK-a (ukupno **~10 mil. $**), a **Chainlink Reserve** — mehanizam koji kupuje tokene iz **prihoda integracija/usluga** i tako skida ponudu s tržišta — uzeo je **~47.903 LINK** (blizu **1 mil. $**) u četvrtak; od kolovoza je akumulirano **>370.000 LINK** (**~7,5 mil. $**).

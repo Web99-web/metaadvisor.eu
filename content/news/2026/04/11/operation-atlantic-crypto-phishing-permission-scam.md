@@ -7,14 +7,15 @@ translationKey: "12fbf9a6ce57faa6450dc4337bf509fd"
 author: "Metaadvisor.eu"
 source: "Cointelegraph, CoinDesk, Binance, NCA"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/hacker.png"
-featured_image: "/images/hacker.png"
-image: "/images/hacker.png"
-thumbnail: "/images/hacker.png"
+image_url: "/images/hacker.webp"
+featured_image: "/images/hacker.webp"
+image: "/images/hacker.webp"
+thumbnail: "/images/hacker.webp"
 image_alt: "Crypto phishing attack and wallet compromise"
 image_credit: "Metaadvisor illustration"
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "phishing", "scam", "operation atlantic", "security", "wallet", "binance", "hack", "defi"]
 summary: "Operation Atlantic reveals a new type of crypto scam where users don’t send money, but unknowingly grant permission to their wallets, with over 20,000 victims and millions in losses."
+categories: ["crypto"]
 ---
 
 _The image is symbolic._

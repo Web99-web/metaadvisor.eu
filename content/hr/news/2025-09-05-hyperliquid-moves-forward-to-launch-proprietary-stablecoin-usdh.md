@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/tech/2025/09/05/hyperliquid-moves-forward-
 summary: "Vlastiti stablecoin mogao bi smanjiti ovisnost Hyperliquida o USDC-u i omogućiti prihod od rezervne imovine."
 tags: ["crypto", "stablecoin", "usdh", "usdc", "tether", "defi", "exchange", "hyperliquid"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["news"]
 ---
 
 Decentralizirana burza **Hyperliquid (HYPE)** priprema lansiranje vlastitog stablecoina vezanog uz američki dolar, prema objavi Hyperliquid Foundationa u petak na Discord kanalu platforme.  

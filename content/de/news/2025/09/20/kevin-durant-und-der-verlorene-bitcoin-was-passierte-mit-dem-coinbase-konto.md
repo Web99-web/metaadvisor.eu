@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/20/kevin-durant-recovers-bitcoin-bought-at-usd650-now-up-over-17-700-after-nearly-a-decade"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Kevin-Durant-coinbase.png"
-featured_image: "/images/Kevin-Durant-coinbase.png"
-image: "/images/Kevin-Durant-coinbase.png"
-thumbnail: "/images/Kevin-Durant-coinbase.png"
+image_url: "/images/Kevin-Durant-coinbase.webp"
+featured_image: "/images/Kevin-Durant-coinbase.webp"
+image: "/images/Kevin-Durant-coinbase.webp"
+thumbnail: "/images/Kevin-Durant-coinbase.webp"
 image_alt: "Kevin Durant — Wiederherstellung des Coinbase-Bitcoin-Kontos"
 image_credit: "Metaadvisor.eu — symbolische Darstellung"
 tags: ["crypto", "bitcoin", "Kevin Durant", "Coinbase", "Kontowiederherstellung", "2FA", "Sicherheit", "Onboarding"]
 summary: "Nach fast einem Jahrzehnt ohne Zugriff erhielt Kevin Durant sein Coinbase-Konto zurück. Wir zeigen die Timeline, wahrscheinliche Ursachen und wie Recovery bei Börsen tatsächlich funktioniert."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

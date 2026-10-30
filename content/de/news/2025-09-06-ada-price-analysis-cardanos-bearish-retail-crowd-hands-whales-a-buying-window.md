@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/06/cardano-s-bearish-retai
 summary: "Der Rückgang der Stimmung fiel mit einer Erholung von 5 % zusammen – ein Hinweis darauf, dass frustrierte Verkäufer möglicherweise ein lokales Tief markiert haben."
 tags: ["krypto", "cardano", "ada", "wale", "trading", "sentiment"]
 image_url: "/images/cardano-ada-logo.png"
+categories: ["crypto"]
 ---
 
 Die **Kleinanlegerbasis von Cardano (ADA)** ist nach wochenlangen Kursverlusten ins Bärische gekippt – eine Situation, die **Wale** nun für Akkumulation nutzen könnten.  

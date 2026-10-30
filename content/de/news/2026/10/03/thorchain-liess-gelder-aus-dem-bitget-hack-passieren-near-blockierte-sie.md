@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["THORChain", "NEAR", "Bitget", "DeFi", "Krypto", "Blockchain", "Sicherheit", "Dezentralisierung", "Cross-Chain", "Hack"]
 description: "Nach dem Bitget-Hack liefen Teile der gestohlenen Gelder über THORChain, während NEAR Intents versuchte, verdächtige Geldflüsse zu blockieren. Die Debatte wirft grundlegende Fragen über die Grenzen der Dezentralisierung auf."
 summary: "Der Bitget-Hack hat eine alte Debatte in der Kryptoindustrie neu entfacht. THORChain weigerte sich, mit dem Angreifer verbundene Adressen zu blockieren, und hielt am permissionless Ansatz fest. NEAR Intents versuchte dagegen über sein SHIELD-System, verdächtige Transaktionen zu stoppen. Die Frage ist längst nicht mehr nur technischer Natur: Sollte ein dezentrales Protokoll neutral bleiben, selbst wenn gestohlene Gelder hindurchfließen?"
+categories: ["hack"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -9,6 +9,7 @@ summary: "Ether notiert nahe Allzeithochs; Tom Lee sieht 15.000 $ bis Jahresende
 tags: ["ethereum","eth","exposure","staking","etf","sec","custody","defi","rwa","tokenization","fundstrat","tom-lee","bitmine","bmnr","treasury"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/2705207ecd0a8c9828b9cd6c5f5a0985a610992a-6048x4024.jpg?auto=format"
 image_alt: "Goldene Ether-Münzen – Symbol für ETH-Investments"
+categories: ["crypto"]
 ---
 
 Ether (ETH) handelt nahe Rekordständen; bullishe Prognosen – inklusive Lees 15.000-$-Ziel bis Ende 2025 – richten den Blick darauf, **wie** Anleger am besten ETH-Exposure erhalten.

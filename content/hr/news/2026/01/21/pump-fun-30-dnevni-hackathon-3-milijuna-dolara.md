@@ -7,14 +7,15 @@ translationKey: "pump_fun_30_day_hackathon_3m_20260121"
 source: "Cointelegraph / MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Pump-fun-30-day-hackathon-3M.png"
-featured_image: "/images/Pump-fun-30-day-hackathon-3M.png"
-image: "/images/Pump-fun-30-day-hackathon-3M.png"
-thumbnail: "/images/Pump-fun-30-day-hackathon-3M.png"
+image_url: "/images/Pump-fun-30-day-hackathon-3M.webp"
+featured_image: "/images/Pump-fun-30-day-hackathon-3M.webp"
+image: "/images/Pump-fun-30-day-hackathon-3M.webp"
+thumbnail: "/images/Pump-fun-30-day-hackathon-3M.webp"
 image_alt: "Pump.fun 30-dnevni hackathon vrijedan 3 milijuna dolara"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags: ["pump.fun","hackathon","3.000.000", "250.000", "osvoji 250.000", "kripto","startup","investicije","memecoin","web3","blockchain","venture","tokeni"]
 summary: "Pump.fun, poznat po memecoin eksploziji, pokreće 30-dnevni hackathon vrijedan 3 milijuna dolara i najavljuje zaokret prema dugoročnijim, ozbiljnijim projektima."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

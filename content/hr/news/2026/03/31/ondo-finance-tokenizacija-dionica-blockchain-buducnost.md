@@ -3,18 +3,19 @@ title: "Ondo Finance u fokusu: dolaze li dionice na blockchain i mijenja li se t
 slug: "ondo-finance-tokenizacija-dionica-blockchain-buducnost"
 date: 2026-03-31T06:30:00+01:00
 category: "crypto"
-translationKey: "7ee5a89332f38ccf99e6c7628e6ffc40"
+translationKey: "7ee5a89332f38ccf99e6c7628e6ffc40--2026-03-31"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (CoinDesk, Cointelegraph, tržišni podaci)"
 source_url: ""
-image_url: "/images/companies/ONDO-finance.png"
-featured_image: "/images/companies/ONDO-finance.png"
-image: "/images/companies/ONDO-finance.png"
-thumbnail: "/images/companies/ONDO-finance.png"
+image_url: "/images/companies/ONDO-finance.webp"
+featured_image: "/images/companies/ONDO-finance.webp"
+image: "/images/companies/ONDO-finance.webp"
+thumbnail: "/images/companies/ONDO-finance.webp"
 image_alt: "Ondo Finance i tokenizacija dionica na blockchainu"
 image_credit: "MetaAdvisor.eu"
 tags: ["ondo", "ondo finance", "rwa", "tokenizacija", "dionice", "blockchain", "metamask", "mexc", "kripto", "etf"]
 summary: "Ondo Finance ubrzano gradi infrastrukturu za tokenizirane dionice i ETF-ove kroz partnerstva s MetaMaskom i MEXC-om, dok tržište sve više briše granicu između Wall Streeta i blockchaina."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -15,6 +15,7 @@ image_alt: "Zcash ZEC privacy coin vulnerability and market recovery"
 image_credit: "Metaadvisor.eu"
 tags: ["Zcash", "ZEC", "privacy coin", "crypto", "kripto", "blockchain", "Orchard shielded pool", "shielded pool", "Zcash bug", "ranjivost", "cybersecurity", "kibernetička sigurnost", "crypto security", "ZEC supply", "21 million ZEC", "minting", "lažni tokeni", "Arthur Hayes", "privacy", "DeFi", "market panic", "crypto market", "Metaadvisor"]
 summary: "Zcash se nakon sigurnosne panike i pada ZEC-a snažno oporavio, ali slučaj Orchard shielded pool ranjivosti i dalje otvara važno pitanje: može li privacy coin brzo vratiti povjerenje kada se pojavi sumnja u sigurnost i ukupnu ponudu tokena?"
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

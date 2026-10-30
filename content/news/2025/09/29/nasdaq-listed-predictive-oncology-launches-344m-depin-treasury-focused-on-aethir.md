@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/predictive-oncology-depin-treasury-aethir-ath-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/DePin-ATH-Aethir.png"
-featured_image: "/images/DePin-ATH-Aethir.png"
-image: "/images/DePin-ATH-Aethir.png"
-thumbnail: "/images/DePin-ATH-Aethir.png"
+image_url: "/images/DePin-ATH-Aethir.webp"
+featured_image: "/images/DePin-ATH-Aethir.webp"
+image: "/images/DePin-ATH-Aethir.webp"
+thumbnail: "/images/DePin-ATH-Aethir.webp"
 image_alt: "DePIN and Aethir (ATH) — decentralized GPU cloud"
 image_credit: "Design: Metaadvisor.eu (symbolic visual)"
 tags: ["crypto","DePIN","Aethir","ATH","Predictive Oncology","Nasdaq","GPU","AI","decentralized-infrastructure","staking","liquidity","treasury","enterprise","compute"]
 summary: "Predictive Oncology (Nasdaq) unveils a $344M DePIN treasury centered on Aethir (ATH), a decentralized GPU/AI compute network. The goal: capture AI demand and deepen liquidity across the Aethir ecosystem."
+categories: ["crypto"]
 ---
 
 **TL;DR:** **Predictive Oncology** is launching a **$344 million** **DePIN treasury** focused on **Aethir (ATH)** — a network for **decentralized GPU/AI compute**. DePIN (Decentralized Physical Infrastructure Networks) pairs real-world infrastructure (GPU nodes) with token incentives and market liquidity.

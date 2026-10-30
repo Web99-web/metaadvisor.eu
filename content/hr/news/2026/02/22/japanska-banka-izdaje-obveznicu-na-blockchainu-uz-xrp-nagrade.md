@@ -7,14 +7,15 @@ translationKey: "sbi-japan-blockchain-bond-xrp-2026"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/"
 author: "Metaadvisor.eu"
-image_url: "/images/Japan-bank-xrp.png"
-featured_image: "/images/Japan-bank-xrp.png"
-image: "/images/Japan-bank-xrp.png"
-thumbnail: "/images/Japan-bank-xrp.png"
+image_url: "/images/Japan-bank-xrp.webp"
+featured_image: "/images/Japan-bank-xrp.webp"
+image: "/images/Japan-bank-xrp.webp"
+thumbnail: "/images/Japan-bank-xrp.webp"
 image_alt: "Japanska banka izdaje blockchain obveznicu uz XRP nagrade"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["japan", "japanska banka", "SBI", "obveznica", "bond", "blockchain", "XRP", "Ripple", "kripto", "tokenizacija", "institucije", "financije", "digitalna imovina"]
 summary: "Japanska financijska grupa izdaje obveznicu na blockchainu uz XRP nagrade za investitore. Potez označava dublju integraciju tradicionalnih financija i kripto infrastrukture."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

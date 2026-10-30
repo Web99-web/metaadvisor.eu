@@ -16,6 +16,7 @@ image_alt: "Ethereum — On-Chain-Nutzung und ETH-Kursdynamik"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["crypto","ethereum","eth","on-chain","aktivität","etf","treasury","metaadvisor"]
 summary: "Mehr aktive Adressen, höherer Gas-Verbrauch und wachsende ETF-/Treasury-Zuflüsse: Die On-Chain-Nutzung stützt die These, dass ETH die Zone um 5.000 $ ansteuern kann — trotz Gegenwinds durch Un-Staking."
+categories: ["crypto"]
 ---
 
 **Kurz:** In den letzten Tagen legte die **On-Chain-Aktivität** auf Ethereum spürbar zu (mehr **aktive Adressen**, **höhere Gebühren/Gas**, stärkere Nutzung in DeFi/Stablecoins/L2). Parallel zeigen **Spot-ETH-ETFs** und **Unternehmens-Treasuries** Nettozuflüsse. Zusammen reduziert das die **börsliche Angebotssituation** und stärkt die Argumente für den nächsten großen Bereich um **5.000 $**.

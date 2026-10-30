@@ -7,14 +7,15 @@ translationKey: "zachxbt-axiom-polymarket-400k-2026"
 source: "ZachXBT (X); Cointelegraph; Yahoo Finance; Coinlaw"
 source_url: "https://metaadvisor.eu/news/zachxbt-axiom-polymarket-400k/"
 author: "Metaadvisor.eu"
-image_url: "/images/Polymarket-ZachXBT2.png"
-featured_image: "/images/Polymarket-ZachXBT2.png"
-image: "/images/Polymarket-ZachXBT2.png"
-thumbnail: "/images/Polymarket-ZachXBT2.png"
+image_url: "/images/Polymarket-ZachXBT2.webp"
+featured_image: "/images/Polymarket-ZachXBT2.webp"
+image: "/images/Polymarket-ZachXBT2.webp"
+thumbnail: "/images/Polymarket-ZachXBT2.webp"
 image_alt: "ZachXBT istraga, Axiom insider trading i Polymarket oklade"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["zachxbt", "axiom exchange", "polymarket", "insider trading", "kripto istraga", "onchain analiza", "decentralizirane mjenjačnice", "prediction tržišta", "tržišna volatilnost", "defi", "crypto", "kripto"]
 summary: "Objava ZachXBT-ove istrage o navodnom insider tradingu u Axiom Exchangeu potresla je tržište, dok je na Polymarketu gotovo 40 milijuna dolara klađenja prethodilo razotkrivanju. Jedan korisnik zaradio je oko 400.000 dolara predviđajući ishod."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "b19e38546a286e8ff4e988d16344b41c"
 source: "Metaadvisor (CoinDesk, TechCrunch, tržišni podaci)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/AI-mania-Allbirds.png"
-featured_image: "/images/companies/AI-mania-Allbirds.png"
-image: "/images/companies/AI-mania-Allbirds.png"
-thumbnail: "/images/companies/AI-mania-Allbirds.png"
+image_url: "/images/companies/AI-mania-Allbirds.webp"
+featured_image: "/images/companies/AI-mania-Allbirds.webp"
+image: "/images/companies/AI-mania-Allbirds.webp"
+thumbnail: "/images/companies/AI-mania-Allbirds.webp"
 image_alt: "Allbirds prelazak iz proizvodnje tenisica u AI infrastrukturu i rast dionice"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "allbirds", "gpu", "cloud", "ai infrastruktura", "dionice", "tržište", "tech", "investiranje"]
 summary: "Allbirds napušta proizvodnju tenisica i prelazi u AI infrastrukturu, što je izazvalo skok dionice od čak 300%."
+categories: ["ai"]
 ---
 
 

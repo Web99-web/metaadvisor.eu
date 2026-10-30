@@ -7,14 +7,15 @@ translationKey: "c4339512869fb38d78d548ab106485fb"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/NFT-vaga.png"
-featured_image: "/images/NFT-vaga.png"
-image: "/images/NFT-vaga.png"
-thumbnail: "/images/NFT-vaga.png"
+image_url: "/images/NFT-vaga.webp"
+featured_image: "/images/NFT-vaga.webp"
+image: "/images/NFT-vaga.webp"
+thumbnail: "/images/NFT-vaga.webp"
 image_alt: "Ilustracija vage koja simbolizira pravdu i NFT tržište"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Američko Ministarstvo pravosuđa odustalo je od ponovnog suđenja bivšem menadžeru OpenSea-ja Nathanielu Chastainu u slučaju koji je označio prvi pokušaj procesuiranja NFT insider tradinga u SAD-u."
 tags: ["opensea", "nft", "insider trading", "regulacija", "pravosuđe", "kripto", "digitalna imovina"]
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

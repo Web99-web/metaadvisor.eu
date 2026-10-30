@@ -7,14 +7,15 @@ translationKey: "51c62c1c85f6fa8fa110ff947642a6ea"
 source: "Metaadvisor (Cointelegraph, OKX, CoinGlass, EU MiFID framework)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/okx-card-eu.png"
-featured_image: "/images/okx-card-eu.png"
-image: "/images/okx-card-eu.png"
-thumbnail: "/images/okx-card-eu.png"
+image_url: "/images/okx-card-eu.webp"
+featured_image: "/images/okx-card-eu.webp"
+image: "/images/okx-card-eu.webp"
+thumbnail: "/images/okx-card-eu.webp"
 image_alt: "OKX EU card and regulated crypto products in Europe"
 image_credit: "Metaadvisor.eu"
 tags: ["okx", "crypto", "derivatives", "europe", "mifid", "bitcoin", "eth", "trading", "finance"]
 summary: "OKX launches regulated crypto derivatives in Europe under the MiFID framework, opening access for both institutional and retail investors."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

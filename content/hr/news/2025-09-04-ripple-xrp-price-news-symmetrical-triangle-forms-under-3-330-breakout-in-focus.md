@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/04/xrp-symmetrical-triangl
 summary: "XRP konsolidira između 2,76 i 2,86 USD, dok trgovci prate razinu od 3,30 USD kao ključni proboj."
 tags: ["XRP", "Ripple", "kripto", "altcoini", "analiza cijene"]
 image_url: "/images/xrp.png"
+categories: ["crypto"]
 ---
 
 XRP se trenutno kreće u užem rasponu, oblikujući **simetrični trokut** ispod razine otpora od **3 USD**.  

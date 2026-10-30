@@ -7,10 +7,10 @@ translationKey: "bitwise_etf_aave_uni_zec_tao_sui_near"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/Bitwise-etf-strategy.png"
-featured_image: "/images/Bitwise-etf-strategy.png"
-image: "/images/Bitwise-etf-strategy.png"
-thumbnail: "/images/Bitwise-etf-strategy.png"
+image_url: "/images/Bitwise-etf-strategy.webp"
+featured_image: "/images/Bitwise-etf-strategy.webp"
+image: "/images/Bitwise-etf-strategy.webp"
+thumbnail: "/images/Bitwise-etf-strategy.webp"
 image_alt: "Bitwise ETF strategija za Aave, Uniswap, Zcash, Bittensor, Sui i Near"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -25,6 +25,7 @@ tags:
   - altcoins
   - institutional
 summary: "Američki asset manager Bitwise zatražio je regulatorno odobrenje za nove ‘strategy’ ETF-ove fokusirane na šest altcoina: Aave, Uniswap, Zcash, Bittensor, Sui i Near, čime se institucionalni interes jasno širi izvan Bitcoina i Ethereuma."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 10px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

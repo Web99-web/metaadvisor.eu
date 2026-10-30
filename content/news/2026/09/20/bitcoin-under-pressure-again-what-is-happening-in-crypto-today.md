@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "crypto market", "cryptocurrencies", "altcoins", "crypto selloff", "Bitcoin 80000", "ETF", "liquidations", "Middle East", "geopolitics", "Solana", "HYPE", "Zcash"]
 description: "Bitcoin pulled back again over the weekend after reclaiming $80,000, while Ethereum and many altcoins posted larger losses. Geopolitics, high interest rates and weaker risk appetite are once again weighing on the crypto market."
 summary: "Bitcoin retreated over the weekend after a strong recovery above $80,000. Ethereum and altcoins are falling more sharply as markets watch renewed Middle East tensions, high interest rates and whether BTC can hold its newly reclaimed range."
+categories: ["Cryptocurrencies"]
 ---
 
 *The image is symbolic.*

@@ -7,14 +7,15 @@ translationKey: "5f2d91c84abf4b8e9e6c772ab11d5027"
 source: "Metaadvisor (Reuters, CoinDesk, Cointelegraph, Barron’s, Yahoo Finance, CryptoBriefing, The Block, PYMNTS)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Clarity-act.png"
-featured_image: "/images/Clarity-act.png"
-image: "/images/Clarity-act.png"
-thumbnail: "/images/Clarity-act.png"
+image_url: "/images/Clarity-act.webp"
+featured_image: "/images/Clarity-act.webp"
+image: "/images/Clarity-act.webp"
+thumbnail: "/images/Clarity-act.webp"
 image_alt: "Američki Senat objavio finalni CLARITY Act draft"
 image_credit: "Metaadvisor.eu"
 tags: ["clarity act", "crypto", "kripto", "bitcoin", "btc", "sec", "cftc", "regulacija", "crypto regulation", "stablecoin", "wall street", "defi", "tokenizacija", "blockchain", "americki senat", "crypto zakon"]
 summary: "Američki Senat objavio je finalni draft CLARITY Acta, zakona koji bi mogao postati jedan od najvažnijih regulatornih trenutaka za crypto industriju u SAD-u."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Slika je simbolična.</em></p>

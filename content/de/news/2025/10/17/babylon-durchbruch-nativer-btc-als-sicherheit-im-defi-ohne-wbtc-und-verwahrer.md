@@ -16,6 +16,7 @@ image_alt: "Bitcoin-Münzen — symbolische Illustration"
 image_credit: "Bild ist symbolisch."
 tags: ["babylon","btc","bitcoin","wbtc","defi","krypto","collateral","sicherheit","verwahrer","custodians","bruecken","liquiditaet"]
 summary: "Babylon behauptet, nativen BTC als DeFi-Sicherheit nutzbar zu machen — ohne wBTC und ohne Verwahrer."
+categories: ["crypto"]
 ---
 
 **Kurzüberblick.** **Babylon** kündigt ein Verfahren an, mit dem **nativer Bitcoin (BTC)** als **Sicherheit (Collateral)** im DeFi-Bereich genutzt werden kann — **ohne** “wrapped” Varianten wie **wBTC** und **ohne** Vertrauen in **Verwahrer** (custodians). Ziel: BTC bleibt auf **Bitcoin L1** gesperrt, während DeFi-Apps auf anderen Chains einen **kryptografischen Nachweis** dieser Sperre akzeptieren.

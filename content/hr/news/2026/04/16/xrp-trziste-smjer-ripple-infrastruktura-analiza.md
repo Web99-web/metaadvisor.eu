@@ -15,6 +15,7 @@ image_alt: "XRP analiza tržišta i Ripple infrastruktura"
 image_credit: "Metaadvisor.eu"
 tags: ["xrp", "ripple", "kripto", "trgovanje", "analiza", "blockchain", "financije", "tržište", "tokenizacija"]
 summary: "XRP se nalazi između stagnacije cijene i jačanja fundamentalne infrastrukture koju gradi Ripple, što otvara pitanje kada će tržište reagirati."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

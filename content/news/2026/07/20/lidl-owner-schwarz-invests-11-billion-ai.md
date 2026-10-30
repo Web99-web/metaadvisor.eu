@@ -7,14 +7,15 @@ translationKey: "schwarz-lidl-kaufland-ai-cloud-data-centar-2026-07-20"
 source: "Schwarz Group, Schwarz Digits, publicly available information and media reports"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
-featured_image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
-image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
-thumbnail: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
+image_url: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
+featured_image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
+image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
+thumbnail: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Lidl", "Kaufland", "Schwarz Group", "Schwarz Digits", "artificial intelligence", "AI", "data center", "cloud", "STACKIT", "cybersecurity", "Germany"]
 description: "Schwarz Group, the owner of Lidl and Kaufland, is investing around €11 billion in a data center campus and aims to become a European alternative to U.S. cloud giants."
 summary: "The owner of Lidl and Kaufland is investing around €11 billion in cloud and AI infrastructure. The data center campus could support up to 100,000 GPUs."
+categories: ["ai"]
 ---
 
 # Lidl Owner Schwarz Invests €11 Billion in AI
