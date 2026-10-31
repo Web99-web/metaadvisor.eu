@@ -11,7 +11,7 @@ for x in primary:
 routes=json.loads((r/'migration/http-redirects.json').read_text(encoding='utf-8'))
 for x in routes:
  if not exists(x['target']):errors.append(['exact redirect target missing',x['source'],x['target']])
-legacy=['/de/tags/eu-inc./','/hr/tags/%C4%8Dlanak-50./','/hr/tags/eu-inc./','/tags/eu-inc./']
+legacy=['/de/tags/eu-inc./','/hr/tags/%C4%8Dlanak-50./','/hr/tags/eu-inc./','/tags/eu-inc./','/tags/%C4%8Dlanak-50./']
 for path in legacy:
  if not exists('https://metaadvisor.eu'+path):errors.append(['exact legacy trailing-dot route missing',path])
 if a.require_linux and sys.platform!='linux':errors.append(['actual Linux execution required',sys.platform])

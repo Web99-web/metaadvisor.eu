@@ -1,5 +1,5 @@
 {
-  "captured_at_UTC": "2026-10-30T23:41:33.518964+00:00",
+  "captured_at_UTC": "2026-10-31T09:20:20.148212+00:00",
   "base_SHA": "ec5206ea964d5ecad2e626465abe9dd8a9f80966",
   "snapshot_branch": "qa/metaadvisor-linux-2026-10-30",
   "source_files": {
@@ -47600,8 +47600,8 @@
       "sha256": "55af73bdc2b1952f21c972bce43b4681b2b14675a4ff2e09187ab4880f558d61"
     },
     "tools/build_tag_compatibility.py": {
-      "bytes": 7325,
-      "sha256": "aa1aac1cc76f6e03620b83aa5ee3be9735caf06becf65cda69e160b64e9b3127"
+      "bytes": 7623,
+      "sha256": "92f0509a02e119763385a8e707f4648e6b487888205c36d83cded953758c29d6"
     },
     "tools/check_release_gate.py": {
       "bytes": 973,
@@ -47640,20 +47640,20 @@
       "sha256": "aebffcb4144515899380bfbc9795a4b75ccc1ec78d4803a44c9c5c73996636b8"
     },
     "tools/migration_gate.py": {
-      "bytes": 1760,
-      "sha256": "aa36091125013405e2bb11508f4a50ff609d4458fa35c86f0825c41c46085c53"
+      "bytes": 8018,
+      "sha256": "43f4c6d4f573d47554b20a6129edea5920fd1c9943919c1f7e4a4167f635300b"
     },
     "tools/test_migration_gate.py": {
       "bytes": 2283,
       "sha256": "e88fb4b665ddc43646dce0feab7879372ea6a3defa8e87c5c78ce66878213a3b"
     },
     "migration/approved-route-resolutions.json": {
-      "bytes": 66557,
-      "sha256": "62286da9f682427f73493789ba53a3a95a063d600155b1c160e64d4b9c4377b2"
+      "bytes": 10134927,
+      "sha256": "d286acb4fde5346e2d89029f0c6563669193f13e38b221d85dc6c90eeb6d857f"
     }
   },
   "source_file_count": 11912,
-  "source_bytes": 234662182,
+  "source_bytes": 244737108,
   "excluded": [
     ".git/**",
     ".hugo_build.lock"
@@ -47669,6 +47669,8 @@
     ".qa-linux/source-manifest.json",
     ".qa-linux/run_qa.py",
     ".qa-linux/build_rollback.py",
-    ".github/workflows/metaadvisor-rollback-export.yml"
+    ".github/workflows/metaadvisor-rollback-export.yml",
+    ".qa-linux/test_approved_routes.py",
+    ".qa-linux/verify_native_gate.py"
   ]
 }

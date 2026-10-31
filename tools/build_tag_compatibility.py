@@ -51,6 +51,7 @@ def document(title, lang, canonical, articles, main_topic=''):
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument('--output', type=Path, required=True)
     ap.add_argument('--report', type=Path, required=True); ap.add_argument('--release-check', action='store_true')
+    ap.add_argument('--migration-check', action='store_true', help='Run the same production migration guard without authorizing publication')
     args = ap.parse_args(); out = args.output.resolve(); start = time.perf_counter()
     if args.release_check:
         import subprocess,sys
@@ -87,6 +88,10 @@ def main():
             continue
         title = unquote(urlsplit(e['url']).path.strip('/').split('/')[-1])
         jobs.append((e['url'], document(title, e['language'], e['url'], target['articles'], e['proposed_301'])))
+    import sys
+    sys.path.insert(0, str(ROOT / 'tools'))
+    from migration_gate import approved_documents
+    jobs.extend(approved_documents(ROOT))
     for url, data in jobs:
         rel = path_for(url); key = str(rel) if os.name != 'nt' else os.path.normcase(str(rel))
         if key in routes or (out / rel).exists(): raise ValueError(f'Collision; refusing overwrite: {url}')
@@ -107,8 +112,9 @@ def main():
         'redirects_activated': 0, 'BC_RSS_generated': 0, 'empty_200_generated': 0}
     args.report.parent.mkdir(parents=True, exist_ok=True)
     args.report.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding='utf8')
-    print(json.dumps({k: v for k, v in result.items() if k not in ('files', 'pending', 'route_decisions')}, ensure_ascii=False), flush=True)
-    if args.release_check and pending:
-        raise SystemExit('RELEASE BLOCKED: unresolved old-route/feed decisions; see report. No upload is authorized.')
+    print(json.dumps({k: v for k, v in result.items() if k not in ('files', 'pending', 'route_decisions', 'resolved_pending')}, ensure_ascii=False), flush=True)
+    if args.release_check or args.migration_check:
+        from migration_gate import require_resolved
+        require_resolved(pending)
 
 if __name__ == '__main__': main()

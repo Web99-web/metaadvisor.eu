@@ -11,6 +11,7 @@ def py(name,file,*args):run(name,[sys.executable,'-u','-B','-c',wrapper,str(file
 py('source-before',q/'verify_snapshot.py','--repo',r,'--report',d/'source-before.json')
 index=subprocess.check_output(['git','ls-files','--stage','-z']);version=subprocess.check_output(['hugo','version'],text=True);assert 'v0.128.0' in version and 'extended' in version and 'linux' in version
 py('migration-gate-unit',r/'tools/test_migration_gate.py')
+py('approved-route-tests',q/'test_approved_routes.py')
 py('controls',r/'tools/prepare_tag_archives.py','--check')
 run('consent-unit',['node',str(q/'test-memory.cjs')])
 (d/'resource-overlay.toml').write_text('resourceDir = '+json.dumps(str(d/'resources'))+'\n',encoding='utf-8');manifest=json.loads((q/'source-manifest.json').read_text(encoding='utf-8'))
@@ -18,11 +19,12 @@ run('hugo',['hugo','--source',str(r),'--config',str(r/'config.toml')+','+str(d/'
 (d/'linux-build.json').write_text(json.dumps({'platform':sys.platform,'hugo_version':version.strip(),'returncode':0,'deployment':False}),encoding='utf-8')
 py('repairs',r/'tools/repair_verified_urls.py','--output',d/'public','--report',d/'repairs.json')
 # QA intentionally reports pending publication decisions; it never authorizes a release.
-py('compatibility',r/'tools/build_tag_compatibility.py','--output',d/'public','--report',d/'compatibility.json')
+py('compatibility',r/'tools/build_tag_compatibility.py','--output',d/'public','--report',d/'compatibility.json','--migration-check')
 py('final-policy',r/'tools/finalize_release.py','--output',d/'public','--report',d/'final-policy.json')
 py('validate',r/'tools/validate_tag_release.py','--output',d/'public','--compat-report',d/'compatibility.json','--report',d/'validation.json','--require-linux')
 py('exact-paths',q/'verify_exact_paths.py','--repo',r,'--build-dir',d,'--require-linux')
 py('http-MIME',q/'http_qa.py')
+py('native-migration-gate',q/'verify_native_gate.py')
 py('source-after',q/'verify_snapshot.py','--repo',r,'--report',d/'source-after.json')
 assert index==subprocess.check_output(['git','ls-files','--stage','-z'])
 rows=json.loads((d/'file-manifest.json').read_text(encoding='utf-8'));archive=d/'qa-site.tar.gz'
