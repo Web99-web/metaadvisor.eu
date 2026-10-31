@@ -1,5 +1,5 @@
 {
-  "captured_at_UTC": "2026-10-31T09:20:20.148212+00:00",
+  "captured_at_UTC": "2026-10-31T10:41:38.084111+00:00",
   "base_SHA": "ec5206ea964d5ecad2e626465abe9dd8a9f80966",
   "snapshot_branch": "qa/metaadvisor-linux-2026-10-30",
   "source_files": {
@@ -42796,8 +42796,8 @@
       "sha256": "afc8a62ba258c2b0ab78e5cbc5d17817f464ae5190c1e1dfe9e425f4309681f6"
     },
     "layouts/_default/index.json": {
-      "bytes": 2328,
-      "sha256": "748402f25ee40e8eb7b7aa2b6a5e00d902f9b5917acd52ce40aa8c146aeb89e8"
+      "bytes": 2610,
+      "sha256": "b2d8417adc0baa11b880d9b8a6d3d752cbbc6c6fbbcf8a94a6aae13477ba1c66"
     },
     "layouts/_default/list.html": {
       "bytes": 11390,
@@ -42972,8 +42972,8 @@
       "sha256": "8437aa48478be92c49de2006328185b0f37702fa7497e22ce451e5f3bc7da078"
     },
     "layouts/partials/search-ui.html": {
-      "bytes": 4413,
-      "sha256": "4bb029c5b3712978d64626cc5f10173bd1d2a34fda2c57c3fd5dae043e2bb1be"
+      "bytes": 2220,
+      "sha256": "e98d28c2fac74149c4b3480c4bec8cc6738c6da85e28c1c6c01057532a0f9de3"
     },
     "layouts/partials/seo-links.html": {
       "bytes": 1923,
@@ -47650,10 +47650,18 @@
     "migration/approved-route-resolutions.json": {
       "bytes": 10134927,
       "sha256": "d286acb4fde5346e2d89029f0c6563669193f13e38b221d85dc6c90eeb6d857f"
+    },
+    "layouts/partials/search-content.html": {
+      "bytes": 1457,
+      "sha256": "d67e694461ac8de614fe2843120f7a5ec69c75c8175a2e5407010087a7d7d8c3"
+    },
+    "static/js/article-search.js": {
+      "bytes": 9476,
+      "sha256": "d822cfd4eb70ec84b067bed836edf68c04300dce31e52efdcf0295eda9a247c3"
     }
   },
-  "source_file_count": 11912,
-  "source_bytes": 244737108,
+  "source_file_count": 11914,
+  "source_bytes": 244746130,
   "excluded": [
     ".git/**",
     ".hugo_build.lock"
@@ -47671,6 +47679,8 @@
     ".qa-linux/build_rollback.py",
     ".github/workflows/metaadvisor-rollback-export.yml",
     ".qa-linux/test_approved_routes.py",
-    ".qa-linux/verify_native_gate.py"
+    ".qa-linux/verify_native_gate.py",
+    ".qa-linux/test-search.cjs",
+    ".qa-linux/test-search-worker.cjs"
   ]
 }

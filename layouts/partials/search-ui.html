@@ -2,7 +2,7 @@
   <form id="onsite-search-form" style="display:flex;gap:10px;align-items:center;max-width:880px;">
     
     <input id="q" type="search"
-  placeholder="{{ if eq .Lang "de" }}Suche nach Titel/Zusammenfassung…{{ else if eq .Lang "hr" }}Pretraga po naslovu/sažetku…{{ else }}Search articles or topics…{{ end }}"
+  placeholder="{{ if eq .Lang "de" }}Artikel oder Themen suchen…{{ else if eq .Lang "hr" }}Pretraži članke ili teme…{{ else }}Search articles or topics…{{ end }}"
   aria-label="{{ if eq .Lang "de" }}Suche{{ else if eq .Lang "hr" }}Pretraga{{ else }}Search{{ end }}"
       
            style="flex:1;padding:10px 14px;border:1px solid #cfd6e4;border-radius:10px;font-size:16px;">
@@ -12,7 +12,9 @@
     </button>
   </form>
 
+  <p id="search-count" role="status" aria-live="polite"></p>
   <div id="search-results" class="cards" style="margin-top:14px;display:grid;grid-template-columns:1fr;gap:24px;"></div>
+  <nav id="search-pages" aria-label="{{ if eq .Lang "hr" }}Stranice rezultata{{ else if eq .Lang "de" }}Ergebnisseiten{{ else }}Result pages{{ end }}" style="display:flex;gap:12px;align-items:center;margin-top:16px"></nav>
 </div>
 
 <style>
@@ -28,69 +30,4 @@
   #onsite-search .card-summary{ font-size:.95rem; opacity:.9; }
 </style>
 
-<script>
-(function(){
-  var form = document.getElementById('onsite-search-form');
-  var input = document.getElementById('q');
-  var grid  = document.getElementById('search-results');
-  var DATA = null;
-
-  function cardHTML(it){
-    var date = it.date ? it.date : '';
-    var img  = it.image || '/images/placeholder-metaadvisor-small.jpg';
-    var title = it.title || '';
-    var sum = it.summary ? it.summary : '';
-    return (
-      '<div class="card">'
-      +  '<a href="'+it.url+'" target="_blank" rel="noopener">'
-      +    '<img class="card-img" src="'+img+'" alt="'+title.replace(/"/g,'&quot;')+'">'
-      +  '</a>'
-      +  '<div class="card-body">'
-      +    '<div class="card-meta">'+ (date ? date : '') +'</div>'
-      +    '<h3 class="card-title"><a href="'+it.url+'" target="_blank" rel="noopener">'+title+'</a></h3>'
-      +    (sum ? '<p class="card-summary">'+sum+'</p>' : '')
-      +  '</div>'
-      +'</div>'
-    );
-  }
-
-  function render(items){
-    var noResultsText = "{{ if eq .Lang "de" }}Keine Ergebnisse.{{ else if eq .Lang "hr" }}Nema rezultata.{{ else }}No results.{{ end }}";
-
-    if(!items || !items.length){
-      grid.innerHTML = '<div style="opacity:.7;padding:6px 2px;">'+noResultsText+'</div>';
-      return;
-    }
-    grid.innerHTML = items.map(cardHTML).join('');
-  }
-
-  function search(q){
-    if(!DATA){ return; }
-    q = (q||'').toLowerCase().trim();
-    if(!q){ grid.innerHTML=''; return; }
-    var words = q.split(/\s+/);
-    var res = DATA.filter(function(it){
-      var hay = (it.title+' '+(it.summary||'')+' '+(it.tags||[]).join(' ')).toLowerCase();
-      return words.every(function(w){ return hay.indexOf(w) >= 0; });
-    }).slice(0,30);
-    render(res);
-  }
-
-  var errorText = "{{ if eq .Lang "de" }}Fehler beim Laden des Index.{{ else if eq .Lang "hr" }}Greška pri učitavanju indeksa.{{ else }}Error loading search index.{{ end }}";
-
-  var lang = document.documentElement.lang;
-
-  var indexPath = '/index.json';
-  if(lang === 'hr') indexPath = '/hr/index.json';
-  if(lang === 'de') indexPath = '/de/index.json';
-
-  fetch(indexPath, {credentials:'omit'})
-  .then(function(r){ return r.json(); })
-  .then(function(j){ DATA = j; })
-  .catch(function(){
-    grid.innerHTML = '<div style="color:#b42318">'+errorText+'</div>';
-  });
-  form.addEventListener('submit', function(e){ e.preventDefault(); search(input.value); });
-  input.addEventListener('input', function(){ search(input.value); });
-})();
-</script>
+<script src="/js/article-search.js" defer></script>

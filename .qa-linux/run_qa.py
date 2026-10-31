@@ -25,6 +25,8 @@ py('validate',r/'tools/validate_tag_release.py','--output',d/'public','--compat-
 py('exact-paths',q/'verify_exact_paths.py','--repo',r,'--build-dir',d,'--require-linux')
 py('http-MIME',q/'http_qa.py')
 py('native-migration-gate',q/'verify_native_gate.py')
+run('article-search',['node',str(q/'test-search.cjs')])
+run('article-search-worker',['node',str(q/'test-search-worker.cjs')])
 py('source-after',q/'verify_snapshot.py','--repo',r,'--report',d/'source-after.json')
 assert index==subprocess.check_output(['git','ls-files','--stage','-z'])
 rows=json.loads((d/'file-manifest.json').read_text(encoding='utf-8'));archive=d/'qa-site.tar.gz'

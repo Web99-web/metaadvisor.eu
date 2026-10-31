@@ -47,11 +47,14 @@
     {{ end }}
   {{ end }}
 
+  {{- $search := partial "search-content.html" $pg -}}
   {
     "title": {{ $pg.Title | jsonify }},
     "url": {{ $pg.RelPermalink | jsonify }},
     "date": {{ $pg.Date.Format "2006-01-02" | jsonify }},
-    "summary": {{ $pg.Summary | plainify | jsonify }},
+    "summary": {{ ($pg.Params.summary | default ($search.Content | truncate 350)) | plainify | htmlUnescape | jsonify }},
+    "content": {{ $search.Content | jsonify }},
+    "headings": {{ $search.Headings | jsonify }},
     "image": {{ $src | jsonify }},
     "tags": {{ $pg.Params.tags | default (slice) | jsonify }}
   }
