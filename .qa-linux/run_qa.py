@@ -1,7 +1,7 @@
 from pathlib import Path
 import sys,os,json,subprocess,datetime,tarfile,hashlib
 r=Path.cwd();q=r/'.qa-linux';d=Path(os.environ['MA_QA_OUTPUT']).resolve();assert sys.platform=='linux';assert not d.exists();assert not d.is_relative_to(r);d.mkdir(parents=True)
-wrapper='import concurrent.futures,runpy,sys; Original=concurrent.futures.ThreadPoolExecutor\nclass Limited(Original):\n def __init__(self,max_workers=None,*a,**k): super().__init__(max_workers=min(max_workers or 2,2),*a,**k)\nconcurrent.futures.ThreadPoolExecutor=Limited\nsys.argv=sys.argv[1:];runpy.run_path(sys.argv[0],run_name="__main__")'
+wrapper='import concurrent.futures,runpy,sys; Original=concurrent.futures.ThreadPoolExecutor\nclass Limited(Original):\n def __init__(self,max_workers=None,*a,**k): super().__init__(max_workers=min(max_workers or 2,2),*a,**k)\nconcurrent.futures.ThreadPoolExecutor=Limited\nsys.argv=sys.argv[1:];from pathlib import Path;sys.path.insert(0,str(Path(sys.argv[0]).resolve().parent));runpy.run_path(sys.argv[0],run_name="__main__")'
 results=[]
 def run(name,cmd):
  with (d/(name+'.log')).open('w',encoding='utf-8') as f:p=subprocess.run(cmd,stdout=f,stderr=subprocess.STDOUT)
