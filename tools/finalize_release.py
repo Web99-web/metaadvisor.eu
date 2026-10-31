@@ -3,6 +3,7 @@ from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit, urlunsplit, urljoin, unquote
 import argparse, json, re, html, concurrent.futures, hashlib, os
+from release_articles import load_release_articles
 ROOT = Path(__file__).resolve().parents[1]
 DOMAIN = 'https://metaadvisor.eu'
 ATTR = re.compile(r"""(?P<name>[\w:-]+)\s*=\s*(?P<q>["'])(?P<value>.*?)(?P=q)""")
@@ -71,7 +72,7 @@ def main():
     args = ap.parse_args(); out = args.output.resolve()
     if out == ROOT or ROOT in out.parents: raise SystemExit('Use an output outside the active repository')
     if not (out / 'sitemap.xml').is_file(): raise SystemExit('Expected Hugo output')
-    expected = json.loads((ROOT / 'migration/expected-primary-pages.json').read_text(encoding='utf-8'))
+    expected = load_release_articles(ROOT, out)
     def file_key(url):
         parts=unquote(urlsplit(url).path).strip('/').split('/')
         if os.name=='nt': parts=[p.rstrip('. ') for p in parts]

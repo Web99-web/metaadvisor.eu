@@ -11,6 +11,7 @@ import re
 import sys
 from urllib.parse import unquote, urljoin, urlsplit
 import xml.etree.ElementTree as ET
+from release_articles import load_release_articles, article_membership_preserved
 
 ROOT = Path(__file__).resolve().parents[1]
 DOMAIN = 'https://metaadvisor.eu'
@@ -24,7 +25,7 @@ def main():
     # lxml is installed in the local QA runtime; the Linux checklist installs the same dependency.
     from lxml import html
     out = args.output.resolve(); compat = json.loads(args.compat_report.read_text(encoding='utf8'))
-    expected = json.loads((ROOT / 'migration/expected-primary-pages.json').read_text(encoding='utf8'))
+    expected = load_release_articles(ROOT, out)
     compatibility_files = {x['file'] for x in compat['files']}
     compat_urls = {x['file']:x['url'] for x in compat['files']}
     route_canon = {unquote(r['url']):r['canonical'] for e in json.loads((ROOT/'migration/tag-compatibility.json').read_text(encoding='utf8')) for r in e['html_routes']}
@@ -155,13 +156,15 @@ def main():
         if unquote(DOMAIN+'/'+p.removesuffix('index.xml')) in bc: errors.append(['BC feed emitted', p])
     # Check complete A membership, including synonym unions and pagination, against the saved release model.
     inventory = ROOT/'migration/expected-A-memberships.json'
+    historical_articles = {unquote(r['url']) for r in json.loads((ROOT/'migration/expected-primary-pages.json').read_text(encoding='utf8'))}
+    new_articles = {unquote(r['url']) for r in expected} - historical_articles
     member_checks = 0
     for row in json.loads(inventory.read_text(encoding='utf8')):
         stem = target_file(row['url']).removesuffix('index.html'); got = set()
         for path, urls in cards.items():
             if path == stem+'index.html' or re.fullmatch(re.escape(stem)+r'page/\d+/index.html',path): got.update(unquote(urljoin(DOMAIN+'/',u)) for u in urls)
         want = set(map(unquote,row['shown_members']))
-        if got != want: errors.append(['A membership changed',row['url'],len(got),len(want)])
+        if not article_membership_preserved(got, want, new_articles): errors.append(['A membership changed',row['url'],len(got),len(want)])
         member_checks += 1
     args.report.parent.mkdir(parents=True,exist_ok=True)
     for name, values in [('unresolved-anchors.csv',links),('unresolved-resources.csv',assets)]:
