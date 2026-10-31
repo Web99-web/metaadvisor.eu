@@ -1,5 +1,5 @@
 {
-  "captured_at_UTC": "2026-10-31T10:41:38.084111+00:00",
+  "captured_at_UTC": "2026-10-31T19:09:45.715368+00:00",
   "base_SHA": "ec5206ea964d5ecad2e626465abe9dd8a9f80966",
   "snapshot_branch": "qa/metaadvisor-linux-2026-10-30",
   "source_files": {
@@ -42967,6 +42967,10 @@
       "bytes": 3145,
       "sha256": "39b0f5c207c7b47613b03cf0272b87fd204ef601d42b56b1fdd1869d8afd5922"
     },
+    "layouts/partials/search-content.html": {
+      "bytes": 1457,
+      "sha256": "d67e694461ac8de614fe2843120f7a5ec69c75c8175a2e5407010087a7d7d8c3"
+    },
     "layouts/partials/search-form.html": {
       "bytes": 1253,
       "sha256": "8437aa48478be92c49de2006328185b0f37702fa7497e22ce451e5f3bc7da078"
@@ -43019,6 +43023,10 @@
       "bytes": 264,
       "sha256": "c258646cc76f051e72472488ee7471a228cada6b102d0194a8c243eb8abf0db3"
     },
+    "migration/approved-route-resolutions.json": {
+      "bytes": 10134927,
+      "sha256": "d286acb4fde5346e2d89029f0c6563669193f13e38b221d85dc6c90eeb6d857f"
+    },
     "migration/bundle-mime-migrations.json": {
       "bytes": 1261,
       "sha256": "5e85b7015bc87b51e3ff90e9c205c68ed0db3bd7f5657293dca28d635370032a"
@@ -43068,8 +43076,8 @@
       "sha256": "b3aa8dec3c442ce45d57cb5425c650a247558a710e7ee2a9ca63563a19c43296"
     },
     "migration/release-approvals.json": {
-      "bytes": 283,
-      "sha256": "f3dc524a026a6922bf21ac5e4a17403d48b656ae7eed23a30fb3f2807d9b3001"
+      "bytes": 577,
+      "sha256": "140f3698b43af45d969f17064e55ad7e63b430023f81f899caf4dbcb1c8cdeec"
     },
     "migration/tag-compatibility.json": {
       "bytes": 14623167,
@@ -47579,6 +47587,10 @@
       "bytes": 176308,
       "sha256": "19f001bd5a32a221fed1d399af1ca202d91f062b3b9b3ceaacd47512808f6216"
     },
+    "static/js/article-search.js": {
+      "bytes": 9476,
+      "sha256": "d822cfd4eb70ec84b067bed836edf68c04300dce31e52efdcf0295eda9a247c3"
+    },
     "static/js/ma-consent.js": {
       "bytes": 14750,
       "sha256": "2dc95c1516835d78513894ad8abfb1526fa3d300ae89f7e966fabe51fb14f6df"
@@ -47612,12 +47624,16 @@
       "sha256": "2ce746ef24ec728b9df5a5c3d77a5caeaf2102aeb890542ccbdc3942053f80bb"
     },
     "tools/finalize_release.py": {
-      "bytes": 7737,
-      "sha256": "0028f1fff728570fcee47de1eb5fdd09a63b82c986a3dcbecf8d2234670ff658"
+      "bytes": 7732,
+      "sha256": "5f248fb6b351aa3777d8f686cbb0991d75d86c1bc1b6efa6d7270e092266feae"
     },
     "tools/image_physical_plan.py": {
       "bytes": 2150,
       "sha256": "3feda40196af28c8fabf142539f27b637f15bf7855835b8c60aa8129d12f8e81"
+    },
+    "tools/migration_gate.py": {
+      "bytes": 8018,
+      "sha256": "43f4c6d4f573d47554b20a6129edea5920fd1c9943919c1f7e4a4167f635300b"
     },
     "tools/prepare_tag_archives.py": {
       "bytes": 2222,
@@ -47632,36 +47648,20 @@
       "sha256": "7b64829623492caf4f7b73d4e364ae6df039169185200894cf9198e348311d44"
     },
     "tools/validate_tag_release.py": {
-      "bytes": 14076,
-      "sha256": "a864202c9575f6cd03148018a04178f01eb5ed8a8fa6afa079518405401bd2ad"
+      "bytes": 14368,
+      "sha256": "34d92ddbcc611074b6a66b27d83287f8e06f506d509985487f5c7aba487ac4d1"
     },
     "translate_existing.py": {
       "bytes": 1656,
       "sha256": "aebffcb4144515899380bfbc9795a4b75ccc1ec78d4803a44c9c5c73996636b8"
     },
-    "tools/migration_gate.py": {
-      "bytes": 8018,
-      "sha256": "43f4c6d4f573d47554b20a6129edea5920fd1c9943919c1f7e4a4167f635300b"
-    },
-    "tools/test_migration_gate.py": {
-      "bytes": 2283,
-      "sha256": "e88fb4b665ddc43646dce0feab7879372ea6a3defa8e87c5c78ce66878213a3b"
-    },
-    "migration/approved-route-resolutions.json": {
-      "bytes": 10134927,
-      "sha256": "d286acb4fde5346e2d89029f0c6563669193f13e38b221d85dc6c90eeb6d857f"
-    },
-    "layouts/partials/search-content.html": {
-      "bytes": 1457,
-      "sha256": "d67e694461ac8de614fe2843120f7a5ec69c75c8175a2e5407010087a7d7d8c3"
-    },
-    "static/js/article-search.js": {
-      "bytes": 9476,
-      "sha256": "d822cfd4eb70ec84b067bed836edf68c04300dce31e52efdcf0295eda9a247c3"
+    "tools/release_articles.py": {
+      "bytes": 4620,
+      "sha256": "0d148a6eaf017c8d1b9d43f66a1bffc8a31bb7b67d4a539e5e1cbf8445d0ebff"
     }
   },
   "source_file_count": 11914,
-  "source_bytes": 244746130,
+  "source_bytes": 244749048,
   "excluded": [
     ".git/**",
     ".hugo_build.lock"
@@ -47669,18 +47669,24 @@
   "extra_allowed": [
     ".gitattributes",
     ".github/workflows/metaadvisor-linux-qa.yml",
-    ".qa-linux/verify_snapshot.py",
-    ".qa-linux/verify_exact_paths.py",
-    ".qa-linux/test-memory.cjs",
-    ".qa-linux/http_qa.py",
-    ".qa-linux/special-urls.json",
-    ".qa-linux/source-manifest.json",
-    ".qa-linux/run_qa.py",
-    ".qa-linux/build_rollback.py",
     ".github/workflows/metaadvisor-rollback-export.yml",
-    ".qa-linux/test_approved_routes.py",
-    ".qa-linux/verify_native_gate.py",
+    ".qa-linux/build_rollback.py",
+    ".qa-linux/future-fixtures.json",
+    ".qa-linux/http_qa.py",
+    ".qa-linux/run_qa.py",
+    ".qa-linux/source-manifest.json",
+    ".qa-linux/special-urls.json",
+    ".qa-linux/test-article-guards.py",
+    ".qa-linux/test-future-publication.py",
+    ".qa-linux/test-memory.cjs",
+    ".qa-linux/test-search-worker.cjs",
     ".qa-linux/test-search.cjs",
-    ".qa-linux/test-search-worker.cjs"
-  ]
+    ".qa-linux/test_approved_routes.py",
+    ".qa-linux/verify_exact_paths.py",
+    ".qa-linux/verify_native_gate.py",
+    ".qa-linux/verify_snapshot.py",
+    "tools/test_migration_gate.py",
+    ".qa-linux/source-approval.json"
+  ],
+  "production_parent": "479b7c0e99fc5facc5954e13c9165213b1c826d7"
 }

@@ -1,7 +1,7 @@
 {
-  "publication_approved": false,
-  "linux_qa_completed": false,
-  "http_migration_layer_approved": false,
-  "regional_analytics_review_completed": false,
-  "note": "Only explicit approvals / actual test evidence may change these flags; local QA never sets publication approval."
+  "publication_approved": true,
+  "linux_qa_completed": true,
+  "http_migration_layer_approved": true,
+  "regional_analytics_review_completed": true,
+  "note": "Final EN/HR/DE publication explicitly approved by Sonja on 2026-10-31 for prepared commit 985eba3bbc5cc026d225d1478b495b0e0b10be17. Linux QA https://github.com/Web99-web/metaadvisor.eu/actions/runs/41193799844. Migration plan approved; Cloudflare redirects and regional Worker must remain inactive. Regional consent controller reviewed/tested with conservative fallback; no change to tag noindex policy."
 }

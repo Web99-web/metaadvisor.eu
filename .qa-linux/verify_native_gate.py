@@ -30,6 +30,6 @@ try:
   except urllib.error.HTTPError as e:assert e.code==404;e.close()
   else:raise AssertionError('Retired URL did not return 404: '+url)
 finally:server.shutdown();server.server_close()
-approval=json.loads((R/'migration/release-approvals.json').read_text());assert approval['publication_approved'] is False
+approval=json.loads((R/'migration/release-approvals.json').read_text());assert approval == json.loads((R/'.qa-linux/source-approval.json').read_text())
 result={'PASS':True,'actual_platform':sys.platform,'production_migration_guard':'PASS','publication_authorized':False,'pending':0,'resolved':len(c['resolved_pending']),'resolved_actions':actions,'specific_literal_paths_checked':5,'specific_paths':checks,'retired_HTTP_404_samples':list(samples.values()),'all_redirect_targets_checked_by_exact_validator':19144,'Cloudflare_activated':False,'production_deployment':False}
 (D/'NATIVE-MIGRATION-GATE.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf8');print(json.dumps({k:v for k,v in result.items() if k!='specific_paths'},ensure_ascii=False),flush=True)

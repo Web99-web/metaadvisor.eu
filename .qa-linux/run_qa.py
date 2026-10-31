@@ -19,7 +19,7 @@ run('hugo',['hugo','--source',str(r),'--config',str(r/'config.toml')+','+str(d/'
 (d/'linux-build.json').write_text(json.dumps({'platform':sys.platform,'hugo_version':version.strip(),'returncode':0,'deployment':False}),encoding='utf-8')
 py('repairs',r/'tools/repair_verified_urls.py','--output',d/'public','--report',d/'repairs.json')
 # QA intentionally reports pending publication decisions; it never authorizes a release.
-py('compatibility',r/'tools/build_tag_compatibility.py','--output',d/'public','--report',d/'compatibility.json','--migration-check')
+py('compatibility',r/'tools/build_tag_compatibility.py','--output',d/'public','--report',d/'compatibility.json','--release-check')
 py('final-policy',r/'tools/finalize_release.py','--output',d/'public','--report',d/'final-policy.json')
 py('validate',r/'tools/validate_tag_release.py','--output',d/'public','--compat-report',d/'compatibility.json','--report',d/'validation.json','--require-linux')
 py('exact-paths',q/'verify_exact_paths.py','--repo',r,'--build-dir',d,'--require-linux')
@@ -27,6 +27,8 @@ py('http-MIME',q/'http_qa.py')
 py('native-migration-gate',q/'verify_native_gate.py')
 run('article-search',['node',str(q/'test-search.cjs')])
 run('article-search-worker',['node',str(q/'test-search-worker.cjs')])
+py('future-article-guards',q/'test-article-guards.py')
+py('future-article-publication',q/'test-future-publication.py')
 py('source-after',q/'verify_snapshot.py','--repo',r,'--report',d/'source-after.json')
 assert index==subprocess.check_output(['git','ls-files','--stage','-z'])
 rows=json.loads((d/'file-manifest.json').read_text(encoding='utf-8'));archive=d/'qa-site.tar.gz'
