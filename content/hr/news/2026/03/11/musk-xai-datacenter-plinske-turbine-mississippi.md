@@ -8,14 +8,15 @@ author: "The Guardian"
 analysis_by: "Metaadvisor.eu"
 source: "The Guardian Tech"
 source_url: ""
-image_url: "/images/news/xai-datacenter-power.png"
-featured_image: "/images/news/xai-datacenter-power.png"
-image: "/images/news/xai-datacenter-power.png"
-thumbnail: "/images/news/xai-datacenter-power.png"
+image_url: "/images/news/xai-datacenter-power.webp"
+featured_image: "/images/news/xai-datacenter-power.webp"
+image: "/images/news/xai-datacenter-power.webp"
+thumbnail: "/images/news/xai-datacenter-power.webp"
 image_alt: "xAI datacenter turbine i AI infrastruktura"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["ai", "umjetna inteligencija", "xai", "elon musk", "grok", "ai datacenter", "superračunala", "ai infrastruktura", "energetska potrošnja ai", "tehnologija", "datacentri", "ai industrija"]
 summary: "Tvrtka xAI Elona Muska dobila je dozvolu za rad 41 plinske turbine koje će napajati AI datacentar Colossus 2 u Mississippiju. Odluka dolazi unatoč snažnom protivljenju lokalne zajednice i ekoloških organizacija."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

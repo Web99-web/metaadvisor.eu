@@ -15,6 +15,7 @@ image_alt: "Bitcoin BTC after a short drop and rebound toward 64,500 dollars"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Strategy", "Michael Saylor", "BTC sale", "Bitcoin price", "crypto market", "BTC volatility", "Bitcoin rebound", "MSTR", "crypto sentiment"]
 summary: "Bitcoin briefly fell toward $61,000 after news that Strategy had sold part of its BTC holdings, but then recovered toward $64,500. The story is not only about the sale, but also about how quickly the market absorbed the shock."
+categories: ["crypto"]
 ---
 
 The image is symbolic.

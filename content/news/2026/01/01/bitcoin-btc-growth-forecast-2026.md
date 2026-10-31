@@ -24,6 +24,7 @@ tags:
   - liquidity
   - institutions
 summary: "Bitcoin enters 2026 caught between two opposing narratives: some analysts warn of a potential decline toward $60,000, while others expect strong growth and a possible new all-time high as early as Q1 2026."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 10px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

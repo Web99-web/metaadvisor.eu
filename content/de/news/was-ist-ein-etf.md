@@ -7,6 +7,7 @@ summary: "Ein ETF ist ein Fonds, der wie eine Aktie an der Börse gehandelt wird
 tags: ["etf","investieren","bitcoin","crypto","indizes","futures","spot-etf","custody","tracking-error"]
 image_url: "https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=1200&q=60"
 image_alt: "Börsenmonitore und Charts – Illustration"
+categories: ["guide"]
 ---
 
 ## Was ist ein ETF?

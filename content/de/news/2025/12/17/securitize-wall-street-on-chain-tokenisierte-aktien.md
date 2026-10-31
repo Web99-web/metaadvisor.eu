@@ -7,14 +7,15 @@ translationKey: "securitize_wall_street_on_chain_17122025"
 source: "Cointelegraph, CoinDesk, MetaAdvisor Analyse"
 source_url: "https://cointelegraph.com / https://www.coindesk.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/Wall-street-on-chain.png"
-featured_image: "/images/Wall-street-on-chain.png"
-image: "/images/Wall-street-on-chain.png"
-thumbnail: "/images/Wall-street-on-chain.png"
+image_url: "/images/Wall-street-on-chain.webp"
+featured_image: "/images/Wall-street-on-chain.webp"
+image: "/images/Wall-street-on-chain.webp"
+thumbnail: "/images/Wall-street-on-chain.webp"
 image_alt: "Wall Street kommt on-chain – Securitize und die Tokenisierung echter Aktien"
 image_credit: "Illustration / symbolisches Bild"
 tags: ["securitize", "wall street", "tokenisierung", "aktien", "tradfi", "defi", "blockchain", "krypto", "finanzmärkte", "web3"]
 summary: "Das US-Unternehmen Securitize bringt regulierte, echte Aktien on-chain. Damit beginnt eine neue Phase, in der Wall Street die Blockchain als ernsthafte Finanzinfrastruktur nutzt."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

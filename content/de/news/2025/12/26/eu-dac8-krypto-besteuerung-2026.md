@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/12/24/eu-s-crypto-tax-reporting-starts-in-january-with-threat-of-asset-seizure"
 author: "CoinDesk — Analyse und Aufbereitung: MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/eu-tax-crypto-dac8-1.1.2026.png"
-featured_image: "/images/eu-tax-crypto-dac8-1.1.2026.png"
-image: "/images/eu-tax-crypto-dac8-1.1.2026.png"
-thumbnail: "/images/eu-tax-crypto-dac8-1.1.2026.png"
+image_url: "/images/eu-tax-crypto-dac8-1.1.2026.webp"
+featured_image: "/images/eu-tax-crypto-dac8-1.1.2026.webp"
+image: "/images/eu-tax-crypto-dac8-1.1.2026.webp"
+thumbnail: "/images/eu-tax-crypto-dac8-1.1.2026.webp"
 image_alt: "EU führt DAC8 für Krypto-Steuern ab 1.1.2026 ein"
 image_credit: "MetaAdvisor"
 tags: ["krypto", "steuer", "eu", "dac8", "besteuerung", "bitcoin", "ethereum", "regulierung"]
 summary: "Ab dem 1. Januar 2026 führt die EU mit DAC8 einen neuen Rahmen für den automatischen Informationsaustausch über Krypto-Transaktionen ein. Wir erklären, wer Daten meldet, wann Steuern anfallen und was das für Anleger bedeutet."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

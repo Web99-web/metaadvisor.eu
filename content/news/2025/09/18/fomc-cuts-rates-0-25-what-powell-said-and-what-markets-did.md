@@ -15,6 +15,7 @@ image_alt: "FOMC decision, rates and Bitcoin — market reaction"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["fed","fomc","rates","macro","bitcoin","stocks","bonds","usd","press-conference","metaadvisor"]
 summary: "The Fed trimmed rates by 25 bps. Prices dipped, then rebounded. Bottom line: slightly cheaper money — without a promise of a fast, large cutting cycle."
+categories: ["news"]
 ---
 
 ### What the Fed decided — in plain English

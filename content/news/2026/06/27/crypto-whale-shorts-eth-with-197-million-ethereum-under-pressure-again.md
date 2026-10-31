@@ -15,6 +15,7 @@ image_alt: "Ethereum under pressure after a large crypto whale short position"
 image_credit: "Metaadvisor.eu"
 tags: ["Ethereum", "ETH", "crypto whale", "short", "crypto", "trading", "crypto market", "Ethereum Foundation", "DeFi", "leverage", "crypto analysis", "Metaadvisor"]
 summary: "A large Ethereum trader opened a $19.7 million ETH short position with 20x leverage. The move comes as Ether faces technical pressure and questions around Ethereum’s funding, governance and the role of the Ethereum Foundation return to the spotlight."
+categories: ["crypto"]
 ---
 
 The image is symbolic.

@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "maya-protocol-exploit-20-83-btc-2026-08-22"
 source: "Maya Protocol, SigIntZero, CryptoSlate, Cointelegraph, BeInCrypto, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hacker.png"
-featured_image: "/images/hacker.png"
-image: "/images/hacker.png"
-thumbnail: "/images/hacker.png"
+image_url: "/images/hacker.webp"
+featured_image: "/images/hacker.webp"
+image: "/images/hacker.webp"
+thumbnail: "/images/hacker.webp"
 image_alt: "Maya Protocol exploit after which the hacker still holds 20.83 BTC"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Maya Protocol", "MAYAChain", "CACAO", "Bitcoin", "BTC", "DeFi", "crypto hack", "exploit", "liquidity pool", "cybersecurity"]
 description: "MAYAChain remains halted after the exploit, while the address linked to the attacker still holds around 20.83 BTC. The total decline in liquidity pool value has been estimated at nearly $11 million."
 summary: "Maya Protocol halted MAYAChain after an exploit in which the attacker used a chain of software bugs. Four days later, the hacker still holds 20.83 BTC, while the impact on liquidity pools has reached nearly $11 million."
+categories: ["Crypto"]
 ---
 
 *Image is symbolic.*

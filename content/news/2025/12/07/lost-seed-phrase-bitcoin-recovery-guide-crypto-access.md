@@ -7,14 +7,15 @@ translationKey: "lost_seed_phrase_recovery_metaadvisor_07122025"
 source: "MetaAdvisor – educational article"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-Lost-seed-phrase.png"
-featured_image: "/images/BTC-Lost-seed-phrase.png"
-image: "/images/BTC-Lost-seed-phrase.png"
-thumbnail: "/images/BTC-Lost-seed-phrase.png"
+image_url: "/images/BTC-Lost-seed-phrase.webp"
+featured_image: "/images/BTC-Lost-seed-phrase.webp"
+image: "/images/BTC-Lost-seed-phrase.webp"
+thumbnail: "/images/BTC-Lost-seed-phrase.webp"
 image_alt: "Lost Bitcoin seed phrase – user in panic"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","cryptocurrency","seed phrase","lost access","wallet security","ledger","trezor","crypto safety","blockchain","bitcoin recovery"]
 summary: "Can you recover lost bitcoin if you've misplaced your seed phrase? Rarely — and only under specific conditions. Here are the rules no one says out loud."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "defituna-solana-defi-discovery-user-liquidity-problem-2026"
 source: "Metaadvisor (DeFiTuna, FusionAMM, Phantom)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/DeFiTuna-Solana.png"
-featured_image: "/images/companies/DeFiTuna-Solana.png"
-image: "/images/companies/DeFiTuna-Solana.png"
-thumbnail: "/images/companies/DeFiTuna-Solana.png"
+image_url: "/images/companies/DeFiTuna-Solana.webp"
+featured_image: "/images/companies/DeFiTuna-Solana.webp"
+image: "/images/companies/DeFiTuna-Solana.webp"
+thumbnail: "/images/companies/DeFiTuna-Solana.webp"
 image_alt: "DeFiTuna na Solani i problem pronalaska DeFi protokola za obične korisnike"
 image_credit: "Metaadvisor.eu"
 tags: ["defituna", "tuna token", "fusionamm", "solana", "phantom wallet", "solflare", "backpack wallet", "jupiter", "amm", "automated market maker", "clmm", "koncentrirana likvidnost", "lending", "leverage", "leveraged liquidity", "defi protokol", "solana defi", "wallet", "dapp", "tvl", "total value locked", "likvidnost", "phishing", "scam linkovi", "crypto korisnici", "decentralizirane aplikacije"]
 summary: "DeFiTuna je DeFi protokol na Solani koji spaja koncentriranu likvidnost, lending i leveraged pozicije, ali pokazuje i širi problem DeFi industrije: običnom korisniku često nije jasno kako sigurno pronaći pravi protokol, razlikovati token od aplikacije i spojiti wallet bez rizika."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

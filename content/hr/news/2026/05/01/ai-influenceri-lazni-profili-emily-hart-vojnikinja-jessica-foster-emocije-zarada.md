@@ -7,14 +7,15 @@ translationKey: "8d5c1b9a4f6e4c2a9b3d7e1f0a2c6e77"
 source: "Metaadvisor (WIRED, Indian Times, People, NDTV)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/AI-profile-not-real1.png"
-featured_image: "/images/news/AI-profile-not-real1.png"
-image: "/images/news/AI-profile-not-real1.png"
-thumbnail: "/images/news/AI-profile-not-real1.png"
+image_url: "/images/news/AI-profile-not-real1.webp"
+featured_image: "/images/news/AI-profile-not-real1.webp"
+image: "/images/news/AI-profile-not-real1.webp"
+thumbnail: "/images/news/AI-profile-not-real1.webp"
 image_alt: "AI influencer i manipulacija emocijama"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "influencer", "deepfake", "emocije", "emily hart", "manipulacija", "socijalne mreže", "monetizacija", "digitalni identitet", "internet", "trend"]
 summary: "AI influencerica Emily Hart i slični profili pokazuju kako emocije i umjetna inteligencija mogu izgraditi publiku i zaradu bez stvarnog identiteta."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

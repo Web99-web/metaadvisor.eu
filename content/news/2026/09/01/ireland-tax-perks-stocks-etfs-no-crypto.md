@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "ireland-tax-perks-stocks-etfs-no-crypto-2026-09-01"
 source: "Department of Finance Ireland, Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
-featured_image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
-image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
-thumbnail: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
+image_url: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
+featured_image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
+image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
+thumbnail: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
 image_alt: "Ireland plans tax-advantaged investment accounts for stocks and ETFs while excluding crypto"
 image_credit: "Metaadvisor.eu"
 tags: ["Ireland", "crypto", "cryptocurrencies", "Bitcoin", "investing", "investments", "ETF", "stocks", "bonds", "investment funds", "taxes", "tax benefits", "retail investors", "financial markets", "regulation", "European Union"]
 description: "Ireland is preparing a new tax-advantaged investment account for retail investors that will include stocks, bonds, ETFs and funds, while crypto assets and derivatives will remain excluded."
 summary: "Ireland’s new investment accounts are expected to become available in 2027 and are designed to make investing in traditional financial assets simpler and more tax-efficient. Crypto and derivatives will remain excluded because the government considers them more complex and risky products."
+categories: ["Crypto"]
 ---
 
 # Ireland Gives Tax Perks to Stocks and ETFs – but Not Crypto

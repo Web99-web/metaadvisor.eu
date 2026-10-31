@@ -7,14 +7,15 @@ translationKey: "defi_future_onchain_finance_21122025"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/defi.png"
-featured_image: "/images/defi.png"
-image: "/images/defi.png"
-thumbnail: "/images/defi.png"
+image_url: "/images/defi.webp"
+featured_image: "/images/defi.webp"
+image: "/images/defi.webp"
+thumbnail: "/images/defi.webp"
 image_alt: "DeFi – the future of finance on blockchain infrastructure"
 image_credit: "MetaAdvisor illustration"
 tags: ["defi", "decentralized-finance", "blockchain", "crypto", "onchain-finance", "web3", "tokenization", "future-of-finance"]
 summary: "DeFi isn’t disappearing — it’s merging with traditional finance. Blockchain is becoming the new infrastructure layer for global capital markets."
+categories: ["ai"]
 ---
 
 # DeFi Future: Finance Is Moving Onchain

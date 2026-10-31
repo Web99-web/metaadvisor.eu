@@ -3,7 +3,7 @@ title: "Europäische Zentralbank EZB warnt: Stablecoins werden zum Risiko für B
 slug: "ezb-warnt-stablecoins-risiko-bankeinlagen-kredite"
 date: 2026-03-03T16:30:00Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-03-03"
 source: "Cointelegraph & CoinDesk"
 source_url: ""
 author: "Cointelegraph & CoinDesk"
@@ -15,6 +15,7 @@ image_alt: "Europäische Zentralbank und Stablecoin-Symbolik"
 image_credit: "Illustration / EZB-Thematik"
 tags: ["stablecoin", "ezb", "europäische zentralbank", "fatf", "aml", "krypto regulierung", "crypto", "defi", "banken", "einlagen", "geldpolitik", "usdt", "usdc", "regulierung", "eu"]
 summary: "Die Europäische Zentralbank warnt, dass die zunehmende Nutzung von Stablecoins Bankeinlagen schwächen und die Kreditvergabe beeinträchtigen könnte, während die FATF Stablecoins als Hauptinstrument illegaler Transaktionen bezeichnet."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

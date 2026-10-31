@@ -7,14 +7,15 @@ translationKey: "d02cf6c66a2352d5e5614d2eb22a7bfc"
 source: "TechCrunch"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/companies/ChatGPT-image-2.0.png"
-featured_image: "/images/companies/ChatGPT-image-2.0.png"
-image: "/images/companies/ChatGPT-image-2.0.png"
-thumbnail: "/images/companies/ChatGPT-image-2.0.png"
+image_url: "/images/companies/ChatGPT-image-2.0.webp"
+featured_image: "/images/companies/ChatGPT-image-2.0.webp"
+image: "/images/companies/ChatGPT-image-2.0.webp"
+thumbnail: "/images/companies/ChatGPT-image-2.0.webp"
 image_alt: "ChatGPT Images 2.0 und KI-Bildgenerierung"
 image_credit: "MetaAdvisor"
 tags: ["ai", "chatgpt", "künstliche intelligenz", "bildgenerierung", "openai", "technologie", "apps", "digitaler inhalt"]
 summary: "ChatGPT Images 2.0 hat schnell Nutzer in Indien und Schwellenländern angezogen, doch global bleiben Wachstum und Engagement bislang moderat trotz starken Anfangsinteresses."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -16,6 +16,7 @@ image_alt: "Symbolfoto – Geld und Liquidität im DeFi"
 image_credit: "Metaadvisor.eu – symbolische Fotografie"
 tags: ["crypto", "DeFi", "confidential-lending", "privacy", "ZKP", "stablecoins", "institutions", "capital-markets", "tokenization", "compliance"]
 summary: "Vertrauliches Kreditgeschäft könnte Billionen an Kapital für DeFi öffnen – durch Kombination aus Datenschutz und Compliance auf Basis moderner Kryptografie."
+categories: ["news"]
 ---
 
 **Vertrauliches Kreditgeschäft (confidential lending)** gilt zunehmend als Schlüssel, um **Billionen an Kapital** in DeFi-Märkte zu bringen. Ziel ist, Kreditgebern und -nehmern Blockchain-Infrastruktur zu bieten – bei gleichzeitiger **Wahrung sensibler Daten** zu Identität, Konditionen und Sicherheiten.

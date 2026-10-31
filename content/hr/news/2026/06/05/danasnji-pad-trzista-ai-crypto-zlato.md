@@ -7,14 +7,15 @@ translationKey: "market-crypto-ai-gold-selloff-2026-06-05"
 source: "Reuters, Cointelegraph, TradingView, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/market-crypto-daily.png"
-featured_image: "/images/market-crypto-daily.png"
-image: "/images/market-crypto-daily.png"
-thumbnail: "/images/market-crypto-daily.png"
+image_url: "/images/market-crypto-daily.webp"
+featured_image: "/images/market-crypto-daily.webp"
+image: "/images/market-crypto-daily.webp"
+thumbnail: "/images/market-crypto-daily.webp"
 image_alt: "Daily market selloff across AI stocks, crypto and gold"
 image_credit: "Metaadvisor.eu"
 tags: ["tržište", "dionice", "crypto", "kripto", "Bitcoin", "BTC", "Ethereum", "ETH", "Zcash", "ZEC", "NEAR", "HYPE", "Solana", "SOL", "Broadcom", "AVGO", "Nvidia", "NVDA", "Meta", "Alphabet", "Google", "GOOGL", "zlato", "AI", "umjetna inteligencija", "AI dionice", "chip dionice", "semiconductors", "Federal Reserve", "kamate", "likvidacije", "Arthur Hayes", "OpenAI", "Anthropic", "SpaceX", "AI IPO", "risk-off", "Metaadvisor"]
 summary: "Današnji pad tržišta pogodio je AI i chip dionice, crypto i zlato. Broadcom, Nvidia, Meta, Bitcoin, Ethereum, Zcash, NEAR i HYPE našli su se pod pritiskom, dok se Alphabet pomaknuo znatno mirnije."
+categories: ["ai"]
 ---
 
 Slika je simbolična.

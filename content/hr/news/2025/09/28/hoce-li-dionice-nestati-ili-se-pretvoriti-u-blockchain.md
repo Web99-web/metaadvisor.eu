@@ -35,6 +35,7 @@ tags:
   - custody
 
 summary: "U eri AI-ja pravo pitanje nije ‘dionice ili Bitcoin’, nego kako će se dionice transformirati. Naš stav: dionice neće nestati – preći će na blockchain kao tokenizirani vrijednosni papiri, dok će Bitcoin igrati ulogu digitalne rezerve."
+categories: ["crypto"]
 ---
 
 > **Napomena o slici:** simbolična ilustracija.

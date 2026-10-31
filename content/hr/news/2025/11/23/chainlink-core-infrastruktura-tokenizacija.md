@@ -16,6 +16,7 @@ image_alt: "Chainlink tokenizacija – ilustracija"
 image_credit: "MetaAdvisor.eu"
 tags: ["chainlink", "tokenizacija", "grayscale", "infrastruktura", "oracles", "ccip", "blockchain", "financije", "defi"]
 summary: "Grayscale u novom izvještaju naziva Chainlink ključnom infrastrukturom za budućnost tokeniziranih financija. Donosimo što to znači – i zašto je LINK sve važniji za TradFi."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

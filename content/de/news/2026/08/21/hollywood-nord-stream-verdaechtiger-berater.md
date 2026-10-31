@@ -6,15 +6,16 @@ category: "Geopolitics"
 translationKey: "hollywood-nord-stream-suspect-consultant-2026-08-21"
 source: "Deutsche Bundesanwaltschaft, HRT, Reuters, AP, The Guardian, Bundesnetzagentur, Eurostat, Nord Stream AG, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Nord-Stream-film-suspect..png"
-featured_image: "/images/news/Nord-Stream-film-suspect..png"
-image: "/images/news/Nord-Stream-film-suspect..png"
-thumbnail: "/images/news/Nord-Stream-film-suspect..png"
+image_url: "/images/news/Nord-Stream-film-suspect..webp"
+featured_image: "/images/news/Nord-Stream-film-suspect..webp"
+image: "/images/news/Nord-Stream-film-suspect..webp"
+thumbnail: "/images/news/Nord-Stream-film-suspect..webp"
 image_alt: "Nord-Stream-Verdächtiger in Pula festgenommen, während er als Berater an einem Film mit Sean Penn arbeitete"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Nord Stream", "Nord Stream 1", "Nord Stream 2", "Deutschland", "Russland", "Ukraine", "Pula", "Kroatien", "Sean Penn", "Erdgas", "LNG", "Energie"]
 description: "Ein Verdächtiger im Zusammenhang mit der Nord-Stream-Sabotage wurde in Pula festgenommen, während er Berichten zufolge als Berater an einem Film mit Sean Penn arbeitete. Warum waren Nord Stream 1 und 2 für Deutschland so wichtig?"
 summary: "Ein ukrainischer Taucher, der der Beteiligung an der Nord-Stream-Sabotage verdächtigt wird, wurde in Kroatien festgenommen. Der Fall wirft erneut Fragen zu den Pipelines auf, die Russland und Deutschland unter Umgehung der Ukraine verbanden."
+categories: ["Geopolitics"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -96,7 +97,7 @@ Deshalb bedeutet eine Zahl wie 3,3 für amerikanisches Gas und 42 für europäis
 Darüber haben wir bereits ausführlicher in einem früheren Artikel geschrieben:
 
 <a href="https://metaadvisor.eu/de/news/warum-us-gas-3-3-und-europaeisches-gas-42-kostet-mmbtu-mwh-ttf-jkm-natgas/" target="_blank" rel="noopener">
-<img src="/images/Natural-gas-LNG-prices.png" alt="Warum US-Gas 3,3 kostet und europäisches Gas 42? MMBtu, MWh, TTF, JKM und NATGAS" style="width:55%; max-width:500px; height:auto; display:block; margin:1.5rem auto;">
+<img src="/images/Natural-gas-LNG-prices.webp" alt="Warum US-Gas 3,3 kostet und europäisches Gas 42? MMBtu, MWh, TTF, JKM und NATGAS" style="width:55%; max-width:500px; height:auto; display:block; margin:1.5rem auto;">
 </a>
 
 ### <a href="https://metaadvisor.eu/de/news/warum-us-gas-3-3-und-europaeisches-gas-42-kostet-mmbtu-mwh-ttf-jkm-natgas/" target="_blank" rel="noopener">Warum US-Gas 3,3 kostet und europäisches Gas 42? MMBtu, MWh, TTF, JKM und NATGAS</a>

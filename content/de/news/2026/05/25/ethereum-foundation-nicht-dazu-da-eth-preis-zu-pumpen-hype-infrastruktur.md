@@ -15,6 +15,7 @@ image_alt: "Ethereum Foundation, ETH and blockchain infrastructure concept"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "krypto", "ethereum", "eth", "ethereum foundation", "ether", "blockchain", "blockchain-infrastruktur", "dezentralisierung", "crypto hype", "krypto hype", "hype", "web3", "defi", "protokoll", "william mougayar", "ethereum community", "ethereum entwicklung", "layer 1", "smart contracts", "intelligente verträge", "digitale vermögenswerte", "institutionelle krypto", "krypto markt", "langfristige akkumulation", "volatilität"]
 summary: "Der Blockchain-Forscher William Mougayar verteidigt die Ethereum Foundation und argumentiert, dass Kritiker fälschlicherweise erwarten, sie solle sich wie eine Marketingmaschine für ETH verhalten. Die Debatte wirft eine wichtige Frage auf: Soll ein ernsthaftes Blockchain-Projekt Infrastruktur aufbauen oder ständig Hype rund um den Token-Preis erzeugen?"
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

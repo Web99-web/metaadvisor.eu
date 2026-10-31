@@ -15,6 +15,7 @@ image_alt: "Injective INJ market focus chart"
 image_credit: "Metaadvisor.eu"
 tags: ["injective", "inj", "crypto", "altcoin", "defi", "trading", "perpetuals", "breakout", "market focus", "altseason"]
 summary: "Injective (INJ) privukao je pažnju tržišta nakon snažnog breakouta i naglog rasta cijene uz povećani volumen trgovanja."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Slika je simbolična.</em></p>

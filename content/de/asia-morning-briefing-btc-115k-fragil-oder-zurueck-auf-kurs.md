@@ -1,4 +1,6 @@
 ---
+type: news
+url: /de/asia-morning-briefing-btc-115k-fragil-oder-zurueck-auf-kurs/
 title: "Asia Morning Briefing: Fragil oder zurück auf Kurs? BTC hält die 115.000 $"
 slug: "asia-morning-briefing-btc-115k-fragil-oder-zurueck-auf-kurs"
 date: 2025-09-16T01:34:51Z
@@ -16,6 +18,7 @@ image_alt: "Asien-Morgenüberblick — Bitcoin um 115.000 $"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["crypto","bitcoin","asia","etf","volatility","glassnode","qcp","macro","metaadvisor"]
 summary: "Bitcoin blieb in der asiatischen Sitzung über 115.000 $. Das Lager ist gespalten: Einige betonen die Fragilität des Anstiegs, andere sehen mit ETF-Zuflüssen und weicherem Makro einen ‚Back on Track‘-Case."
+categories: ["crypto"]
 ---
 
 **Kurz:** BTC (**~115.8k $**) verteidigte am Dienstagmorgen in Asien die Marke von **115k**, nach einem starken Wochenauftakt. Getrieben von **Zuflüssen in Spot-ETFs** und der Hoffnung auf **Zinssenkungen** nächste Woche, bleibt die Debatte: **Fragiler Rebound oder klarer Kurs zurück nach oben?**

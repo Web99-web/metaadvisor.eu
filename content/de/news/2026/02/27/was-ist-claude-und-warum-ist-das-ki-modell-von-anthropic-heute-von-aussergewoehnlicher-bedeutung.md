@@ -15,6 +15,7 @@ image_alt: "Claude KI-Modell von Anthropic"
 image_credit: "Metaadvisor.eu (symbolische Illustration)"
 tags: ["ki", "kunstliche intelligenz", "anthropic", "claude", "llm", "generative ki", "technologie", "zukunft", "ki sicherheit", "cloud", "enterprise ki"]
 summary: "Claude ist ein fortschrittliches KI-Modell von Anthropic und hat sich als einer der zentralen Akteure im globalen KI-Wettlauf positioniert. Wir analysieren, warum es heute von außergewöhnlicher Bedeutung ist."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

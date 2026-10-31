@@ -16,6 +16,7 @@ image_alt: "Japan Krypto-Steuerreform"
 image_credit: "Metaadvisor.eu"
 tags: ["japan","krypto","bitcoin","eth","regulierung","steuer","steuerreform","fsa","asia","kryptosteuer","finanzprodukte","blockchain","105 tokens","insider trading","web3","global markets","btc","eth","altcoins"]
 summary: "Japan plant die größte Krypto-Steuerreform seiner Geschichte – mit einer Senkung des Steuersatzes auf 20 % und der Klassifizierung digitaler Vermögenswerte als Finanzprodukte."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

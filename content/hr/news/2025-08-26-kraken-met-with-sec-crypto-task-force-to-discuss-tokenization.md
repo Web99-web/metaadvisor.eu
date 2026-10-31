@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/crypto-exchange-kraken-met-with-sec-
 summary: "SEC-ova Crypto Task Force i Kraken razgovarali su o tokenizaciji tradicionalne imovine i okvirima za tokenizirani sustav trgovanja."
 tags: ["crypto","kraken","sec","tokenization","tokenized-stocks","regulation","rwa"]
 image_url: "https://s3.cointelegraph.com/uploads/2025-08/0198e50b-2451-754c-86dc-4d3cadea0812"
+categories: ["crypto"]
 ---
 
 Kraken se u ponedjeljak sastao s **Crypto Task Force** timom američke **SEC** kako bi raspravili **tokenizaciju tradicionalne imovine** te regulatorni i pravni okvir za **tokenizirani sustav trgovanja**, stoji u zapisniku sastanka podnesenom Komisiji.

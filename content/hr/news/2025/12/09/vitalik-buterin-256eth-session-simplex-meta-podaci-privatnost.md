@@ -15,6 +15,7 @@ image_alt: "Vitalik Buterin decentralizirana zaštita meta-podataka"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["vitalik-buterin","ethereum","eth","session","simplex","meta-podaci","privatnost","sigurnost","cryptography","messaging","web3","analiza"]
 summary: "Vitalik Buterin donira 256 ETH decentraliziranim messaging projektima Session i SimpleX, ističući da je nova bitka u tehnologiji zapravo borba za zaštitu meta-podataka, anonimnost i slobodu digitalne komunikacije."
+categories: ["crypto"]
 ---
 
 <div class="cta">

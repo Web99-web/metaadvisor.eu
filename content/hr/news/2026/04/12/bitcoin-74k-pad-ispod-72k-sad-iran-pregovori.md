@@ -15,6 +15,7 @@ image_alt: "Bitcoin nagli pad cijene s 74000 na ispod 72000"
 image_credit: "Metaadvisor ilustracija"
 tags: ["bitcoin", "btc", "crypto", "iran", "sad", "geopolitika", "volatilnost", "tržište"]
 summary: "Bitcoin je pao više od $2.000 odmah nakon vijesti da pregovori između SAD-a i Irana nisu uspjeli, ali unatoč tome tržište i dalje pokazuje relativnu stabilnost."
+categories: ["crypto"]
 ---
 
 _Slika je simbolična._

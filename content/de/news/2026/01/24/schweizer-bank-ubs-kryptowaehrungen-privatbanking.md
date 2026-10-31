@@ -7,14 +7,15 @@ translationKey: "79c3644729981e8c14e5be21d29e6102"
 source: "Cointelegraph / Bloomberg"
 source_url: "https://cointelegraph.com/news/ubs-explores-crypto-trading-private-banking-clients"
 author: "MetaAdvisor.eu"
-image_url: "/images/Banks-move-into-crypto1.png"
-featured_image: "/images/Banks-move-into-crypto1.png"
-image: "/images/Banks-move-into-crypto1.png"
-thumbnail: "/images/Banks-move-into-crypto1.png"
+image_url: "/images/Banks-move-into-crypto1.webp"
+featured_image: "/images/Banks-move-into-crypto1.webp"
+image: "/images/Banks-move-into-crypto1.webp"
+thumbnail: "/images/Banks-move-into-crypto1.webp"
 image_alt: "Die Schweizer Bank UBS erwägt den Einstieg in den Kryptohandel"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Die Schweizer Großbank UBS prüft, ihren wohlhabendsten Kunden den Handel mit Bitcoin und Ether zu ermöglichen und damit ihre Aktivitäten im Kryptosektor auszubauen."
 tags: ["ubs", "schweizer bank", "bitcoin", "btc", "ethereum", "eth", "kryptowaehrungen", "banken", "privatbanking", "tradfi", "blockchain"]
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

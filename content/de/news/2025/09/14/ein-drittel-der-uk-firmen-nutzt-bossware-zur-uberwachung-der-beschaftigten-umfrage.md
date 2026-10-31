@@ -10,6 +10,7 @@ image_url: "/images/fallback-security2.jpg"
 image_alt: "Symbolbild: Digitale Mitarbeiterüberwachung im Büro"
 tags: ["privacy","surveillance","workplace","uk"]
 summary: "CMI-Ergebnisse deuten auf zunehmende Nutzung von ‘Bossware’ hin: Ein Drittel der Manager meldet Monitoring auf Firmen-Geräten; jeder Siebte zeichnet Bildschirminhalte auf – begleitet von wachsender Sorge um Vertrauen und Privatsphäre."
+categories: ["news"]
 ---
 
 **Kernaussagen**  

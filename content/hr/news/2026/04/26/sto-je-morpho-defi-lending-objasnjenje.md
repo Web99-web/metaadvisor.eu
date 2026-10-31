@@ -15,6 +15,7 @@ image_alt: "Morpho DeFi lending protokol"
 image_credit: "Metaadvisor.eu"
 tags: ["morpho", "defi", "lending", "crypto", "aave", "blockchain", "yield", "stablecoin", "financije"]
 summary: "Što je Morpho, kako funkcionira DeFi lending i koje su prednosti i rizici za korisnike i institucije."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

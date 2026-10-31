@@ -7,14 +7,15 @@ translationKey: "ai_jobs_uk_2035_20251125"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/nov/25/ai-could-replace-3m-low-skilled-jobs-by-2035-research-finds"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-taking-jobs-UK.png"
-featured_image: "/images/AI-taking-jobs-UK.png"
-image: "/images/AI-taking-jobs-UK.png"
-thumbnail: "/images/AI-taking-jobs-UK.png"
+image_url: "/images/AI-taking-jobs-UK.webp"
+featured_image: "/images/AI-taking-jobs-UK.webp"
+image: "/images/AI-taking-jobs-UK.webp"
+thumbnail: "/images/AI-taking-jobs-UK.webp"
 image_alt: "AI and the future of the UK workforce"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ai","artificial-intelligence","jobs","uk","automation","labour-market","analysis"]
 summary: "A new report warns that AI could replace up to 3 million low-skilled jobs in the UK by 2035, while demand for highly skilled professionals rises."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

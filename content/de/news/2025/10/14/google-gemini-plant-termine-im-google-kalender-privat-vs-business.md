@@ -16,6 +16,7 @@ image_alt: "Gemini AI hilft beim Planen von Terminen im Google Kalender"
 image_credit: "Bild ist symbolisch."
 tags: ["Google", "Gemini", "AI", "Google Kalender", "Workspace", "kostenlos", "AI-Tools"]
 summary: "Google startet die Gemini-Funktion „Help me schedule“, die Termine in Gmail/Google Kalender vorschlägt. Das ist gratis für Privatnutzer – und das gehört in bezahlte Workspace/Gemini-Pläne."
+categories: ["news"]
 ---
 
 Google führt in Gmail und Google Kalender eine neue, von **Gemini** angetriebene Option namens **„Help me schedule“** ein. Die Funktion schlägt passende freie Zeitfenster vor und fügt sie direkt in die E-Mail ein. Wählt der Empfänger einen Termin, erscheint die Einladung automatisch in beiden Kalendern.

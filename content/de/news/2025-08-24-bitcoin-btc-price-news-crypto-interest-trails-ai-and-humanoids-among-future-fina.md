@@ -9,6 +9,7 @@ summary: "BTC über 100.000 $, aber nur 18 % der Praktikanten nutzen/halten Kryp
 tags: ["bitcoin","btc","crypto","ki","humanoiden","morgan-stanley","praktikanten","survey","etf","farside-investors","ethereum","eth","adoption"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/9def86c28207aa3e8c4d2095f1031c130eae77c9-1280x851.jpg?auto=format"
 image_alt: "Krypto-Adoption in frühem Stadium – Illustration"
+categories: ["crypto"]
 ---
 
 In der Krypto-Community gilt 2025 weiterhin: **„Wir sind noch früh dran.“** Trotz **BTC > 100.000 $** steckt die breite **Adoption** in den Kinderschuhen.

@@ -7,14 +7,15 @@ translationKey: "meta-ai-otkazi-tuzba-zaposlenici-2026-07-16"
 source: "The Guardian, Associated Press, Gerichtsunterlagen"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
-featured_image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
-image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
-thumbnail: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
+image_url: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
+featured_image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
+image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
+thumbnail: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Facebook", "Instagram", "künstliche Intelligenz", "KI-Entlassungen", "Mitarbeiter", "Klage", "Mutterschaftsurlaub", "Krankheitsurlaub", "KI-Moderation", "Arbeitnehmerrechte"]
 description: "Facebook- und Instagram-Mitarbeiter haben Meta verklagt und behaupten, dass KI-Systeme bei der Auswahl für Entlassungen Personen im Mutterschafts-, Krankheits- oder anderen geschützten Urlaub benachteiligt hätten."
 summary: "Eine Gruppe von 26 Mitarbeitern behauptet, Meta habe bei einer Entlassungswelle mit rund 8.000 betroffenen Stellen KI-Bewertungen und automatisierte Leistungsindikatoren eingesetzt, die gesetzlich geschützte Abwesenheiten nicht angemessen berücksichtigten."
+categories: ["ai"]
 ---
 
 # Facebook- und Instagram-Mitarbeiter verklagen Meta wegen KI-Entlassungen
@@ -79,7 +80,7 @@ Automatisierte Systeme können ein Profil einschränken oder deaktivieren, eine 
 
 <div style="text-align:center; margin:24px 0;">
   <a href="https://metaadvisor.eu/de/news/sperren-soziale-netzwerke-eu-ki-moderation-konten/" target="_blank" rel="noopener">
-    <img src="/images/Banned-from-social-media.png"
+    <img src="/images/Banned-from-social-media.webp"
          alt="Sperren in sozialen Netzwerken in der EU: Wenn KI-Moderation Ihr digitales Leben löscht"
          loading="lazy"
          style="width:100%; max-width:520px; height:auto; border-radius:10px;">
@@ -98,7 +99,7 @@ Besonders wichtig ist die Frage, ob ein Algorithmus langjährige Arbeit, Ergebni
 
 <div style="text-align:center; margin:24px 0;">
   <a href="https://metaadvisor.eu/de/news/facebook-langjaehrige-profile-kein-reputationskredit-problem/" target="_blank" rel="noopener">
-    <img src="/images/Meta/Facebook-blocks-long-term-profiles.png"
+    <img src="/images/Meta/Facebook-blocks-long-term-profiles.webp"
          alt="Warum hat ein 15–20 Jahre altes Facebook-Profil keinen Reputationskredit?"
          loading="lazy"
          style="width:100%; max-width:520px; height:auto; border-radius:10px;">

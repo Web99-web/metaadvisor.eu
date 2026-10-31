@@ -7,14 +7,15 @@ translationKey: "mica_eu_crypto_regulacija_06122025"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/MICA-eu-regulation.png"
-featured_image: "/images/MICA-eu-regulation.png"
-image: "/images/MICA-eu-regulation.png"
-thumbnail: "/images/MICA-eu-regulation.png"
+image_url: "/images/MICA-eu-regulation.webp"
+featured_image: "/images/MICA-eu-regulation.webp"
+image: "/images/MICA-eu-regulation.webp"
+thumbnail: "/images/MICA-eu-regulation.webp"
 image_alt: "EU MiCA Crypto Regulation vizual"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["mica", "eu regulativa", "crypto law", "banke", "stablecoini", "blockchain", "kripto regulacija", "eu politika", "web3", "decentralizacija", "inovacija"]
 summary: "MiCA je najveća kripto regulacija u povijesti Europe. EU tvrdi da štiti potrošače, ali mnogi vjeruju da zapravo štiti banke, velike burze i državnu kontrolu. Ovaj članak razotkriva kome MiCA zaista koristi – a kome šteti."
+categories: ["crypto"]
 ---
 
 # MiCA: štiti li EU potrošače, bankarski sustav ili želi potpunu kontrolu nad kriptom?

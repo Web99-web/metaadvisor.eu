@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Shopify", "Canvas", "Sidekick", "AI", "ecommerce", "online store", "web design", "vibe coding", "digital tools"]
 description: "Shopify has introduced Canvas, an AI tool that lets merchants edit real theme files and build entire online stores by chatting with Sidekick."
 summary: "Canvas turns Sidekick into an AI designer and coding agent for Shopify stores. The tool works on real code, shows changes in real time and aims to turn the entire store-building process into a conversation."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

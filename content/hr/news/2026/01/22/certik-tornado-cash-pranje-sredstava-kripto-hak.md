@@ -7,14 +7,15 @@ translationKey: "bae2d3f3eb9d25bdcef5afb0d60222e8"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/certik-traces-tornado-cash-funds-jan-10-crypto-hack"
 author: "MetaAdvisor.eu"
-image_url: "/images/hacker.png"
-featured_image: "/images/hacker.png"
-image: "/images/hacker.png"
-thumbnail: "/images/hacker.png"
+image_url: "/images/hacker.webp"
+featured_image: "/images/hacker.webp"
+image: "/images/hacker.webp"
+thumbnail: "/images/hacker.webp"
 image_alt: "Ilustracija kibernetičkog napada i pranja kripto sredstava"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 summary: "Blockchain sigurnosna tvrtka CertiK identificirala je najmanje 63 milijuna USD koji su prošli kroz Tornado Cash nakon velikog kripto-haka vrijednog 282 milijuna USD. Analiza pokazuje klasični obrazac pranja sredstava kroz cross-chain prijenose, fragmentaciju i mixere."
 tags: ["crypto", "kripto", "certik", "hak", "phishing", "tornado cash", "sigurnost", "krađa", "potpisivanje poruka", "pranje sredstava"]
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

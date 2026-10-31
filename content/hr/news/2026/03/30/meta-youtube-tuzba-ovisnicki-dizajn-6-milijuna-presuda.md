@@ -7,15 +7,16 @@ translationKey: "meta_youtube_addiction_case_6m_20260330"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (Reuters, NPR, Guardian, Yahoo Finance, Courthouse News)"
 source_url: ""
-image_url: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
-featured_image: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
-image: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
-thumbnail: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
+image_url: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
+featured_image: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
+image: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
+thumbnail: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
 image_alt: "Meta i YouTube izgubili tužbu zbog ovisničkog dizajna"
 image_credit: "MetaAdvisor.eu"
 tags: ["meta", "youtube", "tužba", "ovisnost", "ai", "društvene mreže", "tehnologija"]
 summary: "Jedna korisnica uspjela je dokazati da su Meta i YouTube dizajnirali platforme koje potiču ovisnost — sud im je naložio isplatu 6 milijuna dolara. Presuda bi mogla otvoriti vrata za više od 1000 sličnih tužbi."
 symbolic_image: true
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

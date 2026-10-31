@@ -16,6 +16,7 @@ image_alt: "Bitcoin and altcoin daily overview"
 image_credit: "Symbolic image."
 tags: ["crypto","bitcoin","btc","eth","ethereum","bnb","binance","xrp","ripple","sol","solana","doge","dogecoin","ada","cardano","hype","hyperliquid","link","chainlink","xlm","stellar","price-predictions","technical-analysis","market-outlook","trading"]
 summary: "Daily technical market update (Oct 22): Key levels for Bitcoin and major altcoins."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

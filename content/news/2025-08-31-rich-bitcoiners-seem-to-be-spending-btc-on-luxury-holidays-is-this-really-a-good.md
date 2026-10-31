@@ -9,6 +9,7 @@ summary: "From jets to yachts, wealthy bitcoiners do not seem afraid of spending
 tags: ["bitcoin","crypto","luxury","holidays","jets","yachts","travel","payments"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/739d9b7bb173fe3e06e24cf3b0f5827d21b82032-2880x1620.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/739d9b7bb173fe3e06e24cf3b0f5827d21b82032-2880x1620.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 Bitcoin’s latest rally is spilling over into the luxury holiday market.  

@@ -7,10 +7,10 @@ translationKey: "sec_vs_justin_sun_tron_chaos_jan2026"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/SEC-US.png"
-featured_image: "/images/SEC-US.png"
-image: "/images/SEC-US.png"
-thumbnail: "/images/SEC-US.png"
+image_url: "/images/SEC-US.webp"
+featured_image: "/images/SEC-US.webp"
+image: "/images/SEC-US.webp"
+thumbnail: "/images/SEC-US.webp"
 image_alt: "US-Börsenaufsicht SEC und der Fall gegen Tron-Gründer Justin Sun"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -26,6 +26,7 @@ tags:
   - kraken
   - usa regulierung
 summary: "Der Fall der US-Börsenaufsicht SEC gegen Justin Sun und das Tron-Netzwerk ist längst mehr als eine Einzelklage und gilt inzwischen als Sinnbild für die widersprüchliche Krypto-Regulierung in den USA."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

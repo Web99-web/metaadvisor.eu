@@ -16,6 +16,7 @@ image_alt: "Bitcoin coins — symbolic illustration"
 image_credit: "Image is symbolic."
 tags: ["babylon","btc","bitcoin","wbtc","defi","crypto","collateral","custodians","bridges","liquidity"]
 summary: "Babylon says it can enable native BTC to serve as DeFi collateral — without wBTC and without custodians."
+categories: ["crypto"]
 ---
 
 **Overview.** **Babylon** proposes a way to use **native Bitcoin (BTC)** as **collateral** in DeFi — **without** “wrapped” variants like **wBTC** and **without** relying on **custodians**. The idea: keep BTC locked on **Bitcoin L1** while DeFi apps on other chains accept a **cryptographic proof** of that lock as collateral.

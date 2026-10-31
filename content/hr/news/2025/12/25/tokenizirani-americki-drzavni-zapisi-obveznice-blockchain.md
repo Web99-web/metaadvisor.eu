@@ -7,10 +7,10 @@ translationKey: "tokenized_us_treasurys_25122025"
 source: "MetaAdvisor analiza — na temelju izvještaja Cointelegrapha i industrijskih podataka"
 source_url: "https://cointelegraph.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/tokenized-us-treasurys.png"
-featured_image: "/images/tokenized-us-treasurys.png"
-image: "/images/tokenized-us-treasurys.png"
-thumbnail: "/images/tokenized-us-treasurys.png"
+image_url: "/images/tokenized-us-treasurys.webp"
+featured_image: "/images/tokenized-us-treasurys.webp"
+image: "/images/tokenized-us-treasurys.webp"
+thumbnail: "/images/tokenized-us-treasurys.webp"
 image_alt: "Tokenizirani američki državni zapisi i blockchain infrastruktura"
 tags:
   - tokenizacija
@@ -23,6 +23,7 @@ tags:
   - institucionalni-investitori
   - defi
 summary: "Tokenizirani američki državni zapisi postaju jedan od najbrže rastućih segmenata financijskog tržišta, spajajući sigurnost državnih obveznica s brzinom i učinkovitošću blockchain tehnologije."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 22px 0;">

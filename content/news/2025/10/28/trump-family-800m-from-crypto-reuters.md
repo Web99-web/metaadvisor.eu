@@ -8,14 +8,15 @@ source: "Reuters"
 source_url: "https://www.reuters.com/investigations/inside-trump-familys-global-crypto-cash-machine-2025-10-28/"
 author: "Reuters"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Trump-family-800m-from-crypto.png"
-featured_image: "/images/Trump-family-800m-from-crypto.png"
-image: "/images/Trump-family-800m-from-crypto.png"
-thumbnail: "/images/Trump-family-800m-from-crypto.png"
+image_url: "/images/Trump-family-800m-from-crypto.webp"
+featured_image: "/images/Trump-family-800m-from-crypto.webp"
+image: "/images/Trump-family-800m-from-crypto.webp"
+thumbnail: "/images/Trump-family-800m-from-crypto.webp"
 image_alt: "US flag with the headline: Trump Family — $800M from Crypto"
 image_credit: "Illustration — Metaadvisor.eu (symbolic image)"
 tags: ["Trump","politics","crypto","NFT","donations","memecoin","campaign","custody","OTC","Bitcoin","Ethereum","regulation","Reuters"]
 summary: "Reuters reports the Trump family generated roughly $800M in H1 2025 from the crypto ecosystem — via NFT campaigns, crypto donations, partnerships, and trading through institutional custodians."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

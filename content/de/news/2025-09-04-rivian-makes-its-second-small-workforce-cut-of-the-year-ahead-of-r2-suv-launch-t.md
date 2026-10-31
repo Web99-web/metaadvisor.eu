@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/04/rivian-makes-its-second-small-wor
 summary: "Das Unternehmen hatte bereits im Juni rund 140 Mitarbeiter in der Produktion entlassen."
 tags: ["rivian", "r2 suv", "entlassungen", "ev", "elektrofahrzeuge", "techcrunch"]
 image_url: "https://images.unsplash.com/photo-1627442200497-6ac5270d3c1d"
+categories: ["news"]
 ---
 
 Rivian streicht rund 150 Stellen – die zweite kleinere Kürzung innerhalb weniger Monate –, während sich das Unternehmen auf den wichtigen Start seines günstigeren R2 SUV im nächsten Jahr vorbereitet.  

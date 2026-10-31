@@ -9,6 +9,7 @@ summary: "Ein Analyst meint, dass Zweifel an Bitcoins weiterer Kurssteigerung se
 tags: ["bitcoin", "crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvYmMyZWVkMGMtMDExMi00MmVkLTkzYjEtY2FjZjM1ZjViYTM2LmpwZw==.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvYmMyZWVkMGMtMDExMi00MmVkLTkzYjEtY2FjZjM1ZjViYTM2LmpwZw==.jpg"
+categories: ["crypto"]
 ---
 
 Ein bekannter Krypto-Analyst erklärte, dass die **Skepsis gegenüber Bitcoin** nie verschwinden wird – selbst wenn der Preis auf **10 Millionen Dollar** pro Coin steigen sollte.  

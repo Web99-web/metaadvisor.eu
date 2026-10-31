@@ -7,14 +7,15 @@ translationKey: "facebook-ai-ban-20m-accounts-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis, Gemini, user testimonies, technology forums"
 source_url: ""
-image_url: "/images/Facebook-banned-20M-people.png"
-featured_image: "/images/Facebook-banned-20M-people.png"
-image: "/images/Facebook-banned-20M-people.png"
-thumbnail: "/images/Facebook-banned-20M-people.png"
+image_url: "/images/Facebook-banned-20M-people.webp"
+featured_image: "/images/Facebook-banned-20M-people.webp"
+image: "/images/Facebook-banned-20M-people.webp"
+thumbnail: "/images/Facebook-banned-20M-people.webp"
 image_alt: "Facebook AI bans and wrongful account suspensions"
 image_credit: "Metaadvisor illustration"
 tags: ["facebook", "banned", "removed", "ai moderation", "meta", "digital rights", "censorship", "algorithms", "social media"]
 summary: "Estimates suggest that Facebook banned up to 20 million accounts in just two months at the start of 2026. Analyses indicate that more than 1.5 million users may have been wrongfully banned, often without any way to contact human support."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

@@ -21,6 +21,7 @@ tags:
   - krypto
   - blockchain
 summary: "Zum Jahresende 2025 zeigte Ethereum ein seltenes Signal: Mehr ETH fließt in das Staking hinein als heraus. Dieser Trend setzt sich nun zum Start von 2026 fort und deutet auf wachsendes Vertrauen in das Netzwerk hin."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0 16px 0;">

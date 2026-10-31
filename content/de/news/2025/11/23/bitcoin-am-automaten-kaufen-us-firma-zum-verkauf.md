@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/crypto-dispensers-explores-100m-sale-after-ceo-indictment"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Bitcoin-ATM.png"
-featured_image: "/images/Bitcoin-ATM.png"
-image: "/images/Bitcoin-ATM.png"
-thumbnail: "/images/Bitcoin-ATM.png"
+image_url: "/images/Bitcoin-ATM.webp"
+featured_image: "/images/Bitcoin-ATM.webp"
+image: "/images/Bitcoin-ATM.webp"
+thumbnail: "/images/Bitcoin-ATM.webp"
 image_alt: "Bitcoin ATM in den USA – Illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "krypto", "bitcoin geldautomat", "atm", "usa", "btc", "krypto news"]
 summary: "Bitcoin-Automaten sind weltweit verbreitet — auch in Deutschland. Jetzt steht ein führender US-Betreiber wegen Ermittlungen vor einem möglichen Verkauf für 100 Mio. USD."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

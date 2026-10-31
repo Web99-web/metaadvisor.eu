@@ -15,6 +15,7 @@ image_alt: "EU Bargeldlimit 10000 Euro Regulierung"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["EU Regulierung", "Bargeld", "Bargeldlimit", "EU Gesetz", "Barzahlungen", "Finanzen", "AML"]
 summary: "Die Europäische Union führt ein Limit von 10.000 € für Barzahlungen ein. Die Regel ist Teil eines neuen Anti-Geldwäsche-Pakets und soll ab 2027 in der gesamten EU gelten."
+categories: ["finance"]
 ---
 
 *Bild ist symbolisch.*

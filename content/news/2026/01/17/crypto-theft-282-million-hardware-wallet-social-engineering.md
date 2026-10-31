@@ -23,6 +23,7 @@ tags:
   - self custody
   - blockchain
 summary: "One of the largest individual crypto thefts ever recorded shows that even hardware wallets cannot protect users when attackers exploit human psychology rather than technology."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/tech/2025/09/02/ethereum-foundation-unload
 summary: "Fondacija je objavila da planira prodati 10.000 ETH putem centraliziranih burzi tijekom narednih tjedana kako bi podržala istraživanja, grantove i donacije."
 tags: ["crypto", "ethereum", "ETH", "solana", "SOL", "treasury", "foundation"]
 image_url: "https://www.coindesk.com/resizer/v2/XQAZ42X5DRDKZES4LFIK73O6RE.jpg?auto=webp&quality=85&width=1200"
+categories: ["crypto"]
 ---
 
 Ethereum Foundation (EF) objavila je u utorak na X-u da planira prodati 10.000 ETH putem centraliziranih burzi tijekom sljedećih nekoliko tjedana kako bi podržala istraživanja, razvoj, ekosustavne grantove i slične donacije.

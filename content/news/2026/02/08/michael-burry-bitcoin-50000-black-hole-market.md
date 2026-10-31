@@ -7,14 +7,15 @@ translationKey: "michael-burry-bitcoin-50000-black-hole-2026-02-08"
 source: "Yahoo Finance / Substack / MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-at-50000.png"
-featured_image: "/images/BTC-at-50000.png"
-image: "/images/BTC-at-50000.png"
-thumbnail: "/images/BTC-at-50000.png"
+image_url: "/images/BTC-at-50000.webp"
+featured_image: "/images/BTC-at-50000.webp"
+image: "/images/BTC-at-50000.webp"
+thumbnail: "/images/BTC-at-50000.webp"
 image_alt: "Bitcoin at $50,000 falling into a symbolic liquidity black hole"
 image_credit: "Symbolic illustration (AI / public-domain style visual)"
 tags: ["bitcoin", "btc", "michael burry", "crypto market", "bitcoin crash", "liquidity", "miners", "capitulation", "black hole", "financial risk"]
 summary: "Michael Burry warns that a drop in Bitcoin to $50,000 could trigger a buyerless cascade — a liquidity vacuum impacting miners, derivatives and the wider market. History, however, suggests such moments often attract deep-pocketed buyers."
+categories: ["crypto"]
 ---
 
 [➡️ **Trade Bitcoin (BTC) – see available exchanges**]

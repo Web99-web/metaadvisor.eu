@@ -9,6 +9,7 @@ summary: "XLM slid from $0.39 to $0.36 in a volatile 24-hour session, though ins
 tags: ["crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/5XYLJ7ON5NC5NGJHJ6OM7IMZ44.jpg?auto=format&width=1920"
 image: "https://www.coindesk.com/resizer/v2/5XYLJ7ON5NC5NGJHJ6OM7IMZ44.jpg?auto=format&width=1920"
+categories: ["crypto"]
 ---
 
 Stellar’s native token XLM came under heavy institutional selling pressure in the latest trading session, falling from $0.39 to $0.36 between August 28 at 3:00 p.m. and August 29 at 2:00 p.m. ET. Market data shows more than 41.89 million XLM changed hands, with volumes surging as large holders reduced exposure.

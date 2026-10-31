@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Richard Heart", "HEX", "PulseChain", "PulseX", "Istanbul", "Kryptowährungen", "Interpol", "Finnland", "Krypto-Regulierung", "Blockchain"]
 description: "Türkische Medien berichten über die Festnahme von HEX-Gründer Richard Heart in Istanbul. Mit ihm verbundene Kryptowährungen verzeichnen starke Kursverluste."
 summary: "Türkische und internationale Medien berichten, dass Richard Heart, Gründer von HEX, PulseChain und PulseX, am 14. Oktober 2026 in Istanbul festgenommen wurde. Der Einsatz wird mit einer auf Ersuchen Finnlands veröffentlichten Interpol-Ausschreibung in Verbindung gebracht. Die Angaben zu den beschlagnahmten Vermögenswerten unterscheiden sich. Eine gesonderte öffentliche Bestätigung seiner Identität und seines rechtlichen Status durch türkische oder finnische Behörden liegt bislang nicht vor. Mit seinen Projekten verbundene Kryptowährungen verzeichneten starke Kursverluste."
+categories: ["crypto"]
 ---
 
 *Symbolbild.*

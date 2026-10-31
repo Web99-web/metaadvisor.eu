@@ -7,10 +7,10 @@ translationKey: "elon_musk_2025_analysis"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology"
 author: "MetaAdvisor.eu"
-image_url: "/images/Elon-Musk-world.png"
-featured_image: "/images/Elon-Musk-world.png"
-image: "/images/Elon-Musk-world.png"
-thumbnail: "/images/Elon-Musk-world.png"
+image_url: "/images/Elon-Musk-world.webp"
+featured_image: "/images/Elon-Musk-world.webp"
+image: "/images/Elon-Musk-world.webp"
+thumbnail: "/images/Elon-Musk-world.webp"
 image_alt: "Simbolična ilustracija Elona Muska i njegovog globalnog utjecaja u 2025."
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -23,6 +23,7 @@ tags:
   - power
   - influence
 summary: "Godina 2025. pokazala je Elona Muska kao jednu od najutjecajnijih, ali i najkontroverznijih figura suvremene tehnologije, na sjecištu politike, biznisa i javnog kaosa."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

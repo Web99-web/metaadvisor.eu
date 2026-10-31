@@ -7,10 +7,10 @@ translationKey: "pepe_growth_market_jan2026"
 source: "MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/PEPE-up1.png"
-featured_image: "/images/PEPE-up1.png"
-image: "/images/PEPE-up1.png"
-thumbnail: "/images/PEPE-up1.png"
+image_url: "/images/PEPE-up1.webp"
+featured_image: "/images/PEPE-up1.webp"
+image: "/images/PEPE-up1.webp"
+thumbnail: "/images/PEPE-up1.webp"
 image_alt: "Comparison of PEPE’s weekly price increase versus the broader crypto market"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -22,6 +22,7 @@ tags:
   - holders
   - ethereum
 summary: "As the crypto market begins to recover in early 2026, PEPE records a notably stronger price increase than most major tokens, reinforcing a pattern of outsized moves during early market rebounds."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0 16px 0;">

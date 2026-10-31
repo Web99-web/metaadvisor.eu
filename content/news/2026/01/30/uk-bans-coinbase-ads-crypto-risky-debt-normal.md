@@ -7,10 +7,10 @@ translationKey: "coinbase_ads_banned_uk_20260130"
 source: "Cointelegraph / MetaAdvisor analysis"
 source_url: "https://cointelegraph.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Coinbase-ads-banned-UK.png"
-featured_image: "/images/Coinbase-ads-banned-UK.png"
-image: "/images/Coinbase-ads-banned-UK.png"
-thumbnail: "/images/Coinbase-ads-banned-UK.png"
+image_url: "/images/Coinbase-ads-banned-UK.webp"
+featured_image: "/images/Coinbase-ads-banned-UK.webp"
+image: "/images/Coinbase-ads-banned-UK.webp"
+thumbnail: "/images/Coinbase-ads-banned-UK.webp"
 image_alt: "UK bans Coinbase advertising campaign"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -25,6 +25,7 @@ tags:
   - double standards
   - financial literacy
 summary: "The UK has banned Coinbase advertisements for allegedly trivializing crypto risks — while long-term debt continues to be marketed as a normal life choice."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

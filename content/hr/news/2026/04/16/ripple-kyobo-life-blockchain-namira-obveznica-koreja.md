@@ -15,6 +15,7 @@ image_alt: "Ripple i Kyobo Life blockchain obveznice Koreja"
 image_credit: "Metaadvisor.eu"
 tags: ["ripple", "xrp", "kyobo life", "koreja", "blockchain", "obveznice", "tokenizacija", "kripto", "financije", "dlt", "institucije"]
 summary: "Ripple i Kyobo Life iz Južne Koreje pokreću pilot projekt za blockchain namiru državnih obveznica, što može značajno ubrzati financijske procese i smanjiti troškove u globalnom sustavu."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

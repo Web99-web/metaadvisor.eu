@@ -3,7 +3,7 @@ title: "Koji iPhone 17 odabrati — Pro ili ‘običan’?"
 slug: "koji-iphone-17-odabrati-pro-ili-obican"
 date: 2025-09-12T12:00:00Z
 category: "news"
-translationKey: "4f1a99c11e3a4a6b9cb2f4eacb3b8e2a"
+translationKey: "iphone-17-quick-guide-2025-09-12"
 source: "MetaAdvisor"
 source_url: "https://metaadvisor.eu/hr/"
 priority: 100
@@ -11,6 +11,7 @@ image_url: "/images/IPHONE3.jpg"
 tags: ["apple", "iphone", "smartphones"]
 our_take: |
   Naš osvrt: birajte kroz tri koraka — veličina zaslona, trajanje baterije i kamere. iPhone 17 je “best buy”; Air je tanji i izdržljiviji; Pro/Pro Max su za one koji stvarno koriste napredne kamere i snagu.
+categories: ["news"]
 ---
 
 Apple 2025 nudi **iPhone 17**, **iPhone Air**, **iPhone 17 Pro** i **iPhone 17 Pro Max**. Kratki vodič za brzi izbor.

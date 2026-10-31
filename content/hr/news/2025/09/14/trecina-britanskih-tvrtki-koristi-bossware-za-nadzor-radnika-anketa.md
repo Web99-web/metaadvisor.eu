@@ -10,6 +10,7 @@ image_url: "/images/fallback-security2.jpg"
 image_alt: "Ilustracija digitalnog nadzora zaposlenika na radnom mjestu"
 tags: ["privacy","surveillance","workplace","uk"]
 summary: "Anketa CMI-ja pokazuje rast korištenja ‘bosswarea’: trećina menadžera kaže da tvrtke prate online aktivnosti na službenim uređajima, a neki i snimaju ekran — uz rastuću zabrinutost zbog povjerenja i privatnosti."
+categories: ["news"]
 ---
 
 **Što piše u izvješću**  

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/26/u-s-cftc-democrat-johnso
 summary: "Democrat Kristin Johnson's exit means the crypto regulator will fall to a single commissioner, Acting Chairman Caroline Pham, as Trump's pick awaits the Senate."
 tags: ["crypto","CFTC","BTC","Gemini","Trump"]
 image_url: "https://www.coindesk.com/resizer/eUBnYcftcCrypto.png"
+categories: ["crypto"]
 ---
 
 The U.S. Commodity Futures Trading Commission is about to drop to a single commissioner when Democrat Kristin Johnson leaves the agency next week, and the only other person waiting in the wings to join the regulator is President Donald Trump's chairman nominee, Brian Quintenz.

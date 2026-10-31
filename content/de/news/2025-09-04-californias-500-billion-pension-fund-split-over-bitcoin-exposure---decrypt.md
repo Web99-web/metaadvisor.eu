@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/338039/californias-500-billion-pension-fund-spli
 summary: "Trotz Beteiligung an Strategy (ehemals MicroStrategy) im Wert von 166 Mio. USD sind die Meinungen der Kandidaten über direkte Bitcoin-Investitionen geteilt."
 tags: ["Bitcoin", "BTC", "Krypto", "Rentenfonds", "CalPERS"]
 image_url: "/images/finance1.jpg"
+categories: ["crypto"]
 ---
 
 Der kalifornische Pensionsfonds CalPERS im Wert von 506 Mrd. USD zeigte bei einem Kandidatenforum geteilte Ansichten zu Bitcoin-Investitionen.  

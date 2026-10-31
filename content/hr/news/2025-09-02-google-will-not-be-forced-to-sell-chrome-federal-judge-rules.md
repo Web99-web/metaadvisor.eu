@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/02/google-chrome-mo
 summary: "Sudac je presudio da Google može zadržati svoj najpopularniji preglednik unatoč presudi o monopolu."
 tags: ["Google", "Chrome", "antitrust", "monopol", "tech"]
 image_url: "/images/google.png"
+categories: ["news"]
 ---
 
 Savezni sudac odlučio je da **Google neće morati prodati svoj preglednik Chrome**, iako je prošle godine tvrtka proglašena monopolom.  

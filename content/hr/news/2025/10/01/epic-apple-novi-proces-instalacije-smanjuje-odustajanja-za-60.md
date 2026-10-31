@@ -8,10 +8,10 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/10/01/epic-games-says-apples-new-install-process-cuts-user-drop-offs-by-60/"
 author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Apple-IOS-18.6.png"
-featured_image: "/images/Apple-IOS-18.6.png"
-image: "/images/Apple-IOS-18.6.png"
-thumbnail: "/images/Apple-IOS-18.6.png"
+image_url: "/images/Apple-IOS-18.6.webp"
+featured_image: "/images/Apple-IOS-18.6.webp"
+image: "/images/Apple-IOS-18.6.webp"
+thumbnail: "/images/Apple-IOS-18.6.webp"
 image_alt: "iOS 18.6 — instalacija alternativnog marketplacea na iPhoneu"
 image_credit: "Foto: Metaadvisor.eu (slika je simbolična)"
 tags:
@@ -34,6 +34,7 @@ tags:
   - App Store
   - iPhone
 summary: "Epic tvrdi da je s iOS 18.6 Apple pojednostavio instalaciju alternativnih trgovina u EU, čime su odustajanja pala sa ~65% na ~25% — oko 60% manje napuštanja procesa."
+categories: ["news"]
 ---
 
 **Ukratko:** **Epic Games** navodi da je **Apple** u **iOS 18.6** uveo **kraći, jasniji tok instalacije** alternativnih marketplaceova u EU (u skladu s **DMA**), pa je **drop-off** kod instalacije **Epic Games Storea** pao s oko **65%** na približno **25%** — rezultat bliži onome na **Windows/macOS**.

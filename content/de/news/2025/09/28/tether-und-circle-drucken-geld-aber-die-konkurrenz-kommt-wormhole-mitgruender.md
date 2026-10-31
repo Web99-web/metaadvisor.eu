@@ -9,10 +9,10 @@ author: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/28/tether-and-circle-are-printing-money-but-competition-is-coming-wormhole-co-founder"
 
-image_url: "/images/Tether-Circle.png"
-featured_image: "/images/Tether-Circle.png"
-image: "/images/Tether-Circle.png"
-thumbnail: "/images/Tether-Circle.png"
+image_url: "/images/Tether-Circle.webp"
+featured_image: "/images/Tether-Circle.webp"
+image: "/images/Tether-Circle.webp"
+thumbnail: "/images/Tether-Circle.webp"
 image_alt: "Tether & Circle – symbolische Illustration von Stablecoins"
 image_credit: "Metaadvisor.eu"
 
@@ -36,6 +36,7 @@ tags:
   - Wettbewerb
 
 summary: "Tether und Circle profitieren massiv von hohen US-Zinsen, während die Nutzer keinen Anteil an den Erträgen sehen. Wormhole-Mitgründer Dan Reecer warnt: Konkurrenz-Modelle wie M^0, Agora oder tokenisierte Geldmarktfonds werden dieses Monopol herausfordern."
+categories: ["crypto"]
 ---
 
 ## Das Geschäftsmodell von USDT und USDC

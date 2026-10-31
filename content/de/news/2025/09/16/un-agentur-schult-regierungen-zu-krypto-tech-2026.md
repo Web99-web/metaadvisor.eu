@@ -14,6 +14,7 @@ image_alt: "Flaggen der Mitgliedstaaten vor dem UN-Büro in Genf"
 image_credit: "Pexels"
 tags: ["krypto","blockchain","UN","UNDP","bildung","öffentlicher-sektor","regulierung","policy","regtech","web3","AML/CFT","analyse","übersetzung"]
 summary: "Das UNDP plant ein Schulungsprogramm für den öffentlichen Sektor zu Blockchain und Krypto – mit Fokus auf reale Use Cases, Risiken und Regulierung."
+categories: ["crypto"]
 ---
 
 Laut Cointelegraph startet das Entwicklungsprogramm der Vereinten Nationen (UNDP) im nächsten Jahr ein **Qualifizierungsprogramm für Behörden und Regulierer**, damit Regierungen Blockchain und Krypto praxisnah verstehen und sinnvoll einsetzen können. Ziel ist, den Abstand zwischen Technologie und Regulierung zu verkleinern und öffentliche Services messbar zu verbessern.

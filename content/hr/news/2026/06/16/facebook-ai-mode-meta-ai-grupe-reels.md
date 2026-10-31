@@ -7,15 +7,16 @@ translationKey: "facebook-ai-mode-meta-ai-public-posts-groups-reels-2026-06-16"
 source: "TechCrunch, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta.png"
-featured_image: "/images/Meta/Meta.png"
-image: "/images/Meta/Meta.png"
-thumbnail: "/images/Meta/Meta.png"
+image_url: "/images/Meta/Meta.webp"
+featured_image: "/images/Meta/Meta.webp"
+image: "/images/Meta/Meta.webp"
+thumbnail: "/images/Meta/Meta.webp"
 image_alt: "Facebook AI Mode and Meta AI concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Facebook", "Meta AI", "AI Mode", "Facebook Groups", "Reels", "AI search", "AI summaries", "AI moderation", "public posts", "digital platforms", "algorithms", "politics", "misinformation", "social media", "Big Tech", "Metaadvisor"]
 summary: "Meta uvodi AI Mode na Facebooku, alat koji iz javnih objava, grupa i Reelsa sastavlja gotove odgovore korisnicima. No što se događa kada AI ne prikazuje samo sadržaj, nego ga počinje tumačiti umjesto korisnika?"
 
+categories: ["tech"]
 ---
 
 Slika je simbolična.

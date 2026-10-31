@@ -15,6 +15,7 @@ image_alt: "EURAU euro stablecoin on Solana and growth of euro digital payments"
 image_credit: "Metaadvisor.eu"
 tags: ["allunity eurau", "euro stablecoin europe", "eur stablecoin germany", "solana payments", "mica regulation eu", "tokenized euro", "digital euro blockchain", "deutsche bank dws crypto", "flow traders crypto", "galaxy digital eurau", "stablecoin europe growth", "crypto payments europe"]
 summary: "Germany’s AllUnity expands its euro stablecoin EURAU to Solana, enabling faster and cheaper payments as demand for regulated euro stablecoins across Europe continues to rise."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

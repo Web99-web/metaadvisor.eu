@@ -7,14 +7,15 @@ translationKey: "4e3c7f91a5d041cdbbe6dfbd6d910f20"
 source: "Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/wi-fi-can-see-you.png"
-featured_image: "/images/wi-fi-can-see-you.png"
-image: "/images/wi-fi-can-see-you.png"
-thumbnail: "/images/wi-fi-can-see-you.png"
+image_url: "/images/wi-fi-can-see-you.webp"
+featured_image: "/images/wi-fi-can-see-you.webp"
+image: "/images/wi-fi-can-see-you.webp"
+thumbnail: "/images/wi-fi-can-see-you.webp"
 image_alt: "Wi-Fi router and human silhouette — symbolic illustration"
 image_credit: "Image is symbolic."
 tags: ["wifi","80211bf","wifi sensing","tech","privacy","cybersecurity","radio","CSI","router","smart home","AI","IoT"]
 summary: "The claim that ‘Wi-Fi can see’ isn’t clickbait: the new 802.11bf standard formally introduces Wi-Fi sensing. Here’s what it can do, its limits, and how to protect privacy."
+categories: ["tech"]
 ---
 
 We heard the claim that Wi-Fi can “see” us. With misinformation everywhere, we dug in. The finding: research has been ongoing for **years** across multiple teams — and now **IEEE 802.11bf** makes it official: **Wi-Fi sensing is coming to routers**.

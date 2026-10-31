@@ -7,10 +7,10 @@ translationKey: "uk_court_game_gold_real_property_20260130"
 source: "MetaAdvisor analiza / pravni i digitalni presedan"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/UK-court-game-gold-real-property.png"
-featured_image: "/images/UK-court-game-gold-real-property.png"
-image: "/images/UK-court-game-gold-real-property.png"
-thumbnail: "/images/UK-court-game-gold-real-property.png"
+image_url: "/images/UK-court-game-gold-real-property.webp"
+featured_image: "/images/UK-court-game-gold-real-property.webp"
+image: "/images/UK-court-game-gold-real-property.webp"
+thumbnail: "/images/UK-court-game-gold-real-property.webp"
 image_alt: "UK sud presudio da je zlato iz videoigre stvarna imovina"
 image_credit: "Ilustracija / MetaAdvisor.eu"
 tags:
@@ -26,6 +26,7 @@ tags:
   - vlasništvo
   - sudska presuda
 summary: "Britanski sud donio je povijesnu odluku: virtualno zlato iz videoigre smatra se stvarnom imovinom. Presuda otvara vrata potpuno novom pravnom pogledu na digitalnu imovinu, gaming ekonomije i vlasnička prava u online svijetu."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

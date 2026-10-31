@@ -7,14 +7,15 @@ translationKey: "anthropic-openai-chatgpt-ads-2026-02-09"
 source: "The Guardian / öffentliche Unternehmensstatements"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Anthropic-vs-OpenAI.png"
-featured_image: "/images/Anthropic-vs-OpenAI.png"
-image: "/images/Anthropic-vs-OpenAI.png"
-thumbnail: "/images/Anthropic-vs-OpenAI.png"
+image_url: "/images/Anthropic-vs-OpenAI.webp"
+featured_image: "/images/Anthropic-vs-OpenAI.webp"
+image: "/images/Anthropic-vs-OpenAI.webp"
+thumbnail: "/images/Anthropic-vs-OpenAI.webp"
 image_alt: "Anthropic und OpenAI im Streit über Werbung in KI-Chatbots"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["ki", "chatgpt", "openai", "anthropic", "werbung", "künstliche intelligenz", "digitale werbung", "technologie", "privatsphäre"]
 summary: "Die Debatte über Werbung in KI-Chatbots ist keine Theorie mehr. Nach der Kampagne von Anthropic und den Reaktionen von OpenAI steht fest: Die Frage ist nicht mehr, ob Werbung kommt – sondern was aus der KI dadurch wird."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

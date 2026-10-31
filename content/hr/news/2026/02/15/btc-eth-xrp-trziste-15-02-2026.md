@@ -15,6 +15,7 @@ image_alt: "Bitcoin, Ethereum i XRP pod povećalom tijekom volatilnog dana na kr
 image_credit: "MetaAdvisor ilustracija"
 tags: ["kripto", "bitcoin", "btc", "ethereum", "eth", "xrp", "altcoini", "kripto tržište", "volatilnost", "trgovanje", "investiranje", "digitalna imovina"]
 summary: "Ethereum je probio 2.100 USD pa se vratio ispod 2.000, Bitcoin oscilira oko 68.000 USD, dok XRP pokazuje relativnu snagu usred povišene volatilnosti na tržištu."
+categories: ["crypto"]
 ---
 
 <p style="font-size:12px; opacity:0.6; margin-top:-10px;">

@@ -7,10 +7,10 @@ translationKey: "post_ftx_institutions_still_investing_23122025"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/brett-harrison-raises-35m-institutional-derivatives-exchange"
 author: "MetaAdvisor.eu"
-image_url: "/images/post-FTX.png"
-featured_image: "/images/post-FTX.png"
-image: "/images/post-FTX.png"
-thumbnail: "/images/post-FTX.png"
+image_url: "/images/post-FTX.webp"
+featured_image: "/images/post-FTX.webp"
+image: "/images/post-FTX.webp"
+thumbnail: "/images/post-FTX.webp"
 image_alt: "Post-FTX: Institutions Still Investing"
 tags:
   - kripto
@@ -20,6 +20,7 @@ tags:
   - regulacija
   - ftx
   - brett-harrison
+categories: ["crypto"]
 ---
 
 ## Post-FTX: institucije i dalje ulažu u kripto tržište

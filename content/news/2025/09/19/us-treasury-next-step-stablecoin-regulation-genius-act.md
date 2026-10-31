@@ -16,6 +16,7 @@ image_alt: "Stylized illustration of digital dollar and stablecoins"
 image_credit: "MetaAdvisor image map (symbolic)"
 tags: ["policy", "stablecoin", "US", "U.S. Treasury", "GENIUS Act", "AML", "sanctions", "tax", "federal vs state"]
 summary: "The US Treasury has launched an ANPRM to transform the GENIUS Act into stablecoin regulations, opening a one-month comment period for industry and public feedback."
+categories: ["news"]
 ---
 
 *Image is symbolic.*

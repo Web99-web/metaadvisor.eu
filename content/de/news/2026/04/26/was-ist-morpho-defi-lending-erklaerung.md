@@ -15,6 +15,7 @@ image_alt: "Morpho DeFi Lending Protokoll"
 image_credit: "Metaadvisor.eu"
 tags: ["morpho", "defi", "lending", "crypto", "aave", "blockchain", "yield", "stablecoin", "finanzen"]
 summary: "Was ist Morpho, wie funktioniert DeFi Lending und welche Chancen und Risiken bestehen für Nutzer und Institutionen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

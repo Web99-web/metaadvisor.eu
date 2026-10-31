@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/25/chainlink-partners-with
 summary: "Unatoč velikom partnerstvu, LINK je u zadnja 24 h pao 5% uz širu slabost kriptotržišta."
 tags: ["crypto","chainlink","link","sbi","japan","ccip","stablecoins","tokenization","rwa","project-guardian","mas","proof-of-reserve"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/d29061902f54783c5b2d589086db14112934e986-700x430.png?auto=format"
+categories: ["crypto"]
 ---
 
 Izvorni token oracle mreže Chainlink **LINK $ 23.20** pao je u skladu sa širim kriptotržištem unatoč svježem partnerstvu s japanskim financijskim gigantom **SBI Group**.

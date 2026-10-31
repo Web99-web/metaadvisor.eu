@@ -16,6 +16,7 @@ image_alt: "Strategy (bivši MicroStrategy) i Bitcoin strategija"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","strategy","microstrategy","mnav","nav","phon-le","etf","btc","crypto","investicije","institucije","kapital"]
 summary: "CEO Strategya Phong Le kaže da bi tvrtka prodala Bitcoin samo u slučaju da dionica padne ispod neto vrijednosti imovine (mNAV) i da potpuno nestane pristup kapitalu — što naziva čistom financijskom, a ne emocionalnom odlukom."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

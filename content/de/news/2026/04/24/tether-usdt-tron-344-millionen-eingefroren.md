@@ -15,6 +15,7 @@ image_alt: "TRON Blockchain und das Einfrieren von USDT-Vermögenswerten"
 image_credit: "Metaadvisor / Illustration"
 tags: ["crypto","krypto","usdt","tether","tron","stablecoin","blockchain","regulierung","sicherheit","defi"]
 summary: "Tether hat 344 Millionen USDT auf der Tron-Blockchain in Zusammenarbeit mit US-Behörden eingefroren. Der Schritt wirft erneut die Frage auf, wie dezentral Stablecoins und Blockchain-Netzwerke wirklich sind."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

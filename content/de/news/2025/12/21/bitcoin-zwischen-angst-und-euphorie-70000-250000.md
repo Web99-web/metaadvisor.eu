@@ -15,6 +15,7 @@ image_alt: "Bitcoin Zukunft – Volatilität, Angst und langfristiges Potenzial"
 image_credit: "MetaAdvisor Illustration"
 tags: ["bitcoin", "btc", "krypto", "markt", "fed", "zinsen", "analyse", "volatilität", "investieren"]
 summary: "Bitcoin steht zwischen kurzfristigen Absturzängsten bis 70.000 Dollar und langfristigen Prognosen von 250.000 Dollar bis 2027. Geldpolitik und Marktstimmung sorgen für eine der angespanntesten Phasen dieses Zyklus."
+categories: ["crypto"]
 ---
 
 # Bitcoin zwischen Angst und Euphorie

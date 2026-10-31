@@ -16,6 +16,7 @@ image_alt: "Chainlink Tokenisierung – Illustration"
 image_credit: "MetaAdvisor.eu"
 tags: ["chainlink", "tokenisierung", "grayscale", "infrastruktur", "oracles", "ccip", "blockchain", "finanzen", "defi"]
 summary: "Grayscale bezeichnet Chainlink in einem neuen Bericht als entscheidende Infrastruktur für die Zukunft tokenisierter Vermögenswerte. Was bedeutet das – und warum gewinnt LINK im institutionellen Finanzsektor an Bedeutung?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

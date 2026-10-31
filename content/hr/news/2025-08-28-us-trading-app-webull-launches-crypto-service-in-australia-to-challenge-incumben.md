@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/337147/webull-launches-crypto-service-australia-
 summary: "Ulazak Webulla u Australiju očekuje se da će natjerati lokalne platforme da snize naknade, rekli su stručnjaci za Decrypt."
 tags: ["crypto","Webull","Australia","Coinbase Prime","Bitcoin","Ethereum"]
 image_url: "https://cdn.decrypt.co/optimized/1671112345678-webull-australia.jpg"
+categories: ["crypto"]
 ---
 
 Američka aplikacija za trgovanje **Webull** pokrenula je kripto uslugu za australske korisnike, nudeći pristup stotinama različitih digitalnih sredstava. Stručnjaci smatraju da će ovaj potez natjerati domaće burze da snize naknade ili riskiraju gubitak korisnika.

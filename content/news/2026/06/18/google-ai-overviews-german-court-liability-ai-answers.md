@@ -7,14 +7,15 @@ translationKey: "google-ai-overviews-njemacka-presuda-odgovornost-ai-odgovori-20
 source: "Reuters, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/google-ai-overviews-german-court-liability.png"
-featured_image: "/images/news/google-ai-overviews-german-court-liability.png"
-image: "/images/news/google-ai-overviews-german-court-liability.png"
-thumbnail: "/images/news/google-ai-overviews-german-court-liability.png"
+image_url: "/images/news/google-ai-overviews-german-court-liability.webp"
+featured_image: "/images/news/google-ai-overviews-german-court-liability.webp"
+image: "/images/news/google-ai-overviews-german-court-liability.webp"
+thumbnail: "/images/news/google-ai-overviews-german-court-liability.webp"
 image_alt: "German court ruling on liability for Google AI Overview answers"
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Google AI Overview", "AI Overview", "Germany", "court", "AI liability", "Google Search", "Meta AI", "Facebook AI Mode", "Big Tech", "artificial intelligence", "digital responsibility", "Metaadvisor"]
 summary: "A German court has ruled that Google can be liable for false claims in AI Overview answers. The ruling opens a wider question about the responsibility of large platforms when AI no longer only shows links, but generates ready-made answers."
+categories: ["ai"]
 ---
 
 The image is symbolic.

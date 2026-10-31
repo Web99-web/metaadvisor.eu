@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/12/privacy-tokens-rally-as-xmr-breaks-all-time-high"
 author: "CoinDesk"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Monero-XMR-up.png"
-featured_image: "/images/Monero-XMR-up.png"
-image: "/images/Monero-XMR-up.png"
-thumbnail: "/images/Monero-XMR-up.png"
+image_url: "/images/Monero-XMR-up.webp"
+featured_image: "/images/Monero-XMR-up.webp"
+image: "/images/Monero-XMR-up.webp"
+thumbnail: "/images/Monero-XMR-up.webp"
 image_alt: "Monero XMR doseže novi povijesni maksimum i predvodi rast privacy tokena"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 tags:
@@ -26,6 +26,7 @@ tags:
   - anonymnost
   - regulacija
 summary: "Monero (XMR) probio je novi povijesni maksimum, a zatim se stabilizirao nešto niže, dok interes za privacy tokene ponovno jača. Tema privatnosti vraća se u fokus uslijed regulatornih pritisaka i rastuće zabrinutosti oko nadzora."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-6px;">

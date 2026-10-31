@@ -7,10 +7,10 @@ translationKey: "dubai_insurance_crypto_wallet_20260130"
 source: "Cointelegraph / MetaAdvisor Analysis"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Dubai-Insurance-crypto.png"
-featured_image: "/images/Dubai-Insurance-crypto.png"
-image: "/images/Dubai-Insurance-crypto.png"
-thumbnail: "/images/Dubai-Insurance-crypto.png"
+image_url: "/images/Dubai-Insurance-crypto.webp"
+featured_image: "/images/Dubai-Insurance-crypto.webp"
+image: "/images/Dubai-Insurance-crypto.webp"
+thumbnail: "/images/Dubai-Insurance-crypto.webp"
 image_alt: "Dubai Insurance launches crypto wallet for insurance payments"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -26,6 +26,7 @@ tags:
   - crypto regulation
   - institutional adoption
 summary: "Dubai Insurance has launched a crypto-enabled digital wallet that allows customers to pay insurance premiums and receive claims settlements in digital assets. The move marks a first for the UAE insurance sector and highlights the growing institutional adoption of crypto within regulated frameworks."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

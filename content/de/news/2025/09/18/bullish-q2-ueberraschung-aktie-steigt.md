@@ -16,6 +16,7 @@ image_alt: "Kryptomärkte — Ergebnisse und Kursreaktionen"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["crypto","exchanges","bullish","earnings","märkte","aktien","metaadvisor"]
 summary: "Bullish meldete Q2-Zahlen über Erwartung – die Aktie legte zu. Anleger belohnen wieder Börsen mit verlässlichen Fee-Einnahmen, steigenden Volumina und Kostendisziplin."
+categories: ["crypto"]
 ---
 
 **Bullish** hat im **zweiten Quartal** die Erwartungen übertroffen und damit gezeigt: In einer Phase **behutsamer Lockerung** (nach dem Fed-Schnitt) zählen **planbare Erträge** mehr als laute Versprechen. Steigende **Volumina**, solide **Fee-Streams** und **Kontrolle der Opex** ergeben ein robusteres P&L — unabhängig vom täglichen Gezappel im Kryptochart.

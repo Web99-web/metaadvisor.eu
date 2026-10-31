@@ -7,14 +7,15 @@ translationKey: "booking-hack-phishing-2026"
 source: "Metaadvisor (The Guardian, CCN, Cryptonomist, Cryptopolitan, FXStreet)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Booking-com-hacked.png"
-featured_image: "/images/news/Booking-com-hacked.png"
-image: "/images/news/Booking-com-hacked.png"
-thumbnail: "/images/news/Booking-com-hacked.png"
+image_url: "/images/news/Booking-com-hacked.webp"
+featured_image: "/images/news/Booking-com-hacked.webp"
+image: "/images/news/Booking-com-hacked.webp"
+thumbnail: "/images/news/Booking-com-hacked.webp"
 image_alt: "Booking hack i sigurnosni incident s korisničkim podacima"
 image_credit: "Metaadvisor.eu"
 tags: ["booking", "cyber sigurnost", "phishing", "hakiranje", "putovanja", "data breach", "privacy", "internet sigurnost", "ai", "digitalna sigurnost"]
 summary: "Sigurnosni incident na Booking platformi mogao bi zahvatiti milijune korisnika, ali pravi rizik dolazi kroz sofisticirane phishing napade koji koriste stvarne podatke."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

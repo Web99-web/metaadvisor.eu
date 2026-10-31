@@ -15,6 +15,7 @@ image_alt: "Candlestick chart with extreme crash and rebound"
 image_credit: "Metaadvisor.eu (image is symbolic)"
 tags: ["crypto","markets","flash-crash","record-crash","record-fall","$16B-liquidations","liquidation-cascade","auto-deleveraging","ADL","derivatives","perpetuals","order-book","market-structure","volatility","risk-management","whales","manipulation-question","funding","open-interest","MEXC","BTC","ETH","SOL","ZEC","AVAX","SUI","TIA"]
 summary: "Roughly $16B was liquidated in a ~10-minute flash crash + bounce, leaving extreme wicks that were quickly retraced. Even veteran traders were caught off guard."
+categories: ["markets"]
 ---
 
 **At a glance:** On Thursday evening (around **23:00 CET**) the crypto market saw one of the most violent **flash crash + bounce** sequences in recent memory. An estimated **$16B** in positions was liquidated, with **extreme wicks** across majors that almost instantly reverted.

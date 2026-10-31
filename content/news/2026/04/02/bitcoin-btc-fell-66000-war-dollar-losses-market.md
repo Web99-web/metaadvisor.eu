@@ -14,6 +14,7 @@ thumbnail: "/images/BTC-down.png"
 image_alt: "Bitcoin market drop chart"
 tags: ["bitcoin", "crypto", "dollar", "oil", "inflation", "geopolitics", "market"]
 summary: "Bitcoin fell to around $66,000 as geopolitical tensions, a stronger dollar, and nearly $600 billion in unrealized losses put strong pressure on the market."
+categories: ["crypto"]
 ---
 
 The image is symbolic.

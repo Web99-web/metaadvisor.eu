@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "coindesk.com"
 author: "CoinDesk — analiza MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/ETH-Glamsterdam-MEV.png"
-featured_image: "/images/ETH-Glamsterdam-MEV.png"
-image: "/images/ETH-Glamsterdam-MEV.png"
-thumbnail: "/images/ETH-Glamsterdam-MEV.png"
+image_url: "/images/ETH-Glamsterdam-MEV.webp"
+featured_image: "/images/ETH-Glamsterdam-MEV.webp"
+image: "/images/ETH-Glamsterdam-MEV.webp"
+thumbnail: "/images/ETH-Glamsterdam-MEV.webp"
 image_alt: "Ethereum Glamsterdam nadogradnja i MEV pravednost"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -27,6 +27,7 @@ tags:
   - eip
   - web3
 summary: "Ethereum nakon Fusaka nadogradnje priprema Glamsterdam — ambiciozan upgrade koji želi smanjiti MEV manipulaciju, povećati pravednost i dodatno profesionalizirati mrežu."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

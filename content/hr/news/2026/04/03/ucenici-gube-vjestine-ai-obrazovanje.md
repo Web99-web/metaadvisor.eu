@@ -15,6 +15,7 @@ image_alt: "Učenici koriste umjetnu inteligenciju u obrazovanju"
 image_credit: "MetaAdvisor.eu"
 tags: ["umjetna inteligencija", "ai", "obrazovanje", "ucenici", "skole", "tehnologija", "kriticko razmisljanje", "digitalno drustvo", "drustvene mreze"]
 summary: "Istraživanje u Engleskoj pokazuje da učenici zbog AI alata gube osnovne vještine poput pisanja i kritičkog razmišljanja, dok se istovremeno povećava njihova ovisnost o digitalnim platformama."
+categories: ["ai"]
 ---
 
 Slika je simbolična.

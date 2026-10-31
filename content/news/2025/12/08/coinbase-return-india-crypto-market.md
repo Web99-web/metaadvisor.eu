@@ -15,6 +15,7 @@ image_alt: "Coinbase logo"
 image_credit: "MetaAdvisor"
 tags: ["coinbase","india","cryptocurrency","crypto","trading","exchange","dex","binance","coindcx","coinswitch","bitbns","analysis"]
 summary: "Coinbase is returning to India after a two-year exit — with a new regulatory-first strategy, improved local engagement and an INR fiat on-ramp planned for 2026."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

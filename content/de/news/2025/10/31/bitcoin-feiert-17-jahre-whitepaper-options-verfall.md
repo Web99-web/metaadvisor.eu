@@ -7,14 +7,15 @@ translationKey: "b17a4c93-91c5-4b12-9c47-b5a4e32f02d8"
 source: "Daten zu Krypto-Derivaten (Deribit, CME), historisches Bitcoin-Whitepaper"
 source_url: "https://bitcoin.org/bitcoin.pdf"
 author: "Metaadvisor.eu"
-image_url: "/images/bitcoin-17-birthday.png"
-featured_image: "/images/bitcoin-17-birthday.png"
-image: "/images/bitcoin-17-birthday.png"
-thumbnail: "/images/bitcoin-17-birthday.png"
+image_url: "/images/bitcoin-17-birthday.webp"
+featured_image: "/images/bitcoin-17-birthday.webp"
+image: "/images/bitcoin-17-birthday.webp"
+thumbnail: "/images/bitcoin-17-birthday.webp"
 image_alt: "Bitcoin-Logo vor dunklem Hintergrund – zum 17. Jubiläum des Whitepapers"
 image_credit: "Metaadvisor.eu — Symbolbild."
 tags: ["bitcoin","btc","crypto","krypto","options","derivate","whitepaper","satoshi","blockchain","halving","open interest","volatilität"]
 summary: "Bitcoin feiert 17 Jahre seit Veröffentlichung des Whitepapers, während am Derivatemarkt Optionen im Wert von 13,4 Milliarden USD verfallen – ein Ereignis mit Potenzial für kurzfristige Volatilität."
+categories: ["crypto"]
 ---
 
 Bitcoin feiert heute **17 Jahre seit Veröffentlichung seines Whitepapers (31.10.2008.)**, dem grundlegenden Dokument, das das erste dezentrale digitale Zahlungsmittel definierte. Gleichzeitig verfallen am Derivatemarkt rund **13,4 Mrd USD an offenen Optionen** – ein Ereignis, das kurzfristige Preisbewegungen begünstigen kann.

@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Zcash", "ZEC", "cryptocurrencies", "crypto market", "futures", "spot trading", "open interest", "short squeeze", "NU7", "Zcash voting", "privacy coins", "Zcash ETF", "Grayscale", "European Union", "EU regulation", "Bitcoin", "BTC"]
 description: "ZEC is rising against the broader crypto market toward 1,400 dollars while futures trading volume is almost ten times higher than spot volume."
 summary: "Zcash broke sharply away from Bitcoin, Ethereum and Solana on September 16. Futures volume approached 10 billion dollars, while NU7 voting, large holders and EU regulation from July 2027 add further layers to the story."
+categories: ["Cryptocurrencies"]
 ---
 
 *Image is symbolic.*

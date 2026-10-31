@@ -9,6 +9,7 @@ summary: "Fable planira pomoću AI-a rekonstruirati izgubljenih 43 minute Welles
 tags: ["ai", "orson welles", "the magnificent ambersons", "fable", "amazon", "alexa fund", "generativni ai", "autorska prava", "hollywood", "ip", "deepfake", "fan fiction"]
 image_url: "https://images.pexels.com/photos/5826828/pexels-photo-5826828.jpeg"
 image_source: "Pexels – Nicolette Villavicencio (film reels)"
+categories: ["ai"]
 ---
 
 U petak je startup pod nazivom **Fable** najavio ambiciozan, iako zbunjujući plan: **rekreirati izgubljenih 43 minute** iz klasika Orsona Wellesa, filma „**The Magnificent Ambersons**“.

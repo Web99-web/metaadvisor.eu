@@ -15,6 +15,7 @@ image_alt: "Zastava Španjolske i zapljena kriptovaluta u akciji protiv piratstv
 image_credit: "Metaadvisor / ilustracija"
 tags: ["crypto","kripto","spanjolska","manga","piratstvo","blockchain","cold wallet","cybercrime","regulacija"]
 summary: "Španjolska policija razbila je veliku mrežu za ilegalno dijeljenje manga sadržaja koja je djelovala od 2014. godine. U akciji su zaplijenjeni crypto cold walleti, što pokazuje da ni kriptovalute nisu izvan dosega zakona."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

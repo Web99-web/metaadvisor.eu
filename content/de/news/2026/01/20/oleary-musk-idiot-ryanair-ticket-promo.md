@@ -7,14 +7,15 @@ translationKey: "oleary_musk_idiot_ryanair_promo_20260120"
 source: "The Guardian / X / MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
-featured_image: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
-image: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
-thumbnail: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
+image_url: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
+featured_image: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
+image: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
+thumbnail: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
 image_alt: "Illustration des öffentlichen Streits zwischen Elon Musk und Michael O’Leary, der in eine Ryanair-Promokampagne mündete"
 image_credit: "MetaAdvisor.eu / symbolische Illustration"
 tags: ["ryanair","elon musk","michael o'leary","idiot","streit","öffentlicher streit","starlink","fluggesellschaft","billigflieger","ticketverkauf","promotion","marketing","satire","x plattform","technologie","wirtschaft"]
 summary: "Der öffentliche Streit zwischen Elon Musk und Ryanair-CEO Michael O’Leary endete ungewöhnlich: Eine Beleidigung wurde zur offiziellen Ticket-Promo von Ryanair."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

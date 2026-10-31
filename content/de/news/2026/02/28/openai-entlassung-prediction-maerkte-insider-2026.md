@@ -7,14 +7,15 @@ translationKey: "openai-prediction-markets-insider-2026"
 author: "Metaadvisor.eu"
 source: "TechCrunch (analysis and expansion by Metaadvisor.eu)"
 source_url: ""
-image_url: "/images/Open-AI-confidential1.png"
-featured_image: "/images/Open-AI-confidential1.png"
-image: "/images/Open-AI-confidential1.png"
-thumbnail: "/images/Open-AI-confidential1.png"
+image_url: "/images/Open-AI-confidential1.webp"
+featured_image: "/images/Open-AI-confidential1.webp"
+image: "/images/Open-AI-confidential1.webp"
+thumbnail: "/images/Open-AI-confidential1.webp"
 image_alt: "OpenAI-Logo mit Hinweisen auf Confidential und Insider Trading"
 image_credit: "Illustration: MetaAdvisor"
 tags: ["openai", "künstliche intelligenz", "ai", "prediction märkte", "polymarket", "kalshi", "insiderhandel", "regulierung", "technologiesektor", "ipo", "finanzmärkte"]
 summary: "OpenAI hat einen Mitarbeiter entlassen, weil er vertrauliche Informationen beim Handel auf Prediction-Märkten wie Polymarket genutzt haben soll. Der Fall wirft Fragen zu Insiderhandel, Regulierung und Verantwortung im KI-Sektor auf."
+categories: ["ai"]
 ---
 
 # OpenAI entlässt Mitarbeiter wegen Nutzung vertraulicher Informationen auf Prediction-Märkten

@@ -13,6 +13,7 @@ image_alt: "Kripto tržište — simbolična ilustracija (BTC/ETH)"
 image_credit: "Metaadvisor (simbolična slika)"
 tags: ["kripto", "tržište", "makro", "Fed", "DXY", "Bitcoin-ETF", "ETF-tokovi", "derivati", "funding", "OI", "likvidnost", "vikend", "volatilnost", "konsolidacija"]
 summary: "Lagani pad preko tržišta povezan je s jačim USD nakon Feda, mješovitim ETF tokovima te plitkom vikend-likvidnošću i derivatnim pritiscima."
+categories: ["news"]
 ---
 
 **Ukratko:**  

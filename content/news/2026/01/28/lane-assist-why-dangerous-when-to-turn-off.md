@@ -7,10 +7,10 @@ translationKey: "lane_assist_risks_20260128"
 source: "General safety analysis / vehicle technologies"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/lane-assists.png"
-featured_image: "/images/lane-assists.png"
-image: "/images/lane-assists.png"
-thumbnail: "/images/lane-assists.png"
+image_url: "/images/lane-assists.webp"
+featured_image: "/images/lane-assists.webp"
+image: "/images/lane-assists.webp"
+thumbnail: "/images/lane-assists.webp"
 image_alt: "Lane Assist system in a vehicle with warning indicator"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -22,6 +22,7 @@ tags:
   - driving
   - traffic
 summary: "Lane Assist systems are now standard in many modern vehicles, but in certain situations they can introduce risks. We explain how they work, why they can be dangerous, and when it makes sense to turn them off."
+categories: ["technology"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

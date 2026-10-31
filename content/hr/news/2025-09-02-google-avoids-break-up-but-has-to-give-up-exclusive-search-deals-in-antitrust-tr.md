@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/02/google-avoids-break-up-faces-new-
 summary: "Savezni sudac Amit P. Mehta u utorak je naveo mjere kojima se Googleu zabranjuje sklapanje ili održavanje ekskluzivnih ugovora vezanih uz Search, Chrome, Google Assistant ili Gemini."
 tags: ["google", "antitrust", "pretraživanje", "chrome", "gemini", "tech"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
+categories: ["news"]
 ---
 
 Google neće biti prisiljen razbiti svoj poslovni model pretraživanja, ali je savezni sudac privremeno naložio druge promjene u poslovnim praksama tehnološkog diva kako bi ga spriječio u daljnjem antikonkurentskom ponašanju.

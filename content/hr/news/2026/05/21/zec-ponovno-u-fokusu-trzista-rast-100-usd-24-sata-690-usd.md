@@ -15,6 +15,7 @@ image_alt: "Zcash ZEC ponovno u fokusu crypto tržišta nakon snažnog rasta cij
 image_credit: "Metaadvisor.eu"
 tags: ["zec", "zcash", "privacy coin", "crypto tržište", "kripto tržište", "altcoin", "blockchain", "digitalna imovina", "financijska privatnost", "crypto cijene", "volatilnost", "fomo", "market focus", "tržišni fokus", "crypto analiza", "kripto analiza"]
 summary: "ZEC je ponovno privukao pažnju crypto tržišta nakon što je u 24 sata porastao za gotovo 100 USD i dotaknuo zonu oko 690 USD. Rast ponovno otvara pitanje vraća li se interes tržišta prema privacy coinovima i blockchain infrastrukturi izgrađenoj oko financijske privatnosti."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

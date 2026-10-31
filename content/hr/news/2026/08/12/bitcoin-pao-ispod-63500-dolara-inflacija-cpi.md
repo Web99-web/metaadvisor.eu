@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Bitcoin", "BTC", "CPI", "inflacija", "Federal Reserve", "Fed", "kripto", "crypto", "kamatne stope", "američko gospodarstvo"]
 description: "Bitcoin je pao ispod 63.500 dolara iako je američka inflacija u srpnju bila u skladu s očekivanjima i nije povećala pritisak na Federalne rezerve za novo podizanje kamata."
 summary: "Američki CPI porastao je 0,1 posto mjesečno i 3,4 posto godišnje, točno prema očekivanjima. Unatoč relativno povoljnom makro okruženju Bitcoin je izbrisao dnevne dobitke i ponovno stavio područje oko 63.000 dolara pod pritisak."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -7,15 +7,16 @@ translationKey: "jeff-bezos-cuspai-britanska-vlada-novi-materijali-2026-07-21"
 source: "The Guardian, CuspAI i britanska vlada"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/CuspAI-british-new-materials.png"
-featured_image: "/images/AI-general/CuspAI-british-new-materials.png"
-image: "/images/AI-general/CuspAI-british-new-materials.png"
-thumbnail: "/images/AI-general/CuspAI-british-new-materials.png"
+image_url: "/images/AI-general/CuspAI-british-new-materials.webp"
+featured_image: "/images/AI-general/CuspAI-british-new-materials.webp"
+image: "/images/AI-general/CuspAI-british-new-materials.webp"
+thumbnail: "/images/AI-general/CuspAI-british-new-materials.webp"
 image_alt: "CuspAI koristi umjetnu inteligenciju za razvoj novih materijala za čipove, baterije i energetiku"
 image_credit: "Metaadvisor.eu"
 tags: ["CuspAI", "Jeff Bezos", "britanska vlada", "umjetna inteligencija", "AI", "novi materijali", "čipovi", "baterije", "Nvidia", "Meta", "Hyundai", "Cambridge"]
 description: "Jeff Bezos i britanska vlada ulažu u CuspAI, startup vrijedan 2,6 milijardi dolara koji AI koristi za otkrivanje novih materijala."
 summary: "CuspAI želi umjetnom inteligencijom ubrzati razvoj novih materijala za čipove, baterije i energetiku te smanjiti ovisnost o rijetkim metalima."
+categories: ["ai"]
 ---
 
 # Jeff Bezos ulaže u CuspAI vrijedan 2,6 milijardi

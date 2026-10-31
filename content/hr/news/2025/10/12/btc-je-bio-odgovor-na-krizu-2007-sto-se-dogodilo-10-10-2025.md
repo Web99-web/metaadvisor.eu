@@ -5,10 +5,11 @@ date: 2025-10-12T18:10:00Z
 category: "crypto"
 translationKey: "btc-answer-2007-crisis-hr"
 author: "MetaAdvisor"
-image_url: "/images/bitcoin-BTC-2007-2009.png"
-featured_image: "/images/bitcoin-BTC-2007-2009.png"
+image_url: "/images/bitcoin-BTC-2007-2009.webp"
+featured_image: "/images/bitcoin-BTC-2007-2009.webp"
 tags: ["Bitcoin", "financijska kriza", "The Big Short", "kaskadne likvidacije", "Binance", "whales"]
 summary: "Bitcoin je rođen kao odgovor na krizu 2007./2008. Događaji 10.10.2025. izgledali su kao 'Perfect Storm': rekordne likvidacije, sporni prekidi izvršenja i savršeno tempirani shortovi."
+categories: ["crypto"]
 ---
 
 # BTC je bio odgovor na krizu 2007 – što se dogodilo 10.10.2025?

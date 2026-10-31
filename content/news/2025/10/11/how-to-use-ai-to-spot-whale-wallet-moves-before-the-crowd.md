@@ -6,13 +6,14 @@ category: "ai"
 translationKey: "96f26a29f43896e0487e994631964c4b-en"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-to-use-ai-to-spot-whale-wallet-moves-before-the-crowd"
-image_url: "/images/whale.png"
-featured_image: "/images/whale.png"
-thumbnail: "/images/whale.png"
+image_url: "/images/whale.webp"
+featured_image: "/images/whale.webp"
+thumbnail: "/images/whale.webp"
 image_alt: "AI-powered analysis of whale wallets"
 image_credit: "Metaadvisor.eu (illustrative)"
 tags: ["ai","crypto","whale","wallet-tracking","on-chain"]
 summary: "AI helps detect unusual whale transfers, classify patterns and react faster. Here’s a practical, no-nonsense way to use it."
+categories: ["ai"]
 ---
 
 Tracking large addresses (**whales**) remains a reliable alpha source. With today’s data deluge, **AI** is the tool that surfaces signals early.

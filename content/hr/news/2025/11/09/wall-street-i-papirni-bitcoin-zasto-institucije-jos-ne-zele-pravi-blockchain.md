@@ -16,6 +16,7 @@ image_alt: "Zeleni Bitcoin simbolizira institucionalno ulaganje u kripto"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "wall street", "etf", "blockchain", "offchain", "crypto", "finance"]
 summary: "Wall Street voli Bitcoin – ali ne njegov blockchain. Iza kulisa, veliki igrači trguju ‘papirnim’ BTC-om, odgađaju stvarne kupnje i zadržavaju potpunu kontrolu nad vremenom i rizikom."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

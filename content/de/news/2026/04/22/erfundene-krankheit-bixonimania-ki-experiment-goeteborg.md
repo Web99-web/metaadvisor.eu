@@ -7,14 +7,15 @@ translationKey: "bixonimania-ai-experiment-peer-review-fail"
 source: "Nature"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Bixonimania-fake-disease-experiment.png"
-featured_image: "/images/hack/Bixonimania-fake-disease-experiment.png"
-image: "/images/hack/Bixonimania-fake-disease-experiment.png"
-thumbnail: "/images/hack/Bixonimania-fake-disease-experiment.png"
+image_url: "/images/hack/Bixonimania-fake-disease-experiment.webp"
+featured_image: "/images/hack/Bixonimania-fake-disease-experiment.webp"
+image: "/images/hack/Bixonimania-fake-disease-experiment.webp"
+thumbnail: "/images/hack/Bixonimania-fake-disease-experiment.webp"
 image_alt: "Erfundene Krankheit Bixonimania und KI-Halluzinationen"
 image_credit: "Metaadvisor / Illustration"
 tags: ["ai","künstliche intelligenz","ki halluzinationen","wissenschaft","peer review","chatgpt","gemini","technologie"]
 summary: "Ein Experiment der Universität Göteborg zeigt, wie KI und Teile des wissenschaftlichen Systems überzeugende, aber vollständig erfundene Informationen akzeptieren können. Die Autoren nutzten bewusst erfundene Identitäten und humorvolle Referenzen – dennoch wurde der Betrug nicht sofort erkannt."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

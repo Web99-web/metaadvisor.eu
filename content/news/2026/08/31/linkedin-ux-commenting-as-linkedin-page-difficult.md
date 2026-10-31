@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["LinkedIn", "LinkedIn Page", "LinkedIn UX", "user experience", "UX", "Company Page", "social networks", "business pages", "digital platforms", "social media management", "commenting", "business profiles", "Microsoft", "technology"]
 description: "LinkedIn allows administrators to comment as a Company Page, but the identity must repeatedly be changed. In Search, switching to the Page can also make the screen visibly jump through posts already viewed."
 summary: "Commenting as a LinkedIn Page is possible, but the workflow is surprisingly awkward: Search returns the administrator to their personal profile, the Page has to be selected again, and changing identity can trigger distracting jumps through search results."
+categories: ["Tech"]
 ---
 
 # LinkedIn UX: Why commenting as a LinkedIn Page is so difficult

@@ -15,6 +15,7 @@ image_alt: "Robinhood Einstieg in Prediction Markets"
 image_credit: "MetaAdvisor AI-generated (symbolisches Bild)"
 tags: ["robinhood", "vorhersagemärkte", "krypto", "derivate", "börsen", "handel", "finanzen", "investitionen", "alameda", "ftx", "blockchain", "institutionen", "regulierung", "markt"]
 summary: "Robinhood und Susquehanna übernehmen MIAXdx/LedgerX und steigen damit tief in den Markt für Prediction Markets ein – ein historischer Strategiewechsel seit der FTX-Ära."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

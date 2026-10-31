@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employ
 summary: "Scale AI klagt gegen Ex-Mitarbeiter Eugene Ling und das Unternehmen Mercor wegen angeblicher Weitergabe vertraulicher Informationen."
 tags: ["KI", "ScaleAI", "Mercor", "Rechtsstreit", "Startup", "Geschäftsgeheimnisse"]
 image_url: "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg"
+categories: ["ai"]
 ---
 
 **Scale AI**, ein Unternehmen, das Daten für das Training von KI-Modellen aufbereitet, hat eine Klage gegen den ehemaligen Mitarbeiter **Eugene Ling** und den Rivalen **Mercor** eingereicht.  

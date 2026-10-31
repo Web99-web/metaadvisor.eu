@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "chatgpt-claude-gemini-grok-ai-outage-2026-09-03"
 source: "OpenAI Status, Anthropic Status, xAI Status, Downdetector, Axios, Forbes, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.png"
-featured_image: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.png"
-image: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.png"
-thumbnail: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.png"
+image_url: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.webp"
+featured_image: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.webp"
+image: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.webp"
+thumbnail: "/images/news/AI-outage-ChatGPT-Claude-Gemini-Grok.webp"
 image_alt: "AI outage pogađa ChatGPT, Claude, Gemini i Grok uz probleme s dostupnošću velikih AI servisa"
 image_credit: "Metaadvisor.eu"
 tags: ["AI", "ChatGPT", "OpenAI", "Claude", "Anthropic", "Gemini", "Google", "Grok", "xAI", "AI outage", "prekid rada", "umjetna inteligencija", "Codex", "tehnologija", "cloud infrastruktura"]
 description: "ChatGPT, Claude i Grok 3. rujna imali su potvrđene probleme s dostupnošću gotovo istodobno, dok su korisnici prijavljivali poteškoće i s Google Geminijem. Zajednički uzrok zasad nije potvrđen."
 summary: "Više vodećih AI servisa imalo je probleme tijekom istog poslijepodneva. OpenAI, Anthropic i xAI službeno su potvrdili incidente, dok su za Gemini zabilježene korisničke prijave bez potvrđenog širokog Googleova outagea."
+categories: ["Tech"]
 ---
 
 *Slika je simbolična.*

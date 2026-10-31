@@ -8,14 +8,15 @@ author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
 source: "TechCrunch"
 source_url: ""
-image_url: "/images/news/AI-apps-money.png"
-featured_image: "/images/news/AI-apps-money.png"
-image: "/images/news/AI-apps-money.png"
-thumbnail: "/images/news/AI-apps-money.png"
+image_url: "/images/news/AI-apps-money.webp"
+featured_image: "/images/news/AI-apps-money.webp"
+image: "/images/news/AI-apps-money.webp"
+thumbnail: "/images/news/AI-apps-money.webp"
 image_alt: "AI aplikacije monetizacija i problem zadržavanja korisnika"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["ai", "umjetna inteligencija", "ai aplikacije", "startupovi", "pretplate", "subscription ekonomija", "chatgpt", "ai startup", "tech industrija", "aplikacije", "ios", "android", "ai tržište", "tehnologija"]
 summary: "Iako AI aplikacije mogu brzo generirati prihod, nova analiza pokazuje da imaju ozbiljan problem dugoročnog zadržavanja korisnika. Pretplatnici AI aplikacija otkazuju pretplate znatno brže nego kod drugih vrsta aplikacija."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

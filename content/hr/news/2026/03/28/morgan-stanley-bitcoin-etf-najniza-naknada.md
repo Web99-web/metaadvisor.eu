@@ -7,14 +7,15 @@ translationKey: "7265f0603c56e55bf16fc2948b5e04c2"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (CoinDesk, SEC podaci)"
 source_url: ""
-image_url: "/images/Banks-move-into-crypto.png"
-featured_image: "/images/Banks-move-into-crypto.png"
-image: "/images/Banks-move-into-crypto.png"
-thumbnail: "/images/Banks-move-into-crypto.png"
+image_url: "/images/Banks-move-into-crypto.webp"
+featured_image: "/images/Banks-move-into-crypto.webp"
+image: "/images/Banks-move-into-crypto.webp"
+thumbnail: "/images/Banks-move-into-crypto.webp"
 image_alt: "Velike banke ulaze u kripto tržište kroz ETF-ove"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "etf", "morgan stanley", "banka", "blackrock", "grayscale", "kripto", "ulaganje", "crypto"]
 summary: "Jedna od najvećih američkih investicijskih banaka, Morgan Stanley, planira Bitcoin ETF s naknadom od 0.14%, što bi moglo pokrenuti novi val konkurencije."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

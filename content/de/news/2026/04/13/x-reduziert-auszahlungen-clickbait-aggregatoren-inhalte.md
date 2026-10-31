@@ -7,14 +7,15 @@ translationKey: "0466944bac0fe56dd76532e93db665da"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/"
 author: "TechCrunch"
-image_url: "/images/news/X-cuts-payouts-to-clickbait-accounts.png"
-featured_image: "/images/news/X-cuts-payouts-to-clickbait-accounts.png"
-image: "/images/news/X-cuts-payouts-to-clickbait-accounts.png"
-thumbnail: "/images/news/X-cuts-payouts-to-clickbait-accounts.png"
+image_url: "/images/news/X-cuts-payouts-to-clickbait-accounts.webp"
+featured_image: "/images/news/X-cuts-payouts-to-clickbait-accounts.webp"
+image: "/images/news/X-cuts-payouts-to-clickbait-accounts.webp"
+thumbnail: "/images/news/X-cuts-payouts-to-clickbait-accounts.webp"
 image_alt: "X reduziert Auszahlungen an Clickbait-Accounts"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "x", "twitter", "clickbait", "aggregatoren", "monetarisierung", "algorithmus", "soziale medien", "digitale wirtschaft", "content creator"]
 summary: "X reduziert Auszahlungen an Clickbait-Content-Aggregatoren und versucht damit, ein Modell zu begrenzen, das lange Zeit auf Masse statt Qualität setzte."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

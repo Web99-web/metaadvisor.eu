@@ -3,7 +3,7 @@ title: "What the Fed’s Sept. 17 Interest Rate Decision Means for Crypto, Gold 
 slug: "what-the-feds-sept-17-interest-rate-decision-means-for-crypto-gold-and-stocks"
 date: 2025-09-13T18:36:20Z
 category: "news"
-translationKey: "0788faa171c452cefa36b0247735663d"
+translationKey: "0788faa171c452cefa36b0247735663d--unpaired-cbafd146d725"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/13/fed-s-sept-17-rate-cut-could-spark-short-term-jitters-but-supercharge-bitcoin-gold-and-stocks-long-term"
 priority: 97
@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["crypto", "cryptocurrency", "stocks", "equities"]
 our_take: |
   Our view: Investors are counting down to the Federal Reserve’s Sept. Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
 ---
 
 Investors are counting down to the Federal Reserve’s Sept. 17 monetary policy decision; markets expect a quarter-point rate cut that could trigger short-term volatility but potentially fuel longer-term gains across risk assets.

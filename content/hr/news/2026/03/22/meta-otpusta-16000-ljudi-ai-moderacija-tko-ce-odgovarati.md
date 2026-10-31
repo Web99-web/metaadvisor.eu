@@ -7,15 +7,16 @@ translationKey: "meta-layoffs-ai-moderation-2026"
 author: "Metaadvisor.eu"
 source: "Reuters / Business Insider / JP Morgan"
 source_url: ""
-image_url: "/images/companies/Meta-lays-off-16000-people.png"
-featured_image: "/images/companies/Meta-lays-off-16000-people.png"
-image: "/images/companies/Meta-lays-off-16000-people.png"
-thumbnail: "/images/companies/Meta-lays-off-16000-people.png"
+image_url: "/images/companies/Meta-lays-off-16000-people.webp"
+featured_image: "/images/companies/Meta-lays-off-16000-people.webp"
+image: "/images/companies/Meta-lays-off-16000-people.webp"
+thumbnail: "/images/companies/Meta-lays-off-16000-people.webp"
 image_alt: "Meta planira otpustiti 16000 zaposlenika i prelazak na AI"
 image_credit: "Meta / ilustracija"
 tags: ["meta", "facebook", "ai", "umjetna inteligencija", "otkazi", "moderacija", "big tech", "algoritmi", "automatizacija"]
 summary: "Meta planira otpustiti oko 16.000 zaposlenika uz procijenjene uštede od 5–6 milijardi dolara, dok istovremeno raste broj problema s AI moderacijom i nestankom korisničke podrške."
 symbolic_image: true
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

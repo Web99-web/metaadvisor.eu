@@ -11,6 +11,7 @@ image_url: "https://i.guim.co.uk/img/media/daa76f62d11eab4ddcbbd045ebf63293a88ba
 tags: ["ai", "artificial-intelligence", "google", "mental-health"]
 our_take: |
   Unsere Ansicht: Vertragliche KI -Bewerter beschreiben anstrengende Fristen, schlechte Bezahlung und Opazität in Bezug auf die Arbeit, um Chatbots im Frühjahr 2024 intelligent zu machen, als Rachael Sawyer, ein technischer Schriftsteller aus Texas, eine LinkedIn -Nachricht von… Größerem Bild: Daten/Lizenzierung, Modellqualität und Richtlinienrisiko -Antriebsergebnisse erhielt.Wir mögen echte Verteilung und verteidigungsfähige Datengräben.
+categories: ["news"]
 ---
 
 Vertragete KI -Bewerter beschreiben anstrengende Fristen, schlechte Bezahlung und Deckkraft in Bezug auf die Arbeit, um Chatbots intelligent zu machen

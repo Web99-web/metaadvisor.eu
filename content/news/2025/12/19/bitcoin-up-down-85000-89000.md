@@ -15,6 +15,7 @@ image_alt: "Bitcoin price fluctuating between $85,000 and $89,000"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","crypto","cryptocurrency","volatility","market","analysis","institutions","etf","bitcoin price"]
 summary: "Bitcoin is trading in a tight range between $85,000 and $89,000, pressured by short-term selling while supported by long-term institutional expectations."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

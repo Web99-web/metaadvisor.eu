@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/26/assort-health-nabs-50m-to-automat
 summary: "The startup, now valued at $750 million, is one of three that recently raised funding to use AI agents for helping healthcare practices answer patient calls."
 tags: ["AI","health","healthcare","startup","AssortHealth","EliseAI","HelloPatient","AmbienceHealthcare","Abridge"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/assort-health.jpg"
+categories: ["news"]
 ---
 
 Assort Health, a startup that uses AI to automate patient communication for specialty healthcare practices, has raised about $50 million in a Series B round at a valuation of $750 million, according to three sources familiar with the deal. The latest round, which comes just four months after the company raised its $22 million Series A, was led by Lightspeed Venture Partners, these people said.

@@ -7,14 +7,15 @@ translationKey: "varm-5000-eura-izolacija-kuce-jedan-dan-2026-06-26"
 source: "VARM, EU-Startups, Invest in Berlin, Vestbee, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/VARM-german-startup-house-insulation.png"
-featured_image: "/images/companies/VARM-german-startup-house-insulation.png"
-image: "/images/companies/VARM-german-startup-house-insulation.png"
-thumbnail: "/images/companies/VARM-german-startup-house-insulation.png"
+image_url: "/images/companies/VARM-german-startup-house-insulation.webp"
+featured_image: "/images/companies/VARM-german-startup-house-insulation.webp"
+image: "/images/companies/VARM-german-startup-house-insulation.webp"
+thumbnail: "/images/companies/VARM-german-startup-house-insulation.webp"
 image_alt: "VARM German startup 5000 euro house insulation in one day"
 image_credit: "Metaadvisor.eu"
 tags: ["VARM", "German startup", "house insulation", "5000 euros", "energy renovation", "climate-tech", "AI platform", "construction", "energy efficiency", "Germany", "BAFA subsidies", "insulation materials", "single-family homes", "startup", "Europe", "Metaadvisor"]
 summary: "German startup VARM has raised 17.5 million euros to expand its model for fast insulation of single-family homes. The company talks about insulating a house in one day for around 5000 euros, but the available information does not make fully clear what exactly is included in that price, which types of houses the model applies to and where AI ends and traditional construction begins."
+categories: ["tech"]
 ---
 
 The image is symbolic.

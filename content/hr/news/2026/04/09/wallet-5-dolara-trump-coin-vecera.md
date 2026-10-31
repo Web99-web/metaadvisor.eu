@@ -15,6 +15,7 @@ image_alt: "Trump coin i mali wallet ulazak"
 image_credit: "Ilustracija"
 tags: ["kripto","crypto","trump coin","meme coin","solana","wallet","trgovanje","investiranje","blockchain","trziste","psihologija","mar-a-lago","vecera","trump event","politika"]
 summary: "Wallet s ukupno 5 dolara uloženih u $TRUMP coin privukao je pažnju kripto zajednice i otvorio pitanje: radi li se o slučajnosti, nadi ili nečemu više?"
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

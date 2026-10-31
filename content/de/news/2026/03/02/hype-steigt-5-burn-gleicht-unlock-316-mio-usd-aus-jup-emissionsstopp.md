@@ -7,14 +7,15 @@ translationKey: "b47c7c5ef9555053fb7ff3e500242836"
 author: "CoinDesk"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/HYPE-up1.png"
-featured_image: "/images/HYPE-up1.png"
-image: "/images/HYPE-up1.png"
-thumbnail: "/images/HYPE-up1.png"
+image_url: "/images/HYPE-up1.webp"
+featured_image: "/images/HYPE-up1.webp"
+image: "/images/HYPE-up1.webp"
+thumbnail: "/images/HYPE-up1.webp"
 image_alt: "Anstieg des HYPE-Tokens durch Burn-Mechanismus"
 image_credit: "Symbolische Illustration"
 tags: ["hype", "hyperliquid", "jup", "jupiter", "krypto", "altcoins", "token burn", "unlock", "freischaltung", "tokenomik", "defi", "derivate", "handel", "supply freeze", "governance", "angebot", "emission"]
 summary: "HYPE stieg um 5%, obwohl ein Token-Unlock im Wert von 316 Mio. USD bevorsteht, gestützt durch einen starken Burn-Mechanismus. JUP gewinnt nach der Entscheidung, neue Emissionen für 2026 auszusetzen – ein Signal wachsender Angebotsdisziplin im Altcoin-Sektor."
+categories: ["crypto"]
 ---
 
 # HYPE steigt um 5%, während Burn ein Unlock von 316 Mio. USD ausgleicht – JUP gewinnt durch Emissionsstopp

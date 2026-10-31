@@ -30,6 +30,7 @@ tags:
   - perps
   - risk-appetite
 summary: "Altcoin seasons aren’t random. Typical drivers: falling BTC dominance, strength in ETH/BTC, fresh stablecoin liquidity, and catalysts like airdrops and new narratives — often in a low-IV, cheap-funding regime."
+categories: ["news"]
 ---
 
 **Briefly:** When altcoins take the lead, it’s usually **capital rotation**. After a **mature BTC trend** (rally → plateau), profits rotate into **ETH** and major **L1/L2s**, then into **theme pockets** (DeFi, RWA, AI, memecoins). Key levers: **declining BTC dominance**, **rising ETH/BTC**, **net stablecoin issuance**, and **catalysts** (airdrops, launches, narratives).

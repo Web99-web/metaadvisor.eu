@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/aug/27/half-of-uk-adult
 summary: "TUC poziva na novi pristup tehnologiji i veći utjecaj radnika na način na koji se ona primjenjuje."
 tags: ["ai","UK","tržište rada","anketa","TUC"]
 image_url: "https://i.guim.co.uk/img/media/69b8b0b0589e91606c30e37a91bcbda248c33f6b/0_0_5472_3648/master/5472.jpg?width=1200&quality=85&auto=format&fit=max&s=4b5fbd048"
+categories: ["ai"]
 ---
 
 Prema istraživanju Sindikalne kongresne konfederacije (TUC), polovica odraslih u Ujedinjenom Kraljevstvu brine da će umjetna inteligencija (AI) ugroziti njihov posao – bilo potpunim gubitkom ili promjenom uvjeta rada. Čak 51% od 2.600 ispitanih izrazilo je zabrinutost zbog utjecaja AI tehnologija.

@@ -6,15 +6,16 @@ category: "crypto"
 translationKey: "powercompute-bitcoin-credit-18m-2percent-2026-08-13"
 source: "PowerCompute, SEC, Arch Lending, Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/news/BTC-credit-loan-18m-2percent.png"
-featured_image: "/images/news/BTC-credit-loan-18m-2percent.png"
-image: "/images/news/BTC-credit-loan-18m-2percent.png"
-thumbnail: "/images/news/BTC-credit-loan-18m-2percent.png"
+image_url: "/images/news/BTC-credit-loan-18m-2percent.webp"
+featured_image: "/images/news/BTC-credit-loan-18m-2percent.webp"
+image: "/images/news/BTC-credit-loan-18m-2percent.webp"
+thumbnail: "/images/news/BTC-credit-loan-18m-2percent.webp"
 image_alt: "Bitcoin kao kolateral za refinanciranje 18 milijuna dolara duga uz početnu kamatu od 2 posto"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Bitcoin", "BTC", "PowerCompute", "Arch Lending", "Bitcoin kredit", "Bitcoin collateral", "crypto lending", "refinanciranje", "Nasdaq", "korporativne financije"]
 description: "PowerCompute je založio 307 Bitcoina i refinancirao više od 18 milijuna dolara duga uz početnu kamatu od samo 2 posto. Međutim, niska kamata dolazi uz važnu kvaku."
 summary: "Nasdaq kompanija PowerCompute koristi 307 BTC kao kolateral za kredit kojim je zamijenila oko 18 milijuna dolara postojećeg duga. Početna kamata iznosi samo 2 posto, ali riječ je o posebnom collar aranžmanu koji ograničava dio potencijalne zarade ako Bitcoin snažno poraste."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

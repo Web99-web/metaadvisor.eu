@@ -7,10 +7,10 @@ translationKey: "btc_breakout_structure_jan2026"
 source: "MetaAdvisor analysis based on Cointelegraph and CoinDesk reports"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-94440.png"
-featured_image: "/images/BTC-94440.png"
-image: "/images/BTC-94440.png"
-thumbnail: "/images/BTC-94440.png"
+image_url: "/images/BTC-94440.webp"
+featured_image: "/images/BTC-94440.webp"
+image: "/images/BTC-94440.webp"
+thumbnail: "/images/BTC-94440.webp"
 image_alt: "Bitcoin exits a months-long trading range and reaches the area around $94,440"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -25,6 +25,7 @@ tags:
   - futures
   - macro
 summary: "After months of trading in a tight range, Bitcoin has moved higher, supported by easing inflation data, reduced volatility and a clear shift in market structure."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

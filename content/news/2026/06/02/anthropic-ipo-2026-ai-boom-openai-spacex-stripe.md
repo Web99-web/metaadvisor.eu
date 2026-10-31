@@ -7,14 +7,15 @@ translationKey: "388c0763bb7e3a71aeabb5cc0a0624ac"
 source: "Metaadvisor (TechCrunch, Reuters, Axios, The Guardian)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/IPO-100-billion-dollars.png"
-featured_image: "/images/IPO-100-billion-dollars.png"
-image: "/images/IPO-100-billion-dollars.png"
-thumbnail: "/images/IPO-100-billion-dollars.png"
+image_url: "/images/IPO-100-billion-dollars.webp"
+featured_image: "/images/IPO-100-billion-dollars.webp"
+image: "/images/IPO-100-billion-dollars.webp"
+thumbnail: "/images/IPO-100-billion-dollars.webp"
 image_alt: "Anthropic OpenAI SpaceX Stripe and the major IPO wave of 2026"
 image_credit: "MetaAdvisor.eu"
 tags: ["Anthropic", "Claude", "Anthropic IPO", "AI IPO", "artificial intelligence", "AI boom", "OpenAI", "SpaceX", "Stripe", "Wall Street", "IPO 2026", "technology stocks", "initial public offering", "SEC", "S-1 filing", "startup valuations", "AI infrastructure", "AI market", "Metaadvisor"]
 summary: "Anthropic, the company behind Claude, has confidentially filed paperwork for a possible IPO and opened a new phase of the AI race on Wall Street. In the same year, investors are also watching OpenAI, SpaceX and Stripe, which could turn 2026 into a year of historic technology IPOs."
+categories: ["ai"]
 ---
 
 <small><em>The image is symbolic.</em></small>

@@ -16,6 +16,7 @@ image_alt: "Weißes Haus mit US-Flagge"
 image_credit: "Metaadvisor.eu"
 tags: ["trump", "crypto", "bitcoin", "usa", "inflation", "stimulus", "politik"]
 summary: "Donald Trump kündigte eine 2.000-Dollar-Dividende pro Person an, finanziert aus Zolleinnahmen. Analysten sehen kurzfristig positive Impulse, aber langfristig Inflationsrisiken."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

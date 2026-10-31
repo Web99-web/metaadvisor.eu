@@ -9,6 +9,7 @@ summary: "The settlement ends a three-year legal battle over sneaker NFTs design
 tags: ["Nike","StockX","NFT","sneakers","trademark","fake-shoes","lawsuit","brands"]
 image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/09/nike-stockx-lawsuit-gID_7.jpg"
 image_url_small: "https://cdn.decrypt.co/wp-content/uploads/2025/09/nike-stockx-lawsuit-gID_7.jpg?auto=format&fit=max&w=1200"
+categories: ["news"]
 ---
 
 Nike Inc. and StockX, a Detroit-based online marketplace, settled a three-year lawsuit in New York federal court over sneaker-linked NFTs and trademark misuse. The deal, reached last Friday, canceled a jury trial that had been scheduled for October.  

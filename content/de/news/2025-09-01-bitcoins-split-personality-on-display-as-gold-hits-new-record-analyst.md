@@ -9,6 +9,7 @@ summary: "Gold erreicht ein neues Allzeithoch, während Bitcoin zwischen ‘digi
 tags: ["Bitcoin","Krypto","Gold","Makro","Märkte","Safe-Haven","Risiko-Asset"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvYmM4NDM3ZjEtYWVmOC00NjAwLWFjNDQtMTM0MmYzNTdiODhlLmpwZw==.jpg"
 image_url_small: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvYmM4NDM3ZjEtYWVmOC00NjAwLWFjNDQtMTM0MmYzNTdiODhlLmpwZw==.jpg"
+categories: ["crypto"]
 ---
 
 Gold klettert auf ein neues Rekordhoch, gestützt durch Nachfrage nach sicheren Häfen. Gleichzeitig sendet Bitcoin widersprüchliche Signale: mal korreliert er mit Gold in Stressphasen, mal benimmt er sich wie ein wachstumsorientiertes Tech-Asset, wenn Liquidität reichlich vorhanden ist.

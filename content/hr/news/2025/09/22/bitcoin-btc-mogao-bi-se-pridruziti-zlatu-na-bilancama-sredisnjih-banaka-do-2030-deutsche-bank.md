@@ -16,6 +16,7 @@ image_alt: "Deutsche Bank — BTC i zlato (naslovnica)"
 image_credit: "Metaadvisor (simbolična slika)"
 tags: ["Bitcoin","zlato","središnje-banke","rezerve","Deutsche-Bank","USD","DXY","volatilnost","ETF","rezervna-imovina","makro","geopolitika","diversifikacija-rezervi","regulacija","adopcija"]
 summary: "Deutsche Bank procjenjuje da bi se Bitcoin do 2030. mogao naći uz zlato kao priznata rezervna imovina na bilancama središnjih banaka. Zlato zadržava primat, dolar ostaje dominantan — ali trend diversifikacije se vidi."
+categories: ["crypto"]
 ---
 
 **Ukratko:**  

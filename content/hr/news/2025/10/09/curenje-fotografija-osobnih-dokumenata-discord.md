@@ -16,6 +16,7 @@ image_alt: "Discord ID photos breach"
 image_credit: "Metaadvisor.eu (slika simbolična)"
 tags: ["discord","hakiranje","curenje-podataka","id-fotografije","cybersecurity","privatnost","sigurnost","dobavljač","krađa-identiteta"]
 summary: "Prema izvještaju, hakiran je vanjski dobavljač Discorda i moguće je da je procurilo do 70.000 fotografija osobnih dokumenata korisnika."
+categories: ["news"]
 ---
 
 Oko **70.000 korisnika Discorda** moglo bi biti pogođeno curenjem podataka nakon što je hakiran vanjski partner zadužen za **provjere dobi**.  

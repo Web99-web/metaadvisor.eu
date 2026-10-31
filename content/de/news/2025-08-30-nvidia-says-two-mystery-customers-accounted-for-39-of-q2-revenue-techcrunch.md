@@ -9,6 +9,7 @@ summary: "Fast 40 % des Nvidia-Umsatzes im zweiten Quartal stammten von nur zwei
 tags: ["nvidia", "ai", "business"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/nvidia-chip-data-center.jpg?w=1200"
 image: "https://techcrunch.com/wp-content/uploads/2025/08/nvidia-chip-data-center.jpg?w=1200"
+categories: ["news"]
 ---
 
 Fast 40 % des Nvidia-Umsatzes im zweiten Quartal stammten von nur zwei Kunden, wie aus einer SEC-Meldung hervorgeht.  

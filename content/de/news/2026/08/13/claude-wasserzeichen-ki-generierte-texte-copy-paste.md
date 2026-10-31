@@ -6,15 +6,16 @@ category: "ai"
 translationKey: "claude-watermark-ai-generated-text-copy-paste-2026-08-13"
 source: "Anthropic, European Commission"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/Claude-watermark-ai-text.png"
-featured_image: "/images/AI-general/Claude-watermark-ai-text.png"
-image: "/images/AI-general/Claude-watermark-ai-text.png"
-thumbnail: "/images/AI-general/Claude-watermark-ai-text.png"
+image_url: "/images/AI-general/Claude-watermark-ai-text.webp"
+featured_image: "/images/AI-general/Claude-watermark-ai-text.webp"
+image: "/images/AI-general/Claude-watermark-ai-text.webp"
+thumbnail: "/images/AI-general/Claude-watermark-ai-text.webp"
 image_alt: "Claude wird KI-generierte Texte mit einem maschinenlesbaren Wasserzeichen versehen, das Copy-Paste überstehen kann"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Claude", "Anthropic", "KI", "KI-Wasserzeichen", "KI-generierter Text", "EU AI Act", "künstliche Intelligenz", "KI-Transparenz", "generative KI", "KI-Inhalte"]
 description: "Anthropic plant, in von Claude generierte KI-Texte eine maschinenlesbare Markierung einzubetten, die auch nach Copy-Paste erhalten bleiben kann. Die neue Praxis steht im Zusammenhang mit den Transparenzregeln des EU AI Act."
 summary: "Von Claude generierter KI-Text soll eine nicht wahrnehmbare maschinenlesbare Markierung erhalten. Einfaches Copy-Paste entfernt sie nicht zwangsläufig, stärkere Bearbeitungen und Änderungen können das Signal jedoch abschwächen. Die Änderung wirft eine wichtige Frage auf: Was passiert, wenn KI nicht Autor, sondern nur Mitarbeiter oder redaktionelles Werkzeug ist?"
+categories: ["ai"]
 ---
 
 *Das Bild dient nur zur Illustration.*

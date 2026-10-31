@@ -16,6 +16,7 @@ image_alt: "Michael Saylor — strategija dugoročnog ulaganja u Bitcoin"
 image_credit: "Metaadvisor.eu — simbolična fotografija"
 tags: ["crypto", "bitcoin", "Michael Saylor", "MicroStrategy", "treasury", "DCA", "volatilnost", "ETF", "dugorocno", "rizik", "konvertibilne-obveznice", "bilanca", "price-discovery"]
 summary: "Michael Saylor objašnjava zašto njegova strategija i dalje kupuje BTC: dugoročna zaštita bilance, disciplinirani DCA, financiranje kroz tržišta kapitala i uvjerenje da Bitcoin nadmašuje inflaciju kroz cikluse."
+categories: ["crypto"]
 ---
 
 **Zašto stalno kupovati BTC?**  

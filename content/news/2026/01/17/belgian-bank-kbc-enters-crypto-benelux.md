@@ -7,10 +7,10 @@ translationKey: "kbc_belgian_bank_crypto_benelux_2026"
 source: "MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Banks-move-into-crypto2.png"
-featured_image: "/images/Banks-move-into-crypto2.png"
-image: "/images/Banks-move-into-crypto2.png"
-thumbnail: "/images/Banks-move-into-crypto2.png"
+image_url: "/images/Banks-move-into-crypto2.webp"
+featured_image: "/images/Banks-move-into-crypto2.webp"
+image: "/images/Banks-move-into-crypto2.webp"
+thumbnail: "/images/Banks-move-into-crypto2.webp"
 image_alt: "Symbolic illustration of a Belgian bank entering the crypto market"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - institutional adoption
   - regulation
 summary: "Belgian banking group KBC plans to offer retail clients access to Bitcoin and Ethereum, marking a major step for crypto adoption across the Benelux region."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

@@ -7,14 +7,15 @@ translationKey: "varm-5000-eura-izolacija-kuce-jedan-dan-2026-06-26"
 source: "VARM, EU-Startups, Invest in Berlin, Vestbee, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/VARM-german-startup-house-insulation.png"
-featured_image: "/images/companies/VARM-german-startup-house-insulation.png"
-image: "/images/companies/VARM-german-startup-house-insulation.png"
-thumbnail: "/images/companies/VARM-german-startup-house-insulation.png"
+image_url: "/images/companies/VARM-german-startup-house-insulation.webp"
+featured_image: "/images/companies/VARM-german-startup-house-insulation.webp"
+image: "/images/companies/VARM-german-startup-house-insulation.webp"
+thumbnail: "/images/companies/VARM-german-startup-house-insulation.webp"
 image_alt: "VARM German startup 5000 euro house insulation in one day"
 image_credit: "Metaadvisor.eu"
 tags: ["VARM", "njemački startup", "izolacija kuće", "5000 eura", "energetska obnova", "climate-tech", "AI platforma", "građevina", "energetska učinkovitost", "Njemačka", "BAFA subvencije", "izolacijski materijali", "obiteljske kuće", "startup", "Europa", "Metaadvisor"]
 summary: "Njemački startup VARM prikupio je 17,5 milijuna eura za širenje modela brze izolacije obiteljskih kuća. Tvrtka govori o izolaciji kuće u jednom danu po cijeni od oko 5000 eura, ali iz dostupnih podataka nije potpuno jasno što je točno uključeno u tu cijenu, za koje tipove kuća model vrijedi i gdje završava AI, a počinje klasična građevina."
+categories: ["tech"]
 ---
 
 Slika je simbolična.

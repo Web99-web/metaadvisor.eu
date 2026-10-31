@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today"
 author: "Cointelegraph — analiza i urednička prilagodba Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/TrustWallet-hacked.png"
-featured_image: "/images/TrustWallet-hacked.png"
-image: "/images/TrustWallet-hacked.png"
-thumbnail: "/images/TrustWallet-hacked.png"
+image_url: "/images/TrustWallet-hacked.webp"
+featured_image: "/images/TrustWallet-hacked.webp"
+image: "/images/TrustWallet-hacked.webp"
+thumbnail: "/images/TrustWallet-hacked.webp"
 image_alt: "Trust Wallet hakiran, cyber napad i haker ilustracija"
 image_credit: "Metaadvisor.eu"
 tags:
@@ -26,6 +26,7 @@ tags:
   - bitcoin
   - ethereum
 summary: "Na Božić 25.12.2025. došlo je do sigurnosnog incidenta u Trust Walletu u kojem je ukradeno oko 7 milijuna dolara. Napad je zahvatio isključivo Chrome ekstenziju, dok mobilna aplikacija nije bila pogođena."
+categories: ["crypto"]
 ---
 Na **Božić, 25. prosinca 2025.**, dio korisnika **Trust Walleta** pogođen je ozbiljnim sigurnosnim incidentom u kojem je ukradeno oko **7 milijuna američkih dolara** u kriptovalutama. Iako su se društvene mreže brzo ispunile dramatičnim naslovima, važno je odmah razjasniti jednu ključnu stvar: **nije hakiran blockchain niti cijeli Trust Wallet sustav**, već je kompromitirana **Chrome browser ekstenzija**.
 

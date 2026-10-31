@@ -7,14 +7,15 @@ translationKey: "71aec4043c54effe84e90e4b75914932"
 source: "Metaadvisor (The Guardian, Reuters, AP News, TechRadar)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hacker.png"
-featured_image: "/images/hacker.png"
-image: "/images/hacker.png"
-thumbnail: "/images/hacker.png"
+image_url: "/images/hacker.webp"
+featured_image: "/images/hacker.webp"
+image: "/images/hacker.webp"
+thumbnail: "/images/hacker.webp"
 image_alt: "Hacker und Cyberangriff auf die Canvas-Plattform"
 image_credit: "Metaadvisor.eu"
 tags: ["hacker", "hacking", "shinyhunters", "canvas", "cybersicherheit", "cyberangriff", "schulen", "studenten", "bildung", "datendiebstahl", "datenschutz", "ransomware", "cloud", "saas", "digitale sicherheit", "technologie", "cyberkriminalität", "datenleck", "online sicherheit", "globaler hack"]
 summary: "Die Hackergruppe ShinyHunters ist erneut in einem großen globalen Cybervorfall aufgetaucht. Dieses Mal ist Canvas betroffen – eine Bildungsplattform, die von Millionen Schülern, Studenten und Schulen weltweit genutzt wird."
+categories: ["news"]
 ---
 
 <small><em>Das Bild ist symbolisch.</em></small>

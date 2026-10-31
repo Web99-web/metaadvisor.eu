@@ -7,10 +7,10 @@ translationKey: "nyc_mayor_memecoin_warning_20260115"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/new-york-city-mayor-zohran-mamdani-no-crypto"
 author: "MetaAdvisor.eu"
-image_url: "/images/NYC-token.png"
-featured_image: "/images/NYC-token.png"
-image: "/images/NYC-token.png"
-thumbnail: "/images/NYC-token.png"
+image_url: "/images/NYC-token.webp"
+featured_image: "/images/NYC-token.webp"
+image: "/images/NYC-token.webp"
+thumbnail: "/images/NYC-token.webp"
 image_alt: "Novi gradonačelnik New Yorka distancira se od NYC Token memecoina"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Novi gradonačelnik New Yorka se distancirao od kripta i odbio memecoin svog prethodnika, no slučaj NYC Tokena otvara širu raspravu o političarima, memecoinima i riziku za građane."
@@ -23,6 +23,7 @@ tags:
   - politika
   - regulacija
   - stablecoin
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

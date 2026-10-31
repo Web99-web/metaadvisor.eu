@@ -9,6 +9,7 @@ summary: "U kombinaciji s Firelightom, Flareovim restaking slojem, okvir omoguć
 tags: ["xrp", "crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/D2C7Z4L7D5GHPKZ46JKJYZM4HI.jpg?auto=format&width=1920"
 image: "https://www.coindesk.com/resizer/v2/D2C7Z4L7D5GHPKZ46JKJYZM4HI.jpg?auto=format&width=1920"
+categories: ["news"]
 ---
 
 XRP-ovo sporo probijanje u institucionalne financije upravo je dobilo još jednog podupiratelja.

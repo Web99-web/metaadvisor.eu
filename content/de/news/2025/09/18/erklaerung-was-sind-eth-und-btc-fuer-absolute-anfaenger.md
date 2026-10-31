@@ -15,6 +15,7 @@ image_alt: "Bitcoin und Ethereum — einfach erklärt"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["bitcoin","ethereum","btc","eth","beginner","guide","metaadvisor"]
 summary: "BTC ist wie Gold im Tresor – emittentenfreie Ersparnis. ETH ist wie eine Stadt im Internet – ein Ort, an dem gebaut und bezahlt wird. Ein kurzer, menschlicher Leitfaden ohne Fachjargon."
+categories: ["crypto"]
 ---
 
 Wenn Krypto wie ein Raumschiff klang: Hier kommt die Café-Version. **Bitcoin (BTC)** und **Ethereum (ETH)** sind nicht „das Gleiche“. Sie haben **unterschiedliche Rollen** – zwei Werkzeuge für verschiedene Jobs.

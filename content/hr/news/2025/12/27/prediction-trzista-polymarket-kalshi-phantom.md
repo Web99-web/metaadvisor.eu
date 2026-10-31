@@ -6,10 +6,10 @@ category: "crypto"
 translationKey: "prediction_markets_mainstream_26122025"
 source: "MetaAdvisor analiza — na temelju CoinDesk, Cointelegraph i vlastitih istraživanja"
 author: "MetaAdvisor.eu"
-image_url: "/images/prediction-markets.png"
-featured_image: "/images/prediction-markets.png"
-image: "/images/prediction-markets.png"
-thumbnail: "/images/prediction-markets.png"
+image_url: "/images/prediction-markets.webp"
+featured_image: "/images/prediction-markets.webp"
+image: "/images/prediction-markets.webp"
+thumbnail: "/images/prediction-markets.webp"
 image_alt: "Prediction tržišta — Polymarket, Kalshi i Phantom wallet"
 tags:
   - prediction tržišta
@@ -20,6 +20,7 @@ tags:
   - kripto
   - regulacija
 summary: "Prediction tržišta izlaze iz niše i ulaze u mainstream kripto ekosustav. Polymarket i Kalshi šire se izvan burzi, a dostupnost kroz Phantom wallet približava ova tržišta običnim korisnicima."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0 14px 0;">

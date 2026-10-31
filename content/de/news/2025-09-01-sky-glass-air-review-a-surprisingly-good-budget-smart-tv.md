@@ -9,6 +9,7 @@ summary: "Schlank, leicht und mit einem hellen 4K-Bild – Skys günstiger Ferns
 tags: ["Sky","Smart-TV","Review","4K","Budget","Technologie"]
 image_url: "https://i.guim.co.uk/img/media/18a46bfb71bfa238b79afc2603811fdb8dbd35bb/0_0_5472_3283/master/5472.jpg?width=1200&quality=85&auto=format&fit=max&s=3fa79c9b66f44ff5482c1eec8d61db25"
 image_url_small: "https://i.guim.co.uk/img/media/18a46bfb71bfa238b79afc2603811fdb8dbd35bb/0_0_5472_3283/master/5472.jpg?width=600&quality=85&auto=format&fit=max&s=3fa79c9b66f44ff5482c1eec8d61db25"
+categories: ["ai"]
 ---
 
 Der **Sky Glass Air** ist der neueste Versuch des britischen Unternehmens, einen **preiswerten Smart-TV** für den Massenmarkt anzubieten – und er erfüllt die Erwartungen.  

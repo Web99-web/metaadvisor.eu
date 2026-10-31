@@ -15,6 +15,7 @@ image_alt: "Crypto regulation news, MiCA licensing and exchange transition conce
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "kripto", "kriptomat", "kraken", "mica", "mica licenca", "estonia", "estonija", "crypto regulation", "kripto regulacija", "europska unija", "eu", "casp", "central bank of ireland", "crypto exchange", "kripto burza", "bitcoin", "btc", "digital assets", "regulacija", "compliance", "kripto tržište"]
 summary: "Estonska kripto platforma Kriptomat postupno zatvara poslovanje i korisnicima nudi povlačenje sredstava ili prijelaz na Kraken. Prema službenim objavama, razlog nije hakerski napad ni insolventnost, nego regulatorna neizvjesnost oko MiCA licence."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

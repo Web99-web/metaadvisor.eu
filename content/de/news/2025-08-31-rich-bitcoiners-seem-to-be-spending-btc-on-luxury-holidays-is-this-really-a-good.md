@@ -9,6 +9,7 @@ summary: "Von Jets bis Yachten – wohlhabende Bitcoiner scheinen keine Angst zu
 tags: ["Bitcoin","Krypto","Luxus","Urlaub","Jets","Yachten","Reisen","Zahlungen"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/739d9b7bb173fe3e06e24cf3b0f5827d21b82032-2880x1620.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/739d9b7bb173fe3e06e24cf3b0f5827d21b82032-2880x1620.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 Die jüngste Bitcoin-Rallye erreicht nun auch den Luxusreisemarkt.  

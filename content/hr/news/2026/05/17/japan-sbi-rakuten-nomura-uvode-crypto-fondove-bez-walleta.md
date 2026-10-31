@@ -15,6 +15,7 @@ image_alt: "Japan i veliki financijski igrači uvode crypto investicijske fondov
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "kripto", "bitcoin", "btc", "ethereum", "eth", "japan", "sbi", "rakuten", "nomura", "banke", "fondovi", "crypto fondovi", "blockchain", "digitalna imovina", "retail investitori", "institucionalni investitori", "wallet", "etf", "financije", "azija"]
 summary: "Velike japanske financijske institucije poput SBI-ja, Rakutena i Nomure pripremaju crypto investicijske fondove koji bi običnim investitorima omogućili ulaganje bez walleta i crypto burzi."
+categories: ["crypto"]
 ---
 
 <small><em>Slika je simbolična.</em></small>

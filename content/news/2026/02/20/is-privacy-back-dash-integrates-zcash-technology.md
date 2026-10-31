@@ -7,14 +7,15 @@ translationKey: "dash-zcash-privacy-20260220"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Dash-Zcash.png"
-featured_image: "/images/Dash-Zcash.png"
-image: "/images/Dash-Zcash.png"
-thumbnail: "/images/Dash-Zcash.png"
+image_url: "/images/Dash-Zcash.webp"
+featured_image: "/images/Dash-Zcash.webp"
+image: "/images/Dash-Zcash.webp"
+thumbnail: "/images/Dash-Zcash.webp"
 image_alt: "Dash and Zcash coins with the message Privacy is back"
 image_credit: "Metaadvisor.eu"
 tags: ["dash", "zcash", "privacy", "crypto", "blockchain", "regulation", "defi", "zero knowledge", "privacy coin", "digital assets"]
 summary: "Dash integrates technology inspired by the Zcash privacy pool concept, reigniting the debate around financial privacy in the crypto industry amid growing regulatory pressure."
+categories: ["crypto"]
 ---
 
 _Image is symbolic._

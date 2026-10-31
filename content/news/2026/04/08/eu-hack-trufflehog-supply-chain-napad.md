@@ -7,14 +7,15 @@ translationKey: "8e4c1f2a9b6d4c7ea1f0935bd2c4a8e1"
 author: "Metaadvisor.eu"
 source: "TechCrunch, CERT-EU analysis"
 source_url: "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/"
-image_url: "/images/news/EU-hacked-TruffleHog.png"
-featured_image: "/images/news/EU-hacked-TruffleHog.png"
-image: "/images/news/EU-hacked-TruffleHog.png"
-thumbnail: "/images/news/EU-hacked-TruffleHog.png"
+image_url: "/images/news/EU-hacked-TruffleHog.webp"
+featured_image: "/images/news/EU-hacked-TruffleHog.webp"
+image: "/images/news/EU-hacked-TruffleHog.webp"
+thumbnail: "/images/news/EU-hacked-TruffleHog.webp"
 image_alt: "EU hack and TruffleHog security tool"
 image_credit: "Illustration"
 tags: ["eu","cybersecurity","hack","data breach","trufflehog","aws","cloud","security","supply chain","technology","ai","infrastructure"]
 summary: "The European Commission was compromised through a supply chain attack via a security tool, leading to data theft and raising serious questions about the security of EU digital infrastructure."
+categories: ["tech"]
 ---
 
 *The image is symbolic.*

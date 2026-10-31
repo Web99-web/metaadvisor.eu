@@ -7,14 +7,15 @@ translationKey: "doordash-ai-training-couriers-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (TechCrunch, Bloomberg)"
 source_url: ""
-image_url: "/images/companies/DoorDach-couriers-ai-training.png"
-featured_image: "/images/companies/DoorDach-couriers-ai-training.png"
-image: "/images/companies/DoorDach-couriers-ai-training.png"
-thumbnail: "/images/companies/DoorDach-couriers-ai-training.png"
+image_url: "/images/companies/DoorDach-couriers-ai-training.webp"
+featured_image: "/images/companies/DoorDach-couriers-ai-training.webp"
+image: "/images/companies/DoorDach-couriers-ai-training.webp"
+thumbnail: "/images/companies/DoorDach-couriers-ai-training.webp"
 image_alt: "DoorDash kuriri snimaju zadatke za treniranje umjetne inteligencije"
 image_credit: "MetaAdvisor.eu"
 tags: ["doordash", "ai", "dostava", "umjetna inteligencija", "gig ekonomija", "ai trening", "data", "robotika", "future tech"]
 summary: "DoorDash pokreće Tasks aplikaciju u kojoj kuriri snimaju svakodnevne radnje poput pranja suđa kako bi trenirali AI sustave — otvarajući novo poglavlje 'AI gig ekonomije'."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

@@ -15,6 +15,7 @@ image_alt: "eToro i Zengo akvizicija kripto wallet"
 image_credit: "Metaadvisor.eu"
 tags: ["etoro", "zengo", "crypto", "bitcoin", "self custody", "wallet", "blockchain", "financije", "trgovanje"]
 summary: "eToro preuzima Zengo za oko 70 milijuna dolara i ulazi dublje u self-custody segment, šireći svoju ponudu prema onchain financijskim uslugama."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

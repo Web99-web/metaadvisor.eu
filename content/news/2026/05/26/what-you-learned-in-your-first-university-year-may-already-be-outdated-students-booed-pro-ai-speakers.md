@@ -16,6 +16,7 @@ image_alt: "Symbolic image of artificial intelligence and changes in the labor m
 image_credit: "Metaadvisor.eu"
 tags: ["AI", "artificial intelligence", "students", "graduation", "labor market", "technology", "career", "automation", "education", "United States"]
 summary: "Students in the United States booed pro-AI messages at a graduation ceremony after being told that some of the knowledge learned in their first year may already be outdated. The story shows how quickly knowledge can lose value today, and how strongly young people are already feeling the impact of artificial intelligence on the labor market."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">The image is symbolic.</p>

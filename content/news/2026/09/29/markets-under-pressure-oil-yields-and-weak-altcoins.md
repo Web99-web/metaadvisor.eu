@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "oil", "yields", "ZEC", "TAO", "AAVE", "crypto market", "macroeconomics", "SPR", "inflation"]
 description: "Falling U.S. strategic oil reserves, elevated bond yields and weakness across parts of the altcoin market have brought macro pressure back into focus."
 summary: "U.S. strategic oil reserves have fallen to their lowest level since 1982, while bond yields remain elevated and crypto markets react unevenly. Bitcoin is relatively stable, AAVE remains strong, TAO has weakened after losing $312, and ZEC shows the clearest new deterioration."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

@@ -7,14 +7,15 @@ translationKey: "944f46a4060576a3e5adf3613923a629"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/why-did-bitcoin-price-hit-two-month-lows-near-83k"
 author: "Metaadvisor.eu"
-image_url: "/images/gold-down.png"
-featured_image: "/images/gold-down.png"
-image: "/images/gold-down.png"
-thumbnail: "/images/gold-down.png"
+image_url: "/images/gold-down.webp"
+featured_image: "/images/gold-down.webp"
+image: "/images/gold-down.webp"
+thumbnail: "/images/gold-down.webp"
 image_alt: "Pad cijene zlata na digitalnim tržištima"
 image_credit: "MetaAdvisor.eu"
 tags: ["zlato", "gold", "kripto", "crypto", "tržišta", "volatilnost", "makroekonomija", "investiranje", "sigurna luka", "bitcoin", "financijska tržišta"]
 summary: "Zlato je u samo 30 minuta palo za više od 400 USD, pokazujući da ulaskom na kripto burze gubi staru stabilnost i poprima dinamiku digitalnih tržišta."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

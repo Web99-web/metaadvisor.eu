@@ -7,14 +7,15 @@ translationKey: "ai-human-filtering-decision-26032026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse"
 source_url: ""
-image_url: "/images/AI-judgment.png"
-featured_image: "/images/AI-judgment.png"
-image: "/images/AI-judgment.png"
-thumbnail: "/images/AI-judgment.png"
+image_url: "/images/AI-judgment.webp"
+featured_image: "/images/AI-judgment.webp"
+image: "/images/AI-judgment.webp"
+thumbnail: "/images/AI-judgment.webp"
 image_alt: "KI entscheidet, wer weiterkommt und wer ausscheidet"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "einstellung", "facebook", "ki moderation", "algorithmen", "gefahr"]
 summary: "KI hilft nicht mehr nur bei Entscheidungen — sie entscheidet, wer durchkommt und wer aussortiert wird. Von der Einstellung bis zu Facebook standardisieren Systeme Menschen und eliminieren diejenigen, die nicht ins Muster passen."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

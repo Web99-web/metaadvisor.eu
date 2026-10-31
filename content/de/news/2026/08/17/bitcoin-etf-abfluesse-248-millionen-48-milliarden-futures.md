@@ -6,15 +6,16 @@ category: "crypto"
 translationKey: "bitcoin-etf-outflows-futures-17-08-2026"
 source: "CoinDesk, Farside Investors"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/BTC-ETF-outflows.png"
-featured_image: "/images/daily-charts/BTC-ETF-outflows.png"
-image: "/images/daily-charts/BTC-ETF-outflows.png"
-thumbnail: "/images/daily-charts/BTC-ETF-outflows.png"
+image_url: "/images/daily-charts/BTC-ETF-outflows.webp"
+featured_image: "/images/daily-charts/BTC-ETF-outflows.webp"
+image: "/images/daily-charts/BTC-ETF-outflows.webp"
+thumbnail: "/images/daily-charts/BTC-ETF-outflows.webp"
 image_alt: "Bitcoin-ETF-Abflüsse und 48 Milliarden Dollar offene BTC-Futures-Positionen"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Bitcoin", "BTC", "Bitcoin-ETF", "ETF-Abflüsse", "Bitcoin-Futures", "offene Positionen", "Kryptowährungen", "Federal Reserve", "FOMC"]
 description: "US-Spot-Bitcoin-ETFs verzeichnen fast 248 Millionen Dollar Nettoabflüsse, während BTC bei 63.000 bis 64.000 Dollar bleibt und der Futures Open Interest rund 48 Milliarden Dollar erreicht."
 summary: "Bitcoin-ETFs verzeichneten drei Handelstage in Folge Nettoabflüsse. Gleichzeitig erhöhen sehr niedrige Handelsvolumina und rund 48 Milliarden Dollar offene Futures-Positionen das Potenzial für eine stärkere Bewegung, sobald BTC seine aktuelle Handelsspanne verlässt."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

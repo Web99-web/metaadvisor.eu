@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["DeepSeek", "Artificial Intelligence", "AI", "China", "Tencent", "CATL", "IPO", "STAR Market", "Shanghai Stock Exchange", "CITIC Securities", "Funding", "Investment", "Technology", "AI Models", "Data Centers", "OpenAI", "Financial Markets"]
 description: "DeepSeek privodi kraju financiranje od gotovo 15 milijardi dolara uz potporu Tencenta i CATL-a. IPO u Šangaju tek se priprema."
 summary: "Kineski AI startup DeepSeek približava se završetku privatne investicijske runde od oko 100 milijardi juana, odnosno gotovo 15 milijardi dolara. Među glavnim ulagačima spominju se Tencent i CATL, a kompanija se istodobno priprema za mogući izlazak na šangajsko tržište STAR Market. DeepSeek još nije izlistan na burzi, a konačni uvjeti financiranja nisu potvrđeni."
+categories: ["technology"]
 ---
 
 *Slika je simbolična.*

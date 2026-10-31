@@ -15,6 +15,7 @@ image_alt: "Bitcoin options entering Wall Street finance infrastructure"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "krypto", "bitcoin", "btc", "nasdaq", "sec", "cftc", "bitcoin-optionen", "bitcoin-index-optionen", "qbtc", "phlx", "philadelphia stock exchange", "wall street", "derivate", "optionen", "bitcoin etf", "institutionelle investoren", "finanzmärkte", "hedging", "regulierung", "crypto regulation", "digital assets", "trading", "volatilität", "finanzinfrastruktur"]
 summary: "Die SEC hat Nasdaqs Vorschlag genehmigt, Bitcoin-Index-Optionen unter dem Ticker QBTC an der Philadelphia Stock Exchange zu listen. Obwohl der Handelsstart noch von der CFTC abhängt, zeigt die Entscheidung, dass Bitcoin immer tiefer in die regulierte Infrastruktur der Wall Street vordringt."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

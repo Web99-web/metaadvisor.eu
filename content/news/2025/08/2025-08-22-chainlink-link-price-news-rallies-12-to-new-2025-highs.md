@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/chainlink-s-link-rallie
 summary: "The oracle network's native token smashed through resistance levels hitting its strongest price since December."
 tags: ["ai"]
 image: "/news/2025-08-22-chainlink-link-price-news-rallies-12-to-new-2025-highs.png"
+categories: ["ai"]
 ---
 
 Oracle network Chainlink's (LINK) native token sharply rebounded with the broader crypto market following Federal Reserve Chair Jerome Powell's dovish remarks in Jackson Hole, Wyoming.

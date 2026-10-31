@@ -7,15 +7,16 @@ translationKey: "hardware-wallet-offline-ipak-ranjiv-2026-08-06"
 source: "Öffentlich zugängliche Dokumentation von Hardware-Wallet-Herstellern und Sicherheitshinweise"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Hardware-wallet-risks.png"
-featured_image: "/images/informative/Hardware-wallet-risks.png"
-image: "/images/informative/Hardware-wallet-risks.png"
-thumbnail: "/images/informative/Hardware-wallet-risks.png"
+image_url: "/images/informative/Hardware-wallet-risks.webp"
+featured_image: "/images/informative/Hardware-wallet-risks.webp"
+image: "/images/informative/Hardware-wallet-risks.webp"
+thumbnail: "/images/informative/Hardware-wallet-risks.webp"
 image_alt: "Ein Hardware-Wallet kann offline bleiben und dennoch durch einen schwachen Seed, anfällige Firmware oder menschliche Fehler gefährdet sein"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Hardware-Wallet", "Krypto-Sicherheit", "Offline-Wallet", "Air-Gapped-Wallet", "Seed-Phrase", "privater Schlüssel", "Firmware", "Self-Custody", "Passphrase", "PIN", "Multisig", "Phishing", "Krypto-Wallet", "Sicherheitskopie", "Risikomanagement"]
 description: "Ein Hardware-Wallet kann das Risiko eines Fernangriffs deutlich reduzieren. Offline- und Air-Gapped-Betrieb schützen jedoch nicht vor schwachen Seeds, anfälliger Firmware und menschlichen Fehlern."
 summary: "Ein privater Schlüssel kann vollständig offline bleiben, während die Mittel dennoch gefährdet sind. Die Sicherheit eines Hardware-Wallets hängt von der Seed-Erzeugung, der Firmware, der Transaktionsprüfung, dem Schutz der Sicherheitskopie und dem Verhalten des Nutzers ab."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

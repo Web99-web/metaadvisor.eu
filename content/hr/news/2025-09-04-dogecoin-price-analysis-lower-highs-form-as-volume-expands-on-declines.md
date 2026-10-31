@@ -7,7 +7,8 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/04/dogecoin-price-analysis-lower-highs-form-as-volume-expands-on-declines"
 summary: "Dogecoin brani podršku na 0,214 USD dok špekulacije o ETF-u pojačavaju trgovinsku aktivnost."
 tags: ["DOGE", "Dogecoin", "kripto", "altcoini", "ETF"]
-image_url: "/images/dogecoin-doge.png"
+image_url: "/images/dogecoin-doge.webp"
+categories: ["crypto"]
 ---
 
 Dogecoin (DOGE) ponovno testira ključnu podršku oko **0,214 USD** nakon tjedna obilježenog volatilnošću.  

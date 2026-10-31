@@ -15,6 +15,7 @@ image_alt: "Bitcoin über 81.000 Dollar"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "inflation", "ki", "fed", "coinshares", "arthur hayes", "bull market", "trading"]
 summary: "Bitcoin ist wieder über 81.000 Dollar gestiegen, während der Markt Inflation, den KI-Wettlauf und mögliches neues Gelddrucken beobachtet."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Das Bild ist symbolisch.</em></p>

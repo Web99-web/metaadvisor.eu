@@ -7,14 +7,15 @@ translationKey: "sbi-japan-blockchain-bond-xrp-2026"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/"
 author: "Metaadvisor.eu"
-image_url: "/images/Japan-bank-xrp.png"
-featured_image: "/images/Japan-bank-xrp.png"
-image: "/images/Japan-bank-xrp.png"
-thumbnail: "/images/Japan-bank-xrp.png"
+image_url: "/images/Japan-bank-xrp.webp"
+featured_image: "/images/Japan-bank-xrp.webp"
+image: "/images/Japan-bank-xrp.webp"
+thumbnail: "/images/Japan-bank-xrp.webp"
 image_alt: "Japanese bank issues blockchain bond with XRP rewards"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["japan", "japanese bank", "SBI", "bond", "blockchain", "XRP", "Ripple", "crypto", "tokenization", "institutions", "finance", "digital assets"]
 summary: "A Japanese financial group has issued a blockchain-based bond offering XRP rewards to investors. The move signals deeper integration between traditional finance and crypto infrastructure."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

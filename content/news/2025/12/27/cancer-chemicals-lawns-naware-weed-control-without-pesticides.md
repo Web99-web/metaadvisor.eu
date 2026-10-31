@@ -8,10 +8,10 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/"
 author: "TechCrunch — editorial analysis by MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Naware-steam-destorys-weeds.png"
-featured_image: "/images/Naware-steam-destorys-weeds.png"
-image: "/images/Naware-steam-destorys-weeds.png"
-thumbnail: "/images/Naware-steam-destorys-weeds.png"
+image_url: "/images/Naware-steam-destorys-weeds.webp"
+featured_image: "/images/Naware-steam-destorys-weeds.webp"
+image: "/images/Naware-steam-destorys-weeds.webp"
+thumbnail: "/images/Naware-steam-destorys-weeds.webp"
 image_alt: "Naware steam-based weed destruction technology without chemicals"
 image_credit: "MetaAdvisor / AI-generated"
 tags: [
@@ -32,6 +32,7 @@ tags: [
   "technology"
 ]
 summary: "US startup Naware is developing steam- and heat-based weed control technology that eliminates the need for pesticides. The idea is rooted in cancer research concerns and growing evidence about the health risks of agricultural chemicals."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

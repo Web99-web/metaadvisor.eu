@@ -7,14 +7,15 @@ translationKey: "9e2d7b3c61f8429db1c7aa6f0f5d8824"
 source: "Metaadvisor (Cointelegraph, What Bitcoin Did)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Strike-Jack-Mallers-Wall-street.png"
-featured_image: "/images/companies/Strike-Jack-Mallers-Wall-street.png"
-image: "/images/companies/Strike-Jack-Mallers-Wall-street.png"
-thumbnail: "/images/companies/Strike-Jack-Mallers-Wall-street.png"
+image_url: "/images/companies/Strike-Jack-Mallers-Wall-street.webp"
+featured_image: "/images/companies/Strike-Jack-Mallers-Wall-street.webp"
+image: "/images/companies/Strike-Jack-Mallers-Wall-street.webp"
+thumbnail: "/images/companies/Strike-Jack-Mallers-Wall-street.webp"
 image_alt: "Strike-CEO Jack Mallers sagt, dass die Wall Street keine Bedrohung für Bitcoin ist"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "jack mallers", "strike", "wall street", "bitcoin etf", "blackrock", "krypto", "bitcoin adoption", "institutioneller bitcoin", "lightning network", "etf", "finanzen", "kryptomarkt", "bitcoin news"]
 summary: "Strike-CEO Jack Mallers glaubt, dass die wachsende Beteiligung der Wall Street an Bitcoin keine Bedrohung darstellt, sondern vielmehr ein Zeichen dafür ist, dass Bitcoin zu einem globalen Finanzwert wird."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Das Bild ist symbolisch.</em></p>

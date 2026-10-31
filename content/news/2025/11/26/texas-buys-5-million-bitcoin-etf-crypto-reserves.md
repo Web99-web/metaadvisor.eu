@@ -16,6 +16,7 @@ image_alt: "Texas buys $5M in Bitcoin ETF"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["texas", "bitcoin", "btc", "crypto", "cryptocurrencies", "etf", "btc etf", "state reserves", "finance", "investment", "economy", "blockchain", "crypto market"]
 summary: "Texas purchased $5 million worth of Bitcoin via a spot BTC ETF, while some sources suggest the state’s total BTC allocation could reach up to $10 million."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

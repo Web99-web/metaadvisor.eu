@@ -7,14 +7,15 @@ translationKey: "eeddbf95978faf9b1c01ffff4ec7d8f3"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/02/13/trump-linked-truth-social-seeks-sec-approval-for-two-crypto-etfs"
 author: "CoinDesk"
-image_url: "/images/Truth-Social-btc-eth-etf.png"
-featured_image: "/images/Truth-Social-btc-eth-etf.png"
-image: "/images/Truth-Social-btc-eth-etf.png"
-thumbnail: "/images/Truth-Social-btc-eth-etf.png"
+image_url: "/images/Truth-Social-btc-eth-etf.webp"
+featured_image: "/images/Truth-Social-btc-eth-etf.webp"
+image: "/images/Truth-Social-btc-eth-etf.webp"
+thumbnail: "/images/Truth-Social-btc-eth-etf.webp"
 image_alt: "Truth Social files for Bitcoin and Ether ETF"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["truth social", "crypto", "bitcoin", "ethereum", "etf", "staking", "sec", "regulation", "cro", "cronos", "blockchain", "digital assets"]
 summary: "A Truth Social-linked asset manager has filed with the SEC for two new crypto ETFs, including one that would generate yield through staking CRO tokens."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

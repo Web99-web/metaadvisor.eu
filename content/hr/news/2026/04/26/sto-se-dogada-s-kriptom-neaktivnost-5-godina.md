@@ -15,6 +15,7 @@ image_alt: "Bitcoin i kripto imovina na burzama"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "bitcoin", "mjenjačnice", "regulacija", "unclaimed property", "blockchain", "financije", "tržište", "sigurnost"]
 summary: "Što se događa s kriptom na mjenjačnicama ako račun ostane neaktivan godinama i kako nove regulative mijenjaju način čuvanja digitalne imovine."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

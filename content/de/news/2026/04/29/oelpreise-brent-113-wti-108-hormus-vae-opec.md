@@ -7,14 +7,15 @@ translationKey: "oil-hormuz-uae-opec-april-2026"
 source: "Metaadvisor (Reuters, WSJ, Marktdaten)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "Steigende Ölpreise Brent und WTI bei Spannungen um die Straße von Hormus und OPEC-Austritt der VAE"
 image_credit: "Metaadvisor.eu"
 tags: ["öl", "brent", "wti", "hormusstraße", "vae", "opec", "geopolitik", "krieg", "energie", "inflation", "fed", "märkte", "weltwirtschaft", "volatilität"]
 summary: "Die Ölpreise steigen mit Brent über 113 und WTI über 108 Dollar, dem höchsten Stand der letzten 7–12 Tage. Die Hormus-Krise und der Austritt der VAE aus der OPEC erhöhen den Druck auf die globalen Märkte."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

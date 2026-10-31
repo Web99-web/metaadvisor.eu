@@ -10,6 +10,7 @@ image_url: "/images/football.jpg"
 image_alt: "Floodlit football pitch viewed from above"
 tags: ["ai","blockchain","football","transfers","stablecoin","ffp"]
 summary: "Schnellere Settlement-Zeiten, geringere Kosten und mehr Transparenz: Blockchain kann Transfers beschleunigen, kleineren Clubs helfen und FFP-Kontrollen vereinfachen."
+categories: ["ai"]
 ---
 
 **Kernidee**  

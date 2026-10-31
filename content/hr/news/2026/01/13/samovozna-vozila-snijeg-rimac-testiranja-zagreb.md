@@ -7,10 +7,10 @@ translationKey: "autonomous_vehicles_snow_rimac_zagreb_2026"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/robotaxi.png"
-featured_image: "/images/robotaxi.png"
-image: "/images/robotaxi.png"
-thumbnail: "/images/robotaxi.png"
+image_url: "/images/robotaxi.webp"
+featured_image: "/images/robotaxi.webp"
+image: "/images/robotaxi.webp"
+thumbnail: "/images/robotaxi.webp"
 image_alt: "Samovozno autonomno vozilo u zimskim uvjetima u europskom gradu"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -27,6 +27,7 @@ tags:
   - promet
   - tehnologija
 summary: "Najava Mate Rimca o testiranju autonomnih robotaksija u Zagrebu u proljeće 2026. otvara važno pitanje: kako se samovozna vozila snalaze u stvarnim europskim zimskim uvjetima, gdje snijeg, sol i crni led nisu iznimka nego pravilo?"
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,15 +7,16 @@ translationKey: "pump-fun-otpustio-zaposlenike-prije-milijunskog-vestinga-tokena
 source: "Sandmark, Cointelegraph, PANews, KuCoin, Finance Yahoo i javne objave bivših zaposlenika"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Pump-fun1.png"
-featured_image: "/images/Pump-fun1.png"
-image: "/images/Pump-fun1.png"
-thumbnail: "/images/Pump-fun1.png"
+image_url: "/images/Pump-fun1.webp"
+featured_image: "/images/Pump-fun1.webp"
+image: "/images/Pump-fun1.webp"
+thumbnail: "/images/Pump-fun1.webp"
 image_alt: "Pump.fun i PUMP tokeni povezani s otkazima zaposlenika prije vestinga"
 image_credit: "Metaadvisor.eu"
 tags: ["Pump.fun", "PUMP token", "Solana", "memecoin", "vesting tokena", "otkazi zaposlenika", "kripto zaposlenici", "dodjela tokena", "otključavanje tokena", "Noah Tweedale", "Sandmark", "kripto industrija", "radnička prava"]
 description: "Pump.fun navodno je otpustio zaposlenike samo nekoliko mjeseci prije nego što su trebali dobiti PUMP tokene vrijedne milijune dolara."
 summary: "Bivši zaposlenici Pump.funa tvrde da su ostali bez vrijednih dodjela PUMP tokena nakon otkaza neposredno prije vestinga, dok najmanje jedna dodjela navodno vrijedi više od milijun dolara."
+categories: ["crypto"]
 ---
 
 # Pump.fun otpustio zaposlenike prije milijunskog vestinga tokena

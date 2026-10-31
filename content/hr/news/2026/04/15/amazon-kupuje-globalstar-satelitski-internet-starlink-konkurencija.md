@@ -7,14 +7,15 @@ translationKey: "e7448e46aef52a93b528dcb3d6e77603"
 source: "The Guardian, Reuters, Bloomberg, CNBC, Financial Times, TechCrunch, The Verge, Ars Technica, Engadget"
 source_url: ""
 author: "metaadvisor analysis"
-image_url: "/images/companies/Amazon-buys-Globalstar.png"
-featured_image: "/images/companies/Amazon-buys-Globalstar.png"
-image: "/images/companies/Amazon-buys-Globalstar.png"
-thumbnail: "/images/companies/Amazon-buys-Globalstar.png"
+image_url: "/images/companies/Amazon-buys-Globalstar.webp"
+featured_image: "/images/companies/Amazon-buys-Globalstar.webp"
+image: "/images/companies/Amazon-buys-Globalstar.webp"
+thumbnail: "/images/companies/Amazon-buys-Globalstar.webp"
 image_alt: "Amazon kupuje Globalstar i ulazi u utrku satelitskog interneta"
 image_credit: "Metaadvisor.eu"
 tags: ["amazon", "globalstar", "starlink", "elon musk", "jeff bezos", "sateliti", "internet", "space", "tehnologija", "ai", "low earth orbit", "leo", "space economy"]
 summary: "Amazon planira kupiti Globalstar za 11,57 milijardi dolara kako bi ubrzao razvoj vlastite satelitske mreže i konkurirao Starlinku koji trenutno dominira globalnim tržištem satelitskog interneta."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

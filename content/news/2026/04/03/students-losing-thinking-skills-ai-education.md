@@ -15,6 +15,7 @@ image_alt: "Students using artificial intelligence in education"
 image_credit: "MetaAdvisor.eu"
 tags: ["artificial intelligence", "ai", "education", "students", "schools", "technology", "critical thinking", "digital society", "social media"]
 summary: "A study in England shows that students are losing basic skills such as writing and critical thinking due to AI tools, while their dependence on digital platforms is increasing."
+categories: ["ai"]
 ---
 
 Image is symbolic.

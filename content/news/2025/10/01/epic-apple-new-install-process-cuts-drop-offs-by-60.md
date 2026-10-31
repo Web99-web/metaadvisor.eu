@@ -8,10 +8,10 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/10/01/epic-games-says-apples-new-install-process-cuts-user-drop-offs-by-60/"
 author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Apple-IOS-18.6.png"
-featured_image: "/images/Apple-IOS-18.6.png"
-image: "/images/Apple-IOS-18.6.png"
-thumbnail: "/images/Apple-IOS-18.6.png"
+image_url: "/images/Apple-IOS-18.6.webp"
+featured_image: "/images/Apple-IOS-18.6.webp"
+image: "/images/Apple-IOS-18.6.webp"
+thumbnail: "/images/Apple-IOS-18.6.webp"
 image_alt: "iOS 18.6 — simplified install screen for alternative marketplaces"
 image_credit: "Photo: Metaadvisor.eu (symbolic)"
 tags:
@@ -34,6 +34,7 @@ tags:
   - App Store
   - iPhone
 summary: "Epic claims Apple’s iOS 18.6 simplified install flow for alternative marketplaces cut drop-offs from ~65% to ~25% — roughly a 60% improvement."
+categories: ["news"]
 ---
 
 **TL;DR:** **Epic Games** says **Apple** streamlined the **install flow** for alternative marketplaces in the EU with **iOS 18.6**, producing **far fewer user drop-offs**. The **Epic Games Store** went from **~65% abandoning** mid-flow to **~25%**, closer to **Windows/macOS** behavior.

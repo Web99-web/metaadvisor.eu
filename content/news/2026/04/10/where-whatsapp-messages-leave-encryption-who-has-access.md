@@ -7,14 +7,15 @@ translationKey: "c9a1f6e7d2b44a8f9e3c5d7b1a2f6c90"
 author: "Metaadvisor.eu"
 source: "Public discussions, legal proceedings, technology analysis"
 source_url: ""
-image_url: "/images/private-messages.png"
-featured_image: "/images/private-messages.png"
-image: "/images/private-messages.png"
-thumbnail: "/images/private-messages.png"
+image_url: "/images/private-messages.webp"
+featured_image: "/images/private-messages.webp"
+image: "/images/private-messages.webp"
+thumbnail: "/images/private-messages.webp"
 image_alt: "Private messages and encrypted communication"
 image_credit: "Illustration"
 tags: ["whatsapp privacy","meta data","message encryption","ai moderation","accenture outsourcing","data protection","digital privacy","cloud backup","cyber security","whatsapp security"]
 summary: "WhatsApp uses encryption, but there are points where messages can leave that system. Where does this happen and who may have access to the data?"
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

@@ -30,6 +30,7 @@ tags:
   - dolphins
   - defi
 summary: "AUM u onchain asset managementu skočio je 118% na 35 mlrd $ u 2025., kaže Keyrock. Objašnjavamo jednostavnim jezikom: što je to, tko su ‘whaleovi’, što su yield vaultovi i zašto tri protokola (Morpho, Pendle, Maple) drže trećinu tržišta."
+categories: ["ai"]
 ---
 
 **Prema izvješću kripto trading firme Keyrock, onchain asset management ima „breakout“ godinu.**  

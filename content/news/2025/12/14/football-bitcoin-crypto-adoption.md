@@ -7,14 +7,15 @@ translationKey: "football_bitcoin_crypto_gateway_14122025"
 source: "CoinDesk — analysis"
 source_url: "https://www.coindesk.com/business/2025/12/12/from-wall-street-to-the-world-cup-how-football-became-crypto-s-biggest-gateway-drug"
 author: "MetaAdvisor.eu"
-image_url: "/images/football-btc-crypto.png"
-featured_image: "/images/football-btc-crypto.png"
-image: "/images/football-btc-crypto.png"
-thumbnail: "/images/football-btc-crypto.png"
+image_url: "/images/football-btc-crypto.webp"
+featured_image: "/images/football-btc-crypto.webp"
+image: "/images/football-btc-crypto.webp"
+thumbnail: "/images/football-btc-crypto.webp"
 image_alt: "Football and Bitcoin — how sport is driving crypto adoption"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","football","crypto","adoption","web3","sport","blockchain","institutional capital"]
 summary: "While ETFs bring capital, football brings people — quietly reshaping how crypto adoption really happens."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

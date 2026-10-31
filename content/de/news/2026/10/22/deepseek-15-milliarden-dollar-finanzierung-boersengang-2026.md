@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["DeepSeek", "Künstliche Intelligenz", "KI", "China", "Tencent", "CATL", "Börsengang", "IPO", "STAR Market", "Börse Shanghai", "CITIC Securities", "Finanzierung", "Investitionen", "Technologie", "KI-Modelle", "Rechenzentren", "OpenAI", "Finanzmärkte"]
 description: "DeepSeek steht kurz vor einer Finanzierung von fast 15 Milliarden Dollar mit Tencent und CATL. Ein Börsengang in Shanghai wird vorbereitet."
 summary: "Das chinesische KI-Startup DeepSeek steht kurz vor dem Abschluss einer privaten Finanzierungsrunde über rund 100 Milliarden Yuan, umgerechnet fast 15 Milliarden US-Dollar. Tencent und CATL gehören Berichten zufolge zu den wichtigsten Investoren. Gleichzeitig bereitet sich das Unternehmen auf einen möglichen Börsengang am STAR Market in Shanghai vor. DeepSeek ist noch nicht börsennotiert, und die endgültigen Finanzierungsbedingungen sind nicht bestätigt."
+categories: ["technology"]
 ---
 
 *Das Bild dient der symbolischen Darstellung.*

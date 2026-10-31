@@ -7,14 +7,15 @@ translationKey: "meta-ai-costs-facebook-moderation-2026-06-05"
 source: "Reuters, MarketWatch, TechCrunch, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta.png"
-featured_image: "/images/Meta/Meta.png"
-image: "/images/Meta/Meta.png"
-thumbnail: "/images/Meta/Meta.png"
+image_url: "/images/Meta/Meta.webp"
+featured_image: "/images/Meta/Meta.webp"
+image: "/images/Meta/Meta.webp"
+thumbnail: "/images/Meta/Meta.webp"
 image_alt: "Meta, Facebook, Instagram and WhatsApp AI infrastructure concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Facebook", "Instagram", "WhatsApp", "Threads", "KI", "künstliche Intelligenz", "KI-Infrastruktur", "KI-Moderation", "KI-Kosten", "Big Tech", "Technologieaktien", "META Aktie", "Meta Platforms", "Mark Zuckerberg", "Werbung", "digitale Werbung", "Nutzerkonten", "gesperrte Profile", "automatisierte Moderation", "KI-Halluzinationen", "Plattformen", "soziale Netzwerke", "Tech Stocks", "Investoren", "Kapitalausgaben", "Rechenzentren", "Nvidia", "Alphabet", "Microsoft", "Amazon", "digitale Reputation", "Metaadvisor"]
 summary: "Die Meta-Aktie ist nach Berichten über eine mögliche große Finanzierung der KI-Infrastruktur deutlich gefallen. Doch die Frage ist nicht nur, wie viel künstliche Intelligenz kosten wird, sondern auch, wie viel Meta verlieren könnte, wenn sich das Unternehmen zu stark auf KI-Moderation und automatisierte Entscheidungen über Nutzer verlässt."
+categories: ["ai"]
 ---
 
 Das Bild ist symbolisch.
@@ -55,7 +56,7 @@ Metaadvisor hat dieses Thema bereits in mehreren Artikeln behandelt, darunter im
 <figure style="max-width:520px; margin:28px auto; text-align:center;">
   <a href="https://metaadvisor.eu/de/news/facebook-langjaehrige-profile-kein-reputationskredit-problem/" style="display:block;">
     <img 
-      src="/images/Meta/Facebook-blocks-long-term-profiles.png" 
+      src="/images/Meta/Facebook-blocks-long-term-profiles.webp" 
       alt="Facebook blocks long-term profiles and AI moderation problem"
       style="width:100%; height:auto; border-radius:14px;"
     >

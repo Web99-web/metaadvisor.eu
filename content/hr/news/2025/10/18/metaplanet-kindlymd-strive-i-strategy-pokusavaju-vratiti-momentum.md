@@ -16,6 +16,7 @@ image_alt: "Pad dionica i Bitcoin — simbolična financijska ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["btctc","bitcoin","trezor","treasury","dionice","kripto","ai","tržišta","volatilnost"]
 summary: "Val tzv. ‘bitcoin trezor’ kompanija (BTCTC) iz 2025. trpi velike padove cijena dionica. Metaplanet, KindlyMD, Strive i Strategy pokušavaju uvjeriti tržište u plan oporavka, dok se cijena Bitcoina ljulja."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

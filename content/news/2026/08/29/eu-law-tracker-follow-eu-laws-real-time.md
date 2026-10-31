@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["European Union", "EU", "EU Law Tracker", "EU legislation", "European laws", "European Parliament", "European Commission", "Council of the EU", "regulation", "digital regulation", "artificial intelligence", "AI", "data protection", "business", "companies", "transparency"]
 description: "The EU Law Tracker brings together legislative procedures from the European Commission, European Parliament and Council of the EU, allowing users to follow proposals through different stages of the law-making process."
 summary: "The EU Law Tracker makes it possible to follow European legislative procedures, documents, negotiations and changes in one place. The tool can be particularly useful for businesses, journalists and anyone who wants to see earlier which new regulations are coming from Brussels."
+categories: ["EU"]
 ---
 
 # EU Law Tracker brings the EU law-making process together in one place

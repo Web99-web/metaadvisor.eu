@@ -7,14 +7,15 @@ translationKey: "facebook-instagram-mass-ban-accounts-2026"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.png"
-featured_image: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.png"
-image: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.png"
-thumbnail: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.png"
+image_url: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.webp"
+featured_image: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.webp"
+image: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.webp"
+thumbnail: "/images/Meta/Facebook-banned-social-media-accounts-worldwide.webp"
 image_alt: "Masovno gašenje Facebook i Instagram računa diljem svijeta"
 image_credit: "Metaadvisor.eu"
 tags: ["facebook", "instagram", "gašenje računa", "ai moderacija", "digitalna prava", "cenzura", "društvene mreže", "tehnologija", "ai", "internet"]
 summary: "Masovno gašenje Facebook i Instagram računa ponovno otvara pitanje AI moderacije, nedostatka ljudske kontrole i gubitka pristupa digitalnim informacijama."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

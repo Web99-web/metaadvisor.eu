@@ -10,6 +10,7 @@ image_url: "/images/etc-btc-manja.jpg"
 image_alt: "SEC and crypto — a shift in enforcement posture"
 tags: ["crypto","policy","sec","enforcement","rulemaking"]
 summary: "Paul Atkins says companies will receive a written heads-up on “technical” violations before the agency brings cases — a break from ‘regulation by enforcement’ and a pivot toward clearer, rule-based oversight."
+categories: ["crypto"]
 ---
 
 **What’s changing — and why it matters**  

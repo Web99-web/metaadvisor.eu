@@ -25,6 +25,7 @@ tags:
   - x402
   - fintech
 summary: "Cloudflare (NET) uvodi stablecoin NET Dollar za agentic web — AI ekonomiju mikrotransakcija i plaćanja između softverskih agenata."
+categories: ["ai"]
 ---
 
 **Kratko:** Cloudflare je najavio **NET Dollar**, stablecoin vezan uz američki dolar, namijenjen **AI-powered „agentic webu“**. Riječ je o ekonomiji u kojoj autonomni softverski agenti — poput digitalnih asistenata — obavljaju zadatke, kupuju usluge ili šalju doznake putem **sigurnih, trenutnih mikrotransakcija**.

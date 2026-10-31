@@ -9,6 +9,7 @@ summary: "Citymall, a grocery-focused e-commerce startup in India’s tier-2 and
 tags: ["ai","commerce","india","funding","groceries"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/09/Founders-L-to-R-Angad-Kikla-Rahul-Gill-Naisheel-Verdhan.jpg?w=1200"
 image_url_small: "https://techcrunch.com/wp-content/uploads/2025/09/Founders-L-to-R-Angad-Kikla-Rahul-Gill-Naisheel-Verdhan.jpg?w=600"
+categories: ["ai"]
 ---
 
 Indian e-commerce startup Citymall, which focuses on budget-focused grocery delivery for tier-2 and tier-3 towns, said today that it has raised $47 million in Series D funding led by Accel, with participation from existing investors including Waterbridge Ventures, Citius, General Catalyst, Elevation Capital, Norwest Venture Partners, and Jungle Ventures.

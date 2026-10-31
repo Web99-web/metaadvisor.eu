@@ -16,6 +16,7 @@ image_alt: "FTX announces creditor repayments on September 30 (symbolic graphic)
 image_credit: "MetaAdvisor (symbolic graphic)"
 tags: ["crypto", "FTX", "bankruptcy", "creditors", "recovery", "distribution"]
 summary: "FTX’s bankruptcy estate will distribute $1.6B to creditors on Sept. 30 — the third major round of repayments since the exchange’s collapse."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

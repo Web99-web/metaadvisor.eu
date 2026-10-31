@@ -16,6 +16,7 @@ image_alt: "Grok AI u školama El Salvadora"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["elon-musk","grok","xai","el-salvador","ai","obrazovanje","bukele","tehnologija","analiza"]
 summary: "El Salvador uvodi AI chatbot Grok u više od 5.000 javnih škola, čime Muskova xAI ulazi u obrazovanje milijun učenika. Partnerstvo izaziva globalne rasprave zbog prijašnjeg kontroverznog ponašanja chatbot modela."
+categories: ["tech"]
 ---
 
 <div class="cta">

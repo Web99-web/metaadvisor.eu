@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/23/aave-leads-top-40-crypt
 summary: "AAVE je u jednom danu skočio 19% i predvodi top 40 kriptovaluta po dnevnom rastu."
 # keep your current image/image_url as is
 tags: ["aave","defi","crypto","aptos","chainlink","powell","fed"]
+categories: ["news"]
 ---
 
 Prema podacima CoinDeska, AAVE je u posljednja 24 sata skočio gotovo 19% na 355 USD, predvodeći 40 najvećih kriptovaluta po dnevnom rastu. Rast se povezuje s nedavnom ekspanzijom na Aptos mrežu i opreznim izjavama predsjednika Federalnih rezervi Jeromea Powella.

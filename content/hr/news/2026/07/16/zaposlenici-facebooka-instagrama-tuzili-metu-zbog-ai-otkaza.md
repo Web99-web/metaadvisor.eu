@@ -7,14 +7,15 @@ translationKey: "meta-ai-otkazi-tuzba-zaposlenici-2026-07-16"
 source: "The Guardian, Associated Press, sudski dokumenti"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
-featured_image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
-image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
-thumbnail: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
+image_url: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
+featured_image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
+image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
+thumbnail: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Facebook", "Instagram", "umjetna inteligencija", "AI otkazi", "zaposlenici", "tužba", "rodiljni dopust", "zdravstveni dopust", "AI moderacija", "radnička prava"]
 description: "Zaposlenici Facebooka i Instagrama tužili su Metu tvrdeći da su AI sustavi pri odabiru za otkaz kažnjavali osobe na rodiljnom, zdravstvenom i drugom zaštićenom dopustu."
 summary: "Skupina od 26 zaposlenika tvrdi da je Meta pri masovnim otpuštanjima, približno 8.000 ljud, koristila AI ocjene i automatizirane pokazatelje koji nisu pravilno uzimali u obzir zakonom zaštićene izostanke."
+categories: ["ai"]
 ---
 
 # Zaposlenici Facebooka i Instagrama tužili Metu zbog AI otkaza
@@ -79,7 +80,7 @@ Automatizirani sustavi mogu ograničiti ili ugasiti profil, ukloniti stranicu, b
 
 <div style="text-align:center; margin:24px 0;">
   <a href="https://metaadvisor.eu/hr/news/ban-drustvene-mreze-eu-ai-moderacija-racuni/" target="_blank" rel="noopener">
-    <img src="/images/Banned-from-social-media.png"
+    <img src="/images/Banned-from-social-media.webp"
          alt="Ban s društvenih mreža u EU: kada AI moderacija izbriše vaš digitalni život"
          loading="lazy"
          style="width:100%; max-width:520px; height:auto; border-radius:10px;">
@@ -98,7 +99,7 @@ Posebno je važno pitanje uzima li algoritam u obzir dugogodišnji rad, rezultat
 
 <div style="text-align:center; margin:24px 0;">
   <a href="https://metaadvisor.eu/hr/news/facebook-dugogodisnji-profili-reputacijski-kredit-problem/" target="_blank" rel="noopener">
-    <img src="/images/Meta/Facebook-blocks-long-term-profiles.png"
+    <img src="/images/Meta/Facebook-blocks-long-term-profiles.webp"
          alt="Zašto na Facebooku profil star 15–20 godina nema reputacijski kredit?"
          loading="lazy"
          style="width:100%; max-width:520px; height:auto; border-radius:10px;">

@@ -16,6 +16,7 @@ image_alt: "Texas kauft 5 Millionen USD in Bitcoin ETF"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["texas", "bitcoin", "btc", "krypto", "kryptowährungen", "etf", "btc etf", "staatliche reserven", "finanzen", "investitionen", "wirtschaft", "blockchain", "kryptomarkt"]
 summary: "Texas hat 5 Millionen USD in einen Bitcoin-ETF investiert, während einige Quellen berichten, dass die gesamte staatliche BTC-Allokation bis zu 10 Millionen USD umfassen könnte."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

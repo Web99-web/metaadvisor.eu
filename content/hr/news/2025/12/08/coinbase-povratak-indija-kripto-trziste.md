@@ -15,6 +15,7 @@ image_alt: "Coinbase povratak u Indiju"
 image_credit: "Cointelegraph"
 tags: ["coinbase","indija","kriptovalute","trgovanje","binance","dex","crypto","analiza"]
 summary: "Coinbase se vraća na indijsko kripto tržište nakon dvije godine pauze — s novom strategijom, fokusom na lokalno usklađivanje i planom za fiat on-ramp u 2026."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -16,6 +16,7 @@ image_alt: "Skyline von Dubai — symbolisches Bild"
 image_credit: "Unsplash (ID: L4-TIH6FdR0) — symbolisches Bild"
 tags: ["UAE", "Dubai", "OECD", "CARF", "Steuern", "Datenaustausch", "AML", "KYC", "Regulierung", "VASP", "Börsen", "Compliance", "Privatsphäre", "Krypto", "Tokenisierung"]
 summary: "Die VAE treten dem OECD-Rahmenwerk CARF bei und verpflichten sich zum automatischen Austausch von Steuerdaten zu Krypto-Assets. Das verschärft Reporting-Pflichten für VASPs und reduziert Spielräume für Steueranonymität."
+categories: ["crypto"]
 ---
 
 **Kurz & knapp:**  

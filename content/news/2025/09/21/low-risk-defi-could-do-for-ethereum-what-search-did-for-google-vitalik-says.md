@@ -16,6 +16,7 @@ image_alt: "Ethereum and DeFi — illustrative image"
 image_credit: "Metaadvisor image_map (symbolic image)"
 tags: ["ethereum", "ETH", "DeFi", "low-risk-DeFi", "Vitalik-Buterin", "stablecoins", "overcollateralized-lending", "gas-fees", "on-chain-economy", "security", "regulation", "UX"]
 summary: "Vitalik Buterin argues that low-risk DeFi — saving, payments and fully over-collateralized lending — could become a steady engine of demand and fees for Ethereum, much like search powered Google’s revenues for years."
+categories: ["crypto"]
 ---
 
 **TL;DR:**  

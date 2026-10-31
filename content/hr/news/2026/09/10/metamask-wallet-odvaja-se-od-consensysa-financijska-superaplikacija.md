@@ -7,15 +7,16 @@ translationKey: "metamask-consensys-split-financial-platform-2026-09-10"
 source: "Consensys, MetaMask, Fortune, CoinDesk, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Metamask-stocks.png"
-featured_image: "/images/Metamask-stocks.png"
-image: "/images/Metamask-stocks.png"
-thumbnail: "/images/Metamask-stocks.png"
+image_url: "/images/Metamask-stocks.webp"
+featured_image: "/images/Metamask-stocks.webp"
+image: "/images/Metamask-stocks.webp"
+thumbnail: "/images/Metamask-stocks.webp"
 image_alt: "MetaMask se odvaja od Consensysa i širi prema tokeniziranim dionicama, plaćanjima, štednji i investiranju"
 image_credit: "Metaadvisor.eu"
 tags: ["MetaMask", "Consensys", "Ethereum", "kripto", "blockchain", "tokenizacija", "tokenizirane dionice", "financije", "fintech", "self-custody", "MetaMask Card", "Money Account", "mUSD", "Linea", "DeFi", "IPO", "RWA"]
 description: "Consensys se dijeli na dvije neovisne kompanije, a MetaMask postaje zaseban consumer business koji se iz crypto walleta širi prema plaćanjima, štednji, investiranju i tradicionalnim financijskim proizvodima."
 summary: "MetaMask postaje samostalna kompanija dok novi Consensys preuzima Ethereum protokole i institucionalnu blockchain infrastrukturu. Podjela pokazuje koliko se nekadašnji crypto wallet približio široj financijskoj platformi."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

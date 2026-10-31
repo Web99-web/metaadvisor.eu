@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "HYPE", "Phantom", "Krypto", "Trading", "Hyperliquid"]
 description: "Phantom berichtet, dass das Trading in dieser Woche gegenüber der Vorwoche um rund 90 Prozent gestiegen ist, während Bitcoin fast 25 Prozent zulegte und auch Ether und HYPE deutlich stiegen."
 summary: "Phantom meldet, dass das Trading in dieser Woche rund 90 Prozent höher lag als in der Vorwoche. Bitcoin näherte sich dabei der Marke von 80.000 US-Dollar, Ether liegt bei rund 2.440 US-Dollar und HYPE bei etwa 79 US-Dollar."
+categories: ["Krypto"]
 ---
 
 *Das Bild ist symbolisch.*

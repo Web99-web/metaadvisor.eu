@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/october-etf-month-16-crypto-etfs-final-sec-deadlines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/ETF-October.png"
-featured_image: "/images/ETF-October.png"
-image: "/images/ETF-October.png"
-thumbnail: "/images/ETF-October.png"
+image_url: "/images/ETF-October.webp"
+featured_image: "/images/ETF-October.webp"
+image: "/images/ETF-October.webp"
+thumbnail: "/images/ETF-October.webp"
 image_alt: "ETF-Schriftzug auf orangem Hintergrund – Oktober als ‘ETF-Monat’"
 image_credit: "Design: Metaadvisor.eu (symbolische Darstellung)"
 tags: ["Krypto","ETF","Spot-ETF","SEC","USA","Solana","XRP","Litecoin","Dogecoin","Cardano","Hedera","Altcoins","Regulierung","Märkte","Investoren"]
 summary: "Die US-SEC fällt im Oktober finale Entscheidungen zu 16 Spot-Krypto-ETFs. Die Deadlines sind über den Monat verteilt; Anträge zielen u. a. auf Solana, XRP, Litecoin und Dogecoin. Der Ausgang kann kurzfristig Sentiment und Kapitalflüsse beeinflussen."
+categories: ["crypto"]
 ---
 
 **Kurz:** Der Oktober könnte zum Wendepunkt für Krypto-ETFs in den USA werden. Die **SEC** muss über **16 Spot-Krypto-ETFs** entscheiden – mit **gestaffelten Fristen** über den ganzen Monat. Im Fokus stehen größere Altcoins wie **Solana (SOL), XRP, Litecoin (LTC), Dogecoin (DOGE)** sowie vereinzelt **Cardano (ADA)** und **Hedera (HBAR)**. Jede Deadline kann für eigenständige Volatilitätsimpulse sorgen.

@@ -16,6 +16,7 @@ image_alt: "Ilustracija upravljanja likvidnošću i cijenom Bitcoina"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["bitcoin", "btc", "liquidity herding", "likvidnost", "order book", "kripto tržišta", "institucionalni investitori", "manipulacija tržišta", "crypto", "financijska tržišta"]
 summary: "Dok su zlato i srebro snažno rasli, Bitcoin je ostao zaglavljen ispod ključnih razina. Analiza order bookova pokazuje da to nije slučajno: strategija poznata kao liquidity herding omogućuje velikim igračima da kontroliraju putanju cijene, bez potrebe za otvorenim rušenjem tržišta."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

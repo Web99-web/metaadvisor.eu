@@ -3,19 +3,20 @@ title: "Digitalni euro ulazi u stvarni svijet: ECB priprema bankomate, kartice i
 slug: "digitalni-euro-ecb-bankomati-kartice-placanja-eu"
 date: 2026-03-23T18:30:00+01:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-03-23"
 author: "Cointelegraph / CoinDesk"
 analysis_by: "Metaadvisor.eu"
 source: "Cointelegraph / CoinDesk"
 source_url: ""
-image_url: "/images/Euro-digital.png"
-featured_image: "/images/Euro-digital.png"
-image: "/images/Euro-digital.png"
-thumbnail: "/images/Euro-digital.png"
+image_url: "/images/Euro-digital.webp"
+featured_image: "/images/Euro-digital.webp"
+image: "/images/Euro-digital.webp"
+thumbnail: "/images/Euro-digital.webp"
 image_alt: "Digitalni euro i ECB plan integracije u bankomate i plaćanja"
 image_credit: "MetaAdvisor.eu"
 tags: ["digitalni euro", "ecb", "cbdc", "placanja", "bankomati", "kartice", "eurozona", "financije", "crypto", "regulacija"]
 summary: "ECB prelazi u fazu implementacije digitalnog eura s fokusom na bankomate, kartična plaćanja i svakodnevnu upotrebu u cijeloj eurozoni."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

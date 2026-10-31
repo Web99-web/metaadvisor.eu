@@ -7,14 +7,15 @@ translationKey: "2ae89e230545ad2b01d87a68c670de5e"
 author: "CoinDesk"
 source: "CoinDesk / Cointelegraph"
 source_url: "https://www.coindesk.com/business/2026/02/16/harvard-cuts-bitcoin-exposure-by-20-adds-new-ether-position"
-image_url: "/images/Harvard-btc-eth-etf.png"
-featured_image: "/images/Harvard-btc-eth-etf.png"
-image: "/images/Harvard-btc-eth-etf.png"
-thumbnail: "/images/Harvard-btc-eth-etf.png"
+image_url: "/images/Harvard-btc-eth-etf.webp"
+featured_image: "/images/Harvard-btc-eth-etf.webp"
+image: "/images/Harvard-btc-eth-etf.webp"
+thumbnail: "/images/Harvard-btc-eth-etf.webp"
 image_alt: "Harvard rebalansira izloženost BlackRock Bitcoin i Ether ETF-ovima"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["harvard", "blackrock", "bitcoin", "btc", "ether", "eth", "ethereum", "etf", "institucionalni kapital", "kripto tržište", "kripto fondovi", "digitalna imovina", "investicije", "wall street", "crypto", "kripto"]
 summary: "Harvardov fond od 56,9 milijardi dolara smanjio je izloženost BlackRock Bitcoin ETF-u za 21% i prvi put ušao u BlackRock Ether ETF. Potez signalizira sofisticiranu rotaciju institucionalnog kapitala unutar kripto tržišta."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

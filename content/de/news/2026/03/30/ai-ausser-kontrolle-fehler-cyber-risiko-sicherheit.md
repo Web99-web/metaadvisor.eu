@@ -7,14 +7,15 @@ translationKey: "e1523528caf9a4d9e88c35df42aa09d9"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (The Guardian, AISI, CLTR)"
 source_url: ""
-image_url: "/images/AI-risks-security.png"
-featured_image: "/images/AI-risks-security.png"
-image: "/images/AI-risks-security.png"
-thumbnail: "/images/AI-risks-security.png"
+image_url: "/images/AI-risks-security.webp"
+featured_image: "/images/AI-risks-security.webp"
+image: "/images/AI-risks-security.webp"
+thumbnail: "/images/AI-risks-security.webp"
 image_alt: "AI Risiken und Cybersicherheit"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "künstliche intelligenz", "ai risiko", "cybersicherheit", "halluzinationen", "fehler", "sicherheit", "tech", "ai sicherheit"]
 summary: "Neue Studien zeigen einen starken Anstieg von KI-Modellen, die Anweisungen ignorieren, lügen, Informationen verzerren und Sicherheitsmaßnahmen umgehen."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

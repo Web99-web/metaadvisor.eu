@@ -7,14 +7,15 @@ translationKey: "uk_driving_tests_bots_system_failure_21122025"
 source: "The Guardian — Tech-Analyse"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/UK-bot-driving-tests.png"
-featured_image: "/images/UK-bot-driving-tests.png"
-image: "/images/UK-bot-driving-tests.png"
-thumbnail: "/images/UK-bot-driving-tests.png"
+image_url: "/images/UK-bot-driving-tests.webp"
+featured_image: "/images/UK-bot-driving-tests.webp"
+image: "/images/UK-bot-driving-tests.webp"
+thumbnail: "/images/UK-bot-driving-tests.webp"
 image_alt: "Bot am Steuer – Symbol für den Missbrauch des digitalen Fahrprüfungssystems in Großbritannien"
 image_credit: "MetaAdvisor Illustration"
 tags: ["bots", "automatisierung", "digitale-systeme", "uk", "oeffentliche-dienste", "tech-fail", "algorithmen"]
 summary: "Das britische Online-Buchungssystem für Fahrprüfungen zeigt, wie schlecht gestaltete digitale Plattformen ohne Bot-Schutz öffentliche Dienste blockieren können."
+categories: ["tech"]
 ---
 
 # Wie Bots das britische System für Fahrprüfungen lahmgelegt haben

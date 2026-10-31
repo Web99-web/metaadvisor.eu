@@ -7,10 +7,10 @@ translationKey: "xrp_zec_algo_2025_focus"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
-image_url: "/images/XRP-Zcash-zec-Algorand-algo.png"
-featured_image: "/images/XRP-Zcash-zec-Algorand-algo.png"
-image: "/images/XRP-Zcash-zec-Algorand-algo.png"
-thumbnail: "/images/XRP-Zcash-zec-Algorand-algo.png"
+image_url: "/images/XRP-Zcash-zec-Algorand-algo.webp"
+featured_image: "/images/XRP-Zcash-zec-Algorand-algo.webp"
+image: "/images/XRP-Zcash-zec-Algorand-algo.webp"
+thumbnail: "/images/XRP-Zcash-zec-Algorand-algo.webp"
 image_alt: "Ripple (XRP), Zcash (ZEC) and Algorand (ALGO) — notable crypto projects of 2025"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -24,6 +24,7 @@ tags:
   - blockchain
   - altcoins
 summary: "In a year defined by selective growth and regulatory pressure, Ripple (XRP), Zcash (ZEC) and Algorand (ALGO) stood out as three of the most interesting crypto projects of 2025 — each for very different reasons."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

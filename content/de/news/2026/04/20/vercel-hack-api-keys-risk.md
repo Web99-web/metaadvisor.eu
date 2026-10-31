@@ -15,6 +15,7 @@ image_alt: "Cybersecurity-Verstoß und API-Schlüssel in Gefahr"
 image_credit: "Pexels"
 tags: ["crypto", "web3", "sicherheit", "vercel", "hack", "api", "blockchain", "entwickler", "datenleck"]
 summary: "Ein Sicherheitsvorfall bei Vercel bringt API-Schlüssel und Web3-Anwendungen in Gefahr und wirft Fragen zur Sicherheit zentraler Infrastruktur auf."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

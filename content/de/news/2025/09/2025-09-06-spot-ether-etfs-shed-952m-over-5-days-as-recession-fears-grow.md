@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/06/spot-ether-etfs-shed-us
 summary: "Trotz der Abflüsse stieg Ether im letzten Monat um mehr als 16 %, teilweise begünstigt durch das GENIUS-Gesetz."
 tags: ["crypto", "ethereum", "eth", "etf", "spot-etf", "makro", "rezession", "fed", "cme", "polymarket", "gold"]
 image_url: "/images/eth-down-manja.jpg"
+categories: ["krypto"]
 ---
 
 Spot-Ether-ETFs verbuchten in dieser Woche den fünften Tag in Folge Abflüsse – insgesamt 952 Mio. USD, davon über 787 Mio. USD allein in der verkürzten Vier-Tage-Woche.

@@ -9,6 +9,7 @@ summary: "Researchers in London unveiled an AI-powered stethoscope that can spot
 tags: ["ai", "healthtech", "medicine"]
 image_url: "https://i.guim.co.uk/img/media/83c7b34a0f6f22b9bb5a9e7e9cda4cfe4f1e7a55/0_0_6000_4000/master/6000.jpg?width=1200&quality=85&auto=format&fit=max&s=22f54d04c3a6e90f2d12d8e2"
 image: "https://i.guim.co.uk/img/media/83c7b34a0f6f22b9bb5a9e7e9cda4cfe4f1e7a55/0_0_6000_4000/master/6000.jpg?width=1200&quality=85&auto=format&fit=max&s=22f54d04c3a6e90f2d12d8e2"
+categories: ["ai"]
 ---
 
 Doctors have created an **AI-driven stethoscope** capable of diagnosing three major heart conditions in just 15 seconds.  

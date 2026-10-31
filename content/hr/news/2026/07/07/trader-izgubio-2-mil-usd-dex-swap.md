@@ -7,15 +7,16 @@ translationKey: "trader-loses-2m-dex-swap-bad-route-2026-07-07"
 source: "Cointelegraph, GoPlus Security, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/MIllions-lost.png"
-featured_image: "/images/news/MIllions-lost.png"
-image: "/images/news/MIllions-lost.png"
-thumbnail: "/images/news/MIllions-lost.png"
+image_url: "/images/news/MIllions-lost.webp"
+featured_image: "/images/news/MIllions-lost.webp"
+image: "/images/news/MIllions-lost.webp"
+thumbnail: "/images/news/MIllions-lost.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["DEX swap", "DeFi rizik", "MEV", "same-block backrun", "Titan Builder", "GoPlus Security", "Uniswap v3", "0x router", "slippage", "price impact", "crypto gubitak"]
 summary: "Trader je izgubio gotovo 2 milijuna dolara nakon što je veliki ETH swap prošao kroz pool s vrlo malom likvidnošću. Slučaj pokazuje zašto su minimum received, slippage, price impact i ruta transakcije ključni prije svakog DEX potpisa."
 disclaimer: "Ovaj članak služi isključivo u informativne svrhe i ne predstavlja financijski, investicijski, pravni ili sigurnosni savjet."
 draft: false
+categories: ["crypto"]
 ---
 
 Slika je simbolična.
@@ -117,7 +118,7 @@ MEV označava dodatnu vrijednost koju validatori, block builderi ili botovi mogu
 U praksi to znači da netko tko vidi veliku ili loše postavljenu transakciju može pokušati izvući profit iz razlike u cijeni, arbitraže ili redoslijeda izvršavanja.
 
 <a href="https://metaadvisor.eu/hr/news/sto-je-mev-trgovanje-defi/" target="_blank" rel="noopener">
-  <img src="/images/MEV-explained.png" alt="Što je MEV trgovanje i zašto je postalo jedan od najvećih problema DeFi-ja" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/MEV-explained.webp" alt="Što je MEV trgovanje i zašto je postalo jedan od najvećih problema DeFi-ja" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/hr/news/sto-je-mev-trgovanje-defi/" target="_blank" rel="noopener">Što je MEV trgovanje i zašto je postalo jedan od najvećih problema DeFi-ja</a>

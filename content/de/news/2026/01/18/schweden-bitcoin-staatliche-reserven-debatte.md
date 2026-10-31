@@ -7,14 +7,15 @@ translationKey: "sweden_bitcoin_reserves_20260118"
 source: ""
 source_url: ""
 author: "MetaAdvisor.eu"
-image_url: "/images/Sweden-BTC.png"
-featured_image: "/images/Sweden-BTC.png"
-image: "/images/Sweden-BTC.png"
-thumbnail: "/images/Sweden-BTC.png"
+image_url: "/images/Sweden-BTC.webp"
+featured_image: "/images/Sweden-BTC.webp"
+image: "/images/Sweden-BTC.webp"
+thumbnail: "/images/Sweden-BTC.webp"
 image_alt: "Schweden und Bitcoin als Symbol der Debatte über staatliche Reserven"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Im schwedischen Parlament wurde eine Debatte über die mögliche Aufnahme von Bitcoin in die staatlichen Reserven geführt. Auch ohne Entscheidung markiert die Diskussion einen Wandel in der Wahrnehmung von Bitcoin durch Staaten."
 tags: ["bitcoin","btc","crypto","krypto","schweden","staatliche-reserven","geldpolitik","institutionen","riksbank"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

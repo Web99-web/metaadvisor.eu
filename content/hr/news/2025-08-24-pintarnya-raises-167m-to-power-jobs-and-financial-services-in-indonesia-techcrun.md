@@ -9,6 +9,7 @@ summary: "Indonezijski startup, sada potpomognut rundom Serije A od 16,7 mil. $,
 tags: ["ai","fintech","indonesia","pintarnya","series-a","square-peg","vertex-ventures","east-ventures","jobs","gig-economy","lending"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/Pintarnya-Founders-Press-Kit.png?w=1024"
 image_alt: "Osnivači Pintarnye"
+categories: ["ai"]
 ---
 
 **Pintarnya**, indonezijska platforma za zapošljavanje koja uz uparivanje poslova nudi i financijske usluge te prilike za stalni i honorarni rad, objavila je da je prikupila **16,7 milijuna dolara** u rundi **Serije A**.

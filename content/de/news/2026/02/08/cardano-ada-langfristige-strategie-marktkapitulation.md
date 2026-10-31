@@ -15,6 +15,7 @@ image_alt: "Cardano ADA Logo"
 image_credit: "Symbolic image / MetaAdvisor"
 tags: ["cardano","ada","krypto","blockchain","proof of stake","layer 1","defi","altcoins","volatilität","langfristige strategie","charles hoskinson"]
 summary: "Cardano (ADA) erlebt gemeinsam mit dem gesamten Kryptomarkt eine starke Korrektur. Trotz erheblicher Kursverluste hält das Projekt an seiner langfristigen Strategie fest, die auf Stabilität, methodische Entwicklung und reale Anwendungsfälle ausgerichtet ist."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

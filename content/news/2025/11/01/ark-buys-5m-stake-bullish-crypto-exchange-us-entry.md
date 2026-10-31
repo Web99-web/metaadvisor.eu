@@ -16,6 +16,7 @@ image_alt: "Bullish — crypto exchange"
 image_credit: "Metaadvisor.eu — image is symbolic."
 tags: ["bullish","ark","ark invest","cathie wood","crypto","exchange","usa","bitcoin","eth","institutional","block.one","eos","coindesk","order book","liquidity","regulation"]
 summary: "Cathie Wood’s ARK Invest acquires a $5M stake in Bullish — a Bermuda-based crypto exchange founded in 2021 by Brendan Blumer (Block.one). After acquiring CoinDesk in 2024, Bullish is now officially entering the U.S. with an institutional focus."
+categories: ["news"]
 ---
 
 **Bullish isn’t a market mood — it’s the name of a crypto exchange.** Founded **in 2021 by Brendan Blumer** (Block.one/EOS) and headquartered in **Bermuda**, Bullish positions itself as a **regulated order-book venue** with deep liquidity for **institutional investors, funds and OTC desks**. After **acquiring CoinDesk (2024)**, the exchange is **officially entering the U.S.** — just as **ARK Invest** takes a **$5M stake**.

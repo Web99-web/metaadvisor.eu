@@ -15,6 +15,7 @@ image_alt: "Bitcoin bewegt sich zwischen 85.000 und 89.000 US-Dollar bei steigen
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin","btc","krypto","crypto","markt","volatilität","inflation","cpi","realized cap","liquidität"]
 summary: "Bitcoin pendelt zwischen 85.000 und 89.000 US-Dollar, während weiterhin neues Kapital in den Markt fließt und kurzfristige Volatilität durch makroökonomische Impulse hoch bleibt."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

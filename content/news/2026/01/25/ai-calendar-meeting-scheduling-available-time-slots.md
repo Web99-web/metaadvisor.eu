@@ -14,6 +14,7 @@ thumbnail: "/images/AI-calendar.png"
 image_alt: "AI calendar automatically negotiates available meeting time slots"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags: ["ai", "calendar", "future-of-work", "productivity", "automation"]
+categories: ["ai"]
 ---
 
 # AI Takes Over Meeting Scheduling: An AI Calendar Finds Available Time Slots for You

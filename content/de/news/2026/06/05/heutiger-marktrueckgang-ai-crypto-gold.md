@@ -7,14 +7,15 @@ translationKey: "market-crypto-ai-gold-selloff-2026-06-05"
 source: "Reuters, Cointelegraph, TradingView, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/market-crypto-daily.png"
-featured_image: "/images/market-crypto-daily.png"
-image: "/images/market-crypto-daily.png"
-thumbnail: "/images/market-crypto-daily.png"
+image_url: "/images/market-crypto-daily.webp"
+featured_image: "/images/market-crypto-daily.webp"
+image: "/images/market-crypto-daily.webp"
+thumbnail: "/images/market-crypto-daily.webp"
 image_alt: "Daily market selloff across AI stocks, crypto and gold"
 image_credit: "Metaadvisor.eu"
 tags: ["Märkte", "Aktien", "Krypto", "Bitcoin", "BTC", "Ethereum", "ETH", "Zcash", "ZEC", "NEAR", "HYPE", "Solana", "SOL", "Broadcom", "AVGO", "Nvidia", "NVDA", "Meta", "Alphabet", "Google", "GOOGL", "Gold", "KI", "künstliche Intelligenz", "KI-Aktien", "Chip-Aktien", "Halbleiter", "Federal Reserve", "Zinsen", "Liquidationen", "Arthur Hayes", "OpenAI", "Anthropic", "SpaceX", "KI IPO", "Risk-off", "Metaadvisor"]
 summary: "Der heutige Marktrückgang traf KI- und Chip-Aktien, Krypto und Gold. Broadcom, Nvidia, Meta, Bitcoin, Ethereum, Zcash, NEAR und HYPE gerieten unter Druck, während sich Alphabet deutlich ruhiger bewegte."
+categories: ["ai"]
 ---
 
 Das Bild ist symbolisch.

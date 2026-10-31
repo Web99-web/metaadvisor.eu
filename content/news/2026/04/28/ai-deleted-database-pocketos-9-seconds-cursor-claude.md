@@ -7,14 +7,15 @@ translationKey: "d9f4c2a8e7b14b6fa3e2c91b7d5a8c44"
 source: "Metaadvisor (Business Insider, Tom's Hardware, Gizmodo)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/AI-deleted-database.png"
-featured_image: "/images/news/AI-deleted-database.png"
-image: "/images/news/AI-deleted-database.png"
-thumbnail: "/images/news/AI-deleted-database.png"
+image_url: "/images/news/AI-deleted-database.webp"
+featured_image: "/images/news/AI-deleted-database.webp"
+image: "/images/news/AI-deleted-database.webp"
+thumbnail: "/images/news/AI-deleted-database.webp"
 image_alt: "AI agent deletes database in seconds"
 image_credit: "Metaadvisor.eu"
 tags: ["cursor ai", "claude opus", "ai incident", "database deletion", "pocketos", "ai security", "ai agents", "saas risk", "automation", "cloud infrastructure"]
 summary: "An AI agent using Cursor and Claude deleted a production database and backups of startup PocketOS in just 9 seconds, exposing serious risks of autonomous AI systems."
+categories: ["ai"]
 ---
 
 *Image is symbolic.*

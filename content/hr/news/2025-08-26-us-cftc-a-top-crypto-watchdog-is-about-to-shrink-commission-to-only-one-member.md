@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/26/u-s-cftc-democrat-johnso
 summary: "Odlazak demokratske povjerenice Kristin Johnson znači da će regulator kripta pasti na samo jednog člana, vršiteljicu dužnosti Caroline Pham, dok Trumpov kandidat čeka potvrdu u Senatu."
 tags: ["crypto","CFTC","BTC","Gemini","Trump"]
 image_url: "https://www.coindesk.com/resizer/eUBnYcftcCrypto.png"
+categories: ["crypto"]
 ---
 
 Američka Komisija za trgovinu robnim fjučersima (CFTC) uskoro će pasti na samo jednog povjerenika kada sljedeći tjedan agenciju napusti demokratska povjerenica Kristin Johnson, a jedina osoba koja čeka potvrdu za pridruživanje regulatoru je Trumpov kandidat za predsjedavajućeg, Brian Quintenz.

@@ -15,6 +15,7 @@ image_alt: "Spot Bitcoin ETF priljevi kapitala rastu šesti tjedan zaredom"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "bitcoin etf", "spot bitcoin etf", "crypto", "kripto", "institucije", "wall street", "blackrock", "etf", "ulaganja", "fed", "bitcoin cijena", "tržište", "kapital", "kripto tržište"]
 summary: "Spot Bitcoin ETF-ovi u SAD-u zabilježili su šest uzastopnih tjedana neto priljeva kapitala, što je najduži pozitivan niz još od ljeta 2025. godine."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Slika je simbolična.</em></p>

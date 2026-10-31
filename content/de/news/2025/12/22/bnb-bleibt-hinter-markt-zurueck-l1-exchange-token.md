@@ -16,6 +16,7 @@ image_alt: "BNB-Kursentwicklung vor dem Hintergrund regulatorischer Aufmerksamke
 image_credit: "MetaAdvisor Illustration"
 tags: ["bnb", "binance", "kryptomarkt", "altcoins", "regulierung", "krypto-boersen", "l1-token"]
 summary: "BNB hat den Widerstand bei 860 USD überwunden, bleibt jedoch hinter dem Gesamtmarkt zurück – in einem Umfeld, in dem viele L1- und Exchange-Token schwächer abschneiden."
+categories: ["news"]
 ---
 
 # BNB bleibt hinter dem Markt zurück trotz Ausbruch über 860 USD

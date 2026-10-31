@@ -7,14 +7,15 @@ translationKey: "gold_5093_pullback_5100_question_20260125"
 source: "Market data / MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/gold.png"
-featured_image: "/images/gold.png"
-image: "/images/gold.png"
-thumbnail: "/images/gold.png"
+image_url: "/images/gold.webp"
+featured_image: "/images/gold.webp"
+image: "/images/gold.webp"
+thumbnail: "/images/gold.webp"
 image_alt: "Gold bar with market chart during a period of high volatility"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Gold briefly touched the 5,093 level before pulling back toward 5,065. Markets are now watching closely to see whether a new attempt to break above the psychological 5,100 level will follow."
 tags: ["gold", "markets", "safe haven", "profit taking", "psychological level", "macro"]
+categories: ["markets"]
 ---
 
 *The image is symbolic.*

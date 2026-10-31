@@ -3,7 +3,7 @@ title: "Kako tisuće „preplavljenih, nedovoljno plaćenih“ treniraju Googleo
 slug: "kako-tisuce-preplavljenih-nedovoljno-placenih-treniraju-googleov-ai-da-izgleda-pametno-c874c3"
 date: 2025-09-11T12:00:06Z
 category: "news"
-translationKey: "51e58ae4eee82990ad2b576b0538e560"
+translationKey: "51e58ae4eee82990ad2b576b0538e560--unpaired-1fe642d6dd34"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans"
 priority: 20
@@ -11,6 +11,7 @@ image_url: "https://i.guim.co.uk/img/media/daa76f62d11eab4ddcbbd045ebf63293a88ba
 tags: ["ai", "artificial-intelligence", "google", "mental-health"]
 our_take: |
   Naše stajalište: Ugovoreni AI ocjenjivači opisuju naporne rokove, lošu plaću i neprozirnost oko rada kako bi chatbots bio inteligentni proljeće 2024. godine, kada je Rachael Sawyer, tehnička spisateljica iz Teksasa, dobila LinkedIn poruku od ... veće slike: Podaci/licenciranje, kvaliteta modela i rizik od politike.Volimo stvarnu distribuciju i obrambeni podaci.
+categories: ["news"]
 ---
 
 Ugovoreni AI ocjenjivači opisuju naporne rokove, lošu plaću i neprozirnost oko posla kako bi chatboti bili inteligentni

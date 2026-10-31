@@ -16,6 +16,7 @@ image_alt: "Bitcoin i Ethereum — simbolična ilustracija tržišnog sažetka"
 image_credit: "Metaadvisor image_map (simbolična slika)"
 tags: ["kripto", "tržište", "Wormhole", "W-token", "tokenomika", "staking", "rezerva", "UK", "FCA", "regulacija", "Consumer-Duty", "SEC", "ETP", "ETF", "Bitwise", "listanje", "altseason", "likvidnost", "dnevni-pregled"]
 summary: "Dnevni kripto-sažetak u jednostavnom jeziku: Wormhole mijenja tokenomiku W tokena; britanski FCA skicira pravila za kripto; Bitwise objašnjava kako bi generički SEC standardi mogli ubrzati listanje kripto ETP/ETF-ova."
+categories: ["crypto"]
 ---
 
 **Kratko (prema dnevnom pregledu Cointelegrapha):**  

@@ -15,6 +15,7 @@ image_alt: "AI adviser spreading disinformation about vaccines"
 image_credit: "Symbolic image."
 tags: ["ai", "disinformation", "vaccines", "Meta", "social media", "technology"]
 summary: "The role of Meta AI advisers is under scrutiny again, following claims that they spread disinformation about vaccines."
+categories: ["ai"]
 ---
 
 **In brief:**  

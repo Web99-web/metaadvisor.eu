@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/06/cardano-s-bearish-retai
 summary: "Pad sentimenta poklopio se s oporavkom od 5%, što sugerira da su trgovci koji su prodavali iz frustracije možda označili lokalno dno."
 tags: ["crypto", "cardano", "ada", "whales", "trading", "sentiment"]
 image_url: "/images/cardano-ada-logo.png"
+categories: ["crypto"]
 ---
 
 **Maloprodajna baza Cardana (ADA)** prešla je u pesimizam nakon tjedana pada cijene, stvarajući uvjete u kojima bi **kitovi** mogli iskoristiti situaciju za akumulaciju.  

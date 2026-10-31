@@ -9,6 +9,7 @@ summary: "XAI ist der Gas-Token für eine Gaming-Blockchain auf Arbitrum Layer 3
 tags: ["XAI","Krypto","Gaming","Arbitrum","Layer3","DeFi","Investieren"]
 image_url: "https://assets.coingecko.com/coins/images/33516/large/xai.jpg"
 image_url_small: "https://assets.coingecko.com/coins/images/33516/small/xai.jpg"
+categories: ["crypto"]
 ---
 
 **Was ist XAI?**  

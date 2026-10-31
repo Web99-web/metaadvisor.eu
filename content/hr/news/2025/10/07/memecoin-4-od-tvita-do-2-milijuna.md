@@ -23,6 +23,7 @@ tags:
   - trading
   - fomo
 summary: "Memecoin $4 (BNB Chain) eksplodirao je nakon spomena na X-u, pretvarajući $3.000 u ~$2 mil. u nekoliko sati. Gdje se trguje, zašto je skočio i koji su rizici."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

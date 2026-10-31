@@ -15,6 +15,7 @@ image_alt: "Krypto-Marktverkauf — symbolische Illustration"
 image_credit: "Bild ist symbolisch."
 tags: ["bitcoin","btc","binance","bailout","liquiditaet","hebel","liquidationen","krypto","maerkte","volatilitaet"]
 summary: "Scharfer Rückgang am Markt: Der ‘Sound money’-Narrativ prallt auf Liquiditäts- und Hebel-Realität, während Binance ein Hilfspaket zur Stabilisierung ankündigt."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

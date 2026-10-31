@@ -27,6 +27,7 @@ tags:
   - coinbase-institutional
   - liquidity
 summary: "AVAX fell ~8% in 24h to ~$27.72, pushing the weekly decline to ~18%. Despite fresh initiatives and a high-profile advisory lineup, buying momentum has yet to materialize."
+categories: ["ai"]
 ---
 
 **Briefly:** **AVAX** slid about **8%** on Friday to **$27.72**, taking **weekly losses** to roughly **18%**. The weakness is part of a broader market pullback — **ETH, SOL and DOGE** show double-digit weekly drops, while **BTC ~−6%**.

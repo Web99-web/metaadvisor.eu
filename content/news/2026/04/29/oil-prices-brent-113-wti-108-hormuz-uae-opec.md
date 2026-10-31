@@ -7,14 +7,15 @@ translationKey: "oil-hormuz-uae-opec-april-2026"
 source: "Metaadvisor (Reuters, WSJ, market data)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "Oil prices Brent and WTI rising amid Hormuz tensions and UAE exit from OPEC"
 image_credit: "Metaadvisor.eu"
 tags: ["oil", "brent", "wti", "hormuz strait", "uae", "opec", "geopolitics", "war", "energy", "inflation", "fed", "markets", "global economy", "volatility"]
 summary: "Oil prices are rising with Brent above $113 and WTI above $108, the highest in the last 7–12 days. The Hormuz crisis and UAE exit from OPEC are increasing pressure on global markets."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

@@ -14,6 +14,7 @@ image_alt: "Integrating ChatGPT with Binance and Bybit API"
 image_credit: "Metaadvisor.eu"
 tags: ["chatgpt", "api", "binance", "bybit", "ai", "trading", "automation", "crypto"]
 summary: "ChatGPT can connect to exchanges like Binance and Bybit using API keys to analyze markets, send signals, and test strategies — but always with caution and without exposing private data."
+categories: ["ai"]
 ---
 
 Artificial intelligence is increasingly becoming part of trading and market analysis.  

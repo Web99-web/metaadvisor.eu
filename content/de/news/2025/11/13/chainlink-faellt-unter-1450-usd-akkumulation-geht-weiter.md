@@ -14,6 +14,7 @@ image_alt: "Chainlink LINK Kursdiagramm"
 image_credit: "MetaAdvisor.eu"
 tags: ["chainlink", "link", "crypto", "bitcoin", "defi", "akkumulation"]
 summary: "Chainlink (LINK) ist unter 14,5 USD gefallen, doch On-Chain-Daten zeigen, dass das Protokoll weiterhin eigene Token kauft – inzwischen 27 % unter dem durchschnittlichen Kaufpreis."
+categories: ["crypto"]
 ---
 
 💥 **Chainlink gerät unter Verkaufsdruck.**  

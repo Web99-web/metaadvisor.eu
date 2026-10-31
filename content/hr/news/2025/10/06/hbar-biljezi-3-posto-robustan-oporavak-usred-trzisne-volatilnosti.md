@@ -16,6 +16,7 @@ image_alt: "HBAR — ilustracija tokena Hedera mreže"
 image_credit: "Metaadvisor.eu — simbolična slika"
 tags: ["crypto", "HBAR", "Hedera", "hashgraph", "staking", "naknade", "governing-council", "enterprise-adoption", "energetska-ucinkovitost", "visoka-brzina", "volatilnost", "likvidnost", "alternative-assets"]
 summary: "HBAR je u 24 sata porastao oko 3% i zadržao se iznad 0,23 $. Donosimo kratki pregled kretanja te objašnjavamo što je HBAR i zašto je Hedera zanimljiva enterprise svijetu."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

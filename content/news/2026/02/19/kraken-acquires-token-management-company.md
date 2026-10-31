@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/kraken.png"
-featured_image: "/images/kraken.png"
-image: "/images/kraken.png"
-thumbnail: "/images/kraken.png"
+image_url: "/images/kraken.webp"
+featured_image: "/images/kraken.webp"
+image: "/images/kraken.webp"
+thumbnail: "/images/kraken.webp"
 image_alt: "Kraken expands operations through token management acquisition"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["kraken", "crypto exchange", "token management", "institutional investors", "bitcoin", "ethereum", "cryptocurrency", "regulation", "blockchain", "acquisition"]
 summary: "Kraken’s parent company acquires a token management firm, strengthening its institutional infrastructure and signaling further consolidation in the crypto industry."
+categories: ["crypto"]
 ---
 
 <p style="font-size:12px; opacity:0.7; margin-top:-10px;">Image is symbolic.</p>

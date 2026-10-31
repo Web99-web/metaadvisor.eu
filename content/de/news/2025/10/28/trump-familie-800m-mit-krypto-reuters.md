@@ -8,14 +8,15 @@ source: "Reuters"
 source_url: "https://www.reuters.com/investigations/inside-trump-familys-global-crypto-cash-machine-2025-10-28/"
 author: "Reuters"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Trump-family-800m-from-crypto.png"
-featured_image: "/images/Trump-family-800m-from-crypto.png"
-image: "/images/Trump-family-800m-from-crypto.png"
-thumbnail: "/images/Trump-family-800m-from-crypto.png"
+image_url: "/images/Trump-family-800m-from-crypto.webp"
+featured_image: "/images/Trump-family-800m-from-crypto.webp"
+image: "/images/Trump-family-800m-from-crypto.webp"
+thumbnail: "/images/Trump-family-800m-from-crypto.webp"
 image_alt: "US-Flagge und Schriftzug: Trump Family — $800M from Crypto"
 image_credit: "Illustration — Metaadvisor.eu (symbolisches Bild)"
 tags: ["Trump","Politik","Krypto","NFT","Spenden","Memecoin","Kampagne","Custody","OTC","Bitcoin","Ethereum","Regulierung","Reuters"]
 summary: "Reuters berichtet, dass die Trump-Familie im ersten Halbjahr 2025 rund $800M an Krypto-Einnahmen generierte — über NFT-Kampagnen, Kryptospenden, Partnerschaften und Handel über institutionelle Verwahrer."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

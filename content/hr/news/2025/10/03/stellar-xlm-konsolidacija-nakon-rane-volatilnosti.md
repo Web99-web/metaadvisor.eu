@@ -24,6 +24,7 @@ tags:
   - volatilnost
   - altcoin
 summary: "Stellarov XLM token 3. listopada je snažno oscilirao, a nakon kratkog rasta na 0,4041 USD povukao se prema 0,4015 USD. Integracija u Bitcoin.com Wallet širi njegov doseg, ali pritisci prodaje ostaju."
+categories: ["news"]
 ---
 
 **XLM (Stellar)** zabilježio je 3. listopada snažnu volatilnost. Token se popeo na **0,4041 USD**, ali je već oko 14:00 UTC uslijedila prodaja koja ga je spustila na **0,4015 USD**, poništivši ranije dobitke.  

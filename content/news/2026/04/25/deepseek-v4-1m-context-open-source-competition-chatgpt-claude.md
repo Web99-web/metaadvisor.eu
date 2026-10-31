@@ -15,6 +15,7 @@ image_alt: "DeepSeek V4 AI model competing with ChatGPT and Claude"
 image_credit: "Metaadvisor / illustration"
 tags: ["ai","deepseek","artificial intelligence","chatgpt","claude","open source","technology","ai models"]
 summary: "DeepSeek V4 introduces 1M context and an open approach that could challenge models like ChatGPT and Claude. But what does that mean for users and developers?"
+categories: ["ai"]
 ---
 
 *Image is symbolic.*

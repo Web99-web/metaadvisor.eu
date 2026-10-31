@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/12/12/barclays-sees-down-year-for-crypto-in-2026-without-big-catalysts"
 author: "CoinDesk — Analyse MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Barclays-down-2026.png"
-featured_image: "/images/Barclays-down-2026.png"
-image: "/images/Barclays-down-2026.png"
-thumbnail: "/images/Barclays-down-2026.png"
+image_url: "/images/Barclays-down-2026.webp"
+featured_image: "/images/Barclays-down-2026.webp"
+image: "/images/Barclays-down-2026.webp"
+thumbnail: "/images/Barclays-down-2026.webp"
 image_alt: "Barclays-Analyse: 2026 als potenziell schwächeres Jahr für den Kryptomarkt"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["barclays","kryptomarkt","bitcoin","institutionelle investoren","liquidität","marktpsychologie","analyse","2026"]
 summary: "Barclays sieht für das Jahr 2026 ein potenziell schwächeres Umfeld für den Kryptomarkt, sofern keine neuen starken Katalysatoren auftreten. MetaAdvisor analysiert zudem das veränderte Verhalten privater Anleger seit Oktober 2025."
+categories: ["crypto"]
 ---
 
 # Barclays warnt: 2026 könnte ein schwächeres Jahr für Krypto werden

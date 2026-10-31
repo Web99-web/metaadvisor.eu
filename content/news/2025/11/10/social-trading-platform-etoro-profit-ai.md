@@ -15,6 +15,7 @@ image_alt: "eToro logo with slogan 'Your social investment network'"
 image_credit: "Metaadvisor.eu"
 tags: ["etoro", "ai", "investing", "crypto", "finance", "business", "social trading"]
 summary: "eToro reports a 48% profit increase and announces a $150 million stock buyback plan. The platform blends social trading, AI and crypto investments — the next wave of fintech innovation."
+categories: ["business"]
 ---
 
 **Social trading and investment platform eToro** (Nasdaq: ETOR) reported a **48% profit increase** and announced a **$150 million stock buyback program**, pushing its share price up nearly 7% on the Nasdaq.

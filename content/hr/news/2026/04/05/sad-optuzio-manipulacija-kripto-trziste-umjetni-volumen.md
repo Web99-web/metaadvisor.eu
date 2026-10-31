@@ -8,14 +8,15 @@ author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/America-DOJ-Department-of-Justice.png"
-featured_image: "/images/America-DOJ-Department-of-Justice.png"
-image: "/images/America-DOJ-Department-of-Justice.png"
-thumbnail: "/images/America-DOJ-Department-of-Justice.png"
+image_url: "/images/America-DOJ-Department-of-Justice.webp"
+featured_image: "/images/America-DOJ-Department-of-Justice.webp"
+image: "/images/America-DOJ-Department-of-Justice.webp"
+thumbnail: "/images/America-DOJ-Department-of-Justice.webp"
 image_alt: "Department of Justice zgrada SAD"
 image_credit: "Ilustracija"
 tags: ["crypto","kripto","manipulacija","wash trading","doj","sad","regulacija","trgovanje","altcoin","bitcoin"]
 summary: "Američko Ministarstvo pravosuđa optužilo je 10 osoba povezanih s kripto tvrtkama zbog umjetnog stvaranja volumena i manipulacije tržištem, što otvara pitanje koliko su tržišni podaci pouzdani."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

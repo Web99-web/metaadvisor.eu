@@ -3,7 +3,7 @@ title: "Winklevoss Twins fordert einen Bitcoin -Preis von 1 Million US -Dollar, 
 slug: "winklevoss-twins-fordert-einen-bitcoin-preis-von-1-million-us-dollar-waehrend-gemini-oeffentlich-geht-entschluesseln-8585a4"
 date: 2025-09-12T18:58:04Z
 category: "news"
-translationKey: "3138f9d8a34a6d31605e7ae515b16dc3"
+translationKey: "3138f9d8a34a6d31605e7ae515b16dc3--unpaired-868b23ab1348"
 source: "Decrypt"
 source_url: "https://decrypt.co/339281/winklevoss-twins-1-million-bitcoin-price-gemini-goes-public"
 priority: 97
@@ -11,6 +11,11 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "bitcoin", "cryptocurrency", "btc", "meta", "stocks"]
 our_take: |
   Unsere Ansicht: Winklevoss -Zwillinge erfordern einen Bitcoin -Preis von 1 Million US -Dollar, während Gemini die öffentlichen Krypto -Unternehmer Tyler und Cameron Winklevoss - die Gründer des neuen öffentlichen Krypto -Austauschs, Gemini - "Rate/USD) und die Registrierung und Regierung und Regierung) und die Regierung und Regierung) und Regulation.Bleib selektiv;Fügen Sie nur in Namen mit hoher Konvitation hinzu.
+categories: ["news"]
+seo_alias_of: "https://metaadvisor.eu/de/news/winklevoss-zwillinge-1-million-bitcoin-gemini-geht-an-die-boerse/"
+_build:
+  list: never
+  render: always
 ---
 
 Winklevoss Twins fordert einen Bitcoin -Preis von 1 Million US -Dollar, während Gemini öffentlich geht

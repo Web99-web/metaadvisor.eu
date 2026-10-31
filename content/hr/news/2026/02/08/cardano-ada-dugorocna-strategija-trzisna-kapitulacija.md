@@ -15,6 +15,7 @@ image_alt: "Cardano ADA logo"
 image_credit: "Symbolic image / MetaAdvisor"
 tags: ["cardano","ada","kripto","blockchain","proof of stake","layer 1","defi","altcoini","volatilnost","dugorocno ulaganje","charles hoskinson"]
 summary: "Cardano (ADA) prolazi kroz snažnu tržišnu korekciju zajedno s ostatkom kripto tržišta, no temeljna filozofija projekta ostaje usmjerena na dugoročni razvoj, stabilnost protokola i stvarne primjene blockchain tehnologije."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

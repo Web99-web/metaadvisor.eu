@@ -15,6 +15,7 @@ image_alt: "Ethereum-Wal verkauft ETH und erhöht den Druck auf den Ether-Preis"
 image_credit: "MetaAdvisor.eu"
 tags: ["Ethereum", "Ether", "ETH", "Ethereum-Wal", "ETH Whale", "alter Ethereum-Wallet", "ETH-Verkauf", "Ethereum OG", "Lookonchain", "Onchain-Daten", "HODL Waves", "Kryptomarkt", "Altcoins", "Ether-Preis", "ETH-Analyse", "Bitcoin", "BTC", "HYPE", "Kapitalrotation", "Krypto-Sentiment", "Sell in May", "Metaadvisor"]
 summary: "Ein alter Ethereum-Investor hat ETH im Wert von rund 136 Millionen US-Dollar verkauft und damit Sorgen über weiteren Druck auf den Ether-Preis ausgelöst. Die Onchain-Daten zeigen bisher jedoch keinen massenhaften Ausstieg langfristiger Ethereum-Halter, sondern eher Nervosität bei kurzfristigeren Marktteilnehmern."
+categories: ["krypto"]
 ---
 
 <small><em>Das Bild ist symbolisch.</em></small>

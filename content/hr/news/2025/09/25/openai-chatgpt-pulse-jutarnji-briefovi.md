@@ -31,6 +31,7 @@ tags:
   - oracle
   - softbank
 summary: "OpenAI uvodi ChatGPT Pulse — personalizirane jutarnje briefove koji se pripremaju dok spavate. Prvo stiže Pro korisnicima (200 $/mj), a šire uvođenje ovisit će o kapacitetima i pouzdanosti."
+categories: ["ai"]
 ---
 
 **Kratko:** **ChatGPT Pulse** je novi proaktivni modul koji svako jutro isporučuje **5–10 kratkih, personaliziranih briefova** — vijesti, podsjetnike i zadatke — bez da korisnik mora išta pitati. Cilj je da **ChatGPT otvorite prvo ujutro**, umjesto feeda društvenih mreža ili news aplikacije.

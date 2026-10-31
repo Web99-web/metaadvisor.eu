@@ -11,6 +11,7 @@ image_url: "https://i.guim.co.uk/img/media/28d38dbcb3194ad36fcb229a462050b59c4ce
 tags: ["ai", "apple", "iphone"]
 our_take: |
   Unsere Ansicht: Das Unternehmen erweitert auch AirPods -Ohrhörer mit Live -Übersetzung und enthüllt Upgrades für Apple Watch Apple am Dienstag sein neuestes iPhone debütierte und das bisher am schlankste Design des Smartphones übertrifft.Größeres Bild: Daten/Lizenzierung, Modellqualität und Richtlinienrisiko -Ergebnisse.Wir mögen echte Verteilung und verteidigungsfähige Datengräben.
+categories: ["news"]
 ---
 
 Das Unternehmen erweitert auch AirPods -Ohrhörer mit Live -Übersetzung und enthüllt Upgrades auf Apple Watch

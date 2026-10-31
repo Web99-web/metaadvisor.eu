@@ -15,6 +15,7 @@ image_alt: "Cybersecurity breach and API keys at risk"
 image_credit: "Pexels"
 tags: ["crypto", "web3", "security", "vercel", "hack", "api", "blockchain", "developers", "data breach"]
 summary: "A security breach at Vercel raises concerns over exposed API keys and highlights risks in Web3 infrastructure used by crypto projects."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

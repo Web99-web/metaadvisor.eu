@@ -7,14 +7,15 @@ translationKey: "rave-token-pump-crash-investigation-2026"
 source: "Metaadvisor (Cointelegraph, On-Chain-Daten, Branchenquellen)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/RAVE-token-crash.png"
-featured_image: "/images/news/RAVE-token-crash.png"
-image: "/images/news/RAVE-token-crash.png"
-thumbnail: "/images/news/RAVE-token-crash.png"
+image_url: "/images/news/RAVE-token-crash.webp"
+featured_image: "/images/news/RAVE-token-crash.webp"
+image: "/images/news/RAVE-token-crash.webp"
+thumbnail: "/images/news/RAVE-token-crash.webp"
 image_alt: "RAVE Token starker Anstieg und Einbruch während Binance und Bitget Untersuchungen starten"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "rave", "binance", "bitget", "market manipulation", "token", "trading", "defi", "risiko"]
 summary: "Der RAVE-Token fiel innerhalb von 24 Stunden von 28 auf 1,23, während Binance und Bitget verdächtige Marktaktivitäten und mögliche Manipulation untersuchen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

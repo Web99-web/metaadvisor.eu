@@ -14,6 +14,7 @@ thumbnail: "/images/bitcoin-btc.jpg"
 image_alt: "Bitcoin companies buying and selling"
 tags: ["bitcoin", "crypto", "companies", "strategy", "metaplanet", "genius", "market"]
 summary: "While Singapore-based Genius sells Bitcoin, Japan’s Metaplanet aggressively buys, and U.S. Strategy remains dominant — the market shows clearly divided strategies."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

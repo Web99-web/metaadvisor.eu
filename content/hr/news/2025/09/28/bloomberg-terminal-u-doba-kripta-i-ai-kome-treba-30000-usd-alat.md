@@ -32,6 +32,7 @@ tags:
   - analytics
 
 summary: "Bloomberg Terminal je zlatni standard tržišnih podataka i komunikacije u institucijama. U doba kripta i AI alata, postavlja se pitanje: treba li ga svatko? Naš odgovor: za većinu ne — ali za profesionalce u obveznicama/FX/OTC i dalje je ‘must-have’."
+categories: ["finance"]
 ---
 
 > **Napomena:** Slika je simbolična.

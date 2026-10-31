@@ -9,6 +9,7 @@ summary: "Langfristige Bitcoin-Holder haben ihre Verkäufe verstärkt und üben 
 tags: ["Bitcoin","Krypto","Holder","Glassnode","Bärisch","Markt"]
 image_url: "https://www.coindesk.com/resizer/v2/BQ65Y55T4JEXLBGNRHFDS7U7N4.jpg?auth=567b39703f2ad0c0e2b171e6cb30ef6f52fca1ecde17e6e7282d8edb39a22320&width=1200"
 image_url_small: "https://www.coindesk.com/resizer/v2/BQ65Y55T4JEXLBGNRHFDS7U7N4.jpg?auth=567b39703f2ad0c0e2b171e6cb30ef6f52fca1ecde17e6e7282d8edb39a22320&width=600"
+categories: ["crypto"]
 ---
 
 Langfristige Bitcoin-Inhaber haben in den letzten Wochen ihre Verkäufe deutlich verstärkt und so den **bärischen Druck** auf den Markt erhöht.  

@@ -7,14 +7,15 @@ translationKey: "d9dad58ff7f3e81de2db9b5bc32b7e3a"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (Cointelegraph, ASIC, sudski dokumenti)"
 source_url: ""
-image_url: "/images/news/Australia-Binance-69M.png"
-featured_image: "/images/news/Australia-Binance-69M.png"
-image: "/images/news/Australia-Binance-69M.png"
-thumbnail: "/images/news/Australia-Binance-69M.png"
+image_url: "/images/news/Australia-Binance-69M.webp"
+featured_image: "/images/news/Australia-Binance-69M.webp"
+image: "/images/news/Australia-Binance-69M.webp"
+thumbnail: "/images/news/Australia-Binance-69M.webp"
 image_alt: "Australien verhängt Strafe gegen Binance wegen falscher Kundeneinstufung"
 image_credit: "MetaAdvisor.eu"
 tags: ["binance", "bitcoin", "krypto", "regulierung", "strafe", "australien", "derivate", "handel", "crypto", "finanzen"]
 summary: "Ein australisches Gericht verhängte eine Strafe von $6,9 Millionen gegen Binance, nachdem mehr als 85% der Nutzer falsch eingestuft wurden und dadurch Schutz verloren sowie riskanten Derivaten ausgesetzt waren."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

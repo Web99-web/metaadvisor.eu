@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/circle-coinbase-strateg
 summary: "Circle, eToro and Marathon led sharp gains on Friday after Federal Reserve Chair Jerome Powell hinted that a policy shift could come next month."
 tags: ["crypto"]
 image: "/news/2025-08-22-crcl-coin-mstr-among-crypto-stock-rally-as-powell-signals-possible-september-rat.jpg"
+categories: ["crypto"]
 ---
 
 Crypto-linked stocks and digital assets surged on Friday after Federal Reserve Chair Jerome Powell signaled that the central bank could begin cutting interest rates as soon as September.

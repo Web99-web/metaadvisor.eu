@@ -7,14 +7,15 @@ translationKey: "anthropic-mythos-claude-fable-5-ai-control-2026-06-14"
 source: "Anthropic, Reuters, The Verge, Axios, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-featured_image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-thumbnail: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
+image_url: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+featured_image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+thumbnail: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
 image_alt: "Anthropic Mythos and Claude Fable 5 AI illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["Anthropic", "Claude Fable 5", "Claude Mythos 5", "Anthropic Mythos", "artificial intelligence", "AI", "frontier AI", "AI safety", "AI regulation", "export controls", "US government", "national security", "cybersecurity", "jailbreak", "digital sovereignty", "technology dependency", "Big Tech", "global platforms", "AI tools", "Metaadvisor"]
 summary: "Anthropic’s Claude Fable 5 and Claude Mythos 5 were shut down after only a few days following a US government directive linked to national security. The case raises a major question: can the most advanced AI capability really be controlled once it becomes a commercial tool?"
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>The image is symbolic.</em></p>

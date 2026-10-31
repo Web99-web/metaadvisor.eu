@@ -15,6 +15,7 @@ image_alt: "Robinhood-App, SpaceX IPO und Retail-Anleger"
 image_credit: "Metaadvisor.eu"
 tags: ["Robinhood", "SpaceX", "SpaceX IPO", "SPCX", "IPO", "Retail-Anleger", "Kleinanleger", "Börse", "Nasdaq", "Aktienhandel", "Broker-Apps", "Trading-App", "technische Probleme", "Downdetector", "Wall Street", "Investieren", "Finanzmärkte", "Metaadvisor"]
 summary: "Robinhood hatte am Tag des SpaceX IPO wegen rekordhohem Traffic Probleme. Der Vorfall zeigte, wie stark Retail-Anleger Zugang zu großen Markt Ereignissen suchen — und wie wichtig stabile Infrastruktur ist."
+categories: ["news"]
 ---
 
 Das Bild ist symbolisch.

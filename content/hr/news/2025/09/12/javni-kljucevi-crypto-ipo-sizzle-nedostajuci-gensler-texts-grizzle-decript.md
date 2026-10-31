@@ -11,6 +11,7 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "cryptocurrency", "stocks"]
 our_take: |
   Naše stajalište: Javni ključevi: Crypto IPO Sizzle, nestali Gensler Texts Grizzle Public Keys tjedni je Roundup iz Decrypta koji prati ključne javno trgovačke kripto kompanije.Ključne stvari za gledanje: likvidnost, makro (stope/USD) i regulacija.Ostanite selektivni;Dodajte samo u imena visoke presude.
+categories: ["news"]
 ---
 
 Javni ključevi: Crypto IPO Sizzle, nestali Gensler Texts Grizzle

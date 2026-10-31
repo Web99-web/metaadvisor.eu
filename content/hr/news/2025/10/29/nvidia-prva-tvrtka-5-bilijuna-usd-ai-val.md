@@ -7,14 +7,15 @@ translationKey: "a4f6b9e5-0f6a-4c1c-9b0d-9a0f8ef2c3d1"
 source: "Reuters"
 source_url: "https://www.reuters.com/business/nvidia-poised-record-5-trillion-market-valuation-2025-10-29/"
 author: "Metaadvisor.eu"
-image_url: "/images/Nvidia-5t.png"
-featured_image: "/images/Nvidia-5t.png"
-image: "/images/Nvidia-5t.png"
-thumbnail: "/images/Nvidia-5t.png"
+image_url: "/images/Nvidia-5t.webp"
+featured_image: "/images/Nvidia-5t.webp"
+image: "/images/Nvidia-5t.webp"
+thumbnail: "/images/Nvidia-5t.webp"
 image_alt: "NVIDIA — prekretnica od 5 bilijuna USD"
 image_credit: "Ilustracija — Metaadvisor.eu (simbolična slika)"
 tags: ["Nvidia","NVDA","AI","umjetna inteligencija","GPU","Blackwell","GB200 NVL72","data centri","LLM","H100","superračunala","tehnologija","tržišna kapitalizacija","dionice","S&P 500","kripto","RWA","energetska učinkovitost"]
 summary: "Nvidia je 29. listopada 2025. postala prva javna kompanija s tržišnom vrijednošću od 5 bilijuna USD, potaknuta potražnjom za AI infrastrukturom i novom Blackwell generacijom. Objašnjavamo što to znači za tehnologiju, tržišta i kripto publiku."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

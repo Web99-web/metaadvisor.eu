@@ -7,14 +7,15 @@ translationKey: "d9dad58ff7f3e81de2db9b5bc32b7e3a"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (Cointelegraph, ASIC, sudski dokumenti)"
 source_url: ""
-image_url: "/images/news/Australia-Binance-69M.png"
-featured_image: "/images/news/Australia-Binance-69M.png"
-image: "/images/news/Australia-Binance-69M.png"
-thumbnail: "/images/news/Australia-Binance-69M.png"
+image_url: "/images/news/Australia-Binance-69M.webp"
+featured_image: "/images/news/Australia-Binance-69M.webp"
+image: "/images/news/Australia-Binance-69M.webp"
+thumbnail: "/images/news/Australia-Binance-69M.webp"
 image_alt: "Australija kaznila Binance zbog pogrešne klasifikacije korisnika"
 image_credit: "MetaAdvisor.eu"
 tags: ["binance", "bitcoin", "kripto", "regulacija", "kazna", "australija", "derivati", "trgovanje", "crypto", "financije"]
 summary: "Australski sud kaznio je Binance s $6.9 milijuna nakon što je više od 85% korisnika pogrešno klasificirano, čime su izgubili zaštitu i bili izloženi rizičnim derivatima."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

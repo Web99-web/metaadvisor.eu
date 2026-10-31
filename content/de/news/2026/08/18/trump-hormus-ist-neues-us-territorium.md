@@ -6,15 +6,16 @@ category: "News"
 translationKey: "trump-hormuz-us-territory"
 source: "Truth Social, Reuters, CNA, The Times of Israel, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Trump-Hormuz-US-territory.png"
-featured_image: "/images/news/Trump-Hormuz-US-territory.png"
-image: "/images/news/Trump-Hormuz-US-territory.png"
-thumbnail: "/images/news/Trump-Hormuz-US-territory.png"
+image_url: "/images/news/Trump-Hormuz-US-territory.webp"
+featured_image: "/images/news/Trump-Hormuz-US-territory.webp"
+image: "/images/news/Trump-Hormuz-US-territory.webp"
+thumbnail: "/images/news/Trump-Hormuz-US-territory.webp"
 image_alt: "Donald Trump veröffentlicht eine Karte, auf der die Straße von Hormus als New U.S. Territory bezeichnet wird"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Donald Trump", "Straße von Hormus", "Iran", "USA", "Truth Social", "Öl", "Geopolitik"]
 description: "Donald Trump veröffentlichte auf seinem Netzwerk Truth Social eine Karte, auf der die Straße von Hormus als 'New U.S. Territory' bezeichnet wird. Die Veröffentlichung selbst ändert den rechtlichen Status der strategisch wichtigen Meerenge nicht."
 summary: "Donald Trump veröffentlichte auf Truth Social eine Karte, auf der die Straße von Hormus als 'New U.S. Territory' bezeichnet wird – nur wenige Tage nach früheren Äußerungen über ein mögliches US-Territorium."
+categories: ["News"]
 ---
 
 # Trump veröffentlicht Karte: Hormus als "neues US-Territorium"

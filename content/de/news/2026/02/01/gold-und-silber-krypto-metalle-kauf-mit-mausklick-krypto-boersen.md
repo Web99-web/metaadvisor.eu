@@ -8,10 +8,10 @@ source: "MetaAdvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Crypto-metals.png"
-featured_image: "/images/Crypto-metals.png"
-image: "/images/Crypto-metals.png"
-thumbnail: "/images/Crypto-metals.png"
+image_url: "/images/Crypto-metals.webp"
+featured_image: "/images/Crypto-metals.webp"
+image: "/images/Crypto-metals.webp"
+thumbnail: "/images/Crypto-metals.webp"
 image_alt: "Krypto-Metalle – Gold und Silber in einer neuen digitalen Handelsära"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -24,6 +24,7 @@ tags:
   - volatilitaet
   - investieren
 summary: "Gold und Silber sind keine langsamen, geschlossenen Märkte mehr, die Banken und Tresoren vorbehalten sind. Durch den Eintritt in Krypto-Börsen wurden sie zu Krypto-Metallen — für Millionen von Menschen rund um die Uhr handelbar, mit starken Preisbewegungen in beide Richtungen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

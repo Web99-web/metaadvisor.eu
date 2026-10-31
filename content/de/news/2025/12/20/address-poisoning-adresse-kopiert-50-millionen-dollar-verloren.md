@@ -7,10 +7,10 @@ translationKey: "address_poisoning_50m_loss_20122025"
 source: "Cointelegraph, CoinDesk"
 source_url: "cointelegraph.com, coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Lost-50-mil-usd.png"
-featured_image: "/images/Lost-50-mil-usd.png"
-image: "/images/Lost-50-mil-usd.png"
-thumbnail: "/images/Lost-50-mil-usd.png"
+image_url: "/images/Lost-50-mil-usd.webp"
+featured_image: "/images/Lost-50-mil-usd.webp"
+image: "/images/Lost-50-mil-usd.webp"
+thumbnail: "/images/Lost-50-mil-usd.webp"
 image_alt: "Address-Poisoning-Betrug und Verlust von 50 Millionen Dollar nach dem Kopieren einer Krypto-Adresse"
 image_credit: "MetaAdvisor illustration"
 tags:
@@ -26,6 +26,7 @@ tags:
   - tornado cash
   - cyberkriminalität
 summary: "Eine falsch kopierte Krypto-Adresse reichte aus, um fast 50 Millionen USDT zu verlieren. Der Fall zeigt, wie Address-Poisoning-Angriffe menschliche Gewohnheiten ausnutzen – nicht Schwächen der Blockchain."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

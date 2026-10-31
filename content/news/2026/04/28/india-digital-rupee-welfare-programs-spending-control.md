@@ -7,14 +7,15 @@ translationKey: "a3eb58d7bb08f2b581aa667d23922204"
 source: "Metaadvisor (CoinDesk, Reuters)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/India-digital-rupee.png"
-featured_image: "/images/India-digital-rupee.png"
-image: "/images/India-digital-rupee.png"
-thumbnail: "/images/India-digital-rupee.png"
+image_url: "/images/India-digital-rupee.webp"
+featured_image: "/images/India-digital-rupee.webp"
+image: "/images/India-digital-rupee.webp"
+thumbnail: "/images/India-digital-rupee.webp"
 image_alt: "India introduces the digital rupee through welfare programs"
 image_credit: "Metaadvisor.eu"
 tags: ["digital rupee", "cbdc", "india", "crypto", "finance", "regulation", "blockchain", "future of money"]
 summary: "India is using welfare programs to expand adoption of its digital rupee while testing programmable money and potential control over how funds are spent."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

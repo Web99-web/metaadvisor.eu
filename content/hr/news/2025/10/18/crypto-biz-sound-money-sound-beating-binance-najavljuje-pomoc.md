@@ -15,6 +15,7 @@ image_alt: "Pad tržišta kriptovaluta — simbolična ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["bitcoin","btc","binance","bailout","likvidnost","poluga","likvidacije","kripto","crypto","tržišta","volatilnost"]
 summary: "Tržište je doživjelo oštar pad; ‘sound money’ narativ sudario se s realnošću poluge i likvidnosti, dok Binance najavljuje paket pomoći za stabilizaciju."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

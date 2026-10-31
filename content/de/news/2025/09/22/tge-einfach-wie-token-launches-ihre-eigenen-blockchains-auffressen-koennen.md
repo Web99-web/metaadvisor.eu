@@ -15,6 +15,7 @@ image_alt: "Token-Launches und Blockchains — symbolische Illustration"
 image_credit: "Metaadvisor image_map (symbolisches Bild)"
 tags: ["TGE","Token-Generation-Event","Token","Launch","FDV","Free-Float","Vesting","Unlocks","CEX","DEX","LBP","Lockdrop","Retrodrop","Airdrop","Points","Sybil","Tokenomics","Governance","PMF","Utility","DeFi","L1","L2","Retail","VC","Regulierung"]
 summary: "Immer mehr Projekte launchen zuerst den Token (TGE) und liefern das Produkt später. In Alltagssprache: warum das oft die ‘Papierbewertung’ hochtreibt, die Nützlichkeit ausbremst – und wie man solide Launches erkennt."
+categories: ["crypto"]
 ---
 
 **Kurz & knapp:**  

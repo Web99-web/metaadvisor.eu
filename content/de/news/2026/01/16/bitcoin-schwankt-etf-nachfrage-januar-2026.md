@@ -25,6 +25,7 @@ tags:
   - markt
   - volatilität
 summary: "Bitcoin fiel Mitte Januar kurzzeitig unter 100.000 USD, während starke ETF-Zuflüsse auf eine mögliche strukturelle Veränderung der Nachfrage hinweisen."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

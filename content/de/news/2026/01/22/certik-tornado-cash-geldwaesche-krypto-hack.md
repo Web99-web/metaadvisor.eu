@@ -7,14 +7,15 @@ translationKey: "bae2d3f3eb9d25bdcef5afb0d60222e8"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/certik-traces-tornado-cash-funds-jan-10-crypto-hack"
 author: "MetaAdvisor.eu"
-image_url: "/images/hacker.png"
-featured_image: "/images/hacker.png"
-image: "/images/hacker.png"
-thumbnail: "/images/hacker.png"
+image_url: "/images/hacker.webp"
+featured_image: "/images/hacker.webp"
+image: "/images/hacker.webp"
+thumbnail: "/images/hacker.webp"
 image_alt: "Illustration eines Cyberangriffs und der Geldwäsche von Krypto-Vermögenswerten"
 image_credit: "MetaAdvisor.eu / symbolische Illustration"
 summary: "Das Blockchain-Sicherheitsunternehmen CertiK hat mindestens 63 Millionen USD identifiziert, die nach einem Krypto-Hack im Umfang von 282 Millionen USD durch Tornado Cash geflossen sind. Die Analyse zeigt klassische Muster von Geldwäsche, Cross-Chain-Transfers und missbräuchliche Signaturen."
 tags: ["crypto", "krypto", "certik", "hack", "phishing", "tornado cash", "sicherheit", "diebstahl", "signatur", "geldwaesche"]
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -16,6 +16,7 @@ image_alt: "Tornado Cash Krypto-Mixer"
 image_credit: "Tornado Cash / Metaadvisor.eu"
 tags: ["tornado cash", "roman storm", "privacy", "mixer", "ethereum", "zk", "zkp", "lazarus", "crypto regulation", "blockchain", "doj", "usa", "sanktionen"]
 summary: "Das DOJ argumentiert, dass Roman Storm nicht nur Code schrieb, sondern Tornado Cash aktiv betrieb – ein Fall, der die Zukunft der Krypto-Privatsphäre entscheidend prägen wird."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

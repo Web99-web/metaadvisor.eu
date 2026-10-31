@@ -7,14 +7,15 @@ translationKey: "dsa-dma-can-eu-really-stand-up-to-big-tech-2026-06-19"
 source: "European Parliament, European Commission, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/EU-gatekeepers-DMA-DSA.png"
-featured_image: "/images/news/EU-gatekeepers-DMA-DSA.png"
-image: "/images/news/EU-gatekeepers-DMA-DSA.png"
-thumbnail: "/images/news/EU-gatekeepers-DMA-DSA.png"
+image_url: "/images/news/EU-gatekeepers-DMA-DSA.webp"
+featured_image: "/images/news/EU-gatekeepers-DMA-DSA.webp"
+image: "/images/news/EU-gatekeepers-DMA-DSA.webp"
+thumbnail: "/images/news/EU-gatekeepers-DMA-DSA.webp"
 image_alt: "DMA Gatekeeper und EU-Regulierung von Big Tech"
 image_credit: "Metaadvisor.eu"
 tags: ["DSA", "DMA", "Digital Services Act", "Digital Markets Act", "Europäische Union", "EU", "Big Tech", "Meta", "Facebook", "Instagram", "Google", "Alphabet", "Apple", "Amazon", "Microsoft", "ByteDance", "TikTok", "Booking", "KI-Moderation", "Künstliche Intelligenz", "digitale Rechte", "Appeals Centre Europe", "soziale Medien", "kleine Unternehmen", "KMU", "digitale Wirtschaft", "Online-Geschäft", "digitale Infrastruktur", "Plattformen", "Algorithmen", "KI", "Regulierung", "Europäisches Parlament", "Europäische Kommission", "Metaadvisor"]
 summary: "Mit DSA und DMA versucht die Europäische Union, die Macht von Big Tech zu begrenzen und Nutzer zu schützen. Doch wie wirksam ist dieser Schutz wirklich, wenn KI-Moderation Fehler macht und Nutzer Konten, Reichweite und Geschäftsmöglichkeiten verlieren?"
+categories: ["tech"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Symbolbild.</em></p>

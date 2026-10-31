@@ -16,6 +16,7 @@ image_alt: "ChatGPT — Ankündigung der Altersverifikation (Symbolbild)"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["ai","chatgpt","openai","safety","age-verification","privacy","teens","policy","metaadvisor"]
 summary: "Nach einer Klage der Familie eines 16-Jährigen will OpenAI das Alter von Nutzern schätzen und ggf. Ausweise prüfen. Bei Zweifel greift automatisch die <18-Erfahrung."
+categories: ["ai"]
 ---
 
 OpenAI arbeitet an einem **Altersverifikationssystem**, das **unter 18-Jährige** erkennen und bei Bedarf **ID-Prüfungen** vorsehen soll. Besteht **Zweifel**, wird **standardmäßig** die **Jugend-Erfahrung** aktiviert. Der Schritt folgt auf **rechtliche Schritte der Familie** eines 16-Jährigen, der im April verstarb, nachdem er monatelang mit dem Chatbot interagiert hatte.

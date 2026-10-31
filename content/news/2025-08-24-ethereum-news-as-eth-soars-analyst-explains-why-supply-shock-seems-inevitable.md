@@ -9,6 +9,7 @@ summary: "Ether surged past $4,900 to new highs with charts showing bullish mome
 tags: ["crypto","ethereum","eth","price-discovery","tradingview","miles-deutsher","crypto-rover","supply","exchange-reserves"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/ab9ea8c9d8346f05438e6f0a8739ddc6e4639afa-1920x1242.jpg?auto=format"
 image_alt: "Ethereum logo (Zoltan Tasi/Unsplash)"
+categories: ["crypto"]
 ---
 
 Ether (ETH) pushed into uncharted territory Sunday, clearing **$4,900** on Coinbase at **5:40 p.m. UTC** and surpassing its prior record of **$4,867** set on **Nov. 8, 2021**.

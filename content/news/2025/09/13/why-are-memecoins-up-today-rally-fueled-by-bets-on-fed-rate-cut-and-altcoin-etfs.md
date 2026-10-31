@@ -3,7 +3,7 @@ title: "Why Are Memecoins Up Today? Rally Fueled by Bets on Fed Rate Cut and Alt
 slug: "why-are-memecoins-up-today-rally-fueled-by-bets-on-fed-rate-cut-and-altcoin-etfs"
 date: 2025-09-13T16:54:47Z
 category: "news"
-translationKey: "4bdf2c5f918ff7261006104b83650e06"
+translationKey: "4bdf2c5f918ff7261006104b83650e06--unpaired-312ae259a42b"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/13/memecoins-rally-as-traders-bet-on-fed-rate-cut-and-u-s-altcoin-etfs"
 priority: 97
@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["bitcoin", "btc"]
 our_take: |
   Our view: The memecoin sector is heating up as fresh altcoin season talks are starting to grow on social media, partly driven by expectations that the Federal Reserve will this coming week cut interest rates, a boon for risk asset… Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
 ---
 
 The memecoin sector is heating up as fresh altcoin season talks are starting to grow on social media, partly driven by expectations that the Federal Reserve will this coming week cut interest rates, a boon for risk assets.

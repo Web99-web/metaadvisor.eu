@@ -9,6 +9,7 @@ summary: "Dva mjeseca nakon ulaganja od 14,3 mlrd. USD u Scale AI, Meta se sve v
 tags: ["ai"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2134773083.jpg?w=1024"
 image: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2134773083.jpg?w=1024"
+categories: ["ai"]
 ---
 
 Meta je u lipnju investirala 14,3 milijarde USD u Scale AI, dovodeći izvršnog direktora Alexandera Wanga i dio ključnih menadžera da vode Meta Superintelligence Labs (MSL). No partnerstvo već pokazuje znakove napetosti.

@@ -15,6 +15,7 @@ image_alt: "Bitcoin price under pressure with market chart and BTC symbol"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Kryptomarkt", "Bitcoin-Preis", "Bitcoin unter 60000", "Runes-Protokoll", "Bitcoin-Transaktionen", "On-Chain-Aktivität", "Relief Bounce", "TradingView", "Glassnode", "CoinDesk", "Cointelegraph", "KI-Aktien", "Technologieaktien", "Liquidität", "Metaadvisor"]
 summary: "Bitcoin ist unter 60.000 Dollar gefallen und erholte sich anschließend teilweise in Richtung 60.650 Dollar. Während einige Trader auf eine kurze technische Gegenbewegung hoffen, zeigen On-Chain-Daten eine starke Zunahme der Bitcoin-Transaktionen, die mit dem Runes-Protokoll zusammenhängt."
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

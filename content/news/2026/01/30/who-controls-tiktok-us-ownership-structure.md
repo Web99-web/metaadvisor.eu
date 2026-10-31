@@ -26,6 +26,7 @@ tags:
   - algorithms
   - big tech
 summary: "After years of political pressure and security concerns, TikTok has adopted a new ownership structure in the US. Here’s who controls it now and what it means for users."
+categories: ["technology"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

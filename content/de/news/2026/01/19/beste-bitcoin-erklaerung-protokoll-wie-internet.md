@@ -7,14 +7,15 @@ translationKey: "best_bitcoin_explanation_protocol_20260119"
 source: "Anhörung des US-Kongresses / Coin Center"
 source_url: "https://www.coincenter.org/"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-explanation.png"
-featured_image: "/images/BTC-explanation.png"
-image: "/images/BTC-explanation.png"
-thumbnail: "/images/BTC-explanation.png"
+image_url: "/images/BTC-explanation.webp"
+featured_image: "/images/BTC-explanation.webp"
+image: "/images/BTC-explanation.webp"
+thumbnail: "/images/BTC-explanation.webp"
 image_alt: "Bitcoin als Protokoll erklärt, nicht als Unternehmen oder Produkt"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Ein einziger Satz, ausgesprochen während einer Anhörung im US-Kongress, veränderte grundlegend, wie Regulierer, Journalisten und die Öffentlichkeit Bitcoin verstehen – nicht als Unternehmen oder Produkt, sondern als neutrales Protokoll, ähnlich wie das Internet."
 tags: ["bitcoin","btc","crypto","beste bitcoin erklärung","was ist bitcoin","bitcoin erklärt","bitcoin protokoll","bitcoin kein unternehmen","bitcoin kein produkt","bitcoin ohne ceo","bitcoin regulierung","krypto regulierung","geldsystem","dezentrales geld","internet protokoll"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

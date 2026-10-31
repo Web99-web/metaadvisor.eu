@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-africans-are-using-stablecoins-to-survive-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/africa-bitcoin-exit-IG-1080.png"
-featured_image: "/images/africa-bitcoin-exit-IG-1080.png"
-image: "/images/africa-bitcoin-exit-IG-1080.png"
-thumbnail: "/images/africa-bitcoin-exit-IG-1080.png"
+image_url: "/images/africa-bitcoin-exit-IG-1080.webp"
+featured_image: "/images/africa-bitcoin-exit-IG-1080.webp"
+image: "/images/africa-bitcoin-exit-IG-1080.webp"
+thumbnail: "/images/africa-bitcoin-exit-IG-1080.webp"
 image_alt: "Afrika & Bitcoin/Stablecoins – symbolische Darstellung"
 image_credit: "Design: Metaadvisor.eu (Symbolbild)"
 tags: ["Afrika","Stablecoins","USDT","USDC","Inflation","Remittances","M-Pesa","Nigeria","Kenia","FX-Kontrollen","P2P","On/Off-Ramp","Dollarisation","Bitcoin"]
 summary: "Cointelegraph beschreibt, wie Menschen in Städten wie Nairobi und Lagos Stablecoins (USDT/USDC) im Alltag nutzen – als Wertspeicher, für Zahlungen und Remittances. Gründe: hohe Inflation, volatile Lokalwährungen und teure/rigide Bankkanäle."
+categories: ["crypto"]
 ---
 
 **Kurz:** In Metropolen wie **Nairobi** und **Lagos** sind **Stablecoins (USDT/USDC)** zum **Alltagswerkzeug** geworden: Sparen, Rechnungen, **günstige Remittances** und Cross-Border-Zahlungen. **Mobiles Bezahlen** (z. B. *M-Pesa*) und **P2P On/Off-Ramps** machen die Nutzung praktisch. *Bild ist symbolisch.*

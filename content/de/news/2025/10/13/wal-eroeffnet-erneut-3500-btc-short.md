@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-whale-reveals-3-5k-btc-short-levels-watch-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/while-short-again3500.png"
-featured_image: "/images/while-short-again3500.png"
-image: "/images/while-short-again3500.png"
-thumbnail: "/images/while-short-again3500.png"
+image_url: "/images/while-short-again3500.webp"
+featured_image: "/images/while-short-again3500.webp"
+image: "/images/while-short-again3500.webp"
+thumbnail: "/images/while-short-again3500.webp"
 image_alt: "Symbolischer Wal — Headline-Grafik: Whale Opens Again New 3,500 BTC Short"
 image_credit: "Symbolisches Bild (Headline)."
 tags: ["Bitcoin", "BTC", "Wal", "Short", "Hyperliquid", "Leverage", "20x", "Liquidation", "Risk Management", "STH Cost Basis", "Technische Analyse", "Volatilität", "Kryptomarkt"]
 summary: "Ein beobachteter Wal erhöhte erneut seine Short-Position auf ~3.500 BTC mit 20× Leverage. Entry liegt bei $116.812, Liquidation ~ $120.990, was nur wenig Puffer nach oben lässt."
+categories: ["crypto"]
 ---
 
 **Kurz:** Einer der meistbeobachteten **Wal-Accounts** auf **Hyperliquid** hat seine Short-Position erneut auf etwa **3.500 BTC** ausgeweitet. Laut Screenshot liegt der **Entry bei ~$116.812**, **Leverage 20× (cross)**, und die **Liquidation bei ~$120.990** — was bedeutet, dass nur ein **enger Spielraum** nach oben bleibt, bevor ein Zwangsschluss droht.

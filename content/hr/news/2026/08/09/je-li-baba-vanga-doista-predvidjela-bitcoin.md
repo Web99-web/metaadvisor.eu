@@ -7,15 +7,16 @@ translationKey: "baba-vanga-bitcoin-predvidanje-2026-08-03"
 source: "The Guardian, The Economic Times, AS, HISTORY, Snopes i javno dostupni povijesni izvori"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Baba-Vanga-Bitcoin-prediction.png"
-featured_image: "/images/news/Baba-Vanga-Bitcoin-prediction.png"
-image: "/images/news/Baba-Vanga-Bitcoin-prediction.png"
-thumbnail: "/images/news/Baba-Vanga-Bitcoin-prediction.png"
+image_url: "/images/news/Baba-Vanga-Bitcoin-prediction.webp"
+featured_image: "/images/news/Baba-Vanga-Bitcoin-prediction.webp"
+image: "/images/news/Baba-Vanga-Bitcoin-prediction.webp"
+thumbnail: "/images/news/Baba-Vanga-Bitcoin-prediction.webp"
 image_alt: "Baba Vanga, kristalna kugla i Bitcoin kao simbol navodnog predviđanja kriptovaluta"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Baba Vanga", "Bitcoin", "kriptovalute", "proročanstva", "Nostradamus", "clickbait", "internetski mitovi", "dezinformacije", "provjera činjenica", "kripto prognoze", "blockchain", "digitalni novac", "mediji", "financijske prognoze", "Bitcoin predviđanje"]
 description: "Je li Baba Vanga doista predvidjela Bitcoin ili su nejasne priče o novcu, krizama i tehnologiji tek naknadno pretvorene u kripto proročanstvo?"
 summary: "Babi Vangi pripisuju se predviđanja ratova, katastrofa, umjetne inteligencije i ekonomskih kriza. Međutim, ne postoji vjerodostojan izvor koji pokazuje da je govorila o Bitcoinu, blockchainu ili kriptovalutama."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

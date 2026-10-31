@@ -16,6 +16,7 @@ image_alt: "Bitcoin — September rally"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitcoin","seasonality","markets","metaadvisor"]
 summary: "Bitcoin is up about 8% in September and is on course for the best September since 2012, defying its historically weak seasonality. To clinch the ‘best ever,’ another ~20% rally would be needed by month-end."
+categories: ["crypto"]
 ---
 
 **BTC is up ~8% in September**, putting this month on track to be the **strongest September since 2012** — a notable break from Bitcoin’s historically soft seasonality. This cycle continues to diverge from old calendar patterns.

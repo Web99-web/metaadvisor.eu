@@ -10,6 +10,7 @@ image_url: "/images/ai1.jpg"
 image_alt: "GPU serveri i podatkovni centar"
 tags: ["crypto","bitcoin","ai","mining","gpu","hpc"]
 summary: "Nakon halvinga i rasta cijena energije, dio BTC rudara prenamjenjuje farme u AI/HPC centre: stabilniji prihodi po megavatu, postojeći ugovori za jeftinu struju i stručnost u hlađenju visoke gustoće."
+categories: ["crypto"]
 ---
 
 **Što se događa**  

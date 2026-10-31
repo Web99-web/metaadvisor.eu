@@ -15,6 +15,7 @@ image_alt: "$TRUMP memecoin i veliki pad vrijednosti nakon početnog tržišnog 
 image_credit: "Metaadvisor.eu"
 tags: ["$TRUMP memecoin", "pad od 98 posto", "gubici ulagača", "Nansen analiza", "memecoin hype", "crypto pad", "Bitcoin drawdown", "Ethereum pad", "Solana ATH", "Cardano pad", "mali crypto ulagači", "rizik memecoina"]
 summary: "$TRUMP memecoin pao je gotovo 98 posto od vrhunca, a prema Nansenovoj analizi ulagači su izgubili oko 3,8 milijardi dolara. No šira slika pokazuje da nije pao samo $TRUMP: Bitcoin, Ethereum, Solana i Cardano također su daleko ispod svojih ranijih vrhova."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

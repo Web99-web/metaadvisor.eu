@@ -7,15 +7,16 @@ translationKey: "haker-izbrisao-rumunjski-katastar-2026-07-21"
 source: "ANCPI, The Record, Cybernews und Help Net Security"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hacker.png"
-featured_image: "/images/hacker.png"
-image: "/images/hacker.png"
-thumbnail: "/images/hacker.png"
+image_url: "/images/hacker.webp"
+featured_image: "/images/hacker.webp"
+image: "/images/hacker.webp"
+thumbnail: "/images/hacker.webp"
 image_alt: "Maskierter Hacker nach einem Cyberangriff auf das rumänische Grundbuch- und Katastersystem"
 image_credit: "Metaadvisor.eu"
 tags: ["Rumänien", "Kataster", "Grundbuch", "e-Terra", "ANCPI", "ByteToBreach", "Ransomware", "Hacker", "Cyberangriff", "Immobilien", "Cybersicherheit"]
 description: "Ein Hacker behauptet, nach einer gescheiterten Erpressung die rumänische Katasterdatenbank gelöscht und Immobilientransaktionen blockiert zu haben."
 summary: "Ein Cyberangriff legte das rumänische e-Terra-System lahm, stoppte einen Teil der Immobiliengeschäfte und warf die Frage auf, ob wichtige Daten tatsächlich gelöscht wurden."
+categories: ["cybersecurity"]
 ---
 
 # Hacker löscht Rumäniens Grundbuch?

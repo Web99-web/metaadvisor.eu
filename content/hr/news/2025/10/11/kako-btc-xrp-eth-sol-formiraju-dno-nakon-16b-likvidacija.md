@@ -8,6 +8,7 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/10/11/v-shaped-rally-or-gradual-reset-btc-eth-xrp-sol-face-slow-bottoming-process-after-usd16b-liquidation-shock"
 tags: ["crypto","bitcoin","btc","eth","xrp","sol","liquidations","market-structure"]
 summary: "Nakon najvećeg vala likvidacija dosad (~16 mlrd $), oporavak je vjerojatnije postupno ‘resetiranje’ nego brzi V-shape skok. Evo tipičnog slijeda faza i na što paziti."
+categories: ["crypto"]
 ---
 
 Kripto-tržište je doživjelo **najveći val likvidacija ikad** – prisilno je zatvoreno oko **16 mlrd $** poluga na **BTC, ETH, XRP, SOL** i širem altcoin tržištu. Mnogi su altcoini potonuli **20–40%** na **višemjesečne minimume**.

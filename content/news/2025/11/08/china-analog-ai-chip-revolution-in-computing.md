@@ -7,14 +7,15 @@ translationKey: "china_analog_ai_chip_metaadvisor_20251108"
 source: "South China Morning Post"
 source_url: "https://www.scmp.com/news/china/science/article/3329820/chinas-analogue-ai-chip-could-work-1000-times-faster-nvidia-gpu-study"
 author: "Metaadvisor.eu"
-image_url: "/images/China-chip.png"
-featured_image: "/images/China-chip.png"
-image: "/images/China-chip.png"
-thumbnail: "/images/China-chip.png"
+image_url: "/images/China-chip.webp"
+featured_image: "/images/China-chip.webp"
+image: "/images/China-chip.webp"
+thumbnail: "/images/China-chip.webp"
 image_alt: "Chinese analog AI chip - illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["china", "ai", "chip", "nvidia", "technology", "innovation", "scmp", "analog", "computing"]
 summary: "Chinese researchers have developed an analog AI chip that, according to early tests, could achieve up to 1,000 times greater efficiency than digital processors in specific tasks."
+categories: ["ai"]
 ---
 
 Researchers from **Peking University** have developed an **analog AI chip** that, according to early testing, could reach **up to 1,000× higher efficiency** than advanced digital processors such as the **Nvidia H100 GPU**.  

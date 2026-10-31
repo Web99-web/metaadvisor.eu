@@ -16,6 +16,7 @@ image_alt: "Ether-Angebotsengpass — historisch niedrige Bestände auf Börsen"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ethereum","eth","angebot","supply","staking","restaking","layer2","dat","treasury","crypto","analyse","glassnode","bullish"]
 summary: "Die Menge an Ether auf zentralisierten Börsen ist auf den niedrigsten Stand seit 2015 gefallen, da immer mehr ETH gestakt oder langfristig gehalten wird — und damit entsteht das engste Angebotsumfeld aller Zeiten."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "digital-public-square-emotional-erasure-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/Social-networking-erased-destroyed.png"
-featured_image: "/images/Social-networking-erased-destroyed.png"
-image: "/images/Social-networking-erased-destroyed.png"
-thumbnail: "/images/Social-networking-erased-destroyed.png"
+image_url: "/images/Social-networking-erased-destroyed.webp"
+featured_image: "/images/Social-networking-erased-destroyed.webp"
+image: "/images/Social-networking-erased-destroyed.webp"
+thumbnail: "/images/Social-networking-erased-destroyed.webp"
 image_alt: "Emocionalno potreseni mladi ljudi simbolično prikazuju posljedice digitalnog brisanja s društvenih mreža"
 image_credit: "Metaadvisor.eu"
 tags: ["digitalni identitet", "ai moderacija", "digital services act", "društvene mreže", "algoritmi", "cenzura", "online zajednice", "psihološke posljedice", "sloboda govora", "digitalni javni trg"]
 summary: "U posljednje vrijeme sve češće se u digitalnim zajednicama govori o dugogodišnjim korisnicima koji su iznenada nestali zbog AI moderacije. Što znači kada privatne platforme postanu javni trg – i kolika je emocionalna cijena digitalnog poništenja?"
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "chrome-gemini-nano-on-device-ai-2026"
 source: "Metaadvisor (The Verge, Tom's Guide, X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Google-Chrome-Gemini-Nano.png"
-featured_image: "/images/companies/Google-Chrome-Gemini-Nano.png"
-image: "/images/companies/Google-Chrome-Gemini-Nano.png"
-thumbnail: "/images/companies/Google-Chrome-Gemini-Nano.png"
+image_url: "/images/companies/Google-Chrome-Gemini-Nano.webp"
+featured_image: "/images/companies/Google-Chrome-Gemini-Nano.webp"
+image: "/images/companies/Google-Chrome-Gemini-Nano.webp"
+thumbnail: "/images/companies/Google-Chrome-Gemini-Nano.webp"
 image_alt: "Chrome and Gemini Nano local AI model on device"
 image_credit: "Metaadvisor.eu"
 tags: ["chrome", "google", "gemini nano", "ai", "on-device ai", "privacy", "tech", "browser", "data", "storage", "ai model", "local ai"]
 summary: "Chrome can locally download the Gemini Nano AI model, taking up several gigabytes of storage—often without clear user notification. While not a universal rollout, it raises questions about transparency and control."
+categories: ["tech"]
 ---
 
 *Image is symbolic.*

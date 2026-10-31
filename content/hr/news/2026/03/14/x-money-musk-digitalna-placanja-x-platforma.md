@@ -7,14 +7,15 @@ translationKey: "x-money-digital-payments-musk-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/X-money.png"
-featured_image: "/images/X-money.png"
-image: "/images/X-money.png"
-thumbnail: "/images/X-money.png"
+image_url: "/images/X-money.webp"
+featured_image: "/images/X-money.webp"
+image: "/images/X-money.webp"
+thumbnail: "/images/X-money.webp"
 image_alt: "X Money digital payments system on the X platform"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["elon musk", "x money", "digitalna plaćanja", "fintech", "društvene mreže", "x platforma", "digitalni novac", "online plaćanja", "visa", "dogecoin", "bitcoin", "everything app"]
 summary: "Elon Musk razvija X Money, sustav digitalnih plaćanja unutar platforme X. Projekt bi mogao pretvoriti društvenu mrežu u financijsku platformu i dio šire vizije tzv. 'everything app'."
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

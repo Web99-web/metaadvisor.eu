@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/bitcoin-etfs-take-share-spot-trading
 summary: "CryptoQuant reports US spot Bitcoin ETFs now regularly see $5–10 billion in daily trading volume, often outpacing most crypto exchanges."
 tags: ["bitcoin","crypto","ETF","trading volume","institutional"]
 image_url: "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzL2RvY3VtZW50LzIwMjUtMDgtLXVzLWV0ZnMtanVuZWN1b21lZGUuanBn.jpg"
+categories: ["crypto"]
 ---
 
 According to **Julio Moreno**, Head of Research at **CryptoQuant**, **US-based spot Bitcoin ETFs** now regularly generate **$5–10 billion in daily trading volume** on active days, sometimes **surpassing most cryptocurrency exchanges** :contentReference[oaicite:7]{index=7}.

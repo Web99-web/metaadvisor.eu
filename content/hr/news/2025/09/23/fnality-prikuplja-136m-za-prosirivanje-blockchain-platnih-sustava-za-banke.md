@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/23/fnality-raises-usd136m-to-expand-blockchain-payment-systems-for-banks"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/fnality-136m.png"
-featured_image: "/images/fnality-136m.png"
-image: "/images/fnality-136m.png"
-thumbnail: "/images/fnality-136m.png"
+image_url: "/images/fnality-136m.webp"
+featured_image: "/images/fnality-136m.webp"
+image: "/images/fnality-136m.webp"
+thumbnail: "/images/fnality-136m.webp"
 image_alt: "Fnality + $136M — blockchain plaćanja za banke"
 image_credit: "Metaadvisor.eu (generirana grafika)"
 tags:
@@ -39,6 +39,7 @@ tags:
   - ubs
   - barclays
 summary: "Fnality je prikupio $136M (Serija C) kako bi proširio blockchain sustave za bankarska plaćanja i namiru u više valuta te podržao on-chain DvP/PvP i namiru tokenizirane imovine. Fokus su brže transakcije, niži operativni troškovi i učinkovitije upravljanje likvidnošću."
+categories: ["ai"]
 ---
 
 **Kratko:** **Fnality** (London) gradi **on-chain platnu i namirnu infrastrukturu** za banke, s tokeniziranim prikazima glavnih valuta **kolateraliziranima novcem u središnjoj banci**. Novi **Serija C** krug od **$136M** predvode **WisdomTree, Bank of America, Citi, KBC Group, Temasek i Tradeweb**, uz postojeće ulagače **Goldman Sachs, UBS, Barclays** i dr. Kapital ide u **uvođenje novih valuta**, alate za **upravljanje likvidnošću** i **namiru tokenizirane imovine** (vrijednosni papiri, stablecoini).

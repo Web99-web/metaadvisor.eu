@@ -15,6 +15,7 @@ image_alt: "Grokipedia — Musk’s AI encyclopedia project"
 image_credit: "Metaadvisor.eu — image is symbolic."
 tags: ["ai","grok","grokipedia","elon musk","encyclopedia","wikipedia","accuracy","misinformation","fact-checking","bias","workslop"]
 summary: "Grokipedia, Elon Musk’s AI-powered encyclopedia, launches to criticism: academics report inaccuracies, copying, and ideological bias — raising the question whether AI can really deliver 'the truth, the whole truth, and nothing but the truth.'"
+categories: ["ai"]
 ---
 
 **From false biographical claims to politically tinted entries — Grokipedia’s debut is anything but smooth.** Multiple academics say their profiles contain **fabricated facts**, while users noticed that some pages **lift substantial passages from Wikipedia**, the very site Grokipedia aims to outperform.

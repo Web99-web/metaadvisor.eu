@@ -7,14 +7,15 @@ translationKey: "gold_5093_pullback_5100_question_20260125"
 source: "Market data / MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/gold.png"
-featured_image: "/images/gold.png"
-image: "/images/gold.png"
-thumbnail: "/images/gold.png"
+image_url: "/images/gold.webp"
+featured_image: "/images/gold.webp"
+image: "/images/gold.webp"
+thumbnail: "/images/gold.webp"
 image_alt: "Zlatna poluga i tržišni graf zlata u trenutku visoke volatilnosti"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Zlato je kratko dotaknulo razinu 5.093 prije nego što se povuklo prema 5.065. Tržište sada prati hoće li uslijediti novi pokušaj proboja psihološke granice od 5.100."
 tags: ["zlato", "gold", "tržišta", "sigurna luka", "profit taking", "psiholoska granica", "makro"]
+categories: ["markets"]
 ---
 
 *Slika je simbolična.*

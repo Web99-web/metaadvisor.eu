@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/04/mega-matrix-files-usd2
 summary: "The firm eyes to benefit from the rapid growth of Ethena's digital dollar USDe, fitting into a broader trend of listed companies accumulating cryptocurrencies."
 tags: ["crypto", "mega matrix", "mpu", "ethena", "ena", "usde", "bitcoin", "btc", "ethereum", "eth", "defi", "treasury"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["crypto"]
 ---
 
 NYSE-listed firm Mega Matrix (MPU) filed a $2 billion shelf registration on Thursday to establish a digital asset treasury focused on ENA, the governance token of stablecoin protocol Ethena.  

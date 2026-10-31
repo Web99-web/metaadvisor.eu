@@ -7,14 +7,15 @@ translationKey: "zcash-foundry-mining-pool-2026"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/Zcash-mining-pool.png"
-featured_image: "/images/Zcash-mining-pool.png"
-image: "/images/Zcash-mining-pool.png"
-thumbnail: "/images/Zcash-mining-pool.png"
+image_url: "/images/Zcash-mining-pool.webp"
+featured_image: "/images/Zcash-mining-pool.webp"
+image: "/images/Zcash-mining-pool.webp"
+thumbnail: "/images/Zcash-mining-pool.webp"
 image_alt: "Zcash Mining Pool und institutionelle Krypto-Miner"
 tags: ["zcash", "krypto", "mining", "privacy", "blockchain", "zero knowledge", "mining", "institutionelle investoren", "finanzielle privatsphäre", "technologie"]
 summary: "Foundry Digital kündigte den Start eines institutionellen Zcash-Mining-Pools im April 2026 an, was eine neue Phase für privacy-orientierte Kryptowährungen und deren Eintritt in den institutionellen Sektor markieren könnte."
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

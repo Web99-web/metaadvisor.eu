@@ -9,6 +9,7 @@ summary: "Trotz globaler Investitionsflaute richten kanadische Investoren ihren 
 tags: ["kpmg","canada","fintech","blockchain","ai","funding","venture-capital","startups","crypto","regulation"]
 image_url: "https://images.unsplash.com/photo-1505764706515-aa95265c5abc?auto=format&fit=crop&w=1280&q=80"
 image_alt: "Toronto Skyline – Symbol für Kanadas Fintech-Ökosystem"
+categories: ["crypto"]
 ---
 
 Kanadische Fintech-Unternehmen sammelten im ersten Halbjahr 2025 insgesamt 1,62 Mrd. $ ein. Den Löwenanteil erhielten Startups aus den Bereichen digitale Assets und Künstliche Intelligenz, so der KPMG-Bericht *Pulse of Fintech*.

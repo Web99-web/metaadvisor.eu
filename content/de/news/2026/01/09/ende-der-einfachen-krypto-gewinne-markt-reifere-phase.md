@@ -25,6 +25,7 @@ tags:
   - futures
   - risiko
 summary: "Nach dem starken Markteinbruch im Oktober 2025 tritt der Kryptomarkt in eine neue, reifere Phase ein. Die Ära relativ einfacher und stabiler Gewinne durch Arbitrage-Strategien neigt sich dem Ende zu und schafft Raum für eine nachhaltigere Marktentwicklung."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

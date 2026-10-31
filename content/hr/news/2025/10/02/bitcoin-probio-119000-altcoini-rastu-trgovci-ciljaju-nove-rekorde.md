@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/10/02/crypto-markets-today-bitcoin-breaks-usd119k-as-altcoins-surge-traders-eye-record-highs"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc-119000.png"
-featured_image: "/images/btc-119000.png"
-image: "/images/btc-119000.png"
-thumbnail: "/images/btc-119000.png"
+image_url: "/images/btc-119000.jpg"
+featured_image: "/images/btc-119000.jpg"
+image: "/images/btc-119000.jpg"
+thumbnail: "/images/btc-119000.jpg"
 image_alt: "Bitcoin na 119.000 USD"
 image_credit: "Metaadvisor.eu (simbolična slika)"
 tags:
@@ -26,6 +26,7 @@ tags:
   - jpmorgan
   - crypto-markets
 summary: "Bitcoin je skočio iznad 119.000 USD, dok altcoini bilježe snažan rast. Tržište kriptovaluta cilja nove povijesne maksimume, uz rekordne volumene i pozitivni sentiment."
+categories: ["crypto"]
 ---
 
 Tržište kriptovaluta u četvrtak je eksplodiralo: **Bitcoin** je probio granicu od **119.000 USD**, što je najviša razina u povijesti. Atmosfera među trgovcima bila je euforična, a altcoini su pratili rast s dvoznamenkastim postocima.

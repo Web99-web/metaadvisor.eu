@@ -24,6 +24,7 @@ tags:
   - blockchain
   - skalierung
 summary: "Offchain Labs, das Entwicklungsteam hinter dem Arbitrum-Netzwerk, hat seine ARB-Bestände erhöht, während das Netzwerk die Schwelle von 20 Milliarden US-Dollar an Total Value Locked überschritten hat. Der Schritt gilt als Signal langfristigen Vertrauens trotz des Drucks auf Governance-Token."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

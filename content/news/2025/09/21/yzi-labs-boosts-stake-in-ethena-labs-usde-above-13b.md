@@ -13,6 +13,7 @@ image_alt: "Ethena Labs — logo"
 image_credit: "Metaadvisor (symbolic image)"
 tags: ["CZ","Changpeng-Zhao","Yi-He","YZi-Labs","Ethena-Labs","USDe","stablecoin","synthetic-dollar","delta-neutral","perpetual-futures","BNB-Chain","USDtb","Converge","Securitize","BlackRock","CeDeFi","on-chain-finance"]
 summary: "YZi Labs — the private investment firm (family office) run by Binance founders CZ and Yi He — is deepening its position in Ethena Labs. USDe, the ‘synthetic dollar,’ has surpassed $13B in circulation; Ethena is expanding to BNB Chain and developing institutional products like USDtb and Converge."
+categories: ["crypto"]
 ---
 
 **Who’s involved — and what’s a ‘family office’?**  

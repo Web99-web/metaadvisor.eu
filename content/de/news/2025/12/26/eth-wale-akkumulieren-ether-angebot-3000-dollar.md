@@ -15,6 +15,7 @@ image_alt: "Ethereum Akkumulation durch Wale nahe 3000 Dollar"
 image_credit: "MetaAdvisor"
 tags: ["ethereum", "eth", "krypto", "wale", "on-chain", "defi", "staking", "markt"]
 summary: "Große Investoren erhöhen ihre ETH-Bestände, während das verfügbare Angebot auf Börsen weiter sinkt. Obwohl der Preis weiterhin unter der Marke von 3.000 US-Dollar liegt, deuten On-Chain-Daten auf eine zunehmende Marktspannung hin."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

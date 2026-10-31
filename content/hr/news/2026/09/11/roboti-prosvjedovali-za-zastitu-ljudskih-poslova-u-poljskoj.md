@@ -16,6 +16,7 @@ image_credit: "Reuters"
 tags: ["roboti", "umjetna inteligencija", "AI", "Poljska", "Varšava", "humanoidni roboti", "robotski psi", "robotika", "automatizacija", "radna mjesta", "tržište rada", "AI regulacija", "Democratism", "Delta Robots"]
 description: "Oko 30 humanoidnih robota i robotskih pasa izašlo je na ulice Varšave tražeći zaštitu ljudskih radnih mjesta i stroža pravila za AI. Iza naizgled komične scene krije se ozbiljna poruka o budućnosti rada."
 summary: "Roboti su u Varšavi prosvjedovali s porukama za zaštitu ljudskih radnih mjesta i regulaciju umjetne inteligencije. Akciju su organizirali ljudi kako bi upozorili koliko brzo AI, automatizacija i robotika mogu promijeniti tržište rada."
+categories: ["AI"]
 ---
 
 *Slika je simbolična.*

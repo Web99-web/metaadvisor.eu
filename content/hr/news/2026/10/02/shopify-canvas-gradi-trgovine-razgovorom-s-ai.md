@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Shopify", "Canvas", "Sidekick", "AI", "ecommerce", "online trgovina", "web dizajn", "vibe coding", "digitalni alati"]
 description: "Shopify je predstavio Canvas, AI alat koji omogućuje merchantima da kroz razgovor sa Sidekickom uređuju stvarne theme fileove i grade cijelu online trgovinu."
 summary: "Canvas pretvara Sidekick u AI dizajnera i coding agenta za Shopify trgovine. Alat radi na stvarnom kodu, prikazuje promjene u realnom vremenu i pokušava cijeli proces izrade trgovine pretvoriti u razgovor."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

@@ -7,14 +7,15 @@ translationKey: "gold_5300_record_20260128"
 source: "Marktdaten / Börsen"
 source_url: "https://www.mexc.com/"
 author: "Metaadvisor.eu"
-image_url: "/images/gold.png"
-featured_image: "/images/gold.png"
-image: "/images/gold.png"
-thumbnail: "/images/gold.png"
+image_url: "/images/gold.webp"
+featured_image: "/images/gold.webp"
+image: "/images/gold.webp"
+thumbnail: "/images/gold.webp"
 image_alt: "Goldpreis erreicht historischen Höchststand über 5.300 USD"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags: ["gold", "goldpreis", "edelmetalle", "inflation", "sicherer hafen", "us-dollar", "fed", "zinspolitik", "makroökonomie", "finanzmärkte"]
 summary: "Der Goldpreis hat an der Börse MEXC erstmals die Marke von 5.300 US-Dollar pro Unze überschritten und damit ein neues Allzeithoch erreicht. Der Anstieg spiegelt das wachsende Misstrauen der Investoren gegenüber Fiat-Währungen und dem bestehenden Finanzsystem wider."
+categories: ["macro"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -4,10 +4,11 @@ slug: "vibe-coding-anything-100m-bewertung"
 date: 2025-09-29T17:55:29Z
 category: "news"
 translationKey: "204dc30c4a67255101b41a5b805c1baf"
-image_url: "/images/vibe-coding.png"
-thumbnail: "/images/vibe-coding.png"
+image_url: "/images/vibe-coding.webp"
+thumbnail: "/images/vibe-coding.webp"
 image_alt: "Vibe-Coding Illustration"
 tags: ["AI", "Startups", "Vibe Coding", "Anything", "Finanzierung"]
+categories: ["news"]
 ---
 
 **Anything**, eine KI-App, die erst vor einem Monat gestartet ist, hat nach einer Finanzierungsrunde über 11 Mio. $ eine **Bewertung von 100 Mio. $** erreicht. Das Startup erzielte in nur zwei Wochen einen **ARR von 2 Mio. $** – ein Beleg für den explosiven Aufstieg des *Vibe Coding*.  

@@ -15,6 +15,7 @@ image_alt: "Bitcoin-Kurs schwankt zwischen 85.000 und 89.000 US-Dollar"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","krypto","crypto","volatilität","markt","analyse","institutionen","etf","bitcoin-preis"]
 summary: "Bitcoin bewegt sich in einer engen Spanne zwischen 85.000 und 89.000 US-Dollar – unter Druck durch kurzfristige Verkäufe und getragen von langfristigen institutionellen Erwartungen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

@@ -7,14 +7,15 @@ translationKey: "46893bdc0f9dffd52a82fde445692343"
 source: "Metaadvisor (Cointelegraph, Estonian FIU, Estonian FSA, Notes from Poland)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/warnings/30-days-to-comply.png"
-featured_image: "/images/warnings/30-days-to-comply.png"
-image: "/images/warnings/30-days-to-comply.png"
-thumbnail: "/images/warnings/30-days-to-comply.png"
+image_url: "/images/warnings/30-days-to-comply.webp"
+featured_image: "/images/warnings/30-days-to-comply.webp"
+image: "/images/warnings/30-days-to-comply.webp"
+thumbnail: "/images/warnings/30-days-to-comply.webp"
 image_alt: "30 days to comply and regulatory warning for a crypto exchange"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "bitcoin", "btc", "zondacrypto", "bb trade estonia", "estonia", "fiu", "mica", "regulation", "crypto exchange", "exchange", "4500 btc", "compliance", "license", "european union", "eu", "poland", "security", "custody", "centralized exchanges", "self-custody"]
 summary: "Estonia’s FIU has partially suspended the license of BB Trade Estonia OÜ, the operator behind Zondacrypto. The company now has 30 days to comply, while the broader story remains connected to earlier issues involving 4,500 BTC, user withdrawals and regulatory pressure in Europe."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

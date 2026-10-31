@@ -28,6 +28,7 @@ tags:
   - maple
   - defi
 summary: "AUM stieg 2025 um 118 % auf 35 Mrd. $. Diskretionäre Strategien (+738 % YTD) und Konzentration (Morpho/Pendle/Maple = 31 %) prägen den Markt; Yield-Vaults halten ~18 Mrd. $ Einlagen."
+categories: ["ai"]
 ---
 
 **Laut einem neuen Bericht von Keyrock erlebt Onchain Asset Management 2025 einen Durchbruch.**  

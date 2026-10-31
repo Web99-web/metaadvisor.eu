@@ -3,7 +3,7 @@ title: "Best iPhone 17 buyers’ guide: which model to buy?"
 slug: "best-iphone-17-buyers-guide-which-model-to-buy"
 date: 2025-09-12T12:00:00Z
 category: "news"
-translationKey: "4f1a99c11e3a4a6b9cb2f4eacb3b8e2a"
+translationKey: "iphone-17-quick-guide-2025-09-12"
 source: "MetaAdvisor"
 source_url: "https://metaadvisor.eu"
 priority: 100
@@ -11,6 +11,7 @@ image_url: "/images/IPHONE3.jpg"
 tags: ["apple", "iphone", "smartphones"]
 our_take: |
   Our take: the decision tree is simple — value (iPhone 17), thin-and-light battery life (Air), or performance + cameras (Pro/Pro Max). Start with screen size and storage; pay for camera features only if you’ll use them.
+categories: ["news"]
 ---
 
 Apple’s 2025 lineup has **iPhone 17**, **iPhone Air**, **iPhone 17 Pro** and **iPhone 17 Pro Max**. Here’s the concise guide.

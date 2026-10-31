@@ -8,14 +8,15 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/"
 author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Meta-llama.png"
-featured_image: "/images/Meta-llama.png"
-image: "/images/Meta-llama.png"
-thumbnail: "/images/Meta-llama.png"
+image_url: "/images/Meta-llama.webp"
+featured_image: "/images/Meta-llama.webp"
+image: "/images/Meta-llama.webp"
+thumbnail: "/images/Meta-llama.webp"
 image_alt: "Meta Llama — simbolična ilustracija"
 image_credit: "Metaadvisor.eu — simbolična slika"
 tags: ["ai", "Llama", "open", "generativni-modeli", "multimodal"]
 summary: "Meta Llama je obitelj ‘otvorenih’ generativnih AI modela. Donosimo pregled izdanja, mogućnosti i gdje ih možete koristiti."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

@@ -7,14 +7,15 @@ translationKey: "meta-ai-otkazi-tuzba-zaposlenici-2026-07-16"
 source: "The Guardian, Associated Press, court documents"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
-featured_image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
-image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
-thumbnail: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.png"
+image_url: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
+featured_image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
+image: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
+thumbnail: "/images/Meta/Meta-Facebook-Instagram-workers-layoffs-lawsuit.webp"
 image_credit: "Metaadvisor.eu"
-tags: ["Meta", "Facebook", "Instagram", "artificial intelligence", "AI layoffs", "employees", "lawsuit", "maternity leave", "medical leave", "AI moderation", "workers’ rights"]
+tags: ["Meta", "Facebook", "Instagram", "artificial intelligence", "AI layoffs", "employees", "lawsuit", "maternity leave", "medical leave", "AI moderation", "workers-rights"]
 description: "Facebook and Instagram employees have sued Meta, claiming AI systems penalised workers who took maternity, medical or other protected leave when selecting people for layoffs."
 summary: "A group of 26 employees claims Meta used AI ratings and automated indicators that failed to properly account for legally protected absences during a wave of layoffs affecting approximately 8,000 jobs."
+categories: ["ai"]
 ---
 
 # Facebook Parent Meta Sued Over AI-Driven Layoffs
@@ -79,7 +80,7 @@ Automated systems can restrict or disable a profile, remove a page, block access
 
 <div style="text-align:center; margin:24px 0;">
   <a href="https://metaadvisor.eu/news/social-media-bans-eu-ai-moderation-accounts/" target="_blank" rel="noopener">
-    <img src="/images/Banned-from-social-media.png"
+    <img src="/images/Banned-from-social-media.webp"
          alt="Social media bans in the EU: when AI moderation erases your digital life"
          loading="lazy"
          style="width:100%; max-width:520px; height:auto; border-radius:10px;">
@@ -98,7 +99,7 @@ A particularly important question is whether an algorithm considers a person’s
 
 <div style="text-align:center; margin:24px 0;">
   <a href="https://metaadvisor.eu/news/facebook-long-term-profiles-no-reputation-credit-problem/" target="_blank" rel="noopener">
-    <img src="/images/Meta/Facebook-blocks-long-term-profiles.png"
+    <img src="/images/Meta/Facebook-blocks-long-term-profiles.webp"
          alt="Why does a 15–20 year old Facebook profile have no reputation credit?"
          loading="lazy"
          style="width:100%; max-width:520px; height:auto; border-radius:10px;">

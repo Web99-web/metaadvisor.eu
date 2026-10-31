@@ -7,14 +7,15 @@ translationKey: "tether-usdt-genius-act-americki-regulatorni-rok-2026-07-20"
 source: "CoinDesk, američki zakon GENIUS, Tether i Circle"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Tether-USDT-gold.png"
-featured_image: "/images/Tether-USDT-gold.png"
-image: "/images/Tether-USDT-gold.png"
-thumbnail: "/images/Tether-USDT-gold.png"
+image_url: "/images/Tether-USDT-gold.webp"
+featured_image: "/images/Tether-USDT-gold.webp"
+image: "/images/Tether-USDT-gold.webp"
+thumbnail: "/images/Tether-USDT-gold.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Tether", "USDT", "USDC", "stablecoin", "GENIUS Act", "MiCA", "Circle", "zlato", "bitcoin", "kripto regulacija", "SAD", "Europska unija"]
 description: "Tetherov USDT mogao bi izgubiti pristup dijelu reguliranog američkog tržišta ako se ne prilagodi zakonu GENIUS i promijeni dio svojih rezervi."
 summary: "USDT već nije usklađen s europskom MiCA regulativom, a sada mu novi američki zakon postavlja dodatne zahtjeve za rezerve i pristup reguliranim kripto platformama."
+categories: ["crypto"]
 ---
 
 # USDT-u prijeti novi američki regulatorni rok

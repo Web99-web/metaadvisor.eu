@@ -15,6 +15,7 @@ image_alt: "Federal Reserve Board Building, Washington D.C."
 image_credit: "Public domain"
 tags: ["federal reserve","fed","kripto","crypto","plaćanja","fintech","regulacija","banke","stabilnost"]
 summary: "Američki Federal Reserve razmatra ograničeni pristup svojoj platnoj infrastrukturi za kripto i fintech tvrtke, što bi moglo promijeniti način na koji digitalne financije funkcioniraju u praksi."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

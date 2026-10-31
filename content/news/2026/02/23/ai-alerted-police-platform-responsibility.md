@@ -7,14 +7,15 @@ translationKey: "ai-alerted-police-platform-responsibility-2026"
 source: "Tech reporting"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/AI-alerted-police.png"
-featured_image: "/images/AI-alerted-police.png"
-image: "/images/AI-alerted-police.png"
-thumbnail: "/images/AI-alerted-police.png"
+image_url: "/images/AI-alerted-police.webp"
+featured_image: "/images/AI-alerted-police.webp"
+image: "/images/AI-alerted-police.webp"
+thumbnail: "/images/AI-alerted-police.webp"
 image_alt: "AI alerted police – security or surveillance?"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["AI", "artificial intelligence", "OpenAI", "police", "cybersecurity", "privacy", "digital rights", "AI regulation", "technology", "AI ethics", "surveillance debate"]
 summary: "Reports that an AI platform alerted authorities months in advance have sparked a broader debate about platform responsibility. Where does protection end and surveillance begin?"
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -16,6 +16,7 @@ image_alt: "‘OG’ whale otvara 3,600 BTC short na Hyperliquidu"
 image_credit: "Metaadvisor.eu (simbolična ilustracija)"
 tags: ["bitcoin","btc","hyperliquid","derivatives","perps","short","whale","on-chain","funding","liquidation","market-structure","volatility","risk","addresses","order-book","open-interest"]
 summary: "‘OG’ sudionik otvorio je ~3.600 BTC short (≈$400M+) na Hyperliquidu, s likvidacijom oko $139.9k/BTC, dok je funding bio pozitivan. Je li to čista sreća, vrhunski ‘edge’ ili samo dobra procjena kaskade likvidacija?"
+categories: ["crypto"]
 ---
 
 ## Što znamo (podaci)

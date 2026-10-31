@@ -7,14 +7,15 @@ translationKey: "bitcoin-pizza-day-prva-kupnja-btc-2026"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Pizza-day-BTC.png"
-featured_image: "/images/Pizza-day-BTC.png"
-image: "/images/Pizza-day-BTC.png"
-thumbnail: "/images/Pizza-day-BTC.png"
+image_url: "/images/Pizza-day-BTC.webp"
+featured_image: "/images/Pizza-day-BTC.webp"
+image: "/images/Pizza-day-BTC.webp"
+thumbnail: "/images/Pizza-day-BTC.webp"
 image_alt: "Bitcoin Pizza Day and the first known purchase of a physical product with BTC"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "bitcoin pizza day", "laszlo hanyecz", "satoshi nakamoto", "hal finney", "bitcoin history", "btc payment", "digital money", "blockchain", "crypto culture", "papa johns"]
 summary: "Bitcoin Pizza Day marks the first known real-world purchase of a physical product with Bitcoin. On May 22, 2010, Laszlo Hanyecz arranged the purchase of two pizzas for 10,000 BTC and helped Bitcoin move from theory into the real world."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

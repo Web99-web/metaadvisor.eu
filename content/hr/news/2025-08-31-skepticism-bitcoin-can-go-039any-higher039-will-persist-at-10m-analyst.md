@@ -9,6 +9,7 @@ summary: "Analitičar tvrdi da će skepticizam o tome može li Bitcoin rasti nas
 tags: ["bitcoin", "crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvYmMyZWVkMGMtMDExMi00MmVkLTkzYjEtY2FjZjM1ZjViYTM2LmpwZw==.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvYmMyZWVkMGMtMDExMi00MmVkLTkzYjEtY2FjZjM1ZjViYTM2LmpwZw==.jpg"
+categories: ["crypto"]
 ---
 
 Poznati kripto analitičar izjavio je da će skepticizam oko cijene bitcoina potrajati sve dok se BTC penje — pa čak i kada bi dosegnuo **10 milijuna dolara** po coinu.  

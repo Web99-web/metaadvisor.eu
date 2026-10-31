@@ -7,14 +7,15 @@ translationKey: "apple-inc-third-founder-ronald-wayne"
 author: "Metaadvisor.eu"
 source: "Public historical records"
 source_url: ""
-image_url: "/images/Apple-inc-3rd-forgoten-foundeer.png"
-featured_image: "/images/Apple-inc-3rd-forgoten-foundeer.png"
-image: "/images/Apple-inc-3rd-forgoten-foundeer.png"
-thumbnail: "/images/Apple-inc-3rd-forgoten-foundeer.png"
+image_url: "/images/Apple-inc-3rd-forgoten-foundeer.webp"
+featured_image: "/images/Apple-inc-3rd-forgoten-foundeer.webp"
+image: "/images/Apple-inc-3rd-forgoten-foundeer.webp"
+thumbnail: "/images/Apple-inc-3rd-forgoten-foundeer.webp"
 image_alt: "Ronald Wayne, treći osnivač Apple Inc."
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["Apple Inc", "Ronald Wayne", "Steve Jobs", "Steve Wozniak", "osnivači Applea", "startup iz garaže", "uspjeh iz garaže", "Silicijska dolina", "najskuplja odluka", "poduzetništvo", "rizik", "tech povijest"]
 summary: "Priča o Ronald Wayneu, zaboravljenom trećem osnivaču Apple Inc., koji je prodao 10% kompanije za 800 dolara — i zašto njegova odluka i danas izaziva nevjericu."
+categories: ["story"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

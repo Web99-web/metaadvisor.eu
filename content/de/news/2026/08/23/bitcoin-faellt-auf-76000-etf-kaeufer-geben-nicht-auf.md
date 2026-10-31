@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Bitcoin", "BTC", "Bitcoin ETF", "BlackRock", "IBIT", "Fidelity", "Krypto", "ETF-Zuflüsse"]
 description: "Bitcoin ist nach der starken Rally auf rund 76.000 Dollar zurückgefallen, während US-Spot-Bitcoin-ETFs weiterhin starke Nettozuflüsse verzeichnen."
 summary: "BTC liegt rund 4 % unter dem jüngsten Hoch nahe 79.500 Dollar, doch Spot-Bitcoin-ETFs zogen innerhalb von fünf Tagen netto fast 1,92 Milliarden Dollar an."
+categories: ["Crypto"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -15,6 +15,7 @@ image_alt: "eToro logo mit Slogan 'Your social investment network'"
 image_credit: "Metaadvisor.eu"
 tags: ["etoro", "ki", "investieren", "crypto", "finanzen", "business", "soziales trading"]
 summary: "eToro meldet einen Gewinnanstieg von 48 % und plant ein Aktienrückkaufprogramm über 150 Mio. USD. Die Plattform kombiniert soziales Trading, künstliche Intelligenz und Krypto-Investitionen – die neue Generation von Fintech-Innovationen."
+categories: ["business"]
 ---
 
 **Die Handels- und Investmentplattform eToro** (Nasdaq: ETOR) hat einen **Gewinnanstieg von 48 %** gemeldet und ein **Aktienrückkaufprogramm über 150 Mio. USD** angekündigt, was den Aktienkurs an der Nasdaq um fast 7 % steigen ließ.

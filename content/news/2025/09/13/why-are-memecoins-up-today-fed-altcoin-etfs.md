@@ -10,6 +10,7 @@ image_url: "/images/shiba-inu-coin2.jpg"
 image_alt: "Shiba Inu coin — memecoin symbol"
 tags: ["memecoins","fed","etf","altseason","markets","shib","bone","doge","trump","shibarium"]
 summary: "Memecoins are rising as markets price in a FED rate cut (more risk appetite) and potential approvals of altcoin ETFs."
+categories: ["news"]
 ---
 
 The memecoin sector is firming as social chatter about a fresh **altcoin season** grows — helped by expectations that the **FED** will cut rates next week, a typical boost for risk assets.

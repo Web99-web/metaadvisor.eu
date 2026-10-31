@@ -28,6 +28,7 @@ tags:
   - seed round
 
 summary: "Paid, nova platforma Mannyja Medine (osnivač Outreacha), diže 21,6 mil. $ seed kako bi standardizirao naplatu AI agenata po ostvarenoj vrijednosti (‘results-based billing’), a ne po korisniku ili neograničenoj upotrebi."
+categories: ["ai"]
 ---
 
 > Slika je simbolična.

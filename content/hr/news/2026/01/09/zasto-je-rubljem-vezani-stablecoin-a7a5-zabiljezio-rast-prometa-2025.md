@@ -7,10 +7,10 @@ translationKey: "e59c3e5aa9f970e6ae8b8963abe26822"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/09/a-ruble-stablecoin-outpaced-market-leaders-last-year-despite-international-sanctions"
 author: "MetaAdvisor.eu"
-image_url: "/images/A7A5-rubalj-crypto.png"
-featured_image: "/images/A7A5-rubalj-crypto.png"
-image: "/images/A7A5-rubalj-crypto.png"
-thumbnail: "/images/A7A5-rubalj-crypto.png"
+image_url: "/images/A7A5-rubalj-crypto.webp"
+featured_image: "/images/A7A5-rubalj-crypto.webp"
+image: "/images/A7A5-rubalj-crypto.webp"
+thumbnail: "/images/A7A5-rubalj-crypto.webp"
 image_alt: "Rubljem vezani stablecoin A7A5 i regionalni rast prometa"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -24,6 +24,7 @@ tags:
   - regionalna-trzista
   - financije
 summary: "Rubljem vezani stablecoin A7A5 zabilježio je snažan rast prometa tijekom 2025. godine, nadmašivši relativni rast većih stablecoina u određenim segmentima. Analiza pokazuje da se radi prije svega o regionalnim i tržišnim faktorima, a ne o promjeni globalne ravnoteže u svijetu stablecoina."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "btc_whales_etf_accumulation_20260118"
 source: ""
 source_url: ""
 author: "MetaAdvisor.eu"
-image_url: "/images/whale.png"
-featured_image: "/images/whale.png"
-image: "/images/whale.png"
-thumbnail: "/images/whale.png"
+image_url: "/images/whale.webp"
+featured_image: "/images/whale.webp"
+image: "/images/whale.webp"
+thumbnail: "/images/whale.webp"
 image_alt: "Bitcoin whale simbolizira veliku akumulaciju velikih tržišnih sudionika"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Veliki bitcoin sudionici pojačavaju long izloženost i zatvaraju short pozicije, dok istodobno whale, shark i fish holderi akumuliraju BTC u tišini. ETF priljevi i tržišna struktura zajedno ukazuju na ranu fazu strateške akumulacije bez euforije."
 tags: ["bitcoin","btc","crypto","kripto","whales","sharks","fish","institucionalni-investitori","etf","akumulacija","on-chain"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

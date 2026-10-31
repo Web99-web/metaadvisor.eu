@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/04/stripe-paradigm-unveil
 summary: "Dizajn usmjeren na stablecoine ima za cilj omogućiti globalne isplate, mikrotransakcije, doznake i AI plaćanja, rekao je izvršni direktor Stripea Patrick Collison."
 tags: ["ai", "crypto", "stablecoin", "stripe", "paradigm", "blockchain", "payments", "ethereum", "eth", "solana", "sol"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["ai"]
 ---
 
 Platni div **Stripe** i kripto investicijska tvrtka **Paradigm** u četvrtak su službeno predstavili **Tempo**, njihov zajednički blockchain projekt osmišljen za plaćanja stabilnim kovanicama.

@@ -7,14 +7,15 @@ translationKey: "xstocks-spacex-ipo-refunds-perps-2026-06-12"
 source: "Bybit, Binance, Kraken, Coinbase, WSJ, MarketWatch, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.png"
-featured_image: "/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.png"
-image: "/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.png"
-thumbnail: "/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.png"
+image_url: "/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.webp"
+featured_image: "/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.webp"
+image: "/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.webp"
+thumbnail: "/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.webp"
 image_alt: "SpaceX IPO, xStocks, refunds and crypto platforms"
 image_credit: "Metaadvisor.eu"
 tags: ["xStocks", "SpaceX", "SpaceX IPO", "Bybit", "Binance Wallet", "Bitget", "Kraken", "Coinbase", "SPCXx", "tokenized stocks", "perpetual futures", "IPO", "retail investors", "allocation", "refund", "crypto market", "Metaadvisor"]
 summary: "The tokenized SpaceX IPO showed the limits of retail access: xStocks could not secure enough underlying shares, Bybit, Binance Wallet, Bitget and Kraken are refunding users, while Coinbase had only pre-IPO perpetual futures."
+categories: ["news"]
 ---
 
 The image is symbolic.

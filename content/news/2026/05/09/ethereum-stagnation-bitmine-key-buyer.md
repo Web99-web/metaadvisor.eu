@@ -15,6 +15,7 @@ image_alt: "Ethereum stagnates as the market searches for a new direction"
 image_credit: "Metaadvisor.eu"
 tags: ["ethereum", "eth", "crypto", "bitmine", "tom lee", "staking", "defi", "solana", "layer2", "blockchain", "ethereum price", "eth staking", "web3", "smart contracts", "altcoins", "bitcoin", "metaadvisor"]
 summary: "Ethereum continues struggling to hold above the $2,400 level as investors question whether its largest institutional buyer is slowing accumulation. At the same time, the market is increasingly debating whether Ethereum needs a new narrative to regain stronger momentum."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

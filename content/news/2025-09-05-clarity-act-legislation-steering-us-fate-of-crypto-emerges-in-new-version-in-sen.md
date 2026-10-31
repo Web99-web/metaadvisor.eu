@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/09/05/legislation-steering-u-s
 summary: "The Senate Banking Committee unveiled a new draft of the crypto bill covering developer protections, bankruptcy rules, and tokenization guidelines."
 tags: ["crypto", "clarity act", "us regulation", "senate", "sec", "cftc", "law", "policy"]
 image_url: "/images/financial-chart.jpg"
+categories: ["crypto"]
 ---
 
 The **U.S. Senate** is advancing work on the industry’s top policy priority — the **Clarity Act**, aimed at establishing a regulatory framework for crypto markets in the United States. On Friday, a new draft circulated that outlines stronger developer protections, bankruptcy provisions, and the role of regulators in supporting tokenization of financial markets.  

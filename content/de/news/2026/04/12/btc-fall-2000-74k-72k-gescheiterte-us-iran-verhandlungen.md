@@ -15,6 +15,7 @@ image_alt: "Bitcoin plötzlicher Preisrückgang von 74000 auf unter 72000"
 image_credit: "Metaadvisor Illustration"
 tags: ["bitcoin", "btc", "krypto", "iran", "usa", "geopolitik", "volatilität", "markt"]
 summary: "Bitcoin fiel um mehr als $2.000 unmittelbar nach der Nachricht, dass die Verhandlungen zwischen den USA und dem Iran gescheitert sind, bleibt aber dennoch relativ stabil."
+categories: ["crypto"]
 ---
 
 _Das Bild ist symbolisch._

@@ -7,14 +7,15 @@ translationKey: "fe7541399eee6edd48986a7134f133fc"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (Cointelegraph, Marktdaten)"
 source_url: ""
-image_url: "/images/companies/SoFi-Technologies-US-digital-bank.png"
-featured_image: "/images/companies/SoFi-Technologies-US-digital-bank.png"
-image: "/images/companies/SoFi-Technologies-US-digital-bank.png"
-thumbnail: "/images/companies/SoFi-Technologies-US-digital-bank.png"
+image_url: "/images/companies/SoFi-Technologies-US-digital-bank.webp"
+featured_image: "/images/companies/SoFi-Technologies-US-digital-bank.webp"
+image: "/images/companies/SoFi-Technologies-US-digital-bank.webp"
+thumbnail: "/images/companies/SoFi-Technologies-US-digital-bank.webp"
 image_alt: "SoFi Technologies Digitalbank und Integration von Fiat- und Krypto-Systemen"
 image_credit: "MetaAdvisor.eu"
 tags: ["sofi", "sofi technologies", "digitale bank", "krypto", "defi", "stablecoin", "blockchain", "trading", "fintech", "regulierung"]
 summary: "SoFi entwickelt eine Plattform, die Fiat und Krypto in einem System vereint und Unternehmen eine einfachere, regulierte Nutzung ermöglicht, während DeFi weiterhin unter Komplexität und fehlenden Anleitungen leidet."
+categories: ["crypto"]
 ---
 
 Bild ist symbolisch.

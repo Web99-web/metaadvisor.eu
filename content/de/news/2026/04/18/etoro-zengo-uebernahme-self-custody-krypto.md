@@ -15,6 +15,7 @@ image_alt: "eToro und Zengo Übernahme Krypto Wallet"
 image_credit: "Metaadvisor.eu"
 tags: ["etoro", "zengo", "crypto", "bitcoin", "self custody", "wallet", "blockchain", "finanzen", "trading"]
 summary: "eToro übernimmt Zengo für rund 70 Millionen Dollar und vertieft seinen Einstieg in Self-Custody-Lösungen sowie Onchain-Finanzprodukte."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

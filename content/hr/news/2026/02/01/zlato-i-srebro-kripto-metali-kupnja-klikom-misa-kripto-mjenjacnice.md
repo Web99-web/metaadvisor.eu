@@ -8,10 +8,10 @@ source: "MetaAdvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Crypto-metals.png"
-featured_image: "/images/Crypto-metals.png"
-image: "/images/Crypto-metals.png"
-thumbnail: "/images/Crypto-metals.png"
+image_url: "/images/Crypto-metals.webp"
+featured_image: "/images/Crypto-metals.webp"
+image: "/images/Crypto-metals.webp"
+thumbnail: "/images/Crypto-metals.webp"
 image_alt: "Kripto metali – zlato i srebro u novoj digitalnoj trgovačkoj eri"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -24,6 +24,7 @@ tags:
   - volatilnost
   - ulaganja
 summary: "Zlato i srebro više nisu spora, zatvorena tržišta rezervirana za banke i trezore. Ulaskom na kripto mjenjačnice postali su kripto metali — dostupni milijunima ljudi, 24 sata dnevno, uz brze i snažne pomake cijena u oba smjera."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

@@ -7,10 +7,10 @@ translationKey: "evolution_money_banks_defi_control_2026"
 source: "MetaAdvisor analiza (na temelju CoinDesk, Cointelegraph i regulatornih izvještaja)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Banks-want-control-crypto.png"
-featured_image: "/images/Banks-want-control-crypto.png"
-image: "/images/Banks-want-control-crypto.png"
-thumbnail: "/images/Banks-want-control-crypto.png"
+image_url: "/images/Banks-want-control-crypto.webp"
+featured_image: "/images/Banks-want-control-crypto.webp"
+image: "/images/Banks-want-control-crypto.webp"
+thumbnail: "/images/Banks-want-control-crypto.webp"
 image_alt: "Sukob između tradicionalnih banaka i decentraliziranih financija (DeFi)"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -27,6 +27,7 @@ tags:
   - monetarni_sustav
   - evolucija_novca
 summary: "Dok banke i zakonodavci pokušavaju zadržati kontrolu nad financijskim sustavom, DeFi nudi alternativu u kojoj ljudi mogu štedjeti, posuđivati i upravljati novcem bez posrednika. U središtu rasprave više nije tehnologija, već pitanje kome pripada moć nad novcem."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

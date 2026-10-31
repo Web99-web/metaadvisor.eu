@@ -17,6 +17,7 @@ image_credit: "Free licensed image"
 tags: ["bitcoin", "krypto", "markt", "makroökonomie", "institutionen", "halving", "digitales gold"]
 summary: "Lyn Alden und BlackRock erklären, warum der Bitcoin-Zyklus sich immer weniger auf das Halving stützt – und immer stärker auf institutionelle Kapitalflüsse und Makrotrends."
 
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

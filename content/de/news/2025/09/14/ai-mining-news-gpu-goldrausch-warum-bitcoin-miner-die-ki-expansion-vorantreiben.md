@@ -10,6 +10,7 @@ image_url: "/images/ai1.jpg"
 image_alt: "GPU-Cluster in einem Rechenzentrum"
 tags: ["krypto","bitcoin","ai","mining","gpu","hpc"]
 summary: "Nach Halving und steigenden Energiekosten wandeln Miner Teile ihrer ASIC-Farmen in AI/HPC-Center um: planbare MW-Verträge, vorhandene Stromdeals und Know-how bei High-Density-Kühlung."
+categories: ["crypto"]
 ---
 
 **Was passiert**  

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/bitcoin-price-to-hit-us
 summary: "Institutional adoption, inflation-hedge demand, and the nature of bitcoin’s fixed supply, will propel the cryptocurrency to new highs, the report said."
 tags: ["bitcoin", "crypto"]
 image: "/news/2025-08-22-btc-price-news-bitcoin-may-hit-13m-by-2035-says-crypto-asset-manager-bitwise.jpg"
+categories: ["crypto"]
 ---
 
 Crypto asset manager Bitwise is betting big on bitcoin’s (BTC) future, projecting that the next decade will mark a period of outsized growth for the world’s largest cryptocurrency.

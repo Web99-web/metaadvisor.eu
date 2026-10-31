@@ -15,6 +15,7 @@ image_alt: "Illustration eines Gmail-Posteingangs mit Sicherheitswarnungen"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Google hat Probleme mit Gmail bestätigt, bei denen legitime E-Mails als Spam markiert wurden, während verdächtige Nachrichten im Posteingang landeten. Nutzer sollten besonders vorsichtig sein, da automatisierte Filtersysteme nicht immer zuverlässig arbeiten."
 tags: ["gmail", "google", "e-mail", "sicherheit", "spam", "phishing", "cybersicherheit", "ki", "technologie", "internetsicherheit"]
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

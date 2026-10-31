@@ -7,14 +7,15 @@ translationKey: "0466944bac0fe56dd76532e93db665da"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/"
 author: "TechCrunch"
-image_url: "/images/news/X-cuts-payouts-to-clickbait-accounts.png"
-featured_image: "/images/news/X-cuts-payouts-to-clickbait-accounts.png"
-image: "/images/news/X-cuts-payouts-to-clickbait-accounts.png"
-thumbnail: "/images/news/X-cuts-payouts-to-clickbait-accounts.png"
+image_url: "/images/news/X-cuts-payouts-to-clickbait-accounts.webp"
+featured_image: "/images/news/X-cuts-payouts-to-clickbait-accounts.webp"
+image: "/images/news/X-cuts-payouts-to-clickbait-accounts.webp"
+thumbnail: "/images/news/X-cuts-payouts-to-clickbait-accounts.webp"
 image_alt: "X smanjuje isplate clickbait računima"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "x", "twitter", "clickbait", "agregatori", "monetizacija", "algoritam", "društvene mreže", "digitalna ekonomija", "kreatori sadržaja"]
 summary: "X smanjuje isplate clickbait agregatorima sadržaja, pokušavajući ograničiti model koji je nagrađivao količinu objava umjesto njihove kvalitete."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

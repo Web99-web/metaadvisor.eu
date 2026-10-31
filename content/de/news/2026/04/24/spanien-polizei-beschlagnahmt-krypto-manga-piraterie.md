@@ -15,6 +15,7 @@ image_alt: "Spanische Flagge und Beschlagnahmung von Kryptowährungen bei Pirate
 image_credit: "Metaadvisor / Illustration"
 tags: ["crypto","krypto","spanien","manga","piraterie","blockchain","cold wallet","cybercrime","regulierung"]
 summary: "Die spanische Polizei hat ein großes Netzwerk für illegale Manga-Verbreitung zerschlagen, das seit 2014 aktiv war. Dabei wurden auch Crypto-Cold-Wallets beschlagnahmt, was zeigt, dass Kryptowährungen nicht außerhalb der Reichweite von Behörden sind."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

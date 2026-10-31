@@ -16,6 +16,7 @@ image_alt: "DeFi sustav i kolateralizacija vlastitog tokena"
 image_credit: "Metaadvisor ilustracija"
 tags: ["crypto", "kripto", "bitcoin", "btc", "defi", "wlfi", "trump", "stablecoin", "likvidnost", "rizik", "dolomite", "posudba", "token", "regulacija"]
 summary: "Kripto projekt povezan s Trumpom koristi vlastiti token kao kolateral za posudbu desetaka milijuna dolara, što otvara pitanja o likvidnosti, strukturi i potencijalnom zatvorenom krugu unutar DeFi sustava."
+categories: ["crypto"]
 ---
 
 _Slika je simbolična._

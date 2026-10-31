@@ -3,7 +3,7 @@ title: "Winklevoss Twins Call for $1 Million Bitcoin Price as Gemini Goes Public
 slug: "winklevoss-twins-call-for-1-million-bitcoin-price-as-gemini-goes-public-decrypt-43a643"
 date: 2025-09-12T18:58:04Z
 category: "news"
-translationKey: "3138f9d8a34a6d31605e7ae515b16dc3"
+translationKey: "3138f9d8a34a6d31605e7ae515b16dc3--unpaired-1b9611815101"
 source: "Decrypt"
 source_url: "https://decrypt.co/339281/winklevoss-twins-1-million-bitcoin-price-gemini-goes-public"
 priority: 97
@@ -11,6 +11,11 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "bitcoin", "cryptocurrency", "btc", "meta", "stocks"]
 our_take: |
   Our view: Winklevoss Twins Call for $1 Million Bitcoin Price as Gemini Goes Public Crypto entrepreneurs Tyler and Cameron Winklevossâ€”the founders of the newly public crypto exchange, Geminiâ€”have predicted that Bitcoin will hit… Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
+seo_alias_of: "https://metaadvisor.eu/news/winklevoss-twins-call-for-1-million-bitcoin-price-as-gemini-goes-public-decrypt/"
+_build:
+  list: never
+  render: always
 ---
 
 Winklevoss Twins Call for $1 Million Bitcoin Price as Gemini Goes Public

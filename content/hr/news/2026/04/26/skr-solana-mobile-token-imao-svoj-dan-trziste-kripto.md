@@ -7,14 +7,15 @@ translationKey: "skr-one-day-hero-solana-mobile"
 source: "Market data, exchanges"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Solana-phone-SKR-coin-token.png"
-featured_image: "/images/Solana-phone-SKR-coin-token.png"
-image: "/images/Solana-phone-SKR-coin-token.png"
-thumbnail: "/images/Solana-phone-SKR-coin-token.png"
+image_url: "/images/Solana-phone-SKR-coin-token.webp"
+featured_image: "/images/Solana-phone-SKR-coin-token.webp"
+image: "/images/Solana-phone-SKR-coin-token.webp"
+thumbnail: "/images/Solana-phone-SKR-coin-token.webp"
 image_alt: "Solana phone SKR token market spike"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["crypto","skr","solana","solana mobile","token","tržište","kripto","altcoin"]
 summary: "Seeker (SKR), mali token povezan sa Solana Mobile ekosustavom, 24. travnja doživio je nagli rast i zadržao povišene razine gotovo cijeli dan, prije nego što se tržište vratilo u ravnotežu."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

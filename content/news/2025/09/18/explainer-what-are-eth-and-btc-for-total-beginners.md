@@ -15,6 +15,7 @@ image_alt: "Bitcoin and Ethereum — plain-English explainer"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["bitcoin","ethereum","btc","eth","beginner","guide","metaadvisor"]
 summary: "BTC is like gold in a safe — issuer-free savings. ETH is like a city on the internet — a place where things get built and paid for. A short, human guide with no jargon."
+categories: ["crypto"]
 ---
 
 If crypto sounded like a spaceship, here’s the **coffee-table** version. **Bitcoin (BTC)** and **Ethereum (ETH)** aren’t “the same crypto.” They play **different roles** — two tools for different jobs.

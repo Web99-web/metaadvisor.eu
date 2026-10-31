@@ -9,6 +9,7 @@ summary: "U.K. je nedavno počeo provoditi nova pravila o provjeri dobi, a The W
 tags: ["UK","law","age-check","compliance","porn","traffic","regulation","Online-Safety-Act","internet","privacy"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-1180208300.jpg?w=1390&crop=1"
 image_url_small: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-1180208300.jpg?w=600&crop=1"
+categories: ["news"]
 ---
 
 Ujedinjeno Kraljevstvo nedavno je počelo provoditi odredbe Online Safety Acta o provjeri dobi, a The Washington Post izvještava da to već značajno utječe na web promet.  

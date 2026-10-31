@@ -7,14 +7,15 @@ translationKey: "6d67a039dbfbaea8a8d121bc6476b201"
 source: "Metaadvisor (TechCrunch, Business Insider, The Wall Street Journal, TechRadar, Times of India)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Apple-Mac-mini.png"
-featured_image: "/images/companies/Apple-Mac-mini.png"
-image: "/images/companies/Apple-Mac-mini.png"
-thumbnail: "/images/companies/Apple-Mac-mini.png"
+image_url: "/images/companies/Apple-Mac-mini.webp"
+featured_image: "/images/companies/Apple-Mac-mini.webp"
+image: "/images/companies/Apple-Mac-mini.webp"
+thumbnail: "/images/companies/Apple-Mac-mini.webp"
 image_alt: "Apple Mac mini M4 compact desktop computer and ports"
 image_credit: "Apple"
 tags: ["ai","apple","mac mini","hardware","local ai"]
 summary: "Mac mini is selling out globally — not due to traditional demand, but because of rising interest in local AI. Here’s what’s really driving this trend."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

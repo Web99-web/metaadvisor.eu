@@ -7,14 +7,15 @@ translationKey: "mu-sndk-bb-pad-dionica-2026-07-19"
 source: "Micron, SanDisk, BlackBerry, tržišni i analitički podaci"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/Stock-drop-price-down.png"
-featured_image: "/images/daily-charts/Stock-drop-price-down.png"
-image: "/images/daily-charts/Stock-drop-price-down.png"
-thumbnail: "/images/daily-charts/Stock-drop-price-down.png"
+image_url: "/images/daily-charts/Stock-drop-price-down.webp"
+featured_image: "/images/daily-charts/Stock-drop-price-down.webp"
+image: "/images/daily-charts/Stock-drop-price-down.webp"
+thumbnail: "/images/daily-charts/Stock-drop-price-down.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Micron", "MU", "SanDisk", "SNDK", "BlackBerry", "BB", "dionice", "derivati", "AI dionice", "memorija", "poluvodiči", "burza"]
 description: "Micron, SanDisk i BlackBerry snažno su pali i do kraja tjedna nisu se ozbiljnije oporavili. Ipak, iza pada MU-a i SNDK-a stoje drukčiji razlozi nego iza pada BB-a."
 summary: "MU i SNDK pali su u široj rasprodaji memory, semiconductor i AI infrastrukturnih dionica, dok je pad BB-a više povezan s uzimanjem dobiti nakon snažnog prethodnog rasta."
+categories: ["finance"]
 ---
 
 # MU, SNDK i BB snažno pali: što se događa s tim dionicama?

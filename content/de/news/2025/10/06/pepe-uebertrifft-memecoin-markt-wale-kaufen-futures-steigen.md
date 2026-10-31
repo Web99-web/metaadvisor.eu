@@ -16,6 +16,7 @@ image_alt: "PEPE Memecoin – Marktmomentum"
 image_credit: "Metaadvisor.eu — symbolische Illustration"
 tags: ["crypto", "Memecoins", "PEPE", "Wale", "Derivate", "Open-Interest", "Akkumulation", "Liquidität"]
 summary: "PEPE legt ~2,5 % zu und schlägt den Memecoin-Index. Die 100 größten Adressen haben ihre Bestände in 30 Tagen um 4,28 % erhöht, während Futures-Open-Interest Richtung 645 Mio. $ steigt."
+categories: ["news"]
 ---
 
 **PEPE ist wieder Gesprächsstoff.** Während viele Memecoins seitwärts laufen, springt PEPE nach vorn — doch die eigentliche Story ist, **wer** kauft.

@@ -7,15 +7,16 @@ translationKey: "mica-licenca-ne-znaci-potpunu-sigurnost-2026-08-08"
 source: "ESMA, EBA, Europska komisija i Uredba (EU) 2023/1114"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/MICA-eu-regulation.png"
-featured_image: "/images/MICA-eu-regulation.png"
-image: "/images/MICA-eu-regulation.png"
-thumbnail: "/images/MICA-eu-regulation.png"
+image_url: "/images/MICA-eu-regulation.webp"
+featured_image: "/images/MICA-eu-regulation.webp"
+image: "/images/MICA-eu-regulation.webp"
+thumbnail: "/images/MICA-eu-regulation.webp"
 image_alt: "MiCA regulacija Europske unije i kripto platforme"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["MiCA", "MiCA licenca", "Europska unija", "kriptovalute", "kripto platforme", "CASP", "ESMA", "regulacija kriptovaluta", "zaštita korisnika", "Bitcoin", "kripto burze", "reverse solicitation", "MiCA compliant", "kripto sigurnost", "EU regulacija"]
 description: "MiCA licenca potvrđuje da je kripto platforma prošla regulatorni postupak, ali ne jamči vrijednost tokena, sigurnost svih proizvoda ni povrat svakog izgubljenog iznosa."
 summary: "MiCA donosi zajednička europska pravila za kripto platforme, ali oznaka reguliranog pružatelja ne znači da su svaki token, proizvod i usluga unutar aplikacije potpuno sigurni ili obuhvaćeni istom zaštitom."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*
@@ -128,7 +129,7 @@ To zato ne znači da građanin EU-a tehnički nikada ne može pristupiti platfor
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/hr/news/binance-aplikacija-nestala-s-google-playa-u-dijelu-europske-unije/" target="_blank" rel="noopener">
-    <img src="/images/news/Binance-app-rectrected-EU-Mica-Google-play.png" alt="Binance aplikacija nestala s Google Playa u dijelu Europske unije" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/news/Binance-app-rectrected-EU-Mica-Google-play.webp" alt="Binance aplikacija nestala s Google Playa u dijelu Europske unije" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/hr/news/binance-aplikacija-nestala-s-google-playa-u-dijelu-europske-unije/" target="_blank" rel="noopener"><strong>Binance aplikacija nestala s Google Playa u dijelu Europske unije</strong></a>

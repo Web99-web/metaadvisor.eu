@@ -15,6 +15,7 @@ image_alt: "Symbolic illustration of Bitcoin wealth from the early Satoshi Nakam
 image_credit: "MetaAdvisor.eu / symbolic illustration"
 tags: ["bitcoin", "btc", "crypto", "satoshi nakamoto", "first wave", "whale", "wallet", "paper wallet", "blockchain"]
 summary: "A Bitcoin wallet from the first wave, dating back to the era of Satoshi Nakamoto, moved roughly $85 million worth of BTC after 13 years of inactivity. While such events often spark sell-off fears, historical and technical context suggests more nuanced explanations."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

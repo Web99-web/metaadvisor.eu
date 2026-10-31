@@ -7,14 +7,15 @@ translationKey: "stablecoin-salaries-global-trend-20260218"
 source: "BNVK survey"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Salaries-crypto.png"
-featured_image: "/images/Salaries-crypto.png"
-image: "/images/Salaries-crypto.png"
-thumbnail: "/images/Salaries-crypto.png"
+image_url: "/images/Salaries-crypto.webp"
+featured_image: "/images/Salaries-crypto.webp"
+image: "/images/Salaries-crypto.webp"
+thumbnail: "/images/Salaries-crypto.webp"
 image_alt: "Gehaltszahlungen in Stablecoins Illustration"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["stablecoin", "usdt", "usdc", "krypto gehalt", "crypto salary", "blockchain", "defi", "bitcoin", "ethereum", "digitale wirtschaft", "regulierung", "zahlungen"]
 summary: "Eine Umfrage zeigt, dass 39% der Befragten einen Teil ihres Einkommens in Stablecoins erhalten. Doch handelt es sich um einen globalen Trend oder um ein Phänomen innerhalb der Krypto-Community?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

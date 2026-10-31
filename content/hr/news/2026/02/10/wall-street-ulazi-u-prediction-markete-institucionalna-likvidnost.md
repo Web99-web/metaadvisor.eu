@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/jump-trading-kalshi-polymarket-prediction-markets-report"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/prediction-markets.png"
-featured_image: "/images/prediction-markets.png"
-image: "/images/prediction-markets.png"
-thumbnail: "/images/prediction-markets.png"
+image_url: "/images/prediction-markets.webp"
+featured_image: "/images/prediction-markets.webp"
+image: "/images/prediction-markets.webp"
+thumbnail: "/images/prediction-markets.webp"
 image_alt: "Prediction marketi i institucionalna likvidnost"
 image_credit: "Metaadvisor.eu"
 summary: "Institucionalni kapital s Wall Streeta sve snažnije ulazi u prediction markete, signalizirajući prelazak sektora u zreliju fazu s većom likvidnošću, volumenima i profesionalnim sudionicima."
 tags: ["prediction marketi", "kripto", "blockchain", "financijska tržišta", "institucionalni kapital", "polymarket", "kalshi", "wall street", "likvidnost"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

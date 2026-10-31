@@ -15,6 +15,7 @@ image_alt: "Cloud mining vs. staking — plain-English guide"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","cloud-mining","staking","bitcoin","ethereum","yield","risk","profitability","metaadvisor"]
 summary: "Cloud mining = “rent my machines and maybe earn”; staking = “lock your own coins and get paid in the same coin.” In 2025, staking is simpler and more predictable for most small investors — cloud mining rarely beats buy-and-hold."
+categories: ["crypto"]
 ---
 
 Imagine you’ve got **€1,000** and wonder: “How do I turn crypto into a **little side income**?” Two loud options are **cloud mining** and **staking**. One is like **outsourcing mining hardware**, the other like **time-depositing your coins**. Here’s the no-jargon tour.

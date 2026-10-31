@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-pump-fun-captured-80-of-solana-memecoins-and-can-it-last?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Pump-fun-solana.png"
-featured_image: "/images/Pump-fun-solana.png"
-image: "/images/Pump-fun-solana.png"
-thumbnail: "/images/Pump-fun-solana.png"
+image_url: "/images/Pump-fun-solana.webp"
+featured_image: "/images/Pump-fun-solana.webp"
+image: "/images/Pump-fun-solana.webp"
+thumbnail: "/images/Pump-fun-solana.webp"
 image_alt: "Pump.fun memecoin launches on Solana"
 image_credit: "Metaadvisor.eu — symbolic image"
 tags: ["crypto", "Solana", "memecoins", "PumpFun", "DEX", "Raydium", "bonding-curve", "liquidity", "MEV", "bots", "KOL", "launchpad", "compliance", "rugpull", "security", "fees", "retail"]
 summary: "Pump.fun is dominating ~80% of Solana memecoin launches thanks to frictionless UX, bonding-curve liquidity, and viral distribution. But can the momentum survive regulation, saturation, and security risks?"
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

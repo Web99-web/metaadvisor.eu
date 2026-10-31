@@ -7,14 +7,15 @@ translationKey: "stablecoin-salaries-global-trend-20260218"
 source: "BNVK survey"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Salaries-crypto.png"
-featured_image: "/images/Salaries-crypto.png"
-image: "/images/Salaries-crypto.png"
-thumbnail: "/images/Salaries-crypto.png"
+image_url: "/images/Salaries-crypto.webp"
+featured_image: "/images/Salaries-crypto.webp"
+image: "/images/Salaries-crypto.webp"
+thumbnail: "/images/Salaries-crypto.webp"
 image_alt: "Isplata plaća u stablecoinima ilustracija"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["stablecoin", "usdt", "usdc", "kripto place", "crypto salary", "blockchain", "defi", "bitcoin", "ethereum", "digitalna ekonomija", "regulacija", "placanja"]
 summary: "Istraživanje navodi da 39% ispitanika prima dio prihoda u stablecoinima, no ostaje pitanje radi li se o globalnom trendu ili o specifičnoj kripto populaciji."
+categories: ["crypto"]
 ---
 
 

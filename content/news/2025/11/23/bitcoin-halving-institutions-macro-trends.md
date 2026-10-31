@@ -17,6 +17,7 @@ image_credit: "Free licensed image"
 tags: ["bitcoin", "btc", "crypto", "market", "macro", "institutions", "halving", "digital gold"]
 summary: "Lyn Alden and BlackRock explain why the Bitcoin cycle relies less on halving and more on institutional capital flows and global macro conditions."
 
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

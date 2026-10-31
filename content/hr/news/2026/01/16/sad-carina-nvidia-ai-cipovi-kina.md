@@ -26,6 +26,7 @@ tags:
   - tehnologija
   - geopolitika
 summary: "Sjedinjene Američke Države uvele su carinu od 25% na napredne AI čipove, uključujući Nvidijin H200, namijenjene izvozu u Kinu, u sklopu šire strategije kontrole tehnološkog razvoja."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

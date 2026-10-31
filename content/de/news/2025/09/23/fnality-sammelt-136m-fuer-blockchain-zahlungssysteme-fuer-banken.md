@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/23/fnality-raises-usd136m-to-expand-blockchain-payment-systems-for-banks"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/fnality-136m.png"
-featured_image: "/images/fnality-136m.png"
-image: "/images/fnality-136m.png"
-thumbnail: "/images/fnality-136m.png"
+image_url: "/images/fnality-136m.webp"
+featured_image: "/images/fnality-136m.webp"
+image: "/images/fnality-136m.webp"
+thumbnail: "/images/fnality-136m.webp"
 image_alt: "Fnality + $136M — Blockchain-Zahlungen für Banken"
 image_credit: "Metaadvisor.eu (generierte Grafik)"
 tags:
@@ -39,6 +39,7 @@ tags:
   - ubs
   - barclays
 summary: "Fnality hat $136M (Series C) aufgenommen, um Blockchain-basierte Zahlungs- und Abwicklungssysteme für Banken auf weitere Währungen auszuweiten und DvP/PvP für tokenisierte Vermögenswerte zu unterstützen."
+categories: ["ai"]
 ---
 
 **Kurz:** **Fnality** (London) baut **On-Chain-Zahlungs- und Abwicklungsinfrastruktur** für Banken, gestützt durch tokenisierte Darstellungen großer Währungen, die mit **Zentralbankgeld** besichert sind. Die **Series-C** über **$136M** wird von **WisdomTree, Bank of America, Citi, KBC Group, Temasek, Tradeweb** angeführt; bestehende Investoren **Goldman Sachs, UBS, Barclays** u. a. beteiligen sich ebenfalls. Das Kapital fließt in **weitere Währungen**, **Liquidity-Tools** sowie **Abwicklung tokenisierter Assets** (Wertpapiere, Stablecoins).

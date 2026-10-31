@@ -10,6 +10,7 @@ image_url: "/images/btc-coini.jpg"
 image_alt: "Bitcoin kovanice i rast ulaganja institucija"
 tags: ["crypto","bitcoin","treasuries","institutions"]
 summary: "Capital Group je od ~1 mlrd $ izloženosti u ‘Bitcoin trezorskim’ dionicama došla do >6 mlrd $, ponajviše kroz udjele u Strategy (bivši MicroStrategy) i Metaplanetu."
+categories: ["crypto"]
 ---
 
 **Što se dogodilo**  

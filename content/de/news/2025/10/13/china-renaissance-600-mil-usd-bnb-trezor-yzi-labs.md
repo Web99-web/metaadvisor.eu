@@ -16,6 +16,7 @@ image_alt: "Stilisiertes Geschäftsgebäude — Ankündigung $600M BNB-Tresor"
 image_credit: "Symbolisches Bild."
 tags: ["BNB", "Binance", "BNB Chain", "China Renaissance", "YZi Labs", "Changpeng Zhao", "CZ", "Tresor", "öffentliche Gesellschaft", "Bloomberg", "CoinDesk20", "CD20", "Markt", "Volatilität", "Krypto-Assets", "institutionelle Investoren"]
 summary: "China Renaissance will $600 Mio. USD für einen öffentlichen BNB-Krypto-Tresor sammeln, zusammen mit YZi Labs — dem Family Office von CZ. Es wäre einer der größten öffentlichen Einsätze in BNB."
+categories: ["news"]
 ---
 
 **Zusammenfassung:** Die in Hongkong börsennotierte **China Renaissance** will **$600 Mio. USD** für einen **öffentlichen Krypto-Tresor** einsammeln, der sich auf **BNB** konzentriert — den Token der BNB-Chain, der für Gebührenrabatte auf Binance genutzt wird. **YZi Labs**, das Family Office von Binance-Mitgründer **Changpeng Zhao (CZ)**, soll als Co-Investor teilnehmen.

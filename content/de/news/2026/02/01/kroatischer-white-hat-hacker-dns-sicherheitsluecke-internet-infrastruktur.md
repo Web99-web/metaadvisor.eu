@@ -23,6 +23,7 @@ tags:
   - internet
   - cyber-security
 summary: "Der kroatische Sicherheitsforscher Vlatko Košturjak hat eine schwerwiegende DNS-Sicherheitslücke entdeckt, die zentrale Teile der Internet-Infrastruktur lahmlegen kann – ohne Datendiebstahl, aber mit potenziell globalen Auswirkungen."
+categories: ["security"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

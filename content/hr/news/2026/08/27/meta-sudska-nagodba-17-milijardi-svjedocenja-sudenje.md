@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "meta-17b-settlement-testimony-2026-08-27"
 source: "California Attorney General, Meta, Reuters, AP, The Guardian, WIRED, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-17b-court-case.png"
-featured_image: "/images/Meta/Meta-17b-court-case.png"
-image: "/images/Meta/Meta-17b-court-case.png"
-thumbnail: "/images/Meta/Meta-17b-court-case.png"
+image_url: "/images/Meta/Meta-17b-court-case.jpg"
+featured_image: "/images/Meta/Meta-17b-court-case.jpg"
+image: "/images/Meta/Meta-17b-court-case.jpg"
+thumbnail: "/images/Meta/Meta-17b-court-case.jpg"
 image_alt: "Meta pristala na nagodbu do 17 milijardi dolara nakon svjedočenja na sudu"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Meta", "Facebook", "Instagram", "nagodba", "sud", "svjedočenje", "Mark Zuckerberg", "Adam Mosseri", "Arturo Béjar", "George Volichenko", "Francesco Fogu", "sigurnost djece", "ovisnost o društvenim mrežama", "privatnost", "regulacija", "tehnološke kompanije"]
 description: "Meta je pristala na nagodbu do 17 milijardi dolara nakon samo nekoliko dana suđenja na kojem su bivši i sadašnji zaposlenici govorili o sigurnosti djece, engagementu i internim odlukama kompanije."
 summary: "Suđenje protiv Mete trebalo je trajati još tjednima, a među budućim svjedocima bio je i Mark Zuckerberg. Nakon neugodnih iskaza Meta je pristala na nagodbu do 17 milijardi dolara, no zajamčeni dio plaća se kroz deset godina, a dio maksimalnog iznosa možda nikada neće biti plaćen."
+categories: ["Technology"]
 ---
 
 *Slika je simbolična.*
@@ -162,7 +163,7 @@ Ali u zamjenu Meta dobiva izvjesnost oko velikog dijela pravnog rizika, plaćanj
 Napravili smo i zasebnu priču o Metinim video-selfie provjerama i snimkama lica: što Meta radi sa samom snimkom i podacima koji iz nje mogu nastati, koliko ih dugo zadržava, kada ih briše, nastaju li izvedeni biometrijski podaci te obrađuju li ih samo Metini sustavi i zaposlenici ili i vanjske kompanije.
 
 <a href="https://metaadvisor.eu/hr/news/sto-meta-facebook-instagram-radi-sa-snimkom-vaseg-lica/" target="_blank" rel="noopener">
-<img src="/images/Meta/Meta-face-recording.png"
+<img src="/images/Meta/Meta-face-recording.webp"
      alt="Što Meta radi sa snimkom vašeg lica?"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

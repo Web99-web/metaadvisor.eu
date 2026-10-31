@@ -7,14 +7,15 @@ translationKey: "bruxelles-eu-sjediste-bez-klime-toplinski-val-2026-06-28"
 source: "Politico Europe, E&E News, Euractiv, Anadolu Agency, Reuters, The Brussels Times, Copernicus, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
-featured_image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
-image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
-thumbnail: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
+image_url: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
+featured_image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
+image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
+thumbnail: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
 image_alt: "EU-Zentrale in Brüssel ohne Klimaanlage während einer Hitzewelle"
 image_credit: "Metaadvisor.eu"
 tags: ["Europäische Kommission", "Brüssel", "Berlaymont", "EU", "Hitzewelle", "Klimaanlage", "Kühlung", "Europa", "Hitze", "Infrastruktur", "Klimawandel", "Klimaanpassung", "Metaadvisor"]
 summary: "Die Zentrale der Europäischen Kommission in Brüssel musste während einer Hitzewelle die Kühlung vom 1. bis 7. Stock des Berlaymont-Gebäudes zwangsweise abschalten. Das geschah, während die Temperaturen in Belgien rund 35,3 °C, in Brüssel etwa 37 °C und in Teilen Europas mehr als 40 °C erreichten. Medienberichten zufolge war das Büro von Kommissionspräsidentin Ursula von der Leyen im 13. Stock nicht von der Abschaltung betroffen."
+categories: ["news"]
 ---
 
 Das Bild ist symbolisch.

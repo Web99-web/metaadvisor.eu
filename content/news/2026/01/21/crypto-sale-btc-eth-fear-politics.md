@@ -15,6 +15,7 @@ image_alt: "Bitcoin under pressure amid political uncertainty and market nervous
 image_credit: "MetaAdvisor / symbolic illustration"
 tags: ["bitcoin","ethereum","crypto market","sale","volatility","politics","davos","geopolitics","war risk","investors","market fear"]
 summary: "Bitcoin has slipped back toward $87,500 while Ethereum trades below $2,900, as political uncertainty and geopolitical tensions weigh heavily on the crypto market."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

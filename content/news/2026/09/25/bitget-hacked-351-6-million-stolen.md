@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitget", "crypto", "hack", "XRP", "Ethereum", "crypto exchanges", "cybersecurity", "wallet", "North Korea"]
 description: "Bitget suffered a security incident worth around $351.6 million. Attackers drained XRP, ETH, stablecoins and other assets, while withdrawals were temporarily suspended."
 summary: "Attackers drained around $351.6 million from Bitget hot and warm wallets, including more than 100 million XRP. The exchange says cold wallets were not affected and users will not bear the losses."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

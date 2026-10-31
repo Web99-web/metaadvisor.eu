@@ -9,6 +9,7 @@ summary: "Citymall, ein E-Commerce-Startup für Lebensmittel in Indiens kleinere
 tags: ["ai","commerce","india","funding","groceries"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/09/Founders-L-to-R-Angad-Kikla-Rahul-Gill-Naisheel-Verdhan.jpg?w=1200"
 image_url_small: "https://techcrunch.com/wp-content/uploads/2025/09/Founders-L-to-R-Angad-Kikla-Rahul-Gill-Naisheel-Verdhan.jpg?w=600"
+categories: ["ai"]
 ---
 
 Das indische E-Commerce-Startup Citymall, das sich auf günstige Lebensmittellieferungen in kleineren Städten (Tier 2 und 3) spezialisiert, hat bekannt gegeben, dass es 47 Millionen Dollar in einer Series-D-Runde eingesammelt hat. Die Runde wurde von Accel angeführt, mit Beteiligung bestehender Investoren wie Waterbridge Ventures, Citius, General Catalyst, Elevation Capital, Norwest Venture Partners und Jungle Ventures.

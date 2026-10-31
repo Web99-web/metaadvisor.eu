@@ -6,15 +6,16 @@ category: "crypto"
 translationKey: "crypto-market-xrp-bitcoin-tether-solana-2026-08-14"
 source: "CoinDesk, Cointelegraph, Tether, KPMG, Solana"
 author: "Metaadvisor.eu"
-image_url: "/images/market-crypto-daily.png"
-featured_image: "/images/market-crypto-daily.png"
-image: "/images/market-crypto-daily.png"
-thumbnail: "/images/market-crypto-daily.png"
+image_url: "/images/market-crypto-daily.webp"
+featured_image: "/images/market-crypto-daily.webp"
+image: "/images/market-crypto-daily.webp"
+thumbnail: "/images/market-crypto-daily.webp"
 image_alt: "Überblick über den Kryptomarkt mit Bitcoin, XRP, Tether und Solana"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Krypto", "Bitcoin", "BTC", "XRP", "Tether", "USDT", "Solana", "SOL", "KPMG", "Kryptomarkt", "ETF", "SEC"]
 description: "Bitcoin ist erneut unter 63.000 Dollar gefallen, XRP bewegt sich um die Marke von einem Dollar, während der Markt zugleich Tethers erstes vollständiges Audit und mögliche Änderungen an Solanas Tokenomics verfolgt."
 summary: "Der Kryptomarkt zeigt am 14. August ein gemischtes Bild: Bitcoin notiert unter 63.000 Dollar und XRP um 1 USD, während Tether erstmals ein vollständiges Audit vorlegt und Solana mögliche Änderungen an der künftigen SOL-Emission diskutiert."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

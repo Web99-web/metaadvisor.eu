@@ -7,14 +7,15 @@ translationKey: "pudgy-penguins-target-trading-cards-nft-brand-pokemon-2026-06-2
 source: "Cointelegraph, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
-featured_image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
-image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
-thumbnail: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
+image_url: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
+featured_image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
+image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
+thumbnail: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
 image_alt: "Pudgy Penguins from NFTs to trading cards"
 image_credit: "Metaadvisor.eu"
 tags: ["Pudgy Penguins", "PENGU", "NFT", "NFT collection", "trading cards", "Target", "Walmart", "Web3", "Web3 gaming", "Pudgy World", "Ethereum", "NFT brand", "collectible cards", "crypto", "blockchain", "digital assets", "Moonbirds", "Orange Cap Games", "consumer brand", "mainstream retail", "retail", "Pokémon", "gaming", "licensing", "Metaadvisor"]
 summary: "Pudgy Penguins is bringing its Vibes Series 3 trading cards to Target stores across the United States. The project, which started as an NFT collection, is now trying to become a mainstream brand through cards, toys, games and physical products."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Symbolic image.</em></p>
@@ -54,7 +55,7 @@ This move with Target cards follows the project’s earlier strategy. Pudgy Peng
   <a href="https://metaadvisor.eu/news/pudgy-penguins-game-web3-gaming-without-crypto/"
      target="_blank"
      rel="noopener">
-    <img src="/images/news/Pudgy-Penguins-game-launched.png"
+    <img src="/images/news/Pudgy-Penguins-game-launched.webp"
          alt="Pudgy Penguins launches its game – a Web3 project trying to feel like a normal game"
          style="max-width:520px; width:85%; height:auto; border-radius:12px;">
   </a>

@@ -9,6 +9,7 @@ summary: "Citymall, e-trgovina fokusirana na dostavu namirnica u indijskim manji
 tags: ["ai","commerce","india","funding","groceries"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/09/Founders-L-to-R-Angad-Kikla-Rahul-Gill-Naisheel-Verdhan.jpg?w=1200"
 image_url_small: "https://techcrunch.com/wp-content/uploads/2025/09/Founders-L-to-R-Angad-Kikla-Rahul-Gill-Naisheel-Verdhan.jpg?w=600"
+categories: ["ai"]
 ---
 
 Indijski startup za e-trgovinu Citymall, koji se fokusira na povoljnu dostavu namirnica u manjim gradovima (tier 2 i tier 3), objavio je da je prikupio 47 milijuna dolara u Seriji D, koju je predvodio fond Accel, uz sudjelovanje postojećih ulagača poput Waterbridge Ventures, Citius, General Catalyst, Elevation Capital, Norwest Venture Partners i Jungle Ventures.

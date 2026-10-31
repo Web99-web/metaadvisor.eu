@@ -13,6 +13,7 @@ image_alt: "BTC/ETH – illustrative market overview"
 image_credit: "Metaadvisor (symbolic image)"
 tags: ["crypto-strategy", "pullback", "trend-follow", "DCA", "ETF-flows", "DXY", "funding", "open-interest", "spot-vs-perps", "risk-management"]
 summary: "Skip the guessing: two practical entry paths—ladder into weakness or buy strength after confirmation—plus hard invalidations and a quick signal compass."
+categories: ["education"]
 ---
 
 **Summary:**  

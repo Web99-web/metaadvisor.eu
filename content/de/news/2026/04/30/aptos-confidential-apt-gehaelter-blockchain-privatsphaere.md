@@ -7,14 +7,15 @@ translationKey: "fae9ff63d50f4a39d51acee9744ce331"
 source: "Metaadvisor (Cointelegraph, Binance Square, KuCoin, MEXC, TradingView)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Salaries-crypto.png"
-featured_image: "/images/Salaries-crypto.png"
-image: "/images/Salaries-crypto.png"
-thumbnail: "/images/Salaries-crypto.png"
+image_url: "/images/Salaries-crypto.webp"
+featured_image: "/images/Salaries-crypto.webp"
+image: "/images/Salaries-crypto.webp"
+thumbnail: "/images/Salaries-crypto.webp"
 image_alt: "Gehälter auf der Blockchain und das Problem der Privatsphäre im Krypto-Bereich"
 image_credit: "Metaadvisor.eu"
 tags: ["aptos", "confidential apt", "krypto", "blockchain", "privatsphäre", "gehälter", "zero knowledge", "zkp", "finanzen", "technologie", "web3", "sicherheit"]
 summary: "Aptos führt Confidential APT ein – eine Lösung, die private Transaktionen auf der Blockchain ermöglicht und das Problem öffentlich sichtbarer Gehälter und Finanzdaten adressiert."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

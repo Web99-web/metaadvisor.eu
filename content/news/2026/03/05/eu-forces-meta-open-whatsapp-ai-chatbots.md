@@ -7,14 +7,15 @@ translationKey: "70ce7371d12f34c9a85e4c7d1a5df3e2"
 author: "TechCrunch"
 source: "TechCrunch and Metaadvisor.eu analysis"
 source_url: ""
-image_url: "/images/Meta-Whatsapp-EU.png"
-featured_image: "/images/Meta-Whatsapp-EU.png"
-image: "/images/Meta-Whatsapp-EU.png"
-thumbnail: "/images/Meta-Whatsapp-EU.png"
+image_url: "/images/Meta-Whatsapp-EU.webp"
+featured_image: "/images/Meta-Whatsapp-EU.webp"
+image: "/images/Meta-Whatsapp-EU.webp"
+thumbnail: "/images/Meta-Whatsapp-EU.webp"
 image_alt: "Meta WhatsApp EU regulation AI chatbots"
 image_credit: "Metaadvisor.eu"
 tags: ["ai","artificial intelligence","meta","whatsapp","eu regulation","digital markets act","european commission","ai chatbot","ai assistants","meta ai","technology","big tech regulation","eu tech law","chatbot platforms","ai market"]
 summary: "The European Union has forced Meta to temporarily allow rival AI chatbots access to WhatsApp. The move follows regulatory pressure from the European Commission and raises broader questions about the future of AI platforms and competition."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

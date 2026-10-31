@@ -7,15 +7,16 @@ translationKey: "hardware-wallet-offline-ipak-ranjiv-2026-08-06"
 source: "Publicly available documentation from hardware wallet manufacturers and security advisories"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Hardware-wallet-risks.png"
-featured_image: "/images/informative/Hardware-wallet-risks.png"
-image: "/images/informative/Hardware-wallet-risks.png"
-thumbnail: "/images/informative/Hardware-wallet-risks.png"
+image_url: "/images/informative/Hardware-wallet-risks.webp"
+featured_image: "/images/informative/Hardware-wallet-risks.webp"
+image: "/images/informative/Hardware-wallet-risks.webp"
+thumbnail: "/images/informative/Hardware-wallet-risks.webp"
 image_alt: "A hardware wallet can remain offline and still be vulnerable because of a weak seed, flawed firmware or human error"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["hardware wallet", "crypto security", "offline wallet", "air-gapped wallet", "seed phrase", "private key", "firmware", "self-custody", "passphrase", "PIN", "multisig", "phishing", "crypto wallet", "backup", "risk management"]
 description: "A hardware wallet can significantly reduce the risk of remote attacks, but offline and air-gapped operation do not protect against weak seeds, flawed firmware or human error."
 summary: "A private key can remain completely offline while the funds are still exposed. Hardware wallet security depends on seed generation, firmware, transaction verification, backup protection and user behavior."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

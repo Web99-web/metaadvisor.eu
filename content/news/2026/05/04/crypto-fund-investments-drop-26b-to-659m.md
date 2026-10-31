@@ -3,7 +3,7 @@ title: "Shock in crypto markets: fund investments fall from $2.6B to $659M"
 slug: "crypto-fund-investments-drop-26b-to-659m"
 date: 2026-05-04T06:00:00+02:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-05-04"
 source: "Metaadvisor (Cointelegraph, CryptoRank, The Block, CoinDesk)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
@@ -15,6 +15,7 @@ image_alt: "Drop in crypto startup funding and capital markets"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto funding", "investment drop", "startup funding", "crypto market", "blockchain investments", "venture capital crypto", "crypto analysis", "financial trends", "crypto capital", "web3 funding"]
 summary: "Fund investments in crypto startups dropped from $2.6 billion in March to just $659 million in April, marking one of the steepest declines in the past two years and signaling a structural shift in the market."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

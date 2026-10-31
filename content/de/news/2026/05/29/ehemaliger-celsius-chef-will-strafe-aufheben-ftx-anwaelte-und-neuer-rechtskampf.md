@@ -7,14 +7,15 @@ translationKey: "439f3786973bf326393cc30c9ba7fdc0"
 source: "Metaadvisor (Cointelegraph, Reuters, DOJ)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Celsius.png"
-featured_image: "/images/Celsius.png"
-image: "/images/Celsius.png"
-thumbnail: "/images/Celsius.png"
+image_url: "/images/Celsius.webp"
+featured_image: "/images/Celsius.webp"
+image: "/images/Celsius.webp"
+thumbnail: "/images/Celsius.webp"
 image_alt: "Celsius, Alex Mashinsky und der Rechtsstreit um den Zusammenbruch der Krypto-Lending-Plattform"
 image_credit: "Metaadvisor.eu"
 tags: ["celsius", "alex mashinsky", "mashinsky", "ftx", "sam bankman-fried", "sbf", "cel token", "celsius network", "crypto lending", "krypto lending", "krypto kredite", "krypto betrug", "marktmanipulation", "market manipulation", "securities fraud", "commodities fraud", "doj", "gerichtsverfahren", "insolvenz", "bankrott", "crypto collapse", "krypto kollaps", "defi", "zentralisierte krypto-plattformen", "crypto regulation", "krypto regulierung", "roni cohen-pavon", "ftx collapse"]
 summary: "Der ehemalige Celsius-Chef Alex Mashinsky will seine 12-jährige Haftstrafe aufheben lassen und behauptet, er habe keine wirksame Verteidigung gehabt. Gleichzeitig bringt er FTX, Sam Bankman-Fried und interne Konflikte bei Celsius wieder in die Geschichte ein."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -6,15 +6,16 @@ category: "AI"
 translationKey: "world-humanoid-robot-games-china-beijing-2026"
 source: "Beijing Municipal Government, CGTN, China Daily, Reuters, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/games/World-humanoid-robot-games-China.png"
-featured_image: "/images/games/World-humanoid-robot-games-China.png"
-image: "/images/games/World-humanoid-robot-games-China.png"
-thumbnail: "/images/games/World-humanoid-robot-games-China.png"
+image_url: "/images/games/World-humanoid-robot-games-China.webp"
+featured_image: "/images/games/World-humanoid-robot-games-China.webp"
+image: "/images/games/World-humanoid-robot-games-China.webp"
+thumbnail: "/images/games/World-humanoid-robot-games-China.webp"
 image_alt: "World Humanoid Robot Games in Beijing from August 22 to 26, 2026"
 image_credit: "Metaadvisor.eu – symbolic image"
 tags: ["humanoid robots", "World Humanoid Robot Games", "China", "Beijing", "robots", "AI", "robotics", "Unitree", "firefighting robots"]
 description: "Beijing will host the second World Humanoid Robot Games from August 22 to 26, with 2,056 robots from 16 countries competing in sports and real-world scenarios including industry, hotels, retail and rescue."
 summary: "The second World Humanoid Robot Games will bring together 666 teams and 2,056 robots from 16 countries. Beyond sport, robots will connect cables, hammer nails, lift loads and tackle real-world tasks."
+categories: ["AI"]
 ---
 
 *Symbolic image.*
@@ -68,7 +69,7 @@ Humanoid robots would currently have enormous difficulty keeping up with a firef
 We recently looked at how AI, drones and robots might help firefighters — and where their limitations remain today. The article includes real footage of firefighters battling a blaze between homes. Could a humanoid robot realistically cope there, or would it stumble on the stairs or simply fail under the heat?
 
 <a href="/news/wildfires-ai-why-are-we-still-losing/" target="_blank" rel="noopener">
-<img src="/images/news/Fire-firefighters-AI-help.png"
+<img src="/images/news/Fire-firefighters-AI-help.webp"
      alt="Wildfires, firefighters and the potential of AI, drones and robots"
      loading="lazy"
      style="width:55%; max-width:500px; height:auto; display:block; margin:1.5rem auto;">
@@ -115,7 +116,7 @@ Before the debut, we had already been following the unusual gap between the offi
 We wrote about it here:
 
 <a href="/news/unitree-robots-ipo-prices-hyperliquid-pre-ipo-16-august-2026/" target="_blank" rel="noopener">
-<img src="/images/companies/Unitree-robots-IPO.png"
+<img src="/images/companies/Unitree-robots-IPO.webp"
      alt="Unitree Robotics IPO and pre-IPO prices"
      loading="lazy"
      style="width:55%; max-width:500px; height:auto; display:block; margin:1.5rem auto;">

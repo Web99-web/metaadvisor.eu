@@ -7,14 +7,15 @@ translationKey: "btc-oil-fed-institutions-april-2026"
 source: "Metaadvisor (Cointelegraph, CoinDesk)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/btc-sideways.png"
-featured_image: "/images/btc-sideways.png"
-image: "/images/btc-sideways.png"
-thumbnail: "/images/btc-sideways.png"
+image_url: "/images/btc-sideways.webp"
+featured_image: "/images/btc-sideways.webp"
+image: "/images/btc-sideways.webp"
+thumbnail: "/images/btc-sideways.webp"
 image_alt: "Bitcoin trading between 75k and 77k as oil prices rise and markets react to global tensions"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "institutional capital", "strategy", "michael saylor", "fed", "oil", "hormuz strait", "geopolitics", "blockchain", "market", "volatility"]
 summary: "Bitcoin trades between $75K and $77K as institutional buying supports the market, while rising oil prices, FED decisions, and geopolitical tensions shape the broader outlook."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

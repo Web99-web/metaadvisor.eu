@@ -12,6 +12,7 @@ image_alt: "Illustration of an AI system used to search for lost dogs"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["ai", "privacy", "cameras", "ring", "artificial intelligence", "security", "technology", "society"]
 summary: "Amazon-owned Ring has expanded its AI-powered system for finding lost dogs to users without Ring cameras. But how does the system actually work, who sees what — and where is the line between useful technology and surveillance?"
+categories: ["news"]
 ---
 
 ## What is Ring — and why many Europeans have never heard of it

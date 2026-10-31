@@ -7,10 +7,10 @@ translationKey: "ethereum_ai_agents_identity_20260130"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/ethereum-ai-agents-ERC-8004.png"
-featured_image: "/images/ethereum-ai-agents-ERC-8004.png"
-image: "/images/ethereum-ai-agents-ERC-8004.png"
-thumbnail: "/images/ethereum-ai-agents-ERC-8004.png"
+image_url: "/images/ethereum-ai-agents-ERC-8004.webp"
+featured_image: "/images/ethereum-ai-agents-ERC-8004.webp"
+image: "/images/ethereum-ai-agents-ERC-8004.webp"
+thumbnail: "/images/ethereum-ai-agents-ERC-8004.webp"
 image_alt: "KI-Agenten mit digitaler Identität auf Ethereum"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -27,6 +27,7 @@ tags:
   - digitale identität
   - reputationssystem
 summary: "Ethereum führt einen neuen Standard ein, der KI-Agenten eine eigene Identität, Reputation und autonome Handlungsfähigkeit verleiht. Damit wird der Weg für KI geebnet, die selbstständig verhandeln, handeln und kooperieren kann."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

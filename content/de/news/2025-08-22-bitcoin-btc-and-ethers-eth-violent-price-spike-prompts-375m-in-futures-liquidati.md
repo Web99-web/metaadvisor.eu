@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/btc-rebounds-2-6-as-eth
 summary: "Bitcoin erholte sich von einer wichtigen Unterstützung, nachdem Powell Zinssenkungen andeutete – 375 Mio. USD Liquidationen, während Ether mit einem Plus von 10% anführte."
 tags: ["bitcoin", "crypto"]
 image: "/news/2025-08-22-bitcoin-btc-and-ethers-eth-violent-price-spike-prompts-375m-in-futures-liquidati.png"
+categories: ["crypto"]
 ---
 
 Bitcoin (BTC) bei **115.766,97 USD** prallte am Freitag von der Unterstützung bei **111.800 USD** ab und stieg nach einer Rede von Fed-Chef Jerome Powell in Jackson Hole, in der er mögliche Zinssenkungen andeutete, um 2,6% auf 114.800 USD.  

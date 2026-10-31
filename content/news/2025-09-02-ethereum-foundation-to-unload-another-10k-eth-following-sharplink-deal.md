@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/tech/2025/09/02/ethereum-foundation-unload
 summary: "The Foundation shared that it plans to sell 10,000 ETH via centralized exchanges over the next several weeks to support work towards research & developments, ecosystem grants and donations."
 tags: ["crypto", "ethereum", "ETH", "solana", "SOL", "treasury", "foundation"]
 image_url: "https://www.coindesk.com/resizer/v2/XQAZ42X5DRDKZES4LFIK73O6RE.jpg?auto=webp&quality=85&width=1200"
+categories: ["crypto"]
 ---
 
 The Ethereum Foundation (EF) shared in a post on X on Tuesday that it plans to sell 10,000 ETH via centralized exchanges over the next several weeks to support work towards research, development, ecosystem grants, and related donations.

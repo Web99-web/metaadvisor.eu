@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/28/trump-administrations-deal-is-str
 summary: "Der Deal ermöglicht es den USA, zusätzliche Anteile an Intel zu übernehmen, falls das Unternehmen weniger als 51 % an seiner Foundry-Sparte hält."
 tags: ["Intel","Trump","CHIPS Act","Halbleiter","Foundry"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/intel-foundry-trump-deal.jpg"
+categories: ["news"]
 ---
 
 Die Trump-Regierung möchte **Intels Entscheidungsspielraum über seine Foundry-Sparte einschränken**.

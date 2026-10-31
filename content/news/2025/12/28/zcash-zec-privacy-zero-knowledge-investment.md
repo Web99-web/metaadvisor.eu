@@ -7,10 +7,10 @@ translationKey: "zcash_privacy_zk_focus_28122025"
 source: "MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Zcash-zec.png"
-featured_image: "/images/Zcash-zec.png"
-image: "/images/Zcash-zec.png"
-thumbnail: "/images/Zcash-zec.png"
+image_url: "/images/Zcash-zec.webp"
+featured_image: "/images/Zcash-zec.webp"
+image: "/images/Zcash-zec.webp"
+thumbnail: "/images/Zcash-zec.webp"
 image_alt: "Zcash ZEC privacy coin visual"
 image_credit: "MetaAdvisor AI-generated"
 tags:
@@ -24,6 +24,7 @@ tags:
   - digital-privacy
   - surveillance
 summary: "Zcash (ZEC) is drawing renewed investor interest as privacy, zero-knowledge technology and regulatory pressure revive demand for privacy-focused crypto assets."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

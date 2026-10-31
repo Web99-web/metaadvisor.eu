@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/24/bitcoin-buy-the-dip-calls-surge-but-liquidity-trends-point-to-usd107k-as-potential-magnet"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "BTC – price drop (symbolic illustration)"
 image_credit: "Metaadvisor.eu (generated graphic)"
 tags:
@@ -30,6 +30,7 @@ tags:
   - volatility
   - technical-analysis
 summary: "BTC slipped below the 50/100-day SMAs as 'buy the dip' chatter spikes, yet a liquidity cluster near $107k (Hyblock) could act as a magnet. Flattening averages and depth concentrations warn of a potential extension lower."
+categories: ["crypto"]
 ---
 
 **TL;DR:** **Bitcoin (BTC)** fell **>3%** this week to around **$111,590**, breaking below the **50-** and **100-day SMAs**. Both have **flattened** for the first time since April — a **caution** signal for bulls. Meanwhile, social chatter around **“buy the dip”** (Santiment) surged — often a **contrarian** hint that the pullback may **deepen**.

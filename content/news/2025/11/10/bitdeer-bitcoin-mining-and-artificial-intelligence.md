@@ -13,6 +13,7 @@ image_alt: "Bitdeer mining and AI"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "mining", "ai", "bitdeer", "investing"]
 summary: "Singapore-based mining firm Bitdeer is expanding beyond Bitcoin into AI computing — despite reporting a major quarterly loss."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

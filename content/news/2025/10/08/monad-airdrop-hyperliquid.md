@@ -16,6 +16,7 @@ image_alt: "Monad airdrop and MON perpetuals on Hyperliquid"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags: ["crypto","hyperliquid","monad","mon","airdrop","perpetuals","perps","DEX","FDV","EVM","l1","trading","derivatives"]
 summary: "Decentralized derivatives exchange Hyperliquid listed MON perpetuals as Monad signals an airdrop, implying a roughly $13B fully diluted valuation."
+categories: ["crypto"]
 ---
 
 **Hyperliquid**, a decentralized derivatives exchange, has listed **MON-USD perpetuals**, enabling long/short exposure to **MON**, the native token of the **Monad** blockchain — **ahead of the expected airdrop**.

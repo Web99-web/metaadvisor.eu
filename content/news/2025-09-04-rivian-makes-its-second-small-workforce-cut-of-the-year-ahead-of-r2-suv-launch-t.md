@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/04/rivian-makes-its-second-small-wor
 summary: "The company previously laid off around 140 workers in its manufacturing division in June."
 tags: ["rivian", "r2 suv", "layoffs", "ev", "electric vehicles", "techcrunch"]
 image_url: "https://images.unsplash.com/photo-1627442200497-6ac5270d3c1d"
+categories: ["news"]
 ---
 
 Rivian is cutting about 150 jobs — its second small workforce reduction in a matter of months — as the company gears up for the critical launch of its more affordable R2 SUV next year.  

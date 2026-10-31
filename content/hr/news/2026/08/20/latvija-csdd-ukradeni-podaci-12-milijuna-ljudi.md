@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["cybersecurity", "Latvia", "CSDD", "data breach", "osobni podaci", "GDPR", "phishing", "Hrvatska"]
 description: "Kibernetički napad na latvijski CSDD izložio je podatke povezane s više od 1,2 milijuna ljudi i 200.000 pravnih osoba. Među ukradenim zapisima nalaze se i povijesni podaci o plaćanjima koji sežu do 2008. godine."
 summary: "Hakeri su iz latvijskog CSDD-a izvukli podatke povezane s više od 1,2 milijuna ljudi. Ukradeni zapisi uključuju osobne identifikacijske brojeve, registracije vozila, adrese i podatke o plaćanjima, a dio podataka seže do 2008. godine."
+categories: ["Cybersecurity"]
 ---
 
 *Slika je simbolična.*

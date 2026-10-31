@@ -7,14 +7,15 @@ translationKey: "polen_eu_mica_crypto_asset_06122025"
 source: "Mehrere Quellen – MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Poland-crypto-MICA.png"
-featured_image: "/images/Poland-crypto-MICA.png"
-image: "/images/Poland-crypto-MICA.png"
-thumbnail: "/images/Poland-crypto-MICA.png"
+image_url: "/images/Poland-crypto-MICA.webp"
+featured_image: "/images/Poland-crypto-MICA.webp"
+image: "/images/Poland-crypto-MICA.webp"
+thumbnail: "/images/Poland-crypto-MICA.webp"
 image_alt: "Polen Krypto MiCA Visual"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["polen", "eu", "mica", "crypto law", "regulierung", "kryptowährungen", "eu regulative", "stablecoins", "banken", "börsen", "blockchain"]
 summary: "Polen hat das Crypto-Asset Market Act blockiert – das nationale Gesetz, das MiCA implementieren sollte. Warum wurde es gestoppt? Wer war dafür, wer dagegen, und was bedeutet das für die Zukunft der EU-Krypto-Regulierung?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

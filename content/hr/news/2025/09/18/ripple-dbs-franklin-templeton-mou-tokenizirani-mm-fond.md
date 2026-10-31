@@ -16,6 +16,7 @@ image_alt: "Tokenizirani fond tržišta novca i stablecoin — ilustrativni graf
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ripple","xrp","xrp-ledger","dbs","franklin-templeton","rlusd","stablecoin","tokenization","money-market-fund","lending","trading","sgBENJI","tradfi-onchain","metaadvisor"]
 summary: "DBS, Franklin Templeton i Ripple potpisali su memorandum o razumijevanju (MOU) kako bi pokrenuli trgovanje i kreditiranje temeljeno na tokeniziranom fondu tržišta novca (sgBENJI) na XRP Ledgeru i stablecoinu Ripple USD (RLUSD)."
+categories: ["news"]
 ---
 
 Tri financijska igrača — **DBS**, **Franklin Templeton** i **Ripple** — potpisala su **MOU** s ciljem da na **XRP Ledger** dovedu **trgovanje i posudbu** temeljene na **tokeniziranom fondu tržišta novca** i **Rippleovu stablecoinu RLUSD**. Franklin Templeton planira tokenizirati svoj **on-chain U.S. dollar short-term money market fund**, dok će **DBS Digital Exchange (DDEx)** listati **sgBENJI** (token fonda) **uz RLUSD**, pa će klijenti moći **rebalansirati** između **stabilnog novčanog toka (MM fond)** i **stablecoina** — i time zarađivati **prinos** čak i u razdobljima veće volatilnosti.

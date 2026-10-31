@@ -8,14 +8,15 @@ source: "CoinDesk / Cointelegraph"
 source_url: "https://www.coindesk.com/ ; https://cointelegraph.com/"
 author: "CoinDesk / Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Binance-regulatory.png"
-featured_image: "/images/Binance-regulatory.png"
-image: "/images/Binance-regulatory.png"
-thumbnail: "/images/Binance-regulatory.png"
+image_url: "/images/Binance-regulatory.webp"
+featured_image: "/images/Binance-regulatory.webp"
+image: "/images/Binance-regulatory.webp"
+thumbnail: "/images/Binance-regulatory.webp"
 image_alt: "Binance regulatory spotlight illustration"
 image_credit: "MetaAdvisor.eu (symbolic image)"
 tags: ["binance", "compliance", "regulation", "crypto", "crypto exchange", "aml", "kyc", "doj", "regulatory spotlight"]
 summary: "Binance has threatened legal action following media reports questioning its internal compliance processes. The dispute highlights broader issues around regulation, transparency and reputational risk in crypto markets."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

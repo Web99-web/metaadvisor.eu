@@ -7,14 +7,15 @@ translationKey: "hype-market-focus-rast-57-usd-2026-05-21"
 source: "Metaadvisor (market data, MarketWatch, WSJ)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/HYPE-up1.png"
-featured_image: "/images/HYPE-up1.png"
-image: "/images/HYPE-up1.png"
-thumbnail: "/images/HYPE-up1.png"
+image_url: "/images/HYPE-up1.webp"
+featured_image: "/images/HYPE-up1.webp"
+image: "/images/HYPE-up1.webp"
+thumbnail: "/images/HYPE-up1.webp"
 image_alt: "Hyperliquid HYPE back in focus on the crypto market after a strong price increase"
 image_credit: "Metaadvisor.eu"
 tags: ["hype", "hyperliquid", "crypto market", "altcoin", "blockchain", "decentralized exchange", "dex", "perpetual futures", "on-chain trading", "synthetic assets", "rwa", "real world assets", "spacex", "pre-ipo", "digital assets", "volatility", "fomo", "market focus", "crypto analysis"]
 summary: "HYPE has once again attracted the crypto market’s attention after rising by around 18% in 24 hours and touching the area around 57 USD. The move is linked to broader interest in Hyperliquid as on-chain trading infrastructure, perpetual futures markets, synthetic assets and new forms of digital price discovery."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

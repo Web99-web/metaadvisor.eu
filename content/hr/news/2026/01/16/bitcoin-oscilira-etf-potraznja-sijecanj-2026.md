@@ -25,6 +25,7 @@ tags:
   - market
   - volatility
 summary: "Bitcoin se sredinom siječnja povukao ispod 100.000 USD, ali snažni ETF inflowi upućuju na moguću promjenu strukture potražnje i jačanje institucionalne uloge."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

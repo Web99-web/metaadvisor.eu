@@ -6,15 +6,16 @@ category: "ai"
 translationKey: "claude-watermark-ai-generated-text-copy-paste-2026-08-13"
 source: "Anthropic, European Commission"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/Claude-watermark-ai-text.png"
-featured_image: "/images/AI-general/Claude-watermark-ai-text.png"
-image: "/images/AI-general/Claude-watermark-ai-text.png"
-thumbnail: "/images/AI-general/Claude-watermark-ai-text.png"
+image_url: "/images/AI-general/Claude-watermark-ai-text.webp"
+featured_image: "/images/AI-general/Claude-watermark-ai-text.webp"
+image: "/images/AI-general/Claude-watermark-ai-text.webp"
+thumbnail: "/images/AI-general/Claude-watermark-ai-text.webp"
 image_alt: "Claude will mark AI-generated text with a machine-readable watermark that can survive copy-paste"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Claude", "Anthropic", "AI", "AI watermark", "AI-generated text", "EU AI Act", "artificial intelligence", "AI transparency", "generative AI", "AI content"]
 description: "Anthropic plans to embed a machine-readable mark in AI-generated text from Claude that can remain present even after copy-paste. The new practice is linked to transparency requirements under the EU AI Act."
 summary: "AI-generated text from Claude will carry an imperceptible machine-readable mark. Simple copy-paste will not necessarily remove it, although substantial editing and rewriting may weaken the signal. The change raises an important question: what happens when AI is not the author, but a collaborator or editorial tool?"
+categories: ["ai"]
 ---
 
 *Image is symbolic.*

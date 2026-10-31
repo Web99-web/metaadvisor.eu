@@ -3,19 +3,20 @@ title: "Der digitale Euro kommt in die reale Welt: Die EZB bereitet Geldautomate
 slug: "digitaler-euro-ezb-geldautomaten-karten-zahlungen-eu"
 date: 2026-03-23T18:30:00+01:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-03-23"
 author: "Cointelegraph / CoinDesk"
 analysis_by: "Metaadvisor.eu"
 source: "Cointelegraph / CoinDesk"
 source_url: ""
-image_url: "/images/Euro-digital.png"
-featured_image: "/images/Euro-digital.png"
-image: "/images/Euro-digital.png"
-thumbnail: "/images/Euro-digital.png"
+image_url: "/images/Euro-digital.webp"
+featured_image: "/images/Euro-digital.webp"
+image: "/images/Euro-digital.webp"
+thumbnail: "/images/Euro-digital.webp"
 image_alt: "Digitaler Euro und EZB-Plan zur Integration in Geldautomaten und Zahlungen"
 image_credit: "MetaAdvisor.eu"
 tags: ["digitaler euro", "ezb", "cbdc", "zahlungen", "geldautomaten", "karten", "eurozone", "finanzen", "crypto", "regulierung"]
 summary: "Die EZB tritt in die Umsetzungsphase des digitalen Euro ein, mit Fokus auf Geldautomaten, Kartenzahlungen und die Nutzung im Alltag in der gesamten Eurozone."
+categories: ["crypto"]
 ---
 
 *Symbolisches Bild.*

@@ -7,10 +7,10 @@ translationKey: "tennessee_stops_sports_prediction_contracts_2026"
 source: "MetaAdvisor analysis (based on CoinDesk and regulatory documents)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Tennessee-vs-sporting-prediction-market.png"
-featured_image: "/images/Tennessee-vs-sporting-prediction-market.png"
-image: "/images/Tennessee-vs-sporting-prediction-market.png"
-thumbnail: "/images/Tennessee-vs-sporting-prediction-market.png"
+image_url: "/images/Tennessee-vs-sporting-prediction-market.webp"
+featured_image: "/images/Tennessee-vs-sporting-prediction-market.webp"
+image: "/images/Tennessee-vs-sporting-prediction-market.webp"
+thumbnail: "/images/Tennessee-vs-sporting-prediction-market.webp"
 image_alt: "Tennessee regulator halts sports contracts on crypto prediction markets"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - polymarket
   - crypto_com
 summary: "The U.S. state of Tennessee has ordered a halt to sports-related contracts on crypto-based prediction markets such as Kalshi, Polymarket, and Crypto.com, raising questions about where financial innovation ends and traditional sports betting begins."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

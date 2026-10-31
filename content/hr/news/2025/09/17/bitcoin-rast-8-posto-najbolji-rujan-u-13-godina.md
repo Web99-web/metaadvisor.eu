@@ -16,6 +16,7 @@ image_alt: "Bitcoin — tržišni rast u rujnu"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitcoin","sezonalnost","trzista","metaadvisor"]
 summary: "Bitcoin je u rujnu porastao oko 8% i na putu je da zabilježi najbolji rujan od 2012., prkoseći povijesno slabijoj sezoni za BTC. Do ‘najboljeg ikad’ trebalo bi još približno 20% rasta do kraja mjeseca."
+categories: ["crypto"]
 ---
 
 **BTC je u rujnu porastao ~8%**, što ovaj mjesec stavlja na **najbolji rujan od 2012.** — izuzetak u odnosu na povijesni obrazac u kojem je rujan često bio slab za Bitcoin. Ovaj ciklus tako dodatno odstupa od prijašnjih sezonalnih pravila. :contentReference[oaicite:0]{index=0}

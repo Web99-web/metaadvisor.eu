@@ -15,6 +15,7 @@ image_alt: "Bitcoin i globalno usvajanje kriptovaluta"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "kripto", "danska", "crypto adoption", "europa", "financije", "blockchain", "tržište"]
 summary: "Samo 4% građana Danske drži kriptovalute prema podacima središnje banke, unatoč globalnom rastu digitalne imovine."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

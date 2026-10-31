@@ -7,14 +7,15 @@ translationKey: "silver_investor_focus_20260123"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/silver.png"
-featured_image: "/images/silver.png"
-image: "/images/silver.png"
-thumbnail: "/images/silver.png"
+image_url: "/images/silver.webp"
+featured_image: "/images/silver.webp"
+image: "/images/silver.webp"
+thumbnail: "/images/silver.webp"
 image_alt: "Silber durchbricht erstmals die 100-Dollar-Marke"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Silber hat erstmals die Marke von 100 US-Dollar überschritten und rückt damit erneut in den Fokus von Investoren, die jenseits von Gold nach realen Werten suchen."
 tags: ["silber", "silver", "edelmetalle", "märkte", "inflation", "investoren", "energiewende", "industrie"]
+categories: ["markets"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -15,6 +15,7 @@ image_alt: "Schüler nutzen künstliche Intelligenz im Bildungsbereich"
 image_credit: "MetaAdvisor.eu"
 tags: ["künstliche intelligenz", "ai", "bildung", "schüler", "schulen", "technologie", "kritisches denken", "digitale gesellschaft", "soziale medien"]
 summary: "Eine Studie in England zeigt, dass Schüler durch KI-Tools grundlegende Fähigkeiten wie Schreiben und kritisches Denken verlieren, während gleichzeitig ihre Abhängigkeit von digitalen Plattformen wächst."
+categories: ["ai"]
 ---
 
 Bild ist symbolisch.

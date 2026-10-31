@@ -15,6 +15,7 @@ image_alt: "ARK Invest prodaje Coinbase i preusmjerava kapital u Bullish"
 image_credit: "MetaAdvisor.eu"
 tags: ["ark invest", "cathie wood", "coinbase", "bullish", "crypto equities", "bitcoin", "kripto tržište", "investicijska strategija"]
 summary: "ARK Invest je prodao Coinbase dionice u vrijednosti od 17 milijuna USD i gotovo isti iznos preusmjerio u Bullish, signalizirajući promjenu strategije u jeku snažnog pada kripto tržišta."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

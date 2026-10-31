@@ -3,7 +3,7 @@ title: "What happened in crypto today"
 slug: "what-happened-in-crypto-today"
 date: 2025-10-03T22:34:56Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-10-03"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
@@ -32,6 +32,8 @@ tags:
   - regulation
   - market
 summary: "Daily recap: Samsung and Coinbase expand crypto access; Unity fixes Android wallet vulnerability; altcoin ETFs face decisive October; hack losses down 37% in Q3; stablecoins surpass $300B; FDIC reviews 'reputation risk' rules."
+categories: ["crypto"]
+url: "/news/what-happened-in-crypto-today-2025-10-03/"
 ---
 
 **Quick overview:** Today’s highlights include **Samsung × Coinbase integration**, a Unity patch for **Android wallet security**, **altcoin ETF deadlines**, declining **hack losses in Q3**, and **stablecoins breaking $300B**.

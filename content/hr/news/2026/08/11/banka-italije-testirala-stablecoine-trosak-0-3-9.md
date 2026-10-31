@@ -7,15 +7,16 @@ translationKey: "banka-italije-testirala-stablecoine-trosak-2026-08-12"
 source: "Banca d’Italia, World Bank i javno dostupni izvještaji o istraživanju"
 source_url: "https://www.bancaditalia.it/pubblicazioni/interventi-governatore/integov2026/20260505-panetta/index.html?com.dotmarketing.htmlpage.language=1"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
-featured_image: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
-image: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
-thumbnail: "/images/informative/Bank-of-Italy-tested-stablecoins.png"
+image_url: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
+featured_image: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
+image: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
+thumbnail: "/images/informative/Bank-of-Italy-tested-stablecoins.webp"
 image_alt: "Banka Italije testirala troškove stablecoin doznaka od 0,3 do gotovo 9 posto"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["stablecoin", "stablecoini", "USDC", "Banka Italije", "Banca d’Italia", "doznake", "prekogranična plaćanja", "blockchain", "fiat", "on-ramp", "off-ramp", "Wise", "World Bank", "kripto", "digitalna plaćanja"]
 description: "Banka Italije testirala je stvarne USDC doznake. Ukupni trošak kretao se od 0,3% do gotovo 9%, a najveći dio troška nije nastajao na blockchainu nego pri pretvaranju između stablecoina i običnog novca."
 summary: "Istraživači Banke Italije testirali su transfere od 200 USDC između Italije i pet država. Stablecoini su u većini koridora bili jeftiniji od globalnog prosjeka za doznake, ali samo u dijelu usporedivih ruta jeftiniji od Wisea. Najveći troškovi i kašnjenja nastajali su pri ulasku i izlasku iz kripta, a ne na samom blockchainu."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -15,6 +15,7 @@ image_alt: "TikTok aplikacija – simbolična ilustracija"
 image_credit: "MetaAdvisor.eu"
 tags: ["tiktok", "društvene mreže", "kvar", "pad aplikacije", "algoritam", "usa", "tehnologija", "platforme"]
 summary: "Tisuće korisnika u SAD-u prijavilo je neobično ponašanje TikToka, što je potaknulo strah da je popularna platforma privremeno pala ili ozbiljno poremećena."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

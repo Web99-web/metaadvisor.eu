@@ -15,6 +15,7 @@ image_alt: "Crypto fraud and arrests in Paraguay"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "hack", "fraud", "cybercrime", "paraguay", "money mule", "security", "bitcoin"]
 summary: "Police in Paraguay dismantled a network of young individuals involved in a $1.2 million crypto fraud scheme using a system of hundreds of intermediaries."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

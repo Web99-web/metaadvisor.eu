@@ -9,6 +9,7 @@ summary: "TechCrunch Disrupt nije samo o startupima sutrašnjice — već i o na
 tags: ["ai"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/TC25_Disrupt_General_Article_No-Anniversary-at-all_Headers_1920x1080.png?w=1024"
 image: "https://techcrunch.com/wp-content/uploads/2025/08/TC25_Disrupt_General_Article_No-Anniversary-at-all_Headers_1920x1080.png?w=1024"
+categories: ["ai"]
 ---
 
 TechCrunch Disrupt nije samo predstavljanje startupova sutrašnjice — riječ je i o isticanju najodvažnijih ideja koje oblikuju tehnologiju danas. Zahvaljujući partnerima JetBrains i Greenfield, program **TechCrunch Disrupt 2025** (27.–29. listopada u Moscone Westu, San Francisco) donosi dvije sesije u kojima AI dolazi u prvi plan.

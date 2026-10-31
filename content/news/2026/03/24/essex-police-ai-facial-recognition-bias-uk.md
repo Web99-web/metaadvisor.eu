@@ -7,14 +7,15 @@ translationKey: "015ec2b97f4cbed3c1fa2835a973e9e1"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (The Guardian, Cambridge study, ICO)"
 source_url: ""
-image_url: "/images/AI-police.png"
-featured_image: "/images/AI-police.png"
-image: "/images/AI-police.png"
-thumbnail: "/images/AI-police.png"
+image_url: "/images/AI-police.webp"
+featured_image: "/images/AI-police.webp"
+image: "/images/AI-police.webp"
+thumbnail: "/images/AI-police.webp"
 image_alt: "AI facial recognition system used by police"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "police", "facial recognition", "bias", "uk", "security", "technology", "regulation"]
 summary: "Essex police pause the use of AI facial recognition systems after a study suggests differences in identification across ethnic groups."
+categories: ["news"]
 ---
 
 *Image is symbolic.*

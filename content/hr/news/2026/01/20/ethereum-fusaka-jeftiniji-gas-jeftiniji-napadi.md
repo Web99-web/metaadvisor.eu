@@ -7,14 +7,15 @@ translationKey: "ethereum_fusaka_cheaper_gas_attacks_20260120"
 source: "Cointelegraph / MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/eth-fusaka.png"
-featured_image: "/images/eth-fusaka.png"
-image: "/images/eth-fusaka.png"
-thumbnail: "/images/eth-fusaka.png"
+image_url: "/images/eth-fusaka.webp"
+featured_image: "/images/eth-fusaka.webp"
+image: "/images/eth-fusaka.webp"
+thumbnail: "/images/eth-fusaka.webp"
 image_alt: "Ethereum mreža nakon Fusaka nadogradnje i porast sigurnosnih napada"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags: ["ethereum","fusaka","gas","naknade","sigurnost","prijevare","address poisoning","kripto napadi","onchain podaci","wallet sigurnost","blockchain"]
 summary: "Nakon Ethereumove Fusaka nadogradnje i snažnog pada mrežnih naknada, bilježi se rast tzv. address poisoning napada, koji iskorištavaju jeftiniji gas i nepažnju korisnika."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

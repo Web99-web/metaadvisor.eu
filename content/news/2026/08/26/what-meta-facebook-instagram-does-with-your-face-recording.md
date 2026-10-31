@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "what-meta-does-with-your-face-recording-2026-08-26"
 source: "Meta, Facebook Help Center, Instagram Help Center, Yoti, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-face-recording.png"
-featured_image: "/images/Meta/Meta-face-recording.png"
-image: "/images/Meta/Meta-face-recording.png"
-thumbnail: "/images/Meta/Meta-face-recording.png"
+image_url: "/images/Meta/Meta-face-recording.webp"
+featured_image: "/images/Meta/Meta-face-recording.webp"
+image: "/images/Meta/Meta-face-recording.webp"
+thumbnail: "/images/Meta/Meta-face-recording.webp"
 image_alt: "What Meta does with your face recording during video selfie and identity verification checks"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Meta", "Facebook", "Instagram", "facial recognition", "video selfie", "face recording", "biometrics", "biometric data", "privacy", "GDPR", "Yoti", "AI", "identity verification", "account recovery", "age verification"]
 description: "Meta is once again using faces for identity verification, account recovery and age estimation. Who processes the video selfie, how long is it stored, and do derived data remain after deletion?"
 summary: "Meta uses several different systems that analyse faces: facial recognition for identity verification, AI age estimation and various video-selfie procedures. Some recordings are also processed by an external company. The key question remains what happens to the original video and the data derived from it."
+categories: ["Technology"]
 ---
 
 *Image is symbolic.*
@@ -115,7 +116,7 @@ For a blocked user, there is another practical problem: sometimes it is difficul
 
 When login access, the Help Center and automated procedures are closed, when no clear answer is available about why an account was blocked or about GDPR questions concerning a face recording, and every attempt leads in circles, one remaining option can look almost absurdly old-fashioned for one of the world's largest technology companies: **paper, an envelope and registered mail**. We wrote about that here:
 <a href="ENGLISH-INTERNAL-LINK-HERE" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-Meta-address-for-registered-mail.png"
+<img src="/images/Meta/Facebook-Meta-address-for-registered-mail.webp"
      alt="Meta address for sending registered mail after a Facebook account is blocked"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

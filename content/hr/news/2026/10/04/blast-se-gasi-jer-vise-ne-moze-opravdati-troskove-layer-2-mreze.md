@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Blast", "Ethereum", "Layer 2", "L2", "crypto", "blockchain", "DeFi", "TVL", "airdrop", "Ethereum scaling"]
 description: "Ethereum Layer-2 mreža Blast gasi se nakon što su operativni troškovi premašili prihode. Projekt je nekoć privukao više od 2 milijarde dolara kapitala."
 summary: "Blast je nekoć bio jedna od najbrže rastućih Ethereum Layer-2 mreža, s više od 2 milijarde dolara kapitala i snažnim airdrop hypeom. Sada se gasi jer troškovi rada premašuju prihode, otvarajući šire pitanje održivosti sve većeg broja L2 mreža."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

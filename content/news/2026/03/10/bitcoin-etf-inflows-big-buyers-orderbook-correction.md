@@ -16,6 +16,7 @@ image_alt: "Bitcoin market ETF flows orderbook analysis"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["bitcoin", "btc", "crypto", "bitcoin etf", "spot etf", "crypto funds", "institutional investors", "otc trading", "orderbook", "crypto market", "bitcoin price", "tradfi", "defi", "bitcoin analysis"]
 summary: "Bitcoin is again approaching the $70,000 level as capital flows back into Bitcoin ETFs. At the same time large buyers and OTC trades are stabilizing the market during an oil shock, while orderbook data signals potential selling pressure."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

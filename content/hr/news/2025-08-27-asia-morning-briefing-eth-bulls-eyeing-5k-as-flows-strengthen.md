@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/27/asia-morning-briefing-e
 summary: "Ethereumovo nadmašivanje bitcoina potaknuto je institucionalnim tokovima, novim altcoin narativima i rastućim izgledima za test od 5.000 $, dok će makro podaci sada izazvati to uvjerenje."
 tags: ["crypto","ETH","BTC","XRP","CRO","HYPE"]
 image_url: "https://www.coindesk.com/resizer/asia-eth-bulls.jpg"
+categories: ["crypto"]
 ---
 
 Dobrodošli u Azijsko jutarnje izvješće, dnevni sažetak glavnih vijesti tijekom američkih sati i pregled kretanja na tržištu i analiza. Za detaljan pregled američkih tržišta pogledajte CoinDesk-ov Crypto Daybook Americas.

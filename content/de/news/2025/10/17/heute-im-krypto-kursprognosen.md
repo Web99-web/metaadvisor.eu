@@ -14,6 +14,7 @@ image_alt: "Illustration des Kryptomarkts"
 image_credit: "Symbolbild"
 tags: ["krypto","crypto","bitcoin","btc","ethereum","eth","bnb","xrp","sol","doge","ada","hype","link","xlm","prognose","technische-analyse"]
 summary: "Täglicher Überblick über Schlüsselzonen und technische Signale der wichtigsten Coins (17.10.). Fokus auf Bitcoin und seinen Einfluss auf Altcoins."
+categories: ["crypto"]
 ---
 
 {{< cta href="/go/mexc" text="👉 Traden auf MEXC" >}}

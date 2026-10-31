@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: ""
 source_link: false
 author: "Metaadvisor.eu"
-image_url: "/images/DAT-digital-asset-treasuries.png"
-featured_image: "/images/DAT-digital-asset-treasuries.png"
-image: "/images/DAT-digital-asset-treasuries.png"
-thumbnail: "/images/DAT-digital-asset-treasuries.png"
+image_url: "/images/DAT-digital-asset-treasuries.webp"
+featured_image: "/images/DAT-digital-asset-treasuries.webp"
+image: "/images/DAT-digital-asset-treasuries.webp"
+thumbnail: "/images/DAT-digital-asset-treasuries.webp"
 image_alt: "Digital Asset Treasuries (DAT) and tokenized equities — symbolic"
 image_credit: "Metaadvisor.eu (symbolic photo)"
 tags:
@@ -38,6 +38,7 @@ tags:
   - compliance
   - volatility
 summary: "When DAT companies tokenize their shares, a new risk layer lands on top of crypto treasuries: 24/7 on-chain trading, legal mappings and smart-contract risk. We map the risks and practical mitigations."
+categories: ["crypto"]
 ---
 
 **Summary**  

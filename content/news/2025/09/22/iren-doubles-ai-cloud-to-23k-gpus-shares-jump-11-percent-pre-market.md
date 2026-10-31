@@ -16,6 +16,7 @@ image_alt: "Equities and AI — symbolic illustration"
 image_credit: "Metaadvisor image_map (symbolic image)"
 tags: ["IREN","AI-cloud","GPU","NVIDIA","B200","B300","GB300","H100","H200","AMD","MI350X","Blackwell","Prince-George","Texas","data-centers","capacity","run-rate","500M-USD","pre-market","stock","bitcoin-mining","50-EHs","diversification","capex","hyperscaler","enterprise-clients","compute"]
 summary: "Former pure-play bitcoin miner IREN is scaling into AI compute: fleet to 23,000 GPUs and an annualized run-rate target >$500M by Q1/2026. Shares up ~11% pre-market."
+categories: ["ai"]
 ---
 
 **Summary:**  

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/chainlink-s-link-rallie
 summary: "Der native Token des Oracle-Netzwerks durchbrach Widerstände und erreichte den höchsten Stand seit Dezember."
 tags: ["ai", "link", "chainlink", "crypto"]
 image: "/news/2025-08-22-chainlink-link-price-news-rallies-12-to-new-2025-highs.png"
+categories: ["ai"]
 ---
 
 Der native Token des **Oracle-Netzwerks Chainlink (LINK)** erholte sich stark zusammen mit dem breiteren Kryptomarkt, nachdem Fed-Chef Jerome Powell in Jackson Hole, Wyoming, eine eher *dovish* Haltung signalisierte.  

@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "tokenized-stocks-ownership-spv-perpetual-paper-crisis-2026-08-31"
 source: "CoinDesk, Fairmint, SEC, DTCC, xStocks, Ondo Finance, Robinhood, Hyperliquid, Republic, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.png"
-featured_image: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.png"
-image: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.png"
-thumbnail: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.png"
+image_url: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.webp"
+featured_image: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.webp"
+image: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.webp"
+thumbnail: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.webp"
 image_alt: "Razlika između stvarnih dionica, tokeniziranih dionica, SPV struktura, derivativa i perpetual ugovora"
 image_credit: "Metaadvisor.eu – informativna ilustracija"
 tags: ["tokenized stocks", "tokenizirane dionice", "paperwork crisis", "RWA", "SPV", "perpetual", "Hyperliquid", "xStocks", "Ondo", "Robinhood", "Fairmint", "blockchain"]
 description: "Tokenizirane dionice mogu izgledati gotovo identično na ekranu, ali iza njih mogu stajati stvarne dionice, SPV strukture, derivativi ili perpetual ugovori. Fairmint upozorava na mogućnost nove digitalne 'paperwork crisis'."
 summary: "Wall Street je 1968. morao skraćivati trgovanje i zatvarati burze kako bi stigao obraditi papirologiju. Danas Fairmint upozorava da bi tokenizirane dionice mogle stvoriti digitalnu verziju istog problema: mnogo različitih evidencija i proizvoda koji predstavljaju istu imovinu."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

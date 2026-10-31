@@ -15,6 +15,7 @@ image_alt: "Illustration of Bitcoin price outlook around the $58,000 key level"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["bitcoin", "btc", "crypto", "etf", "liquidity", "market", "altcoins", "hype", "hyperliquid"]
 summary: "After the recent sell-off, attention is shifting to the $58,000 area — a level that has historically acted as a long-term support. The market’s reaction here could shape the direction of crypto in the months ahead."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

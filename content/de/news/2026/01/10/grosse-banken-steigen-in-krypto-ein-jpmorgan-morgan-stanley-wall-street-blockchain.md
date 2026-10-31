@@ -7,10 +7,10 @@ translationKey: "b82f69129658c5ee775f982d234131e4"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/wall-street-banks-crypto-etfs-tokenized-cash"
 author: "MetaAdvisor.eu"
-image_url: "/images/Banks-entering-crypto.png"
-featured_image: "/images/Banks-entering-crypto.png"
-image: "/images/Banks-entering-crypto.png"
-thumbnail: "/images/Banks-entering-crypto.png"
+image_url: "/images/Banks-entering-crypto.webp"
+featured_image: "/images/Banks-entering-crypto.webp"
+image: "/images/Banks-entering-crypto.webp"
+thumbnail: "/images/Banks-entering-crypto.webp"
 image_alt: "Große Banken der Wall Street integrieren Krypto und Blockchain-Technologie"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -27,6 +27,7 @@ tags:
   - etf
   - digitale-vermoegenswerte
 summary: "Große Wall-Street-Banken diskutieren Krypto nicht mehr – sie bauen aktiv Infrastruktur. JPMorgan, Morgan Stanley, Barclays und Bank of America integrieren digitale Vermögenswerte über Blockchain, ETFs und tokenisiertes Geld."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

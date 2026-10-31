@@ -7,15 +7,16 @@ translationKey: "oil-rises-markets-fall-inflation-rates-2026-09-10"
 source: "Reuters, AP, MarketWatch, CoinGecko, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "WTI- und Brent-Öl steigen kräftig, während Aktien, Technologie, Kryptowährungen und Metalle fallen"
 image_credit: "Metaadvisor.eu"
 tags: ["Öl", "Brent", "WTI", "Märkte", "Aktien", "Wall Street", "Technologieaktien", "Künstliche Intelligenz", "Halbleiter", "Bitcoin", "Kryptowährungen", "Gold", "Silber", "Platin", "Inflation", "Fed", "Anleihen", "Zinsen", "Energie"]
 description: "Brent ist über 107 Dollar und WTI über 102 Dollar gestiegen, während gleichzeitig Wall Street, Technologieaktien, Kryptowährungen und Edelmetalle fallen. Wir zeigen, wohin Kapital derzeit fließt und aus welchen Bereichen es abgezogen wird."
 summary: "Öl gehört am 10. September zu den wenigen großen Marktsegmenten mit deutlichen Gewinnen. Brent und WTI steigen um mehr als 6%, während höhere Inflationserwartungen und steigende US-Anleiherenditen Aktien, KI- und Technologiesektor, Kryptowährungen, Gold, Silber und Platin belasten."
+categories: ["Markets"]
 ---
 
 *Das Bild dient zur Illustration.*

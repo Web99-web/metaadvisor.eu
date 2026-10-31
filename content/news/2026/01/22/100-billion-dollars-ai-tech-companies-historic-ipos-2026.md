@@ -7,14 +7,15 @@ translationKey: "ed4d5ac0235b392e657e8f27cfd400a9"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/business/2026/jan/22/the-year-of-the-hectocorn-the-100bn-tech-companies-that-could-float-in-2026"
 author: "MetaAdvisor.eu"
-image_url: "/images/IPO-100-billion-dollars.png"
-featured_image: "/images/IPO-100-billion-dollars.png"
-image: "/images/IPO-100-billion-dollars.png"
-thumbnail: "/images/IPO-100-billion-dollars.png"
+image_url: "/images/IPO-100-billion-dollars.webp"
+featured_image: "/images/IPO-100-billion-dollars.webp"
+image: "/images/IPO-100-billion-dollars.webp"
+thumbnail: "/images/IPO-100-billion-dollars.webp"
 image_alt: "AI and technology companies preparing historic IPOs with valuations above 100 billion dollars"
 image_credit: "MetaAdvisor.eu / symbolic illustration"
 summary: "2026 could become a turning point for capital markets as multiple AI and tech companies prepare IPOs with valuations exceeding 100 billion dollars."
 tags: ["ipo", "ai", "artificial intelligence", "technology companies", "stock market", "capital markets", "100 billion dollars", "openai", "anthropic", "spacex", "stripe", "nasdaq", "nyse", "tech ipo"]
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

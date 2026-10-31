@@ -15,6 +15,7 @@ image_alt: "DeepSeek V4 KI-Modell im Vergleich zu ChatGPT und Claude"
 image_credit: "Metaadvisor / Illustration"
 tags: ["ai","deepseek","künstliche intelligenz","chatgpt","claude","open source","technologie","ki modelle"]
 summary: "DeepSeek V4 bringt 1M Context und einen offenen Ansatz, der mit Modellen wie ChatGPT und Claude konkurrieren könnte. Doch was bedeutet das konkret für Nutzer und Entwickler?"
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

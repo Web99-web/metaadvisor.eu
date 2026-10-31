@@ -7,14 +7,15 @@ translationKey: "8039b7fb4727c7fa6b526c4a36f62bf8"
 author: "Metaadvisor.eu"
 source: "Cointelegraph i Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/AI-program-prevented-xrp-ledger-mistake.png"
-featured_image: "/images/AI-program-prevented-xrp-ledger-mistake.png"
-image: "/images/AI-program-prevented-xrp-ledger-mistake.png"
-thumbnail: "/images/AI-program-prevented-xrp-ledger-mistake.png"
+image_url: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
+featured_image: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
+image: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
+thumbnail: "/images/AI-program-prevented-xrp-ledger-mistake.webp"
 image_alt: "AI sigurnosni sustav sprječava potencijalni napad na XRP Ledger"
 image_credit: "MetaAdvisor ilustracija (simbolična)"
 tags: ["ai", "umjetna inteligencija", "xrp", "xrpl", "blockchain", "kripto", "sigurnost", "cybersecurity", "ledger", "token"]
 summary: "Autonomni AI sigurnosni alat otkrio je kritičnu logičku ranjivost u XRP Ledgeru tijekom faze glasanja te spriječio potencijalni napad koji je mogao ugroziti milijarde dolara vrijednosti."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

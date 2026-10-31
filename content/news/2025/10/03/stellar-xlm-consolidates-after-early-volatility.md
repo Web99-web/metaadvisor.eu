@@ -24,6 +24,7 @@ tags:
   - volatility
   - altcoin
 summary: "XLM spiked to $0.4041 on Oct. 3 before sliding back to $0.4015. One-minute volume above 1.4M tokens suggests selling at resistance. Bitcoin.com Wallet integration broadens XLM’s payments reach."
+categories: ["news"]
 ---
 
 **XLM (Stellar)** saw sharp swings on **Oct. 3**. After briefly touching **$0.4041**, price retreated to around **$0.4015** after **14:00 UTC**, wiping earlier gains.  

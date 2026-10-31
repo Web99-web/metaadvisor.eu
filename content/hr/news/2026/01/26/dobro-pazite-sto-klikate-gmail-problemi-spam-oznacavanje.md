@@ -15,6 +15,7 @@ image_alt: "Ilustracija Gmail inboxa i sigurnosnih upozorenja"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Google je potvrdio probleme s Gmailom zbog kojih su legitimni mailovi završavali u spamu, dok su sumnjive poruke ulazile u glavni inbox. Korisnicima se savjetuje poseban oprez jer automatizirani sustavi za filtriranje nisu uvijek pouzdani."
 tags: ["gmail", "google", "email", "sigurnost", "spam", "phishing", "cyber sigurnost", "ai", "tehnologija", "internet sigurnost"]
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

@@ -7,14 +7,15 @@ translationKey: "bitcoin-etf-capitulation-record-volume-outflows-2026-02-06"
 source: "CoinDesk / Cointelegraph"
 source_url: "https://www.coindesk.com/markets/2026/02/06/blackrock-s-bitcoin-etf-hits-usd10-billion-volume-record-hinting-at-capitulation"
 author: "MetaAdvisor.eu"
-image_url: "/images/btc-etf-down1.png"
-featured_image: "/images/btc-etf-down1.png"
-image: "/images/btc-etf-down1.png"
-thumbnail: "/images/btc-etf-down1.png"
+image_url: "/images/btc-etf-down1.webp"
+featured_image: "/images/btc-etf-down1.webp"
+image: "/images/btc-etf-down1.webp"
+thumbnail: "/images/btc-etf-down1.webp"
 image_alt: "Bitcoin ETFs show capitulation with record trading volume and heavy outflows"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "bitcoin etf", "ibit", "blackrock", "crypto market", "capitulation", "institutional investors", "btc crash"]
 summary: "Bitcoin’s slide toward $60,000 was accompanied by record trading volume and massive outflows from Bitcoin ETFs — a classic signal of institutional capitulation."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

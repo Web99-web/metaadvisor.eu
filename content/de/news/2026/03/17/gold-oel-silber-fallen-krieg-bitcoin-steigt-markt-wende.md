@@ -7,14 +7,15 @@ translationKey: "commodities-btc-shift-2026"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/gold-silver-oil-down.png"
-featured_image: "/images/gold-silver-oil-down.png"
-image: "/images/gold-silver-oil-down.png"
-thumbnail: "/images/gold-silver-oil-down.png"
+image_url: "/images/gold-silver-oil-down.webp"
+featured_image: "/images/gold-silver-oil-down.webp"
+image: "/images/gold-silver-oil-down.webp"
+thumbnail: "/images/gold-silver-oil-down.webp"
 image_alt: "Gold, Öl und Silber fallen, während Bitcoin steigt"
 tags: ["krypto", "bitcoin", "gold", "öl", "silber", "krieg", "analyse", "markt", "investoren"]
 summary: "Während geopolitische Spannungen zunehmen, fallen Gold, Öl und Silber, während Bitcoin steigt. Der Markt sendet widersprüchliche Signale — ist das der Beginn eines Wandels oder nur eine kurzfristige Anomalie?"
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

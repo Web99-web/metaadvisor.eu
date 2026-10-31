@@ -7,14 +7,15 @@ translationKey: "aptos_post_quantum_bitcoin_risk_18122025"
 source: "MetaAdvisor analiza — na temelju izvještaja Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Aptos-cryptography.png"
-featured_image: "/images/Aptos-cryptography.png"
-image: "/images/Aptos-cryptography.png"
-thumbnail: "/images/Aptos-cryptography.png"
+image_url: "/images/Aptos-cryptography.webp"
+featured_image: "/images/Aptos-cryptography.webp"
+image: "/images/Aptos-cryptography.webp"
+thumbnail: "/images/Aptos-cryptography.webp"
 image_alt: "Aptos post-kvantna sigurnost"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["aptos","bitcoin","kvantna računala","post-kvantna sigurnost","blockchain","kriptografija","sigurnost","pqc","web3","tehnologija","kriptovalute","investicije","analiza"]
 summary: "Aptos uvodi post-kvantnu kriptografiju — sigurnosni sustav dizajniran da zaštiti blockchain čak i ako kvantna računala jednog dana postanu dovoljno snažna da razbiju Bitcoinovu enkripciju."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

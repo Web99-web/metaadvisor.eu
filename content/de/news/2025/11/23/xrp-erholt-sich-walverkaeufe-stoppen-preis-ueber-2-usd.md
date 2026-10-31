@@ -12,6 +12,7 @@ image: "/images/xrp.png"
 thumbnail: "/images/xrp.png"
 summary: "XRP stabilisiert sich nach dem gestrigen Wal-Ausverkauf, während Bitcoin bei 86.600 USD seitwärts läuft."
 tags: ["xrp", "krypto", "markt", "analyse", "bitcoin"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

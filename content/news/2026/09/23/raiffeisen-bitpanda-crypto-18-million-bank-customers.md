@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Raiffeisen", "RBI", "Bitpanda", "crypto", "Bitcoin", "digital assets", "banks", "fintech", "Austria", "Europe", "MiCA", "banking"]
 description: "Raiffeisen Bank International and Bitpanda are expanding their partnership at group level. Bitpanda's infrastructure could enable crypto services across RBI's banking network, which serves around 18 million customers."
 summary: "Raiffeisen Bank International is moving from a local crypto project to a group-wide framework with Bitpanda. Banks across the RBI network will be able to gradually introduce digital asset services, while the partnership's potential reach is around 18 million banking customers."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

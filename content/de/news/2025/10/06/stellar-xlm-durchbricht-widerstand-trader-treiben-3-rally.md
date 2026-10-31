@@ -16,6 +16,7 @@ image_alt: "Stellar (XLM) Kursbewegung – Illustration"
 image_credit: "Metaadvisor.eu — symbolische Darstellung"
 tags: ["crypto", "Stellar", "XLM", "payments", "Remittances", "Institutionen", "Liquidität", "Widerstand", "SCP", "XRP", "XRP-Ledger"]
 summary: "Stellar Lumens (XLM) legte ca. 3% zu und brach wichtigen Widerstand, gestützt durch institutionelle Nachfrage und den Enterprise-Payments-Use-Case."
+categories: ["news"]
 ---
 
 **Stellar Lumens (XLM)** stieg über **23 Stunden** bis **6. Oktober** um **~3%** von **$0,40** auf **$0,41**, während das institutionelle Handelsvolumen **>71 Mio. XLM** erreichte. Nach einem Rebound bei **$0,39** kauften Trader während der Peak-Stunden durch den Widerstand. Das Halten **über $0,41** – zuvor Deckel – signalisiert **anhaltende Akkumulation** und Vertrauen in Stellars **Infrastruktur-Rolle** im Zahlungsverkehr. Strategen sehen weiteres Upside; XLM gilt als **unterbewerteter Zahlungs-Token** unter $1.

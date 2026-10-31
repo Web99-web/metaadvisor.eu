@@ -13,6 +13,7 @@ image_alt: "Bitdeer Mining und Künstliche Intelligenz"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "mining", "ki", "bitdeer", "investitionen"]
 summary: "Das in Singapur ansässige Bitcoin-Mining-Unternehmen Bitdeer erweitert sein Geschäft auf künstliche Intelligenz – trotz eines hohen Quartalsverlusts."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -15,6 +15,7 @@ image_alt: "Crypto market selloff — symbolic illustration"
 image_credit: "Image is symbolic."
 tags: ["bitcoin","btc","binance","bailout","liquidity","leverage","liquidations","crypto","markets","volatility"]
 summary: "A sharp selloff collided with the ‘sound money’ narrative as leverage and liquidity took over. Binance pledged a stabilization package to help shore up markets."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

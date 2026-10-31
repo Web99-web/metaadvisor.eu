@@ -29,6 +29,7 @@ tags:
   - 24-7-trading
   - onchain
 summary: "Centrifuge launched SPXA — the first licensed S&P 500 index fund on blockchain rails (Base, L2). The fund offers 24/7 trading and transparent holdings, with partners including Janus Henderson and FalconX."
+categories: ["crypto"]
 ---
 
 **TL;DR:** **Centrifuge** has launched **SPXA**, the first **licensed** S&P 500 index fund on **blockchain rails**. It’s live on **Base** (Coinbase’s Ethereum L2), bringing one of the world’s most watched equity benchmarks **on-chain** with **24/7 trading** and **transparent holdings**.

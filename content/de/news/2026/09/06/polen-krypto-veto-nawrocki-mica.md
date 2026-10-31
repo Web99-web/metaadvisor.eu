@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Polen", "Krypto", "MiCA", "Karol Nawrocki", "Donald Tusk", "Zondacrypto", "Regulierung", "Europäische Union", "KNF", "Krypto-Assets", "Kryptowährungen", "Krypto-Regulierung", "Finanzregulierung"]
 description: "Polen hält das Präsidentenveto gegen das Krypto-Gesetz aufrecht. Karol Nawrocki warnt, dass Regeln über den EU-MiCA-Rahmen hinaus Unternehmen aus Polen vertreiben könnten."
 summary: "Der Sejm konnte das dritte Veto von Präsident Karol Nawrocki gegen das Gesetz zum Kryptomarkt nicht überstimmen. Im Zentrum steht die Frage, wie weit nationale Regeln über den europäischen MiCA-Rahmen hinausgehen dürfen."
+categories: ["Crypto"]
 ---
 
 *Symbolbild.*

@@ -6,15 +6,16 @@ category: "cybersecurity"
 translationKey: "autonomni-ai-agenti-cybernapad-tajvan-2026-08-12"
 source: "Financial Times, Dream"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/AI-agent-cyberattack.png"
-featured_image: "/images/hack/AI-agent-cyberattack.png"
-image: "/images/hack/AI-agent-cyberattack.png"
-thumbnail: "/images/hack/AI-agent-cyberattack.png"
+image_url: "/images/hack/AI-agent-cyberattack.webp"
+featured_image: "/images/hack/AI-agent-cyberattack.webp"
+image: "/images/hack/AI-agent-cyberattack.webp"
+thumbnail: "/images/hack/AI-agent-cyberattack.webp"
 image_alt: "Autonomni AI agenti i cybernapad na državne sustave i kritičnu infrastrukturu"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["AI", "AI agenti", "autonomni AI", "cyberattack", "cybersecurity", "Tajvan", "Kina", "kritična infrastruktura", "hakeri", "državni sustavi"]
 description: "Više autonomnih AI agenata navodno je tijekom četiri dana napadalo državne sustave Tajvana, kompromitiralo račune i proširilo operaciju prema nuklearnoj sigurnosti i energetskim kompanijama."
 summary: "Do osam AI agenata navodno je paralelno mapiralo državne sustave, tražilo ranjivosti i mijenjalo taktiku tijekom četverodnevne cyberoperacije. Financial Times navodi da je meta bio Tajvan, dok povezanost operatera s Kinom nije službeno potvrđena."
+categories: ["cybersecurity"]
 ---
 
 *Slika je simbolična.*

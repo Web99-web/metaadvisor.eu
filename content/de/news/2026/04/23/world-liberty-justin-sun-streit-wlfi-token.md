@@ -15,6 +15,7 @@ image_alt: "Konflikt zwischen World Liberty und Justin Sun über WLFI-Token"
 image_credit: "Metaadvisor / Illustration"
 tags: ["crypto","krypto","defi","justin sun","tron","wlfi","token","streit","blockchain","finanzen"]
 summary: "Der Konflikt zwischen World Liberty Financial und Justin Sun eskalierte zu einem Rechtsstreit im Wert von Hunderten Millionen Dollar. Die Vorwürfe werfen grundlegende Fragen zu Vertrauen und Kontrolle im DeFi-Sektor auf."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

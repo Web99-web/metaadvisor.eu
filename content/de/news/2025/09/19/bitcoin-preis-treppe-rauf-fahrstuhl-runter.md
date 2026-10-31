@@ -16,6 +16,7 @@ image_alt: "Rückgang des Bitcoin-Preises (symbolische Illustration)"
 image_credit: "MetaAdvisor image map (symbolisch)"
 tags: ["Krypto", "Bitcoin", "Märkte"]
 summary: "Krypto gab am Freitag die Wochengewinne ab. BTC scheiterte knapp an 118.000 USD und fiel auf rund 115.600 USD; auch ETH, SOL und DOGE drehten nach unten."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

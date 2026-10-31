@@ -6,15 +6,16 @@ category: "ai"
 translationKey: "claude-watermark-ai-generated-text-copy-paste-2026-08-13"
 source: "Anthropic, European Commission"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/Claude-watermark-ai-text.png"
-featured_image: "/images/AI-general/Claude-watermark-ai-text.png"
-image: "/images/AI-general/Claude-watermark-ai-text.png"
-thumbnail: "/images/AI-general/Claude-watermark-ai-text.png"
+image_url: "/images/AI-general/Claude-watermark-ai-text.webp"
+featured_image: "/images/AI-general/Claude-watermark-ai-text.webp"
+image: "/images/AI-general/Claude-watermark-ai-text.webp"
+thumbnail: "/images/AI-general/Claude-watermark-ai-text.webp"
 image_alt: "Claude će označavati AI-generirani tekst strojno čitljivim watermarkom koji može preživjeti copy-paste"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Claude", "Anthropic", "AI", "AI watermark", "AI-generirani tekst", "EU AI Act", "umjetna inteligencija", "AI transparentnost", "generativni AI", "AI sadržaj"]
 description: "Anthropic planira u Claudeov AI-generirani tekst ugrađivati strojno čitljivu oznaku koja može ostati prisutna i nakon copy-pastea. Nova praksa povezana je s pravilima transparentnosti iz EU AI Acta."
 summary: "Claudeov AI-generirani tekst dobit će neprimjetnu strojno čitljivu oznaku. Obični copy-paste neće je nužno ukloniti, ali veće uređivanje i izmjene mogu oslabiti signal. Promjena otvara i važno pitanje: što se događa kada AI nije autor teksta, nego samo suradnik ili urednički alat?"
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

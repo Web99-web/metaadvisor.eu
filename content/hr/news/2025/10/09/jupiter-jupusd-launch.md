@@ -15,6 +15,7 @@ image_alt: "Jupiter stablecoin JupUSD launch"
 image_credit: "Metaadvisor.eu (slika simbolična)"
 tags: ["jupiter","jupusd","stablecoin","solana","defi","crypto"]
 summary: "Jupiter lansira vlastiti stablecoin JupUSD na Solani, uz integraciju u svoj ekosustav perpseva, lendinga i swapova."
+categories: ["crypto"]
 ---
 
 **Jupiter**, jedan od vodećih DeFi agregatora na Solani, objavio je lansiranje **JupUSD stablecoina**, nativnog za Solana mrežu. Vijest je izazvala snažnu pažnju tržišta jer označava širenje Jupiterovog ekosustava i dodatno učvršćuje Solanu kao blockchain za masovno korištenje.

@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["zk.money", "Ethereum", "Aztec", "Datenschutz", "Krypto", "Wallet", "DAI", "USDC", "USDT", "Layer 2"]
 description: "Aztec Labs hat zk.money neu gestartet, eine Wallet für private Ethereum-Zahlungen, die innerhalb des Aztec Network Guthaben, Zahlungsbeträge und Empfänger verbirgt."
 summary: "zk.money kehrt nach drei Jahren auf einer neuen Aztec-Network-Infrastruktur zurück. Nutzer können private Zahlungen senden, doch Einzahlungen und Auszahlungen über Ethereum bleiben öffentlich sichtbar, während die Alpha-Version einzelne Transaktionen derzeit auf weniger als 2.500 Dollar begrenzt."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

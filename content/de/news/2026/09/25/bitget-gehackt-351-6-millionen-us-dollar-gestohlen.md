@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitget", "Krypto", "Hacking", "XRP", "Ethereum", "Kryptobörsen", "Cybersicherheit", "Wallet", "Nordkorea"]
 description: "Bitget hat einen Sicherheitsvorfall im Wert von rund 351,6 Millionen US-Dollar erlitten. Angreifer entwendeten XRP, ETH, Stablecoins und weitere Vermögenswerte, während Auszahlungen vorübergehend gestoppt wurden."
 summary: "Angreifer entwendeten rund 351,6 Millionen US-Dollar aus Hot- und Warm-Wallets von Bitget, darunter mehr als 100 Millionen XRP. Die Börse erklärt, dass Cold Wallets nicht betroffen seien und Nutzer keine Verluste tragen müssten."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

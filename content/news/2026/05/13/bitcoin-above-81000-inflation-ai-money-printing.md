@@ -15,6 +15,7 @@ image_alt: "Bitcoin above $81,000"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "inflation", "ai", "fed", "coinshares", "arthur hayes", "bull market", "trading"]
 summary: "Bitcoin climbed back above $81,000 as markets closely watched inflation, the AI race and the possibility of further money printing."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>The image is symbolic.</em></p>

@@ -7,10 +7,10 @@ translationKey: "9f0f7a2a2f2b4c3f9a31d6f2a1b7e8c5"
 source: "Cointelegraph (prompt/interview)"
 source_url: "https://cointelegraph.com/news/ai-agents-liquidity-fragmented-stablecoin-paxos-labs"
 author: "Metaadvisor.eu"
-image_url: "/images/ai-agenti-stablecoini.png"
-featured_image: "/images/ai-agenti-stablecoini.png"
-image: "/images/ai-agenti-stablecoini.png"
-thumbnail: "/images/ai-agenti-stablecoini.png"
+image_url: "/images/ai-agenti-stablecoini.webp"
+featured_image: "/images/ai-agenti-stablecoini.webp"
+image: "/images/ai-agenti-stablecoini.webp"
+thumbnail: "/images/ai-agenti-stablecoini.webp"
 image_alt: "AI agent holding a digital coin — symbolic"
 image_credit: "Metaadvisor.eu (symbolic graphic)"
 tags:
@@ -34,6 +34,7 @@ tags:
   - risk
   - web3
 summary: "AI agents can autonomously pay, route and arbitrate stablecoins across chains—using account abstraction (ERC-4337), agent-native billing (AP2/x402) and cross-chain rails (CCTP/CCIP). Fragmentation turns into an edge as liquidity flows to the most efficient issuers."
+categories: ["ai"]
 ---
 
 **Summary**  

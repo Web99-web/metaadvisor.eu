@@ -7,14 +7,15 @@ translationKey: "7265f0603c56e55bf16fc2948b5e04c2"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (CoinDesk, SEC-Daten)"
 source_url: ""
-image_url: "/images/Banks-move-into-crypto.png"
-featured_image: "/images/Banks-move-into-crypto.png"
-image: "/images/Banks-move-into-crypto.png"
-thumbnail: "/images/Banks-move-into-crypto.png"
+image_url: "/images/Banks-move-into-crypto.webp"
+featured_image: "/images/Banks-move-into-crypto.webp"
+image: "/images/Banks-move-into-crypto.webp"
+thumbnail: "/images/Banks-move-into-crypto.webp"
 image_alt: "Große Banken betreten den Kryptomarkt über ETFs"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "etf", "morgan stanley", "bank", "blackrock", "grayscale", "krypto", "investieren", "crypto"]
 summary: "Eine der größten US-Investmentbanken, Morgan Stanley, plant einen Bitcoin-ETF mit einer Gebühr von nur 0,14% – ein möglicher Auslöser für einen neuen Wettbewerb."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

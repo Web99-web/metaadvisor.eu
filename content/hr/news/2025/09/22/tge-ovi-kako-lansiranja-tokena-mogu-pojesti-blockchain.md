@@ -15,6 +15,7 @@ image_alt: "Token lansiranja i blockchain — simbolična ilustracija"
 image_credit: "Metaadvisor image_map (simbolična slika)"
 tags: ["TGE","token-generation-event","token","launch","FDV","free-float","vesting","unlock","CEX","DEX","LBP","lockdrop","retrodrop","airdrop","points","sybil","tokenomika","governance","PMF","utility","DeFi","L1","L2","retail","VC","regulacija"]
 summary: "Sve više projekata žuri izdati token (TGE), a mreža i proizvod stižu tek kasnije. Objašnjavamo lajčki: zašto to često diže cijenu ‘na papiru’, guši korisnost i kako prepoznati zdrava lansiranja."
+categories: ["crypto"]
 ---
 
 **Ukratko:**  

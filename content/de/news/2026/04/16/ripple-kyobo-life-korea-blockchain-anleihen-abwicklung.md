@@ -15,6 +15,7 @@ image_alt: "Ripple und Kyobo Life Blockchain-Anleihen Korea"
 image_credit: "Metaadvisor.eu"
 tags: ["ripple", "xrp", "kyobo life", "korea", "blockchain", "anleihen", "tokenisierung", "krypto", "finanzen", "dlt", "institutionen"]
 summary: "Ripple und Kyobo Life aus Südkorea starten ein Pilotprojekt zur Blockchain-Abwicklung von Staatsanleihen, das Finanzprozesse beschleunigen und Kosten im globalen System reduzieren könnte."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

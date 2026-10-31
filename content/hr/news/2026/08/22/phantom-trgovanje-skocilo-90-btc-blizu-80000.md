@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "HYPE", "Phantom", "crypto", "trading", "Hyperliquid"]
 description: "Phantom navodi da je trgovanje ovog tjedna poraslo oko 90 posto u odnosu na prošli tjedan, dok je Bitcoin skočio gotovo 25 posto, a rast su pratili i Ether i HYPE."
 summary: "Phantom je objavio da je trgovanje ovog tjedna bilo oko 90 posto veće nego prošloga. Bitcoin se pritom približio razini od 80.000 dolara, Ether je oko 2.440 dolara, a HYPE oko 79 dolara."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

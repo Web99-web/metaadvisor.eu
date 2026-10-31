@@ -6,12 +6,13 @@ category: "ai"
 translationKey: "icp-internet-computer-metaadvisor"
 source: "MetaAdvisor"
 source_url: "https://metaadvisor.eu"
-image_url: "/images/ICP- Internet-Computer-Protocol-DFINITY.png"
-featured_image: "/images/ICP- Internet-Computer-Protocol-DFINITY.png"
-image: "/images/ICP- Internet-Computer-Protocol-DFINITY.png"
-thumbnail: "/images/ICP- Internet-Computer-Protocol-DFINITY.png"
+image_url: "/images/ICP- Internet-Computer-Protocol-DFINITY.webp"
+featured_image: "/images/ICP- Internet-Computer-Protocol-DFINITY.webp"
+image: "/images/ICP- Internet-Computer-Protocol-DFINITY.webp"
+thumbnail: "/images/ICP- Internet-Computer-Protocol-DFINITY.webp"
 summary: "ICP (Internet Computer Protocol) proposes an internet without hosting — fully decentralized websites and applications that run directly on the blockchain."
 tags: ["icp", "internet computer", "dfinity", "ai", "blockchain", "web3", "technology", "decentralization", "finance", "infrastructure"]
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -14,6 +14,7 @@ image_alt: "Drei Schlüssel und drei Schlüssellöcher – Illustration eines Mu
 image_credit: "Metaadvisor.eu"
 tags: ["krypto","bitcoin","ethereum","wallet","sicherheit","multisig","hardware wallet","trezor","DAO","DeFi","Lazarus","WazirX","selbstverwahrung","self custody"]
 summary: "Ein Multisig-Wallet erfordert mehrere Signaturen pro Transaktion. Das erhöht die Sicherheit und reduziert Risiken – setzt aber eine saubere Implementierung und sorgfältige Nutzung voraus."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

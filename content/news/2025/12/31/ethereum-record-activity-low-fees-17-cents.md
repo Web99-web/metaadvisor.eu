@@ -24,6 +24,7 @@ tags:
   - smart-contracts
   - layer1
 summary: "Ethereum closed 2025 with a record 2.2 million daily transactions while average fees dropped to just 17 cents, signaling a major improvement in scalability and real-world usability."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 10px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

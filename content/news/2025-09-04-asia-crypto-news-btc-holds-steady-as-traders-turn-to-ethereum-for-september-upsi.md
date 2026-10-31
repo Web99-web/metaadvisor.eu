@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/04/asia-morning-briefing-b
 summary: "QCP flags governance risk and a softer dollar as tailwinds for hedges like BTC and gold, but Flowdesk’s options desk and Polymarket traders point to ETH as the market’s upside play into September."
 tags: ["crypto", "BTC", "ETH", "Asia", "markets", "options", "SOL"]
 image_url: "/images/fallback-finance.jpg"
+categories: ["crypto"]
 ---
 
 Welcome to Asia Morning Briefing, a daily summary of top stories during U.S. hours and an overview of market moves and analysis. For a detailed overview of U.S. markets, see CoinDesk's Crypto Daybook Americas.

@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "bitcoin-80000-coinbase-premium-etf-fed-warsh-2026-08-28"
 source: "CoinDesk, Farside Investors, The Block, Reuters, CoinGecko, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/market-crypto-daily.png"
-featured_image: "/images/market-crypto-daily.png"
-image: "/images/market-crypto-daily.png"
-thumbnail: "/images/market-crypto-daily.png"
+image_url: "/images/market-crypto-daily.webp"
+featured_image: "/images/market-crypto-daily.webp"
+image: "/images/market-crypto-daily.webp"
+thumbnail: "/images/market-crypto-daily.webp"
 image_alt: "Bitcoin bei rund 80.000 Dollar, während der Markt auf die Fed wartet"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "Kryptowährungen", "Kryptomarkt", "Bitcoin-ETFs", "US-Bitcoin-ETFs", "ETF-Zuflüsse", "Coinbase Premium", "US-Nachfrage", "Ethereum", "Solana", "Hyperliquid", "Zcash", "Bittensor", "Fed", "Kevin Warsh", "Zinsen", "Geldpolitik"]
 description: "Bitcoin bewegt sich erneut um 80.000 Dollar, während der Coinbase Premium erstmals seit Mai wieder positiv ist und US-Spot-Bitcoin-ETFs über acht aufeinanderfolgende Handelstage mehr als 2,8 Milliarden Dollar an Zuflüssen verzeichnen. Gleichzeitig wartet der Markt auf ein neues Signal von Kevin Warsh und der Fed."
 summary: "Bitcoin versucht, den Bereich um 80.000 Dollar zu halten, während es Anzeichen für eine stärkere US-Spot-Nachfrage gibt. Der Coinbase Premium ist wieder positiv, ETFs ziehen weiter Kapital an, während SOL und HYPE steigen, ZEC nahe 800 Dollar bleibt und TAO erneut schwächer wird. Das nächste wichtige Makrosignal wird von der Fed erwartet."
+categories: ["Crypto"]
 ---
 
 *Das Bild ist symbolisch.*

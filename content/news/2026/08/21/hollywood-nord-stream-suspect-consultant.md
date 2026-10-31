@@ -6,15 +6,16 @@ category: "Geopolitics"
 translationKey: "hollywood-nord-stream-suspect-consultant-2026-08-21"
 source: "German Federal Prosecutor's Office, HRT, Reuters, AP, The Guardian, Bundesnetzagentur, Eurostat, Nord Stream AG, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Nord-Stream-film-suspect..png"
-featured_image: "/images/news/Nord-Stream-film-suspect..png"
-image: "/images/news/Nord-Stream-film-suspect..png"
-thumbnail: "/images/news/Nord-Stream-film-suspect..png"
+image_url: "/images/news/Nord-Stream-film-suspect..webp"
+featured_image: "/images/news/Nord-Stream-film-suspect..webp"
+image: "/images/news/Nord-Stream-film-suspect..webp"
+thumbnail: "/images/news/Nord-Stream-film-suspect..webp"
 image_alt: "Nord Stream suspect arrested in Pula while working as a consultant on a film with Sean Penn"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Nord Stream", "Nord Stream 1", "Nord Stream 2", "Germany", "Russia", "Ukraine", "Pula", "Croatia", "Sean Penn", "natural gas", "LNG", "energy"]
 description: "A suspect in the Nord Stream sabotage case was arrested in Pula while reportedly working as a consultant on a film with Sean Penn. Why were Nord Stream 1 and 2 so important to Germany?"
 summary: "A Ukrainian diver suspected of involvement in the Nord Stream sabotage was arrested in Croatia. The case again raises questions about pipelines linking Russia and Germany while bypassing Ukraine."
+categories: ["Geopolitics"]
 ---
 
 *The image is symbolic.*
@@ -96,7 +97,7 @@ That is why a number such as 3.3 for US gas and 42 for European gas does not aut
 We explained this in more detail in an earlier article:
 
 <a href="https://metaadvisor.eu/news/why-us-gas-costs-3-3-and-european-gas-42-mmbtu-mwh-ttf-jkm-natgas/" target="_blank" rel="noopener">
-<img src="/images/Natural-gas-LNG-prices.png" alt="Why US Gas Costs 3.3 and European Gas 42: MMBtu, MWh, TTF, JKM and NATGAS" style="width:55%; max-width:500px; height:auto; display:block; margin:1.5rem auto;">
+<img src="/images/Natural-gas-LNG-prices.webp" alt="Why US Gas Costs 3.3 and European Gas 42: MMBtu, MWh, TTF, JKM and NATGAS" style="width:55%; max-width:500px; height:auto; display:block; margin:1.5rem auto;">
 </a>
 
 ### <a href="https://metaadvisor.eu/news/why-us-gas-costs-3-3-and-european-gas-42-mmbtu-mwh-ttf-jkm-natgas/" target="_blank" rel="noopener">Why US Gas Costs 3.3 and European Gas 42: MMBtu, MWh, TTF, JKM and NATGAS</a>

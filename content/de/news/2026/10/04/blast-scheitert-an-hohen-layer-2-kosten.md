@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Blast", "Ethereum", "Layer 2", "L2", "Krypto", "Blockchain", "DeFi", "TVL", "Airdrop", "Ethereum-Skalierung"]
 description: "Das Ethereum-Layer-2-Netzwerk Blast wird eingestellt, nachdem die Betriebskosten die Einnahmen überstiegen haben. Das Projekt hatte einst mehr als 2 Milliarden US-Dollar Kapital angezogen."
 summary: "Blast gehörte einst zu den am schnellsten wachsenden Ethereum-Layer-2-Netzwerken und zog mehr als 2 Milliarden US-Dollar Kapital sowie starken Airdrop-Hype an. Nun wird das Netzwerk eingestellt, weil die Betriebskosten die Einnahmen übersteigen und damit eine breitere Debatte über die Nachhaltigkeit der wachsenden Zahl von L2-Netzwerken beginnt."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -7,14 +7,15 @@ translationKey: "btc_new_whales_market_shift"
 source: "MetaAdvisor Analyse — basierend auf On-Chain-Daten und Cointelegraph-Berichten"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-new-whales.png"
-featured_image: "/images/BTC-new-whales.png"
-image: "/images/BTC-new-whales.png"
-thumbnail: "/images/BTC-new-whales.png"
+image_url: "/images/BTC-new-whales.webp"
+featured_image: "/images/BTC-new-whales.webp"
+image: "/images/BTC-new-whales.webp"
+thumbnail: "/images/BTC-new-whales.webp"
 image_alt: "Neue Bitcoin-Wale und struktureller Wandel des Marktes"
 image_credit: "On-Chain-Daten / illustrative"
 tags: ["bitcoin","btc","wale","whales","krypto","crypto","on-chain","markt","investitionen","analyse"]
 summary: "Fast die Hälfte der realisierten Bitcoin-Marktkapitalisierung liegt inzwischen bei neuen Walen – ein Zeichen für einen tiefgreifenden strukturellen Wandel des Marktes."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

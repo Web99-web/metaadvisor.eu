@@ -7,10 +7,10 @@ translationKey: "b82f69129658c5ee775f982d234131e4"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/wall-street-banks-crypto-etfs-tokenized-cash"
 author: "MetaAdvisor.eu"
-image_url: "/images/Banks-entering-crypto.png"
-featured_image: "/images/Banks-entering-crypto.png"
-image: "/images/Banks-entering-crypto.png"
-thumbnail: "/images/Banks-entering-crypto.png"
+image_url: "/images/Banks-entering-crypto.webp"
+featured_image: "/images/Banks-entering-crypto.webp"
+image: "/images/Banks-entering-crypto.webp"
+thumbnail: "/images/Banks-entering-crypto.webp"
 image_alt: "Velike banke s Wall Streeta ulaze u kripto i blockchain infrastrukturu"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -27,6 +27,7 @@ tags:
   - etf
   - digitalna-imovina
 summary: "Najveće banke s Wall Streeta više ne raspravljaju o tome treba li ući u kripto. JPMorgan, Morgan Stanley, Barclays i Bank of America već aktivno grade blockchain infrastrukturu, ETF proizvode i digitalni novac."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

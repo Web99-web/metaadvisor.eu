@@ -7,14 +7,15 @@ translationKey: "8f7b4d2e91c34f7da8e5a9c0b2d71fa4"
 source: "Metaadvisor (xAI Grok, X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/We-asked-Grok-about-Metaadvisor.eu.png"
-featured_image: "/images/companies/We-asked-Grok-about-Metaadvisor.eu.png"
-image: "/images/companies/We-asked-Grok-about-Metaadvisor.eu.png"
-thumbnail: "/images/companies/We-asked-Grok-about-Metaadvisor.eu.png"
+image_url: "/images/companies/We-asked-Grok-about-Metaadvisor.eu.webp"
+featured_image: "/images/companies/We-asked-Grok-about-Metaadvisor.eu.webp"
+image: "/images/companies/We-asked-Grok-about-Metaadvisor.eu.webp"
+thumbnail: "/images/companies/We-asked-Grok-about-Metaadvisor.eu.webp"
 image_alt: "Grok AI reviews the MetaAdvisor.eu project"
 image_credit: "Metaadvisor.eu"
 tags: ["grok", "xai", "metaadvisor", "ai", "artificial intelligence", "crypto", "tech", "media", "independent media", "croatian language", "x", "elon musk", "blockchain", "ai tools"]
 summary: "MetaAdvisor tested the Grok AI model in Croatian and asked what it thinks about the project. Grok analyzed the content, design, AI and crypto topics, and gave an honest opinion about the strengths and weaknesses of the independent media project."
+categories: ["ai"]
 ---
 
 *Image is symbolic.*

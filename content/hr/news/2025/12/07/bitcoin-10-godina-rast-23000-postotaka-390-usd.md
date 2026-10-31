@@ -7,14 +7,15 @@ translationKey: "bitcoin_10yr_growth_23000_metaadvisor_07122025_hr"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/btc-in-2015-at-390usd.png"
-featured_image: "/images/btc-in-2015-at-390usd.png"
-image: "/images/btc-in-2015-at-390usd.png"
-thumbnail: "/images/btc-in-2015-at-390usd.png"
+image_url: "/images/btc-in-2015-at-390usd.webp"
+featured_image: "/images/btc-in-2015-at-390usd.webp"
+image: "/images/btc-in-2015-at-390usd.webp"
+thumbnail: "/images/btc-in-2015-at-390usd.webp"
 image_alt: "Bitcoin rast vrijednosti kroz 10 godina"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","rast cijene","kriptovalute","analiza","povijest bitcoina","satoshi","investicije","wall street","regulacija"]
 summary: "Bitcoin je u 10 godina porastao s 390 USD na gotovo 90.000 USD — rast od oko 23.000%. Što nam taj skok govori o tržištu, regulaciji i fenomenu Satoshija?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

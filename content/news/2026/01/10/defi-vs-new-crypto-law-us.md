@@ -7,10 +7,10 @@ translationKey: "39ce36720e0911f64bbdf6ab1c4b8352"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2026/01/09/crypto-crowd-could-still-walk-away-from-u-s-market-structure-bill-if-defi-needs-unmet"
 author: "MetaAdvisor.eu"
-image_url: "/images/DeFi-vs-crypto-regulations.png"
-featured_image: "/images/DeFi-vs-crypto-regulations.png"
-image: "/images/DeFi-vs-crypto-regulations.png"
-thumbnail: "/images/DeFi-vs-crypto-regulations.png"
+image_url: "/images/DeFi-vs-crypto-regulations.webp"
+featured_image: "/images/DeFi-vs-crypto-regulations.webp"
+image: "/images/DeFi-vs-crypto-regulations.webp"
+thumbnail: "/images/DeFi-vs-crypto-regulations.webp"
 image_alt: "Conflict between DeFi sector and new crypto regulations in the United States"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - blockchain
   - policy
 summary: "Parts of the crypto industry warn they could withdraw support for a new U.S. market structure bill if the specific needs of the DeFi sector are not addressed. The debate highlights the challenge of regulating decentralized finance without stifling innovation."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

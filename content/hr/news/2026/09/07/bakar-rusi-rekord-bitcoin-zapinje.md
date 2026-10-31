@@ -6,15 +6,16 @@ category: "Markets"
 translationKey: "copper-hits-record-bitcoin-stalls-2026-09-07"
 source: "Wall Street Journal, Reuters, Farside Investors, CoinGecko, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Copper-hits-record.png"
-featured_image: "/images/news/Copper-hits-record.png"
-image: "/images/news/Copper-hits-record.png"
-thumbnail: "/images/news/Copper-hits-record.png"
+image_url: "/images/news/Copper-hits-record.webp"
+featured_image: "/images/news/Copper-hits-record.webp"
+image: "/images/news/Copper-hits-record.webp"
+thumbnail: "/images/news/Copper-hits-record.webp"
 image_alt: "Bakar ruši rekord dok Bitcoin zapinje i zlato slabi"
 image_credit: "Metaadvisor.eu"
 tags: ["bakar", "Bitcoin", "kripto", "metali", "industrijski metali", "zlato", "AI", "podatkovni centri", "elektrifikacija", "energetska infrastruktura", "ETF-ovi", "Federalne rezerve", "sirovine", "financijska tržišta"]
 description: "Bakar je dosegnuo novi rekord iznad 14.500 dolara po toni dok Bitcoin ostaje oko 79.000 dolara, a zlato slabi. Tržište pokazuje sve jasniju razliku između industrial metals, crypta i precious metals."
 summary: "Rekordna cijena bakra, snažna potražnja iz AI i energetske infrastrukture te problemi s ponudom stvaraju novi tržišni momentum, dok Bitcoin zasad ne prati isti tempo, a zlato je pod pritiskom očekivanja viših kamata."
+categories: ["Markets"]
 ---
 
 *Slika je simbolična.*

@@ -6,6 +6,7 @@ category: "news"
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/564bac7203c6e38e89eb4093ecb221b0bbe4e205-3200x1800.jpg"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/08/21/u-s-justice-department-official-says-writing-code-without-bad-intent-not-a-crime"
+categories: ["news"]
 ---
 
 Ein hochrangiger Beamter des US-Justizministeriums betonte am Donnerstag vor einem Krypto-Publikum in Wyoming, dass die Behörde keine Softwareentwickler für digitale Vermögenswerte verfolgen will, solange keine Geldwäscheabsicht vorliegt.  

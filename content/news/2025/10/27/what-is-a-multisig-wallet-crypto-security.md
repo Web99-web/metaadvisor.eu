@@ -14,6 +14,7 @@ image_alt: "Three keys and three keyholes — illustration of a multisig wallet"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto","bitcoin","ethereum","wallet","security","multisig","hardware wallet","trezor","DAO","DeFi","Lazarus","WazirX","self custody"]
 summary: "A multisig wallet requires multiple signatures per transaction. It boosts security and reduces single-point-of-failure risks — provided it’s implemented and used correctly."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "lost_seed_phrase_recovery_metaadvisor_07122025"
 source: "MetaAdvisor – edukativni članak"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-Lost-seed-phrase.png"
-featured_image: "/images/BTC-Lost-seed-phrase.png"
-image: "/images/BTC-Lost-seed-phrase.png"
-thumbnail: "/images/BTC-Lost-seed-phrase.png"
+image_url: "/images/BTC-Lost-seed-phrase.webp"
+featured_image: "/images/BTC-Lost-seed-phrase.webp"
+image: "/images/BTC-Lost-seed-phrase.webp"
+thumbnail: "/images/BTC-Lost-seed-phrase.webp"
 image_alt: "Bitcoin seed fraze izgubljene – panika korisnika"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","kriptovalute","seed fraze","sigurnost","gubitak pristupa","wallet","ledger","trezor","opasnosti","kripto sigurnost","blockchain","povrat bitcoina"]
 summary: "Možete li vratiti izgubljeni bitcoin ako ste izgubili seed frazu? Vrlo rijetko — i samo pod određenim uvjetima. Donosimo vodič koji nitko ne kaže naglas."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

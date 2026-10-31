@@ -3,7 +3,7 @@ title: "European Central Bank ECB Warns: Stablecoins Becoming a Risk to Bank Dep
 slug: "ecb-warns-stablecoins-risk-bank-deposits-lending"
 date: 2026-03-03T16:30:00Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-03-03"
 source: "Cointelegraph & CoinDesk"
 source_url: ""
 author: "Cointelegraph & CoinDesk"
@@ -15,6 +15,7 @@ image_alt: "European Central Bank and stablecoin concept"
 image_credit: "Illustration / ECB theme"
 tags: ["stablecoin", "ecb", "european central bank", "fatf", "aml", "crypto regulation", "defi", "banks", "deposits", "monetary policy", "usdt", "usdc", "regulation", "eu"]
 summary: "The European Central Bank warns that rising stablecoin adoption could weaken bank deposits and lending, while the FATF highlights stablecoins as the primary vehicle for illicit crypto transactions."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

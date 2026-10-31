@@ -8,14 +8,15 @@ source: "Reuters"
 source_url: "https://www.reuters.com/investigations/inside-trump-familys-global-crypto-cash-machine-2025-10-28/"
 author: "Reuters"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Trump-family-800m-from-crypto.png"
-featured_image: "/images/Trump-family-800m-from-crypto.png"
-image: "/images/Trump-family-800m-from-crypto.png"
-thumbnail: "/images/Trump-family-800m-from-crypto.png"
+image_url: "/images/Trump-family-800m-from-crypto.webp"
+featured_image: "/images/Trump-family-800m-from-crypto.webp"
+image: "/images/Trump-family-800m-from-crypto.webp"
+thumbnail: "/images/Trump-family-800m-from-crypto.webp"
 image_alt: "Američka zastava i natpis Trump Family — $800M from Crypto"
 image_credit: "Ilustracija — Metaadvisor.eu (simbolična slika)"
 tags: ["Trump","politika","kripto","NFT","donacije","memecoin","kampanja","custody","OTC","Bitcoin","Ethereum","regulacija","Reuters"]
 summary: "Reuters navodi kako je Trumpova obitelj u prvoj polovici 2025. generirala oko $800M prihoda iz kripto-ekosustava — kroz NFT kampanje, donacije u kriptu, partnerstva i trgovanje imovinom putem institucionalnih skrbnika."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

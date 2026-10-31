@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/26/asia-morning-briefing-b
 summary: "Retail-Leverage wird fortlaufend ausgelöscht, ETFs verbuchen Milliardenausflüsse, während Wale und staatliche Akteure leise ETH und BTC in die Volatilität hinein akkumulieren."
 tags: ["crypto","bitcoin","btc","ethereum","eth","etf","liquidität","whales","glassnode","qcp-capital","enflux","asien","konsolidierung","markt"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/7b5d2c4ad567c31163d072346895d1c9b12152c1-6016x3530.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 Willkommen beim **Asia Morning Briefing** – der tägliche Überblick über die wichtigsten US-Stunden sowie Marktbewegungen und Analysen. Einen detaillierten Überblick über die US-Märkte bietet **Crypto Daybook Americas**.

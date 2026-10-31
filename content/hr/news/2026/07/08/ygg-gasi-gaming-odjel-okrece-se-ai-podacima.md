@@ -16,6 +16,7 @@ tags: ["YGG", "Yield Guild Games", "YGG Play", "Web3 gaming", "play-to-earn", "A
 summary: "Yield Guild Games gasi YGG Play, otpušta 35 zaposlenika i okreće se AI data economy. Projekt koji je bio simbol play-to-earn ere sada pokušava preživjeti kroz gaming podatke za umjetnu inteligenciju."
 disclaimer: "Ovaj članak služi isključivo u informativne svrhe i ne predstavlja financijski, investicijski ili poslovni savjet."
 draft: false
+categories: ["crypto"]
 ---
 
 Slika je simbolična.
@@ -27,7 +28,7 @@ Yield Guild Games, poznatiji kao **YGG**, gasi svoj crypto game publishing odjel
 Posebno je važan detalj koji se odnosi na **10. listopada**. YGG navodi da je veliki tržišni pad tog dana “fundamentalno promijenio psihologiju retail tržišta” i da ne očekuje da će se crypto consumer market ili Web3 game publishing tržište dovoljno oporaviti u kratkom roku.
 
 <a href="https://metaadvisor.eu/hr/news/btc-je-bio-odgovor-na-krizu-2007-sto-se-dogodilo-10-10-2025/" target="_blank" rel="noopener">
-  <img src="/images/bitcoin-BTC-2007-2009.png" alt="BTC je bio odgovor na krizu 2007 – što se dogodilo 10.10.2025?" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/bitcoin-BTC-2007-2009.webp" alt="BTC je bio odgovor na krizu 2007 – što se dogodilo 10.10.2025?" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/hr/news/btc-je-bio-odgovor-na-krizu-2007-sto-se-dogodilo-10-10-2025/" target="_blank" rel="noopener">BTC je bio odgovor na krizu 2007 – što se dogodilo 10.10.2025?</a>

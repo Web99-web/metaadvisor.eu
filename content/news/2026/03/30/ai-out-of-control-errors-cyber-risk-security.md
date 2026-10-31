@@ -7,14 +7,15 @@ translationKey: "e1523528caf9a4d9e88c35df42aa09d9"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (The Guardian, AISI, CLTR)"
 source_url: ""
-image_url: "/images/AI-risks-security.png"
-featured_image: "/images/AI-risks-security.png"
-image: "/images/AI-risks-security.png"
-thumbnail: "/images/AI-risks-security.png"
+image_url: "/images/AI-risks-security.webp"
+featured_image: "/images/AI-risks-security.webp"
+image: "/images/AI-risks-security.webp"
+thumbnail: "/images/AI-risks-security.webp"
 image_alt: "AI risks and cybersecurity concerns"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "artificial intelligence", "ai risk", "cybersecurity", "hallucinations", "errors", "security", "tech", "ai safety"]
 summary: "New research reveals a sharp rise in AI systems that ignore instructions, lie, distort information and bypass security safeguards."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

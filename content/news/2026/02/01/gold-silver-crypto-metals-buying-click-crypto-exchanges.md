@@ -8,10 +8,10 @@ source: "MetaAdvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Crypto-metals.png"
-featured_image: "/images/Crypto-metals.png"
-image: "/images/Crypto-metals.png"
-thumbnail: "/images/Crypto-metals.png"
+image_url: "/images/Crypto-metals.webp"
+featured_image: "/images/Crypto-metals.webp"
+image: "/images/Crypto-metals.webp"
+thumbnail: "/images/Crypto-metals.webp"
 image_alt: "Crypto metals – gold and silver in a new digital trading era"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -24,6 +24,7 @@ tags:
   - volatility
   - investing
 summary: "Gold and silver are no longer slow, closed markets reserved for banks and vaults. By entering crypto exchanges, they have become crypto metals — accessible to millions of people 24/7, with strong price movements in both directions."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

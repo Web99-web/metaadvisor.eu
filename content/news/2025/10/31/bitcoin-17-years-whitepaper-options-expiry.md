@@ -7,14 +7,15 @@ translationKey: "b17a4c93-91c5-4b12-9c47-b5a4e32f02d8"
 source: "Crypto derivatives data (Deribit, CME), Bitcoin whitepaper archive"
 source_url: "https://bitcoin.org/bitcoin.pdf"
 author: "Metaadvisor.eu"
-image_url: "/images/bitcoin-17-birthday.png"
-featured_image: "/images/bitcoin-17-birthday.png"
-image: "/images/bitcoin-17-birthday.png"
-thumbnail: "/images/bitcoin-17-birthday.png"
+image_url: "/images/bitcoin-17-birthday.webp"
+featured_image: "/images/bitcoin-17-birthday.webp"
+image: "/images/bitcoin-17-birthday.webp"
+thumbnail: "/images/bitcoin-17-birthday.webp"
 image_alt: "Bitcoin logo on dark background — marking the 17th anniversary of the whitepaper"
 image_credit: "Metaadvisor.eu — image is illustrative."
 tags: ["bitcoin","btc","crypto","options","derivatives","whitepaper","satoshi","blockchain","halving","open interest","volatility"]
 summary: "Bitcoin marks 17 years since its whitepaper release, while about $13.4 billion worth of options are expiring today — an event that could increase short-term volatility."
+categories: ["crypto"]
 ---
 
 Bitcoin is marking **17 years since the release of its whitepaper (31 Oct 2008)**, the foundational document that outlined the first decentralized digital currency. On the same day, about **$13.4 billion worth of options** are expiring on the derivatives market — increasing the odds of short-term price moves.

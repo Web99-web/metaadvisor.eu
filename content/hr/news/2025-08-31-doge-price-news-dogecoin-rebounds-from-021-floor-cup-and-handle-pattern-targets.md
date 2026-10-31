@@ -9,6 +9,7 @@ summary: "Meme token bilježi kasni rast 30.–31. kolovoza, dok tokovi kitova i
 tags: ["doge", "crypto", "memecoin"]
 image_url: "https://www.coindesk.com/resizer/v2/dogecoin-chart-2025.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/dogecoin-chart-2025.jpg?auto=format&width=1200"
+categories: ["news"]
 ---
 
 Dogecoin (**DOGE**) se odbio od podrške na **$0,21**, potvrđujući potencijalni **obrazac “šalica i drška”** koji cilja cjenovni rast prema **$0,30**, prema analizi CoinDesk-a.  

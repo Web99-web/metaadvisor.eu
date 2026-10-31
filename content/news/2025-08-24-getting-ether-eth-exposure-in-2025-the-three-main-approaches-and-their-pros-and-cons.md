@@ -9,6 +9,7 @@ summary: "Ether is trading near record highs and Tom Lee sees $15K by year end. 
 tags: ["ethereum","eth","exposure","staking","etf","sec","custody","defi","rwa","tokenization","fundstrat","tom-lee","bitmine","bmnr","treasury"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/2705207ecd0a8c9828b9cd6c5f5a0985a610992a-6048x4024.jpg?auto=format"
 image_alt: "Gold ether coins symbolizing ETH investment"
+categories: ["crypto"]
 ---
 
 Ether (ETH) is trading near all-time highs, and bullish forecasts — including Tom Lee’s $15,000 year-end target — have put the spotlight on **how** to gain ETH exposure most effectively.

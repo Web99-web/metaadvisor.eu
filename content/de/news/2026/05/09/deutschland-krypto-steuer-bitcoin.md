@@ -3,7 +3,7 @@ title: "Deutschland plant große Wende: Bitcoin und Krypto könnten nach einem J
 slug: "deutschland-krypto-steuer-bitcoin"
 date: 2026-05-09T09:00:00+02:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-05-09"
 source: "Metaadvisor (Cointelegraph, BTC Echo, Blockpit, Reuters)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
@@ -15,6 +15,7 @@ image_alt: "Deutschland prüft Änderungen bei der Besteuerung von Bitcoin und K
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "crypto", "deutschland", "bitcoin steuer", "krypto steuer", "steuer", "europa", "mica", "dac8", "ethereum", "altcoins", "hodl", "bitcoin regulation", "eu regulation", "blockchain"]
 summary: "Deutschland erwägt die Abschaffung der bekannten Steuerfreiheit für Bitcoin und Kryptowährungen nach einer Haltedauer von einem Jahr. Die Kryptobranche befürchtet, dass Europa dadurch deutlich weniger attraktiv für langfristige Investoren werden könnte."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

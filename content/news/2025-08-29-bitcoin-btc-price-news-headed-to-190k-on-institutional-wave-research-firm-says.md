@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/29/bitcoin-headed-to-usd19
 summary: "Tiger’s model pegs a “base price” of $135,000, then layers on multipliers for fundamentals (+3.5%) and macro conditions (+35%) to reach the $190,000 forecast."
 tags: ["bitcoin","crypto","ETF","institutional","forecast"]
 image_url: "https://www.coindesk.com/resizer/abC123xyZ190BTCinsWave=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/bitcoin-190k.jpg"
+categories: ["crypto"]
 ---
 
 Asia-focused **Tiger Research** has set a **Q3 target of $190,000 for bitcoin**, pointing to record global liquidity, structural ETF demand, and new access via **401(k) retirement accounts** as the strongest setup since 2021.

@@ -7,14 +7,15 @@ translationKey: "a91c7f3d4b6e42c1a8d5f7e2c9b3d104"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/news/Oil-WTI-111-Brent-108.png"
-featured_image: "/images/news/Oil-WTI-111-Brent-108.png"
-image: "/images/news/Oil-WTI-111-Brent-108.png"
-thumbnail: "/images/news/Oil-WTI-111-Brent-108.png"
+image_url: "/images/news/Oil-WTI-111-Brent-108.webp"
+featured_image: "/images/news/Oil-WTI-111-Brent-108.webp"
+image: "/images/news/Oil-WTI-111-Brent-108.webp"
+thumbnail: "/images/news/Oil-WTI-111-Brent-108.webp"
 image_alt: "WTI prelazi Brent i signalizira promjenu na tržištu nafte"
 image_credit: "MetaAdvisor.eu"
 tags: ["wti","brent","nafta","trump","energija","geopolitika","tržište nafte","supply","hormuški tjesnac"]
 summary: "WTI prelazi 111 dolara i sustiže Brent, signalizirajući moguću promjenu u globalnoj opskrbi i rastuću važnost američke nafte."
+categories: ["energy"]
 ---
 
 _Slika je simbolična._

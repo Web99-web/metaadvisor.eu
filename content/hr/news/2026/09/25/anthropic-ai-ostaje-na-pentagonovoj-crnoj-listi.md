@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Anthropic", "Pentagon", "umjetna inteligencija", "Claude", "AI sigurnost", "SAD", "vojna umjetna inteligencija", "regulacija AI-ja"]
 description: "Američki žalbeni sud ostavio je na snazi Pentagonovu odluku kojom je Anthropic označen kao rizik za nacionalni sigurnosni opskrbni lanac i isključen iz dijela vojnih ugovora."
 summary: "Anthropic ostaje na Pentagonovoj crnoj listi nakon što je američki žalbeni sud 25. rujna odbio pravni izazov kompanije. Spor se vodi oko ograničenja korištenja Claudea za nadzor i autonomno oružje."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

@@ -7,14 +7,15 @@ translationKey: "hype-hyperliquid-relative-strength-2026-02-04"
 source: "MetaAdvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hype-up.png"
-featured_image: "/images/Hype-up.png"
-image: "/images/Hype-up.png"
-thumbnail: "/images/Hype-up.png"
+image_url: "/images/Hype-up.webp"
+featured_image: "/images/Hype-up.webp"
+image: "/images/Hype-up.webp"
+thumbnail: "/images/Hype-up.webp"
 image_alt: "Ilustracija rasta i korekcije HYPE tokena u odnosu na tržište"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["hype", "hyperliquid", "altcoini", "relativna snaga", "crypto", "bitcoin", "likvidnost", "trgovanje", "derivati"]
 summary: "Dok je većina kripto tržišta tonula zajedno s Bitcoinom, HYPE token uspio je pokazati relativnu snagu — rastući u trenutku kada su drugi padali. Ipak, ni HYPE nije imun na šire tržišne pritiske, što jasno pokazuje granice individualne otpornosti altcoina."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

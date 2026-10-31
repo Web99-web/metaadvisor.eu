@@ -7,14 +7,15 @@ translationKey: "d9dad58ff7f3e81de2db9b5bc32b7e3a"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (Cointelegraph, ASIC, court documents)"
 source_url: ""
-image_url: "/images/news/Australia-Binance-69M.png"
-featured_image: "/images/news/Australia-Binance-69M.png"
-image: "/images/news/Australia-Binance-69M.png"
-thumbnail: "/images/news/Australia-Binance-69M.png"
+image_url: "/images/news/Australia-Binance-69M.webp"
+featured_image: "/images/news/Australia-Binance-69M.webp"
+image: "/images/news/Australia-Binance-69M.webp"
+thumbnail: "/images/news/Australia-Binance-69M.webp"
 image_alt: "Australia fines Binance over client misclassification"
 image_credit: "MetaAdvisor.eu"
 tags: ["binance", "bitcoin", "crypto", "regulation", "fine", "australia", "derivatives", "trading", "cryptocurrency", "finance"]
 summary: "An Australian court fined Binance $6.9 million after more than 85% of users were misclassified, exposing retail investors to high-risk derivatives without proper protections."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

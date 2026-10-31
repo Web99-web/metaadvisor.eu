@@ -3,18 +3,19 @@ title: "Ondo Finance in focus: are stocks moving to blockchain and is the market
 slug: "ondo-finance-tokenized-stocks-blockchain-future"
 date: 2026-03-31T06:30:00+01:00
 category: "crypto"
-translationKey: "7ee5a89332f38ccf99e6c7628e6ffc40"
+translationKey: "7ee5a89332f38ccf99e6c7628e6ffc40--2026-03-31"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (CoinDesk, Cointelegraph, market data)"
 source_url: ""
-image_url: "/images/companies/ONDO-finance.png"
-featured_image: "/images/companies/ONDO-finance.png"
-image: "/images/companies/ONDO-finance.png"
-thumbnail: "/images/companies/ONDO-finance.png"
+image_url: "/images/companies/ONDO-finance.webp"
+featured_image: "/images/companies/ONDO-finance.webp"
+image: "/images/companies/ONDO-finance.webp"
+thumbnail: "/images/companies/ONDO-finance.webp"
 image_alt: "Ondo Finance and tokenized stocks on blockchain"
 image_credit: "MetaAdvisor.eu"
 tags: ["ondo", "ondo finance", "rwa", "tokenization", "stocks", "blockchain", "metamask", "mexc", "crypto", "etf"]
 summary: "Ondo Finance is rapidly building infrastructure for tokenized stocks and ETFs through partnerships with MetaMask and MEXC, as the market increasingly blurs the line between Wall Street and blockchain."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

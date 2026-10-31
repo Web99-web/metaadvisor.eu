@@ -7,15 +7,16 @@ translationKey: "eu-uvodi-ai-oznake-sto-morate-oznaciti-2026-08-04"
 source: "Europska komisija, EU AI Act i smjernice o obvezama transparentnosti iz članka 50."
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/ai-deepfake.png"
-featured_image: "/images/ai-deepfake.png"
-image: "/images/ai-deepfake.png"
-thumbnail: "/images/ai-deepfake.png"
+image_url: "/images/ai-deepfake.webp"
+featured_image: "/images/ai-deepfake.webp"
+image: "/images/ai-deepfake.webp"
+thumbnail: "/images/ai-deepfake.webp"
 image_alt: "Simboličan prikaz AI deepfake sadržaja i obveznog označavanja u Europskoj uniji"
 image_credit: "Metaadvisor.eu – slika je simbolična"
-tags: ["Europska unija", "EU AI Act", "umjetna inteligencija", "AI oznake", "AI sadržaj", "deepfake", "generativna umjetna inteligencija", "AI chatbot", "AI transparentnost", "AI-generirani sadržaj", "strojno čitljive oznake", "članak 50.", "digitalna regulativa", "urednička kontrola", "U suradnji s AI-jem"]
+tags: ["Europska unija", "EU AI Act", "umjetna inteligencija", "AI oznake", "AI sadržaj", "deepfake", "generativna umjetna inteligencija", "AI chatbot", "AI transparentnost", "AI-generirani sadržaj", "strojno čitljive oznake", "članak 50", "digitalna regulativa", "urednička kontrola", "U suradnji s AI-jem"]
 description: "Od 2. kolovoza u Europskoj uniji primjenjuju se nova pravila za označavanje chatbotova, deepfake sadržaja i određenih AI-generiranih objava."
 summary: "EU AI Act uvodi obveze transparentnosti za chatbotove, deepfake sadržaj i određene AI-generirane publikacije, ali ne zahtijeva oznaku na svakom tekstu nastalom uz pomoć AI-ja."
+categories: ["artificial-intelligence"]
 ---
 
 # EU uvodi AI oznake: što morate označiti?

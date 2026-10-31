@@ -7,10 +7,10 @@ translationKey: "5845d78317078926512d3d615a192bb6"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/"
 author: "MetaAdvisor.eu"
-image_url: "/images/OpenAI-Convogo.png"
-featured_image: "/images/OpenAI-Convogo.png"
-image: "/images/OpenAI-Convogo.png"
-thumbnail: "/images/OpenAI-Convogo.png"
+image_url: "/images/OpenAI-Convogo.webp"
+featured_image: "/images/OpenAI-Convogo.webp"
+image: "/images/OpenAI-Convogo.webp"
+thumbnail: "/images/OpenAI-Convogo.webp"
 image_alt: "OpenAI übernimmt das Team hinter dem KI-Tool Convogo"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - executive coaching
   - acqui-hire
 summary: "OpenAI startet 2026 mit einem weiteren Acqui-hire und übernimmt das Team hinter dem KI-Tool Convogo, um die Entwicklung praxisnaher KI-Lösungen für Unternehmen zu beschleunigen."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

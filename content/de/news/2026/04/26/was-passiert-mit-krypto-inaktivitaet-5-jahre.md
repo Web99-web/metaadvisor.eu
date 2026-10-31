@@ -15,6 +15,7 @@ image_alt: "Bitcoin und Krypto-Assets auf Börsen"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "bitcoin", "börsen", "regulierung", "unclaimed property", "blockchain", "finanzen", "markt", "sicherheit"]
 summary: "Was passiert mit Krypto auf Börsen, wenn ein Konto jahrelang inaktiv bleibt und wie neue Gesetze den Umgang mit digitalen Vermögenswerten verändern."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

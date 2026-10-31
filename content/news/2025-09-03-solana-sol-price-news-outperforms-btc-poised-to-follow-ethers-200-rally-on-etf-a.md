@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/solana-outperforms-bitc
 summary: "SOL is the 'most obvious long right now,' Arca CIO Jeff Dorman said in a fresh report."
 tags: ["crypto", "Solana", "SOL", "BTC", "ETH", "ETF", "market"]
 image_url: "https://images.pexels.com/photos/6770772/pexels-photo-6770772.jpeg"
+categories: ["crypto"]
 ---
 
 With Bitcoin (BTC) hovering just above $110,000 and Ether (ETH) consolidating after fresh records, **Solana (SOL)** has emerged as a standout performer.  

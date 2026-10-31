@@ -7,14 +7,15 @@ translationKey: "germany_lithium_43million_metaadvisor_20251108"
 source: "The Economic Times / Electrive.com"
 source_url: "https://www.electrive.com/2025/09/25/neptune-energy-confirms-massive-lithium-resources-in-germany/"
 author: "Metaadvisor.eu"
-image_url: "/images/Germany-lithium-43million-ton.png"
-featured_image: "/images/Germany-lithium-43million-ton.png"
-image: "/images/Germany-lithium-43million-ton.png"
-thumbnail: "/images/Germany-lithium-43million-ton.png"
+image_url: "/images/Germany-lithium-43million-ton.webp"
+featured_image: "/images/Germany-lithium-43million-ton.webp"
+image: "/images/Germany-lithium-43million-ton.webp"
+thumbnail: "/images/Germany-lithium-43million-ton.webp"
 image_alt: "Deutschland entdeckt 43 Millionen Tonnen Lithium in der Region Altmark - Illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["deutschland", "lithium", "batterien", "elektrofahrzeuge", "grüne energie", "nachhaltigkeit", "altmark", "industrie", "europa"]
 summary: "In der Region Altmark in Deutschland wurden 43 Millionen Tonnen Lithium entdeckt – ein entscheidender Rohstoff für Elektrofahrzeuge, Energiespeicherung und die grüne Industrie. Der Abbau könnte Anfang der 2030er Jahre beginnen."
+categories: ["sustainability"]
 ---
 
 Deutschland hat eine der **größten geologischen Entdeckungen Europas** bestätigt – **43 Millionen Tonnen Lithiumkarbonat-Äquivalent (LCE)** in der Region **Altmark** im Bundesland **Sachsen-Anhalt**.  

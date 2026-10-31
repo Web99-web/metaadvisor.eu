@@ -28,6 +28,7 @@ tags:
   - liquidity
   - volatility
 summary: "A spot Solana ETF could open regulated demand channels and sequester circulating supply under custody — but the outcome hinges on regulation, fees and market sentiment."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

@@ -7,14 +7,15 @@ translationKey: "meta-ai-support-hack-instagram-2026-06-07"
 source: "The Guardian, Reuters, 404 Media, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Meta-AI-instagram-hack.png"
-featured_image: "/images/hack/Meta-AI-instagram-hack.png"
-image: "/images/hack/Meta-AI-instagram-hack.png"
-thumbnail: "/images/hack/Meta-AI-instagram-hack.png"
+image_url: "/images/hack/Meta-AI-instagram-hack.webp"
+featured_image: "/images/hack/Meta-AI-instagram-hack.webp"
+image: "/images/hack/Meta-AI-instagram-hack.webp"
+thumbnail: "/images/hack/Meta-AI-instagram-hack.webp"
 image_alt: "Meta AI support hack and Instagram account takeover concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Meta AI", "Instagram", "Facebook", "Messenger", "AI", "artificial intelligence", "AI support", "chatbot", "cybersecurity", "hacking", "account takeover", "password reset", "account security", "digital identity", "Meta Support", "automation", "AI moderation", "Metaadvisor"]
 summary: "The incident involving Meta’s AI support bot raises serious questions about how safe it is to leave account recovery to automated systems. If AI support can help hackers change account access, the problem is no longer only poor customer support — it becomes a security risk."
+categories: ["ai"]
 ---
 
 The image is symbolic.
@@ -83,7 +84,7 @@ Small business owners, page administrators, content creators, group moderators a
 <figure style="max-width:520px; margin:28px auto; text-align:center;">
   <a href="https://metaadvisor.eu/news/digital-erasure-private-platforms-public-square-emotional-deletion/" style="display:block;">
     <img 
-      src="/images/Social-networking-erased-destroyed.png" 
+      src="/images/Social-networking-erased-destroyed.webp" 
       alt="Digital erasure and emotional deletion of users from social networks"
       style="width:100%; height:auto; border-radius:14px;"
     >

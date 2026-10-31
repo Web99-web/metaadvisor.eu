@@ -7,14 +7,15 @@ translationKey: "b967983c5e1e60340d1a2aceb79298a1"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/23/south-korea-probes-significant-bitcoin-loss-in-a-phishing-attack"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hackers-Stolen-BTC-South-Korea.png"
-featured_image: "/images/Hackers-Stolen-BTC-South-Korea.png"
-image: "/images/Hackers-Stolen-BTC-South-Korea.png"
-thumbnail: "/images/Hackers-Stolen-BTC-South-Korea.png"
+image_url: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+featured_image: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+image: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+thumbnail: "/images/Hackers-Stolen-BTC-South-Korea.webp"
 image_alt: "Seized Bitcoin stolen from a government-controlled wallet in South Korea"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "South Korean authorities are investigating the loss of seized Bitcoin, allegedly stolen via a phishing attack from a government-controlled wallet."
 tags: ["bitcoin", "btc", "south korea", "phishing", "hackers", "cybersecurity", "crypto", "theft"]
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

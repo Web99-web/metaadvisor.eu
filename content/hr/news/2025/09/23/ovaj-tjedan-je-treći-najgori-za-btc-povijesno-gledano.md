@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/23/bitcoin-stumbles-in-week-38-its-third-worst-week-on-average"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "BTC – pad cijene (simbolična ilustracija)"
 image_credit: "Metaadvisor.eu (generirana grafika)"
 tags:
@@ -33,6 +33,7 @@ tags:
   - hpc
   - market-sentiment
 summary: "Povijesno, 38. tjedan je treći najgori za bitcoin (prosječno −2,25%). Ovaj tjedan BTC je već ~−2%, uz max pain oko 110.000 $ i niske funding stope te implied volatilnost – znak ohlađenog spekulativnog zamaha."
+categories: ["crypto"]
 ---
 
 **Kratko:** Statistika pokazuje da je **38. kalendarski tjedan** treći najlošiji za **bitcoin**, s prosječnim povratom oko **−2,25%** (slabiji su samo tjedni **14** i **28**). Trenutno je BTC u minusu od ~**2%**, oko **113.000 $**, dok **max pain** na mjesečnom isteku opcija u rujnu stoji oko **110.000 $**, što može implicirati **dodatni pritisak** prema toj razini.

@@ -7,14 +7,15 @@ translationKey: "mstr-pao-ispod-100-dolara-strategy-bitcoin-cash-dividende-2026-
 source: "CoinDesk, Cointelegraph, CryptoQuant, TradingView, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/MSTR-strategy-Bitcoin.png"
-featured_image: "/images/MSTR-strategy-Bitcoin.png"
-image: "/images/MSTR-strategy-Bitcoin.png"
-thumbnail: "/images/MSTR-strategy-Bitcoin.png"
+image_url: "/images/MSTR-strategy-Bitcoin.webp"
+featured_image: "/images/MSTR-strategy-Bitcoin.webp"
+image: "/images/MSTR-strategy-Bitcoin.webp"
+thumbnail: "/images/MSTR-strategy-Bitcoin.webp"
 image_alt: "MSTR Strategy Bitcoin stock and market pressure"
 image_credit: "Metaadvisor.eu"
 tags: ["MSTR", "Strategy", "Michael Saylor", "Bitcoin", "BTC", "stocks", "crypto market", "preferred shares", "STRC", "dividends", "cash reserve", "shareholder dilution", "technical analysis", "head and shoulders", "CoinDesk", "Cointelegraph", "CryptoQuant", "Metaadvisor"]
 summary: "MSTR has fallen below $100 while Bitcoin and the broader crypto market remain under pressure. Strategy is no longer only a story about aggressive Bitcoin buying, but also about cash reserves, dividend obligations, STRC pressure, possible shareholder dilution and market confidence."
+categories: ["crypto"]
 ---
 
 The image is symbolic.

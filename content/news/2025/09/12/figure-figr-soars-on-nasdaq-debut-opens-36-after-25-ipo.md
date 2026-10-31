@@ -11,6 +11,7 @@ image_url: "/images/placeholder.jpg"
 tags: ["fintech", "blockchain", "stocks", "ipo", "figure", "figr", "provenance", "mortgage"]
 our_take: |
   Our take: Figure priced its IPO at $25 and opened around $36 (+44%), implying a ~$7.6B valuation. The thesis is “blockchain as market plumbing” (Provenance) rather than a trading play. Watch loan volumes on-platform, funding costs as rates shift, and underwriting quality through the credit cycle. Also track the greenshoe and post-lockup supply.
+categories: ["news"]
 ---
 
 Figure Technology Solutions (ticker **FIGR**) made a strong public debut on the Nasdaq, **opening at $36 per share after a $25 IPO price** and valuing the company around **$7.6 billion**.

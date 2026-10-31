@@ -12,6 +12,7 @@ featured_image: "/images/bitcon-down.jpg"
 image_alt: "Bitcoin – crveni dan na tržištu"
 tags: ["bitcoin","tržišta","on-chain","sentiment"]
 summary: "Od 10:00 (CEST) cijena je počela kliziti i oko $114.867 je niže. Jednostavno rečeno: i mali i veliki vlasnici danas više prodaju nego kupuju — tipično ponašanje u razdoblju „stiskanja” tržišta."
+categories: ["crypto"]
 ---
 
 Jutros oko **10:00 (CEST)** Bitcoin je počeo kliziti i u trenutku pisanja je oko **$114.867**. Kad kažemo da „skupine prodaju”, ne mislimo na tajnu ložu nego na **grupe vlasnika prema veličini novčanika**. U praksi, analitički alati promatraju kako se ponašaju **manji računi** (ispod 1 BTC), **srednji** (recimo 1–100 BTC) i **veći** (stotine i tisuće BTC). Danas se vidi isti obrazac preko svih tih skupina: **više se prodaje nego kupuje**.

@@ -7,14 +7,15 @@ translationKey: "3598b220d41c351dc5588ffd9b816ee7"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/news/Robert-Kiyosaki-btc-750000.png"
-featured_image: "/images/news/Robert-Kiyosaki-btc-750000.png"
-image: "/images/news/Robert-Kiyosaki-btc-750000.png"
-thumbnail: "/images/news/Robert-Kiyosaki-btc-750000.png"
+image_url: "/images/news/Robert-Kiyosaki-btc-750000.webp"
+featured_image: "/images/news/Robert-Kiyosaki-btc-750000.webp"
+image: "/images/news/Robert-Kiyosaki-btc-750000.webp"
+thumbnail: "/images/news/Robert-Kiyosaki-btc-750000.webp"
 image_alt: "Robert Kiyosaki and the prediction of Bitcoin reaching $750,000"
 tags: ["robert kiyosaki", "bitcoin", "btc", "750000", "prediction", "crypto analysis", "crypto", "analysis", "market", "investments"]
 summary: "Robert Kiyosaki claims Bitcoin could reach $750,000 after a financial system collapse. But how realistic is such a scenario under current market conditions?"
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

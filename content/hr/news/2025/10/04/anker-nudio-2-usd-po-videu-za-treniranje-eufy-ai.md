@@ -16,6 +16,7 @@ image_alt: "Eufy sigurnosna kamera i treniranje AI na korisničkim snimkama"
 image_credit: "Metaadvisor.eu – simbolična fotografija"
 tags: ["ai", "privacy", "security", "data-collection", "surveillance", "user-generated-data", "synthetic-data", "model-training", "Eufy", "Anker", "Neon", "compliance"]
 summary: "Anker (Eufy) je početkom 2025. nudio 2 $ po videu krađe paketa ili automobilske provale kako bi trenirao svoje AI modele – uključujući i inscenirane događaje. Program otvara važno pitanje vrijednosti korisničkih podataka i privatnosti."
+categories: ["ai"]
 ---
 
 Početkom ove godine **Anker**, proizvođač **Eufy** sigurnosnih kamera, ponudio je korisnicima **2 $ po videu** s prizorima krađe paketa ili provale u automobil — s obrazloženjem da će takvi snimci pomoći u treniranju AI modela za prepoznavanje i sprječavanje krađa.

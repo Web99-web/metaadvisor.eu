@@ -15,6 +15,7 @@ image_alt: "Bitcoin-Logo — volatiler Markt über 110.000 USD"
 image_credit: "Metaadvisor.eu — Symbolbild."
 tags: ["bitcoin","btc","krypto","volatilitaet","derivate","open interest","liquidationen","funding","optionen","futures","on-chain","markt","technik","marktopsychologie"]
 summary: "Bitcoin handelt um 110.000 USD mit spürbar höherer Kurzfrist-Volatilität. Derivatemärkte zeigen hohes Open Interest, steigende Liquidationen und Whipsaws — typisch für späte Trendphasen und Tests psychologischer Zonen."
+categories: ["crypto"]
 ---
 
 Bitcoin bewegt sich aktuell **um 110.000 USD**, mit schnellen Ausschlägen in beide Richtungen und einem Aktivitätssprung an den Derivatemärkten.  

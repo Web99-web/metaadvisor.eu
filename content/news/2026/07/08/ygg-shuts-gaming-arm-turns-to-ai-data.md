@@ -16,6 +16,7 @@ tags: ["YGG", "Yield Guild Games", "YGG Play", "Web3 gaming", "play-to-earn", "A
 summary: "Yield Guild Games is shutting down YGG Play, laying off 35 employees and turning toward the AI data economy. A project that once symbolized the play-to-earn era is now trying to survive through gaming data for artificial intelligence."
 disclaimer: "This article is for informational purposes only and does not constitute financial, investment or business advice."
 draft: false
+categories: ["crypto"]
 ---
 
 Image is symbolic.
@@ -27,7 +28,7 @@ Yield Guild Games, better known as **YGG**, is shutting down its crypto game pub
 A particularly important detail relates to **October 10**. YGG says the major market crash on that day “fundamentally changed retail market psychology” and that it does not expect the crypto consumer market or the Web3 game publishing market to recover sufficiently in the near term.
 
 <a href="https://metaadvisor.eu/news/btc-was-the-answer-to-the-2007-crisis-what-happened-10-10-2025/" target="_blank" rel="noopener">
-  <img src="/images/bitcoin-BTC-2007-2009.png" alt="BTC was the answer to the 2007 crisis – what happened on 10.10.2025?" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/bitcoin-BTC-2007-2009.webp" alt="BTC was the answer to the 2007 crisis – what happened on 10.10.2025?" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/news/btc-was-the-answer-to-the-2007-crisis-what-happened-10-10-2025/" target="_blank" rel="noopener">BTC was the answer to the 2007 crisis – what happened on 10.10.2025?</a>

@@ -7,14 +7,15 @@ translationKey: "12fbf9a6ce57faa6450dc4337bf509fd"
 author: "Metaadvisor.eu"
 source: "Cointelegraph, CoinDesk, Binance, NCA"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/hacker.png"
-featured_image: "/images/hacker.png"
-image: "/images/hacker.png"
-thumbnail: "/images/hacker.png"
+image_url: "/images/hacker.webp"
+featured_image: "/images/hacker.webp"
+image: "/images/hacker.webp"
+thumbnail: "/images/hacker.webp"
 image_alt: "Krypto-Phishing-Angriff und Wallet-Hack"
 image_credit: "Metaadvisor Illustration"
 tags: ["crypto", "krypto", "bitcoin", "btc", "phishing", "betrug", "operation atlantic", "sicherheit", "wallet", "binance", "hack", "defi"]
 summary: "Operation Atlantic zeigt eine neue Art von Krypto-Betrug, bei dem Nutzer kein Geld senden, sondern unbewusst Zugriff auf ihre Wallets gewähren – mit über 20.000 Opfern und Millionenverlusten."
+categories: ["crypto"]
 ---
 
 _Das Bild ist symbolisch._

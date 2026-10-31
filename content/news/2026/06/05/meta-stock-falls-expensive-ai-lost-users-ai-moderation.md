@@ -7,14 +7,15 @@ translationKey: "meta-ai-costs-facebook-moderation-2026-06-05"
 source: "Reuters, MarketWatch, TechCrunch, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta.png"
-featured_image: "/images/Meta/Meta.png"
-image: "/images/Meta/Meta.png"
-thumbnail: "/images/Meta/Meta.png"
+image_url: "/images/Meta/Meta.webp"
+featured_image: "/images/Meta/Meta.webp"
+image: "/images/Meta/Meta.webp"
+thumbnail: "/images/Meta/Meta.webp"
 image_alt: "Meta, Facebook, Instagram and WhatsApp AI infrastructure concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Facebook", "Instagram", "WhatsApp", "Threads", "AI", "artificial intelligence", "AI infrastructure", "AI moderation", "AI costs", "Big Tech", "technology stocks", "META stock", "Meta Platforms", "Mark Zuckerberg", "advertising", "digital advertising", "user accounts", "profile bans", "automated moderation", "AI hallucinations", "platforms", "social networks", "tech stocks", "investors", "capital expenditure", "data centers", "Nvidia", "Alphabet", "Microsoft", "Amazon", "digital reputation", "Metaadvisor"]
 summary: "Meta stock fell sharply after reports about a possible major financing plan for AI infrastructure. But the question is not only how much artificial intelligence will cost, but also how much Meta could lose if it relies too heavily on AI moderation and automated decisions about users."
+categories: ["ai"]
 ---
 
 The image is symbolic.
@@ -55,7 +56,7 @@ Metaadvisor has already covered this topic in several stories, including the art
 <figure style="max-width:520px; margin:28px auto; text-align:center;">
   <a href="https://metaadvisor.eu/news/facebook-long-term-profiles-no-reputation-credit-problem/" style="display:block;">
     <img 
-      src="/images/Meta/Facebook-blocks-long-term-profiles.png" 
+      src="/images/Meta/Facebook-blocks-long-term-profiles.webp" 
       alt="Facebook blocks long-term profiles and AI moderation problem"
       style="width:100%; height:auto; border-radius:14px;"
     >

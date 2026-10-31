@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Revolut", "hakiranje", "hakeri", "Monero", "XMR", "krađa podataka", "KYC", "PEC", "Italija", "Polizia Postale", "Reggio Calabria", "crypto", "blockchain analiza", "ucjena", "cybersecurity", "osobni podaci"]
 description: "Napadači koji tvrde da stoje iza Revolut incidenta traže 6.000 Monera i prijete prodajom ukradenih podataka, dok talijanski izvori navode da su zahtjevi mjesecima stizali preko kompromitirane državne PEC adrese."
 summary: "Revolut napadači traže 6.000 XMR i prijete prodajom podataka najmanje 680 korisnika. ANSA piše da su zahtjevi navodno stizali preko kompromitirane talijanske državne PEC adrese i trajali oko pet mjeseci."
+categories: ["Kibernetička sigurnost"]
 ---
 
 *Slika je simbolična.*

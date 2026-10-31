@@ -6,15 +6,16 @@ category: "News"
 translationKey: "trump-hormuz-us-territory"
 source: "Truth Social, Reuters, CNA, The Times of Israel, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Trump-Hormuz-US-territory.png"
-featured_image: "/images/news/Trump-Hormuz-US-territory.png"
-image: "/images/news/Trump-Hormuz-US-territory.png"
-thumbnail: "/images/news/Trump-Hormuz-US-territory.png"
+image_url: "/images/news/Trump-Hormuz-US-territory.webp"
+featured_image: "/images/news/Trump-Hormuz-US-territory.webp"
+image: "/images/news/Trump-Hormuz-US-territory.webp"
+thumbnail: "/images/news/Trump-Hormuz-US-territory.webp"
 image_alt: "Donald Trump objavio kartu Hormuškog tjesnaca označenog kao New U.S. Territory"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Donald Trump", "Hormuški tjesnac", "Iran", "SAD", "Truth Social", "nafta", "geopolitika"]
 description: "Donald Trump objavio je na svojoj mreži Truth Social kartu na kojoj je Hormuški tjesnac označen kao 'New U.S. Territory'. Sama objava ne mijenja pravni status strateškog pomorskog prolaza."
 summary: "Donald Trump objavio je na Truth Socialu kartu koja Hormuški tjesnac označava kao 'New U.S. Territory', nekoliko dana nakon ranijih izjava o mogućem američkom teritoriju."
+categories: ["News"]
 ---
 
 # Trump objavio kartu: Hormuz kao "novi teritorij SAD-a"

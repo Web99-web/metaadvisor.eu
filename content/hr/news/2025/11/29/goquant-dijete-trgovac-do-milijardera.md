@@ -15,6 +15,7 @@ image_alt: "GoQuant – Denis Dariotis story"
 image_credit: "METAADVISOR AI-generated graphic"
 tags: ["goquant","ai","trading","algoritmi","quant","crypto","kriptovalute","mladi-poduzetnici","automatizacija","bitcoin","eth","financije"]
 summary: "Denis Dariotis počeo je trgovati u 3. razredu osnovne škole, a do 22. postao je milijarder zahvaljujući GoQuantu. Kako je to uspio – i može li običan čovjek profitirati iz ovakvog AI trading svijeta?"
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

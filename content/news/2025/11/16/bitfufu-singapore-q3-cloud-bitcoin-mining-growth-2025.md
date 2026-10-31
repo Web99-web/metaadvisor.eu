@@ -16,6 +16,7 @@ image_alt: "BitFuFu Q3 cloud mining growth"
 image_credit: "Metaadvisor.eu"
 tags: ["bitfufu", "singapore", "bitcoin", "mining", "cloud-mining", "profit", "hashrate", "crypto", "market", "infrastructure", "btc"]
 summary: "Singapore-based cloud-mining company BitFuFu has doubled its Q3 revenue, confirming the strong global recovery of the Bitcoin mining industry."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

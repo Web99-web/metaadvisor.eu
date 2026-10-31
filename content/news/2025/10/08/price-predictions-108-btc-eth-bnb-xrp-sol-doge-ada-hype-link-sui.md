@@ -16,6 +16,7 @@ image_alt: "Bitcoin and Ether — market overview"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags: ["crypto","price-prediction","technical-analysis","bitcoin","btc","ethereum","eth","binance-coin","bnb","xrp","solana","sol","dogecoin","doge","cardano","ada","chainlink","link","sui","hype","support-resistance","rsi","moving-averages","market-outlook"]
 summary: "Daily technical snapshot of key coins. Focus on trend, support/resistance zones, and scenarios for BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK, and SUI."
+categories: ["crypto"]
 ---
 
 Below is a concise technical rundown for **BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK** and **SUI**. This is *not* financial advice — it highlights the typical levels pros watch (trend, S/R zones, momentum indicators like **RSI** and moving averages).

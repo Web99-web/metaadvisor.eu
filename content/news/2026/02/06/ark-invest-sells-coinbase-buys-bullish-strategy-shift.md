@@ -15,6 +15,7 @@ image_alt: "ARK Invest sells Coinbase shares and reallocates capital into Bullis
 image_credit: "MetaAdvisor.eu"
 tags: ["ark invest", "cathie wood", "coinbase", "bullish", "crypto equities", "bitcoin", "crypto market", "investment strategy"]
 summary: "ARK Invest sold roughly $17 million worth of Coinbase shares and redeployed nearly the same amount into Bullish, signaling a notable strategy shift amid a sharp crypto market downturn."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

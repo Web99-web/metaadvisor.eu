@@ -27,6 +27,7 @@ tags:
   - whales
   - dune-analytics
 summary: "Von 71% Spitzenanteil im Mai auf 38%: Hyperliquids Marktanteil sinkt, während Lighter und Aster auf 16,8% bzw. 14,9% steigen. Bei ~700 Mrd. $ kumuliertem Volumen in 4 Wochen verschärft sich der Wettbewerb über Incentives, UX und Orderbuchtiefe."
+categories: ["ai"]
 ---
 
 Hyperliquid, einst unangefochtener Leader im **On-Chain-Perpetuals**-Markt, **verliert zügig Marktanteile** an neue Herausforderer wie **Lighter** und **Aster**.

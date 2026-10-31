@@ -16,6 +16,7 @@ tags: ["OpenAI", "ChatGPT", "ChatGPT für Familien", "Family Control", "elterlic
 summary: "OpenAI sucht einen Product Manager für Produkte, die sich an Familien, Betreuer und ältere Nutzer richten. ChatGPT ist durch alltägliche Fragen von Eltern, Kindern und älteren Menschen bereits in Haushalten angekommen. Nun stellt sich die Frage, ob der nächste Schritt ein Familienmodus, elterliche Kontrolle und Family Control sein könnte."
 disclaimer: "Dieser Artikel dient ausschließlich Informationszwecken und stellt keine technologische, rechtliche, pädagogische oder sicherheitsbezogene Beratung dar."
 draft: false
+categories: ["ai"]
 ---
 
 Das Bild ist symbolisch.

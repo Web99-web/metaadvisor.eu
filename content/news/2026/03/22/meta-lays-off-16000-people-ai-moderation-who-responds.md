@@ -7,15 +7,16 @@ translationKey: "meta-layoffs-ai-moderation-2026"
 author: "Metaadvisor.eu"
 source: "Reuters / Business Insider / JP Morgan"
 source_url: ""
-image_url: "/images/companies/Meta-lays-off-16000-people.png"
-featured_image: "/images/companies/Meta-lays-off-16000-people.png"
-image: "/images/companies/Meta-lays-off-16000-people.png"
-thumbnail: "/images/companies/Meta-lays-off-16000-people.png"
+image_url: "/images/companies/Meta-lays-off-16000-people.webp"
+featured_image: "/images/companies/Meta-lays-off-16000-people.webp"
+image: "/images/companies/Meta-lays-off-16000-people.webp"
+thumbnail: "/images/companies/Meta-lays-off-16000-people.webp"
 image_alt: "Meta plans to lay off 16000 employees and shift toward AI"
 image_credit: "Meta / illustration"
 tags: ["meta", "facebook", "ai", "artificial intelligence", "layoffs", "moderation", "big tech", "algorithms", "automation"]
 summary: "Meta plans to lay off around 16,000 employees with estimated savings of $5–6 billion, while at the same time problems with AI moderation and the disappearance of user support are increasing."
 symbolic_image: true
+categories: ["tech"]
 ---
 
 *The image is symbolic.*

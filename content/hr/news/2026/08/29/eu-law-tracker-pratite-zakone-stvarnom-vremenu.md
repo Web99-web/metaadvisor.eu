@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Europska unija", "EU", "EU Law Tracker", "zakonodavstvo EU", "europski zakoni", "Europski parlament", "Europska komisija", "Vijeće EU", "regulativa", "digitalni propisi", "umjetna inteligencija", "AI", "zaštita podataka", "poduzetnici", "poslovanje", "transparentnost"]
 description: "EU Law Tracker na jednom mjestu povezuje zakonodavne postupke Europske komisije, Europskog parlamenta i Vijeća EU te omogućuje praćenje prijedloga zakona kroz različite faze donošenja."
 summary: "EU Law Tracker omogućuje praćenje europskih zakonodavnih postupaka, dokumenata, pregovora i promjena na jednom mjestu. Alat može biti posebno koristan poduzetnicima, novinarima i svima koji žele ranije vidjeti koje nove regulative dolaze iz Bruxellesa."
+categories: ["EU"]
 ---
 
 # EU Law Tracker okuplja zakonodavni postupak EU na jednom mjestu

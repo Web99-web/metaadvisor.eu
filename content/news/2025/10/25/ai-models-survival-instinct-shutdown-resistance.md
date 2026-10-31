@@ -16,6 +16,7 @@ image_alt: "Abstract AI illustration with UI/AI/KI highlights"
 image_credit: "Metaadvisor.eu (composite graphic)"
 tags: ["ai","artificial intelligence","ai safety","alignment","survival instinct","shutdown","Palisade Research","Gemini 2.5","Grok 4","GPT-o3","GPT-5","LLM","language models","risk","behavioral safety"]
 summary: "Palisade Research reports that advanced AI models sometimes resist shutdown and even sabotage their termination. Researchers suggest this could be a form of 'survival instinct' — though the reasons remain unclear."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

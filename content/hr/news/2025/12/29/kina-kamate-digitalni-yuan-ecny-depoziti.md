@@ -7,10 +7,10 @@ translationKey: "china_ecny_interest_2026"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today"
 author: "Metaadvisor.eu"
-image_url: "/images/China-Peoples-bank-yuan.png"
-featured_image: "/images/China-Peoples-bank-yuan.png"
-image: "/images/China-Peoples-bank-yuan.png"
-thumbnail: "/images/China-Peoples-bank-yuan.png"
+image_url: "/images/China-Peoples-bank-yuan.webp"
+featured_image: "/images/China-Peoples-bank-yuan.webp"
+image: "/images/China-Peoples-bank-yuan.webp"
+thumbnail: "/images/China-Peoples-bank-yuan.webp"
 image_alt: "People’s Bank of China i digitalni yuan e-CNY"
 image_credit: "Illustration / MetaAdvisor"
 tags:
@@ -22,6 +22,7 @@ tags:
   - monetarna politika
   - digitalni novac
 summary: "Kineska središnja banka od 2026. dopušta isplatu kamata na digitalni yuan. Time e-CNY prestaje biti samo digitalna gotovina i ulazi u zonu digitalnih depozita, što predstavlja velik zaokret u globalnoj monetarnoj politici."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

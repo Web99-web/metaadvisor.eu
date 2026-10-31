@@ -8,11 +8,12 @@ source: "CoinDesk; Cointelegraph; Metaadvisor.eu"
 source_url: "https://www.coindesk.com/markets/2025/10/10/usd16b-in-longs-liquidated-as-wall-street-sell-off-extends-btc-eth-broader-crypto-market-meltdown"
 tags: ["crypto","bitcoin","btc","eth","xrp","sol","fear-greed","liquidations","adl","market-structure","etf","fund-flows","macro","market-cap"]
 summary: "Sentiment se preokrenuo u ‘Fear’, nominalno rekordne likvidacije dosegle su ~$19–20 mlrd, dio tradera upozorava da dno još nije formirano — dok istodobno BTC ETF-ovi bilježe ~2,71 mlrd $ tjednih priljeva. Objašnjavamo i ključnu razliku: 20 mlrd $ likvidacija (realizirani gubici) naspram ~168 mlrd $ manjeg market capa (papirnata vrijednost)."
-image_url: "/images/Fear-greed-11-10-2025.png"
-featured_image: "/images/Fear-greed-11-10-2025.png"
-thumbnail: "/images/Fear-greed-11-10-2025.png"
+image_url: "/images/Fear-greed-11-10-2025.webp"
+featured_image: "/images/Fear-greed-11-10-2025.webp"
+thumbnail: "/images/Fear-greed-11-10-2025.webp"
 image_alt: "Fear & Greed ‘Fear’, $20B likvidacije naspram +$2.71B ETF priljeva"
 image_credit: "Metaadvisor.eu (simbolična ilustracija)"
+categories: ["crypto"]
 ---
 
 U posljednja 24 sata kripto-tržište je doživjelo **rekordan val nominalnih likvidacija** – agregatno oko **$19–20 mlrd**, od čega ogromna većina na **long** pozicijama. **Bitcoin (BTC)** se kratko spuštao ispod **$110k**, a **Crypto Fear & Greed Index** skliznuo je u zonu **‘Fear’**.

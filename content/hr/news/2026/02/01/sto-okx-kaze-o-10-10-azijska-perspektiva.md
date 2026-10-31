@@ -8,10 +8,10 @@ source: "MetaAdvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/okx-analysis.png"
-featured_image: "/images/okx-analysis.png"
-image: "/images/okx-analysis.png"
-thumbnail: "/images/okx-analysis.png"
+image_url: "/images/okx-analysis.webp"
+featured_image: "/images/okx-analysis.webp"
+image: "/images/okx-analysis.webp"
+thumbnail: "/images/okx-analysis.webp"
 image_alt: "Analiza kripto burze OKX i njezine uloge na azijskom tržištu"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -23,6 +23,7 @@ tags:
   - derivati
   - globalna-tržišta
 summary: "Kripto burza OKX sve se češće pojavljuje u analizama velikih tržišnih pomaka. Iako je dugo bila izvan fokusa zapadnih medija, njezina uloga u Aziji i na tržištu derivata postaje sve vidljivija."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

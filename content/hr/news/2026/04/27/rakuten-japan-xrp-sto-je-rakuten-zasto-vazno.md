@@ -15,6 +15,7 @@ image_alt: "Rakuten i XRP integracija u plaćanja"
 image_credit: "Metaadvisor.eu"
 tags: ["xrp", "ripple", "rakuten", "japan", "crypto", "placanja", "blockchain", "financije"]
 summary: "Rakuten, jedan od najvećih digitalnih ekosustava u Japanu, uvodi XRP u plaćanja, dok banke istovremeno testiraju Ripple tehnologiju za međunarodne transfere."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -28,6 +28,7 @@ tags:
   - onchain-data
   - markets
 summary: "CEA Industries (BNC) reports **480,000 BNB** (+15% vs prior), bought at ~**$860/BNB** on average. At ~$1,303, the stack is worth **>$625M**; with **$77.5M** cash, total treasury nears **$700M**. Target: **1%** of BNB supply."
+categories: ["news"]
 ---
 
 *Image is symbolic.*

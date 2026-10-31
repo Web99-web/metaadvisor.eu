@@ -7,14 +7,15 @@ translationKey: "ripple_zcash_algorand_2025_overview"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/XRP-Zcash-zec-Algorand-algo.png"
-featured_image: "/images/XRP-Zcash-zec-Algorand-algo.png"
-image: "/images/XRP-Zcash-zec-Algorand-algo.png"
-thumbnail: "/images/XRP-Zcash-zec-Algorand-algo.png"
+image_url: "/images/XRP-Zcash-zec-Algorand-algo.webp"
+featured_image: "/images/XRP-Zcash-zec-Algorand-algo.webp"
+image: "/images/XRP-Zcash-zec-Algorand-algo.webp"
+thumbnail: "/images/XRP-Zcash-zec-Algorand-algo.webp"
 image_alt: "Ripple XRP, Zcash ZEC i Algorand ALGO – tri istaknuta kripto projekta 2025."
 image_credit: "MetaAdvisor.eu"
 tags: ["ripple", "xrp", "zcash", "zec", "algorand", "algo", "kripto-2025", "altcoini", "institucionalni-kripto"]
 summary: "Ripple (XRP), Zcash (ZEC) i Algorand (ALGO) izdvojili su se u 2025. kao rijetki projekti s jasnim narativom, regulatornim signalima i stvarnim slučajevima uporabe."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

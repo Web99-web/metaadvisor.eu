@@ -9,6 +9,7 @@ summary: "XRP raste s $2,74 na $2,82 dok kitovi akumuliraju gotovo 340 milijuna 
 tags: ["crypto","XRP","MACD","technical-analysis","whales"]
 image_url: "https://cdn.coindesk.com/coindesk-images/2025/09/xrp-macd-chart-2025.png"
 image_url_small: "https://cdn.coindesk.com/coindesk-images/2025/09/xrp-macd-chart-2025.png?fit=600%2C338"
+categories: ["crypto"]
 ---
 
 U protekla 24 sata, XRP je porastao za oko 3 %, dosegnuvši vrhunac oko $2,82. Kitovi su u akciji – akumulirali su oko 340 milijuna tokena (vrijednosti približno $960M), što pokazuje institucionalno povjerenje unatoč širem tržišnom pritisku.

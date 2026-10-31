@@ -7,14 +7,15 @@ translationKey: "spacex-ipo-only-five-percent-shares-allocation-2026-06-13"
 source: "Reuters, WSJ, MarketWatch, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/SpaceX-ipo-12.06.2026.png"
-featured_image: "/images/companies/SpaceX-ipo-12.06.2026.png"
-image: "/images/companies/SpaceX-ipo-12.06.2026.png"
-thumbnail: "/images/companies/SpaceX-ipo-12.06.2026.png"
+image_url: "/images/companies/SpaceX-ipo-12.06.2026.webp"
+featured_image: "/images/companies/SpaceX-ipo-12.06.2026.webp"
+image: "/images/companies/SpaceX-ipo-12.06.2026.webp"
+thumbnail: "/images/companies/SpaceX-ipo-12.06.2026.webp"
 image_alt: "SpaceX IPO und begrenzte Aktienzuteilung"
 image_credit: "Metaadvisor.eu"
 tags: ["SpaceX", "SpaceX IPO", "SPCX", "Elon Musk", "IPO", "Aktienzuteilung", "Retail-Anleger", "Nasdaq", "Aktien", "Börse", "öffentliche Emission", "IPO allocation", "Retail allocation", "tokenisierte Aktien", "xStocks", "Metaadvisor"]
 summary: "SpaceX brachte beim IPO nur rund 5% des Unternehmens an den Markt. Obwohl Retail-Anleger einen ungewöhnlich großen Teil des Angebots erhielten, war die Nachfrage so hoch, dass viele Anleger nicht die gewünschten Mengen bekamen."
+categories: ["news"]
 ---
 
 Das Bild ist symbolisch.
@@ -61,7 +62,7 @@ Wenn genügend Aktien vorhanden sind, kann der Nutzer alles erhalten, was er ang
 
 <figure style="max-width:520px; margin:26px auto; text-align:center;">
   <a href="https://metaadvisor.eu/de/news/xstocks-spacex-ipo-bybit-binance-wallet-bitget-kraken-refunds-coinbase-perps/" target="_blank" rel="noopener">
-    <img src="/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.png" alt="xStocks und SpaceX IPO: hohe Nachfrage und begrenzte Aktien" style="width:100%; height:auto; border-radius:12px;">
+    <img src="/images/news/SpaceX-IPO-xStocks-high-demand-limited-shared.webp" alt="xStocks und SpaceX IPO: hohe Nachfrage und begrenzte Aktien" style="width:100%; height:auto; border-radius:12px;">
   </a>
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     <a href="https://metaadvisor.eu/de/news/xstocks-spacex-ipo-bybit-binance-wallet-bitget-kraken-refunds-coinbase-perps/" target="_blank" rel="noopener">

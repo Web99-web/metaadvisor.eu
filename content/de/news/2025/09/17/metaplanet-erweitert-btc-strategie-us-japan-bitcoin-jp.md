@@ -18,6 +18,7 @@ summary: "Metaplanet gründet eine Income-Tochter in Miami, baut in Tokio ‘Bit
 pinned: true
 weight: -1000
 importance: 100
+categories: ["crypto"]
 ---
 
 Der japanische Bitcoin-Treasury-Akteur **Metaplanet** hat an einem Tag drei Moves gesetzt: **Metaplanet Income Corp.** in **Miami** (Fokus **BTC-Einnahmen** und Derivate), **Bitcoin Japan Inc.** in **Tokio** (Fokus **Medien & Events**) und die Übernahme der Domain **Bitcoin.jp** als nationales Sprungbrett für Inhalte und Community.

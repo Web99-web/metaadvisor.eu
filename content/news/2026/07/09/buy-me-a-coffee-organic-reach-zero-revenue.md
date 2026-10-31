@@ -16,6 +16,7 @@ tags: ["Buy Me a Coffee", "organic reach", "digital monetization", "creator econ
 summary: "MetaAdvisor has been testing manual organic growth for almost a year, without paid ads, boosted posts or artificial traffic. A few months ago, Buy Me a Coffee was added to the experiment. Organic reach exists, the audience is growing, but revenue from direct support is still zero dollars."
 disclaimer: "This article is for informational purposes only and reflects MetaAdvisor's experience with organic reach and an attempt to monetize content through Buy Me a Coffee. It does not constitute business, financial or marketing advice."
 draft: false
+categories: ["business"]
 ---
 
 The image is symbolic.

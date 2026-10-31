@@ -21,6 +21,7 @@ tags:
   - dogecoin
   - crypto-markt
   - bitcoin-dominanz
+categories: ["crypto"]
 ---
 
 ## Kommt 2026 das Comeback der Altcoins?

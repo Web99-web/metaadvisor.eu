@@ -24,6 +24,7 @@ tags:
   - datenschutz
   - datensicherheit
 summary: "Ransomware-Angriffe sind heute hochprofessionelle Geschäftsmodelle. Hinter den Kulissen entscheiden Verhandler, Forensiker und Krisenteams in Minuten darüber, ob ein Unternehmen überlebt oder kollabiert."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

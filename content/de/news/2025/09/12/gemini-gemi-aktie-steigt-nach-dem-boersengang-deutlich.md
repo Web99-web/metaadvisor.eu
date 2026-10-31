@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["crypto", "cryptocurrency", "solana", "sol", "stocks"]
 our_take: |
   Unser Fazit: Gemini (GEMI) eröffnete am Nasdaq Global Select Market bei 41 $ je Aktie, +45 % gegenüber dem gestrigen IPO-Preis von 28 $. Im Blick: Liquidität, Makro (Zinsen/USD) und Regulierung. Selektiv bleiben; nur High-Conviction-Positionen ausbauen.
+categories: ["news"]
 ---
 
 Die Aktie von Gemini (GEMI) eröffnete am Freitag am Nasdaq Global Select Market bei 41 US-Dollar je Anteilsschein und lag damit 45 % über dem IPO-Preis vom Vorabend.

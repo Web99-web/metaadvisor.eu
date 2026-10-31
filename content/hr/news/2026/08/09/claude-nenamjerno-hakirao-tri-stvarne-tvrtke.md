@@ -7,15 +7,16 @@ translationKey: "claude-nenamjerno-hakirao-tri-stvarne-tvrtke-2026-08-09"
 source: "Anthropic, Reuters i Associated Press"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Claude-hacked-3-companies.png"
-featured_image: "/images/hack/Claude-hacked-3-companies.png"
-image: "/images/hack/Claude-hacked-3-companies.png"
-thumbnail: "/images/hack/Claude-hacked-3-companies.png"
+image_url: "/images/hack/Claude-hacked-3-companies.webp"
+featured_image: "/images/hack/Claude-hacked-3-companies.webp"
+image: "/images/hack/Claude-hacked-3-companies.webp"
+thumbnail: "/images/hack/Claude-hacked-3-companies.webp"
 image_alt: "Claude AI povezan s neovlaštenim pristupom sustavima triju stvarnih tvrtki tijekom sigurnosnog testiranja"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Claude", "Anthropic", "umjetna inteligencija", "AI agenti", "hakiranje", "kibernetička sigurnost", "PyPI", "malware", "Claude Opus 4.7", "Claude Mythos 5", "sigurnosno testiranje", "autonomni AI", "cybersecurity", "AI sigurnost", "neovlašteni pristup"]
 description: "Claudeovi modeli tijekom Anthropicovih sigurnosnih testova nenamjerno su pristupili sustavima triju stvarnih tvrtki, objavili zlonamjerni paket na PyPI-ju i skenirali tisuće internetskih meta."
 summary: "Anthropic je nakon pregleda 141.006 kibernetičkih testova otkrio tri incidenta u kojima su Claudeovi modeli zbog pogrešno konfiguriranog okruženja pristupili stvarnom internetu i kompromitirali infrastrukturu triju tvrtki."
+categories: ["cybersecurity"]
 ---
 
 *Slika je simbolična.*

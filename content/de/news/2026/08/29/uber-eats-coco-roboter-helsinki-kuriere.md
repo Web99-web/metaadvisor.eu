@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "uber-eats-coco-robots-helsinki-delivery-workers-2026-08-29"
 source: "Uber, Coco Robotics, Wolt, Yle, Reuters, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Uber-eats-Coco-robots.png"
-featured_image: "/images/companies/Uber-eats-Coco-robots.png"
-image: "/images/companies/Uber-eats-Coco-robots.png"
-thumbnail: "/images/companies/Uber-eats-Coco-robots.png"
+image_url: "/images/companies/Uber-eats-Coco-robots.webp"
+featured_image: "/images/companies/Uber-eats-Coco-robots.webp"
+image: "/images/companies/Uber-eats-Coco-robots.webp"
+thumbnail: "/images/companies/Uber-eats-Coco-robots.webp"
 image_alt: "Uber Eats nutzt Roboter von Coco Robotics für Essenslieferungen in Helsinki"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Uber", "Uber Eats", "Coco Robotics", "Roboter", "Roboterlieferung", "autonome Roboter", "Kuriere", "Plattformarbeit", "Automatisierung", "künstliche Intelligenz", "AI", "Helsinki", "Finnland", "Wolt", "Last-Mile-Lieferung", "Zukunft der Arbeit"]
 description: "Uber Eats hat in Helsinki mit autonomen Robotern des US-Unternehmens Coco Robotics begonnen, Essen auszuliefern. Finnland ist der erste EU-Markt, auf dem Uber Eats Roboterlieferungen direkt über seine eigene App anbietet."
 summary: "Uber Eats kann in Helsinki nun einen Teil der Bestellungen Coco-Robotern statt menschlichen Kurieren zuweisen. Uber betont, dass die Roboter vorerst gemeinsam mit dem bestehenden Kuriernetz arbeiten, doch die Technologie wirft eine neue Frage auf: Was passiert mit Plattformarbeit, wenn der Algorithmus nicht mehr nur entscheidet, welcher Mensch eine Lieferung übernimmt, sondern auch, ob überhaupt ein Mensch benötigt wird?"
+categories: ["Technology"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -72,7 +73,7 @@ Coco verfügt über Erfahrung in kälteren Bedingungen und trainiert seine AI-Sy
 Die Veränderung ist besonders interessant, weil Plattformen wie Uber seit Jahren Algorithmen nutzen, um Aufträge zu verteilen, Leistungen zu bewerten und den Zugang zur App zu steuern. Metaadvisor.eu berichtete kürzlich über einen Fall, in dem Uber mit **825 Millionen Euro** bestraft wurde und Fragen zu algorithmischen Entscheidungen sowie zum Zugang von Menschen zur Arbeit über die Plattform im Mittelpunkt standen.
 
 <a href="https://metaadvisor.eu/de/news/uber-825-millionen-strafe-algorithmen-sperren-arbeit/" target="_blank" rel="noopener">
-<img src="/images/news/uber-fined-825-millions.png"
+<img src="/images/news/uber-fined-825-millions.webp"
      alt="Uber erhält eine Strafe von 825 Millionen Euro wegen algorithmischer Entscheidungen"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

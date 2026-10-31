@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/337835/bitcoin-derivatives-traders-further-upsid
 summary: "Bitcoin derivatives traders remain cautiously optimistic, balancing bullish bets with hedges as September’s seasonal risks loom."
 tags: ["bitcoin", "BTC", "crypto", "derivatives", "options", "futures"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
+categories: ["crypto"]
 ---
 
 Derivatives traders are expecting a moderately optimistic outlook for Bitcoin in September despite macroeconomic uncertainty and seasonal risks, with downside volatility appearing muted.

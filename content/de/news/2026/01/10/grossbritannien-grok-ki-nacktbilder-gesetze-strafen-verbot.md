@@ -7,10 +7,10 @@ translationKey: "uk_grok_ai_nudity_sanctions_20260110"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2026/jan/09/no-10-condemns-move-by-x-to-restrict-grok-ai-image-creation-tool-as-insulting"
 author: "MetaAdvisor.eu"
-image_url: "/images/UK-against-Grok-Nudity-ai-photos.png"
-featured_image: "/images/UK-against-Grok-Nudity-ai-photos.png"
-image: "/images/UK-against-Grok-Nudity-ai-photos.png"
-thumbnail: "/images/UK-against-Grok-Nudity-ai-photos.png"
+image_url: "/images/UK-against-Grok-Nudity-ai-photos.webp"
+featured_image: "/images/UK-against-Grok-Nudity-ai-photos.webp"
+image: "/images/UK-against-Grok-Nudity-ai-photos.webp"
+thumbnail: "/images/UK-against-Grok-Nudity-ai-photos.webp"
 image_alt: "Symbolische Illustration zu rechtlichen Maßnahmen Großbritanniens gegen Grok wegen KI-generierter Nacktbilder"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - online-safety-act
   - sexual-offences-act
 summary: "Die britische Regierung und Aufsichtsbehörden prüfen rechtliche und finanzielle Maßnahmen gegen den KI-Dienst Grok wegen der massenhaften Erstellung nackter und sexualisierter Bilder ohne Zustimmung."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:6px;">

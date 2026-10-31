@@ -16,6 +16,7 @@ image_alt: "Coinbase Amex kartica vs Gemini kartica"
 image_credit: "Slika je simbolična."
 tags: ["coinbase","amex","gemini","winklevoss","bitcoin","btc","crypto","credit-card","crypto-rewards"]
 summary: "Coinbase lansira Amex kreditnu karticu s nagradama do 4% u Bitcoinu, dok Gemini nudi multi-asset nagradne kartice s povratom u različite kriptovalute."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

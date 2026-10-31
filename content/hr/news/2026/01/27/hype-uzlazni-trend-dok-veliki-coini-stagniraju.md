@@ -7,14 +7,15 @@ translationKey: "hype_uptrend_vs_market_20260126"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/HYPE-up1.png"
-featured_image: "/images/HYPE-up1.png"
-image: "/images/HYPE-up1.png"
-thumbnail: "/images/HYPE-up1.png"
+image_url: "/images/HYPE-up1.webp"
+featured_image: "/images/HYPE-up1.webp"
+image: "/images/HYPE-up1.webp"
+thumbnail: "/images/HYPE-up1.webp"
 image_alt: "HYPE token s uzlaznom strelicom – simbol rasta"
 image_credit: "MetaAdvisor.eu"
 tags: ["hype", "hyperliquid", "crypto", "kripto", "altcoini", "trend", "bitcoin", "ethereum", "solana", "xrp"]
 summary: "Dok Bitcoin i vodeći coini ulaze u fazu konsolidacije, HYPE se posljednjih dana izdvaja snažnim uzlaznim trendom i pojačanim interesom tržišta."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,10 +7,10 @@ translationKey: "kaito_infofi_x_ban_20260115"
 source: "Cointelegraph / Reuters / MetaAdvisor Analysis"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Kaito-InfoFi-banned-from-X.png"
-featured_image: "/images/Kaito-InfoFi-banned-from-X.png"
-image: "/images/Kaito-InfoFi-banned-from-X.png"
-thumbnail: "/images/Kaito-InfoFi-banned-from-X.png"
+image_url: "/images/Kaito-InfoFi-banned-from-X.webp"
+featured_image: "/images/Kaito-InfoFi-banned-from-X.webp"
+image: "/images/Kaito-InfoFi-banned-from-X.webp"
+thumbnail: "/images/Kaito-InfoFi-banned-from-X.webp"
 image_alt: "X bans InfoFi reward-for-posting models, putting Kaito token under pressure"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "X has revoked API access and banned reward-for-posting models, dealing a major blow to InfoFi projects such as Kaito. The move triggered a sharp sell-off in the KAITO token and raised serious questions about the sustainability of InfoFi economics."
@@ -23,6 +23,7 @@ tags:
   - token
   - ai
   - social_media
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

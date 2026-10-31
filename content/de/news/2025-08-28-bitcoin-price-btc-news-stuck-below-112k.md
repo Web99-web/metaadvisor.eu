@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/bitcoin-remains-under-p
 summary: "Gold stieg am Donnerstag um fast 1 % auf knapp 3.500 USD je Unze – nahe dem Allzeithoch."
 tags: ["bitcoin","crypto","BTC","Ethereum","XRP","Solana","Gold"]
 image_url: "https://www.coindesk.com/resizer/vhzM7rE_XCXLtK78u8h8v1wMiDw=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/btc-price-aug28.jpg"
+categories: ["crypto"]
 ---
 
 Am Donnerstag erlebte der Kryptomarkt einen kurzen Aufschwung, der jedoch am US-Nachmittag durch **anhaltenden Verkaufsdruck** gebremst wurde.

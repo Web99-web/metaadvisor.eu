@@ -15,6 +15,7 @@ image_alt: "AI tržište i rast SNDK dionice kroz fokus na market chart"
 image_credit: "Metaadvisor.eu"
 tags: ["sndk dionica", "sandisk rast", "ai infrastruktura", "storage ai", "data centri rast", "ai ulaganja", "tehnoloske dionice ai", "nasdaq ai trend", "memorija ai potraznja", "investiranje ai"]
 summary: "SanDisk (SNDK) eksplodirao je s oko 250 USD krajem 2025. na gotovo 1.200 USD u 2026., potaknut snažnom potražnjom za AI infrastrukturom i storage rješenjima."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

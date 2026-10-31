@@ -10,6 +10,7 @@ image_url: "/images/asia-briefing.jpg"
 image_alt: "Nächtliche Skyline eines asiatischen Finanzdistrikts mit Krypto-Chart"
 tags: ["asia","macro","policy","stablecoin","tax"]
 summary: "Japan peilt bis 2026 eine einheitliche 20%-Krypto-Steuer an; Hongkongs Stablecoin-Regime ist in Kraft; Südkorea implementiert OECD-CARF-Datenaustausch; Pakistan debattiert Krypto vs. Hawala."
+categories: ["crypto"]
 ---
 
 **1) Japan: Fahrplan für einheitliche 20% Krypto-Steuer (bis 2026)**  

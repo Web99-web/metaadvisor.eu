@@ -15,6 +15,7 @@ image_alt: "Kalshi Plattform und rechtlicher Konflikt mit US-Bundesstaaten"
 tags: ["kalshi", "prediction markets", "regulierung", "cftc", "arizona", "nevada", "fintech", "crypto", "wetten"]
 summary: "Kalshi sieht sich mit Strafanzeigen in Arizona und einem Verbot in Nevada konfrontiert, während der Konflikt zwischen Bundesstaaten und föderalen Regulierern über die Zukunft von Prognosemärkten eskaliert."
 symbolic_image: true
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

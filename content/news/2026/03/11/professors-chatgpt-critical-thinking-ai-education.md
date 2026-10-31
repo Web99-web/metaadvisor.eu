@@ -16,6 +16,7 @@ image_alt: "AI and education – students using artificial intelligence while le
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["ai","artificial intelligence","chatgpt","ai education","ai in schools","critical thinking","students","teachers","technology","education","future of education"]
 summary: "Professors around the world are trying to find ways to preserve critical thinking among students in the age of artificial intelligence. AI tools such as ChatGPT are changing how students learn, write and solve problems."
+categories: ["ai"]
 ---
 
 *Image is symbolic.*

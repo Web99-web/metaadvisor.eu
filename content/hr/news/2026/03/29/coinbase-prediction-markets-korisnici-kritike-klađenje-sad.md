@@ -7,14 +7,15 @@ translationKey: "a96ca6f40e698c69f0782c2052b01afe"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (Cointelegraph, sudski dokumenti)"
 source_url: ""
-image_url: "/images/companies/Coinbase-prediction-markets.png"
-featured_image: "/images/companies/Coinbase-prediction-markets.png"
-image: "/images/companies/Coinbase-prediction-markets.png"
-thumbnail: "/images/companies/Coinbase-prediction-markets.png"
+image_url: "/images/companies/Coinbase-prediction-markets.webp"
+featured_image: "/images/companies/Coinbase-prediction-markets.webp"
+image: "/images/companies/Coinbase-prediction-markets.webp"
+thumbnail: "/images/companies/Coinbase-prediction-markets.webp"
 image_alt: "Coinbase prediction markets i kontroverze oko klađenja"
 image_credit: "MetaAdvisor.eu"
 tags: ["coinbase", "prediction markets", "klađenje", "kripto", "btc", "crypto", "regulacija", "sad", "tržište", "ai"]
 summary: "Coinbase se suočava s kritikama korisnika zbog promoviranja klađenja kroz prediction markete, dok se istovremeno vodi pravna bitka s američkim regulatorima."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

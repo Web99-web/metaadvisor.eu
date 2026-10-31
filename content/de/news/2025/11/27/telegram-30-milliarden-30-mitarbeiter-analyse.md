@@ -15,6 +15,7 @@ image_alt: "Telegram Analyse: Unternehmenswert und Teamgröße"
 image_credit: "MetaAdvisor AI-generated (symbolisches Bild)"
 tags: ["telegram", "apps", "technologie", "bewertung", "startup", "remote-arbeit", "lean-modell", "geschäftsmodell", "finanzen", "plattformen"]
 summary: "Kann eine Plattform 30 Milliarden USD wert sein und nur 30 Mitarbeiter haben? Wir analysieren Fakten, Mythen und das wahre Geschäftsmodell von Telegram."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

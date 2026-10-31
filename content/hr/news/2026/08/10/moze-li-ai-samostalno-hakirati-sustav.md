@@ -7,15 +7,16 @@ translationKey: "moze-li-ai-samostalno-hakirati-sustav-2026-08-10"
 source: "OpenAI, Anthropic, Google Project Zero, DARPA i javno dostupna sigurnosna istraživanja"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/can-AI-hack-on-its-own.png"
-featured_image: "/images/informative/can-AI-hack-on-its-own.png"
-image: "/images/informative/can-AI-hack-on-its-own.png"
-thumbnail: "/images/informative/can-AI-hack-on-its-own.png"
+image_url: "/images/informative/can-AI-hack-on-its-own.webp"
+featured_image: "/images/informative/can-AI-hack-on-its-own.webp"
+image: "/images/informative/can-AI-hack-on-its-own.webp"
+thumbnail: "/images/informative/can-AI-hack-on-its-own.webp"
 image_alt: "AI agent usmjeren prema računalnom sustavu uz pitanje može li ga samostalno hakirati"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["umjetna inteligencija", "AI agenti", "autonomni AI", "hakiranje", "kibernetička sigurnost", "OpenAI", "Anthropic", "Claude", "Hugging Face", "Big Sleep", "DARPA", "sigurnosne ranjivosti", "cybersecurity", "AI sigurnost", "autonomni napadi"]
 description: "AI agenti već mogu samostalno tražiti ranjivosti, pisati kod, povezivati više koraka napada i pristupati stvarnim sustavima, ali još uvijek trebaju cilj, alate i odgovarajući pristup."
 summary: "OpenAI-jevi i Anthropicovi sigurnosni incidenti pokazali su da AI više nije samo pomoćnik koji objašnjava kako napad djeluje. Kada dobije terminal, mrežni pristup i dovoljno širok cilj, može samostalno provesti velik dio stvarnog kibernetičkog napada."
+categories: ["cybersecurity"]
 ---
 
 *Slika je simbolična.*
@@ -48,7 +49,7 @@ Modeli su se ponašali kao učenik koji ne zna riješiti zadatak pa, umjesto da 
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/hr/news/openai-modeli-hakirali-hugging-face-zbog-odgovora-na-testu/" target="_blank" rel="noopener">
-    <img src="/images/hack/OpenAI-hacked-HuggingFace.png" alt="OpenAI-jevi modeli hakirali Hugging Face zbog odgovora na testu" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/hack/OpenAI-hacked-HuggingFace.webp" alt="OpenAI-jevi modeli hakirali Hugging Face zbog odgovora na testu" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/hr/news/openai-modeli-hakirali-hugging-face-zbog-odgovora-na-testu/" target="_blank" rel="noopener"><strong>OpenAI-jevi modeli hakirali Hugging Face zbog odgovora na testu</strong></a>
@@ -69,7 +70,7 @@ Treći je model skenirao približno 9.000 internetskih meta i kompromitirao stva
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/hr/news/claude-nenamjerno-hakirao-tri-stvarne-tvrtke/" target="_blank" rel="noopener">
-    <img src="/images/hack/Claude-hacked-3-companies.png" alt="Claude nenamjerno hakirao tri stvarne tvrtke" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/hack/Claude-hacked-3-companies.webp" alt="Claude nenamjerno hakirao tri stvarne tvrtke" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/hr/news/claude-nenamjerno-hakirao-tri-stvarne-tvrtke/" target="_blank" rel="noopener"><strong>Claude nenamjerno hakirao tri stvarne tvrtke</strong></a>

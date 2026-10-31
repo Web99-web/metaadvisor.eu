@@ -7,10 +7,10 @@ translationKey: "celsius-usd-vs-btc"
 author: "Metaadvisor.eu"
 source: "Celsius Mining LLC (IPO najava, svibanj 2022.), Celsius Chapter 11 (srpanj 2022.), Ionic Digital operativne objave (2024.), komunikacije s vjerovnicima"
 source_url: ""
-image_url: "/images/Celsius.png"
-featured_image: "/images/Celsius.png"
-image: "/images/Celsius.png"
-thumbnail: "/images/Celsius.png"
+image_url: "/images/Celsius.webp"
+featured_image: "/images/Celsius.webp"
+image: "/images/Celsius.webp"
+thumbnail: "/images/Celsius.webp"
 image_alt: "Celsius Bankruptcy (symbolic)"
 image_credit: "Metaadvisor.eu"
 
@@ -35,6 +35,7 @@ tags:
   - analiza
 
 summary: "Celsius je 12.06.2022. zamrznuo isplate i 13.07.2022. podnio Chapter 11. Iako je tvrtka rudila BTC, obračun je vođen u USD na petition datumu. Distribucije su krenule ranije u 2024., no mnogi su kasnili zbog Coinbase on-boardinga — zato 70% nije značilo 70% BTC-a."
+categories: ["crypto"]
 ---
 
 ## Uvod: kada “štednja u BTC-u” postane fiat iluzija

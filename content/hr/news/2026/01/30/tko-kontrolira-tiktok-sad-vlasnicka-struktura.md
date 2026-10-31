@@ -26,6 +26,7 @@ tags:
   - algoritmi
   - big tech
 summary: "Nakon višegodišnjih političkih pritisaka i sigurnosnih rasprava, TikTok je u SAD-u dobio novu vlasničku strukturu. Donosimo pregled tko danas kontrolira američku verziju TikToka, kako funkcionira novi model i što to znači za korisnike."
+categories: ["technology"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

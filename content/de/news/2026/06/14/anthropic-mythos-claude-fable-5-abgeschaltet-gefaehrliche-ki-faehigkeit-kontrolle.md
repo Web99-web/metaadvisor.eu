@@ -7,14 +7,15 @@ translationKey: "anthropic-mythos-claude-fable-5-ai-control-2026-06-14"
 source: "Anthropic, Reuters, The Verge, Axios, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-featured_image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-thumbnail: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
+image_url: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+featured_image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+thumbnail: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
 image_alt: "Anthropic Mythos and Claude Fable 5 AI illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["Anthropic", "Claude Fable 5", "Claude Mythos 5", "Anthropic Mythos", "künstliche Intelligenz", "KI", "frontier AI", "KI-Sicherheit", "KI-Regulierung", "Exportkontrollen", "US-Regierung", "nationale Sicherheit", "Cybersicherheit", "Jailbreak", "digitale Souveränität", "technologische Abhängigkeit", "Big Tech", "globale Plattformen", "KI-Tools", "Metaadvisor"]
 summary: "Anthropics Claude Fable 5 und Claude Mythos 5 wurden nach nur wenigen Tagen wegen einer US-Regierungsanordnung im Zusammenhang mit nationaler Sicherheit abgeschaltet. Der Fall wirft eine zentrale Frage auf: Lässt sich die gefährlichste KI-Fähigkeit überhaupt kontrollieren, sobald sie als kommerzielles Werkzeug verfügbar wird?"
+categories: ["ai"]
 ---
 
 

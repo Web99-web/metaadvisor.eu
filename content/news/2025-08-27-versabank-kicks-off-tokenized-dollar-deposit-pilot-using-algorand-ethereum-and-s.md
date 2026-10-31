@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/08/27/versabank-tests-tokeni
 summary: "Digital bank VersaBank unveiled plans to expand its blockchain-based Digital Deposit Receipts to the U.S. with regulatory oversight in focus."
 tags: ["crypto","VersaBank","Algorand","Ethereum","Stellar","tokenized deposits"]
 image_url: "https://www.coindesk.com/resizer/XKwdVQFZsdDe7q3H2FZC88Gxwqg=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WXYZ12345.jpg"
+categories: ["crypto"]
 ---
 
 VersaBank, a Canadian digital bank with a focus on business clients, has started testing a tokenized deposit that it says provides a safer and more compliant alternative to stablecoins.

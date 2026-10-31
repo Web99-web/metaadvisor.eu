@@ -7,10 +7,10 @@ translationKey: "palantir_uk_security_questions_22122025"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/dec/22/mps-question-uk-palantir-contracts-security-concerns-investigation"
 author: "Metaadvisor.eu"
-image_url: "/images/palantir-it.png"
-featured_image: "/images/palantir-it.png"
-image: "/images/palantir-it.png"
-thumbnail: "/images/palantir-it.png"
+image_url: "/images/palantir-it.webp"
+featured_image: "/images/palantir-it.webp"
+image: "/images/palantir-it.webp"
+thumbnail: "/images/palantir-it.webp"
 image_alt: "Palantir, data analytics and state security"
 tags:
   - palantir
@@ -19,6 +19,7 @@ tags:
   - artificial-intelligence
   - public-sector
 summary: "After a Swiss investigation raised red flags, UK MPs are questioning the security and ethical risks of government contracts with US data company Palantir."
+categories: ["news"]
 ---
 
 # Palantir, state security and data: Why the UK Parliament is demanding answers

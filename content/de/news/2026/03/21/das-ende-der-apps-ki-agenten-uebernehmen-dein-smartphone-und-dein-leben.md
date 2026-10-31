@@ -7,14 +7,15 @@ translationKey: "8af459e4138dbe9c3a30ba7b148d6445"
 author: "Metaadvisor.eu"
 source: "TechCrunch"
 source_url: ""
-image_url: "/images/AI-agent.png"
-featured_image: "/images/AI-agent.png"
-image: "/images/AI-agent.png"
-thumbnail: "/images/AI-agent.png"
+image_url: "/images/AI-agent.webp"
+featured_image: "/images/AI-agent.webp"
+image: "/images/AI-agent.webp"
+thumbnail: "/images/AI-agent.webp"
 image_alt: "KI-Agenten und eine Zukunft ohne Apps"
 tags: ["ai", "ai agents", "smartphone", "apps", "nothing", "carl pei", "future tech"]
 summary: "Der CEO von Nothing glaubt, dass Apps verschwinden und durch KI-Agenten ersetzt werden. Doch Fragen zu Sicherheit, Halluzinationen und Nutzerverständnis bleiben zentrale Herausforderungen."
 symbolic_image: true
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

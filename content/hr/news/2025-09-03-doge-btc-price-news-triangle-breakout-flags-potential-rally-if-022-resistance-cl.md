@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/doge-btc-triangle-break
 summary: "Dogecoin se oporavio od dnevne rasprodaje, dok nakupljanje od strane whales i špekulacije o ETF-u potiču snažnu trgovinsku aktivnost."
 tags: ["dogecoin", "DOGE", "bitcoin", "BTC", "crypto", "ETF", "breakout", "trading"]
 image_url: "https://upload.wikimedia.org/wikipedia/en/d/d0/Dogecoin_Logo.png"
+categories: ["crypto"]
 ---
 
 **Dogecoin (DOGE)** je doživio dnevnu volatilnost od 4%, ali je dan završio u plusu od 1% na **0,213 USD**, unatoč snažnim oscilacijama.

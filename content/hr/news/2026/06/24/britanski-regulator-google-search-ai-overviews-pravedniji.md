@@ -15,6 +15,7 @@ image_alt: "UK Competition and Markets Authority and Google AI Overviews regulat
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Google Search", "AI Overviews", "AI pretraživanje", "CMA", "Competition and Markets Authority", "britanski regulator tržišnog natjecanja", "agencija za tržišno natjecanje", "britanski regulator", "Big Tech", "SEO", "organski promet", "web promet", "izdavači", "AI regulacija", "digitalna tržišta", "njemačka sudska presuda", "Metaadvisor"]
 summary: "Britanski regulator CMA uveo je nova obvezujuća pravila za Google Search, uključujući AI Overviews. Nakon mjeseci rasprava o padu prometa web stranica i nedavne njemačke presude o odgovornosti za AI odgovore, Europa sve jasnije pokazuje da AI pretraživanje više nije samo tehnološko pitanje."
+categories: ["AI"]
 ---
 
 The image is symbolic.

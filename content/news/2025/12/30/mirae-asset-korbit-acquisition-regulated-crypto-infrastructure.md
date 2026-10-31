@@ -7,10 +7,10 @@ translationKey: "mirae_asset_korbit_acquisition_28122025"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/mirae-asset-in-talks-to-buy-korean-crypto-exchange-korbit"
 author: "Metaadvisor.eu"
-image_url: "/images/Korbit-Mirae-Asset.png"
-featured_image: "/images/Korbit-Mirae-Asset.png"
-image: "/images/Korbit-Mirae-Asset.png"
-thumbnail: "/images/Korbit-Mirae-Asset.png"
+image_url: "/images/Korbit-Mirae-Asset.webp"
+featured_image: "/images/Korbit-Mirae-Asset.webp"
+image: "/images/Korbit-Mirae-Asset.webp"
+thumbnail: "/images/Korbit-Mirae-Asset.webp"
 image_alt: "Mirae Asset Group and South Korean crypto exchange Korbit"
 tags:
   - mirae asset
@@ -22,6 +22,7 @@ tags:
   - crypto regulation
   - digital assets
 summary: "South Korea’s Mirae Asset Group is reportedly in talks to acquire crypto exchange Korbit. Despite modest trading volumes, Korbit’s regulatory status makes it a strategic entry point for institutional crypto adoption in Asia."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

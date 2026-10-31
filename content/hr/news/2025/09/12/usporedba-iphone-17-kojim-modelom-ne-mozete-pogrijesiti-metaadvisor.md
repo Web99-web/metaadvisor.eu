@@ -3,7 +3,7 @@ title: "Vodič za kupnju iPhonea 17: Air vs Pro vs Pro Max — koji model odabra
 slug: "vodic-iphone-17-koji-model-odabrati"
 date: 2025-09-12T18:46:51Z
 category: "news"
-translationKey: "4f1a99c11e3a4a6b9cb2f4eacb3b8e2a"
+translationKey: "iphone-17-expanded-guide-2025-09-12"
 source: "MetaAdvisor"
 source_url: "https://metaadvisor.eu"
 priority: 100
@@ -11,6 +11,7 @@ image_url: "/images/IPHONE3.jpg"
 tags: ["apple", "iphone", "smartphones", "ai"]
 our_take: |
   Naš osvrt: Sva četiri modela imaju 120 Hz zaslone i veći početni storage. Ključna razlika je između tankog i laganog Air-a te Pro/Pro Max modela orijentiranih na performanse i kamere. Za većinu je iPhone 17 najbolja vrijednost; kreatori i gameri neka ciljaju Pro; ako je prioritet udobnost i baterija – Air.
+categories: ["news"]
 ---
 
 **Kratko:** iPhone 17 je najbolja vrijednost, **Air** ako želiš tanak i udoban telefon s odličnom baterijom, **Pro** za performanse i kamere, **Pro Max** za najveći ekran i autonomiju.

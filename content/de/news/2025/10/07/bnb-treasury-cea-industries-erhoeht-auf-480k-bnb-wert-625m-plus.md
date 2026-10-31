@@ -28,6 +28,7 @@ tags:
   - onchain-data
   - märkte
 summary: "CEA Industries (BNC) meldet **480.000 BNB** (+15 % ggü. vorher), Ø-Einkauf ~$860/BNB. Bei ~$1.303 liegt der Bestand bei >$625 Mio.; inkl. $77,5 Mio. Cash nähert sich der Treasury **$700 Mio.** Ziel: **1 %** des BNB-Supplies."
+categories: ["news"]
 ---
 
 *Bild ist symbolisch.*

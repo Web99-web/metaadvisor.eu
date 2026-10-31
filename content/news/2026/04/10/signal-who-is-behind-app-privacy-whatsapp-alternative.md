@@ -7,14 +7,15 @@ translationKey: "a7f3c2d9e8b14c6fa9d3b5e7c1a2f4d8"
 author: "Metaadvisor.eu"
 source: "Technology analysis, public data"
 source_url: ""
-image_url: "/images/companies/Signal-app.png"
-featured_image: "/images/companies/Signal-app.png"
-image: "/images/companies/Signal-app.png"
-thumbnail: "/images/companies/Signal-app.png"
+image_url: "/images/companies/Signal-app.webp"
+featured_image: "/images/companies/Signal-app.webp"
+image: "/images/companies/Signal-app.webp"
+thumbnail: "/images/companies/Signal-app.webp"
 image_alt: "Signal app and private communication"
 image_credit: "Illustration"
 tags: ["signal app","message privacy","whatsapp alternative","communication encryption","digital privacy","meta competition","signal foundation","cyber security","ai communication","chat apps"]
 summary: "Signal is increasingly mentioned as an alternative to WhatsApp, but few people know who is actually behind the app and how its model works."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

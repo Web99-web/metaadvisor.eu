@@ -3,18 +3,19 @@ title: "MetaMask omogućuje kupnju tokeniziranih američkih dionica izravno unut
 slug: "metamask-tokenizirane-americke-dionice-unutar-walleta"
 date: 2026-02-04T12:30:00
 category: "crypto"
-translationKey: "7ee5a89332f38ccf99e6c7628e6ffc40"
+translationKey: "7ee5a89332f38ccf99e6c7628e6ffc40--2026-02-04"
 source: "CoinDesk"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Metamask-stocks.png"
-featured_image: "/images/Metamask-stocks.png"
-image: "/images/Metamask-stocks.png"
-thumbnail: "/images/Metamask-stocks.png"
+image_url: "/images/Metamask-stocks.webp"
+featured_image: "/images/Metamask-stocks.webp"
+image: "/images/Metamask-stocks.webp"
+thumbnail: "/images/Metamask-stocks.webp"
 image_alt: "MetaMask wallet s tokeniziranim američkim dionicama i burzovnim grafikonima"
 image_credit: "MetaAdvisor.eu"
 tags: ["metamask","tokenizirane dionice","američke dionice","rwa","real world assets","kripto wallet","ethereum","defi","tradfi","tokenizacija","onchain","blockchain"]
 summary: "MetaMask je kroz novu integraciju omogućio pristup tokeniziranim američkim dionicama, ETF-ovima i robama izravno unutar kripto walleta, bez klasičnog brokerskog računa."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

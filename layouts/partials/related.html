@@ -7,6 +7,7 @@
 
 {{- $rel := where $all.RegularPages "Permalink" "ne" $current.Permalink -}}
 {{- $rel = where $rel "Title" "ne" "Inbox (drafts)" -}}
+{{- $rel = partial "preferred-articles.html" $rel -}}
 
 {{- if gt (len $tags) 0 -}}
   {{- $byTags := where $rel "Params.tags" "intersect" $tags -}}
@@ -36,7 +37,7 @@
       {{/* Slika: hero (bundle) > image_url / image (bundle/abs) > placeholder */}}
       {{- $ph := "/images/placeholder-metaadvisor-small.jpg" -}}
       {{- $src := "" -}}
-      {{ with $p.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
+      {{ with (or ($p.Resources.GetMatch "hero.png") ($p.Resources.GetMatch "hero*")) }}{{ $src = .RelPermalink }}{{ end }}
       {{ if not $src }}
         {{ $img := or $p.Params.image_url $p.Params.image }}
         {{ if $img }}
@@ -60,7 +61,7 @@
 
         <div class="card-body" style="display:flex!important;flex-direction:column!important;gap:8px!important;min-height:0!important">
           <div class="card-meta">
-            <span class="muted">{{ $p.Date.Format "2006-01-02" }}</span>
+            <span class="muted">{{ partial "reader-date.html" $p.Date }}</span>
             {{ with $p.Params.category }}
               <span class="badge"><a href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a></span>
             {{ end }}

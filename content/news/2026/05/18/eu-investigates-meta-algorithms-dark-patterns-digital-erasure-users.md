@@ -7,14 +7,15 @@ translationKey: "f0c61a4f93f847d8b2c5aa9f1dbe7741"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Social-networking-erased-destroyed.png"
-featured_image: "/images/Social-networking-erased-destroyed.png"
-image: "/images/Social-networking-erased-destroyed.png"
-thumbnail: "/images/Social-networking-erased-destroyed.png"
+image_url: "/images/Social-networking-erased-destroyed.webp"
+featured_image: "/images/Social-networking-erased-destroyed.webp"
+image: "/images/Social-networking-erased-destroyed.webp"
+thumbnail: "/images/Social-networking-erased-destroyed.webp"
 image_alt: "Digital erasure of users and AI moderation on social networks"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "dsa", "eu", "meta", "facebook", "instagram", "algorithms", "dark patterns", "ai moderation", "digital rights", "appeals centre europe", "shadowban", "moderation", "tech", "europe"]
 summary: "Ireland’s media regulator has opened new investigations into Meta related to Facebook and Instagram recommendation algorithms. At the same time, more and more users report AI moderation problems, shadow restrictions and a feeling of digital erasure."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

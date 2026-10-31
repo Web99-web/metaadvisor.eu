@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "Solana", "AAVE", "HYPE", "Kryptowährungen", "Short Squeeze", "Liquidationen", "Bitcoin-ETF", "Ethereum-ETF"]
 description: "Bitcoin hat 72.000 Dollar durchbrochen, während die Krypto-Short-Liquidationen innerhalb von zwei Tagen mehr als 3,1 Milliarden Dollar erreichten. Ethereum stieg auf 2.300 Dollar, während auch SOL, AAVE und HYPE kräftig zulegten."
 summary: "Bitcoin ist aus einer sechswöchigen Handelsspanne ausgebrochen und hat 72.000 Dollar überschritten. Mehr als 3,1 Milliarden Dollar an Short-Positionen wurden innerhalb von zwei Tagen liquidiert, während sich das Rally auf Ethereum, Solana, Aave und HYPE ausweitete."
+categories: ["Crypto"]
 ---
 
 *Symbolbild.*

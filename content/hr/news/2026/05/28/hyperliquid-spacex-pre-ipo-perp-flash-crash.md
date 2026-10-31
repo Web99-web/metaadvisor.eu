@@ -7,14 +7,15 @@ translationKey: "92509de4a8c447e7cd6ca94381a17324"
 source: "Metaadvisor (CoinDesk, Forbes, Reuters, Barron's)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
-featured_image: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
-image: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
-thumbnail: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
+image_url: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
+featured_image: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
+image: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
+thumbnail: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
 image_alt: "SpaceX pre-IPO synthetic perpetual contract on Hyperliquid and flash crash risk"
 image_credit: "Metaadvisor.eu"
 tags: ["hyperliquid", "spacex", "spacex perp", "pre-ipo", "synthetic perp", "perpetual contract", "flash crash", "likvidacije", "leverage", "poluga", "margina", "retail trading", "defi", "crypto", "kriptovalute", "bitcoin", "btc", "ethereum", "eth", "iran", "sad", "geopolitički rizik", "risk-off", "tržište", "likvidnost", "elon musk", "privatne kompanije", "trading", "futures", "derivati"]
 summary: "Hyperliquidov sintetički SpaceX pre-IPO perpetual contract pao je gotovo 45% u kratkom flash crashu i likvidirao više od 400 korisnika. Slučaj pokazuje koliko opasna može biti kombinacija pre-IPO hypea, poluge, tanke likvidnosti i šireg risk-off raspoloženja zbog geopolitičkih napetosti."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

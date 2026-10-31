@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/12/24/whitefiber-nc-1-deal-is-promising-says-b-riley-seeing-127-stock-price-upside-after-price-plunge"
 author: "CoinDesk — Analyse MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/WhiteFiber-WYFI.png"
-featured_image: "/images/WhiteFiber-WYFI.png"
-image: "/images/WhiteFiber-WYFI.png"
-thumbnail: "/images/WhiteFiber-WYFI.png"
+image_url: "/images/WhiteFiber-WYFI.webp"
+featured_image: "/images/WhiteFiber-WYFI.webp"
+image: "/images/WhiteFiber-WYFI.webp"
+thumbnail: "/images/WhiteFiber-WYFI.webp"
 image_alt: "WhiteFiber WYFI KI-Datenzentren Infrastruktur"
 image_credit: "WhiteFiber / Illustration"
 tags: ["whitefiber", "wyfi", "ki", "datenzentren", "infrastruktur", "aktien", "wall street", "cloud", "hpc"]
 summary: "WhiteFiber (WYFI) ist ein junges US-Unternehmen mit Fokus auf KI-Datenzentren und Infrastruktur. Der langfristige NC-1-Vertrag und das Interesse der Wall Street positionieren das Unternehmen als neue KI-Infrastruktur-Story."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

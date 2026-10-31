@@ -27,6 +27,7 @@ tags:
   - funding
   - iv
 summary: "BTC ignored PCE data and slid below $109K, damaging short-term structure. Focus shifts to liquidity at $107K, plus options expiry and funding/IV dynamics."
+categories: ["crypto"]
 ---
 
 **Briefly:** Despite the release of **PCE inflation data** (a key Fed indicator), **BTC** failed to attract buyers and **dropped below $109K**. This broke the short-term market structure. Now, focus shifts to the **liquidity pocket near $107K** and the upcoming **options expiry**.

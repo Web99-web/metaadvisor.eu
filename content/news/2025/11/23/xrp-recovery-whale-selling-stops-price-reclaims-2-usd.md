@@ -12,6 +12,7 @@ image: "/images/xrp.png"
 thumbnail: "/images/xrp.png"
 summary: "XRP rebounds after yesterday’s whale-driven capitulation, while Bitcoin stabilizes near $86,600."
 tags: ["xrp", "crypto", "market", "bitcoin", "altcoins", "analysis", "whales", "trading", "volatility", "price-action"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

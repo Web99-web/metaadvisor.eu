@@ -7,14 +7,15 @@ translationKey: "559a342a97741973c8002fda250e574b"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (CoinDesk, Fortune)"
 source_url: ""
-image_url: "/images/companies/Anthropic-AI-risk.png"
-featured_image: "/images/companies/Anthropic-AI-risk.png"
-image: "/images/companies/Anthropic-AI-risk.png"
-thumbnail: "/images/companies/Anthropic-AI-risk.png"
+image_url: "/images/companies/Anthropic-AI-risk.webp"
+featured_image: "/images/companies/Anthropic-AI-risk.webp"
+image: "/images/companies/Anthropic-AI-risk.webp"
+thumbnail: "/images/companies/Anthropic-AI-risk.webp"
 image_alt: "Anthropic AI risk, errors and cybersecurity concerns"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "anthropic", "claude", "ai errors", "hallucinations", "cybersecurity", "bitcoin", "btc", "crypto", "tech", "risk"]
 summary: "An Anthropic AI leak raises concerns about errors, hallucinations and cybersecurity risks, while crypto and tech markets react with declines."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

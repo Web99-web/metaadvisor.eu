@@ -16,6 +16,7 @@ image_alt: "Stilizirana poslovna zgrada — najava $600M BNB trezora"
 image_credit: "Slika je simbolična."
 tags: ["BNB", "Binance", "BNB Chain", "China Renaissance", "YZi Labs", "Changpeng Zhao", "CZ", "trezor", "javna kompanija", "Bloomberg", "CoinDesk20", "CD20", "tržište", "volatilnost", "kripto-imovina", "institucionalni ulagači"]
 summary: "China Renaissance želi prikupiti 600 mil. USD za javni kripto trezor fokusiran na BNB, uz suinvesticiju YZi Labsa — obiteljskog ureda CZ-a. Ako se realizira, bit će to jedan od najvećih javnih uloga u BNB-u."
+categories: ["news"]
 ---
 
 **Sažetak:** Hongkonška investicijska banka **China Renaissance** nastoji prikupiti **$600 milijuna** za **javni kripto trezor** usmjeren na **BNB** — token BNB Chaina koji se koristi za **popuste na Binance naknade**. Prema izvješćima, **YZi Labs**, obiteljski ured suosnivača Binancea **Changpenga Zhaa (CZ)**, **planira sudjelovati** kao suinvestitor.

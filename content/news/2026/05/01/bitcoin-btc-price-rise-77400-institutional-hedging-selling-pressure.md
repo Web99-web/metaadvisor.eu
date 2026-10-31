@@ -15,6 +15,7 @@ image_alt: "Bitcoin price above 77000 with selling pressure and institutional he
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "cryptocurrency", "trading", "derivatives", "futures", "hedging", "profit taking", "market", "volatility", "investors", "analysis", "blockchain"]
 summary: "Bitcoin moves above $77,400 on strong volume, but institutional hedging, profit taking and rising BTC inflows to exchanges are limiting further upside."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

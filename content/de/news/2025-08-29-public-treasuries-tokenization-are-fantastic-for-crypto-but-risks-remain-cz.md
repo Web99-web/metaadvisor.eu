@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/29/public-token-treasuries
 summary: "Die Tokenisierung realer Vermögenswerte (RWA) beschleunigt sich und bringt Stablecoins, Staatsanleihen, Immobilien und mehr in das Krypto-Ökosystem, so CZ."
 tags: ["Krypto","Tokenisierung","RWA","Treasuries","CZ","Binance"]
 image_url: "https://www.coindesk.com/resizer/abcd123czPublicTreasuries=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/cz-tokenization.jpg"
+categories: ["crypto"]
 ---
 
 **HONGKONG** — Binance-Gründer **Changpeng “CZ” Zhao** sieht die **Konvergenz von Aktienmärkten und Krypto** als Beginn einer neuen Ära, die institutionelles Kapital erschließt und Kryptos Reichweite weltweit erweitert.  

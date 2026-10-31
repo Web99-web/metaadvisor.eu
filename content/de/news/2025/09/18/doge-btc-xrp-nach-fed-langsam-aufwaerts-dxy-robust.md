@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/18/btc-xrp-sol-doge-resume-slow-grind-higher-after-fed-but-dollar-index-is-resilient-too"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/dogecoin-doge.png"
-featured_image: "/images/dogecoin-doge.png"
-image: "/images/dogecoin-doge.png"
-thumbnail: "/images/dogecoin-doge.png"
+image_url: "/images/dogecoin-doge.webp"
+featured_image: "/images/dogecoin-doge.webp"
+image: "/images/dogecoin-doge.webp"
+thumbnail: "/images/dogecoin-doge.webp"
 image_alt: "Dogecoin – Marktbewegungen nach der Fed-Entscheidung"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["crypto","bitcoin","doge","xrp","sol","eth","bnb","optionen","cme","fed","fomc","dxy","märkte","metaadvisor"]
 summary: "Nach dem 25-bp-Schnitt der Fed klettern die Large Caps weiter: BTC testet $117,9k, ETH bleibt im Dreieck, DOGE, SOL und BNB führen die Alts. Der Dollar bleibt jedoch robust – daher eher ‘Stufe für Stufe’ statt klarer Ausbruch."
+categories: ["crypto"]
 ---
 
 Nach dem **-25-bp**-Schritt der Fed und dem Hinweis, dass das Tempo der Lockerung in den nächsten 12 Monaten bei Bedarf steigen könnte, hat **Bitcoin** die Seitwärtsphase beendet und **~$117,9k** erreicht – den höchsten Stand seit dem 17. August. **Ether (ETH)** liegt **~+2,7 %**, bewegt sich aber weiterhin in einem **vierwöchigen, sich verengenden Dreieck**, was dem Markt einen abwartenden Ton gibt.

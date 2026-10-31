@@ -16,6 +16,7 @@ image_alt: "Digitale Zukunft & Aufsicht — symbolische Illustration"
 image_credit: "Metaadvisor image_map (symbolisches Bild)"
 tags: ["Regulierung", "Privatsphäre", "Compliance", "Blockchain", "DeFi", "KYC", "AML", "FATF-Travel-Rule", "MiCA", "AMLA", "Sanktionen", "On-Chain-Analyse", "Regtech", "ZK", "MPC", "Self-Custody", "Stablecoins", "Identität", "Privacy-Coin", "Tokenisierung", "AI-Überwachung"]
 summary: "Ein neuer Regulierungszyklus — von Travel Rule und AML bis zum EU-Paket MiCA/AMLA — drückt Krypto in Richtung stärkerem KYC/Monitoring. Sichtbar werden Schwachstellen bei Privatsphäre, Identität und der ‘Last-Mile’-Compliance."
+categories: ["ai"]
 ---
 
 **Kurz & knapp:**  

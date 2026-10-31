@@ -16,6 +16,7 @@ image_alt: "Gemini AI helping schedule meetings in Google Calendar"
 image_credit: "Image is symbolic."
 tags: ["Google", "Gemini", "AI", "Google Calendar", "Workspace", "free", "AI tools"]
 summary: "Google is rolling out the Gemini-powered ‘Help me schedule’ in Gmail/Google Calendar. Here’s what personal users get for free — and what belongs to paid Workspace/Gemini plans."
+categories: ["news"]
 ---
 
 Google is introducing a new **Gemini-powered** option in Gmail and Google Calendar called **“Help me schedule.”** It suggests suitable times based on your availability and inserts them into your email. When the recipient picks a slot, the invite automatically lands on both calendars.

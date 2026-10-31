@@ -15,6 +15,7 @@ image_alt: "Stock market chart and investors during AI-driven market rally"
 image_credit: "Metaadvisor.eu"
 summary: "Stara burzovna izreka 'Sell in May and go away' ponovno se spominje u 2026., ali ovog puta u potpuno drugačijem tržišnom okruženju. AI rally, tehnološke dionice i očekivanja oko umjetne inteligencije mijenjaju način na koji investitori gledaju sezonalnost tržišta."
 tags: ["burza", "dionice", "AI tržište", "umjetna inteligencija", "Sell in May", "prodaj u svibnju", "S&P 500", "Nasdaq", "tehnološke dionice", "AI rally", "investiranje", "tržišta", "volatilnost", "market timing", "mali investitori", "financijska edukacija", "kripto tržište", "Bitcoin", "Ethereum", "rizik", "Metaadvisor"]
+categories: ["markets"]
 ---
 
 *Slika je simbolična.*

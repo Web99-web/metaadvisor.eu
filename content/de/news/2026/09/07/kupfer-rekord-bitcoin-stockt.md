@@ -6,15 +6,16 @@ category: "Markets"
 translationKey: "copper-hits-record-bitcoin-stalls-2026-09-07"
 source: "Wall Street Journal, Reuters, Farside Investors, CoinGecko, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Copper-hits-record.png"
-featured_image: "/images/news/Copper-hits-record.png"
-image: "/images/news/Copper-hits-record.png"
-thumbnail: "/images/news/Copper-hits-record.png"
+image_url: "/images/news/Copper-hits-record.webp"
+featured_image: "/images/news/Copper-hits-record.webp"
+image: "/images/news/Copper-hits-record.webp"
+thumbnail: "/images/news/Copper-hits-record.webp"
 image_alt: "Kupfer erreicht einen Rekord, während Bitcoin stockt und Gold nachgibt"
 image_credit: "Metaadvisor.eu"
 tags: ["Kupfer", "Bitcoin", "Krypto", "Metalle", "Industriemetalle", "Gold", "KI", "Rechenzentren", "Elektrifizierung", "Energieinfrastruktur", "ETFs", "Federal Reserve", "Rohstoffe", "Finanzmärkte"]
 description: "Kupfer hat mit mehr als 14.500 US-Dollar je Tonne einen neuen Rekord erreicht, während Bitcoin um 79.000 US-Dollar notiert und Gold nachgibt. Die Märkte unterscheiden zunehmend zwischen Industriemetallen, Krypto und Edelmetallen."
 summary: "Rekordpreise bei Kupfer, starke Nachfrage aus KI- und Energieinfrastruktur sowie Angebotsprobleme schaffen neues Momentum, während Bitcoin bislang nicht im gleichen Tempo folgt und Gold unter dem Druck höherer Zinserwartungen steht."
+categories: ["Markets"]
 ---
 
 *Das Bild ist symbolisch.*

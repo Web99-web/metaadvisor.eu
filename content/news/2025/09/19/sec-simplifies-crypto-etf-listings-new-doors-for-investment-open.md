@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/19/crypto-etf-floodgates-open-with-sec-listing-standards-but-price-impact-may-be-uneven"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/crypto-etf-floodgates.png"
-featured_image: "/images/crypto-etf-floodgates.png"
-image: "/images/crypto-etf-floodgates.png"
-thumbnail: "/images/crypto-etf-floodgates.png"
+image_url: "/images/crypto-etf-floodgates.webp"
+featured_image: "/images/crypto-etf-floodgates.webp"
+image: "/images/crypto-etf-floodgates.webp"
+thumbnail: "/images/crypto-etf-floodgates.webp"
 image_alt: "Symbolic graphic for crypto ETFs and SEC approval"
 image_credit: "MetaAdvisor (symbolic graphic)"
 tags: ["crypto", "ETF", "SEC", "Nasdaq", "NYSE Arca", "Cboe"]
 summary: "The SEC has approved generic listing standards for crypto ETFs on Nasdaq, Cboe and NYSE Arca, paving the way for a wave of new products."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

@@ -7,10 +7,10 @@ translationKey: "bitwise_7_crypto_etfs_sweden_20260115"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Bitwise-7crypto-etf-sweden.png"
-featured_image: "/images/Bitwise-7crypto-etf-sweden.png"
-image: "/images/Bitwise-7crypto-etf-sweden.png"
-thumbnail: "/images/Bitwise-7crypto-etf-sweden.png"
+image_url: "/images/Bitwise-7crypto-etf-sweden.webp"
+featured_image: "/images/Bitwise-7crypto-etf-sweden.webp"
+image: "/images/Bitwise-7crypto-etf-sweden.webp"
+thumbnail: "/images/Bitwise-7crypto-etf-sweden.webp"
 image_alt: "Bitwise uvrštava sedam kripto ETF-ova na burzu Nasdaq Stockholm u Švedskoj"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Bitwise je uvrstio sedam kripto ETF-ova na Nasdaq Stockholm, omogućivši europskim ulagačima regulirani pristup Bitcoinu, Ethereumu, Solani i kripto indeksima putem klasičnih brokerskih računa."
@@ -26,6 +26,7 @@ tags:
   - ethereum
   - solana
   - institucionalni-investitori
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.8em; color:#777; margin-top:-6px;">

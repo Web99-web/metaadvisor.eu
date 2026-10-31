@@ -15,6 +15,7 @@ image_alt: "Zcash ZEC privacy coin vulnerability and market recovery"
 image_credit: "Metaadvisor.eu"
 tags: ["Zcash", "ZEC", "Privacy Coin", "Krypto", "Crypto", "Blockchain", "Orchard Shielded Pool", "Shielded Pool", "Zcash Bug", "Schwachstelle", "Cybersecurity", "Cybersicherheit", "Crypto Security", "ZEC Supply", "21 million ZEC", "Minting", "falsche Token", "Arthur Hayes", "Privacy", "DeFi", "Marktpanik", "Kryptomarkt", "Metaadvisor"]
 summary: "Zcash hat sich nach der Sicherheitspanik und dem starken Rückgang von ZEC deutlich erholt. Doch der Fall der Orchard-Shielded-Pool-Schwachstelle wirft weiterhin eine wichtige Frage auf: Kann ein Privacy Coin schnell Vertrauen zurückgewinnen, wenn Zweifel an Sicherheit und Token-Angebot entstehen?"
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

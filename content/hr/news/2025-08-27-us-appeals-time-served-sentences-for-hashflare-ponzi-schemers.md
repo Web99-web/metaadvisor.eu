@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/us-appeals-sentences-hashflare-cofou
 summary: "Savezni tužitelji osporavaju presudu prema kojoj osnivači HashFlarea služe „time served“ jer smatraju da im prijeti 10 godina zatvora za 577 milijuna USD Ponzi."
 tags: ["news","crypto","fraud","Ponzi","HashFlare","justice"]
 image_url: "https://images.cointelegraph.com/images/528_hashflare.jpg"
+categories: ["news"]
 ---
 
 Savezni tužitelji u SAD-u nisu zadovoljni „time-served“ presudom za Sergeja Potapenka i Ivana Turõgina — suosnivače HashFlarea, američke rudarske službe umrežene u $577 milijuna vrijednu Ponzi shemu — i uložili su žalbu Vrhovnom sudu devetog kruga (Ninth Circuit).

@@ -16,6 +16,7 @@ image_alt: "Bitcoin rudarenje ilustracija"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","rudarenje","kriptovalute","crypto","mreža","hashrate","blokovi","američki rudari","ai","energetika"]
 summary: "Mali Bitcoin rudari masovno gase postrojenja jer troškovi nadmašuju prihode, dok veliki rudari preuzimaju tržište zahvaljujući jeftinoj energiji i pristupu kapitalu."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

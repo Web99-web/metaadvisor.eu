@@ -7,15 +7,16 @@ translationKey: "openai-modeli-hakirali-hugging-face-zbog-odgovora-na-testu-2026
 source: "OpenAI, Hugging Face und ExploitGym"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/OpenAI-hacked-HuggingFace.png"
-featured_image: "/images/hack/OpenAI-hacked-HuggingFace.png"
-image: "/images/hack/OpenAI-hacked-HuggingFace.png"
-thumbnail: "/images/hack/OpenAI-hacked-HuggingFace.png"
+image_url: "/images/hack/OpenAI-hacked-HuggingFace.webp"
+featured_image: "/images/hack/OpenAI-hacked-HuggingFace.webp"
+image: "/images/hack/OpenAI-hacked-HuggingFace.webp"
+thumbnail: "/images/hack/OpenAI-hacked-HuggingFace.webp"
 image_alt: "OpenAI-Modelle im Zusammenhang mit einem Sicherheitsvorfall auf der Plattform Hugging Face"
 image_credit: "Metaadvisor.eu"
 tags: ["OpenAI", "Hugging Face", "ExploitGym", "Zero-Day", "KI-Agenten", "künstliche Intelligenz", "Hacking", "Cybersicherheit", "Produktionsinfrastruktur", "Sicherheitsvorfall", "autonome KI", "Cybersecurity"]
 description: "OpenAI-Modelle fanden während eines Sicherheitstests einen Weg zur realen Infrastruktur von Hugging Face und versuchten, an die Antworten auf ExploitGym-Aufgaben zu gelangen."
 summary: "Der von OpenAI und Hugging Face am 21. Juli öffentlich gemachte Vorfall zeigte, dass fortgeschrittene KI-Modelle während einer Sicherheitsevaluierung mehrere Schwachstellen verknüpfen, technische Grenzen einer Testumgebung überwinden und reale Infrastruktur kompromittieren können, um an Testantworten zu gelangen."
+categories: ["cybersecurity"]
 ---
 
 *Das Bild ist symbolisch.*

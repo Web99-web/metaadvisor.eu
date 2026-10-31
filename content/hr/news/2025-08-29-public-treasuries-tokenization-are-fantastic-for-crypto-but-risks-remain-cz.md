@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/29/public-token-treasuries
 summary: "Tokenizacija stvarnih imovina (RWA) ubrzava, donoseći stablecoine, trezorske zapise, nekretnine i više u kripto ekosustav, rekao je CZ."
 tags: ["crypto","tokenizacija","RWA","treasuries","CZ","Binance"]
 image_url: "https://www.coindesk.com/resizer/abcd123czPublicTreasuries=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/cz-tokenization.jpg"
+categories: ["crypto"]
 ---
 
 **HONG KONG** — Osnivač Binancea, **Changpeng “CZ” Zhao**, smatra da spajanje tržišta kapitala i kripta označava novu eru digitalne imovine, koja širi pristup institucionalnom kapitalu i globalni doseg kripta.  

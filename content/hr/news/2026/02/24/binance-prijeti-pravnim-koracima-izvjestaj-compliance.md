@@ -8,14 +8,15 @@ source: "CoinDesk / Cointelegraph"
 source_url: "https://www.coindesk.com/ ; https://cointelegraph.com/"
 author: "CoinDesk / Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Binance-regulatory.png"
-featured_image: "/images/Binance-regulatory.png"
-image: "/images/Binance-regulatory.png"
-thumbnail: "/images/Binance-regulatory.png"
+image_url: "/images/Binance-regulatory.webp"
+featured_image: "/images/Binance-regulatory.webp"
+image: "/images/Binance-regulatory.webp"
+thumbnail: "/images/Binance-regulatory.webp"
 image_alt: "Binance regulatory spotlight illustration"
 image_credit: "MetaAdvisor.eu (symbolična slika)"
 tags: ["binance", "compliance", "regulacija", "crypto", "kripto burza", "aml", "kyc", "doj", "regulatory spotlight"]
 summary: "Binance je zaprijetio pravnim koracima nakon medijskih izvještaja koji dovode u pitanje interne procese usklađenosti burze. Spor otvara šira pitanja o reputaciji, regulaciji i budućnosti centraliziranih kripto platformi."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

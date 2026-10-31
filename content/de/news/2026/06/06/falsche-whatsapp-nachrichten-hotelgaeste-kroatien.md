@@ -7,14 +7,15 @@ translationKey: "hotel-booking-whatsapp-phishing-croatia-2026-06-06"
 source: "Nacional, Wired, CERT.hr, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/booking-phishing-alert.png"
-featured_image: "/images/hack/booking-phishing-alert.png"
-image: "/images/hack/booking-phishing-alert.png"
-thumbnail: "/images/hack/booking-phishing-alert.png"
+image_url: "/images/hack/booking-phishing-alert.webp"
+featured_image: "/images/hack/booking-phishing-alert.webp"
+image: "/images/hack/booking-phishing-alert.webp"
+thumbnail: "/images/hack/booking-phishing-alert.webp"
 image_alt: "Booking phishing alert and hotel reservation scam warning"
 image_credit: "Metaadvisor.eu"
 tags: ["WhatsApp", "Phishing", "Hotels", "Reservierungen", "Booking.com", "PHOBS", "Tourismus", "Kroatien", "Adria", "Cybersecurity", "Cybersicherheit", "Online-Betrug", "falsche Nachrichten", "Datenleck", "personenbezogene Daten", "Hotelreservierungen", "Reservation Hijacking", "Touristen", "Reisen", "Kreditkartenbetrug", "digitaler Tourismus", "Datensicherheit", "Metaadvisor"]
 summary: "Hotelgäste in Kroatien erhalten falsche WhatsApp-Nachrichten, die echte Reservierungsdaten verwenden. Offiziell ist noch nicht bestätigt, wo genau die Daten abgeflossen sind, aber Hotels warnen, dass diese Nachrichten nicht von ihnen stammen."
+categories: ["cybersecurity"]
 ---
 
 Das Bild ist symbolisch.

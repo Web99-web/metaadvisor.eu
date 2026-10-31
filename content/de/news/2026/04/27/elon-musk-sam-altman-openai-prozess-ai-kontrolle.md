@@ -7,14 +7,15 @@ translationKey: "musk-altman-openai-trial"
 source: "Metaadvisor (The Guardian, Reuters, Bloomberg, Branchenquellen)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/OpenAI-Musk-Sam-Altman.png"
-featured_image: "/images/news/OpenAI-Musk-Sam-Altman.png"
-image: "/images/news/OpenAI-Musk-Sam-Altman.png"
-thumbnail: "/images/news/OpenAI-Musk-Sam-Altman.png"
+image_url: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+featured_image: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+image: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+thumbnail: "/images/news/OpenAI-Musk-Sam-Altman.webp"
 image_alt: "Elon Musk und Sam Altman im Streit um OpenAI"
 image_credit: "Metaadvisor.eu"
 tags: ["openai", "elon musk", "sam altman", "ai", "technologie", "gericht", "microsoft", "xai"]
 summary: "Der Konflikt zwischen Elon Musk und Sam Altman über OpenAI erreicht die Gerichtsphase und wirft grundlegende Fragen zur Kontrolle von künstlicher Intelligenz auf."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

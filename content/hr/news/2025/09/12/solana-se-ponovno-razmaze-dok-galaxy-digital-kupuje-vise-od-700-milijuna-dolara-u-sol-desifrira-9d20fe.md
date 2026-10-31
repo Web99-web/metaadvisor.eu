@@ -1,32 +1,37 @@
 ---
-title: "Solana se ponovno razmaže dok Galaxy Digital kupuje više od 700 milijuna dolara u sol - dešifrira"
+title: "Solana ponovno raste: Galaxy Digital kupuje SOL vrijedan više od 700 milijuna dolara – Decrypt"
 slug: "solana-se-ponovno-razmaze-dok-galaxy-digital-kupuje-vise-od-700-milijuna-dolara-u-sol-desifrira-9d20fe"
 date: 2025-09-12T19:40:58Z
 category: "news"
-translationKey: "17de21df9639cd85f452dbe9b5af3719"
+translationKey: "17de21df9639cd85f452dbe9b5af3719--unpaired-278f9322de84"
 source: "Decrypt"
 source_url: "https://decrypt.co/339338/solana-surges-again-galaxy-digital-buys-700-million-sol"
 priority: 97
 image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png"
 tags: ["crypto", "cryptocurrency", "solana", "sol", "binance", "bnb", "stocks"]
 our_take: |
-  Naše stajalište: Solana se ponovno razvija jer Galaxy Digital kupuje više od 700 milijuna dolara u investicijskoj tvrtki za sol Galaxy Digital, u posljednja dva dana kupila je preko 700 milijuna dolara u Solani, kao dio ulaganja u tvrtku SOL riznicu Forwar… Ključne stvari za gledanje: likvidnost, makronaredba (stope/USD) i regulacija.Ostanite selektivni;Dodajte samo u imena visoke presude.
+  Naš osvrt: Galaxyjeve kupnje SOL-a povezane su sa strategijom pričuve Forward Industriesa. Važno je pratiti likvidnost, kamatne stope, američki dolar i regulaciju te ulagati selektivno, samo uz jasno obrazloženo uvjerenje.
+categories: ["news"]
+seo_alias_of: "https://metaadvisor.eu/hr/news/solana-ponovno-raste-galaxy-digital-kupuje-vise-od-700-milijuna-sol/"
+_build:
+  list: never
+  render: always
 ---
 
-Solana se ponovno razmaže jer Galaxy Digital kupuje više od 700 milijuna dolara u SOL -u
+Solana ponovno raste: Galaxy Digital kupuje SOL vrijedan više od 700 milijuna dolara
 
-Investicijska tvrtka Galaxy Digital kupila je više od 700 milijuna dolara u Solani u posljednja dva dana, u sklopu ulaganja u Sol Treasury Firk Forward Industries.A cijena Solane i dalje raste, cijelo vrijeme.
+Investicijska tvrtka Galaxy Digital u dva je dana kupila Solanu u vrijednosti većoj od 700 milijuna dolara. Kupnje su povezane s njezinim ulaganjem u Forward Industries, tvrtku koja gradi pričuvu u SOL-u. Cijena Solane u tom je razdoblju nastavila rasti.
 
-Galaxy je Sol prenosio uglavnom iz Binancea - a također iz Coinbase - kroz više transakcija, s podacima Arkham Intelligence -a koji pokazuju da je od srijede kupio nešto više od 3 milijuna SOL -a.
+Galaxy je SOL prenosio kroz više transakcija, uglavnom s Binancea, ali i s Coinbasea. Prema podacima Arkham Intelligencea, tvrtka je od srijede kupila nešto više od 3 milijuna SOL-a.
 
-Upravitelj imovine možda će obavljati ove kupnje u ime Forward Industries, u kojima je doveo ulaganja u iznosa od 1,65 milijardi dolara, uz sudjelovanje iz Jump Cripto i Multicoin Capital.
+Upravitelj imovine te kupnje možda provodi u ime Forward Industriesa. Galaxy je predvodio ulaganje od 1,65 milijardi dolara u tu tvrtku, uz sudjelovanje Jump Crypta i Multicoin Capitala.
 
-Osnovan 1961. godine, Forward je kompanija za dizajn proizvoda s popisom NASDAQ-a koja koristi prihode ovog tjedna za izgradnju onoga što će biti najveća svjetska javno trgovačka riznica Solana, s Galaxyjem odgovornoj za stjecanje i prenošenje većine sola.
+Forward Industries osnovan je 1961. godine, bavi se dizajnom proizvoda i uvršten je na Nasdaq. Novcem prikupljenim toga tjedna namjeravao je izgraditi najveću pričuvu Solane među javno uvrštenim tvrtkama na svijetu. Galaxy je bio odgovoran za kupnju i prijenos većine SOL-a.
 
-Galaxyjeva suradnja s tvrtkom dolazi jer je zainteresirana za Solanu, koju je opisao kao "Unifektivno pozicioniran za napajanje sljedeće generacije tržišta kapitala" u tvitu koji najavljuje svoje ulaganje.
+Suradnja je započela u razdoblju pojačanog Galaxyjeva interesa za Solanu. U objavi kojom je najavila ulaganje tvrtka je opisala Solanu kao jedinstveno pozicioniranu za pokretanje sljedeće generacije tržišta kapitala.
 
-Osnivač i izvršni direktor Galaxyja Mike Novogratz također je raspravljao o zaslugama Solane u intervjuu s CNBC -ovim Squawk Boxom u četvrtak, izjavljujući da Solanov blockchain može obraditi 11 milijardi transakcija na dan.
+Osnivač i izvršni direktor Galaxyja Mike Novogratz govorio je o Solani u četvrtak u intervjuu za CNBC-ovu emisiju Squawk Box. Izjavio je da njezin blockchain može obraditi 14 milijardi transakcija dnevno.
 
-Saževši zašto je Galaxy uzbuđen zbog Solane, rekao je: "Dobili ste blockchain koji je sada dovoljno brz, prilagođen je da bude blockchain za financijska tržišta."
+Galaxyjevo zanimanje za Solanu objasnio je time da je blockchain sada dovoljno brz i prilagođen potrebama financijskih tržišta.
 
-Potom se uputio na primjedbe predsjedatelja SEC -a Paul Atkins, koji je u srijedu održao ključni govor u kojem je raspravljao o projektu Agencije Crypto Push - "Inicijativa" kako bi se ohrabrilo da ohrabruje
+Potom se osvrnuo na predsjednika SEC-a Paula Atkinsa, koji je u srijedu održao govor o inicijativi Project Crypto. Tom je inicijativom agencija željela potaknuti prijelaz tržišta na blockchain infrastrukturu.

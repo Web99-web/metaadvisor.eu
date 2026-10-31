@@ -9,6 +9,7 @@ summary: "Taco Bell je uveo AI sustav za naručivanje u više od 500 drive-throu
 tags: ["ai", "tacobell", "fastfood"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/taco-bell-ai-drive-thru.jpg?w=1200"
 image: "https://techcrunch.com/wp-content/uploads/2025/08/taco-bell-ai-drive-thru.jpg?w=1200"
+categories: ["ai"]
 ---
 
 Direktor za digitalnu tehnologiju u Taco Bellu kaže da tvrtka vodi “aktivnu raspravu” o tome kada koristiti, a kada ne koristiti umjetnu inteligenciju na drive-throughu.  

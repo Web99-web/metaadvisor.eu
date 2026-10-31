@@ -7,14 +7,15 @@ translationKey: "telegram-ton-platform-shift-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/companies/Telegram-messaging-to-paying-app.png"
-featured_image: "/images/companies/Telegram-messaging-to-paying-app.png"
-image: "/images/companies/Telegram-messaging-to-paying-app.png"
-thumbnail: "/images/companies/Telegram-messaging-to-paying-app.png"
+image_url: "/images/companies/Telegram-messaging-to-paying-app.webp"
+featured_image: "/images/companies/Telegram-messaging-to-paying-app.webp"
+image: "/images/companies/Telegram-messaging-to-paying-app.webp"
+thumbnail: "/images/companies/Telegram-messaging-to-paying-app.webp"
 image_alt: "Telegram Entwicklung von Messaging zur Zahlungsplattform"
 image_credit: "Metaadvisor Illustration"
 tags: ["telegram", "ton", "krypto", "anwendungen", "zahlungen", "technologie", "digitales ökosystem", "privatsphäre", "web3", "blockchain"]
 summary: "Telegram entwickelt sich von einer klassischen Messaging-App zu einer Plattform, die Kommunikation, Zahlungen und digitale Dienste vereint – unterstützt durch die TON-Infrastruktur."
+categories: ["tech"]
 ---
 
 _Das Bild ist symbolisch._

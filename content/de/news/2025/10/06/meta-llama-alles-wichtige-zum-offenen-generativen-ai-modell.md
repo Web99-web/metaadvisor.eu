@@ -8,14 +8,15 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/"
 author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Meta-llama.png"
-featured_image: "/images/Meta-llama.png"
-image: "/images/Meta-llama.png"
-thumbnail: "/images/Meta-llama.png"
+image_url: "/images/Meta-llama.webp"
+featured_image: "/images/Meta-llama.webp"
+image: "/images/Meta-llama.webp"
+thumbnail: "/images/Meta-llama.webp"
 image_alt: "Meta Llama — symbolische Illustration"
 image_credit: "Metaadvisor.eu — symbolisches Bild"
 tags: ["ai", "Llama", "open-source", "generative-modelle", "multimodal"]
 summary: "Meta Llama ist eine Familie „offener“ generativer KI-Modelle. Ein Überblick über Editionen, Fähigkeiten und Einsatzorte."
+categories: ["ai"]
 ---
 
 *Bild ist symbolisch.*

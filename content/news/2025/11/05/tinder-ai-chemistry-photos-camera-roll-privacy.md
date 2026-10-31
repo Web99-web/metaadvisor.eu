@@ -3,7 +3,7 @@ title: "Tinder turns to AI to understand users — and access their private phot
 slug: "tinder-ai-chemistry-photos-camera-roll-privacy"
 date: 2025-11-05T18:22:17Z
 category: "ai"
-translationKey: "bebee28a72a90f8b0e794232f4e5d83c"
+translationKey: "bebee28a72a90f8b0e794232f4e5d83c--2025-11-05"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/"
 author: "TechCrunch"
@@ -16,6 +16,7 @@ image_alt: "Tinder AI and private photos"
 image_credit: "TechCrunch / Metaadvisor"
 tags: ["ai", "privacy", "tinder", "match group", "meta", "camera", "data", "security"]
 summary: "Tinder introduces a new AI feature called 'Chemistry' that learns about users through questions and photos from their Camera Roll. The feature is already being tested in New Zealand and Australia."
+categories: ["ai"]
 ---
 
 Tinder is turning to artificial intelligence to breathe new life into its dating app after **nine consecutive quarters of declining subscriber numbers**.  

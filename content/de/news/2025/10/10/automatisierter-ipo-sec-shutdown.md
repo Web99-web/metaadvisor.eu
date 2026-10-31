@@ -16,6 +16,7 @@ image_alt: "SEC IPO Shutdown – automatische Wirksamkeit"
 image_credit: "Metaadvisor.eu (symbolisches Bild)"
 tags: ["märkte","ipo","sec","shutdown","regulierung","startups","kapitalmärkte","anleger","usa"]
 summary: "Wegen des Shutdowns und fehlender SEC-Mitarbeiter werden IPO-Anmeldungen nach 20 Tagen automatisch wirksam – selbst ohne Preisangaben. Das erhöht die Risiken für Anleger."
+categories: ["news"]
 ---
 
 Durch den **US-Government-Shutdown** (ca. **90 %** der SEC-Belegschaft im Zwangsurlaub) können Unternehmen ihren **IPO** über das selten genutzte **Automatik-Verfahren** live schalten. Nach **20 Tagen** wird die Anmeldung automatisch wirksam – **ohne** vorherige SEC-Prüfung und **ohne Preisangaben** (keine Sanktionen während des Shutdowns).

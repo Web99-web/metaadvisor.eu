@@ -16,6 +16,7 @@ image_alt: "UK kripto DeFi porezna reforma no gain no loss"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["kripto", "crypto", "defi", "porezna reforma", "porezi", "velika britanija", "uk", "likvidnosni bazeni", "posudba", "stabilni koini", "kriptovalute", "blockchain", "regulacija"]
 summary: "Velika Britanija predlaže veliku reformu kripto poreza: DeFi transakcije se više neće oporezivati pri depozitu, nego tek kad se tokeni stvarno prodaju."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

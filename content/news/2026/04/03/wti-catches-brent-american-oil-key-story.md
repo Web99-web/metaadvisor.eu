@@ -7,14 +7,15 @@ translationKey: "a91c7f3d4b6e42c1a8d5f7e2c9b3d104"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis"
 source_url: ""
-image_url: "/images/news/Oil-WTI-111-Brent-108.png"
-featured_image: "/images/news/Oil-WTI-111-Brent-108.png"
-image: "/images/news/Oil-WTI-111-Brent-108.png"
-thumbnail: "/images/news/Oil-WTI-111-Brent-108.png"
+image_url: "/images/news/Oil-WTI-111-Brent-108.webp"
+featured_image: "/images/news/Oil-WTI-111-Brent-108.webp"
+image: "/images/news/Oil-WTI-111-Brent-108.webp"
+thumbnail: "/images/news/Oil-WTI-111-Brent-108.webp"
 image_alt: "WTI surpasses Brent and signals a shift in the oil market"
 image_credit: "MetaAdvisor.eu"
 tags: ["wti","brent","oil","trump","energy","geopolitics","oil market","supply","strait of hormuz"]
 summary: "WTI rises above $111 and catches up with Brent, signaling a possible shift in global supply perception and the growing importance of American oil."
+categories: ["energy"]
 ---
 
 *The image is symbolic.*

@@ -7,10 +7,10 @@ translationKey: "e59c3e5aa9f970e6ae8b8963abe26822"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/09/a-ruble-stablecoin-outpaced-market-leaders-last-year-despite-international-sanctions"
 author: "MetaAdvisor.eu"
-image_url: "/images/A7A5-rubalj-crypto.png"
-featured_image: "/images/A7A5-rubalj-crypto.png"
-image: "/images/A7A5-rubalj-crypto.png"
-thumbnail: "/images/A7A5-rubalj-crypto.png"
+image_url: "/images/A7A5-rubalj-crypto.webp"
+featured_image: "/images/A7A5-rubalj-crypto.webp"
+image: "/images/A7A5-rubalj-crypto.webp"
+thumbnail: "/images/A7A5-rubalj-crypto.webp"
 image_alt: "Rubelgebundener Stablecoin A7A5 und regionales Wachstum des Transaktionsvolumens"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - regionale-maerkte
   - finanzen
 summary: "Der rubelgebundene Stablecoin A7A5 verzeichnete im Jahr 2025 einen deutlichen Anstieg des Transaktionsvolumens und übertraf in bestimmten Segmenten das relative Wachstum größerer Stablecoins. Die Analyse zeigt, dass vor allem regionale und marktbezogene Faktoren hierfür ausschlaggebend waren."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

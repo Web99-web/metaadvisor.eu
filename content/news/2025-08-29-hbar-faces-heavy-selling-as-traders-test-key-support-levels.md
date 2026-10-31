@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/29/hbar-faces-heavy-sellin
 summary: "HBAR slid 5% in 24 hours as heavy selling pressure tested key support, even as a new CFTC advisory opened fresh trading avenues for U.S. crypto users."
 tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/7b1ce9e5f1a17c6f2e07d22158e3c2d23f9c4820-1920x1080.jpg?auto=format"
+categories: ["news"]
 ---
 
 Hedera’s HBAR token endured a sharp selloff over the past 24 hours, falling 5% from $0.24 to $0.23 as traders unloaded positions in heavy volumes. The steepest decline came early Wednesday, when more than 277 million tokens changed hands between 06:00 and 09:00 UTC, forcing prices through the $0.235 support level and briefly dragging the token to lows near $0.226. Buyers stepped in at those levels, helping HBAR stabilize, though attempts to retake $0.235–$0.241 met firm resistance.

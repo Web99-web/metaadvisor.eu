@@ -9,6 +9,7 @@ summary: "Breakout above $3 triggers five-fold volume spike as Fed policy shift 
 tags: ["xrp","ripple","price","breakout","powell","fed","jackson-hole","onchain","xrp-ledger","volume","markets","crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/092aae262c3e82083e87ab950178b71c032e309e-735x448.png?auto=format"
 image_alt: "XRP clears $3 on a high-volume breakout"
+categories: ["news"]
 ---
 
 XRP advanced sharply during the Aug. 22–23 session, testing multi-month resistance near $3.10 after weeks of sideways trading.

@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitget", "kripto", "hakiranje", "XRP", "Ethereum", "kripto burze", "cyber sigurnost", "wallet", "Sjeverna Koreja"]
 description: "Bitget je pretrpio sigurnosni incident vrijedan oko 351,6 milijuna dolara. Napadači su izvukli XRP, ETH, stablecoine i drugu imovinu, dok su withdrawals privremeno zaustavljeni."
 summary: "Napadači su iz Bitgetovih hot i warm walleta izvukli oko 351,6 milijuna dolara, uključujući više od 100 milijuna XRP-a. Burza tvrdi da cold walleti nisu pogođeni i da korisnici neće snositi gubitke."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

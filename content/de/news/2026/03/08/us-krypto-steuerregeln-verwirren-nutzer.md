@@ -8,14 +8,15 @@ author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/US-crypto-tax-2026.png"
-featured_image: "/images/US-crypto-tax-2026.png"
-image: "/images/US-crypto-tax-2026.png"
-thumbnail: "/images/US-crypto-tax-2026.png"
+image_url: "/images/US-crypto-tax-2026.webp"
+featured_image: "/images/US-crypto-tax-2026.webp"
+image: "/images/US-crypto-tax-2026.webp"
+thumbnail: "/images/US-crypto-tax-2026.webp"
 image_alt: "US crypto tax rules 2026"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["krypto", "bitcoin", "crypto", "steuer", "krypto steuer", "usa steuern", "irs", "crypto regulation", "coinbase", "bitcoin steuer", "krypto regulierung", "stablecoin", "gas fee"]
 summary: "Neue US-Steuerregeln für Kryptowährungen führen den Berichtsbogen 1099-DA ein und verlangen die Meldung zahlreicher Transaktionen, einschließlich Stablecoins und kleiner Netzwerkgebühren. Coinbase warnt, dass das System für Millionen von Kleinanlegern zu erheblicher Bürokratie führen könnte."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

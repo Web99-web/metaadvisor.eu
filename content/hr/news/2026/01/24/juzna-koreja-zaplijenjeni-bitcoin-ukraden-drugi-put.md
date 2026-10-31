@@ -7,14 +7,15 @@ translationKey: "b967983c5e1e60340d1a2aceb79298a1"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/23/south-korea-probes-significant-bitcoin-loss-in-a-phishing-attack"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hackers-Stolen-BTC-South-Korea.png"
-featured_image: "/images/Hackers-Stolen-BTC-South-Korea.png"
-image: "/images/Hackers-Stolen-BTC-South-Korea.png"
-thumbnail: "/images/Hackers-Stolen-BTC-South-Korea.png"
+image_url: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+featured_image: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+image: "/images/Hackers-Stolen-BTC-South-Korea.webp"
+thumbnail: "/images/Hackers-Stolen-BTC-South-Korea.webp"
 image_alt: "Zaplijenjeni Bitcoin ukraden iz službenog novčanika u Južnoj Koreji"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Južna Koreja istražuje nestanak zaplijenjenog Bitcoina za koji se sumnja da je ukraden phishing napadom iz službenog novčanika državnih institucija."
 tags: ["bitcoin", "btc", "juzna koreja", "phishing", "hakiranje", "sigurnost", "kripto", "krađa"]
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "cointelegraph.com"
 author: "Cointelegraph — Analyse MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/btc-vs-xau.png"
-featured_image: "/images/btc-vs-xau.png"
-image: "/images/btc-vs-xau.png"
-thumbnail: "/images/btc-vs-xau.png"
+image_url: "/images/btc-vs-xau.jpg"
+featured_image: "/images/btc-vs-xau.jpg"
+image: "/images/btc-vs-xau.jpg"
+thumbnail: "/images/btc-vs-xau.jpg"
 image_alt: "Vergleich von Bitcoin und Gold auf einer Waage – BTC vs XAU"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "gold", "xau", "rsi", "oversold", "crypto", "analyse"]
 summary: "Bitcoin ist gegenüber Gold auf Niveaus gefallen, die historisch mit langfristigen Tiefpunkten verbunden sind. Der RSI signalisiert einen überverkauften Zustand und wirft die Frage auf, ob BTC derzeit relativ unterbewertet ist."
+categories: ["crypto"]
 ---
 Bitcoin ist gegenüber Gold auf ein Niveau gefallen, das Analysten als **klassische Zone eines langfristigen Marktbodens** bezeichnen. Das Verhältnis BTC/XAU liegt derzeit bei rund **20 Unzen Gold pro Bitcoin** – die niedrigsten Werte seit Anfang 2024.
 

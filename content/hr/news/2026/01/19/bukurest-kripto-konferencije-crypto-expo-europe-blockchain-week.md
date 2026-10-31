@@ -7,14 +7,15 @@ translationKey: "bucharest_crypto_events_europe_20260119"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Crypto Conference.png"
-featured_image: "/images/Crypto Conference.png"
-image: "/images/Crypto Conference.png"
-thumbnail: "/images/Crypto Conference.png"
+image_url: "/images/Crypto Conference.webp"
+featured_image: "/images/Crypto Conference.webp"
+image: "/images/Crypto Conference.webp"
+thumbnail: "/images/Crypto Conference.webp"
 image_alt: "Publika i panel na velikoj europskoj kripto konferenciji u Bukureštu"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags: ["kripto", "blockchain", "konferencije", "bukurest", "rumunjska", "istočna europa", "istočna europa kripto", "europska kripto scena", "crypto expo europe", "blockchain week", "fintech"]
 summary: "Bukurešt se posljednjih godina profilirao kao jedno od ključnih europskih središta kripto i blockchain industrije, s dva velika događaja koji imaju jasno različite fokuse i publiku."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.8em; color:#777;">

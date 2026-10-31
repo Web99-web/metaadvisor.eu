@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "uber-fined-825-million-algorithmic-decisions-2026-08-26"
 source: "CNIL, Autoriteit Persoonsgegevens, Reuters, Oversight Board, Change.org, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/uber-fined-825-millions.png"
-featured_image: "/images/news/uber-fined-825-millions.png"
-image: "/images/news/uber-fined-825-millions.png"
-thumbnail: "/images/news/uber-fined-825-millions.png"
+image_url: "/images/news/uber-fined-825-millions.webp"
+featured_image: "/images/news/uber-fined-825-millions.webp"
+image: "/images/news/uber-fined-825-millions.webp"
+thumbnail: "/images/news/uber-fined-825-millions.webp"
 image_alt: "Uber wurde wegen automatisierter Entscheidungen zur Deaktivierung von Fahrern mit fast 825 Millionen Euro bestraft"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Uber", "GDPR", "DSGVO", "automatisierte Entscheidungen", "Algorithmen", "Fahrer", "Kontosperrung", "Artikel 22", "KI-Moderation", "Facebook", "Instagram", "Kleinunternehmen", "digitale Plattformen", "Datenschutz", "EU-Regulierung"]
 description: "Uber wurde wegen automatisierter Entscheidungen zur Deaktivierung von Fahrern mit fast 825 Millionen Euro bestraft. Der Fall wirft die größere Frage auf, was passiert, wenn Plattformen Menschen ohne klare Erklärung und ohne erkennbaren menschlichen Eingriff den Zugang zu ihrem Konto entziehen."
 summary: "Die niederländische Datenschutzbehörde verhängte gegen Uber eine Geldbuße von 824,99 Millionen Euro wegen automatisierter Einzelentscheidungen über Fahrer. Der Fall ist weit über Uber hinaus relevant, weil er die Frage aufwirft, wie Plattformen Konten sperren, wer solche Entscheidungen tatsächlich trifft und was geschieht, wenn ein Nutzer innerhalb von Sekunden den Zugang zu seiner Arbeit oder seinem Geschäft verliert."
+categories: ["Tech"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -74,7 +75,7 @@ Auch das Meta Oversight Board hat in diesem Jahr darauf hingewiesen, dass Meta j
 Im Internet gibt es außerdem eine Petition gegen fehlerhafte Meta-Deaktivierungen, die nach öffentlich sichtbaren Angaben bereits **mehr als 64.000 Unterschriften gesammelt hat und sich der Marke von 65.000 nähert**. Das zeigt, dass es sich nicht nur um einige wenige isolierte Fälle handelt. Wie viele Nutzer weltweit tatsächlich betroffen sind, weiß niemand mit Sicherheit. Es könnten erheblich mehr sein – möglicherweise Hunderttausende oder sogar Millionen –, doch eine verlässliche Gesamtzahl ist öffentlich nicht bekannt.
 
 <a href="https://metaadvisor.eu/de/news/eu-appeals-centre-europe-schutz-versagt-plattformen-ignorieren-beschwerden/" target="_blank" rel="noopener">
-  <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+  <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
        alt="EU Appeals Centre Europe und Probleme von Nutzern sozialer Plattformen mit Beschwerden"
        style="width: 520px; max-width: 100%; height: auto;">
 </a>

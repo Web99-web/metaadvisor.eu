@@ -7,14 +7,15 @@ translationKey: "a1e9c8f2d3b447dbb90e92f11e87c6c4"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/EU-chat-control1.png"
-featured_image: "/images/EU-chat-control1.png"
-image: "/images/EU-chat-control1.png"
-thumbnail: "/images/EU-chat-control1.png"
+image_url: "/images/EU-chat-control1.webp"
+featured_image: "/images/EU-chat-control1.webp"
+image: "/images/EU-chat-control1.webp"
+thumbnail: "/images/EU-chat-control1.webp"
 image_alt: "EU Chat Control – analiza masovnog nadzora"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["chat control", "eu", "eu zakon", "nadzor", "privatnost", "sigurnost", "whatsapp", "signal", "telegram", "enkripcija", "eu politika", "demokracija", "autoritarizam", "sloboda", "ljudska prava", "transparentnost", "masovni nadzor", "eu vijeće", "eu parlament", "libe", "freedom house", "edri", "rsf"]
 summary: "EU uvodi zakon bez presedana: političari izuzeti od nadzora, građani pod skeniranjem. Analiziramo tko gura Chat Control, tko je protiv i zašto je najveći rizik u državama bivšeg istočnog bloka."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

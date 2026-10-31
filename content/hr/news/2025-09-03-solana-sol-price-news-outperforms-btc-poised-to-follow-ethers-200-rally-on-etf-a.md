@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/solana-outperforms-bitc
 summary: "Arca CIO Jeff Dorman: 'SOL je trenutno najočitija dugoročna pozicija.'"
 tags: ["crypto", "Solana", "SOL", "BTC", "ETH", "ETF", "tržište"]
 image_url: "https://images.pexels.com/photos/6770772/pexels-photo-6770772.jpeg"
+categories: ["crypto"]
 ---
 
 Dok se bitcoin (BTC) drži malo iznad 110.000 USD, a ether (ETH) konsolidira nakon novih rekorda, **Solana (SOL)** istaknula se kao jedan od najboljih izvođača na kripto tržištu.  

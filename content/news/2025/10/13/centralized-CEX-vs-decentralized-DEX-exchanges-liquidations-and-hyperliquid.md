@@ -15,6 +15,7 @@ image_alt: "CEX vs DEX exchanges"
 image_credit: "Symbolic image."
 tags: ["CEX", "DEX", "exchanges", "liquidations", "Hyperliquid", "transparency", "crypto", "perps", "whales", "KYC", "self-custody", "pricing"]
 summary: "Centralized exchanges dominate volume but obscure liquidation details. Decentralized venues offer full on-chain transparency — which is why Hyperliquid is in the spotlight after the recent mass liquidations."
+categories: ["crypto"]
 ---
 
 ## Centralized exchanges (CEX)

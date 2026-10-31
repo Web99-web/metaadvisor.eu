@@ -10,6 +10,7 @@ image_url: "/images/shiba-inu-coin2.jpg"
 image_alt: "Kretanje kripto tržišta — grafikon"
 tags: ["memecoins","fed","etf","altseason","trzista","shib","bone","doge","trump","shibarium"]
 summary: "Memecoini rastu jer tržište očekuje smanjenje kamatnih stopa FED-a (više sklonosti riziku) i moguće odobrenje altcoin ETF-ova."
+categories: ["news"]
 ---
 
 Sektor memecoina jača dok se na društvenim mrežama sve češće spominje nova „altcoin sezona“, dijelom zbog očekivanja da će FED već idući tjedan **sniziti kamatne stope**, što je obično poticaj za rizičniju imovinu.

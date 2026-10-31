@@ -7,14 +7,15 @@ translationKey: "china-ai-layoffs-worker-rights-court-2026"
 source: "Metaadvisor (The Guardian, SCIO, Caixin, WSJ)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-replaces-people.png"
-featured_image: "/images/AI-replaces-people.png"
-image: "/images/AI-replaces-people.png"
-thumbnail: "/images/AI-replaces-people.png"
+image_url: "/images/AI-replaces-people.webp"
+featured_image: "/images/AI-replaces-people.webp"
+image: "/images/AI-replaces-people.webp"
+thumbnail: "/images/AI-replaces-people.webp"
 image_alt: "KI-Chip und Arbeitnehmerrechte als Symbol für künstliche Intelligenz und Jobverlust"
 image_credit: "Metaadvisor.eu"
 tags: ["künstliche Intelligenz", "KI", "China", "Arbeitnehmer", "Entlassungen", "Automatisierung", "Arbeitsrecht", "Technologie", "Zukunft der Arbeit", "KI-Regulierung", "Jobs", "Beschäftigung", "digitale Transformation", "Big Tech", "soziale Stabilität"]
 summary: "Ein chinesisches Gericht hat entschieden, dass Unternehmen eine Entlassung nicht automatisch damit rechtfertigen können, dass künstliche Intelligenz Teile der Arbeit übernehmen kann. Der Fall zeigt, dass KI-Automatisierung nicht nur ein technisches, sondern auch ein arbeitsrechtliches und gesellschaftliches Thema ist."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">Das Bild ist symbolisch.</p>

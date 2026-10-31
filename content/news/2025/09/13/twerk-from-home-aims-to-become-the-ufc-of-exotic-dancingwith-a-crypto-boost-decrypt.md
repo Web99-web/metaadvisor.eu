@@ -11,6 +11,7 @@ image_url: "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.
 tags: ["crypto", "cryptocurrency"]
 our_take: |
   Our view: Joe Mahavuthivanijâ€”the co-founder and CEO of Twerk From Home, or TFHâ€”wants to be the Dana White of twerking by legitimizing and growing the sport of exotic dancing.Â The organizationâ€™s first tournament bounces into… Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
 ---
 
 Joe Mahavuthivanijâ€”the co-founder and CEO of Twerk From Home, or TFHâ€”wants to be the Dana White of twerking by legitimizing and growing the sport of exotic dancing.Â

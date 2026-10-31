@@ -7,14 +7,15 @@ translationKey: "a96ca6f40e698c69f0782c2052b01afe"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (Cointelegraph, Gerichtsunterlagen)"
 source_url: ""
-image_url: "/images/companies/Coinbase-prediction-markets.png"
-featured_image: "/images/companies/Coinbase-prediction-markets.png"
-image: "/images/companies/Coinbase-prediction-markets.png"
-thumbnail: "/images/companies/Coinbase-prediction-markets.png"
+image_url: "/images/companies/Coinbase-prediction-markets.webp"
+featured_image: "/images/companies/Coinbase-prediction-markets.webp"
+image: "/images/companies/Coinbase-prediction-markets.webp"
+thumbnail: "/images/companies/Coinbase-prediction-markets.webp"
 image_alt: "Coinbase Prediction Markets und Glücksspiel-Kontroverse"
 image_credit: "MetaAdvisor.eu"
 tags: ["coinbase", "prediction markets", "glücksspiel", "krypto", "btc", "crypto", "regulierung", "usa", "markt", "ai"]
 summary: "Coinbase sieht sich mit Nutzerkritik wegen Glücksspiel-Promotion konfrontiert, während gleichzeitig ein Rechtsstreit mit US-Bundesstaaten über Prediction Markets läuft."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

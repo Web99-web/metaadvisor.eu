@@ -8,14 +8,15 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/"
 author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Dear-Algo.png"
-featured_image: "/images/Dear-Algo.png"
-image: "/images/Dear-Algo.png"
-thumbnail: "/images/Dear-Algo.png"
+image_url: "/images/Dear-Algo.webp"
+featured_image: "/images/Dear-Algo.webp"
+image: "/images/Dear-Algo.webp"
+thumbnail: "/images/Dear-Algo.webp"
 image_alt: "Threads Dear Algo AI feed personalization feature"
 image_credit: "MetaAdvisor illustration"
 tags: ["threads", "ai", "artificial intelligence", "meta", "social media", "algorithm", "feed personalization", "big tech", "digital platforms"]
 summary: "Threads, Meta’s social network similar to X and popular in the US and UK, introduces the AI feature 'Dear Algo', allowing users to temporarily personalize their feed."
+categories: ["ai"]
 ---
 
 *Symbolic image.*

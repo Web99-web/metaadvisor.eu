@@ -7,15 +7,16 @@ translationKey: "haker-izbrisao-rumunjski-katastar-2026-07-21"
 source: "ANCPI, The Record, Cybernews and Help Net Security"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hacker.png"
-featured_image: "/images/hacker.png"
-image: "/images/hacker.png"
-thumbnail: "/images/hacker.png"
+image_url: "/images/hacker.webp"
+featured_image: "/images/hacker.webp"
+image: "/images/hacker.webp"
+thumbnail: "/images/hacker.webp"
 image_alt: "Masked hacker following a cyberattack on Romania’s land registry and cadastral system"
 image_credit: "Metaadvisor.eu"
 tags: ["Romania", "land registry", "cadastre", "e-Terra", "ANCPI", "ByteToBreach", "ransomware", "hacker", "cyberattack", "real estate", "cybersecurity"]
 description: "A hacker claims to have deleted Romania’s land registry database after a failed extortion attempt, disrupting property transactions."
 summary: "A cyberattack took Romania’s e-Terra system offline, disrupted property transactions and raised questions over whether critical records were actually deleted."
+categories: ["cybersecurity"]
 ---
 
 # Hacker Deletes Romania’s Land Registry?

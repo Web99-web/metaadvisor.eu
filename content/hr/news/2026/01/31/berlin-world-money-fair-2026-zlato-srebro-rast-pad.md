@@ -7,10 +7,10 @@ translationKey: "world-money-fair-berlin-2026-zlato-srebro-volatilnost"
 source: "MetaAdvisor.eu"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/world-money-fair-berlin-2026.png"
-featured_image: "/images/world-money-fair-berlin-2026.png"
-image: "/images/world-money-fair-berlin-2026.png"
-thumbnail: "/images/world-money-fair-berlin-2026.png"
+image_url: "/images/world-money-fair-berlin-2026.webp"
+featured_image: "/images/world-money-fair-berlin-2026.webp"
+image: "/images/world-money-fair-berlin-2026.webp"
+thumbnail: "/images/world-money-fair-berlin-2026.webp"
 image_alt: "Berlin as the center of precious metals markets during gold and silver volatility"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -28,6 +28,7 @@ tags:
   - Hrvatska kovnica novca
   - Europska tržišta
 summary: "World Money Fair 2026 održava se u Berlinu upravo u danima snažnog rasta i naglog pada cijene zlata i srebra. Sajam okuplja ključne europske i globalne aktere tržišta plemenitih metala te pruža uvid u kretanja fizičkog zlata i srebra u uvjetima pojačane volatilnosti."
+categories: ["markets"]
 ---
 
 ## Berlin kao globalno središte tržišta plemenitih metala

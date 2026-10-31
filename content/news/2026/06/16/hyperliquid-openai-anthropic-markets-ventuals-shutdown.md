@@ -16,6 +16,7 @@ image_alt: "Hyperliquid OpenAI Anthropic private company markets concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Hyperliquid", "Ventuals", "OpenAI", "Anthropic", "SpaceX", "pre-IPO", "perpetual futures", "private company markets", "crypto trading", "HYPE", "AI companies", "synthetic markets", "price discovery", "DeFi", "crypto", "private valuation", "oracle risk", "Metaadvisor"]
 summary: "Hyperliquid is losing its OpenAI and Anthropic markets because Ventuals, the project behind them, is shutting down. These were not real shares, but synthetic speculation on the estimated valuations of private AI companies."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>The image is symbolic.</em></p>

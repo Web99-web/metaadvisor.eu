@@ -7,15 +7,16 @@ translationKey: "gotovo-1200-coldcard-walleta-ispraznjeno-u-41-minuti-2026-08-01
 source: "CoinDesk, Galaxy Research, Coinkite, Block Bitcoin Engineering and Security, and CZ"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Crypto-alert.png"
-featured_image: "/images/Crypto-alert.png"
-image: "/images/Crypto-alert.png"
-thumbnail: "/images/Crypto-alert.png"
+image_url: "/images/Crypto-alert.webp"
+featured_image: "/images/Crypto-alert.webp"
+image: "/images/Crypto-alert.webp"
+thumbnail: "/images/Crypto-alert.webp"
 image_alt: "Crypto security alert following the theft of bitcoin from Coldcard wallets"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Coldcard", "Coinkite", "Bitcoin", "hardware wallet", "cold wallet", "bitcoin theft", "seed phrase", "private key", "security flaw", "firmware", "crypto security", "Galaxy Research", "Changpeng Zhao", "CZ", "cybersecurity"]
 description: "More than 1,000 BTC worth around $70 million was stolen from nearly 1,200 addresses linked to vulnerable Coldcard wallets."
 summary: "An attacker moved 1,082.65 BTC from 1,196 addresses in just 41 minutes after a security flaw enabled the reconstruction of insufficiently random keys."
+categories: ["crypto"]
 ---
 
 # Nearly 1,200 Coldcard Wallets Drained in 41 Minutes

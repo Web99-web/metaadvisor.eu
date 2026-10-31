@@ -8,14 +8,15 @@ author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
 source: "Cointelegraph, CoinDesk, Binance, NCA"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/hacker.png"
-featured_image: "/images/hacker.png"
-image: "/images/hacker.png"
-thumbnail: "/images/hacker.png"
+image_url: "/images/hacker.webp"
+featured_image: "/images/hacker.webp"
+image: "/images/hacker.webp"
+thumbnail: "/images/hacker.webp"
 image_alt: "Kripto phishing napad i hakiranje walleta"
 image_credit: "Metaadvisor ilustracija"
 tags: ["crypto", "kripto", "bitcoin", "btc", "phishing", "prijevara", "operation atlantic", "sigurnost", "wallet", "binance", "hack", "defi"]
 summary: "Operation Atlantic otkriva novu vrstu kripto prijevara u kojoj korisnici ne šalju novac, već nesvjesno daju dozvolu za pristup walletu, uz više od 20.000 žrtava i milijune dolara štete."
+categories: ["crypto"]
 ---
 
 _Slika je simbolična._

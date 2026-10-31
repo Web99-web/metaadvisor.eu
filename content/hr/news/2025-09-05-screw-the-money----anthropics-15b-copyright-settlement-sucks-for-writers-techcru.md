@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-c
 summary: "Pisci ne dobivaju stvarnu pobjedu ovom nagodbom — riječ je samo o skupom udarcu po prstima za Anthropic jer je ilegalno preuzimao knjige umjesto da ih kupuje."
 tags: ["ai", "anthropic", "copyright", "writers", "claude", "settlement"]
 image_url: "https://images.pexels.com/photos/1995842/pexels-photo-1995842.jpeg"
+categories: ["news"]
 ---
 
 Oko **pola milijuna pisaca** imat će pravo na isplatu od najmanje 3.000 USD zahvaljujući povijesnoj nagodbi od **1,5 milijardi USD** u kolektivnoj tužbi protiv tvrtke **Anthropic**.  

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/22/while-cftc-awaits-new-ch
 summary: "Während Donald Trumps Kandidat Brian Quintenz noch auf die Bestätigung wartet, startet die CFTC eine weitere 'Krypto-Offensive'."
 tags: ["crypto", "token", "finanz", "cftc", "pham", "quintenz", "trump", "regulierung"]
 image: "/news/2025-08-22-while-cftc-awaits-new-chairman-acting-chief-pham-gets-rolling-on-crypto.jpg"
+categories: ["crypto"]
 ---
 
 Der Vorsitz bei der **Commodity Futures Trading Commission (CFTC)** — wahrscheinlich die führende US-Behörde für die Kryptoaufsicht — ist noch vakant. Doch die Interimschefin **Caroline Pham** hat bereits mit der Umsetzung der Empfehlungen aus dem jüngsten Krypto-Bericht der Präsidialen Arbeitsgruppe begonnen.  

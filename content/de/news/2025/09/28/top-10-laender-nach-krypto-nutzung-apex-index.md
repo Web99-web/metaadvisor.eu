@@ -32,6 +32,7 @@ tags:
   - Indonesien
 
 summary: "Der ApeX-Kompositindex (Besitzquote, Adoptionswachstum, Suchinteresse, Krypto-ATMs) reiht die 10 Länder mit der höchsten Krypto-Nutzung. An der Spitze: Singapur und die VAE, gefolgt von USA, Kanada, Türkei, Deutschland, Schweiz, Australien, Argentinien und Indonesien."
+categories: ["crypto"]
 ---
 
 > **Hinweis:** Die Rangliste basiert auf dem ApeX-Kompositindex (Besitz + Adoptionswachstum + Suchinteresse + ATM-Dichte), nicht auf einem einzelnen Medienartikel.

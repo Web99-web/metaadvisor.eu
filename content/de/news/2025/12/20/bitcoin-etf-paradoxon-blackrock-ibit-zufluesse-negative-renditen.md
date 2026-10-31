@@ -23,6 +23,7 @@ tags:
   - krypto-markt
   - investitionen
 summary: "Der Bitcoin-ETF IBIT von BlackRock gehört 2025 zu den ETF-Fonds mit den höchsten Zuflüssen – obwohl die Jahresrendite negativ ist. Analysten werten dies als Zeichen langfristiger institutioneller Überzeugung."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

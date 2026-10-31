@@ -15,6 +15,7 @@ image_alt: "Bitcoin i financijska regulacija — europski okvir"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitgo","bafin","germany","europe","trading","custody","mica","regulation","metaadvisor"]
 summary: "BaFin je odobrio BitGo Europe širenje usluga na regulirano kripto trgovanje, uz postojeće skrbništvo/staking. Korak se nadovezuje na MiCA licencu i cilja europske institucije."
+categories: ["crypto"]
 ---
 
 **BitGo Europe GmbH** dobio je od njemačkog regulatora **BaFin-a** zeleno svjetlo da, uz postojeće **skrbništvo** i **staking**, pokrene i **regulirano kripto trgovanje** za europske klijente. Potez je važan jer u jednoj platformi spaja **čuvarsku infrastrukturu** s **izvršenjem naloga** — ključnu prepreku za institucionalne ulagače koji traže nadzirane kanale pristupa kripto tržištima.

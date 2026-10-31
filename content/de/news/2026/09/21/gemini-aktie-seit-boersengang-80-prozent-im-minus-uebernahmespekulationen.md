@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Gemini", "Winklevoss", "Hyperliquid", "HYPE", "IPO", "Aktie", "Übernahme", "Kryptobörse", "Lizenzen", "Regulierung", "Kryptowährungen", "CEX", "DEX"]
 description: "Die Gemini-Aktie hat seit dem Börsengang rund 80 % an Wert verloren. Sinkende Exchange-Umsätze und Handelsvolumina befeuern neue Übernahmespekulationen, während regulatorische Lizenzen und Custody-Infrastruktur strategisch wertvoller werden."
 summary: "Die Gemini-Aktie liegt rund 80 % unter ihrem IPO-Niveau, während Exchange-Umsätze, Spot-Handelsvolumen und Assets auf der Plattform deutlich zurückgegangen sind. Das hat Übernahmespekulationen neu entfacht, doch ein möglicher Zusammenhang mit Hyperliquid wäre nicht einfach, da Hyperliquid dezentral organisiert ist und Gemini als regulierte zentrale Börse arbeitet."
+categories: ["crypto"]
 ---
 
 *Das Bild dient nur zur Illustration.*

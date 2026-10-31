@@ -7,14 +7,15 @@ translationKey: "musk-altman-openai-trial"
 source: "Metaadvisor (The Guardian, Reuters, Bloomberg, industrijski izvori)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/OpenAI-Musk-Sam-Altman.png"
-featured_image: "/images/news/OpenAI-Musk-Sam-Altman.png"
-image: "/images/news/OpenAI-Musk-Sam-Altman.png"
-thumbnail: "/images/news/OpenAI-Musk-Sam-Altman.png"
+image_url: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+featured_image: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+image: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+thumbnail: "/images/news/OpenAI-Musk-Sam-Altman.webp"
 image_alt: "Elon Musk i Sam Altman suđenje oko OpenAI"
 image_credit: "Metaadvisor.eu"
 tags: ["openai", "elon musk", "sam altman", "ai", "tehnologija", "sud", "microsoft", "xai"]
 summary: "Sukob između Elona Muska i Sama Altmana oko OpenAI ulazi u sudsku fazu, otvarajući pitanja o kontroli umjetne inteligencije i budućnosti industrije."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

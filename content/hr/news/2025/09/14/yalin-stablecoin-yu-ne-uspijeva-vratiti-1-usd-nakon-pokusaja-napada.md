@@ -10,6 +10,7 @@ image_url: "/images/grafikon.jpg"
 image_alt: "Grafikon koji prikazuje YU stablecoin ispod 1 USD"
 tags: ["stablecoin","defi","security"]
 summary: "YU, BTC-kolateralizirani stablecoin na Yala protokolu, pao je ispod pega nakon sigurnosnog incidenta i zasad se nije stabilno vratio na 1 USD."
+categories: ["ai"]
 ---
 
 **Što se dogodilo?**  

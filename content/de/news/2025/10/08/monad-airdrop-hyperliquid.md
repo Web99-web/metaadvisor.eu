@@ -16,6 +16,7 @@ image_alt: "Monad Airdrop und MON-Perpetuals auf Hyperliquid"
 image_credit: "Metaadvisor.eu (symbolisches Bild)"
 tags: ["crypto","hyperliquid","monad","mon","airdrop","perpetuals","perps","DEX","FDV","EVM","l1","trading","derivatives"]
 summary: "Die dezentrale Derivatebörse Hyperliquid hat MON-Perpetuals gelistet, während Monad einen Airdrop mit einer indikativen FDV von rund 13 Mrd. USD andeutet."
+categories: ["crypto"]
 ---
 
 **Hyperliquid**, eine dezentrale Derivatebörse, hat **MON-USD Perpetuals** gelistet – Long/Short auf **MON**, den nativen Token der **Monad**-Blockchain – **noch vor dem Airdrop**.

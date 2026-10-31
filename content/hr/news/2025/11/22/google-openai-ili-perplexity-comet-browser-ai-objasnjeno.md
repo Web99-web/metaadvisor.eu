@@ -6,12 +6,13 @@ category: "ai"
 translationKey: "perplexity-comet-browser-metaadvisor"
 source: "MetaAdvisor"
 source_url: "https://metaadvisor.eu"
-image_url: "/images/Paraplexity-Comet.AIgoogle.png"
-featured_image: "/images/Paraplexity-Comet.AIgoogle.png"
-image: "/images/Paraplexity-Comet.AIgoogle.png"
-thumbnail: "/images/Paraplexity-Comet.AIgoogle.png"
+image_url: "/images/Paraplexity-Comet.AIgoogle.webp"
+featured_image: "/images/Paraplexity-Comet.AIgoogle.webp"
+image: "/images/Paraplexity-Comet.AIgoogle.webp"
+thumbnail: "/images/Paraplexity-Comet.AIgoogle.webp"
 summary: "Perplexity donosi svoj novi Comet preglednik na Android — potpuno novu kombinaciju Google pretrage, OpenAI znanja i analize u stvarnom vremenu."
 tags: ["ai", "umjetna inteligencija", "perplexity", "comet", "preglednik", "google", "openai", "tehnologija", "aplikacije", "financije", "financiranje"]
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "e95b64b073c2a0925cb79d922167effb"
 source: "Metaadvisor (Cointelegraph PR, MEXC, TradingView)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Sentora-Smart-Yield-money.png"
-featured_image: "/images/companies/Sentora-Smart-Yield-money.png"
-image: "/images/companies/Sentora-Smart-Yield-money.png"
-thumbnail: "/images/companies/Sentora-Smart-Yield-money.png"
+image_url: "/images/companies/Sentora-Smart-Yield-money.webp"
+featured_image: "/images/companies/Sentora-Smart-Yield-money.webp"
+image: "/images/companies/Sentora-Smart-Yield-money.webp"
+thumbnail: "/images/companies/Sentora-Smart-Yield-money.webp"
 image_alt: "Sentora Smart Yield platforma za DeFi strategije i upravljanje prinosima"
 image_credit: "Metaadvisor.eu"
 tags: ["sentora smart yield", "defi vaultovi", "defi prinos", "defi strategije", "morpho defi lending", "kripto yield platforma", "defi rizik upravljanje", "institucionalni defi", "defi analiza platforma", "onchain strategije", "crypto edukacija defi"]
 summary: "Sentora otvara svoju Smart Yield platformu javnosti, omogućujući korisnicima da analiziraju DeFi vaultove, usporede strategije i bolje razumiju rizik u sve kompleksnijem DeFi ekosustavu."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

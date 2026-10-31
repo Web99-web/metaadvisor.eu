@@ -15,6 +15,7 @@ image_alt: "Ethereum chart highlighting the $1,800 support level"
 image_credit: "Cointelegraph / Illustration"
 tags: ["ethereum", "eth", "crypto", "altcoin", "trading", "technical analysis", "support level", "mvrv", "onchain", "defi", "blockchain"]
 summary: "Ethereum is once again testing the crucial $1,800 support zone. Analysts warn that a break below this level could open the door to $1,500 or lower."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

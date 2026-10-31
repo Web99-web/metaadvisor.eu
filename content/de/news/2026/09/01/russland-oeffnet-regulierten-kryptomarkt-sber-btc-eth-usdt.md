@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "russia-opens-regulated-crypto-market-2026-09-01"
 source: "Bank of Russia, TASS, Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Russia-opens-regulated-crypto-market.png"
-featured_image: "/images/informative/Russia-opens-regulated-crypto-market.png"
-image: "/images/informative/Russia-opens-regulated-crypto-market.png"
-thumbnail: "/images/informative/Russia-opens-regulated-crypto-market.png"
+image_url: "/images/informative/Russia-opens-regulated-crypto-market.webp"
+featured_image: "/images/informative/Russia-opens-regulated-crypto-market.webp"
+image: "/images/informative/Russia-opens-regulated-crypto-market.webp"
+thumbnail: "/images/informative/Russia-opens-regulated-crypto-market.webp"
 image_alt: "Russland öffnet den regulierten Kryptomarkt, während Sber Kredite mit Bitcoin, Ether und USDT vorbereitet"
 image_credit: "Metaadvisor.eu"
 tags: ["Russland", "Krypto", "Kryptowährungen", "Bitcoin", "Ethereum", "Ether", "USDT", "Stablecoin", "Sber", "Banken", "Kredite", "Sicherheiten", "Regulierung", "Finanzmärkte", "Investitionen", "digitale Vermögenswerte"]
 description: "Russland öffnet am 1. September den regulierten Kryptomarkt, während die größte Bank des Landes, Sber, Produkte vorbereitet, bei denen Bitcoin, Ether und USDT als Kreditsicherheiten dienen könnten."
 summary: "Der neue regulatorische Rahmen markiert einen wichtigen Schritt für den russischen Kryptomarkt. Sber will sein Angebot ausbauen und BTC, ETH und USDT als Sicherheiten akzeptieren, während die Bank of Russia die Regeln für den Handel mit digitalen Vermögenswerten auf regulierten Plattformen festlegt."
+categories: ["Crypto"]
 ---
 
 # Russland öffnet heute den regulierten Kryptomarkt: Sber plant Kredite mit BTC, ETH und USDT

@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/10/14/u-s-targets-cambodian-pig-butchering-takes-usd14b-in-bitcoin-as-biggest-ever-seizure"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/BTC-seized.png"
-featured_image: "/images/BTC-seized.png"
-image: "/images/BTC-seized.png"
-thumbnail: "/images/BTC-seized.png"
+image_url: "/images/BTC-seized.webp"
+featured_image: "/images/BTC-seized.webp"
+image: "/images/BTC-seized.webp"
+thumbnail: "/images/BTC-seized.webp"
 image_alt: "Bitcoin iza rešetaka — simbol najveće zaplijene u povijesti"
 image_credit: "Slika je simbolična."
 tags: ["bitcoin", "SAD", "zaplijena", "kripto prevare", "pig butchering", "Kambodža", "Prince Group", "pranje novca", "DOJ", "OFAC"]
 summary: "Američke vlasti zaplijenile su 127.271 BTC (vrijednih oko 14 mlrd. USD) od kambodžanske kriminalne mreže Prince Group — najveća kripto zaplijena u povijesti. Riječ je o 'pig-butchering' prevarama i prisilnom radu tisuća žrtava."
+categories: ["crypto"]
 ---
 
 Američke vlasti provele su najveću **kripto zaplijenu u povijesti**, preuzimajući kontrolu nad **127.271 bitcoinom**, vrijednim oko **14 milijardi USD**. Sredstva su povezana s globalnom kriminalnom mrežom **Prince Group**, koju tužitelji opisuju kao jednog od najvećih operatera internetskih prevara i prisilnog rada u jugoistočnoj Aziji. 

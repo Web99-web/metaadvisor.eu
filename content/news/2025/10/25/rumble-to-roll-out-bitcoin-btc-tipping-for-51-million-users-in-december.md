@@ -16,6 +16,7 @@ image_alt: "Rumble video player — BTC tipping"
 image_credit: "Illustration is symbolic."
 tags: ["bitcoin", "BTC", "Rumble", "tipping", "Tether", "PlanB Forum", "Lugano", "video platform", "creators", "treasury", "crypto"]
 summary: "Rumble plans to introduce BTC tipping for 51 million monthly users by mid-December. The feature is developed with Tether and lets viewers send Bitcoin tips directly in the app."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

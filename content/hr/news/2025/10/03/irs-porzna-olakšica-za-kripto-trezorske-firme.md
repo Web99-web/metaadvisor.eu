@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/news-analysis/2025/10/03/irs-guidance-limited-in-scope-but-good-news-for-crypto-treasury-firms"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/IRS.png"
-featured_image: "/images/IRS.png"
-image: "/images/IRS.png"
-thumbnail: "/images/IRS.png"
+image_url: "/images/IRS.webp"
+featured_image: "/images/IRS.webp"
+image: "/images/IRS.webp"
+thumbnail: "/images/IRS.webp"
 image_alt: "IRS logo i Bitcoin simbol"
 image_credit: "Metaadvisor.eu (simbolična grafika)"
 tags:
@@ -30,6 +30,7 @@ tags:
   - regulacija
   - SAD
 summary: "Privremene smjernice IRS-a rasterećuju najveće C-korporacije od CAMT oporezivanja nerealiziranih dobitaka na kripto imovini. Iako selektivne, mjere smanjuju rizik prisilnih likvidacija kod firmi s velikim bitcoin rezervama."
+categories: ["crypto"]
 ---
 
 Američka porezna uprava (IRS) objavila je **privremene smjernice** koje ublažavaju primjenu **Corporate Alternative Minimum Tax (CAMT)** na **nerealizirane dobitke** kod **najvećih C-korporacija**. U praksi to znači: ako je tvrtka iznad praga „velikog obveznika” (C-corp, prihod > **1 mlrd USD** prema knjigovodstvenom „book income”), **nema obvezu plaćanja minimalnog poreza** na **papirnate** dobitke na određenu imovinu — uključujući **kripto**.

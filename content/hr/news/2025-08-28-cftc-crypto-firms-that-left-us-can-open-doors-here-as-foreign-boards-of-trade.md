@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/28/cftc-crypto-firms-that-l
 summary: "Američki regulator za derivate podsjetio je da strane kripto burze registrirane kao FBOT mogu izravno opsluživati klijente iz SAD-a."
 tags: ["crypto","CFTC","regulation","Trump","FBOT"]
 image_url: "https://www.coindesk.com/resizer/vzZY0N_LwE43P0a2eKZZB9O2T5g=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/cftc-fbot-2025.jpg"
+categories: ["crypto"]
 ---
 
 **CFTC (Commodity Futures Trading Commission)**, u sklopu svoje inicijative „crypto sprint“, izdala je u četvrtak savjetodavnu obavijest kojom potvrđuje da strane kripto tvrtke mogu registracijom kao **foreign boards of trade (FBOTs)** opsluživati američke korisnike.

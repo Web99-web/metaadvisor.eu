@@ -7,14 +7,15 @@ translationKey: "zinc-mexc-weekend-closed-3343"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Crypto-metals.png"
-featured_image: "/images/Crypto-metals.png"
-image: "/images/Crypto-metals.png"
-thumbnail: "/images/Crypto-metals.png"
+image_url: "/images/Crypto-metals.webp"
+featured_image: "/images/Crypto-metals.webp"
+image: "/images/Crypto-metals.webp"
+thumbnail: "/images/Crypto-metals.webp"
 image_alt: "ZINC na MEXC-u i cijena iznad 3.300 USD"
 image_credit: "Metaadvisor.eu"
 tags: ["zinc mexc", "crypto koji ne radi vikendom", "derivati crypto", "trading metali crypto", "zinc cijena 3343", "synthetic asset crypto", "trading rizik vikend", "crypto vs tradfi", "mexc trading", "zinc xzn analiza"]
 summary: "ZINC na MEXC-u izgleda kao crypto, ali ne radi vikendom. Cijena se kreće oko 3.343 USD nakon rasta s 3.165 na gotovo 3.500 USD, otkrivajući kako se tržišta mijenjaju."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

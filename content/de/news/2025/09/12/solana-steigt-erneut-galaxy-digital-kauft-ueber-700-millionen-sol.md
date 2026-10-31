@@ -1,5 +1,5 @@
 ---
-title: "Solana steigt erneut, während Galaxy Digital über 700 Millionen $ in SOL kauft"
+title: "Solana steigt erneut: Galaxy Digital kauft SOL im Wert von über 700 Millionen US-Dollar – Decrypt"
 slug: "solana-steigt-erneut-galaxy-digital-kauft-ueber-700-millionen-sol"
 date: 2025-09-12T19:40:58Z
 category: "news"
@@ -10,23 +10,24 @@ priority: 0
 image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png"
 tags: ["crypto", "cryptocurrency", "solana", "sol", "binance", "bnb", "stocks"]
 our_take: |
-  Unser Fazit: Galaxy Digital kauft >700 Mio. $ SOL (Forward-Treasury); der SOL-Preis steigt weiter. Im Blick: Liquidität, USD/Zinsumfeld und Regulierung. Selektiv bleiben; Exposure nur in High-Conviction-Positionen ausbauen.
+  Unser Fazit: Die SOL-Käufe von Galaxy Digital stehen im Zusammenhang mit der Reserve-Strategie von Forward Industries. Im Blick bleiben Liquidität, Zinsen, der US-Dollar und Regulierung. Selektiv bleiben und nur bei hoher Überzeugung investieren.
+categories: ["news"]
 ---
 
-Solana steigt erneut, während Galaxy Digital über 700 Millionen US-Dollar in SOL kauft
+Solana steigt erneut: Galaxy Digital kauft SOL im Wert von über 700 Millionen US-Dollar
 
-Die Investmentfirma Galaxy Digital hat in den vergangenen zwei Tagen Solana im Wert von über 700 Millionen US-Dollar gekauft — als Teil ihrer Beteiligung an der SOL-Treasury-Firma Forward Industries. Der Solana-Preis legte derweil weiter zu.
+Das Investmentunternehmen Galaxy Digital hat innerhalb von zwei Tagen Solana im Wert von über 700 Millionen US-Dollar gekauft. Die Käufe stehen im Zusammenhang mit seiner Beteiligung an Forward Industries, einem Unternehmen, das SOL als Reservevermögen aufbaut. Der Solana-Kurs stieg in diesem Zeitraum weiter.
 
-Galaxy transferierte SOL überwiegend von Binance — sowie auch von Coinbase — über mehrere Transaktionen; Daten von Arkham Intelligence deuten darauf hin, dass seit Mittwoch etwas über 3 Millionen SOL gekauft wurden.
+Galaxy transferierte SOL in mehreren Transaktionen überwiegend von Binance, aber auch von Coinbase. Daten von Arkham Intelligence zufolge kaufte das Unternehmen seit Mittwoch etwas mehr als 3 Millionen SOL.
 
-Der Vermögensverwalter tätigt die Käufe vermutlich im Auftrag von Forward Industries, in das er eine Investition in Höhe von 1,65 Milliarden US-Dollar angeführt hat — unter Beteiligung von Jump Crypto und Multicoin Capital.
+Der Vermögensverwalter tätigt diese Käufe möglicherweise im Auftrag von Forward Industries. Galaxy führte eine Investition von 1,65 Milliarden US-Dollar in das Unternehmen an, an der sich auch Jump Crypto und Multicoin Capital beteiligten.
 
-Forward, gegründet 1961, ist ein an der Nasdaq gelistetes Produktdesign-Unternehmen und will die Mittel aus der aktuellen Kapitalaufnahme nutzen, um die weltweit größte börsennotierte Solana-Treasury aufzubauen; Galaxy übernimmt den Großteil des Ankaufs und Transfers der SOL.
+Forward Industries wurde 1961 gegründet und ist ein an der Nasdaq notiertes Unternehmen für Produktdesign. Mit den Mitteln aus der Kapitalaufnahme jener Woche wollte es die weltweit größte Solana-Reserve eines börsennotierten Unternehmens aufbauen. Galaxy war für den Kauf und die Übertragung des Großteils der SOL verantwortlich.
 
-Die Zusammenarbeit mit Forward fällt in eine Phase, in der Galaxy ein verstärktes Interesse an Solana zeigt; in dem Tweet zur Investition bezeichnete das Unternehmen Solana als „einzigartig positioniert, die nächste Generation der Kapitalmärkte zu betreiben“.
+Die Zusammenarbeit fällt in eine Phase, in der Galaxy verstärktes Interesse an Solana zeigt. In einem Beitrag zur Ankündigung seiner Investition beschrieb das Unternehmen Solana als einzigartig positioniert, um die nächste Generation der Kapitalmärkte zu ermöglichen.
 
-Auch Galaxy-Gründer und CEO Mike Novogratz sprach am Donnerstag in CNBCs Squawk Box über Solana und erklärte, die Blockchain könne „14 Milliarden Transaktionen“ pro Tag verarbeiten.
+Galaxy-Gründer und CEO Mike Novogratz sprach am Donnerstag in einem Interview mit CNBCs Squawk Box ebenfalls über Solana. Er erklärte, die Blockchain könne 14 Milliarden Transaktionen pro Tag verarbeiten.
 
-Warum Galaxy von Solana begeistert ist, fasste er so zusammen: „Ihr habt eine Blockchain, die inzwischen schnell genug ist — maßgeschneidert, um die Blockchain für Finanzmärkte zu sein.“
+Seine Begeisterung begründete er damit, dass die Blockchain inzwischen schnell genug und auf die Anforderungen der Finanzmärkte zugeschnitten sei.
 
-Anschließend verwies er auf Aussagen des SEC-Vorsitzenden Paul Atkins, der am Mittwoch eine Keynote hielt und über das Project Crypto der Behörde sprach — eine „umfassende Initiative“, um …
+Anschließend verwies er auf SEC-Vorsitzenden Paul Atkins, der am Mittwoch in einer Grundsatzrede über Project Crypto gesprochen hatte. Mit dieser Initiative wollte die Behörde den Übergang der Märkte auf Blockchain-Infrastruktur fördern.

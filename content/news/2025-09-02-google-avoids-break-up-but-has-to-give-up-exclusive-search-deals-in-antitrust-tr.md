@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/02/google-avoids-break-up-faces-new-
 summary: "U.S. District Court Judge Amit P. Mehta outlined remedies on Tuesday that would bar Google from entering or maintaining exclusive deals that tie the distribution of Search, Chrome, Google Assistant, or Gemini to other apps or revenue arrangements."
 tags: ["google", "antitrust", "search", "chrome", "gemini", "tech"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
+categories: ["news"]
 ---
 
 Google will not be forced to break up its search business, but a federal judge has tentatively ordered other changes to the tech giant’s business practices to keep it from further anticompetitive behavior.

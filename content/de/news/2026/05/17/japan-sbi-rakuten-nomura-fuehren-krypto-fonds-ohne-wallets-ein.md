@@ -15,6 +15,7 @@ image_alt: "Japanische Finanzgiganten führen Krypto-Investmentfonds ein"
 image_credit: "Metaadvisor.eu"
 tags: ["krypto", "bitcoin", "btc", "ethereum", "eth", "japan", "sbi", "rakuten", "nomura", "banken", "fonds", "krypto-fonds", "blockchain", "digitale vermögenswerte", "retail-investoren", "institutionelle investoren", "wallet", "etf", "finanzen", "asien"]
 summary: "Große japanische Finanzinstitutionen wie SBI, Rakuten und Nomura entwickeln Krypto-Investmentfonds, die gewöhnlichen Investoren ein Krypto-Exposure ohne Wallets und Kryptobörsen ermöglichen sollen."
+categories: ["crypto"]
 ---
 
 <small><em>Das Bild ist symbolisch.</em></small>

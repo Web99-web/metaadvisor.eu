@@ -7,10 +7,10 @@ translationKey: "future_of_salaries_crypto_20260115"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Salaries-crypto.png"
-featured_image: "/images/Salaries-crypto.png"
-image: "/images/Salaries-crypto.png"
-thumbnail: "/images/Salaries-crypto.png"
+image_url: "/images/Salaries-crypto.webp"
+featured_image: "/images/Salaries-crypto.webp"
+image: "/images/Salaries-crypto.webp"
+thumbnail: "/images/Salaries-crypto.webp"
 image_alt: "Budućnost plaća i kriptovalute u modernom radnom okruženju"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Isplata dijela plaće u kriptovalutama više nije teorija. Od Švicarske do SAD-a i Latinske Amerike, kripto plaće već postoje — ali gotovo uvijek u hibridnom, regulatorno prilagođenom obliku."
@@ -24,6 +24,7 @@ tags:
   - rad
   - financije
   - buducnost
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

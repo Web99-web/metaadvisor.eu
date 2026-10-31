@@ -15,6 +15,7 @@ image_alt: "Fidelity Crypto — Illustration"
 image_credit: "Bild ist symbolisch."
 tags: ["crypto","fidelity","sol","solana","tradfi","kryptowährungen","institutionen","anlage","pensionskonten","digitales vermögen"]
 summary: "Fidelity macht Solana (SOL) für Millionen Kunden verfügbar – vom Retail über IRAs bis hin zu institutionellen Mandaten. Ein weiterer Schritt zur Mainstream-Akzeptanz im TradFi-Kanal."
+categories: ["crypto"]
 ---
 
 Solana erhält einen weiteren **Mainstream-Moment**: Fidelity, eine der größten Finanzinstitutionen weltweit, hat **SOL** offiziell in seine Angebote aufgenommen. Kunden können Solana jetzt über mehrere Fidelity-Plattformen kaufen, verkaufen und halten – von **Fidelity Crypto** (Retail) über **IRAs** bis hin zu institutionellen Lösungen via **Fidelity Digital Assets**.

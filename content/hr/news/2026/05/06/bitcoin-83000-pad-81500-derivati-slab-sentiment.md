@@ -15,6 +15,7 @@ image_alt: "Bitcoin rast prema 83k pa povlačenje na 81.5k uz slab sentiment der
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "kripto", "trading", "derivatives", "futures", "options", "macro", "inflation", "iran", "oil", "market", "volatility", "crypto market"]
 summary: "Bitcoin je skočio gotovo do $83.000, ali se brzo povukao na $81.500. Unatoč rastu cijene, derivati i makro signali ukazuju na oprez i nedostatak stvarnog uvjerenja tržišta."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

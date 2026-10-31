@@ -6,15 +6,16 @@ category: "Meta"
 translationKey: "facebook-blocked-indias-prime-minister-modi-meta-apologized-2026-08-15"
 source: "Reuters, Meta Oversight Board, Financial Times, CBS News, Appeals Centre Europe, Change.org, Meta"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
-featured_image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
-image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
-thumbnail: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
+image_url: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
+featured_image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
+image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
+thumbnail: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
 image_alt: "Facebook blocked a post by Indian Prime Minister Narendra Modi, after which Meta apologized"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Facebook", "Meta", "Narendra Modi", "India", "AI moderation", "Facebook ban", "permanent ban", "Big Tech", "customer support", "Oversight Board", "Appeals Centre Europe", "right to information"]
 description: "Facebook blocked a post by Indian Prime Minister Narendra Modi. After the Indian government intervened, Meta apologized, while ordinary users can permanently lose their accounts without a specific explanation or access to human support."
 summary: "Modi’s block ended with government intervention, an explanation and an apology from Meta. At the same time, ordinary users can lose 15- or 20-year-old accounts, Messenger, Pages, Groups and access to part of Facebook’s information space within seconds."
+categories: ["Meta"]
 ---
 
 *The image is symbolic.*
@@ -59,7 +60,7 @@ We have been following this issue at Metaadvisor for months, and the more we inv
 We previously covered this issue in <a href="https://metaadvisor.eu/news/right-to-information-facebook-ban-not-just-lost-profile/" target="_blank" rel="noopener"><strong>The Human Right to Information: A Facebook Ban Is No Longer Just a Lost Profile</strong></a>.
 
 <a href="https://metaadvisor.eu/news/right-to-information-facebook-ban-not-just-lost-profile/" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-bans.png" alt="Facebook bans and the human right to information" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+<img src="/images/Meta/Facebook-bans.webp" alt="Facebook bans and the human right to information" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
 </a>
 
 A permanent exclusion can happen literally within a second. A user who moments earlier was talking to friends, managing groups or pages and using Messenger is suddenly no longer inside. They have no time to warn friends, leave another contact method or explain to people they may have known for years that Facebook has removed them.
@@ -92,7 +93,7 @@ The scale of the system is best illustrated by a figure that sounds almost unbel
 We have already covered this issue in <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener"><strong>Meta Oversight Board: AI moderation — a years-long problem is only now coming into focus</strong></a>.
 
 <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">
-<img src="/images/Meta/Meta-oversight-board2.png" alt="Meta Oversight Board and the problem of AI moderation" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+<img src="/images/Meta/Meta-oversight-board2.webp" alt="Meta Oversight Board and the problem of AI moderation" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
 </a>
 
 In other words, we are no longer talking about a few angry users complaining on the internet.
@@ -174,7 +175,7 @@ The system has another almost satirical dimension: Appeals Centre Europe’s dis
 We covered this problem in detail in <a href="https://metaadvisor.eu/news/eu-appeals-centre-europe-protection-fails-platforms-ignore-user-complaints/" target="_blank" rel="noopener"><strong>EU protection fails: Appeals Centre Europe has no real power, do platforms ignore users?</strong></a>.
 
 <a href="https://metaadvisor.eu/news/eu-appeals-centre-europe-protection-fails-platforms-ignore-user-complaints/" target="_blank" rel="noopener">
-<img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png" alt="Appeals Centre Europe and the protection of Facebook users in the European Union" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+<img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp" alt="Appeals Centre Europe and the protection of Facebook users in the European Union" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
 </a>
 
 Perhaps Narendra Modi and the Indian government will be more successful than the EU and its Appeals Centre Europe have been so far. A user whose account has been permanently disabled does not need another document that can remain a dead letter. They need a mechanism that **obliges** the platform to explain its decision, provide a genuine human appeal and correct its mistake.

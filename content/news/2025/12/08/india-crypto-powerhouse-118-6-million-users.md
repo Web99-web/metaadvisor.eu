@@ -7,14 +7,15 @@ translationKey: "india_118m_users_metaadvisor_08122025"
 source: "MetaAdvisor – analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/India-118.6-crypto-users.png"
-featured_image: "/images/India-118.6-crypto-users.png"
-image: "/images/India-118.6-crypto-users.png"
-thumbnail: "/images/India-118.6-crypto-users.png"
+image_url: "/images/India-118.6-crypto-users.webp"
+featured_image: "/images/India-118.6-crypto-users.webp"
+image: "/images/India-118.6-crypto-users.webp"
+thumbnail: "/images/India-118.6-crypto-users.webp"
 image_alt: "Map of India with highlighted number 118.6 million crypto users"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["india","crypto","cryptocurrency","coinbase","dex","hyperliquid","binance","wazirx","coindcx","coinswitch","bitbns","analysis"]
 summary: "India is becoming the largest crypto market in the world – 118.6 million people actively use cryptocurrencies. As Coinbase returns to India, DEX platforms such as Hyperliquid are shaping the new trading landscape."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

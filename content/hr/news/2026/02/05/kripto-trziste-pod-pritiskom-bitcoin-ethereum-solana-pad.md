@@ -15,6 +15,7 @@ image_alt: "Pad cijena Bitcoina, Ethereuma i Solane"
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto", "kripto", "bitcoin", "btc", "ethereum", "eth", "solana", "sol", "pad tržišta", "volatilnost", "analiza tržišta"]
 summary: "Bitcoin se oporavio do 63.000 USD nakon pada ispod 62.300, dok su Ethereum i Solana zabilježili slične oscilacije. Unatoč kratkoročnom oporavku, dio analitičara upozorava da tržište još nije završilo korekciju."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

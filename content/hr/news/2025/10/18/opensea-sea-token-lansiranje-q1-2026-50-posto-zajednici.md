@@ -16,6 +16,7 @@ image_alt: "SEA token launch vizual — simbolična ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["OpenSea","SEA","NFT","token","crypto","DeFi","staking","community","Q1 2026"]
 summary: "OpenSea potvrđuje lansiranje vlastitog SEA tokena u prvom kvartalu 2026. — 50% ukupne ponude bit će dodijeljeno zajednici kroz claim i nagrade."
+categories: ["crypto"]
 ---
 
 Najveći NFT marketplace na svijetu, **OpenSea**, službeno je potvrdio da njegov dugo očekivani **SEA token** stiže u **prvom kvartalu 2026. godine**. Vijest je objavio izvršni direktor Devin Finzer, a izazvala je snažan odjek u kripto zajednici.

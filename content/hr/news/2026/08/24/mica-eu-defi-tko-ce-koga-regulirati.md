@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "mica-defi-regulation-eu-2026-08-24"
 source: "European Commission, Morpho, Cointelegraph, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/EU/MICA-goes-for-DeFi.png"
-featured_image: "/images/EU/MICA-goes-for-DeFi.png"
-image: "/images/EU/MICA-goes-for-DeFi.png"
-thumbnail: "/images/EU/MICA-goes-for-DeFi.png"
+image_url: "/images/EU/MICA-goes-for-DeFi.webp"
+featured_image: "/images/EU/MICA-goes-for-DeFi.webp"
+image: "/images/EU/MICA-goes-for-DeFi.webp"
+thumbnail: "/images/EU/MICA-goes-for-DeFi.webp"
 image_alt: "MiCA se približava DeFi-ju dok EU pokušava utvrditi koga regulirati"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["MiCA", "DeFi", "European Union", "European Commission", "crypto lending", "crypto borrowing", "DeFi vaults", "smart contracts", "Morpho", "CASP", "crypto regulation"]
 description: "Europska komisija razmatra treba li MiCA obuhvatiti DeFi lending i borrowing. No decentralizirani protokoli otvaraju mnogo teže pitanje: koga regulator zapravo može regulirati?"
 summary: "Bruxelles razmatra proširenje europskog regulatornog okvira prema DeFi lendingu, borrowingu, vaultovima i smart contractima. Problem je što odgovornost u decentraliziranim protokolima može biti raspoređena između developera, curatora, governancea, smart contracta i drugih sudionika."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

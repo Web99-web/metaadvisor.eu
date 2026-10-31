@@ -12,7 +12,7 @@
       {{ $src := "" }}
 
       {{/* 1) hero iz bundlea */}}
-      {{ with $p.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
+      {{ with (or ($p.Resources.GetMatch "hero.png") ($p.Resources.GetMatch "hero*")) }}{{ $src = .RelPermalink }}{{ end }}
 
       {{/* 2) image_url / image (abs ili / ili relativno u bundleu) + IGNORE placeholder */}}
       {{ if not $src }}
@@ -56,12 +56,13 @@
         onerror="this.onerror=null;this.src='{{ $ph }}'">
     {{ end }}
 
+    {{ with $p.Params.image_note }}<p class="image-note" style="font-size:.9rem;color:#475569">{{ . }}</p>{{ end }}
     <h1 class="post-title">{{ $p.Title }}</h1>
     <div class="post-meta">
-      <time datetime="{{ $p.Date }}">{{ $p.Date.Format "2006-01-02" }}</time>
+      <time datetime="{{ $p.Date }}">{{ partial "reader-date.html" $p.Date }}</time>
       {{ if $isNews }}
         {{ with $p.Params.category }} · <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>{{ end }}
-        {{ with $p.Params.tags }} · {{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href='{{ "/tags/" | relLangURL }}{{ $t | urlize }}/'>{{ $t }}</a>{{ end }}{{ end }}
+        {{ with $p.Params.tags }} · {{ partial "article-tags.html" $p }}{{ end }}
       {{ end }}
     </div>
   </header>
@@ -126,7 +127,6 @@
         <div class="our-take-body">{{ $p.Params.our_take | markdownify }}</div>
       </section>
     {{ end }}
-  </div>
 
   
 

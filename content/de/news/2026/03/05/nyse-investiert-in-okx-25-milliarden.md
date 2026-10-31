@@ -3,18 +3,19 @@ title: "New York Stock Exchange steigt in Krypto ein: NYSE-Eigentümer investier
 slug: "nyse-investiert-in-okx-25-milliarden"
 date: 2026-03-05T16:30:00Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-03-05"
 author: "Cointelegraph"
 source: "Cointelegraph und Metaadvisor.eu Analyse"
 source_url: ""
-image_url: "/images/okx-analysis.png"
-featured_image: "/images/okx-analysis.png"
-image: "/images/okx-analysis.png"
-thumbnail: "/images/okx-analysis.png"
+image_url: "/images/okx-analysis.webp"
+featured_image: "/images/okx-analysis.webp"
+image: "/images/okx-analysis.webp"
+thumbnail: "/images/okx-analysis.webp"
 image_alt: "OKX Analyse und Wachstum des Kryptomarktes"
 image_credit: "Metaadvisor.eu"
 tags: ["krypto", "bitcoin", "btc", "okx", "nyse", "new york stock exchange", "ice", "intercontinental exchange", "tokenisierung", "tokenisierte aktien", "krypto börsen", "crypto exchange", "blockchain", "web3", "tradfi", "finanzmärkte", "kryptomarkt"]
 summary: "Der Eigentümer der New York Stock Exchange, Intercontinental Exchange (ICE), hat in die Kryptobörse OKX investiert, die mit rund 25 Milliarden Dollar bewertet wird. Die Partnerschaft öffnet die Tür für tokenisierte Aktien und neue Brücken zwischen traditionellen Finanzmärkten und Krypto."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

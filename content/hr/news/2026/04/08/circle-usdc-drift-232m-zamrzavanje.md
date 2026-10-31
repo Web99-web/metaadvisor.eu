@@ -7,14 +7,15 @@ translationKey: "d1c8f5a7e2b94c3aa6f0e9d4b7c1a532"
 author: "Metaadvisor.eu"
 source: "Cointelegraph, ZachXBT analiza, on-chain podaci"
 source_url: ""
-image_url: "/images/news/Circle-USDC-232M-Drift-protocol.png"
-featured_image: "/images/news/Circle-USDC-232M-Drift-protocol.png"
-image: "/images/news/Circle-USDC-232M-Drift-protocol.png"
-thumbnail: "/images/news/Circle-USDC-232M-Drift-protocol.png"
+image_url: "/images/news/Circle-USDC-232M-Drift-protocol.webp"
+featured_image: "/images/news/Circle-USDC-232M-Drift-protocol.webp"
+image: "/images/news/Circle-USDC-232M-Drift-protocol.webp"
+thumbnail: "/images/news/Circle-USDC-232M-Drift-protocol.webp"
 image_alt: "USDC i Drift exploit od 232 milijuna dolara"
 image_credit: "Ilustracija"
 tags: ["kripto","crypto","usdc","circle","drift protocol","exploit","defi","hack","eth","blockchain","security","regulacija"]
 summary: "Nakon Drift exploita, oko 232 milijuna dolara u USDC-u prošlo je kroz sustav bez zamrzavanja, otvarajući pitanje brzine reakcije i odgovornosti centraliziranih stablecoina."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -27,6 +27,7 @@ tags:
   - whales
   - dune-analytics
 summary: "Hyperliquid je s vrhunca od 71% tržišnog udjela u svibnju pao na 38%, dok Lighter i Aster rastu na 16,8% i 14,9%. Uz 700 mlrd $ kumulativnog volumena u 4 tjedna, utrka perps DEX-ova ulazi u fazu oštre konkurencije poticajima, UX-om i dubinom knjige."
+categories: ["ai"]
 ---
 
 Hyperliquid, nekoć nesporni lider on-chain tržišta **perpetual futures** ugovora, brzo **gubi udio** u korist novih izazivača poput **Lightera** i **Astera**.

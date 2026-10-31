@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/webull-australia-crypto-services-uni
 summary: "Webull je brzo proširio kripto usluge u Australiji, nudeći 240 kriptovaluta preko partnerstva s Coinbase Prime, odmah nakon povratka u SAD."
 tags: ["crypto","Webull","Australia","Coinbase Prime","regulation","expansion"]
 image_url: "https://cointelegraph.com/images/528_webull_australia.jpg"
+categories: ["crypto"]
 ---
 
 Webull je upravo pokrenuo kripto usluge u Australiji, svega nekoliko dana nakon ponovnog uvođenja iste usluge u SAD-u — gdje je bila obustavljena 2023. godine. Kroz partnerstvo s Coinbase Prime, Webull Australia korisnicima omogućuje trgovinu **240 različitih kriptovaluta** :contentReference[oaicite:11]{index=11}.

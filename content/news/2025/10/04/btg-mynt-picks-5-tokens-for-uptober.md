@@ -16,6 +16,7 @@ image_alt: "Mynt (BTG Pactual) announces 5 crypto picks for Uptober"
 image_credit: "Metaadvisor.eu – symbolic composition"
 tags: ["crypto", "BTC", "ETH", "SOL", "AVAX", "SKY", "ETFs", "DeFi", "Brazil", "BTG Pactual", "Mynt", "institutional-investors", "tokenization", "DEX", "TVL"]
 summary: "Mynt, the crypto platform of Brazil’s largest investment bank BTG Pactual, named five ‘Uptober’ tokens: BTC, ETH, SOL, AVAX and SKY — emphasizing ETF inflows, DeFi liquidity and network fundamentals."
+categories: ["crypto"]
 ---
 
 **Mynt**, the crypto platform of **BTG Pactual** (Brazil’s largest investment bank), highlighted five tokens it sees well-positioned for October (**“Uptober”**): **bitcoin (BTC)**, **ether (ETH)**, **solana (SOL)**, **avalanche (AVAX)** and **sky (SKY)**. The list comes from analysts **Matheus Parizotto** and **João Galhardo**, citing improving macro conditions (easing US rates) and rising expectations for new crypto ETFs.

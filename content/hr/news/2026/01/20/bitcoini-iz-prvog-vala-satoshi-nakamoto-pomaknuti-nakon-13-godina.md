@@ -15,6 +15,7 @@ image_alt: "Ilustracija Bitcoin bogatstva iz ranog razdoblja Satoshi Nakamota"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 tags: ["bitcoin", "btc", "kripto", "crypto", "satoshi nakamoto", "prvi val", "whale", "wallet", "paper wallet", "blockchain"]
 summary: "Bitcoin novčanik iz prvog vala, nastao u vrijeme Satoshi Nakamota, premjestio je oko 85 milijuna dolara u BTC-u nakon 13 godina neaktivnosti. Iako se na prvu čini kao signal moguće prodaje, povijesni i tehnički kontekst govori u prilog drugačijim objašnjenjima."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

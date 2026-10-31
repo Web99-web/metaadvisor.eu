@@ -15,6 +15,7 @@ image_alt: "Bitdeer mining Bitcoin and developing AI"
 image_credit: "Metaadvisor.eu"
 tags: ["bitdeer", "bitcoin", "ai", "rudarenje", "crypto", "mining"]
 summary: "Singapurska kompanija Bitdeer doživjela je pad vrijednosti dionica, ali širi poslovanje — uz rudarenje Bitcoina sada ulazi i u razvoj umjetne inteligencije."
+categories: ["news"]
 ---
 
 Singapurska kompanija **Bitdeer Technologies** doživjela je pad vrijednosti dionica od gotovo **20%** nakon što je objavila gubitak od **266 milijuna dolara** u trećem kvartalu 2025. godine.  

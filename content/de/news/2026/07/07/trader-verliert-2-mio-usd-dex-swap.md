@@ -7,15 +7,16 @@ translationKey: "trader-loses-2m-dex-swap-bad-route-2026-07-07"
 source: "Cointelegraph, GoPlus Security, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/MIllions-lost.png"
-featured_image: "/images/news/MIllions-lost.png"
-image: "/images/news/MIllions-lost.png"
-thumbnail: "/images/news/MIllions-lost.png"
+image_url: "/images/news/MIllions-lost.webp"
+featured_image: "/images/news/MIllions-lost.webp"
+image: "/images/news/MIllions-lost.webp"
+thumbnail: "/images/news/MIllions-lost.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["DEX-Swap", "DeFi-Risiko", "MEV", "Same-Block-Backrun", "Titan Builder", "GoPlus Security", "Uniswap v3", "0x Router", "Slippage", "Price Impact", "Crypto-Verlust"]
 summary: "Ein Trader verlor fast 2 Millionen US-Dollar, nachdem ein großer ETH-Swap durch einen Pool mit sehr geringer Liquidität geleitet wurde. Der Fall zeigt, warum Minimum Received, Slippage, Price Impact und die Swap-Route vor jeder DEX-Signatur entscheidend sind."
 disclaimer: "Dieser Artikel dient ausschließlich Informationszwecken und stellt keine Finanz-, Anlage-, Rechts- oder Sicherheitsberatung dar."
 draft: false
+categories: ["crypto"]
 ---
 
 Bild ist symbolisch.
@@ -117,7 +118,7 @@ MEV bezeichnet den zusätzlichen Wert, den Validatoren, Block Builder oder Bots 
 In der Praxis bedeutet das: Wer eine große oder schlecht konfigurierte Transaktion sieht, kann versuchen, aus Preisunterschieden, Arbitrage oder der Reihenfolge der Ausführung Profit zu ziehen.
 
 <a href="https://metaadvisor.eu/de/news/was-ist-mev-trading-defi/" target="_blank" rel="noopener">
-  <img src="/images/MEV-explained.png" alt="Was ist MEV-Trading und warum es zu einem der größten Probleme im DeFi geworden ist" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/MEV-explained.webp" alt="Was ist MEV-Trading und warum es zu einem der größten Probleme im DeFi geworden ist" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/de/news/was-ist-mev-trading-defi/" target="_blank" rel="noopener">Was ist MEV-Trading und warum es zu einem der größten Probleme im DeFi geworden ist</a>

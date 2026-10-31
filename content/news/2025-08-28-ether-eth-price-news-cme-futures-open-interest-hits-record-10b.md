@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/ether-futures-open-inte
 summary: "Institutional interest in ether is growing, with large open interest holders hitting a record of 101 early this month."
 tags: ["crypto","Ethereum","ETH","futures","CME","institutions"]
 image_url: "https://www.coindesk.com/resizer/vqUArE8U3d2b8uTGb_iuSK4mAB8=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ETHFuturesCME.jpg"
+categories: ["crypto"]
 ---
 
 The CME’s regulated ether (ETH) futures market is heating up as the ongoing rotation out of bitcoin (BTC $113,025.87) accelerates.

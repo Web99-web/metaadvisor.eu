@@ -15,6 +15,7 @@ image_alt: "Großes KI-Rechenzentrum und Energieinfrastruktur"
 image_credit: "Free stock image (Pexels/Unsplash) — symbolische Illustration"
 tags: ["ki", "rechenzentren", "new york", "kuenstliche intelligenz", "energieinfrastruktur", "regulierung", "arbeitsplaetze", "machtkonzentration", "cloud"]
 summary: "New York erwägt ein Moratorium für neue Rechenzentren und wirft damit eine Frage auf, die über Energie und Umwelt hinausgeht: Wird künstliche Intelligenz zu einer Infrastruktur im Besitz weniger, während ein Großteil der Gesellschaft seinen Platz in der Arbeitsökonomie verliert?"
+categories: ["news"]
 ---
 
 <p style="font-size:0.9em; color:#777; margin-top:4px;">

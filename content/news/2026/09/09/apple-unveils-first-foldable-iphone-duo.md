@@ -7,15 +7,16 @@ translationKey: "apple-iphone-duo-first-foldable-iphone-2026-09-09"
 source: "Apple, Samsung, Counterpoint Research, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Apple/Apple-foldable-Iphone.png"
-featured_image: "/images/Apple/Apple-foldable-Iphone.png"
-image: "/images/Apple/Apple-foldable-Iphone.png"
-thumbnail: "/images/Apple/Apple-foldable-Iphone.png"
+image_url: "/images/Apple/Apple-foldable-Iphone.webp"
+featured_image: "/images/Apple/Apple-foldable-Iphone.webp"
+image: "/images/Apple/Apple-foldable-Iphone.webp"
+thumbnail: "/images/Apple/Apple-foldable-Iphone.webp"
 image_alt: "Apple iPhone Duo, the first foldable iPhone with a large inner display"
 image_credit: "Metaadvisor.eu"
 tags: ["Apple", "iPhone Duo", "iPhone", "foldable iPhone", "foldable phones", "foldables", "smartphones", "A20 Pro", "iOS 27", "Apple Intelligence", "Siri AI", "Samsung", "Galaxy Fold", "Galaxy Z Fold", "mobile technology"]
 description: "Apple has unveiled the iPhone Duo, its first foldable iPhone with a 7.6-inch inner display, A20 Pro chip, iOS 27 and a starting price of $1,999."
 summary: "Apple is entering the foldable smartphone market with the iPhone Duo, a device that opens into a 7.6-inch display. Foldables accounted for just 1.6% of global smartphone shipments in 2025, raising the question of whether Apple can finally push the category toward the mainstream."
+categories: ["Tech"]
 ---
 
 *The image is symbolic.*

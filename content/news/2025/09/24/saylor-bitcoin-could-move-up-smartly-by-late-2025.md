@@ -29,6 +29,7 @@ tags:
   - liquidity
   - adoption
 summary: "Michael Saylor argues that by late 2025, ETF inflows, corporate treasuries and post-halving scarcity could set the stage for a renewed, “smart” BTC uptrend."
+categories: ["crypto"]
 ---
 
 **TL;DR:** **Michael Saylor** (MicroStrategy) outlines a case for a **late-2025** **renewed advance** in BTC — driven by **spot-ETF inflows**, **corporate balance-sheet allocations**, and **thinner new supply** after the halving. The premise: **structural buying** eclipses **cyclical drawdowns**.

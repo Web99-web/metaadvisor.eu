@@ -7,14 +7,15 @@ translationKey: "terra_luna_povijest_kolaps_06122025"
 source: "CoinDesk — proširena analiza MetaAdvisor"
 source_url: "https://www.coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Terra-luna1.png"
-featured_image: "/images/Terra-luna1.png"
-image: "/images/Terra-luna1.png"
-thumbnail: "/images/Terra-luna1.png"
+image_url: "/images/Terra-luna1.webp"
+featured_image: "/images/Terra-luna1.webp"
+image: "/images/Terra-luna1.webp"
+thumbnail: "/images/Terra-luna1.webp"
 image_alt: "Terra Luna dramatična ilustracija"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["terra", "luna", "ust", "kripto kolaps", "algoritamski stablecoin", "blockchain", "do kwon", "kripto povijest", "bitcoin", "stablecoini", "defi"]
 summary: "Terra-Luna bila je jedan od najvećih blockchain projekata na svijetu — sve dok se 2022. nije urušila u najbrži i najdramatičniji kolaps u povijesti kripta. Ovo je priča o usponu, padu i posljedicama koje osjećamo i danas."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

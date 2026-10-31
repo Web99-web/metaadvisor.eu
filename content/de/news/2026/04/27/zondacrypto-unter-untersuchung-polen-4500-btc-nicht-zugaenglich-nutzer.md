@@ -3,7 +3,7 @@ title: "Zondacrypto unter Untersuchung in Polen: 4.500 BTC nicht zugänglich, Hu
 slug: "zondacrypto-unter-untersuchung-polen-4500-btc-nicht-zugaenglich-nutzer"
 date: 2026-04-27T12:00:00+02:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-04-27"
 source: "Metaadvisor (Cointelegraph, Onet, Notes from Poland)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
@@ -15,6 +15,7 @@ image_alt: "Untersuchung der Krypto-Börse Zondacrypto in Polen"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "krypto", "boersen", "exchange", "zondacrypto", "polen", "untersuchung", "sicherheit", "wallet", "regulierung"]
 summary: "Polnische Behörden haben eine Untersuchung gegen die Krypto-Börse Zondacrypto eingeleitet, nachdem der Zugriff auf einen Cold Wallet mit rund 4.500 BTC verloren gegangen ist und Hunderte Nutzer betroffen sein könnten."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

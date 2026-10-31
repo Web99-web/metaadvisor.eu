@@ -7,14 +7,15 @@ translationKey: "7d1f4b29c84a5f0e3a91cb728de51f22"
 source: "Metaadvisor (CoinDesk, The Verge, TechRadar, Yahoo Finance, New York Magazine)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Trump-T1-phone-Mobile.png"
-featured_image: "/images/companies/Trump-T1-phone-Mobile.png"
-image: "/images/companies/Trump-T1-phone-Mobile.png"
-thumbnail: "/images/companies/Trump-T1-phone-Mobile.png"
+image_url: "/images/companies/Trump-T1-phone-Mobile.webp"
+featured_image: "/images/companies/Trump-T1-phone-Mobile.webp"
+image: "/images/companies/Trump-T1-phone-Mobile.webp"
+thumbnail: "/images/companies/Trump-T1-phone-Mobile.webp"
 image_alt: "TRUMP coin i T1 Phone"
 image_credit: "Metaadvisor.eu"
 tags: ["trump", "trump coin", "trump mobile", "t1 phone", "bitcoin", "btc", "crypto", "kripto", "memecoin", "telefon", "smartphone", "mobile", "politika", "usa", "blockchain", "dogecoin", "shiba inu", "pepe"]
 summary: "Trump Mobile uskoro bi trebao krenuti s isporukom zlatnog T1 Phone uređaja, dok se istovremeno ponovno počinje spominjati i TRUMP coin. Dio tržišta sada se pita pokušava li se oko Trump brenda polako graditi širi digitalni ecosystem."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Slika je simbolična.</em></p>

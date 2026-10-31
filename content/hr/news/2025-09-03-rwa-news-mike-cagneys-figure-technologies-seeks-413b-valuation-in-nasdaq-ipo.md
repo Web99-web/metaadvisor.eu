@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/mike-cagney-s-figure-te
 summary: "Figure Technologies planira prikupiti do 526 milijuna USD kroz IPO, uz procijenjenu valuaciju veću od 4 mlrd. USD."
 tags: ["RWA", "FIGR", "IPO", "Nasdaq", "blockchain", "stablecoin", "crypto"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
+categories: ["news"]
 ---
 
 **Figure Technologies**, blockchain zajmodavac kojeg je osnovao Mike Cagney (suosnivač SoFi-ja), cilja valuaciju do **4,13 milijardi USD** u svom nadolazećem **inicijalnom javnom ponudom (IPO)**, prema novim prijavama američkoj Komisiji za vrijednosne papire (SEC).

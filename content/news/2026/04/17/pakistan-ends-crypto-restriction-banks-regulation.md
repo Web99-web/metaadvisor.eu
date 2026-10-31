@@ -15,6 +15,7 @@ image_alt: "Bitcoin and crypto regulation in Pakistan"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "pakistan", "regulation", "banks", "crypto adoption", "blockchain", "finance"]
 summary: "Pakistan ends a seven-year crypto restriction, allowing banks to work with licensed crypto firms under a strict regulatory framework."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

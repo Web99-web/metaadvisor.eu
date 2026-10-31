@@ -7,14 +7,15 @@ translationKey: "b9f1c8a7e3d44a6f92b5c1d8e7f3a901"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (poslovni portali, tržišni izvori)"
 source_url: ""
-image_url: "/images/news/Oracle-fired-20000.png"
-featured_image: "/images/news/Oracle-fired-20000.png"
-image: "/images/news/Oracle-fired-20000.png"
-thumbnail: "/images/news/Oracle-fired-20000.png"
+image_url: "/images/news/Oracle-fired-20000.webp"
+featured_image: "/images/news/Oracle-fired-20000.webp"
+image: "/images/news/Oracle-fired-20000.webp"
+thumbnail: "/images/news/Oracle-fired-20000.webp"
 image_alt: "Masovni otkazi u Oracleu putem emaila u 6 ujutro"
 image_credit: "MetaAdvisor.eu"
 tags: ["oracle", "otkazi", "ai", "umjetna inteligencija", "tehnologija", "layoffs", "posao", "kriza", "big tech", "cloud"]
 summary: "Deseci tisuća zaposlenika Oraclea navodno su izgubili posao jednim emailom poslanim u 6 ujutro. Ovaj potez otvara pitanja o stvarnoj cijeni AI utrke i novoj realnosti tržišta rada."
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

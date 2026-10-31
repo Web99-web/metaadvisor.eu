@@ -9,6 +9,7 @@ summary: "The token slipped from $3.02 to $2.89 on Aug. 28–29 with above-avera
 tags: ["xrp", "crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/xrp-bullish-patterns-2025.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/xrp-bullish-patterns-2025.jpg?auto=format&width=1200"
+categories: ["news"]
 ---
 
 XRP drew analyst attention after sliding from **$3.02 to $2.89** between Aug. 28–29 on heightened volumes, before stabilizing around the **$2.83–$2.89 support zone**. Oversold conditions and whale accumulation helped relieve the selling pressure.  

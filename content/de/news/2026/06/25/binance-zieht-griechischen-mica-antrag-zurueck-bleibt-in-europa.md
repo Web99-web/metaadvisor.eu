@@ -7,14 +7,15 @@ translationKey: "binance-povukao-grcku-mica-prijavu-ostaje-u-europi-2026-06-25"
 source: "CoinDesk, Reuters, Binance, ESMA, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Binance-regulatory.png"
-featured_image: "/images/Binance-regulatory.png"
-image: "/images/Binance-regulatory.png"
-thumbnail: "/images/Binance-regulatory.png"
+image_url: "/images/Binance-regulatory.webp"
+featured_image: "/images/Binance-regulatory.webp"
+image: "/images/Binance-regulatory.webp"
+thumbnail: "/images/Binance-regulatory.webp"
 image_alt: "Binance regulatory briefing with microphones, documents and crypto market symbolism"
 image_credit: "Metaadvisor.eu"
 tags: ["Binance", "MiCA", "EU-Regulierung", "Krypto-Regulierung", "Griechenland", "Europäische Union", "Kryptobörsen", "Kryptowerte", "ESMA", "Compliance", "Lizenzierung", "Crypto Exchange", "Regulierungsbehörden", "digitale Vermögenswerte", "Metaadvisor"]
 summary: "Binance hat seinen Antrag auf eine MiCA-Lizenz in Griechenland zurückgezogen, betont aber, Europa nicht zu verlassen. Der Fall zeigt, wie wichtig MiCA als Eintrittsfilter für den europäischen Kryptomarkt wird — und wie anspruchsvoll der Prozess selbst für große globale Akteure sein kann."
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

@@ -15,6 +15,7 @@ image_alt: "Bitcoin tržište između straha i akumulacije"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["bitcoin", "btc", "kripto", "retail investitori", "opcije", "call opcije", "tržišni sentiment", "bull run", "institucionalni kapital", "volatilnost", "kripto analiza"]
 summary: "Bitcoin šalje mješovite signale: mali investitori akumuliraju, dok tržište opcija pokazuje oprez. Nalazi li se tržište u tihoj fazi pripreme za novi ciklus ili pred novom korekcijom?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

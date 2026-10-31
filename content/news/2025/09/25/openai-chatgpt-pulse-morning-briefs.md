@@ -31,6 +31,7 @@ tags:
   - oracle
   - softbank
 summary: "ChatGPT Pulse delivers 5–10 personalized morning briefs prepared overnight. Rolling out to Pro users ($200/mo) first, with broader access tied to capacity and reliability."
+categories: ["ai"]
 ---
 
 **TL;DR:** **Pulse** shifts ChatGPT from **reactive Q&A** to a **proactive assistant**. Every morning, users get **5–10 curated briefs** — news, priorities, and tasks — without prompting.

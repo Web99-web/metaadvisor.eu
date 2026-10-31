@@ -15,6 +15,7 @@ image_alt: "Bitcoin fällt — symbolische Illustration"
 image_credit: "Bild ist symbolisch."
 tags: ["bitcoin","btc","krypto","rsi","technische-analyse","handel","volatilitaet"]
 summary: "Trotz bullischer RSI-Signale deuten Chartstrukturen darauf hin, dass Bitcoin die $95.000-Marke erneut testen könnte."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

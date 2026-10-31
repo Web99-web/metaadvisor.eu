@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/29/bitcoin-headed-to-usd19
 summary: "Tiger Research procjenjuje baznu cijenu od 135.000 USD, uz multiplikatore temeljenih faktora (+3,5%) i makro uvjeta (+35%), što daje prognozu od 190.000 USD."
 tags: ["bitcoin","crypto","ETF","institucionalni","prognoze"]
 image_url: "https://www.coindesk.com/resizer/abC123xyZ190BTCinsWave=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/bitcoin-190k.jpg"
+categories: ["crypto"]
 ---
 
 Azijsko orijentirana istraživačka kuća **Tiger Research** postavila je cilj od **190.000 USD** za bitcoin u trećem kvartalu 2025., navodeći rekordnu globalnu likvidnost, strukturnu ETF potražnju i otvaranje pristupa kriptu kroz **401(k) mirovinske planove**.

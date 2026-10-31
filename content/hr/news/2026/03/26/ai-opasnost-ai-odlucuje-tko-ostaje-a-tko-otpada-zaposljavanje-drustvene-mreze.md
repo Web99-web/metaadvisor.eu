@@ -7,14 +7,15 @@ translationKey: "ai-human-filtering-decision-26032026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/AI-judgment.png"
-featured_image: "/images/AI-judgment.png"
-image: "/images/AI-judgment.png"
-thumbnail: "/images/AI-judgment.png"
+image_url: "/images/AI-judgment.webp"
+featured_image: "/images/AI-judgment.webp"
+image: "/images/AI-judgment.webp"
+thumbnail: "/images/AI-judgment.webp"
 image_alt: "AI odlučuje tko prolazi, a tko otpada"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "zapošljavanje", "facebook", "ai moderacija", "algoritmi", "opasnost"]
 summary: "AI više ne pomaže samo u odlukama — on odlučuje tko prolazi, a tko otpada. Od zapošljavanja do Facebooka, sustavi standardiziraju ljude i eliminiraju one koji ne odgovaraju obrascu."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

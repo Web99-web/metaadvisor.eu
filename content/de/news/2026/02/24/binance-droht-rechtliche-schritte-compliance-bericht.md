@@ -8,14 +8,15 @@ source: "CoinDesk / Cointelegraph"
 source_url: "https://www.coindesk.com/ ; https://cointelegraph.com/"
 author: "CoinDesk / Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Binance-regulatory.png"
-featured_image: "/images/Binance-regulatory.png"
-image: "/images/Binance-regulatory.png"
-thumbnail: "/images/Binance-regulatory.png"
+image_url: "/images/Binance-regulatory.webp"
+featured_image: "/images/Binance-regulatory.webp"
+image: "/images/Binance-regulatory.webp"
+thumbnail: "/images/Binance-regulatory.webp"
 image_alt: "Binance Regulatory Spotlight Illustration"
 image_credit: "MetaAdvisor.eu (symbolisches Bild)"
 tags: ["binance", "compliance", "regulierung", "krypto", "kryptobörse", "aml", "kyc", "doj", "regulatory spotlight"]
 summary: "Binance kündigt mögliche rechtliche Schritte nach Medienberichten an, die interne Compliance-Prozesse der Börse infrage stellen. Der Fall wirft breitere Fragen zu Regulierung, Transparenz und Reputationsrisiken auf."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

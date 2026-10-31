@@ -7,14 +7,15 @@ translationKey: "guardian-leave-big-tech-alternatives-2026"
 author: "Metaadvisor.eu"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
-image_url: "/images/Guardian-suggest-leave-big-tech.png"
-featured_image: "/images/Guardian-suggest-leave-big-tech.png"
-image: "/images/Guardian-suggest-leave-big-tech.png"
-thumbnail: "/images/Guardian-suggest-leave-big-tech.png"
+image_url: "/images/Guardian-suggest-leave-big-tech.webp"
+featured_image: "/images/Guardian-suggest-leave-big-tech.webp"
+image: "/images/Guardian-suggest-leave-big-tech.webp"
+thumbnail: "/images/Guardian-suggest-leave-big-tech.webp"
 image_alt: "Alternatives to Big Tech platforms"
 image_credit: "Metaadvisor.eu (simbolična ilustracija)"
 tags: ["big tech", "google alternative", "nas uređaj", "nextcloud", "proton mail", "mastodon", "perplexity", "brave search", "digitalni suverenitet", "gdpr", "cloud alternative", "eu tehnologija"]
 summary: "Guardian analizira mogućnost napuštanja Googlea, Amazona i Mete. Donosimo pregled alternativa, uključujući NAS uređaje, Nextcloud i europske cloud opcije te analiziramo digitalni suverenitet Europe."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

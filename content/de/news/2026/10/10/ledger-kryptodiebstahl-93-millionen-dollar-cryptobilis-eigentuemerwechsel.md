@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Ledger", "CryptoBilis", "Kryptodiebstahl", "Kryptowährungen", "Hardware-Wallet", "Blockchain", "Bitcoin", "Ethereum", "Lieferkettenangriff", "Cybersicherheit"]
 description: "Ledger untersucht Kryptoverluste von geschätzt 92,9 Millionen Dollar. Der Händler CryptoBilis wechselte zuvor den Besitzer, während die öffentliche Bekanntgabe der Übernahme vertraglich verschoben wurde."
 summary: "Ledger untersucht den möglichen Diebstahl von fast 93 Millionen Dollar aus Hardware-Wallets, die über CryptoBilis verkauft wurden. Der Händler wechselte 2026 den Besitzer. Die früheren Gründer erklären, dass eine Vertraulichkeitsvereinbarung die öffentliche Bekanntgabe der Übernahme bis Mitte Oktober verzögerte. Auch mögliche Manipulationen der Geräte stehen im Raum."
+categories: ["crypto"]
 ---
 
 *Symbolbild.*

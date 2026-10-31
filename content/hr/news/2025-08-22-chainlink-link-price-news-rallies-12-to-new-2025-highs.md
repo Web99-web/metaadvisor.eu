@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/chainlink-s-link-rallie
 summary: "Izvorni token oracle mreže probio je razine otpora, dosegnuvši najvišu cijenu od prosinca."
 tags: ["ai", "link", "chainlink", "crypto"]
 image: "/news/2025-08-22-chainlink-link-price-news-rallies-12-to-new-2025-highs.png"
+categories: ["ai"]
 ---
 
 Izvorni token oracle mreže **Chainlink (LINK)** snažno je skočio zajedno s općim kripto tržištem nakon pomirljivih (dovish) komentara predsjednika Federalnih rezervi Jeromea Powella u Jackson Holeu, Wyoming.  

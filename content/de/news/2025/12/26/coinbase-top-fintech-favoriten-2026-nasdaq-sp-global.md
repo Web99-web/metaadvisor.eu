@@ -16,6 +16,7 @@ image_alt: "Coinbase neben Nasdaq und S&P Global als Top-Fintech-Auswahl für 20
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto","bitcoin","btc","coinbase","fintech","nasdaq","sp500","stablecoin","usdc","blockchain","krypto"]
 summary: "Wall Street betrachtet Coinbase zunehmend als grundlegende Finanzinfrastruktur und nicht mehr nur als Kryptobörse. Für 2026 wird das Unternehmen neben Nasdaq und S&P Global zu den wichtigsten Fintech-Säulen gezählt."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

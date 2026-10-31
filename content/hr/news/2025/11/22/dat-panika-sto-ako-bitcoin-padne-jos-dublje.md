@@ -8,14 +8,15 @@ source: "MetaAdvisor – analitički sadržaj"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/DATdown.png"
-featured_image: "/images/DATdown.png"
-image: "/images/DATdown.png"
-thumbnail: "/images/DATdown.png"
+image_url: "/images/DATdown.webp"
+featured_image: "/images/DATdown.webp"
+image: "/images/DATdown.webp"
+thumbnail: "/images/DATdown.webp"
 image_alt: "Digital Asset Treasury panika – ilustracija"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "institucionalni investitori", "digital asset treasury", "microstrategy", "analiza", "tržište", "dat modeli", "btc pad", "btcfi"]
 summary: "Institucionalni modeli temeljeni na držanju Bitcoina ulaze u ozbiljan stres-test. Što se događa s DAT kompanijama ako BTC padne još niže?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

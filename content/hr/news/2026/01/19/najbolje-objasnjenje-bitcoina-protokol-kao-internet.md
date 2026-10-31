@@ -7,14 +7,15 @@ translationKey: "best_bitcoin_explanation_protocol_20260119"
 source: "Saslušanje u američkom Kongresu / Coin Center"
 source_url: "https://www.coincenter.org/"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-explanation.png"
-featured_image: "/images/BTC-explanation.png"
-image: "/images/BTC-explanation.png"
-thumbnail: "/images/BTC-explanation.png"
+image_url: "/images/BTC-explanation.webp"
+featured_image: "/images/BTC-explanation.webp"
+image: "/images/BTC-explanation.webp"
+thumbnail: "/images/BTC-explanation.webp"
 image_alt: "Bitcoin objašnjen kao protokol, a ne kao tvrtka ili proizvod"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Jedna rečenica, izgovorena tijekom saslušanja u američkom Kongresu, promijenila je način na koji regulatori, novinari i javnost razumiju Bitcoin — ne kao tvrtku ili proizvod, već kao neutralni protokol, sličan internetu."
 tags: ["bitcoin","btc","crypto","najbolje objasnjenje bitcoina","sto je bitcoin","bitcoin objasnjen","bitcoin protokol","bitcoin nije tvrtka","bitcoin nije proizvod","bitcoin bez ceo-a","regulacija bitcoina","regulacija kripta","monetarni sustav","decentralizirani novac","internet protokol"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

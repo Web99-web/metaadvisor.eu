@@ -35,6 +35,7 @@ tags:
   - matrix
   - crypto-guide
 summary: "A practical workflow for using Google Gemini to vet coins before investing — with copy/paste prompts, data sources, on-chain/fundamental checklists and red flags."
+categories: ["news"]
 ---
 
 **Gemini** can speed up **crypto due diligence** — provided you demand **verifiable sources**, keep a **critical filter**, and **cross-check** its outputs with **primary data** (CoinGecko, DeFiLlama, Token Terminal, GitHub, etc.). Below is a **step-by-step** workflow with ready-to-use **prompts**.

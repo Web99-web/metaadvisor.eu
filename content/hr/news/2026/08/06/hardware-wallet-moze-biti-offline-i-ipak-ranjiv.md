@@ -7,15 +7,16 @@ translationKey: "hardware-wallet-offline-ipak-ranjiv-2026-08-06"
 source: "Javno dostupna dokumentacija proizvođača hardverskih novčanika i sigurnosna upozorenja"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Hardware-wallet-risks.png"
-featured_image: "/images/informative/Hardware-wallet-risks.png"
-image: "/images/informative/Hardware-wallet-risks.png"
-thumbnail: "/images/informative/Hardware-wallet-risks.png"
+image_url: "/images/informative/Hardware-wallet-risks.webp"
+featured_image: "/images/informative/Hardware-wallet-risks.webp"
+image: "/images/informative/Hardware-wallet-risks.webp"
+thumbnail: "/images/informative/Hardware-wallet-risks.webp"
 image_alt: "Hardware wallet može ostati offline, ali ipak biti ranjiv zbog slabog seeda, firmwarea ili ljudske pogreške"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["hardware wallet", "kripto sigurnost", "offline wallet", "air-gapped wallet", "seed fraza", "privatni ključ", "firmware", "self-custody", "passphrase", "PIN", "multisig", "phishing", "kripto novčanik", "sigurnosna kopija", "upravljanje rizikom"]
 description: "Hardware wallet može značajno smanjiti rizik udaljenog napada, ali offline i air-gapped način rada ne štite od slabog seeda, ranjivog firmwarea i ljudske pogreške."
 summary: "Privatni ključ može ostati potpuno offline, a sredstva ipak biti ugrožena. Sigurnost hardverskog novčanika ovisi o generiranju seeda, firmwareu, provjeri transakcija, zaštiti sigurnosne kopije i ponašanju korisnika."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

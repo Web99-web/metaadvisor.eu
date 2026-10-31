@@ -8,14 +8,15 @@ source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/us-news/ng-interactive/2025/nov/09/healthcare-artificial-intelligence-ai"
 author: "Eric Reinhart | The Guardian Tech"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/doktor-ai-hr.png"
-featured_image: "/images/doktor-ai-hr.png"
-image: "/images/doktor-ai-hr.png"
-thumbnail: "/images/doktor-ai-hr.png"
+image_url: "/images/doktor-ai-hr.webp"
+featured_image: "/images/doktor-ai-hr.webp"
+image: "/images/doktor-ai-hr.webp"
+thumbnail: "/images/doktor-ai-hr.webp"
 image_alt: "Liječnik promatra zaslon s prikazom umjetne inteligencije"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "healthcare", "algorithms", "medicine", "technology", "ethics", "zdravstvo"]
 summary: "AI sve češće preuzima ulogu liječničkog pisara, ali što gubimo kad empatiju, ton glasa i pažnju prepustimo algoritmima?"
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

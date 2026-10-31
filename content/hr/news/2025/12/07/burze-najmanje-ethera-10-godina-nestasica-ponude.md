@@ -16,6 +16,7 @@ image_alt: "Ether supply squeeze — rekordno niska ponuda na burzama"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ethereum","eth","ether","supply","staking","restaking","layer2","dat","treasury","crypto","kriptovalute","glassnode","bullish","analiza"]
 summary: "Količina Ethera na burzama pala je na najnižu razinu od 2015., dok se sve više ETH-a zaključava u staking, Layer-2 i dugoročnu pohranu — stvarajući najtvrđe okruženje ponude do sada."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

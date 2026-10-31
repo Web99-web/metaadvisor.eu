@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/tech/2025/08/29/ethereum-foundation-target
 summary: "The initiative marks a strategic pivot: after years spent scaling throughput and lowering costs, the protocol team is now zeroing in on interoperability as the key to user experience."
 tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/ab9ea8c9d8346f05438e6f0a8739ddc6e4639afa-1920x1242.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 The Ethereum Foundation shared a new blog post on Friday detailing a major initiative aimed at breaking down the barriers between Ethereum’s growing constellation of Layer-2 networks. The initiative marks a strategic pivot: after years spent scaling throughput and lowering costs, the protocol team is now zeroing in on interoperability as the key to user experience.

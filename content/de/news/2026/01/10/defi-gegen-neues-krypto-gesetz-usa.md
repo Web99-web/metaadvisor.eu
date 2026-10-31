@@ -7,10 +7,10 @@ translationKey: "39ce36720e0911f64bbdf6ab1c4b8352"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2026/01/09/crypto-crowd-could-still-walk-away-from-u-s-market-structure-bill-if-defi-needs-unmet"
 author: "MetaAdvisor.eu"
-image_url: "/images/DeFi-vs-crypto-regulations.png"
-featured_image: "/images/DeFi-vs-crypto-regulations.png"
-image: "/images/DeFi-vs-crypto-regulations.png"
-thumbnail: "/images/DeFi-vs-crypto-regulations.png"
+image_url: "/images/DeFi-vs-crypto-regulations.webp"
+featured_image: "/images/DeFi-vs-crypto-regulations.webp"
+image: "/images/DeFi-vs-crypto-regulations.webp"
+thumbnail: "/images/DeFi-vs-crypto-regulations.webp"
 image_alt: "Konflikt zwischen DeFi-Sektor und neuen Krypto-Regulierungen in den USA"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - blockchain
   - politik
 summary: "Ein Teil der Krypto-Branche warnt davor, die Unterstützung für ein neues US-Gesetz zur Marktstruktur zurückzuziehen, falls die besonderen Anforderungen des DeFi-Sektors nicht berücksichtigt werden. Die Debatte zeigt, wie schwierig es ist, dezentrale Finanzmodelle sinnvoll zu regulieren."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

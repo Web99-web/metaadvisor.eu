@@ -15,6 +15,7 @@ image_alt: "Market Focus 04.06.2026 Bitcoin Ether Dow Nasdaq Broadcom"
 image_credit: "MetaAdvisor.eu"
 tags: ["Market Focus", "Bitcoin", "BTC", "Ethereum", "ETH", "Dow Jones", "Nasdaq", "S&P 500", "Broadcom", "AI-Aktien", "Wall Street", "Kryptowährungen", "Märkte", "Gold", "Öl", "Kapitalrotation", "Metaadvisor"]
 summary: "Der heutige Markt war geprägt von Druck auf Bitcoin und Ether, einem starken Rückgang bei Broadcom und einem gemischten Bild an der Wall Street. Der Dow zeigte Stärke und erreichte Rekordniveau, während der Nasdaq wegen Schwäche im AI- und Chipsektor belastet wurde."
+categories: ["märkte"]
 ---
 
 <small><em>Das Bild ist symbolisch.</em></small>

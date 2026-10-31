@@ -13,8 +13,9 @@ image: "/images/trump-coin1.jpg"
 thumbnail: "/images/trump-coin1.jpg"
 image_alt: "$TRUMP-Memecoin und der starke Wertverlust nach dem anfänglichen Marktanstieg"
 image_credit: "Metaadvisor.eu"
-tags: ["Trump-Memecoin", "$TRUMP-Token", "98 Prozent Kursverlust", "Anlegerverluste", "Nansen-Analyse", "Memecoin-Hype", "Crypto-Rückgang", "Bitcoin-Drawdown", "Ethereum-Rückgang", "Solana-ATH", "Cardano-Rückgang", "Kleinanleger im Crypto-Markt", "Memecoin-Risiko"]
+tags: ["Trump-Memecoin", "trump-token", "98 Prozent Kursverlust", "Anlegerverluste", "Nansen-Analyse", "Memecoin-Hype", "Crypto-Rückgang", "Bitcoin-Drawdown", "Ethereum-Rückgang", "Solana-ATH", "Cardano-Rückgang", "Kleinanleger im Crypto-Markt", "Memecoin-Risiko"]
 summary: "Der Trump-Memecoin $TRUMP ist seit seinem Höchststand um fast 98 Prozent gefallen. Laut einer Nansen-Analyse haben Anleger rund 3,8 Milliarden Dollar verloren. Doch das größere Bild zeigt: Nicht nur $TRUMP ist gefallen. Auch Bitcoin, Ethereum, Solana und Cardano liegen weit unter früheren Höchstständen."
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

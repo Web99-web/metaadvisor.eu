@@ -3,7 +3,7 @@ title: "Das ist heute in Krypto passiert"
 slug: "was-heute-in-krypto-passiert"
 date: 2025-09-20T12:56:25Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-09-20"
 source: "Mehrere Quellen (siehe unten)"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
@@ -15,6 +15,7 @@ image_alt: "Bitcoin und Finanzmärkte (symbolische Illustration)"
 image_credit: "MetaAdvisor (symbolisch)"
 tags: ["Krypto", "Märkte", "Regulierung", "Stablecoins", "ETF", "Ethereum", "FTX", "BitGo"]
 summary: "BitGo peilt einen IPO an, das US-Finanzministerium startet den GENIUS-Act-Kommentarprozess (Stablecoins), Ethereum plant „Fusaka“ für Dezember, die SEC erleichtert Krypto-ETF-Listings, FTX bereitet eine neue Ausschüttung vor – die Märkte bleiben nach dem Fed-Zinsschritt vorsichtig."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

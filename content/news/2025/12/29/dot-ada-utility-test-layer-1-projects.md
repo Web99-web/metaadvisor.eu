@@ -7,10 +7,10 @@ translationKey: "dot_ada_utility_test_29122025"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/DOT-ADA.png"
-featured_image: "/images/DOT-ADA.png"
-image: "/images/DOT-ADA.png"
-thumbnail: "/images/DOT-ADA.png"
+image_url: "/images/DOT-ADA.webp"
+featured_image: "/images/DOT-ADA.webp"
+image: "/images/DOT-ADA.webp"
+thumbnail: "/images/DOT-ADA.webp"
 image_alt: "Polkadot DOT and Cardano ADA — testing real-world utility of Layer-1 projects"
 image_credit: "MetaAdvisor / Illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - blockchain projects
   - real utility
 summary: "Polkadot and Cardano closed out 2025 with mixed price action as investors increasingly question whether long-standing Layer-1 projects can justify their valuations through real-world usage."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

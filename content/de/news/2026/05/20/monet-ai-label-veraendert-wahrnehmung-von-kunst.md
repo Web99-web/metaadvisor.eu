@@ -15,6 +15,7 @@ image_alt: "Claude Monet Water Lilies, ein Bild zur Diskussion über AI-Wahrnehm
 image_credit: "Claude Monet / gigi4791, Louvre, Wikimedia Commons, CC BY 2.0"
 tags: ["ai", "künstliche intelligenz", "generative kunst", "ai-kunst", "monet", "claude monet", "water lilies", "seerosen", "shl0ms", "virales experiment", "soziale medien", "x", "wahrnehmung", "bias", "voreingenommenheit", "ai slop", "kunst", "digitale kunst", "authentizität", "openai", "generative ai", "kultur", "technologie"]
 summary: "Ein virales Experiment, bei dem ein echtes Monet-Gemälde als AI-generiert präsentiert wurde, zeigte, wie stark ein Label unsere Wahrnehmung von Kunst verändern kann. Sobald Menschen glaubten, AI zu sehen, begannen viele, Schwächen zu erkennen, die sie vielleicht nicht gesehen hätten, wenn sie gewusst hätten, dass sie Monet betrachten."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

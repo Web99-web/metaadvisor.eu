@@ -7,10 +7,10 @@ translationKey: "address_poisoning_50m_loss_20122025"
 source: "Cointelegraph, CoinDesk"
 source_url: "cointelegraph.com, coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Lost-50-mil-usd.png"
-featured_image: "/images/Lost-50-mil-usd.png"
-image: "/images/Lost-50-mil-usd.png"
-thumbnail: "/images/Lost-50-mil-usd.png"
+image_url: "/images/Lost-50-mil-usd.webp"
+featured_image: "/images/Lost-50-mil-usd.webp"
+image: "/images/Lost-50-mil-usd.webp"
+thumbnail: "/images/Lost-50-mil-usd.webp"
 image_alt: "Address poisoning prevara i gubitak 50 milijuna dolara nakon kopiranja kripto adrese"
 image_credit: "MetaAdvisor illustration"
 tags:
@@ -26,6 +26,7 @@ tags:
   - tornado cash
   - cyber kriminal
 summary: "Jedna pogrešno kopirana kripto adresa bila je dovoljna da nestane gotovo 50 milijuna USDT-a. Ovaj slučaj pokazuje kako address poisoning napadi iskorištavaju ljudske navike, a ne slabosti blockchaina."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Market Focus", "global markets", "Wall Street", "S&P 500", "Nasdaq", "Dow Jones", "Brent", "oil", "gold", "silver", "bonds", "Bitcoin", "Ethereum", "Solana", "XRP", "HYPE", "crypto", "Japan", "Hong Kong", "Europe", "inflation", "interest rates"]
 description: "Oil is nearing $95, global bond yields are rising, gold and silver are falling sharply, while Bitcoin, Ethereum, Solana, XRP and HYPE try to stabilize after another risk-off move."
 summary: "September starts with an unusual market split: energy is surging, bonds are selling off, tech stocks are weakening, gold and silver are falling, while crypto is trying to defend key support zones."
+categories: ["Markets"]
 ---
 
 # Market Focus: Oil nears $95, metals fall, crypto tries to rebound

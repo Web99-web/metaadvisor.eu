@@ -7,15 +7,16 @@ translationKey: "9f1c2a74e5d84f1ba671c93a6ef02d44"
 source: "Metaadvisor (xAI GitHub, X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/X-published-algorithm-on-Github.png"
-featured_image: "/images/news/X-published-algorithm-on-Github.png"
-image: "/images/news/X-published-algorithm-on-Github.png"
-thumbnail: "/images/news/X-published-algorithm-on-Github.png"
+image_url: "/images/news/X-published-algorithm-on-Github.webp"
+featured_image: "/images/news/X-published-algorithm-on-Github.webp"
+image: "/images/news/X-published-algorithm-on-Github.webp"
+thumbnail: "/images/news/X-published-algorithm-on-Github.webp"
 image_alt: "X KI-Algorithmus auf GitHub veröffentlicht"
 image_credit: "Metaadvisor.eu"
 tags: ["x", "xai", "grok", "github", "künstliche intelligenz", "ki", "algorithmus", "soziale medien", "moderation", "sichtbarkeit", "inhaltskontrolle", "internet", "ki moderation", "open source"]
 summary: "Veröffentlichte Teile des X/xAI-Recommendation-Systems auf GitHub zeigen, wie moderne soziale Netzwerke zu KI-vermittelten Systemen geworden sind, die Inhalte, Audio, Vertrauensprofile und Sichtbarkeit analysieren."
 draft: false
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.7;">

@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/kraken-500m-raise-15b-valuation-ipo-speculation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/kraken.png"
-featured_image: "/images/kraken.png"
-image: "/images/kraken.png"
-thumbnail: "/images/kraken.png"
+image_url: "/images/kraken.webp"
+featured_image: "/images/kraken.webp"
+image: "/images/kraken.webp"
+thumbnail: "/images/kraken.webp"
 image_alt: "Kraken – simbolična grafika"
 image_credit: "Metaadvisor.eu (generirana grafika)"
 tags:
@@ -23,6 +23,7 @@ tags:
   - venture-capital
   - sec
 summary: "Kraken je osigurao 500M $ svježeg kapitala uz valuaciju od 15B $, dok tržište špekulira o mogućem izlasku na burzu."
+categories: ["news"]
 ---
 
 Kraken, jedna od najvećih svjetskih kripto burzi, prikupila je **500 milijuna dolara** u novoj investicijskoj rundi, čime je njezina procijenjena vrijednost skočila na **15 milijardi dolara**, izvijestio je Cointelegraph. Vijest dolazi u trenutku kada se ponovno zahuktavaju glasine o mogućem **IPO-u (inicijalnoj javnoj ponudi dionica)**.

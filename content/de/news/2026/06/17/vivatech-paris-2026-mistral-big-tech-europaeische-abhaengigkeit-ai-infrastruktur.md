@@ -7,14 +7,15 @@ translationKey: "vivatech-paris-2026-mistral-big-tech-europska-ovisnost-ai-infra
 source: "Reuters, VivaTech, LVMH, Vogue, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/VivaTech-Paris-2026.png"
-featured_image: "/images/news/VivaTech-Paris-2026.png"
-image: "/images/news/VivaTech-Paris-2026.png"
-thumbnail: "/images/news/VivaTech-Paris-2026.png"
+image_url: "/images/news/VivaTech-Paris-2026.webp"
+featured_image: "/images/news/VivaTech-Paris-2026.webp"
+image: "/images/news/VivaTech-Paris-2026.webp"
+thumbnail: "/images/news/VivaTech-Paris-2026.webp"
 image_alt: "VivaTech Paris 2026 und die europäische Debatte über AI-Infrastruktur"
 image_credit: "Metaadvisor.eu"
 tags: ["VivaTech", "VivaTech Paris 2026", "Mistral AI", "Big Tech", "AI-Infrastruktur", "AI Sovereignty", "Europa", "künstliche Intelligenz", "Nvidia", "Publicis", "LVMH", "Fairly Made", "Synthesia", "Bluefish AI", "Anthropic", "Mythos", "Macron", "Startups", "Metaadvisor"]
 summary: "VivaTech Paris 2026 findet vom 17. bis 20. Juni in Paris statt und zeigt, dass die europäische AI-Debatte nicht mehr nur von Innovation handelt, sondern von Infrastruktur, Abhängigkeit von Big Tech, Regulierung und der Frage, ob europäische Startups schnell genug wachsen können."
+categories: ["ai"]
 ---
 
 Das Bild ist symbolisch.

@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Microsoft Word", "QR code", "create QR code", "Microsoft", "Word tips", "Word tricks", "technology", "digital tools", "DISPLAYBARCODE", "Ctrl F9", "barcode", "productivity", "Office"]
 description: "Microsoft Word can create a QR code for free without additional software or an online QR generator. All you need is the built-in DISPLAYBARCODE command and a few keystrokes."
 summary: "You do not need an external website to create a simple QR code. Microsoft Word includes the DISPLAYBARCODE function, which can turn links, text and other data into a QR code directly inside a document."
+categories: ["Tech"]
 ---
 
 # Did you know you can create your own QR code for free directly in Microsoft Word?

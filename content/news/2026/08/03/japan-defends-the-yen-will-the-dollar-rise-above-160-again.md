@@ -7,15 +7,16 @@ translationKey: "japan-brani-jen-hoce-li-dolar-opet-prijeci-160-2026-08-03"
 source: "Bank of Japan, Japan’s Ministry of Finance, Reuters, Associated Press and the Federal Reserve"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Japan-defends-the-yen.png"
-featured_image: "/images/news/Japan-defends-the-yen.png"
-image: "/images/news/Japan-defends-the-yen.png"
-thumbnail: "/images/news/Japan-defends-the-yen.png"
+image_url: "/images/news/Japan-defends-the-yen.webp"
+featured_image: "/images/news/Japan-defends-the-yen.webp"
+image: "/images/news/Japan-defends-the-yen.webp"
+thumbnail: "/images/news/Japan-defends-the-yen.webp"
 image_alt: "Bank of Japan and the market reaction after the sharp decline of the Japanese yen"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Bank of Japan", "BOJ", "Japanese yen", "USD JPY", "Japan", "US dollar", "currency intervention", "foreign exchange market", "yen carry trade", "Nikkei", "Japanese stocks", "Bitcoin", "Ethereum", "crypto", "financial markets"]
 description: "Japan and the United States intervened after the yen weakened to around 163 per dollar. Markets are now watching whether USD/JPY will again approach the 160 level."
 summary: "A rare joint intervention by Japan and the United States abruptly strengthened the yen, pressured some Japanese exporters and shook risk assets. However, the gap between US and Japanese interest rates remains wide, so markets are already watching whether the dollar can return above 160 yen."
+categories: ["markets"]
 ---
 
 *The image is symbolic.*

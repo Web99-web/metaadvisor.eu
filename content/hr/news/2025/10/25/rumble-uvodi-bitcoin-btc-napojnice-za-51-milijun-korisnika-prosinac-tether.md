@@ -16,6 +16,7 @@ image_alt: "Rumble video player — BTC napojnice"
 image_credit: "Slika je simbolična."
 tags: ["bitcoin", "BTC", "Rumble", "napojnice", "tipping", "Tether", "PlanB Forum", "Lugano", "video platforma", "kreatori", "treasury", "kripto", "crypto"]
 summary: "Rumble planira uvesti BTC napojnice do sredine prosinca za 51 milijun mjesečnih korisnika. Nova opcija nastaje u partnerstvu s Tetherom i omogućuje slanje napojnica iz integriranog walleta u aplikaciji."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

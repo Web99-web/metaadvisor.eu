@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["ai", "artificial-intelligence", "crypto", "cryptocurrency", "bitcoin", "btc", "solana", "sol", "xrp", "ripple"]
 our_take: |
   Naš osvrt: Između 11. i 12. rujna HBAR je ostvario umjeren dobitak, skočivši s 0,237 $ na najviše 0,245 $, a zaključio je na 0,240 $. Ključno za pratiti: likvidnost, makro okruženje (kamatne stope/USD) i regulatorni ton. Ostanite selektivni; izloženost povećavati samo u visokouvjerenim pozicijama.
+categories: ["news"]
 ---
 
 Izvorni token Hedera mreže, HBAR, zabilježio je umjeren rast tijekom trgovinskog prozora 11.–12. rujna, porastavši s 0,237 $ na najviše 0,245 $, prije nego što je zaključio na 0,240 $. Kretanje je odraz pojačanog sudjelovanja institucionalnih ulagača, pri čemu se tržišna aktivnost usko veže uz nova zbivanja oko potencijalnih burzovno uvrštenih proizvoda.

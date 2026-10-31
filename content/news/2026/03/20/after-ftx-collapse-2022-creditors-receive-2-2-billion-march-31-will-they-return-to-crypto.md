@@ -8,15 +8,16 @@ translationKey: "67100a5cb802952206c3a563b9bbc68c"
 author: "Metaadvisor.eu"
 source: "CoinDesk / Cointelegraph"
 source_url: ""
-image_url: "/images/news/FTX-payout2.png"
-featured_image: "/images/news/FTX-payout2.png"
-image: "/images/news/FTX-payout2.png"
-thumbnail: "/images/news/FTX-payout2.png"
+image_url: "/images/news/FTX-payout2.webp"
+featured_image: "/images/news/FTX-payout2.webp"
+image: "/images/news/FTX-payout2.webp"
+thumbnail: "/images/news/FTX-payout2.webp"
 image_alt: "FTX payouts to creditors and fund recovery"
 image_credit: "MetaAdvisor.eu"
 tags: ["ftx", "bankruptcy", "crypto", "bitcoin", "payouts", "recovery", "sam bankman fried", "crypto", "analysis", "market", "investors"]
 summary: "FTX is launching a new $2.2 billion payout round, with some users reportedly receiving up to 100% recovery. How is that possible after one of the largest crypto collapses?"
 symbolic_image: true
+categories: ["news"]
 --------------------
 
 *The image is symbolic.*

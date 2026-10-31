@@ -7,14 +7,15 @@ translationKey: "football_bitcoin_crypto_gateway_14122025"
 source: "CoinDesk — analiza"
 source_url: "https://www.coindesk.com/business/2025/12/12/from-wall-street-to-the-world-cup-how-football-became-crypto-s-biggest-gateway-drug"
 author: "MetaAdvisor.eu"
-image_url: "/images/nogomet-btc-kripto.png"
-featured_image: "/images/nogomet-btc-kripto.png"
-image: "/images/nogomet-btc-kripto.png"
-thumbnail: "/images/nogomet-btc-kripto.png"
+image_url: "/images/nogomet-btc-kripto.webp"
+featured_image: "/images/nogomet-btc-kripto.webp"
+image: "/images/nogomet-btc-kripto.webp"
+thumbnail: "/images/nogomet-btc-kripto.webp"
 image_alt: "Nogomet i Bitcoin — kako sport postaje ulaz u kripto svijet"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","nogomet","kripto","masovno usvajanje","adopcija","sport","web3","financije","institucionalni kapital"]
 summary: "Dok ETF-ovi donose kapital, nogomet u kripto donosi ljude — često i bez da su svjesni da su već zakoračili u blockchain svijet."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

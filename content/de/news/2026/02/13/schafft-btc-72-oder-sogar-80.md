@@ -15,6 +15,7 @@ image_alt: "Bitcoin BTC Chart und Marktanalyse"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["btc", "bitcoin", "krypto", "crypto", "marktanalyse", "mvrv", "cpi", "inflation", "bull market", "bear market", "etf", "trading"]
 summary: "Bitcoin nähert sich der entscheidenden Zone zwischen 72.000 und 80.000 US-Dollar, während Onchain-Daten eine mögliche Unterbewertung signalisieren. Steht eine kurzfristige Rally bevor?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -15,6 +15,7 @@ image_alt: "Regulierte Krypto-Länder 2025"
 image_credit: "MetaAdvisor"
 tags: ["krypto", "regulierung", "mica", "dao", "defi", "finanzen", "blockchain"]
 summary: "Im Jahr 2025 haben fünf zentrale Jurisdiktionen klare Regeln für die Kryptoindustrie eingeführt. Wir zeigen, welche Länder das sind, was sie reguliert haben und warum regulatorische Klarheit entscheidend für die Zukunft von Krypto ist."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

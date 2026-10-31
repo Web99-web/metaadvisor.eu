@@ -6,15 +6,16 @@ category: "technology"
 translationKey: "wildfires-ai-why-are-we-still-losing-2026-08-17"
 source: "Reuters, NASA, NIST, DVD Trogir"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Fire-firefighters-AI-help.png"
-featured_image: "/images/news/Fire-firefighters-AI-help.png"
-image: "/images/news/Fire-firefighters-AI-help.png"
-thumbnail: "/images/news/Fire-firefighters-AI-help.png"
+image_url: "/images/news/Fire-firefighters-AI-help.webp"
+featured_image: "/images/news/Fire-firefighters-AI-help.webp"
+image: "/images/news/Fire-firefighters-AI-help.webp"
+thumbnail: "/images/news/Fire-firefighters-AI-help.webp"
 image_alt: "Wildfires, firefighters, drones and artificial intelligence fighting fast-moving fires"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["wildfires", "forest fires", "AI", "artificial intelligence", "firefighters", "firefighting drones", "firefighting robots", "NASA", "technology", "fire suppression"]
 description: "Europe, Canada and the U.S. are once again fighting massive wildfires. We have AI, drones and autonomous machines, yet humans still have to move directly toward the flames. Why?"
 summary: "From Belgium, Greece and Spain to Canada, the U.S. and Croatia, major wildfires are again showing how quickly human response systems can reach their physical limits. Could AI, drones and autonomous machines fundamentally change how we fight fire?"
+categories: ["technology"]
 ---
 
 *Image is symbolic.*

@@ -16,6 +16,7 @@ image_alt: "Robert Kiyosaki market analysis"
 image_credit: "Gage Skidmore / CC BY-SA"
 tags: ["bitcoin", "crypto", "robert kiyosaki", "kiyosaki", "rich dad poor dad", "market", "analysis", "investing", "fear", "gold", "btc", "psychology", "cash", "crash"]
 summary: "Robert Kiyosaki says a global shortage of cash is driving markets lower. He remains bullish on Bitcoin and gold and plans to buy more BTC when the downturn stabilizes."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

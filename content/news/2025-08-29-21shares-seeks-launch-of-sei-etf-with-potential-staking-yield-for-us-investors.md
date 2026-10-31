@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/337305/21shares-seeks-launch-of-sei-etf-with-pot
 summary: "The application follows Canary Capital's May filing for SEI as fund managers pursue ETFs beyond Bitcoin, Ethereum."
 tags: ["crypto","ETF","SEI","21Shares","staking"]
 image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/08/sei-etf-21shares.jpg"
+categories: ["news"]
 ---
 
 **21Shares**, a leading asset management firm, has filed with the **U.S. Securities and Exchange Commission (SEC)** to launch an **ETF tracking SEI**, the native token of the Sei blockchain.

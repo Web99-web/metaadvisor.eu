@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/DeFi-wins-over-bad-crypto-law.png"
-featured_image: "/images/DeFi-wins-over-bad-crypto-law.png"
-image: "/images/DeFi-wins-over-bad-crypto-law.png"
-thumbnail: "/images/DeFi-wins-over-bad-crypto-law.png"
+image_url: "/images/DeFi-wins-over-bad-crypto-law.webp"
+featured_image: "/images/DeFi-wins-over-bad-crypto-law.webp"
+image: "/images/DeFi-wins-over-bad-crypto-law.webp"
+thumbnail: "/images/DeFi-wins-over-bad-crypto-law.webp"
 image_alt: "DeFi pobjeđuje nakon što američki kripto zakon nije prošao"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -28,6 +28,7 @@ tags:
   - dao
   - web3
 summary: "Američki prijedlog kripto-zakona koji je trebao redefinirati regulaciju digitalne imovine nije prošao u Kongresu. Dok dio industrije govori o zastoju, DeFi zajednica taj ishod vidi kao pobjedu protiv loše i opasne regulacije."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

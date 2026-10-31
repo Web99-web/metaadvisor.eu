@@ -7,14 +7,15 @@ translationKey: "midnight_cardano_ada_20251126"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Cardano-Midnight.png"
-featured_image: "/images/Cardano-Midnight.png"
-image: "/images/Cardano-Midnight.png"
-thumbnail: "/images/Cardano-Midnight.png"
+image_url: "/images/Cardano-Midnight.webp"
+featured_image: "/images/Cardano-Midnight.webp"
+image: "/images/Cardano-Midnight.webp"
+thumbnail: "/images/Cardano-Midnight.webp"
 image_alt: "Cardano Midnight ilustracija"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["cardano","ada","midnight","blockchain","privacy","evm","crypto","kriptovalute","zkevm","sidechain","airdrop","tehnologija","analiza"]
 summary: "Cardano Midnight je novi privacy-sidechain koji donosi EVM kompatibilnost i privatne pametne ugovore, uz potencijalno snažan utjecaj na ADA ekosustav."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

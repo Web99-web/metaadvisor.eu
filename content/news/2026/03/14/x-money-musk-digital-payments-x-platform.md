@@ -7,14 +7,15 @@ translationKey: "x-money-digital-payments-musk-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis"
 source_url: ""
-image_url: "/images/X-money.png"
-featured_image: "/images/X-money.png"
-image: "/images/X-money.png"
-thumbnail: "/images/X-money.png"
+image_url: "/images/X-money.webp"
+featured_image: "/images/X-money.webp"
+image: "/images/X-money.webp"
+thumbnail: "/images/X-money.webp"
 image_alt: "X Money digital payments system on the X platform"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["elon musk", "x money", "digital payments", "fintech", "social networks", "x platform", "digital money", "online payments", "visa", "dogecoin", "bitcoin", "everything app"]
 summary: "Elon Musk is developing X Money, a digital payment system within the X platform. The project could transform the social network into a financial platform and part of the broader vision of the so-called 'everything app'."
+categories: ["tech"]
 ---
 
 *Image is symbolic.*

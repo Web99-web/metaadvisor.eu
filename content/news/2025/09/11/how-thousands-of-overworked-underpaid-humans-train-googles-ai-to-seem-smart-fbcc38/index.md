@@ -3,7 +3,7 @@ title: "How thousands of ‘overworked, underpaid’ humans train Google’s AI 
 slug: "how-thousands-of-overworked-underpaid-humans-train-googles-ai-to-seem-smart-fbcc38"
 date: 2025-09-11T12:00:06Z
 category: "news"
-translationKey: "51e58ae4eee82990ad2b576b0538e560"
+translationKey: "51e58ae4eee82990ad2b576b0538e560--unpaired-ce453f860790"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans"
 priority: 20
@@ -11,6 +11,11 @@ image: "hero.jpg"
 tags: ["ai", "artificial-intelligence", "google", "mental-health"]
 our_take: |
   Our view: Contracted AI raters describe grueling deadlines, poor pay and opacity around work to make chatbots intelligent I n the spring of 2024, when Rachael Sawyer, a technical writer from Texas, received a LinkedIn message from… Bigger picture: data/licensing, model quality, and policy risk drive outcomes. We like real distribution and defensible data moats.
+categories: ["news"]
+seo_alias_of: "https://metaadvisor.eu/news/how-thousands-of-overworked-underpaid-humans-train-googles-ai-to-seem-smart/"
+_build:
+  list: never
+  render: always
 ---
 
 Contracted AI raters describe grueling deadlines, poor pay and opacity around work to make chatbots intelligent

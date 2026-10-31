@@ -7,14 +7,15 @@ translationKey: "70ce7371d12f34c9a85e4c7d1a5df3e2"
 author: "TechCrunch"
 source: "TechCrunch i Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/Meta-Whatsapp-EU.png"
-featured_image: "/images/Meta-Whatsapp-EU.png"
-image: "/images/Meta-Whatsapp-EU.png"
-thumbnail: "/images/Meta-Whatsapp-EU.png"
+image_url: "/images/Meta-Whatsapp-EU.webp"
+featured_image: "/images/Meta-Whatsapp-EU.webp"
+image: "/images/Meta-Whatsapp-EU.webp"
+thumbnail: "/images/Meta-Whatsapp-EU.webp"
 image_alt: "Meta WhatsApp EU regulacija AI chatbotovi"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "umjetna inteligencija", "meta", "whatsapp", "eu regulacija", "digital markets act", "europska komisija", "ai chatbot", "ai asistenti", "meta ai", "tehnologija", "big tech regulacija", "eu tech zakon", "chatbot platforme", "ai tržište"]
 summary: "Europska unija prisilila je Metu da privremeno dopusti konkurentskim AI chatbotovima pristup WhatsAppu. Odluka dolazi nakon regulatornog pritiska Europske komisije i otvara nova pitanja o budućnosti AI platformi i tržišnog natjecanja."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

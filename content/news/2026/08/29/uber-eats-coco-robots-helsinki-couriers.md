@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "uber-eats-coco-robots-helsinki-delivery-workers-2026-08-29"
 source: "Uber, Coco Robotics, Wolt, Yle, Reuters, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Uber-eats-Coco-robots.png"
-featured_image: "/images/companies/Uber-eats-Coco-robots.png"
-image: "/images/companies/Uber-eats-Coco-robots.png"
-thumbnail: "/images/companies/Uber-eats-Coco-robots.png"
+image_url: "/images/companies/Uber-eats-Coco-robots.webp"
+featured_image: "/images/companies/Uber-eats-Coco-robots.webp"
+image: "/images/companies/Uber-eats-Coco-robots.webp"
+thumbnail: "/images/companies/Uber-eats-Coco-robots.webp"
 image_alt: "Uber Eats uses Coco Robotics robots for food delivery in Helsinki"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Uber", "Uber Eats", "Coco Robotics", "robots", "robot delivery", "autonomous robots", "couriers", "platform work", "automation", "artificial intelligence", "AI", "Helsinki", "Finland", "Wolt", "last-mile delivery", "future of work"]
 description: "Uber Eats has started using autonomous robots from US company Coco Robotics for food delivery in Helsinki. Finland is the first EU market where Uber Eats offers robot delivery directly through its own app."
 summary: "Uber Eats can now assign some Helsinki orders to Coco robots instead of human couriers. Uber says the robots will initially operate alongside its existing courier network, but the technology raises a new question: what happens to platform work when the algorithm no longer only decides which person gets the delivery, but can decide whether a person is needed at all?"
+categories: ["Technology"]
 ---
 
 *The image is symbolic.*
@@ -72,7 +73,7 @@ Coco has experience operating in colder conditions and trains its AI systems usi
 The shift is particularly interesting because platforms such as Uber have spent years using algorithms to distribute jobs, evaluate performance and manage access to the app. Metaadvisor.eu recently covered a case in which Uber was fined **€825 million**, with questions surrounding algorithmic decisions and people's access to work through the platform.
 
 <a href="https://metaadvisor.eu/news/uber-fined-825m-algorithms-block-work/" target="_blank" rel="noopener">
-<img src="/images/news/uber-fined-825-millions.png"
+<img src="/images/news/uber-fined-825-millions.webp"
      alt="Uber fined 825 million euros over algorithmic decisions"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

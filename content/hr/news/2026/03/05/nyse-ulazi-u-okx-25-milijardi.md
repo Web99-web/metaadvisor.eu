@@ -3,18 +3,19 @@ title: "New York Stock Exchange ulazi u kripto: vlasnik NYSE-a investira u OKX p
 slug: "nyse-ulazi-u-okx-25-milijardi"
 date: 2026-03-05T16:30:00Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-03-05"
 author: "Cointelegraph"
 source: "Cointelegraph i Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/okx-analysis.png"
-featured_image: "/images/okx-analysis.png"
-image: "/images/okx-analysis.png"
-thumbnail: "/images/okx-analysis.png"
+image_url: "/images/okx-analysis.webp"
+featured_image: "/images/okx-analysis.webp"
+image: "/images/okx-analysis.webp"
+thumbnail: "/images/okx-analysis.webp"
 image_alt: "OKX analiza tržišta i rast kripto tržišta"
 image_credit: "Metaadvisor.eu"
 tags: ["kripto", "bitcoin", "btc", "okx", "nyse", "new york stock exchange", "ice", "intercontinental exchange", "tokenizacija", "tokenizirane dionice", "kripto burze", "crypto exchange", "blockchain", "web3", "tradfi", "financijska tržišta", "kripto tržište"]
 summary: "Vlasnik New York Stock Exchangea, Intercontinental Exchange (ICE), investirao je u kripto burzu OKX procijenjenu na oko 25 milijardi dolara. Partnerstvo otvara vrata tokeniziranim dionicama i novim mostovima između tradicionalnih financija i kripto tržišta."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

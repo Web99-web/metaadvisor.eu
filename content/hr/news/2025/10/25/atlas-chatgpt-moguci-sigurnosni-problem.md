@@ -15,6 +15,7 @@ image_alt: "AI preglednik Atlas — sigurnosni rizici"
 image_credit: "Slika je simbolična."
 tags: ["Atlas", "ChatGPT", "AI preglednik", "sigurnost", "sigurnosni problem", "sigurnosni propust", "prompt injection", "clipboard", "browser", "agent mode", "fburl"]
 summary: "Atlas je novi AI preglednik temeljen na ChatGPT-u. Donosi agentni način rada, ali otvara i mogući sigurnosni problem. Donosimo pregled rizika i kako se zaštititi."
+categories: ["ai"]
 ---
 
 **O čemu je riječ?**

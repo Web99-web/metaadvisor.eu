@@ -15,6 +15,7 @@ image_alt: "Gmail and Google account storage concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Gmail", "Google Drive", "Google Photos", "Google Account", "Google One", "cloud storage", "5 GB", "15 GB", "phone verification", "phone number", "digital privacy", "Big Tech", "free internet", "digital identification", "online accounts", "cloud", "backup", "Metaadvisor"]
 summary: "Google is reportedly testing a new rule for some new accounts: an initial 5 GB of storage without a phone number, with the option to unlock up to 15 GB after adding a phone number. The question is no longer only how much storage we get, but what we must give for services we call free."
+categories: ["tech"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>The image is symbolic.</em></p>
@@ -86,7 +87,7 @@ The third lesson is that “free” should be read differently. Free can mean th
 
 <p style="margin:22px 0; padding:14px; border:1px solid #e5e7eb; border-radius:14px; background:#f9fafb;">
   <a href="https://metaadvisor.eu/news/mega-vs-google-drive-privacy-google-ecosystem/" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">
-    <img src="/images/companies/MEGA-vs-Google-drive.png" alt="MEGA vs Google Drive: privacy or the Google ecosystem?" style="width:100%; max-width:520px; display:block; margin:0 auto 12px auto; border-radius:12px;">
+    <img src="/images/companies/MEGA-vs-Google-drive.webp" alt="MEGA vs Google Drive: privacy or the Google ecosystem?" style="width:100%; max-width:520px; display:block; margin:0 auto 12px auto; border-radius:12px;">
   </a>
   <a href="https://metaadvisor.eu/news/mega-vs-google-drive-privacy-google-ecosystem/" target="_blank" rel="noopener" style="font-weight:700; color:#1e40af; text-decoration:none;">
     MEGA vs Google Drive: privacy or the Google ecosystem?

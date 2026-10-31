@@ -9,6 +9,7 @@ summary: "Technical indicators confirm a bearish shift suggested by violation of
 tags: ["bitcoin","crypto","BTC","price-analysis","trading","technical-analysis","Ichimoku","SMA","MACD","GMMA"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/404f1c4206325dfb85bb5fa2dc07f0e6a7f3c00f-2880x1620.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/404f1c4206325dfb85bb5fa2dc07f0e6a7f3c00f-2880x1620.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 This is a daily analysis by CoinDesk analyst and Chartered Market Technician Omkar Godbole.  

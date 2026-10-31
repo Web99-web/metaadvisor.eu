@@ -7,14 +7,15 @@ translationKey: "1cbec92194a2d4901cf7fc26b2ab215e"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/anchorage-kamino-institutions-borrow-against-sol-without-moving-custody"
 author: "Cointelegraph"
-image_url: "/images/Anchorage-digital-us-crypto-bank.png"
-featured_image: "/images/Anchorage-digital-us-crypto-bank.png"
-image: "/images/Anchorage-digital-us-crypto-bank.png"
-thumbnail: "/images/Anchorage-digital-us-crypto-bank.png"
+image_url: "/images/Anchorage-digital-us-crypto-bank.webp"
+featured_image: "/images/Anchorage-digital-us-crypto-bank.webp"
+image: "/images/Anchorage-digital-us-crypto-bank.webp"
+thumbnail: "/images/Anchorage-digital-us-crypto-bank.webp"
 image_alt: "Anchorage Digital US crypto bank"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["crypto", "bitcoin", "sol", "solana", "staking", "defi", "decentralized finance", "anchorage", "institutional investors", "blockchain", "kamino"]
 summary: "Anchorage Digital now allows institutions to borrow against staked SOL while keeping assets in regulated custody, marking another step toward institutionalized DeFi."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

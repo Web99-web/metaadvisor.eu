@@ -15,6 +15,7 @@ image_alt: "Pad dionica Robinhooda i kripto tržišta uz geopolitičke napetosti
 image_credit: "Metaadvisor.eu"
 tags: ["robinhood", "kripto", "bitcoin", "btc", "coinbase", "dionice", "pad tržišta", "kripto trgovanje", "investitori", "blockchain", "volatilnost", "hormuški tjesnac", "nafta", "geopolitika", "fed"]
 summary: "Dionice Robinhooda pale su gotovo 10% nakon slabijih rezultata, dok kripto aktivnost pada gotovo 50%. Pad se širi na cijeli sektor uz utjecaj FED-a i geopolitičkih napetosti oko Hormuškog tjesnaca."
+categories: ["crypto"]
 ---
 *Slika je simbolična.*
 

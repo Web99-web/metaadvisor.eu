@@ -32,6 +32,7 @@ tags:
   - MosaicML
   - Naveen Rao
 summary: "Naveen Rao (MosaicML/Databricks) is raising up to $1B for AI hardware startup Unconventional, aiming for a $5B valuation with a16z, Lightspeed, Lux backing — reportedly with Databricks also participating."
+categories: ["ai"]
 ---
 
 **What’s happening?**  

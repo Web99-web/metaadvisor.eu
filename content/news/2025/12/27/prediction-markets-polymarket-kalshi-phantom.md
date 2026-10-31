@@ -6,10 +6,10 @@ category: "crypto"
 translationKey: "prediction_markets_mainstream_27122025"
 source: "MetaAdvisor analysis — based on CoinDesk, Cointelegraph and independent research"
 author: "MetaAdvisor.eu"
-image_url: "/images/prediction-markets.png"
-featured_image: "/images/prediction-markets.png"
-image: "/images/prediction-markets.png"
-thumbnail: "/images/prediction-markets.png"
+image_url: "/images/prediction-markets.webp"
+featured_image: "/images/prediction-markets.webp"
+image: "/images/prediction-markets.webp"
+thumbnail: "/images/prediction-markets.webp"
 image_alt: "Prediction markets — Polymarket, Kalshi and Phantom Wallet"
 tags:
   - prediction markets
@@ -20,6 +20,7 @@ tags:
   - crypto
   - regulation
 summary: "Prediction markets are moving from a niche crypto experiment into the mainstream. Polymarket and Kalshi are expanding rapidly, while integration into Phantom Wallet lowers the barrier for everyday users."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

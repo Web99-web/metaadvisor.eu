@@ -16,6 +16,7 @@ image_alt: "Bitcoin und Altcoin Tagesanalyse"
 image_credit: "Symbolisches Bild."
 tags: ["krypto","bitcoin","btc","eth","ethereum","bnb","binance","xrp","ripple","sol","solana","doge","dogecoin","ada","cardano","hype","hyperliquid","link","chainlink","xlm","stellar","prognosen","preise","technische-analyse","trading","marktanalyse"]
 summary: "Täglicher technischer Marktüberblick (22.10.): Schlüsselmarken für Bitcoin und führende Altcoins."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

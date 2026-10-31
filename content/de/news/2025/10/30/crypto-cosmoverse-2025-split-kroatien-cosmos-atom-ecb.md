@@ -7,14 +7,15 @@ translationKey: "7c9e1b1c-0c0e-4b8a-9f7a-1fcbf2b6b1aa"
 source: "Cosmoverse 2025 — offizielle Ankündigungen und Medienberichte"
 source_url: "https://cosmoverse.org/"
 author: "Metaadvisor.eu"
-image_url: "/images/Cosmoverse2025-Split.png"
-featured_image: "/images/Cosmoverse2025-Split.png"
-image: "/images/Cosmoverse2025-Split.png"
-thumbnail: "/images/Cosmoverse2025-Split.png"
+image_url: "/images/Cosmoverse2025-Split.webp"
+featured_image: "/images/Cosmoverse2025-Split.webp"
+image: "/images/Cosmoverse2025-Split.webp"
+thumbnail: "/images/Cosmoverse2025-Split.webp"
 image_alt: "Cosmoverse 2025 — Split, Kroatien"
 image_credit: "Illustration — Metaadvisor.eu"
 tags: ["Cosmoverse","Cosmos","ATOM","IBC","Cosmos SDK","Interoperabilität","Split","Kroatien","Konferenz","Regulatoren","Institutionen","EZB","Jadran"]
 summary: "Cosmoverse 2025 bringt die globale Web3-Szene an die Adria. Wir erklären Cosmos verständlich und zeigen, warum neben Top-Gründern auch Institutionen wie die EZB präsent sind."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

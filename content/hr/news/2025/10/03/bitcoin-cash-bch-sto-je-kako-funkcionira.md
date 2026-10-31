@@ -7,10 +7,10 @@ translationKey: "bch-explainer-2025-10-03"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Bitcoin-cash-BCH.png"
-featured_image: "/images/Bitcoin-cash-BCH.png"
-image: "/images/Bitcoin-cash-BCH.png"
-thumbnail: "/images/Bitcoin-cash-BCH.png"
+image_url: "/images/Bitcoin-cash-BCH.webp"
+featured_image: "/images/Bitcoin-cash-BCH.webp"
+image: "/images/Bitcoin-cash-BCH.webp"
+thumbnail: "/images/Bitcoin-cash-BCH.webp"
 image_alt: "Bitcoin Cash (BCH) — zelena ikona i natpis"
 image_credit: "Metaadvisor.eu (simbolična slika)"
 tags:
@@ -25,6 +25,7 @@ tags:
   - lightning-alternativa
   - p2p-placanja
 summary: "Bitcoin Cash (BCH) je fork Bitcoina iz 2017. s većim blokovima i fokusom na jeftine, brze on-chain transakcije. Zadržava PoW model i cilja na ulogu 'digitalnog novca' za svakodnevna plaćanja."
+categories: ["crypto"]
 ---
 
 **Bitcoin Cash (BCH)** nastao je **hard forkom Bitcoina u kolovozu 2017.** zbog neslaganja oko **skalabilnosti**. Umjesto oslanjanja na rješenja izvan lanca (npr. Lightning), BCH je odabrao **povećanje blokova** (u praksi do *32 MB*) kako bi **povećao propusnost** i zadržao **nisku naknadu** transakcija u samom lancu.

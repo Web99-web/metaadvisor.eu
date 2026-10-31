@@ -7,14 +7,15 @@ translationKey: "b136992019a6592c5581525c6e3f6dc2"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/capital-one-bank-buys-stablecoin-fintech-brex-for-5-15b"
 author: "MetaAdvisor.eu"
-image_url: "/images/bank-CapitalOne-crypto.png"
-featured_image: "/images/bank-CapitalOne-crypto.png"
-image: "/images/bank-CapitalOne-crypto.png"
-thumbnail: "/images/bank-CapitalOne-crypto.png"
+image_url: "/images/bank-CapitalOne-crypto.webp"
+featured_image: "/images/bank-CapitalOne-crypto.webp"
+image: "/images/bank-CapitalOne-crypto.webp"
+thumbnail: "/images/bank-CapitalOne-crypto.webp"
 image_alt: "US bank Capital One enters crypto through the acquisition of fintech company Brex"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "US bank Capital One is acquiring fintech firm Brex for $5.15 billion, marking a clear move into crypto payments and stablecoin infrastructure."
 tags: ["bank", "capital one", "brex", "crypto", "stablecoin", "usdc", "fintech", "us banks"]
+categories: ["news"]
 ---
 
 The **US bank Capital One** has announced it will acquire fintech company **Brex** in a deal valued at **$5.15 billion**, marking one of the clearest moves yet by a major American bank into **crypto payments** and **stablecoin-based infrastructure**.

@@ -7,14 +7,15 @@ translationKey: "f6ad28da1b3811efce51adadba26b9e8"
 source: "Metaadvisor (CoinDesk, Bankless, Crypto Times)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/PAC-Political-Action-committee.png"
-featured_image: "/images/PAC-Political-Action-committee.png"
-image: "/images/PAC-Political-Action-committee.png"
-thumbnail: "/images/PAC-Political-Action-committee.png"
+image_url: "/images/PAC-Political-Action-committee.webp"
+featured_image: "/images/PAC-Political-Action-committee.webp"
+image: "/images/PAC-Political-Action-committee.webp"
+thumbnail: "/images/PAC-Political-Action-committee.webp"
 image_alt: "PAC Political Action Committee und Defend Developers PAC für DeFi und Krypto-Regulierung"
 image_credit: "MetaAdvisor.eu"
 tags: ["PAC", "Political Action Committee", "Defend Developers PAC", "DeFi", "dezentrale Finanzen", "Krypto-Politik", "Krypto-Regulierung", "Blockchain-Entwickler", "Developer Liability", "Smart Contracts", "Open Source", "Krypto-Lobbying", "US-Wahlen", "Kongress", "Fairshake", "Fellowship PAC", "Tether", "Digital Freedom Fund", "Winklevoss", "Gemini", "Blockchain Leadership Fund", "Anchorage Digital", "Chainlink", "DeFi Education Fund", "digitale Vermögenswerte", "Kryptoindustrie", "Metaadvisor"]
 summary: "Der Defend Developers PAC ist ein neuer politischer Ausschuss in den USA, der Kandidaten unterstützen will, die Blockchain, DeFi und den rechtlichen Schutz von Entwicklern verstehen. Für europäische Leser ist zunächst wichtig zu verstehen, was ein PAC ist und warum er im amerikanischen System eine legale, registrierte Form politischen Einflusses darstellt."
+categories: ["krypto"]
 ---
 
 <small><em>Das Bild ist symbolisch.</em></small>

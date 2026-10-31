@@ -15,6 +15,7 @@ image_alt: "Symbolische Darstellung einer Finanzblase über Marktdiagrammen"
 image_credit: "Bild ist symbolisch."
 tags: ["ai","künstliche intelligenz","blase","wirtschaft","rezession","arbeitsmarkt","arbeitsplätze","verschuldung","hypotheken","usa","europa","kapitalmarkt","big tech","gpu","rechenzentren","investitionen","deflation","inflation"]
 summary: "Der AI-Boom stützt Börsen und BIP, verdeckt aber zunehmende Schwächen: stagnierende Löhne, steigende Zahlungsausfälle, sinkendes Vertrauen und Abhängigkeit von einem engen Technologiesektor."
+categories: ["ai"]
 ---
 
 Künstliche Intelligenz (AI – *artificial intelligence / künstliche Intelligenz*) ist zum wichtigsten Wachstumsmotor geworden. Investitionen in Rechenzentren, GPU-Cluster und Modelle treiben die Börsen nach oben und stützen den Konsum über den sogenannten „Wealth Effect“. Doch unter der Oberfläche häufen sich Risse: schwaches Beschäftigungswachstum, stagnierende Löhne, steigende Kreditausfälle und ein Rückgang des Verbrauchervertrauens. Politische Faktoren (Handelskriege, Migrationsrestriktionen, langer Government Shutdown) verschärfen zusätzlich das Problem.

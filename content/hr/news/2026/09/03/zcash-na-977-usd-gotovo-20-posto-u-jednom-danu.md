@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Zcash", "ZEC", "crypto", "privacy coin", "Grayscale", "Zcash ETF", "ZCSH", "NYSE Arca", "Bitcoin", "altcoins", "short squeeze", "likvidacije", "AI", "privatnost", "crypto tržište"]
 description: "Zcash je 3. rujna skočio gotovo 20% i približio se granici od 1.000 dolara, dok ETF narativ, privacy tema i širi crypto rally dodatno podižu interes za ZEC."
 summary: "ZEC je tijekom večeri dosegnuo približno 978 dolara i približio se psihološkoj razini od 1.000 dolara. Zcash sada ima vlastiti američki ETF, snažan privacy narativ i znatno jači momentum od većine velikih altcoina."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

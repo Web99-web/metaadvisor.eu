@@ -9,6 +9,7 @@ summary: "Strukturierte Krypto-Due-Diligence mit ChatGPT — von Tokenomics und 
 tags: ["crypto","chatgpt","due-diligence","research","tokenomics","vesting","unlock","risk","security","regulation","defi","dex","cex","prompt-engineering"]
 image_url: "/static/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
 image_thumb: "/static/images/placeholder-metaadvisor-small.jpg"
+categories: ["crypto"]
 ---
 
 > Kein Finanzrat. Zahlen und Aussagen stets in Primärquellen/Tools gegenprüfen.

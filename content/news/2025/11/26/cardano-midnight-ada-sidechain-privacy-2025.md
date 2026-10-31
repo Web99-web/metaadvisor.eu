@@ -7,14 +7,15 @@ translationKey: "midnight_cardano_ada_20251126"
 source: "MetaAdvisor – analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Cardano-Midnight.png"
-featured_image: "/images/Cardano-Midnight.png"
-image: "/images/Cardano-Midnight.png"
-thumbnail: "/images/Cardano-Midnight.png"
+image_url: "/images/Cardano-Midnight.webp"
+featured_image: "/images/Cardano-Midnight.webp"
+image: "/images/Cardano-Midnight.webp"
+thumbnail: "/images/Cardano-Midnight.webp"
 image_alt: "Cardano Midnight illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["cardano","ada","midnight","blockchain","privacy","evm","crypto","zkevm","sidechain","airdrop","technology","analysis"]
 summary: "Cardano Midnight is a new privacy-focused sidechain bringing EVM compatibility and confidential smart contracts — potentially transforming the ADA ecosystem in 2025."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

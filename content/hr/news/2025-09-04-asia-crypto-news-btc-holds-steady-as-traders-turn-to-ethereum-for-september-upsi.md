@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/04/asia-morning-briefing-b
 summary: "QCP ističe rizik u upravljanju i slabiji dolar kao potporu za BTC i zlato, dok opcijske kuće i prediction marketi vide ETH kao glavni rastući adut u rujnu."
 tags: ["crypto", "BTC", "ETH", "Azija", "tržišta", "opcije", "SOL"]
 image_url: "/images/fallback-finance.jpg"
+categories: ["crypto"]
 ---
 
 Dobrodošli u Asia Morning Briefing – dnevni pregled ključnih vijesti tijekom američkih sati i analiza kretanja tržišta.  

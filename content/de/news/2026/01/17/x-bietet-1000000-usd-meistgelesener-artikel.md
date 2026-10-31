@@ -7,10 +7,10 @@ translationKey: "x_one_million_top_article_2026"
 source: "X (Beitrag von Nikita Bier)"
 source_url: "https://x.com/nikitabier/status/2012307256444854693"
 author: "MetaAdvisor.eu"
-image_url: "/images/X-1-mil-usd.png"
-featured_image: "/images/X-1-mil-usd.png"
-image: "/images/X-1-mil-usd.png"
-thumbnail: "/images/X-1-mil-usd.png"
+image_url: "/images/X-1-mil-usd.webp"
+featured_image: "/images/X-1-mil-usd.webp"
+image: "/images/X-1-mil-usd.webp"
+thumbnail: "/images/X-1-mil-usd.webp"
 image_alt: "X-Plattform bietet eine Million US-Dollar für den meistgelesenen Artikel"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - viral
   - news
 summary: "Die Plattform X bietet bis zu 1.000.000 USD für den Autor des meistgelesenen Artikels innerhalb von zwei Wochen und sendet damit ein starkes Signal an Creator und Medien."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

@@ -6,15 +6,16 @@ category: "business"
 translationKey: "unitree-robots-ipo-hyperliquid-pre-ipo-2026-08-17"
 source: "Reuters, CoinDesk, Allium"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Unitree-robots-IPO.png"
-featured_image: "/images/companies/Unitree-robots-IPO.png"
-image: "/images/companies/Unitree-robots-IPO.png"
-thumbnail: "/images/companies/Unitree-robots-IPO.png"
+image_url: "/images/companies/Unitree-robots-IPO.webp"
+featured_image: "/images/companies/Unitree-robots-IPO.webp"
+image: "/images/companies/Unitree-robots-IPO.webp"
+thumbnail: "/images/companies/Unitree-robots-IPO.webp"
 image_alt: "Unitree robots IPO and pre-IPO trading on Hyperliquid"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Unitree", "Unitree Robotics", "robots", "humanoid robots", "IPO", "Hyperliquid", "pre-IPO", "perpetual futures", "China", "Shanghai STAR Market", "robotics"]
 description: "Unitree Robotics is going public at an official IPO price of 150.80 yuan per share, while pre-IPO markets are already implying valuations several times higher."
 summary: "Unitree Robotics has not yet started regular trading on the Shanghai STAR Market, but the official IPO price, informal offers and Hyperliquid pre-IPO derivatives are already producing dramatically different valuations."
+categories: ["business"]
 ---
 
 *The image is symbolic.*

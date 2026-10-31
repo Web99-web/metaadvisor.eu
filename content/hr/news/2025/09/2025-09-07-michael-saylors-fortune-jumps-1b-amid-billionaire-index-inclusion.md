@@ -9,6 +9,7 @@ summary: "Michael Saylor, suosnivač i izvršni predsjednik MicroStrategya, prvi
 tags: ["crypto", "bitcoin", "btc", "michael saylor", "microstrategy", "mstr", "bloomberg", "billionaires index", "neto vrijednost", "dionice"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Michael_Saylor_%2854345839472%29.jpg"
 image_source: "Photo: Gage Skidmore / CC BY-SA 2.0 via Wikimedia Commons"
+categories: ["kripto"]
 ---
 
 Michael **Saylor** uvršten je na **Bloomberg Billionaires Index** s procijenjenih **7,37 mlrd $** neto vrijednosti (trenutno **#491**), što predstavlja gotovo **+16%** od početka godine, dok su dionice **MicroStrategya (MSTR)** porasle oko **12%** u istom razdoblju. :contentReference[oaicite:0]{index=0}

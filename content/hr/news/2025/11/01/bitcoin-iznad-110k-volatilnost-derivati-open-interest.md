@@ -15,6 +15,7 @@ image_alt: "Bitcoin logo — volatilno tržište iznad 110.000 USD"
 image_credit: "Metaadvisor.eu — slika je simbolična."
 tags: ["bitcoin","btc","kripto","volatilnost","derivati","open interest","likvidacije","funding","opcije","fjučersi","on-chain","tržište","tehnika","psihologija tržišta"]
 summary: "Bitcoin trguje oko 110.000 USD uz snažnu kratkoročnu volatilnost. Derivati bilježe visoki open interest, povećane likvidacije i “whipsaw” kretanja — tipično za kasne faze trenda i testiranje psiholoških razina."
+categories: ["crypto"]
 ---
 
 Bitcoin se trenutno kreće **oko 110.000 USD**, uz nagla pomicanja cijene u oba smjera i skok aktivnosti na tržištu izvedenica.  

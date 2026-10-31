@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/02/google-avoids-break-up-faces-new-
 summary: "US-District-Court-Richter Amit P. Mehta legte am Dienstag Maßnahmen fest, die Google verbieten, exklusive Deals im Zusammenhang mit Search, Chrome, Google Assistant oder Gemini abzuschließen oder aufrechtzuerhalten."
 tags: ["google", "antitrust", "suche", "chrome", "gemini", "tech"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
+categories: ["news"]
 ---
 
 Google wird nicht gezwungen, sein Suchgeschäft aufzuspalten, aber ein Bundesrichter hat vorläufig andere Änderungen an den Geschäftspraktiken des Tech-Giganten angeordnet, um weiteres wettbewerbswidriges Verhalten zu verhindern.

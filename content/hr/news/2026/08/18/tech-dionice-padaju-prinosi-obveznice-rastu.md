@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Wall Street", "Nasdaq", "S&P 500", "tech stocks", "semiconductors", "bond yields", "US Treasury", "Japan", "inflation", "oil", "AI"]
 description: "Američke tehnološke dionice pale su dok su dugoročni prinosi na državne obveznice u SAD-u, Japanu i Europi dosegnuli višegodišnje ili višedesetljetne vrhunce."
 summary: "Nasdaq je 18. kolovoza pao više od 1%, a indeks proizvođača čipova više od 5%, dok su rast prinosa na obveznice, skuplja nafta i strah od inflacije povećali pritisak na tehnološke dionice."
+categories: ["Markets"]
 ---
 
 *Slika je simbolična.*

@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/blackrock-etfs-record-inflows-institutional-bitcoin-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Blackrock-66m-en.png"
-featured_image: "/images/Blackrock-66m-en.png"
-image: "/images/Blackrock-66m-en.png"
-thumbnail: "/images/Blackrock-66m-en.png"
+image_url: "/images/Blackrock-66m-en.jpg"
+featured_image: "/images/Blackrock-66m-en.jpg"
+image: "/images/Blackrock-66m-en.jpg"
+thumbnail: "/images/Blackrock-66m-en.jpg"
 image_alt: "BlackRock and iShares ETFs — rising demand for Bitcoin and Ether"
 image_credit: "Image is symbolic."
 tags: ["BlackRock", "iShares", "ETF", "Bitcoin", "Ether", "institutional investors", "inflows", "AUM", "liquidity", "fees", "diversification", "crypto market"]
 summary: "BlackRock reported a record quarter for iShares ETFs, fueled by strong flows into Bitcoin and Ether products. Crypto ETFs are becoming a key on-ramp for institutional capital."
+categories: ["crypto"]
 ---
 
 **BlackRock** reported a **record quarter** for its **iShares** lineup, driven by accelerating **demand for Bitcoin (BTC) and Ether (ETH)** via ETF products. Robust **inflows** into crypto-focused funds improved **liquidity**, tightened **spreads**, and lifted **assets under management (AUM)** across iShares.

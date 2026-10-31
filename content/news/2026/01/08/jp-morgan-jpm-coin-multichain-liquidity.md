@@ -7,10 +7,10 @@ translationKey: "c27090013d8bd177951b31cefa9e4ae9"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2026/01/08/interoperable-digital-money-jpmorgan-expands-blockchain-plans"
 author: "MetaAdvisor.eu"
-image_url: "/images/JP-Morgen-JPM.png"
-featured_image: "/images/JP-Morgen-JPM.png"
-image: "/images/JP-Morgen-JPM.png"
-thumbnail: "/images/JP-Morgen-JPM.png"
+image_url: "/images/JP-Morgen-JPM.webp"
+featured_image: "/images/JP-Morgen-JPM.webp"
+image: "/images/JP-Morgen-JPM.webp"
+thumbnail: "/images/JP-Morgen-JPM.webp"
 image_alt: "JP Morgan expands JPM Coin across multiple blockchain networks"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - institutional finance
   - liquidity
 summary: "JP Morgan plans to expand JPM Coin across multiple blockchain networks, aiming to improve interoperability and unlock liquidity for institutional payments."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

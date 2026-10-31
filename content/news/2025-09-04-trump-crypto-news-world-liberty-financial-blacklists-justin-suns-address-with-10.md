@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/tech/2025/09/04/world-liberty-financial-bl
 summary: "Sun is a key investor in the project and holds around $700 million worth of WLFI tokens, mostly vested."
 tags: ["crypto", "trump", "wlfi", "justin-sun", "tron", "trx", "ethereum", "eth", "blockchain", "tokens"]
 image_url: "/images/wlfi.png"
+categories: ["crypto"]
 ---
 
 **World Liberty Financial (WLFI)**, the crypto protocol linked to **Donald Trump** and his family, on Thursday blacklisted the blockchain address of **Justin Sun**, founder of **Tron (TRX)** and a key investor, preventing him from transferring WLFI tokens.

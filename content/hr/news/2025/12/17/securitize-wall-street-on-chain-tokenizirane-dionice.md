@@ -7,14 +7,15 @@ translationKey: "securitize_wall_street_on_chain_17122025"
 source: "Cointelegraph, CoinDesk, MetaAdvisor analiza"
 source_url: "https://cointelegraph.com / https://www.coindesk.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/Wall-street-on-chain.png"
-featured_image: "/images/Wall-street-on-chain.png"
-image: "/images/Wall-street-on-chain.png"
-thumbnail: "/images/Wall-street-on-chain.png"
+image_url: "/images/Wall-street-on-chain.webp"
+featured_image: "/images/Wall-street-on-chain.webp"
+image: "/images/Wall-street-on-chain.webp"
+thumbnail: "/images/Wall-street-on-chain.webp"
 image_alt: "Wall Street dolazi on-chain – Securitize i tokenizacija stvarnih dionica"
 image_credit: "Ilustracija / simbolična slika"
 tags: ["securitize", "wall street", "tokenizacija", "dionice", "tradfi", "defi", "blockchain", "kripto", "financijska tržišta", "web3"]
 summary: "Američka tvrtka Securitize najavljuje regulirane, stvarne dionice izdane on-chain. Time Wall Street ulazi u blockchain infrastrukturu na ozbiljan, dugoročno održiv način."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

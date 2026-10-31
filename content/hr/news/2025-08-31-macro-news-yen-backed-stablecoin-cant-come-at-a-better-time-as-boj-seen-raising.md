@@ -9,6 +9,7 @@ summary: "Vodeći bankari i ekonomisti očekuju rast kamatnih stopa u Japanu u �
 tags: ["macro","Japan","stablecoin","JPY","yen","BOJ","interest-rates","crypto","finance","markets","payments","remittances","DeFi"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/923a04872447b38957f0d56822956490d23cedc7-3997x2248.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/923a04872447b38957f0d56822956490d23cedc7-3997x2248.jpg?auto=format&fit=max&w=1200"
+categories: ["macro"]
 ---
 
 Jedna od najvećih vijesti koje dolaze s Dalekog istoka ovaj mjesec je skorašnje lansiranje blockchain verzije japanskog jena, jedne od glavnih svjetskih fiat valuta.

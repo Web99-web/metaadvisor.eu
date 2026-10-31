@@ -15,6 +15,7 @@ image_alt: "Polymarket Prediction Markets Visual"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["polymarket", "prediction märkte", "kalshi", "tokenisierung", "derivate", "market-maker", "crypto", "web3", "cftc", "event-kontrakte"]
 summary: "Prediction-Märkte werden zu einem neuen globalen Finanzphänomen. Wir erklären, wie sie funktionieren, warum sie kein Glücksspiel sind, weshalb Polymarket 1,4 Mio. USD Strafe zahlen musste — und warum die Plattform heute wieder zu den innovativsten Projekten im Web3 zählt."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice
 summary: "Anthropic is making some major changes to how it handles user data. Users have until September 28 to take action."
 tags: ["ai","Anthropic","Claude","AI training","privacy"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/anthropic-policy-update.jpg"
+categories: ["ai"]
 ---
 
 **Anthropic** is making significant changes to how it handles user data: by **September 28**, all Claude users must decide whether they want their chats included in AI training.

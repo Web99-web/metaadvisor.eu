@@ -7,14 +7,15 @@ translationKey: "7f91caa2103df0eaa8dd9b9171f8a777"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Trader-or-consumer.png"
-featured_image: "/images/Trader-or-consumer.png"
-image: "/images/Trader-or-consumer.png"
-thumbnail: "/images/Trader-or-consumer.png"
+image_url: "/images/Trader-or-consumer.webp"
+featured_image: "/images/Trader-or-consumer.webp"
+image: "/images/Trader-or-consumer.webp"
+thumbnail: "/images/Trader-or-consumer.webp"
 image_alt: "Trader-Mindset vs. Konsument-Mindset"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "cijena", "pad", "btc", "crypto", "ulaganje", "psihologija", "trgovanje", "fomo", "fud", "market", "analiza"]
 summary: "Warum kauft die Mehrheit teuer und verpasst Chancen, wenn es günstig ist? Die Psychologie der Masse erklärt, warum Trader verdienen — und 'Konsumenten' verlieren."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

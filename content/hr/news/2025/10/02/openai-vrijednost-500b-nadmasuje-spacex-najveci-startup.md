@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/openai-largest-startup-500b-valuation-tether-crypto-comparison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/openai.png"
-featured_image: "/images/openai.png"
-image: "/images/openai.png"
-thumbnail: "/images/openai.png"
+image_url: "/images/openai.webp"
+featured_image: "/images/openai.webp"
+image: "/images/openai.webp"
+thumbnail: "/images/openai.webp"
 image_alt: "OpenAI logo — simbolična ilustracija"
 image_credit: "Metaadvisor.eu (simbolična slika)"
 tags:
@@ -27,6 +27,7 @@ tags:
   - generative-ai
   - investors
 summary: "OpenAI navodno doseže procjenu od 500 mlrd. USD, čime po veličini nadmašuje SpaceX i postaje najveći privatni startup. Rast se veže uz ChatGPT/Enterprise prihode, API te generativne AI proizvode."
+categories: ["ai"]
 ---
 
 **OpenAI** je, prema izvješću, dosegnuo **procjenu (valuation) od oko 500 mlrd. USD**, čime bi **nadmašio SpaceX** i postao **najveći privatni startup** globalno. Investitori valuaciju povezuju s **ubrzanim prihodom ChatGPT-a**, rastom **Enterprise ugovora** i širenjem **API** uporabe među developerima i korporacijama.

@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-whale-reveals-3-5k-btc-short-levels-watch-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/while-short-again3500.png"
-featured_image: "/images/while-short-again3500.png"
-image: "/images/while-short-again3500.png"
-thumbnail: "/images/while-short-again3500.png"
+image_url: "/images/while-short-again3500.webp"
+featured_image: "/images/while-short-again3500.webp"
+image: "/images/while-short-again3500.webp"
+thumbnail: "/images/while-short-again3500.webp"
 image_alt: "Symbolic whale — headline graphic: Whale Opens Again New 3,500 BTC Short"
 image_credit: "Slika je simbolična (headline)."
 tags: ["Bitcoin", "BTC", "whale", "short", "Hyperliquid", "leverage", "20x", "likvidacija", "risk management", "STH cost basis", "tehnička analiza", "volatilnost", "kripto tržišta"]
 summary: "Praćeni ‘kit’ ponovno je povećao kratku poziciju na ~3.500 BTC uz 20× leverage. Entry je oko $116,812, a likvidacija ~ $120,990, što ostavlja uzak ‘buffer’ ako cijena krene prema gore."
+categories: ["crypto"]
 ---
 
 **Kratko:** Jedan od najpraćenijih **whale** računa na **Hyperliquidu** ponovno je **otvorio/povećao** kratku poziciju do približno **3.500 BTC**. Prema javno vidljivom screenu, **entry je ~$116,812**, **leverage 20× (cross)**, a **likvidacija oko $120,990** — što znači **uski prostor** do prisilnog zatvaranja ako dođe do naglog skoka cijene.

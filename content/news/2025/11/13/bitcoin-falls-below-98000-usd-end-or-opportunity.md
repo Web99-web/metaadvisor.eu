@@ -14,6 +14,7 @@ image_alt: "Bitcoin crash under 100k"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin","crypto","market","btc","analysis","liquidations"]
 summary: "Bitcoin drops below $98,000 after more than $1.3 billion in futures long-liquidations. Investors ask — is the bull run over or the bargain buy of a lifetime?"
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"

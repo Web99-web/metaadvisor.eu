@@ -11,6 +11,7 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "finance", "stocks"]
 our_take: |
   Our view: Gemini Jumps on Nasdaq Debut, Hitting $4.4 Billion Valuation Gemini debuted on the Nasdaq at a roughly $4.4 billion valuation on Friday, as the crypto exchangeâ€™s shares immediately jumped above their initial offering p… Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
 ---
 
 Gemini Jumps on Nasdaq Debut, Hitting $4.4 Billion Valuation

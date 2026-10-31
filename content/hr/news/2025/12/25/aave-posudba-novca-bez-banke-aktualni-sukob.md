@@ -7,14 +7,15 @@ translationKey: "aave_lending_without_banks_conflict"
 source: "MetaAdvisor analiza"
 source_url: ""
 author: "MetaAdvisor.eu"
-image_url: "/images/AAVE-credits.png"
-featured_image: "/images/AAVE-credits.png"
-image: "/images/AAVE-credits.png"
-thumbnail: "/images/AAVE-credits.png"
+image_url: "/images/AAVE-credits.webp"
+featured_image: "/images/AAVE-credits.webp"
+image: "/images/AAVE-credits.webp"
+thumbnail: "/images/AAVE-credits.webp"
 image_alt: "Aave posudba novca bez banke"
 image_credit: "MetaAdvisor"
 tags: ["aave", "defi", "posudba", "kredit", "kripto", "dao", "blockchain", "financije"]
 summary: "Aave omogućuje posudbu novca bez banaka, bez papira i bez posrednika. Objašnjavamo kako sustav funkcionira, gdje se posudba stvarno odvija i zašto je unutar projekta izbio sukob – bez utjecaja na svakodnevno korištenje platforme."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

@@ -15,6 +15,7 @@ image_alt: "Polymarket prediction markets visual"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["polymarket", "prediction markets", "kalshi", "tokenization", "derivatives", "market-maker", "crypto", "web3", "cftc", "event contracts"]
 summary: "Prediction markets are becoming a new financial phenomenon. We explain how they work, why they are not gambling, why Polymarket was fined $1.4M — and why it is now seen as one of the most innovative projects in crypto."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

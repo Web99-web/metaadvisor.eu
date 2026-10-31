@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: ""
 source_link: false
 author: "Metaadvisor.eu"
-image_url: "/images/DAT-digital-asset-treasuries.png"
-featured_image: "/images/DAT-digital-asset-treasuries.png"
-image: "/images/DAT-digital-asset-treasuries.png"
-thumbnail: "/images/DAT-digital-asset-treasuries.png"
+image_url: "/images/DAT-digital-asset-treasuries.webp"
+featured_image: "/images/DAT-digital-asset-treasuries.webp"
+image: "/images/DAT-digital-asset-treasuries.webp"
+thumbnail: "/images/DAT-digital-asset-treasuries.webp"
 image_alt: "Digital Asset Treasuries (DAT) i tokenizirane dionice — simbolično"
 image_credit: "Metaadvisor.eu (simbolična fotografija)"
 tags:
@@ -40,6 +40,7 @@ tags:
   - usklađenost
   - volatilnost
 summary: "Kad DAT tvrtke tokeniziraju dionice, na kripto trezor dodaje se novi sloj rizika: 24/7 on-chain trgovanje, pravna mapiranja i smart-contract rizici. Donosimo konkretne rizike i dizajnerske mjere."
+categories: ["crypto"]
 ---
 
 **Sažetak**  

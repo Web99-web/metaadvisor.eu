@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Bitcoin", "BTC", "CPI", "inflation", "Federal Reserve", "Fed", "crypto", "cryptocurrency", "interest rates", "US economy"]
 description: "Bitcoin fell below $63,500 even though US inflation in July matched expectations and did not increase pressure on the Federal Reserve for another interest-rate hike."
 summary: "US CPI rose 0.1 percent month-on-month and 3.4 percent year-on-year, exactly as expected. Despite the relatively supportive macro environment, Bitcoin erased its daily gains and put the $63,000 area back under pressure."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

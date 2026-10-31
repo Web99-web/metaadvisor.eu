@@ -7,14 +7,15 @@ translationKey: "0394eaa940075b6cafe734843a81d3ef"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/30/retail-traders-are-running-for-the-exit-amid-bitcoin-s-selloff-while-mega-whales-are-quietly-buying-the-dip"
 author: "Metaadvisor.eu"
-image_url: "/images/Whales-buying-dip.png"
-featured_image: "/images/Whales-buying-dip.png"
-image: "/images/Whales-buying-dip.png"
-thumbnail: "/images/Whales-buying-dip.png"
+image_url: "/images/Whales-buying-dip.webp"
+featured_image: "/images/Whales-buying-dip.webp"
+image: "/images/Whales-buying-dip.webp"
+thumbnail: "/images/Whales-buying-dip.webp"
 image_alt: "Bitcoin kitovi kupuju tijekom pada cijene dok mali kupci prodaju"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "pad trzista", "kripto", "kitovi", "on-chain", "mali-kupci", "panika", "akumulacija", "trziste", "volatilnost"]
 summary: "Nakon što je Bitcoin ponovno pao ispod 77.000 USD, on-chain podaci pokazuju jasan obrazac: mali kupci prodaju u strahu ili zbog potrebe za novcem, dok veliki investitori – tzv. kitovi – koriste pad za akumulaciju."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

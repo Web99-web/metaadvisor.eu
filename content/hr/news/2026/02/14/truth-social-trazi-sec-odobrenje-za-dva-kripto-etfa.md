@@ -7,14 +7,15 @@ translationKey: "eeddbf95978faf9b1c01ffff4ec7d8f3"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/02/13/trump-linked-truth-social-seeks-sec-approval-for-two-crypto-etfs"
 author: "CoinDesk"
-image_url: "/images/Truth-Social-btc-eth-etf.png"
-featured_image: "/images/Truth-Social-btc-eth-etf.png"
-image: "/images/Truth-Social-btc-eth-etf.png"
-thumbnail: "/images/Truth-Social-btc-eth-etf.png"
+image_url: "/images/Truth-Social-btc-eth-etf.webp"
+featured_image: "/images/Truth-Social-btc-eth-etf.webp"
+image: "/images/Truth-Social-btc-eth-etf.webp"
+thumbnail: "/images/Truth-Social-btc-eth-etf.webp"
 image_alt: "Truth Social podnosi zahtjev za Bitcoin i Ether ETF"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["truth social", "kripto", "crypto", "bitcoin", "ethereum", "etf", "staking", "sec", "regulacija", "cro", "cronos", "blockchain", "digitalna imovina"]
 summary: "Tvrtka povezana s brendom Truth Social podnijela je SEC-u zahtjev za dva nova kripto ETF-a, uključujući fond koji bi generirao staking prinos kroz CRO token."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

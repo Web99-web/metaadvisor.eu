@@ -7,14 +7,15 @@ translationKey: "meta-plus-subscriptions-small-creators-account-trust-2026"
 source: "Metaadvisor (TechCrunch, The Verge, MEXC)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.png"
-featured_image: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.png"
-image: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.png"
-thumbnail: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.png"
+image_url: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.webp"
+featured_image: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.webp"
+image: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.webp"
+thumbnail: "/images/Meta/Meta-Facebook-Instagram-Whatsapp-payment.webp"
 image_alt: "Meta uvodi Facebook Plus, Instagram Plus i WhatsApp Plus pretplate za korisnike društvenih mreža"
 image_credit: "Metaadvisor.eu"
 tags: ["meta", "facebook", "instagram", "whatsapp", "pretplate", "facebook plus", "instagram plus", "whatsapp plus", "meta ai", "društvene mreže", "social media", "kreatori", "freelanceri", "mali brendovi", "ai moderacija", "moderacija sadržaja", "digitalna ekonomija", "platforme", "creator economy", "online poslovanje", "reputacijski kredit"]
 summary: "Meta uvodi Facebook Plus, Instagram Plus i WhatsApp Plus pretplate, čime testira koliko su korisnici spremni plaćati dodatne funkcije na društvenim mrežama. No za male brendove, freelancere i dugogodišnje korisnike još je važnije pitanje sigurnosti računa, AI moderacije i reputacijskog kredita."
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*
@@ -50,7 +51,7 @@ Problem je u tome što mnogi korisnici danas nemaju osjećaj da ih velike platfo
 ![Facebook banned users and account restrictions](/images/Meta/Facebook-banned-people-US-Canada-Phillippines-27.03.2026.png)
 
 <p style="text-align:center; margin:24px 0;">
-  <img src="/images/Meta/Facebook-blocks-long-term-profiles.png"
+  <img src="/images/Meta/Facebook-blocks-long-term-profiles.webp"
        alt="Facebook blocks long-term profiles"
        style="max-width:560px; width:100%; height:auto; border-radius:14px;">
 </p>

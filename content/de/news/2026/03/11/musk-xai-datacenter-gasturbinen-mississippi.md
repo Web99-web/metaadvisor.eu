@@ -8,14 +8,15 @@ author: "The Guardian"
 analysis_by: "Metaadvisor.eu"
 source: "The Guardian Tech"
 source_url: ""
-image_url: "/images/news/xai-datacenter-power.png"
-featured_image: "/images/news/xai-datacenter-power.png"
-image: "/images/news/xai-datacenter-power.png"
-thumbnail: "/images/news/xai-datacenter-power.png"
+image_url: "/images/news/xai-datacenter-power.webp"
+featured_image: "/images/news/xai-datacenter-power.webp"
+image: "/images/news/xai-datacenter-power.webp"
+thumbnail: "/images/news/xai-datacenter-power.webp"
 image_alt: "xAI Rechenzentrum Turbinen und KI Infrastruktur"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["ai", "künstliche intelligenz", "xai", "elon musk", "grok", "ai datacenter", "supercomputer", "ai infrastruktur", "energieverbrauch ai", "technologie", "rechenzentren", "ai industrie"]
 summary: "Elon Musks Unternehmen xAI hat die Genehmigung erhalten, 41 Gasturbinen zu betreiben, um sein KI-Rechenzentrum Colossus 2 in Mississippi zu versorgen. Die Entscheidung kommt trotz starken Widerstands von Anwohnern und Umweltorganisationen."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

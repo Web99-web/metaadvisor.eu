@@ -7,14 +7,15 @@ translationKey: "zcash-foundry-mining-pool-2026"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/Zcash-mining-pool.png"
-featured_image: "/images/Zcash-mining-pool.png"
-image: "/images/Zcash-mining-pool.png"
-thumbnail: "/images/Zcash-mining-pool.png"
+image_url: "/images/Zcash-mining-pool.webp"
+featured_image: "/images/Zcash-mining-pool.webp"
+image: "/images/Zcash-mining-pool.webp"
+thumbnail: "/images/Zcash-mining-pool.webp"
 image_alt: "Zcash mining pool i institucionalni kripto rudari"
 tags: ["zcash", "kripto", "mining", "privacy", "blockchain", "zero knowledge", "rudarenje", "institucionalni investitori", "financijska privatnost", "tehnologija"]
 summary: "Foundry Digital najavio je pokretanje institucionalnog Zcash mining poola u travnju 2026., što bi moglo označiti novu fazu razvoja privacy-focused kriptovaluta i njihov ulazak u institucionalni sektor."
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

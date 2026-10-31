@@ -6,15 +6,16 @@ category: "technology"
 translationKey: "wildfires-ai-why-are-we-still-losing-2026-08-17"
 source: "Reuters, NASA, NIST, DVD Trogir"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Fire-firefighters-AI-help.png"
-featured_image: "/images/news/Fire-firefighters-AI-help.png"
-image: "/images/news/Fire-firefighters-AI-help.png"
-thumbnail: "/images/news/Fire-firefighters-AI-help.png"
+image_url: "/images/news/Fire-firefighters-AI-help.webp"
+featured_image: "/images/news/Fire-firefighters-AI-help.webp"
+image: "/images/news/Fire-firefighters-AI-help.webp"
+thumbnail: "/images/news/Fire-firefighters-AI-help.webp"
 image_alt: "Waldbrände, Feuerwehrleute, Drohnen und künstliche Intelligenz im Kampf gegen sich schnell ausbreitende Feuer"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Waldbrände", "Vegetationsbrände", "KI", "künstliche Intelligenz", "Feuerwehr", "Feuerwehrdrohnen", "Feuerwehrroboter", "NASA", "Technologie", "Brandbekämpfung"]
 description: "Europa, Kanada und die USA kämpfen erneut gegen enorme Waldbrände. Wir haben KI, Drohnen und autonome Maschinen – doch Menschen werden weiterhin direkt in die Nähe der Flammen geschickt. Warum?"
 summary: "Von Belgien, Griechenland und Spanien bis Kanada, die USA und Kroatien zeigen große Waldbrände erneut, wie schnell menschliche Einsatzkräfte an physische Grenzen stoßen. Können KI, Drohnen und autonome Maschinen die Brandbekämpfung grundlegend verändern?"
+categories: ["technology"]
 ---
 
 *Bild ist symbolisch.*

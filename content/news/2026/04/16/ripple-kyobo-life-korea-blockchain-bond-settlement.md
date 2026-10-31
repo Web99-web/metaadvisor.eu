@@ -15,6 +15,7 @@ image_alt: "Ripple and Kyobo Life blockchain bonds Korea"
 image_credit: "Metaadvisor.eu"
 tags: ["ripple", "xrp", "kyobo life", "korea", "blockchain", "bonds", "tokenization", "crypto", "finance", "dlt", "institutions"]
 summary: "Ripple and Kyobo Life in South Korea are launching a pilot project for blockchain-based government bond settlement, potentially speeding up financial processes and reducing costs across the global system."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

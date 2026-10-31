@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "ethereum", "eth", "solana", "sol", "finance", "stocks"]
 our_take: |
   Unser Fazit: SOL kletterte am Freitag über 239 $ und setzte die kräftigen September-Gewinne fort; Mike Novogratz nennt Solana „maßgeschneidert“ für globale Finanzmärkte, während Analyst Ali Martinez ein Ziel um 1.314 $ skizziert. Im Blick: Liquidität, Makro (Zinsen/USD) und Regulierung. Selektiv bleiben; nur High-Conviction-Positionen ausbauen.
+categories: ["news"]
 ---
 
 Solanas Token SOL stieg am Freitag über 239 US-Dollar und verlängerte damit die kräftigen September-Zuwächse, nachdem Galaxy-Digital-CEO Mike Novogratz die Blockchain als „maßgeschneidert“ für die globalen Finanzmärkte bezeichnete und Analyst Ali Martinez einen möglichen Pfad bis 1.314 $ skizzierte.

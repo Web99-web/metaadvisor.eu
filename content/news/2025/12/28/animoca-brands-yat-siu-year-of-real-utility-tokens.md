@@ -7,14 +7,15 @@ translationKey: "animoca_yat_siu_utility_tokens_2026"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/"
 author: "Metaadvisor.eu"
-image_url: "/images/Animoca-brands-Yat-Siu.png"
-featured_image: "/images/Animoca-brands-Yat-Siu.png"
-image: "/images/Animoca-brands-Yat-Siu.png"
-thumbnail: "/images/Animoca-brands-Yat-Siu.png"
+image_url: "/images/Animoca-brands-Yat-Siu.webp"
+featured_image: "/images/Animoca-brands-Yat-Siu.webp"
+image: "/images/Animoca-brands-Yat-Siu.webp"
+thumbnail: "/images/Animoca-brands-Yat-Siu.webp"
 image_alt: "Animoca Brands and Yat Siu on the future of utility tokens in crypto"
 image_credit: "Animoca Brands / public promotional materials"
 tags: ["crypto", "bitcoin", "altcoins", "utility tokens", "web3", "gaming", "nft", "blockchain", "yat siu", "animoca brands", "investing", "markets"]
 summary: "Animoca Brands and co-founder Yat Siu explain why crypto must move beyond speculation and why they see 2026 as a turning point for tokens with real-world utility."
+categories: ["crypto"]
 ---
 
 <div class="cta">

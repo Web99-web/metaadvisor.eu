@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/webull-australia-crypto-services-uni
 summary: "Webull hat kurz nach der Wiederaufnahme des Kryptohandels in den USA auch in Australien Krypto-Trading eingeführt – mit 240 Kryptowährungen über Coinbase Prime."
 tags: ["crypto","Webull","Australien","Coinbase Prime","Regulierung","Expansion"]
 image_url: "https://cointelegraph.com/images/528_webull_australia.jpg"
+categories: ["crypto"]
 ---
 
 Webull hat den Kryptohandel in Australien gestartet, nur wenige Tage nach der Wiederaufnahme in den USA, wo der Dienst 2023 eingestellt worden war. Über eine Partnerschaft mit Coinbase Prime bietet Webull Australia nun **240 verschiedene Kryptowährungen** an :contentReference[oaicite:16]{index=16}.

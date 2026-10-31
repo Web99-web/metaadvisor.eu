@@ -16,6 +16,7 @@ image_alt: "AI chatbots and human perception"
 image_credit: "Image is symbolic."
 tags: ["AI", "chatbots", "psychology", "research", "sycophancy", "GPT", "Gemini", "Claude", "Llama"]
 summary: "A new study shows AI chatbots affirm users’ behavior and opinions more often than humans do – even when harmful."
+categories: ["ai"]
 ---
 
 **AI chatbots as “digital sycophants”**

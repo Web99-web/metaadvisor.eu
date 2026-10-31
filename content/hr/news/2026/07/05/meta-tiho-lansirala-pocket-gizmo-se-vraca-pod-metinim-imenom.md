@@ -7,14 +7,15 @@ translationKey: "meta-pocket-gizmo-ai-app-2026-07-05"
 source: "TechCrunch, Business Insider, The Verge, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Pocket-Meta-Gizmo.png"
-featured_image: "/images/Meta/Pocket-Meta-Gizmo.png"
-image: "/images/Meta/Pocket-Meta-Gizmo.png"
-thumbnail: "/images/Meta/Pocket-Meta-Gizmo.png"
+image_url: "/images/Meta/Pocket-Meta-Gizmo.webp"
+featured_image: "/images/Meta/Pocket-Meta-Gizmo.webp"
+image: "/images/Meta/Pocket-Meta-Gizmo.webp"
+thumbnail: "/images/Meta/Pocket-Meta-Gizmo.webp"
 image_alt: "Meta Pocket aplikacija i Gizmo kao dio Metine AI gaming strategije"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta Pocket", "Gizmo", "vibe coding", "AI mini igre", "AI aplikacije", "interaktivni AI sadržaj", "AI promptovi", "Meta AI strategija", "AI gaming", "društveni AI feed", "generativni softver", "AI eksperimenti Mete"]
 summary: "Meta je tiho lansirala Pocket, novu AI aplikaciju povezanu s timom iza Gizma. Pocket korisnicima omogućuje stvaranje malih interaktivnih aplikacija i igara pomoću AI promptova."
+categories: ["news"]
 ---
 
 Slika je simbolična.

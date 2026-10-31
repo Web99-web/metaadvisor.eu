@@ -7,10 +7,10 @@ translationKey: "clarity_act_banks_vs_stablecoins_20260116"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Clarity-act.png"
-featured_image: "/images/Clarity-act.png"
-image: "/images/Clarity-act.png"
-thumbnail: "/images/Clarity-act.png"
+image_url: "/images/Clarity-act.webp"
+featured_image: "/images/Clarity-act.webp"
+image: "/images/Clarity-act.webp"
+thumbnail: "/images/Clarity-act.webp"
 image_alt: "Clarity Act i sukob banaka i stablecoina oko kamata i depozita"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Dok Clarity Act pokušava povući jasnu liniju između banaka i stablecoina, u sjeni rasprave ostaje ključno pitanje: zašto su kripto ulagači u stečajevima poput FTX-a i Celsiusa isplaćeni u dolarima, bez ikakve veze s kasnijim rastom tržišta?"
@@ -22,6 +22,7 @@ tags:
   - ftx
   - celsius
   - bankruptcy
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

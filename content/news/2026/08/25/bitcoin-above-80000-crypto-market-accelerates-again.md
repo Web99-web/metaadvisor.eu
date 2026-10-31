@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "crypto market", "Bitcoin price", "Solana", "SOL", "Ethereum", "ETH", "Zcash", "ZEC", "Hyperliquid", "HYPE", "Dogecoin", "DOGE", "Stellar", "XLM", "Chainlink", "LINK", "Injective", "INJ", "Aave", "AAVE", "Sui", "SUI", "THORChain", "RUNE", "Strategy", "MSTR", "altcoins", "Market Focus"]
 description: "Bitcoin has climbed back above $80,000 as the rally spreads across the wider crypto market. Solana is above $100, ZEC remains above $850, while HYPE, XLM, LINK, AAVE, SUI and RUNE are also gaining."
 summary: "Bitcoin has returned above $80,000 for the first time since May, but the rally is no longer limited to BTC. Solana is back above $100, Zcash is holding above $850, HYPE is around $80, while the recovery is also visible in XLM, DOGE, LINK, INJ, AAVE, SUI and RUNE."
+categories: ["Crypto"]
 ---
 
 # Bitcoin back above $80,000

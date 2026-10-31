@@ -8,14 +8,15 @@ author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/news/Pudgy-Penguins-game-launched.png"
-featured_image: "/images/news/Pudgy-Penguins-game-launched.png"
-image: "/images/news/Pudgy-Penguins-game-launched.png"
-thumbnail: "/images/news/Pudgy-Penguins-game-launched.png"
+image_url: "/images/news/Pudgy-Penguins-game-launched.webp"
+featured_image: "/images/news/Pudgy-Penguins-game-launched.webp"
+image: "/images/news/Pudgy-Penguins-game-launched.webp"
+thumbnail: "/images/news/Pudgy-Penguins-game-launched.webp"
 image_alt: "Pudgy Penguins Spiel und Web3 Gaming Welt"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["crypto","web3","pudgy penguins","nft","web3 gaming","blockchain gaming","crypto spiele","digitale collectibles","gaming industrie"]
 summary: "Das NFT-Projekt Pudgy Penguins hat das Browser-Spiel Pudgy World gestartet, das bewusst wie ein normales Spiel gestaltet ist – ohne sichtbare Krypto-Elemente. Ziel ist es, ein breiteres Publikum zu erreichen und zu zeigen, wie Web3-Gaming ohne komplexe Blockchain-Strukturen aussehen kann."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

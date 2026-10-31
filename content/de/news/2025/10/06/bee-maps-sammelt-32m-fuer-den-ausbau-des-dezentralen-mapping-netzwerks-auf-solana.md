@@ -16,6 +16,7 @@ image_alt: "Bee Maps — dezentrales Mapping auf Solana"
 image_credit: "Metaadvisor.eu — symbolisches Bild"
 tags: ["crypto", "Solana", "DePIN", "BeeMaps", "Hivemapper", "HONEY", "AI", "Mapping", "Robotaxi", "Lyft", "Volkswagen", "Tokenisierung", "Hardware", "Dash-Cam", "Infrastruktur", "Fundraising", "Pantera", "Borderless", "Ajna", "LDA-Capital"]
 summary: "Bee Maps, eine App im Hivemapper-Netzwerk (DePIN auf Solana), sammelt $32M für Geräte-Rollout, AI-Pipeline und Contributor-Incentives. Ziel: schnellere, günstigere und aktuellere Karten, belohnt in $HONEY."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

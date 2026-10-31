@@ -7,15 +7,16 @@ translationKey: "jeff-bezos-cuspai-britanska-vlada-novi-materijali-2026-07-21"
 source: "The Guardian, CuspAI und die britische Regierung"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/CuspAI-british-new-materials.png"
-featured_image: "/images/AI-general/CuspAI-british-new-materials.png"
-image: "/images/AI-general/CuspAI-british-new-materials.png"
-thumbnail: "/images/AI-general/CuspAI-british-new-materials.png"
+image_url: "/images/AI-general/CuspAI-british-new-materials.webp"
+featured_image: "/images/AI-general/CuspAI-british-new-materials.webp"
+image: "/images/AI-general/CuspAI-british-new-materials.webp"
+thumbnail: "/images/AI-general/CuspAI-british-new-materials.webp"
 image_alt: "CuspAI nutzt künstliche Intelligenz zur Entwicklung neuer Materialien für Chips, Batterien und den Energiesektor"
 image_credit: "Metaadvisor.eu"
 tags: ["CuspAI", "Jeff Bezos", "britische Regierung", "künstliche Intelligenz", "KI", "neue Materialien", "Chips", "Batterien", "Nvidia", "Meta", "Hyundai", "Cambridge"]
 description: "Jeff Bezos und die britische Regierung investieren in CuspAI, ein mit 2,6 Milliarden Dollar bewertetes Startup, das KI zur Entdeckung neuer Materialien nutzt."
 summary: "CuspAI will mit künstlicher Intelligenz die Entwicklung neuer Materialien für Chips, Batterien und den Energiesektor beschleunigen und die Abhängigkeit von seltenen Metallen verringern."
+categories: ["ai"]
 ---
 
 # Jeff Bezos investiert in CuspAI im Wert von 2,6 Milliarden

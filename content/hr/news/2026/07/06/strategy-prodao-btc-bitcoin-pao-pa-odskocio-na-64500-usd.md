@@ -15,6 +15,7 @@ image_alt: "Bitcoin BTC nakon kratkog pada i oporavka prema 64.500 dolara"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Strategy", "Michael Saylor", "BTC prodaja", "Bitcoin cijena", "crypto tržište", "BTC volatilnost", "Bitcoin oporavak", "MSTR", "crypto sentiment"]
 summary: "Bitcoin je kratko pao prema 61.000 dolara nakon vijesti da je Strategy prodao dio svojih BTC zaliha, ali se zatim oporavio prema 64.500 dolara. Priča sada nije samo o prodaji, nego o tome koliko je tržište brzo apsorbiralo šok."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

@@ -9,6 +9,7 @@ summary: "ETH trguje blizu rekordnih razina, a Tom Lee predviđa 15.000 $ do kra
 tags: ["ethereum","eth","exposure","staking","etf","sec","custody","defi","rwa","tokenization","fundstrat","tom-lee","bitmine","bmnr","treasury"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/2705207ecd0a8c9828b9cd6c5f5a0985a610992a-6048x4024.jpg?auto=format"
 image_alt: "Zlatni ether kovanice – simbol ulaganja u ETH"
+categories: ["crypto"]
 ---
 
 Ether (ETH) trguje blizu povijesnih vrhova, a bikovske prognoze – poput Leejeva cilja 15.000 $ do kraja 2025. – stavljaju fokus na to **kako** najpametnije ostvariti izloženost prema ETH.

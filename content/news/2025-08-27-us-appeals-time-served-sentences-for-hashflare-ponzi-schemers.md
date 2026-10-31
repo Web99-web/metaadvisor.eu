@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/us-appeals-sentences-hashflare-cofou
 summary: "U.S. prosecutors appeal a 'time-served' sentence for HashFlare co-founders, arguing a 10-year prison term is warranted for the $577M crypto Ponzi."
 tags: ["news","crypto","fraud","Ponzi","HashFlare","justice"]
 image_url: "https://images.cointelegraph.com/images/528_hashflare.jpg"
+categories: ["news"]
 ---
 
 U.S. prosecutors have filed an appeal against the "time-served" sentences handed to HashFlare co-founders Sergei Potapenko and Ivan Turõgin. The Seattle Federal Court, addressing one of the most extensive crypto fraud cases in recent history — a $577 million Ponzi scheme — originally sentenced them to time served, a $25,000 fine, and 360 hours of supervised community service, to likely be served in Estonia :contentReference[oaicite:28]{index=28}.

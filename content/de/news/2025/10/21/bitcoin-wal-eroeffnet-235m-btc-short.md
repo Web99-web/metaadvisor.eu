@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/11b-bitcoin-whale-235m-btc-short-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/whale-235m-short.png"
-featured_image: "/images/whale-235m-short.png"
-image: "/images/whale-235m-short.png"
-thumbnail: "/images/whale-235m-short.png"
+image_url: "/images/whale-235m-short.webp"
+featured_image: "/images/whale-235m-short.webp"
+image: "/images/whale-235m-short.webp"
+thumbnail: "/images/whale-235m-short.webp"
 image_alt: "Bitcoin whale — $235M short, symbolische Illustration"
 image_credit: "Symbolbild."
 tags: ["bitcoin", "btc", "krypto", "perpetuals", "short", "hebel", "derivate", "coinglass", "marktcrash", "liquidationen", "funding", "open interest"]
 summary: "Ein großer Marktteilnehmer eröffnete eine Short-Position auf Bitcoin im Nominalwert von rund $235 Mio. Laut Marktdaten wurde sie um ~$111.190 pro BTC mit ~10× Hebel eröffnet."
+categories: ["crypto"]
 ---
 
 Ein großer Krypto-Akteur, ein sogenannter **Wal**, hat eine **Short-Position** auf **Bitcoin** im **Nominalwert von ca. $235 Mio.** eröffnet. Laut verfügbaren Marktdaten wurde der Short **um ~$111.190 pro BTC** und mit rund **10× Hebel** aufgebaut. Zuvor hatte derselbe Akteur im jüngsten Marktrückgang angeblich **~$200 Mio. Gewinn** realisiert. Der neue Trade deutet auf die Erwartung **weiterer Schwäche** oder zumindest eines **Retests** tieferer Niveaus hin.

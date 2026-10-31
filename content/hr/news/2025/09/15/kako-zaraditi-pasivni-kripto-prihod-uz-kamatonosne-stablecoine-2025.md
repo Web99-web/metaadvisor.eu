@@ -10,6 +10,7 @@ image_url: "/images/btc1 (2).jpg"
 image_alt: "Stablecoini i pasivan prihod"
 tags: ["stablecoin","pasivan-prihod","defi","porezi","regulativa"]
 summary: "Kamatonosni stablecoini u 2025. nude pasivan prihod na lancu, ali uz jasne regulatorne, porezne i operativne rizike: od modela prinosa (riznica/DeFi/sintetika) do ograničenja pristupa u SAD-u i EU."
+categories: ["crypto"]
 ---
 
 **Ključne točke (po Cointelegraphu)**  

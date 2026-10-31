@@ -7,15 +7,16 @@ translationKey: "sora-shutdown-europe-never-arrived-2026"
 author: "Metaadvisor.eu"
 source: "Reuters / The Guardian / Business Insider"
 source_url: ""
-image_url: "/images/ai-deepfake.png"
-featured_image: "/images/ai-deepfake.png"
-image: "/images/ai-deepfake.png"
-thumbnail: "/images/ai-deepfake.png"
+image_url: "/images/ai-deepfake.webp"
+featured_image: "/images/ai-deepfake.webp"
+image: "/images/ai-deepfake.webp"
+thumbnail: "/images/ai-deepfake.webp"
 image_alt: "AI deepfake video generacija i Sora alat"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["ai", "sora", "openai", "deepfake", "video ai", "umjetna inteligencija", "regulacija", "eu", "gdpr", "ai alati"]
 summary: "OpenAI gasi Soru, AI alat za generiranje videa koji nikada nije stigao do Europe, unatoč velikom interesu korisnika."
 symbolic_image: true
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

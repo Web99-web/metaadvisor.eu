@@ -29,6 +29,7 @@ tags:
   - tokenisierung
   - regulation
 summary: "HashKey in Hongkong startet einen Fonds über 500 Mio. $ und setzt auf DAT-Modelle (Digital Asset Treasury) – strukturierte BTC/ETH-Treasuries mit Risikoregeln, Liquiditätspuffern und Hedging. Zielgruppe: Unternehmen, DAOs und Fonds."
+categories: ["crypto"]
 ---
 
 **Kurz:** **HashKey** in Hongkong baut einen **500-Millionen-Dollar-Fonds** auf, um **DAT-Konzepte** (*Digital Asset Treasury*) zu entwickeln: **strukturierte BTC-/ETH-Treasuries** mit klaren Regeln für **Risiko, Liquidität und Renditequellen**. Ziel ist es, **digitale Assets** an die Standards von **Corporate Treasuries** heranzuführen.

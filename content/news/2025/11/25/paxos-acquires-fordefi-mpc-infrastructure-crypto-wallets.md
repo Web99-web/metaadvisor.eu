@@ -15,6 +15,7 @@ image_alt: "Paxos acquires Fordefi"
 image_credit: "MetaAdvisor / AI-generated"
 tags: ["crypto", "cryptocurrency", "blockchain", "paxos", "fordefi", "mpc", "security", "tokenization", "stablecoins", "defi", "institutional"]
 summary: "Paxos has acquired Fordefi, integrating its institutional MPC wallet technology to strengthen the regulated infrastructure for stablecoins, tokenization, and onchain operations."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

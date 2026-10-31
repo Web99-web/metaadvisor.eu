@@ -15,6 +15,7 @@ image_alt: "Fidelity Digital Assets und die Integration von Krypto in die Wall S
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Fidelity Digital Assets betont, dass die nächste Wachstumsphase des Kryptomarktes nicht durch neue Token, sondern durch eine tiefe Integration mit der Wall Street entsteht. ETFs, Verwahrung und regulatorische Infrastruktur rücken in den Vordergrund."
 tags: ["fidelity","wall-street","institutionelle-investoren","krypto","bitcoin","etf","verwahrung","finanzinfrastruktur","regulierung"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

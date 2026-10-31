@@ -16,6 +16,7 @@ image_alt: "Illustration der Tokenisierung des Immobilienwerts"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["tokenisierung", "immobilien", "equity", "home equity", "crypto", "blockchain", "real world assets", "RWA", "fintech"]
 summary: "Der US-Konzern Bed Bath & Beyond steigt über die Übernahme von Tokens.com in die Tokenisierung von Immobilien ein. Dabei geht es nicht darum, Häuser in Kryptowährungen zu verwandeln, sondern um die Digitalisierung von Eigenkapital (Equity) – einem Finanzinstrument, das in den USA üblich ist, in großen Teilen Europas jedoch kaum existiert."
+categories: ["crypto"]
 ---
 
 

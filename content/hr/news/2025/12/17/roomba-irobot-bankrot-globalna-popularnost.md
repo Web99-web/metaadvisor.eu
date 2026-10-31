@@ -7,14 +7,15 @@ translationKey: "roomba_irobot_bankrot_17122025"
 source: "Reuters, The Guardian, Wikipedia"
 source_url: "https://www.reuters.com / https://www.theguardian.com / https://en.wikipedia.org"
 author: "MetaAdvisor.eu"
-image_url: "/images/Irobot-Roomba.png"
-featured_image: "/images/Irobot-Roomba.png"
-image: "/images/Irobot-Roomba.png"
-thumbnail: "/images/Irobot-Roomba.png"
+image_url: "/images/Irobot-Roomba.webp"
+featured_image: "/images/Irobot-Roomba.webp"
+image: "/images/Irobot-Roomba.webp"
+thumbnail: "/images/Irobot-Roomba.webp"
 image_alt: "Robotski usisavač Roomba u čistoj modernoj sobi"
 image_credit: "Ilustracija / simbolična slika"
 tags: ["roomba", "irobot", "robotski usisavači", "tehnologija", "automatizacija", "pametni dom", "ai", "robotika", "amazon", "eu regulacija"]
 summary: "Roomba je prije više od 20 godina popularizirala robotske usisavače, ali njezin proizvođač iRobot bankrotirao je tek u trenutku kada su takvi uređaji postali masovno prihvaćeni. Kako je pionir robotike izgubio bitku s konkurencijom i regulatorima?"
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

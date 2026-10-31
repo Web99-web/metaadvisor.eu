@@ -15,6 +15,7 @@ image_alt: "Bluesky App und verbesserte Fotoqualität"
 image_credit: "Metaadvisor / Illustration"
 tags: ["tech","technologie","bluesky","soziale netzwerke","fotos","apps","social media","innovation"]
 summary: "Bluesky verbessert die Qualität von Fotos und führt neue Darstellungsoptionen ein, um mit Plattformen wie X und Threads konkurrieren zu können."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

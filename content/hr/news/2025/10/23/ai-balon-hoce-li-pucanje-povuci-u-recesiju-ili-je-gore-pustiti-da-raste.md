@@ -15,6 +15,7 @@ image_alt: "Simboličan prikaz financijskog balona iznad grafova tržišta"
 image_credit: "Slika je simbolična."
 tags: ["ai","umjetna inteligencija","balon","mjehur","ekonomija","recesija","tržište","burza","dionice","kapital","CAPEX","nezaposlenost","otkazi","stanovanje","hipoteke","nenaplata","bankroti","SAD","EU","potrošnja","kamatne stope","produktivan rast","big tech","GPU","podatkovni centri","ETF","obveznice"]
 summary: "AI boom održava burze i BDP, ali prikriva rastuće slabosti: usporavanje plaća, rast nenaplata, pad povjerenja i ovisnost o uskom tehnološkom sektoru. Pitanje nije hoće li biti bolno, nego kada i koliko."
+categories: ["ai"]
 ---
 
 Umjetna inteligencija (AI — *artificial intelligence / umjetna inteligencija*) postala je glavni motor rasta. Val ulaganja u podatkovne centre, GPU klastere i modele gura burze prema gore i održava potrošnju kroz tzv. “wealth effect”. No ispod površine gomilaju se pukotine: rast zaposlenosti je slab, realne plaće usporavaju, nenaplata kredita raste, a povjerenje potrošača klizi nadolje. Politički faktori (trgovinski ratovi, restrikcije migracije, dugotrajni shutdown) dodatno stišću ponudu rada i lance nabave.

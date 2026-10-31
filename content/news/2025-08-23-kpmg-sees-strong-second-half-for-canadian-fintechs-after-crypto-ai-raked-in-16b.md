@@ -9,6 +9,7 @@ summary: "Despite a global investment slowdown, Canadian investors are likely to
 tags: ["kpmg","canada","fintech","blockchain","ai","funding","venture-capital","startups","crypto","regulation"]
 image_url: "https://images.unsplash.com/photo-1505764706515-aa95265c5abc?auto=format&fit=crop&w=1280&q=80"
 image_alt: "Toronto skyline — a stand-in for Canada’s fintech scene"
+categories: ["crypto"]
 ---
 
 Canadian fintechs raised $1.62 billion in H1 2025, with digital-asset and AI startups taking the lion’s share, according to KPMG Canada’s *Pulse of Fintech*.

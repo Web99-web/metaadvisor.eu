@@ -7,14 +7,15 @@ translationKey: "radiant_nuclear_mali_reaktori_17122025"
 source: "TechCrunch, MetaAdvisor analysis"
 source_url: "https://techcrunch.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/Radiant-nuclear.png"
-featured_image: "/images/Radiant-nuclear.png"
-image: "/images/Radiant-nuclear.png"
-thumbnail: "/images/Radiant-nuclear.png"
+image_url: "/images/Radiant-nuclear.webp"
+featured_image: "/images/Radiant-nuclear.webp"
+image: "/images/Radiant-nuclear.webp"
+thumbnail: "/images/Radiant-nuclear.webp"
 image_alt: "Radiant Nuclear – small modular nuclear reactor for energy infrastructure"
 image_credit: "Illustration / symbolic image"
 tags: ["radiant nuclear", "nuclear energy", "small reactors", "energy infrastructure", "ai infrastructure", "data centers", "technology", "low-carbon energy"]
 summary: "US startup Radiant Nuclear is developing small modular nuclear reactors to meet the rising energy demand of AI, data centers, and critical infrastructure."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

@@ -15,6 +15,7 @@ image_alt: "Bitcoin pad ispod 100k"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "tržište", "analiza", "fear-and-greed", "negative-skew", "nasdaq", "volatilnost", "likvidacije"]
 summary: "Bitcoin pada u zonu 'ekstremnog straha' dok se spot cijena kreće između 93.9k i 95.9k USD. No performance skew pokazuje razine posljednji put viđene na dnu bear marketa 2022. — što bi moglo signalizirati približavanje dna."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

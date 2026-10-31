@@ -24,6 +24,7 @@ tags:
   - data breach
   - data security
 summary: "Ransomware attacks have evolved into professional business operations. Behind the scenes, negotiators, forensic experts and crisis teams make decisions within minutes that often determine whether a company survives or collapses."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

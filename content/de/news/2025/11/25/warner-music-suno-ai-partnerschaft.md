@@ -15,6 +15,7 @@ image_alt: "Warner Music und Suno KI-Partnerschaft"
 image_credit: "MetaAdvisor / KI-generiert"
 tags: ["ki", "musik", "warner", "suno", "urheberrecht", "technologie", "ai-musik", "innovationen"]
 summary: "Warner Music Group und Suno haben einen historischen KI-Musikvertrag geschlossen, der einen Rechtsstreit beendet und den Weg für lizenzierte KI-Modelle und neue Fan-Erlebnisse ebnet."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

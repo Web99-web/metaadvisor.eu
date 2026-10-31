@@ -7,14 +7,15 @@ translationKey: "7f90d7d3c0a84d3db2b7c1f9aa1148bc"
 source: "Metaadvisor (OpenAI, npm, Reddit, GitHub)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/OpenAI-Codex.png"
-featured_image: "/images/AI-general/OpenAI-Codex.png"
-image: "/images/AI-general/OpenAI-Codex.png"
-thumbnail: "/images/AI-general/OpenAI-Codex.png"
+image_url: "/images/AI-general/OpenAI-Codex.webp"
+featured_image: "/images/AI-general/OpenAI-Codex.webp"
+image: "/images/AI-general/OpenAI-Codex.webp"
+thumbnail: "/images/AI-general/OpenAI-Codex.webp"
 image_alt: "OpenAI Codex i eksplozija AI coding agenata"
 image_credit: "Metaadvisor.eu"
 tags: ["openai", "codex", "ai", "artificial intelligence", "coding ai", "ai agents", "developers", "github", "npm", "chatgpt", "software development", "devops", "automation", "cursor", "claude code", "programming"]
 summary: "Broj instalacija OpenAI Codexa posljednjih dana eksplodirao je na društvenim mrežama i developerskim forumima. AI coding agenti sve više ulaze direktno u development workflow i mogli bi označiti početak potpuno nove faze razvoja softvera."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

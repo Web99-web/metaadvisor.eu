@@ -5,10 +5,10 @@ date: 2025-09-28T15:50:00Z
 category: "crypto"
 translationKey: "celsius-usd-vs-btc"
 author: "Metaadvisor.eu"
-image_url: "/images/Celsius.png"
-featured_image: "/images/Celsius.png"
-image: "/images/Celsius.png"
-thumbnail: "/images/Celsius.png"
+image_url: "/images/Celsius.webp"
+featured_image: "/images/Celsius.webp"
+image: "/images/Celsius.webp"
+thumbnail: "/images/Celsius.webp"
 image_alt: "Celsius Bankruptcy (symbolic)"
 image_credit: "Metaadvisor.eu"
 
@@ -32,6 +32,7 @@ tags:
   - analysis
 
 summary: "Celsius froze withdrawals on 2022-06-12 and filed Chapter 11 on 2022-07-13. Despite mining BTC, payouts used USD accounting at the petition date. Distributions began in 2024, many delayed by Coinbase onboarding — so 70% did not mean 70% BTC."
+categories: ["crypto"]
 ---
 
 ## Introduction: when “saving in BTC” turns into a fiat illusion

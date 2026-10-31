@@ -8,10 +8,10 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/23/goodnotes-collaborative-docs-and-ai-assitant-to-cater-to-professional-users/"
 author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/goodnotes-ai.png"
-featured_image: "/images/goodnotes-ai.png"
-image: "/images/goodnotes-ai.png"
-thumbnail: "/images/goodnotes-ai.png"
+image_url: "/images/goodnotes-ai.webp"
+featured_image: "/images/goodnotes-ai.webp"
+image: "/images/goodnotes-ai.webp"
+thumbnail: "/images/goodnotes-ai.webp"
 image_alt: "Goodnotes + AI – kolaboracija i produktivnost"
 image_credit: "Metaadvisor.eu (generirana grafika)"
 tags:
@@ -28,6 +28,7 @@ tags:
   - edtech
   - prosumers
 summary: "Goodnotes, poznat po bilješkama za obrazovanje, lansira kolaborativni whiteboard, izradu dokumenata i AI asistenta — ciljajući profesionalne korisnike koji traže timski rad, sažetke sastanaka i generiranje vizuala."
+categories: ["ai"]
 ---
 
 **Kratko:** **Goodnotes** — aplikacija za vođenje bilješki koja je snažno prisutna u učionicama — širi ambiciju prema **profesionalnim korisnicima**. Novi paket donosi **kolaborativni whiteboard**, **izradu dokumenata** (tekst, slike, GIF-ovi, tablice) te **AI asistenta** koji pomaže sažeti sastanke, izraditi vizuale (grafove, dijagrame), lektorirati tekst i predložiti **predloške** (templates) za dokumente i bilješke.

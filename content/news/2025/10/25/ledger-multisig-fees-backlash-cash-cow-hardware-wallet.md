@@ -16,6 +16,7 @@ image_alt: "Ledger hardware wallet and multisig concept"
 image_credit: "Illustration is symbolic."
 tags: ["Ledger", "hardware wallet", "multisig", "fees", "self-custody", "security", "crypto", "bitcoin", "ethereum", "wallet", "crypto security"]
 summary: "Ledger unveiled a new multisig interface, sparking community backlash over a “cash cow” fee model. Here’s the context, what multisig means and why users are pushing back."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

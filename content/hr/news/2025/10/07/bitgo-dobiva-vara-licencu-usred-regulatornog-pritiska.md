@@ -28,6 +28,7 @@ tags:
   - licensing
   - risk
 summary: "BitGo je osigurao licencu dubajske VARA agencije. To učvršćuje njegov status institucionalnog skrbnika kripta uz strože zahtjeve za usklađenost i sigurnost u UAE."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

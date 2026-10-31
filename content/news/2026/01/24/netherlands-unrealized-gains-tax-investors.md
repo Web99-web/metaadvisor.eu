@@ -3,18 +3,19 @@ title: "The Netherlands and the unrealized gains tax: Why should investors pay t
 slug: "netherlands-unrealized-gains-tax-investors"
 date: 2026-01-24T18:00:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-01-24"
 source: "Cointelegraph / local media"
 source_url: "https://cointelegraph.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Netherlands-tax.png"
-featured_image: "/images/Netherlands-tax.png"
-image: "/images/Netherlands-tax.png"
-thumbnail: "/images/Netherlands-tax.png"
+image_url: "/images/Netherlands-tax.webp"
+featured_image: "/images/Netherlands-tax.webp"
+image: "/images/Netherlands-tax.webp"
+thumbnail: "/images/Netherlands-tax.webp"
 image_alt: "Illustration of unrealized gains taxation in the Netherlands"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "The Netherlands is debating a tax on unrealized gains, meaning investors would pay tax on asset value increases without selling. Critics warn this approach punishes saving, shifts all risk to citizens, and encourages capital flight."
 tags: ["netherlands", "tax", "unrealized gains", "capital gains", "investors", "saving", "crypto", "stocks", "volatility", "tax policy"]
+categories: ["crypto"]
 ---
 
 *(The image is symbolic.)*

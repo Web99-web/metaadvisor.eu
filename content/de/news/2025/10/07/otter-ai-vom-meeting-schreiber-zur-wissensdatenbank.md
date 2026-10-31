@@ -36,6 +36,7 @@ tags:
   - compliance
   - eu
 summary: "Otter.ai stellt ein Enterprise-Paket vor, das Meeting-Inhalte in eine zentrale Wissensbasis überführt – mit API-Integrationen, MCP-Bridge und einem AI-Agenten für semantische Suche."
+categories: ["ai"]
 ---
 
 **Überblick.** Otter.ai will nicht länger nur „Mitschreiben“. Das neue Enterprise-Paket zielt darauf ab, Gesprächsdaten aus Meetings – Transkripte, Notizen, Folien, Action Items – in eine **durchsuchbare, verknüpfte und teilbare** **Wissensdatenbank** zu verwandeln, die mit bestehenden Tools mitwächst.

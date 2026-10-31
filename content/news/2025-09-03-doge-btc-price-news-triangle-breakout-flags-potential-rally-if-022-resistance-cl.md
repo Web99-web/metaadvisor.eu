@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/doge-btc-triangle-break
 summary: "Dogecoin rebounds from midday selloff as whale accumulation and ETF speculation fuel strong market activity."
 tags: ["dogecoin", "DOGE", "bitcoin", "BTC", "crypto", "ETF", "breakout", "trading"]
 image_url: "https://upload.wikimedia.org/wikipedia/en/d/d0/Dogecoin_Logo.png"
+categories: ["crypto"]
 ---
 
 **Dogecoin (DOGE)** saw a 4% intraday swing but managed to close 1% higher at **$0.213**, despite sharp volatility.

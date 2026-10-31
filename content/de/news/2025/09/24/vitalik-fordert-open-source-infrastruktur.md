@@ -23,6 +23,7 @@ tags:
   - finance
   - decentralization
 summary: "Vitalik Buterin plädiert für Open-Source-Infrastruktur nicht nur im Blockchain-Bereich, sondern auch in Gesundheit, Finanzen und öffentlicher Verwaltung."
+categories: ["news"]
 ---
 
 **Kurz:** **Vitalik Buterin**, Mitgründer von **Ethereum**, ruft zu breiterem Einsatz **offener Infrastrukturen** auf – über Krypto hinaus, in **Gesundheit**, **Finanzen** und **Governance**. Offener Code schafft **Vertrauen, Interoperabilität** und **Resilienz**.

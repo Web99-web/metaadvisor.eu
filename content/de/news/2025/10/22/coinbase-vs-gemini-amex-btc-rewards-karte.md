@@ -16,6 +16,7 @@ image_alt: "Coinbase Amex-Karte vs. Gemini Kreditkarte"
 image_credit: "Symbolisches Bild."
 tags: ["coinbase","amex","gemini","winklevoss","bitcoin","btc","krypto","kreditkarte","rewards","crypto-rewards"]
 summary: "Coinbase startet eine Amex-Kreditkarte mit bis zu 4 % Rewards in Bitcoin, während Gemini Multi-Asset-Karten mit Rückvergütung in verschiedenen Kryptowährungen anbietet."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

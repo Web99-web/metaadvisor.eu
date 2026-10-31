@@ -3,15 +3,15 @@ title: "Je li ‘Big Short’ 10.10 bio neprijateljsko preuzimanje banaka i inst
 slug: "tko-je-napao-bitcoin-10-10-banke-neprijateljsko-preuzimanje-bitcoina"
 date: 2025-11-24T10:00:00Z
 category: "crypto"
-translationKey: "attack_1010_btc_banks_20251124"
+translationKey: "attack_1010_btc_banks_20251124--2025-11-24"
 source: "MetaAdvisor – analiza + društvene mreže (Ran, Hayes, Dixon)"
 source_url: ""
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/BTC-10.10-who-attacked.png"
-featured_image: "/images/BTC-10.10-who-attacked.png"
-image: "/images/BTC-10.10-who-attacked.png"
-thumbnail: "/images/BTC-10.10-who-attacked.png"
+image_url: "/images/BTC-10.10-who-attacked.webp"
+featured_image: "/images/BTC-10.10-who-attacked.webp"
+image: "/images/BTC-10.10-who-attacked.webp"
+thumbnail: "/images/BTC-10.10-who-attacked.webp"
 image_alt: "Tko je napao Bitcoin 10.10 — ilustracija"
 image_credit: "MetaAdvisor.eu"
 tags: [
@@ -21,6 +21,8 @@ tags: [
   "kripto tržište", "volatilnost", "jpmorgan", "goldman sachs"
 ]
 summary: "Sve je više analitičara koji tvrde da je pad Bitcoina 10.10 bio koordinirani napad financijskih institucija na Microstrategy — s ciljem da kupe BTC jeftinije i preuzmu tržište."
+categories: ["crypto"]
+url: "/hr/news/tko-je-napao-bitcoin-10-10-banke-neprijateljsko-preuzimanje-bitcoina-2025-11-24/"
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

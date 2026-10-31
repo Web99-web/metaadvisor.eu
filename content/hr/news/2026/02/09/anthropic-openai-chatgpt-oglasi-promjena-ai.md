@@ -7,14 +7,15 @@ translationKey: "anthropic-openai-chatgpt-ads-2026-02-09"
 source: "The Guardian / javne izjave tvrtki"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Anthropic-vs-OpenAI.png"
-featured_image: "/images/Anthropic-vs-OpenAI.png"
-image: "/images/Anthropic-vs-OpenAI.png"
-thumbnail: "/images/Anthropic-vs-OpenAI.png"
+image_url: "/images/Anthropic-vs-OpenAI.webp"
+featured_image: "/images/Anthropic-vs-OpenAI.webp"
+image: "/images/Anthropic-vs-OpenAI.webp"
+thumbnail: "/images/Anthropic-vs-OpenAI.webp"
 image_alt: "Anthropic i OpenAI u sukobu oko oglasa u AI chatbotovima"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["ai", "chatgpt", "openai", "anthropic", "oglasi", "umjetna inteligencija", "digitalni oglasi", "tehnologija", "privatnost"]
 summary: "Rasprava o oglasima u AI chatbotovima prelazi iz teorije u praksu. Nakon kampanje Anthropica i javnih reakcija OpenAI-ja, pitanje više nije hoće li oglasi doći u AI — nego kakav će AI tada postati."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -9,6 +9,7 @@ summary: "Diese Woche fand die jährliche SALT-Wyoming-Konferenz statt. Regierun
 tags: ["jackson-hole","salt-wyoming","policy","regulation","crypto","congress","lummis","tim-scott","jenny-johnson","michelle-bowman","chris-waller","newsletter"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/e44e1ff5a6dd83ecb6be1e381d086793cbbdccae-2890x2306.jpg?rect=0,0,2890,1626&w=1920&h=1080&auto=format"
 image_alt: "Fed-Gouverneur Chris Waller auf der SALT-Wyoming-Bühne"
+categories: ["crypto"]
 ---
 
 In dieser Woche sprachen in Jackson Hole, Wyoming, auf der **SALT-Wyoming**-Konferenz Politiker verschiedenster Couleur.

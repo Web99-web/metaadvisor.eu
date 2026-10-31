@@ -7,14 +7,15 @@ translationKey: "alameda-sol-creditor-payments-ftx"
 source: "CoinDesk, Cointelegraph"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Alameda-research.png"
-featured_image: "/images/companies/Alameda-research.png"
-image: "/images/companies/Alameda-research.png"
-thumbnail: "/images/companies/Alameda-research.png"
+image_url: "/images/companies/Alameda-research.webp"
+featured_image: "/images/companies/Alameda-research.webp"
+image: "/images/companies/Alameda-research.webp"
+thumbnail: "/images/companies/Alameda-research.webp"
 image_alt: "Alameda Research FTX bewegt Solana SOL Token für Gläubigerauszahlungen"
 image_credit: "Metaadvisor / Illustration"
 tags: ["crypto","ftx","alameda","solana","sol","blockchain","liquidation","markt","krypto"]
 summary: "Alameda Research, verbunden mit FTX, hat rund 16 Millionen Dollar in SOL-Token freigesetzt und an eine Adresse verschoben, die mit Gläubigerauszahlungen in Verbindung steht — ein Hinweis auf den fortlaufenden Restrukturierungsprozess."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -15,6 +15,7 @@ image_alt: "Polymarket trading approval"
 image_credit: "MetaAdvisor / AI-generated"
 tags: ["polymarket", "predikcije", "cftc", "sad", "kripto", "tržišta", "event-derivati", "regulacija", "token", "airdrop"]
 summary: "CFTC je odobrio Polymarketu rad kao posredovanoj trgovačkoj platformi u SAD-u, što platformu prebacuje iz 'klađenja' u zonu profesionalnih, reguliranih tržišta događajnih derivata."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -9,10 +9,10 @@ author: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/28/tether-and-circle-are-printing-money-but-competition-is-coming-wormhole-co-founder"
 
-image_url: "/images/Tether-Circle.png"
-featured_image: "/images/Tether-Circle.png"
-image: "/images/Tether-Circle.png"
-thumbnail: "/images/Tether-Circle.png"
+image_url: "/images/Tether-Circle.webp"
+featured_image: "/images/Tether-Circle.webp"
+image: "/images/Tether-Circle.webp"
+thumbnail: "/images/Tether-Circle.webp"
 image_alt: "Tether & Circle – symbolic illustration of stablecoins"
 image_credit: "Metaadvisor.eu"
 
@@ -36,6 +36,7 @@ tags:
   - competition
 
 summary: "Stablecoin giants Tether and Circle are profiting massively from U.S. Treasury yields while users get 0%. Wormhole’s Dan Reecer says new challengers (M^0, Agora, tokenized MMFs) may soon disrupt this model."
+categories: ["crypto"]
 ---
 
 ## How the model works

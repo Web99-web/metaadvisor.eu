@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/06/bitcoin-and-stablecoin
 summary: "USDT i USDC i dalje predvode globalne tokove, ali EURC i PYUSD brzo rastu kako se institucionalne mreže šire."
 tags: ["crypto", "bitcoin", "btc", "usdt", "usdc", "eurc", "pyusd", "stablecoins", "chainalysis", "etf"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["kripto"]
 ---
 
 Indija i Sjedinjene Države prednjače u svjetskom usvajanju kriptovaluta ove godine, prema izvještaju Chainalysis „Geography of Cryptocurrency 2025“, što naglašava kako i mali ulagači i institucionalne sile oblikuju tržište.

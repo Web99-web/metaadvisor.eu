@@ -15,6 +15,7 @@ image_alt: "Spot Bitcoin ETFs record their sixth straight week of capital inflow
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "bitcoin etf", "spot bitcoin etf", "crypto", "cryptocurrency", "institutions", "wall street", "blackrock", "etf", "investing", "fed", "bitcoin price", "market", "capital", "crypto market"]
 summary: "US Spot Bitcoin ETFs have recorded six consecutive weeks of net inflows, marking the strongest positive streak since the summer of 2025."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>The image is symbolic.</em></p>

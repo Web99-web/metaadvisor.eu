@@ -15,6 +15,7 @@ image_alt: "Bitcoin falls below $78,000"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "cryptocurrency", "fed", "inflation", "iran", "oil", "bear trap", "trading", "liquidations", "solana", "xrp", "crypto market", "bitcoin price"]
 summary: "Bitcoin fell below $78,000 after rising geopolitical tensions, surging oil prices and massive liquidations hit the crypto market. Some traders still believe this could be a bear trap scenario."
+categories: ["crypto"]
 ---
 
 <small><em>The image is symbolic.</em></small>

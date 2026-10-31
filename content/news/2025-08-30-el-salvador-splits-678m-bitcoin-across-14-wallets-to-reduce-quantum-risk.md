@@ -9,6 +9,7 @@ summary: "El Salvador has allocated about $678M worth of Bitcoin across 14 walle
 tags: ["bitcoin", "crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvZGVmYXVsdC5qcGc=.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvZGVmYXVsdC5qcGc=.jpg"
+categories: ["crypto"]
 ---
 
 El Salvador, the first country in the world to adopt Bitcoin as legal tender, has taken a step to safeguard its national BTC reserves. The government has distributed **$678 million worth of Bitcoin** across 14 different wallets to mitigate potential **quantum risks**.

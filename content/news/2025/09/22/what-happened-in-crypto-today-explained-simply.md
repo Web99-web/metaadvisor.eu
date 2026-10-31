@@ -16,6 +16,7 @@ image_alt: "Bitcoin and Ethereum — symbolic market digest cover"
 image_credit: "Metaadvisor image_map (symbolic image)"
 tags: ["crypto", "market", "Wormhole", "W-token", "tokenomics", "staking", "reserve", "UK", "FCA", "regulation", "Consumer-Duty", "SEC", "ETP", "ETF", "Bitwise", "listing", "altseason", "liquidity", "daily-wrap"]
 summary: "Daily crypto wrap in plain English: Wormhole tweaks W tokenomics; the UK’s FCA sketches a rulebook for crypto; Bitwise explains how generic SEC standards could speed up crypto ETP/ETF listings."
+categories: ["crypto"]
 ---
 
 **Summary (per Cointelegraph’s daily wrap):**  

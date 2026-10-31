@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/french-central-bank-deficit-great-bitcoin-arthur-hayes"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/banque-de-france-loss.png"
-featured_image: "/images/banque-de-france-loss.png"
-image: "/images/banque-de-france-loss.png"
-thumbnail: "/images/banque-de-france-loss.png"
+image_url: "/images/banque-de-france-loss.webp"
+featured_image: "/images/banque-de-france-loss.webp"
+image: "/images/banque-de-france-loss.webp"
+thumbnail: "/images/banque-de-france-loss.webp"
 image_alt: "Banque de France i Bitcoin — ilustracija"
 image_credit: "Dizajn: Metaadvisor.eu (slika je simbolična)"
 tags: ["bitcoin","Arthur Hayes","Banque de France","ECB","QE","likvidnost","inflacija","obveznice","Token2049","Europa","makro"]
 summary: "Banque de France prijavila je neto gubitak oko €7,7 mlrd u 2024. Arthur Hayes procjenjuje da takav pritisak može ubrzati povratak ECB-ove likvidnosti — što je, po njemu, pozitivno za Bitcoin."
+categories: ["crypto"]
 ---
 
 **Kontekst:** Francuska središnja banka prijavila je **neto gubitak od približno €7,7 mlrd za 2024.** zbog kombinacije visokih kamatnih stopa i negativnog neto kamatnog prihoda. Na konferenciji **TOKEN2049** u Singapuru, **Arthur Hayes** (BitMEX) izjavio je da takvi deficiti u euro-zoni **povećavaju vjerojatnost novog vala likvidnosti** (npr. **QE/otkupi obveznica**), što se povijesno prelijevalo i na **cijenu Bitcoina**.

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/25/chainlink-partners-with
 summary: "Trotz des großen Deals fiel LINK in den letzten 24 Stunden um 5 % – entlang der allgemeinen Krypto-Schwäche."
 tags: ["crypto","chainlink","link","sbi","japan","ccip","stablecoins","tokenization","rwa","project-guardian","mas","proof-of-reserve"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/d29061902f54783c5b2d589086db14112934e986-700x430.png?auto=format"
+categories: ["crypto"]
 ---
 
 Der native Token des Orakel-Netzwerks Chainlink **LINK $ 23.20** fiel im Gleichschritt mit dem breiteren Kryptomarkt — trotz einer frischen Partnerschaft mit dem japanischen Finanzriesen **SBI Group**.

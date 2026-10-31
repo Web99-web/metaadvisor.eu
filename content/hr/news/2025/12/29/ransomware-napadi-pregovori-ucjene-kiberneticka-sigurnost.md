@@ -24,6 +24,7 @@ tags:
   - data breach
   - sigurnost podataka
 summary: "Ransomware napadi danas su profesionalizirani poslovni modeli u kojima se odluke donose u minutama. Iza kulisa djeluju timovi pregovarača, forenzičara i kriznih stručnjaka čiji potezi često odlučuju hoće li kompanija preživjeti ili kolabirati."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

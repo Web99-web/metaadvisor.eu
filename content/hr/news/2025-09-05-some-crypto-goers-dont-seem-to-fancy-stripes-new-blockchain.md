@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/stripe-blockchain-launch-tempo-crypt
 summary: "Stripe je lansirao vlastiti blockchain pod nazivom Tempo, no reakcije kripto zajednice pokazuju podijeljena mišljenja."
 tags: ["crypto", "stripe", "tempo", "stablecoin", "blockchain", "payments", "defi"]
 image_url: "/images/financial-chart.jpg"
+categories: ["crypto"]
 ---
 
 **Stripe**, globalni div u online plaćanjima, predstavio je **Tempo**, vlastiti blockchain projekt dizajniran za stablecoin transakcije i digitalna plaćanja. Međutim, reakcije unutar kripto zajednice pokazuju podijeljena mišljenja.  

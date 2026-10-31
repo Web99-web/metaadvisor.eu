@@ -16,6 +16,7 @@ image_alt: "Ethereum — mreža uživo, on-chain aktivnost i cijena ETH-a"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","ethereum","eth","on-chain","aktivnost","etf","treasury","metaadvisor"]
 summary: "ETH dobiva vjetar u leđa iz realne mrežne aktivnosti: više transakcija, veća potražnja za plinom i sve više institucionalnih džepova koji gomilaju ETH. Unatoč pritiscima na strani un-stakinga, put prema $5.000 izgleda sve izgledniji."
+categories: ["crypto"]
 ---
 
 **Kratko:** Ethereum je posljednjih dana zabilježio **porast on-chain aktivnosti** (više aktivnih adresa, veći promet i potražnja za „gasom”), dok **institucije i trezori** nastavljaju **akumulirati ETH**. U paru s priljevima u **spot ETH ETF-ove** i smanjenjem dostupnih količina na burzama, to gradi slučaj da bi **sljedeća velika razina** mogla biti oko **$5.000**.

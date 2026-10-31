@@ -1,0 +1,40 @@
+{
+  "status": "NOT VERIFIED; must be checked before publication; does not suspend unrelated local SEO work",
+  "user_declaration": "GA4 is used only for visits/users, page views, approximate country/location and basic traffic, not advertising profiles.",
+  "checks": [
+    {
+      "item": "Accepted applicable Google Analytics data processing terms and international-transfer safeguards",
+      "verified": false
+    },
+    {
+      "item": "Google products and services data-sharing disabled; review all other sharing switches",
+      "verified": false
+    },
+    {
+      "item": "Google Signals, advertising personalisation and unwanted linked Ads exports disabled",
+      "verified": false
+    },
+    {
+      "item": "Enhanced Measurement restricted to declared basic scope; disable form, search, outbound, file and video collection if enabled",
+      "verified": false
+    },
+    {
+      "item": "No User-ID, user-provided data, precise location, sensitive categories or known-child audience profiling",
+      "verified": false
+    },
+    {
+      "item": "Retention, notice, processor/service-provider contracts, Australia APP 8 accountability and EU controller lawful basis reviewed",
+      "verified": false
+    },
+    {
+      "item": "Japan APPI overseas recipient/linkage and external-transmission notice requirements assessed before any auto enablement",
+      "verified": false
+    },
+    {
+      "item": "US state applicability, minors/sensitive-data limits and rights-request process reviewed for the actual service",
+      "verified": false
+    }
+  ],
+  "no_admin_settings_changed": true,
+  "release_approval_flags_remain_false": true
+}

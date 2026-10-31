@@ -7,14 +7,15 @@ translationKey: "5affba8151607354900b31ce1d4c0b3b"
 source: "Metaadvisor (Cointelegraph, DeFi-Quellen, rechtliche Unterlagen)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/AAVE-Arbitrum-30000-eth.png"
-featured_image: "/images/news/AAVE-Arbitrum-30000-eth.png"
-image: "/images/news/AAVE-Arbitrum-30000-eth.png"
-thumbnail: "/images/news/AAVE-Arbitrum-30000-eth.png"
+image_url: "/images/news/AAVE-Arbitrum-30000-eth.webp"
+featured_image: "/images/news/AAVE-Arbitrum-30000-eth.webp"
+image: "/images/news/AAVE-Arbitrum-30000-eth.webp"
+thumbnail: "/images/news/AAVE-Arbitrum-30000-eth.webp"
 image_alt: "Aave und Arbitrum im Konflikt um eingefrorene 30.000 ETH nach dem Kelp-Hack"
 image_credit: "Metaadvisor.eu"
 tags: ["aave", "arbitrum", "ethereum", "eth", "defi", "krypto", "crypto", "kelp dao", "hack", "blockchain", "layer2", "regulierung", "rechtsstreit", "rsETH", "liquidität", "dezentralisierung"]
 summary: "Nach dem Kelp DAO Hack im Wert von fast 300 Millionen Dollar geraten Aave und Arbitrum in einen rechtlichen und technologischen Konflikt um 30.000 ETH. Es geht nicht mehr nur um Sicherheit — sondern um die Kontrolle über DeFi."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

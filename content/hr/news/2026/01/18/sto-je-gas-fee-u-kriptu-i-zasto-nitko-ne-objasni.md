@@ -7,14 +7,15 @@ translationKey: "gas_fee_crypto_explained_20260118"
 source: ""
 source_url: ""
 author: "MetaAdvisor.eu"
-image_url: "/images/Gas-fee-in-crypto.png"
-featured_image: "/images/Gas-fee-in-crypto.png"
-image: "/images/Gas-fee-in-crypto.png"
-thumbnail: "/images/Gas-fee-in-crypto.png"
+image_url: "/images/Gas-fee-in-crypto.webp"
+featured_image: "/images/Gas-fee-in-crypto.webp"
+image: "/images/Gas-fee-in-crypto.webp"
+thumbnail: "/images/Gas-fee-in-crypto.webp"
 image_alt: "Gas fee u kriptu kao simbol troška blockchain transakcija"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Gas fee je jedan od glavnih razloga zašto se ljudi u kriptu boje kliknuti pogrešan gumb. Objašnjavamo što je gas fee, kada se plaća, u čemu se plaća i gdje ga točno moraš imati — wallet po wallet, bez tehničkog žargona."
 tags: ["crypto","kripto","gas-fee","blockchain","metamask","phantom","trust-wallet","ledger","ethereum","solana","defi","edukacija"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

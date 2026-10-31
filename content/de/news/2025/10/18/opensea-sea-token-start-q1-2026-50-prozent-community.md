@@ -15,6 +15,7 @@ image_alt: "SEA-Token Launch – symbolische Illustration"
 image_credit: "Bild ist symbolisch."
 tags: ["OpenSea","SEA","Token","Krypto","DeFi","Staking","Community","Q1 2026"]
 summary: "OpenSea bestätigt den Start des SEA-Tokens im ersten Quartal 2026. 50 % der Gesamtmenge sind für die Community vorgesehen – inklusive Initial-Claim und Rewards."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

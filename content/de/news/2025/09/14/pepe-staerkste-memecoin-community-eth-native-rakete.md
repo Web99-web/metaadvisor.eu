@@ -9,6 +9,7 @@ image_alt: "PEPE memecoin"
 tags: ["pepe","memecoins","ethereum","beta","liquidität","märkte","community"]
 summary: "PEPE wuchs von der Internet-Laune zum Phänomen: laute Community, dauerhaft hohe Volumina und oft eine höhere Beta als ETH in Risk-On-Phasen."
 our_take: "PEPE lebt vom ETH-Trend, Liquidität und Community-Puls. Zieht ETH an, sprintet PEPE oft schneller — aber Korrekturen sind ebenso kräftig. Rotationen mit Plan spielen, nicht mit FOMO."
+categories: ["news"]
 ---
 
 **Warum PEPE?**  

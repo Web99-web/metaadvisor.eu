@@ -9,6 +9,7 @@ summary: "Eric Trump sagt, die Familie sei nach einer ‘Debanking’-Erfahrung 
 tags: ["crypto","trump","eric-trump","banken","wsj","politik","tokenisierung","stablecoins","american-bitcoin","hut8","world-liberty-financial"]
 image_url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2025-08/01988c26-526f-7665-8fee-1136ab5cd884"
 image_alt: "Eric Trump über Krypto — Cointelegraph Hero-Bild"
+categories: ["crypto"]
 ---
 
 **Eric Trump** erklärte, die Familie habe sich **pro Krypto** positioniert, nachdem sie in der Zeit nach dem **Kapitol-Vorfall 2021** **„debankt”** worden sei. Mehrere Banken hätten **Hunderte Konten** der **Trump Organization** geschlossen; man sei vorübergehend auf Regionalbanken ausgewichen, ehe ein neuer, nicht genannter Partner gefunden wurde. Bezug nimmt der Bericht auf **WSJ**-Aussagen. :contentReference[oaicite:5]{index=5}

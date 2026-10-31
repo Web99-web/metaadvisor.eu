@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242
 summary: "Umjesto toga, porota je dodijelila 242,5 mil. $ odštete (kompenzacijske i kaznene)."
 tags: ["tesla","autopilot","verdict","lawsuit","miami","jury","settlement","transportation"]
 image_url: "https://techcrunch.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-20-at-12.40.05-pm.png?w=1200"
+categories: ["news"]
 ---
 
 Mjesecima prije nego što je porota dosudila 242,5 milijuna dolara protiv Tesle zbog njezine odgovornosti u smrtonosnoj nesreći iz 2019., proizvođač je, prema novim sudskim podnescima (o kojima je prvi izvijestio Reuters), imao priliku nagoditi se za **60 milijuna dolara** — ali je ponudu odbio.

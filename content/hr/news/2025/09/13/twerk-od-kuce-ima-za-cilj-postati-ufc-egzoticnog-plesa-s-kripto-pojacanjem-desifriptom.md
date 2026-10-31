@@ -11,6 +11,7 @@ image_url: "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.
 tags: ["crypto", "cryptocurrency"]
 our_take: |
   Naše stajalište: Joe Mahavuthivanij-suosnivač i izvršni direktor Twerk-a od kuće, ili TFH-želi biti Dana White Twerkinga legitimizacijom i rastom sporta egzotičnog plesa. Prvo turnir organizacije odskače u… ključne stvari, a propise: likvidiranje.Ostanite selektivni;Dodajte samo u imena visoke presude.
+categories: ["news"]
 ---
 
 Joe Mahavuthivanij-suosnivač i izvršni direktor Twerk-a od kuće, ili TFH-želi biti Dana White iz Twerkinga legitimizacijom i rastom sporta egzotičnog plesa.

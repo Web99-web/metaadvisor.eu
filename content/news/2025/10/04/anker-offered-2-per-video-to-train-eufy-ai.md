@@ -16,6 +16,7 @@ image_alt: "Eufy security camera and AI training on user videos"
 image_credit: "Metaadvisor.eu – symbolic photo"
 tags: ["ai", "privacy", "security", "data-collection", "surveillance", "user-generated-data", "synthetic-data", "model-training", "Eufy", "Anker", "Neon", "compliance"]
 summary: "Anker (Eufy) offered $2 per video of package or car theft early in 2025 to train its AI models — including staged events — raising questions about data value and privacy."
+categories: ["ai"]
 ---
 
 Earlier this year **Anker**, maker of **Eufy** security cameras, offered users **$2 per video** showing package thefts or car break-ins to help train its AI systems to detect such incidents more accurately.

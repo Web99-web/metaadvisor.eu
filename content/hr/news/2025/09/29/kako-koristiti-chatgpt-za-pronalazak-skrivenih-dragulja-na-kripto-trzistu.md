@@ -15,6 +15,7 @@ image_alt: "ChatGPT i AI istraživanje kripto tržišta – skriveni ‘gems’"
 image_credit: "Dizajn/Vizual: Metaadvisor.eu (simbolična ilustracija)"
 tags: ["crypto","ai","chatgpt","istraživanje","on-chain","tokenomika","defi","altcoins","analiza","prompts"]
 summary: "Praktičan playbook kako uz ChatGPT ubrzati istraživanje altcoina: od filtera i kratke liste do provjera tokenomike, on-chain rizika i likvidnosti. AI pomaže – ali odluke i provjere su na vama."
+categories: ["crypto"]
 ---
 
 **Kratko:** ChatGPT može drastično **ubrzati put** od “mora projekata” do **kratke liste** kandidata. Ključ nije “čarobni odgovor”, nego **dobri filtri**, **dobri promptovi** i **tvrde provjere** (on-chain, tokenomika, likvidnost).

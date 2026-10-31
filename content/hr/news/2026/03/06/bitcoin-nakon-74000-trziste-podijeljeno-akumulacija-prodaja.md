@@ -15,6 +15,7 @@ image_alt: "Bitcoin kovanice simbolično prikazuju volatilnost tržišta"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["bitcoin","btc","kripto","crypto","kripto tržište","bitcoin cijena","bitcoin analiza","bitcoin volatilnost","kripto tržište","blockchain","digitalna imovina"]
 summary: "Bitcoin je nakratko dosegao 74.000 dolara, ali je ubrzo izgubio momentum. Tržište je podijeljeno između kratkoročne prodaje i znakova velike akumulacije."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

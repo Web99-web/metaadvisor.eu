@@ -24,6 +24,7 @@ tags:
   - trading
   - 2025
 summary: "India keeps its strict crypto tax regime in 2025: 30% on gains, 1% TDS on every transaction, no loss offsets. Traders continue to seek optimization within the rules."
+categories: ["crypto"]
 ---
 
 **TL;DR:** India maintains one of the world’s toughest crypto tax regimes in 2025. **30% tax** on realized gains still applies, plus **1% TDS (Tax Deducted at Source)** on **every** transaction. **Loss offsets** remain **disallowed**, putting active traders at a structural disadvantage.

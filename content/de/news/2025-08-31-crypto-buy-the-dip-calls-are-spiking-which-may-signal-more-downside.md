@@ -9,6 +9,7 @@ summary: "Santiment registriert einen Anstieg von ‚Buy the dip‘-Aufrufen in 
 tags: ["crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvZTkzZGE3Y2EtZjRjOC00ODc0LWE2YWEtYzkwMDdmNzA2NTcyLmpwZw==.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUvMDgvZTkzZGE3Y2EtZjRjOC00ODc0LWE2YWEtYzkwMDdmNzA2NTcyLmpwZw==.jpg"
+categories: ["crypto"]
 ---
 
 Die Analyseplattform **Santiment** berichtet, dass die Aufrufe zum „Buy the dip“ in sozialen Medien auf ein Mehrmonatshoch gestiegen sind, während der Kryptomarkt unter verstärktem Verkaufsdruck steht.  

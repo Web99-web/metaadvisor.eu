@@ -7,14 +7,15 @@ translationKey: "ae90c4caa5091a4346af33a3f24a6a6c"
 source: "Metaadvisor (TechCrunch, Reuters, Wired, The Verge)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/OpenAI-Musk-Sam-Altman.png"
-featured_image: "/images/news/OpenAI-Musk-Sam-Altman.png"
-image: "/images/news/OpenAI-Musk-Sam-Altman.png"
-thumbnail: "/images/news/OpenAI-Musk-Sam-Altman.png"
+image_url: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+featured_image: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+image: "/images/news/OpenAI-Musk-Sam-Altman.webp"
+thumbnail: "/images/news/OpenAI-Musk-Sam-Altman.webp"
 image_alt: "Elon Musk i OpenAI ponovno u središtu rasprave o AI sigurnosti"
 image_credit: "Metaadvisor.eu"
 tags: ["openai", "elon musk", "sam altman", "ai", "agi", "artificial intelligence", "umjetna inteligencija", "ai safety", "xai", "microsoft", "chatgpt", "tech", "ai regulation", "superintelligence", "openai lawsuit", "agi safety", "future tech"]
 summary: "Bivši zaposlenici OpenAI-ja tvrde da je kompanija postupno postala više fokusirana na proizvode i tržište nego na sigurnost umjetne inteligencije. Muskova tužba sada ponovno otvara pitanje koliko su AI kompanije spremne riskirati u utrci za dominaciju."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

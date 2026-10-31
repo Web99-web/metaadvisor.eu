@@ -9,6 +9,7 @@ summary: "El Salvador hat rund 678 Mio. USD in Bitcoin auf 14 verschiedene Walle
 tags: ["bitcoin", "crypto"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvZGVmYXVsdC5qcGc=.jpg"
 image: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvZGVmYXVsdC5qcGc=.jpg"
+categories: ["crypto"]
 ---
 
 El Salvador, das erste Land der Welt, das Bitcoin als gesetzliches Zahlungsmittel eingeführt hat, hat Maßnahmen zum Schutz seiner nationalen BTC-Reserven ergriffen. Die Regierung verteilte **678 Mio. USD in Bitcoin** auf 14 verschiedene Wallets, um das potenzielle **Quantenrisiko** zu verringern.

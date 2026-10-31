@@ -24,6 +24,7 @@ tags:
   - etf
   - krypto-handel
 summary: "US-Spot-ETFs auf XRP haben die Marke von 1,25 Milliarden USD an Nettovermögen überschritten, doch der Tokenpreis bleibt unter wichtigen Niveaus. Der Markt zeigt eine klare Kluft zwischen institutioneller Akkumulation und kurzfristigem Handel."
+categories: ["crypto"]
 ---
 US-Spot-ETFs auf XRP ziehen weiterhin Kapital an und haben inzwischen **über 1,25 Milliarden US-Dollar an Nettovermögen** erreicht. Dennoch bewegt sich der Tokenpreis weiterhin ohne klaren Trend. Während professionelle Investoren ihre Positionen geduldig über regulierte Produkte aufbauen, verkaufen kurzfristige Trader jeden Erholungsversuch – und halten den Preis damit in der Nähe von **1,86 USD** unter Druck.
 

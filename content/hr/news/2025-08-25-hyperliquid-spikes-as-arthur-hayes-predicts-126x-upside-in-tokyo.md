@@ -9,6 +9,7 @@ summary: "Osnivač BitMEX-a Arthur Hayes na konferenciji WebX 2025 u Tokiju kaž
 tags: ["news","hyperliquid","hype","arthur-hayes","dex","derivatives","perps","webx2025","defillama","redstone","onchain"]
 image_url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2025-08/01987510-d8e2-7660-affe-2833f386ecdf"
 image_alt: "Arthur Hayes i Hyperliquid HYPE – naslovna vizualizacija Cointelegrapha"
+categories: ["news"]
 ---
 
 **HYPE**, izvorni token **Hyperliquida** (decentralizirani DEX za perpetual derivate), bio je među rijetkima u plusu nakon što je **Arthur Hayes** u Tokiju prognozirao **126×** rast u sljedeće **tri godine**. Hayes očekuje da će širenje **stablecoina** podići godišnje naknade DEX-a na oko **258 mlrd $** (s ~**1,2 mlrd $** danas).

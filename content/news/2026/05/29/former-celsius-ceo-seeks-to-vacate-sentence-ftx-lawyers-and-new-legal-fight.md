@@ -7,14 +7,15 @@ translationKey: "439f3786973bf326393cc30c9ba7fdc0"
 source: "Metaadvisor (Cointelegraph, Reuters, DOJ)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Celsius.png"
-featured_image: "/images/Celsius.png"
-image: "/images/Celsius.png"
-thumbnail: "/images/Celsius.png"
+image_url: "/images/Celsius.webp"
+featured_image: "/images/Celsius.webp"
+image: "/images/Celsius.webp"
+thumbnail: "/images/Celsius.webp"
 image_alt: "Celsius, Alex Mashinsky and the legal battle over the collapse of the crypto lending platform"
 image_credit: "Metaadvisor.eu"
 tags: ["celsius", "alex mashinsky", "mashinsky", "ftx", "sam bankman-fried", "sbf", "cel token", "celsius network", "crypto lending", "crypto loans", "crypto fraud", "market manipulation", "securities fraud", "commodities fraud", "doj", "court case", "legal case", "bankruptcy", "crypto collapse", "defi", "centralized crypto platforms", "crypto regulation", "roni cohen-pavon", "ftx collapse", "crypto lending platform", "crypto investors", "risk management"]
 summary: "Former Celsius CEO Alex Mashinsky is seeking to vacate his 12-year prison sentence and claims he had ineffective legal counsel, while bringing FTX, Sam Bankman-Fried and internal Celsius conflicts back into the story."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

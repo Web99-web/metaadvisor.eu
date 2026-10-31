@@ -15,6 +15,7 @@ image_alt: "Bitcoin and financial regulation — European context"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitgo","bafin","germany","europe","trading","custody","mica","regulation","metaadvisor"]
 summary: "Germany’s BaFin cleared BitGo Europe to offer regulated crypto trading alongside custody/staking. The move builds on MiCA and targets EU institutions."
+categories: ["crypto"]
 ---
 
 **BitGo Europe GmbH** has received **BaFin** approval to offer **regulated crypto trading** in addition to **custody** and **staking** for EU clients. The significance: one platform now combines **regulated safekeeping** with **order execution**, removing a key hurdle for institutions that require supervised access to digital-asset markets.

@@ -9,6 +9,7 @@ summary: "The meme token staged a late-session rebound on Aug. 30–31, with wha
 tags: ["doge", "crypto", "memecoin"]
 image_url: "https://www.coindesk.com/resizer/v2/dogecoin-chart-2025.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/dogecoin-chart-2025.jpg?auto=format&width=1200"
+categories: ["news"]
 ---
 
 Dogecoin (**DOGE**) bounced from the **$0.21 floor**, forming a potential **cup-and-handle pattern** that targets a move toward **$0.30**, according to CoinDesk analysis.  

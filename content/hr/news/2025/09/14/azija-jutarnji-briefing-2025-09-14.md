@@ -10,6 +10,7 @@ image_url: "/images/asia-briefing.jpg"
 image_alt: "Noćni pogled na azijski financijski distrikt i grafikon kripto tržišta"
 tags: ["asia","macro","policy","stablecoin","tax"]
 summary: "Japan cilja jedinstveni 20% kripto porez do 2026.; Hong Kongov stablecoin režim stupio je na snagu; Južna Koreja ulazi u OECD CARF dijeljenje podataka; Pakistanska rasprava o kriptu i hawali."
+categories: ["crypto"]
 ---
 
 **1) Japan: put prema jedinstvenom 20% kripto porezu (do 2026.)**  

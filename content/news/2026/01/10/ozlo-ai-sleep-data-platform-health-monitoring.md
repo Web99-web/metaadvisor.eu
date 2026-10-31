@@ -7,10 +7,10 @@ translationKey: "166b26c8548fa24c369bbb1de6d949ec"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/"
 author: "MetaAdvisor.eu"
-image_url: "/images/OZLO-sleep-ai.png"
-featured_image: "/images/OZLO-sleep-ai.png"
-image: "/images/OZLO-sleep-ai.png"
-thumbnail: "/images/OZLO-sleep-ai.png"
+image_url: "/images/OZLO-sleep-ai.webp"
+featured_image: "/images/OZLO-sleep-ai.webp"
+image: "/images/OZLO-sleep-ai.webp"
+thumbnail: "/images/OZLO-sleep-ai.webp"
 image_alt: "OZLO Sleepbuds and AI-based sleep data analysis"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - privacy
   - ai-platforms
 summary: "OZLO, the maker of Sleepbuds, is evolving from a hardware company into an AI-driven sleep data platform, raising broader questions about health technology, data ownership and monitoring."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

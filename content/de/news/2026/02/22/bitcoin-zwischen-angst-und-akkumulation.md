@@ -15,6 +15,7 @@ image_alt: "Bitcoin-Markt zwischen Angst und Akkumulation"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["bitcoin", "btc", "krypto", "retail investoren", "optionen", "call optionen", "marktsentiment", "bull run", "institutionelles kapital", "volatilität", "krypto analyse"]
 summary: "Bitcoin sendet gemischte Signale: Kleinanleger akkumulieren, während der Optionsmarkt Zurückhaltung zeigt. Befindet sich der Markt in einer stillen Vorbereitungsphase für einen neuen Zyklus oder vor einer weiteren Korrektur?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

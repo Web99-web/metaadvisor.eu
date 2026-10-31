@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/circle-coinbase-strateg
 summary: "Circle, eToro i Marathon predvodili su rast u petak nakon što je predsjednik Fed-a Jerome Powell nagovijestio da bi do promjene politike moglo doći već idući mjesec."
 tags: ["crypto", "token", "financije", "bitcoin", "btc", "ethereum", "eth", "circle", "crcl", "coinbase", "coin", "microstrategy", "mstr", "marathon", "mara", "etoro", "etor", "robinhood", "hood"]
 image: "/news/2025-08-22-crcl-coin-mstr-among-crypto-stock-rally-as-powell-signals-possible-september-rat.jpg"
+categories: ["crypto"]
 ---
 
 Kripto-dionice i digitalna imovina snažno su porasle u petak nakon što je predsjednik Federalnih rezervi **Jerome Powell** signalizirao da bi Fed mogao početi s rezanjem kamatnih stopa već u rujnu.  

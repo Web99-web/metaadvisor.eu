@@ -16,6 +16,7 @@ image_alt: "Bitcoin i altcoin dnevni pregled"
 image_credit: "Slika je simbolična."
 tags: ["crypto","bitcoin","btc","eth","ethereum","bnb","binance","xrp","ripple","sol","solana","doge","dogecoin","ada","cardano","hype","hyperliquid","link","chainlink","xlm","stellar","prognoze","cijene","tehnicka-analiza"]
 summary: "Dnevni tehnički pregled tržišta (22.10.): ključne razine za Bitcoin i vodeće altcoine."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

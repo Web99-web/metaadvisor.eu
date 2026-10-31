@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/unicoin-sec-distorted-filings-100m-f
 summary: "Unicoin urged a New York judge to dismiss the SEC’s $100 million fraud case, arguing the regulator misquoted filings and relied on “snippets” taken out of context."
 tags: ["news","Unicoin","SEC","fraud","crypto law"]
 image_url: "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsYWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTI..."
+categories: ["news"]
 ---
 
 Crypto investment platform **Unicoin** has responded to the SEC’s **$100 million fraud lawsuit**, urging a New York federal judge to dismiss the case. The company argues the regulator:

@@ -10,6 +10,7 @@ image_url: "/images/btc1.jpg"
 image_alt: "Bitcoin-Chart mit makroökonomischen Indikatoren"
 tags: ["krypto","makro","btc"]
 summary: "Zähe Inflation und schwächere Arbeitsmarktdaten erhöhen die Erwartungen an Zinssenkungen – kurzfristig Rückenwind für Risikoassets inklusive Bitcoin."
+categories: ["crypto"]
 ---
 
 **BTC** liegt rund **4 %** über dem Wochenstand — gut für Kryptoassets, aber schlecht für die Realwirtschaft. Der schwache Ton der jüngsten Makrodaten hat die Erwartungen erhöht, dass die **Fed** am Mittwoch **die Zinsen senkt**, was Risikoassets (Aktien, Bitcoin) stützt.

@@ -7,14 +7,15 @@ translationKey: "8142995bb5e426335061fe58c55b9e17"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2026/01/19/nfts-are-not-dead-wealthy-crypto-collectors-are-still-driving-the-market-says-animoca-brands-yat-siu"
 author: "MetaAdvisor.eu"
-image_url: "/images/NFT.png"
-featured_image: "/images/NFT.png"
-image: "/images/NFT.png"
-thumbnail: "/images/NFT.png"
+image_url: "/images/NFT.webp"
+featured_image: "/images/NFT.webp"
+image: "/images/NFT.webp"
+thumbnail: "/images/NFT.webp"
 image_alt: "Illustration of the NFT market and digital assets"
 image_credit: "MetaAdvisor.eu / symbolic illustration"
 summary: "NFTs are no longer at the center of mass crypto hype, but interest has not disappeared. According to leading industry voices, today’s NFT market is driven by wealthy collectors and long-term investors rather than short-term speculation."
 tags: ["nft", "crypto", "digital assets", "web3", "blockchain", "collectibles"]
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

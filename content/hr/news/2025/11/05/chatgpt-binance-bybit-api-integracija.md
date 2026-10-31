@@ -14,6 +14,7 @@ image_alt: "Integracija ChatGPT-a s Binance i Bybit API-jem"
 image_credit: "Metaadvisor.eu"
 tags: ["chatgpt", "api", "binance", "bybit", "ai", "trading", "automation", "crypto"]
 summary: "ChatGPT se može povezati s burzama poput Binancea i Bybita pomoću API ključeva kako bi analizirao tržište, davao signale i testirao strategije — ali uz oprez i bez dijeljenja povjerljivih podataka."
+categories: ["ai"]
 ---
 
 Umjetna inteligencija sve više postaje dio alata za trgovanje i analizu tržišta.  

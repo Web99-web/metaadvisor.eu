@@ -8,14 +8,15 @@ source: "CoinDesk – adapted analysis"
 source_url: "https://www.coindesk.com/policy/2025/dec/06/state-of-crypto-wrapping-up-the-month"
 author: "Metaadvisor.eu – editorial team"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Capitol-USA.png"
-featured_image: "/images/Capitol-USA.png"
-image: "/images/Capitol-USA.png"
-thumbnail: "/images/Capitol-USA.png"
+image_url: "/images/Capitol-USA.webp"
+featured_image: "/images/Capitol-USA.webp"
+image: "/images/Capitol-USA.webp"
+thumbnail: "/images/Capitol-USA.webp"
 image_alt: "US Capitol – analysis of U.S. crypto regulation in 2025"
 image_credit: "Capitol-USA"
 tags: ["crypto","bitcoin","regulation","usa","market structure","cftc","fdic","senate","policy","coindesk","blockchain","analysis"]
 summary: "The U.S. enters the end of 2025 without a crucial market structure bill for crypto. Here’s what’s actually happening in the Senate — and why 2026 may become the turning point."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

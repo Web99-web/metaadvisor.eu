@@ -16,6 +16,7 @@ image_alt: "BitFuFu Q3 cloud mining growth"
 image_credit: "Metaadvisor.eu"
 tags: ["bitfufu", "singapur", "bitcoin", "mining", "cloud-mining", "profit", "hashrate", "crypto", "market", "infrastructure", "btc"]
 summary: "Singapurski cloud-mining gigant BitFuFu udvostručio je prihode u trećem kvartalu, potvrđujući snažan oporavak globalnog Bitcoin rudarenja."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

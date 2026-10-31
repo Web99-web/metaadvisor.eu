@@ -7,14 +7,15 @@ translationKey: "a4f6b9e5-0f6a-4c1c-9b0d-9a0f8ef2c3d1"
 source: "Reuters"
 source_url: "https://www.reuters.com/business/nvidia-poised-record-5-trillion-market-valuation-2025-10-29/"
 author: "Metaadvisor.eu"
-image_url: "/images/Nvidia-5t.png"
-featured_image: "/images/Nvidia-5t.png"
-image: "/images/Nvidia-5t.png"
-thumbnail: "/images/Nvidia-5t.png"
+image_url: "/images/Nvidia-5t.webp"
+featured_image: "/images/Nvidia-5t.webp"
+image: "/images/Nvidia-5t.webp"
+thumbnail: "/images/Nvidia-5t.webp"
 image_alt: "NVIDIA — Meilenstein von 5 Billionen USD"
 image_credit: "Illustration — Metaadvisor.eu (symbolisches Bild)"
 tags: ["Nvidia","NVDA","KI","AI","Grafikprozessor","GPU","Blackwell","GB200 NVL72","Rechenzentren","LLM","H100","Supercomputer","Technologie","Marktkapitalisierung","Aktien","S&P 500","Krypto","RWA","Energieeffizienz"]
 summary: "Nvidia hat am 29. Oktober 2025 als erstes börsennotiertes Unternehmen eine Marktkapitalisierung von 5 Billionen USD erreicht, angetrieben durch die Nachfrage nach KI-Infrastruktur und die neue Blackwell-Generation. Wir erklären die Bedeutung für Technologie, Märkte und die Kryptoszene."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

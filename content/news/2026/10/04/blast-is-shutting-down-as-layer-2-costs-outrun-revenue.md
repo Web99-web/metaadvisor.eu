@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Blast", "Ethereum", "Layer 2", "L2", "crypto", "blockchain", "DeFi", "TVL", "airdrop", "Ethereum scaling"]
 description: "Ethereum Layer-2 network Blast is shutting down after operating costs exceeded revenue. The project once attracted more than $2 billion in capital."
 summary: "Blast was once one of the fastest-growing Ethereum Layer-2 networks, attracting more than $2 billion in capital and strong airdrop hype. It is now shutting down because operating costs exceed revenue, raising broader questions about the sustainability of the growing number of L2 networks."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

@@ -9,6 +9,7 @@ summary: "The Tokyo-listed Bitcoin treasury firm has been added to the FTSE Japa
 tags: ["bitcoin","btc","crypto","metaplanet","ftse","ftse-japan","ftse-all-world","treasury","indexes","japan","eric-trump"]
 image_url: "https://img.decrypt.co/insecure/rs%3Afit%3A3840%3A0%3A0%3A0/plain/https%3A//cdn.decrypt.co/wp-content/uploads/2025/07/japan-decrypt-style-scaled-gID_7.jpg@webp"
 image_alt: "Japan's Mount Fuji and temple — Decrypt/Shutterstock"
+categories: ["crypto"]
 ---
 
 **Metaplanet Joins FTSE Japan Index, Continues to Stack Bitcoin**

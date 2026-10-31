@@ -7,10 +7,10 @@ translationKey: "autonomous_vehicles_snow_rimac_zagreb_2026"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/robotaxi.png"
-featured_image: "/images/robotaxi.png"
-image: "/images/robotaxi.png"
-thumbnail: "/images/robotaxi.png"
+image_url: "/images/robotaxi.webp"
+featured_image: "/images/robotaxi.webp"
+image: "/images/robotaxi.webp"
+thumbnail: "/images/robotaxi.webp"
 image_alt: "Selbstfahrendes autonomes Fahrzeug unter winterlichen Bedingungen in einer europäischen Stadt"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -27,6 +27,7 @@ tags:
   - verkehr
   - technologie
 summary: "Die Ankündigung von Mate Rimac, autonome Robotaxis ab Frühjahr 2026 in Zagreb zu testen, wirft eine zentrale Frage auf: Wie zuverlässig funktionieren selbstfahrende Fahrzeuge unter realen europäischen Winterbedingungen, in denen Schnee, Salz und Glatteis zum Alltag gehören?"
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

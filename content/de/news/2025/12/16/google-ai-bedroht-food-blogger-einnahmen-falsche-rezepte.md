@@ -7,10 +7,10 @@ translationKey: "google_ai_food_blogger_crisis_16122025"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/dec/15/google-ai-recipes-food-bloggers"
 author: "Metaadvisor.eu"
-image_url: "/images/Google-al-cook-mess.png"
-featured_image: "/images/Google-al-cook-mess.png"
-image: "/images/Google-al-cook-mess.png"
-thumbnail: "/images/Google-al-cook-mess.png"
+image_url: "/images/Google-al-cook-mess.webp"
+featured_image: "/images/Google-al-cook-mess.webp"
+image: "/images/Google-al-cook-mess.webp"
+thumbnail: "/images/Google-al-cook-mess.webp"
 image_alt: "Google AI Kochchaos Illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: [
@@ -20,6 +20,7 @@ tags: [
   "fehlinformationen", "seo", "digitalwirtschaft"
 ]
 summary: "Google AI erzeugt verfälschte Rezepte, verdrängt Food-Blogger aus der Suche und führt zu massiven Einnahmeverlusten – mit potenziellen Risiken für Verbraucher."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

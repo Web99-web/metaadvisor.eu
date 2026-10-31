@@ -23,6 +23,7 @@ tags:
   - crypto market
   - investing
 summary: "BlackRock’s IBIT ranks among the top ETFs by inflows in 2025 despite posting negative returns, highlighting long-term institutional conviction in Bitcoin."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

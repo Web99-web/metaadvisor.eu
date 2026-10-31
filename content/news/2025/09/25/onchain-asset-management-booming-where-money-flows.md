@@ -28,6 +28,7 @@ tags:
   - maple
   - defi
 summary: "AUM in onchain asset management jumped 118% to $35B in 2025. Standouts: discretionary strategies (+738% YTD), concentration (Morpho/Pendle/Maple = 31%), vaults with ~$18B deposits."
+categories: ["ai"]
 ---
 
 **A new Keyrock report says onchain asset management is having a breakout year.**  

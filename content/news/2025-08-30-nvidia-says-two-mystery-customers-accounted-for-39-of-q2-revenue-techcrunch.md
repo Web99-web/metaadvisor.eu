@@ -9,6 +9,7 @@ summary: "Nearly 40% of Nvidia’s second-quarter revenue came from just two com
 tags: ["nvidia", "ai", "business"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/nvidia-chip-data-center.jpg?w=1200"
 image: "https://techcrunch.com/wp-content/uploads/2025/08/nvidia-chip-data-center.jpg?w=1200"
+categories: ["news"]
 ---
 
 Nearly 40% of Nvidia’s second-quarter revenue came from just two customers, according to a filing with the SEC.  

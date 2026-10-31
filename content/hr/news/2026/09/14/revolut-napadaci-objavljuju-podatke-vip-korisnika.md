@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu / AI"
 tags: ["Revolut", "kibernetička sigurnost", "cybersecurity", "curenje podataka", "osobni podaci", "VIP korisnici", "krađa identiteta", "KYC", "selfie verifikacija", "Bitcoin", "kriptovalute", "Alexander Shevchenko", "Felix Römer", "Mark Karpelès", "Mt. Gox", "Gamdom", "ucjena", "privatnost"]
 description: "Napadači koji su došli do podataka Revolutovih korisnika navodno su počeli objavljivati identifikacijske dokumente i selfieje te prijete novim objavama dok Revolut ne plati."
 summary: "Revolutov incident prerastao je u aktivnu ucjenu. Napadači navodno objavljuju podatke korisnika i prijete svakodnevnim novim leakovima. Među javno imenovanim osobama nalaze se Alexander Shevchenko i Felix Römer, dok je bivši CEO Mt. Goxa Mark Karpelès ranije potvrdio da je i sam pogođen incidentom."
+categories: ["Cybersecurity"]
 ---
 
 *Slika je simbolična.*
@@ -71,7 +72,7 @@ Već smo pisali o tome da Meta u određenim postupcima verifikacije od korisnika
 
 <div style="text-align:center; margin:2rem auto;">
   <a href="https://metaadvisor.eu/hr/news/sto-meta-facebook-instagram-radi-sa-snimkom-vaseg-lica/" target="_blank" rel="noopener">
-    <img src="/images/Meta/Meta-face-recording.png" alt="Što Meta radi sa snimkom vašeg lica?" style="display:block; width:70%; max-width:700px; height:auto; margin:0 auto;">
+    <img src="/images/Meta/Meta-face-recording.webp" alt="Što Meta radi sa snimkom vašeg lica?" style="display:block; width:70%; max-width:700px; height:auto; margin:0 auto;">
   </a>
   <p style="font-size:0.9em; margin-top:0.6rem;"><a href="https://metaadvisor.eu/hr/news/sto-meta-facebook-instagram-radi-sa-snimkom-vaseg-lica/" target="_blank" rel="noopener"><strong>Što Meta radi sa snimkom vašeg lica?</strong></a></p>
 </div>

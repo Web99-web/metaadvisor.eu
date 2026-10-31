@@ -15,6 +15,7 @@ image_alt: "Ethereum Foundation Budgetkürzung und strategischer Reset von Ether
 image_credit: "Metaadvisor.eu"
 tags: ["Ethereum", "Ethereum Foundation", "Vitalik Buterin", "ETH", "Crypto", "Kryptowährungen", "Blockchain", "Budgetkürzung", "Treasury", "Endowment-Modell", "Dezentralisierung", "Web3", "Ethereum Roadmap", "Kryptomarkt", "Metaadvisor"]
 summary: "Die Ethereum Foundation plant, ihr Budget um rund 40% zu kürzen und auf ein langfristigeres, sparsameres Finanzierungsmodell umzusteigen. Ist das ein Zeichen einer Krise in der Foundation oder ein Versuch, Ethereum als globale Infrastruktur reifer zu machen?"
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

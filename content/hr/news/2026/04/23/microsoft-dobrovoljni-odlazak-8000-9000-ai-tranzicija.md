@@ -7,14 +7,15 @@ translationKey: "microsoft-voluntary-buyout-ai-transition"
 source: "Bloomberg, Reuters, WSJ"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-replaces-people.png"
-featured_image: "/images/AI-replaces-people.png"
-image: "/images/AI-replaces-people.png"
-thumbnail: "/images/AI-replaces-people.png"
+image_url: "/images/AI-replaces-people.webp"
+featured_image: "/images/AI-replaces-people.webp"
+image: "/images/AI-replaces-people.webp"
+thumbnail: "/images/AI-replaces-people.webp"
 image_alt: "AI replacing people concept illustration showing human transitioning into artificial intelligence"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["ai","umjetna inteligencija","microsoft","poslovi","tehnologija","automatizacija","future of work","big tech","reorganizacija"]
 summary: "Microsoft nudi dobrovoljni odlazak za do 7% zaposlenika u SAD-u, što otvara pitanje radi li se o klasičnoj reorganizaciji ili početku šire AI tranzicije tržišta rada."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

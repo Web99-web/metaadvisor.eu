@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/CME-altcoins.png"
-featured_image: "/images/CME-altcoins.png"
-image: "/images/CME-altcoins.png"
-thumbnail: "/images/CME-altcoins.png"
+image_url: "/images/CME-altcoins.webp"
+featured_image: "/images/CME-altcoins.webp"
+image: "/images/CME-altcoins.webp"
+thumbnail: "/images/CME-altcoins.webp"
 image_alt: "CME Group and altcoin futures for Cardano, Chainlink and Stellar"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -29,6 +29,7 @@ tags:
   - institutional investors
   - regulated market
 summary: "CME Group has announced the launch of futures contracts for Cardano, Chainlink and Stellar, further expanding its regulated crypto derivatives offering beyond Bitcoin and Ethereum."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

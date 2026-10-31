@@ -9,6 +9,7 @@ summary: "Rechtliche Klarheit nach Ripples Gerichtsverfahren stützt weiter inst
 tags: ["crypto","xrp","ripple","fed","powell","kursziel","technische-analyse"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/f3e12572faeee8e49886bb6b1267389ae8259928-741x452.png?auto=format"
 image_alt: "XRP — CoinDesk Data Grafik"
+categories: ["news"]
 ---
 
 **XRP** setzte seine **Rallye** am **23. August** fort, als **institutionelle Volumina** über dem Schnitt lagen und den bullischen Ton nach Wochen der Konsolidierung untermauerten. Der Move **fiel zusammen** mit **dovishen** Bemerkungen von **Fed-Chef Jerome Powell** in **Jackson Hole**, die Erwartungen einer **Zinssenkung im September** stärkten und eine Rotation in **Risk-On-Assets** inklusive Krypto auslösten. Die **rechtliche Klarheit** nach Ripples Verfahren unterstützt weiterhin institutionelle Flüsse; Analysten peilen nun **5–8 $** an, sollte **XRP** **kurzfristige Widerstände** überzeugend überwinden.

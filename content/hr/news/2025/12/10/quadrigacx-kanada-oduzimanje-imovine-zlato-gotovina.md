@@ -7,14 +7,15 @@ translationKey: "quadrigacx_canada_forfeiture_10122025"
 source: "MetaAdvisor – analiza CoinDesk izvještaja"
 source_url: "https://www.coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Canada-forfeiture-gold-QuadrigaCX.png"
-featured_image: "/images/Canada-forfeiture-gold-QuadrigaCX.png"
-image: "/images/Canada-forfeiture-gold-QuadrigaCX.png"
-thumbnail: "/images/Canada-forfeiture-gold-QuadrigaCX.png"
+image_url: "/images/Canada-forfeiture-gold-QuadrigaCX.webp"
+featured_image: "/images/Canada-forfeiture-gold-QuadrigaCX.webp"
+image: "/images/Canada-forfeiture-gold-QuadrigaCX.webp"
+thumbnail: "/images/Canada-forfeiture-gold-QuadrigaCX.webp"
 image_alt: "Canada QuadrigaCX gold forfeiture – techno style"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["quadrigacx","kanada","zlato","forfeiture","kriminal","kriptovalute","sud","istraga","british-columbia","crypto","analysis"]
 summary: "Kanadska Britanska Kolumbija oduzela je više od 1 milijun USD u zlatu, gotovini i luksuznim predmetima od suosnivača QuadrigaCX-a Michaela Patryna, označavajući najveći pomak u slučajevima civilnog forfeiturea u kripto industriji."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

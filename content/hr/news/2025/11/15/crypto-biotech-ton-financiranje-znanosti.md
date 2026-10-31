@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "e34c55180048beb4d9b8e957047e751b"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/crypto-treasuries-blockchain-pave-way-decentralized-science?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "/images/Crypto-biotech-TON.png"
-featured_image: "/images/Crypto-biotech-TON.png"
-image: "/images/Crypto-biotech-TON.png"
-thumbnail: "/images/Crypto-biotech-TON.png"
+image_url: "/images/Crypto-biotech-TON.webp"
+featured_image: "/images/Crypto-biotech-TON.webp"
+image: "/images/Crypto-biotech-TON.webp"
+thumbnail: "/images/Crypto-biotech-TON.webp"
 image_alt: "Crypto x Biotech vizual – decentralizirana znanost financirana blockchainom"
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto", "biotech", "blockchain", "research", "science", "ton", "toncoin", "rwa", "decentralized science", "desci", "ulaganje", "analiza"]
 summary: "Biomedicinske i znanstvene kompanije sve češće koriste blockchain, kripto trezore i tokenizaciju realne imovine za financiranje razvoja — zaobilazeći tradicionalne, spore i birokratske modele istraživačkog financiranja."
+categories: ["crypto"]
 ---
 
 Biomedicinske i znanstvene kompanije sve češće okreću se blockchain tehnologiji i kripto trezorima kako bi financirale ranu fazu istraživanja — zaobilazeći spore, birokratske i često neučinkovite tradicionalne modele.

@@ -15,6 +15,7 @@ image_alt: "Kako pretvoriti kripto u novac"
 image_credit: "Ilustracija"
 tags: ["crypto","kripto","fiat","isplata","mjenjacnice","bitcoin","altcoin","trgovanje","banke","regulacija"]
 summary: "Ulazak u kripto je jednostavan, ali izlaz u fiat često postaje problem. Donosimo realan pregled kako funkcionira povlačenje novca i gdje korisnici najčešće griješe."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

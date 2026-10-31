@@ -15,6 +15,7 @@ image_alt: "Ethereum price in a consolidation zone around $2000"
 image_credit: "MetaAdvisor.eu"
 tags: ["ethereum", "eth", "crypto", "trading", "liquidations", "leverage", "bitcoin", "defi", "market", "analysis", "price", "trend"]
 summary: "Ether has been holding around $2000 for days without a clear direction. While some analyses warn of a possible drop to $1700, the market currently shows a phase of waiting and indecision."
+categories: ["crypto"]
 ---
 
 Image is symbolic.

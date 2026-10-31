@@ -15,6 +15,7 @@ image_alt: "South Korea delays digital asset law over stablecoin issuance debate
 image_credit: "MetaAdvisor illustration"
 tags: ["crypto", "stablecoin", "regulation", "south korea", "digital assets", "fintech", "banks"]
 summary: "South Korea’s long-awaited digital asset law has been delayed again due to a regulatory dispute over who should be allowed to issue won-pegged stablecoins."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

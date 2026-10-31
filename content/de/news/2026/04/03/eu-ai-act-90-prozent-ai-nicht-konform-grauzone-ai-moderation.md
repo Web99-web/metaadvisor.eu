@@ -15,6 +15,7 @@ image_alt: "EU AI Act und Nichtkonformität von KI-Systemen"
 image_credit: "MetaAdvisor.eu"
 tags: ["eu ai act","ai gesetz","ai moderation","meta","facebook","instagram","rekrutierung","regulierung","ai konformität","ai governance","nichtkonformität","regulatorisches risiko","ai transparenz","ai verantwortung","gdpr","nis2","dora","cybersicherheit"]
 summary: "Der EU AI Act gilt für alle Unternehmen, die Nutzer in der EU beeinflussen — während sich die Frage stellt, ob die Regulierung das eigentliche Problem erkennt oder sich auf kleinere Systeme konzentriert."
+categories: ["tech"]
 ---
 
 *Das Bild ist symbolisch.*

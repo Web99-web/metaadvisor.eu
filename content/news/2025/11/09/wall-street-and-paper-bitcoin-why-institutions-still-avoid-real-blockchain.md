@@ -16,6 +16,7 @@ image_alt: "Green Bitcoin symbolizing institutional investment in crypto"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "wall street", "etf", "blockchain", "offchain", "crypto", "finance"]
 summary: "Wall Street loves Bitcoin — but not its blockchain. Behind the scenes, institutions trade 'paper Bitcoin' off-chain, maintaining control over timing and risk."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

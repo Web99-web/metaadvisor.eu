@@ -7,14 +7,15 @@ translationKey: "aave-recovery-defi-31-percent-2026"
 author: "Metaadvisor.eu"
 source: "Market analysis"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/AAVE-credits1.png"
-featured_image: "/images/AAVE-credits1.png"
-image: "/images/AAVE-credits1.png"
-thumbnail: "/images/AAVE-credits1.png"
+image_url: "/images/AAVE-credits1.webp"
+featured_image: "/images/AAVE-credits1.webp"
+image: "/images/AAVE-credits1.webp"
+thumbnail: "/images/AAVE-credits1.webp"
 image_alt: "AAVE DeFi lending concept illustration"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["aave", "defi", "decentralizirane financije", "crypto", "kripto", "lending", "altcoin", "blockchain", "tržište", "opravak", "bitcoin"]
 summary: "AAVE je blago korigirao oko 3,3%, ali se i dalje nalazi približno 31% iznad lokalnog dna zabilježenog početkom veljače. Analiziramo što to znači za DeFi sektor i tržišni sentiment."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

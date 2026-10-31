@@ -14,6 +14,7 @@ image_alt: "Crypto market illustration"
 image_credit: "Illustrative image"
 tags: ["crypto","bitcoin","btc","ethereum","eth","bnb","xrp","sol","doge","ada","hype","link","xlm","predictions","technical-analysis"]
 summary: "Daily look at key levels and technical signals for leading cryptocurrencies (Oct 17). Focus on Bitcoin and its impact on altcoins."
+categories: ["crypto"]
 ---
 
 ## Bitcoin (BTC)

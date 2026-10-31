@@ -15,6 +15,7 @@ image_alt: "Symbolic illustration of development growth on the Ethereum network"
 image_credit: "MetaAdvisor.eu"
 tags: ["ethereum", "eth", "crypto", "blockchain", "smart-contracts", "defi", "stablecoins", "tokenization"]
 summary: "Ethereum recorded a historic high of 8.7 million newly deployed smart contracts in Q4 2025, signaling accelerating network development despite muted ETH price action."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

@@ -6,15 +6,16 @@ category: "Markets"
 translationKey: "copper-hits-record-bitcoin-stalls-2026-09-07"
 source: "Wall Street Journal, Reuters, Farside Investors, CoinGecko, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Copper-hits-record.png"
-featured_image: "/images/news/Copper-hits-record.png"
-image: "/images/news/Copper-hits-record.png"
-thumbnail: "/images/news/Copper-hits-record.png"
+image_url: "/images/news/Copper-hits-record.webp"
+featured_image: "/images/news/Copper-hits-record.webp"
+image: "/images/news/Copper-hits-record.webp"
+thumbnail: "/images/news/Copper-hits-record.webp"
 image_alt: "Copper hits a record while Bitcoin stalls and gold weakens"
 image_credit: "Metaadvisor.eu"
 tags: ["copper", "Bitcoin", "crypto", "metals", "industrial metals", "gold", "AI", "data centers", "electrification", "energy infrastructure", "ETFs", "Federal Reserve", "commodities", "financial markets"]
 description: "Copper has reached a new record above $14,500 per tonne while Bitcoin remains around $79,000 and gold weakens. Markets are showing a clearer divide between industrial metals, crypto and precious metals."
 summary: "Record copper prices, strong demand from AI and energy infrastructure, and supply constraints are creating new momentum, while Bitcoin is not yet following at the same pace and gold remains under pressure from higher-rate expectations."
+categories: ["Markets"]
 ---
 
 *The image is symbolic.*

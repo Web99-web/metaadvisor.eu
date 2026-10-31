@@ -16,6 +16,7 @@ image_alt: "Hyperliquid platforma i S&P 500 indeks na blockchainu"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags: ["kripto", "bitcoin", "blockchain", "derivati", "trgovanje", "sp500", "hyperliquid", "defi", "perpetual", "financije", "tradfi", "onchain"]
 summary: "S&P 500 prvi put dolazi na blockchain kroz licencirane perpetual futures ugovore na Hyperliquid platformi, omogućujući 24/7 trgovanje bez isteka."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

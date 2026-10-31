@@ -9,6 +9,7 @@ summary: "Der Vergleich beendet einen dreijährigen Rechtsstreit über Sneaker-N
 tags: ["Nike","StockX","NFT","Sneaker","Markenrecht","Fake-Schuhe","Gericht","Brands"]
 image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/09/nike-stockx-lawsuit-gID_7.jpg"
 image_url_small: "https://cdn.decrypt.co/wp-content/uploads/2025/09/nike-stockx-lawsuit-gID_7.jpg?auto=format&fit=max&w=1200"
+categories: ["news"]
 ---
 
 Nike und StockX, ein in Detroit ansässiger Online-Marktplatz, haben ihren dreijährigen Rechtsstreit vor einem Bundesgericht in New York beigelegt. Der Streit betraf sneakergebundene NFTs und Markenrechtsverletzungen. Mit der Einigung entfällt das für Oktober geplante Geschworenenverfahren.  

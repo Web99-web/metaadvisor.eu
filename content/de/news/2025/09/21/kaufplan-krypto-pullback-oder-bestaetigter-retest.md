@@ -13,6 +13,7 @@ image_alt: "BTC/ETH – symbolische Marktübersicht"
 image_credit: "Metaadvisor (symbolisches Bild)"
 tags: ["Krypto-Strategie", "Pullback", "Trend-Follow", "DCA", "ETF-Flows", "DXY", "Funding", "Open-Interest", "Spot-vs-Perps", "Risikomanagement"]
 summary: "Kein Ratespiel: Zwei praktikable Wege für Einstiege—gestaffelt Schwäche kaufen oder Stärke nach Bestätigung kaufen—plus klare Invalidationen und Signalschablonen."
+categories: ["education"]
 ---
 
 **Kurz & knapp:**  

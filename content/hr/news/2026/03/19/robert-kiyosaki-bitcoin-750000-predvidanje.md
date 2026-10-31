@@ -7,14 +7,15 @@ translationKey: "3598b220d41c351dc5588ffd9b816ee7"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/news/Robert-Kiyosaki-btc-750000.png"
-featured_image: "/images/news/Robert-Kiyosaki-btc-750000.png"
-image: "/images/news/Robert-Kiyosaki-btc-750000.png"
-thumbnail: "/images/news/Robert-Kiyosaki-btc-750000.png"
+image_url: "/images/news/Robert-Kiyosaki-btc-750000.webp"
+featured_image: "/images/news/Robert-Kiyosaki-btc-750000.webp"
+image: "/images/news/Robert-Kiyosaki-btc-750000.webp"
+thumbnail: "/images/news/Robert-Kiyosaki-btc-750000.webp"
 image_alt: "Robert Kiyosaki i predviđanje Bitcoina od 750.000 dolara"
 tags: ["kripto", "bitcoin", "analiza", "tržište", "investicije"]
 summary: "Robert Kiyosaki tvrdi da bi Bitcoin mogao dosegnuti 750.000 dolara nakon kolapsa financijskog sustava. No koliko je takav scenarij realan u trenutnim tržišnim uvjetima?"
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 *Slika je simbolična*

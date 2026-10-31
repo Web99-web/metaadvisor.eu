@@ -7,14 +7,15 @@ translationKey: "nafta-iznenadujuce-nisko-wti-brent-plin-krhkost-trzista-2026-06
 source: "Reuters, Trading Economics, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-Gas-news.png"
-featured_image: "/images/Oil-Gas-news.png"
-image: "/images/Oil-Gas-news.png"
-thumbnail: "/images/Oil-Gas-news.png"
+image_url: "/images/Oil-Gas-news.webp"
+featured_image: "/images/Oil-Gas-news.webp"
+image: "/images/Oil-Gas-news.webp"
+thumbnail: "/images/Oil-Gas-news.webp"
 image_alt: "Oil and gas news with market charts, oil barrels and gas infrastructure"
 image_credit: "Metaadvisor.eu"
 tags: ["oil", "gas", "WTI", "Brent", "oil prices", "gas prices", "energy market", "natural gas", "LNG", "Qatar", "TTF gas", "Strait of Hormuz", "Iran", "Middle East", "geopolitical risk", "energy markets", "Metaadvisor"]
 summary: "WTI is around 71 dollars, Brent around 74 dollars, and the oil market looks surprisingly calm while negotiations and energy risks are still not fully resolved. Gas, however, continues to show how fragile the global LNG system remains."
+categories: ["markets"]
 ---
 
 The image is symbolic.

@@ -7,14 +7,15 @@ translationKey: "booking-com-sms-whatsapp-phishing-wrong-link-2026-06-11"
 source: "Booking.com, Verbraucherzentrale, Watchlist Internet, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/booking-phishing-alert.png"
-featured_image: "/images/hack/booking-phishing-alert.png"
-image: "/images/hack/booking-phishing-alert.png"
-thumbnail: "/images/hack/booking-phishing-alert.png"
+image_url: "/images/hack/booking-phishing-alert.webp"
+featured_image: "/images/hack/booking-phishing-alert.webp"
+image: "/images/hack/booking-phishing-alert.webp"
+thumbnail: "/images/hack/booking-phishing-alert.webp"
 image_alt: "Booking.com-Phishing-Warnung mit gefälschten SMS- und WhatsApp-Nachrichten"
 image_credit: "Metaadvisor.eu"
 tags: ["Booking.com", "Phishing", "SMS-Phishing", "WhatsApp-Phishing", "Cybersicherheit", "Online-Betrug", "gefälschte Links", "Hotelbuchung", "Reservierungen", "Touristen", "Reisen", "Betrug", "Internetsicherheit", "gefälschte Nachrichten", "Datenschutz", "Metaadvisor"]
 summary: "Eine Warnung in einer deutschen Facebook-Gruppe über gefälschte Booking.com-WhatsApp- und SMS-Nachrichten zeigte, wie überzeugend solche Betrugsversuche wirken können, wenn sie vertraute Details wie [no-reply@booking.com](mailto:no-reply@booking.com), einen sichtbaren booking.com-Link und Hotelkontext anzeigen. Die eigentliche Gefahr liegt oft in dem Link, den der Nutzer öffnen soll."
+categories: ["cybersecurity"]
 ---
 
 Das Bild ist symbolisch.

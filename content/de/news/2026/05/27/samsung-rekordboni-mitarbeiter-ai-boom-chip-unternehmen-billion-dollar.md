@@ -7,14 +7,15 @@ translationKey: "fc6df9ded4c00363faa324c62ba2b88f"
 source: "Metaadvisor (The Guardian, Reuters, Bloomberg)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Samsung-AI-chip.png"
-featured_image: "/images/companies/Samsung-AI-chip.png"
-image: "/images/companies/Samsung-AI-chip.png"
-thumbnail: "/images/companies/Samsung-AI-chip.png"
+image_url: "/images/companies/Samsung-AI-chip.webp"
+featured_image: "/images/companies/Samsung-AI-chip.webp"
+image: "/images/companies/Samsung-AI-chip.webp"
+thumbnail: "/images/companies/Samsung-AI-chip.webp"
 image_alt: "Samsung AI-Speicherchips und Rekordboni für Mitarbeiter"
 image_credit: "Metaadvisor.eu"
 tags: ["samsung", "ai", "künstliche intelligenz", "chips", "speicherchips", "semiconductor", "halbleiter", "sk hynix", "micron", "ai-boom", "rechenzentren", "mitarbeiter", "boni", "gewerkschaften", "technologie", "börse", "marktkapitalisierung", "billion dollar", "memory chips", "ai-infrastruktur"]
 summary: "Samsung-Mitarbeiter in der Speicherchip-Sparte sollen nach einer Einigung mit den Gewerkschaften Rekordboni erhalten. Der AI-Boom füllt nicht mehr nur Börsenbewertungen, sondern wirkt sich immer stärker auch auf Gehälter, Boni und die Verhandlungsmacht von Beschäftigten in wichtigen Technologiesektoren aus."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

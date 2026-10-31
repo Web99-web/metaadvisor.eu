@@ -23,6 +23,7 @@ tags:
   - manipulacija
   - internet
 summary: "Wikipedia nam svakodnevno pomaže u učenju i informiranju, ali nedavni slučajevi upozoravaju koliko pokušaji manipulacije sadržajem mogu biti opasni, posebno kod političkih i povijesnih tema."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

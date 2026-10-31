@@ -15,6 +15,7 @@ image_alt: "Rückgang des Bitcoin-Preises und Liquidationen am Markt"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "liquidationen", "markt", "etf", "inflation", "fed", "zinsen", "crypto"]
 summary: "Bitcoin ist unter $66,000 gefallen und erreichte etwa $65,760, begleitet von über $300 Millionen an Liquidationen, während makroökonomischer Druck und ETF-Abflüsse die Marktinstabilität verstärken."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

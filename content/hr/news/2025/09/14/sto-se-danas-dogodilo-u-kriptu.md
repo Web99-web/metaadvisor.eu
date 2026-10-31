@@ -3,13 +3,15 @@ title: "Što se danas dogodilo u kriptu"
 slug: "sto-se-danas-dogodilo-u-kriptu"
 date: 2025-09-14T13:15:17Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-09-14"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today"
 image_url: "/images/finance1.jpg"
 image_alt: "Dnevni sažetak vijesti s kripto tržišta"
 tags: ["crypto","makro","etf","policy","asia"]
 summary: "Pakistan otvara licenciranje za kripto tvrtke; ETF-ovi na BTC/ETH bilježe snažne priljeve; tržišni veterani vide jaču institucionalnu potražnju; rasprava o budućnosti ticker-oznaka za stablecoine; BTC oko 115k USD."
+categories: ["crypto"]
+url: "/hr/news/sto-se-danas-dogodilo-u-kriptu-2025-09-14/"
 ---
 
 **Ključne točke dana:**

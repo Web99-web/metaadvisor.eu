@@ -7,15 +7,16 @@ translationKey: "apple-iphone-duo-first-foldable-iphone-2026-09-09"
 source: "Apple, Samsung, Counterpoint Research, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Apple/Apple-foldable-Iphone.png"
-featured_image: "/images/Apple/Apple-foldable-Iphone.png"
-image: "/images/Apple/Apple-foldable-Iphone.png"
-thumbnail: "/images/Apple/Apple-foldable-Iphone.png"
+image_url: "/images/Apple/Apple-foldable-Iphone.webp"
+featured_image: "/images/Apple/Apple-foldable-Iphone.webp"
+image: "/images/Apple/Apple-foldable-Iphone.webp"
+thumbnail: "/images/Apple/Apple-foldable-Iphone.webp"
 image_alt: "Apple iPhone Duo, prvi preklopni iPhone s velikim unutarnjim zaslonom"
 image_credit: "Metaadvisor.eu"
 tags: ["Apple", "iPhone Duo", "iPhone", "preklopni iPhone", "preklopni telefoni", "foldable telefoni", "pametni telefoni", "A20 Pro", "iOS 27", "Apple Intelligence", "Siri AI", "Samsung", "Galaxy Fold", "Galaxy Z Fold", "mobilna tehnologija"]
 description: "Apple je predstavio iPhone Duo, svoj prvi preklopni iPhone s 7,6-inčnim unutarnjim zaslonom, A20 Pro čipom, iOS-om 27 i početnom cijenom od 1.999 dolara."
 summary: "Apple ulazi na tržište preklopnih telefona s iPhoneom Duo, uređajem koji se otvara u 7,6-inčni zaslon. Foldables su 2025. činili samo 1,6% globalnih isporuka smartfona, pa ostaje pitanje može li Apple kategoriju konačno približiti mainstreamu."
+categories: ["Tech"]
 ---
 
 *Slika je simbolična.*

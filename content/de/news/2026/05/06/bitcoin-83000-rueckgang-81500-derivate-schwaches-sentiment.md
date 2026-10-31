@@ -15,6 +15,7 @@ image_alt: "Bitcoin-Anstieg Richtung 83k mit Rückgang auf 81.5k bei schwachem D
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "crypto", "trading", "derivate", "futures", "optionen", "makro", "inflation", "iran", "oel", "markt", "volatilitaet", "krypto markt"]
 summary: "Bitcoin stieg fast auf $83.000, fiel jedoch schnell auf $81.500 zurück. Trotz steigender Preise deuten Derivate und Makro-Signale auf Vorsicht und fehlende Marktüberzeugung hin."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

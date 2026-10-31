@@ -9,6 +9,7 @@ summary: "Das Vereinigte Königreich setzt seit Kurzem neue Alterskontrollregeln
 tags: ["UK","Gesetz","Alterskontrolle","Compliance","Pornografie","Traffic","Regulierung","Online-Safety-Act","Internet","Datenschutz"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-1180208300.jpg?w=1390&crop=1"
 image_url_small: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-1180208300.jpg?w=600&crop=1"
+categories: ["news"]
 ---
 
 Das Vereinigte Königreich setzt seit Kurzem die Alterskontrollregeln des Online Safety Act durch, und laut Washington Post hat dies bereits erhebliche Auswirkungen auf den Web-Traffic.  

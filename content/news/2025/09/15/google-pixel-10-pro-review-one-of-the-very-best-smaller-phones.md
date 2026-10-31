@@ -10,6 +10,7 @@ image_url: "/images/mobile-phone-ruke.jpg"
 image_alt: "Google Pixel 10 Pro in hand"
 tags: ["smartphone","google","pixel","review"]
 summary: "Flagship-class cameras, thoughtful AI and a superb display in a hand-friendly frame — plus a faster Tensor G5, Qi2 charging and a £999 starting price."
+categories: ["news"]
 ---
 
 The **Pixel 10 Pro** is the rare flagship that still feels **compact**. It takes the excellent Pixel 10 blueprint and dials up the **cameras**, while keeping the **6.3-inch OLED** at the same pocket-friendly size — now **brighter**, **smoother** and **crisper**. Polished aluminium sides and a matte back sell the premium vibe, even if Google’s **colour options** play it safe.

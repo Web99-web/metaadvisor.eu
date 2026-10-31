@@ -11,6 +11,7 @@ image_url: "/images/placeholder.jpg"
 tags: ["fintech", "blockchain", "stocks", "ipo", "figure", "figr", "provenance", "mortgage"]
 our_take: |
   Naš osvrt: Figure je IPO-om po 25 $ otvorio trgovanje oko 36 $ (+44 %), uz impliciranu valuaciju oko 7,6 mlrd $. Teza je „blockchain kao tržišna infrastruktura” (Provenance), a ne klasična kripto-trgovina. Pratiti: volumene kredita na platformi, trošak financiranja kako se mijenjaju kamate te kvalitetu kreditiranja kroz ciklus. Bitni i greenshoe te ponuda nakon isteka lock-upa.
+categories: ["news"]
 ---
 
 **Figure Technology Solutions (FIGR)** snažno je debitirao na Nasdaqu, **otvorivši na 36 $ po dionici nakon IPO cijene od 25 $**, što implicira **valuaciju oko 7,6 mlrd. dolara**.

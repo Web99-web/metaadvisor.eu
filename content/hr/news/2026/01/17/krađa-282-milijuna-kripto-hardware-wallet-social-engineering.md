@@ -24,6 +24,7 @@ tags:
   - self custody
   - blockchain
 summary: "Jedna od najvećih pojedinačnih krađa kriptovaluta u povijesti pokazala je da ni hardware wallet ne može zaštititi korisnika od sofisticiranog social engineering napada."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

@@ -16,6 +16,7 @@ image_alt: "Bijela kuća i američka zastava"
 image_credit: "Metaadvisor.eu"
 tags: ["trump", "crypto", "bitcoin", "usa", "inflacija", "stimulus", "politika"]
 summary: "Trump je najavio isplatu 'dividende' od 2000 dolara po osobi iz carinskih prihoda. Analitičari upozoravaju da bi kratkoročno moglo potaknuti tržišta, ali dugoročno povećati inflaciju."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

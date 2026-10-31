@@ -7,14 +7,15 @@ translationKey: "tao-bittensor-decentralization-2026"
 author: "Metaadvisor.eu"
 source: "Cointelegraph, TradingView, Binance, MEXC"
 source_url: ""
-image_url: "/images/TAO-bittensor.png"
-featured_image: "/images/TAO-bittensor.png"
-image: "/images/TAO-bittensor.png"
-thumbnail: "/images/TAO-bittensor.png"
+image_url: "/images/TAO-bittensor.webp"
+featured_image: "/images/TAO-bittensor.webp"
+image: "/images/TAO-bittensor.webp"
+thumbnail: "/images/TAO-bittensor.webp"
 image_alt: "TAO i Bittensor AI mreža"
 image_credit: "Metaadvisor ilustracija"
 tags: ["tao", "bittensor", "ai", "kripto", "blockchain", "decentralizacija", "token", "tržište", "volatilnost"]
 summary: "TAO, koji se često naziva ‘AI Bitcoin’, našao se pod pritiskom nakon odlaska ključnog tima i optužbi za centralizaciju, no kretanje cijene pokazuje i snažan utjecaj šireg tržišta."
+categories: ["crypto"]
 ---
 
 _Slika je simbolična._

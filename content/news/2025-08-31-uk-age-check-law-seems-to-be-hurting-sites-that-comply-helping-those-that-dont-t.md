@@ -9,6 +9,7 @@ summary: "The U.K. recently started enforcing new age-check rules, and The Washi
 tags: ["UK","law","age-check","compliance","porn","traffic","regulation","Online-Safety-Act","internet","privacy"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-1180208300.jpg?w=1390&crop=1"
 image_url_small: "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-1180208300.jpg?w=600&crop=1"
+categories: ["news"]
 ---
 
 The United Kingdom recently began enforcing the Online Safety Act’s age-check rules, and The Washington Post reports that it’s already having a significant effect on web traffic.  

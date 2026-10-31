@@ -9,10 +9,10 @@ source_url: "https://www.coindesk.com/business/2025/09/27/nydig-calls-for-bitcoi
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
 
-image_url: "/images/miner-mining.png"
-featured_image: "/images/miner-mining.png"
-image: "/images/miner-mining.png"
-thumbnail: "/images/miner-mining.png"
+image_url: "/images/miner-mining.webp"
+featured_image: "/images/miner-mining.webp"
+image: "/images/miner-mining.webp"
+thumbnail: "/images/miner-mining.webp"
 image_alt: "Bitcoin mining — symbolic image"
 image_credit: "Metaadvisor — symbolic"
 
@@ -33,6 +33,7 @@ tags:
   - analysis
 
 summary: "NYDIG argues the widely used mNAV metric for Bitcoin treasuries is misleading because it ignores operating businesses, other assets and liabilities — especially convertible debt."
+categories: ["crypto"]
 ---
 
 **At a glance**  

@@ -7,10 +7,10 @@ translationKey: "dubai_insurance_crypto_wallet_20260130"
 source: "Cointelegraph / MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Dubai-Insurance-crypto.png"
-featured_image: "/images/Dubai-Insurance-crypto.png"
-image: "/images/Dubai-Insurance-crypto.png"
-thumbnail: "/images/Dubai-Insurance-crypto.png"
+image_url: "/images/Dubai-Insurance-crypto.webp"
+featured_image: "/images/Dubai-Insurance-crypto.webp"
+image: "/images/Dubai-Insurance-crypto.webp"
+thumbnail: "/images/Dubai-Insurance-crypto.webp"
 image_alt: "Dubai Insurance uvodi kripto novčanik za police i isplate"
 image_credit: "Ilustracija / MetaAdvisor.eu"
 tags:
@@ -26,6 +26,7 @@ tags:
   - regulacija kripta
   - institucionalna adopcija
 summary: "Dubai Insurance lansirao je kripto novčanik koji omogućuje plaćanje premija i isplatu odšteta u digitalnoj imovini. Riječ je o prvom takvom rješenju u osiguravateljskom sektoru UAE-a, uz institucionalnu skrb i regulatorni okvir."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

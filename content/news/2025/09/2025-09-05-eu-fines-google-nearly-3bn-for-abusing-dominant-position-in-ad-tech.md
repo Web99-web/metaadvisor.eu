@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/05/google-fined-eur
 summary: "Regulators ordered the tech giant to end ‘self-preferencing practices’ in advertising services but declined to force sale"
 image_url: "/images/Google.png"
 tags: ["eu", "google", "technology", "adtech", "antitrust", "competition", "fines"]
+categories: ["news"]
 ---
 
 Regulators ordered the tech giant to end ‘self-preferencing practices’ in advertising services but declined to force sale.

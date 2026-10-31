@@ -7,10 +7,10 @@ translationKey: "840cb61719cbae620c49fc1b036b6988"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/nasdaq-cme-group-nasdaq-cme-crypto-index"
 author: "MetaAdvisor.eu"
-image_url: "/images/Nasdaq-CME-crypto-index.png"
-featured_image: "/images/Nasdaq-CME-crypto-index.png"
-image: "/images/Nasdaq-CME-crypto-index.png"
-thumbnail: "/images/Nasdaq-CME-crypto-index.png"
+image_url: "/images/Nasdaq-CME-crypto-index.webp"
+featured_image: "/images/Nasdaq-CME-crypto-index.webp"
+image: "/images/Nasdaq-CME-crypto-index.webp"
+thumbnail: "/images/Nasdaq-CME-crypto-index.webp"
 image_alt: "Nasdaq and CME join forces to launch a joint crypto index"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -32,6 +32,7 @@ tags:
   - nasdaq
   - cme
 summary: "Nasdaq and CME Group have merged their crypto benchmarks into a joint index tracking Bitcoin, Ethereum and other leading digital assets, aimed primarily at institutional investors."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

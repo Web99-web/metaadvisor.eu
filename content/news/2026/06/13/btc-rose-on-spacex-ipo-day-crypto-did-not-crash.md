@@ -15,6 +15,7 @@ image_alt: "Crypto market focus, Bitcoin, Ethereum, Solana and HYPE after SpaceX
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "Solana", "SOL", "Hyperliquid", "HYPE", "SpaceX IPO", "crypto market", "altcoins", "market recap", "crypto trading", "perpetual futures", "Metaadvisor"]
 summary: "On the day of the SpaceX IPO, many expected a crypto crash and capital flight from Bitcoin and altcoins. But Bitcoin rose from intraday lows, HYPE remained one of the key crypto stories of the day, and the market showed no broad panic."
+categories: ["crypto"]
 ---
 
 The image is symbolic.

@@ -7,14 +7,15 @@ translationKey: "samsung_google_photos_memories_tv_2026"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/12/29/samsung-plans-to-bring-google-photos-to-its-tvs-in-2026/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Samsung-TV-Google-photos-Memories.png"
-featured_image: "/images/Samsung-TV-Google-photos-Memories.png"
-image: "/images/Samsung-TV-Google-photos-Memories.png"
-thumbnail: "/images/Samsung-TV-Google-photos-Memories.png"
+image_url: "/images/Samsung-TV-Google-photos-Memories.webp"
+featured_image: "/images/Samsung-TV-Google-photos-Memories.webp"
+image: "/images/Samsung-TV-Google-photos-Memories.webp"
+thumbnail: "/images/Samsung-TV-Google-photos-Memories.webp"
 image_alt: "Samsung Smart TV displaying Google Photos Memories"
 image_credit: "Samsung / Google"
 tags: ["samsung", "google photos", "smart tv", "ai", "digital memories", "consumer tech"]
 summary: "Starting in 2026, Samsung TVs will support Google Photos Memories, bringing personal photos and videos to the living room with AI-powered features designed for large-screen viewing."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

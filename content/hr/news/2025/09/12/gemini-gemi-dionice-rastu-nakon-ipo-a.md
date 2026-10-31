@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["crypto", "cryptocurrency", "solana", "sol", "stocks"]
 our_take: |
   Naš osvrt: Dionice Gemini (GEMI) otvorile su na 41 $ na Nasdaq Global Select Marketu, +45 % u odnosu na IPO cijenu od sinoć. Ključno za pratiti: likvidnost, makro (kamatne stope/USD) i regulatorni okvir. Ostanite selektivni; dodavati samo u visokouvjerene pozicije.
+categories: ["news"]
 ---
 
 Dionice Gemini (GEMI) u petak su otvorile na 41 $ po dionici na Nasdaq Global Select Marketu, što je rast od 45 % u odnosu na sinoć određenu IPO cijenu.

@@ -11,6 +11,7 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "finance", "stocks"]
 our_take: |
   Unsere Ansicht: Gemini springt auf das Nasdaq -Debüt und debütierte am Freitag mit einer Bewertung von 4,4 Milliarden US -Dollar. Gemini debütierte auf dem Nasdaq, als die Aktien des Crypto Exchange sofort über ihrem anfänglichen Anbietungsbetrieb über ihre anfänglichen P -… -wichtigen Dinge zu beobachten: Liquidität, Makrik (Makro (Rate) und USD).Bleib selektiv;Fügen Sie nur in Namen mit hoher Konvitation hinzu.
+categories: ["news"]
 ---
 
 Gemini springt auf das Nasdaq -Debüt und erreicht 4,4 Milliarden US -Dollar bewertet

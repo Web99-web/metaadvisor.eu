@@ -7,6 +7,7 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/26/xrp-slides-3-even-as-gemini-ripple-credit-card-adds-utility-narrative"
 summary: "Recovery attempts late in the session brought the token back above $2.90, but the market remains split on whether upside momentum can sustain."
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/e9d6f8574bd010e9c666dc0d0b97c3207ffb1d75-742x451.png?auto=format"
+categories: ["news"]
 ---
 
 XRP faced steep swings in the August 25–26 trading window, sliding from $3.01 to $2.91 for a 3.2% loss. A burst of institutional liquidation during the 19:00–20:00 GMT hour drove the sharpest drop, with volumes tripling daily averages. Recovery attempts late in the session brought the token back above $2.90, but the market remains split on whether upside momentum can sustain.

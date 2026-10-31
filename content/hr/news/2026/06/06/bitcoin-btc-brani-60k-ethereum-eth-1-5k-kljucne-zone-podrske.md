@@ -7,14 +7,15 @@ translationKey: "bitcoin-ethereum-support-zones-2026-06-06"
 source: "Cointelegraph, TradingView, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/btc-eth-down.png"
-featured_image: "/images/daily-charts/btc-eth-down.png"
-image: "/images/daily-charts/btc-eth-down.png"
-thumbnail: "/images/daily-charts/btc-eth-down.png"
+image_url: "/images/daily-charts/btc-eth-down.webp"
+featured_image: "/images/daily-charts/btc-eth-down.webp"
+image: "/images/daily-charts/btc-eth-down.webp"
+thumbnail: "/images/daily-charts/btc-eth-down.webp"
 image_alt: "Bitcoin and Ethereum price drop with support zones"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "crypto", "kripto", "altcoins", "Solana", "SOL", "HYPE", "Zcash", "ZEC", "XRP", "Chainlink", "LINK", "AAVE", "TAO", "Injective", "INJ", "Cardano", "ADA", "Jito", "JTO", "Dogecoin", "DOGE", "SHIB", "PEPE", "MSTR", "Strategy", "support zone", "zona podrške", "likvidacije", "derivati", "funding rate", "DeFi", "TVL", "Metaadvisor"]
 summary: "Bitcoin se bori za zonu oko 59.000–60.000 USD, dok je Ethereum pao na 13-mjesečni minimum i pokušava obraniti područje oko 1.500–1.550 USD. Ako te razine popuste, pritisak na altcoine mogao bi se brzo pojačati."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

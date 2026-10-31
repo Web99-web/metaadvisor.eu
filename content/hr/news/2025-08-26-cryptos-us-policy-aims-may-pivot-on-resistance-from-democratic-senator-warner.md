@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/26/crypto-s-u-s-policy-aims
 summary: "Oporbe zakonodavcu o zloupotrebama u kriptu smatraju se glavnom preprekom koju treba razriješiti prije nego što Senat može dalje s prijedlogom zakona o strukturi kripto tržišta."
 tags: ["crypto"]
 image_url: "https://www.coindesk.com/policy/2025/08/26/crypto-s-u-s-policy-aims-may-pivot-on-resistance-from-democratic-senator-warner"
+categories: ["crypto"]
 ---
 
 U.S. senator Mark Warner navodno se protivi zaštiti softverskih programera u zakonu o strukturi kripto tržišta. (Kevin Dietsch/Getty Images)

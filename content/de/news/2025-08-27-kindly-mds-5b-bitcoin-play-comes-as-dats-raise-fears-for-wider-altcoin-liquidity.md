@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/336975/kindly-mds-5-billion-bitcoin-bet-expense-
 summary: "Kindly MD meldet ein 5-Mrd.-$ Shelf Offering nach einem Bitcoin-Kauf von 679 Mio. $, während Diskussionen über Risiken von Digital Asset Treasuries intensiver werden."
 tags: ["crypto","bitcoin","BTC","altcoin","DATs","KindlyMD"]
 image_url: "https://decrypt.co/wp-content/uploads/2025/08/kindly-md-bitcoin.jpg"
+categories: ["crypto"]
 ---
 
 Das an der Nasdaq notierte Gesundheitsunternehmen Kindly MD hat bei der SEC eine automatische Shelf-Registrierung eingereicht, um bis zu 5 Mrd. $ an Aktien auszugeben. Der Schritt folgt unmittelbar auf einen Bitcoin-Kauf im Wert von 679 Mio. $ durch die Tochtergesellschaft Nakamoto Holdings.

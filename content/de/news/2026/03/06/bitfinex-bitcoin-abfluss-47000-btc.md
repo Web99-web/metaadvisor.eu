@@ -15,6 +15,7 @@ image_alt: "Bitcoin Futures Markt symbolische Illustration"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["bitcoin","btc","krypto","crypto","bitfinex","bitcoin markt","krypto börsen","on-chain analyse","blockchain","digitale vermögenswerte"]
 summary: "Fast 32.000 BTC wurden an einem einzigen Tag von Börsen abgezogen. Der wöchentliche Abfluss erreichte rund 47.700 BTC."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,15 +7,16 @@ translationKey: "facebook-placao-za-sadrzaj-povezan-s-neonacizmom-2026-08-11"
 source: "Futurism, ABC News Australia, Meta"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
-featured_image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
-image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
-thumbnail: "/images/Meta/Facebook-content-monetization-hate-speach-pays.png"
+image_url: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
+featured_image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
+image: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
+thumbnail: "/images/Meta/Facebook-content-monetization-hate-speach-pays.webp"
 image_alt: "Facebook Content Monetization and the question of earnings from content linked to neo-Nazism"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Facebook", "Meta", "Content Monetization", "Facebook monetization", "AI moderation", "hate speech", "neo-Nazism", "extremism", "social media", "content moderation"]
 description: "Facebook's Content Monetization program enabled earnings for accounts linked to far-right and neo-Nazi content, while other long-term users were permanently removed from the platform."
 summary: "Facebook's monetization system enabled payouts to accounts linked to far-right and neo-Nazi content. At the same time, ordinary long-term users, including professionals and people who had used the platform for years, lost their accounts, sometimes without a clear explanation."
+categories: ["social-media"]
 ---
 
 *The image is symbolic.*
@@ -58,7 +59,7 @@ The problem of automated decisions became serious enough to draw the attention o
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener">
-    <img src="/images/Banned-from-social-media.png" alt="Meta Oversight Board and the years-long problem of AI moderation" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/Banned-from-social-media.webp" alt="Meta Oversight Board and the years-long problem of AI moderation" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/news/meta-oversight-board-ai-moderation-problem/" target="_blank" rel="noopener"><strong>Meta Oversight Board: AI moderation — a years-long problem is only now coming into focus</strong></a>
@@ -75,7 +76,7 @@ That raises the question of why a Facebook profile that has existed for fifteen 
 
 <div style="max-width: 560px; margin: 28px auto; text-align: center;">
   <a href="https://metaadvisor.eu/news/facebook-long-term-profiles-no-reputation-credit-problem/" target="_blank" rel="noopener">
-    <img src="/images/Meta/Facebook-blocks-long-term-profiles.png" alt="Facebook and long-term profiles without reputation credit" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+    <img src="/images/Meta/Facebook-blocks-long-term-profiles.webp" alt="Facebook and long-term profiles without reputation credit" style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </a>
   <p style="margin-top: 10px;">
     <a href="https://metaadvisor.eu/news/facebook-long-term-profiles-no-reputation-credit-problem/" target="_blank" rel="noopener"><strong>Why does a 15–20 year old Facebook profile have no reputation credit?</strong></a>

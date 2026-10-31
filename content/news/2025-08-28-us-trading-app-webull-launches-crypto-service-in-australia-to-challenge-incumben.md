@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/337147/webull-launches-crypto-service-australia-
 summary: "Webull's entry into Australia is expected to pressure local crypto platforms to slash trading costs, experts told Decrypt."
 tags: ["crypto","Webull","Australia","Coinbase Prime","Bitcoin","Ethereum"]
 image_url: "https://cdn.decrypt.co/optimized/1671112345678-webull-australia.jpg"
+categories: ["crypto"]
 ---
 
 The U.S. trading app **Webull** has launched crypto services for Australian users, giving them access to hundreds of different digital assets. Experts say the move will pressure domestic exchanges to cut fees or risk losing customers.

@@ -7,10 +7,10 @@ translationKey: "uk_court_game_gold_real_property_20260130"
 source: "MetaAdvisor Analyse / Rechtlicher Präzedenzfall"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/UK-court-game-gold-real-property.png"
-featured_image: "/images/UK-court-game-gold-real-property.png"
-image: "/images/UK-court-game-gold-real-property.png"
-thumbnail: "/images/UK-court-game-gold-real-property.png"
+image_url: "/images/UK-court-game-gold-real-property.webp"
+featured_image: "/images/UK-court-game-gold-real-property.webp"
+image: "/images/UK-court-game-gold-real-property.webp"
+thumbnail: "/images/UK-court-game-gold-real-property.webp"
 image_alt: "Britisches Gericht erkennt Videospiel-Gold als Eigentum an"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -25,6 +25,7 @@ tags:
   - krypto und recht
   - eigentumsrechte
 summary: "Ein britisches Gericht hat entschieden, dass virtuelles Gold aus Videospielen als echtes Eigentum gilt. Das Urteil markiert einen historischen Wendepunkt für digitales Eigentum, Gaming-Ökonomien und rechtliche Verantwortung im Online-Raum."
+categories: ["news"]
 ---
 
 # Schockurteil in Großbritannien: Videospiel-Gold gilt jetzt als echtes Eigentum

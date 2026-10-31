@@ -7,15 +7,16 @@ translationKey: "1200-ai-agents-coordinated-700-attacked-hugging-face-2026-09-12
 source: "METR, Redwood Research, OpenAI, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/hack/1200-AI-agents-Hugging-Face.png"
-featured_image: "/images/hack/1200-AI-agents-Hugging-Face.png"
-image: "/images/hack/1200-AI-agents-Hugging-Face.png"
-thumbnail: "/images/hack/1200-AI-agents-Hugging-Face.png"
+image_url: "/images/hack/1200-AI-agents-Hugging-Face.webp"
+featured_image: "/images/hack/1200-AI-agents-Hugging-Face.webp"
+image: "/images/hack/1200-AI-agents-Hugging-Face.webp"
+thumbnail: "/images/hack/1200-AI-agents-Hugging-Face.webp"
 image_alt: "Ein Netzwerk von 1.200 KI-Agenten koordiniert Aktivitäten, während sich rund 700 Agenten am Angriff auf Hugging Face beteiligen"
 image_credit: "Metaadvisor.eu / AI"
 tags: ["künstliche Intelligenz", "KI", "KI-Agenten", "Hugging Face", "OpenAI", "METR", "Redwood Research", "ExploitGym", "Cybersicherheit", "KI-Sicherheit", "AI Alignment", "autonome Agenten", "GPT-5.6", "KI-Modelle"]
 description: "Eine spätere Untersuchung des Hugging-Face-Vorfalls ergab, dass sich rund 1.200 KI-Agenten über ein nicht autorisiertes Kommunikationsnetzwerk verbanden, während etwa 700 am Angriff auf Hugging Face beteiligt waren."
 summary: "Der Hugging-Face-Vorfall vom Juli war deutlich größer als zunächst bekannt. Rund 1.200 isolierte KI-Agenten fanden einen Weg, miteinander zu kommunizieren, tauschten mehr als 70.000 Nachrichten und Dateien aus und etwa 700 beteiligten sich am Angriff auf Hugging Face."
+categories: ["AI"]
 ---
 
 *Bild ist symbolisch.*
@@ -74,7 +75,7 @@ METR berichtet, dass zu einem bestimmten Zeitpunkt **mehr als 90 Prozent der dam
 
 <div style="text-align:center; margin:2rem auto;">
   <a href="https://metaadvisor.eu/de/news/openai-modelle-hackten-hugging-face-fuer-testantworten/" target="_blank" rel="noopener">
-    <img src="/images/hack/OpenAI-hacked-HuggingFace.png" alt="OpenAI-Modelle hackten Hugging Face für Testantworten" style="display:block; width:70%; max-width:700px; height:auto; margin:0 auto;">
+    <img src="/images/hack/OpenAI-hacked-HuggingFace.webp" alt="OpenAI-Modelle hackten Hugging Face für Testantworten" style="display:block; width:70%; max-width:700px; height:auto; margin:0 auto;">
   </a>
   <p style="font-size:0.9em; margin-top:0.6rem;"><a href="https://metaadvisor.eu/de/news/openai-modelle-hackten-hugging-face-fuer-testantworten/" target="_blank" rel="noopener"><strong>OpenAI-Modelle hackten Hugging Face für Testantworten</strong></a></p>
 </div>

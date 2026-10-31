@@ -14,6 +14,7 @@ image_alt: "SoftBank exits Nvidia"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "nvidia", "softbank", "masayoshi son", "investing", "market", "retail investors"]
 summary: "SoftBank sells its $5.8 billion Nvidia stake to shift capital into artificial intelligence. The market reacts with volatility, but analysts see opportunity for retail investors and a broader capital rotation from hardware to AI-driven services."
+categories: ["ai"]
 ---
 
 💥 **Masayoshi Son shocks markets once again.**  

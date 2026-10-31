@@ -7,14 +7,15 @@ translationKey: "mega-vs-google-drive-privacy-ecosystem-2026-06-15"
 source: "MEGA, Google, App Store, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/MEGA-vs-Google-drive.png"
-featured_image: "/images/companies/MEGA-vs-Google-drive.png"
-image: "/images/companies/MEGA-vs-Google-drive.png"
-thumbnail: "/images/companies/MEGA-vs-Google-drive.png"
+image_url: "/images/companies/MEGA-vs-Google-drive.webp"
+featured_image: "/images/companies/MEGA-vs-Google-drive.webp"
+image: "/images/companies/MEGA-vs-Google-drive.webp"
+thumbnail: "/images/companies/MEGA-vs-Google-drive.webp"
 image_alt: "MEGA vs Google Drive cloud storage comparison"
 image_credit: "Metaadvisor.eu"
 tags: ["MEGA", "Google Drive", "Google", "cloud storage", "cloud", "backup", "privacy", "privatnost", "encryption", "end-to-end encryption", "zero-knowledge", "Google account", "Gmail", "Google Photos", "Google Docs", "digitalna ovisnost", "de-Google", "digitalni backup", "cloud backup", "Metaadvisor"]
 summary: "MEGA se ponovno pokušava pozicionirati kao privatnija alternativa Google Driveu, posebno sada kada promovira lakšu migraciju iz Google Drivea. Ali Googleova najveća prednost nije samo cloud prostor, nego cijeli ekosustav vezan uz Gmail, Android, Docs i Google račun."
+categories: ["tech"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>

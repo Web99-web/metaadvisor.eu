@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bank of England", "Inflation", "AI-Schulden", "Anleihen", "EZB", "Fed", "Öl", "Asien", "Finanzmärkte", "systemisches Risiko"]
 description: "Die Bank of England warnt vor einer steigenden Wahrscheinlichkeit, dass miteinander verbundene Schwachstellen des Finanzsystems gleichzeitig materialisieren, während die Inflation in großen Volkswirtschaften der Eurozone wieder deutlich anzieht."
 summary: "Die Bank of England warnt vor einer Kombination aus Energieschock, extrem hohen Renditen und stark wachsender AI-bezogener Verschuldung. Gleichzeitig beschleunigt sich die Inflation in Frankreich, Italien und Spanien erneut, während asiatische Märkte relativ widerstandsfähig bleiben."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

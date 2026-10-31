@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/24/doge-holds-firm-above-usd0-24-support-in-choppy-session"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/dogecoin-doge.png"
-featured_image: "/images/dogecoin-doge.png"
-image: "/images/dogecoin-doge.png"
-thumbnail: "/images/dogecoin-doge.png"
+image_url: "/images/dogecoin-doge.webp"
+featured_image: "/images/dogecoin-doge.webp"
+image: "/images/dogecoin-doge.webp"
+thumbnail: "/images/dogecoin-doge.webp"
 image_alt: "Dogecoin (DOGE) — simbolična ilustracija"
 image_credit: "Metaadvisor.eu (generirana grafika)"
 tags:
@@ -26,6 +26,7 @@ tags:
   - technical-analysis
   - market-structure
 summary: "Unatoč krhkom raspoloženju na kripto tržištu, DOGE zadržava podršku na ~0,24 $. Uski raspon i obrana kupaca sugeriraju akumulaciju, no za nastavak trenda treba probiti 0,244 $ uz održiv volumen."
+categories: ["news"]
 ---
 
 **Kratko:** Šire kripto okruženje je **risk-off**, no **DOGE** je pokazao **otpornost** i u 24-satnom prozoru (23.9. 03:00 – 24.9. 02:00) trgovao u uskom **rasponu 0,236–0,244 $**. Dva rascjepa likvidnosti oko **06:00** i **16:00** testirala su **0,244 $**, ali je **profit-taking** ograničio uzlazni zamah. Na kraju sesije cijena se vratila na **0,240 $**, što upućuje na **defanzivnu kupnju** u zoni 0,236–0,240 $.

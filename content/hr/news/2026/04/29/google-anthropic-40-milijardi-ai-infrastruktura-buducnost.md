@@ -7,14 +7,15 @@ translationKey: "1b3680d029f50bd7300bccb929e674a8"
 source: "Metaadvisor (TechCrunch, Bloomberg, Reuters)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Google-and-Anthropic-40B-investment.png"
-featured_image: "/images/companies/Google-and-Anthropic-40B-investment.png"
-image: "/images/companies/Google-and-Anthropic-40B-investment.png"
-thumbnail: "/images/companies/Google-and-Anthropic-40B-investment.png"
+image_url: "/images/companies/Google-and-Anthropic-40B-investment.webp"
+featured_image: "/images/companies/Google-and-Anthropic-40B-investment.webp"
+image: "/images/companies/Google-and-Anthropic-40B-investment.webp"
+thumbnail: "/images/companies/Google-and-Anthropic-40B-investment.webp"
 image_alt: "Google i Anthropic ulaganje od 40 milijardi dolara u AI infrastrukturu"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "ulaganje 40 milijardi", "umjetna inteligencija", "google", "anthropic", "infrastruktura", "compute", "data centri", "big tech", "tehnologija", "buducnost"]
 summary: "Google planira uložiti do 40 milijardi dolara u Anthropic, potvrđujući da se AI utrka sve više vodi kroz infrastrukturu, računalnu snagu i energiju."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

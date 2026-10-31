@@ -8,14 +8,15 @@ author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/US-crypto-tax-2026.png"
-featured_image: "/images/US-crypto-tax-2026.png"
-image: "/images/US-crypto-tax-2026.png"
-thumbnail: "/images/US-crypto-tax-2026.png"
+image_url: "/images/US-crypto-tax-2026.webp"
+featured_image: "/images/US-crypto-tax-2026.webp"
+image: "/images/US-crypto-tax-2026.webp"
+thumbnail: "/images/US-crypto-tax-2026.webp"
 image_alt: "US crypto tax rules 2026"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["kripto", "bitcoin", "crypto", "porez", "porezi", "kripto porez", "SAD porezi", "IRS", "crypto regulation", "coinbase", "bitcoin porez", "kripto regulacija", "stablecoin", "gas fee"]
 summary: "Nova američka porezna pravila za kriptovalute uvode obrazac 1099-DA i zahtijevaju prijavljivanje brojnih transakcija, uključujući stablecoine i male naknade za mrežu. Coinbase upozorava da bi takav sustav mogao stvoriti administrativni kaos za milijune malih korisnika."
+categories: ["crypto"]
 ---
  *Slika je simbolična.*
  

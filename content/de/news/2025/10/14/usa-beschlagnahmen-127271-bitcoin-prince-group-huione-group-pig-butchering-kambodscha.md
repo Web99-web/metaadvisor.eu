@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/10/14/u-s-targets-cambodian-pig-butchering-takes-usd14b-in-bitcoin-as-biggest-ever-seizure"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/BTC-seized.png"
-featured_image: "/images/BTC-seized.png"
-image: "/images/BTC-seized.png"
-thumbnail: "/images/BTC-seized.png"
+image_url: "/images/BTC-seized.webp"
+featured_image: "/images/BTC-seized.webp"
+image: "/images/BTC-seized.webp"
+thumbnail: "/images/BTC-seized.webp"
 image_alt: "Bitcoin hinter Gittern — Symbol der größten Beschlagnahme aller Zeiten"
 image_credit: "Bild ist symbolisch."
 tags: ["bitcoin", "USA", "Beschlagnahme", "Krypto-Betrug", "pig butchering", "Kambodscha", "Prince Group", "Huione Group", "Geldwäsche", "DOJ", "OFAC"]
 summary: "US-Behörden beschlagnahmten 127.271 BTC (ca. 14 Mrd. USD) von der kambodschanischen Prince Group — die größte Krypto-Beschlagnahme aller Zeiten. Im Zentrum stehen 'Pig-Butchering'-Betrügereien und Zwangsarbeit."
+categories: ["crypto"]
 ---
 
 Die US-Behörden haben die **größte Krypto-Beschlagnahme in der Geschichte** durchgeführt: **127.271 Bitcoin**, im Wert von rund **14 Milliarden USD**, wurden sichergestellt. Die Gelder stammen von dem globalen kriminellen Netzwerk **Prince Group**, das laut Staatsanwaltschaft zu den größten Betreibern von Online-Betrug und Zwangsarbeit in Südostasien zählt. 

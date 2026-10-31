@@ -16,6 +16,7 @@ image_alt: "Bullish — kripto mjenjačnica"
 image_credit: "Metaadvisor.eu — slika je simbolična."
 tags: ["bullish","ark","ark invest","cathie wood","kripto","mjenjacnica","exchange","burza","sad","bitcoin","eth","institucije","block.one","eos","coindesk","order book","likvidnost","regulacija"]
 summary: "ARK Invest Cathie Woods kupuje 5 mil. USD udjela u Bullishu — kripto mjenjačnici sa sjedištem na Bermudima koju je 2021. pokrenuo Brendan Blumer (Block.one). Nakon kupnje CoinDeska 2024., Bullish sada službeno ulazi na američko tržište s fokusom na institucionalne klijente."
+categories: ["news"]
 ---
 
 **Bullish nije tržišni izraz, nego naziv kripto mjenjačnice (exchange).** Pokrenuo ju je **Brendan Blumer** 2021., poznat iz tima **Block.one/EOS**. Sjedište je na **Bermudima**, a strategija: graditi **regulirani order-book** s dubokom likvidnošću i ponudom za **institucionalne investitore, fondove i OTC deskove**. U 2024. Bullish je **kupio CoinDesk**, a sada **službeno ulazi u SAD** — neposredno prije čega je **ARK Invest** Cathie Woods kupio **5 mil. USD** udjela.

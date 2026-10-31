@@ -8,14 +8,15 @@ source: "MetaAdvisor – analytical content"
 source_url: ""
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc-credit-fb.png"
-featured_image: "/images/btc-credit-fb.png"
-image: "/images/btc-credit-fb.png"
-thumbnail: "/images/btc-credit-fb.png"
+image_url: "/images/btc-credit-fb.webp"
+featured_image: "/images/btc-credit-fb.webp"
+image: "/images/btc-credit-fb.webp"
+thumbnail: "/images/btc-credit-fb.webp"
 image_alt: "Bitcoin credit illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "crypto loans", "btc credit", "collateral", "stablecoins", "defi", "ledn", "crypto borrowing"]
 summary: "Bitcoin-backed loans allow you to unlock liquidity without selling your BTC. Here’s how they work, what the risks are, and when they make sense."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

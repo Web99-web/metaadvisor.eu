@@ -8,14 +8,15 @@ source: "MetaAdvisor – analytischer Inhalt"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/DATdown.png"
-featured_image: "/images/DATdown.png"
-image: "/images/DATdown.png"
-thumbnail: "/images/DATdown.png"
+image_url: "/images/DATdown.webp"
+featured_image: "/images/DATdown.webp"
+image: "/images/DATdown.webp"
+thumbnail: "/images/DATdown.webp"
 image_alt: "Digital Asset Treasury Panik – Illustration"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "institutionelle investoren", "digital asset treasury", "microstrategy", "analyse", "markt", "dat-modelle", "btc-rueckgang", "btcfi"]
 summary: "Institutionelle Bitcoin-Treasury-Modelle stehen unter Druck. Was passiert mit DAT-Firmen, wenn BTC weiter fällt?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

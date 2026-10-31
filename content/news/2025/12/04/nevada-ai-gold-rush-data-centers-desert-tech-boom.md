@@ -7,10 +7,10 @@ translationKey: "nevada_ai_goldrush_20251204_en"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers"
 author: "Metaadvisor.eu — analysis"
-image_url: "/images/Nevada-AI-goldrush.png"
-featured_image: "/images/Nevada-AI-goldrush.png"
-image: "/images/Nevada-AI-goldrush.png"
-thumbnail: "/images/Nevada-AI-goldrush.png"
+image_url: "/images/Nevada-AI-goldrush.webp"
+featured_image: "/images/Nevada-AI-goldrush.webp"
+image: "/images/Nevada-AI-goldrush.webp"
+thumbnail: "/images/Nevada-AI-goldrush.webp"
 image_alt: "Nevada AI data center boom"
 image_credit: "MetaAdvisor AI-generated"
 tags:
@@ -30,6 +30,7 @@ tags:
   - tesla
   - switch
 summary: "Nevada is experiencing a second gold rush — not with picks and shovels, but with massive AI data centers, energy infrastructure, and global tech giants transforming the desert into the world’s compute hub."
+categories: ["ai"]
 ---
 
 # CTA

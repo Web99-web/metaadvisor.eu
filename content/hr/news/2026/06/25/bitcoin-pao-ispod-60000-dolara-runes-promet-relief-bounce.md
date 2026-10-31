@@ -15,6 +15,7 @@ image_alt: "Bitcoin price under pressure with market chart and BTC symbol"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "crypto tržište", "cijena Bitcoina", "Bitcoin ispod 60000", "Runes protokol", "Bitcoin transakcije", "on-chain aktivnost", "relief bounce", "TradingView", "Glassnode", "CoinDesk", "Cointelegraph", "AI dionice", "tehnološke dionice", "likvidnost", "Metaadvisor"]
 summary: "Bitcoin je pao ispod 60.000 dolara, zatim se djelomično oporavio prema području oko 60.650 dolara. Dok dio trgovaca očekuje kratki tehnički oporavak, on-chain podaci pokazuju snažan rast Bitcoin transakcija povezan s Runes protokolom."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

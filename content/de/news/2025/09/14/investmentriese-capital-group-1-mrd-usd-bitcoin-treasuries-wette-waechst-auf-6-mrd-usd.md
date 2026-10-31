@@ -10,6 +10,7 @@ image_url: "/images/btc-coini.jpg"
 image_alt: "Bitcoin-Münzen und wachsende institutionelle Allokationen"
 tags: ["krypto","bitcoin","treasuries","institutionen"]
 summary: "Capital Group hat eine anfängliche ~1-Mrd.-$-Position in ‘Bitcoin-Treasury’-Aktien auf >6 Mrd. $ ausgebaut – vor allem über Beteiligungen an Strategy (ehem. MicroStrategy) und Metaplanet."
+categories: ["crypto"]
 ---
 
 **Was ist passiert**  

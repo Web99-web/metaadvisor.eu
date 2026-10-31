@@ -7,10 +7,10 @@ translationKey: "evm_wallet_hack_jan2026"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/hundreds-evm-wallets-drained-mysterious-attack"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hack-EVM-Ethereum-Virtual-Machine.png"
-featured_image: "/images/Hack-EVM-Ethereum-Virtual-Machine.png"
-image: "/images/Hack-EVM-Ethereum-Virtual-Machine.png"
-thumbnail: "/images/Hack-EVM-Ethereum-Virtual-Machine.png"
+image_url: "/images/Hack-EVM-Ethereum-Virtual-Machine.webp"
+featured_image: "/images/Hack-EVM-Ethereum-Virtual-Machine.webp"
+image: "/images/Hack-EVM-Ethereum-Virtual-Machine.webp"
+thumbnail: "/images/Hack-EVM-Ethereum-Virtual-Machine.webp"
 image_alt: "Napad na Ethereum Virtual Machine (EVM) wallet novčanike"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Stotine EVM-kompatibilnih walleta ispražnjene su u koordiniranom napadu s malim, ali masovnim krađama, što ponovno otvara pitanje sigurnosti kripto novčanika."
@@ -22,6 +22,7 @@ tags:
   - ZachXBT
   - cybersecurity
   - crypto
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

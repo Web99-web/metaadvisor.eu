@@ -7,14 +7,15 @@ translationKey: "zeroland-defi-shutdown-20260218"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Zeroland.png"
-featured_image: "/images/Zeroland.png"
-image: "/images/Zeroland.png"
-thumbnail: "/images/Zeroland.png"
+image_url: "/images/Zeroland.webp"
+featured_image: "/images/Zeroland.webp"
+image: "/images/Zeroland.webp"
+thumbnail: "/images/Zeroland.webp"
 image_alt: "Zeroland DeFi protokol zatvara poslovanje"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["zeroland", "defi", "decentralizirane financije", "kripto", "crypto", "bitcoin", "ethereum", "tokenomika", "likvidnost", "tv l", "pam etni ugovori"]
 summary: "DeFi projekt Zeroland objavio je zatvaranje uz obrazloženje da poslovni model više nije održiv. Ova odluka otvara šire pitanje dugoročne stabilnosti i ekonomije decentraliziranih financija."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

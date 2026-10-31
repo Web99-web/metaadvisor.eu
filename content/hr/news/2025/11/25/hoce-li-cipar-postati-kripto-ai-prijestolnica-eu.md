@@ -7,14 +7,15 @@ translationKey: "cyprus_crypto_ai_hub_20251125"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Cyprus.png"
-featured_image: "/images/Cyprus.png"
-image: "/images/Cyprus.png"
-thumbnail: "/images/Cyprus.png"
+image_url: "/images/Cyprus.webp"
+featured_image: "/images/Cyprus.webp"
+image: "/images/Cyprus.webp"
+thumbnail: "/images/Cyprus.webp"
 image_alt: "Cyprus is changing the crypto game"
 image_credit: "MetaAdvisor / AI-generated"
 tags: ["kripto", "ai", "blockchain", "eu", "regulacija", "cyprus", "tokenizacija", "stablecoini", "defi", "startup-ekosustav"]
 summary: "Cipar postaje jedno od najbrže rastućih središta za kripto i AI industriju u EU zahvaljujući jednostavnoj regulaciji, MiCA implementaciji i strateškom pristupu inovacijama."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

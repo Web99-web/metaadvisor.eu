@@ -7,10 +7,10 @@ translationKey: "apps_block_distractions_focus_27122025"
 source: "TechCrunch — editorial adaptation and analysis: MetaAdvisor.eu"
 source_url: "https://techcrunch.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/Apps-block-internet.png"
-featured_image: "/images/Apps-block-internet.png"
-image: "/images/Apps-block-internet.png"
-thumbnail: "/images/Apps-block-internet.png"
+image_url: "/images/Apps-block-internet.webp"
+featured_image: "/images/Apps-block-internet.webp"
+image: "/images/Apps-block-internet.webp"
+thumbnail: "/images/Apps-block-internet.webp"
 image_alt: "Blocking distracting apps to improve focus — Freedom and Cold Turkey"
 image_credit: "MetaAdvisor"
 tags:
@@ -23,6 +23,7 @@ tags:
   - freedom
   - cold turkey
 summary: "If notifications, social media, and constant distractions are destroying your concentration, tools like Freedom and Cold Turkey help you regain focus, calm, and control over your work time."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

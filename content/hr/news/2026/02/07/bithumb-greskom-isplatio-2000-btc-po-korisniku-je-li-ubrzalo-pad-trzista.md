@@ -8,14 +8,15 @@ source: "MetaAdvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Bithumb-incident.png"
-featured_image: "/images/Bithumb-incident.png"
-image: "/images/Bithumb-incident.png"
-thumbnail: "/images/Bithumb-incident.png"
+image_url: "/images/Bithumb-incident.webp"
+featured_image: "/images/Bithumb-incident.webp"
+image: "/images/Bithumb-incident.webp"
+thumbnail: "/images/Bithumb-incident.webp"
 image_alt: "Simbolična ilustracija incidenta na kripto burzi Bithumb"
 image_credit: "Symbolic image / MetaAdvisor.eu"
 tags: ["bitcoin", "bithumb", "kripto-burze", "pad-trzista", "likvidacije", "volatilnost", "etf", "azija"]
 summary: "Južnokorejska kripto-burza Bithumb greškom je nekim korisnicima isplatila oko 2.000 Bitcoina po računu. Incident se dogodio neposredno prije snažnog pada tržišta, što je otvorilo pitanje je li ova operativna pogreška mogla dodatno ubrzati već postojeći globalni pritisak na cijene."
+categories: ["crypto"]
 ---
 
 

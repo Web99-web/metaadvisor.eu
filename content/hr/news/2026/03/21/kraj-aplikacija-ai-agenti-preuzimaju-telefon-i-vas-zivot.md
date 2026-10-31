@@ -7,14 +7,15 @@ translationKey: "8af459e4138dbe9c3a30ba7b148d6445"
 author: "Metaadvisor.eu"
 source: "TechCrunch"
 source_url: ""
-image_url: "/images/AI-agent.png"
-featured_image: "/images/AI-agent.png"
-image: "/images/AI-agent.png"
-thumbnail: "/images/AI-agent.png"
+image_url: "/images/AI-agent.webp"
+featured_image: "/images/AI-agent.webp"
+image: "/images/AI-agent.webp"
+thumbnail: "/images/AI-agent.webp"
 image_alt: "AI agenti i budućnost bez aplikacija"
 tags: ["ai", "ai agents", "smartphone", "apps", "nothing", "carl pei", "future tech"]
 summary: "CEO Nothinga tvrdi da će aplikacije nestati i biti zamijenjene AI agentima, no pitanja sigurnosti, halucinacija i razumijevanja korisnika ostaju ključni izazovi."
 symbolic_image: true
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

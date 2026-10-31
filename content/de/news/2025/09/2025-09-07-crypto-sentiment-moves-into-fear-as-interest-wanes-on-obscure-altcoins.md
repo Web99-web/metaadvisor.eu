@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/crypto-market-sentiment-fear-altcoin
 summary: "Die Marktstimmung ist in die Zone ‘Fear’ gerutscht, da Trader aus riskanteren Altcoins in größere Assets wie BTC und ETH rotieren, so Santiment und der Fear-&-Greed-Index."
 tags: ["crypto", "bitcoin", "btc", "ethereum", "eth", "solana", "sol", "altcoins", "sentiment", "fear-and-greed", "santiment", "markt"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["krypto"]
 ---
 
 Die Krypto-Stimmung ist in die **‘Fear’**-Zone gerutscht. Hinweise deuten darauf, dass sich Investoren vorübergehend vom unteren Ende der **Risikokurve** zurückziehen und den Fokus wieder auf **BTC** und **ETH** legen. Der **Crypto Fear & Greed Index** bestätigt den Rutsch in „Fear“.

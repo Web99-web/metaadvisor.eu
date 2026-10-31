@@ -15,6 +15,7 @@ image_alt: "Symbolische Illustration eines Pinguins im Zusammenhang mit dem Kryp
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Der Memecoin PENGUIN verzeichnete innerhalb weniger Stunden einen Kursanstieg von mehreren Hundert Prozent nach einer viralen Social-Media-Veröffentlichung. Der Fall zeigt, wie stark der Memecoin-Markt auf Hype und Symbolik reagiert."
 tags: ["penguin", "memecoin", "krypto", "solana", "pumpfun", "phantom", "dex", "markt", "hype", "viralität"]
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

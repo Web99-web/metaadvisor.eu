@@ -7,14 +7,15 @@ translationKey: "66c8cd806d10a29e4b500d31febab9d7"
 source: "CoinDesk, X.com"
 source_url: "https://www.coindesk.com/policy/2025/11/01/bitcoin-never-shuts-down-treasury-s-bessent-marks-anniversary-needles-democrats"
 author: "Metaadvisor.eu"
-image_url: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
-featured_image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
-image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
-thumbnail: "/images/Bitcoin-us-treasury-secretary-scott-bessent.png"
+image_url: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
+featured_image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
+image: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
+thumbnail: "/images/Bitcoin-us-treasury-secretary-scott-bessent.webp"
 image_alt: "Scott Bessent hvali Bitcoin mrežu"
 image_credit: "Metaadvisor.eu — slika je simbolična."
 tags: ["bitcoin","btc","politika","sad","financije","stablecoin","bessent","satoshi","whitepaper"]
 summary: "Američki ministar financija Scott Bessent javno je pohvalio Bitcoin povodom 17. godišnjice whitepapera i poručio da je mreža 'otpornija nego ikad' — uz ironičnu poruku američkim demokratima."
+categories: ["crypto"]
 ---
 
 Scott Bessent, američki ministar financija, obilježio je 17. godišnjicu Bitcoin whitepapera porukom na X-u u kojoj hvali **otpornost Bitcoin mreže**, naglašavajući da se “Bitcoin nikad ne gasi” – za razliku od državnih sustava.

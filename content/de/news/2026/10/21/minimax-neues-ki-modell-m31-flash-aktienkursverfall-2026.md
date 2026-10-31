@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["MiniMax", "MiniMax M3.1 Flash", "Künstliche Intelligenz", "KI-Modelle", "KI-Agenten", "Hongkonger Börse", "HKEX", "Chinesische KI", "Technologieaktien", "Aktienmarkt", "KI-Investitionen", "BNP Paribas", "KI-Wettbewerb", "Finanzmärkte", "Technologie"]
 description: "MiniMax stellt das neue KI-Modell M3.1 Flash vor, doch die Aktie fällt weiter. Was steckt hinter dem Kursverlust von mehr als 43 Prozent?"
 summary: "Das chinesische KI-Unternehmen MiniMax hat am 19. Oktober 2026 sein neues Modell M3.1 Flash vorgestellt und verspricht eine nahezu dreifache Geschwindigkeit bei 70 Prozent niedrigeren Kosten. Dennoch verlor die Aktie zwischen dem 18. September und dem 20. Oktober mehr als 43 Prozent ihres Wertes. Anleger sorgen sich um den Wettbewerb, die Finanzierung der KI-Entwicklung, neue Aktienausgaben und möglichen Verkaufsdruck früher Investoren."
+categories: ["technology"]
 ---
 
 *Symbolbild.*

@@ -7,14 +7,15 @@ translationKey: "93e721a2b5381009936d1a71ba894503"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/27/anthony-scaramucci-linked-avax-one-tumbles-30-on-uncertainty-around-shareholder-sales"
 author: "MetaAdvisor.eu"
-image_url: "/images/Avax-one-shares.png"
-featured_image: "/images/Avax-one-shares.png"
-image: "/images/Avax-one-shares.png"
-thumbnail: "/images/Avax-one-shares.png"
+image_url: "/images/Avax-one-shares.webp"
+featured_image: "/images/Avax-one-shares.webp"
+image: "/images/Avax-one-shares.webp"
+thumbnail: "/images/Avax-one-shares.webp"
 image_alt: "AVAX One stock drop – symbolic illustration of market decline"
 image_credit: "MetaAdvisor / illustration"
 tags: ["avax", "avax one", "stock", "crypto", "insiders", "dilution", "sec", "markets", "investors", "volatility"]
 summary: "AVAX One stock fell more than 30% after insider shares were registered for potential resale. The drop has nothing to do with the AVAX token and reflects market fear of dilution rather than actual selling."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777;">

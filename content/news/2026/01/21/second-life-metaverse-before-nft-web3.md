@@ -6,10 +6,10 @@ category: "tech"
 translationKey: "second_life_metaverse_debate_20260121"
 source: "MetaAdvisor analysis"
 author: "MetaAdvisor.eu"
-image_url: "/images/SecondLife.png"
-featured_image: "/images/SecondLife.png"
-image: "/images/SecondLife.png"
-thumbnail: "/images/SecondLife.png"
+image_url: "/images/SecondLife.webp"
+featured_image: "/images/SecondLife.webp"
+image: "/images/SecondLife.webp"
+thumbnail: "/images/SecondLife.webp"
 image_alt: "Second Life as an early example of a virtual metaverse and digital economy"
 image_credit: "MetaAdvisor.eu / symbolic illustration"
 summary: "Long before NFTs and Web3, there was already a virtual world where millions of dollars in real money were spent, the first virtual millionaires emerged, and major corporations entered the scene. Second Life was an early metaverse whose success and failure are still debated today."
@@ -23,6 +23,7 @@ tags:
   - crypto history
   - tech history
   - metaadvisor analysis
+categories: ["tech"]
 ---
 
 *The image is symbolic.*

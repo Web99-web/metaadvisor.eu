@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/mike-cagney-s-figure-te
 summary: "Figure Technologies plant, bis zu 526 Mio. USD über den Börsengang einzunehmen, bei einer Bewertung von mehr als 4 Mrd. USD."
 tags: ["RWA", "FIGR", "IPO", "Nasdaq", "blockchain", "stablecoin", "crypto"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
+categories: ["news"]
 ---
 
 **Figure Technologies**, ein Blockchain-Kreditgeber, der von Mike Cagney (Mitgründer von SoFi) gegründet wurde, strebt bei seinem kommenden **Börsengang (IPO)** eine Bewertung von bis zu **4,13 Mrd. USD** an, wie aus neuen SEC-Unterlagen hervorgeht.

@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/crypto-market-sentiment-fear-altcoin
 summary: "Market sentiment slipped into ‘Fear’ as traders rotate from riskier altcoins back to majors like BTC and ETH, according to Santiment and the Fear & Greed index."
 tags: ["crypto", "bitcoin", "btc", "ethereum", "eth", "solana", "sol", "altcoins", "sentiment", "fear-and-greed", "santiment", "market"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["crypto"]
 ---
 
 Crypto market sentiment fell into **‘Fear’** as investors temporarily step back from the lower end of the **risk curve**, focusing again on **BTC** and **ETH**. The **Crypto Fear & Greed Index** also shows a move into “Fear.”

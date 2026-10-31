@@ -7,14 +7,15 @@ translationKey: "kbank-ripple-blockchain-payments"
 source: "Metaadvisor (The Block, Crypto.news, industry sources)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Ripple-Kbank-Kasikornbank.png"
-featured_image: "/images/news/Ripple-Kbank-Kasikornbank.png"
-image: "/images/news/Ripple-Kbank-Kasikornbank.png"
-thumbnail: "/images/news/Ripple-Kbank-Kasikornbank.png"
+image_url: "/images/news/Ripple-Kbank-Kasikornbank.webp"
+featured_image: "/images/news/Ripple-Kbank-Kasikornbank.webp"
+image: "/images/news/Ripple-Kbank-Kasikornbank.webp"
+thumbnail: "/images/news/Ripple-Kbank-Kasikornbank.webp"
 image_alt: "Kasikornbank and Ripple testing blockchain payments"
 image_credit: "Metaadvisor.eu"
 tags: ["ripple", "kbank", "kasikornbank", "banks", "crypto", "blockchain", "payments", "finance", "transfers"]
 summary: "Kasikornbank in Thailand and Ripple are running a multi-phase pilot project to test blockchain-based cross-border transfers and new payment models."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

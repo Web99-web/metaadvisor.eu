@@ -6,6 +6,7 @@ category: "news"
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/a8185c29a55a7805ba8c40418021fd6352fe58b4-1920x1283.jpg"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/08/22/ripple-sbi-plan-rlusd-stablecoin-distribution-in-japan-by-2026"
+categories: ["news"]
 ---
 
 Ripple and SBI Holdings plan to roll out Ripple USD (RLUSD) in Japan, aiming to tap into the country’s emerging stablecoin market under new regulatory frameworks.

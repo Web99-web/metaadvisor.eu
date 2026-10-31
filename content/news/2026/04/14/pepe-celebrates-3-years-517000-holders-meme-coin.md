@@ -15,6 +15,7 @@ image_alt: "Pepe meme coin three years later"
 image_credit: "Metaadvisor.eu"
 tags: ["pepe", "meme coin", "cryptocurrency", "ethereum", "market", "crypto culture", "blockchain", "trading", "investing"]
 summary: "Three years after launch, Pepe still has over 517,000 holders and remains one of the few meme coins that survived multiple market cycles."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

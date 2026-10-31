@@ -7,14 +7,15 @@ translationKey: "ai-erases-jobs-meta-bans-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/AI-taking-and-erasing-jobs.png"
-featured_image: "/images/AI-taking-and-erasing-jobs.png"
-image: "/images/AI-taking-and-erasing-jobs.png"
-thumbnail: "/images/AI-taking-and-erasing-jobs.png"
+image_url: "/images/AI-taking-and-erasing-jobs.webp"
+featured_image: "/images/AI-taking-and-erasing-jobs.webp"
+image: "/images/AI-taking-and-erasing-jobs.webp"
+thumbnail: "/images/AI-taking-and-erasing-jobs.webp"
 image_alt: "AI ne uzima poslove nego ih briše"
 image_credit: "Ilustracija"
 tags: ["ai","umjetna inteligencija","ai moderacija","facebook","instagram","ban","mali biznis","društvene mreže","poslovi","eu ai act"]
 summary: "AI ne utječe samo na zapošljavanje kroz automatizaciju — kroz moderaciju briše cijele digitalne identitete, male biznise i godine rada bez mogućnosti povratka."
+categories: ["tech"]
 ---
 *Slika je simbolična.*
 

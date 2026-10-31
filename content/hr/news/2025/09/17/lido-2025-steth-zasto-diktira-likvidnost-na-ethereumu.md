@@ -15,6 +15,7 @@ image_alt: "Lido / stETH — likvidni staking na Ethereumu"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ethereum","lido","steth","wsteth","liquid-staking","defi","staking","yield","collateral","metaadvisor"]
 summary: "Lido je i dalje ‘default’ za likvidni staking: stETH spaja prinos i likvidnost te služi kao ključni kolateral u DeFi-ju — uz rizike depega, centralizacije validatora i governance odluka."
+categories: ["crypto"]
 ---
 
 **Ukratko:** Lido je *liquid staking* protokol. Umjesto da zaključate 32 ETH i vodite validator, uložite bilo koju količinu ETH-a i dobijete **stETH** — token koji dnevno odražava nagrade. **wstETH** je “wrapped” verzija bez dnevnog rebasinga (praktičnija kao kolateral).

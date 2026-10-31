@@ -9,6 +9,7 @@ summary: "Kapital se slijeva u ETF-ove i skrbnike, Solana preuzima maloprodajni 
 tags: ["bitcoin","btc","crypto","etf","rudari","naknade","onchain","solana","glassnode","galaxy-research","mempool","blockspace"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/97923967111fc17f0fde0f4fbc3b5ad6e63c4396-1920x1280.jpg?auto=format"
 image_alt: "Zlatni bitcoin tokeni (Kanchanara/Unsplash)"
+categories: ["crypto"]
 ---
 
 Dobrodošli u **Asia Morning Briefing**, dnevni sažetak najvažnijih priča tijekom američkih sati i pregled kretanja tržišta s analizom. Detaljan pregled američkih tržišta potražite u CoinDesk **Crypto Daybook Americas**.

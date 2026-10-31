@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/ether-etfs-captured-10x-more-inflows
 summary: "Spot Ether-ETFs verzeichneten in nur fünf Handelstagen Zuflüsse von 1,83 Mrd USD – zehn Mal mehr als Bitcoin-ETFs."
 tags: ["crypto","Ethereum","ETF","Bitcoin","Zuflüsse"]
 image_url: "https://www.coindesk.com/resizer/XKwdVQFZsdDe7q3H2FZC88Gxwqg=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3XZETFIMG.jpg"
+categories: ["crypto"]
 ---
 
 Spot Ether-ETFs in den USA verzeichneten innerhalb von nur fünf Handelstagen beeindruckende **1,83 Milliarden USD Zuflüsse**, was Bitcoin-ETFs mit lediglich 171 Millionen USD bei weitem übertrifft, laut CoinGlass ([cointelegraph.com](https://www.coindesk.com/markets/2025/08/28/doge-faces-selling-pressure-as-usd200m-whale-transfer-to-binance-caps-rally?utm_source=chatgpt.com)).

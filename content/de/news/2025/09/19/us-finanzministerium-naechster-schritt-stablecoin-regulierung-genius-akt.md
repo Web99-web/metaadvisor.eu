@@ -16,6 +16,7 @@ image_alt: "Symbolische Illustration von Digital-Dollar und Stablecoins"
 image_credit: "MetaAdvisor image map (symbolisch)"
 tags: ["policy", "stablecoin", "USA", "U.S. Treasury", "GENIUS Act", "AML", "Sanktionen", "Steuern", "Bund vs. Bundesstaaten"]
 summary: "Das US-Finanzministerium startet eine ANPRM-Phase zur Umsetzung des GENIUS Act in Stablecoin-Vorschriften und eröffnet eine einmonatige Kommentierungsfrist."
+categories: ["news"]
 ---
 
 *Bild ist symbolisch.*

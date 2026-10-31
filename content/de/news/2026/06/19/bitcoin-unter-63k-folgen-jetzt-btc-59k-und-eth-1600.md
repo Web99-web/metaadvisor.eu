@@ -15,6 +15,7 @@ image_alt: "Bitcoin and Ethereum under pressure as crypto market tests key level
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "Krypto", "Crypto", "Kryptomarkt", "Bitcoin Kurs", "Ethereum Kurs", "BTC 59k", "ETH 1600", "Altcoins", "Risk Assets", "globale Märkte", "Marktkorrektur", "Krypto-Korrektur", "Futures", "Open Interest", "Exchange Inflows", "Binance", "CryptoQuant", "CoinDesk", "Liquidität", "Verkaufsdruck", "Metaadvisor"]
 summary: "Bitcoin ist unter 63.000 Dollar gefallen, Ethereum rutschte in Richtung 1.700 Dollar, und der Kryptomarkt blickt erneut auf wichtige Marken: BTC bei rund 59.000–60.000 Dollar und ETH bei etwa 1.600 Dollar."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Symbolbild.</em></p>

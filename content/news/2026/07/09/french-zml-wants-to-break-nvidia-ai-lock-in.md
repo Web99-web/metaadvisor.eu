@@ -7,15 +7,16 @@ translationKey: "zml-france-nvidia-ai-lock-in-2026-07-08"
 source: "TechCrunch, ZML, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/ZML-France.png"
-featured_image: "/images/companies/ZML-France.png"
-image: "/images/companies/ZML-France.png"
-thumbnail: "/images/companies/ZML-France.png"
+image_url: "/images/companies/ZML-France.webp"
+featured_image: "/images/companies/ZML-France.webp"
+image: "/images/companies/ZML-France.webp"
+thumbnail: "/images/companies/ZML-France.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["ZML", "ZML LLMD", "French AI startup", "AI inference", "LLM inference server", "Nvidia lock-in", "CUDA", "multi-chip AI", "AI infrastructure", "open-source LLM", "AI chips", "AMD GPU", "Google TPU", "Apple Metal", "Intel Arc"]
 summary: "French AI startup ZML has released a free inference tool designed to run open-source AI models faster across different chips, not only on Nvidia GPUs. For ordinary users, this is not a new chatbot, but infrastructure under the hood that could help professionals reduce costs and dependence on a single hardware ecosystem."
 disclaimer: "This article is for informational purposes only and does not constitute investment, technology or business advice."
 draft: false
+categories: ["ai"]
 ---
 
 Image is symbolic.

@@ -7,10 +7,10 @@ translationKey: "ethereum_ai_agents_identity_20260130"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/ethereum-ai-agents-ERC-8004.png"
-featured_image: "/images/ethereum-ai-agents-ERC-8004.png"
-image: "/images/ethereum-ai-agents-ERC-8004.png"
-thumbnail: "/images/ethereum-ai-agents-ERC-8004.png"
+image_url: "/images/ethereum-ai-agents-ERC-8004.webp"
+featured_image: "/images/ethereum-ai-agents-ERC-8004.webp"
+image: "/images/ethereum-ai-agents-ERC-8004.webp"
+thumbnail: "/images/ethereum-ai-agents-ERC-8004.webp"
 image_alt: "AI agenti s identitetom na Ethereumu"
 image_credit: "Ilustracija / MetaAdvisor.eu"
 tags:
@@ -27,6 +27,7 @@ tags:
   - digitalni identitet
   - reputacija na blockchainu
 summary: "Ethereum uvodi novi standard koji AI agentima daje identitet, reputaciju i mogućnost samostalnog djelovanja. Time se otvara put prema AI sustavima koji mogu pregovarati, trgovati i surađivati bez ljudskog posredovanja."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

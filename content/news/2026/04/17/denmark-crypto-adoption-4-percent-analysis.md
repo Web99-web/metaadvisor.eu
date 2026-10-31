@@ -15,6 +15,7 @@ image_alt: "Bitcoin and global crypto adoption"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "denmark", "crypto adoption", "europe", "finance", "blockchain", "market"]
 summary: "Only 4% of Danish citizens hold cryptocurrencies according to central bank data, despite the global growth of digital assets."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

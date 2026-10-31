@@ -7,10 +7,10 @@ translationKey: "sweden_bitcoin_reserves_20260118"
 source: ""
 source_url: ""
 author: "MetaAdvisor.eu"
-image_url: "/images/Sweden-BTC.png"
-featured_image: "/images/Sweden-BTC.png"
-image: "/images/Sweden-BTC.png"
-thumbnail: "/images/Sweden-BTC.png"
+image_url: "/images/Sweden-BTC.webp"
+featured_image: "/images/Sweden-BTC.webp"
+image: "/images/Sweden-BTC.webp"
+thumbnail: "/images/Sweden-BTC.webp"
 image_alt: "Sweden and Bitcoin as a symbol of debate over state reserves"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "A debate in the Swedish parliament has raised the question of whether Bitcoin could one day become part of state reserves. No decision has been made, but the discussion itself signals a shift in how governments view Bitcoin."
@@ -36,6 +36,7 @@ tags: [
   "bitcoin-sverige"
 ]
 
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

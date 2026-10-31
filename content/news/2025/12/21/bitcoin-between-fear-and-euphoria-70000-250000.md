@@ -15,6 +15,7 @@ image_alt: "Bitcoin future – volatility, fear and long-term potential"
 image_credit: "MetaAdvisor illustration"
 tags: ["bitcoin", "btc", "crypto", "market", "fed", "interest rates", "analysis", "volatility", "investing"]
 summary: "Bitcoin is caught between short-term fears of a drop toward $70,000 and long-term forecasts pointing to $250,000 by 2027. Fed policy and market sentiment are shaping one of the most tense phases of this cycle."
+categories: ["crypto"]
 ---
 
 # Bitcoin Between Fear and Euphoria

@@ -7,10 +7,10 @@ translationKey: "bitcoin_zona_odluke_24_72_sata_20260128"
 source: "MetaAdvisor analysis / market overview"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/btc-sideways1.png"
-featured_image: "/images/btc-sideways1.png"
-image: "/images/btc-sideways1.png"
-thumbnail: "/images/btc-sideways1.png"
+image_url: "/images/btc-sideways1.webp"
+featured_image: "/images/btc-sideways1.webp"
+image: "/images/btc-sideways1.webp"
+thumbnail: "/images/btc-sideways1.webp"
 image_alt: "Bitcoin moving sideways in the market – symbolic illustration"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -35,6 +35,7 @@ tags:
   - market decision
   - volatility
 summary: "Bitcoin has entered a critical decision zone where the next 24–72 hours could determine the direction of the broader crypto market. A look at key price levels, altcoin behavior and the signals currently shaping sentiment."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

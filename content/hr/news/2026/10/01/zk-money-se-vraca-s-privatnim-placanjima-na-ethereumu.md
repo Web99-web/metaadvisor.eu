@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["zk.money", "Ethereum", "Aztec", "privatnost", "kripto", "wallet", "DAI", "USDC", "USDT", "Layer 2"]
 description: "Aztec Labs ponovno je pokrenuo zk.money, wallet za privatna plaćanja na Ethereumu koji skriva saldo, iznos i primatelja unutar Aztec Networka."
 summary: "zk.money se vraća nakon tri godine na novoj Aztec Network infrastrukturi. Korisnici mogu slati privatna plaćanja, ali depoziti i povlačenja prema Ethereumu ostaju javni, a Alpha verzija trenutačno ograničava pojedinačne transakcije na manje od 2.500 dolara."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

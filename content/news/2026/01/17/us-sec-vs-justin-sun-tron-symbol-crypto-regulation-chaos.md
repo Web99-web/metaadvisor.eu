@@ -7,10 +7,10 @@ translationKey: "sec_vs_justin_sun_tron_chaos_jan2026"
 source: "MetaAdvisor analysis"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/SEC-US.png"
-featured_image: "/images/SEC-US.png"
-image: "/images/SEC-US.png"
-thumbnail: "/images/SEC-US.png"
+image_url: "/images/SEC-US.webp"
+featured_image: "/images/SEC-US.webp"
+image: "/images/SEC-US.webp"
+thumbnail: "/images/SEC-US.webp"
 image_alt: "US Securities and Exchange Commission and the case against Tron founder Justin Sun"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -26,6 +26,7 @@ tags:
   - kraken
   - us regulation
 summary: "The US SEC’s case against Justin Sun and the Tron network has evolved beyond a single lawsuit, becoming a symbol of inconsistency and legal uncertainty in American crypto regulation."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

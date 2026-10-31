@@ -1,0 +1,15 @@
+{{/* Unknown terms fail closed for indexing, not for availability. Categories are untouched. */}}
+{{- $isTag := and (eq .Kind "term") (eq .Section "tags") -}}
+{{- $entry := dict -}}
+{{- $slug := strings.TrimPrefix "/tags/" .Path -}}
+{{- $primary := $slug -}}
+{{- $policy := .Site.Data.tag_policy | default dict -}}
+{{- if $isTag -}}
+  {{- with index ($policy.archives | default dict) $.Lang -}}
+    {{- with index . $slug -}}{{- $entry = . -}}{{- end -}}
+  {{- end -}}
+  {{- with index ($policy.aliases | default dict) $.Lang -}}
+    {{- with index . $slug -}}{{- $primary = . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return (dict "IsTag" $isTag "Indexable" (or (not $isTag) (gt (len $entry) 0)) "Entry" $entry "Primary" $primary "Slug" $slug "Title" ($entry.title | default .Title)) -}}

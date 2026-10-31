@@ -7,10 +7,10 @@ translationKey: "china_cbdc_mbridge_20260119"
 source: "Cointelegraph / Atlantic Council / MetaAdvisor analiza"
 source_url: ""
 author: "MetaAdvisor.eu"
-image_url: "/images/China-s-CBDC-mBridge.png"
-featured_image: "/images/China-s-CBDC-mBridge.png"
-image: "/images/China-s-CBDC-mBridge.png"
-thumbnail: "/images/China-s-CBDC-mBridge.png"
+image_url: "/images/China-s-CBDC-mBridge.webp"
+featured_image: "/images/China-s-CBDC-mBridge.webp"
+image: "/images/China-s-CBDC-mBridge.webp"
+thumbnail: "/images/China-s-CBDC-mBridge.webp"
 image_alt: "mBridge kao međunarodna CBDC platforma predvođena Kinom"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "mBridge, međunarodna CBDC platforma predvođena Kinom, već je obradila više od 55 milijardi dolara u prekograničnim transakcijama. Iza tehničkog projekta krije se šira promjena globalne monetarne arhitekture — i izazov za dolarom dominiran financijski sustav."
@@ -36,6 +36,7 @@ tags: [
   "asia-finance"
 ]
 
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

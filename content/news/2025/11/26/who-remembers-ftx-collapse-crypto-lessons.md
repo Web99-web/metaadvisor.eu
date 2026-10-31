@@ -7,14 +7,15 @@ translationKey: "ftx_lessons_history_20251126"
 source: "MetaAdvisor – analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/FTX-bankruptsy.png"
-featured_image: "/images/FTX-bankruptsy.png"
-image: "/images/FTX-bankruptsy.png"
-thumbnail: "/images/FTX-bankruptsy.png"
+image_url: "/images/FTX-bankruptsy.webp"
+featured_image: "/images/FTX-bankruptsy.webp"
+image: "/images/FTX-bankruptsy.webp"
+thumbnail: "/images/FTX-bankruptsy.webp"
 image_alt: "FTX collapse explained"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ftx", "collapse", "bankruptcy", "sam bankman-fried", "sbf", "bitcoin", "btc", "crypto", "cryptomarket", "regulation", "transparency", "cex", "defi", "trading", "lessons learned", "finance"]
 summary: "The FTX collapse remains the biggest failure in crypto history. Here is what happened, how it imploded in just 72 hours, and the key lessons the industry must learn."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

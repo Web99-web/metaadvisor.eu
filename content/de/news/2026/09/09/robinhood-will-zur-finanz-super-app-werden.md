@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Robinhood", "HOOD", "Finanzen", "Trading", "Investieren", "junge Anleger", "Prediction Markets", "Prognosemärkte", "KI-Trading", "künstliche Intelligenz", "Krypto", "Blockchain", "Robinhood Chain", "IPO", "Crypto.com", "OG.com", "Finanz-Super-App"]
 description: "Robinhood expandiert weit über klassisches Retail-Trading hinaus: Prediction Markets, KI-Agenten, eine eigene Blockchain, Krypto, IPO-Underwriting und Millionen jüngerer Nutzer werden Teil einer neuen Strategie."
 summary: "Robinhood versucht, von einer Trading-App zu einer Finanz-Super-App für eine neue Generation von Anlegern zu werden, während Wall Street seine Einschätzungen für die HOOD-Aktie anhebt."
+categories: ["Business"]
 ---
 
 *Das Bild ist symbolisch.*

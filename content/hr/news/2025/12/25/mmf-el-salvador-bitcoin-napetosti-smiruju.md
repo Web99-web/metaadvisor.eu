@@ -5,10 +5,10 @@ date: 2025-12-25T12:00:00
 category: "crypto"
 translationKey: "imf_el_salvador_bitcoin_25122025"
 source: "CoinDesk, Cointelegraph"
-image_url: "/images/El-Salvador-BTC.png"
-featured_image: "/images/El-Salvador-BTC.png"
-image: "/images/El-Salvador-BTC.png"
-thumbnail: "/images/El-Salvador-BTC.png"
+image_url: "/images/El-Salvador-BTC.webp"
+featured_image: "/images/El-Salvador-BTC.webp"
+image: "/images/El-Salvador-BTC.webp"
+thumbnail: "/images/El-Salvador-BTC.webp"
 image_alt: "Zastava El Salvadora i Bitcoin simbol"
 tags:
   - el-salvador
@@ -20,6 +20,7 @@ tags:
   - državne-rezerve
   - globalna-ekonomija
   
+categories: ["crypto"]
 ---
 
 # MMF i El Salvador: Bitcoin ostaje u igri dok se napetosti smiruju

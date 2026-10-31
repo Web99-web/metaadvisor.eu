@@ -12,9 +12,10 @@ image: "/images/EU/EU-inc.png"
 thumbnail: "/images/EU/EU-inc.png"
 image_alt: "EU Inc. – European company in 48 hours, for no more than €100 and with no mandatory minimum capital"
 image_credit: "Metaadvisor.eu"
-tags: ["EU Inc.", "European Union", "28th regime", "entrepreneurship", "startup", "company", "EU business", "taxes", "business grants", "single market"]
+tags: ["EU Inc", "European Union", "28th regime", "entrepreneurship", "startup", "company", "EU business", "taxes", "business grants", "single market"]
 description: "The EU is preparing a new legal form called EU Inc., which could be incorporated online within 48 hours for up to €100 and with no mandatory minimum capital. What would it actually mean for entrepreneurs?"
 summary: "EU Inc. is intended to allow a European company to be incorporated online within 48 hours, at a maximum cost of €100 and with no mandatory minimum capital. But taxes, labour law and access to national business support still raise important questions."
+categories: ["EU"]
 ---
 
 *Image is symbolic.*

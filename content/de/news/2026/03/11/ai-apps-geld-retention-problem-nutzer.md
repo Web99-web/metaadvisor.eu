@@ -8,14 +8,15 @@ author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
 source: "TechCrunch"
 source_url: ""
-image_url: "/images/news/AI-apps-money.png"
-featured_image: "/images/news/AI-apps-money.png"
-image: "/images/news/AI-apps-money.png"
-thumbnail: "/images/news/AI-apps-money.png"
+image_url: "/images/news/AI-apps-money.webp"
+featured_image: "/images/news/AI-apps-money.webp"
+image: "/images/news/AI-apps-money.webp"
+thumbnail: "/images/news/AI-apps-money.webp"
 image_alt: "AI Apps Monetarisierung und Nutzerbindung"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["ai", "künstliche intelligenz", "ai apps", "startup", "subscription apps", "app abonnement", "chatgpt", "tech industrie", "mobile apps", "ios", "android", "ai markt", "technologie"]
 summary: "Neue Daten zeigen, dass AI-Apps zwar schnell Umsatz generieren können, aber Schwierigkeiten haben, Nutzer langfristig zu halten. Viele Abonnenten kündigen ihre Abos deutlich schneller als bei klassischen Apps."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

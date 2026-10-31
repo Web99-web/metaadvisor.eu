@@ -10,6 +10,7 @@ image_url: "/images/mobile-phone-ruke.jpg"
 image_alt: "Google Pixel 10 Pro u ruci"
 tags: ["smartphone","google","pixel","recenzija"]
 summary: "Vrhunske kamere, svježe AI mogućnosti i odličan zaslon u tijelu koje ostaje upravljivo jednom rukom — uz brži Tensor G5, Qi2 bežično punjenje i cijenu od £999."
+categories: ["news"]
 ---
 
 Ako vam je „manji flagship” zvučao kao oksimoron, **Pixel 10 Pro** je onaj koji mijenja mišljenje. Uzeo je temeljne adute standardnog Pixel 10 i nadogradio ih u **kamerama**, ostavivši kućište dovoljno kompaktno da se i dalje može koristiti jednom rukom. Ekran je i dalje **6,3" OLED** — ista dijagonala kao na Pixelu 10 — ali primjetno **svjetliji i čišći** u prikazu. Polirani aluminijski okviri i matirano staklo daju ozbiljan, čak pomalo konzervativan izgled; nije najživopisniji izbor boja u klasi, ali djeluje skupo i čvrsto.

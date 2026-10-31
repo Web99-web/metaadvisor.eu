@@ -15,6 +15,7 @@ image_alt: "Netlify News Update"
 image_credit: "Netlify"
 tags: ["Netlify", "AI", "GPT-5.1", "Hosting", "Deploy", "Git", "Skew Protection", "Webentwicklung", "Tech News"]
 summary: "Netlify integriert GPT-5.1 in das AI Gateway, verschärft den Git-Workflow, führt Skew Protection ein und ermöglicht schnellere Rollbacks. Hier sind die wichtigsten Neuerungen."
+categories: ["ai-tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

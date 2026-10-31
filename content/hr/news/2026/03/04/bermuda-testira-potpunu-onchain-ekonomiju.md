@@ -7,14 +7,15 @@ translationKey: "bb25ed850600fd926f9c21b36cf7836a"
 source: "Cointelegraph"
 source_url: ""
 author: "Cointelegraph"
-image_url: "/images/Bermuda-onchain-economy.png"
-featured_image: "/images/Bermuda-onchain-economy.png"
-image: "/images/Bermuda-onchain-economy.png"
-thumbnail: "/images/Bermuda-onchain-economy.png"
+image_url: "/images/Bermuda-onchain-economy.webp"
+featured_image: "/images/Bermuda-onchain-economy.webp"
+image: "/images/Bermuda-onchain-economy.webp"
+thumbnail: "/images/Bermuda-onchain-economy.webp"
 image_alt: "Bermuda i koncept onchain nacionalne ekonomije"
 image_credit: "Ilustracija / Metaadvisor"
 tags: ["bermuda", "onchain ekonomija", "stablecoin", "usdc", "coinbase", "circle", "blockchain", "digitalna infrastruktura", "regulacija", "kripto", "financijske inovacije"]
 summary: "Bermuda pokreće pilot-projekt izgradnje potpuno onchain nacionalne infrastrukture u suradnji s Circleom i Coinbaseom. Umjesto naglog nametanja kripta, otok bira regulirani i postupni model digitalne transformacije."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

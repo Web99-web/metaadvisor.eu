@@ -10,6 +10,7 @@ image_url: "/images/btc1 (2).jpg"
 image_alt: "Stablecoins and passive income"
 tags: ["stablecoin","passive-income","defi","tax","regulation"]
 summary: "Yield-bearing stablecoins can deliver on-chain income in 2025, but they come with regulatory, tax and operational risks — from T-bill wrappers and DeFi savings tokens to synthetic dollar models."
+categories: ["crypto"]
 ---
 
 **Key takeaways (per Cointelegraph)**  

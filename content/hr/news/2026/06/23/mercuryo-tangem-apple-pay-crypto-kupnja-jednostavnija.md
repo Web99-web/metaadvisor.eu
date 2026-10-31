@@ -7,14 +7,15 @@ translationKey: "mercuryo-tangem-apple-pay-crypto-kupnja-jednostavnija-2026-06-2
 source: "Mercuryo, Tangem, PR Newswire, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Mercuryo-Tangem-Apple-pay.png"
-featured_image: "/images/news/Mercuryo-Tangem-Apple-pay.png"
-image: "/images/news/Mercuryo-Tangem-Apple-pay.png"
-thumbnail: "/images/news/Mercuryo-Tangem-Apple-pay.png"
+image_url: "/images/news/Mercuryo-Tangem-Apple-pay.webp"
+featured_image: "/images/news/Mercuryo-Tangem-Apple-pay.webp"
+image: "/images/news/Mercuryo-Tangem-Apple-pay.webp"
+thumbnail: "/images/news/Mercuryo-Tangem-Apple-pay.webp"
 image_alt: "Mercuryo i Tangem Apple Pay kupnja kripta unutar wallet aplikacije"
 image_credit: "Metaadvisor.eu"
 tags: ["Mercuryo", "Tangem", "Apple Pay", "crypto kupnja", "kriptovalute", "crypto wallet", "hardware wallet", "self-custody", "on-ramp", "fiat-to-crypto", "iOS", "Face ID", "Touch ID", "digitalna imovina", "crypto adopcija", "fintech", "plaćanja", "Metaadvisor"]
 summary: "Mercuryo i Tangem uvode Native Apple Pay za jednostavniju kupnju kripta unutar Tangem aplikacije. To je važan korak prema boljem korisničkom iskustvu, ali rizik ulaganja u kripto ostaje isti."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

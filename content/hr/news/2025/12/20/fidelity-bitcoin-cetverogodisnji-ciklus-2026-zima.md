@@ -23,6 +23,7 @@ tags:
   - kripto-tržište
   - analiza
 summary: "Fidelity smatra da Bitcoinov četverogodišnji ciklus nije nestao unatoč ETF-ovima i institucionalnom kapitalu. Prema njihovoj analizi, 2026. bi mogla biti mirna i slaba godina prije sljedeće faze rasta."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

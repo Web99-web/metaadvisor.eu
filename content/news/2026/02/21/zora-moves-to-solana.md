@@ -7,14 +7,15 @@ translationKey: "zora-moves-to-solana-2026"
 source: "Industry reports"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Zora-moves-to-Solana.png"
-featured_image: "/images/Zora-moves-to-Solana.png"
-image: "/images/Zora-moves-to-Solana.png"
-thumbnail: "/images/Zora-moves-to-Solana.png"
+image_url: "/images/Zora-moves-to-Solana.webp"
+featured_image: "/images/Zora-moves-to-Solana.webp"
+image: "/images/Zora-moves-to-Solana.webp"
+thumbnail: "/images/Zora-moves-to-Solana.webp"
 image_alt: "Zora moves to Solana"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["zora", "solana", "web3", "creator economy", "nft", "blockchain", "ethereum", "crypto", "multichain", "digital infrastructure"]
 summary: "Zora expands to Solana, reinforcing the multichain trend and lowering entry barriers for Web3 creators."
+categories: ["web3"]
 ---
 
 <p style="font-size:12px; opacity:0.7; margin-top:-10px;">The image is symbolic.</p>

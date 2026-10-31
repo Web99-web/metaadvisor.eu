@@ -7,14 +7,15 @@ translationKey: "pyth_network_explainer_13122025"
 source: "MetaAdvisor – Erklärung"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Pyth-network.png"
-featured_image: "/images/Pyth-network.png"
-image: "/images/Pyth-network.png"
-thumbnail: "/images/Pyth-network.png"
+image_url: "/images/Pyth-network.webp"
+featured_image: "/images/Pyth-network.webp"
+image: "/images/Pyth-network.webp"
+thumbnail: "/images/Pyth-network.webp"
 image_alt: "Pyth Network als Oracle-Netzwerk für Marktdaten auf der Blockchain"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["pyth","oracle","blockchain","defi","marktdaten","krypto","solana","ethereum","technologie"]
 summary: "Pyth Network ist ein Blockchain-Oracle-Netzwerk, das Smart Contracts nahezu in Echtzeit mit realen Marktdaten versorgt."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

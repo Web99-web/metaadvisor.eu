@@ -3,8 +3,9 @@ title: "SEC Asks Issuers to Pull 19b-4 Filings; ETFs Could Be Approved Extremely
 date: 2025-09-29T17:02:10Z
 category: "news"
 translationKey: "8800b11984274d024d8cbd98290e093f"
-image: "/images/SEC-ETFs.png"
+image: "/images/SEC-ETFs.webp"
 tags: ["ETF", "SEC", "crypto", "bitcoin"]
+categories: ["news"]
 ---
 
 The U.S. Securities and Exchange Commission (SEC) has asked crypto ETF issuers to withdraw their **19b-4 filings**, opening the door to a much faster approval process after new rules removed a key regulatory hurdle.  

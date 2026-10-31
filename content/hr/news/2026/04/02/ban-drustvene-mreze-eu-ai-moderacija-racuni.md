@@ -7,14 +7,15 @@ translationKey: "a4c9f7e2d1b8435a9c7f1e6b2d8c9f01"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (iskustva korisnika, regulatorni okvir EU)"
 source_url: ""
-image_url: "/images/Banned-from-social-media.png"
-featured_image: "/images/Banned-from-social-media.png"
-image: "/images/Banned-from-social-media.png"
-thumbnail: "/images/Banned-from-social-media.png"
+image_url: "/images/Banned-from-social-media.webp"
+featured_image: "/images/Banned-from-social-media.webp"
+image: "/images/Banned-from-social-media.webp"
+thumbnail: "/images/Banned-from-social-media.webp"
 image_alt: "Ban s društvenih mreža i AI moderacija"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "moderacija", "facebook", "instagram", "tiktok", "eu", "digital services act", "ban", "mali biznis"]
 summary: "Sve više korisnika u EU gubi pristup društvenim mrežama zbog AI moderacije, bez objašnjenja i bez stvarnog pristupa ljudskom supportu."
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

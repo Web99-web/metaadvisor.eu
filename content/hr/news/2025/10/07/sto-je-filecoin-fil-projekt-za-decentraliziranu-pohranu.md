@@ -5,10 +5,10 @@ date: 2025-10-08T09:00:00Z
 category: "crypto"
 translationKey: "filcoin-intro-20251008"
 author: "Metaadvisor.eu"
-image_url: "/images/filecoin.png"
-featured_image: "/images/filecoin.png"
-image: "/images/filecoin.png"
-thumbnail: "/images/filecoin.png"
+image_url: "/images/filecoin.webp"
+featured_image: "/images/filecoin.webp"
+image: "/images/filecoin.webp"
+thumbnail: "/images/filecoin.webp"
 image_alt: "Filecoin (FIL) — logo i mreža za decentraliziranu pohranu"
 image_credit: "Dizajn: Metaadvisor.eu"
 tags:
@@ -21,6 +21,7 @@ tags:
   - defi
   - infrastruktura
 summary: "Filecoin (FIL) je blockchain projekt pokrenut 2020. godine koji omogućuje decentraliziranu pohranu podataka. Token FIL koristi se kao sredstvo plaćanja i kolateral u mreži."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/10/14/u-s-targets-cambodian-pig-butchering-takes-usd14b-in-bitcoin-as-biggest-ever-seizure"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/BTC-seized.png"
-featured_image: "/images/BTC-seized.png"
-image: "/images/BTC-seized.png"
-thumbnail: "/images/BTC-seized.png"
+image_url: "/images/BTC-seized.webp"
+featured_image: "/images/BTC-seized.webp"
+image: "/images/BTC-seized.webp"
+thumbnail: "/images/BTC-seized.webp"
 image_alt: "Bitcoin behind bars — symbol of the largest seizure ever"
 image_credit: "Image is symbolic."
 tags: ["bitcoin", "US", "crypto seizure", "pig butchering", "Cambodia", "Prince Group", "Huione Group", "money laundering", "DOJ", "OFAC"]
 summary: "US authorities seized 127,271 BTC (worth about $14B) from Cambodia’s Prince Group — the largest crypto seizure in history. The case involves 'pig-butchering' scams and forced labor."
+categories: ["crypto"]
 ---
 
 US authorities have executed the **largest crypto seizure in history**, taking control of **127,271 Bitcoin**, worth around **$14 billion**. The funds were linked to the global criminal network **Prince Group**, which prosecutors describe as one of the biggest operators of online scams and forced labor in Southeast Asia. 

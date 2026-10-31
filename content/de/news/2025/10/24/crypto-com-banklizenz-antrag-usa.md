@@ -16,6 +16,7 @@ image_alt: "Crypto.com Banklizenz Antrag"
 image_credit: "Bild ist symbolisch."
 tags: ["Crypto.com", "Banklizenz", "USA", "Regulierung", "Krypto"]
 summary: "Crypto.com hat in den USA einen Antrag auf eine Trust Bank Charter gestellt. Damit könnte die Börse den Status einer voll regulierten Bank erhalten."
+categories: ["crypto"]
 ---
 
 🚨 **Crypto.com strebt US-Banklizenz an**

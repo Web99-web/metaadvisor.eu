@@ -7,6 +7,7 @@ tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/0dfcc4d7c71fa2880b01af9aab8bf1de0ab3225e-3780x2124.jpg"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/08/21/crypto-exchange-gemini-secures-mica-license-in-malta-expands-european-footprint"
+categories: ["crypto"]
 ---
 
 Gemini, kripto mjenjačnica iza koje stoje braća Winklevoss, dobila je licencu za **Markets in Crypto Assets (MiCA)** od Malteške agencije za financijske usluge (MFSA), čime dodatno jača svoju ekspanziju na tržište Europske unije u sklopu novog regulatornog okvira, objavila je tvrtka u četvrtak na blogu.  

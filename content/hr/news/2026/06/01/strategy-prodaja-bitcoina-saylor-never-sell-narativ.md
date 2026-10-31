@@ -7,14 +7,15 @@ translationKey: "strategy-btc-sale-saylor-never-sell-2026-06-01"
 source: "Metaadvisor (CoinDesk, Cointelegraph, MarketWatch)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Sell-in-may-go-away-Strategy.png"
-featured_image: "/images/news/Sell-in-may-go-away-Strategy.png"
-image: "/images/news/Sell-in-may-go-away-Strategy.png"
-thumbnail: "/images/news/Sell-in-may-go-away-Strategy.png"
+image_url: "/images/news/Sell-in-may-go-away-Strategy.webp"
+featured_image: "/images/news/Sell-in-may-go-away-Strategy.webp"
+image: "/images/news/Sell-in-may-go-away-Strategy.webp"
+thumbnail: "/images/news/Sell-in-may-go-away-Strategy.webp"
 image_alt: "Sell in May and go away Strategy Bitcoin prodaja"
 image_credit: "MetaAdvisor.eu"
 tags: ["Bitcoin", "BTC", "Strategy", "Michael Saylor", "MicroStrategy", "Saylor", "prodaja Bitcoina", "Bitcoin treasury", "kripto tržište", "kripto ulaganja", "STRC", "povlaštene dionice", "dividende", "HODL", "never sell", "Sell in May", "Polymarket", "prediction market", "tržišni sentiment", "kripto analiza", "Metaadvisor"]
 summary: "Strategy je prodala 32 BTC-a za oko 2,5 milijuna dolara, što je mali iznos u odnosu na njezine ukupne rezerve, ali velik psihološki signal za tržište. Prodaja je otvorila pitanje ostaje li Saylorov ‘never sell’ narativ netaknut ili Strategy ulazi u složeniju fazu financiranja oko Bitcoina."
+categories: ["kripto"]
 ---
 
 <small><em>Slika je simbolična.</em></small>

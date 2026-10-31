@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/ng-interactive/2025/aug/28/e
 summary: "Antonio Gracias gehört zu einer wachsenden Bewegung im Silicon Valley, die vom therapeutischen und kommerziellen Potenzial von MDMA fasziniert ist."
 tags: ["ai","Elon Musk","Antonio Gracias","MDMA","Psychedelika"]
 image_url: "https://i.guim.co.uk/img/media/12345abcd9876543210guardianmdma.jpg"
+categories: ["ai"]
 ---
 
 **Antonio Gracias** ist Teil einer Bewegung im Silicon Valley – insbesondere im rechtsgerichteten Flügel –, die im **MDMA** enormes Potenzial für Therapie und Geschäft sieht.

@@ -15,6 +15,7 @@ image_alt: "DeepSeek AI-Unternehmen auf dem Weg zu einer Bewertung von 45 Millia
 image_credit: "Metaadvisor.eu"
 tags: ["deepseek", "ki", "kunstliche intelligenz", "china", "openai", "anthropic", "huawei", "llm", "ki krieg", "chips", "nvidia", "technologie", "future tech", "machine learning", "agentic ai"]
 summary: "Das chinesische KI-Startup DeepSeek könnte eine Bewertung von bis zu 45 Milliarden Dollar erreichen. Die Geschichte dreht sich längst nicht mehr nur um Chatbots — sondern um den globalen KI-Wettlauf zwischen China und den USA."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

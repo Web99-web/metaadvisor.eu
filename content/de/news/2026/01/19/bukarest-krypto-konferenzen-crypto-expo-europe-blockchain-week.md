@@ -7,14 +7,15 @@ translationKey: "bucharest_crypto_events_europe_20260119"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Crypto Conference.png"
-featured_image: "/images/Crypto Conference.png"
-image: "/images/Crypto Conference.png"
-thumbnail: "/images/Crypto Conference.png"
+image_url: "/images/Crypto Conference.webp"
+featured_image: "/images/Crypto Conference.webp"
+image: "/images/Crypto Conference.webp"
+thumbnail: "/images/Crypto Conference.webp"
 image_alt: "Publikum und Panel auf einer großen europäischen Krypto-Konferenz in Bukarest"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags: ["krypto", "blockchain", "konferenzen", "bukarest", "rumänien", "osteuropa", "osteuropa krypto", "europäische krypto-szene", "crypto expo europe", "blockchain week", "fintech"]
 summary: "Bukarest hat sich in den letzten Jahren zu einem der wichtigsten europäischen Zentren der Krypto- und Blockchain-Industrie entwickelt – mit zwei großen Events, die unterschiedliche Schwerpunkte und Zielgruppen ansprechen."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.8em; color:#777;">

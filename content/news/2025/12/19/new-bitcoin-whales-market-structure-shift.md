@@ -7,14 +7,15 @@ translationKey: "btc_new_whales_market_shift"
 source: "MetaAdvisor analysis — based on on-chain data and Cointelegraph reporting"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-new-whales.png"
-featured_image: "/images/BTC-new-whales.png"
-image: "/images/BTC-new-whales.png"
-thumbnail: "/images/BTC-new-whales.png"
+image_url: "/images/BTC-new-whales.webp"
+featured_image: "/images/BTC-new-whales.webp"
+image: "/images/BTC-new-whales.webp"
+thumbnail: "/images/BTC-new-whales.webp"
 image_alt: "New Bitcoin whales and a shift in market structure"
 image_credit: "On-chain data / illustrative"
 tags: ["bitcoin","btc","whales","crypto","on-chain","market structure","investing","analysis"]
 summary: "Nearly half of Bitcoin’s realized market cap is now held by new whales, signaling a deep structural shift in how capital is entering the market."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

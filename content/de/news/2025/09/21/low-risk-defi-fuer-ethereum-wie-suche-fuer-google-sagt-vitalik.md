@@ -16,6 +16,7 @@ image_alt: "Ethereum und DeFi — symbolische Illustration"
 image_credit: "Metaadvisor image_map (symbolisches Bild)"
 tags: ["ethereum", "ETH", "DeFi", "low-risk-DeFi", "Vitalik-Buterin", "stablecoins", "overcollateralized-lending", "gas-fees", "on-chain-economy", "security", "regulation", "UX"]
 summary: "Vitalik Buterin argumentiert, dass risikoarmes DeFi — Sparen, Zahlungen und vollständig besicherte Kredite — ein stabiler Nachfrage- und Gebührenmotor für Ethereum werden könnte, ähnlich wie die Suche Googles Erträge über Jahre getragen hat."
+categories: ["crypto"]
 ---
 
 **Kurz & knapp:**  

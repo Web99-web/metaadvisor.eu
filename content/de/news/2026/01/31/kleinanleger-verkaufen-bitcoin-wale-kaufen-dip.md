@@ -7,14 +7,15 @@ translationKey: "0394eaa940075b6cafe734843a81d3ef"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/30/retail-traders-are-running-for-the-exit-amid-bitcoin-s-selloff-while-mega-whales-are-quietly-buying-the-dip"
 author: "Metaadvisor.eu"
-image_url: "/images/Whales-buying-dip.png"
-featured_image: "/images/Whales-buying-dip.png"
-image: "/images/Whales-buying-dip.png"
-thumbnail: "/images/Whales-buying-dip.png"
+image_url: "/images/Whales-buying-dip.webp"
+featured_image: "/images/Whales-buying-dip.webp"
+image: "/images/Whales-buying-dip.webp"
+thumbnail: "/images/Whales-buying-dip.webp"
 image_alt: "Bitcoin-Wale kaufen während Kursrückgang, während Kleinanleger verkaufen"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "wale", "on-chain", "kleinanleger", "panik", "akkumulation", "markt", "volatilität"]
 summary: "Nachdem Bitcoin erneut unter 77.000 USD gefallen ist, zeigen On-Chain-Daten einen klaren Gegensatz: Kleinanleger verkaufen aus Angst oder Liquiditätsdruck, während große Investoren – sogenannte Wale – den Rückgang zur Akkumulation nutzen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -16,6 +16,7 @@ tags: ["YGG", "Yield Guild Games", "YGG Play", "Web3 Gaming", "Play-to-Earn", "A
 summary: "Yield Guild Games schließt YGG Play, entlässt 35 Mitarbeiter und richtet sich auf die AI Data Economy aus. Ein Projekt, das einst ein Symbol der Play-to-Earn-Ära war, versucht nun, über Gaming-Daten für künstliche Intelligenz zu überleben."
 disclaimer: "Dieser Artikel dient ausschließlich Informationszwecken und stellt keine Finanz-, Anlage- oder Geschäftsberatung dar."
 draft: false
+categories: ["crypto"]
 ---
 
 Bild ist symbolisch.
@@ -27,7 +28,7 @@ Yield Guild Games, besser bekannt als **YGG**, schließt seine Crypto-Game-Publi
 Besonders wichtig ist ein Detail, das sich auf den **10. Oktober** bezieht. YGG erklärt, dass der große Markteinbruch an diesem Tag die „Psychologie des Retail-Marktes fundamental verändert“ habe und dass man nicht erwarte, dass sich der Crypto-Consumer-Markt oder der Web3-Game-Publishing-Markt kurzfristig ausreichend erholen werde.
 
 <a href="https://metaadvisor.eu/de/news/btc-war-die-antwort-auf-die-krise-2007-was-geschah-am-10-10-2025/" target="_blank" rel="noopener">
-  <img src="/images/bitcoin-BTC-2007-2009.png" alt="BTC war die Antwort auf die Krise 2007 – was geschah am 10.10.2025?" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/bitcoin-BTC-2007-2009.webp" alt="BTC war die Antwort auf die Krise 2007 – was geschah am 10.10.2025?" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/de/news/btc-war-die-antwort-auf-die-krise-2007-was-geschah-am-10-10-2025/" target="_blank" rel="noopener">BTC war die Antwort auf die Krise 2007 – was geschah am 10.10.2025?</a>

@@ -6,15 +6,16 @@ category: "Geopolitics"
 translationKey: "hollywood-nord-stream-suspect-consultant-2026-08-21"
 source: "Njemačko savezno tužiteljstvo, HRT, Reuters, AP, The Guardian, Bundesnetzagentur, Eurostat, Nord Stream AG, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Nord-Stream-film-suspect..png"
-featured_image: "/images/news/Nord-Stream-film-suspect..png"
-image: "/images/news/Nord-Stream-film-suspect..png"
-thumbnail: "/images/news/Nord-Stream-film-suspect..png"
+image_url: "/images/news/Nord-Stream-film-suspect..webp"
+featured_image: "/images/news/Nord-Stream-film-suspect..webp"
+image: "/images/news/Nord-Stream-film-suspect..webp"
+thumbnail: "/images/news/Nord-Stream-film-suspect..webp"
 image_alt: "Nord Stream osumnjičenik uhićen u Puli dok je radio kao konzultant na filmu sa Seanom Pennom"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Nord Stream", "Nord Stream 1", "Nord Stream 2", "Njemačka", "Rusija", "Ukrajina", "Pula", "Hrvatska", "Sean Penn", "prirodni plin", "LNG", "energetika"]
 description: "Osumnjičenik za sabotažu Nord Streama uhićen je u Puli dok je navodno radio kao konzultant na filmu sa Seanom Pennom. Zašto su Nord Stream 1 i 2 bili toliko važni Njemačkoj?"
 summary: "Ukrajinski ronilac osumnjičen za sabotažu Nord Streama uhićen je u Hrvatskoj. Slučaj ponovno otvara pitanje plinovoda koji su povezivali Rusiju i Njemačku zaobilazeći Ukrajinu."
+categories: ["Geopolitics"]
 ---
 
 *Slika je simbolična.*
@@ -96,7 +97,7 @@ Zbog toga broj poput 3,3 za američki plin i 42 za europski ne znači automatski
 O tome smo detaljnije pisali u ranijem članku:
 
 <a href="https://metaadvisor.eu/hr/news/zasto-americki-plin-kosta-3-3-a-europski-42-mmbtu-mwh-ttf-jkm-natgas/" target="_blank" rel="noopener">
-<img src="/images/Natural-gas-LNG-prices.png" alt="Zašto američki plin košta 3,3, a europski 42? MMBtu, MWh, TTF, JKM i NATGAS" style="width:55%; max-width:500px; height:auto; display:block; margin:1.5rem auto;">
+<img src="/images/Natural-gas-LNG-prices.webp" alt="Zašto američki plin košta 3,3, a europski 42? MMBtu, MWh, TTF, JKM i NATGAS" style="width:55%; max-width:500px; height:auto; display:block; margin:1.5rem auto;">
 </a>
 
 ### <a href="https://metaadvisor.eu/hr/news/zasto-americki-plin-kosta-3-3-a-europski-42-mmbtu-mwh-ttf-jkm-natgas/" target="_blank" rel="noopener">Zašto američki plin košta 3,3, a europski 42? MMBtu, MWh, TTF, JKM i NATGAS</a>

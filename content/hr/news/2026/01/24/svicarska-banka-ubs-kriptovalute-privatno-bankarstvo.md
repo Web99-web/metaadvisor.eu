@@ -7,14 +7,15 @@ translationKey: "79c3644729981e8c14e5be21d29e6102"
 source: "Cointelegraph / Bloomberg"
 source_url: "https://cointelegraph.com/news/ubs-explores-crypto-trading-private-banking-clients"
 author: "MetaAdvisor.eu"
-image_url: "/images/Banks-move-into-crypto1.png"
-featured_image: "/images/Banks-move-into-crypto1.png"
-image: "/images/Banks-move-into-crypto1.png"
-thumbnail: "/images/Banks-move-into-crypto1.png"
+image_url: "/images/Banks-move-into-crypto1.webp"
+featured_image: "/images/Banks-move-into-crypto1.webp"
+image: "/images/Banks-move-into-crypto1.webp"
+thumbnail: "/images/Banks-move-into-crypto1.webp"
 image_alt: "Švicarska banka UBS razmatra ulazak u trgovanje kriptovalutama"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Švicarska banka UBS razmatra mogućnost da svojim najbogatijim klijentima omogući trgovanje Bitcoinom i Etherom, čime dodatno potvrđuje sve snažniji ulazak tradicionalnih banaka u kripto sektor."
 tags: ["ubs", "svicarska banka", "bitcoin", "btc", "ethereum", "eth", "kriptovalute", "banke", "privatno bankarstvo", "tradfi", "blockchain"]
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

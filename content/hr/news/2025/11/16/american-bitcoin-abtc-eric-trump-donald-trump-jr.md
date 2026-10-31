@@ -15,6 +15,7 @@ image_alt: "American Bitcoin"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin","american bitcoin","trump","eric trump","donald trump jr","crypto stocks","abtc","scaramucci","ton","solana","btc","eth","kripto","crypto mining","nasdaq","usa crypto","politics","web3"]
 summary: "American Bitcoin (ABTC) postala je najkontroverznija kripto-dionica u SAD-u, zahvaljujući povezanosti s Trumpovom obitelji, Scaramuccijevim investicijama i novom političko-tehnološkom narativu."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,15 +7,16 @@ translationKey: "injective-sdk-npm-wallet-keys-2026-07-10"
 source: "Cointelegraph, Socket, Aikido, OX Security, DefiLlama, CoinGecko, Metaadvisor.eu"
 source_url: "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Injective-SDK-hacked.png"
-featured_image: "/images/hack/Injective-SDK-hacked.png"
-image: "/images/hack/Injective-SDK-hacked.png"
-thumbnail: "/images/hack/Injective-SDK-hacked.png"
+image_url: "/images/hack/Injective-SDK-hacked.webp"
+featured_image: "/images/hack/Injective-SDK-hacked.webp"
+image: "/images/hack/Injective-SDK-hacked.webp"
+thumbnail: "/images/hack/Injective-SDK-hacked.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Injective", "Injective SDK", "npm paket", "supply chain napad", "kripto sigurnost", "wallet ključevi", "privatni ključevi", "seed phrase", "mnemonic fraza", "Web3 sigurnost", "DeFi sigurnost", "developer alati", "GitHub", "npm malware", "kripto wallet"]
 summary: "Kompromitiran je Injective npm paket @injectivelabs/sdk-ts, a zlonamjerna verzija ciljala je privatne ključeve i mnemonic fraze kripto walleta. Incident nije napad na sam blockchain, nego primjer sve važnijeg rizika u Web3 prostoru: napada na softverski lanac opskrbe."
 disclaimer: "Ovaj članak služi isključivo u informativne svrhe i ne predstavlja investicijski, tehnološki, sigurnosni ni financijski savjet."
 draft: false
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

@@ -7,14 +7,15 @@ translationKey: "ftx_final_sec_19122025"
 source: "MetaAdvisor Analyse — basierend auf Berichten von CoinDesk"
 source_url: "https://coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/FTX.png"
-featured_image: "/images/FTX.png"
-image: "/images/FTX.png"
-thumbnail: "/images/FTX.png"
+image_url: "/images/FTX.webp"
+featured_image: "/images/FTX.webp"
+image: "/images/FTX.webp"
+thumbnail: "/images/FTX.webp"
 image_alt: "FTX und die US-Börsenaufsicht SEC"
 image_credit: "Public domain / illustrative"
 tags: ["ftx","sec","sam bankman-fried","krypto","regulierung","betrug","kryptobörsen","justiz","finanzen"]
 summary: "Die US-Börsenaufsicht schließt den FTX-Fall mit langjährigen Berufsverboten für ehemalige Führungskräfte ab und setzt damit einen wichtigen Präzedenzfall für den Kryptomarkt."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

@@ -15,6 +15,7 @@ image_alt: "Visa and Mastercard dominance in crypto and digital payments"
 image_credit: "MetaAdvisor.eu"
 tags: ["visa", "mastercard", "crypto", "payments", "stablecoin", "digital euro", "ecb", "fintech", "blockchain", "cbdc"]
 summary: "Visa and Mastercard didn’t lose the battle to crypto — they adapted and became a core layer of the global financial infrastructure."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

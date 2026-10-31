@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["ChatGPT", "ChatGPT UX", "Benutzererfahrung", "Nachrichten löschen", "digitale Tools", "AI-Tools", "OpenAI", "UX"]
 description: "ChatGPT ermöglicht das Löschen ganzer Gespräche, bietet aber keine einfache Kontrolle zum Entfernen einer einzelnen bereits gesendeten Nachricht aus einem wichtigen Chat."
 summary: "Ein versehentlich gesendetes Bild, Dokument oder eine Nachricht können dauerhaft in einem wichtigen Chat bleiben. Wir schlagen drei UX-Funktionen vor: Delete message, Move to another chat und Hide from context."
+categories: ["digital-tools"]
 ---
 
 *Das Bild ist symbolisch.*

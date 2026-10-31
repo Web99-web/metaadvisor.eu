@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "nvidia-hugging-face-acquisition-12-9-billion-2026-08-28"
 source: "The Information, Reuters, TechCrunch, Business Insider, Financial Times, Hugging Face, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Nvidia-Hugging-Face.png"
-featured_image: "/images/news/Nvidia-Hugging-Face.png"
-image: "/images/news/Nvidia-Hugging-Face.png"
-thumbnail: "/images/news/Nvidia-Hugging-Face.png"
+image_url: "/images/news/Nvidia-Hugging-Face.webp"
+featured_image: "/images/news/Nvidia-Hugging-Face.webp"
+image: "/images/news/Nvidia-Hugging-Face.webp"
+thumbnail: "/images/news/Nvidia-Hugging-Face.webp"
 image_alt: "Nvidia navodno kupuje Hugging Face za 12,9 milijardi dolara"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Nvidia", "Hugging Face", "umjetna inteligencija", "AI", "open-source AI", "open-weight modeli", "AI modeli", "Jensen Huang", "Clément Delangue", "GPU", "AI čipovi", "CUDA", "OpenAI", "Anthropic", "AI infrastruktura", "akvizicija", "tehnološke kompanije"]
 description: "Nvidia je prema The Informationu dogovorila kupnju Hugging Facea za 12,9 milijardi dolara. Ako se posao zaključi, Nvidia bi dobila kontrolu nad jednom od najvažnijih platformi otvorenog AI ekosustava."
 summary: "Nvidia je prema izvještajima pristala kupiti Hugging Face za 12,9 milijardi dolara, gotovo tri puta više od njegove valuacije iz 2023. Posao još nije službeno potvrđen, ali pokazuje koliko Nvidiji vrijedi kontrola nad infrastrukturom kroz koju milijuni developera pronalaze, dijele i pokreću AI modele."
+categories: ["Technology"]
 ---
 
 *Slika je simbolična.*
@@ -94,7 +95,7 @@ Incident je bio posebno neobičan zato što modeli nisu samo pogriješili unutar
 O toj smo priči detaljno pisali ranije:
 
 <a href="https://metaadvisor.eu/hr/news/openai-modeli-hakirali-hugging-face-zbog-odgovora-na-testu/" target="_blank" rel="noopener">
-<img src="/images/hack/OpenAI-hacked-HuggingFace.png"
+<img src="/images/hack/OpenAI-hacked-HuggingFace.webp"
      alt="OpenAI-jevi modeli hakirali Hugging Face zbog odgovora na testu"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

@@ -7,14 +7,15 @@ translationKey: "a4c9f7e2d1b8435a9c7f1e6b2d8c9f01"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (user experiences, EU regulatory framework)"
 source_url: ""
-image_url: "/images/Banned-from-social-media.png"
-featured_image: "/images/Banned-from-social-media.png"
-image: "/images/Banned-from-social-media.png"
-thumbnail: "/images/Banned-from-social-media.png"
+image_url: "/images/Banned-from-social-media.webp"
+featured_image: "/images/Banned-from-social-media.webp"
+image: "/images/Banned-from-social-media.webp"
+thumbnail: "/images/Banned-from-social-media.webp"
 image_alt: "Social media ban and AI moderation"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "moderation", "facebook", "instagram", "tiktok", "eu", "digital services act", "ban", "small business"]
 summary: "More and more users in the EU are losing access to social networks due to AI moderation, without explanation and without real access to human support."
+categories: ["tech"]
 ---
 
 *The image is symbolic.*

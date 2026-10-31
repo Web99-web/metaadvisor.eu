@@ -15,6 +15,7 @@ image_alt: "Bitcoin and global markets sell-off – illustration"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "ethereum", "eth", "xrp", "solana", "dogecoin", "crypto", "gold", "market-crash", "liquidations", "risk-off", "financial-markets"]
 summary: "Bitcoin fell to $83,000 and dragged the entire market lower — from gold, which lost $400 in 30 minutes, to Ethereum, XRP, Solana and Dogecoin. Liquidations exceeded $570 million."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

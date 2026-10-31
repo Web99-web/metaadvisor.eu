@@ -9,10 +9,10 @@ author: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/28/tether-and-circle-are-printing-money-but-competition-is-coming-wormhole-co-founder"
 
-image_url: "/images/Tether-Circle.png"
-featured_image: "/images/Tether-Circle.png"
-image: "/images/Tether-Circle.png"
-thumbnail: "/images/Tether-Circle.png"
+image_url: "/images/Tether-Circle.webp"
+featured_image: "/images/Tether-Circle.webp"
+image: "/images/Tether-Circle.webp"
+thumbnail: "/images/Tether-Circle.webp"
 image_alt: "Tether & Circle – simbolična ilustracija stabilnih kripto valuta"
 image_credit: "Metaadvisor.eu"
 
@@ -36,6 +36,7 @@ tags:
   - konkurencija
 
 summary: "Suosnivač Wormholea Dan Reecer tvrdi da Tether i Circle ‘printaju novac’ zadržavajući prinose s američkih trezorskih zapisa koji podupiru USDT/USDC. Objašnjavamo kako taj model funkcionira, zašto korisnici ne dobivaju prinos i tko ih želi izazvati (M^0, Agora, tokenizirani MMF-ovi)."
+categories: ["crypto"]
 ---
 
 > **Napomena o slici:** simbolična ilustracija.

@@ -9,6 +9,7 @@ summary: "Combined with Firelight, Flare’s restaking layer, the setup lets com
 tags: ["xrp", "crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/D2C7Z4L7D5GHPKZ46JKJYZM4HI.jpg?auto=format&width=1920"
 image: "https://www.coindesk.com/resizer/v2/D2C7Z4L7D5GHPKZ46JKJYZM4HI.jpg?auto=format&width=1920"
+categories: ["news"]
 ---
 
 XRP’s slow push into institutional finance just picked up another backer.

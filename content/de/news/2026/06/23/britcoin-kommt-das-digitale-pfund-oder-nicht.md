@@ -7,14 +7,15 @@ translationKey: "britcoin-digital-pound-coming-or-not-2026-06-23"
 source: "Bank of England, The Guardian, Reuters, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Britcoin-digital-pound-coming-or-not.png"
-featured_image: "/images/news/Britcoin-digital-pound-coming-or-not.png"
-image: "/images/news/Britcoin-digital-pound-coming-or-not.png"
-thumbnail: "/images/news/Britcoin-digital-pound-coming-or-not.png"
+image_url: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
+featured_image: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
+image: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
+thumbnail: "/images/news/Britcoin-digital-pound-coming-or-not.webp"
 image_alt: "Britcoin and the UK digital pound coming or not"
 image_credit: "Metaadvisor.eu"
 tags: ["Britcoin", "digital pound", "digitales Pfund", "CBDC", "Central Bank Digital Currency", "digitale Zentralbankwährung", "Bank of England", "Tether", "USDT", "Stablecoins", "Nigel Farage", "Christopher Harborne", "Keir Starmer", "UK", "Vereinigtes Königreich", "Krypto", "digitales Geld", "private Interessen", "Finanzmacht", "Metaadvisor"]
 summary: "Britcoin, also das digitale Pfund, ist weder Bitcoin noch ein neuer Krypto-Token. Es geht um eine mögliche britische CBDC, also eine digitale Zentralbankwährung, die von der Bank of England geprüft wird. Die Debatte ist längst nicht mehr nur technisch, sondern auch politisch und finanziell."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Symbolbild.</em></p>

@@ -7,14 +7,15 @@ translationKey: "fb9473aee08c6bd1cc69ffbd7a497d35"
 source: "Metaadvisor (Cointelegraph, Criptovaluta.it, CryptoSlate)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Banks-move-into-crypto.png"
-featured_image: "/images/Banks-move-into-crypto.png"
-image: "/images/Banks-move-into-crypto.png"
-thumbnail: "/images/Banks-move-into-crypto.png"
+image_url: "/images/Banks-move-into-crypto.webp"
+featured_image: "/images/Banks-move-into-crypto.webp"
+image: "/images/Banks-move-into-crypto.webp"
+thumbnail: "/images/Banks-move-into-crypto.webp"
 image_alt: "Große europäische Banken steigen zunehmend in den Kryptosektor ein"
 image_credit: "Metaadvisor.eu"
 tags: ["krypto", "bitcoin", "btc", "ethereum", "eth", "xrp", "solana", "banken", "bankwesen", "digitale vermögenswerte", "intesa sanpaolo", "pbz", "europäische banken", "blockchain", "etf", "blackrock", "finanzen", "institutionelle investoren", "wall street"]
 summary: "Intesa Sanpaolo, eine der größten europäischen Bankengruppen, hat ihr Krypto-Exposure auf rund 235 Millionen Dollar erhöht – über Bitcoin-, Ethereum- und XRP-ETF-Produkte."
+categories: ["crypto"]
 ---
 
 <small><em>Das Bild ist symbolisch.</em></small>

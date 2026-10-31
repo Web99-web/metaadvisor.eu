@@ -15,6 +15,7 @@ image_alt: "Polymarket prediction markets vizual"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["polymarket", "prediction tržišta", "kalshi", "tokenizacija", "derivati", "market-maker", "crypto", "web3", "cftc", "event contracts"]
 summary: "Prediction tržišta postaju novi financijski fenomen. Objašnjavamo kako rade, zašto nisu kockanje, zašto je Polymarket bio kažnjen s 1.4 milijuna USD — i zašto se danas smatra jednim od najinovativnijih projekata u kriptu."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

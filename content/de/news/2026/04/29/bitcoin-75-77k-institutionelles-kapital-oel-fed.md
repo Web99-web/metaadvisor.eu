@@ -7,14 +7,15 @@ translationKey: "btc-oil-fed-institutions-april-2026"
 source: "Metaadvisor (Cointelegraph, CoinDesk)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/btc-sideways.png"
-featured_image: "/images/btc-sideways.png"
-image: "/images/btc-sideways.png"
-thumbnail: "/images/btc-sideways.png"
+image_url: "/images/btc-sideways.webp"
+featured_image: "/images/btc-sideways.webp"
+image: "/images/btc-sideways.webp"
+thumbnail: "/images/btc-sideways.webp"
 image_alt: "Bitcoin bewegt sich zwischen 75k und 77k während Ölpreise steigen und Märkte unter Druck stehen"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "institutionelles kapital", "strategy", "michael saylor", "fed", "öl", "hormusstraße", "geopolitik", "blockchain", "markt", "volatilität"]
 summary: "Bitcoin bewegt sich zwischen 75.000 und 77.000 Dollar, während institutionelle Käufe zunehmen, jedoch langsamer als erwartet. Gleichzeitig erhöhen steigende Ölpreise, FED-Entscheidungen und geopolitische Spannungen den Druck auf die Märkte."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

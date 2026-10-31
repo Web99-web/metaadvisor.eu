@@ -34,6 +34,7 @@ tags:
   - vertex
   - ethereum-l2
 summary: "Prominent crypto whale Machi Big Brother reportedly closed his HYPE exposure (Hyperliquid) at an estimated ~$4M loss. Meanwhile, rival derivatives DEXs are gaining share, eroding Hyperliquid’s momentum."
+categories: ["news"]
 ---
 
 **TL;DR:** According to the source report, **Machi Big Brother (Jeffrey Huang)** exited his **HYPE position** after allocating about **$25 million**, realizing an **estimated ~$4 million loss**. The move comes as **competing perps DEXs** (e.g., dYdX, Aevo, Vertex) **gain market share**, pressuring Hyperliquid’s narrative and liquidity.

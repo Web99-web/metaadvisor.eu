@@ -9,6 +9,7 @@ summary: "Mehr als 500 Taco-Bell-Filialen nutzen inzwischen Sprach-AI zum Bestel
 tags: ["ai", "tacobell", "fastfood"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/taco-bell-ai-drive-thru.jpg?w=1200"
 image: "https://techcrunch.com/wp-content/uploads/2025/08/taco-bell-ai-drive-thru.jpg?w=1200"
+categories: ["ai"]
 ---
 
 Taco Bells Chief Digital Officer erklärte, dass das Unternehmen eine “aktive Diskussion” darüber führt, wann der Einsatz von Künstlicher Intelligenz sinnvoll ist – und wann nicht.  

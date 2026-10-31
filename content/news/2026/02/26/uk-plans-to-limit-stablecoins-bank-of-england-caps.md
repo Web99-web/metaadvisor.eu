@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: ""
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/UK-stablecoins-limits.png"
-featured_image: "/images/UK-stablecoins-limits.png"
-image: "/images/UK-stablecoins-limits.png"
-thumbnail: "/images/UK-stablecoins-limits.png"
+image_url: "/images/UK-stablecoins-limits.webp"
+featured_image: "/images/UK-stablecoins-limits.webp"
+image: "/images/UK-stablecoins-limits.webp"
+thumbnail: "/images/UK-stablecoins-limits.webp"
 image_alt: "UK plans to limit stablecoins – British flag and digital pound illustration"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["uk", "united kingdom", "stablecoin", "stablecoins", "regulation", "bank of england", "fca", "crypto", "cryptocurrency", "digital assets", "coinbase", "brian armstrong", "fintech", "payments"]
 summary: "The Bank of England is proposing caps on stablecoin holdings for individuals and businesses, while the FCA tests issuance in a regulatory sandbox. Industry leaders warn the limits could weaken the UK’s global digital competitiveness."
+categories: ["regulation"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

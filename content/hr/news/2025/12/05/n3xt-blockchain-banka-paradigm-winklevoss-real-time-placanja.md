@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/12/04/ex-signature-bank-execs-launch-blockchain-powered-narrow-bank-backed-by-paradigm-winklevoss"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/n3xt.png"
-featured_image: "/images/n3xt.png"
-image: "/images/n3xt.png"
-thumbnail: "/images/n3xt.png"
+image_url: "/images/n3xt.webp"
+featured_image: "/images/n3xt.webp"
+image: "/images/n3xt.webp"
+thumbnail: "/images/n3xt.webp"
 image_alt: "N3XT blockchain banka — ilustracija"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["n3xt","banka","blockchain","spdi","wyoming","plaćanja","instant-placanja","kripto","fintech","inovacija","stabilnost","usd","tokenizacija","programabilna-placanja","real-time","poslovne-bankovne-usluge"]
 summary: "N3XT je nova blockchain banka pod SPDI licencom u Wyomingu. Ne daje kredite, već nudi potpuno rezervirana i programabilna real-time USD plaćanja — nešto što tradicionalne banke u SAD-u još uvijek ne mogu ponuditi."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

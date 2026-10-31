@@ -25,6 +25,7 @@ tags:
   - smart-contracts
   - layer1
 summary: "Ethereum je krajem 2025. dosegnuo rekordnih 2,2 milijuna dnevnih transakcija, dok su prosječne naknade pale na svega 17 centi, potvrđujući snažan tehnološki zaokret mreže."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 10px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

@@ -3,7 +3,7 @@ title: "What happened in crypto today"
 slug: "what-happened-in-crypto-today"
 date: 2025-10-13T14:52:35Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-10-13"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
@@ -16,6 +16,7 @@ image_alt: "Daily crypto news"
 image_credit: "Symbolic image."
 tags: ["crypto", "bitcoin", "ethereum", "ETF", "BlackRock", "IBIT", "covered call", "UK Finance", "tokenization", "deposits", "GBTD", "HSBC", "Barclays", "Lloyds", "NatWest", "Santander", "Hashdex", "XRP", "Solana", "Stellar", "XLM", "SEC", "Nasdaq", "NCIQ", "Europe", "United Kingdom", "USA", "markets", "regulation"]
 summary: "UK Finance launches a pilot for tokenized GBP deposits with six major banks; BlackRock prepares a Bitcoin Premium Income ETF; Hashdex expands its US crypto index ETF to include XRP, Solana and Stellar."
+categories: ["crypto"]
 ---
 
 **Quick take:** Three institutional narratives dominate today: (1) **UK Finance** launches a **tokenized GBP deposits pilot** with six banks, (2) **BlackRock** unveils plans for a **Bitcoin Premium Income ETF** (covered-call strategy), and (3) **Hashdex** expands its **Crypto Index US ETF** to include **XRP, SOL, and XLM** under new SEC listing standards.

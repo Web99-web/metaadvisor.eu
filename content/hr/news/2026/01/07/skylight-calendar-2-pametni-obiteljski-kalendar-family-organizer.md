@@ -7,10 +7,10 @@ translationKey: "5d3a3ab3ec179c17a1c66a094b0c1334"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/07/skylight-debuts-calendar-2-to-keep-your-family-organized/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Family-organizer-Skylight2.png"
-featured_image: "/images/Family-organizer-Skylight2.png"
-image: "/images/Family-organizer-Skylight2.png"
-thumbnail: "/images/Family-organizer-Skylight2.png"
+image_url: "/images/Family-organizer-Skylight2.webp"
+featured_image: "/images/Family-organizer-Skylight2.webp"
+image: "/images/Family-organizer-Skylight2.webp"
+thumbnail: "/images/Family-organizer-Skylight2.webp"
 image_alt: "Skylight Calendar 2 – AI family organizer i digitalni obiteljski kalendar"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -23,6 +23,7 @@ tags:
   - productivity
   - tech
 summary: "Skylight je na CES-u 2026 predstavio Calendar 2, pametni obiteljski kalendar i family organizer koji uz pomoć AI-ja objedinjuje rasporede, obveze i planiranje svakodnevnog života na jednom mjestu."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

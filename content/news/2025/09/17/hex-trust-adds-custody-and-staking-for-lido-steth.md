@@ -15,6 +15,7 @@ image_alt: "Ethereum / stETH – institutional custody and staking"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ethereum","lido","steth","wsteth","hex-trust","custody","staking","institutions","yield","liquid-staking","metaadvisor"]
 summary: "Hex Trust is rolling out Lido’s stETH across custody and staking. Institutions get DeFi-style yield via familiar workflows — segregation, approvals, reporting — without stepping outside compliance."
+categories: ["crypto"]
 ---
 
 As institutional demand for **ETH yield** grows, the bottleneck is less tech and more **operations & compliance**: who holds the assets, who signs transactions, how is it booked and audited? **Hex Trust**, an institutional-grade digital asset custodian, is adding **Lido’s stETH** as both a **custody asset** and a **staking rail**. The pitch: **on-chain yield** in an institutional wrapper.

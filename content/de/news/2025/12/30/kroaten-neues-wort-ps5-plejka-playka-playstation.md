@@ -7,10 +7,10 @@ translationKey: "ps5_plejka_croatia_playstation_slang"
 source: "24sata"
 source_url: "https://www.24sata.hr"
 author: "Metaadvisor.eu"
-image_url: "/images/plejka-ps5.png"
-featured_image: "/images/plejka-ps5.png"
-image: "/images/plejka-ps5.png"
-thumbnail: "/images/plejka-ps5.png"
+image_url: "/images/plejka-ps5.webp"
+featured_image: "/images/plejka-ps5.webp"
+image: "/images/plejka-ps5.webp"
+thumbnail: "/images/plejka-ps5.webp"
 image_alt: "PlayStation 5 Konsole, in Kroatien als PLEJKA bekannt"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -22,6 +22,7 @@ tags:
   - technologie
   - slang
 summary: "In Kroatien ist die PlayStation 5 nicht nur eine Konsole — im Alltag heißt sie PLEJKA. Ein Slangwort, das zeigt, wie tief die PS5 im Leben von Kindern und Erwachsenen verankert ist."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

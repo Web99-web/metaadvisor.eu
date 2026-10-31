@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today"
 author: "Cointelegraph — Übersetzung und redaktionelle Analyse Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/TrustWallet-hacked.png"
-featured_image: "/images/TrustWallet-hacked.png"
-image: "/images/TrustWallet-hacked.png"
-thumbnail: "/images/TrustWallet-hacked.png"
+image_url: "/images/TrustWallet-hacked.webp"
+featured_image: "/images/TrustWallet-hacked.webp"
+image: "/images/TrustWallet-hacked.webp"
+thumbnail: "/images/TrustWallet-hacked.webp"
 image_alt: "Trust Wallet Hack, Cyberangriff mit Hacker-Illustration"
 image_credit: "Metaadvisor.eu"
 tags:
@@ -26,6 +26,7 @@ tags:
   - bitcoin
   - ethereum
 summary: "Am Weihnachtstag, dem 25.12.2025, kam es zu einem Sicherheitsvorfall bei Trust Wallet, bei dem rund 7 Millionen US-Dollar gestohlen wurden. Betroffen war ausschließlich die Chrome-Browser-Erweiterung – die mobile App blieb sicher."
+categories: ["crypto"]
 ---
 Am **Weihnachtstag, dem 25. Dezember 2025**, wurden einige Nutzer von **Trust Wallet** Opfer eines schweren Sicherheitsvorfalls, bei dem Kryptowährungen im Wert von rund **7 Millionen US-Dollar** entwendet wurden. Wichtig ist dabei eine klare Einordnung: **Weder die Blockchain selbst noch das gesamte Trust-Wallet-System wurden gehackt**, sondern ausschließlich eine **Chrome-Browser-Erweiterung**.
 

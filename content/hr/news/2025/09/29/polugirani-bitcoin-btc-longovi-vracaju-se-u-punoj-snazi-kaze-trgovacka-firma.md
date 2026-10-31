@@ -16,6 +16,7 @@ image_alt: "Bitcoin i terminski/perpetual tržišni pokazatelji"
 image_credit: "Simbolična slika: Metaadvisor.eu"
 tags: ["crypto","bitcoin","perpetuals","futures","open-interest","funding-rate","QCP-Capital","Deribit","Hyperliquid","leverage","liquidations","Coinglass","tržišta"]
 summary: "Prema QCP Capitalu, polugirani BTC longovi ponovno dominiraju: open interest u perpetualima raste, a godišnje funding stope skaču do 13% na vodećim burzama. Unatoč prošlotjednim likvidacijama od preko 700 mil. USD, raspoloženje se oporavilo."
+categories: ["crypto"]
 ---
 
 **Kratko:** Trgovci se vraćaju **agresivnim long pozicijama** na Bitcoin **perpetual** ugovorima. **QCP Capital** navodi rast **open interesta** i **funding stopa** diljem centraliziranih i decentraliziranih burzi, što signalizira **bullish** pristranost tržišta.

@@ -12,6 +12,7 @@ image_alt: "Ilustracija AI sustava za pronalazak izgubljenih pasa"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["ai", "privatnost", "kamere", "ring", "umjetna inteligencija", "sigurnost", "tehnologija", "društvo"]
 summary: "Amazonov Ring proširio je AI sustav za pronalazak izgubljenih pasa i na korisnike koji nemaju Ring kamere. No kako sustav zapravo radi, vidi li netko tuđe kamere i gdje je granica između korisne tehnologije i nadzora?"
+categories: ["news"]
 ---
 
 ## Što je Ring i zašto ga mnogi u Europi uopće ne poznaju?

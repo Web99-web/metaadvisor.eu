@@ -15,6 +15,7 @@ image_alt: "Ethereum unter Druck nach großer Short-Position eines Krypto-Wals"
 image_credit: "Metaadvisor.eu"
 tags: ["Ethereum", "ETH", "Krypto-Wal", "Short", "Krypto", "Trading", "Krypto-Markt", "Ethereum Foundation", "DeFi", "Leverage", "Krypto-Analyse", "Metaadvisor"]
 summary: "Ein großer Ethereum-Trader hat eine ETH-Short-Position im Wert von 19,7 Millionen Dollar mit 20-fachem Hebel eröffnet. Der Schritt erfolgt, während Ether technisch unter Druck steht und rund um Ethereum erneut Fragen zur Finanzierung, Governance und Rolle der Ethereum Foundation aufkommen."
+categories: ["crypto"]
 ---
 
 

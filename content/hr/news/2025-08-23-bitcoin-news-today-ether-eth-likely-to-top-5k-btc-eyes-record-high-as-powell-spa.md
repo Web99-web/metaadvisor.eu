@@ -9,6 +9,7 @@ summary: "Powellov blagi ton podržao je kripto-rally, no potencijalni rizici uk
 tags: ["bitcoin","ether","eth","powell","fed","jackson-hole","dat","monarq","rally","markets","crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/7ee9072b189b6e8c3f86977e9ad5862d55dcf287-1280x854.jpg?auto=format"
 image_alt: "BTC i ETH rastu nakon Powellovih blago-tonskih poruka; kripto tržište jača"
+categories: ["crypto"]
 ---
 
 

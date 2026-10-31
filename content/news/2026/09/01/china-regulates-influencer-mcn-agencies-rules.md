@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "china-regulates-influencer-networks-mcn-rules-2026-09-01"
 source: "Cyberspace Administration of China, China Association of Performing Arts, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/China-regulets-infulencer-mcn-rules.png"
-featured_image: "/images/news/China-regulets-infulencer-mcn-rules.png"
-image: "/images/news/China-regulets-infulencer-mcn-rules.png"
-thumbnail: "/images/news/China-regulets-infulencer-mcn-rules.png"
+image_url: "/images/news/China-regulets-infulencer-mcn-rules.webp"
+featured_image: "/images/news/China-regulets-infulencer-mcn-rules.webp"
+image: "/images/news/China-regulets-infulencer-mcn-rules.webp"
+thumbnail: "/images/news/China-regulets-infulencer-mcn-rules.webp"
 image_alt: "China introduces new rules for MCN agencies and business networks behind influencers"
 image_credit: "Metaadvisor.eu"
 tags: ["China", "influencers", "MCN", "MCN agencies", "content creators", "creator economy", "live commerce", "livestream", "e-commerce", "digital marketing", "Douyin", "Xiaohongshu", "Kuaishou", "regulation", "social media", "online content", "technology"]
 description: "China is introducing new rules from September 1 for MCN agencies that manage influencers, content production, marketing and livestream sales."
 summary: "Behind many Chinese influencers is not just one person but an entire company. China is now introducing national rules for an MCN industry worth billions of dollars."
+categories: ["Tech"]
 ---
 
 # China Regulates the Industry Behind Influencers From September 1: What Are MCN Agencies and How Do They Work?

@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/337835/bitcoin-derivatives-traders-further-upsid
 summary: "Trgovci derivatima na Bitcoin ostaju optimistični, iako povijesna sezonalnost rujna i makro rizici donose oprez."
 tags: ["bitcoin", "BTC", "crypto", "derivati", "options", "futures"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
+categories: ["crypto"]
 ---
 
 Trgovci derivatima na Bitcoin očekuju umjereno optimističan rujan unatoč makroekonomskoj nesigurnosti i sezonskim pritiscima, uz smanjenu volatilnost na silaznoj strani.

@@ -24,6 +24,7 @@ tags:
   - ai
   - ethereum
 summary: "Solana verzeichnete Ende Januar einen starken Anstieg der Netzwerkaktivität mit über 5 Millionen täglich aktiven Adressen, angetrieben durch KI-Tools, Memecoin-Expansion und niedrige Transaktionsgebühren."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

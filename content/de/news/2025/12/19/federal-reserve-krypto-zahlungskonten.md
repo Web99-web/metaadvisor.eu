@@ -15,6 +15,7 @@ image_alt: "Federal Reserve Board Building, Washington D.C."
 image_credit: "Public domain"
 tags: ["federal reserve","fed","krypto","crypto","zahlungen","fintech","regulierung","banken","finanzstabilität"]
 summary: "Die US-Notenbank Federal Reserve prüft einen begrenzten Zugang zu ihrer Zahlungsinfrastruktur für Krypto- und Fintech-Unternehmen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

@@ -8,10 +8,10 @@ source: "The Guardian"
 source_url: "https://www.theguardian.com"
 author: "The Guardian"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Kids-protection-from-social-media.png"
-featured_image: "/images/Kids-protection-from-social-media.png"
-image: "/images/Kids-protection-from-social-media.png"
-thumbnail: "/images/Kids-protection-from-social-media.png"
+image_url: "/images/Kids-protection-from-social-media.webp"
+featured_image: "/images/Kids-protection-from-social-media.webp"
+image: "/images/Kids-protection-from-social-media.webp"
+thumbnail: "/images/Kids-protection-from-social-media.webp"
 image_alt: "Schutz von Kindern vor sozialen Netzwerken – symbolische Illustration"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -25,6 +25,7 @@ tags:
   - technologie
   - eltern
 summary: "Mehr als 100.000 Bürgerinnen und Bürger des Vereinigten Königreichs fordern von Abgeordneten ein Verbot sozialer Medien für Kinder unter 16 Jahren, während die Regierung strengere Schutzmaßnahmen prüft."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

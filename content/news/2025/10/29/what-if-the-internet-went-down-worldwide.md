@@ -15,6 +15,7 @@ image_alt: "Global internet outage — symbolic illustration"
 image_credit: "Illustration — Metaadvisor.eu (symbolic image)"
 tags: ["internet","outage","resilience","cloud","Microsoft","Amazon","AWS","Azure","banks","payments","cash","offline","stockpiles","DePIN","cryptocurrencies","global"]
 summary: "What would happen if the internet went down across the entire world? A total blackout is unlikely because the internet isn’t centralized, yet regional outages keep revealing how vulnerable society can be."
+categories: ["policy"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

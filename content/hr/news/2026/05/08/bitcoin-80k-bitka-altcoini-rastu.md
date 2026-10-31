@@ -15,6 +15,7 @@ image_alt: "Bitcoin se bori za razinu od 80.000 dolara dok altcoini rastu"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "kripto", "altcoins", "ethereum", "solana", "dogecoin", "fed", "inflation", "iran", "hormuz", "oil", "short squeeze", "funding rates", "markets", "trading", "bull market"]
 summary: "Bitcoin se ponovno bori za ključnu razinu od 80.000 dolara dok dio altcoina pokazuje znatno veću snagu. Tržište istovremeno pokušava procijeniti utjecaj američkih podataka o zaposlenosti, Fed politike i napetosti oko Hormuškog tjesnaca."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

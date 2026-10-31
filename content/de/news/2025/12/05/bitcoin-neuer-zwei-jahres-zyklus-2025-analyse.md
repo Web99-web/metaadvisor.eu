@@ -15,6 +15,7 @@ image_alt: "Bitcoin Zwei-Jahres-Zyklus Illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin", "btc", "marktzyklen", "halving", "institutionelles kapital", "etf", "kryptomarkt", "volatilität", "analyse", "procap", "jeff park", "liquidität", "marktstruktur"]
 summary: "Immer mehr Analysten glauben, dass Bitcoin seinen traditionellen 4-Jahres-Zyklus hinter sich lässt. Institutionelle Zuflüsse und ETF-Strukturen könnten einen völlig neuen Zwei-Jahres-Rhythmus formen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

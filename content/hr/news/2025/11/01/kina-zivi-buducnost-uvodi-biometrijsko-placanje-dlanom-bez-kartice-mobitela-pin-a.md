@@ -7,14 +7,15 @@ translationKey: "ea41c82d-fb17-4bcd-8c4a-9c7289a3e711"
 source: "Tencent, WeChat Pay pilot program, kineske medijske objave"
 source_url: "https://www.tencent.com/"
 author: "Metaadvisor.eu"
-image_url: "/images/Paying-with-palm.png"
-featured_image: "/images/Paying-with-palm.png"
-image: "/images/Paying-with-palm.png"
-thumbnail: "/images/Paying-with-palm.png"
+image_url: "/images/Paying-with-palm.webp"
+featured_image: "/images/Paying-with-palm.webp"
+image: "/images/Paying-with-palm.webp"
+thumbnail: "/images/Paying-with-palm.webp"
 image_alt: "Kupac plaća skeniranjem dlana na beskontaktnom terminalu"
 image_credit: "Metaadvisor.eu — slika je simbolična."
 tags: ["biometrija","tehnologija","kina","plaćanje","fintech","wechat","ai","budućnost","dlan","bezgotovinsko","bez kartice","bez mobitela"]
 summary: "Kina testira novu metodu plaćanja u kojoj kupac samo približi dlan skeneru — bez kartice, mobitela ili novčanika. Sustav koristi biometriju vena u dlanu i već se uvodi u trgovine, javni prijevoz i automate."
+categories: ["tech"]
 ---
 
 Kina ponovno pomiče granice digitalnog plaćanja. Nakon QR kodova i mobilnih novčanika, stiže nova faza: **biometrijsko plaćanje skeniranjem dlana — bez kartice, telefona ili novčanika.**

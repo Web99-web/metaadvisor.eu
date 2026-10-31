@@ -15,6 +15,7 @@ image_alt: "Bitcoin tržište i volatilnost"
 image_credit: "MetaAdvisor / AI-generated"
 tags: ["bitcoin", "btc", "kripto", "crypto", "tržište", "dionice", "analiza", "institucije", "volatilnost"]
 summary: "Bitcoin izgleda slabije od dionica – ali možda se iza kulisa ne događa slabost, nego borba za dominaciju i tihu institucionalnu akumulaciju."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

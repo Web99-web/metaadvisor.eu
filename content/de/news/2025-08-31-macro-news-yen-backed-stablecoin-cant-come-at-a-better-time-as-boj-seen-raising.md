@@ -9,6 +9,7 @@ summary: "Führende Banker und Ökonomen erwarten im vierten Quartal eine Zinser
 tags: ["Makro","Japan","Stablecoin","JPY","Yen","BOJ","Zinsen","Krypto","Finanzen","Märkte","Zahlungen","Remittances","DeFi"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/923a04872447b38957f0d56822956490d23cedc7-3997x2248.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/923a04872447b38957f0d56822956490d23cedc7-3997x2248.jpg?auto=format&fit=max&w=1200"
+categories: ["macro"]
 ---
 
 Eine der größten Nachrichten aus Fernost in diesem Monat ist die bevorstehende Einführung einer blockchainbasierten Version des japanischen Yen — einer der weltweit wichtigsten Fiat-Währungen.

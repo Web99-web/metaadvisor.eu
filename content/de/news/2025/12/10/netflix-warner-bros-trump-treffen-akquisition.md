@@ -7,14 +7,15 @@ translationKey: "netflix_warner_trump_meeting_10122025"
 source: "MetaAdvisor – Analyse basierend auf Berichten von TechCrunch, Bloomberg und THR"
 source_url: "https://techcrunch.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Netflix-Warner-Bros.png"
-featured_image: "/images/Netflix-Warner-Bros.png"
-image: "/images/Netflix-Warner-Bros.png"
-thumbnail: "/images/Netflix-Warner-Bros.png"
+image_url: "/images/Netflix-Warner-Bros.webp"
+featured_image: "/images/Netflix-Warner-Bros.webp"
+image: "/images/Netflix-Warner-Bros.webp"
+thumbnail: "/images/Netflix-Warner-Bros.webp"
 image_alt: "Netflix und Warner Bros — Übernahmedynamik und geopolitische Einflussfaktoren"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["netflix","warner-bros","trump","akquisition","streaming","hollywood","paramount","regulierung","marktanalyse","technologie"]
 summary: "Ein privates Treffen zwischen Netflix-Co-CEO Ted Sarandos und Donald Trump über eine mögliche Übernahme von Warner Bros offenbart eine tektonische Verschiebung – den Kampf um die globale Streaming-Dominanz und die tiefgreifende Restrukturierung Hollywoods."
+categories: ["tech"]
 ---
 
 <div class="cta">

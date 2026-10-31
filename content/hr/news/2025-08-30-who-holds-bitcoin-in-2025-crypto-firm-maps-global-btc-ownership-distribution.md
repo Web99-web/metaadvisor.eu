@@ -9,6 +9,7 @@ summary: "Pojedinci i dalje posjeduju većinu bitcoina, pokazuje istraživanje R
 tags: ["bitcoin", "crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/bitcoin-holders-2025.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/bitcoin-holders-2025.jpg?auto=format&width=1200"
+categories: ["crypto"]
 ---
 
 Tvrtka za financijske usluge vezane uz bitcoin **River** objavila je 25. kolovoza istraživanje o distribuciji vlasništva nad bitcoinom. Studija grupira opskrbu bitcoina u nekoliko kategorija i prikazuje tržišni udio svake, koristeći se javnim podacima, oznakama skrbničkih adresa i ranijim blockchain istraživanjima.  

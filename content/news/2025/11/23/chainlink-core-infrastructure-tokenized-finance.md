@@ -16,6 +16,7 @@ image_alt: "Chainlink tokenization illustration"
 image_credit: "MetaAdvisor.eu"
 tags: ["chainlink", "tokenization", "grayscale", "infrastructure", "oracles", "ccip", "blockchain", "finance", "defi", "rwa"]
 summary: "Grayscale's latest research calls Chainlink essential infrastructure for the emerging world of tokenized assets. Here’s what that means — and why LINK is gaining importance in TradFi."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

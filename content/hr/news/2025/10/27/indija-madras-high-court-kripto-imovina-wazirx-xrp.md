@@ -14,6 +14,7 @@ image_alt: "Indijska zastava uz XRP logo; referenca na WazirX i sudsku odluku"
 image_credit: "Metaadvisor.eu"
 tags: ["india","law","court","property","wazirx","xrp","ripple","exchange","crypto","security","multisig","lazarus","hack","self-custody"]
 summary: "Madras High Court u Indiji prepoznaje kriptovalute kao ‘imovinu’ u slučaju povezanom s WazirX-om i korisničkih 3.532,30 XRP. Presuda dolazi nakon hakerskog napada na WazirX-ov multisig wallet (povezan s Lazarus grupom) i otvara pitanja zaštite korisničke imovine."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

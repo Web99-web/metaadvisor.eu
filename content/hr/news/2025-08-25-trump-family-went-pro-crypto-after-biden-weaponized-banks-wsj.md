@@ -9,6 +9,7 @@ summary: "Eric Trump kaže da je obitelj postala pro-kripto nakon ‘debankinga�
 tags: ["crypto","trump","eric-trump","banks","wsj","policy","tokenization","stablecoins","american-bitcoin","hut8","world-liberty-financial"]
 image_url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2025-08/01988c26-526f-7665-8fee-1136ab5cd884"
 image_alt: "Eric Trump govori o kriptu — Cointelegraph hero vizual"
+categories: ["crypto"]
 ---
 
 **Eric Trump** izjavio je da je njegova obitelj postala **pro-kripto** nakon što je, kako tvrdi, bila **„debankana”** u razdoblju nakon događaja na Kapitolu početkom 2021. Više banaka je, prema njegovim navodima, **ugasilo stotine računa** povezanih s **Trump Organization**, zbog čega su privremeno morali prijeći na regionalne banke. Kasnije su pronašli novog, neimenovanog partnera. Izjave su prenesene uz pozivanje na razgovor za **Wall Street Journal**. :contentReference[oaicite:0]{index=0}

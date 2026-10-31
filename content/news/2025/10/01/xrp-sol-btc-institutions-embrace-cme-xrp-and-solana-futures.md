@@ -16,6 +16,7 @@ image_alt: "Crypto derivatives with XRP, SOL and BTC emphasis"
 image_credit: "Visual: Metaadvisor.eu (symbolic)"
 tags: ["crypto","derivatives","CME","futures","open interest","institutions","XRP","Solana","BTC","ETH","cash-settled","notional","volatility","Token2049","Singapore","markets"]
 summary: "At Token2049, CME said institutions are quickly adopting the new XRP and Solana futures as total crypto-futures open interest climbs to $30–$35B per day. SOL and XRP are beating expectations on the speed of OI growth."
+categories: ["crypto"]
 ---
 
 **TL;DR:** Institutional demand for crypto derivatives now **extends beyond BTC/ETH**. **CME** reports **record open interest** in its **cash-settled** **XRP** and **Solana (SOL)** futures, with total crypto-futures OI at **$30–$35B** daily.

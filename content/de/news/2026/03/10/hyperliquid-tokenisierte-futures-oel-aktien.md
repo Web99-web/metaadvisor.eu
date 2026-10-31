@@ -14,8 +14,9 @@ image: "/images/Hyperliquid.png"
 thumbnail: "/images/Hyperliquid.png"
 image_alt: "Hyperliquid tokenisierte Futures auf Öl und Aktien"
 image_credit: "Metaadvisor.eu / symbolische Illustration"
-tags: ["krypto", "crypto", "hyperliquid", "defi", "rwa", "tokenisierte vermögenswerte", "futures", "perpetual futures", "öl", "gold", "silber", "s&p500", "handel", "blockchain", "dezentrale börsen", "defi märkte"]
+tags: ["krypto", "crypto", "hyperliquid", "defi", "rwa", "tokenisierte vermögenswerte", "futures", "perpetual futures", "öl", "gold", "silber", "sp500", "handel", "blockchain", "dezentrale börsen", "defi märkte"]
 summary: "Die dezentrale Handelsplattform Hyperliquid erreicht ein Rekordvolumen von 1,2 Milliarden Dollar an offenen Futures-Positionen, während Trader verstärkt auf Öl, Gold und Aktienindizes auf Blockchain-Märkten spekulieren."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

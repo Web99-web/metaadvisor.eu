@@ -7,15 +7,16 @@ translationKey: "meta_youtube_addiction_case_6m_20260330"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (Reuters, NPR, Guardian, Yahoo Finance, Courthouse News)"
 source_url: ""
-image_url: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
-featured_image: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
-image: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
-thumbnail: "/images/companies/meta-youtube-lost-addiction-case-6m.png"
+image_url: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
+featured_image: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
+image: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
+thumbnail: "/images/companies/meta-youtube-lost-addiction-case-6m.webp"
 image_alt: "Meta and YouTube lost lawsuit over addictive design"
 image_credit: "MetaAdvisor.eu"
 tags: ["meta", "youtube", "lawsuit", "addiction", "ai", "social media", "technology"]
 summary: "A single user managed to prove that Meta and YouTube designed platforms that encourage addiction — the court ordered them to pay $6 million. The ruling could open the door to more than 1000 similar lawsuits."
 symbolic_image: true
+categories: ["tech"]
 ---
 
 *The image is symbolic.*

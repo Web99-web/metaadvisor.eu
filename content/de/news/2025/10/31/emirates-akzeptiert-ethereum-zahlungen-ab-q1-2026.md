@@ -7,14 +7,15 @@ translationKey: "c7d1a7a6-0f7c-4db5-9f7f-6e5d8a4b8d34"
 source: "Emirates Media Centre"
 source_url: "https://www.emirates.com/media-centre/emirates-signs-mou-with-cryptocom-for-future-integration-of-cryptocom-pay-as-a-payment-option-for-customers/"
 author: "Metaadvisor.eu"
-image_url: "/images/Emirates-eth.png"
-featured_image: "/images/Emirates-eth.png"
-image: "/images/Emirates-eth.png"
-thumbnail: "/images/Emirates-eth.png"
+image_url: "/images/Emirates-eth.webp"
+featured_image: "/images/Emirates-eth.webp"
+image: "/images/Emirates-eth.webp"
+thumbnail: "/images/Emirates-eth.webp"
 image_alt: "Emirates-Flugzeug und Ethereum-Logo — Ankündigung von Krypto-Zahlungen"
 image_credit: "Metaadvisor.eu — Symbolbild."
 tags: ["krypto","ethereum","ETH","Emirates","Luftfahrt","Zahlungen","Payments","Dubai","Crypto.com","PSP","Layer2","BTC","Bitcoin"]
 summary: "Emirates plant ab dem ersten Quartal 2026 Krypto-Zahlungen zu ermöglichen — mit Fokus auf Ethereum — nach einem MoU mit Crypto.com zur Integration von Crypto.com Pay."
+categories: ["crypto"]
 ---
 
 Emirates, eine der größten Fluggesellschaften der Welt, plant ab **Q1 2026** Zahlungen in Kryptowährungen zu ermöglichen — mit Schwerpunkt auf **Ethereum (ETH)**. Die Ankündigung folgt auf die Unterzeichnung eines **MoU** (engl. *Memorandum of Understanding* — Absichtserklärung) mit **Crypto.com** zur Integration von **Crypto.com Pay** in das Zahlungs- und Buchungssystem.

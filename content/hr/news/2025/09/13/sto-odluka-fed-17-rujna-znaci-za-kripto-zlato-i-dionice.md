@@ -10,6 +10,7 @@ image_url: "/images/gold1.jpg"
 image_alt: "Zlatne poluge – ilustracija"
 tags: ["fed","kamatne stope","makro","kripto","zlato","dionice"]
 summary: "Tržišta očekuju rez od 25 bb 17. rujna. Kratkoročno moguće kolebanje, dugoročno niže stope mogu poduprijeti kripto, zlato i dionice."
+categories: ["crypto"]
 ---
 
 Ulagači odbrojavaju do odluke **FED-a** 17. rujna; tržišta očekuju **smanjenje za četvrt boda (25 bb)**, što bi moglo izazvati kratkoročnu volatilnost, ali potencijalno potaknuti dugoročniji rast rizične imovine.

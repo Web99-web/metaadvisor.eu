@@ -7,10 +7,10 @@ translationKey: "aa51eff259ec75e266457a3447a71af6"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/polymarket-bets-zachxbt-insider-trading"
 author: "MetaAdvisor.eu"
-image_url: "/images/Polymarket-ZachXBT1.png"
-featured_image: "/images/Polymarket-ZachXBT1.png"
-image: "/images/Polymarket-ZachXBT1.png"
-thumbnail: "/images/Polymarket-ZachXBT1.png"
+image_url: "/images/Polymarket-ZachXBT1.webp"
+featured_image: "/images/Polymarket-ZachXBT1.webp"
+image: "/images/Polymarket-ZachXBT1.webp"
+thumbnail: "/images/Polymarket-ZachXBT1.webp"
 image_alt: "Polymarket bets on ZachXBT investigation targets"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Polymarket users have wagered millions on which crypto company ZachXBT will name in a major insider trading investigation, reflecting rising market speculation."
@@ -26,6 +26,7 @@ tags:
   - axiom
   - blockchain
   - regulation
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

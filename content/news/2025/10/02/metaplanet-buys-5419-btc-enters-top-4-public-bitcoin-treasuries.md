@@ -8,10 +8,10 @@ source: "Bitcoin Magazine / official statements"
 source_url: "https://bitcoinmagazine.com"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Metaplanet-buys5419btc.png"
-featured_image: "/images/Metaplanet-buys5419btc.png"
-image: "/images/Metaplanet-buys5419btc.png"
-thumbnail: "/images/Metaplanet-buys5419btc.png"
+image_url: "/images/Metaplanet-buys5419btc.webp"
+featured_image: "/images/Metaplanet-buys5419btc.webp"
+image: "/images/Metaplanet-buys5419btc.webp"
+thumbnail: "/images/Metaplanet-buys5419btc.webp"
 image_alt: "Metaplanet announces purchase of 5,419 BTC"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags:
@@ -25,6 +25,7 @@ tags:
   - top-holders
   - crypto-market
 summary: "Metaplanet announced the purchase of 5,419 BTC (~$632.5M), placing the company among the top four publicly listed bitcoin treasuries."
+categories: ["crypto"]
 ---
 
 **Metaplanet** disclosed the acquisition of **5,419 BTC** worth roughly **$632.5 million**, reaffirming its **bitcoin-first treasury** strategy. The transaction was financed through a mix of **equity and debt**, continuing the firm’s shift from hospitality into a **corporate bitcoin treasury** profile.

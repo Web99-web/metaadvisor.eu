@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/25/bitcoin-tumbles-back-to
 summary: "Većina kripta probila je nedjeljne 'flash crash' minimume kasno tijekom ponedjeljka u SAD-u."
 tags: ["crypto","bitcoin","btc","ethereum","eth","dogecoin","doge","solana","sol","cardano","ada","chainlink","link","market","coinglass","liquidations"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/ac92c74383170bfd38f54d428e221984d59f1c04-6510x4831.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 Nade u brzi oporavak nakon vikend-sloma kripta splasnule su u ponedjeljak: bitcoin **BTC $ 115,244.11** skliznuo je natrag ispod **$110.000**, tek nešto iznad euforične razine od **$109.400** zabilježene uoči inauguracije predsjednika Trumpa 20. siječnja.

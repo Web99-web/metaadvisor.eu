@@ -9,6 +9,7 @@ summary: "Većinu ETH-a kontroliraju staking ugovori, burze i institucionalni fo
 tags: ["crypto","ethereum","rich-list","staking","vitalik"]
 image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/09/ethereum-eth-rich-list.jpg?fit=1200%2C675"
 image_url_small: "https://cdn.decrypt.co/wp-content/uploads/2025/09/ethereum-eth-rich-list.jpg?fit=600%2C338"
+categories: ["crypto"]
 ---
 
 Ethereum je 2025. godine ušao u novu fazu zrelosti – a analiza vlasništva pokazuje snažnu koncentraciju kovanica u nekoliko ključnih kategorija. 

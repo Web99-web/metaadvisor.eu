@@ -7,14 +7,15 @@ translationKey: "kbank-ripple-blockchain-payments"
 source: "Metaadvisor (The Block, Crypto.news, industrijski izvori)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Ripple-Kbank-Kasikornbank.png"
-featured_image: "/images/news/Ripple-Kbank-Kasikornbank.png"
-image: "/images/news/Ripple-Kbank-Kasikornbank.png"
-thumbnail: "/images/news/Ripple-Kbank-Kasikornbank.png"
+image_url: "/images/news/Ripple-Kbank-Kasikornbank.webp"
+featured_image: "/images/news/Ripple-Kbank-Kasikornbank.webp"
+image: "/images/news/Ripple-Kbank-Kasikornbank.webp"
+thumbnail: "/images/news/Ripple-Kbank-Kasikornbank.webp"
 image_alt: "Kasikornbank i Ripple testiranje blockchain plaćanja"
 image_credit: "Metaadvisor.eu"
 tags: ["ripple", "kbank", "kasikornbank", "banke", "crypto", "blockchain", "placanja", "financije", "transferi"]
 summary: "Kasikornbank iz Tajlanda i Ripple provode višefazni pilot projekt za testiranje blockchain međunarodnih transfera i novih modela plaćanja."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -7,14 +7,15 @@ translationKey: "a72d8f4e6b1c49b5a0de3f991c2ab781"
 source: "Metaadvisor (Startup.eu, Tech Funding News, Lumo Labs)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Avendar-EU-security-Palantir.png"
-featured_image: "/images/companies/Avendar-EU-security-Palantir.png"
-image: "/images/companies/Avendar-EU-security-Palantir.png"
-thumbnail: "/images/companies/Avendar-EU-security-Palantir.png"
+image_url: "/images/companies/Avendar-EU-security-Palantir.webp"
+featured_image: "/images/companies/Avendar-EU-security-Palantir.webp"
+image: "/images/companies/Avendar-EU-security-Palantir.webp"
+thumbnail: "/images/companies/Avendar-EU-security-Palantir.webp"
 image_alt: "Avendar AI Sicherheitsstartup und europäischer Palantir"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "kuenstliche intelligenz", "avendar", "palantir", "europa", "cybersicherheit", "fraud detection", "ai security", "european ai", "aml", "cybercrime", "startup", "niederlande", "datenanalyse", "ermittlungen"]
 summary: "Das niederländische Startup Avendar entwickelt AI-Systeme für Fraud Detection, Cybercrime-Ermittlungen und Sicherheitsanalysen und wird bereits von einigen als möglicher europäischer Antwort auf Palantir bezeichnet."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Das Bild ist symbolisch.</em></p>

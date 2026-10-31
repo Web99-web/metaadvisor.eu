@@ -15,6 +15,7 @@ image_alt: "Facebook and fburl.com link"
 image_credit: "Image is symbolic."
 tags: ["Facebook", "security", "links", "phishing", "cybersecurity", "fburl"]
 summary: "Fburl.com is Facebook’s short-domain used for redirects. Here’s how to check where a link really goes."
+categories: ["tech"]
 ---
 
 **What is fburl.com?**

@@ -8,14 +8,15 @@ author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/companies/OpenClow-GitHub-scam-alert.png"
-featured_image: "/images/companies/OpenClow-GitHub-scam-alert.png"
-image: "/images/companies/OpenClow-GitHub-scam-alert.png"
-thumbnail: "/images/companies/OpenClow-GitHub-scam-alert.png"
+image_url: "/images/companies/OpenClow-GitHub-scam-alert.webp"
+featured_image: "/images/companies/OpenClow-GitHub-scam-alert.webp"
+image: "/images/companies/OpenClow-GitHub-scam-alert.webp"
+thumbnail: "/images/companies/OpenClow-GitHub-scam-alert.webp"
 image_alt: "GitHub-Phishing-Betrug, der Krypto-Wallets durch Fake-Airdrops angreift"
 image_credit: "MetaAdvisor.eu"
 tags: ["github", "phishing", "krypto", "wallet", "betrug", "airdrop", "sicherheit", "cybersecurity", "openclaw"]
 summary: "Eine neue Phishing-Kampagne auf GitHub nutzt Fake-Airdrops, um Entwickler dazu zu bringen, ihre Krypto-Wallets zu verbinden, was zum Verlust von Geldern führen kann."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

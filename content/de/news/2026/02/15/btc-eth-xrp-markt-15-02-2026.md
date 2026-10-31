@@ -15,6 +15,7 @@ image_alt: "Bitcoin, Ethereum und XRP während eines richtungssuchenden Handelst
 image_credit: "MetaAdvisor Illustration"
 tags: ["krypto", "bitcoin", "btc", "ethereum", "eth", "xrp", "altcoins", "kryptomarkt", "volatilität", "handel", "digitale vermögenswerte"]
 summary: "Ethereum testete 2.100 USD und fiel zurück unter 2.000, Bitcoin näherte sich 70.000 USD ohne Durchbruch, während XRP relative Stärke zeigte."
+categories: ["crypto"]
 ---
 
 <p style="font-size:12px; opacity:0.6; margin-top:-10px;">

@@ -13,6 +13,7 @@ image_alt: "Simbolična fotografija pametnog telefona"
 image_credit: "Simbolična ilustracija"
 tags: ["ai","smartphones","Nothing","Tiger Global","Series C","fundraising","Carl Pei","Qualcomm Ventures","GV","Highland Europe","EQT","Latitude","I2BF","Tapestry","community-round","AI-first"]
 summary: "Nothing je prikupio 200 mil. $ (na čelu Tiger Global), uz novu valuaciju oko 1,3 mlrd. $ i najavu lansiranja 'AI-first' uređaja."
+categories: ["ai"]
 ---
 
 *Napomena: slika je simbolična.*

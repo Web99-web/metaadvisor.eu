@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/23/aave-leads-top-40-crypt
 summary: "AAVE stieg an einem Tag um 19 % und führte damit die Top 40 Kryptowährungen nach täglichem prozentualem Zuwachs an."
 # keep your current image/image_url as is
 tags: ["aave","defi","crypto","aptos","chainlink","powell","fed"]
+categories: ["news"]
 ---
 
 

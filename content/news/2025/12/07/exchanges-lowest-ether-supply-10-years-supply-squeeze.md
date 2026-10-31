@@ -16,6 +16,7 @@ image_alt: "Ether supply squeeze — record-low ETH balances on exchanges"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ethereum","eth","supply","staking","restaking","layer2","dat","treasury","crypto","analysis","glassnode","bullish"]
 summary: "Ether balances on centralized exchanges have fallen to their lowest level since 2015, as more ETH is locked in staking, Layer-2 networks and long-term custody — creating the tightest supply environment in Ethereum’s history."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

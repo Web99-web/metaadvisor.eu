@@ -15,6 +15,7 @@ image_alt: "Massive short position on Bitcoin via Hyperliquid"
 image_credit: "Metaadvisor.eu (illustrative)"
 tags: ["bitcoin","btc","hyperliquid","derivatives","perps","short","whale","on-chain","funding","liquidation","market-structure","volatility","risk","addresses","order-book","open-interest"]
 summary: "An ‘OG’ whale opened a ~3,600 BTC short (~$400M) on Hyperliquid with liquidation near $139.9k/BTC. Was this sheer luck, informational edge, or tactical risk management? We break down the scenarios."
+categories: ["crypto"]
 ---
 
 ## What happened

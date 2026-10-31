@@ -8,14 +8,15 @@ author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/America-DOJ-Department-of-Justice.png"
-featured_image: "/images/America-DOJ-Department-of-Justice.png"
-image: "/images/America-DOJ-Department-of-Justice.png"
-thumbnail: "/images/America-DOJ-Department-of-Justice.png"
+image_url: "/images/America-DOJ-Department-of-Justice.webp"
+featured_image: "/images/America-DOJ-Department-of-Justice.webp"
+image: "/images/America-DOJ-Department-of-Justice.webp"
+thumbnail: "/images/America-DOJ-Department-of-Justice.webp"
 image_alt: "Department of Justice building USA"
 image_credit: "Illustration"
 tags: ["crypto","cryptocurrency","manipulation","wash trading","doj","usa","regulation","trading","altcoin","bitcoin"]
 summary: "The US Department of Justice has charged 10 individuals linked to crypto firms over artificial trading volume and market manipulation, raising questions about the reliability of market data."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

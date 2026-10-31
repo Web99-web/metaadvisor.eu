@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/22/while-cftc-awaits-new-ch
 summary: "Dok je kandidat Donalda Trumpa za predsjednika, Brian Quintenz, i dalje u postupku potvrde, CFTC pokreće još jedan 'crypto sprint'."
 tags: ["crypto", "token", "financije", "cftc", "pham", "quintenz", "trump", "regulacija"]
 image: "/news/2025-08-22-while-cftc-awaits-new-chairman-acting-chief-pham-gets-rolling-on-crypto.jpg"
+categories: ["crypto"]
 ---
 
 Predsjednička pozicija u **Commodity Futures Trading Commission (CFTC)** — regulatoru koji bi trebao postati glavni američki nadzornik za kripto — i dalje je otvoreno pitanje. Međutim, vršiteljica dužnosti Caroline **Pham** već je krenula s provedbom preporuka iz nedavnog kripto izvješća predsjedničke radne skupine.  

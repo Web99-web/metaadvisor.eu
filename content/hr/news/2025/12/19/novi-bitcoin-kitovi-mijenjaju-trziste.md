@@ -7,14 +7,15 @@ translationKey: "btc_new_whales_market_shift"
 source: "MetaAdvisor analiza — na temelju on-chain podataka i izvještaja Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-new-whales.png"
-featured_image: "/images/BTC-new-whales.png"
-image: "/images/BTC-new-whales.png"
-thumbnail: "/images/BTC-new-whales.png"
+image_url: "/images/BTC-new-whales.webp"
+featured_image: "/images/BTC-new-whales.webp"
+image: "/images/BTC-new-whales.webp"
+thumbnail: "/images/BTC-new-whales.webp"
 image_alt: "Novi Bitcoin whaleovi i promjena tržišne strukture"
 image_credit: "On-chain data / illustrative"
 tags: ["bitcoin","btc","kitovi","whales","kripto","crypto","on-chain","tržište","investicije","analiza"]
 summary: "Gotovo polovica realizirane tržišne vrijednosti Bitcoina sada pripada novim whaleovima, što upućuje na duboku strukturnu promjenu načina na koji kapital ulazi na tržište."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

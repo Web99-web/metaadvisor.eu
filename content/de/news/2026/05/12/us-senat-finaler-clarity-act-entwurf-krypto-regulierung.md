@@ -7,14 +7,15 @@ translationKey: "5f2d91c84abf4b8e9e6c772ab11d5027"
 source: "Metaadvisor (Reuters, CoinDesk, Cointelegraph, Barron’s, Yahoo Finance, CryptoBriefing, The Block, PYMNTS)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Clarity-act.png"
-featured_image: "/images/Clarity-act.png"
-image: "/images/Clarity-act.png"
-thumbnail: "/images/Clarity-act.png"
+image_url: "/images/Clarity-act.webp"
+featured_image: "/images/Clarity-act.webp"
+image: "/images/Clarity-act.webp"
+thumbnail: "/images/Clarity-act.webp"
 image_alt: "US-Senat veröffentlicht finalen CLARITY Act Entwurf"
 image_credit: "Metaadvisor.eu"
 tags: ["clarity act", "crypto", "krypto", "bitcoin", "btc", "sec", "cftc", "regulierung", "crypto regulation", "stablecoin", "wall street", "defi", "tokenisierung", "blockchain", "us senat", "krypto gesetz"]
 summary: "Der US-Senat hat den finalen Entwurf des CLARITY Act veröffentlicht — ein Gesetz, das zu einem der wichtigsten regulatorischen Momente für die Kryptoindustrie in den USA werden könnte."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Das Bild ist symbolisch.</em></p>

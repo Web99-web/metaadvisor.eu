@@ -7,14 +7,15 @@ translationKey: "claude-500m-ai-costs-not-cheap-worker-2026"
 source: "Metaadvisor (Axios, Tom’s Hardware, The Verge, Business Insider)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/AI-costs-500m-on-Claude.png"
-featured_image: "/images/AI-general/AI-costs-500m-on-Claude.png"
-image: "/images/AI-general/AI-costs-500m-on-Claude.png"
-thumbnail: "/images/AI-general/AI-costs-500m-on-Claude.png"
+image_url: "/images/AI-general/AI-costs-500m-on-Claude.jpg"
+featured_image: "/images/AI-general/AI-costs-500m-on-Claude.jpg"
+image: "/images/AI-general/AI-costs-500m-on-Claude.jpg"
+thumbnail: "/images/AI-general/AI-costs-500m-on-Claude.jpg"
 image_alt: "AI costs and Claude usage bill concept"
 image_credit: "Metaadvisor.eu"
 tags: ["KI", "künstliche Intelligenz", "Claude", "Claude Code", "Anthropic", "KI-Kosten", "Token", "Token-Nutzung", "KI-Automatisierung", "Uber", "Microsoft", "Amazon", "Axios", "Tom's Hardware", "The Verge", "Business Insider", "KI-Agenten", "Programmierung", "Enterprise AI", "ROI", "Automatisierungskosten"]
 summary: "Die Geschichte über angeblich 500 Millionen USD, die in einem Monat für Claude ausgegeben wurden, zeigt, dass KI-Automatisierung nicht automatisch billig ist. Wenn Unternehmen keine Limits setzen und den tatsächlichen Nutzen nicht messen, können Token, Lizenzen und KI-Agenten zu neuen versteckten Geschäftskosten werden."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">Das Bild ist symbolisch.</p>

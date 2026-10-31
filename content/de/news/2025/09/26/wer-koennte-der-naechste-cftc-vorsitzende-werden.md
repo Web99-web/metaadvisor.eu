@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/cftc-chair-crypto-nominees-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/chair.png"
-featured_image: "/images/chair.png"
-image: "/images/chair.png"
-thumbnail: "/images/chair.png"
+image_url: "/images/chair.webp"
+featured_image: "/images/chair.webp"
+image: "/images/chair.webp"
+thumbnail: "/images/chair.webp"
 image_alt: "Bürostuhl — symbolische Darstellung einer Führungsposition"
 image_credit: "Metaadvisor.eu (symbolische Grafik)"
 tags:
@@ -22,6 +22,7 @@ tags:
   - leadership
   - policy
 summary: "Nach dem Abgang von Rostin Behnam kursieren Namen potenzieller Nachfolger an der Spitze der CFTC — eines der wichtigsten US-Regulatoren für Derivatemärkte und Teile des Kryptosektors."
+categories: ["ai"]
 ---
 
 Nach Berichten von Cointelegraph hat nach dem Abgang des Vorsitzenden **Rostin Behnam** das Rätselraten in Washington begonnen, **wer die Commodity Futures Trading Commission (CFTC) anführen wird**.

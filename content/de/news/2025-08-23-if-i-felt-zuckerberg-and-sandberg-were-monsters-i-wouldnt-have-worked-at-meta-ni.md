@@ -9,6 +9,7 @@ summary: "Der frühere britische Vizepremier und zuletzt Präsident für Globale
 tags: ["ai","meta","facebook","instagram","whatsapp","nick-clegg","mark-zuckerberg","sheryl-sandberg","elon-musk","donald-trump","jd-vance","keir-starmer","rachel-reeves","freie-meinung","silicon-valley","eu","brexit","politik","bücher"]
 image_url: "https://i.guim.co.uk/img/media/ce3501a60b73c977d07524064abbd3b835e96ed1/0_1117_5352_5334/master/5352.jpg?width=1200&dpr=1&s=none"
 image_alt: "Nick Clegg sitzend, Portrait – Foto: David Vintiner/The Guardian"
+categories: ["ai"]
 ---
 
 **Kernpunkte.** Nick Clegg schildert, warum er zu Meta ging und weshalb er trotz Kritik die Arbeit dort nicht bereut. Er warnt vor überdehnten Regeln gegen „online harms“, verteidigt die Trump-Sperre 2021 als notwendig, kritisiert jedoch den Präzedenzfall, und fordert von **Keir Starmer** und **Rachel Reeves** mehr Mut zu großen Würfen.

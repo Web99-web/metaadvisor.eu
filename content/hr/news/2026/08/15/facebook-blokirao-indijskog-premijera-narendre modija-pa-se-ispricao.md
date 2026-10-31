@@ -6,15 +6,16 @@ category: "Meta"
 translationKey: "facebook-blocked-indias-prime-minister-modi-meta-apologized-2026-08-15"
 source: "Reuters, Meta Oversight Board, Financial Times, CBS News, Appeals Centre Europe, Change.org, Meta"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
-featured_image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
-image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
-thumbnail: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.png"
+image_url: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
+featured_image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
+image: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
+thumbnail: "/images/Meta/Facebook-blocked-indias-prime-minister-Modi-Meta-apologized.webp"
 image_alt: "Facebook blokirao objavu indijskog premijera Narendre Modija nakon čega se Meta ispričala"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Facebook", "Meta", "Narendra Modi", "Indija", "AI moderacija", "Facebook ban", "trajna blokada", "Big Tech", "korisnička podrška", "Oversight Board", "Appeals Centre Europe", "pravo na informacije"]
 description: "Facebook je blokirao objavu indijskog premijera Narendre Modija. Nakon reakcije indijske vlade Meta se ispričala, dok obični korisnici mogu trajno izgubiti račune bez konkretnog objašnjenja i ljudske podrške."
 summary: "Modijeva blokada završila je intervencijom vlade, objašnjenjem i isprikom Mete. Istodobno obični korisnici mogu u sekundi izgubiti račune stare 15 ili 20 godina, Messenger, stranice, grupe i pristup dijelu informacijskog prostora Facebooka."
+categories: ["Meta"]
 ---
 *Slika je simbolična.*
 
@@ -57,7 +58,7 @@ Ovu temu na Metaadvisoru pratimo već mjesecima i što je više istražujemo, to
 O tome smo već pisali u članku <a href="https://metaadvisor.eu/hr/news/pravo-covjeka-na-informacije-facebook-ban-nije-samo-izgubljeni-profil/" target="_blank" rel="noopener"><strong>Pravo čovjeka na informacije: Facebook ban više nije samo izgubljeni profil</strong></a>.
 
 <a href="https://metaadvisor.eu/hr/news/pravo-covjeka-na-informacije-facebook-ban-nije-samo-izgubljeni-profil/" target="_blank" rel="noopener">
-<img src="/images/Meta/Facebook-bans.png" alt="Facebook ban i pravo čovjeka na informacije" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+<img src="/images/Meta/Facebook-bans.webp" alt="Facebook ban i pravo čovjeka na informacije" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
 </a>
 
 Trajno isključenje može se dogoditi doslovno u sekundi. Korisnik koji je samo nekoliko trenutaka ranije razgovarao s prijateljima, upravljao grupama ili stranicama i koristio Messenger odjednom više nije unutra. Ne stigne upozoriti prijatelje, ostaviti drugi način kontakta ili objasniti ljudima koje možda poznaje godinama da ga je Facebook uklonio.
@@ -89,7 +90,7 @@ Koliko je sustav velik, najbolje pokazuje podatak koji zvuči gotovo nevjerojatn
 O toj smo problematici već pisali u članku <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener"><strong>Meta Oversight Board: AI moderacija — dugogodišnji problem tek sad ulazi u fokus</strong></a>.
 
 <a href="https://metaadvisor.eu/hr/news/meta-oversight-board-problem-ai-moderacije/" target="_blank" rel="noopener">
-<img src="/images/Meta/Meta-oversight-board2.png" alt="Meta Oversight Board i problem AI moderacije" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+<img src="/images/Meta/Meta-oversight-board2.webp" alt="Meta Oversight Board i problem AI moderacije" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
 </a>
 
 Drugim riječima, više uopće ne govorimo o nekoliko ljutitih korisnika koji se žale na internetu.
@@ -171,7 +172,7 @@ Sustav ima još jednu gotovo satiričnu dimenziju: Appeals Centre Europe naknade
 O toj smo problematici već detaljno pisali u članku <a href="https://metaadvisor.eu/hr/news/eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika/" target="_blank" rel="noopener"><strong>EU zaštita pada: Appeals Centre Europe nema stvarnu snagu, društvene platforme ignoriraju?</strong></a>.
 
 <a href="https://metaadvisor.eu/hr/news/eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika/" target="_blank" rel="noopener">
-<img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png" alt="Appeals Centre Europe i zaštita korisnika Facebooka u Europskoj uniji" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
+<img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp" alt="Appeals Centre Europe i zaštita korisnika Facebooka u Europskoj uniji" style="display:block; width:65%; max-width:720px; height:auto; margin:24px auto;" loading="lazy">
 </a>
 
 Možda će Narendra Modi i indijska vlada biti uspješniji nego što je dosad bio EU i njegov Appeals Centre Europe. Jer korisniku kojem je trajno ugašen račun ne treba još jedan dokument koji može ostati mrtvo slovo na papiru. Treba mehanizam koji će platformu **obvezati** da objasni odluku, omogući stvarnu ljudsku žalbu i ispravi pogrešku.

@@ -7,10 +7,10 @@ translationKey: "9f0f7a2a2f2b4c3f9a31d6f2a1b7e8c5"
 source: "Cointelegraph (povod/intervju)"
 source_url: "https://cointelegraph.com/news/ai-agents-liquidity-fragmented-stablecoin-paxos-labs"
 author: "Metaadvisor.eu"
-image_url: "/images/ai-agenti-stablecoini.png"
-featured_image: "/images/ai-agenti-stablecoini.png"
-image: "/images/ai-agenti-stablecoini.png"
-thumbnail: "/images/ai-agenti-stablecoini.png"
+image_url: "/images/ai-agenti-stablecoini.webp"
+featured_image: "/images/ai-agenti-stablecoini.webp"
+image: "/images/ai-agenti-stablecoini.webp"
+thumbnail: "/images/ai-agenti-stablecoini.webp"
 image_alt: "AI agent i digitalni novčić — simbolično"
 image_credit: "Metaadvisor.eu (simbolična grafika)"
 tags:
@@ -34,6 +34,7 @@ tags:
   - risk
   - web3
 summary: "AI agenti mogu samostalno plaćati, prebacivati i arbitrirati stablecoine preko više mreža — uz account abstraction (ERC-4337), agent-native naplatu (AP2/x402) i cross-chain railove (CCTP/CCIP). Tako fragmentacija tržišta postaje prednost, a likvidnost brže teče prema najefikasnijim izdavateljima."
+categories: ["ai"]
 ---
 
 **Sažetak**  

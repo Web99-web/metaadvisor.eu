@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/unicoin-sec-distorted-filings-100m-f
 summary: "Unicoin fordert das New Yorker Gericht auf, die 100-Millionen-USD-Betrugsklage der SEC abzuweisen mit dem Vorwurf, der Regulator habe deren Meldungen verdreht."
 tags: ["news","Unicoin","SEC","Betrug","Kryptogesetz"]
 image_url: "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsYWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTI..."
+categories: ["news"]
 ---
 
 Die Krypto-Plattform **Unicoin** hat auf die **100-Millionen-USD-Betrugsklage** der SEC reagiert und in einem Schreiben an das Bundesgericht in **New York** behauptet:

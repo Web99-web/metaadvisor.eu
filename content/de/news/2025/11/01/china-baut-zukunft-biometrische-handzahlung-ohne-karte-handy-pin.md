@@ -7,14 +7,15 @@ translationKey: "ea41c82d-fb17-4bcd-8c4a-9c7289a3e711"
 source: "Tencent, WeChat Pay Pilotprogramm, chinesische Medienberichte"
 source_url: "https://www.tencent.com/"
 author: "Metaadvisor.eu"
-image_url: "/images/Paying-with-palm.png"
-featured_image: "/images/Paying-with-palm.png"
-image: "/images/Paying-with-palm.png"
-thumbnail: "/images/Paying-with-palm.png"
+image_url: "/images/Paying-with-palm.webp"
+featured_image: "/images/Paying-with-palm.webp"
+image: "/images/Paying-with-palm.webp"
+thumbnail: "/images/Paying-with-palm.webp"
 image_alt: "Kunde bezahlt kontaktlos durch Handflächen-Scan"
 image_credit: "Metaadvisor.eu — Symbolbild."
 tags: ["biometrie","china","zahlung","fintech","wechat","ki","kontaktlos","handscan","cashless","ohne karte","ohne handy"]
 summary: "China testet eine neue Zahlungsmethode, bei der der Kunde nur seine Handfläche über einen Scanner hält – ohne Karte, Handy oder Geldbörse. Die Technologie nutzt Venenmuster in der Handfläche und wird bereits in Geschäften und im öffentlichen Verkehr eingesetzt."
+categories: ["tech"]
 ---
 
 China verschiebt erneut die Grenzen des digitalen Bezahlens. Nach QR-Codes und mobilen Wallets folgt die nächste Stufe: **biometrisches Bezahlen per Handscan – ohne Karte, ohne Smartphone, ohne PIN.**

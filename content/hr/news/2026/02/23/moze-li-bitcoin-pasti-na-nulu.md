@@ -7,14 +7,15 @@ translationKey: "btc-can-go-to-zero-2026"
 source: "Market analysis"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-to-zero.png"
-featured_image: "/images/BTC-to-zero.png"
-image: "/images/BTC-to-zero.png"
-thumbnail: "/images/BTC-to-zero.png"
+image_url: "/images/BTC-to-zero.webp"
+featured_image: "/images/BTC-to-zero.webp"
+image: "/images/BTC-to-zero.webp"
+thumbnail: "/images/BTC-to-zero.webp"
 image_alt: "Can Bitcoin go to zero – analiza tržišnog straha"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["bitcoin", "btc", "kripto", "može li bitcoin na nulu", "crypto fear", "google trends", "tržišni ciklusi", "bull run", "volatilnost", "kripto analiza", "investiranje", "blockchain"]
 summary: "‘Može li Bitcoin pasti na nulu?’ trenutno je jedan od najtraženijih pojmova na Googleu. No iza tog pitanja krije se više psihologija tržišta nego realna vjerojatnost potpunog kolapsa."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

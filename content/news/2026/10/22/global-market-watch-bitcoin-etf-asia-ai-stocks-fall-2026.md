@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Global Market Watch", "Bitcoin", "Bitcoin ETF", "Ethereum", "Ethereum ETF", "Cryptocurrency", "Artificial Intelligence", "AI", "Semiconductors", "Nasdaq", "KOSPI", "Nikkei", "Hang Seng", "Brent Oil", "Federal Reserve", "Stock Market", "Financial Markets", "Technology", "Investing"]
 description: "Bitcoin ETFs attracted $524.8 million in inflows, but Asian AI and semiconductor stocks are falling again. Brent oil above $110 adds to market risks."
 summary: "US spot Bitcoin ETFs attracted $524.8 million in net inflows on October 21, 2026, while Ethereum ETFs returned to positive territory. Meanwhile, Asian markets declined sharply on October 22, particularly semiconductor stocks. High oil prices and geopolitical tensions are increasing uncertainty, while a broad recovery in risk assets remains unconfirmed."
+categories: ["finance"]
 ---
 
 *Symbolic image.*

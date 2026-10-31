@@ -8,14 +8,15 @@ author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/news/Pudgy-Penguins-game-launched.png"
-featured_image: "/images/news/Pudgy-Penguins-game-launched.png"
-image: "/images/news/Pudgy-Penguins-game-launched.png"
-thumbnail: "/images/news/Pudgy-Penguins-game-launched.png"
+image_url: "/images/news/Pudgy-Penguins-game-launched.webp"
+featured_image: "/images/news/Pudgy-Penguins-game-launched.webp"
+image: "/images/news/Pudgy-Penguins-game-launched.webp"
+thumbnail: "/images/news/Pudgy-Penguins-game-launched.webp"
 image_alt: "Pudgy Penguins igra i Web3 gaming svijet"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
 tags: ["crypto","web3","pudgy penguins","nft","web3 gaming","blockchain gaming","crypto igre","digital collectibles","gaming industrija"]
 summary: "NFT projekt Pudgy Penguins lansirao je browser igru Pudgy World koja je dizajnirana tako da se igra kao obična igra bez vidljivog kripta. Projekt pokušava privući mainstream publiku i pokazati kako Web3 gaming može izgledati bez komplicirane blockchain infrastrukture."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

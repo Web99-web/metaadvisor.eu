@@ -3,7 +3,7 @@ title: "Opsesija Michaela Saylora Bitcoinom: kako je sve počelo"
 slug: "michael-saylor-opsesija-bitcoinom-kako-je-sve-pocelo"
 date: 2025-09-16T06:26:26Z
 category: "crypto"
-translationKey: "ea5b30b57b7d41c6572a0389df904200"
+translationKey: "ea5b30b57b7d41c6572a0389df904200--2025-09-16"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/michael-saylor-s-bitcoin-obsession-how-it-all-started"
 author: "Cointelegraph"
@@ -16,6 +16,7 @@ image_alt: "Michael Saylor"
 image_credit: "Wikimedia Commons / Gage Skidmore (CC BY-SA 2.0)"
 tags: ["crypto", "bitcoin", "microstrategy", "michael saylor", "corporate-treasury"]
 summary: "Od skeptika do najglasnijeg korporativnog zagovornika Bitcoina: kako je Michael Saylor promijenio bilancu MicroStrategyja i potaknuo institucionalno usvajanje BTC-a."
+categories: ["crypto"]
 ---
 
 **Kratko:** Michael Saylor, suosnivač MicroStrategyja, od javnog skeptika (2013.) postao je najpoznatiji korporativni zagovornik Bitcoina. Prekretnica stiže 2020., u doba niskih prinosa i inflacijskih strahova, kada tvrtka uvodi BTC kao **primarnu rezervnu imovinu** i započinje višegodišnji ciklus akumulacije.

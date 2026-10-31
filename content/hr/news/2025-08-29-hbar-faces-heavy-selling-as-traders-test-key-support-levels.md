@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/29/hbar-faces-heavy-sellin
 summary: "HBAR je pao 5% u 24 sata jer je snažan pritisak prodaje testirao ključnu potporu, čak i dok je novo CFTC savjetovanje otvorilo nove mogućnosti trgovanja za američke kripto korisnike."
 tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/7b1ce9e5f1a17c6f2e07d22158e3c2d23f9c4820-1920x1080.jpg?auto=format"
+categories: ["news"]
 ---
 
 Token Hedera HBAR doživio je snažan pad u posljednja 24 sata, izgubivši 5% vrijednosti s 0,24 USD na 0,23 USD jer su trgovci masovno zatvarali pozicije. Najveći pad dogodio se rano u srijedu, kada je između 06:00 i 09:00 UTC promijenilo vlasnika više od 277 milijuna tokena, probivši potporu na 0,235 USD i privremeno povukavši cijenu prema dnu od oko 0,226 USD. Kupci su se pojavili na tim razinama, stabilizirajući HBAR, iako su pokušaji da se vrati iznad 0,235–0,241 USD naišli na snažan otpor.

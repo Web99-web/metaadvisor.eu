@@ -8,14 +8,15 @@ source: "MetaAdvisor – analytischer Inhalt"
 source_url: ""
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc-credit-fb.png"
-featured_image: "/images/btc-credit-fb.png"
-image: "/images/btc-credit-fb.png"
-thumbnail: "/images/btc-credit-fb.png"
+image_url: "/images/btc-credit-fb.webp"
+featured_image: "/images/btc-credit-fb.webp"
+image: "/images/btc-credit-fb.webp"
+thumbnail: "/images/btc-credit-fb.webp"
 image_alt: "Bitcoin Kredit – Illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "bitcoin kredit", "krypto kredit", "kolleteral", "stablecoins", "defi", "ledn", "crypto loans"]
 summary: "Bitcoin als Sicherheit – so funktionieren Kredite ohne Ihre BTC zu verkaufen. Ein Leitfaden über Risiken, Chancen und Plattformen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

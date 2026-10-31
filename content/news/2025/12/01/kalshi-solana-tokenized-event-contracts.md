@@ -16,6 +16,7 @@ image_alt: "Kalshi and Solana illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["crypto","prediction-markets","tokenization","solana","macro","politics","web3","fintech"]
 summary: "Kalshi has launched tokenized versions of its event contracts on Solana, bridging regulated U.S. markets with high-speed blockchain liquidity."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

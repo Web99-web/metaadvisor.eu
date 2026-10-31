@@ -9,6 +9,7 @@ summary: "Trotz kurzfristigen Drucks durch Gewinnmitnahmen sehen einige Analyste
 tags: ["xrp","ripple","solana","sol","price","bullish","breakout","whales","odl","etf","bitget","ryan-lee","institutions","defi","markets","crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/eab60955ba93e8536f337c1f5fdd3e3c0327575b-5616x3744.jpg?auto=format"
 image_alt: "Bullisches Sentiment für XRP und Solana – Bullen-Illustration"
+categories: ["crypto"]
 ---
 
 XRP und Solana zeigen erneut Stärke; Trader nennen sowohl institutionelle Zuflüsse als auch technische Setups als Katalysatoren für eine frische Rally.

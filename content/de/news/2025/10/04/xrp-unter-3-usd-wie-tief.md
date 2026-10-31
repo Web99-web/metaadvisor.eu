@@ -34,6 +34,7 @@ tags:
   - altcoins
   - maerkte
 summary: "XRP ist unter 3 USD gerutscht. Wir skizzieren markante Unterstützungen/Widerstände, fundamentale Treiber (Rechtsstreit, Netzwerkentwicklung, Escrow) und risikobasierte Szenarien."
+categories: ["news"]
 ---
 
 **Kurzüberblick**  

@@ -16,6 +16,7 @@ image_alt: "Discord ID photos breach"
 image_credit: "Metaadvisor.eu (symbolisches Bild)"
 tags: ["discord","hack","datenleck","id-fotos","cybersecurity","privatsphäre","sicherheit","drittanbieter","identitätsdiebstahl"]
 summary: "Ein externer Dienstleister von Discord wurde gehackt – bis zu 70.000 Ausweisfotos (ID photos) könnten betroffen sein. Passwörter und vollständige Kartendaten waren nicht Teil des Leaks."
+categories: ["news"]
 ---
 
 Bis zu **70.000 Discord-Nutzer** könnten von einem Datenleck betroffen sein, nachdem ein externer Anbieter für **Altersverifikationen** kompromittiert wurde.

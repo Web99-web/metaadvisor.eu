@@ -9,6 +9,7 @@ summary: "Nagodba završava trogodišnju pravnu bitku oko sneaker NFT-ova i tvrd
 tags: ["Nike","StockX","NFT","sneakers","trademark","fake-shoes","court","brands"]
 image_url: "https://cdn.decrypt.co/wp-content/uploads/2025/09/nike-stockx-lawsuit-gID_7.jpg"
 image_url_small: "https://cdn.decrypt.co/wp-content/uploads/2025/09/nike-stockx-lawsuit-gID_7.jpg?auto=format&fit=max&w=1200"
+categories: ["news"]
 ---
 
 Nike i StockX, online marketplace sa sjedištem u Detroitu, zaključili su trogodišnji sudski postupak pred saveznim sudom u New Yorku oko NFT-ova povezanih s tenisicama i navodnog kršenja žiga. Nagodba je postignuta krajem prošlog tjedna, čime je otkazan porotnički proces zakazan za listopad.  

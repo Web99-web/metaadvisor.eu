@@ -7,14 +7,15 @@ translationKey: "8fcbf87790f81c1d27b8653486a1d0f9"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (Cointelegraph, sudski dokumenti)"
 source_url: ""
-image_url: "/images/companies/Swan-btc-scandal.png"
-featured_image: "/images/companies/Swan-btc-scandal.png"
-image: "/images/companies/Swan-btc-scandal.png"
-thumbnail: "/images/companies/Swan-btc-scandal.png"
+image_url: "/images/companies/Swan-btc-scandal.webp"
+featured_image: "/images/companies/Swan-btc-scandal.webp"
+image: "/images/companies/Swan-btc-scandal.webp"
+thumbnail: "/images/companies/Swan-btc-scandal.webp"
 image_alt: "Swan Bitcoin skandal i sukob bivših zaposlenika"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "kripto", "swan bitcoin", "tether", "skandal", "krađa podataka", "mining", "crypto", "poslovanje"]
 summary: "Swan Bitcoin tvrdi da su bivši zaposlenici ukrali povjerljive dokumente i pokrenuli konkurentsku firmu Proton Management, dok se u pozadini pojavljuju Tether i Wall Street."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

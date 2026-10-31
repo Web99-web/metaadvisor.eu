@@ -15,6 +15,7 @@ image_alt: "Mastercard Einstieg in Krypto und Stablecoin-Infrastruktur"
 image_credit: "MetaAdvisor.eu"
 tags: ["mastercard", "krypto", "stablecoin", "bvnk", "fintech", "zahlungen", "blockchain", "banken", "finanzen"]
 summary: "Mastercard übernimmt BVNK für rund 1,8 Milliarden Dollar und signalisiert damit einen klaren Wandel hin zu Stablecoin-basierten Zahlungssystemen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

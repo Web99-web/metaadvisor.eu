@@ -5,10 +5,10 @@ date: 2025-12-29T12:00:00
 category: "crypto"
 translationKey: "xrp_ada_utility_galaxy_29122025"
 source: "MetaAdvisor Analyse — basierend auf CoinDesk-Interview und Marktdaten"
-image_url: "/images/XRP-ADA.png"
-featured_image: "/images/XRP-ADA.png"
-image: "/images/XRP-ADA.png"
-thumbnail: "/images/XRP-ADA.png"
+image_url: "/images/XRP-ADA.webp"
+featured_image: "/images/XRP-ADA.webp"
+image: "/images/XRP-ADA.webp"
+thumbnail: "/images/XRP-ADA.webp"
 image_alt: "XRP und Cardano (ADA) — Test der realen Nutzung im Jahr 2026"
 tags:
   - xrp
@@ -21,6 +21,7 @@ tags:
   - blockchain adoption
   - altcoins 2026
 summary: "Galaxy Digital warnt, dass XRP und Cardano in eine Phase eintreten, in der loyale Communities und Narrative nicht mehr ausreichen. Der Markt verlangt reale Nutzung, Einnahmen und messbare Netzwerkaktivität."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

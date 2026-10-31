@@ -7,14 +7,15 @@ translationKey: "btc-can-go-to-zero-2026"
 source: "Market analysis"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/BTC-to-zero.png"
-featured_image: "/images/BTC-to-zero.png"
-image: "/images/BTC-to-zero.png"
-thumbnail: "/images/BTC-to-zero.png"
+image_url: "/images/BTC-to-zero.webp"
+featured_image: "/images/BTC-to-zero.webp"
+image: "/images/BTC-to-zero.webp"
+thumbnail: "/images/BTC-to-zero.webp"
 image_alt: "Kann Bitcoin auf null fallen – Analyse der Marktpsychologie"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["bitcoin", "btc", "krypto", "kann bitcoin auf null fallen", "google trends", "marktzyklen", "bull run", "volatilität", "krypto analyse", "investieren", "blockchain"]
 summary: "„Kann Bitcoin auf null fallen?“ ist derzeit eine der meistgesuchten Fragen bei Google. Doch hinter dieser Suche steckt mehr Marktpsychologie als eine realistische Wahrscheinlichkeit eines totalen Zusammenbruchs."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

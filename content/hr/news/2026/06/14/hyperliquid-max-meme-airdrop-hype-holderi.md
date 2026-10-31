@@ -7,14 +7,15 @@ translationKey: "hyperliquid-max-meme-airdrop-hype-holders-2026-06-14"
 source: "CoinGecko, Hyperliquid community, X, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/MAX-memecoin-Hyperliquid-airdrop.png"
-featured_image: "/images/news/MAX-memecoin-Hyperliquid-airdrop.png"
-image: "/images/news/MAX-memecoin-Hyperliquid-airdrop.png"
-thumbnail: "/images/news/MAX-memecoin-Hyperliquid-airdrop.png"
+image_url: "/images/news/MAX-memecoin-Hyperliquid-airdrop.webp"
+featured_image: "/images/news/MAX-memecoin-Hyperliquid-airdrop.webp"
+image: "/images/news/MAX-memecoin-Hyperliquid-airdrop.webp"
+thumbnail: "/images/news/MAX-memecoin-Hyperliquid-airdrop.webp"
 image_alt: "MAX meme airdrop on Hyperliquid illustration"
 image_credit: "Metaadvisor.eu"
-tags: ["Hyperliquid", "HYPE", "MAX", "$MAX", "MAX memecoin", "memecoin", "meme coin", "airdrop", "crypto airdrop", "HyperCore", "HyperEVM", "DeFi", "crypto", "kripto", "wallet", "MetaMask", "pump.fun", "Solana", "Pepe", "Ethereum", "Dogecoin", "phishing", "crypto sigurnost", "Metaadvisor"]
+tags: ["Hyperliquid", "HYPE", "MAX", "MAX memecoin", "memecoin", "meme coin", "airdrop", "crypto airdrop", "HyperCore", "HyperEVM", "DeFi", "crypto", "kripto", "wallet", "MetaMask", "pump.fun", "Solana", "Pepe", "Ethereum", "Dogecoin", "phishing", "crypto sigurnost", "Metaadvisor"]
 summary: "Hyperliquid zajednica danas prati novi MAX meme airdrop. Prema objavama iz zajednice, korisnici koji su držali najmanje 0.1 HYPE mogli su dobiti MAX automatski u walletu, ali detalji i sigurnosni rizici i dalje traže oprez."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>

@@ -3,7 +3,7 @@ title: "Šok na crypto tržištu: ulaganja fondova pala s 2,6 mlrd. na 659 mil. 
 slug: "crypto-ulaganja-fondova-pad-26-mlrd-na-659-milijuna"
 date: 2026-05-04T06:00:00+02:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-05-04"
 source: "Metaadvisor (Cointelegraph, CryptoRank, The Block, CoinDesk)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
@@ -15,6 +15,7 @@ image_alt: "Pad ulaganja u crypto startupove i tržište kapitala"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto ulaganja", "pad ulaganja", "startup fondovi", "crypto trziste", "financiranje startupa", "blockchain investicije", "vc ulaganja crypto", "kripto analiza", "financijski trendovi", "crypto kapital"]
 summary: "Ulaganja fondova u crypto startupove pala su s 2,6 milijardi USD u ožujku na samo 659 milijuna USD u travnju, što predstavlja jedan od najvećih padova u posljednje dvije godine i signalizira promjenu u strukturi tržišta."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

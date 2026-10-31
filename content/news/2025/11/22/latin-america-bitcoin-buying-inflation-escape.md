@@ -6,12 +6,13 @@ category: "news"
 translationKey: "21f348b5cbf8ebdaca4d06bfb85dfcab"
 source: "MetaAdvisor.eu"
 source_url: ""
-image_url: "/images/Latin-America-BTC.png"
-featured_image: "/images/Latin-America-BTC.png"
-image: "/images/Latin-America-BTC.png"
-thumbnail: "/images/Latin-America-BTC.png"
+image_url: "/images/Latin-America-BTC.webp"
+featured_image: "/images/Latin-America-BTC.webp"
+image: "/images/Latin-America-BTC.webp"
+thumbnail: "/images/Latin-America-BTC.webp"
 tags: ["crypto", "bitcoin", "inflation", "latin america", "ripio", "microstrategy", "michael saylor", "el salvador", "brazil", "financial literacy"]
 summary: "Why Latin America is buying Bitcoin to escape inflation — and how crypto treasuries like Ripio rival MicroStrategy."
+categories: ["news"]
 ---
 
 Latin America has been living a reality for years that Europe only discusses academically:  

@@ -9,6 +9,7 @@ summary: "Ether sprang über 4.900 $ auf neue Hochs; Charts zeigen bullischen Sc
 tags: ["crypto","ethereum","eth","price-discovery","tradingview","miles-deutsher","crypto-rover","supply","exchange-reserves"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/ab9ea8c9d8346f05438e6f0a8739ddc6e4639afa-1920x1242.jpg?auto=format"
 image_alt: "Ethereum-Logo (Zoltan Tasi/Unsplash)"
+categories: ["crypto"]
 ---
 
 **Ether (ETH)** drang am Sonntag in **Neuland** vor, überschritt auf **Coinbase** um **17:40 UTC** die Marke von **4.900 $** und übertraf damit das frühere Rekordhoch von **4.867 $** vom **8. Nov. 2021**.

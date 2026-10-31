@@ -28,6 +28,7 @@ tags:
   - scaling
 
 summary: "Firedancer tim (Jump Crypto) predložio je SIMD-0370: uklanjanje blokovskog ograničenja compute-unitsa nakon Alpenglow nadogradnje. Cilj je omogućiti veće blokove i veću propusnost — uz raspravu o rizicima centralizacije i propagacije."
+categories: ["crypto"]
 ---
 
 > **Napomena:** Slika je simbolična.

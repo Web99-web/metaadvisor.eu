@@ -24,6 +24,7 @@ tags:
   - self custody
   - blockchain
 summary: "Ein spektakulärer Krypto-Diebstahl über 282 Millionen US-Dollar zeigt, dass selbst Hardware Wallets keinen Schutz bieten, wenn Angreifer den Menschen statt die Technologie manipulieren."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

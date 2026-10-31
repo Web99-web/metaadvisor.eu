@@ -21,6 +21,7 @@ tags:
   - crypto
   - blockchain
 summary: "Krajem 2025. Ethereum je zabilježio rijedak preokret: više ETH-a ulazi u staking nego što izlazi. Taj signal sada ulazi u 2026. kao važan pokazatelj povjerenja u mrežu."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0 16px 0;">

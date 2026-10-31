@@ -7,14 +7,15 @@ translationKey: "c9f7a12e4b8d4e2a9c6f1b3d7a8e5f21"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "Movement of Brent and WTI oil prices on the global market"
 image_credit: "Metaadvisor.eu"
 tags: ["oil", "brent", "wti", "oil market", "geopolitics", "inflation", "energy", "global market", "oil prices", "crisis", "war", "economy"]
 summary: "After a sharp drop in oil prices triggered by ceasefire news, the market rebounded just as quickly. It shows that today prices are driven less by economics and more by geopolitics."
+categories: ["market"]
 ---
 
 Oil fell — but only for as long as the ceasefire lasted.

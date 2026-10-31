@@ -15,6 +15,7 @@ image_alt: "Bitcoin pao ispod 78.000 dolara"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "kripto", "fed", "inflacija", "iran", "nafta", "bear trap", "trading", "likvidacije", "solana", "xrp", "crypto market", "bitcoin price"]
 summary: "Bitcoin je pao ispod 78.000 dolara nakon rasta geopolitičkih napetosti, skoka cijene nafte i velikih likvidacija na crypto tržištu. Dio tradera vjeruje da bi se ipak moglo raditi o bear trap scenariju."
+categories: ["crypto"]
 ---
 
 <small><em>Slika je simbolična.</em></small>

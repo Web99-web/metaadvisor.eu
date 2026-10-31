@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Avalanche", "AVAX", "blockchain", "crypto", "tradicionalne financije", "tokenizacija", "tokenizirana imovina", "stablecoin", "plaćanja", "banke", "Charles Schwab", "Progmat", "KB Kookmin Card", "Ethena", "Securitize", "Dinari", "Helicon", "institucionalni ulagači", "financijska infrastruktura"]
 description: "Avalanche se sve više pozicionira kao infrastruktura za tradicionalne financije. Charles Schwab dodaje AVAX, japanski Progmat koristi Avalanche za tokenizirane vrijednosnice, a banke i fintech kompanije grade stablecoin i payment sustave."
 summary: "Niz novih projekata pokazuje da Avalanche pokušava izaći iz okvira klasičnog crypto tržišta. Brokeri, banke, tokenizirane vrijednosnice, stablecoin plaćanja i institucionalno prilagođen Helicon upgrade sve više povezuju mrežu s tradicionalnim financijama."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

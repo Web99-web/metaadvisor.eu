@@ -7,14 +7,15 @@ translationKey: "btc-oil-fed-institutions-april-2026"
 source: "Metaadvisor (Cointelegraph, CoinDesk)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/btc-sideways.png"
-featured_image: "/images/btc-sideways.png"
-image: "/images/btc-sideways.png"
-thumbnail: "/images/btc-sideways.png"
+image_url: "/images/btc-sideways.webp"
+featured_image: "/images/btc-sideways.webp"
+image: "/images/btc-sideways.webp"
+thumbnail: "/images/btc-sideways.webp"
 image_alt: "Bitcoin stabilan između 75k i 77k uz rast cijena nafte i globalne napetosti"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "kripto", "institucionalni kapital", "strategy", "michael saylor", "fed", "nafta", "hormuz", "geopolitika", "blockchain", "tržište", "volatilnost"]
 summary: "Bitcoin se kreće između 75.000 i 77.000 dolara dok institucionalne kupnje rastu, ali sporije nego što se očekivalo, uz snažan utjecaj nafte, FED-a i geopolitičkih napetosti."
+categories: ["crypto"]
 ---
 *Slika je simbolična.*
 

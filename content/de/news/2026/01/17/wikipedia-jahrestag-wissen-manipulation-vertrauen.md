@@ -23,6 +23,7 @@ tags:
   - manipulation
   - internet
 summary: "Wikipedia prägt unseren Alltag wie kaum eine andere Wissensplattform. Doch aktuelle Fälle zeigen, wie anfällig offene Inhalte für subtile Manipulation sein können – besonders bei Politik und Geschichte."
+categories: ["news"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

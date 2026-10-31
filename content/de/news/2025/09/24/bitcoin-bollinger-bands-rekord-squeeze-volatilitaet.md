@@ -26,6 +26,7 @@ tags:
   - options
   - funding
 summary: "Die Bollinger-Bänder sind so eng wie nie zuvor – ein klassischer „Squeeze“, der oft große Marktbewegungen einleitet. Analysten erwarten eine bevorstehende Volatilitätswelle."
+categories: ["crypto"]
 ---
 
 **Kurz:** Analysten sehen die **engsten Bollinger-Bänder in der Bitcoin-Historie**. Das Muster signalisiert **extreme Volatilitätskompression** und deutet auf eine **baldige Ausweitung** hin. Historisch folgen auf solche Phasen oft **dynamische Breakouts**. Unklar ist weniger, **ob** Bewegung kommt, sondern **in welche Richtung**.

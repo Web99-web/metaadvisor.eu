@@ -7,14 +7,15 @@ translationKey: "me-domain-montenegro-global-success-2026-07-14"
 source: "IANA, .ME Registry, Vlada Crne Gore"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/domena.me-montenegro.png"
-featured_image: "/images/informative/domena.me-montenegro.png"
-image: "/images/informative/domena.me-montenegro.png"
-thumbnail: "/images/informative/domena.me-montenegro.png"
+image_url: "/images/informative/domena.me-montenegro.webp"
+featured_image: "/images/informative/domena.me-montenegro.webp"
+image: "/images/informative/domena.me-montenegro.webp"
+thumbnail: "/images/informative/domena.me-montenegro.webp"
 image_credit: "Metaadvisor.eu"
 tags: [".me", "Crna Gora", "Montenegro", "domene", "DNS", "ccTLD", "Telegram", "WhatsApp", "PayPal", "digitalna ekonomija"]
 description: "Domena .me službena je nacionalna domena Crne Gore, ali koriste je Telegram, WhatsApp, PayPal i brojni svjetski brendovi. Kako su dva slova postala vrijedan globalni digitalni proizvod?"
 summary: "Telegram, WhatsApp i PayPal koriste .me adrese unutar nacionalne domenske zone male europske države Crne Gore. Kako su samo dva slova postala globalni digitalni proizvod i Crnoj Gori donijela milijune eura?"
+categories: ["tech"]
 ---
 
 # Znate li da je `.me` zapravo domena jedne države?
@@ -86,7 +87,7 @@ Crna Gora ne čita Telegramove poruke, ne upravlja njegovim kanalima i ne kontro
      target="_blank"
      rel="noopener"
      style="flex-shrink:0;">
-    <img src="/images/news/Telegram-t.me.png"
+    <img src="/images/news/Telegram-t.me.webp"
          alt="Telegramova domena t.me nestala iz globalnog DNS-a"
          loading="lazy"
          style="width:160px; max-width:35vw; height:auto; border-radius:8px; display:block;">

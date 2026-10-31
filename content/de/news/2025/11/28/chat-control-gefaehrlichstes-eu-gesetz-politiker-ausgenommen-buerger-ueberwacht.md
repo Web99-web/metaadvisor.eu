@@ -7,14 +7,15 @@ translationKey: "a1e9c8f2d3b447dbb90e92f11e87c6c4"
 source: "MetaAdvisor – Analyse"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/EU-chat-control1.png"
-featured_image: "/images/EU-chat-control1.png"
-image: "/images/EU-chat-control1.png"
-thumbnail: "/images/EU-chat-control1.png"
+image_url: "/images/EU-chat-control1.webp"
+featured_image: "/images/EU-chat-control1.webp"
+image: "/images/EU-chat-control1.webp"
+thumbnail: "/images/EU-chat-control1.webp"
 image_alt: "EU Chat Control – Überwachungsanalyse"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["chat control", "eu", "überwachung", "privatsphäre", "sicherheit", "whatsapp", "signal", "telegram", "encryption", "politik", "freiheit", "autoritarismus", "transparenz", "menschenrechte", "mass surveillance", "freedom house", "edri", "rsf"]
 summary: "Die EU steht vor einem historischen Überwachungsgesetz: Bürger werden gescannt, Politiker bleiben ausgenommen. Eine Analyse, wer Chat Control unterstützt, wer dagegen ist und warum das Risiko besonders hoch ist in Staaten des ehemaligen Ostblocks."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

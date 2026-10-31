@@ -7,14 +7,15 @@ translationKey: "a3eb58d7bb08f2b581aa667d23922204"
 source: "Metaadvisor (CoinDesk, Reuters)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/India-digital-rupee.png"
-featured_image: "/images/India-digital-rupee.png"
-image: "/images/India-digital-rupee.png"
-thumbnail: "/images/India-digital-rupee.png"
+image_url: "/images/India-digital-rupee.webp"
+featured_image: "/images/India-digital-rupee.webp"
+image: "/images/India-digital-rupee.webp"
+thumbnail: "/images/India-digital-rupee.webp"
 image_alt: "Indien führt die digitale Rupie über Sozialprogramme ein"
 image_credit: "Metaadvisor.eu"
 tags: ["digitale rupie", "cbdc", "indien", "krypto", "finanzen", "regulierung", "blockchain", "zukunft des geldes"]
 summary: "Indien nutzt Sozialprogramme, um die digitale Rupie zu verbreiten und testet dabei ein Modell programmierbaren Geldes sowie mögliche Kontrolle über Ausgaben."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

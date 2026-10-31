@@ -6,14 +6,15 @@ category: "news"
 translationKey: "altstore-pal-fediverse-ios-marketplace"
 author: "Metaadvisor.eu"
 source: "TechCrunch"
-image_url: "/images/Altstore-PAL-IOS.png"
-featured_image: "/images/Altstore-PAL-IOS.png"
-image: "/images/Altstore-PAL-IOS.png"
-thumbnail: "/images/Altstore-PAL-IOS.png"
+image_url: "/images/Altstore-PAL-IOS.webp"
+featured_image: "/images/Altstore-PAL-IOS.webp"
+image: "/images/Altstore-PAL-IOS.webp"
+thumbnail: "/images/Altstore-PAL-IOS.webp"
 image_alt: "AltStore PAL alternativer iOS App Store und Fediverse Integration"
 tags: ["altstore", "ios", "fediverse", "mastodon", "activitypub", "apple", "dma", "alternativer app store", "dezentralisierung", "technologie"]
 summary: "AltStore PAL, ein alternativer iOS-App-Store, der nach regulatorischen Änderungen in der EU entstanden ist, kündigt eine Integration mit dem Fediverse und dem ActivityPub-Protokoll an und wird damit zum ersten föderierten Marktplatz für mobile Apps."
 symbolic_image: true
+categories: ["news"]
 ---
 
 Bild ist symbolisch.

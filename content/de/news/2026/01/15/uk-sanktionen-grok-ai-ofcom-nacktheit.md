@@ -7,10 +7,10 @@ translationKey: "uk_ofcom_grok_ai_nudity_20260115"
 source: "Reuters / The Guardian / MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/UK-against-Grok-Nudity-ai-photos.png"
-featured_image: "/images/UK-against-Grok-Nudity-ai-photos.png"
-image: "/images/UK-against-Grok-Nudity-ai-photos.png"
-thumbnail: "/images/UK-against-Grok-Nudity-ai-photos.png"
+image_url: "/images/UK-against-Grok-Nudity-ai-photos.webp"
+featured_image: "/images/UK-against-Grok-Nudity-ai-photos.webp"
+image: "/images/UK-against-Grok-Nudity-ai-photos.webp"
+thumbnail: "/images/UK-against-Grok-Nudity-ai-photos.webp"
 image_alt: "Großbritannien droht mit Sanktionen gegen Grok AI wegen KI-generierter Nacktbilder"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Der britische Medienregulator Ofcom führt seine formelle Untersuchung gegen X wegen Grok AI fort – trotz angekündigter Einschränkungen. Gleichzeitig haben Malaysia und Indonesien das Tool blockiert oder verboten, was dem Fall eine globale Dimension verleiht."
@@ -24,6 +24,7 @@ tags:
   - deepfake
   - sicherheit
   - x
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

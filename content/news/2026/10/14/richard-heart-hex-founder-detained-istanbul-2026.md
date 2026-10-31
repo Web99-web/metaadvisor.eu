@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Richard Heart", "HEX", "PulseChain", "PulseX", "Istanbul", "cryptocurrency", "Interpol", "Finland", "crypto regulation", "blockchain"]
 description: "Turkish media report that HEX founder Richard Heart was detained in Istanbul. Cryptocurrencies linked to his projects recorded sharp price declines."
 summary: "Turkish and international media report that Richard Heart, founder of HEX, PulseChain and PulseX, was detained in Istanbul on October 14, 2026. The operation has been linked to an Interpol Red Notice issued at Finland's request. Reports differ regarding the assets seized, while separate public confirmation of his identity and legal status from Turkish or Finnish authorities remains unavailable. Cryptocurrencies associated with his projects recorded significant price declines."
+categories: ["crypto"]
 ---
 
 *Illustrative image.*

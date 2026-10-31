@@ -23,6 +23,7 @@ tags:
   - trading
   - fomo
 summary: "Memecoin $4 (BNB Chain) schoss nach einer Erwähnung auf X in die Höhe – aus $3.000 wurden ~ $2 Mio. in wenigen Stunden. Wo gehandelt wird, warum es pumpte und welche Risiken bestehen."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

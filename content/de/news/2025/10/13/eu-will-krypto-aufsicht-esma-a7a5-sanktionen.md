@@ -15,6 +15,7 @@ image_alt: "EU-Flagge über Blockchain-Symbolen (symbolisch)"
 image_credit: "Symbolisches Bild."
 tags: ["EU", "ESMA", "MiCA", "Regulierung", "Stablecoin", "A7A5", "Crypto-Policy", "Compliance", "DeFi", "Staking"]
 summary: "Brüssel erwägt, die ESMA mit direkter Aufsicht über Krypto-Plattformen in der gesamten EU zu betrauen — gleichzeitig stehen Sanktionen gegen den rubelgestützten Stablecoin A7A5 im Raum."
+categories: ["crypto"]
 ---
 
 **Kurz gefasst:**  

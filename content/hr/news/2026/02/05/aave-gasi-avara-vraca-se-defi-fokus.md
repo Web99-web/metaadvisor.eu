@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/aave-shuts-down-avara-family-wallet-refocus-defi"
 author: "Cointelegraph"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/AAVE-goes-DEFI.png"
-featured_image: "/images/AAVE-goes-DEFI.png"
-image: "/images/AAVE-goes-DEFI.png"
-thumbnail: "/images/AAVE-goes-DEFI.png"
+image_url: "/images/AAVE-goes-DEFI.webp"
+featured_image: "/images/AAVE-goes-DEFI.webp"
+image: "/images/AAVE-goes-DEFI.webp"
+thumbnail: "/images/AAVE-goes-DEFI.webp"
 image_alt: "Aave refocuses on decentralized finance and simplifies its ecosystem"
 image_credit: "MetaAdvisor.eu (symbolična ilustracija)"
 tags: ["aave","defi","kripto","crypto","posudba","lending","avara","web3","decentralizirane-financije","ethereum"]
 summary: "Aave gasi krovni brend Avara i postupno ukida Family wallet, vraćajući se punom fokusu na DeFi proizvode. Cilj je pojednostaviti ekosustav i jasnije komunicirati Aaveovu temeljnu vrijednost: decentralizirano posuđivanje i upravljanje likvidnošću."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

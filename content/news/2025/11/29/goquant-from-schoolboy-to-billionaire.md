@@ -15,6 +15,7 @@ image_alt: "GoQuant – Denis Dariotis story"
 image_credit: "METAADVISOR AI-generated graphic"
 tags: ["goquant","ai","trading","quant","algorithms","crypto","bitcoin","eth","automation","young-entrepreneurs","finance"]
 summary: "Denis Dariotis started trading in the third grade and became a billionaire at 22 thanks to GoQuant. Here’s how he did it — and how everyday people can benefit from the rise of AI trading."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -15,6 +15,7 @@ image_alt: "BitGo IPO — H1’25 prihodi 4,2 mlrd $, 90 mlrd $ imovine na platf
 image_credit: "MetaAdvisor (simbolična grafika)"
 tags: ["crypto", "BitGo", "IPO", "SEC", "NYSE", "S-1", "BTGO", "custody", "AoP", "dvo-klasne dionice"]
 summary: "Kustodijal BitGo podnio je S-1 za listanje na NYSE pod tickerom BTGO. U H1 2025. ostvario je 4,19 mlrd $ prihoda, dok mu je imovina na platformi (AoP) oko 90 mlrd $. Neto dobit je pala na 12,6 mil. $ zbog većih troškova."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

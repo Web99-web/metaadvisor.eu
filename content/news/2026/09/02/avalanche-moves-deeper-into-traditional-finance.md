@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Avalanche", "AVAX", "blockchain", "crypto", "traditional finance", "tokenization", "tokenized assets", "stablecoin", "payments", "banks", "Charles Schwab", "Progmat", "KB Kookmin Card", "Ethena", "Securitize", "Dinari", "Helicon", "institutional investors", "financial infrastructure"]
 description: "Avalanche is increasingly positioning itself as infrastructure for traditional finance. Charles Schwab is adding AVAX, Japan’s Progmat uses Avalanche for tokenized securities, while banks and fintech companies are building stablecoin and payment systems."
 summary: "A series of new projects shows Avalanche pushing beyond the traditional crypto market. Brokers, banks, tokenized securities, stablecoin payments and the institution-focused Helicon upgrade are increasingly connecting the network with traditional finance."
+categories: ["Crypto"]
 ---
 
 *Image is for illustrative purposes only.*

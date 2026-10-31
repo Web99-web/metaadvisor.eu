@@ -5,14 +5,15 @@ date: 2025-09-22T08:10:00Z
 category: "news"
 translationKey: "c2e6f8a7d2d04e1a86b0e4e9d1a112ff"
 author: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "BTC flash drop — simbolična ilustracija"
 image_credit: "Metaadvisor (simbolična slika)"
 tags: ["Bitcoin", "BTC", "flash-drop", "long-squeeze", "likvidacije", "derivati", "funding", "OI", "DXY", "ETF", "spot-vs-perps", "likvidnost", "makro", "konsolidacija"]
 summary: "Jutrošnji pad Bitcoina do ~112k najviše je pogurao derivatni long-squeeze u trenutku jačeg dolara i nedosljednih ETF tokova. Donosimo kratko objašnjenje i što pratiti iduća 72 sata."
+categories: ["news"]
 ---
 
 **Ukratko:**  

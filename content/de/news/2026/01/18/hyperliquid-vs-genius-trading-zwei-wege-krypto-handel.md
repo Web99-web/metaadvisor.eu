@@ -7,14 +7,15 @@ translationKey: "hyperliquid_genius_trading_comparison_20260118"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Hyperliquid-vs-Geinus-trading.png"
-featured_image: "/images/Hyperliquid-vs-Geinus-trading.png"
-image: "/images/Hyperliquid-vs-Geinus-trading.png"
-thumbnail: "/images/Hyperliquid-vs-Geinus-trading.png"
+image_url: "/images/Hyperliquid-vs-Geinus-trading.webp"
+featured_image: "/images/Hyperliquid-vs-Geinus-trading.webp"
+image: "/images/Hyperliquid-vs-Geinus-trading.webp"
+thumbnail: "/images/Hyperliquid-vs-Geinus-trading.webp"
 image_alt: "Vergleich zwischen Hyperliquid und Genius Trading"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags: ["hyperliquid", "genius trading", "krypto boersen", "onchain trading", "perpetual futures", "krypto infrastruktur", "trading plattformen"]
 summary: "Hyperliquid und Genius Trading stehen für zwei unterschiedliche Ansätze im Krypto-Handel: eine funktionierende On-Chain-Börse heute versus eine Infrastruktur für optimierte Handelsausführung."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.8em; color:#777; margin-top:-6px;">

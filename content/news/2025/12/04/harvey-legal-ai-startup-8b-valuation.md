@@ -16,6 +16,7 @@ image_alt: "Harvey Legal AI Illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ai","legal ai","legaltech","llm","law firms","automation","precedents","due diligence","startup","vc","andreessen horowitz","sequoia","digital transformation","legal industry"]
 summary: "Harvey, one of the fastest-growing AI startups in the legal sector, reaches an $8B valuation and is rapidly transforming how legal work is done."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

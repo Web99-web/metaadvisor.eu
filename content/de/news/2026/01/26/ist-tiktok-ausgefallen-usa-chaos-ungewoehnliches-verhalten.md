@@ -15,6 +15,7 @@ image_alt: "TikTok-App – symbolische Illustration"
 image_credit: "MetaAdvisor.eu"
 tags: ["tiktok", "soziale medien", "ausfall", "app-stoerung", "algorithmus", "usa", "technologie", "plattformen"]
 summary: "Tausende Nutzer in den USA meldeten ungewöhnliches Verhalten von TikTok – viele befürchteten einen größeren Ausfall der beliebten Plattform."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

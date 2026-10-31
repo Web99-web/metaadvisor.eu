@@ -24,6 +24,7 @@ tags:
   - gesetzgebung
   - europa
 summary: "Die Europäische Kommission setzt Belgien, Spanien, Portugal und neun weitere Mitgliedstaaten wegen der unzureichenden Umsetzung von Krypto-Steuerregeln und MiCA unter Druck."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

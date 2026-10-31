@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/28/bitcoin-remains-under-p
 summary: "Gold climbed nearly another 1% on Thursday to just below $3,500 per ounce."
 tags: ["bitcoin","crypto","BTC","Ethereum","XRP","Solana","gold"]
 image_url: "https://www.coindesk.com/resizer/vhzM7rE_XCXLtK78u8h8v1wMiDw=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/btc-price-aug28.jpg"
+categories: ["crypto"]
 ---
 
 Crypto markets attempted a rally on Thursday, but steady **selling pressure** across the U.S. afternoon cut gains short.

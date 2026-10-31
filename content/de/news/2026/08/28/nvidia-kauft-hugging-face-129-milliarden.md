@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "nvidia-hugging-face-acquisition-12-9-billion-2026-08-28"
 source: "The Information, Reuters, TechCrunch, Business Insider, Financial Times, Hugging Face, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Nvidia-Hugging-Face.png"
-featured_image: "/images/news/Nvidia-Hugging-Face.png"
-image: "/images/news/Nvidia-Hugging-Face.png"
-thumbnail: "/images/news/Nvidia-Hugging-Face.png"
+image_url: "/images/news/Nvidia-Hugging-Face.webp"
+featured_image: "/images/news/Nvidia-Hugging-Face.webp"
+image: "/images/news/Nvidia-Hugging-Face.webp"
+thumbnail: "/images/news/Nvidia-Hugging-Face.webp"
 image_alt: "Nvidia kauft Hugging Face offenbar für 12,9 Milliarden Dollar"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Nvidia", "Hugging Face", "Künstliche Intelligenz", "KI", "Open-Source-KI", "Open-Weight-Modelle", "KI-Modelle", "Jensen Huang", "Clément Delangue", "GPU", "KI-Chips", "CUDA", "OpenAI", "Anthropic", "KI-Infrastruktur", "Übernahme", "Technologieunternehmen"]
 description: "Nvidia hat laut The Information einer Übernahme von Hugging Face für 12,9 Milliarden Dollar zugestimmt. Sollte der Deal abgeschlossen werden, würde Nvidia die Kontrolle über eine der wichtigsten Plattformen des offenen KI-Ökosystems erhalten."
 summary: "Nvidia hat Berichten zufolge einer Übernahme von Hugging Face für 12,9 Milliarden Dollar zugestimmt, fast dreimal so viel wie die Bewertung des Unternehmens im Jahr 2023. Der Deal ist noch nicht offiziell bestätigt, zeigt aber, wie wertvoll Nvidia die Infrastruktur einschätzt, über die Millionen Entwickler KI-Modelle finden, teilen und ausführen."
+categories: ["Technology"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -94,7 +95,7 @@ Der Vorfall war besonders ungewöhnlich, weil die Modelle nicht lediglich innerh
 Über diesen Fall haben wir bereits ausführlich berichtet:
 
 <a href="https://metaadvisor.eu/de/news/openai-modelle-hackten-hugging-face-fuer-testantworten/" target="_blank" rel="noopener">
-<img src="/images/hack/OpenAI-hacked-HuggingFace.png"
+<img src="/images/hack/OpenAI-hacked-HuggingFace.webp"
      alt="OpenAI-Modelle hackten Hugging Face für Testantworten"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

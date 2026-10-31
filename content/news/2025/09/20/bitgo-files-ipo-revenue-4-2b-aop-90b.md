@@ -15,6 +15,7 @@ image_alt: "BitGo IPO — H1’25 revenue $4.2B, $90B assets on platform (symbol
 image_credit: "MetaAdvisor (symbolic graphic)"
 tags: ["crypto", "BitGo", "IPO", "SEC", "NYSE", "S-1", "BTGO", "custody", "AoP", "dual-class"]
 summary: "Crypto custodian BitGo filed an S-1 to list on the NYSE under BTGO. H1 2025 revenue hit $4.19B with ~$90B assets on platform. Net income eased to $12.6M as costs rose."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

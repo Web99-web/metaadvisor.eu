@@ -16,6 +16,7 @@ image_alt: "Illustration of real estate value tokenization"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["tokenization", "real estate", "equity", "home equity", "crypto", "blockchain", "real world assets", "RWA", "fintech"]
 summary: "Bed Bath & Beyond has announced its entry into real estate tokenization through the acquisition of Tokens.com. This is not about turning homes into cryptocurrencies, but about digitizing home equity — a financial tool common in the U.S. but largely absent across much of Europe."
+categories: ["crypto"]
 ---
 
 

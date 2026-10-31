@@ -26,6 +26,7 @@ tags:
   - technology
   - geopolitics
 summary: "The United States has imposed a 25% tariff on advanced AI chips, including Nvidia’s H200, destined for China, as part of a broader strategy to control critical technologies."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

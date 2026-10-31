@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["ChatGPT", "OpenAI", "ChatGPT ads", "reklame", "AI", "Free plan", "ChatGPT Go", "umjetna inteligencija"]
 description: "OpenAI širi oglase unutar ChatGPT-a. Reklame se prikazuju korisnicima Free i Go planova, dok Plus, Pro, Business, Enterprise i Edu ostaju bez oglasa."
 summary: "OpenAI je proširio testiranje oglasa u ChatGPT-u izvan SAD-a. Oglasi se mogu pojavljivati korisnicima Free i Go planova, dok kompanija tvrdi da neće utjecati na odgovore ChatGPT-a niti oglašivačima omogućiti pristup privatnim razgovorima."
+categories: ["AI"]
 ---
 
 *Slika je simbolična.*

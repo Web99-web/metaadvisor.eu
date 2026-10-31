@@ -21,6 +21,7 @@ tags:
   - crypto
   - blockchain
 summary: "As 2026 begins, Ethereum is showing a rare signal: more ETH is entering staking than exiting it. This trend, which emerged at the end of 2025, points to growing long-term confidence in the network."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0 16px 0;">

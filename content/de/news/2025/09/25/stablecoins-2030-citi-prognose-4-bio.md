@@ -28,6 +28,7 @@ tags:
   - uae
   - adoption
 summary: "Citi hebt seine Basisprognose für Stablecoin-Emissionen bis 2030 auf 1,9 Bio. $ (Bull: 4 Bio. $) an. Bei hoher Umlaufgeschwindigkeit könnten Stablecoins über 100 Bio. $ jährliche Transaktionen unterstützen."
+categories: ["news"]
 ---
 
 **Kurz:** Der **Stablecoin-Markt** wächst schneller als erwartet. Laut **Citi** stieg das ausstehende Volumen 2025 von **200 Mrd. $** auf **280 Mrd. $**. Die Bank hebt ihre Prognosen für 2030 an: **1,9 Bio. $** (Basis) und **4 Bio. $** (Bull-Szenario). Bei vergleichbarer Umlaufgeschwindigkeit wie Fiat könnten Stablecoins jährlich **100–200 Bio. $** an Transaktionen abwickeln.

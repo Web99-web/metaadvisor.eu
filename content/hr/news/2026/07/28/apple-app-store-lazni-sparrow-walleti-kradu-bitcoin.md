@@ -7,15 +7,16 @@ translationKey: "apple-app-store-lazni-sparrow-walleti-kradu-bitcoin-2026-07-28"
 source: "CoinDesk, MacRumors, Protos, Bitcoin Magazine i sudska tužba"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/App-store-scam.png"
-featured_image: "/images/hack/App-store-scam.png"
-image: "/images/hack/App-store-scam.png"
-thumbnail: "/images/hack/App-store-scam.png"
+image_url: "/images/hack/App-store-scam.webp"
+featured_image: "/images/hack/App-store-scam.webp"
+image: "/images/hack/App-store-scam.webp"
+thumbnail: "/images/hack/App-store-scam.webp"
 image_alt: "Upozorenje na lažnu kripto aplikaciju u Apple App Storeu"
 image_credit: "Metaadvisor.eu"
 tags: ["Apple", "App Store", "Sparrow Wallet", "lažni kripto novčanik", "Bitcoin", "seed fraza", "krađa bitcoina", "lažna aplikacija", "kripto prijevara", "Craig Raw", "sigurnost aplikacija", "iPhone", "kibernetička sigurnost"]
 description: "Apple se suočava s tužbom nakon što su lažni Sparrow Walleti u App Storeu navodno doveli do krađe bitcoina vrijednog 1,84 milijuna dolara."
 summary: "Tri korisnika tvrde da su izgubila ukupno 1,84 milijuna dolara nakon što su seed fraze unijeli u lažne Sparrow Wallet aplikacije preuzete iz Appleova App Storea."
+categories: ["cybersecurity"]
 ---
 
 # Apple App Store: lažni Sparrow Walleti kradu bitcoin

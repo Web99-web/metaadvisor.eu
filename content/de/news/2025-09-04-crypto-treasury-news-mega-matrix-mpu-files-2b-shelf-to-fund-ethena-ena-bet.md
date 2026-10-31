@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/04/mega-matrix-files-usd2
 summary: "Das Unternehmen möchte vom schnellen Wachstum des Ethena-Dollars USDe profitieren und folgt damit dem Trend börsennotierter Firmen, Kryptowährungen zu akkumulieren."
 tags: ["crypto", "mega matrix", "mpu", "ethena", "ena", "usde", "bitcoin", "btc", "ethereum", "eth", "defi", "schatzkammer"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["crypto"]
 ---
 
 Das an der NYSE notierte Unternehmen Mega Matrix (MPU) hat am Donnerstag eine Registrierung über 2 Milliarden USD eingereicht, um eine digitale Schatzkammer mit Fokus auf ENA, den Governance-Token des Stablecoin-Protokolls Ethena, aufzubauen.  

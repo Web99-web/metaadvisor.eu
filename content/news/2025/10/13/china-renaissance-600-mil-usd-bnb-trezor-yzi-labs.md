@@ -16,6 +16,7 @@ image_alt: "Stylized office building — $600M BNB treasury announcement"
 image_credit: "Symbolic image."
 tags: ["BNB", "Binance", "BNB Chain", "China Renaissance", "YZi Labs", "Changpeng Zhao", "CZ", "treasury", "public company", "Bloomberg", "CoinDesk20", "CD20", "market", "volatility", "crypto assets", "institutional investors"]
 summary: "China Renaissance aims to raise $600M for a public crypto treasury focused on BNB, with co-investment from CZ’s family office YZi Labs. It would mark one of the largest public BNB bets."
+categories: ["news"]
 ---
 
 **Summary:** Hong Kong-listed **China Renaissance** is seeking to raise **$600M** for a **public crypto treasury** focused on **BNB**, the native token of the BNB Chain used for Binance fee discounts. **YZi Labs**, the family office of Binance co-founder **Changpeng Zhao (CZ)**, plans to participate as a co-investor.

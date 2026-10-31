@@ -3,7 +3,7 @@ title: "Gemini springt beim Nasdaq -Debüt und erreicht 4,4 Milliarden US -Dolla
 slug: "gemini-springt-beim-nasdaq-debuet-und-erreicht-44-milliarden-us-dollar-entschluesselung-96daab"
 date: 2025-09-12T18:10:00Z
 category: "news"
-translationKey: "be217e7fb5358e4e2b8af4f22194a11c"
+translationKey: "be217e7fb5358e4e2b8af4f22194a11c--unpaired-b7d93fa2cbfa"
 source: "Decrypt"
 source_url: "https://decrypt.co/339329/gemini-jumps-nasdaq-debut-hitting-4-4-billion-valuation"
 priority: 97
@@ -11,6 +11,11 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "finance", "stocks"]
 our_take: |
   Unsere Ansicht: Gemini springt auf das Nasdaq -Debüt und debütierte am Freitag mit einer Bewertung von 4,4 Milliarden US -Dollar. Gemini debütierte auf dem Nasdaq, als die Aktien des Crypto Exchange sofort über ihrem anfänglichen Anbietungsbetrieb über ihre anfänglichen P -… -wichtigen Dinge zu beobachten: Liquidität, Makrik (Makro (Rate) und USD).Bleib selektiv;Fügen Sie nur in Namen mit hoher Konvitation hinzu.
+categories: ["news"]
+seo_alias_of: "https://metaadvisor.eu/de/news/gemini-springt-beim-nasdaq-debuet-und-erreicht-44-milliarden-us-dollar-entschluesselung/"
+_build:
+  list: never
+  render: always
 ---
 
 Gemini springt auf das Nasdaq -Debüt und erreicht 4,4 Milliarden US -Dollar bewertet

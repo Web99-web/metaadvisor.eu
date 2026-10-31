@@ -14,6 +14,7 @@ image_alt: "SoftBank verkauft Nvidia-Anteile"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "nvidia", "softbank", "masayoshi son", "investitionen", "markt", "privatanleger"]
 summary: "SoftBank verkauft seinen Nvidia-Anteil im Wert von 5,8 Milliarden USD und lenkt Kapital in künstliche Intelligenz um. Der Markt reagiert schockiert, doch Analysten sehen darin eine Chance für Kleinanleger und eine Umverteilung von Kapital zwischen Hardware und KI-Dienstleistungen."
+categories: ["ai"]
 ---
 
 💥 **Masayoshi Son überrascht den Markt erneut.**  

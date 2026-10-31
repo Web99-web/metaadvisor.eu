@@ -1,0 +1,18 @@
+{{/* Only article source: never the page shell, layout ads, footer or disclaimer. */}}
+{{- $raw := .RawContent -}}
+{{- $raw = replaceRE `(?s)\{\{[<%].*?[%>]\}\}` " " $raw -}}
+{{- $raw = replaceRE `(?s)<!--.*?-->` " " $raw -}}
+{{- $raw = replaceRE `(?is)<(?:script|style|iframe)\b[^>]*>.*?</(?:script|style|iframe)>` " " $raw -}}
+{{- $raw = replaceRE `(?is)<div\b[^>]*class=["'][^"']*(?:support|disclaimer|advert|related)[^"']*["'][^>]*>.*?</div>` " " $raw -}}
+{{- $raw = replaceRE `(?is)<p\b[^>]*>[^<]*<a\b[^>]*(?:sponsored|buymeacoffee|bitget|mexc|/go/)[^>]*>.*?</a>\s*</p>` " " $raw -}}
+{{- $raw = replaceRE `(?is)<a\b[^>]*(?:rel=["'][^"']*sponsored|href=["'][^"']*(?:buymeacoffee|/go/))[^>]*>.*?</a>` " " $raw -}}
+{{- $raw = replaceRE `(?m)^\s*!\[[^\]]*\]\([^\n]*\)\s*$` " " $raw -}}
+{{- $raw = replaceRE `(?im)^\s*(?:⚠️?\s*)?[*_]*(?:disclaimer|notice|hinweis|upozorenje)\s*:[^\n]*$` " " $raw -}}
+{{- $rendered := .RenderString $raw -}}
+{{- $headings := slice -}}
+{{- range findRE `(?is)<h[1-6]\b[^>]*>.*?</h[1-6]>` $rendered -}}
+  {{- $headings = $headings | append (. | plainify | htmlUnescape) -}}
+{{- end -}}
+{{- $text := $rendered | plainify | htmlUnescape -}}
+{{- $text = replaceRE `(?i)(?:image is symbolic|slika je simbolična|das bild ist symbolisch|not financial advice|nije financijski savjet|keine anlageberatung)\.?` " " $text -}}
+{{- return (dict "Content" (trim (replaceRE `\s+` " " $text) " ") "Headings" (delimit $headings " ")) -}}

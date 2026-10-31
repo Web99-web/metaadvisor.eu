@@ -14,6 +14,7 @@ image_alt: "Zero-knowledge ZK tehnologija objašnjena jednostavno"
 image_credit: "MetaAdvisor.eu"
 tags: ["zk", "zero knowledge", "privatnost", "kriptovalute", "eth", "ethereum", "ai", "mastercard", "identitet", "blockchain", "security", "privacy"]
 summary: "Zero-knowledge (ZK) omogućuje dokazivanje istine bez otkrivanja podataka. Evo kako radi, zašto je ogroman trend i tko ga već koristi."
+categories: ["crypto"]
 ---
 
 Zero-knowledge tehnologija (ZK) sve se brže pretvara u jedan od glavnih tehnoloških trendova modernog interneta. Analitičari sve češće procjenjuju da će ZK u periodu 2025.–2030. imati jednak ili veći utjecaj nego DeFi i AI — jer rješava najveći problem današnjeg digitalnog svijeta: gubitak privatnosti i kontrolu nad osobnim podacima.

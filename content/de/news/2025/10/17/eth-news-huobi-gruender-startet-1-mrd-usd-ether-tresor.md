@@ -16,6 +16,7 @@ image_alt: "Ether (ETH) vor Tresor-Motiv – Symbolbild für institutionelle Kä
 image_credit: "Symbolbild"
 tags: ["krypto","crypto","ethereum","eth","huobi","li-lin","avenir-capital","fenbushi","hashkey","meitu","trust","tresor","institutionell","hong-kong","nasdaq","etf","asien","onchain","treasury","staking"]
 summary: "Li Lin (Huobi / Avenir Capital) bündelt führende asiatische Investoren in einem 1-Mrd.-USD-Ether-Tresor. Ziel ist die systematische Akkumulation und langfristige Haltung von ETH; eine Nasdaq-Struktur wird geprüft."
+categories: ["crypto"]
 ---
 
 {{< cta href="/go/mexc" text="👉 Traden auf MEXC" >}}

@@ -16,6 +16,7 @@ image_alt: "DeFi system and self-collateralized token structure"
 image_credit: "Metaadvisor illustration"
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "defi", "wlfi", "trump", "stablecoin", "liquidity", "risk", "dolomite", "lending", "token", "regulation"]
 summary: "A Trump-linked crypto project is using its own token as collateral to borrow tens of millions, raising concerns about liquidity, structure, and potential closed-loop behavior inside DeFi systems."
+categories: ["crypto"]
 ---
 
 _The image is symbolic._

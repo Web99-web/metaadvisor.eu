@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/06/spot-ether-etfs-shed-us
 summary: "Unatoč odlivima, ether je u posljednjem mjesecu porastao više od 16%, dijelom potaknut usvajanjem GENIUS zakona."
 tags: ["crypto", "ethereum", "eth", "etf", "spot-etf", "makro", "recesija", "fed", "cme", "polymarket", "zlato"]
 image_url: "/images/eth-down-manja.jpg"
+categories: ["kripto"]
 ---
 
 Spot ETF-ovi na ether zabilježili su peti uzastopni dan odljeva ovaj tjedan, s ukupno 952 milijuna USD, od čega više od 787 milijuna USD u skraćenom, četverodnevnom tjednu.

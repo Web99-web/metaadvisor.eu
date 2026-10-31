@@ -24,6 +24,7 @@ tags:
   - volatility
   - weekend-trading
 summary: "A partial shutdown of the U.S. government over the weekend added to market uncertainty and may have contributed to the sell-off in risk assets, including cryptocurrencies."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

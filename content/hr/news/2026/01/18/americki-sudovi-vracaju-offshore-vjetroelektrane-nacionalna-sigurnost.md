@@ -7,14 +7,15 @@ translationKey: "d50803f5d32a079202b1344472db7acc"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/"
 author: "Metaadvisor.eu"
-image_url: "/images/Wind-turbine-offshore.png"
-featured_image: "/images/Wind-turbine-offshore.png"
-image: "/images/Wind-turbine-offshore.png"
-thumbnail: "/images/Wind-turbine-offshore.png"
+image_url: "/images/Wind-turbine-offshore.webp"
+featured_image: "/images/Wind-turbine-offshore.webp"
+image: "/images/Wind-turbine-offshore.webp"
+thumbnail: "/images/Wind-turbine-offshore.webp"
 image_alt: "Offshore vjetroelektrane uz obalu SAD-a"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags: ["vjetroelektrane", "offshore wind", "obnovljiva energija", "SAD", "energetska politika", "nacionalna sigurnost", "elektroenergetska mreza", "klimatska politika"]
 summary: "Američki sudovi dopustili su nastavak izgradnje više offshore vjetroelektrana nakon što su ocijenili da argumenti nacionalne sigurnosti nisu bili dovoljno utemeljeni."
+categories: ["news"]
 ---
 
 <p style="font-size:0.8em; color:#777; margin-top:-6px;">

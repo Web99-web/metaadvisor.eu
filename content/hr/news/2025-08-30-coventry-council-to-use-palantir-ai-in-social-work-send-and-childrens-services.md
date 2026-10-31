@@ -9,6 +9,7 @@ summary: "Ekskluzivno: Radnici tvrde da ugovor vrijedan 500 tisuća funti s amer
 tags: ["ai","Palantir","javna uprava","UK"]
 image_url: "https://i.guim.co.uk/img/media/f29f72d8a3797a0db6ecce62f1588ad4c08046c0/0_0_3500_2100/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=2d6e6b6d5e8c"
 image_url_small: "https://i.guim.co.uk/img/media/f29f72d8a3797a0db6ecce62f1588ad4c08046c0/0_0_3500_2100/master/3500.jpg?width=600&quality=80&auto=format&fit=max&s=2d6e6b6d5e8c"
+categories: ["ai"]
 ---
 
 Radnici u javnom sektoru izrazili su „duboku zabrinutost“ nakon što je gradsko vijeće Coventryja potpisalo **godišnji ugovor vrijedan 500.000 funti** s američkom tvrtkom **Palantir** za primjenu umjetne inteligencije:contentReference[oaicite:0]{index=0}. Riječ je o prvom takvom sporazumu između lokalne vlasti u Ujedinjenom Kraljevstvu i ovog denverskog podatkovnog diva koji opskrbljuje tehnologijom Izraelske obrambene snage (IDF) i pomogao je deportacijske programe Donalda Trumpa:contentReference[oaicite:1]{index=1}.

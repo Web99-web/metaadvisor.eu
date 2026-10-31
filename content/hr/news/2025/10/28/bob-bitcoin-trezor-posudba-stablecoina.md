@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: ""
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/bob-bitcoin-vault-stablecoin.png"
-featured_image: "/images/bob-bitcoin-vault-stablecoin.png"
-image: "/images/bob-bitcoin-vault-stablecoin.png"
-thumbnail: "/images/bob-bitcoin-vault-stablecoin.png"
+image_url: "/images/bob-bitcoin-vault-stablecoin.webp"
+featured_image: "/images/bob-bitcoin-vault-stablecoin.webp"
+image: "/images/bob-bitcoin-vault-stablecoin.webp"
+thumbnail: "/images/bob-bitcoin-vault-stablecoin.webp"
 image_alt: "BOB Bitcoin Vault — posudba stablecoina uz zadržavanje kontrole nad BTC-om"
 image_credit: "Ilustracija — Metaadvisor.eu (simbolična slika)"
 tags: ["BOB","Build on Bitcoin","Bitcoin","BTC","stablecoin","DeFi","vault","rollup","layer-2","self-custody","crypto lending","kolateral","likvidacija","TVL"]
 summary: "BOB (Build on Bitcoin) donosi posudbu stablecoina uz kolateralizirani BTC bez predaje ključeva — kao rollup rješenje koje DeFi funkcionalnosti veže na Bitcoin sigurnost."
+categories: ["defi"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

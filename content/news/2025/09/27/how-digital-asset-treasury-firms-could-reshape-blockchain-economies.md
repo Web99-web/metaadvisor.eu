@@ -7,10 +7,10 @@ translationKey: "1500cd1568a49eb470e1962d117dbc1d"
 author: "CoinDesk"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/27/crypto-treasury-firms-could-become-long-term-giants-like-berkshire-hathaway-analyst-says"
-image_url: "/images/Digital Assets.png"
-featured_image: "/images/Digital Assets.png"
-image: "/images/Digital Assets.png"
-thumbnail: "/images/Digital Assets.png"
+image_url: "/images/Digital Assets.webp"
+featured_image: "/images/Digital Assets.webp"
+image: "/images/Digital Assets.webp"
+thumbnail: "/images/Digital Assets.webp"
 image_alt: "Digital Asset Treasury illustration"
 image_credit: "Metaadvisor.eu"
 
@@ -26,6 +26,7 @@ tags:
   - MicroStrategy
 
 summary: "Digital Asset Treasury (DAT) firms already hold over $100 billion in crypto. Analysts argue they could become long-term giants shaping blockchain economies – the Berkshire Hathaways of crypto."
+categories: ["ai"]
 ---
 
 ## DATs as new giants

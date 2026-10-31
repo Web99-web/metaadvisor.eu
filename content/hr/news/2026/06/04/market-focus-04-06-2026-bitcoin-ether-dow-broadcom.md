@@ -15,6 +15,7 @@ image_alt: "Market focus 04.06.2026 Bitcoin Ether Dow Nasdaq Broadcom"
 image_credit: "MetaAdvisor.eu"
 tags: ["Market focus", "Bitcoin", "BTC", "Ethereum", "ETH", "Dow Jones", "Nasdaq", "S&P 500", "Broadcom", "AI dionice", "Wall Street", "kriptovalute", "tržišta", "gold", "oil", "capital rotation", "Metaadvisor"]
 summary: "Današnji market bio je obilježen pritiskom na Bitcoin i Ether, snažnim padom Broadcoma i mješovitom slikom na Wall Streetu. Dow je bio jak i približio se rekordnim razinama, dok je Nasdaq bio pod pritiskom zbog slabosti u AI i chip sektoru."
+categories: ["tržišta"]
 ---
 
 <small><em>Slika je simbolična.</em></small>

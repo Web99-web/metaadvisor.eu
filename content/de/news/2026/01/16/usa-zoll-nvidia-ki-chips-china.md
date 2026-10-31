@@ -26,6 +26,7 @@ tags:
   - technologie
   - geopolitik
 summary: "Die USA haben einen Zoll von 25% auf fortschrittliche KI-Chips, darunter Nvidias H200, eingeführt, die für den Export nach China bestimmt sind. Die Maßnahme ist Teil einer breiteren Strategie zur Kontrolle kritischer Technologien."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bnb-chain-x-account-hacked-inferno-links?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/X-twitter.png"
-featured_image: "/images/X-twitter.png"
-image: "/images/X-twitter.png"
-thumbnail: "/images/X-twitter.png"
+image_url: "/images/X-twitter.webp"
+featured_image: "/images/X-twitter.webp"
+image: "/images/X-twitter.webp"
+thumbnail: "/images/X-twitter.webp"
 image_alt: "X (formerly Twitter) logo on gray background"
 image_credit: "X Corp (symbolic image)"
 tags:
@@ -26,6 +26,7 @@ tags:
   - blockchain
   - cyber-attacks
 summary: "BNB Chain’s official X account was compromised and used to spread phishing links. Former Binance CEO Changpeng Zhao (CZ) warned users not to click any links from the hijacked profile."
+categories: ["ai"]
 ---
 
 **BNB Chain** confirmed its official **X account** was compromised, with attackers posting **phishing links** to lure users to fraudulent crypto pages.

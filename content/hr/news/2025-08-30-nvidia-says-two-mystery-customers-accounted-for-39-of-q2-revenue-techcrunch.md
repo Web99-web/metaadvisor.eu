@@ -9,6 +9,7 @@ summary: "Gotovo 40% Nvidijinog prihoda u drugom kvartalu dolazilo je od samo dv
 tags: ["nvidia", "ai", "business"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/nvidia-chip-data-center.jpg?w=1200"
 image: "https://techcrunch.com/wp-content/uploads/2025/08/nvidia-chip-data-center.jpg?w=1200"
+categories: ["news"]
 ---
 
 Prema prijavi američkoj Komisiji za vrijednosne papire (SEC), gotovo 40% Nvidijinog prihoda u drugom kvartalu potječe od samo dva klijenta.  

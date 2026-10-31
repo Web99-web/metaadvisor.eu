@@ -7,14 +7,15 @@ translationKey: "fortinet-fortibleed-vpn-lozinke-firewalli-rizik-194-zemlje-2026
 source: "Reuters, BleepingComputer, SOCRadar, Arctic Wolf, CISA, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Fortinet-Fortibleed.png"
-featured_image: "/images/hack/Fortinet-Fortibleed.png"
-image: "/images/hack/Fortinet-Fortibleed.png"
-thumbnail: "/images/hack/Fortinet-Fortibleed.png"
+image_url: "/images/hack/Fortinet-Fortibleed.webp"
+featured_image: "/images/hack/Fortinet-Fortibleed.webp"
+image: "/images/hack/Fortinet-Fortibleed.webp"
+thumbnail: "/images/hack/Fortinet-Fortibleed.webp"
 image_alt: "Fortinet oder FortiBleed als Symbol für Cybersecurity-Risiken rund um VPN-Passwörter, Firewalls und Netzwerkinfrastruktur"
 image_credit: "Metaadvisor.eu"
 tags: ["Fortinet", "FortiBleed", "FortiGate", "VPN", "Firewall", "Passwörter", "Cybersecurity", "Hacking", "Credential Harvesting", "Brute Force", "Netzwerkinfrastruktur", "Heartbleed", "CISA", "SOCRadar", "BleepingComputer", "Reuters", "Metaadvisor"]
 summary: "FortiBleed ist nicht der offizielle Name einer neuen Fortinet-Schwachstelle, sondern ein Spitzname für einen großen Leak und eine Kampagne rund um Fortinet/FortiGate-VPN-Zugangsdaten, Firewalls und ein Risiko, das sich laut Sicherheitsberichten über 194 Länder erstreckt."
+categories: ["cybersecurity"]
 ---
 
 Bild ist symbolisch.

@@ -7,14 +7,15 @@ translationKey: "china-ai-layoffs-worker-rights-court-2026"
 source: "Metaadvisor (The Guardian, SCIO, Caixin, WSJ)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-replaces-people.png"
-featured_image: "/images/AI-replaces-people.png"
-image: "/images/AI-replaces-people.png"
-thumbnail: "/images/AI-replaces-people.png"
+image_url: "/images/AI-replaces-people.webp"
+featured_image: "/images/AI-replaces-people.webp"
+image: "/images/AI-replaces-people.webp"
+thumbnail: "/images/AI-replaces-people.webp"
 image_alt: "AI chip and worker rights concept showing artificial intelligence replacing human jobs"
 image_credit: "Metaadvisor.eu"
 tags: ["umjetna inteligencija", "AI", "Kina", "radnici", "otkazi", "automatizacija", "radno pravo", "tehnologija", "budućnost rada", "AI regulacija", "poslovi", "zapošljavanje", "digitalna transformacija", "Big Tech", "socijalna stabilnost"]
 summary: "Kineski sud presudio je da kompanije ne mogu automatski opravdati otkaz radniku samo zato što umjetna inteligencija može preuzeti dio njegova posla. Slučaj otvara šire pitanje: tko snosi cijenu AI automatizacije — radnik, poslodavac ili država?"
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">Slika je simbolična.</p>

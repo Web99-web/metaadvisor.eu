@@ -15,6 +15,7 @@ image_alt: "Symbolic illustration of Azure and Amazon Cloud outage"
 image_credit: "Illustration — Metaadvisor.eu"
 tags: ["Microsoft","Azure","Amazon","AWS","Google Cloud","Cloudflare","Cloud","outage","internet","resilience","offline","business continuity","banks","payments"]
 summary: "When Microsoft Azure, Amazon AWS, Google Cloud and Cloudflare suffer simultaneous outages, millions of users worldwide feel the impact. Here’s what happened today, why dependency is so high, and what lessons to learn."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

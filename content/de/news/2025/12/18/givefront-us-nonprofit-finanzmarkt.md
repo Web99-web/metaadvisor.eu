@@ -8,14 +8,15 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com"
 author: "TechCrunch — Analyse MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Givefront-nonprofit-finance.png"
-featured_image: "/images/Givefront-nonprofit-finance.png"
-image: "/images/Givefront-nonprofit-finance.png"
-thumbnail: "/images/Givefront-nonprofit-finance.png"
+image_url: "/images/Givefront-nonprofit-finance.webp"
+featured_image: "/images/Givefront-nonprofit-finance.webp"
+image: "/images/Givefront-nonprofit-finance.webp"
+thumbnail: "/images/Givefront-nonprofit-finance.webp"
 image_alt: "Givefront – moderne Finanztools für US-Non-Profit-Organisationen"
 image_credit: "TechCrunch"
 tags: ["Fintech", "Non-Profit", "USA", "Spenden", "Startup", "YC", "Regulierung"]
 summary: "Givefront ist ein US-Fintech-Startup, das moderne Finanzsoftware speziell für gemeinnützige Organisationen in den Vereinigten Staaten entwickelt."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

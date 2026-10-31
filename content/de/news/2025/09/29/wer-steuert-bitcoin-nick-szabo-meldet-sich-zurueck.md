@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "b9c4e0f8c1ad46c0bba77e0d2d992eb2"
 source: "Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/btc-who-controles.png"
-featured_image: "/images/btc-who-controles.png"
-image: "/images/btc-who-controles.png"
-thumbnail: "/images/btc-who-controles.png"
+image_url: "/images/btc-who-controles.webp"
+featured_image: "/images/btc-who-controles.webp"
+image: "/images/btc-who-controles.webp"
+thumbnail: "/images/btc-who-controles.webp"
 image_alt: "Wer steuert Bitcoin – dezentrales Netzwerk von Menschen, keine Institution"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin","Nick Szabo","Satoshi","Bitcoin Core","Dezentralisierung","Entwickler","Nodes","Miner","Open Source","Regulierung"]
 summary: "Bitcoin hat keinen CEO. Das Netzwerk wird von Nodes, Minern und Entwicklern getragen, die Open-Source-Software pflegen – finanziert über Spenden und Grants. Nach fünf Jahren Funkstille meldet sich Nick Szabo in der Debatte um ein strittiges Core-Update zurück."
+categories: ["crypto"]
 ---
 
 ### Wer steuert Bitcoin wirklich?

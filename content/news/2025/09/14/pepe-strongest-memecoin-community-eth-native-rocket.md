@@ -9,6 +9,7 @@ image_alt: "PEPE memecoin"
 tags: ["pepe","memecoins","ethereum","beta","liquidity","markets","community"]
 summary: "PEPE grew from an internet joke into a phenomenon: a tireless community, persistent liquidity, and — in risk-on phases — often higher beta than ETH."
 our_take: "PEPE runs on ETH’s trend, liquidity, and community pulse. When ETH breaks higher, PEPE often sprints further — but drawdowns cut deeper. Rotate with a plan, not with FOMO."
+categories: ["news"]
 ---
 
 **Why PEPE?**  

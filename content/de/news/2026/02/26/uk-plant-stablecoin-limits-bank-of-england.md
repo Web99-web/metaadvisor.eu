@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: ""
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/UK-stablecoins-limits.png"
-featured_image: "/images/UK-stablecoins-limits.png"
-image: "/images/UK-stablecoins-limits.png"
-thumbnail: "/images/UK-stablecoins-limits.png"
+image_url: "/images/UK-stablecoins-limits.webp"
+featured_image: "/images/UK-stablecoins-limits.webp"
+image: "/images/UK-stablecoins-limits.webp"
+thumbnail: "/images/UK-stablecoins-limits.webp"
 image_alt: "Großbritannien plant Stablecoin-Limits – Symbol der britischen Flagge und digitales Pfund"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["uk", "großbritannien", "stablecoin", "stablecoins", "regulierung", "bank of england", "fca", "krypto", "crypto", "digitale vermögenswerte", "coinbase", "brian armstrong", "fintech"]
 summary: "Die Bank of England plant Obergrenzen für Stablecoin-Bestände von Privatpersonen und Unternehmen, während die FCA die Ausgabe in einer regulatorischen Sandbox testet. Die Branche warnt vor Wettbewerbsnachteilen für Großbritannien im digitalen Finanzsektor."
+categories: ["regulierung"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/05/bitcoin-bulls-should-ke
 summary: "Der MOVE-Index, ein Indikator für die Volatilität des Anleihemarktes, ist sprunghaft angestiegen und signalisiert mögliche Liquiditätsverknappung."
 tags: ["crypto", "bitcoin", "btc", "etf", "move-index", "bonds", "macro", "donald-trump", "tariffs"]
 image_url: "/images/bitcoin-btc1.jpg"
+categories: ["crypto"]
 ---
 
 Der **Bitcoin (BTC)** Bullenlauf ist bereits ins Stocken geraten, da langfristige Inhaber weiterhin verkaufen und die Zuflüsse in **ETFs** nachlassen. Noch problematischer ist, dass eine weitere, weniger bekannte, aber bedeutende Marktvariable sich gegen die Bitcoin-Bullen wendet und neue Herausforderungen signalisiert.

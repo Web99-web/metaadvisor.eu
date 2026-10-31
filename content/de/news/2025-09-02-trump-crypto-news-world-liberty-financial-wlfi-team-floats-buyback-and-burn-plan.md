@@ -9,6 +9,7 @@ summary: "Ein mit Trump verbundenes DeFi-Projekt schlägt vor, alle Liquiditäts
 tags: ["crypto","WLFI","Trump","DeFi","tokenomics"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/b2c7d33ec21ab2d7e423b91f9e7cfef8773f2d8e-2000x1125.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/b2c7d33ec21ab2d7e423b91f9e7cfef8773f2d8e-2000x1125.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 World Liberty Financial (WLFI), ein DeFi-Projekt mit Verbindung zur Trump-Familie, schlägt ein neues Tokenomics-Modell vor, um nach einem schwachen Handelsstart Vertrauen zurückzugewinnen: ein Buyback-und-Burn-Programm, das durch Protokollgebühren aus eigenen Liquiditätspositionen finanziert wird.

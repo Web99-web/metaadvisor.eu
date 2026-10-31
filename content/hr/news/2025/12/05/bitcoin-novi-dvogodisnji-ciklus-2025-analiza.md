@@ -15,6 +15,7 @@ image_alt: "Bitcoin 2-godišnji ciklus ilustracija"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin", "btc", "market ciklusi", "halving", "institucionalni kapital", "etf", "kriptotržište", "volatilnost", "analiza", "procap", "jeff park", "kripto ciklusi", "likvidnost", "investicijske strategije"]
 summary: "Sve više analitičara tvrdi da Bitcoin možda napušta svoj tradicionalni 4-godišnji ciklus. Institucionalni kapital i ETF-ovi mogli bi oblikovati potpuno novu dvogodišnju dinamiku tržišta."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Microsoft Word", "QR code", "QR kod", "Microsoft", "Word trikovi", "Word savjeti", "tehnologija", "digitalni alati", "DISPLAYBARCODE", "Ctrl F9", "barcode", "productivity", "Office"]
 description: "Microsoft Word može napraviti QR kod bez dodatnog programa ili online QR generatora. Dovoljno je koristiti ugrađenu naredbu DISPLAYBARCODE i nekoliko tipki."
 summary: "QR kod ne morate izrađivati na vanjskim web-stranicama. Microsoft Word ima ugrađenu naredbu DISPLAYBARCODE kojom se web-link, tekst ili drugi podaci mogu pretvoriti u QR kod izravno u dokumentu."
+categories: ["Tech"]
 ---
 
 # Jel znate kako napraviti besplatni vlastiti QR kod izravno u Microsoft Wordu?

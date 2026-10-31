@@ -7,14 +7,15 @@ translationKey: "f774d5d1be49bbf61f294dde9aa97843"
 source: "Metaadvisor (Cointelegraph, CoinDesk, Crypto.news, Finance Magnates, Yahoo Tech, X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Claude-recovered-5-btc.png"
-featured_image: "/images/news/Claude-recovered-5-btc.png"
-image: "/images/news/Claude-recovered-5-btc.png"
-thumbnail: "/images/news/Claude-recovered-5-btc.png"
+image_url: "/images/news/Claude-recovered-5-btc.webp"
+featured_image: "/images/news/Claude-recovered-5-btc.webp"
+image: "/images/news/Claude-recovered-5-btc.webp"
+thumbnail: "/images/news/Claude-recovered-5-btc.webp"
 image_alt: "Claude AI and a lost Bitcoin wallet"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "claude", "anthropic", "ai", "artificial intelligence", "wallet", "bitcoin wallet", "seed phrase", "blockchain", "cybersecurity", "digital forensics", "x", "viral", "bitcoin security", "metaadvisor", "metaadvisor.eu"]
 summary: "A viral story about a user claiming that the AI chatbot Claude helped recover access to 5 Bitcoin has reignited discussions about artificial intelligence, digital forensics and the future of personal data recovery."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.7;">

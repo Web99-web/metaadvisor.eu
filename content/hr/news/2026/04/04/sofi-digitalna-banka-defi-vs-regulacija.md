@@ -7,14 +7,15 @@ translationKey: "fe7541399eee6edd48986a7134f133fc"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (Cointelegraph, tržišni podaci)"
 source_url: ""
-image_url: "/images/companies/SoFi-Technologies-US-digital-bank.png"
-featured_image: "/images/companies/SoFi-Technologies-US-digital-bank.png"
-image: "/images/companies/SoFi-Technologies-US-digital-bank.png"
-thumbnail: "/images/companies/SoFi-Technologies-US-digital-bank.png"
+image_url: "/images/companies/SoFi-Technologies-US-digital-bank.webp"
+featured_image: "/images/companies/SoFi-Technologies-US-digital-bank.webp"
+image: "/images/companies/SoFi-Technologies-US-digital-bank.webp"
+thumbnail: "/images/companies/SoFi-Technologies-US-digital-bank.webp"
 image_alt: "SoFi Technologies digitalna banka i integracija fiat i kripto sustava"
 image_credit: "MetaAdvisor.eu"
 tags: ["sofi", "sofi technologies", "digitalna banka", "kripto", "defi", "stablecoin", "blockchain", "trgovanje", "fintech", "regulacija"]
 summary: "SoFi razvija platformu koja spaja fiat i kripto u jednom sustavu, nudeći jednostavnije i regulirano iskustvo za tvrtke, dok DeFi i dalje pati od kompleksnosti i nedostatka uputa za korištenje."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

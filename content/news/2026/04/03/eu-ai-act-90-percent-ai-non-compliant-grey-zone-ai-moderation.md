@@ -15,6 +15,7 @@ image_alt: "EU AI Act and AI system non-compliance"
 image_credit: "MetaAdvisor.eu"
 tags: ["eu ai act","ai law","ai moderation","meta","facebook","instagram","recruitment","regulation","ai compliance","ai governance","non-compliance","regulatory risk","ai transparency","ai accountability","gdpr","nis2","dora","cybersecurity"]
 summary: "The EU AI Act applies to all companies affecting users in the EU, raising the question whether regulation will address the real problem — or remain focused on smaller systems."
+categories: ["tech"]
 ---
 
 *The image is symbolic.*

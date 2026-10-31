@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/338324/wall-streets-needs-advance-ethereum-priva
 summary: "Laut Danny Ryan, Mitgründer und Präsident von Etherealize, sollten Verfechter der Privatsphäre die Krypto-Adoption an der Wall Street begrüßen."
 tags: ["crypto", "ethereum", "eth", "privatsphäre", "privacy", "zero-knowledge", "zk", "wall street", "institutionen", "compliance", "decrypt", "etherealize"]
 image_url: "/images/wall-street-manja.jpg"
+categories: ["krypto"]
 ---
 
 Wall Street's Needs Will Advance Ethereum's Privacy, Says Etherealize

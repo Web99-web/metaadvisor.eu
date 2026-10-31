@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["YouTube", "AI", "AI video", "video editing", "Gemini", "YouTube Create", "YouTube Shorts", "creators", "video", "artificial intelligence", "content creation", "Google"]
 description: "YouTube is introducing conversational video editing, allowing creators to tell AI in natural language how to cut footage, remove pauses, add text, music and transitions."
 summary: "YouTube's new AI tool turns video editing into a conversation. Creators can ask it to select the best clips, remove pauses, add text, music and transitions, then return to the traditional timeline whenever they want. Conversational editing is coming to YouTube Shorts and YouTube Create in early 2027."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

@@ -16,6 +16,7 @@ image_alt: "Ilustracija tokenizacije vrijednosti nekretnine"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["tokenizacija", "nekretnine", "equity", "home equity", "crypto", "blockchain", "real world assets", "RWA", "fintech"]
 summary: "Američki Bed Bath & Beyond najavio je ulazak u tokenizaciju nekretnina kroz kupnju Tokens.coma. No iza pojma 'tokenizacije kuće' ne stoji pretvaranje kuće u kriptovalutu, već digitalizacija vlasničkog kapitala (equityja) – financijskog alata koji je u SAD-u uobičajen, a u većem dijelu Europe praktički ne postoji."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

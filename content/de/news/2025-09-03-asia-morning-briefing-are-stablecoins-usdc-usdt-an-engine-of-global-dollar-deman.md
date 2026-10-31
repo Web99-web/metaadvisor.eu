@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/asia-morning-briefing-a
 summary: "Stablecoins greifen zunehmend in die Liquidität von US-Staatsanleihen ein – zwischen Stabilität und systemischem Risiko."
 tags: ["stablecoins", "USDC", "USDT", "crypto", "dollar", "treasuries", "liquidität"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/USD_Coin_icon.png"
+categories: ["news"]
 ---
 
 Willkommen zum Asia Morning Briefing, einer täglichen Zusammenfassung der wichtigsten Nachrichten während der US-Handelszeiten und einem Überblick über Marktbewegungen und Analysen. Einen detaillierten Überblick über die US-Märkte finden Sie im Crypto Daybook Americas von CoinDesk.

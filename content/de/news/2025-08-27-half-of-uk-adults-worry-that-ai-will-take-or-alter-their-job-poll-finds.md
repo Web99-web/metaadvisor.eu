@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/aug/27/half-of-uk-adult
 summary: "Der Gewerkschaftsbund TUC fordert einen neuen Ansatz für Technologie und mehr Mitsprache der Arbeitnehmer bei deren Einsatz."
 tags: ["ai","UK","Arbeitsmarkt","Umfrage","TUC"]
 image_url: "https://i.guim.co.uk/img/media/69b8b0b0589e91606c30e37a91bcbda248c33f6b/0_0_5472_3648/master/5472.jpg?width=1200&quality=85&auto=format&fit=max&s=4b5fbd048"
+categories: ["ai"]
 ---
 
 Laut einer Umfrage des britischen Gewerkschaftsbundes TUC befürchtet die Hälfte der Erwachsenen in Großbritannien, dass künstliche Intelligenz (KI) ihren Arbeitsplatz gefährden könnte – sei es durch Jobverlust oder eine Veränderung der Arbeitsbedingungen. Von den 2.600 Befragten äußerten 51% entsprechende Sorgen.

@@ -16,6 +16,7 @@ image_alt: "Chart zu Volumen/Open Interest – Illustration für DEX/CEX-Derivat
 image_credit: "Metaadvisor.eu (symbolisch)"
 tags: ["Krypto","Derivate","Perpetuals","DEX","CEX","Hyperliquid","Aster","Lighter","BitMEX","Stephan Lutz","Token2049","Incentives","Liquidität","Volatilität"]
 summary: "Auf der Token2049 warnt BitMEX-CEO Stephan Lutz, dass die Perp-DEX-Euphorie rasch abflauen könnte: Die Modelle seien zu stark von Token-Incentives und Fee-Rabatten abhängig. Kurzfristige Volumenspitzen bedeuten noch keinen nachhaltigen Marktanteil."
+categories: ["crypto"]
 ---
 
 **SINGAPUR —** Bis zur nächsten **Token2049** könnten heutige **Perp-DEX**-Stars (**Hyperliquid**, **Aster**, **Lighter**) ihren Vorsprung verlieren, so **Stephan Lutz**. **Incentive-lastige** Geschäftsmodelle seien **fragil**.

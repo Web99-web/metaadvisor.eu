@@ -28,6 +28,7 @@ tags:
   - regulation
   - governance
 summary: "Asiens Stablecoin-Pläne stoßen an Kapitalverkehrskontrollen, die die internationale Nutzung lokaler Währungen beschneiden. Hongkong ist die Ausnahme: Sonderstatus, Peg und klarer Regulierungsrahmen machen HKD als Stablecoin-Basis nutzbar."
+categories: ["news"]
 ---
 
 **Kurz:** Vor der **Korea Blockchain Week** gewann die Idee eines **Won-Stablecoins (KRW)** politischen Rückenwind: eine **digitale, lokale Alternative** zu Dollar-Token. Doch **Kapitalverkehrskontrollen** in vielen asiatischen Ländern verhindern **offshore Nutzung** – womit der **HKD in Hongkong** als **einzige realistische regionale Basis** übrig bleibt.

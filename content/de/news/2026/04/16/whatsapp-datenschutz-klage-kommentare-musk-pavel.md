@@ -7,14 +7,15 @@ translationKey: "whatsapp-privacy-musk-pavel-lawsuit-2026"
 author: "Metaadvisor.eu"
 source: "X (Twitter), öffentliche Beiträge"
 source_url: ""
-image_url: "/images/news/Whatsapp-privacy-concerns.png"
-featured_image: "/images/news/Whatsapp-privacy-concerns.png"
-image: "/images/news/Whatsapp-privacy-concerns.png"
-thumbnail: "/images/news/Whatsapp-privacy-concerns.png"
+image_url: "/images/news/Whatsapp-privacy-concerns.webp"
+featured_image: "/images/news/Whatsapp-privacy-concerns.webp"
+image: "/images/news/Whatsapp-privacy-concerns.webp"
+thumbnail: "/images/news/Whatsapp-privacy-concerns.webp"
 image_alt: "WhatsApp Datenschutzbedenken und öffentliche Reaktionen"
 image_credit: "Metaadvisor Illustration"
 tags: ["whatsapp", "datenschutz", "elon musk", "pavel durov", "meta", "daten", "sicherheit", "klage"]
 summary: "WhatsApp steht erneut im Zentrum der Datenschutzdebatte, nachdem Vorwürfe über möglichen Zugriff auf Nachrichten aufgetaucht sind, während Kommentare von Elon Musk und Pavel Durov das öffentliche Interesse verstärken."
+categories: ["tech"]
 ---
 
 _Das Bild ist symbolisch._

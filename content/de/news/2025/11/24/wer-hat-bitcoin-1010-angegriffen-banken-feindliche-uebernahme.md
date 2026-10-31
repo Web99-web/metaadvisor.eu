@@ -3,15 +3,15 @@ title: "War der ‘Big Short’ am 10.10 eine feindliche Übernahme durch Banken
 slug: "wer-hat-bitcoin-1010-angegriffen-banken-feindliche-uebernahme"
 date: 2025-11-24T10:00:00Z
 category: "crypto"
-translationKey: "attack_1010_btc_banks_20251124"
+translationKey: "attack_1010_btc_banks_20251124--2025-11-24"
 source: "MetaAdvisor – Analyse + Social-Media-Aussagen (Ran, Hayes, Dixon)"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/BTC-10.10-who-attacked.png"
-featured_image: "/images/BTC-10.10-who-attacked.png"
-image: "/images/BTC-10.10-who-attacked.png"
-thumbnail: "/images/BTC-10.10-who-attacked.png"
+image_url: "/images/BTC-10.10-who-attacked.webp"
+featured_image: "/images/BTC-10.10-who-attacked.webp"
+image: "/images/BTC-10.10-who-attacked.webp"
+thumbnail: "/images/BTC-10.10-who-attacked.webp"
 image_alt: "Wer hat Bitcoin am 10.10 angegriffen — Illustration"
 image_credit: "MetaAdvisor.eu"
 tags: [
@@ -21,6 +21,7 @@ tags: [
   "marktvolatilität", "jpmorgan", "goldman sachs", "finanzen", "finanzierung"
 ]
 summary: "Immer mehr Analysten behaupten, dass der Bitcoin-Einbruch am 10.10 ein koordinierter Angriff großer Finanzinstitutionen auf Microstrategy war — mit dem Ziel, günstiger BTC zu kaufen und den Markt zu übernehmen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,14 +7,15 @@ translationKey: "schwarz-lidl-kaufland-ai-cloud-data-centar-2026-07-20"
 source: "Schwarz grupa, Schwarz Digits, javno dostupne informacije i medijski izvještaji"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
-featured_image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
-image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
-thumbnail: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.png"
+image_url: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
+featured_image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
+image: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
+thumbnail: "/images/news/Lidl-Kaufland-Schwartz-AI-data-center.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Lidl", "Kaufland", "Schwarz grupa", "Schwarz Digits", "umjetna inteligencija", "AI", "podatkovni centar", "cloud", "STACKIT", "kibernetička sigurnost", "Njemačka"]
 description: "Schwarz grupa, vlasnik Lidla i Kauflanda, gradi podatkovni centar vrijedan oko 11 milijardi eura i želi postati europska alternativa američkim cloud gigantima."
 summary: "Vlasnik Lidla i Kauflanda ulaže približno 11 milijardi eura u podatkovni centar za cloud i AI infrastrukturu. Projekt bi mogao podržavati do 100.000 GPU-ova."
+categories: ["ai"]
 ---
 
 # Vlasnik Lidla i Kauflanda gradi AI i cloud carstvo vrijedno 11 milijardi eura

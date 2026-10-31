@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/why-tether-is-buying-more-gold-than-many-central-banks-and-what-it-signals"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Tether-USDT-gold.png"
-featured_image: "/images/Tether-USDT-gold.png"
-image: "/images/Tether-USDT-gold.png"
-thumbnail: "/images/Tether-USDT-gold.png"
+image_url: "/images/Tether-USDT-gold.webp"
+featured_image: "/images/Tether-USDT-gold.webp"
+image: "/images/Tether-USDT-gold.webp"
+thumbnail: "/images/Tether-USDT-gold.webp"
 image_alt: "Tether USDT i zlatne rezerve – ilustracija"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["tether","usdt","zlato","kripto","stabilni-coin","financije","ulaganja","globalno-tržište","poljoprivreda","energija","ai","diverzifikacija"]
 summary: "Tether kupuje više zlata nego mnoge centralne banke i širi se u energiju, poljoprivredu i AI – stvarajući globalni financijski ekosustav kakav stablecoini nikad prije nisu imali."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

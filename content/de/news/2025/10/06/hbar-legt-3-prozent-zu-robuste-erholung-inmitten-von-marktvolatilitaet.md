@@ -16,6 +16,7 @@ image_alt: "HBAR — Illustration des Hedera-Netzwerk-Tokens"
 image_credit: "Metaadvisor.eu — symbolisches Bild"
 tags: ["crypto", "HBAR", "Hedera", "hashgraph", "staking", "gebuehren", "governing-council", "enterprise-adoption", "energieeffizienz", "hoher-durchsatz", "volatilitaet", "liquiditaet"]
 summary: "HBAR legte innerhalb von 24 Stunden ~3 % zu und hielt sich über $0,23. Dazu: Was HBAR ist und warum Hedera bei Enterprises punktet."
+categories: ["news"]
 ---
 
 *Bild ist symbolisch.*

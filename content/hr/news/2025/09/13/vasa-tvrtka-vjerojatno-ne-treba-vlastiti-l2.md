@@ -3,7 +3,7 @@ title: "Vaša tvrtka vjerojatno ne treba vlastiti L2"
 slug: "vasa-tvrtka-vjerojatno-ne-treba-vlastiti-l2"
 date: 2025-09-13T18:00:00Z
 category: "news"
-translationKey: "deb9039d3dd61126d44c252223bbf1ba"
+translationKey: "l2-coindesk-opinion-2025-09-13"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/opinion/2025/09/09/your-company-probably-doesn-t-need-its-own-l2"
 priority: 97
@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["ethereum", "eth", "solana", "sol", "finance"]
 our_take: |
   Naš pogled: Sve više i više tvrtki privlači ideju da pokrene vlastitu mrežu Ethereum Layer 2.Ključne stvari za gledanje: likvidnost, makro (stope/USD) i regulacija.Ostanite selektivni;Dodajte samo u imena visoke presude.
+categories: ["news"]
 ---
 
 Sve više i više tvrtki privlači ideju o pokretanju vlastite mreže Ethereum Layer 2.Većina ih se ne bi trebala truditi.Već ih je zapanjujući broj - preko 150.Dosta njih je centralizirano i povezano s jednim poduzećem, a nekoliko tvrtki poput Robinhood -a nedavno je objavilo planove za pokretanje vlastitih mreža sloja 2.

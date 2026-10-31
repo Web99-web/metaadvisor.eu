@@ -7,14 +7,15 @@ translationKey: "facebook-long-term-profiles-no-reputation-credit"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-blocks-long-term-profiles.png"
-featured_image: "/images/Meta/Facebook-blocks-long-term-profiles.png"
-image: "/images/Meta/Facebook-blocks-long-term-profiles.png"
-thumbnail: "/images/Meta/Facebook-blocks-long-term-profiles.png"
+image_url: "/images/Meta/Facebook-blocks-long-term-profiles.webp"
+featured_image: "/images/Meta/Facebook-blocks-long-term-profiles.webp"
+image: "/images/Meta/Facebook-blocks-long-term-profiles.webp"
+thumbnail: "/images/Meta/Facebook-blocks-long-term-profiles.webp"
 image_alt: "Facebook blocks long-term profiles without explanation"
 image_credit: "Metaadvisor.eu"
 tags: ["facebook", "ai moderacija", "gašenje računa", "digitalna prava", "cenzura", "društvene mreže", "meta", "tehnologija"]
 summary: "Dugogodišnji korisnici Facebooka sve češće gube račune bez objašnjenja, bez podrške i bez mogućnosti žalbe — otvarajući pitanje zašto reputacija na platformi nema nikakvu vrijednost."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

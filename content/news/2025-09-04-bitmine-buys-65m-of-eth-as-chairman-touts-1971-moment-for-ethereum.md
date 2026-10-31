@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/bitmine-buys-65m-ether-1971-moment-f
 summary: "BitMine announces $65 million ETH purchase, with chairman drawing parallels to the end of the gold standard in 1971."
 tags: ["crypto", "ETH", "Ethereum", "BitMine", "investments"]
 image_url: "/images/eth1.jpg"
+categories: ["crypto"]
 ---
 
 **BitMine**, a digital asset investment firm, has purchased $65 million worth of Ethereum (ETH), according to a statement released this week.  

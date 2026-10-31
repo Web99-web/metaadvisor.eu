@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "Öl", "Renditen", "ZEC", "TAO", "AAVE", "Kryptomarkt", "Makroökonomie", "SPR", "Inflation"]
 description: "Sinkende strategische US-Ölreserven, hohe Anleiherenditen und Schwäche bei einigen Altcoins rücken den makroökonomischen Druck erneut in den Mittelpunkt."
 summary: "Die strategischen US-Ölreserven sind auf den niedrigsten Stand seit 1982 gefallen, während die Anleiherenditen erhöht blieben und der Kryptomarkt uneinheitlich reagierte. Bitcoin hält sich relativ stabil, AAVE bleibt stark, TAO schwächt sich nach dem Verlust der Marke von 312 Dollar ab und ZEC zeigt die deutlichste neue Verschlechterung."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

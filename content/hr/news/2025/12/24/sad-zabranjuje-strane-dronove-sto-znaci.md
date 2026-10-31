@@ -7,10 +7,10 @@ summary: "Američka vlada uvodi zabranu novih stranih dronova zbog nacionalne si
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/"
 author: "MetaAdvisor.eu"
-image_url: "/images/dron.png"
-featured_image: "/images/dron.png"
-image: "/images/dron.png"
-thumbnail: "/images/dron.png"
+image_url: "/images/dron.webp"
+featured_image: "/images/dron.webp"
+image: "/images/dron.webp"
+thumbnail: "/images/dron.webp"
 image_alt: "Tehnološki dron – simbol zabrane stranih dronova u SAD-u"
 tags:
   - dronovi
@@ -21,6 +21,7 @@ tags:
   - dji
   - regulacija
   - umjetna-inteligencija
+categories: ["ai"]
 ---
 
 # SAD zabranjuje strane dronove: što znači nova odluka i tko je najviše pogođen

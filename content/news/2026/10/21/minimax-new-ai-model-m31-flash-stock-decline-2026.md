@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["MiniMax", "MiniMax M3.1 Flash", "Artificial Intelligence", "AI Models", "AI Agents", "Hong Kong Stock Exchange", "HKEX", "Chinese AI", "Technology Stocks", "Stock Market", "AI Investment", "BNP Paribas", "AI Competition", "Financial Markets", "Technology"]
 description: "MiniMax unveiled its new M3.1 Flash AI model, but its stock continues to decline. What's behind a loss of more than 43% in just over a month?"
 summary: "Chinese AI company MiniMax unveiled its M3.1 Flash model on October 19, 2026, claiming nearly three times faster performance and 70% lower costs. Despite the technological progress, its stock lost more than 43% of its value between September 18 and October 20. Investors remain concerned about competition, development costs, share issuance and potential selling pressure from early shareholders."
+categories: ["technology"]
 ---
 
 *Symbolic image.*

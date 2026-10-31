@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/11b-bitcoin-whale-235m-btc-short-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/whale-235m-short.png"
-featured_image: "/images/whale-235m-short.png"
-image: "/images/whale-235m-short.png"
-thumbnail: "/images/whale-235m-short.png"
+image_url: "/images/whale-235m-short.webp"
+featured_image: "/images/whale-235m-short.webp"
+image: "/images/whale-235m-short.webp"
+thumbnail: "/images/whale-235m-short.webp"
 image_alt: "Bitcoin whale — $235M short, simbolična ilustracija"
 image_credit: "Slika je simbolična."
 tags:
@@ -31,6 +31,7 @@ tags:
     "open interest"
   ]
 summary: "Veliki sudionik (‘kit’) otvorio je kratku poziciju na Bitcoinu nominalne vrijednosti oko $235M. Prema tržišnim podacima, pozicija je otvorena oko $111.190 po BTC-u uz ~10× polugu."
+categories: ["crypto"]
 ---
 
 Veliki kripto-investitor, tzv. **kit**, otvorio je **kratku poziciju (short)** na **Bitcoinu** u **nominalnom iznosu oko $235 milijuna**. Prema dostupnim tržišnim podacima, short je otvoren **oko $111.190 po BTC-u**, uz približno **10× polugu**. Potez dolazi odmah nakon što je isti akter na nedavnom padu tržišta navodno **realizirao oko $200 milijuna profita**, pa nova oklada sugerira očekivanje **dodatne slabosti** ili barem **ponovnog testa** nižih razina.

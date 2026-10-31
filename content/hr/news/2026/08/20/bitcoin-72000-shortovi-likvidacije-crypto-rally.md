@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "Solana", "AAVE", "HYPE", "crypto", "short squeeze", "likvidacije", "Bitcoin ETF", "Ethereum ETF"]
 description: "Bitcoin je probio 72.000 dolara, dok su crypto short likvidacije u dva dana premašile 3,1 milijardu dolara. Ethereum je dosegnuo 2.300 dolara, a snažno su rasli i SOL, AAVE i HYPE."
 summary: "Bitcoin je izašao iz šestotjednog raspona i probio 72.000 dolara. Više od 3,1 milijarde dolara short pozicija likvidirano je u dva dana, dok se rally proširio na Ethereum, Solanu, Aave, HYPE i crypto dionice."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

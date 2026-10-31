@@ -7,14 +7,15 @@ translationKey: "mu-sndk-bb-pad-dionica-2026-07-19"
 source: "Micron, SanDisk, BlackBerry, market and analyst data"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/Stock-drop-price-down.png"
-featured_image: "/images/daily-charts/Stock-drop-price-down.png"
-image: "/images/daily-charts/Stock-drop-price-down.png"
-thumbnail: "/images/daily-charts/Stock-drop-price-down.png"
+image_url: "/images/daily-charts/Stock-drop-price-down.webp"
+featured_image: "/images/daily-charts/Stock-drop-price-down.webp"
+image: "/images/daily-charts/Stock-drop-price-down.webp"
+thumbnail: "/images/daily-charts/Stock-drop-price-down.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Micron", "MU", "SanDisk", "SNDK", "BlackBerry", "BB", "stocks", "derivatives", "AI stocks", "memory chips", "semiconductors", "stock market"]
 description: "Micron, SanDisk and BlackBerry fell sharply and had not meaningfully recovered by the end of the week. However, the reasons behind the declines in MU and SNDK differ from those affecting BB."
 summary: "MU and SNDK fell during a broader selloff in memory, semiconductor and AI infrastructure stocks, while BB’s decline appears more closely linked to profit-taking after a strong previous rally."
+categories: ["finance"]
 ---
 
 # MU, SNDK and BB Fell Hard: What Is Happening to These Stocks?

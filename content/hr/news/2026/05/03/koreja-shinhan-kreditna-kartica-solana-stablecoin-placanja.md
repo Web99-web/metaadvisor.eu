@@ -15,6 +15,7 @@ image_alt: "Shinhan kreditna kartica i Solana blockchain plaćanja"
 image_credit: "Metaadvisor.eu"
 tags: ["shinhan card", "solana blockchain", "stablecoin placanja", "koreja kripto", "defi financije", "tradfi defi integracija", "blockchain kartice", "digitalna placanja", "kripto infrastruktura", "fintech azija"]
 summary: "Shinhan Card, jedan od najvećih izdavatelja kartica u Južnoj Koreji, ulazi u partnerstvo sa Solanom kako bi testirao stablecoin plaćanja i razvio nove modele digitalnih financija."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

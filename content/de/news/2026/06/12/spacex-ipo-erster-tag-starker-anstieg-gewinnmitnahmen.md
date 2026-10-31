@@ -7,14 +7,15 @@ translationKey: "spacex-ipo-first-day-price-profit-taking-2026-06-12"
 source: "Reuters, MarketWatch, Business Insider, WSJ, CoinDesk, CoinMarketCap, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Elon-Musk-world.png"
-featured_image: "/images/Elon-Musk-world.png"
-image: "/images/Elon-Musk-world.png"
-thumbnail: "/images/Elon-Musk-world.png"
+image_url: "/images/Elon-Musk-world.webp"
+featured_image: "/images/Elon-Musk-world.webp"
+image: "/images/Elon-Musk-world.webp"
+thumbnail: "/images/Elon-Musk-world.webp"
 image_alt: "Elon Musk, SpaceX IPO und globale Märkte"
 image_credit: "Metaadvisor.eu"
 tags: ["SpaceX", "SpaceX IPO", "Elon Musk", "Nasdaq", "SPCX", "IPO", "Aktien", "Börse", "Wall Street", "Privatanleger", "Gewinnmitnahmen", "Kapitalmarkt", "Technologieaktien", "Starlink", "Kryptomarkt", "Bitcoin", "Hyperliquid", "HYPE", "Metaadvisor"]
 summary: "SpaceX beendete den ersten Handelstag rund 19% über dem IPO-Preis, doch der Rückgang vom Tageshoch zeigt, dass der Markt neben starker Euphorie auch schnelle Gewinnmitnahmen sah."
+categories: ["news"]
 ---
 
 Das Bild ist symbolisch.

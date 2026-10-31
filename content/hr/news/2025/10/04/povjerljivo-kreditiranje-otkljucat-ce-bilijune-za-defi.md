@@ -16,6 +16,7 @@ image_alt: "Simbolična ilustracija – novac i likvidnost u DeFi-ju"
 image_credit: "Metaadvisor.eu – simbolična fotografija"
 tags: ["crypto", "DeFi", "confidential-lending", "privatnost", "ZKP", "stablecoins", "institucije", "tržišta-kapitala", "tokenizacija", "povjerenje", "compliance"]
 summary: "Koncept povjerljivog kreditiranja mogao bi otvoriti bilijune dolara za DeFi tržišta – kombinirajući privatnost i usklađenost kroz napredne kriptografske standarde."
+categories: ["news"]
 ---
 
 **Povjerljivo kreditiranje (confidential lending)** sve se češće spominje kao ključ za otključavanje **bilijuna dolara kapitala** unutar DeFi tržišta. Ideja je omogućiti zajmodavcima i zajmoprimcima da koriste blockchain infrastrukturu, ali uz **zaštitu osjetljivih podataka** — tko posuđuje, po kojim uvjetima i uz koje kolaterale.

@@ -9,6 +9,7 @@ summary: "Venture capital is consolidating into larger, higher-conviction bets, 
 tags: ["web3", "vc", "crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/web3-funding-coindesk.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/web3-funding-coindesk.jpg?auto=format&width=1200"
+categories: ["news"]
 ---
 
 Web3 startups raised **$9.6 billion** in venture funding during Q2 2025, the second-largest quarter on record, even as deal counts hit multi-year lows, according to **Outlier Ventures**.  

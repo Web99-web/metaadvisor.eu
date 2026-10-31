@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/11/07/u-s-regulator-that-may-rule-over-digital-assets-pushing-toward-crypto-spot-trading"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/wall-street-vs-crypto.png"
-featured_image: "/images/wall-street-vs-crypto.png"
-image: "/images/wall-street-vs-crypto.png"
-thumbnail: "/images/wall-street-vs-crypto.png"
+image_url: "/images/wall-street-vs-crypto.webp"
+featured_image: "/images/wall-street-vs-crypto.webp"
+image: "/images/wall-street-vs-crypto.webp"
+thumbnail: "/images/wall-street-vs-crypto.webp"
 image_alt: "Wall Street vs Crypto — Who sets the rules?"
 image_credit: "Metaadvisor.eu"
 tags: ["krypto", "usa", "regulierung", "coinbase", "binance", "kraken", "wall street", "cftc"]
 summary: "Die US-Regierung plant, den Spot-Kryptohandel bereits im Dezember an regulierte Börsen zu bringen – ein Wendepunkt, der den Druck auf große Kryptobörsen wie Coinbase, Binance und Kraken erhöht."
+categories: ["crypto"]
 ---
 
 <div class="cta">

@@ -7,14 +7,15 @@ translationKey: "openai-prediction-markets-insider-2026"
 author: "Metaadvisor.eu"
 source: "TechCrunch (analysis and expansion by Metaadvisor.eu)"
 source_url: ""
-image_url: "/images/Open-AI-confidential1.png"
-featured_image: "/images/Open-AI-confidential1.png"
-image: "/images/Open-AI-confidential1.png"
-thumbnail: "/images/Open-AI-confidential1.png"
+image_url: "/images/Open-AI-confidential1.webp"
+featured_image: "/images/Open-AI-confidential1.webp"
+image: "/images/Open-AI-confidential1.webp"
+thumbnail: "/images/Open-AI-confidential1.webp"
 image_alt: "OpenAI logo uz oznake confidential i insider trading"
 image_credit: "Ilustracija: MetaAdvisor"
 tags: ["openai", "umjetna inteligencija", "ai", "prediction tržišta", "polymarket", "kalshi", "insider trgovanje", "regulacija", "tehnološki sektor", "ipo", "financijska tržišta"]
 summary: "OpenAI je otpustio zaposlenika zbog korištenja povjerljivih informacija prilikom trgovanja na prediction tržištima poput Polymarketa. Slučaj otvara pitanja o insider trgovanju, regulaciji i odgovornosti unutar AI kompanija."
+categories: ["ai"]
 ---
 
 # OpenAI otpustio zaposlenika zbog korištenja povjerljivih informacija na prediction tržištima

@@ -24,6 +24,7 @@ tags:
   - institutionelle investoren
   - defi
 summary: "VanEck hat einen aktualisierten Antrag für einen Avalanche-ETF eingereicht, der neben der Kursentwicklung von AVAX auch Staking-Erträge für Investoren generieren soll."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

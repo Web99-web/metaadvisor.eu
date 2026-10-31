@@ -3,18 +3,19 @@ title: "ICE ulaže 600 milijuna u Polymarket: vlasnik NYSE-a ulazi u tržište p
 slug: "ice-polymarket-investicija-nyse-prediction-markets"
 date: 2026-03-31T06:00:00+01:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-03-31"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (Cointelegraph, tržišni podaci)"
 source_url: ""
-image_url: "/images/Polymarket-ICE.png"
-featured_image: "/images/Polymarket-ICE.png"
-image: "/images/Polymarket-ICE.png"
-thumbnail: "/images/Polymarket-ICE.png"
+image_url: "/images/Polymarket-ICE.webp"
+featured_image: "/images/Polymarket-ICE.webp"
+image: "/images/Polymarket-ICE.webp"
+thumbnail: "/images/Polymarket-ICE.webp"
 image_alt: "ICE i Polymarket ulaganje u prediction markets"
 image_credit: "MetaAdvisor.eu"
 tags: ["polymarket", "ice", "nyse", "crypto", "prediction markets", "fintech", "tržišta", "ulaganje"]
 summary: "ICE, vlasnik New York Stock Exchangea (NYSE), ulaže 600 milijuna dolara u Polymarket, otvarajući vrata novoj vrsti financijskih tržišta — trgovanju događajima."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

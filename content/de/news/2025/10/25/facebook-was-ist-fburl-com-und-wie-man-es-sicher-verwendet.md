@@ -15,6 +15,7 @@ image_alt: "Facebook und fburl.com-Link"
 image_credit: "Das Bild ist symbolisch."
 tags: ["Facebook", "Sicherheit", "Links", "Phishing", "Cybersecurity", "fburl"]
 summary: "Fburl.com ist Facebooks Kurz-Domain für Weiterleitungen. So prüfst du sicher, wohin ein Link führt."
+categories: ["tech"]
 ---
 
 **Was ist fburl.com?**

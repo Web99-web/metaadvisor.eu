@@ -9,6 +9,7 @@ summary: "Fable plans to use AI to recreate the lost 43 minutes of Welles’ ‘
 tags: ["ai", "orson welles", "the magnificent ambersons", "fable", "amazon", "alexa fund", "generative ai", "copyright", "hollywood", "ip", "deepfake", "fan fiction"]
 image_url: "https://images.pexels.com/photos/5826828/pexels-photo-5826828.jpeg"
 image_source: "Pexels – Nicolette Villavicencio (film reels)"
+categories: ["ai"]
 ---
 
 On Friday, a startup called **Fable** announced an ambitious, if head-scratching, plan to **recreate the lost 43 minutes** of Orson Welles’ classic film **“The Magnificent Ambersons.”**

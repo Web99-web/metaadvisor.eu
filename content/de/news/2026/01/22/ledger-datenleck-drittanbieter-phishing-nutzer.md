@@ -15,6 +15,7 @@ image_alt: "Ledger Hardware-Wallet und Sicherheitswarnungen"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags: ["ledger","hardware wallet","phishing","sicherheit","datenleck","krypto-betrug","self custody","wallet-sicherheit","blockchain-sicherheit","krypto-nutzer"]
 summary: "Anfang 2026 gerieten einige Ledger-Nutzer ins Visier gezielter Phishing-Angriffe nach einem Datenleck bei einem Drittanbieter. Obwohl die Wallets selbst nicht kompromittiert wurden, zeigte der Vorfall, wie weitreichend Sicherheitsrisiken im Krypto-Ökosystem sind."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

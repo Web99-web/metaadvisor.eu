@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/us-appeals-sentences-hashflare-cofou
 summary: "US-Staatsanwaltschaft nennt die Strafe für HashFlare-Gründer zu mild – sie fordern 10 Jahre Haft wegen $577M Ponzi-System."
 tags: ["news","crypto","Betrug","Ponzi","HashFlare","Justiz"]
 image_url: "https://images.cointelegraph.com/images/528_hashflare.jpg"
+categories: ["news"]
 ---
 
 Die US-Staatsanwaltschaft legt Berufung gegen die „time-served“-Urteile für Sergei Potapenko und Ivan Turõgin ein, die Mitgründer von HashFlare sind — einem Krypto-Mining-Dienst, der in ein Ponzi-Schema über $577 Millionen verwickelt war :contentReference[oaicite:19]{index=19}.

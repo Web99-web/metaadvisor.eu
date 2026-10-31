@@ -36,6 +36,7 @@ tags:
   - compliance
   - eu
 summary: "Otter.ai lansira enterprise paket koji pretvara bilješke i snimke sa sastanaka u centraliziranu bazu znanja, uz API integracije, MCP bridge i AI agenta za pretraživanje."
+categories: ["ai"]
 ---
 
 **Sažetak.** Otter.ai više ne želi biti „AI bilježnik“ koji transkribira sastanke i šalje sažetke. Novi enterprise paket gura Otter prema **sloju korporativne memorije**: bilješke, snimke, prezentacije i akcijske točke postaju **pretraživ, povezan i dijeljiv** resurs u alatima koje timovi već koriste.

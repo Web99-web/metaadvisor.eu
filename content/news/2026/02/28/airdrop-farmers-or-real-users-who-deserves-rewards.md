@@ -7,14 +7,15 @@ translationKey: "a1c94f7e8d2b4f4bb2e9d3c6f7a88211"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/Airdrop-farmers.png"
-featured_image: "/images/Airdrop-farmers.png"
-image: "/images/Airdrop-farmers.png"
-thumbnail: "/images/Airdrop-farmers.png"
+image_url: "/images/Airdrop-farmers.webp"
+featured_image: "/images/Airdrop-farmers.webp"
+image: "/images/Airdrop-farmers.webp"
+thumbnail: "/images/Airdrop-farmers.webp"
 image_alt: "Debate about airdrop farmers versus real crypto users"
 image_credit: "MetaAdvisor illustration (symbolic)"
 tags: ["crypto", "airdrop", "airdrop farmers", "web3", "defi", "blockchain", "tokens", "wallet", "decentralization", "tokenomics"]
 summary: "The debate over whether airdrop rewards should go to real users or so-called farmers highlights deeper questions about fairness, tokenomics, and long-term sustainability in Web3."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

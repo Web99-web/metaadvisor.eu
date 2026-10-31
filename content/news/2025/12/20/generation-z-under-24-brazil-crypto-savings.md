@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "coindesk.com"
 author: "CoinDesk — analysis by MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/brazil.png"
-featured_image: "/images/brazil.png"
-image: "/images/brazil.png"
-thumbnail: "/images/brazil.png"
+image_url: "/images/brazil.webp"
+featured_image: "/images/brazil.webp"
+image: "/images/brazil.webp"
+thumbnail: "/images/brazil.webp"
 image_alt: "Brazilian flag — Generation Z and crypto savings adoption"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -24,6 +24,7 @@ tags:
   - tokenization
   - rwa
 summary: "In Brazil, crypto adoption is being driven by Generation Z under 24, who are using stablecoins and tokenized products as a digital savings tool rather than a speculative bet."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com"
 author: "Cointelegraph — prijevod i analiza Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/200-usd-tax-exemption.png"
-featured_image: "/images/200-usd-tax-exemption.png"
-image: "/images/200-usd-tax-exemption.png"
-thumbnail: "/images/200-usd-tax-exemption.png"
+image_url: "/images/200-usd-tax-exemption.webp"
+featured_image: "/images/200-usd-tax-exemption.webp"
+image: "/images/200-usd-tax-exemption.webp"
+thumbnail: "/images/200-usd-tax-exemption.webp"
 image_alt: "Porezno izuzeće do 200 USD za plaćanja stablecoinima u SAD-u"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["stablecoini", "kripto-placanja", "porezi", "kripto-regulacija", "usa", "zakon", "staking", "rudarenje"]
 summary: "Američki zakonodavci predlažu porezno izuzeće do 200 USD za mala plaćanja stablecoinima te odgodu oporezivanja nagrada od stakinga i rudarenja."
+categories: ["news"]
 ---
 
 # Porezno izuzeće za mala kripto-plaćanja u SAD-u

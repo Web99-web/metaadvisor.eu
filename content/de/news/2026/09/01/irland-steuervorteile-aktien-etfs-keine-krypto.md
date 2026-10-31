@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "ireland-tax-perks-stocks-etfs-no-crypto-2026-09-01"
 source: "Department of Finance Ireland, Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
-featured_image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
-image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
-thumbnail: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.png"
+image_url: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
+featured_image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
+image: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
+thumbnail: "/images/informative/Ireland-tax-perks-traditional-investments-no-crypto.webp"
 image_alt: "Irland plant steuerbegünstigte Anlagekonten für Aktien und ETFs, während Krypto ausgeschlossen bleibt"
 image_credit: "Metaadvisor.eu"
 tags: ["Irland", "Krypto", "Kryptowährungen", "Bitcoin", "Investitionen", "Anlegen", "ETF", "Aktien", "Anleihen", "Investmentfonds", "Steuern", "Steuervorteile", "Privatanleger", "Finanzmärkte", "Regulierung", "Europäische Union"]
 description: "Irland plant ein neues steuerbegünstigtes Anlagekonto für Privatanleger, das Aktien, Anleihen, ETFs und Fonds umfassen soll, während Krypto-Assets und Derivate ausgeschlossen bleiben."
 summary: "Die neuen irischen Anlagekonten sollen ab 2027 einfacheres und steuerlich günstigeres Investieren in traditionelle Finanzanlagen ermöglichen. Krypto und Derivate bleiben ausgeschlossen, da die Regierung sie als komplexere und riskantere Produkte einstuft."
+categories: ["Crypto"]
 ---
 
 # Irland gewährt Steuervorteile für Aktien und ETFs – aber nicht für Krypto

@@ -7,14 +7,15 @@ translationKey: "cypherpunk_zcash_29m_2025"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Cyperpunk-technologies-Zcash-zec.png"
-featured_image: "/images/Cyperpunk-technologies-Zcash-zec.png"
-image: "/images/Cyperpunk-technologies-Zcash-zec.png"
-thumbnail: "/images/Cyperpunk-technologies-Zcash-zec.png"
+image_url: "/images/Cyperpunk-technologies-Zcash-zec.webp"
+featured_image: "/images/Cyperpunk-technologies-Zcash-zec.webp"
+image: "/images/Cyperpunk-technologies-Zcash-zec.webp"
+thumbnail: "/images/Cyperpunk-technologies-Zcash-zec.webp"
 image_alt: "Cypherpunk Technologies kupuje Zcash (ZEC) u vrijednosti 29 milijuna dolara"
 image_credit: "MetaAdvisor.eu"
 tags: ["zcash", "zec", "privacy-coins", "kripto", "crypto", "institucionalni-kripto", "crypto-treasury", "nasdaq"]
 summary: "Američka, NASDAQ-izlistana tvrtka Cypherpunk Technologies kupila je Zcash u vrijednosti 29 milijuna dolara, jasno signalizirajući da privatnost vidi kao ključnu stratešku temu u kriptu."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

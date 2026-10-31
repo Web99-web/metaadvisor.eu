@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Magic Eden", "NFT", "Ethereum", "EVM", "Krypto-Sicherheit", "White Hats", "Wallet", "Smart Contract", "Blockchain"]
 description: "Eine White-Hat-Operation verschob 3.832 NFTs aus Hunderten Wallets, nachdem eine mögliche Sicherheitslücke im Zusammenhang mit Magic Eden entdeckt worden war."
 summary: "Tausende NFTs wurden für 0 ETH verschoben, nachdem der Verdacht auf eine mit Magic Eden verbundene Schwachstelle aufgekommen war. 0xQuit von Yuga Labs sagt, es habe sich um eine White-Hat-Operation gehandelt und die NFTs würden zurückgegeben, sobald die Gefahr vorüber sei."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

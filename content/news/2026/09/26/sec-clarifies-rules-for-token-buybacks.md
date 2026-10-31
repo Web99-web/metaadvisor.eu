@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["SEC", "token buyback", "crypto regulation", "DeFi", "tokens", "Howey test", "HYPE", "JUP", "AAVE", "PUMP"]
 description: "The SEC's Division of Corporation Finance clarified how it views token buybacks, the development of functional crypto networks and activities relevant to the application of the Howey test."
 summary: "SEC staff said that in an already functional crypto system, merely announcing a buyback program for a non-security token does not constitute a promise of essential managerial efforts. The regulatory analysis can be different for networks that are not yet functional."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

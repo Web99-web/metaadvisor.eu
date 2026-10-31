@@ -16,6 +16,7 @@ image_alt: "Discord ID photos breach"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags: ["discord","hack","data-breach","id-photos","cybersecurity","privacy","security","third-party","identity-theft"]
 summary: "A Discord third-party provider was hacked, potentially exposing up to 70,000 users’ ID photos. Passwords and full card data were not part of the leak."
+categories: ["news"]
 ---
 
 Up to **70,000 Discord users** may be affected after a third-party **age-verification** vendor was compromised.

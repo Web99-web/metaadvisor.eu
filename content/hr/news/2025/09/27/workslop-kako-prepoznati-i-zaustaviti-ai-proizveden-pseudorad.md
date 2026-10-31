@@ -35,6 +35,7 @@ tags:
   - stanford
 
 summary: "‘Workslop’ je AI-generirani pseudorad koji izgleda uredno, ali ne pomiče posao naprijed. Kako nastaje, kako ga prepoznati u praksi (slajdovi, ‘bilješke sa sastanka’, beskrajna podešavanja bannera) i kako ga zaustaviti guardrailsima i jasnim ciljem."
+categories: ["ai"]
 ---
 
 > **Definicija (HBR / BetterUp Labs)**  

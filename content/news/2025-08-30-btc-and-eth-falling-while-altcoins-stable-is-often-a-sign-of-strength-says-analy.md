@@ -9,6 +9,7 @@ summary: "Analyst Alex Krüger argues bearish-looking charts and options skew po
 tags: ["crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/BTCETHaltcoins-strength.jpg?auto=format&width=1920"
 image: "https://www.coindesk.com/resizer/v2/BTCETHaltcoins-strength.jpg?auto=format&width=1920"
+categories: ["crypto"]
 ---
 
 Crypto analyst and macroeconomist **Alex Krüger** believes the market looks so broken and bearish that it could actually turn bullish.  

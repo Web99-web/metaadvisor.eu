@@ -15,6 +15,7 @@ image_alt: "Bot trading safety checklist"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ai trading","bot trading","crypto","mexc","hyperliquid","kryll","futures","spot grid","grid bot","bitcoin","btc","eth","sol","risk management","beginner tips","automation"]
 summary: "Najvažnija sigurnosna pravila za korištenje AI i grid botova na MEXC, Hyperliquid i Kryll. Jednostavna checklista koja početnicima sprječava najveće gubitke."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -38,6 +38,7 @@ tags:
   - liquidity
 
 summary: "Weekly, monthly and quarterly options expiries (OPEX) create supply/demand waves that can pull BTC/ETH toward ‘max pain’ zones. Here’s the mechanics, typical patterns and the practical signals to watch."
+categories: ["crypto"]
 ---
 
 > **Note:** Image is symbolic.

@@ -8,14 +8,15 @@ source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/"
 author: "TechCrunch"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Dear-Algo.png"
-featured_image: "/images/Dear-Algo.png"
-image: "/images/Dear-Algo.png"
-thumbnail: "/images/Dear-Algo.png"
+image_url: "/images/Dear-Algo.webp"
+featured_image: "/images/Dear-Algo.webp"
+image: "/images/Dear-Algo.webp"
+thumbnail: "/images/Dear-Algo.webp"
 image_alt: "Threads Dear Algo AI personalizacija feeda"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["threads", "ai", "umjetna inteligencija", "meta", "društvene mreže", "algoritam", "personalizacija", "big tech", "digitalne platforme"]
 summary: "Threads, Meta-ina društvena mreža slična X-u i popularna u SAD-u i UK-u, uvodi AI funkciju 'Dear Algo' kojom korisnici mogu privremeno prilagoditi sadržaj svog feeda."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

@@ -1,15 +1,18 @@
 ---
+type: news
+url: /hr/azija-jutarnji-briefing-2025-09-14/
 title: "Azija: jutarnji briefing — Japan planira 20% kripto porez do 2026., Hong Kong pokreće stablecoin režim, Koreja uvodi globalno dijeljenje podataka"
 slug: "azija-jutarnji-briefing-2025-09-14"
 date: 2025-09-14T07:45:00Z
 category: "crypto"
-translationKey: "asia-briefing-2025-09-14"
+translationKey: "asia-briefing-2025-09-14--unpaired-f67f6a5f5e83"
 source: "Sastavljeno iz više izvora (CoinDesk, Reuters, HKMA, itd.)"
 source_url: "https://www.coindesk.com/markets/asia-morning-briefing"
 image_url: "/images/asia-briefing.jpg"
 image_alt: "Noćni pogled na azijski financijski distrikt i grafikon kripto tržišta"
 tags: ["asia","macro","policy","stablecoin","tax"]
 summary: "Japan cilja jedinstveni 20% kripto porez do 2026.; Hong Kongov stablecoin režim stupio je na snagu; Južna Koreja ulazi u OECD CARF dijeljenje podataka; Pakistanska rasprava o kriptu i hawali."
+categories: ["crypto"]
 ---
 
 **1) Japan: put prema jedinstvenom 20% kripto porezu (do 2026.)**  

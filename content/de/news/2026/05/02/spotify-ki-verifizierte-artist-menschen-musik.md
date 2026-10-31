@@ -7,14 +7,15 @@ translationKey: "afec6c1c833f3eb6c59c515da624c212"
 source: "Metaadvisor (TechCrunch, Branchenberichte, Tech-Medien)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Spotify-AI.png"
-featured_image: "/images/Spotify-AI.png"
-image: "/images/Spotify-AI.png"
-thumbnail: "/images/Spotify-AI.png"
+image_url: "/images/Spotify-AI.webp"
+featured_image: "/images/Spotify-AI.webp"
+image: "/images/Spotify-AI.webp"
+thumbnail: "/images/Spotify-AI.webp"
 image_alt: "Spotify KI verifizierte Künstler und Unterschied zwischen KI und echten Musikern"
 image_credit: "Metaadvisor.eu"
 tags: ["spotify ki badge", "ki musik spotify", "verifizierte kuenstler spotify", "ki musiker", "generative musik ki", "digitale identitaet musik", "ki content problem", "streaming plattformen ki", "musikindustrie ki", "authentizitaet online"]
 summary: "Spotify führt ein ‘Verified by Spotify’ Badge ein, um echte Künstler von KI-generierten Profilen zu unterscheiden und auf das wachsende Problem von KI-Inhalten zu reagieren."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

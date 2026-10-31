@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/02/waymo-expands-to-denver-and-seatt
 summary: "Waymo adds Denver and Seattle to its expansion roadmap, testing its robotaxi tech under harsher weather conditions with an eye toward commercialization."
 tags: ["waymo", "google", "autonomous", "robotaxi", "EV", "zeekr", "denver", "seattle"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Waymo_Chrysler_Pacifica_in_Los_Altos.jpg"
+categories: ["news"]
 ---
 
 Waymo announced Tuesday that it’s going to bring both of its vehicles — the Jaguar I-Pace SUV and the Zeekr van — to Denver and Seattle starting this week, the latest move in a continued expansion across the United States.

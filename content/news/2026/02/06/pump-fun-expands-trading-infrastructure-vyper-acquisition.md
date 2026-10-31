@@ -7,14 +7,15 @@ translationKey: "pumpfun-vyper-acquisition-trading-infrastructure-2026-02-06"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/pump-fun-vyper-acquisition-trading-infrastructure"
 author: "MetaAdvisor.eu"
-image_url: "/images/Pump-fun1.png"
-featured_image: "/images/Pump-fun1.png"
-image: "/images/Pump-fun1.png"
-thumbnail: "/images/Pump-fun1.png"
+image_url: "/images/Pump-fun1.webp"
+featured_image: "/images/Pump-fun1.webp"
+image: "/images/Pump-fun1.webp"
+thumbnail: "/images/Pump-fun1.webp"
 image_alt: "Pump.fun expands trading infrastructure and consolidates tools in the Solana ecosystem"
 image_credit: "MetaAdvisor.eu"
 tags: ["pump.fun", "vyper", "solana", "memecoin", "crypto trading", "trading infrastructure", "crypto tools", "defi"]
 summary: "Pump.fun has acquired the trading terminal Vyper and integrated its tools into Pump.fun Terminal, strengthening its control over the full trading workflow in the Solana ecosystem."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

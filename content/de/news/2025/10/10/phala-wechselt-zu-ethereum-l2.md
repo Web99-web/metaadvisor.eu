@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/polkadot-parachain-phala-votes-switch-ethereum-l2"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/phala-to-ethl2.png"
-featured_image: "/images/phala-to-ethl2.png"
-image: "/images/phala-to-ethl2.png"
-thumbnail: "/images/phala-to-ethl2.png"
+image_url: "/images/phala-to-ethl2.webp"
+featured_image: "/images/phala-to-ethl2.webp"
+image: "/images/phala-to-ethl2.webp"
+thumbnail: "/images/phala-to-ethl2.webp"
 image_alt: "Phala Network migriert von Polkadot zu Ethereum L2"
 image_credit: "Metaadvisor.eu (symbolisches Bild)"
 tags: ["phala","pha","ethereum","l2","polkadot","parachain","migration","ai","confidential-computing","web3","evm"]
 summary: "Phala Network, ein auf AI & Confidential Computing ausgerichteter Polkadot-Parachain, hat für eine vollständige Migration auf eine Ethereum-L2 gelotst. Gründe: größeres Dev-Ökosystem und mehr Liquidität im EVM-Umfeld."
+categories: ["crypto"]
 ---
 
 **Was ist Phala Network?**  

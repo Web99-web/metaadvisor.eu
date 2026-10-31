@@ -15,6 +15,7 @@ image_alt: "UK Competition and Markets Authority and Google AI Overviews regulat
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Google Search", "AI Overviews", "AI Search", "CMA", "Competition and Markets Authority", "UK regulator", "Big Tech", "SEO", "organic traffic", "web traffic", "publishers", "AI regulation", "digital markets", "German court ruling", "Metaadvisor"]
 summary: "The UK Competition and Markets Authority has introduced new binding rules for Google Search, including AI Overviews. After months of debate about website traffic losses and a recent German court ruling on liability for AI answers, Europe is increasingly showing that AI search is no longer just a technical issue."
+categories: ["AI"]
 ---
 
 The image is symbolic.

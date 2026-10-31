@@ -7,14 +7,15 @@ translationKey: "zcash_winner_1010_20251127"
 source: "MetaAdvisor – Analyse"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Zcash-winner-of-10.10-crash.png"
-featured_image: "/images/Zcash-winner-of-10.10-crash.png"
-image: "/images/Zcash-winner-of-10.10-crash.png"
-thumbnail: "/images/Zcash-winner-of-10.10-crash.png"
+image_url: "/images/Zcash-winner-of-10.10-crash.webp"
+featured_image: "/images/Zcash-winner-of-10.10-crash.webp"
+image: "/images/Zcash-winner-of-10.10-crash.webp"
+thumbnail: "/images/Zcash-winner-of-10.10-crash.webp"
 image_alt: "Zcash einziger Gewinner des 10.10.2025"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["zcash","zec","bitcoin","btc","krypto","kryptowährungen","zero knowledge","zk","privacy","blockchain","marktanalyse","altcoins","2025","technologie","investitionen"]
 summary: "Zcash war der einzige große Altcoin, der am 10.10.2025 stieg, während der Rest des Marktes fiel. In drei Monaten legte er über 1100% zu."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

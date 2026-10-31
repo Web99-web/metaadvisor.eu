@@ -15,6 +15,7 @@ image_alt: "Yield im Krypto durch Staking, Lending und Validierung"
 image_credit: "MetaAdvisor.eu"
 tags: ["krypto", "rendite", "bitcoin", "ethereum", "solana", "staking", "defi", "investition", "passives einkommen", "markt", "analyse"]
 summary: "Während der Markt in eine ruhigere Phase eintritt, konzentrieren sich Investoren zunehmend auf Renditen statt auf Preiswachstum. Yield wird zu einem entscheidenden Faktor für langfristige Strategien."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

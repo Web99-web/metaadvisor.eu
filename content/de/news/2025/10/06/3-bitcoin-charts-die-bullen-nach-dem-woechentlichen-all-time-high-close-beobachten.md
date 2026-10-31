@@ -16,6 +16,7 @@ image_alt: "Bitcoin — symbolische Visualisierung"
 image_credit: "Metaadvisor.eu — symbolisches Bild"
 tags: ["crypto", "bitcoin", "BTC", "technische Analyse", "ATH", "200WMA", "realized-price", "weekly-close", "Liquidität", "ETF"]
 summary: "Bitcoin schloss die Woche auf einem neuen ATH. Drei Referenzsignale — 200WMA, Realized Price und Weekly Close — deuten auf eine frühe Bullenphase hin, bei gleichzeitiger Vorsicht vor Überhitzung."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

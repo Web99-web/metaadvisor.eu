@@ -15,6 +15,7 @@ image_alt: "Claude Monet Water Lilies, an image used for a discussion about AI p
 image_credit: "Claude Monet / gigi4791, Louvre, Wikimedia Commons, CC BY 2.0"
 tags: ["ai", "artificial intelligence", "generative art", "ai art", "monet", "claude monet", "water lilies", "shl0ms", "viral experiment", "social media", "x", "perception", "bias", "confirmation bias", "ai slop", "art", "digital art", "authenticity", "openai", "generative ai", "culture", "technology", "Metaadvisor", "Metaadvisor.eu"]
 summary: "A viral experiment in which a real Monet painting was presented as AI-generated showed how strongly a label can change our perception of art. Once people believed they were looking at AI, many began to see flaws they might not have noticed if they had known they were looking at Monet."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

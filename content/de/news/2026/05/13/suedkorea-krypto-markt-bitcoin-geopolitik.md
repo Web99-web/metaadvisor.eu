@@ -7,14 +7,15 @@ translationKey: "be610d35e57e276b2470f9df726f5c0f"
 source: "Metaadvisor (Cointelegraph, The Chosun Daily)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Korea-flag1.png"
-featured_image: "/images/Korea-flag1.png"
-image: "/images/Korea-flag1.png"
-thumbnail: "/images/Korea-flag1.png"
+image_url: "/images/Korea-flag1.webp"
+featured_image: "/images/Korea-flag1.webp"
+image: "/images/Korea-flag1.webp"
+thumbnail: "/images/Korea-flag1.webp"
 image_alt: "Südkoreanischer Kryptomarkt und Bitcoin-Stimmung"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "krypto", "kryptowaehrungen", "suedkorea", "retail investor", "marktstimmung", "geopolitik", "fed", "stablecoins", "altcoins", "trading", "bitcoin markt", "risikoanlagen", "marktrotation"]
 summary: "Die Krypto-Bestände südkoreanischer Investoren sind fast um 50 % gefallen, doch einige Analysten glauben, dass Anleger möglicherweise nur auf eine Entspannung der geopolitischen Lage warten, bevor sie in Bitcoin und Kryptowährungen zurückkehren."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Das Bild ist symbolisch.</em></p>

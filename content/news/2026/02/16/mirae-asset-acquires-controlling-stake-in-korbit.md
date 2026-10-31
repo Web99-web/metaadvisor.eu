@@ -7,14 +7,15 @@ translationKey: "97c36a387d97fc0094ec99ddec5bf19e"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/mirae-asset-buy-92-percent-korbit-korea-crypto-exchange"
 author: "Cointelegraph"
-image_url: "/images/Korbit-Mirae-Asset.png"
-featured_image: "/images/Korbit-Mirae-Asset.png"
-image: "/images/Korbit-Mirae-Asset.png"
-thumbnail: "/images/Korbit-Mirae-Asset.png"
+image_url: "/images/Korbit-Mirae-Asset.webp"
+featured_image: "/images/Korbit-Mirae-Asset.webp"
+image: "/images/Korbit-Mirae-Asset.webp"
+thumbnail: "/images/Korbit-Mirae-Asset.webp"
 image_alt: "Mirae Asset acquires majority stake in crypto exchange Korbit"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["mirae asset", "korbit", "south korea", "crypto exchange", "digital assets", "acquisition", "bitcoin", "cryptocurrency", "regulation", "financial markets"]
 summary: "South Korean financial giant Mirae Asset is acquiring a 92% stake in crypto exchange Korbit for $93 million, strengthening its position in the regulated digital asset market."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

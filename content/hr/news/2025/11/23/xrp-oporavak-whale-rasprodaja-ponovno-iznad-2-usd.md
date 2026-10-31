@@ -12,6 +12,7 @@ image: "/images/xrp.png"
 thumbnail: "/images/xrp.png"
 summary: "XRP se oporavlja nakon jučerašnje kapitulacije whale novčanika, dok se Bitcoin stabilizira na 86.600 USD."
 tags: ["xrp", "kripto", "tržište", "analiza", "bitcoin"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

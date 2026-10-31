@@ -13,6 +13,7 @@ image_alt: "BNB — symbolische Illustration"
 image_credit: "Metaadvisor (symbolisches Bild)"
 tags: ["BNB", "Binance", "BNB-Chain", "opBNB", "BEP-95", "Auto-Burn", "Deflation", "On-Chain-Aktivität", "Derivate", "Short-Squeeze", "Funding", "Open-Interest", "Volatilität", "Technische-Analyse"]
 summary: "BNB legte übers Wochenende still und leise um rund 10 % zu und übertraf damit den Gesamtmarkt — während viele Token fielen. Hier sind die Treiber und mögliche Szenarien für die nächsten Wochen."
+categories: ["news"]
 ---
 
 **Kurz & knapp:**  

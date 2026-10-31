@@ -7,14 +7,15 @@ translationKey: "hype-hyperliquid-relative-strength-2026-02-04"
 source: "MetaAdvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hype-up.png"
-featured_image: "/images/Hype-up.png"
-image: "/images/Hype-up.png"
-thumbnail: "/images/Hype-up.png"
+image_url: "/images/Hype-up.webp"
+featured_image: "/images/Hype-up.webp"
+image: "/images/Hype-up.webp"
+thumbnail: "/images/Hype-up.webp"
 image_alt: "Illustration of HYPE token price movement and correction amid market pressure"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["hype", "hyperliquid", "altcoins", "relative strength", "crypto", "bitcoin", "liquidity", "trading", "derivatives"]
 summary: "While much of the crypto market declined alongside Bitcoin, the HYPE token demonstrated notable relative strength. However, its correction also highlights the limits of altcoin resilience in a liquidity-driven market."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

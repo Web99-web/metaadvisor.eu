@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "meta-safety-director-signal-not-whatsapp-arturo-bejar-2026-08-27"
 source: "US federal court filings, Reuters, AP, The Guardian, KQED, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.png"
-featured_image: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.png"
-image: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.png"
-thumbnail: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.png"
+image_url: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.webp"
+featured_image: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.webp"
+image: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.webp"
+thumbnail: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.webp"
 image_alt: "Metas ehemaliger Sicherheitsdirektor Arturo Béjar nutzte Signal statt WhatsApp für einen Teil seiner sensiblen Kommunikation"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Meta", "Facebook", "Instagram", "WhatsApp", "Signal", "Arturo Béjar", "Sicherheit", "Datenschutz", "verschlüsselte Nachrichten", "Ende-zu-Ende-Verschlüsselung", "verschwindende Nachrichten", "Zeugenaussage", "Gericht", "Mark Zuckerberg", "Regulierung", "Kalifornien", "Colorado", "Kentucky", "New Jersey", "Arizona", "Connecticut", "Delaware", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Kansas", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "Missouri", "Nebraska", "New York", "North Carolina", "North Dakota", "Ohio", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Virginia", "Washington", "West Virginia", "Wisconsin", "Utah", "Massachusetts", "Mississippi", "New Hampshire", "Oklahoma", "Tennessee", "Vermont", "Florida"]
 description: "Arturo Béjar arbeitete jahrelang an der Sicherheit von Facebook- und Instagram-Nutzern. In einem großen US-Rechtsstreit gegen Meta wurde ein ungewöhnliches Detail bekannt: Für einen Teil seiner sensiblen Kommunikation nutzte er Signal und nicht WhatsApp, das Meta selbst gehört."
 summary: "Der ehemalige Facebook-Sicherheitsdirektor Arturo Béjar nutzte Signal mit verschwindenden Nachrichten für einen Teil der Kommunikation im Zusammenhang mit Verfahren gegen Meta. Er erklärte, dass er als Sicherheitsexperte besonderen Wert auf die operative Sicherheit seiner Kommunikation legt. Meta versuchte wegen der verschwundenen Signal-Nachrichten, seine Aussage zu verhindern, doch das Gericht ließ ihn dennoch aussagen."
+categories: ["Technology"]
 ---
 
 *Das Bild ist symbolisch.*
@@ -100,7 +101,7 @@ Signal ist nicht einfach nur eine weitere WhatsApp-Alternative. Seine Eigentüme
 Darüber, wer hinter Signal steht, wie die Verschlüsselung funktioniert und warum sich immer mehr Menschen für die App statt WhatsApp entscheiden, haben wir bereits ausführlich berichtet:
 
 <a href="https://metaadvisor.eu/de/news/signal-wer-steht-hinter-der-app-datenschutz-whatsapp-alternative/" target="_blank" rel="noopener">
-<img src="/images/companies/Signal-app.png"
+<img src="/images/companies/Signal-app.webp"
      alt="Signal: Wer steht hinter der App, die immer mehr Menschen statt WhatsApp wählen?"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

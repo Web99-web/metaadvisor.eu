@@ -10,6 +10,7 @@ image_url: "/images/btc1.jpg"
 image_alt: "Bitcoin chart alongside macro indicators"
 tags: ["crypto","macro","btc"]
 summary: "Stubborn inflation and softer jobs have boosted rate-cut hopes, giving risk assets — including bitcoin — a near-term tailwind."
+categories: ["crypto"]
 ---
 
 Bitcoin (BTC) at **$115,426** is about **4%** higher than a week ago — good for the digital asset, less so for the economy. The downbeat tone of last week’s macro data **lifted expectations** that the **Federal Reserve** will **cut rates** on Wednesday, making risk assets like equities and bitcoin more attractive.

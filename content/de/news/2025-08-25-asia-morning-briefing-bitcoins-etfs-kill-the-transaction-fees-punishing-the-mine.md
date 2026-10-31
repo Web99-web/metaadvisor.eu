@@ -9,6 +9,7 @@ summary: "Kapital fließt in ETFs und Custodians, Solana fängt den Retail-Verke
 tags: ["bitcoin","btc","crypto","etf","miner","gebuehren","onchain","solana","glassnode","galaxy-research","mempool","blockspace"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/97923967111fc17f0fde0f4fbc3b5ad6e63c4396-1920x1280.jpg?auto=format"
 image_alt: "Goldene Bitcoin-Tokens (Kanchanara/Unsplash)"
+categories: ["crypto"]
 ---
 
 Willkommen beim **Asia Morning Briefing**, der täglichen Zusammenfassung der wichtigsten Meldungen aus den US-Stunden sowie einem Marktüberblick mit Analyse. Einen detaillierten Überblick über die US-Märkte bietet das CoinDesk **Crypto Daybook Americas**.

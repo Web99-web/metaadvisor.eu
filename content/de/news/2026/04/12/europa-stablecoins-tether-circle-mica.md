@@ -7,14 +7,15 @@ translationKey: "eu-stablecoin-adoption-2026"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/banks-corporates-europe-actively-selecting-partners-stablecoin-push"
-image_url: "/images/Tether-Circle.png"
-featured_image: "/images/Tether-Circle.png"
-image: "/images/Tether-Circle.png"
-thumbnail: "/images/Tether-Circle.png"
+image_url: "/images/Tether-Circle.webp"
+featured_image: "/images/Tether-Circle.webp"
+image: "/images/Tether-Circle.webp"
+thumbnail: "/images/Tether-Circle.webp"
 image_alt: "Tether und Circle Stablecoins in Europa"
 image_credit: "Metaadvisor Illustration"
 tags: ["stablecoin", "europa", "mica", "tether", "circle", "krypto", "banken", "zahlungen", "finanzen", "regulierung"]
 summary: "Europa bewegt sich von der Erkundungsphase zur Umsetzung von Stablecoins, wobei Tether und Circle als zentrale Akteure und die MiCA-Regulierung als Wendepunkt gelten."
+categories: ["crypto"]
 ---
 
 _Das Bild ist symbolisch._

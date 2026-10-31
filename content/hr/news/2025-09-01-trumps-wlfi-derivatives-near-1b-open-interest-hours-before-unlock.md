@@ -9,6 +9,7 @@ summary: "Otvoreni interes za WLFI futures dosegao je gotovo 1 mlrd. USD samo ne
 tags: ["Trump","WLFI","derivatives","futures","open-interest","crypto","Binance","DeFi"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvZDQ0NzFiYWItZmUwMy00ZWI1LTg5OTEtMzBkMGM3ZGE5N2U4LmpwZw==.jpg"
 image_url_small: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvZDQ0NzFiYWItZmUwMy00ZWI1LTg5OTEtMzBkMGM3ZGE5N2U4LmpwZw==.jpg"
+categories: ["news"]
 ---
 
 Futures tržište za **World Liberty Financial (WLFI)**, token povezan s obitelji Trump, dosegnulo je gotovo 1 milijardu USD otvorenog interesa nekoliko sati prije nego što se token otključa za trgovanje na centraliziranim burzama.  

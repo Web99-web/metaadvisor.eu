@@ -16,6 +16,7 @@ image_alt: "PEPE memecoin — tržišni zamah"
 image_credit: "Metaadvisor.eu — simbolična ilustracija"
 tags: ["crypto", "memecoins", "PEPE", "whales", "derivatives", "open-interest", "akumulacija", "likvidnost"]
 summary: "PEPE je +2,5% i prestiže memecoin indeks; 100 najvećih adresa povećalo zalihe za 4,28% u zadnjih 30 dana, dok se futures interes penje na 645 mil. $. Kitovi jasno šalju signal — kupuju i akumuliraju."
+categories: ["news"]
 ---
 
 **PEPE je opet nadigrao konkurenciju.** U zadnja 24 sata skočio je **+2,5%**, dok je širi memecoin indeks (CDMEME) ostao nešto slabiji. Još važnije od postotaka — priča je tko kupuje.

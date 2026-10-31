@@ -7,14 +7,15 @@ translationKey: "10405797257f623e51c53db9f173f8f0"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/blackrock-enters-defi-institutional-crypto-push-finance-redefined"
 author: "Cointelegraph"
-image_url: "/images/blackrock-defi-uniswap.png"
-featured_image: "/images/blackrock-defi-uniswap.png"
-image: "/images/blackrock-defi-uniswap.png"
-thumbnail: "/images/blackrock-defi-uniswap.png"
+image_url: "/images/blackrock-defi-uniswap.webp"
+featured_image: "/images/blackrock-defi-uniswap.webp"
+image: "/images/blackrock-defi-uniswap.webp"
+thumbnail: "/images/blackrock-defi-uniswap.webp"
 image_alt: "BlackRock Einstieg in DeFi über Uniswap"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["blackrock", "defi", "krypto", "crypto", "ethereum", "uniswap", "bitcoin", "tokenisierung", "institutionelle investoren", "blockchain", "etf", "rwa"]
 summary: "BlackRock bringt seinen tokenisierten US-Treasury-Fonds auf Uniswap und setzt damit ein klares Signal für institutionelles DeFi. Trotz ETF-Abflüssen bleibt das strategische Interesse groß."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

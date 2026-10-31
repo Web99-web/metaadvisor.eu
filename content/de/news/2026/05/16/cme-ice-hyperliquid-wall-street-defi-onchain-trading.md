@@ -7,15 +7,16 @@ translationKey: "c3f2b7a1d94e4a51a8bcfe2197aa6e44"
 source: "Metaadvisor (Bloomberg, CryptoBriefing, U.Today, Yahoo Finance, X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/wall-street-vs-crypto.png"
-featured_image: "/images/wall-street-vs-crypto.png"
-image: "/images/wall-street-vs-crypto.png"
-thumbnail: "/images/wall-street-vs-crypto.png"
+image_url: "/images/wall-street-vs-crypto.webp"
+featured_image: "/images/wall-street-vs-crypto.webp"
+image: "/images/wall-street-vs-crypto.webp"
+thumbnail: "/images/wall-street-vs-crypto.webp"
 image_alt: "Wall Street vs Crypto"
 image_credit: "Metaadvisor.eu"
 tags: ["hyperliquid", "hype", "cme", "ice", "nyse", "wall street", "defi", "krypto", "onchain trading", "perpetuals", "decentralized exchange", "blockchain", "trading", "finanzmärkte"]
 summary: "Bloomberg berichtete, dass CME Group und ICE angeblich regulatorischen Druck auf Hyperliquid fordern, während Hyperliquid die Sorgen über Transparenz und Manipulation als unbegründet zurückweist."
 draft: false
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.7;">

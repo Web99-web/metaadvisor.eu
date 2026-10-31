@@ -7,14 +7,15 @@ translationKey: "ai-doomsday-feedback-loop-2026"
 source: "The Guardian Tech; Citrini Research (Substack)"
 source_url: "https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-doomsday-loop.png"
-featured_image: "/images/AI-doomsday-loop.png"
-image: "/images/AI-doomsday-loop.png"
-thumbnail: "/images/AI-doomsday-loop.png"
+image_url: "/images/AI-doomsday-loop.webp"
+featured_image: "/images/AI-doomsday-loop.webp"
+image: "/images/AI-doomsday-loop.webp"
+thumbnail: "/images/AI-doomsday-loop.webp"
 image_alt: "AI feedback loop scenarij i ekonomski utjecaj umjetne inteligencije"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["AI", "umjetna inteligencija", "Citrini Research", "AI ekonomija", "automatizacija", "nezaposlenost", "tržišna volatilnost", "makroekonomija", "AI agenti", "Wall Street", "Uber", "Mastercard", "American Express", "DoorDash", "regulacija AI"]
 summary: "Citrini Research na Substacku objavio je spekulativni AI scenarij sudnjeg dana u kojem autonomni agenti pokreću ekonomsku spiralu bez kočnice. Guardian Tech piše da je izvještaj uzdrmao tržišta i srušio dionice pojedinih velikih kompanija."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

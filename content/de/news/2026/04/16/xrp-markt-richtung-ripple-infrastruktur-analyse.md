@@ -15,6 +15,7 @@ image_alt: "XRP Marktanalyse und Ripple Infrastruktur"
 image_credit: "Metaadvisor.eu"
 tags: ["xrp", "ripple", "krypto", "trading", "analyse", "blockchain", "finanzen", "markt", "tokenisierung"]
 summary: "XRP befindet sich zwischen stagnierendem Preis und wachsender fundamentaler Infrastruktur von Ripple, was die Frage aufwirft, wann der Markt reagieren wird."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/25/chainlink-partners-with
 summary: "Despite the major partnership, LINK declined 5% over the past 24 hours along with broader crypto weakness."
 tags: ["crypto","chainlink","link","sbi","japan","ccip","stablecoins","tokenization","rwa","project-guardian","mas","proof-of-reserve"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/d29061902f54783c5b2d589086db14112934e986-700x430.png?auto=format"
+categories: ["crypto"]
 ---
 
 Native token of oracle network Chainlink **LINK $ 23.20** declined in tandem with the broader crypto market despite a fresh partnership with Japanese financial giant **SBI Group**.

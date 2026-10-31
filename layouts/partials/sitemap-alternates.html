@@ -1,0 +1,7 @@
+{{/* Only existing preferred article versions enter sitemap language clusters. */}}
+{{- $links := slice -}}
+{{- range .AllTranslations -}}
+  {{- $policy := partial "article-policy.html" . -}}
+  {{- if and $policy.Preferred (not .Sitemap.Disable) -}}{{- $links = $links | append (dict "Lang" .Lang "URL" .Permalink) -}}{{- end -}}
+{{- end -}}
+{{- return $links -}}

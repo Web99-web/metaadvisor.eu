@@ -16,6 +16,7 @@ image_alt: "Digital future & regulatory oversight — symbolic illustration"
 image_credit: "Metaadvisor image_map (symbolic image)"
 tags: ["regulation", "privacy", "compliance", "blockchain", "DeFi", "KYC", "AML", "FATF-Travel-Rule", "MiCA", "AMLA", "sanctions", "on-chain-analytics", "regtech", "ZK", "MPC", "self-custody", "stablecoins", "identity", "privacy-coin", "tokenization", "AI-surveillance"]
 summary: "A fresh wave of rules — from the Travel Rule and AML to the EU’s MiCA/AMLA — pushes crypto toward tighter KYC/monitoring. It exposes pain points around privacy, identity and the ‘last mile’ of compliance."
+categories: ["ai"]
 ---
 
 **Summary:**  

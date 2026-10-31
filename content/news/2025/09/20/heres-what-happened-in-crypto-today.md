@@ -3,7 +3,7 @@ title: "Here’s what happened in crypto today"
 slug: "heres-what-happened-in-crypto-today"
 date: 2025-09-20T12:56:25Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-09-20"
 source: "Multiple sources (see below)"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
@@ -15,6 +15,7 @@ image_alt: "Bitcoin and financial markets (symbolic illustration)"
 image_credit: "MetaAdvisor (symbolic)"
 tags: ["crypto", "markets", "regulation", "stablecoins", "ETF", "Ethereum", "FTX", "BitGo"]
 summary: "BitGo eyes an IPO, the U.S. Treasury opens comments on the GENIUS Act (stablecoins), Ethereum’s ‘Fusaka’ is slated for December, the SEC eases crypto-ETF listings, FTX lines up another payout — and markets stay cautious after the Fed’s cut."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

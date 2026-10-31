@@ -25,6 +25,7 @@ tags:
   - onramp
   - regulation
 summary: "Istraživanja sugeriraju da bi do 2025. više od 50% stanovništva Španjolske moglo koristiti kripto. Koliko ih koristi danas — i što će presuditi putu do te brojke?"
+categories: ["crypto"]
 ---
 
 Španjolska je posljednjih godina tiho gurnula kripto iz rubrike „egzotika” u svakodnevicu. Bankarske aplikacije postaju brže, naknade su niže, a EU-ov MiCAR napokon daje jasan okvir kako se to sve smije nuditi širokoj publici. Zato procjene koje govore da bi **do 2025. više od pola stanovništva** moglo koristiti kripto više ne zvuče kao sci-fi. Pitanje koje se prirodno nameće: **koliko ih zapravo koristi danas?**

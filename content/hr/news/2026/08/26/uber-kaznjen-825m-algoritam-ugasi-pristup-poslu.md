@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "uber-fined-825-million-algorithmic-decisions-2026-08-26"
 source: "CNIL, Autoriteit Persoonsgegevens, Reuters, Oversight Board, Change.org, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/uber-fined-825-millions.png"
-featured_image: "/images/news/uber-fined-825-millions.png"
-image: "/images/news/uber-fined-825-millions.png"
-thumbnail: "/images/news/uber-fined-825-millions.png"
+image_url: "/images/news/uber-fined-825-millions.webp"
+featured_image: "/images/news/uber-fined-825-millions.webp"
+image: "/images/news/uber-fined-825-millions.webp"
+thumbnail: "/images/news/uber-fined-825-millions.webp"
 image_alt: "Uber kažnjen s gotovo 825 milijuna eura zbog automatiziranih odluka o deaktivaciji vozača"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Uber", "GDPR", "automatizirano odlučivanje", "algoritmi", "vozači", "deaktivacija računa", "članak 22", "AI moderacija", "Facebook", "Instagram", "mali poduzetnici", "digitalne platforme", "privatnost", "europska regulacija"]
 description: "Uber je kažnjen s gotovo 825 milijuna eura zbog automatiziranih odluka o deaktivaciji vozača. Slučaj otvara i šire pitanje što se događa kada velike platforme ljudima ugase račun bez jasnog objašnjenja i bez vidljivog ljudskog pregleda."
 summary: "Nizozemski regulator kaznio je Uber s 824,99 milijuna eura zbog automatiziranih individualnih odluka o vozačima. Priča je važna i izvan Ubera jer otvara pitanje kako velike platforme odlučuju o gašenju računa, tko odluku stvarno donosi i što se događa kada korisnik u sekundi izgubi pristup poslu ili poslovanju."
+categories: ["Tech"]
 ---
 
 *Slika je simbolična.*
@@ -74,7 +75,7 @@ Meta Oversight Board i sam je ove godine upozorio da Meta svake godine deaktivir
 Na internetu postoji i peticija protiv pogrešnih Meta deaktivacija koja je prema javno vidljivim podacima prešla **64.000 potpisa i ide prema 65.000**, što pokazuje da problem nije ograničen na nekoliko izoliranih slučajeva. Koliko je takvih korisnika u svijetu ukupno, nitko ne zna sa sigurnošću. Moguće je da ih je mnogo više, možda stotine tisuća ili i milijuni, ali točan broj nije javno poznat.
 
 <a href="https://metaadvisor.eu/hr/news/eu-appeals-centre-europe-zastita-pada-drustvene-platforme-ignoriraju-zalbe-korisnika/" target="_blank" rel="noopener">
-  <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+  <img src="/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
        alt="EU Appeals Centre Europe i problemi korisnika društvenih platformi sa žalbama"
        style="width: 520px; max-width: 100%; height: auto;">
 </a>

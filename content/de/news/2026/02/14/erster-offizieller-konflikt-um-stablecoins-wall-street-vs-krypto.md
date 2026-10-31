@@ -7,14 +7,15 @@ translationKey: "cdc35404b7260214e1c6fc70faf97227"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2026/02/13/crypto-group-counters-wall-street-bankers-with-its-own-stablecoin-principles-for-bill"
 author: "CoinDesk"
-image_url: "/images/Banks-want-control-crypto.png"
-featured_image: "/images/Banks-want-control-crypto.png"
-image: "/images/Banks-want-control-crypto.png"
-thumbnail: "/images/Banks-want-control-crypto.png"
+image_url: "/images/Banks-want-control-crypto.webp"
+featured_image: "/images/Banks-want-control-crypto.webp"
+image: "/images/Banks-want-control-crypto.webp"
+thumbnail: "/images/Banks-want-control-crypto.webp"
 image_alt: "Offizieller Konflikt zwischen Banken und Kryptoindustrie über Stablecoins"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["stablecoin", "krypto", "crypto", "regulierung", "wall street", "banken", "rendite", "digitaler dollar", "genius act", "blockchain", "defi", "einlagen"]
 summary: "Zum ersten Mal ist der Konflikt zwischen Wall Street und der Kryptoindustrie über Stablecoin-Renditen offiziell dokumentiert, während der US-Senat über neue Kryptoregeln debattiert."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

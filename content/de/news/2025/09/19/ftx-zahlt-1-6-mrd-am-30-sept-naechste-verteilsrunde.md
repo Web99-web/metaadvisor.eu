@@ -16,6 +16,7 @@ image_alt: "FTX kündigt Auszahlungen an Gläubiger zum 30. September an (symbol
 image_credit: "MetaAdvisor (symbolische Grafik)"
 tags: ["Krypto", "FTX", "Insolvenz", "Gläubiger", "Recovery", "Distribution"]
 summary: "Masse der FTX-Insolvenz zahlt am 30. September 1,6 Mrd. $ an Gläubiger aus – die dritte größere Runde seit dem Kollaps der Börse."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-buries-the-tulip-myth-after-17-years-of-proven-resilience-balchunas"
 author: "Cointelegraph — prijevod i analiza MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/BTC-tulips.png"
-featured_image: "/images/BTC-tulips.png"
-image: "/images/BTC-tulips.png"
-thumbnail: "/images/BTC-tulips.png"
+image_url: "/images/BTC-tulips.webp"
+featured_image: "/images/BTC-tulips.webp"
+image: "/images/BTC-tulips.webp"
+thumbnail: "/images/BTC-tulips.webp"
 image_alt: "Bitcoin vs. tulipomanija — ilustracija"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","tulipomanija","bubble","burry","balchunas","etf","crypto","kriptovalute","povijest","analiza","institucije","financije", "Michael Burry"]
 summary: "Bitcoin više ne može biti uspoređen s tulipomanijom jer je u 17 godina preživio brojne padove, oporavke i rast institucionalnog interesa — dok je tulipomanija puknula jednom i zauvijek."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

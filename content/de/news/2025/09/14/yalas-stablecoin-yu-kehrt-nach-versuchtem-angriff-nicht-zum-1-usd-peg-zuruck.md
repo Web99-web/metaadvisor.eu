@@ -10,6 +10,7 @@ image_url: "/images/grafikon.jpg"
 image_alt: "Kursgrafik des YU-Stablecoins unter 1 USD"
 tags: ["stablecoin","defi","sicherheit"]
 summary: "Der BTC-besicherte Stablecoin YU auf Yala fiel unter den Peg und hat die 1 USD bislang nicht stabil zurückerobert; das Team untersucht den Vorfall mit SlowMist."
+categories: ["ai"]
 ---
 
 **Was ist passiert?**  

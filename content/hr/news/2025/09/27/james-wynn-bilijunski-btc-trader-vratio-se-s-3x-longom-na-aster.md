@@ -6,10 +6,10 @@ category: "crypto"
 translationKey: "james-wynn-aster-3x-long"
 author: "Metaadvisor.eu"
 
-image_url: "/images/Aster-long.png"
-featured_image: "/images/Aster-long.png"
-image: "/images/Aster-long.png"
-thumbnail: "/images/Aster-long.png"
+image_url: "/images/Aster-long.webp"
+featured_image: "/images/Aster-long.webp"
+image: "/images/Aster-long.webp"
+thumbnail: "/images/Aster-long.webp"
 image_alt: "James Wynn ASTER 3x long (symbolic)"
 image_credit: "Metaadvisor.eu"
 
@@ -31,6 +31,7 @@ tags:
   - trading psihologija
 
 summary: "James Wynn, pseudonimni whale koji je ranije otvorio $1.2B BTC long uz 40x polugu, vraća se s novim 3x longom na ASTER. Priča o rizičnim okladama, likvidacijama i airdrop farmanju ponovno otvara raspravu o budućnosti on-chain perps tržišta."
+categories: ["crypto"]
 ---
 
 ## Uvod — povratak Jamesa Wynna

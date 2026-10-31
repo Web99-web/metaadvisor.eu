@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/25/bitcoin-tumbles-back-to
 summary: "Most cryptos have taken out their Sunday flash crash lows late in the U.S. session on Monday."
 tags: ["crypto","bitcoin","btc","ethereum","eth","dogecoin","doge","solana","sol","cardano","ada","chainlink","link","market","coinglass","liquidations"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/ac92c74383170bfd38f54d428e221984d59f1c04-6510x4831.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 Hopes for a quick reversal from the weekend crypto plunge faltered on Monday with bitcoin **BTC $ 115,244.11** slipping all the way back below **$110,000**, just barely ahead of its then-euphoric price of **$109,400** touched ahead of President Trump's Jan. 20 inauguration.

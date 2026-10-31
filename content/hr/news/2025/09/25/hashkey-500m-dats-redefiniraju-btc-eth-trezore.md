@@ -31,6 +31,7 @@ tags:
   - tokenization
   - regulation
 summary: "HashKey u Hong Kongu pokreće fond od 500 mil. $ s fokusom na DAT (Digital Asset Treasury) modele — strukturirane BTC/ETH trezore s pravilima rizika, likvidnosnim ‘sleeveovima’ i hedgingom, namijenjene korporacijama i DAO-ovima."
+categories: ["crypto"]
 ---
 
 **Kratko:** **HashKey** u Hong Kongu podiže fond od **500 mil. $** kako bi razvio i širio **DAT** koncepte (*Digital Asset Treasury*): **strukturirane trezore** temeljene na **BTC/ETH-u**, s jasnim pravilima **rizika, likvidnosti i izvora prinosa**. Ideja je približiti **digitalnu imovinu** standardima **korporativnih trezora** — mjerljivo, ponovljivo i usklađeno s propisima.

@@ -7,10 +7,10 @@ translationKey: "evm_wallet_hack_jan2026"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/hundreds-evm-wallets-drained-mysterious-attack"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hack-EVM-Ethereum-Virtual-Machine.png"
-featured_image: "/images/Hack-EVM-Ethereum-Virtual-Machine.png"
-image: "/images/Hack-EVM-Ethereum-Virtual-Machine.png"
-thumbnail: "/images/Hack-EVM-Ethereum-Virtual-Machine.png"
+image_url: "/images/Hack-EVM-Ethereum-Virtual-Machine.webp"
+featured_image: "/images/Hack-EVM-Ethereum-Virtual-Machine.webp"
+image: "/images/Hack-EVM-Ethereum-Virtual-Machine.webp"
+thumbnail: "/images/Hack-EVM-Ethereum-Virtual-Machine.webp"
 image_alt: "Hack targeting Ethereum Virtual Machine (EVM) wallets"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Hundreds of EVM-compatible wallets were drained through coordinated small withdrawals, pointing to phishing and abused smart contract approvals rather than a single large exploit."
@@ -22,6 +22,7 @@ tags:
   - hack
   - cybersecurity
   - crypto
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

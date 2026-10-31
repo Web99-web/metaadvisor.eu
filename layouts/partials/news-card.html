@@ -5,7 +5,7 @@
 {{- $src := "" -}}
 
 {{/* 1) hero iz bundlea (ako postoji lokalni hero) */}}
-{{ with $pg.Resources.GetMatch "hero*" }}{{ $src = .RelPermalink }}{{ end }}
+{{ with (or ($pg.Resources.GetMatch "hero.png") ($pg.Resources.GetMatch "hero*")) }}{{ $src = .RelPermalink }}{{ end }}
 
 {{/* 2) image_url / image — SAMO lokalno; ignoriraj placeholder vrijednosti */}}
 {{ if not $src }}
@@ -46,8 +46,8 @@
   "kaspa" "/images/kaspa-kas.png" "kas" "/images/kaspa-kas.png"
   "tether" "/images/tether-usdt.png" "usdt" "/images/tether-usdt.png"
   "aave" "/images/aave.png" "cosmos" "/images/cosmos-atom.png" "atom" "/images/cosmos-atom.png"
-  "dogecoin" "/images/dogecoin-doge.png" "doge" "/images/dogecoin-doge.png"
-  "sei" "/images/sei.png" "sui" "/images/sui.png" "ordi" "/images/ordi.png" "ordinals" "/images/ordi.png"
+  "dogecoin" "/images/dogecoin-doge.webp" "doge" "/images/dogecoin-doge.webp"
+  "sei" "/images/sei.png" "sui" "/images/sui.png" "ordi" "/images/ordi.webp" "ordinals" "/images/ordi.webp"
   "avalanche" "/images/avalanche-avax.png" "avax" "/images/avalanche-avax.png"
   "bittensor" "/images/bittensor-tao.png" "tao" "/images/bittensor-tao.png"
   "finance" "/images/finance.jpg"
@@ -106,7 +106,7 @@
       {{ else }}
         <span class="badge">news</span>
       {{ end }}
-      <time datetime="{{ $pg.Date }}">{{ $pg.Date.Format "2006-01-02" }}</time>
+      <time datetime="{{ $pg.Date }}">{{ partial "reader-date.html" $pg.Date }}</time>
     </div>
     <h3 class="card-title">{{ $pg.Title }}</h3>
     {{ with $pg.Summary }}<p class="card-summary">{{ . | plainify | truncate 160 }}</p>{{ end }}

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/06/cardano-s-bearish-retai
 summary: "The sentiment dip coincided with a 5% rebound, suggesting frustrated sellers may have helped mark a local bottom."
 tags: ["crypto", "cardano", "ada", "whales", "trading", "sentiment"]
 image_url: "/images/cardano-ada-logo.png"
+categories: ["crypto"]
 ---
 
 **Cardano’s retail base** has turned bearish after weeks of price declines, creating conditions where **whales** could step in to accumulate.  

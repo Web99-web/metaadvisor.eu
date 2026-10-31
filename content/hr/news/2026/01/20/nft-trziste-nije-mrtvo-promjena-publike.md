@@ -7,14 +7,15 @@ translationKey: "8142995bb5e426335061fe58c55b9e17"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2026/01/19/nfts-are-not-dead-wealthy-crypto-collectors-are-still-driving-the-market-says-animoca-brands-yat-siu"
 author: "MetaAdvisor.eu"
-image_url: "/images/NFT.png"
-featured_image: "/images/NFT.png"
-image: "/images/NFT.png"
-thumbnail: "/images/NFT.png"
+image_url: "/images/NFT.webp"
+featured_image: "/images/NFT.webp"
+image: "/images/NFT.webp"
+thumbnail: "/images/NFT.webp"
 image_alt: "Ilustracija NFT tržišta i digitalne imovine"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 summary: "NFT tržište više nije u središtu masovne kripto euforije, ali interes nije nestao. Prema vodećim akterima industrije, današnje NFT-ove pokreću bogati kolekcionari i dugoročni ulagači, dok je faza brze spekulacije uglavnom iza nas."
 tags: ["nft", "crypto", "kripto", "digitalna imovina", "web3", "blockchain", "kolekcionarstvo"]
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/tech/2025/08/29/ethereum-foundation-target
 summary: "Die Initiative markiert eine strategische Wende: Nach Jahren der Skalierung von Durchsatz und der Senkung der Kosten rückt nun die Interoperabilität in den Mittelpunkt des Benutzererlebnisses."
 tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/ab9ea8c9d8346f05438e6f0a8739ddc6e4639afa-1920x1242.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 Die Ethereum Foundation veröffentlichte am Freitag einen neuen Blogpost, in dem sie eine große Initiative vorstellt, die darauf abzielt, die Barrieren zwischen den wachsenden Layer-2-Netzwerken von Ethereum abzubauen. Die Initiative markiert eine strategische Wende: Nach Jahren, in denen es um die Skalierung von Durchsatz und die Senkung der Kosten ging, rückt das Protokollteam nun die Interoperabilität in den Mittelpunkt des Benutzererlebnisses.

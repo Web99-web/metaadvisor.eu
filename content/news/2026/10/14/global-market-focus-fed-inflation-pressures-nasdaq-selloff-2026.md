@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Global Market Focus", "Federal Reserve", "Beige Book", "inflation", "Nasdaq", "S&P 500", "Wall Street", "semiconductors", "AI stocks", "financial markets"]
 description: "The Federal Reserve's latest Beige Book raises concerns about persistent inflation. Nasdaq falls more than 2% during trading as technology and semiconductor stocks face heavy selling pressure."
 summary: "The Federal Reserve's latest Beige Book highlights rising inflation pressures, increasing input costs and stagnant hiring. Wall Street responds with losses as the Nasdaq falls more than 2% during trading, the technology sector declines over 2.5%, and semiconductor stocks drop nearly 4%. The short-term market outlook remains bearish, with AI infrastructure, technology stocks and smaller companies under pressure."
+categories: ["finance"]
 ---
 
 *Illustrative image.*

@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Anthropic", "Pentagon", "Künstliche Intelligenz", "Claude", "KI-Sicherheit", "USA", "militärische KI", "KI-Regulierung"]
 description: "Ein US-Berufungsgericht hat die Entscheidung des Pentagons bestehen lassen, Anthropic als Risiko für die nationale Sicherheitslieferkette einzustufen und von bestimmten Militärverträgen auszuschließen."
 summary: "Anthropic bleibt auf der Pentagon-Blacklist, nachdem ein US-Berufungsgericht am 25. September die rechtliche Anfechtung des Unternehmens zurückgewiesen hat. Im Mittelpunkt des Streits stehen Einschränkungen für die Nutzung von Claude bei Überwachung und autonomen Waffensystemen."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

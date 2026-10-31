@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "china-regulates-influencer-networks-mcn-rules-2026-09-01"
 source: "Cyberspace Administration of China, China Association of Performing Arts, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/China-regulets-infulencer-mcn-rules.png"
-featured_image: "/images/news/China-regulets-infulencer-mcn-rules.png"
-image: "/images/news/China-regulets-infulencer-mcn-rules.png"
-thumbnail: "/images/news/China-regulets-infulencer-mcn-rules.png"
+image_url: "/images/news/China-regulets-infulencer-mcn-rules.webp"
+featured_image: "/images/news/China-regulets-infulencer-mcn-rules.webp"
+image: "/images/news/China-regulets-infulencer-mcn-rules.webp"
+thumbnail: "/images/news/China-regulets-infulencer-mcn-rules.webp"
 image_alt: "Kina uvodi nova pravila za MCN agencije i poslovne mreže koje stoje iza influencera"
 image_credit: "Metaadvisor.eu"
 tags: ["Kina", "influenceri", "MCN", "MCN agencije", "kreatori sadržaja", "creator economy", "live commerce", "livestream", "e-trgovina", "digitalni marketing", "Douyin", "Xiaohongshu", "Kuaishou", "regulacija", "društvene mreže", "online sadržaj", "tehnologija"]
 description: "Kina od 1. rujna uvodi posebna pravila za MCN agencije koje upravljaju influencerima, produkcijom sadržaja, marketingom i livestream prodajom."
 summary: "Iza mnogih kineskih influencera ne stoji samo jedna osoba nego cijela kompanija. Kina sada prvi put posebnim nacionalnim pravilima uređuje MCN industriju vrijednu desetke milijardi juana."
+categories: ["Tech"]
 ---
 
 # Kina od 1. rujna regulira industriju iza influencera: što su MCN agencije i kako rade

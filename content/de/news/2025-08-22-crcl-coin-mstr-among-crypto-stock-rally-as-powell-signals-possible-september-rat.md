@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/circle-coinbase-strateg
 summary: "Circle, eToro und Marathon führten am Freitag die Gewinne an, nachdem Fed-Chef Jerome Powell andeutete, dass eine geldpolitische Wende bereits im nächsten Monat kommen könnte."
 tags: ["crypto", "token", "finanz", "bitcoin", "btc", "ethereum", "eth", "circle", "crcl", "coinbase", "coin", "microstrategy", "mstr", "marathon", "mara", "etoro", "etor", "robinhood", "hood"]
 image: "/news/2025-08-22-crcl-coin-mstr-among-crypto-stock-rally-as-powell-signals-possible-september-rat.jpg"
+categories: ["crypto"]
 ---
 
 Krypto-Aktien und digitale Vermögenswerte stiegen am Freitag stark an, nachdem **Fed-Chef Jerome Powell** signalisierte, dass die US-Notenbank bereits im September mit Zinssenkungen beginnen könnte.  

@@ -10,6 +10,7 @@ image_url: "/images/btc-eth1.jpg"
 image_alt: "Bitcoin i Ether — ilustracija u kontekstu stablecoina"
 tags: ["crypto","policy","stablecoin","uk"]
 summary: "BOE razmatra plafone posjedovanja ‘sistemskih’ stablecoina: £10–20k po osobi i oko £10m za tvrtke. Industrija (Coinbase, UKCBC, The Payments Association) kritizira plan kao neprovediv i stroži od pristupa SAD-a/EU-a."
+categories: ["crypto"]
 ---
 
 **Što je objavljeno**  

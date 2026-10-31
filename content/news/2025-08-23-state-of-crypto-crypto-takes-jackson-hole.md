@@ -9,6 +9,7 @@ summary: "The annual SALT Wyoming conference took place this week. Government of
 tags: ["jackson-hole","salt-wyoming","policy","regulation","crypto","congress","lummis","tim-scott","jenny-johnson","michelle-bowman","chris-waller","newsletter"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/e44e1ff5a6dd83ecb6be1e381d086793cbbdccae-2890x2306.jpg?rect=0,0,2890,1626&w=1920&h=1080&auto=format"
 image_alt: "Fed Governor Chris Waller speaking at SALT Wyoming"
+categories: ["crypto"]
 ---
 
 Policymakers of various stripes spoke at the **SALT Wyoming** conference this week in Jackson Hole, Wyoming.

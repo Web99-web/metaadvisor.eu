@@ -7,14 +7,15 @@ translationKey: "tokenized_world_btc_defi_stablecoins_21122025"
 source: "MetaAdvisor analysis"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Tokenized-world.png"
-featured_image: "/images/Tokenized-world.png"
-image: "/images/Tokenized-world.png"
-thumbnail: "/images/Tokenized-world.png"
+image_url: "/images/Tokenized-world.webp"
+featured_image: "/images/Tokenized-world.webp"
+image: "/images/Tokenized-world.webp"
+thumbnail: "/images/Tokenized-world.webp"
 image_alt: "Tokenized world: Bitcoin, DeFi and stablecoins as the new financial infrastructure"
 image_credit: "MetaAdvisor illustration"
 tags: ["tokenization", "bitcoin", "defi", "stablecoins", "crypto", "finance", "blockchain", "future-of-finance"]
 summary: "Tokenization connects Bitcoin, DeFi and stablecoins into a single financial system where blockchain becomes infrastructure rather than a niche technology."
+categories: ["crypto"]
 ---
 
 # Tokenized World: a new phase of crypto and finance

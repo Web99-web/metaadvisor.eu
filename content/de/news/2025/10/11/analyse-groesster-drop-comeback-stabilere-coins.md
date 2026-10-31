@@ -15,6 +15,7 @@ image_alt: "Coins mit größtem Drop und Comeback"
 image_credit: "Metaadvisor.eu (symbolische Illustration)"
 tags: ["crypto","märkte","flash-crash","volatilität","liquidationen","ADL","order-book","MEXC","Bybit","btc","eth","sol","ada","xrp","bnb","doge","tia","sui","ena","avax","jto","wld","inj","pepe","pump","tao","cro","mx","bgb","zec","hype","aster","atom","risk-management","risikomanagement"]
 summary: "In nur 10 Minuten erlebten Dutzende Paare massive Abstürze und Rückkehrbewegungen. Überblick: Welche Coins fielen am stärksten, welche erholten sich am meisten und welche hielten sich relativ stabil — basierend auf MEXC-Daten (High/Low/Last)."
+categories: ["crypto"]
 ---
 
 ## Was ist passiert?

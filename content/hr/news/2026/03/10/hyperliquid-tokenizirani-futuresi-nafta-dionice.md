@@ -14,8 +14,9 @@ image: "/images/Hyperliquid.png"
 thumbnail: "/images/Hyperliquid.png"
 image_alt: "Hyperliquid tokenizirani futures na naftu i dionice"
 image_credit: "Metaadvisor.eu / simbolična ilustracija"
-tags: ["kripto", "crypto", "hyperliquid", "defi", "rwa", "tokenizirana imovina", "futures", "perpetual futures", "nafta", "zlato", "srebro", "s&p500", "trgovanje", "blockchain", "decentralizirane burze", "defi tržišta"]
+tags: ["kripto", "crypto", "hyperliquid", "defi", "rwa", "tokenizirana imovina", "futures", "perpetual futures", "nafta", "zlato", "srebro", "sp500", "trgovanje", "blockchain", "decentralizirane burze", "defi tržišta"]
 summary: "Decentralizirana platforma Hyperliquid bilježi rekordnih 1,2 milijarde dolara otvorenih futures pozicija, dok trgovci sve više koriste blockchain za spekulacije na cijene nafte, zlata i burzovnih indeksa."
+categories: ["crypto"]
 ---
 *Slika je simbolična.*
 

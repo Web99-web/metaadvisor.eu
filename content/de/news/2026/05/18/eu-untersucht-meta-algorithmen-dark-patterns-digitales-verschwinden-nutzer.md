@@ -7,14 +7,15 @@ translationKey: "f0c61a4f93f847d8b2c5aa9f1dbe7741"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Social-networking-erased-destroyed.png"
-featured_image: "/images/Social-networking-erased-destroyed.png"
-image: "/images/Social-networking-erased-destroyed.png"
-thumbnail: "/images/Social-networking-erased-destroyed.png"
+image_url: "/images/Social-networking-erased-destroyed.webp"
+featured_image: "/images/Social-networking-erased-destroyed.webp"
+image: "/images/Social-networking-erased-destroyed.webp"
+thumbnail: "/images/Social-networking-erased-destroyed.webp"
 image_alt: "Digitales Verschwinden von Nutzern und KI-Moderation in sozialen Netzwerken"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "dsa", "eu", "meta", "facebook", "instagram", "algorithmen", "dark patterns", "ki moderation", "digitale rechte", "appeals centre europe", "shadowban", "moderation", "tech", "europa"]
 summary: "Die irische Medienaufsicht hat neue Untersuchungen gegen Meta im Zusammenhang mit den Empfehlungsalgorithmen von Facebook und Instagram eröffnet. Gleichzeitig melden immer mehr Nutzer Probleme mit KI-Moderation, Shadow-Restriktionen und ein Gefühl des digitalen Verschwindens."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

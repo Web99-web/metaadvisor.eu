@@ -11,6 +11,7 @@ image_url: "https://techcrunch.com/wp-content/uploads/2021/01/lwzxxnshgj71bonwbi
 tags: ["ai", "artificial-intelligence", "google", "openai"]
 our_take: |
   Naš osvrt: CEO People Inc. proziva Google zbog korištenja istog crawlera za pretragu i AI proizvode te pada udjela Google prometa. Šira slika: odnosi podataka/licenciranja, kvaliteta modela i regulatorni rizik određuju ishode. Preferiramo stvarnu distribuciju i branive podatkovne rovove.
+categories: ["news"]
 ---
 
 Izvršni direktor najvećeg digitalnog i tiskanog izdavača u SAD-u optužio je Google da je „loš akter” zbog indeksiranja njihovih web-mjesta kako bi podržao AI proizvode tražilice.

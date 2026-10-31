@@ -3,7 +3,7 @@ title: "What Is an L2 (Layer-2) — and Why Your Company Probably Doesn’t Need
 slug: "what-is-an-l2-and-why-your-company-probably-doesnt-need-its-own-ethereum-l2"
 date: 2025-09-13T18:00:00Z
 category: "news"
-translationKey: "deb9039d3dd61126d44c252223bbf1ba"
+translationKey: "l2-explainer-business-2025-09-13"
 source: "MetaAdvisor"
 sources:
   - name: "CoinDesk (op-ed): Your Company Probably Doesn’t Need Its Own L2"
@@ -15,6 +15,7 @@ image_credit: "MetaAdvisor Library"
 tags: ["ethereum", "layer2", "rollups", "explainer"]
 summary: "An L2 batches/executes transactions above Ethereum and anchors proofs to L1 — faster and cheaper. Owning a corporate L2 rarely makes sense."
 our_take: "Be metrics-led: ship on a proven L2; only graduate to your own when the numbers demand it."
+categories: ["news"]
 ---
 
 **TL;DR — What’s an L2?**  

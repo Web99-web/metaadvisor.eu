@@ -15,6 +15,7 @@ image_alt: "Bitcoin i Ethereum tržište i kretanje cijena"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "ethereum", "crypto tržište", "trading", "analiza", "blockchain", "ai", "crypto", "financije"]
 summary: "Bitcoin nije uspio probiti $76K i vraća se na $73K dok analitičari očekuju mogući pad prema $50K, ali istovremeno rastu signali za potencijalni short squeeze i oporavak tržišta."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

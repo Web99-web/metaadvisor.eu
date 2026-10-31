@@ -7,14 +7,15 @@ translationKey: "claude-500m-ai-costs-not-cheap-worker-2026"
 source: "Metaadvisor (Axios, Tom’s Hardware, The Verge, Business Insider)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-general/AI-costs-500m-on-Claude.png"
-featured_image: "/images/AI-general/AI-costs-500m-on-Claude.png"
-image: "/images/AI-general/AI-costs-500m-on-Claude.png"
-thumbnail: "/images/AI-general/AI-costs-500m-on-Claude.png"
+image_url: "/images/AI-general/AI-costs-500m-on-Claude.jpg"
+featured_image: "/images/AI-general/AI-costs-500m-on-Claude.jpg"
+image: "/images/AI-general/AI-costs-500m-on-Claude.jpg"
+thumbnail: "/images/AI-general/AI-costs-500m-on-Claude.jpg"
 image_alt: "AI costs and Claude usage bill concept"
 image_credit: "Metaadvisor.eu"
 tags: ["AI", "umjetna inteligencija", "Claude", "Claude Code", "Anthropic", "AI troškovi", "tokeni", "token usage", "AI automatizacija", "Uber", "Microsoft", "Amazon", "Axios", "Tom's Hardware", "The Verge", "Business Insider", "AI agenti", "programiranje", "enterprise AI", "ROI", "troškovi automatizacije"]
 summary: "Priča o navodnih 500 milijuna USD potrošenih na Claude u jednom mjesecu pokazuje da AI automatizacija nije automatski jeftina. Ako kompanije ne postave limite i ne mjere stvarnu vrijednost, tokeni, licence i AI agenti mogu postati novi skriveni trošak poslovanja."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">Slika je simbolična.</p>

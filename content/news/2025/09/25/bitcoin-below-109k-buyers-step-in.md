@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-crumbles-below-dollar109k-but-data-shows-buyers-stepping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "Bitcoin — price drop with buyers stepping in (symbolic image)"
 image_credit: "Metaadvisor.eu (symbolic image)"
 tags:
@@ -30,6 +30,7 @@ tags:
   - market-structure
   - volatility
 summary: "BTC briefly slipped below $109K with a wave of liquidations, but order book and ETF data show buyers stepping in — hinting at potential base formation."
+categories: ["crypto"]
 ---
 
 **TL;DR:** **Bitcoin (BTC)** slid below **$109K** on intraday liquidation pressure. Yet **order book clusters** and **ETF/on-chain flows** suggest **buyers are active** around **$108.5–109.5K**, hinting at a possible local bottom.

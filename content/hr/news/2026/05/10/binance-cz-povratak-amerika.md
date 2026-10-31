@@ -7,14 +7,15 @@ translationKey: "8111055fd5bd8a5a95efdafdfdf6dae4"
 source: "Metaadvisor (CoinDesk, Cointelegraph)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Binance-CZ-responds.png"
-featured_image: "/images/Binance-CZ-responds.png"
-image: "/images/Binance-CZ-responds.png"
-thumbnail: "/images/Binance-CZ-responds.png"
+image_url: "/images/Binance-CZ-responds.webp"
+featured_image: "/images/Binance-CZ-responds.webp"
+image: "/images/Binance-CZ-responds.webp"
+thumbnail: "/images/Binance-CZ-responds.webp"
 image_alt: "CZ govori o mogućem povratku Binancea na američko tržište"
 image_credit: "Metaadvisor.eu"
 tags: ["binance", "cz", "crypto", "kripto", "binance us", "coinbase", "kraken", "bitcoin", "ethereum", "crypto regulation", "clarity act", "stablecoins", "wall street", "trump", "crypto exchange", "blockchain"]
 summary: "Binance osnivač Changpeng Zhao tvrdi da su konkurentske američke crypto burze pokušale blokirati njegovo pomilovanje jer se boje povratka Binancea na američko tržište. Istovremeno Binance.US ponovno pokušava ojačati svoju poziciju u SAD-u."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

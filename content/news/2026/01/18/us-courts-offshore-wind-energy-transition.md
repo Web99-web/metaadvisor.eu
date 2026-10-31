@@ -7,14 +7,15 @@ translationKey: "d50803f5d32a079202b1344472db7acc"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/"
 author: "Metaadvisor.eu"
-image_url: "/images/Wind-turbine-offshore.png"
-featured_image: "/images/Wind-turbine-offshore.png"
-image: "/images/Wind-turbine-offshore.png"
-thumbnail: "/images/Wind-turbine-offshore.png"
+image_url: "/images/Wind-turbine-offshore.webp"
+featured_image: "/images/Wind-turbine-offshore.webp"
+image: "/images/Wind-turbine-offshore.webp"
+thumbnail: "/images/Wind-turbine-offshore.webp"
 image_alt: "Offshore wind turbines off the US coast"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags: ["offshore wind", "wind energy", "renewable energy", "united states", "energy transition", "power grid", "energy policy"]
 summary: "US federal courts have allowed construction of several offshore wind projects to resume, ruling that national security arguments were not sufficiently substantiated."
+categories: ["news"]
 ---
 
 <p style="font-size:0.8em; color:#777; margin-top:-6px;">

@@ -6,14 +6,15 @@ category: "ai"
 translationKey: "7fffafce0be8d5ca6f7342a60c5ea9ce"
 source: "Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/facebook-ai-photos.png"
-featured_image: "/images/facebook-ai-photos.png"
-image: "/images/facebook-ai-photos.png"
-thumbnail: "/images/facebook-ai-photos.png"
+image_url: "/images/facebook-ai-photos.webp"
+featured_image: "/images/facebook-ai-photos.webp"
+image: "/images/facebook-ai-photos.webp"
+thumbnail: "/images/facebook-ai-photos.webp"
 image_alt: "Ilustracija: AI predlaže izmjene fotografija na pametnom telefonu"
 image_credit: "Metaadvisor / generirano"
 tags: ["ai","meta","facebook","privatnost","camera-roll","fotografije","deepfake","oblak","mobilne-aplikacije","tehnologija"]
 summary: "Facebook testira značajku kojom AI predlaže izmjene fotografija iz camera rolla — čak i prije nego što ih objavite. Novi pristup otvara pitanja privatnosti i kontrole nad osobnim sadržajem."
+categories: ["ai"]
 ---
 
 {{< cta href="/go/mexc" text="👉 Trguj na MEXC" >}}

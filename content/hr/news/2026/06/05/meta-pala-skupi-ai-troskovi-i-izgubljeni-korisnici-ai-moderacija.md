@@ -7,14 +7,15 @@ translationKey: "meta-ai-costs-facebook-moderation-2026-06-05"
 source: "Reuters, MarketWatch, TechCrunch, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta.png"
-featured_image: "/images/Meta/Meta.png"
-image: "/images/Meta/Meta.png"
-thumbnail: "/images/Meta/Meta.png"
+image_url: "/images/Meta/Meta.webp"
+featured_image: "/images/Meta/Meta.webp"
+image: "/images/Meta/Meta.webp"
+thumbnail: "/images/Meta/Meta.webp"
 image_alt: "Meta, Facebook, Instagram and WhatsApp AI infrastructure concept"
 image_credit: "Metaadvisor.eu"
 tags: ["Meta", "Facebook", "Instagram", "WhatsApp", "Threads", "AI", "umjetna inteligencija", "AI infrastruktura", "AI moderacija", "AI troškovi", "Big Tech", "tehnološke dionice", "META dionica", "Meta Platforms", "Mark Zuckerberg", "oglašavanje", "digitalno oglašavanje", "korisnički računi", "blokade profila", "automatizirana moderacija", "AI halucinacije", "platforme", "društvene mreže", "tech stocks", "investitori", "kapitalni izdaci", "podatkovni centri", "Nvidia", "Alphabet", "Microsoft", "Amazon", "digitalna reputacija", "Metaadvisor"]
 summary: "Dionica Mete snažno je pala nakon izvještaja o mogućem velikom financiranju AI infrastrukture. No pitanje nije samo koliko će umjetna inteligencija koštati, nego i koliko Meta može izgubiti ako se previše osloni na AI moderaciju i automatizirane odluke o korisnicima."
+categories: ["ai"]
 ---
 
 Slika je simbolična.
@@ -55,7 +56,7 @@ Metaadvisor je ovu temu već obradio u nekoliko priča, uključujući članak �
 <figure style="max-width:520px; margin:28px auto; text-align:center;">
   <a href="https://metaadvisor.eu/hr/news/facebook-dugogodisnji-profili-reputacijski-kredit-problem/" style="display:block;">
     <img 
-      src="/images/Meta/Facebook-blocks-long-term-profiles.png" 
+      src="/images/Meta/Facebook-blocks-long-term-profiles.webp" 
       alt="Facebook blocks long-term profiles and AI moderation problem"
       style="width:100%; height:auto; border-radius:14px;"
     >

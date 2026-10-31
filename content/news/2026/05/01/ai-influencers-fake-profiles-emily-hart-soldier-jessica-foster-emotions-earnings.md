@@ -7,14 +7,15 @@ translationKey: "8d5c1b9a4f6e4c2a9b3d7e1f0a2c6e77"
 source: "Metaadvisor (WIRED, Indian Times, People, NDTV)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/AI-profile-not-real1.png"
-featured_image: "/images/news/AI-profile-not-real1.png"
-image: "/images/news/AI-profile-not-real1.png"
-thumbnail: "/images/news/AI-profile-not-real1.png"
+image_url: "/images/news/AI-profile-not-real1.webp"
+featured_image: "/images/news/AI-profile-not-real1.webp"
+image: "/images/news/AI-profile-not-real1.webp"
+thumbnail: "/images/news/AI-profile-not-real1.webp"
 image_alt: "AI influencer and emotional manipulation"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "influencer", "deepfake", "emotions", "emily hart", "manipulation", "social media", "monetization", "digital identity", "internet", "trend"]
 summary: "The AI influencer Emily Hart and similar profiles show how emotions and artificial intelligence can build audiences and generate income without a real identity."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

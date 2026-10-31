@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Zcash", "ZEC", "Kryptowährungen", "Kryptomarkt", "Futures", "Spot-Handel", "Open Interest", "Short Squeeze", "NU7", "Zcash-Abstimmung", "Privacy Coins", "Zcash ETF", "Grayscale", "Europäische Union", "EU-Regulierung", "Bitcoin", "BTC"]
 description: "ZEC steigt gegen den restlichen Kryptomarkt in Richtung 1.400 Dollar, während das Futures-Volumen fast zehnmal höher als das Spot-Volumen ist."
 summary: "Zcash löst sich am 16. September deutlich von Bitcoin, Ethereum und Solana. Das Futures-Volumen nähert sich 10 Milliarden Dollar, während NU7, große Holder und die EU-Regulierung ab Juli 2027 zusätzliche Fragen aufwerfen."
+categories: ["Kryptowährungen"]
 ---
 
 *Das Bild ist symbolisch.*

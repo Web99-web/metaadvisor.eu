@@ -6,10 +6,10 @@ category: "crypto"
 translationKey: "btc_analysis_25012026_institutional_shift"
 source: "MetaAdvisor analysis"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-10.10-who-attacked.png"
-featured_image: "/images/BTC-10.10-who-attacked.png"
-image: "/images/BTC-10.10-who-attacked.png"
-thumbnail: "/images/BTC-10.10-who-attacked.png"
+image_url: "/images/BTC-10.10-who-attacked.webp"
+featured_image: "/images/BTC-10.10-who-attacked.webp"
+image: "/images/BTC-10.10-who-attacked.webp"
+thumbnail: "/images/BTC-10.10-who-attacked.webp"
 image_alt: "Bitcoin — institutional accumulation after 10.10"
 image_credit: "MetaAdvisor.eu"
 tags: [
@@ -18,6 +18,7 @@ tags: [
   "crypto", "blockchain", "tokenization"
 ]
 summary: "From the mysterious 10.10 crash to January 25, 2026: Bitcoin stagnates, gold and silver surge, and institutions quietly increase their control over the crypto market."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

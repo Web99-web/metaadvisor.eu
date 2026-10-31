@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Amazon-Blu-Jay-robots.png"
-featured_image: "/images/Amazon-Blu-Jay-robots.png"
-image: "/images/Amazon-Blu-Jay-robots.png"
-thumbnail: "/images/Amazon-Blu-Jay-robots.png"
+image_url: "/images/Amazon-Blu-Jay-robots.jpg"
+featured_image: "/images/Amazon-Blu-Jay-robots.jpg"
+image: "/images/Amazon-Blu-Jay-robots.jpg"
+thumbnail: "/images/Amazon-Blu-Jay-robots.jpg"
 image_alt: "Amazon zaustavlja Blue Jay robotski projekt"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["amazon", "blue jay", "robotika", "umjetna inteligencija", "ai", "automatizacija", "logistika", "tehnologija", "future tech", "robots"]
 summary: "Amazon je zaustavio Blue Jay robotski projekt manje od šest mjeseci nakon lansiranja, što otvara pitanja o realnoj brzini razvoja autonomne robotike i isplativosti AI eksperimenata."
+categories: ["ai"]
 ---
 
 <p style="font-size:12px; opacity:0.7; margin-top:-10px;">Slika je simbolična.</p>

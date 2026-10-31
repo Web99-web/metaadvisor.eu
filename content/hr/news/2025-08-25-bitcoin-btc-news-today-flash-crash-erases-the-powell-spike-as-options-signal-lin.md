@@ -9,6 +9,7 @@ summary: "Podaci tržišta opcija pokazuju da neizvjesnost traje unatoč Powello
 tags: ["bitcoin","btc","crypto","options","powell","jackson-hole","deribit","amberdata","flash-crash","whale","timechainindex"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/dbfb690c699ed79d604f30a911b4271fb9cd7583-1500x843.jpg?auto=format"
 image_alt: "Ilustracija prebacivanja u rikverc (CoinDesk Archives)"
+categories: ["crypto"]
 ---
 
 Bitcoin BTC $ 112,112.97 pao je ispod 111.000 $ tijekom noćnog trgovanja, čime je poništio skok od petka nakon ‘dovish’ govora predsjednika Feda Powella, dok je ‘kit’ prodavao u nelikvidnim uvjetima.

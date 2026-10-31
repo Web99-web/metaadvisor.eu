@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "Bitcoin ETF", "ETF inflow", "Ethereum", "Ethereum ETF", "Solana", "XRP", "crypto tržište", "azijska tržišta", "KOSPI", "Nikkei 225", "AI", "tehnološke dionice", "poluvodiči", "rotacija kapitala", "Market Focus"]
 description: "Američki spot Bitcoin ETF-ovi bilježe osmi uzastopni dan neto priljeva dok BTC ponovno testira 80.000 dolara, Ethereum doseže 2.566 dolara, Solana 106 dolara, a XRP 1,44 dolara."
 summary: "Bitcoin ETF-ovi produžili su niz neto inflowa na osam dana, BTC je ponovno testirao 80.000 dolara, Ethereum je dosegnuo oko 2.566 dolara, Solana oko 106 dolara, a XRP oko 1,44 dolara."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

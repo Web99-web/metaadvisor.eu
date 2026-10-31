@@ -15,6 +15,7 @@ image_alt: "EU cash payment limit 10000 euro regulation"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["EU regulation", "cash limit", "cash payments", "EU law", "finance", "AML", "european union"]
 summary: "The European Union is introducing a €10,000 limit for cash payments as part of a new anti-money laundering package. The rule is expected to apply across the EU from 2027."
+categories: ["finance"]
 ---
 
 *Image is symbolic.*

@@ -1,0 +1,3 @@
+{{- $isArticle := and .IsPage (or (eq .Section "news") (eq .Type "news")) -}}
+{{- $alias := index (.Site.Data.article_routes.aliases | default dict) .Permalink -}}
+{{- return (dict "Article" $isArticle "Alias" ($alias | default "") "Preferred" (and $isArticle (not $alias))) -}}

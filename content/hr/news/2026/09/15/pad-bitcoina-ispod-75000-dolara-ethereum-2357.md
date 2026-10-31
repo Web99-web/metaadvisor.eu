@@ -7,15 +7,16 @@ translationKey: "bitcoin-ethereum-crypto-market-drop-2026-09-15"
 source: "Reuters, CoinGecko, Federal Reserve, U.S. Senate, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/btc-eth-down.png"
-featured_image: "/images/daily-charts/btc-eth-down.png"
-image: "/images/daily-charts/btc-eth-down.png"
-thumbnail: "/images/daily-charts/btc-eth-down.png"
+image_url: "/images/daily-charts/btc-eth-down.webp"
+featured_image: "/images/daily-charts/btc-eth-down.webp"
+image: "/images/daily-charts/btc-eth-down.webp"
+thumbnail: "/images/daily-charts/btc-eth-down.webp"
 image_alt: "Pad Bitcoina ispod 75.000 dolara i Ethereuma do 2.357 dolara 15. rujna 2026."
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "kriptovalute", "crypto tržište", "pad kriptovaluta", "Federal Reserve", "Fed", "kamatne stope", "CLARITY Act", "likvidacije", "nafta", "Brent", "Solana", "SOL", "Hyperliquid", "HYPE", "Bittensor", "TAO"]
 description: "Bitcoin je 15. rujna pao do 74.914 dolara, a Ethereum do 2.357 dolara dok su rast prinosa na američke obveznice, skok Brenta gotovo do 110 dolara, Fed i regulatorna neizvjesnost pritisnuli crypto tržište."
 summary: "Bitcoin je tijekom dana pao ispod 75.000 dolara, Ethereum do 2.357 dolara, a snažan pritisak pogodio je i SOL, HYPE i TAO. Brent se približio 110 dolara, američki prinosi porasli, a tržište čeka odluku Federal Reservea."
+categories: ["Kriptovalute"]
 ---
 
 *Slika je simbolična.*

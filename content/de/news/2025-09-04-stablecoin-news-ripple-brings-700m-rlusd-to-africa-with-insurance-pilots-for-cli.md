@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/04/ripple-brings-usd700m-
 summary: "Stablecoins gewinnen im grenzüberschreitenden Zahlungsverkehr an Bedeutung, insbesondere in Schwellenländern mit begrenztem Zugang zu stabilen Währungen und Banken."
 tags: ["Ripple", "Stablecoin", "RLUSD", "Afrika", "Klima", "Krypto"]
 image_url: "https://images.pexels.com/photos/4386373/pexels-photo-4386373.jpeg"
+categories: ["crypto"]
 ---
 
 Ripple, ein auf digitale Zahlungen spezialisiertes Unternehmen, bringt seinen US-Dollar-gestützten Stablecoin Ripple USD (RLUSD) nach Afrika. Dazu wurden neue Partnerschaften mit Chipper Cash, VALR und Yellow Card geschlossen.  

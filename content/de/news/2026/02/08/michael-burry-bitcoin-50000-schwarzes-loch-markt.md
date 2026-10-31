@@ -7,14 +7,15 @@ translationKey: "michael-burry-bitcoin-50000-black-hole-2026-02-08"
 source: "Yahoo Finance / Substack / MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-at-50000.png"
-featured_image: "/images/BTC-at-50000.png"
-image: "/images/BTC-at-50000.png"
-thumbnail: "/images/BTC-at-50000.png"
+image_url: "/images/BTC-at-50000.webp"
+featured_image: "/images/BTC-at-50000.webp"
+image: "/images/BTC-at-50000.webp"
+thumbnail: "/images/BTC-at-50000.webp"
 image_alt: "Bitcoin bei 50.000 USD fällt in ein symbolisches Liquiditäts-Schwarzes-Loch"
 image_credit: "Symbolische Illustration (AI / frei verfügbare Grafik)"
 tags: ["bitcoin", "btc", "michael burry", "kryptomarkt", "bitcoin crash", "liquidität", "miner", "kapitulation", "schwarzes loch", "finanzkrise"]
 summary: "Michael Burry warnt, dass ein Rückgang von Bitcoin auf 50.000 USD eine Kettenreaktion ohne Käufer auslösen könnte – eine Abwärtsspirale, die Miner, Derivate und den gesamten Markt erfassen würde. Gleichzeitig zeigt die Geschichte, dass genau in solchen Momenten neue Käufer auftreten."
+categories: ["crypto"]
 ---
 
 [➡️ **Bitcoin handeln – verfügbare Börsen ansehen**]

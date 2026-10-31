@@ -9,6 +9,7 @@ summary: "Powell’s dovish tone sent ether to fresh highs, but nearly $400 mill
 tags: ["ethereum","eth","bitcoin","powell","fed","liquidations","crypto","treasury","hashdex","wall-street","stablecoins","smart-contracts","tokenization"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/1d1424e45e19742407d0b0130a1db80b45a67c68-1280x853.jpg?auto=format"
 image_alt: "Ethereum price targets $10,000 amid $400 million liquidations"
+categories: ["crypto"]
 ---
 
 Ethereum’s breakout past $4,800 triggered nearly $388 million in liquidations tied to the token in the past 24 hours, marking the heaviest flush across all crypto assets.

@@ -24,6 +24,7 @@ tags:
   - trading
   - 2025
 summary: "Indien hält 2025 am strengen Krypto-Steuerregime fest: 30% Steuer auf Gewinne, 1% TDS pro Transaktion, keine Verlustverrechnung. Trader suchen weiterhin nach Optimierung im Rahmen der Regeln."
+categories: ["crypto"]
 ---
 
 **Kurz:** Auch 2025 bleibt Indien eines der strengsten Steuerregime für Krypto weltweit. **30% Steuer** auf realisierte Gewinne und zusätzlich **1% TDS (Tax Deducted at Source)** auf **jede** Transaktion gelten weiter. **Verluste** dürfen **nicht** mit Gewinnen verrechnet werden – ein Sonderfall, der Trader vor operative Hürden stellt.

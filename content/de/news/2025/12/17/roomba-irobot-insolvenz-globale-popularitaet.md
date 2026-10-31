@@ -7,14 +7,15 @@ translationKey: "roomba_irobot_bankrot_17122025"
 source: "Reuters, The Guardian, Wikipedia"
 source_url: "https://www.reuters.com / https://www.theguardian.com / https://en.wikipedia.org"
 author: "MetaAdvisor.eu"
-image_url: "/images/Irobot-Roomba.png"
-featured_image: "/images/Irobot-Roomba.png"
-image: "/images/Irobot-Roomba.png"
-thumbnail: "/images/Irobot-Roomba.png"
+image_url: "/images/Irobot-Roomba.webp"
+featured_image: "/images/Irobot-Roomba.webp"
+image: "/images/Irobot-Roomba.webp"
+thumbnail: "/images/Irobot-Roomba.webp"
 image_alt: "Roomba-Roboterstaubsauger in einem sauberen, modernen Wohnzimmer"
 image_credit: "Illustration / symbolisches Bild"
 tags: ["roomba", "irobot", "roboterstaubsauger", "technologie", "automatisierung", "smartes zuhause", "robotik", "künstliche intelligenz", "amazon", "eu-regulierung"]
 summary: "Roomba machte Roboterstaubsauger weltweit populär, doch ihr Hersteller iRobot meldete ausgerechnet dann Insolvenz an, als diese Geräte massentauglich wurden. Wie ein Pionier der Haushaltrobotik den Anschluss verlor."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

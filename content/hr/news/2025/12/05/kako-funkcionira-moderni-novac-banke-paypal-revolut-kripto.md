@@ -16,8 +16,9 @@ image_alt: "Infografika: Banke vs. PayPal vs. Revolut vs. kripto"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["banke","novac","paypal","revolut","kripto","stablecoini","bitcoin","financije","edukacija","cex","dex","kriptoburze","kriptovicnjaci","selfcustody","monetarni-sustav","likvidnost","ekonomija","digitalni-novac","platni-sustavi"]
 summary: "Veliko edukativno objašnjenje kako zaista rade banke, PayPal, Revolut, stablecoini i kripto — i tko je stvarni vlasnik vašeg novca u svakom od tih sustava."
+categories: ["ai"]
+image_note: "Ilustracija je shematska. Zajednička oznaka EMI za PayPal/Revolut nije općenito pravno točna; pogledajte ispravak prema pravnoj osobi i proizvodu u tekstu, prema stanju 05.12.2025."
 ---
-
 # Kako zapravo funkcionira moderni novac? Banke vs. PayPal vs. Revolut vs. kripto
 
 ## 📌 Uvod: Zašto nitko ne objašnjava kako novac zapravo funkcionira?
@@ -91,13 +92,17 @@ Fintech rješenja (PayPal, Revolut) nastala su upravo zato što banke nisu moder
 
 ---
 
-# 💳 3) Kako rade PayPal i Revolut? (EMI model)
+# 💳 3) PayPal i Revolut: važna je pravna osoba (stanje 05.12.2025.)
 
-PayPal i Revolut **nisu banke** — oni su *Electronic Money Institutions*.
+PayPal i Revolut nije točno jednostavno svrstati u EMI-je. **PayPal Europe već je bio kreditna institucija s licencom u Luksemburgu**, ali njegov saldo elektroničkog novca nije bankovni depozit pokriven sustavom osiguranja depozita. **Revolut Bank UAB imao je litavsku bankovnu licencu**, a prihvatljivi depoziti kod te banke bili su obuhvaćeni litavskim sustavom osiguranja depozita, unutar njegovih ograničenja i uvjeta. U UK-u je Revolut Ltd i dalje pružao račune elektroničkog novca dok je britanska banka bila u ograničenoj fazi mobilizacije. Zaštita je stoga ovisila o pravnoj osobi, državi i proizvodu.
+
+Izvori za tadašnji status: [PayPalova bankovna licenca, 2007.](https://newsroom.paypal-corp.com/2007-05-15-PayPal-Expands-European-Growth-With-Bank-Charter-and-New-European-Headquarters), [Banka Litve: bankovna licenca od 13.12.2021.](https://www.lb.lt/en/news/banking-licence-granted-to-revolut-bank-uab), [Revolut: britanska faza mobilizacije, 25.07.2024.](https://www.revolut.com/news/revolut_receives_uk_banking_licence/). [PayPal Europe, 16.12.2020.](https://www.paypalobjects.com/marketing/ua/pdf/IE/en/ua-121620-v1.pdf).
+
+Opis EMI-ja u nastavku odnosi se na stvarni račun elektroničkog novca, a ne automatski na svaki PayPalov ili Revolutov proizvod.
 
 EMI:
 
-- ne smije koristiti depozite za kredite  
+- ne smije koristiti zaštićena sredstva elektroničkog novca za financiranje kredita  
 - mora držati 100% pokrića  
 - mora odvajati korisnička sredstva od svojih operativnih računa  
 
@@ -124,8 +129,8 @@ Kod PayPala **ne postoji osiguranje depozita** kao u bankama.
 | Sustav | Jeste li vlasnik? | Može li biti zamrznut? | Osiguranje? |
 |--------|------------------|------------------------|-------------|
 | Banka | ❌ (vi ste vjerovnik) | ✔️ | ✔️ |
-| PayPal | ❌ (EMI potraživanje) | ✔️ | ❌ |
-| Revolut | ❌ / ✔️ (ovisno o licenci) | ✔️ | djelomično |
+| PayPal | Potraživanje e-novca; provjeriti pravnu osobu/proizvod | ✔️ | ❌ |
+| Revolut | Bankovni depozit ili e-novac, ovisno o pravnoj osobi/proizvodu | ✔️ | Prihvatljivi bankovni depoziti: osiguranje; e-novac: zaštita sredstava |
 | Kripto burza (CEX) | ❌ (burza kontrolira ključeve) | ✔️ | ❌ |
 | Kripto self-custody | ✔️ (vi posjedujete ključeve) | ❌ | ⚠️ rizik na korisniku |
 
@@ -187,7 +192,7 @@ Stablecoini omogućuju:
 
 Sustav novca postao je složeniji nego ikad:  
 banke nude sigurnost bez vlasništva,  
-fintech nudi fleksibilnost bez garancije,  
+zaštita i jamstva kod fintecha ovise o pravnoj osobi i proizvodu,  
 kripto burze nude pristup bez kontrole,  
 self-custody nudi vlasništvo uz punu odgovornost.
 

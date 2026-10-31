@@ -7,15 +7,16 @@ translationKey: "bitcoin-ethereum-crypto-market-drop-2026-09-15"
 source: "Reuters, CoinGecko, Federal Reserve, U.S. Senate, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/daily-charts/btc-eth-down.png"
-featured_image: "/images/daily-charts/btc-eth-down.png"
-image: "/images/daily-charts/btc-eth-down.png"
-thumbnail: "/images/daily-charts/btc-eth-down.png"
+image_url: "/images/daily-charts/btc-eth-down.webp"
+featured_image: "/images/daily-charts/btc-eth-down.webp"
+image: "/images/daily-charts/btc-eth-down.webp"
+thumbnail: "/images/daily-charts/btc-eth-down.webp"
 image_alt: "Bitcoin falls below $75,000 and Ethereum drops to $2,357 on September 15, 2026"
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Ethereum", "ETH", "cryptocurrency", "crypto market", "crypto selloff", "Federal Reserve", "Fed", "interest rates", "CLARITY Act", "liquidations", "oil", "Brent", "Solana", "SOL", "Hyperliquid", "HYPE", "Bittensor", "TAO"]
 description: "Bitcoin fell to $74,914 on September 15 while Ethereum dropped to $2,357 as rising U.S. Treasury yields, high oil prices, the Fed and regulatory uncertainty pressured the crypto market."
 summary: "Bitcoin fell below $75,000 during the day, Ethereum dropped to $2,357, and SOL, HYPE and TAO also came under heavy pressure. The market partially recovered by the evening while waiting for the Federal Reserve decision."
+categories: ["Cryptocurrency"]
 ---
 
 *Image is symbolic.*

@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "john-ternus-apple-ceo-from-september-1-2026"
 source: "Apple, Reuters"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/John-Ternus-CEO-Apple.png"
-featured_image: "/images/companies/John-Ternus-CEO-Apple.png"
-image: "/images/companies/John-Ternus-CEO-Apple.png"
-thumbnail: "/images/companies/John-Ternus-CEO-Apple.png"
+image_url: "/images/companies/John-Ternus-CEO-Apple.webp"
+featured_image: "/images/companies/John-Ternus-CEO-Apple.webp"
+image: "/images/companies/John-Ternus-CEO-Apple.webp"
+thumbnail: "/images/companies/John-Ternus-CEO-Apple.webp"
 image_alt: "John Ternus, seit dem 1. September 2026 neuer CEO von Apple, dargestellt in einer symbolischen Illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["Apple", "John Ternus", "Tim Cook", "Technologie", "CEO", "Unternehmensführung", "Hardware", "iPhone", "Mac", "Apple Silicon", "Künstliche Intelligenz", "KI", "Siri", "Apple Park", "Technologiekonzerne", "Unternehmen"]
 description: "John Ternus führt Apple seit dem 1. September 2026 nach 15 Jahren unter Tim Cook. An die Spitze des Konzerns rückt der langjährige Hardware-Chef in einer Phase, in der Apple nach dem nächsten großen Produkt und einer Antwort auf das KI-Zeitalter sucht."
 summary: "Nach 15 Jahren unter Tim Cook hat Apple einen neuen CEO. John Ternus kommt aus dem Hardware Engineering und übernimmt einen Konzern mit einem Börsenwert von rund 4,5 Billionen US-Dollar – mit der Aufgabe, die nächste große Wachstumsphase zu finden und Apple im KI-Zeitalter neu zu positionieren."
+categories: ["Tech"]
 ---
 
 *Das Bild ist symbolisch.*

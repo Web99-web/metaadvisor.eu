@@ -9,6 +9,7 @@ summary: "As gold prints a fresh all-time high, Bitcoin shows mixed behavior —
 tags: ["bitcoin","crypto","gold","macro","markets","safe-haven","risk-assets"]
 image_url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvYmM4NDM3ZjEtYWVmOC00NjAwLWFjNDQtMTM0MmYzNTdiODhlLmpwZw==.jpg"
 image_url_small: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvYmM4NDM3ZjEtYWVmOC00NjAwLWFjNDQtMTM0MmYzNTdiODhlLmpwZw==.jpg"
+categories: ["crypto"]
 ---
 
 Gold’s surge to a new record underscores defensive positioning, while Bitcoin’s behavior remains mixed: in stress episodes it sometimes tracks gold, but in liquidity-rich rallies it trades more like a high-beta tech asset.

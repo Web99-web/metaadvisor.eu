@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Europska unija", "EU", "regulacija", "birokracija", "poduzetnici", "mala poduzeća", "SME", "konkurentnost", "Austrija", "Njemačka", "Italija", "poslovanje", "administrativni trošak"]
 description: "Trinaest država članica EU-a traži regulatornu pauzu i temeljit pregled postojećih pravila. Europska komisija istodobno želi smanjiti administrativni teret za poduzeća za najmanje 25%, a za mala i srednja poduzeća za 35%."
 summary: "Austrija i još 12 članica EU-a traže manje novih propisa, sustavnu provjeru postojećih pravila i godinu provedbe i konsolidacije. Inicijativa dolazi u trenutku kada i sama Europska komisija priznaje da administrativno opterećenje koči rast te procjenjuje da pojednostavljenje pravila može donijeti desetke milijardi eura ušteda."
+categories: ["business"]
 ---
 
 *Slika je simbolična.*

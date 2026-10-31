@@ -16,6 +16,7 @@ image_alt: "Krypto-Derivate mit Fokus auf XRP, SOL und BTC"
 image_credit: "Visual: Metaadvisor.eu (symbolisch)"
 tags: ["Krypto","Derivate","CME","Futures","Open-Interest","Institutionen","XRP","Solana","BTC","ETH","Cash-settled","Notional","Volatilität","Token2049","Singapur","Märkte"]
 summary: "Laut CME greifen Institutionen vermehrt zu den neuen XRP- und Solana-Futures, während der gesamte OI an Krypto-Futures auf 30–35 Mrd. USD pro Tag steigt. SOL und XRP überraschen mit hoher Geschwindigkeit beim OI-Aufbau."
+categories: ["crypto"]
 ---
 
 **Kurz:** Der institutionelle Appetit für Krypto-Derivate **geht über Bitcoin und Ether hinaus**. **CME** meldet, dass die neuen **cash-settled** Futures auf **XRP** und **Solana (SOL)** **Rekord-Open-Interest** verzeichnen. Insgesamt liegt das tägliche OI-Volumen am Krypto-Futures-Markt inzwischen bei **30–35 Mrd. USD**.

@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – symbolic image"
 tags: ["Wall Street", "Nasdaq", "S&P 500", "tech stocks", "semiconductors", "bond yields", "US Treasuries", "Japan", "inflation", "oil", "AI"]
 description: "US technology stocks fell as long-term government bond yields in the United States, Japan and Europe reached multi-year or multi-decade highs."
 summary: "The Nasdaq fell more than 1% on August 18 while the semiconductor index lost more than 5%, as rising bond yields, higher oil prices and inflation concerns increased pressure on technology stocks."
+categories: ["Markets"]
 ---
 
 *Symbolic image.*

@@ -7,14 +7,15 @@ translationKey: "ai-human-filtering-decision-26032026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis"
 source_url: ""
-image_url: "/images/AI-judgment.png"
-featured_image: "/images/AI-judgment.png"
-image: "/images/AI-judgment.png"
-thumbnail: "/images/AI-judgment.png"
+image_url: "/images/AI-judgment.webp"
+featured_image: "/images/AI-judgment.webp"
+image: "/images/AI-judgment.webp"
+thumbnail: "/images/AI-judgment.webp"
 image_alt: "AI decides who passes and who is rejected"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "hiring", "facebook", "ai moderation", "algorithms", "danger"]
 summary: "AI no longer just assists decisions — it decides who passes and who gets eliminated. From hiring to Facebook, systems are standardizing people and removing those who don’t fit the pattern."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

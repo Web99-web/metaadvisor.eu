@@ -16,6 +16,7 @@ image_alt: "Infografika: Your bank balance is not your money"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["banke","novac","financije","fractional-reserve","swift","sepa","ach","settlement","likvidnost","sustav-placanja","amerika","europa","osiguranje-depozita","celsius","kripto","digitalni-novac","edukacija"]
 summary: "Čim novac položite u banku, on prestaje biti vaš i postaje imovina banke. Ovo je dubinska analiza kako banke koriste vaš novac, zašto sustav funkcionira samo dok nema panike, i zašto u SAD-u novac putuje kao da je 1970."
+categories: ["financije"]
 ---
 
 # **Novac u banci nije tvoj — to je imovina banke. Tvoje je samo potraživanje.**

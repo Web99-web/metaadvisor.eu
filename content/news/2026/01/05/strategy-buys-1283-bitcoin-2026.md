@@ -7,10 +7,10 @@ translationKey: "e3f65fa1518db26344dd96dee99a5f50"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/strategy-2026-116m-bitcoin-buy-17b-loss-q4"
 author: "MetaAdvisor.eu"
-image_url: "/images/Strategy-1283BTC.png"
-featured_image: "/images/Strategy-1283BTC.png"
-image: "/images/Strategy-1283BTC.png"
-thumbnail: "/images/Strategy-1283BTC.png"
+image_url: "/images/Strategy-1283BTC.webp"
+featured_image: "/images/Strategy-1283BTC.webp"
+image: "/images/Strategy-1283BTC.webp"
+thumbnail: "/images/Strategy-1283BTC.webp"
 image_alt: "Strategy buys 1,283 bitcoin at the start of 2026"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -21,6 +21,7 @@ tags:
   - corporate bitcoin
   - treasury
 summary: "Strategy kicked off 2026 by acquiring an additional 1,283 bitcoin for $116 million, reinforcing its long-term accumulation strategy despite large short-term losses."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

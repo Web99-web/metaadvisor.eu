@@ -7,14 +7,15 @@ translationKey: "china-ai-layoffs-worker-rights-court-2026"
 source: "Metaadvisor (The Guardian, SCIO, Caixin, WSJ)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/AI-replaces-people.png"
-featured_image: "/images/AI-replaces-people.png"
-image: "/images/AI-replaces-people.png"
-thumbnail: "/images/AI-replaces-people.png"
+image_url: "/images/AI-replaces-people.webp"
+featured_image: "/images/AI-replaces-people.webp"
+image: "/images/AI-replaces-people.webp"
+thumbnail: "/images/AI-replaces-people.webp"
 image_alt: "AI chip and worker rights concept showing artificial intelligence replacing human jobs"
 image_credit: "Metaadvisor.eu"
 tags: ["artificial intelligence", "AI", "China", "workers", "layoffs", "automation", "labor law", "technology", "future of work", "AI regulation", "jobs", "employment", "digital transformation", "Big Tech", "social stability"]
 summary: "A Chinese court has ruled that companies cannot automatically justify firing a worker simply because artificial intelligence can take over parts of the job. The case raises a broader question: who should bear the cost of AI automation — workers, employers or the state?"
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">The image is symbolic.</p>

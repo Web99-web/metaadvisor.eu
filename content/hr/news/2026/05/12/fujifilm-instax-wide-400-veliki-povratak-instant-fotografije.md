@@ -7,14 +7,15 @@ translationKey: "8d4f2b7c61aa44b89e3f5f10d9c772bb"
 source: "Metaadvisor (TechCrunch, The Verge, Wired, Digital Camera World, PetaPixel)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Fujifilm-Instax-Wide-400.png"
-featured_image: "/images/companies/Fujifilm-Instax-Wide-400.png"
-image: "/images/companies/Fujifilm-Instax-Wide-400.png"
-thumbnail: "/images/companies/Fujifilm-Instax-Wide-400.png"
+image_url: "/images/companies/Fujifilm-Instax-Wide-400.webp"
+featured_image: "/images/companies/Fujifilm-Instax-Wide-400.webp"
+image: "/images/companies/Fujifilm-Instax-Wide-400.webp"
+thumbnail: "/images/companies/Fujifilm-Instax-Wide-400.webp"
 image_alt: "Fujifilm Instax Wide 400 i povratak instant fotografije"
 image_credit: "Metaadvisor.eu"
 tags: ["fujifilm", "instax", "instax wide 400", "analogna fotografija", "instant kamera", "retro kamera", "film kamera", "tech", "ai", "fotografija", "vintage kamera", "nostalgija", "tiktok trend", "kamera", "analog photography"]
 summary: "Fujifilm Instax Wide 400 pokazuje kako analogna i instant fotografija ponovno postaju popularne u eri umjetne inteligencije i digitalnog sadržaja."
+categories: ["tech"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Slika je simbolična.</em></p>

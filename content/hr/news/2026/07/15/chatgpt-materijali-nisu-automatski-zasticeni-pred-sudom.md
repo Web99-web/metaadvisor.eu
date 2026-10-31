@@ -7,14 +7,15 @@ translationKey: "chatgpt-materijali-sudska-zastita-2026-07-15"
 source: "Massachusetts Lawyers Weekly, američki sudski izvori"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/ChatGPT-in-court.png"
-featured_image: "/images/news/ChatGPT-in-court.png"
-image: "/images/news/ChatGPT-in-court.png"
-thumbnail: "/images/news/ChatGPT-in-court.png"
+image_url: "/images/news/ChatGPT-in-court.webp"
+featured_image: "/images/news/ChatGPT-in-court.webp"
+image: "/images/news/ChatGPT-in-court.webp"
+thumbnail: "/images/news/ChatGPT-in-court.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["ChatGPT", "umjetna inteligencija", "sud", "pravna zaštita", "povjerljivost", "sudski postupak", "AI dokumenti", "odvjetnički materijal"]
 description: "Sud u Massachusettsu odlučio je da materijali izrađeni uz ChatGPT nisu automatski zaštićeni samo zato što su povezani sa sudskim postupkom."
 summary: "Materijali izrađeni uz ChatGPT nisu automatski povjerljivi niti zaštićeni od uvida druge strane. Sud u Massachusettsu procijenio je tko ih je izradio, po čijim uputama i u koju svrhu."
+categories: ["ai"]
 ---
 
 # ChatGPT materijali nisu automatski zaštićeni pred sudom

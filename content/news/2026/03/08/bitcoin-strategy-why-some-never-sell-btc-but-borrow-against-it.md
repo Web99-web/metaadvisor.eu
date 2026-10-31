@@ -7,14 +7,15 @@ translationKey: "btc-never-sell-borrow-against-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis"
 source_url: ""
-image_url: "/images/BTC-never-sell-borrow-against.png"
-featured_image: "/images/BTC-never-sell-borrow-against.png"
-image: "/images/BTC-never-sell-borrow-against.png"
-thumbnail: "/images/BTC-never-sell-borrow-against.png"
+image_url: "/images/BTC-never-sell-borrow-against.webp"
+featured_image: "/images/BTC-never-sell-borrow-against.webp"
+image: "/images/BTC-never-sell-borrow-against.webp"
+thumbnail: "/images/BTC-never-sell-borrow-against.webp"
 image_alt: "Bitcoin never sell borrow against strategy"
 image_credit: "Metaadvisor.eu / symbolic illustration"
 tags: ["bitcoin","btc","crypto","bitcoin strategy","btc collateral","crypto loans","borrow against bitcoin","digital assets","financial strategy","michael saylor","bitcoin investing"]
 summary: "An increasing number of Bitcoin investors use BTC as collateral instead of selling it. The 'buy, borrow, never sell' strategy raises the question whether Bitcoin could become a new form of digital collateral in modern finance."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

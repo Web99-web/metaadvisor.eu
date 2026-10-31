@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu / symbolische Illustration"
 tags: ["bitcoin", "btc", "krypto", "crypto", "oel", "iran", "geopolitik", "maerkte", "inflation", "makrooekonomie"]
 summary: "Bitcoin stabilisiert sich über 71.000 Dollar, während fallende Ölpreise und ein möglicher Friedensplan für Iran eine Veränderung der Marktstimmung signalisieren."
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

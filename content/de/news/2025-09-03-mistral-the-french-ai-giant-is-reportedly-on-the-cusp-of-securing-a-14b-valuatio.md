@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-re
 summary: "Das französische Startup Mistral AI, gegründet von ehemaligen DeepMind- und Meta-Forschern, entwickelt Open-Source-Sprachmodelle und Le Chat für den europäischen Markt."
 tags: ["KI", "Frankreich", "Startup", "Investitionen", "Mistral", "OpenAI-Konkurrent"]
 image_url: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg"
+categories: ["ai"]
 ---
 
 Das französische KI-Startup **Mistral AI** steht laut Bloomberg kurz davor, eine Investition von 2 Milliarden Euro bei einer Bewertung von 14 Milliarden Dollar abzuschließen. Damit würde Mistral zu einem der wertvollsten Tech-Startups Europas aufsteigen.  

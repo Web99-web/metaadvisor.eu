@@ -7,10 +7,10 @@ translationKey: "us_banks_ethereum_onchain_26122025"
 source: "MetaAdvisor Analyse — basierend auf Berichten von CoinDesk, Cointelegraph und öffentlichen Bankdokumenten"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/US-banks-on-eth-blockchains.png"
-featured_image: "/images/US-banks-on-eth-blockchains.png"
-image: "/images/US-banks-on-eth-blockchains.png"
-thumbnail: "/images/US-banks-on-eth-blockchains.png"
+image_url: "/images/US-banks-on-eth-blockchains.webp"
+featured_image: "/images/US-banks-on-eth-blockchains.webp"
+image: "/images/US-banks-on-eth-blockchains.webp"
+thumbnail: "/images/US-banks-on-eth-blockchains.webp"
 image_alt: "US-Banken bauen Onchain-Infrastruktur auf Ethereum"
 tags:
   - usa
@@ -21,6 +21,7 @@ tags:
   - finanzsystem
   - institutionen
 summary: "US-Banken experimentieren zunehmend mit Ethereum-basierter Infrastruktur. Während öffentlich Zurückhaltung signalisiert wird, verschwimmt im Hintergrund die Grenze zwischen klassischem Bankwesen und Blockchain-Technologie."
+categories: ["crypto"]
 ---
 
 <div class="cta" style="text-align:center; margin:20px 0 26px 0;">

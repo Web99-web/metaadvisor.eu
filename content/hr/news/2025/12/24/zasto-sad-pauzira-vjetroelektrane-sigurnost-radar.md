@@ -7,10 +7,10 @@ translationKey: "us-wind-turbines-security-radar-24122025"
 source: "TechCrunch — analiza MetaAdvisor.eu"
 source_url: "https://techcrunch.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/Wind-turbine.png"
-featured_image: "/images/Wind-turbine.png"
-image: "/images/Wind-turbine.png"
-thumbnail: "/images/Wind-turbine.png"
+image_url: "/images/Wind-turbine.webp"
+featured_image: "/images/Wind-turbine.webp"
+image: "/images/Wind-turbine.webp"
+thumbnail: "/images/Wind-turbine.webp"
 image_alt: "Vjetroelektrana i radarski sustav"
 tags:
   - vjetroelektrane
@@ -21,6 +21,7 @@ tags:
   - infrastruktura
   - sad
 summary: "SAD je ponovno pauzirao dio projekata vjetroelektrana, pozivajući se na sigurnosne i radarske rizike. Iako se turbine ne miču, njihov utjecaj na vojne i civilne sustave nadzora pokazuje kako energetika i obrana postaju sve snažnije povezane."
+categories: ["ai"]
 ---
 
 <div class="cta">

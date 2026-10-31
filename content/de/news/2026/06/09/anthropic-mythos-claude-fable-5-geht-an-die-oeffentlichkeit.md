@@ -7,14 +7,15 @@ translationKey: "anthropic-mythos-claude-fable-5-public-ai-safety-2026-06-09"
 source: "Reuters, Axios, Anthropic, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-featured_image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
-thumbnail: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.png"
+image_url: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+featured_image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+image: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
+thumbnail: "/images/companies/Claude-Fable-5-AI-Anthropic-Mythos.webp"
 image_alt: "Anthropic Mythos Claude Fable 5 AI model symbolic image"
 image_credit: "MetaAdvisor.eu"
 tags: ["Anthropic", "Claude Fable 5", "Mythos", "AI", "künstliche Intelligenz", "Cybersecurity", "Cybersicherheit", "AI Sicherheit", "AI Modelle", "Frontier AI", "Guardrails", "Cyber Risiko", "Zero Day", "Claude", "AI Regulierung", "AI Tools", "Technologie", "digitale Sicherheit", "Metaadvisor"]
 summary: "Anthropic stellt Claude Fable 5 öffentlich vor, ein Modell aus der Mythos-Klasse, jedoch mit Sicherheitsbegrenzungen für besonders sensible Cyber-Fähigkeiten. Die zentrale Frage bleibt, ob sich gefährliche AI-Fähigkeiten wirklich allein durch Guardrails kontrollieren lassen."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -37,6 +37,7 @@ tags:
   - technical-analysis
   - volatility
 summary: "Bitwise CIO Matt Hougan called Solana the “new Wall Street,” citing speed, throughput and finality, while SOL consolidated in a tight $228–$237 range."
+categories: ["crypto"]
 ---
 
 **Summary**  

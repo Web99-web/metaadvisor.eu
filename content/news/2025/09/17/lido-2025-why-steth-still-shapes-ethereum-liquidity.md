@@ -15,6 +15,7 @@ image_alt: "Lido / stETH — liquid staking on Ethereum"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ethereum","lido","steth","wsteth","liquid-staking","defi","staking","yield","collateral","metaadvisor"]
 summary: "Lido remains the liquid-staking ‘default’: stETH marries yield with liquidity and acts as core DeFi collateral — alongside risks like de-peg events, validator concentration and governance."
+categories: ["crypto"]
 ---
 
 **TL;DR:** Lido is a *liquid staking* protocol. Instead of locking 32 ETH and running a validator, you stake any amount and receive **stETH** — a token that rebases daily. **wstETH** is the non-rebasing wrapped form, better suited as collateral.

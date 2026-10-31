@@ -7,15 +7,16 @@ translationKey: "eu-uvodi-ai-oznake-sto-morate-oznaciti-2026-08-04"
 source: "European Commission, EU AI Act and guidance on transparency obligations under Article 50"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/ai-deepfake.png"
-featured_image: "/images/ai-deepfake.png"
-image: "/images/ai-deepfake.png"
-thumbnail: "/images/ai-deepfake.png"
+image_url: "/images/ai-deepfake.webp"
+featured_image: "/images/ai-deepfake.webp"
+image: "/images/ai-deepfake.webp"
+thumbnail: "/images/ai-deepfake.webp"
 image_alt: "Symbolic image of AI deepfake content and disclosure requirements in the European Union"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["European Union", "EU AI Act", "artificial intelligence", "AI labels", "AI content", "deepfake", "generative AI", "AI chatbot", "AI transparency", "AI-generated content", "machine-readable labels", "Article 50", "digital regulation", "editorial control", "created in collaboration with AI"]
 description: "Since August 2, new EU rules have applied to the disclosure of chatbots, deepfakes and certain AI-generated publications."
 summary: "The EU AI Act introduces transparency obligations for chatbots, deepfake content and certain AI-generated publications, but does not require every text created with AI assistance to be labeled."
+categories: ["artificial-intelligence"]
 ---
 
 # EU Introduces AI Labels: What Must Be Disclosed?

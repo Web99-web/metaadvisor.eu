@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "dropbox-lenovo-id-hack-5000-accounts-2026-09-02"
 source: "Dropbox, Lenovo, Reuters, BleepingComputer"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Dropbox-Lenovo-hack.png"
-featured_image: "/images/hack/Dropbox-Lenovo-hack.png"
-image: "/images/hack/Dropbox-Lenovo-hack.png"
-thumbnail: "/images/hack/Dropbox-Lenovo-hack.png"
+image_url: "/images/hack/Dropbox-Lenovo-hack.webp"
+featured_image: "/images/hack/Dropbox-Lenovo-hack.webp"
+image: "/images/hack/Dropbox-Lenovo-hack.webp"
+thumbnail: "/images/hack/Dropbox-Lenovo-hack.webp"
 image_alt: "Dropbox-Sicherheitsvorfall, bei dem über eine Schwachstelle in der Lenovo-ID-Integration rund 5.000 Nutzerkonten kompromittiert wurden"
 image_credit: "Metaadvisor.eu"
 tags: ["Dropbox", "Lenovo", "Lenovo ID", "Hackerangriff", "Cybersicherheit", "Sicherheit", "Datendiebstahl", "Nutzerkonten", "Cloud", "2FA", "Authentifizierung", "digitale Identität", "Sicherheitslücke", "Passwörter", "Datenschutz"]
 description: "Dropbox bestätigte, dass rund 5.000 Nutzerkonten über eine Sicherheitslücke im Zusammenhang mit einer alten Lenovo-ID-Integration kompromittiert wurden. Die Angreifer benötigten dafür nicht einmal das Dropbox-Passwort."
 summary: "Angreifer nutzten eine Schwachstelle bei der Lenovo-ID-E-Mail-Verifizierung, um sich als Besitzer fremder E-Mail-Adressen auszugeben und über eine alte Integration auf Dropbox-Konten zuzugreifen. Auf einem Teil der Konten wurden Dateien angesehen oder heruntergeladen."
+categories: ["Tech"]
 ---
 
 *Das Bild dient nur zur Illustration.*

@@ -16,6 +16,7 @@ image_alt: "Bank of Japan — monetary signals and Bitcoin"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","japan","boj","yen","carry trade","dovish","hawkish","macro","inflation","liquidity","analysis"]
 summary: "Investors interpret the Bank of Japan’s monetary signals in very different ways. What does an extremely loose policy stance really mean for global markets — and for Bitcoin?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

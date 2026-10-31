@@ -7,15 +7,16 @@ translationKey: "rusija-pavel-durov-lista-trazenih-2026-07-29"
 source: "Interfax, Reuters, Cointelegraph and Telegram"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Pavel-Durov-Russia-wanted-list.png"
-featured_image: "/images/news/Pavel-Durov-Russia-wanted-list.png"
-image: "/images/news/Pavel-Durov-Russia-wanted-list.png"
-thumbnail: "/images/news/Pavel-Durov-Russia-wanted-list.png"
+image_url: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
+featured_image: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
+image: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
+thumbnail: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
 image_alt: "Pavel Durov on Russia’s wanted list"
 image_credit: "Metaadvisor.eu"
 tags: ["Pavel Durov", "Telegram", "Russia", "FSB", "international search", "wanted list", "terrorism", "Interpol", "Red Notice", "privacy", "freedom of speech", "France"]
 description: "Russia’s FSB has accused Telegram founder Pavel Durov of allegedly facilitating terrorist activity and says he has been placed on an international wanted list."
 summary: "Russia has launched an international search for Pavel Durov, but an Interpol Red Notice has not been publicly confirmed."
+categories: ["news"]
 ---
 
 # Russia puts Pavel Durov on wanted list
@@ -82,7 +83,7 @@ The new Russian charge comes only around two weeks after Telegram’s `t.me` dom
      rel="noopener"
      style="display: inline-block;">
     <img
-      src="/images/news/Telegram-t.me.png"
+      src="/images/news/Telegram-t.me.webp"
       alt="Telegram’s t.me domain disappeared from the global DNS"
       loading="lazy"
       style="width: 100%; max-width: 480px; height: auto; border-radius: 8px;"

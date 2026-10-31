@@ -9,6 +9,7 @@ summary: "Analitičar Alex Krüger tvrdi da grafikoni koji izgledaju medvjeđe i
 tags: ["crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/BTCETHaltcoins-strength.jpg?auto=format&width=1920"
 image: "https://www.coindesk.com/resizer/v2/BTCETHaltcoins-strength.jpg?auto=format&width=1920"
+categories: ["crypto"]
 ---
 
 Kripto analitičar i makroekonomist **Alex Krüger** smatra da tržište trenutno izgleda toliko loše da bi moglo postati bikovsko.  

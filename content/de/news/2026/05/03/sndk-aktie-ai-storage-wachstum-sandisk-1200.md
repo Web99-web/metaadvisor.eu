@@ -15,6 +15,7 @@ image_alt: "AI Markt und Wachstum der SNDK Aktie im Fokus eines Marktcharts"
 image_credit: "Metaadvisor.eu"
 tags: ["sndk aktie", "sandisk wachstum", "ai infrastruktur", "storage ai", "rechenzentren wachstum", "ai investitionen", "technologie aktien ai", "nasdaq ai trend", "speicher nachfrage ai", "investieren ai"]
 summary: "SanDisk (SNDK) ist von rund 250 USD Ende 2025 auf fast 1.200 USD im Jahr 2026 gestiegen, angetrieben durch die starke Nachfrage nach AI-Infrastruktur und Speicherlösungen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

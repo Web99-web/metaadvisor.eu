@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/25/bitcoin-tumbles-back-to
 summary: "Die meisten Kryptos fielen am späten Montag in den USA unter die Tiefs des Flash-Crashs vom Sonntag."
 tags: ["crypto","bitcoin","btc","ethereum","eth","dogecoin","doge","solana","sol","cardano","ada","chainlink","link","market","coinglass","liquidations"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/ac92c74383170bfd38f54d428e221984d59f1c04-6510x4831.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 Die Hoffnung auf eine schnelle Umkehr nach dem Wochenend-Einbruch verpuffte am Montag: **Bitcoin (BTC $ 115,244.11)** rutschte erneut unter **$110.000** – nur knapp über dem euphorischen Niveau von **$109.400** unmittelbar vor Trumps Vereidigung am 20. Januar.

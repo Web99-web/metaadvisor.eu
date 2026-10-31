@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/business/2025/09/04/stripe-paradigm-unveil
 summary: "Das Stablecoin-orientierte Design der Chain soll globale Auszahlungen, Mikrotransaktionen, Überweisungen und KI-Zahlungen ermöglichen, sagte Stripe-CEO Patrick Collison."
 tags: ["ai", "crypto", "stablecoin", "stripe", "paradigm", "blockchain", "payments", "ethereum", "eth", "solana", "sol"]
 image_url: "/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
+categories: ["ai"]
 ---
 
 Der Zahlungsriese **Stripe** und die Krypto-Investmentfirma **Paradigm** haben am Donnerstag offiziell **Tempo** vorgestellt, ihr gemeinsames Blockchain-Projekt für Stablecoin-Zahlungen.

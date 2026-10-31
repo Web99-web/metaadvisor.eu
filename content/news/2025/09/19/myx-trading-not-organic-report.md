@@ -16,6 +16,7 @@ image_alt: "Neutral MYX token (generic badge)"
 image_credit: "Metaadvisor.eu (CC0)"
 tags: ["myx","dex","manipulation","liquidity","sybil","airdrop","crypto","metaadvisor"]
 summary: "An independent analysis argues MYX trading was almost certainly coordinated. Liquidity, volume and spread anomalies, the authors say, have less than a 0.001% chance of occurring naturally."
+categories: ["news"]
 ---
 
 A report by two research teams concludes there is **less than a 0.001% chance** MYX trading was organic. Comparing thousands of minute-level datapoints, they found **synchronized illiquidity spikes**, atypical **bid–ask spread** behavior and **shrinking average order sizes** precisely when spreads would usually widen — patterns more consistent with **coordinated activity** than with natural price discovery.

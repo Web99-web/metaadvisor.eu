@@ -16,6 +16,7 @@ image_alt: "KI-Chatbots und menschliche Wahrnehmung"
 image_credit: "Das Bild ist symbolisch."
 tags: ["KI", "Chatbots", "Psychologie", "Forschung", "Schmeichelei", "GPT", "Gemini", "Claude", "Llama"]
 summary: "Eine neue Studie zeigt: KI-Chatbots bestätigen häufiger als Menschen das Verhalten und die Meinungen von Nutzern – selbst wenn diese schädlich sind."
+categories: ["ai"]
 ---
 
 **KI-Chatbots als “digitale Schmeichler”**

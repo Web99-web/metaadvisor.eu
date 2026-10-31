@@ -7,14 +7,15 @@ translationKey: "grayscale_tao_decentralized_ai_etp"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/12/30/grayscale-files-for-first-u-s-bittensor-etp-as-decentralized-ai-gains-momentum"
 author: "MetaAdvisor.eu"
-image_url: "/images/TAO-Grayscale.png"
-featured_image: "/images/TAO-Grayscale.png"
-image: "/images/TAO-Grayscale.png"
-thumbnail: "/images/TAO-Grayscale.png"
+image_url: "/images/TAO-Grayscale.webp"
+featured_image: "/images/TAO-Grayscale.webp"
+image: "/images/TAO-Grayscale.webp"
+thumbnail: "/images/TAO-Grayscale.webp"
 image_alt: "Symbolic illustration of a Grayscale ETP linked to TAO and decentralized artificial intelligence"
 image_credit: "MetaAdvisor.eu"
 tags: ["tao", "bittensor", "decentralized-ai", "ai-crypto", "crypto-ai", "crypto", "institutional-crypto", "grayscale"]
 summary: "Grayscale has filed for the first U.S.-listed ETP linked to TAO, marking a major institutional step toward decentralized artificial intelligence."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

@@ -7,15 +7,16 @@ translationKey: "air-china-new-europe-route-beijing-bucharest-zagreb-2026-09-06"
 source: "Air China, Xinhua, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/news/Air-China-new-Europe-route.png"
-featured_image: "/images/news/Air-China-new-Europe-route.png"
-image: "/images/news/Air-China-new-Europe-route.png"
-thumbnail: "/images/news/Air-China-new-Europe-route.png"
+image_url: "/images/news/Air-China-new-Europe-route.webp"
+featured_image: "/images/news/Air-China-new-Europe-route.webp"
+image: "/images/news/Air-China-new-Europe-route.webp"
+thumbnail: "/images/news/Air-China-new-Europe-route.webp"
 image_alt: "Air China startet neue Europa-Route Beijing–Bucharest–Zagreb"
 image_credit: "Metaadvisor.eu"
 tags: ["Air China", "China", "Kroatien", "Rumänien", "Europa", "Peking", "Bukarest", "Zagreb", "Luftverkehr", "Flugverbindungen", "Fluggesellschaften", "Tourismus", "Reisen", "Geschäftsreisen", "Europa-Routen", "internationale Flugverbindungen"]
 description: "Air China hat die neue Europa-Route Beijing–Bucharest–Zagreb gestartet. Sie wird dreimal pro Woche bedient und schafft erstmals eine reguläre Passagierverbindung zwischen China und Kroatien."
 summary: "Die neue Air-China-Route verbindet Beijing, Bucharest und Zagreb, erweitert das europäische Streckennetz der chinesischen Fluggesellschaft und bringt Kroatien erstmals eine reguläre Passagierverbindung mit China."
+categories: ["Travel"]
 ---
 
 *Das Bild ist symbolisch.*

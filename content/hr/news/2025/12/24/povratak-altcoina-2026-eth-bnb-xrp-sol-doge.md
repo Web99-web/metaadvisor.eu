@@ -26,6 +26,7 @@ tags:
   - institucionalni kapital
   - 2026
 summary: "Nakon godina dominacije Bitcoina, 2026. bi mogla donijeti selektivan povratak altcoina. Analiziramo zašto bi ETH, BNB, XRP, SOL i DOGE ponovno mogli doći u fokus — i zašto ovaj ciklus neće nalikovati prijašnjima."
+categories: ["crypto"]
 ---
 
 <div class="cta" style="text-align:center; margin:24px 0;">

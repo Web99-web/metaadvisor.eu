@@ -31,6 +31,7 @@ tags:
   - stablecoini
   - ai
 summary: "Tether navodno s Antalphom pokrećetvrtku za trezor/tokenizirano zlato (XAUT) i prikuplja ≥ $200M. Cilj: lending, kustodija i otkup XAUT-a uz širenje na fizičke trezore u financijskim središtima."
+categories: ["crypto"]
 ---
 
 **Tether**, izdavatelj **USDT-a**, prema pisanju Bloomberga radi s **Antalphom** (financiranje rudara/Bitmain partner) na prikupljanju **najmanje $200 milijuna** za novu tvrtku koja bi upravljala **digitalnim trezorom za tokenizirano zlato** — fokus na **XAUT-u** (Tether Gold), tokenu vezanom za **fizične zlatne poluge** u švicarskom trezoru.

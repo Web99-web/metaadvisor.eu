@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-low-can-bitcoin-price-go-if-dollar110k-btc-support-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "Bitcoin u padu — grafikon koji probija potporu"
 image_credit: "Slika je simbolična."
 tags: ["bitcoin", "crypto", "analiza cijene", "BTC podrška", "likvidacije", "Fibonacci", "tehnička analiza"]
 summary: "Bitcoin testira ključnu podršku na 110.000 $. Ako razina padne, analitičari upozoravaju na kaskadne likvidacije i nove zone kupnje ispod 100k."
+categories: ["crypto"]
 ---
 
 Bitcoin se trenutno nalazi na **kritičnoj potpori oko 110.000 $**. Pitanje koje najviše brine tržište glasi: *što ako ova razina ne izdrži?* Analitičari ističu da bi rušenje ove točke moglo otvoriti prostor za **kaskadne likvidacije** i pad prema nižim psihološkim razinama.

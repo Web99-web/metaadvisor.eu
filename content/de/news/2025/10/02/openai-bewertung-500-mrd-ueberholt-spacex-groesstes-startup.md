@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/openai-largest-startup-500b-valuation-tether-crypto-comparison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/openai.png"
-featured_image: "/images/openai.png"
-image: "/images/openai.png"
-thumbnail: "/images/openai.png"
+image_url: "/images/openai.webp"
+featured_image: "/images/openai.webp"
+image: "/images/openai.webp"
+thumbnail: "/images/openai.webp"
 image_alt: "OpenAI-Logo — symbolische Illustration"
 image_credit: "Metaadvisor.eu (symbolisches Bild)"
 tags:
@@ -27,6 +27,7 @@ tags:
   - generative-ai
   - investors
 summary: "Berichten zufolge erreicht OpenAI eine Bewertung von 500 Mrd. USD, überholt damit SpaceX und wird zum größten privaten Startup. Treiber sind ChatGPT-/Enterprise-Umsätze, der API-Markt und generative-AI-Produkte."
+categories: ["ai"]
 ---
 
 **OpenAI** soll eine **Bewertung von rund 500 Mrd. USD** erreicht haben und damit **SpaceX** überholen — als **größtes privates Startup** weltweit. Investoren verweisen auf das **beschleunigte ChatGPT-Geschäft**, wachsende **Enterprise-Verträge** und die stärkere Nutzung der **API** durch Entwickler und Unternehmen.

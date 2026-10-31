@@ -15,6 +15,7 @@ image_alt: "Charts von Bitcoin und Ethereum — kurzfristiger Anstieg (symbolisc
 image_credit: "Symbolisches Bild."
 tags: ["bitcoin", "ethereum", "markt", "liquidationen", "derivate", "sentiment", "makro", "zölle", "seltene erden"]
 summary: "Nach rekordhohen Liquidationen und geopolitischem Stress (US–China-Zölle, Seltene Erden) erholt sich BTC auf ~115.000 $ und ETH auf ~4.164 $. Ist das nur ein Relief-Bounce und 'Liquidity Grab' — oder der Beginn einer bullischen Fortsetzung?"
+categories: ["crypto"]
 ---
 
 **Kurz gefasst:**  

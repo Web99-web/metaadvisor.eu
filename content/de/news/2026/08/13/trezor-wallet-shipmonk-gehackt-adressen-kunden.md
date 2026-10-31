@@ -6,15 +6,16 @@ category: "cybersecurity"
 translationKey: "trezor-shipmonk-data-breach-2026-08-13"
 source: "Trezor, Financial Times, BleepingComputer, CoinDesk"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Trezor-partner-ShipMonk-hacked.png"
-featured_image: "/images/hack/Trezor-partner-ShipMonk-hacked.png"
-image: "/images/hack/Trezor-partner-ShipMonk-hacked.png"
-thumbnail: "/images/hack/Trezor-partner-ShipMonk-hacked.png"
+image_url: "/images/hack/Trezor-partner-ShipMonk-hacked.webp"
+featured_image: "/images/hack/Trezor-partner-ShipMonk-hacked.webp"
+image: "/images/hack/Trezor-partner-ShipMonk-hacked.webp"
+thumbnail: "/images/hack/Trezor-partner-ShipMonk-hacked.webp"
 image_alt: "Trezor Hardware-Wallet und Sicherheitsvorfall beim Logistikpartner ShipMonk"
 image_credit: "Metaadvisor.eu – Bild ist symbolisch"
 tags: ["Trezor", "ShipMonk", "Hardware Wallet", "Cold Wallet", "Data Breach", "Hacker", "Bitcoin", "Krypto", "Phishing", "Cybersecurity"]
 description: "Trezors Logistikpartner ShipMonk wurde kompromittiert. Dabei wurden personenbezogene Daten von fast 14.000 Hardware-Wallet-Käufern offengelegt, darunter bei einem Teil der Betroffenen auch vollständige Lieferadressen."
 summary: "Trezor-Wallets und private Schlüssel wurden nicht kompromittiert, doch Angreifer gelangten über den Logistikpartner ShipMonk an die Daten von 13.689 Kunden. Bei 11.742 Personen waren auch vollständige Lieferadressen betroffen."
+categories: ["cybersecurity"]
 ---
 
 *Das Bild ist symbolisch.*

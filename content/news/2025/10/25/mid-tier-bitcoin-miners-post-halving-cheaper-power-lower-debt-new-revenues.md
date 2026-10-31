@@ -15,6 +15,7 @@ image_alt: "Bitcoin coins — mining illustration"
 image_credit: "Image is symbolic."
 tags: ["bitcoin", "BTC", "mining", "halving", "hashrate", "energy", "power contracts", "demand-response", "ASIC", "cooling", "data center", "operational efficiency", "debt", "CAPEX", "revenues", "crypto"]
 summary: "Post-halving, mid-tier miners are gaining momentum by combining cheaper power, tighter debt discipline, more efficient fleets and additional revenue streams — reshaping the sector’s pecking order."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

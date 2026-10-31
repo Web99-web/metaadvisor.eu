@@ -7,15 +7,16 @@ translationKey: "liquid-white-hat-hackers-return-bitcoin-2026-09-08"
 source: "Liquid Network, Blockstream, SideSwap, Bitquery, The Block, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Liquid-white-hats-hack-4000-BTC.png"
-featured_image: "/images/hack/Liquid-white-hats-hack-4000-BTC.png"
-image: "/images/hack/Liquid-white-hats-hack-4000-BTC.png"
-thumbnail: "/images/hack/Liquid-white-hats-hack-4000-BTC.png"
+image_url: "/images/hack/Liquid-white-hats-hack-4000-BTC.webp"
+featured_image: "/images/hack/Liquid-white-hats-hack-4000-BTC.webp"
+image: "/images/hack/Liquid-white-hats-hack-4000-BTC.webp"
+thumbnail: "/images/hack/Liquid-white-hats-hack-4000-BTC.webp"
 image_alt: "White-hat hakeri povukli 4.000 BTC iz Liquid Networka i nakon zakrpe vratili 3.400 BTC"
 image_credit: "Metaadvisor.eu"
 tags: ["Liquid Network", "Bitcoin", "kripto", "hakeri", "white-hat hakeri", "Blockstream", "SideSwap", "Elements", "blockchain", "OP_RETURN", "sigurnost", "kibernetička sigurnost", "L-BTC", "Bitcoin sidechain", "kripto sigurnost"]
 description: "Akteri koji se nazivaju white-hat hakerima povukli su gotovo 4.000 BTC iz Liquid Networka, poručili Blockstreamu da prvo popravi bug i nakon zakrpe vratili 3.400 BTC."
 summary: "Liquid Network ostao je bez gotovo 4.000 BTC nakon iskorištavanja buga u Elementsu. Akteri su preko poruka zapisanih izravno u Bitcoin blockchain obećali vratiti većinu sredstava nakon popravka ranjivosti – i zatim vratili 3.400 BTC."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

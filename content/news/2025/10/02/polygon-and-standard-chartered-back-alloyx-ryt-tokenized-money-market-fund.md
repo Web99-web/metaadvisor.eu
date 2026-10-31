@@ -32,6 +32,7 @@ tags:
   - tokenization
   - crypto-market
 summary: "AlloyX launches RYT, a tokenized money market fund on Polygon, with custody by Standard Chartered, DeFi-integrated yield boosts, T+1 settlement and selected on-chain disclosures."
+categories: ["crypto"]
 ---
 
 **AlloyX**, a Hong Kong–based stablecoin infrastructure firm, unveiled **RYT**, a **tokenized money market fund (MMF)** debuting **on Polygon** with **Standard Chartered** providing **custody**. Unlike typical tokenized MMFs that offer passive exposure, RYT **integrates DeFi** to pursue **yield-enhancing strategies** within a **compliance-first** framework suitable for auditors and regulators.

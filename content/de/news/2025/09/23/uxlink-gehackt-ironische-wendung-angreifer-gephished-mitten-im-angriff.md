@@ -16,6 +16,7 @@ image_alt: "Sicherheitsvorfall — symbolische Illustration"
 image_credit: "Metaadvisor (symbolisches Bild)"
 tags: ["UXLink","UXLINK","Hack","Phishing","Multisig","DeFi","Web3","Token-Minting","CEX","DEX","Security","Exploit","PeckShield","Hacken","Lookonchain","Token-Swap"]
 summary: "UXLink meldet einen Multisig-Breach mit massenhaftem, unautorisiertem Mint von UXLINK — der Kurs stürzte ab. Ironie: Der Angreifer wurde während des Exits selbst gephished und verlor einen Großteil der Beute."
+categories: ["news"]
 ---
 
 **Kurz & knapp:**  

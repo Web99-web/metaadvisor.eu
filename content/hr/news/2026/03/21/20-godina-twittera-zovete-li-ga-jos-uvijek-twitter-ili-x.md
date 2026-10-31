@@ -7,14 +7,15 @@ translationKey: "twitter-x-20-years-2006-2026"
 author: "Metaadvisor.eu"
 source: ""
 source_url: ""
-image_url: "/images/news/X-Twitter-20-years.png"
-featured_image: "/images/news/X-Twitter-20-years.png"
-image: "/images/news/X-Twitter-20-years.png"
-thumbnail: "/images/news/X-Twitter-20-years.png"
+image_url: "/images/news/X-Twitter-20-years.webp"
+featured_image: "/images/news/X-Twitter-20-years.webp"
+image: "/images/news/X-Twitter-20-years.webp"
+thumbnail: "/images/news/X-Twitter-20-years.webp"
 image_alt: "20 years of Twitter X platform evolution social media history"
 tags: ["twitter", "x", "elon musk", "social media", "ai moderation", "tech", "internet history", "communication", "platforms"]
 summary: "Od prvog tweeta 2006. do platforme X danas — kako je jedna ideja promijenila internet i kamo ide dalje."
 symbolic_image: true
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

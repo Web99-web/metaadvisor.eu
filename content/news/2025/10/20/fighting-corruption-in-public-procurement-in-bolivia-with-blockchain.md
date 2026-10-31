@@ -16,6 +16,7 @@ image_alt: "Flag of Bolivia"
 image_credit: "Illustrative image."
 tags: ["Bolivia", "corruption", "blockchain", "public procurement", "transparency", "crypto", "AI", "smart contracts"]
 summary: "Bolivia’s new president plans to deploy blockchain and smart contracts across public procurement to enhance transparency and curb corruption."
+categories: ["ai"]
 ---
 
 Newly elected president **Rodrigo Paz** has placed **blockchain** at the center of a procurement overhaul. The plan is to record tender documents, awards, contracts and payments **on-chain**, and to trigger **smart-contract** payouts only after verified delivery, making every step **auditable and tamper-resistant**.

@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-price-drops-3-percent-analyst-warns-bulls-lack-momentum-69k"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc-sideways3.png"
-featured_image: "/images/btc-sideways3.png"
-image: "/images/btc-sideways3.png"
-thumbnail: "/images/btc-sideways3.png"
+image_url: "/images/btc-sideways3.webp"
+featured_image: "/images/btc-sideways3.webp"
+image: "/images/btc-sideways3.webp"
+thumbnail: "/images/btc-sideways3.webp"
 image_alt: "Bitcoin grafikon koji pokazuje kretanje cijene oko 69.000 dolara"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["bitcoin", "btc", "kripto", "cijena bitcoina", "kripto tržište", "tržišni otpor", "trgovanje", "analiza", "kripto vijesti"]
 summary: "Bitcoin ponovno pokazuje slabost oko razine od 69.000 dolara, a analitičari upozoravaju da bi ta zona mogla ostati dugoročni otpor ako se ne pojavi snažan bullish katalizator."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

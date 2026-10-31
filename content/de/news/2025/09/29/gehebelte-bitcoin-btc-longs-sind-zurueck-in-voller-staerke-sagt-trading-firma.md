@@ -16,6 +16,7 @@ image_alt: "Bitcoin mit Marktmetriken zu Perpetual-Futures"
 image_credit: "Symbolisches Bild: Metaadvisor.eu"
 tags: ["Krypto","Bitcoin","Perpetuals","Futures","Open-Interest","Funding-Rate","QCP-Capital","Deribit","Hyperliquid","Leverage","Liquidationen","Coinglass","Märkte"]
 summary: "Laut QCP Capital kehren gehebelte BTC-Longs zurück: Open Interest in Perpetuals steigt, Funding-Rates klettern bis 13% auf führenden Börsen. Trotz Liquidationen von über 700 Mio. USD in der Vorwoche hellt sich die Stimmung auf."
+categories: ["crypto"]
 ---
 
 **Kurz:** Trader positionieren sich wieder aggressiv **long** in **Bitcoin-Perpetuals**. **QCP Capital** meldet steigendes **Open Interest** und höhere **Funding-Rates** auf zentralisierten und dezentralisierten Börsen – ein klares **bullishes** Signal.

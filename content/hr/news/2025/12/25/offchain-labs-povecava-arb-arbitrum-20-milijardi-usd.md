@@ -24,6 +24,7 @@ tags:
   - blockchain
   - skaliranje
 summary: "Offchain Labs, razvojni tim iza Arbitrum mreže, povećao je svoje udjele u ARB tokenu u trenutku kada je mreža premašila 20 milijardi USD ukupne zaključane vrijednosti. Potez se tumači kao signal dugoročnog povjerenja u Arbitrum unatoč pritisku na governance tokene."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

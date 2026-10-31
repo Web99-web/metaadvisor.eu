@@ -16,6 +16,7 @@ image_alt: "Apple iPhone Sicherheitsupdate"
 image_credit: "TechCrunch / Illustration"
 tags: ["apple","iphone","ipad","sicherheit","cybersecurity","darksword","hacker","ios","ipados","krypto"]
 summary: "Apple hat ein dringendes Sicherheitsupdate für ältere iPhones und iPads veröffentlicht, um Nutzer vor DarkSword-Angriffen zu schützen, die den Diebstahl von Daten über kompromittierte Webseiten ermöglichen."
+categories: ["tech"]
 ---
 
 *Das Bild ist symbolisch.*

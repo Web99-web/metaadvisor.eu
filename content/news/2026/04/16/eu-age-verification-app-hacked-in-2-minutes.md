@@ -7,14 +7,15 @@ translationKey: "eu-age-verification-app-security-flaw-2026"
 author: "Metaadvisor.eu"
 source: "X (Twitter), public posts"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/news/EU-age-verification-app-hacked.png"
-featured_image: "/images/news/EU-age-verification-app-hacked.png"
-image: "/images/news/EU-age-verification-app-hacked.png"
-thumbnail: "/images/news/EU-age-verification-app-hacked.png"
+image_url: "/images/news/EU-age-verification-app-hacked.webp"
+featured_image: "/images/news/EU-age-verification-app-hacked.webp"
+image: "/images/news/EU-age-verification-app-hacked.webp"
+thumbnail: "/images/news/EU-age-verification-app-hacked.webp"
 image_alt: "EU age verification app security flaw bypass"
 image_credit: "Metaadvisor illustration"
 tags: ["eu", "age verification", "security", "hacking", "privacy", "digital identity", "security flaw"]
 summary: "A security consultant demonstrated that the EU age verification app can be bypassed in under two minutes due to a serious design flaw."
+categories: ["tech"]
 ---
 
 *Image is symbolic.*

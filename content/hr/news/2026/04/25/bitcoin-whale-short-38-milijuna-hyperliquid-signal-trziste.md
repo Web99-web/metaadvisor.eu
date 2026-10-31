@@ -7,14 +7,15 @@ translationKey: "bitcoin-whale-short-hyperliquid-signal"
 source: "Cointelegraph, CoinGlass"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/whale.png"
-featured_image: "/images/whale.png"
-image: "/images/whale.png"
-thumbnail: "/images/whale.png"
+image_url: "/images/whale.webp"
+featured_image: "/images/whale.webp"
+image: "/images/whale.webp"
+thumbnail: "/images/whale.webp"
 image_alt: "Bitcoin whale short position visible on Hyperliquid platform"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["crypto","bitcoin","whale","trading","short","hyperliquid","tržište","kripto"]
 summary: "Veliki trader otvorio je short poziciju od oko 38 milijuna dolara na Bitcoinu. No znači li to stvarno da tržište očekuje pad ili se radi o pogrešnoj interpretaciji podataka?"
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

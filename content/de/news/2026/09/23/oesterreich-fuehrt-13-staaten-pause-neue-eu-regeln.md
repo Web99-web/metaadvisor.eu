@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Europäische Union", "EU", "Regulierung", "Bürokratie", "Unternehmer", "kleine Unternehmen", "KMU", "Wettbewerbsfähigkeit", "Österreich", "Deutschland", "Italien", "Wirtschaft", "Verwaltungskosten"]
 description: "Dreizehn EU-Mitgliedstaaten fordern eine regulatorische Pause und eine grundlegende Überprüfung bestehender Regeln. Gleichzeitig will die Europäische Kommission die Verwaltungslast für Unternehmen um mindestens 25 Prozent und für kleine und mittlere Unternehmen um 35 Prozent senken."
 summary: "Österreich und zwölf weitere EU-Mitgliedstaaten fordern weniger neue Vorschriften, eine systematische Überprüfung bestehender Regeln sowie ein Jahr der Umsetzung und Konsolidierung. Die Initiative kommt zu einem Zeitpunkt, an dem auch die Europäische Kommission einräumt, dass administrative Belastungen das Wachstum bremsen und Vereinfachungen Einsparungen in Milliardenhöhe bringen können."
+categories: ["business"]
 ---
 
 *Das Bild ist symbolisch.*

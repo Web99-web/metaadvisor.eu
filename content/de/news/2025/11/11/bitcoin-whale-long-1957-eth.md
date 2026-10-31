@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "a3c7e5f7183ab21b25cd98e409a11a73"
 source: "Crypto Rover / X"
 source_url: "https://x.com/cryptorover"
-image_url: "/images/Whale-long-1957-eth.png"
-featured_image: "/images/Whale-long-1957-eth.png"
-image: "/images/Whale-long-1957-eth.png"
-thumbnail: "/images/Whale-long-1957-eth.png"
+image_url: "/images/Whale-long-1957-eth.webp"
+featured_image: "/images/Whale-long-1957-eth.webp"
+image: "/images/Whale-long-1957-eth.webp"
+thumbnail: "/images/Whale-long-1957-eth.webp"
 image_alt: "Bitcoin whale opens $195.7 million long on ETH"
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto","ethereum","bitcoin","whale","märkte","ai","institutionen"]
 summary: "Eine große Crypto-„Whale“, die zuvor Bitcoin kurzgeshortet hatte, eröffnet nun eine Long-Position im Wert von 195,7 Millionen USD auf Ethereum – ein möglicher Hinweis auf einen Markt-Turnaround."
+categories: ["crypto"]
 ---
 
 💥 **BREAKING:**  

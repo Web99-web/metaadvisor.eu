@@ -8,6 +8,7 @@ source_url: "https://metaadvisor.eu/"
 summary: "World Liberty Financial (WLFI) spalio je 47 milijuna tokena u pokušaju da zaustavi pad cijene, no tržišni pritisak se nastavlja."
 tags: ["WLFI", "crypto", "token burn", "altcoin", "decentralizirano-financiranje"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/3/36/Fire_icon.png"
+categories: ["crypto"]
 ---
 
 **World Liberty Financial (WLFI)** spalio je **47 milijuna tokena** kako bi pokušao potaknuti cijenu i zaustaviti kontinuirani pad vrijednosti.  

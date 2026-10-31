@@ -16,6 +16,7 @@ tags: ["Buy Me a Coffee", "organische Reichweite", "digitale Monetarisierung", "
 summary: "MetaAdvisor testet seit fast einem Jahr manuelles organisches Wachstum ohne bezahlte Anzeigen, geboostete Beiträge oder künstlichen Traffic. Vor einigen Monaten wurde Buy Me a Coffee als weiterer Teil des Experiments hinzugefügt. Organische Reichweite ist vorhanden, die Zielgruppe wächst, aber die Einnahmen aus direkter Unterstützung liegen bisher weiterhin bei null Dollar."
 disclaimer: "Dieser Artikel dient ausschließlich Informationszwecken und ist ein Erfahrungsbericht von MetaAdvisor über organische Reichweite und den Versuch, Inhalte über Buy Me a Coffee zu monetarisieren. Er stellt keine geschäftliche, finanzielle oder marketingbezogene Beratung dar."
 draft: false
+categories: ["business"]
 ---
 
 Das Bild ist symbolisch.

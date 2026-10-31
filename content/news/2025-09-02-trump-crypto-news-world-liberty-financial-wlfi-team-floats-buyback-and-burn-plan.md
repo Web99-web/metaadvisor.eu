@@ -9,6 +9,7 @@ summary: "A Trump-linked DeFi project proposes using liquidity fees to permanent
 tags: ["crypto","WLFI","Trump","DeFi","tokenomics"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/b2c7d33ec21ab2d7e423b91f9e7cfef8773f2d8e-2000x1125.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/b2c7d33ec21ab2d7e423b91f9e7cfef8773f2d8e-2000x1125.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 World Liberty Financial (WLFI), the Trump-family-affiliated DeFi project, is pitching a new tokenomics maneuver to restore confidence after a rocky trading debut: a buyback-and-burn program funded by protocol-owned liquidity fees.

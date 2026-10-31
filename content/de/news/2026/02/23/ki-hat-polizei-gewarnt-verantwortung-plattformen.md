@@ -7,14 +7,15 @@ translationKey: "ai-alerted-police-platform-responsibility-2026"
 source: "Tech reporting"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/AI-alerted-police.png"
-featured_image: "/images/AI-alerted-police.png"
-image: "/images/AI-alerted-police.png"
-thumbnail: "/images/AI-alerted-police.png"
+image_url: "/images/AI-alerted-police.webp"
+featured_image: "/images/AI-alerted-police.webp"
+image: "/images/AI-alerted-police.webp"
+thumbnail: "/images/AI-alerted-police.webp"
 image_alt: "KI hat die Polizei gewarnt – Sicherheit oder Überwachung?"
 image_credit: "MetaAdvisor.eu (symbolische Illustration)"
 tags: ["KI", "Künstliche Intelligenz", "OpenAI", "Polizei", "Cybersicherheit", "Privatsphäre", "digitale Rechte", "KI Regulierung", "Technologie", "Sicherheit", "KI Ethik"]
 summary: "Berichte, dass eine KI-Plattform Behörden frühzeitig gewarnt haben soll, entfachen eine Debatte über die Verantwortung von Technologieunternehmen. Wo endet Schutz und wo beginnt digitale Überwachung?"
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

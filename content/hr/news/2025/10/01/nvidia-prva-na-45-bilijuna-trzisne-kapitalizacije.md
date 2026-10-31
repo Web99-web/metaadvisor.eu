@@ -7,14 +7,15 @@ translationKey: "f3c9e6d0a8a24b8e9f48a7b7c0a5f9b2"
 source: "Market recap"
 source_url: "https://example.com"
 author: "Metaadvisor.eu"
-image_url: "/images/Nvidia-4.5-trillion.png"
-featured_image: "/images/Nvidia-4.5-trillion.png"
-image: "/images/Nvidia-4.5-trillion.png"
-thumbnail: "/images/Nvidia-4.5-trillion.png"
+image_url: "/images/Nvidia-4.5-trillion.webp"
+featured_image: "/images/Nvidia-4.5-trillion.webp"
+image: "/images/Nvidia-4.5-trillion.webp"
+thumbnail: "/images/Nvidia-4.5-trillion.webp"
 image_alt: "Nvidia doseže $4,5 bilijuna tržišne kapitalizacije"
 image_credit: "Vizual: Metaadvisor.eu (simbolična ilustracija)"
 tags: ["nvidia","ai","gpu","tržišta","dionice","market-cap","chips","data-centers","hyperscalers","ai-infrastructure","depin","kripto-narativi"]
 summary: "Nvidia je probila povijesnu granicu od $4,5 bilijuna tržišne kapitalizacije — prva kompanija ikad na toj razini. AI superciklus, capex hyperscalera i ugovori oko GPU infrastrukture nastavljaju gurati valuaciju."
+categories: ["markets"]
 ---
 
 **Kratko:** **Nvidia** je dosegla **$4,5T market cap**, što je **povijesni rekord** za bilo koju javno trgovanju kompaniju. Milestone dolazi nakon niza prekretnica: $1T (2023), $2T (2024), $3T (2024), $4T (07/2025).

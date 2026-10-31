@@ -9,6 +9,7 @@ summary: "Muškarac s Floride, već osuđen na 47 godina zatvora zbog niza nasil
 tags: ["bitcoin", "crypto"]
 image_url: "https://cdn.decrypt.co/optimized/1200/webp/wp-content/uploads/2025/08/handcuffs-prison-gID_7.jpg"
 image: "https://cdn.decrypt.co/optimized/1200/webp/wp-content/uploads/2025/08/handcuffs-prison-gID_7.jpg"
+categories: ["crypto"]
 ---
 
 Muškarac iz Floride, već osuđen na 47 godina zatvora zbog organiziranja serije nasilnih pljački domova vlasnika kriptovaluta, prošlog je tjedna dobio dodatnu kaznu zbog napada na svjedoka, objavilo je američko Ministarstvo pravosuđa.  

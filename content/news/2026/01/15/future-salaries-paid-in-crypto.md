@@ -7,10 +7,10 @@ translationKey: "future_of_salaries_crypto_20260115"
 source: "MetaAdvisor Analysis"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Salaries-crypto.png"
-featured_image: "/images/Salaries-crypto.png"
-image: "/images/Salaries-crypto.png"
-thumbnail: "/images/Salaries-crypto.png"
+image_url: "/images/Salaries-crypto.webp"
+featured_image: "/images/Salaries-crypto.webp"
+image: "/images/Salaries-crypto.webp"
+thumbnail: "/images/Salaries-crypto.webp"
 image_alt: "The future of salary payments and cryptocurrencies"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "Paying part of a salary in cryptocurrency is no longer a theory. From Switzerland to the United States and Latin America, crypto salaries already exist — mostly through hybrid, regulation-friendly models."
@@ -24,6 +24,7 @@ tags:
   - work
   - finance
   - future
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

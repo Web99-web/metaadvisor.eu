@@ -9,6 +9,7 @@ summary: "Kretanje cijene DOGE-a upućuje na daljnje dobitke, uz podršku na 0,2
 tags: ["dogecoin","doge","price","bullish","breakout","whales","powell","fed","wyoming","stablecoin","thumzup","dogehash","sofi","lightning-network","mining","markets","crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/4748d98709f7d9235d6de26ad84f0cd7bd6e070f-741x450.png?auto=format"
 image_alt: "DOGE raste 11% uz formiranje bullish strukture nakon proboja uz visoki volumen"
+categories: ["news"]
 ---
 
 Meme token dosegnuo je vrh od 0,24 $, pri čemu je volumen gotovo udvostručen u odnosu na mjesečni prosjek – signal institucionalne aktivnosti iza ovog rasta.

@@ -27,6 +27,7 @@ tags:
   - coinbase-institutional
   - liquidity
 summary: "AVAX je pao ~8% u 24 h na ~27,72 $, čime je tjedni pad narastao na ~18%. Unatoč novim inicijativama i savjetničkom timu visokog profila, kupovni zamah zasad izostaje."
+categories: ["ai"]
 ---
 
 **Kratko:** **AVAX** je u petak pao oko **8%** na **27,72 $**, pa je **tjedni pad** narastao na približno **18%**. Slabost je dio šire korekcije na tržištu — **ETH, SOL i DOGE** bilježe dvoznamenkaste tjedne minuse, dok je **BTC ~−6%**.

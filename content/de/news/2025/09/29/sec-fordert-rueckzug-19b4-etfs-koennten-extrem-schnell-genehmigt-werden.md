@@ -3,8 +3,9 @@ title: "SEC fordert Rückzug der 19b-4-Anträge; ETFs könnten extrem schnell ge
 date: 2025-09-29T17:02:10Z
 category: "news"
 translationKey: "8800b11984274d024d8cbd98290e093f"
-image: "/images/SEC-ETFs.png"
+image: "/images/SEC-ETFs.webp"
 tags: ["ETF", "SEC", "crypto", "bitcoin"]
+categories: ["news"]
 ---
 
 Die US-Börsenaufsicht **SEC** hat Emittenten von Krypto-ETFs aufgefordert, ihre **19b-4-Anträge** zurückzuziehen. Damit könnte der Weg für ein deutlich schnelleres Genehmigungsverfahren frei werden.  

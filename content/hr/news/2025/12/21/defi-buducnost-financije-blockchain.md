@@ -7,14 +7,15 @@ translationKey: "defi_future_onchain_finance_21122025"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/defi.png"
-featured_image: "/images/defi.png"
-image: "/images/defi.png"
-thumbnail: "/images/defi.png"
+image_url: "/images/defi.webp"
+featured_image: "/images/defi.webp"
+image: "/images/defi.webp"
+thumbnail: "/images/defi.webp"
 image_alt: "DeFi – budućnost financija na blockchainu"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["defi", "decentralizirane-financije", "blockchain", "kripto", "onchain-financije", "web3", "tokenizacija", "financijska-buducnost"]
 summary: "DeFi ne nestaje, već se stapa s tradicionalnim financijama. Blockchain postaje nova infrastruktura globalnih tržišta kapitala."
+categories: ["ai"]
 ---
 
 # DeFi budućnost: financije se sele na blockchain

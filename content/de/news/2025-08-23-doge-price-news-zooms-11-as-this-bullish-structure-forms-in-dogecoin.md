@@ -9,6 +9,7 @@ summary: "Die Preisaktion von DOGE deutet auf weitere Gewinne hin – Unterstüt
 tags: ["dogecoin","doge","price","bullish","breakout","whales","powell","fed","wyoming","stablecoin","thumzup","dogehash","sofi","lightning-network","mining","markets","crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/4748d98709f7d9235d6de26ad84f0cd7bd6e070f-741x450.png?auto=format"
 image_alt: "DOGE steigt um 11 %; bullishe Struktur nach Ausbruch mit hohem Volumen"
+categories: ["news"]
 ---
 
 Der Memecoin erreichte ein Hoch von 0,24 $, wobei sich das Volumen im Vergleich zum Monatsdurchschnitt nahezu verdoppelte – ein Signal für institutionelle Aktivität hinter der Rally.

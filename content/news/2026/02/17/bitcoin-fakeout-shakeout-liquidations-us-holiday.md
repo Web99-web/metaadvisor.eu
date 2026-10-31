@@ -15,6 +15,7 @@ image_alt: "Bitcoin volatility during a US bank holiday"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["bitcoin", "btc", "crypto market", "liquidations", "volatility", "us holiday", "trading", "leverage", "short squeeze", "long squeeze", "crypto analysis", "crypto", "market"]
 summary: "Bitcoin briefly surged toward $70,000 during a US bank holiday before sharply reversing, liquidating around $120 million in long and short positions. Analysts describe the move as a classic low-liquidity 'fakeout' and 'shakeout' pattern."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

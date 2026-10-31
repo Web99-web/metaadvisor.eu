@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "meta-safety-director-signal-not-whatsapp-arturo-bejar-2026-08-27"
 source: "US federal court filings, Reuters, AP, The Guardian, KQED, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.png"
-featured_image: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.png"
-image: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.png"
-thumbnail: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.png"
+image_url: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.webp"
+featured_image: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.webp"
+image: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.webp"
+thumbnail: "/images/Meta/Meta-safety-director-used-Signal-not-Whatsapp.webp"
 image_alt: "Bivši Metin direktor sigurnosti Arturo Béjar koristio Signal umjesto WhatsAppa za dio osjetljive komunikacije"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Meta", "Facebook", "Instagram", "WhatsApp", "Signal", "Arturo Béjar", "sigurnost", "privatnost", "šifrirane poruke", "end-to-end enkripcija", "nestajuće poruke", "svjedočenje", "sud", "Mark Zuckerberg", "regulacija", "Kalifornija", "Colorado", "Kentucky", "New Jersey", "Arizona", "Connecticut", "Delaware", "Georgia", "Havaji", "Idaho", "Illinois", "Indiana", "Kansas", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "Missouri", "Nebraska", "New York", "Sjeverna Karolina", "Sjeverna Dakota", "Ohio", "Oregon", "Pennsylvania", "Rhode Island", "Južna Karolina", "Južna Dakota", "Virginia", "Washington", "Zapadna Virginia", "Wisconsin", "Utah", "Massachusetts", "Mississippi", "New Hampshire", "Oklahoma", "Tennessee", "Vermont", "Florida"]
 description: "Arturo Béjar godinama je radio na sigurnosti korisnika Facebooka i Instagrama. U velikom američkom sporu protiv Mete otkriven je neobičan detalj: za dio osjetljive komunikacije koristio je Signal, a ne WhatsApp u vlasništvu Mete."
 summary: "Bivši Facebookov direktor sigurnosti Arturo Béjar koristio je Signal s nestajućim porukama za dio komunikacije povezane sa sporovima protiv Mete. Rekao je da kao sigurnosni stručnjak posebno pazi na operativnu sigurnost svojih komunikacija. Meta je zbog nestalih Signal poruka pokušala spriječiti njegovo svjedočenje, ali sud mu je ipak dopustio da svjedoči."
+categories: ["Technology"]
 ---
 
 *Slika je simbolična.*
@@ -92,7 +93,7 @@ Signal nije samo još jedna alternativa WhatsAppu. Njegova vlasnička struktura,
 O tome tko stoji iza Signala, kako funkcionira njegova enkripcija i zašto ga sve više ljudi bira umjesto WhatsAppa već smo detaljno pisali:
 
 <a href="https://metaadvisor.eu/hr/news/signal-tko-stoji-iza-aplikacije-privatnost-whatsapp-alternativa/" target="_blank" rel="noopener">
-<img src="/images/companies/Signal-app.png"
+<img src="/images/companies/Signal-app.webp"
      alt="Signal: tko stoji iza aplikacije koju sve više ljudi bira umjesto WhatsAppa?"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

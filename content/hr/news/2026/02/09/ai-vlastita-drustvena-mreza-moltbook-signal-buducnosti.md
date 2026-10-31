@@ -7,14 +7,15 @@ translationKey: "ai-moltbook-social-network-agents-2026-02-09"
 source: "Wired / AP News / Forbes / MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Moltbook.png"
-featured_image: "/images/Moltbook.png"
-image: "/images/Moltbook.png"
-thumbnail: "/images/Moltbook.png"
+image_url: "/images/Moltbook.webp"
+featured_image: "/images/Moltbook.webp"
+image: "/images/Moltbook.webp"
+thumbnail: "/images/Moltbook.webp"
 image_alt: "Simbolična ilustracija AI agenata koji međusobno komuniciraju na vlastitoj društvenoj mreži"
 image_credit: "Simbolična ilustracija (AI / javno dostupni vizual)"
 tags: ["ai", "umjetna inteligencija", "moltbook", "ai agenti", "društvene mreže", "automatizacija", "budućnost rada", "tehnologija"]
 summary: "Eksperimentalna AI-only društvena mreža, neslužbeno nazvana Moltbook, pokazala je kako umjetna inteligencija može sama stvarati sadržaj, rasprave i digitalne zajednice — bez sudjelovanja ljudi."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

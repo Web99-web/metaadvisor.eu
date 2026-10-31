@@ -7,14 +7,15 @@ translationKey: "c4339512869fb38d78d548ab106485fb"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/NFT-vaga.png"
-featured_image: "/images/NFT-vaga.png"
-image: "/images/NFT-vaga.png"
-thumbnail: "/images/NFT-vaga.png"
+image_url: "/images/NFT-vaga.webp"
+featured_image: "/images/NFT-vaga.webp"
+image: "/images/NFT-vaga.webp"
+thumbnail: "/images/NFT-vaga.webp"
 image_alt: "Illustration einer Waage als Symbol für Gerechtigkeit und den NFT-Markt"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Das US-Justizministerium lässt das Verfahren gegen den ehemaligen OpenSea-Manager Nathaniel Chastain fallen – ein Fall, der als erster Versuch galt, NFT-Insiderhandel strafrechtlich zu verfolgen."
 tags: ["opensea", "nft", "insiderhandel", "regulierung", "justiz", "krypto", "digitale vermögenswerte"]
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

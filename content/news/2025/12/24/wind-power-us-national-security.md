@@ -7,10 +7,10 @@ translationKey: "wind_power_us_security_24122025"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/12/22/trump-admin-halts-6-gw-of-offshore-wind-leases-again/"
 author: "MetaAdvisor.eu (Analysis)"
-image_url: "/images/Wind-turbine.png"
-featured_image: "/images/Wind-turbine.png"
-image: "/images/Wind-turbine.png"
-thumbnail: "/images/Wind-turbine.png"
+image_url: "/images/Wind-turbine.webp"
+featured_image: "/images/Wind-turbine.webp"
+image: "/images/Wind-turbine.webp"
+thumbnail: "/images/Wind-turbine.webp"
 image_alt: "Wind turbines with radar overlay symbolizing energy and national security"
 tags:
   - wind-power
@@ -20,6 +20,7 @@ tags:
   - infrastructure
   - energy-policy
 summary: "The US has paused major wind power projects citing national security concerns. But the real issue isn’t fixed locations — it’s how large turbine fields interact with radar and defense systems."
+categories: ["news"]
 ---
 
 <div class="cta" style="text-align:center; margin:20px 0 26px 0;">

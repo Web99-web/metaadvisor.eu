@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/cz-denies-binance-role-october-crypto-liquidation-usde-depeg"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Binance-CZ-responds.png"
-featured_image: "/images/Binance-CZ-responds.png"
-image: "/images/Binance-CZ-responds.png"
-thumbnail: "/images/Binance-CZ-responds.png"
+image_url: "/images/Binance-CZ-responds.webp"
+featured_image: "/images/Binance-CZ-responds.webp"
+image: "/images/Binance-CZ-responds.webp"
+thumbnail: "/images/Binance-CZ-responds.webp"
 image_alt: "Silueta CZ-a uz natpis CZ Responds, simboličan prikaz reakcije na tržišne optužbe"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -26,6 +26,7 @@ tags:
   - volatilnost
   - regulacija
 summary: "Nakon povijesnog vala likvidacija 10. listopada, dio tržišta uperio je prst u Binance. Changpeng Zhao (CZ) sada javno odgovara na optužbe i odbacuje tvrdnje da je burza izazvala krah."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

@@ -7,14 +7,15 @@ translationKey: "kazakhstan-crypto-reserves-350m-2026"
 author: "Metaadvisor.eu"
 source: "CoinDesk i Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/news/Kazahstan-goes-crypto.png"
-featured_image: "/images/news/Kazahstan-goes-crypto.png"
-image: "/images/news/Kazahstan-goes-crypto.png"
-thumbnail: "/images/news/Kazahstan-goes-crypto.png"
+image_url: "/images/news/Kazahstan-goes-crypto.webp"
+featured_image: "/images/news/Kazahstan-goes-crypto.webp"
+image: "/images/news/Kazahstan-goes-crypto.webp"
+thumbnail: "/images/news/Kazahstan-goes-crypto.webp"
 image_alt: "Kazakhstan entering crypto markets illustration"
 image_credit: "Metaadvisor.eu"
 tags: ["kripto","kriptovalute","bitcoin","kazahstan","centralna banka","digitalna imovina","crypto tržište","btc","blockchain","institucionalna ulaganja"]
 summary: "Kazahstanska središnja banka planira uložiti do 350 milijuna dolara iz zlatnih i deviznih rezervi u digitalnu imovinu i kripto infrastrukturu, čime zemlja dodatno učvršćuje svoju poziciju u globalnom kripto ekosustavu."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

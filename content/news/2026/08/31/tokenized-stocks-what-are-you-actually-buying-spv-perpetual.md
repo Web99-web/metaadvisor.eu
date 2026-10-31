@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "tokenized-stocks-ownership-spv-perpetual-paper-crisis-2026-08-31"
 source: "CoinDesk, Fairmint, SEC, DTCC, xStocks, Ondo Finance, Robinhood, Hyperliquid, Republic, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.png"
-featured_image: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.png"
-image: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.png"
-thumbnail: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.png"
+image_url: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.webp"
+featured_image: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.webp"
+image: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.webp"
+thumbnail: "/images/informative/Tokenized-stocks-real-stocks-tokens-perpetual-derivative.webp"
 image_alt: "Difference between real stocks, tokenized stocks, SPV structures, derivatives and perpetual contracts"
 image_credit: "Metaadvisor.eu – informative illustration"
 tags: ["tokenized stocks", "paperwork crisis", "RWA", "SPV", "perpetual", "Hyperliquid", "xStocks", "Ondo", "Robinhood", "Fairmint", "blockchain"]
 description: "Tokenized stocks can look almost identical on screen, but they may represent real shares, SPV structures, derivatives or perpetual contracts. Fairmint warns about the risk of a new digital 'paperwork crisis'."
 summary: "Wall Street had to shorten trading hours and close exchanges in 1968 just to process the paperwork. Today, Fairmint warns that tokenized stocks could create a digital version of the same problem: multiple records and products representing the same underlying asset."
+categories: ["Crypto"]
 ---
 
 *Image is for illustrative purposes.*

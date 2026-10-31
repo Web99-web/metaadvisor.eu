@@ -30,6 +30,7 @@ tags:
   - Argentina
   - Indonesia
 summary: "ApeX kompozitni indeks (vlasništvo, rast usvajanja, pretrage i broj kripto ATM-ova) rangira top 10 zemalja po korištenju kripta. Predvode Singapur i UAE; slijede SAD, Kanada, Turska, Njemačka, Švicarska, Australija, Argentina i Indonezija."
+categories: ["crypto"]
 ---
 
 > **Napomena:** Slika/ljestvica temelji se na ApeX kompozitnom indeksu (vlasništvo + rast usvajanja + pretrage + broj kripto bankomata), ne na jednom medijskom članku.

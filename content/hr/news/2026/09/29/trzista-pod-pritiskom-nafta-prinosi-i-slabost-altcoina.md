@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "nafta", "prinosi", "ZEC", "TAO", "AAVE", "kripto tržište", "makroekonomija", "SPR", "inflacija"]
 description: "Pad američkih strateških rezervi nafte, visoki prinosi na obveznice i slabljenje dijela altcoina ponovno su stavili makro pritisak u prvi plan."
 summary: "Američke strateške rezerve nafte pale su na najnižu razinu od 1982., dok su prinosi na obveznice ostali povišeni, a kripto tržište reagiralo neujednačeno. Bitcoin se drži relativno stabilno, AAVE ostaje snažan, TAO slabi nakon gubitka razine od 312 dolara, a ZEC pokazuje najjasnije novo pogoršanje."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

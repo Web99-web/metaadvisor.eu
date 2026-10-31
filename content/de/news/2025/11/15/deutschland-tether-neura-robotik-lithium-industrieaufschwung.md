@@ -16,6 +16,7 @@ image_alt: "Tether-Investition in deutsche Robotik"
 image_credit: "MetaAdvisor.eu"
 tags: ["tether", "neura robotics", "robotik", "deutschland", "lithium", "industrie", "ai", "technologie", "crypto", "europe", "investitionen", "markt", "analyse"]
 summary: "Deutschland erlebt einen neuen industriellen Aufschwung: riesige Lithiumfunde und eine mögliche Milliardeninvestition von Tether in Neura Robotics verändern das technologische Gleichgewicht Europas."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

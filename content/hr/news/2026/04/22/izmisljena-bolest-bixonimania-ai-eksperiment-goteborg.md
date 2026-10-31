@@ -7,14 +7,15 @@ translationKey: "bixonimania-ai-experiment-peer-review-fail"
 source: "Nature, Ars Technica, The Register, New York Post, Jutarnji list"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Bixonimania-fake-disease-experiment.png"
-featured_image: "/images/hack/Bixonimania-fake-disease-experiment.png"
-image: "/images/hack/Bixonimania-fake-disease-experiment.png"
-thumbnail: "/images/hack/Bixonimania-fake-disease-experiment.png"
+image_url: "/images/hack/Bixonimania-fake-disease-experiment.webp"
+featured_image: "/images/hack/Bixonimania-fake-disease-experiment.webp"
+image: "/images/hack/Bixonimania-fake-disease-experiment.webp"
+thumbnail: "/images/hack/Bixonimania-fake-disease-experiment.webp"
 image_alt: "Izmišljena bolest Bixonimania i AI halucinacije"
 image_credit: "Metaadvisor / ilustracija"
 tags: ["ai","umjetna inteligencija","ai halucinacije","znanost","peer review","chatgpt","gemini","tehnologija"]
 summary: "Eksperiment sa Sveučilišta u Göteborgu pokazao je kako AI i znanstveni sustav mogu prihvatiti uvjerljive, ali potpuno izmišljene informacije.Autori su koristili očito izmišljene identitete, uključujući AI generirane profile i humoristične reference — no unatoč tome, sustav ih nije odmah prepoznao. "
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

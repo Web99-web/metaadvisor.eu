@@ -7,14 +7,15 @@ translationKey: "b601ee49248d9054a0ee594d037e9c07"
 author: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2026/04/03/schwab-plans-spot-bitcoin-ether-trading-launch-in-first-half-of-2026"
-image_url: "/images/Wall-Street-moves-into-crypto.png"
-featured_image: "/images/Wall-Street-moves-into-crypto.png"
-image: "/images/Wall-Street-moves-into-crypto.png"
-thumbnail: "/images/Wall-Street-moves-into-crypto.png"
+image_url: "/images/Wall-Street-moves-into-crypto.webp"
+featured_image: "/images/Wall-Street-moves-into-crypto.webp"
+image: "/images/Wall-Street-moves-into-crypto.webp"
+thumbnail: "/images/Wall-Street-moves-into-crypto.webp"
 image_alt: "Wall Street ulazi u kripto tržište"
 image_credit: "Ilustracija"
 tags: ["kripto","crypto","bitcoin","btc","ethereum","eth","wall street","schwab","trgovanje","investiranje","etf","blockchain"]
 summary: "Charles Schwab planira pokrenuti spot trgovanje Bitcoinom i Ethereumom u 2026., što označava snažan ulazak Wall Streeta u kripto tržište i dodatnu integraciju digitalne imovine u tradicionalne financije."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

@@ -15,6 +15,7 @@ image_alt: "Ethereum stagnira dok tržište traži novi smjer"
 image_credit: "Metaadvisor.eu"
 tags: ["ethereum", "eth", "crypto", "kripto", "bitmine", "tom lee", "staking", "defi", "solana", "layer2", "blockchain", "ethereum price", "eth staking", "web3", "smart contracts", "altcoins", "bitcoin"]
 summary: "Ethereum se i dalje muči zadržati razine iznad 2.400 dolara dok tržište pokušava procijeniti usporava li najveći institucionalni kupac ETH-a svoju akumulaciju. Istovremeno raste pitanje treba li Ethereum novi narativ kako bi ponovno privukao snažniji momentum."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

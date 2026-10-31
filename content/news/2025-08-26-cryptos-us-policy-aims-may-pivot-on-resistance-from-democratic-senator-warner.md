@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/policy/2025/08/26/crypto-s-u-s-policy-aims
 summary: "The lawmaker's objections over crypto abuses are seen as a major hurdle needing to be cleared before the Senate's crypto market structure bill can move."
 tags: ["crypto"]
 image_url: "https://www.coindesk.com/policy/2025/08/26/crypto-s-u-s-policy-aims-may-pivot-on-resistance-from-democratic-senator-warner"
+categories: ["crypto"]
 ---
 
 U.S. Sen. Mark Warner is said to be resisting software developer protections in the crypto market structure bill. (Kevin Dietsch/Getty Images)

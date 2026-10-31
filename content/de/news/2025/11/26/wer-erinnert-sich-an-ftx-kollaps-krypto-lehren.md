@@ -7,14 +7,15 @@ translationKey: "ftx_lessons_history_20251126"
 source: "MetaAdvisor – Analyse"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/FTX-bankruptsy.png"
-featured_image: "/images/FTX-bankruptsy.png"
-image: "/images/FTX-bankruptsy.png"
-thumbnail: "/images/FTX-bankruptsy.png"
+image_url: "/images/FTX-bankruptsy.webp"
+featured_image: "/images/FTX-bankruptsy.webp"
+image: "/images/FTX-bankruptsy.webp"
+thumbnail: "/images/FTX-bankruptsy.webp"
 image_alt: "FTX-Kollaps – Erklärung und Auswirkungen"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ftx", "bankrott", "sam bankman-fried", "sbf", "bitcoin", "btc", "krypto", "kryptomarkt", "regulierung", "aufsicht", "transparenz", "defi", "börsen", "lessons learned", "finanzen"]
 summary: "Der FTX-Kollaps bleibt der größte Zusammenbruch in der Krypto-Geschichte. Hier erklären wir, was wirklich passiert ist, warum alles in 72 Stunden implodierte und welche Lehren die Branche ziehen muss."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

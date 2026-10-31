@@ -7,14 +7,15 @@ translationKey: "chrome-gemini-nano-on-device-ai-2026"
 source: "Metaadvisor (The Verge, Tom's Guide, X)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Google-Chrome-Gemini-Nano.png"
-featured_image: "/images/companies/Google-Chrome-Gemini-Nano.png"
-image: "/images/companies/Google-Chrome-Gemini-Nano.png"
-thumbnail: "/images/companies/Google-Chrome-Gemini-Nano.png"
+image_url: "/images/companies/Google-Chrome-Gemini-Nano.webp"
+featured_image: "/images/companies/Google-Chrome-Gemini-Nano.webp"
+image: "/images/companies/Google-Chrome-Gemini-Nano.webp"
+thumbnail: "/images/companies/Google-Chrome-Gemini-Nano.webp"
 image_alt: "Chrome und Gemini Nano lokales KI-Modell auf dem Gerät"
 image_credit: "Metaadvisor.eu"
 tags: ["chrome", "google", "gemini nano", "ki", "on-device ki", "datenschutz", "technik", "browser", "daten", "speicher", "ki modell", "lokale ki"]
 summary: "Chrome kann lokal ein KI-Modell (Gemini Nano) herunterladen, das mehrere Gigabyte Speicher belegt – oft ohne klare Benachrichtigung. Der Rollout ist nicht universell, wirft aber Fragen zu Transparenz und Kontrolle auf."
+categories: ["tech"]
 ---
 
 *Bild ist symbolisch.*

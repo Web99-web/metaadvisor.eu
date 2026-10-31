@@ -26,6 +26,7 @@ tags:
   - options
   - funding
 summary: "Bitcoin’s Bollinger Bands are the tightest in history — a classic squeeze that usually precedes large breakouts. Analysts warn of a coming volatility storm."
+categories: ["crypto"]
 ---
 
 **TL;DR:** Analysts highlight **the narrowest Bollinger Bands ever recorded for Bitcoin**, signaling **extreme volatility compression**. Such squeezes are often followed by **sharp breakouts**. The key question is not *if* but *where* the next big move unfolds.

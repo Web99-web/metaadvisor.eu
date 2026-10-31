@@ -16,6 +16,7 @@ image_alt: "Solana (SOL) — simbolična ilustracija"
 image_credit: "Metaadvisor.eu — simbolična slika"
 tags: ["crypto", "Solana", "ETH", "ETF", "institucionalna-ulaganja", "trgovanje", "altcoins", "blockchain", "regulacija", "SEC", "kapital"]
 summary: "SOL je već snažno rastao, ali ključno pitanje sada glasi: može li Solana nadmašiti Ether ako regulatori odobre spot ETF-ove? Ovdje donosimo analizu tržišnih očekivanja i rizika."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

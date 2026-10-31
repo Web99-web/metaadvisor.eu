@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/doge-btc-triangle-break
 summary: "Dogecoin erholt sich nach Tagesverkauf, während Wal-Akkumulation und ETF-Spekulationen die Handelsaktivität ankurbeln."
 tags: ["dogecoin", "DOGE", "bitcoin", "BTC", "crypto", "ETF", "ausbruch", "trading"]
 image_url: "https://upload.wikimedia.org/wikipedia/en/d/d0/Dogecoin_Logo.png"
+categories: ["crypto"]
 ---
 
 **Dogecoin (DOGE)** verzeichnete am Dienstag eine Schwankung von 4%, schloss jedoch 1% höher bei **0,213 USD**, trotz starker Volatilität.

@@ -12,6 +12,7 @@ featured_image: "/images/bitcon-down.jpg"
 image_alt: "Bitcoin – roter Tag am Markt"
 tags: ["bitcoin","märkte","on-chain","sentiment"]
 summary: "Seit ca. 10:00 (CEST) rutscht der Kurs und liegt um $114.867. Kurz erklärt: Heute verkaufen sowohl kleine als auch große Wallets mehr als sie kaufen — typisch für eine Marktphase der Konsolidierung."
+categories: ["crypto"]
 ---
 
 Gegen **10:00 (CEST)** setzte bei Bitcoin ein Rücksetzer ein; zum Zeitpunkt des Schreibens liegt der Kurs um **$114.867**. Wenn wir sagen, „Gruppen verkaufen“, meinen wir keine Geheimgesellschaften, sondern **Wallet-Gruppen nach Saldenhöhe**. Analyse-Tools beobachten getrennt **kleine** (unter 1 BTC), **mittlere** (z. B. 1–100 BTC) und **große** Bestände (Hunderte/Tausende BTC). Heute zeigt sich quer über diese Gruppen: **netto wird verkauft**.

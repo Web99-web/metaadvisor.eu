@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/18/btc-xrp-sol-doge-resume-slow-grind-higher-after-fed-but-dollar-index-is-resilient-too"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/dogecoin-doge.png"
-featured_image: "/images/dogecoin-doge.png"
-image: "/images/dogecoin-doge.png"
-thumbnail: "/images/dogecoin-doge.png"
+image_url: "/images/dogecoin-doge.webp"
+featured_image: "/images/dogecoin-doge.webp"
+image: "/images/dogecoin-doge.webp"
+thumbnail: "/images/dogecoin-doge.webp"
 image_alt: "Dogecoin i kretanje tržišta nakon Feda"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["crypto","bitcoin","doge","xrp","sol","eth","bnb","options","cme","fed","fomc","dxy","markets","metaadvisor"]
 summary: "Nakon Fedova rezanja od 25 bps, veliki coini polako kližu naviše: BTC je probao $117,9k, ETH ostaje u trokutu, a DOGE, SOL i BNB vode altove. Dolar, međutim, ostaje čvrst — zato je tempo ‘stepenica po stepenica’, a ne čist breakout."
+categories: ["crypto"]
 ---
 
 Nakon Fedove odluke o **-25 bps** i signala da bi u idućih 12 mjeseci tempo rezanja mogao ubrzati, **Bitcoin** je prekinuo višednevno lateralno kretanje i **dotaknuo ~$117,9k** – najvišu razinu od 17. kolovoza. **Ether (ETH)** je pritom **+~2,7%**, ali i dalje pleše unutar **četverotjednog sužavajućeg trokuta**, što tržištu daje “čekaj-potvrdu” ton. 

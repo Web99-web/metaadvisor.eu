@@ -8,14 +8,15 @@ source: "Metaadvisor Market Wrap"
 source_url: ""
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc_down.png"
-featured_image: "/images/btc_down.png"
-image: "/images/btc_down.png"
-thumbnail: "/images/btc_down.png"
+image_url: "/images/btc_down.webp"
+featured_image: "/images/btc_down.webp"
+image: "/images/btc_down.webp"
+thumbnail: "/images/btc_down.webp"
 image_alt: "BTC fast drop — symbolic illustration"
 image_credit: "Metaadvisor (symbolic image)"
 tags: ["crypto","Bitcoin","BTC","Ethereum","ETH","liquidations","long-squeeze","leverage","perps","funding","open-interest","ETF","DXY","Fed","PCE","volatility","spot-vs-perps","altcoins","DeFi","market"]
 summary: "Another overnight leverage flush: roughly $1.6–1.9B in 24h liquidations; BTC wicked to ~$111k on some venues before bouncing. The what/why and what to watch next."
+categories: ["crypto"]
 ---
 
 **Quick take (morning of Sept 23):**  

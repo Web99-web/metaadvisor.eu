@@ -11,6 +11,7 @@ image_url: "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io
 tags: ["ai", "artificial-intelligence", "crypto", "cryptocurrency", "bitcoin", "btc", "solana", "sol", "xrp", "ripple"]
 our_take: |
   Our view: Hedera’s native token HBAR posted modest gains during the September 11–12 trading window, climbing from $0.237 to as high as $0.245 before closing at $0.240. Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
 ---
 
 Hedera’s native token HBAR posted modest gains during the September 11–12 trading window, climbing from $0.237 to as high as $0.245 before closing at $0.240. The move reflected a surge in institutional participation, with market activity closely tied to fresh developments around potential exchange-traded products.

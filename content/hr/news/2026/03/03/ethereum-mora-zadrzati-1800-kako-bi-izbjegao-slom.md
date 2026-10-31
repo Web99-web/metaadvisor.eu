@@ -15,6 +15,7 @@ image_alt: "Ethereum grafikon s označenom podrškom na 1.800 USD"
 image_credit: "Cointelegraph / ilustracija"
 tags: ["ethereum", "eth", "kripto", "crypto", "altcoin", "trgovanje", "tehnička analiza", "support level", "mvrv", "onchain", "defi", "blockchain"]
 summary: "Ethereum se ponovno suočava s ključnom tehničkom razinom od 1.800 USD. Analitičari upozoravaju da bi proboj ispod te zone mogao otvoriti put prema 1.500 USD ili niže."
+categories: ["crypto"]
 ---
 
 # Ethereum mora zadržati 1.800 USD kako bi izbjegao novi pad

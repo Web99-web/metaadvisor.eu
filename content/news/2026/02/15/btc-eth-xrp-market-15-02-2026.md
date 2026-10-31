@@ -15,6 +15,7 @@ image_alt: "Bitcoin, Ethereum and XRP during a direction-seeking trading session
 image_credit: "MetaAdvisor illustration"
 tags: ["crypto", "bitcoin", "btc", "ethereum", "eth", "xrp", "altcoins", "crypto market", "volatility", "trading", "digital assets"]
 summary: "Ethereum tested $2,100 before pulling back below $2,000, Bitcoin approached $70,000 without holding, while XRP showed relative strength."
+categories: ["crypto"]
 ---
 
 <p style="font-size:12px; opacity:0.6; margin-top:-10px;">

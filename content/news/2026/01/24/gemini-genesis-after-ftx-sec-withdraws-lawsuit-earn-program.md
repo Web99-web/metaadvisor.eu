@@ -15,6 +15,7 @@ image_alt: "Gemini logo symbolizing the regulatory closure of the Earn program"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "The U.S. SEC has withdrawn its lawsuit against Gemini related to the Earn program, closing a regulatory chapter that began after the FTX collapse and Genesis bankruptcy."
 tags: ["gemini", "genesis", "ftx", "sec", "earn", "regulation", "crypto", "yield"]
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

@@ -7,10 +7,10 @@ translationKey: "trump_media_token_distribution_20260102"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/Trump-media-group-token.png"
-featured_image: "/images/Trump-media-group-token.png"
-image: "/images/Trump-media-group-token.png"
-thumbnail: "/images/Trump-media-group-token.png"
+image_url: "/images/Trump-media-group-token.webp"
+featured_image: "/images/Trump-media-group-token.webp"
+image: "/images/Trump-media-group-token.webp"
+thumbnail: "/images/Trump-media-group-token.webp"
 image_alt: "Symbolische Darstellung eines Trump Media Tokens"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -22,6 +22,7 @@ tags:
   - crypto.com
   - digitale vermögenswerte
 summary: "Trump Media & Technology Group plant, digitale Token an ihre Aktionäre zu verteilen. In Zusammenarbeit mit Crypto.com entsteht damit ein neues Beispiel für die Verbindung von Kapitalmarkt, Politik und Blockchain-Technologie."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

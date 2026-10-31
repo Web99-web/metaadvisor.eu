@@ -16,6 +16,7 @@ image_alt: "Chainlink (LINK) — simbolična ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["chainlink","link","oracle","crypto","kripto","defi","megaeth","data streams","perpetuals","stablecoins","caliber","rezerva","trezor","latencija","btc","altcoins","trgovanje","cijena","pad"]
 summary: "LINK je u petak pao oko 9% usred šire rasprodaje kripta. Istodobno, Caliber je objavio novu kupnju od 2 milijuna dolara, a Chainlink je lansirao Data Streams na MegaETH-u."
+categories: ["crypto"]
 ---
 
 **Sažetak.** LINK je pao oko **9%**, spustivši se na razine od oko **$16–17**. Pad se poklopio s jačim prodajnim pritiskom na kripto tržištu. Unatoč tome, **Caliber** je objavio novu kupnju **$2M** u LINK-u, dok je **Chainlink Reserve** dodatno povećala svoje zalihe. S tehničke strane, Chainlink je lansirao **Data Streams na MegaETH-u**, s fokusom na vrlo nisku latenciju za real-time DeFi slučajeve.

@@ -7,14 +7,15 @@ translationKey: "fake_gold_mine_ai_metaadvisor_07122025_en"
 source: "MetaAdvisor – analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Gold-mine-fake.png"
-featured_image: "/images/Gold-mine-fake.png"
-image: "/images/Gold-mine-fake.png"
-thumbnail: "/images/Gold-mine-fake.png"
+image_url: "/images/Gold-mine-fake.webp"
+featured_image: "/images/Gold-mine-fake.webp"
+image: "/images/Gold-mine-fake.webp"
+thumbnail: "/images/Gold-mine-fake.webp"
 image_alt: "AI-generated fake gold mine"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ai","fake news","disinformation","deepfake","manipulation","gold mine","viral content","social media","tiktok","economy"]
 summary: "A supposed ‘100 km gold discovery’ went viral across social media — but the entire story was fabricated. Here’s how AI creates convincing, high-impact fake news."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

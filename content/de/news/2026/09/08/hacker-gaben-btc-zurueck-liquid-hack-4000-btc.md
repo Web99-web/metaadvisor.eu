@@ -7,15 +7,16 @@ translationKey: "liquid-white-hat-hackers-return-bitcoin-2026-09-08"
 source: "Liquid Network, Blockstream, SideSwap, Bitquery, The Block, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Liquid-white-hats-hack-4000-BTC.png"
-featured_image: "/images/hack/Liquid-white-hats-hack-4000-BTC.png"
-image: "/images/hack/Liquid-white-hats-hack-4000-BTC.png"
-thumbnail: "/images/hack/Liquid-white-hats-hack-4000-BTC.png"
+image_url: "/images/hack/Liquid-white-hats-hack-4000-BTC.webp"
+featured_image: "/images/hack/Liquid-white-hats-hack-4000-BTC.webp"
+image: "/images/hack/Liquid-white-hats-hack-4000-BTC.webp"
+thumbnail: "/images/hack/Liquid-white-hats-hack-4000-BTC.webp"
 image_alt: "White-Hat-Hacker zogen 4.000 BTC aus dem Liquid Network ab und gaben nach dem Patch 3.400 BTC zurück"
 image_credit: "Metaadvisor.eu"
 tags: ["Liquid Network", "Bitcoin", "Krypto", "Hacker", "White-Hat-Hacker", "Blockstream", "SideSwap", "Elements", "Blockchain", "OP_RETURN", "Sicherheit", "Cybersicherheit", "L-BTC", "Bitcoin-Sidechain", "Krypto-Sicherheit"]
 description: "Akteure, die sich selbst als White-Hat-Hacker bezeichnen, zogen fast 4.000 BTC aus dem Liquid Network ab, forderten Blockstream auf, zuerst den Bug zu beheben, und gaben nach dem Patch 3.400 BTC zurück."
 summary: "Das Liquid Network verlor nach der Ausnutzung eines Bugs in Elements fast 4.000 BTC. Die Akteure versprachen über direkt in die Bitcoin-Blockchain geschriebene Nachrichten, den Großteil der Mittel nach Behebung der Schwachstelle zurückzugeben – und gaben anschließend 3.400 BTC zurück."
+categories: ["Crypto"]
 ---
 
 *Symbolbild.*

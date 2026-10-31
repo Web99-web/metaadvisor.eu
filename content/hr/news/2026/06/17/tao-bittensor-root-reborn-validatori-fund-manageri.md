@@ -7,14 +7,15 @@ translationKey: "tao-bittensor-root-reborn-validatori-fund-manageri-2026-06-17"
 source: "CoinDesk, Bittensor, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/TAO-bittensor.png"
-featured_image: "/images/TAO-bittensor.png"
-image: "/images/TAO-bittensor.png"
-thumbnail: "/images/TAO-bittensor.png"
+image_url: "/images/TAO-bittensor.webp"
+featured_image: "/images/TAO-bittensor.webp"
+image: "/images/TAO-bittensor.webp"
+thumbnail: "/images/TAO-bittensor.webp"
 image_alt: "Bittensor TAO mreža, AI subneti i Root Reborn prijedlog"
 image_credit: "Metaadvisor.eu"
 tags: ["TAO", "Bittensor", "Root Reborn", "AI crypto", "decentralizirana umjetna inteligencija", "validatori", "staking", "subneti", "fund manageri", "crypto governance", "AI subnet", "kripto", "umjetna inteligencija", "Metaadvisor"]
 summary: "Novi Bittensor prijedlog Root Reborn mogao bi validatorima dati aktivniju ulogu u podršci AI subnetima. To može biti pozitivan korak za mrežu, ali i otvoriti nova pitanja moći, governancea i stvarne decentralizacije."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

@@ -25,6 +25,7 @@ tags:
   - onramp
   - regulation
 summary: "Prognosen sehen bis 2025 über 50% der Bevölkerung Spaniens als Krypto-Nutzer. Wie viele sind es heute — und was entscheidet den Weg dorthin?"
+categories: ["crypto"]
 ---
 
 Spanien hat Krypto in den letzten Jahren leise aus der „Exotik-Ecke“ in den Alltag geschoben. Banking-Apps werden schneller, Gebühren sinken, und der EU-Rahmen **MiCAR** schafft endlich Klarheit. Deshalb klingt die Prognose, dass **bis 2025 mehr als die Hälfte** der Bevölkerung Krypto nutzt, nicht mehr nach Science-Fiction. Die naheliegende Frage: **Wie viele nutzen es heute wirklich?**

@@ -16,6 +16,7 @@ image_alt: "Bitcoin mining illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","crypto","cryptocurrencies","mining","hashrate","network","energy","american miners"]
 summary: "Small Bitcoin miners are shutting down their rigs as revenues fall below operating costs, while large miners expand due to cheap energy and better capital access."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

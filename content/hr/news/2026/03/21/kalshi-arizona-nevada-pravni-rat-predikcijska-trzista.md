@@ -15,6 +15,7 @@ image_alt: "Kalshi platforma i pravni sukob s američkim državama"
 tags: ["kalshi", "prediction markets", "regulacija", "cftc", "arizona", "nevada", "fintech", "crypto", "klađenje"]
 summary: "Kalshi se suočava s kaznenim prijavama u Arizoni i zabranom u Nevadi, dok raste sukob između saveznih država i federalnih regulatora oko budućnosti predikcijskih tržišta."
 symbolic_image: true
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

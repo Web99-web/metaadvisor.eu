@@ -7,14 +7,15 @@ translationKey: "ftx_final_sec_19122025"
 source: "MetaAdvisor analiza — na temelju izvještaja CoinDesk"
 source_url: "https://coindesk.com"
 author: "Metaadvisor.eu"
-image_url: "/images/FTX.png"
-featured_image: "/images/FTX.png"
-image: "/images/FTX.png"
-thumbnail: "/images/FTX.png"
+image_url: "/images/FTX.webp"
+featured_image: "/images/FTX.webp"
+image: "/images/FTX.webp"
+thumbnail: "/images/FTX.webp"
 image_alt: "FTX i američki regulator SEC"
 image_credit: "Public domain / illustrative"
 tags: ["ftx","sec","sam bankman-fried","kripto","regulacija","prijevara","burze","pravosuđe","financije"]
 summary: "Američki regulator zaključuje slučaj FTX višegodišnjim zabranama za bivše čelnike, čime se zatvara jedno od najmračnijih poglavlja u povijesti kripta."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

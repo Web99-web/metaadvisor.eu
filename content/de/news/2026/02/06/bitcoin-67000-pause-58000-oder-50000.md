@@ -15,6 +15,7 @@ image_alt: "Bitcoin-Kurserholung nach starkem Abverkauf – Suche nach dem Markt
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "bitcoin-kurs", "bitcoin-tief", "krypto-markt", "btc-analyse", "bitcoin-etf", "liquidationen", "bear-market"]
 summary: "Nach dem starken Rückgang hat sich Bitcoin auf rund 67.000 USD erholt. Dennoch fehlen klare Signale für eine Bodenbildung – die entscheidende Frage bleibt, ob weitere Rückgänge in Richtung 58.000 oder sogar 50.000 USD folgen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

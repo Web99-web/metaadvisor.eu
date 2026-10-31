@@ -16,6 +16,7 @@ image_alt: "Bee Maps — decentralizirano mapiranje na Solani"
 image_credit: "Metaadvisor.eu — simbolična ilustracija"
 tags: ["crypto", "Solana", "DePIN", "BeeMaps", "Hivemapper", "HONEY", "AI", "mapiranje", "robotaxi", "Lyft", "Volkswagen", "tokenizacija-podataka", "hardware", "dash-cam", "infrastruktura", "fundraising", "Pantera", "Borderless", "Ajna", "LDA-Capital"]
 summary: "Bee Maps, aplikacija na Hivemapper mreži (DePIN na Solani), podiže $32M za širenje uređaja, AI pipelinea i poticaja. Cilj: brže, jeftinije i ažurnije karte uz nagrađivanje kontributora u $HONEY."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

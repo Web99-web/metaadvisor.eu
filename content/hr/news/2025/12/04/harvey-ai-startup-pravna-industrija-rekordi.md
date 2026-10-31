@@ -16,6 +16,7 @@ image_alt: "Harvey legal AI ilustracija"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ai","umjetna inteligencija","pravna tehnologija","legaltech","llm","inovacije","vc","startup","presedani","automatizacija","pravna analiza","dokumentacija","financiranje","andreessen horowitz","digitalna transformacija"]
 summary: "Harvey, jedan od najbrže rastućih AI startupa u pravnom sektoru, dosegnuo je valuaciju od 8 milijardi dolara i mijenja način na koji odvjetničke firme rade."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

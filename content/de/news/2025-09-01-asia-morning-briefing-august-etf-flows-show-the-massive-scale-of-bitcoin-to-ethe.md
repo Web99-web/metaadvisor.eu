@@ -9,6 +9,7 @@ summary: "Im August flossen 751 Mio. USD aus US-Bitcoin-ETFs ab, während Ethere
 tags: ["Bitcoin","Ethereum","ETF","Krypto","Institutionen","Märkte","Asien","Glassnode","Polymarket"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/76853a648e0f82399c9dfebd64d9a9d82a9efb20-2880x1620.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/76853a648e0f82399c9dfebd64d9a9d82a9efb20-2880x1620.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 Der August brachte eine seltene Umkehr in den ETF-Strömen: Bitcoin-Spotfonds verzeichneten Nettoabflüsse von 751 Mio. USD, nur wenige Wochen nachdem BTC ein Allzeithoch von 124.000 USD erreicht hatte, während Ethereum-ETFs stillschweigend 3,9 Mrd. USD anzogen.  

@@ -7,10 +7,10 @@ translationKey: "hype_hyperliquid_rast_20260128"
 source: "MetaAdvisor analiza / tržišni pregled"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Hype-up.png"
-featured_image: "/images/Hype-up.png"
-image: "/images/Hype-up.png"
-thumbnail: "/images/Hype-up.png"
+image_url: "/images/Hype-up.webp"
+featured_image: "/images/Hype-up.webp"
+image: "/images/Hype-up.webp"
+thumbnail: "/images/Hype-up.webp"
 image_alt: "HYPE token i Hyperliquid – simbol rasta u bočnom tržištu"
 image_credit: "Ilustracija / MetaAdvisor.eu"
 tags:
@@ -26,6 +26,7 @@ tags:
   - tokenizacija
   - tradfi i kripto
 summary: "Dok se Bitcoin i većina altcoina kreću bočno, HYPE token bilježi snažan rast i jasno se odvaja od tržišta. Analiziramo zašto se Hyperliquid nameće kao jedan od rijetkih aktivnih segmenata tržišta u trenutku opće neodlučnosti."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

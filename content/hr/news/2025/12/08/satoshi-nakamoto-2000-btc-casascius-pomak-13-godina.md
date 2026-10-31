@@ -7,14 +7,15 @@ translationKey: "casascius_2000btc_1312_satoshi_question_hr001"
 source: "MetaAdvisor — analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/BTC-Casascius.png"
-featured_image: "/images/BTC-Casascius.png"
-image: "/images/BTC-Casascius.png"
-thumbnail: "/images/BTC-Casascius.png"
+image_url: "/images/BTC-Casascius.webp"
+featured_image: "/images/BTC-Casascius.webp"
+image: "/images/BTC-Casascius.webp"
+thumbnail: "/images/BTC-Casascius.webp"
 image_alt: "Casascius fizičke Bitcoin kovanice"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","kriptovalute","casascius","satoshi","sigurnost","blockchain","povijest-bitcoina","analiza"]
 summary: "Nakon više od desetljeća potpunog mirovanja, dvije Casascius kovanice s ukupno 2.000 BTC iznenada su se aktivirale. Je li to povijesni vlasnik — ili netko tko je godinama čuvao jedan od najrjeđih Bitcoin artefakata?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

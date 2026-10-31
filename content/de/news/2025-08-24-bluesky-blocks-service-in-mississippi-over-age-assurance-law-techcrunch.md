@@ -9,6 +9,7 @@ summary: "In einem Blogpost erklärt das kleine Team, dass ihm die Ressourcen f�
 tags: ["news","bluesky","mississippi","hb1126","age-verification","datenschutz","freie-meinung","gesetz","usa","soziale-netzwerke"]
 image_url: "https://techcrunch.com/wp-content/uploads/2024/10/bluesky_media_kit_banner_4.jpg?w=1024"
 image_alt: "Bluesky-Logo vor Sternenhintergrund"
+categories: ["news"]
 ---
 
 Das Social-Network-Startup **Bluesky** hat sich entschieden, seinen Dienst im Bundesstaat **Mississippi** zu sperren, statt einem neuen Gesetz zur **Altersprüfung** zu entsprechen.

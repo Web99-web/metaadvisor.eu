@@ -24,6 +24,7 @@ tags:
   - etf
   - trgovanje kriptom
 summary: "Američki spot ETF-ovi vezani uz XRP premašili su 1,25 milijardi USD neto imovine, no cijena tokena i dalje ostaje ispod ključnih razina. Tržište pokazuje raskorak između institucionalne akumulacije i kratkoročnog trgovanja."
+categories: ["crypto"]
 ---
 Američki spot ETF-ovi vezani uz XRP nastavili su privlačiti kapital i premašili su **1,25 milijardi dolara neto imovine**, ali cijena tokena i dalje se kreće bez jasnog smjera. Dok profesionalni ulagači strpljivo grade pozicije kroz regulirane proizvode, kratkoročni traderi i dalje prodaju svaki pokušaj rasta, držeći cijenu pritisnutom oko razine od **1,86 USD**.
 

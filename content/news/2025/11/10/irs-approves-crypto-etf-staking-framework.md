@@ -3,18 +3,19 @@ title: "IRS approves staking — U.S. allows funds to participate in crypto netw
 slug: "irs-approves-crypto-etf-staking-framework"
 date: 2025-11-10T22:19:52Z
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2025-11-10"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today"
 author: "Cointelegraph, analysis_by: Metaadvisor.eu"
-image_url: "/images/IRS-crypto.png"
-featured_image: "/images/IRS-crypto.png"
-image: "/images/IRS-crypto.png"
-thumbnail: "/images/IRS-crypto.png"
+image_url: "/images/IRS-crypto.webp"
+featured_image: "/images/IRS-crypto.webp"
+image: "/images/IRS-crypto.webp"
+thumbnail: "/images/IRS-crypto.webp"
 image_alt: "IRS and U.S. flag with ETH validators"
 image_credit: "Metaadvisor.eu"
 tags: ["staking", "irs", "etf", "usa", "regulation", "crypto"]
 summary: "The U.S. IRS has approved a new 'safe harbor' framework allowing crypto funds and ETFs to participate in staking — locking and delegating crypto assets to earn rewards — under full tax and regulatory compliance."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

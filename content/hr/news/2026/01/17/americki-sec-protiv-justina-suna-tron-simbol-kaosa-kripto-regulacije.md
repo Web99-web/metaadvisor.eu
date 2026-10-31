@@ -7,10 +7,10 @@ translationKey: "sec_vs_justin_sun_tron_chaos_jan2026"
 source: "MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/SEC-US.png"
-featured_image: "/images/SEC-US.png"
-image: "/images/SEC-US.png"
-thumbnail: "/images/SEC-US.png"
+image_url: "/images/SEC-US.webp"
+featured_image: "/images/SEC-US.webp"
+image: "/images/SEC-US.webp"
+thumbnail: "/images/SEC-US.webp"
 image_alt: "Američki SEC i slučaj protiv osnivača Trona Justina Suna"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 tags:
@@ -26,6 +26,7 @@ tags:
   - kraken
   - americka regulacija
 summary: "Slučaj američkog SEC-a protiv Justina Suna i Trona prerastao je pojedinačnu tužbu i postao simbol nedosljedne kripto regulacije u SAD-u, dok zakonodavci sada traže objašnjenja zašto su ključni postupci obustavljeni."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

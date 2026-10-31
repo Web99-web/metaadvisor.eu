@@ -15,6 +15,7 @@ image_alt: "BlackRock erweitert sein Krypto-Team"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["blackrock","krypto","etfs","institutionen","tokenisierung","asien","usa"]
 summary: "BlackRock verstärkt seine globale Krypto-Strategie mit sieben neuen Senior-Positionen – ein Signal für wachsende institutionelle Nachfrage nach digitalen Vermögenswerten."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

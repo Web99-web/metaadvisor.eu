@@ -7,14 +7,15 @@ translationKey: "e5f84c908d34e5bde3b24567a6eaae15"
 source: "CoinDesk, Coinbase, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Coinbase1.png"
-featured_image: "/images/companies/Coinbase1.png"
-image: "/images/companies/Coinbase1.png"
-thumbnail: "/images/companies/Coinbase1.png"
+image_url: "/images/companies/Coinbase1.webp"
+featured_image: "/images/companies/Coinbase1.webp"
+image: "/images/companies/Coinbase1.webp"
+thumbnail: "/images/companies/Coinbase1.webp"
 image_alt: "Coinbase i AI Agentic Wallets koncept za digitalna plaćanja i trgovanje"
 image_credit: "Metaadvisor.eu"
 tags: ["Coinbase", "AI", "Agentic Wallets", "AI agenti", "kripto", "crypto wallets", "digitalna plaćanja", "agentic commerce", "x402", "stablecoini", "automatizirano trgovanje", "fintech", "kriptovalute", "umjetna inteligencija", "Metaadvisor"]
 summary: "Coinbase for Agents pokazuje kako se AI agenti pomiču iz svijeta razgovora i analize prema stvarnim financijskim radnjama. Agentic Wallets mogu omogućiti AI sustavima da trguju, plaćaju i koriste digitalne usluge u ime korisnika, ali otvaraju i nova pitanja sigurnosti, kontrole i odgovornosti."
+categories: ["ai"]
 ---
 
 Slika je simbolična.

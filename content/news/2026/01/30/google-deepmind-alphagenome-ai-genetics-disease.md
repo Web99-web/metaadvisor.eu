@@ -7,10 +7,10 @@ translationKey: "google_deepmind_alphagenome_20260130"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/science/2026/jan/28/google-deepmind-alphagenome-ai-tool-genetics-disease"
 author: "MetaAdvisor.eu"
-image_url: "/images/Google-DeepMind-AI-AlphaGenome.png"
-featured_image: "/images/Google-DeepMind-AI-AlphaGenome.png"
-image: "/images/Google-DeepMind-AI-AlphaGenome.png"
-thumbnail: "/images/Google-DeepMind-AI-AlphaGenome.png"
+image_url: "/images/Google-DeepMind-AI-AlphaGenome.webp"
+featured_image: "/images/Google-DeepMind-AI-AlphaGenome.webp"
+image: "/images/Google-DeepMind-AI-AlphaGenome.webp"
+thumbnail: "/images/Google-DeepMind-AI-AlphaGenome.webp"
 image_alt: "Google DeepMind AlphaGenome AI model for genetic regulation analysis"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -25,6 +25,7 @@ tags:
   - genomics
   - ai in medicine
 summary: "Google DeepMind has introduced AlphaGenome, a new AI system capable of analyzing up to one million DNA base pairs at once, aiming to uncover how genetic changes drive disease."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

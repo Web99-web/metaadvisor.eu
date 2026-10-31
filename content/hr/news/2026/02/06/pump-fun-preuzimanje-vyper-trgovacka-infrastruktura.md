@@ -7,14 +7,15 @@ translationKey: "pumpfun-vyper-acquisition-trading-infrastructure-2026-02-06"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/pump-fun-vyper-acquisition-trading-infrastructure"
 author: "MetaAdvisor.eu"
-image_url: "/images/Pump-fun1.png"
-featured_image: "/images/Pump-fun1.png"
-image: "/images/Pump-fun1.png"
-thumbnail: "/images/Pump-fun1.png"
+image_url: "/images/Pump-fun1.webp"
+featured_image: "/images/Pump-fun1.webp"
+image: "/images/Pump-fun1.webp"
+thumbnail: "/images/Pump-fun1.webp"
 image_alt: "Pump.fun širi trading infrastrukturu i konsolidira alate za Solana ekosustav"
 image_credit: "MetaAdvisor.eu"
 tags: ["pump.fun", "vyper", "solana", "memecoin", "crypto trading", "trading infrastruktura", "kripto alati", "defi"]
 summary: "Pump.fun je preuzeo trading terminal Vyper i integrirao njegove alate u vlastiti Pump.fun Terminal, dodatno učvršćujući kontrolu nad cijelim procesom trgovanja u Solana ekosustavu."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

@@ -28,6 +28,7 @@ tags:
   - licensing
   - risk
 summary: "BitGo has obtained a VARA license in Dubai, strengthening its institutional custody footprint under a stringent, well-defined regulatory framework."
+categories: ["news"]
 ---
 
 *Image is symbolic.*

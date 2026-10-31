@@ -7,14 +7,15 @@ translationKey: "ai-moltbook-social-network-agents-2026-02-09"
 source: "Wired / AP News / Forbes / MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Moltbook.png"
-featured_image: "/images/Moltbook.png"
-image: "/images/Moltbook.png"
-thumbnail: "/images/Moltbook.png"
+image_url: "/images/Moltbook.webp"
+featured_image: "/images/Moltbook.webp"
+image: "/images/Moltbook.webp"
+thumbnail: "/images/Moltbook.webp"
 image_alt: "Symbolische Illustration von KI-Agenten, die in einem eigenen sozialen Netzwerk miteinander kommunizieren"
 image_credit: "Symbolische Illustration (KI / frei verfügbares Bildmaterial)"
 tags: ["ki", "künstliche intelligenz", "moltbook", "ki-agenten", "soziale netzwerke", "automatisierung", "zukunft der arbeit", "technologie"]
 summary: "Ein experimentelles KI-only soziales Netzwerk, in den Medien als Moltbook bezeichnet, zeigt, dass künstliche Intelligenz selbstständig Inhalte, Diskussionen und digitale Gemeinschaften schaffen kann – ganz ohne Menschen."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

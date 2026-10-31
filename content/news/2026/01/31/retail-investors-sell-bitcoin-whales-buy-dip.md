@@ -7,14 +7,15 @@ translationKey: "0394eaa940075b6cafe734843a81d3ef"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/30/retail-traders-are-running-for-the-exit-amid-bitcoin-s-selloff-while-mega-whales-are-quietly-buying-the-dip"
 author: "Metaadvisor.eu"
-image_url: "/images/Whales-buying-dip.png"
-featured_image: "/images/Whales-buying-dip.png"
-image: "/images/Whales-buying-dip.png"
-thumbnail: "/images/Whales-buying-dip.png"
+image_url: "/images/Whales-buying-dip.webp"
+featured_image: "/images/Whales-buying-dip.webp"
+image: "/images/Whales-buying-dip.webp"
+thumbnail: "/images/Whales-buying-dip.webp"
 image_alt: "Bitcoin whales buying during price drop while retail investors sell"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "whales", "on-chain", "retail-investors", "panic", "accumulation", "market", "volatility"]
 summary: "After Bitcoin dropped below $77,000 again, on-chain data reveals a clear divide: retail investors are selling out of fear or necessity, while large holders quietly use the dip to accumulate."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

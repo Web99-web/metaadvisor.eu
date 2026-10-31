@@ -7,15 +7,16 @@ translationKey: "oil-brent-wti-near-100-middle-east-2026-09-08"
 source: "Reuters, Kpler, Goldman Sachs, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "Brent and WTI rise as geopolitical risks in the Middle East push oil prices higher"
 image_credit: "Metaadvisor.eu"
 tags: ["oil", "Brent", "WTI", "energy", "markets", "Middle East", "Saudi Arabia", "Iran", "Houthis", "Strait of Hormuz", "oil prices", "geopolitical risk"]
 description: "Brent approached $100 per barrel while WTI climbed above $93 after new attacks on Saudi energy facilities and continued disruptions to shipping through the Strait of Hormuz."
 summary: "Brent reached an intraday high of $99.46 on September 8, while WTI climbed to $94.73. New attacks on Saudi energy facilities and restricted flows through the Strait of Hormuz are once again increasing the geopolitical risk premium in oil prices."
+categories: ["Markets"]
 ---
 
 *The image is symbolic.*

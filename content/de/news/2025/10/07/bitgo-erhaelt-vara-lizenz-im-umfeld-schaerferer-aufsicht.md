@@ -28,6 +28,7 @@ tags:
   - licensing
   - risk
 summary: "BitGo hat eine Lizenz der dubaiischen VARA erhalten. Damit stärkt der Custody-Pionier seine Position bei institutionellen Kunden unter einem strengen, klaren Regulierungsrahmen."
+categories: ["news"]
 ---
 
 *Bild ist symbolisch.*

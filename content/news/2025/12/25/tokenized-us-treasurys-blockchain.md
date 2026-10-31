@@ -7,10 +7,10 @@ translationKey: "tokenized_us_treasurys_25122025"
 source: "MetaAdvisor Analysis — based on Cointelegraph reports and industry data"
 source_url: "https://cointelegraph.com"
 author: "MetaAdvisor.eu"
-image_url: "/images/tokenized-us-treasurys.png"
-featured_image: "/images/tokenized-us-treasurys.png"
-image: "/images/tokenized-us-treasurys.png"
-thumbnail: "/images/tokenized-us-treasurys.png"
+image_url: "/images/tokenized-us-treasurys.webp"
+featured_image: "/images/tokenized-us-treasurys.webp"
+image: "/images/tokenized-us-treasurys.webp"
+thumbnail: "/images/tokenized-us-treasurys.webp"
 image_alt: "Tokenized US Treasurys and blockchain-based financial infrastructure"
 tags:
   - tokenization
@@ -22,6 +22,7 @@ tags:
   - institutional-investors
   - defi
 summary: "Tokenized US Treasurys are becoming one of the fastest-growing segments of global finance, combining government-backed safety with the efficiency of blockchain infrastructure."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 22px 0;">

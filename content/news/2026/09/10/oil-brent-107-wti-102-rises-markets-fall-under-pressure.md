@@ -7,15 +7,16 @@ translationKey: "oil-rises-markets-fall-inflation-rates-2026-09-10"
 source: "Reuters, AP, MarketWatch, CoinGecko, Metaadvisor.eu"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/Oil-WTI-Brent.png"
-featured_image: "/images/Oil-WTI-Brent.png"
-image: "/images/Oil-WTI-Brent.png"
-thumbnail: "/images/Oil-WTI-Brent.png"
+image_url: "/images/Oil-WTI-Brent.webp"
+featured_image: "/images/Oil-WTI-Brent.webp"
+image: "/images/Oil-WTI-Brent.webp"
+thumbnail: "/images/Oil-WTI-Brent.webp"
 image_alt: "WTI and Brent crude rise sharply while stocks, technology, crypto and metals fall"
 image_credit: "Metaadvisor.eu"
 tags: ["oil", "Brent", "WTI", "markets", "stocks", "Wall Street", "technology stocks", "artificial intelligence", "semiconductors", "Bitcoin", "crypto", "gold", "silver", "platinum", "inflation", "Fed", "bonds", "interest rates", "energy"]
 description: "Brent surged above $107 and WTI above $102 while Wall Street, technology stocks, crypto and precious metals fell. We look at where capital is flowing and which sectors are losing momentum."
 summary: "Oil is one of the few major market segments rising strongly on September 10. Brent and WTI are up more than 6%, while higher inflation expectations and rising U.S. Treasury yields pressure stocks, AI and technology, crypto, gold, silver and platinum."
+categories: ["Markets"]
 ---
 
 *Image is illustrative.*

@@ -16,6 +16,7 @@ image_alt: "Bijela kuća u Washingtonu kao simbol regulatornih rasprava o kriptu
 image_credit: "MetaAdvisor ilustracija"
 tags: ["stablecoin", "kripto regulacija", "bijela kuća", "sec", "banke", "zakon o kriptu", "us regulator", "digitalna imovina", "crypto politika"]
 summary: "Drugi sastanak predstavnika kripto industrije i banaka u Bijeloj kući završio je bez dogovora o ključnim odredbama vezanim uz stablecoine, unatoč naznakama napretka."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

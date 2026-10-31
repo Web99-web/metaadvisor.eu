@@ -7,10 +7,10 @@ translationKey: "china_cbdc_mbridge_20260119"
 source: "Cointelegraph / Atlantic Council / MetaAdvisor Analyse"
 source_url: ""
 author: "MetaAdvisor.eu"
-image_url: "/images/China-s-CBDC-mBridge.png"
-featured_image: "/images/China-s-CBDC-mBridge.png"
-image: "/images/China-s-CBDC-mBridge.png"
-thumbnail: "/images/China-s-CBDC-mBridge.png"
+image_url: "/images/China-s-CBDC-mBridge.webp"
+featured_image: "/images/China-s-CBDC-mBridge.webp"
+image: "/images/China-s-CBDC-mBridge.webp"
+thumbnail: "/images/China-s-CBDC-mBridge.webp"
 image_alt: "mBridge als internationale CBDC-Plattform unter Führung Chinas"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "mBridge, eine von China geführte internationale CBDC-Plattform, hat bereits grenzüberschreitende Transaktionen im Wert von über 55 Milliarden US-Dollar abgewickelt. Hinter dem technischen Projekt zeichnet sich eine tiefgreifende Verschiebung der globalen monetären Architektur ab."
@@ -35,6 +35,7 @@ tags: [
   "middle-east",
   "asia-finance"
 ]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -27,6 +27,7 @@ tags:
   - whales
   - dune-analytics
 summary: "From a 71% peak in May down to 38%: Hyperliquid’s market share slips while Lighter and Aster climb to 16.8% and 14.9%. With ~$700B combined volume over four weeks, the perps DEX race is intensifying around incentives, UX and order-book depth."
+categories: ["ai"]
 ---
 
 Once the **uncontested leader** in on-chain **perpetual futures**, Hyperliquid is **rapidly ceding share** to upstarts **Lighter** and **Aster**.

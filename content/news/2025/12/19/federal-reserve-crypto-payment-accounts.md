@@ -15,6 +15,7 @@ image_alt: "Federal Reserve Board Building, Washington D.C."
 image_credit: "Public domain"
 tags: ["federal reserve","fed","crypto","payments","fintech","regulation","banks","financial system"]
 summary: "The U.S. Federal Reserve is considering limited access to its payment infrastructure for crypto and fintech firms, signaling a cautious shift toward digital finance."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

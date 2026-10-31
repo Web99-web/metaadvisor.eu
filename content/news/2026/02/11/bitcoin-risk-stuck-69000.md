@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-price-drops-3-percent-analyst-warns-bulls-lack-momentum-69k"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/btc-sideways3.png"
-featured_image: "/images/btc-sideways3.png"
-image: "/images/btc-sideways3.png"
-thumbnail: "/images/btc-sideways3.png"
+image_url: "/images/btc-sideways3.webp"
+featured_image: "/images/btc-sideways3.webp"
+image: "/images/btc-sideways3.webp"
+thumbnail: "/images/btc-sideways3.webp"
 image_alt: "Bitcoin chart showing sideways movement around $69,000"
 image_credit: "MetaAdvisor illustration"
 tags: ["bitcoin", "btc", "crypto", "bitcoin price", "crypto market", "resistance level", "trading", "market analysis", "crypto news"]
 summary: "Bitcoin is once again struggling around the $69,000 level, a historically significant zone that could act as long-term resistance without a strong bullish catalyst."
+categories: ["crypto"]
 ---
 
 *Symbolic image.*

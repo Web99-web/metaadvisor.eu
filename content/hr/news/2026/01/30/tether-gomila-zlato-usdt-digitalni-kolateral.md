@@ -7,10 +7,10 @@ translationKey: "tether_gold_usdt_digital_collateral_20260130"
 source: "MetaAdvisor analiza / tržište zlata i stablecoina"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Tether-USDT-gold.png"
-featured_image: "/images/Tether-USDT-gold.png"
-image: "/images/Tether-USDT-gold.png"
-thumbnail: "/images/Tether-USDT-gold.png"
+image_url: "/images/Tether-USDT-gold.webp"
+featured_image: "/images/Tether-USDT-gold.webp"
+image: "/images/Tether-USDT-gold.webp"
+thumbnail: "/images/Tether-USDT-gold.webp"
 image_alt: "Zlatne poluge i Tether USDT – simbolična ilustracija digitalnog i fizičkog kolaterala"
 image_credit: "Ilustracija / MetaAdvisor.eu"
 tags:
@@ -27,6 +27,7 @@ tags:
   - tržište zlata
   - financijska sigurnost
 summary: "Tether, izdavatelj najvećeg stablecoina na svijetu, sustavno gomila fizičko zlato – i to brzinom od 1 do 2 tone tjedno. Dok cijena zlata snažno oscilira, ovaj potez otvara pitanja o novoj ulozi stablecoina, kolaterala i ravnoteže moći u globalnom financijskom sustavu."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

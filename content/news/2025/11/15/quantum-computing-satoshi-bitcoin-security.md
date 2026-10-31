@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "08c55d2d1de6b1a2fd44fafbd730ed66"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/explained/what-happens-to-satoshi-s-1m-bitcoin-if-quantum-computers-go-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-image_url: "/images/Satoshi-Nakamoto.png"
-featured_image: "/images/Satoshi-Nakamoto.png"
-image: "/images/Satoshi-Nakamoto.png"
-thumbnail: "/images/Satoshi-Nakamoto.png"
+image_url: "/images/Satoshi-Nakamoto.webp"
+featured_image: "/images/Satoshi-Nakamoto.webp"
+image: "/images/Satoshi-Nakamoto.webp"
+thumbnail: "/images/Satoshi-Nakamoto.webp"
 image_alt: "Satoshi Nakamoto and quantum computing"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "crypto", "satoshi", "quantum computing", "security", "btc", "analysis"]
 summary: "Satoshi’s 1.1 million BTC are legendary — but how safe are early Bitcoin addresses in a future dominated by quantum computing?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

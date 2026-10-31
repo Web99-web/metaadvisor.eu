@@ -16,6 +16,7 @@ image_alt: "Web3 logo i simboli mreže"
 image_credit: "Slika je simbolična."
 tags: ["web3", "UX", "onboarding", "blockchain", "MetaMask", "bridges", "multichain", "novi korisnici"]
 summary: "Autor tvrdi da je fragmentirani, višelančani UX najveća kočnica za nove korisnike Web3 — od prebacivanja mreža do mostova. Predlažu se rješenja koja skrivaju kompleksnost i stavljaju aplikacije ispred infrastrukture."
+categories: ["news"]
 ---
 
 Zamislite nečiji **prvi dan u kriptu**. Čuli su obećanja o posjedovanju vlastitog novca, pristupu globalnim tržištima i sudjelovanju u novoj ekonomiji. Skinu wallet, kupe malo ETH-a i pronađu zanimljivu aplikaciju. Onda se dogodi — **zaglave**.

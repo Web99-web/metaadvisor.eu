@@ -7,14 +7,15 @@ translationKey: "mega-vs-google-drive-privacy-ecosystem-2026-06-15"
 source: "MEGA, Google, App Store, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/MEGA-vs-Google-drive.png"
-featured_image: "/images/companies/MEGA-vs-Google-drive.png"
-image: "/images/companies/MEGA-vs-Google-drive.png"
-thumbnail: "/images/companies/MEGA-vs-Google-drive.png"
+image_url: "/images/companies/MEGA-vs-Google-drive.webp"
+featured_image: "/images/companies/MEGA-vs-Google-drive.webp"
+image: "/images/companies/MEGA-vs-Google-drive.webp"
+thumbnail: "/images/companies/MEGA-vs-Google-drive.webp"
 image_alt: "MEGA vs Google Drive cloud storage comparison"
 image_credit: "Metaadvisor.eu"
 tags: ["MEGA", "Google Drive", "Google", "cloud storage", "cloud", "backup", "privacy", "encryption", "end-to-end encryption", "zero-knowledge", "Google account", "Gmail", "Google Photos", "Google Docs", "digital dependency", "de-Google", "digital backup", "cloud backup", "Metaadvisor"]
 summary: "MEGA is trying to position itself again as a more private alternative to Google Drive, especially by promoting easier migration from Google Drive. But Google's biggest advantage is not only storage space, but the entire ecosystem around Gmail, Android, Docs and the Google account."
+categories: ["tech"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>The image is symbolic.</em></p>

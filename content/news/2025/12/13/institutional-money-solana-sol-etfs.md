@@ -16,6 +16,7 @@ image_alt: "Solana SOL and institutional interest via ETFs"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["solana","sol","etf","institutional-investors","cryptocurrency","market","analysis"]
 summary: "Despite a declining Solana price, SOL ETFs have recorded multiple consecutive days of capital inflows, signaling sustained institutional interest."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

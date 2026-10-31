@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-pump-fun-captured-80-of-solana-memecoins-and-can-it-last?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Pump-fun-solana.png"
-featured_image: "/images/Pump-fun-solana.png"
-image: "/images/Pump-fun-solana.png"
-thumbnail: "/images/Pump-fun-solana.png"
+image_url: "/images/Pump-fun-solana.webp"
+featured_image: "/images/Pump-fun-solana.webp"
+image: "/images/Pump-fun-solana.webp"
+thumbnail: "/images/Pump-fun-solana.webp"
 image_alt: "Pump.fun lansiranja memecoina na Solani"
 image_credit: "Metaadvisor.eu — simbolična slika"
 tags: ["crypto", "Solana", "memecoins", "PumpFun", "DEX", "Raydium", "bonding-curve", "likvidnost", "MEV", "botovi", "KOL", "launchpad", "compliance", "rugpull", "security", "fees", "retail"]
 summary: "Pump.fun je preuzeo ~80% memecoin lansiranja na Solani zahvaljujući UX-u bez trenja, bonding-curve likvidnosti i viralnoj distribuciji. Pitanje je može li taj zamah preživjeti regulaciju, zasićenje i sigurnosne rizike."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

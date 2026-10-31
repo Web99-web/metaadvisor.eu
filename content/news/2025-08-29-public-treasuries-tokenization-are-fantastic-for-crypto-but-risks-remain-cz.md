@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/29/public-token-treasuries
 summary: "Tokenization of real-world assets (RWAs) is accelerating, bringing stablecoins, treasury bills, real estate and more into the crypto ecosystem, CZ added."
 tags: ["crypto","tokenization","RWA","treasuries","CZ","Binance"]
 image_url: "https://www.coindesk.com/resizer/abcd123czPublicTreasuries=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/cz-tokenization.jpg"
+categories: ["crypto"]
 ---
 
 **HONG KONG** — Binance founder **Changpeng “CZ” Zhao** believes that the **convergence of equity markets and crypto** is ushering in a new era for digital assets, expanding institutional access and crypto’s global footprint.  

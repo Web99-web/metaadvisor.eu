@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-
 summary: "Victorian solicitor stripped of his ability to practise as a principal lawyer after acknowledging he did not verify case list"
 tags: ["ai", "law", "legal-ethics", "australia", "court", "misconduct"]
 image_url: "https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg"
+categories: ["ai"]
 ---
 
 A Victorian lawyer has become the first in Australia to face professional sanctions for using artificial intelligence in a court case, being stripped of his ability to practise as a principal lawyer after AI generated false citations that he had failed to verify.  

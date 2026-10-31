@@ -16,6 +16,7 @@ image_alt: "Bullish — Kryptobörse (Exchange)"
 image_credit: "Metaadvisor.eu — Symbolbild."
 tags: ["bullish","ark","ark invest","cathie wood","krypto","boerse","exchange","usa","bitcoin","eth","institutionell","block.one","eos","coindesk","order book","liquiditaet","regulierung"]
 summary: "ARK Invest von Cathie Wood erwirbt Anteile im Wert von 5 Mio. USD an Bullish — einer Kryptobörse mit Sitz auf Bermuda (gegründet 2021 von Brendan Blumer/Block.one), die nach der CoinDesk-Übernahme 2024 nun offiziell in den US-Markt eintritt."
+categories: ["news"]
 ---
 
 **Bullish ist kein Stimmungsbegriff, sondern der Name einer Kryptobörse (Exchange).** Gegründet **2021 von Brendan Blumer** (Block.one/EOS), mit Hauptsitz auf **Bermuda**, positioniert sich Bullish als **regulierte Order-Book-Plattform** mit tiefer Liquidität für **institutionelle Investoren, Fonds und OTC-Desks**. Nach der **Übernahme von CoinDesk (2024)** folgt nun der **offizielle Markteintritt in die USA** — unmittelbar davor kaufte **ARK Invest** von Cathie Wood **Anteile im Wert von 5 Mio. USD**.

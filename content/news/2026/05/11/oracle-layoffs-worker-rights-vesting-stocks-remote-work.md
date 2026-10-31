@@ -7,14 +7,15 @@ translationKey: "7b4f1d2c9e6a4f54b2a8d6c3ef902026"
 source: "Metaadvisor (TechCrunch, Time, Yahoo Finance)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Oracle-fired-20000.png"
-featured_image: "/images/news/Oracle-fired-20000.png"
-image: "/images/news/Oracle-fired-20000.png"
-thumbnail: "/images/news/Oracle-fired-20000.png"
+image_url: "/images/news/Oracle-fired-20000.webp"
+featured_image: "/images/news/Oracle-fired-20000.webp"
+image: "/images/news/Oracle-fired-20000.webp"
+thumbnail: "/images/news/Oracle-fired-20000.webp"
 image_alt: "Oracle layoffs and vesting controversy"
 image_credit: "Metaadvisor.eu"
 tags: ["oracle", "oracle layoffs", "layoffs", "tech layoffs", "ai", "artificial intelligence", "remote work", "work from home", "vesting", "rsu", "stock compensation", "silicon valley", "data centers", "cloud", "employees", "worker rights", "warn act", "tech industry", "metaadvisor", "metaadvisor.eu"]
 summary: "After Oracle’s massive layoffs in March, former employees are now trying to negotiate better terms while raising questions about lost RSU packages, remote work classifications and the vesting system."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

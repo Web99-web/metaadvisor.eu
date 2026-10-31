@@ -7,14 +7,15 @@ translationKey: "hollywood-crypto-debate-2026"
 author: "Metaadvisor.eu"
 source: "Cointelegraph"
 source_url: ""
-image_url: "/images/news/Hollywood-vs-Crypto.png"
-featured_image: "/images/news/Hollywood-vs-Crypto.png"
-image: "/images/news/Hollywood-vs-Crypto.png"
-thumbnail: "/images/news/Hollywood-vs-Crypto.png"
+image_url: "/images/news/Hollywood-vs-Crypto.webp"
+featured_image: "/images/news/Hollywood-vs-Crypto.webp"
+image: "/images/news/Hollywood-vs-Crypto.webp"
+thumbnail: "/images/news/Hollywood-vs-Crypto.webp"
 image_alt: "Hollywood and the crypto industry in the spotlight of debate"
 tags: ["crypto", "hollywood", "ftx", "celsius", "bitcoin", "analysis", "market", "investors", "blockchain", "finance"]
 summary: "Through Ben McKenzie's documentary, Hollywood is reopening the crypto debate, while the background still includes analysis of the FTX collapse in 2022, the Celsius bankruptcy, and the Great Crash of 10.10.2025 that reshaped market perception."
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 The image is symbolic.

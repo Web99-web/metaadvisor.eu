@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Cybersecurity", "Lettland", "CSDD", "Datenleck", "personenbezogene Daten", "DSGVO", "Phishing", "Kroatien"]
 description: "Ein Cyberangriff auf den lettischen CSDD hat Daten von mehr als 1,2 Millionen Menschen und 200.000 juristischen Personen offengelegt. Unter den gestohlenen Datensätzen befinden sich auch historische Zahlungsdaten, die bis ins Jahr 2008 zurückreichen."
 summary: "Hacker haben aus dem lettischen CSDD Daten von mehr als 1,2 Millionen Menschen entwendet. Die gestohlenen Datensätze umfassen persönliche Identifikationsnummern, Fahrzeugkennzeichen, Adressen und Zahlungsinformationen, wobei ein Teil der Daten bis ins Jahr 2008 zurückreicht."
+categories: ["Cybersecurity"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -7,14 +7,15 @@ translationKey: "fa0e92228ecb082e242de40982c7823b"
 source: "Metaadvisor (Cointelegraph, The Block, Decrypt, CoinDesk)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.png"
-featured_image: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.png"
-image: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.png"
-thumbnail: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.png"
+image_url: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.webp"
+featured_image: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.webp"
+image: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.webp"
+thumbnail: "/images/hack/Arbitrum-froze-30K-ETH-Kelp-hack.webp"
 image_alt: "Arbitrum freezes 30K ETH after Kelp hack"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "arbitrum", "ethereum", "eth", "kelpdao", "hack", "defi", "aave", "layerzero", "security", "blockchain", "decentralization", "metaadvisor"]
 summary: "Arbitrum froze over 30,000 ETH linked to the Kelp hack, stopping further damage but raising questions about how decentralization works in practice."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

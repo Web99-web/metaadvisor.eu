@@ -7,14 +7,15 @@ translationKey: "d48d3041c514f5ed46ac033c85170f42"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-to-read-crypto-charts-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Metaadvisor.eu"
-image_url: "/images/how-to-trade.png"
-featured_image: "/images/how-to-trade.png"
-image: "/images/how-to-trade.png"
-thumbnail: "/images/how-to-trade.png"
+image_url: "/images/how-to-trade.webp"
+featured_image: "/images/how-to-trade.webp"
+image: "/images/how-to-trade.webp"
+thumbnail: "/images/how-to-trade.webp"
 image_alt: "Kako čitati kripto grafove — naslovna ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["bitcoin","btc","crypto","grafovi","chart","O-H-L-C","rsi","volume","likvidnost","trgovanje","pocetnici","macd","ema","sma","support","resistance"]
 summary: "Praktičan vodič koji ti treba da čitaš kripto grafove kao pro: od svijeća i trendova do volumena, RSI-a i likvidnosti — bez žargona, s primjerima i tipičnim zamkama."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

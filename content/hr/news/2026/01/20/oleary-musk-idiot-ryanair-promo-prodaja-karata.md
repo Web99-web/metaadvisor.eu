@@ -7,14 +7,15 @@ translationKey: "oleary_musk_idiot_ryanair_promo_20260120"
 source: "The Guardian / X / MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
-featured_image: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
-image: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
-thumbnail: "/images/Musk-starlink-Oleary-Ryanair-idiot.png"
+image_url: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
+featured_image: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
+image: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
+thumbnail: "/images/Musk-starlink-Oleary-Ryanair-idiot.webp"
 image_alt: "Ilustracija javne svađe Elona Muska i Michaela O’Learyja pretvorene u Ryanair promo kampanju"
 image_credit: "MetaAdvisor.eu / simbolična ilustracija"
 tags: ["ryanair","elon musk","michael o'leary","idiot","svađa","javna svađa","starlink","aviokompanije","niskotarifni letovi","promo prodaja","prodaja karata","marketing","satira","x platforma","tehnologija","biznis"]
 summary: "Javna svađa između Elona Muska i izvršnog direktora Ryanaira Michaela O’Learyja završila je neuobičajenim raspletom: uvreda je pretvorena u službenu promo prodaju avionskih karata."
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:-8px;">

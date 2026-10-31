@@ -3,18 +3,19 @@ title: "Niederlande und die Steuer auf unrealisierte Gewinne: Warum sollten Inve
 slug: "niederlande-steuer-unrealisierte-gewinne-investoren"
 date: 2026-01-24T18:00:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-01-24"
 source: "Cointelegraph / lokale Medien"
 source_url: "https://cointelegraph.com/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Netherlands-tax.png"
-featured_image: "/images/Netherlands-tax.png"
-image: "/images/Netherlands-tax.png"
-thumbnail: "/images/Netherlands-tax.png"
+image_url: "/images/Netherlands-tax.webp"
+featured_image: "/images/Netherlands-tax.webp"
+image: "/images/Netherlands-tax.webp"
+thumbnail: "/images/Netherlands-tax.webp"
 image_alt: "Illustration zur Besteuerung unrealisierter Gewinne in den Niederlanden"
 image_credit: "MetaAdvisor / symbolische Illustration"
 summary: "Die Niederlande diskutieren eine Steuer auf unrealisierte Gewinne, bei der Investoren Steuern auf Wertsteigerungen zahlen müssten, ohne Vermögenswerte zu verkaufen. Kritiker warnen, dass dieses Modell Sparen bestraft, Risiken für Bürger erhöht und Kapitalabflüsse begünstigt."
 tags: ["niederlande", "steuer", "unrealisierte gewinne", "kapitalertragsteuer", "investoren", "sparen", "krypto", "aktien", "volatilität", "steuerpolitik"]
+categories: ["crypto"]
 ---
 
 *(Das Bild ist symbolisch.)*

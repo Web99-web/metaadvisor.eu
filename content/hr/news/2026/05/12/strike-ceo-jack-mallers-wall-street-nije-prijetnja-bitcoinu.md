@@ -7,14 +7,15 @@ translationKey: "9e2d7b3c61f8429db1c7aa6f0f5d8824"
 source: "Metaadvisor (Cointelegraph, What Bitcoin Did)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Strike-Jack-Mallers-Wall-street.png"
-featured_image: "/images/companies/Strike-Jack-Mallers-Wall-street.png"
-image: "/images/companies/Strike-Jack-Mallers-Wall-street.png"
-thumbnail: "/images/companies/Strike-Jack-Mallers-Wall-street.png"
+image_url: "/images/companies/Strike-Jack-Mallers-Wall-street.webp"
+featured_image: "/images/companies/Strike-Jack-Mallers-Wall-street.webp"
+image: "/images/companies/Strike-Jack-Mallers-Wall-street.webp"
+thumbnail: "/images/companies/Strike-Jack-Mallers-Wall-street.webp"
 image_alt: "Strike CEO Jack Mallers kaže da Wall Street nije prijetnja Bitcoinu"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "jack mallers", "strike", "wall street", "bitcoin etf", "blackrock", "crypto", "kripto", "bitcoin usvajanje", "institucije", "lightning network", "etf", "financije", "kripto tržište", "bitcoin vijesti"]
 summary: "Strike CEO Jack Mallers smatra da rastuće uključivanje Wall Streeta u Bitcoin nije prijetnja toj imovini, već znak da Bitcoin postaje globalna financijska imovina."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Slika je simbolična.</em></p>

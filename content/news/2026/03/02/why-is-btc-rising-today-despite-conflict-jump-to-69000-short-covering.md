@@ -15,6 +15,7 @@ image_alt: "Bitcoin price rising toward 69,000 USD"
 image_credit: "Symbolic illustration"
 tags: ["bitcoin", "btc", "crypto", "cryptocurrency", "short covering", "short squeeze", "etf", "spot etf", "derivatives", "geopolitics", "iran", "macro", "volatility", "federal reserve", "fed"]
 summary: "Bitcoin rebounded sharply toward $69,000 after weekend losses. Analysts suggest the move was driven by short-covering rather than the start of a new bullish cycle."
+categories: ["crypto"]
 ---
 
 # Why BTC Is Rising Despite Conflict: The Jump Toward $69,000 Is Likely the Result of Short-Covering

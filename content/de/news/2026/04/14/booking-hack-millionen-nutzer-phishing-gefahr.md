@@ -7,14 +7,15 @@ translationKey: "booking-hack-phishing-2026"
 source: "Metaadvisor (The Guardian, CCN, Cryptonomist, Cryptopolitan, FXStreet)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Booking-com-hacked.png"
-featured_image: "/images/news/Booking-com-hacked.png"
-image: "/images/news/Booking-com-hacked.png"
-thumbnail: "/images/news/Booking-com-hacked.png"
+image_url: "/images/news/Booking-com-hacked.webp"
+featured_image: "/images/news/Booking-com-hacked.webp"
+image: "/images/news/Booking-com-hacked.webp"
+thumbnail: "/images/news/Booking-com-hacked.webp"
 image_alt: "Booking-Hack und Sicherheitsvorfall mit Nutzerdaten"
 image_credit: "Metaadvisor.eu"
 tags: ["booking", "cybersicherheit", "phishing", "hacking", "reisen", "data breach", "datenschutz", "internetsicherheit", "ai", "digitale sicherheit"]
 summary: "Ein Sicherheitsvorfall bei Booking könnte Millionen von Nutzern betreffen, doch das größte Risiko liegt in hochentwickelten Phishing-Angriffen, die reale Daten ausnutzen."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

@@ -15,6 +15,7 @@ image_alt: "Stock market chart and investors during AI-driven market rally"
 image_credit: "Metaadvisor.eu"
 summary: "The old market saying “Sell in May and go away” is being discussed again in 2026, but this time in a very different market environment. The AI rally, technology stocks and expectations around artificial intelligence are changing how investors think about seasonal market patterns."
 tags: ["stock market", "stocks", "AI market", "artificial intelligence", "Sell in May", "Sell in May and go away", "S&P 500", "Nasdaq", "technology stocks", "AI rally", "investing", "markets", "volatility", "market timing", "retail investors", "financial education", "crypto market", "Bitcoin", "Ethereum", "risk", "Metaadvisor", "Metaadvisor.eu"]
+categories: ["markets"]
 ---
 
 *The image is symbolic.*

@@ -3,7 +3,7 @@ title: "Kevin Durant i ‘izgubljeni’ Bitcoin: što se zbilja dogodilo s Coinb
 slug: "kevin-durant-coinbase-oporavak-sto-se-zbilja-dogodilo"
 date: 2025-09-20T14:46:46Z
 category: "crypto"
-translationKey: "50d5a9faa01010d0e0db504adbd413e0"
+translationKey: "50d5a9faa01010d0e0db504adbd413e0--unpaired-651717674cd0"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/09/20/kevin-durant-recovers-bitcoin-bought-at-usd650-now-up-over-17-700-after-nearly-a-decade"
 author: "Metaadvisor.eu"
@@ -16,6 +16,7 @@ image_alt: "Coinbase logo (simbolična grafika)"
 image_credit: "MetaAdvisor (simbolična grafika)"
 tags: ["crypto", "bitcoin", "Kevin Durant", "Coinbase", "account recovery", "2FA", "sigurnost", "onboarding"]
 summary: "Nakon gotovo desetljeća bez pristupa, Kevin Durant ponovno ulazi u svoj Coinbase račun. Donosimo kronologiju, moguće uzroke blokade i kako u praksi izgleda oporavak pristupa na burzama."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

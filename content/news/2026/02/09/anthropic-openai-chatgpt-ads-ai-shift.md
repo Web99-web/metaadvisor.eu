@@ -7,14 +7,15 @@ translationKey: "anthropic-openai-chatgpt-ads-2026-02-09"
 source: "The Guardian / public company statements"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Anthropic-vs-OpenAI.png"
-featured_image: "/images/Anthropic-vs-OpenAI.png"
-image: "/images/Anthropic-vs-OpenAI.png"
-thumbnail: "/images/Anthropic-vs-OpenAI.png"
+image_url: "/images/Anthropic-vs-OpenAI.webp"
+featured_image: "/images/Anthropic-vs-OpenAI.webp"
+image: "/images/Anthropic-vs-OpenAI.webp"
+thumbnail: "/images/Anthropic-vs-OpenAI.webp"
 image_alt: "Anthropic and OpenAI clash over advertising in AI chatbots"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["ai", "chatgpt", "openai", "anthropic", "ads", "artificial intelligence", "digital advertising", "technology", "privacy"]
 summary: "The debate over ads in AI chatbots has moved from theory to reality. After Anthropic’s campaign and OpenAI’s response, the real question is no longer if ads are coming — but what kind of AI will emerge."
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

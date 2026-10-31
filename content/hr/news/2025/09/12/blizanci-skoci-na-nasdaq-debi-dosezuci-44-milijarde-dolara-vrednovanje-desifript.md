@@ -3,7 +3,7 @@ title: "Blizanci skoči na NASDAQ debi, dosežući 4,4 milijarde dolara vrednova
 slug: "blizanci-skoci-na-nasdaq-debi-dosezuci-44-milijarde-dolara-vrednovanje-desifript"
 date: 2025-09-12T18:10:00Z
 category: "news"
-translationKey: "be217e7fb5358e4e2b8af4f22194a11c"
+translationKey: "be217e7fb5358e4e2b8af4f22194a11c--unpaired-c0b91a69a00d"
 source: "Decrypt"
 source_url: "https://decrypt.co/339329/gemini-jumps-nasdaq-debut-hitting-4-4-billion-valuation"
 priority: 97
@@ -11,6 +11,11 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "cryptocurrency", "bitcoin", "btc", "finance", "stocks"]
 our_take: |
   Naše mišljenje: Blizanci skaču na NASDAQ debi, dosegnuvši 4,4 milijarde dolara, Gailing Galiday, na NASDAQ -u je u petak s otprilike 4,4 milijarde dolara, jer su dionice Crypto Exchange odmah skočile iznad svoje početne ponude P… Ključne stvari za gledanje: likvidnost, makro (UsD) i regulacija.Ostanite selektivni;Dodajte samo u imena visoke presude.
+categories: ["news"]
+seo_alias_of: "https://metaadvisor.eu/hr/news/blizanci-skacu-na-nasdaq-debiju-dosezuci-44-milijarde-dolara-vrednovanje-desifript/"
+_build:
+  list: never
+  render: always
 ---
 
 Blizanci skaču na NASDAQ debiju, dosegnuvši 4,4 milijarde dolara procjene

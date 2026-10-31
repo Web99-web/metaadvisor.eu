@@ -15,6 +15,7 @@ image_alt: "Bitcoin and crypto assets on exchanges"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "bitcoin", "exchanges", "regulation", "unclaimed property", "blockchain", "finance", "market", "security"]
 summary: "What happens to crypto on exchanges if an account stays inactive for years and how new regulations are changing how digital assets are handled."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

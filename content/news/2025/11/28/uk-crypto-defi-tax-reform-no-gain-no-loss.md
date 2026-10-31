@@ -16,6 +16,7 @@ image_alt: "UK crypto DeFi tax reform no gain no loss"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["crypto","defi","uk","tax","tax reform","liquidity pools","lending","stablecoins","regulation","blockchain","finance","capital gains"]
 summary: "The UK proposes a major shift in crypto taxation: DeFi transactions would no longer be taxed on deposit, but only when tokens are actually sold."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

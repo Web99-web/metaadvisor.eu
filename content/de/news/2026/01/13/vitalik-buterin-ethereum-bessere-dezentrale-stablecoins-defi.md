@@ -7,10 +7,10 @@ translationKey: "vitalik_buterin_better_decentralized_stablecoins_2026"
 source: "MetaAdvisor Analyse (basierend auf Cointelegraph)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Vitalik-Buterin-decentralised-coins.png"
-featured_image: "/images/Vitalik-Buterin-decentralised-coins.png"
-image: "/images/Vitalik-Buterin-decentralised-coins.png"
-thumbnail: "/images/Vitalik-Buterin-decentralised-coins.png"
+image_url: "/images/Vitalik-Buterin-decentralised-coins.webp"
+featured_image: "/images/Vitalik-Buterin-decentralised-coins.webp"
+image: "/images/Vitalik-Buterin-decentralised-coins.webp"
+thumbnail: "/images/Vitalik-Buterin-decentralised-coins.webp"
 image_alt: "Symbolische Darstellung des Spannungsfeldes zwischen zentralisierten und dezentralen Stablecoins auf Ethereum"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -24,6 +24,7 @@ tags:
   - finanzsystem
   - geldsystem
 summary: "Ethereum-Mitgründer Vitalik Buterin warnt, dass heutige Stablecoins zu stark vom US-Dollar und von zentralisierten Strukturen abhängen. Wenn DeFi echte finanzielle Unabhängigkeit bieten soll, braucht es robustere, langfristig tragfähige und wirklich dezentrale Formen digitalen Geldes."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -9,6 +9,7 @@ summary: "Vraćam svoj i4 u salon jer mi ističe leasing. Iznenađen sam koliko 
 tags: ["BMW","EV","TechCrunch","recenzija","automobili"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/09/bmw-i4-techcrunch.jpg?w=1200"
 image_url_small: "https://techcrunch.com/wp-content/uploads/2025/09/bmw-i4-techcrunch.jpg?w=600"
+categories: ["news"]
 ---
 
 Želim odmah biti jasan. Nikada nisam bio zaljubljenik u automobile. Moja vozačka povijest uključuje naslijeđeni Volvo s rupom na podu i niz praktičnih vozila, uključujući VW Golf i Mazdu SUV kojom sam 12 godina vozio obitelj. Zatim sam uzeo u leasing BMW i4 električni automobil.

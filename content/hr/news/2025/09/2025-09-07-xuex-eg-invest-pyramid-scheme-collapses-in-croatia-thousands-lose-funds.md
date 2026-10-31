@@ -10,6 +10,7 @@ tags: ["news", "scam", "ponzi", "pig-butchering", "xuex", "eg-invest", "revolut"
 image_url: "https://images.pexels.com/photos/5900131/pexels-photo-5900131.jpeg"
 image_source: "Pexels – Kaboompics.com (https://www.pexels.com/photo/woman-and-receipts-on-desk-5900131/)"
 image_alt: "Woman reviewing receipts on a desk"
+categories: ["news"]
 ---
 
 Platforma **XUEX** (navodno u sklopu **EG Investment Group**) urušila se u petak navečer, ostavljajući tisuće ulagača bez pristupa uplaćenim sredstvima, izvijestili su domaći mediji. U oglasima i Telegram grupama obećavani su „stabilni prinosi” i udvostručenje uloga, a korisnici su morali potvrđivati dnevne „signale” u aplikaciji. Isplate su, prema pravilima, bile moguće tek nakon **52 dana**, što je održavalo iluziju stabilnosti — tipičan obrazac **Ponzijevih** i **“pig-butchering”** (sha zhu pan) prevara.

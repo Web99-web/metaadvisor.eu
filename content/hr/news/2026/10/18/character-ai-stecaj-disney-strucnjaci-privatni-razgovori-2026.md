@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Character.AI", "Disney", "Artificial Intelligence", "AI", "AI Chatbots", "AI Bankruptcy", "AI Startups", "Data Privacy", "User Data", "Child Safety", "AI Regulation", "Google", "Technology", "Business"]
 description: "Character.AI završio je u stečaju unatoč milijunima korisnika. Disney želi njegove stručnjake i tehnologiju, a vlasti traže zaštitu privatnih razgovora."
 summary: "Character.AI pokrenuo je stečajni postupak nakon milijunskih mjesečnih gubitaka i pravnih problema. Disney je zainteresiran za tehnologiju i 66 stručnjaka, dok američki državni odvjetnici traže zaštitu osjetljivih korisničkih podataka. Slučaj otvara pitanja profitabilnosti AI platformi, sigurnosti djece i budućnosti privatnih razgovora."
+categories: ["technology"]
 ---
 
 *Slika je simbolična.*

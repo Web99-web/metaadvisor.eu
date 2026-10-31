@@ -7,14 +7,15 @@ translationKey: "eu-protection-fails-platforms-ignore-user-appeals"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
-featured_image: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
-image: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
-thumbnail: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.png"
+image_url: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
+featured_image: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
+image: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
+thumbnail: "/images/Meta/EU-Appeals-Centre-Europe-Facebook.webp"
 image_alt: "EU zaštita i blokirani korisnici društvenih mreža Facebook, Instagram"
 image_credit: "Metaadvisor.eu"
 tags: ["eu", "dsa", "ai moderacija", "appeals centre europe", "platforme", "žalbe", "digitalna prava", "facebook", "instagram", "messenger", "business suite"]
 summary: "Sustav digitalne zaštite u EU obećava sigurnost korisnika, ali u praksi platforme ignoriraju žalbe, a odluke Appeals centra nemaju pravnu snagu."
+categories: ["ai"]
 ---
 
 <p style="font-size:13px; opacity:0.7;">

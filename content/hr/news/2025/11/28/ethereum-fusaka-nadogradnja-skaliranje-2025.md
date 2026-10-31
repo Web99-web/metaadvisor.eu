@@ -7,14 +7,15 @@ translationKey: "eth_fusaka_upgrade_20251128_hr"
 source: "MetaAdvisor – analiza"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/eth-fusaka.png"
-featured_image: "/images/eth-fusaka.png"
-image: "/images/eth-fusaka.png"
-thumbnail: "/images/eth-fusaka.png"
+image_url: "/images/eth-fusaka.webp"
+featured_image: "/images/eth-fusaka.webp"
+image: "/images/eth-fusaka.webp"
+thumbnail: "/images/eth-fusaka.webp"
 image_alt: "Ethereum Fusaka nadogradnja"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["ethereum", "fusaka", "skaliranje", "rollupovi", "blockchain", "tehnologija", "crypto"]
 summary: "Fusaka uvodi PeerDAS, nove BPO parametre i pripreme za povećanje kapaciteta koje će dugoročno promijeniti način na koji Ethereum obrađuje podatke."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

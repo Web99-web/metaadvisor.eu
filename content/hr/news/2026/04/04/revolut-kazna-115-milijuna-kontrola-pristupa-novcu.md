@@ -7,12 +7,13 @@ translationKey: "c9e7a1f4d2b84b7a9e5c3f1a8d6b2c4e"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (regulatorni izvori, mediji)"
 source_url: ""
-image_url: "/images/news/Revolut-fined-in-Italy.png"
-featured_image: "/images/news/Revolut-fined-in-Italy.png"
+image_url: "/images/news/Revolut-fined-in-Italy.webp"
+featured_image: "/images/news/Revolut-fined-in-Italy.webp"
 image_alt: "Revolut kazna Italija blokada računa"
 image_credit: "Ilustracija"
 tags: ["revolut","fintech","bankarstvo","blokada računa","digitalna kontrola","ai moderacija"]
 summary: "Kazna Revolutu u Italiji otvara šire pitanje: tko danas kontrolira pristup novcu i što se događa kada taj pristup nestane."
+categories: ["fintech"]
 ---
 
 *Slika je simbolična.*

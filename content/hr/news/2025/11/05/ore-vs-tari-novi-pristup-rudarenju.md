@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "1a4b3d79bfe64b4f98a21e56e3dbb4c1"
 source: "Metaadvisor Research"
 author: "Metaadvisor.eu"
-image_url: "/images/Ore-vs-Tari.png"
-featured_image: "/images/Ore-vs-Tari.png"
-image: "/images/Ore-vs-Tari.png"
-thumbnail: "/images/Ore-vs-Tari.png"
+image_url: "/images/Ore-vs-Tari.webp"
+featured_image: "/images/Ore-vs-Tari.webp"
+image: "/images/Ore-vs-Tari.webp"
+thumbnail: "/images/Ore-vs-Tari.webp"
 image_alt: "ORE vs Tari kriptovalute usporedba"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "ore", "tari", "solana", "monero", "mining", "pow", "pos", "blockchain", "ai", "tokenomics"]
 summary: "Dva projekta, ORE i Tari, predstavljaju nove pristupe rudarenju — jedan kao eksperiment na Solani, drugi kao infrastruktura za digitalne assete. Oboje pokazuju kako se stari PoW koncept transformira u novoj generaciji blockchaina."
+categories: ["crypto"]
 ---
 
 U svijetu kriptovaluta, koncept rudarenja (mininga) ponovno se mijenja.  

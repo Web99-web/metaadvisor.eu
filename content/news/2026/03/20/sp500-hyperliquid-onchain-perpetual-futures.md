@@ -16,6 +16,7 @@ image_alt: "Hyperliquid platform bringing S&P 500 onchain trading"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags: ["crypto", "bitcoin", "blockchain", "derivatives", "trading", "sp500", "hyperliquid", "defi", "perpetual", "finance", "tradfi", "onchain"]
 summary: "The S&P 500 enters blockchain markets through licensed perpetual futures on Hyperliquid, enabling 24/7 trading without expiry."
+categories: ["news"]
 ---
 
 *The image is symbolic.*

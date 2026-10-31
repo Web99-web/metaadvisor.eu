@@ -16,6 +16,7 @@ image_alt: "Bitcoin, Ethereum und Solana — symbolische Marktillustration"
 image_credit: "Metaadvisor image_map (symbolisches Bild)"
 tags: ["Bitcoin","BTC","Solana","SOL","HYPE","PUMP","Hyperliquid","Dip-Kauf","Whale","Liquidationen","Derivate","Perps","DXY","Fed","PCE","FTX","Gläubiger","On-Chain","Lookonchain","Volatilität","Markt"]
 summary: "Während der Markt nachgab, setzte eine Adresse auf Hyperliquid 15 Mio. USD (USDC) in BTC, SOL, HYPE und PUMP — eine Wette auf einen schnellen Rebound trotz hoher Derivate-Liquidationen und festem USD."
+categories: ["crypto"]
 ---
 
 **Kurz & knapp:**  

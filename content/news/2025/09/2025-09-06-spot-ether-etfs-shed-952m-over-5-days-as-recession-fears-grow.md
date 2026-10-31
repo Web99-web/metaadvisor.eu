@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/06/spot-ether-etfs-shed-us
 summary: "Despite the outflows, ether rose more than 16% in the past month, helped in part by the GENIUS Act."
 tags: ["crypto", "ethereum", "eth", "etf", "spot-etf", "macro", "recession", "fed", "cme", "polymarket", "gold"]
 image_url: "/images/eth-down-manja.jpg"
+categories: ["crypto"]
 ---
 
 Spot ether exchange-traded funds (ETFs) logged their fifth straight day of outflows this week, shedding $952 million in total, including over $787 million during the four-day week alone.

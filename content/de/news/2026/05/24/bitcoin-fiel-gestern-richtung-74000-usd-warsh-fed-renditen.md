@@ -15,6 +15,7 @@ image_alt: "Bitcoin price falling amid ETF outflows, Fed uncertainty and rising 
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "krypto", "bitcoin", "btc", "bitcoin etf", "spot bitcoin etf", "etf-abflüsse", "bitcoin-rückgang", "kevin warsh", "fed", "federal reserve", "fomc", "santiment", "coindesk", "cointelegraph", "farside", "cme", "treasury yields", "anleiherenditen", "zinsen", "rate hike", "geldpolitik", "liquidität", "risk assets", "volatilität", "retail-investoren", "akkumulation", "kontraindikator", "wall street", "digital assets"]
 summary: "Bitcoin fiel gestern in Richtung 74.000 Dollar, obwohl Kevin Warsh, bekannt für pro-krypto Positionen, die Führung der Federal Reserve übernommen hat. Der Markt achtet derzeit stärker auf steigende kurzfristige Renditen, ETF-Abflüsse und die Möglichkeit einer strafferen Geldpolitik als auf die Krypto-Sympathien des neuen Fed-Chairs."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;">

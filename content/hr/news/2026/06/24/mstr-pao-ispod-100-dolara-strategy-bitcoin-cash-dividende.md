@@ -7,14 +7,15 @@ translationKey: "mstr-pao-ispod-100-dolara-strategy-bitcoin-cash-dividende-2026-
 source: "CoinDesk, Cointelegraph, CryptoQuant, TradingView, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/MSTR-strategy-Bitcoin.png"
-featured_image: "/images/MSTR-strategy-Bitcoin.png"
-image: "/images/MSTR-strategy-Bitcoin.png"
-thumbnail: "/images/MSTR-strategy-Bitcoin.png"
+image_url: "/images/MSTR-strategy-Bitcoin.webp"
+featured_image: "/images/MSTR-strategy-Bitcoin.webp"
+image: "/images/MSTR-strategy-Bitcoin.webp"
+thumbnail: "/images/MSTR-strategy-Bitcoin.webp"
 image_alt: "MSTR Strategy Bitcoin stock and market pressure"
 image_credit: "Metaadvisor.eu"
 tags: ["MSTR", "Strategy", "Michael Saylor", "Bitcoin", "BTC", "dionice", "crypto tržište", "povlaštene dionice", "STRC", "dividende", "gotovinska rezerva", "razvodnjavanje dioničara", "tehnička analiza", "head and shoulders", "CoinDesk", "Cointelegraph", "CryptoQuant", "Metaadvisor"]
 summary: "MSTR je pao ispod 100 dolara dok Bitcoin i šire crypto tržište slabe. Strategy više nije samo priča o agresivnoj kupnji Bitcoina, nego i o gotovinskoj rezervi, dividendnim obvezama, STRC pritisku, mogućem razvodnjavanju dioničara i povjerenju tržišta."
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

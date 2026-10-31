@@ -10,6 +10,7 @@ image_url: "/images/btc-news.jpg"
 image_alt: "Bitcoin vijesti i kretanje cijene"
 tags: ["bitcoin","markets","fed","etf","macro"]
 summary: "Tjedan u kojem Fed odlučuje o kamatama: Bitcoin pleše oko važnih razina, ETF-ovi i dalje kupuju, a tržište traži znak ide li kratkoročno prema gore ili prema dolje."
+categories: ["crypto"]
 ---
 
 **Ukratko:** Ovo je tjedan u kojem **Američka središnja banka (Fed)** odlučuje o kamatama (srijeda). Takve odluke često pojačaju kretanja na svim tržištima — pa i na Bitcoinu. Trenutno se cijena vrti ispod **zamašnih 117.000 $**. Ako tu granicu jasno probije, lako može „zajahati” prema **120.000 $+**. Ako opet zapne i krene dolje, logična stanica je **oko 113.000 $**. 

@@ -7,14 +7,15 @@ translationKey: "xrp-market-follow-2026"
 author: "Metaadvisor.eu"
 source: "CoinDesk"
 source_url: ""
-image_url: "/images/news/Ripple-vs-XRP.png"
-featured_image: "/images/news/Ripple-vs-XRP.png"
-image: "/images/news/Ripple-vs-XRP.png"
-thumbnail: "/images/news/Ripple-vs-XRP.png"
+image_url: "/images/news/Ripple-vs-XRP.webp"
+featured_image: "/images/news/Ripple-vs-XRP.webp"
+image: "/images/news/Ripple-vs-XRP.webp"
+thumbnail: "/images/news/Ripple-vs-XRP.webp"
 image_alt: "XRP prati Bitcoin bez vlastitog narativa"
 tags: ["kripto", "xrp", "ripple", "bitcoin", "analiza", "tržište", "investitori", "blockchain"]
 summary: "Ripple doseže procjenu od 50 milijardi dolara, dok XRP raste zajedno s tržištem. No ključno pitanje ostaje — tko zapravo pokreće XRP i zašto nema vlastiti smjer?"
 symbolic_image: true
+categories: ["crypto"]
 ---
 
 Slika je simbolična.

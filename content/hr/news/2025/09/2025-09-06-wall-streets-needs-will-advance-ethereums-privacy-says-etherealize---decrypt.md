@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/338324/wall-streets-needs-advance-ethereum-priva
 summary: "Zagovornici privatnosti trebali bi pozdraviti usvajanje kripta na Wall Streetu, kaže Danny Ryan, suosnivač i predsjednik Etherealizea."
 tags: ["crypto", "ethereum", "eth", "privatnost", "privacy", "zero-knowledge", "zk", "wall street", "institucije", "compliance", "decrypt", "etherealize"]
 image_url: "/images/wall-street-manja.jpg"
+categories: ["kripto"]
 ---
 
 Potrebama Wall Streeta napredovat će privatnost Ethereuma, kaže Etherealize

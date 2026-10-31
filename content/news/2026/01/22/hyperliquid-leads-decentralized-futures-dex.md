@@ -15,6 +15,7 @@ image_alt: "Illustration of the Hyperliquid decentralized futures exchange"
 image_credit: "MetaAdvisor.eu / symbolic illustration"
 summary: "Hyperliquid is increasingly emerging as the leading decentralized futures trading platform, while trading volumes on rival perp DEXs continue to decline. The decentralized derivatives market is entering a consolidation phase where liquidity and execution reliability matter most."
 tags: ["crypto", "dex", "perpetuals", "futures", "defi", "derivatives", "trading", "hyperliquid", "volume"]
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

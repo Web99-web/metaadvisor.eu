@@ -16,6 +16,7 @@ image_credit: "Reuters"
 tags: ["robots", "artificial intelligence", "AI", "Poland", "Warsaw", "humanoid robots", "robot dogs", "robotics", "automation", "jobs", "labour market", "AI regulation", "Democratism", "Delta Robots"]
 description: "Around 30 humanoid robots and robot dogs took to the streets of Warsaw calling for the protection of human jobs and stricter AI rules. Behind the seemingly comic scene lies a serious message about the future of work."
 summary: "Robots protested in Warsaw with messages calling for the protection of human jobs and regulation of artificial intelligence. The action was organised by people who wanted to highlight how quickly AI, automation and robotics could transform the labour market."
+categories: ["AI"]
 ---
 
 # Robots took to the streets of Warsaw to warn people about AI

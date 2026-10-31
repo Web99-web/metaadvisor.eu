@@ -15,6 +15,7 @@ image_alt: "FUD messages warning graphic"
 image_credit: "MetaAdvisor.eu"
 tags: ["crypto", "security", "fud", "ethereum", "eth", "scam", "instagram", "messenger", "fake profiles", "crypto scammers"]
 summary: "More users are receiving identical FUD messages on Instagram and Messenger — warnings designed to create panic about cryptocurrencies. Here’s what they are, why they appear, and how to protect yourself."
+categories: ["security"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

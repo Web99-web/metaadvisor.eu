@@ -7,10 +7,10 @@ translationKey: "1500cd1568a49eb470e1962d117dbc1d"
 author: "CoinDesk"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/27/crypto-treasury-firms-could-become-long-term-giants-like-berkshire-hathaway-analyst-says"
-image_url: "/images/Digital Assets.png"
-featured_image: "/images/Digital Assets.png"
-image: "/images/Digital Assets.png"
-thumbnail: "/images/Digital Assets.png"
+image_url: "/images/Digital Assets.webp"
+featured_image: "/images/Digital Assets.webp"
+image: "/images/Digital Assets.webp"
+thumbnail: "/images/Digital Assets.webp"
 image_alt: "Digital Asset Treasury illustration"
 image_credit: "Metaadvisor.eu"
 
@@ -26,6 +26,7 @@ tags:
   - MicroStrategy
 
 summary: "Tvrtke za digitalnu imovinu (DAT) već drže više od 100 milijardi USD u kriptovalutama. Analitičari predviđaju da bi mogle postati ključni dugoročni igrači koji oblikuju blockchain ekosustave, slično kao Berkshire Hathaway u tradicionalnim financijama."
+categories: ["ai"]
 ---
 
 ## DAT kao novi divovi

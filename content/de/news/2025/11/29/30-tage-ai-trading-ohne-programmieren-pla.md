@@ -15,6 +15,7 @@ image_alt: "30-Day AI Trading Plan Grafik"
 image_credit: "MetaAdvisor AI–generated"
 tags: ["ai trading","krypto","bitcoin","btc","automatisierung","trading bot","hyperliquid","kryll","mexc","strategien","finanzen","investieren"]
 summary: "Ein praktischer 30-Tage-Plan für Anfänger, um mit AI-Trading ohne jegliche Programmierkenntnisse zu starten – inklusive Erklärung von Hyperliquid AI Agents, Kryll und MEXC."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

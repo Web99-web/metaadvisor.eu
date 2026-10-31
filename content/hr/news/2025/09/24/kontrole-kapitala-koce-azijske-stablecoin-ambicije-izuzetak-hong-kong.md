@@ -28,6 +28,7 @@ tags:
   - regulacija
   - governance
 summary: "Ambicije za azijske stablecoine sudaraju se s kontrolama kapitala koje ograničavaju međunarodnu upotrebu lokalnih valuta. Hong Kong je izuzetak: posebni status, vezanost uz USD i jasna regulacija čine HKD održivom bazom."
+categories: ["news"]
 ---
 
 **Kratko:** Uoči **Korea Blockchain Weeka**, ideja o **stablecoinu vezanom uz korejski won (KRW)** dobila je politički zamah: ponuditi **domaću digitalnu alternativu** dolar-tokenima. No **kontrole kapitala** u većini azijskih zemalja onemogućuju **offshore upotrebu**, pa se **hongkonški dolar (HKD)** nameće kao **jedina realna regionalna osnova**.

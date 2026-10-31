@@ -31,6 +31,7 @@ tags:
   - stablecoins
   - ai
 summary: "Tether is reportedly working with Antalpha to raise ≥ $200M for a new XAUT-focused digital asset treasury, building out lending, custody and physical redemption infrastructure across major financial hubs."
+categories: ["crypto"]
 ---
 
 According to Bloomberg, **Tether** (issuer of **USDT**) is partnering with **Antalpha**—known for financing within Bitmain’s supply chain—to raise **at least $200M** for a **tokenized gold treasury** centered on **XAUT** (Tether Gold), backed by **physical bars** held in a Swiss vault.

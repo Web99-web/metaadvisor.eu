@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Ethereum", "Glamsterdam", "ETH", "gas", "EIP-8037", "wallet", "Ethereum wallet", "blockchain", "crypto"]
 description: "Glamsterdam fork na Ethereumovu javnom Platåberget testnetu zakazan je za 20. kolovoza, a Ethereum Foundation upozorava developere da nove gas promjene mogu zahtijevati prilagodbu walleta, indexera i gas estimatora."
 summary: "Ethereum Foundation upozorava developere da prije Glamsterdama provjere svoje wallete, indexere i gas estimatore. Fork na javnom Platåberget testnetu zakazan je za 20. kolovoza, a promjene uključuju novi način naplate stvaranja trajnog blockchain statea."
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

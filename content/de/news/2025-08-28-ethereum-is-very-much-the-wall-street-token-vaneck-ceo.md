@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/vaneck-ceo-calls-ethereum-the-wall-s
 summary: "Der CEO von VanEck erklärt, dass Banken ohne Ethereum für Stablecoin-Transaktionen bald ins Hintertreffen geraten."
 tags: ["crypto","Ethereum","VanEck","Wall Street Token","Stablecoins"]
 image_url: "https://www.cointelegraph.com/images/ethereum-is-wall-street-token.jpg"
+categories: ["crypto"]
 ---
 
 Jan van Eck, CEO der Investmentfirma VanEck, prognostiziert, dass Ethereum sich als dominierender Blockchain-Anbieter für Banken im Bereich Stablecoin-Transaktionen etablieren wird – und bezeichnet ihn als „Wall Street Token“.

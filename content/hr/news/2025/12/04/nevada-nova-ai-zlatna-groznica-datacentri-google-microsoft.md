@@ -8,10 +8,10 @@ source: "The Guardian"
 source_url: "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Nevada-AI-goldrush.png"
-featured_image: "/images/Nevada-AI-goldrush.png"
-image: "/images/Nevada-AI-goldrush.png"
-thumbnail: "/images/Nevada-AI-goldrush.png"
+image_url: "/images/Nevada-AI-goldrush.webp"
+featured_image: "/images/Nevada-AI-goldrush.webp"
+image: "/images/Nevada-AI-goldrush.webp"
+thumbnail: "/images/Nevada-AI-goldrush.webp"
 image_alt: "Nevada AI data center expansion illustration"
 image_credit: "Metaadvisor AI-generated"
 
@@ -40,6 +40,7 @@ tags:
   - ulaganja
   - gold rush
 summary: "Nevada doživljava novu tehnološku zlatnu groznicu: AI, datacentri i giga-infrastruktura stvaraju regiju koja postaje kritična za globalnu tehnološku budućnost."
+categories: ["ai"]
 ---
 
 # Nevada postaje nova AI zlatna groznica

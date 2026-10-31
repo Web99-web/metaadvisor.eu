@@ -24,6 +24,7 @@ tags:
   - futures
   - risk
 summary: "After the sharp market crash in October 2025, the crypto market is entering a new and more mature phase. The era of relatively easy and stable yields generated through arbitrage strategies appears to be coming to an end, making room for a more sustainable market structure."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -15,6 +15,7 @@ image_alt: "Bitcoin BTC nach einem kurzen Rückgang und einer Erholung in Richtu
 image_credit: "Metaadvisor.eu"
 tags: ["Bitcoin", "BTC", "Strategy", "Michael Saylor", "BTC-Verkauf", "Bitcoin-Preis", "Crypto-Markt", "BTC-Volatilität", "Bitcoin-Erholung", "MSTR", "Crypto-Sentiment"]
 summary: "Bitcoin fiel kurzzeitig in Richtung 61.000 Dollar, nachdem bekannt wurde, dass Strategy einen Teil seiner BTC-Bestände verkauft hatte. Danach erholte sich der Kurs jedoch in Richtung 64.500 Dollar. Die Geschichte dreht sich daher nicht nur um den Verkauf, sondern auch darum, wie schnell der Markt den Schock absorbiert hat."
+categories: ["crypto"]
 ---
 
 Das Bild ist symbolisch.

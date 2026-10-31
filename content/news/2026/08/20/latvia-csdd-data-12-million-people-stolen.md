@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["cybersecurity", "Latvia", "CSDD", "data breach", "personal data", "GDPR", "phishing", "Croatia"]
 description: "A cyberattack on Latvia's CSDD exposed data linked to more than 1.2 million people and 200,000 legal entities. The stolen records also include historical payment data going back to 2008."
 summary: "Hackers extracted data linked to more than 1.2 million people from Latvia's CSDD. The stolen records include personal identification numbers, vehicle registration plates, addresses and payment data, with some records dating back to 2008."
+categories: ["Cybersecurity"]
 ---
 
 *The image is symbolic.*

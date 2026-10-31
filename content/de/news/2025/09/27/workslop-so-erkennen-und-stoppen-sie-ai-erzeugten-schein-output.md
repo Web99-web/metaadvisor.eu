@@ -32,6 +32,7 @@ tags:
   - stanford
 
 summary: "„Workslop“ ist KI-generierter Schein-Output: sieht poliert aus, bewegt die Aufgabe aber nicht vorwärts. Woran man ihn erkennt (Slides, Meetingnotes, Pixel-Polieren) und wie Teams ihn mit klaren Guardrails stoppen."
+categories: ["ai"]
 ---
 
 > **Definition (HBR / BetterUp Labs)**  

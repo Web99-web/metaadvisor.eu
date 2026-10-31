@@ -24,6 +24,7 @@ tags:
   - cftc
   - crypto
 summary: "Der US-Senat hat einen hochrangigen Treasury-Beamten bestätigt, während der Regierungs-Shutdown andauert. Wir erklären, warum dies für Märkte und Krypto wichtig ist – insbesondere für AML/OFAC/FinCEN – und was als Nächstes zu beobachten ist."
+categories: ["news"]
 ---
 
 *Bild ist symbolisch.*

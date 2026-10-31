@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/01/clanker-slur-aga
 summary: "The term is used to insult AI chatbots and platforms like ChatGPT for making up information and generating ‘slop’. Some believe we should stop using it, pronto"
 tags: ["ai", "chatgpt", "robots", "culture", "language"]
 image_url: "https://i.guim.co.uk/img/media/caf22e9dbf9d73b94a8f9d61b4d671b17dbe26e4/0_0_5472_3648/master/5472.jpg?width=1200&quality=85&auto=format&fit=max&s=5bb09b1c03049c989feaadbcb1d4a9ce"
+categories: ["ai"]
 ---
 
 The term is used to insult AI chatbots and platforms like ChatGPT for making up information and generating ‘slop’. Some believe we should stop using it, pronto.

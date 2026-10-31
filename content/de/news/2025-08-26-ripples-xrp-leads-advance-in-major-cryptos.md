@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/26/xrp-jumps-8-to-top-mark
 summary: "Auch Solana, Dogecoin und Ether legten zu, während die CME-Krypto-Futures 30 Mrd. $ Open Interest erreichten – ein Zeichen wachsender institutioneller Nachfrage."
 tags: ["crypto"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/d502eb0a60fc0021f07f61d4384c701994c880c0-5160x4128.jpg?auto=format"
+categories: ["crypto"]
 ---
 
 Altcoins erholten sich am Dienstag deutlich, nachdem es in den vorangegangenen 48 Stunden zu starken Verkäufen gekommen war. Händler nutzten die niedrigeren Preise als Gelegenheit für einen Wiedereinstieg in den Markt. XRP führte die Erholung an und stieg in den vergangenen 24 Stunden um 6%.

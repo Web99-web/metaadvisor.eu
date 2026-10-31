@@ -9,6 +9,7 @@ summary: "Eric Trump says the family embraced crypto after being ‘debanked,’
 tags: ["crypto","trump","eric-trump","banks","wsj","policy","tokenization","stablecoins","american-bitcoin","hut8","world-liberty-financial"]
 image_url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2025-08/01988c26-526f-7665-8fee-1136ab5cd884"
 image_alt: "Eric Trump on crypto — Cointelegraph hero image"
+categories: ["crypto"]
 ---
 
 **Eric Trump** said the family turned **pro-crypto** after being **“debanked”** in the aftermath of the **January 2021 Capitol** events. Multiple banks allegedly **shut hundreds of accounts** tied to the **Trump Organization**, forcing a temporary shift to regional banks before a new, unnamed partner was found — remarks attributed to a **Wall Street Journal** interview. :contentReference[oaicite:10]{index=10}

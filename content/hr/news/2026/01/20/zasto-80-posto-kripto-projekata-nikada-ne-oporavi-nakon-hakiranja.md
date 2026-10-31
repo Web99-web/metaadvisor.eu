@@ -25,6 +25,7 @@ tags:
   - rizik
   - investicije
 summary: "Prema procjenama sigurnosnih stručnjaka iz Immunefi-ja, oko 80% kripto projekata koji dožive ozbiljan sigurnosni incident nikada se u potpunosti ne oporavi — ne zbog koda, već zbog trajnog gubitka povjerenja, likvidnosti i operativne snage."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

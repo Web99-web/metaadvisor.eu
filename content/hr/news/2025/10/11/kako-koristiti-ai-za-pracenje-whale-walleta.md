@@ -6,13 +6,14 @@ category: "ai"
 translationKey: "96f26a29f43896e0487e994631964c4b-hr"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/how-to-use-ai-to-spot-whale-wallet-moves-before-the-crowd"
-image_url: "/images/whale.png"
-featured_image: "/images/whale.png"
-thumbnail: "/images/whale.png"
+image_url: "/images/whale.webp"
+featured_image: "/images/whale.webp"
+thumbnail: "/images/whale.webp"
 image_alt: "AI analiza whale wallet kretanja"
 image_credit: "Metaadvisor.eu (simbolična ilustracija)"
 tags: ["ai","crypto","whale","wallet-tracking","on-chain"]
 summary: "Umjetna inteligencija sve se više koristi za analizu kretanja whale walleta. Objašnjavamo kako AI pomaže traderima otkriti velike poteze prije nego što ih primijeti šira javnost."
+categories: ["ai"]
 ---
 
 Praćenje kretanja tzv. **whale walleta** (novčanika s velikim količinama kriptovaluta) odavno je strategija iskusnih tradera. Ali s rastom količine podataka na blockchainu postaje gotovo nemoguće sve obraditi ručno. Tu nastupa **umjetna inteligencija (AI)**.

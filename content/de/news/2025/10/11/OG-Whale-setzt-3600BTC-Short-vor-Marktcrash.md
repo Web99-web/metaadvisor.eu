@@ -15,6 +15,7 @@ thumbnail: "/images/whale-transationc3600BTCshort.jpg"
 image_credit: "Metaadvisor.eu (symbolische Darstellung)"
 tags: ["bitcoin","btc","hyperliquid","derivate","perps","short","whale","on-chain","funding","liquidation","marktstruktur","volatilität","risiko","addresses","order-book","open-interest"]
 summary: "Ein ‘OG’-Whale eröffnete auf Hyperliquid eine Short-Position von ~3.600 BTC (~400 Mio. USD). War das nur Glück, ein Informationsvorsprung oder taktisches Risikomanagement? Wir analysieren die Szenarien."
+categories: ["crypto"]
 ---
 
 ## Was geschah

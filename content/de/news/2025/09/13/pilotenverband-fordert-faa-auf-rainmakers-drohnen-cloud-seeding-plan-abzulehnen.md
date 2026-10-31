@@ -6,10 +6,11 @@ category: "ai"
 translationKey: "c160bc263097908f45de440ec9aafd4b"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/"
-image_url: "/images/drone.jpg"
+image_url: "/images/dron.webp"
 image_alt: "Drohne"
 tags: ["ai","drohne","faa","cloud-seeding","sicherheit","luftfahrt","rainmaker","uas"]
 summary: "Rainmaker will kleine Drohnen mit pyrotechnischen Flares für Cloud Seeding ausstatten. Der Pilotenverband ALPA drängt die FAA auf Ablehnung ohne strengere Auflagen – die Entscheidung könnte einen Präzedenzfall setzen."
+categories: ["ai"]
 ---
 
 Der Antrag von **Rainmaker Technology**, kleine Drohnen mit **Cloud-Seeding-Flares** auszustatten, stößt auf Widerstand des **Pilotenverbands ALPA**, der die US-Luftfahrtbehörde **FAA** auffordert, den Antrag **abzulehnen**, sofern das Start-up **keine strengeren Sicherheitsvorgaben** akzeptiert.

@@ -13,8 +13,9 @@ image: "/images/trump-coin1.jpg"
 thumbnail: "/images/trump-coin1.jpg"
 image_alt: "$TRUMP memecoin and the sharp drop in value after the initial market surge"
 image_credit: "Metaadvisor.eu"
-tags: ["Trump memecoin", "$TRUMP token", "98 percent drop", "investor losses", "Nansen analysis", "memecoin hype", "crypto decline", "Bitcoin drawdown", "Ethereum decline", "Solana ATH", "Cardano decline", "retail crypto investors", "memecoin risk"]
+tags: ["Trump memecoin", "trump-token", "98 percent drop", "investor losses", "Nansen analysis", "memecoin hype", "crypto decline", "Bitcoin drawdown", "Ethereum decline", "Solana ATH", "Cardano decline", "retail crypto investors", "memecoin risk"]
 summary: "The Trump memecoin $TRUMP has fallen almost 98 percent from its peak, and according to Nansen analysis, investors have lost around $3.8 billion. But the broader picture shows that $TRUMP is not the only asset that has fallen: Bitcoin, Ethereum, Solana and Cardano are also far below their earlier highs."
+categories: ["crypto"]
 ---
 
 The image is symbolic.

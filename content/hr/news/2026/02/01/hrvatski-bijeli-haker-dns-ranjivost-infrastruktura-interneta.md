@@ -23,6 +23,7 @@ tags:
   - internet
   - cyber-security
 summary: "Hrvatski sigurnosni istraživač Vlatko Košturjak otkrio je ozbiljnu ranjivost u DNS sustavu koja može onesposobiti ključne dijelove internetske infrastrukture, bez krađe podataka ali s potencijalno globalnim posljedicama."
+categories: ["security"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

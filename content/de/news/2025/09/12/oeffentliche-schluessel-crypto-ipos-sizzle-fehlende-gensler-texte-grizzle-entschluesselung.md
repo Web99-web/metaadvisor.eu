@@ -11,6 +11,7 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "cryptocurrency", "stocks"]
 our_take: |
   Unsere Ansicht: Öffentliche Schlüssel: Crypto IPOs Sizzle, fehlende Gensler -Texte Grizzle Public Keys ist eine wöchentliche Zusammenfassung von Decrypt, die die wichtigsten öffentlich gehandelten Krypto -Unternehmen verfolgt.Wichtige Dinge zu sehen: Liquidität, Makro (Tarife/USD) und Regulierung.Bleib selektiv;Fügen Sie nur in Namen mit hoher Konvitation hinzu.
+categories: ["news"]
 ---
 
 Öffentliche Schlüssel: Crypto iPos Sizzle, fehlende Gensler -Texte Grizzle

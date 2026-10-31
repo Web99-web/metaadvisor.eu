@@ -9,6 +9,7 @@ summary: "Workers warn that a £500k contract with a US tech firm supplying Isra
 tags: ["AI","Palantir","Coventry","public-sector","children","SEND","UK"]
 image_url: "https://i.guim.co.uk/img/media/50f98827c7c3950c2cdd6676efec5fef9d92e776/0_0_3500_2100/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=8f1f5dc5d96d9135a2b9f7ac62b43a14"
 image_url_small: "https://i.guim.co.uk/img/media/50f98827c7c3950c2cdd6676efec5fef9d92e776/0_0_3500_2100/master/3500.jpg?width=600&quality=85&auto=format&fit=max&s=8f1f5dc5d96d9135a2b9f7ac62b43a14"
+categories: ["ai"]
 ---
 
 Public sector workers have raised “deep concern” after Coventry city council signed a £500,000 annual contract with US data firm **Palantir**.  

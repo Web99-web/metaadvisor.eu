@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/south-korea-upbit-hack-crypto-exchanges-bank-liability"
 author: "Cointelegraph — Übersetzung und Analyse MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/South-Korea-new-crypto-rules.png"
-featured_image: "/images/South-Korea-new-crypto-rules.png"
-image: "/images/South-Korea-new-crypto-rules.png"
-thumbnail: "/images/South-Korea-new-crypto-rules.png"
+image_url: "/images/South-Korea-new-crypto-rules.webp"
+featured_image: "/images/South-Korea-new-crypto-rules.webp"
+image: "/images/South-Korea-new-crypto-rules.webp"
+thumbnail: "/images/South-Korea-new-crypto-rules.webp"
 image_alt: "Südkorea verschärft Krypto-Regeln — Bankhaftung für Börsen"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["crypto","suedkorea","regulierung","upbit","boersen","sicherheit","krypto","gesetz","fintech"]
 summary: "Nach dem Upbit-Hack plant Südkorea ein Gesetz, das Krypto-Börsen wie Banken behandelt — inklusive obligatorischer Entschädigung für Nutzer, selbst wenn die Börse nicht schuld ist."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -16,6 +16,7 @@ image_alt: "DeFi-System und Besicherung mit eigenem Token"
 image_credit: "Metaadvisor Illustration"
 tags: ["crypto", "krypto", "bitcoin", "btc", "defi", "wlfi", "trump", "stablecoin", "liquidität", "risiko", "dolomite", "kredit", "token", "regulierung"]
 summary: "Ein mit Trump verbundenes Krypto-Projekt nutzt seinen eigenen Token als Sicherheit, um Millionen zu leihen – und wirft damit Fragen zur Liquidität, Struktur und möglichen geschlossenen Kreisläufen im DeFi-System auf."
+categories: ["crypto"]
 ---
 
 _Das Bild ist symbolisch._

@@ -16,6 +16,7 @@ image_alt: "Bitcoin kovanice — simbolična ilustracija"
 image_credit: "Slika je simbolična."
 tags: ["babylon","btc","bitcoin","wbtc","defi","kripto","crypto","kolateral","skrbnici","custodians","mostovi","likvidnost"]
 summary: "Projekt Babylon tvrdi da je pronašao način kako koristiti nativni BTC kao kolateral u DeFi-ju, bez skrbnika i bez omotanih tokena poput wBTC."
+categories: ["crypto"]
 ---
 
 **Sažetak.** Projekt **Babylon** najavljuje rješenje za korištenje **nativnog Bitcoina (BTC)** kao kolaterala u DeFi-ju — bez “omotanih” verzija poput **wBTC** i bez oslanjanja na **skrbnike**. Ako se pokaže održivim, BTC bi mogao raditi u DeFi-ju dok fizički ostaje zaključan na Bitcoin L1 mreži.

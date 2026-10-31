@@ -9,6 +9,7 @@ summary: "Bruce Liu von OP_CAT Labs sagt, dass Satoshi Bitcoin als programmierba
 tags: ["bitcoin", "crypto", "opcat", "satoshi", "blockchain"]
 image_url: "https://www.coindesk.com/resizer/v2/CYYopcatlabs-btc-2025.jpg?width=1200"
 image_url_small: "https://www.coindesk.com/resizer/v2/CYYopcatlabs-btc-2025.jpg?width=600"
+categories: ["crypto"]
 ---
 
 Ohne OP_CAT, so Bruce Liu, sei Bitcoin „so nützlich wie ein Jumbojet ohne Flügel“ – zu weit mehr fähig, als ihm derzeit erlaubt ist, aber am Boden festgehalten, während Ethereum und Solana davonfliegen.

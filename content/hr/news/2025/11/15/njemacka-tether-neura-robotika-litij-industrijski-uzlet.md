@@ -16,6 +16,7 @@ image_alt: "Tether investicija i Njemačka robotika"
 image_credit: "MetaAdvisor.eu"
 tags: ["tether", "neura robotics", "robotika", "njemačka", "litij", "industrija", "ai", "technology", "crypto", "europe", "investicije", "market", "analiza"]
 summary: "Nakon otkrića 43 milijuna tona litija i najave Tetherove milijarde za Neura Robotics, Njemačka odjednom postaje novo europsko tehnološko središte."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

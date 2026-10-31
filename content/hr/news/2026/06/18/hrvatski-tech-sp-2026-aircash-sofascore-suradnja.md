@@ -7,14 +7,15 @@ translationKey: "hrvatski-tech-sp-2026-aircash-sofascore-suradnja-2026-06-18"
 source: "Sofascore, Aircash, FIFA, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Sofascore-Aircash-Cro-apps.png"
-featured_image: "/images/companies/Sofascore-Aircash-Cro-apps.png"
-image: "/images/companies/Sofascore-Aircash-Cro-apps.png"
-thumbnail: "/images/companies/Sofascore-Aircash-Cro-apps.png"
+image_url: "/images/companies/Sofascore-Aircash-Cro-apps.webp"
+featured_image: "/images/companies/Sofascore-Aircash-Cro-apps.webp"
+image: "/images/companies/Sofascore-Aircash-Cro-apps.webp"
+thumbnail: "/images/companies/Sofascore-Aircash-Cro-apps.webp"
 image_alt: "Sofascore i Aircash kao hrvatske aplikacije u digitalnoj ekonomiji sporta"
 image_credit: "Metaadvisor.eu"
 tags: ["Sofascore", "Aircash", "hrvatski tech", "SP 2026", "Svjetsko prvenstvo 2026", "fintech", "sportska aplikacija", "digitalna plaćanja", "digitalna ekonomija", "navijači", "aplikacije", "sport tech", "Cro apps", "Metaadvisor"]
 summary: "Sofascore i Aircash su dva odvojena hrvatska digitalna proizvoda koja kroz suradnju oko SP-a 2026 pokazuju kako se sport, fintech, aplikacije i navijačka pažnja sve više spajaju u istom korisničkom prostoru: mobitelu."
+categories: ["tech"]
 ---
 
 Slika je simbolična.

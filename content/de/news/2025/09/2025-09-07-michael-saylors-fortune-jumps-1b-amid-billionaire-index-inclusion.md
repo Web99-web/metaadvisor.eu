@@ -9,6 +9,7 @@ summary: "Erstmals im Bloomberg Billionaires Index gelistet: geschätztes Nettov
 tags: ["crypto", "bitcoin", "btc", "michael saylor", "microstrategy", "mstr", "bloomberg", "billionaires index", "net worth", "aktien"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Michael_Saylor_%2854345839472%29.jpg"
 image_source: "Foto: Gage Skidmore / CC BY-SA 2.0 via Wikimedia Commons"
+categories: ["krypto"]
 ---
 
 Michael **Saylor** wurde in den **Bloomberg Billionaires Index** aufgenommen — mit einem geschätzten Vermögen von **7,37 Mrd. $** (aktuell **#491**), was einem Anstieg von fast **+16 %** seit Jahresbeginn entspricht; die Aktie von **MicroStrategy (MSTR)** legte im gleichen Zeitraum um etwa **12 %** zu. :contentReference[oaicite:3]{index=3}

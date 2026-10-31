@@ -15,6 +15,7 @@ image_alt: "Mastercard ulazak u crypto i stablecoin infrastrukturu"
 image_credit: "MetaAdvisor.eu"
 tags: ["mastercard", "crypto", "stablecoin", "bvnk", "fintech", "plaćanja", "blockchain", "banke", "financije"]
 summary: "Mastercard kupuje stablecoin infrastrukturu BVNK za 1.8 milijardi dolara, signalizirajući veliki zaokret tradicionalnih financija prema crypto plaćanjima."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

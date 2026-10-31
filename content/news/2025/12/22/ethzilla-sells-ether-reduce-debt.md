@@ -16,6 +16,7 @@ image_alt: "Ethereum and pressure on corporate crypto treasuries"
 image_credit: "MetaAdvisor illustration"
 tags: ["ethereum", "ether", "crypto-treasury", "corporate-crypto", "altcoins", "finance", "debt"]
 summary: "ETHZilla sold $74.5 million worth of Ether to reduce debt, highlighting how the corporate crypto-treasury model is shifting from accumulation to balance-sheet defense."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

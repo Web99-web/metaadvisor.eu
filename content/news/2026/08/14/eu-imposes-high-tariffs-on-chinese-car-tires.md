@@ -6,15 +6,16 @@ category: "business"
 translationKey: "eu-carine-kineske-auto-gume-2026-08-14"
 source: "European Commission, EUR-Lex"
 author: "Metaadvisor.eu"
-image_url: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
-featured_image: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
-image: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
-thumbnail: "/images/news/EU-new-tariffs-on-chinese-car-tires.png"
+image_url: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
+featured_image: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
+image: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
+thumbnail: "/images/news/EU-new-tariffs-on-chinese-car-tires.webp"
 image_alt: "Chinese car tires and new European Union anti-dumping tariffs"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["EU", "China", "car tires", "tariffs", "anti-dumping", "European Commission", "imports", "automotive industry", "prices", "trade"]
 description: "The European Union has imposed definitive anti-dumping tariffs on certain Chinese tires for passenger cars and light commercial vehicles. Rates for some manufacturers exceed 45 percent."
 summary: "Chinese car tires have not been banned in the EU, but the new anti-dumping tariffs could significantly change their prices and competitiveness in the European market."
+categories: ["business"]
 ---
 
 *The image is symbolic.*

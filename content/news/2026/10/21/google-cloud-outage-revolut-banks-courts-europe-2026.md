@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Google Cloud", "Google", "Revolut", "Lloyds", "Halifax", "HSBC", "Cloud Outage", "Cloud Computing", "Banking", "Digital Banking", "Payments", "Cybersecurity", "DORA", "Digital Infrastructure", "Financial Technology", "Europe", "Technology"]
 description: "A Google Cloud outage disrupted Revolut, British banks, courts and other services, raising concerns about Europe's dependence on cloud infrastructure."
 summary: "A Google Cloud infrastructure failure in London on October 20, 2026, disrupted banking and other digital services. Revolut, Lloyds, Halifax and HSBC were among the affected financial institutions, while courts, delivery services and other sectors also reported difficulties. The incident renewed concerns about Europe's dependence on a small number of global cloud providers."
+categories: ["technology"]
 ---
 
 *Symbolic illustration.*

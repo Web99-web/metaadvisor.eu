@@ -7,14 +7,15 @@ translationKey: "ai-alerted-police-platform-responsibility-2026"
 source: "Tech reporting"
 source_url: ""
 author: "Metaadvisor.eu"
-image_url: "/images/AI-alerted-police.png"
-featured_image: "/images/AI-alerted-police.png"
-image: "/images/AI-alerted-police.png"
-thumbnail: "/images/AI-alerted-police.png"
+image_url: "/images/AI-alerted-police.webp"
+featured_image: "/images/AI-alerted-police.webp"
+image: "/images/AI-alerted-police.webp"
+thumbnail: "/images/AI-alerted-police.webp"
 image_alt: "AI alerted police – sigurnost ili nadzor?"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["AI", "umjetna inteligencija", "OpenAI", "policija", "cyber sigurnost", "privatnost", "digitalna prava", "regulacija AI", "tehnologija", "sigurnost", "AI etika"]
 summary: "Informacije da je AI platforma ranije upozorila policiju pokrenule su raspravu o odgovornosti tehnoloških kompanija. Gdje završava zaštita društva, a počinje digitalni nadzor?"
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

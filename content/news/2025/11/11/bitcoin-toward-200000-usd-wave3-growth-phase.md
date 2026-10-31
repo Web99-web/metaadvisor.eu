@@ -15,6 +15,7 @@ image_alt: "Bitcoin chart around 100k USD zone"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "wave3", "crypto", "analysis", "institutions", "etf", "ethereum", "market"]
 summary: "Bitcoin consolidates between US$102,000 and US$103,000 while analysts warn a possible start of ‘Wave III’ growth phase towards US$200,000."
+categories: ["crypto"]
 ---
 
 The price of Bitcoin (BTC) is once again trading in a narrow range between **US$102,000 and US$103,000**, after a brief spike to US$107,000 on Monday. According to exchange data, the largest cryptocurrency has dropped around **2.5% over the past 24 hours**, wiping out gains triggered by [Trump’s plan for a “tariff dividend”](https://metaadvisor.eu/news/trump-announces-2000-dividend-how-it-could-affect-crypto/) and optimism about the end of the US government spending standoff.

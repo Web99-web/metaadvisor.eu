@@ -15,6 +15,7 @@ image_alt: "Coinbase allows loans using staked Ethereum without selling ETH"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "US-based crypto exchange Coinbase now allows users to borrow up to $1 million using staked Ethereum as collateral, without selling their ETH."
 tags: ["coinbase", "ethereum", "eth", "staking", "crypto loans", "crypto lending", "tradfi", "defi", "blockchain"]
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

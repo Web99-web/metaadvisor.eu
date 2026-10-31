@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2025/12/24/eu-s-crypto-tax-reporting-starts-in-january-with-threat-of-asset-seizure"
 author: "CoinDesk — analiza i obrada: MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/eu-tax-crypto-dac8-1.1.2026.png"
-featured_image: "/images/eu-tax-crypto-dac8-1.1.2026.png"
-image: "/images/eu-tax-crypto-dac8-1.1.2026.png"
-thumbnail: "/images/eu-tax-crypto-dac8-1.1.2026.png"
+image_url: "/images/eu-tax-crypto-dac8-1.1.2026.webp"
+featured_image: "/images/eu-tax-crypto-dac8-1.1.2026.webp"
+image: "/images/eu-tax-crypto-dac8-1.1.2026.webp"
+thumbnail: "/images/eu-tax-crypto-dac8-1.1.2026.webp"
 image_alt: "EU uvodi DAC8 kripto porez od 1.1.2026."
 image_credit: "MetaAdvisor"
 tags: ["kripto", "porez", "eu", "dac8", "oporezivanje", "bitcoin", "ethereum", "regulacija"]
 summary: "Od 1. siječnja 2026. EU uvodi DAC8, novi sustav automatske razmjene poreznih podataka za kripto. Objašnjavamo tko prijavljuje podatke, kada nastaje porezna obveza i što to znači za male i velike ulagače."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

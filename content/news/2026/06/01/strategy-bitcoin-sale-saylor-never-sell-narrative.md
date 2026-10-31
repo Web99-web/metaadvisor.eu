@@ -7,14 +7,15 @@ translationKey: "strategy-btc-sale-saylor-never-sell-2026-06-01"
 source: "Metaadvisor (CoinDesk, Cointelegraph, MarketWatch)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Sell-in-may-go-away-Strategy.png"
-featured_image: "/images/news/Sell-in-may-go-away-Strategy.png"
-image: "/images/news/Sell-in-may-go-away-Strategy.png"
-thumbnail: "/images/news/Sell-in-may-go-away-Strategy.png"
+image_url: "/images/news/Sell-in-may-go-away-Strategy.webp"
+featured_image: "/images/news/Sell-in-may-go-away-Strategy.webp"
+image: "/images/news/Sell-in-may-go-away-Strategy.webp"
+thumbnail: "/images/news/Sell-in-may-go-away-Strategy.webp"
 image_alt: "Sell in May and go away Strategy Bitcoin sale"
 image_credit: "MetaAdvisor.eu"
 tags: ["Bitcoin", "BTC", "Strategy", "Michael Saylor", "MicroStrategy", "Saylor", "Bitcoin sale", "Bitcoin treasury", "crypto market", "crypto investing", "STRC", "preferred stock", "dividends", "HODL", "never sell", "Sell in May", "Polymarket", "prediction market", "market sentiment", "crypto analysis", "Metaadvisor"]
 summary: "Strategy sold 32 BTC for about $2.5 million. The amount is small compared with the company’s total Bitcoin reserves, but the psychological signal is much larger: the sale puts Saylor’s ‘never sell’ narrative under a new spotlight."
+categories: ["crypto"]
 ---
 
 <small><em>The image is symbolic.</em></small>

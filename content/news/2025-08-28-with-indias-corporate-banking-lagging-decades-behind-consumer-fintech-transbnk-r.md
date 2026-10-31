@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lag
 summary: "TransBnk has raised $25 million in a round led by Bessemer Venture Partners to digitize India’s corporate banking."
 tags: ["ai","fintech","TransBnk","India","banking"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/transbnk-funding-india.jpg"
+categories: ["ai"]
 ---
 
 While digitization has transformed **consumer banking in India**, corporate banking remains stuck with outdated systems, paper-heavy processes, and spreadsheet-driven workflows. **TransBnk** wants to change that. The three-year-old startup has raised **$25 million** in a round led by Bessemer Venture Partners to accelerate its mission.

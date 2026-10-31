@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["European Union", "EU", "regulation", "bureaucracy", "entrepreneurs", "small businesses", "SMEs", "competitiveness", "Austria", "Germany", "Italy", "business", "administrative costs"]
 description: "Thirteen EU member states are calling for a regulatory pause and a fundamental review of existing rules. At the same time, the European Commission wants to cut administrative burdens by at least 25% for all businesses and by 35% for small and medium-sized enterprises."
 summary: "Austria and 12 other EU member states are calling for fewer new regulations, a systematic review of existing rules and a year focused on implementation and consolidation. The initiative comes as the European Commission itself acknowledges that administrative burdens are holding back growth and estimates that simplification could save businesses tens of billions of euros."
+categories: ["business"]
 ---
 
 *The image is symbolic.*

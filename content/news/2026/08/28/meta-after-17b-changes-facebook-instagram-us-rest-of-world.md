@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "meta-us-settlement-global-protection-2026-08-28"
 source: "California Attorney General, Meta, Reuters, AP, The Guardian, European Commission, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Meta-17b-court-case6.png"
-featured_image: "/images/Meta/Meta-17b-court-case6.png"
-image: "/images/Meta/Meta-17b-court-case6.png"
-thumbnail: "/images/Meta/Meta-17b-court-case6.png"
+image_url: "/images/Meta/Meta-17b-court-case6.webp"
+featured_image: "/images/Meta/Meta-17b-court-case6.webp"
+image: "/images/Meta/Meta-17b-court-case6.webp"
+thumbnail: "/images/Meta/Meta-17b-court-case6.webp"
 image_alt: "Meta changes Facebook and Instagram in the US after court settlement"
 image_credit: "Metaadvisor.eu – image is symbolic"
 tags: ["Meta", "Facebook", "Instagram", "algorithms", "digital rights", "user rights", "child protection", "child safety", "social media", "social media addiction", "infinite scroll", "addictive design", "content recommendations", "face recording", "video selfie", "biometric data", "age verification", "privacy", "Digital Services Act", "DSA", "European Union", "regulation", "court settlement", "Mark Zuckerberg"]
 description: "Meta agreed to a settlement of up to $17 billion and changes to Facebook and Instagram for younger users in the US after uncomfortable testimony in court. The rest of the world is now asking why the same protections are not global."
 summary: "After testimony from current and former employees, Meta agreed to a settlement of up to $17 billion under terms that allow payments over ten years and could reduce the actual guaranteed amount. While new protections are being introduced in the US, regulators around the world are asking why the same measures are not global, while the EU is specifically targeting infinite scroll and other elements of addictive design."
+categories: ["Technology"]
 ---
 
 *Image is symbolic.*
@@ -66,7 +67,7 @@ The European Commission has therefore specifically identified infinite scroll, a
 We previously examined this issue in more detail:
 
 <a href="https://metaadvisor.eu/news/should-infinite-scrolling-on-smartphones-be-abolished/" target="_blank" rel="noopener">
-<img src="/images/news/Infinite-scroll-on-internet-mobite-desktop1.png"
+<img src="/images/news/Infinite-scroll-on-internet-mobite-desktop1.webp"
      alt="Should infinite scrolling on smartphones be abolished?"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>
@@ -98,7 +99,7 @@ It is therefore not enough merely to ask whether a user clicked “Continue.” 
 We previously examined this issue in more detail:
 
 <a href="https://metaadvisor.eu/news/what-meta-facebook-instagram-does-with-your-face-recording/" target="_blank" rel="noopener">
-<img src="/images/Meta/Meta-face-recording.png"
+<img src="/images/Meta/Meta-face-recording.webp"
      alt="What does Meta do with your face recording?"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

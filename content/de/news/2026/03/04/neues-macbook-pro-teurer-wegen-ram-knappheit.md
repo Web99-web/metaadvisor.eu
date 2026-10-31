@@ -7,14 +7,15 @@ translationKey: "cc44b6bef115321b764aab67559b3fb3"
 source: "TechCrunch"
 source_url: ""
 author: "TechCrunch"
-image_url: "/images/Macbook-pro-price.png"
-featured_image: "/images/Macbook-pro-price.png"
-image: "/images/Macbook-pro-price.png"
-thumbnail: "/images/Macbook-pro-price.png"
+image_url: "/images/Macbook-pro-price.webp"
+featured_image: "/images/Macbook-pro-price.webp"
+image: "/images/Macbook-pro-price.webp"
+thumbnail: "/images/Macbook-pro-price.webp"
 image_alt: "Neues MacBook Pro mit höherem Preis aufgrund von RAM-Knappheit"
 image_credit: "Illustration / Apple-Thematik"
 tags: ["macbook pro", "apple", "m5 pro", "m5 max", "ram", "speicherknappheit", "ai", "künstliche intelligenz", "tech", "laptop", "halbleiter", "hardware"]
 summary: "Apple hat die neue MacBook-Pro-Generation mit M5 Pro und M5 Max Chips vorgestellt. Die Preise liegen jedoch bis zu 400 USD höher als beim Vorgängermodell – unter anderem wegen der weltweiten RAM-Knappheit."
+categories: ["tech"]
 ---
 
 *Slika je simbolična.*

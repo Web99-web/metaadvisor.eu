@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/29/bitcoin-headed-to-usd19
 summary: "Tiger Research berechnet einen Basispreis von 135.000 USD und legt Multiplikatoren für Fundamentaldaten (+3,5%) und Makrobedingungen (+35%) auf, um das Kursziel von 190.000 USD zu erreichen."
 tags: ["Bitcoin","Krypto","ETF","institutionell","Prognosen"]
 image_url: "https://www.coindesk.com/resizer/abC123xyZ190BTCinsWave=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/bitcoin-190k.jpg"
+categories: ["crypto"]
 ---
 
 Die Asien-orientierte Forschungsfirma **Tiger Research** hat ein Kursziel von **190.000 USD** für Bitcoin im dritten Quartal 2025 festgelegt. Gründe seien eine Rekord-Liquidität, strukturelle ETF-Nachfrage und der neue Zugang zu **401(k)-Rentenplänen** in den USA.

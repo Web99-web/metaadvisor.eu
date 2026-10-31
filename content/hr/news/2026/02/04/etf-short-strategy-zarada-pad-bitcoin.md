@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/02/04/etf-that-feasts-on-carnage-in-bitcoin-holder-strategy-hits-record-high"
 author: "CoinDesk"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/btc-shorting-carnage.png"
-featured_image: "/images/btc-shorting-carnage.png"
-image: "/images/btc-shorting-carnage.png"
-thumbnail: "/images/btc-shorting-carnage.png"
+image_url: "/images/btc-shorting-carnage.webp"
+featured_image: "/images/btc-shorting-carnage.webp"
+image: "/images/btc-shorting-carnage.webp"
+thumbnail: "/images/btc-shorting-carnage.webp"
 image_alt: "Bitcoin market volatility and short-selling strategies during market downturn"
 image_credit: "MetaAdvisor.eu (symbolična ilustracija)"
 tags: ["bitcoin","btc","crypto","kripto","etf","short","shortanje","strategy","mstr","volatilnost","pad-trzista","trading"]
 summary: "Dok bitcoin i dionice Strategyja snažno padaju, leveraged ETF-ovi koji se klade na pad bilježe povijesne dobitke. Tržište sve otvorenije pokazuje kako dio kapitala u fazama panike ne traži rast, već profit iz volatilnosti."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

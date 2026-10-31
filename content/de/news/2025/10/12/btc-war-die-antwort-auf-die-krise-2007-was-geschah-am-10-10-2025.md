@@ -5,10 +5,11 @@ date: 2025-10-12T18:10:00Z
 category: "crypto"
 translationKey: "btc-answer-2007-crisis-de"
 author: "MetaAdvisor"
-image_url: "/images/bitcoin-BTC-2007-2009.png"
-featured_image: "/images/bitcoin-BTC-2007-2009.png"
+image_url: "/images/bitcoin-BTC-2007-2009.webp"
+featured_image: "/images/bitcoin-BTC-2007-2009.webp"
 tags: ["Bitcoin", "Finanzkrise", "The Big Short", "Kaskaden-Liquidationen", "Binance", "Wale"]
 summary: "Bitcoin entstand aus der Krise 2007/2008. Am 10.10.2025 erlebte Krypto einen 'Perfect Storm' – Rekordliquidationen, Ausführungsprobleme und perfekt getimete Shorts nährten Manipulationsverdacht."
+categories: ["crypto"]
 ---
 
 # BTC war die Antwort auf die Krise 2007 – was geschah am 10.10.2025?

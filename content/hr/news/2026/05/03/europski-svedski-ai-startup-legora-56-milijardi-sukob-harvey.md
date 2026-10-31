@@ -7,14 +7,15 @@ translationKey: "4f23af2c0635c2a2f2af75194f125fef"
 source: "Metaadvisor (TechCrunch, Reuters, Crunchbase)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Legora-legal-AI.png"
-featured_image: "/images/companies/Legora-legal-AI.png"
-image: "/images/companies/Legora-legal-AI.png"
-thumbnail: "/images/companies/Legora-legal-AI.png"
+image_url: "/images/companies/Legora-legal-AI.webp"
+featured_image: "/images/companies/Legora-legal-AI.webp"
+image: "/images/companies/Legora-legal-AI.webp"
+thumbnail: "/images/companies/Legora-legal-AI.webp"
 image_alt: "Legora AI platforma za odvjetnike i pravne timove"
 image_credit: "Metaadvisor.eu"
 tags: ["legora ai", "pravni ai startup", "legal tech europa", "ai za odvjetnike", "harvey ai konkurencija", "nvidia ulaganje ai", "ai pravna industrija", "automatizacija prava", "europski startup ai", "ai odvjetnici alati"]
 summary: "Švedski startup Legora dosegao je valuaciju od 5,6 milijardi USD i ubrzano širi poslovanje prema SAD-u, uz snažnu podršku investitora poput Nvidije i izravnu konkurenciju s američkim Harveyjem."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

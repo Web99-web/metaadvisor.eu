@@ -16,6 +16,7 @@ image_alt: "Hyperliquid Plattform und S&P 500 Index auf der Blockchain"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags: ["krypto", "bitcoin", "blockchain", "derivate", "handel", "sp500", "hyperliquid", "defi", "perpetual", "finanzen", "tradfi", "onchain"]
 summary: "Der S&P 500 kommt erstmals auf die Blockchain durch lizenzierte Perpetual Futures auf Hyperliquid und ermöglicht 24/7 Handel ohne Ablaufdatum."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

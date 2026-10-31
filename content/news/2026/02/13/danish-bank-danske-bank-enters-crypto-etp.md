@@ -3,18 +3,19 @@ title: "Danish Bank Danske Bank Enters Crypto: Bitcoin and Ether ETPs Now Availa
 slug: "danish-bank-danske-bank-enters-crypto-etp"
 date: 2026-02-13T06:30:00
 category: "crypto"
-translationKey: "78f7a83e386d3f9bd80908be49f28870"
+translationKey: "78f7a83e386d3f9bd80908be49f28870--2026-02-13"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/what-happened-in-crypto-today"
 author: "Metaadvisor.eu"
-image_url: "/images/Banks-move-into-crypto2.png"
-featured_image: "/images/Banks-move-into-crypto2.png"
-image: "/images/Banks-move-into-crypto2.png"
-thumbnail: "/images/Banks-move-into-crypto2.png"
+image_url: "/images/Banks-move-into-crypto2.webp"
+featured_image: "/images/Banks-move-into-crypto2.webp"
+image: "/images/Banks-move-into-crypto2.webp"
+thumbnail: "/images/Banks-move-into-crypto2.webp"
 image_alt: "European bank entering crypto market via regulated investment products"
 image_credit: "MetaAdvisor Illustration"
 tags: ["danske bank", "danish bank", "bitcoin", "ether", "etp", "crypto investing", "mica", "mifid", "institutional crypto", "eu regulation", "btc", "eth"]
 summary: "Danske Bank, Denmark’s largest bank, is opening access to Bitcoin and Ether ETPs for selected clients, citing rising demand and clearer EU crypto regulation."
+categories: ["crypto"]
 ---
 
 *Symbolic image.*

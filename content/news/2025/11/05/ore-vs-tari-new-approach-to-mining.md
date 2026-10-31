@@ -6,14 +6,15 @@ category: "crypto"
 translationKey: "1a4b3d79bfe64b4f98a21e56e3dbb4c1"
 source: "Metaadvisor Research"
 author: "Metaadvisor.eu"
-image_url: "/images/Ore-vs-Tari.png"
-featured_image: "/images/Ore-vs-Tari.png"
-image: "/images/Ore-vs-Tari.png"
-thumbnail: "/images/Ore-vs-Tari.png"
+image_url: "/images/Ore-vs-Tari.webp"
+featured_image: "/images/Ore-vs-Tari.webp"
+image: "/images/Ore-vs-Tari.webp"
+thumbnail: "/images/Ore-vs-Tari.webp"
 image_alt: "ORE vs Tari cryptocurrency comparison"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "ore", "tari", "solana", "monero", "mining", "pow", "pos", "blockchain", "ai", "tokenomics"]
 summary: "ORE and Tari are exploring new approaches to mining — one as an experiment on Solana, the other as an infrastructure layer for digital assets. Both reflect how Proof-of-Work is being reimagined for a modern blockchain era."
+categories: ["crypto"]
 ---
 
 In crypto’s constant evolution, mining is once again being redefined.  

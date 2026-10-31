@@ -7,14 +7,15 @@ translationKey: "3f2a9c7b1e8d4f6a9b0c2d5e7f8a1b3c"
 source: "Metaadvisor"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Data-centers-electric-bill.png"
-featured_image: "/images/Data-centers-electric-bill.png"
-image: "/images/Data-centers-electric-bill.png"
-thumbnail: "/images/Data-centers-electric-bill.png"
+image_url: "/images/Data-centers-electric-bill.webp"
+featured_image: "/images/Data-centers-electric-bill.webp"
+image: "/images/Data-centers-electric-bill.webp"
+thumbnail: "/images/Data-centers-electric-bill.webp"
 image_alt: "Rechenzentren und steigende Strompreise durch KI-Infrastruktur"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "rechenzentren", "strom", "energie", "infrastruktur", "kosten", "strompreise", "pantheon", "kroatien", "wirtschaft", "netz", "power"]
 summary: "KI-Rechenzentren verbrauchen enorme Energiemengen und erfordern teure Infrastruktur, wobei ein Teil dieser Kosten häufig über höhere Strompreise auf die Bürger übertragen wird."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

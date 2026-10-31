@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/04/google-pixel-10-
 summary: "Additional 5x telephoto camera, actually useful AI tools, Qi2 support and slick software make for a quality Android"
 tags: ["google", "pixel 10", "tensor g5", "android", "qi2", "camera", "smartphone"]
 image_url: "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg"
+categories: ["news"]
 ---
 
 Google’s new Pixel 10 has been upgraded with more cameras, a faster chip and quality software, lifting it out of the shadow of its pricier Pro siblings to set a new standard for what to expect from a base-model flagship phone.  

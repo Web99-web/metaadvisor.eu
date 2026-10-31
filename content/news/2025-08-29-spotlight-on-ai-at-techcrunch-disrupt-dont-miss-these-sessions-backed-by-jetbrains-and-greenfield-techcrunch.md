@@ -9,6 +9,7 @@ summary: "TechCrunch Disrupt isn’t just about showcasing the startups of tomor
 tags: ["ai"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/TC25_Disrupt_General_Article_No-Anniversary-at-all_Headers_1920x1080.png?w=1024"
 image: "https://techcrunch.com/wp-content/uploads/2025/08/TC25_Disrupt_General_Article_No-Anniversary-at-all_Headers_1920x1080.png?w=1024"
+categories: ["ai"]
 ---
 
 TechCrunch Disrupt isn’t just about showcasing the startups of tomorrow — it’s also about surfacing the boldest ideas shaping technology today. Thanks to the support of partners JetBrains and Greenfield, the **TechCrunch Disrupt 2025** program (October 27–29 at Moscone West, San Francisco) includes two can’t-miss sessions that put AI front and center.

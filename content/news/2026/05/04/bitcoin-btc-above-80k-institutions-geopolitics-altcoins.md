@@ -15,6 +15,7 @@ image_alt: "Bitcoin rises above 80000 dollars driven by institutional demand"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto market", "crypto analysis", "institutional investors", "btc 80000", "altcoins", "ethereum", "solana", "volatility", "bitcoin trend", "crypto trends"]
 summary: "Bitcoin has moved above $80,000 supported by strong institutional demand, but geopolitical tensions continue to create volatility across crypto and global markets."
+categories: ["crypto"]
 ---
 
 *Image is symbolic.*

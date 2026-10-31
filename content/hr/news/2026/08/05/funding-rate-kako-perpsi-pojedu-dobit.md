@@ -7,15 +7,16 @@ translationKey: "funding-rate-kako-perpsi-pojedu-dobit-2026-08-05"
 source: "Hyperliquid, Binance i javno dostupna dokumentacija o perpetual futures ugovorima"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/informative/Funding-cost-perps.png"
-featured_image: "/images/informative/Funding-cost-perps.png"
-image: "/images/informative/Funding-cost-perps.png"
-thumbnail: "/images/informative/Funding-cost-perps.png"
+image_url: "/images/informative/Funding-cost-perps.webp"
+featured_image: "/images/informative/Funding-cost-perps.webp"
+image: "/images/informative/Funding-cost-perps.webp"
+thumbnail: "/images/informative/Funding-cost-perps.webp"
 image_alt: "Funding rate kao skriveni trošak trgovanja perpetual futures ugovorima"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["funding rate", "perpetual futures", "perpsi", "kripto trgovanje", "poluga", "long pozicija", "short pozicija", "trgovačke naknade", "Hyperliquid", "Binance", "derivati", "margin trading", "likvidacija", "kripto rizik", "upravljanje rizikom"]
 description: "Funding rate može postupno smanjivati dobit na perpetual futures pozicijama, osobito pri dugom držanju, većoj poluzi i visokim stopama."
 summary: "Perpetual futures ugovori nemaju datum isteka, ali nisu besplatni za dugotrajno držanje. Funding se periodično obračunava na cijelu vrijednost pozicije i može značajno smanjiti konačnu zaradu."
+categories: ["crypto"]
 ---
 
 # Funding rate: kako perpsi pojedu dobit

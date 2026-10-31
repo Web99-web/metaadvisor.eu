@@ -16,6 +16,7 @@ image_alt: "Japan crypto tax reform"
 image_credit: "Metaadvisor.eu"
 tags: ["japan","crypto","bitcoin","ether","regulation","tax","tax reform","fsa","asia","crypto tax","financial products","blockchain","105 tokens","insider trading","web3","global markets","btc","eth","altcoins"]
 summary: "Japan is preparing the biggest crypto tax reform in its history — lowering taxes to 20% and classifying digital assets as financial products."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

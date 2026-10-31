@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2026/01/31/silver-s-35-plunge-ends-up-beating-bitcoin-in-a-rare-crypto-liquidation-shock"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/silver-neutral.png"
-featured_image: "/images/silver-neutral.png"
-image: "/images/silver-neutral.png"
-thumbnail: "/images/silver-neutral.png"
+image_url: "/images/silver-neutral.webp"
+featured_image: "/images/silver-neutral.webp"
+image: "/images/silver-neutral.webp"
+thumbnail: "/images/silver-neutral.webp"
 image_alt: "Feinsilber 999, Marktvolatilität und Preisrückgang"
 image_credit: "MetaAdvisor.eu"
 tags:
@@ -23,6 +23,7 @@ tags:
   - märkte
   - derivate
 summary: "Der Silberpreis fiel auf rund 85 USD und löste einen seltenen Liquidationsschock aus, der zeitweise sogar größer war als im Kryptomarkt."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 10px 0;">

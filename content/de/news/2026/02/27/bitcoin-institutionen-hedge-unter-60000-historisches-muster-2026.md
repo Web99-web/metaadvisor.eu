@@ -15,6 +15,7 @@ image_alt: "Bitcoin-, Ethereum- und Solana-Chart in einem volatilen Marktumfeld"
 image_credit: "Illustration: MetaAdvisor"
 tags: ["bitcoin", "btc", "ethereum", "eth", "solana", "sol", "krypto", "crypto", "etf", "deribit", "optionen", "hedge", "volatilität", "nasdaq", "ai token"]
 summary: "ETF-Fonds und Unternehmensreserven kaufen Absicherungen unter 60.000 USD, während Bitcoin mit einem historischen technischen Muster konfrontiert ist, das 2014 und 2022 tiefere Einbrüche ankündigte. Der Markt balanciert zwischen institutioneller Akkumulation und wachsender Vorsicht."
+categories: ["crypto"]
 ---
 
 # Institutionen sichern sich unter 60.000 USD ab, während Bitcoin erneut ein historisches Abwärtsmuster testet

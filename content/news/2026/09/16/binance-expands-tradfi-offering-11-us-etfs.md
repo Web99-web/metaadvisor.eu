@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Binance", "ETF", "US ETFs", "TradFi", "Binance Earn", "wealth management", "US bonds", "government bonds", "Treasury", "Alpaca Securities", "Nest Trading", "stocks", "financial markets"]
 description: "Binance has launched a wealth management offering with 11 US ETFs focused on government and higher-quality bonds, while users buy real ETF shares through regulated brokerage infrastructure."
 summary: "Binance is introducing 11 US ETFs inside Earn for cash management, steadier income and longer investment horizons. These are not tokenized ETFs but real securities executed and held through traditional brokerage infrastructure."
+categories: ["Finance"]
 ---
 
 *Image is symbolic.*

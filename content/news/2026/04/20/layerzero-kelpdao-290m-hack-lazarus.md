@@ -7,14 +7,15 @@ translationKey: "478999bba611acd09744f72c4b1e4477"
 source: "Metaadvisor (CoinDesk, TechCrunch)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.png"
-featured_image: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.png"
-image: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.png"
-thumbnail: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.png"
+image_url: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.webp"
+featured_image: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.webp"
+image: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.webp"
+thumbnail: "/images/hack/Hack-KelpDao-vsLayerZero-Lazarus-group.webp"
 image_alt: "Kelp DAO hack, LayerZero and Lazarus group"
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "defi", "kelpdao", "layerzero", "lazarus", "hack", "security", "blockchain", "web3", "rpc", "ddos"]
 summary: "A $290M Kelp DAO exploit highlights a sophisticated infrastructure attack, with LayerZero blaming configuration issues and pointing to the Lazarus group."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

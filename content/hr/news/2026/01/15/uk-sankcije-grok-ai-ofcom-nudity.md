@@ -7,10 +7,10 @@ translationKey: "uk_ofcom_grok_ai_nudity_20260115"
 source: "Reuters / The Guardian / MetaAdvisor analiza"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/UK-against-Grok-Nudity-ai-photos.png"
-featured_image: "/images/UK-against-Grok-Nudity-ai-photos.png"
-image: "/images/UK-against-Grok-Nudity-ai-photos.png"
-thumbnail: "/images/UK-against-Grok-Nudity-ai-photos.png"
+image_url: "/images/UK-against-Grok-Nudity-ai-photos.webp"
+featured_image: "/images/UK-against-Grok-Nudity-ai-photos.webp"
+image: "/images/UK-against-Grok-Nudity-ai-photos.webp"
+thumbnail: "/images/UK-against-Grok-Nudity-ai-photos.webp"
 image_alt: "Ujedinjeno Kraljevstvo prijeti sankcijama zbog Grok AI alata i generiranja eksplicitnih slika"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Britanski regulator Ofcom nastavlja formalnu istragu protiv platforme X zbog Grok AI-ja, unatoč najavljenim ograničenjima. U međuvremenu su Malezija i Indonezija blokirale ili zabranile alat, čime slučaj poprima globalnu dimenziju."
@@ -24,6 +24,7 @@ tags:
   - deepfake
   - sigurnost
   - x
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

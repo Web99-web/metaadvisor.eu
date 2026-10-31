@@ -9,6 +9,7 @@ summary: "Tanak, lagan i s jarkom 4K slikom – Skyjev povoljni TV briljira zahv
 tags: ["Sky","Smart-TV","recenzija","4K","budget","tehnologija"]
 image_url: "https://i.guim.co.uk/img/media/18a46bfb71bfa238b79afc2603811fdb8dbd35bb/0_0_5472_3283/master/5472.jpg?width=1200&quality=85&auto=format&fit=max&s=3fa79c9b66f44ff5482c1eec8d61db25"
 image_url_small: "https://i.guim.co.uk/img/media/18a46bfb71bfa238b79afc2603811fdb8dbd35bb/0_0_5472_3283/master/5472.jpg?width=600&quality=85&auto=format&fit=max&s=3fa79c9b66f44ff5482c1eec8d61db25"
+categories: ["ai"]
 ---
 
 **Sky Glass Air** najnoviji je pokušaj britanskog giganta da ponudi **povoljan pametni TV** za masovno tržište – i po ocjenama, uspio je.  

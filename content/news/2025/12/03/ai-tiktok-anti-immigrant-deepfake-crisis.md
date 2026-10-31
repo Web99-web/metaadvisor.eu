@@ -8,10 +8,10 @@ source: "MetaAdvisor – Analysis"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/AI-Tik-tok-Anitiimigrant.png"
-featured_image: "/images/AI-Tik-tok-Anitiimigrant.png"
-image: "/images/AI-Tik-tok-Anitiimigrant.png"
-thumbnail: "/images/AI-Tik-tok-Anitiimigrant.png"
+image_url: "/images/AI-Tik-tok-Anitiimigrant.webp"
+featured_image: "/images/AI-Tik-tok-Anitiimigrant.webp"
+image: "/images/AI-Tik-tok-Anitiimigrant.webp"
+thumbnail: "/images/AI-Tik-tok-Anitiimigrant.webp"
 image_alt: "AI manipulation and anti-immigrant content on TikTok"
 image_credit: "MetaAdvisor AI-generated"
 tags: [
@@ -25,6 +25,7 @@ tags: [
   "disinformation","automated accounts","ai propaganda"
 ]
 summary: "TikTok is being flooded with AI-generated videos spreading anti-immigrant narratives and manipulative deepfake content — often without users realizing it."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

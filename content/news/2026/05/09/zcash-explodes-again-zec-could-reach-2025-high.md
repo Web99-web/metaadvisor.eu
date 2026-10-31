@@ -15,6 +15,7 @@ image_alt: "Zcash ZEC surges again on the crypto market"
 image_credit: "Metaadvisor.eu"
 tags: ["zcash", "zec", "privacy coin", "crypto", "altcoin", "futures", "bitcoin", "trading", "short squeeze", "market", "volatility", "defi", "crypto market", "metaadvisor"]
 summary: "Zcash (ZEC) is attracting market attention again after a powerful rally above 600 USDT. Traders are now debating whether ZEC could revisit its November 2025 high."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

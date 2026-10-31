@@ -9,6 +9,7 @@ summary: "Technische Indikatoren bestätigen eine bärische Wende nach dem Bruch
 tags: ["Bitcoin","Krypto","BTC","Kursanalyse","Trading","Technische-Analyse","Ichimoku","SMA","MACD","GMMA"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/404f1c4206325dfb85bb5fa2dc07f0e6a7f3c00f-2880x1620.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/404f1c4206325dfb85bb5fa2dc07f0e6a7f3c00f-2880x1620.jpg?auto=format&fit=max&w=1200"
+categories: ["crypto"]
 ---
 
 Dies ist eine tägliche Analyse von CoinDesk-Analyst und Chartered Market Technician (CMT) Omkar Godbole.  

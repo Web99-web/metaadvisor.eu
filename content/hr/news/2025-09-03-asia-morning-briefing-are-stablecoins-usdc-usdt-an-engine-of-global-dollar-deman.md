@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/03/asia-morning-briefing-a
 summary: "Stablecoini sve više utječu na likvidnost američkih trezorskih zapisa, otvarajući raspravu jesu li oslonac ili prijetnja financijskom sustavu."
 tags: ["stablecoins", "USDC", "USDT", "crypto", "dollar", "treasuries", "likvidnost"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/USD_Coin_icon.png"
+categories: ["news"]
 ---
 
 Dobrodošli u Asia Morning Briefing, dnevni sažetak najvažnijih vijesti tijekom američkih sati i pregled tržišnih kretanja i analiza. Za detaljniji pregled američkih tržišta pogledajte CoinDesk Crypto Daybook Americas.

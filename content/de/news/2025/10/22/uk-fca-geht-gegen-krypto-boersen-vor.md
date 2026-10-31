@@ -16,6 +16,7 @@ image_alt: "Union Jack mit großem FCA-Schriftzug – Symbol für Aufsicht"
 image_credit: "Symbolbild."
 tags: ["FCA", "UK", "Krypto", "Regulierung", "Exchanges", "Compliance", "Financial Conduct Authority"]
 summary: "Die britische FCA (Financial Conduct Authority) verschickte im Oktober Hunderte Warnungen an Krypto-Anbieter – wer UK-Kunden adressiert, muss registriert sein und das Promotions-Regime einhalten."
+categories: ["crypto"]
 ---
 
 Die britische **FCA (Financial Conduct Authority)** ist die zentrale **Finanzaufsicht** im Vereinigten Königreich. Ihr Auftrag: **Verbraucher schützen**, **Marktintegrität sichern** und **Wettbewerb fördern**. Für Krypto-Firmen bedeutet das: Wer **UK-Kunden** anspricht, braucht **FCA-Registrierung** und muss die **Werbevorschriften (Promotions Regime)** strikt befolgen.

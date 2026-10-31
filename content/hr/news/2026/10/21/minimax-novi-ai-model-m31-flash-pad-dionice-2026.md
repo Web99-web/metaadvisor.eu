@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["MiniMax", "MiniMax M3.1 Flash", "Artificial Intelligence", "AI Models", "AI Agents", "Hong Kong Stock Exchange", "HKEX", "Chinese AI", "Technology Stocks", "Stock Market", "AI Investment", "BNP Paribas", "AI Competition", "Financial Markets", "Technology"]
 description: "MiniMax predstavio je novi AI model M3.1 Flash, ali dionica nastavlja padati. Što stoji iza gubitka više od 43% vrijednosti u mjesec dana?"
 summary: "Kineski MiniMax predstavio je 19. listopada 2026. novi AI model M3.1 Flash, uz tvrdnje o gotovo trostruko bržem radu i 70% nižim troškovima. Unatoč tehnološkom napretku, dionica je do 20. listopada izgubila više od 43% vrijednosti u odnosu na 18. rujna. Investitore zabrinjavaju konkurencija, financiranje razvoja, izdavanje novih dionica i mogući prodajni pritisak ranijih ulagača."
+categories: ["technology"]
 ---
 
 *Slika je simbolična.*

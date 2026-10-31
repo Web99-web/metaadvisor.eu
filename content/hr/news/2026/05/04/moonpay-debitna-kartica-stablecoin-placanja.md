@@ -7,7 +7,7 @@ translationKey: "moonpay-stablecoin-debit-card-2026"
 source: "Metaadvisor (Payments Wrap Up, fintech izvori)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/moonpay-card.png"
+image_url: "/images/companies/moonpay-card.webp"
 featured_image: "images/companies/moonpay-card.png"
 image: "images/companies/moonpay-card.png"
 thumbnail: "images/companies/moonpay-card.png"
@@ -15,6 +15,7 @@ image_alt: "MoonPay debitna kartica za stablecoin plaćanja"
 image_credit: "Metaadvisor.eu"
 tags: ["moonpay", "stablecoin", "crypto placanja", "fintech", "debitna kartica", "crypto adoption"]
 summary: "MoonPay lansira debitnu karticu koja omogućuje trošenje stablecoina u svakodnevnim kupnjama, spajajući crypto i tradicionalna plaćanja."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

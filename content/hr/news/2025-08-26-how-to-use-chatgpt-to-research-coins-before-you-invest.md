@@ -9,6 +9,7 @@ summary: "Brzi, strukturirani due diligence uz ChatGPT — od tokenomike i unloc
 tags: ["crypto","chatgpt","due-diligence","research","tokenomics","vesting","unlock","risk","security","regulation","defi","dex","cex","prompt-engineering"]
 image_url: "/static/images/bitcoin-btc-ethereum-eth-solana-sol.jpg"
 image_thumb: "/static/images/placeholder-metaadvisor-small.jpg"
+categories: ["crypto"]
 ---
 
 > Nije financijski savjet. Brojke i tvrdnje uvijek provjeri u primarnim izvorima i analitičkim alatima.

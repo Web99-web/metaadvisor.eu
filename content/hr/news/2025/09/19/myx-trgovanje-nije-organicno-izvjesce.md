@@ -16,6 +16,7 @@ image_alt: "Neutralni MYX token (generički bedž)"
 image_credit: "Metaadvisor.eu (CC0)"
 tags: ["myx","dex","manipulacija","likvidnost","sybil","airdrop","crypto","metaadvisor"]
 summary: "Neovisna analiza tvrdi da je trgovanje MYX-om gotovo sigurno rezultat koordiniranih aktivnosti. Uzorci nelikvidnosti, volumena i spreadova imaju, prema autorima, manje od 0,001% šanse da su nastali prirodno."
+categories: ["news"]
 ---
 
 Izvješće dviju istraživačkih grupa tvrdi da je **vjerojatnost organskog trgovanja MYX-om manja od 0,001%**. Usporedbom tisuća minutnih točaka podataka uočeni su sinkronizirani skokovi **nelikvidnosti**, neuobičajene promjene **bid–ask spreadova** i **smanjenje prosječne veličine naloga** baš u trenucima kad bi spreadovi inače širili. Takvi uzorci, kažu autori, ne prate uobičajenu dinamiku tržišta, nego upućuju na **koordinirano djelovanje**.

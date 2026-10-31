@@ -7,14 +7,15 @@ translationKey: "tether-usdt-genius-act-americki-regulatorni-rok-2026-07-20"
 source: "CoinDesk, the U.S. GENIUS Act, Tether and Circle"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/Tether-USDT-gold.png"
-featured_image: "/images/Tether-USDT-gold.png"
-image: "/images/Tether-USDT-gold.png"
-thumbnail: "/images/Tether-USDT-gold.png"
+image_url: "/images/Tether-USDT-gold.webp"
+featured_image: "/images/Tether-USDT-gold.webp"
+image: "/images/Tether-USDT-gold.webp"
+thumbnail: "/images/Tether-USDT-gold.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Tether", "USDT", "USDC", "stablecoin", "GENIUS Act", "MiCA", "Circle", "gold", "Bitcoin", "crypto regulation", "United States", "European Union"]
 description: "Tether’s USDT could lose access to parts of the regulated U.S. market unless the company complies with the GENIUS Act and restructures part of its reserves."
 summary: "USDT is already not compliant with the European Union’s MiCA framework. A new U.S. law now adds further requirements for reserves and access to regulated crypto platforms."
+categories: ["crypto"]
 ---
 
 # USDT Faces a New U.S. Regulatory Deadline

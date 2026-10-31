@@ -6,15 +6,16 @@ category: "Tech"
 translationKey: "google-founded-100000-check-before-company-2026-09-04"
 source: "Google, Google Doodles, Stanford University, Inc., Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Google-28th-birthday.png"
-featured_image: "/images/news/Google-28th-birthday.png"
-image: "/images/news/Google-28th-birthday.png"
-thumbnail: "/images/news/Google-28th-birthday.png"
+image_url: "/images/news/Google-28th-birthday.webp"
+featured_image: "/images/news/Google-28th-birthday.webp"
+image: "/images/news/Google-28th-birthday.webp"
+thumbnail: "/images/news/Google-28th-birthday.webp"
 image_alt: "Google obilježava 28 godina od osnivanja uz tortu i svjećice"
 image_credit: "Metaadvisor.eu"
 tags: ["Google", "Larry Page", "Sergey Brin", "Andy Bechtolsheim", "Silicijska dolina", "startup", "tražilice", "Yahoo", "Stanford", "Susan Wojcicki", "David Cheriton", "Google Doodle", "tehnologija", "poduzetništvo"]
 description: "Google Inc. službeno je osnovan 4. rujna 1998., nakon što je Andy Bechtolsheim napisao ček od 100.000 dolara na ime kompanije koja još nije ni postojala."
 summary: "Prije Googleplexa, Gmaila, YouTubea i Androida bila su dvojica Stanfordovih studenata, tražilica iz studentske sobe i ček od 100.000 dolara koji nisu mogli položiti jer Google Inc. još nije postojao."
+categories: ["Tech"]
 ---
 
 *Slika je simbolična.*

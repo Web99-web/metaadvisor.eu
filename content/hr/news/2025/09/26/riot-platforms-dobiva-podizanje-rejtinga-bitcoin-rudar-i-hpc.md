@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/09/26/riot-gets-double-upgrade-on-ai-pivot-as-jpmorgan-citi-hike-targets"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/miner-mining.png"
-featured_image: "/images/miner-mining.png"
-image: "/images/miner-mining.png"
-thumbnail: "/images/miner-mining.png"
+image_url: "/images/miner-mining.webp"
+featured_image: "/images/miner-mining.webp"
+image: "/images/miner-mining.webp"
+thumbnail: "/images/miner-mining.webp"
 image_alt: "Rudarski alati — simbolična ilustracija rudarenja"
 image_credit: "Metaadvisor.eu (simbolična grafika)"
 tags:
@@ -26,6 +26,7 @@ tags:
   - mara
   - clsk
 summary: "JPMorgan i Citigroup podigli su preporuke za Riot Platforms zahvaljujući pivotu prema AI/HPC-u i cloud uslugama, unatoč pritisku na marže rudarenja."
+categories: ["crypto"]
 ---
 
 **Riot Platforms (RIOT)** u petak je dobio **dvostruko podizanje rejtinga** na Wall Streetu: i **JPMorgan** i **Citigroup** pojačali su preporuke za ovog bitcoin rudara zbog promjene industrijske ekonomije i **okreta prema high-performance computingu (HPC) i AI-u**.

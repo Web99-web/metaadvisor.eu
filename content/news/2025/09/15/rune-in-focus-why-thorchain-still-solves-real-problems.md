@@ -12,6 +12,7 @@ featured_image: "/images/thorchain-rune-logo.png"
 image_alt: "THORChain / RUNE — native cross-chain swaps"
 tags: ["rune","thorchain","defi","cross-chain","thor"]
 summary: "RUNE isn’t forgotten. THORChain still delivers native BTC↔ETH↔… swaps without bridges — and a January change, landing right before the big hype, likely pushed RUNE unfairly off the front page for a while."
+categories: ["crypto"]
 ---
 
 When crypto’s loudest stories revolve around memes and ETFs, it’s easy to miss the projects quietly solving **real** user problems. **RUNE** is one of them — the workhorse token of **THORChain**, a network that does what many people actually want: **native** cross-chain swaps (e.g., BTC ↔ ETH) **without** centralized bridges and **without** wrapped assets.

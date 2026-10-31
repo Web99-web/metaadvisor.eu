@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/05/asia-morning-briefing-o
 summary: "Crypto money managers warn: without a billion-dollar balance sheet or clear risk framework, most Bitcoin treasuries won’t survive."
 tags: ["crypto", "bitcoin", "btc", "etf", "treasury", "microstrategy", "ethereum", "eth"]
 image_url: "/images/coin-btc1.jpg"
+categories: ["crypto"]
 ---
 
 **Bitcoin (BTC) treasury companies** are facing a harsh reality: can they outperform BTC itself, or should investors simply buy a **Bitcoin ETF** instead?  

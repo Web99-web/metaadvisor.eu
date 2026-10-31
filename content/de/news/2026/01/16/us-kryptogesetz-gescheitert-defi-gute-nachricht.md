@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/DeFi-wins-over-bad-crypto-law.png"
-featured_image: "/images/DeFi-wins-over-bad-crypto-law.png"
-image: "/images/DeFi-wins-over-bad-crypto-law.png"
-thumbnail: "/images/DeFi-wins-over-bad-crypto-law.png"
+image_url: "/images/DeFi-wins-over-bad-crypto-law.webp"
+featured_image: "/images/DeFi-wins-over-bad-crypto-law.webp"
+image: "/images/DeFi-wins-over-bad-crypto-law.webp"
+thumbnail: "/images/DeFi-wins-over-bad-crypto-law.webp"
 image_alt: "DeFi sieht den gescheiterten US-Kryptogesetzesentwurf als Sieg"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -27,6 +27,7 @@ tags:
   - dao
   - web3
 summary: "Ein US-Gesetzesentwurf zur Regulierung des Kryptomarkts ist im Kongress gescheitert. Während Teile der Branche von einem Rückschlag sprechen, wertet die DeFi-Community das Ergebnis als Sieg gegen eine problematische Regulierung."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

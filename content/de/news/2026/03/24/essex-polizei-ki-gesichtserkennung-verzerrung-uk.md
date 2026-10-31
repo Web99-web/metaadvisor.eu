@@ -7,14 +7,15 @@ translationKey: "015ec2b97f4cbed3c1fa2835a973e9e1"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (The Guardian, Cambridge-Studie, ICO)"
 source_url: ""
-image_url: "/images/AI-police.png"
-featured_image: "/images/AI-police.png"
-image: "/images/AI-police.png"
-thumbnail: "/images/AI-police.png"
+image_url: "/images/AI-police.webp"
+featured_image: "/images/AI-police.webp"
+image: "/images/AI-police.webp"
+thumbnail: "/images/AI-police.webp"
 image_alt: "KI-System zur Gesichtserkennung im Polizeieinsatz"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "polizei", "gesichtserkennung", "verzerrung", "uk", "sicherheit", "technologie", "regulierung"]
 summary: "Die Polizei in Essex pausiert den Einsatz von KI-Gesichtserkennungssystemen nach einer Studie, die auf mögliche Unterschiede bei der Identifizierung zwischen ethnischen Gruppen hinweist."
+categories: ["news"]
 ---
 
 *Symbolisches Bild.*

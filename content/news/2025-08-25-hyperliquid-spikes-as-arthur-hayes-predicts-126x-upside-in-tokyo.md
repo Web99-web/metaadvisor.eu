@@ -9,6 +9,7 @@ summary: "At WebX 2025 in Tokyo, BitMEX co-founder Arthur Hayes said HYPE could 
 tags: ["news","hyperliquid","hype","arthur-hayes","dex","derivatives","perps","webx2025","defillama","redstone","onchain"]
 image_url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2025-08/01987510-d8e2-7660-affe-2833f386ecdf"
 image_alt: "Arthur Hayes and Hyperliquid HYPE — Cointelegraph hero image"
+categories: ["news"]
 ---
 
 **HYPE**, the native token of **Hyperliquid** (a decentralized perpetuals exchange), outperformed after **Arthur Hayes** in Tokyo projected a **126×** upside over the next **three years**. He argued stablecoin growth could lift the DEX’s annualized **fee revenue** to around **$258B** (from roughly **$1.2B** now).

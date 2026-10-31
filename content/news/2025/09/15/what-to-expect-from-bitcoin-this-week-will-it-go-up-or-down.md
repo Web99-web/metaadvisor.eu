@@ -10,6 +10,7 @@ image_url: "/images/btc-news.jpg"
 image_alt: "Bitcoin news and price action"
 tags: ["bitcoin","markets","fed","etf","macro"]
 summary: "It’s FOMC week: the Fed sets rates on Wednesday. Bitcoin is hovering below $117,000; ETFs keep buying. The market is looking for a clean signal: up or down?"
+categories: ["crypto"]
 ---
 
 **TL;DR:** **Wednesday’s** **Federal Reserve** decision often jolts all markets — Bitcoin included. Price is circling just below **$117,000**. A **clean break above** that area could carry toward **$120,000+**. Another rejection would make a pullback toward **$113,000** a natural stop.

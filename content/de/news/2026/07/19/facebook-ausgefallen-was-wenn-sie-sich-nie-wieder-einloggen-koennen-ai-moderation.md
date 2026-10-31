@@ -7,14 +7,15 @@ translationKey: "facebook-down-global-outage-ai-moderation-2026-07-19"
 source: "Reuters, Downdetector, CBS News Philadelphia, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Meta/Facebook-down.png"
-featured_image: "/images/Meta/Facebook-down.png"
-image: "/images/Meta/Facebook-down.png"
-thumbnail: "/images/Meta/Facebook-down.png"
+image_url: "/images/Meta/Facebook-down.webp"
+featured_image: "/images/Meta/Facebook-down.webp"
+image: "/images/Meta/Facebook-down.webp"
+thumbnail: "/images/Meta/Facebook-down.webp"
 image_alt: "Facebook weltweit ausgefallen"
 image_credit: "Metaadvisor.eu"
 tags: ["Facebook", "Meta", "Messenger", "Instagram", "Facebook down", "Meta Outage", "AI-Moderation", "Business Suite", "Cybersecurity", "digitale Rechte", "gesperrte Konten", "Metaadvisor"]
 summary: "Facebook war erneut von einer weltweiten technischen Störung betroffen. Für einige Nutzer dauert das Gefühl, den Zugang zum eigenen Konto verloren zu haben, wegen automatisierter AI-Moderation und fehlender menschlicher Unterstützung jedoch bereits seit Monaten an."
+categories: ["cybersecurity"]
 ---
 
 Das Bild ist symbolisch.
@@ -110,7 +111,7 @@ Metaadvisor hat bereits früher über die Probleme der AI-Moderation und die wac
 
 <figure style="max-width:620px; margin:26px auto; text-align:center;">
   <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener">
-    <img src="/images/Social-networking-erased-destroyed.png" alt="Meta AI-Moderation und digitaler Ausschluss von Nutzern" style="width:100%; height:auto; border-radius:12px;">
+    <img src="/images/Social-networking-erased-destroyed.webp" alt="Meta AI-Moderation und digitaler Ausschluss von Nutzern" style="width:100%; height:auto; border-radius:12px;">
   </a>
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener">

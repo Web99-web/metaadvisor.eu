@@ -9,6 +9,7 @@ summary: "Top bankers and economists expect the BOJ to hike rates in the fourth 
 tags: ["macro","Japan","stablecoin","JPY","yen","BOJ","interest-rates","crypto","finance","markets","cross-border-payments","remittances","DeFi"]
 image_url: "https://cdn.sanity.io/images/s3y3vcno/production/923a04872447b38957f0d56822956490d23cedc7-3997x2248.jpg"
 image_url_small: "https://cdn.sanity.io/images/s3y3vcno/production/923a04872447b38957f0d56822956490d23cedc7-3997x2248.jpg?auto=format&fit=max&w=1200"
+categories: ["macro"]
 ---
 
 One of the biggest stories emerging from the Far East this month is the imminent launch of a blockchain-based version of the Japanese yen, one of the world’s major fiat currencies.

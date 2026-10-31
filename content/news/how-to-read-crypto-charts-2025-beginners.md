@@ -3,17 +3,18 @@ title: "How to read crypto charts in 2025 (even if you’re a beginner)"
 slug: "how-to-read-crypto-charts-2025-beginners"
 date: 2025-10-20T15:02:24Z
 category: "crypto"
-translationKey: "d48d3041c514f5ed46ac033c85170f42"
+translationKey: "d48d3041c514f5ed46ac033c85170f42--unpaired-36aa0a6e4622"
 source: "Cointelegraph"
 author: "Metaadvisor.eu"
-image_url: "/images/how-to-trade.png"
-featured_image: "/images/how-to-trade.png"
-image: "/images/how-to-trade.png"
-thumbnail: "/images/how-to-trade.png"
+image_url: "/images/how-to-trade.webp"
+featured_image: "/images/how-to-trade.webp"
+image: "/images/how-to-trade.webp"
+thumbnail: "/images/how-to-trade.webp"
 image_alt: "How to read crypto charts — title illustration"
 image_credit: "Image is symbolic."
 tags: ["bitcoin","btc","crypto","charts","O-H-L-C","rsi","volume","liquidity","trading","beginners","macd","ema","sma","support","resistance"]
 summary: "A practical guide to read crypto charts like a pro: from candles and trends to volume, RSI and liquidity — no jargon, with examples and common pitfalls."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0;">

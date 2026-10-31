@@ -15,6 +15,7 @@ image_alt: "Coinbase omogućuje zajmove uz stakirani Ethereum bez prodaje kripta
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Američka kripto burza Coinbase omogućuje korisnicima posudbu do 1 milijun USD koristeći stakirani Ethereum kao kolateral, bez potrebe za prodajom ETH-a."
 tags: ["coinbase", "ethereum", "eth", "staking", "kripto zajam", "crypto lending", "tradfi", "defi", "blockchain"]
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

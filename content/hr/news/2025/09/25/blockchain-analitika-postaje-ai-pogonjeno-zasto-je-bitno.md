@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/blockchain-analytics-becoming-ai-powered-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/blockchain-optimized.png"
-featured_image: "/images/blockchain-optimized.png"
-image: "/images/blockchain-optimized.png"
-thumbnail: "/images/blockchain-optimized.png"
+image_url: "/images/blockchain-optimized.webp"
+featured_image: "/images/blockchain-optimized.webp"
+image: "/images/blockchain-optimized.webp"
+thumbnail: "/images/blockchain-optimized.webp"
 image_alt: "AI + blockchain analitika — simbolična naslovnica"
 image_credit: "Metaadvisor.eu (simbolična grafika)"
 tags:
@@ -31,6 +31,7 @@ tags:
   - privacy
   - explainability
 summary: "Alati za analizu blockchaina prelaze s ručnih pravila na AI: graf-modeli, embeddings i LLM-ovi otkrivaju obrasce prije nego postanu problem — od prijevara i AML-a do DeFi rizika i MEV-a. Donosimo što se mijenja i zašto je to važno."
+categories: ["ai"]
 ---
 
 **Kratko:** Analiza blockchain podataka ulazi u novu fazu. Umjesto statičnih pravila i ručnog labeliranja adresa, sve više se koriste **AI modeli** — od **graf neuronskih mreža** i **embeddings vektora** do **LLM-ova** za automatsko označavanje entiteta i objašnjavanje nalaza. Rezultat je **brže otkrivanje prijevara**, **precizniji AML/komplians** i **ranije upozorenje** na rizike u DeFi-ju.

@@ -7,14 +7,15 @@ translationKey: "bruxelles-eu-sjediste-bez-klime-toplinski-val-2026-06-28"
 source: "Politico Europe, E&E News, Euractiv, Anadolu Agency, Reuters, The Brussels Times, Copernicus, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
-featured_image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
-image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
-thumbnail: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.png"
+image_url: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
+featured_image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
+image: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
+thumbnail: "/images/news/EU-european-commission-hq-no-ac-brussels-heatwave.webp"
 image_alt: "EU headquarters in Brussels without air conditioning during a heatwave"
 image_credit: "Metaadvisor.eu"
 tags: ["European Commission", "Brussels", "Berlaymont", "EU", "heatwave", "air conditioning", "cooling", "Europe", "heat", "infrastructure", "climate change", "climate adaptation", "Metaadvisor"]
 summary: "The European Commission headquarters in Brussels had to shut off cooling from floors 1 to 7 of the Berlaymont building during a heatwave. The shutdown came as temperatures reached around 35.3 °C in Belgium, around 37 °C in Brussels and more than 40 °C in parts of Europe. Media reports said Commission President Ursula von der Leyen’s office on the 13th floor was not affected."
+categories: ["news"]
 ---
 
 The image is symbolic.

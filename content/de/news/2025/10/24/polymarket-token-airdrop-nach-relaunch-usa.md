@@ -16,6 +16,7 @@ image_alt: "Polymarket — Ankündigung von Token und Airdrop"
 image_credit: "Bild ist symbolisch."
 tags: ["Polymarket", "Token", "Airdrop", "Prediction Markets", "CFTC", "USA", "Crypto"]
 summary: "Polymarket plant die Einführung eines eigenen Tokens und eines Airdrops nach dem Neustart in den USA. Wir erklären, was Polymarket ist, wer dahintersteht und warum jetzt der Relaunch erfolgt."
+categories: ["crypto"]
 ---
 
 **Was ist Polymarket?**

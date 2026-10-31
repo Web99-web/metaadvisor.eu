@@ -10,6 +10,7 @@ image_url: "/images/btc1 (2).jpg"
 image_alt: "Stablecoins und passives Einkommen"
 tags: ["stablecoin","passives-einkommen","defi","steuern","regulierung"]
 summary: "Verzinsliche Stablecoins bieten 2025 on-chain Erträge, bringen aber auch regulatorische, steuerliche und operative Risiken mit sich – von T-Bills/ Geldmarktfonds über DeFi-Wrapper bis hin zu synthetischen Dollar-Modellen."
+categories: ["crypto"]
 ---
 
 **Kernpunkte (laut Cointelegraph)**  

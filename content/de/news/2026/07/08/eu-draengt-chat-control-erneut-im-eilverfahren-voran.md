@@ -7,15 +7,16 @@ translationKey: "eu-chat-control-urgent-procedure-2026-07-08"
 source: "Cointelegraph, Euronews, The Guardian, EDRi, Meta Oversight Board, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/eu-chat-control.png"
-featured_image: "/images/eu-chat-control.png"
-image: "/images/eu-chat-control.png"
-thumbnail: "/images/eu-chat-control.png"
+image_url: "/images/eu-chat-control.webp"
+featured_image: "/images/eu-chat-control.webp"
+image: "/images/eu-chat-control.webp"
+thumbnail: "/images/eu-chat-control.webp"
 image_credit: "Metaadvisor.eu"
 tags: ["Chat Control", "EU-Überwachung", "private Nachrichten", "Ende-zu-Ende-Verschlüsselung", "digitale Privatsphäre", "CSAM", "Europäisches Parlament", "Eilverfahren", "Massenüberwachung", "Signal", "WhatsApp", "Telegram"]
 summary: "Das Europäische Parlament stimmt erneut im Eilverfahren über Chat Control ab. Formal geht es um die Verlängerung eines vorübergehenden Regimes zum Scannen von Nachrichten zur Erkennung von CSAM, politisch aber um die Fortsetzung einer breiten Debatte über Privatsphäre, Verschlüsselung und die Grenzen der Überwachung in der EU."
 disclaimer: "Dieser Artikel dient ausschließlich Informationszwecken und stellt keine Rechts-, Sicherheits- oder politische Beratung dar."
 draft: false
+categories: ["news"]
 ---
 
 Bild ist symbolisch.
@@ -43,7 +44,7 @@ Chat Control taucht nicht plötzlich auf. Über dieses Thema wird seit Monaten i
 Im November 2025 schrieben wir über den politisch sensibelsten Aspekt von Chat Control: die Möglichkeit, ein **System zu schaffen, in dem Bürger überwacht werden, während politische Eliten ausgenommen oder besser vor derselben Überwachung geschützt sein könnten**. Ein solches Modell ist nicht nur eine technische Frage, sondern ein demokratisches Problem. Wenn private Nachrichten von Bürgern ohne individuellen Verdacht und ohne richterliche Anordnung gescannt werden können, stellt sich die Frage, wer das System kontrolliert, wer davon ausgenommen ist und wer über seine künftige Anwendung entscheiden kann.
 
 <a href="https://metaadvisor.eu/de/news/chat-control-gefaehrlichstes-eu-gesetz-politiker-ausgenommen-buerger-ueberwacht/" target="_blank" rel="noopener">
-  <img src="/images/EU-chat-control1.png" alt="Chat Control: Das gefährlichste Gesetz in der Geschichte der EU — Politiker ausgenommen, Bürger überwacht" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/EU-chat-control1.webp" alt="Chat Control: Das gefährlichste Gesetz in der Geschichte der EU — Politiker ausgenommen, Bürger überwacht" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/de/news/chat-control-gefaehrlichstes-eu-gesetz-politiker-ausgenommen-buerger-ueberwacht/" target="_blank" rel="noopener">Chat Control: Das gefährlichste Gesetz in der Geschichte der EU — Politiker ausgenommen, Bürger überwacht</a>
@@ -79,7 +80,7 @@ Das ist der Grund, warum bei Chat Control so häufig Argumente zum Kinderschutz 
 Über eine mögliche Bewegung von Nutzern hin zu dezentralen und Web3-Kommunikationsalternativen schrieben wir bereits im September 2025. Damals analysierten wir, warum eine übermäßige Ausweitung der Überwachung auf zentralisierten Plattformen einen Teil der Nutzer zu Werkzeugen treiben könnte, die mehr Widerstandsfähigkeit gegen Zensur und Kontrolle versprechen.
 
 <a href="https://metaadvisor.eu/de/news/eu-chat-control-treibt-nutzer-in-web3-alternativen/" target="_blank" rel="noopener">
-  <img src="/images/eu-chat-control-sigurno-nadzorovano.png" alt="EU-Chat-Control-Gesetz treibt Nutzer in ‘Web3-Alternativen’, warnen Experten" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/eu-chat-control-sigurno-nadzorovano.webp" alt="EU-Chat-Control-Gesetz treibt Nutzer in ‘Web3-Alternativen’, warnen Experten" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/de/news/eu-chat-control-treibt-nutzer-in-web3-alternativen/" target="_blank" rel="noopener">EU-Chat-Control-Gesetz treibt Nutzer in ‘Web3-Alternativen’, warnen Experten</a>
@@ -105,7 +106,7 @@ Das bedeutet nicht, dass jede Nachricht von einem Menschen gelesen wird. Aber es
 Dieses Risiko ist nicht nur theoretisch. Große Plattformen hatten bereits Probleme mit automatisierter Moderation und der falschen Kennzeichnung von Inhalten oder Nutzerkonten. Meta sah sich beispielsweise zahlreichen Beschwerden von Facebook- und Instagram-Nutzern wegen fehlerhafter Sperrungen ausgesetzt, darunter Fälle, in denen Konten angeblich wegen Verstößen gegen Regeln zu sexueller Ausbeutung von Kindern markiert wurden, obwohl die Nutzer erklärten, nichts Derartiges veröffentlicht zu haben.
 
 <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener">
-  <img src="/images/Banned-from-social-media.png" alt="Meta Oversight Board: KI-Moderation — ein jahrelanges Problem rückt erst jetzt in den Fokus" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="/images/Banned-from-social-media.webp" alt="Meta Oversight Board: KI-Moderation — ein jahrelanges Problem rückt erst jetzt in den Fokus" style="max-width: 360px; width: 100%; height: auto; display: block; margin: 1rem 0;">
 </a>
 
 <a href="https://metaadvisor.eu/de/news/meta-oversight-board-problem-ki-moderation/" target="_blank" rel="noopener">Meta Oversight Board: KI-Moderation — ein jahrelanges Problem rückt erst jetzt in den Fokus</a>

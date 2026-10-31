@@ -7,14 +7,15 @@ translationKey: "6d67a039dbfbaea8a8d121bc6476b201"
 source: "Metaadvisor (TechCrunch, Business Insider, The Wall Street Journal, TechRadar, Times of India)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Apple-Mac-mini.png"
-featured_image: "/images/companies/Apple-Mac-mini.png"
-image: "/images/companies/Apple-Mac-mini.png"
-thumbnail: "/images/companies/Apple-Mac-mini.png"
+image_url: "/images/companies/Apple-Mac-mini.webp"
+featured_image: "/images/companies/Apple-Mac-mini.webp"
+image: "/images/companies/Apple-Mac-mini.webp"
+thumbnail: "/images/companies/Apple-Mac-mini.webp"
 image_alt: "Apple Mac mini M4 kompakter Computer und Anschlüsse"
 image_credit: "Apple"
 tags: ["ai","apple","mac mini","hardware","local ai"]
 summary: "Der Mac mini ist weltweit ausverkauft – nicht wegen klassischer Nachfrage, sondern wegen wachsendem Interesse an lokalem AI. Wir analysieren, was wirklich dahinter steckt."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

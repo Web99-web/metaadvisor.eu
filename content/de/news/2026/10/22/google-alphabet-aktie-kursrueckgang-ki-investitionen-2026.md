@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Google", "Alphabet", "GOOGL", "GOOG", "Google Aktie", "Aktienmarkt", "Künstliche Intelligenz", "KI", "Google Cloud", "Gemini", "KI-Infrastruktur", "Investitionen", "Wall Street", "Nasdaq", "Technologieaktien", "Finanzmärkte", "Rechenzentren", "Quartalszahlen"]
 description: "Die Google-Aktie fällt trotz 24 % Umsatzwachstum und 82 % Wachstum bei Google Cloud. Anleger sorgen sich über Investitionen von bis zu 205 Milliarden Dollar."
 summary: "Die Aktien der Google-Muttergesellschaft Alphabet stehen unter starkem Druck und haben gegenüber ihrem Höchststand im Mai rund ein Fünftel ihres Wertes verloren. Obwohl der Konzern seinen Umsatz im zweiten Quartal um 24 % und den Umsatz von Google Cloud sogar um 82 % steigerte, sorgen sich Anleger über die enormen Investitionen in künstliche Intelligenz, steigende Kosten für Rechenzentren und die langfristige Rentabilität. Die für den 28. Oktober angekündigten Quartalszahlen könnten für die weitere Kursentwicklung entscheidend sein."
+categories: ["finance"]
 ---
 
 *Das Bild dient der Illustration.*

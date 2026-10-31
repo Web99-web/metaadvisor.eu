@@ -16,6 +16,7 @@ image_alt: "ChatGPT als Betriebssystem – Illustration"
 image_credit: "Metaadvisor.eu (symbolisches Bild)"
 tags: ["ai","openai","chatgpt","apps","operating-system","browser","Nick Turley","Jony Ive","hardware","GPT Store","plugins","developer-conference","ecosystem","platform-economy"]
 summary: "Nick Turley (OpenAI) skizziert ChatGPT als Plattform mit Drittanbieter-Apps – ein „Betriebssystem“ über dem klassischen OS, angelehnt an die Entwicklung moderner Webbrowser."
+categories: ["ai"]
 ---
 
 OpenAIs ChatGPT-Chef **Nick Turley** hat eine Vision vorgestellt, in der sich **ChatGPT zu einer Plattform mit Dritt-Apps** entwickelt – ein „Betriebssystem“, das nicht Windows oder macOS ersetzt, sondern **zum zentralen Arbeitsort** wird, über den Nutzer verschiedenste AI-Tools starten.

@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/2025/sep/01/clanker-slur-aga
 summary: "Pojam se koristi za vrijeđanje AI chatbotova i platformi poput ChatGPT-a zbog izmišljanja informacija i generiranja ‘smeća’. Neki vjeruju da bismo ga trebali prestati koristiti."
 tags: ["ai", "chatgpt", "robots", "language", "culture"]
 image_url: "https://i.guim.co.uk/img/media/caf22e9dbf9d73b94a8f9d61b4d671b17dbe26e4/0_0_5472_3648/master/5472.jpg?width=1200&quality=85&auto=format&fit=max&s=5bb09b1c03049c989feaadbcb1d4a9ce"
+categories: ["ai"]
 ---
 
 Pojam se koristi za vrijeđanje AI chatbotova i platformi poput ChatGPT-a zbog izmišljanja informacija i generiranja ‘smeća’. Neki vjeruju da bismo ga trebali prestati koristiti.

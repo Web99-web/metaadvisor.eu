@@ -7,10 +7,10 @@ translationKey: "tether_gold_usdt_digital_collateral_20260130"
 source: "MetaAdvisor Analyse / Gold- und Stablecoin-Markt"
 source_url: "https://metaadvisor.eu/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Tether-USDT-gold.png"
-featured_image: "/images/Tether-USDT-gold.png"
-image: "/images/Tether-USDT-gold.png"
-thumbnail: "/images/Tether-USDT-gold.png"
+image_url: "/images/Tether-USDT-gold.webp"
+featured_image: "/images/Tether-USDT-gold.webp"
+image: "/images/Tether-USDT-gold.webp"
+thumbnail: "/images/Tether-USDT-gold.webp"
 image_alt: "Goldbarren und Tether USDT – symbolische Illustration von digitalem und physischem Kollateral"
 image_credit: "Illustration / MetaAdvisor.eu"
 tags:
@@ -27,6 +27,7 @@ tags:
   - goldmarkt
   - finanzielle sicherheit
 summary: "Tether, der Emittent des weltweit größten Stablecoins, häuft systematisch physisches Gold an – mit einer Geschwindigkeit von 1 bis 2 Tonnen pro Woche. Während der Goldpreis stark schwankt, wirft dieser Schritt grundlegende Fragen zur Zukunft von Stablecoins, Kollateral und finanzieller Macht auf."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

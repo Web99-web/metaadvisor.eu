@@ -7,8 +7,8 @@ translationKey: "stripe_bridge_tempo_stablecoins_20260225"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2026/02/24/stripe-s-bridge-sees-stablecoin-volume-quadruple-as-utility-insulates-from-crypto-winter"
 author: "MetaAdvisor.eu"
-image_url: "/images/Stripe-Bridge-Tempo-stablecoins.png"
-featured_image: "/images/Stripe-Bridge-Tempo-stablecoins.png"
+image_url: "/images/Stripe-Bridge-Tempo-stablecoins.webp"
+featured_image: "/images/Stripe-Bridge-Tempo-stablecoins.webp"
 image_alt: "Stripe, Bridge i Tempo u kontekstu rasta stablecoina"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "Stripe tvrdi da stablecoini bilježe snažan rast unatoč padu šireg kripto tržišta. Platforma Bridge učetverostručila je volumen, dok Stripe priprema lansiranje vlastitog blockchaina Tempo."
@@ -19,6 +19,7 @@ tags:
   - tempo
   - fintech
   - crypto
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

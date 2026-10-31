@@ -16,6 +16,7 @@ image_alt: "Bitcoin Mining Illustration"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["bitcoin","btc","krypto","kryptowährungen","mining","netzwerk","hashrate","energie","amerikanische miner"]
 summary: "Warum kleine Bitcoin-Miner 2025 unter Druck stehen, während große Mining-Unternehmen dank günstiger Energie und Kapitalzugang expandieren."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

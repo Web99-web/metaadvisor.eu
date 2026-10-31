@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Google", "Alphabet", "GOOGL", "GOOG", "Google Stock", "Stock Market", "Artificial Intelligence", "AI", "Google Cloud", "Gemini", "AI Infrastructure", "Capital Expenditure", "Wall Street", "Nasdaq", "Technology Stocks", "Financial Markets", "Investment", "Earnings", "Data Centers", "AI Spending"]
 description: "Google shares fall despite 24% revenue growth and 82% growth in Google Cloud. Investors question Alphabet's planned capital spending of up to $205 billion."
 summary: "Shares of Google parent Alphabet are under significant pressure, losing roughly one-fifth of their value from their May peak. Despite reporting 24% revenue growth in the second quarter and an 82% surge in Google Cloud revenue, investors are increasingly concerned about massive artificial intelligence investments, rising data center costs and long-term profitability. Alphabet's upcoming earnings report on October 28 could become a key turning point for the stock."
+categories: ["finance"]
 ---
 
 *Image for illustrative purposes.*

@@ -7,14 +7,15 @@ translationKey: "animoca_yat_siu_utility_tokens_2026"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/"
 author: "Metaadvisor.eu"
-image_url: "/images/Animoca-brands-Yat-Siu.png"
-featured_image: "/images/Animoca-brands-Yat-Siu.png"
-image: "/images/Animoca-brands-Yat-Siu.png"
-thumbnail: "/images/Animoca-brands-Yat-Siu.png"
+image_url: "/images/Animoca-brands-Yat-Siu.webp"
+featured_image: "/images/Animoca-brands-Yat-Siu.webp"
+image: "/images/Animoca-brands-Yat-Siu.webp"
+thumbnail: "/images/Animoca-brands-Yat-Siu.webp"
 image_alt: "Animoca Brands i Yat Siu o budućnosti tokena i stvarnoj korisnosti u kriptu"
 image_credit: "Animoca Brands / javni promotivni materijali"
 tags: ["kripto", "crypto", "bitcoin", "altcoini", "utility tokeni", "web3", "gaming", "nft", "blockchain", "yat siu", "animoca brands", "ulaganja", "burza"]
 summary: "Animoca Brands i njezin suosnivač Yat Siu objašnjavaju zašto kripto mora izaći iz faze špekulacije i zašto 2026. vide kao prekretnicu za tokene sa stvarnom uporabnom vrijednošću."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

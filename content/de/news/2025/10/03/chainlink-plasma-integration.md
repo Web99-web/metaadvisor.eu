@@ -38,6 +38,7 @@ tags:
   - maerkte
   - usa
 summary: "LINK legte diese Woche rund 6,7 % zu und bildete ein höheres Tief. Rückenwind kommt von Plasma (XPL) mit SCALE/CCIP/Data Streams/Data Feeds, einem UBS-CCIP-Pilot mit SWIFT und zusätzlichen LINK-Käufen durch die Chainlink Reserve."
+categories: ["crypto"]
 ---
 
 **Kurzüberblick**  

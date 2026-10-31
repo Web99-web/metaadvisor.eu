@@ -16,6 +16,7 @@ image_alt: "Kreditne kartice s kripto nagradama"
 image_credit: "Slika je simbolična."
 tags: ["SOL", "Solana", "Fidelity", "Gemini", "kripto kartica", "staking", "crypto", "bitcoin", "ethereum"]
 summary: "Solana ulazi u Fidelityjevu brokersku ponudu, dok Gemini lansira Solana kreditnu karticu koja omogućuje do 4% povrata u SOL-u. Tržište pomno prati ključnu podršku na 188 USD."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

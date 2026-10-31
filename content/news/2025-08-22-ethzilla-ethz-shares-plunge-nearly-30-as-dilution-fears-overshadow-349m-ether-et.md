@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/ethzilla-shares-plunge-
 summary: "The rebranded crypto treasury firm disclosed a 74.8M share offering, sparking concerns even as it holds more than 82,000 ETH and $238M in cash."
 tags: ["crypto"]
 image: "/news/2025-08-22-ethzilla-ethz-shares-plunge-nearly-30-as-dilution-fears-overshadow-349m-ether-et.jpg"
+categories: ["crypto"]
 ---
 
 Shares of ETHZilla (ETHZ) , formerly known as biotech firm 180 Life Science, fell nearly 30% Friday after the company disclosed that shareholders filed to offer up to 74.8 million convertible shares.

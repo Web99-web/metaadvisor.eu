@@ -9,6 +9,7 @@ summary: "OP_CAT Labs' Liu says Satoshi envisioned Bitcoin to be programmable. T
 tags: ["bitcoin", "crypto", "opcat", "satoshi", "blockchain"]
 image_url: "https://www.coindesk.com/resizer/v2/CYYopcatlabs-btc-2025.jpg?width=1200"
 image_url_small: "https://www.coindesk.com/resizer/v2/CYYopcatlabs-btc-2025.jpg?width=600"
+categories: ["crypto"]
 ---
 
 Without OP_CAT, Bruce Liu says Bitcoin is as "useful as a jumbo jet without wings" – capable of much more than it’s allowed to do, but stuck on the ground while Ethereum and Solana soar.

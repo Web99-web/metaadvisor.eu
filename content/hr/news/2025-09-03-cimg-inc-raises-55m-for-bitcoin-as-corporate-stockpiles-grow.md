@@ -8,6 +8,7 @@ source_url: "https://metaadvisor.eu/"
 summary: "CIMG Inc. prikupio je 55 milijuna USD izdavanjem dionica kako bi kupio 500 BTC, pridružujući se rastućem trendu korporativnog ulaganja u Bitcoin."
 tags: ["bitcoin", "BTC", "crypto", "trezor", "korporacije", "ulaganja"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
+categories: ["crypto"]
 ---
 
 Američka kompanija **CIMG Inc.** prikupila je **55 milijuna USD** izdavanjem novih dionica, a sredstva će biti iskorištena za kupnju **500 Bitcoina (BTC)**. Ova odluka dio je šire strategije stvaranja kripto trezora u korporativnim bilancama.

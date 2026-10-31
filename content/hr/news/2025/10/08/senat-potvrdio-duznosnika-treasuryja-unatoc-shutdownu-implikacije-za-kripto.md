@@ -24,6 +24,7 @@ tags:
   - cftc
   - crypto
 summary: "Američki Senat potvrdio je visokog dužnosnika Ministarstva financija (Treasury) dok federalni shutdown i dalje traje. Objašnjavamo zašto je kontinuitet u Treasuryju važan za tržišta — osobito za kripto (AML/OFAC/FinCEN) — te što pratiti sljedeće."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

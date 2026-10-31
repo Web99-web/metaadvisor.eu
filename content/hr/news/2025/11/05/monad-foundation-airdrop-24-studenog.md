@@ -16,6 +16,7 @@ image_alt: "Monad Foundation airdrop MON tokena"
 image_credit: "CoinDesk / Metaadvisor"
 tags: ["crypto", "ai", "airdrop", "monad", "blockchain", "defi", "mainnet"]
 summary: "Monad Foundation službeno je potvrdila da će se airdrop njihovog MON tokena održati 24. studenog, uz raspodjelu tokena ranim i aktivnim članovima zajednice."
+categories: ["ai"]
 ---
 
 **Monad Foundation** službeno je potvrdila na X platformi da će se **airdrop MON tokena održati 24. studenog**, čime su korisnici napokon dobili čvrst datum za jedan od **najpraćenijih airdrop događaja godine.**

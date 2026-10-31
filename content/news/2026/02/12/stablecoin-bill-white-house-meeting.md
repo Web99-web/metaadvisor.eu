@@ -16,6 +16,7 @@ image_alt: "White House symbolizing US crypto regulation debate"
 image_credit: "MetaAdvisor illustration"
 tags: ["stablecoin", "crypto regulation", "white house", "us politics", "crypto bill", "digital assets", "sec", "tradfi vs defi", "banking lobby"]
 summary: "A second White House meeting between crypto representatives and banks ended without agreement on stablecoin provisions, leaving regulatory uncertainty unresolved."
+categories: ["crypto"]
 ---
 
 *Symbolic image.*

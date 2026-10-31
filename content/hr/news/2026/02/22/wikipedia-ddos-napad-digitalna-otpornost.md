@@ -15,6 +15,7 @@ image_alt: "Wikipedia pod DDoS napadom – simbol digitalne ranjivosti"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["wikipedia", "ddos", "cyber napad", "cyber sigurnost", "digitalna infrastruktura", "internet sigurnost", "hakiranje", "tehnologija", "cyber ratovanje", "digitalna otpornost"]
 summary: "Wikipedia se suočila s DDoS napadom koji je privremeno otežao pristup platformi. Incident otvara pitanje koliko je globalna digitalna infrastruktura otporna na koordinirane cyber napade."
+categories: ["tech"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

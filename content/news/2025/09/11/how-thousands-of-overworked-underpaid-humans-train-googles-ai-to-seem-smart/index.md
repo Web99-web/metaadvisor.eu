@@ -11,6 +11,7 @@ image: "hero.jpg"
 tags: ["ai", "artificial-intelligence", "google", "mental-health"]
 our_take: |
   Our view: Contracted AI raters describe grueling deadlines, poor pay and opacity around work to make chatbots intelligent I n the spring of 2024, when Rachael Sawyer, a technical writer from Texas, received a LinkedIn message from… Bigger picture: data/licensing, model quality, and policy risk drive outcomes. We like real distribution and defensible data moats.
+categories: ["news"]
 ---
 
 Contracted AI raters describe grueling deadlines, poor pay and opacity around work to make chatbots intelligent

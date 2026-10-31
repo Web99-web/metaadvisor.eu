@@ -15,6 +15,7 @@ image_alt: "Paxos kupio Fordefi"
 image_credit: "MetaAdvisor / AI-generated"
 tags: ["kripto", "crypto", "blockchain", "paxos", "fordefi", "mpc", "sigurnost", "tokenizacija", "stablecoin", "decentralizirane-financije", "de-fi"]
 summary: "Paxos je kupio Fordefi, američki MPC startup, čime je značajno proširio sigurnosnu i infrastrukturnu ponudu za stablecoine, tokenizaciju i institucionalne onchain operacije."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

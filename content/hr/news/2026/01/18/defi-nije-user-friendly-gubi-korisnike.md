@@ -7,14 +7,15 @@ translationKey: "defi_not_user_friendly_20260118"
 source: ""
 source_url: ""
 author: "MetaAdvisor.eu"
-image_url: "/images/DeFi-not-user-friendly.png"
-featured_image: "/images/DeFi-not-user-friendly.png"
-image: "/images/DeFi-not-user-friendly.png"
-thumbnail: "/images/DeFi-not-user-friendly.png"
+image_url: "/images/DeFi-not-user-friendly.webp"
+featured_image: "/images/DeFi-not-user-friendly.webp"
+image: "/images/DeFi-not-user-friendly.webp"
+thumbnail: "/images/DeFi-not-user-friendly.webp"
 image_alt: "DeFi kao složen sustav koji nije prilagođen stvarnim korisnicima"
 image_credit: "MetaAdvisor / simbolična ilustracija"
 summary: "DeFi obećava slobodu i kontrolu, ali gubi korisnike jer očekuje da ljudi razumiju infrastrukturu. Strah od gubitka sredstava, loš UX i neobjašnjena pravila pretvaraju decentralizaciju u prepreku."
 tags: ["defi","crypto","kripto","ux","user-experience","blockchain","metamask","web3","decentralizacija"]
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

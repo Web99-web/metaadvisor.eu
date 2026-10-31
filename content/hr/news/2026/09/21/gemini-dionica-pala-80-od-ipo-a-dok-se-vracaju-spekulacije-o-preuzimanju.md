@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Gemini", "Winklevoss", "Hyperliquid", "HYPE", "IPO", "dionica", "preuzimanje", "crypto burza", "licence", "regulacija", "kriptovalute", "CEX", "DEX"]
 description: "Gemini je od izlaska na burzu izgubio oko 80% vrijednosti dionice, dok pad prihoda burze i volumena trgovanja ponovno potiče spekulacije o mogućem preuzimanju. U središtu interesa nisu samo prihodi, nego i regulatorne licence te custody infrastruktura."
 summary: "Dionica Geminija pala je oko 80% od IPO-a, dok su prihodi exchange segmenta, spot volumen i imovina na platformi osjetno oslabjeli. To je ponovno otvorilo špekulacije o mogućem preuzimanju, ali eventualni interes Hyperliquida nije jednostavna priča jer je riječ o decentraliziranom protokolu s jedne i centraliziranoj reguliranoj burzi s druge strane."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

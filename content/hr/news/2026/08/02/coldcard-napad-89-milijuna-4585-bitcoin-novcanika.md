@@ -7,15 +7,16 @@ translationKey: "coldcard-napad-89-milijuna-4585-bitcoin-novcanika-2026-08-02"
 source: "Galaxy Research, Coinkite, CoinDesk, Cointelegraph i CryptoQuant"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Coldcard-hack-89M.png"
-featured_image: "/images/hack/Coldcard-hack-89M.png"
-image: "/images/hack/Coldcard-hack-89M.png"
-thumbnail: "/images/hack/Coldcard-hack-89M.png"
+image_url: "/images/hack/Coldcard-hack-89M.webp"
+featured_image: "/images/hack/Coldcard-hack-89M.webp"
+image: "/images/hack/Coldcard-hack-89M.webp"
+thumbnail: "/images/hack/Coldcard-hack-89M.webp"
 image_alt: "Coldcard napad proširio se na 4.585 Bitcoin novčanika uz gotovo 89 milijuna dolara gubitaka"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Coldcard", "Bitcoin", "Bitcoin wallet", "hardverski novčanik", "crypto hack", "kibernetička sigurnost", "seed fraza", "privatni ključ", "Coldcard Mk3", "Coldcard Mk4", "Bitcoin krađa", "self-custody", "Coinkite", "Galaxy Research", "kripto sigurnost"]
 description: "Coldcard napad proširio se na 4.585 Bitcoin novčanika, dok su procijenjeni gubici porasli na 1.367 BTC-a, odnosno gotovo 89 milijuna dolara."
 summary: "Napad povezan s ranjivim seedovima generiranima na određenim verzijama Coldcard firmwarea nastavio se u više valova. Napadači sada ciljaju i manje novčanike, a ukradeni bitcoin raspoređuju na veći broj odredišnih adresa."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

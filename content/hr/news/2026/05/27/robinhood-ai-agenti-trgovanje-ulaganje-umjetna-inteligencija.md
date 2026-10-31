@@ -15,6 +15,7 @@ image_alt: "Robinhood i AI agenti za automatizirano trgovanje i financijske odlu
 image_credit: "Metaadvisor.eu"
 tags: ["robinhood", "ai", "umjetna inteligencija", "ai agenti", "agentic trading", "fintech", "trgovanje", "ulaganje", "dionice", "kripto", "crypto", "bitcoin", "btc", "retail investitori", "automatizacija", "financijska tehnologija", "rizik", "tržište", "portfelj", "virtualna kartica"]
 summary: "Robinhood uvodi AI agente koji bi mogli pratiti tržišta, provoditi strategije i obavljati kupnje u ime korisnika. Ideja zvuči praktično, ali otvara velika pitanja o kontroli, riziku i odgovornosti kada umjetna inteligencija dobije pristup stvarnom novcu."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

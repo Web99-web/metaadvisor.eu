@@ -10,6 +10,7 @@ image_url: "/images/gold1.jpg"
 image_alt: "Zlatne poluge – ilustracija"
 tags: ["fed","zinsentscheid","makro","krypto","gold","aktien"]
 summary: "Die Märkte rechnen am 17. September mit einem 25-bp-Schnitt. Kurzfristig mögliches Hin-und-Her, langfristig könnten niedrigere Zinsen Krypto, Gold und Aktien stützen."
+categories: ["crypto"]
 ---
 
 Anleger zählen die Tage bis zur **FED**-Entscheidung am 17. September; erwartet wird ein **Schnitt um 25 Basispunkte**, der kurzfristig Volatilität auslösen, langfristig jedoch Risikoanlagen unterstützen könnte.

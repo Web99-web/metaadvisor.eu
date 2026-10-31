@@ -7,14 +7,15 @@ translationKey: "usdt-biggest-monthly-decline-since-ftx-2026"
 author: "Metaadvisor.eu"
 source: "Market data analysis"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/USDT-monthly-drop2.png"
-featured_image: "/images/USDT-monthly-drop2.png"
-image: "/images/USDT-monthly-drop2.png"
-thumbnail: "/images/USDT-monthly-drop2.png"
+image_url: "/images/USDT-monthly-drop2.webp"
+featured_image: "/images/USDT-monthly-drop2.webp"
+image: "/images/USDT-monthly-drop2.webp"
+thumbnail: "/images/USDT-monthly-drop2.webp"
 image_alt: "USDT monthly decline since FTX collapse"
 image_credit: "MetaAdvisor.eu (symbolic illustration)"
 tags: ["usdt", "tether", "stablecoin", "ftx", "kripto", "bitcoin", "tržište", "likvidnost", "regulacija", "crypto"]
 summary: "USDT bilježi najveći mjesečni pad ponude od kolapsa FTX-a 2022. godine. Analiziramo znači li to pad povjerenja ili tek tržišni rebalans kapitala."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

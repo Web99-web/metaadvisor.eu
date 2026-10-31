@@ -15,6 +15,7 @@ image_alt: "Bitcoin BTC grafikon i tržišna analiza"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["btc", "bitcoin", "kripto", "crypto", "tržište", "analiza", "mvrv", "cpi", "inflacija", "bull market", "bear market", "etf", "trgovanje"]
 summary: "Bitcoin se približava ključnoj tehničkoj zoni između 72.000 i 80.000 dolara, dok onchain pokazatelji sugeriraju podcijenjenost kakva nije viđena godinama. Je li pred nama kratkoročni skok ili tek predah u silaznom trendu?"
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

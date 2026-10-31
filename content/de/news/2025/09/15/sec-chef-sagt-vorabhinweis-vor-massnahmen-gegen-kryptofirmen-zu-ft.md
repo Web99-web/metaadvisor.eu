@@ -10,6 +10,7 @@ image_url: "/images/etc-btc-manja.jpg"
 image_alt: "SEC und Krypto – Zeichen eines Kurswechsels in der Durchsetzung"
 tags: ["krypto","policy","sec","enforcement","rulemaking"]
 summary: "Paul Atkins kündigt an, dass Unternehmen bei „technischen“ Verstößen zuerst einen Vorabhinweis erhalten, bevor die SEC einschreitet – ein Bruch mit der bisherigen „Regulation by Enforcement“-Praxis und ein Schritt hin zu klareren Regeln."
+categories: ["crypto"]
 ---
 
 **Was sich ändert – und warum es zählt**  

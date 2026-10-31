@@ -8,14 +8,15 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitmine-begins-staking-eth-deposits-219m-pos-contract"
 author: "Cointelegraph — Analyse MetaAdvisor.eu"
 analysis_by: "MetaAdvisor.eu"
-image_url: "/images/Bitmine-eth.png"
-featured_image: "/images/Bitmine-eth.png"
-image: "/images/Bitmine-eth.png"
-thumbnail: "/images/Bitmine-eth.png"
+image_url: "/images/Bitmine-eth.webp"
+featured_image: "/images/Bitmine-eth.webp"
+image: "/images/Bitmine-eth.webp"
+thumbnail: "/images/Bitmine-eth.webp"
 image_alt: "Bitmine beginnt mit dem Staking von Ethereum im Proof-of-Stake-System"
 image_credit: "MetaAdvisor.eu"
 tags: ["krypto","ethereum","eth","staking","institutionen","defi","pos","treasury","blockchain"]
 summary: "Die Ethereum-Treasury-Firma Bitmine hat mit dem Staking von rund 219 Millionen US-Dollar in ETH begonnen und sendet damit ein starkes institutionelles Signal für Ethereum als produktive Anlage und Finanzinfrastruktur."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

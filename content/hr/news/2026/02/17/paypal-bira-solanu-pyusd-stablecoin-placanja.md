@@ -7,14 +7,15 @@ translationKey: "paypal-solana-pyusd-default-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/Paypal-solana.png"
-featured_image: "/images/Paypal-solana.png"
-image: "/images/Paypal-solana.png"
-thumbnail: "/images/Paypal-solana.png"
+image_url: "/images/Paypal-solana.webp"
+featured_image: "/images/Paypal-solana.webp"
+image: "/images/Paypal-solana.webp"
+thumbnail: "/images/Paypal-solana.webp"
 image_alt: "PayPal i Solana suradnja za PYUSD stablecoin transakcije"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["paypal", "solana", "sol", "pyusd", "stablecoin", "bitcoin", "ethereum", "blockchain", "kripto", "crypto", "digitalna placanja", "defi", "institucionalno usvajanje"]
 summary: "PayPal je odabrao Solanu kao zadanu mrežu za obradu transakcija svog stablecoina PYUSD. Iako Ethereum ostaje podržan, Solana postaje primarna infrastruktura za brza i jeftina plaćanja."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -7,10 +7,10 @@ translationKey: "coinbase_base_zora_builder_backlash"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Coinbase-Base-Zora.png"
-featured_image: "/images/Coinbase-Base-Zora.png"
-image: "/images/Coinbase-Base-Zora.png"
-thumbnail: "/images/Coinbase-Base-Zora.png"
+image_url: "/images/Coinbase-Base-Zora.webp"
+featured_image: "/images/Coinbase-Base-Zora.webp"
+image: "/images/Coinbase-Base-Zora.webp"
+thumbnail: "/images/Coinbase-Base-Zora.webp"
 image_alt: "Symbolische Darstellung des Konflikts zwischen Creatorn und Entwicklern auf Coinbases Base-Blockchain"
 image_credit: "MetaAdvisor.eu"
 image_note: "Das Bild ist symbolisch."
@@ -25,6 +25,7 @@ tags:
   - web3
   - oekosystem
 summary: "Coinbases Base-Blockchain gerät unter Druck, nachdem der starke Fokus auf Zora und Creator-Tokens bei vielen Entwicklern den Eindruck hinterlassen hat, dass grundlegende Projekte und langfristiger Aufbau vernachlässigt werden."
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 10px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter"

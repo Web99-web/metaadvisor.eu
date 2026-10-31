@@ -15,6 +15,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["Zcash", "ZEC", "crypto", "privacy coin", "Grayscale", "Zcash ETF", "ZCSH", "NYSE Arca", "Bitcoin", "altcoins", "short squeeze", "liquidations", "AI", "privacy", "crypto market"]
 description: "Zcash surged to around $977 on September 3, gaining nearly 20% in 24 hours as the ETF narrative, renewed privacy interest and a broader crypto rally boosted demand for ZEC."
 summary: "ZEC reached around $977 during the evening, putting the psychological $1,000 level within reach. Zcash is benefiting from a US-listed ETF, a renewed privacy narrative and much stronger momentum than most major altcoins."
+categories: ["Crypto"]
 ---
 
 *Image is for illustrative purposes only.*

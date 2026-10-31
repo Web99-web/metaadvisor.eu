@@ -14,6 +14,7 @@ image_alt: "Bitcoin fällt unter 98k"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "crypto", "markt", "btc", "analyse", "liquidationen"]
 summary: "Bitcoin rutscht unter 98.000 USD, nachdem Long-Positionen im Wert von 1,3 Milliarden USD liquidiert wurden. Händler fragen sich – ist das das Ende des Bullenmarkts oder eine historische Kaufgelegenheit?"
+categories: ["crypto"]
 ---
 <p style="text-align:center; margin:18px 0 8px 0;">
   <a href="https://www.bitgetapps.com/referral/register?clacCode=2QZSXTW1&from=%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter" target="_blank" rel="nofollow sponsored"

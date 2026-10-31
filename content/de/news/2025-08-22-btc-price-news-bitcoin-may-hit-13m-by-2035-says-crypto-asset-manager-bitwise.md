@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/bitcoin-price-to-hit-us
 summary: "Institutionelle Akzeptanz, Nachfrage nach Inflationsschutz und das begrenzte Angebot von Bitcoin sollen die Kryptowährung auf neue Höchststände treiben, so der Bericht."
 tags: ["bitcoin", "crypto"]
 image: "/news/2025-08-22-btc-price-news-bitcoin-may-hit-13m-by-2035-says-crypto-asset-manager-bitwise.jpg"
+categories: ["crypto"]
 ---
 
 Der Krypto-Vermögensverwalter **Bitwise** setzt stark auf die Zukunft von Bitcoin (BTC) und prognostiziert, dass das nächste Jahrzehnt von außergewöhnlichem Wachstum geprägt sein wird.  

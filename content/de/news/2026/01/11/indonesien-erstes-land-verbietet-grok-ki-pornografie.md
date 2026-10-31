@@ -7,10 +7,10 @@ translationKey: "indonesia_bans_grok_ai_pornography_2026"
 source: "MetaAdvisor Analyse (basierend auf The Guardian, Reuters und behördlichen Stellungnahmen)"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/Indonesia-banned-Grok.png"
-featured_image: "/images/Indonesia-banned-Grok.png"
-image: "/images/Indonesia-banned-Grok.png"
-thumbnail: "/images/Indonesia-banned-Grok.png"
+image_url: "/images/Indonesia-banned-Grok.webp"
+featured_image: "/images/Indonesia-banned-Grok.webp"
+image: "/images/Indonesia-banned-Grok.webp"
+thumbnail: "/images/Indonesia-banned-Grok.webp"
 image_alt: "Indonesien verbietet den Grok-Chatbot wegen KI-generierter unangemessener Inhalte"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -25,6 +25,7 @@ tags:
   - deepfake
   - digitale_rechte
 summary: "Indonesien ist das erste Land weltweit, das den KI-Chatbot Grok von Elon Musk blockiert hat – aus Sorge über KI-generierte pornografische und sexualisierte Inhalte. Die Entscheidung wirft grundlegende Fragen zur Verantwortung von Künstlicher Intelligenz und zu den Grenzen digitaler Freiheit auf."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

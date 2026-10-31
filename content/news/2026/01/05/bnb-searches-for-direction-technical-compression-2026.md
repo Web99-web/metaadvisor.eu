@@ -21,6 +21,7 @@ tags:
   - layer1
   - blockchain
 summary: "BNB opened 2026 with modest gains, but technical compression and key resistance levels suggest the market is still searching for a clear directional move."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

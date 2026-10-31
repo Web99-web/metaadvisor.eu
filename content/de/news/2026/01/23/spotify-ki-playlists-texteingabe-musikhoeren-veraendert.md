@@ -7,14 +7,15 @@ translationKey: "5eba84d99e8f98c3cbf245fa05ec3c00"
 source: "TechCrunch"
 source_url: "https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/"
 author: "MetaAdvisor.eu"
-image_url: "/images/Spotify-AI.png"
-featured_image: "/images/Spotify-AI.png"
-image: "/images/Spotify-AI.png"
-thumbnail: "/images/Spotify-AI.png"
+image_url: "/images/Spotify-AI.webp"
+featured_image: "/images/Spotify-AI.webp"
+image: "/images/Spotify-AI.webp"
+thumbnail: "/images/Spotify-AI.webp"
 image_alt: "Illustration eines KI-Assistenten, der Nutzern beim Erstellen von Spotify-Playlists hilft"
 image_credit: "MetaAdvisor.eu / symbolische Illustration"
 summary: "Spotify führt eine neue KI-Funktion ein, mit der Nutzer Playlists erstellen können, indem sie einfach beschreiben, was sie hören möchten – ohne Titel, Künstler oder Genres zu kennen."
 tags: ["spotify", "ki", "künstliche intelligenz", "musik", "playlist", "streaming", "technologie", "algorithmen", "kinder", "nutzererlebnis"]
+categories: ["ai"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

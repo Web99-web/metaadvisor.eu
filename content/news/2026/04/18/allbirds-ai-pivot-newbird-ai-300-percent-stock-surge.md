@@ -7,14 +7,15 @@ translationKey: "b19e38546a286e8ff4e988d16344b41c"
 source: "Metaadvisor (CoinDesk, TechCrunch, market data)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/AI-mania-Allbirds.png"
-featured_image: "/images/companies/AI-mania-Allbirds.png"
-image: "/images/companies/AI-mania-Allbirds.png"
-thumbnail: "/images/companies/AI-mania-Allbirds.png"
+image_url: "/images/companies/AI-mania-Allbirds.webp"
+featured_image: "/images/companies/AI-mania-Allbirds.webp"
+image: "/images/companies/AI-mania-Allbirds.webp"
+thumbnail: "/images/companies/AI-mania-Allbirds.webp"
 image_alt: "Allbirds shift from sneakers to AI infrastructure and stock surge"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "allbirds", "gpu", "cloud", "ai infrastructure", "stocks", "market", "tech", "investing"]
 summary: "Allbirds exits the sneaker business and pivots to AI infrastructure, triggering a stock surge of around 300%."
+categories: ["ai"]
 ---
 
 *The image is symbolic.*

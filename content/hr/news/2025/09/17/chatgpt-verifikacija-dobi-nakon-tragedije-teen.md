@@ -16,6 +16,7 @@ image_alt: "ChatGPT — najava verifikacije dobi (simbolična slika)"
 image_credit: "Metaadvisor.eu (asset)"
 tags: ["ai","chatgpt","openai","safety","age-verification","privacy","teens","policy","metaadvisor"]
 summary: "Nakon tužbe obitelji preminulog 16-godišnjaka, OpenAI planira procjenjivati dob korisnika i po potrebi tražiti identifikacijske isprave. Ako postoji sumnja, korisnik dobiva iskustvo za mlađe od 18 godina."
+categories: ["ai"]
 ---
 
 OpenAI najavljuje **sustav procjene dobi** koji bi trebao prepoznati korisnike **mlađe od 18 godina** i, gdje je potrebno, zatražiti **provjeru identiteta**. Ako sustav **posumnja** u dob, **zadano** će primijeniti **iskustvo za maloljetnike**. Najava dolazi nakon **pravnih koraka obitelji 16-godišnjaka** koji je u travnju preminuo, a mjesecima je razgovarao s chatbotom.

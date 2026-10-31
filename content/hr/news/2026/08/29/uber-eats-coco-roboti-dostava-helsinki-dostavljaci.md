@@ -6,15 +6,16 @@ category: "Technology"
 translationKey: "uber-eats-coco-robots-helsinki-delivery-workers-2026-08-29"
 source: "Uber, Coco Robotics, Wolt, Yle, Reuters, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/Uber-eats-Coco-robots.png"
-featured_image: "/images/companies/Uber-eats-Coco-robots.png"
-image: "/images/companies/Uber-eats-Coco-robots.png"
-thumbnail: "/images/companies/Uber-eats-Coco-robots.png"
+image_url: "/images/companies/Uber-eats-Coco-robots.webp"
+featured_image: "/images/companies/Uber-eats-Coco-robots.webp"
+image: "/images/companies/Uber-eats-Coco-robots.webp"
+thumbnail: "/images/companies/Uber-eats-Coco-robots.webp"
 image_alt: "Uber Eats koristi Coco Robotics robote za dostavu hrane u Helsinkiju"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Uber", "Uber Eats", "Coco Robotics", "roboti", "robotska dostava", "autonomni roboti", "dostavljači", "platformski rad", "automatizacija", "umjetna inteligencija", "AI", "Helsinki", "Finska", "Wolt", "last-mile dostava", "budućnost rada"]
 description: "Uber Eats počeo je u Helsinkiju koristiti autonomne robote američke kompanije Coco Robotics. Finska je prvo tržište EU na kojem Uber Eats kroz svoju aplikaciju nudi robotsku dostavu hrane."
 summary: "Uber Eats u Helsinkiju sada može dio narudžbi dodijeliti Coco robotima umjesto ljudskim dostavljačima. Uber tvrdi da roboti zasad rade uz postojeću mrežu kurira, ali tehnologija otvara novo pitanje: što se događa s platformskim radom kada algoritam više ne bira samo kojeg će čovjeka poslati, nego može odlučiti poslati robota?"
+categories: ["Technology"]
 ---
 
 *Slika je simbolična.*
@@ -72,7 +73,7 @@ Coco ima iskustvo rada u hladnijim uvjetima i svoje AI modele trenira na podacim
 Promjena je posebno zanimljiva zbog načina na koji platforme poput Ubera već godinama koriste algoritme za raspodjelu poslova, ocjenjivanje učinka i upravljanje pristupom aplikaciji. Metaadvisor.eu nedavno je pisao o slučaju u kojem je Uber kažnjen s **825 milijuna eura**, uz pitanja povezana s algoritamskim odlukama i pristupom ljudi radu preko platforme.
 
 <a href="https://metaadvisor.eu/hr/news/uber-kaznjen-825m-algoritam-ugasi-pristup-poslu/" target="_blank" rel="noopener">
-<img src="/images/news/uber-fined-825-millions.png"
+<img src="/images/news/uber-fined-825-millions.webp"
      alt="Uber kažnjen s 825 milijuna eura zbog algoritamskih odluka"
      style="display:block; width:100%; max-width:420px; height:auto; margin:18px auto;">
 </a>

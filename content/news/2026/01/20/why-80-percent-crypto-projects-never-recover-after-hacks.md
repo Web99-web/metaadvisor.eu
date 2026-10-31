@@ -25,6 +25,7 @@ tags:
   - risk
   - investing
 summary: "According to industry security experts, including Immunefi CEO Mitchell Amador, roughly 80% of crypto projects that suffer a major hack never fully recover — not due to code alone, but because of lasting damage to trust, liquidity and operations."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#666; margin-top:-6px;">

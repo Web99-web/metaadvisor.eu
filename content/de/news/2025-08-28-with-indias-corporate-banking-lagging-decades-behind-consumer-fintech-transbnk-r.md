@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lag
 summary: "TransBnk erhält 25 Mio. USD in einer Finanzierungsrunde unter Führung von Bessemer Venture Partners, um das Firmenbankwesen in Indien zu digitalisieren."
 tags: ["ai","Fintech","TransBnk","Indien","Bankwesen"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/transbnk-funding-india.jpg"
+categories: ["ai"]
 ---
 
 Während die Digitalisierung das **Privatkundenbanking in Indien revolutioniert** hat, steckt das Firmenbanking noch in der Vergangenheit – papierbasierte Prozesse, umständliche Systeme und Tabellenkalkulationen dominieren weiterhin. **TransBnk** will diese Lücke schließen und hat dafür in einer von Bessemer Venture Partners angeführten Runde **25 Mio. USD** eingesammelt.

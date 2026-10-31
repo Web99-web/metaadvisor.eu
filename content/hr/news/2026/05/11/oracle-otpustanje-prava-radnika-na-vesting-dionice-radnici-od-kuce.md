@@ -7,14 +7,15 @@ translationKey: "7b4f1d2c9e6a4f54b2a8d6c3ef902026"
 source: "Metaadvisor (TechCrunch, Time, Yahoo Finance)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Oracle-fired-20000.png"
-featured_image: "/images/news/Oracle-fired-20000.png"
-image: "/images/news/Oracle-fired-20000.png"
-thumbnail: "/images/news/Oracle-fired-20000.png"
+image_url: "/images/news/Oracle-fired-20000.webp"
+featured_image: "/images/news/Oracle-fired-20000.webp"
+image: "/images/news/Oracle-fired-20000.webp"
+thumbnail: "/images/news/Oracle-fired-20000.webp"
 image_alt: "Oracle layoffs i kontroverze oko vesting sustava"
 image_credit: "Metaadvisor.eu"
 tags: ["oracle", "oracle otpuštanja", "otkazi", "masovna otpuštanja", "tech industrija", "umjetna inteligencija", "ai", "remote work", "rad od kuće", "vesting", "stjecanje prava na dionice u budućnosti", "rsu", "dioničke kompenzacije", "silicon valley", "data centri", "cloud", "zaposlenici", "radnička prava", "warn act", "oracle layoffs", "metaadvisor"]
 summary: "Nakon masovnih Oracle layoffs otkaza iz ožujka, bivši zaposlenici pokušavaju pregovarati o boljim uvjetima i otvaraju pitanja izgubljenih RSU paketa, remote work modela i vesting sustava."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

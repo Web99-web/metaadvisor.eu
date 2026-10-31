@@ -16,6 +16,7 @@ image_alt: "Bitcoin rudari prelaze na AI zbog gubitaka i troškova energije"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "kripto", "crypto", "rudarenje", "mining", "ai", "umjetna inteligencija", "hashrate", "difficulty", "energija", "nafta", "geopolitika", "tržište", "kriptovalute"]
 summary: "Bitcoin rudari suočavaju se s gubicima do 19.000 USD po BTC-u, što ih prisiljava na prodaju i sve češći prelazak prema AI infrastrukturi kao stabilnijem izvoru prihoda."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

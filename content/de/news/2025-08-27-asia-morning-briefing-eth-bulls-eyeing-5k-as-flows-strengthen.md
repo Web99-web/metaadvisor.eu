@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/27/asia-morning-briefing-e
 summary: "Ethereums Outperformance gegenüber Bitcoin wird durch institutionelle Zuflüsse, neue Altcoin-Narrative und steigende Chancen auf einen 5.000-$-Test gestützt, wobei makroökonomische Daten diese Überzeugung herausfordern könnten."
 tags: ["crypto","ETH","BTC","XRP","CRO","HYPE"]
 image_url: "https://www.coindesk.com/resizer/asia-eth-bulls.jpg"
+categories: ["crypto"]
 ---
 
 Willkommen zum Asia Morning Briefing, einer täglichen Zusammenfassung der wichtigsten Nachrichten während der US-Handelszeiten sowie einem Überblick über Marktbewegungen und Analysen. Einen detaillierten Überblick über die US-Märkte finden Sie im Crypto Daybook Americas von CoinDesk.

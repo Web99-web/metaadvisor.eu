@@ -7,10 +7,10 @@ translationKey: "jp_morgan_stablecoin_parallel_banking_2026"
 source: "CoinDesk"
 source_url: "https://www.coindesk.com/policy/2026/01/13/stablecoin-yield-debate-looks-like-parallel-banking-system-jpmorgan-cfo-says"
 author: "MetaAdvisor.eu"
-image_url: "/images/JP-Morgan-warns-over-stablecoins.png"
-featured_image: "/images/JP-Morgan-warns-over-stablecoins.png"
-image: "/images/JP-Morgan-warns-over-stablecoins.png"
-thumbnail: "/images/JP-Morgan-warns-over-stablecoins.png"
+image_url: "/images/JP-Morgan-warns-over-stablecoins.webp"
+featured_image: "/images/JP-Morgan-warns-over-stablecoins.webp"
+image: "/images/JP-Morgan-warns-over-stablecoins.webp"
+thumbnail: "/images/JP-Morgan-warns-over-stablecoins.webp"
 image_alt: "JP Morgan warns that stablecoin yields resemble a parallel banking system"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "JP Morgan warns that yields on stablecoins resemble a parallel banking system, as banks grow increasingly concerned about losing deposits and control over capital flows."
@@ -22,6 +22,7 @@ tags:
   - crypto
   - regulation
   - finance
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -15,6 +15,7 @@ image_alt: "Bitcoin steigt über 80.000 Dollar durch institutionelle Nachfrage"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "krypto markt", "krypto analyse", "institutionelle investoren", "btc 80000", "altcoins", "ethereum", "solana", "volatilitat", "bitcoin analyse", "krypto trends"]
 summary: "Bitcoin hat die Marke von 80.000 USD überschritten, unterstützt durch starke institutionelle Nachfrage, während geopolitische Spannungen weiterhin für Volatilität sorgen."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

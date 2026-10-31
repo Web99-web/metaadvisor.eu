@@ -9,6 +9,7 @@ summary: "Bruce Liu iz OP_CAT Labs kaže da je Satoshi zamislio Bitcoin kao prog
 tags: ["bitcoin", "crypto", "opcat", "satoshi", "blockchain"]
 image_url: "https://www.coindesk.com/resizer/v2/CYYopcatlabs-btc-2025.jpg?width=1200"
 image_url_small: "https://www.coindesk.com/resizer/v2/CYYopcatlabs-btc-2025.jpg?width=600"
+categories: ["crypto"]
 ---
 
 Bez OP_CAT-a, Bruce Liu kaže da je Bitcoin "koristan kao jumbo jet bez krila" – sposoban za puno više nego što mu se dopušta, ali zaglavljen na zemlji dok Ethereum i Solana lete.

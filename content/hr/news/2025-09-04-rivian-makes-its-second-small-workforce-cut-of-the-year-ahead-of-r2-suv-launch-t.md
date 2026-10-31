@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/04/rivian-makes-its-second-small-wor
 summary: "Tvrtka je već ranije u lipnju otpustila oko 140 radnika u proizvodnji."
 tags: ["rivian", "r2 suv", "otpuštanja", "ev", "električna vozila", "techcrunch"]
 image_url: "https://images.unsplash.com/photo-1627442200497-6ac5270d3c1d"
+categories: ["news"]
 ---
 
 Rivian otpušta oko 150 radnika — drugo manje rezanje osoblja u nekoliko mjeseci — dok se tvrtka priprema za važno lansiranje svog povoljnijeg R2 SUV-a sljedeće godine.  

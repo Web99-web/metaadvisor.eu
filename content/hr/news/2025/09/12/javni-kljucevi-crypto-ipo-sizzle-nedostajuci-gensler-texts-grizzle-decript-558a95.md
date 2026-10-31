@@ -3,7 +3,7 @@ title: "Javni ključevi: Crypto IPO SIZZLE, nedostajući Gensler Texts Grizzle -
 slug: "javni-kljucevi-crypto-ipo-sizzle-nedostajuci-gensler-texts-grizzle-decript-558a95"
 date: 2025-09-12T20:46:08Z
 category: "news"
-translationKey: "e4226116d2efb74815e07b330547d665"
+translationKey: "e4226116d2efb74815e07b330547d665--unpaired-28b0577c3fae"
 source: "Decrypt"
 source_url: "https://decrypt.co/339343/public-keys-gemini-ipo-figure-gensler-texts"
 priority: 97
@@ -11,6 +11,11 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "cryptocurrency", "stocks"]
 our_take: |
   Naše stajalište: Javni ključevi: Crypto IPO Sizzle, nestali Gensler Texts Grizzle Public Keys tjedni je Roundup iz Decrypta koji prati ključne javno trgovačke kripto kompanije.Ključne stvari za gledanje: likvidnost, makro (stope/USD) i regulacija.Ostanite selektivni;Dodajte samo u imena visoke presude.
+categories: ["news"]
+seo_alias_of: "https://metaadvisor.eu/hr/news/javni-kljucevi-crypto-ipo-sizzle-nedostajuci-gensler-texts-grizzle-decript/"
+_build:
+  list: never
+  render: always
 ---
 
 Javni ključevi: Crypto IPO Sizzle, nestali Gensler Texts Grizzle

@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/08/22/ethereum-surges-to-new-
 summary: "The token rose to a fresh record on Coinbase on Friday."
 tags: ["crypto"]
 image: "/news/2025-08-22-ethereum-eth-surges-to-new-all-time-high-amid-likely-september-rate-cut.jpg"
+categories: ["crypto"]
 ---
 
 Ethereum ETH $ 4,749.79 hit a record price of $4,885 on Coinbase on Friday after a speech by Federal Reserve Chair Jerome Powell suggesting interest rate cuts left traders relieved going into the weekend.

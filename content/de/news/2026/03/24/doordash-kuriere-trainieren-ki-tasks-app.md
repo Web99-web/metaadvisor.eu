@@ -7,14 +7,15 @@ translationKey: "doordash-ai-training-couriers-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu Analyse (TechCrunch, Bloomberg)"
 source_url: ""
-image_url: "/images/companies/DoorDach-couriers-ai-training.png"
-featured_image: "/images/companies/DoorDach-couriers-ai-training.png"
-image: "/images/companies/DoorDach-couriers-ai-training.png"
-thumbnail: "/images/companies/DoorDach-couriers-ai-training.png"
+image_url: "/images/companies/DoorDach-couriers-ai-training.webp"
+featured_image: "/images/companies/DoorDach-couriers-ai-training.webp"
+image: "/images/companies/DoorDach-couriers-ai-training.webp"
+thumbnail: "/images/companies/DoorDach-couriers-ai-training.webp"
 image_alt: "DoorDash-Kuriere nehmen Aufgaben zur KI-Trainierung auf"
 image_credit: "MetaAdvisor.eu"
 tags: ["doordash", "ki", "lieferung", "künstliche intelligenz", "gig economy", "ki training", "daten", "robotik", "future tech"]
 summary: "DoorDash startet eine Tasks-App, bei der Kuriere alltägliche Aufgaben wie Geschirrspülen aufnehmen, um KI-Systeme zu trainieren — und damit ein neues Kapitel der 'AI-Gig-Economy' eröffnen."
+categories: ["ai"]
 ---
 
 *Symbolisches Bild.*

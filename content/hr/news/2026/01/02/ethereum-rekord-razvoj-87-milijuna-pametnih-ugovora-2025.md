@@ -15,6 +15,7 @@ image_alt: "Simbolična ilustracija rasta razvoja na Ethereum mreži"
 image_credit: "MetaAdvisor.eu"
 tags: ["ethereum", "eth", "kripto", "crypto", "blockchain", "smart-contracts", "defi", "stablecoin", "tokenizacija"]
 summary: "Ethereum je u četvrtom kvartalu 2025. zabilježio rekordnih 8,7 milijuna novo-deployanih pametnih ugovora, šaljući snažan signal da se razvoj mreže ubrzava unatoč slabijem kretanju cijene ETH-a."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 14px 0;">

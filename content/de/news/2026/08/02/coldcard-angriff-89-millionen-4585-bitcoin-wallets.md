@@ -7,15 +7,16 @@ translationKey: "coldcard-napad-89-milijuna-4585-bitcoin-novcanika-2026-08-02"
 source: "Galaxy Research, Coinkite, CoinDesk, Cointelegraph und CryptoQuant"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/hack/Coldcard-hack-89M.png"
-featured_image: "/images/hack/Coldcard-hack-89M.png"
-image: "/images/hack/Coldcard-hack-89M.png"
-thumbnail: "/images/hack/Coldcard-hack-89M.png"
+image_url: "/images/hack/Coldcard-hack-89M.webp"
+featured_image: "/images/hack/Coldcard-hack-89M.webp"
+image: "/images/hack/Coldcard-hack-89M.webp"
+thumbnail: "/images/hack/Coldcard-hack-89M.webp"
 image_alt: "Der Coldcard-Angriff weitete sich auf 4.585 Bitcoin-Wallets aus und verursachte Verluste von fast 89 Millionen Dollar"
 image_credit: "Metaadvisor.eu – Symbolbild"
 tags: ["Coldcard", "Bitcoin", "Bitcoin-Wallet", "Hardware-Wallet", "Krypto-Hack", "Cybersicherheit", "Seed-Phrase", "privater Schlüssel", "Coldcard Mk3", "Coldcard Mk4", "Bitcoin-Diebstahl", "Self-Custody", "Coinkite", "Galaxy Research", "Krypto-Sicherheit"]
 description: "Der Coldcard-Angriff weitete sich auf 4.585 Bitcoin-Wallets aus. Die geschätzten Verluste stiegen auf 1.367 BTC beziehungsweise fast 89 Millionen Dollar."
 summary: "Der Angriff auf anfällige Seeds, die mit bestimmten Coldcard-Firmwareversionen erzeugt wurden, setzte sich in mehreren Wellen fort. Die Angreifer zielen inzwischen auch auf kleinere Wallets und verteilen die gestohlenen Bitcoin auf mehr Zieladressen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

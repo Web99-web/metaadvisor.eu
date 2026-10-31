@@ -8,6 +8,7 @@ source_url: "https://www.theguardian.com/technology/ng-interactive/2025/aug/28/e
 summary: "Antonio Gracias is part of the growing movement among Silicon Valley’s right wing enamored with the therapeutic and commercial potential of drugs like MDMA."
 tags: ["ai","Elon Musk","Antonio Gracias","MDMA","psychedelics"]
 image_url: "https://i.guim.co.uk/img/media/12345abcd9876543210guardianmdma.jpg"
+categories: ["ai"]
 ---
 
 **Antonio Gracias** has emerged as part of a new Silicon Valley movement—especially among right-wing billionaires—drawn to the **therapeutic and commercial promise of MDMA**.

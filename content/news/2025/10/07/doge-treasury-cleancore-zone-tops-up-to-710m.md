@@ -8,10 +8,10 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/business/2025/10/07/cleancore-s-dogecoin-treasury-tops-710m-tokens-booking-usd20m-gain"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/dogecoin-doge.png"
-featured_image: "/images/dogecoin-doge.png"
-image: "/images/dogecoin-doge.png"
-thumbnail: "/images/dogecoin-doge.png"
+image_url: "/images/dogecoin-doge.webp"
+featured_image: "/images/dogecoin-doge.webp"
+image: "/images/dogecoin-doge.webp"
+thumbnail: "/images/dogecoin-doge.webp"
 image_alt: "Dogecoin (DOGE) — coin and price chart"
 image_credit: "Design: Metaadvisor.eu"
 tags:
@@ -27,6 +27,7 @@ tags:
   - markets
   - institutions
 summary: "CleanCore (ZONE) now holds ~710M DOGE with >$20M in unrealized gains and targets 1B DOGE; the initiative is supported by the Dogecoin Foundation (coordinated via House of Doge)."
+categories: ["news"]
 ---
 
 *Image is symbolic.*

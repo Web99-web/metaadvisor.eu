@@ -7,14 +7,15 @@ translationKey: "97c36a387d97fc0094ec99ddec5bf19e"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/mirae-asset-buy-92-percent-korbit-korea-crypto-exchange"
 author: "Cointelegraph"
-image_url: "/images/Korbit-Mirae-Asset.png"
-featured_image: "/images/Korbit-Mirae-Asset.png"
-image: "/images/Korbit-Mirae-Asset.png"
-thumbnail: "/images/Korbit-Mirae-Asset.png"
+image_url: "/images/Korbit-Mirae-Asset.webp"
+featured_image: "/images/Korbit-Mirae-Asset.webp"
+image: "/images/Korbit-Mirae-Asset.webp"
+thumbnail: "/images/Korbit-Mirae-Asset.webp"
 image_alt: "Mirae Asset preuzima većinski udio u kripto burzi Korbit"
 image_credit: "MetaAdvisor.eu (simbolična ilustracija)"
 tags: ["mirae asset", "korbit", "južna koreja", "kripto burza", "digitalna imovina", "akvizicija", "bitcoin", "kriptovalute", "regulacija", "financijska tržišta"]
 summary: "Južnokorejski financijski div Mirae Asset dogovorio je kupnju 92% udjela u kripto burzi Korbit za 93 milijuna dolara, čime ulazi dublje u sektor digitalne imovine kroz regulirani okvir."
+categories: ["news"]
 ---
 
 *Slika je simbolična.*

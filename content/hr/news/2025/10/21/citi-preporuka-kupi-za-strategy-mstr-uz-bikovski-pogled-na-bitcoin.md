@@ -8,14 +8,15 @@ source: "CoinDesk"
 source_url: "https://www.coindesk.com/markets/2025/10/21/strategy-gets-buy-rating-from-citi-on-bullish-bitcoin-outlook"
 author: "CoinDesk"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Strategy(MSTR).png"
-featured_image: "/images/Strategy(MSTR).png"
-image: "/images/Strategy(MSTR).png"
-thumbnail: "/images/Strategy(MSTR).png"
+image_url: "/images/Strategy(MSTR).webp"
+featured_image: "/images/Strategy(MSTR).webp"
+image: "/images/Strategy(MSTR).webp"
+thumbnail: "/images/Strategy(MSTR).webp"
 image_alt: "Michael Saylor — Strategy (MSTR)"
 image_credit: "Slika je simbolična."
 tags: ["strategy", "mstr", "michael saylor", "bitcoin", "btc", "citi", "analiza", "treasury", "konvertibilni dug", "nav premija", "dionice", "crypto", "kripto"]
 summary: "Citi započinje pokrivanje Strategyja (MSTR) preporukom 'kupi / visok rizik' i ciljem 485 USD, pozicionirajući dionicu kao leverageanu okladu na bitcoin."
+categories: ["crypto"]
 ---
 
 Investicijska banka **Citi** započela je pokrivanje dionice **Strategy (MSTR)** preporukom **kupi / visok rizik** i ciljanom cijenom od **485 USD**, uz obrazloženje da MSTR predstavlja **pojačanu (leverageanu) izloženost** kretanju cijene bitcoina.

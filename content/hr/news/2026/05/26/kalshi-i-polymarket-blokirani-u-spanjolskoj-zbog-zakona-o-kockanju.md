@@ -15,6 +15,7 @@ image_alt: "Zastava Španjolske kao simbol regulatorne blokade prediction market
 image_credit: "Metaadvisor.eu"
 tags: ["crypto", "kripto", "Polymarket", "Kalshi", "prediction markets", "tržišta predviđanja", "Španjolska", "regulacija", "kockanje", "klađenje", "DGOJ", "online klađenje", "kripto regulacija", "Europa"]
 summary: "Španjolske vlasti naredile su blokadu platformi Polymarket i Kalshi jer ih smatraju tržištima predviđanja koja u praksi funkcioniraju kao igre na sreću bez potrebne licence. Slučaj pokazuje da se prediction marketi sve češće nalaze između crypto inovacije, financijskog tržišta i klasičnog zakona o klađenju."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#888; margin-top:0;">Slika je simbolična.</p>

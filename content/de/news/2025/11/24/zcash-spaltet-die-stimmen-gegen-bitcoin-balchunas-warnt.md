@@ -17,6 +17,7 @@ image_credit: "MetaAdvisor AI Graphic"
 tags: ["zcash", "zec", "bitcoin", "btc", "blockchain", "krypto", "privacy", "privacy coin", "zk-technologie", "zero-knowledge", "kryptografie", "winklevoss", "gemini", "marktanalyse"]
 summary: "Zcash gewinnt neue Aufmerksamkeit – Analysten warnen, dass der Coin Bitcoins politische Unterstützung schwächen könnte, vor allem wegen der wachsenden Bedeutung der ZK-Technologie."
 
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

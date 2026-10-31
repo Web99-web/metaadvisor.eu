@@ -8,6 +8,7 @@ source_url: "https://decrypt.co/338344/robinhood-set-to-join-sp-500-as-bitcoin-g
 summary: "Robinhood shares jumped 7% after the crypto-focused fintech was added to the S&P 500."
 tags: ["bitcoin", "crypto", "robinhood", "mstr", "stocks", "sp500"]
 image_url: "/images/robinhood-sp500.jpg"
+categories: ["crypto"]
 ---
 
 **Robinhood (HOOD)** shares surged 7% in after-hours trading following the news that the crypto-focused fintech has been added to the **S&P 500**.  

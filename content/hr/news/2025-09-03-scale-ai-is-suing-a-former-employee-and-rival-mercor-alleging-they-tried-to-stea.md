@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employ
 summary: "Scale AI tuži bivšeg zaposlenika i tvrtku Mercor zbog navodne krađe povjerljivih dokumenata i pokušaja preotimanja najvećih klijenata."
 tags: ["AI", "ScaleAI", "Mercor", "pravni-spor", "startup", "trade-secrets"]
 image_url: "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg"
+categories: ["ai"]
 ---
 
 **Scale AI**, tvrtka koja pomaže tehnološkim kompanijama pripremati podatke za treniranje AI modela, podnijela je tužbu protiv bivšeg zaposlenika Eugenea Linga i konkurentske tvrtke **Mercor**.  

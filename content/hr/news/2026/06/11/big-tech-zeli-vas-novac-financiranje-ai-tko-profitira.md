@@ -15,6 +15,7 @@ image_alt: "Dionice, Big Tech i financiranje AI infrastrukture"
 image_credit: "Metaadvisor.eu"
 tags: ["Big Tech", "AI", "umjetna inteligencija", "Oracle", "Meta", "SpaceX", "IPO", "dionice", "investiranje", "AI infrastruktura", "data centri", "AI troškovi", "capex", "retail investitori", "financijska tržišta", "Metaadvisor"]
 summary: "Big Tech sve više traži novac za financiranje skupe AI infrastrukture. Oracle, Meta i SpaceX pokazuju različite strane iste priče: AI optimizam može podići dionice, ali veliki troškovi, dug, IPO valuacije i pitanje stvarnog profita sve više brinu investitore."
+categories: ["ai"]
 ---
 
 Slika je simbolična.

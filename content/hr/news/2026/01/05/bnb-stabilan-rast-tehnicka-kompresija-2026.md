@@ -22,6 +22,7 @@ tags:
   - layer1
   - blockchain
 summary: "BNB početkom 2026. bilježi umjeren rast cijene, ali tehnička slika pokazuje kompresiju i izostanak jasnog smjera, dok tržište prati nadogradnje BNB Chaina."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

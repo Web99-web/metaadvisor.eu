@@ -15,6 +15,7 @@ image_alt: "Veliki AI podatkovni centar i energetska infrastruktura"
 image_credit: "Free stock image (Pexels/Unsplash) — simbolična ilustracija"
 tags: ["ai", "data centri", "new york", "umjetna inteligencija", "energetska infrastruktura", "regulacija", "radna mjesta", "koncentracija moci", "cloud"]
 summary: "New York razmatra moratorij na nove data centre, otvarajući pitanje koje nadilazi energiju i okoliš: postaje li umjetna inteligencija infrastruktura u vlasništvu nekolicine, dok većina društva gubi svoje mjesto u ekonomiji rada?"
+categories: ["news"]
 ---
 
 <p style="font-size:0.9em; color:#777; margin-top:4px;">

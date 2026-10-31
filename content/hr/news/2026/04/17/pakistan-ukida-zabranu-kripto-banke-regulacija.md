@@ -15,6 +15,7 @@ image_alt: "Bitcoin i kripto regulacija u Pakistanu"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "kripto", "pakistan", "regulacija", "banke", "crypto adoption", "blockchain", "financije"]
 summary: "Pakistan nakon sedam godina ukida zabranu kripta i omogućuje bankama rad s licenciranim kripto tvrtkama, ali uz stroga regulatorna pravila."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

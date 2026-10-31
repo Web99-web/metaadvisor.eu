@@ -6,15 +6,16 @@ category: "Crypto"
 translationKey: "bitcoin-call-options-29-million-82000-2026-08-25"
 source: "CoinDesk, Laevitas, Deribit, ESMA, Metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/BTC-call-options-2.9m.png"
-featured_image: "/images/news/BTC-call-options-2.9m.png"
-image: "/images/news/BTC-call-options-2.9m.png"
-thumbnail: "/images/news/BTC-call-options-2.9m.png"
+image_url: "/images/news/BTC-call-options-2.9m.webp"
+featured_image: "/images/news/BTC-call-options-2.9m.webp"
+image: "/images/news/BTC-call-options-2.9m.webp"
+thumbnail: "/images/news/BTC-call-options-2.9m.webp"
 image_alt: "Bitcoin call opcije vrijedne 2,9 milijuna dolara za proboj BTC-a iznad 82.000 dolara"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["Bitcoin", "BTC", "Bitcoin opcije", "call opcije", "kripto opcije", "BTC opcije", "strike cijena", "premija opcije", "Deribit", "Laevitas", "Bitcoin futures", "kripto derivati", "opcije", "futures", "trgovanje Bitcoinom", "cijena Bitcoina", "volatilnost", "zaštita od pada", "put opcije", "MiFID II", "EU"]
 description: "Jedan ili više tradera platili su oko 2,9 milijuna dolara za 2.000 Bitcoin call opcija sa strikeom od 82.000 dolara. No BTC ne mora nužno prijeći 82.000 dolara da bi trader na opcijama zaradio."
 summary: "Netko je stavio oko 2,9 milijuna dolara na brzi proboj Bitcoina iznad 82.000 dolara, dok ostatak options tržišta istodobno kupuje zaštitu od pada. Što je zapravo kupljeno, zašto opcije umjesto futuresa i kako se na opciji može zaraditi i prije nego što BTC dosegne strike?"
+categories: ["Crypto"]
 ---
 
 *Slika je simbolična.*

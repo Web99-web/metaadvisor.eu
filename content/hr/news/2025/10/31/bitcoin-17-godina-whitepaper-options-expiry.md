@@ -7,14 +7,15 @@ translationKey: "b17a4c93-91c5-4b12-9c47-b5a4e32f02d8"
 source: "Crypto derivatives data (Deribit, CME), povijesni Bitcoin whitepaper"
 source_url: "https://bitcoin.org/bitcoin.pdf"
 author: "Metaadvisor.eu"
-image_url: "/images/bitcoin-17-birthday.png"
+image_url: "/images/bitcoin-17-birthday.webp"
 featured_image: "/bitcoin-17-birthday.png"
-image: "/images/bitcoin-17-birthday.png"
-thumbnail: "/images/bitcoin-17-birthday.png"
+image: "/images/bitcoin-17-birthday.webp"
+thumbnail: "/images/bitcoin-17-birthday.webp"
 image_alt: "Bitcoin logo na tamnoj pozadini — povodom 17. godišnjice whitepapera"
 image_credit: "Metaadvisor.eu — slika je simbolična."
 tags: ["bitcoin","btc","kripto","crypto","options","derivati","whitepaper","satoshi","blockchain","halving","open interest","volatilnost"]
 summary: "Bitcoin obilježava 17 godina od objave whitepapera, dok na tržištu danas istječu opcije vrijedne 13,4 milijarde USD — događaj koji može pojačati kratkoročnu volatilnost."
+categories: ["crypto"]
 ---
 
 Bitcoin danas obilježava **17 godina od objave whitepapera (31.10.2008.)**, temeljnog dokumenta koji je postavio strukturu prve decentralizirane digitalne valute. Istog dana, na tržištu derivata istječe oko **13,4 mlrd USD vrijednosti opcijskih ugovora**, što povećava izglednost kratkoročnih pomaka u cijeni.

@@ -15,6 +15,7 @@ image_alt: "Jerome Powell na tiskovnoj konferenciji Feda"
 image_credit: "US Federal Government (public domain), via Wikimedia Commons"
 tags: ["fomc","fed","powell","kamatne stope","usd","realni prinosi","bitcoin","crypto","likvidnost","metaadvisor"]
 summary: "U srijedu 17.9. Fed objavljuje odluku u 18:00 UTC (14:00 ET), a Powell izlazi pred novinare u 18:30 UTC. Tržište već računa na rez; donosimo scenarije i check-listu za kripto."
+categories: ["crypto"]
 ---
 
 **Kratko:** U **srijedu, 17. rujna**, FOMC objavljuje odluku o kamatama u **18:00 UTC (14:00 ET)**, a **tiskovna konferencija** počinje oko **18:30 UTC (14:30 ET)**. To je događaj koji pomiče **USD, realne prinose i likvidnost** — zato kripto često reagira prekomjerno. Konsenzus je **rez od 25 bps**, ali **ton** i **projekcije (dot-plot)** često nose veći signal od samog poteza.

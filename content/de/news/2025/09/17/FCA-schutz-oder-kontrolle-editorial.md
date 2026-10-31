@@ -15,6 +15,7 @@ image_alt: "Finanzdistrikt London — Regulierung & Krypto"
 image_credit: "Metaadvisor.eu (Asset)"
 tags: ["crypto","uk","fca","regulation","policy","editorial","regulatory-capture","self-custody","metaadvisor"]
 summary: "Die FCA verspricht ‘maßgeschneiderte’ Regeln. Ist das echter Verbraucherschutz – oder nur elegant verpackte Kontrolle? Unsere Redaktion ordnet ein."
+categories: ["crypto"]
 ---
 
 London wählt gerade sanfte Worte: **kein Copy-Paste aus TradFi, sondern ‘Tailoring’ für Krypto**. Das klingt vernünftig. Doch dahinter steht die alte Frage: **Wer wird Gatekeeper – und zu welchen Bedingungen?**

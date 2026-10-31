@@ -6,15 +6,16 @@ category: "crypto"
 translationKey: "crypto-market-xrp-bitcoin-tether-solana-2026-08-14"
 source: "CoinDesk, Cointelegraph, Tether, KPMG, Solana"
 author: "Metaadvisor.eu"
-image_url: "/images/market-crypto-daily.png"
-featured_image: "/images/market-crypto-daily.png"
-image: "/images/market-crypto-daily.png"
-thumbnail: "/images/market-crypto-daily.png"
+image_url: "/images/market-crypto-daily.webp"
+featured_image: "/images/market-crypto-daily.webp"
+image: "/images/market-crypto-daily.webp"
+thumbnail: "/images/market-crypto-daily.webp"
 image_alt: "Pregled crypto tržišta s Bitcoinom, XRP-om, Tetherom i Solanom"
 image_credit: "Metaadvisor.eu – slika je simbolična"
 tags: ["crypto", "Bitcoin", "BTC", "XRP", "Tether", "USDT", "Solana", "SOL", "KPMG", "crypto tržište", "ETF", "SEC"]
 description: "Bitcoin se ponovno spustio ispod 63.000 dolara, XRP se približio granici od jednog dolara, dok tržište istodobno prati Tetherov prvi puni audit i moguće promjene Solanine tokenomike."
 summary: "Crypto tržište 14. kolovoza ponovno je pod pritiskom zbog regulatornih odgoda, ETF odljeva i viših američkih prinosa. Istodobno Tether objavljuje prvi puni audit, a Solana razmatra značajne promjene emisije SOL-a."
+categories: ["crypto"]
 ---
 
 *Slika je simbolična.*

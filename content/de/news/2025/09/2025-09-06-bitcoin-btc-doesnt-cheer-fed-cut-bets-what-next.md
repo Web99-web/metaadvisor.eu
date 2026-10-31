@@ -8,6 +8,7 @@ source_url: "https://www.coindesk.com/markets/2025/09/06/bitcoin-doesn-t-cheer-f
 summary: "Der US-Arbeitsmarktbericht zeigte im August nur 22.000 neue Stellen, weit unter den Erwartungen, und erhöhte die Wahrscheinlichkeit einer Zinssenkung der Fed."
 tags: ["bitcoin", "btc", "krypto", "fed", "geldpolitik", "arbeitsmarkt", "usa"]
 image_url: "/images/coin btc1.jpg"
+categories: ["krypto"]
 ---
 
 Schlechte Nachrichten blieben in den letzten 24 Stunden schlechte Nachrichten. Der schwache US-Arbeitsmarktbericht vom Freitag verstärkte die Wetten auf deutliche Zinssenkungen der Fed, doch Bitcoin (BTC) bei 110.617,69 USD reagierte nicht positiv.

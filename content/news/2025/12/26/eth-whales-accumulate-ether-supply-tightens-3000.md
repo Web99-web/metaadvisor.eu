@@ -15,6 +15,7 @@ image_alt: "Ethereum whale accumulation near $3000"
 image_credit: "MetaAdvisor"
 tags: ["ethereum", "eth", "crypto", "whales", "on-chain", "defi", "staking", "market"]
 summary: "Large investors are accumulating Ether while exchange supply continues to decline. Despite ETH trading below the $3,000 level, on-chain data suggests growing structural pressure in the market."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 12px 0;">

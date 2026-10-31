@@ -14,6 +14,7 @@ image_alt: "Why exchanges close shorts early"
 image_credit: "Metaadvisor.eu (illustrative)"
 tags: ["crypto","trading","adl","short","exchange","risk-management","auto-deleveraging","liquidation","market-crash","phantom"]
 summary: "Why would an exchange close your short while it’s still profitable during a crash? Here’s how Auto-Deleveraging (ADL) works."
+categories: ["crypto"]
 ---
 
 ## What happened

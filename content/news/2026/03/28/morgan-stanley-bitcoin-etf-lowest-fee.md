@@ -7,14 +7,15 @@ translationKey: "7265f0603c56e55bf16fc2948b5e04c2"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (CoinDesk, SEC data)"
 source_url: ""
-image_url: "/images/Banks-move-into-crypto.png"
-featured_image: "/images/Banks-move-into-crypto.png"
-image: "/images/Banks-move-into-crypto.png"
-thumbnail: "/images/Banks-move-into-crypto.png"
+image_url: "/images/Banks-move-into-crypto.webp"
+featured_image: "/images/Banks-move-into-crypto.webp"
+image: "/images/Banks-move-into-crypto.webp"
+thumbnail: "/images/Banks-move-into-crypto.webp"
 image_alt: "Major banks entering crypto through Bitcoin ETFs"
 image_credit: "MetaAdvisor.eu"
 tags: ["bitcoin", "btc", "etf", "morgan stanley", "bank", "blackrock", "grayscale", "crypto", "investing", "finance"]
 summary: "One of the largest U.S. investment banks, Morgan Stanley, plans a Bitcoin ETF with a 0.14% fee — potentially triggering a new wave of competition."
+categories: ["crypto"]
 ---
 
 *The image is symbolic.*

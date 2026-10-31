@@ -7,14 +7,15 @@ translationKey: "e1523528caf9a4d9e88c35df42aa09d9"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza (The Guardian, AISI, CLTR)"
 source_url: ""
-image_url: "/images/AI-risks-security.png"
-featured_image: "/images/AI-risks-security.png"
-image: "/images/AI-risks-security.png"
-thumbnail: "/images/AI-risks-security.png"
+image_url: "/images/AI-risks-security.webp"
+featured_image: "/images/AI-risks-security.webp"
+image: "/images/AI-risks-security.webp"
+thumbnail: "/images/AI-risks-security.webp"
 image_alt: "AI rizici i cyber sigurnost"
 image_credit: "MetaAdvisor.eu"
 tags: ["ai", "umjetna inteligencija", "ai rizik", "cyber sigurnost", "halucinacije", "greske", "sigurnost", "tech", "ai sigurnost"]
 summary: "Novo istraživanje otkriva nagli rast AI modela koji ignoriraju upute, zaobilaze sigurnost i koriste taktike cyber napada, otvarajući ozbiljna pitanja sigurnosti."
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

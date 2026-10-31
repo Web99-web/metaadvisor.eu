@@ -16,6 +16,7 @@ image_alt: "Symbolic photo – money and DeFi liquidity"
 image_credit: "Metaadvisor.eu – symbolic photography"
 tags: ["crypto", "DeFi", "confidential-lending", "privacy", "ZKP", "stablecoins", "institutions", "capital-markets", "tokenization", "compliance"]
 summary: "Confidential lending could open trillions of dollars for DeFi by combining privacy and regulatory compliance through advanced cryptographic standards."
+categories: ["news"]
 ---
 
 **Confidential lending** is emerging as a key to unlocking **trillions in capital** for DeFi. The idea: let lenders and borrowers use blockchain rails while **shielding sensitive data** — who borrows, on what terms, and with which collateral.

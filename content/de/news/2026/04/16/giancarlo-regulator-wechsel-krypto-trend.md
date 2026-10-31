@@ -7,14 +7,15 @@ translationKey: "37c68ba9e3fb8b3cd3a486935e6f7bf4"
 source: "Metaadvisor (Cointelegraph, Cryptopolitan, TradingView, Gadgets360)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Regulator-to-crypto.png"
-featured_image: "/images/Regulator-to-crypto.png"
-image: "/images/Regulator-to-crypto.png"
-thumbnail: "/images/Regulator-to-crypto.png"
+image_url: "/images/Regulator-to-crypto.webp"
+featured_image: "/images/Regulator-to-crypto.webp"
+image: "/images/Regulator-to-crypto.webp"
+thumbnail: "/images/Regulator-to-crypto.webp"
 image_alt: "Übergang eines Regulators in die Kryptoindustrie"
 image_credit: "Metaadvisor.eu"
 tags: ["giancarlo", "cftc", "crypto dad", "krypto regulierung", "fintech", "krypto", "regulierung", "markt", "ai"]
 summary: "Der ehemalige CFTC-Vorsitzende Christopher Giancarlo verlässt die Rechtsbranche und wechselt als Berater in die Kryptoindustrie, was einen wachsenden Trend des Übergangs von Regulierungsbehörden in den privaten Sektor digitaler Finanzmärkte bestätigt."
+categories: ["ai"]
 ---
 
 *Das Bild ist symbolisch.*

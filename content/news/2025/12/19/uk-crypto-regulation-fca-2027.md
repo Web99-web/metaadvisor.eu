@@ -15,6 +15,7 @@ image_alt: "UK FCA crypto regulation roadmap to 2027"
 image_credit: "Public domain / illustrative"
 tags: ["uk","fca","crypto","regulation","defi","staking","exchanges","law","finance"]
 summary: "The UK’s financial regulator FCA launches a broad consultation that could fully reshape how crypto markets operate by 2027."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 18px 0;">

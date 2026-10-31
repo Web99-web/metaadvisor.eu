@@ -8,6 +8,7 @@ source_url: "https://metaadvisor.eu/"
 summary: "CIMG Inc. raised $55M via equity issuance to acquire 500 BTC, joining firms like MicroStrategy and Metaplanet in expanding corporate Bitcoin reserves."
 tags: ["bitcoin", "BTC", "crypto", "treasury", "corporate", "investment"]
 image_url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
+categories: ["crypto"]
 ---
 
 **CIMG Inc.** has raised **$55 million** through a stock issuance, allocating the funds to purchase **500 Bitcoin (BTC)**. The move underscores a growing trend of corporations adding crypto directly to their balance sheets.

@@ -9,6 +9,7 @@ summary: "Ein Mann aus Florida, bereits zu 47 Jahren Haft verurteilt, erhielt ei
 tags: ["bitcoin", "crypto"]
 image_url: "https://cdn.decrypt.co/optimized/1200/webp/wp-content/uploads/2025/08/handcuffs-prison-gID_7.jpg"
 image: "https://cdn.decrypt.co/optimized/1200/webp/wp-content/uploads/2025/08/handcuffs-prison-gID_7.jpg"
+categories: ["crypto"]
 ---
 
 Ein Mann aus Florida, der bereits eine 47-jährige Haftstrafe wegen organisierter, gewaltsamer Überfälle auf Krypto-Besitzer verbüßt, wurde zu einer weiteren Strafe verurteilt, nachdem er einen Zeugen attackiert hatte, wie das US-Justizministerium bekanntgab.  

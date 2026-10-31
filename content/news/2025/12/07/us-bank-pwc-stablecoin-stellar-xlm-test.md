@@ -7,14 +7,15 @@ translationKey: "us_bank_pwc_stablecoin_stellar_xlm_07122025"
 source: "Stellar Development Foundation, Bloomberg"
 source_url: "https://stellar.org"
 author: "Metaadvisor.eu – analysis"
-image_url: "/images/banks-testing-stablecoins-xlm.png"
-featured_image: "/images/banks-testing-stablecoins-xlm.png"
-image: "/images/banks-testing-stablecoins-xlm.png"
-thumbnail: "/images/banks-testing-stablecoins-xlm.png"
+image_url: "/images/banks-testing-stablecoins-xlm.webp"
+featured_image: "/images/banks-testing-stablecoins-xlm.webp"
+image: "/images/banks-testing-stablecoins-xlm.webp"
+thumbnail: "/images/banks-testing-stablecoins-xlm.webp"
 image_alt: "Banks testing stablecoins on the Stellar XLM blockchain"
 image_credit: "MetaAdvisor AI-generated"
 tags: ["crypto","stablecoin","stellar","xlm","us bank","pwc","blockchain","banks","finance","digital dollar","technology","analysis","crypto news"]
 summary: "U.S. Bank and PwC are testing a bank-issued stablecoin on the Stellar (XLM) blockchain — a clear sign that traditional finance is embracing digital currencies, but strictly on its own terms."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

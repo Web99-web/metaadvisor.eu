@@ -7,10 +7,10 @@ translationKey: "pepe_growth_market_jan2026"
 source: "MetaAdvisor Analyse"
 source_url: "https://metaadvisor.eu"
 author: "MetaAdvisor.eu"
-image_url: "/images/PEPE-up1.png"
-featured_image: "/images/PEPE-up1.png"
-image: "/images/PEPE-up1.png"
-thumbnail: "/images/PEPE-up1.png"
+image_url: "/images/PEPE-up1.webp"
+featured_image: "/images/PEPE-up1.webp"
+image: "/images/PEPE-up1.webp"
+thumbnail: "/images/PEPE-up1.webp"
 image_alt: "Vergleich des wöchentlichen Kursanstiegs von PEPE im Verhältnis zum restlichen Kryptomarkt"
 image_credit: "MetaAdvisor / symbolische Illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - holder
   - ethereum
 summary: "Während sich der Kryptomarkt zu Beginn des Jahres 2026 langsam erholt, verzeichnet PEPE einen deutlich stärkeren Kursanstieg als die meisten großen Coins und bestätigt damit sein typisches Verhalten in frühen Marktphasen."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:20px 0 16px 0;">

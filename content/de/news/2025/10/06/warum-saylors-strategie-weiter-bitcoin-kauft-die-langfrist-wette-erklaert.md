@@ -16,6 +16,7 @@ image_alt: "Michael Saylor — langfristige Bitcoin-Strategie"
 image_credit: "Metaadvisor.eu — symbolisches Foto"
 tags: ["crypto", "bitcoin", "Michael Saylor", "MicroStrategy", "Treasury", "DCA", "Volatilität", "ETF", "Langfrist", "Risiko", "Wandelanleihen", "Bilanz", "Price-Discovery"]
 summary: "Michael Saylor skizziert, warum seine Strategie weiterhin BTC akkumuliert: langfristiger Bilanzschutz, diszipliniertes DCA, Kapitalmarkt-Finanzierung und die These, dass Bitcoin Inflation über Zyklen schlägt."
+categories: ["crypto"]
 ---
 
 **Warum kontinuierlich BTC kaufen?**  

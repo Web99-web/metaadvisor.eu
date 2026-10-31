@@ -15,6 +15,7 @@ image_alt: "Atlas AI browser — security risks"
 image_credit: "Image is symbolic."
 tags: ["Atlas", "ChatGPT", "AI browser", "security", "security issue", "vulnerability", "prompt injection", "clipboard", "browser", "agent mode"]
 summary: "Atlas is a new AI browser powered by ChatGPT. It introduces an agent mode but also opens a possible security issue. Here are the risks and how to protect yourself."
+categories: ["ai"]
 ---
 
 **What’s the story?**

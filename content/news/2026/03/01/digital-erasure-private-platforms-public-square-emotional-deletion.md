@@ -7,14 +7,15 @@ translationKey: "digital-public-square-emotional-erasure-2026"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
-image_url: "/images/Social-networking-erased-destroyed.png"
-featured_image: "/images/Social-networking-erased-destroyed.png"
-image: "/images/Social-networking-erased-destroyed.png"
-thumbnail: "/images/Social-networking-erased-destroyed.png"
+image_url: "/images/Social-networking-erased-destroyed.webp"
+featured_image: "/images/Social-networking-erased-destroyed.webp"
+image: "/images/Social-networking-erased-destroyed.webp"
+thumbnail: "/images/Social-networking-erased-destroyed.webp"
 image_alt: "Emotionally distressed young people symbolically representing the consequences of digital deletion from social networks"
 image_credit: "Metaadvisor.eu"
 tags: ["digital identity", "AI moderation", "Digital Services Act", "social networks", "algorithms", "censorship", "online communities", "psychological impact", "freedom of speech", "digital public square"]
 summary: "In recent times, digital communities increasingly discuss long-term users who suddenly disappeared due to AI moderation. What does it mean when private platforms become the public square – and what is the emotional cost of digital erasure?"
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

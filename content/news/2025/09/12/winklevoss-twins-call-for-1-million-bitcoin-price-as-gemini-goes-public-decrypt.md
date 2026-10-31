@@ -11,6 +11,7 @@ image_url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 tags: ["crypto", "bitcoin", "cryptocurrency", "btc", "meta", "stocks"]
 our_take: |
   Our view: Winklevoss Twins Call for $1 Million Bitcoin Price as Gemini Goes Public Crypto entrepreneurs Tyler and Cameron Winklevossâ€”the founders of the newly public crypto exchange, Geminiâ€”have predicted that Bitcoin will hit… Key things to watch: liquidity, macro (rates/USD) and regulation. Stay selective; add only in high-conviction names.
+categories: ["news"]
 ---
 
 Winklevoss Twins Call for $1 Million Bitcoin Price as Gemini Goes Public

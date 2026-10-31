@@ -8,6 +8,7 @@ source_url: "https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterpri
 summary: "Maisa AI is built on the premise that enterprise automation requires accountable AI agents, not opaque black boxes."
 tags: ["ai","MaisaAI","automation","enterprise","Creandum"]
 image_url: "https://techcrunch.com/wp-content/uploads/2025/08/maisa-ai-funding.jpg"
+categories: ["ai"]
 ---
 
 A recent MIT NANDA report found that **95% of generative AI pilots in enterprises are failing**. Rather than abandoning the technology, leading organizations are now exploring **agentic AI systems** that can learn and remain supervised.

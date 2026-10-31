@@ -7,14 +7,15 @@ translationKey: "google-ai-mode-side-by-side-2026"
 source: "Metaadvisor (TechCrunch, Google blog)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Google-AI-overviews.png"
-featured_image: "/images/Google-AI-overviews.png"
-image: "/images/Google-AI-overviews.png"
-thumbnail: "/images/Google-AI-overviews.png"
+image_url: "/images/Google-AI-overviews.webp"
+featured_image: "/images/Google-AI-overviews.webp"
+image: "/images/Google-AI-overviews.webp"
+thumbnail: "/images/Google-AI-overviews.webp"
 image_alt: "Google AI Mode side-by-side pretraživanje"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "google", "search", "chrome", "tech", "internet", "seo"]
 summary: "Google uvodi AI Mode koji omogućuje pregled weba uz AI asistenta u stvarnom vremenu. Što to znači za korisnike i budućnost interneta?"
+categories: ["ai"]
 ---
 
 *Slika je simbolična.*

@@ -7,10 +7,10 @@ translationKey: "119b463174ae13a9884f64880eb25287"
 source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/trust-wallet-s-7m-hack-shows-where-crypto-friendly-smes-may-be-vulnerable"
 author: "MetaAdvisor.eu"
-image_url: "/images/TrustWallet-hacked.png"
-featured_image: "/images/TrustWallet-hacked.png"
-image: "/images/TrustWallet-hacked.png"
-thumbnail: "/images/TrustWallet-hacked.png"
+image_url: "/images/TrustWallet-hacked.webp"
+featured_image: "/images/TrustWallet-hacked.webp"
+image: "/images/TrustWallet-hacked.webp"
+thumbnail: "/images/TrustWallet-hacked.webp"
 image_alt: "Trust Wallet hack and security risks for crypto-friendly businesses"
 image_credit: "MetaAdvisor / symbolic illustration"
 tags:
@@ -23,6 +23,7 @@ tags:
   - hot-wallet
   - browser-extension
 summary: "The December 2025 Trust Wallet hack, which resulted in losses of around $7 million, exposed critical security vulnerabilities affecting crypto-friendly businesses, from compromised browser extensions to weak verification processes and heavy reliance on hot wallets."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

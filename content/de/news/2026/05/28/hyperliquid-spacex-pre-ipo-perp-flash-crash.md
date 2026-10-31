@@ -7,14 +7,15 @@ translationKey: "92509de4a8c447e7cd6ca94381a17324"
 source: "Metaadvisor (CoinDesk, Forbes, Reuters, Barron's)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
-featured_image: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
-image: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
-thumbnail: "/images/companies/SpaceX-preIPO-Hyperliquid.png"
+image_url: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
+featured_image: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
+image: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
+thumbnail: "/images/companies/SpaceX-preIPO-Hyperliquid.webp"
 image_alt: "SpaceX Pre-IPO synthetischer Perpetual Contract auf Hyperliquid und Flash-Crash-Risiko"
 image_credit: "Metaadvisor.eu"
 tags: ["hyperliquid", "spacex", "spacex perp", "pre-ipo", "synthetischer perp", "perpetual contract", "flash crash", "liquidationen", "leverage", "hebel", "margin", "retail trading", "defi", "crypto", "krypto", "bitcoin", "btc", "ethereum", "eth", "iran", "usa", "geopolitisches risiko", "risk-off", "markt", "liquidität", "elon musk", "private unternehmen", "trading", "futures", "derivate"]
 summary: "Der synthetische SpaceX Pre-IPO Perpetual Contract auf Hyperliquid fiel in einem kurzen Flash Crash um fast 45% und liquidierte mehr als 400 Nutzer. Der Fall zeigt, wie gefährlich die Kombination aus Pre-IPO-Hype, Hebel, dünner Liquidität und breiterem Risk-off-Sentiment wegen geopolitischer Spannungen werden kann."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

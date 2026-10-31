@@ -7,14 +7,15 @@ translationKey: "89c03361e94bd809d118cb696d3dc835"
 source: "The Guardian Tech"
 source_url: "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study"
 author: "MetaAdvisor.eu"
-image_url: "/images/Google-AI-overviews.png"
-featured_image: "/images/Google-AI-overviews.png"
-image: "/images/Google-AI-overviews.png"
-thumbnail: "/images/Google-AI-overviews.png"
+image_url: "/images/Google-AI-overviews.webp"
+featured_image: "/images/Google-AI-overviews.webp"
+image: "/images/Google-AI-overviews.webp"
+thumbnail: "/images/Google-AI-overviews.webp"
 image_alt: "Illustration of Google search results with AI-generated information"
 image_credit: "MetaAdvisor / symbolic illustration"
 summary: "A new study shows that Google’s AI tool cites YouTube more often than medical institutions when answering health-related queries. Experts warn this may create a false sense of authority and increase the risk of health misinformation."
 tags: ["google", "ai", "artificial intelligence", "germany", "health", "youtube", "search", "ai tools", "medical information", "technology", "digital health"]
+categories: ["ai"]
 ---
 
 <p style="font-size:0.85em; color:#666;">

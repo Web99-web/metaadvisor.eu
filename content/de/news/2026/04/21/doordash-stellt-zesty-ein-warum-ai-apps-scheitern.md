@@ -7,14 +7,15 @@ translationKey: "doordash-zesty-ai-apps-problem"
 source: "Metaadvisor (TechCrunch, Business Insider, Bloomberg)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/AI-apps-money.png"
-featured_image: "/images/news/AI-apps-money.png"
-image: "/images/news/AI-apps-money.png"
-thumbnail: "/images/news/AI-apps-money.png"
+image_url: "/images/news/AI-apps-money.webp"
+featured_image: "/images/news/AI-apps-money.webp"
+image: "/images/news/AI-apps-money.webp"
+thumbnail: "/images/news/AI-apps-money.webp"
 image_alt: "AI-Apps und das Problem zu vieler Anwendungen auf dem Smartphone"
 image_credit: "Metaadvisor.eu"
 tags: ["ai", "doordash", "zesty", "apps", "startup", "tech", "product", "ux", "platform", "discovery"]
 summary: "DoorDash hat Zesty nur wenige Monate nach dem Launch eingestellt – doch das Problem war nicht die AI, sondern etwas Grundsätzlicheres: Nutzer wollen keine neuen Apps mehr."
+categories: ["ai"]
 ---
 
 *Bild ist symbolisch.*

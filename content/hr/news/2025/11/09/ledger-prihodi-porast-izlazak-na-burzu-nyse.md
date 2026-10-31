@@ -15,6 +15,7 @@ image_alt: "Ledger crypto hardware wallet"
 image_credit: "Metaadvisor.eu"
 tags: ["ledger", "crypto", "security", "wallet", "nyse", "hardware"]
 summary: "Francuski proizvođač hardverskih novčanika Ledger planira izlazak na NYSE nakon rekordnog rasta prihoda i porasta hakiranja, dok potražnja za sigurnim 'cold storage' rješenjima raste diljem svijeta."
+categories: ["news"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

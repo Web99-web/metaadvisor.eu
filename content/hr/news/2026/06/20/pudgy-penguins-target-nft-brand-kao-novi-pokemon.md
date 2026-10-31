@@ -7,14 +7,15 @@ translationKey: "pudgy-penguins-target-trading-cards-nft-brand-pokemon-2026-06-2
 source: "Cointelegraph, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
-featured_image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
-image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
-thumbnail: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
+image_url: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
+featured_image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
+image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
+thumbnail: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
 image_alt: "Pudgy Penguins from NFTs to trading cards"
 image_credit: "Metaadvisor.eu"
 tags: ["Pudgy Penguins", "PENGU", "NFT", "NFT kolekcija", "trading cards", "Target", "Walmart", "Web3", "Web3 gaming", "Pudgy World", "Ethereum", "NFT brand", "kolekcionarske kartice", "crypto", "kripto", "blockchain", "digitalna imovina", "Moonbirds", "Orange Cap Games", "consumer brand", "mainstream retail", "maloprodaja", "Pokémon", "gaming", "licenciranje", "Metaadvisor"]
 summary: "Pudgy Penguins širi svoju Vibes Series 3 igru s karticama u Target trgovine diljem SAD-a. Projekt koji je krenuo kao NFT kolekcija sada pokušava postati mainstream brand kroz kartice, igračke, igre i fizičke proizvode."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Slika je simbolična.</em></p>
@@ -54,7 +55,7 @@ Ovaj potez s Target karticama nadovezuje se na raniju strategiju projekta. Pudgy
   <a href="https://metaadvisor.eu/hr/news/pudgy-penguins-igra-web3-gaming-bez-kripta/"
      target="_blank"
      rel="noopener">
-    <img src="/images/news/Pudgy-Penguins-game-launched.png"
+    <img src="/images/news/Pudgy-Penguins-game-launched.webp"
          alt="Pudgy Penguins lansirao svoju igru – Web3 projekt koji pokušava izgledati kao obična igra"
          style="max-width:520px; width:85%; height:auto; border-radius:12px;">
   </a>

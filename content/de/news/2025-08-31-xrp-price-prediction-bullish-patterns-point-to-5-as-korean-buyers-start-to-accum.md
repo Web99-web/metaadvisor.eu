@@ -9,6 +9,7 @@ summary: "Der Token fiel zwischen dem 28. und 29. August von $3,02 auf $2,89 bei
 tags: ["xrp", "crypto"]
 image_url: "https://www.coindesk.com/resizer/v2/xrp-bullish-patterns-2025.jpg?auto=format&width=1200"
 image: "https://www.coindesk.com/resizer/v2/xrp-bullish-patterns-2025.jpg?auto=format&width=1200"
+categories: ["news"]
 ---
 
 XRP rückte ins Rampenlicht der Analysten, nachdem der Token zwischen dem **28. und 29. August von $3,02 auf $2,89** fiel – begleitet von stark erhöhten Handelsvolumina. Anschließend stabilisierte er sich im Unterstützungsbereich von **$2,83–$2,89**.  

@@ -15,6 +15,7 @@ image_alt: "Aave und Stable Finance — symbolische Illustration"
 image_credit: "Bild ist symbolisch."
 tags: ["crypto","aave","stablecoins","defi","kollateral","liquidation","anlage","institutionen","consumer defi"]
 summary: "Aave übernimmt Stable Finance, um Consumer-DeFi-Produkte zu beschleunigen. Der Einbruch am 10.10. zeigt zugleich, wie wichtig das Verständnis von Kollateral und Liquidationsrisiken bleibt."
+categories: ["news"]
 ---
 
 Aave Labs, das Team hinter einem der führenden DeFi-Protokolle, hat die Übernahme von **Stable Finance** bekanntgegeben, um den **Consumer-DeFi-Bereich** auszubauen — Produkte für den Alltag: Sparen in Stablecoins, Zahlungen, stabile Renditen, mit einem UX, das eher an Fintech erinnert als an Krypto-Terminals.

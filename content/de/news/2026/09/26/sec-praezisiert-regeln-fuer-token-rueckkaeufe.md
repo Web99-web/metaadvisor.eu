@@ -16,6 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["SEC", "Token-Rückkauf", "Krypto-Regulierung", "DeFi", "Token", "Howey-Test", "HYPE", "JUP", "AAVE", "PUMP"]
 description: "Die Division of Corporation Finance der SEC hat erläutert, wie sie Token-Rückkäufe, die Entwicklung funktionaler Krypto-Netzwerke und relevante Aktivitäten im Rahmen des Howey-Tests betrachtet."
 summary: "Der SEC-Stab erklärte, dass bei einem bereits funktionalen Krypto-System die bloße Ankündigung eines Rückkaufprogramms für einen Non-Security-Token kein Versprechen wesentlicher unternehmerischer Leistungen darstellt. Bei noch nicht funktionalen Netzwerken kann die regulatorische Analyse anders ausfallen."
+categories: ["news"]
 ---
 
 *Das Bild ist symbolisch.*

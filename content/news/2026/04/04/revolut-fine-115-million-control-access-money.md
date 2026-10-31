@@ -7,12 +7,13 @@ translationKey: "c9e7a1f4d2b84b7a9e5c3f1a8d6b2c4e"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analysis (regulatory sources, media)"
 source_url: ""
-image_url: "/images/news/Revolut-fined-in-Italy.png"
-featured_image: "/images/news/Revolut-fined-in-Italy.png"
+image_url: "/images/news/Revolut-fined-in-Italy.webp"
+featured_image: "/images/news/Revolut-fined-in-Italy.webp"
 image_alt: "Revolut fined Italy account restrictions"
 image_credit: "Illustration"
 tags: ["revolut","fintech","banking","account restriction","digital control","ai moderation"]
 summary: "The Revolut fine in Italy raises a bigger question: who controls access to money today—and what happens when that access disappears?"
+categories: ["fintech"]
 ---
 
 *The image is symbolic.*

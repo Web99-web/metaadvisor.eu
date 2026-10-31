@@ -7,15 +7,16 @@ translationKey: "rusija-pavel-durov-lista-trazenih-2026-07-29"
 source: "Interfax, Reuters, Cointelegraph und Telegram"
 source_url: "https://metaadvisor.eu"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Pavel-Durov-Russia-wanted-list.png"
-featured_image: "/images/news/Pavel-Durov-Russia-wanted-list.png"
-image: "/images/news/Pavel-Durov-Russia-wanted-list.png"
-thumbnail: "/images/news/Pavel-Durov-Russia-wanted-list.png"
+image_url: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
+featured_image: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
+image: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
+thumbnail: "/images/news/Pavel-Durov-Russia-wanted-list.webp"
 image_alt: "Pavel Durov auf der russischen Fahndungsliste"
 image_credit: "Metaadvisor.eu"
 tags: ["Pavel Durov", "Telegram", "Russland", "FSB", "internationale Fahndung", "Fahndungsliste", "Terrorismus", "Interpol", "Red Notice", "Privatsphäre", "Meinungsfreiheit", "Frankreich"]
 description: "Der russische FSB beschuldigt Telegram-Gründer Pavel Durov der mutmaßlichen Unterstützung terroristischer Aktivitäten und hat ihn nach eigenen Angaben international zur Fahndung ausgeschrieben."
 summary: "Russland hat eine internationale Fahndung nach Pavel Durov eingeleitet. Eine Red Notice von Interpol ist bislang jedoch nicht bestätigt."
+categories: ["news"]
 ---
 
 # Russland setzt Pavel Durov auf Fahndungsliste
@@ -82,7 +83,7 @@ Die neue russische Beschuldigung folgt nur etwa zwei Wochen, nachdem die Telegra
      rel="noopener"
      style="display: inline-block;">
     <img
-      src="/images/news/Telegram-t.me.png"
+      src="/images/news/Telegram-t.me.webp"
       alt="Telegrams Domain t.me ist aus dem globalen DNS verschwunden"
       loading="lazy"
       style="width: 100%; max-width: 480px; height: auto; border-radius: 8px;"

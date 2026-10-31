@@ -8,6 +8,7 @@ source_url: "https://cointelegraph.com/news/ether-etfs-captured-10x-more-inflows
 summary: "Spot Ether ETF-ovi privukli su 1,83 milijarde USD u 5 dana — deset puta više od Bitcoin ETF-ova."
 tags: ["crypto","Ethereum","ETF","Bitcoin","inflows"]
 image_url: "https://www.coindesk.com/resizer/XKwdVQFZsdDe7q3H2FZC88Gxwqg=/1200x628/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3XZETFIMG.jpg"
+categories: ["crypto"]
 ---
 
 Spot Ether ETF-ovi u SAD-u privukli su čak **1,83 milijarde USD priljeva u samo pet dana trgovanja**, što je deset puta više u odnosu na Bitcoin ETF-ove, koji su primili tek 171 milijun USD, prema podacima CoinGlass-a ([cointelegraph.com](https://www.coindesk.com/markets/2025/08/28/doge-faces-selling-pressure-as-usd200m-whale-transfer-to-binance-caps-rally?utm_source=chatgpt.com)).

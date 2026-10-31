@@ -7,14 +7,15 @@ translationKey: "a1c94f7e8d2b4f4bb2e9d3c6f7a88211"
 author: "Metaadvisor.eu"
 source: "Metaadvisor.eu analiza"
 source_url: ""
-image_url: "/images/Airdrop-farmers.png"
-featured_image: "/images/Airdrop-farmers.png"
-image: "/images/Airdrop-farmers.png"
-thumbnail: "/images/Airdrop-farmers.png"
+image_url: "/images/Airdrop-farmers.webp"
+featured_image: "/images/Airdrop-farmers.webp"
+image: "/images/Airdrop-farmers.webp"
+thumbnail: "/images/Airdrop-farmers.webp"
 image_alt: "Debata o airdrop farmerima i stvarnim korisnicima u kripto svijetu"
 image_credit: "MetaAdvisor ilustracija (simbolična)"
 tags: ["crypto", "kripto", "airdrop", "airdrop farmeri", "web3", "defi", "tokeni", "blockchain", "wallet", "decentralizacija", "tokenomika"]
 summary: "Rasprava o tome trebaju li airdrop nagrade ići stvarnim korisnicima ili takozvanim farmerima ponovno je otvorila pitanje pravednosti, tokenomike i dugoročne održivosti Web3 projekata."
+categories: ["crypto"]
 ---
 
 <p style="text-align:center; margin:18px 0 8px 0;">

@@ -8,10 +8,10 @@ source: "Cointelegraph"
 source_url: "https://cointelegraph.com/news/bitcoin-life-insurer-meanwhile-raises-82m-to-expand-btc-denominated-financial-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
 author: "Cointelegraph"
 analysis_by: "Metaadvisor.eu"
-image_url: "/images/Meanwhile-BTC.png"
-featured_image: "/images/Meanwhile-BTC.png"
-image: "/images/Meanwhile-BTC.png"
-thumbnail: "/images/Meanwhile-BTC.png"
+image_url: "/images/Meanwhile-BTC.webp"
+featured_image: "/images/Meanwhile-BTC.webp"
+image: "/images/Meanwhile-BTC.webp"
+thumbnail: "/images/Meanwhile-BTC.webp"
 image_alt: "Meanwhile Life Insurance — Bitcoin-Produkte"
 image_credit: "Design: Metaadvisor.eu"
 tags:
@@ -23,6 +23,7 @@ tags:
   - institutionen
   - finanzprodukte
 summary: "Meanwhile, ein US-Lebensversicherer, hat 82 Mio. USD eingeworben, um sein Portfolio an **bitcoin-denominierten** Finanzprodukten auszubauen."
+categories: ["crypto"]
 ---
 
 *Bild ist symbolisch.*

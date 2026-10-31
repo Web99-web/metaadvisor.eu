@@ -7,14 +7,15 @@ translationKey: "pudgy-penguins-target-trading-cards-nft-brand-pokemon-2026-06-2
 source: "Cointelegraph, Metaadvisor.eu"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
-featured_image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
-image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
-thumbnail: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.png"
+image_url: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
+featured_image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
+image: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
+thumbnail: "/images/news/Pudgy-penguins-PENGU-trading-cards-Target.webp"
 image_alt: "Pudgy Penguins from NFTs to trading cards"
 image_credit: "Metaadvisor.eu"
 tags: ["Pudgy Penguins", "PENGU", "NFT", "NFT-Kollektion", "Trading Cards", "Target", "Walmart", "Web3", "Web3 Gaming", "Pudgy World", "Ethereum", "NFT-Brand", "Sammelkarten", "Krypto", "Crypto", "Blockchain", "digitale Vermögenswerte", "Moonbirds", "Orange Cap Games", "Consumer Brand", "Mainstream Retail", "Einzelhandel", "Pokémon", "Gaming", "Lizenzierung", "Metaadvisor"]
 summary: "Pudgy Penguins bringt seine Vibes Series 3 Sammelkarten in Target-Filialen in den USA. Das Projekt, das als NFT-Kollektion begann, versucht nun, über Karten, Spielzeug, Games und physische Produkte zu einer Mainstream-Marke zu werden."
+categories: ["crypto"]
 ---
 
 <p style="font-size:0.85em; color:#777; margin-top:0;"><em>Symbolbild.</em></p>
@@ -54,7 +55,7 @@ Dieser Schritt mit den Target-Karten knüpft an eine frühere Strategie des Proj
   <a href="https://metaadvisor.eu/de/news/pudgy-penguins-spiel-web3-gaming-ohne-krypto/"
      target="_blank"
      rel="noopener">
-    <img src="/images/news/Pudgy-Penguins-game-launched.png"
+    <img src="/images/news/Pudgy-Penguins-game-launched.webp"
          alt="Pudgy Penguins startet sein Spiel – ein Web3-Projekt, das wie ein normales Game wirken will"
          style="max-width:520px; width:85%; height:auto; border-radius:12px;">
   </a>

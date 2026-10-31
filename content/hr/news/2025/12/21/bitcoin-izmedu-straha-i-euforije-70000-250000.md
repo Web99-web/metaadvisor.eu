@@ -15,6 +15,7 @@ image_alt: "Bitcoin budućnost – volatilnost, strah i dugoročni potencijal"
 image_credit: "MetaAdvisor ilustracija"
 tags: ["bitcoin", "btc", "kripto", "tržište", "fed", "kamatne stope", "analiza", "volatilnost", "ulaganje"]
 summary: "Bitcoin se nalazi između kratkoročnih strahova od pada prema 70.000 dolara i dugoročnih prognoza koje govore o 250.000 dolara do 2027. Fedova politika i tržišni sentiment stvaraju jedno od najnapetijih razdoblja ovog ciklusa."
+categories: ["crypto"]
 ---
 
 # Bitcoin između straha i euforije

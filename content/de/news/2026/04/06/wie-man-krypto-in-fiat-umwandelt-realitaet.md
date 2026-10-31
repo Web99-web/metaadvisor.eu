@@ -15,6 +15,7 @@ image_alt: "Wie man Krypto in Geld umwandelt"
 image_credit: "Illustration"
 tags: ["crypto","krypto","fiat","auszahlung","boersen","bitcoin","altcoin","trading","banken","regulierung"]
 summary: "Der Einstieg in Krypto ist einfach, doch der Ausstieg in Fiat wird oft zum Problem. Ein realistischer Überblick, wie Auszahlungen funktionieren und wo Nutzer am häufigsten Fehler machen."
+categories: ["crypto"]
 ---
 
 *Das Bild ist symbolisch.*

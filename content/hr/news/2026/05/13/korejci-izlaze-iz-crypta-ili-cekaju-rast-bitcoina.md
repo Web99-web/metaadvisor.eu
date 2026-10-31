@@ -7,14 +7,15 @@ translationKey: "be610d35e57e276b2470f9df726f5c0f"
 source: "Metaadvisor (Cointelegraph, The Chosun Daily)"
 source_url: "https://metaadvisor.eu/"
 author: "Metaadvisor.eu"
-image_url: "/images/Korea-flag1.png"
-featured_image: "/images/Korea-flag1.png"
-image: "/images/Korea-flag1.png"
-thumbnail: "/images/Korea-flag1.png"
+image_url: "/images/Korea-flag1.webp"
+featured_image: "/images/Korea-flag1.webp"
+image: "/images/Korea-flag1.webp"
+thumbnail: "/images/Korea-flag1.webp"
 image_alt: "South Korea crypto market and Bitcoin sentiment"
 image_credit: "Metaadvisor.eu"
 tags: ["bitcoin", "btc", "crypto", "kripto", "south korea", "juzna koreja", "retail", "investitori", "geopolitika", "bitcoin market", "altcoin", "trading", "fed", "stablecoin", "market sentiment"]
 summary: "Vrijednost crypto imovine južnokorejskih investitora pala je gotovo 50%, ali dio tržišta vjeruje da se kapital možda samo privremeno povukao dok investitori čekaju rasplet geopolitike i novi Bitcoin ciklus."
+categories: ["crypto"]
 ---
 
 <p style="font-size:13px; opacity:0.75;"><em>Slika je simbolična.</em></p>

@@ -28,6 +28,7 @@ tags:
   - asset-managers
   - europe-expansion
 summary: "Börse Stuttgart Digital eröffnet ein Büro in Madrid und wächst damit auf acht europäische Hubs. Mit MiCAR-Lizenz der BaFin bietet das Unternehmen Handel und Verwahrung für Banken, Broker und Asset Manager."
+categories: ["crypto"]
 ---
 
 **Kurz:** **Börse Stuttgart Digital**, der Krypto-Arm der **Stuttgart Stock Exchange Group**, eröffnet ein Büro in **Madrid** und erweitert seine Präsenz auf **acht europäische Hubs** (u. a. Frankfurt, Zürich, Mailand). Das Unternehmen bietet **Krypto-Handel und -Verwahrung** für **Banken, Broker und Asset Manager** – konform zum **MiCAR**-Rahmen der EU.
