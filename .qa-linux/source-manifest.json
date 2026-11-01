@@ -47702,6 +47702,7 @@
     ".gitattributes",
     ".github/workflows/metaadvisor-linux-qa.yml",
     ".github/workflows/metaadvisor-rollback-export.yml",
+    ".qa-linux/article_source_inventory.py",
     ".qa-linux/build_rollback.py",
     ".qa-linux/future-fixtures.json",
     ".qa-linux/http_qa.py",
