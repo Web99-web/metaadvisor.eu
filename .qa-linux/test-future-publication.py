@@ -12,6 +12,7 @@ def run(name,args):
 clock=json.loads((r/'.qa-linux/source-manifest.json').read_text())['captured_at_UTC']
 
 sys.path.insert(0,str(r/'.qa-linux'))
+sys.path.insert(0,str(r/'tools'))
 from article_source_inventory import source_article_inventory
 from release_articles import load_release_articles
 from migration_gate import key
