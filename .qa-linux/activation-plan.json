@@ -1,8 +1,8 @@
 {
   "production_parent": "41b8e2afb5e6a93acf535f6a68d42c3f916da710",
-  "production_commit": "6d3f945c7f3f691d9485b375a9bfad79c446d613",
-  "production_tree": "8ff01e9a1eac11a4ff4cc6355b7cf5b1f0156aef",
-  "qa_parent": "7d29b0e2205c7ccf22eb0e8cf39466d8b02fbab8",
+  "production_commit": "a34d7353c08f868a26748ed800f855fb72db4cc9",
+  "production_tree": "02cea490e63a1a79ae20cf2d4a88a54bf5291144",
+  "qa_parent": "ac558888fa9241b73043f7f3aabe6eb167dc46ac",
   "moves": [
     {
       "operation": "MOVE_ONLY_AFTER_REVIEW",
@@ -136,6 +136,10 @@
     },
     {
       "status": "A",
+      "path": "tools/editorial/legacy-generated-anchors.json"
+    },
+    {
+      "status": "A",
       "path": "tools/editorial/publication_layout.py"
     },
     {
@@ -212,6 +216,10 @@
     },
     {
       "status": "A",
+      "path": "tools/editorial/stable_generated_anchors.py"
+    },
+    {
+      "status": "A",
       "path": "tools/editorial/stable_stylesheet.py"
     },
     {
@@ -221,6 +229,10 @@
     {
       "status": "A",
       "path": "tools/editorial/test_release_policy.py"
+    },
+    {
+      "status": "A",
+      "path": "tools/editorial/test_stable_generated_anchors.py"
     },
     {
       "status": "A",
@@ -71733,10 +71745,16 @@
       "git_blob": "8d78e996d0bb26e5158b53cb2b38584306083fcb"
     },
     "tools/editorial/editorial_release.py": {
-      "bytes": 6834,
-      "sha256": "0d4945257ec4ce5722a2526a9e7a377af1c519be69b20368344c1573833c8883",
+      "bytes": 7002,
+      "sha256": "b41b071bb12efb343a396743b94a7be83222d5bf90b63a831c9633102d45bf57",
       "mode": "100644",
-      "git_blob": "04977dc50fa14e3fe5d40c28002e0dc70b3391e3"
+      "git_blob": "1239477628d168ae9271a14676a7316cd87d8820"
+    },
+    "tools/editorial/legacy-generated-anchors.json": {
+      "bytes": 162,
+      "sha256": "1337bb84bdf1ed25599523cbcc521dc8de4fd0ed56821b5c882614b376bda3d1",
+      "mode": "100644",
+      "git_blob": "86071d0a3f38377c44c1345c75021943574a250a"
     },
     "tools/editorial/publication_layout.py": {
       "bytes": 1622,
@@ -71751,10 +71769,10 @@
       "git_blob": "0525713dfaa0b9065d8135f164a01d01d13d25e4"
     },
     "tools/editorial/qa-tests/bench/full_reference_runner.py": {
-      "bytes": 4381,
-      "sha256": "ee7dfd83e122633699fe26899bbd289e12bee0bd6ba4f0ce93a90554ab0b8658",
+      "bytes": 4517,
+      "sha256": "79460553df7896a5d63a175cf6b13f44a0b98644c058997028e0f251edddb1b3",
       "mode": "100644",
-      "git_blob": "8380904b844c3293d8f6f8a0d6f3bb6f928692f7"
+      "git_blob": "aa1f90d4dd8edbcbc22392673610c611dfe384c3"
     },
     "tools/editorial/qa-tests/bench/stable_stylesheet.py": {
       "bytes": 1875,
@@ -71787,10 +71805,10 @@
       "git_blob": "bd83a1d9db5a125d73ad32f58f42c0dcbf955971"
     },
     "tools/editorial/qa-tests/test-future-publication.py": {
-      "bytes": 3806,
-      "sha256": "3fb9f216bdf7a3f48a8eb3f595c667f652bc8f70da8a41c2312673c244bf0cac",
+      "bytes": 3988,
+      "sha256": "be3dfffb73b805832ab7e49a3eef3126bf7eb3560255b8bf76184a6b45ac2e85",
       "mode": "100644",
-      "git_blob": "275ba1c634abec5dcabca710bb6acebbfe4aa95c"
+      "git_blob": "1a0e8f0ff464b2b2fd1fdd3b1e9da1ec90ddfacb"
     },
     "tools/editorial/qa-tests/test-memory.cjs": {
       "bytes": 9953,
@@ -71852,6 +71870,12 @@
       "mode": "100644",
       "git_blob": "3898fdf7759285a16242ac5a13f9f70a6e49828b"
     },
+    "tools/editorial/stable_generated_anchors.py": {
+      "bytes": 2439,
+      "sha256": "849693562f367bec417f8101853193de9586abad7ffc437d557a9d406310ef6f",
+      "mode": "100644",
+      "git_blob": "f6a946b1e6fc99593057f82bad08c920a0d47c4d"
+    },
     "tools/editorial/stable_stylesheet.py": {
       "bytes": 1875,
       "sha256": "dcfc8195e0f436aae61a782f4abbdb9f96d25173833d3b13d0de4e51c9a4efa1",
@@ -71870,6 +71894,12 @@
       "mode": "100644",
       "git_blob": "efffafc08364bc65169656719ddc5884f15a2f84"
     },
+    "tools/editorial/test_stable_generated_anchors.py": {
+      "bytes": 1028,
+      "sha256": "4a989182856ac7fdc4a2ebb4d757d2309e9926ea0de32ca27ea4c0af93fb9b2a",
+      "mode": "100644",
+      "git_blob": "f13820a538fc921e184e1bf6549ead19314114e9"
+    },
     "tools/editorial/test_stable_stylesheet.py": {
       "bytes": 1150,
       "sha256": "0ac8090a8b53a02e1af416393984fd4fcb465753154e8cf3c7a18273b3fa9cf9",
@@ -71883,10 +71913,10 @@
       "git_blob": "71af9c682cedafdea756753164a8c8bd376753c8"
     },
     "tools/editorial/workflow_driver.py": {
-      "bytes": 11995,
-      "sha256": "45a831851314b4a0bc63709b14d576720a10fe9900c2211d84b321af5e4d26f3",
+      "bytes": 12057,
+      "sha256": "65e4bb0c9a1887948e740a5ae43a7d7cc5511001f746de02e10a2360361fabad",
       "mode": "100644",
-      "git_blob": "daef707517c17df67b0378a3636d4369f1968ee0"
+      "git_blob": "177ac3885de9ad9d773f30624450a6ae5dc0c116"
     },
     "tools/finalize_release.py": {
       "bytes": 7732,

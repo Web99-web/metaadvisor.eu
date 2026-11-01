@@ -3,7 +3,7 @@ from pathlib import Path
 import argparse,concurrent.futures,hashlib,json,os,subprocess,sys,time,datetime
 from release_policy import mode_for_changes
 WRAPPER='import concurrent.futures,runpy,sys;Original=concurrent.futures.ThreadPoolExecutor\nclass Limited(Original):\n def __init__(self,max_workers=None,*a,**k):super().__init__(max_workers=min(max_workers or 2,2),*a,**k)\nconcurrent.futures.ThreadPoolExecutor=Limited\nsys.argv=sys.argv[1:];from pathlib import Path;sys.path.insert(0,str(Path(sys.argv[0]).resolve().parent));runpy.run_path(sys.argv[0],run_name="__main__")'
-CRITICAL=('release-readiness','source-before','migration-gate-unit','approved-route-tests','controls','consent-unit','hugo','repairs','compatibility','final-policy','stylesheet-cache-key','validate','exact-paths','http-MIME','native-migration-gate','article-search','article-search-worker','future-article-guards','source-inventory','source-after')
+CRITICAL=('release-readiness','source-before','migration-gate-unit','approved-route-tests','controls','consent-unit','hugo','repairs','compatibility','final-policy','stable-generated-anchors','stylesheet-cache-key','validate','exact-paths','http-MIME','native-migration-gate','article-search','article-search-worker','future-article-guards','source-inventory','source-after')
 def save(p,v):p.write_text(json.dumps(v,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 def execute(root,out,context,mode='AUTO'):
  assert sys.platform=='linux','Actual Linux required'
@@ -49,6 +49,7 @@ def execute(root,out,context,mode='AUTO'):
  py('repairs',root/'tools/repair_verified_urls.py','--output',out/'public','--report',out/'repairs.json')
  py('compatibility',root/'tools/build_tag_compatibility.py','--output',out/'public','--report',out/'compatibility.json','--release-check')
  py('final-policy',root/'tools/finalize_release.py','--output',out/'public','--report',out/'final-policy.json')
+ py('stable-generated-anchors',q/'bench/stable_generated_anchors.py','--output',out/'public','--report',out/'stable-generated-anchors.json')
  py('stylesheet-cache-key',q/'bench/stable_stylesheet.py','--output',out/'public','--report',out/'stylesheet-cache-key.json')
  py('validate',root/'tools/validate_tag_release.py','--output',out/'public','--compat-report',out/'compatibility.json','--report',out/'validation.json','--require-linux')
  py('exact-paths',q/'verify_exact_paths.py','--repo',root,'--build-dir',out,'--require-linux');py('http-MIME',q/'http_qa.py');py('native-migration-gate',q/'verify_native_gate.py')

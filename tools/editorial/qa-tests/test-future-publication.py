@@ -29,6 +29,7 @@ def py(name,file,*args):run(name,[sys.executable,'-B',str(src/'tools'/file),*map
 py('repairs','repair_verified_urls.py','--output',out,'--report',test/'repairs.json')
 py('gate','build_tag_compatibility.py','--output',out,'--report',test/'compatibility.json','--release-check')
 py('final','finalize_release.py','--output',out,'--report',test/'final.json')
+run('stable-generated-anchors',[sys.executable,'-B',str(src/'.qa-linux/bench/stable_generated_anchors.py'),'--output',str(out),'--report',str(test/'stable-generated-anchors.json')])
 (test/'linux-build.json').write_text('{"platform":"linux","returncode":0}')
 py('validate','validate_tag_release.py','--output',out,'--compat-report',test/'compatibility.json','--report',test/'validation.json','--require-linux')
 v=json.loads((test/'validation.json').read_text());assert not v['errors'] and v['expected_primary_present']==len(expected_source)

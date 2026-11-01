@@ -96,7 +96,7 @@ def snapshot(root,target,context):
  if dest.exists():assert digest(dest)==digest(test),'Fixture/tool drift requires review'
  else:dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(test,dest)
  (qa/'bench').mkdir(exist_ok=True)
- for name in ('check_source_inventory.py','stable_stylesheet.py'):shutil.copy2(HERE/name,qa/'bench'/name)
+ for name in ('check_source_inventory.py','stable_stylesheet.py','stable_generated_anchors.py','legacy-generated-anchors.json'):shutil.copy2(HERE/name,qa/'bench'/name)
  extras=[p.relative_to(target).as_posix() for p in qa.rglob('*') if p.is_file()]
  if 'tools/test_migration_gate.py' not in context['application_files']:extras.append('tools/test_migration_gate.py')
  extras+=['.qa-linux/source-manifest.json','.qa-linux/source-approval.json']
