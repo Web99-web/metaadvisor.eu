@@ -1,133 +1,138 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
-
 on:
-  # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
+    branches: [main]
   workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+    inputs:
+      mode:
+        type: choice
+        options: [AUTO, FULL]
+        default: FULL
+  schedule:
+    - cron: '30 2 * * *'
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and the latest queued.
-# However, do NOT cancel in-progress runs, as we want to allow these production deployments to complete.
+  actions: read
 concurrency:
-  group: "pages"
+  group: ${{ github.event_name == 'schedule' && 'editorial-full-audit' || 'pages' }}
   cancel-in-progress: false
-
-# Default to bash shell
-defaults:
-  run:
-    shell: bash
-
 jobs:
-  # Build job
-  build:
-    runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.128.0
-
+  plan:
+    runs-on: ubuntu-24.04
+    outputs:
+      mode: ${{ steps.plan.outputs.mode }}
+      publish: ${{ steps.plan.outputs.publish }}
     steps:
-      # Install Hugo extended version
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-
-
-      # ❌ OLD (Install Dart Sass (needed for Hugo Pipes) - deprecated as of 01.05.2026)
-      # This used to install Dart Sass via snap, but GitHub Actions runners
-      # can no longer access snap store (error: unable to contact snap store).
-      # Keeping this here for reference.
-      #
-      # - name: Install Dart Sass
-      #   run: sudo snap install dart-sass
-
-
-      # ✅ NEW (working solution as of 01.05.2026)
-      # Install Dart Sass via npm instead of snap.
-      # This works reliably on GitHub Actions runners.
-      - name: Install Dart Sass
-        run: npm install -g sass
-
-      # Checkout repository including submodules
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          submodules: recursive
-
-      # ⚠️ Removed configure-pages — it creates duplicate artifacts
-      # (This step was the source of the "multiple artifacts found" error)
-
-      # Install Node dependencies if package-lock.json exists
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-
-      - name: Require explicit release approvals
-        run: python3 tools/check_release_readiness.py
-
-      - name: Install QA dependency
-        run: python3 -m pip install lxml
-
-      # Local D preparation: no changes are published until the route gate passes.
-      - name: Check approved topic controls
-        run: |
-          python3 tools/prepare_tag_archives.py
-          python3 tools/prepare_tag_archives.py --check
-
-      # Build the Hugo site
-      - name: Build with Hugo
+          ref: ${{ github.sha }}
+          fetch-depth: 2
+          persist-credentials: false
+      - id: plan
         env:
-          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
-          HUGO_ENVIRONMENT: production
-          MA_RELEASE_OUTPUT: ${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}
-        run: |
-          test ! -e "$MA_RELEASE_OUTPUT"
-          hugo \
-            --minify \
-            --baseURL "https://metaadvisor.eu/" \
-            --destination "$MA_RELEASE_OUTPUT"
-
-      - name: Repair verified broken URL references in rendered HTML
-        run: |
-          python3 tools/repair_verified_urls.py --output "${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}" --report "${{ runner.temp }}/verified-url-repairs.json"
-
-      - name: Prepare meaningful compatibility and enforce migration gate
-        run: |
-          python3 tools/build_tag_compatibility.py --output "${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}" --report "${{ runner.temp }}/tag-compatibility.json" --release-check
-
-      - name: Apply final article-only indexing and verified MIME policy
-        run: python3 tools/finalize_release.py --output "${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}" --report "${{ runner.temp }}/final-policy.json"
-
-      - name: Validate complete Linux release output
-        run: |
-          printf '{"platform":"linux","returncode":0}\n' > "${{ runner.temp }}/linux-build.json"
-          python3 tools/validate_tag_release.py --output "${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}" --compat-report "${{ runner.temp }}/tag-compatibility.json" --report "${{ runner.temp }}/validation.json" --require-linux
-          python3 tools/check_release_readiness.py
-
-      # Upload build artifact for deployment
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+          GITHUB_TOKEN: ${{ github.token }}
+          BASE_SHA: ${{ github.event.before }}
+          EVENT_NAME: ${{ github.event_name }}
+          REQUESTED_MODE: ${{ inputs.mode || 'AUTO' }}
+        run: python3 -B tools/editorial/workflow_driver.py plan --base "$BASE_SHA" --event "$EVENT_NAME" --requested "$REQUESTED_MODE" --context "$RUNNER_TEMP/context.json"
+      - uses: actions/upload-artifact@v4
         with:
-          path: ${{ runner.temp }}/metaadvisor-public-${{ github.run_id }}-${{ github.run_attempt }}
-
-  # Deployment job
+          name: editorial-plan-${{ github.sha }}
+          path: ${{ runner.temp }}/context.json
+          retention-days: 3
+  verify:
+    name: ${{ needs.plan.outputs.mode }} verification
+    needs: plan
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+      GIT_OPTIONAL_LOCKS: '0'
+      GOMAXPROCS: '2'
+    outputs:
+      receipt_sha256: ${{ steps.verify.outputs.receipt_sha256 }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: tools/editorial/requirements.txt
+      - run: python3 -m pip install -r tools/editorial/requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/editorial-cache
+          key: editorial-${{ runner.os }}-hugo-0.128.0-${{ hashFiles('config.toml','tools/editorial/**','data/**','migration/**') }}
+      - name: Install pinned Hugo extended
+        run: |
+          curl --fail --location --retry 3 -o "$RUNNER_TEMP/hugo.deb" https://github.com/gohugoio/hugo/releases/download/v0.128.0/hugo_extended_0.128.0_linux-amd64.deb
+          dpkg-deb -x "$RUNNER_TEMP/hugo.deb" "$RUNNER_TEMP/hugo-tool"
+          dirname "$(find "$RUNNER_TEMP/hugo-tool" -type f -name hugo)" >> "$GITHUB_PATH"
+      - uses: actions/download-artifact@v4
+        with:
+          name: editorial-plan-${{ github.sha }}
+          path: ${{ runner.temp }}/plan
+      - id: verify
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/editorial-cache
+        run: python3 -B tools/editorial/workflow_driver.py build --context "$RUNNER_TEMP/plan/context.json" --source "$RUNNER_TEMP/editorial-source" --output "$RUNNER_TEMP/editorial-build"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: editorial-verified-${{ github.sha }}
+          path: |
+            ${{ runner.temp }}/editorial-build/qa-site.tar.gz
+            ${{ runner.temp }}/editorial-build/release-receipt.json
+            ${{ runner.temp }}/editorial-build/verified-file-manifest.json
+          retention-days: 3
+      - if: needs.plan.outputs.mode == 'FULL'
+        uses: actions/upload-artifact@v4
+        with:
+          name: editorial-full-proof-${{ github.sha }}
+          path: ${{ runner.temp }}/editorial-build/full-proof.json
+          retention-days: 7
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: editorial-reports-${{ github.sha }}
+          path: |
+            ${{ runner.temp }}/editorial-build/*.json
+            ${{ runner.temp }}/editorial-build/*.log
+          retention-days: 3
   deploy:
+    if: needs.plan.outputs.publish == 'true'
+    needs: [plan, verify]
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+      actions: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
-    runs-on: ubuntu-latest
-    needs: build
-
     steps:
-      # Deploy artifact to GitHub Pages
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - uses: actions/download-artifact@v4
+        with:
+          name: editorial-plan-${{ github.sha }}
+          path: ${{ runner.temp }}/plan
+      - uses: actions/download-artifact@v4
+        with:
+          name: editorial-verified-${{ github.sha }}
+          path: ${{ runner.temp }}/verified
+      - name: Verify exact artifact and current main before upload
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          RECEIPT_HASH: ${{ needs.verify.outputs.receipt_sha256 }}
+        run: python3 -B tools/editorial/workflow_driver.py verify-bundle --context "$RUNNER_TEMP/plan/context.json" --bundle "$RUNNER_TEMP/verified" --receipt-hash "$RECEIPT_HASH"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/verified/public
+      - id: deployment
         uses: actions/deploy-pages@v4
