@@ -1,6 +1,6 @@
 {
-  "captured_at_UTC": "2026-10-31T19:09:45.715368+00:00",
-  "base_SHA": "ec5206ea964d5ecad2e626465abe9dd8a9f80966",
+  "captured_at_UTC": "2026-11-01T08:19:47.250422+00:00",
+  "base_SHA": "0ffecf9bd8fa0a8b241c7759c2bf7903bbe85f4d",
   "snapshot_branch": "qa/metaadvisor-linux-2026-10-30",
   "source_files": {
     ".github/scripts/find_dupes.py": {
@@ -23819,6 +23819,10 @@
       "bytes": 4343,
       "sha256": "1524e68c7bdc9728086abb3b8011a87284f59e58ea7a14ed947ed5592a07ad51"
     },
+    "content/de/news/binance-diebstahl-vermoegenswerte-90-prozent-aufgefuellt.md": {
+      "bytes": 7780,
+      "sha256": "755b4b0fb335c68265df93c7f95216ac67e525836d669ddc36c54a9daeb47252"
+    },
     "content/de/news/was-ist-ein-etf.md": {
       "bytes": 2724,
       "sha256": "4213357c93adfb4085fc219bdc8cd85dde5263ae93bd31433a0ba8eafe25fb20"
@@ -29607,6 +29611,10 @@
       "bytes": 13989,
       "sha256": "3de88182876ff0bee629bd6c96809b50fa953a54558c7525b47b1a91113d85c8"
     },
+    "content/hr/news/binance-krada-nadoknada-imovine-90-posto.md": {
+      "bytes": 6844,
+      "sha256": "2b2aa33246d3de366f1390eabfea4b2cf95e6b2e90d9f9da2761312cae15c185"
+    },
     "content/hr/news/što-je-etf.md": {
       "bytes": 2982,
       "sha256": "5308208ff45fe591775af37d85c3b17bf12fef94abdedaf756a659d03511a910"
@@ -35342,6 +35350,10 @@
     "content/news/_index.md": {
       "bytes": 94,
       "sha256": "8aaa3e0666bdbb52081a0524c9c2a7ccbc146be65892988a8cb4dee75753f916"
+    },
+    "content/news/binance-theft-assets-90-percent-replenished.md": {
+      "bytes": 6984,
+      "sha256": "b70138dc8412d67a4dae332da0e864618b72632784358d9d37539ec91d974b10"
     },
     "content/news/how-to-read-crypto-charts-2025-beginners.md": {
       "bytes": 6690,
@@ -46031,6 +46043,10 @@
       "bytes": 53748,
       "sha256": "f4b742b851b93063f53ba0a71eb16c670a100e4848b6b7275fa4716f0b885b78"
     },
+    "static/images/editorial/binance-6-3b-hack.png": {
+      "bytes": 420051,
+      "sha256": "e9ba8e47e5762c2d0e941240663cfd9d80a161f9f6682cd0f805a0d0ace56d96"
+    },
     "static/images/etc-btc-manja.jpg": {
       "bytes": 85264,
       "sha256": "b8811e3a879f55ddd0a080092c175b8fa73a254253db237d9e6daff787cf5ad9"
@@ -47643,6 +47659,10 @@
       "bytes": 1698,
       "sha256": "0c0ab4999a89e7bd91b710731bd6eaf617ae78fddb11955aaf1c600f495ec5c7"
     },
+    "tools/release_articles.py": {
+      "bytes": 4620,
+      "sha256": "0d148a6eaf017c8d1b9d43f66a1bffc8a31bb7b67d4a539e5e1cbf8445d0ebff"
+    },
     "tools/repair_verified_urls.py": {
       "bytes": 10276,
       "sha256": "7b64829623492caf4f7b73d4e364ae6df039169185200894cf9198e348311d44"
@@ -47655,13 +47675,25 @@
       "bytes": 1656,
       "sha256": "aebffcb4144515899380bfbc9795a4b75ccc1ec78d4803a44c9c5c73996636b8"
     },
-    "tools/release_articles.py": {
-      "bytes": 4620,
-      "sha256": "0d148a6eaf017c8d1b9d43f66a1bffc8a31bb7b67d4a539e5e1cbf8445d0ebff"
+    "content/de/news/chainalysis-datenzugriff-agentische-angriffstechniken.md": {
+      "bytes": 6590,
+      "sha256": "24a5c87083833475a1ce56827e4b0b7b6956001c3902ce3c968a56f05d014d9f"
+    },
+    "content/hr/news/chainalysis-proboj-podataka-agentske-tehnike.md": {
+      "bytes": 6047,
+      "sha256": "b0467e9127c80cfee0ac5f90530c05866baf095a70e2e60b414b9e93b0a1ca55"
+    },
+    "content/news/chainalysis-data-breach-agentic-techniques.md": {
+      "bytes": 5927,
+      "sha256": "f6a0291747380d96f35e60f265eaec8c08fb3b83b56337342b46471a74c42099"
+    },
+    "static/images/editorial/chainalysis-data-breach-ai-agents.png": {
+      "bytes": 548242,
+      "sha256": "792f89425dadc99c935809f81151d08c73e6eac562db469c6851b766690cfafb"
     }
   },
-  "source_file_count": 11914,
-  "source_bytes": 244749048,
+  "source_file_count": 11922,
+  "source_bytes": 245757513,
   "excluded": [
     ".git/**",
     ".hugo_build.lock"
@@ -47674,6 +47706,7 @@
     ".qa-linux/future-fixtures.json",
     ".qa-linux/http_qa.py",
     ".qa-linux/run_qa.py",
+    ".qa-linux/source-approval.json",
     ".qa-linux/source-manifest.json",
     ".qa-linux/special-urls.json",
     ".qa-linux/test-article-guards.py",
@@ -47685,8 +47718,7 @@
     ".qa-linux/verify_exact_paths.py",
     ".qa-linux/verify_native_gate.py",
     ".qa-linux/verify_snapshot.py",
-    "tools/test_migration_gate.py",
-    ".qa-linux/source-approval.json"
+    "tools/test_migration_gate.py"
   ],
   "production_parent": "479b7c0e99fc5facc5954e13c9165213b1c826d7"
 }
