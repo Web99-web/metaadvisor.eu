@@ -1,0 +1,158 @@
+{
+  "version": 10,
+  "social_workflow": {
+    "rules_file": "social/rules.json",
+    "engine": "social_workflow.py",
+    "trigger": "Local verify_published_release.py after exact successful deployment and public verification",
+    "language": "en",
+    "emoji_default": false,
+    "linkedin_follow_account": "metaadvisorEU",
+    "x_account": "@MetaadvisorEU",
+    "approval_required": true,
+    "automatic_social_publishing": false,
+    "posts_per_article_per_platform": 1,
+    "hr_de_only_on_explicit_request": true,
+    "x_article_post_minimum_interval_minutes": 60,
+    "publication_method": "Manual browser interaction in Chrome Bike, correct profile/company tabs; never Grok",
+    "preview_text_and_image_before_publication": true,
+    "explicit_confirmation_before_each_publication": true,
+    "social_apis_allowed": false,
+    "new_paid_services_allowed": false,
+    "linkedin_follow_requires_native_company_mention": true,
+    "default_media_mode": "link_only",
+    "manual_image_upload_default": false,
+    "image_upload_only_when_requested_and_user_opens_folder": true
+  },
+  "reference": "User-supplied Google/Alphabet article example, reviewed 2026-10-31",
+  "scope": "Local editorial preparation only; production files and workflow remain untouched",
+  "card_title": {
+    "lead_subject_first": true,
+    "show_key_new_information": true,
+    "include_event_scale_when_first_coverage_and_material": true,
+    "word_count_is_guidance_not_gate": true
+  },
+  "article": {
+    "illustration_notice_before_h1": true,
+    "expanded_h1_distinct_from_card_title": true,
+    "bold_lead": true,
+    "reader_facing_voice": true,
+    "no_internal_editorial_instructions": true,
+    "source_names_and_attribution_in_prose": true,
+    "source_url": "",
+    "outbound_evidence_links": "Separate HR/DE/EN local source dossiers, pending owner's preference for any future change",
+    "support_shortcodes": [
+      "support1",
+      "support2"
+    ],
+    "analysis_section_hr": "Naš osvrt (Metaadvisor)",
+    "analysis_format": "Concrete analytical bullets with bold opening statement, then a short synthesis",
+    "footer": "Localized follow-Metaadvisor call to action, informative disclaimer and AI collaboration notice",
+    "educational_context": {
+      "required": true,
+      "reader": "Do not assume familiarity with companies or technical terminology",
+      "company_context": [
+        "business and products",
+        "verified origin and founders when relevant",
+        "customers and industry role",
+        "concrete impact on users or markets"
+      ],
+      "integration": "Natural explanatory journalism, not encyclopedic introductions",
+      "unknowns": "Explicitly distinguish undisclosed details from established facts",
+      "review": "Human editorial approval remains required"
+    }
+  },
+  "front_matter": {
+    "format": "Quoted strings, compact tag arrays, explicit image_alt; preserve category/categories and four matching image fields",
+    "tags": "Only existing approved terms; do not copy unapproved tags from examples or create archives",
+    "draft": true
+  },
+  "images": {
+    "library_first": true,
+    "major_story_can_use_dedicated_image": true,
+    "story_filename_starts_with_subject": true,
+    "requested_binance_format": "PNG",
+    "dimensions": [
+      800,
+      800
+    ],
+    "no_duplicate_watermark": true,
+    "source_originals_read_only": true,
+    "no_historical_chart_as_live_data": true,
+    "social_crop_safe_composition": {
+      "required_for_future_covers": true,
+      "canvas": [
+        800,
+        800
+      ],
+      "headline_safe_box": [
+        80,
+        230,
+        720,
+        550
+      ],
+      "headline": "Short English headline, large and legible, near center; never put essential text at top edge",
+      "main_subject": "Keep recognizable identity and key motif within the central horizontal band",
+      "preview_ratios": [
+        "1:1",
+        "1.91:1",
+        "16:9"
+      ],
+      "visual_review_required": true,
+      "watermark": "Keep existing discreet MetaAdvisor.eu watermark; never duplicate it",
+      "existing_covers": "Do not modify retrospectively"
+    }
+  },
+  "approval": {
+    "technical_gate_separate_from_editorial_review": true,
+    "automated_rules_do_not_certify_journalistic_quality": true,
+    "user_approval_required": true,
+    "publication_allowed_in_this_phase": false
+  },
+  "international_time_policy": {
+    "timezone": "UTC",
+    "no_local_zone_names": true,
+    "human_dates": "Natural to each article language",
+    "event_date_distinct_from_publication_date": true,
+    "publication_date_unset_until_release": true
+  },
+  "template_capabilities": {
+    "independent_primary_h1": false,
+    "markdown_h1_creates_second_h1": true,
+    "production_template_change_authorized": false
+  },
+  "punctuation_policy": {
+    "forbidden_codepoints": [
+      "U+2014",
+      "U+2013"
+    ],
+    "allowed_dash": "-",
+    "scope": "All HR/DE/EN editorial text, titles, headings, analysis, social posts and image descriptions",
+    "on_violation": "ERROR; block approval and publication",
+    "published_articles": "Do not modify retrospectively"
+  },
+  "image_alt_policy": {
+    "required": true,
+    "language": "Match HR, DE or EN article language",
+    "style": "One short sentence or headline description of the main subject",
+    "max_characters": 180,
+    "omit": "Colours, backgrounds, layout, watermark and decorative production details",
+    "forbidden_decorative_terms": [
+      "watermark",
+      "wasserzeichen",
+      "vodeni žig"
+    ],
+    "data_charts": "State what is plotted and the period; do not repeat every value",
+    "review": "Human review for topic relevance, language and brevity; mechanical validation is supplementary",
+    "published_articles": "Do not modify retrospectively"
+  },
+  "publication_file_layout": {
+    "required_for_new_packages": true,
+    "en": "content/news/YYYY/MM/DD/slug.md",
+    "hr": "content/hr/news/YYYY/MM/DD/slug.md",
+    "de": "content/de/news/YYYY/MM/DD/slug.md",
+    "date_source": "Existing article front matter date, preserve its calendar publication date",
+    "public_URLs": "Preserve language prefix, slug and existing Hugo permalinks",
+    "published_files": "No automatic relocation or editing; prepare a separate exact-byte move plan for review",
+    "next_approved_local_packages": "next-dated-publications/manifest.json"
+  }
+}
