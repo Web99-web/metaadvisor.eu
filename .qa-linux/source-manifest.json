@@ -47708,6 +47708,7 @@
     ".qa-linux/bench/check_source_inventory.py",
     ".qa-linux/bench/editorial_release.py",
     ".qa-linux/bench/full-file-hashes.json",
+    ".qa-linux/bench/full-html-samples.json",
     ".qa-linux/bench/full_reference_runner.py",
     ".qa-linux/bench/release_policy.py",
     ".qa-linux/bench/test_release_policy.py",
