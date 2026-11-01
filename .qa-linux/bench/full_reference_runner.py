@@ -21,6 +21,7 @@ py('repairs',r/'tools/repair_verified_urls.py','--output',d/'public','--report',
 # QA intentionally reports pending publication decisions; it never authorizes a release.
 py('compatibility',r/'tools/build_tag_compatibility.py','--output',d/'public','--report',d/'compatibility.json','--release-check')
 py('final-policy',r/'tools/finalize_release.py','--output',d/'public','--report',d/'final-policy.json')
+py('stylesheet-cache-key',q/'bench/stable_stylesheet.py','--output',d/'public','--report',d/'stylesheet-cache-key.json')
 py('validate',r/'tools/validate_tag_release.py','--output',d/'public','--compat-report',d/'compatibility.json','--report',d/'validation.json','--require-linux')
 py('exact-paths',q/'verify_exact_paths.py','--repo',r,'--build-dir',d,'--require-linux')
 py('http-MIME',q/'http_qa.py')

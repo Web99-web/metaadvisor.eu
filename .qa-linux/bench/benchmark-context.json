@@ -25,7 +25,7 @@
     "finished_at_utc": "2026-11-01T09:10:42+00:00",
     "newer_matching_full_failed": false
   },
-  "full_reference_runner_sha256": "84148f619b0e019506d1c14ef7cb8232a47b2ffae7457405542398bc7817dfa8",
+  "full_reference_runner_sha256": "ee7dfd83e122633699fe26899bbd289e12bee0bd6ba4f0ce93a90554ab0b8658",
   "protected_files": {
     ".github/scripts/find_dupes.py": "d09729c500f0c42d8dc39920676a5a15de39ffae5beb4313cc343353cdaa55f2",
     ".github/workflows/deploy-gh19.12.2025.bak": "eafcb5a738fecf940ec4df6ce6e3f32092bd5bed17574d7c27d91eaba4266057",
@@ -6558,11 +6558,14 @@
     ".qa-linux/test_approved_routes.py": "cf3381bf86c7403766298b925ef773caed101830bfcda8bc4aa6076e83301f2e",
     ".qa-linux/test-article-guards.py": "e39628ea970b52c52ad7811767d8292810415e1c137e07ffb113debd68000ef2",
     ".qa-linux/test-future-publication.py": "3fb9f216bdf7a3f48a8eb3f595c667f652bc8f70da8a41c2312673c244bf0cac",
-    ".qa-linux/article_source_inventory.py": "563545bdbfff9e5a1990a84c5d33f9d64960b8f6a239301b86e13f61f60b3909"
+    ".qa-linux/article_source_inventory.py": "563545bdbfff9e5a1990a84c5d33f9d64960b8f6a239301b86e13f61f60b3909",
+    ".qa-linux/bench/stable_stylesheet.py": "dcfc8195e0f436aae61a782f4abbdb9f96d25173833d3b13d0de4e51c9a4efa1",
+    ".qa-linux/bench/editorial_release.py": "0d4945257ec4ce5722a2526a9e7a377af1c519be69b20368344c1573833c8883"
   },
   "production_commit": "41b8e2afb5e6a93acf535f6a68d42c3f916da710",
   "production_tree": "edf37fc405a5b14c37d9fce58dca085749ff7f2e",
   "policy_fingerprint": "626ecae55fa549343cfe8c1f585723074f193dd30e05f9f56ab3c0ec1b8f1417",
   "reference_run": 41291038170,
-  "deployment": false
+  "deployment": false,
+  "output_cache_key": "SHA256 of actual output css/style.css, first 20 hexadecimal digits"
 }
