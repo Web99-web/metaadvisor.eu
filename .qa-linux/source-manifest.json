@@ -47706,6 +47706,7 @@
     ".qa-linux/bench/benchmark-context.json",
     ".qa-linux/bench/benchmark_adapter.py",
     ".qa-linux/bench/check_source_inventory.py",
+    ".qa-linux/bench/diagnose_generation.py",
     ".qa-linux/bench/editorial_release.py",
     ".qa-linux/bench/full-file-hashes.json",
     ".qa-linux/bench/full-html-samples.json",
