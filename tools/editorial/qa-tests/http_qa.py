@@ -13,7 +13,16 @@ for lang in ['en','de','hr']:urls += [urllib.parse.urlsplit(x['url']).path for x
 urls += [urllib.parse.urlsplit(x).path for x in json.loads((w/'.qa-linux/special-urls.json').read_text())]
 for url in urls:
  with opener.open(base+urllib.parse.quote(urllib.parse.unquote(url),safe='/'),timeout=15) as res:
-  b=res.read();assert res.status==200 and 'text/html' in res.headers['Content-Type'];doc=html.fromstring(b);expected=('Ablehnen','Akzeptieren') if url.startswith('/de/') else ('Odbij','Prihvati') if url.startswith('/hr/') else ('Reject','Accept');assert '/tags/' in url or tuple(doc.xpath('string(//*[@id="'+k+'"])').strip() for k in ['ma-decline','ma-accept'])==expected;tests.append({'url':url,'status':res.status,'MIME':res.headers['Content-Type']})
+  b=res.read();assert res.status==200 and 'text/html' in res.headers['Content-Type'];doc=html.fromstring(b)
+  if '/tags/' not in url:
+   assert len(doc.xpath('//*[@id="ma-consent"]')) == 1
+   assert doc.xpath('string(//*[@id="ma-accept"])').strip() == 'I agree'
+   assert doc.xpath('string(//*[@id="ma-consent-close"])').strip() == '×'
+   assert doc.xpath('string(//*[@id="ma-consent-close"]/@aria-label)') == 'Close without accepting analytics'
+   settings=doc.xpath('//*[@id="ma-consent"]//a[normalize-space(.)="More options..."]')
+   prefix='/de' if url.startswith('/de/') else '/hr' if url.startswith('/hr/') else ''
+   assert len(settings)==1 and settings[0].get('href') == prefix+'/privacy/'
+  tests.append({'url':url,'status':res.status,'MIME':res.headers['Content-Type']})
 counts=collections.Counter();images=[]
 for f in p.rglob('*'):
  if f.suffix.lower() in ['.jpg','.png','.webp'] and f.is_file() and counts[f.suffix.lower()]<5:
