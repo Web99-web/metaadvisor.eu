@@ -1,17 +1,21 @@
-{{ $hr := eq .Lang "hr" }}{{ $de := eq .Lang "de" }}
-<div id="ma-consent" hidden role="region" aria-label="{{ if $hr }}Analitički kolačići{{ else if $de }}Analyse-Cookies{{ else }}Analytics cookies{{ end }}">
-  <p>{{ if $hr }}Analitički kolačići pomažu nam mjeriti posjete i čitanost, bez oglašivačkih profila.{{ else if $de }}Analyse-Cookies messen Besuche und Seitenaufrufe, ohne Werbeprofile.{{ else }}Analytics cookies measure visits and page views, without advertising profiles.{{ end }} <a href="{{ "/privacy/" | relLangURL }}">{{ if $hr }}Privatnost{{ else if $de }}Datenschutz{{ else }}Privacy{{ end }}</a></p>
-  <div class="ma-consent-actions"><button type="button" id="ma-decline">{{ if $hr }}Odbij{{ else if $de }}Ablehnen{{ else }}Reject{{ end }}</button><button type="button" id="ma-accept">{{ if $hr }}Prihvati{{ else if $de }}Akzeptieren{{ else }}Accept{{ end }}</button></div>
+<div id="ma-consent" hidden role="region" aria-label="Analytics cookies" lang="en">
+  <button type="button" id="ma-consent-close" aria-label="Close without accepting analytics">&times;</button>
+  <div class="ma-consent-copy">This website uses analytics cookies to help us understand how visitors use MetaAdvisor and improve your experience. You can continue browsing without accepting analytics.
+    <a href="{{ "/privacy/" | relLangURL }}">More options...</a>
+  </div>
+  <div class="ma-consent-actions"><button type="button" id="ma-accept">I agree</button></div>
 </div>
 <style>
 #ma-consent[hidden]{display:none!important}
-#ma-consent{position:fixed;bottom:62px;left:12px;right:12px;margin:0 auto;z-index:10000;box-sizing:border-box;width:min(620px,calc(100vw - 24px));max-height:calc(100svh - 90px);overflow:auto;padding:12px 14px;border:1px solid #64748b;border-radius:8px;background:#fff;color:#17212b;box-shadow:0 3px 14px #0002;font-size:14px;line-height:1.4}
-#ma-consent p{margin:0 0 10px}
-#ma-consent a{color:#064faf;text-decoration:underline}
-.ma-consent-actions{display:flex;gap:10px}
-.ma-consent-actions button{flex:1;min-width:0;min-height:44px;padding:9px 10px;border:1px solid #334155;border-radius:5px;font:inherit;cursor:pointer}
-#ma-decline{background:#fff;color:#17212b}
-#ma-accept{background:#146c43;color:#fff}
-.ma-consent-actions button:focus-visible,#ma-consent-settings:focus-visible{outline:3px solid #185abd;outline-offset:3px}
+#ma-consent{position:fixed;inset:auto 0 calc(var(--ticker-h,56px) + 6px);z-index:10000;box-sizing:border-box;display:flex;align-items:center;gap:30px;width:100%;max-height:calc(100svh - var(--ticker-h,56px) - 24px);overflow:auto;padding:20px 66px 20px 60px;background:rgba(32,122,181,.95);color:#fff;box-shadow:0 -2px 14px #0002;font:14px/1.5 system-ui,sans-serif}
+.ma-consent-copy{flex:1;text-align:center}
+#ma-consent a{color:#fff;text-decoration:underline;text-underline-offset:3px}
+.ma-consent-actions{display:flex;flex-shrink:0;align-items:center}
+#ma-accept{min-height:46px;min-width:112px;border:0;border-radius:28px;padding:12px 24px;background:#ff9800;color:#17212b;font:600 15px/1.3 system-ui,sans-serif;cursor:pointer}
+#ma-consent-close{position:absolute;left:16px;top:10px;display:grid;place-items:center;width:25px;height:25px;padding:0;border:2px solid #fff;border-radius:50%;background:#111;color:#fff;font:21px/1 system-ui,sans-serif;cursor:pointer}
+#ma-consent button:focus-visible,#ma-consent a:focus-visible,#ma-consent summary:focus-visible,#ma-consent-settings:focus-visible{outline:3px solid #fff;outline-offset:4px;box-shadow:0 0 0 6px #17212b}
 #ma-consent-settings{font:inherit;color:inherit;background:none;border:0;padding:0;text-decoration:underline;text-underline-offset:2px;cursor:pointer}
+@media(max-width:760px){#ma-consent{flex-direction:column;gap:14px;padding:40px 18px 18px}.ma-consent-copy{text-align:center}.ma-consent-actions{justify-content:center}#ma-accept{min-width:130px}}
+@media(prefers-reduced-transparency:reduce){#ma-consent{background:#207ab5}}
 </style>
+

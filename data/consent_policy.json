@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-30-regional-2",
+  "version": "2026-11-02-banner-1",
   "automatic_analytics_countries": [
     "AU"
   ],
@@ -25,5 +25,11 @@
     "US-CO",
     "US-CT",
     "US-TX"
-  ]
+  ],
+  "refusal_retention_countries": [
+    "FR",
+    "GB"
+  ],
+  "refusal_reprompt": "Show on each page load after refusal outside FR/GB; UNKNOWN retains refusal. GPC/DNT remain respected."
 }
+

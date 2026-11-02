@@ -78,14 +78,21 @@
     }
     clearVisit();
     // Previously stored explicit refusals are not silently shortened by this update.
-    if (storageRead(storageArea('localStorage'), 'ma_consent') === 'denied') { choiceRecord = null; return 'denied'; }
+    if (storageRead(storageArea('localStorage'), 'ma_consent') === 'denied') {
+      // Give legacy refusals a bounded validity; never turn them into consent.
+      choiceRecord = {version:cfg.policyVersion, schema:2, analytics:'denied', at:Date.now(), scope:'legacy-refusal'};
+      choiceRecord.expiresAt=sixMonthsAfter(choiceRecord.at);
+      savePersistent(choiceRecord); storageRemove(storageArea('localStorage'), 'ma_consent');
+      return 'denied';
+    }
     choiceRecord = null; return null;
   }
   function notify(record) {
     // This is a cross-tab notification, never an authority for a later visit.
     try { storageArea('localStorage').setItem(key + '_signal', JSON.stringify(record)); storageArea('localStorage').removeItem(key + '_signal'); } catch (_) {}
   }
-  function retainRefusal(countryCode) { return countryCode === 'FR' || countryCode === 'GB' || countryCode === 'UNKNOWN'; }
+  function retainRefusal(countryCode) { return (cfg.refusalRetentionCountries || ['FR','GB']).indexOf(countryCode) !== -1 || countryCode === 'UNKNOWN'; }
+  function showRefusalBanner() { return choice === 'denied' && !retainRefusal(country) && !privacySignal(); }
   function locationReady() {
     if (!geoPromise) geoPromise = locate().then(function (geo) { country=geo.country; region=geo.region; geoSource=geo.source; return geo; });
     return geoPromise;
@@ -149,6 +156,9 @@
     allowed = allowed && !privacySignal();
     mode = allowed ? why : (privacySignal() ? 'privacy-signal' : why);
     w[disabled] = !allowed;
+    var toggle = d.getElementById('ma-analytics-toggle'), status = d.getElementById('ma-cookie-status');
+    if (toggle) { toggle.checked = !!allowed; toggle.disabled = privacySignal(); }
+    if (status) status.textContent = privacySignal() ? 'Analytics is off because your browser requests privacy protection.' : (allowed ? 'Analytics is on. Uncheck the optional box and save to turn it off.' : 'Analytics is off. Check the optional box and save to turn it on.');
     w.gtag('consent', 'update', parameters(allowed));
     if (!allowed) { clearAnalyticsCookies(); return; }
     startGA();
@@ -187,9 +197,23 @@
     if (accept) accept.addEventListener('click', function () { choose('granted'); });
     if (reject) reject.addEventListener('click', function () { choose('denied'); });
     if (settings) settings.addEventListener('click', function () { banner(true); });
+    var close = d.getElementById('ma-consent-close');
+    if (close) close.addEventListener('click', function () { choose('denied'); });
+    var cookieForm = d.getElementById('ma-cookie-form');
+    if (cookieForm) cookieForm.addEventListener('submit', function (event) {
+      event.preventDefault();
+      var toggle = d.getElementById('ma-analytics-toggle');
+      choose(toggle && toggle.checked ? 'granted' : 'denied');
+    });
+    if (privacySignal()) { apply(false,'privacy-signal'); banner(false); return; }
     choice = stored();
+    if (choice === 'granted') { apply(true,'stored-granted'); banner(false); return; }
+    var bootRevision = choiceRevision;
+    // Resolve refusal-retention exceptions before deciding whether to ask again.
+    await locationReady();
+    if (choiceRevision !== bootRevision) return; // A newer explicit choice takes priority.
     if (choice || privacySignal()) {
-      apply(choice === 'granted', choice ? 'stored-' + choice : 'privacy-signal'); banner(false);
+      apply(choice === 'granted', choice ? 'stored-' + choice : 'privacy-signal'); banner(showRefusalBanner());
       if (choice === 'denied' && choiceRecord && choiceRecord.scope === 'pending-region') {
         var pending = choiceRecord, revision = choiceRevision; locationReady().then(function () { settleRefusal(pending,revision); });
       }
@@ -220,7 +244,7 @@
     });
     w.addEventListener('focus', function () {
       var remembered=stored();
-      if (remembered === 'denied') { choiceRevision++; choice='denied'; apply(false,'stored-denied'); banner(false); }
+      if (remembered === 'denied') { choiceRevision++; choice='denied'; apply(false,'stored-denied'); }
       else if (remembered === 'granted') { choiceRevision++; choice='granted'; apply(true,'stored-granted'); banner(false); }
     });
   }
@@ -228,3 +252,4 @@
   if (d.readyState === 'loading') w.MAConsent.ready = new Promise(function (resolve) { d.addEventListener('DOMContentLoaded', function () { boot().then(resolve); }, {once: true}); });
   else w.MAConsent.ready = boot();
 })(window, document);
+

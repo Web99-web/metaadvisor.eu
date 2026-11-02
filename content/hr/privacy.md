@@ -10,6 +10,7 @@ menu:
 
 _Zadnje ažuriranje: 30.10.2026._
 
+
 ## Tko smo
 MetaAdvisor je informativna web-stranica posvećena tehnologiji, umjetnoj inteligenciji i kriptu.
 
@@ -53,7 +54,7 @@ Google Analytics 4 koristimo za statistiku posjeta, korištenja stranica i izvor
 
 Prihvaćanje analitike ne dopušta oglašivačko praćenje. Oglašivački parametri privole ostaju odbijeni, Googleovi oglašivački signali su isključeni, a ova implementacija ne učitava skripte oglasnih mreža. Odbij analitiku zaustavlja analitiku. Izbor možete promijeniti kroz Postavke kolačića u bilo kojem trenutku. Global Privacy Control i Do Not Track također isključuju analitiku.
 
-Prihvaćanje pamtimo šest kalendarskih mjeseci na EN/DE/HR. Novo odbijanje u pravilu vrijedi za trenutačni posjet preglednikom; novi posjet počinje nakon 30 minuta neaktivnosti ili završetka sesije preglednika. U Francuskoj i UK-u odbijanje čuvamo šest mjeseci prema smjernicama regulatora; kod nepoznate lokacije to je i sigurniji zadani izbor. Ranija spremljena odbijanja zadržavaju izvorno trajanje. Preglednici koji vraćaju sesiju mogu vratiti i sesijsko odbijanje. Ako je spremanje postavki blokirano, automatska analitika ostaje isključena. Dopušteni analitički kolačići imaju postavljen najdulji vijek od 180 dana. U analitičke naredbe ne uključujemo URL upite, fragmente ni podatke iz obrazaca. Google obrađuje dopuštene analitičke podatke; rokovi čuvanja i uvjeti obrade moraju odgovarati odobrenoj konfiguraciji pružatelja. Sigurnosni zapisi hostinga odvojeni su od analitike. Povlačenje privole ne briše raniju zakonitu obradu.
+Prihvaćanje pamtimo šest kalendarskih mjeseci na EN/DE/HR. Izvan Francuske i UK-a odbijanje ili zatvaranje bannera ostavlja analitiku isključenom, a banner se ponovno prikazuje pri sljedećem učitavanju stranice. Sam povratak fokusa na istu stranicu ne otvara ga ponovno. U Francuskoj i UK-u odbijanje čuvamo šest mjeseci prema smjernicama regulatora; isto vrijedi za nepoznatu lokaciju kao zaštitni zadani izbor. Starija odbijanja bez roka isteka pri prvom čitanju dobivaju zapis s trajanjem od šest mjeseci, nikad prihvaćanje. Global Privacy Control i Do Not Track i dalje isključuju analitiku bez ponavljanog traženja privole. Ako je spremanje postavki blokirano, automatska analitika ostaje isključena. Dopušteni analitički kolačići imaju postavljen najdulji vijek od 180 dana. U analitičke naredbe ne uključujemo URL upite, fragmente ni podatke iz obrazaca. Google obrađuje dopuštene analitičke podatke; rokovi čuvanja i uvjeti obrade moraju odgovarati odobrenoj konfiguraciji pružatelja. Sigurnosni zapisi hostinga odvojeni su od analitike. Povlačenje privole ne briše raniju zakonitu obradu.
 
 ### Regionalna pravila analitike
 Za običnu, neosjetljivu statistiku korištenja pripremljena regionalna pravila predviđaju automatsku analitiku bez početnog bannera u Australiji i provjerenim saveznim državama SAD-a s pouzdanim regionalnim signalom, uz ispunjenje primjenjivih uvjeta obrade, obavještavanja i pružatelja usluge. Isključivanje je uvijek dostupno preko **Privatnost / postavke kolačića** u footeru. Prethodno odbijanje te Global Privacy Control ili Do Not Track imaju prednost. Oglašivačke privole ostaju odbijene; ova implementacija ne izrađuje oglašivačke profile.
@@ -61,3 +62,5 @@ Za običnu, neosjetljivu statistiku korištenja pripremljena regionalna pravila 
 U EGP-u (uključujući Hrvatsku i Njemačku), UK-u, Švicarskoj, Japanu do dodatne provjere te ostalim neprovjerenim ili nepoznatim lokacijama analitika počinje tek nakon prihvaćanja. Japan nije automatski izuzet: potrebno je provjeriti povezivanje podataka kod primatelja i prijenos u inozemstvo. Jezik stranice nikad ne određuje lokaciju. Savezne države SAD-a nikad ne zaključujemo iz jezika preglednika. Automatski profili predviđeni su za Kaliforniju, Colorado, Connecticut i Texas samo uz pouzdane regionalne metapodatke hostinga i ispunjene navedene uvjete. Maryland, Washington, ostale neprovjerene te nepoznate savezne države koriste prethodnu privolu.
 
 Google pruža analitiku. Dopušteni podaci uključuju identifikator kolačića, putanju i naslov stranice, pročišćen izvor dolaska, približnu lokaciju i uobičajene tehničke analitičke podatke. Naše naredbe ne šalju URL query ni fragment. Postavke pružatelja moraju ograničiti obradu na navedenu svrhu; ne profiliramo osjetljive podatke niti poznatu dječju publiku. Odbijanje zaustavlja buduću analitiku i briše njezine kolačiće, a ne već obrađene podatke.
+
+{{< analytics-settings >}}
