@@ -27,7 +27,7 @@ categories: ["crypto"]
 
 Nakon napada 29. listopada 2026., Binance je na približno 48 sati ograničio povlačenja sredstava. U nedjelju 1. studenoga počeo je postupno vraćati uslugu za odabrane kriptovalute i mreže. U prvih devet i pol sati korisnici su povukli oko 4,65 milijardi dolara, dok su uplate iznosile približno 1,01 milijardu, što je dalo početni neto odljev od oko 3,64 milijarde dolara.
 
-Tijekom ponedjeljka brojka je porasla. Prema novijem izvještaju [Reutersa](https://www.reuters.com/business/finance/binance-sees-outflows-stabilising-exchange-returns-online-after-63-billion-heist-2026-11-02/), Binance je od ponovnog otvaranja zabilježio približno 7,4 milijarde dolara bruto povlačenja i 2,7 milijardi dolara uplata. Neto razlika iznosila je **4,72 milijarde dolara**, odnosno oko **2,8%** imovine na platformi. To je vremenski noviji podatak od jutarnjih 3,64 milijarde, a ne zaseban dodatni odljev koji treba pribrojiti prvom iznosu.
+Tijekom ponedjeljka brojka je porasla. Prema novijim izvještajima, Binance je od ponovnog otvaranja zabilježio približno 7,4 milijarde dolara bruto povlačenja i 2,7 milijardi dolara uplata. Neto razlika iznosila je **4,72 milijarde dolara**, odnosno oko **2,8%** imovine na platformi. To je vremenski noviji podatak od jutarnjih 3,64 milijarde, a ne zaseban dodatni odljev koji treba pribrojiti prvom iznosu.
 
 {{< support1 >}}
 
