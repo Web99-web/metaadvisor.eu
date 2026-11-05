@@ -258,7 +258,7 @@
     await locationReady();
     if (choice) return; // Never let late geography overwrite a click.
     var auto = regionalDecision.regime === 'automatic' && regionalDecision.ga4 === 'cookies';
-    if (auto && !canRememberVisit()) { apply(false,'preference-storage-unavailable'); banner(false); return; }
+    if ((auto || cookielessAllowed('regional-policy')) && !canRememberVisit()) { apply(false,'preference-storage-unavailable'); banner(false); return; }
     apply(auto, 'regional-policy');
     banner(regionalDecision.banner);
   }
