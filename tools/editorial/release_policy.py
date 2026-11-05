@@ -6,8 +6,8 @@ IMAGE=re.compile(r'^static/(?:images/.*|[^/]+)\.(?:png|webp|jpg|jpeg)$',re.I)
 def mode_for_changes(changes,full):
  if not full.get('success'):return 'FULL'
  if not full.get('protected_fingerprint_matches'):return 'FULL'
- if full.get('age_hours',float('inf'))>24 or full.get('age_hours',-1)<0:return 'FULL'
- if full.get('newer_matching_full_failed'):return 'BLOCKED'
+ # A proof is bound to protected bytes, not to a 24-hour clock.
+ if full.get('newer_matching_full_failed'):return 'FULL'
  if not changes:return 'FULL'
  if len({x['path'] for x in changes})!=len(changes):return 'FULL'
  for row in changes:

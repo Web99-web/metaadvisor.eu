@@ -8,8 +8,6 @@ on:
         type: choice
         options: [AUTO, FULL]
         default: FULL
-  schedule:
-    - cron: '30 2 * * *'
 permissions:
   contents: read
   actions: read
@@ -92,7 +90,7 @@ jobs:
         with:
           name: editorial-full-proof-${{ github.sha }}
           path: ${{ runner.temp }}/editorial-build/full-proof.json
-          retention-days: 7
+          retention-days: 90
       - if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -136,3 +134,14 @@ jobs:
           path: ${{ runner.temp }}/verified/public
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Notify IndexNow of changed article URLs after successful deployment
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 -B tools/editorial/indexnow.py --public "$RUNNER_TEMP/verified/public" --report "$RUNNER_TEMP/indexnow-report.json" --send
+      - name: Preserve IndexNow result without another workflow
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: editorial-indexnow-${{ github.sha }}
+          path: ${{ runner.temp }}/indexnow-report.json
+          retention-days: 90

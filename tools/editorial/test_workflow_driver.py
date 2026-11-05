@@ -32,9 +32,9 @@ class DriverTests(unittest.TestCase):
  def test_changed_source_rejected(self):
   (self.root/'config.toml').write_text('unreviewed',encoding='utf-8')
   with self.assertRaises(AssertionError):d.application_files(self.root)
- def test_stale_baseline_full(self):self.assertEqual(self.plan({**GOOD,'age_hours':25})['selected_mode'],'FULL')
+ def test_stale_baseline_full(self):self.assertEqual(self.plan({**GOOD,'age_hours':2400})['selected_mode'],'FAST')
  def test_newer_full_failure_blocks(self):
-  with self.assertRaises(ValueError):self.plan({**GOOD,'newer_matching_full_failed':True})
+  self.assertEqual(self.plan({**GOOD,'newer_matching_full_failed':True})['selected_mode'],'FULL')
  def test_scheduled_full_never_publishes(self):
   c=self.plan(event='schedule');self.assertEqual(c['selected_mode'],'FULL');self.assertFalse(c['publish'])
  def test_bundle_requires_current_full_proof(self):

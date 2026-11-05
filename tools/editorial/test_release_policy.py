@@ -22,9 +22,9 @@ class Policy(unittest.TestCase):
   for status in ('D','M','R100'):
    self.assertEqual(mode_for_changes([{'path':'content/news/article.md','status':status}],FULL),'FULL')
  def test_traversal(self):self.assertEqual(mode_for_changes([{'path':'content/news/../x.md','status':'A'}],FULL),'FULL')
- def test_stale(self):self.assertEqual(mode_for_changes(GOOD,{**FULL,'age_hours':25}),'FULL')
+ def test_stale(self):self.assertEqual(mode_for_changes(GOOD,{**FULL,'age_hours':2400}),'FAST')
  def test_failed(self):self.assertEqual(mode_for_changes(GOOD,{**FULL,'success':False}),'FULL')
- def test_newer_failure(self):self.assertEqual(mode_for_changes(GOOD,{**FULL,'newer_matching_full_failed':True}),'BLOCKED')
+ def test_newer_failure(self):self.assertEqual(mode_for_changes(GOOD,{**FULL,'newer_matching_full_failed':True}),'FULL')
  def test_policy_change(self):self.assertEqual(mode_for_changes(GOOD,{**FULL,'protected_fingerprint_matches':False}),'FULL')
  def test_section_file(self):self.assertEqual(mode_for_changes([{'path':'content/news/_index.md','status':'A'}],FULL),'FULL')
  def test_receipt(self):

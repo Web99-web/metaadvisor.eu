@@ -33,16 +33,24 @@ def proof_file(artifact):
   names=[n for n in z.namelist() if Path(n).name=='full-proof.json'];assert len(names)==1
   info=z.getinfo(names[0]);assert info.file_size<=1048576
   return json.loads(z.read(names[0]))
+def recent_runs():
+ """Read additional pages only when the existing proof is not on the first page."""
+ for page in range(1,11):
+  batch=api('/actions/runs?branch=main&per_page=100&page='+str(page))['workflow_runs']
+  yield from batch
+  if len(batch)<100:return
 def latest_full(fingerprint):
  """Only successful same-repository main workflow receipts may authorize FAST."""
  empty={'success':False,'protected_fingerprint_matches':False,'age_hours':1e9,'finished_at_utc':'1970-01-01T00:00:00+00:00','newer_matching_full_failed':False}
  try:
-  runs=api('/actions/runs?branch=main&status=completed&per_page=30')['workflow_runs'];newer_failure=False
-  for run in runs:
+  # Include interrupted FULL runs; do not lose the proof after 30 article pushes.
+  newer_failure=False
+  for run in recent_runs():
    if run.get('path')!='.github/workflows/hugo.yml' or run.get('head_branch')!='main':continue
+   if str(run['id'])==os.environ.get('GITHUB_RUN_ID'):continue
    if run.get('conclusion')!='success':
     jobs=api('/actions/runs/'+str(run['id'])+'/jobs')['jobs']
-    if any(j['name'].startswith('FULL') and j.get('conclusion')=='failure' for j in jobs):newer_failure=True
+    if run.get('event') in ('workflow_dispatch','schedule') or any(j['name'].startswith('FULL') and j.get('conclusion')!='success' for j in jobs):newer_failure=True
     continue
    artifacts=api('/actions/runs/'+str(run['id'])+'/artifacts')['artifacts']
    for a in artifacts:

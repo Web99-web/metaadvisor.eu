@@ -174,7 +174,12 @@
     remember(value, choiceRevision);
   }
   async function locate() {
-    var controller = new AbortController(), timeout = w.setTimeout(function () { controller.abort(); }, 1500);
+    var embedded = w.MA_EDGE_REGION;
+    if (embedded && embedded.schema === 1 && /^[A-Z]{2}$/.test(embedded.country) && embedded.country !== 'XX') {
+      return {country:embedded.country, region:/^[A-Z0-9]{1,3}$/.test(embedded.region || '') ? embedded.region : '', source:'edge-metadata'};
+    }
+    var timeoutMs = Math.min(60000, Math.max(1000, Number(cfg.locationTimeoutMs) || 60000));
+    var controller = new AbortController(), timeout = w.setTimeout(function () { controller.abort(); }, timeoutMs);
     try {
       try {
         var edge = await w.fetch('/_ma/region', {cache: 'no-store', credentials: 'omit', signal: controller.signal});
