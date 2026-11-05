@@ -1,35 +1,169 @@
 {
-  "version": "2026-11-02-banner-1",
-  "automatic_analytics_countries": [
-    "AU"
-  ],
-  "prior_consent_countries": [
-    "HR",
-    "DE",
-    "GB",
-    "CH",
-    "JP"
-  ],
-  "default": "prior-consent-unreviewed",
-  "implementation_status": "LOCAL ONLY; automatic country modes require prepublication administrative and lawful-basis review. No deployment authorized.",
-  "US_rule": "Conditional local auto only for CA/CO/CT/TX with trusted edge region metadata and processor/basic-only requirements. Maryland, Washington, all other US states and unknown US subdivision remain prior-consent pending review. Not a blanket US exemption.",
+  "version": "2026-11-05-measurement-draft",
+  "location_timeout_ms": 60000,
+  "independent_aggregate_statistics": "Use existing Cloudflare zone HTTP analytics for unknown-location requests; requests and bots are not equivalent to human users or GA4 page views.",
+  "implementation_status": "LOCAL RELEASE CANDIDATE; owner confirmed measurement basis; Google account checks incomplete; not published.",
+  "US_rule": "Resolved through the trusted-region regulatory group; other US regions are unresolved, not automatically classified as consent-mandatory.",
   "AU_rule": "Reasonably necessary ordinary nonsensitive analytics; APP 3/5/6/8 collection notice, minimisation, purpose and overseas accountability must be verified. Not an advertising/sensitive-data exemption.",
-  "JP_rule": "Prior consent pending APPI recipient identification/linkage and foreign-transfer safeguards plus external-transmission disclosure applicability. No country-wide exemption assumed.",
+  "JP_rule": "Unresolved under existing pending assessment, not asserted legally identical to EU.",
   "privacy_signals": "GPC and DNT stop analytics in every country",
-  "geolocation": "first-party Cloudflare /cdn-cgi/trace loc only, no IP storage; missing/invalid/timeout uses prior consent",
-  "state_geolocation": "Prepared first-party /_ma/region endpoint reads request.cf metadata. No HTTP-header trust. NOT DEPLOYED. Trace fallback has country only, therefore cannot auto-enable US.",
+  "geolocation": "First-party /_ma/region active; asynchronous lookup, 60000 ms maximum; /cdn-cgi/trace fallback; no HTML injection.",
+  "state_geolocation": "Existing Cloudflare Worker prepares HTML metadata and /_ma/region from request.cf only, not client headers. Requires separate owner-approved Worker publication; a Pages deploy alone does not activate it. Trace fallback has no state.",
   "advertising": "All three advertising consent parameters remain denied independently",
   "prepublication_checks": "migration/ga4-prepublication-checklist.json",
-  "automatic_analytics_regions": [
-    "US-CA",
-    "US-CO",
-    "US-CT",
-    "US-TX"
-  ],
   "refusal_retention_countries": [
     "FR",
     "GB"
   ],
-  "refusal_reprompt": "Show on each page load after refusal outside FR/GB; UNKNOWN retains refusal. GPC/DNT remain respected."
+  "refusal_reprompt": "In prior-consent/banner regions, show the banner on every new page load after rejection or closing. Rejection continues to stop GA4 until explicit acceptance. No prompt just on focus; GPC/DNT do not trigger reprompt. Acceptance persistence is unchanged.",
+  "regional_policy": {
+    "schema": 1,
+    "default_regime": "unresolved",
+    "regimes": {
+      "automatic": {
+        "banner": false,
+        "description": "Documented applicable basic-analytics basis; transport decided independently of storage permission."
+      },
+      "prior_consent": {
+        "banner": true,
+        "description": "Applicable consent requirement; GA4 with storage only after explicit acceptance."
+      },
+      "unresolved": {
+        "banner": false,
+        "description": "Owner-requested global denied-storage measurement proposal; not a verified legal exemption. Explicit refusal/privacy signals stop measurement. Known prior-consent rules still take precedence.",
+        "ga4": "cookieless",
+        "basis_status": "UNVERIFIED_LOCAL_POLICY_PROPOSAL"
+      }
+    },
+    "jurisdiction_groups": {
+      "eea_device_consent": {
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "HR",
+          "CY",
+          "CZ",
+          "DK",
+          "EE",
+          "FI",
+          "FR",
+          "DE",
+          "GR",
+          "HU",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SK",
+          "SI",
+          "ES",
+          "SE",
+          "IS",
+          "LI",
+          "NO"
+        ]
+      },
+      "existing_device_consent": {
+        "countries": [
+          "GB",
+          "CH"
+        ]
+      },
+      "consent_no_applicable_exception": {
+        "countries": [
+          "AE",
+          "VN",
+          "PE"
+        ]
+      },
+      "basic_analytics_opt_out": {
+        "countries": [
+          "AU"
+        ]
+      },
+      "reviewed_us_basic_analytics": {
+        "regions": [
+          "US-CA",
+          "US-CO",
+          "US-CT",
+          "US-TX"
+        ],
+        "trusted_region_required": true
+      },
+      "basic_analytics_legitimate_interest": {
+        "countries": [
+          "BR",
+          "ZA"
+        ]
+      }
+    },
+    "rules": [
+      {
+        "id": "device-access-consent",
+        "groups": [
+          "eea_device_consent",
+          "existing_device_consent"
+        ],
+        "regime": "prior_consent",
+        "ga4": "after_acceptance",
+        "basis": "Existing device-access consent findings; no blanket cookieless exception."
+      },
+      {
+        "id": "personal-data-consent",
+        "groups": [
+          "consent_no_applicable_exception"
+        ],
+        "regime": "prior_consent",
+        "ga4": "after_acceptance",
+        "basis": "Existing findings: no applicable ordinary-GA4 exception established."
+      },
+      {
+        "id": "basic-opt-out",
+        "groups": [
+          "basic_analytics_opt_out",
+          "reviewed_us_basic_analytics"
+        ],
+        "regime": "automatic",
+        "ga4": "cookieless",
+        "basis": "Existing local draft basic-service/provider conditions; not a country-wide exemption for every analytics purpose."
+      },
+      {
+        "id": "basic-legitimate-interest",
+        "groups": [
+          "basic_analytics_legitimate_interest"
+        ],
+        "regime": "automatic",
+        "ga4": "cookieless",
+        "basis": "Existing BR/ZA local findings and proposed basic-only legitimate-interest profile; common EU-controller/provider prepublication checklist remains required."
+      }
+    ],
+    "precedence": [
+      "explicit_refusal_or_privacy_signal",
+      "explicit_acceptance",
+      "prior_consent",
+      "automatic",
+      "unresolved"
+    ],
+    "unresolved_measurement": {
+      "ga4": "cookieless_local_proposal_with_denied_storage",
+      "edge_aggregate": "existing_cloudflare_http_analytics",
+      "limitations": "HTTP requests are not unique people; no new client beacon or Google grant."
+    },
+    "change_rule": "New evidence changes jurisdiction-group/rule facts, not JavaScript country branches. No inferred law from continent, page language, missing geography or an unreviewed country.",
+    "no_banner_invariant": "For a fresh visitor after regional resolution, an automatically hidden banner requires enabled GA4 measurement. Explicit refusal, GPC/DNT and technical blocking remain measurement-off exceptions.",
+    "global_measurement_proposal": {
+      "enabled": true,
+      "transport": "cookieless",
+      "analytics_storage": "denied",
+      "publication_ready": false,
+      "basis_status": "Owner confirmation recorded in conversation; not independent legal certification"
+    }
+  }
 }
-

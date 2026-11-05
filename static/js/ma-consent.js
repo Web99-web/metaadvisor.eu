@@ -7,6 +7,7 @@
   var visitKey = 'ma_analytics_visit_v1', preferenceCookie = 'ma_analytics_choice', visitCookie = 'ma_analytics_visit';
   var visitIdle = 30 * 60 * 1000, choiceRecord = null, choiceRevision = 0, geoPromise = null;
   var loaded = false, sent = false, choice = null, mode = 'pending', country = 'UNKNOWN', region = '', geoSource = 'unknown';
+  var regionalDecision = {regime:'unresolved', rule:'location-pending', ga4:'off', banner:false};
   w.dataLayer = w.dataLayer || [];
   w.gtag = w.gtag || function () { w.dataLayer.push(arguments); };
   var disabled = 'ga-disable-' + id;
@@ -92,7 +93,10 @@
     try { storageArea('localStorage').setItem(key + '_signal', JSON.stringify(record)); storageArea('localStorage').removeItem(key + '_signal'); } catch (_) {}
   }
   function retainRefusal(countryCode) { return (cfg.refusalRetentionCountries || ['FR','GB']).indexOf(countryCode) !== -1 || countryCode === 'UNKNOWN'; }
-  function showRefusalBanner() { return choice === 'denied' && !retainRefusal(country) && !privacySignal(); }
+  function showRefusalBanner() {
+    // Reoffer the choice on a new page load in banner regions; never override refusal.
+    return choice === 'denied' && !privacySignal();
+  }
   function locationReady() {
     if (!geoPromise) geoPromise = locate().then(function (geo) { country=geo.country; region=geo.region; geoSource=geo.source; return geo; });
     return geoPromise;
@@ -143,6 +147,30 @@
     if (!value) return '';
     try { var u = new URL(value, w.location.href); return u.origin + u.pathname; } catch (_) { return ''; }
   }
+  function resolveRegionalPolicy(geo) {
+    var policy = cfg.regionalPolicy || {}, regimes = policy.regimes || {}, groups = policy.jurisdiction_groups || {};
+    var globalDraft = policy.global_measurement_proposal || {};
+    var draftMeasurement = globalDraft.enabled === true && globalDraft.transport === 'cookieless';
+    var unresolved = {regime:'unresolved', rule:draftMeasurement ? 'global-cookieless-local-proposal' : 'no-applicable-basis', ga4:draftMeasurement ? 'cookieless' : 'off', banner:!draftMeasurement};
+    if (policy.schema !== 1 || !geo || !/^[A-Z]{2}$/.test(geo.country) || geo.country === 'XX') return unresolved;
+    var matches = (policy.rules || []).filter(function (rule) {
+      return (rule.groups || []).some(function (name) {
+        var group = groups[name]; if (!group) return false;
+        if (group.trusted_region_required && geo.source !== 'edge-metadata') return false;
+        return (group.countries || []).indexOf(geo.country) !== -1 ||
+          (!!geo.region && (group.regions || []).indexOf(geo.country + '-' + geo.region) !== -1);
+      });
+    });
+    // A consent rule wins if later evidence creates an overlapping classification.
+    var selected = matches.find(function (r) { return r.regime === 'prior_consent'; }) ||
+      matches.find(function (r) { return r.regime === 'automatic' && !!r.basis && /^(cookies|cookieless)$/.test(r.ga4); });
+    if (!selected || !regimes[selected.regime]) return unresolved;
+    return {regime:selected.regime, rule:selected.id, ga4:selected.ga4, banner:regimes[selected.regime].banner === true};
+  }
+  function cookielessAllowed(why) {
+    return why === 'regional-policy' && !choice && !privacySignal() &&
+      (regionalDecision.regime === 'automatic' || regionalDecision.regime === 'unresolved') && regionalDecision.ga4 === 'cookieless';
+  }
   function startGA() {
     if (loaded) return;
     loaded = true;
@@ -154,13 +182,14 @@
   }
   function apply(allowed, why) {
     allowed = allowed && !privacySignal();
-    mode = allowed ? why : (privacySignal() ? 'privacy-signal' : why);
-    w[disabled] = !allowed;
+    var cookieless = !allowed && cookielessAllowed(why);
+    mode = cookieless ? 'cookieless-denied-storage' : (allowed ? why : (privacySignal() ? 'privacy-signal' : why));
+    w[disabled] = !(allowed || cookieless);
     var toggle = d.getElementById('ma-analytics-toggle'), status = d.getElementById('ma-cookie-status');
     if (toggle) { toggle.checked = !!allowed; toggle.disabled = privacySignal(); }
-    if (status) status.textContent = privacySignal() ? 'Analytics is off because your browser requests privacy protection.' : (allowed ? 'Analytics is on. Uncheck the optional box and save to turn it off.' : 'Analytics is off. Check the optional box and save to turn it on.');
+    if (status) status.textContent = privacySignal() ? 'Analytics is off because your browser requests privacy protection.' : (cookieless ? 'Basic measurement without analytics cookies is on. Save settings with the optional box unchecked to stop measurement.' : (allowed ? 'Analytics is on. Uncheck the optional box and save to turn it off.' : 'Analytics is off. Check the optional box and save to turn it on.'));
     w.gtag('consent', 'update', parameters(allowed));
-    if (!allowed) { clearAnalyticsCookies(); return; }
+    if (!allowed) { clearAnalyticsCookies(); if (!cookieless) return; }
     startGA();
     if (!sent) {
       sent = true;
@@ -214,8 +243,10 @@
     choice = stored();
     if (choice === 'granted') { apply(true,'stored-granted'); banner(false); return; }
     var bootRevision = choiceRevision;
-    // Resolve refusal-retention exceptions before deciding whether to ask again.
+    // Page rendering and footer controls do not wait on this asynchronous lookup.
+    // Unresolved geography offers a choice; it never grants Google permission.
     await locationReady();
+    regionalDecision = resolveRegionalPolicy({country:country, region:region, source:geoSource});
     if (choiceRevision !== bootRevision) return; // A newer explicit choice takes priority.
     if (choice || privacySignal()) {
       apply(choice === 'granted', choice ? 'stored-' + choice : 'privacy-signal'); banner(showRefusalBanner());
@@ -226,9 +257,10 @@
     }
     await locationReady();
     if (choice) return; // Never let late geography overwrite a click.
-    var auto = (cfg.automaticAnalyticsCountries || []).indexOf(country) !== -1 || (geoSource === 'edge-metadata' && country === 'US' && (cfg.automaticAnalyticsRegions || []).indexOf(country + '-' + region) !== -1);
+    var auto = regionalDecision.regime === 'automatic' && regionalDecision.ga4 === 'cookies';
     if (auto && !canRememberVisit()) { apply(false,'preference-storage-unavailable'); banner(false); return; }
-    apply(auto, auto ? 'reviewed-regional-opt-out' : 'prior-consent-required'); banner(!auto);
+    apply(auto, 'regional-policy');
+    banner(regionalDecision.banner);
   }
   function keepVisitActive() {
     if (choice !== 'denied' || !choiceRecord || choiceRecord.scope !== 'visit') return;
@@ -242,7 +274,7 @@
     w.addEventListener('keydown',keepVisitActive);
     w.addEventListener('storage', function (event) {
       if (event.key !== key + '_signal' || !event.newValue) return;
-      var record=fromJSON(event.newValue); if (!valid(record) || (choiceRecord && record.at < choiceRecord.at)) return;
+      var record=fromJSON(event.newValue); if (!valid(record) || (choiceRecord && (record.at < choiceRecord.at || (record.at === choiceRecord.at && record.analytics === choiceRecord.analytics)))) return;
       choiceRevision++; choice=record.analytics; choiceRecord=record;
       if (choice === 'denied') saveVisit(record);
       apply(choice === 'granted','shared-explicit-' + choice); banner(false);
@@ -253,7 +285,7 @@
       else if (remembered === 'granted') { choiceRevision++; choice='granted'; apply(true,'stored-granted'); banner(false); }
     });
   }
-  w.MAConsent = {acceptAnalytics: function () { choose('granted'); }, rejectAll: function () { choose('denied'); }, openSettings: function () { banner(true); }, state: function () { return {country: country, region: region, geoSource: geoSource, choiceScope: choiceRecord && choiceRecord.scope, choiceExpiresAt: choiceRecord && choiceRecord.expiresAt, mode: mode, loaded: loaded, pageViewSent: sent, analytics: !w[disabled], advertising: false}; }};
+  w.MAConsent = {acceptAnalytics: function () { choose('granted'); }, rejectAll: function () { choose('denied'); }, openSettings: function () { banner(true); }, state: function () { return {country: country, region: region, geoSource: geoSource, regionalRegime:regionalDecision.regime, regionalRule:regionalDecision.rule, choiceScope: choiceRecord && choiceRecord.scope, choiceExpiresAt: choiceRecord && choiceRecord.expiresAt, mode: mode, loaded: loaded, pageViewSent: sent, analytics: !w[disabled] && mode !== 'cookieless-denied-storage', measurementEnabled: !w[disabled], advertising: false}; }};
   if (d.readyState === 'loading') w.MAConsent.ready = new Promise(function (resolve) { d.addEventListener('DOMContentLoaded', function () { boot().then(resolve); }, {once: true}); });
   else w.MAConsent.ready = boot();
 })(window, document);
