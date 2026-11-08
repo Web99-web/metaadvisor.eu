@@ -164,8 +164,10 @@
     // A consent rule wins if later evidence creates an overlapping classification.
     var selected = matches.find(function (r) { return r.regime === 'prior_consent'; }) ||
       matches.find(function (r) { return r.regime === 'automatic' && !!r.basis && /^(cookies|cookieless)$/.test(r.ga4); });
-    if (!selected || !regimes[selected.regime]) return unresolved;
-    return {regime:selected.regime, rule:selected.id, ga4:selected.ga4, banner:regimes[selected.regime].banner === true};
+    if (selected && selected.regime === 'prior_consent') {
+      return {regime:selected.regime, rule:selected.id, ga4:selected.ga4, banner:true};
+    }
+    return {regime:'automatic', rule:selected ? selected.id : 'known-country-without-banner', ga4:'cookies', banner:false};
   }
   function cookielessAllowed(why) {
     return why === 'regional-policy' && !choice && !privacySignal() &&
