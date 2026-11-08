@@ -78,6 +78,7 @@ def main():
         if os.name=='nt': parts=[p.rstrip('. ') for p in parts]
         return '/'.join(parts)+'/index.html'
     primary_files = {file_key(r['url']) for r in expected}
+    primary_files.update(('index.html', 'hr/index.html', 'de/index.html'))
     mapping = {unquote(urlsplit(u).path): t for u, t in json.loads((ROOT / 'data/article_routes.json').read_text(encoding='utf-8'))['aliases'].items()}
     mime = json.loads((ROOT / 'migration/bundle-mime-migrations.json').read_text(encoding='utf-8'))
     for x in mime: mapping[unquote(urlsplit(x['old_url']).path)] = x['new_url']

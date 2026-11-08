@@ -47,6 +47,8 @@ def main():
         return path.rstrip('/') + '/index.html'
     alias_targets={target_file(u):t for u,t in json.loads((ROOT/'data/article_routes.json').read_text(encoding='utf8'))['aliases'].items()}
     expected_files={target_file(r['url']) for r in expected}
+    home_files = {'index.html', 'hr/index.html', 'de/index.html'}
+    for rel in sorted(home_files - present): errors.append(['homepage missing',rel])
     def json_images(value):
         found=[]
         if isinstance(value,dict):
@@ -84,7 +86,9 @@ def main():
             if rel in alias_targets:
                 if len(canon)!=1 or unquote(canon[0])!=unquote(alias_targets[rel]): errors.append(['article alias canonical incorrect',rel,canon])
                 if not any('noindex' in x for x in robots): errors.append(['article alias must be noindex',rel])
-            if rel not in expected_files and not any('noindex' in x for x in robots): errors.append(['auxiliary HTML must be noindex',rel])
+            noindex = any('noindex' in x for x in robots)
+            if rel in home_files and noindex: errors.append(['homepage must be indexable',rel])
+            if rel not in expected_files and rel not in home_files and not noindex: errors.append(['auxiliary HTML must be noindex',rel])
             if rel in expected_files:
                 if scripts.count('/js/ma-consent.js')!=1: errors.append(['preferred article must have one consent controller',rel,scripts])
                 if any('googletagmanager.com' in x for x in scripts): errors.append(['GA SDK must be consent-controlled, not eagerly loaded',rel])
