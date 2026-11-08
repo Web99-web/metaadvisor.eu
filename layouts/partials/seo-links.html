@@ -42,4 +42,4 @@
   {{- $u := index $.Site.Data.article_routes.aliases .URL | default .URL -}}
   {{- $mapped = $mapped | append (dict "Lang" .Lang "URL" $u) -}}
 {{- end -}}
-{{- return (dict "Canonical" $canonical "Alternates" $mapped "Noindex" (not $policy.Preferred)) -}}
+{{- return (dict "Canonical" $canonical "Alternates" $mapped "Noindex" (and (not .IsHome) (not $policy.Preferred))) -}}
