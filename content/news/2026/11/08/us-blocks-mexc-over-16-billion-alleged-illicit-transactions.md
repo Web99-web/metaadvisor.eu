@@ -64,8 +64,8 @@ This case illustrates how an exchange may continue to operate technically while 
 * **The customer-asset assurance comes from MEXC.** Users should monitor official notices and access to withdrawals in their own jurisdiction.
 * **Great UX is not a substitute for compliance.** An exchange can be easy to use while facing serious legal and financial-infrastructure risks.
 
-**Follow @MetaadvisorEU for more crypto, AI, finance and cybersecurity news.**
+**Follow Metaadvisor.eu for more news and analysis covering financial markets, technology, artificial intelligence and digital security.**
 
-*Created in collaboration with AI.*
+<small style="color:#757575; font-size:12px; font-weight:400; font-style:normal;">In collaboration with AI.</small>
 
-*Disclaimer: This article is for information only and does not constitute financial, investment or legal advice. Regulatory requirements and service availability may change.*
+**Disclaimer:** This article is for information only and does not constitute financial, investment or legal advice. Regulatory requirements and service availability may change.

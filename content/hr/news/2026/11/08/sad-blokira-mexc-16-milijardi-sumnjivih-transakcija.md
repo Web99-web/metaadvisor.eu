@@ -64,8 +64,8 @@ Ovaj slučaj pokazuje da državne mjere protiv burze mogu pogoditi pristup finan
 * **Tvrdnja da su sredstva sigurna dolazi od burze.** Korisnici trebaju odvojeno pratiti službene obavijesti, ograničenja za vlastitu državu i mogućnosti isplate.
 * **Regulacija i UX nisu ista stvar.** Platforma može biti izvrsna za trgovanje, a istodobno se suočavati s ozbiljnim pitanjima regulatorne usklađenosti.
 
-**Follow @MetaadvisorEU for more crypto, AI, finance and cybersecurity news.**
+**Pratite Metaadvisor.eu za više vijesti i analiza o financijskim tržištima, tehnologiji, umjetnoj inteligenciji i digitalnoj sigurnosti.**
 
-*U suradnji s AI-jem.*
+<small style="color:#757575; font-size:12px; font-weight:400; font-style:normal;">In collaboration with AI.</small>
 
-*Disclaimer: Sadržaj je informativnog karaktera i ne predstavlja financijski, investicijski ni pravni savjet. Regulatorne mjere i dostupnost usluga mogu se promijeniti.*
+**Napomena:** Sadržaj je informativnog karaktera i ne predstavlja financijski, investicijski ni pravni savjet. Regulatorne mjere i dostupnost usluga mogu se promijeniti.

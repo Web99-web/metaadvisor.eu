@@ -64,8 +64,8 @@ For investors, the crucial questions involve whether a token delivers rights equ
 * **Silence is not approval.** The absence of a publicly disclosed objection does not prove a company supports the venture.
 * **Shareholder rights matter more than token labels.** Traders need clear ownership, settlement and investor-protection arrangements.
 
-**Follow @MetaadvisorEU for more crypto, AI, technology and financial markets news.**
+**Follow Metaadvisor.eu for more news and analysis covering financial markets, technology, artificial intelligence and digital security.**
 
-*Created in collaboration with AI.*
+<small style="color:#757575; font-size:12px; font-weight:400; font-style:normal;">In collaboration with AI.</small>
 
-*Disclaimer: This article is for informational purposes only and is not financial, investment or legal advice. Regulatory conditions and the venue's status may change.*
+**Disclaimer:** This article is for informational purposes only and is not financial, investment or legal advice. Regulatory conditions and the venue's status may change.

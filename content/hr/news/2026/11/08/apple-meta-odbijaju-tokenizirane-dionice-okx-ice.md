@@ -64,8 +64,8 @@ Za ulagače su ključna pitanja posjedovanja stvarnih dioničarskih prava, nači
 * **Šutnja preostalih kompanija nije podrška.** Nedostatak javnog prigovora ne znači automatsko odobrenje.
 * **Prava vlasnika važnija su od tehnološkog pakiranja.** Korisnici moraju znati kupuju li ekvivalent dionice s pripadajućim pravima i koji rizici postoje.
 
-**Follow @MetaadvisorEU for more crypto, AI, technology and financial markets news.**
+**Pratite Metaadvisor.eu za više vijesti i analiza o financijskim tržištima, tehnologiji, umjetnoj inteligenciji i digitalnoj sigurnosti.**
 
-*U suradnji s AI-jem.*
+<small style="color:#757575; font-size:12px; font-weight:400; font-style:normal;">In collaboration with AI.</small>
 
-*Disclaimer: Sadržaj je informativnog karaktera i ne predstavlja financijski, investicijski ni pravni savjet. Pravila i status planiranog tržišta mogu se promijeniti.*
+**Napomena:** Sadržaj je informativnog karaktera i ne predstavlja financijski, investicijski ni pravni savjet. Pravila i status planiranog tržišta mogu se promijeniti.

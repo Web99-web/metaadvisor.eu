@@ -64,8 +64,8 @@ Der Fall zeigt, dass staatliche Maßnahmen den Zugang zu Finanzdienstleistungen 
 * **Die Aussage zu sicheren Kundengeldern stammt von MEXC.** Nutzer sollten offizielle Hinweise und Auszahlungsmöglichkeiten im eigenen Land beobachten.
 * **Benutzerfreundlichkeit ersetzt keine Regulierung.** Eine gute Trading-Plattform kann gleichzeitig erhebliche Compliance-Risiken aufweisen.
 
-**Follow @MetaadvisorEU for more crypto, AI, finance and cybersecurity news.**
+**Folgen Sie Metaadvisor.eu für weitere Nachrichten und Analysen zu Finanzmärkten, Technologie, künstlicher Intelligenz und digitaler Sicherheit.**
 
-*In Zusammenarbeit mit KI.*
+<small style="color:#757575; font-size:12px; font-weight:400; font-style:normal;">In collaboration with AI.</small>
 
-*Disclaimer: Dieser Beitrag dient ausschließlich der Information und ist keine Finanz-, Anlage- oder Rechtsberatung. Vorschriften und Dienstleistungen können sich ändern.*
+**Hinweis:** Dieser Beitrag dient ausschließlich der Information und ist keine Finanz-, Anlage- oder Rechtsberatung. Vorschriften und Dienstleistungen können sich ändern.

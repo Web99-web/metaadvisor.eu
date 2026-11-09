@@ -64,8 +64,8 @@ Für Anleger bleibt entscheidend, ob tokenisierte Aktien tatsächlich dieselben 
 * **Schweigen ist keine Zustimmung.** Ein fehlender öffentlicher Einspruch darf nicht als Unterstützung interpretiert werden.
 * **Aktionärsrechte bleiben zentral.** Die technische Form eines Tokens ersetzt keine Klarheit über Eigentum, Handel und Anlegerschutz.
 
-**Follow @MetaadvisorEU for more crypto, AI, technology and financial markets news.**
+**Folgen Sie Metaadvisor.eu für weitere Nachrichten und Analysen zu Finanzmärkten, Technologie, künstlicher Intelligenz und digitaler Sicherheit.**
 
-*In Zusammenarbeit mit KI.*
+<small style="color:#757575; font-size:12px; font-weight:400; font-style:normal;">In collaboration with AI.</small>
 
-*Disclaimer: Dieser Beitrag dient ausschließlich Informationszwecken und stellt keine Finanz-, Anlage- oder Rechtsberatung dar. Regeln und Projektstatus können sich ändern.*
+**Hinweis:** Dieser Beitrag dient ausschließlich Informationszwecken und stellt keine Finanz-, Anlage- oder Rechtsberatung dar. Regeln und Projektstatus können sich ändern.
