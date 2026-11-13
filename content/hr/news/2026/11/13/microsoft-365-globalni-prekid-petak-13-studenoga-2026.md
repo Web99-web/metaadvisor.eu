@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 pao na petak 13.: globalni prekid pogodio Outlook, Teams i poslovne sustave"
 slug: "microsoft-365-globalni-prekid-petak-13-studenoga-2026"
-date: "2026-11-13T10:00:00Z"
+date: "2026-11-13T09:00:00Z"
 category: "news"
 translationKey: "microsoft-365-outage-friday-13-2026"
 source: "Microsoft 365 Service Health; Reuters; Associated Press; Deutsche Welle"
