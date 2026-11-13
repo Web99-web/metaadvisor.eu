@@ -59,7 +59,11 @@
     {{ with $p.Params.image_note }}<p class="image-note" style="font-size:.9rem;color:#475569">{{ . }}</p>{{ end }}
     <h1 class="post-title">{{ $p.Title }}</h1>
     <div class="post-meta">
-      <time datetime="{{ $p.Date }}">{{ partial "reader-date.html" $p.Date }}</time>
+      {{ $displayDate := $p.Date }}
+      {{ if and $isNews (not $p.PublishDate.IsZero) }}{{ $displayDate = $p.PublishDate }}{{ end }}
+      {{ if not $displayDate.IsZero }}
+        <time datetime="{{ $displayDate.Format "2006-01-02T15:04:05Z07:00" }}">{{ partial "reader-date.html" $displayDate }}</time>
+      {{ end }}
       {{ if $isNews }}
         {{ with $p.Params.category }} · <a class="badge" href='{{ "/categories/" | relLangURL }}{{ . | urlize }}/'>{{ . }}</a>{{ end }}
         {{ with $p.Params.tags }} · {{ partial "article-tags.html" $p }}{{ end }}

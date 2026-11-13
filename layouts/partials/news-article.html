@@ -1,0 +1,25 @@
+{{- $page := .Page -}}
+{{- $links := partial "seo-links.html" $page -}}
+{{- if and (not $links.Noindex) (eq $links.Canonical $page.Permalink) -}}
+  {{- $publisher := dict "@type" "Organization" "name" "MetaAdvisor.eu" -}}
+  {{- $article := dict
+    "@context" "https://schema.org"
+    "@type" "NewsArticle"
+    "headline" $page.Title
+    "description" .Description
+    "image" .Image
+    "publisher" $publisher
+    "mainEntityOfPage" (dict "@type" "WebPage" "@id" $links.Canonical)
+    "inLanguage" $page.Lang
+  -}}
+  {{- if not $page.PublishDate.IsZero -}}
+    {{- $article = merge $article (dict "datePublished" ($page.PublishDate.Format "2006-01-02T15:04:05Z07:00")) -}}
+  {{- end -}}
+  {{- /* Legacy author values can identify sources or mixed credits. Only use explicit site attribution. */ -}}
+  {{- with $page.Params.author -}}
+    {{- if in (slice "metaadvisor.eu" "metaadvisor") (lower (trim (printf "%v" .) " \t\r\n")) -}}
+      {{- $article = merge $article (dict "author" $publisher) -}}
+    {{- end -}}
+  {{- end -}}
+<script type="application/ld+json">{{ $article | jsonify | safeJS }}</script>
+{{- end -}}

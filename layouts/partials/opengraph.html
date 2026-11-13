@@ -60,3 +60,7 @@
 <meta name="twitter:title" content="{{ $title }}">
 <meta name="twitter:description" content="{{ $desc }}">
 <meta name="twitter:image" content="{{ $abs }}">
+
+{{ if and .IsPage (or (eq .Section "news") (eq .Type "news")) }}
+  {{ partial "news-article.html" (dict "Page" . "Description" $desc "Image" $abs) }}
+{{ end }}
