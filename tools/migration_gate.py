@@ -70,7 +70,7 @@ class Head(HTMLParser):
   if tag=='link' and a.get('hreflang'):self.alternates+=1
   if tag=='a' and a.get('href'):self.links.append(a['href'])
 
-def resolve_pending(root,output,pending):
+def resolve_pending(root,output,pending,*,finalize_html=None):
  root=Path(root);output=Path(output).resolve();policy,mapping,approved,primary=load_policy(root);unresolved=[];resolved=[]
  targets={key(r['target']) for r in mapping.values()}
  def actual(url):
@@ -97,7 +97,9 @@ def resolve_pending(root,output,pending):
   elif action=='APPROVED_NOINDEX_COMPAT':
    if policy['schema']!=2 or not auxiliary(url) or k in primary:raise ValueError('Unsafe compatibility route')
    p=actual(url)
-   if not p.is_file() or p.read_bytes()!=document(url,decision):raise ValueError('Unverified compatibility document: '+url)
+   expected=document(url,decision)
+   if finalize_html:expected=finalize_html(url,expected)
+   if not p.is_file() or p.read_bytes()!=expected:raise ValueError('Unverified compatibility document: '+url)
    head=Head();head.feed(p.read_text(encoding='utf8'))
    if head.canon!=[url] or not any('noindex' in r.split(',') for r in head.robots) or head.alternates:raise ValueError('Wrong compatibility SEO policy')
    for theme in decision['themes']:

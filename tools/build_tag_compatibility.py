@@ -52,6 +52,7 @@ def main():
     ap = argparse.ArgumentParser(); ap.add_argument('--output', type=Path, required=True)
     ap.add_argument('--report', type=Path, required=True); ap.add_argument('--release-check', action='store_true')
     ap.add_argument('--migration-check', action='store_true', help='Run the same production migration guard without authorizing publication')
+    ap.add_argument('--final-html', action='store_true', help='Emit compatibility HTML with final release policy applied')
     args = ap.parse_args(); out = args.output.resolve(); start = time.perf_counter()
     if args.release_check:
         import subprocess,sys
@@ -92,6 +93,13 @@ def main():
     sys.path.insert(0, str(ROOT / 'tools'))
     from migration_gate import approved_documents
     jobs.extend(approved_documents(ROOT))
+    finalize = None
+    if args.final_html:
+        from finalize_release import finalize_compatibility_html, load_url_mapping
+        mapping, _ = load_url_mapping(ROOT)
+
+        def finalize(url, data):
+            return finalize_compatibility_html(data, path_for(url).as_posix(), mapping)
     for url, data in jobs:
         rel = path_for(url); key = str(rel) if os.name != 'nt' else os.path.normcase(str(rel))
         if key in routes or (out / rel).exists(): raise ValueError(f'Collision; refusing overwrite: {url}')
@@ -99,17 +107,22 @@ def main():
     for parent in sorted({(out/path_for(url)).parent for url,data in jobs},key=lambda p:(len(p.parts),str(p))):
         parent.mkdir(parents=True,exist_ok=True)
     def write(job):
-        url, data = job; p = out / path_for(url); p.write_bytes(data)
+        url, data = job; p = out / path_for(url)
+        if finalize:
+            data = finalize(url, data)
+        p.write_bytes(data)
         return {'url': url, 'file': p.relative_to(out).as_posix(), 'bytes': len(data)}
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool: emitted = list(pool.map(write, jobs))
     import sys
     sys.path.insert(0, str(ROOT / 'tools'))
     from migration_gate import resolve_pending
-    pending, resolved_pending = resolve_pending(ROOT, out, pending)
+    pending, resolved_pending = resolve_pending(ROOT, out, pending, finalize_html=finalize)
     result = {'platform': os.name, 'files_added': len(emitted), 'bytes_added': sum(x['bytes'] for x in emitted),
         'seconds': time.perf_counter() - start, 'files': emitted, 'pending': pending, 'resolved_pending': resolved_pending,
         'pending_counts': dict(collections.Counter(x['reason'] for x in pending)), 'route_decisions': decisions,
         'redirects_activated': 0, 'BC_RSS_generated': 0, 'empty_200_generated': 0}
+    if finalize:
+        result['finalized_html'] = True
     args.report.parent.mkdir(parents=True, exist_ok=True)
     args.report.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding='utf8')
     print(json.dumps({k: v for k, v in result.items() if k not in ('files', 'pending', 'route_decisions', 'resolved_pending')}, ensure_ascii=False), flush=True)

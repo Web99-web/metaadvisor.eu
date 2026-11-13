@@ -7,6 +7,37 @@ from release_articles import load_release_articles
 ROOT = Path(__file__).resolve().parents[1]
 DOMAIN = 'https://metaadvisor.eu'
 ATTR = re.compile(r"""(?P<name>[\w:-]+)\s*=\s*(?P<q>["'])(?P<value>.*?)(?P=q)""")
+
+
+def load_url_mapping(root):
+    mapping = {unquote(urlsplit(u).path): t for u, t in json.loads((root / 'data/article_routes.json').read_text(encoding='utf-8'))['aliases'].items()}
+    mime = json.loads((root / 'migration/bundle-mime-migrations.json').read_text(encoding='utf-8'))
+    mapping.update((unquote(urlsplit(x['old_url']).path), x['new_url']) for x in mime)
+    return mapping, mime
+
+
+def rewrite_attribute(match, policy):
+    if match['name'].lower() not in ('href', 'src', 'poster', 'content'):
+        return match[0]
+    value = policy.mapped(match['value'])
+    if value == match['value']:
+        return match[0]
+    return match['name'] + '=' + match['q'] + html.escape(value, quote=True) + match['q']
+
+
+def finalize_compatibility_html(raw, relative_path, mapping):
+    # Both compatibility renderers emit fixed markup, with URLs only in href
+    # attributes and no scripts or alternates. Text and attribute values are escaped.
+    text = raw.decode('utf-8').replace(
+        '<meta name="robots" content="noindex,follow">',
+        '<meta name="robots" content="noindex, follow">',
+    )
+    url = DOMAIN + '/' + relative_path.removesuffix('index.html')
+    policy = Policy('', url, False, mapping)
+    return re.sub(r'<(?:a|link)\s[^>]*>', lambda tag: ATTR.sub(
+        lambda attr: rewrite_attribute(attr, policy), tag[0]), text).encode('utf-8')
+
+
 class Policy(HTMLParser):
     def __init__(self, text, url, primary, mapping):
         super().__init__(convert_charrefs=False)
@@ -34,12 +65,7 @@ class Policy(HTMLParser):
             self.robot = True
             if not self.primary: new = '<meta name="robots" content="noindex, follow">'
         if not self.primary and tag == 'link' and a.get('hreflang'): new = ''
-        def fix(m):
-            if m['name'].lower() not in ('href', 'src', 'poster', 'content'): return m[0]
-            value = self.mapped(m['value'])
-            if value == m['value']: return m[0]
-            return m['name'] + '=' + m['q'] + html.escape(value, quote=True) + m['q']
-        if new == raw: new = ATTR.sub(fix, new)
+        if new == raw: new = ATTR.sub(lambda attr: rewrite_attribute(attr, self), new)
         if tag == 'script' and a.get('src') and any(x in a['src'] for x in ('googletagmanager.com', 'google-analytics.com', 'infolinks.com')):
             new = re.sub(r'\bsrc\s*=', 'data-ma-legacy-src=', new)
             new = re.sub(r"""\btype\s*=\s*(["']).*?\1""", '', new)
@@ -69,6 +95,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--output', type=Path, required=True)
     ap.add_argument('--report', type=Path, required=True)
+    ap.add_argument('--compat-report', type=Path)
     args = ap.parse_args(); out = args.output.resolve()
     if out == ROOT or ROOT in out.parents: raise SystemExit('Use an output outside the active repository')
     if not (out / 'sitemap.xml').is_file(): raise SystemExit('Expected Hugo output')
@@ -79,15 +106,20 @@ def main():
         return '/'.join(parts)+'/index.html'
     primary_files = {file_key(r['url']) for r in expected}
     primary_files.update(('index.html', 'hr/index.html', 'de/index.html'))
-    mapping = {unquote(urlsplit(u).path): t for u, t in json.loads((ROOT / 'data/article_routes.json').read_text(encoding='utf-8'))['aliases'].items()}
-    mime = json.loads((ROOT / 'migration/bundle-mime-migrations.json').read_text(encoding='utf-8'))
-    for x in mime: mapping[unquote(urlsplit(x['old_url']).path)] = x['new_url']
+    mapping, mime = load_url_mapping(ROOT)
+    finalized = set()
+    if args.compat_report:
+        report = json.loads(args.compat_report.read_text(encoding='utf-8'))
+        if report.get('finalized_html'):
+            finalized = {row['file'] for row in report['files']}
+            if finalized & primary_files:
+                raise ValueError('Compatibility report overlaps primary pages')
     def paths(directory):
         with os.scandir(directory) as entries:
             for entry in entries:
                 if entry.is_dir(follow_symlinks=False): yield from paths(Path(entry.path))
                 elif entry.is_file() and entry.name.endswith(('.html', '.json')): yield Path(entry.path)
-    files = list(paths(out))
+    files = [p for p in paths(out) if p.relative_to(out).as_posix() not in finalized]
     def patch(p):
         rel = p.relative_to(out).as_posix(); raw = p.read_text(encoding='utf-8'); new = raw
         url = DOMAIN + '/' + rel.removesuffix('index.html')
