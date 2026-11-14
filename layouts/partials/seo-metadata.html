@@ -2,6 +2,9 @@
 {{ if $links.Noindex }}
 <meta name="robots" content="noindex, follow">
 {{ else }}
+{{ if (partial "article-policy.html" .).Preferred }}
+<meta name="robots" content="index, follow">
+{{ end }}
 {{ range $links.Alternates }}
 <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .URL }}">
 {{ if eq .Lang "en" }}<link rel="alternate" hreflang="x-default" href="{{ .URL }}">{{ end }}
