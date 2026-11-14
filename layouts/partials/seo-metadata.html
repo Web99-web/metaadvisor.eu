@@ -2,7 +2,7 @@
 {{ if $links.Noindex }}
 <meta name="robots" content="noindex, follow">
 {{ else }}
-{{ if (partial "article-policy.html" .).Preferred }}
+{{ if or (partial "article-policy.html" .).Preferred (and .IsHome (eq $links.Canonical .Permalink)) }}
 <meta name="robots" content="index, follow">
 {{ end }}
 {{ range $links.Alternates }}
