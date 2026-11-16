@@ -1,7 +1,7 @@
 ---
 title: "SanDisk splittet Aktien, MEXC warnt Futures-Händler"
 slug: "sandisk-aktiensplit-mexc-warnt-futures-haendler"
-date: "2026-11-16T23:01:00Z"
+date: "2026-11-17T00:01:00+01:00"
 category: "markets"
 translationKey: "sandisk-stock-split-mexc-futures-2026-11-17"
 source: "SanDisk Corporation; SanDisk Investor Relations; MEXC"
