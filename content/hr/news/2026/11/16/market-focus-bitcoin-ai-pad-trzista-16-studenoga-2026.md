@@ -1,7 +1,7 @@
 ---
 title: "Market Focus: Bitcoin i AI pod pritiskom"
 slug: "market-focus-bitcoin-ai-pad-trzista-16-studenoga-2026"
-date: "2026-11-16T17:00:00Z"
+date: "2026-11-16T16:00:00Z"
 category: "finance"
 translationKey: "market-focus-crypto-ai-selloff-2026-11-16"
 source: "Farside Investors; Reuters; U.S. Bureau of Industry and Security; Taiwan Central News Agency; Anadolu Agency; Wall Street Journal; Financial Times"

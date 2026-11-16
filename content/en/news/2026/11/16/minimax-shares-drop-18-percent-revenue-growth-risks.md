@@ -1,7 +1,7 @@
 ---
 title: "MiniMax Drops 18%: Opportunity or Warning Sign?"
 slug: "minimax-shares-drop-18-percent-revenue-growth-risks"
-date: "2026-11-16T17:00:00Z"
+date: "2026-11-16T16:00:00Z"
 category: "ai"
 translationKey: "minimax-stock-falls-18-percent-revenue-growth-2026-11-16"
 source: "Hong Kong Exchanges and Clearing; MiniMax Group interim report; MiniMax investor relations; Reuters; Financial Times; Stock Analysis market data"

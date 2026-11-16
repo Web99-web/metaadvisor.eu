@@ -1,7 +1,7 @@
 ---
 title: "Nvidia After Huang: Comeback or New Beginning?"
 slug: "nvidia-after-huang-comeback-or-new-beginning"
-date: "2026-11-16T17:00:00Z"
+date: "2026-11-16T16:00:00Z"
 category: "technology"
 translationKey: "nvidia-huang-comeback-chip-export-2026-11-16"
 source: "Nvidia Newsroom; U.S. Securities and Exchange Commission; Financial Times; Reuters; U.S. Bureau of Industry and Security; CBS News"
