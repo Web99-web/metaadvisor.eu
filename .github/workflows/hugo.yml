@@ -99,9 +99,37 @@ jobs:
             ${{ runner.temp }}/editorial-build/*.json
             ${{ runner.temp }}/editorial-build/*.log
           retention-days: 3
-  deploy:
+  package_pages:
     if: needs.plan.outputs.publish == 'true'
     needs: [plan, verify]
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+      actions: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - uses: actions/download-artifact@v4
+        with:
+          name: editorial-plan-${{ github.sha }}
+          path: ${{ runner.temp }}/plan
+      - uses: actions/download-artifact@v4
+        with:
+          name: editorial-verified-${{ github.sha }}
+          path: ${{ runner.temp }}/verified
+      - name: Verify exact artifact and current main before upload
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          RECEIPT_HASH: ${{ needs.verify.outputs.receipt_sha256 }}
+        run: python3 -B tools/editorial/workflow_driver.py verify-bundle --context "$RUNNER_TEMP/plan/context.json" --bundle "$RUNNER_TEMP/verified" --receipt-hash "$RECEIPT_HASH"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/verified/public
+  deploy:
+    if: needs.plan.outputs.publish == 'true'
+    needs: [plan, verify, package_pages]
     runs-on: ubuntu-24.04
     permissions:
       contents: read
@@ -129,31 +157,6 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           RECEIPT_HASH: ${{ needs.verify.outputs.receipt_sha256 }}
         run: python3 -B tools/editorial/workflow_driver.py verify-bundle --context "$RUNNER_TEMP/plan/context.json" --bundle "$RUNNER_TEMP/verified" --receipt-hash "$RECEIPT_HASH"
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: ${{ runner.temp }}/verified/public
-      - name: Wait for GitHub Pages artifact indexing
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          for attempt in $(seq 1 18); do
-            count="$(curl --fail --silent --show-error --retry 3 \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              -H "Accept: application/vnd.github+json" \
-              "https://api.github.com/repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?per_page=100" \
-              | python3 -c 'import json,sys; a=json.load(sys.stdin)["artifacts"]; print(sum(x["name"]=="github-pages" and not x["expired"] for x in a))')"
-            if [ "$count" = "1" ]; then
-              echo "Exactly one github-pages artifact is visible to the GitHub API."
-              exit 0
-            fi
-            if [ "$count" -gt 1 ]; then
-              echo "::error::Multiple github-pages artifacts in this run; refusing deployment."
-              exit 1
-            fi
-            sleep 5
-          done
-          echo "::error::github-pages artifact was not indexed within 90 seconds."
-          exit 1
       - id: deployment
         uses: actions/deploy-pages@v4
       - name: Notify IndexNow of changed article URLs after successful deployment
