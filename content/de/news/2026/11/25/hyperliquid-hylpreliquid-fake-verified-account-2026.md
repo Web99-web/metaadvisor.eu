@@ -44,7 +44,7 @@ Am 25. November 2026 stießen wir auf der Plattform X auf einen Beitrag, der den
 
 Das Gehirn korrigiert den falsch geschriebenen Namen praktisch von selbst. Wir lesen nicht immer jeden einzelnen Buchstaben, sondern erkennen das Wort, das wir zu sehen erwarten. Wenn wir dazu noch Hunderttausende Follower, einen goldenen Verifizierungshaken und ein vertrautes Erscheinungsbild sehen, gehen wir leicht automatisch davon aus, dass es sich um ein offizielles Konto handelt. Genau darin liegt die größte Gefahr dieser Geschichte.
 
-![Gefälschtes Hyperliquid-Profil](/images/hack/Hyperliquid-Fake-Profile.jpg)
+<img src="/images/hack/Hyperliquid-Fake-Profile.jpg" alt="Gefälschtes Hyperliquid-Profil" loading="lazy" style="display:block;width:100%;max-width:420px;height:auto;margin:1.25rem auto;" />
 
 *Original-Screenshot von X, 25. November 2026. Foto: Metaadvisor.eu.*
 
@@ -63,7 +63,7 @@ Die angeblichen 38,8 Millionen HYPE-Token sollen auf vier Gruppen verteilt werde
 
 Alles wird als legitime Aktivität einer bestehenden Community dargestellt. Es wird sogar betont, dass keine Gruppe leer ausgehen werde, unabhängig vom Ergebnis der Abstimmung.
 
-![Gefälschte Ankündigung von Hyperliquid Season 3](/images/hack/Hyperliquid-Fake-Season-3-Post.jpg)
+<img src="/images/hack/Hyperliquid-Fake-Season-3-Post.jpg" alt="Gefälschte Ankündigung von Hyperliquid Season 3" loading="lazy" style="display:block;width:100%;max-width:420px;height:auto;margin:1.25rem auto;" />
 
 *Original-Screenshot des Beitrags auf X, 25. November 2026. Foto: Metaadvisor.eu.*
 

@@ -44,7 +44,7 @@ Na društvenoj mreži X 25. studenoga 2026. naišli smo na objavu koja najavljuj
 
 Mozak praktički sam ispravlja pogrešno napisano ime. Ne čitamo uvijek svako pojedino slovo, nego prepoznajemo riječ koju očekujemo vidjeti. Kada uz to vidimo stotine tisuća pratitelja, zlatnu verifikacijsku oznaku i poznati vizualni identitet, vrlo lako možemo automatski pretpostaviti da je riječ o službenom računu. I upravo je to najopasniji dio cijele priče.
 
-![Lažni Hyperliquid profil](/images/hack/Hyperliquid-Fake-Profile.jpg)
+<img src="/images/hack/Hyperliquid-Fake-Profile.jpg" alt="Lažni Hyperliquid profil" loading="lazy" style="display:block;width:100%;max-width:420px;height:auto;margin:1.25rem auto;" />
 
 *Originalna snimka zaslona platforme X, 25. studenoga 2026. Foto: Metaadvisor.eu.*
 
@@ -63,7 +63,7 @@ Navodnih 38,8 milijuna HYPE tokena raspodijelilo bi se između četiri skupine:
 
 Sve je predstavljeno kao legitimna aktivnost postojeće zajednice. Čak se naglašava da nijedna skupina neće ostati bez tokena, neovisno o rezultatima glasovanja.
 
-![Lažna objava Hyperliquid Season 3](/images/hack/Hyperliquid-Fake-Season-3-Post.jpg)
+<img src="/images/hack/Hyperliquid-Fake-Season-3-Post.jpg" alt="Lažna objava Hyperliquid Season 3" loading="lazy" style="display:block;width:100%;max-width:420px;height:auto;margin:1.25rem auto;" />
 
 *Originalna snimka zaslona objave na platformi X, 25. studenoga 2026. Foto: Metaadvisor.eu.*
 

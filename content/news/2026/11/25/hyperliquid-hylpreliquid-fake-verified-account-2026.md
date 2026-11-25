@@ -44,7 +44,7 @@ On November 25, 2026, we came across a post on X announcing the start of the thi
 
 The brain practically corrects the misspelled name on its own. We do not always read every individual letter; instead, we recognise the word we expect to see. When we also see hundreds of thousands of followers, a gold verification badge and familiar branding, it is easy to automatically assume that the account is official. And that is precisely the most dangerous part of this story.
 
-![Fake Hyperliquid profile](/images/hack/Hyperliquid-Fake-Profile.jpg)
+<img src="/images/hack/Hyperliquid-Fake-Profile.jpg" alt="Fake Hyperliquid profile" loading="lazy" style="display:block;width:100%;max-width:420px;height:auto;margin:1.25rem auto;" />
 
 *Original screenshot from X, November 25, 2026. Photo: Metaadvisor.eu.*
 
@@ -63,7 +63,7 @@ The alleged 38.8 million HYPE tokens would be distributed among four groups:
 
 Everything is presented as a legitimate activity within an existing community. The post even emphasises that no group will be left without tokens, regardless of the voting results.
 
-![Fake Hyperliquid Season 3 announcement](/images/hack/Hyperliquid-Fake-Season-3-Post.jpg)
+<img src="/images/hack/Hyperliquid-Fake-Season-3-Post.jpg" alt="Fake Hyperliquid Season 3 announcement" loading="lazy" style="display:block;width:100%;max-width:420px;height:auto;margin:1.25rem auto;" />
 
 *Original screenshot of the post on X, November 25, 2026. Photo: Metaadvisor.eu.*
 
