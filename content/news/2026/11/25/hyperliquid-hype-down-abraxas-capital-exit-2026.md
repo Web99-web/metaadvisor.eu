@@ -2,9 +2,9 @@
 title: "Why is HYPE falling? Abraxas leaves Hyperliquid after $552 million in profits"
 slug: "hyperliquid-hype-down-abraxas-capital-exit-2026"
 date: "2026-11-25T13:00:00+01:00"
-category: "markets"
+category: "crypto"
 translationKey: "hyperliquid-hype-down-abraxas-capital-exit-2026-11-25"
-source: "Lookonchain; Crypto.news; Unchained; Cointelegraph; Bitquery; SFC Hong Kong; Tokenomics.com"
+source: "Lookonchain; Crypto.news; Unchained; Cointelegraph; Bitquery; Securities and Futures Commission Hong Kong; Tokenomics.com; CoinStats; Metaadvisor.eu archive (2026-10-01)"
 source_url: ""
 author: "Metaadvisor.eu"
 image_url: "/images/Hyperliquid.png"
@@ -16,7 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["HYPE", "Hyperliquid", "Abraxas Capital", "Ethereum", "DeFi", "Token Unlock", "Crypto Market", "Liquidations", "Lighter", "Crypto Security"]
 description: "HYPE fell nearly 8% in 24 hours as Abraxas Capital exited Hyperliquid after estimated profits of more than half a billion dollars."
 summary: "Abraxas Capital withdrew its remaining capital from Hyperliquid. Security incidents, regulatory pressure, liquidations and a potential token unlock are weighing on the market."
-categories: ["markets"]
+categories: ["crypto"]
 ---
 
 *Cover image is illustrative.*
@@ -78,7 +78,5 @@ The departure of a major institutional trader, security incidents, regulatory pr
 **Follow Metaadvisor.eu for more independent news and analysis on crypto, AI, technology and business.**
 
 <small style="color:#757575; font-size:12px; font-weight:400; font-style:normal;">In collaboration with AI.</small>
-
-**Sources:** Lookonchain; Crypto.news; Unchained; Cointelegraph; Bitquery; Securities and Futures Commission Hong Kong; Tokenomics.com; CoinStats; Metaadvisor.eu archive (October 1, 2026).
 
 **Note:** Market data refer to November 25, 2026, and may change. Abraxas's reason for leaving and the precise unlock schedule remain unconfirmed. This content is informational and does not constitute financial or investment advice.

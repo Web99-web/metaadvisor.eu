@@ -2,9 +2,9 @@
 title: "Zašto HYPE pada? Abraxas napustio Hyperliquid nakon 552 milijuna dolara dobiti"
 slug: "hyperliquid-hype-down-abraxas-capital-exit-2026"
 date: "2026-11-25T13:00:00+01:00"
-category: "markets"
+category: "crypto"
 translationKey: "hyperliquid-hype-down-abraxas-capital-exit-2026-11-25"
-source: "Lookonchain; Crypto.news; Unchained; Cointelegraph; Bitquery; SFC Hong Kong; Tokenomics.com"
+source: "Lookonchain; Crypto.news; Unchained; Cointelegraph; Bitquery; Securities and Futures Commission Hong Kong; Tokenomics.com; CoinStats; Metaadvisor.eu archive (2026-10-01)"
 source_url: ""
 author: "Metaadvisor.eu"
 image_url: "/images/Hyperliquid.png"
@@ -16,7 +16,7 @@ image_credit: "Metaadvisor.eu"
 tags: ["HYPE", "Hyperliquid", "Abraxas Capital", "Ethereum", "DeFi", "Token Unlock", "Crypto Market", "Liquidations", "Lighter", "Crypto Security"]
 description: "HYPE je pao gotovo 8% u 24 sata. Abraxas Capital napustio je Hyperliquid nakon više od pola milijarde dolara procijenjene dobiti."
 summary: "Abraxas Capital povukao je preostali kapital s Hyperliquida. Sigurnosni incidenti, regulatorni pritisak, likvidacije i očekivano otključavanje tokena dodatno opterećuju tržište."
-categories: ["markets"]
+categories: ["crypto"]
 ---
 
 *Naslovna slika je ilustrativna.*
@@ -78,7 +78,5 @@ Odlazak velikog institucionalnog trgovca, sigurnosni incidenti, regulatorni prit
 **Pratite Metaadvisor.eu za više neovisnih vijesti i analiza o kriptovalutama, umjetnoj inteligenciji, tehnologiji i poslovanju.**
 
 <small style="color:#757575; font-size:12px; font-weight:400; font-style:normal;">In collaboration with AI.</small>
-
-**Izvori:** Lookonchain; Crypto.news; Unchained; Cointelegraph; Bitquery; Securities and Futures Commission Hong Kong; Tokenomics.com; CoinStats; arhiva Metaadvisor.eu (01.10.2026.).
 
 **Napomena:** Tržišni podaci odnose se na 25. studenoga 2026. i podložni su promjenama. Razlog odlaska Abraxasa i točan raspored otključavanja nisu potvrđeni. Sadržaj je informativan i ne predstavlja financijski ni investicijski savjet.
